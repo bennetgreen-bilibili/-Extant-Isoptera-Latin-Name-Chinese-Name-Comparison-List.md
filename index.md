@@ -2,6 +2,7 @@
 layout: default
 title: Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List
 ---
+<meta name="google-site-verification" content="UgTDesQYwnBYDDIKYr9N0H_3YSh8tM3mSk5cgCieZkw" />
 
 # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.17）正式版
 
