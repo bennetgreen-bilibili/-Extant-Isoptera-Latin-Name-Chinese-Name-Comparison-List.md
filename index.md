@@ -1,8 +1,61 @@
 ---
 layout: default
-title: Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List
+title: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）正式版
+description: 现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3008 种、63 亚种的拉丁学名—中文正名，含模式种标记、分布信息与 77 篇参考文献（附 DOI 链接）。作者班奈特格林，2026-10-17 正式版，注明作者可免费引用。
+lang: zh-CN
+author: 班奈特格林
+date: 2026-10-17
+version: 2026.10.17
+keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录, 分类, 白蚁科, Termitidae, Mastotermes]
+permalink: /
 ---
+
 <meta name="google-site-verification" content="UgTDesQYwnBYDDIKYr9N0H_3YSh8tM3mSk5cgCieZkw" />
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）",
+  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
+  "description": "现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3008 种、63 亚种的拉丁学名—中文正名，含模式种标记、分布信息与 77 篇参考文献。",
+  "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+  "datePublished": "2026-10-13",
+  "dateModified": "2026-10-17",
+  "version": "2026.10.17",
+  "inLanguage": "zh-CN",
+  "creator": {
+    "@type": "Person",
+    "name": "班奈特格林"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "白蚁",
+    "等翅目",
+    "Isoptera",
+    "学名",
+    "中文名",
+    "分类",
+    "Termitidae",
+    "名录"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/isoptera-data.json"
+    }
+  ],
+  "citation": [
+    "Krishna K, Grimaldi DA, Krishna V, Engel MS. Treatise on the Isoptera of the world. Bull Am Mus Nat Hist. 2013; 377:1-2704. doi: 10.1206/377.1.",
+    "Engel MS, Grimaldi DA, Krishna K. Termites (Isoptera): their phylogeny, classification, and rise to ecological dominance. Am Mus Novit. 2009; 3650:1-27. doi: 10.1206/651.1.",
+    "Hellemans S, et al. Genomic data provide insights into the classification of extant termites. Nat Commun. 2024; 15:6724. doi: 10.1038/s41467-024-51028-y."
+  ]
+}
+</script>
+
 # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.17）正式版
 
 > 出处：bilibili: 班奈特格林 编，个人制作，免费发布，注明作者可随意参考使用。
@@ -10,46 +63,58 @@ title: Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List
 > 本版为单文件完整版：已删全部链接与图片引用；长段落按句断行，每行不超过 50 字符。
 > 名录部分主要参考：《白蚁学》、《世界白蚁中文名录》、《中国动物志》等。
 
-## 目录（科/亚科级）
+## 关于本名录（引用与版本）
 
-- 澳白蚁科 MASTOTERMITIDAE
-- 古白蚁科 ARCHOTERMOPSIDAE
-- 草白蚁科 HODOTERMITIDAE
-- 原白蚁科 HODOTERMOPSIDAE
-- 胄白蚁科 STOLOTERMITIDAE
-- 木白蚁科 KALOTERMITIDAE
-- 沙白蚁科 PSAMMOTERMITIDAE
-- 鼻白蚁科 RHINOTERMITIDAE
-- 齿白蚁科 SERRITERMITIDAE
-- 杆白蚁科 STYLOTERMITIDAE
-- 寡脉白蚁科 TERMITOGETONIDAE
-- 异白蚁科 HETEROTERMITIDAE
-- 白蚁科 TERMITIDAE
-- 弓白蚁亚科 Amitermitinae
-- 尖白蚁亚科 Apicotermitinae
-- 响白蚁亚科 Crepititermitinae
-- 方白蚁亚科 Cubitermitinae
-- 圆筒白蚁亚科 Cylindrotermitinae
-- 恩格尔白蚁亚科 Engelitermitinae
-- 孔白蚁亚科 Foraminitermitinae
-- 剪白蚁亚科 Forficulitermitinae
-- 大白蚁亚科 Macrotermitinae
-- 锯白蚁亚科 Microcerotermitinae
-- 瘤白蚁亚科 Mirocapritermitinae
-- 象白蚁亚科 Nasutitermitinae
-- 新扭白蚁亚科 Neocapritermitinae
-- 前奇白蚁亚科 Promirotermitinae
-- 始钩白蚁亚科 Protohamitermitinae
-- 圆球白蚁亚科 Sphaerotermitinae
-- 聚白蚁亚科 Syntermitinae
-- 白蚁亚科 Termitinae
+**作者**：班奈特格林（bilibili）　**版本**：2026.10.17 正式版（单文件完整版）
+**收录**：13 科、323 属、3008 种、63 亚种；`*` 表示模式种；(N) 为文末参考文献编号。
+**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0）。
+**机器可读数据**：本页配套结构化数据 [`isoptera-data.json`](isoptera-data.json)（JSON-LD Dataset，按 科—亚科—属—种 层级提取，数量已与正文核对一致），便于检索、统计与程序化引用。
+
+**建议引用格式**（APA）：
+> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/.
 
 ---
-## (2026.10.13正式版) 现存等翅下目 Extant Isoptera
+
+## 目录（科/亚科级）
+
+- [澳白蚁科 MASTOTERMITIDAE](#mastotermitidae)
+- [古白蚁科 ARCHOTERMOPSIDAE](#archotermopsidae)
+- [草白蚁科 HODOTERMITIDAE](#hodotermitidae)
+- [原白蚁科 HODOTERMOPSIDAE](#hodotermopsidae)
+- [胄白蚁科 STOLOTERMITIDAE](#stolotermitidae)
+- [木白蚁科 KALOTERMITIDAE](#kalotermitidae)
+- [沙白蚁科 PSAMMOTERMITIDAE](#psammotermitidae)
+- [鼻白蚁科 RHINOTERMITIDAE](#rhinotermitidae)
+- [齿白蚁科 SERRITERMITIDAE](#serritermitidae)
+- [杆白蚁科 STYLOTERMITIDAE](#stylotermitidae)
+- [寡脉白蚁科 TERMITOGETONIDAE](#termitogetonidae)
+- [异白蚁科 HETEROTERMITIDAE](#heterotermitidae)
+- [白蚁科 TERMITIDAE](#termitidae)
+- [弓白蚁亚科 Amitermitinae](#amitermitinae)
+- [尖白蚁亚科 Apicotermitinae](#apicotermitinae)
+- [响白蚁亚科 Crepititermitinae](#crepititermitinae)
+- [方白蚁亚科 Cubitermitinae](#cubitermitinae)
+- [圆筒白蚁亚科 Cylindrotermitinae](#cylindrotermitinae)
+- [恩格尔白蚁亚科 Engelitermitinae](#engelitermitinae)
+- [孔白蚁亚科 Foraminitermitinae](#foraminitermitinae)
+- [剪白蚁亚科 Forficulitermitinae](#forficulitermitinae)
+- [大白蚁亚科 Macrotermitinae](#macrotermitinae)
+- [锯白蚁亚科 Microcerotermitinae](#microcerotermitinae)
+- [瘤白蚁亚科 Mirocapritermitinae](#mirocapritermitinae)
+- [象白蚁亚科 Nasutitermitinae](#nasutitermitinae)
+- [新扭白蚁亚科 Neocapritermitinae](#neocapritermitinae)
+- [前奇白蚁亚科 Promirotermitinae](#promirotermitinae)
+- [始钩白蚁亚科 Protohamitermitinae](#protohamitermitinae)
+- [圆球白蚁亚科 Sphaerotermitinae](#sphaerotermitinae)
+- [聚白蚁亚科 Syntermitinae](#syntermitinae)
+- [白蚁亚科 Termitinae](#termitinae)
+
+---
+## (2026.10.13正式版) 现存等翅下目 Extant Isoptera {: #isoptera }
 
 现存等翅下目 Extant Isoptera
 
-## 澳白蚁科 MASTOTERMITIDAE
+## 澳白蚁科 MASTOTERMITIDAE {: #mastotermitidae }
 
 澳白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)。
 模式属为澳白蚁属 Mastotermes Froggatt, 1897（模式种达尔文澳白蚁
@@ -77,16 +142,16 @@ Mastotermes 一般释为希腊文 mastos（乳房状突起）与 termes 组合�
 该种另在澳大利亚境内向南扩展至黄金海岸（Gold Coast，约在本土分布南界以南800 km），
 属本土范围内的扩散。
 
-#### 澳白蚁属 Mastotermes
+#### 澳白蚁属 Mastotermes {: #mastotermes }
 
 \*Mastotermes darwiniensis 达尔文澳白蚁（澳大利亚北部、热带北部地区、
 引入：巴布亚新几内亚）
 
-## 真等翅类 Euisoptera
+## 真等翅类 Euisoptera {: #euisoptera }
 
-## 远等翅类 Teletisoptera
+## 远等翅类 Teletisoptera {: #teletisoptera }
 
-## 古白蚁科 ARCHOTERMOPSIDAE
+## 古白蚁科 ARCHOTERMOPSIDAE {: #archotermopsidae }
 
 古白蚁科由 Engel、
 Grimaldi 与 Krishna 于 2009 年建立（Engel, Grimaldi &
@@ -112,13 +177,13 @@ Zootermopsis nevadensis
 
 Archotermopsis kuznetsovi 库兹涅佐夫古白蚁
 
-#### 古白蚁属 Archotermopsis
+#### 古白蚁属 Archotermopsis {: #archotermopsis }
 
 Archotermopsis kuznetsovi 库兹涅佐夫古白蚁（中国、越南）
 
 \*Archotermopsis wroughtoni 罗夫顿古白蚁（南亚、中国）
 
-#### 动白蚁属 Zootermopsis
+#### 动白蚁属 Zootermopsis {: #zootermopsis }
 
 \*Zootermopsis angusticollis 狭颈动白蚁（北美西海岸、美国、加拿大不列颠哥伦比亚、
 墨西哥；引入：夏威夷（美国））
@@ -132,7 +197,7 @@ nevadensis 指名亚种
 
 nuttingi 纳丁亚种
 
-## 草白蚁科 HODOTERMITIDAE
+## 草白蚁科 HODOTERMITIDAE {: #hodotermitidae }
 
 草白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)，
 模式属为草白蚁属 Hodotermes Hagen, 1853。
@@ -154,7 +219,7 @@ nuttingi 纳丁亚种
 是中亚危害民居与历史建筑木构件的严重害虫(9)，
 小草白蚁属 Microhodotermes viator 在南非卡鲁危害牧场牧草(10)。
 
-#### 无刺白蚁属 Anacanthotermes
+#### 无刺白蚁属 Anacanthotermes {: #anacanthotermes }
 
 Anacanthotermes ahngerianus 安格无刺白蚁（中东、哈萨克斯坦、乌兹别克斯坦、伊朗、
 土库曼斯坦）
@@ -195,13 +260,13 @@ Anacanthotermes vagans 游荡无刺白蚁（中东、伊朗、阿富汗、伊拉
 
 Anacanthotermes viarum 小径无刺白蚁（印度、斯里兰卡）
 
-#### 草白蚁属 Hodotermes
+#### 草白蚁属 Hodotermes {: #hodotermes }
 
 Hodotermes erithreensis 厄立特里亚草白蚁（厄立特里亚、埃塞俄比亚、索马里）
 
 \*Hodotermes mossambicus 莫桑比克草白蚁（非洲南部及东部）
 
-#### 小草白蚁属 Microhodotermes
+#### 小草白蚁属 Microhodotermes {: #microhodotermes }
 
 Microhodotermes maroccanus 摩洛哥小草白蚁（摩洛哥、阿尔及利亚）
 
@@ -209,7 +274,7 @@ Microhodotermes maroccanus 摩洛哥小草白蚁（摩洛哥、阿尔及利亚�
 
 Microhodotermes wasmanni 沃斯曼小草白蚁（利比亚、埃及、以色列、突尼斯）
 
-## 原白蚁科 HODOTERMOPSIDAE
+## 原白蚁科 HODOTERMOPSIDAE {: #hodotermopsidae }
 
 原白蚁科由 Engel 于 2021 年提出(11)。
 模式属为原白蚁属 Hodotermopsis Holmgren, 1911。
@@ -227,11 +292,11 @@ Microhodotermes wasmanni 沃斯曼小草白蚁（利比亚、埃及、以色列�
 
 Hodotermopsis sjostedti 山林原白蚁
 
-#### 原白蚁属 Hodotermopsis
+#### 原白蚁属 Hodotermopsis {: #hodotermopsis }
 
 \*Hodotermopsis sjostedti 山林原白蚁（日本、中国台湾、中国南部、越南）
 
-## 胄白蚁科 STOLOTERMITIDAE
+## 胄白蚁科 STOLOTERMITIDAE {: #stolotermitidae }
 
 胄白蚁科由 Holmgren 于 1910 年建立（Holmgren, 1910a:
 285）(14)，
@@ -249,7 +314,7 @@ Hodotermopsis sjostedti 山林原白蚁
 亚当森洞白蚁 Porotermes adamsoni 随1941年输入新西兰的铁路木质枕木传入，
 现分布于北岛5处、南岛1处，发生于进口锯材与树木中。
 
-#### 洞白蚁属 Porotermes
+#### 洞白蚁属 Porotermes {: #porotermes }
 
 Porotermes adamsoni 亚当森洞白蚁（澳大利亚；引入：新西兰）
 
@@ -257,7 +322,7 @@ Porotermes planiceps 扁头洞白蚁（南非）
 
 \*Porotermes quadricollis 方颈洞白蚁（智利及南美南部）
 
-#### 胄白蚁属 Stolotermes
+#### 胄白蚁属 Stolotermes {: #stolotermes }
 
 Stolotermes africanus 非洲胄白蚁（南非）
 
@@ -273,9 +338,9 @@ Stolotermes ruficeps 红头胄白蚁（新西兰）
 
 Stolotermes victoriensis 维多利亚胄白蚁（澳大利亚）
 
-## 近等翅类 Icoisoptera
+## 近等翅类 Icoisoptera {: #icoisoptera }
 
-## 木白蚁科 KALOTERMITIDAE
+## 木白蚁科 KALOTERMITIDAE {: #kalotermitidae }
 
 木白蚁科由 Froggatt 于 1897 年建立(16)，
 模式属为 Kalotermes Hagen, 1853。
@@ -312,7 +377,7 @@ Rugitermes 等属为次要木材害虫(20)。
 
 新白蚁Neotermes sp.
 
-#### 奇白蚁属 Allotermes
+#### 奇白蚁属 Allotermes {: #allotermes }
 
 Allotermes denticulatus 小齿奇白蚁（马达加斯加）
 
@@ -320,7 +385,7 @@ Allotermes papillifer 乳突奇白蚁（马达加斯加）
 
 \*Allotermes paradoxus 奇异奇白蚁（印度洋岛屿留尼汪、马达加斯加）
 
-#### 双角白蚁属 Bicornitermes
+#### 双角白蚁属 Bicornitermes {: #bicornitermes }
 
 \*Bicornitermes bicornis 双角双角白蚁（中非、刚果民主共和国、乌干达）
 
@@ -330,7 +395,7 @@ Bicornitermes exsertifrons 突额双角白蚁（尼日利亚）
 
 Bicornitermes spinicollis 刺颈双角白蚁（喀麦隆、加纳、尼日利亚、坦桑尼亚）
 
-#### 双裂白蚁属 Bifiditermes
+#### 双裂白蚁属 Bifiditermes {: #bifiditermes }
 
 Bifiditermes angulatus 角状双裂白蚁（东非）
 
@@ -358,7 +423,7 @@ Bifiditermes sibayiensis 斯巴艺双裂白蚁（纳米比亚、南非、坦桑�
 
 Bifiditermes sylvaticus 森林双裂白蚁（肯尼亚、乌干达）
 
-#### 距白蚁属 Calcaritermes
+#### 距白蚁属 Calcaritermes {: #calcaritermes }
 
 Calcaritermes brevicollis 短颈距白蚁（巴拿马、伯利兹、哥伦比亚、哥斯达黎加、
 尼加拉瓜）
@@ -397,11 +462,11 @@ Calcaritermes temnocephalus 切头距白蚁（南美洲、秘鲁、苏里南、�
 洪都拉斯、马提尼克（法）、圣卢西亚、
 圣文森特和格林纳丁斯、委内瑞拉）
 
-#### 角木白蚁属 Ceratokalotermes
+#### 角木白蚁属 Ceratokalotermes {: #ceratokalotermes }
 
 \*Ceratokalotermes spoliator 掠夺角木白蚁（澳大利亚）
 
-#### 毛白蚁属 Comatermes
+#### 毛白蚁属 Comatermes {: #comatermes }
 
 \*Comatermes perfectus 完美毛白蚁（中美洲、哥斯达黎加、巴拿马、洪都拉斯、
 尼加拉瓜、南美洲、委内瑞拉、玻利维亚、
@@ -410,7 +475,7 @@ Calcaritermes temnocephalus 切头距白蚁（南美洲、秘鲁、苏里南、�
 圣基茨和尼维斯、安圭拉、圣卢西亚、
 圣文森特和格林纳丁斯、特立尼达和多巴哥）
 
-#### 堆砂白蚁属 Cryptotermes
+#### 堆砂白蚁属 Cryptotermes {: #cryptotermes }
 
 Cryptotermes abruptus 陡额堆砂白蚁（墨西哥）
 
@@ -587,7 +652,7 @@ Cryptotermes venezolanus 委内瑞拉堆砂白蚁（委内瑞拉）
 
 Cryptotermes verruculosus 多疣堆砂白蚁（南美洲、玻利维亚、圭亚那）
 
-#### 上木白蚁属 Epicalotermes
+#### 上木白蚁属 Epicalotermes {: #epicalotermes }
 
 \*Epicalotermes aethiopicus 埃塞俄比亚上木白蚁（肯尼亚、厄立特里亚、埃塞俄比亚、
 沙特阿拉伯、也门）
@@ -602,13 +667,13 @@ Epicalotermes pakistanicus 巴基斯坦上木白蚁（巴基斯坦）
 
 Epicalotermes planifrons 扁额上木白蚁（马达加斯加）
 
-#### 真砂白蚁属 Eucryptotermes
+#### 真砂白蚁属 Eucryptotermes {: #eucryptotermes }
 
 Eucryptotermes breviceps 短头真砂白蚁（南美洲、巴西、法属圭亚那）
 
 \*Eucryptotermes hagenii 哈根真砂白蚁（南美洲、巴西、阿根廷）
 
-#### 树白蚁属 Glyptotermes
+#### 树白蚁属 Glyptotermes {: #glyptotermes }
 
 Glyptotermes adamsoni 亚当森树白蚁（格林纳达、特立尼达和多巴哥、委内瑞拉）
 
@@ -874,7 +939,7 @@ Glyptotermes yui 尤氏树白蚁（中国海南）
 
 Glyptotermes zhaoi 赵氏树白蚁（中国福建）
 
-#### 楹白蚁属 Incisitermes
+#### 楹白蚁属 Incisitermes {: #incisitermes }
 
 Incisitermes banksi 班克斯楹白蚁（美国、墨西哥）
 
@@ -956,7 +1021,7 @@ Incisitermes solidus 坚硬楹白蚁（不明）
 
 Incisitermes taylori 泰勒楹白蚁（菲律宾）
 
-#### 木白蚁属 Kalotermes
+#### 木白蚁属 Kalotermes {: #kalotermes }
 
 Kalotermes aemulus 竞争木白蚁（澳大利亚）
 
@@ -1004,11 +1069,11 @@ Kalotermes serrulatus 细锯齿木白蚁（澳大利亚）
 
 Kalotermes umtatae 乌姆塔塔木白蚁（南非）
 
-#### 头长白蚁属 Longicaputermes
+#### 头长白蚁属 Longicaputermes {: #longicaputermes }
 
 \*Longicaputermes sinaicus 西奈头长白蚁（埃及西奈半岛、以色列）
 
-#### 边白蚁属 Marginitermes
+#### 边白蚁属 Marginitermes {: #marginitermes }
 
 Marginitermes absitus 遥远边白蚁（澳大利亚）
 
@@ -1016,7 +1081,7 @@ Marginitermes cactiphagus 食刺边白蚁（墨西哥、洪都拉斯、危地马
 
 \*Marginitermes hubbardi 哈伯德边白蚁（北美、美国、墨西哥）
 
-#### 新白蚁属 Neotermes
+#### 新白蚁属 Neotermes {: #neotermes }
 
 Neotermes aburiensis 阿布里新白蚁（西非、尼日利亚、加纳、科特迪瓦、
 刚果民主共和国）
@@ -1281,11 +1346,11 @@ Neotermes zanclus 镰刀新白蚁（巴西）
 
 Neotermes zuluensis 祖鲁新白蚁（南非）
 
-#### 近新白蚁属 Paraneotermes
+#### 近新白蚁属 Paraneotermes {: #paraneotermes }
 
 \*Paraneotermes simplicicornis 简角近新白蚁（北美、美国、墨西哥）
 
-#### 后琥珀白蚁属 Postelectrotermes
+#### 后琥珀白蚁属 Postelectrotermes {: #postelectrotermes }
 
 Postelectrotermes amplus 大后琥珀白蚁（马达加斯加）
 
@@ -1318,7 +1383,7 @@ Postelectrotermes tongyaii 同艾后琥珀白蚁（泰国）
 
 Postelectrotermes zabuliensis 扎布尔后琥珀白蚁（西亚、伊朗）
 
-#### 前砂白蚁属 Procryptotermes
+#### 前砂白蚁属 Procryptotermes {: #procryptotermes }
 
 Procryptotermes australiensis 澳大利亚前砂白蚁（澳大利亚）
 
@@ -1348,7 +1413,7 @@ Procryptotermes speiseri 斯派泽前砂白蚁（瓦努阿图）
 
 Procryptotermes valeriae 瓦莱里前砂白蚁（印度）
 
-#### 前新白蚁属 Proneotermes
+#### 前新白蚁属 Proneotermes {: #proneotermes }
 
 Proneotermes latifrons 宽额前新白蚁（委内瑞拉）
 
@@ -1356,15 +1421,15 @@ Proneotermes macondianus 马康多前新白蚁（哥伦比亚）
 
 \*Proneotermes perezi 佩雷斯前新白蚁（哥斯达黎加、危地马拉、洪都拉斯、巴拿马）
 
-#### 翅白蚁属 Pterotermes
+#### 翅白蚁属 Pterotermes {: #pterotermes }
 
 \*Pterotermes occidentis 西部翅白蚁（北美、美国、墨西哥）
 
-#### 罗伊辛白蚁属 Roisinitermes
+#### 罗伊辛白蚁属 Roisinitermes {: #roisinitermes }
 
 \*Roisinitermes ebogoensis 埃博戈罗伊辛白蚁（喀麦隆）
 
-#### 皱白蚁属 Rugitermes
+#### 皱白蚁属 Rugitermes {: #rugitermes }
 
 Rugitermes aridus 干皱白蚁（秘鲁）
 
@@ -1402,7 +1467,7 @@ Rugitermes ursulae 小熊皱白蚁（哥伦比亚）
 
 Rugitermes volcanensis 火山皱白蚁（玻利维亚）
 
-#### 牛白蚁属 Tauritermes
+#### 牛白蚁属 Tauritermes {: #tauritermes }
 
 Tauritermes bandeirai 班代拉牛白蚁（巴西）
 
@@ -1412,9 +1477,9 @@ Tauritermes triceromegas 三混气牛白蚁（巴拉圭、阿根廷、巴西）
 
 Tauritermes vitulus 公犊牛白蚁（巴西）
 
-## 新等翅类 Neoisoptera
+## 新等翅类 Neoisoptera {: #neoisoptera }
 
-## 沙白蚁科 PSAMMOTERMITIDAE
+## 沙白蚁科 PSAMMOTERMITIDAE {: #psammotermitidae }
 
 沙白蚁亚科（Psammotermitinae）由 Holmgren 于 1911 年建立，
 2024 年系统发育研究将其提升为科（Psammotermitidae）(21)。
@@ -1437,7 +1502,7 @@ Psammotermes 个别种类在干旱区危害作物与土工结构。
 如 Psammotermes hypostoma 在北非与中东危害木构件与作物(23)，
 Prorhinotermes simplex 在美国佛罗里达危害木结构建筑(24)。
 
-#### 原鼻白蚁属 Prorhinotermes
+#### 原鼻白蚁属 Prorhinotermes {: #prorhinotermes }
 
 Prorhinotermes canalifrons 沟额原鼻白蚁（印度洋岛屿、留尼汪、马达加斯加、法国、
 可可斯（基林）群岛、科摩罗、毛里求斯、
@@ -1473,7 +1538,7 @@ Prorhinotermes spectabilis 奇丽原鼻白蚁（中国、云南）
 
 Prorhinotermes xishaensis 西沙原鼻白蚁（中国、西沙群岛）
 
-#### 沙白蚁属 Psammotermes
+#### 沙白蚁属 Psammotermes {: #psammotermes }
 
 Psammotermes allocerus 奇白沙白蚁（非洲南部、纳米比亚、南非、安哥拉、
 博茨瓦纳、埃及）
@@ -1492,7 +1557,7 @@ Psammotermes senegalensis 塞内加尔沙白蚁（尼日利亚、塞内加尔）
 
 Psammotermes voeltzkowi 弗尔特科沙白蚁（马达加斯加）
 
-## 鼻白蚁科 RHINOTERMITIDAE
+## 鼻白蚁科 RHINOTERMITIDAE {: #rhinotermitidae }
 
 鼻白蚁亚科（Rhinotermitinae）由 Froggatt 于 1897 年建立；
 此处采用 2024 年系统发育研究重新界定后的狭义鼻白蚁科（Rhinotermitidae
@@ -1516,14 +1581,14 @@ sensu novo）(21)，
 长喙长鼻白蚁 Schedorhinotermes longirostris（原生印度、印度尼西亚、
 马来西亚、帕劳、巴布亚新几内亚，引入美国关岛），该种 2011 年传入关岛、为害当地特有苏铁。
 
-#### 尖鼻白蚁属 Acorhinotermes
+#### 尖鼻白蚁属 Acorhinotermes {: #acorhinotermes }
 
 Acorhinotermes claritae 克拉丽塔尖鼻白蚁（哥伦比亚、巴西、委内瑞拉）
 
 \*Acorhinotermes subfusciceps 棕头尖鼻白蚁（南美洲、法属圭亚那、圭亚那、哥伦比亚、
 巴西、厄瓜多尔、秘鲁、委内瑞拉）
 
-#### 狭鼻白蚁属 Dolichorhinotermes
+#### 狭鼻白蚁属 Dolichorhinotermes {: #dolichorhinotermes }
 
 Dolichorhinotermes japuraensis 雅普拉狭鼻白蚁（巴西、圭亚那）
 
@@ -1542,7 +1607,7 @@ Dolichorhinotermes neli 内尔狭鼻白蚁（法属圭亚那）
 Dolichorhinotermes tenebrosus 暗色狭鼻白蚁（南美洲、圭亚那、玻利维亚、厄瓜多尔、
 委内瑞拉）
 
-#### 棒鼻白蚁属 Parrhinotermes
+#### 棒鼻白蚁属 Parrhinotermes {: #parrhinotermes }
 
 \*Parrhinotermes aequalis 相等棒鼻白蚁（马来西亚、沙捞越、印度尼西亚）
 
@@ -1572,7 +1637,7 @@ Parrhinotermes ruiliensis 瑞丽棒鼻白蚁（中国、云南）
 
 Parrhinotermes shamimi 沙明棒鼻白蚁（印度）
 
-#### 鼻白蚁属 Rhinotermes
+#### 鼻白蚁属 Rhinotermes {: #rhinotermes }
 
 Rhinotermes hispidus 多毛鼻白蚁（巴西、法属圭亚那、哥伦比亚、玻利维亚、
 厄瓜多尔、秘鲁、委内瑞拉）
@@ -1586,7 +1651,7 @@ Rhinotermes marginalis 微小鼻白蚁（巴西、哥伦比亚、法属圭亚那
 玻利维亚、多米尼加、海地、马提尼克、秘鲁、
 苏里南）
 
-#### 长鼻白蚁属 Schedorhinotermes
+#### 长鼻白蚁属 Schedorhinotermes {: #schedorhinotermes }
 
 Schedorhinotermes actuosus 活跃长鼻白蚁（澳大利亚）
 
@@ -1669,7 +1734,7 @@ Schedorhinotermes translucens 透明长鼻白蚁（所罗门群岛、孟加拉�
 
 Schedorhinotermes umbraticus 隐蔽长鼻白蚁（巴布亚新几内亚）
 
-## 齿白蚁科 SERRITERMITIDAE
+## 齿白蚁科 SERRITERMITIDAE {: #serritermitidae }
 
 齿白蚁科由 Holmgren 于 1910 年建立（Serritermitidae
 Holmgren, 1910）(14)，
@@ -1688,17 +1753,17 @@ S. serrifer 则是白蚁中罕见的专性寄居者，
 Glossotermes 属13–15节）；本科兵蚁额腺极为发达，自头部延伸至胸腹前半部，
 御敌时以自体爆裂方式经颈背释放分泌物(26)。
 
-#### 舌白蚁属 Glossotermes
+#### 舌白蚁属 Glossotermes {: #glossotermes }
 
 \*Glossotermes oculatus 眼显舌白蚁（法属圭亚那、圭亚那）
 
 Glossotermes sulcatus 具纹舌白蚁（巴西）
 
-#### 齿白蚁属 Serritermes
+#### 齿白蚁属 Serritermes {: #serritermes }
 
 \*Serritermes serrifer 锯齿白蚁（巴西）
 
-## 杆白蚁科 STYLOTERMITIDAE
+## 杆白蚁科 STYLOTERMITIDAE {: #stylotermitidae }
 
 杆白蚁科为现生单型科，
 唯含杆白蚁属 Stylotermes Holmgren & Holmgren, 1917。
@@ -1720,7 +1785,7 @@ S. halumicus 为材料研究），踪迹跟踪信息素亦在该二种中有专�
 
 杆白蚁Stylotermes sp.
 
-#### 杆白蚁属 Stylotermes
+#### 杆白蚁属 Stylotermes {: #stylotermes }
 
 Stylotermes acrofrons 丘额杆白蚁（中国）
 
@@ -1812,7 +1877,7 @@ Stylotermes wuyinicus 武夷杆白蚁（中国）
 
 Stylotermes xichangensis 西昌杆白蚁（中国）
 
-## 寡脉白蚁科 TERMITOGETONIDAE
+## 寡脉白蚁科 TERMITOGETONIDAE {: #termitogetonidae }
 
 寡脉白蚁亚科（Termitogetoninae）由 Holmgren 于 1910
 年建立（1910a:286）(14)，
@@ -1835,15 +1900,15 @@ Stylotermes xichangensis 西昌杆白蚁（中国）
 兵蚁头呈三角形、后缘强波曲并中央突出，上颚细长、无缘齿（仅基部具细齿列），触角 13–15 节，
 后足基节膨大。
 
-#### 寡脉白蚁属 Termitogeton
+#### 寡脉白蚁属 Termitogeton {: #termitogeton }
 
 \*Termitogeton planus 平坦寡脉白蚁（印度尼西亚、马来西亚）
 
 Termitogeton umbilicatus 中凹寡脉白蚁（斯里兰卡）
 
-## 土栖等翅类 Geoisoptera
+## 土栖等翅类 Geoisoptera {: #geoisoptera }
 
-## 异白蚁科 HETEROTERMITIDAE
+## 异白蚁科 HETEROTERMITIDAE {: #heterotermitidae }
 
 异白蚁亚科（Heterotermitinae）由 Froggatt 于 1897 年建立，
 长期隶属鼻白蚁科；2024 年系统发育研究将其提升为科（Heterotermitidae）(21)，
@@ -1883,7 +1948,7 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 
 Coptotermes formosanus 台湾乳白蚁
 
-#### 乳白蚁属 Coptotermes
+#### 乳白蚁属 Coptotermes {: #coptotermes }
 
 Coptotermes acinaciformis 短刀乳白蚁（澳大利亚、引入：新西兰）
 
@@ -2032,7 +2097,7 @@ Coptotermes truncatus 伤残乳白蚁（马达加斯加、塞舌尔（引入）�
 
 Coptotermes varicapitatus 异头乳白蚁（中国广东）
 
-#### 异白蚁属 Heterotermes
+#### 异白蚁属 Heterotermes {: #heterotermes }
 
 Heterotermes aethiopicus 埃塞俄比亚异白蚁（埃塞俄比亚、阿曼、沙特阿拉伯、苏丹、
 阿联酋、也门）
@@ -2106,7 +2171,7 @@ Heterotermes validus 健壮异白蚁（澳大利亚）
 
 Heterotermes wittmeri 威特默异白蚁（沙特阿拉伯）
 
-#### 散白蚁属 Reticulitermes
+#### 散白蚁属 Reticulitermes {: #reticulitermes }
 
 Reticulitermes aculabialis 尖唇散白蚁（中国）
 
@@ -2410,7 +2475,7 @@ Reticulitermes yunsiensis 云寺散白蚁（中国）
 
 Reticulitermes zhaoi 赵氏散白蚁（中国）
 
-## 白蚁科 TERMITIDAE
+## 白蚁科 TERMITIDAE {: #termitidae }
 
 白蚁科由 Latreille 于 1802 年建立，
 模式属为 Termes Linnaeus, 1758；
@@ -2457,7 +2522,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 白蚁亚科 Termitinae（23 属 106 种）。
 本科的经济危害详见各亚科。
 
-### 弓白蚁亚科 Amitermitinae
+### 弓白蚁亚科 Amitermitinae {: #amitermitinae }
 
 弓白蚁亚科由 Kemner 于 1934 年建立（原始文献第 110 页），
 模式属为弓白蚁属 Amitermes Silvestri, 1901，亚科名即取自模式属，
@@ -2489,7 +2554,7 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 Globitermes sulphureus 黄球白蚁
 
-#### 无钩白蚁属 Ahamitermes
+#### 无钩白蚁属 Ahamitermes {: #ahamitermes }
 
 Ahamitermes hillii 希尔无钩白蚁（澳大利亚）
 
@@ -2497,7 +2562,7 @@ Ahamitermes inclusus 栖垄无钩白蚁（澳大利亚）
 
 \*Ahamitermes nidicola 栖巢无钩白蚁（澳大利亚）
 
-#### 弓白蚁属 Amitermes
+#### 弓白蚁属 Amitermes {: #amitermes }
 
 Amitermes abruptus 陡额弓白蚁（澳大利亚）
 
@@ -2732,7 +2797,7 @@ Amitermes xylophagus 食木弓白蚁（澳大利亚）
 
 Amitermes yasujensis 亚苏季弓白蚁（伊朗）
 
-#### 齿尖白蚁属 Dentispicotermes
+#### 齿尖白蚁属 Dentispicotermes {: #dentispicotermes }
 
 Dentispicotermes brevicarinatus 短脊齿尖白蚁（圭亚那地盾、法属圭亚那/圭亚那/苏里南、
 巴西）
@@ -2747,7 +2812,7 @@ Dentispicotermes pantanalis 沼泽齿尖白蚁（巴西、塞拉多）
 
 Dentispicotermes trapezia 梯形齿尖白蚁（玻利维亚、巴拉圭、潘塔纳尔-查科）
 
-#### 镰白蚁属 Drepanotermes
+#### 镰白蚁属 Drepanotermes {: #drepanotermes }
 
 Drepanotermes acicularis 细长镰白蚁（澳大利亚）
 
@@ -2797,7 +2862,7 @@ Drepanotermes septentrionalis 北方镰白蚁（澳大利亚）
 
 Drepanotermes tamminensis 塔明镰白蚁（澳大利亚）
 
-#### 漠白蚁属 Eremotermes
+#### 漠白蚁属 Eremotermes {: #eremotermes }
 
 Eremotermes arctus 短窄漠白蚁（以色列）
 
@@ -2819,7 +2884,7 @@ Eremotermes sanyuktae 女神漠白蚁（印度）
 
 Eremotermes senegalensis 塞内加尔漠白蚁（塞内加尔）
 
-#### 球白蚁属 Globitermes
+#### 球白蚁属 Globitermes {: #globitermes }
 
 Globitermes brachycerastes 短角球白蚁（云南（景洪 500 m）、中国）
 
@@ -2840,7 +2905,7 @@ Globitermes sulphureus 黄球白蚁（东南亚大陆、中南半岛、东南亚
 
 Globitermes vadaensis 瓦达球白蚁（东南亚岛屿、南洋群岛）
 
-#### 颚钩白蚁属 Gnathamitermes
+#### 颚钩白蚁属 Gnathamitermes {: #gnathamitermes }
 
 Gnathamitermes grandis 大颚钩白蚁（中美洲墨西哥）
 
@@ -2850,21 +2915,21 @@ Gnathamitermes nigriceps 黑头颚钩白蚁（中美洲墨西哥）
 
 Gnathamitermes tubiformans 管形颚钩白蚁（墨西哥、美国）
 
-#### 武白蚁属 Hoplotermes
+#### 武白蚁属 Hoplotermes {: #hoplotermes }
 
 \*Hoplotermes amplus 广泛武白蚁（中美洲及加勒比、墨西哥）
 
-#### 子民白蚁属 Incolitermes
+#### 子民白蚁属 Incolitermes {: #incolitermes }
 
 \*Incolitermes pumilus 侏儒子民白蚁（澳大利亚）
 
-#### 闯白蚁属 Invasitermes
+#### 闯白蚁属 Invasitermes {: #invasitermes }
 
 \*Invasitermes inermis 非武闯白蚁（澳大利亚）
 
 Invasitermes insitivus 候补闯白蚁（澳大利亚）
 
-#### 直颚白蚁属 Orthognathotermes
+#### 直颚白蚁属 Orthognathotermes {: #orthognathotermes }
 
 Orthognathotermes aduncus 具钩直颚白蚁（巴西、圭亚那地盾、玻利维亚、巴拉圭、秘鲁）
 
@@ -2896,7 +2961,7 @@ Orthognathotermes uncimandibularis 钩颚直颚白蚁（巴西）
 
 Orthognathotermes wheeleri 惠勒直颚白蚁（亚马孙地区、哥伦比亚、巴拿马）
 
-#### 前钩白蚁属 Prohamitermes
+#### 前钩白蚁属 Prohamitermes {: #prohamitermes }
 
 Prohamitermes hosei 霍斯前钩白蚁（婆罗洲、印度尼西亚、马来西亚）
 
@@ -2906,13 +2971,13 @@ minor 小亚种
 
 \*Prohamitermes mirabilis 奇异前钩白蚁（马来西亚、婆罗洲、新加坡、印度尼西亚）
 
-#### 伪钩白蚁属 Pseudhamitermes
+#### 伪钩白蚁属 Pseudhamitermes {: #pseudhamitermes }
 
 \*Pseudhamitermes khmerensis 高棉伪钩白蚁（越南）
 
 Pseudhamitermes longignathus 长颚伪钩白蚁（泰国）
 
-#### 同钩白蚁属 Synhamitermes
+#### 同钩白蚁属 Synhamitermes {: #synhamitermes }
 
 Synhamitermes ceylonicus 锡兰同钩白蚁（斯里兰卡）
 
@@ -2923,7 +2988,7 @@ Synhamitermes labioangulatus 角唇同钩白蚁（印度）
 \*Synhamitermes quadriceps 方头同钩白蚁（南美东南部、阿根廷/巴拉圭/乌拉圭、
 南亚、印度）
 
-### 尖白蚁亚科 Apicotermitinae
+### 尖白蚁亚科 Apicotermitinae {: #apicotermitinae }
 
 尖白蚁亚科由 Grassé 与 Noirot 于 1955 年在研究 Apicotermes
 arquieri 的著作中建立(41)，
@@ -2957,7 +3022,7 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 亮白蚁 Euhamitermes sp.
 
-#### 顺白蚁属 Acholotermes
+#### 顺白蚁属 Acholotermes {: #acholotermes }
 
 Acholotermes chirotus 短小顺白蚁（东非、刚果、刚果民主共和国）
 
@@ -2969,15 +3034,15 @@ Acholotermes socialis 社会顺白蚁（中非、刚果盆地、尼日利亚）
 
 \*Acholotermes tithasus 体大顺白蚁（非洲热带）
 
-#### 虚白蚁属 Acidnotermes
+#### 虚白蚁属 Acidnotermes {: #acidnotermes }
 
 \*Acidnotermes praus 短肠虚白蚁（非洲热带）
 
-#### 尖齿白蚁属 Acutidentitermes
+#### 尖齿白蚁属 Acutidentitermes {: #acutidentitermes }
 
 \*Acutidentitermes osborni 奥斯本尖齿白蚁（刚果民主共和国）
 
-#### 和白蚁属 Adaiphrotermes
+#### 和白蚁属 Adaiphrotermes {: #adaiphrotermes }
 
 Adaiphrotermes choanensis 乔安和白蚁（肯尼亚、马拉维、南非、斯威士兰、
 坦桑尼亚、津巴布韦）
@@ -2986,22 +3051,22 @@ Adaiphrotermes choanensis 乔安和白蚁（肯尼亚、马拉维、南非、斯
 
 Adaiphrotermes scapheutes 中凹和白蚁（马拉维、赞比亚）
 
-#### 谐白蚁属 Aderitotermes
+#### 谐白蚁属 Aderitotermes {: #aderitotermes }
 
 Aderitotermes cavator 中空谐白蚁（西非、喀麦隆、冈比亚、科特迪瓦、尼日利亚）
 
 \*Aderitotermes fossor 挖掘谐白蚁（喀麦隆、肯尼亚、马拉维、坦桑尼亚、乌干达、
 赞比亚）
 
-#### 弱白蚁属 Adynatotermes
+#### 弱白蚁属 Adynatotermes {: #adynatotermes }
 
 \*Adynatotermes moretelae 莫特拉弱白蚁（南非）
 
-#### 雅白蚁属 Aganotermes
+#### 雅白蚁属 Aganotermes {: #aganotermes }
 
 \*Aganotermes oryctes 挖者雅白蚁（南非、赞比亚、津巴布韦）
 
-#### 异颚白蚁属 Allognathotermes
+#### 异颚白蚁属 Allognathotermes {: #allognathotermes }
 
 Allognathotermes aburiensis 阿布里异颚白蚁（加纳、几内亚、尼日利亚）
 
@@ -3009,7 +3074,7 @@ Allognathotermes aburiensis 阿布里异颚白蚁（加纳、几内亚、尼日�
 
 Allognathotermes ivorensis 象牙海岸异颚白蚁（西非）
 
-#### 逃白蚁属 Alyscotermes
+#### 逃白蚁属 Alyscotermes {: #alyscotermes }
 
 \*Alyscotermes kilimandjaricus 乞力马扎罗逃白蚁（刚果民主共和国、冈比亚、几内亚、
 科特迪瓦、肯尼亚、马拉维、尼日利亚、
@@ -3017,12 +3082,12 @@ Allognathotermes ivorensis 象牙海岸异颚白蚁（西非）
 
 Alyscotermes trestus 懦夫逃白蚁（埃塞俄比亚、肯尼亚、坦桑尼亚）
 
-#### 软白蚁属 Amalotermes
+#### 软白蚁属 Amalotermes {: #amalotermes }
 
 \*Amalotermes phaeocephalus 暗头软白蚁（中非、刚果盆地、喀麦隆、刚果（布）、
 刚果民主共和国、加蓬、尼日利亚）
 
-#### 善白蚁属 Amicotermes
+#### 善白蚁属 Amicotermes {: #amicotermes }
 
 Amicotermes autothysius 自爆善白蚁（喀麦隆）
 
@@ -3048,15 +3113,15 @@ Amicotermes multispinus 多刺善白蚁（刚果）
 
 Amicotermes spiculatus 具针善白蚁（喀麦隆）
 
-#### 大腿白蚁属 Amplucrutermes
+#### 大腿白蚁属 Amplucrutermes {: #amplucrutermes }
 
 \*Amplucrutermes inflatus 椭圆大腿白蚁（南美洲、圭亚那地盾、法属圭亚那）
 
-#### 无戟白蚁属 Anaorotermes
+#### 无戟白蚁属 Anaorotermes {: #anaorotermes }
 
 \*Anaorotermes echinocolon 海胆肠无戟白蚁（尼日利亚）
 
-#### 无甲白蚁属 Anenteotermes
+#### 无甲白蚁属 Anenteotermes {: #anenteotermes }
 
 Anenteotermes amachetus 无刀无甲白蚁（刚果共和国、刚果民主共和国）
 
@@ -3080,7 +3145,7 @@ Anenteotermes nanus 侏儒无甲白蚁（喀麦隆、刚果共和国、刚果民
 
 Anenteotermes polyscolus 多魁无甲白蚁（西非、中非、刚果盆地）
 
-#### 解甲白蚁属 Anoplotermes
+#### 解甲白蚁属 Anoplotermes {: #anoplotermes }
 
 Anoplotermes ater 暗黑解甲白蚁（巴西、阿根廷、哥伦比亚、巴拉圭、秘鲁）
 
@@ -3130,12 +3195,12 @@ Anoplotermes susanae 苏珊解甲白蚁（厄瓜多尔、巴西、法属圭亚�
 
 Anoplotermes tenebrosus 黑暗解甲白蚁（巴西、阿根廷、委内瑞拉）
 
-#### 疲白蚁属 Apagotermes
+#### 疲白蚁属 Apagotermes {: #apagotermes }
 
 \*Apagotermes stolidus 愚蠢疲白蚁（刚果民主共和国、喀麦隆、刚果共和国、
 尼日利亚）
 
-#### 弯肠白蚁属 Aparatermes
+#### 弯肠白蚁属 Aparatermes {: #aparatermes }
 
 \*Aparatermes abbreviatus 缩短弯肠白蚁（亚马孙地区、南美西北部、南美东南部、
 阿根廷/巴拉圭/乌拉圭、玻利维亚）
@@ -3151,7 +3216,7 @@ Aparatermes thornatus 刺棘弯肠白蚁（巴西、圭亚那地盾、
 哥伦比亚/秘鲁/玻利维亚/厄瓜多尔、
 中美洲及加勒比）
 
-#### 尖白蚁属 Apicotermes
+#### 尖白蚁属 Apicotermes {: #apicotermes }
 
 Apicotermes angustatus 狭窄尖白蚁（安哥拉、刚果民主共和国）
 
@@ -3179,15 +3244,15 @@ Apicotermes rimulifex 裂缝尖白蚁（安哥拉、刚果民主共和国）
 
 \*Apicotermes tragardhi 特雷高尖白蚁（莫桑比克、南非、坦桑尼亚、津巴布韦）
 
-#### 和平白蚁属 Apolemotermes
+#### 和平白蚁属 Apolemotermes {: #apolemotermes }
 
 \*Apolemotermes fodiens 挖掘和平白蚁（喀麦隆）
 
-#### 无剑白蚁属 Asagarotermes
+#### 无剑白蚁属 Asagarotermes {: #asagarotermes }
 
 \*Asagarotermes coronatus 冠毛无剑白蚁（刚果（金）加丹加、喀麦隆、刚果民主共和国）
 
-#### 无利器白蚁属 Astalotermes
+#### 无利器白蚁属 Astalotermes {: #astalotermes }
 
 Astalotermes acholus 阿彻鲁斯无利器白蚁（非洲热带、喀麦隆、刚果民主共和国、
 坦桑尼亚）
@@ -3227,7 +3292,7 @@ Astalotermes quietus 宁静无利器白蚁（西非、中非刚果盆地、喀�
 刚果民主共和国、加纳、几内亚、科特迪瓦、
 尼日利亚、卢旺达、塞拉利昂）
 
-#### 无刃白蚁属 Astratotermes
+#### 无刃白蚁属 Astratotermes {: #astratotermes }
 
 Astratotermes aneristus 赞比亚无刃白蚁（非洲热带）
 
@@ -3242,7 +3307,7 @@ Astratotermes pacatus 平静无刃白蚁（非洲热带）
 
 \*Astratotermes prosenus 大型无刃白蚁（非洲热带）
 
-#### 无锐白蚁属 Ateuchotermes
+#### 无锐白蚁属 Ateuchotermes {: #ateuchotermes }
 
 Ateuchotermes ctenopher 梳肠无锐白蚁（喀麦隆、刚果民主共和国、加蓬）
 
@@ -3261,15 +3326,15 @@ Ateuchotermes spinulatus 小刺无锐白蚁（刚果民主共和国）
 
 Ateuchotermes tranquillus 宁静无锐白蚁（几内亚）
 
-#### 首白蚁属 Caputitermes
+#### 首白蚁属 Caputitermes {: #caputitermes }
 
 \*Caputitermes dimorphus 二型首白蚁（巴西）
 
-#### 蔡斯白蚁属 Chasitermes
+#### 蔡斯白蚁属 Chasitermes {: #chasitermes }
 
 \*Chasitermes pax 和平蔡斯白蚁（特立尼达和多巴哥）
 
-#### 肠刺白蚁属 Compositermes
+#### 肠刺白蚁属 Compositermes {: #compositermes }
 
 Compositermes bani 班恩肠刺白蚁（玻利维亚、巴西）
 
@@ -3279,19 +3344,19 @@ Compositermes bani 班恩肠刺白蚁（玻利维亚、巴西）
 南美东南部、阿根廷/巴拉圭/乌拉圭、
 中美洲及加勒比）
 
-#### 基白蚁属 Coxotermes
+#### 基白蚁属 Coxotermes {: #coxotermes }
 
 \*Coxotermes boukokoensis 布科科基白蚁（中非、喀麦隆、刚果、尼日利亚、中非共和国）
 
-#### 间断白蚁属 Disjunctitermes
+#### 间断白蚁属 Disjunctitermes {: #disjunctitermes }
 
 \*Disjunctitermes insularis 岛生间断白蚁（巴西、亚马孙地区、中美洲及加勒比）
 
-#### 隐藏白蚁属 Dissimulitermes
+#### 隐藏白蚁属 Dissimulitermes {: #dissimulitermes }
 
 \*Dissimulitermes invisibilis 隐形隐藏白蚁（巴西）
 
-#### 双齿白蚁属 Duplidentitermes
+#### 双齿白蚁属 Duplidentitermes {: #duplidentitermes }
 
 \*Duplidentitermes furcatidens 叉齿双齿白蚁（喀麦隆、中非共和国、刚果（布）、加纳、
 科特迪瓦）
@@ -3300,19 +3365,19 @@ Duplidentitermes jurioni 朱里翁双齿白蚁（安哥拉、刚果民主共和�
 
 Duplidentitermes latimentonis 宽颏双齿白蚁（刚果民主共和国）
 
-#### 埃博戈白蚁属 Ebogotermes
+#### 埃博戈白蚁属 Ebogotermes {: #ebogotermes }
 
 \*Ebogotermes raphaeli 拉斐尔埃博戈白蚁（喀麦隆）
 
-#### 象牙白蚁属 Eburnitermes
+#### 象牙白蚁属 Eburnitermes {: #eburnitermes }
 
 \*Eburnitermes grassei 格拉塞象牙白蚁（喀麦隆、科特迪瓦、尼日利亚）
 
-#### 多刺白蚁属 Echinotermes
+#### 多刺白蚁属 Echinotermes {: #echinotermes }
 
 \*Echinotermes biriba 比里巴多刺白蚁（南美洲、哥伦比亚、秘鲁）
 
-#### 亮白蚁属 Euhamitermes
+#### 亮白蚁属 Euhamitermes {: #euhamitermes }
 
 Euhamitermes aruna 阿鲁纳亮白蚁（东洋界）
 
@@ -3362,7 +3427,7 @@ Euhamitermes yuntaishanensis 云台山亮白蚁（中国、云南）
 
 Euhamitermes zhejianensis 浙江亮白蚁（中国、浙江）
 
-#### 宽白蚁属 Eurytermes
+#### 宽白蚁属 Eurytermes {: #eurytermes }
 
 \*Eurytermes assmuthi 阿斯穆斯宽白蚁（南亚、印度）
 
@@ -3380,34 +3445,34 @@ Eurytermes mohana 莫罕娜宽白蚁（东洋界、印度）
 
 Eurytermes topslipensis 托普斯利普宽白蚁（南亚、印度西高止山）
 
-#### 坚白蚁属 Firmitermes
+#### 坚白蚁属 Firmitermes {: #firmitermes }
 
 \*Firmitermes abyssinicus 阿比西尼亚坚白蚁（旧热带界、埃塞俄比亚）
 
-#### 胃白蚁属 Gastrotermes
+#### 胃白蚁属 Gastrotermes {: #gastrotermes }
 
 \*Gastrotermes spinatus 多刺胃白蚁（西非/中非、喀麦隆）
 
-#### 灰白蚁属 Grigiotermes
+#### 灰白蚁属 Grigiotermes {: #grigiotermes }
 
 \*Grigiotermes hageni 哈根灰白蚁（巴西、哥伦比亚、法属圭亚那、委内瑞拉、
 玻利维亚、巴拉圭、阿根廷、特立尼达和多巴哥）
 
 Grigiotermes piassava 皮亚萨瓦灰白蚁（巴西）
 
-#### 埃姆白蚁属 Heimitermes
+#### 埃姆白蚁属 Heimitermes {: #heimitermes }
 
 \*Heimitermes laticeps 宽头埃姆白蚁（中非、喀麦隆、尼日利亚）
 
 Heimitermes moorei 穆尔埃姆白蚁（旧热带界）
 
-#### 毛糙白蚁属 Hirsutitermes
+#### 毛糙白蚁属 Hirsutitermes {: #hirsutitermes }
 
 \*Hirsutitermes kanzakii 神崎毛糙白蚁（哥伦比亚、法属圭亚那、玻利维亚、巴西、
 厄瓜多尔、秘鲁、特立尼达和多巴哥、
 委内瑞拉）
 
-#### 锐颚白蚁属 Hoplognathotermes
+#### 锐颚白蚁属 Hoplognathotermes {: #hoplognathotermes }
 
 Hoplognathotermes angolensis 安哥拉锐颚白蚁（非洲、安哥拉）
 
@@ -3415,14 +3480,14 @@ Hoplognathotermes submissus 地下锐颚白蚁（旧热带界、喀麦隆）
 
 \*Hoplognathotermes subterraneus 土栖锐颚白蚁（西非、科特迪瓦）
 
-#### 腐殖白蚁属 Humutermes
+#### 腐殖白蚁属 Humutermes {: #humutermes }
 
 \*Humutermes krishnai 克里希纳腐殖白蚁（新热带界、巴拿马、哥伦比亚、法属圭亚那、
 巴西、厄瓜多尔）
 
 Humutermes noiroti 努瓦罗腐殖白蚁（新热带界）
 
-#### 海德瑞克白蚁属 Hydrecotermes
+#### 海德瑞克白蚁属 Hydrecotermes {: #hydrecotermes }
 
 \*Hydrecotermes arienesho 惊人海德瑞克白蚁（哥伦比亚、法属圭亚那、玻利维亚、巴拉圭、
 特立尼达和多巴哥）
@@ -3431,7 +3496,7 @@ Hydrecotermes kawaii 可爱海德瑞克白蚁（哥伦比亚、法属圭亚那�
 玻利维亚、巴拿马、巴拉圭、秘鲁、
 特立尼达和多巴哥）
 
-#### 印白蚁属 Indotermes
+#### 印白蚁属 Indotermes {: #indotermes }
 
 Indotermes arshadi 阿沙德印白蚁（东洋界）
 
@@ -3453,29 +3518,29 @@ Indotermes thailandis 泰国印白蚁（泰国）
 
 Indotermes yunnanensis 云南印白蚁（中国、云南）
 
-#### 岗白蚁属 Jugositermes
+#### 岗白蚁属 Jugositermes {: #jugositermes }
 
 \*Jugositermes tuberculatus 具瘤岗白蚁（中非、喀麦隆、中非共和国、
 刚果民主共和国、加蓬、尼日利亚）
 
-#### 库塔巴白蚁属 Koutabatermes
+#### 库塔巴白蚁属 Koutabatermes {: #koutabatermes }
 
 \*Koutabatermes spinifer 具刺库塔巴白蚁（新热带界具体国家未核、喀麦隆）
 
-#### 克雷切克白蚁属 Krecekitermes
+#### 克雷切克白蚁属 Krecekitermes {: #krecekitermes }
 
 \*Krecekitermes daironi 戴龙克雷切克白蚁（南美洲、哥伦比亚、法属圭亚那）
 
-#### 钳白蚁属 Labidotermes
+#### 钳白蚁属 Labidotermes {: #labidotermes }
 
 \*Labidotermes celisi 塞利斯钳白蚁（中非、喀麦隆）
 
-#### 长工白蚁属 Longustitermes
+#### 长工白蚁属 Longustitermes {: #longustitermes }
 
 \*Longustitermes manni 曼长工白蚁（巴西、法属圭亚那、哥伦比亚、秘鲁、
 玻利维亚、哥斯达黎加、洪都拉斯、巴拿马）
 
-#### 剑白蚁属 Machadotermes
+#### 剑白蚁属 Machadotermes {: #machadotermes }
 
 \*Machadotermes inflatus 过高剑白蚁（旧热带界）
 
@@ -3483,16 +3548,16 @@ Machadotermes latus 宽剑白蚁（旧热带界）
 
 Machadotermes rigidus 强直剑白蚁（旧热带界）
 
-#### 曼戈尔德白蚁属 Mangolditermes
+#### 曼戈尔德白蚁属 Mangolditermes {: #mangolditermes }
 
 \*Mangolditermes curveileum 曲回曼戈尔德白蚁（南美洲、哥伦比亚、法属圭亚那、玻利维亚、
 巴西、巴拉圭、秘鲁、特立尼达和多巴哥）
 
-#### 海胆白蚁属 Ourissotermes
+#### 海胆白蚁属 Ourissotermes {: #ourissotermes }
 
 \*Ourissotermes giblinorum 吉布林海胆白蚁（南美洲）
 
-#### 帕塔瓦白蚁属 Patawatermes
+#### 帕塔瓦白蚁属 Patawatermes {: #patawatermes }
 
 Patawatermes nigripunctatus 黑点帕塔瓦白蚁（南美洲、哥伦比亚、法属圭亚那、厄瓜多尔、
 巴西、玻利维亚、秘鲁、特立尼达和多巴哥）
@@ -3501,21 +3566,21 @@ Patawatermes nigripunctatus 黑点帕塔瓦白蚁（南美洲、哥伦比亚、�
 委内瑞拉、巴拉圭、阿根廷、玻利维亚、
 巴拿马、特立尼达和多巴哥）
 
-#### 锐白蚁属 Phoxotermes
+#### 锐白蚁属 Phoxotermes {: #phoxotermes }
 
 \*Phoxotermes cerberus 三头犬锐白蚁（中非、喀麦隆、刚果）
 
-#### 突吻白蚁属 Rostrotermes
+#### 突吻白蚁属 Rostrotermes {: #rostrotermes }
 
 \*Rostrotermes cornutus 具角突吻白蚁（西非、科特迪瓦、几内亚、利比里亚、
 尼日利亚、塞拉利昂）
 
-#### 变红白蚁属 Rubeotermes
+#### 变红白蚁属 Rubeotermes {: #rubeotermes }
 
 \*Rubeotermes jheringi 耶林变红白蚁（南美洲、巴西、哥伦比亚、法属圭亚那、
 特立尼达和多巴哥）
 
-#### 腹爆白蚁属 Ruptitermes
+#### 腹爆白蚁属 Ruptitermes {: #ruptitermes }
 
 Ruptitermes araujoi 阿劳若腹爆白蚁（巴西）
 
@@ -3548,18 +3613,18 @@ Ruptitermes reconditus 隐匿腹爆白蚁（新热带界、巴拿马、巴西、
 \*Ruptitermes xanthochiton 黄袍腹爆白蚁（南美洲、巴西、巴拉圭、法属圭亚那、
 玻利维亚）
 
-#### 拉斯特白蚁属 Rustitermes
+#### 拉斯特白蚁属 Rustitermes {: #rustitermes }
 
 \*Rustitermes boteroi 博特罗拉斯特白蚁（南美洲、哥伦比亚、法属圭亚那、巴西、
 特立尼达和多巴哥）
 
-#### 洁白蚁属 Skatitermes
+#### 洁白蚁属 Skatitermes {: #skatitermes }
 
 \*Skatitermes psammophilus 喜沙洁白蚁（非洲南部南非）
 
 Skatitermes watti 瓦特洁白蚁（非洲南部南非）
 
-#### 稀白蚁属 Speculitermes
+#### 稀白蚁属 Speculitermes {: #speculitermes }
 
 Speculitermes angustigulus 狭颏稀白蚁（南亚、印度、中国）
 
@@ -3587,18 +3652,18 @@ Speculitermes sinhalensis 僧伽罗稀白蚁（斯里兰卡、印度）
 
 Speculitermes triangularis 三角稀白蚁（南亚、印度）
 
-#### 足白蚁属 Tetimatermes
+#### 足白蚁属 Tetimatermes {: #tetimatermes }
 
 \*Tetimatermes oliveirae 橄榄树足白蚁（巴西）
 
-#### 奇囟白蚁属 Tonsuritermes
+#### 奇囟白蚁属 Tonsuritermes {: #tonsuritermes }
 
 Tonsuritermes mathewsi 马修斯奇囟白蚁（巴西）
 
 \*Tonsuritermes tucki 塔克奇囟白蚁（南美洲、巴西、哥伦比亚、法属圭亚那、
 巴拉圭、秘鲁）
 
-#### 发白蚁属 Trichotermes
+#### 发白蚁属 Trichotermes {: #trichotermes }
 
 Trichotermes ducis 首领发白蚁（旧热带界、刚果民主共和国）
 
@@ -3606,15 +3671,15 @@ Trichotermes machadoi 马查多发白蚁（旧热带界）
 
 \*Trichotermes villifrons 毛额发白蚁（非洲、刚果民主共和国、中非、刚果共和国）
 
-#### 三棒白蚁属 Triclavitermes
+#### 三棒白蚁属 Triclavitermes {: #triclavitermes }
 
 \*Triclavitermes catoleensis 卡托莱三棒白蚁（巴西、巴伊亚）
 
-#### 黄汁白蚁属 Tucupitermes
+#### 黄汁白蚁属 Tucupitermes {: #tucupitermes }
 
 \*Tucupitermes ubixaba 乌比沙巴黄汁白蚁（巴西）
 
-### 响白蚁亚科 Crepititermitinae
+### 响白蚁亚科 Crepititermitinae {: #crepititermitinae }
 
 响白蚁亚科由 Hellemans、
 Engel 与 Bourguignon 于 2024 年建立(21)，
@@ -3645,13 +3710,13 @@ al., 2015）(47)，
 
 Crepititermes verruculosus 多疣响白蚁（参考文献21的补充资料）
 
-#### 响白蚁属 Crepititermes
+#### 响白蚁属 Crepititermes {: #crepititermes }
 
 \*Crepititermes verruculosus 多疣响白蚁（南美洲、巴西、哥伦比亚、法属圭亚那、
 圭亚那、玻利维亚、厄瓜多尔、巴拉圭、
 秘鲁、特立尼达和多巴哥）
 
-### 方白蚁亚科 Cubitermitinae
+### 方白蚁亚科 Cubitermitinae {: #cubitermitinae }
 
 方白蚁亚科由 Weidner 于 1956 年建立，
 模式属为方白蚁属 Cubitermes Wasmann, 1902，亚科名取自模式属。
@@ -3677,11 +3742,11 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 经济上本亚科全系食土类群，其垅巢在湿润牧场边缘密生时可能占压土地(50)。
 
-#### 无毛白蚁属 Apilitermes
+#### 无毛白蚁属 Apilitermes {: #apilitermes }
 
 \*Apilitermes longiceps 长头无毛白蚁（旧热带界、刚果、尼日利亚）
 
-#### 基齿白蚁属 Basidentitermes
+#### 基齿白蚁属 Basidentitermes {: #basidentitermes }
 
 Basidentitermes amicus 友善基齿白蚁（旧热带界、坦桑尼亚）
 
@@ -3708,13 +3773,13 @@ Basidentitermes potens 强壮基齿白蚁（西非、科特迪瓦、冈比亚、
 
 Basidentitermes trilobatus 三裂基齿白蚁（旧热带界）
 
-#### 铲白蚁属 Batillitermes
+#### 铲白蚁属 Batillitermes {: #batillitermes }
 
 Batillitermes clypeatus 大唇铲白蚁（非洲南部、南非、尼日利亚）
 
 \*Batillitermes monachus 僧侣铲白蚁（非洲南部、南非、津巴布韦）
 
-#### 刻痕白蚁属 Crenetermes
+#### 刻痕白蚁属 Crenetermes {: #crenetermes }
 
 \*Crenetermes albotarsalis 白跗刻痕白蚁（中非、喀麦隆、刚果、刚果民主共和国、
 加蓬、尼日利亚、卢旺达、坦桑尼亚、赞比亚）
@@ -3727,7 +3792,7 @@ Crenetermes mandibulatus 大颚刻痕白蚁（旧热带界）
 
 Crenetermes mixtus 混杂刻痕白蚁（旧热带界）
 
-#### 方白蚁属 Cubitermes
+#### 方白蚁属 Cubitermes {: #cubitermes }
 
 Cubitermes atrox 凶猛方白蚁（旧热带界）
 
@@ -3756,7 +3821,7 @@ Cubitermes zulucola 祖鲁兰方白蚁（非洲南部、南非祖鲁兰）
 
 Cubitermes zuluensis 祖鲁方白蚁（非洲南部、南非祖鲁兰）
 
-#### 真唇白蚁属 Euchilotermes
+#### 真唇白蚁属 Euchilotermes {: #euchilotermes }
 
 Euchilotermes acutidens 尖齿真唇白蚁（旧热带界）
 
@@ -3771,12 +3836,12 @@ tensus 指名亚种
 
 Euchilotermes umbraticola 隐蔽真唇白蚁（旧热带界）
 
-#### 峰白蚁属 Fastigitermes
+#### 峰白蚁属 Fastigitermes {: #fastigitermes }
 
 \*Fastigitermes jucundus 可爱峰白蚁（非洲热带、安哥拉、喀麦隆、中非共和国、
 刚果、刚果民主共和国、尼日利亚）
 
-#### 叉白蚁属 Furculitermes
+#### 叉白蚁属 Furculitermes {: #furculitermes }
 
 Furculitermes brevilabius 短唇叉白蚁（旧热带界）
 
@@ -3794,7 +3859,7 @@ Furculitermes soyeri 索耶叉白蚁（旧热带界）
 
 \*Furculitermes winifredae 威尼弗雷德叉白蚁（旧热带界）
 
-#### 等颚白蚁属 Isognathotermes
+#### 等颚白蚁属 Isognathotermes {: #isognathotermes }
 
 Isognathotermes bulbifrons 球额等颚白蚁（非洲热带）
 
@@ -3816,7 +3881,7 @@ Isognathotermes ugandensis 乌干达等颚白蚁（乌干达、刚果民主共�
 
 Isognathotermes zenkeri 岑克等颚白蚁（喀麦隆、刚果民主共和国）
 
-#### 鳞白蚁属 Lepidotermes
+#### 鳞白蚁属 Lepidotermes {: #lepidotermes }
 
 Lepidotermes amydrus 幽暗鳞白蚁（非洲南部、南非）
 
@@ -3836,21 +3901,21 @@ Lepidotermes simplex 简单鳞白蚁（非洲南部、南非）
 
 Lepidotermes vastus 空闲鳞白蚁（非洲南部、南非）
 
-#### 大颚白蚁属 Megagnathotermes
+#### 大颚白蚁属 Megagnathotermes {: #megagnathotermes }
 
 Megagnathotermes katangensis 加丹加大颚白蚁（非洲、刚果民主共和国加丹加、赞比亚）
 
 \*Megagnathotermes notandus 标记大颚白蚁（西非、科特迪瓦、刚果民主共和国、冈比亚、
 几内亚、尼日利亚、塞拉利昂）
 
-#### 锐尖白蚁属 Mucrotermes
+#### 锐尖白蚁属 Mucrotermes {: #mucrotermes }
 
 Mucrotermes heterochilus 异唇锐尖白蚁（旧热带界、贝宁、喀麦隆、刚果民主共和国、
 加纳、几内亚、尼日利亚）
 
 \*Mucrotermes osborni 奥斯本锐尖白蚁（旧热带界、刚果民主共和国）
 
-#### 净白蚁属 Nitiditermes
+#### 净白蚁属 Nitiditermes {: #nitiditermes }
 
 Nitiditermes aemulus 竞争净白蚁（几内亚）
 
@@ -3888,7 +3953,7 @@ Nitiditermes truncatoides 拟伤残净白蚁（南非）
 
 Nitiditermes truncatus 伤残净白蚁（南非）
 
-#### 节白蚁属 Noditermes
+#### 节白蚁属 Noditermes {: #noditermes }
 
 Noditermes angolensis 安哥拉节白蚁（安哥拉）
 
@@ -3907,13 +3972,13 @@ Noditermes profestus 工作日节白蚁（刚果民主共和国）
 
 Noditermes wasambaricus 瓦森巴拉节白蚁（肯尼亚、坦桑尼亚）
 
-#### 奥卡万戈白蚁属 Okavangotermes
+#### 奥卡万戈白蚁属 Okavangotermes {: #okavangotermes }
 
 \*Okavangotermes giessi 吉斯奥卡万戈白蚁（安哥拉、纳米比亚）
 
 Okavangotermes guineensis 几内亚奥卡万戈白蚁（加纳）
 
-#### 蛇白蚁属 Ophiotermes
+#### 蛇白蚁属 Ophiotermes {: #ophiotermes }
 
 Ophiotermes gracilis 细瘦蛇白蚁（安哥拉）
 
@@ -3932,21 +3997,21 @@ Ophiotermes shabaensis 沙巴蛇白蚁（刚果民主共和国）
 Ophiotermes ugandaensis 乌干达蛇白蚁（安哥拉、刚果民主共和国、卢旺达、
 坦桑尼亚、乌干达）
 
-#### 直白蚁属 Orthotermes
+#### 直白蚁属 Orthotermes {: #orthotermes }
 
 \*Orthotermes depressifrons 陷额直白蚁（非洲热带）
 
 Orthotermes mansuetus 顺从直白蚁（刚果民主共和国、安哥拉、喀麦隆、加蓬）
 
-#### 奥万博兰白蚁属 Ovambotermes
+#### 奥万博兰白蚁属 Ovambotermes {: #ovambotermes }
 
 \*Ovambotermes sylvaticus 林地奥万博兰白蚁（纳米比亚、赞比亚）
 
-#### 棘白蚁属 Pilotermes
+#### 棘白蚁属 Pilotermes {: #pilotermes }
 
 \*Pilotermes langi 兰棘白蚁（刚果民主共和国）
 
-#### 多铲白蚁属 Polyspathotermes
+#### 多铲白蚁属 Polyspathotermes {: #polyspathotermes }
 
 Polyspathotermes bugeserae 布盖塞拉多铲白蚁（卢旺达）
 
@@ -3965,13 +4030,13 @@ Polyspathotermes oblectatus 愉悦多铲白蚁（刚果民主共和国、马拉�
 Polyspathotermes umbratus 荫生多铲白蚁（刚果民主共和国、几内亚、肯尼亚、马拉维、
 坦桑尼亚）
 
-#### 象鼻白蚁属 Proboscitermes
+#### 象鼻白蚁属 Proboscitermes {: #proboscitermes }
 
 Proboscitermes mcgrewi 麦克格鲁象鼻白蚁（坦桑尼亚）
 
 \*Proboscitermes tubuliferus 具管象鼻白蚁（喀麦隆、刚果民主共和国、加蓬、尼日利亚）
 
-#### 原方白蚁属 Procubitermes
+#### 原方白蚁属 Procubitermes {: #procubitermes }
 
 Procubitermes aburiensis 阿布里原方白蚁（西非、科特迪瓦、几内亚、多哥、加纳、
 尼日利亚）
@@ -3994,11 +4059,11 @@ Procubitermes undulans 波纹原方白蚁（东非、乌干达、刚果民主共
 
 Procubitermes wasmanni 沃斯曼原方白蚁（喀麦隆）
 
-#### 前峰白蚁属 Profastigitermes
+#### 前峰白蚁属 Profastigitermes {: #profastigitermes }
 
 \*Profastigitermes putnami 帕特南前峰白蚁（喀麦隆、刚果民主共和国）
 
-#### 三方白蚁属 Ternicubitermes
+#### 三方白蚁属 Ternicubitermes {: #ternicubitermes }
 
 \*Ternicubitermes bilobatodes 双叶三方白蚁（冈比亚、几内亚比绍、塞内加尔）
 
@@ -4028,7 +4093,7 @@ Ternicubitermes weissi 魏斯三方白蚁（刚果（布）、利比里亚）
 
 Ternicubitermes zavattarii 扎瓦塔里三方白蚁（埃塞俄比亚、肯尼亚、坦桑尼亚）
 
-#### 胸白蚁属 Thoracotermes
+#### 胸白蚁属 Thoracotermes {: #thoracotermes }
 
 Thoracotermes brevinotus 短背胸白蚁（西非、几内亚、科特迪瓦）
 
@@ -4041,11 +4106,11 @@ Thoracotermes lusingensis 卢森加胸白蚁（安哥拉、刚果民主共和国
 几内亚、科特迪瓦、利比里亚、尼日利亚、
 塞拉利昂）
 
-#### 菱角白蚁属 Trapellitermes
+#### 菱角白蚁属 Trapellitermes {: #trapellitermes }
 
 \*Trapellitermes loxomastax 弯颚菱角白蚁（西非、科特迪瓦）
 
-#### 爪白蚁属 Unguitermes
+#### 爪白蚁属 Unguitermes {: #unguitermes }
 
 Unguitermes acutifrons 尖额爪白蚁（非洲热带）
 
@@ -4061,11 +4126,11 @@ Unguitermes trispinosus 三针爪白蚁（非洲热带）
 
 Unguitermes unidentatus 单齿爪白蚁（纳米比亚）
 
-#### 独角白蚁属 Unicornitermes
+#### 独角白蚁属 Unicornitermes {: #unicornitermes }
 
 \*Unicornitermes gaerdesi 盖尔德独角白蚁（纳米比亚、南非）
 
-### 圆筒白蚁亚科 Cylindrotermitinae
+### 圆筒白蚁亚科 Cylindrotermitinae {: #cylindrotermitinae }
 
 圆筒白蚁亚科由 Hellemans、
 Engel 与 Bourguignon 于 2024 年建立(21)，
@@ -4089,14 +4154,14 @@ Cephalotermes 垅巢群体）。
 圆筒白蚁属 Cylindrotermes nordenskioeldi
 在巴西东北部甘蔗田被判定为有害(51)。
 
-#### 头白蚁属 Cephalotermes
+#### 头白蚁属 Cephalotermes {: #cephalotermes }
 
 \*Cephalotermes rectangularis 直角头白蚁（旧热带界、西非、中非、贝宁、喀麦隆、
 刚果、刚果民主共和国、加蓬、几内亚、
 科特迪瓦、利比里亚、尼日利亚、
 圣多美和普林西比、坦桑尼亚、乌干达）
 
-#### 圆筒白蚁属 Cylindrotermes
+#### 圆筒白蚁属 Cylindrotermes {: #cylindrotermes }
 
 Cylindrotermes brevipilosus 短毛圆筒白蚁（新热带界）
 
@@ -4114,7 +4179,7 @@ Cylindrotermes parvignathus 小颚圆筒白蚁（新热带界）
 
 Cylindrotermes sapiranga 萨皮兰加圆筒白蚁（新热带界）
 
-### 恩格尔白蚁亚科 Engelitermitinae
+### 恩格尔白蚁亚科 Engelitermitinae {: #engelitermitinae }
 
 恩格尔白蚁亚科由 Romero-Arias、
 Roisin 与 Scheffrahn 等于 2024 年建立(52)，
@@ -4129,11 +4194,11 @@ Roisin 与 Scheffrahn 等于 2024 年建立(52)，
 腹部透明无固体食物，头黄橙色、矩形，上颚粗短、近基部各具一枚三角形齿，胫距式 2:2:2。
 有翅蚁迄今尚未采获。该亚科迄今仅知四个采集点，其发现表明非洲热带雨林中仍有本科独特深层支系有待发现。
 
-#### 恩格尔白蚁属 Engelitermes
+#### 恩格尔白蚁属 Engelitermes {: #engelitermes }
 
 \*Engelitermes zambo 赞博恩格尔白蚁（喀麦隆）
 
-### 孔白蚁亚科 Foraminitermitinae
+### 孔白蚁亚科 Foraminitermitinae {: #foraminitermitinae }
 
 孔白蚁亚科由 Holmgren 于 1912 年建立，
 模式属为孔白蚁属 Foraminitermes Holmgren, 1912；
@@ -4148,7 +4213,7 @@ Roisin 与 Scheffrahn 等于 2024 年建立(52)，
 与圆球白蚁亚科及培菌的大白蚁亚科构成近缘的早期分支，
 是研究本科早期演化（尤其是食性转变与肠道共生微生物区系的起源）的关键狭域孑遗支系。
 
-#### 孔白蚁属 Foraminitermes
+#### 孔白蚁属 Foraminitermes {: #foraminitermes }
 
 Foraminitermes coatoni 科顿孔白蚁（安哥拉、刚果民主共和国）
 
@@ -4164,7 +4229,7 @@ Foraminitermes rhinoceros 犀牛孔白蚁（中非、中非共和国、肯尼亚
 Foraminitermes valens 强健孔白蚁（中非、喀麦隆、几内亚、科特迪瓦、尼日利亚、
 坦桑尼亚）
 
-#### 唇白蚁属 Labritermes
+#### 唇白蚁属 Labritermes {: #labritermes }
 
 \*Labritermes buttelreepeni 巴特里彭唇白蚁（印度尼西亚、马来西亚）
 
@@ -4172,12 +4237,12 @@ Labritermes emersoni 埃默森唇白蚁（马来西亚、印度尼西亚、新�
 
 Labritermes kistneri 基斯特纳唇白蚁（马来西亚、印度尼西亚）
 
-#### 伪小白蚁属 Pseudomicrotermes
+#### 伪小白蚁属 Pseudomicrotermes {: #pseudomicrotermes }
 
 \*Pseudomicrotermes alboniger 白黑伪小白蚁（喀麦隆、刚果（金）、尼日利亚、津巴布韦、
 刚果民主共和国）
 
-### 剪白蚁亚科 Forficulitermitinae
+### 剪白蚁亚科 Forficulitermitinae {: #forficulitermitinae }
 
 剪白蚁亚科由 Hellemans、
 Engel 与 Bourguignon 于 2024 年建立(21)，
@@ -4193,11 +4258,11 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 但拓扑检验未拒绝其与恩格尔白蚁亚科近缘的假说；其独特的形态组合足以独立成亚科，代表本科中非基部、
 系统位置未定的又一狭域孑遗单型支系。
 
-#### 剪白蚁属 Forficulitermes
+#### 剪白蚁属 Forficulitermes {: #forficulitermes }
 
 \*Forficulitermes planifrons 扁额剪白蚁（中非喀麦隆）
 
-### 大白蚁亚科 Macrotermitinae
+### 大白蚁亚科 Macrotermitinae {: #macrotermitinae }
 
 大白蚁亚科由 Kemner 于 1934 年建立(53)，
 模式属为大白蚁属 Macrotermes Holmgren, 1909（希腊文 makros，大，
@@ -4233,11 +4298,11 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 
 Macrotermes annandalei 土垄大白蚁
 
-#### 刺白蚁属 Acanthotermes
+#### 刺白蚁属 Acanthotermes {: #acanthotermes }
 
 \*Acanthotermes acanthothorax 刺胸刺白蚁（旧热带界、西非、中非、东非）
 
-#### 奇齿白蚁属 Allodontermes
+#### 奇齿白蚁属 Allodontermes {: #allodontermes }
 
 Allodontermes rhodesiensis 罗得西亚奇齿白蚁（旧热带界东非、非洲南部）
 
@@ -4246,7 +4311,7 @@ Allodontermes rhodesiensis 罗得西亚奇齿白蚁（旧热带界东非、非�
 
 Allodontermes tenax 执着奇齿白蚁（旧热带界东非、非洲南部）
 
-#### 钩白蚁属 Ancistrotermes
+#### 钩白蚁属 Ancistrotermes {: #ancistrotermes }
 
 Ancistrotermes cavithorax 凹胸钩白蚁（西非、科特迪瓦、塞内加尔、贝宁、冈比亚、
 喀麦隆、中非、刚果民主共和国、加纳、
@@ -4293,11 +4358,11 @@ Ancistrotermes wasmanni 沃斯曼钩白蚁（刚果民主共和国）
 
 Ancistrotermes xiai 夏氏钩白蚁（云南（勐腊勐仑600m））
 
-#### 左转白蚁属 Euscaiotermes
+#### 左转白蚁属 Euscaiotermes {: #euscaiotermes }
 
 \*Euscaiotermes primus 第一左转白蚁（非洲热带、印度）
 
-#### 地白蚁属 Hypotermes
+#### 地白蚁属 Hypotermes {: #hypotermes }
 
 Hypotermes bawanensis 坝湾地白蚁（中国云南）
 
@@ -4326,7 +4391,7 @@ Hypotermes xenotermitis 氙地白蚁（印度、巴基斯坦、孟加拉国、�
 
 Hypotermes yingjiangensis 盈江地白蚁（中国云南）
 
-#### 大白蚁属 Macrotermes
+#### 大白蚁属 Macrotermes {: #macrotermes }
 
 Macrotermes acrocephalus 隆头大白蚁（中国云南、瑞丽）
 
@@ -4480,12 +4545,12 @@ Macrotermes zhejiangensis 浙江大白蚁（中国浙江、衢州）
 
 Macrotermes zhui 朱氏大白蚁（中国广西）
 
-#### 大前白蚁属 Megaprotermes
+#### 大前白蚁属 Megaprotermes {: #megaprotermes }
 
 \*Megaprotermes giffardii 吉法德大前白蚁（科特迪瓦、中非共和国、刚果民主共和国、
 冈比亚、加纳、尼日利亚、塞内加尔）
 
-#### 小白蚁属 Microtermes
+#### 小白蚁属 Microtermes {: #microtermes }
 
 Microtermes aethiopicus 埃塞俄比亚小白蚁（埃塞俄比亚）
 
@@ -4633,7 +4698,7 @@ Microtermes vadschaggae 瓦斯查嘎小白蚁（东非、坦桑尼亚、塞内�
 
 Microtermes yemenensis 也门小白蚁（阿拉伯半岛、也门、沙特阿拉伯）
 
-#### 土白蚁属 Odontotermes
+#### 土白蚁属 Odontotermes {: #odontotermes }
 
 Odontotermes acutidens 尖齿土白蚁（西非科特迪瓦、加纳、几内亚）
 
@@ -5077,7 +5142,7 @@ Odontotermes zulunatalensis 祖鲁纳塔尔土白蚁（非洲南部南非）
 
 Odontotermes zunyiensis 遵义土白蚁（中国贵州）
 
-#### 前白蚁属 Protermes
+#### 前白蚁属 Protermes {: #protermes }
 
 Protermes hirticeps 毛头前白蚁（东非、乌干达、刚果、刚果民主共和国、尼日利亚）
 
@@ -5091,7 +5156,7 @@ Protermes mwekerae 穆维盖拉前白蚁（安哥拉、赞比亚）
 \*Protermes prorepens 前匍前白蚁（安哥拉、喀麦隆、中非共和国、刚果民主共和国、
 加蓬、科特迪瓦、利比里亚、尼日利亚、塞拉利昂）
 
-#### 伪刺白蚁属 Pseudacanthotermes
+#### 伪刺白蚁属 Pseudacanthotermes {: #pseudacanthotermes }
 
 Pseudacanthotermes curticeps 短头伪刺白蚁（刚果民主共和国）
 
@@ -5113,7 +5178,7 @@ Pseudacanthotermes spiniger 具刺伪刺白蚁（旧热带界、西非、中非�
 科特迪瓦、肯尼亚、尼日利亚、苏丹、
 坦桑尼亚、乌干达、赞比亚）
 
-#### 聚刺白蚁属 Synacanthotermes
+#### 聚刺白蚁属 Synacanthotermes {: #synacanthotermes }
 
 \*Synacanthotermes heterodon 异齿聚刺白蚁（中非、喀麦隆、中非共和国、刚果民主共和国）
 
@@ -5121,7 +5186,7 @@ Synacanthotermes trilobatus 三裂聚刺白蚁（安哥拉、刚果民主共和�
 
 Synacanthotermes zanzibarensis 桑给巴尔聚刺白蚁（东非、坦桑尼亚、埃塞俄比亚、肯尼亚）
 
-### 锯白蚁亚科 Microcerotermitinae
+### 锯白蚁亚科 Microcerotermitinae {: #microcerotermitinae }
 
 锯白蚁亚科由 Holmgren 于 1910 年建立（Microcerotermitinae
 Holmgren, 1910）(14)，
@@ -5141,7 +5206,7 @@ Holmgren, 1910）(14)，
 南美的斯特伦基锯白蚁 M. strunckii 为果树林次要害虫(60)，
 树栖锯白蚁 M. arboreus 为百香果次要害虫。
 
-#### 锯白蚁属 Microcerotermes
+#### 锯白蚁属 Microcerotermes {: #microcerotermes }
 
 Microcerotermes acerbus 粗鲁锯白蚁（塞拉利昂）
 
@@ -5485,13 +5550,13 @@ rubriceps 红头亚种
 
 Microcerotermes zuluoides 似祖鲁锯白蚁（非洲南部、南非）
 
-#### 倒钩白蚁属 Onkotermes
+#### 倒钩白蚁属 Onkotermes {: #onkotermes }
 
 \*Onkotermes brevicorniger 短角倒钩白蚁（阿根廷、巴西、智利）
 
 Onkotermes corochus 瘤额倒钩白蚁（阿根廷、巴拉圭）
 
-### 瘤白蚁亚科 Mirocapritermitinae
+### 瘤白蚁亚科 Mirocapritermitinae {: #mirocapritermitinae }
 
 瘤白蚁亚科由 Kemner 于 1934 年建立（Mirocapritermitinae
 Kemner, 1934），
@@ -5515,7 +5580,7 @@ Kemner, 1934），
 sp. 为害袋装幼苗根部，
 致幼苗生长受阻。
 
-#### 突扭白蚁属 Dicuspiditermes
+#### 突扭白蚁属 Dicuspiditermes {: #dicuspiditermes }
 
 Dicuspiditermes achankovili 阿坚柯维尔突扭白蚁（印度）
 
@@ -5560,7 +5625,7 @@ Dicuspiditermes sisiri 西西尔突扭白蚁（印度、喀拉拉）
 
 Dicuspiditermes spinitibialis 刺胫突扭白蚁（东亚、中国、泰国）
 
-#### 平白蚁属 Homallotermes
+#### 平白蚁属 Homallotermes {: #homallotermes }
 
 Homallotermes eleanorae 埃莉诺平白蚁（文莱、印度尼西亚、马来西亚）
 
@@ -5570,15 +5635,15 @@ Homallotermes exiguus 微小平白蚁（印度尼西亚、马来西亚）
 
 Homallotermes pilosus 多毛平白蚁（印度）
 
-#### 印扭白蚁属 Indocapritermes
+#### 印扭白蚁属 Indocapritermes {: #indocapritermes }
 
 \*Indocapritermes aruni 阿伦印扭白蚁（南亚、印度）
 
-#### 凯姆勒白蚁属 Kemneritermes
+#### 凯姆勒白蚁属 Kemneritermes {: #kemneritermes }
 
 \*Kemneritermes sarawakensis 砂拉越凯姆勒白蚁（婆罗洲）
 
-#### 克里希纳扭白蚁属 Krishnacapritermes
+#### 克里希纳扭白蚁属 Krishnacapritermes {: #krishnacapritermes }
 
 Krishnacapritermes dineshan 迪内尚克里希纳扭白蚁（印度、喀拉拉邦西高止山）
 
@@ -5588,13 +5653,13 @@ Krishnacapritermes manikandan 马尼坎丹克里希纳扭白蚁（印度、喀�
 
 Krishnacapritermes thakuri 塔库尔克里希纳扭白蚁（南亚、印度）
 
-#### 唇扭白蚁属 Labiocapritermes
+#### 唇扭白蚁属 Labiocapritermes {: #labiocapritermes }
 
 \*Labiocapritermes distortus 扭曲唇扭白蚁（印度）
 
 Labiocapritermes ghatensis 高止唇扭白蚁（印度）
 
-#### 瘤白蚁属 Mirocapritermes
+#### 瘤白蚁属 Mirocapritermes {: #mirocapritermes }
 
 Mirocapritermes concaveus 凹瘤白蚁（泰国）
 
@@ -5612,11 +5677,11 @@ Mirocapritermes snyderi 斯奈德瘤白蚁（孟加拉国）
 
 Mirocapritermes valeriae 瓦莱里瘤白蚁（缅甸）
 
-#### 东扭白蚁属 Oriencapritermes
+#### 东扭白蚁属 Oriencapritermes {: #oriencapritermes }
 
 \*Oriencapritermes kluangensis 居銮东扭白蚁（印度尼西亚、马来西亚）
 
-#### 近扭白蚁属 Pericapritermes
+#### 近扭白蚁属 Pericapritermes {: #pericapritermes }
 
 Pericapritermes appellans 定名近扭白蚁（西非科特迪瓦、加纳、几内亚、尼日利亚、
 塞拉利昂）
@@ -5715,7 +5780,7 @@ Pericapritermes vermai 维尔马近扭白蚁（印度）
 
 Pericapritermes wuzhishanensis 五指山近扭白蚁（中国海南）
 
-#### 前扭白蚁属 Procapritermes
+#### 前扭白蚁属 Procapritermes {: #procapritermes }
 
 Procapritermes atypus 地蛛前扭白蚁（印度尼西亚、马来西亚）
 
@@ -5746,7 +5811,7 @@ Procapritermes sandakanensis 山打根前扭白蚁（马来西亚）
 
 Procapritermes zhangfengensis 章凤前扭白蚁（云南（陇川890 m）、中国）
 
-#### 伪扭白蚁属 Pseudocapritermes
+#### 伪扭白蚁属 Pseudocapritermes {: #pseudocapritermes }
 
 Pseudocapritermes angustignathus 细颚伪扭白蚁（马来西亚）
 
@@ -5784,13 +5849,13 @@ Pseudocapritermes sowerbyi 圆囟伪扭白蚁（中国）
 
 Pseudocapritermes tikadari 铁卡达伪扭白蚁（印度、不丹）
 
-#### 丽娜扭白蚁属 Rinacapritermes
+#### 丽娜扭白蚁属 Rinacapritermes {: #rinacapritermes }
 
 Rinacapritermes abundans 丰富丽娜扭白蚁（印度）
 
 \*Rinacapritermes silvius 林栖丽娜扭白蚁（印度）
 
-#### 华扭白蚁属 Sinocapritermes
+#### 华扭白蚁属 Sinocapritermes {: #sinocapritermes }
 
 Sinocapritermes albipennis 白翅华扭白蚁（中国、云南）
 
@@ -5824,11 +5889,11 @@ Sinocapritermes xiushanensis 秀山华扭白蚁（中国、重庆）
 
 Sinocapritermes yunnanensis 滇华扭白蚁（中国、云南）
 
-#### 聚扭白蚁属 Syncapritermes
+#### 聚扭白蚁属 Syncapritermes {: #syncapritermes }
 
 \*Syncapritermes greeni 格林聚扭白蚁（印度尼西亚、马来西亚）
 
-### 象白蚁亚科 Nasutitermitinae
+### 象白蚁亚科 Nasutitermitinae {: #nasutitermitinae }
 
 象白蚁亚科由 Hare 于 1937 年建立（《Termite phylogeny as
 evidenced by soldier mandible development》，
@@ -5864,26 +5929,26 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 须白蚁 Hospitalitermes sp.
 
-#### 针白蚁属 Aciculitermes
+#### 针白蚁属 Aciculitermes {: #aciculitermes }
 
 \*Aciculitermes aciculatus 针状针白蚁（泰国、印度尼西亚、马来西亚、新加坡）
 
 Aciculitermes maymyoensis 眉妙针白蚁（中国、缅甸、泰国）
 
-#### 非锥白蚁属 Afrosubulitermes
+#### 非锥白蚁属 Afrosubulitermes {: #afrosubulitermes }
 
 \*Afrosubulitermes congoensis 刚果非锥白蚁（刚果共和国、安哥拉、喀麦隆、
 刚果民主共和国、加纳、科特迪瓦、
 尼日利亚、乌干达）
 
-#### 无颚白蚁属 Agnathotermes
+#### 无颚白蚁属 Agnathotermes {: #agnathotermes }
 
 Agnathotermes crassinasus 粗鼻无颚白蚁（巴西、哥伦比亚、厄瓜多尔）
 
 \*Agnathotermes glaber 光秃无颚白蚁（巴西、法属圭亚那、哥伦比亚、特立尼达、
 玻利维亚、厄瓜多尔、特立尼达和多巴哥）
 
-#### 钝颚白蚁属 Ahmaditermes
+#### 钝颚白蚁属 Ahmaditermes {: #ahmaditermes }
 
 Ahmaditermes choui 周氏钝颚白蚁（香港）
 
@@ -5929,13 +5994,13 @@ Ahmaditermes tiantongensis 天童钝颚白蚁（中国浙江）
 
 Ahmaditermes xiangyunensis 祥云钝颚白蚁（中国云南）
 
-#### 安瓿白蚁属 Ampoulitermes
+#### 安瓿白蚁属 Ampoulitermes {: #ampoulitermes }
 
 \*Ampoulitermes wynaadensis 维纳德安瓿白蚁（印度）
 
 Ampoulitermes zacharia 扎卡里亚安瓿白蚁（印度）
 
-#### 棱角白蚁属 Angularitermes
+#### 棱角白蚁属 Angularitermes {: #angularitermes }
 
 Angularitermes clypeatus 大唇棱角白蚁（巴西、法属圭亚那、厄瓜多尔）
 
@@ -5950,7 +6015,7 @@ Angularitermes pinocchio 松果棱角白蚁（巴西、秘鲁）
 
 Angularitermes tiguassu 毛鼻棱角白蚁（巴西）
 
-#### 魔白蚁属 Anhangatermes
+#### 魔白蚁属 Anhangatermes {: #anhangatermes }
 
 Anhangatermes anhanguera 魔鬼魔白蚁（巴西）
 
@@ -5962,11 +6027,11 @@ Anhangatermes juruena 茹鲁埃纳魔白蚁（巴西）
 
 Anhangatermes pilosus 多毛魔白蚁（巴西）
 
-#### 安的列斯白蚁属 Antillitermes
+#### 安的列斯白蚁属 Antillitermes {: #antillitermes }
 
 \*Antillitermes subtilis 细瘦安的列斯白蚁（古巴、多米尼加）
 
-#### 阿劳若白蚁属 Araujotermes
+#### 阿劳若白蚁属 Araujotermes {: #araujotermes }
 
 \*Araujotermes caissara 凯萨拉阿劳若白蚁（巴西、阿根廷）
 
@@ -5977,11 +6042,11 @@ Araujotermes parvellus 长毛阿劳若白蚁（巴西、哥伦比亚、法属圭
 
 Araujotermes zeteki 策特克阿劳若白蚁（哥伦比亚、巴西、巴拿马、委内瑞拉）
 
-#### 弧白蚁属 Arcotermes
+#### 弧白蚁属 Arcotermes {: #arcotermes }
 
 \*Arcotermes tubus 管鼻弧白蚁（中国江西）
 
-#### 阿特拉斯白蚁属 Atlantitermes
+#### 阿特拉斯白蚁属 Atlantitermes {: #atlantitermes }
 
 \*Atlantitermes guarinim 好斗阿特拉斯白蚁（巴西）
 
@@ -6002,7 +6067,7 @@ Atlantitermes snyderi 斯奈德阿特拉斯白蚁（巴西、法属圭亚那、�
 
 Atlantitermes stercophilus 喜粪阿特拉斯白蚁（巴西、秘鲁）
 
-#### 澳大利亚白蚁属 Australitermes
+#### 澳大利亚白蚁属 Australitermes {: #australitermes }
 
 \*Australitermes dilucidus 清晰澳大利亚白蚁（澳大利亚）
 
@@ -6010,11 +6075,11 @@ Australitermes insignitus 易辨澳大利亚白蚁（澳大利亚）
 
 Australitermes perlevis 极轻澳大利亚白蚁（澳大利亚）
 
-#### 细颈白蚁属 Baucaliotermes
+#### 细颈白蚁属 Baucaliotermes {: #baucaliotermes }
 
 \*Baucaliotermes hainesi 海恩斯细颈白蚁（南非、纳米比亚）
 
-#### 瓢白蚁属 Bulbitermes
+#### 瓢白蚁属 Bulbitermes {: #bulbitermes }
 
 Bulbitermes borneensis 婆罗瓢白蚁（印度尼西亚、马来西亚）
 
@@ -6085,18 +6150,18 @@ Bulbitermes umasumasensis 乌马斯乌马斯瓢白蚁（新加坡、马来西亚
 
 Bulbitermes vicinus 相似瓢白蚁（印度尼西亚）
 
-#### 林白蚁属 Caetetermes
+#### 林白蚁属 Caetetermes {: #caetetermes }
 
 Caetetermes fontesi 丰特斯林白蚁（南美洲、法属圭亚那）
 
 \*Caetetermes taquarussu 塔夸拉林白蚁（南美洲、巴西、哥伦比亚、法属圭亚那、
 厄瓜多尔、圭亚那）
 
-#### 加勒比白蚁属 Caribitermes
+#### 加勒比白蚁属 Caribitermes {: #caribitermes }
 
 \*Caribitermes discolor 异色加勒比白蚁（多米尼加、波多黎各、古巴、海地、牙买加）
 
-#### 小锡兰白蚁属 Ceylonitermellus
+#### 小锡兰白蚁属 Ceylonitermellus {: #ceylonitermellus }
 
 \*Ceylonitermellus hantanae 汉塔娜小锡兰白蚁（斯里兰卡）
 
@@ -6104,7 +6169,7 @@ Ceylonitermellus kotuae 科图瓦小锡兰白蚁（斯里兰卡）
 
 Ceylonitermellus sahyadriensis 萨亚德里小锡兰白蚁（印度）
 
-#### 锡兰白蚁属 Ceylonitermes
+#### 锡兰白蚁属 Ceylonitermes {: #ceylonitermes }
 
 \*Ceylonitermes escherichi 埃舍里希锡兰白蚁（斯里兰卡）
 
@@ -6114,7 +6179,7 @@ Ceylonitermes nivedita 尼韦迪塔锡兰白蚁（印度）
 
 Ceylonitermes paulosus 保洛斯锡兰白蚁（斯里兰卡、印度）
 
-#### 缩狭白蚁属 Coarctotermes
+#### 缩狭白蚁属 Coarctotermes {: #coarctotermes }
 
 Coarctotermes beharaensis 贝哈拉缩狭白蚁（马达加斯加）
 
@@ -6124,7 +6189,7 @@ Coarctotermes nasonovi 纳索诺夫缩狭白蚁（马达加斯加）
 
 Coarctotermes pauliani 波利昂缩狭白蚁（马达加斯加）
 
-#### 凸鼻白蚁属 Coatitermes
+#### 凸鼻白蚁属 Coatitermes {: #coatitermes }
 
 \*Coatitermes clevelandi 克利夫兰凸鼻白蚁（巴西、哥伦比亚、法属圭亚那、秘鲁、
 玻利维亚、厄瓜多尔、巴拿马）
@@ -6135,11 +6200,11 @@ Coatitermes mazaruniensis 马扎鲁尼凸鼻白蚁（圭亚那、厄瓜多尔、
 
 Coatitermes pallidus 苍白凸鼻白蚁（哥伦比亚、玻利维亚、厄瓜多尔、秘鲁）
 
-#### 箭猪白蚁属 Coendutermes
+#### 箭猪白蚁属 Coendutermes {: #coendutermes }
 
 \*Coendutermes tucum 纤维箭猪白蚁（巴西、哥伦比亚、苏里南）
 
-#### 缩白蚁属 Constrictotermes
+#### 缩白蚁属 Constrictotermes {: #constrictotermes }
 
 Constrictotermes cacaoensis 可可缩白蚁（法属圭亚那）
 
@@ -6155,7 +6220,7 @@ Constrictotermes latinotus 宽背缩白蚁（厄瓜多尔、哥伦比亚）
 
 Constrictotermes rupestris 红色缩白蚁（巴西）
 
-#### 凸白蚁属 Convexitermes
+#### 凸白蚁属 Convexitermes {: #convexitermes }
 
 \*Convexitermes convexifrons 凸额凸白蚁（巴西、哥伦比亚、玻利维亚、厄瓜多尔、
 秘鲁、巴拉圭、特立尼达）
@@ -6163,7 +6228,7 @@ Constrictotermes rupestris 红色缩白蚁（巴西）
 Convexitermes manni 曼凸白蚁（巴西、法属圭亚那、圭亚那、巴拉圭、苏里南、
 特立尼达和多巴哥）
 
-#### 利颚白蚁属 Cortaritermes
+#### 利颚白蚁属 Cortaritermes {: #cortaritermes }
 
 Cortaritermes fulviceps 栗头利颚白蚁（阿根廷、乌拉圭、巴西、巴拉圭）
 
@@ -6179,7 +6244,7 @@ Cortaritermes rizzinii 里兹尼利颚白蚁（巴西）
 
 \*Cortaritermes silvestrii 西尔韦斯特里利颚白蚁（巴西、阿根廷、巴拉圭）
 
-#### 葫白蚁属 Cucurbitermes
+#### 葫白蚁属 Cucurbitermes {: #cucurbitermes }
 
 Cucurbitermes parviceps 小葫白蚁（中国）
 
@@ -6187,7 +6252,7 @@ Cucurbitermes sinensis 中华葫白蚁（中国、广东）
 
 \*Cucurbitermes yingdeensis 英德葫白蚁（中国、广东、江西、湖南）
 
-#### 巨鼻白蚁属 Cyranotermes
+#### 巨鼻白蚁属 Cyranotermes {: #cyranotermes }
 
 Cyranotermes caete 卡埃特巨鼻白蚁（巴西、法属圭亚那）
 
@@ -6197,7 +6262,7 @@ Cyranotermes karipuna 卡日普纳巨鼻白蚁（巴西）
 
 \*Cyranotermes timuassu 多毛巨鼻白蚁（巴西）
 
-#### 歧白蚁属 Diversitermes
+#### 歧白蚁属 Diversitermes {: #diversitermes }
 
 Diversitermes castaniceps 栗头歧白蚁（巴西、巴拉圭、玻利维亚）
 
@@ -6206,7 +6271,7 @@ Diversitermes castaniceps 栗头歧白蚁（巴西、巴拉圭、玻利维亚）
 
 Diversitermes tiapuan 长简鼻歧白蚁（巴西、哥伦比亚）
 
-#### 木象白蚁属 Diwaitermes
+#### 木象白蚁属 Diwaitermes {: #diwaitermes }
 
 Diwaitermes castanopsis 锥栗木象白蚁（巴布亚新几内亚）
 
@@ -6215,19 +6280,19 @@ Diwaitermes foi 福阿木象白蚁（巴布亚新几内亚）
 \*Diwaitermes kanehirai 凯恩希拉木象白蚁（印度尼西亚、所罗门群岛、澳大利亚、
 巴布亚新几内亚、瓦努阿图）
 
-#### 埃莉诺白蚁属 Eleanoritermes
+#### 埃莉诺白蚁属 Eleanoritermes {: #eleanoritermes }
 
 \*Eleanoritermes borneensis 婆罗埃莉诺白蚁（婆罗洲）
 
-#### 埃默森白蚁属 Emersonitermes
+#### 埃默森白蚁属 Emersonitermes {: #emersonitermes }
 
 \*Emersonitermes thekadensis 卡迪埃默森白蚁（印度）
 
-#### 针筒白蚁属 Enetotermes
+#### 针筒白蚁属 Enetotermes {: #enetotermes }
 
 \*Enetotermes bembicoides 似陀针筒白蚁（赞比亚）
 
-#### 无名白蚁属 Ereymatermes
+#### 无名白蚁属 Ereymatermes {: #ereymatermes }
 
 Ereymatermes panamensis 巴拿马无名白蚁（中美洲、巴拿马）
 
@@ -6235,7 +6300,7 @@ Ereymatermes piquira 短小无名白蚁（南美洲、巴西、秘鲁）
 
 \*Ereymatermes rotundiceps 圆头无名白蚁（南美洲、巴西、哥伦比亚、厄瓜多尔）
 
-#### 小真白蚁属 Eutermellus
+#### 小真白蚁属 Eutermellus {: #eutermellus }
 
 Eutermellus abruptus 陡峭小真白蚁（非洲热带）
 
@@ -6248,7 +6313,7 @@ Eutermellus bipartitus 两段小真白蚁（非洲热带）
 
 Eutermellus undulans 波纹小真白蚁（西非冈比亚）
 
-#### 富勒白蚁属 Fulleritermes
+#### 富勒白蚁属 Fulleritermes {: #fulleritermes }
 
 Fulleritermes coatoni 科顿富勒白蚁（非洲南部、南非、津巴布韦）
 
@@ -6261,7 +6326,7 @@ Fulleritermes tenebricus 阴暗富勒白蚁（科特迪瓦、多哥、塞内加�
 加纳、中非共和国、刚果民主共和国、
 冈比亚、几内亚、尼日利亚、苏丹）
 
-#### 高跷白蚁属 Grallatotermes
+#### 高跷白蚁属 Grallatotermes {: #grallatotermes }
 
 Grallatotermes admirabilus 奇妙高跷白蚁（菲律宾）
 
@@ -6277,7 +6342,7 @@ Grallatotermes splendidus 华美高跷白蚁（菲律宾）
 
 Grallatotermes weyeri 韦耶高跷白蚁（印度尼西亚）
 
-#### 多毛白蚁属 Hirtitermes
+#### 多毛白蚁属 Hirtitermes {: #hirtitermes }
 
 Hirtitermes brabazoni 布拉巴宗多毛白蚁（印度尼西亚）
 
@@ -6285,7 +6350,7 @@ Hirtitermes brabazoni 布拉巴宗多毛白蚁（印度尼西亚）
 
 Hirtitermes spinocephalus 刺头多毛白蚁（印度尼西亚、马来西亚）
 
-#### 须白蚁属 Hospitalitermes
+#### 须白蚁属 Hospitalitermes {: #hospitalitermes }
 
 Hospitalitermes asahinai 朝比奈须白蚁（泰国）
 
@@ -6369,12 +6434,12 @@ Hospitalitermes sharpi 夏普须白蚁（印度尼西亚、马来西亚、新加
 
 Hospitalitermes umbrinus 赭色须白蚁（新加坡、马来西亚、印度尼西亚）
 
-#### 森林白蚁属 Hyleotermes
+#### 森林白蚁属 Hyleotermes {: #hyleotermes }
 
 \*Hyleotermes brevipilus 短毛森林白蚁（巴西、圭亚那、哥伦比亚、厄瓜多尔、
 法属圭亚那、委内瑞拉）
 
-#### 考登白蚁属 Kaudernitermes
+#### 考登白蚁属 Kaudernitermes {: #kaudernitermes }
 
 \*Kaudernitermes kaudernianus 考登考登白蚁（马达加斯加）
 
@@ -6384,7 +6449,7 @@ Kaudernitermes nigritus 黑色考登白蚁（马达加斯加、塞舌尔）
 
 Kaudernitermes salebrithorax 凹胸考登白蚁（马达加斯加、塞舌尔）
 
-#### 怒白蚁属 Lacessititermes
+#### 怒白蚁属 Lacessititermes {: #lacessititermes }
 
 Lacessititermes albipes 白足怒白蚁（印度尼西亚、马来西亚）
 
@@ -6426,13 +6491,13 @@ Lacessititermes thailandicus 泰国怒白蚁（泰国）
 
 Lacessititermes yamanei 山根怒白蚁（印度尼西亚、新加坡、马来西亚、菲律宾）
 
-#### 薄喙白蚁属 Leptomyxotermes
+#### 薄喙白蚁属 Leptomyxotermes {: #leptomyxotermes }
 
 \*Leptomyxotermes doriae 多利亚薄喙白蚁（喀麦隆、赤道几内亚、科特迪瓦、
 刚果民主共和国、加蓬、加纳、尼日利亚、
 塞内加尔、塞拉利昂）
 
-#### 白脸白蚁属 Leucopitermes
+#### 白脸白蚁属 Leucopitermes {: #leucopitermes }
 
 Leucopitermes leucopiformis 似白脸白脸白蚁（马来西亚）
 
@@ -6442,27 +6507,27 @@ Leucopitermes paraleucops 近白脸白脸白蚁（马来西亚）
 
 Leucopitermes thoi 索白脸白蚁（印度尼西亚、马来西亚）
 
-#### 长足白蚁属 Longipeditermes
+#### 长足白蚁属 Longipeditermes {: #longipeditermes }
 
 Longipeditermes kistneri 基斯特纳长足白蚁（马来西亚、印度尼西亚）
 
 \*Longipeditermes longipes 长足长足白蚁（马来西亚、新加坡、泰国、印度尼西亚、文莱）
 
-#### 大锥白蚁属 Macrosubulitermes
+#### 大锥白蚁属 Macrosubulitermes {: #macrosubulitermes }
 
 \*Macrosubulitermes greavesi 格里夫斯大锥白蚁（澳大利亚）
 
-#### 马尔加什白蚁属 Malagasitermes
+#### 马尔加什白蚁属 Malagasitermes {: #malagasitermes }
 
 \*Malagasitermes milloti 米约马尔加什白蚁（马达加斯加）
 
-#### 马来白蚁属 Malaysiotermes
+#### 马来白蚁属 Malaysiotermes {: #malaysiotermes }
 
 Malaysiotermes holmgreni 霍姆格伦马来白蚁（印度尼西亚、马来西亚）
 
 \*Malaysiotermes spinocephalus 刺头马来白蚁（印度尼西亚、马来西亚）
 
-#### 仿白蚁属 Mimeutermes
+#### 仿白蚁属 Mimeutermes {: #mimeutermes }
 
 Mimeutermes binghami 宾厄姆仿白蚁（肯尼亚、赞比亚）
 
@@ -6476,21 +6541,21 @@ Mimeutermes majusculus 稍大仿白蚁（坦桑尼亚）
 
 Mimeutermes sorex 吻长仿白蚁（喀麦隆、科特迪瓦、加纳、几内亚、尼日利亚）
 
-#### 米勒白蚁属 Muelleritermes
+#### 米勒白蚁属 Muelleritermes {: #muelleritermes }
 
 \*Muelleritermes fritzi 弗里茨米勒白蚁米勒白蚁（巴西）
 
 Muelleritermes globiceps 球头米勒白蚁（巴西）
 
-#### 鸟嘴白蚁属 Mycterotermes
+#### 鸟嘴白蚁属 Mycterotermes {: #mycterotermes }
 
 \*Mycterotermes meringocephalus 饼头鸟嘴白蚁（阿曼、也门）
 
-#### 棘象白蚁属 Nasopilotermes
+#### 棘象白蚁属 Nasopilotermes {: #nasopilotermes }
 
 \*Nasopilotermes jiangxiensis 江西棘象白蚁（中国江西）
 
-#### 象白蚁属 Nasutitermes
+#### 象白蚁属 Nasutitermes {: #nasutitermes }
 
 Nasutitermes acajutlae 阿卡胡特拉象白蚁（哥伦比亚、波多黎各、美国、法属圭亚那、
 特立尼达和多巴哥、安提瓜和巴布达、
@@ -7058,17 +7123,17 @@ Nasutitermes wheeleri 惠勒象白蚁（巴西、哥伦比亚、法属圭亚那�
 
 Nasutitermes xingshanensis 兴山象白蚁（中国）
 
-#### 凋落白蚁属 Ngauratermes
+#### 凋落白蚁属 Ngauratermes {: #ngauratermes }
 
 \*Ngauratermes arue 小凋落白蚁（巴西、秘鲁）
 
-#### 新几内亚白蚁属 Niuginitermes
+#### 新几内亚白蚁属 Niuginitermes {: #niuginitermes }
 
 Niuginitermes liklik 小新几内亚白蚁（巴布亚新几内亚）
 
 \*Niuginitermes variratae 瓦里拉塔新几内亚白蚁（巴布亚新几内亚）
 
-#### 钝白蚁属 Obtusitermes
+#### 钝白蚁属 Obtusitermes {: #obtusitermes }
 
 Obtusitermes formosulus 漂亮钝白蚁（委内瑞拉、巴拿马、特立尼达和多巴哥）
 
@@ -7076,25 +7141,25 @@ Obtusitermes monomorphus 单型钝白蚁（巴拿马）
 
 \*Obtusitermes panamae 巴拿马钝白蚁（巴拿马、哥斯达黎加、哥伦比亚）
 
-#### 西部白蚁属 Occasitermes
+#### 西部白蚁属 Occasitermes {: #occasitermes }
 
 \*Occasitermes occasus 西部西部白蚁（澳大利亚）
 
 Occasitermes watsoni 沃森西部白蚁（澳大利亚）
 
-#### 隐白蚁属 Occultitermes
+#### 隐白蚁属 Occultitermes {: #occultitermes }
 
 Occultitermes aridus 干燥隐白蚁（澳大利亚）
 
 \*Occultitermes occultus 藏隐白蚁（澳大利亚）
 
-#### 东锥白蚁属 Oriensubulitermes
+#### 东锥白蚁属 Oriensubulitermes {: #oriensubulitermes }
 
 \*Oriensubulitermes inanis 缺齿东锥白蚁（印度尼西亚、马来西亚、新加坡）
 
 Oriensubulitermes kemneri 凯姆勒东锥白蚁（马来西亚）
 
-#### 近凸白蚁属 Paraconvexitermes
+#### 近凸白蚁属 Paraconvexitermes {: #paraconvexitermes }
 
 Paraconvexitermes acangapua 圆头近凸白蚁（巴西、哥伦比亚、法属圭亚那、委内瑞拉）
 
@@ -7102,7 +7167,7 @@ Paraconvexitermes junceus 细长近凸白蚁（巴西、圭亚那、厄瓜多尔
 
 \*Paraconvexitermes nigricornis 黑角近凸白蚁（哥伦比亚、法属圭亚那、巴西、秘鲁）
 
-#### 微白蚁属 Parvitermes
+#### 微白蚁属 Parvitermes {: #parvitermes }
 
 Parvitermes aequalis 类似微白蚁（古巴）
 
@@ -7130,46 +7195,46 @@ Parvitermes wolcotti 沃尔科特微白蚁（波多黎各、美国、英属维�
 
 Parvitermes yucatanus 尤卡坦微白蚁（危地马拉、墨西哥、伯利兹）
 
-#### 近针白蚁属 Periaciculitermes
+#### 近针白蚁属 Periaciculitermes {: #periaciculitermes }
 
 \*Periaciculitermes menglunensis 勐仑近针白蚁（中国）
 
-#### 后锥白蚁属 Postsubulitermes
+#### 后锥白蚁属 Postsubulitermes {: #postsubulitermes }
 
 \*Postsubulitermes parviconstrictus 微缩后锥白蚁（刚果（金）、刚果（布）、喀麦隆、加蓬）
 
-#### 锥形白蚁属 Rhadinotermes
+#### 锥形白蚁属 Rhadinotermes {: #rhadinotermes }
 
 \*Rhadinotermes coarctatus 压缩锥形白蚁（津巴布韦、马达加斯加、博茨瓦纳、
 刚果民主共和国、马拉维、纳米比亚、南非、
 坦桑尼亚、赞比亚）
 
-#### 鲁恩沃白蚁属 Roonwalitermes
+#### 鲁恩沃白蚁属 Roonwalitermes {: #roonwalitermes }
 
 \*Roonwalitermes wadhwai 沃德瓦鲁恩沃白蚁（印度）
 
-#### 圆白蚁属 Rotunditermes
+#### 圆白蚁属 Rotunditermes {: #rotunditermes }
 
 Rotunditermes bragantinus 布拉干提纳圆白蚁（巴西、哥伦比亚、法属圭亚那、苏里南、
 厄瓜多尔、秘鲁）
 
 \*Rotunditermes rotundiceps 圆头圆白蚁（巴西、哥伦比亚、秘鲁）
 
-#### 胖白蚁属 Rounditermes
+#### 胖白蚁属 Rounditermes {: #rounditermes }
 
 \*Rounditermes dechambrei 德尚布尔胖白蚁（法属圭亚那）
 
-#### 沙巴白蚁属 Sabahitermes
+#### 沙巴白蚁属 Sabahitermes {: #sabahitermes }
 
 Sabahitermes leuserensis 勒塞尔沙巴白蚁（印度尼西亚、马来西亚）
 
 \*Sabahitermes malakuni 马拉昆沙巴白蚁（马来西亚）
 
-#### 桑兹白蚁属 Sandsitermes
+#### 桑兹白蚁属 Sandsitermes {: #sandsitermes }
 
 \*Sandsitermes robustus 粗壮桑兹白蚁（秘鲁、巴西、哥伦比亚）
 
-#### 华象白蚁属 Sinonasutitermes
+#### 华象白蚁属 Sinonasutitermes {: #sinonasutitermes }
 
 Sinonasutitermes admirabilis 奇异华象白蚁（中国）
 
@@ -7193,15 +7258,15 @@ Sinonasutitermes xiai 夏氏华象白蚁（中国）
 
 Sinonasutitermes yui 尤氏华象白蚁（中国）
 
-#### 鼻大白蚁属 Sinqasapatermes
+#### 鼻大白蚁属 Sinqasapatermes {: #sinqasapatermes }
 
 \*Sinqasapatermes sachae 森林鼻大白蚁（哥伦比亚、厄瓜多尔、秘鲁）
 
-#### 匙白蚁属 Spatulitermes
+#### 匙白蚁属 Spatulitermes {: #spatulitermes }
 
 \*Spatulitermes coolingi 库林匙白蚁（非洲南部、纳米比亚、赞比亚）
 
-#### 似锥白蚁属 Subulioiditermes
+#### 似锥白蚁属 Subulioiditermes {: #subulioiditermes }
 
 Subulioiditermes borneensis 婆罗似锥白蚁（马来西亚）
 
@@ -7209,7 +7274,7 @@ Subulioiditermes emersoni 埃默森似锥白蚁（马来西亚）
 
 \*Subulioiditermes subulioides 似锥似锥白蚁（印度尼西亚、马来西亚）
 
-#### 锥白蚁属 Subulitermes
+#### 锥白蚁属 Subulitermes {: #subulitermes }
 
 Subulitermes angusticeps 窄头锥白蚁（玻利维亚）
 
@@ -7226,11 +7291,11 @@ Subulitermes denisae 丹尼斯锥白蚁（巴拿马、哥斯达黎加、尼加�
 
 Subulitermes thompsonae 汤普森锥白蚁（秘鲁、厄瓜多尔）
 
-#### 慢白蚁属 Tarditermes
+#### 慢白蚁属 Tarditermes {: #tarditermes }
 
 \*Tarditermes contracolor 反色慢白蚁（刚果（金）、刚果民主共和国）
 
-#### 薄嘴白蚁属 Tenuirostritermes
+#### 薄嘴白蚁属 Tenuirostritermes {: #tenuirostritermes }
 
 Tenuirostritermes briciae 布瑞西亚薄嘴白蚁（墨西哥、尼加拉瓜、伯利兹、危地马拉、
 洪都拉斯）
@@ -7243,17 +7308,17 @@ Tenuirostritermes strenuus 活跃薄嘴白蚁（墨西哥）
 
 \*Tenuirostritermes tenuirostris 薄嘴薄嘴白蚁（美国、墨西哥）
 
-#### 暗鼻白蚁属 Tiunatermes
+#### 暗鼻白蚁属 Tiunatermes {: #tiunatermes }
 
 \*Tiunatermes mariuzani 马里乌赞暗鼻白蚁（南美洲、巴西）
 
 Tiunatermes tapirape 塔皮拉佩暗鼻白蚁（南美洲、巴西）
 
-#### 三角白蚁属 Triangularitermes
+#### 三角白蚁属 Triangularitermes {: #triangularitermes }
 
 \*Triangularitermes triangulariceps 三角头三角白蚁（巴西、哥伦比亚、厄瓜多尔、秘鲁）
 
-#### 三脉白蚁属 Trinervitermes
+#### 三脉白蚁属 Trinervitermes {: #trinervitermes }
 
 Trinervitermes arabiae 阿拉伯三脉白蚁（沙特阿拉伯、也门）
 
@@ -7323,7 +7388,7 @@ Trinervitermes trinervoides 似三脉三脉白蚁（南非、纳米比亚、刚�
 刚果民主共和国、莱索托、莫桑比克、
 斯威士兰、津巴布韦）
 
-#### 冢白蚁属 Tumulitermes
+#### 冢白蚁属 Tumulitermes {: #tumulitermes }
 
 Tumulitermes apiocephalus 蜂头冢白蚁（澳大利亚）
 
@@ -7359,7 +7424,7 @@ Tumulitermes subaquilus 稍暗冢白蚁（澳大利亚）
 
 Tumulitermes westraliensis 西澳冢白蚁（澳大利亚）
 
-#### 快白蚁属 Velocitermes
+#### 快白蚁属 Velocitermes {: #velocitermes }
 
 Velocitermes aporeticus 怀疑快白蚁（巴西）
 
@@ -7381,19 +7446,19 @@ Velocitermes uniformis 单型快白蚁（巴西、玻利维亚、委内瑞拉）
 
 Velocitermes velox 快速快白蚁（巴西、玻利维亚、秘鲁）
 
-#### 疣白蚁属 Verrucositermes
+#### 疣白蚁属 Verrucositermes {: #verrucositermes }
 
 Verrucositermes hirtus 多毛疣白蚁（喀麦隆）
 
 \*Verrucositermes tuberosus 多疣疣白蚁（喀麦隆、刚果（金）、刚果民主共和国、加蓬）
 
-#### 夏氏白蚁属 Xiaitermes
+#### 夏氏白蚁属 Xiaitermes {: #xiaitermes }
 
 Xiaitermes tiantaiensis 天台夏氏白蚁（中国）
 
 \*Xiaitermes yinxianensis 鄞县夏氏白蚁（中国）
 
-### 新扭白蚁亚科 Neocapritermitinae
+### 新扭白蚁亚科 Neocapritermitinae {: #neocapritermitinae }
 
 新扭白蚁亚科由 Hellemans、
 Engel 与 Bourguignon 于 2024 年建立(21)，
@@ -7418,7 +7483,7 @@ Schievitermes），
 新扭白蚁属 Neocapritermes opacus
 在巴西圣保罗州甘蔗田为最常见白蚁种类(71)。
 
-#### 新扭白蚁属 Neocapritermes
+#### 新扭白蚁属 Neocapritermes {: #neocapritermes }
 
 Neocapritermes angusticeps 窄头新扭白蚁（巴西、法属圭亚那、圭亚那、苏里南、
 特立尼达和多巴哥、委内瑞拉）
@@ -7458,18 +7523,18 @@ Neocapritermes utiariti 乌蒂亚里蒂新扭白蚁（巴西、哥伦比亚、�
 
 Neocapritermes villosus 密毛新扭白蚁（秘鲁、巴西、厄瓜多尔）
 
-#### 平扭白蚁属 Planicapritermes
+#### 平扭白蚁属 Planicapritermes {: #planicapritermes }
 
 Planicapritermes longilabrum 长唇平扭白蚁（巴西）
 
 \*Planicapritermes planiceps 平头平扭白蚁（巴西、哥伦比亚、法属圭亚那、圭亚那、
 玻利维亚、厄瓜多尔、苏里南、委内瑞拉）
 
-#### 不对称白蚁属 Schievitermes
+#### 不对称白蚁属 Schievitermes {: #schievitermes }
 
 \*Schievitermes globicornis 球角不对称白蚁（法属圭亚那）
 
-### 前奇白蚁亚科 Promirotermitinae
+### 前奇白蚁亚科 Promirotermitinae {: #promirotermitinae }
 
 前奇白蚁亚科由 Hellemans、
 Engel 与 Bourguignon 于 2024 年建立(21)，
@@ -7485,7 +7550,7 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 工蚁—有翅蚁型右上颚第二缘齿发达，可与右上颚第二缘齿退化或缺失的近缘类群相区别；
 后肠马氏管两对共基愈合，为其工蚁后肠的稳定鉴别特征。
 
-#### 角白蚁属 Angulitermes
+#### 角白蚁属 Angulitermes {: #angulitermes }
 
 Angulitermes acutus 锋利角白蚁（印度）
 
@@ -7547,7 +7612,7 @@ Angulitermes tilaki 蒂拉克角白蚁（印度）
 Angulitermes truncatus 伤残角白蚁（塞内加尔、加纳、肯尼亚、尼日利亚、
 沙特阿拉伯、坦桑尼亚、乌干达、赞比亚）
 
-#### 前奇白蚁属 Promirotermes
+#### 前奇白蚁属 Promirotermes {: #promirotermes }
 
 Promirotermes bechuana 贝专纳前奇白蚁（南非）
 
@@ -7576,7 +7641,7 @@ Promirotermes redundans 常见前奇白蚁（喀麦隆、多哥、冈比亚、�
 
 Promirotermes rotundifrons 圆额前奇白蚁（博茨瓦纳、南非）
 
-### 始钩白蚁亚科 Protohamitermitinae
+### 始钩白蚁亚科 Protohamitermitinae {: #protohamitermitinae }
 
 始钩白蚁亚科由 Hellemans、
 Engel 与 Bourguignon 于 2024 年建立(21)，
@@ -7593,15 +7658,15 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 因无兵蚁品级、形态特化，该亚科长期分类位置未定；分子分析显示两属构成单系群(21)。
 作为无兵蚁高等白蚁的东洋界代表，本亚科对理解兵蚁品级丢失的平行演化有一定意义。
 
-#### 东方白蚁属 Orientotermes
+#### 东方白蚁属 Orientotermes {: #orientotermes }
 
 \*Orientotermes emersoni 埃默森东方白蚁（文莱、马来西亚）
 
-#### 始钩白蚁属 Protohamitermes
+#### 始钩白蚁属 Protohamitermes {: #protohamitermes }
 
 \*Protohamitermes globiceps 球头始钩白蚁（文莱、印度尼西亚、马来西亚）
 
-### 圆球白蚁亚科 Sphaerotermitinae
+### 圆球白蚁亚科 Sphaerotermitinae {: #sphaerotermitinae }
 
 圆球白蚁亚科由 Engel 与 Krishna 于 2004 年建立(73)，
 模式属为圆球白蚁属 Sphaerotermes Holmgren, 1911；
@@ -7623,12 +7688,12 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 对理解高等白蚁食性演化有重要意义。
 生态上，其冢巢是喀麦隆雨林黑猩猩“钓白蚁”行为的主要利用对象之一(74)。
 
-#### 圆球白蚁属 Sphaerotermes
+#### 圆球白蚁属 Sphaerotermes {: #sphaerotermes }
 
 \*Sphaerotermes sphaerothorax 圆胸圆球白蚁（刚果（布）、喀麦隆、中非共和国、安哥拉、
 刚果民主共和国、加蓬、几内亚、尼日利亚）
 
-### 聚白蚁亚科 Syntermitinae
+### 聚白蚁亚科 Syntermitinae {: #syntermitinae }
 
 聚白蚁亚科由 Engel 与 Krishna 于 2004 年建立(73)，
 模式属为聚白蚁属 Syntermes Holmgren, 1909；亚科名源自模式属名。
@@ -7657,11 +7722,11 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 前角白蚁属在阿根廷玉米田有发生记录。
 Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
-#### 漏斗白蚁属 Acangaobitermes
+#### 漏斗白蚁属 Acangaobitermes {: #acangaobitermes }
 
 \*Acangaobitermes krishnai 克里希纳漏斗白蚁（巴西）
 
-#### 戟白蚁属 Armitermes
+#### 戟白蚁属 Armitermes {: #armitermes }
 
 \*Armitermes armiger 具戟戟白蚁（巴拿马、哥斯达黎加）
 
@@ -7669,23 +7734,23 @@ Armitermes bidentatus 双齿戟白蚁（巴西）
 
 Armitermes spininotus 刺背戟白蚁（巴西）
 
-#### 班代拉白蚁属 Bandeiratermes
+#### 班代拉白蚁属 Bandeiratermes {: #bandeiratermes }
 
 \*Bandeiratermes silvestrii 西尔韦斯特里班代拉白蚁（巴西、玻利维亚、巴拉圭）
 
 Bandeiratermes tellustris 大地班代拉白蚁（巴西）
 
-#### 拜拉白蚁属 Biratermes
+#### 拜拉白蚁属 Biratermes {: #biratermes }
 
 \*Biratermes robustus 粗壮拜拉白蚁（法属圭亚那、巴西）
 
-#### 弃白蚁属 Cahuallitermes
+#### 弃白蚁属 Cahuallitermes {: #cahuallitermes }
 
 Cahuallitermes aduncus 具钩弃白蚁（墨西哥）
 
 \*Cahuallitermes intermedius 中间弃白蚁（墨西哥、危地马拉、洪都拉斯、伯利兹）
 
-#### 角象白蚁属 Cornitermes
+#### 角象白蚁属 Cornitermes {: #cornitermes }
 
 Cornitermes acignathus 尖颚角象白蚁（哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔）
 
@@ -7718,13 +7783,13 @@ Cornitermes walkeri 沃克角象白蚁（哥斯达黎加、巴拿马、哥伦比
 
 Cornitermes weberi 韦伯角象白蚁（巴西、法属圭亚那、圭亚那、苏里南）
 
-#### 曲白蚁属 Curvitermes
+#### 曲白蚁属 Curvitermes {: #curvitermes }
 
 Curvitermes minor 小型曲白蚁（巴西、玻利维亚）
 
 \*Curvitermes odontognathus 齿颚曲白蚁（巴西、哥伦比亚、玻利维亚、厄瓜多尔）
 
-#### 壶头白蚁属 Cyrilliotermes
+#### 壶头白蚁属 Cyrilliotermes {: #cyrilliotermes }
 
 \*Cyrilliotermes angulariceps 角头壶头白蚁（南美洲、巴西、哥伦比亚、法属圭亚那、
 苏里南、秘鲁、厄瓜多尔）
@@ -7735,7 +7800,7 @@ Cyrilliotermes crassinasus 粗鼻壶头白蚁（巴西）
 
 Cyrilliotermes strictinasus 缩鼻壶头白蚁（南美洲、巴西）
 
-#### 生白蚁属 Embiratermes
+#### 生白蚁属 Embiratermes {: #embiratermes }
 
 Embiratermes benjamini 本杰明生白蚁（玻利维亚、委内瑞拉）
 
@@ -7760,17 +7825,17 @@ Embiratermes spissus 密实生白蚁（哥伦比亚、秘鲁、巴西、厄瓜�
 
 Embiratermes transandinus 安弟斯生白蚁（巴西、厄瓜多尔、委内瑞拉）
 
-#### 膝白蚁属 Genuotermes
+#### 膝白蚁属 Genuotermes {: #genuotermes }
 
 \*Genuotermes spinifer 具脊膝白蚁（巴西）
 
-#### 地球白蚁属 Ibitermes
+#### 地球白蚁属 Ibitermes {: #ibitermes }
 
 Ibitermes curupira 长毛地球白蚁（巴西、玻利维亚）
 
 \*Ibitermes inflatus 高唇基地球白蚁（巴西）
 
-#### 厚唇白蚁属 Labiotermes
+#### 厚唇白蚁属 Labiotermes {: #labiotermes }
 
 Labiotermes brevilabius 短唇厚唇白蚁（巴西、玻利维亚）
 
@@ -7795,13 +7860,13 @@ Labiotermes orthocephalus 直头厚唇白蚁（巴西、巴拉圭）
 Labiotermes pelliceus 毛头厚唇白蚁（巴西、哥伦比亚、圭亚那、玻利维亚、
 厄瓜多尔、秘鲁）
 
-#### 马库希白蚁属 Macuxitermes
+#### 马库希白蚁属 Macuxitermes {: #macuxitermes }
 
 Macuxitermes colombicus 哥伦比亚马库希白蚁（新热带哥伦比亚）
 
 \*Macuxitermes triceratops 三角马库希白蚁（巴西）
 
-#### 红懒白蚁属 Mapinguaritermes
+#### 红懒白蚁属 Mapinguaritermes {: #mapinguaritermes }
 
 Mapinguaritermes grandidens 大齿红懒白蚁（哥伦比亚、法属圭亚那、圭亚那、巴西）
 
@@ -7809,15 +7874,15 @@ Mapinguaritermes marizalensis 马里扎尔红懒白蚁（巴西）
 
 \*Mapinguaritermes peruanus 秘鲁红懒白蚁（秘鲁、新热带界、厄瓜多尔）
 
-#### 努瓦罗白蚁属 Noirotitermes
+#### 努瓦罗白蚁属 Noirotitermes {: #noirotitermes }
 
 \*Noirotitermes noiroti 努瓦罗努瓦罗白蚁（巴西）
 
-#### 近曲白蚁属 Paracurvitermes
+#### 近曲白蚁属 Paracurvitermes {: #paracurvitermes }
 
 \*Paracurvitermes manni 曼近曲白蚁（巴西、玻利维亚）
 
-#### 前角白蚁属 Procornitermes
+#### 前角白蚁属 Procornitermes {: #procornitermes }
 
 Procornitermes araujoi 阿劳若前角白蚁（巴西）
 
@@ -7829,7 +7894,7 @@ Procornitermes striatus 具沟前角白蚁（阿根廷、巴西、乌拉圭、�
 
 \*Procornitermes triacifer 三尖唇前角白蚁（巴西、阿根廷、玻利维亚、巴拉圭）
 
-#### 喙白蚁属 Rhynchotermes
+#### 喙白蚁属 Rhynchotermes {: #rhynchotermes }
 
 Rhynchotermes amazonensis 亚马孙喙白蚁（哥伦比亚、巴西）
 
@@ -7848,7 +7913,7 @@ Rhynchotermes perarmatus 全武喙白蚁（哥斯达黎加、巴拿马、厄瓜�
 
 Rhynchotermes piauy 皮奥伊喙白蚁（巴西）
 
-#### 西尔韦斯特里白蚁属 Silvestritermes
+#### 西尔韦斯特里白蚁属 Silvestritermes {: #silvestritermes }
 
 Silvestritermes almirsateri 阿尔米尔萨特尔西尔韦斯特里白蚁（巴西）
 
@@ -7868,7 +7933,7 @@ Silvestritermes lanei 莱恩西尔韦斯特里白蚁（巴西）
 Silvestritermes minutus 最小西尔韦斯特里白蚁（巴西、哥伦比亚、法属圭亚那、圭亚那、
 苏里南、厄瓜多尔、秘鲁）
 
-#### 聚白蚁属 Syntermes
+#### 聚白蚁属 Syntermes {: #syntermes }
 
 Syntermes aculeosus 胸刺聚白蚁（巴西、秘鲁、玻利维亚、厄瓜多尔、法属圭亚那、
 委内瑞拉、哥伦比亚、苏里南、圭亚那）
@@ -7920,20 +7985,20 @@ Syntermes territus 受惊聚白蚁（哥伦比亚、法属圭亚那、巴西、�
 
 Syntermes wheeleri 惠勒聚白蚁（巴西、巴拉圭）
 
-#### 弯钩白蚁属 Uncitermes
+#### 弯钩白蚁属 Uncitermes {: #uncitermes }
 
 Uncitermes almeriae 阿尔梅里弯钩白蚁（秘鲁、厄瓜多尔）
 
 \*Uncitermes teevani 蒂范弯钩白蚁（巴西、哥伦比亚、法属圭亚那、圭亚那、
 玻利维亚、苏里南、委内瑞拉、厄瓜多尔）
 
-#### 瓦宁白蚁属 Vaninitermes
+#### 瓦宁白蚁属 Vaninitermes {: #vaninitermes }
 
 Vaninitermes brevinasus 短鼻瓦宁白蚁（法属圭亚那、巴西、圭亚那）
 
 \*Vaninitermes ignotus 忽视瓦宁白蚁（巴西、哥伦比亚、法属圭亚那、秘鲁）
 
-### 白蚁亚科 Termitinae
+### 白蚁亚科 Termitinae {: #termitinae }
 
 白蚁亚科与白蚁科同时由 Latreille 于 1802 年建立，
 模式属为白蚁属 Termes Linnaeus, 1758。
@@ -7957,7 +8022,7 @@ Vaninitermes brevinasus 短鼻瓦宁白蚁（法属圭亚那、巴西、圭亚�
 经济上，巴拉圭牧场调查中 Termes sp. 的冢巢减少牧场有效利用面积(77)。
 伊斯帕尼奥拉白蚁 Termes hispaniolae 有引入巴哈马的记录。
 
-#### 后肠白蚁属 Apsenterotermes
+#### 后肠白蚁属 Apsenterotermes {: #apsenterotermes }
 
 Apsenterotermes aspersus 散乱后肠白蚁（澳大利亚）
 
@@ -7969,11 +8034,11 @@ Apsenterotermes improcerus 粗短后肠白蚁（澳大利亚）
 
 Apsenterotermes stenopronos 细管后肠白蚁（澳大利亚）
 
-#### 扭白蚁属 Capritermes
+#### 扭白蚁属 Capritermes {: #capritermes }
 
 \*Capritermes capricornis 山羊角扭白蚁（科特迪瓦、马达加斯加）
 
-#### 腔白蚁属 Cavitermes
+#### 腔白蚁属 Cavitermes {: #cavitermes }
 
 Cavitermes parmae 帕尔马腔白蚁（巴西、厄瓜多尔）
 
@@ -7987,11 +8052,11 @@ Cavitermes simplicinervis 简灰腔白蚁（巴西）
 特立尼达和多巴哥、玻利维亚、圭亚那、
 厄瓜多尔、委内瑞拉）
 
-#### 角扭白蚁属 Cornicapritermes
+#### 角扭白蚁属 Cornicapritermes {: #cornicapritermes }
 
 \*Cornicapritermes mucronatus 尖锐角扭白蚁（巴西、法属圭亚那、哥伦比亚）
 
-#### 脊突白蚁属 Cristatitermes
+#### 脊突白蚁属 Cristatitermes {: #cristatitermes }
 
 Cristatitermes arenicola 沙栖脊突白蚁（澳大利亚）
 
@@ -8005,14 +8070,14 @@ Cristatitermes pineaformis 松球脊突白蚁（澳大利亚）
 
 Cristatitermes tutulatus 毛头脊突白蚁（澳大利亚）
 
-#### 双戟白蚁属 Dihoplotermes
+#### 双戟白蚁属 Dihoplotermes {: #dihoplotermes }
 
 \*Dihoplotermes inusitatus 非凡双戟白蚁（南美洲、巴西、法属圭亚那、阿根廷、
 玻利维亚、巴拉圭、乌拉圭）
 
 Dihoplotermes taurus 公牛双戟白蚁（巴西）
 
-#### 迪维努白蚁属 Divinotermes
+#### 迪维努白蚁属 Divinotermes {: #divinotermes }
 
 \*Divinotermes allognathus 异颚迪维努白蚁（巴西）
 
@@ -8020,7 +8085,7 @@ Divinotermes digitatus 具指迪维努白蚁（巴西）
 
 Divinotermes tuberculatus 小瘤迪维努白蚁（巴西、玻利维亚）
 
-#### 瘤突白蚁属 Ekphysotermes
+#### 瘤突白蚁属 Ekphysotermes {: #ekphysotermes }
 
 Ekphysotermes jarmuranus 贾穆瘤突白蚁（澳大利亚）
 
@@ -8032,7 +8097,7 @@ Ekphysotermes pelatus 脱皮瘤突白蚁（澳大利亚）
 
 Ekphysotermes percomis 可爱瘤突白蚁（澳大利亚）
 
-#### 棒颚白蚁属 Ephelotermes
+#### 棒颚白蚁属 Ephelotermes {: #ephelotermes }
 
 Ephelotermes argutus 清楚棒颚白蚁（澳大利亚）
 
@@ -8046,7 +8111,7 @@ Ephelotermes persimilis 相似棒颚白蚁（澳大利亚）
 
 Ephelotermes taylori 泰勒棒颚白蚁（澳大利亚）
 
-#### 络白蚁属 Hapsidotermes
+#### 络白蚁属 Hapsidotermes {: #hapsidotermes }
 
 \*Hapsidotermes harrisi 哈里斯络白蚁（澳大利亚）
 
@@ -8058,11 +8123,11 @@ Hapsidotermes maideni 梅登络白蚁（澳大利亚）
 
 Hapsidotermes orbus 孤儿络白蚁（澳大利亚）
 
-#### 西澳白蚁属 Hesperotermes
+#### 西澳白蚁属 Hesperotermes {: #hesperotermes }
 
 \*Hesperotermes infrequens 罕见西澳白蚁（澳大利亚）
 
-#### 客白蚁属 Inquilinitermes
+#### 客白蚁属 Inquilinitermes {: #inquilinitermes }
 
 \*Inquilinitermes fur 窃贼客白蚁（巴西）
 
@@ -8072,7 +8137,7 @@ Inquilinitermes johnchapmani 约翰查普曼客白蚁（玻利维亚）
 
 Inquilinitermes microcerus 小角客白蚁（巴西）
 
-#### 小脊突白蚁属 Lophotermes
+#### 小脊突白蚁属 Lophotermes {: #lophotermes }
 
 Lophotermes aduncus 钩状小脊突白蚁（澳大利亚、巴布亚新几内亚）
 
@@ -8092,7 +8157,7 @@ Lophotermes quadratus 方形小脊突白蚁（澳大利亚）
 
 Lophotermes septentrionalis 北方小脊突白蚁（澳大利亚）
 
-#### 长颚白蚁属 Macrognathotermes
+#### 长颚白蚁属 Macrognathotermes {: #macrognathotermes }
 
 Macrognathotermes broomensis 布鲁姆长颚白蚁（澳大利亚）
 
@@ -8102,11 +8167,11 @@ Macrognathotermes prolatus 极长长颚白蚁（澳大利亚）
 
 Macrognathotermes sunteri 森特长颚白蚁（澳大利亚）
 
-#### 棕榈白蚁属 Palmitermes
+#### 棕榈白蚁属 Palmitermes {: #palmitermes }
 
 \*Palmitermes impostor 骗子棕榈白蚁（澳大利亚、巴西、法属圭亚那）
 
-#### 旁扭白蚁属 Paracapritermes
+#### 旁扭白蚁属 Paracapritermes {: #paracapritermes }
 
 Paracapritermes kraepelinii 克雷珀林旁扭白蚁（澳大利亚）
 
@@ -8116,21 +8181,21 @@ Paracapritermes prolixus 细长旁扭白蚁（澳大利亚）
 
 Paracapritermes secundus 第二旁扭白蚁（澳大利亚）
 
-#### 始扭白蚁属 Protocapritermes
+#### 始扭白蚁属 Protocapritermes {: #protocapritermes }
 
 \*Protocapritermes krisiformis 波颚始扭白蚁（澳大利亚）
 
 Protocapritermes odontomachus 齿颚始扭白蚁（澳大利亚、巴布亚新几内亚、所罗门群岛）
 
-#### 相似白蚁属 Quasitermes
+#### 相似白蚁属 Quasitermes {: #quasitermes }
 
 \*Quasitermes incisus 切割相似白蚁（马达加斯加）
 
-#### 石白蚁属 Saxatilitermes
+#### 石白蚁属 Saxatilitermes {: #saxatilitermes }
 
 \*Saxatilitermes saxatilis 石栖石白蚁（澳大利亚）
 
-#### 针刺白蚁属 Spinitermes
+#### 针刺白蚁属 Spinitermes {: #spinitermes }
 
 Spinitermes brevicornutus 短角针刺白蚁（法属圭亚那、哥伦比亚、阿根廷、玻利维亚、
 巴西、巴拉圭）
@@ -8145,7 +8210,7 @@ Spinitermes robustus 粗壮针刺白蚁（巴西、玻利维亚）
 \*Spinitermes trispinosus 三针针刺白蚁（巴西、哥伦比亚、法属圭亚那、巴拉圭、
 秘鲁、委内瑞拉）
 
-#### 白蚁属 Termes
+#### 白蚁属 Termes {: #termes }
 
 Termes amaralii 阿马拉利白蚁（圣多美和普林西比）
 
@@ -8214,7 +8279,7 @@ Termes rostratus 尖鼻白蚁（东南亚、泰国、马来西亚、印度尼西
 
 Termes splendens 明亮白蚁（加纳）
 
-#### 小瘤白蚁属 Tuberculitermes
+#### 小瘤白蚁属 Tuberculitermes {: #tuberculitermes }
 
 \*Tuberculitermes bycanistes 噪犀鸟小瘤白蚁（旧热带界、塞内加尔等西非）
 
@@ -8222,7 +8287,7 @@ Tuberculitermes flexuosus 弯曲小瘤白蚁（西非、布基纳法索）
 
 Tuberculitermes guineensis 几内亚小瘤白蚁（喀麦隆、加纳、几内亚、尼日利亚、苏丹）
 
-#### 木堆白蚁属 Xylochomitermes
+#### 木堆白蚁属 Xylochomitermes {: #xylochomitermes }
 
 Xylochomitermes aspinosus 无刺木堆白蚁（澳大利亚）
 
@@ -8246,24 +8311,23 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     evolutionary history of termites as inferred
     from 66 mitochondrial genomes. Mol Biol Evol.
     2015;
-    32(2):406-421. doi: 10.1093/molbev/msu308.
+    32(2):406-421. [doi: 10.1093/molbev/msu308](https://doi.org/10.1093/molbev/msu308)
 
 3. Krishna K, Grimaldi DA, Krishna V, Engel
     MS. Treatise on the Isoptera of the world.
     Bull Am Mus Nat Hist. 2013;
-    377:1-2704. doi: 10.1206/377.1.
+    377:1-2704. [doi: 10.1206/377.1](https://doi.org/10.1206/377.1)
 
 4. Evans TA, Forschler BT, Grace JK. Biology
     of invasive termites: a worldwide review.
     Annu Rev Entomol. 2013;
-    58:455-474. doi:
-    10.1146/annurev-ento-120811-153554.
+    58:455-474. [doi: 10.1146/annurev-ento-120811-153554](https://doi.org/10.1146/annurev-ento-120811-153554)
 
 5. Engel MS, Grimaldi DA, Krishna K. Termites
     (Isoptera): their phylogeny, classification,
     and rise to ecological dominance. Am Mus
     Novit. 2009;
-    3650:1-27. doi: 10.1206/651.1.
+    3650:1-27. [doi: 10.1206/651.1](https://doi.org/10.1206/651.1)
 
 6. Oregon State University Extension.
     Controlling dampwood termites [Internet].
@@ -8273,15 +8337,13 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     Anacanthotermes in North Africa and the Near
     East (Isoptera: Hodotermitidae). Proc R
     Entomol Soc Lond B. 1967;
-    36(5-6):79-86. doi:
-    10.1111/j.1365-3113.1967.tb00540.x.
+    36(5-6):79-86. [doi: 10.1111/j.1365-3113.1967.tb00540.x](https://doi.org/10.1111/j.1365-3113.1967.tb00540.x)
 
 8. Rouland-Lefèvre C. Termites as pests of
     agriculture. In: Bignell DE, Roisin Y, Lo N,
     editors. Biology of termites: a modern
     synthesis. Dordrecht: Springer;
-     2011. p. 499-517. doi:
-    10.1007/978-90-481-3977-4_18.
+     2011. p. 499-517. [doi: 10.1007/978-90-481-3977-4_18](https://doi.org/10.1007/978-90-481-3977-4_18)
 
 9. Khamraev AS, Lebedeva NI, Zuginisov TI,
     Abdullaev II, Rakhmatullaev A, Raina AK. Food
@@ -8314,19 +8376,17 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     quadricollis (Rambur), termita de la madera
     humeda (Isoptera, Termopsidae). Gayana
     (Concepc). 2009;
-    73(1):1-11. doi:
-    10.4067/S0717-65382009000100001.
+    73(1):1-11. [doi: 10.4067/S0717-65382009000100001](https://doi.org/10.4067/S0717-65382009000100001)
 
 16. Engel MS. Family-group names for termites
     (Isoptera), redux. ZooKeys. 2011;
-    148:171-184. doi: 10.3897/zookeys.148.1682.
+    148:171-184. [doi: 10.3897/zookeys.148.1682](https://doi.org/10.3897/zookeys.148.1682)
 
 17. Chouvenc T, Šobotník J, Engel MS,
     Bourguignon T. Termite evolution: mutualistic
     associations, key innovations, and the rise
     of Termitidae. Cell Mol Life Sci. 2021;
-    78(6):2749-2769. doi:
-    10.1007/s00018-020-03728-z.
+    78(6):2749-2769. [doi: 10.1007/s00018-020-03728-z](https://doi.org/10.1007/s00018-020-03728-z)
 
 18. University of Florida IFAS Extension.
     Western drywood termite, Incisitermes minor
@@ -8342,15 +8402,14 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
 20. Laffont ER. Daños de Rugitermes sp.
     (Isoptera: Kalotermitidae) en Ilex
     paraguariensis. AgriScientia. 2005;
-    22(1):33-35. doi:
-    10.31047/1668.298x.v22.n1.2677.
+    22(1):33-35. [doi: 10.31047/1668.298x.v22.n1.2677](https://doi.org/10.31047/1668.298x.v22.n1.2677)
 
 21. Hellemans S, Rocha MM, Wang M, Romero
     Arias J, Aanen DK, Bagnères AG, et al.
     Genomic data provide insights into the
     classification of extant termites. Nat
     Commun. 2024;
-    15:6724. doi: 10.1038/s41467-024-51028-y.
+    15:6724. [doi: 10.1038/s41467-024-51028-y](https://doi.org/10.1038/s41467-024-51028-y)
 
 22. Termite Web. Termite pictures –
     Prorhinotermes flavus [Internet]. [cited 2026
@@ -8373,34 +8432,32 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     of the frontal gland in imagoes of the
     termite families Rhinotermitidae and
     Serritermitidae. PLoS One. 2010;
-    5(12):e15761. doi:
-    10.1371/journal.pone.0015761.
+    5(12):e15761. [doi: 10.1371/journal.pone.0015761](https://doi.org/10.1371/journal.pone.0015761)
 
 27. Liang WR, Wu CC, Li HF. Discovery of a
     cryptic termite genus, Stylotermes (Isoptera:
     Stylotermitidae), in Taiwan, with the
     description of a new species. Ann Entomol Soc
     Am. 2017;
-    110(4):360-373. doi: 10.1093/aesa/sax034.
+    110(4):360-373. [doi: 10.1093/aesa/sax034](https://doi.org/10.1093/aesa/sax034)
 
 28. Wu LW, Bourguignon T, Šobotník J, Wen P,
     Liang WR, Li HF. Phylogenetic position of the
     enigmatic termite family Stylotermitidae
     (Insecta: Blattodea). Invertebr Syst. 2018;
-    32(5):1111-1117. doi: 10.1071/IS17093.
+    32(5):1111-1117. [doi: 10.1071/IS17093](https://doi.org/10.1071/IS17093)
 
 29. Dolejšová K, Krasulová J, Kutalová K,
     Hanus R. Chemical alarm in the termite
     Termitogeton planus (Rhinotermitidae). J Chem
     Ecol. 2014;
-    40(11-12):1269-1276. doi:
-    10.1007/s10886-014-0515-0.
+    40(11-12):1269-1276. [doi: 10.1007/s10886-014-0515-0](https://doi.org/10.1007/s10886-014-0515-0)
 
 30. Parmentier D, Roisin Y. Caste morphology
     and development in Termitogeton nr. planus
     (Insecta, Isoptera, Rhinotermitidae). J
     Morphol. 2003;
-    255(1):69-79. doi: 10.1002/jmor.10047.
+    255(1):69-79. [doi: 10.1002/jmor.10047](https://doi.org/10.1002/jmor.10047)
 
 31. University of Florida IFAS Extension.
     Formosan subterranean termite, Coptotermes
@@ -8421,21 +8478,20 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
 34. Constantino R. The pest termites of South
     America: taxonomy, distribution and status. J
     Appl Entomol. 2002;
-    126(7-8):355-365. doi:
-    10.1046/j.1439-0418.2002.00670.x.
+    126(7-8):355-365. [doi: 10.1046/j.1439-0418.2002.00670.x](https://doi.org/10.1046/j.1439-0418.2002.00670.x)
 
 35. Bordereau C, Robert A, Van Tuyen V,
     Peppuy A. Suicidal defensive behaviour by
     frontal gland dehiscence in Globitermes
     sulphureus Haviland soldiers (Isoptera).
     Insectes Soc. 1997;
-    44(3):289-297. doi: 10.1007/s000400050049.
+    44(3):289-297. [doi: 10.1007/s000400050049](https://doi.org/10.1007/s000400050049)
 
 36. Bodine MC, Ueckert DN. Effect of desert
     termites on herbage and litter in a
     shortgrass ecosystem in west Texas. J Range
     Manage. 1975;
-    28(5):353-358. doi: 10.2307/3897490.
+    28(5):353-358. [doi: 10.2307/3897490](https://doi.org/10.2307/3897490)
 
 37. Watson JAL, Perry DH. The Australian
     harvester termites of the genus Drepanotermes
@@ -8488,7 +8544,7 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     monotypic Neotropical genus Crepititermes
     Emerson (Termitidae: Termitinae). Neotrop
     Entomol. 2015;
-    44(5):457-465. doi: 10.1007/s13744-015-0307-4.
+    44(5):457-465. [doi: 10.1007/s13744-015-0307-4](https://doi.org/10.1007/s13744-015-0307-4)
 
 46. Roonwal ML, Verma SC. Evolution and
     systematic significance of wing
@@ -8502,14 +8558,13 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     the primary determinant of bacterial
     community structure in the guts of higher
     termites. Mol Ecol. 2015;
-    24(20):5284-5295. doi: 10.1111/mec.13376.
+    24(20):5284-5295. [doi: 10.1111/mec.13376](https://doi.org/10.1111/mec.13376)
 
 48. Okwakol MJN. Effects of Cubitermes
     testaceus (Williams) on some physical and
     chemical properties of soil in a grassland
     area of Uganda. Afr J Ecol. 1987;
-    25(3):147-153. doi:
-    10.1111/j.1365-2028.1987.tb01101.x.
+    25(3):147-153. [doi: 10.1111/j.1365-2028.1987.tb01101.x](https://doi.org/10.1111/j.1365-2028.1987.tb01101.x)
 
 49. Friedrich MW, Schmitt-Wagner D, Lueders
     T, Brune A. Axial differences in community
@@ -8517,8 +8572,7 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     in the highly compartmentalized gut of the
     soil-feeding termite Cubitermes orthognathus.
     Appl Environ Microbiol. 2001;
-    67(10):4880-4890. doi:
-    10.1128/AEM.67.10.4880-4890.2001.
+    67(10):4880-4890. [doi: 10.1128/AEM.67.10.4880-4890.2001](https://doi.org/10.1128/AEM.67.10.4880-4890.2001)
 
 50. Kooyman C, Onck RFM. The interactions
     between termite activity, agricultural
@@ -8532,8 +8586,7 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     Termites in sugar cane in Northeast Brazil:
     ecological aspects and pest status. Neotrop
     Entomol. 2004;
-    33(2):237-241. doi:
-    10.1590/S1519-566X2004000200015.
+    33(2):237-241. [doi: 10.1590/S1519-566X2004000200015](https://doi.org/10.1590/S1519-566X2004000200015)
 
 52. Romero Arias J, Hellemans S, Kaymak E,
     Akama PD, Bourguignon T, Roisin Y, et al.
@@ -8541,7 +8594,7 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     Afrotropical termite species into its own
     subfamily, the Engelitermitinae (Blattodea:
     Termitidae). Syst Entomol. 2024;
-    49(1):72-83. doi: 10.1111/syen.12607.
+    49(1):72-83. [doi: 10.1111/syen.12607](https://doi.org/10.1111/syen.12607)
 
 53. ICZN. Opinion 2038 (Case 3155):
     Macrotermitinae Kemner, 1934 (Insecta,
@@ -8554,23 +8607,20 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     The evolution of fungus-growing termites and
     their mutualistic fungal symbionts. Proc Natl
     Acad Sci U S A. 2002;
-    99(23):14887-14892. doi:
-    10.1073/pnas.222313099.
+    99(23):14887-14892. [doi: 10.1073/pnas.222313099](https://doi.org/10.1073/pnas.222313099)
 
 55. Huang QY, Lei CL, Xue D. Field evaluation
     of a fipronil bait against subterranean
     termite Odontotermes formosanus (Isoptera:
     Termitidae). J Econ Entomol. 2006;
-    99(2):455-461. doi:
-    10.1603/0022-0493-99.2.455.
+    99(2):455-461. [doi: 10.1603/0022-0493-99.2.455](https://doi.org/10.1603/0022-0493-99.2.455)
 
 56. 李茅苗. 白蚁对甘蔗的为害及防治措施. 植物医生. 2013;(2).
 
 57. Rana A, Chandel RS, Verma KS, Joshi MJ.
     Termites in important crops and their
     management. Indian J Entomol. 2021;
-    83(3):486-504. doi:
-    10.5958/0974-8172.2021.00001.8.
+    83(3):486-504. [doi: 10.5958/0974-8172.2021.00001.8](https://doi.org/10.5958/0974-8172.2021.00001.8)
 
 58. Deka B, Babu A, Peter AJ, Kumhar KC,
     Sarkar S, Rajbongshi H, et al. Potential of
@@ -8579,36 +8629,35 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     eating termite, Microtermes obesi (Holmgren)
     (Blattodea: Termitidae) infesting tea crop.
     Egypt J Biol Pest Control. 2021;
-    31:132. doi: 10.1186/s41938-021-00477-4.
+    31:132. [doi: 10.1186/s41938-021-00477-4](https://doi.org/10.1186/s41938-021-00477-4)
 
 59. Habibpour B. Laboratory evaluation of
     Flurox, a chitin synthesis inhibitor, on the
     termite, Microcerotermes diversus. J Insect
     Sci. 2010;
-    10:2. doi: 10.1673/031.010.0201.
+    10:2. [doi: 10.1673/031.010.0201](https://doi.org/10.1673/031.010.0201)
 
 60. Sales MJD, Matos WC, Reis YT, Ribeiro GT.
     Frequência e riqueza de cupins em áreas de
     plantio de eucalipto no litoral norte da
     Bahia. Pesqui Agropecu Bras. 2010;
-    45(12):1351-1356. doi:
-    10.1590/S0100-204X2010001200003.
+    45(12):1351-1356. [doi: 10.1590/S0100-204X2010001200003](https://doi.org/10.1590/S0100-204X2010001200003)
 
 61. Kuan KC, Chiu CI, Shih MC, Chi KJ, Li HF.
     Termite's twisted mandible presents fast,
     powerful, and precise strikes. Sci Rep. 2020;
-    10:9462. doi: 10.1038/s41598-020-66294-1.
+    10:9462. [doi: 10.1038/s41598-020-66294-1](https://doi.org/10.1038/s41598-020-66294-1)
 
 62. Pinnamaneni R, Potineni K. Integrated
     pest management (IPM) in oil palm, Elaeis
     guineensis Jacq. In: Palm oil – current
     status and updates. London: IntechOpen;
-     2023. doi: 10.5772/intechopen.108580.
+     2023. [doi: 10.5772/intechopen.108580](https://doi.org/10.5772/intechopen.108580)
 
 63. Hare L. Termite phylogeny as evidenced by
     soldier mandible development. Ann Entomol Soc
     Am. 1937;
-    30(3):459-486. doi: 10.1093/aesa/30.3.459.
+    30(3):459-486. [doi: 10.1093/aesa/30.3.459](https://doi.org/10.1093/aesa/30.3.459)
 
 64. Nutting WL, Blum MS, Fales HM. Behavior
     of the North American termite
@@ -8616,7 +8665,7 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     reference to the soldier frontal gland
     secretion, its chemical composition, and use
     in defense. Psyche (Camb Mass). 1974;
-    81:167-177. doi: 10.1155/1974/13854.
+    81:167-177. [doi: 10.1155/1974/13854](https://doi.org/10.1155/1974/13854)
 
 65. Coconut Research Institute (Sri Lanka).
     Termites and their control [Internet]. [cited
@@ -8634,52 +8683,47 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     Morphological Dissection and Phylogenetic
     Positioning of Xiaitermes Gao & He, 1994
     (Termitidae: Nasutitermitinae). Insects. 2026;
-    17(6):602. doi: 10.3390/insects17060602.
+    17(6):602. [doi: 10.3390/insects17060602](https://doi.org/10.3390/insects17060602)
 
 68. Roonwal ML, Rathore NS. New termite pests
     of eucalyptus in India and their control. Z
     Angew Entomol. 1984;
-    98(1-5):225-230. doi:
-    10.1111/j.1439-0418.1984.tb02705.x.
+    98(1-5):225-230. [doi: 10.1111/j.1439-0418.1984.tb02705.x](https://doi.org/10.1111/j.1439-0418.1984.tb02705.x)
 
 69. Lovleen, Prerna. Control measures for
     Hospitalitermes monoceros, a major pest of
     sugarcane by using medicinal plants. J Punjab
     Acad Forensic Med Toxicol. 2019;
-    19(1):35-38. doi:
-    10.5958/0974-083X.2019.00007.4.
+    19(1):35-38. [doi: 10.5958/0974-083X.2019.00007.4](https://doi.org/10.5958/0974-083X.2019.00007.4)
 
 70. Šobotník J, Bourguignon T, Hanus R,
     Demianová Z, Pytelková J, Mareš M, et al.
     Explosive backpacks in old termite workers.
     Science. 2012;
-    337(6093):436. doi: 10.1126/science.1219129.
+    337(6093):436. [doi: 10.1126/science.1219129](https://doi.org/10.1126/science.1219129)
 
 71. Junqueira LK, Gonçalves ER, Teixeira LMC.
     Termite communities in sugarcane plantations
     in southeastern Brazil: an ecological
     approach. EntomoBrasilis. 2015;
-    8(2):105-116. doi:
-    10.12741/ebrasilis.v8i2.502.
+    8(2):105-116. [doi: 10.12741/ebrasilis.v8i2.502](https://doi.org/10.12741/ebrasilis.v8i2.502)
 
 72. Lind BM, Hanan NP, Gigliotti LC, Allen
     RL, McHenry A, Gardiner A. Termite diversity
     along a catena in southern Kruger National
     Park, South Africa. Afr J Ecol. 2019;
-    57(1):160-165. doi: 10.1111/aje.12569.
+    57(1):160-165. [doi: 10.1111/aje.12569](https://doi.org/10.1111/aje.12569)
 
 73. Engel MS, Krishna K. Family-group names
     for termites (Isoptera). Am Mus Novit. 2004;
-    3432:1-9. doi:
-    10.1206/0003-0082(2004)432<0001:FNFTI>2.0.CO;
-    2.
+    3432:1-9. [doi: 10.1206/0003-0082(2004)432<0001:FNFTI>2.0.CO;2](https://doi.org/10.1206/0003-0082%282004%29432%3C0001:FNFTI%3E2.0.CO%3B2)
 
 74. Andres-Bray TC, Smith J, Nichols I, Abwe
     EE, Gonder MK. Ecological correlates of
     chimpanzee termite fishing behavior in Mbam &
     Djerem National Park, Cameroon. Ecol Evol.
     2024;
-    14(7):e70080. doi: 10.1002/ece3.70080.
+    14(7):e70080. [doi: 10.1002/ece3.70080](https://doi.org/10.1002/ece3.70080)
 
 75. Silva GH, Godoi-Junior MA, Martins JVS,
     Ribeiro LS, Ribeiro JPO, Araújo FF, et al.
@@ -8688,14 +8732,13 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     (Isoptera: Termitidae) causing severe
     mechanical damage to Solanum tuberosum roots.
     Braz J Biol. 2023;
-    83:e269325. doi: 10.1590/1519-6984.269325.
+    83:e269325. [doi: 10.1590/1519-6984.269325](https://doi.org/10.1590/1519-6984.269325)
 
 76. Silva KL, Ladeia S, Nunes W, Santos ICL,
     Santos A. Occurrence of Tectona grandis stem
     injury caused by Cornitermes cumulans
     termite. Floresta Ambient. 2019;
-    26(3):e20180356. doi:
-    10.1590/2179-8087.035618.
+    26(3):e20180356. [doi: 10.1590/2179-8087.035618](https://doi.org/10.1590/2179-8087.035618)
 
 77. Cabaña Acosta ME, Alonzo Griffith LA,
     Gaona Mena E, Chamorro Díaz SM, Sarubbi-Orue
@@ -8704,4 +8747,4 @@ Xylochomitermes tomentosus 粗毛木堆白蚁（澳大利亚）
     requisito previo para su manejo y control en
     condiciones de campo. Rev Investig Estud UNA.
     2024;
-    15(1):62-70. doi: 10.57201/ieuna2413372.
+    15(1):62-70. [doi: 10.57201/ieuna2413372](https://doi.org/10.57201/ieuna2413372)
