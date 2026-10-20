@@ -1,0 +1,14 @@
+# 最小配置：GitHub Pages 默认已用 Jekyll 构建本站，此文件用于启用官方插件
+# 即便没有本文件站点也能发布；加上后可自动生成 head meta 与站点地图。
+
+title: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+description: >-
+  现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3008 种、63 亚种，
+  含模式种标记、分布信息与 77 篇参考文献（附 DOI 链接）。
+lang: zh-CN
+author: 班奈特格林
+
+# GitHub Pages 内置支持的插件白名单中的常用项：
+plugins:
+  - jekyll-seo-tag   # 自动生成 <head> meta / OG / canonical（读取页面 front matter 的 description 等）
+  - jekyll-sitemap   # 自动生成 sitemap.xml（含站点全部页面；会覆盖仓库内同名手工文件）

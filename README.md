@@ -1,6 +1,8 @@
 # 站点 AI/爬虫友好化改造包
 
-将本目录内全部文件放入 GitHub Pages 仓库根目录（与原有 `_config.yml` 同级）即可。
+将本目录内全部文件放入 GitHub Pages 仓库根目录即可。
+本包已附带最小 `_config.yml`（启用 jekyll-seo-tag 与 jekyll-sitemap）；
+若仓库原本已有 `_config.yml`，请把这两个插件名并入原有文件。
 `index.md` 已替换为优化版本；`isoptera-data.json`、`llms.txt`、`robots.txt`、`sitemap.xml` 为新增文件。
 
 ## 域名配置（已完成）
@@ -17,10 +19,11 @@
 | `robots.txt` | 允许主流搜索引擎与 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot、Google-Extended、CCBot 等）抓取 |
 | `sitemap.xml` | 站点地图，帮助搜索引擎收录 |
 | `build_optimized.py` | 本改造的构建脚本，可复现/重新生成全部产物 |
+| `_config.yml` | 最小 Jekyll 配置：启用 jekyll-seo-tag（自动生成 head meta/OG）与 jekyll-sitemap（自动生成 sitemap.xml） |
 
 ## 推荐后续动作（可选）
 1. **自定义域名**：如需绑定自定义域名，在 GitHub Pages 设置中配置后，将本文档内地址一并更新。
-2. **站点地图插件**：在 `_config.yml` 添加 `plugins: [jekyll-sitemap]`（GitHub Pages 已内置支持），自动维护 sitemap。
+2. **sitemap**：启用 `jekyll-sitemap` 后构建会自动生成 sitemap.xml（含全部页面，覆盖手工版），仓库中的手工 `sitemap.xml` 可保留亦可删除。
 3. **验证**：上线后用 Google Search Console 提交 sitemap；用 Bing Webmaster 提交；AI 爬虫可用
    `https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/robots.txt` 自行验证允许规则。
 4. **结构数据测试**：用 Google Rich Results Test 或 schema.org validator 校验 JSON-LD。
