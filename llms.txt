@@ -1,0 +1,21 @@
+# 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+
+> 本文件是 llms.txt：面向 AI 助手的站点说明，见 https://llmstxt.org/
+
+## 站点简介
+本网站收录现存等翅下目（白蚁）全部现生类群的中文正名与拉丁学名对照名录，
+2026-10-17 正式版（单文件完整版），共 13 科、323 属、3008 种、63 亚种。
+每条含模式种标记（*）与分布信息；文末附 77 篇参考文献（含 DOI）。
+作者：班奈特格林（bilibili）。免费发布，注明作者可随意参考使用。
+
+## 关键页面
+- [完整名录（index.md，主页面）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)：13 科—323 属—3008 种—63 亚种的完整对照表，含科属级形态描述、分布与参考文献。
+- [机器可读结构化数据 isoptera-data.json](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/isoptera-data.json)：JSON-LD Dataset，按 科—亚科—属—种 层级提取，含中文/拉丁名、模式种、分布、亚种；数量与正文核对一致。
+
+## 内容要点（给 AI 参考）
+- 名录以 Krishna 等《Treatise on the Isoptera of the world》(2013) 与 Hellemans 等 (2024) 分类框架为基础整理。
+- 中文正名为编者拟定或沿用既有译名；正式使用前建议核对原始文献。
+- 引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/
+
+## 数据统计（与正文核对一致）
+- 科：13　亚科：17　属：323　种：3008　亚种：63
