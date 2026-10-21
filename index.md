@@ -178,6 +178,10 @@ permalink: /
 </script>
 
 <link rel="stylesheet" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/assets/custom.css">
+<a class="lang-switch" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/">English</a>
+<link rel="alternate" hreflang="zh-CN" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/">
+<link rel="alternate" hreflang="en" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/">
+<link rel="alternate" hreflang="x-default" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/">
 
 <nav class="site-nav" aria-label="主导航">
   <span class="brand">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</span>

@@ -8,6 +8,10 @@ permalink: /about/
 ---
 
 <link rel="stylesheet" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/assets/custom.css">
+<a class="lang-switch" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/about/">English</a>
+<link rel="alternate" hreflang="zh-CN" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/">
+<link rel="alternate" hreflang="en" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/about/">
+<link rel="alternate" hreflang="x-default" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/">
 
 <nav class="site-nav" aria-label="主导航">
   <span class="brand">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</span>
@@ -21,7 +25,7 @@ permalink: /about/
 
 > 出处：bilibili: 班奈特格林 编，个人制作，免费发布，注明作者可随意参考使用。
 > 共收录 13 科、323 属、3008 种、63 亚种；`*` 模式种；(N) 为文末参考文献编号。
-> 主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》https://www.termitologia.net/、http://organismnames.com/query.htm、https://www.gbif.org/、其他参考文献见名录末尾。
+> 主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》[https://www.termitologia.net/](https://www.termitologia.net/)、[http://organismnames.com/query.htm](http://organismnames.com/query.htm)、[https://www.gbif.org/](https://www.gbif.org/)、其他参考文献见名录末尾。
 
 ## 关于本名录（引用与版本）
 
