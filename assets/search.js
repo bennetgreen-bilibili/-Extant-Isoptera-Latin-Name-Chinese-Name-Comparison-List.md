@@ -4,6 +4,11 @@
   var results = document.getElementById('search-results');
   if (!input || !results) return;
   var data = null;
+  var LIST = input.getAttribute('data-list-url') || (BASE + '/list/');
+  var LANG = input.getAttribute('data-lang') || 'zh';
+  var EMPTY = input.getAttribute('data-empty') || '无匹配结果';
+  var RANK = { '支系':'Clade','科':'Family','亚科':'Subfamily','属':'Genus','种':'Species','亚种':'Subspecies' };
+  function rank(r){ return (LANG==='en') ? (RANK[r]||r) : r; }
 
   function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function norm(s){ return String(s==null?'':s).toLowerCase(); }
@@ -11,11 +16,11 @@
   fetch(BASE + '/search-index.json').then(function(r){ return r.json(); }).then(function(arr){ data = arr; }).catch(function(){});
 
   function render(list){
-    if (!list.length){ results.innerHTML = '<li>无匹配结果</li>'; results.style.display='block'; return; }
+    if (!list.length){ results.innerHTML = '<li>'+esc(EMPTY)+'</li>'; results.style.display='block'; return; }
     var html = '';
     for (var i=0;i<list.length;i++){
       var e = list[i];
-      html += '<li><a href="'+BASE+'/list/#'+esc(e.h)+'"><span class="rank">'+esc(e.r)+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span></a></li>';
+      html += '<li><a href="'+LIST+'#'+esc(e.h)+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span></a></li>';
     }
     results.innerHTML = html;
     results.style.display = 'block';

@@ -20,3 +20,7 @@
 .stats-table a:hover { text-decoration:underline; }
 details.genus-details { margin:1.2em 0; }
 summary { cursor:pointer; }
+
+/* 语言切换按钮（左上角） */
+.lang-switch { position:fixed; top:10px; left:10px; z-index:1000; background:#0969da; color:#fff; padding:.32em .72em; border-radius:6px; text-decoration:none; font-size:.85em; font-weight:600; box-shadow:0 1px 3px rgba(0,0,0,.28); }
+.lang-switch:hover { background:#0550ae; color:#fff; text-decoration:none; }
