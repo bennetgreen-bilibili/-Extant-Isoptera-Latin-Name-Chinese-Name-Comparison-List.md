@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extant Isoptera (Termites) — Latin–Chinese Name Comparison List
-description: Latin–Chinese name comparison list of all extant Isoptera (termites): 13 families, 323 genera, 3008 species, 63 subspecies, with search, statistics and structured data split by clade.
+description: "Latin–Chinese name comparison list of all extant Isoptera (termites): 13 families, 323 genera, 3008 species, 63 subspecies, with search, statistics and structured data split by clade."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
