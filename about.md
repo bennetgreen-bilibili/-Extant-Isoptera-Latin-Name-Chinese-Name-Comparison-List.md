@@ -21,7 +21,7 @@ permalink: /about/
 
 > 出处：bilibili: 班奈特格林 编，个人制作，免费发布，注明作者可随意参考使用。
 > 共收录 13 科、323 属、3008 种、63 亚种；`*` 模式种；(N) 为文末参考文献编号。
-> 名录部分主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》等。
+> 主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》https://www.termitologia.net/、http://organismnames.com/query.htm、https://www.gbif.org/、其他参考文献见名录末尾。
 
 ## 关于本名录（引用与版本）
 
