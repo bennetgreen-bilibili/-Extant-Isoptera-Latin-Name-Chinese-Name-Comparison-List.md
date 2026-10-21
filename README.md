@@ -1,29 +1,24 @@
-# 站点 AI/爬虫友好化改造包
+# 现存等翅下目（白蚁）拉丁学名—中文正名对照名录（站点）
 
-将本目录内全部文件放入 GitHub Pages 仓库根目录即可。
-本包已附带最小 `_config.yml`（启用 jekyll-seo-tag 与 jekyll-sitemap）；
-若仓库原本已有 `_config.yml`，请把这两个插件名并入原有文件。
-`index.md` 已替换为优化版本；`isoptera-data.json`、`llms.txt`、`robots.txt`、`sitemap.xml` 为新增文件。
+多页结构化的 GitHub Pages 站点。将本目录内全部文件放入仓库根目录即可。
 
-## 域名配置（已完成）
-全部文件（含 `index.md` / `llms.txt` / `robots.txt` / `sitemap.xml`）中的站点地址
-已配置为 `https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/`。
-配套文件请放入该仓库根目录，即可在主页同路径下访问（如 `.../robots.txt`、`.../sitemap.xml`）。
-
-## 文件说明
-| 文件 | 作用 |
+## 页面
+| 文件 | 页面 |
 |---|---|
-| `index.md` | 优化后的主页：完整 front matter（title/description/lang/author/date/keywords，GitHub Pages 的 jekyll-seo-tag 会自动生成 `<head>` meta 与 OG 标签）、JSON-LD Dataset 结构化数据、可点击目录锚点、科/亚科/属级稳定锚点、参考文献 DOI 链接、引用格式说明 |
-| `isoptera-data.json` | 机器可读结构化数据（JSON-LD Dataset）：科—亚科—属—种 全层级，含中文/拉丁名、模式种、分布、亚种；由 `index.md` 程序化提取，数量已与正文核对一致（13 科 / 323 属 / 3008 种 / 63 亚种） |
-| `llms.txt` | llmstxt.org 规范的站点说明文件，供 GPT/Claude/Perplexity 等 AI 助手直接读取站点概览与关键资源 |
-| `robots.txt` | 允许主流搜索引擎与 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot、Google-Extended、CCBot 等）抓取 |
-| `sitemap.xml` | 站点地图，帮助搜索引擎收录 |
-| `build_optimized.py` | 本改造的构建脚本，可复现/重新生成全部产物 |
-| `_config.yml` | 最小 Jekyll 配置：启用 jekyll-seo-tag（自动生成 head meta/OG）与 jekyll-sitemap（自动生成 sitemap.xml） |
+| `index.md` | 首页：搜索框（中文/拉丁名检索）+ 三页导航 + JSON-LD |
+| `list.md` | 名录：完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
+| `about.md` | 简介：作者、版本、收录范围、引用格式 |
+| `stats.md` | 统计：科/亚科/属级物种数统计表 |
 
-## 推荐后续动作（可选）
-1. **自定义域名**：如需绑定自定义域名，在 GitHub Pages 设置中配置后，将本文档内地址一并更新。
-2. **sitemap**：启用 `jekyll-sitemap` 后构建会自动生成 sitemap.xml（含全部页面，覆盖手工版），仓库中的手工 `sitemap.xml` 可保留亦可删除。
-3. **验证**：上线后用 Google Search Console 提交 sitemap；用 Bing Webmaster 提交；AI 爬虫可用
-   `https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/robots.txt` 自行验证允许规则。
-4. **结构数据测试**：用 Google Rich Results Test 或 schema.org validator 校验 JSON-LD。
+## 结构化数据（按类群拆分）
+- 入口：`data/index.json`（分类树 + 全部文件清单）
+- `data/mastotermitidae.json`、`data/teletisoptera.json`、`data/kalotermitidae.json`、`data/neoisoptera-excl-termitidae.json`
+- `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）
+- `search-index.json`（检索索引，供首页搜索框）
+
+## 其它
+- `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
+- `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
+- `sitemap.xml`：站点地图（jekyll-sitemap 构建时会自动覆盖为含全部页面）
+- `llms.txt`：llmstxt.org 规范的站点说明
+- `assets/search.js`、`assets/custom.css`：搜索框脚本与样式
