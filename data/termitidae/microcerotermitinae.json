@@ -1,0 +1,1128 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "锯白蚁亚科 Microcerotermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "microcerotermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 2,
+  "species": 150,
+  "subspecies": 7
+ },
+ "subfamily": {
+  "zh": "锯白蚁亚科",
+  "latin": "Microcerotermitinae",
+  "id": "microcerotermitinae",
+  "genera": [
+   {
+    "zh": "锯白蚁属",
+    "latin": "Microcerotermes",
+    "id": "microcerotermes",
+    "species_count": 148,
+    "type_species": "Microcerotermes strunckii",
+    "species": [
+     {
+      "latin": "Microcerotermes acerbus",
+      "zh": "粗鲁锯白蚁",
+      "type": false,
+      "distribution": "塞拉利昂）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes algoasinensis",
+      "zh": "阿尔哥亚湾锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes amboinensis",
+      "zh": "安汶锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes annandalei",
+      "zh": "安嫩代尔锯白蚁",
+      "type": false,
+      "distribution": "东南亚、泰国、印度、马来西亚、缅甸）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes apricitatis",
+      "zh": "阳光锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes arboreus",
+      "zh": "树栖锯白蚁",
+      "type": false,
+      "distribution": "新热带界、巴拿马、哥伦比亚、巴西、法属圭亚那、玻利维亚、开曼群岛、圭亚那、海地、洪都拉斯、尼加拉瓜、秘鲁、波多黎各、苏里南、特立尼达和多巴哥、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes baluchistanicus",
+      "zh": "俾路支锯白蚁",
+      "type": false,
+      "distribution": "南亚、巴基斯坦、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes barbertoni",
+      "zh": "巴伯顿锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes beesoni",
+      "zh": "比森锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度、孟加拉国、不丹、巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes bequaertianus",
+      "zh": "贝奎特锯白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国、科特迪瓦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes biroi",
+      "zh": "比罗锯白蚁",
+      "type": false,
+      "distribution": "南亚、大洋洲、澳大利亚、巴布亚新几内亚、印度、印度尼西亚、萨摩亚、所罗门群岛、汤加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes biswanathae",
+      "zh": "比斯瓦那塔锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes boreus",
+      "zh": "北部锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes bouilloni",
+      "zh": "布永锯白蚁",
+      "type": false,
+      "distribution": "澳大利亚、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes bouvieri",
+      "zh": "布维尔锯白蚁",
+      "type": false,
+      "distribution": "新热带界、巴西、哥伦比亚、墨西哥）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes brachygnathus",
+      "zh": "短颚锯白蚁",
+      "type": false,
+      "distribution": "旧热带界、布基纳法索、印度尼西亚、几内亚、南非、坦桑尼亚、赞比亚、津巴布韦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes brevior",
+      "zh": "狭小锯白蚁",
+      "type": false,
+      "distribution": "巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes buettikeri",
+      "zh": "比特铁克锯白蚁",
+      "type": false,
+      "distribution": "中东、沙特阿拉伯、伊朗、也门）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes bugnioni",
+      "zh": "布格尼恩锯白蚁",
+      "type": false,
+      "distribution": "南亚、斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes cachani",
+      "zh": "卡占锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes cameroni",
+      "zh": "卡梅伦锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes cavus",
+      "zh": "凿洞锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes celebensis",
+      "zh": "西里伯斯锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes chaudhryi",
+      "zh": "乔德里锯白蚁",
+      "type": false,
+      "distribution": "南亚、巴基斯坦、伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes chhotanii",
+      "zh": "乔塔里锯白蚁",
+      "type": false,
+      "distribution": "伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes choanensis",
+      "zh": "乔安锯白蚁",
+      "type": false,
+      "distribution": "旧热带界、西非、非洲南部）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes collinsi",
+      "zh": "柯林斯锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes crassus",
+      "zh": "大锯白蚁",
+      "type": false,
+      "distribution": "东南亚、菲律宾、泰国、缅甸、新加坡、孟加拉国、中国、印度、马来西亚、越南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes cupreiceps",
+      "zh": "铜头锯白蚁",
+      "type": false,
+      "distribution": "巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes cylindriceps",
+      "zh": "筒头锯白蚁",
+      "type": false,
+      "distribution": "斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes dammermani",
+      "zh": "达梅尔曼锯白蚁",
+      "type": false,
+      "distribution": "印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes danieli",
+      "zh": "丹尼尔锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes dashlibronensis",
+      "zh": "达什利布龙锯白蚁",
+      "type": false,
+      "distribution": "伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes debilicornis",
+      "zh": "软角锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes depokensis",
+      "zh": "德波锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes distans",
+      "zh": "遥远锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚、马来西亚、菲律宾、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes distinctus",
+      "zh": "易识锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes diversus",
+      "zh": "不同锯白蚁",
+      "type": false,
+      "distribution": "中东、伊拉克、伊朗、沙特阿拉伯、阿曼、科威特、也门）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes dolichocephalicus",
+      "zh": "长头锯白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes dolichognathus",
+      "zh": "狭颚锯白蚁",
+      "type": false,
+      "distribution": "西非、科特迪瓦、喀麦隆、刚果民主共和国、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes dumasensis",
+      "zh": "杜马斯锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes dumisae",
+      "zh": "杜米萨锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes duplex",
+      "zh": "含糊锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes durbanensis",
+      "zh": "德班锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes edentatus",
+      "zh": "缺齿锯白蚁",
+      "type": false,
+      "distribution": "西非、科特迪瓦、利比里亚、安哥拉、喀麦隆、刚果民主共和国、加纳、尼日利亚、坦桑尼亚、乌干达）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes elegans",
+      "zh": "苗条锯白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes eugnathus",
+      "zh": "真颚锯白蚁",
+      "type": false,
+      "distribution": "埃及、西奈、突尼斯）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes exiguus",
+      "zh": "微小锯白蚁",
+      "type": false,
+      "distribution": "新热带界、哥斯达黎加、巴西、哥伦比亚、委内瑞拉、法属圭亚那、危地马拉、尼加拉瓜、巴拿马、巴拉圭、秘鲁、特立尼达和多巴哥）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes fletcheri",
+      "zh": "弗莱彻锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes flyensis",
+      "zh": "弗莱锯白蚁",
+      "type": false,
+      "distribution": "巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes fuscotibialis",
+      "zh": "棕胫锯白蚁",
+      "type": false,
+      "distribution": "旧热带界、西非、中非）",
+      "subspecies": [
+       {
+        "epithet": "fuscotibialis",
+        "zh": "指名亚种"
+       },
+       {
+        "epithet": "libericus",
+        "zh": "利比里亚亚种"
+       },
+       {
+        "epithet": "validior",
+        "zh": "较壮亚种"
+       }
+      ]
+     },
+     {
+      "latin": "Microcerotermes gabrielis",
+      "zh": "加布里埃利斯锯白蚁",
+      "type": false,
+      "distribution": "南亚、中东、阿富汗、伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes ganeshi",
+      "zh": "加内什锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes gracilis",
+      "zh": "细瘦锯白蚁",
+      "type": false,
+      "distribution": "新热带界、墨西哥、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes greeni",
+      "zh": "格林锯白蚁",
+      "type": false,
+      "distribution": "南亚、斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes hamatus",
+      "zh": "具钩锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非、刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes havilandi",
+      "zh": "哈维兰锯白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes heimi",
+      "zh": "埃姆锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度、斯里兰卡、巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes hypaenicus",
+      "zh": "海帕恩锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes ilalazonatus",
+      "zh": "伊拉拉佐纳图斯锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes implacidus",
+      "zh": "易动锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes indistinctus",
+      "zh": "模糊锯白蚁",
+      "type": false,
+      "distribution": "新热带界、巴西、法属圭亚那、特立尼达和多巴哥、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes insularis",
+      "zh": "岛屿锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes kudremukhae",
+      "zh": "库德雷穆克锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes kwazulu",
+      "zh": "夸祖鲁锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes labioangulatus",
+      "zh": "角唇锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": [
+       {
+        "epithet": "labioangulatus",
+        "zh": "指名亚种"
+       },
+       {
+        "epithet": "wahkdaitensis",
+        "zh": "瓦克代特亚种"
+       }
+      ]
+     },
+     {
+      "latin": "Microcerotermes lahorensis",
+      "zh": "拉合尔锯白蚁",
+      "type": false,
+      "distribution": "南亚、巴基斯坦、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes lateralis",
+      "zh": "侧移锯白蚁",
+      "type": false,
+      "distribution": "中非、喀麦隆、塞拉利昂）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes laticeps",
+      "zh": "宽头锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes laxmi",
+      "zh": "拉克西米锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes leai",
+      "zh": "莉锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes limpopoensis",
+      "zh": "林波波锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes longiceps",
+      "zh": "头长锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes longignathus",
+      "zh": "长颚锯白蚁",
+      "type": false,
+      "distribution": "巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes longimalatus",
+      "zh": "长腭锯白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes losbanosensis",
+      "zh": "洛斯巴尼奥斯锯白蚁",
+      "type": false,
+      "distribution": "东南亚、菲律宾）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes luluai",
+      "zh": "卢路亚锯白蚁",
+      "type": false,
+      "distribution": "巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes macacoensis",
+      "zh": "马卡古锯白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes madurae",
+      "zh": "马都拉锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes major",
+      "zh": "大型锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes maliki",
+      "zh": "马利克锯白蚁",
+      "type": false,
+      "distribution": "巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes malmesburyi",
+      "zh": "马姆斯伯里锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes mandibularis",
+      "zh": "具颚锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes manjikuli",
+      "zh": "曼志库尔锯白蚁",
+      "type": false,
+      "distribution": "泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes marilimbus",
+      "zh": "海角锯白蚁",
+      "type": false,
+      "distribution": "海南（万宁、乐东））",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes masaiaticus",
+      "zh": "马赛亚特锯白蚁",
+      "type": false,
+      "distribution": "肯尼亚、坦桑尼亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes minor",
+      "zh": "小型锯白蚁",
+      "type": false,
+      "distribution": "印度、斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes minutus",
+      "zh": "小泰锯白蚁",
+      "type": false,
+      "distribution": "中国、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes mzilikazi",
+      "zh": "姆兹立卡兹锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes nanulus",
+      "zh": "短小锯白蚁",
+      "type": false,
+      "distribution": "贝宁、科特迪瓦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes nanus",
+      "zh": "侏儒锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes nemoralis",
+      "zh": "树林锯白蚁",
+      "type": false,
+      "distribution": "坦桑尼亚、赞比亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes nervosus",
+      "zh": "强健锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes newmani",
+      "zh": "纽曼锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes nicobarensis",
+      "zh": "尼科巴锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes novaecaledoniae",
+      "zh": "新喀里多尼亚锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、新喀里多尼亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes pakistanicus",
+      "zh": "巴基斯坦锯白蚁",
+      "type": false,
+      "distribution": "南亚、巴基斯坦、印度、伊朗、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes palaearcticus",
+      "zh": "古北锯白蚁",
+      "type": false,
+      "distribution": "阿尔及利亚、摩洛哥、突尼斯）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes palestinensis",
+      "zh": "巴勒斯坦锯白蚁",
+      "type": false,
+      "distribution": "中东、以色列、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes papuanus",
+      "zh": "巴布亚锯白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes paracelebensis",
+      "zh": "似西里伯斯锯白蚁",
+      "type": false,
+      "distribution": "马来西亚、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes parviceps",
+      "zh": "小头锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes parvulus",
+      "zh": "细小锯白蚁",
+      "type": false,
+      "distribution": "旧热带界、西非、中非、乍得、刚果、刚果民主共和国、埃塞俄比亚、加纳、几内亚、科特迪瓦、尼日利亚、塞内加尔、坦桑尼亚、阿曼、沙特阿拉伯、也门）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes parvus",
+      "zh": "小锯白蚁",
+      "type": false,
+      "distribution": "旧热带界、刚果、科特迪瓦、塞内加尔、多哥、南非、安哥拉、喀麦隆、刚果民主共和国、厄立特里亚、埃塞俄比亚、加蓬、加纳、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes pauliani",
+      "zh": "波利昂锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes peraffinis",
+      "zh": "近缘锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、汤加、萨摩亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes periminutus",
+      "zh": "微锯白蚁",
+      "type": false,
+      "distribution": "海南（琼中））",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes philippinensis",
+      "zh": "菲律宾锯白蚁",
+      "type": false,
+      "distribution": "菲律宾）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes piliceps",
+      "zh": "毛头锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、所罗门群岛、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes pondweniensis",
+      "zh": "庞德文尼锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes prochampioni",
+      "zh": "近冠锯白蚁",
+      "type": false,
+      "distribution": "巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes progrediens",
+      "zh": "行进锯白蚁",
+      "type": false,
+      "distribution": "安哥拉、喀麦隆、刚果民主共和国、加蓬、科特迪瓦、尼日利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes propinquus",
+      "zh": "近邻锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加、留尼汪、欧罗巴岛（法国））",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes psammophilus",
+      "zh": "喜沙锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes raja",
+      "zh": "拉贾锯白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes rambanensis",
+      "zh": "拉姆班锯白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes remotus",
+      "zh": "天涯锯白蚁",
+      "type": false,
+      "distribution": "海南（崖县、东方、乐东、陵水））",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes repugnans",
+      "zh": "抵抗锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes rhombinidus",
+      "zh": "菱巢锯白蚁",
+      "type": false,
+      "distribution": "中国、广东、海南、广西）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sabaeus",
+      "zh": "塞巴锯白蚁",
+      "type": false,
+      "distribution": "沙特阿拉伯、也门）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sabahensis",
+      "zh": "沙巴锯白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sakarahensis",
+      "zh": "萨卡拉哈锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sakesarensis",
+      "zh": "瑟盖瑟尔锯白蚁",
+      "type": false,
+      "distribution": "印度、巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sanctaeluciae",
+      "zh": "圣卢西亚湖锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes saravanensis",
+      "zh": "萨拉万锯白蚁",
+      "type": false,
+      "distribution": "伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes secernens",
+      "zh": "切割锯白蚁",
+      "type": false,
+      "distribution": "中非、刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes septentrionalis",
+      "zh": "北方锯白蚁",
+      "type": false,
+      "distribution": "新热带界、哥斯达黎加、墨西哥、危地马拉、洪都拉斯、伯利兹、尼加拉瓜）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes serratus",
+      "zh": "锯锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚、印度尼西亚、马来西亚、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes shahroudiensis",
+      "zh": "沙赫鲁德锯白蚁",
+      "type": false,
+      "distribution": "伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sikorae",
+      "zh": "西科拉锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes silvestrianus",
+      "zh": "西尔韦斯特里锯白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国、坦桑尼亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes sistaniensis",
+      "zh": "锡斯坦锯白蚁",
+      "type": false,
+      "distribution": "伊朗、锡斯坦-俾路支）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes solidus",
+      "zh": "坚硬锯白蚁",
+      "type": false,
+      "distribution": "西非、塞内加尔、安哥拉、喀麦隆、刚果民主共和国、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes strunckii",
+      "zh": "斯特伦基锯白蚁",
+      "type": true,
+      "distribution": "新热带界、巴西、阿根廷、巴拉圭、秘鲁、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes subinteger",
+      "zh": "稍全锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes subtilis",
+      "zh": "瘦长锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加、留尼汪、科摩罗、欧罗巴岛（法国）、格洛里厄斯群岛（法国）、塞舌尔、坦桑尼亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes taylori",
+      "zh": "泰勒锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes tenuignathus",
+      "zh": "细颚锯白蚁",
+      "type": false,
+      "distribution": "印度、巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes theobromae",
+      "zh": "可可锯白蚁",
+      "type": false,
+      "distribution": "赤道几内亚、圣多美和普林西比）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes thermarum",
+      "zh": "沃姆巴德锯白蚁",
+      "type": false,
+      "distribution": "南非）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes transiens",
+      "zh": "经过锯白蚁",
+      "type": false,
+      "distribution": "西非、利比里亚、喀麦隆）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes turkmenicus",
+      "zh": "土库曼锯白蚁",
+      "type": false,
+      "distribution": "土库曼斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes turneri",
+      "zh": "特纳锯白蚁",
+      "type": false,
+      "distribution": "大洋洲、澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes uncatus",
+      "zh": "钩颚锯白蚁",
+      "type": false,
+      "distribution": "缅甸）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes unidentatus",
+      "zh": "单齿锯白蚁",
+      "type": false,
+      "distribution": "马达加斯加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes varaminicus",
+      "zh": "瓦拉明锯白蚁",
+      "type": false,
+      "distribution": "伊朗）",
+      "subspecies": null
+     },
+     {
+      "latin": "Microcerotermes zuluensis",
+      "zh": "祖鲁锯白蚁",
+      "type": false,
+      "distribution": "旧热带界、西非、非洲南部）",
+      "subspecies": [
+       {
+        "epithet": "zuluensis",
+        "zh": "指名亚种"
+       },
+       {
+        "epithet": "rubriceps",
+        "zh": "红头亚种"
+       }
+      ]
+     },
+     {
+      "latin": "Microcerotermes zuluoides",
+      "zh": "似祖鲁锯白蚁",
+      "type": false,
+      "distribution": "非洲南部、南非）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "倒钩白蚁属",
+    "latin": "Onkotermes",
+    "id": "onkotermes",
+    "species_count": 2,
+    "type_species": "Onkotermes brevicorniger",
+    "species": [
+     {
+      "latin": "Onkotermes brevicorniger",
+      "zh": "短角倒钩白蚁",
+      "type": true,
+      "distribution": "阿根廷、巴西、智利）",
+      "subspecies": null
+     },
+     {
+      "latin": "Onkotermes corochus",
+      "zh": "瘤额倒钩白蚁",
+      "type": false,
+      "distribution": "阿根廷、巴拉圭）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,2761 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "新等翅类（除白蚁科）Neoisoptera excl. Termitidae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）"
+ },
+ "cladeIds": [
+  {
+   "family": "psammotermitidae",
+   "clade": "neoisoptera"
+  },
+  {
+   "family": "rhinotermitidae",
+   "clade": "neoisoptera"
+  },
+  {
+   "family": "serritermitidae",
+   "clade": "neoisoptera"
+  },
+  {
+   "family": "stylotermitidae",
+   "clade": "neoisoptera"
+  },
+  {
+   "family": "termitogetonidae",
+   "clade": "neoisoptera"
+  },
+  {
+   "family": "heterotermitidae",
+   "clade": "geoisoptera"
+  }
+ ],
+ "counts": {
+  "families": 6,
+  "genera": 14,
+  "species": 359,
+  "subspecies": 8,
+  "subfamilies": 0
+ },
+ "families": [
+  {
+   "zh": "沙白蚁科",
+   "latin": "PSAMMOTERMITIDAE",
+   "id": "psammotermitidae",
+   "genera": [
+    {
+     "zh": "原鼻白蚁属",
+     "latin": "Prorhinotermes",
+     "id": "prorhinotermes",
+     "species_count": 12,
+     "type_species": "Prorhinotermes inopinatus",
+     "species": [
+      {
+       "latin": "Prorhinotermes canalifrons",
+       "zh": "沟额原鼻白蚁",
+       "type": false,
+       "distribution": "印度洋岛屿、留尼汪、马达加斯加、法国、可可斯（基林）群岛、科摩罗、毛里求斯、留尼汪（法）、塞舌尔）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes cotym",
+       "zh": "科廷原鼻白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes flavus",
+       "zh": "黄色原鼻白蚁",
+       "type": false,
+       "distribution": "东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes hainanensis",
+       "zh": "海南原鼻白蚁",
+       "type": false,
+       "distribution": "中国、海南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes inopinatus",
+       "zh": "意外原鼻白蚁",
+       "type": true,
+       "distribution": "澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes molinoi",
+       "zh": "莫利诺原鼻白蚁",
+       "type": false,
+       "distribution": "巴拿马、哥斯达黎加、危地马拉、洪都拉斯）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes oceanicus",
+       "zh": "海洋原鼻白蚁",
+       "type": false,
+       "distribution": "哥斯达黎加、哥斯达黎加可可斯岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes ponapensis",
+       "zh": "波纳佩原鼻白蚁",
+       "type": false,
+       "distribution": "密克罗尼西亚、波纳佩岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes rugifer",
+       "zh": "具皱原鼻白蚁",
+       "type": false,
+       "distribution": "印尼、印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes simplex",
+       "zh": "简单原鼻白蚁",
+       "type": false,
+       "distribution": "美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes spectabilis",
+       "zh": "奇丽原鼻白蚁",
+       "type": false,
+       "distribution": "中国、云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Prorhinotermes xishaensis",
+       "zh": "西沙原鼻白蚁",
+       "type": false,
+       "distribution": "中国、西沙群岛）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "沙白蚁属",
+     "latin": "Psammotermes",
+     "id": "psammotermes",
+     "species_count": 6,
+     "type_species": "Psammotermes hybostoma",
+     "species": [
+      {
+       "latin": "Psammotermes allocerus",
+       "zh": "奇白沙白蚁",
+       "type": false,
+       "distribution": "非洲南部、纳米比亚、南非、安哥拉、博茨瓦纳、埃及）",
+       "subspecies": null
+      },
+      {
+       "latin": "Psammotermes hybostoma",
+       "zh": "弯嘴沙白蚁",
+       "type": true,
+       "distribution": "西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门）",
+       "subspecies": null
+      },
+      {
+       "latin": "Psammotermes prohybostoma",
+       "zh": "似弯嘴沙白蚁",
+       "type": false,
+       "distribution": "伊朗）",
+       "subspecies": null
+      },
+      {
+       "latin": "Psammotermes rajasthanicus",
+       "zh": "拉贾斯坦沙白蚁",
+       "type": false,
+       "distribution": "印度西北部、巴基斯坦、伊朗）",
+       "subspecies": null
+      },
+      {
+       "latin": "Psammotermes senegalensis",
+       "zh": "塞内加尔沙白蚁",
+       "type": false,
+       "distribution": "尼日利亚、塞内加尔）",
+       "subspecies": null
+      },
+      {
+       "latin": "Psammotermes voeltzkowi",
+       "zh": "弗尔特科沙白蚁",
+       "type": false,
+       "distribution": "马达加斯加）",
+       "subspecies": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "zh": "鼻白蚁科",
+   "latin": "RHINOTERMITIDAE",
+   "id": "rhinotermitidae",
+   "genera": [
+    {
+     "zh": "尖鼻白蚁属",
+     "latin": "Acorhinotermes",
+     "id": "acorhinotermes",
+     "species_count": 2,
+     "type_species": "Acorhinotermes subfusciceps",
+     "species": [
+      {
+       "latin": "Acorhinotermes claritae",
+       "zh": "克拉丽塔尖鼻白蚁",
+       "type": false,
+       "distribution": "哥伦比亚、巴西、委内瑞拉）",
+       "subspecies": null
+      },
+      {
+       "latin": "Acorhinotermes subfusciceps",
+       "zh": "棕头尖鼻白蚁",
+       "type": true,
+       "distribution": "南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "狭鼻白蚁属",
+     "latin": "Dolichorhinotermes",
+     "id": "dolichorhinotermes",
+     "species_count": 7,
+     "type_species": "Dolichorhinotermes longilabius",
+     "species": [
+      {
+       "latin": "Dolichorhinotermes japuraensis",
+       "zh": "雅普拉狭鼻白蚁",
+       "type": false,
+       "distribution": "巴西、圭亚那）",
+       "subspecies": null
+      },
+      {
+       "latin": "Dolichorhinotermes lanciarius",
+       "zh": "矛唇狭鼻白蚁",
+       "type": false,
+       "distribution": "玻利维亚、厄瓜多尔、秘鲁）",
+       "subspecies": null
+      },
+      {
+       "latin": "Dolichorhinotermes latilabrum",
+       "zh": "宽唇狭鼻白蚁",
+       "type": false,
+       "distribution": "南美洲、巴西、法属圭亚那、玻利维亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Dolichorhinotermes longidens",
+       "zh": "长齿狭鼻白蚁",
+       "type": false,
+       "distribution": "巴拿马、哥伦比亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Dolichorhinotermes longilabius",
+       "zh": "长唇狭鼻白蚁",
+       "type": true,
+       "distribution": "南美洲、巴西、哥伦比亚、法属圭亚那、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉）",
+       "subspecies": null
+      },
+      {
+       "latin": "Dolichorhinotermes neli",
+       "zh": "内尔狭鼻白蚁",
+       "type": false,
+       "distribution": "法属圭亚那）",
+       "subspecies": null
+      },
+      {
+       "latin": "Dolichorhinotermes tenebrosus",
+       "zh": "暗色狭鼻白蚁",
+       "type": false,
+       "distribution": "南美洲、圭亚那、玻利维亚、厄瓜多尔、委内瑞拉）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "棒鼻白蚁属",
+     "latin": "Parrhinotermes",
+     "id": "parrhinotermes",
+     "species_count": 13,
+     "type_species": "Parrhinotermes aequalis",
+     "species": [
+      {
+       "latin": "Parrhinotermes aequalis",
+       "zh": "相等棒鼻白蚁",
+       "type": true,
+       "distribution": "马来西亚、沙捞越、印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes barbatus",
+       "zh": "毛颏棒鼻白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes browni",
+       "zh": "布朗棒鼻白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、巴布亚新几内亚、所罗门群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes buttelreepeni",
+       "zh": "巴特里彭棒鼻白蚁",
+       "type": false,
+       "distribution": "东南亚、印尼苏门答腊、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes inaequalis",
+       "zh": "不等棒鼻白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes khasii",
+       "zh": "卡西棒鼻白蚁",
+       "type": false,
+       "distribution": "西藏（墨脱：背崩800m、亚让1000m）；印度（阿萨姆：卡西山366m））",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes microdentiformis",
+       "zh": "小齿棒鼻白蚁",
+       "type": false,
+       "distribution": "泰国、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes microdentiformisoides",
+       "zh": "似小齿棒鼻白蚁",
+       "type": false,
+       "distribution": "泰国、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes minor",
+       "zh": "小棒鼻白蚁",
+       "type": false,
+       "distribution": "泰国、印度尼西亚、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes pygmaeus",
+       "zh": "侏儒棒鼻白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes queenslandicus",
+       "zh": "昆士兰棒鼻白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes ruiliensis",
+       "zh": "瑞丽棒鼻白蚁",
+       "type": false,
+       "distribution": "中国、云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Parrhinotermes shamimi",
+       "zh": "沙明棒鼻白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "鼻白蚁属",
+     "latin": "Rhinotermes",
+     "id": "rhinotermes",
+     "species_count": 4,
+     "type_species": "Rhinotermes nasutus",
+     "species": [
+      {
+       "latin": "Rhinotermes hispidus",
+       "zh": "多毛鼻白蚁",
+       "type": false,
+       "distribution": "巴西、法属圭亚那、哥伦比亚、玻利维亚、厄瓜多尔、秘鲁、委内瑞拉）",
+       "subspecies": null
+      },
+      {
+       "latin": "Rhinotermes manni",
+       "zh": "曼鼻白蚁",
+       "type": false,
+       "distribution": "玻利维亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Rhinotermes marginalis",
+       "zh": "微小鼻白蚁",
+       "type": false,
+       "distribution": "巴西、哥伦比亚、法属圭亚那、加勒比、玻利维亚、厄瓜多尔、秘鲁、苏里南、委内瑞拉）",
+       "subspecies": null
+      },
+      {
+       "latin": "Rhinotermes nasutus",
+       "zh": "大鼻鼻白蚁",
+       "type": true,
+       "distribution": "法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "长鼻白蚁属",
+     "latin": "Schedorhinotermes",
+     "id": "schedorhinotermes",
+     "species_count": 35,
+     "type_species": "Schedorhinotermes intermedius",
+     "species": [
+      {
+       "latin": "Schedorhinotermes actuosus",
+       "zh": "活跃长鼻白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes bidentatus",
+       "zh": "双齿长鼻白蚁",
+       "type": false,
+       "distribution": "菲律宾）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes brachyceps",
+       "zh": "短头长鼻白蚁",
+       "type": false,
+       "distribution": "印尼）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes breinli",
+       "zh": "布赖内尔长鼻白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes brevialatus",
+       "zh": "短翅长鼻白蚁",
+       "type": false,
+       "distribution": "马来西亚沙捞越、印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes butteli",
+       "zh": "巴特尔长鼻白蚁",
+       "type": false,
+       "distribution": "马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes derosus",
+       "zh": "流浪长鼻白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes eleanorae",
+       "zh": "埃莉诺长鼻白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes fortignathus",
+       "zh": "强颚长鼻白蚁",
+       "type": false,
+       "distribution": "云南（思茅）。）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes ganlanbaensis",
+       "zh": "橄榄坝长鼻白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes holmgreni",
+       "zh": "霍姆格伦长鼻白蚁",
+       "type": false,
+       "distribution": "印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes insolitus",
+       "zh": "异盟长鼻白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes intermedius",
+       "zh": "中间长鼻白蚁",
+       "type": true,
+       "distribution": "澳大利亚东部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes lamanianus",
+       "zh": "拉曼长鼻白蚁",
+       "type": false,
+       "distribution": "西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes leopoldi",
+       "zh": "利奥波德长鼻白蚁",
+       "type": false,
+       "distribution": "印尼）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes longirostris",
+       "zh": "长喙长鼻白蚁",
+       "type": false,
+       "distribution": "印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚；引入：关岛（美国））",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes magnus",
+       "zh": "大长鼻白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes makassarensis",
+       "zh": "望加锡长鼻白蚁",
+       "type": false,
+       "distribution": "印尼、印度、尼科巴群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes makilingensis",
+       "zh": "马吉岭长鼻白蚁",
+       "type": false,
+       "distribution": "菲律宾）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes malaccensis",
+       "zh": "马六甲长鼻白蚁",
+       "type": false,
+       "distribution": "东南亚、泰国、马来西亚、柬埔寨、印度尼西亚、缅甸、新加坡、越南、印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes maximus",
+       "zh": "最大长鼻白蚁",
+       "type": false,
+       "distribution": "分布待核）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes medioobscurus",
+       "zh": "中暗长鼻白蚁",
+       "type": false,
+       "distribution": "东南亚、印度尼西亚、泰国、马来西亚、柬埔寨、新加坡、越南、菲律宾、中国、印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes nancowriensis",
+       "zh": "楠考里长鼻白蚁",
+       "type": false,
+       "distribution": "印度、尼科巴群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes putorius",
+       "zh": "臭鼬长鼻白蚁",
+       "type": false,
+       "distribution": "西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes pyricephalus",
+       "zh": "梨头长鼻白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes rectangularis",
+       "zh": "直角长鼻白蚁",
+       "type": false,
+       "distribution": "泰国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes reticulatus",
+       "zh": "网状长鼻白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes robustior",
+       "zh": "强壮长鼻白蚁",
+       "type": false,
+       "distribution": "巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes sanctaecrucis",
+       "zh": "圣克鲁斯长鼻白蚁",
+       "type": false,
+       "distribution": "所罗门群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes seclusus",
+       "zh": "隐遁长鼻白蚁",
+       "type": false,
+       "distribution": "澳大利亚、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes solomonensis",
+       "zh": "所罗门长鼻白蚁",
+       "type": false,
+       "distribution": "所罗门群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes tenuis",
+       "zh": "细瘦长鼻白蚁",
+       "type": false,
+       "distribution": "印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes tiwarii",
+       "zh": "蒂瓦里长鼻白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes translucens",
+       "zh": "透明长鼻白蚁",
+       "type": false,
+       "distribution": "所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Schedorhinotermes umbraticus",
+       "zh": "隐蔽长鼻白蚁",
+       "type": false,
+       "distribution": "巴布亚新几内亚）",
+       "subspecies": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "zh": "齿白蚁科",
+   "latin": "SERRITERMITIDAE",
+   "id": "serritermitidae",
+   "genera": [
+    {
+     "zh": "舌白蚁属",
+     "latin": "Glossotermes",
+     "id": "glossotermes",
+     "species_count": 2,
+     "type_species": "Glossotermes oculatus",
+     "species": [
+      {
+       "latin": "Glossotermes oculatus",
+       "zh": "眼显舌白蚁",
+       "type": true,
+       "distribution": "法属圭亚那、圭亚那）",
+       "subspecies": null
+      },
+      {
+       "latin": "Glossotermes sulcatus",
+       "zh": "具纹舌白蚁",
+       "type": false,
+       "distribution": "巴西）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "齿白蚁属",
+     "latin": "Serritermes",
+     "id": "serritermes",
+     "species_count": 1,
+     "type_species": "Serritermes serrifer",
+     "species": [
+      {
+       "latin": "Serritermes serrifer",
+       "zh": "锯齿白蚁",
+       "type": true,
+       "distribution": "巴西）",
+       "subspecies": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "zh": "杆白蚁科",
+   "latin": "STYLOTERMITIDAE",
+   "id": "stylotermitidae",
+   "genera": [
+    {
+     "zh": "杆白蚁属",
+     "latin": "Stylotermes",
+     "id": "stylotermes",
+     "species_count": 45,
+     "type_species": "Stylotermes fletcheri",
+     "species": [
+      {
+       "latin": "Stylotermes acrofrons",
+       "zh": "丘额杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes ahmadi",
+       "zh": "阿哈默德杆白蚁",
+       "type": false,
+       "distribution": "中国、孟加拉国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes alpinus",
+       "zh": "高山杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes angustignathus",
+       "zh": "细颚杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes beesoni",
+       "zh": "比森杆白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes bengalensis",
+       "zh": "西孟加拉杆白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes chakratensis",
+       "zh": "杰格拉达杆白蚁",
+       "type": false,
+       "distribution": "中国、印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes changtingensis",
+       "zh": "长汀杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes chengduensis",
+       "zh": "成都杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes chongqingensis",
+       "zh": "重庆杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes choui",
+       "zh": "周氏杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes crinis",
+       "zh": "多毛杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes curvatus",
+       "zh": "弯颚杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes dunensis",
+       "zh": "德拉敦杆白蚁",
+       "type": false,
+       "distribution": "中国、印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes faveolus",
+       "zh": "凹胸杆白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes fletcheri",
+       "zh": "弗莱彻杆白蚁",
+       "type": true,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes fontanellus",
+       "zh": "长囟杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes guiyangensis",
+       "zh": "贵阳杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes halumicus",
+       "zh": "穿山甲杆白蚁",
+       "type": false,
+       "distribution": "中国台湾）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes hanyuanicus",
+       "zh": "汉源杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes inclinatus",
+       "zh": "倾头杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes jinyunicus",
+       "zh": "缙云杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes labralis",
+       "zh": "圆唇杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes laticrus",
+       "zh": "阔腿杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes latilabrum",
+       "zh": "宽唇杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes latipedunculus",
+       "zh": "阔颏杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes lianpingensis",
+       "zh": "连平杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes longignathus",
+       "zh": "长颚杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes mecocephalus",
+       "zh": "长头杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes minutus",
+       "zh": "侏儒杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes mirabilis",
+       "zh": "颏奇杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes orthognathus",
+       "zh": "直颚杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes parabengalensis",
+       "zh": "似西孟加拉杆白蚁",
+       "type": false,
+       "distribution": "中国、印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes planifrons",
+       "zh": "平额杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes robustus",
+       "zh": "宏壮杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes roonwali",
+       "zh": "鲁恩沃杆白蚁",
+       "type": false,
+       "distribution": "印度、文莱、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes setosus",
+       "zh": "刚毛杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes sinensis",
+       "zh": "中华杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes sui",
+       "zh": "苏氏杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes triplanus",
+       "zh": "三平杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes tsaii",
+       "zh": "蔡氏杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes undulatus",
+       "zh": "波颚杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes valvules",
+       "zh": "短盖杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes wuyinicus",
+       "zh": "武夷杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Stylotermes xichangensis",
+       "zh": "西昌杆白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "zh": "寡脉白蚁科",
+   "latin": "TERMITOGETONIDAE",
+   "id": "termitogetonidae",
+   "genera": [
+    {
+     "zh": "寡脉白蚁属",
+     "latin": "Termitogeton",
+     "id": "termitogeton",
+     "species_count": 2,
+     "type_species": "Termitogeton planus",
+     "species": [
+      {
+       "latin": "Termitogeton planus",
+       "zh": "平坦寡脉白蚁",
+       "type": true,
+       "distribution": "印度尼西亚、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Termitogeton umbilicatus",
+       "zh": "中凹寡脉白蚁",
+       "type": false,
+       "distribution": "斯里兰卡）",
+       "subspecies": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "zh": "异白蚁科",
+   "latin": "HETEROTERMITIDAE",
+   "id": "heterotermitidae",
+   "genera": [
+    {
+     "zh": "乳白蚁属",
+     "latin": "Coptotermes",
+     "id": "coptotermes",
+     "species_count": 59,
+     "type_species": "Coptotermes gestroi",
+     "species": [
+      {
+       "latin": "Coptotermes acinaciformis",
+       "zh": "短刀乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚、引入：新西兰）",
+       "subspecies": [
+        {
+         "epithet": "acinaciformis",
+         "zh": "指名亚种"
+        },
+        {
+         "epithet": "raffrayi",
+         "zh": "拉夫雷亚种"
+        }
+       ]
+      },
+      {
+       "latin": "Coptotermes amanii",
+       "zh": "阿马尼乳白蚁",
+       "type": false,
+       "distribution": "坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes amboinensis",
+       "zh": "安汶乳白蚁",
+       "type": false,
+       "distribution": "印尼马鲁古群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes bannaensis",
+       "zh": "版纳乳白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes beckeri",
+       "zh": "贝克乳白蚁",
+       "type": false,
+       "distribution": "印度南部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes bentongensis",
+       "zh": "文冬乳白蚁",
+       "type": false,
+       "distribution": "马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes boetonensis",
+       "zh": "博顿乳白蚁",
+       "type": false,
+       "distribution": "印尼爪哇）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes brunneus",
+       "zh": "深棕乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚西部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes ceylonicus",
+       "zh": "锡兰乳白蚁",
+       "type": false,
+       "distribution": "印度南部、斯里兰卡、中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes chaoxianensis",
+       "zh": "巢县乳白蚁",
+       "type": false,
+       "distribution": "中国安徽）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes cooloola",
+       "zh": "库鲁拉乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚昆士兰东南部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes curvignathus",
+       "zh": "曲颚乳白蚁",
+       "type": false,
+       "distribution": "东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南；引入：中国、菲律宾、南非）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes cyclocoryphus",
+       "zh": "圆头乳白蚁",
+       "type": false,
+       "distribution": "中国广东）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes dimorphus",
+       "zh": "二型乳白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes dobonicus",
+       "zh": "多波乳白蚁",
+       "type": false,
+       "distribution": "巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes dreghorni",
+       "zh": "雷德霍恩乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚昆士兰）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes elisae",
+       "zh": "瑞明乳白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、马来西亚、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes emersoni",
+       "zh": "埃默森乳白蚁",
+       "type": false,
+       "distribution": "印度、中国、斯里兰卡）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes formosanus",
+       "zh": "台湾乳白蚁",
+       "type": false,
+       "distribution": "中国南部及台湾、原产、随木材广布热带亚热带）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes frenchi",
+       "zh": "弗伦奇乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚；引入：新西兰）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes fumipennis",
+       "zh": "烟翅乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes gambrinus",
+       "zh": "甘布里努斯乳白蚁",
+       "type": false,
+       "distribution": "巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes gaurii",
+       "zh": "高瑞乳白蚁",
+       "type": false,
+       "distribution": "斯里兰卡、尼科巴群岛（印度））",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes gestroi",
+       "zh": "格斯特乳白蚁",
+       "type": true,
+       "distribution": "东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南；热带区广布，引入安提瓜和巴布达、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes grandiceps",
+       "zh": "庞头乳白蚁",
+       "type": false,
+       "distribution": "所罗门群岛、巴布亚新几内亚、印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes grandis",
+       "zh": "大头乳白蚁",
+       "type": false,
+       "distribution": "中国福建）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes guangdongensis",
+       "zh": "广东乳白蚁",
+       "type": false,
+       "distribution": "中国广东）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes guizhouensis",
+       "zh": "贵州乳白蚁",
+       "type": false,
+       "distribution": "中国贵州）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes gulangyuensis",
+       "zh": "鼓浪屿乳白蚁",
+       "type": false,
+       "distribution": "中国福建）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes hainanensis",
+       "zh": "海南乳白蚁",
+       "type": false,
+       "distribution": "中国海南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes intermedius",
+       "zh": "中间乳白蚁",
+       "type": false,
+       "distribution": "西非、科特迪瓦、塞内加尔、塞拉利昂、布基纳法索、加纳、几内亚比绍、尼日利亚、阿曼）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes kalshoveni",
+       "zh": "卡尔斯霍芬乳白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、马来西亚、泰国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes kishori",
+       "zh": "基绍乳白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes lacteus",
+       "zh": "乳色乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚东部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes longignathus",
+       "zh": "长颚乳白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes longistriatus",
+       "zh": "长带乳白蚁",
+       "type": false,
+       "distribution": "中国广东）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes mauricianus",
+       "zh": "毛里求斯乳白蚁",
+       "type": false,
+       "distribution": "毛里求斯）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes melanoistriatus",
+       "zh": "黑带乳白蚁",
+       "type": false,
+       "distribution": "中国香港）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes menadoae",
+       "zh": "万鸦东乳白蚁",
+       "type": false,
+       "distribution": "印尼苏拉威西）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes michaelseni",
+       "zh": "米夏埃尔森乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚西部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes minutissimus",
+       "zh": "最小乳白蚁",
+       "type": false,
+       "distribution": "印尼苏拉威西）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes monosetosus",
+       "zh": "单毛乳白蚁",
+       "type": false,
+       "distribution": "中国云南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes nanus",
+       "zh": "侏儒乳白蚁",
+       "type": false,
+       "distribution": "澳大利亚西部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes ochraceus",
+       "zh": "黄赭乳白蚁",
+       "type": false,
+       "distribution": "中国贵州）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes oshimai",
+       "zh": "大岛乳白蚁",
+       "type": false,
+       "distribution": "印尼苏拉威西）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes pamuae",
+       "zh": "帕穆亚乳白蚁",
+       "type": false,
+       "distribution": "所罗门群岛、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes paradoxus",
+       "zh": "奇异乳白蚁",
+       "type": false,
+       "distribution": "旧热带界）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes peregrinator",
+       "zh": "陌生乳白蚁",
+       "type": false,
+       "distribution": "印尼苏拉威西）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes premrasmii",
+       "zh": "普雷姆阿斯米乳白蚁",
+       "type": false,
+       "distribution": "泰国、尼科巴群岛（印度））",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes remotus",
+       "zh": "远方乳白蚁",
+       "type": false,
+       "distribution": "巴布亚新几内亚、帕劳）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes sepangensis",
+       "zh": "赛庞乳白蚁",
+       "type": false,
+       "distribution": "马来西亚、印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes shanghaiensis",
+       "zh": "上海乳白蚁",
+       "type": false,
+       "distribution": "中国上海）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes silvaticus",
+       "zh": "森林乳白蚁",
+       "type": false,
+       "distribution": "旧热带界）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes sinabangensis",
+       "zh": "锡纳邦乳白蚁",
+       "type": false,
+       "distribution": "印尼苏门答腊、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes sjostedti",
+       "zh": "舍斯泰特乳白蚁",
+       "type": false,
+       "distribution": "西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达；引入：瓜德罗普（法国））",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes testaceus",
+       "zh": "厚壳乳白蚁",
+       "type": false,
+       "distribution": "新热带界、中美洲至南美北部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes travians",
+       "zh": "南亚乳白蚁",
+       "type": false,
+       "distribution": "印度尼西亚苏门答腊、马来西亚、新加坡）",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes truncatus",
+       "zh": "伤残乳白蚁",
+       "type": false,
+       "distribution": "马达加斯加、塞舌尔（引入））",
+       "subspecies": null
+      },
+      {
+       "latin": "Coptotermes varicapitatus",
+       "zh": "异头乳白蚁",
+       "type": false,
+       "distribution": "中国广东）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "异白蚁属",
+     "latin": "Heterotermes",
+     "id": "heterotermes",
+     "species_count": 31,
+     "type_species": "Heterotermes platycephalus",
+     "species": [
+      {
+       "latin": "Heterotermes aethiopicus",
+       "zh": "埃塞俄比亚异白蚁",
+       "type": false,
+       "distribution": "埃塞俄比亚、阿曼、沙特阿拉伯、苏丹、阿联酋、也门）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes assu",
+       "zh": "大异白蚁",
+       "type": false,
+       "distribution": "巴西）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes aureus",
+       "zh": "金黄异白蚁",
+       "type": false,
+       "distribution": "北美西南部、美国西南部、墨西哥）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes balwanti",
+       "zh": "巴尔万特异白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes brevicatena",
+       "zh": "短链异白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes cardini",
+       "zh": "卡丁异白蚁",
+       "type": false,
+       "distribution": "加勒比、波多黎各、瓜德罗普、巴哈马、巴拿马、美国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes ceylonicus",
+       "zh": "锡兰异白蚁",
+       "type": false,
+       "distribution": "斯里兰卡）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes convexinotatus",
+       "zh": "凸背异白蚁",
+       "type": false,
+       "distribution": "加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes crinitus",
+       "zh": "密毛异白蚁",
+       "type": false,
+       "distribution": "南美洲、哥伦比亚、法属圭亚那、巴西）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes ferox",
+       "zh": "好斗异白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes gertrudae",
+       "zh": "格特鲁德异白蚁",
+       "type": false,
+       "distribution": "南亚、印度、巴基斯坦）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes indicola",
+       "zh": "印度异白蚁",
+       "type": false,
+       "distribution": "南亚、巴基斯坦、印度、阿富汗、伊朗）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes intermedius",
+       "zh": "中间异白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes lauralinearum",
+       "zh": "劳拉利纳异白蚁",
+       "type": false,
+       "distribution": "阿根廷、玻利维亚、巴拉圭）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes longicatena",
+       "zh": "长链异白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes longiceps",
+       "zh": "长头异白蚁",
+       "type": false,
+       "distribution": "南美洲、巴西、玻利维亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes maculatus",
+       "zh": "斑点异白蚁",
+       "type": false,
+       "distribution": "墨西哥）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes malabaricus",
+       "zh": "马拉巴尔异白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes occiduus",
+       "zh": "西部异白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes omanae",
+       "zh": "阿曼异白蚁",
+       "type": false,
+       "distribution": "阿曼）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes pamatatensis",
+       "zh": "帕玛塔塔异白蚁",
+       "type": false,
+       "distribution": "印尼、印度尼西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes paradoxus",
+       "zh": "奇异异白蚁",
+       "type": false,
+       "distribution": "澳大利亚、印度尼西亚、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes perfidus",
+       "zh": "危险异白蚁",
+       "type": false,
+       "distribution": "圣赫勒拿）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes philippinensis",
+       "zh": "菲律宾异白蚁",
+       "type": false,
+       "distribution": "菲律宾、马达加斯加、毛里求斯）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes platycephalus",
+       "zh": "宽头异白蚁",
+       "type": true,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes sulcatus",
+       "zh": "具沟异白蚁",
+       "type": false,
+       "distribution": "南美洲、巴西、委内瑞拉、苏里南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes tenuior",
+       "zh": "细长异白蚁",
+       "type": false,
+       "distribution": "印度尼西亚、马来西亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes tenuis",
+       "zh": "细瘦异白蚁",
+       "type": false,
+       "distribution": "新热带界、南美至中美洲、墨西哥、蒙特塞拉特、美国、巴哈马、巴巴多斯、古巴、多米尼克、多米尼加共和国、格林纳达、法属瓜德罗普、海地、牙买加、法属马提尼克、波多黎各、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes vagus",
+       "zh": "游荡异白蚁",
+       "type": false,
+       "distribution": "澳大利亚、巴布亚新几内亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes validus",
+       "zh": "健壮异白蚁",
+       "type": false,
+       "distribution": "澳大利亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Heterotermes wittmeri",
+       "zh": "威特默异白蚁",
+       "type": false,
+       "distribution": "沙特阿拉伯）",
+       "subspecies": null
+      }
+     ]
+    },
+    {
+     "zh": "散白蚁属",
+     "latin": "Reticulitermes",
+     "id": "reticulitermes",
+     "species_count": 140,
+     "type_species": "Reticulitermes flavipes",
+     "species": [
+      {
+       "latin": "Reticulitermes aculabialis",
+       "zh": "尖唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes aegeus",
+       "zh": "爱琴散白蚁",
+       "type": false,
+       "distribution": "东地中海、克罗地亚、希腊、土耳其、塞浦路斯）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes affinis",
+       "zh": "肖若散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes altus",
+       "zh": "高山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes amamianus",
+       "zh": "奄美散白蚁",
+       "type": false,
+       "distribution": "日本）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes ampliceps",
+       "zh": "扩头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes ancyleus",
+       "zh": "钩颚散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes angustatus",
+       "zh": "狭胸散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes angusticephalus",
+       "zh": "窄头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes arenincola",
+       "zh": "沙栖散白蚁",
+       "type": false,
+       "distribution": "美国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes assamensis",
+       "zh": "突额散白蚁",
+       "type": false,
+       "distribution": "印度、不丹、中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes aurantius",
+       "zh": "橙黄散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes balkanensis",
+       "zh": "巴尔干散白蚁",
+       "type": false,
+       "distribution": "巴尔干半岛、希腊等、阿尔巴尼亚、前南斯拉夫）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes banyulensis",
+       "zh": "巴尼于勒散白蚁",
+       "type": false,
+       "distribution": "西南欧、西班牙、法国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes bicristatus",
+       "zh": "双瘤散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes bitumulus",
+       "zh": "双峰散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes brachygnathus",
+       "zh": "短颚散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes brevicurvatus",
+       "zh": "短弯颚散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes cancrifemuris",
+       "zh": "蟹腿散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes castanus",
+       "zh": "褐胸散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes chayuensis",
+       "zh": "察隅散白蚁",
+       "type": false,
+       "distribution": "中国西藏）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes chinensis",
+       "zh": "黑胸散白蚁",
+       "type": false,
+       "distribution": "中国、印度、越南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes choui",
+       "zh": "周氏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes chryseus",
+       "zh": "金黄散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes citrinus",
+       "zh": "柠黄散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes clypeatus",
+       "zh": "大唇散白蚁",
+       "type": false,
+       "distribution": "中东、以色列、土耳其、罗马尼亚）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes coelceps",
+       "zh": "凹头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes conus",
+       "zh": "锥颚散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes croceus",
+       "zh": "深黄散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes curticeps",
+       "zh": "短头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes curvatus",
+       "zh": "弯颚散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes cymbidii",
+       "zh": "幽兰散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes dabieshanensis",
+       "zh": "大别山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes dantuensis",
+       "zh": "丹徒散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes dayongensis",
+       "zh": "大庸散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes dinghuensis",
+       "zh": "鼎湖散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes emei",
+       "zh": "峨嵋散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes fengduensis",
+       "zh": "丰都散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes flaviceps",
+       "zh": "黄胸散白蚁",
+       "type": false,
+       "distribution": "中国南部、台湾、香港、日本、越南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes flavipes",
+       "zh": "北美散白蚁",
+       "type": true,
+       "distribution": "北美东部、美国东部、加拿大东南部、随贸易引入欧洲、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes fukienensis",
+       "zh": "花胸散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes fulvimarginalis",
+       "zh": "褐缘散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes ganga",
+       "zh": "恒湖散白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes gaoshi",
+       "zh": "大囟散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes gaoyaoensis",
+       "zh": "高要散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes grandis",
+       "zh": "大头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes grassei",
+       "zh": "格拉塞散白蚁",
+       "type": false,
+       "distribution": "西南欧、西班牙、葡萄牙、法国、英国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes guangzhouensis",
+       "zh": "广州散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes guilinensis",
+       "zh": "桂林散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes guiyangensis",
+       "zh": "贵阳散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes guizhouensis",
+       "zh": "贵州散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes gulinensis",
+       "zh": "古蔺散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes hageni",
+       "zh": "哈根散白蚁",
+       "type": false,
+       "distribution": "美国东南部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes hainanensis",
+       "zh": "海南散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes hesperus",
+       "zh": "西部散白蚁",
+       "type": false,
+       "distribution": "北美西部、美国西部、加拿大西南部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes huangi",
+       "zh": "黄氏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes huapingensis",
+       "zh": "花坪散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes hubeiensis",
+       "zh": "湖北散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes hunanensis",
+       "zh": "湖南散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes hypsofrons",
+       "zh": "高额散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes jiangchengensis",
+       "zh": "江城散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes kanmonensis",
+       "zh": "关门散白蚁",
+       "type": false,
+       "distribution": "日本、朝鲜半岛、中国、台湾、韩国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes labralis",
+       "zh": "圆唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes largus",
+       "zh": "大型散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes latilabris",
+       "zh": "宽唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes leiboensis",
+       "zh": "雷波散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes leigongshanensis",
+       "zh": "雷公山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes leptogulus",
+       "zh": "细颏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes leptomandibularis",
+       "zh": "细颚散白蚁",
+       "type": false,
+       "distribution": "东亚、台湾、中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes levatoriceps",
+       "zh": "隆头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes lianchengensis",
+       "zh": "连城散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes lii",
+       "zh": "李氏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes lingulatus",
+       "zh": "舌唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes longicephalus",
+       "zh": "长头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes longigulus",
+       "zh": "长颏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes longipennis",
+       "zh": "长翅散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes lucifugus",
+       "zh": "暗黑散白蚁",
+       "type": false,
+       "distribution": "地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧）））",
+       "subspecies": [
+        {
+         "epithet": "corsicus",
+         "zh": "科西嘉亚种"
+        },
+        {
+         "epithet": "lucifugus",
+         "zh": "指名亚种"
+        },
+        {
+         "epithet": "siculus",
+         "zh": "西西里亚种"
+        }
+       ]
+      },
+      {
+       "latin": "Reticulitermes luofunicus",
+       "zh": "罗浮散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes magdalenae",
+       "zh": "马格达莱纳散白蚁",
+       "type": false,
+       "distribution": "越南）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes majiangensis",
+       "zh": "麻江散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes malletei",
+       "zh": "马利特散白蚁",
+       "type": false,
+       "distribution": "美国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes mangshanensis",
+       "zh": "莽山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes maopingensis",
+       "zh": "毛坪散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes microcephalus",
+       "zh": "小头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes minutus",
+       "zh": "侏儒散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes mirogulus",
+       "zh": "奇颏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes mirus",
+       "zh": "陌宽散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes miyatakei",
+       "zh": "宫武散白蚁",
+       "type": false,
+       "distribution": "日本）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes nanjiangensis",
+       "zh": "南江散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes nelsonae",
+       "zh": "纳尔逊散白蚁",
+       "type": false,
+       "distribution": "美国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes neochinensis",
+       "zh": "新中华散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes okinawanus",
+       "zh": "冲绳散白蚁",
+       "type": false,
+       "distribution": "日本）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes oocephalus",
+       "zh": "蛋头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes oreophilus",
+       "zh": "喜山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes ovatilabrum",
+       "zh": "卵唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes paralucifugus",
+       "zh": "似暗散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes parvus",
+       "zh": "小散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes perangustus",
+       "zh": "狭颏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes periflaviceps",
+       "zh": "近黄胸散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes perilabralis",
+       "zh": "近圆唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes perilucifugus",
+       "zh": "近暗散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes pingjiangensis",
+       "zh": "平江散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes planifrons",
+       "zh": "平额散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes planimentus",
+       "zh": "平颏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes pseudaculabialis",
+       "zh": "拟尖唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes qingdaoensis",
+       "zh": "青岛散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes qingjiangensis",
+       "zh": "清江散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes rectis",
+       "zh": "直缘散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes rusti",
+       "zh": "鲁斯特散白蚁",
+       "type": false,
+       "distribution": "美国加利福尼亚南部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes saraswati",
+       "zh": "萨拉斯瓦特散白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes setosus",
+       "zh": "刚毛散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes solidimandibulas",
+       "zh": "粗颚散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes speratus",
+       "zh": "栖北散白蚁",
+       "type": false,
+       "distribution": "日本、朝鲜半岛、中国东北部、台湾、俄罗斯、美国）",
+       "subspecies": [
+        {
+         "epithet": "kyushuensis",
+         "zh": "九州亚种"
+        },
+        {
+         "epithet": "leptolabralis",
+         "zh": "细唇亚种"
+        },
+        {
+         "epithet": "speratus",
+         "zh": "指名亚种"
+        }
+       ]
+      },
+      {
+       "latin": "Reticulitermes subligulosus",
+       "zh": "近舌唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes sublongicapitatus",
+       "zh": "似长头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes sylvestris",
+       "zh": "林海散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes testudineus",
+       "zh": "龟唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes tianpingshanensis",
+       "zh": "天平山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes tibetanus",
+       "zh": "西藏散白蚁",
+       "type": false,
+       "distribution": "中国西藏）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes tibialis",
+       "zh": "黑胫散白蚁",
+       "type": false,
+       "distribution": "北美西部、美国西部、墨西哥北部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes tirapi",
+       "zh": "特拉普散白蚁",
+       "type": false,
+       "distribution": "印度）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes translucens",
+       "zh": "端明散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes trichocephalus",
+       "zh": "毛头散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes tricholabralis",
+       "zh": "毛唇散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes trichothorax",
+       "zh": "毛胸散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes tricolorus",
+       "zh": "三色散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes urbis",
+       "zh": "城市散白蚁",
+       "type": false,
+       "distribution": "欧洲、克罗地亚、希腊、意大利、法国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes virginicus",
+       "zh": "弗吉尼亚散白蚁",
+       "type": false,
+       "distribution": "美国东部）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes wugangensis",
+       "zh": "武冈散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes wugongensis",
+       "zh": "武宫散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes wuyishanensis",
+       "zh": "武夷山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes xingshanensis",
+       "zh": "兴山散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes xingyiensis",
+       "zh": "兴义散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes yaeyamanus",
+       "zh": "八重山散白蚁",
+       "type": false,
+       "distribution": "日本、中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes yinae",
+       "zh": "尹氏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes yingdeensis",
+       "zh": "英德散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes yizhangensis",
+       "zh": "宜章散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes yongdingensis",
+       "zh": "永定散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes yunsiensis",
+       "zh": "云寺散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      },
+      {
+       "latin": "Reticulitermes zhaoi",
+       "zh": "赵氏散白蚁",
+       "type": false,
+       "distribution": "中国）",
+       "subspecies": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

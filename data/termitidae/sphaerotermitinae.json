@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "圆球白蚁亚科 Sphaerotermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "sphaerotermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 1,
+  "species": 1,
+  "subspecies": 0
+ },
+ "subfamily": {
+  "zh": "圆球白蚁亚科",
+  "latin": "Sphaerotermitinae",
+  "id": "sphaerotermitinae",
+  "genera": [
+   {
+    "zh": "圆球白蚁属",
+    "latin": "Sphaerotermes",
+    "id": "sphaerotermes",
+    "species_count": 1,
+    "type_species": "Sphaerotermes sphaerothorax",
+    "species": [
+     {
+      "latin": "Sphaerotermes sphaerothorax",
+      "zh": "圆胸圆球白蚁",
+      "type": true,
+      "distribution": "刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚、尼日利亚）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "新扭白蚁亚科 Neocapritermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "neocapritermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 3,
+  "species": 20,
+  "subspecies": 0
+ },
+ "subfamily": {
+  "zh": "新扭白蚁亚科",
+  "latin": "Neocapritermitinae",
+  "id": "neocapritermitinae",
+  "genera": [
+   {
+    "zh": "新扭白蚁属",
+    "latin": "Neocapritermes",
+    "id": "neocapritermes",
+    "species_count": 17,
+    "type_species": "Neocapritermes opacus",
+    "species": [
+     {
+      "latin": "Neocapritermes angusticeps",
+      "zh": "窄头新扭白蚁",
+      "type": false,
+      "distribution": "巴西、法属圭亚那、圭亚那、苏里南、特立尼达和多巴哥、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes araguaia",
+      "zh": "阿拉瓜亚新扭白蚁",
+      "type": false,
+      "distribution": "巴西、法属圭亚那）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes bodkini",
+      "zh": "博德金新扭白蚁",
+      "type": false,
+      "distribution": "哥伦比亚、圭亚那、巴西、秘鲁）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes braziliensis",
+      "zh": "巴西新扭白蚁",
+      "type": false,
+      "distribution": "巴西、哥伦比亚、秘鲁、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes centralis",
+      "zh": "中部新扭白蚁",
+      "type": false,
+      "distribution": "巴拿马、哥斯达黎加）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes guyana",
+      "zh": "圭亚那新扭白蚁",
+      "type": false,
+      "distribution": "法属圭亚那、巴西、圭亚那）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes longinotus",
+      "zh": "长背新扭白蚁",
+      "type": false,
+      "distribution": "巴西、哥伦比亚、法属圭亚那、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes mirim",
+      "zh": "小型新扭白蚁",
+      "type": false,
+      "distribution": "巴西）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes opacus",
+      "zh": "发黑新扭白蚁",
+      "type": true,
+      "distribution": "巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes parvus",
+      "zh": "微型新扭白蚁",
+      "type": false,
+      "distribution": "巴西、巴拉圭）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes pumilis",
+      "zh": "侏儒新扭白蚁",
+      "type": false,
+      "distribution": "哥伦比亚、巴西、法属圭亚那、厄瓜多尔）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes talpa",
+      "zh": "鼹鼠新扭白蚁",
+      "type": false,
+      "distribution": "巴西、玻利维亚、哥伦比亚、法属圭亚那、秘鲁）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes talpoides",
+      "zh": "似鼹鼠新扭白蚁",
+      "type": false,
+      "distribution": "哥伦比亚、巴西、玻利维亚、厄瓜多尔、委内瑞拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes taracua",
+      "zh": "塔拉夸新扭白蚁",
+      "type": false,
+      "distribution": "巴西、哥伦比亚、法属圭亚那、圭亚那、厄瓜多尔、委内瑞拉、秘鲁）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes unicornis",
+      "zh": "独角新扭白蚁",
+      "type": false,
+      "distribution": "巴西）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes utiariti",
+      "zh": "乌蒂亚里蒂新扭白蚁",
+      "type": false,
+      "distribution": "巴西、哥伦比亚、秘鲁）",
+      "subspecies": null
+     },
+     {
+      "latin": "Neocapritermes villosus",
+      "zh": "密毛新扭白蚁",
+      "type": false,
+      "distribution": "秘鲁、巴西、厄瓜多尔）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "平扭白蚁属",
+    "latin": "Planicapritermes",
+    "id": "planicapritermes",
+    "species_count": 2,
+    "type_species": "Planicapritermes planiceps",
+    "species": [
+     {
+      "latin": "Planicapritermes longilabrum",
+      "zh": "长唇平扭白蚁",
+      "type": false,
+      "distribution": "巴西）",
+      "subspecies": null
+     },
+     {
+      "latin": "Planicapritermes planiceps",
+      "zh": "平头平扭白蚁",
+      "type": true,
+      "distribution": "巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、厄瓜多尔、苏里南、委内瑞拉）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "不对称白蚁属",
+    "latin": "Schievitermes",
+    "id": "schievitermes",
+    "species_count": 1,
+    "type_species": "Schievitermes globicornis",
+    "species": [
+     {
+      "latin": "Schievitermes globicornis",
+      "zh": "球角不对称白蚁",
+      "type": true,
+      "distribution": "法属圭亚那）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}

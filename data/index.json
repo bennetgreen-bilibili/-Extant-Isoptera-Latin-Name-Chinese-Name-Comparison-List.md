@@ -1,0 +1,760 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）",
+ "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
+ "version": "2026.10.17",
+ "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3008 种 63 亚种，含模式种标记、分布信息与 77 篇参考文献。",
+ "creator": {
+  "@type": "Person",
+  "name": "班奈特格林"
+ },
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "inLanguage": "zh-CN",
+ "datePublished": "2026-10-13",
+ "dateModified": "2026-10-17",
+ "counts": {
+  "clades": 6,
+  "families": 13,
+  "subfamilies": 18,
+  "genera": 323,
+  "species": 3008,
+  "subspecies": 63
+ },
+ "clades": [
+  {
+   "id": "isoptera",
+   "zh": "现存等翅下目",
+   "latin": "Extant Isoptera",
+   "parent": null
+  },
+  {
+   "id": "euisoptera",
+   "zh": "真等翅类",
+   "latin": "Euisoptera",
+   "parent": "isoptera"
+  },
+  {
+   "id": "teletisoptera",
+   "zh": "远等翅类",
+   "latin": "Teletisoptera",
+   "parent": "euisoptera"
+  },
+  {
+   "id": "icoisoptera",
+   "zh": "近等翅类",
+   "latin": "Icoisoptera",
+   "parent": "euisoptera"
+  },
+  {
+   "id": "neoisoptera",
+   "zh": "新等翅类",
+   "latin": "Neoisoptera",
+   "parent": "icoisoptera"
+  },
+  {
+   "id": "geoisoptera",
+   "zh": "土栖等翅类",
+   "latin": "Geo-isoptera",
+   "parent": "neoisoptera"
+  }
+ ],
+ "familyClade": {
+  "mastotermitidae": "isoptera",
+  "archotermopsidae": "teletisoptera",
+  "hodotermitidae": "teletisoptera",
+  "hodotermopsidae": "teletisoptera",
+  "stolotermitidae": "teletisoptera",
+  "kalotermitidae": "icoisoptera",
+  "psammotermitidae": "neoisoptera",
+  "rhinotermitidae": "neoisoptera",
+  "serritermitidae": "neoisoptera",
+  "stylotermitidae": "neoisoptera",
+  "termitogetonidae": "neoisoptera",
+  "heterotermitidae": "geoisoptera",
+  "termitidae": "geoisoptera"
+ },
+ "tree": {
+  "type": "clade",
+  "id": "isoptera",
+  "zh": "现存等翅下目",
+  "latin": "Extant Isoptera",
+  "children": [
+   {
+    "type": "family",
+    "id": "mastotermitidae",
+    "zh": "澳白蚁科",
+    "latin": "MASTOTERMITIDAE",
+    "counts": {
+     "genera": 1,
+     "species": 1,
+     "subspecies": 0,
+     "subfamilies": 0
+    },
+    "file": "data/mastotermitidae.json"
+   },
+   {
+    "type": "clade",
+    "id": "euisoptera",
+    "zh": "真等翅类",
+    "latin": "Euisoptera",
+    "children": [
+     {
+      "type": "clade",
+      "id": "teletisoptera",
+      "zh": "远等翅类",
+      "latin": "Teletisoptera",
+      "children": [
+       {
+        "type": "family",
+        "id": "archotermopsidae",
+        "zh": "古白蚁科",
+        "latin": "ARCHOTERMOPSIDAE",
+        "counts": {
+         "genera": 2,
+         "species": 5,
+         "subspecies": 2,
+         "subfamilies": 0
+        },
+        "file": "data/archotermopsidae.json"
+       },
+       {
+        "type": "family",
+        "id": "hodotermitidae",
+        "zh": "草白蚁科",
+        "latin": "HODOTERMITIDAE",
+        "counts": {
+         "genera": 3,
+         "species": 21,
+         "subspecies": 0,
+         "subfamilies": 0
+        },
+        "file": "data/hodotermitidae.json"
+       },
+       {
+        "type": "family",
+        "id": "hodotermopsidae",
+        "zh": "原白蚁科",
+        "latin": "HODOTERMOPSIDAE",
+        "counts": {
+         "genera": 1,
+         "species": 1,
+         "subspecies": 0,
+         "subfamilies": 0
+        },
+        "file": "data/hodotermopsidae.json"
+       },
+       {
+        "type": "family",
+        "id": "stolotermitidae",
+        "zh": "胄白蚁科",
+        "latin": "STOLOTERMITIDAE",
+        "counts": {
+         "genera": 2,
+         "species": 10,
+         "subspecies": 0,
+         "subfamilies": 0
+        },
+        "file": "data/stolotermitidae.json"
+       }
+      ]
+     },
+     {
+      "type": "clade",
+      "id": "icoisoptera",
+      "zh": "近等翅类",
+      "latin": "Icoisoptera",
+      "children": [
+       {
+        "type": "family",
+        "id": "kalotermitidae",
+        "zh": "木白蚁科",
+        "latin": "KALOTERMITIDAE",
+        "counts": {
+         "genera": 23,
+         "species": 479,
+         "subspecies": 4,
+         "subfamilies": 0
+        },
+        "file": "data/kalotermitidae.json"
+       },
+       {
+        "type": "clade",
+        "id": "neoisoptera",
+        "zh": "新等翅类",
+        "latin": "Neoisoptera",
+        "children": [
+         {
+          "type": "family",
+          "id": "psammotermitidae",
+          "zh": "沙白蚁科",
+          "latin": "PSAMMOTERMITIDAE",
+          "counts": {
+           "genera": 2,
+           "species": 18,
+           "subspecies": 0,
+           "subfamilies": 0
+          },
+          "file": "data/psammotermitidae.json"
+         },
+         {
+          "type": "family",
+          "id": "rhinotermitidae",
+          "zh": "鼻白蚁科",
+          "latin": "RHINOTERMITIDAE",
+          "counts": {
+           "genera": 5,
+           "species": 61,
+           "subspecies": 0,
+           "subfamilies": 0
+          },
+          "file": "data/rhinotermitidae.json"
+         },
+         {
+          "type": "family",
+          "id": "serritermitidae",
+          "zh": "齿白蚁科",
+          "latin": "SERRITERMITIDAE",
+          "counts": {
+           "genera": 2,
+           "species": 3,
+           "subspecies": 0,
+           "subfamilies": 0
+          },
+          "file": "data/serritermitidae.json"
+         },
+         {
+          "type": "family",
+          "id": "stylotermitidae",
+          "zh": "杆白蚁科",
+          "latin": "STYLOTERMITIDAE",
+          "counts": {
+           "genera": 1,
+           "species": 45,
+           "subspecies": 0,
+           "subfamilies": 0
+          },
+          "file": "data/stylotermitidae.json"
+         },
+         {
+          "type": "family",
+          "id": "termitogetonidae",
+          "zh": "寡脉白蚁科",
+          "latin": "TERMITOGETONIDAE",
+          "counts": {
+           "genera": 1,
+           "species": 2,
+           "subspecies": 0,
+           "subfamilies": 0
+          },
+          "file": "data/termitogetonidae.json"
+         },
+         {
+          "type": "clade",
+          "id": "geoisoptera",
+          "zh": "土栖等翅类",
+          "latin": "Geo-isoptera",
+          "children": [
+           {
+            "type": "family",
+            "id": "heterotermitidae",
+            "zh": "异白蚁科",
+            "latin": "HETEROTERMITIDAE",
+            "counts": {
+             "genera": 3,
+             "species": 230,
+             "subspecies": 8,
+             "subfamilies": 0
+            },
+            "file": "data/heterotermitidae.json"
+           },
+           {
+            "type": "family",
+            "id": "termitidae",
+            "zh": "白蚁科",
+            "latin": "TERMITIDAE",
+            "counts": {
+             "genera": 277,
+             "species": 2132,
+             "subspecies": 49,
+             "subfamilies": 18
+            },
+            "file": "data/termitidae/",
+            "subfamilies": [
+             {
+              "type": "subfamily",
+              "id": "amitermitinae",
+              "zh": "弓白蚁亚科",
+              "latin": "Amitermitinae",
+              "counts": {
+               "genera": 14,
+               "species": 194,
+               "subspecies": 4
+              },
+              "file": "data/termitidae/amitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "apicotermitinae",
+              "zh": "尖白蚁亚科",
+              "latin": "Apicotermitinae",
+              "counts": {
+               "genera": 65,
+               "species": 237,
+               "subspecies": 2
+              },
+              "file": "data/termitidae/apicotermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "crepititermitinae",
+              "zh": "响白蚁亚科",
+              "latin": "Crepititermitinae",
+              "counts": {
+               "genera": 1,
+               "species": 1,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/crepititermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "cubitermitinae",
+              "zh": "方白蚁亚科",
+              "latin": "Cubitermitinae",
+              "counts": {
+               "genera": 28,
+               "species": 142,
+               "subspecies": 6
+              },
+              "file": "data/termitidae/cubitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "cylindrotermitinae",
+              "zh": "圆筒白蚁亚科",
+              "latin": "Cylindrotermitinae",
+              "counts": {
+               "genera": 2,
+               "species": 9,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/cylindrotermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "engelitermitinae",
+              "zh": "恩格尔白蚁亚科",
+              "latin": "Engelitermitinae",
+              "counts": {
+               "genera": 1,
+               "species": 1,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/engelitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "foraminitermitinae",
+              "zh": "孔白蚁亚科",
+              "latin": "Foraminitermitinae",
+              "counts": {
+               "genera": 3,
+               "species": 10,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/foraminitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "forficulitermitinae",
+              "zh": "剪白蚁亚科",
+              "latin": "Forficulitermitinae",
+              "counts": {
+               "genera": 1,
+               "species": 1,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/forficulitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "macrotermitinae",
+              "zh": "大白蚁亚科",
+              "latin": "Macrotermitinae",
+              "counts": {
+               "genera": 12,
+               "species": 373,
+               "subspecies": 16
+              },
+              "file": "data/termitidae/macrotermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "microcerotermitinae",
+              "zh": "锯白蚁亚科",
+              "latin": "Microcerotermitinae",
+              "counts": {
+               "genera": 2,
+               "species": 150,
+               "subspecies": 7
+              },
+              "file": "data/termitidae/microcerotermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "mirocapritermitinae",
+              "zh": "瘤白蚁亚科",
+              "latin": "Mirocapritermitinae",
+              "counts": {
+               "genera": 14,
+               "species": 133,
+               "subspecies": 2
+              },
+              "file": "data/termitidae/mirocapritermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "nasutitermitinae",
+              "zh": "象白蚁亚科",
+              "latin": "Nasutitermitinae",
+              "counts": {
+               "genera": 81,
+               "species": 608,
+               "subspecies": 10
+              },
+              "file": "data/termitidae/nasutitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "neocapritermitinae",
+              "zh": "新扭白蚁亚科",
+              "latin": "Neocapritermitinae",
+              "counts": {
+               "genera": 3,
+               "species": 20,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/neocapritermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "promirotermitinae",
+              "zh": "前奇白蚁亚科",
+              "latin": "Promirotermitinae",
+              "counts": {
+               "genera": 2,
+               "species": 39,
+               "subspecies": 2
+              },
+              "file": "data/termitidae/promirotermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "protohamitermitinae",
+              "zh": "始钩白蚁亚科",
+              "latin": "Protohamitermitinae",
+              "counts": {
+               "genera": 2,
+               "species": 2,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/protohamitermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "sphaerotermitinae",
+              "zh": "圆球白蚁亚科",
+              "latin": "Sphaerotermitinae",
+              "counts": {
+               "genera": 1,
+               "species": 1,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/sphaerotermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "syntermitinae",
+              "zh": "聚白蚁亚科",
+              "latin": "Syntermitinae",
+              "counts": {
+               "genera": 22,
+               "species": 105,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/syntermitinae.json"
+             },
+             {
+              "type": "subfamily",
+              "id": "termitinae",
+              "zh": "白蚁亚科",
+              "latin": "Termitinae",
+              "counts": {
+               "genera": 23,
+               "species": 106,
+               "subspecies": 0
+              },
+              "file": "data/termitidae/termitinae.json"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "files": [
+  {
+   "path": "data/mastotermitidae.json",
+   "name": "澳白蚁科 Mastotermitidae",
+   "counts": {
+    "families": 1,
+    "genera": 1,
+    "species": 1,
+    "subspecies": 0,
+    "subfamilies": 0
+   },
+   "bytes": 1122
+  },
+  {
+   "path": "data/teletisoptera.json",
+   "name": "远等翅类 Teletisoptera",
+   "counts": {
+    "families": 4,
+    "genera": 8,
+    "species": 37,
+    "subspecies": 2,
+    "subfamilies": 0
+   },
+   "bytes": 10729
+  },
+  {
+   "path": "data/kalotermitidae.json",
+   "name": "木白蚁科 Kalotermitidae",
+   "counts": {
+    "families": 1,
+    "genera": 23,
+    "species": 479,
+    "subspecies": 4,
+    "subfamilies": 0
+   },
+   "bytes": 101883
+  },
+  {
+   "path": "data/neoisoptera-excl-termitidae.json",
+   "name": "新等翅类（除白蚁科）Neoisoptera excl. Termitidae",
+   "counts": {
+    "families": 6,
+    "genera": 14,
+    "species": 359,
+    "subspecies": 8,
+    "subfamilies": 0
+   },
+   "bytes": 77351
+  },
+  {
+   "path": "data/termitidae/amitermitinae.json",
+   "name": "弓白蚁亚科 Amitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 14,
+    "species": 194,
+    "subspecies": 4
+   },
+   "bytes": 39045
+  },
+  {
+   "path": "data/termitidae/apicotermitinae.json",
+   "name": "尖白蚁亚科 Apicotermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 65,
+    "species": 237,
+    "subspecies": 2
+   },
+   "bytes": 60171
+  },
+  {
+   "path": "data/termitidae/crepititermitinae.json",
+   "name": "响白蚁亚科 Crepititermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 1,
+    "species": 1,
+    "subspecies": 0
+   },
+   "bytes": 1135
+  },
+  {
+   "path": "data/termitidae/cubitermitinae.json",
+   "name": "方白蚁亚科 Cubitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 28,
+    "species": 142,
+    "subspecies": 6
+   },
+   "bytes": 35550
+  },
+  {
+   "path": "data/termitidae/cylindrotermitinae.json",
+   "name": "圆筒白蚁亚科 Cylindrotermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 2,
+    "species": 9,
+    "subspecies": 0
+   },
+   "bytes": 2868
+  },
+  {
+   "path": "data/termitidae/engelitermitinae.json",
+   "name": "恩格尔白蚁亚科 Engelitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 1,
+    "species": 1,
+    "subspecies": 0
+   },
+   "bytes": 1005
+  },
+  {
+   "path": "data/termitidae/foraminitermitinae.json",
+   "name": "孔白蚁亚科 Foraminitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 3,
+    "species": 10,
+    "subspecies": 0
+   },
+   "bytes": 3344
+  },
+  {
+   "path": "data/termitidae/forficulitermitinae.json",
+   "name": "剪白蚁亚科 Forficulitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 1,
+    "species": 1,
+    "subspecies": 0
+   },
+   "bytes": 1021
+  },
+  {
+   "path": "data/termitidae/macrotermitinae.json",
+   "name": "大白蚁亚科 Macrotermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 12,
+    "species": 373,
+    "subspecies": 16
+   },
+   "bytes": 80575
+  },
+  {
+   "path": "data/termitidae/microcerotermitinae.json",
+   "name": "锯白蚁亚科 Microcerotermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 2,
+    "species": 150,
+    "subspecies": 7
+   },
+   "bytes": 32036
+  },
+  {
+   "path": "data/termitidae/mirocapritermitinae.json",
+   "name": "瘤白蚁亚科 Mirocapritermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 14,
+    "species": 133,
+    "subspecies": 2
+   },
+   "bytes": 29581
+  },
+  {
+   "path": "data/termitidae/nasutitermitinae.json",
+   "name": "象白蚁亚科 Nasutitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 81,
+    "species": 608,
+    "subspecies": 10
+   },
+   "bytes": 137343
+  },
+  {
+   "path": "data/termitidae/neocapritermitinae.json",
+   "name": "新扭白蚁亚科 Neocapritermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 3,
+    "species": 20,
+    "subspecies": 0
+   },
+   "bytes": 5498
+  },
+  {
+   "path": "data/termitidae/promirotermitinae.json",
+   "name": "前奇白蚁亚科 Promirotermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 2,
+    "species": 39,
+    "subspecies": 2
+   },
+   "bytes": 8503
+  },
+  {
+   "path": "data/termitidae/protohamitermitinae.json",
+   "name": "始钩白蚁亚科 Protohamitermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 2,
+    "species": 2,
+    "subspecies": 0
+   },
+   "bytes": 1432
+  },
+  {
+   "path": "data/termitidae/sphaerotermitinae.json",
+   "name": "圆球白蚁亚科 Sphaerotermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 1,
+    "species": 1,
+    "subspecies": 0
+   },
+   "bytes": 1125
+  },
+  {
+   "path": "data/termitidae/syntermitinae.json",
+   "name": "聚白蚁亚科 Syntermitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 22,
+    "species": 105,
+    "subspecies": 0
+   },
+   "bytes": 25980
+  },
+  {
+   "path": "data/termitidae/termitinae.json",
+   "name": "白蚁亚科 Termitinae",
+   "counts": {
+    "subfamilies": 1,
+    "genera": 23,
+    "species": 106,
+    "subspecies": 0
+   },
+   "bytes": 25946
+  }
+ ]
+}

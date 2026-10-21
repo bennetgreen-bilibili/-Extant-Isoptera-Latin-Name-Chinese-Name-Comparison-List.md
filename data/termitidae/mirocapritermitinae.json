@@ -1,0 +1,1095 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "瘤白蚁亚科 Mirocapritermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "mirocapritermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 14,
+  "species": 133,
+  "subspecies": 2
+ },
+ "subfamily": {
+  "zh": "瘤白蚁亚科",
+  "latin": "Mirocapritermitinae",
+  "id": "mirocapritermitinae",
+  "genera": [
+   {
+    "zh": "突扭白蚁属",
+    "latin": "Dicuspiditermes",
+    "id": "dicuspiditermes",
+    "species_count": 21,
+    "type_species": "Dicuspiditermes obtusus",
+    "species": [
+     {
+      "latin": "Dicuspiditermes achankovili",
+      "zh": "阿坚柯维尔突扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes boseae",
+      "zh": "鲍斯突扭白蚁",
+      "type": false,
+      "distribution": "印度、泰米尔纳德）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes cacuminatus",
+      "zh": "尖齿突扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes cornutella",
+      "zh": "小角突扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes fissifex",
+      "zh": "裂开突扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚、新加坡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes fontanellus",
+      "zh": "小囟突扭白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes gravelyi",
+      "zh": "格雷夫利突扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes hutsoni",
+      "zh": "赫特森突扭白蚁",
+      "type": false,
+      "distribution": "南亚、斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes incola",
+      "zh": "栖息突扭白蚁",
+      "type": false,
+      "distribution": "印度、斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes kistneri",
+      "zh": "基斯特纳突扭白蚁",
+      "type": false,
+      "distribution": "马来西亚、新加坡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes laetus",
+      "zh": "明亮突扭白蚁",
+      "type": false,
+      "distribution": "东南亚、泰国、孟加拉国、柬埔寨、中国、印度、马来西亚、缅甸、越南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes leghugathrae",
+      "zh": "莱古加思突扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes makhamensis",
+      "zh": "玛堪突扭白蚁",
+      "type": false,
+      "distribution": "泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes minutus",
+      "zh": "小突扭白蚁",
+      "type": false,
+      "distribution": "文莱、印度尼西亚、马来西亚、新加坡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes nemorosus",
+      "zh": "树荫突扭白蚁",
+      "type": false,
+      "distribution": "东南亚、马来西亚、印度尼西亚、新加坡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes obtusus",
+      "zh": "迟钝突扭白蚁",
+      "type": true,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes punjabensis",
+      "zh": "旁遮普突扭白蚁",
+      "type": false,
+      "distribution": "巴基斯坦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes rothi",
+      "zh": "罗思突扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes santschii",
+      "zh": "桑特斯基突扭白蚁",
+      "type": false,
+      "distribution": "东南亚、印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes sisiri",
+      "zh": "西西尔突扭白蚁",
+      "type": false,
+      "distribution": "印度、喀拉拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Dicuspiditermes spinitibialis",
+      "zh": "刺胫突扭白蚁",
+      "type": false,
+      "distribution": "东亚、中国、泰国）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "平白蚁属",
+    "latin": "Homallotermes",
+    "id": "homallotermes",
+    "species_count": 4,
+    "type_species": "Homallotermes foraminifer",
+    "species": [
+     {
+      "latin": "Homallotermes eleanorae",
+      "zh": "埃莉诺平白蚁",
+      "type": false,
+      "distribution": "文莱、印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Homallotermes exiguus",
+      "zh": "微小平白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Homallotermes foraminifer",
+      "zh": "具孔平白蚁",
+      "type": true,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Homallotermes pilosus",
+      "zh": "多毛平白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "印扭白蚁属",
+    "latin": "Indocapritermes",
+    "id": "indocapritermes",
+    "species_count": 1,
+    "type_species": "Indocapritermes aruni",
+    "species": [
+     {
+      "latin": "Indocapritermes aruni",
+      "zh": "阿伦印扭白蚁",
+      "type": true,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "凯姆勒白蚁属",
+    "latin": "Kemneritermes",
+    "id": "kemneritermes",
+    "species_count": 1,
+    "type_species": "Kemneritermes sarawakensis",
+    "species": [
+     {
+      "latin": "Kemneritermes sarawakensis",
+      "zh": "砂拉越凯姆勒白蚁",
+      "type": true,
+      "distribution": "婆罗洲）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "克里希纳扭白蚁属",
+    "latin": "Krishnacapritermes",
+    "id": "krishnacapritermes",
+    "species_count": 4,
+    "type_species": "Krishnacapritermes maitii",
+    "species": [
+     {
+      "latin": "Krishnacapritermes dineshan",
+      "zh": "迪内尚克里希纳扭白蚁",
+      "type": false,
+      "distribution": "印度、喀拉拉邦西高止山）",
+      "subspecies": null
+     },
+     {
+      "latin": "Krishnacapritermes maitii",
+      "zh": "迈蒂克里希纳扭白蚁",
+      "type": true,
+      "distribution": "印度、西高止山）",
+      "subspecies": null
+     },
+     {
+      "latin": "Krishnacapritermes manikandan",
+      "zh": "马尼坎丹克里希纳扭白蚁",
+      "type": false,
+      "distribution": "印度、喀拉拉邦）",
+      "subspecies": null
+     },
+     {
+      "latin": "Krishnacapritermes thakuri",
+      "zh": "塔库尔克里希纳扭白蚁",
+      "type": false,
+      "distribution": "南亚、印度）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "唇扭白蚁属",
+    "latin": "Labiocapritermes",
+    "id": "labiocapritermes",
+    "species_count": 2,
+    "type_species": "Labiocapritermes distortus",
+    "species": [
+     {
+      "latin": "Labiocapritermes distortus",
+      "zh": "扭曲唇扭白蚁",
+      "type": true,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Labiocapritermes ghatensis",
+      "zh": "高止唇扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "瘤白蚁属",
+    "latin": "Mirocapritermes",
+    "id": "mirocapritermes",
+    "species_count": 8,
+    "type_species": "Mirocapritermes connectens",
+    "species": [
+     {
+      "latin": "Mirocapritermes concaveus",
+      "zh": "凹瘤白蚁",
+      "type": false,
+      "distribution": "泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes connectens",
+      "zh": "连接瘤白蚁",
+      "type": true,
+      "distribution": "东南亚、马来西亚、新加坡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes hsuchiafui",
+      "zh": "云南瘤白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes jiangchengensis",
+      "zh": "江城瘤白蚁",
+      "type": false,
+      "distribution": "中国、云南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes latignathus",
+      "zh": "宽颚瘤白蚁",
+      "type": false,
+      "distribution": "泰国、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes prewensis",
+      "zh": "普鲁瘤白蚁",
+      "type": false,
+      "distribution": "泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes snyderi",
+      "zh": "斯奈德瘤白蚁",
+      "type": false,
+      "distribution": "孟加拉国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Mirocapritermes valeriae",
+      "zh": "瓦莱里瘤白蚁",
+      "type": false,
+      "distribution": "缅甸）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "东扭白蚁属",
+    "latin": "Oriencapritermes",
+    "id": "oriencapritermes",
+    "species_count": 1,
+    "type_species": "Oriencapritermes kluangensis",
+    "species": [
+     {
+      "latin": "Oriencapritermes kluangensis",
+      "zh": "居銮东扭白蚁",
+      "type": true,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "近扭白蚁属",
+    "latin": "Pericapritermes",
+    "id": "pericapritermes",
+    "species_count": 41,
+    "type_species": "Pericapritermes urgens",
+    "species": [
+     {
+      "latin": "Pericapritermes appellans",
+      "zh": "定名近扭白蚁",
+      "type": false,
+      "distribution": "西非科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes assamensis",
+      "zh": "阿萨姆近扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes beibengensis",
+      "zh": "背崩近扭白蚁",
+      "type": false,
+      "distribution": "中国西藏）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes brachygnathus",
+      "zh": "短颚近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes buitenzorgi",
+      "zh": "比特恩佐格近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes ceylonicus",
+      "zh": "锡兰近扭白蚁",
+      "type": false,
+      "distribution": "印度、斯里兰卡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes chiasognathus",
+      "zh": "隐颚近扭白蚁",
+      "type": false,
+      "distribution": "刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加蓬、尼日利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes desaegeri",
+      "zh": "德埃吉近扭白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes dolichocephalus",
+      "zh": "长头近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes dumicola",
+      "zh": "栖丛近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、肯尼亚、坦桑尼亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes dunensis",
+      "zh": "德拉敦近扭白蚁",
+      "type": false,
+      "distribution": "印度、不丹）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes durga",
+      "zh": "杜尔加近扭白蚁",
+      "type": false,
+      "distribution": "印度、不丹）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes fuscotibialis",
+      "zh": "灰胫近扭白蚁",
+      "type": false,
+      "distribution": "香港。）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes gloveri",
+      "zh": "格洛弗近扭白蚁",
+      "type": false,
+      "distribution": "坦桑尼亚、赞比亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes gutianensis",
+      "zh": "古田近扭白蚁",
+      "type": false,
+      "distribution": "中国福建）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes hepuensis",
+      "zh": "合浦近扭白蚁",
+      "type": false,
+      "distribution": "中国广西）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes heteronotus",
+      "zh": "异背近扭白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国、几内亚、尼日利亚、塞拉利昂）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes latignathus",
+      "zh": "多毛近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、柬埔寨、越南、孟加拉国、中国、马来西亚、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes machadoi",
+      "zh": "马查多近扭白蚁",
+      "type": false,
+      "distribution": "安哥拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes magnificus",
+      "zh": "非凡近扭白蚁",
+      "type": false,
+      "distribution": "加蓬、喀麦隆、刚果）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes metatus",
+      "zh": "丈量近扭白蚁",
+      "type": false,
+      "distribution": "几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes minimus",
+      "zh": "最小近扭白蚁",
+      "type": false,
+      "distribution": "安哥拉、喀麦隆、刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes modiglianii",
+      "zh": "莫迪利亚尼近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes mohri",
+      "zh": "莫尔近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes nigerianus",
+      "zh": "尼日利亚近扭白蚁",
+      "type": false,
+      "distribution": "科特迪瓦、喀麦隆、冈比亚、加纳、尼日利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes nitobei",
+      "zh": "新渡户近扭白蚁",
+      "type": false,
+      "distribution": "韩国、日本、中国台湾、中国、印度尼西亚、马来西亚、泰国、越南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes paetensis",
+      "zh": "帕埃特近扭白蚁",
+      "type": false,
+      "distribution": "菲律宾）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes pallidipes",
+      "zh": "灰足近扭白蚁",
+      "type": false,
+      "distribution": "塞拉利昂、喀麦隆）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes papuanus",
+      "zh": "巴布亚近扭白蚁",
+      "type": false,
+      "distribution": "巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes parvus",
+      "zh": "小型近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes pilosus",
+      "zh": "毛多近扭白蚁",
+      "type": false,
+      "distribution": "巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes planiusculus",
+      "zh": "平扁近扭白蚁",
+      "type": false,
+      "distribution": "贵州（从江）。）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes schultzei",
+      "zh": "舒尔茨近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、澳大利亚、巴布亚新几内亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes semarangi",
+      "zh": "三宝近扭白蚁",
+      "type": false,
+      "distribution": "印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes silvestrianus",
+      "zh": "西尔韦斯特里近扭白蚁",
+      "type": false,
+      "distribution": "科特迪瓦、利比里亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes speciosus",
+      "zh": "美丽近扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes tetraphilus",
+      "zh": "大近扭白蚁",
+      "type": false,
+      "distribution": "广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）；印度；孟加拉国；缅甸）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes topslipensis",
+      "zh": "托普斯利普近扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes urgens",
+      "zh": "催促近扭白蚁",
+      "type": true,
+      "distribution": "塞内加尔、冈比亚、几内亚、加纳、科特迪瓦、布基纳法索、尼日利亚、喀麦隆）",
+      "subspecies": [
+       {
+        "epithet": "confinis",
+        "zh": "近邻亚种"
+       },
+       {
+        "epithet": "urgens",
+        "zh": "指名亚种"
+       }
+      ]
+     },
+     {
+      "latin": "Pericapritermes vermai",
+      "zh": "维尔马近扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pericapritermes wuzhishanensis",
+      "zh": "五指山近扭白蚁",
+      "type": false,
+      "distribution": "中国海南）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "前扭白蚁属",
+    "latin": "Procapritermes",
+    "id": "procapritermes",
+    "species_count": 13,
+    "type_species": "Procapritermes setiger",
+    "species": [
+     {
+      "latin": "Procapritermes atypus",
+      "zh": "地蛛前扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes dakshinae",
+      "zh": "戴克夏娜前扭白蚁",
+      "type": false,
+      "distribution": "印度喀拉拉）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes holmgreni",
+      "zh": "霍姆格伦前扭白蚁",
+      "type": false,
+      "distribution": "孟加拉国、印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes huananensis",
+      "zh": "华南前扭白蚁",
+      "type": false,
+      "distribution": "广西、云南（盈江870 m）、海南（琼中黎母岭350 m、五指山700 m）、中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes keralai",
+      "zh": "喀拉拉前扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes longignathus",
+      "zh": "长颚前扭白蚁",
+      "type": false,
+      "distribution": "泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes martyni",
+      "zh": "马丁前扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes minutus",
+      "zh": "小前扭白蚁",
+      "type": false,
+      "distribution": "云南（金平猛喇580 m）、印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes neosetiger",
+      "zh": "新具毛前扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes prosetiger",
+      "zh": "似具毛前扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、马来西亚、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes sandakanensis",
+      "zh": "山打根前扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes setiger",
+      "zh": "具毛前扭白蚁",
+      "type": true,
+      "distribution": "马来西亚、印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Procapritermes zhangfengensis",
+      "zh": "章凤前扭白蚁",
+      "type": false,
+      "distribution": "云南（陇川890 m）、中国）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "伪扭白蚁属",
+    "latin": "Pseudocapritermes",
+    "id": "pseudocapritermes",
+    "species_count": 18,
+    "type_species": "Pseudocapritermes silvaticus",
+    "species": [
+     {
+      "latin": "Pseudocapritermes angustignathus",
+      "zh": "细颚伪扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes bhutanensis",
+      "zh": "不丹伪扭白蚁",
+      "type": false,
+      "distribution": "不丹）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes fletcheri",
+      "zh": "弗莱彻伪扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes jiangchengensis",
+      "zh": "江城伪扭白蚁",
+      "type": false,
+      "distribution": "中国云南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes karticki",
+      "zh": "卡蒂克伪扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes kemneri",
+      "zh": "凯姆勒伪扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes kunjepu",
+      "zh": "昆杰普伪扭白蚁",
+      "type": false,
+      "distribution": "印度、印度尼西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes megacephalus",
+      "zh": "大头伪扭白蚁",
+      "type": false,
+      "distribution": "巴基斯坦、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes minutus",
+      "zh": "小伪扭白蚁",
+      "type": false,
+      "distribution": "云南（金平猛喇580 m）、中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes orientalis",
+      "zh": "东方伪扭白蚁",
+      "type": false,
+      "distribution": "巴基斯坦、印度、印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes parasilvaticus",
+      "zh": "似森林伪扭白蚁",
+      "type": false,
+      "distribution": "印度尼西亚、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes planimentus",
+      "zh": "平颏伪扭白蚁",
+      "type": false,
+      "distribution": "云南（建水1450 m）、中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes prosilvaticus",
+      "zh": "近森林伪扭白蚁",
+      "type": false,
+      "distribution": "马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes pseudolaetus",
+      "zh": "隆额伪扭白蚁",
+      "type": false,
+      "distribution": "云南（金平猛喇390 m）、中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes silvaticus",
+      "zh": "森林伪扭白蚁",
+      "type": true,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes sinensis",
+      "zh": "中华伪扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes sowerbyi",
+      "zh": "圆囟伪扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes tikadari",
+      "zh": "铁卡达伪扭白蚁",
+      "type": false,
+      "distribution": "印度、不丹）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "丽娜扭白蚁属",
+    "latin": "Rinacapritermes",
+    "id": "rinacapritermes",
+    "species_count": 2,
+    "type_species": "Rinacapritermes silvius",
+    "species": [
+     {
+      "latin": "Rinacapritermes abundans",
+      "zh": "丰富丽娜扭白蚁",
+      "type": false,
+      "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Rinacapritermes silvius",
+      "zh": "林栖丽娜扭白蚁",
+      "type": true,
+      "distribution": "印度）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "华扭白蚁属",
+    "latin": "Sinocapritermes",
+    "id": "sinocapritermes",
+    "species_count": 16,
+    "type_species": "Sinocapritermes sinensis",
+    "species": [
+     {
+      "latin": "Sinocapritermes albipennis",
+      "zh": "白翅华扭白蚁",
+      "type": false,
+      "distribution": "中国、云南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes fujianensis",
+      "zh": "闽华扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes guangxiensis",
+      "zh": "桂华扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes magnus",
+      "zh": "大华扭白蚁",
+      "type": false,
+      "distribution": "中国、贵州、广西、江西、重庆）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes mushae",
+      "zh": "台湾华扭白蚁",
+      "type": false,
+      "distribution": "中国香港、中国台湾、日本）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes parvulus",
+      "zh": "小华扭白蚁",
+      "type": false,
+      "distribution": "中国、海南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes planifrons",
+      "zh": "平额华扭白蚁",
+      "type": false,
+      "distribution": "中国、云南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes pratensis",
+      "zh": "草地华扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes sinensis",
+      "zh": "中华华扭白蚁",
+      "type": true,
+      "distribution": "中国、云南）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes sinicus",
+      "zh": "中国华扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes songtaoensis",
+      "zh": "松桃华扭白蚁",
+      "type": false,
+      "distribution": "中国、贵州）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes tianmuensis",
+      "zh": "天目华扭白蚁",
+      "type": false,
+      "distribution": "中国、浙江）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes vicinus",
+      "zh": "川华扭白蚁",
+      "type": false,
+      "distribution": "中国、四川、重庆）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes xiai",
+      "zh": "夏氏华扭白蚁",
+      "type": false,
+      "distribution": "中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes xiushanensis",
+      "zh": "秀山华扭白蚁",
+      "type": false,
+      "distribution": "中国、重庆）",
+      "subspecies": null
+     },
+     {
+      "latin": "Sinocapritermes yunnanensis",
+      "zh": "滇华扭白蚁",
+      "type": false,
+      "distribution": "中国、云南）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "聚扭白蚁属",
+    "latin": "Syncapritermes",
+    "id": "syncapritermes",
+    "species_count": 1,
+    "type_species": "Syncapritermes greeni",
+    "species": [
+     {
+      "latin": "Syncapritermes greeni",
+      "zh": "格林聚扭白蚁",
+      "type": true,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}

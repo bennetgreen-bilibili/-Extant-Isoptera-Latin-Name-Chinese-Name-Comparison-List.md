@@ -1,0 +1,61 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "始钩白蚁亚科 Protohamitermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "protohamitermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 2,
+  "species": 2,
+  "subspecies": 0
+ },
+ "subfamily": {
+  "zh": "始钩白蚁亚科",
+  "latin": "Protohamitermitinae",
+  "id": "protohamitermitinae",
+  "genera": [
+   {
+    "zh": "东方白蚁属",
+    "latin": "Orientotermes",
+    "id": "orientotermes",
+    "species_count": 1,
+    "type_species": "Orientotermes emersoni",
+    "species": [
+     {
+      "latin": "Orientotermes emersoni",
+      "zh": "埃默森东方白蚁",
+      "type": true,
+      "distribution": "文莱、马来西亚）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "始钩白蚁属",
+    "latin": "Protohamitermes",
+    "id": "protohamitermes",
+    "species_count": 1,
+    "type_species": "Protohamitermes globiceps",
+    "species": [
+     {
+      "latin": "Protohamitermes globiceps",
+      "zh": "球头始钩白蚁",
+      "type": true,
+      "distribution": "文莱、印度尼西亚、马来西亚）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}

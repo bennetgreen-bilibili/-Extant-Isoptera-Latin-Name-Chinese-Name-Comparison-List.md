@@ -1,0 +1,126 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "孔白蚁亚科 Foraminitermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "foraminitermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 3,
+  "species": 10,
+  "subspecies": 0
+ },
+ "subfamily": {
+  "zh": "孔白蚁亚科",
+  "latin": "Foraminitermitinae",
+  "id": "foraminitermitinae",
+  "genera": [
+   {
+    "zh": "孔白蚁属",
+    "latin": "Foraminitermes",
+    "id": "foraminitermes",
+    "species_count": 6,
+    "type_species": "Foraminitermes tubifrons",
+    "species": [
+     {
+      "latin": "Foraminitermes coatoni",
+      "zh": "科顿孔白蚁",
+      "type": false,
+      "distribution": "安哥拉、刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Foraminitermes corniferus",
+      "zh": "具角孔白蚁",
+      "type": false,
+      "distribution": "西非、多哥、刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Foraminitermes harrisi",
+      "zh": "哈里斯孔白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Foraminitermes rhinoceros",
+      "zh": "犀牛孔白蚁",
+      "type": false,
+      "distribution": "中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达）",
+      "subspecies": null
+     },
+     {
+      "latin": "Foraminitermes tubifrons",
+      "zh": "瘤额孔白蚁",
+      "type": true,
+      "distribution": "喀麦隆、几内亚、科特迪瓦、尼日利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Foraminitermes valens",
+      "zh": "强健孔白蚁",
+      "type": false,
+      "distribution": "中非、喀麦隆、几内亚、科特迪瓦、尼日利亚、坦桑尼亚）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "唇白蚁属",
+    "latin": "Labritermes",
+    "id": "labritermes",
+    "species_count": 3,
+    "type_species": "Labritermes buttelreepeni",
+    "species": [
+     {
+      "latin": "Labritermes buttelreepeni",
+      "zh": "巴特里彭唇白蚁",
+      "type": true,
+      "distribution": "印度尼西亚、马来西亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Labritermes emersoni",
+      "zh": "埃默森唇白蚁",
+      "type": false,
+      "distribution": "马来西亚、印度尼西亚、新加坡）",
+      "subspecies": null
+     },
+     {
+      "latin": "Labritermes kistneri",
+      "zh": "基斯特纳唇白蚁",
+      "type": false,
+      "distribution": "马来西亚、印度尼西亚）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "伪小白蚁属",
+    "latin": "Pseudomicrotermes",
+    "id": "pseudomicrotermes",
+    "species_count": 1,
+    "type_species": "Pseudomicrotermes alboniger",
+    "species": [
+     {
+      "latin": "Pseudomicrotermes alboniger",
+      "zh": "白黑伪小白蚁",
+      "type": true,
+      "distribution": "喀麦隆、刚果（金）、尼日利亚、津巴布韦、刚果民主共和国）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "圆筒白蚁亚科 Cylindrotermitinae",
+ "version": "2026.10.17",
+ "isPartOf": {
+  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
+  "family": {
+   "id": "termitidae",
+   "zh": "白蚁科",
+   "latin": "TERMITIDAE"
+  }
+ },
+ "familyId": "termitidae",
+ "subfamilyId": "cylindrotermitinae",
+ "counts": {
+  "subfamilies": 1,
+  "genera": 2,
+  "species": 9,
+  "subspecies": 0
+ },
+ "subfamily": {
+  "zh": "圆筒白蚁亚科",
+  "latin": "Cylindrotermitinae",
+  "id": "cylindrotermitinae",
+  "genera": [
+   {
+    "zh": "头白蚁属",
+    "latin": "Cephalotermes",
+    "id": "cephalotermes",
+    "species_count": 1,
+    "type_species": "Cephalotermes rectangularis",
+    "species": [
+     {
+      "latin": "Cephalotermes rectangularis",
+      "zh": "直角头白蚁",
+      "type": true,
+      "distribution": "旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "圆筒白蚁属",
+    "latin": "Cylindrotermes",
+    "id": "cylindrotermes",
+    "species_count": 8,
+    "type_species": "Cylindrotermes nordenskioldi",
+    "species": [
+     {
+      "latin": "Cylindrotermes brevipilosus",
+      "zh": "短毛圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes caata",
+      "zh": "骨痂圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes capixaba",
+      "zh": "卡皮沙巴圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes flangiatus",
+      "zh": "凸缘圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes macrognathus",
+      "zh": "长颚圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes nordenskioldi",
+      "zh": "努登舍尔德圆筒白蚁",
+      "type": true,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes parvignathus",
+      "zh": "小颚圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     },
+     {
+      "latin": "Cylindrotermes sapiranga",
+      "zh": "萨皮兰加圆筒白蚁",
+      "type": false,
+      "distribution": "新热带界）",
+      "subspecies": null
+     }
+    ]
+   }
+  ]
+ }
+}
