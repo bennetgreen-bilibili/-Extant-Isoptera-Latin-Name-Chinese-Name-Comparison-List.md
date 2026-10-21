@@ -189,6 +189,8 @@ permalink: /en/
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/">List</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/about/">About</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/">Statistics</a>
+  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/">Download</a>
+  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/">Guestbook</a>
 </nav>
 
 <p>A Latin–Chinese name comparison list of all extant Isoptera (termites): <strong>13 families, 323 genera, 3008 species, 63 subspecies</strong>, with type-species markers, distribution and references. Compiled by Bennet Green (班奈特格林), 2026-10-17 final version; free to cite with attribution.</p>
@@ -204,6 +206,8 @@ permalink: /en/
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/"><strong>List</strong></a> — the complete checklist (clade–family–subfamily–genus–species, with distribution and references).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/"><strong>Statistics</strong></a> — species counts by rank (family/subfamily/genus).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/about/"><strong>About</strong></a> — author, version, scope and citation format.</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
 </ul>
 
 ## Structured Data

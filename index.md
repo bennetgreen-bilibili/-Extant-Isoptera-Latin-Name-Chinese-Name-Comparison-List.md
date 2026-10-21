@@ -189,6 +189,8 @@ permalink: /
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/">名录</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/">简介</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/">统计</a>
+  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/">下载</a>
+  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/">留言</a>
 </nav>
 
 <p>现存等翅下目（白蚁）现生类群对照名录：<strong>13 科、323 属、3008 种、63 亚种</strong>的拉丁学名—中文正名，含模式种标记、分布信息与参考文献。作者班奈特格林，2026-10-17 正式版，注明作者可免费引用。</p>
@@ -204,6 +206,8 @@ permalink: /
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/"><strong>名录</strong></a> — 全部类群对照名录（支系—科—亚科—属—种，含分布与参考文献）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/"><strong>统计</strong></a> — 各阶元（科/亚科/属/种）物种数统计表。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/"><strong>简介</strong></a> — 作者、版本、收录范围与引用格式。</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
 </ul>
 
 ## 结构化数据

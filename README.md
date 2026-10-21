@@ -9,6 +9,8 @@
 | `list.md` | 名录：完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
 | `about.md` | 简介：作者、版本、收录范围、引用格式 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
+| `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
+| `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 
 ## 结构化数据（按类群拆分）
 - 入口：`data/index.json`（分类树 + 全部文件清单）
@@ -22,3 +24,11 @@
 - `sitemap.xml`：站点地图（jekyll-sitemap 构建时会自动覆盖为含全部页面）
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/custom.css`：搜索框脚本与样式
+
+## 下载 / 留言
+- **下载页**（`download.md` / `en/download.md`）：把要提供下载的文件放进仓库 `downloads/` 文件夹即可，页面用 Jekyll `site.static_files` 自动列出，无需改页面。占位文件 `downloads/.gitkeep` 可删除。
+- **留言页**（`guestbook.md` / `en/guestbook.md`）：使用 Giscus（GitHub Discussions 留言）。
+  1. 在仓库 Settings → General → Features 勾选 **Discussions** 并保存（仓库需为公开仓库）。
+  2. 打开 https://giscus.app/ ，填写仓库 `bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md`。
+  3. 在 Discussion Category 里选择一个分类（如 General / Announcements）。
+  4. 复制生成的 `data-category` 与 `data-category-id`，替换 `guestbook.md` 和 `en/guestbook.md` 中对应的占位值。
