@@ -27,19 +27,19 @@ permalink: /en/guestbook/
 
 <p>Leave a message. You sign in with your GitHub account, so your nickname is your GitHub username and the timestamp is recorded automatically. The site owner can review, reply to or delete messages in the repository's <a href="https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/discussions">Discussions</a>.</p>
 
-<!-- Giscus comment component. After enabling Discussions on the repository, go to https://giscus.app, enter the repository and choose a category, then replace data-category and data-category-id below with the values it generates. -->
+<!-- Giscus comment component (GitHub Discussions) -->
 <div class="giscus"></div>
 <script src="https://giscus.app/client.js"
         data-repo="bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md"
         data-repo-id="R_kgDOVN9q-Q"
         data-category="General"
-        data-category-id="REPLACE_WITH_CATEGORY_ID"
+        data-category-id="DIC_kwDOVN9q-c4DJRLh"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
+        data-input-position="bottom"
+        data-theme="noborder_light"
         data-lang="en"
         crossorigin="anonymous"
         async>
