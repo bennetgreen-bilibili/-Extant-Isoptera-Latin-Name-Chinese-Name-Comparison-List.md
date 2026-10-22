@@ -22,6 +22,7 @@ permalink: /list/
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/">简介</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/">统计</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/">下载</a>
+  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blog/">博客</a>
   <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/">留言</a>
 </nav>
 
@@ -89,7 +90,7 @@ permalink: /list/
           - [杆白蚁属 Stylotermes](#stylotermes)
         - [寡脉白蚁科 TERMITOGETONIDAE](#termitogetonidae)
           - [寡脉白蚁属 Termitogeton](#termitogeton)
-        - [土栖等翅类 Geoisoptera](#geoisoptera)
+        - [土栖等翅类 Geo-isoptera](#geoisoptera)
           - [异白蚁科 HETEROTERMITIDAE](#heterotermitidae)
             - [乳白蚁属 Coptotermes](#coptotermes)
             - [异白蚁属 Heterotermes](#heterotermes)

@@ -6,6 +6,16 @@ description: >-
 lang: zh-CN
 author: 班奈特格林
 
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: 班奈特格林
+      lang: zh-CN
+      permalink: /blog/:year/:month/:day/:slug/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
