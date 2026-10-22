@@ -89,7 +89,7 @@ permalink: /en/list/
           - [Stylotermes](#stylotermes)
         - [TERMITOGETONIDAE](#termitogetonidae)
           - [Termitogeton](#termitogeton)
-        - [Geo-isoptera](#geoisoptera)
+        - [Geoisoptera](#geoisoptera)
           - [HETEROTERMITIDAE](#heterotermitidae)
             - [Coptotermes](#coptotermes)
             - [Heterotermes](#heterotermes)
