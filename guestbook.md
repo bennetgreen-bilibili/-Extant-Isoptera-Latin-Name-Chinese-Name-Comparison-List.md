@@ -27,19 +27,19 @@ permalink: /guestbook/
 
 <p>欢迎留下你的想法。留言通过 GitHub 账号登录后发布，你的网名即 GitHub 用户名，时间由系统自动记录。站长可在仓库的 <a href="https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/discussions">Discussions</a> 中审核、回复或删除留言。</p>
 
-<!-- Giscus 留言组件。请在仓库开启 Discussions 后，前往 https://giscus.app 输入仓库并选择留言分类，把生成的 data-category 与 data-category-id 替换下方占位值。 -->
+<!-- Giscus 留言组件（GitHub Discussions） -->
 <div class="giscus"></div>
 <script src="https://giscus.app/client.js"
         data-repo="bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md"
         data-repo-id="R_kgDOVN9q-Q"
         data-category="General"
-        data-category-id="REPLACE_WITH_CATEGORY_ID"
+        data-category-id="DIC_kwDOVN9q-c4DJRLh"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
+        data-input-position="bottom"
+        data-theme="noborder_light"
         data-lang="zh-CN"
         crossorigin="anonymous"
         async>
