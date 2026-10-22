@@ -89,7 +89,7 @@ permalink: /list/
           - [杆白蚁属 Stylotermes](#stylotermes)
         - [寡脉白蚁科 TERMITOGETONIDAE](#termitogetonidae)
           - [寡脉白蚁属 Termitogeton](#termitogeton)
-        - [土栖等翅类 Geo-isoptera](#geoisoptera)
+        - [土栖等翅类 Geoisoptera](#geoisoptera)
           - [异白蚁科 HETEROTERMITIDAE](#heterotermitidae)
             - [乳白蚁属 Coptotermes](#coptotermes)
             - [异白蚁属 Heterotermes](#heterotermes)
