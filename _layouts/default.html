@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="canonical" href="{{ site.base_url }}{{ page.url }}">
+{% if page.layout == 'post' %}
+<link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
+{% elsif page.lang == 'en' %}
+<link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url | remove_first: '/en' }}">
+<link rel="alternate" hreflang="en" href="{{ site.base_url }}{{ page.url }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url | remove_first: '/en' }}">
+{% else %}
+<link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
+<link rel="alternate" hreflang="en" href="{{ site.base_url }}/en{{ page.url }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
+{% endif %}
+<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css">
+</head>
+<body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
+
+{% if page.layout == 'post' %}
+{% assign switch_url = site.base_url | append: '/en/blog/' %}
+{% assign switch_label = 'English' %}
+{% elsif page.lang == 'en' %}
+{% assign switch_url = site.base_url | append: page.url | remove_first: '/en' %}
+{% assign switch_label = '中文' %}
+{% else %}
+{% assign switch_url = site.base_url | append: '/en' | append: page.url %}
+{% assign switch_label = 'English' %}
+{% endif %}
+{% if page.lang == 'en' %}
+{% assign LANGP = '/en' %}
+{% else %}
+{% assign LANGP = '' %}
+{% endif %}
+
+<header class="hero">
+  <div class="container hero-inner">
+    <div class="hero-top">
+      <a class="hero-brand" href="{{ site.base_url }}/">现存等翅下目名录 <span class="hero-brand-en">Extant Isoptera</span></a>
+      <div class="hero-actions">
+        <span class="hero-version">v2026.10.17</span>
+        <a class="lang-switch" href="{{ switch_url }}">{{ switch_label }}</a>
+      </div>
+    </div>
+    {% if page.url == '/' or page.url == '/en/' %}
+    <h1 class="hero-title">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</h1>
+    {% else %}
+    <div class="hero-title">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</div>
+    {% endif %}
+    <p class="hero-sub">拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种</p>
+  </div>
+</header>
+
+<nav class="site-nav" aria-label="主导航">
+  <div class="container nav-inner">
+    <a href="{{ site.base_url }}{{ LANGP }}/" class="nav-link{% if page.url == '/' or page.url == '/en/' %} active{% endif %}">{% if page.lang == 'en' %}Home{% else %}首页{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{% if page.lang == 'en' %}List{% else %}名录{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/about/" class="nav-link{% if page.url contains '/about' %} active{% endif %}">{% if page.lang == 'en' %}About{% else %}简介{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{% if page.lang == 'en' %}Statistics{% else %}统计{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{% if page.lang == 'en' %}Download{% else %}下载{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{% if page.lang == 'en' %}Blog{% else %}博客{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/guestbook/" class="nav-link{% if page.url contains '/guestbook' %} active{% endif %}">{% if page.lang == 'en' %}Guestbook{% else %}留言{% endif %}</a>
+  </div>
+</nav>
+
+<main class="content-wrap">
+  <div class="container content">
+    {{ content }}
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p class="footer-line">© 2026 班奈特格林 · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录</p>
+    <p class="footer-line footer-sub">注明作者可免费引用 · CC BY 4.0 · 13 科 323 属 3008 种 63 亚种</p>
+  </div>
+</footer>
+
+<button class="back-top" id="back-top" aria-label="回到顶部" title="回到顶部">↑</button>
+
+<script src="{{ site.base_url }}/assets/search.js"></script>
+<script src="{{ site.base_url }}/assets/site.js"></script>
+</body>
+</html>

@@ -5,6 +5,7 @@ description: >-
   提供名录检索、各阶元物种数统计，并按类群拆分的结构化数据（JSON-LD）。
 lang: zh-CN
 author: 班奈特格林
+base_url: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
 
 defaults:
   -

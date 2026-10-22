@@ -9,24 +9,6 @@ version: 2026.10.17
 keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录, 分类, Termitidae]
 permalink: /list/
 ---
-<link rel="stylesheet" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/assets/custom.css">
-<a class="lang-switch" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/">English</a>
-<link rel="alternate" hreflang="zh-CN" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/">
-<link rel="alternate" hreflang="en" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/">
-<link rel="alternate" hreflang="x-default" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/">
-
-<nav class="site-nav" aria-label="主导航">
-  <span class="brand">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</span>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/">首页</a>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/">名录</a>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/">简介</a>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/">统计</a>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/">下载</a>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blog/">博客</a>
-  <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/">留言</a>
-</nav>
-
-
 # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.17）正式版
 
 <h2 id="toc">目录</h2>
@@ -90,7 +72,7 @@ permalink: /list/
           - [杆白蚁属 Stylotermes](#stylotermes)
         - [寡脉白蚁科 TERMITOGETONIDAE](#termitogetonidae)
           - [寡脉白蚁属 Termitogeton](#termitogeton)
-        - [土栖等翅类 Geo-isoptera](#geoisoptera)
+        - [土栖等翅类 Geoisoptera](#geoisoptera)
           - [异白蚁科 HETEROTERMITIDAE](#heterotermitidae)
             - [乳白蚁属 Coptotermes](#coptotermes)
             - [异白蚁属 Heterotermes](#heterotermes)

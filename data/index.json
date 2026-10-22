@@ -55,7 +55,7 @@
   {
    "id": "geoisoptera",
    "zh": "土栖等翅类",
-   "latin": "Geo-isoptera",
+   "latin": "Geoisoptera",
    "parent": "neoisoptera"
   }
  ],
@@ -253,7 +253,7 @@
           "type": "clade",
           "id": "geoisoptera",
           "zh": "土栖等翅类",
-          "latin": "Geo-isoptera",
+          "latin": "Geoisoptera",
           "children": [
            {
             "type": "family",
