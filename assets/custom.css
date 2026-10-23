@@ -80,7 +80,8 @@ a{color:var(--accent)}
 .type-mark{color:var(--earth);font-weight:700;margin-right:2px}
 
 /* ===== 目录侧栏 ===== */
-.layout-with-toc{display:grid;grid-template-columns:250px minmax(0,1fr);gap:34px;align-items:start}
+.layout-with-toc{display:grid;grid-template-columns:320px minmax(0,1fr);gap:34px;align-items:start}
+.is-list-page .container{max-width:1280px}
 .toc-side{position:sticky;top:calc(var(--nav-h) + 18px);max-height:calc(100vh - var(--nav-h) - 36px);overflow:auto;padding:14px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);font-size:13.5px;line-height:1.5}
 .toc-heading{font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);margin-bottom:8px;font-weight:700}
 .toc-side ul{list-style:none;margin:0;padding:0}
