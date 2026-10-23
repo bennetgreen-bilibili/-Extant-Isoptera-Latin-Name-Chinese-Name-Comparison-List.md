@@ -14,11 +14,47 @@
     h.className = 'toc-heading';
     h.textContent = toc.textContent;
     aside.appendChild(h);
-    aside.appendChild(list.cloneNode(true));
+    var tree = list.cloneNode(true);
+    aside.appendChild(tree);
+    enhanceToc(tree);
     content.classList.add('layout-with-toc');
     content.insertBefore(aside, content.firstChild);
     toc.parentNode.removeChild(toc);
     list.parentNode.removeChild(list);
+  }
+
+  function enhanceToc(tree) {
+    var items = tree.querySelectorAll('li');
+    for (var i = 0; i < items.length; i++) {
+      var li = items[i];
+      var childUl = null, childA = null;
+      for (var j = 0; j < li.children.length; j++) {
+        var c = li.children[j];
+        if (c.tagName === 'UL' && !childUl) childUl = c;
+        else if (c.tagName === 'A' && !childA) childA = c;
+      }
+      if (!childUl || !childA) continue;
+      var depth = 0, n = li;
+      while ((n = n.parentElement)) { if (n.tagName === 'UL') depth++; }
+      var collapsed = depth >= 3;
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'toc-toggle';
+      btn.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+      btn.setAttribute('aria-label', '展开/收起');
+      btn.textContent = collapsed ? '▸' : '▾';
+      if (collapsed) li.classList.add('collapsed');
+      li.insertBefore(btn, childA);
+      btn.addEventListener('click', (function (li, btn) {
+        return function (ev) {
+          ev.preventDefault();
+          ev.stopPropagation();
+          var isCollapsed = li.classList.toggle('collapsed');
+          btn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
+          btn.textContent = isCollapsed ? '▸' : '▾';
+        };
+      })(li, btn));
+    }
   }
 
   function italicizeTaxa() {
