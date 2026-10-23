@@ -6,25 +6,22 @@
 本站收录现存等翅下目（白蚁）全部现生类群的中文正名与拉丁学名对照名录（2026-10-17 正式版），共 13 科、18 亚科、323 属、3008 种、63 亚种。每条含模式种标记（*）与分布信息；文末附 77 篇参考文献（含 DOI）。作者：班奈特格林（bilibili）。免费发布，注明作者可随意参考使用。
 
 ## 关键页面（中文）
-- [首页（搜索框 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
+- [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
 - [名录（完整对照表：支系—科—亚科—属—种，含属级嵌套目录）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
-- [简介（作者、版本、收录范围、引用格式）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/)
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
 - [留言（Giscus 留言板）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/)
 - [物种页（每个物种/亚种一个独立页面，URL 形如 /species/<拉丁学名小写连字符>/，共 3008 种 + 63 亚种）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/mastotermes-darwiniensis/)
 
 ## Key pages (English)
-- [Home (search + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
+- [Home (about + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
 - [List (full checklist: clade–family–subfamily–genus–species)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/)
 - [Statistics (species counts by family/subfamily/genus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/)
-- [About (author, version, scope, citation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/about/)
 - [Download (files in downloads/ folder)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/)
 - [Guestbook (Giscus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/)
-- [首页（搜索框 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
+- [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
 - [名录（完整对照表：支系—科—亚科—属—种，含属级嵌套目录）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
-- [简介（作者、版本、收录范围、引用格式）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/)
 
 ## 结构化数据（按类群拆分，避免单文件过大被截断）
 入口为分类树与文件清单：[data/index.json](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json)（含 6 支系、13 科、18 亚科、323 属的完整层级与全部拆分文件索引）。

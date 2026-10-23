@@ -22,7 +22,8 @@
       var r = list[i];
       var e = r.e;
       var synHint = r.viaSyn ? ' <span class="syn-hint">· ' + esc(LANG==='en'?'junior synonym':'次异名') + '</span>' : '';
-      html += '<li><a href="'+LIST+'#'+esc(e.h)+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+synHint+'</a></li>';
+      var href = (e.p && (e.r === '种' || e.r === '亚种')) ? (BASE + '/species/' + encodeURIComponent(e.p) + '/') : (LIST + '#' + e.h);
+      html += '<li><a href="'+href+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+synHint+'</a></li>';
     }
     results.innerHTML = html;
     results.style.display = 'block';

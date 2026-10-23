@@ -179,12 +179,22 @@ permalink: /en/
 
 <p>A Latin–Chinese name comparison list of all extant Isoptera (termites): <strong>13 families, 323 genera, 3008 species, 63 subspecies</strong>, with type-species markers, distribution and references. Compiled by Bennet Green (班奈特格林), 2026-10-17 final version; free to cite with attribution.</p>
 
+## About
+
+> Source: compiled by 班奈特格林 (Bennet Green, bilibili); personal work, free to use with attribution.
+> Covers 13 families, 323 genera, 3008 species, 63 subspecies; `*` marks the type species; (N) is the reference number.
+> Main sources: 《白蚁学》 (Termitology), 《世界白蚁中文名录》 (World Termite Chinese-Name List), 《中国动物志》 (Fauna Sinica), [termitologia.net](https://www.termitologia.net/), [organismnames.com](http://organismnames.com/query.htm), [GBIF](https://www.gbif.org/); other references are listed at the end of the List page.
+
+**Author**: 班奈特格林 (Bennet Green, bilibili)　**Version**: 2026.10.17 (final)　**License**: free to use with attribution (equivalent to CC BY 4.0).
+
+**Suggested citation** (APA):
+> 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.17). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/
+
 ## Pages
 
 <ul>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/"><strong>List</strong></a> — the complete checklist (clade–family–subfamily–genus–species, with distribution and references).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/"><strong>Statistics</strong></a> — species counts by rank (family/subfamily/genus).</li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/about/"><strong>About</strong></a> — author, version, scope and citation format.</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
