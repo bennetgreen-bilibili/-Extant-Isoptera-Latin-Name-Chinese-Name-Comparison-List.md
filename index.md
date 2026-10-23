@@ -179,11 +179,6 @@ permalink: /
 
 <p>现存等翅下目（白蚁）现生类群对照名录：<strong>13 科、323 属、3008 种、63 亚种</strong>的拉丁学名—中文正名，含模式种标记、分布信息与参考文献。作者班奈特格林，2026-10-17 正式版，注明作者可免费引用。</p>
 
-<div class="search-wrap">
-  <input type="search" id="search-input" class="search-input" placeholder="搜索中文名或拉丁学名（如：Mastotermes、达尔文澳白蚁、白蚁科、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
-  <ul id="search-results" class="search-results" style="display:none"></ul>
-</div>
-
 ## 页面导航
 
 <ul>

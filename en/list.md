@@ -11,6 +11,11 @@ permalink: /en/list/
 ---
 # Extant Isoptera (Termites) — Latin–Chinese Name Comparison List (2026.10.17) Final Version
 
+<div class="search-wrap">
+  <input type="search" id="search-input" class="search-input" placeholder="Search scientific name, Chinese name or junior synonym (e.g., Mastotermes, Termitidae, Termes destructor)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/" data-empty="No results found">
+  <ul id="search-results" class="search-results" style="display:none"></ul>
+</div>
+
 <h2 id="toc">Contents</h2>
 
 - [Extant Isoptera](#isoptera)

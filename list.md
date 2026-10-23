@@ -11,6 +11,11 @@ permalink: /list/
 ---
 # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.17）正式版
 
+<div class="search-wrap">
+  <input type="search" id="search-input" class="search-input" placeholder="搜索中文名、拉丁学名或次异名（如：Mastotermes、达尔文澳白蚁、Termes destructor、白蚁科、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
+  <ul id="search-results" class="search-results" style="display:none"></ul>
+</div>
+
 <h2 id="toc">目录</h2>
 
 - [现存等翅下目 Extant Isoptera](#isoptera)

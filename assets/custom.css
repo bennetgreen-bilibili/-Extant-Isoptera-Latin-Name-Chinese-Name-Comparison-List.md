@@ -117,6 +117,7 @@ a{color:var(--accent)}
 .search-results a:hover{background:var(--accent-softer)}
 .search-results .rank{font-size:.72em;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 6px;margin-right:6px;white-space:nowrap}
 .search-results .latin{font-style:italic;color:var(--muted);font-size:.92em}
+.search-results .syn-hint{color:var(--earth);font-size:.82em;font-weight:500}
 
 /* ===== 博客 ===== */
 .post{max-width:780px;margin:0 auto}

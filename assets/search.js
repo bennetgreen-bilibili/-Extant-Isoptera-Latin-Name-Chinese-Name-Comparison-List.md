@@ -19,8 +19,10 @@
     if (!list.length){ results.innerHTML = '<li>'+esc(EMPTY)+'</li>'; results.style.display='block'; return; }
     var html = '';
     for (var i=0;i<list.length;i++){
-      var e = list[i];
-      html += '<li><a href="'+LIST+'#'+esc(e.h)+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span></a></li>';
+      var r = list[i];
+      var e = r.e;
+      var synHint = r.viaSyn ? ' <span class="syn-hint">· ' + esc(LANG==='en'?'junior synonym':'次异名') + '</span>' : '';
+      html += '<li><a href="'+LIST+'#'+esc(e.h)+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+synHint+'</a></li>';
     }
     results.innerHTML = html;
     results.style.display = 'block';
@@ -32,17 +34,17 @@
     if (!data){ return; }
     var scored = [];
     for (var i=0;i<data.length;i++){
-      var e = data[i], l = norm(e.l), z = norm(e.z);
-      var li = l.indexOf(q), zi = z.indexOf(q);
-      if (li < 0 && zi < 0) continue;
+      var e = data[i], l = norm(e.l), z = norm(e.z), s = norm(e.s || '');
+      var li = l.indexOf(q), zi = z.indexOf(q), si = s.indexOf(q);
+      if (li < 0 && zi < 0 && si < 0) continue;
       var score;
-      if (l === q || z === q) score = 0;
-      else if (l.indexOf(q) === 0 || z.indexOf(q) === 0) score = 1;
+      if (l === q || z === q || s === q) score = 0;
+      else if (l.indexOf(q) === 0 || z.indexOf(q) === 0 || s.indexOf(q) === 0) score = 1;
       else score = 2;
-      scored.push([score, Math.min(l.length, z.length), e]);
+      scored.push({ score: score, len: Math.min(l.length, z.length), e: e, viaSyn: (li < 0 && zi < 0) });
     }
-    scored.sort(function(a,b){ return a[0]-b[0] || a[1]-b[1]; });
-    render(scored.slice(0, 60).map(function(x){ return x[2]; }));
+    scored.sort(function(a,b){ return a.score-b.score || a.len-b.len; });
+    render(scored.slice(0, 60));
   }
 
   var timer;

@@ -179,11 +179,6 @@ permalink: /en/
 
 <p>A Latin–Chinese name comparison list of all extant Isoptera (termites): <strong>13 families, 323 genera, 3008 species, 63 subspecies</strong>, with type-species markers, distribution and references. Compiled by Bennet Green (班奈特格林), 2026-10-17 final version; free to cite with attribution.</p>
 
-<div class="search-wrap">
-  <input type="search" id="search-input" class="search-input" placeholder="Search scientific or Chinese name (e.g., Mastotermes, Termitidae, Nasutitermitinae)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/" data-empty="No results found">
-  <ul id="search-results" class="search-results" style="display:none"></ul>
-</div>
-
 ## Pages
 
 <ul>
