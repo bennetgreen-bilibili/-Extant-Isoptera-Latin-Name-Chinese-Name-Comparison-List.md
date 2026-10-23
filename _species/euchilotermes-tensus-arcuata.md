@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euchilotermes tensus arcuata 弓形亚种"
+title: "Euchilotermes tensus arcuata Silvestri, 1914 弓形亚种"
 latin: "Euchilotermes tensus arcuata"
 zh: "弓形亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Euchilotermes tensus"
 parent_zh: "拉长真唇白蚁"
 parent_slug: "euchilotermes-tensus"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Conakry; Kakoulima"
+synonym_count: 0
 ---

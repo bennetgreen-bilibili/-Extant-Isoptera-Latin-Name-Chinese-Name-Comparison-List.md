@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes boreus 北方弓白蚁"
+title: "Amitermes boreus Gay, 1968 北方弓白蚁"
 latin: "Amitermes boreus"
 zh: "北方弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: Hooley homestead"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

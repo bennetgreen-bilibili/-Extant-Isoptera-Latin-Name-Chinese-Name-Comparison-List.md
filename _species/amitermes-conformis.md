@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes conformis 相似弓白蚁"
+title: "Amitermes conformis Gay, 1968 相似弓白蚁"
 latin: "Amitermes conformis"
 zh: "相似弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: Perth: Gnangara Plantation"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

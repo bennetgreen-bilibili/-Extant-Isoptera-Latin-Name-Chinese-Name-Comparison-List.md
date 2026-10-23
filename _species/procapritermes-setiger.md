@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procapritermes setiger 具毛前扭白蚁"
+title: "Procapritermes setiger Haviland, 1898 具毛前扭白蚁"
 latin: "Procapritermes setiger"
 zh: "具毛前扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak: Marudi"
+distribution_zh: "马来西亚、印度尼西亚"
+distribution_en: "Malaysia, Indonesia"
+synonym_count: 0
 ---

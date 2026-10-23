@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Xylochomitermes aspinosus 无刺木堆白蚁"
+title: "Xylochomitermes aspinosus Miller, 1991 无刺木堆白蚁"
 latin: "Xylochomitermes aspinosus"
 zh: "无刺木堆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Western Australia: Kununurra"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

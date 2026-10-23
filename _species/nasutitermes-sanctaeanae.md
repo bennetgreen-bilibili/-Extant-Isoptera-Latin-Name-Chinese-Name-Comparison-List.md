@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes sanctaeanae 圣安娜象白蚁"
+title: "Nasutitermes sanctaeanae Holmgren, 1910 圣安娜象白蚁"
 latin: "Nasutitermes sanctaeanae"
 zh: "圣安娜象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Argentina: Misiones: Santa Ana [27.37S 55.58W]"
+distribution_zh: "巴拉圭、阿根廷"
+distribution_en: "Paraguay, Argentina"
+synonym_count: 0
 ---

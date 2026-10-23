@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes changningensis 长宁象白蚁"
+title: "Nasutitermes changningensis Gao, 1988 长宁象白蚁"
 latin: "Nasutitermes changningensis"
 zh: "长宁象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao, 1988"
+type_locality: "China: Sichuan Province: Changning County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

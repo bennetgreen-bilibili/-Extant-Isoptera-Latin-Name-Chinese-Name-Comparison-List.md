@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neocapritermes villosus 密毛新扭白蚁"
+title: "Neocapritermes villosus Holmgren, 1906 密毛新扭白蚁"
 latin: "Neocapritermes villosus"
 zh: "密毛新扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Peru: Puno: Chaquimayo [ 13.45S 70.4W ]"
+distribution_zh: "秘鲁、巴西、厄瓜多尔"
+distribution_en: "Peru, Brazil, Ecuador"
+synonym_count: 0
 ---

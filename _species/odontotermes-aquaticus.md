@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes aquaticus 河边土白蚁"
+title: "Odontotermes aquaticus Sjöstedt, 1897 河边土白蚁"
 latin: "Odontotermes aquaticus"
 zh: "河边土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1897"
+type_locality: "Cameroon: River Mungo"
+distribution_zh: "中非喀麦隆、多哥"
+distribution_en: "Central Africa, Cameroon, Togo"
+synonym_count: 0
 ---

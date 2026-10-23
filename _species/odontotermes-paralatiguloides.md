@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes paralatiguloides 近似宽颏土白蚁"
+title: "Odontotermes paralatiguloides Thakur, 1989 近似宽颏土白蚁"
 latin: "Odontotermes paralatiguloides"
 zh: "近似宽颏土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1989"
+type_locality: "India: Gujarat: Vijarkhi village, about 15 km S of Jamnagar"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

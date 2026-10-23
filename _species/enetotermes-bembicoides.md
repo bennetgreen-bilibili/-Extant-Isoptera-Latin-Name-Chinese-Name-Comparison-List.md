@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Enetotermes bembicoides 似陀针筒白蚁"
+title: "Enetotermes bembicoides Sands, 1995 似陀针筒白蚁"
 latin: "Enetotermes bembicoides"
 zh: "似陀针筒白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1995"
+type_locality: "Zambia: Lusaka"
+distribution_zh: "赞比亚"
+distribution_en: "Zambia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes columellaris 小柱镰白蚁"
+title: "Drepanotermes columellaris Watson & Perry, 1981 小柱镰白蚁"
 latin: "Drepanotermes columellaris"
 zh: "小柱镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Western Australia: 15 mi (24 km) SW of Kumarina"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

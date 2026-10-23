@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes rothi 罗思突扭白蚁"
+title: "Dicuspiditermes rothi Holmgren, 1913 罗思突扭白蚁"
 latin: "Dicuspiditermes rothi"
 zh: "罗思突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak: Mt. Lambir"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

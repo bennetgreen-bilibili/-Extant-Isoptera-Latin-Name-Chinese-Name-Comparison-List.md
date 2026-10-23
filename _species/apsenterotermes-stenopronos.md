@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apsenterotermes stenopronos 细管后肠白蚁"
+title: "Apsenterotermes stenopronos Miller, 1991 细管后肠白蚁"
 latin: "Apsenterotermes stenopronos"
 zh: "细管后肠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Western Territory: Pindar"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

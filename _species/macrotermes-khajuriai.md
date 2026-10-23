@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes khajuriai 哈贾瑞大白蚁"
+title: "Macrotermes khajuriai Roonwal & Chhotani, 1962 哈贾瑞大白蚁"
 latin: "Macrotermes khajuriai"
 zh: "哈贾瑞大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Assam, Khasi-Jaintia Hills District, Umsa Nongkharai"
+distribution_zh: "印度东北部、不丹"
+distribution_en: "northeastern India, Bhutan"
+synonym_count: 0
 ---

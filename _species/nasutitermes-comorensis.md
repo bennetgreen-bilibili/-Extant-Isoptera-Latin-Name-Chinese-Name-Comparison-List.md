@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes comorensis 科摩罗象白蚁"
+title: "Nasutitermes comorensis Wasmann, 1910 科摩罗象白蚁"
 latin: "Nasutitermes comorensis"
 zh: "科摩罗象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1910"
+type_locality: "Comoros: Mohéli"
+distribution_zh: "科摩罗"
+distribution_en: "Comoros"
+synonym_count: 0
 ---

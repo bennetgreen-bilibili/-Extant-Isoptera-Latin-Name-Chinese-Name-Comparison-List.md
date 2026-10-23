@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudacanthotermes curticeps 短头伪刺白蚁"
+title: "Pseudacanthotermes curticeps Sjöstedt, 1924 短头伪刺白蚁"
 latin: "Pseudacanthotermes curticeps"
 zh: "短头伪刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Democratic Republic of the Congo: Tshela"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

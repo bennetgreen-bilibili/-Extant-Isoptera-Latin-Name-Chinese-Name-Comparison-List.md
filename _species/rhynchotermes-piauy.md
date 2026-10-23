@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rhynchotermes piauy 皮奥伊喙白蚁"
+title: "Rhynchotermes piauy Cancello, 1997 皮奥伊喙白蚁"
 latin: "Rhynchotermes piauy"
 zh: "皮奥伊喙白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello, 1997"
+type_locality: "Brasil: Piauí: Corrente, Fazenda Maracujá [10.348S 45.166W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes aduncus 具钩直颚白蚁"
+title: "Orthognathotermes aduncus Emerson, 1949 具钩直颚白蚁"
 latin: "Orthognathotermes aduncus"
 zh: "具钩直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1949"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+distribution_zh: "巴西、圭亚那地盾、玻利维亚、巴拉圭、秘鲁"
+distribution_en: "Brazil, Guiana Shield, Bolivia, Paraguay, Peru"
+synonym_count: 0
 ---

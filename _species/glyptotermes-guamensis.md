@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes guamensis 关岛树白蚁"
+title: "Glyptotermes guamensis Krishna & Emerson, 1962 关岛树白蚁"
 latin: "Glyptotermes guamensis"
 zh: "关岛树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krishna & Emerson, 1962"
+type_locality: "Guam (USA): Yigo"
+distribution_zh: "关岛"
+distribution_en: "Guam"
+synonym_count: 0
 ---

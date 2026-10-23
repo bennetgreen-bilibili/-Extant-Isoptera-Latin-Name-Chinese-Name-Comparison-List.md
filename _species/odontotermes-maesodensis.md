@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes maesodensis 湄索德土白蚁"
+title: "Odontotermes maesodensis Ahmad, 1965 湄索德土白蚁"
 latin: "Odontotermes maesodensis"
 zh: "湄索德土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: km 20 east of Mae Sod"
+distribution_zh: "泰国、越南"
+distribution_en: "Thailand, Vietnam"
+synonym_count: 0
 ---

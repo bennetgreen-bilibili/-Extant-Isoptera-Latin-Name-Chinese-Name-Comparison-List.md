@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes sinomalatus 弯翅树白蚁"
+title: "Glyptotermes sinomalatus Krishna & Emerson, 1962 弯翅树白蚁"
 latin: "Glyptotermes sinomalatus"
 zh: "弯翅树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krishna & Emerson, 1962"
+type_locality: "Democratic Republic of the Congo: Camp Putnam, Epulu River"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

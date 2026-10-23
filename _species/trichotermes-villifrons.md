@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trichotermes villifrons 毛额发白蚁"
+title: "Trichotermes villifrons Sjöstedt, 1911 毛额发白蚁"
 latin: "Trichotermes villifrons"
 zh: "毛额发白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "非洲、刚果民主共和国、中非、刚果共和国"
+distribution_en: "Africa, Democratic Republic of the Congo, Central Africa, Republic of the Congo"
+synonym_count: 0
 ---

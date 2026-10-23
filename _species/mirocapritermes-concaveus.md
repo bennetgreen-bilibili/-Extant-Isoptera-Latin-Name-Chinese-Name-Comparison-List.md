@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes concaveus 凹瘤白蚁"
+title: "Mirocapritermes concaveus Ahmad, 1965 凹瘤白蚁"
 latin: "Mirocapritermes concaveus"
 zh: "凹瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Khao Yai"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

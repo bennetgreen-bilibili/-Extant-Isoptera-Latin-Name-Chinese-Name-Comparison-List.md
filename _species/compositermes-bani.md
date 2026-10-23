@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Compositermes bani 班恩肠刺白蚁"
+title: "Compositermes bani Carrijo, Scheffrahn & Křeček, 2016 班恩肠刺白蚁"
 latin: "Compositermes bani"
 zh: "班恩肠刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Carrijo, Scheffrahn & Křeček, 2016"
+type_locality: "Bolivia: Santa Cruz: Chochis [ 18.107S 60.086W ]"
+distribution_zh: "玻利维亚、巴西"
+distribution_en: "Bolivia, Brazil"
+synonym_count: 0
 ---

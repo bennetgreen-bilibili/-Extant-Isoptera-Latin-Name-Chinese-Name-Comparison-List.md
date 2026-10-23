@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Synacanthotermes heterodon 异齿聚刺白蚁"
+title: "Synacanthotermes heterodon Sjöstedt, 1899 异齿聚刺白蚁"
 latin: "Synacanthotermes heterodon"
 zh: "异齿聚刺白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1899"
+type_locality: "Cameroon: N’dian"
+distribution_zh: "中非、喀麦隆、中非共和国、刚果民主共和国"
+distribution_en: "Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo"
+synonym_count: 0
 ---

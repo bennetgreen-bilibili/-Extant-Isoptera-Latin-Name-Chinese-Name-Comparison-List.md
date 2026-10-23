@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes tandoni 坦登象白蚁"
+title: "Nasutitermes tandoni Bose, 1997 坦登象白蚁"
 latin: "Nasutitermes tandoni"
 zh: "坦登象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1997"
+type_locality: "India: Arunachal Pradesh: Siang District: Tappi"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

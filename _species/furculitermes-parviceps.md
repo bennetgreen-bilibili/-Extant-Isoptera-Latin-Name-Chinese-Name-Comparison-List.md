@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Furculitermes parviceps 小头叉白蚁"
+title: "Furculitermes parviceps Emerson, 1960 小头叉白蚁"
 latin: "Furculitermes parviceps"
 zh: "小头叉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Camp Putnam, Epulu River"
+distribution_zh: "中非、喀麦隆"
+distribution_en: "Central African Republic, Cameroon"
+synonym_count: 0
 ---

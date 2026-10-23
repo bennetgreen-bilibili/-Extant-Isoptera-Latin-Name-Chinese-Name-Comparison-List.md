@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes tenuignathus 细颚锯白蚁"
+title: "Microcerotermes tenuignathus Holmgren, 1913 细颚锯白蚁"
 latin: "Microcerotermes tenuignathus"
 zh: "细颚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "India: Gujarat: Vadtal"
+distribution_zh: "印度、巴基斯坦"
+distribution_en: "India, Pakistan"
+synonym_count: 0
 ---

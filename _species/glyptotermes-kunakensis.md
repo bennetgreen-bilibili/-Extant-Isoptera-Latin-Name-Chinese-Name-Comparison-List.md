@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes kunakensis 库纳克树白蚁"
+title: "Glyptotermes kunakensis Thapa, 1982 库纳克树白蚁"
 latin: "Glyptotermes kunakensis"
 zh: "库纳克树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Kunak-Mostyn District: Kunak"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

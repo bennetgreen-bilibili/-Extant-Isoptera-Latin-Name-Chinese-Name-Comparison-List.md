@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Obtusitermes panamae 巴拿马钝白蚁"
+title: "Obtusitermes panamae Snyder, 1925 巴拿马钝白蚁"
 latin: "Obtusitermes panamae"
 zh: "巴拿马钝白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1925"
+type_locality: "Panama: Quipo"
+distribution_zh: "巴拿马、哥斯达黎加、哥伦比亚"
+distribution_en: "Panama, Costa Rica, Colombia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes minutus 侏儒散白蚁"
+title: "Reticulitermes minutus Ping & Xu, 1983 侏儒散白蚁"
 latin: "Reticulitermes minutus"
 zh: "侏儒散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1983"
+type_locality: "China: Fujian Province: Longyan County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

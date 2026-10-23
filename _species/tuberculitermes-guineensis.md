@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tuberculitermes guineensis 几内亚小瘤白蚁"
+title: "Tuberculitermes guineensis Silvestri, 1914 几内亚小瘤白蚁"
 latin: "Tuberculitermes guineensis"
 zh: "几内亚小瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kindia; Mamou"
+distribution_zh: "喀麦隆、加纳、几内亚、尼日利亚、苏丹"
+distribution_en: "Cameroon, Ghana, Guinea, Nigeria, Sudan"
+synonym_count: 0
 ---

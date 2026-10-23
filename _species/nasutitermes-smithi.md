@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes smithi 史密斯象白蚁"
+title: "Nasutitermes smithi Hill, 1942 史密斯象白蚁"
 latin: "Nasutitermes smithi"
 zh: "史密斯象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Northern Territory: Johnston’s Lagoon, 45 mi N Newcastle Waters"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

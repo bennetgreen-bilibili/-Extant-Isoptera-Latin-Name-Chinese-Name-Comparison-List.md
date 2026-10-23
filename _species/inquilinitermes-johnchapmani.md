@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Inquilinitermes johnchapmani 约翰查普曼客白蚁"
+title: "Inquilinitermes johnchapmani Scheffrahn, 2014 约翰查普曼客白蚁"
 latin: "Inquilinitermes johnchapmani"
 zh: "约翰查普曼客白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2014"
+type_locality: "Bolivia: El Beni: Trinidad [14.702S 64.89W]"
+distribution_zh: "玻利维亚"
+distribution_en: "Bolivia"
+synonym_count: 0
 ---

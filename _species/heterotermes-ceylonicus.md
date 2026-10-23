@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Heterotermes ceylonicus 锡兰异白蚁"
+title: "Heterotermes ceylonicus Holmgren, 1911 锡兰异白蚁"
 latin: "Heterotermes ceylonicus"
 zh: "锡兰异白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Sri Lanka: Peradeniya"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

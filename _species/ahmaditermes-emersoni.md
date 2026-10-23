@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes emersoni 埃默森钝颚白蚁"
+title: "Ahmaditermes emersoni Maiti, 1977 埃默森钝颚白蚁"
 latin: "Ahmaditermes emersoni"
 zh: "埃默森钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti, 1977"
+type_locality: "India: West Bengal: Darjeeling District, ca. 5 km north-east of Teesta Bridge"
+distribution_zh: "不丹、印度"
+distribution_en: "Bhutan, India"
+synonym_count: 0
 ---

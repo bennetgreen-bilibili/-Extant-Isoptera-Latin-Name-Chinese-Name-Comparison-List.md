@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Humutermes noiroti 努瓦罗腐殖白蚁"
+title: "Humutermes noiroti Bourguignon & Roisin, 2016 努瓦罗腐殖白蚁"
 latin: "Humutermes noiroti"
 zh: "努瓦罗腐殖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bourguignon & Roisin, 2016"
+type_locality: "Panama: Barro Colorado Island"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

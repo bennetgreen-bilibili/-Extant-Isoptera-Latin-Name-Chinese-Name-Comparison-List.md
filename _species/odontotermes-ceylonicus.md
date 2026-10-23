@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes ceylonicus 锡兰土白蚁"
+title: "Odontotermes ceylonicus Wasmann, 1902 锡兰土白蚁"
 latin: "Odontotermes ceylonicus"
 zh: "锡兰土白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1902"
+type_locality: "Sri Lanka: Nalanda"
+distribution_zh: "南亚斯里兰卡、印度"
+distribution_en: "South Asia, Sri Lanka, India"
+synonym_count: 1
+synonyms: "Odontotermes meturensis Roonwal & Chhotani, 1959: 325-326"
+synonym_localities: "India: Karnataka: Mettur Dam: Hoganikal Falls"
 ---

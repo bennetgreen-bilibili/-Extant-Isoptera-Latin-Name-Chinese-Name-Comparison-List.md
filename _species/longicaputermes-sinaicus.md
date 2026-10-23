@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Longicaputermes sinaicus 西奈头长白蚁"
+title: "Longicaputermes sinaicus Kemner, 1932 西奈头长白蚁"
 latin: "Longicaputermes sinaicus"
 zh: "西奈头长白蚁"
 type: true
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Kemner, 1932"
+type_locality: "Egypt: Sinai Peninsula: Gabr. Amir"
+distribution_zh: "埃及西奈半岛、以色列"
+distribution_en: "Sinai Peninsula, Egypt, Israel"
+synonym_count: 0
 ---

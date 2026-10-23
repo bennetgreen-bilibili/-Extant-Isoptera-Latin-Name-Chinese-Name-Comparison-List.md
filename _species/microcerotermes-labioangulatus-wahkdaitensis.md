@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes labioangulatus wahkdaitensis 瓦克代特亚种"
+title: "Microcerotermes labioangulatus wahkdaitensis Das & Choudhury, 2020 瓦克代特亚种"
 latin: "Microcerotermes labioangulatus wahkdaitensis"
 zh: "瓦克代特亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microcerotermes labioangulatus"
 parent_zh: "角唇锯白蚁"
 parent_slug: "microcerotermes-labioangulatus"
+author_year: "Das & Choudhury, 2020"
+type_locality: "India: Meghalaya: Wahkdait area, East Khasi Hills [ 25.208N 91.99E ]"
+synonym_count: 0
 ---

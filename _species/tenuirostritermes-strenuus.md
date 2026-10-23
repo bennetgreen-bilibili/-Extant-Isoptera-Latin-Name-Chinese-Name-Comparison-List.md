@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tenuirostritermes strenuus 活跃薄嘴白蚁"
+title: "Tenuirostritermes strenuus Hagen, 1860 活跃薄嘴白蚁"
 latin: "Tenuirostritermes strenuus"
 zh: "活跃薄嘴白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hagen, 1860"
+type_locality: "Mexico: Veracruz"
+distribution_zh: "墨西哥"
+distribution_en: "Mexico"
+synonym_count: 0
 ---

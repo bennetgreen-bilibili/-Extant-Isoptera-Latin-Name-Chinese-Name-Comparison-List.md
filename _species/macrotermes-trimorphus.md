@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes trimorphus 三型大白蚁"
+title: "Macrotermes trimorphus Li & Ping, 1983 三型大白蚁"
 latin: "Macrotermes trimorphus"
 zh: "三型大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1983"
+type_locality: "China: Guangxi Province: Longzhou"
+distribution_zh: "中国广西、龙州"
+distribution_en: "Guangxi, China, Longzhou"
+synonym_count: 0
 ---

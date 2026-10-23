@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes graveolus 稍重象白蚁"
+title: "Nasutitermes graveolus Hill, 1925 稍重象白蚁"
 latin: "Nasutitermes graveolus"
 zh: "稍重象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1925"
+type_locality: "Australia: Northern Territory: Darwin"
+distribution_zh: "澳大利亚、巴布亚新几内亚"
+distribution_en: "Australia, Papua New Guinea"
+synonym_count: 0
 ---

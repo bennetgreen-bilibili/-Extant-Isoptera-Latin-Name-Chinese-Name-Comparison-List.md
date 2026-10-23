@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes chayuensis 察隅散白蚁"
+title: "Reticulitermes chayuensis Tsai & Huang, 1975 察隅散白蚁"
 latin: "Reticulitermes chayuensis"
 zh: "察隅散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1975"
+type_locality: "China: Tibet: Chayu"
+distribution_zh: "中国西藏"
+distribution_en: "China (Tibet)"
+synonym_count: 0
 ---

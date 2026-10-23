@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes sudanensis 苏丹土白蚁"
+title: "Odontotermes sudanensis Sjöstedt, 1924 苏丹土白蚁"
 latin: "Odontotermes sudanensis"
 zh: "苏丹土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Sudan: Wad Medani"
+distribution_zh: "旧热带界西非、东非、加纳、几内亚、科特迪瓦、尼日利亚、塞内加尔、苏丹"
+distribution_en: "Old World tropics, West Africa, East Africa, Ghana, Guinea, Côte d'Ivoire, Nigeria, Senegal, Sudan"
+synonym_count: 0
 ---

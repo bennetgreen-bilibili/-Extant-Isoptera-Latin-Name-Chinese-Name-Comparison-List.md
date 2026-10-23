@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes parasilvaticus 似森林伪扭白蚁"
+title: "Pseudocapritermes parasilvaticus Ahmad, 1965 似森林伪扭白蚁"
 latin: "Pseudocapritermes parasilvaticus"
 zh: "似森林伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Tung Sa-Lang Luang"
+distribution_zh: "印度尼西亚、泰国"
+distribution_en: "Indonesia, Thailand"
+synonym_count: 0
 ---

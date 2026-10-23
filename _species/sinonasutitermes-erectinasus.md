@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinonasutitermes erectinasus 翘鼻华象白蚁"
+title: "Sinonasutitermes erectinasus Tsai & Chen, 1963 翘鼻华象白蚁"
 latin: "Sinonasutitermes erectinasus"
 zh: "翘鼻华象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Guangdong Province: Hainan Island: Lohwei"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

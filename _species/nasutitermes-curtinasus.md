@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes curtinasus 短鼻象白蚁"
+title: "Nasutitermes curtinasus He, 1987 短鼻象白蚁"
 latin: "Nasutitermes curtinasus"
 zh: "短鼻象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He, 1987"
+type_locality: "China: Jiangxi Province: Jiulian Mountains"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

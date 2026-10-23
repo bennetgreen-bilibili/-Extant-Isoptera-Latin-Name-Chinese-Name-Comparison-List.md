@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trinervitermes arabiae 阿拉伯三脉白蚁"
+title: "Trinervitermes arabiae Harris, 1957 阿拉伯三脉白蚁"
 latin: "Trinervitermes arabiae"
 zh: "阿拉伯三脉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1957"
+type_locality: "Yemen: Dhala"
+distribution_zh: "沙特阿拉伯、也门"
+distribution_en: "Saudi Arabia, Yemen"
+synonym_count: 0
 ---

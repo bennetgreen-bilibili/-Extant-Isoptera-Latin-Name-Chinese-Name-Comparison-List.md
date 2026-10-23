@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Allodontermes schultzei 舒尔茨奇齿白蚁"
+title: "Allodontermes schultzei Silvestri, 1908 舒尔茨奇齿白蚁"
 latin: "Allodontermes schultzei"
 zh: "舒尔茨奇齿白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1908"
+type_locality: "Botswana: Kalahari: Severelela (Kang-Kgokong)"
+distribution_zh: "非洲南部纳米比亚、博茨瓦纳、南非、斯威士兰、赞比亚、津巴布韦"
+distribution_en: "southern Africa, Namibia, Botswana, South Africa, Eswatini, Zambia, Zimbabwe"
+synonym_count: 0
 ---

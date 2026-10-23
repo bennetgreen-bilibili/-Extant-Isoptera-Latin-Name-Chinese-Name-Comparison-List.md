@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes medioflavus 中黄须白蚁"
+title: "Hospitalitermes medioflavus Holmgren, 1913 中黄须白蚁"
 latin: "Hospitalitermes medioflavus"
 zh: "中黄须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Singapore: ?"
+distribution_zh: "马来西亚、印度尼西亚、新加坡、泰国"
+distribution_en: "Malaysia, Indonesia, Singapore, Thailand"
+synonym_count: 0
 ---

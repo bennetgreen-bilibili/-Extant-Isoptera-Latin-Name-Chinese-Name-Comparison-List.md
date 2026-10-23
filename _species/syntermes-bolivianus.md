@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes bolivianus 玻利维亚聚白蚁"
+title: "Syntermes bolivianus Holmgren, 1911 玻利维亚聚白蚁"
 latin: "Syntermes bolivianus"
 zh: "玻利维亚聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Bolivia: ?"
+distribution_zh: "玻利维亚、阿根廷"
+distribution_en: "Bolivia, Argentina"
+synonym_count: 0
 ---

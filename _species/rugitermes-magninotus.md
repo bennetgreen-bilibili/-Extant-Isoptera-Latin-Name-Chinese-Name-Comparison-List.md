@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rugitermes magninotus 大背皱白蚁"
+title: "Rugitermes magninotus Emerson, 1925 大背皱白蚁"
 latin: "Rugitermes magninotus"
 zh: "大背皱白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+distribution_zh: "厄瓜多尔、圭亚那、秘鲁、巴西"
+distribution_en: "Ecuador, Guyana, Peru, Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procapritermes prosetiger 似具毛前扭白蚁"
+title: "Procapritermes prosetiger Ahmad, 1965 似具毛前扭白蚁"
 latin: "Procapritermes prosetiger"
 zh: "似具毛前扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "印度尼西亚、马来西亚、泰国"
+distribution_en: "Indonesia, Malaysia, Thailand"
+synonym_count: 0
 ---

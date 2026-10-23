@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes rhombinidus 菱巢锯白蚁"
+title: "Microcerotermes rhombinidus Ping & Xu, 1984 菱巢锯白蚁"
 latin: "Microcerotermes rhombinidus"
 zh: "菱巢锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1984"
+type_locality: "China: Guangdong Province: Guangzhou"
+distribution_zh: "中国、广东、海南、广西"
+distribution_en: "China, Guangdong, Hainan, Guangxi"
+synonym_count: 0
 ---

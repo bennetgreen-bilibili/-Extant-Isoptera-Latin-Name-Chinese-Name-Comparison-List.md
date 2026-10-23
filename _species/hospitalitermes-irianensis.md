@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes irianensis 伊里安查亚须白蚁"
+title: "Hospitalitermes irianensis Roonwal & Maiti, 1966 伊里安查亚须白蚁"
 latin: "Hospitalitermes irianensis"
 zh: "伊里安查亚须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Maiti, 1966"
+type_locality: "Indonesia: Irian Jaya (West Irian): Idenburg River: Meervlakte"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

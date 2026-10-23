@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes kraepelini 克雷珀林瓢白蚁"
+title: "Bulbitermes kraepelini Holmgren, 1913 克雷珀林瓢白蚁"
 latin: "Bulbitermes kraepelini"
 zh: "克雷珀林瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Singapore: ?"
+distribution_zh: "印度尼西亚、新加坡"
+distribution_en: "Indonesia, Singapore"
+synonym_count: 0
 ---

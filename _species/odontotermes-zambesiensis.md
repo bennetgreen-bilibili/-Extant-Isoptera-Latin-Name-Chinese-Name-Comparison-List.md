@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes zambesiensis 赞比西土白蚁"
+title: "Odontotermes zambesiensis Sjöstedt, 1914 赞比西土白蚁"
 latin: "Odontotermes zambesiensis"
 zh: "赞比西土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1914"
+type_locality: "Mozambique: Villa Fontes"
+distribution_zh: "东非肯尼亚、马拉维、莫桑比克、坦桑尼亚"
+distribution_en: "East Africa, Kenya, Malawi, Mozambique, Tanzania"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes jacobsoni 雅各布森怒白蚁"
+title: "Lacessititermes jacobsoni Kemner, 1930 雅各布森怒白蚁"
 latin: "Lacessititermes jacobsoni"
 zh: "雅各布森怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1930"
+type_locality: "Indonesia: Sumatra: Fort de Kock"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

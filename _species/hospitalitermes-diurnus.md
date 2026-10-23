@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes diurnus 日常须白蚁"
+title: "Hospitalitermes diurnus Kemner, 1934 日常须白蚁"
 latin: "Hospitalitermes diurnus"
 zh: "日常须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: near Semarang"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

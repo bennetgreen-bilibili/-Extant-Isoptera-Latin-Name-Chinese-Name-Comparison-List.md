@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Niuginitermes liklik 小新几内亚白蚁"
+title: "Niuginitermes liklik Roisin & Pasteels, 1996 小新几内亚白蚁"
 latin: "Niuginitermes liklik"
 zh: "小新几内亚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Western Province: Morehead"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes subtibetanus 亚藏象白蚁"
+title: "Nasutitermes subtibetanus Tsai & Huang, 1979 亚藏象白蚁"
 latin: "Nasutitermes subtibetanus"
 zh: "亚藏象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1979"
+type_locality: "China: Tibet: Medog Xian: Ya-Rang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

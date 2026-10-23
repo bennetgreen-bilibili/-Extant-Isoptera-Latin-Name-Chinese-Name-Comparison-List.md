@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes hirticeps 毛头象白蚁"
+title: "Nasutitermes hirticeps Sands, 1965 毛头象白蚁"
 latin: "Nasutitermes hirticeps"
 zh: "毛头象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1965"
+type_locality: "Sao Tome and Principe: Binda"
+distribution_zh: "圣多美和普林西比"
+distribution_en: "São Tomé and Príncipe"
+synonym_count: 0
 ---

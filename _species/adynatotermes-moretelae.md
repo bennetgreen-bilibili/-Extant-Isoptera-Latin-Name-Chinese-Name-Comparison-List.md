@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Adynatotermes moretelae 莫特拉弱白蚁"
+title: "Adynatotermes moretelae Fuller, 1925 莫特拉弱白蚁"
 latin: "Adynatotermes moretelae"
 zh: "莫特拉弱白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Transvaal: the Moretele, Pienaars River"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

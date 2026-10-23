@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes valeriae 瓦莱里瘤白蚁"
+title: "Mirocapritermes valeriae Krishna, 1965 瓦莱里瘤白蚁"
 latin: "Mirocapritermes valeriae"
 zh: "瓦莱里瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1965"
+type_locality: "Myanmar: Maymyo: Botanical Garden"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
 ---

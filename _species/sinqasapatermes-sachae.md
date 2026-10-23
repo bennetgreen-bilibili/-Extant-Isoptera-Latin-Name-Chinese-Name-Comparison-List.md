@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinqasapatermes sachae 森林鼻大白蚁"
+title: "Sinqasapatermes sachae Cuezzo & Nickle, 2011 森林鼻大白蚁"
 latin: "Sinqasapatermes sachae"
 zh: "森林鼻大白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cuezzo & Nickle, 2011"
+type_locality: "Peru: Loreto: Arcadia [1S 75.3W]"
+distribution_zh: "哥伦比亚、厄瓜多尔、秘鲁"
+distribution_en: "Colombia, Ecuador, Peru"
+synonym_count: 0
 ---

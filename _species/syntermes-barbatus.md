@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes barbatus 倒钩聚白蚁"
+title: "Syntermes barbatus Constantino, 1995 倒钩聚白蚁"
 latin: "Syntermes barbatus"
 zh: "倒钩聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1995"
+type_locality: "Brasil: Distrito Federal: Fazenda Água Limpa [15.9667S 47.9061W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

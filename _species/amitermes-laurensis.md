@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes laurensis 劳拉弓白蚁"
+title: "Amitermes laurensis Mjöberg, 1920 劳拉弓白蚁"
 latin: "Amitermes laurensis"
 zh: "劳拉弓白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Laura"
+distribution_zh: "澳大利亚、巴布亚新几内亚"
+distribution_en: "Australia, Papua New Guinea"
+synonym_count: 1
+synonyms: "Hamitermes wilsoni Hill, 1922: 159"
+synonym_localities: "Australia: Queensland: Townsville"
 ---

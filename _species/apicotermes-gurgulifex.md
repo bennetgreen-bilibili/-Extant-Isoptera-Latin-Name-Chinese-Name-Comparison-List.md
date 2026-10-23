@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes gurgulifex 喉头尖白蚁"
+title: "Apicotermes gurgulifex Emerson, 1956 喉头尖白蚁"
 latin: "Apicotermes gurgulifex"
 zh: "喉头尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1956"
+type_locality: "Angola: Lunda, near Vila Henrique de Carvalho"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

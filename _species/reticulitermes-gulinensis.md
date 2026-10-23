@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes gulinensis 古蔺散白蚁"
+title: "Reticulitermes gulinensis Gao, Pan, Ma & Shi, 1982 古蔺散白蚁"
 latin: "Reticulitermes gulinensis"
 zh: "古蔺散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao, Pan, Ma & Shi, 1982"
+type_locality: "China: Sichuan Province: Gulin"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

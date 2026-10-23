@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes sakalava 萨卡拉瓦小白蚁"
+title: "Microtermes sakalava Cachan, 1949 萨卡拉瓦小白蚁"
 latin: "Microtermes sakalava"
 zh: "萨卡拉瓦小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cachan, 1949"
+type_locality: "Madagascar: Befandriana; Behara; Beloha; Ihosy; Tsihombe"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

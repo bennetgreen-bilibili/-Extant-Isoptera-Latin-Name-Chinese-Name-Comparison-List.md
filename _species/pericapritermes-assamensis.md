@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes assamensis 阿萨姆近扭白蚁"
+title: "Pericapritermes assamensis Mathur & Thapa, 1965 阿萨姆近扭白蚁"
 latin: "Pericapritermes assamensis"
 zh: "阿萨姆近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathur & Thapa, 1965"
+type_locality: "India: Assam: Goalpara Division: Central Range, Polo Block"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

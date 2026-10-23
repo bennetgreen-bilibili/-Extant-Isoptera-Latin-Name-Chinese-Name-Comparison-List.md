@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes procerus 长颚弓白蚁"
+title: "Amitermes procerus Gay, 1968 长颚弓白蚁"
 latin: "Amitermes procerus"
 zh: "长颚弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: 3 mi NNE Kojonup"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

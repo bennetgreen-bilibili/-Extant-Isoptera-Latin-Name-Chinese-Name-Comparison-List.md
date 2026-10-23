@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes obscurus 昏暗象白蚁"
+title: "Nasutitermes obscurus Holmgren, 1906 昏暗象白蚁"
 latin: "Nasutitermes obscurus"
 zh: "昏暗象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+distribution_zh: "秘鲁、巴西、法属圭亚那"
+distribution_en: "Peru, Brazil, French Guiana"
+synonym_count: 0
 ---

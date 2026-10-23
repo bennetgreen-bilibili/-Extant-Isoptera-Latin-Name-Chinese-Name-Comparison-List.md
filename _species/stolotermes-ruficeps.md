@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stolotermes ruficeps 红头胄白蚁"
+title: "Stolotermes ruficeps Brauer, 1865 红头胄白蚁"
 latin: "Stolotermes ruficeps"
 zh: "红头胄白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STOLOTERMITIDAE"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
+author_year: "Brauer, 1865"
+type_locality: "New Zealand: Patria"
+distribution_zh: "新西兰"
+distribution_en: "New Zealand"
+synonym_count: 0
 ---

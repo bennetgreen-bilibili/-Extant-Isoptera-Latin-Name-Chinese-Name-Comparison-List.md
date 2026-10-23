@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apolemotermes fodiens 挖掘和平白蚁"
+title: "Apolemotermes fodiens Romero-Arias & Roisin, 2021 挖掘和平白蚁"
 latin: "Apolemotermes fodiens"
 zh: "挖掘和平白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Romero-Arias & Roisin, 2021"
+type_locality: "Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) [ 3.4807N 11.5772E ]"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

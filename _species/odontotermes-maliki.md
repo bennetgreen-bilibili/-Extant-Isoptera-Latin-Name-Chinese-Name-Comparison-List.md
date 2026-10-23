@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes maliki 马利克土白蚁"
+title: "Odontotermes maliki Akhtar, 1975 马利克土白蚁"
 latin: "Odontotermes maliki"
 zh: "马利克土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Adampur"
+distribution_zh: "孟加拉国"
+distribution_en: "Bangladesh"
+synonym_count: 0
 ---

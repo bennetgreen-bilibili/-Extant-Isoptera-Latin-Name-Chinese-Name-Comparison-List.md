@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes westraliensis 西澳冢白蚁"
+title: "Tumulitermes westraliensis Hill, 1921 西澳冢白蚁"
 latin: "Tumulitermes westraliensis"
 zh: "西澳冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1921"
+type_locality: "Australia: Western Australia: Gosnells"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

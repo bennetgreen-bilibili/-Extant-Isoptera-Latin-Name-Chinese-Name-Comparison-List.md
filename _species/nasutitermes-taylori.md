@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes taylori 泰勒象白蚁"
+title: "Nasutitermes taylori Light & Wilson, 1936 泰勒象白蚁"
 latin: "Nasutitermes taylori"
 zh: "泰勒象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Mindanao: Cotabato: Caldera"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes hamatus 多毛亮白蚁"
+title: "Euhamitermes hamatus Holmgren, 1912 多毛亮白蚁"
 latin: "Euhamitermes hamatus"
 zh: "多毛亮白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "Singapore: ?"
+distribution_zh: "东南亚、泰国及中国南方"
+distribution_en: "Southeast Asia, Thailand and southern China"
+synonym_count: 0
 ---

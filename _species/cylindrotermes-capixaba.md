@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cylindrotermes capixaba 卡皮沙巴圆筒白蚁"
+title: "Cylindrotermes capixaba Rocha & Cancello, 2007 卡皮沙巴圆筒白蚁"
 latin: "Cylindrotermes capixaba"
 zh: "卡皮沙巴圆筒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cylindrotermitinae"
 subfamily_id: "cylindrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2007"
+type_locality: "Brasil: Espírito Santo: Cariacica [ 20.2639S 40.42W ]"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

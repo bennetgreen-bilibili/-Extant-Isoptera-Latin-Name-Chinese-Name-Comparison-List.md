@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes bimaculifrons 双斑树白蚁"
+title: "Glyptotermes bimaculifrons Ping & Liu, 1985 双斑树白蚁"
 latin: "Glyptotermes bimaculifrons"
 zh: "双斑树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ping & Liu, 1985"
+type_locality: "China: Sichuan Province: Xichang"
+distribution_zh: "中国四川"
+distribution_en: "China (Sichuan)"
+synonym_count: 0
 ---

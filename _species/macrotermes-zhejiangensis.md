@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes zhejiangensis 浙江大白蚁"
+title: "Macrotermes zhejiangensis Ping & Dong, 1994 浙江大白蚁"
 latin: "Macrotermes zhejiangensis"
 zh: "浙江大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Dong, 1994"
+type_locality: "China: Zhejiang Province: Quzhou"
+distribution_zh: "中国浙江、衢州"
+distribution_en: "Zhejiang, China, Quzhou"
+synonym_count: 0
 ---

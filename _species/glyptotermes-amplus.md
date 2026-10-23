@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes amplus 大型树白蚁"
+title: "Glyptotermes amplus Scheffrahn, Su & Krecek, 2001 大型树白蚁"
 latin: "Glyptotermes amplus"
 zh: "大型树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn, Su & Krecek, 2001"
+type_locality: "Saint Lucia: Edmond Forest Reserve"
+distribution_zh: "圣卢西亚、马提尼克"
+distribution_en: "Saint Lucia, Martinique"
+synonym_count: 0
 ---

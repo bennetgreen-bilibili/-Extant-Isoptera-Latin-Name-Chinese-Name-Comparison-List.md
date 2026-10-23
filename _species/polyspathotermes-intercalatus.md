@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Polyspathotermes intercalatus 居间多铲白蚁"
+title: "Polyspathotermes intercalatus Silvestri, 1914 居间多铲白蚁"
 latin: "Polyspathotermes intercalatus"
 zh: "居间多铲白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Congo: Brazzaville"
+distribution_zh: "安哥拉、刚果、刚果民主共和国"
+distribution_en: "Angola, Congo, Democratic Republic of the Congo"
+synonym_count: 1
+synonyms: "Cubitermes hamatus Sjöstedt, 1926: 235-236"
+synonym_localities: "Congo: Brazzaville"
 ---

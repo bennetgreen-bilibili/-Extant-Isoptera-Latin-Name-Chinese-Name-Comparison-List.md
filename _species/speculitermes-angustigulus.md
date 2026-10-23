@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Speculitermes angustigulus 狭颏稀白蚁"
+title: "Speculitermes angustigulus He, 1985 狭颏稀白蚁"
 latin: "Speculitermes angustigulus"
 zh: "狭颏稀白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He, 1985"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "南亚、印度、中国"
+distribution_en: "South Asia, India, China"
+synonym_count: 0
 ---

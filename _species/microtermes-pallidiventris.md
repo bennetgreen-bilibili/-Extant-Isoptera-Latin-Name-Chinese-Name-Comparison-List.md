@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes pallidiventris 白腹小白蚁"
+title: "Microtermes pallidiventris Harris, 1953 白腹小白蚁"
 latin: "Microtermes pallidiventris"
 zh: "白腹小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1953"
+type_locality: "Democratic Republic of the Congo: Katanga: Lubumbashi"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

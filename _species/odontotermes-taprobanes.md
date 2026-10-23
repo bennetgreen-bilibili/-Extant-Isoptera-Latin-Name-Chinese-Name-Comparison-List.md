@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes taprobanes 塔普拉班土白蚁"
+title: "Odontotermes taprobanes Walker, 1853 塔普拉班土白蚁"
 latin: "Odontotermes taprobanes"
 zh: "塔普拉班土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Walker, 1853"
+type_locality: "Sri Lanka: ?"
+distribution_zh: "南亚斯里兰卡"
+distribution_en: "South Asia (Sri Lanka)"
+synonym_count: 0
 ---

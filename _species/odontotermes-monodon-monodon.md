@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes monodon monodon 指名亚种"
+title: "Odontotermes monodon monodon Gerstäcker, 1891 指名亚种"
 latin: "Odontotermes monodon monodon"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes monodon"
 parent_zh: "单齿土白蚁"
 parent_slug: "odontotermes-monodon"
+author_year: "Gerstäcker, 1891"
+type_locality: "Mozambique: Quilimane, Kikengo"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes guizhouensis 贵州钝颚白蚁"
+title: "Ahmaditermes guizhouensis Li & Ping, 1982 贵州钝颚白蚁"
 latin: "Ahmaditermes guizhouensis"
 zh: "贵州钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1982"
+type_locality: "China: Guizhou Province: Cheting: Weinan Plantation"
+distribution_zh: "中国贵州"
+distribution_en: "China (Guizhou)"
+synonym_count: 0
 ---

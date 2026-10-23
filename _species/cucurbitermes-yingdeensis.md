@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cucurbitermes yingdeensis 英德葫白蚁"
+title: "Cucurbitermes yingdeensis Li & Ping, 1985 英德葫白蚁"
 latin: "Cucurbitermes yingdeensis"
 zh: "英德葫白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1985"
+type_locality: "China: Guangdong Province: Yingde"
+distribution_zh: "中国、广东、江西、湖南"
+distribution_en: "China, Guangdong, Jiangxi, Hunan"
+synonym_count: 0
 ---

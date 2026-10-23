@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes pictus 着色象白蚁"
+title: "Nasutitermes pictus Light, 1933 着色象白蚁"
 latin: "Nasutitermes pictus"
 zh: "着色象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1933"
+type_locality: "Mexico: Colima State: Colima"
+distribution_zh: "墨西哥"
+distribution_en: "Mexico"
+synonym_count: 0
 ---

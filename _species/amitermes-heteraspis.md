@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes heteraspis 火罐弓白蚁"
+title: "Amitermes heteraspis Silvestri, 1906 火罐弓白蚁"
 latin: "Amitermes heteraspis"
 zh: "火罐弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1906"
+type_locality: "Eritrea: Abi Ugri"
+distribution_zh: "厄立特里亚、埃塞俄比亚"
+distribution_en: "Eritrea, Ethiopia"
+synonym_count: 0
 ---

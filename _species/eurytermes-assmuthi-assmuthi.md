@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes assmuthi assmuthi 指名亚种"
+title: "Eurytermes assmuthi assmuthi Wasmann, 1902 指名亚种"
 latin: "Eurytermes assmuthi assmuthi"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Eurytermes assmuthi"
 parent_zh: "阿斯穆斯宽白蚁"
 parent_slug: "eurytermes-assmuthi"
+author_year: "Wasmann, 1902"
+type_locality: "India: Maharashtra: Khandala, near Bombay"
+synonym_count: 0
 ---

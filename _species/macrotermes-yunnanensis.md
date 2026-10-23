@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes yunnanensis 云南大白蚁"
+title: "Macrotermes yunnanensis Han, 1986 云南大白蚁"
 latin: "Macrotermes yunnanensis"
 zh: "云南大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Han, 1986"
+type_locality: "China: Yunnan Province: Damenglong, Jinghong"
+distribution_zh: "中国云南、景洪大勐龙"
+distribution_en: "China (Yunnan), Jinghong (Damenglong)"
+synonym_count: 0
 ---

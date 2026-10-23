@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinonasutitermes mediocris 居中华象白蚁"
+title: "Sinonasutitermes mediocris Ping & Xu, 1991 居中华象白蚁"
 latin: "Sinonasutitermes mediocris"
 zh: "居中华象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1991"
+type_locality: "China: Guangxi Province: Longsheng"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

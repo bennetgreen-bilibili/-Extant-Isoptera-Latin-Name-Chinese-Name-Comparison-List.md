@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ophiotermes receptus 接受蛇白蚁"
+title: "Ophiotermes receptus Sjöstedt, 1913 接受蛇白蚁"
 latin: "Ophiotermes receptus"
 zh: "接受蛇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1913"
+type_locality: "Democratic Republic of the Congo: Kondué (Kasai)"
+distribution_zh: "中非、刚果民主共和国"
+distribution_en: "Central African Republic, Democratic Republic of the Congo"
+synonym_count: 0
 ---

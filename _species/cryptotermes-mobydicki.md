@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes mobydicki 莫比迪克堆砂白蚁"
+title: "Cryptotermes mobydicki Scheffrahn, 2025 莫比迪克堆砂白蚁"
 latin: "Cryptotermes mobydicki"
 zh: "莫比迪克堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn, 2025"
+type_locality: "French Guiana: Petit Saut [ 5.07N 53.032W ]"
+distribution_zh: "法属圭亚那"
+distribution_en: "French Guiana"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes huayangensis 怀阳白蚁"
+title: "Termes huayangensis Ahmad, 1965 怀阳白蚁"
 latin: "Termes huayangensis"
 zh: "怀阳白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Huay Yang"
+distribution_zh: "中国广东、华阳、泰国"
+distribution_en: "Guangdong, China, Huayang, Thailand"
+synonym_count: 0
 ---

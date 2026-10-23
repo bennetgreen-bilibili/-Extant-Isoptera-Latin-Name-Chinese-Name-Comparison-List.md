@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eleanoritermes borneensis 婆罗埃莉诺白蚁"
+title: "Eleanoritermes borneensis Ahmad, 1968 婆罗埃莉诺白蚁"
 latin: "Eleanoritermes borneensis"
 zh: "婆罗埃莉诺白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1968"
+type_locality: "Malaysia: Sarawak: Matang"
+distribution_zh: "婆罗洲"
+distribution_en: "Borneo"
+synonym_count: 0
 ---

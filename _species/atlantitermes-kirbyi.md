@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Atlantitermes kirbyi 柯比阿特拉斯白蚁"
+title: "Atlantitermes kirbyi Snyder, 1926 柯比阿特拉斯白蚁"
 latin: "Atlantitermes kirbyi"
 zh: "柯比阿特拉斯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Panama: Barro Colorado Island"
+distribution_zh: "尼加拉瓜、巴拿马"
+distribution_en: "Nicaragua, Panama"
+synonym_count: 0
 ---

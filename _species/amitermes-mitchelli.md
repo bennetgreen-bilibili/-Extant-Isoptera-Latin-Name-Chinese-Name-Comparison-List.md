@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes mitchelli 米切尔弓白蚁"
+title: "Amitermes mitchelli Sands, 1992 米切尔弓白蚁"
 latin: "Amitermes mitchelli"
 zh: "米切尔弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1992"
+type_locality: "Zimbabwe: Chiredzi: Nyazugwi"
+distribution_zh: "津巴布韦"
+distribution_en: "Zimbabwe"
+synonym_count: 0
 ---

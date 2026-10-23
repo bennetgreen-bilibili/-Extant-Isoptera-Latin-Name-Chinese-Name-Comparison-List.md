@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes diabolus 魔鬼象白蚁"
+title: "Nasutitermes diabolus Sjöstedt, 1907 魔鬼象白蚁"
 latin: "Nasutitermes diabolus"
 zh: "魔鬼象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1907"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "刚果（布）、科特迪瓦、喀麦隆、刚果民主共和国、加蓬、尼日利亚、乌干达"
+distribution_en: "Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria, Uganda"
+synonym_count: 1
+synonyms: "Eutermes (Eutermes) torquatus Sjöstedt, 1924: 494"
+synonym_localities: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
 ---

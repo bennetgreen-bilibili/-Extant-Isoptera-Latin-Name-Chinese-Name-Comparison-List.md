@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes planifrons 平额杆白蚁"
+title: "Stylotermes planifrons Chen, 1984 平额杆白蚁"
 latin: "Stylotermes planifrons"
 zh: "平额杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Chen, 1984"
+type_locality: "China: Sichuan Province: Chongquing"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

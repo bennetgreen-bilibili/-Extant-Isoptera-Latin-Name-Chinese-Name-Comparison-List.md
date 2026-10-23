@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes arenarius 沙地象白蚁"
+title: "Nasutitermes arenarius Hagen, 1858 沙地象白蚁"
 latin: "Nasutitermes arenarius"
 zh: "沙地象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hagen, 1858"
+type_locality: "Brasil: Pará: Santarém [2.43917S 54.705W]"
+distribution_zh: "巴西、苏里南、委内瑞拉"
+distribution_en: "Brazil, Suriname, Venezuela"
+synonym_count: 0
 ---

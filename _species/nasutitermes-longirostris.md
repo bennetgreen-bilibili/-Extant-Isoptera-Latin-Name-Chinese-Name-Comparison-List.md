@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes longirostris 长喙象白蚁"
+title: "Nasutitermes longirostris Holmgren, 1913 长喙象白蚁"
 latin: "Nasutitermes longirostris"
 zh: "长喙象白蚁"
 type: false
@@ -16,4 +16,14 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---
+
+## 亚种 Subspecies
+
+- [*Nasutitermes longirostris longirostris* 指名亚种]({{ site.base_url }}/species/nasutitermes-longirostris-longirostris/) — Holmgren, 1913；模式产地 Type locality: Malaysia: Sarawak
+- [*Nasutitermes longirostris sabahicola* 沙巴亚种]({{ site.base_url }}/species/nasutitermes-longirostris-sabahicola/) — Engel & Krishna, 2013；模式产地 Type locality: Malaysia: Sabah: Lamag District: Tenegang Besar, mile 8

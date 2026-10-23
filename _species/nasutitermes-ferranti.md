@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes ferranti 费朗象白蚁"
+title: "Nasutitermes ferranti Wasmann, 1911 费朗象白蚁"
 latin: "Nasutitermes ferranti"
 zh: "费朗象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1911"
+type_locality: "Democratic Republic of the Congo: Kasai: Sankuru"
+distribution_zh: "刚果（金）、安哥拉、刚果（布）、刚果民主共和国、尼日利亚"
+distribution_en: "Democratic Republic of the Congo (Kinshasa), Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Nigeria"
+synonym_count: 0
 ---

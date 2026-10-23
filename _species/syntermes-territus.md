@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes territus 受惊聚白蚁"
+title: "Syntermes territus Emerson, 1924 受惊聚白蚁"
 latin: "Syntermes territus"
 zh: "受惊聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1924"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+distribution_zh: "哥伦比亚、法属圭亚那、巴西、圭亚那、苏里南、巴拿马、委内瑞拉"
+distribution_en: "Colombia, French Guiana, Brazil, Guyana, Suriname, Panama, Venezuela"
+synonym_count: 0
 ---

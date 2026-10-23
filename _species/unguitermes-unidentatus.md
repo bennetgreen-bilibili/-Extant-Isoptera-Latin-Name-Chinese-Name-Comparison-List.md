@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Unguitermes unidentatus 单齿爪白蚁"
+title: "Unguitermes unidentatus Ruelle, 1973 单齿爪白蚁"
 latin: "Unguitermes unidentatus"
 zh: "单齿爪白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ruelle, 1973"
+type_locality: "Namibia: 40 km ex Rundu-Grootfontein"
+distribution_zh: "纳米比亚"
+distribution_en: "Namibia"
+synonym_count: 0
 ---

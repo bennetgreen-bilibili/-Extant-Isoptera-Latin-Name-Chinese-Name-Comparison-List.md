@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes xylophagus 食木弓白蚁"
+title: "Amitermes xylophagus Hill, 1935 食木弓白蚁"
 latin: "Amitermes xylophagus"
 zh: "食木弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1935"
+type_locality: "Australia: Capital Territory: Canberra: Black Mountain"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euchilotermes quadriceps 方头真唇白蚁"
+title: "Euchilotermes quadriceps Emerson, 1928 方头真唇白蚁"
 latin: "Euchilotermes quadriceps"
 zh: "方头真唇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Yakuluku"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

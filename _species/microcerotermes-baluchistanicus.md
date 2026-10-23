@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes baluchistanicus 俾路支锯白蚁"
+title: "Microcerotermes baluchistanicus Ahmad, 1955 俾路支锯白蚁"
 latin: "Microcerotermes baluchistanicus"
 zh: "俾路支锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1955"
+type_locality: "Pakistan: Baluchistan: Zhob District: Fort Sandeman"
+distribution_zh: "南亚、巴基斯坦、印度"
+distribution_en: "South Asia, Pakistan, India"
+synonym_count: 0
 ---

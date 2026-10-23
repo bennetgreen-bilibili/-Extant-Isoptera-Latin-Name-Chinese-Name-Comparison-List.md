@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes obtusus 迟钝角白蚁"
+title: "Angulitermes obtusus Holmgren & Holmgren, 1917 迟钝角白蚁"
 latin: "Angulitermes obtusus"
 zh: "迟钝角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Karnataka: Bellary District: Hospet"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

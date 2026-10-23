@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coarctotermes nasonovi 纳索诺夫缩狭白蚁"
+title: "Coarctotermes nasonovi Czerwinski, 1901 纳索诺夫缩狭白蚁"
 latin: "Coarctotermes nasonovi"
 zh: "纳索诺夫缩狭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Czerwinski, 1901"
+type_locality: "Madagascar: ?"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

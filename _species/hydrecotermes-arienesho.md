@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hydrecotermes arienesho 惊人海德瑞克白蚁"
+title: "Hydrecotermes arienesho Bourguignon & Roisin, 2016 惊人海德瑞克白蚁"
 latin: "Hydrecotermes arienesho"
 zh: "惊人海德瑞克白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bourguignon & Roisin, 2016"
+type_locality: "French Guiana: Nouragues Inselberg station [ 4.0884N 52.6814W ]"
+distribution_zh: "哥伦比亚、法属圭亚那、玻利维亚、巴拉圭、特立尼达和多巴哥"
+distribution_en: "Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago"
+synonym_count: 0
 ---

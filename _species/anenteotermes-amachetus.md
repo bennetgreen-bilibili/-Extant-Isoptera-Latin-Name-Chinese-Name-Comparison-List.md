@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anenteotermes amachetus 无刀无甲白蚁"
+title: "Anenteotermes amachetus Sands, 1972 无刀无甲白蚁"
 latin: "Anenteotermes amachetus"
 zh: "无刀无甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: 18 km S Kinshasa, near Riflart"
+distribution_zh: "刚果共和国、刚果民主共和国"
+distribution_en: "Republic of the Congo, Democratic Republic of the Congo"
+synonym_count: 0
 ---

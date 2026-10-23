@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes eugnathus 真颚锯白蚁"
+title: "Microcerotermes eugnathus Silvestri, 1911 真颚锯白蚁"
 latin: "Microcerotermes eugnathus"
 zh: "真颚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1911"
+type_locality: "Tunisia: Kairouan"
+distribution_zh: "埃及、西奈、突尼斯"
+distribution_en: "Egypt, Sinai, Tunisia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Atlantitermes guarinim 好斗阿特拉斯白蚁"
+title: "Atlantitermes guarinim Fontes, 1979 好斗阿特拉斯白蚁"
 latin: "Atlantitermes guarinim"
 zh: "好斗阿特拉斯白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fontes, 1979"
+type_locality: "Brasil: São Paulo: Itanhaém [24.1831S 46.7889W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes machadoi 马查多近扭白蚁"
+title: "Pericapritermes machadoi Noirot, 1955 马查多近扭白蚁"
 latin: "Pericapritermes machadoi"
 zh: "马查多近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Noirot, 1955"
+type_locality: "Angola: Hoque"
+distribution_zh: "安哥拉"
+distribution_en: "Angola"
+synonym_count: 0
 ---

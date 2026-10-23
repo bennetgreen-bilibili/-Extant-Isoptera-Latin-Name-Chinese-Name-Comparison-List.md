@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Arcotermes tubus 管鼻弧白蚁"
+title: "Arcotermes tubus Fan, 1983 管鼻弧白蚁"
 latin: "Arcotermes tubus"
 zh: "管鼻弧白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fan, 1983"
+type_locality: "China: Jiangxi Province: Xinfeng"
+distribution_zh: "中国江西"
+distribution_en: "China (Jiangxi)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes walkeri 沃克象白蚁"
+title: "Nasutitermes walkeri Hill, 1942 沃克象白蚁"
 latin: "Nasutitermes walkeri"
 zh: "沃克象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: New South Wales: Sydney"
+distribution_zh: "澳大利亚、新西兰"
+distribution_en: "Australia, New Zealand"
+synonym_count: 0
 ---

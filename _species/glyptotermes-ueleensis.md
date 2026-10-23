@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes ueleensis 韦莱树白蚁"
+title: "Glyptotermes ueleensis Coaton, 1955 韦莱树白蚁"
 latin: "Glyptotermes ueleensis"
 zh: "韦莱树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Coaton, 1955"
+type_locality: "Democratic Republic of the Congo: Uele Forest: Tora, Yebo"
+distribution_zh: "刚果民主共和国、肯尼亚、乌干达"
+distribution_en: "Democratic Republic of the Congo, Kenya, Uganda"
+synonym_count: 0
 ---

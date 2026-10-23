@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes mangzhuangensis 曼庄小白蚁"
+title: "Microtermes mangzhuangensis Huang & Zhu, 1991 曼庄小白蚁"
 latin: "Microtermes mangzhuangensis"
 zh: "曼庄小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Zhu, 1991"
+type_locality: "China: Yunnan Province: Mengla County: Mangzhuang"
+distribution_zh: "中国云南、勐腊"
+distribution_en: "Yunnan, China, Mengla"
+synonym_count: 0
 ---

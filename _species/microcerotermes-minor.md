@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes minor 小型锯白蚁"
+title: "Microcerotermes minor Holmgren, 1914 小型锯白蚁"
 latin: "Microcerotermes minor"
 zh: "小型锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Sri Lanka: Maha-Iluppalama"
+distribution_zh: "印度、斯里兰卡"
+distribution_en: "India, Sri Lanka"
+synonym_count: 0
 ---

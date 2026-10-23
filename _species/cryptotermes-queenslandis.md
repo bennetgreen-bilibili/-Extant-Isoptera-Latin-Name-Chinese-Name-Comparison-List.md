@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes queenslandis 昆士兰堆砂白蚁"
+title: "Cryptotermes queenslandis Hill, 1933 昆士兰堆砂白蚁"
 latin: "Cryptotermes queenslandis"
 zh: "昆士兰堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hill, 1933"
+type_locality: "Australia: Queensland: Toowoomba"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

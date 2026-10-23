@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes mauricianus 毛里求斯乳白蚁"
+title: "Coptotermes mauricianus Rambur, 1842 毛里求斯乳白蚁"
 latin: "Coptotermes mauricianus"
 zh: "毛里求斯乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rambur, 1842"
+type_locality: "Mauritius: ?"
+distribution_zh: "毛里求斯"
+distribution_en: "Mauritius"
+synonym_count: 0
 ---

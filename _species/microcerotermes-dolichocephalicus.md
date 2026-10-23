@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes dolichocephalicus 长头锯白蚁"
+title: "Microcerotermes dolichocephalicus Gao & Lam, 1992 长头锯白蚁"
 latin: "Microcerotermes dolichocephalicus"
 zh: "长头锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Lam, 1992"
+type_locality: "China: Guangxi Province: Rong County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

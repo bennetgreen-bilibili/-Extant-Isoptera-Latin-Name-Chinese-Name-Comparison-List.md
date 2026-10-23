@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anacanthotermes saudiensis 沙特无刺白蚁"
+title: "Anacanthotermes saudiensis Chhotani & Bose, 1982 沙特无刺白蚁"
 latin: "Anacanthotermes saudiensis"
 zh: "沙特无刺白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HODOTERMITIDAE"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
+author_year: "Chhotani & Bose, 1982"
+type_locality: "Saudi Arabia: Jebel Banban"
+distribution_zh: "沙特阿拉伯"
+distribution_en: "Saudi Arabia"
+synonym_count: 0
 ---

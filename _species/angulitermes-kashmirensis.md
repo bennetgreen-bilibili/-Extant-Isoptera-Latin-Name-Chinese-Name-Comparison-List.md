@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes kashmirensis 克什米尔角白蚁"
+title: "Angulitermes kashmirensis Roonwal & Chhotani, 1971 克什米尔角白蚁"
 latin: "Angulitermes kashmirensis"
 zh: "克什米尔角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1971"
+type_locality: "India: Jammu and Kashmir, ca. 10 km east of Chineni near confluence of River Tawi and Binisangh Nullah"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

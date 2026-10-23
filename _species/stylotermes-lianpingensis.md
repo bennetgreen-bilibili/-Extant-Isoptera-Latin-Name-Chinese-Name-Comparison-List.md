@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes lianpingensis 连平杆白蚁"
+title: "Stylotermes lianpingensis Ping, 1983 连平杆白蚁"
 latin: "Stylotermes lianpingensis"
 zh: "连平杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping, 1983"
+type_locality: "China: Guangdong Province: Lianping County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

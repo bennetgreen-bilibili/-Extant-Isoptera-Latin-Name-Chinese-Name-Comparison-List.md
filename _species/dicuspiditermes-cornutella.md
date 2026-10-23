@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes cornutella 小角突扭白蚁"
+title: "Dicuspiditermes cornutella Silvestri, 1922 小角突扭白蚁"
 latin: "Dicuspiditermes cornutella"
 zh: "小角突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1922"
+type_locality: "India: Maharashtra: Ratnagiri District: Randal Valley: Akalpa"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

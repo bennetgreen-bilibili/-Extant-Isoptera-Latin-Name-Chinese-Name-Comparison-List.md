@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes melanocephalus 黑头亮白蚁"
+title: "Euhamitermes melanocephalus Ping & Li, 1987 黑头亮白蚁"
 latin: "Euhamitermes melanocephalus"
 zh: "黑头亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1987"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "东洋界"
+distribution_en: "Oriental region"
+synonym_count: 0
 ---

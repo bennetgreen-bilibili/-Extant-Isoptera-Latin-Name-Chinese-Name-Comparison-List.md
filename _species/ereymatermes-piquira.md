@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ereymatermes piquira 短小无名白蚁"
+title: "Ereymatermes piquira Cancello & Cuezzo, 2007 短小无名白蚁"
 latin: "Ereymatermes piquira"
 zh: "短小无名白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello & Cuezzo, 2007"
+type_locality: "Brasil: Bahia: Ilhéus [14.7972S 39.073W]"
+distribution_zh: "南美洲、巴西、秘鲁"
+distribution_en: "South America, Brazil, Peru"
+synonym_count: 0
 ---

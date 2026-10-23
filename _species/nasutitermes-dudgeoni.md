@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes dudgeoni 香港象白蚁"
+title: "Nasutitermes dudgeoni Gao & Lam, 1986 香港象白蚁"
 latin: "Nasutitermes dudgeoni"
 zh: "香港象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Lam, 1986"
+type_locality: "China: The New Territories: Hong Kong: Ma On Shan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes prodives 似多产土白蚁"
+title: "Odontotermes prodives Thapa, 1982 似多产土白蚁"
 latin: "Odontotermes prodives"
 zh: "似多产土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Beaufort District: Beaufort"
+distribution_zh: "马来西亚、泰国"
+distribution_en: "Malaysia, Thailand"
+synonym_count: 0
 ---

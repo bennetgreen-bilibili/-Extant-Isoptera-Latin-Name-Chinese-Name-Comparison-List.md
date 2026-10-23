@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes secernens 切割锯白蚁"
+title: "Microcerotermes secernens Schmitz, 1917 切割锯白蚁"
 latin: "Microcerotermes secernens"
 zh: "切割锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Schmitz, 1917"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "中非、刚果民主共和国"
+distribution_en: "Central African Republic, Democratic Republic of the Congo"
+synonym_count: 0
 ---

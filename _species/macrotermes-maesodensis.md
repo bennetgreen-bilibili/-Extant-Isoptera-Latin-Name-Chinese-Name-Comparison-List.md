@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes maesodensis 湄索德大白蚁"
+title: "Macrotermes maesodensis Ahmad, 1965 湄索德大白蚁"
 latin: "Macrotermes maesodensis"
 zh: "湄索德大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: km 20 east of Mae Sod on road to Tak"
+distribution_zh: "东南亚、越南、泰国"
+distribution_en: "Southeast Asia, Vietnam, Thailand"
+synonym_count: 0
 ---

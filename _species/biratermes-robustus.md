@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Biratermes robustus 粗壮拜拉白蚁"
+title: "Biratermes robustus Constantino, 1993 粗壮拜拉白蚁"
 latin: "Biratermes robustus"
 zh: "粗壮拜拉白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1993"
+type_locality: "Brasil: Amapá: Serra do Navio [0.8955N 52.0022W]"
+distribution_zh: "法属圭亚那、巴西"
+distribution_en: "French Guiana, Brazil"
+synonym_count: 0
 ---

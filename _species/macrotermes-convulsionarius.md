@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes convulsionarius 震撼大白蚁"
+title: "Macrotermes convulsionarius König, 1779 震撼大白蚁"
 latin: "Macrotermes convulsionarius"
 zh: "震撼大白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "König, 1779"
+type_locality: "India: Tamil Nadu: Tanjore (Tranqueba)"
+distribution_zh: "南亚、印度、斯里兰卡"
+distribution_en: "South Asia, India, Sri Lanka"
+synonym_count: 1
+synonyms: "Termes estherae Desneux, 1908: 390-394"
+synonym_localities: "India: Karnataka: Huvin Hippargi; Karnataka: Kaladgi; Karnataka: Karadi"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes rathorai 拉托拉角白蚁"
+title: "Angulitermes rathorai Kumar & Thakur, 2010 拉托拉角白蚁"
 latin: "Angulitermes rathorai"
 zh: "拉托拉角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kumar & Thakur, 2010"
+type_locality: "India: Haryana"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

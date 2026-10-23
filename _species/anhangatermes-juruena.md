@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anhangatermes juruena 茹鲁埃纳魔白蚁"
+title: "Anhangatermes juruena Oliveira & Constantino, 2014 茹鲁埃纳魔白蚁"
 latin: "Anhangatermes juruena"
 zh: "茹鲁埃纳魔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oliveira & Constantino, 2014"
+type_locality: "Brasil: Mato Grosso: Juruena [10.3594S 58.4903W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

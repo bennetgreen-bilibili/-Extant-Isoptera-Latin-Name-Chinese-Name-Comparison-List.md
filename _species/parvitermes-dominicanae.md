@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes dominicanae 多米尼加微白蚁"
+title: "Parvitermes dominicanae Scheffrahn, Roisin & Su, 1998 多米尼加微白蚁"
 latin: "Parvitermes dominicanae"
 zh: "多米尼加微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, Roisin & Su, 1998"
+type_locality: "Dominican Republic: Distrito Nacional: Bomba de Gaunuma"
+distribution_zh: "多米尼加"
+distribution_en: "Dominican Republic"
+synonym_count: 0
 ---

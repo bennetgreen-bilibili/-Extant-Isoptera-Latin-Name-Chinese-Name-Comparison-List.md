@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes mirim 小兵直颚白蚁"
+title: "Orthognathotermes mirim Rocha & Cancello, 2009 小兵直颚白蚁"
 latin: "Orthognathotermes mirim"
 zh: "小兵直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2009"
+type_locality: "Brasil: Minas Gerais: Belo Horizonte [ 19.92S 43.93W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

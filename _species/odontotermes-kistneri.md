@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes kistneri 基斯特纳土白蚁"
+title: "Odontotermes kistneri Manzoor & Akhtar, 2005 基斯特纳土白蚁"
 latin: "Odontotermes kistneri"
 zh: "基斯特纳土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Manzoor & Akhtar, 2005"
+type_locality: "Malaysia: Mainland: Terrenganu"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes desaegeri 德埃吉近扭白蚁"
+title: "Pericapritermes desaegeri Harris, 1963 德埃吉近扭白蚁"
 latin: "Pericapritermes desaegeri"
 zh: "德埃吉近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1963"
+type_locality: "Democratic Republic of the Congo: Parc National Garamba"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

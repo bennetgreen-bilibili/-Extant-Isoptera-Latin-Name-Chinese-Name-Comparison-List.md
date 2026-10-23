@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rhynchotermes diphyes 黑白喙白蚁"
+title: "Rhynchotermes diphyes Mathews, 1977 黑白喙白蚁"
 latin: "Rhynchotermes diphyes"
 zh: "黑白喙白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 1
+synonyms: "Rhynchotermes nyctobius Mathews, 1977: 157"
+synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
 ---

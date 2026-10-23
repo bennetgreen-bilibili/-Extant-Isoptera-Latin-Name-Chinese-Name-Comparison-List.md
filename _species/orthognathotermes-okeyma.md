@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes okeyma 无巢直颚白蚁"
+title: "Orthognathotermes okeyma Rocha & Cancello, 2009 无巢直颚白蚁"
 latin: "Orthognathotermes okeyma"
 zh: "无巢直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2009"
+type_locality: "Brasil: Goiás: Parque Nacional das Emas [ 18.1S 52.91W ]"
+distribution_zh: "巴西、巴拉圭"
+distribution_en: "Brazil, Paraguay"
+synonym_count: 0
 ---

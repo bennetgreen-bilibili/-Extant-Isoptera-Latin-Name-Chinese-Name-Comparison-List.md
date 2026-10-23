@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes algoasinensis 阿尔哥亚湾锯白蚁"
+title: "Microcerotermes algoasinensis Fuller, 1925 阿尔哥亚湾锯白蚁"
 latin: "Microcerotermes algoasinensis"
 zh: "阿尔哥亚湾锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Cape Province: Port Elizabeth (Algoa Bay)"
+distribution_zh: "非洲南部、南非"
+distribution_en: "southern Africa, South Africa"
+synonym_count: 0
 ---

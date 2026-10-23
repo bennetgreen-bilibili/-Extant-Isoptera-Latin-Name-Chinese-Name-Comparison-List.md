@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes vermai 维尔马近扭白蚁"
+title: "Pericapritermes vermai Kumar & Thakur, 2011 维尔马近扭白蚁"
 latin: "Pericapritermes vermai"
 zh: "维尔马近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kumar & Thakur, 2011"
+type_locality: "India: Haryana: Yamunanagar, Chhachrauli [ 30.241N 77.356E ]"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

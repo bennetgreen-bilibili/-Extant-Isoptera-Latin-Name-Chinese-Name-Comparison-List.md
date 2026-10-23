@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes maximus 最大象白蚁"
+title: "Nasutitermes maximus Holmgren, 1910 最大象白蚁"
 latin: "Nasutitermes maximus"
 zh: "最大象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+distribution_zh: "秘鲁"
+distribution_en: "Peru"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes rambanensis 拉姆班锯白蚁"
+title: "Microcerotermes rambanensis Chatterjee & Thakur, 1964 拉姆班锯白蚁"
 latin: "Microcerotermes rambanensis"
 zh: "拉姆班锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Thakur, 1964"
+type_locality: "India: Jammu and Kashmir: Ramban: Maitra Forest"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

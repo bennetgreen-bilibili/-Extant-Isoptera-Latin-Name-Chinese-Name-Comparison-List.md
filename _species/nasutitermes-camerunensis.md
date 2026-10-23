@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes camerunensis 喀麦隆象白蚁"
+title: "Nasutitermes camerunensis Sjöstedt, 1899 喀麦隆象白蚁"
 latin: "Nasutitermes camerunensis"
 zh: "喀麦隆象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1899"
+type_locality: "Cameroon: ?"
+distribution_zh: "喀麦隆、尼日利亚"
+distribution_en: "Cameroon, Nigeria"
+synonym_count: 0
 ---

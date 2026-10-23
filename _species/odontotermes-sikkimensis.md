@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes sikkimensis 锡金土白蚁"
+title: "Odontotermes sikkimensis Thakur & Rathore, 1986 锡金土白蚁"
 latin: "Odontotermes sikkimensis"
 zh: "锡金土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur & Rathore, 1986"
+type_locality: "India: Sikkim: Namchi"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

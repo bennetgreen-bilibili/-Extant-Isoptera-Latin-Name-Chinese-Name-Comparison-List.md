@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes kistneri 基斯特纳突扭白蚁"
+title: "Dicuspiditermes kistneri Krishna, 2001 基斯特纳突扭白蚁"
 latin: "Dicuspiditermes kistneri"
 zh: "基斯特纳突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2001"
+type_locality: "Malaysia: Selangor: Semangkok Forest Reserve"
+distribution_zh: "马来西亚、新加坡"
+distribution_en: "Malaysia, Singapore"
+synonym_count: 0
 ---

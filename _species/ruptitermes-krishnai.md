@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ruptitermes krishnai 克里希纳腹爆白蚁"
+title: "Ruptitermes krishnai Acioli & Constantino, 2015 克里希纳腹爆白蚁"
 latin: "Ruptitermes krishnai"
 zh: "克里希纳腹爆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Acioli & Constantino, 2015"
+type_locality: "Trinidad and Tobago: San Juan-Laventille: Northern Range [ 10.755N 61.431W ]"
+distribution_zh: "巴西、特立尼达和多巴哥"
+distribution_en: "Brazil, Trinidad and Tobago"
+synonym_count: 0
 ---

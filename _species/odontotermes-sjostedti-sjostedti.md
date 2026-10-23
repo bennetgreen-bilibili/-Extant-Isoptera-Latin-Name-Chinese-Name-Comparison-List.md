@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes sjostedti sjostedti 指名亚种"
+title: "Odontotermes sjostedti sjostedti Emerson, 1928 指名亚种"
 latin: "Odontotermes sjostedti sjostedti"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes sjostedti"
 parent_zh: "舍斯泰特土白蚁"
 parent_slug: "odontotermes-sjostedti"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Ganda Sundi"
+synonym_count: 0
 ---

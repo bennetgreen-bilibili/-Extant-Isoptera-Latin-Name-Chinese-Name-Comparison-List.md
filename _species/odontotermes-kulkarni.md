@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes kulkarni 库尔坎土白蚁"
+title: "Odontotermes kulkarni Roonwal & Chhotani, 1959 库尔坎土白蚁"
 latin: "Odontotermes kulkarni"
 zh: "库尔坎土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1959"
+type_locality: "India: Karnataka: Bijapur"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

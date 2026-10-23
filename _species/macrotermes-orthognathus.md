@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes orthognathus 直颚大白蚁"
+title: "Macrotermes orthognathus Ping & Xu, 1985 直颚大白蚁"
 latin: "Macrotermes orthognathus"
 zh: "直颚大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1985"
+type_locality: "China: Guizhou Province: Xingyi County"
+distribution_zh: "中国贵州、兴义"
+distribution_en: "Guizhou, China, Xingyi"
+synonym_count: 0
 ---

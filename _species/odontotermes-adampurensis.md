@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes adampurensis 阿达姆普尔土白蚁"
+title: "Odontotermes adampurensis Akhtar, 1975 阿达姆普尔土白蚁"
 latin: "Odontotermes adampurensis"
 zh: "阿达姆普尔土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Adampur"
+distribution_zh: "南亚印度、孟加拉国"
+distribution_en: "South Asia, India, Bangladesh"
+synonym_count: 0
 ---

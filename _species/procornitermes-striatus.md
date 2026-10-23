@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procornitermes striatus 具沟前角白蚁"
+title: "Procornitermes striatus Hagen, 1858 具沟前角白蚁"
 latin: "Procornitermes striatus"
 zh: "具沟前角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hagen, 1858"
+type_locality: "Brasil: ?"
+distribution_zh: "阿根廷、巴西、乌拉圭、巴拉圭"
+distribution_en: "Argentina, Brazil, Uruguay, Paraguay"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes septentrionalis 北方镰白蚁"
+title: "Drepanotermes septentrionalis Hill, 1922 北方镰白蚁"
 latin: "Drepanotermes septentrionalis"
 zh: "北方镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1922"
+type_locality: "Australia: Northern Territory: Darwin"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

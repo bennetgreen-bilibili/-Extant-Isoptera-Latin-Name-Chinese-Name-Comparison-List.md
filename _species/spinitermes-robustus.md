@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Spinitermes robustus 粗壮针刺白蚁"
+title: "Spinitermes robustus Snyder, 1926 粗壮针刺白蚁"
 latin: "Spinitermes robustus"
 zh: "粗壮针刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: La Paz: Ixiamas [13.769S 68.127W]"
+distribution_zh: "巴西、玻利维亚"
+distribution_en: "Brazil, Bolivia"
+synonym_count: 0
 ---

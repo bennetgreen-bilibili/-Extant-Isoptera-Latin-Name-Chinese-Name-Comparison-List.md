@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Curvitermes odontognathus 齿颚曲白蚁"
+title: "Curvitermes odontognathus Silvestri, 1901 齿颚曲白蚁"
 latin: "Curvitermes odontognathus"
 zh: "齿颚曲白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
+distribution_zh: "巴西、哥伦比亚、玻利维亚、厄瓜多尔"
+distribution_en: "Brazil, Colombia, Bolivia, Ecuador"
+synonym_count: 0
 ---

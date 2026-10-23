@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes biroi 比罗锯白蚁"
+title: "Microcerotermes biroi Desneux, 1905 比罗锯白蚁"
 latin: "Microcerotermes biroi"
 zh: "比罗锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1905"
+type_locality: "Papua New Guinea: Kranket (Graget) Island"
+distribution_zh: "南亚、大洋洲、澳大利亚、巴布亚新几内亚、印度、印度尼西亚、萨摩亚、所罗门群岛、汤加"
+distribution_en: "South Asia, Oceania, Australia, Papua New Guinea, India, Indonesia, Samoa, Solomon Islands, Tonga"
+synonym_count: 0
 ---

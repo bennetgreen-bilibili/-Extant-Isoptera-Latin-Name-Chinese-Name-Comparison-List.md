@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hoplognathotermes submissus 地下锐颚白蚁"
+title: "Hoplognathotermes submissus Silvestri, 1914 地下锐颚白蚁"
 latin: "Hoplognathotermes submissus"
 zh: "地下锐颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "旧热带界、喀麦隆"
+distribution_en: "Old World tropics, Cameroon"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes planicapitatus 平头大白蚁"
+title: "Macrotermes planicapitatus Gao & Lau, 1996 平头大白蚁"
 latin: "Macrotermes planicapitatus"
 zh: "平头大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Lau, 1996"
+type_locality: "China: Hong Kong: New Territories: Sheung Shui, Tai Lung Village"
+distribution_zh: "中国香港"
+distribution_en: "China (Hong Kong)"
+synonym_count: 0
 ---

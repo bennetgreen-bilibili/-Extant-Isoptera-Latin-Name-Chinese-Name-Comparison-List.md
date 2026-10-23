@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes assamensis 阿萨姆新白蚁"
+title: "Neotermes assamensis Maiti & Saha, 2000 阿萨姆新白蚁"
 latin: "Neotermes assamensis"
 zh: "阿萨姆新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Maiti & Saha, 2000"
+type_locality: "India: Assam: Dibrugarh"
+distribution_zh: "印度、阿萨姆"
+distribution_en: "India, Assam"
+synonym_count: 0
 ---

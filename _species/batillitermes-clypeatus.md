@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Batillitermes clypeatus 大唇铲白蚁"
+title: "Batillitermes clypeatus Sands, 1995 大唇铲白蚁"
 latin: "Batillitermes clypeatus"
 zh: "大唇铲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1995"
+type_locality: "Nigeria: 40 miles from Abjua on Bida road"
+distribution_zh: "非洲南部、南非、尼日利亚"
+distribution_en: "southern Africa, South Africa, Nigeria"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes takensis 来兴土白蚁"
+title: "Odontotermes takensis Ahmad, 1965 来兴土白蚁"
 latin: "Odontotermes takensis"
 zh: "来兴土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Tak"
+distribution_zh: "东南亚泰国"
+distribution_en: "Southeast Asia, Thailand"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Acangaobitermes krishnai 克里希纳漏斗白蚁"
+title: "Acangaobitermes krishnai Rocha, Cancello & Cuezzo, 2011 克里希纳漏斗白蚁"
 latin: "Acangaobitermes krishnai"
 zh: "克里希纳漏斗白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha, Cancello & Cuezzo, 2011"
+type_locality: "Brasil: Goiás: Parque Nacional das Emas [18.1S 52.91W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

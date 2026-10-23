@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes peshawarensis 白沙瓦土白蚁"
+title: "Odontotermes peshawarensis Akhtar, 1974 白沙瓦土白蚁"
 latin: "Odontotermes peshawarensis"
 zh: "白沙瓦土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: 8 miles from Peshawar"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

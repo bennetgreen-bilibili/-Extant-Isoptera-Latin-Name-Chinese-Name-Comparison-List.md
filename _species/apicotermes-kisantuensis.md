@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes kisantuensis 基桑图尖白蚁"
+title: "Apicotermes kisantuensis Sjöstedt, 1924 基桑图尖白蚁"
 latin: "Apicotermes kisantuensis"
 zh: "基桑图尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Democratic Republic of the Congo: Inkisi-Kisantu"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

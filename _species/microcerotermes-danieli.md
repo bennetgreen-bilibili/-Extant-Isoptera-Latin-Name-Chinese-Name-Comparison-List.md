@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes danieli 丹尼尔锯白蚁"
+title: "Microcerotermes danieli Roonwal & Bose, 1970 丹尼尔锯白蚁"
 latin: "Microcerotermes danieli"
 zh: "丹尼尔锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Bose, 1970"
+type_locality: "India: Andaman Islands: South Andaman Island: Port Blair, near streamlet near Phoenix Bay"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

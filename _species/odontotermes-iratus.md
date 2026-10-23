@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes iratus 愤怒土白蚁"
+title: "Odontotermes iratus Sjöstedt, 1926 愤怒土白蚁"
 latin: "Odontotermes iratus"
 zh: "愤怒土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Gabon: Lam Barénè"
+distribution_zh: "加蓬"
+distribution_en: "Gabon"
+synonym_count: 0
 ---

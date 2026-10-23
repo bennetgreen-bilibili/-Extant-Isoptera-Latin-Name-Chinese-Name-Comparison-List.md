@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes gracilidens 细齿新白蚁"
+title: "Neotermes gracilidens Sjöstedt, 1925 细齿新白蚁"
 latin: "Neotermes gracilidens"
 zh: "细齿新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Sjöstedt, 1925"
+type_locality: "Madagascar: ?"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

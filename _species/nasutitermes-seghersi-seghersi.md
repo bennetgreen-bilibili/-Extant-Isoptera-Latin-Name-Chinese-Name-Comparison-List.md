@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes seghersi seghersi 指名亚种"
+title: "Nasutitermes seghersi seghersi Roisin & Pasteels, 1996 指名亚种"
 latin: "Nasutitermes seghersi seghersi"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes seghersi"
 parent_zh: "西格象白蚁"
 parent_slug: "nasutitermes-seghersi"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Madang Province: Yoro"
+synonym_count: 0
 ---

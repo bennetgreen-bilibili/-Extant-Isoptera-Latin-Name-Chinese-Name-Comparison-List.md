@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dentispicotermes brevicarinatus 短脊齿尖白蚁"
+title: "Dentispicotermes brevicarinatus Emerson, 1950 短脊齿尖白蚁"
 latin: "Dentispicotermes brevicarinatus"
 zh: "短脊齿尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1950"
+type_locality: "Guyana: East Berbice-Corentyne: Oronoque River [ 2.7N 57.42W ]"
+distribution_zh: "圭亚那地盾、法属圭亚那/圭亚那/苏里南、巴西"
+distribution_en: "Guiana Shield, French Guiana/Guyana/Suriname, Brazil"
+synonym_count: 0
 ---

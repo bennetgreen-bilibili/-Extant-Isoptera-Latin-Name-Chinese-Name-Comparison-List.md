@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes gardneriformis 若尖象白蚁"
+title: "Nasutitermes gardneriformis Xia, Gao, Pan & Tang, 1983 若尖象白蚁"
 latin: "Nasutitermes gardneriformis"
 zh: "若尖象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia, Gao, Pan & Tang, 1983"
+type_locality: "China: Sichuan Province: Xuyong"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

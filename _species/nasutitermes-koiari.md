@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes koiari 科伊阿瑞象白蚁"
+title: "Nasutitermes koiari Roisin & Pasteels, 1996 科伊阿瑞象白蚁"
 latin: "Nasutitermes koiari"
 zh: "科伊阿瑞象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Central Province: Sirinumu Dam"
+distribution_zh: "澳大利亚、巴布亚新几内亚"
+distribution_en: "Australia, Papua New Guinea"
+synonym_count: 0
 ---

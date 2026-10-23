@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Aciculitermes maymyoensis 眉妙针白蚁"
+title: "Aciculitermes maymyoensis Krishna, 1965 眉妙针白蚁"
 latin: "Aciculitermes maymyoensis"
 zh: "眉妙针白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1965"
+type_locality: "Myanmar: Maymyo: Botanical Garden"
+distribution_zh: "中国、缅甸、泰国"
+distribution_en: "China, Myanmar, Thailand"
+synonym_count: 0
 ---

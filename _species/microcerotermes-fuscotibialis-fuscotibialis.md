@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes fuscotibialis fuscotibialis 指名亚种"
+title: "Microcerotermes fuscotibialis fuscotibialis Sjöstedt, 1896 指名亚种"
 latin: "Microcerotermes fuscotibialis fuscotibialis"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microcerotermes fuscotibialis"
 parent_zh: "棕胫锯白蚁"
 parent_slug: "microcerotermes-fuscotibialis"
+author_year: "Sjöstedt, 1896"
+type_locality: "Cameroon: Bonge"
+synonym_count: 0
 ---

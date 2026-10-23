@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes bahamensis 巴哈马解甲白蚁"
+title: "Anoplotermes bahamensis Scheffrahn & Krecek, 2006 巴哈马解甲白蚁"
 latin: "Anoplotermes bahamensis"
 zh: "巴哈马解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn & Krecek, 2006"
+type_locality: "Bahamas: Eleuthera Island: North Bluff"
+distribution_zh: "巴哈马"
+distribution_en: "Bahamas"
+synonym_count: 0
 ---

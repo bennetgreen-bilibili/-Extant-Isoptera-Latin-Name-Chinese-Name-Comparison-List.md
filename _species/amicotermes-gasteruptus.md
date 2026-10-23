@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amicotermes gasteruptus 腰肠善白蚁"
+title: "Amicotermes gasteruptus Sands, 1999 腰肠善白蚁"
 latin: "Amicotermes gasteruptus"
 zh: "腰肠善白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1999"
+type_locality: "Cameroon: Mbalmayo Forest Reserve: Ebogo [ 3.382N 11.463E ]"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

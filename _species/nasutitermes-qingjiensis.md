@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes qingjiensis 庆界象白蚁"
+title: "Nasutitermes qingjiensis Li, 1979 庆界象白蚁"
 latin: "Nasutitermes qingjiensis"
 zh: "庆界象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1979"
+type_locality: "China: Zhejiang Province: Longquan County: Ruixiang Commune: Qingjie Brigade, Huangnikeng"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

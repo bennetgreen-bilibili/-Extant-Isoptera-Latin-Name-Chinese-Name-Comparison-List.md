@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes acrocephalus 隆头大白蚁"
+title: "Macrotermes acrocephalus Ping, 1985 隆头大白蚁"
 latin: "Macrotermes acrocephalus"
 zh: "隆头大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1985"
+type_locality: "China: Yunnan Province: Ruili"
+distribution_zh: "中国云南、瑞丽"
+distribution_en: "Yunnan, China, Ruili"
+synonym_count: 0
 ---

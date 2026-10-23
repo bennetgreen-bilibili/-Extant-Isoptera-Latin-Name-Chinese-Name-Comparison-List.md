@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes celebensis 西里伯斯土白蚁"
+title: "Odontotermes celebensis Holmgren, 1913 西里伯斯土白蚁"
 latin: "Odontotermes celebensis"
 zh: "西里伯斯土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Sulawesi: Rurukan"
+distribution_zh: "东南亚印度尼西亚"
+distribution_en: "Southeast Asia (Indonesia)"
+synonym_count: 0
 ---

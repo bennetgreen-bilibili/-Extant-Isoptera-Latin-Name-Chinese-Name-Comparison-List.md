@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anenteotermes ateuchestes 无锐无甲白蚁"
+title: "Anenteotermes ateuchestes Sands, 1972 无锐无甲白蚁"
 latin: "Anenteotermes ateuchestes"
 zh: "无锐无甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Gambia: 11 m. from Bathurst on Yundum Road"
+distribution_zh: "喀麦隆、冈比亚、坦桑尼亚"
+distribution_en: "Cameroon, Gambia, Tanzania"
+synonym_count: 0
 ---

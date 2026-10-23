@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes brevicornis 短角瓢白蚁"
+title: "Bulbitermes brevicornis Light & Wilson, 1936 短角瓢白蚁"
 latin: "Bulbitermes brevicornis"
 zh: "短角瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Mindanao: Cotabato Province"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

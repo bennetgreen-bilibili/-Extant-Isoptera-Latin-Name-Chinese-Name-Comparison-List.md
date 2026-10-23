@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes zhaoi 赵氏散白蚁"
+title: "Reticulitermes zhaoi Ping & Li, 1983 赵氏散白蚁"
 latin: "Reticulitermes zhaoi"
 zh: "赵氏散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1983"
+type_locality: "China: Fujian Province: Jianyang County: Dazhulan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

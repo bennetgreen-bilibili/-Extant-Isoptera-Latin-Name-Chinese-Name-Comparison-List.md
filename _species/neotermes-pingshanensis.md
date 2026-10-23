@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes pingshanensis 屏山新白蚁"
+title: "Neotermes pingshanensis Tan & Peng, 2009 屏山新白蚁"
 latin: "Neotermes pingshanensis"
 zh: "屏山新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Tan & Peng, 2009"
+type_locality: "China: Sichuan Province: Pingshan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

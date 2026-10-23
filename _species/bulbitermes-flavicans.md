@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes flavicans 黄色瓢白蚁"
+title: "Bulbitermes flavicans Holmgren, 1913 黄色瓢白蚁"
 latin: "Bulbitermes flavicans"
 zh: "黄色瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "东南亚、印度尼西亚、马来西亚"
+distribution_en: "Southeast Asia, Indonesia, Malaysia"
+synonym_count: 0
 ---

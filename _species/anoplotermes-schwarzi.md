@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes schwarzi 施瓦茨解甲白蚁"
+title: "Anoplotermes schwarzi Banks, 1919 施瓦茨解甲白蚁"
 latin: "Anoplotermes schwarzi"
 zh: "施瓦茨解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Banks, 1919"
+type_locality: "Cuba: Cayamas"
+distribution_zh: "古巴"
+distribution_en: "Cuba"
+synonym_count: 0
 ---

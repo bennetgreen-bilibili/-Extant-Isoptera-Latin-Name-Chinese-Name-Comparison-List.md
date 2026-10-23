@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes bengalensis 西孟加拉杆白蚁"
+title: "Stylotermes bengalensis Mathur & Chhotani, 1959 西孟加拉杆白蚁"
 latin: "Stylotermes bengalensis"
 zh: "西孟加拉杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Mathur & Chhotani, 1959"
+type_locality: "India: West Bengal: Darjeeling Division"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

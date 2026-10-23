@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes prosilvaticus 近森林伪扭白蚁"
+title: "Pseudocapritermes prosilvaticus Akhtar & Afzal, 1989 近森林伪扭白蚁"
 latin: "Pseudocapritermes prosilvaticus"
 zh: "近森林伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Afzal, 1989"
+type_locality: "Malaysia: Sabah: Quoin Hill"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Indotermes yunnanensis 云南印白蚁"
+title: "Indotermes yunnanensis He & Xia, 1981 云南印白蚁"
 latin: "Indotermes yunnanensis"
 zh: "云南印白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Xia, 1981"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

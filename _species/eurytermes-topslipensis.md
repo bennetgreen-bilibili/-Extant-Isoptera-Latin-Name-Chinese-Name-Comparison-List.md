@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes topslipensis 托普斯利普宽白蚁"
+title: "Eurytermes topslipensis Chatterjee & Thapa, 1963 托普斯利普宽白蚁"
 latin: "Eurytermes topslipensis"
 zh: "托普斯利普宽白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Thapa, 1963"
+type_locality: "India: Tamil Nadu: Topslip: Mount Stuart"
+distribution_zh: "南亚、印度西高止山"
+distribution_en: "South Asia, Western Ghats, India"
+synonym_count: 0
 ---

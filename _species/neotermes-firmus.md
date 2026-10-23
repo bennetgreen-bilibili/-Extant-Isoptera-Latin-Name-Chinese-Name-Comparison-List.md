@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes firmus 坚固新白蚁"
+title: "Neotermes firmus Sjöstedt, 1911 坚固新白蚁"
 latin: "Neotermes firmus"
 zh: "坚固新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Kenya: River Luazomela near Guaso Nyiri N of Mt Kenya"
+distribution_zh: "肯尼亚"
+distribution_en: "Kenya"
+synonym_count: 0
 ---

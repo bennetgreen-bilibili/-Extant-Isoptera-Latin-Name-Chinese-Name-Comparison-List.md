@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes gutianensis 古田近扭白蚁"
+title: "Pericapritermes gutianensis Li & Ma, 1983 古田近扭白蚁"
 latin: "Pericapritermes gutianensis"
 zh: "古田近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ma, 1983"
+type_locality: "China: Fujian Province: Shanghang: Gutian"
+distribution_zh: "中国福建"
+distribution_en: "China (Fujian)"
+synonym_count: 0
 ---

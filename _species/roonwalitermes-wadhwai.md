@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Roonwalitermes wadhwai 沃德瓦鲁恩沃白蚁"
+title: "Roonwalitermes wadhwai Bose, 1997 沃德瓦鲁恩沃白蚁"
 latin: "Roonwalitermes wadhwai"
 zh: "沃德瓦鲁恩沃白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1997"
+type_locality: "India: Meghalaya: Mawphlang"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

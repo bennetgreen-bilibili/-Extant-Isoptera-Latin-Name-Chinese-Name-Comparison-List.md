@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Aganotermes oryctes 挖者雅白蚁"
+title: "Aganotermes oryctes Sands, 1972 挖者雅白蚁"
 latin: "Aganotermes oryctes"
 zh: "挖者雅白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "South Africa: Transvaal: Letaba"
+distribution_zh: "南非、赞比亚、津巴布韦"
+distribution_en: "South Africa, Zambia, Zimbabwe"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes darwini 达尔文弓白蚁"
+title: "Amitermes darwini Hill, 1922 达尔文弓白蚁"
 latin: "Amitermes darwini"
 zh: "达尔文弓白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1922"
+type_locality: "Australia: Northern Territory: Darwin"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Hamitermes willingsi Hill, 1935: 20-21"
+synonym_localities: "Australia: Northern Territory: Marrakai"
 ---

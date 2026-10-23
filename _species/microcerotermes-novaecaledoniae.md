@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes novaecaledoniae 新喀里多尼亚锯白蚁"
+title: "Microcerotermes novaecaledoniae Holmgren & Holmgren, 1915 新喀里多尼亚锯白蚁"
 latin: "Microcerotermes novaecaledoniae"
 zh: "新喀里多尼亚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1915"
+type_locality: "New Caledonia (French): Bogota-Rücken; Coné; La Madeleine; Umgebung von Yaté; near Canala"
+distribution_zh: "大洋洲、新喀里多尼亚"
+distribution_en: "Oceania, New Caledonia"
+synonym_count: 0
 ---

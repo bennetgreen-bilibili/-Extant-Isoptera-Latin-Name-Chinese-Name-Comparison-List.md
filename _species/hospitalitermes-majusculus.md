@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes majusculus 大须白蚁"
+title: "Hospitalitermes majusculus He & Gao, 1984 大须白蚁"
 latin: "Hospitalitermes majusculus"
 zh: "大须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Gao, 1984"
+type_locality: "China: Yunnan Province: Damenglong: Baka"
+distribution_zh: "云南（大勐龙、巴卡）、中国"
+distribution_en: "Yunnan (Damenglong, Baka), China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes paracelebensis 似西里伯斯锯白蚁"
+title: "Microcerotermes paracelebensis Ahmad, 1965 似西里伯斯锯白蚁"
 latin: "Microcerotermes paracelebensis"
 zh: "似西里伯斯锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "马来西亚、泰国"
+distribution_en: "Malaysia, Thailand"
+synonym_count: 0
 ---

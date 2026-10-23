@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes bolivari 玻利瓦尔象白蚁"
+title: "Nasutitermes bolivari Snyder, 1959 玻利瓦尔象白蚁"
 latin: "Nasutitermes bolivari"
 zh: "玻利瓦尔象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1959"
+type_locality: "Venezuela: Bolivar: Guayaraca (near Mt. Auyantepui) [5.68333N 62.5333W]"
+distribution_zh: "玻利维亚、巴西、委内瑞拉"
+distribution_en: "Bolivia, Brazil, Venezuela"
+synonym_count: 0
 ---

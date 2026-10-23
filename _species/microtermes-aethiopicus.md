@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes aethiopicus 埃塞俄比亚小白蚁"
+title: "Microtermes aethiopicus Barnett, Cowie & Wood, 1988 埃塞俄比亚小白蚁"
 latin: "Microtermes aethiopicus"
 zh: "埃塞俄比亚小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Barnett, Cowie & Wood, 1988"
+type_locality: "Ethiopia: grounds of Sodo police station"
+distribution_zh: "埃塞俄比亚"
+distribution_en: "Ethiopia"
+synonym_count: 0
 ---

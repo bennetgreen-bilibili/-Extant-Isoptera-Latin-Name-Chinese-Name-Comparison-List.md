@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes cooloola 库鲁拉乳白蚁"
+title: "Coptotermes cooloola Lee, Evans, Cameron, Ho, Namyatova & Lo, 2017 库鲁拉乳白蚁"
 latin: "Coptotermes cooloola"
 zh: "库鲁拉乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Lee, Evans, Cameron, Ho, Namyatova & Lo, 2017"
+type_locality: "Australia: Queensland: Springfield"
+distribution_zh: "澳大利亚昆士兰东南部"
+distribution_en: "southeastern Queensland, Australia"
+synonym_count: 0
 ---

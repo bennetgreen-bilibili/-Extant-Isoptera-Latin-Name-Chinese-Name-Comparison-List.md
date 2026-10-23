@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes karnatakensis 卡纳塔克亮白蚁"
+title: "Euhamitermes karnatakensis Roonwal & Chhotani, 1965 卡纳塔克亮白蚁"
 latin: "Euhamitermes karnatakensis"
 zh: "卡纳塔克亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1965"
+type_locality: "India: Karnataka (Mysore): Dharwar, open ground opposite Karnataka University Compound, coll. sta. No. 5"
+distribution_zh: "印度卡纳塔克"
+distribution_en: "Karnataka, India"
+synonym_count: 0
 ---

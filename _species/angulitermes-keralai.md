@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes keralai 喀拉拉角白蚁"
+title: "Angulitermes keralai Verma, 1984 喀拉拉角白蚁"
 latin: "Angulitermes keralai"
 zh: "喀拉拉角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Verma, 1984"
+type_locality: "India: Kerala: Kondazhi"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

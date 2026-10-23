@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Gnathamitermes grandis 大颚钩白蚁"
+title: "Gnathamitermes grandis Light, 1930 大颚钩白蚁"
 latin: "Gnathamitermes grandis"
 zh: "大颚钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1930"
+type_locality: "Mexico: Guadalajara"
+distribution_zh: "中美洲墨西哥"
+distribution_en: "Central America (Mexico)"
+synonym_count: 0
 ---

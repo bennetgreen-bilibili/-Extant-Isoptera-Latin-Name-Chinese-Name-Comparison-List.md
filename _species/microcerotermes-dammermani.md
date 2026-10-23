@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes dammermani 达梅尔曼锯白蚁"
+title: "Microcerotermes dammermani Roonwal & Maiti, 1966 达梅尔曼锯白蚁"
 latin: "Microcerotermes dammermani"
 zh: "达梅尔曼锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Maiti, 1966"
+type_locality: "Indonesia: Riouw (Rhio) Archipelago: Durian"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

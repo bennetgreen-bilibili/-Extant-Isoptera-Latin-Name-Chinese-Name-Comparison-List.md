@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes stercorivorus 食粪土白蚁"
+title: "Odontotermes stercorivorus Sjöstedt, 1907 食粪土白蚁"
 latin: "Odontotermes stercorivorus"
 zh: "食粪土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1907"
+type_locality: "Tanzania: Kilimanjaro: Kibonoto"
+distribution_zh: "东非肯尼亚、坦桑尼亚"
+distribution_en: "East Africa (Kenya, Tanzania)"
+synonym_count: 0
 ---

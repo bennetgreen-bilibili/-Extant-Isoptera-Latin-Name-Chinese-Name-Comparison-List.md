@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes chebalingensis 车八岭大白蚁"
+title: "Macrotermes chebalingensis Ping & Xu, 1993 车八岭大白蚁"
 latin: "Macrotermes chebalingensis"
 zh: "车八岭大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1993"
+type_locality: "China: Guangdong Province: Shixing County: Chebaling"
+distribution_zh: "中国广东、始兴车八岭"
+distribution_en: "Guangdong, China, Shixing Chebaling"
+synonym_count: 0
 ---

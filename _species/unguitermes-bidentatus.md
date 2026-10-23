@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Unguitermes bidentatus 双齿爪白蚁"
+title: "Unguitermes bidentatus Silvestri, 1914 双齿爪白蚁"
 latin: "Unguitermes bidentatus"
 zh: "双齿爪白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "喀麦隆、刚果民主共和国、尼日利亚"
+distribution_en: "Cameroon, Democratic Republic of the Congo, Nigeria"
+synonym_count: 0
 ---

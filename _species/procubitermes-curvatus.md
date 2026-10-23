@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes curvatus 弯曲原方白蚁"
+title: "Procubitermes curvatus Silvestri, 1914 弯曲原方白蚁"
 latin: "Procubitermes curvatus"
 zh: "弯曲原方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne"
+distribution_zh: "加纳、几内亚、科特迪瓦、利比里亚"
+distribution_en: "Ghana, Guinea, Côte d'Ivoire, Liberia"
+synonym_count: 0
 ---

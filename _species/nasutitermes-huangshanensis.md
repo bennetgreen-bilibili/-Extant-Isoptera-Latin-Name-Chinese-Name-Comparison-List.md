@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes huangshanensis 黄山象白蚁"
+title: "Nasutitermes huangshanensis Gao & Chen, 1992 黄山象白蚁"
 latin: "Nasutitermes huangshanensis"
 zh: "黄山象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Chen, 1992"
+type_locality: "China: Anhui Province: Mt. Huang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

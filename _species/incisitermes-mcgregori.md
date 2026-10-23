@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Incisitermes mcgregori 麦格雷戈楹白蚁"
+title: "Incisitermes mcgregori Light, 1921 麦格雷戈楹白蚁"
 latin: "Incisitermes mcgregori"
 zh: "麦格雷戈楹白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Light, 1921"
+type_locality: "Philippines: Luzon: Rizal Province: Culi Culi, near Manila"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

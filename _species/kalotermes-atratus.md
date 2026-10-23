@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kalotermes atratus 黑色木白蚁"
+title: "Kalotermes atratus Hill, 1933 黑色木白蚁"
 latin: "Kalotermes atratus"
 zh: "黑色木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hill, 1933"
+type_locality: "Australia: New South Wales, near Appin"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

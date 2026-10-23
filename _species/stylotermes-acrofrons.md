@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes acrofrons 丘额杆白蚁"
+title: "Stylotermes acrofrons Ping & Liu, 1981 丘额杆白蚁"
 latin: "Stylotermes acrofrons"
 zh: "丘额杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Liu, 1981"
+type_locality: "China: Sichuan Province: Ningnan Xian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

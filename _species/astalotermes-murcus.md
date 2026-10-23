@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes murcus 懦弱无利器白蚁"
+title: "Astalotermes murcus Sands, 1972 懦弱无利器白蚁"
 latin: "Astalotermes murcus"
 zh: "懦弱无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Zambia: Ndola"
+distribution_zh: "非洲热带、喀麦隆、刚果、赞比亚"
+distribution_en: "tropical Africa, Cameroon, Congo, Zambia"
+synonym_count: 0
 ---

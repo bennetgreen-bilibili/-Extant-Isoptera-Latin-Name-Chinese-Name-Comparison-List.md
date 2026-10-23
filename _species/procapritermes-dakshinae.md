@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procapritermes dakshinae 戴克夏娜前扭白蚁"
+title: "Procapritermes dakshinae Chhotani & Ferry, 1995 戴克夏娜前扭白蚁"
 latin: "Procapritermes dakshinae"
 zh: "戴克夏娜前扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani & Ferry, 1995"
+type_locality: "India: Kerala: on road from Kolattupuzha to Nedumangad, vicinity of village Arippal"
+distribution_zh: "印度喀拉拉"
+distribution_en: "India, Kerala"
+synonym_count: 0
 ---

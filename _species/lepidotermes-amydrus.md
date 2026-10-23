@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lepidotermes amydrus 幽暗鳞白蚁"
+title: "Lepidotermes amydrus Uys, 1994 幽暗鳞白蚁"
 latin: "Lepidotermes amydrus"
 zh: "幽暗鳞白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Uys, 1994"
+type_locality: "Namibia: 64 km ex Windhoek-Gallschau crossroads"
+distribution_zh: "非洲南部、南非"
+distribution_en: "southern Africa, South Africa"
+synonym_count: 0
 ---

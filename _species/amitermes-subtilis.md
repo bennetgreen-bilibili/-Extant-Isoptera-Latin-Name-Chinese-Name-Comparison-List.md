@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes subtilis 微型弓白蚁"
+title: "Amitermes subtilis Gay, 1968 微型弓白蚁"
 latin: "Amitermes subtilis"
 zh: "微型弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Queensland: 10 mi E Mt. Garnet"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

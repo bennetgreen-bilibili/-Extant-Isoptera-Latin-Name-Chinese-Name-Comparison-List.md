@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes menglianensis 孟连钩白蚁"
+title: "Ancistrotermes menglianensis Zhu & Wang, 1991 孟连钩白蚁"
 latin: "Ancistrotermes menglianensis"
 zh: "孟连钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Wang, 1991"
+type_locality: "China: Yunnan Province: Autonomous County of Menglian: Dai-Lahu-Va"
+distribution_zh: "云南（孟连1020m）"
+distribution_en: "Yunnan (Menglian 1020m)"
+synonym_count: 0
 ---

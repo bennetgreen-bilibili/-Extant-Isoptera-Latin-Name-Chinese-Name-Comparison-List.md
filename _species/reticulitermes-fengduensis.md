@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes fengduensis 丰都散白蚁"
+title: "Reticulitermes fengduensis Ping & Chen, 1984 丰都散白蚁"
 latin: "Reticulitermes fengduensis"
 zh: "丰都散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Chen, 1984"
+type_locality: "China: Sichuan Province: Fengdu County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

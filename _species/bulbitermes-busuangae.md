@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes busuangae 布桑加瓢白蚁"
+title: "Bulbitermes busuangae Light & Wilson, 1936 布桑加瓢白蚁"
 latin: "Bulbitermes busuangae"
 zh: "布桑加瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Palawan: Busuanga Island: Coron"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

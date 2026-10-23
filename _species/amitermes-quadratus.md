@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes quadratus 方头弓白蚁"
+title: "Amitermes quadratus Gay, 1968 方头弓白蚁"
 latin: "Amitermes quadratus"
 zh: "方头弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: 30 mi NE Meekatharra"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

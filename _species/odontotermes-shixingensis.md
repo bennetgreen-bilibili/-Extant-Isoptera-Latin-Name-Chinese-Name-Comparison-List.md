@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes shixingensis 始兴土白蚁"
+title: "Odontotermes shixingensis Ping & Xu, 1993 始兴土白蚁"
 latin: "Odontotermes shixingensis"
 zh: "始兴土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1993"
+type_locality: "China: Guangdong Province: Shixing County: Wuzhishan of Chebaling"
+distribution_zh: "中国广东"
+distribution_en: "China (Guangdong)"
+synonym_count: 0
 ---

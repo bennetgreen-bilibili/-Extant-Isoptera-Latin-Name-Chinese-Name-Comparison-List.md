@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes andamanensis 安达曼新白蚁"
+title: "Neotermes andamanensis Snyder, 1933 安达曼新白蚁"
 latin: "Neotermes andamanensis"
 zh: "安达曼新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1933"
+type_locality: "India: Andaman Islands: North Andaman Island"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

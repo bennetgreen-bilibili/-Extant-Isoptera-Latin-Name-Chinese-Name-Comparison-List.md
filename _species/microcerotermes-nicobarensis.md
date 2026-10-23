@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes nicobarensis 尼科巴锯白蚁"
+title: "Microcerotermes nicobarensis Roonwal & Bose, 1970 尼科巴锯白蚁"
 latin: "Microcerotermes nicobarensis"
 zh: "尼科巴锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Bose, 1970"
+type_locality: "India: Nicobar Islands: Car Nicobar Island: Arong village"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

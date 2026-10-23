@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes panayensis 班乃象白蚁"
+title: "Nasutitermes panayensis Oshima, 1920 班乃象白蚁"
 latin: "Nasutitermes panayensis"
 zh: "班乃象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1920"
+type_locality: "Philippines: Panay: Antique Province: Culasi"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

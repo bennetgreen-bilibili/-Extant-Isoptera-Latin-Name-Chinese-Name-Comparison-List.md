@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dihoplotermes taurus 公牛双戟白蚁"
+title: "Dihoplotermes taurus Azevedo, Dambros & Morais, 2019 公牛双戟白蚁"
 latin: "Dihoplotermes taurus"
 zh: "公牛双戟白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Azevedo, Dambros & Morais, 2019"
+type_locality: "Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM [2.633S 60.1072W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

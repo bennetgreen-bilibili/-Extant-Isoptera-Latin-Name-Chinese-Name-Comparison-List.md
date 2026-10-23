@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes birmanicus 缅甸须白蚁"
+title: "Hospitalitermes birmanicus Snyder, 1934 缅甸须白蚁"
 latin: "Hospitalitermes birmanicus"
 zh: "缅甸须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1934"
+type_locality: "Myanmar: Hsipaw"
+distribution_zh: "缅甸、泰国"
+distribution_en: "Myanmar, Thailand"
+synonym_count: 0
 ---

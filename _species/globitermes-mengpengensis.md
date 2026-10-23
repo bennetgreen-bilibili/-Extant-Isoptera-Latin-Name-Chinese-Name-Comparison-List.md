@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Globitermes mengpengensis 勐捧球白蚁"
+title: "Globitermes mengpengensis Zhu & Huang, 1990 勐捧球白蚁"
 latin: "Globitermes mengpengensis"
 zh: "勐捧球白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Huang, 1990"
+type_locality: "China: Yunnan Province: Mengla County: Mengpeng Hill"
+distribution_zh: "云南（勐腊勐棒 640 m）、中国"
+distribution_en: "Yunnan (Mengla Mengbang 640 m), China"
+synonym_count: 0
 ---

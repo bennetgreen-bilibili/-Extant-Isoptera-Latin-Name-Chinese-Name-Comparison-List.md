@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes tsaii 蔡氏树白蚁"
+title: "Glyptotermes tsaii Huang & Zhu, 1986 蔡氏树白蚁"
 latin: "Glyptotermes tsaii"
 zh: "蔡氏树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Huang & Zhu, 1986"
+type_locality: "China: Yunnan Province: Gongshan County: Drung-Nu"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

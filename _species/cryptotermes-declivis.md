@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes declivis 铲头堆砂白蚁"
+title: "Cryptotermes declivis Tsai & Chen, 1963 铲头堆砂白蚁"
 latin: "Cryptotermes declivis"
 zh: "铲头堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Guangdong: Chaochow"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

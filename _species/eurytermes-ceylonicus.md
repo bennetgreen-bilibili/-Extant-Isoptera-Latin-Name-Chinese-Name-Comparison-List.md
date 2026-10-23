@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes ceylonicus 锡兰宽白蚁"
+title: "Eurytermes ceylonicus Holmgren, 1913 锡兰宽白蚁"
 latin: "Eurytermes ceylonicus"
 zh: "锡兰宽白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Sri Lanka: ?"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 1
+synonyms: "Eutermes ceyloniellus Kemner, 1926: 389"
+synonym_localities: "Sri Lanka: Badulla"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes monosetosus 单毛乳白蚁"
+title: "Coptotermes monosetosus Tsai & Li, 1985 单毛乳白蚁"
 latin: "Coptotermes monosetosus"
 zh: "单毛乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Li, 1985"
+type_locality: "China: Hainan Island: Yaxian County"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

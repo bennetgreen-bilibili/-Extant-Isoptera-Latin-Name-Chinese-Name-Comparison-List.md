@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes jiangchengensis 江城瘤白蚁"
+title: "Mirocapritermes jiangchengensis Yang, Zhu & Huang, 1995 江城瘤白蚁"
 latin: "Mirocapritermes jiangchengensis"
 zh: "江城瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Yang, Zhu & Huang, 1995"
+type_locality: "China: Yunnan Province"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

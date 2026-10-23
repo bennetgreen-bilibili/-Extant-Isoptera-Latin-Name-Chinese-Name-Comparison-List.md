@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes curvatus 弯颚杆白蚁"
+title: "Stylotermes curvatus Ping & Xu, 1984 弯颚杆白蚁"
 latin: "Stylotermes curvatus"
 zh: "弯颚杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Xu, 1984"
+type_locality: "China: Guizhou Province: Liping"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

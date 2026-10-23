@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procapritermes keralai 喀拉拉前扭白蚁"
+title: "Procapritermes keralai Chhotani & Ferry, 1995 喀拉拉前扭白蚁"
 latin: "Procapritermes keralai"
 zh: "喀拉拉前扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani & Ferry, 1995"
+type_locality: "India: Kerala: 5 km from road from Kothamangalam to Munnar"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes grassii 格拉塞须白蚁"
+title: "Hospitalitermes grassii Ghidini, 1937 格拉塞须白蚁"
 latin: "Hospitalitermes grassii"
 zh: "格拉塞须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1937"
+type_locality: "Indonesia: Sumatra: Fort de Kock"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

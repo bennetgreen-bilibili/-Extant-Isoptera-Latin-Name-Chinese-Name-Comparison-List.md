@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes nitens 光亮堆砂白蚁"
+title: "Cryptotermes nitens Scheffrahn & Krecek, 1999 光亮堆砂白蚁"
 latin: "Cryptotermes nitens"
 zh: "光亮堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn & Krecek, 1999"
+type_locality: "Cayman Islands: Little Cayman Island: Pirates’ Point Resort"
+distribution_zh: "开曼群岛、古巴、牙买加"
+distribution_en: "Cayman Islands, Cuba, Jamaica"
+synonym_count: 0
 ---

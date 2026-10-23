@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes somaliensis 索马里小白蚁"
+title: "Microtermes somaliensis Sjöstedt, 1912 索马里小白蚁"
 latin: "Microtermes somaliensis"
 zh: "索马里小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1912"
+type_locality: "Somalia: Bardera"
+distribution_zh: "东非、索马里"
+distribution_en: "East Africa, Somalia"
+synonym_count: 0
 ---

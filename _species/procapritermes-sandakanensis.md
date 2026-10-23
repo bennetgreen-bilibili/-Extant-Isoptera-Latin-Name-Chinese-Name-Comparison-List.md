@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procapritermes sandakanensis 山打根前扭白蚁"
+title: "Procapritermes sandakanensis Thapa, 1982 山打根前扭白蚁"
 latin: "Procapritermes sandakanensis"
 zh: "山打根前扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Sandakan North District: Labuk Road, mile 45"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

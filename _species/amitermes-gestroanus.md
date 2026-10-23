@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes gestroanus 客栖弓白蚁"
+title: "Amitermes gestroanus Sjöstedt, 1912 客栖弓白蚁"
 latin: "Amitermes gestroanus"
 zh: "客栖弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1912"
+type_locality: "Ethiopia: Scioa: Gherba"
+distribution_zh: "埃塞俄比亚"
+distribution_en: "Ethiopia"
+synonym_count: 0
 ---

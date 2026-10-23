@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amicotermes galenus 盖伦善白蚁"
+title: "Amicotermes galenus Sands, 1972 盖伦善白蚁"
 latin: "Amicotermes galenus"
 zh: "盖伦善白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville"
+distribution_zh: "刚果民主共和国、尼日利亚"
+distribution_en: "Democratic Republic of the Congo, Nigeria"
+synonym_count: 0
 ---

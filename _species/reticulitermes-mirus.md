@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes mirus 陌宽散白蚁"
+title: "Reticulitermes mirus Gao, Zhu & Zhao, 1985 陌宽散白蚁"
 latin: "Reticulitermes mirus"
 zh: "陌宽散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao, Zhu & Zhao, 1985"
+type_locality: "China: Guangdong Province: Zhaoquing"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

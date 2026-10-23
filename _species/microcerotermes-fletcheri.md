@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes fletcheri 弗莱彻锯白蚁"
+title: "Microcerotermes fletcheri Holmgren & Holmgren, 1917 弗莱彻锯白蚁"
 latin: "Microcerotermes fletcheri"
 zh: "弗莱彻锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Karnataka: Mysore: Bababudin Hills"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

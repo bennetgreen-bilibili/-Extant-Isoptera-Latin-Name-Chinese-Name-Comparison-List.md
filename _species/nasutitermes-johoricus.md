@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes johoricus 柔佛象白蚁"
+title: "Nasutitermes johoricus John, 1925 柔佛象白蚁"
 latin: "Nasutitermes johoricus"
 zh: "柔佛象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "John, 1925"
+type_locality: "Malaysia: Johore: Segamat"
+distribution_zh: "马来西亚、泰国"
+distribution_en: "Malaysia, Thailand"
+synonym_count: 0
 ---

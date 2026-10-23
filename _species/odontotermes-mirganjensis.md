@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes mirganjensis 米尔甘杰土白蚁"
+title: "Odontotermes mirganjensis Holmgren & Holmgren, 1917 米尔甘杰土白蚁"
 latin: "Odontotermes mirganjensis"
 zh: "米尔甘杰土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Bihar: Mirganj"
+distribution_zh: "孟加拉国、印度"
+distribution_en: "Bangladesh, India"
+synonym_count: 0
 ---

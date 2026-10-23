@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes tredecimarticulatus 十三节象白蚁"
+title: "Nasutitermes tredecimarticulatus Holmgren, 1910 十三节象白蚁"
 latin: "Nasutitermes tredecimarticulatus"
 zh: "十三节象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Ecuador: ?"
+distribution_zh: "巴西、厄瓜多尔"
+distribution_en: "Brazil, Ecuador"
+synonym_count: 0
 ---

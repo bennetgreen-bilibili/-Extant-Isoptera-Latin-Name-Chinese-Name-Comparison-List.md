@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Armitermes armiger 具戟戟白蚁"
+title: "Armitermes armiger Motschulsky, 1855 具戟戟白蚁"
 latin: "Armitermes armiger"
 zh: "具戟戟白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Motschulsky, 1855"
+type_locality: "Panama: Obispo"
+distribution_zh: "巴拿马、哥斯达黎加"
+distribution_en: "Panama, Costa Rica"
+synonym_count: 0
 ---

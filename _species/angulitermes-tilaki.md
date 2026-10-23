@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes tilaki 蒂拉克角白蚁"
+title: "Angulitermes tilaki Roonwal & Chhotani, 1971 蒂拉克角白蚁"
 latin: "Angulitermes tilaki"
 zh: "蒂拉克角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1971"
+type_locality: "India: Jammu and Kashmir: Udhampur District, ca. 1 km W Chineni, near confluence of River Tawi and Motor Shed Nullah"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

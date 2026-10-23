@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes corporaali 科尔波弱尔象白蚁"
+title: "Nasutitermes corporaali Wasmann, 1922 科尔波弱尔象白蚁"
 latin: "Nasutitermes corporaali"
 zh: "科尔波弱尔象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1922"
+type_locality: "Indonesia: Java: Preanger: Tjigembong"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

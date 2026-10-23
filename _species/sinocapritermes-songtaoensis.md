@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes songtaoensis 松桃华扭白蚁"
+title: "Sinocapritermes songtaoensis He, 1993 松桃华扭白蚁"
 latin: "Sinocapritermes songtaoensis"
 zh: "松桃华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He, 1993"
+type_locality: "China: Guizhou Province: Songtao County"
+distribution_zh: "中国、贵州"
+distribution_en: "China, Guizhou"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes ruiliensis 瑞丽地白蚁"
+title: "Hypotermes ruiliensis Zhu & Wang, 1990 瑞丽地白蚁"
 latin: "Hypotermes ruiliensis"
 zh: "瑞丽地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Wang, 1990"
+type_locality: "China: Yunnan Province: Ruili County: Wanding"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

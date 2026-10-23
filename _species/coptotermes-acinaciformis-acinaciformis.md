@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes acinaciformis acinaciformis 指名亚种"
+title: "Coptotermes acinaciformis acinaciformis Froggatt, 1898 指名亚种"
 latin: "Coptotermes acinaciformis acinaciformis"
 zh: "指名亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Coptotermes acinaciformis"
 parent_zh: "短刀乳白蚁"
 parent_slug: "coptotermes-acinaciformis"
+author_year: "Froggatt, 1898"
+type_locality: "Australia: Western Australia: Halls Creek"
+synonym_count: 0
 ---

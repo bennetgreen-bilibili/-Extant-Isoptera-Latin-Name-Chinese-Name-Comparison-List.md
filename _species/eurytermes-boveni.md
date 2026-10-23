@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes boveni 博文宽白蚁"
+title: "Eurytermes boveni Roonwal & Chhotani, 1966 博文宽白蚁"
 latin: "Eurytermes boveni"
 zh: "博文宽白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1966"
+type_locality: "India: Madya Pradesh: Mandala District: Kanha National Park"
+distribution_zh: "东洋界、印度"
+distribution_en: "Oriental region, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes sciangallorum 夏安盖洛姆弓白蚁"
+title: "Amitermes sciangallorum Ghidini, 1941 夏安盖洛姆弓白蚁"
 latin: "Amitermes sciangallorum"
 zh: "夏安盖洛姆弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1941"
+type_locality: "Ethiopia: Murlè"
+distribution_zh: "埃塞俄比亚、肯尼亚、苏丹、坦桑尼亚"
+distribution_en: "Ethiopia, Kenya, Sudan, Tanzania"
+synonym_count: 0
 ---

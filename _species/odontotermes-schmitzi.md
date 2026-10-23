@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes schmitzi 施米茨土白蚁"
+title: "Odontotermes schmitzi Emerson, 1928 施米茨土白蚁"
 latin: "Odontotermes schmitzi"
 zh: "施米茨土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "西非贝宁、刚果民主共和国、苏丹"
+distribution_en: "West Africa, Benin, Democratic Republic of the Congo, Sudan"
+synonym_count: 0
 ---

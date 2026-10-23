@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Diversitermes tiapuan 长简鼻歧白蚁"
+title: "Diversitermes tiapuan Oliveira & Constantino, 2016 长简鼻歧白蚁"
 latin: "Diversitermes tiapuan"
 zh: "长简鼻歧白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oliveira & Constantino, 2016"
+type_locality: "Brasil: Goiás: Catalão, Fazenda São Cipriano [17.6392S 47.478W]"
+distribution_zh: "巴西、哥伦比亚"
+distribution_en: "Brazil, Colombia"
+synonym_count: 0
 ---

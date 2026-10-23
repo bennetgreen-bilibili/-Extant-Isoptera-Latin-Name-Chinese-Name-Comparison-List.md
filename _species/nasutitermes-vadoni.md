@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes vadoni 瓦东象白蚁"
+title: "Nasutitermes vadoni Cachan, 1951 瓦东象白蚁"
 latin: "Nasutitermes vadoni"
 zh: "瓦东象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cachan, 1951"
+type_locality: "Madagascar: Ambodivoahangy; Maroantsetra"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

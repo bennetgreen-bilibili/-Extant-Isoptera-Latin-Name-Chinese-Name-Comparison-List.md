@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes javanicus 爪哇须白蚁"
+title: "Hospitalitermes javanicus Akhtar & Akbar, 1986 爪哇须白蚁"
 latin: "Hospitalitermes javanicus"
 zh: "爪哇须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Akbar, 1986"
+type_locality: "Indonesia: Java: 19 km ex Palabuhan, Ratu-Lengkong"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

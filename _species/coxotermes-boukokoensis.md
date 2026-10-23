@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coxotermes boukokoensis 布科科基白蚁"
+title: "Coxotermes boukokoensis Grassé & Noirot, 1955 布科科基白蚁"
 latin: "Coxotermes boukokoensis"
 zh: "布科科基白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé & Noirot, 1955"
+type_locality: "Central African Republic: Boukoko, near Mbaiki"
+distribution_zh: "中非、喀麦隆、刚果、尼日利亚、中非共和国"
+distribution_en: "Central Africa, Cameroon, Congo, Nigeria, Central African Republic"
+synonym_count: 0
 ---

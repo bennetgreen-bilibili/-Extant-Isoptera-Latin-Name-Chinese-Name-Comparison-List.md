@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes nanus 侏儒乳白蚁"
+title: "Coptotermes nanus Lee, Evans, Cameron, Ho, Namyatova & Lo, 2017 侏儒乳白蚁"
 latin: "Coptotermes nanus"
 zh: "侏儒乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Lee, Evans, Cameron, Ho, Namyatova & Lo, 2017"
+type_locality: "Australia: Western Australia: Kununurra"
+distribution_zh: "澳大利亚西部"
+distribution_en: "western Australia"
+synonym_count: 0
 ---

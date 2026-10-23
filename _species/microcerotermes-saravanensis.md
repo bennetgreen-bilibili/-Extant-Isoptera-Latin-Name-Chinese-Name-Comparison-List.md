@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes saravanensis 萨拉万锯白蚁"
+title: "Microcerotermes saravanensis Ghayourfar, 2005 萨拉万锯白蚁"
 latin: "Microcerotermes saravanensis"
 zh: "萨拉万锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghayourfar, 2005"
+type_locality: "Iran: Sistan and Baluchistan Province: Saravan"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

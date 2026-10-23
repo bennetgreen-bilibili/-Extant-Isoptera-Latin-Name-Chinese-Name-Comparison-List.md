@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cubitermes atrox 凶猛方白蚁"
+title: "Cubitermes atrox Smeathman, 1781 凶猛方白蚁"
 latin: "Cubitermes atrox"
 zh: "凶猛方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Smeathman, 1781"
+type_locality: "Sierra Leone: ?"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

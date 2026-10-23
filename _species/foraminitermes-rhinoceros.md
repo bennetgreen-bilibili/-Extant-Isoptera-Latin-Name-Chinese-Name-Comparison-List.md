@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Foraminitermes rhinoceros 犀牛孔白蚁"
+title: "Foraminitermes rhinoceros Sjöstedt, 1905 犀牛孔白蚁"
 latin: "Foraminitermes rhinoceros"
 zh: "犀牛孔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Foraminitermitinae"
 subfamily_id: "foraminitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1905"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达"
+distribution_en: "Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda"
+synonym_count: 0
 ---

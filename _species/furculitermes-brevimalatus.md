@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Furculitermes brevimalatus 短颚叉白蚁"
+title: "Furculitermes brevimalatus Emerson, 1960 短颚叉白蚁"
 latin: "Furculitermes brevimalatus"
 zh: "短颚叉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Divinotermes allognathus 异颚迪维努白蚁"
+title: "Divinotermes allognathus Mathews, 1977 异颚迪维努白蚁"
 latin: "Divinotermes allognathus"
 zh: "异颚迪维努白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

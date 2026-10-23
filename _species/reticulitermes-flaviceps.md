@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes flaviceps 黄胸散白蚁"
+title: "Reticulitermes flaviceps Oshima, 1911 黄胸散白蚁"
 latin: "Reticulitermes flaviceps"
 zh: "黄胸散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1911"
+type_locality: "Taiwan: ?"
+distribution_zh: "中国南部、台湾、香港、日本、越南"
+distribution_en: "southern China, Taiwan, Hong Kong, Japan, Vietnam"
+synonym_count: 0
 ---

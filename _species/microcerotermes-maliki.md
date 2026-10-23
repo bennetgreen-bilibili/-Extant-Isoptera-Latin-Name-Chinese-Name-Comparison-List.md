@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes maliki 马利克锯白蚁"
+title: "Microcerotermes maliki Akhtar, 1974 马利克锯白蚁"
 latin: "Microcerotermes maliki"
 zh: "马利克锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: Peshawar"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

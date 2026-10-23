@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ceylonitermellus sahyadriensis 萨亚德里小锡兰白蚁"
+title: "Ceylonitermellus sahyadriensis Ranjith & Kalleshwaraswamy, 2022 萨亚德里小锡兰白蚁"
 latin: "Ceylonitermellus sahyadriensis"
 zh: "萨亚德里小锡兰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ranjith & Kalleshwaraswamy, 2022"
+type_locality: "India: Kerala, Wayanad, Meppadi [11.5647N 76.1256E]"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

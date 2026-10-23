@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Spatulitermes coolingi 库林匙白蚁"
+title: "Spatulitermes coolingi Coaton, 1971 库林匙白蚁"
 latin: "Spatulitermes coolingi"
 zh: "库林匙白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Coaton, 1971"
+type_locality: "Namibia: 64.4 km ex Rundu-Grootfontein"
+distribution_zh: "非洲南部、纳米比亚、赞比亚"
+distribution_en: "southern Africa, Namibia, Zambia"
+synonym_count: 0
 ---

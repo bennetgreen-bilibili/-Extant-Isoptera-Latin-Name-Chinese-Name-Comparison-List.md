@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Afrosubulitermes congoensis 刚果非锥白蚁"
+title: "Afrosubulitermes congoensis Emerson, 1960 刚果非锥白蚁"
 latin: "Afrosubulitermes congoensis"
 zh: "刚果非锥白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加纳、科特迪瓦、尼日利亚、乌干达"
+distribution_en: "Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda"
+synonym_count: 0
 ---

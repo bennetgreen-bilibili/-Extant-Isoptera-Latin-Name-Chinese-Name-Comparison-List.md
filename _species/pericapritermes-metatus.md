@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes metatus 丈量近扭白蚁"
+title: "Pericapritermes metatus Silvestri, 1914 丈量近扭白蚁"
 latin: "Pericapritermes metatus"
 zh: "丈量近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Kakoulima; Kindia"
+distribution_zh: "几内亚"
+distribution_en: "Guinea"
+synonym_count: 0
 ---

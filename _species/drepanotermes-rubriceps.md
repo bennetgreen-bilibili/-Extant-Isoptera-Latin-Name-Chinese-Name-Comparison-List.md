@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes rubriceps 红头镰白蚁"
+title: "Drepanotermes rubriceps Froggatt, 1898 红头镰白蚁"
 latin: "Drepanotermes rubriceps"
 zh: "红头镰白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Froggatt, 1898"
+type_locality: "Australia: Northern Territory, near Alice Springs"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Drepanotermes silvestrii Hill, 1922: 364-376"
+synonym_localities: "Australia: Queensland: Townsville"
 ---

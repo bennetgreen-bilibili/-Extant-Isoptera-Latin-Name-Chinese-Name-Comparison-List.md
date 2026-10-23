@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eremotermes sanyuktae 女神漠白蚁"
+title: "Eremotermes sanyuktae Thakur, 1989 女神漠白蚁"
 latin: "Eremotermes sanyuktae"
 zh: "女神漠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1989"
+type_locality: "India: Gujarat: Surat district: Magdall port area"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Speculitermes deccanensis 德干稀白蚁"
+title: "Speculitermes deccanensis Roonwal & Chhotani, 1962 德干稀白蚁"
 latin: "Speculitermes deccanensis"
 zh: "德干稀白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Karnataka (Mysore): Bababudin Hills"
+distribution_zh: "南亚、印度德干"
+distribution_en: "South Asia, Deccan, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes emersoni 埃默森象白蚁"
+title: "Nasutitermes emersoni Snyder, 1934 埃默森象白蚁"
 latin: "Nasutitermes emersoni"
 zh: "埃默森象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1934"
+type_locality: "Bangladesh: Sundarbans"
+distribution_zh: "印度、孟加拉国"
+distribution_en: "India, Bangladesh"
+synonym_count: 0
 ---

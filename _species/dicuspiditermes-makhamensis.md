@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes makhamensis 玛堪突扭白蚁"
+title: "Dicuspiditermes makhamensis Ahmad, 1965 玛堪突扭白蚁"
 latin: "Dicuspiditermes makhamensis"
 zh: "玛堪突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Makham"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes gearyi 吉尔里堆砂白蚁"
+title: "Cryptotermes gearyi Hill, 1942 吉尔里堆砂白蚁"
 latin: "Cryptotermes gearyi"
 zh: "吉尔里堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Dalby"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

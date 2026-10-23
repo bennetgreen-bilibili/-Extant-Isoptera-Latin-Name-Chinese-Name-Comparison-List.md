@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes bacchanalis 酒神微白蚁"
+title: "Parvitermes bacchanalis Mathews, 1977 酒神微白蚁"
 latin: "Parvitermes bacchanalis"
 zh: "酒神微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

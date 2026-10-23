@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tucupitermes ubixaba 乌比沙巴黄汁白蚁"
+title: "Tucupitermes ubixaba Almeida-Azevedo, Acioli & Azevedo, 2025 乌比沙巴黄汁白蚁"
 latin: "Tucupitermes ubixaba"
 zh: "乌比沙巴黄汁白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Almeida-Azevedo, Acioli & Azevedo, 2025"
+type_locality: "Brasil: Pará: Santarém [ 2.43917S 54.705W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

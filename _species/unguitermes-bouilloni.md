@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Unguitermes bouilloni 布永爪白蚁"
+title: "Unguitermes bouilloni Harris, 1965 布永爪白蚁"
 latin: "Unguitermes bouilloni"
 zh: "布永爪白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1965"
+type_locality: "Democratic Republic of the Congo: Takundi: River Kwando"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

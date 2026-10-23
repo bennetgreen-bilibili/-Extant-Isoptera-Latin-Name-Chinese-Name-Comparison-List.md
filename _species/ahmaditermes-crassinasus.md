@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes crassinasus 粗鼻钝颚白蚁"
+title: "Ahmaditermes crassinasus Li, 1985 粗鼻钝颚白蚁"
 latin: "Ahmaditermes crassinasus"
 zh: "粗鼻钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1985"
+type_locality: "China: Guangdong Province: Hainan Island"
+distribution_zh: "海南（兴隆）"
+distribution_en: "Hainan (Xinglong)"
+synonym_count: 0
 ---

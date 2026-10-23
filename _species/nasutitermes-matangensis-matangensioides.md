@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes matangensis matangensioides 似马登亚种"
+title: "Nasutitermes matangensis matangensioides Holmgren, 1913 似马登亚种"
 latin: "Nasutitermes matangensis matangensioides"
 zh: "似马登亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes matangensis"
 parent_zh: "马登象白蚁"
 parent_slug: "nasutitermes-matangensis"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Krakatau; Malaysia: Sarawak: Matang"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes lighti 莱特亮白蚁"
+title: "Euhamitermes lighti Snyder, 1933 莱特亮白蚁"
 latin: "Euhamitermes lighti"
 zh: "莱特亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1933"
+type_locality: "India: Uttarakhand: Dehra Dun"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

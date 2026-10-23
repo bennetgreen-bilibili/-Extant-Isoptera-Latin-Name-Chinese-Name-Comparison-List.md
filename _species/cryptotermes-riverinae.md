@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes riverinae 里弗赖纳堆砂白蚁"
+title: "Cryptotermes riverinae Gay & Watson, 1982 里弗赖纳堆砂白蚁"
 latin: "Cryptotermes riverinae"
 zh: "里弗赖纳堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Gay & Watson, 1982"
+type_locality: "Australia: New South Wales: Yanco"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

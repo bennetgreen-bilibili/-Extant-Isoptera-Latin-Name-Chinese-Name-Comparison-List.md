@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes paanensis 帕安角白蚁"
+title: "Angulitermes paanensis Krishna, 1965 帕安角白蚁"
 latin: "Angulitermes paanensis"
 zh: "帕安角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1965"
+type_locality: "Myanmar: Karen State: Pa-an: Yegaw"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
 ---

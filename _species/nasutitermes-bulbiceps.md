@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes bulbiceps 葱头象白蚁"
+title: "Nasutitermes bulbiceps Holmgren, 1913 葱头象白蚁"
 latin: "Nasutitermes bulbiceps"
 zh: "葱头象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Selangor: Gap"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Xylochomitermes occidualis 西部木堆白蚁"
+title: "Xylochomitermes occidualis Gay, 1971 西部木堆白蚁"
 latin: "Xylochomitermes occidualis"
 zh: "西部木堆白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1971"
+type_locality: "Australia: Western Australia: Rudgyard, near Denmark"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes brevirostris 短吻象白蚁"
+title: "Nasutitermes brevirostris Oshima, 1917 短吻象白蚁"
 latin: "Nasutitermes brevirostris"
 zh: "短吻象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1917"
+type_locality: "Palau: Palao Island; Ponapi Island"
+distribution_zh: "马绍尔群岛、密克罗尼西亚、帕劳"
+distribution_en: "Marshall Islands, Micronesia, Palau"
+synonym_count: 0
 ---

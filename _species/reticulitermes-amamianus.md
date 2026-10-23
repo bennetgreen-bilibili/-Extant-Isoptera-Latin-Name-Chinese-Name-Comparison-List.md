@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes amamianus 奄美散白蚁"
+title: "Reticulitermes amamianus Morimoto, 1968 奄美散白蚁"
 latin: "Reticulitermes amamianus"
 zh: "奄美散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Morimoto, 1968"
+type_locality: "Japan: Amami-Oshima, Yuwandake, Yoron Island"
+distribution_zh: "日本"
+distribution_en: "Japan"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes paetensis 帕埃特近扭白蚁"
+title: "Pericapritermes paetensis Oshima, 1920 帕埃特近扭白蚁"
 latin: "Pericapritermes paetensis"
 zh: "帕埃特近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1920"
+type_locality: "Philippines: Luzon: Laguna Province: Paete"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

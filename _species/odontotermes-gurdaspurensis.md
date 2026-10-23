@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes gurdaspurensis 古达斯普尔土白蚁"
+title: "Odontotermes gurdaspurensis Holmgren & Holmgren, 1917 古达斯普尔土白蚁"
 latin: "Odontotermes gurdaspurensis"
 zh: "古达斯普尔土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Punjab: Gurdaspur"
+distribution_zh: "南亚印度、巴基斯坦"
+distribution_en: "South Asia, India, Pakistan"
+synonym_count: 0
 ---

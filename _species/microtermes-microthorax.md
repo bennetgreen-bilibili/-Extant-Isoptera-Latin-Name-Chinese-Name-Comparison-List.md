@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes microthorax 小胸小白蚁"
+title: "Microtermes microthorax Holmgren, 1913 小胸小白蚁"
 latin: "Microtermes microthorax"
 zh: "小胸小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "(country unknown): Africa"
+distribution_zh: "(country unknown)"
+distribution_en: "(country unknown)"
+synonym_count: 0
 ---

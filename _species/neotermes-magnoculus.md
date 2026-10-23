@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes magnoculus 大眼新白蚁"
+title: "Neotermes magnoculus Snyder, 1926 大眼新白蚁"
 latin: "Neotermes magnoculus"
 zh: "大眼新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: La Paz: Huachi [ 15.6667S 67.25W ]"
+distribution_zh: "玻利维亚、巴西"
+distribution_en: "Bolivia, Brazil"
+synonym_count: 0
 ---

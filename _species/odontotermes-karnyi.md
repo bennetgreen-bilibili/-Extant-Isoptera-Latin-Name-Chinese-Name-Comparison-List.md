@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes karnyi 卡尼土白蚁"
+title: "Odontotermes karnyi Kemner, 1934 卡尼土白蚁"
 latin: "Odontotermes karnyi"
 zh: "卡尼土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Bogor"
+distribution_zh: "东南亚印度尼西亚"
+distribution_en: "Southeast Asia (Indonesia)"
+synonym_count: 0
 ---

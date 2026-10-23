@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes longzhouensis 龙州土白蚁"
+title: "Odontotermes longzhouensis Lin, 1981 龙州土白蚁"
 latin: "Odontotermes longzhouensis"
 zh: "龙州土白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Lin, 1981"
+type_locality: "China: Guangxi Province: Longzhou"
+distribution_zh: "广西（上林）、中国"
+distribution_en: "Guangxi (Shanglin), China"
+synonym_count: 1
+synonyms: "Odontotermes shanglinensis Li, 1986: 194-195"
+synonym_localities: "China: Guangxi Province: Shanglin"
 ---

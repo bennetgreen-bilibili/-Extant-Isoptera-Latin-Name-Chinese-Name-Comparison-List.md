@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes dinghuensis 鼎湖钝颚白蚁"
+title: "Ahmaditermes dinghuensis Li, 1985 鼎湖钝颚白蚁"
 latin: "Ahmaditermes dinghuensis"
 zh: "鼎湖钝颚白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1985"
+type_locality: "China: Guangdong Province: Mt. Dinghushan: Zhaoqing"
+distribution_zh: "中国、越南"
+distribution_en: "China, Vietnam"
+synonym_count: 1
+synonyms: "Peribulbitermes jinghongensis Li, 1985: 96-97, 100"
+synonym_localities: "China: Yunnan Province: Jinghong: Xishuangbanna"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cylindrotermes caata 骨痂圆筒白蚁"
+title: "Cylindrotermes caata Rocha & Cancello, 2007 骨痂圆筒白蚁"
 latin: "Cylindrotermes caata"
 zh: "骨痂圆筒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cylindrotermitinae"
 subfamily_id: "cylindrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2007"
+type_locality: "Brasil: São Paulo: Luis Antônio, Reserva Jatai [ 21.555S 47.7044W ]"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

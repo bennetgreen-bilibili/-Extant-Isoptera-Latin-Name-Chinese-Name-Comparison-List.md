@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes amicus 仁爱无利器白蚁"
+title: "Astalotermes amicus Sands, 1972 仁爱无利器白蚁"
 latin: "Astalotermes amicus"
 zh: "仁爱无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Tanzania: Amani"
+distribution_zh: "非洲热带、坦桑尼亚"
+distribution_en: "tropical Africa, Tanzania"
+synonym_count: 0
 ---

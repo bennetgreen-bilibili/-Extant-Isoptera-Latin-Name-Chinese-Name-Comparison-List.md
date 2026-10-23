@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Acutidentitermes osborni 奥斯本尖齿白蚁"
+title: "Acutidentitermes osborni Emerson, 1959 奥斯本尖齿白蚁"
 latin: "Acutidentitermes osborni"
 zh: "奥斯本尖齿白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1959"
+type_locality: "Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

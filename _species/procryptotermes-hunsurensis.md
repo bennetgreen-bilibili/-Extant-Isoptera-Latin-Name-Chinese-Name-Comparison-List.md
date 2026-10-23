@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procryptotermes hunsurensis 洪苏尔前砂白蚁"
+title: "Procryptotermes hunsurensis Thakur, 1975 洪苏尔前砂白蚁"
 latin: "Procryptotermes hunsurensis"
 zh: "洪苏尔前砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Thakur, 1975"
+type_locality: "India: Mysore: Kalbetta, Hunsur"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

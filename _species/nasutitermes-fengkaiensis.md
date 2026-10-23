@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes fengkaiensis 封开象白蚁"
+title: "Nasutitermes fengkaiensis Li, 1986 封开象白蚁"
 latin: "Nasutitermes fengkaiensis"
 zh: "封开象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1986"
+type_locality: "China: Guangdong Province: Fengkai"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes lacustris 湖泊象白蚁"
+title: "Nasutitermes lacustris Bugnion, 1912 湖泊象白蚁"
 latin: "Nasutitermes lacustris"
 zh: "湖泊象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bugnion, 1912"
+type_locality: "Sri Lanka: Ambalangoda"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

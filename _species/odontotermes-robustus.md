@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes robustus 粗壮土白蚁"
+title: "Odontotermes robustus Sjöstedt, 1924 粗壮土白蚁"
 latin: "Odontotermes robustus"
 zh: "粗壮土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Congo: Brazzaville"
+distribution_zh: "刚果"
+distribution_en: "Congo"
+synonym_count: 0
 ---

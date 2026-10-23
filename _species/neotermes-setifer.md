@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes setifer 刚毛新白蚁"
+title: "Neotermes setifer Snyder, 1957 刚毛新白蚁"
 latin: "Neotermes setifer"
 zh: "刚毛新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1957"
+type_locality: "Panama: Almirante"
+distribution_zh: "巴拿马"
+distribution_en: "Panama"
+synonym_count: 0
 ---

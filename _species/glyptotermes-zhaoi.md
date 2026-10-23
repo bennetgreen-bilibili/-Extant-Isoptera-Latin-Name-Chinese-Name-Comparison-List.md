@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes zhaoi 赵氏树白蚁"
+title: "Glyptotermes zhaoi Ping, 1984 赵氏树白蚁"
 latin: "Glyptotermes zhaoi"
 zh: "赵氏树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ping, 1984"
+type_locality: "China: Fujian Province: Jian'ou"
+distribution_zh: "中国福建"
+distribution_en: "China (Fujian)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes medoensis 墨脱象白蚁"
+title: "Nasutitermes medoensis Tsai & Huang, 1979 墨脱象白蚁"
 latin: "Nasutitermes medoensis"
 zh: "墨脱象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1979"
+type_locality: "China: Tibet: Medog Xian: Bei-Beng"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

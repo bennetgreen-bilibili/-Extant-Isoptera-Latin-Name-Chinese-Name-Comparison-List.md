@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Zootermopsis nevadensis nevadensis 指名亚种"
+title: "Zootermopsis nevadensis nevadensis Hagen, 1874 指名亚种"
 latin: "Zootermopsis nevadensis nevadensis"
 zh: "指名亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Teletisoptera"
 parent_latin: "Zootermopsis nevadensis"
 parent_zh: "内华达动白蚁"
 parent_slug: "zootermopsis-nevadensis"
+author_year: "Hagen, 1874"
+type_locality: "United States: Nevada: Truckee"
+synonym_count: 0
 ---

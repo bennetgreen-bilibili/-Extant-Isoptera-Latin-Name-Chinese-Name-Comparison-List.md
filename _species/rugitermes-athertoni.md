@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rugitermes athertoni 阿瑟顿皱白蚁"
+title: "Rugitermes athertoni Light, 1932 阿瑟顿皱白蚁"
 latin: "Rugitermes athertoni"
 zh: "阿瑟顿皱白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Light, 1932"
+type_locality: "Polynesia (French): Marquesas: Hivaoa: Atuona Valley; Marquesas: Hivaoa: Pouau; Marquesas: Hivaoa: Tenaeka Valley; Marquesas: Nukahiva, Toovi, Teuanui; Marquesas: Nukuhiva, Tapuaooa; Marquesas: Uapou, Hakahetau Valley, Koputukea"
+distribution_zh: "法属波利尼西亚"
+distribution_en: "French Polynesia"
+synonym_count: 0
 ---

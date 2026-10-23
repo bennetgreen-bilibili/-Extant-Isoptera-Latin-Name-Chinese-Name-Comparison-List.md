@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes weissi 魏斯三方白蚁"
+title: "Ternicubitermes weissi Silvestri, 1912 魏斯三方白蚁"
 latin: "Ternicubitermes weissi"
 zh: "魏斯三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Congo: Brazzaville"
+distribution_zh: "刚果（布）、利比里亚"
+distribution_en: "Republic of the Congo (Brazzaville), Liberia"
+synonym_count: 0
 ---

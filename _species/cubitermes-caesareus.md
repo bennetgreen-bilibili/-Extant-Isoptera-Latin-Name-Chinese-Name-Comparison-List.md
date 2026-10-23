@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cubitermes caesareus 凯撒方白蚁"
+title: "Cubitermes caesareus Sjöstedt, 1911 凯撒方白蚁"
 latin: "Cubitermes caesareus"
 zh: "凯撒方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rinacapritermes silvius 林栖丽娜扭白蚁"
+title: "Rinacapritermes silvius Amina & Rajmohana, 2022 林栖丽娜扭白蚁"
 latin: "Rinacapritermes silvius"
 zh: "林栖丽娜扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Amina & Rajmohana, 2022"
+type_locality: "India: Kerala: Ernakulam, Urulanthanni [ 10.1281N 76.755E ]"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

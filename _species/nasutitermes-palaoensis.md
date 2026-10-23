@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes palaoensis 帕劳象白蚁"
+title: "Nasutitermes palaoensis Oshima, 1942 帕劳象白蚁"
 latin: "Nasutitermes palaoensis"
 zh: "帕劳象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1942"
+type_locality: "Palau: Koror"
+distribution_zh: "密克罗尼西亚"
+distribution_en: "Micronesia"
+synonym_count: 0
 ---

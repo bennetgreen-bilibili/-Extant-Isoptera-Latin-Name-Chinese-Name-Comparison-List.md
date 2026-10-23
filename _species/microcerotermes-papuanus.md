@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes papuanus 巴布亚锯白蚁"
+title: "Microcerotermes papuanus Holmgren, 1911 巴布亚锯白蚁"
 latin: "Microcerotermes papuanus"
 zh: "巴布亚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Papua New Guinea: Tami"
+distribution_zh: "东南亚、印度尼西亚、巴布亚新几内亚"
+distribution_en: "Southeast Asia, Indonesia, Papua New Guinea"
+synonym_count: 0
 ---

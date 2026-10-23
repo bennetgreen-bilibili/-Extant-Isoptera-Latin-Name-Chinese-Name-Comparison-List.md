@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes luofunicus 罗浮散白蚁"
+title: "Reticulitermes luofunicus Zhu, Ma & Li, 1982 罗浮散白蚁"
 latin: "Reticulitermes luofunicus"
 zh: "罗浮散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu, Ma & Li, 1982"
+type_locality: "China: Guangdong Province: Boluo County: Luofushan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

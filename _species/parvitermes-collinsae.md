@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes collinsae 柯林斯微白蚁"
+title: "Parvitermes collinsae Scheffrahn & Roisin, 1995 柯林斯微白蚁"
 latin: "Parvitermes collinsae"
 zh: "柯林斯微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn & Roisin, 1995"
+type_locality: "Dominican Republic: Barahona: Fondo Negro"
+distribution_zh: "多米尼加"
+distribution_en: "Dominican Republic"
+synonym_count: 0
 ---

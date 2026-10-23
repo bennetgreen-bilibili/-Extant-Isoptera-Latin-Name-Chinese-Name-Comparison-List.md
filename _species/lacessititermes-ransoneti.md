@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes ransoneti 兰森埃特怒白蚁"
+title: "Lacessititermes ransoneti Holmgren, 1913 兰森埃特怒白蚁"
 latin: "Lacessititermes ransoneti"
 zh: "兰森埃特怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Singapore: ?"
+distribution_zh: "新加坡、马来西亚"
+distribution_en: "Singapore, Malaysia"
+synonym_count: 0
 ---

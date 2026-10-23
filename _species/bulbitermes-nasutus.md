@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes nasutus 大鼻瓢白蚁"
+title: "Bulbitermes nasutus Holmgren, 1914 大鼻瓢白蚁"
 latin: "Bulbitermes nasutus"
 zh: "大鼻瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Indonesia: Sumatra: Bandar Baroe"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

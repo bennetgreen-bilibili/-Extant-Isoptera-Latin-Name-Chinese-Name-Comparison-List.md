@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes comis 友好无利器白蚁"
+title: "Astalotermes comis Sands, 1972 友好无利器白蚁"
 latin: "Astalotermes comis"
 zh: "友好无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "South Africa: Natal: Ubombo"
+distribution_zh: "非洲热带、喀麦隆、南非"
+distribution_en: "tropical Africa, Cameroon, South Africa"
+synonym_count: 0
 ---

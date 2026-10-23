@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes albinotus 白背小白蚁"
+title: "Microtermes albinotus Holmgren, 1913 白背小白蚁"
 latin: "Microtermes albinotus"
 zh: "白背小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "(country unknown): \"Africa\""
+distribution_zh: "分布待核"
+distribution_en: "distribution to be verified"
+synonym_count: 0
 ---

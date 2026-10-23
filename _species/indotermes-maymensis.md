@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Indotermes maymensis 眉妙印白蚁"
+title: "Indotermes maymensis Roonwal & Sen-Sarma, 1958 眉妙印白蚁"
 latin: "Indotermes maymensis"
 zh: "眉妙印白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1958"
+type_locality: "Myanmar: Maymyo: Botanical Garden"
+distribution_zh: "缅甸、中国"
+distribution_en: "Myanmar, China"
+synonym_count: 0
 ---

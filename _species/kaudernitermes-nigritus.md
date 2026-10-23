@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kaudernitermes nigritus 黑色考登白蚁"
+title: "Kaudernitermes nigritus Wasmann, 1897 黑色考登白蚁"
 latin: "Kaudernitermes nigritus"
 zh: "黑色考登白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1897"
+type_locality: "Madagascar: Fenerive"
+distribution_zh: "马达加斯加、塞舌尔"
+distribution_en: "Madagascar, Seychelles"
+synonym_count: 1
+synonyms: "Eutermes nigrita rectirostris Wasmann, 1910: 127"
+synonym_localities: "Madagascar: St. Marie Island"
 ---

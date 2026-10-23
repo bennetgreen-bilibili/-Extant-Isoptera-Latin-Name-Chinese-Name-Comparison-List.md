@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes perarmatus 全武弓白蚁"
+title: "Amitermes perarmatus Silvestri, 1909 全武弓白蚁"
 latin: "Amitermes perarmatus"
 zh: "全武弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1909"
+type_locality: "Australia: Western Australia: Yalgoo"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

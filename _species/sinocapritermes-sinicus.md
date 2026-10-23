@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes sinicus 中国华扭白蚁"
+title: "Sinocapritermes sinicus Li & Xiao, 1989 中国华扭白蚁"
 latin: "Sinocapritermes sinicus"
 zh: "中国华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Xiao, 1989"
+type_locality: "China: Guangxi Province: Huashuichong Forest: Hexian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

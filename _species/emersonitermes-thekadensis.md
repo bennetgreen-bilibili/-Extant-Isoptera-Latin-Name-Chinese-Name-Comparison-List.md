@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Emersonitermes thekadensis 卡迪埃默森白蚁"
+title: "Emersonitermes thekadensis Mathur & Sen-Sarma, 1959 卡迪埃默森白蚁"
 latin: "Emersonitermes thekadensis"
 zh: "卡迪埃默森白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathur & Sen-Sarma, 1959"
+type_locality: "India: Kerala (Travancore): Thekaday"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

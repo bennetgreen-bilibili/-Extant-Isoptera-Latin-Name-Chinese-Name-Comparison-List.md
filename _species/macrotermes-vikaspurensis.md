@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes vikaspurensis 维卡斯布尔大白蚁"
+title: "Macrotermes vikaspurensis Thakur, Kumar & Tyagi, 2011 维卡斯布尔大白蚁"
 latin: "Macrotermes vikaspurensis"
 zh: "维卡斯布尔大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, Kumar & Tyagi, 2011"
+type_locality: "India: Uttarakhand: Dehradun, Vikaspur [ 30.478N 77.769E ]"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

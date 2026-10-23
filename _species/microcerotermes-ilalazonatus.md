@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes ilalazonatus 伊拉拉佐纳图斯锯白蚁"
+title: "Microcerotermes ilalazonatus Fuller, 1925 伊拉拉佐纳图斯锯白蚁"
 latin: "Microcerotermes ilalazonatus"
 zh: "伊拉拉佐纳图斯锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Natal: near Gingeles Kraal at the head of the Uyange swamp, 7 miles N of Mkuze River on old route to Sibayi"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

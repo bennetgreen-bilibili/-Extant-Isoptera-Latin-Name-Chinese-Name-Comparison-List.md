@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes somaliensis 索马里弓白蚁"
+title: "Amitermes somaliensis Sjöstedt, 1927 索马里弓白蚁"
 latin: "Amitermes somaliensis"
 zh: "索马里弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1927"
+type_locality: "Somalia: Villaggio Duca degli Abruzzi"
+distribution_zh: "索马里、埃塞俄比亚、肯尼亚、马拉维"
+distribution_en: "Somalia, Ethiopia, Kenya, Malawi"
+synonym_count: 0
 ---

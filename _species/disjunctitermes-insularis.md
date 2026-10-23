@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Disjunctitermes insularis 岛生间断白蚁"
+title: "Disjunctitermes insularis Scheffrahn, 2017 岛生间断白蚁"
 latin: "Disjunctitermes insularis"
 zh: "岛生间断白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2017"
+type_locality: "Guadeloupe (French): Basse-Terre: Trail Mamelles de Petite Bourg. Parc Nat. [ 16.1778N 61.7321W ]"
+distribution_zh: "巴西、亚马孙地区、中美洲及加勒比"
+distribution_en: "Brazil, Amazon region, Central America and Caribbean"
+synonym_count: 0
 ---

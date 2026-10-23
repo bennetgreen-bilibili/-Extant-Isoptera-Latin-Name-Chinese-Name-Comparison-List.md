@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eremotermes madrasicus 马德拉斯漠白蚁"
+title: "Eremotermes madrasicus Roonwal & Sen-Sarma, 1960 马德拉斯漠白蚁"
 latin: "Eremotermes madrasicus"
 zh: "马德拉斯漠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "India: Tamil Nadu (Madras), 10 miles north of Madras City: Villivakkam"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

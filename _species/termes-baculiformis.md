@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes baculiformis 似巴舍尔白蚁"
+title: "Termes baculiformis Holmgren, 1909 似巴舍尔白蚁"
 latin: "Termes baculiformis"
 zh: "似巴舍尔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1909"
+type_locality: "Madagascar: St. Marie de Marovoay, Majunga"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

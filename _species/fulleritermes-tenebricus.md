@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Fulleritermes tenebricus 阴暗富勒白蚁"
+title: "Fulleritermes tenebricus Silvestri, 1914 阴暗富勒白蚁"
 latin: "Fulleritermes tenebricus"
 zh: "阴暗富勒白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kakoulima; Nigeria: Olokemeji"
+distribution_zh: "科特迪瓦、多哥、塞内加尔、布基纳法索、加纳、中非共和国、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹"
+distribution_en: "Côte d'Ivoire, Togo, Senegal, Burkina Faso, Ghana, Central African Republic, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan"
+synonym_count: 1
+synonyms: "Nasutitermes (Coarctotermes) suffuscus Emerson, 1928: 496"
+synonym_localities: "Democratic Republic of the Congo: near Yakuluku"
 ---

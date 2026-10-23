@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes subhyalinus 近明小白蚁"
+title: "Microtermes subhyalinus Silvestri, 1914 近明小白蚁"
 latin: "Microtermes subhyalinus"
 zh: "近明小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Kindia"
+distribution_zh: "西非、科特迪瓦、塞内加尔、冈比亚、布基纳法索、沙特阿拉伯、也门"
+distribution_en: "West Africa, Côte d'Ivoire, Senegal, Gambia, Burkina Faso, Saudi Arabia, Yemen"
+synonym_count: 0
 ---

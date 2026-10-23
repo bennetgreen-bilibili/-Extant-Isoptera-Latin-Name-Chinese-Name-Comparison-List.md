@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes palaearcticus 古北锯白蚁"
+title: "Microcerotermes palaearcticus Sjöstedt, 1904 古北锯白蚁"
 latin: "Microcerotermes palaearcticus"
 zh: "古北锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Algeria: Laghouat"
+distribution_zh: "阿尔及利亚、摩洛哥、突尼斯"
+distribution_en: "Algeria, Morocco, Tunisia"
+synonym_count: 0
 ---

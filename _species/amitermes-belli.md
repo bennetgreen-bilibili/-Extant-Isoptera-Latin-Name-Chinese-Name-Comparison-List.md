@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes belli 贝尔弓白蚁"
+title: "Amitermes belli Desneux, 1906 贝尔弓白蚁"
 latin: "Amitermes belli"
 zh: "贝尔弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1906"
+type_locality: "Pakistan: Sind: Karachi"
+distribution_zh: "南亚、伊朗"
+distribution_en: "South Asia, Iran"
+synonym_count: 0
 ---

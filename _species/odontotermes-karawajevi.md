@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes karawajevi 卡拉瓦土白蚁"
+title: "Odontotermes karawajevi John, 1925 卡拉瓦土白蚁"
 latin: "Odontotermes karawajevi"
 zh: "卡拉瓦土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "John, 1925"
+type_locality: "Indonesia: Java: Depok"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

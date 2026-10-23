@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mapinguaritermes marizalensis 马里扎尔红懒白蚁"
+title: "Mapinguaritermes marizalensis Lucena, Cysneiros & Vasconcellos, 2026 马里扎尔红懒白蚁"
 latin: "Mapinguaritermes marizalensis"
 zh: "马里扎尔红懒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Lucena, Cysneiros & Vasconcellos, 2026"
+type_locality: "Brasil: Amazonas: Marizal"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes seghersi malangganus 马兰干亚种"
+title: "Nasutitermes seghersi malangganus Roisin & Pasteels, 1996 马兰干亚种"
 latin: "Nasutitermes seghersi malangganus"
 zh: "马兰干亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes seghersi"
 parent_zh: "西格象白蚁"
 parent_slug: "nasutitermes-seghersi"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: New Ireland: Kolonoboi"
+synonym_count: 0
 ---

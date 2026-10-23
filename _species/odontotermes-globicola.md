@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes globicola 栖球土白蚁"
+title: "Odontotermes globicola Wasmann, 1902 栖球土白蚁"
 latin: "Odontotermes globicola"
 zh: "栖球土白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1902"
+type_locality: "Sri Lanka: Anurhadhapura"
+distribution_zh: "南亚印度、巴基斯坦、斯里兰卡"
+distribution_en: "South Asia, India, Pakistan, Sri Lanka"
+synonym_count: 2
+synonyms: "Termes ( Termes ) dehraduni Snyder, 1933: 6-7; Odontotermes roonwali Bose, 1975: 157-161"
+synonym_localities: "India: Uttarakhand: Dehra Dun; India: Kerala: Malabar: Nilambur"
 ---

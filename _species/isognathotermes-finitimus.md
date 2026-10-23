@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Isognathotermes finitimus 近邻等颚白蚁"
+title: "Isognathotermes finitimus Schmitz, 1916 近邻等颚白蚁"
 latin: "Isognathotermes finitimus"
 zh: "近邻等颚白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Schmitz, 1916"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 2
+synonyms: "Cubitermes loubetsiensis Sjöstedt, 1924: 493; Cubitermes subarquatus Sjöstedt, 1926: 244-245"
+synonym_localities: "Congo: Loubetsi; Democratic Republic of the Congo: Kisangani (Stanleyville)"
 ---

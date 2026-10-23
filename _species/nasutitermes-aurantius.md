@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes aurantius 橙黄象白蚁"
+title: "Nasutitermes aurantius Scheffrahn, 2025 橙黄象白蚁"
 latin: "Nasutitermes aurantius"
 zh: "橙黄象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2025"
+type_locality: "Panama: Coclé, Omar Torrijos Herrera National Park"
+distribution_zh: "巴拿马"
+distribution_en: "Panama"
+synonym_count: 0
 ---

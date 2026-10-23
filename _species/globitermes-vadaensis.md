@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Globitermes vadaensis 瓦达球白蚁"
+title: "Globitermes vadaensis Kemner, 1934 瓦达球白蚁"
 latin: "Globitermes vadaensis"
 zh: "瓦达球白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Vada, near Tjandjoer"
+distribution_zh: "东南亚岛屿、南洋群岛"
+distribution_en: "Southeast Asian islands, Malay Archipelago"
+synonym_count: 0
 ---

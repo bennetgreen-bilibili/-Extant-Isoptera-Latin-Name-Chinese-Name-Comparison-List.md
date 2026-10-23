@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes badius badius 指名亚种"
+title: "Odontotermes badius badius Haviland, 1898 指名亚种"
 latin: "Odontotermes badius badius"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes badius"
 parent_zh: "栗色土白蚁"
 parent_slug: "odontotermes-badius"
+author_year: "Haviland, 1898"
+type_locality: "South Africa: Natal: Durban"
+synonym_count: 0
 ---

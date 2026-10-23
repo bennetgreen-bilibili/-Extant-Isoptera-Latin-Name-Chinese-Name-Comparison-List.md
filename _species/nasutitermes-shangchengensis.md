@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes shangchengensis 商城象白蚁"
+title: "Nasutitermes shangchengensis Wang & Li, 1984 商城象白蚁"
 latin: "Nasutitermes shangchengensis"
 zh: "商城象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wang & Li, 1984"
+type_locality: "China: Henan Province: Shangcheng County: Dongfengjian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

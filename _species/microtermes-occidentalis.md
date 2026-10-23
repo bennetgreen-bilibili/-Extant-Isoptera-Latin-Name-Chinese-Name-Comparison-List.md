@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes occidentalis 西部小白蚁"
+title: "Microtermes occidentalis Fuller, 1922 西部小白蚁"
 latin: "Microtermes occidentalis"
 zh: "西部小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1922"
+type_locality: "South Africa: Graspan"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

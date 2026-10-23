@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ceylonitermellus hantanae 汉塔娜小锡兰白蚁"
+title: "Ceylonitermellus hantanae Holmgren, 1911 汉塔娜小锡兰白蚁"
 latin: "Ceylonitermellus hantanae"
 zh: "汉塔娜小锡兰白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Sri Lanka: Hantana"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

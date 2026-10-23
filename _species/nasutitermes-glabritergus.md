@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes glabritergus 光背象白蚁"
+title: "Nasutitermes glabritergus Snyder & Emerson, 1949 光背象白蚁"
 latin: "Nasutitermes glabritergus"
 zh: "光背象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder & Emerson, 1949"
+type_locality: "Costa Rica: Colombiana"
+distribution_zh: "哥斯达黎加、巴拿马、危地马拉、厄瓜多尔"
+distribution_en: "Costa Rica, Panama, Guatemala, Ecuador"
+synonym_count: 0
 ---

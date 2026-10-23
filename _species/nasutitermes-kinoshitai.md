@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes kinoshitai 木下象白蚁"
+title: "Nasutitermes kinoshitai Hozawa, 1915 木下象白蚁"
 latin: "Nasutitermes kinoshitai"
 zh: "木下象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hozawa, 1915"
+type_locality: "Taiwan: Kappanzan"
+distribution_zh: "中国台湾"
+distribution_en: "China (Taiwan)"
+synonym_count: 0
 ---

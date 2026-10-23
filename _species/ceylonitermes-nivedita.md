@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ceylonitermes nivedita 尼韦迪塔锡兰白蚁"
+title: "Ceylonitermes nivedita Basak, Sengupta, Rajmohana & Baraik, 2020 尼韦迪塔锡兰白蚁"
 latin: "Ceylonitermes nivedita"
 zh: "尼韦迪塔锡兰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Basak, Sengupta, Rajmohana & Baraik, 2020"
+type_locality: "India: Manipur: Tamenglong, Zeilad Wildlife Sanctuary [24.9109N 93.3842E]"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

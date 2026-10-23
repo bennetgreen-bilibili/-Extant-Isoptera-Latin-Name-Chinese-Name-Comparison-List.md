@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes paradenticulatus 似齿小土白蚁"
+title: "Odontotermes paradenticulatus Ahmad, 1947 似齿小土白蚁"
 latin: "Odontotermes paradenticulatus"
 zh: "似齿小土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1947"
+type_locality: "Philippines: Leyte, west of Tarragona, east shore of Lake Bito"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ekphysotermes kalgoorliensis 卡尔古利瘤突白蚁"
+title: "Ekphysotermes kalgoorliensis Hill, 1942 卡尔古利瘤突白蚁"
 latin: "Ekphysotermes kalgoorliensis"
 zh: "卡尔古利瘤突白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Western Australia: Kalgoorlie"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

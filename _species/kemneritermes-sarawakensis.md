@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kemneritermes sarawakensis 砂拉越凯姆勒白蚁"
+title: "Kemneritermes sarawakensis Ahmad & Akhtar, 1981 砂拉越凯姆勒白蚁"
 latin: "Kemneritermes sarawakensis"
 zh: "砂拉越凯姆勒白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad & Akhtar, 1981"
+type_locality: "Malaysia: Sarawak: Sabal Tapang"
+distribution_zh: "婆罗洲"
+distribution_en: "Borneo"
+synonym_count: 0
 ---

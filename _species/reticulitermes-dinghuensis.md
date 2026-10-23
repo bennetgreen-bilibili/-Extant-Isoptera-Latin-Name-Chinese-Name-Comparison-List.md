@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes dinghuensis 鼎湖散白蚁"
+title: "Reticulitermes dinghuensis Ping, Zhu & Li, 1980 鼎湖散白蚁"
 latin: "Reticulitermes dinghuensis"
 zh: "鼎湖散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, Zhu & Li, 1980"
+type_locality: "China: Guangdong Province: Zhaoquing, Dinghusan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes mangshanensis 莽山象白蚁"
+title: "Nasutitermes mangshanensis Li, 1986 莽山象白蚁"
 latin: "Nasutitermes mangshanensis"
 zh: "莽山象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1986"
+type_locality: "China: Hunan Province: Yizhang County: Mangshan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

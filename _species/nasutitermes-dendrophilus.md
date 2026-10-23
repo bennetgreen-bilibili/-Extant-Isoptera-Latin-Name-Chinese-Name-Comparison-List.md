@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes dendrophilus 喜树象白蚁"
+title: "Nasutitermes dendrophilus Desneux, 1906 喜树象白蚁"
 latin: "Nasutitermes dendrophilus"
 zh: "喜树象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1906"
+type_locality: "Ecuador: Tungurahua: Rosario [1.4S 78.18W]"
+distribution_zh: "厄瓜多尔、巴西、秘鲁"
+distribution_en: "Ecuador, Brazil, Peru"
+synonym_count: 0
 ---

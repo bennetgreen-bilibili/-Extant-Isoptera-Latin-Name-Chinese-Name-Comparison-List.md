@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes singaporiensis 新加坡瓢白蚁"
+title: "Bulbitermes singaporiensis Haviland, 1898 新加坡瓢白蚁"
 latin: "Bulbitermes singaporiensis"
 zh: "新加坡瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Singapore: ?"
+distribution_zh: "东南亚、马来西亚、印度尼西亚"
+distribution_en: "Southeast Asia, Malaysia, Indonesia"
+synonym_count: 0
 ---

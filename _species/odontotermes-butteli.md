@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes butteli 巴特土白蚁"
+title: "Odontotermes butteli Holmgren, 1914 巴特土白蚁"
 latin: "Odontotermes butteli"
 zh: "巴特土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Indonesia: Sumatra: Bah Boelian; Sumatra: Lau Boentoe; Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap"
+distribution_zh: "东南亚马来西亚、印度尼西亚"
+distribution_en: "Southeast Asia, Malaysia, Indonesia"
+synonym_count: 0
 ---

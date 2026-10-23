@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Fulleritermes mallyi 马利富勒白蚁"
+title: "Fulleritermes mallyi Fuller, 1922 马利富勒白蚁"
 latin: "Fulleritermes mallyi"
 zh: "马利富勒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1922"
+type_locality: "South Africa: Cape Province: Malmesbury"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

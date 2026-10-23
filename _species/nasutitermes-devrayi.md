@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes devrayi 德沃瑞象白蚁"
+title: "Nasutitermes devrayi Maiti & Chakraborty, 1994 德沃瑞象白蚁"
 latin: "Nasutitermes devrayi"
 zh: "德沃瑞象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti & Chakraborty, 1994"
+type_locality: "India: Great Nicobar Island: Campbell Bay"
+distribution_zh: "印度尼科巴群岛"
+distribution_en: "India (Nicobar Islands)"
+synonym_count: 0
 ---

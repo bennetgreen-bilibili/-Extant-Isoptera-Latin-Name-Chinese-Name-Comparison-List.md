@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kalotermes convexus 凸木白蚁"
+title: "Kalotermes convexus Walker, 1853 凸木白蚁"
 latin: "Kalotermes convexus"
 zh: "凸木白蚁"
 type: false
@@ -13,4 +13,11 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Walker, 1853"
+type_locality: "Australia: Tasmania"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Calotermes tillyardi Hill, 1932: 138-142"
+synonym_localities: "Australia: \"Federal Capital Territory.\""
 ---

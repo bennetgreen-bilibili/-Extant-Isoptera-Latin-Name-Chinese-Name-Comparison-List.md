@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes fovefrons 洼额新白蚁"
+title: "Neotermes fovefrons Xu & Han, 1985 洼额新白蚁"
 latin: "Neotermes fovefrons"
 zh: "洼额新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Xu & Han, 1985"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

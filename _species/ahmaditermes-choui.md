@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes choui 周氏钝颚白蚁"
+title: "Ahmaditermes choui Ping & Tong, 1989 周氏钝颚白蚁"
 latin: "Ahmaditermes choui"
 zh: "周氏钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Tong, 1989"
+type_locality: "China: Hong Kong"
+distribution_zh: "香港"
+distribution_en: "Hong Kong"
+synonym_count: 0
 ---

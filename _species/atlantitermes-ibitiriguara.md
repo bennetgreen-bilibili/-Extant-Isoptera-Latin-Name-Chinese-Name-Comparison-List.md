@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Atlantitermes ibitiriguara 具锯阿特拉斯白蚁"
+title: "Atlantitermes ibitiriguara Fontes, 1979 具锯阿特拉斯白蚁"
 latin: "Atlantitermes ibitiriguara"
 zh: "具锯阿特拉斯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fontes, 1979"
+type_locality: "Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba [23.7795S 46.3162W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes wandingensis 畹町地白蚁"
+title: "Hypotermes wandingensis Zhu & Huang, 1990 畹町地白蚁"
 latin: "Hypotermes wandingensis"
 zh: "畹町地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Huang, 1990"
+type_locality: "China: Yunnan Province: Wanding City"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

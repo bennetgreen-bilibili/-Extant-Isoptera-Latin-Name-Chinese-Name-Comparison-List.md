@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes okahandjae 奥卡汉贾土白蚁"
+title: "Odontotermes okahandjae Fuller, 1922 奥卡汉贾土白蚁"
 latin: "Odontotermes okahandjae"
 zh: "奥卡汉贾土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1922"
+type_locality: "Namibia: Okahandja"
+distribution_zh: "非洲南部纳米比亚"
+distribution_en: "southern Africa, Namibia"
+synonym_count: 0
 ---

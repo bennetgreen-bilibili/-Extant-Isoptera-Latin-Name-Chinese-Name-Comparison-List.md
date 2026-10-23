@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes glebae 土块三方白蚁"
+title: "Ternicubitermes glebae Sjöstedt, 1913 土块三方白蚁"
 latin: "Ternicubitermes glebae"
 zh: "土块三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1913"
+type_locality: "Tanzania: Kilimanjaro"
+distribution_zh: "肯尼亚、坦桑尼亚、乌干达"
+distribution_en: "Kenya, Tanzania, Uganda"
+synonym_count: 0
 ---

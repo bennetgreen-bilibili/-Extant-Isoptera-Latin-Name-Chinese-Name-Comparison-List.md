@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes banyulensis 巴尼于勒散白蚁"
+title: "Reticulitermes banyulensis Clément, 1977 巴尼于勒散白蚁"
 latin: "Reticulitermes banyulensis"
 zh: "巴尼于勒散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Clément, 1977"
+type_locality: "France: ?"
+distribution_zh: "西南欧、西班牙、法国"
+distribution_en: "southwestern Europe, Spain, France"
+synonym_count: 0
 ---

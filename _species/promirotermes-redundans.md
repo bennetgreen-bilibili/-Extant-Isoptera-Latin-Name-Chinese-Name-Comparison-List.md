@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Promirotermes redundans 常见前奇白蚁"
+title: "Promirotermes redundans Silvestri, 1914 常见前奇白蚁"
 latin: "Promirotermes redundans"
 zh: "常见前奇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Mamou"
+distribution_zh: "喀麦隆、多哥、冈比亚、加纳、几内亚、尼日利亚、塞内加尔"
+distribution_en: "Cameroon, Togo, Gambia, Ghana, Guinea, Nigeria, Senegal"
+synonym_count: 0
 ---

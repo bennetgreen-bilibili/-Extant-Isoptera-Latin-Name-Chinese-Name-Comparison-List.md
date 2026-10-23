@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes potens 强壮基齿白蚁"
+title: "Basidentitermes potens Silvestri, 1914 强壮基齿白蚁"
 latin: "Basidentitermes potens"
 zh: "强壮基齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Conakry; Mamou"
+distribution_zh: "西非、科特迪瓦、冈比亚、多哥、尼日利亚、塞内加尔、喀麦隆、坦桑尼亚"
+distribution_en: "West Africa, Côte d'Ivoire, Gambia, Togo, Nigeria, Senegal, Cameroon, Tanzania"
+synonym_count: 0
 ---

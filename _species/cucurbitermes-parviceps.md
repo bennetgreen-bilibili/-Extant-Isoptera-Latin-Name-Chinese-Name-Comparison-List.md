@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cucurbitermes parviceps 小葫白蚁"
+title: "Cucurbitermes parviceps Xu & Dong, 1994 小葫白蚁"
 latin: "Cucurbitermes parviceps"
 zh: "小葫白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xu & Dong, 1994"
+type_locality: "China: Zhejiang Province: Kaihua"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

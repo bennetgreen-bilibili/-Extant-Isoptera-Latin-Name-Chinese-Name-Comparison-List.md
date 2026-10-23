@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes paraschmidti 似施密德须白蚁"
+title: "Hospitalitermes paraschmidti Akhtar & Akbar, 1986 似施密德须白蚁"
 latin: "Hospitalitermes paraschmidti"
 zh: "似施密德须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Akbar, 1986"
+type_locality: "Malaysia: Johore: Gunong Arong Forest Reserve, 14 km ex Mersing-Endau"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes holmgreni 霍姆格伦尖白蚁"
+title: "Apicotermes holmgreni Emerson, 1956 霍姆格伦尖白蚁"
 latin: "Apicotermes holmgreni"
 zh: "霍姆格伦尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1956"
+type_locality: "Malawi: near Nsakaru Hill on Namwera Road"
+distribution_zh: "马拉维、坦桑尼亚"
+distribution_en: "Malawi, Tanzania"
+synonym_count: 0
 ---

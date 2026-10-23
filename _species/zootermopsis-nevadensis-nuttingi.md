@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Zootermopsis nevadensis nuttingi 纳丁亚种"
+title: "Zootermopsis nevadensis nuttingi Haverty & Thorne, 1989 纳丁亚种"
 latin: "Zootermopsis nevadensis nuttingi"
 zh: "纳丁亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Teletisoptera"
 parent_latin: "Zootermopsis nevadensis"
 parent_zh: "内华达动白蚁"
 parent_slug: "zootermopsis-nevadensis"
+author_year: "Haverty & Thorne, 1989"
+type_locality: "United States: California: Pacific Grove"
+synonym_count: 0
 ---

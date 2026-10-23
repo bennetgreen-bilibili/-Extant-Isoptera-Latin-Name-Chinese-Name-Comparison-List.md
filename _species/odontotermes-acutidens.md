@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes acutidens 尖齿土白蚁"
+title: "Odontotermes acutidens Grassé, 1947 尖齿土白蚁"
 latin: "Odontotermes acutidens"
 zh: "尖齿土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé, 1947"
+type_locality: "Ivory Coast: Kouibli, 40 km east of Man [approx. 07°24N, 07°34W]"
+distribution_zh: "西非科特迪瓦、加纳、几内亚"
+distribution_en: "West Africa, Côte d'Ivoire, Ghana, Guinea"
+synonym_count: 0
 ---

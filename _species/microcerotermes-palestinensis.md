@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes palestinensis 巴勒斯坦锯白蚁"
+title: "Microcerotermes palestinensis Spaeth, 1964 巴勒斯坦锯白蚁"
 latin: "Microcerotermes palestinensis"
 zh: "巴勒斯坦锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Spaeth, 1964"
+type_locality: "Israel: Wadi Abyad (Nahal Lavan)"
+distribution_zh: "中东、以色列、印度"
+distribution_en: "Middle East, Israel, India"
+synonym_count: 0
 ---

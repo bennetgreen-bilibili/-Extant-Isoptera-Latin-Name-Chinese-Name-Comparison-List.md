@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ereymatermes panamensis 巴拿马无名白蚁"
+title: "Ereymatermes panamensis Roisin, 1995 巴拿马无名白蚁"
 latin: "Ereymatermes panamensis"
 zh: "巴拿马无名白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin, 1995"
+type_locality: "Panama: Barro Colorado Island"
+distribution_zh: "中美洲、巴拿马"
+distribution_en: "Central America, Panama"
+synonym_count: 0
 ---

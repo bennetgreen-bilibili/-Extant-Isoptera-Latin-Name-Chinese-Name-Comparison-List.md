@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes undulatus 波颚三方白蚁"
+title: "Ternicubitermes undulatus Fuller, 1925 波颚三方白蚁"
 latin: "Ternicubitermes undulatus"
 zh: "波颚三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Pretoria"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

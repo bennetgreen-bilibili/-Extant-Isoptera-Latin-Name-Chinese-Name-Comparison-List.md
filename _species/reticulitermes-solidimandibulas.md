@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes solidimandibulas 粗颚散白蚁"
+title: "Reticulitermes solidimandibulas Li & Xiao, 1989 粗颚散白蚁"
 latin: "Reticulitermes solidimandibulas"
 zh: "粗颚散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Xiao, 1989"
+type_locality: "China: Guangxi Province: Damingshan, Wuming"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

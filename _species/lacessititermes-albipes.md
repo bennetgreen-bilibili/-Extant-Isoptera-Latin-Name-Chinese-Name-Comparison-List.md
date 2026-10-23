@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes albipes 白足怒白蚁"
+title: "Lacessititermes albipes Haviland, 1898 白足怒白蚁"
 latin: "Lacessititermes albipes"
 zh: "白足怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

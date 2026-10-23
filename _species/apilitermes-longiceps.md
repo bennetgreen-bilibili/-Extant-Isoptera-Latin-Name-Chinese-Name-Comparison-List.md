@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apilitermes longiceps 长头无毛白蚁"
+title: "Apilitermes longiceps Sjöstedt, 1899 长头无毛白蚁"
 latin: "Apilitermes longiceps"
 zh: "长头无毛白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1899"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "旧热带界、刚果、尼日利亚"
+distribution_en: "Old World tropics, Congo, Nigeria"
+synonym_count: 0
 ---

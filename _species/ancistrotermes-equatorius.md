@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes equatorius 赤道钩白蚁"
+title: "Ancistrotermes equatorius Harris, 1966 赤道钩白蚁"
 latin: "Ancistrotermes equatorius"
 zh: "赤道钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1966"
+type_locality: "Uganda: Karamoja district, 40 miles southwest of Moroto"
+distribution_zh: "尼日利亚、乌干达"
+distribution_en: "Nigeria, Uganda"
+synonym_count: 0
 ---

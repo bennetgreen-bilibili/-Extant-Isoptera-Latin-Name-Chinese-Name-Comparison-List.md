@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes amboinensis 安汶象白蚁"
+title: "Nasutitermes amboinensis Kemner, 1931 安汶象白蚁"
 latin: "Nasutitermes amboinensis"
 zh: "安汶象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1931"
+type_locality: "Indonesia: Maluku: Ambon"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

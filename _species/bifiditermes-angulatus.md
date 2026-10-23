@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bifiditermes angulatus 角状双裂白蚁"
+title: "Bifiditermes angulatus Wilkinson, 1959 角状双裂白蚁"
 latin: "Bifiditermes angulatus"
 zh: "角状双裂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Wilkinson, 1959"
+type_locality: "Tanzania: East Usambara: Amani, Kiswani"
+distribution_zh: "东非"
+distribution_en: "East Africa"
+synonym_count: 0
 ---

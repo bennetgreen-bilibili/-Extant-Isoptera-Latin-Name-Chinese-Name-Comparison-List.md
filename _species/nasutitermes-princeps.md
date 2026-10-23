@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes princeps 第一象白蚁"
+title: "Nasutitermes princeps Desneux, 1905 第一象白蚁"
 latin: "Nasutitermes princeps"
 zh: "第一象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1905"
+type_locality: "Papua New Guinea: Madang (Friedrich-Wilhelmshafen)"
+distribution_zh: "澳大利亚、印度尼西亚、巴布亚新几内亚"
+distribution_en: "Australia, Indonesia, Papua New Guinea"
+synonym_count: 0
 ---

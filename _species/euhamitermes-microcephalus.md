@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes microcephalus 小头亮白蚁"
+title: "Euhamitermes microcephalus Ping & Li, 1987 小头亮白蚁"
 latin: "Euhamitermes microcephalus"
 zh: "小头亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1987"
+type_locality: "China: Guizhou Province: Loudian"
+distribution_zh: "东洋界"
+distribution_en: "Oriental region"
+synonym_count: 0
 ---

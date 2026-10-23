@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes voeltzkowi 弗尔特科新白蚁"
+title: "Neotermes voeltzkowi Wasmann, 1897 弗尔特科新白蚁"
 latin: "Neotermes voeltzkowi"
 zh: "弗尔特科新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Wasmann, 1897"
+type_locality: "Madagascar: Majunga"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

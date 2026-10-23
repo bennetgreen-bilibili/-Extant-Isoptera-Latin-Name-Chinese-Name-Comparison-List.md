@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cristatitermes froggatti 弗洛格特脊突白蚁"
+title: "Cristatitermes froggatti Hill, 1915 弗洛格特脊突白蚁"
 latin: "Cristatitermes froggatti"
 zh: "弗洛格特脊突白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1915"
+type_locality: "Australia: Northern Territory: 34 mi E Darwin"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

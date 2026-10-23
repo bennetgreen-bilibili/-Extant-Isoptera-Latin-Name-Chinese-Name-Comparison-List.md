@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes splendens 明亮白蚁"
+title: "Termes splendens Sjöstedt, 1926 明亮白蚁"
 latin: "Termes splendens"
 zh: "明亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Ghana: Kedje Keta"
+distribution_zh: "加纳"
+distribution_en: "Ghana"
+synonym_count: 0
 ---

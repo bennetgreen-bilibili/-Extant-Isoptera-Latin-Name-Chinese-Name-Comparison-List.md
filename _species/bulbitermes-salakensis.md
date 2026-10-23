@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes salakensis 萨拉山瓢白蚁"
+title: "Bulbitermes salakensis Kemner, 1934 萨拉山瓢白蚁"
 latin: "Bulbitermes salakensis"
 zh: "萨拉山瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Depok, near Bogor; Kali Bata, near Bogor; Tjandjoer, Vada; near Tjidaho"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

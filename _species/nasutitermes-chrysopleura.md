@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes chrysopleura 金纹象白蚁"
+title: "Nasutitermes chrysopleura Sjöstedt, 1897 金纹象白蚁"
 latin: "Nasutitermes chrysopleura"
 zh: "金纹象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1897"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

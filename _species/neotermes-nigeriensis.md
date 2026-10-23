@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes nigeriensis 尼日利亚新白蚁"
+title: "Neotermes nigeriensis Sjöstedt, 1911 尼日利亚新白蚁"
 latin: "Neotermes nigeriensis"
 zh: "尼日利亚新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Nigeria: Oban District"
+distribution_zh: "尼日利亚"
+distribution_en: "Nigeria"
+synonym_count: 0
 ---

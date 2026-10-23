@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes nepalensis 尼泊尔角白蚁"
+title: "Angulitermes nepalensis Mukherjee & Maiti, 2008 尼泊尔角白蚁"
 latin: "Angulitermes nepalensis"
 zh: "尼泊尔角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mukherjee & Maiti, 2008"
+type_locality: "Nepal: 10 miles NE Tanakpur, Nepal Forest"
+distribution_zh: "尼泊尔"
+distribution_en: "Nepal"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthotermes mansuetus 顺从直白蚁"
+title: "Orthotermes mansuetus Sjöstedt, 1911 顺从直白蚁"
 latin: "Orthotermes mansuetus"
 zh: "顺从直白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "刚果民主共和国、安哥拉、喀麦隆、加蓬"
+distribution_en: "Democratic Republic of the Congo, Angola, Cameroon, Gabon"
+synonym_count: 0
 ---

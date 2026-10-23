@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Indotermes isodentatus 等齿印白蚁"
+title: "Indotermes isodentatus Tsai & Chen, 1963 等齿印白蚁"
 latin: "Indotermes isodentatus"
 zh: "等齿印白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Yunnan Province: Menghan"
+distribution_zh: "东洋界"
+distribution_en: "Oriental region"
+synonym_count: 0
 ---

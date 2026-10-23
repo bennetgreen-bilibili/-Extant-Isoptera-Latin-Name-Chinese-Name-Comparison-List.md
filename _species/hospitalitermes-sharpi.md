@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes sharpi 夏普须白蚁"
+title: "Hospitalitermes sharpi Holmgren, 1913 夏普须白蚁"
 latin: "Hospitalitermes sharpi"
 zh: "夏普须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Negeri Sembilan: Berhentian Tingi; Negeri Sembilan: Sungei Ujong (Seremban); Singapore: ?"
+distribution_zh: "印度尼西亚、马来西亚、新加坡"
+distribution_en: "Indonesia, Malaysia, Singapore"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes nolaensis 诺拉土白蚁"
+title: "Odontotermes nolaensis Sjöstedt, 1924 诺拉土白蚁"
 latin: "Odontotermes nolaensis"
 zh: "诺拉土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Central African Republic: Nola"
+distribution_zh: "东非肯尼亚、安哥拉、喀麦隆、中非共和国、乍得、刚果民主共和国、塞内加尔、乌干达"
+distribution_en: "East Africa, Kenya, Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Senegal, Uganda"
+synonym_count: 0
 ---

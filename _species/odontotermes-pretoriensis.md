@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes pretoriensis 比勒陀利亚土白蚁"
+title: "Odontotermes pretoriensis Sjöstedt, 1924 比勒陀利亚土白蚁"
 latin: "Odontotermes pretoriensis"
 zh: "比勒陀利亚土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "South Africa: Transvaal: Natal; Transvaal: Pretoria"
+distribution_zh: "非洲南部南非"
+distribution_en: "southern Africa (South Africa)"
+synonym_count: 0
 ---

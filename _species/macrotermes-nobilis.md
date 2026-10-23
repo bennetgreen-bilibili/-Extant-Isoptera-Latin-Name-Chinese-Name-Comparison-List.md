@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes nobilis 闻名大白蚁"
+title: "Macrotermes nobilis Sjöstedt, 1900 闻名大白蚁"
 latin: "Macrotermes nobilis"
 zh: "闻名大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1900"
+type_locality: "Cameroon: Johann-Albrechtshöhe"
+distribution_zh: "中非、喀麦隆、刚果、刚果民主共和国、加蓬"
+distribution_en: "Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon"
+synonym_count: 0
 ---

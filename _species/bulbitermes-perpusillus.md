@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes perpusillus 近极小瓢白蚁"
+title: "Bulbitermes perpusillus John, 1925 近极小瓢白蚁"
 latin: "Bulbitermes perpusillus"
 zh: "近极小瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "John, 1925"
+type_locality: "Singapore: Bukit Timah"
+distribution_zh: "马来西亚、新加坡"
+distribution_en: "Malaysia, Singapore"
+synonym_count: 0
 ---

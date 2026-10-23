@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Silvestritermes almirsateri 阿尔米尔萨特尔西尔韦斯特里白蚁"
+title: "Silvestritermes almirsateri Rocha & Cancello, 2012 阿尔米尔萨特尔西尔韦斯特里白蚁"
 latin: "Silvestritermes almirsateri"
 zh: "阿尔米尔萨特尔西尔韦斯特里白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2012"
+type_locality: "Brasil: Mato Grosso: Poconé [16.26S 56.629W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

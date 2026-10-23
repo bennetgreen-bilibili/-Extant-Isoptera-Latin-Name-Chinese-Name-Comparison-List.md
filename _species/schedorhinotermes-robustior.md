@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes robustior 强壮长鼻白蚁"
+title: "Schedorhinotermes robustior Silvestri, 1909 强壮长鼻白蚁"
 latin: "Schedorhinotermes robustior"
 zh: "强壮长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Silvestri, 1909"
+type_locality: "Papua New Guinea: New Britain: Ralum Louson"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

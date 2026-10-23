@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes menadoensis 万鸦东土白蚁"
+title: "Odontotermes menadoensis Kemner, 1934 万鸦东土白蚁"
 latin: "Odontotermes menadoensis"
 zh: "万鸦东土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Sulawesi: Maros; Sulawesi: Menado; Talisay Island"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

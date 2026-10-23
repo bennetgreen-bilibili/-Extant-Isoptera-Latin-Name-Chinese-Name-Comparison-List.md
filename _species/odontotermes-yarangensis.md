@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes yarangensis 亚让土白蚁"
+title: "Odontotermes yarangensis Tsai & Huang, 1981 亚让土白蚁"
 latin: "Odontotermes yarangensis"
 zh: "亚让土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1981"
+type_locality: "China: Tibet: Motuo County"
+distribution_zh: "西藏（墨脱亚让1000m）、中国"
+distribution_en: "Tibet (Medog Yarong 1000m), China"
+synonym_count: 0
 ---

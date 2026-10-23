@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes papuanus 巴布亚近扭白蚁"
+title: "Pericapritermes papuanus Bourguignon & Roisin, 2008 巴布亚近扭白蚁"
 latin: "Pericapritermes papuanus"
 zh: "巴布亚近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bourguignon & Roisin, 2008"
+type_locality: "Papua New Guinea: Western Province: Wipim"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

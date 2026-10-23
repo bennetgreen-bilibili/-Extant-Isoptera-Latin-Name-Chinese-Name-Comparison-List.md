@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ateuchotermes rastratus 耙痕无锐白蚁"
+title: "Ateuchotermes rastratus Sands, 1972 耙痕无锐白蚁"
 latin: "Ateuchotermes rastratus"
 zh: "耙痕无锐白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Kenya: Nyambeni Hills, 22 mi from Meru"
+distribution_zh: "喀麦隆、埃塞俄比亚、肯尼亚、坦桑尼亚"
+distribution_en: "Cameroon, Ethiopia, Kenya, Tanzania"
+synonym_count: 0
 ---

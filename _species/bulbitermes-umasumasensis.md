@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes umasumasensis 乌马斯乌马斯瓢白蚁"
+title: "Bulbitermes umasumasensis Thapa, 1982 乌马斯乌马斯瓢白蚁"
 latin: "Bulbitermes umasumasensis"
 zh: "乌马斯乌马斯瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Kalabakan District: Umas Umas"
+distribution_zh: "新加坡、马来西亚"
+distribution_en: "Singapore, Malaysia"
+synonym_count: 0
 ---

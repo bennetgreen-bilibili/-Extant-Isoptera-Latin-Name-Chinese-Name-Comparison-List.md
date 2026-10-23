@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bicornitermes emersoni 埃默森双角白蚁"
+title: "Bicornitermes emersoni Krishna, 1962 埃默森双角白蚁"
 latin: "Bicornitermes emersoni"
 zh: "埃默森双角白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krishna, 1962"
+type_locality: "Democratic Republic of the Congo: Kinshasa (Leopoldville)"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

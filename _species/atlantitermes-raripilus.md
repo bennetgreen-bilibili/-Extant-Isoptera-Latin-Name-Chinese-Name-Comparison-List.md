@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Atlantitermes raripilus 少毛阿特拉斯白蚁"
+title: "Atlantitermes raripilus Emerson, 1925 少毛阿特拉斯白蚁"
 latin: "Atlantitermes raripilus"
 zh: "少毛阿特拉斯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+distribution_zh: "巴西、圭亚那、秘鲁"
+distribution_en: "Brazil, Guyana, Peru"
+synonym_count: 0
 ---

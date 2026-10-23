@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes luluai 卢路亚锯白蚁"
+title: "Microcerotermes luluai Roisin & Pasteels, 2000 卢路亚锯白蚁"
 latin: "Microcerotermes luluai"
 zh: "卢路亚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 2000"
+type_locality: "Papua New Guinea: Southern Highlands: Pimaga"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

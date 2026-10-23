@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes bellator 勇士镰白蚁"
+title: "Drepanotermes bellator Watson & Perry, 1981 勇士镰白蚁"
 latin: "Drepanotermes bellator"
 zh: "勇士镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Northern Territory: 7 mi (11 km) E of Alice Springs"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

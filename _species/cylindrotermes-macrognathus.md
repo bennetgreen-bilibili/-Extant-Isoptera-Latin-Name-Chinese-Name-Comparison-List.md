@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cylindrotermes macrognathus 长颚圆筒白蚁"
+title: "Cylindrotermes macrognathus Snyder, 1929 长颚圆筒白蚁"
 latin: "Cylindrotermes macrognathus"
 zh: "长颚圆筒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cylindrotermitinae"
 subfamily_id: "cylindrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1929"
+type_locality: "Panama: Barro Colorado Island"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

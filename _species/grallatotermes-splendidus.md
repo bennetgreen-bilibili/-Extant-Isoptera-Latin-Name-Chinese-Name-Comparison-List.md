@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Grallatotermes splendidus 华美高跷白蚁"
+title: "Grallatotermes splendidus Light & Wilson, 1936 华美高跷白蚁"
 latin: "Grallatotermes splendidus"
 zh: "华美高跷白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Luzon: across Pampanga River from Arayat, SW shore of Lake Casili"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Incisitermes seeversi 西弗斯楹白蚁"
+title: "Incisitermes seeversi Snyder & Emerson, 1949 西弗斯楹白蚁"
 latin: "Incisitermes seeversi"
 zh: "西弗斯楹白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder & Emerson, 1949"
+type_locality: "Mexico: Madre Maria Island"
+distribution_zh: "墨西哥、危地马拉"
+distribution_en: "Mexico, Guatemala"
+synonym_count: 0
 ---

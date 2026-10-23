@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes pronasutus 似大鼻瓢白蚁"
+title: "Bulbitermes pronasutus Akhtar & Pervez, 1986 似大鼻瓢白蚁"
 latin: "Bulbitermes pronasutus"
 zh: "似大鼻瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Pervez, 1986"
+type_locality: "Malaysia: Tarenganu, 7 km S of Dongun Forest Reserve"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

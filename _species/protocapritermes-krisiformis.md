@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Protocapritermes krisiformis 波颚始扭白蚁"
+title: "Protocapritermes krisiformis Froggatt, 1898 波颚始扭白蚁"
 latin: "Protocapritermes krisiformis"
 zh: "波颚始扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Froggatt, 1898"
+type_locality: "Australia: New South Wales: Sutherland, near Sydney"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

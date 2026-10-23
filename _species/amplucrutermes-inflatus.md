@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amplucrutermes inflatus 椭圆大腿白蚁"
+title: "Amplucrutermes inflatus Bourguignon & Roisin, 2016 椭圆大腿白蚁"
 latin: "Amplucrutermes inflatus"
 zh: "椭圆大腿白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bourguignon & Roisin, 2016"
+type_locality: "French Guiana: Nouragues Inselberg station [ 4.0884N 52.6814W ]"
+distribution_zh: "南美洲、圭亚那地盾、法属圭亚那"
+distribution_en: "South America, Guiana Shield, French Guiana"
+synonym_count: 0
 ---

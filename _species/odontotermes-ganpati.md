@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes ganpati 加帕蒂土白蚁"
+title: "Odontotermes ganpati Bose, 1997 加帕蒂土白蚁"
 latin: "Odontotermes ganpati"
 zh: "加帕蒂土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1997"
+type_locality: "India: Assam: Mesamari Tea Estate"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

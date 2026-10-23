@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes longignathus 长颚锯白蚁"
+title: "Microcerotermes longignathus Ahmad, 1955 长颚锯白蚁"
 latin: "Microcerotermes longignathus"
 zh: "长颚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1955"
+type_locality: "Pakistan: Baluchistan: Zhob District: Fort Sandeman"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

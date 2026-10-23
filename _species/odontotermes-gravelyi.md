@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes gravelyi 粗颚土白蚁"
+title: "Odontotermes gravelyi Silvestri, 1914 粗颚土白蚁"
 latin: "Odontotermes gravelyi"
 zh: "粗颚土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Myanmar: east side of Dawna Hills, Sukli"
+distribution_zh: "中国云南、缅甸、越南"
+distribution_en: "Yunnan, China, Myanmar, Vietnam"
+synonym_count: 0
 ---

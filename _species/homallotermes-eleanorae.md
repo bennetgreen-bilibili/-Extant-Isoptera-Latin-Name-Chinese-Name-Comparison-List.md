@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Homallotermes eleanorae 埃莉诺平白蚁"
+title: "Homallotermes eleanorae Emerson, 1972 埃莉诺平白蚁"
 latin: "Homallotermes eleanorae"
 zh: "埃莉诺平白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1972"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "文莱、印度尼西亚、马来西亚"
+distribution_en: "Brunei, Indonesia, Malaysia"
+synonym_count: 0
 ---

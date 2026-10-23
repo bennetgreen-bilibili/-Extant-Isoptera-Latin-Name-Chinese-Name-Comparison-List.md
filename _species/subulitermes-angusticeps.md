@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Subulitermes angusticeps 窄头锥白蚁"
+title: "Subulitermes angusticeps Snyder, 1926 窄头锥白蚁"
 latin: "Subulitermes angusticeps"
 zh: "窄头锥白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: La Paz: Espía [16.4667S 67.3333W]"
+distribution_zh: "玻利维亚"
+distribution_en: "Bolivia"
+synonym_count: 0
 ---

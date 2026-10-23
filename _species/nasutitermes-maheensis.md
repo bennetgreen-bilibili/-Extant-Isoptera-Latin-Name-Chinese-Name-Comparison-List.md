@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes maheensis 马埃象白蚁"
+title: "Nasutitermes maheensis Holmgren, 1910 马埃象白蚁"
 latin: "Nasutitermes maheensis"
 zh: "马埃象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Seychelles: Longue Island; Mahé"
+distribution_zh: "塞舌尔"
+distribution_en: "Seychelles"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes vishnu 维什鲁象白蚁"
+title: "Nasutitermes vishnu Bose, 1984 维什鲁象白蚁"
 latin: "Nasutitermes vishnu"
 zh: "维什鲁象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1984"
+type_locality: "India: Karnataka: Coorg: Makut"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes xiushanensis 秀山华扭白蚁"
+title: "Sinocapritermes xiushanensis He, 1993 秀山华扭白蚁"
 latin: "Sinocapritermes xiushanensis"
 zh: "秀山华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He, 1993"
+type_locality: "China: Sichuan Province: Xiushan County"
+distribution_zh: "中国、重庆"
+distribution_en: "China, Chongqing"
+synonym_count: 0
 ---

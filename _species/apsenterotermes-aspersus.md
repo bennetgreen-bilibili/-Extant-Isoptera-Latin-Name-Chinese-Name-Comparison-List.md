@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apsenterotermes aspersus 散乱后肠白蚁"
+title: "Apsenterotermes aspersus Miller, 1991 散乱后肠白蚁"
 latin: "Apsenterotermes aspersus"
 zh: "散乱后肠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Western Australia, 640 km from Geraldton, on Carnarvon road"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

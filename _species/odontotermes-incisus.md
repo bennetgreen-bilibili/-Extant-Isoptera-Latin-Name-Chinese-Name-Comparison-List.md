@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes incisus 刃穴土白蚁"
+title: "Odontotermes incisus Holmgren, 1913 刃穴土白蚁"
 latin: "Odontotermes incisus"
 zh: "刃穴土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Sumatra: Deli"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

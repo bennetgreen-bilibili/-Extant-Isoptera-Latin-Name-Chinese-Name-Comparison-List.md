@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes bolivianus 玻利维亚象白蚁"
+title: "Nasutitermes bolivianus Holmgren, 1910 玻利维亚象白蚁"
 latin: "Nasutitermes bolivianus"
 zh: "玻利维亚象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Bolivia: La Paz: Mojos [14.5667S 68.8833W]"
+distribution_zh: "玻利维亚"
+distribution_en: "Bolivia"
+synonym_count: 0
 ---

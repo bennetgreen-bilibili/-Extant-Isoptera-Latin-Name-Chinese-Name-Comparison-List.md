@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes guizhouensis 贵州土白蚁"
+title: "Odontotermes guizhouensis Ping & Xu, 1988 贵州土白蚁"
 latin: "Odontotermes guizhouensis"
 zh: "贵州土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1988"
+type_locality: "China: Guizhou Province: Panxian Tequ"
+distribution_zh: "中国贵州"
+distribution_en: "China (Guizhou)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes niapuensis 尼亚普原方白蚁"
+title: "Procubitermes niapuensis Emerson, 1928 尼亚普原方白蚁"
 latin: "Procubitermes niapuensis"
 zh: "尼亚普原方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Niapu"
+distribution_zh: "喀麦隆、刚果、刚果民主共和国"
+distribution_en: "Cameroon, Congo, Democratic Republic of the Congo"
+synonym_count: 0
 ---

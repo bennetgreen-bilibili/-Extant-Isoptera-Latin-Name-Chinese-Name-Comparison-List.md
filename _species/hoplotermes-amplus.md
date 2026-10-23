@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hoplotermes amplus 广泛武白蚁"
+title: "Hoplotermes amplus Light, 1933 广泛武白蚁"
 latin: "Hoplotermes amplus"
 zh: "广泛武白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1933"
+type_locality: "Mexico: Colima State: Jala"
+distribution_zh: "中美洲及加勒比、墨西哥"
+distribution_en: "Central America and Caribbean, Mexico"
+synonym_count: 0
 ---

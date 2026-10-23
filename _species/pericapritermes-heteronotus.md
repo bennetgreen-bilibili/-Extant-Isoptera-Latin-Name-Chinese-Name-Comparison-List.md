@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes heteronotus 异背近扭白蚁"
+title: "Pericapritermes heteronotus Silvestri, 1914 异背近扭白蚁"
 latin: "Pericapritermes heteronotus"
 zh: "异背近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kindia"
+distribution_zh: "刚果民主共和国、几内亚、尼日利亚、塞拉利昂"
+distribution_en: "Democratic Republic of the Congo, Guinea, Nigeria, Sierra Leone"
+synonym_count: 0
 ---

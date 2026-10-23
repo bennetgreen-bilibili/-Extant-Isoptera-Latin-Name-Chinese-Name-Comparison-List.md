@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes apiocephalus 蜂头冢白蚁"
+title: "Tumulitermes apiocephalus Silvestri, 1909 蜂头冢白蚁"
 latin: "Tumulitermes apiocephalus"
 zh: "蜂头冢白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1909"
+type_locality: "Australia: Western Australia: Northhampton or Jurrandale"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Eutermes (Tumulitermes) aagaardi Mjöberg, 1920: 55-56"
+synonym_localities: "Australia: Western Australia: Mundaring"
 ---

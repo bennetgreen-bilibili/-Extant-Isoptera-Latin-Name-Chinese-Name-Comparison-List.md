@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes inopinatus 意外解甲白蚁"
+title: "Anoplotermes inopinatus Scheffrahn & Krecek, 2006 意外解甲白蚁"
 latin: "Anoplotermes inopinatus"
 zh: "意外解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn & Krecek, 2006"
+type_locality: "Bahamas: Eleuthera Island: North Bluff"
+distribution_zh: "巴哈马"
+distribution_en: "Bahamas"
+synonym_count: 0
 ---

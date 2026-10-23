@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes roonwali 鲁恩沃杆白蚁"
+title: "Stylotermes roonwali Thapa, 1982 鲁恩沃杆白蚁"
 latin: "Stylotermes roonwali"
 zh: "鲁恩沃杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Sandakan South District: Lungmanis"
+distribution_zh: "印度、文莱、马来西亚"
+distribution_en: "India, Brunei, Malaysia"
+synonym_count: 0
 ---

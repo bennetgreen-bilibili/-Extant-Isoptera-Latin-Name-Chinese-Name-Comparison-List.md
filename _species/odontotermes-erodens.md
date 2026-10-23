@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes erodens 缺齿土白蚁"
+title: "Odontotermes erodens Sjöstedt, 1904 缺齿土白蚁"
 latin: "Odontotermes erodens"
 zh: "缺齿土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "(country unknown): \"Coast of Red Sea”"
+distribution_zh: "分布待核"
+distribution_en: "distribution to be verified"
+synonym_count: 0
 ---

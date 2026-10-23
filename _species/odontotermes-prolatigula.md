@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes prolatigula 前宽颏土白蚁"
+title: "Odontotermes prolatigula Bose, 1997 前宽颏土白蚁"
 latin: "Odontotermes prolatigula"
 zh: "前宽颏土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1997"
+type_locality: "India: Arunachal Pradesh: East Siang District, 7 km from Zero to Boleng, Nambung"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Machadotermes rigidus 强直剑白蚁"
+title: "Machadotermes rigidus Collins, 1977 强直剑白蚁"
 latin: "Machadotermes rigidus"
 zh: "强直剑白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Collins, 1977"
+type_locality: "Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes macronotus 大背小白蚁"
+title: "Microtermes macronotus Holmgren, 1913 大背小白蚁"
 latin: "Microtermes macronotus"
 zh: "大背小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "(country unknown): ?\"Ceylon.\""
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

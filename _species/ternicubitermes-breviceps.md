@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes breviceps 短头三方白蚁"
+title: "Ternicubitermes breviceps Sjöstedt, 1913 短头三方白蚁"
 latin: "Ternicubitermes breviceps"
 zh: "短头三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1913"
+type_locality: "Zimbabwe: Harare (Salisbury)"
+distribution_zh: "津巴布韦"
+distribution_en: "Zimbabwe"
+synonym_count: 0
 ---

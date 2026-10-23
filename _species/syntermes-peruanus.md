@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes peruanus 秘鲁聚白蚁"
+title: "Syntermes peruanus Holmgren, 1911 秘鲁聚白蚁"
 latin: "Syntermes peruanus"
 zh: "秘鲁聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Bolivia: La Paz: Mojos [14.5667S 68.8833W]"
+distribution_zh: "巴西、玻利维亚、秘鲁"
+distribution_en: "Brazil, Bolivia, Peru"
+synonym_count: 0
 ---

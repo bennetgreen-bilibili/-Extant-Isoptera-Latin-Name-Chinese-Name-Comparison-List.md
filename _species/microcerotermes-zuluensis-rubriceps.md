@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes zuluensis rubriceps 红头亚种"
+title: "Microcerotermes zuluensis rubriceps Holmgren, 1913 红头亚种"
 latin: "Microcerotermes zuluensis rubriceps"
 zh: "红头亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microcerotermes zuluensis"
 parent_zh: "祖鲁锯白蚁"
 parent_slug: "microcerotermes-zuluensis"
+author_year: "Holmgren, 1913"
+type_locality: "South Africa: Zululand: Mkosi"
+synonym_count: 0
 ---

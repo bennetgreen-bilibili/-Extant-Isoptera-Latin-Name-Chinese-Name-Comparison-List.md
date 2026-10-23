@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes sindensis 信德小白蚁"
+title: "Microtermes sindensis Desneux, 1906 信德小白蚁"
 latin: "Microtermes sindensis"
 zh: "信德小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1906"
+type_locality: "Pakistan: Sind: Karachi"
+distribution_zh: "南亚、巴基斯坦信德"
+distribution_en: "South Asia, Sindh, Pakistan"
+synonym_count: 0
 ---

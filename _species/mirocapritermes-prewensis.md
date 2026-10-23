@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes prewensis 普鲁瘤白蚁"
+title: "Mirocapritermes prewensis Ahmad, 1965 普鲁瘤白蚁"
 latin: "Mirocapritermes prewensis"
 zh: "普鲁瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Prew"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

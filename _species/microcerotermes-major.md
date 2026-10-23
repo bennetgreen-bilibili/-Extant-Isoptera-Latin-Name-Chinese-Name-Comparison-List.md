@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes major 大型锯白蚁"
+title: "Microcerotermes major Cachan, 1951 大型锯白蚁"
 latin: "Microcerotermes major"
 zh: "大型锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cachan, 1951"
+type_locality: "Madagascar: Antsingy; Betroka; Joffreville; Nosy Mamoko; Sambirano"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

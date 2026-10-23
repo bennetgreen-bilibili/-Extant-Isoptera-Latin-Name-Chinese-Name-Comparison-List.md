@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes guangdongensis 广东乳白蚁"
+title: "Coptotermes guangdongensis Ping, 1985 广东乳白蚁"
 latin: "Coptotermes guangdongensis"
 zh: "广东乳白蚁"
 type: false
@@ -13,4 +13,11 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1985"
+type_locality: "China: Guangdong Province: Guangzhou"
+distribution_zh: "中国广东"
+distribution_en: "China (Guangdong)"
+synonym_count: 1
+synonyms: "Coptotermes pingi Myles, 1990: 813"
+synonym_localities: "China: Guangdong Province: Guangzhou"
 ---

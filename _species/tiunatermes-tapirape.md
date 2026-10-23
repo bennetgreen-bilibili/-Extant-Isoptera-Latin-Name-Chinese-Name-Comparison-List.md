@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tiunatermes tapirape 塔皮拉佩暗鼻白蚁"
+title: "Tiunatermes tapirape Oliveira, 2026 塔皮拉佩暗鼻白蚁"
 latin: "Tiunatermes tapirape"
 zh: "塔皮拉佩暗鼻白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oliveira, 2026"
+type_locality: "Brasil: Goiás: Chapada dos Veadeiros [14.1924S 47.8349W]"
+distribution_zh: "南美洲、巴西"
+distribution_en: "South America, Brazil"
+synonym_count: 0
 ---

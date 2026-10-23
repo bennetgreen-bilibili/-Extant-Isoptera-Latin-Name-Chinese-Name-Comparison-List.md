@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes boranicus 博拉娜土白蚁"
+title: "Odontotermes boranicus Ghidini, 1937 博拉娜土白蚁"
 latin: "Odontotermes boranicus"
 zh: "博拉娜土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1937"
+type_locality: "Ethiopia: Galla-Borana: Neghelli"
+distribution_zh: "东非肯尼亚、埃塞俄比亚、坦桑尼亚"
+distribution_en: "East Africa (Kenya, Ethiopia, Tanzania)"
+synonym_count: 0
 ---

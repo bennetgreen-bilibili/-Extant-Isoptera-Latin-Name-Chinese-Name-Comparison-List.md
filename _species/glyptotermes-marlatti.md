@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes marlatti 马拉特树白蚁"
+title: "Glyptotermes marlatti Snyder, 1926 马拉特树白蚁"
 latin: "Glyptotermes marlatti"
 zh: "马拉特树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Costa Rica: Santa Clara: Hamburg Farm"
+distribution_zh: "哥斯达黎加"
+distribution_en: "Costa Rica"
+synonym_count: 0
 ---

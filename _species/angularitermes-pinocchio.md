@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angularitermes pinocchio 松果棱角白蚁"
+title: "Angularitermes pinocchio Cancello & Brandão, 1996 松果棱角白蚁"
 latin: "Angularitermes pinocchio"
 zh: "松果棱角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello & Brandão, 1996"
+type_locality: "Brasil: Goiás: Goiânia [16.67S 49.27W]"
+distribution_zh: "巴西、秘鲁"
+distribution_en: "Brazil, Peru"
+synonym_count: 0
 ---

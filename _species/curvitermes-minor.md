@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Curvitermes minor 小型曲白蚁"
+title: "Curvitermes minor Silvestri, 1901 小型曲白蚁"
 latin: "Curvitermes minor"
 zh: "小型曲白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
+distribution_zh: "巴西、玻利维亚"
+distribution_en: "Brazil, Bolivia"
+synonym_count: 1
+synonyms: "Curvitermes planioculus Mathews, 1977: 230-232"
+synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
 ---

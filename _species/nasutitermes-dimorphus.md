@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes dimorphus 二型象白蚁"
+title: "Nasutitermes dimorphus Ahmad, 1965 二型象白蚁"
 latin: "Nasutitermes dimorphus"
 zh: "二型象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Kan Tang"
+distribution_zh: "马来西亚、泰国"
+distribution_en: "Malaysia, Thailand"
+synonym_count: 0
 ---

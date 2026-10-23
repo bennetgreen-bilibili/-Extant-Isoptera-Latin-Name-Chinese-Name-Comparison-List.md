@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes paradoxus 奇异镰白蚁"
+title: "Drepanotermes paradoxus Watson & Perry, 1981 奇异镰白蚁"
 latin: "Drepanotermes paradoxus"
 zh: "奇异镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Western Australia: 10 mi (16 km) SE of Roebourne"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

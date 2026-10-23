@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes guineensis 几内亚弓白蚁"
+title: "Amitermes guineensis Sands, 1992 几内亚弓白蚁"
 latin: "Amitermes guineensis"
 zh: "几内亚弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1992"
+type_locality: "Nigeria: 43 miles from Maiduguri on Potiskum road"
+distribution_zh: "西非"
+distribution_en: "West Africa"
+synonym_count: 0
 ---

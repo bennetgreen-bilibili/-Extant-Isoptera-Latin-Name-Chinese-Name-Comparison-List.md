@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes dunensis 德拉敦近扭白蚁"
+title: "Pericapritermes dunensis Roonwal & Sen-Sarma, 1960 德拉敦近扭白蚁"
 latin: "Pericapritermes dunensis"
 zh: "德拉敦近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "India: Uttarakhand: Dehra Dun"
+distribution_zh: "印度、不丹"
+distribution_en: "India, Bhutan"
+synonym_count: 0
 ---

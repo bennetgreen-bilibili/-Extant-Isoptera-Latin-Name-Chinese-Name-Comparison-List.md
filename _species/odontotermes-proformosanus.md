@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes proformosanus 原黑翅土白蚁"
+title: "Odontotermes proformosanus Ahmad, 1965 原黑翅土白蚁"
 latin: "Odontotermes proformosanus"
 zh: "原黑翅土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "东南亚柬埔寨、越南、孟加拉国、印度、泰国"
+distribution_en: "Southeast Asia, Cambodia, Vietnam, Bangladesh, India, Thailand"
+synonym_count: 0
 ---

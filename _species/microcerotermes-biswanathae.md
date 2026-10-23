@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes biswanathae 比斯瓦那塔锯白蚁"
+title: "Microcerotermes biswanathae Maiti & Chakraborty, 1994 比斯瓦那塔锯白蚁"
 latin: "Microcerotermes biswanathae"
 zh: "比斯瓦那塔锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti & Chakraborty, 1994"
+type_locality: "India: Andaman Islands: South Andaman Island, Port Blair, Radio Colony"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes flyensis 弗莱锯白蚁"
+title: "Microcerotermes flyensis Roisin & Pasteels, 2000 弗莱锯白蚁"
 latin: "Microcerotermes flyensis"
 zh: "弗莱锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 2000"
+type_locality: "Papua New Guinea: Western Province: Morehead"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

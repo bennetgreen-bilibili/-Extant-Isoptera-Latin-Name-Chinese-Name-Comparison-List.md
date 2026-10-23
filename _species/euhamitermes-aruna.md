@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes aruna 阿鲁纳亮白蚁"
+title: "Euhamitermes aruna Chhotani, 1975 阿鲁纳亮白蚁"
 latin: "Euhamitermes aruna"
 zh: "阿鲁纳亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1975"
+type_locality: "India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong"
+distribution_zh: "东洋界"
+distribution_en: "Oriental region"
+synonym_count: 0
 ---

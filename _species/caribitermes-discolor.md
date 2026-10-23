@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Caribitermes discolor 异色加勒比白蚁"
+title: "Caribitermes discolor Banks, 1919 异色加勒比白蚁"
 latin: "Caribitermes discolor"
 zh: "异色加勒比白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Banks, 1919"
+type_locality: "Puerto Rico: Adjuntas; Culebra Island; El Yunque; Manati"
+distribution_zh: "多米尼加、波多黎各、古巴、海地、牙买加"
+distribution_en: "Dominican Republic, Puerto Rico, Cuba, Haiti, Jamaica"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes paradentatus 似具齿弓白蚁"
+title: "Amitermes paradentatus Ahmad, 1955 似具齿弓白蚁"
 latin: "Amitermes paradentatus"
 zh: "似具齿弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1955"
+type_locality: "Pakistan: Sind: Dadu District: Budhapur"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

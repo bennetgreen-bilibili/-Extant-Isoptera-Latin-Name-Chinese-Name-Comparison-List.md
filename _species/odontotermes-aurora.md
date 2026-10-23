@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes aurora 黎明土白蚁"
+title: "Odontotermes aurora Sjöstedt, 1904 黎明土白蚁"
 latin: "Odontotermes aurora"
 zh: "黎明土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Tanzania: Zanzibar"
+distribution_zh: "东非坦桑尼亚桑给巴尔"
+distribution_en: "East Africa, Tanzania, Zanzibar"
+synonym_count: 0
 ---

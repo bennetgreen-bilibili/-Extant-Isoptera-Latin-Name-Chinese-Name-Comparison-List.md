@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cyrilliotermes brevidens 短齿壶头白蚁"
+title: "Cyrilliotermes brevidens Constantino & Carvalho, 2012 短齿壶头白蚁"
 latin: "Cyrilliotermes brevidens"
 zh: "短齿壶头白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino & Carvalho, 2012"
+type_locality: "Brasil: Minas Gerais: Lagoa Santa [19.63S 43.88W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Adaiphrotermes choanensis 乔安和白蚁"
+title: "Adaiphrotermes choanensis Fuller, 1925 乔安和白蚁"
 latin: "Adaiphrotermes choanensis"
 zh: "乔安和白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Pretoria: Arcadia"
+distribution_zh: "肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦"
+distribution_en: "Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe"
+synonym_count: 0
 ---

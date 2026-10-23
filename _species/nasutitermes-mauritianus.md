@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes mauritianus 毛里求斯象白蚁"
+title: "Nasutitermes mauritianus Wasmann, 1910 毛里求斯象白蚁"
 latin: "Nasutitermes mauritianus"
 zh: "毛里求斯象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1910"
+type_locality: "Mauritius: ?"
+distribution_zh: "马达加斯加、毛里求斯"
+distribution_en: "Madagascar, Mauritius"
+synonym_count: 1
+synonyms: "Nasutitermes (Nasutitermes) voeltzkowi wasmanni Emerson, 1928: 416"
+synonym_localities: "Mauritius: ?"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes reticulatus 似网树白蚁"
+title: "Glyptotermes reticulatus Wilkinson, 1954 似网树白蚁"
 latin: "Glyptotermes reticulatus"
 zh: "似网树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Wilkinson, 1954"
+type_locality: "Tanzania: Jozani Forest"
+distribution_zh: "坦桑尼亚"
+distribution_en: "Tanzania"
+synonym_count: 0
 ---

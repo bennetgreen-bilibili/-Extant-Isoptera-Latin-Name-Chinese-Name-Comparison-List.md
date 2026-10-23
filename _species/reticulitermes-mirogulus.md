@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes mirogulus 奇颏散白蚁"
+title: "Reticulitermes mirogulus He & Qui, 1990 奇颏散白蚁"
 latin: "Reticulitermes mirogulus"
 zh: "奇颏散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Qui, 1990"
+type_locality: "China: Guizhou Province: Fanjingshan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

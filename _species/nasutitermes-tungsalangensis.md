@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes tungsalangensis 通沙朗象白蚁"
+title: "Nasutitermes tungsalangensis Ahmad, 1965 通沙朗象白蚁"
 latin: "Nasutitermes tungsalangensis"
 zh: "通沙朗象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Tung Sa-Lang Luang"
+distribution_zh: "马来西亚、泰国"
+distribution_en: "Malaysia, Thailand"
+synonym_count: 0
 ---

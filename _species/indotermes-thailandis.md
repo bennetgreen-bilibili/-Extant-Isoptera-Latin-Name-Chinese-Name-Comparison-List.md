@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Indotermes thailandis 泰国印白蚁"
+title: "Indotermes thailandis Ahmad, 1963 泰国印白蚁"
 latin: "Indotermes thailandis"
 zh: "泰国印白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1963"
+type_locality: "Thailand: Pitsanulok Province: Tung Sa-Lang Luang National Park"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes tibetanus 西藏散白蚁"
+title: "Reticulitermes tibetanus Huang & Han, 1988 西藏散白蚁"
 latin: "Reticulitermes tibetanus"
 zh: "西藏散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Han, 1988"
+type_locality: "China: Tibet: Medog"
+distribution_zh: "中国西藏"
+distribution_en: "China (Tibet)"
+synonym_count: 0
 ---

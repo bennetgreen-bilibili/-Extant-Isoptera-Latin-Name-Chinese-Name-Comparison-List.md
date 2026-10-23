@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Atlantitermes stercophilus 喜粪阿特拉斯白蚁"
+title: "Atlantitermes stercophilus Constantino & DeSouza, 1997 喜粪阿特拉斯白蚁"
 latin: "Atlantitermes stercophilus"
 zh: "喜粪阿特拉斯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino & DeSouza, 1997"
+type_locality: "Brasil: Minas Gerais: Rio Paranaíba [19.2S 46.25W]"
+distribution_zh: "巴西、秘鲁"
+distribution_en: "Brazil, Peru"
+synonym_count: 0
 ---

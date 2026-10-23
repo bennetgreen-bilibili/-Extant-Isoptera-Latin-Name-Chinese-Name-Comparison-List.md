@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes hekouensis 河口钩白蚁"
+title: "Ancistrotermes hekouensis Zhu & Wang, 1991 河口钩白蚁"
 latin: "Ancistrotermes hekouensis"
 zh: "河口钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Wang, 1991"
+type_locality: "China: Yunnan Province: Yao Autonomous County of Hekou"
+distribution_zh: "云南（河口110m）"
+distribution_en: "Yunnan (Hekou 110m)"
+synonym_count: 0
 ---

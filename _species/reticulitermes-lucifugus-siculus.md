@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes lucifugus siculus 西西里亚种"
+title: "Reticulitermes lucifugus siculus Ghesini, Luchetti & Marini, 2024 西西里亚种"
 latin: "Reticulitermes lucifugus siculus"
 zh: "西西里亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Reticulitermes lucifugus"
 parent_zh: "暗黑散白蚁"
 parent_slug: "reticulitermes-lucifugus"
+author_year: "Ghesini, Luchetti & Marini, 2024"
+type_locality: "Italy: Sicily"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes sanctaeluciae 圣卢西亚湖锯白蚁"
+title: "Microcerotermes sanctaeluciae Fuller, 1925 圣卢西亚湖锯白蚁"
 latin: "Microcerotermes sanctaeluciae"
 zh: "圣卢西亚湖锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Natal: Nibele, at the N extremity of Lake St. Lucia"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

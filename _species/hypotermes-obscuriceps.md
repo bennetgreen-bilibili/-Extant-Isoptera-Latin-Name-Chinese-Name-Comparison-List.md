@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes obscuriceps 暗头地白蚁"
+title: "Hypotermes obscuriceps Wasmann, 1902 暗头地白蚁"
 latin: "Hypotermes obscuriceps"
 zh: "暗头地白蚁"
 type: true
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1902"
+type_locality: "Sri Lanka: Trincomali"
+distribution_zh: "印度、斯里兰卡、越南"
+distribution_en: "India, Sri Lanka, Vietnam"
+synonym_count: 1
+synonyms: "Odontotermes ( Hypotermes ) marshalli Kemner, 1926: 387-388"
+synonym_localities: "Sri Lanka: Avisavella, Raltota"
 ---

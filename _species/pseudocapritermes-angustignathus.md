@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes angustignathus 细颚伪扭白蚁"
+title: "Pseudocapritermes angustignathus Holmgren, 1914 细颚伪扭白蚁"
 latin: "Pseudocapritermes angustignathus"
 zh: "细颚伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Malaysia: Penang"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

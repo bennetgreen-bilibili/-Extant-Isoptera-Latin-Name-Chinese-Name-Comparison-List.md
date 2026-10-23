@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes denticulatus 细齿大白蚁"
+title: "Macrotermes denticulatus Li & Ping, 1983 细齿大白蚁"
 latin: "Macrotermes denticulatus"
 zh: "细齿大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1983"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国云南、小勐仑、海南、兴隆、广西、凭祥"
+distribution_en: "Yunnan, China, Xiaomenglun, Hainan, Xinglong, Guangxi, Pingxiang"
+synonym_count: 0
 ---

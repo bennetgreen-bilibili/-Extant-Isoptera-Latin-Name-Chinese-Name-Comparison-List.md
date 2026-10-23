@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Machadotermes latus 宽剑白蚁"
+title: "Machadotermes latus Weidner, 1974 宽剑白蚁"
 latin: "Machadotermes latus"
 zh: "宽剑白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1974"
+type_locality: "Angola: Dundo: Parc Carrisso"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

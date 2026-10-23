@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anhangatermes eurycephalus 宽头魔白蚁"
+title: "Anhangatermes eurycephalus Oliveira & Constantino, 2014 宽头魔白蚁"
 latin: "Anhangatermes eurycephalus"
 zh: "宽头魔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oliveira & Constantino, 2014"
+type_locality: "Brasil: Amazonas: Rodovia ZF3 km 41 [2.445S 59.7833W]"
+distribution_zh: "巴西、哥伦比亚、法属圭亚那"
+distribution_en: "Brazil, Colombia, French Guiana"
+synonym_count: 0
 ---

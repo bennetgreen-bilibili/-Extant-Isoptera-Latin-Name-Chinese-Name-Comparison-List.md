@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes dimorphus 小头钩白蚁"
+title: "Ancistrotermes dimorphus Tsai & Chen, 1963 小头钩白蚁"
 latin: "Ancistrotermes dimorphus"
 zh: "小头钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Yunnan Province: ChinPing"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

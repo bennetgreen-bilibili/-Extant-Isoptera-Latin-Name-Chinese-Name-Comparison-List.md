@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes blairi 布莱尔须白蚁"
+title: "Hospitalitermes blairi Roonwal & Sen-Sarma, 1956 布莱尔须白蚁"
 latin: "Hospitalitermes blairi"
 zh: "布莱尔须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1956"
+type_locality: "India: Andaman Islands: Port Blair, south of creek near Corbyn’s Cave"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

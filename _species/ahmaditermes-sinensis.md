@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes sinensis 中国钝颚白蚁"
+title: "Ahmaditermes sinensis Tsai & Huang, 1979 中国钝颚白蚁"
 latin: "Ahmaditermes sinensis"
 zh: "中国钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1979"
+type_locality: "China: Tibet: Medog Xian: Ya-Rang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

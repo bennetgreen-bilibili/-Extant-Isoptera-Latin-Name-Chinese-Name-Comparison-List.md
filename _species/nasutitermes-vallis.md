@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes vallis 山谷象白蚁"
+title: "Nasutitermes vallis Tsai & Huang, 1979 山谷象白蚁"
 latin: "Nasutitermes vallis"
 zh: "山谷象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1979"
+type_locality: "China: Tibet: Medog Xian, Maliweng"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

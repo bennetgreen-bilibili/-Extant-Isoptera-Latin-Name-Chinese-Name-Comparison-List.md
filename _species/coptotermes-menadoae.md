@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes menadoae 万鸦东乳白蚁"
+title: "Coptotermes menadoae Oshima, 1914 万鸦东乳白蚁"
 latin: "Coptotermes menadoae"
 zh: "万鸦东乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1914"
+type_locality: "Indonesia: Sulawesi: Menado"
+distribution_zh: "印尼苏拉威西"
+distribution_en: "Indonesia (Sulawesi)"
+synonym_count: 0
 ---

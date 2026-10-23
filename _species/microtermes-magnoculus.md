@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes magnoculus 大眼小白蚁"
+title: "Microtermes magnoculus Krishna, 2013 大眼小白蚁"
 latin: "Microtermes magnoculus"
 zh: "大眼小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2013"
+type_locality: "Somalia: Villaggio Duca degli Abruzzi"
+distribution_zh: "索马里"
+distribution_en: "Somalia"
+synonym_count: 0
 ---

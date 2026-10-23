@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ebogotermes raphaeli 拉斐尔埃博戈白蚁"
+title: "Ebogotermes raphaeli Scheffrahn & Roisin, 2021 拉斐尔埃博戈白蚁"
 latin: "Ebogotermes raphaeli"
 zh: "拉斐尔埃博戈白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn & Roisin, 2021"
+type_locality: "Cameroon: Mbalmayo Forest Reserve: Ebogo [ 3.382N 11.463E ]"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Furculitermes hendrickxi 亨德里克斯叉白蚁"
+title: "Furculitermes hendrickxi Emerson, 1960 亨德里克斯叉白蚁"
 latin: "Furculitermes hendrickxi"
 zh: "亨德里克斯叉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Camp Putnam, Epulu River"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

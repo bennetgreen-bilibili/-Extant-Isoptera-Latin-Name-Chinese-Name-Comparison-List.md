@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Heterotermes cardini 卡丁异白蚁"
+title: "Heterotermes cardini Snyder, 1924 卡丁异白蚁"
 latin: "Heterotermes cardini"
 zh: "卡丁异白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1924"
+type_locality: "Bahamas: Andros Island"
+distribution_zh: "加勒比、波多黎各、瓜德罗普、巴哈马、巴拿马、美国"
+distribution_en: "Caribbean, Puerto Rico, Guadeloupe, Bahamas, Panama, United States"
+synonym_count: 0
 ---

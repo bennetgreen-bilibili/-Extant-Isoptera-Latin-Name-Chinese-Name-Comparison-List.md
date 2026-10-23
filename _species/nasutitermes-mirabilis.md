@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes mirabilis 奇鼻象白蚁"
+title: "Nasutitermes mirabilis Ping & Xu, 1988 奇鼻象白蚁"
 latin: "Nasutitermes mirabilis"
 zh: "奇鼻象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1988"
+type_locality: "China: Guizhou Province: Liping"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

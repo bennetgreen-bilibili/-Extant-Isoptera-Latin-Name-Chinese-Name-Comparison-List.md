@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes sinuosus 扭曲原方白蚁"
+title: "Procubitermes sinuosus Silvestri, 1914 扭曲原方白蚁"
 latin: "Procubitermes sinuosus"
 zh: "扭曲原方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kakoulima; Mamou"
+distribution_zh: "西非、尼日利亚、几内亚"
+distribution_en: "West Africa, Nigeria, Guinea"
+synonym_count: 0
 ---

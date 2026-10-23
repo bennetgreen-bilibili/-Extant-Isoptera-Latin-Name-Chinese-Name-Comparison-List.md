@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes uncimandibularis 钩颚直颚白蚁"
+title: "Orthognathotermes uncimandibularis Rocha & Cancello, 2009 钩颚直颚白蚁"
 latin: "Orthognathotermes uncimandibularis"
 zh: "钩颚直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2009"
+type_locality: "Brasil: Amazonas: Manaus, rodovia BR-174, km 916 [ 2.7015S 60.0494W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

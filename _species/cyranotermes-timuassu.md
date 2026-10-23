@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cyranotermes timuassu 多毛巨鼻白蚁"
+title: "Cyranotermes timuassu Araujo, 1970 多毛巨鼻白蚁"
 latin: "Cyranotermes timuassu"
 zh: "多毛巨鼻白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Araujo, 1970"
+type_locality: "Brasil: Minas Gerais: Belo Horizonte [19.92S 43.93W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

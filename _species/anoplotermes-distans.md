@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes distans 遥远解甲白蚁"
+title: "Anoplotermes distans Snyder, 1926 遥远解甲白蚁"
 latin: "Anoplotermes distans"
 zh: "遥远解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: Pando: Rosario (near Lake Rogagua) [ 13.9667S 66.8667W ]"
+distribution_zh: "圭亚那地盾、亚马孙地区"
+distribution_en: "Guiana Shield, Amazon region"
+synonym_count: 0
 ---

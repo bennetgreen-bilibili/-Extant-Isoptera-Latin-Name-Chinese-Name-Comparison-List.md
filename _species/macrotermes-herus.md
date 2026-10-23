@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes herus 优势大白蚁"
+title: "Macrotermes herus Sjöstedt, 1914 优势大白蚁"
 latin: "Macrotermes herus"
 zh: "优势大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1914"
+type_locality: "Ethiopia: Dire-Dauna"
+distribution_zh: "旧热带界、西非、东非、埃塞俄比亚、几内亚、肯尼亚、尼日利亚、索马里、苏丹、坦桑尼亚"
+distribution_en: "Old World tropics, West Africa, East Africa, Ethiopia, Guinea, Kenya, Nigeria, Somalia, Sudan, Tanzania"
+synonym_count: 0
 ---

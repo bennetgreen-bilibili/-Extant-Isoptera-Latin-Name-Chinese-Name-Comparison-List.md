@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Grallatotermes admirabilus 奇妙高跷白蚁"
+title: "Grallatotermes admirabilus Light, 1930 奇妙高跷白蚁"
 latin: "Grallatotermes admirabilus"
 zh: "奇妙高跷白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1930"
+type_locality: "Philippines: Negros, above Dumaguete, Horns of Negros; Suab River on Cotabato Coast"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes shanghaiensis 上海乳白蚁"
+title: "Coptotermes shanghaiensis Xia & He, 1986 上海乳白蚁"
 latin: "Coptotermes shanghaiensis"
 zh: "上海乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia & He, 1986"
+type_locality: "China: Shanghai"
+distribution_zh: "中国上海"
+distribution_en: "Shanghai, China"
+synonym_count: 0
 ---

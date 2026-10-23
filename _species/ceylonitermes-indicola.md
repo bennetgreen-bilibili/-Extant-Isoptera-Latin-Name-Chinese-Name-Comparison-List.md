@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ceylonitermes indicola 印度锡兰白蚁"
+title: "Ceylonitermes indicola Thakur, 1976 印度锡兰白蚁"
 latin: "Ceylonitermes indicola"
 zh: "印度锡兰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1976"
+type_locality: "India: Kerala: Nilambur, near Circuit House"
+distribution_zh: "印度、印度尼西亚"
+distribution_en: "India, Indonesia"
+synonym_count: 0
 ---

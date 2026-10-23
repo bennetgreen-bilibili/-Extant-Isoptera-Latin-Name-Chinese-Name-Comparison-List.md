@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Labiotermes oreadicus 山神厚唇白蚁"
+title: "Labiotermes oreadicus Constantino, 2006 山神厚唇白蚁"
 latin: "Labiotermes oreadicus"
 zh: "山神厚唇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 2006"
+type_locality: "Brasil: Goiás: Serra da Mesa [13.8288S 48.3211W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

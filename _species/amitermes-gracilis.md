@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes gracilis 细瘦弓白蚁"
+title: "Amitermes gracilis Gay, 1968 细瘦弓白蚁"
 latin: "Amitermes gracilis"
 zh: "细瘦弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Queensland: 5 mi N Undina"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

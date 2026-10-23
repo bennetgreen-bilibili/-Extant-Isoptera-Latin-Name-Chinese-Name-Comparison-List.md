@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes singsiti 辛格斯特土白蚁"
+title: "Odontotermes singsiti Bose, 1997 辛格斯特土白蚁"
 latin: "Odontotermes singsiti"
 zh: "辛格斯特土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1997"
+type_locality: "India: Manipur, 3 km from Imphal, Langor"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

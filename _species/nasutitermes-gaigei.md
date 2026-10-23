@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes gaigei 盖格象白蚁"
+title: "Nasutitermes gaigei Emerson, 1925 盖格象白蚁"
 latin: "Nasutitermes gaigei"
 zh: "盖格象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+distribution_zh: "巴西、法属圭亚那、哥伦比亚、玻利维亚、特立尼达和多巴哥、圭亚那、马提尼克（法）、委内瑞拉"
+distribution_en: "Brazil, French Guiana, Colombia, Bolivia, Trinidad and Tobago, Guyana, Martinique (France), Venezuela"
+synonym_count: 0
 ---

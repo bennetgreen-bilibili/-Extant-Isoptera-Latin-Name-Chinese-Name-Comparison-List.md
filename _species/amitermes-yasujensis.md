@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes yasujensis 亚苏季弓白蚁"
+title: "Amitermes yasujensis Ghayourfar, 2005 亚苏季弓白蚁"
 latin: "Amitermes yasujensis"
 zh: "亚苏季弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghayourfar, 2005"
+type_locality: "Iran: Kohkiluyeh and Boyerahmahd Province: Yasuj"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

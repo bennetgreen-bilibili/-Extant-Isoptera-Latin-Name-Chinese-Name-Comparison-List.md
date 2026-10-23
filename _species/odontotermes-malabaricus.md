@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes malabaricus 马拉巴尔土白蚁"
+title: "Odontotermes malabaricus Holmgren & Holmgren, 1917 马拉巴尔土白蚁"
 latin: "Odontotermes malabaricus"
 zh: "马拉巴尔土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Karnataka: Mysore: Bababudin Hills; Kerala: Malabar: Poovanur; Tamil Nadu: Shevaroy Hills: Yercaud"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

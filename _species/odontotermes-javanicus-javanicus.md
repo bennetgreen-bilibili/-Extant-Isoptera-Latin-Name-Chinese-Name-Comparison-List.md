@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes javanicus javanicus 指名亚种"
+title: "Odontotermes javanicus javanicus Holmgren, 1912 指名亚种"
 latin: "Odontotermes javanicus javanicus"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes javanicus"
 parent_zh: "爪哇土白蚁"
 parent_slug: "odontotermes-javanicus"
+author_year: "Holmgren, 1912"
+type_locality: "Indonesia: Java: Salak, Buitenzorg"
+synonym_count: 0
 ---

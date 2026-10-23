@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes maledictus 可恨土白蚁"
+title: "Odontotermes maledictus Ghidini, 1941 可恨土白蚁"
 latin: "Odontotermes maledictus"
 zh: "可恨土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1941"
+type_locality: "Ethiopia: Caschei; Elolo; Gongabaino"
+distribution_zh: "埃塞俄比亚"
+distribution_en: "Ethiopia"
+synonym_count: 0
 ---

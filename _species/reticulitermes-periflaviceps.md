@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes periflaviceps 近黄胸散白蚁"
+title: "Reticulitermes periflaviceps Ping & Xu, 1993 近黄胸散白蚁"
 latin: "Reticulitermes periflaviceps"
 zh: "近黄胸散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1993"
+type_locality: "China: Guangdong Province: Shixing County: core area of Chebaling"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes boultoni 博尔顿白蚁"
+title: "Termes boultoni Coaton & Sheasby, 1978 博尔顿白蚁"
 latin: "Termes boultoni"
 zh: "博尔顿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Coaton & Sheasby, 1978"
+type_locality: "Namibia: 48 km ex Rundu Grootfontein"
+distribution_zh: "赞比亚、津巴布韦"
+distribution_en: "Zambia, Zimbabwe"
+synonym_count: 0
 ---

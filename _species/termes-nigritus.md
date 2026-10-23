@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes nigritus 黑色白蚁"
+title: "Termes nigritus Silvestri, 1901 黑色白蚁"
 latin: "Termes nigritus"
 zh: "黑色白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso: Cuiabá, Coxipó (district) [15.627S 56.058W]"
+distribution_zh: "巴西、阿根廷、巴拉圭"
+distribution_en: "Brazil, Argentina, Paraguay"
+synonym_count: 0
 ---

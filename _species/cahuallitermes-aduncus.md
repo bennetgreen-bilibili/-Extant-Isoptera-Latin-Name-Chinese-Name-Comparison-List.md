@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cahuallitermes aduncus 具钩弃白蚁"
+title: "Cahuallitermes aduncus Constantino, 1994 具钩弃白蚁"
 latin: "Cahuallitermes aduncus"
 zh: "具钩弃白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1994"
+type_locality: "Mexico: Chiapas, 5 miles NE Chiapa"
+distribution_zh: "墨西哥"
+distribution_en: "Mexico"
+synonym_count: 0
 ---

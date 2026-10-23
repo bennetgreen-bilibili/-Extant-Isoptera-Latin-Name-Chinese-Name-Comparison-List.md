@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes basidens 基齿弓白蚁"
+title: "Amitermes basidens Sjöstedt, 1899 基齿弓白蚁"
 latin: "Amitermes basidens"
 zh: "基齿弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1899"
+type_locality: "Togo: Bismarckburg"
+distribution_zh: "多哥"
+distribution_en: "Togo"
+synonym_count: 0
 ---

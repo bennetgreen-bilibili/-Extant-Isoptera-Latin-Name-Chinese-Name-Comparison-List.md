@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes magdalenae 马格达莱纳土白蚁"
+title: "Odontotermes magdalenae Grassé & Noirot, 1950 马格达莱纳土白蚁"
 latin: "Odontotermes magdalenae"
 zh: "马格达莱纳土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé & Noirot, 1950"
+type_locality: "Chad: Télémé, near Bongor"
+distribution_zh: "西非尼日利亚、布基纳法索、喀麦隆、中非共和国、乍得、几内亚、苏丹"
+distribution_en: "West Africa, Nigeria, Burkina Faso, Cameroon, Central African Republic, Chad, Guinea, Sudan"
+synonym_count: 0
 ---

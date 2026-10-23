@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes daliensis 戴利镰白蚁"
+title: "Drepanotermes daliensis Hill, 1922 戴利镰白蚁"
 latin: "Drepanotermes daliensis"
 zh: "戴利镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1922"
+type_locality: "Australia: Northern Territory: Upper Daly River"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

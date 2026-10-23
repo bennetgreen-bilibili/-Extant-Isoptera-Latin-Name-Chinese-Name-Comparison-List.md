@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes grandinasus 大鼻象白蚁"
+title: "Nasutitermes grandinasus Tsai & Chen, 1963 大鼻象白蚁"
 latin: "Nasutitermes grandinasus"
 zh: "大鼻象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Fujian Province: Kienow"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

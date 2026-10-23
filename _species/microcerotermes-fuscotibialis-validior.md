@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes fuscotibialis validior 较壮亚种"
+title: "Microcerotermes fuscotibialis validior Silvestri, 1914 较壮亚种"
 latin: "Microcerotermes fuscotibialis validior"
 zh: "较壮亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microcerotermes fuscotibialis"
 parent_zh: "棕胫锯白蚁"
 parent_slug: "microcerotermes-fuscotibialis"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Mamou"
+synonym_count: 0
 ---

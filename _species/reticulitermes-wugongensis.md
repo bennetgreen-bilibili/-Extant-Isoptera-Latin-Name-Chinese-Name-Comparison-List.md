@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes wugongensis 武宫散白蚁"
+title: "Reticulitermes wugongensis Li & Huang, 1986 武宫散白蚁"
 latin: "Reticulitermes wugongensis"
 zh: "武宫散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Huang, 1986"
+type_locality: "China: Fujian Province: Wuyigong, Wuyishan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

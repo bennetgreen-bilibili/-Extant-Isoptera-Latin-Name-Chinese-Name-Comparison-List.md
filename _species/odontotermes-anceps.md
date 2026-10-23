@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes anceps 裂头土白蚁"
+title: "Odontotermes anceps Sjöstedt, 1911 裂头土白蚁"
 latin: "Odontotermes anceps"
 zh: "裂头土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Ethiopia: (\"Abyssinia\")"
+distribution_zh: "东非肯尼亚、埃塞俄比亚、坦桑尼亚"
+distribution_en: "East Africa (Kenya, Ethiopia, Tanzania)"
+synonym_count: 0
 ---

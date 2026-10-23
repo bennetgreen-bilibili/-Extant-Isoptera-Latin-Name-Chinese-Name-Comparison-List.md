@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Crenetermes elongatus 细长刻痕白蚁"
+title: "Crenetermes elongatus Weidner, 1974 细长刻痕白蚁"
 latin: "Crenetermes elongatus"
 zh: "细长刻痕白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1974"
+type_locality: "Angola: Cameia"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

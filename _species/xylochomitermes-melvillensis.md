@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Xylochomitermes melvillensis 梅尔维尔木堆白蚁"
+title: "Xylochomitermes melvillensis Hill, 1915 梅尔维尔木堆白蚁"
 latin: "Xylochomitermes melvillensis"
 zh: "梅尔维尔木堆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1915"
+type_locality: "Australia: Northern Territory: Melville Island: Garden Point (as Fort Dundas)"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

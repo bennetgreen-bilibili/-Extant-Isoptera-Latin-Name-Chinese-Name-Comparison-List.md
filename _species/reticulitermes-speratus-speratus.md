@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes speratus speratus 指名亚种"
+title: "Reticulitermes speratus speratus Kolbe, 1885 指名亚种"
 latin: "Reticulitermes speratus speratus"
 zh: "指名亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Reticulitermes speratus"
 parent_zh: "栖北散白蚁"
 parent_slug: "reticulitermes-speratus"
+author_year: "Kolbe, 1885"
+type_locality: "Japan: Hakodate, Kaga-Yashiki, Mohezi, Yedo"
+synonym_count: 0
 ---

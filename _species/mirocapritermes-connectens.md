@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes connectens 连接瘤白蚁"
+title: "Mirocapritermes connectens Holmgren, 1914 连接瘤白蚁"
 latin: "Mirocapritermes connectens"
 zh: "连接瘤白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Indonesia: Sumatra: Tandjong Slamat"
+distribution_zh: "东南亚、马来西亚、新加坡"
+distribution_en: "Southeast Asia, Malaysia, Singapore"
+synonym_count: 0
 ---

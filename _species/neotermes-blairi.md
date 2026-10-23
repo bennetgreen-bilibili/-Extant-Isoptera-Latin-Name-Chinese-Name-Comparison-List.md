@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes blairi 布莱尔新白蚁"
+title: "Neotermes blairi Maiti & Chakraborty, 1994 布莱尔新白蚁"
 latin: "Neotermes blairi"
 zh: "布莱尔新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Maiti & Chakraborty, 1994"
+type_locality: "India: Andaman Islands: South Andaman: Haddo"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

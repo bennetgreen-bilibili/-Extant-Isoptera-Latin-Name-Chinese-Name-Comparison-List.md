@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes choui 周氏象白蚁"
+title: "Nasutitermes choui Ping & Xu, 1989 周氏象白蚁"
 latin: "Nasutitermes choui"
 zh: "周氏象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1989"
+type_locality: "China: Hong Kong"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

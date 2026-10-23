@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes grassei 格拉塞小白蚁"
+title: "Microtermes grassei Ghidini, 1955 格拉塞小白蚁"
 latin: "Microtermes grassei"
 zh: "格拉塞小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1955"
+type_locality: "Ivory Coast: Akakro"
+distribution_zh: "西非、多哥、冈比亚"
+distribution_en: "West Africa, Togo, Gambia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes depokensis 德波锯白蚁"
+title: "Microcerotermes depokensis Kemner, 1932 德波锯白蚁"
 latin: "Microcerotermes depokensis"
 zh: "德波锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1932"
+type_locality: "Indonesia: Java: Depok, near Bogor"
+distribution_zh: "东南亚、印度尼西亚"
+distribution_en: "Southeast Asia, Indonesia"
+synonym_count: 0
 ---

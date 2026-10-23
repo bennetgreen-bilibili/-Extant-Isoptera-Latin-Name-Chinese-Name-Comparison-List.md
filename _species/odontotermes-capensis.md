@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes capensis 好望角土白蚁"
+title: "Odontotermes capensis De Geer, 1778 好望角土白蚁"
 latin: "Odontotermes capensis"
 zh: "好望角土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "De Geer, 1778"
+type_locality: "South Africa: Cape of Good Hope (Kapland): Near Humansdorp on Seekoei River"
+distribution_zh: "旧热带界西非、非洲南部、南非"
+distribution_en: "Old World tropics, West Africa, southern Africa, South Africa"
+synonym_count: 0
 ---

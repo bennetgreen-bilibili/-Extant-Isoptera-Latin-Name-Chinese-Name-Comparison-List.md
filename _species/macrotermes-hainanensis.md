@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes hainanensis 海南大白蚁"
+title: "Macrotermes hainanensis Li & Ping, 1983 海南大白蚁"
 latin: "Macrotermes hainanensis"
 zh: "海南大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1983"
+type_locality: "China: Hainan Island: Wuzhi Mt"
+distribution_zh: "中国海南"
+distribution_en: "China (Hainan)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes longimalatus 长腭锯白蚁"
+title: "Microcerotermes longimalatus Sjöstedt, 1925 长腭锯白蚁"
 latin: "Microcerotermes longimalatus"
 zh: "长腭锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1925"
+type_locality: "Democratic Republic of the Congo: Kananga"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

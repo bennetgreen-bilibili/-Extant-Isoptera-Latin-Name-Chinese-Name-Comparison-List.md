@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mucrotermes osborni 奥斯本锐尖白蚁"
+title: "Mucrotermes osborni Emerson, 1960 奥斯本锐尖白蚁"
 latin: "Mucrotermes osborni"
 zh: "奥斯本锐尖白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River"
+distribution_zh: "旧热带界、刚果民主共和国"
+distribution_en: "Old World tropics, Democratic Republic of the Congo"
+synonym_count: 0
 ---

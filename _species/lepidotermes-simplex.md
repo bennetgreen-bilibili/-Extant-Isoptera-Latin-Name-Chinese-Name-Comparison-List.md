@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lepidotermes simplex 简单鳞白蚁"
+title: "Lepidotermes simplex Holmgren, 1913 简单鳞白蚁"
 latin: "Lepidotermes simplex"
 zh: "简单鳞白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "South Africa: Natal: Amanzimtoti"
+distribution_zh: "非洲南部、南非"
+distribution_en: "southern Africa, South Africa"
+synonym_count: 1
+synonyms: "Mirotermes ( Procubitermes ) havilandicus Fuller, 1925: 186-187"
+synonym_localities: "South Africa: Natal: Haviland Rail"
 ---

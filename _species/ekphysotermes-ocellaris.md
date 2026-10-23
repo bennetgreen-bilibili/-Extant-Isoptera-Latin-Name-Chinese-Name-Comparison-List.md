@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ekphysotermes ocellaris 眼显瘤突白蚁"
+title: "Ekphysotermes ocellaris Mjöberg, 1920 眼显瘤突白蚁"
 latin: "Ekphysotermes ocellaris"
 zh: "眼显瘤突白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Western Australia: Kimberley region, near Oscar Range"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

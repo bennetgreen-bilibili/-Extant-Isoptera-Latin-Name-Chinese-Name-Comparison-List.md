@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Incisitermes inamurai 稻村楹白蚁"
+title: "Incisitermes inamurai Oshima, 1912 稻村楹白蚁"
 latin: "Incisitermes inamurai"
 zh: "稻村楹白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Oshima, 1912"
+type_locality: "Taiwan: Pingtung Co.: Wanlitong"
+distribution_zh: "中国台湾"
+distribution_en: "China (Taiwan)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes retus 红色象白蚁"
+title: "Nasutitermes retus Kemner, 1931 红色象白蚁"
 latin: "Nasutitermes retus"
 zh: "红色象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1931"
+type_locality: "Indonesia: Maluku: Ambon"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

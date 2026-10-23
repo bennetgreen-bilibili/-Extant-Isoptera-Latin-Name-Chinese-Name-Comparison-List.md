@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Embiratermes benjamini 本杰明生白蚁"
+title: "Embiratermes benjamini Snyder, 1926 本杰明生白蚁"
 latin: "Embiratermes benjamini"
 zh: "本杰明生白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: Pando: Cachuela Esperanza [10.5333S 65.6333W]"
+distribution_zh: "玻利维亚、委内瑞拉"
+distribution_en: "Bolivia, Venezuela"
+synonym_count: 0
 ---

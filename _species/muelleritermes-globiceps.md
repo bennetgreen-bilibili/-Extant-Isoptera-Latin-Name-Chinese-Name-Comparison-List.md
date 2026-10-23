@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Muelleritermes globiceps 球头米勒白蚁"
+title: "Muelleritermes globiceps Cancello, Oliveira & Rocha, 2015 球头米勒白蚁"
 latin: "Muelleritermes globiceps"
 zh: "球头米勒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello, Oliveira & Rocha, 2015"
+type_locality: "Brasil: Espírito Santo: Reserva Biológica de Sooretama [19.015S 40.12W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

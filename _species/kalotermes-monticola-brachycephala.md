@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kalotermes monticola brachycephala 短头亚种"
+title: "Kalotermes monticola brachycephala Sjöstedt, 1926 短头亚种"
 latin: "Kalotermes monticola brachycephala"
 zh: "短头亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Icoisoptera"
 parent_latin: "Kalotermes monticola"
 parent_zh: "山栖木白蚁"
 parent_slug: "kalotermes-monticola"
+author_year: "Sjöstedt, 1926"
+type_locality: "Algeria: Massif de l’Edough"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Subulitermes denisae 丹尼斯锥白蚁"
+title: "Subulitermes denisae Roisin, 1995 丹尼斯锥白蚁"
 latin: "Subulitermes denisae"
 zh: "丹尼斯锥白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin, 1995"
+type_locality: "Panama: Parque National Soberanía, near Limbo Camp, Pipeline Road"
+distribution_zh: "巴拿马、哥斯达黎加、尼加拉瓜"
+distribution_en: "Panama, Costa Rica, Nicaragua"
+synonym_count: 0
 ---

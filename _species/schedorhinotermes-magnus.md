@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes magnus 大长鼻白蚁"
+title: "Schedorhinotermes magnus Tsai & Chen, 1963 大长鼻白蚁"
 latin: "Schedorhinotermes magnus"
 zh: "大长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Yunnan Province: ChinPing"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

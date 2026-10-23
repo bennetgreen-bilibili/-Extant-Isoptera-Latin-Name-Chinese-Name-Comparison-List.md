@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes tanganicus 坦噶土白蚁"
+title: "Odontotermes tanganicus Sjöstedt, 1924 坦噶土白蚁"
 latin: "Odontotermes tanganicus"
 zh: "坦噶土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Tanzania: Tanga: Mkulumusi"
+distribution_zh: "旧热带界东非、非洲南部、肯尼亚、马拉维、坦桑尼亚"
+distribution_en: "Old World tropics, East Africa, southern Africa, Kenya, Malawi, Tanzania"
+synonym_count: 0
 ---

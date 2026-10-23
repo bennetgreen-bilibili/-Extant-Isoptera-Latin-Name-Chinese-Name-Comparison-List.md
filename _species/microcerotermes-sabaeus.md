@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes sabaeus 塞巴锯白蚁"
+title: "Microcerotermes sabaeus Harris, 1957 塞巴锯白蚁"
 latin: "Microcerotermes sabaeus"
 zh: "塞巴锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1957"
+type_locality: "Yemen: Beihan"
+distribution_zh: "沙特阿拉伯、也门"
+distribution_en: "Saudi Arabia, Yemen"
+synonym_count: 0
 ---

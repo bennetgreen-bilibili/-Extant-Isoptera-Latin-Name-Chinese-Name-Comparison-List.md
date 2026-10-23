@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes yadevi 亚德维土白蚁"
+title: "Odontotermes yadevi Thakur, 1981 亚德维土白蚁"
 latin: "Odontotermes yadevi"
 zh: "亚德维土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1981"
+type_locality: "India: Karnataka: Siddapur"
+distribution_zh: "南亚印度"
+distribution_en: "South Asia (India)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes gloveri 格洛弗近扭白蚁"
+title: "Pericapritermes gloveri Harris, 1951 格洛弗近扭白蚁"
 latin: "Pericapritermes gloveri"
 zh: "格洛弗近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1951"
+type_locality: "Tanzania: Kakoma, 50 miles south of Tabora; Kapondwa, near Kasanga; Zambia: Kalambo Falls, south bank river"
+distribution_zh: "坦桑尼亚、赞比亚"
+distribution_en: "Tanzania, Zambia"
+synonym_count: 0
 ---

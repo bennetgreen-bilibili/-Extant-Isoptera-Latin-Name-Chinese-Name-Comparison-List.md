@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cylindrotermes nordenskioldi 努登舍尔德圆筒白蚁"
+title: "Cylindrotermes nordenskioldi Holmgren, 1906 努登舍尔德圆筒白蚁"
 latin: "Cylindrotermes nordenskioldi"
 zh: "努登舍尔德圆筒白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cylindrotermitinae"
 subfamily_id: "cylindrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Bolivia: La Paz: Río Tuichi [ 14.28S 68.54W ]"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

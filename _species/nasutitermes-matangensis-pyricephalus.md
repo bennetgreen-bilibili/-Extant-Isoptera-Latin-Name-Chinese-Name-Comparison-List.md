@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes matangensis pyricephalus 梨头亚种"
+title: "Nasutitermes matangensis pyricephalus Kemner, 1934 梨头亚种"
 latin: "Nasutitermes matangensis pyricephalus"
 zh: "梨头亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes matangensis"
 parent_zh: "马登象白蚁"
 parent_slug: "nasutitermes-matangensis"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Depok; Java: Palabouhanratou; Krakatau; Timanjo; Wijnkoopsbaai"
+synonym_count: 0
 ---

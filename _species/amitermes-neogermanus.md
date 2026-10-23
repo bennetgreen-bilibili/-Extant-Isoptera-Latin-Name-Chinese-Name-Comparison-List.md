@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes neogermanus 新芽弓白蚁"
+title: "Amitermes neogermanus Hill, 1922 新芽弓白蚁"
 latin: "Amitermes neogermanus"
 zh: "新芽弓白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1922"
+type_locality: "Australia: South Australia: Mt. Lofty Range"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Hamitermes perplexus victoriensis Hill, 1922: 388-389"
+synonym_localities: "Australia: Victoria: Preston"
 ---

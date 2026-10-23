@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes sjostedti 舍斯泰特原方白蚁"
+title: "Procubitermes sjostedti Rosen, 1912 舍斯泰特原方白蚁"
 latin: "Procubitermes sjostedti"
 zh: "舍斯泰特原方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rosen, 1912"
+type_locality: "Liberia: ?"
+distribution_zh: "西非、科特迪瓦、塞内加尔、尼日利亚、冈比亚、几内亚、利比里亚"
+distribution_en: "West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Guinea, Liberia"
+synonym_count: 0
 ---

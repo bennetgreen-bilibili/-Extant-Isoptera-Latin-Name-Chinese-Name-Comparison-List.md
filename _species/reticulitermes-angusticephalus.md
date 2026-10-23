@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes angusticephalus 窄头散白蚁"
+title: "Reticulitermes angusticephalus Ping & Xu, 1983 窄头散白蚁"
 latin: "Reticulitermes angusticephalus"
 zh: "窄头散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1983"
+type_locality: "China: Fujian Province: Sangang, Chong’an County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

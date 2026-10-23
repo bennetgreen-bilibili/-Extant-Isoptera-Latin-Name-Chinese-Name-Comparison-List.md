@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes clarki 克拉克镰白蚁"
+title: "Drepanotermes clarki Hill, 1935 克拉克镰白蚁"
 latin: "Drepanotermes clarki"
 zh: "克拉克镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1935"
+type_locality: "Australia: Western Australia: Eradu"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

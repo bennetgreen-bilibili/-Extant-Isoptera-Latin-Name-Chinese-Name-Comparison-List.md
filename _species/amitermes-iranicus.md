@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes iranicus 伊朗弓白蚁"
+title: "Amitermes iranicus Ghayourfar, 1999 伊朗弓白蚁"
 latin: "Amitermes iranicus"
 zh: "伊朗弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghayourfar, 1999"
+type_locality: "Iran: Kermanshah"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

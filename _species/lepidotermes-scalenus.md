@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lepidotermes scalenus 斜角肌鳞白蚁"
+title: "Lepidotermes scalenus Uys, 1994 斜角肌鳞白蚁"
 latin: "Lepidotermes scalenus"
 zh: "斜角肌鳞白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Uys, 1994"
+type_locality: "South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect"
+distribution_zh: "非洲南部、南非"
+distribution_en: "southern Africa, South Africa"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Embiratermes festivellus 喜庆生白蚁"
+title: "Embiratermes festivellus Silvestri, 1901 喜庆生白蚁"
 latin: "Embiratermes festivellus"
 zh: "喜庆生白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes beesoni 比森杆白蚁"
+title: "Stylotermes beesoni Thakur, 1975 比森杆白蚁"
 latin: "Stylotermes beesoni"
 zh: "比森杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Thakur, 1975"
+type_locality: "India: Tripura: Tiliamura"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

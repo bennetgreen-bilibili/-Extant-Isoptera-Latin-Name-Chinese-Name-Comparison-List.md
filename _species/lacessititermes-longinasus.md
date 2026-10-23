@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes longinasus 长鼻怒白蚁"
+title: "Lacessititermes longinasus Syaukani, 2008 长鼻怒白蚁"
 latin: "Lacessititermes longinasus"
 zh: "长鼻怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Syaukani, 2008"
+type_locality: "Indonesia: Sumatra: Mentawai Islands: Siberut Island: Simabuggei: Siberut National Park"
+distribution_zh: "印度尼西亚、苏门答腊"
+distribution_en: "Indonesia, Sumatra"
+synonym_count: 0
 ---

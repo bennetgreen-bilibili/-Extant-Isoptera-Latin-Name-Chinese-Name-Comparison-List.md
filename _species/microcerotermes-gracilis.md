@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes gracilis 细瘦锯白蚁"
+title: "Microcerotermes gracilis Light, 1933 细瘦锯白蚁"
 latin: "Microcerotermes gracilis"
 zh: "细瘦锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1933"
+type_locality: "Mexico: Colima State: Jala; Colima State: Madrid"
+distribution_zh: "新热带界、墨西哥、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜"
+distribution_en: "Neotropics, Mexico, Costa Rica, Guatemala, Honduras, Nicaragua"
+synonym_count: 0
 ---

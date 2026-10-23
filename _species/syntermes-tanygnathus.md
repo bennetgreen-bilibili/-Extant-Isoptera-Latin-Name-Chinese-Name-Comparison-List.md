@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes tanygnathus 长颚聚白蚁"
+title: "Syntermes tanygnathus Constantino, 1995 长颚聚白蚁"
 latin: "Syntermes tanygnathus"
 zh: "长颚聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1995"
+type_locality: "Brasil: Amazonas: Aldeia São João, Rio Tiquié [0.08N 68.42W]"
+distribution_zh: "巴西、哥伦比亚"
+distribution_en: "Brazil, Colombia"
+synonym_count: 0
 ---

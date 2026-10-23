@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes punjabensis 旁遮普突扭白蚁"
+title: "Dicuspiditermes punjabensis Holmgren & Holmgren, 1917 旁遮普突扭白蚁"
 latin: "Dicuspiditermes punjabensis"
 zh: "旁遮普突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "Pakistan: Lyallpur"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

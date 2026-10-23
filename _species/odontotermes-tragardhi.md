@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes tragardhi 特雷高土白蚁"
+title: "Odontotermes tragardhi Holmgren, 1913 特雷高土白蚁"
 latin: "Odontotermes tragardhi"
 zh: "特雷高土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "South Africa: Natal: Estcourt; Natal: Stanford Hill; Natal: Sweetwater"
+distribution_zh: "非洲南部南非"
+distribution_en: "southern Africa (South Africa)"
+synonym_count: 0
 ---

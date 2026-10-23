@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes wasmanni 沃斯曼钩白蚁"
+title: "Ancistrotermes wasmanni Snyder & Emerson, 1949 沃斯曼钩白蚁"
 latin: "Ancistrotermes wasmanni"
 zh: "沃斯曼钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder & Emerson, 1949"
+type_locality: "Democratic Republic of the Congo: Sankuru (Kassai)"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

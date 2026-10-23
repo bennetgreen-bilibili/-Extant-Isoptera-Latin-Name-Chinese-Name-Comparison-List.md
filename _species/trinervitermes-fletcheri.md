@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trinervitermes fletcheri 弗莱彻三脉白蚁"
+title: "Trinervitermes fletcheri Chatterjee & Thakur, 1965 弗莱彻三脉白蚁"
 latin: "Trinervitermes fletcheri"
 zh: "弗莱彻三脉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Thakur, 1965"
+type_locality: "India: Tamil Nadu: Coimbatore"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes trilobatus 三裂基齿白蚁"
+title: "Basidentitermes trilobatus Noirot, 1955 三裂基齿白蚁"
 latin: "Basidentitermes trilobatus"
 zh: "三裂基齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Noirot, 1955"
+type_locality: "Angola: Luimbale: Serra do Moco"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

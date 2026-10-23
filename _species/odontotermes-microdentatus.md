@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes microdentatus 小齿土白蚁"
+title: "Odontotermes microdentatus Roonwal & Sen-Sarma, 1960 小齿土白蚁"
 latin: "Odontotermes microdentatus"
 zh: "小齿土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "India: Uttarakhand: Dehradun: Dobhalwala"
+distribution_zh: "南亚印度"
+distribution_en: "South Asia (India)"
+synonym_count: 0
 ---

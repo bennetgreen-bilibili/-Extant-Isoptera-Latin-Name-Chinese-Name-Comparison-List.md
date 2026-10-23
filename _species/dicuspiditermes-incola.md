@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes incola 栖息突扭白蚁"
+title: "Dicuspiditermes incola Wasmann, 1893 栖息突扭白蚁"
 latin: "Dicuspiditermes incola"
 zh: "栖息突扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1893"
+type_locality: "Sri Lanka: Colombo"
+distribution_zh: "印度、斯里兰卡"
+distribution_en: "India, Sri Lanka"
+synonym_count: 2
+synonyms: "Capritermes longicornis Wasmann, 1902: 126-128; Dicuspiditermes pername Thakur & Chatterjee, 1971: 77-81"
+synonym_localities: "India: Maharashtra: Khandala; Sri Lanka: Anurhadhapura; Bandarawela; India: Goa: North Goa Forest Division: Pernam Range: Mopa Village"
 ---

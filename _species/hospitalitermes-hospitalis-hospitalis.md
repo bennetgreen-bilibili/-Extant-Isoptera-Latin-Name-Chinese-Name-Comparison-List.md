@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes hospitalis hospitalis 指名亚种"
+title: "Hospitalitermes hospitalis hospitalis Haviland, 1898 指名亚种"
 latin: "Hospitalitermes hospitalis hospitalis"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Hospitalitermes hospitalis"
 parent_zh: "寄宿须白蚁"
 parent_slug: "hospitalitermes-hospitalis"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak; Singapore: ?"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes simplicidens 简齿土白蚁"
+title: "Odontotermes simplicidens Sjöstedt, 1899 简齿土白蚁"
 latin: "Odontotermes simplicidens"
 zh: "简齿土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1899"
+type_locality: "Cameroon: Ekundu"
+distribution_zh: "中非喀麦隆、加蓬"
+distribution_en: "Central Africa, Cameroon, Gabon"
+synonym_count: 0
 ---

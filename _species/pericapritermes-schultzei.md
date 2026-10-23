@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes schultzei 舒尔茨近扭白蚁"
+title: "Pericapritermes schultzei Holmgren, 1911 舒尔茨近扭白蚁"
 latin: "Pericapritermes schultzei"
 zh: "舒尔茨近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Papua New Guinea: Sepik"
+distribution_zh: "印度尼西亚、澳大利亚、巴布亚新几内亚"
+distribution_en: "Indonesia, Australia, Papua New Guinea"
+synonym_count: 0
 ---

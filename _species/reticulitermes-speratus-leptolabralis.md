@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes speratus leptolabralis 细唇亚种"
+title: "Reticulitermes speratus leptolabralis Morimoto, 1968 细唇亚种"
 latin: "Reticulitermes speratus leptolabralis"
 zh: "细唇亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Reticulitermes speratus"
 parent_zh: "栖北散白蚁"
 parent_slug: "reticulitermes-speratus"
+author_year: "Morimoto, 1968"
+type_locality: "Japan: Aichi, Kasugai, Tokushima, Yami"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neocapritermes mirim 小型新扭白蚁"
+title: "Neocapritermes mirim Bandeira & Cancello, 1992 小型新扭白蚁"
 latin: "Neocapritermes mirim"
 zh: "小型新扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bandeira & Cancello, 1992"
+type_locality: "Brasil: Roraima: Ilha de Maracá [ 3.4N 61.65W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Armitermes spininotus 刺背戟白蚁"
+title: "Armitermes spininotus Rocha & Cancello, 2012 刺背戟白蚁"
 latin: "Armitermes spininotus"
 zh: "刺背戟白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2012"
+type_locality: "Brasil: Minas Gerais: Montes Claros [16.72S 43.87W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

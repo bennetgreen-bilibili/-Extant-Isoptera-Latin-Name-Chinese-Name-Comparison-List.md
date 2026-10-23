@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes masaiaticus 马赛亚特锯白蚁"
+title: "Microcerotermes masaiaticus Harris, 1954 马赛亚特锯白蚁"
 latin: "Microcerotermes masaiaticus"
 zh: "马赛亚特锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1954"
+type_locality: "Kenya: in Rift Valley S of Longonot Mountain"
+distribution_zh: "肯尼亚、坦桑尼亚"
+distribution_en: "Kenya, Tanzania"
+synonym_count: 0
 ---

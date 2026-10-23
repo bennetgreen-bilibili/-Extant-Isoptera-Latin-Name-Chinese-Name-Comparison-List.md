@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes assmuthi modestior 温和亚种"
+title: "Eurytermes assmuthi modestior Silvestri, 1923 温和亚种"
 latin: "Eurytermes assmuthi modestior"
 zh: "温和亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Eurytermes assmuthi"
 parent_zh: "阿斯穆斯宽白蚁"
 parent_slug: "eurytermes-assmuthi"
+author_year: "Silvestri, 1923"
+type_locality: "India: Orissa: Chilka Lake: Barkuda Island"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes guiyangensis 贵阳杆白蚁"
+title: "Stylotermes guiyangensis Ping & Gong, 1984 贵阳杆白蚁"
 latin: "Stylotermes guiyangensis"
 zh: "贵阳杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Gong, 1984"
+type_locality: "China: Guizhou Province: Guiyang City"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

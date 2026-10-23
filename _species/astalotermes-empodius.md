@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes empodius 棘头无利器白蚁"
+title: "Astalotermes empodius Sands, 1972 棘头无利器白蚁"
 latin: "Astalotermes empodius"
 zh: "棘头无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "South Africa: Natal: Haviland Rail"
+distribution_zh: "非洲热带、南非"
+distribution_en: "tropical Africa, South Africa"
+synonym_count: 0
 ---

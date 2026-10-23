@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes zhejianensis 浙江亮白蚁"
+title: "Euhamitermes zhejianensis He & Xia, 1983 浙江亮白蚁"
 latin: "Euhamitermes zhejianensis"
 zh: "浙江亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Xia, 1983"
+type_locality: "China: Zhejiang Province: Quxian"
+distribution_zh: "中国、浙江"
+distribution_en: "China, Zhejiang"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procapritermes longignathus 长颚前扭白蚁"
+title: "Procapritermes longignathus Ahmad, 1965 长颚前扭白蚁"
 latin: "Procapritermes longignathus"
 zh: "长颚前扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Tung Sa-Lang Luang"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

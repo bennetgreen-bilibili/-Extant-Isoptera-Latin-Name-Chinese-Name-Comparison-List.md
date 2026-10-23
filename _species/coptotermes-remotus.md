@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes remotus 远方乳白蚁"
+title: "Coptotermes remotus Hill, 1927 远方乳白蚁"
 latin: "Coptotermes remotus"
 zh: "远方乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1927"
+type_locality: "Papua New Guinea: New Ireland: Kaewieng"
+distribution_zh: "巴布亚新几内亚、帕劳"
+distribution_en: "Papua New Guinea, Palau"
+synonym_count: 0
 ---

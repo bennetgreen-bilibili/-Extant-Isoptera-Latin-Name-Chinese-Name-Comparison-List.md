@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes calabyi 卡拉比弓白蚁"
+title: "Amitermes calabyi Gay, 1968 卡拉比弓白蚁"
 latin: "Amitermes calabyi"
 zh: "卡拉比弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: 4 mi NE Kukerin"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

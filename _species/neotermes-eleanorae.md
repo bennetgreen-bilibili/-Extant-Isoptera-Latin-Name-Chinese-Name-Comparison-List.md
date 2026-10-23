@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes eleanorae 埃莉诺新白蚁"
+title: "Neotermes eleanorae Bose, 1984 埃莉诺新白蚁"
 latin: "Neotermes eleanorae"
 zh: "埃莉诺新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Bose, 1984"
+type_locality: "India: Karnataka: Bangalore"
+distribution_zh: "印度、卡纳塔克"
+distribution_en: "India, Karnataka"
+synonym_count: 0
 ---

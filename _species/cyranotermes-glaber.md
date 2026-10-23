@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cyranotermes glaber 无毛巨鼻白蚁"
+title: "Cyranotermes glaber Constantino, 1990 无毛巨鼻白蚁"
 latin: "Cyranotermes glaber"
 zh: "无毛巨鼻白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1990"
+type_locality: "Brasil: Amapá: Macapá, IEPA Fazendinha [0.04N 51.1W]"
+distribution_zh: "法属圭亚那、巴西"
+distribution_en: "French Guiana, Brazil"
+synonym_count: 0
 ---

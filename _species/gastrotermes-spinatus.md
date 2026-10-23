@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Gastrotermes spinatus 多刺胃白蚁"
+title: "Gastrotermes spinatus Scheffrahn, 2020 多刺胃白蚁"
 latin: "Gastrotermes spinatus"
 zh: "多刺胃白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2020"
+type_locality: "Cameroon: Korup National Park"
+distribution_zh: "西非/中非、喀麦隆"
+distribution_en: "West/Central Africa, Cameroon"
+synonym_count: 0
 ---

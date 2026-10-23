@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes communis 圆头象白蚁"
+title: "Nasutitermes communis Tsai & Chen, 1963 圆头象白蚁"
 latin: "Nasutitermes communis"
 zh: "圆头象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Fujian Province: Nantsing"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

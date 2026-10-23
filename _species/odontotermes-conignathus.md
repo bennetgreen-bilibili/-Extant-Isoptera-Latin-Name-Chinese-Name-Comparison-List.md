@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes conignathus 锥颚土白蚁"
+title: "Odontotermes conignathus Xia & Fan, 1982 锥颚土白蚁"
 latin: "Odontotermes conignathus"
 zh: "锥颚土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia & Fan, 1982"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

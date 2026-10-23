@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Synhamitermes ceylonicus 锡兰同钩白蚁"
+title: "Synhamitermes ceylonicus Holmgren, 1913 锡兰同钩白蚁"
 latin: "Synhamitermes ceylonicus"
 zh: "锡兰同钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Sri Lanka: ?"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

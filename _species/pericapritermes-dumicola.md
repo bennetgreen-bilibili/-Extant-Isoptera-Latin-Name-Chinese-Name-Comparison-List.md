@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes dumicola 栖丛近扭白蚁"
+title: "Pericapritermes dumicola Harris, 1954 栖丛近扭白蚁"
 latin: "Pericapritermes dumicola"
 zh: "栖丛近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1954"
+type_locality: "Tanzania: Tanga District: Mwakijembe"
+distribution_zh: "印度尼西亚、肯尼亚、坦桑尼亚"
+distribution_en: "Indonesia, Kenya, Tanzania"
+synonym_count: 0
 ---

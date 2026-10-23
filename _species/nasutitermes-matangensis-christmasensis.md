@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes matangensis christmasensis 圣诞岛亚种"
+title: "Nasutitermes matangensis christmasensis Krishna, 2013 圣诞岛亚种"
 latin: "Nasutitermes matangensis christmasensis"
 zh: "圣诞岛亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes matangensis"
 parent_zh: "马登象白蚁"
 parent_slug: "nasutitermes-matangensis"
+author_year: "Krishna, 2013"
+type_locality: "Australia: Christmas Island"
+synonym_count: 0
 ---

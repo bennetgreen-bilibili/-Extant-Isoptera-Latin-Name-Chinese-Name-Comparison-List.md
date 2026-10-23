@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Allognathotermes aburiensis 阿布里异颚白蚁"
+title: "Allognathotermes aburiensis Sjöstedt, 1926 阿布里异颚白蚁"
 latin: "Allognathotermes aburiensis"
 zh: "阿布里异颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Ghana: Aburi"
+distribution_zh: "加纳、几内亚、尼日利亚"
+distribution_en: "Ghana, Guinea, Nigeria"
+synonym_count: 0
 ---

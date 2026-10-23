@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sabahitermes leuserensis 勒塞尔沙巴白蚁"
+title: "Sabahitermes leuserensis Gathorne-Hardy, 2001 勒塞尔沙巴白蚁"
 latin: "Sabahitermes leuserensis"
 zh: "勒塞尔沙巴白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gathorne-Hardy, 2001"
+type_locality: "Indonesia: Sumatra: Aceh Tenggara: Ketambe field station"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

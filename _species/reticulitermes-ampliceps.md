@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes ampliceps 扩头散白蚁"
+title: "Reticulitermes ampliceps Wang & Li, 1984 扩头散白蚁"
 latin: "Reticulitermes ampliceps"
 zh: "扩头散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wang & Li, 1984"
+type_locality: "China: Henan Province: Shangcheng County: Jingang Tai"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

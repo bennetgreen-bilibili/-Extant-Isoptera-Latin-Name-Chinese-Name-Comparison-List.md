@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Speculitermes roonwali 鲁恩沃稀白蚁"
+title: "Speculitermes roonwali Maiti, 1983 鲁恩沃稀白蚁"
 latin: "Speculitermes roonwali"
 zh: "鲁恩沃稀白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti, 1983"
+type_locality: "India: West Bengal: Midnapore: Keranitola"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Promirotermes pygmaeus 短小前奇白蚁"
+title: "Promirotermes pygmaeus Harris, 1963 短小前奇白蚁"
 latin: "Promirotermes pygmaeus"
 zh: "短小前奇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1963"
+type_locality: "Democratic Republic of the Congo: Garamba"
+distribution_zh: "刚果民主共和国、马拉维、乌干达"
+distribution_en: "Democratic Republic of the Congo, Malawi, Uganda"
+synonym_count: 0
 ---

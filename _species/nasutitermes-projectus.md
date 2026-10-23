@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes projectus 喷射象白蚁"
+title: "Nasutitermes projectus Hill, 1942 喷射象白蚁"
 latin: "Nasutitermes projectus"
 zh: "喷射象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: New South Wales: Euston"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

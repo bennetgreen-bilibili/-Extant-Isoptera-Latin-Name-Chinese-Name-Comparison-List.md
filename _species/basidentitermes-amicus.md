@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes amicus 友善基齿白蚁"
+title: "Basidentitermes amicus Harris, 1936 友善基齿白蚁"
 latin: "Basidentitermes amicus"
 zh: "友善基齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1936"
+type_locality: "Tanzania: Songea"
+distribution_zh: "旧热带界、坦桑尼亚"
+distribution_en: "Old World tropics, Tanzania"
+synonym_count: 0
 ---

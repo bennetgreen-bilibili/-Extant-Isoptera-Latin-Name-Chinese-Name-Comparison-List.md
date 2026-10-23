@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes hastilis 甘蔗冢白蚁"
+title: "Tumulitermes hastilis Froggatt, 1898 甘蔗冢白蚁"
 latin: "Tumulitermes hastilis"
 zh: "甘蔗冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Froggatt, 1898"
+type_locality: "Australia: Queensland: Mackay"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

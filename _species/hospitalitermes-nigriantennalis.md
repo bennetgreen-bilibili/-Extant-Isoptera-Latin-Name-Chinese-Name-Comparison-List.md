@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes nigriantennalis 黑触角须白蚁"
+title: "Hospitalitermes nigriantennalis Syaukani & Thompson, 2016 黑触角须白蚁"
 latin: "Hospitalitermes nigriantennalis"
 zh: "黑触角须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Syaukani & Thompson, 2016"
+type_locality: "Indonesia: Kalimantan: Pararawen Nature Reserve"
+distribution_zh: "马来西亚、文莱、印度尼西亚"
+distribution_en: "Malaysia, Brunei, Indonesia"
+synonym_count: 0
 ---

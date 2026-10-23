@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes speciosus 美丽近扭白蚁"
+title: "Pericapritermes speciosus Haviland, 1898 美丽近扭白蚁"
 latin: "Pericapritermes speciosus"
 zh: "美丽近扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 1
+synonyms: "Pericapritermes paraspeciosus Thapa, 1982: 216-218"
+synonym_localities: "Malaysia: Sabah: Lamag District: Sukau"
 ---

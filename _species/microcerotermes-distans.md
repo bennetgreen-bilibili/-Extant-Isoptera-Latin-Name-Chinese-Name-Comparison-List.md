@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes distans 遥远锯白蚁"
+title: "Microcerotermes distans Haviland, 1898 遥远锯白蚁"
 latin: "Microcerotermes distans"
 zh: "遥远锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Indonesia: Sulawesi: Menado"
+distribution_zh: "东南亚、印度尼西亚、马来西亚、菲律宾、泰国"
+distribution_en: "Southeast Asia, Indonesia, Malaysia, Philippines, Thailand"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes zuluensis zuluensis 指名亚种"
+title: "Microcerotermes zuluensis zuluensis Holmgren, 1913 指名亚种"
 latin: "Microcerotermes zuluensis zuluensis"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,9 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microcerotermes zuluensis"
 parent_zh: "祖鲁锯白蚁"
 parent_slug: "microcerotermes-zuluensis"
+author_year: "Holmgren, 1913"
+type_locality: "South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele"
+synonym_count: 1
+synonyms: "Microcerotermes zuluensis grandis Holmgren, 1913: 364"
+synonym_localities: "South Africa: Zululand"
 ---

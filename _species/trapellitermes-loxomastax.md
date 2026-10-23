@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trapellitermes loxomastax 弯颚菱角白蚁"
+title: "Trapellitermes loxomastax Sands, 1995 弯颚菱角白蚁"
 latin: "Trapellitermes loxomastax"
 zh: "弯颚菱角白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1995"
+type_locality: "Gambia: near Daranka on Madinari road"
+distribution_zh: "西非、科特迪瓦"
+distribution_en: "West Africa, Côte d'Ivoire"
+synonym_count: 0
 ---

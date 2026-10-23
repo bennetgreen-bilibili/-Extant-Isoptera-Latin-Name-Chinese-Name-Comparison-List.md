@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes globiceps 球头象白蚁"
+title: "Nasutitermes globiceps Holmgren, 1910 球头象白蚁"
 latin: "Nasutitermes globiceps"
 zh: "球头象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Paraguay: Cordillera: San Bernardino [25.27S 57.32W]"
+distribution_zh: "巴西、玻利维亚、哥伦比亚、巴拉圭"
+distribution_en: "Brazil, Bolivia, Colombia, Paraguay"
+synonym_count: 0
 ---

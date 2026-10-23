@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trinervitermes disparatus 分离三脉白蚁"
+title: "Trinervitermes disparatus Bathellier, 1927 分离三脉白蚁"
 latin: "Trinervitermes disparatus"
 zh: "分离三脉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bathellier, 1927"
+type_locality: "Vietnam: Cauda, near Nhatrang"
+distribution_zh: "越南"
+distribution_en: "Vietnam"
+synonym_count: 0
 ---

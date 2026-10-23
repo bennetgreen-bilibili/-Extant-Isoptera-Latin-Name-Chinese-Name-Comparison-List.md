@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes papuanus 巴布亚须白蚁"
+title: "Hospitalitermes papuanus Ahmad, 1947 巴布亚须白蚁"
 latin: "Hospitalitermes papuanus"
 zh: "巴布亚须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1947"
+type_locality: "Papua New Guinea: Strickland River"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

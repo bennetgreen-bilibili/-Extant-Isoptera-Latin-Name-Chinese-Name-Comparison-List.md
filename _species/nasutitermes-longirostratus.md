@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes longirostratus 喙长象白蚁"
+title: "Nasutitermes longirostratus Holmgren, 1906 喙长象白蚁"
 latin: "Nasutitermes longirostratus"
 zh: "喙长象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Bolivia: La Paz: San Fermín [13.9056S 68.9722W]; Peru: Puno: Chaquimayo [13.45S 70.4W]; Puno: Llinquipata [13.8167S 70.6333W]"
+distribution_zh: "玻利维亚、秘鲁"
+distribution_en: "Bolivia, Peru"
+synonym_count: 0
 ---

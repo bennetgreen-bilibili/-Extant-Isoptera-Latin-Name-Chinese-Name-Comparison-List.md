@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes coxipoensis 科西波象白蚁"
+title: "Nasutitermes coxipoensis Holmgren, 1910 科西波象白蚁"
 latin: "Nasutitermes coxipoensis"
 zh: "科西波象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Brasil: Mato Grosso: Cuiabá, Coxipó (district) [15.627S 56.058W]"
+distribution_zh: "巴西、法属圭亚那、阿根廷"
+distribution_en: "Brazil, French Guiana, Argentina"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes djampeensis 达扎丕土白蚁"
+title: "Odontotermes djampeensis Kemner, 1934 达扎丕土白蚁"
 latin: "Odontotermes djampeensis"
 zh: "达扎丕土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Sulawesi: Djampea Island"
+distribution_zh: "东南亚印度尼西亚、泰国"
+distribution_en: "Southeast Asia, Indonesia, Thailand"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes incertus 可疑小白蚁"
+title: "Microtermes incertus Hagen, 1853 可疑小白蚁"
 latin: "Microtermes incertus"
 zh: "可疑小白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hagen, 1853"
+type_locality: "Mozambique: Tette"
+distribution_zh: "非洲南部、南非"
+distribution_en: "southern Africa, South Africa"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes chongqingensis 重庆杆白蚁"
+title: "Stylotermes chongqingensis Chen & Ping, 1983 重庆杆白蚁"
 latin: "Stylotermes chongqingensis"
 zh: "重庆杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Chen & Ping, 1983"
+type_locality: "China: Sichuan Province: Jinyuan Shan, Chongqing Shi"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

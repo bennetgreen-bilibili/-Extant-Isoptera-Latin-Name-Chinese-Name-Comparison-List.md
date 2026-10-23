@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes seminotus 知半弓白蚁"
+title: "Amitermes seminotus Silvestri, 1908 知半弓白蚁"
 latin: "Amitermes seminotus"
 zh: "知半弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1908"
+type_locality: "Botswana: Kalahari: Kooa"
+distribution_zh: "博茨瓦纳、南非"
+distribution_en: "Botswana, South Africa"
+synonym_count: 0
 ---

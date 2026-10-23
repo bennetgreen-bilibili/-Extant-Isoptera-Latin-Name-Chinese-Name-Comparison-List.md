@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes paravilis 似讨厌弓白蚁"
+title: "Amitermes paravilis Ravan & Akhtar, 1999 似讨厌弓白蚁"
 latin: "Amitermes paravilis"
 zh: "似讨厌弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ravan & Akhtar, 1999"
+type_locality: "Iran: Dezful"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

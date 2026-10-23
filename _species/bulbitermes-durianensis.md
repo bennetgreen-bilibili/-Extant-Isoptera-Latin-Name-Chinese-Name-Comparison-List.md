@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes durianensis 榴莲岛瓢白蚁"
+title: "Bulbitermes durianensis Roonwal & Maiti, 1966 榴莲岛瓢白蚁"
 latin: "Bulbitermes durianensis"
 zh: "榴莲岛瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Maiti, 1966"
+type_locality: "Indonesia: Riouw (Rhio) Archipelago: Durian"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

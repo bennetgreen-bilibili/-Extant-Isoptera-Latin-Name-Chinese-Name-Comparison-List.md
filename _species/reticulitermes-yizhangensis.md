@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes yizhangensis 宜章散白蚁"
+title: "Reticulitermes yizhangensis Huang & Tong, 1980 宜章散白蚁"
 latin: "Reticulitermes yizhangensis"
 zh: "宜章散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Tong, 1980"
+type_locality: "China: Hunan Province: Yizhang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

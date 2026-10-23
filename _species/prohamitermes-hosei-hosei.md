@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Prohamitermes hosei hosei 指名亚种"
+title: "Prohamitermes hosei hosei Desneux, 1906 指名亚种"
 latin: "Prohamitermes hosei hosei"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Prohamitermes hosei"
 parent_zh: "霍斯前钩白蚁"
 parent_slug: "prohamitermes-hosei"
+author_year: "Desneux, 1906"
+type_locality: "Malaysia: Sarawak"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes gallagheri 加拉格尔弓白蚁"
+title: "Amitermes gallagheri Chhotani, 1988 加拉格尔弓白蚁"
 latin: "Amitermes gallagheri"
 zh: "加拉格尔弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1988"
+type_locality: "Oman: Jabal Hamar, west of Rayzut"
+distribution_zh: "阿曼、沙特阿拉伯、也门"
+distribution_en: "Oman, Saudi Arabia, Yemen"
+synonym_count: 0
 ---

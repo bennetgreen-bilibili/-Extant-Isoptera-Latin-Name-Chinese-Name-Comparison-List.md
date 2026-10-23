@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes aruensis 阿鲁象白蚁"
+title: "Nasutitermes aruensis John, 1925 阿鲁象白蚁"
 latin: "Nasutitermes aruensis"
 zh: "阿鲁象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "John, 1925"
+type_locality: "Indonesia: Maluku: Aru Islands"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

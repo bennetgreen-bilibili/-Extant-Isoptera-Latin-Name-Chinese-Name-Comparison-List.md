@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes obstructus 阻碍无利器白蚁"
+title: "Astalotermes obstructus Sands, 1972 阻碍无利器白蚁"
 latin: "Astalotermes obstructus"
 zh: "阻碍无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Camp Putnam, Epulu River"
+distribution_zh: "非洲热带、刚果民主共和国"
+distribution_en: "tropical Africa, Democratic Republic of the Congo"
+synonym_count: 0
 ---

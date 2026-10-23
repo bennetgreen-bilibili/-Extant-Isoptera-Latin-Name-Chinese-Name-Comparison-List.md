@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Crenetermes fruitus 可爱刻痕白蚁"
+title: "Crenetermes fruitus Harris, 1958 可爱刻痕白蚁"
 latin: "Crenetermes fruitus"
 zh: "可爱刻痕白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1958"
+type_locality: "Democratic Republic of the Congo: Lusinga"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

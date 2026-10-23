@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes logani 洛根小白蚁"
+title: "Microtermes logani Bacchus, 1997 洛根小白蚁"
 latin: "Microtermes logani"
 zh: "洛根小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bacchus, 1997"
+type_locality: "Malawi: Zomba"
+distribution_zh: "马拉维"
+distribution_en: "Malawi"
+synonym_count: 0
 ---

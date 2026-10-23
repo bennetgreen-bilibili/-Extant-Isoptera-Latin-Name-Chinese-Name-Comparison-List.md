@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dentispicotermes cupiporanga 库皮珀安加齿尖白蚁"
+title: "Dentispicotermes cupiporanga Bandeira & Cancello, 1992 库皮珀安加齿尖白蚁"
 latin: "Dentispicotermes cupiporanga"
 zh: "库皮珀安加齿尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bandeira & Cancello, 1992"
+type_locality: "Brasil: Roraima: Ilha de Maracá [ 3.4N 61.65W ]"
+distribution_zh: "巴西、委内瑞拉"
+distribution_en: "Brazil, Venezuela"
+synonym_count: 0
 ---

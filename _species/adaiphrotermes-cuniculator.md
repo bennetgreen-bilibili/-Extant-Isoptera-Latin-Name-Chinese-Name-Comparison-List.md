@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Adaiphrotermes cuniculator 灵动和白蚁"
+title: "Adaiphrotermes cuniculator Sands, 1972 灵动和白蚁"
 latin: "Adaiphrotermes cuniculator"
 zh: "灵动和白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Ghana: 40 mi from Tumu on Lawra Road"
+distribution_zh: "西非"
+distribution_en: "West Africa"
+synonym_count: 0
 ---

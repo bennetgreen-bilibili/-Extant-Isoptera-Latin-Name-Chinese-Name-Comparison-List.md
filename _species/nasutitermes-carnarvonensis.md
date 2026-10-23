@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes carnarvonensis 卡那封象白蚁"
+title: "Nasutitermes carnarvonensis Hill, 1942 卡那封象白蚁"
 latin: "Nasutitermes carnarvonensis"
 zh: "卡那封象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Carnarvon Range"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes pubescens 柔毛树白蚁"
+title: "Glyptotermes pubescens Snyder, 1924 柔毛树白蚁"
 latin: "Glyptotermes pubescens"
 zh: "柔毛树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1924"
+type_locality: "Puerto Rico: Aibonito"
+distribution_zh: "加勒比"
+distribution_en: "Caribbean"
+synonym_count: 0
 ---

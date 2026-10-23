@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Allognathotermes hypogeus 地下异颚白蚁"
+title: "Allognathotermes hypogeus Silvestri, 1914 地下异颚白蚁"
 latin: "Allognathotermes hypogeus"
 zh: "地下异颚白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kakoulima"
+distribution_zh: "西非、喀麦隆"
+distribution_en: "West Africa, Cameroon"
+synonym_count: 0
 ---

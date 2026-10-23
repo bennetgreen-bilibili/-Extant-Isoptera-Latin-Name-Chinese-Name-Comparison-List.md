@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes crucifer diversana 相异亚种"
+title: "Ancistrotermes crucifer diversana Silvestri, 1914 相异亚种"
 latin: "Ancistrotermes crucifer diversana"
 zh: "相异亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Ancistrotermes crucifer"
 parent_zh: "十字钩白蚁"
 parent_slug: "ancistrotermes-crucifer"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Kakoulima; Kindia"
+synonym_count: 0
 ---

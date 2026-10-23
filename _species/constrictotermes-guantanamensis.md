@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Constrictotermes guantanamensis 关塔那摩缩白蚁"
+title: "Constrictotermes guantanamensis Krecek, Scheffrahn & Roisin, 1996 关塔那摩缩白蚁"
 latin: "Constrictotermes guantanamensis"
 zh: "关塔那摩缩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krecek, Scheffrahn & Roisin, 1996"
+type_locality: "Cuba: Guantanamo: Loma de Macambo"
+distribution_zh: "加勒比古巴"
+distribution_en: "Caribbean, Cuba"
+synonym_count: 0
 ---

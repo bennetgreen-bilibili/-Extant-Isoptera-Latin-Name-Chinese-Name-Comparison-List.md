@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eutermellus abruptus 陡峭小真白蚁"
+title: "Eutermellus abruptus Sands, 1965 陡峭小真白蚁"
 latin: "Eutermellus abruptus"
 zh: "陡峭小真白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1965"
+type_locality: "Democratic Republic of the Congo: Njili, 18 km from Kinshasa (Leopoldville)"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 0
 ---

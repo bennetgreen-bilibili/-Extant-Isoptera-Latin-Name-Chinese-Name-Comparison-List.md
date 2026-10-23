@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Gnathamitermes tubiformans 管形颚钩白蚁"
+title: "Gnathamitermes tubiformans Buckley, 1862 管形颚钩白蚁"
 latin: "Gnathamitermes tubiformans"
 zh: "管形颚钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Buckley, 1862"
+type_locality: "United States: Texas: Lapasas; Texas: San Saba"
+distribution_zh: "墨西哥、美国"
+distribution_en: "Mexico, United States"
+synonym_count: 0
 ---

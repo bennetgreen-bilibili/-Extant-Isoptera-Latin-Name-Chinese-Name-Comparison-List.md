@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes thanensis 塔诺象白蚁"
+title: "Nasutitermes thanensis Prashad & Sen-Sarma, 1959 塔诺象白蚁"
 latin: "Nasutitermes thanensis"
 zh: "塔诺象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Prashad & Sen-Sarma, 1959"
+type_locality: "India: Uttarakhand: Dehra Dun: Thano"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes undulans 波纹原方白蚁"
+title: "Procubitermes undulans Schmitz, 1917 波纹原方白蚁"
 latin: "Procubitermes undulans"
 zh: "波纹原方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Schmitz, 1917"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "东非、乌干达、刚果民主共和国"
+distribution_en: "East Africa, Uganda, Democratic Republic of the Congo"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rhynchotermes bulbinasus 葱鼻喙白蚁"
+title: "Rhynchotermes bulbinasus Scheffrahn, 2010 葱鼻喙白蚁"
 latin: "Rhynchotermes bulbinasus"
 zh: "葱鼻喙白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2010"
+type_locality: "Colombia: Sucre: Buenavista [9.3145N 75.0285W]"
+distribution_zh: "哥伦比亚"
+distribution_en: "Colombia"
+synonym_count: 0
 ---

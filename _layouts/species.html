@@ -7,13 +7,51 @@ layout: default
     › <a href="{{ site.base_url }}/list/#{{ page.family_id }}">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/list/#{{ page.subfamily_id }}">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/list/#{{ page.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a>
   </nav>
 
-  <h1 class="species-title"><i class="species-latin">{{ page.latin }}</i> <span class="species-zh">{{ page.zh }}</span></h1>
+  <h1 class="species-title"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh">{{ page.zh }}</span></h1>
 
-  <p class="species-meta">{% if page.rank == 'subspecies' %}亚种{% else %}种{% endif %} · 拉丁学名 · 中文正名{% if page.type %} · <span class="species-type-mark">* 模式种</span>{% endif %}</p>
+  <p class="species-meta">{% if page.rank == 'subspecies' %}亚种 <span class="fact-en">Subspecies</span>{% else %}种 <span class="fact-en">Species</span>{% endif %}{% if page.type %} · <span class="species-type-mark">* 模式种 <span class="fact-en">Type species</span></span>{% endif %}</p>
 
   {% if page.rank == 'subspecies' %}
-  <p class="species-parent">隶属：<a href="{{ site.base_url }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i> {{ page.parent_zh }}</a></p>
+  <p class="species-parent">隶属 <span class="fact-en">Parent species</span>：<a href="{{ site.base_url }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i> {{ page.parent_zh }}</a></p>
   {% endif %}
 
-  <p class="species-placeholder">本页内容待补充。</p>
+  <dl class="species-facts">
+    {% if page.type_locality %}
+    <div class="species-fact">
+      <dt>模式产地 <span class="fact-en">Type locality</span></dt>
+      <dd>{{ page.type_locality }}</dd>
+    </div>
+    {% endif %}
+
+    {% if page.distribution_zh or page.distribution_en %}
+    <div class="species-fact">
+      <dt>分布 <span class="fact-en">Distribution</span></dt>
+      <dd>
+        {% if page.distribution_zh %}<div class="fact-zh">{{ page.distribution_zh }}</div>{% endif %}
+        {% if page.distribution_en %}<div class="fact-en">{{ page.distribution_en }}</div>{% endif %}
+      </dd>
+    </div>
+    {% endif %}
+
+    {% if page.synonym_count > 0 %}
+    <div class="species-fact">
+      <dt>次异名 <span class="fact-en">Junior synonyms</span>（{{ page.synonym_count }}）</dt>
+      <dd>
+        <ul class="synonym-list">
+          {% assign syns = page.synonyms | split: ';' %}
+          {% for s in syns %}{% assign t = s | strip %}{% if t != '' %}<li>{{ t }}</li>{% endif %}{% endfor %}
+        </ul>
+        {% if page.synonym_localities %}
+        <p class="synonym-localities-label">次异名模式产地 <span class="fact-en">Type localities of junior synonyms</span></p>
+        <ul class="synonym-localities">
+          {% assign locs = page.synonym_localities | split: ';' %}
+          {% for l in locs %}{% assign u = l | strip %}{% if u != '' %}<li>{{ u }}</li>{% endif %}{% endfor %}
+        </ul>
+        {% endif %}
+      </dd>
+    </div>
+    {% endif %}
+  </dl>
+
+  {{ content }}
 </article>

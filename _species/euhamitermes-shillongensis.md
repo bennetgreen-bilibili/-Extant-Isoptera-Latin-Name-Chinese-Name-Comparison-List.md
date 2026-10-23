@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes shillongensis 西隆亮白蚁"
+title: "Euhamitermes shillongensis Roonwal & Chhotani, 1960 西隆亮白蚁"
 latin: "Euhamitermes shillongensis"
 zh: "西隆亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1960"
+type_locality: "India: Assam: Shillong"
+distribution_zh: "南亚、印度梅加拉亚"
+distribution_en: "South Asia, Meghalaya, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Epicalotermes pakistanicus 巴基斯坦上木白蚁"
+title: "Epicalotermes pakistanicus Akhtar, 1974 巴基斯坦上木白蚁"
 latin: "Epicalotermes pakistanicus"
 zh: "巴基斯坦上木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: Baluchistan: Gwadar"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

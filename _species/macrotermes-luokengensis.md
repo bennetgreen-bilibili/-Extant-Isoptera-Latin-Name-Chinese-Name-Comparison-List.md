@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes luokengensis 罗坑大白蚁"
+title: "Macrotermes luokengensis Lin & Shi, 1982 罗坑大白蚁"
 latin: "Macrotermes luokengensis"
 zh: "罗坑大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Lin & Shi, 1982"
+type_locality: "China: Guangdong Province: Dianbai County"
+distribution_zh: "中国广东、电白"
+distribution_en: "Guangdong, China, Dianbai"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes superans 充裕新白蚁"
+title: "Neotermes superans Silvestri, 1928 充裕新白蚁"
 latin: "Neotermes superans"
 zh: "充裕新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Silvestri, 1928"
+type_locality: "Ethiopia: Djem-Djem forest"
+distribution_zh: "埃塞俄比亚"
+distribution_en: "Ethiopia"
+synonym_count: 0
 ---

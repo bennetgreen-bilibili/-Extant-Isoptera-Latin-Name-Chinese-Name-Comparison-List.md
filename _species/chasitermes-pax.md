@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Chasitermes pax 和平蔡斯白蚁"
+title: "Chasitermes pax Scheffrahn & Carrijo, 2023 和平蔡斯白蚁"
 latin: "Chasitermes pax"
 zh: "和平蔡斯白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn & Carrijo, 2023"
+type_locality: "Trinidad and Tobago: Tunapuna [ 10.667N 61.396W ]"
+distribution_zh: "特立尼达和多巴哥"
+distribution_en: "Trinidad and Tobago"
+synonym_count: 0
 ---

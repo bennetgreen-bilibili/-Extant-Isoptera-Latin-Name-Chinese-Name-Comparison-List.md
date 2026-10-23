@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes gulangyuensis 鼓浪屿乳白蚁"
+title: "Coptotermes gulangyuensis Li & Huang, 1986 鼓浪屿乳白蚁"
 latin: "Coptotermes gulangyuensis"
 zh: "鼓浪屿乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Huang, 1986"
+type_locality: "China: Fujian Province: Gulangyu Isl., Xiamen"
+distribution_zh: "中国福建"
+distribution_en: "China (Fujian)"
+synonym_count: 0
 ---

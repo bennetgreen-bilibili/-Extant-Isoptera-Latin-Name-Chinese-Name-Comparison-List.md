@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Planicapritermes longilabrum 长唇平扭白蚁"
+title: "Planicapritermes longilabrum Constantino, 1998 长唇平扭白蚁"
 latin: "Planicapritermes longilabrum"
 zh: "长唇平扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1998"
+type_locality: "Brasil: Amazonas: Balbina (hydroelectric dam) [ 1.513S 59.8419W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

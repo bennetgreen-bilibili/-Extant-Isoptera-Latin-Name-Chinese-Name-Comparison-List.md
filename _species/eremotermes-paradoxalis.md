@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eremotermes paradoxalis 奇异漠白蚁"
+title: "Eremotermes paradoxalis Holmgren, 1912 奇异漠白蚁"
 latin: "Eremotermes paradoxalis"
 zh: "奇异漠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "India: Karnataka: Bangalore"
+distribution_zh: "印度、巴基斯坦"
+distribution_en: "India, Pakistan"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes sublongicapitatus 似长头散白蚁"
+title: "Reticulitermes sublongicapitatus Ping, 1986 似长头散白蚁"
 latin: "Reticulitermes sublongicapitatus"
 zh: "似长头散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1986"
+type_locality: "China: Guangxi Province: Longshen: Huaping, virgin forest"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

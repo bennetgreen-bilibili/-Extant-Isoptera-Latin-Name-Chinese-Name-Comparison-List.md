@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes angustithorax 狭胸树白蚁"
+title: "Glyptotermes angustithorax Ping & Xu, 1986 狭胸树白蚁"
 latin: "Glyptotermes angustithorax"
 zh: "狭胸树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ping & Xu, 1986"
+type_locality: "China: Hainan"
+distribution_zh: "中国海南"
+distribution_en: "China (Hainan)"
+synonym_count: 0
 ---

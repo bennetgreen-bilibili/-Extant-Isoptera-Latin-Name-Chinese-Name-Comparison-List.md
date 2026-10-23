@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes acinaciformis raffrayi 拉夫雷亚种"
+title: "Coptotermes acinaciformis raffrayi Wasmann, 1900 拉夫雷亚种"
 latin: "Coptotermes acinaciformis raffrayi"
 zh: "拉夫雷亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Coptotermes acinaciformis"
 parent_zh: "短刀乳白蚁"
 parent_slug: "coptotermes-acinaciformis"
+author_year: "Wasmann, 1900"
+type_locality: "Australia: Western Australia: Swan River"
+synonym_count: 0
 ---

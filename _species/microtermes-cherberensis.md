@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes cherberensis 谢尔贝小白蚁"
+title: "Microtermes cherberensis Bacchus, 1997 谢尔贝小白蚁"
 latin: "Microtermes cherberensis"
 zh: "谢尔贝小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bacchus, 1997"
+type_locality: "Kenya: Cheberen, 17 km from Tenges on road to Eldama Ravine"
+distribution_zh: "肯尼亚"
+distribution_en: "Kenya"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Promirotermes rotundifrons 圆额前奇白蚁"
+title: "Promirotermes rotundifrons Silvestri, 1908 圆额前奇白蚁"
 latin: "Promirotermes rotundifrons"
 zh: "圆额前奇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1908"
+type_locality: "Botswana: Kalahari: Kooa"
+distribution_zh: "博茨瓦纳、南非"
+distribution_en: "Botswana, South Africa"
+synonym_count: 0
 ---

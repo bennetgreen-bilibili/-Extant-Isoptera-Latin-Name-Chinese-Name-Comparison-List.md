@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes bolivianus 玻利维亚角象白蚁"
+title: "Cornitermes bolivianus Snyder, 1926 玻利维亚角象白蚁"
 latin: "Cornitermes bolivianus"
 zh: "玻利维亚角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: Pando: near Lake Rogagua [13.9667S 66.8667W]"
+distribution_zh: "巴西、哥伦比亚、玻利维亚、秘鲁、厄瓜多尔、委内瑞拉"
+distribution_en: "Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela"
+synonym_count: 0
 ---

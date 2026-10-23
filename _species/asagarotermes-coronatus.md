@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Asagarotermes coronatus 冠毛无剑白蚁"
+title: "Asagarotermes coronatus Sands, 1972 冠毛无剑白蚁"
 latin: "Asagarotermes coronatus"
 zh: "冠毛无剑白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville"
+distribution_zh: "刚果（金）加丹加、喀麦隆、刚果民主共和国"
+distribution_en: "Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo"
+synonym_count: 0
 ---

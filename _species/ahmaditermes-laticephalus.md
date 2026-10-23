@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes laticephalus 宽头钝颚白蚁"
+title: "Ahmaditermes laticephalus Ahmad, 1965 宽头钝颚白蚁"
 latin: "Ahmaditermes laticephalus"
 zh: "宽头钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Tung Sa-Lang Luang"
+distribution_zh: "中国、越南、泰国"
+distribution_en: "China, Vietnam, Thailand"
+synonym_count: 0
 ---

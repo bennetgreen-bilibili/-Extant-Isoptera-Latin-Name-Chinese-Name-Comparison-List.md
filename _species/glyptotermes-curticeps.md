@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes curticeps 短头树白蚁"
+title: "Glyptotermes curticeps Fan & Xia, 1980 短头树白蚁"
 latin: "Glyptotermes curticeps"
 zh: "短头树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Fan & Xia, 1980"
+type_locality: "China: Fujian Province: Zhangping"
+distribution_zh: "中国福建"
+distribution_en: "China (Fujian)"
+synonym_count: 0
 ---

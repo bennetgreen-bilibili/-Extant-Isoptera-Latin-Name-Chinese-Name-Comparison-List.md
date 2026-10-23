@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes luoyangensis 洛阳土白蚁"
+title: "Odontotermes luoyangensis Wang & Li, 1984 洛阳土白蚁"
 latin: "Odontotermes luoyangensis"
 zh: "洛阳土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wang & Li, 1984"
+type_locality: "China: Henan Province: Luoyang City: Longmen Xishan"
+distribution_zh: "中国河南"
+distribution_en: "Henan, China"
+synonym_count: 0
 ---

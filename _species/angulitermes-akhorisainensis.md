@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes akhorisainensis 艾豪瑞赛恩角白蚁"
+title: "Angulitermes akhorisainensis Chatterjee & Thakur, 1964 艾豪瑞赛恩角白蚁"
 latin: "Angulitermes akhorisainensis"
 zh: "艾豪瑞赛恩角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Thakur, 1964"
+type_locality: "India: Uttarakhand: Tehri Garhwal Forest Division: Tehri Range: Akhorisain block"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

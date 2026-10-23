@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Foraminitermes harrisi 哈里斯孔白蚁"
+title: "Foraminitermes harrisi Krishna, 1963 哈里斯孔白蚁"
 latin: "Foraminitermes harrisi"
 zh: "哈里斯孔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Foraminitermitinae"
 subfamily_id: "foraminitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1963"
+type_locality: "Democratic Republic of the Congo: Keyberg, 10 km S Lubumbashi"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

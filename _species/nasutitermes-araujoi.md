@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes araujoi 阿劳若象白蚁"
+title: "Nasutitermes araujoi Roonwal & Rathore, 1976 阿劳若象白蚁"
 latin: "Nasutitermes araujoi"
 zh: "阿劳若象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Rathore, 1976"
+type_locality: "Brasil: Pará: Belterra [2.63639S 54.9372W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes emersoni 埃默森乳白蚁"
+title: "Coptotermes emersoni Ahmad, 1953 埃默森乳白蚁"
 latin: "Coptotermes emersoni"
 zh: "埃默森乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1953"
+type_locality: "Sri Lanka: Colombo"
+distribution_zh: "印度、中国、斯里兰卡"
+distribution_en: "India, China, Sri Lanka"
+synonym_count: 0
 ---

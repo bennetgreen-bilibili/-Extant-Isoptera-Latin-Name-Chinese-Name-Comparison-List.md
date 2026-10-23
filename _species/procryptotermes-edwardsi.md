@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procryptotermes edwardsi 爱德华兹前砂白蚁"
+title: "Procryptotermes edwardsi Scheffrahn, 1999 爱德华兹前砂白蚁"
 latin: "Procryptotermes edwardsi"
 zh: "爱德华兹前砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn, 1999"
+type_locality: "Jamaica: Cousin Cave"
+distribution_zh: "加勒比"
+distribution_en: "Caribbean"
+synonym_count: 0
 ---

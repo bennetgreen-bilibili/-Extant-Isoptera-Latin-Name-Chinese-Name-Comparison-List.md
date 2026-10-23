@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes bequaerti 贝奎特角象白蚁"
+title: "Cornitermes bequaerti Emerson, 1952 贝奎特角象白蚁"
 latin: "Cornitermes bequaerti"
 zh: "贝奎特角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1952"
+type_locality: "Brasil: São Paulo: Tatuí [23.35S 47.85W]"
+distribution_zh: "巴西、玻利维亚、巴拉圭"
+distribution_en: "Brazil, Bolivia, Paraguay"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrognathotermes broomensis 布鲁姆长颚白蚁"
+title: "Macrognathotermes broomensis Mjöberg, 1920 布鲁姆长颚白蚁"
 latin: "Macrognathotermes broomensis"
 zh: "布鲁姆长颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Western Australia: Broome"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

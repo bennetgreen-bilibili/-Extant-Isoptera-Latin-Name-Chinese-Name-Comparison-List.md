@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes amaralii 阿马拉利白蚁"
+title: "Termes amaralii Seabra, 1919 阿马拉利白蚁"
 latin: "Termes amaralii"
 zh: "阿马拉利白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Seabra, 1919"
+type_locality: "Sao Tome and Principe: Binda"
+distribution_zh: "圣多美和普林西比"
+distribution_en: "São Tomé and Príncipe"
+synonym_count: 0
 ---

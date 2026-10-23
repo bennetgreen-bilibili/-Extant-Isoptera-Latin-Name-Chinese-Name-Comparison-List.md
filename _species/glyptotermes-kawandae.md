@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes kawandae 卡旺达树白蚁"
+title: "Glyptotermes kawandae Wilkinson, 1954 卡旺达树白蚁"
 latin: "Glyptotermes kawandae"
 zh: "卡旺达树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Wilkinson, 1954"
+type_locality: "Uganda: Kawanda"
+distribution_zh: "乌干达"
+distribution_en: "Uganda"
+synonym_count: 0
 ---

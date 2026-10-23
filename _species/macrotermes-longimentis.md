@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes longimentis 长颏大白蚁"
+title: "Macrotermes longimentis Zhu & Luo, 1987 长颏大白蚁"
 latin: "Macrotermes longimentis"
 zh: "长颏大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Luo, 1987"
+type_locality: "China: Guangxi Province: Beihai outskirts"
+distribution_zh: "中国广西、北海"
+distribution_en: "Guangxi, China, Beihai"
+synonym_count: 0
 ---

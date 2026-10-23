@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ibitermes curupira 长毛地球白蚁"
+title: "Ibitermes curupira Fontes, 1985 长毛地球白蚁"
 latin: "Ibitermes curupira"
 zh: "长毛地球白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fontes, 1985"
+type_locality: "Brasil: Minas Gerais: Itabira [19.6192S 43.2269W]"
+distribution_zh: "巴西、玻利维亚"
+distribution_en: "Brazil, Bolivia"
+synonym_count: 0
 ---

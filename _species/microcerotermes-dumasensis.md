@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes dumasensis 杜马斯锯白蚁"
+title: "Microcerotermes dumasensis Thakur, 1989 杜马斯锯白蚁"
 latin: "Microcerotermes dumasensis"
 zh: "杜马斯锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1989"
+type_locality: "India: Gujarat: Surat District: Dumas seacoast"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

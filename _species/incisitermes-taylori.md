@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Incisitermes taylori 泰勒楹白蚁"
+title: "Incisitermes taylori Light, 1930 泰勒楹白蚁"
 latin: "Incisitermes taylori"
 zh: "泰勒楹白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Light, 1930"
+type_locality: "Philippines: Mindanao: Zamboanga, Santa Cruz"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

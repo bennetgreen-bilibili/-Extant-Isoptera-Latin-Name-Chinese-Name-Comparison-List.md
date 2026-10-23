@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes acignathus 尖颚角象白蚁"
+title: "Cornitermes acignathus Silvestri, 1901 尖颚角象白蚁"
 latin: "Cornitermes acignathus"
 zh: "尖颚角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Ecuador: Guayas: Guayaquil [2.16667S 79.9W]"
+distribution_zh: "哥斯达黎加、哥伦比亚、巴拿马、厄瓜多尔"
+distribution_en: "Costa Rica, Colombia, Panama, Ecuador"
+synonym_count: 0
 ---

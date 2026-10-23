@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes tiantongensis 天童钝颚白蚁"
+title: "Ahmaditermes tiantongensis Ping & Xin, 1993 天童钝颚白蚁"
 latin: "Ahmaditermes tiantongensis"
 zh: "天童钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xin, 1993"
+type_locality: "China: Zhejiang Province: Mt. Tiantong"
+distribution_zh: "中国浙江"
+distribution_en: "China (Zhejiang)"
+synonym_count: 0
 ---

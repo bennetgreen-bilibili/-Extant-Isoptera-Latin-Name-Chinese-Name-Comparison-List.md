@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes moratus 拖延象白蚁"
+title: "Nasutitermes moratus Silvestri, 1914 拖延象白蚁"
 latin: "Nasutitermes moratus"
 zh: "拖延象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "India: Arunachal Pradesh: Siang District: Yambung"
+distribution_zh: "中国、印度"
+distribution_en: "China, India"
+synonym_count: 0
 ---

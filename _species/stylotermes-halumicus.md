@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes halumicus 穿山甲杆白蚁"
+title: "Stylotermes halumicus Liang, Wu & Li , 2017 穿山甲杆白蚁"
 latin: "Stylotermes halumicus"
 zh: "穿山甲杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Liang, Wu & Li , 2017"
+type_locality: "Taiwan: Taitung Co., Luanshan"
+distribution_zh: "中国台湾"
+distribution_en: "China (Taiwan)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes ovatilabrum 卵唇散白蚁"
+title: "Reticulitermes ovatilabrum Xia & Fan, 1981 卵唇散白蚁"
 latin: "Reticulitermes ovatilabrum"
 zh: "卵唇散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia & Fan, 1981"
+type_locality: "China: Zhuang Autonomus Region of Guangxi: Ningming County: Longrui"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

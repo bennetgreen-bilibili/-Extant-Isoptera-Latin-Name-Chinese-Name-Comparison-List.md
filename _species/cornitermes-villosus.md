@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes villosus 密毛角象白蚁"
+title: "Cornitermes villosus Emerson, 1952 密毛角象白蚁"
 latin: "Cornitermes villosus"
 zh: "密毛角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1952"
+type_locality: "Brasil: São Paulo: Guatapará, Horto Florestal de Guarani [21.42S 48.1W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

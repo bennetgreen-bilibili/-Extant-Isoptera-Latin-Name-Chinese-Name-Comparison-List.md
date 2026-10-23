@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Occasitermes occasus 西部西部白蚁"
+title: "Occasitermes occasus Silvestri, 1909 西部西部白蚁"
 latin: "Occasitermes occasus"
 zh: "西部西部白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1909"
+type_locality: "Australia: Western Australia: Collie"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

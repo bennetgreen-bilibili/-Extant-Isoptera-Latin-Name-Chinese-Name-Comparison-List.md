@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes jinyunensis 缙云树白蚁"
+title: "Glyptotermes jinyunensis Chen & Ping, 1985 缙云树白蚁"
 latin: "Glyptotermes jinyunensis"
 zh: "缙云树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Chen & Ping, 1985"
+type_locality: "China: Sichuan Province: Jinyun Mountain of Chonquing City"
+distribution_zh: "中国四川"
+distribution_en: "China (Sichuan)"
+synonym_count: 0
 ---

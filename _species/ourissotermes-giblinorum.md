@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ourissotermes giblinorum 吉布林海胆白蚁"
+title: "Ourissotermes giblinorum Scheffrahn, Carrijo & Castro, 2023 吉布林海胆白蚁"
 latin: "Ourissotermes giblinorum"
 zh: "吉布林海胆白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, Carrijo & Castro, 2023"
+type_locality: "Brasil: Rondônia: Porto Velho, Jaci Paraná [ 8.76194S 63.9039W ]"
+distribution_zh: "南美洲"
+distribution_en: "South America"
+synonym_count: 0
 ---

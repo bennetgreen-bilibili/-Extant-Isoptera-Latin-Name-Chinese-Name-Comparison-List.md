@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes olidus 臭味象白蚁"
+title: "Nasutitermes olidus Hill, 1926 臭味象白蚁"
 latin: "Nasutitermes olidus"
 zh: "臭味象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1926"
+type_locality: "Fiji: Taveuni"
+distribution_zh: "斐济"
+distribution_en: "Fiji"
+synonym_count: 0
 ---

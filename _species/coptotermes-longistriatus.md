@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes longistriatus 长带乳白蚁"
+title: "Coptotermes longistriatus Li & Huang, 1985 长带乳白蚁"
 latin: "Coptotermes longistriatus"
 zh: "长带乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Huang, 1985"
+type_locality: "China: Guangdong Province: Nanhai County"
+distribution_zh: "中国广东"
+distribution_en: "China (Guangdong)"
+synonym_count: 0
 ---

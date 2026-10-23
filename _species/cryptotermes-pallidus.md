@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes pallidus 苍白堆砂白蚁"
+title: "Cryptotermes pallidus Rambur, 1842 苍白堆砂白蚁"
 latin: "Cryptotermes pallidus"
 zh: "苍白堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Rambur, 1842"
+type_locality: "Mauritius: ?"
+distribution_zh: "留尼汪、毛里求斯"
+distribution_en: "Réunion, Mauritius"
+synonym_count: 0
 ---

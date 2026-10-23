@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes dukouensis 渡口钝颚白蚁"
+title: "Ahmaditermes dukouensis Gao & Deng, 1987 渡口钝颚白蚁"
 latin: "Ahmaditermes dukouensis"
 zh: "渡口钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Deng, 1987"
+type_locality: "China: Sichuan Province: Dukou city"
+distribution_zh: "中国四川"
+distribution_en: "China (Sichuan)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes angustatus 狭胸散白蚁"
+title: "Reticulitermes angustatus He & Qiu, 1990 狭胸散白蚁"
 latin: "Reticulitermes angustatus"
 zh: "狭胸散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Qiu, 1990"
+type_locality: "China: Guizhou Province: Jiankou County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

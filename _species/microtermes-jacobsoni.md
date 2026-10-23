@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes jacobsoni 雅各布森小白蚁"
+title: "Microtermes jacobsoni Holmgren, 1913 雅各布森小白蚁"
 latin: "Microtermes jacobsoni"
 zh: "雅各布森小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Java: Semarang"
+distribution_zh: "东南亚、印度尼西亚"
+distribution_en: "Southeast Asia, Indonesia"
+synonym_count: 0
 ---

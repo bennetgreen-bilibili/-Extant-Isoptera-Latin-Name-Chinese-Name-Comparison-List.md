@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes pallidiceps 灰头微白蚁"
+title: "Parvitermes pallidiceps Banks, 1919 灰头微白蚁"
 latin: "Parvitermes pallidiceps"
 zh: "灰头微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Banks, 1919"
+type_locality: "Haiti: Diquini; Manneville; Port au Prince; St. Marc"
+distribution_zh: "多米尼加、海地"
+distribution_en: "Dominican Republic, Haiti"
+synonym_count: 0
 ---

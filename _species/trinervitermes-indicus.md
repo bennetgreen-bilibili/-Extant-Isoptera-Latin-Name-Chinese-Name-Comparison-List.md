@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trinervitermes indicus 印度三脉白蚁"
+title: "Trinervitermes indicus Snyder, 1934 印度三脉白蚁"
 latin: "Trinervitermes indicus"
 zh: "印度三脉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1934"
+type_locality: "India: Uttar Pradesh, Jhansi Division, Kalyanpur"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

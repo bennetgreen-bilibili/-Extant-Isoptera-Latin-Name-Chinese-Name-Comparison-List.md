@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Incisitermes laterangularis 侧角楹白蚁"
+title: "Incisitermes laterangularis Han, 1982 侧角楹白蚁"
 latin: "Incisitermes laterangularis"
 zh: "侧角楹白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Han, 1982"
+type_locality: "China: Zhejiang Province: Ninghai"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

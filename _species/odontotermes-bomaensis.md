@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes bomaensis 博马土白蚁"
+title: "Odontotermes bomaensis Sjöstedt, 1924 博马土白蚁"
 latin: "Odontotermes bomaensis"
 zh: "博马土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Democratic Republic of the Congo: Boma"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

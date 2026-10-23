@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes acerbus 粗鲁锯白蚁"
+title: "Microcerotermes acerbus Sjöstedt, 1911 粗鲁锯白蚁"
 latin: "Microcerotermes acerbus"
 zh: "粗鲁锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Sierra Leone: ?"
+distribution_zh: "塞拉利昂"
+distribution_en: "Sierra Leone"
+synonym_count: 0
 ---

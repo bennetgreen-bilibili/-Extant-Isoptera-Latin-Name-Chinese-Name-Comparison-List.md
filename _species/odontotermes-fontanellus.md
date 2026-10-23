@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes fontanellus 小囟土白蚁"
+title: "Odontotermes fontanellus Kemner, 1925 小囟土白蚁"
 latin: "Odontotermes fontanellus"
 zh: "小囟土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1925"
+type_locality: "China: Jiangsu Province: Tschingkiang"
+distribution_zh: "江苏（镇江）、安徽、云南、中国"
+distribution_en: "Jiangsu (Zhenjiang), Anhui, Yunnan, China"
+synonym_count: 0
 ---

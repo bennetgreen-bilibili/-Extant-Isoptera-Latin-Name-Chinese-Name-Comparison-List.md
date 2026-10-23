@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Niuginitermes variratae 瓦里拉塔新几内亚白蚁"
+title: "Niuginitermes variratae Roisin & Pasteels, 1996 瓦里拉塔新几内亚白蚁"
 latin: "Niuginitermes variratae"
 zh: "瓦里拉塔新几内亚白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Central Province: Varirata National Park"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

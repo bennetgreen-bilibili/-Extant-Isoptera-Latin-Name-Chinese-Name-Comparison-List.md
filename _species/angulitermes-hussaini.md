@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes hussaini 侯赛因角白蚁"
+title: "Angulitermes hussaini Ahmad, 1955 侯赛因角白蚁"
 latin: "Angulitermes hussaini"
 zh: "侯赛因角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1955"
+type_locality: "Pakistan: Larkana"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

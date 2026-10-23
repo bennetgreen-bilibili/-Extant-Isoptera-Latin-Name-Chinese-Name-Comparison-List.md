@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes naudei 诺代堆砂白蚁"
+title: "Cryptotermes naudei Coaton, 1950 诺代堆砂白蚁"
 latin: "Cryptotermes naudei"
 zh: "诺代堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Coaton, 1950"
+type_locality: "South Africa: North Zululand: Maputa"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

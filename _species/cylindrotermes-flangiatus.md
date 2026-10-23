@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cylindrotermes flangiatus 凸缘圆筒白蚁"
+title: "Cylindrotermes flangiatus Mathews, 1977 凸缘圆筒白蚁"
 latin: "Cylindrotermes flangiatus"
 zh: "凸缘圆筒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cylindrotermitinae"
 subfamily_id: "cylindrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [ 12.8145S 51.7745W ]"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

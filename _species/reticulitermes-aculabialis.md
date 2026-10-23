@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes aculabialis 尖唇散白蚁"
+title: "Reticulitermes aculabialis Tsai & Huang, 1977 尖唇散白蚁"
 latin: "Reticulitermes aculabialis"
 zh: "尖唇散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1977"
+type_locality: "China: Sichuan Province: Chengdu"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

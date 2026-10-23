@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes silvestrii 西尔韦斯特里角象白蚁"
+title: "Cornitermes silvestrii Emerson, 1949 西尔韦斯特里角象白蚁"
 latin: "Cornitermes silvestrii"
 zh: "西尔韦斯特里角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1949"
+type_locality: "Brasil: Mato Grosso: Cuiabá, Coxipó (district) [15.627S 56.058W]"
+distribution_zh: "巴西、玻利维亚"
+distribution_en: "Brazil, Bolivia"
+synonym_count: 0
 ---

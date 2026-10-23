@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes fontanellus 小囟突扭白蚁"
+title: "Dicuspiditermes fontanellus Thakur & Chatterjee, 1971 小囟突扭白蚁"
 latin: "Dicuspiditermes fontanellus"
 zh: "小囟突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur & Chatterjee, 1971"
+type_locality: "India: Goa: South Goa Forest Division: Sangeum Forest Range, Satida mixed forests"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

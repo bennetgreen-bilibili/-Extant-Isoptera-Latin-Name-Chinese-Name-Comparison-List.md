@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes brevirostratus 短鼻须白蚁"
+title: "Hospitalitermes brevirostratus Prashad & Sen-Sarma, 1960 短鼻须白蚁"
 latin: "Hospitalitermes brevirostratus"
 zh: "短鼻须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Prashad & Sen-Sarma, 1960"
+type_locality: "Myanmar: Maymyo"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
 ---

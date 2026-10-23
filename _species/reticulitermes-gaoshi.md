@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes gaoshi 大囟散白蚁"
+title: "Reticulitermes gaoshi Li & Ma, 1987 大囟散白蚁"
 latin: "Reticulitermes gaoshi"
 zh: "大囟散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ma, 1987"
+type_locality: "China: Henan Province: Xinying"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

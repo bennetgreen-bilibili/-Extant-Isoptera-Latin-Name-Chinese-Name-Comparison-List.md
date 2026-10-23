@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes bottegoanus 博泰戈土白蚁"
+title: "Odontotermes bottegoanus Sjöstedt, 1912 博泰戈土白蚁"
 latin: "Odontotermes bottegoanus"
 zh: "博泰戈土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1912"
+type_locality: "Ethiopia: Badditu"
+distribution_zh: "东非埃塞俄比亚"
+distribution_en: "East Africa, Ethiopia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes sikorae 西科拉锯白蚁"
+title: "Microcerotermes sikorae Wasmann, 1893 西科拉锯白蚁"
 latin: "Microcerotermes sikorae"
 zh: "西科拉锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1893"
+type_locality: "Madagascar: Andrangoloaka"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

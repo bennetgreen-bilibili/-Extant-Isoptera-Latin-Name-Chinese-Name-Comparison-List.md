@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes nilamburensis 尼伦布尔新白蚁"
+title: "Neotermes nilamburensis Thakur, 1978 尼伦布尔新白蚁"
 latin: "Neotermes nilamburensis"
 zh: "尼伦布尔新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Thakur, 1978"
+type_locality: "India: Kerala: Nilambur"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

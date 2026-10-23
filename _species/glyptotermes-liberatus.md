@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes liberatus 自由树白蚁"
+title: "Glyptotermes liberatus Snyder, 1929 自由树白蚁"
 latin: "Glyptotermes liberatus"
 zh: "自由树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1929"
+type_locality: "Jamaica: Cinchona"
+distribution_zh: "加勒比、危地马拉"
+distribution_en: "Caribbean, Guatemala"
+synonym_count: 0
 ---

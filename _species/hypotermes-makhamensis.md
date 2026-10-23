@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes makhamensis 玛堪地白蚁"
+title: "Hypotermes makhamensis Ahmad, 1965 玛堪地白蚁"
 latin: "Hypotermes makhamensis"
 zh: "玛堪地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Makham"
+distribution_zh: "泰国、越南、柬埔寨"
+distribution_en: "Thailand, Vietnam, Cambodia"
+synonym_count: 0
 ---

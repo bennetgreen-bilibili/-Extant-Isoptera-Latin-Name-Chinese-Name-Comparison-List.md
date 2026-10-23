@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes hainanensis 海南散白蚁"
+title: "Reticulitermes hainanensis Tsai & Huang, 1977 海南散白蚁"
 latin: "Reticulitermes hainanensis"
 zh: "海南散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Huang, 1977"
+type_locality: "China: Hainan Island"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

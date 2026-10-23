@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes alticola 高地象白蚁"
+title: "Nasutitermes alticola Holmgren, 1913 高地象白蚁"
 latin: "Nasutitermes alticola"
 zh: "高地象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: ?"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

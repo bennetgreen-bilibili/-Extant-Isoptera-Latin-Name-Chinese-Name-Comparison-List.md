@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ceylonitermes paulosus 保洛斯锡兰白蚁"
+title: "Ceylonitermes paulosus Ipe & Mathew, 2019 保洛斯锡兰白蚁"
 latin: "Ceylonitermes paulosus"
 zh: "保洛斯锡兰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ipe & Mathew, 2019"
+type_locality: "India: Kerala: Kottayam, CMS College Campus"
+distribution_zh: "斯里兰卡、印度"
+distribution_en: "Sri Lanka, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tenuirostritermes cinereus 灰白薄嘴白蚁"
+title: "Tenuirostritermes cinereus Buckley, 1862 灰白薄嘴白蚁"
 latin: "Tenuirostritermes cinereus"
 zh: "灰白薄嘴白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Buckley, 1862"
+type_locality: "United States: Texas: Llano County; Texas: San Saba County"
+distribution_zh: "美国、墨西哥"
+distribution_en: "United States, Mexico"
+synonym_count: 0
 ---

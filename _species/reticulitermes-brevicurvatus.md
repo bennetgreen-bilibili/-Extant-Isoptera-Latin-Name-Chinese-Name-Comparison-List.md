@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes brevicurvatus 短弯颚散白蚁"
+title: "Reticulitermes brevicurvatus Ping & Xu, 1983 短弯颚散白蚁"
 latin: "Reticulitermes brevicurvatus"
 zh: "短弯颚散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1983"
+type_locality: "China: Guizhou Province: Leishan County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

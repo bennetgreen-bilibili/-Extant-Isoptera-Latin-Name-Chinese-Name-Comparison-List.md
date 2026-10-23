@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes latignathus 多毛近扭白蚁"
+title: "Pericapritermes latignathus Holmgren, 1914 多毛近扭白蚁"
 latin: "Pericapritermes latignathus"
 zh: "多毛近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Indonesia: Java: Tjibodas"
+distribution_zh: "印度尼西亚、柬埔寨、越南、孟加拉国、中国、马来西亚、泰国"
+distribution_en: "Indonesia, Cambodia, Vietnam, Bangladesh, China, Malaysia, Thailand"
+synonym_count: 0
 ---

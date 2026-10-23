@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes constrictus 缢颏大白蚁"
+title: "Macrotermes constrictus Ping & Li, 1985 缢颏大白蚁"
 latin: "Macrotermes constrictus"
 zh: "缢颏大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1985"
+type_locality: "China: Sichuan Province: Dechang"
+distribution_zh: "中国四川、德昌"
+distribution_en: "Sichuan, China, Dechang"
+synonym_count: 0
 ---

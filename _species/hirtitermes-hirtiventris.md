@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hirtitermes hirtiventris 毛腹多毛白蚁"
+title: "Hirtitermes hirtiventris Holmgren, 1912 毛腹多毛白蚁"
 latin: "Hirtitermes hirtiventris"
 zh: "毛腹多毛白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

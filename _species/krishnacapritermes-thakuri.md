@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Krishnacapritermes thakuri 塔库尔克里希纳扭白蚁"
+title: "Krishnacapritermes thakuri Chhotani, 1997 塔库尔克里希纳扭白蚁"
 latin: "Krishnacapritermes thakuri"
 zh: "塔库尔克里希纳扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1997"
+type_locality: "India: Kerala: Silent Valley"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 1
+synonyms: "Pericapritermes travancorensis Mathew & Ipe, 2018: 12583"
+synonym_localities: "India: Kerala: Kottayam, CMS College Campus"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes longirostris longirostris 指名亚种"
+title: "Nasutitermes longirostris longirostris Holmgren, 1913 指名亚种"
 latin: "Nasutitermes longirostris longirostris"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes longirostris"
 parent_zh: "长喙象白蚁"
 parent_slug: "nasutitermes-longirostris"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak"
+synonym_count: 0
 ---

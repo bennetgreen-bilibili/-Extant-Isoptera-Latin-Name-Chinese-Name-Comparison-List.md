@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Homallotermes pilosus 多毛平白蚁"
+title: "Homallotermes pilosus Mathur & Thapa, 1962 多毛平白蚁"
 latin: "Homallotermes pilosus"
 zh: "多毛平白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathur & Thapa, 1962"
+type_locality: "India: Tamil Nadu: Madras: Topslip"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

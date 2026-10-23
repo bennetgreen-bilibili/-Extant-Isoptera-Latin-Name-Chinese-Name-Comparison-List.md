@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes raja 拉贾锯白蚁"
+title: "Microcerotermes raja Roonwal & Bose, 1964 拉贾锯白蚁"
 latin: "Microcerotermes raja"
 zh: "拉贾锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Bose, 1964"
+type_locality: "India: Rajasthan, ca. 10 km NE Jodhpur, Balsamand"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

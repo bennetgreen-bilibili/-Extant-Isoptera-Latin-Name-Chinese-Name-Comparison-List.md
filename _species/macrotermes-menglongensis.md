@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes menglongensis 勐龙大白蚁"
+title: "Macrotermes menglongensis Han, 1986 勐龙大白蚁"
 latin: "Macrotermes menglongensis"
 zh: "勐龙大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Han, 1986"
+type_locality: "China: Yunnan Province: Damenglong"
+distribution_zh: "中国云南、大勐龙"
+distribution_en: "Yunnan, China, Damenglong"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes brunneus 深棕乳白蚁"
+title: "Coptotermes brunneus Gay, 1955 深棕乳白蚁"
 latin: "Coptotermes brunneus"
 zh: "深棕乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1955"
+type_locality: "Australia: Western Australia, 51 mi NNW Galena"
+distribution_zh: "澳大利亚西部"
+distribution_en: "western Australia"
+synonym_count: 0
 ---

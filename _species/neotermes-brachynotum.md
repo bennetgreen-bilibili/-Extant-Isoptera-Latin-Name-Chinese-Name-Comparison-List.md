@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes brachynotum 扁胸新白蚁"
+title: "Neotermes brachynotum Xu & Han, 1985 扁胸新白蚁"
 latin: "Neotermes brachynotum"
 zh: "扁胸新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Xu & Han, 1985"
+type_locality: "China: Hainan Island: Ledong"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes hsuchiafui 云南瘤白蚁"
+title: "Mirocapritermes hsuchiafui Yu & Ping, 1966 云南瘤白蚁"
 latin: "Mirocapritermes hsuchiafui"
 zh: "云南瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Yu & Ping, 1966"
+type_locality: "China: Yunnan Province: Ying-chiang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

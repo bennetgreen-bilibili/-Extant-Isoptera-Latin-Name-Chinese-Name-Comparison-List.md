@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anacanthotermes murgabicus 穆尔加布无刺白蚁"
+title: "Anacanthotermes murgabicus Vasiljev, 1911 穆尔加布无刺白蚁"
 latin: "Anacanthotermes murgabicus"
 zh: "穆尔加布无刺白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HODOTERMITIDAE"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
+author_year: "Vasiljev, 1911"
+type_locality: "Turkmenistan: Kreise Merv von Transkaspien: River Murgab near Schleuse Kazyhly-Beut"
+distribution_zh: "土库曼斯坦"
+distribution_en: "Turkmenistan"
+synonym_count: 0
 ---

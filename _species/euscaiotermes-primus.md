@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euscaiotermes primus 第一左转白蚁"
+title: "Euscaiotermes primus Silvestri, 1923 第一左转白蚁"
 latin: "Euscaiotermes primus"
 zh: "第一左转白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1923"
+type_locality: "India: Orissa: Chilka Lake: Barkuda Island"
+distribution_zh: "非洲热带、印度"
+distribution_en: "Afrotropics, India"
+synonym_count: 0
 ---

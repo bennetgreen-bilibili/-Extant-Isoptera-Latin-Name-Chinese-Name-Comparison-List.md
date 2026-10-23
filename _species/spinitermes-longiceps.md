@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Spinitermes longiceps 长头针刺白蚁"
+title: "Spinitermes longiceps Constantino, 1991 长头针刺白蚁"
 latin: "Spinitermes longiceps"
 zh: "长头针刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1991"
+type_locality: "Brasil: Amazonas: Maraã [1.848S 65.523W]"
+distribution_zh: "巴西、哥伦比亚、厄瓜多尔"
+distribution_en: "Brazil, Colombia, Ecuador"
+synonym_count: 0
 ---

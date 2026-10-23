@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes maculifrons 麻额树白蚁"
+title: "Glyptotermes maculifrons Ping & Li, 1983 麻额树白蚁"
 latin: "Glyptotermes maculifrons"
 zh: "麻额树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ping & Li, 1983"
+type_locality: "China: Fujian Province: Huangkeng: Jianyang County"
+distribution_zh: "中国福建"
+distribution_en: "China (Fujian)"
+synonym_count: 0
 ---

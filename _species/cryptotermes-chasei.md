@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes chasei 蔡斯堆砂白蚁"
+title: "Cryptotermes chasei Scheffrahn, 1993 蔡斯堆砂白蚁"
 latin: "Cryptotermes chasei"
 zh: "蔡斯堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn, 1993"
+type_locality: "Dominican Republic: La Altagracia Province: Juanillo"
+distribution_zh: "多米尼加"
+distribution_en: "Dominican Republic"
+synonym_count: 0
 ---

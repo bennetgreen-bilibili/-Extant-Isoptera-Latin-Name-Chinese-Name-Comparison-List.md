@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Prohamitermes hosei minor 小亚种"
+title: "Prohamitermes hosei minor Thapa, 1982 小亚种"
 latin: "Prohamitermes hosei minor"
 zh: "小亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Prohamitermes hosei"
 parent_zh: "霍斯前钩白蚁"
 parent_slug: "prohamitermes-hosei"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Keningau District: Tambunan"
+synonym_count: 0
 ---

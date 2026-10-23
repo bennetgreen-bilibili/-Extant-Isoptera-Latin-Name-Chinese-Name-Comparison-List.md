@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes truncatus 伤残角白蚁"
+title: "Angulitermes truncatus Sjöstedt, 1926 伤残角白蚁"
 latin: "Angulitermes truncatus"
 zh: "伤残角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Ghana: Accra"
+distribution_zh: "塞内加尔、加纳、肯尼亚、尼日利亚、沙特阿拉伯、坦桑尼亚、乌干达、赞比亚"
+distribution_en: "Senegal, Ghana, Kenya, Nigeria, Saudi Arabia, Tanzania, Uganda, Zambia"
+synonym_count: 0
 ---

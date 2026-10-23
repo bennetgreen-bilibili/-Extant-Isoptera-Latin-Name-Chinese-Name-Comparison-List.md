@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes wheeleri 惠勒聚白蚁"
+title: "Syntermes wheeleri Emerson, 1945 惠勒聚白蚁"
 latin: "Syntermes wheeleri"
 zh: "惠勒聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1945"
+type_locality: "Brasil: \"Rio\" (probably Rio de Janeiro) [22.9S 43.23W]"
+distribution_zh: "巴西、巴拉圭"
+distribution_en: "Brazil, Paraguay"
+synonym_count: 0
 ---

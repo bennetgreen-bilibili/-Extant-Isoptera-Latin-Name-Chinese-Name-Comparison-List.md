@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes minutus 小突扭白蚁"
+title: "Dicuspiditermes minutus Akhtar & Riaz, 1992 小突扭白蚁"
 latin: "Dicuspiditermes minutus"
 zh: "小突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Riaz, 1992"
+type_locality: "Malaysia: Johore: Kluang Forest"
+distribution_zh: "文莱、印度尼西亚、马来西亚、新加坡"
+distribution_en: "Brunei, Indonesia, Malaysia, Singapore"
+synonym_count: 0
 ---

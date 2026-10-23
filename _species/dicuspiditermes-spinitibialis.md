@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes spinitibialis 刺胫突扭白蚁"
+title: "Dicuspiditermes spinitibialis Krishna, 2001 刺胫突扭白蚁"
 latin: "Dicuspiditermes spinitibialis"
 zh: "刺胫突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2001"
+type_locality: "Thailand: Tung Sa-Lang Luang"
+distribution_zh: "东亚、中国、泰国"
+distribution_en: "East Asia, China, Thailand"
+synonym_count: 0
 ---

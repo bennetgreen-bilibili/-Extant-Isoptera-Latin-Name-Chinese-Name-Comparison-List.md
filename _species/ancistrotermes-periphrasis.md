@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes periphrasis 迂回钩白蚁"
+title: "Ancistrotermes periphrasis Sjöstedt, 1924 迂回钩白蚁"
 latin: "Ancistrotermes periphrasis"
 zh: "迂回钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Sudan: El Amira-Bir Joghan; Khor El Affin"
+distribution_zh: "刚果民主共和国、埃塞俄比亚、加纳、苏丹"
+distribution_en: "Democratic Republic of the Congo, Ethiopia, Ghana, Sudan"
+synonym_count: 0
 ---

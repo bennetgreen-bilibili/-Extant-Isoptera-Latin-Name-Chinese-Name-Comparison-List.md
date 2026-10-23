@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes comatus 长毛冢白蚁"
+title: "Tumulitermes comatus Hill, 1942 长毛冢白蚁"
 latin: "Tumulitermes comatus"
 zh: "长毛冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Magnetic Island"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

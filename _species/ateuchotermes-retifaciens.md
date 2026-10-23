@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ateuchotermes retifaciens 刚果无锐白蚁"
+title: "Ateuchotermes retifaciens Sands, 1972 刚果无锐白蚁"
 latin: "Ateuchotermes retifaciens"
 zh: "刚果无锐白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Kivu: Irangi"
+distribution_zh: "喀麦隆、刚果民主共和国"
+distribution_en: "Cameroon, Democratic Republic of the Congo"
+synonym_count: 0
 ---

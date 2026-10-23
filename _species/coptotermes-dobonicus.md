@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes dobonicus 多波乳白蚁"
+title: "Coptotermes dobonicus Oshima, 1914 多波乳白蚁"
 latin: "Coptotermes dobonicus"
 zh: "多波乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1914"
+type_locality: "Papua New Guinea: Arue Island: Dobo"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

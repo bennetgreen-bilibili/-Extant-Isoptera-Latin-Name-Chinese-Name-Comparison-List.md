@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes yui 尤氏亮白蚁"
+title: "Euhamitermes yui Ping, 1987 尤氏亮白蚁"
 latin: "Euhamitermes yui"
 zh: "尤氏亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1987"
+type_locality: "China: Hainan Island: Qiongzhong County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

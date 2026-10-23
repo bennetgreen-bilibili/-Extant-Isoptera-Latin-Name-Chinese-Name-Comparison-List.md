@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Invasitermes insitivus 候补闯白蚁"
+title: "Invasitermes insitivus Hill, 1929 候补闯白蚁"
 latin: "Invasitermes insitivus"
 zh: "候补闯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1929"
+type_locality: "Australia: Queensland: Townsville"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudacanthotermes grandiceps 大头伪刺白蚁"
+title: "Pseudacanthotermes grandiceps Sjöstedt, 1915 大头伪刺白蚁"
 latin: "Pseudacanthotermes grandiceps"
 zh: "大头伪刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1915"
+type_locality: "Kenya: Kimusu (Victoria Nyanzu, Golf Kavirondo)"
+distribution_zh: "肯尼亚、坦桑尼亚、乌干达"
+distribution_en: "Kenya, Tanzania, Uganda"
+synonym_count: 0
 ---

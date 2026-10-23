@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Caetetermes fontesi 丰特斯林白蚁"
+title: "Caetetermes fontesi Scheffrahn, 2022 丰特斯林白蚁"
 latin: "Caetetermes fontesi"
 zh: "丰特斯林白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2022"
+type_locality: "French Guiana: Petit Saut [5.07N 53.032W]"
+distribution_zh: "南美洲、法属圭亚那"
+distribution_en: "South America, French Guiana"
+synonym_count: 0
 ---

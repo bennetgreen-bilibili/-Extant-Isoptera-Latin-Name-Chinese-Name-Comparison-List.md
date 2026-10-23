@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Uncitermes almeriae 阿尔梅里弯钩白蚁"
+title: "Uncitermes almeriae Carrijo, 2016 阿尔梅里弯钩白蚁"
 latin: "Uncitermes almeriae"
 zh: "阿尔梅里弯钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Carrijo, 2016"
+type_locality: "Ecuador: Orellana: Yasuni National Park [0.6717S 76.3979W]"
+distribution_zh: "秘鲁、厄瓜多尔"
+distribution_en: "Peru, Ecuador"
+synonym_count: 0
 ---

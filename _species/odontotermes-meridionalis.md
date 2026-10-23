@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes meridionalis 南方土白蚁"
+title: "Odontotermes meridionalis Gao & Yang, 1987 南方土白蚁"
 latin: "Odontotermes meridionalis"
 zh: "南方土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Yang, 1987"
+type_locality: "China: Guangxi autonomous region: Shanglin"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

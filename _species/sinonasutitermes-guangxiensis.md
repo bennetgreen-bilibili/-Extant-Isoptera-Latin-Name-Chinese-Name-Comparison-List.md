@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinonasutitermes guangxiensis 广西华象白蚁"
+title: "Sinonasutitermes guangxiensis Ping & Huang, 1991 广西华象白蚁"
 latin: "Sinonasutitermes guangxiensis"
 zh: "广西华象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Huang, 1991"
+type_locality: "China: Guangxi Province: Liuzhou Shi"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

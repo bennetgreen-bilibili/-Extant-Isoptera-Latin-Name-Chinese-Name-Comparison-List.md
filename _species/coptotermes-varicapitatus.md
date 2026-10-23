@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes varicapitatus 异头乳白蚁"
+title: "Coptotermes varicapitatus Tsai & Li, 1985 异头乳白蚁"
 latin: "Coptotermes varicapitatus"
 zh: "异头乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Li, 1985"
+type_locality: "China: Guangdong Province: Hainan Island"
+distribution_zh: "中国广东"
+distribution_en: "China (Guangdong)"
+synonym_count: 0
 ---

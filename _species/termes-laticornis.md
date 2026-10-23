@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes laticornis 宽角白蚁"
+title: "Termes laticornis Haviland, 1898 宽角白蚁"
 latin: "Termes laticornis"
 zh: "宽角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "印度尼西亚、马来西亚、越南"
+distribution_en: "Indonesia, Malaysia, Vietnam"
+synonym_count: 0
 ---

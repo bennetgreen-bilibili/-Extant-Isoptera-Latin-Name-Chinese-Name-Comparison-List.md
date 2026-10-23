@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes insidians 隐蔽聚白蚁"
+title: "Syntermes insidians Silvestri, 1945 隐蔽聚白蚁"
 latin: "Syntermes insidians"
 zh: "隐蔽聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1945"
+type_locality: "Brasil: São Paulo: Pitangueiras [21.02S 48.22W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

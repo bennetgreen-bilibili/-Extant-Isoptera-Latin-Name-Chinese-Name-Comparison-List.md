@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes problematicus 问题小白蚁"
+title: "Microtermes problematicus Grassé, 1937 问题小白蚁"
 latin: "Microtermes problematicus"
 zh: "问题小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé, 1937"
+type_locality: "Senegal: Rufisque"
+distribution_zh: "塞内加尔"
+distribution_en: "Senegal"
+synonym_count: 0
 ---

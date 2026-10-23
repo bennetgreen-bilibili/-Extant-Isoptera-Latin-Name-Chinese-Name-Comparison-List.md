@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tenuirostritermes tenuirostris 薄嘴薄嘴白蚁"
+title: "Tenuirostritermes tenuirostris Desneux, 1904 薄嘴薄嘴白蚁"
 latin: "Tenuirostritermes tenuirostris"
 zh: "薄嘴薄嘴白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1904"
+type_locality: "Mexico: Jalisco; Veracruz: Orizaba"
+distribution_zh: "美国、墨西哥"
+distribution_en: "United States, Mexico"
+synonym_count: 0
 ---

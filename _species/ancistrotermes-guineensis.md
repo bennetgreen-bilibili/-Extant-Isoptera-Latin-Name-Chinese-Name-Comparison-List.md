@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes guineensis 几内亚钩白蚁"
+title: "Ancistrotermes guineensis Silvestri, 1912 几内亚钩白蚁"
 latin: "Ancistrotermes guineensis"
 zh: "几内亚钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Guinea Bissau: Bolama: Rio Cassine"
+distribution_zh: "西非、科特迪瓦、贝宁、冈比亚、塞内加尔、喀麦隆、加纳、几内亚、几内亚比绍、尼日利亚"
+distribution_en: "West Africa, Côte d'Ivoire, Benin, Gambia, Senegal, Cameroon, Ghana, Guinea, Guinea-Bissau, Nigeria"
+synonym_count: 0
 ---

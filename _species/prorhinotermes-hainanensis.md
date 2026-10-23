@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Prorhinotermes hainanensis 海南原鼻白蚁"
+title: "Prorhinotermes hainanensis Ping & Xu, 1989 海南原鼻白蚁"
 latin: "Prorhinotermes hainanensis"
 zh: "海南原鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "PSAMMOTERMITIDAE"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Xu, 1989"
+type_locality: "China: Hainan Island: Ya"
+distribution_zh: "中国、海南"
+distribution_en: "China, Hainan"
+synonym_count: 0
 ---

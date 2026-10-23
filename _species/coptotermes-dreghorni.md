@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes dreghorni 雷德霍恩乳白蚁"
+title: "Coptotermes dreghorni Hill, 1942 雷德霍恩乳白蚁"
 latin: "Coptotermes dreghorni"
 zh: "雷德霍恩乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Timber Reserve # 263, near Ravenshoe"
+distribution_zh: "澳大利亚昆士兰"
+distribution_en: "Queensland, Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lophotermes pectinatus 梳状小脊突白蚁"
+title: "Lophotermes pectinatus Miller, 1991 梳状小脊突白蚁"
 latin: "Lophotermes pectinatus"
 zh: "梳状小脊突白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Queensland: Weipa"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

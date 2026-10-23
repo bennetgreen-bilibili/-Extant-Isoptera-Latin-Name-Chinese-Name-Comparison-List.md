@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes congoensis congoensis 指名亚种"
+title: "Microtermes congoensis congoensis Sjöstedt, 1911 指名亚种"
 latin: "Microtermes congoensis congoensis"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microtermes congoensis"
 parent_zh: "刚果小白蚁"
 parent_slug: "microtermes-congoensis"
+author_year: "Sjöstedt, 1911"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+synonym_count: 0
 ---

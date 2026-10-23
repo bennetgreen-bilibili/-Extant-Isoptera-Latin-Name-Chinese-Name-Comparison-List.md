@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes verrucosus 疣多树白蚁"
+title: "Glyptotermes verrucosus Hagen, 1858 疣多树白蚁"
 latin: "Glyptotermes verrucosus"
 zh: "疣多树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hagen, 1858"
+type_locality: "(country unknown): ?"
+distribution_zh: "哥斯达黎加"
+distribution_en: "Costa Rica"
+synonym_count: 0
 ---

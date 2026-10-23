@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Protermes mwekerae 穆维盖拉前白蚁"
+title: "Protermes mwekerae Ruelle, 1971 穆维盖拉前白蚁"
 latin: "Protermes mwekerae"
 zh: "穆维盖拉前白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ruelle, 1971"
+type_locality: "Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve"
+distribution_zh: "安哥拉、赞比亚"
+distribution_en: "Angola, Zambia"
+synonym_count: 0
 ---

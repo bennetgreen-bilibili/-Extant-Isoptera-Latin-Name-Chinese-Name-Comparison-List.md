@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Postelectrotermes tongyaii 同艾后琥珀白蚁"
+title: "Postelectrotermes tongyaii Ahmad, 1965 同艾后琥珀白蚁"
 latin: "Postelectrotermes tongyaii"
 zh: "同艾后琥珀白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

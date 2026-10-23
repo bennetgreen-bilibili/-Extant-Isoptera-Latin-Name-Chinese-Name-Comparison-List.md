@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes grandis 大新白蚁"
+title: "Neotermes grandis Light, 1930 大新白蚁"
 latin: "Neotermes grandis"
 zh: "大新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Light, 1930"
+type_locality: "Philippines: Luzon: Laguna Province: Mount Maquiling"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

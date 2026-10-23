@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Polyspathotermes sulcifrons 沟额多铲白蚁"
+title: "Polyspathotermes sulcifrons Wasmann, 1911 沟额多铲白蚁"
 latin: "Polyspathotermes sulcifrons"
 zh: "沟额多铲白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1911"
+type_locality: "Cameroon: Lolodorf"
+distribution_zh: "喀麦隆、刚果民主共和国、尼日利亚、坦桑尼亚"
+distribution_en: "Cameroon, Democratic Republic of the Congo, Nigeria, Tanzania"
+synonym_count: 0
 ---

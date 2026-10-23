@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes anjiensis 安吉象白蚁"
+title: "Nasutitermes anjiensis Gao & Guo, 1995 安吉象白蚁"
 latin: "Nasutitermes anjiensis"
 zh: "安吉象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Guo, 1995"
+type_locality: "China: Zhejiang Province: Anji County: Mt. Longwang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

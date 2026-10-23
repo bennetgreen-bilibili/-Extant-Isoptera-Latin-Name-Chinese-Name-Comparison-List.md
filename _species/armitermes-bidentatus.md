@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Armitermes bidentatus 双齿戟白蚁"
+title: "Armitermes bidentatus Rocha & Cancello, 2012 双齿戟白蚁"
 latin: "Armitermes bidentatus"
 zh: "双齿戟白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2012"
+type_locality: "Brasil: Goiás: Cristianópolis [17.1992S 48.7058W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

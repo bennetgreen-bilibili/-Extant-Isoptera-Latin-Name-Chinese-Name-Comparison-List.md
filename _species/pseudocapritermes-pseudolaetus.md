@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes pseudolaetus 隆额伪扭白蚁"
+title: "Pseudocapritermes pseudolaetus Tsai & Chen, 1963 隆额伪扭白蚁"
 latin: "Pseudocapritermes pseudolaetus"
 zh: "隆额伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Yunnan Province: ChinPing"
+distribution_zh: "云南（金平猛喇390 m）、中国"
+distribution_en: "Yunnan (Jinping Mengla390 m), China"
+synonym_count: 0
 ---

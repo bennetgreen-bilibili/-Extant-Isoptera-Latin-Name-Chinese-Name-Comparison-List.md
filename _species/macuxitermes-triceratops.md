@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macuxitermes triceratops 三角马库希白蚁"
+title: "Macuxitermes triceratops Cancello & Bandeira, 1992 三角马库希白蚁"
 latin: "Macuxitermes triceratops"
 zh: "三角马库希白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello & Bandeira, 1992"
+type_locality: "Brasil: Roraima: Ilha de Maracá [3.4N 61.65W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

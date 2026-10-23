@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eremotermes neoparadoxalis 新奇异漠白蚁"
+title: "Eremotermes neoparadoxalis Ahmad, 1955 新奇异漠白蚁"
 latin: "Eremotermes neoparadoxalis"
 zh: "新奇异漠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1955"
+type_locality: "Pakistan: Sind: Shahdadpur"
+distribution_zh: "印度、巴基斯坦"
+distribution_en: "India, Pakistan"
+synonym_count: 0
 ---

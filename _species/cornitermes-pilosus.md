@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes pilosus 多毛角象白蚁"
+title: "Cornitermes pilosus Holmgren, 1906 多毛角象白蚁"
 latin: "Cornitermes pilosus"
 zh: "多毛角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+distribution_zh: "巴西、秘鲁、哥伦比亚、玻利维亚"
+distribution_en: "Brazil, Peru, Colombia, Bolivia"
+synonym_count: 0
 ---

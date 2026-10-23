@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes ovatus 卵形角象白蚁"
+title: "Cornitermes ovatus Emerson, 1952 卵形角象白蚁"
 latin: "Cornitermes ovatus"
 zh: "卵形角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1952"
+type_locality: "Brasil: Amazonas: Cururuzinho, rio Autaz [3.58S 59.125W]"
+distribution_zh: "巴西、哥伦比亚"
+distribution_en: "Brazil, Colombia"
+synonym_count: 0
 ---

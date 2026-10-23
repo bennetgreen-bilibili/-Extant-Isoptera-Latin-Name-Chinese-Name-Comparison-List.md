@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes retusus 凹唇亮白蚁"
+title: "Euhamitermes retusus Ping & Xu, 1987 凹唇亮白蚁"
 latin: "Euhamitermes retusus"
 zh: "凹唇亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1987"
+type_locality: "China: Yunnan Province: Menglian County"
+distribution_zh: "东洋界"
+distribution_en: "Oriental region"
+synonym_count: 0
 ---

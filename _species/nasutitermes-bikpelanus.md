@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes bikpelanus 鼻大象白蚁"
+title: "Nasutitermes bikpelanus Roisin & Pasteels, 1996 鼻大象白蚁"
 latin: "Nasutitermes bikpelanus"
 zh: "鼻大象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Madang Province: Nubia-Bunapas Road"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Constrictotermes cacaoensis 可可缩白蚁"
+title: "Constrictotermes cacaoensis Ensaf, Nel & Betsch, 2002 可可缩白蚁"
 latin: "Constrictotermes cacaoensis"
 zh: "可可缩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ensaf, Nel & Betsch, 2002"
+type_locality: "French Guiana: Montagne Guadelope [4.539N 52.44W]"
+distribution_zh: "法属圭亚那"
+distribution_en: "French Guiana"
+synonym_count: 0
 ---

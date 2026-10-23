@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes punjabensis 旁遮普角白蚁"
+title: "Angulitermes punjabensis Akhtar, 1974 旁遮普角白蚁"
 latin: "Angulitermes punjabensis"
 zh: "旁遮普角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: Punjab: Choa Saiden Shah"
+distribution_zh: "巴基斯坦"
+distribution_en: "Pakistan"
+synonym_count: 0
 ---

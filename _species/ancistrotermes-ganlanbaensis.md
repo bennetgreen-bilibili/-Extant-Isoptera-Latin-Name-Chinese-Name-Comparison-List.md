@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes ganlanbaensis 橄榄坝钩白蚁"
+title: "Ancistrotermes ganlanbaensis Zhu & Huang, 1991 橄榄坝钩白蚁"
 latin: "Ancistrotermes ganlanbaensis"
 zh: "橄榄坝钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Huang, 1991"
+type_locality: "China: Yunnan Province: Jinghong County: Ganlanba"
+distribution_zh: "云南（景洪500m）"
+distribution_en: "Yunnan (Jinghong 500m)"
+synonym_count: 0
 ---

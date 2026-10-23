@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes thailandis 泰国堆砂白蚁"
+title: "Cryptotermes thailandis Ahmad, 1965 泰国堆砂白蚁"
 latin: "Cryptotermes thailandis"
 zh: "泰国堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Klang Dong"
+distribution_zh: "泰国、马来西亚"
+distribution_en: "Thailand, Malaysia"
+synonym_count: 0
 ---

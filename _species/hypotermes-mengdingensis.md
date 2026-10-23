@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes mengdingensis 孟定地白蚁"
+title: "Hypotermes mengdingensis Zhu & Huang, 1990 孟定地白蚁"
 latin: "Hypotermes mengdingensis"
 zh: "孟定地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Huang, 1990"
+type_locality: "China: Yunnan Province: Genma County: Mengding"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

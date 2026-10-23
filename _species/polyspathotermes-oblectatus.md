@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Polyspathotermes oblectatus 愉悦多铲白蚁"
+title: "Polyspathotermes oblectatus Harris, 1958 愉悦多铲白蚁"
 latin: "Polyspathotermes oblectatus"
 zh: "愉悦多铲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1958"
+type_locality: "Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga"
+distribution_zh: "刚果民主共和国、马拉维、坦桑尼亚、赞比亚"
+distribution_en: "Democratic Republic of the Congo, Malawi, Tanzania, Zambia"
+synonym_count: 0
 ---

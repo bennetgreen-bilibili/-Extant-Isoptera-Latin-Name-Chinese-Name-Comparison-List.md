@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes giriensis 吉里土白蚁"
+title: "Odontotermes giriensis Roonwal & Chhotani, 1962 吉里土白蚁"
 latin: "Odontotermes giriensis"
 zh: "吉里土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Assam: Garo Hills District: Rongrengiri"
+distribution_zh: "南亚、东亚中国、印度、孟加拉国、不丹"
+distribution_en: "South Asia, East Asia, China, India, Bangladesh, Bhutan"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes minor 小型象白蚁"
+title: "Nasutitermes minor Holmgren, 1906 小型象白蚁"
 latin: "Nasutitermes minor"
 zh: "小型象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Bolivia: La Paz: Río Tuichi [14.28S 68.54W]"
+distribution_zh: "玻利维亚、巴西"
+distribution_en: "Bolivia, Brazil"
+synonym_count: 0
 ---

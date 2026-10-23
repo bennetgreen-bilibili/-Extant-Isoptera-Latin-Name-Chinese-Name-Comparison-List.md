@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornicapritermes mucronatus 尖锐角扭白蚁"
+title: "Cornicapritermes mucronatus Emerson, 1950 尖锐角扭白蚁"
 latin: "Cornicapritermes mucronatus"
 zh: "尖锐角扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1950"
+type_locality: "Guyana: Cuyuni-Mazaruni: Penal Settlement [6.4N 58.658W]"
+distribution_zh: "巴西、法属圭亚那、哥伦比亚"
+distribution_en: "Brazil, French Guiana, Colombia"
+synonym_count: 0
 ---

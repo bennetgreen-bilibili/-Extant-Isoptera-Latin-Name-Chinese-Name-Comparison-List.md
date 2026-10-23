@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes paraoblongatus 似矩形土白蚁"
+title: "Odontotermes paraoblongatus Ahmad, 1965 似矩形土白蚁"
 latin: "Odontotermes paraoblongatus"
 zh: "似矩形土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Muaek Lek"
+distribution_zh: "东南亚马来西亚、泰国"
+distribution_en: "Southeast Asia, Malaysia, Thailand"
+synonym_count: 0
 ---

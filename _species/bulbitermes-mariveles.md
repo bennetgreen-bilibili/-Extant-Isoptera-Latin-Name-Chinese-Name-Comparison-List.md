@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes mariveles 马里维勒瓢白蚁"
+title: "Bulbitermes mariveles Light & Wilson, 1936 马里维勒瓢白蚁"
 latin: "Bulbitermes mariveles"
 zh: "马里维勒瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Luzon: Mt. Mariveles"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

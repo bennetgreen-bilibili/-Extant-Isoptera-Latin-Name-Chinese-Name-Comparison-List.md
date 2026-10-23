@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahamitermes hillii 希尔无钩白蚁"
+title: "Ahamitermes hillii Nicholls, 1929 希尔无钩白蚁"
 latin: "Ahamitermes hillii"
 zh: "希尔无钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Nicholls, 1929"
+type_locality: "Australia: Western Australia, 13 km W Kalgoorlie"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

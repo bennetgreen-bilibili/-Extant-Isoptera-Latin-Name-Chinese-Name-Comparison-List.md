@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Constrictotermes cyphergaster 弯肠缩白蚁"
+title: "Constrictotermes cyphergaster Silvestri, 1901 弯肠缩白蚁"
 latin: "Constrictotermes cyphergaster"
 zh: "弯肠缩白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso do Sul: Ladário, Urucum [19.155S 57.631W]; Mato Grosso: Cuiabá, Coxipó (district) [15.627S 56.058W]"
+distribution_zh: "巴西、巴拉圭、阿根廷、玻利维亚"
+distribution_en: "Brazil, Paraguay, Argentina, Bolivia"
+synonym_count: 0
 ---

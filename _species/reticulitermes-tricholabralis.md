@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes tricholabralis 毛唇散白蚁"
+title: "Reticulitermes tricholabralis Ping & Li, 1992 毛唇散白蚁"
 latin: "Reticulitermes tricholabralis"
 zh: "毛唇散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1992"
+type_locality: "China: Hubei Province: Aimen Guan: Macheng"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

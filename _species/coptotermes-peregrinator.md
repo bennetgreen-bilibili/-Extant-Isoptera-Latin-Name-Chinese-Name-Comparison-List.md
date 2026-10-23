@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes peregrinator 陌生乳白蚁"
+title: "Coptotermes peregrinator Kemner, 1934 陌生乳白蚁"
 latin: "Coptotermes peregrinator"
 zh: "陌生乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Saleier Islands: Pamatata"
+distribution_zh: "印尼苏拉威西"
+distribution_en: "Indonesia (Sulawesi)"
+synonym_count: 0
 ---

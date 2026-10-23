@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Isognathotermes severus 严肃等颚白蚁"
+title: "Isognathotermes severus Silvestri, 1914 严肃等颚白蚁"
 latin: "Isognathotermes severus"
 zh: "严肃等颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Kakoulima"
+distribution_zh: "西非科特迪瓦、喀麦隆、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹、坦桑尼亚"
+distribution_en: "West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania"
+synonym_count: 0
 ---

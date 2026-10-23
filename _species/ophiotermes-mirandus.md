@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ophiotermes mirandus 惊奇蛇白蚁"
+title: "Ophiotermes mirandus Sjöstedt, 1905 惊奇蛇白蚁"
 latin: "Ophiotermes mirandus"
 zh: "惊奇蛇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1905"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "安哥拉、刚果民主共和国、几内亚"
+distribution_en: "Angola, Democratic Republic of the Congo, Guinea"
+synonym_count: 0
 ---

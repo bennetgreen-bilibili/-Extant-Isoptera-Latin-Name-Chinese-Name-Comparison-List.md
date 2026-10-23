@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudacanthotermes harrisensis 哈里斯伪刺白蚁"
+title: "Pseudacanthotermes harrisensis Weidner, 1962 哈里斯伪刺白蚁"
 latin: "Pseudacanthotermes harrisensis"
 zh: "哈里斯伪刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1962"
+type_locality: "Sudan: Tozi Research Farm"
+distribution_zh: "苏丹"
+distribution_en: "Sudan"
+synonym_count: 0
 ---

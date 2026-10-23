@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes magnoculus 大眼聚白蚁"
+title: "Syntermes magnoculus Snyder, 1924 大眼聚白蚁"
 latin: "Syntermes magnoculus"
 zh: "大眼聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1924"
+type_locality: "Brasil: Mato Grosso: Chapada dos Guimarães [15.4606S 55.7497W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

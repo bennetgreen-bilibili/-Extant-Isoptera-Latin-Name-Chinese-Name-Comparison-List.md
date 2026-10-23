@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Acholotermes imbellis 和平顺白蚁"
+title: "Acholotermes imbellis Sands, 1972 和平顺白蚁"
 latin: "Acholotermes imbellis"
 zh: "和平顺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 0
 ---

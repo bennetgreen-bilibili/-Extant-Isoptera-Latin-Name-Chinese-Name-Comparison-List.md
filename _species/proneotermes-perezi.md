@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Proneotermes perezi 佩雷斯前新白蚁"
+title: "Proneotermes perezi Holmgren, 1911 佩雷斯前新白蚁"
 latin: "Proneotermes perezi"
 zh: "佩雷斯前新白蚁"
 type: true
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Costa Rica: San José"
+distribution_zh: "哥斯达黎加、危地马拉、洪都拉斯、巴拿马"
+distribution_en: "Costa Rica, Guatemala, Honduras, Panama"
+synonym_count: 0
 ---

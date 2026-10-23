@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Foraminitermes valens 强健孔白蚁"
+title: "Foraminitermes valens Silvestri, 1914 强健孔白蚁"
 latin: "Foraminitermes valens"
 zh: "强健孔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Foraminitermitinae"
 subfamily_id: "foraminitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Mamou"
+distribution_zh: "中非、喀麦隆、几内亚、科特迪瓦、尼日利亚、坦桑尼亚"
+distribution_en: "Central Africa, Cameroon, Guinea, Côte d'Ivoire, Nigeria, Tanzania"
+synonym_count: 0
 ---

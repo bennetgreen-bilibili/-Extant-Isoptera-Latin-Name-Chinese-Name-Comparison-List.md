@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Labidotermes celisi 塞利斯钳白蚁"
+title: "Labidotermes celisi Deligne & Pasteels, 1969 塞利斯钳白蚁"
 latin: "Labidotermes celisi"
 zh: "塞利斯钳白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Deligne & Pasteels, 1969"
+type_locality: "Democratic Republic of the Congo: Butembo"
+distribution_zh: "中非、喀麦隆"
+distribution_en: "Central African Republic, Cameroon"
+synonym_count: 0
 ---

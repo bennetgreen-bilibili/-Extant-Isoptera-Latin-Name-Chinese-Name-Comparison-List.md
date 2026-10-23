@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes kairoonae 凯罗娜小白蚁"
+title: "Microtermes kairoonae Bacchus, 1997 凯罗娜小白蚁"
 latin: "Microtermes kairoonae"
 zh: "凯罗娜小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bacchus, 1997"
+type_locality: "Kenya: Kisumu, Chulaimbo"
+distribution_zh: "肯尼亚"
+distribution_en: "Kenya"
+synonym_count: 0
 ---

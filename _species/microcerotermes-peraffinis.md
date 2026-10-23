@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes peraffinis 近缘锯白蚁"
+title: "Microcerotermes peraffinis Silvestri, 1909 近缘锯白蚁"
 latin: "Microcerotermes peraffinis"
 zh: "近缘锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1909"
+type_locality: "Samoa: Ninafoon"
+distribution_zh: "大洋洲、汤加、萨摩亚"
+distribution_en: "Oceania, Tonga, Samoa"
+synonym_count: 0
 ---

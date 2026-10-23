@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes invasor 入侵镰白蚁"
+title: "Drepanotermes invasor Watson & Perry, 1981 入侵镰白蚁"
 latin: "Drepanotermes invasor"
 zh: "入侵镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Northern Territory: 4 mi (6 km) NW of Katherine"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes pratensis 草地华扭白蚁"
+title: "Sinocapritermes pratensis Ping & Xu, 1993 草地华扭白蚁"
 latin: "Sinocapritermes pratensis"
 zh: "草地华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1993"
+type_locality: "China: Guangdong Province: Shixing County: Xianrendong of Chebaling"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

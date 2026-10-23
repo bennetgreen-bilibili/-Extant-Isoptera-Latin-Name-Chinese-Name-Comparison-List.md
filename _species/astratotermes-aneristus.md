@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astratotermes aneristus 赞比亚无刃白蚁"
+title: "Astratotermes aneristus Sands, 1972 赞比亚无刃白蚁"
 latin: "Astratotermes aneristus"
 zh: "赞比亚无刃白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Zambia: Kitwe"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 0
 ---

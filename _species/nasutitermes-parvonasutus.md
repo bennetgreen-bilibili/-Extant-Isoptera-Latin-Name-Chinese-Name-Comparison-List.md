@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes parvonasutus 小象白蚁"
+title: "Nasutitermes parvonasutus Nawa, 1911 小象白蚁"
 latin: "Nasutitermes parvonasutus"
 zh: "小象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Nawa, 1911"
+type_locality: "Taiwan: ?"
+distribution_zh: "中国台湾"
+distribution_en: "China (Taiwan)"
+synonym_count: 1
+synonyms: "Eutermes (Eutermes) watasei Holmgren, 1912: 134-136"
+synonym_localities: "Taiwan: ?"
 ---

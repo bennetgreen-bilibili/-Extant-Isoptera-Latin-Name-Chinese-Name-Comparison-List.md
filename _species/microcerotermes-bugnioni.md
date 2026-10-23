@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes bugnioni 布格尼恩锯白蚁"
+title: "Microcerotermes bugnioni Holmgren, 1911 布格尼恩锯白蚁"
 latin: "Microcerotermes bugnioni"
 zh: "布格尼恩锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Sri Lanka: Seenigoda Estate, near Ambalangoda"
+distribution_zh: "南亚、斯里兰卡"
+distribution_en: "South Asia, Sri Lanka"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes planiusculus 平扁近扭白蚁"
+title: "Pericapritermes planiusculus Ping & Xu, 1988 平扁近扭白蚁"
 latin: "Pericapritermes planiusculus"
 zh: "平扁近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1988"
+type_locality: "China: Guizhou Province: Congjiang Xiang"
+distribution_zh: "贵州（从江）。"
+distribution_en: "Guizhou (Congjiang)."
+synonym_count: 0
 ---

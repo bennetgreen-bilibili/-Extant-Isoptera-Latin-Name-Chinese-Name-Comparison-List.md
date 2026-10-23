@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bifiditermes jeannelanus 让内尔双裂白蚁"
+title: "Bifiditermes jeannelanus Sjöstedt, 1915 让内尔双裂白蚁"
 latin: "Bifiditermes jeannelanus"
 zh: "让内尔双裂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Sjöstedt, 1915"
+type_locality: "Tanzania: Kilimanjaro: Neu-Moschi"
+distribution_zh: "非洲"
+distribution_en: "Africa"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes leptogulus 细颏散白蚁"
+title: "Reticulitermes leptogulus Ping & Xu, 1981 细颏散白蚁"
 latin: "Reticulitermes leptogulus"
 zh: "细颏散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1981"
+type_locality: "China: Fujian Province: Huanggang Shan, Chong’ an Xian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

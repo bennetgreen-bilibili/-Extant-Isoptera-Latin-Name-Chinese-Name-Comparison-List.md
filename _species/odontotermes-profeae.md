@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes profeae 前菲氏土白蚁"
+title: "Odontotermes profeae Akhtar, 1975 前菲氏土白蚁"
 latin: "Odontotermes profeae"
 zh: "前菲氏土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Singra"
+distribution_zh: "南亚印度、巴基斯坦、孟加拉国"
+distribution_en: "South Asia (India, Pakistan, Bangladesh)"
+synonym_count: 0
 ---

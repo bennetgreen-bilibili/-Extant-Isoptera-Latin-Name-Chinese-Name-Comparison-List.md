@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes pluvialis 招雨象白蚁"
+title: "Nasutitermes pluvialis Mjöberg, 1920 招雨象白蚁"
 latin: "Nasutitermes pluvialis"
 zh: "招雨象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Blackall (as Blackal) Range, Mt. Tambourine, Herbertone, Malanda, Ravenshoe (as Cedar Creek)"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes parallelus 平行土白蚁"
+title: "Odontotermes parallelus Li, 1986 平行土白蚁"
 latin: "Odontotermes parallelus"
 zh: "平行土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1986"
+type_locality: "China: Guangdong Province: Huiyang County"
+distribution_zh: "广东（大埔）、海南（五指山）、中国"
+distribution_en: "Guangdong (Dabu), Hainan (Wuzhi Mountain), China"
+synonym_count: 0
 ---

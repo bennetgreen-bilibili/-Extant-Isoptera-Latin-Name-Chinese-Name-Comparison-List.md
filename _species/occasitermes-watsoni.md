@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Occasitermes watsoni 沃森西部白蚁"
+title: "Occasitermes watsoni Gay, 1974 沃森西部白蚁"
 latin: "Occasitermes watsoni"
 zh: "沃森西部白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1974"
+type_locality: "Australia: New South Wales: 12 km W by N Temora"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Indotermes hainanensis 海南印白蚁"
+title: "Indotermes hainanensis He & Xia, 1981 海南印白蚁"
 latin: "Indotermes hainanensis"
 zh: "海南印白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Xia, 1981"
+type_locality: "China: Guangdong Province: Hainan Island"
+distribution_zh: "中国、海南"
+distribution_en: "China, Hainan"
+synonym_count: 0
 ---

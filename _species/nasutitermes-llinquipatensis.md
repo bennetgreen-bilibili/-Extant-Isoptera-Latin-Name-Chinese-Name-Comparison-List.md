@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes llinquipatensis 林奎帕塔象白蚁"
+title: "Nasutitermes llinquipatensis Holmgren, 1906 林奎帕塔象白蚁"
 latin: "Nasutitermes llinquipatensis"
 zh: "林奎帕塔象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Peru: Puno: Llinquipata [13.8167S 70.6333W]"
+distribution_zh: "巴西、厄瓜多尔、秘鲁"
+distribution_en: "Brazil, Ecuador, Peru"
+synonym_count: 0
 ---

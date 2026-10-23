@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes fumipennis 烟翅乳白蚁"
+title: "Coptotermes fumipennis Walker, 1853 烟翅乳白蚁"
 latin: "Coptotermes fumipennis"
 zh: "烟翅乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Walker, 1853"
+type_locality: "(country unknown): ?"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

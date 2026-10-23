@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eremotermes senegalensis 塞内加尔漠白蚁"
+title: "Eremotermes senegalensis Mampouya, Fleck & Nel, 1997 塞内加尔漠白蚁"
 latin: "Eremotermes senegalensis"
 zh: "塞内加尔漠白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mampouya, Fleck & Nel, 1997"
+type_locality: "Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar"
+distribution_zh: "塞内加尔"
+distribution_en: "Senegal"
+synonym_count: 0
 ---

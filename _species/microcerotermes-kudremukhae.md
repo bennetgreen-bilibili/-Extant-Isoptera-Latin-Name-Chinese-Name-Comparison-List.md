@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes kudremukhae 库德雷穆克锯白蚁"
+title: "Microcerotermes kudremukhae Chhotani, 1997 库德雷穆克锯白蚁"
 latin: "Microcerotermes kudremukhae"
 zh: "库德雷穆克锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1997"
+type_locality: "India: Karnataka: 11 km from Kudremukh: Koppa Division, Kalasa Forest Range"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

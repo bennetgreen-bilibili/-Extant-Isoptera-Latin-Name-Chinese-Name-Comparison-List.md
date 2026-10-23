@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes crassicornis 粗角堆砂白蚁"
+title: "Cryptotermes crassicornis Holmgren, 1911 粗角堆砂白蚁"
 latin: "Cryptotermes crassicornis"
 zh: "粗角堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "South Africa: Natal: Durban"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes zavattarii 扎瓦塔里三方白蚁"
+title: "Ternicubitermes zavattarii Ghidini, 1937 扎瓦塔里三方白蚁"
 latin: "Ternicubitermes zavattarii"
 zh: "扎瓦塔里三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1937"
+type_locality: "Ethiopia: Galla-Borana: Neghelli"
+distribution_zh: "埃塞俄比亚、肯尼亚、坦桑尼亚"
+distribution_en: "Ethiopia, Kenya, Tanzania"
+synonym_count: 0
 ---

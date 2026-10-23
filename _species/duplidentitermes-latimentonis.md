@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Duplidentitermes latimentonis 宽颏双齿白蚁"
+title: "Duplidentitermes latimentonis Emerson, 1959 宽颏双齿白蚁"
 latin: "Duplidentitermes latimentonis"
 zh: "宽颏双齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1959"
+type_locality: "Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

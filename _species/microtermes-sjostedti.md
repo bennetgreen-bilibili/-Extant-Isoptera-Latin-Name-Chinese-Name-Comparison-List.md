@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes sjostedti 舍斯泰特小白蚁"
+title: "Microtermes sjostedti Emerson, 1928 舍斯泰特小白蚁"
 latin: "Microtermes sjostedti"
 zh: "舍斯泰特小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes monodon lujanus 卢扬亚种"
+title: "Odontotermes monodon lujanus Wasmann, 1902 卢扬亚种"
 latin: "Odontotermes monodon lujanus"
 zh: "卢扬亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes monodon"
 parent_zh: "单齿土白蚁"
 parent_slug: "odontotermes-monodon"
+author_year: "Wasmann, 1902"
+type_locality: "Mozambique: Morumballe"
+synonym_count: 0
 ---

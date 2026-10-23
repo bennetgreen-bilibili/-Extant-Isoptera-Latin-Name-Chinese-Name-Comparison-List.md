@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes tuberculatus 具瘤树白蚁"
+title: "Glyptotermes tuberculatus Froggatt, 1897 具瘤树白蚁"
 latin: "Glyptotermes tuberculatus"
 zh: "具瘤树白蚁"
 type: true
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Froggatt, 1897"
+type_locality: "Australia: New South Wales: Uralla"
+distribution_zh: "澳大利亚、新西兰"
+distribution_en: "Australia, New Zealand"
+synonym_count: 0
 ---

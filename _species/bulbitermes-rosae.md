@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes rosae 罗莎瓢白蚁"
+title: "Bulbitermes rosae Kemner, 1934 罗莎瓢白蚁"
 latin: "Bulbitermes rosae"
 zh: "罗莎瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Tjidaho; Java: Tjitjourouk; Java: near Bogor on Berge Salak"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

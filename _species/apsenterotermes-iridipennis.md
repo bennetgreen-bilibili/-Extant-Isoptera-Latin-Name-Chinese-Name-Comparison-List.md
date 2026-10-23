@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apsenterotermes iridipennis 虹翅后肠白蚁"
+title: "Apsenterotermes iridipennis Gay, 1956 虹翅后肠白蚁"
 latin: "Apsenterotermes iridipennis"
 zh: "虹翅后肠白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1956"
+type_locality: "Australia: Western Australia: 5 mi NW Norseman"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

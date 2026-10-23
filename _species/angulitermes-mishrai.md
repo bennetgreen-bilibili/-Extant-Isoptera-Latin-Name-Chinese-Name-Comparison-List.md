@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes mishrai 米什拉角白蚁"
+title: "Angulitermes mishrai Sen-Sarma & Thakur, 1975 米什拉角白蚁"
 latin: "Angulitermes mishrai"
 zh: "米什拉角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sen-Sarma & Thakur, 1975"
+type_locality: "India: Tripura: Ambasa, Zoelchara"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

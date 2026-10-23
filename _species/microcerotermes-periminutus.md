@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes periminutus 微锯白蚁"
+title: "Microcerotermes periminutus Ping & Xu, 1984 微锯白蚁"
 latin: "Microcerotermes periminutus"
 zh: "微锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1984"
+type_locality: "China: Hainan Island: Qiongzhong County"
+distribution_zh: "海南（琼中）"
+distribution_en: "Hainan (Qiongzhong)"
+synonym_count: 0
 ---

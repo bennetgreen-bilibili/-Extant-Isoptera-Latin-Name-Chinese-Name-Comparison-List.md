@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes insperatus 未料小白蚁"
+title: "Microtermes insperatus Kemner, 1934 未料小白蚁"
 latin: "Microtermes insperatus"
 zh: "未料小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Bogor; Java: Depok; Java: Jember; Java: Palimanan; Java: Tjimanggu"
+distribution_zh: "东南亚、印度尼西亚"
+distribution_en: "Southeast Asia, Indonesia"
+synonym_count: 0
 ---

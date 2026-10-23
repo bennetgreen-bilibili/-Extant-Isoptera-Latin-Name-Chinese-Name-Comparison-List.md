@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes malmesburyi 马姆斯伯里锯白蚁"
+title: "Microcerotermes malmesburyi Fuller, 1925 马姆斯伯里锯白蚁"
 latin: "Microcerotermes malmesburyi"
 zh: "马姆斯伯里锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Cape Province: Malmesbury"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

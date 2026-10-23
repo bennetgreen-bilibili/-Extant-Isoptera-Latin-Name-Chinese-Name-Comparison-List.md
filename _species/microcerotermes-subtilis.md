@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes subtilis 瘦长锯白蚁"
+title: "Microcerotermes subtilis Wasmann, 1897 瘦长锯白蚁"
 latin: "Microcerotermes subtilis"
 zh: "瘦长锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1897"
+type_locality: "Madagascar: Majunga; Seychelles: Aldabra Island"
+distribution_zh: "马达加斯加、留尼汪、科摩罗、欧罗巴岛（法国）、格洛里厄斯群岛（法国）、塞舌尔、坦桑尼亚"
+distribution_en: "Madagascar, Réunion, Comoros, Europa Island (France), Glorioso Islands (France), Seychelles, Tanzania"
+synonym_count: 0
 ---

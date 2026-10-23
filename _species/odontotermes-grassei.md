@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes grassei 格拉塞土白蚁"
+title: "Odontotermes grassei Snyder & Emerson, 1949 格拉塞土白蚁"
 latin: "Odontotermes grassei"
 zh: "格拉塞土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder & Emerson, 1949"
+type_locality: "Ivory Coast: ?"
+distribution_zh: "科特迪瓦"
+distribution_en: "Côte d'Ivoire"
+synonym_count: 0
 ---

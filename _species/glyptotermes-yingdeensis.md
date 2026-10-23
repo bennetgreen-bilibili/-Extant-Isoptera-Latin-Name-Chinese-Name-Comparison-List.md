@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes yingdeensis 英德树白蚁"
+title: "Glyptotermes yingdeensis Li, 1987 英德树白蚁"
 latin: "Glyptotermes yingdeensis"
 zh: "英德树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Li, 1987"
+type_locality: "China: Guangdong Province: Yingde"
+distribution_zh: "中国广东"
+distribution_en: "China (Guangdong)"
+synonym_count: 0
 ---

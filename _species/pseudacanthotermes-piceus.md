@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudacanthotermes piceus 柏油伪刺白蚁"
+title: "Pseudacanthotermes piceus Sjöstedt, 1911 柏油伪刺白蚁"
 latin: "Pseudacanthotermes piceus"
 zh: "柏油伪刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1911"
+type_locality: "Zimbabwe: Harare (Salisbury)"
+distribution_zh: "乌干达、津巴布韦"
+distribution_en: "Uganda, Zimbabwe"
+synonym_count: 0
 ---

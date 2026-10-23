@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes socotrensis 索科特拉弓白蚁"
+title: "Amitermes socotrensis Harris, 1954 索科特拉弓白蚁"
 latin: "Amitermes socotrensis"
 zh: "索科特拉弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1954"
+type_locality: "Yemen: Socotra: Homil: Khor Garieh"
+distribution_zh: "中东/阿拉伯半岛"
+distribution_en: "Middle East / Arabian Peninsula"
+synonym_count: 0
 ---

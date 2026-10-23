@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Furculitermes soyeri 索耶叉白蚁"
+title: "Furculitermes soyeri Emerson, 1960 索耶叉白蚁"
 latin: "Furculitermes soyeri"
 zh: "索耶叉白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Lubumbashi"
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

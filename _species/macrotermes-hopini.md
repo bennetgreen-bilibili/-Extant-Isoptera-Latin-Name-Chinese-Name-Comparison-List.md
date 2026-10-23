@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes hopini 和平大白蚁"
+title: "Macrotermes hopini Roonwal & Sen-Sarma, 1956 和平大白蚁"
 latin: "Macrotermes hopini"
 zh: "和平大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1956"
+type_locality: "Myanmar: Myitkyina District: Hopin"
+distribution_zh: "缅甸、印度东北部"
+distribution_en: "Myanmar, northeastern India"
+synonym_count: 0
 ---

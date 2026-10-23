@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes bidentatus 双齿长鼻白蚁"
+title: "Schedorhinotermes bidentatus Oshima, 1920 双齿长鼻白蚁"
 latin: "Schedorhinotermes bidentatus"
 zh: "双齿长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Oshima, 1920"
+type_locality: "Philippines: Panay: Antique Province: Culasi"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

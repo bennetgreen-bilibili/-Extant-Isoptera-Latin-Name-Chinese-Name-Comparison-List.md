@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes maopingensis 毛坪散白蚁"
+title: "Reticulitermes maopingensis Zhu, Huang & Wang, 1993 毛坪散白蚁"
 latin: "Reticulitermes maopingensis"
 zh: "毛坪散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu, Huang & Wang, 1993"
+type_locality: "China: Guizhou Province: Maoping"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

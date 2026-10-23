@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes longignathus 长颚土白蚁"
+title: "Odontotermes longignathus Holmgren, 1914 长颚土白蚁"
 latin: "Odontotermes longignathus"
 zh: "长颚土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Malaysia: Taiping: Trong"
+distribution_zh: "南亚、东南亚、新热带界中南美洲印度、孟加拉国、马来西亚、泰国"
+distribution_en: "South Asia, Southeast Asia, Neotropics, Central and South America, India, Bangladesh, Malaysia, Thailand"
+synonym_count: 0
 ---

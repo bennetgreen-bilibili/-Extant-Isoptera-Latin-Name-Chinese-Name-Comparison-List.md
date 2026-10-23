@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes lacustris 湖泊土白蚁"
+title: "Odontotermes lacustris Harris, 1960 湖泊土白蚁"
 latin: "Odontotermes lacustris"
 zh: "湖泊土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1960"
+type_locality: "Zambia: Abercorn"
+distribution_zh: "旧热带界东非、非洲南部、马拉维、赞比亚"
+distribution_en: "Old World tropics, East Africa, southern Africa, Malawi, Zambia"
+synonym_count: 0
 ---

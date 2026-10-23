@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes ancyleus 钩颚散白蚁"
+title: "Reticulitermes ancyleus Ping, 1986 钩颚散白蚁"
 latin: "Reticulitermes ancyleus"
 zh: "钩颚散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1986"
+type_locality: "China: Guangxi Province: Wuming County: Damingshan"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

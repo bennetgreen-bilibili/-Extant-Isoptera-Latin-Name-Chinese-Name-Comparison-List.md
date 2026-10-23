@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes urgens urgens 指名亚种"
+title: "Pericapritermes urgens urgens Silvestri, 1914 指名亚种"
 latin: "Pericapritermes urgens urgens"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Pericapritermes urgens"
 parent_zh: "催促近扭白蚁"
 parent_slug: "pericapritermes-urgens"
+author_year: "Silvestri, 1914"
+type_locality: "Cameroon: Victoria; Ghana: ?; Guinea: Mamou"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Muelleritermes fritzi 弗里茨米勒白蚁米勒白蚁"
+title: "Muelleritermes fritzi Cancello, Oliveira & Rocha, 2015 弗里茨米勒白蚁米勒白蚁"
 latin: "Muelleritermes fritzi"
 zh: "弗里茨米勒白蚁米勒白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello, Oliveira & Rocha, 2015"
+type_locality: "Brasil: São Paulo: Salesópolis, Estação Biológica de Boraceia [23.63S 45.86W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

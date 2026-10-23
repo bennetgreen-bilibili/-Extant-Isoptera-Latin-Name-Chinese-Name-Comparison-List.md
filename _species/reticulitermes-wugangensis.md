@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes wugangensis 武冈散白蚁"
+title: "Reticulitermes wugangensis Huang & Yin, 1983 武冈散白蚁"
 latin: "Reticulitermes wugangensis"
 zh: "武冈散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Yin, 1983"
+type_locality: "China: Hunan: Wugang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

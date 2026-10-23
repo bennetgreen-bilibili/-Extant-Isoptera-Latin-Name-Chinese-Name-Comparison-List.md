@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes oculatus 眼显象白蚁"
+title: "Nasutitermes oculatus Holmgren, 1911 眼显象白蚁"
 latin: "Nasutitermes oculatus"
 zh: "眼显象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Sri Lanka: Peradeniya"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 1
+synonyms: "Eutermes longicornis Holmgren, 1913: 283"
+synonym_localities: "Sri Lanka: Peradeniya"
 ---

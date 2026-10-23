@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tonsuritermes tucki 塔克奇囟白蚁"
+title: "Tonsuritermes tucki Constantini & Cancello, 2018 塔克奇囟白蚁"
 latin: "Tonsuritermes tucki"
 zh: "塔克奇囟白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantini & Cancello, 2018"
+type_locality: "Brasil: Santa Catarina: Campos Novos [ 27.4S 51.22W ]"
+distribution_zh: "南美洲、巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁"
+distribution_en: "South America, Brazil, Colombia, French Guiana, Paraguay, Peru"
+synonym_count: 0
 ---

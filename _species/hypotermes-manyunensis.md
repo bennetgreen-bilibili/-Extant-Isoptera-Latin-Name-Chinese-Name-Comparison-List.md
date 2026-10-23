@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes manyunensis 曼允地白蚁"
+title: "Hypotermes manyunensis Zhu & Huang, 1990 曼允地白蚁"
 latin: "Hypotermes manyunensis"
 zh: "曼允地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Huang, 1990"
+type_locality: "China: Yunnan Province: Yingjiang County: Manyun"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

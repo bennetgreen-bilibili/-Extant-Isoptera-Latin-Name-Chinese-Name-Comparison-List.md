@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes reticulatus 网状长鼻白蚁"
+title: "Schedorhinotermes reticulatus Froggatt, 1897 网状长鼻白蚁"
 latin: "Schedorhinotermes reticulatus"
 zh: "网状长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Froggatt, 1897"
+type_locality: "Australia: Western Australia: Kalgoorlie"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

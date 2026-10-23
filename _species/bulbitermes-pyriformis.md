@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes pyriformis 梨形瓢白蚁"
+title: "Bulbitermes pyriformis Akhtar, 1975 梨形瓢白蚁"
 latin: "Bulbitermes pyriformis"
 zh: "梨形瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Adampur"
+distribution_zh: "孟加拉国"
+distribution_en: "Bangladesh"
+synonym_count: 0
 ---

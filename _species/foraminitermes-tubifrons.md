@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Foraminitermes tubifrons 瘤额孔白蚁"
+title: "Foraminitermes tubifrons Holmgren, 1912 瘤额孔白蚁"
 latin: "Foraminitermes tubifrons"
 zh: "瘤额孔白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Foraminitermitinae"
 subfamily_id: "foraminitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "Cameroon: Lolodorf"
+distribution_zh: "喀麦隆、几内亚、科特迪瓦、尼日利亚"
+distribution_en: "Cameroon, Guinea, Côte d'Ivoire, Nigeria"
+synonym_count: 0
 ---

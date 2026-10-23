@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes myersi 迈尔斯象白蚁"
+title: "Nasutitermes myersi Snyder, 1933 迈尔斯象白蚁"
 latin: "Nasutitermes myersi"
 zh: "迈尔斯象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1933"
+type_locality: "Brasil: Roraima: Uraricoera [3.469N 60.9962W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

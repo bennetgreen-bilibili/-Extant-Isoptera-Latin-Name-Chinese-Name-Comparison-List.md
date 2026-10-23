@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes jalpaigurensis 杰尔拜古里象白蚁"
+title: "Nasutitermes jalpaigurensis Prashad & Sen-Sarma, 1959 杰尔拜古里象白蚁"
 latin: "Nasutitermes jalpaigurensis"
 zh: "杰尔拜古里象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Prashad & Sen-Sarma, 1959"
+type_locality: "India: West Bengal: Teesta Forest Division: Jalpaiguri"
+distribution_zh: "孟加拉国、印度"
+distribution_en: "Bangladesh, India"
+synonym_count: 0
 ---

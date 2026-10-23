@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tenuirostritermes incisus 切割薄嘴白蚁"
+title: "Tenuirostritermes incisus Snyder, 1922 切割薄嘴白蚁"
 latin: "Tenuirostritermes incisus"
 zh: "切割薄嘴白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1922"
+type_locality: "Honduras: San Pedro"
+distribution_zh: "墨西哥、危地马拉、洪都拉斯、尼加拉瓜"
+distribution_en: "Mexico, Guatemala, Honduras, Nicaragua"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes chomaensis 乔马小白蚁"
+title: "Microtermes chomaensis Bacchus, 1997 乔马小白蚁"
 latin: "Microtermes chomaensis"
 zh: "乔马小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bacchus, 1997"
+type_locality: "Zambia: Choma"
+distribution_zh: "赞比亚"
+distribution_en: "Zambia"
+synonym_count: 0
 ---

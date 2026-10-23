@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes montanus 高山土白蚁"
+title: "Odontotermes montanus Harris, 1960 高山土白蚁"
 latin: "Odontotermes montanus"
 zh: "高山土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1960"
+type_locality: "Kenya: on the Kikuyu Escarpment, Nairobi-Naivasha road"
+distribution_zh: "东非肯尼亚、埃塞俄比亚"
+distribution_en: "East Africa, Kenya, Ethiopia"
+synonym_count: 0
 ---

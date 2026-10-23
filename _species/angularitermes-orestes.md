@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angularitermes orestes 俄瑞斯忒斯棱角白蚁"
+title: "Angularitermes orestes Araujo, 1970 俄瑞斯忒斯棱角白蚁"
 latin: "Angularitermes orestes"
 zh: "俄瑞斯忒斯棱角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Araujo, 1970"
+type_locality: "Brasil: Minas Gerais: Serra do Curral [19.9667S 43.9167W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

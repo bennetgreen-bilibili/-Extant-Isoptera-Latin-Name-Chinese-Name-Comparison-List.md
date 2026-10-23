@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes batavus 荷兰怒白蚁"
+title: "Lacessititermes batavus Kemner, 1934 荷兰怒白蚁"
 latin: "Lacessititermes batavus"
 zh: "荷兰怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: between Bogor and Batavia: Depok; Salak (Tjidaho); Tjigouha (Soekabomi)"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Foraminitermes coatoni 科顿孔白蚁"
+title: "Foraminitermes coatoni Krishna, 1963 科顿孔白蚁"
 latin: "Foraminitermes coatoni"
 zh: "科顿孔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Foraminitermitinae"
 subfamily_id: "foraminitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1963"
+type_locality: "Democratic Republic of the Congo: Kinshasa (Leopoldville): Kalina Woods"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

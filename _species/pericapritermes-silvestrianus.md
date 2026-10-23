@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes silvestrianus 西尔韦斯特里近扭白蚁"
+title: "Pericapritermes silvestrianus Emerson, 1928 西尔韦斯特里近扭白蚁"
 latin: "Pericapritermes silvestrianus"
 zh: "西尔韦斯特里近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Liberia: Cape Mesurado"
+distribution_zh: "科特迪瓦、利比里亚"
+distribution_en: "Côte d'Ivoire, Liberia"
+synonym_count: 0
 ---

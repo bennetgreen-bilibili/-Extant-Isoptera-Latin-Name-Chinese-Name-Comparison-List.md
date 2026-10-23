@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes longinasoides 似鼻长象白蚁"
+title: "Nasutitermes longinasoides Thapa, 1982 似鼻长象白蚁"
 latin: "Nasutitermes longinasoides"
 zh: "似鼻长象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Lamag District: Balat"
+distribution_zh: "新加坡、印度尼西亚、马来西亚"
+distribution_en: "Singapore, Indonesia, Malaysia"
+synonym_count: 0
 ---

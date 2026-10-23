@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes major 大型象白蚁"
+title: "Nasutitermes major Holmgren, 1906 大型象白蚁"
 latin: "Nasutitermes major"
 zh: "大型象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+distribution_zh: "巴西、秘鲁、哥伦比亚、玻利维亚"
+distribution_en: "Brazil, Peru, Colombia, Bolivia"
+synonym_count: 0
 ---

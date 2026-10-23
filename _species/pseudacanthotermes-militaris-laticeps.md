@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudacanthotermes militaris laticeps 宽头亚种"
+title: "Pseudacanthotermes militaris laticeps Sjöstedt, 1905 宽头亚种"
 latin: "Pseudacanthotermes militaris laticeps"
 zh: "宽头亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Pseudacanthotermes militaris"
 parent_zh: "好斗伪刺白蚁"
 parent_slug: "pseudacanthotermes-militaris"
+author_year: "Sjöstedt, 1905"
+type_locality: "Sierra Leone: ?"
+synonym_count: 0
 ---

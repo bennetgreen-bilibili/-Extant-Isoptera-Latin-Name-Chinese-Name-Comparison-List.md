@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes hirtellus 粗毛新白蚁"
+title: "Neotermes hirtellus Silvestri, 1901 粗毛新白蚁"
 latin: "Neotermes hirtellus"
 zh: "粗毛新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso: Cuiabá [ 15.5961S 56.0967W ]"
+distribution_zh: "南美洲、巴西、阿根廷"
+distribution_en: "South America, Brazil, Argentina"
+synonym_count: 0
 ---

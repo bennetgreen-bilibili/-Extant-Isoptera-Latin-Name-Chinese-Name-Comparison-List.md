@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes proatripennis 似黑翅象白蚁"
+title: "Nasutitermes proatripennis Ahmad, 1965 似黑翅象白蚁"
 latin: "Nasutitermes proatripennis"
 zh: "似黑翅象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "马来西亚、泰国"
+distribution_en: "Malaysia, Thailand"
+synonym_count: 0
 ---

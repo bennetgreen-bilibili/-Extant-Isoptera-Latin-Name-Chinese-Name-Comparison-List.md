@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes bosei 鲍斯新白蚁"
+title: "Neotermes bosei Snyder, 1933 鲍斯新白蚁"
 latin: "Neotermes bosei"
 zh: "鲍斯新白蚁"
 type: false
@@ -13,4 +13,11 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1933"
+type_locality: "India: Uttarakhand: Dehra Dun: Mathranwala"
+distribution_zh: "印度、不丹"
+distribution_en: "India, Bhutan"
+synonym_count: 1
+synonyms: "Kalotermes ( Neotermes ) gardneri Snyder, 1933: 3-4"
+synonym_localities: "India: Uttarakhand: Dehra Dun"
 ---

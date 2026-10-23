@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes dasyopsis 毛脸象白蚁"
+title: "Nasutitermes dasyopsis Thorne, 1989 毛脸象白蚁"
 latin: "Nasutitermes dasyopsis"
 zh: "毛脸象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thorne, 1989"
+type_locality: "Panama: Cuayabo Grande"
+distribution_zh: "巴拿马"
+distribution_en: "Panama"
+synonym_count: 0
 ---

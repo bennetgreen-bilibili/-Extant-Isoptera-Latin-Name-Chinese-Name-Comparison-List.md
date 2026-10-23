@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes hospitalis hospitaloides 似寄宿亚种"
+title: "Hospitalitermes hospitalis hospitaloides Holmgren, 1913 似寄宿亚种"
 latin: "Hospitalitermes hospitalis hospitaloides"
 zh: "似寄宿亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Hospitalitermes hospitalis"
 parent_zh: "寄宿须白蚁"
 parent_slug: "hospitalitermes-hospitalis"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak: Miri Hills"
+synonym_count: 0
 ---

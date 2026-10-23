@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes fuscotibialis 灰胫近扭白蚁"
+title: "Pericapritermes fuscotibialis Light, 1931 灰胫近扭白蚁"
 latin: "Pericapritermes fuscotibialis"
 zh: "灰胫近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1931"
+type_locality: "China: Hong Kong"
+distribution_zh: "香港。"
+distribution_en: "Hong Kong."
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procryptotermes australiensis 澳大利亚前砂白蚁"
+title: "Procryptotermes australiensis Gay, 1976 澳大利亚前砂白蚁"
 latin: "Procryptotermes australiensis"
 zh: "澳大利亚前砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Gay, 1976"
+type_locality: "Australia: Queensland: 15 km SW Bowen"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

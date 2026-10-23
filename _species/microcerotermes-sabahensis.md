@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes sabahensis 沙巴锯白蚁"
+title: "Microcerotermes sabahensis Thapa, 1982 沙巴锯白蚁"
 latin: "Microcerotermes sabahensis"
 zh: "沙巴锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Sandakan North District: Sibuga Forest Reserve, Kebun China"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

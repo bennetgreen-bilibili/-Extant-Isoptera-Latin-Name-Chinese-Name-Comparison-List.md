@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes kali 卡尔象白蚁"
+title: "Nasutitermes kali Roonwal & Chhotani, 1962 卡尔象白蚁"
 latin: "Nasutitermes kali"
 zh: "卡尔象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Meghalaya (Assam): Khasi-Jaintia Hills District: Umsa Nongkharai"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

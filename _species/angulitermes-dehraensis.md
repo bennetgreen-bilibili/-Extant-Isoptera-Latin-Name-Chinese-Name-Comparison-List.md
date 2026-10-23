@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes dehraensis 德拉敦角白蚁"
+title: "Angulitermes dehraensis Gardner, 1945 德拉敦角白蚁"
 latin: "Angulitermes dehraensis"
 zh: "德拉敦角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gardner, 1945"
+type_locality: "India: Uttarakhand: Dehra Dun"
+distribution_zh: "巴基斯坦、阿富汗、印度"
+distribution_en: "Pakistan, Afghanistan, India"
+synonym_count: 0
 ---

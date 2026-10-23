@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes angustatus 狭窄尖白蚁"
+title: "Apicotermes angustatus Sjöstedt, 1924 狭窄尖白蚁"
 latin: "Apicotermes angustatus"
 zh: "狭窄尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Democratic Republic of the Congo: Kasai: Kondué"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

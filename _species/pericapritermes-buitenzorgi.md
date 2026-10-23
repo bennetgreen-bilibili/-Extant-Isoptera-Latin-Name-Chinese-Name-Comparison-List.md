@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes buitenzorgi 比特恩佐格近扭白蚁"
+title: "Pericapritermes buitenzorgi Holmgren, 1914 比特恩佐格近扭白蚁"
 latin: "Pericapritermes buitenzorgi"
 zh: "比特恩佐格近扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Indonesia: Java: Tjibodas; Sumatra: Tandjong Slamat"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 1
+synonyms: "Capritermes ( Capritermes ) approximatus Holmgren, 1914: 283"
+synonym_localities: "Indonesia: Java: Bogor"
 ---

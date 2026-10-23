@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes chaiglomi 蔡格洛姆大白蚁"
+title: "Macrotermes chaiglomi Ahmad, 1965 蔡格洛姆大白蚁"
 latin: "Macrotermes chaiglomi"
 zh: "蔡格洛姆大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Bangkok, Bang Khen"
+distribution_zh: "东南亚、东亚、中国、泰国"
+distribution_en: "Southeast Asia, East Asia, China, Thailand"
+synonym_count: 0
 ---

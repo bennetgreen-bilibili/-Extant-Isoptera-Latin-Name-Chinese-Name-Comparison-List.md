@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Noditermes wasambaricus 瓦森巴拉节白蚁"
+title: "Noditermes wasambaricus Williams, 1954 瓦森巴拉节白蚁"
 latin: "Noditermes wasambaricus"
 zh: "瓦森巴拉节白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Williams, 1954"
+type_locality: "Tanzania: Amani: Panusi"
+distribution_zh: "肯尼亚、坦桑尼亚"
+distribution_en: "Kenya, Tanzania"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neocapritermes talpoides 似鼹鼠新扭白蚁"
+title: "Neocapritermes talpoides Krishna & Araujo, 1968 似鼹鼠新扭白蚁"
 latin: "Neocapritermes talpoides"
 zh: "似鼹鼠新扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna & Araujo, 1968"
+type_locality: "Ecuador: Morona-Santiago: Rio Zamora [ 3.51333S 78.5219W ]"
+distribution_zh: "哥伦比亚、巴西、玻利维亚、厄瓜多尔、委内瑞拉"
+distribution_en: "Colombia, Brazil, Bolivia, Ecuador, Venezuela"
+synonym_count: 0
 ---

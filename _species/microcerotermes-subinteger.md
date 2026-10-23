@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes subinteger 稍全锯白蚁"
+title: "Microcerotermes subinteger Cachan, 1949 稍全锯白蚁"
 latin: "Microcerotermes subinteger"
 zh: "稍全锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cachan, 1949"
+type_locality: "Madagascar: Behara Nosy-Mamoko; Beloha; Betroka; Isalo"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes centraliensis 中部象白蚁"
+title: "Nasutitermes centraliensis Hill, 1925 中部象白蚁"
 latin: "Nasutitermes centraliensis"
 zh: "中部象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1925"
+type_locality: "Australia: Northern Territory, probably near Alice Springs"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

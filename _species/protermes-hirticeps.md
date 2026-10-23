@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Protermes hirticeps 毛头前白蚁"
+title: "Protermes hirticeps Sjöstedt, 1924 毛头前白蚁"
 latin: "Protermes hirticeps"
 zh: "毛头前白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "东非、乌干达、刚果、刚果民主共和国、尼日利亚"
+distribution_en: "East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria"
+synonym_count: 0
 ---

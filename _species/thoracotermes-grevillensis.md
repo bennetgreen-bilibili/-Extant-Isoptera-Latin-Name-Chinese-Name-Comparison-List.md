@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Thoracotermes grevillensis 格瑞维勒胸白蚁"
+title: "Thoracotermes grevillensis Weidner, 1974 格瑞维勒胸白蚁"
 latin: "Thoracotermes grevillensis"
 zh: "格瑞维勒胸白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1974"
+type_locality: "Angola: Muquitixe"
+distribution_zh: "安哥拉"
+distribution_en: "Angola"
+synonym_count: 0
 ---

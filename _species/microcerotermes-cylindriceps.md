@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes cylindriceps 筒头锯白蚁"
+title: "Microcerotermes cylindriceps Wasmann, 1902 筒头锯白蚁"
 latin: "Microcerotermes cylindriceps"
 zh: "筒头锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1902"
+type_locality: "Sri Lanka: Pankulam"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

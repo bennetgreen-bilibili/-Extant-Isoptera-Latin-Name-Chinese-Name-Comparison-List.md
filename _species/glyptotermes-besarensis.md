@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes besarensis 贝萨树白蚁"
+title: "Glyptotermes besarensis Thakur, 1989 贝萨树白蚁"
 latin: "Glyptotermes besarensis"
 zh: "贝萨树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Thakur, 1989"
+type_locality: "Indonesia: Krakatau Islands: Rekata Besar"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

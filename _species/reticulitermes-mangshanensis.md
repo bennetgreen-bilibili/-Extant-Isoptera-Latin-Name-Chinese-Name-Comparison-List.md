@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes mangshanensis 莽山散白蚁"
+title: "Reticulitermes mangshanensis Li & Ping, 1983 莽山散白蚁"
 latin: "Reticulitermes mangshanensis"
 zh: "莽山散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1983"
+type_locality: "China: Hunan Province: Mang Mt. of Yizhang County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

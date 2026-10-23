@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parrhinotermes queenslandicus 昆士兰棒鼻白蚁"
+title: "Parrhinotermes queenslandicus Mjöberg, 1920 昆士兰棒鼻白蚁"
 latin: "Parrhinotermes queenslandicus"
 zh: "昆士兰棒鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Malanda"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Acidnotermes praus 短肠虚白蚁"
+title: "Acidnotermes praus Sands, 1972 短肠虚白蚁"
 latin: "Acidnotermes praus"
 zh: "短肠虚白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 0
 ---

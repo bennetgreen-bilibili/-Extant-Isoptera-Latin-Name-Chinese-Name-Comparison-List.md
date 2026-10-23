@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes thailandicus 泰国怒白蚁"
+title: "Lacessititermes thailandicus Sen-Sarma, 1966 泰国怒白蚁"
 latin: "Lacessititermes thailandicus"
 zh: "泰国怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sen-Sarma, 1966"
+type_locality: "Thailand: Chanthaburi"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

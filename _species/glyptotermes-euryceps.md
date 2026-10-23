@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes euryceps 宽头树白蚁"
+title: "Glyptotermes euryceps Gao, Zhu & Gong, 1981 宽头树白蚁"
 latin: "Glyptotermes euryceps"
 zh: "宽头树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Gao, Zhu & Gong, 1981"
+type_locality: "China: Sichuan Province: Chengdu"
+distribution_zh: "中国四川"
+distribution_en: "China (Sichuan)"
+synonym_count: 0
 ---

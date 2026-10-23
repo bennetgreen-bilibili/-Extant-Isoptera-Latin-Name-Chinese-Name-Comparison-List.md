@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anenteotermes cherubimi 小天使无甲白蚁"
+title: "Anenteotermes cherubimi Scheffrahn, 2018 小天使无甲白蚁"
 latin: "Anenteotermes cherubimi"
 zh: "小天使无甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2018"
+type_locality: "Cameroon: Korup National Park"
+distribution_zh: "刚果共和国、喀麦隆"
+distribution_en: "Republic of the Congo, Cameroon"
+synonym_count: 0
 ---

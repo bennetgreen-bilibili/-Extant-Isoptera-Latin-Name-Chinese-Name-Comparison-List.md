@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes orthognathus 直颚直颚白蚁"
+title: "Orthognathotermes orthognathus Silvestri, 1903 直颚直颚白蚁"
 latin: "Orthognathotermes orthognathus"
 zh: "直颚直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1903"
+type_locality: "Brasil: Mato Grosso: Cuiabá [ 15.5961S 56.0967W ]; Rio Grande do Sul: São Leopoldo [ 29.7603S 51.1472W ]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) [ 25.3667S 54.6833W ]"
+distribution_zh: "巴西、巴拉圭"
+distribution_en: "Brazil, Paraguay"
+synonym_count: 0
 ---

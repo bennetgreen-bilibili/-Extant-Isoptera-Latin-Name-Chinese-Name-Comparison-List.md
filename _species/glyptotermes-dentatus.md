@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes dentatus 具齿树白蚁"
+title: "Glyptotermes dentatus Haviland, 1898 具齿树白蚁"
 latin: "Glyptotermes dentatus"
 zh: "具齿树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

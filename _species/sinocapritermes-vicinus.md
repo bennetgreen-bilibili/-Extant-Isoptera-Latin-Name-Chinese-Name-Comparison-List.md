@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes vicinus 川华扭白蚁"
+title: "Sinocapritermes vicinus Xia, Gao, Pan & Tang, 1983 川华扭白蚁"
 latin: "Sinocapritermes vicinus"
 zh: "川华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia, Gao, Pan & Tang, 1983"
+type_locality: "China: Sichuan Province: Yibin"
+distribution_zh: "中国、四川、重庆"
+distribution_en: "China, Sichuan, Chongqing"
+synonym_count: 0
 ---

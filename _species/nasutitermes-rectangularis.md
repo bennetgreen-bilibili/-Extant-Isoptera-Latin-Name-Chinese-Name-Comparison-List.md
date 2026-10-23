@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes rectangularis 直角象白蚁"
+title: "Nasutitermes rectangularis Thapa, 1982 直角象白蚁"
 latin: "Nasutitermes rectangularis"
 zh: "直角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Beaufort District: Beaufort"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

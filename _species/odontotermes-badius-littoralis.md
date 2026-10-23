@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes badius littoralis 海滨亚种"
+title: "Odontotermes badius littoralis Fuller, 1922 海滨亚种"
 latin: "Odontotermes badius littoralis"
 zh: "海滨亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes badius"
 parent_zh: "栗色土白蚁"
 parent_slug: "odontotermes-badius"
+author_year: "Fuller, 1922"
+type_locality: "South Africa: Natal: Durban"
+synonym_count: 0
 ---

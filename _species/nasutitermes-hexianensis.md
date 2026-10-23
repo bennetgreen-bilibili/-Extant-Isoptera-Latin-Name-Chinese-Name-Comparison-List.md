@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes hexianensis 和县象白蚁"
+title: "Nasutitermes hexianensis Krishna, 2013 和县象白蚁"
 latin: "Nasutitermes hexianensis"
 zh: "和县象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2013"
+type_locality: "China: Guangxi Province: Huashuichong Forest: Hexian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

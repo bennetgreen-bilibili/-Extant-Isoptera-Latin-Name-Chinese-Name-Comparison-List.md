@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes semarangi 三宝近扭白蚁"
+title: "Pericapritermes semarangi Holmgren, 1913 三宝近扭白蚁"
 latin: "Pericapritermes semarangi"
 zh: "三宝近扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Java: Semarang"
+distribution_zh: "印度、印度尼西亚、孟加拉国、文莱、中国、马来西亚、缅甸、泰国"
+distribution_en: "India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand"
+synonym_count: 2
+synonyms: "Capritermes javanicus Holmgren, 1913: 255-256; Capritermes sumatrensis John, 1925: 215-216"
+synonym_localities: "Indonesia: Java: Semarang; Indonesia: Sumatra: Kota Bahru"
 ---

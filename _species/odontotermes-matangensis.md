@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes matangensis 马登土白蚁"
+title: "Odontotermes matangensis Manzoor & Akhtar, 2005 马登土白蚁"
 latin: "Odontotermes matangensis"
 zh: "马登土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Manzoor & Akhtar, 2005"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

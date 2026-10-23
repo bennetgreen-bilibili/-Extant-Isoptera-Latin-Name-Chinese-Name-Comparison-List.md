@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes arboricola 树栖原方白蚁"
+title: "Procubitermes arboricola Sjöstedt, 1897 树栖原方白蚁"
 latin: "Procubitermes arboricola"
 zh: "树栖原方白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1897"
+type_locality: "Cameroon: Bonge"
+distribution_zh: "中非、喀麦隆、刚果、刚果民主共和国、尼日利亚"
+distribution_en: "Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Nigeria"
+synonym_count: 0
 ---

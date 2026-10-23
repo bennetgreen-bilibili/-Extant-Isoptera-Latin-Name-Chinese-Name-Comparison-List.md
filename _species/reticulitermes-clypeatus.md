@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes clypeatus 大唇散白蚁"
+title: "Reticulitermes clypeatus Lash, 1952 大唇散白蚁"
 latin: "Reticulitermes clypeatus"
 zh: "大唇散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Lash, 1952"
+type_locality: "Israel: Jerusalem"
+distribution_zh: "中东、以色列、土耳其、罗马尼亚"
+distribution_en: "Middle East, Israel, Turkey, Romania"
+synonym_count: 0
 ---

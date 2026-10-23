@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes brachyceps 短头长鼻白蚁"
+title: "Schedorhinotermes brachyceps Kemner, 1931 短头长鼻白蚁"
 latin: "Schedorhinotermes brachyceps"
 zh: "短头长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Kemner, 1931"
+type_locality: "Indonesia: Maluku: Ambon"
+distribution_zh: "印尼"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

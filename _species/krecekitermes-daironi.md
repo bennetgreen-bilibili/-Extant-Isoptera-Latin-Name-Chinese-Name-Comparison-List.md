@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Krecekitermes daironi 戴龙克雷切克白蚁"
+title: "Krecekitermes daironi Scheffrahn, Carrijo & Castro, 2023 戴龙克雷切克白蚁"
 latin: "Krecekitermes daironi"
 zh: "戴龙克雷切克白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, Carrijo & Castro, 2023"
+type_locality: "Brasil: Rondonia: Porto Velho, Mutum-Paraná [ 9.4513S 64.8439W ]"
+distribution_zh: "南美洲、哥伦比亚、法属圭亚那"
+distribution_en: "South America, Colombia, French Guiana"
+synonym_count: 0
 ---

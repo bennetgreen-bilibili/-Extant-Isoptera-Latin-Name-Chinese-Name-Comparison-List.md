@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes parviceps 小头象白蚁"
+title: "Nasutitermes parviceps Ping & Xu, 1993 小头象白蚁"
 latin: "Nasutitermes parviceps"
 zh: "小头象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1993"
+type_locality: "China: Guangdong Province: Shixing County: Danzhukeng of Chebaling"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

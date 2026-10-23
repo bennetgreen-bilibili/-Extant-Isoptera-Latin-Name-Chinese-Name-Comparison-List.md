@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kalotermes cognatus 共生木白蚁"
+title: "Kalotermes cognatus Gay, 1976 共生木白蚁"
 latin: "Kalotermes cognatus"
 zh: "共生木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Gay, 1976"
+type_locality: "New Zealand: Kermadec Islands: Raoul Island"
+distribution_zh: "新西兰、澳大利亚"
+distribution_en: "New Zealand, Australia"
+synonym_count: 0
 ---

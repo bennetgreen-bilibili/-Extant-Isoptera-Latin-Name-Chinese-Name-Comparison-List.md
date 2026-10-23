@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes parvidens 微齿土白蚁"
+title: "Odontotermes parvidens Holmgren & Holmgren, 1917 微齿土白蚁"
 latin: "Odontotermes parvidens"
 zh: "微齿土白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "Bangladesh: Noakhali District: Chaumahani; India: Assam: Gauhati: Kamakhya Hill, Gauhati Town; Karnataka: on road from Mysore to Mercara; Punjab: Gurdaspur District: Dhar"
+distribution_zh: "南亚印度、巴基斯坦、孟加拉国、不丹、缅甸"
+distribution_en: "South Asia, India, Pakistan, Bangladesh, Bhutan, Myanmar"
+synonym_count: 1
+synonyms: "Termes ( Cyclotermes ) almorensis Snyder, 1933: 8-9"
+synonym_localities: "India: Uttarakhand: West Almora Forest Division"
 ---

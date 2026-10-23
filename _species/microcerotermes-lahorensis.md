@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes lahorensis 拉合尔锯白蚁"
+title: "Microcerotermes lahorensis Akhtar, 1974 拉合尔锯白蚁"
 latin: "Microcerotermes lahorensis"
 zh: "拉合尔锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: Lahore"
+distribution_zh: "南亚、巴基斯坦、印度"
+distribution_en: "South Asia, Pakistan, India"
+synonym_count: 0
 ---

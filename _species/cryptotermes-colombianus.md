@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes colombianus 哥伦比亚堆砂白蚁"
+title: "Cryptotermes colombianus Casalla, Scheffrahn & Korb, 2016 哥伦比亚堆砂白蚁"
 latin: "Cryptotermes colombianus"
 zh: "哥伦比亚堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Casalla, Scheffrahn & Korb, 2016"
+type_locality: "Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay [ 11.3152N 74.1032W ]"
+distribution_zh: "哥伦比亚"
+distribution_en: "Colombia"
+synonym_count: 0
 ---

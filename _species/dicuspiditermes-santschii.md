@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes santschii 桑特斯基突扭白蚁"
+title: "Dicuspiditermes santschii Silvestri, 1922 桑特斯基突扭白蚁"
 latin: "Dicuspiditermes santschii"
 zh: "桑特斯基突扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1922"
+type_locality: "Indonesia: Sumatra: Padang-Pandjang"
+distribution_zh: "东南亚、印度尼西亚、马来西亚"
+distribution_en: "Southeast Asia, Indonesia, Malaysia"
+synonym_count: 1
+synonyms: "Capritermes padangensis Kemner, 1930: 320-322"
+synonym_localities: "Indonesia: Sumatra: Tandjunggadang"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Promirotermes massaicus 马萨前奇白蚁"
+title: "Promirotermes massaicus Sjöstedt, 1907 马萨前奇白蚁"
 latin: "Promirotermes massaicus"
 zh: "马萨前奇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1907"
+type_locality: "Tanzania: Kilimanjaro: Kibonoto"
+distribution_zh: "肯尼亚、坦桑尼亚、乌干达、赞比亚"
+distribution_en: "Kenya, Tanzania, Uganda, Zambia"
+synonym_count: 0
 ---

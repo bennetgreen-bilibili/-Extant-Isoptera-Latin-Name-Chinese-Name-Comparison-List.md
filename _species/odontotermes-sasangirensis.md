@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes sasangirensis 萨桑吉尔土白蚁"
+title: "Odontotermes sasangirensis Thakur, 1989 萨桑吉尔土白蚁"
 latin: "Odontotermes sasangirensis"
 zh: "萨桑吉尔土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1989"
+type_locality: "India: Gujarat: Junagarh District: Sasan Gir Forest"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

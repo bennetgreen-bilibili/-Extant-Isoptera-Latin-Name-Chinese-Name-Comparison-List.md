@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes lativentris 宽腹弓白蚁"
+title: "Amitermes lativentris Mjöberg, 1920 宽腹弓白蚁"
 latin: "Amitermes lativentris"
 zh: "宽腹弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Christmas Creek, near Lamington"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

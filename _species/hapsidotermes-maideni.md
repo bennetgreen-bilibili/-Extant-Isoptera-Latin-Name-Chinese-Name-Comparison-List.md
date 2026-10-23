@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hapsidotermes maideni 梅登络白蚁"
+title: "Hapsidotermes maideni Mjöberg, 1920 梅登络白蚁"
 latin: "Hapsidotermes maideni"
 zh: "梅登络白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Cooktown"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

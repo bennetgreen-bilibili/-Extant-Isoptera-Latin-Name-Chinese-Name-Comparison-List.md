@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes brachygnathus 短颚锯白蚁"
+title: "Microcerotermes brachygnathus Silvestri, 1914 短颚锯白蚁"
 latin: "Microcerotermes brachygnathus"
 zh: "短颚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kindia"
+distribution_zh: "旧热带界、布基纳法索、印度尼西亚、几内亚、南非、坦桑尼亚、赞比亚、津巴布韦"
+distribution_en: "Old World tropics, Burkina Faso, Indonesia, Guinea, South Africa, Tanzania, Zambia, Zimbabwe"
+synonym_count: 0
 ---

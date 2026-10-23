@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes parvulus 小华扭白蚁"
+title: "Sinocapritermes parvulus Yu & Ping, 1966 小华扭白蚁"
 latin: "Sinocapritermes parvulus"
 zh: "小华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Yu & Ping, 1966"
+type_locality: "China: Hainan Island: Ya-hsien"
+distribution_zh: "中国、海南"
+distribution_en: "China, Hainan"
+synonym_count: 0
 ---

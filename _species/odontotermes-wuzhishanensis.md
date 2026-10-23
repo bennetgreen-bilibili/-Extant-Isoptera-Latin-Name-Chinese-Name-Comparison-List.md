@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes wuzhishanensis 五指山土白蚁"
+title: "Odontotermes wuzhishanensis Li, 1986 五指山土白蚁"
 latin: "Odontotermes wuzhishanensis"
 zh: "五指山土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li, 1986"
+type_locality: "China: Hainan Island"
+distribution_zh: "中国海南"
+distribution_en: "China (Hainan)"
+synonym_count: 0
 ---

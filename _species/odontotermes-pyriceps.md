@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes pyriceps 梨头土白蚁"
+title: "Odontotermes pyriceps Fan, 1985 梨头土白蚁"
 latin: "Odontotermes pyriceps"
 zh: "梨头土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fan, 1985"
+type_locality: "China: Hainan Island: Haikou City"
+distribution_zh: "海南（海口琼海）、中国"
+distribution_en: "Hainan (Haikou, Qionghai), China"
+synonym_count: 0
 ---

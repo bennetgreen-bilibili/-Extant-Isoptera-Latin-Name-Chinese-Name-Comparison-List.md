@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes limulingensis 黎母岭树白蚁"
+title: "Glyptotermes limulingensis Ping & Xu, 1986 黎母岭树白蚁"
 latin: "Glyptotermes limulingensis"
 zh: "黎母岭树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ping & Xu, 1986"
+type_locality: "China: Hainan Island: Qiongzhong County"
+distribution_zh: "中国海南"
+distribution_en: "China (Hainan)"
+synonym_count: 0
 ---

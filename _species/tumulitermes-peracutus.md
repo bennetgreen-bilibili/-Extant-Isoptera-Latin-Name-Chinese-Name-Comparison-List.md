@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes peracutus 锐利冢白蚁"
+title: "Tumulitermes peracutus Hill, 1925 锐利冢白蚁"
 latin: "Tumulitermes peracutus"
 zh: "锐利冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1925"
+type_locality: "Australia: Western Australia: Beverley"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

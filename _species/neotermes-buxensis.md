@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes buxensis 布克萨新白蚁"
+title: "Neotermes buxensis Roonwal & Sen-Sarma, 1960 布克萨新白蚁"
 latin: "Neotermes buxensis"
 zh: "布克萨新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "India: North Bengal: Buxa Forest Division"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

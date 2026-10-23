@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes longiceps 头长锯白蚁"
+title: "Microcerotermes longiceps Cachan, 1949 头长锯白蚁"
 latin: "Microcerotermes longiceps"
 zh: "头长锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cachan, 1949"
+type_locality: "Madagascar: Bas Sambirano; Behara; Joffreville; Nosy Mamoko"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

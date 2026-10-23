@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes lipingensis 黎平钝颚白蚁"
+title: "Ahmaditermes lipingensis Ping & Xu, 1988 黎平钝颚白蚁"
 latin: "Ahmaditermes lipingensis"
 zh: "黎平钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1988"
+type_locality: "China: Guizhou Province: Liping"
+distribution_zh: "贵州（黎平）"
+distribution_en: "Guizhou (Liping)"
+synonym_count: 0
 ---

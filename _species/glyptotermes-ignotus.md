@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes ignotus 忽视树白蚁"
+title: "Glyptotermes ignotus Wilkinson, 1959 忽视树白蚁"
 latin: "Glyptotermes ignotus"
 zh: "忽视树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Wilkinson, 1959"
+type_locality: "Uganda: 19 miles from Kampala on Jinia road"
+distribution_zh: "乌干达"
+distribution_en: "Uganda"
+synonym_count: 0
 ---

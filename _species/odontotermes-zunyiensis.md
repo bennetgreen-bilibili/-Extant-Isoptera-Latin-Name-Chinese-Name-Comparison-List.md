@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes zunyiensis 遵义土白蚁"
+title: "Odontotermes zunyiensis Li & Ping, 1982 遵义土白蚁"
 latin: "Odontotermes zunyiensis"
 zh: "遵义土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Ping, 1982"
+type_locality: "China: Guizhou Province: Zhuengyi"
+distribution_zh: "中国贵州"
+distribution_en: "China (Guizhou)"
+synonym_count: 0
 ---

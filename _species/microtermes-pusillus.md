@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes pusillus 极小小白蚁"
+title: "Microtermes pusillus Silvestri, 1914 极小小白蚁"
 latin: "Microtermes pusillus"
 zh: "极小小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "西非、喀麦隆"
+distribution_en: "West Africa, Cameroon"
+synonym_count: 0
 ---

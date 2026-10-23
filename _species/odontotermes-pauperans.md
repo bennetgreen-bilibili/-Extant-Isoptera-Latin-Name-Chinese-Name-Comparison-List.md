@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes pauperans 小贫土白蚁"
+title: "Odontotermes pauperans Silvestri, 1912 小贫土白蚁"
 latin: "Odontotermes pauperans"
 zh: "小贫土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Guinea Bissau: Bissau"
+distribution_zh: "西非科特迪瓦、塞内加尔、尼日利亚、冈比亚、加纳、几内亚、几内亚比绍"
+distribution_en: "West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Ghana, Guinea, Guinea-Bissau"
+synonym_count: 0
 ---

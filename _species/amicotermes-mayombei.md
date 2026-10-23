@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amicotermes mayombei 马永贝善白蚁"
+title: "Amicotermes mayombei Sands, 1999 马永贝善白蚁"
 latin: "Amicotermes mayombei"
 zh: "马永贝善白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1999"
+type_locality: "Congo: Mayombe"
+distribution_zh: "刚果"
+distribution_en: "Congo"
+synonym_count: 0
 ---

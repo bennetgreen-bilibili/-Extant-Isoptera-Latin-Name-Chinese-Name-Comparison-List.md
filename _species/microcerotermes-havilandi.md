@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes havilandi 哈维兰锯白蚁"
+title: "Microcerotermes havilandi Holmgren, 1913 哈维兰锯白蚁"
 latin: "Microcerotermes havilandi"
 zh: "哈维兰锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

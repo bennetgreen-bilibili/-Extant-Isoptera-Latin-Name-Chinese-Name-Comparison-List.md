@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes denticulatus 齿小土白蚁"
+title: "Odontotermes denticulatus Holmgren, 1913 齿小土白蚁"
 latin: "Odontotermes denticulatus"
 zh: "齿小土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak: Miri Hills; Singapore: ?"
+distribution_zh: "印度尼西亚、马来西亚、新加坡"
+distribution_en: "Indonesia, Malaysia, Singapore"
+synonym_count: 0
 ---

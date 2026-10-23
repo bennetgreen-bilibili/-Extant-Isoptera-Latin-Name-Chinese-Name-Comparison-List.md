@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Calcaritermes imminens 悬垂距白蚁"
+title: "Calcaritermes imminens Snyder, 1925 悬垂距白蚁"
 latin: "Calcaritermes imminens"
 zh: "悬垂距白蚁"
 type: true
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1925"
+type_locality: "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.0833W ]"
+distribution_zh: "哥伦比亚"
+distribution_en: "Colombia"
+synonym_count: 0
 ---

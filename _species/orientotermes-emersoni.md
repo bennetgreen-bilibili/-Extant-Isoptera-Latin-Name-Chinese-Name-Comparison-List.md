@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orientotermes emersoni 埃默森东方白蚁"
+title: "Orientotermes emersoni Ahmad, 1976 埃默森东方白蚁"
 latin: "Orientotermes emersoni"
 zh: "埃默森东方白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Protohamitermitinae"
 subfamily_id: "protohamitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1976"
+type_locality: "Malaysia: Sarawak: Sabal Tapang"
+distribution_zh: "文莱、马来西亚"
+distribution_en: "Brunei, Malaysia"
+synonym_count: 0
 ---

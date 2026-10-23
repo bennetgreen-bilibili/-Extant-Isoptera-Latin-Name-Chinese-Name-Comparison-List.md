@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes calabyi 卡拉比镰白蚁"
+title: "Drepanotermes calabyi Watson & Perry, 1981 卡拉比镰白蚁"
 latin: "Drepanotermes calabyi"
 zh: "卡拉比镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Western Australia: 5 mi (8 km) W of Balmoral homestead"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

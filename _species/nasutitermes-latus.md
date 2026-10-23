@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes latus 宽阔象白蚁"
+title: "Nasutitermes latus Light & Wilson, 1936 宽阔象白蚁"
 latin: "Nasutitermes latus"
 zh: "宽阔象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Palawan: Sir J. Brooke Point"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

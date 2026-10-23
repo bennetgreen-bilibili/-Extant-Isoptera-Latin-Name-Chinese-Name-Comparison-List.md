@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes chocoensis 乔科白蚁"
+title: "Termes chocoensis Fontaine & Roisin, 2026 乔科白蚁"
 latin: "Termes chocoensis"
 zh: "乔科白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fontaine & Roisin, 2026"
+type_locality: "Colombia: Chocó: Arusi: Choiba ecolodge [5.56932N 77.5042W]"
+distribution_zh: "哥伦比亚"
+distribution_en: "Colombia"
+synonym_count: 0
 ---

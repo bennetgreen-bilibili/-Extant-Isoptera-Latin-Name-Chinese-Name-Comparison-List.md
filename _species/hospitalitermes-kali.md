@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes kali 卡尔须白蚁"
+title: "Hospitalitermes kali Maiti & Chakraborty, 1994 卡尔须白蚁"
 latin: "Hospitalitermes kali"
 zh: "卡尔须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti & Chakraborty, 1994"
+type_locality: "India: Great Nicobar Island: Nancowry"
+distribution_zh: "印度尼科巴群岛"
+distribution_en: "India (Nicobar Islands)"
+synonym_count: 0
 ---

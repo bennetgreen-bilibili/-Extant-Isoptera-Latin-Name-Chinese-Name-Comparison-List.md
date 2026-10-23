@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Trichotermes machadoi 马查多发白蚁"
+title: "Trichotermes machadoi Weidner, 1974 马查多发白蚁"
 latin: "Trichotermes machadoi"
 zh: "马查多发白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1974"
+type_locality: "Angola: Dundo: Caieno, \"affl. du Canzololo, rive dr. du Luachimo.\""
+distribution_zh: "旧热带界"
+distribution_en: "Old World tropics"
+synonym_count: 0
 ---

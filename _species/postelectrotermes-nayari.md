@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Postelectrotermes nayari 纳亚尔后琥珀白蚁"
+title: "Postelectrotermes nayari Roonwal & Verma, 1971 纳亚尔后琥珀白蚁"
 latin: "Postelectrotermes nayari"
 zh: "纳亚尔后琥珀白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Roonwal & Verma, 1971"
+type_locality: "India: Kerala State: Trivandrum: Chackai"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

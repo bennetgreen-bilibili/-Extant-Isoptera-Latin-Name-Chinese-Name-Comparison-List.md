@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ateuchotermes spinulatus 小刺无锐白蚁"
+title: "Ateuchotermes spinulatus Sands, 1972 小刺无锐白蚁"
 latin: "Ateuchotermes spinulatus"
 zh: "小刺无锐白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

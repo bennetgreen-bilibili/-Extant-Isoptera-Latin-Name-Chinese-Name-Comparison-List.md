@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes punctatus 具点解甲白蚁"
+title: "Anoplotermes punctatus Snyder, 1926 具点解甲白蚁"
 latin: "Anoplotermes punctatus"
 zh: "具点解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: Pando: Rosario (near Lake Rogagua) [ 13.9667S 66.8667W ]"
+distribution_zh: "玻利维亚"
+distribution_en: "Bolivia"
+synonym_count: 0
 ---

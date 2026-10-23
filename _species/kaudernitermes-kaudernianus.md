@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kaudernitermes kaudernianus 考登考登白蚁"
+title: "Kaudernitermes kaudernianus Sjöstedt, 1914 考登考登白蚁"
 latin: "Kaudernitermes kaudernianus"
 zh: "考登考登白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1914"
+type_locality: "Madagascar: St. Marie de Marovoay"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

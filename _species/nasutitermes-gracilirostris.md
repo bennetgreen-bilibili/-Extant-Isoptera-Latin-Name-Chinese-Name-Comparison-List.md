@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes gracilirostris 细嘴象白蚁"
+title: "Nasutitermes gracilirostris Desneux, 1905 细嘴象白蚁"
 latin: "Nasutitermes gracilirostris"
 zh: "细嘴象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1905"
+type_locality: "Papua New Guinea: Madang (Friedrich-Wilhelmshafen)"
+distribution_zh: "印度尼西亚、巴布亚新几内亚"
+distribution_en: "Indonesia, Papua New Guinea"
+synonym_count: 0
 ---

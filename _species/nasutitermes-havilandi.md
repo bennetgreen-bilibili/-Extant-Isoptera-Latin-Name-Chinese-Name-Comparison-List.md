@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes havilandi 哈维兰象白蚁"
+title: "Nasutitermes havilandi Desneux, 1904 哈维兰象白蚁"
 latin: "Nasutitermes havilandi"
 zh: "哈维兰象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1904"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "新加坡、马来西亚、尼日利亚、印度尼西亚、泰国"
+distribution_en: "Singapore, Malaysia, Nigeria, Indonesia, Thailand"
+synonym_count: 0
 ---

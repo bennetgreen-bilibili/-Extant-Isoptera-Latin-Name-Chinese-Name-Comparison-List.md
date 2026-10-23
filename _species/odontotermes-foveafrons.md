@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes foveafrons 凹额土白蚁"
+title: "Odontotermes foveafrons Xia & Fan, 1982 凹额土白蚁"
 latin: "Odontotermes foveafrons"
 zh: "凹额土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia & Fan, 1982"
+type_locality: "China: Yunnan Province: Yangwu"
+distribution_zh: "云南（大勐龙、橄榄坝、思茅）、中国"
+distribution_en: "Yunnan (Damenglong, Ganlanba, Simao), China"
+synonym_count: 0
 ---

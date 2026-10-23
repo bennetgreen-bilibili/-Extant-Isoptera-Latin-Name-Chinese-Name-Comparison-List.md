@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes toumodiensis 图莫迪小白蚁"
+title: "Microtermes toumodiensis Grassé, 1937 图莫迪小白蚁"
 latin: "Microtermes toumodiensis"
 zh: "图莫迪小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé, 1937"
+type_locality: "Ivory Coast: Toumodi: Akakro"
+distribution_zh: "西非、科特迪瓦、塞内加尔、多哥"
+distribution_en: "West Africa, Côte d'Ivoire, Senegal, Togo"
+synonym_count: 0
 ---

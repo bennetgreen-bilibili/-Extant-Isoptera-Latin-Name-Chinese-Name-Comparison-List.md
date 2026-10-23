@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes uncatus 钩颚锯白蚁"
+title: "Microcerotermes uncatus Krishna, 1965 钩颚锯白蚁"
 latin: "Microcerotermes uncatus"
 zh: "钩颚锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1965"
+type_locality: "Myanmar: Maymyo, 24 miles east of Mandalay"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
 ---

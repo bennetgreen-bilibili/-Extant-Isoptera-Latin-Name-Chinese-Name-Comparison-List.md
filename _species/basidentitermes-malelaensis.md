@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes malelaensis 马雷拉基齿白蚁"
+title: "Basidentitermes malelaensis Emerson, 1928 马雷拉基齿白蚁"
 latin: "Basidentitermes malelaensis"
 zh: "马雷拉基齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Malela"
+distribution_zh: "非洲、刚果、喀麦隆、刚果民主共和国、加蓬、加纳"
+distribution_en: "Africa, Congo, Cameroon, Democratic Republic of the Congo, Gabon, Ghana"
+synonym_count: 0
 ---

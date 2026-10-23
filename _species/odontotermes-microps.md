@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes microps 小眼土白蚁"
+title: "Odontotermes microps Sjöstedt, 1899 小眼土白蚁"
 latin: "Odontotermes microps"
 zh: "小眼土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1899"
+type_locality: "Tanzania: Tanga"
+distribution_zh: "东非坦桑尼亚"
+distribution_en: "East Africa (Tanzania)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes ebeni 埃本土白蚁"
+title: "Odontotermes ebeni Sjöstedt, 1912 埃本土白蚁"
 latin: "Odontotermes ebeni"
 zh: "埃本土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1912"
+type_locality: "Ethiopia: Dolo; Mahal-Uonz (Scioa); Somalia: Brava"
+distribution_zh: "东非埃塞俄比亚、索马里"
+distribution_en: "East Africa, Ethiopia, Somalia"
+synonym_count: 0
 ---

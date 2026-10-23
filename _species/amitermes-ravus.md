@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes ravus 茶色弓白蚁"
+title: "Amitermes ravus Hill, 1942 茶色弓白蚁"
 latin: "Amitermes ravus"
 zh: "茶色弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Rollingstone"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

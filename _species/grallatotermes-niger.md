@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Grallatotermes niger 黑色高跷白蚁"
+title: "Grallatotermes niger Chatterjee & Thapa, 1964 黑色高跷白蚁"
 latin: "Grallatotermes niger"
 zh: "黑色高跷白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Thapa, 1964"
+type_locality: "India: Tamil Nadu (Madras): Tunacadur Range, Topslip, Mt. Stuart Block"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

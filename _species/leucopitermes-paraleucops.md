@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Leucopitermes paraleucops 近白脸白脸白蚁"
+title: "Leucopitermes paraleucops Morimoto, 1976 近白脸白脸白蚁"
 latin: "Leucopitermes paraleucops"
 zh: "近白脸白脸白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Morimoto, 1976"
+type_locality: "Malaysia: Negeri Sembilan: Pasoh Forest Reserve"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

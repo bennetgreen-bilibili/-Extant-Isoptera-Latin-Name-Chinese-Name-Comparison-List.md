@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes hilli 希尔镰白蚁"
+title: "Drepanotermes hilli Watson & Perry, 1981 希尔镰白蚁"
 latin: "Drepanotermes hilli"
 zh: "希尔镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Western Australia: approximately 5 mi (8 km) S of Kirkalocka Station homestead"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

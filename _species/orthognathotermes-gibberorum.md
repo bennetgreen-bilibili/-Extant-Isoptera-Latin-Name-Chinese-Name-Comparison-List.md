@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes gibberorum 驼背直颚白蚁"
+title: "Orthognathotermes gibberorum Mathews, 1977 驼背直颚白蚁"
 latin: "Orthognathotermes gibberorum"
 zh: "驼背直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [ 12.8145S 51.7745W ]"
+distribution_zh: "巴西、圭亚那地盾"
+distribution_en: "Brazil, Guiana Shield"
+synonym_count: 0
 ---

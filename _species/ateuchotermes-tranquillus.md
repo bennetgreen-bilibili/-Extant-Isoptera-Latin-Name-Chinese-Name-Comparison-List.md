@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ateuchotermes tranquillus 宁静无锐白蚁"
+title: "Ateuchotermes tranquillus Silvestri, 1914 宁静无锐白蚁"
 latin: "Ateuchotermes tranquillus"
 zh: "宁静无锐白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Mamou"
+distribution_zh: "几内亚"
+distribution_en: "Guinea"
+synonym_count: 0
 ---

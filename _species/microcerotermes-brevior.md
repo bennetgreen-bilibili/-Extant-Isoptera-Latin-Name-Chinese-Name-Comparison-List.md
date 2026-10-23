@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes brevior 狭小锯白蚁"
+title: "Microcerotermes brevior Desneux, 1905 狭小锯白蚁"
 latin: "Microcerotermes brevior"
 zh: "狭小锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1905"
+type_locality: "Papua New Guinea: Astrolabe Bay: Stephansort"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes ukhiaensis 乌吉亚树白蚁"
+title: "Glyptotermes ukhiaensis Akhtar, 1975 乌吉亚树白蚁"
 latin: "Glyptotermes ukhiaensis"
 zh: "乌吉亚树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Ukhia"
+distribution_zh: "孟加拉国、印度"
+distribution_en: "Bangladesh, India"
+synonym_count: 0
 ---

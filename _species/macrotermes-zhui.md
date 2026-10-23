@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes zhui 朱氏大白蚁"
+title: "Macrotermes zhui Krishna, 2013 朱氏大白蚁"
 latin: "Macrotermes zhui"
 zh: "朱氏大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2013"
+type_locality: "China: Guangxi Province: Nanning outskirts"
+distribution_zh: "中国广西"
+distribution_en: "China (Guangxi)"
+synonym_count: 0
 ---

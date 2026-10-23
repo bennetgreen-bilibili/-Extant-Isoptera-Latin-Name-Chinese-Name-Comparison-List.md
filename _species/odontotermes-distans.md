@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes distans 遥远土白蚁"
+title: "Odontotermes distans Holmgren & Holmgren, 1917 遥远土白蚁"
 latin: "Odontotermes distans"
 zh: "遥远土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Tamil Nadu: Shevaroy Rocks"
+distribution_zh: "印度、尼泊尔"
+distribution_en: "India, Nepal"
+synonym_count: 0
 ---

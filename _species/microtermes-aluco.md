@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes aluco 林鸮小白蚁"
+title: "Microtermes aluco Sjöstedt, 1904 林鸮小白蚁"
 latin: "Microtermes aluco"
 zh: "林鸮小白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Mali: Sikasso"
+distribution_zh: "西非、尼日利亚、喀麦隆、刚果民主共和国、苏丹"
+distribution_en: "West Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Sudan"
+synonym_count: 1
+synonyms: "Ancistrotermes sudanensis Sjöstedt, 1924: 255"
+synonym_localities: "Mali: Boadie in Niger Valley"
 ---

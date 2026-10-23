@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amicotermes mbalmayoensis 姆巴尔马约善白蚁"
+title: "Amicotermes mbalmayoensis Sands, 1999 姆巴尔马约善白蚁"
 latin: "Amicotermes mbalmayoensis"
 zh: "姆巴尔马约善白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1999"
+type_locality: "Cameroon: Mbalmayo Forest Reserve: Ekombitie"
+distribution_zh: "喀麦隆、姆巴尔马约、尼日利亚"
+distribution_en: "Cameroon, Mbalmayo, Nigeria"
+synonym_count: 0
 ---

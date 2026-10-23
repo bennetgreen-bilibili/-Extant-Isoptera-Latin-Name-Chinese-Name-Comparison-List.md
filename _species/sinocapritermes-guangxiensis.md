@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes guangxiensis 桂华扭白蚁"
+title: "Sinocapritermes guangxiensis Ping & Xu, 1986 桂华扭白蚁"
 latin: "Sinocapritermes guangxiensis"
 zh: "桂华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1986"
+type_locality: "China: Guangxi Zizhiqu: Dayao Mountain of Jinxiu Yaozu Zizhixian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

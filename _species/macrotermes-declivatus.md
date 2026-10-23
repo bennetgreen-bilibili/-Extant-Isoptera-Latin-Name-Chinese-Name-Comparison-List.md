@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes declivatus 箕头大白蚁"
+title: "Macrotermes declivatus Zhu, 1995 箕头大白蚁"
 latin: "Macrotermes declivatus"
 zh: "箕头大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu, 1995"
+type_locality: "China: Yunnan Province: Jinggu County"
+distribution_zh: "中国云南、景谷"
+distribution_en: "Yunnan, China, Jinggu"
+synonym_count: 0
 ---

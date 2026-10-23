@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Speculitermes sinhalensis 僧伽罗稀白蚁"
+title: "Speculitermes sinhalensis Roonwal & Sen-Sarma, 1960 僧伽罗稀白蚁"
 latin: "Speculitermes sinhalensis"
 zh: "僧伽罗稀白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "Sri Lanka: Vavuniya"
+distribution_zh: "斯里兰卡、印度"
+distribution_en: "Sri Lanka, India"
+synonym_count: 0
 ---

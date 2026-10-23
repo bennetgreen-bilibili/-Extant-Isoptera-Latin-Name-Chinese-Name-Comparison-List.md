@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Promirotermes holmgreni infera 下亚种"
+title: "Promirotermes holmgreni infera Silvestri, 1914 下亚种"
 latin: "Promirotermes holmgreni infera"
 zh: "下亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Promirotermes holmgreni"
 parent_zh: "霍姆格伦前奇白蚁"
 parent_slug: "promirotermes-holmgreni"
+author_year: "Silvestri, 1914"
+type_locality: "Senegal: Thiès"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes coalescens 团结象白蚁"
+title: "Nasutitermes coalescens Mjöberg, 1920 团结象白蚁"
 latin: "Nasutitermes coalescens"
 zh: "团结象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Western Australia: Mundaring"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

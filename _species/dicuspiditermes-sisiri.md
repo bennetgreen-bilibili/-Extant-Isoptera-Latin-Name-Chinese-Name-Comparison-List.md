@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes sisiri 西西尔突扭白蚁"
+title: "Dicuspiditermes sisiri Chhotani, 1997 西西尔突扭白蚁"
 latin: "Dicuspiditermes sisiri"
 zh: "西西尔突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1997"
+type_locality: "India: Kerala: Silent Valley"
+distribution_zh: "印度、喀拉拉"
+distribution_en: "India, Kerala"
+synonym_count: 0
 ---

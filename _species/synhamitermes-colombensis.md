@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Synhamitermes colombensis 科伦坡同钩白蚁"
+title: "Synhamitermes colombensis Roonwal & Sen-Sarma, 1960 科伦坡同钩白蚁"
 latin: "Synhamitermes colombensis"
 zh: "科伦坡同钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "Sri Lanka: Western Province: Colombo"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

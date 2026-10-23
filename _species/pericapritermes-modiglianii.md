@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes modiglianii 莫迪利亚尼近扭白蚁"
+title: "Pericapritermes modiglianii Silvestri, 1922 莫迪利亚尼近扭白蚁"
 latin: "Pericapritermes modiglianii"
 zh: "莫迪利亚尼近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1922"
+type_locality: "Indonesia: Sumatra: Doloc-Tolong"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

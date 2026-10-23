@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes indistinctus 模糊锯白蚁"
+title: "Microcerotermes indistinctus Mathews, 1977 模糊锯白蚁"
 latin: "Microcerotermes indistinctus"
 zh: "模糊锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [ 12.8145S 51.7745W ]"
+distribution_zh: "新热带界、巴西、法属圭亚那、特立尼达和多巴哥、委内瑞拉"
+distribution_en: "Neotropics, Brazil, French Guiana, Trinidad and Tobago, Venezuela"
+synonym_count: 0
 ---

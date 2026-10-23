@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes germanus 常见瓢白蚁"
+title: "Bulbitermes germanus Haviland, 1898 常见瓢白蚁"
 latin: "Bulbitermes germanus"
 zh: "常见瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Singapore: Bukit Timah"
+distribution_zh: "印度尼西亚、马来西亚、新加坡、泰国"
+distribution_en: "Indonesia, Malaysia, Singapore, Thailand"
+synonym_count: 0
 ---

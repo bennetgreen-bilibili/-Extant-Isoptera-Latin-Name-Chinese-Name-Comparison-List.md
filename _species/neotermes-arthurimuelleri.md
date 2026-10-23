@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes arthurimuelleri 阿图尔米勒新白蚁"
+title: "Neotermes arthurimuelleri Rosen, 1912 阿图尔米勒新白蚁"
 latin: "Neotermes arthurimuelleri"
 zh: "阿图尔米勒新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Rosen, 1912"
+type_locality: "Brasil: Rio de Janeiro: Rio de Janeiro (Corcovado) [ 22.9523S 43.2103W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

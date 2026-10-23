@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes lacessitiformis 似紧张怒白蚁"
+title: "Lacessititermes lacessitiformis Holmgren, 1913 似紧张怒白蚁"
 latin: "Lacessititermes lacessitiformis"
 zh: "似紧张怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

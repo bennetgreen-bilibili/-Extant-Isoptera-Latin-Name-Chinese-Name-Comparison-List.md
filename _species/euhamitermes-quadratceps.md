@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes quadratceps 方头亮白蚁"
+title: "Euhamitermes quadratceps Ping & Li, 1987 方头亮白蚁"
 latin: "Euhamitermes quadratceps"
 zh: "方头亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1987"
+type_locality: "China: Guangdong Province: Dabu County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

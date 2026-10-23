@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes eucalypti 桉树象白蚁"
+title: "Nasutitermes eucalypti Mjöberg, 1920 桉树象白蚁"
 latin: "Nasutitermes eucalypti"
 zh: "桉树象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Western Australia: Kimberley District"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Eutermes fieldi Hill, 1923: 43-46"
+synonym_localities: "Australia: Northern Territory: Tennant Creek"
 ---

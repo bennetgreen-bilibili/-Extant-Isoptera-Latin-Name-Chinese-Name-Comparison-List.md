@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes leigongshanensis 雷公山散白蚁"
+title: "Reticulitermes leigongshanensis Zhu, Huang, Wang & Han, 1993 雷公山散白蚁"
 latin: "Reticulitermes leigongshanensis"
 zh: "雷公山散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu, Huang, Wang & Han, 1993"
+type_locality: "China: Guizhou Province: Leigong Mountain"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

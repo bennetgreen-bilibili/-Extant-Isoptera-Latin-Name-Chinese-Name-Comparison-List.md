@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes madurae 马都拉锯白蚁"
+title: "Microcerotermes madurae Kemner, 1934 马都拉锯白蚁"
 latin: "Microcerotermes madurae"
 zh: "马都拉锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Madura: Bankalan"
+distribution_zh: "东南亚、印度尼西亚"
+distribution_en: "Southeast Asia, Indonesia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astratotermes hilarus 高兴无刃白蚁"
+title: "Astratotermes hilarus Sands, 1972 高兴无刃白蚁"
 latin: "Astratotermes hilarus"
 zh: "高兴无刃白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg"
+distribution_zh: "中非刚果盆地、东非、喀麦隆、刚果民主共和国、坦桑尼亚"
+distribution_en: "Central African Congo Basin, East Africa, Cameroon, Democratic Republic of the Congo, Tanzania"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes jinghongensis 景洪大白蚁"
+title: "Macrotermes jinghongensis Ping & Li, 1985 景洪大白蚁"
 latin: "Macrotermes jinghongensis"
 zh: "景洪大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1985"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国云南、景洪"
+distribution_en: "China (Yunnan), Jinghong"
+synonym_count: 0
 ---

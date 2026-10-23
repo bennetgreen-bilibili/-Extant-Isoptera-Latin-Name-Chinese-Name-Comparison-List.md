@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes preliminaris 初始土白蚁"
+title: "Odontotermes preliminaris Holmgren, 1911 初始土白蚁"
 latin: "Odontotermes preliminaris"
 zh: "初始土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Sri Lanka: Peradeniya"
+distribution_zh: "南亚斯里兰卡"
+distribution_en: "South Asia (Sri Lanka)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes gratus 可爱大白蚁"
+title: "Macrotermes gratus Sjöstedt, 1900 可爱大白蚁"
 latin: "Macrotermes gratus"
 zh: "可爱大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1900"
+type_locality: "Togo: Misahöhe"
+distribution_zh: "西非、多哥"
+distribution_en: "West Africa, Togo"
+synonym_count: 0
 ---

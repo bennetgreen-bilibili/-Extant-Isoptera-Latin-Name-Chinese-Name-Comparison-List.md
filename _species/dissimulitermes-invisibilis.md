@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dissimulitermes invisibilis 隐形隐藏白蚁"
+title: "Dissimulitermes invisibilis Constantini & Cancello, 2020 隐形隐藏白蚁"
 latin: "Dissimulitermes invisibilis"
 zh: "隐形隐藏白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantini & Cancello, 2020"
+type_locality: "Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi [ 19.9078S 40.5414W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

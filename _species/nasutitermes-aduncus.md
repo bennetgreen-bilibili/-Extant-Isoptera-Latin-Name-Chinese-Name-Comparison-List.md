@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes aduncus 弯曲象白蚁"
+title: "Nasutitermes aduncus Snyder, 1926 弯曲象白蚁"
 latin: "Nasutitermes aduncus"
 zh: "弯曲象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Bolivia: El Beni: Rurrenabaque [14.44S 67.525W]"
+distribution_zh: "巴西、秘鲁、玻利维亚"
+distribution_en: "Brazil, Peru, Bolivia"
+synonym_count: 0
 ---

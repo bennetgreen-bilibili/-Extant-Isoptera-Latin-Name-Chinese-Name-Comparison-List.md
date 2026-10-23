@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes schultzei 舒尔茨新白蚁"
+title: "Neotermes schultzei Holmgren, 1911 舒尔茨新白蚁"
 latin: "Neotermes schultzei"
 zh: "舒尔茨新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Holmgren, 1911"
+type_locality: "Papua New Guinea: Sepik"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Velocitermes barrocoloradensis 巴罗科罗拉多快白蚁"
+title: "Velocitermes barrocoloradensis Snyder, 1925 巴罗科罗拉多快白蚁"
 latin: "Velocitermes barrocoloradensis"
 zh: "巴罗科罗拉多快白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1925"
+type_locality: "Panama: Barro Colorado Island"
+distribution_zh: "巴拿马"
+distribution_en: "Panama"
+synonym_count: 0
 ---

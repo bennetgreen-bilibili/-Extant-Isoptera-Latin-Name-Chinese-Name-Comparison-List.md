@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ephelotermes persimilis 相似棒颚白蚁"
+title: "Ephelotermes persimilis Gay, 1971 相似棒颚白蚁"
 latin: "Ephelotermes persimilis"
 zh: "相似棒颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1971"
+type_locality: "Australia: Western Australia: 5 km NE Babakin"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

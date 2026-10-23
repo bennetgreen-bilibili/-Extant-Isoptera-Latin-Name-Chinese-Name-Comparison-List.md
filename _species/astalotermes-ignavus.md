@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes ignavus 懒惰无利器白蚁"
+title: "Astalotermes ignavus Sands, 1972 懒惰无利器白蚁"
 latin: "Astalotermes ignavus"
 zh: "懒惰无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Congo: 13 km W Brazzaville"
+distribution_zh: "非洲热带、刚果"
+distribution_en: "tropical Africa, Congo"
+synonym_count: 0
 ---

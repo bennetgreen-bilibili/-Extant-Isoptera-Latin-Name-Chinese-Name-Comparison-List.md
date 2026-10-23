@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes kanhaensis 甘哈亮白蚁"
+title: "Euhamitermes kanhaensis Roonwal & Chhotani, 1965 甘哈亮白蚁"
 latin: "Euhamitermes kanhaensis"
 zh: "甘哈亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1965"
+type_locality: "India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

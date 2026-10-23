@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes daiyunensis 戴云树白蚁"
+title: "Glyptotermes daiyunensis Li & Huang, 1986 戴云树白蚁"
 latin: "Glyptotermes daiyunensis"
 zh: "戴云树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Li & Huang, 1986"
+type_locality: "China: Fujian Province: Daiyunshan"
+distribution_zh: "中国福建"
+distribution_en: "China (Fujian)"
+synonym_count: 0
 ---

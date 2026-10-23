@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes turkmenicus 土库曼锯白蚁"
+title: "Microcerotermes turkmenicus Luppova, 1976 土库曼锯白蚁"
 latin: "Microcerotermes turkmenicus"
 zh: "土库曼锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Luppova, 1976"
+type_locality: "Turkmenistan: vicinity of Tedzhen"
+distribution_zh: "土库曼斯坦"
+distribution_en: "Turkmenistan"
+synonym_count: 0
 ---

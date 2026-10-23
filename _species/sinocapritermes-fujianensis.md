@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes fujianensis 闽华扭白蚁"
+title: "Sinocapritermes fujianensis Ping & Xu, 1986 闽华扭白蚁"
 latin: "Sinocapritermes fujianensis"
 zh: "闽华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1986"
+type_locality: "China: Fujian Province: Jian'ou"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes yingjiangensis 盈江地白蚁"
+title: "Hypotermes yingjiangensis Huang & Zhu, 1990 盈江地白蚁"
 latin: "Hypotermes yingjiangensis"
 zh: "盈江地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Zhu, 1990"
+type_locality: "China: Yunnan Province: Yingjiang County: Manyun"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

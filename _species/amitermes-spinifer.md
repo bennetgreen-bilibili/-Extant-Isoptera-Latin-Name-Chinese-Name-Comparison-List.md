@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes spinifer 具刺弓白蚁"
+title: "Amitermes spinifer Silvestri, 1914 具刺弓白蚁"
 latin: "Amitermes spinifer"
 zh: "具刺弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Senegal: Dakar; Hann; Thiès"
+distribution_zh: "西非、东非、肯尼亚、坦桑尼亚、乌干达"
+distribution_en: "West Africa, East Africa, Kenya, Tanzania, Uganda"
+synonym_count: 0
 ---

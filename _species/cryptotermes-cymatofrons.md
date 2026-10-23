@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes cymatofrons 波额堆砂白蚁"
+title: "Cryptotermes cymatofrons Scheffrahn & Krecek, 1999 波额堆砂白蚁"
 latin: "Cryptotermes cymatofrons"
 zh: "波额堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn & Krecek, 1999"
+type_locality: "Bahamas: Cat Island, Hermitage"
+distribution_zh: "古巴、巴哈马"
+distribution_en: "Cuba, Bahamas"
+synonym_count: 0
 ---

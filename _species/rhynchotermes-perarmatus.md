@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rhynchotermes perarmatus 全武喙白蚁"
+title: "Rhynchotermes perarmatus Snyder, 1925 全武喙白蚁"
 latin: "Rhynchotermes perarmatus"
 zh: "全武喙白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1925"
+type_locality: "Panama: Rio Chinilla"
+distribution_zh: "哥斯达黎加、巴拿马、厄瓜多尔、哥伦比亚、伯利兹、危地马拉"
+distribution_en: "Costa Rica, Panama, Ecuador, Colombia, Belize, Guatemala"
+synonym_count: 1
+synonyms: "Armitermes (Rhynchotermes) major Snyder, 1925: 160-161"
+synonym_localities: "Costa Rica: Estrella"
 ---

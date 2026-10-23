@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes falcifer 具镰三方白蚁"
+title: "Ternicubitermes falcifer Williams, 1966 具镰三方白蚁"
 latin: "Ternicubitermes falcifer"
 zh: "具镰三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Williams, 1966"
+type_locality: "Tanzania: Sao Hill"
+distribution_zh: "坦桑尼亚"
+distribution_en: "Tanzania"
+synonym_count: 0
 ---

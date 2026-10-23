@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anenteotermes cnaphorus 笨神无甲白蚁"
+title: "Anenteotermes cnaphorus Sands, 1972 笨神无甲白蚁"
 latin: "Anenteotermes cnaphorus"
 zh: "笨神无甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville"
+distribution_zh: "刚果共和国、刚果民主共和国、马拉维"
+distribution_en: "Republic of the Congo, Democratic Republic of the Congo, Malawi"
+synonym_count: 0
 ---

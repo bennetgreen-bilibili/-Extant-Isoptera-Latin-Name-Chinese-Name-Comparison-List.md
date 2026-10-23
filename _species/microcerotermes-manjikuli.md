@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes manjikuli 曼志库尔锯白蚁"
+title: "Microcerotermes manjikuli Sen-Sarma, 1966 曼志库尔锯白蚁"
 latin: "Microcerotermes manjikuli"
 zh: "曼志库尔锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sen-Sarma, 1966"
+type_locality: "Thailand: Pathaloong"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

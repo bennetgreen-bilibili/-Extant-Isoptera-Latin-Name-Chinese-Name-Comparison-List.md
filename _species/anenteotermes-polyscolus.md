@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anenteotermes polyscolus 多魁无甲白蚁"
+title: "Anenteotermes polyscolus Sands, 1972 多魁无甲白蚁"
 latin: "Anenteotermes polyscolus"
 zh: "多魁无甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Ghana: 10 mi N Wenchi on Bamboi Road"
+distribution_zh: "西非、中非、刚果盆地"
+distribution_en: "West Africa, Central Africa, Congo Basin"
+synonym_count: 0
 ---

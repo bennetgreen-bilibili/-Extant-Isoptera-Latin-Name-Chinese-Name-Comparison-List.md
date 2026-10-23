@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Diwaitermes castanopsis 锥栗木象白蚁"
+title: "Diwaitermes castanopsis Roisin & Pasteels, 1996 锥栗木象白蚁"
 latin: "Diwaitermes castanopsis"
 zh: "锥栗木象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Manki Ridge: Bulolo"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

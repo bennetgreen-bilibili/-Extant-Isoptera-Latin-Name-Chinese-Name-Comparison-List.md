@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes varaminicus 瓦拉明锯白蚁"
+title: "Microcerotermes varaminicus Ghayourfar, 1999 瓦拉明锯白蚁"
 latin: "Microcerotermes varaminicus"
 zh: "瓦拉明锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghayourfar, 1999"
+type_locality: "Iran: Tehran Province: Varamine"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

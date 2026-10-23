@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes dabieshanensis 大别山散白蚁"
+title: "Reticulitermes dabieshanensis Wang & Li, 1984 大别山散白蚁"
 latin: "Reticulitermes dabieshanensis"
 zh: "大别山散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wang & Li, 1984"
+type_locality: "China: Henan Province: Shangcheng County: Borenao Mountain"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes ziyangensis 资阳土白蚁"
+title: "Odontotermes ziyangensis Zhang & Xing, 1992 资阳土白蚁"
 latin: "Odontotermes ziyangensis"
 zh: "资阳土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhang & Xing, 1992"
+type_locality: "China: Shaanxi Province: Ziyang County (Santai)"
+distribution_zh: "中国陕西"
+distribution_en: "China (Shaanxi)"
+synonym_count: 0
 ---

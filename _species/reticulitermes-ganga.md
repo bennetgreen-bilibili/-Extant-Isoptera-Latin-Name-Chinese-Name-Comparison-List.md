@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes ganga 恒湖散白蚁"
+title: "Reticulitermes ganga Bose, 1999 恒湖散白蚁"
 latin: "Reticulitermes ganga"
 zh: "恒湖散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1999"
+type_locality: "India: Arunachal Pradesh: Lower Subansiri District: Itanagar: Lake Ganga"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

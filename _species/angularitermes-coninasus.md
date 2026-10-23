@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angularitermes coninasus 锥鼻棱角白蚁"
+title: "Angularitermes coninasus Carrijo, Rocha, Cuezzo & Cancello, 2011 锥鼻棱角白蚁"
 latin: "Angularitermes coninasus"
 zh: "锥鼻棱角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Carrijo, Rocha, Cuezzo & Cancello, 2011"
+type_locality: "Brasil: Rondônia: Porto Velho, Jaci Paraná, Ilha da Pedra [9.15S 64.5833W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

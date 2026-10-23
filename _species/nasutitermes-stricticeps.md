@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes stricticeps 缩头象白蚁"
+title: "Nasutitermes stricticeps Mathews, 1977 缩头象白蚁"
 latin: "Nasutitermes stricticeps"
 zh: "缩头象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
+distribution_zh: "巴西、委内瑞拉"
+distribution_en: "Brazil, Venezuela"
+synonym_count: 0
 ---

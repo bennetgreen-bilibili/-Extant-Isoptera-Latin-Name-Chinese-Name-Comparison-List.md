@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes montanae 大山象白蚁"
+title: "Nasutitermes montanae Holmgren, 1910 大山象白蚁"
 latin: "Nasutitermes montanae"
 zh: "大山象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Suriname: \"Montana\""
+distribution_zh: "苏里南"
+distribution_en: "Suriname"
+synonym_count: 0
 ---

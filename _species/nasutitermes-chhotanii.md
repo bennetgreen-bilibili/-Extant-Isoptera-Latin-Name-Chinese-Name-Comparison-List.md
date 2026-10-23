@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes chhotanii 乔塔里象白蚁"
+title: "Nasutitermes chhotanii Bose, 1997 乔塔里象白蚁"
 latin: "Nasutitermes chhotanii"
 zh: "乔塔里象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1997"
+type_locality: "India: Arunachal Pradesh: Itanagar: Lake Ganga"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

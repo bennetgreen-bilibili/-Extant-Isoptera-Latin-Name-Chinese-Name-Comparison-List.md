@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hirtitermes brabazoni 布拉巴宗多毛白蚁"
+title: "Hirtitermes brabazoni Gathorne-Hardy, 2001 布拉巴宗多毛白蚁"
 latin: "Hirtitermes brabazoni"
 zh: "布拉巴宗多毛白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gathorne-Hardy, 2001"
+type_locality: "Indonesia: Sulawesi: Dumoga-Bone National Park"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Araujotermes caissara 凯萨拉阿劳若白蚁"
+title: "Araujotermes caissara Fontes, 1982 凯萨拉阿劳若白蚁"
 latin: "Araujotermes caissara"
 zh: "凯萨拉阿劳若白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fontes, 1982"
+type_locality: "Brasil: Santa Catarina: Itapema [27.0903S 48.6114W]"
+distribution_zh: "巴西、阿根廷"
+distribution_en: "Brazil, Argentina"
+synonym_count: 0
 ---

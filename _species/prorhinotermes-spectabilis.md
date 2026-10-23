@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Prorhinotermes spectabilis 奇丽原鼻白蚁"
+title: "Prorhinotermes spectabilis Ping & Xu, 1989 奇丽原鼻白蚁"
 latin: "Prorhinotermes spectabilis"
 zh: "奇丽原鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "PSAMMOTERMITIDAE"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Xu, 1989"
+type_locality: "China: Yunnan Province: Hekou Yaozu Zizhixian"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

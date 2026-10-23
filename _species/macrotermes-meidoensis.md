@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes meidoensis 梅多大白蚁"
+title: "Macrotermes meidoensis Huang & Han, 1988 梅多大白蚁"
 latin: "Macrotermes meidoensis"
 zh: "梅多大白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Han, 1988"
+type_locality: "China: Tibet: Medog"
+distribution_zh: "中国西藏、墨脱"
+distribution_en: "Tibet, China, Medog"
+synonym_count: 1
+synonyms: "Macrotermes medogensis Han, 1990: 175-178"
+synonym_localities: "China: Tibet: Medog"
 ---

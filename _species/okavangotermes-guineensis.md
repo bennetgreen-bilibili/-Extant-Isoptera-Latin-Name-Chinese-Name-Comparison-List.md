@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Okavangotermes guineensis 几内亚奥卡万戈白蚁"
+title: "Okavangotermes guineensis Sands, 1995 几内亚奥卡万戈白蚁"
 latin: "Okavangotermes guineensis"
 zh: "几内亚奥卡万戈白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1995"
+type_locality: "Ghana: 3 miles from Larabanga on Sawala road"
+distribution_zh: "加纳"
+distribution_en: "Ghana"
+synonym_count: 0
 ---

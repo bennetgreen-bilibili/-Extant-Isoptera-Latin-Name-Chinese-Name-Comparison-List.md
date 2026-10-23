@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes palmquisti 帕姆奎斯特土白蚁"
+title: "Odontotermes palmquisti Sjöstedt, 1907 帕姆奎斯特土白蚁"
 latin: "Odontotermes palmquisti"
 zh: "帕姆奎斯特土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1907"
+type_locality: "Tanzania: Kilimanjaro: Kibonoto"
+distribution_zh: "东非坦桑尼亚、肯尼亚、马拉维"
+distribution_en: "East Africa, Tanzania, Kenya, Malawi"
+synonym_count: 0
 ---

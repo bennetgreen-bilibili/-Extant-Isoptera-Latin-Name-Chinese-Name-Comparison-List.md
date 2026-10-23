@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anhangatermes anhanguera 魔鬼魔白蚁"
+title: "Anhangatermes anhanguera Oliveira & Cunha, 2014 魔鬼魔白蚁"
 latin: "Anhangatermes anhanguera"
 zh: "魔鬼魔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oliveira & Cunha, 2014"
+type_locality: "Brasil: Goiás: Anápolis, Campus da Universidade Estadual de Goiás [16.383S 48.9453W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

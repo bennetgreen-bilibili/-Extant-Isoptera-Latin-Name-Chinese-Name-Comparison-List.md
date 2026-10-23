@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes amboinensis 安汶乳白蚁"
+title: "Coptotermes amboinensis Kemner, 1931 安汶乳白蚁"
 latin: "Coptotermes amboinensis"
 zh: "安汶乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1931"
+type_locality: "Indonesia: Maluku: Ambon"
+distribution_zh: "印尼马鲁古群岛"
+distribution_en: "Maluku Islands, Indonesia"
+synonym_count: 0
 ---

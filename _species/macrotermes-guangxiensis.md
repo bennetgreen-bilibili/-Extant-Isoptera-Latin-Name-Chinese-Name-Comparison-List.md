@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes guangxiensis 广西大白蚁"
+title: "Macrotermes guangxiensis Han, 1986 广西大白蚁"
 latin: "Macrotermes guangxiensis"
 zh: "广西大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Han, 1986"
+type_locality: "China: Guangxi Zhuang Autonomous Region: Nanning"
+distribution_zh: "中国广西、南宁"
+distribution_en: "Guangxi, China, Nanning"
+synonym_count: 0
 ---

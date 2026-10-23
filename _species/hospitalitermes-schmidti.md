@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes schmidti 施密德须白蚁"
+title: "Hospitalitermes schmidti Ahmad, 1947 施密德须白蚁"
 latin: "Hospitalitermes schmidti"
 zh: "施密德须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1947"
+type_locality: "Indonesia: Sulawesi: Lembeh Island"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

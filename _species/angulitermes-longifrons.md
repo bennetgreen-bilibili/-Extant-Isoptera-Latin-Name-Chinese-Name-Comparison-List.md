@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes longifrons 长额角白蚁"
+title: "Angulitermes longifrons Maiti, 1983 长额角白蚁"
 latin: "Angulitermes longifrons"
 zh: "长额角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti, 1983"
+type_locality: "India: West Bengal: Midnapore District: Gidhni"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

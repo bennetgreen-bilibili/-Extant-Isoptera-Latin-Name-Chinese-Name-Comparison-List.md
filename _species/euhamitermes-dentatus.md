@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes dentatus 具齿亮白蚁"
+title: "Euhamitermes dentatus Thakur & Chatterjee, 1974 具齿亮白蚁"
 latin: "Euhamitermes dentatus"
 zh: "具齿亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur & Chatterjee, 1974"
+type_locality: "India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli"
+distribution_zh: "印度、安得拉邦"
+distribution_en: "India, Andhra Pradesh"
+synonym_count: 0
 ---

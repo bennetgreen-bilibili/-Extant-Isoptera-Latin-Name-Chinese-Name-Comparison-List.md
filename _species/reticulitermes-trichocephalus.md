@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes trichocephalus 毛头散白蚁"
+title: "Reticulitermes trichocephalus Ping, 1985 毛头散白蚁"
 latin: "Reticulitermes trichocephalus"
 zh: "毛头散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1985"
+type_locality: "China: Guangdong Province: Dinghu Mountain: Zhaoqing City"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

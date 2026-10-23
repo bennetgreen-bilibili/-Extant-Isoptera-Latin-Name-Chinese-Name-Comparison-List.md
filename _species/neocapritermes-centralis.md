@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neocapritermes centralis 中部新扭白蚁"
+title: "Neocapritermes centralis Snyder, 1932 中部新扭白蚁"
 latin: "Neocapritermes centralis"
 zh: "中部新扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1932"
+type_locality: "Costa Rica: Santa Clara: Hamburg Farm"
+distribution_zh: "巴拿马、哥斯达黎加"
+distribution_en: "Panama, Costa Rica"
+synonym_count: 0
 ---

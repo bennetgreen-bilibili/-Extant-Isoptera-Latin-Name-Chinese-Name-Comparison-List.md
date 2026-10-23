@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes costaseca 干海岸新白蚁"
+title: "Neotermes costaseca Scheffrahn, 2018 干海岸新白蚁"
 latin: "Neotermes costaseca"
 zh: "干海岸新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn, 2018"
+type_locality: "Peru: Lima: Lurín, Rio Lurín [ 12.275S 76.879W ]"
+distribution_zh: "秘鲁"
+distribution_en: "Peru"
+synonym_count: 0
 ---

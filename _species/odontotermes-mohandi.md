@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes mohandi 莫汉德土白蚁"
+title: "Odontotermes mohandi Verma & Purohit, 1993 莫汉德土白蚁"
 latin: "Odontotermes mohandi"
 zh: "莫汉德土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Verma & Purohit, 1993"
+type_locality: "India: Saharanpur district: Mohand Forest"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

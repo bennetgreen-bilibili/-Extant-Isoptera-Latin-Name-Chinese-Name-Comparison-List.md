@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes latialatus 宽翅土白蚁"
+title: "Odontotermes latialatus Sjöstedt, 1897 宽翅土白蚁"
 latin: "Odontotermes latialatus"
 zh: "宽翅土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1897"
+type_locality: "Democratic Republic of the Congo: ?"
+distribution_zh: "中非刚果民主共和国"
+distribution_en: "Central African Republic, Democratic Republic of the Congo"
+synonym_count: 0
 ---

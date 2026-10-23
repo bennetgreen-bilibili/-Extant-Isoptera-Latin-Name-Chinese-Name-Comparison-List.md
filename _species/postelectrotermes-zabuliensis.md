@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Postelectrotermes zabuliensis 扎布尔后琥珀白蚁"
+title: "Postelectrotermes zabuliensis Ravan & Akhtar, 1999 扎布尔后琥珀白蚁"
 latin: "Postelectrotermes zabuliensis"
 zh: "扎布尔后琥珀白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ravan & Akhtar, 1999"
+type_locality: "Iran: Zabul [Jalahi]"
+distribution_zh: "西亚、伊朗"
+distribution_en: "West Asia, Iran"
+synonym_count: 0
 ---

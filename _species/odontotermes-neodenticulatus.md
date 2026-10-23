@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes neodenticulatus 新齿小土白蚁"
+title: "Odontotermes neodenticulatus Thapa, 1982 新齿小土白蚁"
 latin: "Odontotermes neodenticulatus"
 zh: "新齿小土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Keningau District: Biah Forest, mile 6"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

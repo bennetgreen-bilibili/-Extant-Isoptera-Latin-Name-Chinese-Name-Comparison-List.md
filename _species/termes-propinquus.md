@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Termes propinquus 邻近白蚁"
+title: "Termes propinquus Holmgren, 1914 邻近白蚁"
 latin: "Termes propinquus"
 zh: "邻近白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Indonesia: Sumatra: Tandjong Slamat"
+distribution_zh: "印度尼西亚、马来西亚、泰国"
+distribution_en: "Indonesia, Malaysia, Thailand"
+synonym_count: 0
 ---

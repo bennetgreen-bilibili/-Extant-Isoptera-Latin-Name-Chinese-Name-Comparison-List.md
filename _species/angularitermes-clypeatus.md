@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angularitermes clypeatus 大唇棱角白蚁"
+title: "Angularitermes clypeatus Mathews, 1977 大唇棱角白蚁"
 latin: "Angularitermes clypeatus"
 zh: "大唇棱角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
+distribution_zh: "巴西、法属圭亚那、厄瓜多尔"
+distribution_en: "Brazil, French Guiana, Ecuador"
+synonym_count: 0
 ---

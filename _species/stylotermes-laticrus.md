@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes laticrus 阔腿杆白蚁"
+title: "Stylotermes laticrus Ping & Xu, 1981 阔腿杆白蚁"
 latin: "Stylotermes laticrus"
 zh: "阔腿杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Xu, 1981"
+type_locality: "China: Sichuan Province: Miyi Xian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

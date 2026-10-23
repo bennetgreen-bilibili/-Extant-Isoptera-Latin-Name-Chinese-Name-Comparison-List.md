@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hypotermes winifredi 威尼弗雷德地白蚁"
+title: "Hypotermes winifredi Ahmad, 1953 威尼弗雷德地白蚁"
 latin: "Hypotermes winifredi"
 zh: "威尼弗雷德地白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1953"
+type_locality: "Sri Lanka: Colombo"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

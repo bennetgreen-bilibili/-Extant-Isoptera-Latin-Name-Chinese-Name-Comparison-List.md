@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes yaeyamanus 八重山散白蚁"
+title: "Reticulitermes yaeyamanus Morimoto, 1968 八重山散白蚁"
 latin: "Reticulitermes yaeyamanus"
 zh: "八重山散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Morimoto, 1968"
+type_locality: "Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara"
+distribution_zh: "日本、中国"
+distribution_en: "Japan, China"
+synonym_count: 0
 ---

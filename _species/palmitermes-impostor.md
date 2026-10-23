@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Palmitermes impostor 骗子棕榈白蚁"
+title: "Palmitermes impostor Hellemans & Roisin, 2017 骗子棕榈白蚁"
 latin: "Palmitermes impostor"
 zh: "骗子棕榈白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hellemans & Roisin, 2017"
+type_locality: "French Guiana: Petit Saut [5.07N 53.032W]"
+distribution_zh: "澳大利亚、巴西、法属圭亚那"
+distribution_en: "Australia, Brazil, French Guiana"
+synonym_count: 0
 ---

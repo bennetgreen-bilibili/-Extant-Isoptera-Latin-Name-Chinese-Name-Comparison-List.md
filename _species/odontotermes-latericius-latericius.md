@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes latericius latericius 指名亚种"
+title: "Odontotermes latericius latericius Haviland, 1898 指名亚种"
 latin: "Odontotermes latericius latericius"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes latericius"
 parent_zh: "似砖土白蚁"
 parent_slug: "odontotermes-latericius"
+author_year: "Haviland, 1898"
+type_locality: "South Africa: Natal: Estcourt District"
+synonym_count: 0
 ---

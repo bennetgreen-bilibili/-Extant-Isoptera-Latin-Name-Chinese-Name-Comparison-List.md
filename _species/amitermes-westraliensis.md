@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes westraliensis 西澳弓白蚁"
+title: "Amitermes westraliensis Hill, 1929 西澳弓白蚁"
 latin: "Amitermes westraliensis"
 zh: "西澳弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1929"
+type_locality: "Australia: Western Australia: Darlot"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

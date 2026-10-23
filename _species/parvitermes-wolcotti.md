@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes wolcotti 沃尔科特微白蚁"
+title: "Parvitermes wolcotti Snyder, 1924 沃尔科特微白蚁"
 latin: "Parvitermes wolcotti"
 zh: "沃尔科特微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1924"
+type_locality: "Puerto Rico: Boquerón"
+distribution_zh: "波多黎各、美国、英属维尔京群岛"
+distribution_en: "Puerto Rico, United States, British Virgin Islands"
+synonym_count: 0
 ---

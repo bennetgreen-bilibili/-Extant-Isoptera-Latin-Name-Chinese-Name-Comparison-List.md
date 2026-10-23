@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes ferrugineus 铁锈须白蚁"
+title: "Hospitalitermes ferrugineus John, 1925 铁锈须白蚁"
 latin: "Hospitalitermes ferrugineus"
 zh: "铁锈须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "John, 1925"
+type_locality: "Indonesia: Sumatra: Siak: Sungei Pinang"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

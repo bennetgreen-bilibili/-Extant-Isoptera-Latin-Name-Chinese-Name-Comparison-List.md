@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes microdens 小齿钩白蚁"
+title: "Ancistrotermes microdens Harris, 1966 小齿钩白蚁"
 latin: "Ancistrotermes microdens"
 zh: "小齿钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1966"
+type_locality: "Kenya: Kisumu"
+distribution_zh: "东非、肯尼亚、乌干达"
+distribution_en: "East Africa, Kenya, Uganda"
+synonym_count: 0
 ---

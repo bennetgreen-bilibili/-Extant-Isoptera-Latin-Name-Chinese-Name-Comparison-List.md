@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes impedians 慢行无利器白蚁"
+title: "Astalotermes impedians Sands, 1972 慢行无利器白蚁"
 latin: "Astalotermes impedians"
 zh: "慢行无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Zambia: Ndola"
+distribution_zh: "非洲热带、赞比亚"
+distribution_en: "tropical Africa, Zambia"
+synonym_count: 0
 ---

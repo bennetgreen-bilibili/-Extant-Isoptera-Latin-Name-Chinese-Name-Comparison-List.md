@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes leptomandibularis 细颚散白蚁"
+title: "Reticulitermes leptomandibularis Hsia & Fan, 1965 细颚散白蚁"
 latin: "Reticulitermes leptomandibularis"
 zh: "细颚散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hsia & Fan, 1965"
+type_locality: "China: Fujian Province: Yung-an"
+distribution_zh: "东亚、台湾、中国"
+distribution_en: "East Asia, Taiwan, China"
+synonym_count: 0
 ---

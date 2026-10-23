@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Synacanthotermes trilobatus 三裂聚刺白蚁"
+title: "Synacanthotermes trilobatus Sjöstedt, 1926 三裂聚刺白蚁"
 latin: "Synacanthotermes trilobatus"
 zh: "三裂聚刺白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Democratic Republic of the Congo: Kananga"
+distribution_zh: "安哥拉、刚果民主共和国、马拉维、赞比亚"
+distribution_en: "Angola, Democratic Republic of the Congo, Malawi, Zambia"
+synonym_count: 1
+synonyms: "Synacanthotermes angolensis Weidner, 1956: 68-72"
+synonym_localities: "Angola: Dundo"
 ---

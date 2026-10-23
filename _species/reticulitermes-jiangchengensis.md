@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes jiangchengensis 江城散白蚁"
+title: "Reticulitermes jiangchengensis Yang, Zhu & Huang, 1992 江城散白蚁"
 latin: "Reticulitermes jiangchengensis"
 zh: "江城散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Yang, Zhu & Huang, 1992"
+type_locality: "China: Yunnan Province: Autonomous County of Jiangcheng: Kangping"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

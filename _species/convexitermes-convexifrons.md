@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Convexitermes convexifrons 凸额凸白蚁"
+title: "Convexitermes convexifrons Holmgren, 1906 凸额凸白蚁"
 latin: "Convexitermes convexifrons"
 zh: "凸额凸白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1906"
+type_locality: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+distribution_zh: "巴西、哥伦比亚、玻利维亚、厄瓜多尔、秘鲁、巴拉圭、特立尼达"
+distribution_en: "Brazil, Colombia, Bolivia, Ecuador, Peru, Paraguay, Trinidad"
+synonym_count: 0
 ---

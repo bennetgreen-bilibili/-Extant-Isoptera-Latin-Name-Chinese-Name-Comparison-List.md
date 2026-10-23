@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cylindrotermes sapiranga 萨皮兰加圆筒白蚁"
+title: "Cylindrotermes sapiranga Rocha & Cancello, 2007 萨皮兰加圆筒白蚁"
 latin: "Cylindrotermes sapiranga"
 zh: "萨皮兰加圆筒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cylindrotermitinae"
 subfamily_id: "cylindrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2007"
+type_locality: "Brasil: Bahia: Mata de São João, Reserva da Sapiranga [ 12.565S 38.032W ]"
+distribution_zh: "新热带界"
+distribution_en: "Neotropics"
+synonym_count: 0
 ---

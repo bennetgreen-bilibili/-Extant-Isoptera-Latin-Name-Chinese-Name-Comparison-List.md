@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lophotermes crinitus 多毛小脊突白蚁"
+title: "Lophotermes crinitus Miller, 1991 多毛小脊突白蚁"
 latin: "Lophotermes crinitus"
 zh: "多毛小脊突白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Queensland: 37 km S by E of Cooktown"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

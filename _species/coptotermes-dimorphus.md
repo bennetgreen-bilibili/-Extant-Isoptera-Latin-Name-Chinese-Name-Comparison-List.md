@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes dimorphus 二型乳白蚁"
+title: "Coptotermes dimorphus Xia & He, 1986 二型乳白蚁"
 latin: "Coptotermes dimorphus"
 zh: "二型乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia & He, 1986"
+type_locality: "China: Yunnan Province: Hekou County"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes matangensis matangensis 指名亚种"
+title: "Nasutitermes matangensis matangensis Haviland, 1898 指名亚种"
 latin: "Nasutitermes matangensis matangensis"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,9 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes matangensis"
 parent_zh: "马登象白蚁"
 parent_slug: "nasutitermes-matangensis"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak: Matang"
+synonym_count: 2
+synonyms: "Eutermes (Eutermes) matangensiformis Holmgren, 1913: 185; Eutermes djemberensis Kemner, 1934: 128-129"
+synonym_localities: "Malaysia: Sarawak; Indonesia: Java: Jember"
 ---

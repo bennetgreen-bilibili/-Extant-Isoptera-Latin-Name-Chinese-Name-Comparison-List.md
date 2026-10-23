@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes parvidens 小齿弓白蚁"
+title: "Amitermes parvidens Gay, 1968 小齿弓白蚁"
 latin: "Amitermes parvidens"
 zh: "小齿弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: 68 mi NNE Kalgoorlie"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

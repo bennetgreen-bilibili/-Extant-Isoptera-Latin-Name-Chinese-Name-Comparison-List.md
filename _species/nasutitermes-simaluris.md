@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes simaluris 锡默卢象白蚁"
+title: "Nasutitermes simaluris Oshima, 1923 锡默卢象白蚁"
 latin: "Nasutitermes simaluris"
 zh: "锡默卢象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1923"
+type_locality: "Indonesia: Sumatra: Pulu Babi; Sumatra: Simeulue; Sumatra: Simeulue, Sinabang"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

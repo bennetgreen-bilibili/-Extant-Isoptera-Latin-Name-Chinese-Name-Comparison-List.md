@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes bequaertianus 贝奎特锯白蚁"
+title: "Microcerotermes bequaertianus Sjöstedt, 1913 贝奎特锯白蚁"
 latin: "Microcerotermes bequaertianus"
 zh: "贝奎特锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1913"
+type_locality: "Democratic Republic of the Congo: Limumbashi"
+distribution_zh: "刚果民主共和国、科特迪瓦"
+distribution_en: "Democratic Republic of the Congo, Côte d'Ivoire"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes yinae 尹氏散白蚁"
+title: "Reticulitermes yinae Zhu, Huang & Li, 1986 尹氏散白蚁"
 latin: "Reticulitermes yinae"
 zh: "尹氏散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu, Huang & Li, 1986"
+type_locality: "China: Yunnan Province: Simao"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

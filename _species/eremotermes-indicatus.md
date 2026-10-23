@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eremotermes indicatus 指示漠白蚁"
+title: "Eremotermes indicatus Silvestri, 1911 指示漠白蚁"
 latin: "Eremotermes indicatus"
 zh: "指示漠白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1911"
+type_locality: "Tunisia: Kairouan"
+distribution_zh: "利比亚、突尼斯"
+distribution_en: "Libya, Tunisia"
+synonym_count: 0
 ---

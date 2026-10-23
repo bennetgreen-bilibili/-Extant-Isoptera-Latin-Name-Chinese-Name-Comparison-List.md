@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes citrinus 柠黄散白蚁"
+title: "Reticulitermes citrinus Ping & Li, 1982 柠黄散白蚁"
 latin: "Reticulitermes citrinus"
 zh: "柠黄散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1982"
+type_locality: "China: Zhejiang Province: Longquan County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

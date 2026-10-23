@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nitiditermes aemulus 竞争净白蚁"
+title: "Nitiditermes aemulus Silvestri, 1914 竞争净白蚁"
 latin: "Nitiditermes aemulus"
 zh: "竞争净白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Conakry"
+distribution_zh: "几内亚"
+distribution_en: "Guinea"
+synonym_count: 0
 ---

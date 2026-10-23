@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes emersoni 埃默森角白蚁"
+title: "Angulitermes emersoni Akhtar, 1975 埃默森角白蚁"
 latin: "Angulitermes emersoni"
 zh: "埃默森角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Dariadighi"
+distribution_zh: "孟加拉国"
+distribution_en: "Bangladesh"
+synonym_count: 0
 ---

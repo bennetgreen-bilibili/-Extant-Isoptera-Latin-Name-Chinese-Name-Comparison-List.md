@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stolotermes australicus 澳大利亚胄白蚁"
+title: "Stolotermes australicus Mjöberg, 1920 澳大利亚胄白蚁"
 latin: "Stolotermes australicus"
 zh: "澳大利亚胄白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STOLOTERMITIDAE"
 family_id: "stolotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Ravenshoe"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

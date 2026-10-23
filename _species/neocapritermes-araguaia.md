@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neocapritermes araguaia 阿拉瓜亚新扭白蚁"
+title: "Neocapritermes araguaia Krishna & Araujo, 1968 阿拉瓜亚新扭白蚁"
 latin: "Neocapritermes araguaia"
 zh: "阿拉瓜亚新扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna & Araujo, 1968"
+type_locality: "Brasil: Goiás: Goiás, Fazenda Piedade [ 15.645S 50.5813W ]"
+distribution_zh: "巴西、法属圭亚那"
+distribution_en: "Brazil, French Guiana"
+synonym_count: 0
 ---

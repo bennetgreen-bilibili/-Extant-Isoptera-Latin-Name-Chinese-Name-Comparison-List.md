@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes sinensis 中华象白蚁"
+title: "Nasutitermes sinensis Gao & Tian, 1990 中华象白蚁"
 latin: "Nasutitermes sinensis"
 zh: "中华象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Tian, 1990"
+type_locality: "China: Sichuan Province: Hejiang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

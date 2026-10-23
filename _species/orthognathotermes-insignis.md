@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes insignis 醒目直颚白蚁"
+title: "Orthognathotermes insignis Araujo, 1977 醒目直颚白蚁"
 latin: "Orthognathotermes insignis"
 zh: "醒目直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Araujo, 1977"
+type_locality: "Brasil: São Paulo: São Paulo, Morumbi (district) [ 23.61S 46.715W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

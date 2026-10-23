@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes sichuanensis 四川钝颚白蚁"
+title: "Ahmaditermes sichuanensis Xia, Gao, Pan & Tang, 1983 四川钝颚白蚁"
 latin: "Ahmaditermes sichuanensis"
 zh: "四川钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia, Gao, Pan & Tang, 1983"
+type_locality: "China: Sichuan Province: Hejiang"
+distribution_zh: "中国四川"
+distribution_en: "China (Sichuan)"
+synonym_count: 0
 ---

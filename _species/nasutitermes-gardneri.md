@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes gardneri 尖鼻象白蚁"
+title: "Nasutitermes gardneri Snyder, 1933 尖鼻象白蚁"
 latin: "Nasutitermes gardneri"
 zh: "尖鼻象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1933"
+type_locality: "India: West Bengal: Darjeeling: Rangirum"
+distribution_zh: "不丹、中国、印度"
+distribution_en: "Bhutan, China, India"
+synonym_count: 0
 ---

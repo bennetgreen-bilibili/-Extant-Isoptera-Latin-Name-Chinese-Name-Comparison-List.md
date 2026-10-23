@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes jinghongensis 景洪须白蚁"
+title: "Hospitalitermes jinghongensis He & Gao, 1984 景洪须白蚁"
 latin: "Hospitalitermes jinghongensis"
 zh: "景洪须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Gao, 1984"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国云南、景洪"
+distribution_en: "China (Yunnan), Jinghong"
+synonym_count: 0
 ---

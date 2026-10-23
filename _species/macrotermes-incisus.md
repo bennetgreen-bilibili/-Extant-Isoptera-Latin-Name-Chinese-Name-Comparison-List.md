@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes incisus 凹缘大白蚁"
+title: "Macrotermes incisus He & Qiu, 1990 凹缘大白蚁"
 latin: "Macrotermes incisus"
 zh: "凹缘大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Qiu, 1990"
+type_locality: "China: Guizhou Province"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes heimi 埃姆锯白蚁"
+title: "Microcerotermes heimi Wasmann, 1902 埃姆锯白蚁"
 latin: "Microcerotermes heimi"
 zh: "埃姆锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1902"
+type_locality: "India: Maharashtra: Ahmednagar District: Wallon"
+distribution_zh: "南亚、印度、斯里兰卡、巴基斯坦"
+distribution_en: "South Asia, India, Sri Lanka, Pakistan"
+synonym_count: 0
 ---

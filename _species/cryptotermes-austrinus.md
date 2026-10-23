@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes austrinus 澳大利亚堆砂白蚁"
+title: "Cryptotermes austrinus Gay & Watson, 1982 澳大利亚堆砂白蚁"
 latin: "Cryptotermes austrinus"
 zh: "澳大利亚堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Gay & Watson, 1982"
+type_locality: "Australia: Western Australia, 6 mi E of Gnowangerup"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes hunanensis 湖南散白蚁"
+title: "Reticulitermes hunanensis Tsai & Peng, 1980 湖南散白蚁"
 latin: "Reticulitermes hunanensis"
 zh: "湖南散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Peng, 1980"
+type_locality: "China: Hunan Province: Yizhang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

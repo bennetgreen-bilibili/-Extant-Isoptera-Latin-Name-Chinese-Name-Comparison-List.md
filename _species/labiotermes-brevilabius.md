@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Labiotermes brevilabius 短唇厚唇白蚁"
+title: "Labiotermes brevilabius Emerson & Banks, 1965 短唇厚唇白蚁"
 latin: "Labiotermes brevilabius"
 zh: "短唇厚唇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson & Banks, 1965"
+type_locality: "Brasil: São Paulo: Novo Horizonte [21.4681S 49.2208W]"
+distribution_zh: "巴西、玻利维亚"
+distribution_en: "Brazil, Bolivia"
+synonym_count: 0
 ---

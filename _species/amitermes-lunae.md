@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes lunae 卢纳弓白蚁"
+title: "Amitermes lunae Scheffrahn & Huchet, 2010 卢纳弓白蚁"
 latin: "Amitermes lunae"
 zh: "卢纳弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn & Huchet, 2010"
+type_locality: "Peru: La Libertad: Huaca de la Luna, near Trujillo [ 8.135S 78.991W ]"
+distribution_zh: "秘鲁、厄瓜多尔"
+distribution_en: "Peru, Ecuador"
+synonym_count: 0
 ---

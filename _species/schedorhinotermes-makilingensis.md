@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes makilingensis 马吉岭长鼻白蚁"
+title: "Schedorhinotermes makilingensis Acda, 2007 马吉岭长鼻白蚁"
 latin: "Schedorhinotermes makilingensis"
 zh: "马吉岭长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Acda, 2007"
+type_locality: "Philippines: Luzon: Laguna: Los Baños; Mt. Makiling"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

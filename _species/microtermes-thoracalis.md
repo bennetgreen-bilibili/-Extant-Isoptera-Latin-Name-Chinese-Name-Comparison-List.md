@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes thoracalis 胸突小白蚁"
+title: "Microtermes thoracalis Sjöstedt, 1926 胸突小白蚁"
 latin: "Microtermes thoracalis"
 zh: "胸突小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Sudan: Wad Medani"
+distribution_zh: "西非、科特迪瓦、苏丹"
+distribution_en: "West Africa, Côte d'Ivoire, Sudan"
+synonym_count: 0
 ---

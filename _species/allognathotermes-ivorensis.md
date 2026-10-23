@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Allognathotermes ivorensis 象牙海岸异颚白蚁"
+title: "Allognathotermes ivorensis Grassé & Noirot, 1955 象牙海岸异颚白蚁"
 latin: "Allognathotermes ivorensis"
 zh: "象牙海岸异颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé & Noirot, 1955"
+type_locality: "Ivory Coast: Ferkessédougou"
+distribution_zh: "西非"
+distribution_en: "West Africa"
+synonym_count: 0
 ---

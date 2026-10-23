@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes wallonensis 瓦隆土白蚁"
+title: "Odontotermes wallonensis Wasmann, 1902 瓦隆土白蚁"
 latin: "Odontotermes wallonensis"
 zh: "瓦隆土白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1902"
+type_locality: "India: Maharashtra: Ahmadnagar District: Sangamner: Wallon"
+distribution_zh: "南亚印度"
+distribution_en: "South Asia (India)"
+synonym_count: 1
+synonyms: "Odontotermes brunneus kushwahai Roonwal & Bose, 1964: 33-36"
+synonym_localities: "India: Rajasthan: Udaipur District: Bhupalsagar, near Udaipur"
 ---

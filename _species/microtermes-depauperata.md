@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes depauperata 矮小小白蚁"
+title: "Microtermes depauperata Silvestri, 1914 矮小小白蚁"
 latin: "Microtermes depauperata"
 zh: "矮小小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

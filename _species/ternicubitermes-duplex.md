@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ternicubitermes duplex 含糊三方白蚁"
+title: "Ternicubitermes duplex Holmgren, 1913 含糊三方白蚁"
 latin: "Ternicubitermes duplex"
 zh: "含糊三方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "South Africa: Zululand: junction of Mfolosi and Mkosi"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes profuscipennis 似暗翅象白蚁"
+title: "Nasutitermes profuscipennis Akhtar, 1975 似暗翅象白蚁"
 latin: "Nasutitermes profuscipennis"
 zh: "似暗翅象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Adampur"
+distribution_zh: "孟加拉国、印度、泰国"
+distribution_en: "Bangladesh, India, Thailand"
+synonym_count: 0
 ---

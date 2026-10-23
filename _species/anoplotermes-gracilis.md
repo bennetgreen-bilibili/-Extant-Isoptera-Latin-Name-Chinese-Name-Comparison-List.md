@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes gracilis 细瘦解甲白蚁"
+title: "Anoplotermes gracilis Snyder, 1922 细瘦解甲白蚁"
 latin: "Anoplotermes gracilis"
 zh: "细瘦解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1922"
+type_locality: "Panama: Ancon"
+distribution_zh: "法属圭亚那、巴拿马"
+distribution_en: "French Guiana, Panama"
+synonym_count: 0
 ---

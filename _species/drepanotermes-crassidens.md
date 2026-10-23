@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Drepanotermes crassidens 厚齿镰白蚁"
+title: "Drepanotermes crassidens Watson & Perry, 1981 厚齿镰白蚁"
 latin: "Drepanotermes crassidens"
 zh: "厚齿镰白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Perry, 1981"
+type_locality: "Australia: Western Australia: Eurardy Station"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

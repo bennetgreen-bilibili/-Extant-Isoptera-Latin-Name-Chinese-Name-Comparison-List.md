@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes longipennis 长翅新白蚁"
+title: "Neotermes longipennis Kemner, 1930 长翅新白蚁"
 latin: "Neotermes longipennis"
 zh: "长翅新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Kemner, 1930"
+type_locality: "Indonesia: Sumatra: Fort de Kock"
+distribution_zh: "印尼"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

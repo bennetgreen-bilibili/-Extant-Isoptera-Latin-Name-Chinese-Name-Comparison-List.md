@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes boveni 博韦土白蚁"
+title: "Odontotermes boveni Thakur, 1981 博韦土白蚁"
 latin: "Odontotermes boveni"
 zh: "博韦土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1981"
+type_locality: "India: Uttarakhand: Garhwal: Gwaldam"
+distribution_zh: "南亚印度、尼泊尔"
+distribution_en: "South Asia, India, Nepal"
+synonym_count: 0
 ---

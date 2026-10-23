@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ruptitermes cangua 圆头腹爆白蚁"
+title: "Ruptitermes cangua Acioli & Constantino, 2015 圆头腹爆白蚁"
 latin: "Ruptitermes cangua"
 zh: "圆头腹爆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Acioli & Constantino, 2015"
+type_locality: "Brasil: Rondônia: Vilhena [ 12.8S 60.1W ]"
+distribution_zh: "南美洲、法属圭亚那、巴西"
+distribution_en: "South America, French Guiana, Brazil"
+synonym_count: 0
 ---

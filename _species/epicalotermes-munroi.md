@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Epicalotermes munroi 芒罗上木白蚁"
+title: "Epicalotermes munroi Coaton, 1949 芒罗上木白蚁"
 latin: "Epicalotermes munroi"
 zh: "芒罗上木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Coaton, 1949"
+type_locality: "South Africa: Saltpan, near Hammanskraal"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

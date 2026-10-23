@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes nissanensis 尼桑树白蚁"
+title: "Glyptotermes nissanensis Krishna & Emerson, 1962 尼桑树白蚁"
 latin: "Glyptotermes nissanensis"
 zh: "尼桑树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krishna & Emerson, 1962"
+type_locality: "Papua New Guinea: Green Islands: Nissan Island"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

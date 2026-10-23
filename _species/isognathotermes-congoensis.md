@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Isognathotermes congoensis 刚果等颚白蚁"
+title: "Isognathotermes congoensis Emerson, 1928 刚果等颚白蚁"
 latin: "Isognathotermes congoensis"
 zh: "刚果等颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Banana"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

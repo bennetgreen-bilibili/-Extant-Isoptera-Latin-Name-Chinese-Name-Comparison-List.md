@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes perparvus 似微象白蚁"
+title: "Nasutitermes perparvus Ahmad, 1965 似微象白蚁"
 latin: "Nasutitermes perparvus"
 zh: "似微象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Wang Nok An"
+distribution_zh: "越南、马来西亚、泰国"
+distribution_en: "Vietnam, Malaysia, Thailand"
+synonym_count: 0
 ---

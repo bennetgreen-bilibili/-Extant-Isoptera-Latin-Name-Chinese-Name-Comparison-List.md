@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes prewensis 普鲁士土白蚁"
+title: "Odontotermes prewensis Manzoor & Akhtar, 2005 普鲁士土白蚁"
 latin: "Odontotermes prewensis"
 zh: "普鲁士土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Manzoor & Akhtar, 2005"
+type_locality: "Thailand: Prew"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

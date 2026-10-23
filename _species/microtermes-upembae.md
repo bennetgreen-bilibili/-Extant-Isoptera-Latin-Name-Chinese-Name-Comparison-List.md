@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes upembae 乌彭巴小白蚁"
+title: "Microtermes upembae Harris, 1958 乌彭巴小白蚁"
 latin: "Microtermes upembae"
 zh: "乌彭巴小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1958"
+type_locality: "Democratic Republic of the Congo: \"Parc National de l’Upemba, River Lupiala, affl. dr. Lufira.\""
+distribution_zh: "中非、刚果民主共和国"
+distribution_en: "Central African Republic, Democratic Republic of the Congo"
+synonym_count: 0
 ---

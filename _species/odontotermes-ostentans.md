@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes ostentans 显形土白蚁"
+title: "Odontotermes ostentans Silvestri, 1912 显形土白蚁"
 latin: "Odontotermes ostentans"
 zh: "显形土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Sao Tome and Principe: Ribeira Palma, Aguã Izé; Ribeira Palma, Aguã Izé"
+distribution_zh: "圣多美和普林西比"
+distribution_en: "São Tomé and Príncipe"
+synonym_count: 0
 ---

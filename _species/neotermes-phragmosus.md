@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes phragmosus 护穴新白蚁"
+title: "Neotermes phragmosus Krecek & Scheffrahn, 2003 护穴新白蚁"
 latin: "Neotermes phragmosus"
 zh: "护穴新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krecek & Scheffrahn, 2003"
+type_locality: "Cuba: Guantánamo Province: Tortuguilla"
+distribution_zh: "墨西哥、古巴"
+distribution_en: "Mexico, Cuba"
+synonym_count: 0
 ---

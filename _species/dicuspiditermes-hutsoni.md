@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes hutsoni 赫特森突扭白蚁"
+title: "Dicuspiditermes hutsoni Kemner, 1926 赫特森突扭白蚁"
 latin: "Dicuspiditermes hutsoni"
 zh: "赫特森突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1926"
+type_locality: "Sri Lanka: Pelmadulla"
+distribution_zh: "南亚、斯里兰卡"
+distribution_en: "South Asia, Sri Lanka"
+synonym_count: 0
 ---

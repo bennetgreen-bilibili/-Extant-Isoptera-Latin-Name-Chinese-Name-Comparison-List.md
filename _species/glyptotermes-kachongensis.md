@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes kachongensis 卡冲树白蚁"
+title: "Glyptotermes kachongensis Ahmad, 1965 卡冲树白蚁"
 latin: "Glyptotermes kachongensis"
 zh: "卡冲树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "泰国、马来西亚"
+distribution_en: "Thailand, Malaysia"
+synonym_count: 0
 ---

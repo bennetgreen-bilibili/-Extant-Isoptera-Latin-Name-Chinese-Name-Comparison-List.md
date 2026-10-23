@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Acholotermes tithasus 体大顺白蚁"
+title: "Acholotermes tithasus Sands, 1972 体大顺白蚁"
 latin: "Acholotermes tithasus"
 zh: "体大顺白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Yangambi"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 0
 ---

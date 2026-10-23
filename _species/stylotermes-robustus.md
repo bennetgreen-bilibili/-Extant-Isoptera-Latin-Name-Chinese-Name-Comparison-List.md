@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes robustus 宏壮杆白蚁"
+title: "Stylotermes robustus Ping & Li, 1981 宏壮杆白蚁"
 latin: "Stylotermes robustus"
 zh: "宏壮杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Li, 1981"
+type_locality: "China: Sichuan Province: Xichang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

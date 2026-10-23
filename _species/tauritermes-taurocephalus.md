@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tauritermes taurocephalus 牛头牛白蚁"
+title: "Tauritermes taurocephalus Silvestri, 1901 牛头牛白蚁"
 latin: "Tauritermes taurocephalus"
 zh: "牛头牛白蚁"
 type: true
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso do Sul: Corumbá [ 19.017S 57.65W ]"
+distribution_zh: "巴西、阿根廷、玻利维亚"
+distribution_en: "Brazil, Argentina, Bolivia"
+synonym_count: 0
 ---

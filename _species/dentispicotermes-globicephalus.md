@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dentispicotermes globicephalus 球头齿尖白蚁"
+title: "Dentispicotermes globicephalus Silvestri, 1901 球头齿尖白蚁"
 latin: "Dentispicotermes globicephalus"
 zh: "球头齿尖白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1901"
+type_locality: "Brasil: Mato Grosso: Cuiabá [ 15.5961S 56.0967W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

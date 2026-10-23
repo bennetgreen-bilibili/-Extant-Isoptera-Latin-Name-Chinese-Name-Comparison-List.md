@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes cameroni 卡梅伦锯白蚁"
+title: "Microcerotermes cameroni Snyder, 1934 卡梅伦锯白蚁"
 latin: "Microcerotermes cameroni"
 zh: "卡梅伦锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1934"
+type_locality: "India: Tamil Nadu: Madras: North Vellore District"
+distribution_zh: "南亚、印度、马来西亚"
+distribution_en: "South Asia, India, Malaysia"
+synonym_count: 0
 ---

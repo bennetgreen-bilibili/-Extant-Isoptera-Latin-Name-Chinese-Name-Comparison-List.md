@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes jinyunicus 缙云杆白蚁"
+title: "Stylotermes jinyunicus Ping & Chen, 1981 缙云杆白蚁"
 latin: "Stylotermes jinyunicus"
 zh: "缙云杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Chen, 1981"
+type_locality: "China: Sichuan Province: Jinyunshan, Shongqing Shi"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

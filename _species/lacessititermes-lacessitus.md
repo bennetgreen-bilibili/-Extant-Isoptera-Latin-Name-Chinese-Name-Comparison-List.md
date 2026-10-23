@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes lacessitus 紧张怒白蚁"
+title: "Lacessititermes lacessitus Haviland, 1898 紧张怒白蚁"
 latin: "Lacessititermes lacessitus"
 zh: "紧张怒白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Singapore: ?"
+distribution_zh: "马来西亚、新加坡"
+distribution_en: "Malaysia, Singapore"
+synonym_count: 0
 ---

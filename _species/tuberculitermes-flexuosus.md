@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tuberculitermes flexuosus 弯曲小瘤白蚁"
+title: "Tuberculitermes flexuosus Roy-Noël, 1969 弯曲小瘤白蚁"
 latin: "Tuberculitermes flexuosus"
 zh: "弯曲小瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roy-Noël, 1969"
+type_locality: "Senegal: Niokolo-Koba region, near pool of Siminti"
+distribution_zh: "西非、布基纳法索"
+distribution_en: "West Africa, Burkina Faso"
+synonym_count: 0
 ---

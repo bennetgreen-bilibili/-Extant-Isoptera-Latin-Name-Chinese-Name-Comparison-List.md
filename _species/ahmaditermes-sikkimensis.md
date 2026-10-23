@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes sikkimensis 锡金钝颚白蚁"
+title: "Ahmaditermes sikkimensis Mukherjee & Maiti, 2008 锡金钝颚白蚁"
 latin: "Ahmaditermes sikkimensis"
 zh: "锡金钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mukherjee & Maiti, 2008"
+type_locality: "India: Sikkim: Ranipool, near Gangtok"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

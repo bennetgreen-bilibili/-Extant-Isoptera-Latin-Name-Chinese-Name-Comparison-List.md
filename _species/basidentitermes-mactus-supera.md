@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes mactus supera 上亚种"
+title: "Basidentitermes mactus supera Silvestri, 1914 上亚种"
 latin: "Basidentitermes mactus supera"
 zh: "上亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Basidentitermes mactus"
 parent_zh: "荣耀基齿白蚁"
 parent_slug: "basidentitermes-mactus"
+author_year: "Silvestri, 1914"
+type_locality: "Nigeria: Olokemeji"
+synonym_count: 0
 ---

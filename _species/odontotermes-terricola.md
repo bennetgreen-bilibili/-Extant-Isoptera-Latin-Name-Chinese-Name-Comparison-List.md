@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes terricola 地栖土白蚁"
+title: "Odontotermes terricola Sjöstedt, 1902 地栖土白蚁"
 latin: "Odontotermes terricola"
 zh: "地栖土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1902"
+type_locality: "Cameroon: Johann-Albrechtshöhe"
+distribution_zh: "中非喀麦隆、东非坦桑尼亚、刚果民主共和国、加蓬"
+distribution_en: "Central Africa, Cameroon, East Africa, Tanzania, Democratic Republic of the Congo, Gabon"
+synonym_count: 0
 ---

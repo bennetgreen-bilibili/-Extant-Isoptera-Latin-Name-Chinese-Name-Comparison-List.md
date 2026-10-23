@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Noditermes indoensis 因多节白蚁"
+title: "Noditermes indoensis Sjöstedt, 1926 因多节白蚁"
 latin: "Noditermes indoensis"
 zh: "因多节白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Congo: Indo"
+distribution_zh: "中非、加蓬、刚果盆地、喀麦隆、刚果（布）、刚果民主共和国、坦桑尼亚"
+distribution_en: "Central Africa, Gabon, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Tanzania"
+synonym_count: 0
 ---

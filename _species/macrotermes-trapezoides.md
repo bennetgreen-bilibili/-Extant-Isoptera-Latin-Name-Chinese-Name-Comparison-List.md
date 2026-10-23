@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes trapezoides 梯头大白蚁"
+title: "Macrotermes trapezoides Ping & Xu, 1985 梯头大白蚁"
 latin: "Macrotermes trapezoides"
 zh: "梯头大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1985"
+type_locality: "China: Guangdong Province: Hainan Island: Ya County"
+distribution_zh: "中国海南、崖县"
+distribution_en: "Hainan, China, Yaxian"
+synonym_count: 0
 ---

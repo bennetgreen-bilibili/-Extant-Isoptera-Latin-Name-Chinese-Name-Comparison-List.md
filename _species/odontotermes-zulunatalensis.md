@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes zulunatalensis 祖鲁纳塔尔土白蚁"
+title: "Odontotermes zulunatalensis Sjöstedt, 1924 祖鲁纳塔尔土白蚁"
 latin: "Odontotermes zulunatalensis"
 zh: "祖鲁纳塔尔土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "South Africa: Zululand"
+distribution_zh: "非洲南部南非"
+distribution_en: "southern Africa (South Africa)"
+synonym_count: 0
 ---

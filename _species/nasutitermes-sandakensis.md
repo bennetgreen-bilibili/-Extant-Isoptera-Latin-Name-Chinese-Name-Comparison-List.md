@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes sandakensis 山打根象白蚁"
+title: "Nasutitermes sandakensis Oshima, 1914 山打根象白蚁"
 latin: "Nasutitermes sandakensis"
 zh: "山打根象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1914"
+type_locality: "Malaysia: Sabah: Sandakan"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes sinensis 中华华扭白蚁"
+title: "Sinocapritermes sinensis Ping & Xu, 1986 中华华扭白蚁"
 latin: "Sinocapritermes sinensis"
 zh: "中华华扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1986"
+type_locality: "China: Yunnan Province: Tengchong, Xian"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

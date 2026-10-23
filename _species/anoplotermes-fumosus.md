@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes fumosus 烟色解甲白蚁"
+title: "Anoplotermes fumosus Hagen, 1860 烟色解甲白蚁"
 latin: "Anoplotermes fumosus"
 zh: "烟色解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hagen, 1860"
+type_locality: "Mexico: Veracruz"
+distribution_zh: "巴西、墨西哥、美国"
+distribution_en: "Brazil, Mexico, United States"
+synonym_count: 0
 ---

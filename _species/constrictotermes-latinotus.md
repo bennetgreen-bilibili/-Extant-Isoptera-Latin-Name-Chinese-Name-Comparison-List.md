@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Constrictotermes latinotus 宽背缩白蚁"
+title: "Constrictotermes latinotus Holmgren, 1910 宽背缩白蚁"
 latin: "Constrictotermes latinotus"
 zh: "宽背缩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Ecuador: ?"
+distribution_zh: "厄瓜多尔、哥伦比亚"
+distribution_en: "Ecuador, Colombia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes braunsi 布劳恩斯弓白蚁"
+title: "Amitermes braunsi Fuller, 1922 布劳恩斯弓白蚁"
 latin: "Amitermes braunsi"
 zh: "布劳恩斯弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1922"
+type_locality: "South Africa: Cape Province: Willowmore"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

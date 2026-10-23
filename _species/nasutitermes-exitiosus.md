@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes exitiosus 破坏象白蚁"
+title: "Nasutitermes exitiosus Hill, 1925 破坏象白蚁"
 latin: "Nasutitermes exitiosus"
 zh: "破坏象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1925"
+type_locality: "Australia: Western Australia: Ludlow"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 1
+synonyms: "Termes australis Walker, 1853: 525-526"
+synonym_localities: "Australia: South Australia: Adelaide"
 ---

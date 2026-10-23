@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes javanicus nymanni 尼曼亚种"
+title: "Odontotermes javanicus nymanni Holmgren, 1913 尼曼亚种"
 latin: "Odontotermes javanicus nymanni"
 zh: "尼曼亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes javanicus"
 parent_zh: "爪哇土白蚁"
 parent_slug: "odontotermes-javanicus"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Java"
+synonym_count: 0
 ---

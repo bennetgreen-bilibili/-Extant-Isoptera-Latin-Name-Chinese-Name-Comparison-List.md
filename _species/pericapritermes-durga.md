@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes durga 杜尔加近扭白蚁"
+title: "Pericapritermes durga Roonwal & Chhotani, 1962 杜尔加近扭白蚁"
 latin: "Pericapritermes durga"
 zh: "杜尔加近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Meghalaya: Cherrapunji"
+distribution_zh: "印度、不丹"
+distribution_en: "India, Bhutan"
+synonym_count: 0
 ---

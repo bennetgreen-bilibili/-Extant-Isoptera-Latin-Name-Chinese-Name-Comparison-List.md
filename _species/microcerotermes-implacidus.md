@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes implacidus 易动锯白蚁"
+title: "Microcerotermes implacidus Hill, 1942 易动锯白蚁"
 latin: "Microcerotermes implacidus"
 zh: "易动锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: New South Wales: 32 km SE Griffith"
+distribution_zh: "大洋洲、澳大利亚"
+distribution_en: "Oceania, Australia"
+synonym_count: 0
 ---

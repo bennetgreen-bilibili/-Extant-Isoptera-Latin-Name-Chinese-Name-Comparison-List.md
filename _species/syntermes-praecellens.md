@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syntermes praecellens 优越聚白蚁"
+title: "Syntermes praecellens Silvestri, 1945 优越聚白蚁"
 latin: "Syntermes praecellens"
 zh: "优越聚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1945"
+type_locality: "Brasil: São Paulo: São Paulo [23.53S 46.62W]"
+distribution_zh: "巴西、玻利维亚"
+distribution_en: "Brazil, Bolivia"
+synonym_count: 0
 ---

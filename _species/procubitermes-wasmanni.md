@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procubitermes wasmanni 沃斯曼原方白蚁"
+title: "Procubitermes wasmanni Emerson, 1928 沃斯曼原方白蚁"
 latin: "Procubitermes wasmanni"
 zh: "沃斯曼原方白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Cameroon: Bipindi"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

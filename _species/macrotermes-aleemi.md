@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes aleemi 阿利姆大白蚁"
+title: "Macrotermes aleemi Akhtar, 1975 阿利姆大白蚁"
 latin: "Macrotermes aleemi"
 zh: "阿利姆大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Ukhia"
+distribution_zh: "南亚、印度、孟加拉国"
+distribution_en: "South Asia, India, Bangladesh"
+synonym_count: 0
 ---

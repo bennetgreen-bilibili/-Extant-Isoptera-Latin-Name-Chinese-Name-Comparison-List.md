@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes bhagwatii 巴格瓦蒂土白蚁"
+title: "Odontotermes bhagwatii Chatterjee & Thakur, 1967 巴格瓦蒂土白蚁"
 latin: "Odontotermes bhagwatii"
 zh: "巴格瓦蒂土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Thakur, 1967"
+type_locality: "India: Punjab: Pathankot, near the railway station"
+distribution_zh: "南亚印度"
+distribution_en: "South Asia (India)"
+synonym_count: 0
 ---

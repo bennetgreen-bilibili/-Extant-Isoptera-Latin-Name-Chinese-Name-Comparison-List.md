@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes nemoralis 树林锯白蚁"
+title: "Microcerotermes nemoralis Harris, 1954 树林锯白蚁"
 latin: "Microcerotermes nemoralis"
 zh: "树林锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1954"
+type_locality: "Tanzania: Kasulu"
+distribution_zh: "坦桑尼亚、赞比亚"
+distribution_en: "Tanzania, Zambia"
+synonym_count: 0
 ---

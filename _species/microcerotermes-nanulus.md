@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes nanulus 短小锯白蚁"
+title: "Microcerotermes nanulus Sjöstedt, 1925 短小锯白蚁"
 latin: "Microcerotermes nanulus"
 zh: "短小锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1925"
+type_locality: "Benin: Agouagou"
+distribution_zh: "贝宁、科特迪瓦"
+distribution_en: "Benin, Côte d'Ivoire"
+synonym_count: 0
 ---

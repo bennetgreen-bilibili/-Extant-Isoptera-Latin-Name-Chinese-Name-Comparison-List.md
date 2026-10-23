@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes buddha 大佛宽白蚁"
+title: "Eurytermes buddha Bose & Maiti, 1966 大佛宽白蚁"
 latin: "Eurytermes buddha"
 zh: "大佛宽白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose & Maiti, 1966"
+type_locality: "India: Tamil Nadu: Coimbatore District: Coimbatore"
+distribution_zh: "印度、泰米尔纳德邦"
+distribution_en: "India, Tamil Nadu"
+synonym_count: 0
 ---

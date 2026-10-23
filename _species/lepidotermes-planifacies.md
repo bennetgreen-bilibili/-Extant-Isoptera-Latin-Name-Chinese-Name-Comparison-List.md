@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lepidotermes planifacies 扁形鳞白蚁"
+title: "Lepidotermes planifacies Williams, 1954 扁形鳞白蚁"
 latin: "Lepidotermes planifacies"
 zh: "扁形鳞白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Williams, 1954"
+type_locality: "Tanzania: Tanga District: Ngomeni"
+distribution_zh: "非洲南部、南非"
+distribution_en: "southern Africa, South Africa"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes proximus 最新土白蚁"
+title: "Odontotermes proximus Holmgren, 1914 最新土白蚁"
 latin: "Odontotermes proximus"
 zh: "最新土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Malaysia: Taiping: Maxwell’s Hill"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

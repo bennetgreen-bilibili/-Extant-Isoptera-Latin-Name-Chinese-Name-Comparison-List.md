@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Epicalotermes planifrons 扁额上木白蚁"
+title: "Epicalotermes planifrons Krishna, 1962 扁额上木白蚁"
 latin: "Epicalotermes planifrons"
 zh: "扁额上木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krishna, 1962"
+type_locality: "Madagascar: 15 km SE Tuléar"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

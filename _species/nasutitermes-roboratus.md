@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes roboratus 强壮象白蚁"
+title: "Nasutitermes roboratus Silvestri, 1914 强壮象白蚁"
 latin: "Nasutitermes roboratus"
 zh: "强壮象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Myanmar: Moulmein"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
 ---

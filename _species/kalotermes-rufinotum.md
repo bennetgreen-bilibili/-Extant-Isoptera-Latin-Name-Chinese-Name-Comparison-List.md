@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kalotermes rufinotum 红背木白蚁"
+title: "Kalotermes rufinotum Hill, 1925 红背木白蚁"
 latin: "Kalotermes rufinotum"
 zh: "红背木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hill, 1925"
+type_locality: "Australia: Victoria: Seaford"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

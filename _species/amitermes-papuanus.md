@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes papuanus 巴布亚弓白蚁"
+title: "Amitermes papuanus Roisin, 1990 巴布亚弓白蚁"
 latin: "Amitermes papuanus"
 zh: "巴布亚弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin, 1990"
+type_locality: "Papua New Guinea: Western Province: Morehead"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

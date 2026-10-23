@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes mactus mactus 指名亚种"
+title: "Basidentitermes mactus mactus Sjöstedt, 1911 指名亚种"
 latin: "Basidentitermes mactus mactus"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,9 @@ clade_latin: "Geoisoptera"
 parent_latin: "Basidentitermes mactus"
 parent_zh: "荣耀基齿白蚁"
 parent_slug: "basidentitermes-mactus"
+author_year: "Sjöstedt, 1911"
+type_locality: "Guinea: ?"
+synonym_count: 1
+synonyms: "Basidentitermes bivalens Silvestri, 1914: 119-121"
+synonym_localities: "Cameroon: Victoria"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes flavoantennaris 黄触角须白蚁"
+title: "Hospitalitermes flavoantennaris Oshima, 1923 黄触角须白蚁"
 latin: "Hospitalitermes flavoantennaris"
 zh: "黄触角须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1923"
+type_locality: "Indonesia: Sumatra: Simeulue, Sinabang"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

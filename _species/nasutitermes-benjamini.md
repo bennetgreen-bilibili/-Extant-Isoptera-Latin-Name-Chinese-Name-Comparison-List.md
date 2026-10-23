@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes benjamini 本杰明象白蚁"
+title: "Nasutitermes benjamini Snyder, 1926 本杰明象白蚁"
 latin: "Nasutitermes benjamini"
 zh: "本杰明象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1926"
+type_locality: "Mauritius: ?"
+distribution_zh: "毛里求斯"
+distribution_en: "Mauritius"
+synonym_count: 0
 ---

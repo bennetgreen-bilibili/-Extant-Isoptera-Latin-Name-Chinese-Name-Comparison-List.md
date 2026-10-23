@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes porifex 具孔尖白蚁"
+title: "Apicotermes porifex Emerson, 1953 具孔尖白蚁"
 latin: "Apicotermes porifex"
 zh: "具孔尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1953"
+type_locality: "Democratic Republic of the Congo: Luluabourg"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

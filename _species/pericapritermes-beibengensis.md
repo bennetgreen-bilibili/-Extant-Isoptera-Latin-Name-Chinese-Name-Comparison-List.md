@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes beibengensis 背崩近扭白蚁"
+title: "Pericapritermes beibengensis Huang & Han, 1987 背崩近扭白蚁"
 latin: "Pericapritermes beibengensis"
 zh: "背崩近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Huang & Han, 1987"
+type_locality: "China: Tibet: Medog"
+distribution_zh: "中国西藏"
+distribution_en: "China (Tibet)"
+synonym_count: 0
 ---

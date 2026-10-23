@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes goesswaldi 格斯瓦尔德尖白蚁"
+title: "Apicotermes goesswaldi Bouillon, 1966 格斯瓦尔德尖白蚁"
 latin: "Apicotermes goesswaldi"
 zh: "格斯瓦尔德尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bouillon, 1966"
+type_locality: "Democratic Republic of the Congo: Mayumbe region, Kakongo, near Lemba River on the side of Pemo village"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

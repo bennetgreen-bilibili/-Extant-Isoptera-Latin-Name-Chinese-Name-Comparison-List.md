@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes fidens 纤齿土白蚁"
+title: "Odontotermes fidens Sjöstedt, 1904 纤齿土白蚁"
 latin: "Odontotermes fidens"
 zh: "纤齿土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Gabon: Ogowe; Ghana: Accra"
+distribution_zh: "喀麦隆、刚果民主共和国、加蓬、加纳、尼日利亚"
+distribution_en: "Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria"
+synonym_count: 0
 ---

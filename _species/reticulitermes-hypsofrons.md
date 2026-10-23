@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes hypsofrons 高额散白蚁"
+title: "Reticulitermes hypsofrons Ping & Li, 1981 高额散白蚁"
 latin: "Reticulitermes hypsofrons"
 zh: "高额散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Li, 1981"
+type_locality: "China: Fujian Province: Dazhulan, Jianyang Xian"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Heterotermes brevicatena 短链异白蚁"
+title: "Heterotermes brevicatena Watson & Miller, 1989 短链异白蚁"
 latin: "Heterotermes brevicatena"
 zh: "短链异白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Watson & Miller, 1989"
+type_locality: "Australia: New South Wales: Binya State Forest"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

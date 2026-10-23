@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes pakistanicus 巴基斯坦锯白蚁"
+title: "Microcerotermes pakistanicus Akhtar, 1974 巴基斯坦锯白蚁"
 latin: "Microcerotermes pakistanicus"
 zh: "巴基斯坦锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: North West Frontier Province: Parachinar"
+distribution_zh: "南亚、巴基斯坦、印度、伊朗、马来西亚"
+distribution_en: "South Asia, Pakistan, India, Iran, Malaysia"
+synonym_count: 0
 ---

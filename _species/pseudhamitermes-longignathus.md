@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudhamitermes longignathus 长颚伪钩白蚁"
+title: "Pseudhamitermes longignathus Ahmad, 1965 长颚伪钩白蚁"
 latin: "Pseudhamitermes longignathus"
 zh: "长颚伪钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Huay Yang"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---

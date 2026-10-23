@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes simalurensis 锡马卢土白蚁"
+title: "Odontotermes simalurensis Oshima, 1923 锡马卢土白蚁"
 latin: "Odontotermes simalurensis"
 zh: "锡马卢土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1923"
+type_locality: "Indonesia: Sumatra: Simeulue, Sinabang"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

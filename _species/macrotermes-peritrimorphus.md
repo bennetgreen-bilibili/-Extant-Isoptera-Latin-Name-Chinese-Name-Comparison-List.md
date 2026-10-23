@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes peritrimorphus 近三型大白蚁"
+title: "Macrotermes peritrimorphus Li & Xiao, 1989 近三型大白蚁"
 latin: "Macrotermes peritrimorphus"
 zh: "近三型大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Xiao, 1989"
+type_locality: "China: Guangxi Province: Huashuichong Forest: Hexian"
+distribution_zh: "中国广西、贺县滑水冲"
+distribution_en: "Guangxi, China, Hexian Huashuichong"
+synonym_count: 0
 ---

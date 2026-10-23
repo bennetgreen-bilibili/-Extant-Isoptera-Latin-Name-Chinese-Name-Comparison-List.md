@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes pyricephalus 梨头钝颚白蚁"
+title: "Ahmaditermes pyricephalus Akhtar, 1975 梨头钝颚白蚁"
 latin: "Ahmaditermes pyricephalus"
 zh: "梨头钝颚白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Adampur"
+distribution_zh: "湖南（宜章）、孟加拉国、印度"
+distribution_en: "Hunan (Yizhang), Bangladesh, India"
+synonym_count: 0
 ---

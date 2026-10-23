@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes marcidus 凋零冢白蚁"
+title: "Tumulitermes marcidus Hill, 1942 凋零冢白蚁"
 latin: "Tumulitermes marcidus"
 zh: "凋零冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Torres Strait: Moa (Banks) Island"
+distribution_zh: "澳大利亚、巴布亚新几内亚"
+distribution_en: "Australia, Papua New Guinea"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes yunnanensis 云南亮白蚁"
+title: "Euhamitermes yunnanensis Ping & Xu, 1987 云南亮白蚁"
 latin: "Euhamitermes yunnanensis"
 zh: "云南亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1987"
+type_locality: "China: Yunnan Province: Damenglong"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

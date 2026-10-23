@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes fumigatus 烟色象白蚁"
+title: "Nasutitermes fumigatus Brauer, 1865 烟色象白蚁"
 latin: "Nasutitermes fumigatus"
 zh: "烟色象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Brauer, 1865"
+type_locality: "Australia: New South Wales: Sydney"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes proflaviventris 似黄腹须白蚁"
+title: "Hospitalitermes proflaviventris Akhtar & Akbar, 1986 似黄腹须白蚁"
 latin: "Hospitalitermes proflaviventris"
 zh: "似黄腹须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Akbar, 1986"
+type_locality: "Malaysia: Penang: Pantai Acheh Forest Reserve"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

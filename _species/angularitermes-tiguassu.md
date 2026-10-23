@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angularitermes tiguassu 毛鼻棱角白蚁"
+title: "Angularitermes tiguassu Cancello & Brandão, 1996 毛鼻棱角白蚁"
 latin: "Angularitermes tiguassu"
 zh: "毛鼻棱角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Cancello & Brandão, 1996"
+type_locality: "Brasil: Goiás: Goiânia [16.67S 49.27W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

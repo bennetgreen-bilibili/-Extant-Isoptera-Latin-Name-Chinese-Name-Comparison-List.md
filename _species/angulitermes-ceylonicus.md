@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes ceylonicus 锡兰角白蚁"
+title: "Angulitermes ceylonicus Holmgren, 1914 锡兰角白蚁"
 latin: "Angulitermes ceylonicus"
 zh: "锡兰角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Sri Lanka: Maha-Iluppalama"
+distribution_zh: "斯里兰卡"
+distribution_en: "Sri Lanka"
+synonym_count: 0
 ---

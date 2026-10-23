@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes ramulosus 支脉土白蚁"
+title: "Odontotermes ramulosus Sjöstedt, 1904 支脉土白蚁"
 latin: "Odontotermes ramulosus"
 zh: "支脉土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Tanzania: Kondoa"
+distribution_zh: "东非坦桑尼亚"
+distribution_en: "East Africa (Tanzania)"
+synonym_count: 0
 ---

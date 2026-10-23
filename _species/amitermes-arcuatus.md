@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes arcuatus 弧颚弓白蚁"
+title: "Amitermes arcuatus Gay, 1968 弧颚弓白蚁"
 latin: "Amitermes arcuatus"
 zh: "弧颚弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Queensland: 75 mi SSW Cunnamulla"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

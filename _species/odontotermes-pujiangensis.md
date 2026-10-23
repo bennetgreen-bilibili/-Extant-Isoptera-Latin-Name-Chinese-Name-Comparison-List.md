@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes pujiangensis 浦江土白蚁"
+title: "Odontotermes pujiangensis Fan, 1988 浦江土白蚁"
 latin: "Odontotermes pujiangensis"
 zh: "浦江土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fan, 1988"
+type_locality: "China: Zhejiang Province: Pujiang County"
+distribution_zh: "中国浙江"
+distribution_en: "China (Zhejiang)"
+synonym_count: 0
 ---

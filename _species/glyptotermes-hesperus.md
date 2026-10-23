@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes hesperus 川西树白蚁"
+title: "Glyptotermes hesperus Gao, Zhu & Han, 1981 川西树白蚁"
 latin: "Glyptotermes hesperus"
 zh: "川西树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Gao, Zhu & Han, 1981"
+type_locality: "China: Sichuan Province: Chengdu"
+distribution_zh: "中国四川"
+distribution_en: "China (Sichuan)"
+synonym_count: 0
 ---

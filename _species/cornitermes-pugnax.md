@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes pugnax 好斗角象白蚁"
+title: "Cornitermes pugnax Emerson, 1925 好斗角象白蚁"
 latin: "Cornitermes pugnax"
 zh: "好斗角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+distribution_zh: "巴西、法属圭亚那、哥伦比亚、秘鲁、圭亚那、苏里南、厄瓜多尔、委内瑞拉"
+distribution_en: "Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela"
+synonym_count: 0
 ---

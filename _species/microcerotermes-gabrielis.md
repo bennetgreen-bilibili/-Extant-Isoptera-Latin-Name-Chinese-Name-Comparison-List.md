@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes gabrielis 加布里埃利斯锯白蚁"
+title: "Microcerotermes gabrielis Weidner, 1955 加布里埃利斯锯白蚁"
 latin: "Microcerotermes gabrielis"
 zh: "加布里埃利斯锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1955"
+type_locality: "Iraq: Tauq am Tschai"
+distribution_zh: "南亚、中东、阿富汗、伊朗"
+distribution_en: "South Asia, Middle East, Afghanistan, Iran"
+synonym_count: 0
 ---

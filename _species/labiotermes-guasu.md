@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Labiotermes guasu 大厚唇白蚁"
+title: "Labiotermes guasu Constantino & Acioli, 2006 大厚唇白蚁"
 latin: "Labiotermes guasu"
 zh: "大厚唇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino & Acioli, 2006"
+type_locality: "Brasil: Amazonas: Benjamin Constant, Nova Aliança [4.35S 69.6W]"
+distribution_zh: "巴西、哥伦比亚、秘鲁"
+distribution_en: "Brazil, Colombia, Peru"
+synonym_count: 0
 ---

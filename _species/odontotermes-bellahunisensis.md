@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes bellahunisensis 贝拉胡尼斯土白蚁"
+title: "Odontotermes bellahunisensis Holmgren & Holmgren, 1917 贝拉胡尼斯土白蚁"
 latin: "Odontotermes bellahunisensis"
 zh: "贝拉胡尼斯土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren & Holmgren, 1917"
+type_locality: "India: Karnataka [Mysore], Bellary District: Bellahunisi"
+distribution_zh: "南亚印度"
+distribution_en: "South Asia (India)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes xiangyunensis 祥云钝颚白蚁"
+title: "Ahmaditermes xiangyunensis Gao & Gong, 1989 祥云钝颚白蚁"
 latin: "Ahmaditermes xiangyunensis"
 zh: "祥云钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Gong, 1989"
+type_locality: "China: Yunnan Province: Xiangyun County"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

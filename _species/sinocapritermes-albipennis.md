@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinocapritermes albipennis 白翅华扭白蚁"
+title: "Sinocapritermes albipennis Tsai & Chen, 1963 白翅华扭白蚁"
 latin: "Sinocapritermes albipennis"
 zh: "白翅华扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Yunnan Province: ChinPing"
+distribution_zh: "中国、云南"
+distribution_en: "China, Yunnan"
+synonym_count: 0
 ---

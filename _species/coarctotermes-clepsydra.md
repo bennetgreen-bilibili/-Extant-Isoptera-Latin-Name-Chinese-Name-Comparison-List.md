@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coarctotermes clepsydra 漏壶缩狭白蚁"
+title: "Coarctotermes clepsydra Sjöstedt, 1904 漏壶缩狭白蚁"
 latin: "Coarctotermes clepsydra"
 zh: "漏壶缩狭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Madagascar: Fianarantsoa"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes silvaticus 森林伪扭白蚁"
+title: "Pseudocapritermes silvaticus Kemner, 1934 森林伪扭白蚁"
 latin: "Pseudocapritermes silvaticus"
 zh: "森林伪扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Depok"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

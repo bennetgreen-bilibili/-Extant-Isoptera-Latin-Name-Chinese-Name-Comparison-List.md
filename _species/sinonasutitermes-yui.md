@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinonasutitermes yui 尤氏华象白蚁"
+title: "Sinonasutitermes yui Ping & Xu, 1991 尤氏华象白蚁"
 latin: "Sinonasutitermes yui"
 zh: "尤氏华象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1991"
+type_locality: "China: Hainan Province: Baisha County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

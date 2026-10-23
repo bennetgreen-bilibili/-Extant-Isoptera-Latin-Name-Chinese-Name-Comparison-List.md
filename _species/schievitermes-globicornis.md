@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schievitermes globicornis 球角不对称白蚁"
+title: "Schievitermes globicornis Roisin, 2022 球角不对称白蚁"
 latin: "Schievitermes globicornis"
 zh: "球角不对称白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin, 2022"
+type_locality: "French Guiana: Petit Saut Dam Road, Carbet Maman Lézard [ 5.0672N 52.9992W ]"
+distribution_zh: "法属圭亚那"
+distribution_en: "French Guiana"
+synonym_count: 0
 ---

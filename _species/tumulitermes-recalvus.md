@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes recalvus 无毛冢白蚁"
+title: "Tumulitermes recalvus Hill, 1942 无毛冢白蚁"
 latin: "Tumulitermes recalvus"
 zh: "无毛冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Homestead"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

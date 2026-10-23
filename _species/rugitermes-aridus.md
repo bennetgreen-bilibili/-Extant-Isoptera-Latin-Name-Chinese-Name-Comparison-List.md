@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rugitermes aridus 干皱白蚁"
+title: "Rugitermes aridus Scheffrahn, 2020 干皱白蚁"
 latin: "Rugitermes aridus"
 zh: "干皱白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Scheffrahn, 2020"
+type_locality: "Peru: Huánuco: Huánuco city [ 9.877S 76.1641W ]"
+distribution_zh: "秘鲁"
+distribution_en: "Peru"
+synonym_count: 0
 ---

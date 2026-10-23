@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes labralis 圆唇杆白蚁"
+title: "Stylotermes labralis Ping & Liu, 1981 圆唇杆白蚁"
 latin: "Stylotermes labralis"
 zh: "圆唇杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Ping & Liu, 1981"
+type_locality: "China: Sichuan Province: Dechang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

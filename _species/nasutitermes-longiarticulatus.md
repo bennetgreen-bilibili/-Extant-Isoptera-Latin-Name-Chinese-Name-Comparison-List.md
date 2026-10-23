@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes longiarticulatus 显长象白蚁"
+title: "Nasutitermes longiarticulatus Holmgren, 1910 显长象白蚁"
 latin: "Nasutitermes longiarticulatus"
 zh: "显长象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Brasil: Mato Grosso: Cuiabá, Coxipó (district) [15.627S 56.058W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

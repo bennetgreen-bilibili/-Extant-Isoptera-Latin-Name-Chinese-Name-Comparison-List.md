@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ibitermes inflatus 高唇基地球白蚁"
+title: "Ibitermes inflatus Vasconcellos, 2002 高唇基地球白蚁"
 latin: "Ibitermes inflatus"
 zh: "高唇基地球白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Vasconcellos, 2002"
+type_locality: "Brasil: Paraíba: Reserva Biológica Guaribas [6.8S 35.095W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

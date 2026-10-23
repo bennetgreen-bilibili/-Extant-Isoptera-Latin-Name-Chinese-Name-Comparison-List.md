@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Glyptotermes taveuniensis 塔韦乌尼树白蚁"
+title: "Glyptotermes taveuniensis Hill, 1926 塔韦乌尼树白蚁"
 latin: "Glyptotermes taveuniensis"
 zh: "塔韦乌尼树白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hill, 1926"
+type_locality: "Fiji: Taveuni"
+distribution_zh: "斐济"
+distribution_en: "Fiji"
+synonym_count: 0
 ---

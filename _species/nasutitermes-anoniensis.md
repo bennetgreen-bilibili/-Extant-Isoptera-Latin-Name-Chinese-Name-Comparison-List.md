@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes anoniensis 阿诺尼象白蚁"
+title: "Nasutitermes anoniensis Akhtar, 1975 阿诺尼象白蚁"
 latin: "Nasutitermes anoniensis"
 zh: "阿诺尼象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1975"
+type_locality: "Bangladesh: Anoni"
+distribution_zh: "孟加拉国"
+distribution_en: "Bangladesh"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes flaveolus 微黄微白蚁"
+title: "Parvitermes flaveolus Banks, 1919 微黄微白蚁"
 latin: "Parvitermes flaveolus"
 zh: "微黄微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Banks, 1919"
+type_locality: "Haiti: Ennery; Manneville; Petionville; St. Marc"
+distribution_zh: "多米尼加、海地"
+distribution_en: "Dominican Republic, Haiti"
+synonym_count: 0
 ---

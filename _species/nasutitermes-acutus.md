@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes acutus 尖锐象白蚁"
+title: "Nasutitermes acutus Holmgren, 1913 尖锐象白蚁"
 latin: "Nasutitermes acutus"
 zh: "尖锐象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Java: Wonosobo"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 2
+synonyms: "Eutermes (Eutermes) buitenzorgi Holmgren, 1914: 263-264; Eutermes (Eutermes) pengarensis Oshima, 1914: 39-40"
+synonym_localities: "Indonesia: ?Java: Bogor; ?Sumatra: Tandjong Slamat; Malaysia: Johore: Pengaran"
 ---

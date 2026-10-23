@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes acholus 阿彻鲁斯无利器白蚁"
+title: "Astalotermes acholus Sands, 1972 阿彻鲁斯无利器白蚁"
 latin: "Astalotermes acholus"
 zh: "阿彻鲁斯无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Democratic Republic of the Congo: Bas-Congo: Mbamba"
+distribution_zh: "非洲热带、喀麦隆、刚果民主共和国、坦桑尼亚"
+distribution_en: "tropical Africa, Cameroon, Democratic Republic of the Congo, Tanzania"
+synonym_count: 0
 ---

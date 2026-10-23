@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Schedorhinotermes insolitus 异盟长鼻白蚁"
+title: "Schedorhinotermes insolitus Xia & He, 1980 异盟长鼻白蚁"
 latin: "Schedorhinotermes insolitus"
 zh: "异盟长鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "RHINOTERMITIDAE"
 family_id: "rhinotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Xia & He, 1980"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes losbanosensis 洛斯巴尼奥斯锯白蚁"
+title: "Microcerotermes losbanosensis Oshima, 1914 洛斯巴尼奥斯锯白蚁"
 latin: "Microcerotermes losbanosensis"
 zh: "洛斯巴尼奥斯锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1914"
+type_locality: "Philippines: Luzon: Los Banos"
+distribution_zh: "东南亚、菲律宾"
+distribution_en: "Southeast Asia, Philippines"
+synonym_count: 0
 ---

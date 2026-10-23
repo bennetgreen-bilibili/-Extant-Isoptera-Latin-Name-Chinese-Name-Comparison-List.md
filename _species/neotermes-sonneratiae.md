@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes sonneratiae 海桑新白蚁"
+title: "Neotermes sonneratiae Kemner, 1932 海桑新白蚁"
 latin: "Neotermes sonneratiae"
 zh: "海桑新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Kemner, 1932"
+type_locality: "Indonesia: Java: Batavia"
+distribution_zh: "印尼"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

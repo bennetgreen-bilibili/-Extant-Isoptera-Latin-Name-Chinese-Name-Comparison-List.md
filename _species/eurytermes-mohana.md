@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eurytermes mohana 莫罕娜宽白蚁"
+title: "Eurytermes mohana Rathore, 1995 莫罕娜宽白蚁"
 latin: "Eurytermes mohana"
 zh: "莫罕娜宽白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rathore, 1995"
+type_locality: "India: Rajasthan: Mandal, 71 km E Bhilwara"
+distribution_zh: "东洋界、印度"
+distribution_en: "Oriental region, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Mirocapritermes latignathus 宽颚瘤白蚁"
+title: "Mirocapritermes latignathus Ahmad, 1965 宽颚瘤白蚁"
 latin: "Mirocapritermes latignathus"
 zh: "宽颚瘤白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Ka-Chong"
+distribution_zh: "泰国、马来西亚"
+distribution_en: "Thailand, Malaysia"
+synonym_count: 0
 ---

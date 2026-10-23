@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lophotermes brevicephalus 短头小脊突白蚁"
+title: "Lophotermes brevicephalus Miller, 1991 短头小脊突白蚁"
 latin: "Lophotermes brevicephalus"
 zh: "短头小脊突白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Queensland: Weipa"
+distribution_zh: "澳大利亚、巴布亚新几内亚"
+distribution_en: "Australia, Papua New Guinea"
+synonym_count: 0
 ---

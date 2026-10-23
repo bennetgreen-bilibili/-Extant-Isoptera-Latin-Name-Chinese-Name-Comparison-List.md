@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes ivorensis 象牙海岸大白蚁"
+title: "Macrotermes ivorensis Grassé & Noirot, 1951 象牙海岸大白蚁"
 latin: "Macrotermes ivorensis"
 zh: "象牙海岸大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Grassé & Noirot, 1951"
+type_locality: "Ivory Coast: Adiopodoumé"
+distribution_zh: "西非、科特迪瓦、刚果民主共和国、加蓬、几内亚、尼日利亚、塞内加尔、塞拉利昂"
+distribution_en: "West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Nigeria, Senegal, Sierra Leone"
+synonym_count: 0
 ---

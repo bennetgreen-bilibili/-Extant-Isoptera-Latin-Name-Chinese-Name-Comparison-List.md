@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Zootermopsis laticeps 宽头动白蚁"
+title: "Zootermopsis laticeps Banks, 1906 宽头动白蚁"
 latin: "Zootermopsis laticeps"
 zh: "宽头动白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "ARCHOTERMOPSIDAE"
 family_id: "archotermopsidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
+author_year: "Banks, 1906"
+type_locality: "United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch"
+distribution_zh: "北美西南部、美国、墨西哥"
+distribution_en: "southwestern North America, United States, Mexico"
+synonym_count: 0
 ---

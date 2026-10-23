@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neocapritermes angusticeps 窄头新扭白蚁"
+title: "Neocapritermes angusticeps Emerson, 1925 窄头新扭白蚁"
 latin: "Neocapritermes angusticeps"
 zh: "窄头新扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+distribution_zh: "巴西、法属圭亚那、圭亚那、苏里南、特立尼达和多巴哥、委内瑞拉"
+distribution_en: "Brazil, French Guiana, Guyana, Suriname, Trinidad and Tobago, Venezuela"
+synonym_count: 0
 ---

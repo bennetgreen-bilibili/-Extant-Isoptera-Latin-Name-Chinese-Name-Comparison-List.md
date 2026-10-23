@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes amplilabralis 宽唇新白蚁"
+title: "Neotermes amplilabralis Xu & Han, 1985 宽唇新白蚁"
 latin: "Neotermes amplilabralis"
 zh: "宽唇新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Xu & Han, 1985"
+type_locality: "China: Yunnan Province: Heko"
+distribution_zh: "云南（河口）"
+distribution_en: "Yunnan (Hekou)"
+synonym_count: 0
 ---

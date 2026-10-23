@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Procryptotermes speiseri 斯派泽前砂白蚁"
+title: "Procryptotermes speiseri Holmgren & Holmgren, 1915 斯派泽前砂白蚁"
 latin: "Procryptotermes speiseri"
 zh: "斯派泽前砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Holmgren & Holmgren, 1915"
+type_locality: "Vanuatu: Ambrym"
+distribution_zh: "瓦努阿图"
+distribution_en: "Vanuatu"
+synonym_count: 0
 ---

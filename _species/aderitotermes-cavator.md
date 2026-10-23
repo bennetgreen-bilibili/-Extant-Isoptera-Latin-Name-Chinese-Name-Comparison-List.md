@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Aderitotermes cavator 中空谐白蚁"
+title: "Aderitotermes cavator Sands, 1972 中空谐白蚁"
 latin: "Aderitotermes cavator"
 zh: "中空谐白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Nigeria: Northern Region: Samaru, near Zaria"
+distribution_zh: "西非、喀麦隆、冈比亚、科特迪瓦、尼日利亚"
+distribution_en: "West Africa, Cameroon, Gambia, Ivory Coast, Nigeria"
+synonym_count: 0
 ---

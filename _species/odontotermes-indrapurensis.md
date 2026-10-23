@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes indrapurensis 因德拉普拉土白蚁"
+title: "Odontotermes indrapurensis Holmgren, 1913 因德拉普拉土白蚁"
 latin: "Odontotermes indrapurensis"
 zh: "因德拉普拉土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1913"
+type_locality: "Indonesia: Sumatra: Tandjong: Indrapura Estate"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

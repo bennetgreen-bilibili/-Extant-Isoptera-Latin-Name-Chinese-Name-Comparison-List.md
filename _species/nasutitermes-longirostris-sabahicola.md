@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes longirostris sabahicola 沙巴亚种"
+title: "Nasutitermes longirostris sabahicola Engel & Krishna, 2013 沙巴亚种"
 latin: "Nasutitermes longirostris sabahicola"
 zh: "沙巴亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Nasutitermes longirostris"
 parent_zh: "长喙象白蚁"
 parent_slug: "nasutitermes-longirostris"
+author_year: "Engel & Krishna, 2013"
+type_locality: "Malaysia: Sabah: Lamag District: Tenegang Besar, mile 8"
+synonym_count: 0
 ---

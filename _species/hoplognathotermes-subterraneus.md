@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hoplognathotermes subterraneus 土栖锐颚白蚁"
+title: "Hoplognathotermes subterraneus Silvestri, 1914 土栖锐颚白蚁"
 latin: "Hoplognathotermes subterraneus"
 zh: "土栖锐颚白蚁"
 type: true
@@ -16,4 +16,11 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Camayenne; Conakry; Kakoulima"
+distribution_zh: "西非、科特迪瓦"
+distribution_en: "West Africa, Côte d'Ivoire"
+synonym_count: 1
+synonyms: "Hoplognathotermes subterraneus superior Silvestri, 1914: 28"
+synonym_localities: "Guinea: Mamou"
 ---

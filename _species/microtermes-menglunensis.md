@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes menglunensis 勐仑小白蚁"
+title: "Microtermes menglunensis Zhu & Huang, 1991 勐仑小白蚁"
 latin: "Microtermes menglunensis"
 zh: "勐仑小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Huang, 1991"
+type_locality: "China: Yunnan Province: Mengla County: Menglun"
+distribution_zh: "中国云南、勐仑"
+distribution_en: "Yunnan, China, Menglun"
+synonym_count: 0
 ---

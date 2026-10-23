@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Thoracotermes brevinotus 短背胸白蚁"
+title: "Thoracotermes brevinotus Silvestri, 1914 短背胸白蚁"
 latin: "Thoracotermes brevinotus"
 zh: "短背胸白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Mamou"
+distribution_zh: "西非、几内亚、科特迪瓦"
+distribution_en: "West Africa, Guinea, Côte d'Ivoire"
+synonym_count: 0
 ---

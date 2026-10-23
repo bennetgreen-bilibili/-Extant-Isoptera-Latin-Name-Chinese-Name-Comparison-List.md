@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cornitermes snyderi 斯奈德角象白蚁"
+title: "Cornitermes snyderi Emerson, 1952 斯奈德角象白蚁"
 latin: "Cornitermes snyderi"
 zh: "斯奈德角象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1952"
+type_locality: "Bolivia: Pando: Rosario (near Lake Rogagua) [13.9667S 66.8667W]"
+distribution_zh: "巴西、哥伦比亚、玻利维亚、厄瓜多尔"
+distribution_en: "Brazil, Colombia, Bolivia, Ecuador"
+synonym_count: 0
 ---

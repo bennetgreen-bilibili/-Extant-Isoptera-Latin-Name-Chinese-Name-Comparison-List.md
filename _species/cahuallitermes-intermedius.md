@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cahuallitermes intermedius 中间弃白蚁"
+title: "Cahuallitermes intermedius Snyder, 1922 中间弃白蚁"
 latin: "Cahuallitermes intermedius"
 zh: "中间弃白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Syntermitinae"
 subfamily_id: "syntermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1922"
+type_locality: "Honduras: La Ceiba"
+distribution_zh: "墨西哥、危地马拉、洪都拉斯、伯利兹"
+distribution_en: "Mexico, Guatemala, Honduras, Belize"
+synonym_count: 0
 ---

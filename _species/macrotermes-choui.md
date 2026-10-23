@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes choui 周氏大白蚁"
+title: "Macrotermes choui Ping, 1985 周氏大白蚁"
 latin: "Macrotermes choui"
 zh: "周氏大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping, 1985"
+type_locality: "China: Yunnan Province: Yingjiang County"
+distribution_zh: "中国云南、盈江"
+distribution_en: "Yunnan, China, Yingjiang"
+synonym_count: 0
 ---

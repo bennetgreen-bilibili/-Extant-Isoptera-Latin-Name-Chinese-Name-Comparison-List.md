@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes falcatus 镰颚弓白蚁"
+title: "Amitermes falcatus Gay, 1968 镰颚弓白蚁"
 latin: "Amitermes falcatus"
 zh: "镰颚弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1968"
+type_locality: "Australia: Western Australia: 13 mi N Geraldton"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

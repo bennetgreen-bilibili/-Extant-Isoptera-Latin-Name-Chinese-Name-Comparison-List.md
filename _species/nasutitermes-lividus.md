@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes lividus 青色象白蚁"
+title: "Nasutitermes lividus Burmeister, 1839 青色象白蚁"
 latin: "Nasutitermes lividus"
 zh: "青色象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Burmeister, 1839"
+type_locality: "Dominican Republic: Santo Domingo"
+distribution_zh: "海地、古巴、多米尼加"
+distribution_en: "Haiti, Cuba, Dominican Republic"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes speratus kyushuensis 九州亚种"
+title: "Reticulitermes speratus kyushuensis Morimoto, 1968 九州亚种"
 latin: "Reticulitermes speratus kyushuensis"
 zh: "九州亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Reticulitermes speratus"
 parent_zh: "栖北散白蚁"
 parent_slug: "reticulitermes-speratus"
+author_year: "Morimoto, 1968"
+type_locality: "Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii"
+synonym_count: 0
 ---

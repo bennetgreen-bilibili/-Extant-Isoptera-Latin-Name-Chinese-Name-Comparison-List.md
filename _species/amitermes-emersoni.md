@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes emersoni 埃默森弓白蚁"
+title: "Amitermes emersoni Light, 1930 埃默森弓白蚁"
 latin: "Amitermes emersoni"
 zh: "埃默森弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1930"
+type_locality: "United States: California: Coachella"
+distribution_zh: "墨西哥、美国"
+distribution_en: "Mexico, United States"
+synonym_count: 0
 ---

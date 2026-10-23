@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes dashlibronensis 达什利布龙锯白蚁"
+title: "Microcerotermes dashlibronensis Ghayourfar, 2005 达什利布龙锯白蚁"
 latin: "Microcerotermes dashlibronensis"
 zh: "达什利布龙锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghayourfar, 2005"
+type_locality: "Iran: Golestan Province: Dashlibron"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

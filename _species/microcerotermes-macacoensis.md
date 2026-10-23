@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes macacoensis 马卡古锯白蚁"
+title: "Microcerotermes macacoensis Sjöstedt, 1925 马卡古锯白蚁"
 latin: "Microcerotermes macacoensis"
 zh: "马卡古锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1925"
+type_locality: "Democratic Republic of the Congo: Luebo (Macaco)"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

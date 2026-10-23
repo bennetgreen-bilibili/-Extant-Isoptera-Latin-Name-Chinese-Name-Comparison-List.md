@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Proboscitermes mcgrewi 麦克格鲁象鼻白蚁"
+title: "Proboscitermes mcgrewi Scheffrahn, 2010 麦克格鲁象鼻白蚁"
 latin: "Proboscitermes mcgrewi"
 zh: "麦克格鲁象鼻白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 2010"
+type_locality: "Tanzania: Gombe Stream National Park"
+distribution_zh: "坦桑尼亚"
+distribution_en: "Tanzania"
+synonym_count: 0
 ---

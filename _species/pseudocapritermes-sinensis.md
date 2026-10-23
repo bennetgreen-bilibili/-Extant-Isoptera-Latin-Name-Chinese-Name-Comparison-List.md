@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes sinensis 中华伪扭白蚁"
+title: "Pseudocapritermes sinensis Ping & Xu, 1986 中华伪扭白蚁"
 latin: "Pseudocapritermes sinensis"
 zh: "中华伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1986"
+type_locality: "China: Yunnan Province: Mengla"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

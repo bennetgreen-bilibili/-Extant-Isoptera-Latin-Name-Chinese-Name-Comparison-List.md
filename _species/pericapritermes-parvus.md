@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes parvus 小型近扭白蚁"
+title: "Pericapritermes parvus Bourguignon & Roisin, 2008 小型近扭白蚁"
 latin: "Pericapritermes parvus"
 zh: "小型近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bourguignon & Roisin, 2008"
+type_locality: "Indonesia: Irian Jaya: Pusppenssat-Irja, 50 km from Nabire on Ilaga road"
+distribution_zh: "印度尼西亚、巴布亚新几内亚"
+distribution_en: "Indonesia, Papua New Guinea"
+synonym_count: 0
 ---

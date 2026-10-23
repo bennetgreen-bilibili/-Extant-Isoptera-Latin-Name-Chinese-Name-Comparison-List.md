@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Echinotermes biriba 比里巴多刺白蚁"
+title: "Echinotermes biriba Castro & Scheffrahn, 2020 比里巴多刺白蚁"
 latin: "Echinotermes biriba"
 zh: "比里巴多刺白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Castro & Scheffrahn, 2020"
+type_locality: "Colombia: Caquetá, Belén de los Andaquíes [ 1.60794N 75.8868W ]"
+distribution_zh: "南美洲、哥伦比亚、秘鲁"
+distribution_en: "South America, Colombia, Peru"
+synonym_count: 0
 ---

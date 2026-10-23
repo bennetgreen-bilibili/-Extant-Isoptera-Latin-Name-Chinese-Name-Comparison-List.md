@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Alyscotermes trestus 懦夫逃白蚁"
+title: "Alyscotermes trestus Sands, 1972 懦夫逃白蚁"
 latin: "Alyscotermes trestus"
 zh: "懦夫逃白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Kenya: Narok District: Mara, 9 miles from Olokurto"
+distribution_zh: "埃塞俄比亚、肯尼亚、坦桑尼亚"
+distribution_en: "Ethiopia, Kenya, Tanzania"
+synonym_count: 0
 ---

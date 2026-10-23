@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Speculitermes emersoni 埃默森稀白蚁"
+title: "Speculitermes emersoni Bose, 1984 埃默森稀白蚁"
 latin: "Speculitermes emersoni"
 zh: "埃默森稀白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bose, 1984"
+type_locality: "India: Kerala: Thekkadi"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

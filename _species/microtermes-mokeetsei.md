@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes mokeetsei 莫凯特兹小白蚁"
+title: "Microtermes mokeetsei Fuller, 1922 莫凯特兹小白蚁"
 latin: "Microtermes mokeetsei"
 zh: "莫凯特兹小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Fuller, 1922"
+type_locality: "South Africa: Transvaal: Mokeetse (Koedoes River"
+distribution_zh: "南非"
+distribution_en: "South Africa"
+synonym_count: 0
 ---

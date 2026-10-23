@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrosubulitermes greavesi 格里夫斯大锥白蚁"
+title: "Macrosubulitermes greavesi Hill, 1942 格里夫斯大锥白蚁"
 latin: "Macrosubulitermes greavesi"
 zh: "格里夫斯大锥白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: Queensland: Gadgarra"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

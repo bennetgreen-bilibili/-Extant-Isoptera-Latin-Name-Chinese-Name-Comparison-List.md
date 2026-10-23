@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes dixoni 迪克森象白蚁"
+title: "Nasutitermes dixoni Hill, 1932 迪克森象白蚁"
 latin: "Nasutitermes dixoni"
 zh: "迪克森象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1932"
+type_locality: "Australia: Capital Territory: Blundells Farm, Condor Creek"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

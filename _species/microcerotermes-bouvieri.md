@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes bouvieri 布维尔锯白蚁"
+title: "Microcerotermes bouvieri Desneux, 1904 布维尔锯白蚁"
 latin: "Microcerotermes bouvieri"
 zh: "布维尔锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Desneux, 1904"
+type_locality: "Colombia: Tolima: Mariquita [ 5.2N 74.89W ]"
+distribution_zh: "新热带界、巴西、哥伦比亚、墨西哥"
+distribution_en: "Neotropics, Brazil, Colombia, Mexico"
+synonym_count: 0
 ---

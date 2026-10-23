@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes pallidipes 灰足近扭白蚁"
+title: "Pericapritermes pallidipes Sjöstedt, 1898 灰足近扭白蚁"
 latin: "Pericapritermes pallidipes"
 zh: "灰足近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1898"
+type_locality: "Cameroon: Kribi"
+distribution_zh: "塞拉利昂、喀麦隆"
+distribution_en: "Sierra Leone, Cameroon"
+synonym_count: 0
 ---

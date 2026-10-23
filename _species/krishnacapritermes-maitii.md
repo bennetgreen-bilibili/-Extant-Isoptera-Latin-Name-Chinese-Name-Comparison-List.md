@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Krishnacapritermes maitii 迈蒂克里希纳扭白蚁"
+title: "Krishnacapritermes maitii Chhotani, 1997 迈蒂克里希纳扭白蚁"
 latin: "Krishnacapritermes maitii"
 zh: "迈蒂克里希纳扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1997"
+type_locality: "India: Tamil Nadu: Pumbarai: Palni Hills"
+distribution_zh: "印度、西高止山"
+distribution_en: "India, Western Ghats"
+synonym_count: 0
 ---

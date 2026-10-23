@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Syncapritermes greeni 格林聚扭白蚁"
+title: "Syncapritermes greeni John, 1925 格林聚扭白蚁"
 latin: "Syncapritermes greeni"
 zh: "格林聚扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "John, 1925"
+type_locality: "Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

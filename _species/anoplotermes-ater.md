@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anoplotermes ater 暗黑解甲白蚁"
+title: "Anoplotermes ater Hagen, 1858 暗黑解甲白蚁"
 latin: "Anoplotermes ater"
 zh: "暗黑解甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hagen, 1858"
+type_locality: "Brasil: Rio de Janeiro: Nova Friburgo [ 22.27S 42.53W ]; Colombia: ?"
+distribution_zh: "巴西、阿根廷、哥伦比亚、巴拉圭、秘鲁"
+distribution_en: "Brazil, Argentina, Colombia, Paraguay, Peru"
+synonym_count: 0
 ---

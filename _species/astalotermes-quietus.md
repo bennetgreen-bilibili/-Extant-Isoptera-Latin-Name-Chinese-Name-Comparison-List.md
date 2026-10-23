@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes quietus 宁静无利器白蚁"
+title: "Astalotermes quietus Silvestri, 1914 宁静无利器白蚁"
 latin: "Astalotermes quietus"
 zh: "宁静无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Ghana: Aburi"
+distribution_zh: "西非、中非刚果盆地、喀麦隆、刚果民主共和国、加纳、几内亚、科特迪瓦、尼日利亚、卢旺达、塞拉利昂"
+distribution_en: "West Africa, Central African Congo Basin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Ivory Coast, Nigeria, Rwanda, Sierra Leone"
+synonym_count: 0
 ---

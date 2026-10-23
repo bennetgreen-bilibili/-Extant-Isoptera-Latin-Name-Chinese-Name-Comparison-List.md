@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes cacuminatus 尖齿突扭白蚁"
+title: "Dicuspiditermes cacuminatus Krishna, 2001 尖齿突扭白蚁"
 latin: "Dicuspiditermes cacuminatus"
 zh: "尖齿突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2001"
+type_locality: "Malaysia: Selangor: Sungei Buloh Forest Reserve, 150 ft. altitude"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

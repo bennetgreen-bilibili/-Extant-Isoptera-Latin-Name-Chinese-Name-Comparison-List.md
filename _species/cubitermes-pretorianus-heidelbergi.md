@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cubitermes pretorianus heidelbergi 海德堡亚种"
+title: "Cubitermes pretorianus heidelbergi Fuller, 1925 海德堡亚种"
 latin: "Cubitermes pretorianus heidelbergi"
 zh: "海德堡亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Cubitermes pretorianus"
 parent_zh: "比勒陀利亚方白蚁"
 parent_slug: "cubitermes-pretorianus"
+author_year: "Fuller, 1925"
+type_locality: "South Africa: Transvaal: Heidelberg"
+synonym_count: 0
 ---

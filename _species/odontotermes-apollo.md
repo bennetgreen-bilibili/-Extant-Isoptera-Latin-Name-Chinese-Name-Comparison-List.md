@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes apollo 阿波罗土白蚁"
+title: "Odontotermes apollo Sjöstedt, 1905 阿波罗土白蚁"
 latin: "Odontotermes apollo"
 zh: "阿波罗土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1905"
+type_locality: "Kenya: Eburru [taken from type specimen label]"
+distribution_zh: "东非肯尼亚、坦桑尼亚"
+distribution_en: "East Africa (Kenya, Tanzania)"
+synonym_count: 0
 ---

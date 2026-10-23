@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Longipeditermes kistneri 基斯特纳长足白蚁"
+title: "Longipeditermes kistneri Akhtar & Ahmad, 1985 基斯特纳长足白蚁"
 latin: "Longipeditermes kistneri"
 zh: "基斯特纳长足白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar & Ahmad, 1985"
+type_locality: "Indonesia: Java: Lengkong Forest Reserve"
+distribution_zh: "马来西亚、印度尼西亚"
+distribution_en: "Malaysia, Indonesia"
+synonym_count: 0
 ---

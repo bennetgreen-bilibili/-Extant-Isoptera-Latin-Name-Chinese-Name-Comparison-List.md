@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kaudernitermes salebrithorax 凹胸考登白蚁"
+title: "Kaudernitermes salebrithorax Sjöstedt, 1904 凹胸考登白蚁"
 latin: "Kaudernitermes salebrithorax"
 zh: "凹胸考登白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1904"
+type_locality: "Madagascar: Tolanaro (Fort Dauphin); Seychelles: Silhouette"
+distribution_zh: "马达加斯加、塞舌尔"
+distribution_en: "Madagascar, Seychelles"
+synonym_count: 0
 ---

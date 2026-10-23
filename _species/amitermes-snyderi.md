@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes snyderi 斯奈德弓白蚁"
+title: "Amitermes snyderi Light, 1930 斯奈德弓白蚁"
 latin: "Amitermes snyderi"
 zh: "斯奈德弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1930"
+type_locality: "United States: California: Riverside Co.: Cabazon; California: San Bernardino Co.: Narrows; California: San Bernardino Co.: Rice; California: San Bernardino Co.: Victorville; California: San Diego Co.: San Felipe Ranch"
+distribution_zh: "美国"
+distribution_en: "United States"
+synonym_count: 0
 ---

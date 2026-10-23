@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Atlantitermes oculatissimus 巨眼阿特拉斯白蚁"
+title: "Atlantitermes oculatissimus Emerson, 1925 巨眼阿特拉斯白蚁"
 latin: "Atlantitermes oculatissimus"
 zh: "巨眼阿特拉斯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+distribution_zh: "巴西、哥伦比亚、法属圭亚那、秘鲁、厄瓜多尔、圭亚那"
+distribution_en: "Brazil, Colombia, French Guiana, Peru, Ecuador, Guyana"
+synonym_count: 0
 ---

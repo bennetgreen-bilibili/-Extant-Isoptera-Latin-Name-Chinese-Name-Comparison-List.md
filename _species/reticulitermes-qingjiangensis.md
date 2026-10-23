@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes qingjiangensis 清江散白蚁"
+title: "Reticulitermes qingjiangensis Gao & Wang, 1982 清江散白蚁"
 latin: "Reticulitermes qingjiangensis"
 zh: "清江散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Wang, 1982"
+type_locality: "China: Jiangsu Province: Qingjiang"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

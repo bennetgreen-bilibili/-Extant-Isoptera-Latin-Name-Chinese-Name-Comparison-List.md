@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes lobintactus 叶蛩土白蚁"
+title: "Odontotermes lobintactus Sjöstedt, 1926 叶蛩土白蚁"
 latin: "Odontotermes lobintactus"
 zh: "叶蛩土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1926"
+type_locality: "Democratic Republic of the Congo: Mukimbungu"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

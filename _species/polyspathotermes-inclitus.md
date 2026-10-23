@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Polyspathotermes inclitus 显赫多铲白蚁"
+title: "Polyspathotermes inclitus Silvestri, 1912 显赫多铲白蚁"
 latin: "Polyspathotermes inclitus"
 zh: "显赫多铲白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Zambia: Banguelo"
+distribution_zh: "刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚"
+distribution_en: "Congo, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Uganda, Zambia"
+synonym_count: 1
+synonyms: "Eutermes ( Cubitermes ) domifaber Sjöstedt, 1913: 370-371"
+synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi"
 ---

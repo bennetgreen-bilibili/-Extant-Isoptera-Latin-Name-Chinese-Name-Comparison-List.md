@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes microcephalus 小头散白蚁"
+title: "Reticulitermes microcephalus Zhu, 1984 小头散白蚁"
 latin: "Reticulitermes microcephalus"
 zh: "小头散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu, 1984"
+type_locality: "China: Guangdong Province: Haifeng: Yuandun forestry farm"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

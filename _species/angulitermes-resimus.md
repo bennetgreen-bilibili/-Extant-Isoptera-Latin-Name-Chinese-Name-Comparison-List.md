@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes resimus 高鼻角白蚁"
+title: "Angulitermes resimus Krishna, 1965 高鼻角白蚁"
 latin: "Angulitermes resimus"
 zh: "高鼻角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 1965"
+type_locality: "Myanmar: Maymyo, 22 miles E Mandalay"
+distribution_zh: "缅甸"
+distribution_en: "Myanmar"
+synonym_count: 0
 ---

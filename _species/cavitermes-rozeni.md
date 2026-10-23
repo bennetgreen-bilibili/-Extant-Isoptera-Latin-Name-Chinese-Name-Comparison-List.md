@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cavitermes rozeni 罗森腔白蚁"
+title: "Cavitermes rozeni Krishna, 2003 罗森腔白蚁"
 latin: "Cavitermes rozeni"
 zh: "罗森腔白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2003"
+type_locality: "Brasil: Amazonas: Manaus, Campos Sales [3.0012S 60.0431W]"
+distribution_zh: "巴西、厄瓜多尔"
+distribution_en: "Brazil, Ecuador"
+synonym_count: 0
 ---

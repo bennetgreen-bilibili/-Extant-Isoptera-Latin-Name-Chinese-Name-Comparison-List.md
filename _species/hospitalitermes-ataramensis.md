@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes ataramensis 阿特兰须白蚁"
+title: "Hospitalitermes ataramensis Prashad & Sen-Sarma, 1960 阿特兰须白蚁"
 latin: "Hospitalitermes ataramensis"
 zh: "阿特兰须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Prashad & Sen-Sarma, 1960"
+type_locality: "Myanmar: Pakabo Reserve: Ataram"
+distribution_zh: "柬埔寨、泰国、越南、印度、缅甸"
+distribution_en: "Cambodia, Thailand, Vietnam, India, Myanmar"
+synonym_count: 0
 ---

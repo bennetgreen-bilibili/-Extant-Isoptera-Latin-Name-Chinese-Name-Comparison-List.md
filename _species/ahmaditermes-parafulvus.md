@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes parafulvus 黄色钝颚白蚁"
+title: "Ahmaditermes parafulvus Tsai & Chen, 1963 黄色钝颚白蚁"
 latin: "Ahmaditermes parafulvus"
 zh: "黄色钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Chen, 1963"
+type_locality: "China: Yunnan Province: ChinPing"
+distribution_zh: "中国、越南"
+distribution_en: "China, Vietnam"
+synonym_count: 0
 ---

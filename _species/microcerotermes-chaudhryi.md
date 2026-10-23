@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes chaudhryi 乔德里锯白蚁"
+title: "Microcerotermes chaudhryi Akhtar, 1974 乔德里锯白蚁"
 latin: "Microcerotermes chaudhryi"
 zh: "乔德里锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Akhtar, 1974"
+type_locality: "Pakistan: North West Frontier Province: Hangu"
+distribution_zh: "南亚、巴基斯坦、伊朗"
+distribution_en: "South Asia, Pakistan, Iran"
+synonym_count: 0
 ---

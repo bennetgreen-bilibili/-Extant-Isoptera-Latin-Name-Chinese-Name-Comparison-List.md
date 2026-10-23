@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes kunjepu 昆杰普伪扭白蚁"
+title: "Pseudocapritermes kunjepu Mathew, 2020 昆杰普伪扭白蚁"
 latin: "Pseudocapritermes kunjepu"
 zh: "昆杰普伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathew, 2020"
+type_locality: "India: Kerala: Kottayam, Pinnakkanadu [ 9.63N 76.76E ]"
+distribution_zh: "印度、印度尼西亚"
+distribution_en: "India, Indonesia"
+synonym_count: 0
 ---

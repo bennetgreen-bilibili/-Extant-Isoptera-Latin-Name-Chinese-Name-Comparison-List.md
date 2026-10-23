@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Kalotermes pallidinotum 白背木白蚁"
+title: "Kalotermes pallidinotum Hill, 1942 白背木白蚁"
 latin: "Kalotermes pallidinotum"
 zh: "白背木白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hill, 1942"
+type_locality: "Australia: New South Wales: Pigeon House Range"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

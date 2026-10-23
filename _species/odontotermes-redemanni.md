@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes redemanni 雷德曼土白蚁"
+title: "Odontotermes redemanni Wasmann, 1893 雷德曼土白蚁"
 latin: "Odontotermes redemanni"
 zh: "雷德曼土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Wasmann, 1893"
+type_locality: "Sri Lanka: Colombo"
+distribution_zh: "南亚印度、斯里兰卡、孟加拉国"
+distribution_en: "South Asia, India, Sri Lanka, Bangladesh"
+synonym_count: 0
 ---

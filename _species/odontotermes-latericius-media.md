@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes latericius media 中间亚种"
+title: "Odontotermes latericius media Wasmann, 1912 中间亚种"
 latin: "Odontotermes latericius media"
 zh: "中间亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Odontotermes latericius"
 parent_zh: "似砖土白蚁"
 parent_slug: "odontotermes-latericius"
+author_year: "Wasmann, 1912"
+type_locality: "Sudan: Mongalla"
+synonym_count: 0
 ---

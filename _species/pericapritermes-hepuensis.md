@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes hepuensis 合浦近扭白蚁"
+title: "Pericapritermes hepuensis Gao & Yang, 1990 合浦近扭白蚁"
 latin: "Pericapritermes hepuensis"
 zh: "合浦近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Yang, 1990"
+type_locality: "China: Guangxi Province"
+distribution_zh: "中国广西"
+distribution_en: "China (Guangxi)"
+synonym_count: 0
 ---

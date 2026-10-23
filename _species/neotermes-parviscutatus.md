@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes parviscutatus 小盾新白蚁"
+title: "Neotermes parviscutatus Light, 1930 小盾新白蚁"
 latin: "Neotermes parviscutatus"
 zh: "小盾新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Light, 1930"
+type_locality: "Philippines: Negros Oriental: Dumaguete"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes imphalensis 英帕尔小白蚁"
+title: "Microtermes imphalensis Roonwal & Chhotani, 1962 英帕尔小白蚁"
 latin: "Microtermes imphalensis"
 zh: "英帕尔小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Manipur: Imphal Valley"
+distribution_zh: "南亚、印度曼尼普尔"
+distribution_en: "South Asia, Manipur, India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes cachani 卡占锯白蚁"
+title: "Microcerotermes cachani Eggleton, 2003 卡占锯白蚁"
 latin: "Microcerotermes cachani"
 zh: "卡占锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Eggleton, 2003"
+type_locality: "Madagascar: Antsingy; Beloha; Mandoto"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

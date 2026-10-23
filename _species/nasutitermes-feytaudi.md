@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes feytaudi 费淘德象白蚁"
+title: "Nasutitermes feytaudi Holmgren, 1910 费淘德象白蚁"
 latin: "Nasutitermes feytaudi"
 zh: "费淘德象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

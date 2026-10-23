@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes lepersonneae 勒佩索纳新白蚁"
+title: "Neotermes lepersonneae Coaton, 1955 勒佩索纳新白蚁"
 latin: "Neotermes lepersonneae"
 zh: "勒佩索纳新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Coaton, 1955"
+type_locality: "Democratic Republic of the Congo: Mongbwalu"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

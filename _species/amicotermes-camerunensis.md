@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amicotermes camerunensis 喀麦隆善白蚁"
+title: "Amicotermes camerunensis Sands, 1999 喀麦隆善白蚁"
 latin: "Amicotermes camerunensis"
 zh: "喀麦隆善白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1999"
+type_locality: "Cameroon: Mbalmayo Forest Reserve: Eboufek"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

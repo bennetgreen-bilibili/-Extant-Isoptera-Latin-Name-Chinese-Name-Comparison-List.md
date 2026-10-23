@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes haddoensis 哈多象白蚁"
+title: "Nasutitermes haddoensis Maiti & Chakraborty, 1994 哈多象白蚁"
 latin: "Nasutitermes haddoensis"
 zh: "哈多象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti & Chakraborty, 1994"
+type_locality: "India: Andaman Islands: Port Blair: Zoo Garden: Haddo"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Verrucositermes hirtus 多毛疣白蚁"
+title: "Verrucositermes hirtus Deligne, 1983 多毛疣白蚁"
 latin: "Verrucositermes hirtus"
 zh: "多毛疣白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Deligne, 1983"
+type_locality: "Cameroon: Lomé, near Kribi"
+distribution_zh: "喀麦隆"
+distribution_en: "Cameroon"
+synonym_count: 0
 ---

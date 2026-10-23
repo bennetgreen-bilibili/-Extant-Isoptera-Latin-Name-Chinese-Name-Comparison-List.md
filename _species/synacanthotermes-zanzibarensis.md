@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Synacanthotermes zanzibarensis 桑给巴尔聚刺白蚁"
+title: "Synacanthotermes zanzibarensis Sjöstedt, 1915 桑给巴尔聚刺白蚁"
 latin: "Synacanthotermes zanzibarensis"
 zh: "桑给巴尔聚刺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1915"
+type_locality: "Tanzania: Zanzibar Island: Haïtajawa Hill"
+distribution_zh: "东非、坦桑尼亚、埃塞俄比亚、肯尼亚"
+distribution_en: "East Africa, Tanzania, Ethiopia, Kenya"
+synonym_count: 0
 ---

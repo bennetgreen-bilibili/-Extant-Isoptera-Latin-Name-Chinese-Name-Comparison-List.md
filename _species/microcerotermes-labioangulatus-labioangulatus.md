@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes labioangulatus labioangulatus 指名亚种"
+title: "Microcerotermes labioangulatus labioangulatus Sen-Sarma & Thakur, 1975 指名亚种"
 latin: "Microcerotermes labioangulatus labioangulatus"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microcerotermes labioangulatus"
 parent_zh: "角唇锯白蚁"
 parent_slug: "microcerotermes-labioangulatus"
+author_year: "Sen-Sarma & Thakur, 1975"
+type_locality: "India: Tripura: Ambasa, Zoelchara"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes akengeensis 阿肯土白蚁"
+title: "Odontotermes akengeensis Emerson, 1928 阿肯土白蚁"
 latin: "Odontotermes akengeensis"
 zh: "阿肯土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Akenge"
+distribution_zh: "中非刚果民主共和国"
+distribution_en: "Central African Republic, Democratic Republic of the Congo"
+synonym_count: 0
 ---

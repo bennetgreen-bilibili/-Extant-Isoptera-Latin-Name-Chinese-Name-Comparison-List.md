@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Basidentitermes diversifrons 裂额基齿白蚁"
+title: "Basidentitermes diversifrons Silvestri, 1914 裂额基齿白蚁"
 latin: "Basidentitermes diversifrons"
 zh: "裂额基齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1914"
+type_locality: "Cameroon: Victoria"
+distribution_zh: "旧热带界、喀麦隆、刚果共和国"
+distribution_en: "Old World tropics, Cameroon, Republic of the Congo"
+synonym_count: 0
 ---

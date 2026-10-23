@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Apicotermes emersoni 埃默森尖白蚁"
+title: "Apicotermes emersoni Bouillon, 1966 埃默森尖白蚁"
 latin: "Apicotermes emersoni"
 zh: "埃默森尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Bouillon, 1966"
+type_locality: "Democratic Republic of the Congo: 5 km from the Catholic Mission of Mbata-Mbenge, Mayumbe"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

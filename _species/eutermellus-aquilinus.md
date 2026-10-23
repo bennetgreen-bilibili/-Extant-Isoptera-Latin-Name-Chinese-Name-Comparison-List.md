@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Eutermellus aquilinus 鹰鼻小真白蚁"
+title: "Eutermellus aquilinus Sands, 1965 鹰鼻小真白蚁"
 latin: "Eutermellus aquilinus"
 zh: "鹰鼻小真白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1965"
+type_locality: "Ghana: 20 mi from Bolgatanga on Tamale Road"
+distribution_zh: "非洲热带"
+distribution_en: "tropical Africa"
+synonym_count: 0
 ---

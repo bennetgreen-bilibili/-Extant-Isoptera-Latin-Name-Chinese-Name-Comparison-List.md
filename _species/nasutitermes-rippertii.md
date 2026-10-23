@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes rippertii 里珀特象白蚁"
+title: "Nasutitermes rippertii Rambur, 1842 里珀特象白蚁"
 latin: "Nasutitermes rippertii"
 zh: "里珀特象白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rambur, 1842"
+type_locality: "Cuba: Havana"
+distribution_zh: "古巴、巴哈马、牙买加"
+distribution_en: "Cuba, Bahamas, Jamaica"
+synonym_count: 2
+synonyms: "Eutermes (Eutermes) bahamensis Holmgren, 1910: 290-291; Eutermes (Eutermes) cubanus Holmgren, 1910: 291-292"
+synonym_localities: "Bahamas: New Providence Island; Cuba: ?"
 ---

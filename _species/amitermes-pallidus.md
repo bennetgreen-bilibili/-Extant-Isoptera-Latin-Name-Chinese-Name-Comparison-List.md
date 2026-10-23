@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes pallidus 苍白弓白蚁"
+title: "Amitermes pallidus Light, 1932 苍白弓白蚁"
 latin: "Amitermes pallidus"
 zh: "苍白弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1932"
+type_locality: "United States: Arizona: Sabino Canyon"
+distribution_zh: "美国"
+distribution_en: "United States"
+synonym_count: 0
 ---

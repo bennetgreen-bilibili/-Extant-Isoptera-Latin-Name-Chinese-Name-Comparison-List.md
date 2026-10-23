@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cubitermes pretorianus pretorianus 指名亚种"
+title: "Cubitermes pretorianus pretorianus Silvestri, 1914 指名亚种"
 latin: "Cubitermes pretorianus pretorianus"
 zh: "指名亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Cubitermes pretorianus"
 parent_zh: "比勒陀利亚方白蚁"
 parent_slug: "cubitermes-pretorianus"
+author_year: "Silvestri, 1914"
+type_locality: "South Africa: Transvaal: Pretoria"
+synonym_count: 0
 ---

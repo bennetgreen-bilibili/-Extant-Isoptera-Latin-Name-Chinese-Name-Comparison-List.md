@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Angulitermes arabiae 阿拉伯角白蚁"
+title: "Angulitermes arabiae Chhotani & Bose, 1979 阿拉伯角白蚁"
 latin: "Angulitermes arabiae"
 zh: "阿拉伯角白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani & Bose, 1979"
+type_locality: "Saudi Arabia: Qaraah Village"
+distribution_zh: "沙特阿拉伯"
+distribution_en: "Saudi Arabia"
+synonym_count: 0
 ---

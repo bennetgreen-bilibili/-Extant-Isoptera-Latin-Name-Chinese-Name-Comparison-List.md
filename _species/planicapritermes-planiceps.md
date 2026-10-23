@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Planicapritermes planiceps 平头平扭白蚁"
+title: "Planicapritermes planiceps Emerson, 1925 平头平扭白蚁"
 latin: "Planicapritermes planiceps"
 zh: "平头平扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Neocapritermitinae"
 subfamily_id: "neocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+distribution_zh: "巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、厄瓜多尔、苏里南、委内瑞拉"
+distribution_en: "Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela"
+synonym_count: 0
 ---

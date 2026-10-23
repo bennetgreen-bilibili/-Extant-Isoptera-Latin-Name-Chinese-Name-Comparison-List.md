@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes foveafrons 凹额钝颚白蚁"
+title: "Ahmaditermes foveafrons Gao, 1988 凹额钝颚白蚁"
 latin: "Ahmaditermes foveafrons"
 zh: "凹额钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao, 1988"
+type_locality: "China: Zhejiang Province: Mt. Tianmu"
+distribution_zh: "浙江（天目山）"
+distribution_en: "Zhejiang (Tianmu Mountain)"
+synonym_count: 0
 ---

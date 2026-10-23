@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ruptitermes pitan 红头腹爆白蚁"
+title: "Ruptitermes pitan Acioli & Constantino, 2015 红头腹爆白蚁"
 latin: "Ruptitermes pitan"
 zh: "红头腹爆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Acioli & Constantino, 2015"
+type_locality: "Brasil: Distrito Federal: Fazenda Água Limpa [ 15.9667S 47.9061W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

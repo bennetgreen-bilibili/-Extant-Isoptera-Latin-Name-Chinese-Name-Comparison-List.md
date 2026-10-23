@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes repugnans 抵抗锯白蚁"
+title: "Microcerotermes repugnans Hill, 1927 抵抗锯白蚁"
 latin: "Microcerotermes repugnans"
 zh: "抵抗锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1927"
+type_locality: "Papua New Guinea: 30 mi SE Port Moresby"
+distribution_zh: "大洋洲、澳大利亚、巴布亚新几内亚"
+distribution_en: "Oceania, Australia, Papua New Guinea"
+synonym_count: 0
 ---

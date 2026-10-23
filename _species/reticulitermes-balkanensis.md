@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes balkanensis 巴尔干散白蚁"
+title: "Reticulitermes balkanensis Clément, 1984 巴尔干散白蚁"
 latin: "Reticulitermes balkanensis"
 zh: "巴尔干散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Clément, 1984"
+type_locality: "Greece: ?; Yugoslavia: ?"
+distribution_zh: "巴尔干半岛、希腊等、阿尔巴尼亚、前南斯拉夫"
+distribution_en: "Balkans, Greece etc., Albania, former Yugoslavia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes kalshoveni 卡尔斯霍芬乳白蚁"
+title: "Coptotermes kalshoveni Kemner, 1934 卡尔斯霍芬乳白蚁"
 latin: "Coptotermes kalshoveni"
 zh: "卡尔斯霍芬乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Semarang"
+distribution_zh: "印度尼西亚、马来西亚、泰国"
+distribution_en: "Indonesia, Malaysia, Thailand"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes krishna 克里希纳象白蚁"
+title: "Nasutitermes krishna Roonwal & Bose, 1970 克里希纳象白蚁"
 latin: "Nasutitermes krishna"
 zh: "克里希纳象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Bose, 1970"
+type_locality: "India: Andaman Islands: Little Andaman: Kwate-tu-Kwage"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

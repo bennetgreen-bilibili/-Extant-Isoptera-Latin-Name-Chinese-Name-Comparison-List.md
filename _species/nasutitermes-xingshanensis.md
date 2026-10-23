@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes xingshanensis 兴山象白蚁"
+title: "Nasutitermes xingshanensis Ping & Yin, 1992 兴山象白蚁"
 latin: "Nasutitermes xingshanensis"
 zh: "兴山象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Yin, 1992"
+type_locality: "China: Hubei Province: Xingshan County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

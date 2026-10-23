@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes neghelliensis 内格豪尔小白蚁"
+title: "Microtermes neghelliensis Ghidini, 1937 内格豪尔小白蚁"
 latin: "Microtermes neghelliensis"
 zh: "内格豪尔小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghidini, 1937"
+type_locality: "Ethiopia: Galla-Borana: Mega"
+distribution_zh: "埃塞俄比亚"
+distribution_en: "Ethiopia"
+synonym_count: 0
 ---

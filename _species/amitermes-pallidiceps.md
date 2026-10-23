@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes pallidiceps 灰头弓白蚁"
+title: "Amitermes pallidiceps Gay, 1969 灰头弓白蚁"
 latin: "Amitermes pallidiceps"
 zh: "灰头弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gay, 1969"
+type_locality: "Australia: Western Australia: 1 mi N Upper Swan"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

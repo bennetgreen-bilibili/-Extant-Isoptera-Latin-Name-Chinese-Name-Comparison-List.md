@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ruptitermes arboreus 树栖腹爆白蚁"
+title: "Ruptitermes arboreus Emerson, 1925 树栖腹爆白蚁"
 latin: "Ruptitermes arboreus"
 zh: "树栖腹爆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1925"
+type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+distribution_zh: "巴西及邻近南美国家、哥伦比亚、圭亚那、法属圭亚那、苏里南"
+distribution_en: "Brazil and neighboring South American countries, Colombia, Guyana, French Guiana, Suriname"
+synonym_count: 0
 ---

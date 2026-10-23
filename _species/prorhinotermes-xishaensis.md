@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Prorhinotermes xishaensis 西沙原鼻白蚁"
+title: "Prorhinotermes xishaensis Li & Tsai, 1976 西沙原鼻白蚁"
 latin: "Prorhinotermes xishaensis"
 zh: "西沙原鼻白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "PSAMMOTERMITIDAE"
 family_id: "psammotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Li & Tsai, 1976"
+type_locality: "China: Xisha Island"
+distribution_zh: "中国、西沙群岛"
+distribution_en: "China, Xisha Islands"
+synonym_count: 0
 ---

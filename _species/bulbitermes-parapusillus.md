@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes parapusillus 似极小瓢白蚁"
+title: "Bulbitermes parapusillus Ahmad, 1965 似极小瓢白蚁"
 latin: "Bulbitermes parapusillus"
 zh: "似极小瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Prew"
+distribution_zh: "孟加拉国、印度、马来西亚、泰国"
+distribution_en: "Bangladesh, India, Malaysia, Thailand"
+synonym_count: 0
 ---

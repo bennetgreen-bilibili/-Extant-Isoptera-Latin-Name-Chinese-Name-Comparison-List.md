@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes beckeri 贝克乳白蚁"
+title: "Coptotermes beckeri Mathur & Chhotani, 1969 贝克乳白蚁"
 latin: "Coptotermes beckeri"
 zh: "贝克乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathur & Chhotani, 1969"
+type_locality: "India: Tamil Nadu: Chennai [Madras]"
+distribution_zh: "印度南部"
+distribution_en: "southern India"
+synonym_count: 0
 ---

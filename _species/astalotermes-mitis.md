@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Astalotermes mitis 温和无利器白蚁"
+title: "Astalotermes mitis Sands, 1972 温和无利器白蚁"
 latin: "Astalotermes mitis"
 zh: "温和无利器白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Malawi: Zomba Mountain"
+distribution_zh: "非洲热带、马拉维"
+distribution_en: "tropical Africa, Malawi"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Rounditermes dechambrei 德尚布尔胖白蚁"
+title: "Rounditermes dechambrei Ensaf, Ponchel & Nel, 2003 德尚布尔胖白蚁"
 latin: "Rounditermes dechambrei"
 zh: "德尚布尔胖白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ensaf, Ponchel & Nel, 2003"
+type_locality: "French Guiana: Highway N1 between Kourou and Sinnamary [5.2675N 52.8083W]"
+distribution_zh: "法属圭亚那"
+distribution_en: "French Guiana"
+synonym_count: 0
 ---

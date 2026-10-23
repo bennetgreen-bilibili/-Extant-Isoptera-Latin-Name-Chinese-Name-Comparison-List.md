@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes pauliani 波利昂锯白蚁"
+title: "Microcerotermes pauliani Krishna, 2013 波利昂锯白蚁"
 latin: "Microcerotermes pauliani"
 zh: "波利昂锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Krishna, 2013"
+type_locality: "Madagascar: Ambatofinandrahana (Ambositra); Behara"
+distribution_zh: "马达加斯加"
+distribution_en: "Madagascar"
+synonym_count: 0
 ---

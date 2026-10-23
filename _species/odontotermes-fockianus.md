@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes fockianus 福克土白蚁"
+title: "Odontotermes fockianus Sjöstedt, 1914 福克土白蚁"
 latin: "Odontotermes fockianus"
 zh: "福克土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1914"
+type_locality: "Namibia: Okahandja"
+distribution_zh: "纳米比亚"
+distribution_en: "Namibia"
+synonym_count: 0
 ---

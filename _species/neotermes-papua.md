@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes papua 巴布亚新白蚁"
+title: "Neotermes papua Desneux, 1905 巴布亚新白蚁"
 latin: "Neotermes papua"
 zh: "巴布亚新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Desneux, 1905"
+type_locality: "Papua New Guinea: Simbang, Huon Gulf"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

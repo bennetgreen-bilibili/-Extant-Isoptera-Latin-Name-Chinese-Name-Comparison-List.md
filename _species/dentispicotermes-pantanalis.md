@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dentispicotermes pantanalis 沼泽齿尖白蚁"
+title: "Dentispicotermes pantanalis Mathews, 1977 沼泽齿尖白蚁"
 latin: "Dentispicotermes pantanalis"
 zh: "沼泽齿尖白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mathews, 1977"
+type_locality: "Brasil: Mato Grosso: Nova Xavantina [ 14.6733S 52.3531W ]"
+distribution_zh: "巴西、塞拉多"
+distribution_en: "Brazil, Cerrado"
+synonym_count: 0
 ---

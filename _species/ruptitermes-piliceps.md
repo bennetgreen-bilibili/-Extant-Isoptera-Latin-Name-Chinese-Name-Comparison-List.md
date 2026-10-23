@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ruptitermes piliceps 毛头腹爆白蚁"
+title: "Ruptitermes piliceps Acioli & Constantino, 2015 毛头腹爆白蚁"
 latin: "Ruptitermes piliceps"
 zh: "毛头腹爆白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Acioli & Constantino, 2015"
+type_locality: "Brasil: Goiás: Niquelândia, Codemin [ 14.1332S 48.34W ]"
+distribution_zh: "南美洲、哥伦比亚、巴西"
+distribution_en: "South America, Colombia, Brazil"
+synonym_count: 0
 ---

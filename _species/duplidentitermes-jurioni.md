@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Duplidentitermes jurioni 朱里翁双齿白蚁"
+title: "Duplidentitermes jurioni Emerson, 1959 朱里翁双齿白蚁"
 latin: "Duplidentitermes jurioni"
 zh: "朱里翁双齿白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1959"
+type_locality: "Democratic Republic of the Congo: Yangambi"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

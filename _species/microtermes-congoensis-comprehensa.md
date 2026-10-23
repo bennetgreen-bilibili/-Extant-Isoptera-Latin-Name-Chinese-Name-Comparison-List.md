@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes congoensis comprehensa 捕获亚种"
+title: "Microtermes congoensis comprehensa Silvestri, 1914 捕获亚种"
 latin: "Microtermes congoensis comprehensa"
 zh: "捕获亚种"
 type: false
@@ -19,4 +19,7 @@ clade_latin: "Geoisoptera"
 parent_latin: "Microtermes congoensis"
 parent_zh: "刚果小白蚁"
 parent_slug: "microtermes-congoensis"
+author_year: "Silvestri, 1914"
+type_locality: "Guinea: Kindia"
+synonym_count: 0
 ---

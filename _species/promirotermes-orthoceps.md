@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Promirotermes orthoceps 直头前奇白蚁"
+title: "Promirotermes orthoceps Emerson, 1928 直头前奇白蚁"
 latin: "Promirotermes orthoceps"
 zh: "直头前奇白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Promirotermitinae"
 subfamily_id: "promirotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1928"
+type_locality: "Democratic Republic of the Congo: Banana"
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

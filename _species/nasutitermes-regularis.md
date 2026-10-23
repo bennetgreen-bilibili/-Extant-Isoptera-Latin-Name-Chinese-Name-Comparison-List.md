@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes regularis 规律象白蚁"
+title: "Nasutitermes regularis Haviland, 1898 规律象白蚁"
 latin: "Nasutitermes regularis"
 zh: "规律象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Haviland, 1898"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "马来西亚"
+distribution_en: "Malaysia"
+synonym_count: 0
 ---

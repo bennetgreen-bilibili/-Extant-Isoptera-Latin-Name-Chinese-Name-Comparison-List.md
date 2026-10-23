@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes paralatigula 近宽颏土白蚁"
+title: "Odontotermes paralatigula Chatterjee & Sen-Sarma, 1962 近宽颏土白蚁"
 latin: "Odontotermes paralatigula"
 zh: "近宽颏土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chatterjee & Sen-Sarma, 1962"
+type_locality: "Myanmar: Insein Forest Division, Hlegu Range"
+distribution_zh: "南亚印度、缅甸"
+distribution_en: "South Asia, India, Myanmar"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Reticulitermes saraswati 萨拉斯瓦特散白蚁"
+title: "Reticulitermes saraswati Roonwal & Chhotani, 1962 萨拉斯瓦特散白蚁"
 latin: "Reticulitermes saraswati"
 zh: "萨拉斯瓦特散白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1962"
+type_locality: "India: Meghalaya: Khasi-Jaintia Hills District: Shillong"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

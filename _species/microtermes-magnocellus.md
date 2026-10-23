@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes magnocellus 大单眼小白蚁"
+title: "Microtermes magnocellus Sjöstedt, 1915 大单眼小白蚁"
 latin: "Microtermes magnocellus"
 zh: "大单眼小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1915"
+type_locality: "Tanzania: Tanga"
+distribution_zh: "埃塞俄比亚、马拉维、坦桑尼亚、赞比亚"
+distribution_en: "Ethiopia, Malawi, Tanzania, Zambia"
+synonym_count: 0
 ---

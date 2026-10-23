@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Indotermes menggarensis 勐戛印白蚁"
+title: "Indotermes menggarensis Tsai & Zhu, 1984 勐戛印白蚁"
 latin: "Indotermes menggarensis"
 zh: "勐戛印白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Tsai & Zhu, 1984"
+type_locality: "China: Yunnan Province: Luxi County"
+distribution_zh: "中国、西藏"
+distribution_en: "China, Tibet"
+synonym_count: 0
 ---

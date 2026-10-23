@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Unguitermes proclivifrons 前斜额爪白蚁"
+title: "Unguitermes proclivifrons Ruelle, 1973 前斜额爪白蚁"
 latin: "Unguitermes proclivifrons"
 zh: "前斜额爪白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ruelle, 1973"
+type_locality: "Zambia: 30 km ex Kitwe-Dola via Mwekera Forest Reserve"
+distribution_zh: "赞比亚"
+distribution_en: "Zambia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Forficulitermes planifrons 扁额剪白蚁"
+title: "Forficulitermes planifrons Emerson, 1960 扁额剪白蚁"
 latin: "Forficulitermes planifrons"
 zh: "扁额剪白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Forficulitermitinae"
 subfamily_id: "forficulitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Emerson, 1960"
+type_locality: "Democratic Republic of the Congo: Sona Mpangu"
+distribution_zh: "中非喀麦隆"
+distribution_en: "Central Africa, Cameroon"
+synonym_count: 0
 ---

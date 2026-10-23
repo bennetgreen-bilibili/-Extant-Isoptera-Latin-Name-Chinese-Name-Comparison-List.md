@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Calcaritermes colei 科尔距白蚁"
+title: "Calcaritermes colei Krishna, 1962 科尔距白蚁"
 latin: "Calcaritermes colei"
 zh: "科尔距白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Krishna, 1962"
+type_locality: "Mexico: San Luis Potosi, above El Naranjo"
+distribution_zh: "墨西哥、伯利兹、危地马拉、洪都拉斯"
+distribution_en: "Mexico, Belize, Guatemala, Honduras"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes mohri 莫尔近扭白蚁"
+title: "Pericapritermes mohri Kemner, 1934 莫尔近扭白蚁"
 latin: "Pericapritermes mohri"
 zh: "莫尔近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Java: Bogor; Java: Depok; Orte Kali Bata"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

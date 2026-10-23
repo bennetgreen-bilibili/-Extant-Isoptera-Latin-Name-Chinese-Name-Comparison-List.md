@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes bhutanensis 不丹伪扭白蚁"
+title: "Pseudocapritermes bhutanensis Roonwal & Chhotani, 1977 不丹伪扭白蚁"
 latin: "Pseudocapritermes bhutanensis"
 zh: "不丹伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1977"
+type_locality: "Bhutan: Thimpu, 2300–2500 m"
+distribution_zh: "不丹"
+distribution_en: "Bhutan"
+synonym_count: 0
 ---

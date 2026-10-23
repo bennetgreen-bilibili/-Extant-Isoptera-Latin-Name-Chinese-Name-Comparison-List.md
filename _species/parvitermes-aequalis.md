@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Parvitermes aequalis 类似微白蚁"
+title: "Parvitermes aequalis Snyder, 1924 类似微白蚁"
 latin: "Parvitermes aequalis"
 zh: "类似微白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Snyder, 1924"
+type_locality: "Cuba: Camagüey"
+distribution_zh: "古巴"
+distribution_en: "Cuba"
+synonym_count: 0
 ---

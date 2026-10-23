@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Tumulitermes pulleinei 普雷勒冢白蚁"
+title: "Tumulitermes pulleinei Mjöberg, 1920 普雷勒冢白蚁"
 latin: "Tumulitermes pulleinei"
 zh: "普雷勒冢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Ravenshoe"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

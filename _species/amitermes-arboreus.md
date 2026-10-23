@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes arboreus 树栖弓白蚁"
+title: "Amitermes arboreus Roisin, 1990 树栖弓白蚁"
 latin: "Amitermes arboreus"
 zh: "树栖弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin, 1990"
+type_locality: "Papua New Guinea: Western Province: Wipim"
+distribution_zh: "澳大利亚、巴布亚新几内亚"
+distribution_en: "Australia, Papua New Guinea"
+synonym_count: 0
 ---

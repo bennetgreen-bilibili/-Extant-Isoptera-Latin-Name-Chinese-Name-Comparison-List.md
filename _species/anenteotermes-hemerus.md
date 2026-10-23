@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anenteotermes hemerus 肱骨无甲白蚁"
+title: "Anenteotermes hemerus Sands, 1972 肱骨无甲白蚁"
 latin: "Anenteotermes hemerus"
 zh: "肱骨无甲白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Sudan: Mount Bangenze"
+distribution_zh: "苏丹"
+distribution_en: "Sudan"
+synonym_count: 0
 ---

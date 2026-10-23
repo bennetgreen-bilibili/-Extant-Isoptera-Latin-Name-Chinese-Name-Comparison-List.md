@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Speculitermes goesswaldi 格斯瓦尔德稀白蚁"
+title: "Speculitermes goesswaldi Roonwal & Chhotani, 1964 格斯瓦尔德稀白蚁"
 latin: "Speculitermes goesswaldi"
 zh: "格斯瓦尔德稀白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roonwal & Chhotani, 1964"
+type_locality: "India: Karnataka (Mysore): Dharwar"
+distribution_zh: "南亚、印度"
+distribution_en: "South Asia, India"
+synonym_count: 0
 ---

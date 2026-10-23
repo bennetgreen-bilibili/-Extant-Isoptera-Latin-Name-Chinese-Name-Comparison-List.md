@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes castaneus 栗色象白蚁"
+title: "Nasutitermes castaneus Oshima, 1920 栗色象白蚁"
 latin: "Nasutitermes castaneus"
 zh: "栗色象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Oshima, 1920"
+type_locality: "Philippines: Luzon: Laguna Province: Sarai near Paete; Panay: Antique Province: Culasi"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

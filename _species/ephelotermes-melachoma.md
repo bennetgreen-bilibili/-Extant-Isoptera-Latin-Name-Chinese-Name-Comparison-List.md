@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ephelotermes melachoma 黑垄棒颚白蚁"
+title: "Ephelotermes melachoma Miller, 1991 黑垄棒颚白蚁"
 latin: "Ephelotermes melachoma"
 zh: "黑垄棒颚白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Miller, 1991"
+type_locality: "Australia: Northern Territory: 10 km NWN Mt. Bundey"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

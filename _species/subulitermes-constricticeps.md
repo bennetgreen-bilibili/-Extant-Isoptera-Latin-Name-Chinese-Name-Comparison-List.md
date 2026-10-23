@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Subulitermes constricticeps 缩头锥白蚁"
+title: "Subulitermes constricticeps Constantino, 1991 缩头锥白蚁"
 latin: "Subulitermes constricticeps"
 zh: "缩头锥白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Constantino, 1991"
+type_locality: "Brasil: Amazonas: Maraã [1.848S 65.523W]"
+distribution_zh: "巴西、法属圭亚那、哥伦比亚"
+distribution_en: "Brazil, French Guiana, Colombia"
+synonym_count: 0
 ---

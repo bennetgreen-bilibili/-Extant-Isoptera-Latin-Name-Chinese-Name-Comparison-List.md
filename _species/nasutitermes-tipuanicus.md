@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes tipuanicus 蒂普阿尼象白蚁"
+title: "Nasutitermes tipuanicus Holmgren, 1910 蒂普阿尼象白蚁"
 latin: "Nasutitermes tipuanicus"
 zh: "蒂普阿尼象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Bolivia: La Paz: Tipuani [15.5643S 68.0188W]"
+distribution_zh: "玻利维亚、巴拉圭"
+distribution_en: "Bolivia, Paraguay"
+synonym_count: 0
 ---

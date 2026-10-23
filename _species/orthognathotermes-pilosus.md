@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes pilosus 多毛直颚白蚁"
+title: "Orthognathotermes pilosus Rocha & Cancello, 2009 多毛直颚白蚁"
 latin: "Orthognathotermes pilosus"
 zh: "多毛直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2009"
+type_locality: "Brasil: Mato Grosso: Nova Xavantina [ 14.6733S 52.3531W ]"
+distribution_zh: "巴西、委内瑞拉"
+distribution_en: "Brazil, Venezuela"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes monoceros 独角须白蚁"
+title: "Hospitalitermes monoceros König, 1779 独角须白蚁"
 latin: "Hospitalitermes monoceros"
 zh: "独角须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "König, 1779"
+type_locality: "Sri Lanka: ?"
+distribution_zh: "斯里兰卡、印度"
+distribution_en: "Sri Lanka, India"
+synonym_count: 0
 ---

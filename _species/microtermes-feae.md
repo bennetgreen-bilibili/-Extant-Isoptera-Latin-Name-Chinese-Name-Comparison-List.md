@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microtermes feae 菲氏小白蚁"
+title: "Microtermes feae Silvestri, 1912 菲氏小白蚁"
 latin: "Microtermes feae"
 zh: "菲氏小白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Equatorial Guinea: Bioko Island: Musola"
+distribution_zh: "西非、几内亚比绍及几内亚湾岛屿、喀麦隆、赤道几内亚"
+distribution_en: "West Africa, Guinea-Bissau and Gulf of Guinea islands, Cameroon, Equatorial Guinea"
+synonym_count: 0
 ---

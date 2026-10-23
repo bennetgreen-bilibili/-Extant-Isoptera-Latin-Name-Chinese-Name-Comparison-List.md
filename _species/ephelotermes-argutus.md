@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ephelotermes argutus 清楚棒颚白蚁"
+title: "Ephelotermes argutus Hill, 1929 清楚棒颚白蚁"
 latin: "Ephelotermes argutus"
 zh: "清楚棒颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Termitinae"
 subfamily_id: "termitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Hill, 1929"
+type_locality: "Australia: Victoria: Kewell, 13 km NWN Mortoa"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes megaoculatus lakhimpuri 勒金布尔亚种"
+title: "Neotermes megaoculatus lakhimpuri Roonwal & Sen-Sarma, 1960 勒金布尔亚种"
 latin: "Neotermes megaoculatus lakhimpuri"
 zh: "勒金布尔亚种"
 type: false
@@ -16,4 +16,7 @@ clade_latin: "Icoisoptera"
 parent_latin: "Neotermes megaoculatus"
 parent_zh: "巨眼新白蚁"
 parent_slug: "neotermes-megaoculatus"
+author_year: "Roonwal & Sen-Sarma, 1960"
+type_locality: "India: Assam: Lakhimpur: Makum"
+synonym_count: 0
 ---

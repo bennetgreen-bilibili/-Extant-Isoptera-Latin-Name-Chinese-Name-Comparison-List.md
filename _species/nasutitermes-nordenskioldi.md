@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes nordenskioldi 努登舍尔德象白蚁"
+title: "Nasutitermes nordenskioldi Holmgren, 1910 努登舍尔德象白蚁"
 latin: "Nasutitermes nordenskioldi"
 zh: "努登舍尔德象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1910"
+type_locality: "Argentina: Jujuy: Quinta, near Laguna la Brea [23.8589S 64.4377W]; Santiago del Estero: Icaño [28.68S 62.885W]"
+distribution_zh: "阿根廷、巴拉圭、玻利维亚"
+distribution_en: "Argentina, Paraguay, Bolivia"
+synonym_count: 0
 ---

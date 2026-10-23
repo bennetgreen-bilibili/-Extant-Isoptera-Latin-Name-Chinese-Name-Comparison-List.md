@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes minutus 小泰锯白蚁"
+title: "Microcerotermes minutus Ahmad, 1965 小泰锯白蚁"
 latin: "Microcerotermes minutus"
 zh: "小泰锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad, 1965"
+type_locality: "Thailand: Wang Nok An"
+distribution_zh: "中国、泰国"
+distribution_en: "China, Thailand"
+synonym_count: 0
 ---

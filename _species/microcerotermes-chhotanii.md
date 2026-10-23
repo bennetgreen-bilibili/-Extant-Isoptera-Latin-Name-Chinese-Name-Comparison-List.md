@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes chhotanii 乔塔里锯白蚁"
+title: "Microcerotermes chhotanii Ghayourfar, 1998 乔塔里锯白蚁"
 latin: "Microcerotermes chhotanii"
 zh: "乔塔里锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ghayourfar, 1998"
+type_locality: "Iran: Kermanshah Province: Ghasr-e-Shirin"
+distribution_zh: "伊朗"
+distribution_en: "Iran"
+synonym_count: 0
 ---

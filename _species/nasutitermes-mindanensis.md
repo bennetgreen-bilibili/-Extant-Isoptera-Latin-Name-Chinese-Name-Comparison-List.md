@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes mindanensis 棉兰老岛象白蚁"
+title: "Nasutitermes mindanensis Light & Wilson, 1936 棉兰老岛象白蚁"
 latin: "Nasutitermes mindanensis"
 zh: "棉兰老岛象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light & Wilson, 1936"
+type_locality: "Philippines: Mindanao: Cotabato Province, near Craan Point; near Milbul, Saub"
+distribution_zh: "菲律宾"
+distribution_en: "Philippines"
+synonym_count: 0
 ---

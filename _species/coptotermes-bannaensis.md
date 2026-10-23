@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Coptotermes bannaensis 版纳乳白蚁"
+title: "Coptotermes bannaensis Xia & He, 1986 版纳乳白蚁"
 latin: "Coptotermes bannaensis"
 zh: "版纳乳白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HETEROTERMITIDAE"
 family_id: "heterotermitidae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Xia & He, 1986"
+type_locality: "China: Yunnan Province: Jinghong"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

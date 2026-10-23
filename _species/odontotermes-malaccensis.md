@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes malaccensis 马六甲土白蚁"
+title: "Odontotermes malaccensis Holmgren, 1914 马六甲土白蚁"
 latin: "Odontotermes malaccensis"
 zh: "马六甲土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1914"
+type_locality: "Malaysia: Perak: Maxwell’s Hill (Bukit Larut); Selangor: Gap, Taiping"
+distribution_zh: "东南亚马来西亚"
+distribution_en: "Southeast Asia, Malaysia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahmaditermes perisinuosus 近丘额钝颚白蚁"
+title: "Ahmaditermes perisinuosus Li & Xiao, 1989 近丘额钝颚白蚁"
 latin: "Ahmaditermes perisinuosus"
 zh: "近丘额钝颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Li & Xiao, 1989"
+type_locality: "China: Guangxi Province: Huashuichong Forest: Hexian"
+distribution_zh: "广西（贺县滑水冲）"
+distribution_en: "Guangxi (Hexian Huashuichong)"
+synonym_count: 0
 ---

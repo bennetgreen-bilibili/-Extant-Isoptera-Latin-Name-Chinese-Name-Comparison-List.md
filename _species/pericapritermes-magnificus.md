@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes magnificus 非凡近扭白蚁"
+title: "Pericapritermes magnificus Silvestri, 1912 非凡近扭白蚁"
 latin: "Pericapritermes magnificus"
 zh: "非凡近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Silvestri, 1912"
+type_locality: "Congo: Brazzaville"
+distribution_zh: "加蓬、喀麦隆、刚果"
+distribution_en: "Gabon, Cameroon, Congo"
+synonym_count: 0
 ---

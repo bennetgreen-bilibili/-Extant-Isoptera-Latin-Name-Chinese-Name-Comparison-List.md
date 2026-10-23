@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes kavarattiensis 卡瓦拉蒂弓白蚁"
+title: "Amitermes kavarattiensis Sengupta, Rajmohana & Amina, 2022 卡瓦拉蒂弓白蚁"
 latin: "Amitermes kavarattiensis"
 zh: "卡瓦拉蒂弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sengupta, Rajmohana & Amina, 2022"
+type_locality: "India: Lakshadweep: Kavaratti island [ 10.5544N 72.6325E ]"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

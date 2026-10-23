@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ahamitermes nidicola 栖巢无钩白蚁"
+title: "Ahamitermes nidicola Mjöberg, 1920 栖巢无钩白蚁"
 latin: "Ahamitermes nidicola"
 zh: "栖巢无钩白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Mjöberg, 1920"
+type_locality: "Australia: Queensland: Cape York Peninsula, Alice River"
+distribution_zh: "澳大利亚"
+distribution_en: "Australia"
+synonym_count: 0
 ---

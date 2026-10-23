@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Protohamitermes globiceps 球头始钩白蚁"
+title: "Protohamitermes globiceps Holmgren, 1912 球头始钩白蚁"
 latin: "Protohamitermes globiceps"
 zh: "球头始钩白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Protohamitermitinae"
 subfamily_id: "protohamitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "Malaysia: Sarawak"
+distribution_zh: "文莱、印度尼西亚、马来西亚"
+distribution_en: "Brunei, Indonesia, Malaysia"
+synonym_count: 0
 ---

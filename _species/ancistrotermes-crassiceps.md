@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Ancistrotermes crassiceps 厚头钩白蚁"
+title: "Ancistrotermes crassiceps Zhu & Wang, 1991 厚头钩白蚁"
 latin: "Ancistrotermes crassiceps"
 zh: "厚头钩白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Zhu & Wang, 1991"
+type_locality: "China: Yunnan Province: Jinghong County: Manfeilong"
+distribution_zh: "中国云南"
+distribution_en: "China (Yunnan)"
+synonym_count: 0
 ---

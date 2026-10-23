@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Incisitermes solidus 坚硬楹白蚁"
+title: "Incisitermes solidus Hagen, 1858 坚硬楹白蚁"
 latin: "Incisitermes solidus"
 zh: "坚硬楹白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Hagen, 1858"
+type_locality: "(country unknown): ?"
+distribution_zh: "不明"
+distribution_en: "unknown"
+synonym_count: 0
 ---

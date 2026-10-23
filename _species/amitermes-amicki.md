@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Amitermes amicki 阿米克弓白蚁"
+title: "Amitermes amicki Scheffrahn, 1999 阿米克弓白蚁"
 latin: "Amitermes amicki"
 zh: "阿米克弓白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Scheffrahn, 1999"
+type_locality: "Aruba: Palm Beach"
+distribution_zh: "阿鲁巴、哥伦比亚、委内瑞拉"
+distribution_en: "Aruba, Colombia, Venezuela"
+synonym_count: 0
 ---

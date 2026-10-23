@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Orthognathotermes tubesauassu 大眼直颚白蚁"
+title: "Orthognathotermes tubesauassu Rocha & Cancello, 2009 大眼直颚白蚁"
 latin: "Orthognathotermes tubesauassu"
 zh: "大眼直颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Rocha & Cancello, 2009"
+type_locality: "Brasil: Bahia: Andaraí [ 12.8S 41.33W ]"
+distribution_zh: "巴西"
+distribution_en: "Brazil"
+synonym_count: 0
 ---

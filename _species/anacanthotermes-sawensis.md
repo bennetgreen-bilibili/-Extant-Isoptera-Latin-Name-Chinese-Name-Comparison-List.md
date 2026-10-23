@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Anacanthotermes sawensis 塞瓦无刺白蚁"
+title: "Anacanthotermes sawensis Al-Alawy, Abdul-Rassoul & Al-Azawi, 1990 塞瓦无刺白蚁"
 latin: "Anacanthotermes sawensis"
 zh: "塞瓦无刺白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "HODOTERMITIDAE"
 family_id: "hodotermitidae"
 clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
+author_year: "Al-Alawy, Abdul-Rassoul & Al-Azawi, 1990"
+type_locality: "Iraq: Al-Mothana (Smawa), near Sawa Lake"
+distribution_zh: "伊拉克"
+distribution_en: "Iraq"
+synonym_count: 0
 ---

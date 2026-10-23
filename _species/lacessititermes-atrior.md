@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Lacessititermes atrior 暗黑怒白蚁"
+title: "Lacessititermes atrior Holmgren, 1912 暗黑怒白蚁"
 latin: "Lacessititermes atrior"
 zh: "暗黑怒白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "Indonesia: Java; Malaysia: ?Borneo: Bukit Timah [in Singapore, not Sarawak]"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

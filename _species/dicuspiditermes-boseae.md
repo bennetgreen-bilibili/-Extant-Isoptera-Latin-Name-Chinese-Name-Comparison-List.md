@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Dicuspiditermes boseae 鲍斯突扭白蚁"
+title: "Dicuspiditermes boseae Chhotani, 1997 鲍斯突扭白蚁"
 latin: "Dicuspiditermes boseae"
 zh: "鲍斯突扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Chhotani, 1997"
+type_locality: "India: Tamil Nadu: ca. 50 km NW of Nagercoil: Kulasekaram Forest Range: Mylar"
+distribution_zh: "印度、泰米尔纳德"
+distribution_en: "India, Tamil Nadu"
+synonym_count: 0
 ---

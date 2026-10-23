@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Globitermes minor 小球白蚁"
+title: "Globitermes minor Han, 1987 小球白蚁"
 latin: "Globitermes minor"
 zh: "小球白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Amitermitinae"
 subfamily_id: "amitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Han, 1987"
+type_locality: "China: Yunnan Province: Damenglong"
+distribution_zh: "云南（景洪大勐龙）、中国"
+distribution_en: "Yunnan (Jinghong Damenglong), China"
+synonym_count: 0
 ---

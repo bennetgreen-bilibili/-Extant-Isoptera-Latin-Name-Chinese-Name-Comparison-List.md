@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hoplognathotermes angolensis 安哥拉锐颚白蚁"
+title: "Hoplognathotermes angolensis Weidner, 1974 安哥拉锐颚白蚁"
 latin: "Hoplognathotermes angolensis"
 zh: "安哥拉锐颚白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Weidner, 1974"
+type_locality: "Angola: source of River Cuílo, 400 km SSE of Dundo"
+distribution_zh: "非洲、安哥拉"
+distribution_en: "Africa, Angola"
+synonym_count: 0
 ---

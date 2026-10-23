@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Acholotermes epius 椭囟顺白蚁"
+title: "Acholotermes epius Sands, 1972 椭囟顺白蚁"
 latin: "Acholotermes epius"
 zh: "椭囟顺白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Zambia: Lusaka"
+distribution_zh: "非洲热带、赞比亚"
+distribution_en: "tropical Africa, Zambia"
+synonym_count: 0
 ---

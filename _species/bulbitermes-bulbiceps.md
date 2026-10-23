@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Bulbitermes bulbiceps 瓢头瓢白蚁"
+title: "Bulbitermes bulbiceps Maiti & Saha, 2000 瓢头瓢白蚁"
 latin: "Bulbitermes bulbiceps"
 zh: "瓢头瓢白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Maiti & Saha, 2000"
+type_locality: "India: Assam: Jorhat District, ca. 20 km SW of Jorhat towards Colaghat"
+distribution_zh: "南亚、印度阿萨姆"
+distribution_en: "South Asia, India, Assam"
+synonym_count: 0
 ---

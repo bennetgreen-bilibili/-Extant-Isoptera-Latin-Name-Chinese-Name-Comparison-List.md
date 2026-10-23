@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes saleierensis 萨莱尔象白蚁"
+title: "Nasutitermes saleierensis Kemner, 1934 萨莱尔象白蚁"
 latin: "Nasutitermes saleierensis"
 zh: "萨莱尔象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Kemner, 1934"
+type_locality: "Indonesia: Sulawesi: Djampea Island: Benteng; Sulawesi: Saleier Islands: Pamatata"
+distribution_zh: "印度尼西亚"
+distribution_en: "Indonesia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Odontotermes planiceps 扁头土白蚁"
+title: "Odontotermes planiceps Sjöstedt, 1924 扁头土白蚁"
 latin: "Odontotermes planiceps"
 zh: "扁头土白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sjöstedt, 1924"
+type_locality: "Democratic Republic of the Congo: Kisantu"
+distribution_zh: "安哥拉、刚果民主共和国"
+distribution_en: "Angola, Democratic Republic of the Congo"
+synonym_count: 0
 ---

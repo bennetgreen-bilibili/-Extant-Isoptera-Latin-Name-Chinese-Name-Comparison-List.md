@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Sinonasutitermes planinasus 平鼻华象白蚁"
+title: "Sinonasutitermes planinasus Ping & Xu, 1991 平鼻华象白蚁"
 latin: "Sinonasutitermes planinasus"
 zh: "平鼻华象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ping & Xu, 1991"
+type_locality: "China: Hainan Province: Wanning County"
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 0
 ---

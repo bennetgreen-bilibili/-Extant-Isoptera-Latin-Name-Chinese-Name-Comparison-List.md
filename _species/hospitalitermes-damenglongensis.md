@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes damenglongensis 大勐龙须白蚁"
+title: "Hospitalitermes damenglongensis He & Gao, 1984 大勐龙须白蚁"
 latin: "Hospitalitermes damenglongensis"
 zh: "大勐龙须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "He & Gao, 1984"
+type_locality: "China: Yunnan Province: Damenglong"
+distribution_zh: "中国云南、景洪大勐龙"
+distribution_en: "China (Yunnan), Jinghong (Damenglong)"
+synonym_count: 0
 ---

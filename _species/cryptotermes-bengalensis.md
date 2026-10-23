@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Cryptotermes bengalensis 孟加拉堆砂白蚁"
+title: "Cryptotermes bengalensis Snyder, 1934 孟加拉堆砂白蚁"
 latin: "Cryptotermes bengalensis"
 zh: "孟加拉堆砂白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Snyder, 1934"
+type_locality: "India: West Bengal: Sunderbans"
+distribution_zh: "南亚、印度、斯里兰卡、中国、泰国"
+distribution_en: "South Asia, India, Sri Lanka, China, Thailand"
+synonym_count: 0
 ---

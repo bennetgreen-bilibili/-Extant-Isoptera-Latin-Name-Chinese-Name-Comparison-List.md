@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Microcerotermes lateralis 侧移锯白蚁"
+title: "Microcerotermes lateralis Walker, 1853 侧移锯白蚁"
 latin: "Microcerotermes lateralis"
 zh: "侧移锯白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Microcerotermitinae"
 subfamily_id: "microcerotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Walker, 1853"
+type_locality: "Sierra Leone: ?"
+distribution_zh: "中非、喀麦隆、塞拉利昂"
+distribution_en: "Central Africa, Cameroon, Sierra Leone"
+synonym_count: 0
 ---

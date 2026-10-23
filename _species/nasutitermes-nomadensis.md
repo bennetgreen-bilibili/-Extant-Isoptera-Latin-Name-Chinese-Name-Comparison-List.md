@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Nasutitermes nomadensis 诺马德象白蚁"
+title: "Nasutitermes nomadensis Roisin & Pasteels, 1996 诺马德象白蚁"
 latin: "Nasutitermes nomadensis"
 zh: "诺马德象白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Roisin & Pasteels, 1996"
+type_locality: "Papua New Guinea: Nomad River"
+distribution_zh: "巴布亚新几内亚"
+distribution_en: "Papua New Guinea"
+synonym_count: 0
 ---

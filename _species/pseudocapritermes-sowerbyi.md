@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes sowerbyi 圆囟伪扭白蚁"
+title: "Pseudocapritermes sowerbyi Light, 1924 圆囟伪扭白蚁"
 latin: "Pseudocapritermes sowerbyi"
 zh: "圆囟伪扭白蚁"
 type: false
@@ -16,4 +16,11 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Light, 1924"
+type_locality: "China: Kuliang, \"in mountains Sowerby back of Foochow, 2500 ft.\""
+distribution_zh: "中国"
+distribution_en: "China"
+synonym_count: 1
+synonyms: "Pseudocapritermes largus Li & Huang, 1986: 29"
+synonym_localities: "China: Meihuashan"
 ---

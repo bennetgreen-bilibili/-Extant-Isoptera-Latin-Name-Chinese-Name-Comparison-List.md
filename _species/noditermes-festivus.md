@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Noditermes festivus 欢乐节白蚁"
+title: "Noditermes festivus Harris, 1958 欢乐节白蚁"
 latin: "Noditermes festivus"
 zh: "欢乐节白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Cubitermitinae"
 subfamily_id: "cubitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Harris, 1958"
+type_locality: "Democratic Republic of the Congo: Parc National de l’ Upemba: \"Kenia affl. dr. Lusinga et s. affl. dr. Lufwa\""
+distribution_zh: "刚果民主共和国"
+distribution_en: "Democratic Republic of the Congo"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes paratensis 帕拉蒂新白蚁"
+title: "Neotermes paratensis Sen-Sarma & Thakur, 1975 帕拉蒂新白蚁"
 latin: "Neotermes paratensis"
 zh: "帕拉蒂新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Sen-Sarma & Thakur, 1975"
+type_locality: "India: Tripura: Paratia"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

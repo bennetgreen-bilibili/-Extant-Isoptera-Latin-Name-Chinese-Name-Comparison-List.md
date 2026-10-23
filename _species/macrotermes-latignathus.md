@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Macrotermes latignathus 宽颚大白蚁"
+title: "Macrotermes latignathus Thapa, 1982 宽颚大白蚁"
 latin: "Macrotermes latignathus"
 zh: "宽颚大白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Macrotermitinae"
 subfamily_id: "macrotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thapa, 1982"
+type_locality: "Malaysia: Sabah: Kunak-Mostyn District: Kalumpang"
+distribution_zh: "尼泊尔、马来西亚"
+distribution_en: "Nepal, Malaysia"
+synonym_count: 0
 ---

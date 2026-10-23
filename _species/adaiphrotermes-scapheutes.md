@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Adaiphrotermes scapheutes 中凹和白蚁"
+title: "Adaiphrotermes scapheutes Sands, 1972 中凹和白蚁"
 latin: "Adaiphrotermes scapheutes"
 zh: "中凹和白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Sands, 1972"
+type_locality: "Zambia: Kitwe"
+distribution_zh: "马拉维、赞比亚"
+distribution_en: "Malawi, Zambia"
+synonym_count: 0
 ---

@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Euhamitermes guizhouensis 贵州亮白蚁"
+title: "Euhamitermes guizhouensis Gao & Gong, 1985 贵州亮白蚁"
 latin: "Euhamitermes guizhouensis"
 zh: "贵州亮白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Apicotermitinae"
 subfamily_id: "apicotermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Gao & Gong, 1985"
+type_locality: "China: Guizhou Province: Ceheng"
+distribution_zh: "中国、贵州"
+distribution_en: "China, Guizhou"
+synonym_count: 0
 ---

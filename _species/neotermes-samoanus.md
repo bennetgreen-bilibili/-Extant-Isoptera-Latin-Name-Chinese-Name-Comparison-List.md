@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Neotermes samoanus 萨摩亚新白蚁"
+title: "Neotermes samoanus Holmgren, 1912 萨摩亚新白蚁"
 latin: "Neotermes samoanus"
 zh: "萨摩亚新白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "KALOTERMITIDAE"
 family_id: "kalotermitidae"
 clade_zh: "近等翅类"
 clade_latin: "Icoisoptera"
+author_year: "Holmgren, 1912"
+type_locality: "Samoa: Apia"
+distribution_zh: "萨摩亚"
+distribution_en: "Samoa"
+synonym_count: 0
 ---

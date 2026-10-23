@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Stylotermes faveolus 凹胸杆白蚁"
+title: "Stylotermes faveolus Chatterjee & Thakur, 1964 凹胸杆白蚁"
 latin: "Stylotermes faveolus"
 zh: "凹胸杆白蚁"
 type: false
@@ -13,4 +13,9 @@ family_latin: "STYLOTERMITIDAE"
 family_id: "stylotermitidae"
 clade_zh: "新等翅类"
 clade_latin: "Neoisoptera"
+author_year: "Chatterjee & Thakur, 1964"
+type_locality: "India: Himachal Pradesh: Kulu: Sarvari Village, notified cremation ground area, near Kulu sawmills"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

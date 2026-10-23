@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Oriencapritermes kluangensis 居銮东扭白蚁"
+title: "Oriencapritermes kluangensis Ahmad & Akhtar, 1981 居銮东扭白蚁"
 latin: "Oriencapritermes kluangensis"
 zh: "居銮东扭白蚁"
 type: true
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad & Akhtar, 1981"
+type_locality: "Malaysia: Sarawak: Kluang Forest"
+distribution_zh: "印度尼西亚、马来西亚"
+distribution_en: "Indonesia, Malaysia"
+synonym_count: 0
 ---

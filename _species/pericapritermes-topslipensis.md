@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pericapritermes topslipensis 托普斯利普近扭白蚁"
+title: "Pericapritermes topslipensis Thakur, 1976 托普斯利普近扭白蚁"
 latin: "Pericapritermes topslipensis"
 zh: "托普斯利普近扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Thakur, 1976"
+type_locality: "India: Tamil Nadu: South Coimbatore Forest Division: Topslip"
+distribution_zh: "印度"
+distribution_en: "India"
+synonym_count: 0
 ---

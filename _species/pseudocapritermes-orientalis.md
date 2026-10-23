@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Pseudocapritermes orientalis 东方伪扭白蚁"
+title: "Pseudocapritermes orientalis Ahmad & Akhtar, 1981 东方伪扭白蚁"
 latin: "Pseudocapritermes orientalis"
 zh: "东方伪扭白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Mirocapritermitinae"
 subfamily_id: "mirocapritermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Ahmad & Akhtar, 1981"
+type_locality: "Malaysia: Johore: Kluang Forest"
+distribution_zh: "巴基斯坦、印度、印度尼西亚、马来西亚"
+distribution_en: "Pakistan, India, Indonesia, Malaysia"
+synonym_count: 0
 ---

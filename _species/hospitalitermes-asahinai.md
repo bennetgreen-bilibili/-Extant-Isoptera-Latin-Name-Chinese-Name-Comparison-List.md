@@ -1,6 +1,6 @@
 ---
 layout: species
-title: "Hospitalitermes asahinai 朝比奈须白蚁"
+title: "Hospitalitermes asahinai Morimoto, 1973 朝比奈须白蚁"
 latin: "Hospitalitermes asahinai"
 zh: "朝比奈须白蚁"
 type: false
@@ -16,4 +16,9 @@ subfamily_latin: "Nasutitermitinae"
 subfamily_id: "nasutitermitinae"
 clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
+author_year: "Morimoto, 1973"
+type_locality: "Thailand: Khao Chong"
+distribution_zh: "泰国"
+distribution_en: "Thailand"
+synonym_count: 0
 ---
