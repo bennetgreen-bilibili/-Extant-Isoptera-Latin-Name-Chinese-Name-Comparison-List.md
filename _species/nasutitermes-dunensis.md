@@ -22,5 +22,5 @@ distribution_zh: "印度"
 distribution_en: "India"
 synonym_count: 2
 synonyms: "Nasutitermes lambai Verma & Thakur, 1978: 50-53; Nasutitermes guptai Sen-Sarma & Thakur, 1980: 25-29"
-synonym_localities: "India: Uttarakhand: Naintal District: 1?2 km east of Gairal Forest Rest House: Sangali Sot; India: Uttarakhand: Kumaon Hills: Askot: Dholakot"
+synonym_localities: "India: Uttarakhand: Naintal District: 1–2 km east of Gairal Forest Rest House: Sangali Sot; India: Uttarakhand: Kumaon Hills: Askot: Dholakot"
 ---
