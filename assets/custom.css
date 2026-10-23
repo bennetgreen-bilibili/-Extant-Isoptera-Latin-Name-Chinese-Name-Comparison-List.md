@@ -79,20 +79,21 @@ a{color:var(--accent)}
 .latin{font-family:var(--font-serif);font-style:italic;font-weight:500}
 .type-mark{color:var(--earth);font-weight:700;margin-right:2px}
 
-/* ===== 目录侧栏：突破整页容器、固定贴左 ===== */
-.layout-with-toc{display:block}
-.is-list-page .content{max-width:none;margin:0;padding:0 48px 0 360px}
-.toc-side{position:fixed;left:0;top:calc(var(--nav-h) + 16px);width:320px;max-height:calc(100vh - var(--nav-h) - 32px);overflow-y:auto;overscroll-behavior:contain;padding:16px 12px 20px 22px;background:var(--card);border:1px solid var(--line);border-left:none;border-radius:0 var(--radius) var(--radius) 0;box-shadow:var(--shadow-md);font-size:13.5px;line-height:1.55;z-index:400}
+/* ===== 目录侧栏：贴视口左缘、随内容滚动，不遮挡页头 ===== */
+.is-list-page .content-wrap.has-toc{display:grid;grid-template-columns:320px minmax(0,1fr);column-gap:40px;align-items:start;padding:0}
+.is-list-page .content-wrap.has-toc > .content{grid-column:2;max-width:none;margin:0;padding:26px 48px 64px 0}
+.toc-side{grid-column:1;align-self:start;position:sticky;top:calc(var(--nav-h) + 16px);margin:26px 0 0;max-height:calc(100vh - var(--nav-h) - 32px);overflow-y:auto;overscroll-behavior:contain;padding:16px 12px 20px 22px;background:var(--card);border:1px solid var(--line);border-left:none;border-radius:0 var(--radius) var(--radius) 0;box-shadow:var(--shadow-md);font-size:13.5px;line-height:1.55;z-index:1}
 .toc-heading{font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);margin-bottom:8px;font-weight:700}
 .toc-side ul{list-style:none;margin:0;padding:0}
 .toc-side li{position:relative;margin:1px 0}
 .toc-side li.collapsed > ul{display:none}
-.toc-toggle{position:absolute;left:2px;top:3px;width:14px;height:14px;padding:0;border:0;background:transparent;color:var(--muted);font-size:10px;line-height:14px;text-align:center;cursor:pointer;border-radius:3px;font-family:inherit}
-.toc-toggle:hover{color:var(--accent);background:var(--accent-soft)}
-.toc-side a{display:block;padding:3px 8px 3px 20px;color:var(--muted);text-decoration:none;border-radius:6px;border-left:2px solid transparent}
-.toc-side a:hover{color:var(--accent);background:var(--accent-softer)}
+.toc-toggle{position:absolute;left:2px;top:4px;width:15px;height:15px;padding:0;border:0;background:transparent;color:var(--accent);font-size:11px;line-height:15px;text-align:center;cursor:pointer;border-radius:4px;font-family:inherit;opacity:.75}
+.toc-toggle:hover{color:var(--accent-strong);background:var(--accent-soft);opacity:1}
+.toc-side a{display:block;padding:3px 8px 3px 20px;color:var(--ink);opacity:.78;text-decoration:none;border-radius:6px;border-left:2px solid transparent}
+.toc-side a:hover{color:var(--accent);opacity:1;background:var(--accent-softer)}
 .toc-side ul ul{padding-left:12px;border-left:1px solid var(--line-soft);margin-left:7px}
-@media (max-width:1080px){.layout-with-toc{display:block}.toc-side{position:static;width:auto;max-height:none;overflow:visible;padding:14px;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm)}.is-list-page .content{max-width:1100px;margin:0 auto;padding:0 20px}}
+.is-list-page .content h2,.is-list-page .content h3,.is-list-page .content h4,.is-list-page .content h5{scroll-margin-top:calc(var(--nav-h) + 18px)}
+@media (max-width:1080px){.is-list-page .content-wrap.has-toc{display:block;padding:26px 0 64px}.is-list-page .content-wrap.has-toc > .content{max-width:1100px;margin:0 auto;padding:0 20px}.toc-side{position:static;margin:0 20px 18px;max-height:none;overflow:visible;padding:14px;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm)}}
 
 /* ===== 表格 ===== */
 .content table{border-collapse:separate;border-spacing:0;width:100%;margin:1.2em 0;font-size:.94em;border:1px solid var(--line);border-radius:var(--radius-sm);overflow:hidden;box-shadow:var(--shadow-sm);background:var(--card)}

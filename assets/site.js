@@ -17,8 +17,9 @@
     var tree = list.cloneNode(true);
     aside.appendChild(tree);
     enhanceToc(tree);
-    content.classList.add('layout-with-toc');
-    content.insertBefore(aside, content.firstChild);
+    var wrap = content.parentNode;
+    wrap.classList.add('has-toc');
+    wrap.insertBefore(aside, content);
     toc.parentNode.removeChild(toc);
     list.parentNode.removeChild(list);
   }
