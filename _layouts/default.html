@@ -18,7 +18,7 @@
 <link rel="alternate" hreflang="en" href="{{ site.base_url }}/en{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
 {% endif %}{% endunless %}
-<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
 </head>
 <body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
 
@@ -83,7 +83,7 @@
 
 <button class="back-top" id="back-top" aria-label="回到顶部" title="回到顶部">↑</button>
 
-<script src="{{ site.base_url }}/assets/search.js"></script>
-<script src="{{ site.base_url }}/assets/site.js"></script>
+<script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
+<script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>
 </body>
 </html>
