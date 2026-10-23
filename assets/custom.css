@@ -176,3 +176,8 @@ a{color:var(--accent)}
 .synonym-list,.synonym-localities{margin:.3em 0 .3em 1.25em;padding:0}
 .synonym-list li,.synonym-localities li{margin:.18em 0;line-height:1.55}
 .synonym-localities-label{margin:.7em 0 .15em;font-weight:600}
+
+/* ===== 名录页：科/亚科插图 ===== */
+.taxa-illustration{margin:1.5em 0 1.9em;text-align:center}
+.taxa-illustration img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:var(--radius-sm);box-shadow:var(--shadow-sm);background:var(--card)}
+.taxa-illustration figcaption{font-size:.86em;color:var(--muted);margin-top:.55em;line-height:1.55;text-align:center;overflow-wrap:anywhere}
