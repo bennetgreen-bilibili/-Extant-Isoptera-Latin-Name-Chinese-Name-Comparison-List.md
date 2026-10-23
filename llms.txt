@@ -12,6 +12,7 @@
 - [简介（作者、版本、收录范围、引用格式）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/about/)
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
 - [留言（Giscus 留言板）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/)
+- [物种页（每个物种/亚种一个独立页面，URL 形如 /species/<拉丁学名小写连字符>/，共 3008 种 + 63 亚种）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/mastotermes-darwiniensis/)
 
 ## Key pages (English)
 - [Home (search + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)

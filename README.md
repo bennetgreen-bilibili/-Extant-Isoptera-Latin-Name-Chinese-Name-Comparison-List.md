@@ -32,3 +32,10 @@
   2. 打开 https://giscus.app/ ，填写仓库 `bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md`。
   3. 在 Discussion Category 里选择一个分类（如 General / Announcements）。
   4. 复制生成的 `data-category` 与 `data-category-id`，替换 `guestbook.md` 和 `en/guestbook.md` 中对应的占位值。
+
+## 物种页（每个物种/亚种一个独立页面）
+- `_species/*.md`：Jekyll 集合（collection），共 3071 个文件（3008 种 + 63 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
+- `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式种标记；正文留空待补充）。
+- `list.md` / `en/list.md`：名录中每个物种名已链接到对应物种页。
+- 在 `_config.yml` 中通过 `collections.species` 注册（`output: true`，`permalink: /species/:name/`）。
+- 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="species-page">
+  <nav class="species-crumbs" aria-label="分类位置">
+    <a href="{{ site.base_url }}/list/">名录</a>
+    › <a href="{{ site.base_url }}/list/#{{ page.family_id }}">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/list/#{{ page.subfamily_id }}">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/list/#{{ page.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a>
+  </nav>
+
+  <h1 class="species-title"><i class="species-latin">{{ page.latin }}</i> <span class="species-zh">{{ page.zh }}</span></h1>
+
+  <p class="species-meta">{% if page.rank == 'subspecies' %}亚种{% else %}种{% endif %} · 拉丁学名 · 中文正名{% if page.type %} · <span class="species-type-mark">* 模式种</span>{% endif %}</p>
+
+  {% if page.rank == 'subspecies' %}
+  <p class="species-parent">隶属：<a href="{{ site.base_url }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i> {{ page.parent_zh }}</a></p>
+  {% endif %}
+
+  <p class="species-placeholder">本页内容待补充。</p>
+</article>

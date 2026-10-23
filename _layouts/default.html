@@ -6,7 +6,7 @@
 <title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="canonical" href="{{ site.base_url }}{{ page.url }}">
-{% if page.layout == 'post' %}
+{% unless page.collection == 'species' %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
 {% elsif page.lang == 'en' %}
@@ -17,7 +17,7 @@
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="en" href="{{ site.base_url }}/en{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
-{% endif %}
+{% endif %}{% endunless %}
 <link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css">
 </head>
 <body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
@@ -44,7 +44,7 @@
       <a class="hero-brand" href="{{ site.base_url }}/">现存等翅下目名录 <span class="hero-brand-en">Extant Isoptera</span></a>
       <div class="hero-actions">
         <span class="hero-version">v2026.10.17</span>
-        <a class="lang-switch" href="{{ switch_url }}">{{ switch_label }}</a>
+        {% unless page.collection == 'species' %}<a class="lang-switch" href="{{ switch_url }}">{{ switch_label }}</a>{% endunless %}
       </div>
     </div>
     {% if page.url == '/' or page.url == '/en/' %}

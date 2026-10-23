@@ -7,6 +7,11 @@ lang: zh-CN
 author: 班奈特格林
 base_url: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
 
+collections:
+  species:
+    output: true
+    permalink: /species/:name/
+
 defaults:
   -
     scope:
@@ -16,6 +21,14 @@ defaults:
       author: 班奈特格林
       lang: zh-CN
       permalink: /blog/:year/:month/:day/:slug/
+  -
+    scope:
+      path: ""
+      type: "species"
+    values:
+      layout: species
+      lang: zh-CN
+      author: 班奈特格林
 
 plugins:
   - jekyll-seo-tag

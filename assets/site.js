@@ -26,9 +26,10 @@
     var content = document.querySelector('.content');
     if (!content) return;
     var ps = content.querySelectorAll('p');
-    var re = /^(*?)([A-Z][a-z]+(?:\s[a-z][a-z\-]+)?)(\s[\u4e00-\u9fff])/;
+    var re = /^(\*?)([A-Z][a-z]+(?:\s[a-z][a-z\-]+)?)(\s[\u4e00-\u9fff])/;
     for (var i = 0; i < ps.length; i++) {
       var p = ps[i];
+      if (p.querySelector('a')) continue;
       var t = p.textContent;
       var m = t.match(re);
       if (!m) continue;

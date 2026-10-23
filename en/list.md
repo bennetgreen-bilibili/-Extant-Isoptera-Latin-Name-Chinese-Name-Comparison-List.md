@@ -388,7 +388,7 @@ The living species is distributed in the tropical regions of northern Australia 
 
 <h5 id="mastotermes">Mastotermes</h5>
 
-\*Mastotermes darwiniensis 达尔文澳白蚁（northern Australia, tropical northern region, introduced: Papua New Guinea）
+\*[*Mastotermes darwiniensis* 达尔文澳白蚁]({{ site.base_url }}/species/mastotermes-darwiniensis/)（northern Australia, tropical northern region, introduced: Papua New Guinea）
 
 <h2 id="euisoptera">Euisoptera</h2>
 
@@ -404,21 +404,21 @@ Archotermopsis kuznetsovi 库兹涅佐夫古白蚁
 
 <h5 id="archotermopsis">Archotermopsis</h5>
 
-Archotermopsis kuznetsovi 库兹涅佐夫古白蚁（China, Vietnam）
+[*Archotermopsis kuznetsovi* 库兹涅佐夫古白蚁]({{ site.base_url }}/species/archotermopsis-kuznetsovi/)（China, Vietnam）
 
-\*Archotermopsis wroughtoni 罗夫顿古白蚁（South Asia, China）
+\*[*Archotermopsis wroughtoni* 罗夫顿古白蚁]({{ site.base_url }}/species/archotermopsis-wroughtoni/)（South Asia, China）
 
 <h5 id="zootermopsis">Zootermopsis</h5>
 
-\*Zootermopsis angusticollis 狭颈动白蚁（West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States)）
+\*[*Zootermopsis angusticollis* 狭颈动白蚁]({{ site.base_url }}/species/zootermopsis-angusticollis/)（West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States)）
 
-Zootermopsis laticeps 宽头动白蚁（southwestern North America, United States, Mexico）
+[*Zootermopsis laticeps* 宽头动白蚁]({{ site.base_url }}/species/zootermopsis-laticeps/)（southwestern North America, United States, Mexico）
 
-Zootermopsis nevadensis 内华达动白蚁（western North America, western United States, western Canada, Mexico, introduced: Japan）
+[*Zootermopsis nevadensis* 内华达动白蚁]({{ site.base_url }}/species/zootermopsis-nevadensis/)（western North America, western United States, western Canada, Mexico, introduced: Japan）
 
-nevadensis 指名亚种
+[*nevadensis* 指名亚种]({{ site.base_url }}/species/zootermopsis-nevadensis-nevadensis/)
 
-nuttingi 纳丁亚种
+[*nuttingi* 纳丁亚种]({{ site.base_url }}/species/zootermopsis-nevadensis-nuttingi/)
 
 <h3 id="hodotermitidae">HODOTERMITIDAE</h3>
 
@@ -428,51 +428,51 @@ This family comprises the “harvester” termites endemic to the arid zones of 
 
 <h5 id="anacanthotermes">Anacanthotermes</h5>
 
-Anacanthotermes ahngerianus 安格无刺白蚁（Middle East, Kazakhstan, Uzbekistan, Iran, Turkmenistan）
+[*Anacanthotermes ahngerianus* 安格无刺白蚁]({{ site.base_url }}/species/anacanthotermes-ahngerianus/)（Middle East, Kazakhstan, Uzbekistan, Iran, Turkmenistan）
 
-Anacanthotermes baeckmannianus 贝克曼无刺白蚁（Kazakhstan）
+[*Anacanthotermes baeckmannianus* 贝克曼无刺白蚁]({{ site.base_url }}/species/anacanthotermes-baeckmannianus/)（Kazakhstan）
 
-Anacanthotermes baluchistanicus 俾路支无刺白蚁（Pakistan）
+[*Anacanthotermes baluchistanicus* 俾路支无刺白蚁]({{ site.base_url }}/species/anacanthotermes-baluchistanicus/)（Pakistan）
 
-Anacanthotermes esmailii 艾斯梅尔无刺白蚁（Iran）
+[*Anacanthotermes esmailii* 艾斯梅尔无刺白蚁]({{ site.base_url }}/species/anacanthotermes-esmailii/)（Iran）
 
-Anacanthotermes gurganiensis 戈尔甘无刺白蚁（Iran）
+[*Anacanthotermes gurganiensis* 戈尔甘无刺白蚁]({{ site.base_url }}/species/anacanthotermes-gurganiensis/)（Iran）
 
-Anacanthotermes iranicus 伊朗无刺白蚁（Iran）
+[*Anacanthotermes iranicus* 伊朗无刺白蚁]({{ site.base_url }}/species/anacanthotermes-iranicus/)（Iran）
 
-Anacanthotermes macrocephalus 大头无刺白蚁（India, Afghanistan, Iran, Pakistan）
+[*Anacanthotermes macrocephalus* 大头无刺白蚁]({{ site.base_url }}/species/anacanthotermes-macrocephalus/)（India, Afghanistan, Iran, Pakistan）
 
-Anacanthotermes murgabicus 穆尔加布无刺白蚁（Turkmenistan）
+[*Anacanthotermes murgabicus* 穆尔加布无刺白蚁]({{ site.base_url }}/species/anacanthotermes-murgabicus/)（Turkmenistan）
 
-\*Anacanthotermes ochraceus 黄赭无刺白蚁（North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen）
+\*[*Anacanthotermes ochraceus* 黄赭无刺白蚁]({{ site.base_url }}/species/anacanthotermes-ochraceus/)（North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen）
 
-Anacanthotermes saudiensis 沙特无刺白蚁（Saudi Arabia）
+[*Anacanthotermes saudiensis* 沙特无刺白蚁]({{ site.base_url }}/species/anacanthotermes-saudiensis/)（Saudi Arabia）
 
-Anacanthotermes sawensis 塞瓦无刺白蚁（Iraq）
+[*Anacanthotermes sawensis* 塞瓦无刺白蚁]({{ site.base_url }}/species/anacanthotermes-sawensis/)（Iraq）
 
-Anacanthotermes septentrionalis 北方无刺白蚁（Middle East, Iran, Afghanistan, Turkmenistan）
+[*Anacanthotermes septentrionalis* 北方无刺白蚁]({{ site.base_url }}/species/anacanthotermes-septentrionalis/)（Middle East, Iran, Afghanistan, Turkmenistan）
 
-Anacanthotermes turkestanicus 土耳其斯坦无刺白蚁（Middle East, Uzbekistan, Kazakhstan, Iran, Tajikistan, Turkmenistan）
+[*Anacanthotermes turkestanicus* 土耳其斯坦无刺白蚁]({{ site.base_url }}/species/anacanthotermes-turkestanicus/)（Middle East, Uzbekistan, Kazakhstan, Iran, Tajikistan, Turkmenistan）
 
-Anacanthotermes ubachi 乌巴齐无刺白蚁（Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey）
+[*Anacanthotermes ubachi* 乌巴齐无刺白蚁]({{ site.base_url }}/species/anacanthotermes-ubachi/)（Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey）
 
-Anacanthotermes vagans 游荡无刺白蚁（Middle East, Iran, Afghanistan, Iraq, Kuwait, Pakistan, Saudi Arabia）
+[*Anacanthotermes vagans* 游荡无刺白蚁]({{ site.base_url }}/species/anacanthotermes-vagans/)（Middle East, Iran, Afghanistan, Iraq, Kuwait, Pakistan, Saudi Arabia）
 
-Anacanthotermes viarum 小径无刺白蚁（India, Sri Lanka）
+[*Anacanthotermes viarum* 小径无刺白蚁]({{ site.base_url }}/species/anacanthotermes-viarum/)（India, Sri Lanka）
 
 <h5 id="hodotermes">Hodotermes</h5>
 
-Hodotermes erithreensis 厄立特里亚草白蚁（Eritrea, Ethiopia, Somalia）
+[*Hodotermes erithreensis* 厄立特里亚草白蚁]({{ site.base_url }}/species/hodotermes-erithreensis/)（Eritrea, Ethiopia, Somalia）
 
-\*Hodotermes mossambicus 莫桑比克草白蚁（southern and eastern Africa）
+\*[*Hodotermes mossambicus* 莫桑比克草白蚁]({{ site.base_url }}/species/hodotermes-mossambicus/)（southern and eastern Africa）
 
 <h5 id="microhodotermes">Microhodotermes</h5>
 
-Microhodotermes maroccanus 摩洛哥小草白蚁（Morocco, Algeria）
+[*Microhodotermes maroccanus* 摩洛哥小草白蚁]({{ site.base_url }}/species/microhodotermes-maroccanus/)（Morocco, Algeria）
 
-\*Microhodotermes viator 旅游小草白蚁（South Africa, Namibia）
+\*[*Microhodotermes viator* 旅游小草白蚁]({{ site.base_url }}/species/microhodotermes-viator/)（South Africa, Namibia）
 
-Microhodotermes wasmanni 沃斯曼小草白蚁（Libya, Egypt, Israel, Tunisia）
+[*Microhodotermes wasmanni* 沃斯曼小草白蚁]({{ site.base_url }}/species/microhodotermes-wasmanni/)（Libya, Egypt, Israel, Tunisia）
 
 <h3 id="hodotermopsidae">HODOTERMOPSIDAE</h3>
 
@@ -484,7 +484,7 @@ Hodotermopsis sjostedti 山林原白蚁
 
 <h5 id="hodotermopsis">Hodotermopsis</h5>
 
-\*Hodotermopsis sjostedti 山林原白蚁（Japan, China (Taiwan), southern China, Vietnam）
+\*[*Hodotermopsis sjostedti* 山林原白蚁]({{ site.base_url }}/species/hodotermopsis-sjostedti/)（Japan, China (Taiwan), southern China, Vietnam）
 
 <h3 id="stolotermitidae">STOLOTERMITIDAE</h3>
 
@@ -494,27 +494,27 @@ This family comprises the “dampwood termites” with a typical Gondwanan disju
 
 <h5 id="porotermes">Porotermes</h5>
 
-Porotermes adamsoni 亚当森洞白蚁（Australia; introduced: New Zealand）
+[*Porotermes adamsoni* 亚当森洞白蚁]({{ site.base_url }}/species/porotermes-adamsoni/)（Australia; introduced: New Zealand）
 
-Porotermes planiceps 扁头洞白蚁（South Africa）
+[*Porotermes planiceps* 扁头洞白蚁]({{ site.base_url }}/species/porotermes-planiceps/)（South Africa）
 
-\*Porotermes quadricollis 方颈洞白蚁（Chile and southern South America）
+\*[*Porotermes quadricollis* 方颈洞白蚁]({{ site.base_url }}/species/porotermes-quadricollis/)（Chile and southern South America）
 
 <h5 id="stolotermes">Stolotermes</h5>
 
-Stolotermes africanus 非洲胄白蚁（South Africa）
+[*Stolotermes africanus* 非洲胄白蚁]({{ site.base_url }}/species/stolotermes-africanus/)（South Africa）
 
-Stolotermes australicus 澳大利亚胄白蚁（Australia）
+[*Stolotermes australicus* 澳大利亚胄白蚁]({{ site.base_url }}/species/stolotermes-australicus/)（Australia）
 
-\*Stolotermes brunneicornis 棕角胄白蚁（Australia）
+\*[*Stolotermes brunneicornis* 棕角胄白蚁]({{ site.base_url }}/species/stolotermes-brunneicornis/)（Australia）
 
-Stolotermes inopinus 未料胄白蚁（New Zealand）
+[*Stolotermes inopinus* 未料胄白蚁]({{ site.base_url }}/species/stolotermes-inopinus/)（New Zealand）
 
-Stolotermes queenslandicus 昆士兰胄白蚁（Australia）
+[*Stolotermes queenslandicus* 昆士兰胄白蚁]({{ site.base_url }}/species/stolotermes-queenslandicus/)（Australia）
 
-Stolotermes ruficeps 红头胄白蚁（New Zealand）
+[*Stolotermes ruficeps* 红头胄白蚁]({{ site.base_url }}/species/stolotermes-ruficeps/)（New Zealand）
 
-Stolotermes victoriensis 维多利亚胄白蚁（Australia）
+[*Stolotermes victoriensis* 维多利亚胄白蚁]({{ site.base_url }}/species/stolotermes-victoriensis/)（Australia）
 
 <h2 id="icoisoptera">Icoisoptera</h2>
 
@@ -528,1015 +528,1015 @@ Neotermes sp.
 
 <h5 id="allotermes">Allotermes</h5>
 
-Allotermes denticulatus 小齿奇白蚁（Madagascar）
+[*Allotermes denticulatus* 小齿奇白蚁]({{ site.base_url }}/species/allotermes-denticulatus/)（Madagascar）
 
-Allotermes papillifer 乳突奇白蚁（Madagascar）
+[*Allotermes papillifer* 乳突奇白蚁]({{ site.base_url }}/species/allotermes-papillifer/)（Madagascar）
 
-\*Allotermes paradoxus 奇异奇白蚁（Indian Ocean islands (Réunion), Madagascar）
+\*[*Allotermes paradoxus* 奇异奇白蚁]({{ site.base_url }}/species/allotermes-paradoxus/)（Indian Ocean islands (Réunion), Madagascar）
 
 <h5 id="bicornitermes">Bicornitermes</h5>
 
-\*Bicornitermes bicornis 双角双角白蚁（Central African Republic, Democratic Republic of the Congo, Uganda）
+\*[*Bicornitermes bicornis* 双角双角白蚁]({{ site.base_url }}/species/bicornitermes-bicornis/)（Central African Republic, Democratic Republic of the Congo, Uganda）
 
-Bicornitermes emersoni 埃默森双角白蚁（Democratic Republic of the Congo）
+[*Bicornitermes emersoni* 埃默森双角白蚁]({{ site.base_url }}/species/bicornitermes-emersoni/)（Democratic Republic of the Congo）
 
-Bicornitermes exsertifrons 突额双角白蚁（Nigeria）
+[*Bicornitermes exsertifrons* 突额双角白蚁]({{ site.base_url }}/species/bicornitermes-exsertifrons/)（Nigeria）
 
-Bicornitermes spinicollis 刺颈双角白蚁（Cameroon, Ghana, Nigeria, Tanzania）
+[*Bicornitermes spinicollis* 刺颈双角白蚁]({{ site.base_url }}/species/bicornitermes-spinicollis/)（Cameroon, Ghana, Nigeria, Tanzania）
 
 <h5 id="bifiditermes">Bifiditermes</h5>
 
-Bifiditermes angulatus 角状双裂白蚁（East Africa）
+[*Bifiditermes angulatus* 角状双裂白蚁]({{ site.base_url }}/species/bifiditermes-angulatus/)（East Africa）
 
-Bifiditermes beesoni 比森双裂白蚁（India, Pakistan）
+[*Bifiditermes beesoni* 比森双裂白蚁]({{ site.base_url }}/species/bifiditermes-beesoni/)（India, Pakistan）
 
-Bifiditermes durbanensis 德班双裂白蚁（South Africa, Kenya, Tanzania）
+[*Bifiditermes durbanensis* 德班双裂白蚁]({{ site.base_url }}/species/bifiditermes-durbanensis/)（South Africa, Kenya, Tanzania）
 
-Bifiditermes improbus 不诚双裂白蚁（Australia, New Zealand）
+[*Bifiditermes improbus* 不诚双裂白蚁]({{ site.base_url }}/species/bifiditermes-improbus/)（Australia, New Zealand）
 
-Bifiditermes indicus 印度双裂白蚁（India, Indonesia, Thailand）
+[*Bifiditermes indicus* 印度双裂白蚁]({{ site.base_url }}/species/bifiditermes-indicus/)（India, Indonesia, Thailand）
 
-Bifiditermes jeannelanus 让内尔双裂白蚁（Africa）
+[*Bifiditermes jeannelanus* 让内尔双裂白蚁]({{ site.base_url }}/species/bifiditermes-jeannelanus/)（Africa）
 
-\*Bifiditermes madagascariensis 马达加斯加双裂白蚁（Madagascar, Comoros）
+\*[*Bifiditermes madagascariensis* 马达加斯加双裂白蚁]({{ site.base_url }}/species/bifiditermes-madagascariensis/)（Madagascar, Comoros）
 
-Bifiditermes mutubae 榕树双裂白蚁（Kenya, Democratic Republic of the Congo, Sudan, Tanzania, Uganda）
+[*Bifiditermes mutubae* 榕树双裂白蚁]({{ site.base_url }}/species/bifiditermes-mutubae/)（Kenya, Democratic Republic of the Congo, Sudan, Tanzania, Uganda）
 
-Bifiditermes pintoi 平托双裂白蚁（Sri Lanka, India）
+[*Bifiditermes pintoi* 平托双裂白蚁]({{ site.base_url }}/species/bifiditermes-pintoi/)（Sri Lanka, India）
 
-Bifiditermes rogierae 罗吉尔双裂白蚁（Spain）
+[*Bifiditermes rogierae* 罗吉尔双裂白蚁]({{ site.base_url }}/species/bifiditermes-rogierae/)（Spain）
 
-Bifiditermes sibayiensis 斯巴艺双裂白蚁（Namibia, South Africa, Tanzania, Zambia, Zimbabwe）
+[*Bifiditermes sibayiensis* 斯巴艺双裂白蚁]({{ site.base_url }}/species/bifiditermes-sibayiensis/)（Namibia, South Africa, Tanzania, Zambia, Zimbabwe）
 
-Bifiditermes sylvaticus 森林双裂白蚁（Kenya, Uganda）
+[*Bifiditermes sylvaticus* 森林双裂白蚁]({{ site.base_url }}/species/bifiditermes-sylvaticus/)（Kenya, Uganda）
 
 <h5 id="calcaritermes">Calcaritermes</h5>
 
-Calcaritermes brevicollis 短颈距白蚁（Panama, Belize, Colombia, Costa Rica, Nicaragua）
+[*Calcaritermes brevicollis* 短颈距白蚁]({{ site.base_url }}/species/calcaritermes-brevicollis/)（Panama, Belize, Colombia, Costa Rica, Nicaragua）
 
-Calcaritermes colei 科尔距白蚁（Mexico, Belize, Guatemala, Honduras）
+[*Calcaritermes colei* 科尔距白蚁]({{ site.base_url }}/species/calcaritermes-colei/)（Mexico, Belize, Guatemala, Honduras）
 
-Calcaritermes emarginicollis 刻颈距白蚁（Central America, Costa Rica, Panama, Honduras, Belize）
+[*Calcaritermes emarginicollis* 刻颈距白蚁]({{ site.base_url }}/species/calcaritermes-emarginicollis/)（Central America, Costa Rica, Panama, Honduras, Belize）
 
-Calcaritermes guatemalae 危地马拉距白蚁（Central America, Belize, Guatemala, Mexico, Honduras）
+[*Calcaritermes guatemalae* 危地马拉距白蚁]({{ site.base_url }}/species/calcaritermes-guatemalae/)（Central America, Belize, Guatemala, Mexico, Honduras）
 
-\*Calcaritermes imminens 悬垂距白蚁（Colombia）
+\*[*Calcaritermes imminens* 悬垂距白蚁]({{ site.base_url }}/species/calcaritermes-imminens/)（Colombia）
 
-Calcaritermes krishnai 克里希纳距白蚁（India (Nicobar Islands)）
+[*Calcaritermes krishnai* 克里希纳距白蚁]({{ site.base_url }}/species/calcaritermes-krishnai/)（India (Nicobar Islands)）
 
-Calcaritermes nearcticus 新北距白蚁（United States）
+[*Calcaritermes nearcticus* 新北距白蚁]({{ site.base_url }}/species/calcaritermes-nearcticus/)（United States）
 
-Calcaritermes nigriceps 黑头距白蚁（South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela）
+[*Calcaritermes nigriceps* 黑头距白蚁]({{ site.base_url }}/species/calcaritermes-nigriceps/)（South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela）
 
-Calcaritermes parvinotus 小背距白蚁（Mexico）
+[*Calcaritermes parvinotus* 小背距白蚁]({{ site.base_url }}/species/calcaritermes-parvinotus/)（Mexico）
 
-Calcaritermes rioensis 里约距白蚁（South America, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela）
+[*Calcaritermes rioensis* 里约距白蚁]({{ site.base_url }}/species/calcaritermes-rioensis/)（South America, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela）
 
-Calcaritermes snyderi 斯奈德距白蚁（El Salvador, Panama, Belize, Guatemala, Honduras）
+[*Calcaritermes snyderi* 斯奈德距白蚁]({{ site.base_url }}/species/calcaritermes-snyderi/)（El Salvador, Panama, Belize, Guatemala, Honduras）
 
-Calcaritermes temnocephalus 切头距白蚁（South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela）
+[*Calcaritermes temnocephalus* 切头距白蚁]({{ site.base_url }}/species/calcaritermes-temnocephalus/)（South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela）
 
 <h5 id="ceratokalotermes">Ceratokalotermes</h5>
 
-\*Ceratokalotermes spoliator 掠夺角木白蚁（Australia）
+\*[*Ceratokalotermes spoliator* 掠夺角木白蚁]({{ site.base_url }}/species/ceratokalotermes-spoliator/)（Australia）
 
 <h5 id="comatermes">Comatermes</h5>
 
-\*Comatermes perfectus 完美毛白蚁（Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago）
+\*[*Comatermes perfectus* 完美毛白蚁]({{ site.base_url }}/species/comatermes-perfectus/)（Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago）
 
 <h5 id="cryptotermes">Cryptotermes</h5>
 
-Cryptotermes abruptus 陡额堆砂白蚁（Mexico）
+[*Cryptotermes abruptus* 陡额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-abruptus/)（Mexico）
 
-Cryptotermes aequacornis 等角堆砂白蚁（Trinidad and Tobago, Venezuela）
+[*Cryptotermes aequacornis* 等角堆砂白蚁]({{ site.base_url }}/species/cryptotermes-aequacornis/)（Trinidad and Tobago, Venezuela）
 
-Cryptotermes albipes 白足堆砂白蚁（New Caledonia, Vanuatu）
+[*Cryptotermes albipes* 白足堆砂白蚁]({{ site.base_url }}/species/cryptotermes-albipes/)（New Caledonia, Vanuatu）
 
-Cryptotermes angustinotus 狭背堆砂白蚁（Sichuan (Jiang'an)）
+[*Cryptotermes angustinotus* 狭背堆砂白蚁]({{ site.base_url }}/species/cryptotermes-angustinotus/)（Sichuan (Jiang'an)）
 
-Cryptotermes austrinus 澳大利亚堆砂白蚁（Australia）
+[*Cryptotermes austrinus* 澳大利亚堆砂白蚁]({{ site.base_url }}/species/cryptotermes-austrinus/)（Australia）
 
-Cryptotermes bengalensis 孟加拉堆砂白蚁（South Asia, India, Sri Lanka, China, Thailand）
+[*Cryptotermes bengalensis* 孟加拉堆砂白蚁]({{ site.base_url }}/species/cryptotermes-bengalensis/)（South Asia, India, Sri Lanka, China, Thailand）
 
-Cryptotermes bracketti 布拉克特堆砂白蚁（Bahamas, San Salvador Island）
+[*Cryptotermes bracketti* 布拉克特堆砂白蚁]({{ site.base_url }}/species/cryptotermes-bracketti/)（Bahamas, San Salvador Island）
 
-Cryptotermes brevis 麻头堆砂白蚁（native to the coasts of Peru and Chile, now pantropical; Canada, Canary Islands (Spain), Egypt, Israel, Italy, Madeira (Portugal), Portugal, Spain, United States）
+[*Cryptotermes brevis* 麻头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-brevis/)（native to the coasts of Peru and Chile, now pantropical; Canada, Canary Islands (Spain), Egypt, Israel, Italy, Madeira (Portugal), Portugal, Spain, United States）
 
-Cryptotermes camelus 骆驼堆砂白蚁（Bolivia）
+[*Cryptotermes camelus* 骆驼堆砂白蚁]({{ site.base_url }}/species/cryptotermes-camelus/)（Bolivia）
 
-Cryptotermes canalensis 卡纳拉堆砂白蚁（New Caledonia）
+[*Cryptotermes canalensis* 卡纳拉堆砂白蚁]({{ site.base_url }}/species/cryptotermes-canalensis/)（New Caledonia）
 
-\*Cryptotermes cavifrons 凹额堆砂白蚁（North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands）
+\*[*Cryptotermes cavifrons* 凹额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cavifrons/)（North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands）
 
-Cryptotermes ceylonicus 锡兰堆砂白蚁（Sri Lanka）
+[*Cryptotermes ceylonicus* 锡兰堆砂白蚁]({{ site.base_url }}/species/cryptotermes-ceylonicus/)（Sri Lanka）
 
-Cryptotermes chacoensis 查科堆砂白蚁（Paraguay, Argentina, Bolivia）
+[*Cryptotermes chacoensis* 查科堆砂白蚁]({{ site.base_url }}/species/cryptotermes-chacoensis/)（Paraguay, Argentina, Bolivia）
 
-Cryptotermes chasei 蔡斯堆砂白蚁（Dominican Republic）
+[*Cryptotermes chasei* 蔡斯堆砂白蚁]({{ site.base_url }}/species/cryptotermes-chasei/)（Dominican Republic）
 
-Cryptotermes colombianus 哥伦比亚堆砂白蚁（Colombia）
+[*Cryptotermes colombianus* 哥伦比亚堆砂白蚁]({{ site.base_url }}/species/cryptotermes-colombianus/)（Colombia）
 
-Cryptotermes contognathus 短颚堆砂白蚁（Brazil）
+[*Cryptotermes contognathus* 短颚堆砂白蚁]({{ site.base_url }}/species/cryptotermes-contognathus/)（Brazil）
 
-Cryptotermes crassicornis 粗角堆砂白蚁（South Africa）
+[*Cryptotermes crassicornis* 粗角堆砂白蚁]({{ site.base_url }}/species/cryptotermes-crassicornis/)（South Africa）
 
-Cryptotermes cristatus 高额堆砂白蚁（Australia）
+[*Cryptotermes cristatus* 高额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cristatus/)（Australia）
 
-Cryptotermes cryptognathus 隐颚堆砂白蚁（Jamaica）
+[*Cryptotermes cryptognathus* 隐颚堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cryptognathus/)（Jamaica）
 
-Cryptotermes cubicoceps 方头堆砂白蚁（Guyana, Trinidad and Tobago）
+[*Cryptotermes cubicoceps* 方头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cubicoceps/)（Guyana, Trinidad and Tobago）
 
-Cryptotermes cylindroceps 筒头堆砂白蚁（South America, Venezuela, Colombia, Aruba, Bonaire, Curaçao）
+[*Cryptotermes cylindroceps* 筒头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cylindroceps/)（South America, Venezuela, Colombia, Aruba, Bonaire, Curaçao）
 
-Cryptotermes cymatofrons 波额堆砂白蚁（Cuba, Bahamas）
+[*Cryptotermes cymatofrons* 波额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cymatofrons/)（Cuba, Bahamas）
 
-Cryptotermes cynocephalus 犬头堆砂白蚁（Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka）
+[*Cryptotermes cynocephalus* 犬头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-cynocephalus/)（Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka）
 
-Cryptotermes darlingtonae 达林顿堆砂白蚁（Caribbean, Guadeloupe, Saint Lucia）
+[*Cryptotermes darlingtonae* 达林顿堆砂白蚁]({{ site.base_url }}/species/cryptotermes-darlingtonae/)（Caribbean, Guadeloupe, Saint Lucia）
 
-Cryptotermes darwini 达尔文堆砂白蚁（Ecuador）
+[*Cryptotermes darwini* 达尔文堆砂白蚁]({{ site.base_url }}/species/cryptotermes-darwini/)（Ecuador）
 
-Cryptotermes daulti 道尔特堆砂白蚁（India）
+[*Cryptotermes daulti* 道尔特堆砂白蚁]({{ site.base_url }}/species/cryptotermes-daulti/)（India）
 
-Cryptotermes declivis 铲头堆砂白蚁（China）
+[*Cryptotermes declivis* 铲头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-declivis/)（China）
 
-Cryptotermes dolei 多尔堆砂白蚁（French Polynesia）
+[*Cryptotermes dolei* 多尔堆砂白蚁]({{ site.base_url }}/species/cryptotermes-dolei/)（French Polynesia）
 
-Cryptotermes domesticus 截头堆砂白蚁（Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France)）
+[*Cryptotermes domesticus* 截头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-domesticus/)（Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France)）
 
-Cryptotermes dudleyi 长颚堆砂白蚁（Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda）
+[*Cryptotermes dudleyi* 长颚堆砂白蚁]({{ site.base_url }}/species/cryptotermes-dudleyi/)（Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda）
 
-Cryptotermes fatulus 简单堆砂白蚁（Ecuador, Mexico）
+[*Cryptotermes fatulus* 简单堆砂白蚁]({{ site.base_url }}/species/cryptotermes-fatulus/)（Ecuador, Mexico）
 
-Cryptotermes garifunae 加利福尼亚堆砂白蚁（Honduras）
+[*Cryptotermes garifunae* 加利福尼亚堆砂白蚁]({{ site.base_url }}/species/cryptotermes-garifunae/)（Honduras）
 
-Cryptotermes gearyi 吉尔里堆砂白蚁（Australia）
+[*Cryptotermes gearyi* 吉尔里堆砂白蚁]({{ site.base_url }}/species/cryptotermes-gearyi/)（Australia）
 
-Cryptotermes hainanensis 海南堆砂白蚁（China (Hainan)）
+[*Cryptotermes hainanensis* 海南堆砂白蚁]({{ site.base_url }}/species/cryptotermes-hainanensis/)（China (Hainan)）
 
-Cryptotermes havilandi 叶额堆砂白蚁（southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands）
+[*Cryptotermes havilandi* 叶额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-havilandi/)（southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands）
 
-Cryptotermes hemicyclius 半圆堆砂白蚁（Jamaica）
+[*Cryptotermes hemicyclius* 半圆堆砂白蚁]({{ site.base_url }}/species/cryptotermes-hemicyclius/)（Jamaica）
 
-Cryptotermes hilli 希尔堆砂白蚁（Australia）
+[*Cryptotermes hilli* 希尔堆砂白蚁]({{ site.base_url }}/species/cryptotermes-hilli/)（Australia）
 
-Cryptotermes juliani 胡利安堆砂白蚁（Dominican Republic）
+[*Cryptotermes juliani* 胡利安堆砂白蚁]({{ site.base_url }}/species/cryptotermes-juliani/)（Dominican Republic）
 
-Cryptotermes karachiensis 卡拉奇堆砂白蚁（Pakistan, Karachi）
+[*Cryptotermes karachiensis* 卡拉奇堆砂白蚁]({{ site.base_url }}/species/cryptotermes-karachiensis/)（Pakistan, Karachi）
 
-Cryptotermes kirbyi 柯比堆砂白蚁（Madagascar）
+[*Cryptotermes kirbyi* 柯比堆砂白蚁]({{ site.base_url }}/species/cryptotermes-kirbyi/)（Madagascar）
 
-Cryptotermes kororensis 科罗尔堆砂白蚁（Palau）
+[*Cryptotermes kororensis* 科罗尔堆砂白蚁]({{ site.base_url }}/species/cryptotermes-kororensis/)（Palau）
 
-Cryptotermes longicollis 长颈堆砂白蚁（Central America, Panama, Honduras, Mexico, Dominican Republic, Haiti, Montserrat, Puerto Rico, Trinidad and Tobago）
+[*Cryptotermes longicollis* 长颈堆砂白蚁]({{ site.base_url }}/species/cryptotermes-longicollis/)（Central America, Panama, Honduras, Mexico, Dominican Republic, Haiti, Montserrat, Puerto Rico, Trinidad and Tobago）
 
-Cryptotermes luodianis 罗甸堆砂白蚁（China (Guizhou)）
+[*Cryptotermes luodianis* 罗甸堆砂白蚁]({{ site.base_url }}/species/cryptotermes-luodianis/)（China (Guizhou)）
 
-Cryptotermes mangoldi 曼戈尔德堆砂白蚁（Dominican Republic, Colombia）
+[*Cryptotermes mangoldi* 曼戈尔德堆砂白蚁]({{ site.base_url }}/species/cryptotermes-mangoldi/)（Dominican Republic, Colombia）
 
-Cryptotermes merwei 默维堆砂白蚁（South Africa）
+[*Cryptotermes merwei* 默维堆砂白蚁]({{ site.base_url }}/species/cryptotermes-merwei/)（South Africa）
 
-Cryptotermes mobydicki 莫比迪克堆砂白蚁（French Guiana）
+[*Cryptotermes mobydicki* 莫比迪克堆砂白蚁]({{ site.base_url }}/species/cryptotermes-mobydicki/)（French Guiana）
 
-Cryptotermes naudei 诺代堆砂白蚁（South Africa）
+[*Cryptotermes naudei* 诺代堆砂白蚁]({{ site.base_url }}/species/cryptotermes-naudei/)（South Africa）
 
-Cryptotermes nitens 光亮堆砂白蚁（Cayman Islands, Cuba, Jamaica）
+[*Cryptotermes nitens* 光亮堆砂白蚁]({{ site.base_url }}/species/cryptotermes-nitens/)（Cayman Islands, Cuba, Jamaica）
 
-Cryptotermes nitidus 亮头堆砂白蚁（Australia）
+[*Cryptotermes nitidus* 亮头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-nitidus/)（Australia）
 
-Cryptotermes pallidus 苍白堆砂白蚁（Réunion, Mauritius）
+[*Cryptotermes pallidus* 苍白堆砂白蚁]({{ site.base_url }}/species/cryptotermes-pallidus/)（Réunion, Mauritius）
 
-Cryptotermes papulosus 丘翅堆砂白蚁（Australia）
+[*Cryptotermes papulosus* 丘翅堆砂白蚁]({{ site.base_url }}/species/cryptotermes-papulosus/)（Australia）
 
-Cryptotermes parvifrons 小额堆砂白蚁（Grenada, Trinidad and Tobago）
+[*Cryptotermes parvifrons* 小额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-parvifrons/)（Grenada, Trinidad and Tobago）
 
-Cryptotermes penaoru 佩奥鲁堆砂白蚁（Vanuatu）
+[*Cryptotermes penaoru* 佩奥鲁堆砂白蚁]({{ site.base_url }}/species/cryptotermes-penaoru/)（Vanuatu）
 
-Cryptotermes perforans 穿孔堆砂白蚁（Sri Lanka）
+[*Cryptotermes perforans* 穿孔堆砂白蚁]({{ site.base_url }}/species/cryptotermes-perforans/)（Sri Lanka）
 
-Cryptotermes pingyangensis 平阳堆砂白蚁（Zhejiang (Pingyang)）
+[*Cryptotermes pingyangensis* 平阳堆砂白蚁]({{ site.base_url }}/species/cryptotermes-pingyangensis/)（Zhejiang (Pingyang)）
 
-Cryptotermes primus 第一堆砂白蚁（Australia）
+[*Cryptotermes primus* 第一堆砂白蚁]({{ site.base_url }}/species/cryptotermes-primus/)（Australia）
 
-Cryptotermes pugnus 拳头堆砂白蚁（Brazil）
+[*Cryptotermes pugnus* 拳头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-pugnus/)（Brazil）
 
-Cryptotermes pyrodomus 锅房堆砂白蚁（Barbados, Saint Vincent and the Grenadines）
+[*Cryptotermes pyrodomus* 锅房堆砂白蚁]({{ site.base_url }}/species/cryptotermes-pyrodomus/)（Barbados, Saint Vincent and the Grenadines）
 
-Cryptotermes queenslandis 昆士兰堆砂白蚁（Australia）
+[*Cryptotermes queenslandis* 昆士兰堆砂白蚁]({{ site.base_url }}/species/cryptotermes-queenslandis/)（Australia）
 
-Cryptotermes rhicnocephalus 噱头堆砂白蚁（Trinidad and Tobago）
+[*Cryptotermes rhicnocephalus* 噱头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-rhicnocephalus/)（Trinidad and Tobago）
 
-Cryptotermes riverinae 里弗赖纳堆砂白蚁（Australia）
+[*Cryptotermes riverinae* 里弗赖纳堆砂白蚁]({{ site.base_url }}/species/cryptotermes-riverinae/)（Australia）
 
-Cryptotermes roonwali 鲁恩沃堆砂白蚁（southern India, Kerala, Karnataka）
+[*Cryptotermes roonwali* 鲁恩沃堆砂白蚁]({{ site.base_url }}/species/cryptotermes-roonwali/)（southern India, Kerala, Karnataka）
 
-Cryptotermes rotundiceps 圆头堆砂白蚁（Caribbean, Dominican Republic, Puerto Rico）
+[*Cryptotermes rotundiceps* 圆头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-rotundiceps/)（Caribbean, Dominican Republic, Puerto Rico）
 
-Cryptotermes secundus 第二堆砂白蚁（Australia, Papua New Guinea）
+[*Cryptotermes secundus* 第二堆砂白蚁]({{ site.base_url }}/species/cryptotermes-secundus/)（Australia, Papua New Guinea）
 
-Cryptotermes silvestrii 西尔韦斯特里堆砂白蚁（Congo, Democratic Republic of the Congo, Nigeria）
+[*Cryptotermes silvestrii* 西尔韦斯特里堆砂白蚁]({{ site.base_url }}/species/cryptotermes-silvestrii/)（Congo, Democratic Republic of the Congo, Nigeria）
 
-Cryptotermes simulatus 似昆士兰堆砂白蚁（Australia）
+[*Cryptotermes simulatus* 似昆士兰堆砂白蚁]({{ site.base_url }}/species/cryptotermes-simulatus/)（Australia）
 
-Cryptotermes spathifrons 剑额堆砂白蚁（Cayman Islands, Cuba, Dominican Republic）
+[*Cryptotermes spathifrons* 剑额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-spathifrons/)（Cayman Islands, Cuba, Dominican Republic）
 
-Cryptotermes sukauensis 苏高堆砂白蚁（Malaysia (Sabah)）
+[*Cryptotermes sukauensis* 苏高堆砂白蚁]({{ site.base_url }}/species/cryptotermes-sukauensis/)（Malaysia (Sabah)）
 
-Cryptotermes sumatrensis 苏门答腊堆砂白蚁（Indonesia）
+[*Cryptotermes sumatrensis* 苏门答腊堆砂白蚁]({{ site.base_url }}/species/cryptotermes-sumatrensis/)（Indonesia）
 
-Cryptotermes thailandis 泰国堆砂白蚁（Thailand, Malaysia）
+[*Cryptotermes thailandis* 泰国堆砂白蚁]({{ site.base_url }}/species/cryptotermes-thailandis/)（Thailand, Malaysia）
 
-Cryptotermes tropicalis 热带堆砂白蚁（Australia）
+[*Cryptotermes tropicalis* 热带堆砂白蚁]({{ site.base_url }}/species/cryptotermes-tropicalis/)（Australia）
 
-Cryptotermes undulans 纹头堆砂白蚁（Puerto Rico, United States Virgin Islands）
+[*Cryptotermes undulans* 纹头堆砂白蚁]({{ site.base_url }}/species/cryptotermes-undulans/)（Puerto Rico, United States Virgin Islands）
 
-Cryptotermes venezolanus 委内瑞拉堆砂白蚁（Venezuela）
+[*Cryptotermes venezolanus* 委内瑞拉堆砂白蚁]({{ site.base_url }}/species/cryptotermes-venezolanus/)（Venezuela）
 
-Cryptotermes verruculosus 多疣堆砂白蚁（South America, Bolivia, Guyana）
+[*Cryptotermes verruculosus* 多疣堆砂白蚁]({{ site.base_url }}/species/cryptotermes-verruculosus/)（South America, Bolivia, Guyana）
 
 <h5 id="epicalotermes">Epicalotermes</h5>
 
-\*Epicalotermes aethiopicus 埃塞俄比亚上木白蚁（Kenya, Eritrea, Ethiopia, Saudi Arabia, Yemen）
+\*[*Epicalotermes aethiopicus* 埃塞俄比亚上木白蚁]({{ site.base_url }}/species/epicalotermes-aethiopicus/)（Kenya, Eritrea, Ethiopia, Saudi Arabia, Yemen）
 
-Epicalotermes kempae 肯帕上木白蚁（Kenya, Tanzania）
+[*Epicalotermes kempae* 肯帕上木白蚁]({{ site.base_url }}/species/epicalotermes-kempae/)（Kenya, Tanzania）
 
-Epicalotermes mkuzii 摩库兹上木白蚁（South Africa, Eswatini, Tanzania）
+[*Epicalotermes mkuzii* 摩库兹上木白蚁]({{ site.base_url }}/species/epicalotermes-mkuzii/)（South Africa, Eswatini, Tanzania）
 
-Epicalotermes munroi 芒罗上木白蚁（South Africa）
+[*Epicalotermes munroi* 芒罗上木白蚁]({{ site.base_url }}/species/epicalotermes-munroi/)（South Africa）
 
-Epicalotermes pakistanicus 巴基斯坦上木白蚁（Pakistan）
+[*Epicalotermes pakistanicus* 巴基斯坦上木白蚁]({{ site.base_url }}/species/epicalotermes-pakistanicus/)（Pakistan）
 
-Epicalotermes planifrons 扁额上木白蚁（Madagascar）
+[*Epicalotermes planifrons* 扁额上木白蚁]({{ site.base_url }}/species/epicalotermes-planifrons/)（Madagascar）
 
 <h5 id="eucryptotermes">Eucryptotermes</h5>
 
-Eucryptotermes breviceps 短头真砂白蚁（South America, Brazil, French Guiana）
+[*Eucryptotermes breviceps* 短头真砂白蚁]({{ site.base_url }}/species/eucryptotermes-breviceps/)（South America, Brazil, French Guiana）
 
-\*Eucryptotermes hagenii 哈根真砂白蚁（South America, Brazil, Argentina）
+\*[*Eucryptotermes hagenii* 哈根真砂白蚁]({{ site.base_url }}/species/eucryptotermes-hagenii/)（South America, Brazil, Argentina）
 
 <h5 id="glyptotermes">Glyptotermes</h5>
 
-Glyptotermes adamsoni 亚当森树白蚁（Grenada, Trinidad and Tobago, Venezuela）
+[*Glyptotermes adamsoni* 亚当森树白蚁]({{ site.base_url }}/species/glyptotermes-adamsoni/)（Grenada, Trinidad and Tobago, Venezuela）
 
-Glyptotermes albofemoralis 白足树白蚁（China (Taiwan)）
+[*Glyptotermes albofemoralis* 白足树白蚁]({{ site.base_url }}/species/glyptotermes-albofemoralis/)（China (Taiwan)）
 
-Glyptotermes almorensis 阿尔莫拉树白蚁（India）
+[*Glyptotermes almorensis* 阿尔莫拉树白蚁]({{ site.base_url }}/species/glyptotermes-almorensis/)（India）
 
-Glyptotermes amplus 大型树白蚁（Saint Lucia, Martinique）
+[*Glyptotermes amplus* 大型树白蚁]({{ site.base_url }}/species/glyptotermes-amplus/)（Saint Lucia, Martinique）
 
-Glyptotermes angustithorax 狭胸树白蚁（China (Hainan)）
+[*Glyptotermes angustithorax* 狭胸树白蚁]({{ site.base_url }}/species/glyptotermes-angustithorax/)（China (Hainan)）
 
-Glyptotermes angustus 变狭树白蚁（Costa Rica, Belize, Honduras, Nicaragua, Panama）
+[*Glyptotermes angustus* 变狭树白蚁]({{ site.base_url }}/species/glyptotermes-angustus/)（Costa Rica, Belize, Honduras, Nicaragua, Panama）
 
-Glyptotermes arshadi 阿沙德树白蚁（Bangladesh）
+[*Glyptotermes arshadi* 阿沙德树白蚁]({{ site.base_url }}/species/glyptotermes-arshadi/)（Bangladesh）
 
-Glyptotermes asperatus 粗糙树白蚁（Costa Rica）
+[*Glyptotermes asperatus* 粗糙树白蚁]({{ site.base_url }}/species/glyptotermes-asperatus/)（Costa Rica）
 
-Glyptotermes baliochilus 花唇树白蚁（China (Hainan)）
+[*Glyptotermes baliochilus* 花唇树白蚁]({{ site.base_url }}/species/glyptotermes-baliochilus/)（China (Hainan)）
 
-Glyptotermes barretti 巴雷特树白蚁（Australia）
+[*Glyptotermes barretti* 巴雷特树白蚁]({{ site.base_url }}/species/glyptotermes-barretti/)（Australia）
 
-Glyptotermes besarensis 贝萨树白蚁（Indonesia）
+[*Glyptotermes besarensis* 贝萨树白蚁]({{ site.base_url }}/species/glyptotermes-besarensis/)（Indonesia）
 
-Glyptotermes bilobatus 双裂树白蚁（Panama, Costa Rica）
+[*Glyptotermes bilobatus* 双裂树白蚁]({{ site.base_url }}/species/glyptotermes-bilobatus/)（Panama, Costa Rica）
 
-Glyptotermes bimaculifrons 双斑树白蚁（China (Sichuan)）
+[*Glyptotermes bimaculifrons* 双斑树白蚁]({{ site.base_url }}/species/glyptotermes-bimaculifrons/)（China (Sichuan)）
 
-Glyptotermes borneensis 婆罗树白蚁（Malaysia）
+[*Glyptotermes borneensis* 婆罗树白蚁]({{ site.base_url }}/species/glyptotermes-borneensis/)（Malaysia）
 
-Glyptotermes brachythorax 短胸树白蚁（China (Hainan)）
+[*Glyptotermes brachythorax* 短胸树白蚁]({{ site.base_url }}/species/glyptotermes-brachythorax/)（China (Hainan)）
 
-Glyptotermes brevicaudatus 短尾树白蚁（Malaysia, India, Indonesia, Thailand）
+[*Glyptotermes brevicaudatus* 短尾树白蚁]({{ site.base_url }}/species/glyptotermes-brevicaudatus/)（Malaysia, India, Indonesia, Thailand）
 
-Glyptotermes brevicornis 短角树白蚁（Australia, Fiji, New Zealand）
+[*Glyptotermes brevicornis* 短角树白蚁]({{ site.base_url }}/species/glyptotermes-brevicornis/)（Australia, Fiji, New Zealand）
 
-Glyptotermes buttelreepeni 巴特里彭树白蚁（Malaysia）
+[*Glyptotermes buttelreepeni* 巴特里彭树白蚁]({{ site.base_url }}/species/glyptotermes-buttelreepeni/)（Malaysia）
 
-Glyptotermes canellae 卡内尔树白蚁（Brazil, Paraguay, Argentina）
+[*Glyptotermes canellae* 卡内尔树白蚁]({{ site.base_url }}/species/glyptotermes-canellae/)（Brazil, Paraguay, Argentina）
 
-Glyptotermes caudomunitus 具尾树白蚁（Indonesia, India, Malaysia）
+[*Glyptotermes caudomunitus* 具尾树白蚁]({{ site.base_url }}/species/glyptotermes-caudomunitus/)（Indonesia, India, Malaysia）
 
-Glyptotermes ceylonicus 锡兰树白蚁（Sri Lanka）
+[*Glyptotermes ceylonicus* 锡兰树白蚁]({{ site.base_url }}/species/glyptotermes-ceylonicus/)（Sri Lanka）
 
-Glyptotermes chapmani 查普曼树白蚁（Philippines）
+[*Glyptotermes chapmani* 查普曼树白蚁]({{ site.base_url }}/species/glyptotermes-chapmani/)（Philippines）
 
-Glyptotermes chatterjii 查特杰树白蚁（Malaysia）
+[*Glyptotermes chatterjii* 查特杰树白蚁]({{ site.base_url }}/species/glyptotermes-chatterjii/)（Malaysia）
 
-Glyptotermes chinpingensis 金平树白蚁（China (Yunnan)）
+[*Glyptotermes chinpingensis* 金平树白蚁]({{ site.base_url }}/species/glyptotermes-chinpingensis/)（China (Yunnan)）
 
-Glyptotermes chiraharitae 常绿树白蚁（India）
+[*Glyptotermes chiraharitae* 常绿树白蚁]({{ site.base_url }}/species/glyptotermes-chiraharitae/)（India）
 
-Glyptotermes concavifrons 凹额树白蚁（Indonesia）
+[*Glyptotermes concavifrons* 凹额树白蚁]({{ site.base_url }}/species/glyptotermes-concavifrons/)（Indonesia）
 
-Glyptotermes contracticornis 缩角树白蚁（Costa Rica, Guatemala, Nicaragua, Panama）
+[*Glyptotermes contracticornis* 缩角树白蚁]({{ site.base_url }}/species/glyptotermes-contracticornis/)（Costa Rica, Guatemala, Nicaragua, Panama）
 
-Glyptotermes coorgensis 古尔格树白蚁（India）
+[*Glyptotermes coorgensis* 古尔格树白蚁]({{ site.base_url }}/species/glyptotermes-coorgensis/)（India）
 
-Glyptotermes curticeps 短头树白蚁（China (Fujian)）
+[*Glyptotermes curticeps* 短头树白蚁]({{ site.base_url }}/species/glyptotermes-curticeps/)（China (Fujian)）
 
-Glyptotermes daiyunensis 戴云树白蚁（China (Fujian)）
+[*Glyptotermes daiyunensis* 戴云树白蚁]({{ site.base_url }}/species/glyptotermes-daiyunensis/)（China (Fujian)）
 
-Glyptotermes daweishanensis 大围山树白蚁（China (Yunnan)）
+[*Glyptotermes daweishanensis* 大围山树白蚁]({{ site.base_url }}/species/glyptotermes-daweishanensis/)（China (Yunnan)）
 
-Glyptotermes dentatus 具齿树白蚁（Malaysia）
+[*Glyptotermes dentatus* 具齿树白蚁]({{ site.base_url }}/species/glyptotermes-dentatus/)（Malaysia）
 
-Glyptotermes dilatatus 延伸树白蚁（Sri Lanka）
+[*Glyptotermes dilatatus* 延伸树白蚁]({{ site.base_url }}/species/glyptotermes-dilatatus/)（Sri Lanka）
 
-Glyptotermes emei 峨嵋树白蚁（China (Sichuan)）
+[*Glyptotermes emei* 峨嵋树白蚁]({{ site.base_url }}/species/glyptotermes-emei/)（China (Sichuan)）
 
-Glyptotermes eucalypti 桉树树白蚁（Australia）
+[*Glyptotermes eucalypti* 桉树树白蚁]({{ site.base_url }}/species/glyptotermes-eucalypti/)（Australia）
 
-Glyptotermes euryceps 宽头树白蚁（China (Sichuan)）
+[*Glyptotermes euryceps* 宽头树白蚁]({{ site.base_url }}/species/glyptotermes-euryceps/)（China (Sichuan)）
 
-Glyptotermes ficus 榕树白蚁（China (Guizhou)）
+[*Glyptotermes ficus* 榕树白蚁]({{ site.base_url }}/species/glyptotermes-ficus/)（China (Guizhou)）
 
-Glyptotermes finniganensis 菲尼根树白蚁（Australia）
+[*Glyptotermes finniganensis* 菲尼根树白蚁]({{ site.base_url }}/species/glyptotermes-finniganensis/)（Australia）
 
-Glyptotermes franciae 弗朗西亚树白蚁（Philippines）
+[*Glyptotermes franciae* 弗朗西亚树白蚁]({{ site.base_url }}/species/glyptotermes-franciae/)（Philippines）
 
-Glyptotermes fujianensis 福建树白蚁（China (Fujian), Japan, China (Taiwan)）
+[*Glyptotermes fujianensis* 福建树白蚁]({{ site.base_url }}/species/glyptotermes-fujianensis/)（China (Fujian), Japan, China (Taiwan)）
 
-Glyptotermes fuscus 黑树白蚁（Japan, China (Taiwan)）
+[*Glyptotermes fuscus* 黑树白蚁]({{ site.base_url }}/species/glyptotermes-fuscus/)（Japan, China (Taiwan)）
 
-Glyptotermes guamensis 关岛树白蚁（Guam）
+[*Glyptotermes guamensis* 关岛树白蚁]({{ site.base_url }}/species/glyptotermes-guamensis/)（Guam）
 
-Glyptotermes guianaensis 圭亚那树白蚁（Guyana, French Guiana）
+[*Glyptotermes guianaensis* 圭亚那树白蚁]({{ site.base_url }}/species/glyptotermes-guianaensis/)（Guyana, French Guiana）
 
-Glyptotermes guizhouensis 贵州树白蚁（China (Guizhou)）
+[*Glyptotermes guizhouensis* 贵州树白蚁]({{ site.base_url }}/species/glyptotermes-guizhouensis/)（China (Guizhou)）
 
-Glyptotermes hejiangensis 合江树白蚁（China (Sichuan)）
+[*Glyptotermes hejiangensis* 合江树白蚁]({{ site.base_url }}/species/glyptotermes-hejiangensis/)（China (Sichuan)）
 
-Glyptotermes hendrickxi 亨德里克斯树白蚁（Democratic Republic of the Congo）
+[*Glyptotermes hendrickxi* 亨德里克斯树白蚁]({{ site.base_url }}/species/glyptotermes-hendrickxi/)（Democratic Republic of the Congo）
 
-Glyptotermes hesperus 川西树白蚁（China (Sichuan)）
+[*Glyptotermes hesperus* 川西树白蚁]({{ site.base_url }}/species/glyptotermes-hesperus/)（China (Sichuan)）
 
-Glyptotermes hickmani 希克曼树白蚁（Paraguay）
+[*Glyptotermes hickmani* 希克曼树白蚁]({{ site.base_url }}/species/glyptotermes-hickmani/)（Paraguay）
 
-Glyptotermes hospitalis 客居树白蚁（Guyana）
+[*Glyptotermes hospitalis* 客居树白蚁]({{ site.base_url }}/species/glyptotermes-hospitalis/)（Guyana）
 
-Glyptotermes ignotus 忽视树白蚁（Uganda）
+[*Glyptotermes ignotus* 忽视树白蚁]({{ site.base_url }}/species/glyptotermes-ignotus/)（Uganda）
 
-Glyptotermes insulanus 岛栖树白蚁（São Tomé and Príncipe）
+[*Glyptotermes insulanus* 岛栖树白蚁]({{ site.base_url }}/species/glyptotermes-insulanus/)（São Tomé and Príncipe）
 
-Glyptotermes iridipennis 虹翅树白蚁（Australia）
+[*Glyptotermes iridipennis* 虹翅树白蚁]({{ site.base_url }}/species/glyptotermes-iridipennis/)（Australia）
 
-Glyptotermes jinyunensis 缙云树白蚁（China (Sichuan)）
+[*Glyptotermes jinyunensis* 缙云树白蚁]({{ site.base_url }}/species/glyptotermes-jinyunensis/)（China (Sichuan)）
 
-Glyptotermes jurioni 朱里翁树白蚁（Democratic Republic of the Congo）
+[*Glyptotermes jurioni* 朱里翁树白蚁]({{ site.base_url }}/species/glyptotermes-jurioni/)（Democratic Republic of the Congo）
 
-Glyptotermes kachongensis 卡冲树白蚁（Thailand, Malaysia）
+[*Glyptotermes kachongensis* 卡冲树白蚁]({{ site.base_url }}/species/glyptotermes-kachongensis/)（Thailand, Malaysia）
 
-Glyptotermes kawandae 卡旺达树白蚁（Uganda）
+[*Glyptotermes kawandae* 卡旺达树白蚁]({{ site.base_url }}/species/glyptotermes-kawandae/)（Uganda）
 
-Glyptotermes kirbyi 柯比树白蚁（Indonesia）
+[*Glyptotermes kirbyi* 柯比树白蚁]({{ site.base_url }}/species/glyptotermes-kirbyi/)（Indonesia）
 
-Glyptotermes kunakensis 库纳克树白蚁（Malaysia）
+[*Glyptotermes kunakensis* 库纳克树白蚁]({{ site.base_url }}/species/glyptotermes-kunakensis/)（Malaysia）
 
-Glyptotermes laticaudomunitus 宽尾树白蚁（Malaysia）
+[*Glyptotermes laticaudomunitus* 宽尾树白蚁]({{ site.base_url }}/species/glyptotermes-laticaudomunitus/)（Malaysia）
 
-Glyptotermes latignathus 阔颚树白蚁（China (Sichuan)）
+[*Glyptotermes latignathus* 阔颚树白蚁]({{ site.base_url }}/species/glyptotermes-latignathus/)（China (Sichuan)）
 
-Glyptotermes latithorax 宽胸树白蚁（China (Guangdong)）
+[*Glyptotermes latithorax* 宽胸树白蚁]({{ site.base_url }}/species/glyptotermes-latithorax/)（China (Guangdong)）
 
-Glyptotermes liangshanensis 凉山树白蚁（China (Sichuan)）
+[*Glyptotermes liangshanensis* 凉山树白蚁]({{ site.base_url }}/species/glyptotermes-liangshanensis/)（China (Sichuan)）
 
-Glyptotermes liberatus 自由树白蚁（Caribbean, Guatemala）
+[*Glyptotermes liberatus* 自由树白蚁]({{ site.base_url }}/species/glyptotermes-liberatus/)（Caribbean, Guatemala）
 
-Glyptotermes lighti 莱特树白蚁（Marshall Islands, Solomon Islands）
+[*Glyptotermes lighti* 莱特树白蚁]({{ site.base_url }}/species/glyptotermes-lighti/)（Marshall Islands, Solomon Islands）
 
-Glyptotermes limulingensis 黎母岭树白蚁（China (Hainan)）
+[*Glyptotermes limulingensis* 黎母岭树白蚁]({{ site.base_url }}/species/glyptotermes-limulingensis/)（China (Hainan)）
 
-Glyptotermes longipennis 长翅树白蚁（Colombia）
+[*Glyptotermes longipennis* 长翅树白蚁]({{ site.base_url }}/species/glyptotermes-longipennis/)（Colombia）
 
-Glyptotermes longnanensis 陇南树白蚁（China (Gansu)）
+[*Glyptotermes longnanensis* 陇南树白蚁]({{ site.base_url }}/species/glyptotermes-longnanensis/)（China (Gansu)）
 
-Glyptotermes longuisculus 稍长树白蚁（Democratic Republic of the Congo）
+[*Glyptotermes longuisculus* 稍长树白蚁]({{ site.base_url }}/species/glyptotermes-longuisculus/)（Democratic Republic of the Congo）
 
-Glyptotermes luteus 蜡黄树白蚁（Indonesia）
+[*Glyptotermes luteus* 蜡黄树白蚁]({{ site.base_url }}/species/glyptotermes-luteus/)（Indonesia）
 
-Glyptotermes maculifrons 麻额树白蚁（China (Fujian)）
+[*Glyptotermes maculifrons* 麻额树白蚁]({{ site.base_url }}/species/glyptotermes-maculifrons/)（China (Fujian)）
 
-Glyptotermes magnioculus 大眼树白蚁（China (Sichuan)）
+[*Glyptotermes magnioculus* 大眼树白蚁]({{ site.base_url }}/species/glyptotermes-magnioculus/)（China (Sichuan)）
 
-Glyptotermes magsaysayi 麦格赛赛树白蚁（Philippines）
+[*Glyptotermes magsaysayi* 麦格赛赛树白蚁]({{ site.base_url }}/species/glyptotermes-magsaysayi/)（Philippines）
 
-Glyptotermes mandibulicinus 翘颚树白蚁（China (Hainan)）
+[*Glyptotermes mandibulicinus* 翘颚树白蚁]({{ site.base_url }}/species/glyptotermes-mandibulicinus/)（China (Hainan)）
 
-Glyptotermes marlatti 马拉特树白蚁（Costa Rica）
+[*Glyptotermes marlatti* 马拉特树白蚁]({{ site.base_url }}/species/glyptotermes-marlatti/)（Costa Rica）
 
-Glyptotermes matsuurai 松浦树白蚁（Australia）
+[*Glyptotermes matsuurai* 松浦树白蚁]({{ site.base_url }}/species/glyptotermes-matsuurai/)（Australia）
 
-Glyptotermes minutus 较小树白蚁（Sri Lanka）
+[*Glyptotermes minutus* 较小树白蚁]({{ site.base_url }}/species/glyptotermes-minutus/)（Sri Lanka）
 
-Glyptotermes montanus 高山树白蚁（Indonesia）
+[*Glyptotermes montanus* 高山树白蚁]({{ site.base_url }}/species/glyptotermes-montanus/)（Indonesia）
 
-Glyptotermes nadaensis 那大树白蚁（China (Guangdong)）
+[*Glyptotermes nadaensis* 那大树白蚁]({{ site.base_url }}/species/glyptotermes-nadaensis/)（China (Guangdong)）
 
-Glyptotermes nakajimai 中岛树白蚁（Japan, South Korea）
+[*Glyptotermes nakajimai* 中岛树白蚁]({{ site.base_url }}/species/glyptotermes-nakajimai/)（Japan, South Korea）
 
-Glyptotermes neoborneensis 新婆罗树白蚁（Malaysia）
+[*Glyptotermes neoborneensis* 新婆罗树白蚁]({{ site.base_url }}/species/glyptotermes-neoborneensis/)（Malaysia）
 
-Glyptotermes nevermani 内韦曼树白蚁（Costa Rica）
+[*Glyptotermes nevermani* 内韦曼树白蚁]({{ site.base_url }}/species/glyptotermes-nevermani/)（Costa Rica）
 
-Glyptotermes nicobarensis 尼科巴树白蚁（India）
+[*Glyptotermes nicobarensis* 尼科巴树白蚁]({{ site.base_url }}/species/glyptotermes-nicobarensis/)（India）
 
-Glyptotermes niger 黑色树白蚁（Indonesia）
+[*Glyptotermes niger* 黑色树白蚁]({{ site.base_url }}/species/glyptotermes-niger/)（Indonesia）
 
-Glyptotermes nissanensis 尼桑树白蚁（Papua New Guinea）
+[*Glyptotermes nissanensis* 尼桑树白蚁]({{ site.base_url }}/species/glyptotermes-nissanensis/)（Papua New Guinea）
 
-Glyptotermes orthognathus 直颚树白蚁（China (Sichuan)）
+[*Glyptotermes orthognathus* 直颚树白蚁]({{ site.base_url }}/species/glyptotermes-orthognathus/)（China (Sichuan)）
 
-Glyptotermes palauensis 帕劳树白蚁（Palau, Micronesia）
+[*Glyptotermes palauensis* 帕劳树白蚁]({{ site.base_url }}/species/glyptotermes-palauensis/)（Palau, Micronesia）
 
-Glyptotermes panaitanensis 巴拉依丹树白蚁（Indonesia）
+[*Glyptotermes panaitanensis* 巴拉依丹树白蚁]({{ site.base_url }}/species/glyptotermes-panaitanensis/)（Indonesia）
 
-Glyptotermes paracaudomunitus 似具尾树白蚁（Malaysia）
+[*Glyptotermes paracaudomunitus* 似具尾树白蚁]({{ site.base_url }}/species/glyptotermes-paracaudomunitus/)（Malaysia）
 
-Glyptotermes paratuberculatus 似具瘤树白蚁（Malaysia）
+[*Glyptotermes paratuberculatus* 似具瘤树白蚁]({{ site.base_url }}/species/glyptotermes-paratuberculatus/)（Malaysia）
 
-Glyptotermes parki 帕克树白蚁（Rwanda, Cameroon, Democratic Republic of the Congo, Uganda）
+[*Glyptotermes parki* 帕克树白蚁]({{ site.base_url }}/species/glyptotermes-parki/)（Rwanda, Cameroon, Democratic Republic of the Congo, Uganda）
 
-Glyptotermes parvoculatus 小眼树白蚁（Caribbean, Venezuela）
+[*Glyptotermes parvoculatus* 小眼树白蚁]({{ site.base_url }}/species/glyptotermes-parvoculatus/)（Caribbean, Venezuela）
 
-Glyptotermes parvulus 细小树白蚁（Democratic Republic of the Congo, Ghana, Ivory Coast, Uganda）
+[*Glyptotermes parvulus* 细小树白蚁]({{ site.base_url }}/species/glyptotermes-parvulus/)（Democratic Republic of the Congo, Ghana, Ivory Coast, Uganda）
 
-Glyptotermes parvus 小树白蚁（China (Yunnan)）
+[*Glyptotermes parvus* 小树白蚁]({{ site.base_url }}/species/glyptotermes-parvus/)（China (Yunnan)）
 
-Glyptotermes pellucidus 清晰树白蚁（Guyana, Venezuela）
+[*Glyptotermes pellucidus* 清晰树白蚁]({{ site.base_url }}/species/glyptotermes-pellucidus/)（Guyana, Venezuela）
 
-Glyptotermes perparvus 极小树白蚁（Guyana, Brazil, French Guiana）
+[*Glyptotermes perparvus* 极小树白蚁]({{ site.base_url }}/species/glyptotermes-perparvus/)（Guyana, Brazil, French Guiana）
 
-Glyptotermes pinangae 槟榔树白蚁（Malaysia, Thailand）
+[*Glyptotermes pinangae* 槟榔树白蚁]({{ site.base_url }}/species/glyptotermes-pinangae/)（Malaysia, Thailand）
 
-Glyptotermes planus 平扁树白蚁（Costa Rica）
+[*Glyptotermes planus* 平扁树白蚁]({{ site.base_url }}/species/glyptotermes-planus/)（Costa Rica）
 
-Glyptotermes posticus 后部树白蚁（Cuba, Haiti, Jamaica, U.S. Virgin Islands）
+[*Glyptotermes posticus* 后部树白蚁]({{ site.base_url }}/species/glyptotermes-posticus/)（Cuba, Haiti, Jamaica, U.S. Virgin Islands）
 
-Glyptotermes pubescens 柔毛树白蚁（Caribbean）
+[*Glyptotermes pubescens* 柔毛树白蚁]({{ site.base_url }}/species/glyptotermes-pubescens/)（Caribbean）
 
-Glyptotermes reticulatus 似网树白蚁（Tanzania）
+[*Glyptotermes reticulatus* 似网树白蚁]({{ site.base_url }}/species/glyptotermes-reticulatus/)（Tanzania）
 
-Glyptotermes rotundifrons 圆额树白蚁（Panama）
+[*Glyptotermes rotundifrons* 圆额树白蚁]({{ site.base_url }}/species/glyptotermes-rotundifrons/)（Panama）
 
-Glyptotermes satsumensis 赤树白蚁（Japan, China (Taiwan)）
+[*Glyptotermes satsumensis* 赤树白蚁]({{ site.base_url }}/species/glyptotermes-satsumensis/)（Japan, China (Taiwan)）
 
-Glyptotermes schmidti 施密德树白蚁（Vanuatu）
+[*Glyptotermes schmidti* 施密德树白蚁]({{ site.base_url }}/species/glyptotermes-schmidti/)（Vanuatu）
 
-Glyptotermes scotti 斯科特树白蚁（Seychelles）
+[*Glyptotermes scotti* 斯科特树白蚁]({{ site.base_url }}/species/glyptotermes-scotti/)（Seychelles）
 
-Glyptotermes seeversi 西弗斯树白蚁（Honduras, Mexico）
+[*Glyptotermes seeversi* 西弗斯树白蚁]({{ site.base_url }}/species/glyptotermes-seeversi/)（Honduras, Mexico）
 
-Glyptotermes sensarmai 森萨尔马树白蚁（India, Bangladesh）
+[*Glyptotermes sensarmai* 森萨尔马树白蚁]({{ site.base_url }}/species/glyptotermes-sensarmai/)（India, Bangladesh）
 
-Glyptotermes sepilokensis 西比洛克树白蚁（Malaysia, Indonesia）
+[*Glyptotermes sepilokensis* 西比洛克树白蚁]({{ site.base_url }}/species/glyptotermes-sepilokensis/)（Malaysia, Indonesia）
 
-Glyptotermes shaanxiensis 陕西树白蚁（China (Shaanxi)）
+[*Glyptotermes shaanxiensis* 陕西树白蚁]({{ site.base_url }}/species/glyptotermes-shaanxiensis/)（China (Shaanxi)）
 
-Glyptotermes sicki 西克树白蚁（Brazil）
+[*Glyptotermes sicki* 西克树白蚁]({{ site.base_url }}/species/glyptotermes-sicki/)（Brazil）
 
-Glyptotermes simaoensis 思茅树白蚁（China (Yunnan)）
+[*Glyptotermes simaoensis* 思茅树白蚁]({{ site.base_url }}/species/glyptotermes-simaoensis/)（China (Yunnan)）
 
-Glyptotermes sinomalatus 弯翅树白蚁（Democratic Republic of the Congo）
+[*Glyptotermes sinomalatus* 弯翅树白蚁]({{ site.base_url }}/species/glyptotermes-sinomalatus/)（Democratic Republic of the Congo）
 
-Glyptotermes succineus 琥珀树白蚁（China (Guizhou)）
+[*Glyptotermes succineus* 琥珀树白蚁]({{ site.base_url }}/species/glyptotermes-succineus/)（China (Guizhou)）
 
-Glyptotermes suturis 缝合树白蚁（Costa Rica）
+[*Glyptotermes suturis* 缝合树白蚁]({{ site.base_url }}/species/glyptotermes-suturis/)（Costa Rica）
 
-Glyptotermes taruni 塔鲁恩树白蚁（India）
+[*Glyptotermes taruni* 塔鲁恩树白蚁]({{ site.base_url }}/species/glyptotermes-taruni/)（India）
 
-Glyptotermes taveuniensis 塔韦乌尼树白蚁（Fiji）
+[*Glyptotermes taveuniensis* 塔韦乌尼树白蚁]({{ site.base_url }}/species/glyptotermes-taveuniensis/)（Fiji）
 
-Glyptotermes teknafensis 代格纳夫树白蚁（Bangladesh, India）
+[*Glyptotermes teknafensis* 代格纳夫树白蚁]({{ site.base_url }}/species/glyptotermes-teknafensis/)（Bangladesh, India）
 
-Glyptotermes thailandis 泰国树白蚁（Thailand）
+[*Glyptotermes thailandis* 泰国树白蚁]({{ site.base_url }}/species/glyptotermes-thailandis/)（Thailand）
 
-Glyptotermes tikaderi 铁卡德树白蚁（India）
+[*Glyptotermes tikaderi* 铁卡德树白蚁]({{ site.base_url }}/species/glyptotermes-tikaderi/)（India）
 
-Glyptotermes tripurensis 特里普拉树白蚁（India）
+[*Glyptotermes tripurensis* 特里普拉树白蚁]({{ site.base_url }}/species/glyptotermes-tripurensis/)（India）
 
-Glyptotermes truncatus 伤残树白蚁（Colombia）
+[*Glyptotermes truncatus* 伤残树白蚁]({{ site.base_url }}/species/glyptotermes-truncatus/)（Colombia）
 
-Glyptotermes tsaii 蔡氏树白蚁（China (Yunnan)）
+[*Glyptotermes tsaii* 蔡氏树白蚁]({{ site.base_url }}/species/glyptotermes-tsaii/)（China (Yunnan)）
 
-\*Glyptotermes tuberculatus 具瘤树白蚁（Australia, New Zealand）
+\*[*Glyptotermes tuberculatus* 具瘤树白蚁]({{ site.base_url }}/species/glyptotermes-tuberculatus/)（Australia, New Zealand）
 
-Glyptotermes tuberifer 具疣树白蚁（Caribbean, Guatemala）
+[*Glyptotermes tuberifer* 具疣树白蚁]({{ site.base_url }}/species/glyptotermes-tuberifer/)（Caribbean, Guatemala）
 
-Glyptotermes ueleensis 韦莱树白蚁（Democratic Republic of the Congo, Kenya, Uganda）
+[*Glyptotermes ueleensis* 韦莱树白蚁]({{ site.base_url }}/species/glyptotermes-ueleensis/)（Democratic Republic of the Congo, Kenya, Uganda）
 
-Glyptotermes ukhiaensis 乌吉亚树白蚁（Bangladesh, India）
+[*Glyptotermes ukhiaensis* 乌吉亚树白蚁]({{ site.base_url }}/species/glyptotermes-ukhiaensis/)（Bangladesh, India）
 
-Glyptotermes verrucosus 疣多树白蚁（Costa Rica）
+[*Glyptotermes verrucosus* 疣多树白蚁]({{ site.base_url }}/species/glyptotermes-verrucosus/)（Costa Rica）
 
-Glyptotermes xantholabrum 黄唇树白蚁（Samoa, Papua New Guinea, French Polynesia, Vanuatu）
+[*Glyptotermes xantholabrum* 黄唇树白蚁]({{ site.base_url }}/species/glyptotermes-xantholabrum/)（Samoa, Papua New Guinea, French Polynesia, Vanuatu）
 
-Glyptotermes xiamenensis 厦门树白蚁（China (Fujian)）
+[*Glyptotermes xiamenensis* 厦门树白蚁]({{ site.base_url }}/species/glyptotermes-xiamenensis/)（China (Fujian)）
 
-Glyptotermes yingdeensis 英德树白蚁（China (Guangdong)）
+[*Glyptotermes yingdeensis* 英德树白蚁]({{ site.base_url }}/species/glyptotermes-yingdeensis/)（China (Guangdong)）
 
-Glyptotermes yui 尤氏树白蚁（China (Hainan)）
+[*Glyptotermes yui* 尤氏树白蚁]({{ site.base_url }}/species/glyptotermes-yui/)（China (Hainan)）
 
-Glyptotermes zhaoi 赵氏树白蚁（China (Fujian)）
+[*Glyptotermes zhaoi* 赵氏树白蚁]({{ site.base_url }}/species/glyptotermes-zhaoi/)（China (Fujian)）
 
 <h5 id="incisitermes">Incisitermes</h5>
 
-Incisitermes banksi 班克斯楹白蚁（United States, Mexico）
+[*Incisitermes banksi* 班克斯楹白蚁]({{ site.base_url }}/species/incisitermes-banksi/)（United States, Mexico）
 
-Incisitermes barretti 巴雷特楹白蚁（Australia）
+[*Incisitermes barretti* 巴雷特楹白蚁]({{ site.base_url }}/species/incisitermes-barretti/)（Australia）
 
-Incisitermes bequaerti 贝奎特楹白蚁（Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands）
+[*Incisitermes bequaerti* 贝奎特楹白蚁]({{ site.base_url }}/species/incisitermes-bequaerti/)（Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands）
 
-Incisitermes didwanaensis 迪德瓦纳楹白蚁（India）
+[*Incisitermes didwanaensis* 迪德瓦纳楹白蚁]({{ site.base_url }}/species/incisitermes-didwanaensis/)（India）
 
-Incisitermes emersoni 埃默森楹白蚁（Mexico）
+[*Incisitermes emersoni* 埃默森楹白蚁]({{ site.base_url }}/species/incisitermes-emersoni/)（Mexico）
 
-Incisitermes fruticavus 蛀果楹白蚁（United States）
+[*Incisitermes fruticavus* 蛀果楹白蚁]({{ site.base_url }}/species/incisitermes-fruticavus/)（United States）
 
-Incisitermes furvus 暗黑楹白蚁（Puerto Rico）
+[*Incisitermes furvus* 暗黑楹白蚁]({{ site.base_url }}/species/incisitermes-furvus/)（Puerto Rico）
 
-Incisitermes galapagoensis 加拉帕戈斯楹白蚁（Ecuador）
+[*Incisitermes galapagoensis* 加拉帕戈斯楹白蚁]({{ site.base_url }}/species/incisitermes-galapagoensis/)（Ecuador）
 
-Incisitermes immigrans 移境楹白蚁（Central America to Polynesia）
+[*Incisitermes immigrans* 移境楹白蚁]({{ site.base_url }}/species/incisitermes-immigrans/)（Central America to Polynesia）
 
-Incisitermes inamurai 稻村楹白蚁（China (Taiwan)）
+[*Incisitermes inamurai* 稻村楹白蚁]({{ site.base_url }}/species/incisitermes-inamurai/)（China (Taiwan)）
 
-Incisitermes incisus 切割楹白蚁（Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands）
+[*Incisitermes incisus* 切割楹白蚁]({{ site.base_url }}/species/incisitermes-incisus/)（Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands）
 
-Incisitermes laterangularis 侧角楹白蚁（China）
+[*Incisitermes laterangularis* 侧角楹白蚁]({{ site.base_url }}/species/incisitermes-laterangularis/)（China）
 
-Incisitermes lisae 莉萨楹白蚁（Belize, Guatemala, Mexico）
+[*Incisitermes lisae* 莉萨楹白蚁]({{ site.base_url }}/species/incisitermes-lisae/)（Belize, Guatemala, Mexico）
 
-Incisitermes marginipennis 缘翅楹白蚁（Mexico, Guatemala, Panama）
+[*Incisitermes marginipennis* 缘翅楹白蚁]({{ site.base_url }}/species/incisitermes-marginipennis/)（Mexico, Guatemala, Panama）
 
-Incisitermes mariae 玛丽亚楹白蚁（Colombia, Trinidad and Tobago, Venezuela）
+[*Incisitermes mariae* 玛丽亚楹白蚁]({{ site.base_url }}/species/incisitermes-mariae/)（Colombia, Trinidad and Tobago, Venezuela）
 
-Incisitermes marianus 马里亚纳楹白蚁（Northern Mariana Islands）
+[*Incisitermes marianus* 马里亚纳楹白蚁]({{ site.base_url }}/species/incisitermes-marianus/)（Northern Mariana Islands）
 
-Incisitermes mcgregori 麦格雷戈楹白蚁（Philippines）
+[*Incisitermes mcgregori* 麦格雷戈楹白蚁]({{ site.base_url }}/species/incisitermes-mcgregori/)（Philippines）
 
-Incisitermes milleri 米勒楹白蚁（United States, Dominican Republic, Bahamas, Cayman Islands, Cuba, Jamaica, Turks and Caicos Islands）
+[*Incisitermes milleri* 米勒楹白蚁]({{ site.base_url }}/species/incisitermes-milleri/)（United States, Dominican Republic, Bahamas, Cayman Islands, Cuba, Jamaica, Turks and Caicos Islands）
 
-Incisitermes minor 小楹白蚁（western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan）
+[*Incisitermes minor* 小楹白蚁]({{ site.base_url }}/species/incisitermes-minor/)（western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan）
 
-Incisitermes nishimurai 西村楹白蚁（Central America）
+[*Incisitermes nishimurai* 西村楹白蚁]({{ site.base_url }}/species/incisitermes-nishimurai/)（Central America）
 
-Incisitermes pacificus 太平洋楹白蚁（Ecuador）
+[*Incisitermes pacificus* 太平洋楹白蚁]({{ site.base_url }}/species/incisitermes-pacificus/)（Ecuador）
 
-Incisitermes platycephalus 宽头楹白蚁（Mexico, Guatemala, Honduras, Nicaragua）
+[*Incisitermes platycephalus* 宽头楹白蚁]({{ site.base_url }}/species/incisitermes-platycephalus/)（Mexico, Guatemala, Honduras, Nicaragua）
 
-Incisitermes repandus 转变楹白蚁（Vanuatu, Australia, Fiji, Marshall Islands, Samoa）
+[*Incisitermes repandus* 转变楹白蚁]({{ site.base_url }}/species/incisitermes-repandus/)（Vanuatu, Australia, Fiji, Marshall Islands, Samoa）
 
-Incisitermes rhyzophorae 红树楹白蚁（Cuba, Bahamas）
+[*Incisitermes rhyzophorae* 红树楹白蚁]({{ site.base_url }}/species/incisitermes-rhyzophorae/)（Cuba, Bahamas）
 
-\*Incisitermes schwarzi 施瓦茨楹白蚁（Mexico, United States, Antigua and Barbuda, Aruba, Bahamas, Belize, Bonaire, Cayman Islands, Colombia, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, French Guadeloupe, Guatemala, Honduras, Jamaica, French Martinique, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, Venezuela）
+\*[*Incisitermes schwarzi* 施瓦茨楹白蚁]({{ site.base_url }}/species/incisitermes-schwarzi/)（Mexico, United States, Antigua and Barbuda, Aruba, Bahamas, Belize, Bonaire, Cayman Islands, Colombia, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, French Guadeloupe, Guatemala, Honduras, Jamaica, French Martinique, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, Venezuela）
 
-Incisitermes seeversi 西弗斯楹白蚁（Mexico, Guatemala）
+[*Incisitermes seeversi* 西弗斯楹白蚁]({{ site.base_url }}/species/incisitermes-seeversi/)（Mexico, Guatemala）
 
-Incisitermes semilunaris 半月楹白蚁（New Caledonia）
+[*Incisitermes semilunaris* 半月楹白蚁]({{ site.base_url }}/species/incisitermes-semilunaris/)（New Caledonia）
 
-Incisitermes snyderi 斯奈德楹白蚁（United States, Mexico, Bahamas, Bermuda, Costa Rica, Cuba, Panama, Puerto Rico, Turks and Caicos Islands, British Virgin Islands, U.S. Virgin Islands）
+[*Incisitermes snyderi* 斯奈德楹白蚁]({{ site.base_url }}/species/incisitermes-snyderi/)（United States, Mexico, Bahamas, Bermuda, Costa Rica, Cuba, Panama, Puerto Rico, Turks and Caicos Islands, British Virgin Islands, U.S. Virgin Islands）
 
-Incisitermes solidus 坚硬楹白蚁（unknown）
+[*Incisitermes solidus* 坚硬楹白蚁]({{ site.base_url }}/species/incisitermes-solidus/)（unknown）
 
-Incisitermes taylori 泰勒楹白蚁（Philippines）
+[*Incisitermes taylori* 泰勒楹白蚁]({{ site.base_url }}/species/incisitermes-taylori/)（Philippines）
 
 <h5 id="kalotermes">Kalotermes</h5>
 
-Kalotermes aemulus 竞争木白蚁（Australia）
+[*Kalotermes aemulus* 竞争木白蚁]({{ site.base_url }}/species/kalotermes-aemulus/)（Australia）
 
-Kalotermes approximatus 邻近木白蚁（United States, Bermuda）
+[*Kalotermes approximatus* 邻近木白蚁]({{ site.base_url }}/species/kalotermes-approximatus/)（United States, Bermuda）
 
-Kalotermes atratus 黑色木白蚁（Australia）
+[*Kalotermes atratus* 黑色木白蚁]({{ site.base_url }}/species/kalotermes-atratus/)（Australia）
 
-Kalotermes banksiae 山龙眼木白蚁（Australia/New Zealand, Australia, Norfolk Island, New Zealand）
+[*Kalotermes banksiae* 山龙眼木白蚁]({{ site.base_url }}/species/kalotermes-banksiae/)（Australia/New Zealand, Australia, Norfolk Island, New Zealand）
 
-Kalotermes brouni 布龙木白蚁（New Zealand）
+[*Kalotermes brouni* 布龙木白蚁]({{ site.base_url }}/species/kalotermes-brouni/)（New Zealand）
 
-Kalotermes capicola 开普敦木白蚁（South Africa）
+[*Kalotermes capicola* 开普敦木白蚁]({{ site.base_url }}/species/kalotermes-capicola/)（South Africa）
 
-Kalotermes cognatus 共生木白蚁（New Zealand, Australia）
+[*Kalotermes cognatus* 共生木白蚁]({{ site.base_url }}/species/kalotermes-cognatus/)（New Zealand, Australia）
 
-Kalotermes convexus 凸木白蚁（Australia）
+[*Kalotermes convexus* 凸木白蚁]({{ site.base_url }}/species/kalotermes-convexus/)（Australia）
 
-Kalotermes dispar 不同木白蚁（Spain）
+[*Kalotermes dispar* 不同木白蚁]({{ site.base_url }}/species/kalotermes-dispar/)（Spain）
 
-\*Kalotermes flavicollis 黄颈木白蚁（Mediterranean region, Southern Europe, North Africa, West Asia）
+\*[*Kalotermes flavicollis* 黄颈木白蚁]({{ site.base_url }}/species/kalotermes-flavicollis/)（Mediterranean region, Southern Europe, North Africa, West Asia）
 
-Kalotermes gracilignathus 细颚木白蚁（Chile, Juan Fernández Islands, Peru）
+[*Kalotermes gracilignathus* 细颚木白蚁]({{ site.base_url }}/species/kalotermes-gracilignathus/)（Chile, Juan Fernández Islands, Peru）
 
-Kalotermes hilli 希尔木白蚁（Australia）
+[*Kalotermes hilli* 希尔木白蚁]({{ site.base_url }}/species/kalotermes-hilli/)（Australia）
 
-Kalotermes isaloensis 伊萨卢木白蚁（Madagascar, Comoros）
+[*Kalotermes isaloensis* 伊萨卢木白蚁]({{ site.base_url }}/species/kalotermes-isaloensis/)（Madagascar, Comoros）
 
-Kalotermes italicus 意大利木白蚁（central Italy, Tuscany, United States）
+[*Kalotermes italicus* 意大利木白蚁]({{ site.base_url }}/species/kalotermes-italicus/)（central Italy, Tuscany, United States）
 
-Kalotermes jepsoni 杰普森木白蚁（Sri Lanka）
+[*Kalotermes jepsoni* 杰普森木白蚁]({{ site.base_url }}/species/kalotermes-jepsoni/)（Sri Lanka）
 
-Kalotermes monticola 山栖木白蚁（Algeria, North Africa）
+[*Kalotermes monticola* 山栖木白蚁]({{ site.base_url }}/species/kalotermes-monticola/)（Algeria, North Africa）
 
-brachycephala 短头亚种
+[*brachycephala* 短头亚种]({{ site.base_url }}/species/kalotermes-monticola-brachycephala/)
 
-monticola 指名亚种
+[*monticola* 指名亚种]({{ site.base_url }}/species/kalotermes-monticola-monticola/)
 
-Kalotermes pallidinotum 白背木白蚁（Australia）
+[*Kalotermes pallidinotum* 白背木白蚁]({{ site.base_url }}/species/kalotermes-pallidinotum/)（Australia）
 
-Kalotermes phoeniciae 腓尼基木白蚁（eastern Mediterranean coast, Levant）
+[*Kalotermes phoeniciae* 腓尼基木白蚁]({{ site.base_url }}/species/kalotermes-phoeniciae/)（eastern Mediterranean coast, Levant）
 
-Kalotermes rufinotum 红背木白蚁（Australia）
+[*Kalotermes rufinotum* 红背木白蚁]({{ site.base_url }}/species/kalotermes-rufinotum/)（Australia）
 
-Kalotermes serrulatus 细锯齿木白蚁（Australia）
+[*Kalotermes serrulatus* 细锯齿木白蚁]({{ site.base_url }}/species/kalotermes-serrulatus/)（Australia）
 
-Kalotermes umtatae 乌姆塔塔木白蚁（South Africa）
+[*Kalotermes umtatae* 乌姆塔塔木白蚁]({{ site.base_url }}/species/kalotermes-umtatae/)（South Africa）
 
 <h5 id="longicaputermes">Longicaputermes</h5>
 
-\*Longicaputermes sinaicus 西奈头长白蚁（Sinai Peninsula, Egypt, Israel）
+\*[*Longicaputermes sinaicus* 西奈头长白蚁]({{ site.base_url }}/species/longicaputermes-sinaicus/)（Sinai Peninsula, Egypt, Israel）
 
 <h5 id="marginitermes">Marginitermes</h5>
 
-Marginitermes absitus 遥远边白蚁（Australia）
+[*Marginitermes absitus* 遥远边白蚁]({{ site.base_url }}/species/marginitermes-absitus/)（Australia）
 
-Marginitermes cactiphagus 食刺边白蚁（Mexico, Honduras, Guatemala, Nicaragua）
+[*Marginitermes cactiphagus* 食刺边白蚁]({{ site.base_url }}/species/marginitermes-cactiphagus/)（Mexico, Honduras, Guatemala, Nicaragua）
 
-\*Marginitermes hubbardi 哈伯德边白蚁（North America, United States, Mexico）
+\*[*Marginitermes hubbardi* 哈伯德边白蚁]({{ site.base_url }}/species/marginitermes-hubbardi/)（North America, United States, Mexico）
 
 <h5 id="neotermes">Neotermes</h5>
 
-Neotermes aburiensis 阿布里新白蚁（West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo）
+[*Neotermes aburiensis* 阿布里新白蚁]({{ site.base_url }}/species/neotermes-aburiensis/)（West Africa, Nigeria, Ghana, Ivory Coast, Democratic Republic of the Congo）
 
-Neotermes acceptus 宜人新白蚁（Brazil）
+[*Neotermes acceptus* 宜人新白蚁]({{ site.base_url }}/species/neotermes-acceptus/)（Brazil）
 
-Neotermes adampurensis 阿达姆普尔新白蚁（Bangladesh）
+[*Neotermes adampurensis* 阿达姆普尔新白蚁]({{ site.base_url }}/species/neotermes-adampurensis/)（Bangladesh）
 
-Neotermes agilis 轻快新白蚁（Cameroon, Ghana, Nigeria）
+[*Neotermes agilis* 轻快新白蚁]({{ site.base_url }}/species/neotermes-agilis/)（Cameroon, Ghana, Nigeria）
 
-Neotermes amplilabralis 宽唇新白蚁（Yunnan (Hekou)）
+[*Neotermes amplilabralis* 宽唇新白蚁]({{ site.base_url }}/species/neotermes-amplilabralis/)（Yunnan (Hekou)）
 
-Neotermes andamanensis 安达曼新白蚁（India）
+[*Neotermes andamanensis* 安达曼新白蚁]({{ site.base_url }}/species/neotermes-andamanensis/)（India）
 
-Neotermes angustigulus 细颏新白蚁（China, Yunnan）
+[*Neotermes angustigulus* 细颏新白蚁]({{ site.base_url }}/species/neotermes-angustigulus/)（China, Yunnan）
 
-Neotermes araguaensis 阿拉瓜新白蚁（Venezuela）
+[*Neotermes araguaensis* 阿拉瓜新白蚁]({{ site.base_url }}/species/neotermes-araguaensis/)（Venezuela）
 
-Neotermes aridus 干新白蚁（Ethiopia, Kenya）
+[*Neotermes aridus* 干新白蚁]({{ site.base_url }}/species/neotermes-aridus/)（Ethiopia, Kenya）
 
-Neotermes arthurimuelleri 阿图尔米勒新白蚁（Brazil）
+[*Neotermes arthurimuelleri* 阿图尔米勒新白蚁]({{ site.base_url }}/species/neotermes-arthurimuelleri/)（Brazil）
 
-Neotermes artocarpi 阿托卡尔佩新白蚁（Malaysia, Sarawak, Indonesia, Myanmar）
+[*Neotermes artocarpi* 阿托卡尔佩新白蚁]({{ site.base_url }}/species/neotermes-artocarpi/)（Malaysia, Sarawak, Indonesia, Myanmar）
 
-Neotermes assamensis 阿萨姆新白蚁（India, Assam）
+[*Neotermes assamensis* 阿萨姆新白蚁]({{ site.base_url }}/species/neotermes-assamensis/)（India, Assam）
 
-Neotermes assmuthi 阿斯穆斯新白蚁（India, Karnataka）
+[*Neotermes assmuthi* 阿斯穆斯新白蚁]({{ site.base_url }}/species/neotermes-assmuthi/)（India, Karnataka）
 
-Neotermes binovatus 双凹新白蚁（Hainan (Lehui)）
+[*Neotermes binovatus* 双凹新白蚁]({{ site.base_url }}/species/neotermes-binovatus/)（Hainan (Lehui)）
 
-Neotermes blairi 布莱尔新白蚁（India）
+[*Neotermes blairi* 布莱尔新白蚁]({{ site.base_url }}/species/neotermes-blairi/)（India）
 
-Neotermes bosei 鲍斯新白蚁（India, Bhutan）
+[*Neotermes bosei* 鲍斯新白蚁]({{ site.base_url }}/species/neotermes-bosei/)（India, Bhutan）
 
-Neotermes brachynotum 扁胸新白蚁（China, Yunnan）
+[*Neotermes brachynotum* 扁胸新白蚁]({{ site.base_url }}/species/neotermes-brachynotum/)（China, Yunnan）
 
-Neotermes brevinotus 短背新白蚁（Costa Rica, Honduras）
+[*Neotermes brevinotus* 短背新白蚁]({{ site.base_url }}/species/neotermes-brevinotus/)（Costa Rica, Honduras）
 
-Neotermes buxensis 布克萨新白蚁（India）
+[*Neotermes buxensis* 布克萨新白蚁]({{ site.base_url }}/species/neotermes-buxensis/)（India）
 
-Neotermes camerunensis 喀麦隆新白蚁（Senegal, Cameroon, Nigeria, São Tomé and Príncipe）
+[*Neotermes camerunensis* 喀麦隆新白蚁]({{ site.base_url }}/species/neotermes-camerunensis/)（Senegal, Cameroon, Nigeria, São Tomé and Príncipe）
 
-\*Neotermes castaneus 栗色新白蚁（Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela)）
+\*[*Neotermes castaneus* 栗色新白蚁]({{ site.base_url }}/species/neotermes-castaneus/)（Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela)）
 
-Neotermes chilensis 智利新白蚁（Chile）
+[*Neotermes chilensis* 智利新白蚁]({{ site.base_url }}/species/neotermes-chilensis/)（Chile）
 
-Neotermes collarti 科勒特新白蚁（Democratic Republic of the Congo）
+[*Neotermes collarti* 科勒特新白蚁]({{ site.base_url }}/species/neotermes-collarti/)（Democratic Republic of the Congo）
 
-Neotermes connexus 连接新白蚁（United States, Guam, Northern Mariana Islands）
+[*Neotermes connexus* 连接新白蚁]({{ site.base_url }}/species/neotermes-connexus/)（United States, Guam, Northern Mariana Islands）
 
-Neotermes costaseca 干海岸新白蚁（Peru）
+[*Neotermes costaseca* 干海岸新白蚁]({{ site.base_url }}/species/neotermes-costaseca/)（Peru）
 
-Neotermes cryptops 隐秘新白蚁（Tanzania, Uganda）
+[*Neotermes cryptops* 隐秘新白蚁]({{ site.base_url }}/species/neotermes-cryptops/)（Tanzania, Uganda）
 
-Neotermes cubanus 古巴新白蚁（Cuba）
+[*Neotermes cubanus* 古巴新白蚁]({{ site.base_url }}/species/neotermes-cubanus/)（Cuba）
 
-Neotermes dalbergiae 黄檀新白蚁（Indonesia）
+[*Neotermes dalbergiae* 黄檀新白蚁]({{ site.base_url }}/species/neotermes-dalbergiae/)（Indonesia）
 
-Neotermes desneuxi 德纳新白蚁（Madagascar, Tanzania）
+[*Neotermes desneuxi* 德纳新白蚁]({{ site.base_url }}/species/neotermes-desneuxi/)（Madagascar, Tanzania）
 
-Neotermes dhirendrai 迪伦德拉新白蚁（India, Tamil Nadu）
+[*Neotermes dhirendrai* 迪伦德拉新白蚁]({{ site.base_url }}/species/neotermes-dhirendrai/)（India, Tamil Nadu）
 
-Neotermes dolichognathus 长颚新白蚁（Guangdong (Zijin)）
+[*Neotermes dolichognathus* 长颚新白蚁]({{ site.base_url }}/species/neotermes-dolichognathus/)（Guangdong (Zijin)）
 
-Neotermes dubiocalcaratus 异距新白蚁（Yunnan (Mangshi)）
+[*Neotermes dubiocalcaratus* 异距新白蚁]({{ site.base_url }}/species/neotermes-dubiocalcaratus/)（Yunnan (Mangshi)）
 
-Neotermes eleanorae 埃莉诺新白蚁（India, Karnataka）
+[*Neotermes eleanorae* 埃莉诺新白蚁]({{ site.base_url }}/species/neotermes-eleanorae/)（India, Karnataka）
 
-Neotermes erythraeus 微红新白蚁（Eritrea, Ethiopia）
+[*Neotermes erythraeus* 微红新白蚁]({{ site.base_url }}/species/neotermes-erythraeus/)（Eritrea, Ethiopia）
 
-Neotermes europae 欧罗巴新白蚁（Europa Island, Madagascar, Réunion）
+[*Neotermes europae* 欧罗巴新白蚁]({{ site.base_url }}/species/neotermes-europae/)（Europa Island, Madagascar, Réunion）
 
-Neotermes ferrugineus 锈色新白蚁（Papua New Guinea）
+[*Neotermes ferrugineus* 锈色新白蚁]({{ site.base_url }}/species/neotermes-ferrugineus/)（Papua New Guinea）
 
-Neotermes firmus 坚固新白蚁（Kenya）
+[*Neotermes firmus* 坚固新白蚁]({{ site.base_url }}/species/neotermes-firmus/)（Kenya）
 
-Neotermes fletcheri 弗莱彻新白蚁（India, Bangladesh, Sri Lanka）
+[*Neotermes fletcheri* 弗莱彻新白蚁]({{ site.base_url }}/species/neotermes-fletcheri/)（India, Bangladesh, Sri Lanka）
 
-Neotermes fovefrons 洼额新白蚁（China, Yunnan）
+[*Neotermes fovefrons* 洼额新白蚁]({{ site.base_url }}/species/neotermes-fovefrons/)（China, Yunnan）
 
-Neotermes fujianensis 福建新白蚁（China, Fujian, Guangdong, Guangxi）
+[*Neotermes fujianensis* 福建新白蚁]({{ site.base_url }}/species/neotermes-fujianensis/)（China, Fujian, Guangdong, Guangxi）
 
-Neotermes fulvescens 金黄新白蚁（Brazil, Argentina, Bolivia, Paraguay）
+[*Neotermes fulvescens* 金黄新白蚁]({{ site.base_url }}/species/neotermes-fulvescens/)（Brazil, Argentina, Bolivia, Paraguay）
 
-Neotermes gestri 盖斯特新白蚁（Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe）
+[*Neotermes gestri* 盖斯特新白蚁]({{ site.base_url }}/species/neotermes-gestri/)（Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe）
 
-Neotermes glabriusculus 光滑新白蚁（Brazil）
+[*Neotermes glabriusculus* 光滑新白蚁]({{ site.base_url }}/species/neotermes-glabriusculus/)（Brazil）
 
-Neotermes gnathoferrum 铁颚新白蚁（Fiji）
+[*Neotermes gnathoferrum* 铁颚新白蚁]({{ site.base_url }}/species/neotermes-gnathoferrum/)（Fiji）
 
-Neotermes gracilidens 细齿新白蚁（Madagascar）
+[*Neotermes gracilidens* 细齿新白蚁]({{ site.base_url }}/species/neotermes-gracilidens/)（Madagascar）
 
-Neotermes grandis 大新白蚁（Philippines）
+[*Neotermes grandis* 大新白蚁]({{ site.base_url }}/species/neotermes-grandis/)（Philippines）
 
-Neotermes greeni 格林新白蚁（Sri Lanka）
+[*Neotermes greeni* 格林新白蚁]({{ site.base_url }}/species/neotermes-greeni/)（Sri Lanka）
 
-Neotermes hirtellus 粗毛新白蚁（South America, Brazil, Argentina）
+[*Neotermes hirtellus* 粗毛新白蚁]({{ site.base_url }}/species/neotermes-hirtellus/)（South America, Brazil, Argentina）
 
-Neotermes holmgreni 霍姆格伦新白蚁（Central America, Panama, Costa Rica, Guatemala, Mexico, South America, Colombia, Venezuela, Guyana, Caribbean, Grenada, Martinique, Trinidad and Tobago）
+[*Neotermes holmgreni* 霍姆格伦新白蚁]({{ site.base_url }}/species/neotermes-holmgreni/)（Central America, Panama, Costa Rica, Guatemala, Mexico, South America, Colombia, Venezuela, Guyana, Caribbean, Grenada, Martinique, Trinidad and Tobago）
 
-Neotermes humilis 小新白蚁（China）
+[*Neotermes humilis* 小新白蚁]({{ site.base_url }}/species/neotermes-humilis/)（China）
 
-Neotermes insularis 岛生新白蚁（Australia, New Zealand）
+[*Neotermes insularis* 岛生新白蚁]({{ site.base_url }}/species/neotermes-insularis/)（Australia, New Zealand）
 
-Neotermes intracaulis 茎内新白蚁（Caribbean, Saint Barthélemy, Guadeloupe, Aruba, Barbados, Bonaire, French Saint Martin, U.S. Virgin Islands, Colombia, Venezuela）
+[*Neotermes intracaulis* 茎内新白蚁]({{ site.base_url }}/species/neotermes-intracaulis/)（Caribbean, Saint Barthélemy, Guadeloupe, Aruba, Barbados, Bonaire, French Saint Martin, U.S. Virgin Islands, Colombia, Venezuela）
 
-Neotermes jouteli 茹泰尔新白蚁（North America, United States, Mexico, Caribbean, Bahamas, Cuba, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, Australia）
+[*Neotermes jouteli* 茹泰尔新白蚁]({{ site.base_url }}/species/neotermes-jouteli/)（North America, United States, Mexico, Caribbean, Bahamas, Cuba, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, Australia）
 
-Neotermes kalimpongensis 噶伦堡新白蚁（India, West Bengal）
+[*Neotermes kalimpongensis* 噶伦堡新白蚁]({{ site.base_url }}/species/neotermes-kalimpongensis/)（India, West Bengal）
 
-Neotermes kanehirai 凯恩希拉新白蚁（Taiwan, Palau）
+[*Neotermes kanehirai* 凯恩希拉新白蚁]({{ site.base_url }}/species/neotermes-kanehirai/)（Taiwan, Palau）
 
-Neotermes kartaboensis 卡尔塔波新白蚁（French Guiana, Guyana）
+[*Neotermes kartaboensis* 卡尔塔波新白蚁]({{ site.base_url }}/species/neotermes-kartaboensis/)（French Guiana, Guyana）
 
-Neotermes kemneri 凯姆勒新白蚁（South Asia, India, Sri Lanka）
+[*Neotermes kemneri* 凯姆勒新白蚁]({{ site.base_url }}/species/neotermes-kemneri/)（South Asia, India, Sri Lanka）
 
-Neotermes keralai 喀拉拉新白蚁（India, Kerala）
+[*Neotermes keralai* 喀拉拉新白蚁]({{ site.base_url }}/species/neotermes-keralai/)（India, Kerala）
 
-Neotermes ketelensis 凯特拉新白蚁（Indonesia）
+[*Neotermes ketelensis* 凯特拉新白蚁]({{ site.base_url }}/species/neotermes-ketelensis/)（Indonesia）
 
-Neotermes koshunensis 恒春新白蚁（East Asia, Taiwan, Japan）
+[*Neotermes koshunensis* 恒春新白蚁]({{ site.base_url }}/species/neotermes-koshunensis/)（East Asia, Taiwan, Japan）
 
-Neotermes krishnai 克里希纳新白蚁（India）
+[*Neotermes krishnai* 克里希纳新白蚁]({{ site.base_url }}/species/neotermes-krishnai/)（India）
 
-Neotermes lagunensis 内湖新白蚁（Philippines）
+[*Neotermes lagunensis* 内湖新白蚁]({{ site.base_url }}/species/neotermes-lagunensis/)（Philippines）
 
-Neotermes larseni 拉森新白蚁（Costa Rica, Mexico）
+[*Neotermes larseni* 拉森新白蚁]({{ site.base_url }}/species/neotermes-larseni/)（Costa Rica, Mexico）
 
-Neotermes laticollis 宽颈新白蚁（Seychelles）
+[*Neotermes laticollis* 宽颈新白蚁]({{ site.base_url }}/species/neotermes-laticollis/)（Seychelles）
 
-Neotermes lepersonneae 勒佩索纳新白蚁（Democratic Republic of the Congo）
+[*Neotermes lepersonneae* 勒佩索纳新白蚁]({{ site.base_url }}/species/neotermes-lepersonneae/)（Democratic Republic of the Congo）
 
-Neotermes longiceps 长头新白蚁（China, Hainan, Hong Kong）
+[*Neotermes longiceps* 长头新白蚁]({{ site.base_url }}/species/neotermes-longiceps/)（China, Hainan, Hong Kong）
 
-Neotermes longipennis 长翅新白蚁（Indonesia）
+[*Neotermes longipennis* 长翅新白蚁]({{ site.base_url }}/species/neotermes-longipennis/)（Indonesia）
 
-Neotermes ludaoensis 绿岛新白蚁（Taiwan, Green Island）
+[*Neotermes ludaoensis* 绿岛新白蚁]({{ site.base_url }}/species/neotermes-ludaoensis/)（Taiwan, Green Island）
 
-Neotermes luykxi 卢伊克斯新白蚁（Caribbean, Bahamas, Turks and Caicos Islands, United States）
+[*Neotermes luykxi* 卢伊克斯新白蚁]({{ site.base_url }}/species/neotermes-luykxi/)（Caribbean, Bahamas, Turks and Caicos Islands, United States）
 
-Neotermes magnoculus 大眼新白蚁（Bolivia, Brazil）
+[*Neotermes magnoculus* 大眼新白蚁]({{ site.base_url }}/species/neotermes-magnoculus/)（Bolivia, Brazil）
 
-Neotermes malatensis 马拉蒂新白蚁（Philippines）
+[*Neotermes malatensis* 马拉蒂新白蚁]({{ site.base_url }}/species/neotermes-malatensis/)（Philippines）
 
-Neotermes mangiferae 芒果新白蚁（India）
+[*Neotermes mangiferae* 芒果新白蚁]({{ site.base_url }}/species/neotermes-mangiferae/)（India）
 
-Neotermes medius 中部新白蚁（Indonesia）
+[*Neotermes medius* 中部新白蚁]({{ site.base_url }}/species/neotermes-medius/)（Indonesia）
 
-Neotermes megaoculatus 巨眼新白蚁（India）
+[*Neotermes megaoculatus* 巨眼新白蚁]({{ site.base_url }}/species/neotermes-megaoculatus/)（India）
 
-lakhimpuri 勒金布尔亚种
+[*lakhimpuri* 勒金布尔亚种]({{ site.base_url }}/species/neotermes-megaoculatus-lakhimpuri/)
 
-megaoculatus 指名亚种
+[*megaoculatus* 指名亚种]({{ site.base_url }}/species/neotermes-megaoculatus-megaoculatus/)
 
-Neotermes meruensis 梅鲁新白蚁（East/Central Africa, Kenya, Tanzania）
+[*Neotermes meruensis* 梅鲁新白蚁]({{ site.base_url }}/species/neotermes-meruensis/)（East/Central Africa, Kenya, Tanzania）
 
-Neotermes microculatus 小眼新白蚁（India）
+[*Neotermes microculatus* 小眼新白蚁]({{ site.base_url }}/species/neotermes-microculatus/)（India）
 
-Neotermes microphthalmus 小眸新白蚁（Philippines）
+[*Neotermes microphthalmus* 小眸新白蚁]({{ site.base_url }}/species/neotermes-microphthalmus/)（Philippines）
 
-Neotermes minutus 微小新白蚁（Malaysia）
+[*Neotermes minutus* 微小新白蚁]({{ site.base_url }}/species/neotermes-minutus/)（Malaysia）
 
-Neotermes miracapitalis 奇头新白蚁（Yunnan (Jinping)）
+[*Neotermes miracapitalis* 奇头新白蚁]({{ site.base_url }}/species/neotermes-miracapitalis/)（Yunnan (Jinping)）
 
-Neotermes modestus 适度新白蚁（Argentina）
+[*Neotermes modestus* 适度新白蚁]({{ site.base_url }}/species/neotermes-modestus/)（Argentina）
 
-Neotermes mona 莫纳新白蚁（Caribbean, Puerto Rico, Bahamas, Turks and Caicos Islands, Dominican Republic, Haiti, British Virgin Islands, U.S. Virgin Islands, Mexico）
+[*Neotermes mona* 莫纳新白蚁]({{ site.base_url }}/species/neotermes-mona/)（Caribbean, Puerto Rico, Bahamas, Turks and Caicos Islands, Dominican Republic, Haiti, British Virgin Islands, U.S. Virgin Islands, Mexico）
 
-Neotermes nigeriensis 尼日利亚新白蚁（Nigeria）
+[*Neotermes nigeriensis* 尼日利亚新白蚁]({{ site.base_url }}/species/neotermes-nigeriensis/)（Nigeria）
 
-Neotermes nilamburensis 尼伦布尔新白蚁（India）
+[*Neotermes nilamburensis* 尼伦布尔新白蚁]({{ site.base_url }}/species/neotermes-nilamburensis/)（India）
 
-Neotermes ovatus 卵形新白蚁（Indonesia）
+[*Neotermes ovatus* 卵形新白蚁]({{ site.base_url }}/species/neotermes-ovatus/)（Indonesia）
 
-Neotermes pallidicollis 灰颈新白蚁（Cameroon, Nigeria, São Tomé and Príncipe）
+[*Neotermes pallidicollis* 灰颈新白蚁]({{ site.base_url }}/species/neotermes-pallidicollis/)（Cameroon, Nigeria, São Tomé and Príncipe）
 
-Neotermes papua 巴布亚新白蚁（Papua New Guinea）
+[*Neotermes papua* 巴布亚新白蚁]({{ site.base_url }}/species/neotermes-papua/)（Papua New Guinea）
 
-Neotermes paraensis 帕拉新白蚁（Brazil）
+[*Neotermes paraensis* 帕拉新白蚁]({{ site.base_url }}/species/neotermes-paraensis/)（Brazil）
 
-Neotermes paratensis 帕拉蒂新白蚁（India）
+[*Neotermes paratensis* 帕拉蒂新白蚁]({{ site.base_url }}/species/neotermes-paratensis/)（India）
 
-Neotermes parviscutatus 小盾新白蚁（Philippines）
+[*Neotermes parviscutatus* 小盾新白蚁]({{ site.base_url }}/species/neotermes-parviscutatus/)（Philippines）
 
-Neotermes phragmosus 护穴新白蚁（Mexico, Cuba）
+[*Neotermes phragmosus* 护穴新白蚁]({{ site.base_url }}/species/neotermes-phragmosus/)（Mexico, Cuba）
 
-Neotermes pingshanensis 屏山新白蚁（China）
+[*Neotermes pingshanensis* 屏山新白蚁]({{ site.base_url }}/species/neotermes-pingshanensis/)（China）
 
-Neotermes platyfrons 宽额新白蚁（Dominican Republic）
+[*Neotermes platyfrons* 宽额新白蚁]({{ site.base_url }}/species/neotermes-platyfrons/)（Dominican Republic）
 
-Neotermes prosonneratiae 前海桑新白蚁（Bangladesh）
+[*Neotermes prosonneratiae* 前海桑新白蚁]({{ site.base_url }}/species/neotermes-prosonneratiae/)（Bangladesh）
 
-Neotermes rainbowi 雷恩鲍新白蚁（Cook Islands, Guam, Kiribati, Marshall Islands, Tuvalu）
+[*Neotermes rainbowi* 雷恩鲍新白蚁]({{ site.base_url }}/species/neotermes-rainbowi/)（Cook Islands, Guam, Kiribati, Marshall Islands, Tuvalu）
 
-Neotermes rhizophorae 红树新白蚁（India）
+[*Neotermes rhizophorae* 红树新白蚁]({{ site.base_url }}/species/neotermes-rhizophorae/)（India）
 
-Neotermes rouxi 鲁新白蚁（New Caledonia）
+[*Neotermes rouxi* 鲁新白蚁]({{ site.base_url }}/species/neotermes-rouxi/)（New Caledonia）
 
-Neotermes saleierensis 萨莱尔新白蚁（Indonesia）
+[*Neotermes saleierensis* 萨莱尔新白蚁]({{ site.base_url }}/species/neotermes-saleierensis/)（Indonesia）
 
-Neotermes samoanus 萨摩亚新白蚁（Samoa）
+[*Neotermes samoanus* 萨摩亚新白蚁]({{ site.base_url }}/species/neotermes-samoanus/)（Samoa）
 
-Neotermes sanctaecrucis 圣克鲁斯新白蚁（Solomon Islands, Vanuatu）
+[*Neotermes sanctaecrucis* 圣克鲁斯新白蚁]({{ site.base_url }}/species/neotermes-sanctaecrucis/)（Solomon Islands, Vanuatu）
 
-Neotermes sarasini 萨拉赞新白蚁（New Caledonia, Samoa）
+[*Neotermes sarasini* 萨拉赞新白蚁]({{ site.base_url }}/species/neotermes-sarasini/)（New Caledonia, Samoa）
 
-Neotermes schultzei 舒尔茨新白蚁（Papua New Guinea）
+[*Neotermes schultzei* 舒尔茨新白蚁]({{ site.base_url }}/species/neotermes-schultzei/)（Papua New Guinea）
 
-Neotermes sepulvillus 缺附垫新白蚁（Democratic Republic of the Congo）
+[*Neotermes sepulvillus* 缺附垫新白蚁]({{ site.base_url }}/species/neotermes-sepulvillus/)（Democratic Republic of the Congo）
 
-Neotermes setifer 刚毛新白蚁（Panama）
+[*Neotermes setifer* 刚毛新白蚁]({{ site.base_url }}/species/neotermes-setifer/)（Panama）
 
-Neotermes shimogensis 希莫加新白蚁（India, Karnataka）
+[*Neotermes shimogensis* 希莫加新白蚁]({{ site.base_url }}/species/neotermes-shimogensis/)（India, Karnataka）
 
-Neotermes sinensis 中华新白蚁（China, Guangdong）
+[*Neotermes sinensis* 中华新白蚁]({{ site.base_url }}/species/neotermes-sinensis/)（China, Guangdong）
 
-Neotermes sjostedti 舍斯泰特新白蚁（Vanuatu）
+[*Neotermes sjostedti* 舍斯泰特新白蚁]({{ site.base_url }}/species/neotermes-sjostedti/)（Vanuatu）
 
-Neotermes sonneratiae 海桑新白蚁（Indonesia）
+[*Neotermes sonneratiae* 海桑新白蚁]({{ site.base_url }}/species/neotermes-sonneratiae/)（Indonesia）
 
-Neotermes sphenocephalus 楔头新白蚁（China, Yunnan）
+[*Neotermes sphenocephalus* 楔头新白蚁]({{ site.base_url }}/species/neotermes-sphenocephalus/)（China, Yunnan）
 
-Neotermes sugioi 杉尾新白蚁（East Asia, Japan, Taiwan）
+[*Neotermes sugioi* 杉尾新白蚁]({{ site.base_url }}/species/neotermes-sugioi/)（East Asia, Japan, Taiwan）
 
-Neotermes superans 充裕新白蚁（Ethiopia）
+[*Neotermes superans* 充裕新白蚁]({{ site.base_url }}/species/neotermes-superans/)（Ethiopia）
 
-Neotermes taishanensis 台山新白蚁（China, Guangdong）
+[*Neotermes taishanensis* 台山新白蚁]({{ site.base_url }}/species/neotermes-taishanensis/)（China, Guangdong）
 
-Neotermes tectonae 柚木新白蚁（Indonesia, Malaysia）
+[*Neotermes tectonae* 柚木新白蚁]({{ site.base_url }}/species/neotermes-tectonae/)（Indonesia, Malaysia）
 
-Neotermes tuberogulus 丘颏新白蚁（China, Yunnan）
+[*Neotermes tuberogulus* 丘颏新白蚁]({{ site.base_url }}/species/neotermes-tuberogulus/)（China, Yunnan）
 
-Neotermes undulatus 波颚新白蚁（China, Yunnan）
+[*Neotermes undulatus* 波颚新白蚁]({{ site.base_url }}/species/neotermes-undulatus/)（China, Yunnan）
 
-Neotermes venkateshwara 文卡特斯沃拉新白蚁（India, Tamil Nadu）
+[*Neotermes venkateshwara* 文卡特斯沃拉新白蚁]({{ site.base_url }}/species/neotermes-venkateshwara/)（India, Tamil Nadu）
 
-Neotermes viraktamathi 维拉格塔马蒂新白蚁（India, Karnataka）
+[*Neotermes viraktamathi* 维拉格塔马蒂新白蚁]({{ site.base_url }}/species/neotermes-viraktamathi/)（India, Karnataka）
 
-Neotermes voeltzkowi 弗尔特科新白蚁（Madagascar）
+[*Neotermes voeltzkowi* 弗尔特科新白蚁]({{ site.base_url }}/species/neotermes-voeltzkowi/)（Madagascar）
 
-Neotermes wagneri 瓦格纳新白蚁（Brazil, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago）
+[*Neotermes wagneri* 瓦格纳新白蚁]({{ site.base_url }}/species/neotermes-wagneri/)（Brazil, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago）
 
-Neotermes yunnanensis 云南新白蚁（China, Yunnan）
+[*Neotermes yunnanensis* 云南新白蚁]({{ site.base_url }}/species/neotermes-yunnanensis/)（China, Yunnan）
 
-Neotermes zanclus 镰刀新白蚁（Brazil）
+[*Neotermes zanclus* 镰刀新白蚁]({{ site.base_url }}/species/neotermes-zanclus/)（Brazil）
 
-Neotermes zuluensis 祖鲁新白蚁（South Africa）
+[*Neotermes zuluensis* 祖鲁新白蚁]({{ site.base_url }}/species/neotermes-zuluensis/)（South Africa）
 
 <h5 id="paraneotermes">Paraneotermes</h5>
 
-\*Paraneotermes simplicicornis 简角近新白蚁（North America, United States, Mexico）
+\*[*Paraneotermes simplicicornis* 简角近新白蚁]({{ site.base_url }}/species/paraneotermes-simplicicornis/)（North America, United States, Mexico）
 
 <h5 id="postelectrotermes">Postelectrotermes</h5>
 
-Postelectrotermes amplus 大后琥珀白蚁（Madagascar）
+[*Postelectrotermes amplus* 大后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-amplus/)（Madagascar）
 
-Postelectrotermes bhimi 比姆后琥珀白蚁（South Asia, India）
+[*Postelectrotermes bhimi* 比姆后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-bhimi/)（South Asia, India）
 
-Postelectrotermes bidentatus 二齿后琥珀白蚁（Iran）
+[*Postelectrotermes bidentatus* 二齿后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-bidentatus/)（Iran）
 
-Postelectrotermes castaneiceps 栗头后琥珀白蚁（Madagascar）
+[*Postelectrotermes castaneiceps* 栗头后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-castaneiceps/)（Madagascar）
 
-Postelectrotermes howa 合华后琥珀白蚁（Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France)）
+[*Postelectrotermes howa* 合华后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-howa/)（Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France)）
 
-Postelectrotermes longiceps 长头后琥珀白蚁（Madagascar）
+[*Postelectrotermes longiceps* 长头后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-longiceps/)（Madagascar）
 
-Postelectrotermes longus 长后琥珀白蚁（Comoros, Madagascar, Seychelles）
+[*Postelectrotermes longus* 长后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-longus/)（Comoros, Madagascar, Seychelles）
 
-Postelectrotermes militaris 好斗后琥珀白蚁（Sri Lanka）
+[*Postelectrotermes militaris* 好斗后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-militaris/)（Sri Lanka）
 
-Postelectrotermes nayari 纳亚尔后琥珀白蚁（India）
+[*Postelectrotermes nayari* 纳亚尔后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-nayari/)（India）
 
-Postelectrotermes pasniensis 伯斯尼后琥珀白蚁（South Asia, Pakistan, Iran）
+[*Postelectrotermes pasniensis* 伯斯尼后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-pasniensis/)（South Asia, Pakistan, Iran）
 
-Postelectrotermes pishinensis 比欣后琥珀白蚁（South Asia, Balochistan, Pakistan）
+[*Postelectrotermes pishinensis* 比欣后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-pishinensis/)（South Asia, Balochistan, Pakistan）
 
-\*Postelectrotermes praecox 早熟后琥珀白蚁（Madeira (Portugal)）
+\*[*Postelectrotermes praecox* 早熟后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-praecox/)（Madeira (Portugal)）
 
-Postelectrotermes sordwanae 索瓦德纳后琥珀白蚁（West Africa, Ivory Coast, South Africa）
+[*Postelectrotermes sordwanae* 索瓦德纳后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-sordwanae/)（West Africa, Ivory Coast, South Africa）
 
-Postelectrotermes tongyaii 同艾后琥珀白蚁（Thailand）
+[*Postelectrotermes tongyaii* 同艾后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-tongyaii/)（Thailand）
 
-Postelectrotermes zabuliensis 扎布尔后琥珀白蚁（West Asia, Iran）
+[*Postelectrotermes zabuliensis* 扎布尔后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-zabuliensis/)（West Asia, Iran）
 
 <h5 id="procryptotermes">Procryptotermes</h5>
 
-Procryptotermes australiensis 澳大利亚前砂白蚁（Australia）
+[*Procryptotermes australiensis* 澳大利亚前砂白蚁]({{ site.base_url }}/species/procryptotermes-australiensis/)（Australia）
 
-Procryptotermes corniceps 角头前砂白蚁（Caribbean）
+[*Procryptotermes corniceps* 角头前砂白蚁]({{ site.base_url }}/species/procryptotermes-corniceps/)（Caribbean）
 
-Procryptotermes dhari 达尔前砂白蚁（India）
+[*Procryptotermes dhari* 达尔前砂白蚁]({{ site.base_url }}/species/procryptotermes-dhari/)（India）
 
-Procryptotermes dioscurae 迪奥斯屈阿前砂白蚁（Socotra, Yemen）
+[*Procryptotermes dioscurae* 迪奥斯屈阿前砂白蚁]({{ site.base_url }}/species/procryptotermes-dioscurae/)（Socotra, Yemen）
 
-Procryptotermes edwardsi 爱德华兹前砂白蚁（Caribbean）
+[*Procryptotermes edwardsi* 爱德华兹前砂白蚁]({{ site.base_url }}/species/procryptotermes-edwardsi/)（Caribbean）
 
-Procryptotermes falcifer 具镰前砂白蚁（Réunion, Mauritius, French Réunion）
+[*Procryptotermes falcifer* 具镰前砂白蚁]({{ site.base_url }}/species/procryptotermes-falcifer/)（Réunion, Mauritius, French Réunion）
 
-\*Procryptotermes fryeri 弗赖尔前砂白蚁（Seychelles）
+\*[*Procryptotermes fryeri* 弗赖尔前砂白蚁]({{ site.base_url }}/species/procryptotermes-fryeri/)（Seychelles）
 
-Procryptotermes hesperus 西部前砂白蚁（Bahamas, Cuba, Mexico）
+[*Procryptotermes hesperus* 西部前砂白蚁]({{ site.base_url }}/species/procryptotermes-hesperus/)（Bahamas, Cuba, Mexico）
 
-Procryptotermes hunsurensis 洪苏尔前砂白蚁（India）
+[*Procryptotermes hunsurensis* 洪苏尔前砂白蚁]({{ site.base_url }}/species/procryptotermes-hunsurensis/)（India）
 
-Procryptotermes krishnai 克里希纳前砂白蚁（New Caledonia, French New Caledonia）
+[*Procryptotermes krishnai* 克里希纳前砂白蚁]({{ site.base_url }}/species/procryptotermes-krishnai/)（New Caledonia, French New Caledonia）
 
-Procryptotermes leewardensis 背风群岛前砂白蚁（Caribbean）
+[*Procryptotermes leewardensis* 背风群岛前砂白蚁]({{ site.base_url }}/species/procryptotermes-leewardensis/)（Caribbean）
 
-Procryptotermes rapae 拉帕前砂白蚁（French Polynesia）
+[*Procryptotermes rapae* 拉帕前砂白蚁]({{ site.base_url }}/species/procryptotermes-rapae/)（French Polynesia）
 
-Procryptotermes speiseri 斯派泽前砂白蚁（Vanuatu）
+[*Procryptotermes speiseri* 斯派泽前砂白蚁]({{ site.base_url }}/species/procryptotermes-speiseri/)（Vanuatu）
 
-Procryptotermes valeriae 瓦莱里前砂白蚁（India）
+[*Procryptotermes valeriae* 瓦莱里前砂白蚁]({{ site.base_url }}/species/procryptotermes-valeriae/)（India）
 
 <h5 id="proneotermes">Proneotermes</h5>
 
-Proneotermes latifrons 宽额前新白蚁（Venezuela）
+[*Proneotermes latifrons* 宽额前新白蚁]({{ site.base_url }}/species/proneotermes-latifrons/)（Venezuela）
 
-Proneotermes macondianus 马康多前新白蚁（Colombia）
+[*Proneotermes macondianus* 马康多前新白蚁]({{ site.base_url }}/species/proneotermes-macondianus/)（Colombia）
 
-\*Proneotermes perezi 佩雷斯前新白蚁（Costa Rica, Guatemala, Honduras, Panama）
+\*[*Proneotermes perezi* 佩雷斯前新白蚁]({{ site.base_url }}/species/proneotermes-perezi/)（Costa Rica, Guatemala, Honduras, Panama）
 
 <h5 id="pterotermes">Pterotermes</h5>
 
-\*Pterotermes occidentis 西部翅白蚁（North America, United States, Mexico）
+\*[*Pterotermes occidentis* 西部翅白蚁]({{ site.base_url }}/species/pterotermes-occidentis/)（North America, United States, Mexico）
 
 <h5 id="roisinitermes">Roisinitermes</h5>
 
-\*Roisinitermes ebogoensis 埃博戈罗伊辛白蚁（Cameroon）
+\*[*Roisinitermes ebogoensis* 埃博戈罗伊辛白蚁]({{ site.base_url }}/species/roisinitermes-ebogoensis/)（Cameroon）
 
 <h5 id="rugitermes">Rugitermes</h5>
 
-Rugitermes aridus 干皱白蚁（Peru）
+[*Rugitermes aridus* 干皱白蚁]({{ site.base_url }}/species/rugitermes-aridus/)（Peru）
 
-Rugitermes athertoni 阿瑟顿皱白蚁（French Polynesia）
+[*Rugitermes athertoni* 阿瑟顿皱白蚁]({{ site.base_url }}/species/rugitermes-athertoni/)（French Polynesia）
 
-Rugitermes bicolor 双色皱白蚁（Venezuela, Guyana, Trinidad and Tobago）
+[*Rugitermes bicolor* 双色皱白蚁]({{ site.base_url }}/species/rugitermes-bicolor/)（Venezuela, Guyana, Trinidad and Tobago）
 
-Rugitermes costaricensis 哥斯达黎加皱白蚁（Costa Rica）
+[*Rugitermes costaricensis* 哥斯达黎加皱白蚁]({{ site.base_url }}/species/rugitermes-costaricensis/)（Costa Rica）
 
-Rugitermes flavicinctus 金黄皱白蚁（Brazil, Guyana, Trinidad and Tobago）
+[*Rugitermes flavicinctus* 金黄皱白蚁]({{ site.base_url }}/species/rugitermes-flavicinctus/)（Brazil, Guyana, Trinidad and Tobago）
 
-Rugitermes kirbyi 柯比皱白蚁（Costa Rica, Panama）
+[*Rugitermes kirbyi* 柯比皱白蚁]({{ site.base_url }}/species/rugitermes-kirbyi/)（Costa Rica, Panama）
 
-Rugitermes laticollis 宽颈皱白蚁（Ecuador, Bolivia）
+[*Rugitermes laticollis* 宽颈皱白蚁]({{ site.base_url }}/species/rugitermes-laticollis/)（Ecuador, Bolivia）
 
-Rugitermes magninotus 大背皱白蚁（Ecuador, Guyana, Peru, Brazil）
+[*Rugitermes magninotus* 大背皱白蚁]({{ site.base_url }}/species/rugitermes-magninotus/)（Ecuador, Guyana, Peru, Brazil）
 
-Rugitermes niger 黑色皱白蚁（Brazil, Argentina）
+[*Rugitermes niger* 黑色皱白蚁]({{ site.base_url }}/species/rugitermes-niger/)（Brazil, Argentina）
 
-\*Rugitermes nodulosus 结节皱白蚁（Brazil）
+\*[*Rugitermes nodulosus* 结节皱白蚁]({{ site.base_url }}/species/rugitermes-nodulosus/)（Brazil）
 
-Rugitermes occidentalis 西部皱白蚁（Brazil, Argentina, Uruguay）
+[*Rugitermes occidentalis* 西部皱白蚁]({{ site.base_url }}/species/rugitermes-occidentalis/)（Brazil, Argentina, Uruguay）
 
-Rugitermes panamae 巴拿马皱白蚁（Panama）
+[*Rugitermes panamae* 巴拿马皱白蚁]({{ site.base_url }}/species/rugitermes-panamae/)（Panama）
 
-Rugitermes rufus 红色皱白蚁（Bolivia）
+[*Rugitermes rufus* 红色皱白蚁]({{ site.base_url }}/species/rugitermes-rufus/)（Bolivia）
 
-Rugitermes rugosus 皱纹皱白蚁（Brazil, Argentina, Paraguay, Uruguay）
+[*Rugitermes rugosus* 皱纹皱白蚁]({{ site.base_url }}/species/rugitermes-rugosus/)（Brazil, Argentina, Paraguay, Uruguay）
 
-Rugitermes tinto 咖啡皱白蚁（Colombia）
+[*Rugitermes tinto* 咖啡皱白蚁]({{ site.base_url }}/species/rugitermes-tinto/)（Colombia）
 
-Rugitermes unicolor 单色皱白蚁（Costa Rica, Guatemala, Belize, Honduras, Mexico）
+[*Rugitermes unicolor* 单色皱白蚁]({{ site.base_url }}/species/rugitermes-unicolor/)（Costa Rica, Guatemala, Belize, Honduras, Mexico）
 
-Rugitermes ursulae 小熊皱白蚁（Colombia）
+[*Rugitermes ursulae* 小熊皱白蚁]({{ site.base_url }}/species/rugitermes-ursulae/)（Colombia）
 
-Rugitermes volcanensis 火山皱白蚁（Bolivia）
+[*Rugitermes volcanensis* 火山皱白蚁]({{ site.base_url }}/species/rugitermes-volcanensis/)（Bolivia）
 
 <h5 id="tauritermes">Tauritermes</h5>
 
-Tauritermes bandeirai 班代拉牛白蚁（Brazil）
+[*Tauritermes bandeirai* 班代拉牛白蚁]({{ site.base_url }}/species/tauritermes-bandeirai/)（Brazil）
 
-\*Tauritermes taurocephalus 牛头牛白蚁（Brazil, Argentina, Bolivia）
+\*[*Tauritermes taurocephalus* 牛头牛白蚁]({{ site.base_url }}/species/tauritermes-taurocephalus/)（Brazil, Argentina, Bolivia）
 
-Tauritermes triceromegas 三混气牛白蚁（Paraguay, Argentina, Brazil）
+[*Tauritermes triceromegas* 三混气牛白蚁]({{ site.base_url }}/species/tauritermes-triceromegas/)（Paraguay, Argentina, Brazil）
 
-Tauritermes vitulus 公犊牛白蚁（Brazil）
+[*Tauritermes vitulus* 公犊牛白蚁]({{ site.base_url }}/species/tauritermes-vitulus/)（Brazil）
 
 <h2 id="neoisoptera">Neoisoptera</h2>
 
@@ -1548,43 +1548,43 @@ This family contains only two living genera, and the two genera contrast sharply
 
 <h5 id="prorhinotermes">Prorhinotermes</h5>
 
-Prorhinotermes canalifrons 沟额原鼻白蚁（Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles）
+[*Prorhinotermes canalifrons* 沟额原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-canalifrons/)（Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles）
 
-Prorhinotermes cotym 科廷原鼻白蚁（India）
+[*Prorhinotermes cotym* 科廷原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-cotym/)（India）
 
-Prorhinotermes flavus 黄色原鼻白蚁（Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan）
+[*Prorhinotermes flavus* 黄色原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-flavus/)（Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan）
 
-Prorhinotermes hainanensis 海南原鼻白蚁（China, Hainan）
+[*Prorhinotermes hainanensis* 海南原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-hainanensis/)（China, Hainan）
 
-\*Prorhinotermes inopinatus 意外原鼻白蚁（Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands）
+\*[*Prorhinotermes inopinatus* 意外原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-inopinatus/)（Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands）
 
-Prorhinotermes molinoi 莫利诺原鼻白蚁（Panama, Costa Rica, Guatemala, Honduras）
+[*Prorhinotermes molinoi* 莫利诺原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-molinoi/)（Panama, Costa Rica, Guatemala, Honduras）
 
-Prorhinotermes oceanicus 海洋原鼻白蚁（Costa Rica, Cocos Island, Costa Rica）
+[*Prorhinotermes oceanicus* 海洋原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-oceanicus/)（Costa Rica, Cocos Island, Costa Rica）
 
-Prorhinotermes ponapensis 波纳佩原鼻白蚁（Micronesia, Pohnpei）
+[*Prorhinotermes ponapensis* 波纳佩原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-ponapensis/)（Micronesia, Pohnpei）
 
-Prorhinotermes rugifer 具皱原鼻白蚁（Indonesia, Indonesia）
+[*Prorhinotermes rugifer* 具皱原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-rugifer/)（Indonesia, Indonesia）
 
-Prorhinotermes simplex 简单原鼻白蚁（United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico）
+[*Prorhinotermes simplex* 简单原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-simplex/)（United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico）
 
-Prorhinotermes spectabilis 奇丽原鼻白蚁（China, Yunnan）
+[*Prorhinotermes spectabilis* 奇丽原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-spectabilis/)（China, Yunnan）
 
-Prorhinotermes xishaensis 西沙原鼻白蚁（China, Xisha Islands）
+[*Prorhinotermes xishaensis* 西沙原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-xishaensis/)（China, Xisha Islands）
 
 <h5 id="psammotermes">Psammotermes</h5>
 
-Psammotermes allocerus 奇白沙白蚁（southern Africa, Namibia, South Africa, Angola, Botswana, Egypt）
+[*Psammotermes allocerus* 奇白沙白蚁]({{ site.base_url }}/species/psammotermes-allocerus/)（southern Africa, Namibia, South Africa, Angola, Botswana, Egypt）
 
-\*Psammotermes hybostoma 弯嘴沙白蚁（West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen）
+\*[*Psammotermes hybostoma* 弯嘴沙白蚁]({{ site.base_url }}/species/psammotermes-hybostoma/)（West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen）
 
-Psammotermes prohybostoma 似弯嘴沙白蚁（Iran）
+[*Psammotermes prohybostoma* 似弯嘴沙白蚁]({{ site.base_url }}/species/psammotermes-prohybostoma/)（Iran）
 
-Psammotermes rajasthanicus 拉贾斯坦沙白蚁（northwestern India, Pakistan, Iran）
+[*Psammotermes rajasthanicus* 拉贾斯坦沙白蚁]({{ site.base_url }}/species/psammotermes-rajasthanicus/)（northwestern India, Pakistan, Iran）
 
-Psammotermes senegalensis 塞内加尔沙白蚁（Nigeria, Senegal）
+[*Psammotermes senegalensis* 塞内加尔沙白蚁]({{ site.base_url }}/species/psammotermes-senegalensis/)（Nigeria, Senegal）
 
-Psammotermes voeltzkowi 弗尔特科沙白蚁（Madagascar）
+[*Psammotermes voeltzkowi* 弗尔特科沙白蚁]({{ site.base_url }}/species/psammotermes-voeltzkowi/)（Madagascar）
 
 <h3 id="rhinotermitidae">RHINOTERMITIDAE</h3>
 
@@ -1594,135 +1594,135 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 
 <h5 id="acorhinotermes">Acorhinotermes</h5>
 
-Acorhinotermes claritae 克拉丽塔尖鼻白蚁（Colombia, Brazil, Venezuela）
+[*Acorhinotermes claritae* 克拉丽塔尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-claritae/)（Colombia, Brazil, Venezuela）
 
-\*Acorhinotermes subfusciceps 棕头尖鼻白蚁（South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela）
+\*[*Acorhinotermes subfusciceps* 棕头尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-subfusciceps/)（South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela）
 
 <h5 id="dolichorhinotermes">Dolichorhinotermes</h5>
 
-Dolichorhinotermes japuraensis 雅普拉狭鼻白蚁（Brazil, Guyana）
+[*Dolichorhinotermes japuraensis* 雅普拉狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-japuraensis/)（Brazil, Guyana）
 
-Dolichorhinotermes lanciarius 矛唇狭鼻白蚁（Bolivia, Ecuador, Peru）
+[*Dolichorhinotermes lanciarius* 矛唇狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-lanciarius/)（Bolivia, Ecuador, Peru）
 
-Dolichorhinotermes latilabrum 宽唇狭鼻白蚁（South America, Brazil, French Guiana, Bolivia）
+[*Dolichorhinotermes latilabrum* 宽唇狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-latilabrum/)（South America, Brazil, French Guiana, Bolivia）
 
-Dolichorhinotermes longidens 长齿狭鼻白蚁（Panama, Colombia）
+[*Dolichorhinotermes longidens* 长齿狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-longidens/)（Panama, Colombia）
 
-\*Dolichorhinotermes longilabius 长唇狭鼻白蚁（South America, Brazil, Colombia, French Guiana, Ecuador, Guyana, Trinidad and Tobago, Venezuela）
+\*[*Dolichorhinotermes longilabius* 长唇狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-longilabius/)（South America, Brazil, Colombia, French Guiana, Ecuador, Guyana, Trinidad and Tobago, Venezuela）
 
-Dolichorhinotermes neli 内尔狭鼻白蚁（French Guiana）
+[*Dolichorhinotermes neli* 内尔狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-neli/)（French Guiana）
 
-Dolichorhinotermes tenebrosus 暗色狭鼻白蚁（South America, Guyana, Bolivia, Ecuador, Venezuela）
+[*Dolichorhinotermes tenebrosus* 暗色狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-tenebrosus/)（South America, Guyana, Bolivia, Ecuador, Venezuela）
 
 <h5 id="parrhinotermes">Parrhinotermes</h5>
 
-\*Parrhinotermes aequalis 相等棒鼻白蚁（Malaysia, Sarawak, Indonesia）
+\*[*Parrhinotermes aequalis* 相等棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-aequalis/)（Malaysia, Sarawak, Indonesia）
 
-Parrhinotermes barbatus 毛颏棒鼻白蚁（Indonesia, Papua New Guinea）
+[*Parrhinotermes barbatus* 毛颏棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-barbatus/)（Indonesia, Papua New Guinea）
 
-Parrhinotermes browni 布朗棒鼻白蚁（Indonesia, Papua New Guinea, Solomon Islands）
+[*Parrhinotermes browni* 布朗棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-browni/)（Indonesia, Papua New Guinea, Solomon Islands）
 
-Parrhinotermes buttelreepeni 巴特里彭棒鼻白蚁（Southeast Asia, Sumatra, Indonesia, Malaysia）
+[*Parrhinotermes buttelreepeni* 巴特里彭棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-buttelreepeni/)（Southeast Asia, Sumatra, Indonesia, Malaysia）
 
-Parrhinotermes inaequalis 不等棒鼻白蚁（Indonesia, Malaysia）
+[*Parrhinotermes inaequalis* 不等棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-inaequalis/)（Indonesia, Malaysia）
 
-Parrhinotermes khasii 卡西棒鼻白蚁（Tibet (Mêdog: Beibeng 800 m, Yarang 1000 m); India (Assam: Khasi Hills 366 m)）
+[*Parrhinotermes khasii* 卡西棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-khasii/)（Tibet (Mêdog: Beibeng 800 m, Yarang 1000 m); India (Assam: Khasi Hills 366 m)）
 
-Parrhinotermes microdentiformis 小齿棒鼻白蚁（Thailand, Malaysia）
+[*Parrhinotermes microdentiformis* 小齿棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-microdentiformis/)（Thailand, Malaysia）
 
-Parrhinotermes microdentiformisoides 似小齿棒鼻白蚁（Thailand, Malaysia）
+[*Parrhinotermes microdentiformisoides* 似小齿棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-microdentiformisoides/)（Thailand, Malaysia）
 
-Parrhinotermes minor 小棒鼻白蚁（Thailand, Indonesia, Malaysia）
+[*Parrhinotermes minor* 小棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-minor/)（Thailand, Indonesia, Malaysia）
 
-Parrhinotermes pygmaeus 侏儒棒鼻白蚁（Indonesia, Malaysia）
+[*Parrhinotermes pygmaeus* 侏儒棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-pygmaeus/)（Indonesia, Malaysia）
 
-Parrhinotermes queenslandicus 昆士兰棒鼻白蚁（Australia）
+[*Parrhinotermes queenslandicus* 昆士兰棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-queenslandicus/)（Australia）
 
-Parrhinotermes ruiliensis 瑞丽棒鼻白蚁（China, Yunnan）
+[*Parrhinotermes ruiliensis* 瑞丽棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-ruiliensis/)（China, Yunnan）
 
-Parrhinotermes shamimi 沙明棒鼻白蚁（India）
+[*Parrhinotermes shamimi* 沙明棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-shamimi/)（India）
 
 <h5 id="rhinotermes">Rhinotermes</h5>
 
-Rhinotermes hispidus 多毛鼻白蚁（Brazil, French Guiana, Colombia, Bolivia, Ecuador, Peru, Venezuela）
+[*Rhinotermes hispidus* 多毛鼻白蚁]({{ site.base_url }}/species/rhinotermes-hispidus/)（Brazil, French Guiana, Colombia, Bolivia, Ecuador, Peru, Venezuela）
 
-Rhinotermes manni 曼鼻白蚁（Bolivia）
+[*Rhinotermes manni* 曼鼻白蚁]({{ site.base_url }}/species/rhinotermes-manni/)（Bolivia）
 
-Rhinotermes marginalis 微小鼻白蚁（Brazil, Colombia, French Guiana, Caribbean, Bolivia, Ecuador, Peru, Suriname, Venezuela）
+[*Rhinotermes marginalis* 微小鼻白蚁]({{ site.base_url }}/species/rhinotermes-marginalis/)（Brazil, Colombia, French Guiana, Caribbean, Bolivia, Ecuador, Peru, Suriname, Venezuela）
 
-\*Rhinotermes nasutus 大鼻鼻白蚁（French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname）
+\*[*Rhinotermes nasutus* 大鼻鼻白蚁]({{ site.base_url }}/species/rhinotermes-nasutus/)（French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname）
 
 <h5 id="schedorhinotermes">Schedorhinotermes</h5>
 
-Schedorhinotermes actuosus 活跃长鼻白蚁（Australia）
+[*Schedorhinotermes actuosus* 活跃长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-actuosus/)（Australia）
 
-Schedorhinotermes bidentatus 双齿长鼻白蚁（Philippines）
+[*Schedorhinotermes bidentatus* 双齿长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-bidentatus/)（Philippines）
 
-Schedorhinotermes brachyceps 短头长鼻白蚁（Indonesia）
+[*Schedorhinotermes brachyceps* 短头长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-brachyceps/)（Indonesia）
 
-Schedorhinotermes breinli 布赖内尔长鼻白蚁（Australia）
+[*Schedorhinotermes breinli* 布赖内尔长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-breinli/)（Australia）
 
-Schedorhinotermes brevialatus 短翅长鼻白蚁（Sarawak, Malaysia, Indonesia）
+[*Schedorhinotermes brevialatus* 短翅长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-brevialatus/)（Sarawak, Malaysia, Indonesia）
 
-Schedorhinotermes butteli 巴特尔长鼻白蚁（Malaysia）
+[*Schedorhinotermes butteli* 巴特尔长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-butteli/)（Malaysia）
 
-Schedorhinotermes derosus 流浪长鼻白蚁（Australia）
+[*Schedorhinotermes derosus* 流浪长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-derosus/)（Australia）
 
-Schedorhinotermes eleanorae 埃莉诺长鼻白蚁（India）
+[*Schedorhinotermes eleanorae* 埃莉诺长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-eleanorae/)（India）
 
-Schedorhinotermes fortignathus 强颚长鼻白蚁（Yunnan (Simao).）
+[*Schedorhinotermes fortignathus* 强颚长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-fortignathus/)（Yunnan (Simao).）
 
-Schedorhinotermes ganlanbaensis 橄榄坝长鼻白蚁（China (Yunnan)）
+[*Schedorhinotermes ganlanbaensis* 橄榄坝长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-ganlanbaensis/)（China (Yunnan)）
 
-Schedorhinotermes holmgreni 霍姆格伦长鼻白蚁（Indonesia）
+[*Schedorhinotermes holmgreni* 霍姆格伦长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-holmgreni/)（Indonesia）
 
-Schedorhinotermes insolitus 异盟长鼻白蚁（China (Yunnan)）
+[*Schedorhinotermes insolitus* 异盟长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-insolitus/)（China (Yunnan)）
 
-\*Schedorhinotermes intermedius 中间长鼻白蚁（eastern Australia）
+\*[*Schedorhinotermes intermedius* 中间长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-intermedius/)（eastern Australia）
 
-Schedorhinotermes lamanianus 拉曼长鼻白蚁（West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe）
+[*Schedorhinotermes lamanianus* 拉曼长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-lamanianus/)（West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe）
 
-Schedorhinotermes leopoldi 利奥波德长鼻白蚁（Indonesia）
+[*Schedorhinotermes leopoldi* 利奥波德长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-leopoldi/)（Indonesia）
 
-Schedorhinotermes longirostris 长喙长鼻白蚁（India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States)）
+[*Schedorhinotermes longirostris* 长喙长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-longirostris/)（India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States)）
 
-Schedorhinotermes magnus 大长鼻白蚁（China (Yunnan)）
+[*Schedorhinotermes magnus* 大长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-magnus/)（China (Yunnan)）
 
-Schedorhinotermes makassarensis 望加锡长鼻白蚁（Indonesia, India, Nicobar Islands）
+[*Schedorhinotermes makassarensis* 望加锡长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-makassarensis/)（Indonesia, India, Nicobar Islands）
 
-Schedorhinotermes makilingensis 马吉岭长鼻白蚁（Philippines）
+[*Schedorhinotermes makilingensis* 马吉岭长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-makilingensis/)（Philippines）
 
-Schedorhinotermes malaccensis 马六甲长鼻白蚁（Southeast Asia, Thailand, Malaysia, Cambodia, Indonesia, Myanmar, Singapore, Vietnam, India）
+[*Schedorhinotermes malaccensis* 马六甲长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-malaccensis/)（Southeast Asia, Thailand, Malaysia, Cambodia, Indonesia, Myanmar, Singapore, Vietnam, India）
 
-Schedorhinotermes maximus 最大长鼻白蚁（distribution to be verified）
+[*Schedorhinotermes maximus* 最大长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-maximus/)（distribution to be verified）
 
-Schedorhinotermes medioobscurus 中暗长鼻白蚁（Southeast Asia, Indonesia, Thailand, Malaysia, Cambodia, Singapore, Vietnam, Philippines, China, India）
+[*Schedorhinotermes medioobscurus* 中暗长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-medioobscurus/)（Southeast Asia, Indonesia, Thailand, Malaysia, Cambodia, Singapore, Vietnam, Philippines, China, India）
 
-Schedorhinotermes nancowriensis 楠考里长鼻白蚁（India, Nicobar Islands）
+[*Schedorhinotermes nancowriensis* 楠考里长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-nancowriensis/)（India, Nicobar Islands）
 
-Schedorhinotermes putorius 臭鼬长鼻白蚁（West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda）
+[*Schedorhinotermes putorius* 臭鼬长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-putorius/)（West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda）
 
-Schedorhinotermes pyricephalus 梨头长鼻白蚁（China (Yunnan)）
+[*Schedorhinotermes pyricephalus* 梨头长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-pyricephalus/)（China (Yunnan)）
 
-Schedorhinotermes rectangularis 直角长鼻白蚁（Thailand）
+[*Schedorhinotermes rectangularis* 直角长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-rectangularis/)（Thailand）
 
-Schedorhinotermes reticulatus 网状长鼻白蚁（Australia）
+[*Schedorhinotermes reticulatus* 网状长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-reticulatus/)（Australia）
 
-Schedorhinotermes robustior 强壮长鼻白蚁（Papua New Guinea）
+[*Schedorhinotermes robustior* 强壮长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-robustior/)（Papua New Guinea）
 
-Schedorhinotermes sanctaecrucis 圣克鲁斯长鼻白蚁（Solomon Islands）
+[*Schedorhinotermes sanctaecrucis* 圣克鲁斯长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-sanctaecrucis/)（Solomon Islands）
 
-Schedorhinotermes seclusus 隐遁长鼻白蚁（Australia, Papua New Guinea）
+[*Schedorhinotermes seclusus* 隐遁长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-seclusus/)（Australia, Papua New Guinea）
 
-Schedorhinotermes solomonensis 所罗门长鼻白蚁（Solomon Islands）
+[*Schedorhinotermes solomonensis* 所罗门长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-solomonensis/)（Solomon Islands）
 
-Schedorhinotermes tenuis 细瘦长鼻白蚁（Indonesia）
+[*Schedorhinotermes tenuis* 细瘦长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-tenuis/)（Indonesia）
 
-Schedorhinotermes tiwarii 蒂瓦里长鼻白蚁（India）
+[*Schedorhinotermes tiwarii* 蒂瓦里长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-tiwarii/)（India）
 
-Schedorhinotermes translucens 透明长鼻白蚁（Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea）
+[*Schedorhinotermes translucens* 透明长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-translucens/)（Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea）
 
-Schedorhinotermes umbraticus 隐蔽长鼻白蚁（Papua New Guinea）
+[*Schedorhinotermes umbraticus* 隐蔽长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-umbraticus/)（Papua New Guinea）
 
 <h3 id="serritermitidae">SERRITERMITIDAE</h3>
 
@@ -1732,13 +1732,13 @@ This family is a small family endemic to the Neotropical realm, occurring from n
 
 <h5 id="glossotermes">Glossotermes</h5>
 
-\*Glossotermes oculatus 眼显舌白蚁（French Guiana, Guyana）
+\*[*Glossotermes oculatus* 眼显舌白蚁]({{ site.base_url }}/species/glossotermes-oculatus/)（French Guiana, Guyana）
 
-Glossotermes sulcatus 具纹舌白蚁（Brazil）
+[*Glossotermes sulcatus* 具纹舌白蚁]({{ site.base_url }}/species/glossotermes-sulcatus/)（Brazil）
 
 <h5 id="serritermes">Serritermes</h5>
 
-\*Serritermes serrifer 锯齿白蚁（Brazil）
+\*[*Serritermes serrifer* 锯齿白蚁]({{ site.base_url }}/species/serritermes-serrifer/)（Brazil）
 
 <h3 id="stylotermitidae">STYLOTERMITIDAE</h3>
 
@@ -1750,95 +1750,95 @@ Stylotermes sp.
 
 <h5 id="stylotermes">Stylotermes</h5>
 
-Stylotermes acrofrons 丘额杆白蚁（China）
+[*Stylotermes acrofrons* 丘额杆白蚁]({{ site.base_url }}/species/stylotermes-acrofrons/)（China）
 
-Stylotermes ahmadi 阿哈默德杆白蚁（China, Bangladesh）
+[*Stylotermes ahmadi* 阿哈默德杆白蚁]({{ site.base_url }}/species/stylotermes-ahmadi/)（China, Bangladesh）
 
-Stylotermes alpinus 高山杆白蚁（China）
+[*Stylotermes alpinus* 高山杆白蚁]({{ site.base_url }}/species/stylotermes-alpinus/)（China）
 
-Stylotermes angustignathus 细颚杆白蚁（China）
+[*Stylotermes angustignathus* 细颚杆白蚁]({{ site.base_url }}/species/stylotermes-angustignathus/)（China）
 
-Stylotermes beesoni 比森杆白蚁（India）
+[*Stylotermes beesoni* 比森杆白蚁]({{ site.base_url }}/species/stylotermes-beesoni/)（India）
 
-Stylotermes bengalensis 西孟加拉杆白蚁（India）
+[*Stylotermes bengalensis* 西孟加拉杆白蚁]({{ site.base_url }}/species/stylotermes-bengalensis/)（India）
 
-Stylotermes chakratensis 杰格拉达杆白蚁（China, India）
+[*Stylotermes chakratensis* 杰格拉达杆白蚁]({{ site.base_url }}/species/stylotermes-chakratensis/)（China, India）
 
-Stylotermes changtingensis 长汀杆白蚁（China）
+[*Stylotermes changtingensis* 长汀杆白蚁]({{ site.base_url }}/species/stylotermes-changtingensis/)（China）
 
-Stylotermes chengduensis 成都杆白蚁（China）
+[*Stylotermes chengduensis* 成都杆白蚁]({{ site.base_url }}/species/stylotermes-chengduensis/)（China）
 
-Stylotermes chongqingensis 重庆杆白蚁（China）
+[*Stylotermes chongqingensis* 重庆杆白蚁]({{ site.base_url }}/species/stylotermes-chongqingensis/)（China）
 
-Stylotermes choui 周氏杆白蚁（China）
+[*Stylotermes choui* 周氏杆白蚁]({{ site.base_url }}/species/stylotermes-choui/)（China）
 
-Stylotermes crinis 多毛杆白蚁（China）
+[*Stylotermes crinis* 多毛杆白蚁]({{ site.base_url }}/species/stylotermes-crinis/)（China）
 
-Stylotermes curvatus 弯颚杆白蚁（China）
+[*Stylotermes curvatus* 弯颚杆白蚁]({{ site.base_url }}/species/stylotermes-curvatus/)（China）
 
-Stylotermes dunensis 德拉敦杆白蚁（China, India）
+[*Stylotermes dunensis* 德拉敦杆白蚁]({{ site.base_url }}/species/stylotermes-dunensis/)（China, India）
 
-Stylotermes faveolus 凹胸杆白蚁（India）
+[*Stylotermes faveolus* 凹胸杆白蚁]({{ site.base_url }}/species/stylotermes-faveolus/)（India）
 
-\*Stylotermes fletcheri 弗莱彻杆白蚁（India）
+\*[*Stylotermes fletcheri* 弗莱彻杆白蚁]({{ site.base_url }}/species/stylotermes-fletcheri/)（India）
 
-Stylotermes fontanellus 长囟杆白蚁（China）
+[*Stylotermes fontanellus* 长囟杆白蚁]({{ site.base_url }}/species/stylotermes-fontanellus/)（China）
 
-Stylotermes guiyangensis 贵阳杆白蚁（China）
+[*Stylotermes guiyangensis* 贵阳杆白蚁]({{ site.base_url }}/species/stylotermes-guiyangensis/)（China）
 
-Stylotermes halumicus 穿山甲杆白蚁（China (Taiwan)）
+[*Stylotermes halumicus* 穿山甲杆白蚁]({{ site.base_url }}/species/stylotermes-halumicus/)（China (Taiwan)）
 
-Stylotermes hanyuanicus 汉源杆白蚁（China）
+[*Stylotermes hanyuanicus* 汉源杆白蚁]({{ site.base_url }}/species/stylotermes-hanyuanicus/)（China）
 
-Stylotermes inclinatus 倾头杆白蚁（China）
+[*Stylotermes inclinatus* 倾头杆白蚁]({{ site.base_url }}/species/stylotermes-inclinatus/)（China）
 
-Stylotermes jinyunicus 缙云杆白蚁（China）
+[*Stylotermes jinyunicus* 缙云杆白蚁]({{ site.base_url }}/species/stylotermes-jinyunicus/)（China）
 
-Stylotermes labralis 圆唇杆白蚁（China）
+[*Stylotermes labralis* 圆唇杆白蚁]({{ site.base_url }}/species/stylotermes-labralis/)（China）
 
-Stylotermes laticrus 阔腿杆白蚁（China）
+[*Stylotermes laticrus* 阔腿杆白蚁]({{ site.base_url }}/species/stylotermes-laticrus/)（China）
 
-Stylotermes latilabrum 宽唇杆白蚁（China）
+[*Stylotermes latilabrum* 宽唇杆白蚁]({{ site.base_url }}/species/stylotermes-latilabrum/)（China）
 
-Stylotermes latipedunculus 阔颏杆白蚁（China）
+[*Stylotermes latipedunculus* 阔颏杆白蚁]({{ site.base_url }}/species/stylotermes-latipedunculus/)（China）
 
-Stylotermes lianpingensis 连平杆白蚁（China）
+[*Stylotermes lianpingensis* 连平杆白蚁]({{ site.base_url }}/species/stylotermes-lianpingensis/)（China）
 
-Stylotermes longignathus 长颚杆白蚁（China）
+[*Stylotermes longignathus* 长颚杆白蚁]({{ site.base_url }}/species/stylotermes-longignathus/)（China）
 
-Stylotermes mecocephalus 长头杆白蚁（China）
+[*Stylotermes mecocephalus* 长头杆白蚁]({{ site.base_url }}/species/stylotermes-mecocephalus/)（China）
 
-Stylotermes minutus 侏儒杆白蚁（China）
+[*Stylotermes minutus* 侏儒杆白蚁]({{ site.base_url }}/species/stylotermes-minutus/)（China）
 
-Stylotermes mirabilis 颏奇杆白蚁（China）
+[*Stylotermes mirabilis* 颏奇杆白蚁]({{ site.base_url }}/species/stylotermes-mirabilis/)（China）
 
-Stylotermes orthognathus 直颚杆白蚁（China）
+[*Stylotermes orthognathus* 直颚杆白蚁]({{ site.base_url }}/species/stylotermes-orthognathus/)（China）
 
-Stylotermes parabengalensis 似西孟加拉杆白蚁（China, India）
+[*Stylotermes parabengalensis* 似西孟加拉杆白蚁]({{ site.base_url }}/species/stylotermes-parabengalensis/)（China, India）
 
-Stylotermes planifrons 平额杆白蚁（China）
+[*Stylotermes planifrons* 平额杆白蚁]({{ site.base_url }}/species/stylotermes-planifrons/)（China）
 
-Stylotermes robustus 宏壮杆白蚁（China）
+[*Stylotermes robustus* 宏壮杆白蚁]({{ site.base_url }}/species/stylotermes-robustus/)（China）
 
-Stylotermes roonwali 鲁恩沃杆白蚁（India, Brunei, Malaysia）
+[*Stylotermes roonwali* 鲁恩沃杆白蚁]({{ site.base_url }}/species/stylotermes-roonwali/)（India, Brunei, Malaysia）
 
-Stylotermes setosus 刚毛杆白蚁（China）
+[*Stylotermes setosus* 刚毛杆白蚁]({{ site.base_url }}/species/stylotermes-setosus/)（China）
 
-Stylotermes sinensis 中华杆白蚁（China）
+[*Stylotermes sinensis* 中华杆白蚁]({{ site.base_url }}/species/stylotermes-sinensis/)（China）
 
-Stylotermes sui 苏氏杆白蚁（China）
+[*Stylotermes sui* 苏氏杆白蚁]({{ site.base_url }}/species/stylotermes-sui/)（China）
 
-Stylotermes triplanus 三平杆白蚁（China）
+[*Stylotermes triplanus* 三平杆白蚁]({{ site.base_url }}/species/stylotermes-triplanus/)（China）
 
-Stylotermes tsaii 蔡氏杆白蚁（China）
+[*Stylotermes tsaii* 蔡氏杆白蚁]({{ site.base_url }}/species/stylotermes-tsaii/)（China）
 
-Stylotermes undulatus 波颚杆白蚁（China）
+[*Stylotermes undulatus* 波颚杆白蚁]({{ site.base_url }}/species/stylotermes-undulatus/)（China）
 
-Stylotermes valvules 短盖杆白蚁（China）
+[*Stylotermes valvules* 短盖杆白蚁]({{ site.base_url }}/species/stylotermes-valvules/)（China）
 
-Stylotermes wuyinicus 武夷杆白蚁（China）
+[*Stylotermes wuyinicus* 武夷杆白蚁]({{ site.base_url }}/species/stylotermes-wuyinicus/)（China）
 
-Stylotermes xichangensis 西昌杆白蚁（China）
+[*Stylotermes xichangensis* 西昌杆白蚁]({{ site.base_url }}/species/stylotermes-xichangensis/)（China）
 
 <h3 id="termitogetonidae">TERMITOGETONIDAE</h3>
 
@@ -1848,9 +1848,9 @@ In distribution, this is a small Oriental-realm family, occurring in Southeast A
 
 <h5 id="termitogeton">Termitogeton</h5>
 
-\*Termitogeton planus 平坦寡脉白蚁（Indonesia, Malaysia）
+\*[*Termitogeton planus* 平坦寡脉白蚁]({{ site.base_url }}/species/termitogeton-planus/)（Indonesia, Malaysia）
 
-Termitogeton umbilicatus 中凹寡脉白蚁（Sri Lanka）
+[*Termitogeton umbilicatus* 中凹寡脉白蚁]({{ site.base_url }}/species/termitogeton-umbilicatus/)（Sri Lanka）
 
 <h2 id="geoisoptera">Geoisoptera</h2>
 
@@ -1866,485 +1866,485 @@ Coptotermes formosanus 台湾乳白蚁
 
 <h5 id="coptotermes">Coptotermes</h5>
 
-Coptotermes acinaciformis 短刀乳白蚁（Australia, introduced: New Zealand）
+[*Coptotermes acinaciformis* 短刀乳白蚁]({{ site.base_url }}/species/coptotermes-acinaciformis/)（Australia, introduced: New Zealand）
 
-acinaciformis 指名亚种
+[*acinaciformis* 指名亚种]({{ site.base_url }}/species/coptotermes-acinaciformis-acinaciformis/)
 
-raffrayi 拉夫雷亚种
+[*raffrayi* 拉夫雷亚种]({{ site.base_url }}/species/coptotermes-acinaciformis-raffrayi/)
 
-Coptotermes amanii 阿马尼乳白蚁（Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe）
+[*Coptotermes amanii* 阿马尼乳白蚁]({{ site.base_url }}/species/coptotermes-amanii/)（Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe）
 
-Coptotermes amboinensis 安汶乳白蚁（Maluku Islands, Indonesia）
+[*Coptotermes amboinensis* 安汶乳白蚁]({{ site.base_url }}/species/coptotermes-amboinensis/)（Maluku Islands, Indonesia）
 
-Coptotermes bannaensis 版纳乳白蚁（China (Yunnan)）
+[*Coptotermes bannaensis* 版纳乳白蚁]({{ site.base_url }}/species/coptotermes-bannaensis/)（China (Yunnan)）
 
-Coptotermes beckeri 贝克乳白蚁（southern India）
+[*Coptotermes beckeri* 贝克乳白蚁]({{ site.base_url }}/species/coptotermes-beckeri/)（southern India）
 
-Coptotermes bentongensis 文冬乳白蚁（Malaysia）
+[*Coptotermes bentongensis* 文冬乳白蚁]({{ site.base_url }}/species/coptotermes-bentongensis/)（Malaysia）
 
-Coptotermes boetonensis 博顿乳白蚁（Java, Indonesia）
+[*Coptotermes boetonensis* 博顿乳白蚁]({{ site.base_url }}/species/coptotermes-boetonensis/)（Java, Indonesia）
 
-Coptotermes brunneus 深棕乳白蚁（western Australia）
+[*Coptotermes brunneus* 深棕乳白蚁]({{ site.base_url }}/species/coptotermes-brunneus/)（western Australia）
 
-Coptotermes ceylonicus 锡兰乳白蚁（southern India, Sri Lanka, China）
+[*Coptotermes ceylonicus* 锡兰乳白蚁]({{ site.base_url }}/species/coptotermes-ceylonicus/)（southern India, Sri Lanka, China）
 
-Coptotermes chaoxianensis 巢县乳白蚁（Anhui, China）
+[*Coptotermes chaoxianensis* 巢县乳白蚁]({{ site.base_url }}/species/coptotermes-chaoxianensis/)（Anhui, China）
 
-Coptotermes cooloola 库鲁拉乳白蚁（southeastern Queensland, Australia）
+[*Coptotermes cooloola* 库鲁拉乳白蚁]({{ site.base_url }}/species/coptotermes-cooloola/)（southeastern Queensland, Australia）
 
-Coptotermes curvignathus 曲颚乳白蚁（Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa）
+[*Coptotermes curvignathus* 曲颚乳白蚁]({{ site.base_url }}/species/coptotermes-curvignathus/)（Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa）
 
-Coptotermes cyclocoryphus 圆头乳白蚁（China (Guangdong)）
+[*Coptotermes cyclocoryphus* 圆头乳白蚁]({{ site.base_url }}/species/coptotermes-cyclocoryphus/)（China (Guangdong)）
 
-Coptotermes dimorphus 二型乳白蚁（China (Yunnan)）
+[*Coptotermes dimorphus* 二型乳白蚁]({{ site.base_url }}/species/coptotermes-dimorphus/)（China (Yunnan)）
 
-Coptotermes dobonicus 多波乳白蚁（Papua New Guinea）
+[*Coptotermes dobonicus* 多波乳白蚁]({{ site.base_url }}/species/coptotermes-dobonicus/)（Papua New Guinea）
 
-Coptotermes dreghorni 雷德霍恩乳白蚁（Queensland, Australia）
+[*Coptotermes dreghorni* 雷德霍恩乳白蚁]({{ site.base_url }}/species/coptotermes-dreghorni/)（Queensland, Australia）
 
-Coptotermes elisae 瑞明乳白蚁（Indonesia, Malaysia, Papua New Guinea）
+[*Coptotermes elisae* 瑞明乳白蚁]({{ site.base_url }}/species/coptotermes-elisae/)（Indonesia, Malaysia, Papua New Guinea）
 
-Coptotermes emersoni 埃默森乳白蚁（India, China, Sri Lanka）
+[*Coptotermes emersoni* 埃默森乳白蚁]({{ site.base_url }}/species/coptotermes-emersoni/)（India, China, Sri Lanka）
 
-Coptotermes formosanus 台湾乳白蚁（southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade）
+[*Coptotermes formosanus* 台湾乳白蚁]({{ site.base_url }}/species/coptotermes-formosanus/)（southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade）
 
-Coptotermes frenchi 弗伦奇乳白蚁（Australia; introduced: New Zealand）
+[*Coptotermes frenchi* 弗伦奇乳白蚁]({{ site.base_url }}/species/coptotermes-frenchi/)（Australia; introduced: New Zealand）
 
-Coptotermes fumipennis 烟翅乳白蚁（Australia）
+[*Coptotermes fumipennis* 烟翅乳白蚁]({{ site.base_url }}/species/coptotermes-fumipennis/)（Australia）
 
-Coptotermes gambrinus 甘布里努斯乳白蚁（Papua New Guinea）
+[*Coptotermes gambrinus* 甘布里努斯乳白蚁]({{ site.base_url }}/species/coptotermes-gambrinus/)（Papua New Guinea）
 
-Coptotermes gaurii 高瑞乳白蚁（Sri Lanka, Nicobar Islands (India)）
+[*Coptotermes gaurii* 高瑞乳白蚁]({{ site.base_url }}/species/coptotermes-gaurii/)（Sri Lanka, Nicobar Islands (India)）
 
-\*Coptotermes gestroi 格斯特乳白蚁（Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands）
+\*[*Coptotermes gestroi* 格斯特乳白蚁]({{ site.base_url }}/species/coptotermes-gestroi/)（Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands）
 
-Coptotermes grandiceps 庞头乳白蚁（Solomon Islands, Papua New Guinea, Indonesia）
+[*Coptotermes grandiceps* 庞头乳白蚁]({{ site.base_url }}/species/coptotermes-grandiceps/)（Solomon Islands, Papua New Guinea, Indonesia）
 
-Coptotermes grandis 大头乳白蚁（China (Fujian)）
+[*Coptotermes grandis* 大头乳白蚁]({{ site.base_url }}/species/coptotermes-grandis/)（China (Fujian)）
 
-Coptotermes guangdongensis 广东乳白蚁（China (Guangdong)）
+[*Coptotermes guangdongensis* 广东乳白蚁]({{ site.base_url }}/species/coptotermes-guangdongensis/)（China (Guangdong)）
 
-Coptotermes guizhouensis 贵州乳白蚁（China (Guizhou)）
+[*Coptotermes guizhouensis* 贵州乳白蚁]({{ site.base_url }}/species/coptotermes-guizhouensis/)（China (Guizhou)）
 
-Coptotermes gulangyuensis 鼓浪屿乳白蚁（China (Fujian)）
+[*Coptotermes gulangyuensis* 鼓浪屿乳白蚁]({{ site.base_url }}/species/coptotermes-gulangyuensis/)（China (Fujian)）
 
-Coptotermes hainanensis 海南乳白蚁（China (Hainan)）
+[*Coptotermes hainanensis* 海南乳白蚁]({{ site.base_url }}/species/coptotermes-hainanensis/)（China (Hainan)）
 
-Coptotermes intermedius 中间乳白蚁（West Africa, Ivory Coast, Senegal, Sierra Leone, Burkina Faso, Ghana, Guinea-Bissau, Nigeria, Oman）
+[*Coptotermes intermedius* 中间乳白蚁]({{ site.base_url }}/species/coptotermes-intermedius/)（West Africa, Ivory Coast, Senegal, Sierra Leone, Burkina Faso, Ghana, Guinea-Bissau, Nigeria, Oman）
 
-Coptotermes kalshoveni 卡尔斯霍芬乳白蚁（Indonesia, Malaysia, Thailand）
+[*Coptotermes kalshoveni* 卡尔斯霍芬乳白蚁]({{ site.base_url }}/species/coptotermes-kalshoveni/)（Indonesia, Malaysia, Thailand）
 
-Coptotermes kishori 基绍乳白蚁（India）
+[*Coptotermes kishori* 基绍乳白蚁]({{ site.base_url }}/species/coptotermes-kishori/)（India）
 
-Coptotermes lacteus 乳色乳白蚁（eastern Australia）
+[*Coptotermes lacteus* 乳色乳白蚁]({{ site.base_url }}/species/coptotermes-lacteus/)（eastern Australia）
 
-Coptotermes longignathus 长颚乳白蚁（China (Yunnan)）
+[*Coptotermes longignathus* 长颚乳白蚁]({{ site.base_url }}/species/coptotermes-longignathus/)（China (Yunnan)）
 
-Coptotermes longistriatus 长带乳白蚁（China (Guangdong)）
+[*Coptotermes longistriatus* 长带乳白蚁]({{ site.base_url }}/species/coptotermes-longistriatus/)（China (Guangdong)）
 
-Coptotermes mauricianus 毛里求斯乳白蚁（Mauritius）
+[*Coptotermes mauricianus* 毛里求斯乳白蚁]({{ site.base_url }}/species/coptotermes-mauricianus/)（Mauritius）
 
-Coptotermes melanoistriatus 黑带乳白蚁（China (Hong Kong)）
+[*Coptotermes melanoistriatus* 黑带乳白蚁]({{ site.base_url }}/species/coptotermes-melanoistriatus/)（China (Hong Kong)）
 
-Coptotermes menadoae 万鸦东乳白蚁（Indonesia (Sulawesi)）
+[*Coptotermes menadoae* 万鸦东乳白蚁]({{ site.base_url }}/species/coptotermes-menadoae/)（Indonesia (Sulawesi)）
 
-Coptotermes michaelseni 米夏埃尔森乳白蚁（western Australia）
+[*Coptotermes michaelseni* 米夏埃尔森乳白蚁]({{ site.base_url }}/species/coptotermes-michaelseni/)（western Australia）
 
-Coptotermes minutissimus 最小乳白蚁（Indonesia (Sulawesi)）
+[*Coptotermes minutissimus* 最小乳白蚁]({{ site.base_url }}/species/coptotermes-minutissimus/)（Indonesia (Sulawesi)）
 
-Coptotermes monosetosus 单毛乳白蚁（China (Yunnan)）
+[*Coptotermes monosetosus* 单毛乳白蚁]({{ site.base_url }}/species/coptotermes-monosetosus/)（China (Yunnan)）
 
-Coptotermes nanus 侏儒乳白蚁（western Australia）
+[*Coptotermes nanus* 侏儒乳白蚁]({{ site.base_url }}/species/coptotermes-nanus/)（western Australia）
 
-Coptotermes ochraceus 黄赭乳白蚁（China (Guizhou)）
+[*Coptotermes ochraceus* 黄赭乳白蚁]({{ site.base_url }}/species/coptotermes-ochraceus/)（China (Guizhou)）
 
-Coptotermes oshimai 大岛乳白蚁（Indonesia (Sulawesi)）
+[*Coptotermes oshimai* 大岛乳白蚁]({{ site.base_url }}/species/coptotermes-oshimai/)（Indonesia (Sulawesi)）
 
-Coptotermes pamuae 帕穆亚乳白蚁（Solomon Islands, Papua New Guinea）
+[*Coptotermes pamuae* 帕穆亚乳白蚁]({{ site.base_url }}/species/coptotermes-pamuae/)（Solomon Islands, Papua New Guinea）
 
-Coptotermes paradoxus 奇异乳白蚁（Old World tropics）
+[*Coptotermes paradoxus* 奇异乳白蚁]({{ site.base_url }}/species/coptotermes-paradoxus/)（Old World tropics）
 
-Coptotermes peregrinator 陌生乳白蚁（Indonesia (Sulawesi)）
+[*Coptotermes peregrinator* 陌生乳白蚁]({{ site.base_url }}/species/coptotermes-peregrinator/)（Indonesia (Sulawesi)）
 
-Coptotermes premrasmii 普雷姆阿斯米乳白蚁（Thailand, Nicobar Islands (India)）
+[*Coptotermes premrasmii* 普雷姆阿斯米乳白蚁]({{ site.base_url }}/species/coptotermes-premrasmii/)（Thailand, Nicobar Islands (India)）
 
-Coptotermes remotus 远方乳白蚁（Papua New Guinea, Palau）
+[*Coptotermes remotus* 远方乳白蚁]({{ site.base_url }}/species/coptotermes-remotus/)（Papua New Guinea, Palau）
 
-Coptotermes sepangensis 赛庞乳白蚁（Malaysia, Indonesia）
+[*Coptotermes sepangensis* 赛庞乳白蚁]({{ site.base_url }}/species/coptotermes-sepangensis/)（Malaysia, Indonesia）
 
-Coptotermes shanghaiensis 上海乳白蚁（Shanghai, China）
+[*Coptotermes shanghaiensis* 上海乳白蚁]({{ site.base_url }}/species/coptotermes-shanghaiensis/)（Shanghai, China）
 
-Coptotermes silvaticus 森林乳白蚁（Old World tropics）
+[*Coptotermes silvaticus* 森林乳白蚁]({{ site.base_url }}/species/coptotermes-silvaticus/)（Old World tropics）
 
-Coptotermes sinabangensis 锡纳邦乳白蚁（Sumatra, Indonesia, Malaysia）
+[*Coptotermes sinabangensis* 锡纳邦乳白蚁]({{ site.base_url }}/species/coptotermes-sinabangensis/)（Sumatra, Indonesia, Malaysia）
 
-Coptotermes sjostedti 舍斯泰特乳白蚁（West Africa, Ivory Coast, Nigeria, Senegal, Angola, Burkina Faso, Cameroon, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Guinea, Mozambique, São Tomé and Príncipe, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda; introduced: Guadeloupe (France)）
+[*Coptotermes sjostedti* 舍斯泰特乳白蚁]({{ site.base_url }}/species/coptotermes-sjostedti/)（West Africa, Ivory Coast, Nigeria, Senegal, Angola, Burkina Faso, Cameroon, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Guinea, Mozambique, São Tomé and Príncipe, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda; introduced: Guadeloupe (France)）
 
-Coptotermes testaceus 厚壳乳白蚁（Neotropics, Central America to northern South America）
+[*Coptotermes testaceus* 厚壳乳白蚁]({{ site.base_url }}/species/coptotermes-testaceus/)（Neotropics, Central America to northern South America）
 
-Coptotermes travians 南亚乳白蚁（Sumatra, Indonesia, Malaysia, Singapore）
+[*Coptotermes travians* 南亚乳白蚁]({{ site.base_url }}/species/coptotermes-travians/)（Sumatra, Indonesia, Malaysia, Singapore）
 
-Coptotermes truncatus 伤残乳白蚁（Madagascar, Seychelles (introduced)）
+[*Coptotermes truncatus* 伤残乳白蚁]({{ site.base_url }}/species/coptotermes-truncatus/)（Madagascar, Seychelles (introduced)）
 
-Coptotermes varicapitatus 异头乳白蚁（China (Guangdong)）
+[*Coptotermes varicapitatus* 异头乳白蚁]({{ site.base_url }}/species/coptotermes-varicapitatus/)（China (Guangdong)）
 
 <h5 id="heterotermes">Heterotermes</h5>
 
-Heterotermes aethiopicus 埃塞俄比亚异白蚁（Ethiopia, Oman, Saudi Arabia, Sudan, United Arab Emirates, Yemen）
+[*Heterotermes aethiopicus* 埃塞俄比亚异白蚁]({{ site.base_url }}/species/heterotermes-aethiopicus/)（Ethiopia, Oman, Saudi Arabia, Sudan, United Arab Emirates, Yemen）
 
-Heterotermes assu 大异白蚁（Brazil）
+[*Heterotermes assu* 大异白蚁]({{ site.base_url }}/species/heterotermes-assu/)（Brazil）
 
-Heterotermes aureus 金黄异白蚁（southwestern North America, southwestern United States, Mexico）
+[*Heterotermes aureus* 金黄异白蚁]({{ site.base_url }}/species/heterotermes-aureus/)（southwestern North America, southwestern United States, Mexico）
 
-Heterotermes balwanti 巴尔万特异白蚁（India）
+[*Heterotermes balwanti* 巴尔万特异白蚁]({{ site.base_url }}/species/heterotermes-balwanti/)（India）
 
-Heterotermes brevicatena 短链异白蚁（Australia）
+[*Heterotermes brevicatena* 短链异白蚁]({{ site.base_url }}/species/heterotermes-brevicatena/)（Australia）
 
-Heterotermes cardini 卡丁异白蚁（Caribbean, Puerto Rico, Guadeloupe, Bahamas, Panama, United States）
+[*Heterotermes cardini* 卡丁异白蚁]({{ site.base_url }}/species/heterotermes-cardini/)（Caribbean, Puerto Rico, Guadeloupe, Bahamas, Panama, United States）
 
-Heterotermes ceylonicus 锡兰异白蚁（Sri Lanka）
+[*Heterotermes ceylonicus* 锡兰异白蚁]({{ site.base_url }}/species/heterotermes-ceylonicus/)（Sri Lanka）
 
-Heterotermes convexinotatus 凸背异白蚁（Caribbean, Puerto Rico, Antigua and Barbuda, Barbados, Mexico, South America, Brazil, Colombia, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Panama）
+[*Heterotermes convexinotatus* 凸背异白蚁]({{ site.base_url }}/species/heterotermes-convexinotatus/)（Caribbean, Puerto Rico, Antigua and Barbuda, Barbados, Mexico, South America, Brazil, Colombia, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Panama）
 
-Heterotermes crinitus 密毛异白蚁（South America, Colombia, French Guiana, Brazil）
+[*Heterotermes crinitus* 密毛异白蚁]({{ site.base_url }}/species/heterotermes-crinitus/)（South America, Colombia, French Guiana, Brazil）
 
-Heterotermes ferox 好斗异白蚁（Australia）
+[*Heterotermes ferox* 好斗异白蚁]({{ site.base_url }}/species/heterotermes-ferox/)（Australia）
 
-Heterotermes gertrudae 格特鲁德异白蚁（South Asia, India, Pakistan）
+[*Heterotermes gertrudae* 格特鲁德异白蚁]({{ site.base_url }}/species/heterotermes-gertrudae/)（South Asia, India, Pakistan）
 
-Heterotermes indicola 印度异白蚁（South Asia, Pakistan, India, Afghanistan, Iran）
+[*Heterotermes indicola* 印度异白蚁]({{ site.base_url }}/species/heterotermes-indicola/)（South Asia, Pakistan, India, Afghanistan, Iran）
 
-Heterotermes intermedius 中间异白蚁（Australia）
+[*Heterotermes intermedius* 中间异白蚁]({{ site.base_url }}/species/heterotermes-intermedius/)（Australia）
 
-Heterotermes lauralinearum 劳拉利纳异白蚁（Argentina, Bolivia, Paraguay）
+[*Heterotermes lauralinearum* 劳拉利纳异白蚁]({{ site.base_url }}/species/heterotermes-lauralinearum/)（Argentina, Bolivia, Paraguay）
 
-Heterotermes longicatena 长链异白蚁（Australia）
+[*Heterotermes longicatena* 长链异白蚁]({{ site.base_url }}/species/heterotermes-longicatena/)（Australia）
 
-Heterotermes longiceps 长头异白蚁（South America, Brazil, Bolivia）
+[*Heterotermes longiceps* 长头异白蚁]({{ site.base_url }}/species/heterotermes-longiceps/)（South America, Brazil, Bolivia）
 
-Heterotermes maculatus 斑点异白蚁（Mexico）
+[*Heterotermes maculatus* 斑点异白蚁]({{ site.base_url }}/species/heterotermes-maculatus/)（Mexico）
 
-Heterotermes malabaricus 马拉巴尔异白蚁（India）
+[*Heterotermes malabaricus* 马拉巴尔异白蚁]({{ site.base_url }}/species/heterotermes-malabaricus/)（India）
 
-Heterotermes occiduus 西部异白蚁（Australia）
+[*Heterotermes occiduus* 西部异白蚁]({{ site.base_url }}/species/heterotermes-occiduus/)（Australia）
 
-Heterotermes omanae 阿曼异白蚁（Oman）
+[*Heterotermes omanae* 阿曼异白蚁]({{ site.base_url }}/species/heterotermes-omanae/)（Oman）
 
-Heterotermes pamatatensis 帕玛塔塔异白蚁（Indonesia, Indonesia）
+[*Heterotermes pamatatensis* 帕玛塔塔异白蚁]({{ site.base_url }}/species/heterotermes-pamatatensis/)（Indonesia, Indonesia）
 
-Heterotermes paradoxus 奇异异白蚁（Australia, Indonesia, Papua New Guinea）
+[*Heterotermes paradoxus* 奇异异白蚁]({{ site.base_url }}/species/heterotermes-paradoxus/)（Australia, Indonesia, Papua New Guinea）
 
-Heterotermes perfidus 危险异白蚁（Saint Helena）
+[*Heterotermes perfidus* 危险异白蚁]({{ site.base_url }}/species/heterotermes-perfidus/)（Saint Helena）
 
-Heterotermes philippinensis 菲律宾异白蚁（Philippines, Madagascar, Mauritius）
+[*Heterotermes philippinensis* 菲律宾异白蚁]({{ site.base_url }}/species/heterotermes-philippinensis/)（Philippines, Madagascar, Mauritius）
 
-\*Heterotermes platycephalus 宽头异白蚁（Australia）
+\*[*Heterotermes platycephalus* 宽头异白蚁]({{ site.base_url }}/species/heterotermes-platycephalus/)（Australia）
 
-Heterotermes sulcatus 具沟异白蚁（South America, Brazil, Venezuela, Suriname）
+[*Heterotermes sulcatus* 具沟异白蚁]({{ site.base_url }}/species/heterotermes-sulcatus/)（South America, Brazil, Venezuela, Suriname）
 
-Heterotermes tenuior 细长异白蚁（Indonesia, Malaysia）
+[*Heterotermes tenuior* 细长异白蚁]({{ site.base_url }}/species/heterotermes-tenuior/)（Indonesia, Malaysia）
 
-Heterotermes tenuis 细瘦异白蚁（Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands）
+[*Heterotermes tenuis* 细瘦异白蚁]({{ site.base_url }}/species/heterotermes-tenuis/)（Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands）
 
-Heterotermes vagus 游荡异白蚁（Australia, Papua New Guinea）
+[*Heterotermes vagus* 游荡异白蚁]({{ site.base_url }}/species/heterotermes-vagus/)（Australia, Papua New Guinea）
 
-Heterotermes validus 健壮异白蚁（Australia）
+[*Heterotermes validus* 健壮异白蚁]({{ site.base_url }}/species/heterotermes-validus/)（Australia）
 
-Heterotermes wittmeri 威特默异白蚁（Saudi Arabia）
+[*Heterotermes wittmeri* 威特默异白蚁]({{ site.base_url }}/species/heterotermes-wittmeri/)（Saudi Arabia）
 
 <h5 id="reticulitermes">Reticulitermes</h5>
 
-Reticulitermes aculabialis 尖唇散白蚁（China）
+[*Reticulitermes aculabialis* 尖唇散白蚁]({{ site.base_url }}/species/reticulitermes-aculabialis/)（China）
 
-Reticulitermes aegeus 爱琴散白蚁（eastern Mediterranean, Croatia, Greece, Turkey, Cyprus）
+[*Reticulitermes aegeus* 爱琴散白蚁]({{ site.base_url }}/species/reticulitermes-aegeus/)（eastern Mediterranean, Croatia, Greece, Turkey, Cyprus）
 
-Reticulitermes affinis 肖若散白蚁（China）
+[*Reticulitermes affinis* 肖若散白蚁]({{ site.base_url }}/species/reticulitermes-affinis/)（China）
 
-Reticulitermes altus 高山散白蚁（China）
+[*Reticulitermes altus* 高山散白蚁]({{ site.base_url }}/species/reticulitermes-altus/)（China）
 
-Reticulitermes amamianus 奄美散白蚁（Japan）
+[*Reticulitermes amamianus* 奄美散白蚁]({{ site.base_url }}/species/reticulitermes-amamianus/)（Japan）
 
-Reticulitermes ampliceps 扩头散白蚁（China）
+[*Reticulitermes ampliceps* 扩头散白蚁]({{ site.base_url }}/species/reticulitermes-ampliceps/)（China）
 
-Reticulitermes ancyleus 钩颚散白蚁（China）
+[*Reticulitermes ancyleus* 钩颚散白蚁]({{ site.base_url }}/species/reticulitermes-ancyleus/)（China）
 
-Reticulitermes angustatus 狭胸散白蚁（China）
+[*Reticulitermes angustatus* 狭胸散白蚁]({{ site.base_url }}/species/reticulitermes-angustatus/)（China）
 
-Reticulitermes angusticephalus 窄头散白蚁（China）
+[*Reticulitermes angusticephalus* 窄头散白蚁]({{ site.base_url }}/species/reticulitermes-angusticephalus/)（China）
 
-Reticulitermes arenincola 沙栖散白蚁（United States）
+[*Reticulitermes arenincola* 沙栖散白蚁]({{ site.base_url }}/species/reticulitermes-arenincola/)（United States）
 
-Reticulitermes assamensis 突额散白蚁（India, Bhutan, China）
+[*Reticulitermes assamensis* 突额散白蚁]({{ site.base_url }}/species/reticulitermes-assamensis/)（India, Bhutan, China）
 
-Reticulitermes aurantius 橙黄散白蚁（China）
+[*Reticulitermes aurantius* 橙黄散白蚁]({{ site.base_url }}/species/reticulitermes-aurantius/)（China）
 
-Reticulitermes balkanensis 巴尔干散白蚁（Balkans, Greece etc., Albania, former Yugoslavia）
+[*Reticulitermes balkanensis* 巴尔干散白蚁]({{ site.base_url }}/species/reticulitermes-balkanensis/)（Balkans, Greece etc., Albania, former Yugoslavia）
 
-Reticulitermes banyulensis 巴尼于勒散白蚁（southwestern Europe, Spain, France）
+[*Reticulitermes banyulensis* 巴尼于勒散白蚁]({{ site.base_url }}/species/reticulitermes-banyulensis/)（southwestern Europe, Spain, France）
 
-Reticulitermes bicristatus 双瘤散白蚁（China）
+[*Reticulitermes bicristatus* 双瘤散白蚁]({{ site.base_url }}/species/reticulitermes-bicristatus/)（China）
 
-Reticulitermes bitumulus 双峰散白蚁（China）
+[*Reticulitermes bitumulus* 双峰散白蚁]({{ site.base_url }}/species/reticulitermes-bitumulus/)（China）
 
-Reticulitermes brachygnathus 短颚散白蚁（China）
+[*Reticulitermes brachygnathus* 短颚散白蚁]({{ site.base_url }}/species/reticulitermes-brachygnathus/)（China）
 
-Reticulitermes brevicurvatus 短弯颚散白蚁（China）
+[*Reticulitermes brevicurvatus* 短弯颚散白蚁]({{ site.base_url }}/species/reticulitermes-brevicurvatus/)（China）
 
-Reticulitermes cancrifemuris 蟹腿散白蚁（China）
+[*Reticulitermes cancrifemuris* 蟹腿散白蚁]({{ site.base_url }}/species/reticulitermes-cancrifemuris/)（China）
 
-Reticulitermes castanus 褐胸散白蚁（China）
+[*Reticulitermes castanus* 褐胸散白蚁]({{ site.base_url }}/species/reticulitermes-castanus/)（China）
 
-Reticulitermes chayuensis 察隅散白蚁（China (Tibet)）
+[*Reticulitermes chayuensis* 察隅散白蚁]({{ site.base_url }}/species/reticulitermes-chayuensis/)（China (Tibet)）
 
-Reticulitermes chinensis 黑胸散白蚁（China, India, Vietnam）
+[*Reticulitermes chinensis* 黑胸散白蚁]({{ site.base_url }}/species/reticulitermes-chinensis/)（China, India, Vietnam）
 
-Reticulitermes choui 周氏散白蚁（China）
+[*Reticulitermes choui* 周氏散白蚁]({{ site.base_url }}/species/reticulitermes-choui/)（China）
 
-Reticulitermes chryseus 金黄散白蚁（China）
+[*Reticulitermes chryseus* 金黄散白蚁]({{ site.base_url }}/species/reticulitermes-chryseus/)（China）
 
-Reticulitermes citrinus 柠黄散白蚁（China）
+[*Reticulitermes citrinus* 柠黄散白蚁]({{ site.base_url }}/species/reticulitermes-citrinus/)（China）
 
-Reticulitermes clypeatus 大唇散白蚁（Middle East, Israel, Turkey, Romania）
+[*Reticulitermes clypeatus* 大唇散白蚁]({{ site.base_url }}/species/reticulitermes-clypeatus/)（Middle East, Israel, Turkey, Romania）
 
-Reticulitermes coelceps 凹头散白蚁（China）
+[*Reticulitermes coelceps* 凹头散白蚁]({{ site.base_url }}/species/reticulitermes-coelceps/)（China）
 
-Reticulitermes conus 锥颚散白蚁（China）
+[*Reticulitermes conus* 锥颚散白蚁]({{ site.base_url }}/species/reticulitermes-conus/)（China）
 
-Reticulitermes croceus 深黄散白蚁（China）
+[*Reticulitermes croceus* 深黄散白蚁]({{ site.base_url }}/species/reticulitermes-croceus/)（China）
 
-Reticulitermes curticeps 短头散白蚁（China）
+[*Reticulitermes curticeps* 短头散白蚁]({{ site.base_url }}/species/reticulitermes-curticeps/)（China）
 
-Reticulitermes curvatus 弯颚散白蚁（China）
+[*Reticulitermes curvatus* 弯颚散白蚁]({{ site.base_url }}/species/reticulitermes-curvatus/)（China）
 
-Reticulitermes cymbidii 幽兰散白蚁（China）
+[*Reticulitermes cymbidii* 幽兰散白蚁]({{ site.base_url }}/species/reticulitermes-cymbidii/)（China）
 
-Reticulitermes dabieshanensis 大别山散白蚁（China）
+[*Reticulitermes dabieshanensis* 大别山散白蚁]({{ site.base_url }}/species/reticulitermes-dabieshanensis/)（China）
 
-Reticulitermes dantuensis 丹徒散白蚁（China）
+[*Reticulitermes dantuensis* 丹徒散白蚁]({{ site.base_url }}/species/reticulitermes-dantuensis/)（China）
 
-Reticulitermes dayongensis 大庸散白蚁（China）
+[*Reticulitermes dayongensis* 大庸散白蚁]({{ site.base_url }}/species/reticulitermes-dayongensis/)（China）
 
-Reticulitermes dinghuensis 鼎湖散白蚁（China）
+[*Reticulitermes dinghuensis* 鼎湖散白蚁]({{ site.base_url }}/species/reticulitermes-dinghuensis/)（China）
 
-Reticulitermes emei 峨嵋散白蚁（China）
+[*Reticulitermes emei* 峨嵋散白蚁]({{ site.base_url }}/species/reticulitermes-emei/)（China）
 
-Reticulitermes fengduensis 丰都散白蚁（China）
+[*Reticulitermes fengduensis* 丰都散白蚁]({{ site.base_url }}/species/reticulitermes-fengduensis/)（China）
 
-Reticulitermes flaviceps 黄胸散白蚁（southern China, Taiwan, Hong Kong, Japan, Vietnam）
+[*Reticulitermes flaviceps* 黄胸散白蚁]({{ site.base_url }}/species/reticulitermes-flaviceps/)（southern China, Taiwan, Hong Kong, Japan, Vietnam）
 
-\*Reticulitermes flavipes 北美散白蚁（eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay）
+\*[*Reticulitermes flavipes* 北美散白蚁]({{ site.base_url }}/species/reticulitermes-flavipes/)（eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay）
 
-Reticulitermes fukienensis 花胸散白蚁（China）
+[*Reticulitermes fukienensis* 花胸散白蚁]({{ site.base_url }}/species/reticulitermes-fukienensis/)（China）
 
-Reticulitermes fulvimarginalis 褐缘散白蚁（China）
+[*Reticulitermes fulvimarginalis* 褐缘散白蚁]({{ site.base_url }}/species/reticulitermes-fulvimarginalis/)（China）
 
-Reticulitermes ganga 恒湖散白蚁（India）
+[*Reticulitermes ganga* 恒湖散白蚁]({{ site.base_url }}/species/reticulitermes-ganga/)（India）
 
-Reticulitermes gaoshi 大囟散白蚁（China）
+[*Reticulitermes gaoshi* 大囟散白蚁]({{ site.base_url }}/species/reticulitermes-gaoshi/)（China）
 
-Reticulitermes gaoyaoensis 高要散白蚁（China）
+[*Reticulitermes gaoyaoensis* 高要散白蚁]({{ site.base_url }}/species/reticulitermes-gaoyaoensis/)（China）
 
-Reticulitermes grandis 大头散白蚁（China）
+[*Reticulitermes grandis* 大头散白蚁]({{ site.base_url }}/species/reticulitermes-grandis/)（China）
 
-Reticulitermes grassei 格拉塞散白蚁（southwestern Europe, Spain, Portugal, France, United Kingdom）
+[*Reticulitermes grassei* 格拉塞散白蚁]({{ site.base_url }}/species/reticulitermes-grassei/)（southwestern Europe, Spain, Portugal, France, United Kingdom）
 
-Reticulitermes guangzhouensis 广州散白蚁（China）
+[*Reticulitermes guangzhouensis* 广州散白蚁]({{ site.base_url }}/species/reticulitermes-guangzhouensis/)（China）
 
-Reticulitermes guilinensis 桂林散白蚁（China）
+[*Reticulitermes guilinensis* 桂林散白蚁]({{ site.base_url }}/species/reticulitermes-guilinensis/)（China）
 
-Reticulitermes guiyangensis 贵阳散白蚁（China）
+[*Reticulitermes guiyangensis* 贵阳散白蚁]({{ site.base_url }}/species/reticulitermes-guiyangensis/)（China）
 
-Reticulitermes guizhouensis 贵州散白蚁（China）
+[*Reticulitermes guizhouensis* 贵州散白蚁]({{ site.base_url }}/species/reticulitermes-guizhouensis/)（China）
 
-Reticulitermes gulinensis 古蔺散白蚁（China）
+[*Reticulitermes gulinensis* 古蔺散白蚁]({{ site.base_url }}/species/reticulitermes-gulinensis/)（China）
 
-Reticulitermes hageni 哈根散白蚁（southeastern United States）
+[*Reticulitermes hageni* 哈根散白蚁]({{ site.base_url }}/species/reticulitermes-hageni/)（southeastern United States）
 
-Reticulitermes hainanensis 海南散白蚁（China）
+[*Reticulitermes hainanensis* 海南散白蚁]({{ site.base_url }}/species/reticulitermes-hainanensis/)（China）
 
-Reticulitermes hesperus 西部散白蚁（western North America, western United States, southwestern Canada）
+[*Reticulitermes hesperus* 西部散白蚁]({{ site.base_url }}/species/reticulitermes-hesperus/)（western North America, western United States, southwestern Canada）
 
-Reticulitermes huangi 黄氏散白蚁（China）
+[*Reticulitermes huangi* 黄氏散白蚁]({{ site.base_url }}/species/reticulitermes-huangi/)（China）
 
-Reticulitermes huapingensis 花坪散白蚁（China）
+[*Reticulitermes huapingensis* 花坪散白蚁]({{ site.base_url }}/species/reticulitermes-huapingensis/)（China）
 
-Reticulitermes hubeiensis 湖北散白蚁（China）
+[*Reticulitermes hubeiensis* 湖北散白蚁]({{ site.base_url }}/species/reticulitermes-hubeiensis/)（China）
 
-Reticulitermes hunanensis 湖南散白蚁（China）
+[*Reticulitermes hunanensis* 湖南散白蚁]({{ site.base_url }}/species/reticulitermes-hunanensis/)（China）
 
-Reticulitermes hypsofrons 高额散白蚁（China）
+[*Reticulitermes hypsofrons* 高额散白蚁]({{ site.base_url }}/species/reticulitermes-hypsofrons/)（China）
 
-Reticulitermes jiangchengensis 江城散白蚁（China）
+[*Reticulitermes jiangchengensis* 江城散白蚁]({{ site.base_url }}/species/reticulitermes-jiangchengensis/)（China）
 
-Reticulitermes kanmonensis 关门散白蚁（Japan, Korean Peninsula, China, Taiwan, South Korea）
+[*Reticulitermes kanmonensis* 关门散白蚁]({{ site.base_url }}/species/reticulitermes-kanmonensis/)（Japan, Korean Peninsula, China, Taiwan, South Korea）
 
-Reticulitermes labralis 圆唇散白蚁（China）
+[*Reticulitermes labralis* 圆唇散白蚁]({{ site.base_url }}/species/reticulitermes-labralis/)（China）
 
-Reticulitermes largus 大型散白蚁（China）
+[*Reticulitermes largus* 大型散白蚁]({{ site.base_url }}/species/reticulitermes-largus/)（China）
 
-Reticulitermes latilabris 宽唇散白蚁（China）
+[*Reticulitermes latilabris* 宽唇散白蚁]({{ site.base_url }}/species/reticulitermes-latilabris/)（China）
 
-Reticulitermes leiboensis 雷波散白蚁（China）
+[*Reticulitermes leiboensis* 雷波散白蚁]({{ site.base_url }}/species/reticulitermes-leiboensis/)（China）
 
-Reticulitermes leigongshanensis 雷公山散白蚁（China）
+[*Reticulitermes leigongshanensis* 雷公山散白蚁]({{ site.base_url }}/species/reticulitermes-leigongshanensis/)（China）
 
-Reticulitermes leptogulus 细颏散白蚁（China）
+[*Reticulitermes leptogulus* 细颏散白蚁]({{ site.base_url }}/species/reticulitermes-leptogulus/)（China）
 
-Reticulitermes leptomandibularis 细颚散白蚁（East Asia, Taiwan, China）
+[*Reticulitermes leptomandibularis* 细颚散白蚁]({{ site.base_url }}/species/reticulitermes-leptomandibularis/)（East Asia, Taiwan, China）
 
-Reticulitermes levatoriceps 隆头散白蚁（China）
+[*Reticulitermes levatoriceps* 隆头散白蚁]({{ site.base_url }}/species/reticulitermes-levatoriceps/)（China）
 
-Reticulitermes lianchengensis 连城散白蚁（China）
+[*Reticulitermes lianchengensis* 连城散白蚁]({{ site.base_url }}/species/reticulitermes-lianchengensis/)（China）
 
-Reticulitermes lii 李氏散白蚁（China）
+[*Reticulitermes lii* 李氏散白蚁]({{ site.base_url }}/species/reticulitermes-lii/)（China）
 
-Reticulitermes lingulatus 舌唇散白蚁（China）
+[*Reticulitermes lingulatus* 舌唇散白蚁]({{ site.base_url }}/species/reticulitermes-lingulatus/)（China）
 
-Reticulitermes longicephalus 长头散白蚁（China）
+[*Reticulitermes longicephalus* 长头散白蚁]({{ site.base_url }}/species/reticulitermes-longicephalus/)（China）
 
-Reticulitermes longigulus 长颏散白蚁（China）
+[*Reticulitermes longigulus* 长颏散白蚁]({{ site.base_url }}/species/reticulitermes-longigulus/)（China）
 
-Reticulitermes longipennis 长翅散白蚁（China）
+[*Reticulitermes longipennis* 长翅散白蚁]({{ site.base_url }}/species/reticulitermes-longipennis/)（China）
 
-Reticulitermes lucifugus 暗黑散白蚁（Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia)）
+[*Reticulitermes lucifugus* 暗黑散白蚁]({{ site.base_url }}/species/reticulitermes-lucifugus/)（Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia)）
 
-corsicus 科西嘉亚种
+[*corsicus* 科西嘉亚种]({{ site.base_url }}/species/reticulitermes-lucifugus-corsicus/)
 
-lucifugus 指名亚种
+[*lucifugus* 指名亚种]({{ site.base_url }}/species/reticulitermes-lucifugus-lucifugus/)
 
-siculus 西西里亚种
+[*siculus* 西西里亚种]({{ site.base_url }}/species/reticulitermes-lucifugus-siculus/)
 
-Reticulitermes luofunicus 罗浮散白蚁（China）
+[*Reticulitermes luofunicus* 罗浮散白蚁]({{ site.base_url }}/species/reticulitermes-luofunicus/)（China）
 
-Reticulitermes magdalenae 马格达莱纳散白蚁（Vietnam）
+[*Reticulitermes magdalenae* 马格达莱纳散白蚁]({{ site.base_url }}/species/reticulitermes-magdalenae/)（Vietnam）
 
-Reticulitermes majiangensis 麻江散白蚁（China）
+[*Reticulitermes majiangensis* 麻江散白蚁]({{ site.base_url }}/species/reticulitermes-majiangensis/)（China）
 
-Reticulitermes malletei 马利特散白蚁（United States）
+[*Reticulitermes malletei* 马利特散白蚁]({{ site.base_url }}/species/reticulitermes-malletei/)（United States）
 
-Reticulitermes mangshanensis 莽山散白蚁（China）
+[*Reticulitermes mangshanensis* 莽山散白蚁]({{ site.base_url }}/species/reticulitermes-mangshanensis/)（China）
 
-Reticulitermes maopingensis 毛坪散白蚁（China）
+[*Reticulitermes maopingensis* 毛坪散白蚁]({{ site.base_url }}/species/reticulitermes-maopingensis/)（China）
 
-Reticulitermes microcephalus 小头散白蚁（China）
+[*Reticulitermes microcephalus* 小头散白蚁]({{ site.base_url }}/species/reticulitermes-microcephalus/)（China）
 
-Reticulitermes minutus 侏儒散白蚁（China）
+[*Reticulitermes minutus* 侏儒散白蚁]({{ site.base_url }}/species/reticulitermes-minutus/)（China）
 
-Reticulitermes mirogulus 奇颏散白蚁（China）
+[*Reticulitermes mirogulus* 奇颏散白蚁]({{ site.base_url }}/species/reticulitermes-mirogulus/)（China）
 
-Reticulitermes mirus 陌宽散白蚁（China）
+[*Reticulitermes mirus* 陌宽散白蚁]({{ site.base_url }}/species/reticulitermes-mirus/)（China）
 
-Reticulitermes miyatakei 宫武散白蚁（Japan）
+[*Reticulitermes miyatakei* 宫武散白蚁]({{ site.base_url }}/species/reticulitermes-miyatakei/)（Japan）
 
-Reticulitermes nanjiangensis 南江散白蚁（China）
+[*Reticulitermes nanjiangensis* 南江散白蚁]({{ site.base_url }}/species/reticulitermes-nanjiangensis/)（China）
 
-Reticulitermes nelsonae 纳尔逊散白蚁（United States）
+[*Reticulitermes nelsonae* 纳尔逊散白蚁]({{ site.base_url }}/species/reticulitermes-nelsonae/)（United States）
 
-Reticulitermes neochinensis 新中华散白蚁（China）
+[*Reticulitermes neochinensis* 新中华散白蚁]({{ site.base_url }}/species/reticulitermes-neochinensis/)（China）
 
-Reticulitermes okinawanus 冲绳散白蚁（Japan）
+[*Reticulitermes okinawanus* 冲绳散白蚁]({{ site.base_url }}/species/reticulitermes-okinawanus/)（Japan）
 
-Reticulitermes oocephalus 蛋头散白蚁（China）
+[*Reticulitermes oocephalus* 蛋头散白蚁]({{ site.base_url }}/species/reticulitermes-oocephalus/)（China）
 
-Reticulitermes oreophilus 喜山散白蚁（China）
+[*Reticulitermes oreophilus* 喜山散白蚁]({{ site.base_url }}/species/reticulitermes-oreophilus/)（China）
 
-Reticulitermes ovatilabrum 卵唇散白蚁（China）
+[*Reticulitermes ovatilabrum* 卵唇散白蚁]({{ site.base_url }}/species/reticulitermes-ovatilabrum/)（China）
 
-Reticulitermes paralucifugus 似暗散白蚁（China）
+[*Reticulitermes paralucifugus* 似暗散白蚁]({{ site.base_url }}/species/reticulitermes-paralucifugus/)（China）
 
-Reticulitermes parvus 小散白蚁（China）
+[*Reticulitermes parvus* 小散白蚁]({{ site.base_url }}/species/reticulitermes-parvus/)（China）
 
-Reticulitermes perangustus 狭颏散白蚁（China）
+[*Reticulitermes perangustus* 狭颏散白蚁]({{ site.base_url }}/species/reticulitermes-perangustus/)（China）
 
-Reticulitermes periflaviceps 近黄胸散白蚁（China）
+[*Reticulitermes periflaviceps* 近黄胸散白蚁]({{ site.base_url }}/species/reticulitermes-periflaviceps/)（China）
 
-Reticulitermes perilabralis 近圆唇散白蚁（China）
+[*Reticulitermes perilabralis* 近圆唇散白蚁]({{ site.base_url }}/species/reticulitermes-perilabralis/)（China）
 
-Reticulitermes perilucifugus 近暗散白蚁（China）
+[*Reticulitermes perilucifugus* 近暗散白蚁]({{ site.base_url }}/species/reticulitermes-perilucifugus/)（China）
 
-Reticulitermes pingjiangensis 平江散白蚁（China）
+[*Reticulitermes pingjiangensis* 平江散白蚁]({{ site.base_url }}/species/reticulitermes-pingjiangensis/)（China）
 
-Reticulitermes planifrons 平额散白蚁（China）
+[*Reticulitermes planifrons* 平额散白蚁]({{ site.base_url }}/species/reticulitermes-planifrons/)（China）
 
-Reticulitermes planimentus 平颏散白蚁（China）
+[*Reticulitermes planimentus* 平颏散白蚁]({{ site.base_url }}/species/reticulitermes-planimentus/)（China）
 
-Reticulitermes pseudaculabialis 拟尖唇散白蚁（China）
+[*Reticulitermes pseudaculabialis* 拟尖唇散白蚁]({{ site.base_url }}/species/reticulitermes-pseudaculabialis/)（China）
 
-Reticulitermes qingdaoensis 青岛散白蚁（China）
+[*Reticulitermes qingdaoensis* 青岛散白蚁]({{ site.base_url }}/species/reticulitermes-qingdaoensis/)（China）
 
-Reticulitermes qingjiangensis 清江散白蚁（China）
+[*Reticulitermes qingjiangensis* 清江散白蚁]({{ site.base_url }}/species/reticulitermes-qingjiangensis/)（China）
 
-Reticulitermes rectis 直缘散白蚁（China）
+[*Reticulitermes rectis* 直缘散白蚁]({{ site.base_url }}/species/reticulitermes-rectis/)（China）
 
-Reticulitermes rusti 鲁斯特散白蚁（southern California, United States）
+[*Reticulitermes rusti* 鲁斯特散白蚁]({{ site.base_url }}/species/reticulitermes-rusti/)（southern California, United States）
 
-Reticulitermes saraswati 萨拉斯瓦特散白蚁（India）
+[*Reticulitermes saraswati* 萨拉斯瓦特散白蚁]({{ site.base_url }}/species/reticulitermes-saraswati/)（India）
 
-Reticulitermes setosus 刚毛散白蚁（China）
+[*Reticulitermes setosus* 刚毛散白蚁]({{ site.base_url }}/species/reticulitermes-setosus/)（China）
 
-Reticulitermes solidimandibulas 粗颚散白蚁（China）
+[*Reticulitermes solidimandibulas* 粗颚散白蚁]({{ site.base_url }}/species/reticulitermes-solidimandibulas/)（China）
 
-Reticulitermes speratus 栖北散白蚁（Japan, Korean Peninsula, northeastern China, Taiwan, Russia, United States）
+[*Reticulitermes speratus* 栖北散白蚁]({{ site.base_url }}/species/reticulitermes-speratus/)（Japan, Korean Peninsula, northeastern China, Taiwan, Russia, United States）
 
-kyushuensis 九州亚种
+[*kyushuensis* 九州亚种]({{ site.base_url }}/species/reticulitermes-speratus-kyushuensis/)
 
-leptolabralis 细唇亚种
+[*leptolabralis* 细唇亚种]({{ site.base_url }}/species/reticulitermes-speratus-leptolabralis/)
 
-speratus 指名亚种
+[*speratus* 指名亚种]({{ site.base_url }}/species/reticulitermes-speratus-speratus/)
 
-Reticulitermes subligulosus 近舌唇散白蚁（China）
+[*Reticulitermes subligulosus* 近舌唇散白蚁]({{ site.base_url }}/species/reticulitermes-subligulosus/)（China）
 
-Reticulitermes sublongicapitatus 似长头散白蚁（China）
+[*Reticulitermes sublongicapitatus* 似长头散白蚁]({{ site.base_url }}/species/reticulitermes-sublongicapitatus/)（China）
 
-Reticulitermes sylvestris 林海散白蚁（China）
+[*Reticulitermes sylvestris* 林海散白蚁]({{ site.base_url }}/species/reticulitermes-sylvestris/)（China）
 
-Reticulitermes testudineus 龟唇散白蚁（China）
+[*Reticulitermes testudineus* 龟唇散白蚁]({{ site.base_url }}/species/reticulitermes-testudineus/)（China）
 
-Reticulitermes tianpingshanensis 天平山散白蚁（China）
+[*Reticulitermes tianpingshanensis* 天平山散白蚁]({{ site.base_url }}/species/reticulitermes-tianpingshanensis/)（China）
 
-Reticulitermes tibetanus 西藏散白蚁（China (Tibet)）
+[*Reticulitermes tibetanus* 西藏散白蚁]({{ site.base_url }}/species/reticulitermes-tibetanus/)（China (Tibet)）
 
-Reticulitermes tibialis 黑胫散白蚁（western North America, western United States, northern Mexico）
+[*Reticulitermes tibialis* 黑胫散白蚁]({{ site.base_url }}/species/reticulitermes-tibialis/)（western North America, western United States, northern Mexico）
 
-Reticulitermes tirapi 特拉普散白蚁（India）
+[*Reticulitermes tirapi* 特拉普散白蚁]({{ site.base_url }}/species/reticulitermes-tirapi/)（India）
 
-Reticulitermes translucens 端明散白蚁（China）
+[*Reticulitermes translucens* 端明散白蚁]({{ site.base_url }}/species/reticulitermes-translucens/)（China）
 
-Reticulitermes trichocephalus 毛头散白蚁（China）
+[*Reticulitermes trichocephalus* 毛头散白蚁]({{ site.base_url }}/species/reticulitermes-trichocephalus/)（China）
 
-Reticulitermes tricholabralis 毛唇散白蚁（China）
+[*Reticulitermes tricholabralis* 毛唇散白蚁]({{ site.base_url }}/species/reticulitermes-tricholabralis/)（China）
 
-Reticulitermes trichothorax 毛胸散白蚁（China）
+[*Reticulitermes trichothorax* 毛胸散白蚁]({{ site.base_url }}/species/reticulitermes-trichothorax/)（China）
 
-Reticulitermes tricolorus 三色散白蚁（China）
+[*Reticulitermes tricolorus* 三色散白蚁]({{ site.base_url }}/species/reticulitermes-tricolorus/)（China）
 
-Reticulitermes urbis 城市散白蚁（Europe, Croatia, Greece, Italy, France）
+[*Reticulitermes urbis* 城市散白蚁]({{ site.base_url }}/species/reticulitermes-urbis/)（Europe, Croatia, Greece, Italy, France）
 
-Reticulitermes virginicus 弗吉尼亚散白蚁（eastern United States）
+[*Reticulitermes virginicus* 弗吉尼亚散白蚁]({{ site.base_url }}/species/reticulitermes-virginicus/)（eastern United States）
 
-Reticulitermes wugangensis 武冈散白蚁（China）
+[*Reticulitermes wugangensis* 武冈散白蚁]({{ site.base_url }}/species/reticulitermes-wugangensis/)（China）
 
-Reticulitermes wugongensis 武宫散白蚁（China）
+[*Reticulitermes wugongensis* 武宫散白蚁]({{ site.base_url }}/species/reticulitermes-wugongensis/)（China）
 
-Reticulitermes wuyishanensis 武夷山散白蚁（China）
+[*Reticulitermes wuyishanensis* 武夷山散白蚁]({{ site.base_url }}/species/reticulitermes-wuyishanensis/)（China）
 
-Reticulitermes xingshanensis 兴山散白蚁（China）
+[*Reticulitermes xingshanensis* 兴山散白蚁]({{ site.base_url }}/species/reticulitermes-xingshanensis/)（China）
 
-Reticulitermes xingyiensis 兴义散白蚁（China）
+[*Reticulitermes xingyiensis* 兴义散白蚁]({{ site.base_url }}/species/reticulitermes-xingyiensis/)（China）
 
-Reticulitermes yaeyamanus 八重山散白蚁（Japan, China）
+[*Reticulitermes yaeyamanus* 八重山散白蚁]({{ site.base_url }}/species/reticulitermes-yaeyamanus/)（Japan, China）
 
-Reticulitermes yinae 尹氏散白蚁（China）
+[*Reticulitermes yinae* 尹氏散白蚁]({{ site.base_url }}/species/reticulitermes-yinae/)（China）
 
-Reticulitermes yingdeensis 英德散白蚁（China）
+[*Reticulitermes yingdeensis* 英德散白蚁]({{ site.base_url }}/species/reticulitermes-yingdeensis/)（China）
 
-Reticulitermes yizhangensis 宜章散白蚁（China）
+[*Reticulitermes yizhangensis* 宜章散白蚁]({{ site.base_url }}/species/reticulitermes-yizhangensis/)（China）
 
-Reticulitermes yongdingensis 永定散白蚁（China）
+[*Reticulitermes yongdingensis* 永定散白蚁]({{ site.base_url }}/species/reticulitermes-yongdingensis/)（China）
 
-Reticulitermes yunsiensis 云寺散白蚁（China）
+[*Reticulitermes yunsiensis* 云寺散白蚁]({{ site.base_url }}/species/reticulitermes-yunsiensis/)（China）
 
-Reticulitermes zhaoi 赵氏散白蚁（China）
+[*Reticulitermes zhaoi* 赵氏散白蚁]({{ site.base_url }}/species/reticulitermes-zhaoi/)（China）
 
 <h3 id="termitidae">TERMITIDAE</h3>
 
@@ -2366,427 +2366,427 @@ Globitermes sulphureus 黄球白蚁
 
 <h5 id="ahamitermes">Ahamitermes</h5>
 
-Ahamitermes hillii 希尔无钩白蚁（Australia）
+[*Ahamitermes hillii* 希尔无钩白蚁]({{ site.base_url }}/species/ahamitermes-hillii/)（Australia）
 
-Ahamitermes inclusus 栖垄无钩白蚁（Australia）
+[*Ahamitermes inclusus* 栖垄无钩白蚁]({{ site.base_url }}/species/ahamitermes-inclusus/)（Australia）
 
-\*Ahamitermes nidicola 栖巢无钩白蚁（Australia）
+\*[*Ahamitermes nidicola* 栖巢无钩白蚁]({{ site.base_url }}/species/ahamitermes-nidicola/)（Australia）
 
 <h5 id="amitermes">Amitermes</h5>
 
-Amitermes abruptus 陡额弓白蚁（Australia）
+[*Amitermes abruptus* 陡额弓白蚁]({{ site.base_url }}/species/amitermes-abruptus/)（Australia）
 
-Amitermes accinctus 锋颚弓白蚁（Australia）
+[*Amitermes accinctus* 锋颚弓白蚁]({{ site.base_url }}/species/amitermes-accinctus/)（Australia）
 
-Amitermes acinacifer 短刀弓白蚁（Ethiopia, Kenya）
+[*Amitermes acinacifer* 短刀弓白蚁]({{ site.base_url }}/species/amitermes-acinacifer/)（Ethiopia, Kenya）
 
-Amitermes aduncus 钩颚弓白蚁（Australia）
+[*Amitermes aduncus* 钩颚弓白蚁]({{ site.base_url }}/species/amitermes-aduncus/)（Australia）
 
-Amitermes agrilus 野外弓白蚁（Australia）
+[*Amitermes agrilus* 野外弓白蚁]({{ site.base_url }}/species/amitermes-agrilus/)（Australia）
 
-Amitermes amicki 阿米克弓白蚁（Aruba, Colombia, Venezuela）
+[*Amitermes amicki* 阿米克弓白蚁]({{ site.base_url }}/species/amitermes-amicki/)（Aruba, Colombia, Venezuela）
 
-\*Amitermes amifer 弓颚弓白蚁（Brazil, mainland Southeast Asia, Argentina, Bolivia, Paraguay）
+\*[*Amitermes amifer* 弓颚弓白蚁]({{ site.base_url }}/species/amitermes-amifer/)（Brazil, mainland Southeast Asia, Argentina, Bolivia, Paraguay）
 
-Amitermes aporema 阿波雷马弓白蚁（Brazil）
+[*Amitermes aporema* 阿波雷马弓白蚁]({{ site.base_url }}/species/amitermes-aporema/)（Brazil）
 
-Amitermes arboreus 树栖弓白蚁（Australia, Papua New Guinea）
+[*Amitermes arboreus* 树栖弓白蚁]({{ site.base_url }}/species/amitermes-arboreus/)（Australia, Papua New Guinea）
 
-Amitermes arcuatus 弧颚弓白蚁（Australia）
+[*Amitermes arcuatus* 弧颚弓白蚁]({{ site.base_url }}/species/amitermes-arcuatus/)（Australia）
 
-Amitermes baluchistanicus 俾路支弓白蚁（Pakistan, Iran）
+[*Amitermes baluchistanicus* 俾路支弓白蚁]({{ site.base_url }}/species/amitermes-baluchistanicus/)（Pakistan, Iran）
 
-Amitermes bandeirai 班代拉弓白蚁（Brazil）
+[*Amitermes bandeirai* 班代拉弓白蚁]({{ site.base_url }}/species/amitermes-bandeirai/)（Brazil）
 
-Amitermes basidens 基齿弓白蚁（Togo）
+[*Amitermes basidens* 基齿弓白蚁]({{ site.base_url }}/species/amitermes-basidens/)（Togo）
 
-Amitermes beaumonti 博蒙特弓白蚁（Brazil, Guiana Shield, Amazon region, Central America and Caribbean, Mexico）
+[*Amitermes beaumonti* 博蒙特弓白蚁]({{ site.base_url }}/species/amitermes-beaumonti/)（Brazil, Guiana Shield, Amazon region, Central America and Caribbean, Mexico）
 
-Amitermes belli 贝尔弓白蚁（South Asia, Iran）
+[*Amitermes belli* 贝尔弓白蚁]({{ site.base_url }}/species/amitermes-belli/)（South Asia, Iran）
 
-Amitermes boreus 北方弓白蚁（Australia）
+[*Amitermes boreus* 北方弓白蚁]({{ site.base_url }}/species/amitermes-boreus/)（Australia）
 
-Amitermes braunsi 布劳恩斯弓白蚁（South Africa）
+[*Amitermes braunsi* 布劳恩斯弓白蚁]({{ site.base_url }}/species/amitermes-braunsi/)（South Africa）
 
-Amitermes calabyi 卡拉比弓白蚁（Australia）
+[*Amitermes calabyi* 卡拉比弓白蚁]({{ site.base_url }}/species/amitermes-calabyi/)（Australia）
 
-Amitermes californicus 加州弓白蚁（United States, Mexico）
+[*Amitermes californicus* 加州弓白蚁]({{ site.base_url }}/species/amitermes-californicus/)（United States, Mexico）
 
-Amitermes capito 大头弓白蚁（Australia）
+[*Amitermes capito* 大头弓白蚁]({{ site.base_url }}/species/amitermes-capito/)（Australia）
 
-Amitermes coachellae 科切拉弓白蚁（United States）
+[*Amitermes coachellae* 科切拉弓白蚁]({{ site.base_url }}/species/amitermes-coachellae/)（United States）
 
-Amitermes colonus 小山弓白蚁（Australia）
+[*Amitermes colonus* 小山弓白蚁]({{ site.base_url }}/species/amitermes-colonus/)（Australia）
 
-Amitermes conformis 相似弓白蚁（Australia）
+[*Amitermes conformis* 相似弓白蚁]({{ site.base_url }}/species/amitermes-conformis/)（Australia）
 
-Amitermes corpulentus 肥胖弓白蚁（Iraq, Iran）
+[*Amitermes corpulentus* 肥胖弓白蚁]({{ site.base_url }}/species/amitermes-corpulentus/)（Iraq, Iran）
 
-Amitermes cryptodon 隐齿弓白蚁（Central America and Caribbean, Mexico）
+[*Amitermes cryptodon* 隐齿弓白蚁]({{ site.base_url }}/species/amitermes-cryptodon/)（Central America and Caribbean, Mexico）
 
-Amitermes darwini 达尔文弓白蚁（Australia）
+[*Amitermes darwini* 达尔文弓白蚁]({{ site.base_url }}/species/amitermes-darwini/)（Australia）
 
-Amitermes dentatus 具齿弓白蚁（insular Southeast Asia, China, Thailand）
+[*Amitermes dentatus* 具齿弓白蚁]({{ site.base_url }}/species/amitermes-dentatus/)（insular Southeast Asia, China, Thailand）
 
-Amitermes dentosus 多齿弓白蚁（Australia）
+[*Amitermes dentosus* 多齿弓白蚁]({{ site.base_url }}/species/amitermes-dentosus/)（Australia）
 
-Amitermes deplanatus 变平弓白蚁（Australia）
+[*Amitermes deplanatus* 变平弓白蚁]({{ site.base_url }}/species/amitermes-deplanatus/)（Australia）
 
-Amitermes desertorum 遗弃弓白蚁（Algeria, Egypt, Libya, Tunisia）
+[*Amitermes desertorum* 遗弃弓白蚁]({{ site.base_url }}/species/amitermes-desertorum/)（Algeria, Egypt, Libya, Tunisia）
 
-Amitermes emersoni 埃默森弓白蚁（Mexico, United States）
+[*Amitermes emersoni* 埃默森弓白蚁]({{ site.base_url }}/species/amitermes-emersoni/)（Mexico, United States）
 
-Amitermes ensifer 剑颚弓白蚁（Mexico）
+[*Amitermes ensifer* 剑颚弓白蚁]({{ site.base_url }}/species/amitermes-ensifer/)（Mexico）
 
-Amitermes eucalypti 尤卡尔普特弓白蚁（Australia）
+[*Amitermes eucalypti* 尤卡尔普特弓白蚁]({{ site.base_url }}/species/amitermes-eucalypti/)（Australia）
 
-Amitermes evuncifer 完胜弓白蚁（West Africa, Central Africa, East Africa）
+[*Amitermes evuncifer* 完胜弓白蚁]({{ site.base_url }}/species/amitermes-evuncifer/)（West Africa, Central Africa, East Africa）
 
-Amitermes excellens 优秀弓白蚁（Brazil, Guiana Shield, Venezuela）
+[*Amitermes excellens* 优秀弓白蚁]({{ site.base_url }}/species/amitermes-excellens/)（Brazil, Guiana Shield, Venezuela）
 
-Amitermes exilis 纤细弓白蚁（Australia）
+[*Amitermes exilis* 纤细弓白蚁]({{ site.base_url }}/species/amitermes-exilis/)（Australia）
 
-Amitermes falcatus 镰颚弓白蚁（Australia）
+[*Amitermes falcatus* 镰颚弓白蚁]({{ site.base_url }}/species/amitermes-falcatus/)（Australia）
 
-Amitermes firmus 坚颚弓白蚁（Australia）
+[*Amitermes firmus* 坚颚弓白蚁]({{ site.base_url }}/species/amitermes-firmus/)（Australia）
 
-Amitermes foreli 福雷尔弓白蚁（Amazon region, Central America and Caribbean, Colombia, Venezuela）
+[*Amitermes foreli* 福雷尔弓白蚁]({{ site.base_url }}/species/amitermes-foreli/)（Amazon region, Central America and Caribbean, Colombia, Venezuela）
 
-Amitermes gallagheri 加拉格尔弓白蚁（Oman, Saudi Arabia, Yemen）
+[*Amitermes gallagheri* 加拉格尔弓白蚁]({{ site.base_url }}/species/amitermes-gallagheri/)（Oman, Saudi Arabia, Yemen）
 
-Amitermes germanus 芽弓白蚁（Australia）
+[*Amitermes germanus* 芽弓白蚁]({{ site.base_url }}/species/amitermes-germanus/)（Australia）
 
-Amitermes gestroanus 客栖弓白蚁（Ethiopia）
+[*Amitermes gestroanus* 客栖弓白蚁]({{ site.base_url }}/species/amitermes-gestroanus/)（Ethiopia）
 
-Amitermes gracilis 细瘦弓白蚁（Australia）
+[*Amitermes gracilis* 细瘦弓白蚁]({{ site.base_url }}/species/amitermes-gracilis/)（Australia）
 
-Amitermes guineensis 几内亚弓白蚁（West Africa）
+[*Amitermes guineensis* 几内亚弓白蚁]({{ site.base_url }}/species/amitermes-guineensis/)（West Africa）
 
-Amitermes hartmeyeri 哈特迈耶弓白蚁（Australia）
+[*Amitermes hartmeyeri* 哈特迈耶弓白蚁]({{ site.base_url }}/species/amitermes-hartmeyeri/)（Australia）
 
-Amitermes hastatus 长矛弓白蚁（southern Africa, Tanzania）
+[*Amitermes hastatus* 长矛弓白蚁]({{ site.base_url }}/species/amitermes-hastatus/)（southern Africa, Tanzania）
 
-Amitermes herbertensis 赫伯特弓白蚁（Australia）
+[*Amitermes herbertensis* 赫伯特弓白蚁]({{ site.base_url }}/species/amitermes-herbertensis/)（Australia）
 
-Amitermes heteraspis 火罐弓白蚁（Eritrea, Ethiopia）
+[*Amitermes heteraspis* 火罐弓白蚁]({{ site.base_url }}/species/amitermes-heteraspis/)（Eritrea, Ethiopia）
 
-Amitermes heterognathus 异颚弓白蚁（Australia）
+[*Amitermes heterognathus* 异颚弓白蚁]({{ site.base_url }}/species/amitermes-heterognathus/)（Australia）
 
-Amitermes importunus 粗鲁弓白蚁（Malawi, Zambia, Zimbabwe）
+[*Amitermes importunus* 粗鲁弓白蚁]({{ site.base_url }}/species/amitermes-importunus/)（Malawi, Zambia, Zimbabwe）
 
-Amitermes innoxius 无害弓白蚁（Australia）
+[*Amitermes innoxius* 无害弓白蚁]({{ site.base_url }}/species/amitermes-innoxius/)（Australia）
 
-Amitermes inops 无助弓白蚁（Australia）
+[*Amitermes inops* 无助弓白蚁]({{ site.base_url }}/species/amitermes-inops/)（Australia）
 
-Amitermes insolitus 异常弓白蚁（Australia）
+[*Amitermes insolitus* 异常弓白蚁]({{ site.base_url }}/species/amitermes-insolitus/)（Australia）
 
-Amitermes inspissatus 粗颚弓白蚁（Australia）
+[*Amitermes inspissatus* 粗颚弓白蚁]({{ site.base_url }}/species/amitermes-inspissatus/)（Australia）
 
-Amitermes iranicus 伊朗弓白蚁（Iran）
+[*Amitermes iranicus* 伊朗弓白蚁]({{ site.base_url }}/species/amitermes-iranicus/)（Iran）
 
-Amitermes kavarattiensis 卡瓦拉蒂弓白蚁（India）
+[*Amitermes kavarattiensis* 卡瓦拉蒂弓白蚁]({{ site.base_url }}/species/amitermes-kavarattiensis/)（India）
 
-Amitermes kharrazii 哈尔拉兹弓白蚁（Iran）
+[*Amitermes kharrazii* 哈尔拉兹弓白蚁]({{ site.base_url }}/species/amitermes-kharrazii/)（Iran）
 
-Amitermes lanceolatus 具矛弓白蚁（Australia）
+[*Amitermes lanceolatus* 具矛弓白蚁]({{ site.base_url }}/species/amitermes-lanceolatus/)（Australia）
 
-Amitermes latidens 宽齿弓白蚁（Australia）
+[*Amitermes latidens* 宽齿弓白蚁]({{ site.base_url }}/species/amitermes-latidens/)（Australia）
 
-Amitermes lativentris 宽腹弓白蚁（Australia）
+[*Amitermes lativentris* 宽腹弓白蚁]({{ site.base_url }}/species/amitermes-lativentris/)（Australia）
 
-Amitermes laurensis 劳拉弓白蚁（Australia, Papua New Guinea）
+[*Amitermes laurensis* 劳拉弓白蚁]({{ site.base_url }}/species/amitermes-laurensis/)（Australia, Papua New Guinea）
 
-Amitermes leptognathus 细颚弓白蚁（Australia）
+[*Amitermes leptognathus* 细颚弓白蚁]({{ site.base_url }}/species/amitermes-leptognathus/)（Australia）
 
-Amitermes lilloi 利略弓白蚁（southeastern South America）
+[*Amitermes lilloi* 利略弓白蚁]({{ site.base_url }}/species/amitermes-lilloi/)（southeastern South America）
 
-Amitermes loennbergianus 伦伯格弓白蚁（Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen）
+[*Amitermes loennbergianus* 伦伯格弓白蚁]({{ site.base_url }}/species/amitermes-loennbergianus/)（Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen）
 
-Amitermes lunae 卢纳弓白蚁（Peru, Ecuador）
+[*Amitermes lunae* 卢纳弓白蚁]({{ site.base_url }}/species/amitermes-lunae/)（Peru, Ecuador）
 
-Amitermes meridionalis 南方弓白蚁（Australia）
+[*Amitermes meridionalis* 南方弓白蚁]({{ site.base_url }}/species/amitermes-meridionalis/)（Australia）
 
-Amitermes messinae 墨西拿弓白蚁（South Africa, Egypt, Ethiopia, Iran, Kenya, Malawi, Saudi Arabia, Sudan, Tanzania, Yemen, Zambia）
+[*Amitermes messinae* 墨西拿弓白蚁]({{ site.base_url }}/species/amitermes-messinae/)（South Africa, Egypt, Ethiopia, Iran, Kenya, Malawi, Saudi Arabia, Sudan, Tanzania, Yemen, Zambia）
 
-Amitermes minimus 最小弓白蚁（United States）
+[*Amitermes minimus* 最小弓白蚁]({{ site.base_url }}/species/amitermes-minimus/)（United States）
 
-Amitermes mitchelli 米切尔弓白蚁（Zimbabwe）
+[*Amitermes mitchelli* 米切尔弓白蚁]({{ site.base_url }}/species/amitermes-mitchelli/)（Zimbabwe）
 
-Amitermes modicus 中等弓白蚁（Australia）
+[*Amitermes modicus* 中等弓白蚁]({{ site.base_url }}/species/amitermes-modicus/)（Australia）
 
-Amitermes neogermanus 新芽弓白蚁（Australia）
+[*Amitermes neogermanus* 新芽弓白蚁]({{ site.base_url }}/species/amitermes-neogermanus/)（Australia）
 
-Amitermes obeuntis 相会弓白蚁（Australia）
+[*Amitermes obeuntis* 相会弓白蚁]({{ site.base_url }}/species/amitermes-obeuntis/)（Australia）
 
-Amitermes obtusidens 钝齿弓白蚁（Australia）
+[*Amitermes obtusidens* 钝齿弓白蚁]({{ site.base_url }}/species/amitermes-obtusidens/)（Australia）
 
-Amitermes pallidiceps 灰头弓白蚁（Australia）
+[*Amitermes pallidiceps* 灰头弓白蚁]({{ site.base_url }}/species/amitermes-pallidiceps/)（Australia）
 
-Amitermes pallidus 苍白弓白蚁（United States）
+[*Amitermes pallidus* 苍白弓白蚁]({{ site.base_url }}/species/amitermes-pallidus/)（United States）
 
-Amitermes pandus 弯曲弓白蚁（Australia）
+[*Amitermes pandus* 弯曲弓白蚁]({{ site.base_url }}/species/amitermes-pandus/)（Australia）
 
-Amitermes papuanus 巴布亚弓白蚁（Papua New Guinea）
+[*Amitermes papuanus* 巴布亚弓白蚁]({{ site.base_url }}/species/amitermes-papuanus/)（Papua New Guinea）
 
-Amitermes paradentatus 似具齿弓白蚁（Pakistan）
+[*Amitermes paradentatus* 似具齿弓白蚁]({{ site.base_url }}/species/amitermes-paradentatus/)（Pakistan）
 
-Amitermes parallelus 平行弓白蚁（Australia）
+[*Amitermes parallelus* 平行弓白蚁]({{ site.base_url }}/species/amitermes-parallelus/)（Australia）
 
-Amitermes paravilis 似讨厌弓白蚁（Iran）
+[*Amitermes paravilis* 似讨厌弓白蚁]({{ site.base_url }}/species/amitermes-paravilis/)（Iran）
 
-Amitermes parvidens 小齿弓白蚁（Australia）
+[*Amitermes parvidens* 小齿弓白蚁]({{ site.base_url }}/species/amitermes-parvidens/)（Australia）
 
-Amitermes parvulus 幼小弓白蚁（United States, Mexico）
+[*Amitermes parvulus* 幼小弓白蚁]({{ site.base_url }}/species/amitermes-parvulus/)（United States, Mexico）
 
-Amitermes parvus 微小弓白蚁（Australia）
+[*Amitermes parvus* 微小弓白蚁]({{ site.base_url }}/species/amitermes-parvus/)（Australia）
 
-Amitermes paucinervius 寡脉弓白蚁（Botswana）
+[*Amitermes paucinervius* 寡脉弓白蚁]({{ site.base_url }}/species/amitermes-paucinervius/)（Botswana）
 
-Amitermes pavidus 胆小弓白蚁（Australia）
+[*Amitermes pavidus* 胆小弓白蚁]({{ site.base_url }}/species/amitermes-pavidus/)（Australia）
 
-Amitermes perarmatus 全武弓白蚁（Australia）
+[*Amitermes perarmatus* 全武弓白蚁]({{ site.base_url }}/species/amitermes-perarmatus/)（Australia）
 
-Amitermes perelegans 真帅弓白蚁（Australia）
+[*Amitermes perelegans* 真帅弓白蚁]({{ site.base_url }}/species/amitermes-perelegans/)（Australia）
 
-Amitermes perryi 佩里弓白蚁（Australia）
+[*Amitermes perryi* 佩里弓白蚁]({{ site.base_url }}/species/amitermes-perryi/)（Australia）
 
-Amitermes procerus 长颚弓白蚁（Australia）
+[*Amitermes procerus* 长颚弓白蚁]({{ site.base_url }}/species/amitermes-procerus/)（Australia）
 
-Amitermes quadratus 方头弓白蚁（Australia）
+[*Amitermes quadratus* 方头弓白蚁]({{ site.base_url }}/species/amitermes-quadratus/)（Australia）
 
-Amitermes ravus 茶色弓白蚁（Australia）
+[*Amitermes ravus* 茶色弓白蚁]({{ site.base_url }}/species/amitermes-ravus/)（Australia）
 
-Amitermes rotundus 圆腹弓白蚁（Australia）
+[*Amitermes rotundus* 圆腹弓白蚁]({{ site.base_url }}/species/amitermes-rotundus/)（Australia）
 
-Amitermes sciangallorum 夏安盖洛姆弓白蚁（Ethiopia, Kenya, Sudan, Tanzania）
+[*Amitermes sciangallorum* 夏安盖洛姆弓白蚁]({{ site.base_url }}/species/amitermes-sciangallorum/)（Ethiopia, Kenya, Sudan, Tanzania）
 
-Amitermes scopulus 峭壁弓白蚁（Australia）
+[*Amitermes scopulus* 峭壁弓白蚁]({{ site.base_url }}/species/amitermes-scopulus/)（Australia）
 
-Amitermes seminotus 知半弓白蚁（Botswana, South Africa）
+[*Amitermes seminotus* 知半弓白蚁]({{ site.base_url }}/species/amitermes-seminotus/)（Botswana, South Africa）
 
-Amitermes silvestrianus 西尔韦斯特里弓白蚁（United States）
+[*Amitermes silvestrianus* 西尔韦斯特里弓白蚁]({{ site.base_url }}/species/amitermes-silvestrianus/)（United States）
 
-Amitermes snyderi 斯奈德弓白蚁（United States）
+[*Amitermes snyderi* 斯奈德弓白蚁]({{ site.base_url }}/species/amitermes-snyderi/)（United States）
 
-Amitermes socotrensis 索科特拉弓白蚁（Middle East / Arabian Peninsula）
+[*Amitermes socotrensis* 索科特拉弓白蚁]({{ site.base_url }}/species/amitermes-socotrensis/)（Middle East / Arabian Peninsula）
 
-Amitermes somaliensis 索马里弓白蚁（Somalia, Ethiopia, Kenya, Malawi）
+[*Amitermes somaliensis* 索马里弓白蚁]({{ site.base_url }}/species/amitermes-somaliensis/)（Somalia, Ethiopia, Kenya, Malawi）
 
-Amitermes spinifer 具刺弓白蚁（West Africa, East Africa, Kenya, Tanzania, Uganda）
+[*Amitermes spinifer* 具刺弓白蚁]({{ site.base_url }}/species/amitermes-spinifer/)（West Africa, East Africa, Kenya, Tanzania, Uganda）
 
-Amitermes stephensoni 斯蒂芬森弓白蚁（Guinea, Iran, Kenya, Nigeria, Oman, Saudi Arabia, Sudan, Yemen）
+[*Amitermes stephensoni* 斯蒂芬森弓白蚁]({{ site.base_url }}/species/amitermes-stephensoni/)（Guinea, Iran, Kenya, Nigeria, Oman, Saudi Arabia, Sudan, Yemen）
 
-Amitermes subtilis 微型弓白蚁（Australia）
+[*Amitermes subtilis* 微型弓白蚁]({{ site.base_url }}/species/amitermes-subtilis/)（Australia）
 
-Amitermes truncatidens 畸齿弓白蚁（West Africa, Nigeria, Angola, Democratic Republic of the Congo, Malawi, Tanzania, Zambia, Zimbabwe）
+[*Amitermes truncatidens* 畸齿弓白蚁]({{ site.base_url }}/species/amitermes-truncatidens/)（West Africa, Nigeria, Angola, Democratic Republic of the Congo, Malawi, Tanzania, Zambia, Zimbabwe）
 
-Amitermes uncinatus 钩刺弓白蚁（Australia）
+[*Amitermes uncinatus* 钩刺弓白蚁]({{ site.base_url }}/species/amitermes-uncinatus/)（Australia）
 
-Amitermes unidentatus 单齿弓白蚁（Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Africa, Sudan, Tanzania, Uganda, Zambia）
+[*Amitermes unidentatus* 单齿弓白蚁]({{ site.base_url }}/species/amitermes-unidentatus/)（Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Africa, Sudan, Tanzania, Uganda, Zambia）
 
-Amitermes vicinus 近邻弓白蚁（Australia）
+[*Amitermes vicinus* 近邻弓白蚁]({{ site.base_url }}/species/amitermes-vicinus/)（Australia）
 
-Amitermes vilis 讨厌弓白蚁（Middle East / Arabian Peninsula, Afghanistan, Turkmenistan）
+[*Amitermes vilis* 讨厌弓白蚁]({{ site.base_url }}/species/amitermes-vilis/)（Middle East / Arabian Peninsula, Afghanistan, Turkmenistan）
 
-Amitermes viriosus 强壮弓白蚁（Australia）
+[*Amitermes viriosus* 强壮弓白蚁]({{ site.base_url }}/species/amitermes-viriosus/)（Australia）
 
-Amitermes vitiosus 凶残弓白蚁（Australia）
+[*Amitermes vitiosus* 凶残弓白蚁]({{ site.base_url }}/species/amitermes-vitiosus/)（Australia）
 
-Amitermes westraliensis 西澳弓白蚁（Australia）
+[*Amitermes westraliensis* 西澳弓白蚁]({{ site.base_url }}/species/amitermes-westraliensis/)（Australia）
 
-Amitermes wheeleri 惠勒弓白蚁（United States, Mexico）
+[*Amitermes wheeleri* 惠勒弓白蚁]({{ site.base_url }}/species/amitermes-wheeleri/)（United States, Mexico）
 
-Amitermes xylophagus 食木弓白蚁（Australia）
+[*Amitermes xylophagus* 食木弓白蚁]({{ site.base_url }}/species/amitermes-xylophagus/)（Australia）
 
-Amitermes yasujensis 亚苏季弓白蚁（Iran）
+[*Amitermes yasujensis* 亚苏季弓白蚁]({{ site.base_url }}/species/amitermes-yasujensis/)（Iran）
 
 <h5 id="dentispicotermes">Dentispicotermes</h5>
 
-Dentispicotermes brevicarinatus 短脊齿尖白蚁（Guiana Shield, French Guiana/Guyana/Suriname, Brazil）
+[*Dentispicotermes brevicarinatus* 短脊齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-brevicarinatus/)（Guiana Shield, French Guiana/Guyana/Suriname, Brazil）
 
-Dentispicotermes conjunctus 邻近齿尖白蚁（Brazil）
+[*Dentispicotermes conjunctus* 邻近齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-conjunctus/)（Brazil）
 
-Dentispicotermes cupiporanga 库皮珀安加齿尖白蚁（Brazil, Venezuela）
+[*Dentispicotermes cupiporanga* 库皮珀安加齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-cupiporanga/)（Brazil, Venezuela）
 
-\*Dentispicotermes globicephalus 球头齿尖白蚁（Brazil）
+\*[*Dentispicotermes globicephalus* 球头齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-globicephalus/)（Brazil）
 
-Dentispicotermes pantanalis 沼泽齿尖白蚁（Brazil, Cerrado）
+[*Dentispicotermes pantanalis* 沼泽齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-pantanalis/)（Brazil, Cerrado）
 
-Dentispicotermes trapezia 梯形齿尖白蚁（Bolivia, Paraguay, Pantanal–Chaco）
+[*Dentispicotermes trapezia* 梯形齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-trapezia/)（Bolivia, Paraguay, Pantanal–Chaco）
 
 <h5 id="drepanotermes">Drepanotermes</h5>
 
-Drepanotermes acicularis 细长镰白蚁（Australia）
+[*Drepanotermes acicularis* 细长镰白蚁]({{ site.base_url }}/species/drepanotermes-acicularis/)（Australia）
 
-Drepanotermes barretti 巴雷特镰白蚁（Australia）
+[*Drepanotermes barretti* 巴雷特镰白蚁]({{ site.base_url }}/species/drepanotermes-barretti/)（Australia）
 
-Drepanotermes basidens 基齿镰白蚁（Australia）
+[*Drepanotermes basidens* 基齿镰白蚁]({{ site.base_url }}/species/drepanotermes-basidens/)（Australia）
 
-Drepanotermes bellator 勇士镰白蚁（Australia）
+[*Drepanotermes bellator* 勇士镰白蚁]({{ site.base_url }}/species/drepanotermes-bellator/)（Australia）
 
-Drepanotermes brevis 短小镰白蚁（Australia）
+[*Drepanotermes brevis* 短小镰白蚁]({{ site.base_url }}/species/drepanotermes-brevis/)（Australia）
 
-Drepanotermes calabyi 卡拉比镰白蚁（Australia）
+[*Drepanotermes calabyi* 卡拉比镰白蚁]({{ site.base_url }}/species/drepanotermes-calabyi/)（Australia）
 
-Drepanotermes clarki 克拉克镰白蚁（Australia）
+[*Drepanotermes clarki* 克拉克镰白蚁]({{ site.base_url }}/species/drepanotermes-clarki/)（Australia）
 
-Drepanotermes columellaris 小柱镰白蚁（Australia）
+[*Drepanotermes columellaris* 小柱镰白蚁]({{ site.base_url }}/species/drepanotermes-columellaris/)（Australia）
 
-Drepanotermes corax 乌黑镰白蚁（Australia）
+[*Drepanotermes corax* 乌黑镰白蚁]({{ site.base_url }}/species/drepanotermes-corax/)（Australia）
 
-Drepanotermes crassidens 厚齿镰白蚁（Australia）
+[*Drepanotermes crassidens* 厚齿镰白蚁]({{ site.base_url }}/species/drepanotermes-crassidens/)（Australia）
 
-Drepanotermes daliensis 戴利镰白蚁（Australia）
+[*Drepanotermes daliensis* 戴利镰白蚁]({{ site.base_url }}/species/drepanotermes-daliensis/)（Australia）
 
-Drepanotermes dibolia 狄波拉镰白蚁（Australia）
+[*Drepanotermes dibolia* 狄波拉镰白蚁]({{ site.base_url }}/species/drepanotermes-dibolia/)（Australia）
 
-Drepanotermes diversicolor 多色镰白蚁（Australia）
+[*Drepanotermes diversicolor* 多色镰白蚁]({{ site.base_url }}/species/drepanotermes-diversicolor/)（Australia）
 
-Drepanotermes gayi 盖伊镰白蚁（Australia）
+[*Drepanotermes gayi* 盖伊镰白蚁]({{ site.base_url }}/species/drepanotermes-gayi/)（Australia）
 
-Drepanotermes hamulus 小钩镰白蚁（Australia）
+[*Drepanotermes hamulus* 小钩镰白蚁]({{ site.base_url }}/species/drepanotermes-hamulus/)（Australia）
 
-Drepanotermes hilli 希尔镰白蚁（Australia）
+[*Drepanotermes hilli* 希尔镰白蚁]({{ site.base_url }}/species/drepanotermes-hilli/)（Australia）
 
-Drepanotermes invasor 入侵镰白蚁（Australia）
+[*Drepanotermes invasor* 入侵镰白蚁]({{ site.base_url }}/species/drepanotermes-invasor/)（Australia）
 
-Drepanotermes magnificus 巨大镰白蚁（Australia）
+[*Drepanotermes magnificus* 巨大镰白蚁]({{ site.base_url }}/species/drepanotermes-magnificus/)（Australia）
 
-Drepanotermes paradoxus 奇异镰白蚁（Australia）
+[*Drepanotermes paradoxus* 奇异镰白蚁]({{ site.base_url }}/species/drepanotermes-paradoxus/)（Australia）
 
-\*Drepanotermes perniger 全黑镰白蚁（Australia）
+\*[*Drepanotermes perniger* 全黑镰白蚁]({{ site.base_url }}/species/drepanotermes-perniger/)（Australia）
 
-Drepanotermes phoenix 凤凰镰白蚁（Australia）
+[*Drepanotermes phoenix* 凤凰镰白蚁]({{ site.base_url }}/species/drepanotermes-phoenix/)（Australia）
 
-Drepanotermes rubriceps 红头镰白蚁（Australia）
+[*Drepanotermes rubriceps* 红头镰白蚁]({{ site.base_url }}/species/drepanotermes-rubriceps/)（Australia）
 
-Drepanotermes septentrionalis 北方镰白蚁（Australia）
+[*Drepanotermes septentrionalis* 北方镰白蚁]({{ site.base_url }}/species/drepanotermes-septentrionalis/)（Australia）
 
-Drepanotermes tamminensis 塔明镰白蚁（Australia）
+[*Drepanotermes tamminensis* 塔明镰白蚁]({{ site.base_url }}/species/drepanotermes-tamminensis/)（Australia）
 
 <h5 id="eremotermes">Eremotermes</h5>
 
-Eremotermes arctus 短窄漠白蚁（Israel）
+[*Eremotermes arctus* 短窄漠白蚁]({{ site.base_url }}/species/eremotermes-arctus/)（Israel）
 
-Eremotermes dehraduni 德拉敦漠白蚁（India）
+[*Eremotermes dehraduni* 德拉敦漠白蚁]({{ site.base_url }}/species/eremotermes-dehraduni/)（India）
 
-Eremotermes fletcheri 弗莱彻漠白蚁（India, Pakistan）
+[*Eremotermes fletcheri* 弗莱彻漠白蚁]({{ site.base_url }}/species/eremotermes-fletcheri/)（India, Pakistan）
 
-\*Eremotermes indicatus 指示漠白蚁（Libya, Tunisia）
+\*[*Eremotermes indicatus* 指示漠白蚁]({{ site.base_url }}/species/eremotermes-indicatus/)（Libya, Tunisia）
 
-Eremotermes madrasicus 马德拉斯漠白蚁（India）
+[*Eremotermes madrasicus* 马德拉斯漠白蚁]({{ site.base_url }}/species/eremotermes-madrasicus/)（India）
 
-Eremotermes nanus 侏儒漠白蚁（Nigeria, Sudan, Yemen）
+[*Eremotermes nanus* 侏儒漠白蚁]({{ site.base_url }}/species/eremotermes-nanus/)（Nigeria, Sudan, Yemen）
 
-Eremotermes neoparadoxalis 新奇异漠白蚁（India, Pakistan）
+[*Eremotermes neoparadoxalis* 新奇异漠白蚁]({{ site.base_url }}/species/eremotermes-neoparadoxalis/)（India, Pakistan）
 
-Eremotermes paradoxalis 奇异漠白蚁（India, Pakistan）
+[*Eremotermes paradoxalis* 奇异漠白蚁]({{ site.base_url }}/species/eremotermes-paradoxalis/)（India, Pakistan）
 
-Eremotermes sanyuktae 女神漠白蚁（India）
+[*Eremotermes sanyuktae* 女神漠白蚁]({{ site.base_url }}/species/eremotermes-sanyuktae/)（India）
 
-Eremotermes senegalensis 塞内加尔漠白蚁（Senegal）
+[*Eremotermes senegalensis* 塞内加尔漠白蚁]({{ site.base_url }}/species/eremotermes-senegalensis/)（Senegal）
 
 <h5 id="globitermes">Globitermes</h5>
 
-Globitermes brachycerastes 短角球白蚁（Yunnan (Jinghong 500 m), China）
+[*Globitermes brachycerastes* 短角球白蚁]({{ site.base_url }}/species/globitermes-brachycerastes/)（Yunnan (Jinghong 500 m), China）
 
-\*Globitermes globosus 球形球白蚁（Southeast Asian islands, Malay Archipelago）
+\*[*Globitermes globosus* 球形球白蚁]({{ site.base_url }}/species/globitermes-globosus/)（Southeast Asian islands, Malay Archipelago）
 
-depilis 无毛亚种
+[*depilis* 无毛亚种]({{ site.base_url }}/species/globitermes-globosus-depilis/)
 
-globosus 指名亚种
+[*globosus* 指名亚种]({{ site.base_url }}/species/globitermes-globosus-globosus/)
 
-Globitermes menglaensis 勐腊球白蚁（Yunnan (Mengla 660 m), China）
+[*Globitermes menglaensis* 勐腊球白蚁]({{ site.base_url }}/species/globitermes-menglaensis/)（Yunnan (Mengla 660 m), China）
 
-Globitermes mengpengensis 勐捧球白蚁（Yunnan (Mengla Mengbang 640 m), China）
+[*Globitermes mengpengensis* 勐捧球白蚁]({{ site.base_url }}/species/globitermes-mengpengensis/)（Yunnan (Mengla Mengbang 640 m), China）
 
-Globitermes minor 小球白蚁（Yunnan (Jinghong Damenglong), China）
+[*Globitermes minor* 小球白蚁]({{ site.base_url }}/species/globitermes-minor/)（Yunnan (Jinghong Damenglong), China）
 
-Globitermes sulphureus 黄球白蚁（mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China）
+[*Globitermes sulphureus* 黄球白蚁]({{ site.base_url }}/species/globitermes-sulphureus/)（mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China）
 
-Globitermes vadaensis 瓦达球白蚁（Southeast Asian islands, Malay Archipelago）
+[*Globitermes vadaensis* 瓦达球白蚁]({{ site.base_url }}/species/globitermes-vadaensis/)（Southeast Asian islands, Malay Archipelago）
 
 <h5 id="gnathamitermes">Gnathamitermes</h5>
 
-Gnathamitermes grandis 大颚钩白蚁（Central America (Mexico)）
+[*Gnathamitermes grandis* 大颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-grandis/)（Central America (Mexico)）
 
-Gnathamitermes nigriceps 黑头颚钩白蚁（Central America (Mexico)）
+[*Gnathamitermes nigriceps* 黑头颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-nigriceps/)（Central America (Mexico)）
 
-\*Gnathamitermes perplexus 复杂颚钩白蚁（United States, Mexico）
+\*[*Gnathamitermes perplexus* 复杂颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-perplexus/)（United States, Mexico）
 
-Gnathamitermes tubiformans 管形颚钩白蚁（Mexico, United States）
+[*Gnathamitermes tubiformans* 管形颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-tubiformans/)（Mexico, United States）
 
 <h5 id="hoplotermes">Hoplotermes</h5>
 
-\*Hoplotermes amplus 广泛武白蚁（Central America and Caribbean, Mexico）
+\*[*Hoplotermes amplus* 广泛武白蚁]({{ site.base_url }}/species/hoplotermes-amplus/)（Central America and Caribbean, Mexico）
 
 <h5 id="incolitermes">Incolitermes</h5>
 
-\*Incolitermes pumilus 侏儒子民白蚁（Australia）
+\*[*Incolitermes pumilus* 侏儒子民白蚁]({{ site.base_url }}/species/incolitermes-pumilus/)（Australia）
 
 <h5 id="invasitermes">Invasitermes</h5>
 
-\*Invasitermes inermis 非武闯白蚁（Australia）
+\*[*Invasitermes inermis* 非武闯白蚁]({{ site.base_url }}/species/invasitermes-inermis/)（Australia）
 
-Invasitermes insitivus 候补闯白蚁（Australia）
+[*Invasitermes insitivus* 候补闯白蚁]({{ site.base_url }}/species/invasitermes-insitivus/)（Australia）
 
 <h5 id="orthognathotermes">Orthognathotermes</h5>
 
-Orthognathotermes aduncus 具钩直颚白蚁（Brazil, Guiana Shield, Bolivia, Paraguay, Peru）
+[*Orthognathotermes aduncus* 具钩直颚白蚁]({{ site.base_url }}/species/orthognathotermes-aduncus/)（Brazil, Guiana Shield, Bolivia, Paraguay, Peru）
 
-Orthognathotermes brevipilosus 短毛直颚白蚁（Bolivia）
+[*Orthognathotermes brevipilosus* 短毛直颚白蚁]({{ site.base_url }}/species/orthognathotermes-brevipilosus/)（Bolivia）
 
-Orthognathotermes gibberorum 驼背直颚白蚁（Brazil, Guiana Shield）
+[*Orthognathotermes gibberorum* 驼背直颚白蚁]({{ site.base_url }}/species/orthognathotermes-gibberorum/)（Brazil, Guiana Shield）
 
-Orthognathotermes heberi 希伯直颚白蚁（Brazil）
+[*Orthognathotermes heberi* 希伯直颚白蚁]({{ site.base_url }}/species/orthognathotermes-heberi/)（Brazil）
 
-Orthognathotermes humilis 小直颚白蚁（Brazil, Guiana Shield）
+[*Orthognathotermes humilis* 小直颚白蚁]({{ site.base_url }}/species/orthognathotermes-humilis/)（Brazil, Guiana Shield）
 
-Orthognathotermes insignis 醒目直颚白蚁（Brazil）
+[*Orthognathotermes insignis* 醒目直颚白蚁]({{ site.base_url }}/species/orthognathotermes-insignis/)（Brazil）
 
-Orthognathotermes longilamina 长刀直颚白蚁（Brazil）
+[*Orthognathotermes longilamina* 长刀直颚白蚁]({{ site.base_url }}/species/orthognathotermes-longilamina/)（Brazil）
 
-\*Orthognathotermes macrocephalus 大头直颚白蚁（Brazil, Bolivia）
+\*[*Orthognathotermes macrocephalus* 大头直颚白蚁]({{ site.base_url }}/species/orthognathotermes-macrocephalus/)（Brazil, Bolivia）
 
-Orthognathotermes mirim 小兵直颚白蚁（Brazil）
+[*Orthognathotermes mirim* 小兵直颚白蚁]({{ site.base_url }}/species/orthognathotermes-mirim/)（Brazil）
 
-Orthognathotermes okeyma 无巢直颚白蚁（Brazil, Paraguay）
+[*Orthognathotermes okeyma* 无巢直颚白蚁]({{ site.base_url }}/species/orthognathotermes-okeyma/)（Brazil, Paraguay）
 
-Orthognathotermes orthognathus 直颚直颚白蚁（Brazil, Paraguay）
+[*Orthognathotermes orthognathus* 直颚直颚白蚁]({{ site.base_url }}/species/orthognathotermes-orthognathus/)（Brazil, Paraguay）
 
-Orthognathotermes pilosus 多毛直颚白蚁（Brazil, Venezuela）
+[*Orthognathotermes pilosus* 多毛直颚白蚁]({{ site.base_url }}/species/orthognathotermes-pilosus/)（Brazil, Venezuela）
 
-Orthognathotermes tubesauassu 大眼直颚白蚁（Brazil）
+[*Orthognathotermes tubesauassu* 大眼直颚白蚁]({{ site.base_url }}/species/orthognathotermes-tubesauassu/)（Brazil）
 
-Orthognathotermes uncimandibularis 钩颚直颚白蚁（Brazil）
+[*Orthognathotermes uncimandibularis* 钩颚直颚白蚁]({{ site.base_url }}/species/orthognathotermes-uncimandibularis/)（Brazil）
 
-Orthognathotermes wheeleri 惠勒直颚白蚁（Amazon region, Colombia, Panama）
+[*Orthognathotermes wheeleri* 惠勒直颚白蚁]({{ site.base_url }}/species/orthognathotermes-wheeleri/)（Amazon region, Colombia, Panama）
 
 <h5 id="prohamitermes">Prohamitermes</h5>
 
-Prohamitermes hosei 霍斯前钩白蚁（Borneo, Indonesia, Malaysia）
+[*Prohamitermes hosei* 霍斯前钩白蚁]({{ site.base_url }}/species/prohamitermes-hosei/)（Borneo, Indonesia, Malaysia）
 
-hosei 指名亚种
+[*hosei* 指名亚种]({{ site.base_url }}/species/prohamitermes-hosei-hosei/)
 
-minor 小亚种
+[*minor* 小亚种]({{ site.base_url }}/species/prohamitermes-hosei-minor/)
 
-\*Prohamitermes mirabilis 奇异前钩白蚁（Malaysia, Borneo, Singapore, Indonesia）
+\*[*Prohamitermes mirabilis* 奇异前钩白蚁]({{ site.base_url }}/species/prohamitermes-mirabilis/)（Malaysia, Borneo, Singapore, Indonesia）
 
 <h5 id="pseudhamitermes">Pseudhamitermes</h5>
 
-\*Pseudhamitermes khmerensis 高棉伪钩白蚁（Vietnam）
+\*[*Pseudhamitermes khmerensis* 高棉伪钩白蚁]({{ site.base_url }}/species/pseudhamitermes-khmerensis/)（Vietnam）
 
-Pseudhamitermes longignathus 长颚伪钩白蚁（Thailand）
+[*Pseudhamitermes longignathus* 长颚伪钩白蚁]({{ site.base_url }}/species/pseudhamitermes-longignathus/)（Thailand）
 
 <h5 id="synhamitermes">Synhamitermes</h5>
 
-Synhamitermes ceylonicus 锡兰同钩白蚁（Sri Lanka）
+[*Synhamitermes ceylonicus* 锡兰同钩白蚁]({{ site.base_url }}/species/synhamitermes-ceylonicus/)（Sri Lanka）
 
-Synhamitermes colombensis 科伦坡同钩白蚁（Sri Lanka）
+[*Synhamitermes colombensis* 科伦坡同钩白蚁]({{ site.base_url }}/species/synhamitermes-colombensis/)（Sri Lanka）
 
-Synhamitermes labioangulatus 角唇同钩白蚁（India）
+[*Synhamitermes labioangulatus* 角唇同钩白蚁]({{ site.base_url }}/species/synhamitermes-labioangulatus/)（India）
 
-\*Synhamitermes quadriceps 方头同钩白蚁（southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India）
+\*[*Synhamitermes quadriceps* 方头同钩白蚁]({{ site.base_url }}/species/synhamitermes-quadriceps/)（southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India）
 
 <h4 id="apicotermitinae">Apicotermitinae</h4>
 
@@ -2798,611 +2798,611 @@ Euhamitermes sp.
 
 <h5 id="acholotermes">Acholotermes</h5>
 
-Acholotermes chirotus 短小顺白蚁（East Africa, Congo, Democratic Republic of the Congo）
+[*Acholotermes chirotus* 短小顺白蚁]({{ site.base_url }}/species/acholotermes-chirotus/)（East Africa, Congo, Democratic Republic of the Congo）
 
-Acholotermes epius 椭囟顺白蚁（tropical Africa, Zambia）
+[*Acholotermes epius* 椭囟顺白蚁]({{ site.base_url }}/species/acholotermes-epius/)（tropical Africa, Zambia）
 
-Acholotermes imbellis 和平顺白蚁（tropical Africa）
+[*Acholotermes imbellis* 和平顺白蚁]({{ site.base_url }}/species/acholotermes-imbellis/)（tropical Africa）
 
-Acholotermes socialis 社会顺白蚁（Central African Republic, Congo Basin, Nigeria）
+[*Acholotermes socialis* 社会顺白蚁]({{ site.base_url }}/species/acholotermes-socialis/)（Central African Republic, Congo Basin, Nigeria）
 
-\*Acholotermes tithasus 体大顺白蚁（tropical Africa）
+\*[*Acholotermes tithasus* 体大顺白蚁]({{ site.base_url }}/species/acholotermes-tithasus/)（tropical Africa）
 
 <h5 id="acidnotermes">Acidnotermes</h5>
 
-\*Acidnotermes praus 短肠虚白蚁（tropical Africa）
+\*[*Acidnotermes praus* 短肠虚白蚁]({{ site.base_url }}/species/acidnotermes-praus/)（tropical Africa）
 
 <h5 id="acutidentitermes">Acutidentitermes</h5>
 
-\*Acutidentitermes osborni 奥斯本尖齿白蚁（Democratic Republic of the Congo）
+\*[*Acutidentitermes osborni* 奥斯本尖齿白蚁]({{ site.base_url }}/species/acutidentitermes-osborni/)（Democratic Republic of the Congo）
 
 <h5 id="adaiphrotermes">Adaiphrotermes</h5>
 
-Adaiphrotermes choanensis 乔安和白蚁（Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe）
+[*Adaiphrotermes choanensis* 乔安和白蚁]({{ site.base_url }}/species/adaiphrotermes-choanensis/)（Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe）
 
-\*Adaiphrotermes cuniculator 灵动和白蚁（West Africa）
+\*[*Adaiphrotermes cuniculator* 灵动和白蚁]({{ site.base_url }}/species/adaiphrotermes-cuniculator/)（West Africa）
 
-Adaiphrotermes scapheutes 中凹和白蚁（Malawi, Zambia）
+[*Adaiphrotermes scapheutes* 中凹和白蚁]({{ site.base_url }}/species/adaiphrotermes-scapheutes/)（Malawi, Zambia）
 
 <h5 id="aderitotermes">Aderitotermes</h5>
 
-Aderitotermes cavator 中空谐白蚁（West Africa, Cameroon, Gambia, Ivory Coast, Nigeria）
+[*Aderitotermes cavator* 中空谐白蚁]({{ site.base_url }}/species/aderitotermes-cavator/)（West Africa, Cameroon, Gambia, Ivory Coast, Nigeria）
 
-\*Aderitotermes fossor 挖掘谐白蚁（Cameroon, Kenya, Malawi, Tanzania, Uganda, Zambia）
+\*[*Aderitotermes fossor* 挖掘谐白蚁]({{ site.base_url }}/species/aderitotermes-fossor/)（Cameroon, Kenya, Malawi, Tanzania, Uganda, Zambia）
 
 <h5 id="adynatotermes">Adynatotermes</h5>
 
-\*Adynatotermes moretelae 莫特拉弱白蚁（South Africa）
+\*[*Adynatotermes moretelae* 莫特拉弱白蚁]({{ site.base_url }}/species/adynatotermes-moretelae/)（South Africa）
 
 <h5 id="aganotermes">Aganotermes</h5>
 
-\*Aganotermes oryctes 挖者雅白蚁（South Africa, Zambia, Zimbabwe）
+\*[*Aganotermes oryctes* 挖者雅白蚁]({{ site.base_url }}/species/aganotermes-oryctes/)（South Africa, Zambia, Zimbabwe）
 
 <h5 id="allognathotermes">Allognathotermes</h5>
 
-Allognathotermes aburiensis 阿布里异颚白蚁（Ghana, Guinea, Nigeria）
+[*Allognathotermes aburiensis* 阿布里异颚白蚁]({{ site.base_url }}/species/allognathotermes-aburiensis/)（Ghana, Guinea, Nigeria）
 
-\*Allognathotermes hypogeus 地下异颚白蚁（West Africa, Cameroon）
+\*[*Allognathotermes hypogeus* 地下异颚白蚁]({{ site.base_url }}/species/allognathotermes-hypogeus/)（West Africa, Cameroon）
 
-Allognathotermes ivorensis 象牙海岸异颚白蚁（West Africa）
+[*Allognathotermes ivorensis* 象牙海岸异颚白蚁]({{ site.base_url }}/species/allognathotermes-ivorensis/)（West Africa）
 
 <h5 id="alyscotermes">Alyscotermes</h5>
 
-\*Alyscotermes kilimandjaricus 乞力马扎罗逃白蚁（Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe）
+\*[*Alyscotermes kilimandjaricus* 乞力马扎罗逃白蚁]({{ site.base_url }}/species/alyscotermes-kilimandjaricus/)（Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe）
 
-Alyscotermes trestus 懦夫逃白蚁（Ethiopia, Kenya, Tanzania）
+[*Alyscotermes trestus* 懦夫逃白蚁]({{ site.base_url }}/species/alyscotermes-trestus/)（Ethiopia, Kenya, Tanzania）
 
 <h5 id="amalotermes">Amalotermes</h5>
 
-\*Amalotermes phaeocephalus 暗头软白蚁（Central Africa, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria）
+\*[*Amalotermes phaeocephalus* 暗头软白蚁]({{ site.base_url }}/species/amalotermes-phaeocephalus/)（Central Africa, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria）
 
 <h5 id="amicotermes">Amicotermes</h5>
 
-Amicotermes autothysius 自爆善白蚁（Cameroon）
+[*Amicotermes autothysius* 自爆善白蚁]({{ site.base_url }}/species/amicotermes-autothysius/)（Cameroon）
 
-Amicotermes camerunensis 喀麦隆善白蚁（Cameroon）
+[*Amicotermes camerunensis* 喀麦隆善白蚁]({{ site.base_url }}/species/amicotermes-camerunensis/)（Cameroon）
 
-Amicotermes congoensis 刚果善白蚁（Democratic Republic of the Congo, Congo）
+[*Amicotermes congoensis* 刚果善白蚁]({{ site.base_url }}/species/amicotermes-congoensis/)（Democratic Republic of the Congo, Congo）
 
-Amicotermes cristatus 冠毛善白蚁（Congo）
+[*Amicotermes cristatus* 冠毛善白蚁]({{ site.base_url }}/species/amicotermes-cristatus/)（Congo）
 
-Amicotermes dibogi 迪博格善白蚁（Cameroon）
+[*Amicotermes dibogi* 迪博格善白蚁]({{ site.base_url }}/species/amicotermes-dibogi/)（Cameroon）
 
-\*Amicotermes galenus 盖伦善白蚁（Democratic Republic of the Congo, Nigeria）
+\*[*Amicotermes galenus* 盖伦善白蚁]({{ site.base_url }}/species/amicotermes-galenus/)（Democratic Republic of the Congo, Nigeria）
 
-Amicotermes gasteruptus 腰肠善白蚁（Cameroon）
+[*Amicotermes gasteruptus* 腰肠善白蚁]({{ site.base_url }}/species/amicotermes-gasteruptus/)（Cameroon）
 
-Amicotermes ivorensis 象牙海岸善白蚁（Cameroon, Ivory Coast）
+[*Amicotermes ivorensis* 象牙海岸善白蚁]({{ site.base_url }}/species/amicotermes-ivorensis/)（Cameroon, Ivory Coast）
 
-Amicotermes mayombei 马永贝善白蚁（Congo）
+[*Amicotermes mayombei* 马永贝善白蚁]({{ site.base_url }}/species/amicotermes-mayombei/)（Congo）
 
-Amicotermes mbalmayoensis 姆巴尔马约善白蚁（Cameroon, Mbalmayo, Nigeria）
+[*Amicotermes mbalmayoensis* 姆巴尔马约善白蚁]({{ site.base_url }}/species/amicotermes-mbalmayoensis/)（Cameroon, Mbalmayo, Nigeria）
 
-Amicotermes multispinus 多刺善白蚁（Congo）
+[*Amicotermes multispinus* 多刺善白蚁]({{ site.base_url }}/species/amicotermes-multispinus/)（Congo）
 
-Amicotermes spiculatus 具针善白蚁（Cameroon）
+[*Amicotermes spiculatus* 具针善白蚁]({{ site.base_url }}/species/amicotermes-spiculatus/)（Cameroon）
 
 <h5 id="amplucrutermes">Amplucrutermes</h5>
 
-\*Amplucrutermes inflatus 椭圆大腿白蚁（South America, Guiana Shield, French Guiana）
+\*[*Amplucrutermes inflatus* 椭圆大腿白蚁]({{ site.base_url }}/species/amplucrutermes-inflatus/)（South America, Guiana Shield, French Guiana）
 
 <h5 id="anaorotermes">Anaorotermes</h5>
 
-\*Anaorotermes echinocolon 海胆肠无戟白蚁（Nigeria）
+\*[*Anaorotermes echinocolon* 海胆肠无戟白蚁]({{ site.base_url }}/species/anaorotermes-echinocolon/)（Nigeria）
 
 <h5 id="anenteotermes">Anenteotermes</h5>
 
-Anenteotermes amachetus 无刀无甲白蚁（Republic of the Congo, Democratic Republic of the Congo）
+[*Anenteotermes amachetus* 无刀无甲白蚁]({{ site.base_url }}/species/anenteotermes-amachetus/)（Republic of the Congo, Democratic Republic of the Congo）
 
-Anenteotermes ateuchestes 无锐无甲白蚁（Cameroon, Gambia, Tanzania）
+[*Anenteotermes ateuchestes* 无锐无甲白蚁]({{ site.base_url }}/species/anenteotermes-ateuchestes/)（Cameroon, Gambia, Tanzania）
 
-Anenteotermes cherubimi 小天使无甲白蚁（Republic of the Congo, Cameroon）
+[*Anenteotermes cherubimi* 小天使无甲白蚁]({{ site.base_url }}/species/anenteotermes-cherubimi/)（Republic of the Congo, Cameroon）
 
-Anenteotermes cicur 温顺无甲白蚁（Democratic Republic of the Congo）
+[*Anenteotermes cicur* 温顺无甲白蚁]({{ site.base_url }}/species/anenteotermes-cicur/)（Democratic Republic of the Congo）
 
-Anenteotermes cnaphorus 笨神无甲白蚁（Republic of the Congo, Democratic Republic of the Congo, Malawi）
+[*Anenteotermes cnaphorus* 笨神无甲白蚁]({{ site.base_url }}/species/anenteotermes-cnaphorus/)（Republic of the Congo, Democratic Republic of the Congo, Malawi）
 
-\*Anenteotermes disluctans 不斗无甲白蚁（Democratic Republic of the Congo, Uganda, Zambia）
+\*[*Anenteotermes disluctans* 不斗无甲白蚁]({{ site.base_url }}/species/anenteotermes-disluctans/)（Democratic Republic of the Congo, Uganda, Zambia）
 
-Anenteotermes hemerus 肱骨无甲白蚁（Sudan）
+[*Anenteotermes hemerus* 肱骨无甲白蚁]({{ site.base_url }}/species/anenteotermes-hemerus/)（Sudan）
 
-Anenteotermes improcinctus 无备无甲白蚁（Ivory Coast, Nigeria）
+[*Anenteotermes improcinctus* 无备无甲白蚁]({{ site.base_url }}/species/anenteotermes-improcinctus/)（Ivory Coast, Nigeria）
 
-Anenteotermes improelatans 不变无甲白蚁（Kenya, Malawi）
+[*Anenteotermes improelatans* 不变无甲白蚁]({{ site.base_url }}/species/anenteotermes-improelatans/)（Kenya, Malawi）
 
-Anenteotermes nanus 侏儒无甲白蚁（Cameroon, Republic of the Congo, Democratic Republic of the Congo）
+[*Anenteotermes nanus* 侏儒无甲白蚁]({{ site.base_url }}/species/anenteotermes-nanus/)（Cameroon, Republic of the Congo, Democratic Republic of the Congo）
 
-Anenteotermes polyscolus 多魁无甲白蚁（West Africa, Central Africa, Congo Basin）
+[*Anenteotermes polyscolus* 多魁无甲白蚁]({{ site.base_url }}/species/anenteotermes-polyscolus/)（West Africa, Central Africa, Congo Basin）
 
 <h5 id="anoplotermes">Anoplotermes</h5>
 
-Anoplotermes ater 暗黑解甲白蚁（Brazil, Argentina, Colombia, Paraguay, Peru）
+[*Anoplotermes ater* 暗黑解甲白蚁]({{ site.base_url }}/species/anoplotermes-ater/)（Brazil, Argentina, Colombia, Paraguay, Peru）
 
-Anoplotermes bahamensis 巴哈马解甲白蚁（Bahamas）
+[*Anoplotermes bahamensis* 巴哈马解甲白蚁]({{ site.base_url }}/species/anoplotermes-bahamensis/)（Bahamas）
 
-Anoplotermes banksi 班克斯解甲白蚁（Brazil, Guiana Shield, Amazon region, Trinidad and Tobago）
+[*Anoplotermes banksi* 班克斯解甲白蚁]({{ site.base_url }}/species/anoplotermes-banksi/)（Brazil, Guiana Shield, Amazon region, Trinidad and Tobago）
 
-Anoplotermes bolivianus 玻利维亚解甲白蚁（Bolivia）
+[*Anoplotermes bolivianus* 玻利维亚解甲白蚁]({{ site.base_url }}/species/anoplotermes-bolivianus/)（Bolivia）
 
-Anoplotermes brucei 布鲁斯解甲白蚁（Bolivia）
+[*Anoplotermes brucei* 布鲁斯解甲白蚁]({{ site.base_url }}/species/anoplotermes-brucei/)（Bolivia）
 
-Anoplotermes distans 遥远解甲白蚁（Guiana Shield, Amazon region）
+[*Anoplotermes distans* 遥远解甲白蚁]({{ site.base_url }}/species/anoplotermes-distans/)（Guiana Shield, Amazon region）
 
-Anoplotermes fumosus 烟色解甲白蚁（Brazil, Mexico, United States）
+[*Anoplotermes fumosus* 烟色解甲白蚁]({{ site.base_url }}/species/anoplotermes-fumosus/)（Brazil, Mexico, United States）
 
-Anoplotermes gracilis 细瘦解甲白蚁（French Guiana, Panama）
+[*Anoplotermes gracilis* 细瘦解甲白蚁]({{ site.base_url }}/species/anoplotermes-gracilis/)（French Guiana, Panama）
 
-Anoplotermes grandifrons 大囟解甲白蚁（Bolivia）
+[*Anoplotermes grandifrons* 大囟解甲白蚁]({{ site.base_url }}/species/anoplotermes-grandifrons/)（Bolivia）
 
-Anoplotermes hondurensis 洪都拉斯解甲白蚁（Honduras）
+[*Anoplotermes hondurensis* 洪都拉斯解甲白蚁]({{ site.base_url }}/species/anoplotermes-hondurensis/)（Honduras）
 
-Anoplotermes howardi 霍华德解甲白蚁（Bolivia, Brazil）
+[*Anoplotermes howardi* 霍华德解甲白蚁]({{ site.base_url }}/species/anoplotermes-howardi/)（Bolivia, Brazil）
 
-Anoplotermes inopinatus 意外解甲白蚁（Bahamas）
+[*Anoplotermes inopinatus* 意外解甲白蚁]({{ site.base_url }}/species/anoplotermes-inopinatus/)（Bahamas）
 
-Anoplotermes janus 门神解甲白蚁（Brazil, Guiana Shield, Amazon region, Central America and Caribbean）
+[*Anoplotermes janus* 门神解甲白蚁]({{ site.base_url }}/species/anoplotermes-janus/)（Brazil, Guiana Shield, Amazon region, Central America and Caribbean）
 
-Anoplotermes meridianus 南方解甲白蚁（Brazil, Amazon region, southeastern South America, Central America and Caribbean）
+[*Anoplotermes meridianus* 南方解甲白蚁]({{ site.base_url }}/species/anoplotermes-meridianus/)（Brazil, Amazon region, southeastern South America, Central America and Caribbean）
 
-\*Anoplotermes pacificus 太平洋解甲白蚁（Brazil, Amazon region）
+\*[*Anoplotermes pacificus* 太平洋解甲白蚁]({{ site.base_url }}/species/anoplotermes-pacificus/)（Brazil, Amazon region）
 
-Anoplotermes parvus 小解甲白蚁（Brazil, Guiana Shield, Amazon region, Central America and Caribbean）
+[*Anoplotermes parvus* 小解甲白蚁]({{ site.base_url }}/species/anoplotermes-parvus/)（Brazil, Guiana Shield, Amazon region, Central America and Caribbean）
 
-Anoplotermes punctatus 具点解甲白蚁（Bolivia）
+[*Anoplotermes punctatus* 具点解甲白蚁]({{ site.base_url }}/species/anoplotermes-punctatus/)（Bolivia）
 
-Anoplotermes pyriformis 梨形解甲白蚁（Costa Rica）
+[*Anoplotermes pyriformis* 梨形解甲白蚁]({{ site.base_url }}/species/anoplotermes-pyriformis/)（Costa Rica）
 
-Anoplotermes rotundus 球形解甲白蚁（Bolivia）
+[*Anoplotermes rotundus* 球形解甲白蚁]({{ site.base_url }}/species/anoplotermes-rotundus/)（Bolivia）
 
-Anoplotermes schwarzi 施瓦茨解甲白蚁（Cuba）
+[*Anoplotermes schwarzi* 施瓦茨解甲白蚁]({{ site.base_url }}/species/anoplotermes-schwarzi/)（Cuba）
 
-Anoplotermes subterraneus 地下解甲白蚁（Guyana, Venezuela）
+[*Anoplotermes subterraneus* 地下解甲白蚁]({{ site.base_url }}/species/anoplotermes-subterraneus/)（Guyana, Venezuela）
 
-Anoplotermes susanae 苏珊解甲白蚁（Ecuador, Brazil, French Guiana, Peru）
+[*Anoplotermes susanae* 苏珊解甲白蚁]({{ site.base_url }}/species/anoplotermes-susanae/)（Ecuador, Brazil, French Guiana, Peru）
 
-Anoplotermes tenebrosus 黑暗解甲白蚁（Brazil, Argentina, Venezuela）
+[*Anoplotermes tenebrosus* 黑暗解甲白蚁]({{ site.base_url }}/species/anoplotermes-tenebrosus/)（Brazil, Argentina, Venezuela）
 
 <h5 id="apagotermes">Apagotermes</h5>
 
-\*Apagotermes stolidus 愚蠢疲白蚁（Democratic Republic of the Congo, Cameroon, Republic of the Congo, Nigeria）
+\*[*Apagotermes stolidus* 愚蠢疲白蚁]({{ site.base_url }}/species/apagotermes-stolidus/)（Democratic Republic of the Congo, Cameroon, Republic of the Congo, Nigeria）
 
 <h5 id="aparatermes">Aparatermes</h5>
 
-\*Aparatermes abbreviatus 缩短弯肠白蚁（Amazon region, northwestern South America, southeastern South America, Argentina/Paraguay/Uruguay, Bolivia）
+\*[*Aparatermes abbreviatus* 缩短弯肠白蚁]({{ site.base_url }}/species/aparatermes-abbreviatus/)（Amazon region, northwestern South America, southeastern South America, Argentina/Paraguay/Uruguay, Bolivia）
 
-Aparatermes cingulatus 环带弯肠白蚁（Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean）
+[*Aparatermes cingulatus* 环带弯肠白蚁]({{ site.base_url }}/species/aparatermes-cingulatus/)（Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean）
 
-Aparatermes thornatus 刺棘弯肠白蚁（Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, Central America and Caribbean）
+[*Aparatermes thornatus* 刺棘弯肠白蚁]({{ site.base_url }}/species/aparatermes-thornatus/)（Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, Central America and Caribbean）
 
 <h5 id="apicotermes">Apicotermes</h5>
 
-Apicotermes angustatus 狭窄尖白蚁（Angola, Democratic Republic of the Congo）
+[*Apicotermes angustatus* 狭窄尖白蚁]({{ site.base_url }}/species/apicotermes-angustatus/)（Angola, Democratic Republic of the Congo）
 
-Apicotermes arquieri 阿奎尔尖白蚁（Central African Republic, Congo Basin, Nigeria）
+[*Apicotermes arquieri* 阿奎尔尖白蚁]({{ site.base_url }}/species/apicotermes-arquieri/)（Central African Republic, Congo Basin, Nigeria）
 
-Apicotermes desneuxi 德纳尖白蚁（Democratic Republic of the Congo）
+[*Apicotermes desneuxi* 德纳尖白蚁]({{ site.base_url }}/species/apicotermes-desneuxi/)（Democratic Republic of the Congo）
 
-Apicotermes emersoni 埃默森尖白蚁（Angola, Democratic Republic of the Congo）
+[*Apicotermes emersoni* 埃默森尖白蚁]({{ site.base_url }}/species/apicotermes-emersoni/)（Angola, Democratic Republic of the Congo）
 
-Apicotermes goesswaldi 格斯瓦尔德尖白蚁（Angola, Democratic Republic of the Congo）
+[*Apicotermes goesswaldi* 格斯瓦尔德尖白蚁]({{ site.base_url }}/species/apicotermes-goesswaldi/)（Angola, Democratic Republic of the Congo）
 
-Apicotermes gurgulifex 喉头尖白蚁（Angola, Democratic Republic of the Congo）
+[*Apicotermes gurgulifex* 喉头尖白蚁]({{ site.base_url }}/species/apicotermes-gurgulifex/)（Angola, Democratic Republic of the Congo）
 
-Apicotermes holmgreni 霍姆格伦尖白蚁（Malawi, Tanzania）
+[*Apicotermes holmgreni* 霍姆格伦尖白蚁]({{ site.base_url }}/species/apicotermes-holmgreni/)（Malawi, Tanzania）
 
-Apicotermes kisantuensis 基桑图尖白蚁（Democratic Republic of the Congo）
+[*Apicotermes kisantuensis* 基桑图尖白蚁]({{ site.base_url }}/species/apicotermes-kisantuensis/)（Democratic Republic of the Congo）
 
-Apicotermes lamani 拉曼尖白蚁（Angola, Congo, Democratic Republic of the Congo, Tanzania）
+[*Apicotermes lamani* 拉曼尖白蚁]({{ site.base_url }}/species/apicotermes-lamani/)（Angola, Congo, Democratic Republic of the Congo, Tanzania）
 
-Apicotermes occultus 隐蔽尖白蚁（Guinea, Nigeria）
+[*Apicotermes occultus* 隐蔽尖白蚁]({{ site.base_url }}/species/apicotermes-occultus/)（Guinea, Nigeria）
 
-Apicotermes porifex 具孔尖白蚁（Democratic Republic of the Congo）
+[*Apicotermes porifex* 具孔尖白蚁]({{ site.base_url }}/species/apicotermes-porifex/)（Democratic Republic of the Congo）
 
-Apicotermes rimulifex 裂缝尖白蚁（Angola, Democratic Republic of the Congo）
+[*Apicotermes rimulifex* 裂缝尖白蚁]({{ site.base_url }}/species/apicotermes-rimulifex/)（Angola, Democratic Republic of the Congo）
 
-\*Apicotermes tragardhi 特雷高尖白蚁（Mozambique, South Africa, Tanzania, Zimbabwe）
+\*[*Apicotermes tragardhi* 特雷高尖白蚁]({{ site.base_url }}/species/apicotermes-tragardhi/)（Mozambique, South Africa, Tanzania, Zimbabwe）
 
 <h5 id="apolemotermes">Apolemotermes</h5>
 
-\*Apolemotermes fodiens 挖掘和平白蚁（Cameroon）
+\*[*Apolemotermes fodiens* 挖掘和平白蚁]({{ site.base_url }}/species/apolemotermes-fodiens/)（Cameroon）
 
 <h5 id="asagarotermes">Asagarotermes</h5>
 
-\*Asagarotermes coronatus 冠毛无剑白蚁（Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo）
+\*[*Asagarotermes coronatus* 冠毛无剑白蚁]({{ site.base_url }}/species/asagarotermes-coronatus/)（Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo）
 
 <h5 id="astalotermes">Astalotermes</h5>
 
-Astalotermes acholus 阿彻鲁斯无利器白蚁（tropical Africa, Cameroon, Democratic Republic of the Congo, Tanzania）
+[*Astalotermes acholus* 阿彻鲁斯无利器白蚁]({{ site.base_url }}/species/astalotermes-acholus/)（tropical Africa, Cameroon, Democratic Republic of the Congo, Tanzania）
 
-Astalotermes aganus 温柔无利器白蚁（tropical Africa, South Africa）
+[*Astalotermes aganus* 温柔无利器白蚁]({{ site.base_url }}/species/astalotermes-aganus/)（tropical Africa, South Africa）
 
-Astalotermes amicus 仁爱无利器白蚁（tropical Africa, Tanzania）
+[*Astalotermes amicus* 仁爱无利器白蚁]({{ site.base_url }}/species/astalotermes-amicus/)（tropical Africa, Tanzania）
 
-Astalotermes benignus 仁慈无利器白蚁（tropical Africa, Guinea, Ivory Coast, Nigeria）
+[*Astalotermes benignus* 仁慈无利器白蚁]({{ site.base_url }}/species/astalotermes-benignus/)（tropical Africa, Guinea, Ivory Coast, Nigeria）
 
-Astalotermes brevior 短小无利器白蚁（Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe）
+[*Astalotermes brevior* 短小无利器白蚁]({{ site.base_url }}/species/astalotermes-brevior/)（Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe）
 
-Astalotermes comis 友好无利器白蚁（tropical Africa, Cameroon, South Africa）
+[*Astalotermes comis* 友好无利器白蚁]({{ site.base_url }}/species/astalotermes-comis/)（tropical Africa, Cameroon, South Africa）
 
-\*Astalotermes concilians 团结无利器白蚁（West Africa, Guinea, Nigeria）
+\*[*Astalotermes concilians* 团结无利器白蚁]({{ site.base_url }}/species/astalotermes-concilians/)（West Africa, Guinea, Nigeria）
 
-Astalotermes empodius 棘头无利器白蚁（tropical Africa, South Africa）
+[*Astalotermes empodius* 棘头无利器白蚁]({{ site.base_url }}/species/astalotermes-empodius/)（tropical Africa, South Africa）
 
-Astalotermes eumenus 蜾蠃无利器白蚁（tropical Africa, Democratic Republic of the Congo）
+[*Astalotermes eumenus* 蜾蠃无利器白蚁]({{ site.base_url }}/species/astalotermes-eumenus/)（tropical Africa, Democratic Republic of the Congo）
 
-Astalotermes hapalus 哈帕勒斯无利器白蚁（tropical Africa, Kenya）
+[*Astalotermes hapalus* 哈帕勒斯无利器白蚁]({{ site.base_url }}/species/astalotermes-hapalus/)（tropical Africa, Kenya）
 
-Astalotermes ignavus 懒惰无利器白蚁（tropical Africa, Congo）
+[*Astalotermes ignavus* 懒惰无利器白蚁]({{ site.base_url }}/species/astalotermes-ignavus/)（tropical Africa, Congo）
 
-Astalotermes impedians 慢行无利器白蚁（tropical Africa, Zambia）
+[*Astalotermes impedians* 慢行无利器白蚁]({{ site.base_url }}/species/astalotermes-impedians/)（tropical Africa, Zambia）
 
-Astalotermes irrixosus 和平无利器白蚁（tropical Africa, Sudan）
+[*Astalotermes irrixosus* 和平无利器白蚁]({{ site.base_url }}/species/astalotermes-irrixosus/)（tropical Africa, Sudan）
 
-Astalotermes mitis 温和无利器白蚁（tropical Africa, Malawi）
+[*Astalotermes mitis* 温和无利器白蚁]({{ site.base_url }}/species/astalotermes-mitis/)（tropical Africa, Malawi）
 
-Astalotermes murcus 懦弱无利器白蚁（tropical Africa, Cameroon, Congo, Zambia）
+[*Astalotermes murcus* 懦弱无利器白蚁]({{ site.base_url }}/species/astalotermes-murcus/)（tropical Africa, Cameroon, Congo, Zambia）
 
-Astalotermes obstructus 阻碍无利器白蚁（tropical Africa, Democratic Republic of the Congo）
+[*Astalotermes obstructus* 阻碍无利器白蚁]({{ site.base_url }}/species/astalotermes-obstructus/)（tropical Africa, Democratic Republic of the Congo）
 
-Astalotermes quietus 宁静无利器白蚁（West Africa, Central African Congo Basin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Ivory Coast, Nigeria, Rwanda, Sierra Leone）
+[*Astalotermes quietus* 宁静无利器白蚁]({{ site.base_url }}/species/astalotermes-quietus/)（West Africa, Central African Congo Basin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Ivory Coast, Nigeria, Rwanda, Sierra Leone）
 
 <h5 id="astratotermes">Astratotermes</h5>
 
-Astratotermes aneristus 赞比亚无刃白蚁（tropical Africa）
+[*Astratotermes aneristus* 赞比亚无刃白蚁]({{ site.base_url }}/species/astratotermes-aneristus/)（tropical Africa）
 
-Astratotermes apocnetus 小凶无刃白蚁（tropical Africa）
+[*Astratotermes apocnetus* 小凶无刃白蚁]({{ site.base_url }}/species/astratotermes-apocnetus/)（tropical Africa）
 
-Astratotermes hilarus 高兴无刃白蚁（Central African Congo Basin, East Africa, Cameroon, Democratic Republic of the Congo, Tanzania）
+[*Astratotermes hilarus* 高兴无刃白蚁]({{ site.base_url }}/species/astratotermes-hilarus/)（Central African Congo Basin, East Africa, Cameroon, Democratic Republic of the Congo, Tanzania）
 
-Astratotermes mansuetus 驯服无刃白蚁（tropical Africa）
+[*Astratotermes mansuetus* 驯服无刃白蚁]({{ site.base_url }}/species/astratotermes-mansuetus/)（tropical Africa）
 
-Astratotermes pacatus 平静无刃白蚁（tropical Africa）
+[*Astratotermes pacatus* 平静无刃白蚁]({{ site.base_url }}/species/astratotermes-pacatus/)（tropical Africa）
 
-\*Astratotermes prosenus 大型无刃白蚁（tropical Africa）
+\*[*Astratotermes prosenus* 大型无刃白蚁]({{ site.base_url }}/species/astratotermes-prosenus/)（tropical Africa）
 
 <h5 id="ateuchotermes">Ateuchotermes</h5>
 
-Ateuchotermes ctenopher 梳肠无锐白蚁（Cameroon, Democratic Republic of the Congo, Gabon）
+[*Ateuchotermes ctenopher* 梳肠无锐白蚁]({{ site.base_url }}/species/ateuchotermes-ctenopher/)（Cameroon, Democratic Republic of the Congo, Gabon）
 
-Ateuchotermes muricatus 胆怯无锐白蚁（Malawi, South Africa, Eswatini）
+[*Ateuchotermes muricatus* 胆怯无锐白蚁]({{ site.base_url }}/species/ateuchotermes-muricatus/)（Malawi, South Africa, Eswatini）
 
-\*Ateuchotermes pectinatus 梳痕无锐白蚁（Cameroon, Democratic Republic of the Congo, Kenya, Tanzania, Uganda）
+\*[*Ateuchotermes pectinatus* 梳痕无锐白蚁]({{ site.base_url }}/species/ateuchotermes-pectinatus/)（Cameroon, Democratic Republic of the Congo, Kenya, Tanzania, Uganda）
 
-Ateuchotermes rastratus 耙痕无锐白蚁（Cameroon, Ethiopia, Kenya, Tanzania）
+[*Ateuchotermes rastratus* 耙痕无锐白蚁]({{ site.base_url }}/species/ateuchotermes-rastratus/)（Cameroon, Ethiopia, Kenya, Tanzania）
 
-Ateuchotermes retifaciens 刚果无锐白蚁（Cameroon, Democratic Republic of the Congo）
+[*Ateuchotermes retifaciens* 刚果无锐白蚁]({{ site.base_url }}/species/ateuchotermes-retifaciens/)（Cameroon, Democratic Republic of the Congo）
 
-Ateuchotermes sentosus 多刺无锐白蚁（Cameroon, Congo, Guinea, Nigeria）
+[*Ateuchotermes sentosus* 多刺无锐白蚁]({{ site.base_url }}/species/ateuchotermes-sentosus/)（Cameroon, Congo, Guinea, Nigeria）
 
-Ateuchotermes spinulatus 小刺无锐白蚁（Democratic Republic of the Congo）
+[*Ateuchotermes spinulatus* 小刺无锐白蚁]({{ site.base_url }}/species/ateuchotermes-spinulatus/)（Democratic Republic of the Congo）
 
-Ateuchotermes tranquillus 宁静无锐白蚁（Guinea）
+[*Ateuchotermes tranquillus* 宁静无锐白蚁]({{ site.base_url }}/species/ateuchotermes-tranquillus/)（Guinea）
 
 <h5 id="caputitermes">Caputitermes</h5>
 
-\*Caputitermes dimorphus 二型首白蚁（Brazil）
+\*[*Caputitermes dimorphus* 二型首白蚁]({{ site.base_url }}/species/caputitermes-dimorphus/)（Brazil）
 
 <h5 id="chasitermes">Chasitermes</h5>
 
-\*Chasitermes pax 和平蔡斯白蚁（Trinidad and Tobago）
+\*[*Chasitermes pax* 和平蔡斯白蚁]({{ site.base_url }}/species/chasitermes-pax/)（Trinidad and Tobago）
 
 <h5 id="compositermes">Compositermes</h5>
 
-Compositermes bani 班恩肠刺白蚁（Bolivia, Brazil）
+[*Compositermes bani* 班恩肠刺白蚁]({{ site.base_url }}/species/compositermes-bani/)（Bolivia, Brazil）
 
-\*Compositermes vindai 文达肠刺白蚁（Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean）
+\*[*Compositermes vindai* 文达肠刺白蚁]({{ site.base_url }}/species/compositermes-vindai/)（Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean）
 
 <h5 id="coxotermes">Coxotermes</h5>
 
-\*Coxotermes boukokoensis 布科科基白蚁（Central Africa, Cameroon, Congo, Nigeria, Central African Republic）
+\*[*Coxotermes boukokoensis* 布科科基白蚁]({{ site.base_url }}/species/coxotermes-boukokoensis/)（Central Africa, Cameroon, Congo, Nigeria, Central African Republic）
 
 <h5 id="disjunctitermes">Disjunctitermes</h5>
 
-\*Disjunctitermes insularis 岛生间断白蚁（Brazil, Amazon region, Central America and Caribbean）
+\*[*Disjunctitermes insularis* 岛生间断白蚁]({{ site.base_url }}/species/disjunctitermes-insularis/)（Brazil, Amazon region, Central America and Caribbean）
 
 <h5 id="dissimulitermes">Dissimulitermes</h5>
 
-\*Dissimulitermes invisibilis 隐形隐藏白蚁（Brazil）
+\*[*Dissimulitermes invisibilis* 隐形隐藏白蚁]({{ site.base_url }}/species/dissimulitermes-invisibilis/)（Brazil）
 
 <h5 id="duplidentitermes">Duplidentitermes</h5>
 
-\*Duplidentitermes furcatidens 叉齿双齿白蚁（Cameroon, Central African Republic, Republic of the Congo (Brazzaville), Ghana, Côte d'Ivoire）
+\*[*Duplidentitermes furcatidens* 叉齿双齿白蚁]({{ site.base_url }}/species/duplidentitermes-furcatidens/)（Cameroon, Central African Republic, Republic of the Congo (Brazzaville), Ghana, Côte d'Ivoire）
 
-Duplidentitermes jurioni 朱里翁双齿白蚁（Angola, Democratic Republic of the Congo）
+[*Duplidentitermes jurioni* 朱里翁双齿白蚁]({{ site.base_url }}/species/duplidentitermes-jurioni/)（Angola, Democratic Republic of the Congo）
 
-Duplidentitermes latimentonis 宽颏双齿白蚁（Democratic Republic of the Congo）
+[*Duplidentitermes latimentonis* 宽颏双齿白蚁]({{ site.base_url }}/species/duplidentitermes-latimentonis/)（Democratic Republic of the Congo）
 
 <h5 id="ebogotermes">Ebogotermes</h5>
 
-\*Ebogotermes raphaeli 拉斐尔埃博戈白蚁（Cameroon）
+\*[*Ebogotermes raphaeli* 拉斐尔埃博戈白蚁]({{ site.base_url }}/species/ebogotermes-raphaeli/)（Cameroon）
 
 <h5 id="eburnitermes">Eburnitermes</h5>
 
-\*Eburnitermes grassei 格拉塞象牙白蚁（Cameroon, Ivory Coast, Nigeria）
+\*[*Eburnitermes grassei* 格拉塞象牙白蚁]({{ site.base_url }}/species/eburnitermes-grassei/)（Cameroon, Ivory Coast, Nigeria）
 
 <h5 id="echinotermes">Echinotermes</h5>
 
-\*Echinotermes biriba 比里巴多刺白蚁（South America, Colombia, Peru）
+\*[*Echinotermes biriba* 比里巴多刺白蚁]({{ site.base_url }}/species/echinotermes-biriba/)（South America, Colombia, Peru）
 
 <h5 id="euhamitermes">Euhamitermes</h5>
 
-Euhamitermes aruna 阿鲁纳亮白蚁（Oriental region）
+[*Euhamitermes aruna* 阿鲁纳亮白蚁]({{ site.base_url }}/species/euhamitermes-aruna/)（Oriental region）
 
-Euhamitermes bidentatus 双齿亮白蚁（Oriental region）
+[*Euhamitermes bidentatus* 双齿亮白蚁]({{ site.base_url }}/species/euhamitermes-bidentatus/)（Oriental region）
 
-Euhamitermes chhotanii 乔塔里亮白蚁（South Asia, India）
+[*Euhamitermes chhotanii* 乔塔里亮白蚁]({{ site.base_url }}/species/euhamitermes-chhotanii/)（South Asia, India）
 
-Euhamitermes concavigulus 匙颏亮白蚁（Oriental region）
+[*Euhamitermes concavigulus* 匙颏亮白蚁]({{ site.base_url }}/species/euhamitermes-concavigulus/)（Oriental region）
 
-Euhamitermes daweishanensis 大围亮白蚁（China, Yunnan）
+[*Euhamitermes daweishanensis* 大围亮白蚁]({{ site.base_url }}/species/euhamitermes-daweishanensis/)（China, Yunnan）
 
-Euhamitermes dentatus 具齿亮白蚁（India, Andhra Pradesh）
+[*Euhamitermes dentatus* 具齿亮白蚁]({{ site.base_url }}/species/euhamitermes-dentatus/)（India, Andhra Pradesh）
 
-Euhamitermes guizhouensis 贵州亮白蚁（China, Guizhou）
+[*Euhamitermes guizhouensis* 贵州亮白蚁]({{ site.base_url }}/species/euhamitermes-guizhouensis/)（China, Guizhou）
 
-\*Euhamitermes hamatus 多毛亮白蚁（Southeast Asia, Thailand and southern China）
+\*[*Euhamitermes hamatus* 多毛亮白蚁]({{ site.base_url }}/species/euhamitermes-hamatus/)（Southeast Asia, Thailand and southern China）
 
-Euhamitermes indicus 印度亮白蚁（India, Tamil Nadu）
+[*Euhamitermes indicus* 印度亮白蚁]({{ site.base_url }}/species/euhamitermes-indicus/)（India, Tamil Nadu）
 
-Euhamitermes kanhaensis 甘哈亮白蚁（South Asia, India）
+[*Euhamitermes kanhaensis* 甘哈亮白蚁]({{ site.base_url }}/species/euhamitermes-kanhaensis/)（South Asia, India）
 
-Euhamitermes karnatakensis 卡纳塔克亮白蚁（Karnataka, India）
+[*Euhamitermes karnatakensis* 卡纳塔克亮白蚁]({{ site.base_url }}/species/euhamitermes-karnatakensis/)（Karnataka, India）
 
-Euhamitermes lighti 莱特亮白蚁（South Asia, India）
+[*Euhamitermes lighti* 莱特亮白蚁]({{ site.base_url }}/species/euhamitermes-lighti/)（South Asia, India）
 
-Euhamitermes melanocephalus 黑头亮白蚁（Oriental region）
+[*Euhamitermes melanocephalus* 黑头亮白蚁]({{ site.base_url }}/species/euhamitermes-melanocephalus/)（Oriental region）
 
-Euhamitermes mengdingensis 孟定亮白蚁（China, Yunnan）
+[*Euhamitermes mengdingensis* 孟定亮白蚁]({{ site.base_url }}/species/euhamitermes-mengdingensis/)（China, Yunnan）
 
-Euhamitermes microcephalus 小头亮白蚁（Oriental region）
+[*Euhamitermes microcephalus* 小头亮白蚁]({{ site.base_url }}/species/euhamitermes-microcephalus/)（Oriental region）
 
-Euhamitermes quadratceps 方头亮白蚁（China）
+[*Euhamitermes quadratceps* 方头亮白蚁]({{ site.base_url }}/species/euhamitermes-quadratceps/)（China）
 
-Euhamitermes retusus 凹唇亮白蚁（Oriental region）
+[*Euhamitermes retusus* 凹唇亮白蚁]({{ site.base_url }}/species/euhamitermes-retusus/)（Oriental region）
 
-Euhamitermes shillongensis 西隆亮白蚁（South Asia, Meghalaya, India）
+[*Euhamitermes shillongensis* 西隆亮白蚁]({{ site.base_url }}/species/euhamitermes-shillongensis/)（South Asia, Meghalaya, India）
 
-Euhamitermes urbanii 乌尔巴尼亮白蚁（Oriental region）
+[*Euhamitermes urbanii* 乌尔巴尼亮白蚁]({{ site.base_url }}/species/euhamitermes-urbanii/)（Oriental region）
 
-Euhamitermes wittmeri 威特默亮白蚁（Oriental region）
+[*Euhamitermes wittmeri* 威特默亮白蚁]({{ site.base_url }}/species/euhamitermes-wittmeri/)（Oriental region）
 
-Euhamitermes yui 尤氏亮白蚁（China）
+[*Euhamitermes yui* 尤氏亮白蚁]({{ site.base_url }}/species/euhamitermes-yui/)（China）
 
-Euhamitermes yunnanensis 云南亮白蚁（China, Yunnan）
+[*Euhamitermes yunnanensis* 云南亮白蚁]({{ site.base_url }}/species/euhamitermes-yunnanensis/)（China, Yunnan）
 
-Euhamitermes yuntaishanensis 云台山亮白蚁（China, Yunnan）
+[*Euhamitermes yuntaishanensis* 云台山亮白蚁]({{ site.base_url }}/species/euhamitermes-yuntaishanensis/)（China, Yunnan）
 
-Euhamitermes zhejianensis 浙江亮白蚁（China, Zhejiang）
+[*Euhamitermes zhejianensis* 浙江亮白蚁]({{ site.base_url }}/species/euhamitermes-zhejianensis/)（China, Zhejiang）
 
 <h5 id="eurytermes">Eurytermes</h5>
 
-\*Eurytermes assmuthi 阿斯穆斯宽白蚁（South Asia, India）
+\*[*Eurytermes assmuthi* 阿斯穆斯宽白蚁]({{ site.base_url }}/species/eurytermes-assmuthi/)（South Asia, India）
 
-assmuthi 指名亚种
+[*assmuthi* 指名亚种]({{ site.base_url }}/species/eurytermes-assmuthi-assmuthi/)
 
-modestior 温和亚种
+[*modestior* 温和亚种]({{ site.base_url }}/species/eurytermes-assmuthi-modestior/)
 
-Eurytermes boveni 博文宽白蚁（Oriental region, India）
+[*Eurytermes boveni* 博文宽白蚁]({{ site.base_url }}/species/eurytermes-boveni/)（Oriental region, India）
 
-Eurytermes buddha 大佛宽白蚁（India, Tamil Nadu）
+[*Eurytermes buddha* 大佛宽白蚁]({{ site.base_url }}/species/eurytermes-buddha/)（India, Tamil Nadu）
 
-Eurytermes ceylonicus 锡兰宽白蚁（Sri Lanka）
+[*Eurytermes ceylonicus* 锡兰宽白蚁]({{ site.base_url }}/species/eurytermes-ceylonicus/)（Sri Lanka）
 
-Eurytermes mohana 莫罕娜宽白蚁（Oriental region, India）
+[*Eurytermes mohana* 莫罕娜宽白蚁]({{ site.base_url }}/species/eurytermes-mohana/)（Oriental region, India）
 
-Eurytermes topslipensis 托普斯利普宽白蚁（South Asia, Western Ghats, India）
+[*Eurytermes topslipensis* 托普斯利普宽白蚁]({{ site.base_url }}/species/eurytermes-topslipensis/)（South Asia, Western Ghats, India）
 
 <h5 id="firmitermes">Firmitermes</h5>
 
-\*Firmitermes abyssinicus 阿比西尼亚坚白蚁（Old World tropics, Ethiopia）
+\*[*Firmitermes abyssinicus* 阿比西尼亚坚白蚁]({{ site.base_url }}/species/firmitermes-abyssinicus/)（Old World tropics, Ethiopia）
 
 <h5 id="gastrotermes">Gastrotermes</h5>
 
-\*Gastrotermes spinatus 多刺胃白蚁（West/Central Africa, Cameroon）
+\*[*Gastrotermes spinatus* 多刺胃白蚁]({{ site.base_url }}/species/gastrotermes-spinatus/)（West/Central Africa, Cameroon）
 
 <h5 id="grigiotermes">Grigiotermes</h5>
 
-\*Grigiotermes hageni 哈根灰白蚁（Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago）
+\*[*Grigiotermes hageni* 哈根灰白蚁]({{ site.base_url }}/species/grigiotermes-hageni/)（Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago）
 
-Grigiotermes piassava 皮亚萨瓦灰白蚁（Brazil）
+[*Grigiotermes piassava* 皮亚萨瓦灰白蚁]({{ site.base_url }}/species/grigiotermes-piassava/)（Brazil）
 
 <h5 id="heimitermes">Heimitermes</h5>
 
-\*Heimitermes laticeps 宽头埃姆白蚁（Central Africa, Cameroon, Nigeria）
+\*[*Heimitermes laticeps* 宽头埃姆白蚁]({{ site.base_url }}/species/heimitermes-laticeps/)（Central Africa, Cameroon, Nigeria）
 
-Heimitermes moorei 穆尔埃姆白蚁（Old World tropics）
+[*Heimitermes moorei* 穆尔埃姆白蚁]({{ site.base_url }}/species/heimitermes-moorei/)（Old World tropics）
 
 <h5 id="hirsutitermes">Hirsutitermes</h5>
 
-\*Hirsutitermes kanzakii 神崎毛糙白蚁（Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela）
+\*[*Hirsutitermes kanzakii* 神崎毛糙白蚁]({{ site.base_url }}/species/hirsutitermes-kanzakii/)（Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela）
 
 <h5 id="hoplognathotermes">Hoplognathotermes</h5>
 
-Hoplognathotermes angolensis 安哥拉锐颚白蚁（Africa, Angola）
+[*Hoplognathotermes angolensis* 安哥拉锐颚白蚁]({{ site.base_url }}/species/hoplognathotermes-angolensis/)（Africa, Angola）
 
-Hoplognathotermes submissus 地下锐颚白蚁（Old World tropics, Cameroon）
+[*Hoplognathotermes submissus* 地下锐颚白蚁]({{ site.base_url }}/species/hoplognathotermes-submissus/)（Old World tropics, Cameroon）
 
-\*Hoplognathotermes subterraneus 土栖锐颚白蚁（West Africa, Côte d'Ivoire）
+\*[*Hoplognathotermes subterraneus* 土栖锐颚白蚁]({{ site.base_url }}/species/hoplognathotermes-subterraneus/)（West Africa, Côte d'Ivoire）
 
 <h5 id="humutermes">Humutermes</h5>
 
-\*Humutermes krishnai 克里希纳腐殖白蚁（Neotropics, Panama, Colombia, French Guiana, Brazil, Ecuador）
+\*[*Humutermes krishnai* 克里希纳腐殖白蚁]({{ site.base_url }}/species/humutermes-krishnai/)（Neotropics, Panama, Colombia, French Guiana, Brazil, Ecuador）
 
-Humutermes noiroti 努瓦罗腐殖白蚁（Neotropics）
+[*Humutermes noiroti* 努瓦罗腐殖白蚁]({{ site.base_url }}/species/humutermes-noiroti/)（Neotropics）
 
 <h5 id="hydrecotermes">Hydrecotermes</h5>
 
-\*Hydrecotermes arienesho 惊人海德瑞克白蚁（Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago）
+\*[*Hydrecotermes arienesho* 惊人海德瑞克白蚁]({{ site.base_url }}/species/hydrecotermes-arienesho/)（Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago）
 
-Hydrecotermes kawaii 可爱海德瑞克白蚁（Colombia, French Guiana, Brazil, Argentina, Bolivia, Panama, Paraguay, Peru, Trinidad and Tobago）
+[*Hydrecotermes kawaii* 可爱海德瑞克白蚁]({{ site.base_url }}/species/hydrecotermes-kawaii/)（Colombia, French Guiana, Brazil, Argentina, Bolivia, Panama, Paraguay, Peru, Trinidad and Tobago）
 
 <h5 id="indotermes">Indotermes</h5>
 
-Indotermes arshadi 阿沙德印白蚁（Oriental region）
+[*Indotermes arshadi* 阿沙德印白蚁]({{ site.base_url }}/species/indotermes-arshadi/)（Oriental region）
 
-Indotermes capillosus 多毛印白蚁（Oriental region）
+[*Indotermes capillosus* 多毛印白蚁]({{ site.base_url }}/species/indotermes-capillosus/)（Oriental region）
 
-Indotermes hainanensis 海南印白蚁（China, Hainan）
+[*Indotermes hainanensis* 海南印白蚁]({{ site.base_url }}/species/indotermes-hainanensis/)（China, Hainan）
 
-Indotermes isodentatus 等齿印白蚁（Oriental region）
+[*Indotermes isodentatus* 等齿印白蚁]({{ site.base_url }}/species/indotermes-isodentatus/)（Oriental region）
 
-Indotermes luxiensis 潞西印白蚁（China, Yunnan）
+[*Indotermes luxiensis* 潞西印白蚁]({{ site.base_url }}/species/indotermes-luxiensis/)（China, Yunnan）
 
-\*Indotermes maymensis 眉妙印白蚁（Myanmar, China）
+\*[*Indotermes maymensis* 眉妙印白蚁]({{ site.base_url }}/species/indotermes-maymensis/)（Myanmar, China）
 
-Indotermes menggarensis 勐戛印白蚁（China, Tibet）
+[*Indotermes menggarensis* 勐戛印白蚁]({{ site.base_url }}/species/indotermes-menggarensis/)（China, Tibet）
 
-Indotermes rongrensis 龙格伦吉里印白蚁（Oriental region）
+[*Indotermes rongrensis* 龙格伦吉里印白蚁]({{ site.base_url }}/species/indotermes-rongrensis/)（Oriental region）
 
-Indotermes thailandis 泰国印白蚁（Thailand）
+[*Indotermes thailandis* 泰国印白蚁]({{ site.base_url }}/species/indotermes-thailandis/)（Thailand）
 
-Indotermes yunnanensis 云南印白蚁（China, Yunnan）
+[*Indotermes yunnanensis* 云南印白蚁]({{ site.base_url }}/species/indotermes-yunnanensis/)（China, Yunnan）
 
 <h5 id="jugositermes">Jugositermes</h5>
 
-\*Jugositermes tuberculatus 具瘤岗白蚁（Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria）
+\*[*Jugositermes tuberculatus* 具瘤岗白蚁]({{ site.base_url }}/species/jugositermes-tuberculatus/)（Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria）
 
 <h5 id="koutabatermes">Koutabatermes</h5>
 
-\*Koutabatermes spinifer 具刺库塔巴白蚁（Neotropics (specific countries not verified), Cameroon）
+\*[*Koutabatermes spinifer* 具刺库塔巴白蚁]({{ site.base_url }}/species/koutabatermes-spinifer/)（Neotropics (specific countries not verified), Cameroon）
 
 <h5 id="krecekitermes">Krecekitermes</h5>
 
-\*Krecekitermes daironi 戴龙克雷切克白蚁（South America, Colombia, French Guiana）
+\*[*Krecekitermes daironi* 戴龙克雷切克白蚁]({{ site.base_url }}/species/krecekitermes-daironi/)（South America, Colombia, French Guiana）
 
 <h5 id="labidotermes">Labidotermes</h5>
 
-\*Labidotermes celisi 塞利斯钳白蚁（Central African Republic, Cameroon）
+\*[*Labidotermes celisi* 塞利斯钳白蚁]({{ site.base_url }}/species/labidotermes-celisi/)（Central African Republic, Cameroon）
 
 <h5 id="longustitermes">Longustitermes</h5>
 
-\*Longustitermes manni 曼长工白蚁（Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Honduras, Panama）
+\*[*Longustitermes manni* 曼长工白蚁]({{ site.base_url }}/species/longustitermes-manni/)（Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Honduras, Panama）
 
 <h5 id="machadotermes">Machadotermes</h5>
 
-\*Machadotermes inflatus 过高剑白蚁（Old World tropics）
+\*[*Machadotermes inflatus* 过高剑白蚁]({{ site.base_url }}/species/machadotermes-inflatus/)（Old World tropics）
 
-Machadotermes latus 宽剑白蚁（Old World tropics）
+[*Machadotermes latus* 宽剑白蚁]({{ site.base_url }}/species/machadotermes-latus/)（Old World tropics）
 
-Machadotermes rigidus 强直剑白蚁（Old World tropics）
+[*Machadotermes rigidus* 强直剑白蚁]({{ site.base_url }}/species/machadotermes-rigidus/)（Old World tropics）
 
 <h5 id="mangolditermes">Mangolditermes</h5>
 
-\*Mangolditermes curveileum 曲回曼戈尔德白蚁（South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago）
+\*[*Mangolditermes curveileum* 曲回曼戈尔德白蚁]({{ site.base_url }}/species/mangolditermes-curveileum/)（South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago）
 
 <h5 id="ourissotermes">Ourissotermes</h5>
 
-\*Ourissotermes giblinorum 吉布林海胆白蚁（South America）
+\*[*Ourissotermes giblinorum* 吉布林海胆白蚁]({{ site.base_url }}/species/ourissotermes-giblinorum/)（South America）
 
 <h5 id="patawatermes">Patawatermes</h5>
 
-Patawatermes nigripunctatus 黑点帕塔瓦白蚁（South America, Colombia, French Guiana, Ecuador, Brazil, Bolivia, Peru, Trinidad and Tobago）
+[*Patawatermes nigripunctatus* 黑点帕塔瓦白蚁]({{ site.base_url }}/species/patawatermes-nigripunctatus/)（South America, Colombia, French Guiana, Ecuador, Brazil, Bolivia, Peru, Trinidad and Tobago）
 
-\*Patawatermes turricola 土栖帕塔瓦白蚁（South America, Colombia, Brazil, Peru, Ecuador, Venezuela, Paraguay, Argentina, Bolivia, Panama, Trinidad and Tobago）
+\*[*Patawatermes turricola* 土栖帕塔瓦白蚁]({{ site.base_url }}/species/patawatermes-turricola/)（South America, Colombia, Brazil, Peru, Ecuador, Venezuela, Paraguay, Argentina, Bolivia, Panama, Trinidad and Tobago）
 
 <h5 id="phoxotermes">Phoxotermes</h5>
 
-\*Phoxotermes cerberus 三头犬锐白蚁（Central Africa, Cameroon, Congo）
+\*[*Phoxotermes cerberus* 三头犬锐白蚁]({{ site.base_url }}/species/phoxotermes-cerberus/)（Central Africa, Cameroon, Congo）
 
 <h5 id="rostrotermes">Rostrotermes</h5>
 
-\*Rostrotermes cornutus 具角突吻白蚁（West Africa, Ivory Coast, Guinea, Liberia, Nigeria, Sierra Leone）
+\*[*Rostrotermes cornutus* 具角突吻白蚁]({{ site.base_url }}/species/rostrotermes-cornutus/)（West Africa, Ivory Coast, Guinea, Liberia, Nigeria, Sierra Leone）
 
 <h5 id="rubeotermes">Rubeotermes</h5>
 
-\*Rubeotermes jheringi 耶林变红白蚁（South America, Brazil, Colombia, French Guiana, Trinidad and Tobago）
+\*[*Rubeotermes jheringi* 耶林变红白蚁]({{ site.base_url }}/species/rubeotermes-jheringi/)（South America, Brazil, Colombia, French Guiana, Trinidad and Tobago）
 
 <h5 id="ruptitermes">Ruptitermes</h5>
 
-Ruptitermes araujoi 阿劳若腹爆白蚁（Brazil）
+[*Ruptitermes araujoi* 阿劳若腹爆白蚁]({{ site.base_url }}/species/ruptitermes-araujoi/)（Brazil）
 
-Ruptitermes arboreus 树栖腹爆白蚁（Brazil and neighboring South American countries, Colombia, Guyana, French Guiana, Suriname）
+[*Ruptitermes arboreus* 树栖腹爆白蚁]({{ site.base_url }}/species/ruptitermes-arboreus/)（Brazil and neighboring South American countries, Colombia, Guyana, French Guiana, Suriname）
 
-Ruptitermes atyra 硬毛腹爆白蚁（South America, Colombia, Brazil, Panama, Peru）
+[*Ruptitermes atyra* 硬毛腹爆白蚁]({{ site.base_url }}/species/ruptitermes-atyra/)（South America, Colombia, Brazil, Panama, Peru）
 
-Ruptitermes bandeirai 班代拉腹爆白蚁（Brazil）
+[*Ruptitermes bandeirai* 班代拉腹爆白蚁]({{ site.base_url }}/species/ruptitermes-bandeirai/)（Brazil）
 
-Ruptitermes cangua 圆头腹爆白蚁（South America, French Guiana, Brazil）
+[*Ruptitermes cangua* 圆头腹爆白蚁]({{ site.base_url }}/species/ruptitermes-cangua/)（South America, French Guiana, Brazil）
 
-Ruptitermes franciscoi 弗朗西斯科腹爆白蚁（South America, Brazil, French Guiana, Venezuela, Bolivia, Colombia）
+[*Ruptitermes franciscoi* 弗朗西斯科腹爆白蚁]({{ site.base_url }}/species/ruptitermes-franciscoi/)（South America, Brazil, French Guiana, Venezuela, Bolivia, Colombia）
 
-Ruptitermes kaapora 林栖腹爆白蚁（Brazil, Paraguay）
+[*Ruptitermes kaapora* 林栖腹爆白蚁]({{ site.base_url }}/species/ruptitermes-kaapora/)（Brazil, Paraguay）
 
-Ruptitermes krishnai 克里希纳腹爆白蚁（Brazil, Trinidad and Tobago）
+[*Ruptitermes krishnai* 克里希纳腹爆白蚁]({{ site.base_url }}/species/ruptitermes-krishnai/)（Brazil, Trinidad and Tobago）
 
-Ruptitermes maraca 马拉卡腹爆白蚁（Brazil）
+[*Ruptitermes maraca* 马拉卡腹爆白蚁]({{ site.base_url }}/species/ruptitermes-maraca/)（Brazil）
 
-Ruptitermes piliceps 毛头腹爆白蚁（South America, Colombia, Brazil）
+[*Ruptitermes piliceps* 毛头腹爆白蚁]({{ site.base_url }}/species/ruptitermes-piliceps/)（South America, Colombia, Brazil）
 
-Ruptitermes pitan 红头腹爆白蚁（Brazil）
+[*Ruptitermes pitan* 红头腹爆白蚁]({{ site.base_url }}/species/ruptitermes-pitan/)（Brazil）
 
-Ruptitermes reconditus 隐匿腹爆白蚁（Neotropics, Panama, Brazil, Colombia, Venezuela, Bolivia, Ecuador, Argentina, French Guiana, Paraguay, Peru）
+[*Ruptitermes reconditus* 隐匿腹爆白蚁]({{ site.base_url }}/species/ruptitermes-reconditus/)（Neotropics, Panama, Brazil, Colombia, Venezuela, Bolivia, Ecuador, Argentina, French Guiana, Paraguay, Peru）
 
-\*Ruptitermes xanthochiton 黄袍腹爆白蚁（South America, Brazil, Paraguay, French Guiana, Bolivia）
+\*[*Ruptitermes xanthochiton* 黄袍腹爆白蚁]({{ site.base_url }}/species/ruptitermes-xanthochiton/)（South America, Brazil, Paraguay, French Guiana, Bolivia）
 
 <h5 id="rustitermes">Rustitermes</h5>
 
-\*Rustitermes boteroi 博特罗拉斯特白蚁（South America, Colombia, French Guiana, Brazil, Trinidad and Tobago）
+\*[*Rustitermes boteroi* 博特罗拉斯特白蚁]({{ site.base_url }}/species/rustitermes-boteroi/)（South America, Colombia, French Guiana, Brazil, Trinidad and Tobago）
 
 <h5 id="skatitermes">Skatitermes</h5>
 
-\*Skatitermes psammophilus 喜沙洁白蚁（southern Africa (South Africa)）
+\*[*Skatitermes psammophilus* 喜沙洁白蚁]({{ site.base_url }}/species/skatitermes-psammophilus/)（southern Africa (South Africa)）
 
-Skatitermes watti 瓦特洁白蚁（southern Africa (South Africa)）
+[*Skatitermes watti* 瓦特洁白蚁]({{ site.base_url }}/species/skatitermes-watti/)（southern Africa (South Africa)）
 
 <h5 id="speculitermes">Speculitermes</h5>
 
-Speculitermes angustigulus 狭颏稀白蚁（South Asia, India, China）
+[*Speculitermes angustigulus* 狭颏稀白蚁]({{ site.base_url }}/species/speculitermes-angustigulus/)（South Asia, India, China）
 
-Speculitermes chadaensis 查达稀白蚁（South Asia, India）
+[*Speculitermes chadaensis* 查达稀白蚁]({{ site.base_url }}/species/speculitermes-chadaensis/)（South Asia, India）
 
-\*Speculitermes cyclops 巨人稀白蚁（South Asia, India）
+\*[*Speculitermes cyclops* 巨人稀白蚁]({{ site.base_url }}/species/speculitermes-cyclops/)（South Asia, India）
 
-Speculitermes deccanensis 德干稀白蚁（South Asia, Deccan, India）
+[*Speculitermes deccanensis* 德干稀白蚁]({{ site.base_url }}/species/speculitermes-deccanensis/)（South Asia, Deccan, India）
 
-Speculitermes dharwarensis 塔尔瓦尔稀白蚁（South Asia, Karnataka, India）
+[*Speculitermes dharwarensis* 塔尔瓦尔稀白蚁]({{ site.base_url }}/species/speculitermes-dharwarensis/)（South Asia, Karnataka, India）
 
-Speculitermes emersoni 埃默森稀白蚁（South Asia, India）
+[*Speculitermes emersoni* 埃默森稀白蚁]({{ site.base_url }}/species/speculitermes-emersoni/)（South Asia, India）
 
-Speculitermes goesswaldi 格斯瓦尔德稀白蚁（South Asia, India）
+[*Speculitermes goesswaldi* 格斯瓦尔德稀白蚁]({{ site.base_url }}/species/speculitermes-goesswaldi/)（South Asia, India）
 
-Speculitermes latalabrum 宽唇稀白蚁（South Asia, India）
+[*Speculitermes latalabrum* 宽唇稀白蚁]({{ site.base_url }}/species/speculitermes-latalabrum/)（South Asia, India）
 
-Speculitermes macrodentatus 大齿稀白蚁（southern China, Thailand, Cambodia）
+[*Speculitermes macrodentatus* 大齿稀白蚁]({{ site.base_url }}/species/speculitermes-macrodentatus/)（southern China, Thailand, Cambodia）
 
-Speculitermes paivai 派瓦稀白蚁（South Asia, India）
+[*Speculitermes paivai* 派瓦稀白蚁]({{ site.base_url }}/species/speculitermes-paivai/)（South Asia, India）
 
-Speculitermes roonwali 鲁恩沃稀白蚁（South Asia, India）
+[*Speculitermes roonwali* 鲁恩沃稀白蚁]({{ site.base_url }}/species/speculitermes-roonwali/)（South Asia, India）
 
-Speculitermes sinhalensis 僧伽罗稀白蚁（Sri Lanka, India）
+[*Speculitermes sinhalensis* 僧伽罗稀白蚁]({{ site.base_url }}/species/speculitermes-sinhalensis/)（Sri Lanka, India）
 
-Speculitermes triangularis 三角稀白蚁（South Asia, India）
+[*Speculitermes triangularis* 三角稀白蚁]({{ site.base_url }}/species/speculitermes-triangularis/)（South Asia, India）
 
 <h5 id="tetimatermes">Tetimatermes</h5>
 
-\*Tetimatermes oliveirae 橄榄树足白蚁（Brazil）
+\*[*Tetimatermes oliveirae* 橄榄树足白蚁]({{ site.base_url }}/species/tetimatermes-oliveirae/)（Brazil）
 
 <h5 id="tonsuritermes">Tonsuritermes</h5>
 
-Tonsuritermes mathewsi 马修斯奇囟白蚁（Brazil）
+[*Tonsuritermes mathewsi* 马修斯奇囟白蚁]({{ site.base_url }}/species/tonsuritermes-mathewsi/)（Brazil）
 
-\*Tonsuritermes tucki 塔克奇囟白蚁（South America, Brazil, Colombia, French Guiana, Paraguay, Peru）
+\*[*Tonsuritermes tucki* 塔克奇囟白蚁]({{ site.base_url }}/species/tonsuritermes-tucki/)（South America, Brazil, Colombia, French Guiana, Paraguay, Peru）
 
 <h5 id="trichotermes">Trichotermes</h5>
 
-Trichotermes ducis 首领发白蚁（Old World tropics, Democratic Republic of the Congo）
+[*Trichotermes ducis* 首领发白蚁]({{ site.base_url }}/species/trichotermes-ducis/)（Old World tropics, Democratic Republic of the Congo）
 
-Trichotermes machadoi 马查多发白蚁（Old World tropics）
+[*Trichotermes machadoi* 马查多发白蚁]({{ site.base_url }}/species/trichotermes-machadoi/)（Old World tropics）
 
-\*Trichotermes villifrons 毛额发白蚁（Africa, Democratic Republic of the Congo, Central Africa, Republic of the Congo）
+\*[*Trichotermes villifrons* 毛额发白蚁]({{ site.base_url }}/species/trichotermes-villifrons/)（Africa, Democratic Republic of the Congo, Central Africa, Republic of the Congo）
 
 <h5 id="triclavitermes">Triclavitermes</h5>
 
-\*Triclavitermes catoleensis 卡托莱三棒白蚁（Brazil, Bahia）
+\*[*Triclavitermes catoleensis* 卡托莱三棒白蚁]({{ site.base_url }}/species/triclavitermes-catoleensis/)（Brazil, Bahia）
 
 <h5 id="tucupitermes">Tucupitermes</h5>
 
-\*Tucupitermes ubixaba 乌比沙巴黄汁白蚁（Brazil）
+\*[*Tucupitermes ubixaba* 乌比沙巴黄汁白蚁]({{ site.base_url }}/species/tucupitermes-ubixaba/)（Brazil）
 
 <h4 id="crepititermitinae">Crepititermitinae</h4>
 
@@ -3416,7 +3416,7 @@ Crepititermes verruculosus 多疣响白蚁（Supplementary material of reference
 
 <h5 id="crepititermes">Crepititermes</h5>
 
-\*Crepititermes verruculosus 多疣响白蚁（South America, Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago）
+\*[*Crepititermes verruculosus* 多疣响白蚁]({{ site.base_url }}/species/crepititermes-verruculosus/)（South America, Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago）
 
 <h4 id="cubitermitinae">Cubitermitinae</h4>
 
@@ -3428,355 +3428,355 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="apilitermes">Apilitermes</h5>
 
-\*Apilitermes longiceps 长头无毛白蚁（Old World tropics, Congo, Nigeria）
+\*[*Apilitermes longiceps* 长头无毛白蚁]({{ site.base_url }}/species/apilitermes-longiceps/)（Old World tropics, Congo, Nigeria）
 
 <h5 id="basidentitermes">Basidentitermes</h5>
 
-Basidentitermes amicus 友善基齿白蚁（Old World tropics, Tanzania）
+[*Basidentitermes amicus* 友善基齿白蚁]({{ site.base_url }}/species/basidentitermes-amicus/)（Old World tropics, Tanzania）
 
-\*Basidentitermes aurivillii 奥里维尔基齿白蚁（West Africa, Togo, Nigeria, Ghana, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Sudan, Uganda）
+\*[*Basidentitermes aurivillii* 奥里维尔基齿白蚁]({{ site.base_url }}/species/basidentitermes-aurivillii/)（West Africa, Togo, Nigeria, Ghana, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Sudan, Uganda）
 
-Basidentitermes demoulini 德穆兰基齿白蚁（Old World tropics, Cameroon, Democratic Republic of the Congo, Tanzania）
+[*Basidentitermes demoulini* 德穆兰基齿白蚁]({{ site.base_url }}/species/basidentitermes-demoulini/)（Old World tropics, Cameroon, Democratic Republic of the Congo, Tanzania）
 
-Basidentitermes diversifrons 裂额基齿白蚁（Old World tropics, Cameroon, Republic of the Congo）
+[*Basidentitermes diversifrons* 裂额基齿白蚁]({{ site.base_url }}/species/basidentitermes-diversifrons/)（Old World tropics, Cameroon, Republic of the Congo）
 
-Basidentitermes mactus 荣耀基齿白蚁（West Africa, Guinea, Liberia, Ghana, Côte d'Ivoire, Nigeria, Cameroon, Tanzania）
+[*Basidentitermes mactus* 荣耀基齿白蚁]({{ site.base_url }}/species/basidentitermes-mactus/)（West Africa, Guinea, Liberia, Ghana, Côte d'Ivoire, Nigeria, Cameroon, Tanzania）
 
-mactus 指名亚种
+[*mactus* 指名亚种]({{ site.base_url }}/species/basidentitermes-mactus-mactus/)
 
-supera 上亚种
+[*supera* 上亚种]({{ site.base_url }}/species/basidentitermes-mactus-supera/)
 
-Basidentitermes malelaensis 马雷拉基齿白蚁（Africa, Congo, Cameroon, Democratic Republic of the Congo, Gabon, Ghana）
+[*Basidentitermes malelaensis* 马雷拉基齿白蚁]({{ site.base_url }}/species/basidentitermes-malelaensis/)（Africa, Congo, Cameroon, Democratic Republic of the Congo, Gabon, Ghana）
 
-Basidentitermes potens 强壮基齿白蚁（West Africa, Côte d'Ivoire, Gambia, Togo, Nigeria, Senegal, Cameroon, Tanzania）
+[*Basidentitermes potens* 强壮基齿白蚁]({{ site.base_url }}/species/basidentitermes-potens/)（West Africa, Côte d'Ivoire, Gambia, Togo, Nigeria, Senegal, Cameroon, Tanzania）
 
-Basidentitermes trilobatus 三裂基齿白蚁（Old World tropics）
+[*Basidentitermes trilobatus* 三裂基齿白蚁]({{ site.base_url }}/species/basidentitermes-trilobatus/)（Old World tropics）
 
 <h5 id="batillitermes">Batillitermes</h5>
 
-Batillitermes clypeatus 大唇铲白蚁（southern Africa, South Africa, Nigeria）
+[*Batillitermes clypeatus* 大唇铲白蚁]({{ site.base_url }}/species/batillitermes-clypeatus/)（southern Africa, South Africa, Nigeria）
 
-\*Batillitermes monachus 僧侣铲白蚁（southern Africa, South Africa, Zimbabwe）
+\*[*Batillitermes monachus* 僧侣铲白蚁]({{ site.base_url }}/species/batillitermes-monachus/)（southern Africa, South Africa, Zimbabwe）
 
 <h5 id="crenetermes">Crenetermes</h5>
 
-\*Crenetermes albotarsalis 白跗刻痕白蚁（Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Tanzania, Zambia）
+\*[*Crenetermes albotarsalis* 白跗刻痕白蚁]({{ site.base_url }}/species/crenetermes-albotarsalis/)（Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Tanzania, Zambia）
 
-Crenetermes elongatus 细长刻痕白蚁（Old World tropics）
+[*Crenetermes elongatus* 细长刻痕白蚁]({{ site.base_url }}/species/crenetermes-elongatus/)（Old World tropics）
 
-Crenetermes fruitus 可爱刻痕白蚁（Old World tropics）
+[*Crenetermes fruitus* 可爱刻痕白蚁]({{ site.base_url }}/species/crenetermes-fruitus/)（Old World tropics）
 
-Crenetermes mandibulatus 大颚刻痕白蚁（Old World tropics）
+[*Crenetermes mandibulatus* 大颚刻痕白蚁]({{ site.base_url }}/species/crenetermes-mandibulatus/)（Old World tropics）
 
-Crenetermes mixtus 混杂刻痕白蚁（Old World tropics）
+[*Crenetermes mixtus* 混杂刻痕白蚁]({{ site.base_url }}/species/crenetermes-mixtus/)（Old World tropics）
 
 <h5 id="cubitermes">Cubitermes</h5>
 
-Cubitermes atrox 凶猛方白蚁（Old World tropics）
+[*Cubitermes atrox* 凶猛方白蚁]({{ site.base_url }}/species/cubitermes-atrox/)（Old World tropics）
 
-\*Cubitermes bilobatus 双裂方白蚁（southern Africa, South Africa, Democratic Republic of the Congo, Nigeria, Sudan, Tanzania）
+\*[*Cubitermes bilobatus* 双裂方白蚁]({{ site.base_url }}/species/cubitermes-bilobatus/)（southern Africa, South Africa, Democratic Republic of the Congo, Nigeria, Sudan, Tanzania）
 
-Cubitermes caesareus 凯撒方白蚁（Old World tropics）
+[*Cubitermes caesareus* 凯撒方白蚁]({{ site.base_url }}/species/cubitermes-caesareus/)（Old World tropics）
 
-Cubitermes conjenii 康杰尼方白蚁（southern Africa, South Africa）
+[*Cubitermes conjenii* 康杰尼方白蚁]({{ site.base_url }}/species/cubitermes-conjenii/)（southern Africa, South Africa）
 
-Cubitermes exiguus 短小方白蚁（Africa, Democratic Republic of the Congo）
+[*Cubitermes exiguus* 短小方白蚁]({{ site.base_url }}/species/cubitermes-exiguus/)（Africa, Democratic Republic of the Congo）
 
-Cubitermes pretorianus 比勒陀利亚方白蚁（southern Africa, South Africa）
+[*Cubitermes pretorianus* 比勒陀利亚方白蚁]({{ site.base_url }}/species/cubitermes-pretorianus/)（southern Africa, South Africa）
 
-heidelbergi 海德堡亚种
+[*heidelbergi* 海德堡亚种]({{ site.base_url }}/species/cubitermes-pretorianus-heidelbergi/)
 
-pretorianus 指名亚种
+[*pretorianus* 指名亚种]({{ site.base_url }}/species/cubitermes-pretorianus-pretorianus/)
 
-Cubitermes sanctaeluciae 圣卢西亚方白蚁（southern Africa, South Africa, Zambia）
+[*Cubitermes sanctaeluciae* 圣卢西亚方白蚁]({{ site.base_url }}/species/cubitermes-sanctaeluciae/)（southern Africa, South Africa, Zambia）
 
-Cubitermes tenuiceps 细头方白蚁（Africa, Democratic Republic of the Congo）
+[*Cubitermes tenuiceps* 细头方白蚁]({{ site.base_url }}/species/cubitermes-tenuiceps/)（Africa, Democratic Republic of the Congo）
 
-Cubitermes transvaalensis 德兰士瓦方白蚁（southern Africa, Transvaal, South Africa, Zambia）
+[*Cubitermes transvaalensis* 德兰士瓦方白蚁]({{ site.base_url }}/species/cubitermes-transvaalensis/)（southern Africa, Transvaal, South Africa, Zambia）
 
-Cubitermes zulucola 祖鲁兰方白蚁（southern Africa, South Africa (Zululand)）
+[*Cubitermes zulucola* 祖鲁兰方白蚁]({{ site.base_url }}/species/cubitermes-zulucola/)（southern Africa, South Africa (Zululand)）
 
-Cubitermes zuluensis 祖鲁方白蚁（southern Africa, South Africa (Zululand)）
+[*Cubitermes zuluensis* 祖鲁方白蚁]({{ site.base_url }}/species/cubitermes-zuluensis/)（southern Africa, South Africa (Zululand)）
 
 <h5 id="euchilotermes">Euchilotermes</h5>
 
-Euchilotermes acutidens 尖齿真唇白蚁（Old World tropics）
+[*Euchilotermes acutidens* 尖齿真唇白蚁]({{ site.base_url }}/species/euchilotermes-acutidens/)（Old World tropics）
 
-Euchilotermes quadriceps 方头真唇白蚁（Old World tropics）
+[*Euchilotermes quadriceps* 方头真唇白蚁]({{ site.base_url }}/species/euchilotermes-quadriceps/)（Old World tropics）
 
-\*Euchilotermes tensus 拉长真唇白蚁（West Africa, Gambia, Guinea, Sierra Leone, Ghana, Côte d'Ivoire, Nigeria, Cameroon）
+\*[*Euchilotermes tensus* 拉长真唇白蚁]({{ site.base_url }}/species/euchilotermes-tensus/)（West Africa, Gambia, Guinea, Sierra Leone, Ghana, Côte d'Ivoire, Nigeria, Cameroon）
 
-arcuata 弓形亚种
+[*arcuata* 弓形亚种]({{ site.base_url }}/species/euchilotermes-tensus-arcuata/)
 
-tensus 指名亚种
+[*tensus* 指名亚种]({{ site.base_url }}/species/euchilotermes-tensus-tensus/)
 
-Euchilotermes umbraticola 隐蔽真唇白蚁（Old World tropics）
+[*Euchilotermes umbraticola* 隐蔽真唇白蚁]({{ site.base_url }}/species/euchilotermes-umbraticola/)（Old World tropics）
 
 <h5 id="fastigitermes">Fastigitermes</h5>
 
-\*Fastigitermes jucundus 可爱峰白蚁（Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria）
+\*[*Fastigitermes jucundus* 可爱峰白蚁]({{ site.base_url }}/species/fastigitermes-jucundus/)（Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria）
 
 <h5 id="furculitermes">Furculitermes</h5>
 
-Furculitermes brevilabius 短唇叉白蚁（Old World tropics）
+[*Furculitermes brevilabius* 短唇叉白蚁]({{ site.base_url }}/species/furculitermes-brevilabius/)（Old World tropics）
 
-Furculitermes brevimalatus 短颚叉白蚁（Old World tropics）
+[*Furculitermes brevimalatus* 短颚叉白蚁]({{ site.base_url }}/species/furculitermes-brevimalatus/)（Old World tropics）
 
-Furculitermes cubitalis 急弯叉白蚁（Old World tropics）
+[*Furculitermes cubitalis* 急弯叉白蚁]({{ site.base_url }}/species/furculitermes-cubitalis/)（Old World tropics）
 
-Furculitermes hendrickxi 亨德里克斯叉白蚁（Old World tropics）
+[*Furculitermes hendrickxi* 亨德里克斯叉白蚁]({{ site.base_url }}/species/furculitermes-hendrickxi/)（Old World tropics）
 
-Furculitermes longilabius 长唇叉白蚁（Old World tropics）
+[*Furculitermes longilabius* 长唇叉白蚁]({{ site.base_url }}/species/furculitermes-longilabius/)（Old World tropics）
 
-Furculitermes parviceps 小头叉白蚁（Central African Republic, Cameroon）
+[*Furculitermes parviceps* 小头叉白蚁]({{ site.base_url }}/species/furculitermes-parviceps/)（Central African Republic, Cameroon）
 
-Furculitermes soyeri 索耶叉白蚁（Old World tropics）
+[*Furculitermes soyeri* 索耶叉白蚁]({{ site.base_url }}/species/furculitermes-soyeri/)（Old World tropics）
 
-\*Furculitermes winifredae 威尼弗雷德叉白蚁（Old World tropics）
+\*[*Furculitermes winifredae* 威尼弗雷德叉白蚁]({{ site.base_url }}/species/furculitermes-winifredae/)（Old World tropics）
 
 <h5 id="isognathotermes">Isognathotermes</h5>
 
-Isognathotermes bulbifrons 球额等颚白蚁（tropical Africa）
+[*Isognathotermes bulbifrons* 球额等颚白蚁]({{ site.base_url }}/species/isognathotermes-bulbifrons/)（tropical Africa）
 
-Isognathotermes congoensis 刚果等颚白蚁（Democratic Republic of the Congo）
+[*Isognathotermes congoensis* 刚果等颚白蚁]({{ site.base_url }}/species/isognathotermes-congoensis/)（Democratic Republic of the Congo）
 
-Isognathotermes finitimus 近邻等颚白蚁（tropical Africa）
+[*Isognathotermes finitimus* 近邻等颚白蚁]({{ site.base_url }}/species/isognathotermes-finitimus/)（tropical Africa）
 
-Isognathotermes fungifaber 菌匠等颚白蚁（tropical Africa）
+[*Isognathotermes fungifaber* 菌匠等颚白蚁]({{ site.base_url }}/species/isognathotermes-fungifaber/)（tropical Africa）
 
-\*Isognathotermes minitabundus 威吓等颚白蚁（tropical Africa）
+\*[*Isognathotermes minitabundus* 威吓等颚白蚁]({{ site.base_url }}/species/isognathotermes-minitabundus/)（tropical Africa）
 
-Isognathotermes planifrons 平额等颚白蚁（tropical Africa）
+[*Isognathotermes planifrons* 平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-planifrons/)（tropical Africa）
 
-Isognathotermes severus 严肃等颚白蚁（West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania）
+[*Isognathotermes severus* 严肃等颚白蚁]({{ site.base_url }}/species/isognathotermes-severus/)（West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania）
 
-Isognathotermes ugandensis 乌干达等颚白蚁（Uganda, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Zambia）
+[*Isognathotermes ugandensis* 乌干达等颚白蚁]({{ site.base_url }}/species/isognathotermes-ugandensis/)（Uganda, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Zambia）
 
-Isognathotermes zenkeri 岑克等颚白蚁（Cameroon, Democratic Republic of the Congo）
+[*Isognathotermes zenkeri* 岑克等颚白蚁]({{ site.base_url }}/species/isognathotermes-zenkeri/)（Cameroon, Democratic Republic of the Congo）
 
 <h5 id="lepidotermes">Lepidotermes</h5>
 
-Lepidotermes amydrus 幽暗鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes amydrus* 幽暗鳞白蚁]({{ site.base_url }}/species/lepidotermes-amydrus/)（southern Africa, South Africa）
 
-Lepidotermes goliathi 戈利亚特鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes goliathi* 戈利亚特鳞白蚁]({{ site.base_url }}/species/lepidotermes-goliathi/)（southern Africa, South Africa）
 
-Lepidotermes lounsburyi 劳恩斯伯里鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes lounsburyi* 劳恩斯伯里鳞白蚁]({{ site.base_url }}/species/lepidotermes-lounsburyi/)（southern Africa, South Africa）
 
-Lepidotermes mtwalumi 姆图瓦卢米鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes mtwalumi* 姆图瓦卢米鳞白蚁]({{ site.base_url }}/species/lepidotermes-mtwalumi/)（southern Africa, South Africa）
 
-Lepidotermes planifacies 扁形鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes planifacies* 扁形鳞白蚁]({{ site.base_url }}/species/lepidotermes-planifacies/)（southern Africa, South Africa）
 
-\*Lepidotermes pretoriensis 比勒陀利亚鳞白蚁（southern Africa, Pretoria, South Africa）
+\*[*Lepidotermes pretoriensis* 比勒陀利亚鳞白蚁]({{ site.base_url }}/species/lepidotermes-pretoriensis/)（southern Africa, Pretoria, South Africa）
 
-Lepidotermes scalenus 斜角肌鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes scalenus* 斜角肌鳞白蚁]({{ site.base_url }}/species/lepidotermes-scalenus/)（southern Africa, South Africa）
 
-Lepidotermes simplex 简单鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes simplex* 简单鳞白蚁]({{ site.base_url }}/species/lepidotermes-simplex/)（southern Africa, South Africa）
 
-Lepidotermes vastus 空闲鳞白蚁（southern Africa, South Africa）
+[*Lepidotermes vastus* 空闲鳞白蚁]({{ site.base_url }}/species/lepidotermes-vastus/)（southern Africa, South Africa）
 
 <h5 id="megagnathotermes">Megagnathotermes</h5>
 
-Megagnathotermes katangensis 加丹加大颚白蚁（Africa, Katanga, Democratic Republic of the Congo, Zambia）
+[*Megagnathotermes katangensis* 加丹加大颚白蚁]({{ site.base_url }}/species/megagnathotermes-katangensis/)（Africa, Katanga, Democratic Republic of the Congo, Zambia）
 
-\*Megagnathotermes notandus 标记大颚白蚁（West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sierra Leone）
+\*[*Megagnathotermes notandus* 标记大颚白蚁]({{ site.base_url }}/species/megagnathotermes-notandus/)（West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sierra Leone）
 
 <h5 id="mucrotermes">Mucrotermes</h5>
 
-Mucrotermes heterochilus 异唇锐尖白蚁（Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria）
+[*Mucrotermes heterochilus* 异唇锐尖白蚁]({{ site.base_url }}/species/mucrotermes-heterochilus/)（Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria）
 
-\*Mucrotermes osborni 奥斯本锐尖白蚁（Old World tropics, Democratic Republic of the Congo）
+\*[*Mucrotermes osborni* 奥斯本锐尖白蚁]({{ site.base_url }}/species/mucrotermes-osborni/)（Old World tropics, Democratic Republic of the Congo）
 
 <h5 id="nitiditermes">Nitiditermes</h5>
 
-Nitiditermes aemulus 竞争净白蚁（Guinea）
+[*Nitiditermes aemulus* 竞争净白蚁]({{ site.base_url }}/species/nitiditermes-aemulus/)（Guinea）
 
-Nitiditermes anatruncatus 反截净白蚁（South Africa）
+[*Nitiditermes anatruncatus* 反截净白蚁]({{ site.base_url }}/species/nitiditermes-anatruncatus/)（South Africa）
 
-\*Nitiditermes berghei 伯格净白蚁（Democratic Republic of the Congo, Zambia）
+\*[*Nitiditermes berghei* 伯格净白蚁]({{ site.base_url }}/species/nitiditermes-berghei/)（Democratic Republic of the Congo, Zambia）
 
-Nitiditermes curtatus 短缩净白蚁（Ghana, Guinea, Senegal）
+[*Nitiditermes curtatus* 短缩净白蚁]({{ site.base_url }}/species/nitiditermes-curtatus/)（Ghana, Guinea, Senegal）
 
-Nitiditermes fulvus 栗色净白蚁（Tanzania）
+[*Nitiditermes fulvus* 栗色净白蚁]({{ site.base_url }}/species/nitiditermes-fulvus/)（Tanzania）
 
-Nitiditermes niokoloensis 尼奥科洛净白蚁（Senegal）
+[*Nitiditermes niokoloensis* 尼奥科洛净白蚁]({{ site.base_url }}/species/nitiditermes-niokoloensis/)（Senegal）
 
-Nitiditermes oculatus 眼显净白蚁（Ghana, Guinea, Nigeria, Senegal, Sudan, Tanzania）
+[*Nitiditermes oculatus* 眼显净白蚁]({{ site.base_url }}/species/nitiditermes-oculatus/)（Ghana, Guinea, Nigeria, Senegal, Sudan, Tanzania）
 
-Nitiditermes orthognathus 直颚净白蚁（Democratic Republic of the Congo, Kenya, Malawi, Tanzania, Uganda, Zambia）
+[*Nitiditermes orthognathus* 直颚净白蚁]({{ site.base_url }}/species/nitiditermes-orthognathus/)（Democratic Republic of the Congo, Kenya, Malawi, Tanzania, Uganda, Zambia）
 
-Nitiditermes proximatus 近净白蚁（West Africa, Senegal, Côte d'Ivoire, Burkina Faso, Kenya, Tanzania）
+[*Nitiditermes proximatus* 近净白蚁]({{ site.base_url }}/species/nitiditermes-proximatus/)（West Africa, Senegal, Côte d'Ivoire, Burkina Faso, Kenya, Tanzania）
 
-Nitiditermes sankurensis 桑库鲁净白蚁（Angola, Republic of the Congo, Democratic Republic of the Congo, Guinea, Kenya, Malawi, Mali, Nigeria, Senegal, Tanzania, Zambia, Zimbabwe）
+[*Nitiditermes sankurensis* 桑库鲁净白蚁]({{ site.base_url }}/species/nitiditermes-sankurensis/)（Angola, Republic of the Congo, Democratic Republic of the Congo, Guinea, Kenya, Malawi, Mali, Nigeria, Senegal, Tanzania, Zambia, Zimbabwe）
 
-Nitiditermes schereri 谢勒净白蚁（Democratic Republic of the Congo, Guinea, Côte d'Ivoire, Liberia, Sierra Leone, Tanzania）
+[*Nitiditermes schereri* 谢勒净白蚁]({{ site.base_url }}/species/nitiditermes-schereri/)（Democratic Republic of the Congo, Guinea, Côte d'Ivoire, Liberia, Sierra Leone, Tanzania）
 
-Nitiditermes sierraleonicus 塞拉利昂净白蚁（Sierra Leone）
+[*Nitiditermes sierraleonicus* 塞拉利昂净白蚁]({{ site.base_url }}/species/nitiditermes-sierraleonicus/)（Sierra Leone）
 
-Nitiditermes testaceus 厚壳净白蚁（Kenya, Rwanda, South Africa, Uganda）
+[*Nitiditermes testaceus* 厚壳净白蚁]({{ site.base_url }}/species/nitiditermes-testaceus/)（Kenya, Rwanda, South Africa, Uganda）
 
-Nitiditermes truncatoides 拟伤残净白蚁（South Africa）
+[*Nitiditermes truncatoides* 拟伤残净白蚁]({{ site.base_url }}/species/nitiditermes-truncatoides/)（South Africa）
 
-Nitiditermes truncatus 伤残净白蚁（South Africa）
+[*Nitiditermes truncatus* 伤残净白蚁]({{ site.base_url }}/species/nitiditermes-truncatus/)（South Africa）
 
 <h5 id="noditermes">Noditermes</h5>
 
-Noditermes angolensis 安哥拉节白蚁（Angola）
+[*Noditermes angolensis* 安哥拉节白蚁]({{ site.base_url }}/species/noditermes-angolensis/)（Angola）
 
-Noditermes cristifrons 毛额节白蚁（West Africa, Gambia, Senegal, Togo, Burkina Faso, Angola, Cameroon, Democratic Republic of the Congo, Tanzania）
+[*Noditermes cristifrons* 毛额节白蚁]({{ site.base_url }}/species/noditermes-cristifrons/)（West Africa, Gambia, Senegal, Togo, Burkina Faso, Angola, Cameroon, Democratic Republic of the Congo, Tanzania）
 
-Noditermes festivus 欢乐节白蚁（Democratic Republic of the Congo）
+[*Noditermes festivus* 欢乐节白蚁]({{ site.base_url }}/species/noditermes-festivus/)（Democratic Republic of the Congo）
 
-Noditermes indoensis 因多节白蚁（Central Africa, Gabon, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Tanzania）
+[*Noditermes indoensis* 因多节白蚁]({{ site.base_url }}/species/noditermes-indoensis/)（Central Africa, Gabon, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Tanzania）
 
-\*Noditermes lamanianus 拉曼节白蚁（Central Africa, Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo）
+\*[*Noditermes lamanianus* 拉曼节白蚁]({{ site.base_url }}/species/noditermes-lamanianus/)（Central Africa, Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo）
 
-Noditermes profestus 工作日节白蚁（Democratic Republic of the Congo）
+[*Noditermes profestus* 工作日节白蚁]({{ site.base_url }}/species/noditermes-profestus/)（Democratic Republic of the Congo）
 
-Noditermes wasambaricus 瓦森巴拉节白蚁（Kenya, Tanzania）
+[*Noditermes wasambaricus* 瓦森巴拉节白蚁]({{ site.base_url }}/species/noditermes-wasambaricus/)（Kenya, Tanzania）
 
 <h5 id="okavangotermes">Okavangotermes</h5>
 
-\*Okavangotermes giessi 吉斯奥卡万戈白蚁（Angola, Namibia）
+\*[*Okavangotermes giessi* 吉斯奥卡万戈白蚁]({{ site.base_url }}/species/okavangotermes-giessi/)（Angola, Namibia）
 
-Okavangotermes guineensis 几内亚奥卡万戈白蚁（Ghana）
+[*Okavangotermes guineensis* 几内亚奥卡万戈白蚁]({{ site.base_url }}/species/okavangotermes-guineensis/)（Ghana）
 
 <h5 id="ophiotermes">Ophiotermes</h5>
 
-Ophiotermes gracilis 细瘦蛇白蚁（Angola）
+[*Ophiotermes gracilis* 细瘦蛇白蚁]({{ site.base_url }}/species/ophiotermes-gracilis/)（Angola）
 
-Ophiotermes grandilabius 大唇蛇白蚁（Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Côte d'Ivoire, Nigeria, Tanzania）
+[*Ophiotermes grandilabius* 大唇蛇白蚁]({{ site.base_url }}/species/ophiotermes-grandilabius/)（Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Côte d'Ivoire, Nigeria, Tanzania）
 
-\*Ophiotermes mandibularis 显颚蛇白蚁（Central Africa, Central African Republic, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon）
+\*[*Ophiotermes mandibularis* 显颚蛇白蚁]({{ site.base_url }}/species/ophiotermes-mandibularis/)（Central Africa, Central African Republic, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon）
 
-Ophiotermes mirandus 惊奇蛇白蚁（Angola, Democratic Republic of the Congo, Guinea）
+[*Ophiotermes mirandus* 惊奇蛇白蚁]({{ site.base_url }}/species/ophiotermes-mirandus/)（Angola, Democratic Republic of the Congo, Guinea）
 
-Ophiotermes receptus 接受蛇白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Ophiotermes receptus* 接受蛇白蚁]({{ site.base_url }}/species/ophiotermes-receptus/)（Central African Republic, Democratic Republic of the Congo）
 
-Ophiotermes shabaensis 沙巴蛇白蚁（Democratic Republic of the Congo）
+[*Ophiotermes shabaensis* 沙巴蛇白蚁]({{ site.base_url }}/species/ophiotermes-shabaensis/)（Democratic Republic of the Congo）
 
-Ophiotermes ugandaensis 乌干达蛇白蚁（Angola, Democratic Republic of the Congo, Rwanda, Tanzania, Uganda）
+[*Ophiotermes ugandaensis* 乌干达蛇白蚁]({{ site.base_url }}/species/ophiotermes-ugandaensis/)（Angola, Democratic Republic of the Congo, Rwanda, Tanzania, Uganda）
 
 <h5 id="orthotermes">Orthotermes</h5>
 
-\*Orthotermes depressifrons 陷额直白蚁（tropical Africa）
+\*[*Orthotermes depressifrons* 陷额直白蚁]({{ site.base_url }}/species/orthotermes-depressifrons/)（tropical Africa）
 
-Orthotermes mansuetus 顺从直白蚁（Democratic Republic of the Congo, Angola, Cameroon, Gabon）
+[*Orthotermes mansuetus* 顺从直白蚁]({{ site.base_url }}/species/orthotermes-mansuetus/)（Democratic Republic of the Congo, Angola, Cameroon, Gabon）
 
 <h5 id="ovambotermes">Ovambotermes</h5>
 
-\*Ovambotermes sylvaticus 林地奥万博兰白蚁（Namibia, Zambia）
+\*[*Ovambotermes sylvaticus* 林地奥万博兰白蚁]({{ site.base_url }}/species/ovambotermes-sylvaticus/)（Namibia, Zambia）
 
 <h5 id="pilotermes">Pilotermes</h5>
 
-\*Pilotermes langi 兰棘白蚁（Democratic Republic of the Congo）
+\*[*Pilotermes langi* 兰棘白蚁]({{ site.base_url }}/species/pilotermes-langi/)（Democratic Republic of the Congo）
 
 <h5 id="polyspathotermes">Polyspathotermes</h5>
 
-Polyspathotermes bugeserae 布盖塞拉多铲白蚁（Rwanda）
+[*Polyspathotermes bugeserae* 布盖塞拉多铲白蚁]({{ site.base_url }}/species/polyspathotermes-bugeserae/)（Rwanda）
 
-Polyspathotermes inclitus 显赫多铲白蚁（Congo, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Uganda, Zambia）
+[*Polyspathotermes inclitus* 显赫多铲白蚁]({{ site.base_url }}/species/polyspathotermes-inclitus/)（Congo, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Uganda, Zambia）
 
-Polyspathotermes intercalatus 居间多铲白蚁（Angola, Congo, Democratic Republic of the Congo）
+[*Polyspathotermes intercalatus* 居间多铲白蚁]({{ site.base_url }}/species/polyspathotermes-intercalatus/)（Angola, Congo, Democratic Republic of the Congo）
 
-Polyspathotermes montanus 高山多铲白蚁（Malawi, Tanzania, Zambia）
+[*Polyspathotermes montanus* 高山多铲白蚁]({{ site.base_url }}/species/polyspathotermes-montanus/)（Malawi, Tanzania, Zambia）
 
-Polyspathotermes oblectatus 愉悦多铲白蚁（Democratic Republic of the Congo, Malawi, Tanzania, Zambia）
+[*Polyspathotermes oblectatus* 愉悦多铲白蚁]({{ site.base_url }}/species/polyspathotermes-oblectatus/)（Democratic Republic of the Congo, Malawi, Tanzania, Zambia）
 
-\*Polyspathotermes sulcifrons 沟额多铲白蚁（Cameroon, Democratic Republic of the Congo, Nigeria, Tanzania）
+\*[*Polyspathotermes sulcifrons* 沟额多铲白蚁]({{ site.base_url }}/species/polyspathotermes-sulcifrons/)（Cameroon, Democratic Republic of the Congo, Nigeria, Tanzania）
 
-Polyspathotermes umbratus 荫生多铲白蚁（Democratic Republic of the Congo, Guinea, Kenya, Malawi, Tanzania）
+[*Polyspathotermes umbratus* 荫生多铲白蚁]({{ site.base_url }}/species/polyspathotermes-umbratus/)（Democratic Republic of the Congo, Guinea, Kenya, Malawi, Tanzania）
 
 <h5 id="proboscitermes">Proboscitermes</h5>
 
-Proboscitermes mcgrewi 麦克格鲁象鼻白蚁（Tanzania）
+[*Proboscitermes mcgrewi* 麦克格鲁象鼻白蚁]({{ site.base_url }}/species/proboscitermes-mcgrewi/)（Tanzania）
 
-\*Proboscitermes tubuliferus 具管象鼻白蚁（Cameroon, Democratic Republic of the Congo, Gabon, Nigeria）
+\*[*Proboscitermes tubuliferus* 具管象鼻白蚁]({{ site.base_url }}/species/proboscitermes-tubuliferus/)（Cameroon, Democratic Republic of the Congo, Gabon, Nigeria）
 
 <h5 id="procubitermes">Procubitermes</h5>
 
-Procubitermes aburiensis 阿布里原方白蚁（West Africa, Côte d'Ivoire, Guinea, Togo, Ghana, Nigeria）
+[*Procubitermes aburiensis* 阿布里原方白蚁]({{ site.base_url }}/species/procubitermes-aburiensis/)（West Africa, Côte d'Ivoire, Guinea, Togo, Ghana, Nigeria）
 
-\*Procubitermes arboricola 树栖原方白蚁（Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Nigeria）
+\*[*Procubitermes arboricola* 树栖原方白蚁]({{ site.base_url }}/species/procubitermes-arboricola/)（Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Nigeria）
 
-Procubitermes curvatus 弯曲原方白蚁（Ghana, Guinea, Côte d'Ivoire, Liberia）
+[*Procubitermes curvatus* 弯曲原方白蚁]({{ site.base_url }}/species/procubitermes-curvatus/)（Ghana, Guinea, Côte d'Ivoire, Liberia）
 
-Procubitermes niapuensis 尼亚普原方白蚁（Cameroon, Congo, Democratic Republic of the Congo）
+[*Procubitermes niapuensis* 尼亚普原方白蚁]({{ site.base_url }}/species/procubitermes-niapuensis/)（Cameroon, Congo, Democratic Republic of the Congo）
 
-Procubitermes sinuosus 扭曲原方白蚁（West Africa, Nigeria, Guinea）
+[*Procubitermes sinuosus* 扭曲原方白蚁]({{ site.base_url }}/species/procubitermes-sinuosus/)（West Africa, Nigeria, Guinea）
 
-Procubitermes sjostedti 舍斯泰特原方白蚁（West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Guinea, Liberia）
+[*Procubitermes sjostedti* 舍斯泰特原方白蚁]({{ site.base_url }}/species/procubitermes-sjostedti/)（West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Guinea, Liberia）
 
-Procubitermes ueleensis 韦莱原方白蚁（Democratic Republic of the Congo, Uele region, Gabon, Uganda）
+[*Procubitermes ueleensis* 韦莱原方白蚁]({{ site.base_url }}/species/procubitermes-ueleensis/)（Democratic Republic of the Congo, Uele region, Gabon, Uganda）
 
-Procubitermes undulans 波纹原方白蚁（East Africa, Uganda, Democratic Republic of the Congo）
+[*Procubitermes undulans* 波纹原方白蚁]({{ site.base_url }}/species/procubitermes-undulans/)（East Africa, Uganda, Democratic Republic of the Congo）
 
-Procubitermes wasmanni 沃斯曼原方白蚁（Cameroon）
+[*Procubitermes wasmanni* 沃斯曼原方白蚁]({{ site.base_url }}/species/procubitermes-wasmanni/)（Cameroon）
 
 <h5 id="profastigitermes">Profastigitermes</h5>
 
-\*Profastigitermes putnami 帕特南前峰白蚁（Cameroon, Democratic Republic of the Congo）
+\*[*Profastigitermes putnami* 帕特南前峰白蚁]({{ site.base_url }}/species/profastigitermes-putnami/)（Cameroon, Democratic Republic of the Congo）
 
 <h5 id="ternicubitermes">Ternicubitermes</h5>
 
-\*Ternicubitermes bilobatodes 双叶三方白蚁（Gambia, Guinea-Bissau, Senegal）
+\*[*Ternicubitermes bilobatodes* 双叶三方白蚁]({{ site.base_url }}/species/ternicubitermes-bilobatodes/)（Gambia, Guinea-Bissau, Senegal）
 
-Ternicubitermes breviceps 短头三方白蚁（Zimbabwe）
+[*Ternicubitermes breviceps* 短头三方白蚁]({{ site.base_url }}/species/ternicubitermes-breviceps/)（Zimbabwe）
 
-Ternicubitermes duplex 含糊三方白蚁（South Africa）
+[*Ternicubitermes duplex* 含糊三方白蚁]({{ site.base_url }}/species/ternicubitermes-duplex/)（South Africa）
 
-Ternicubitermes falcifer 具镰三方白蚁（Tanzania）
+[*Ternicubitermes falcifer* 具镰三方白蚁]({{ site.base_url }}/species/ternicubitermes-falcifer/)（Tanzania）
 
-Ternicubitermes glebae 土块三方白蚁（Kenya, Tanzania, Uganda）
+[*Ternicubitermes glebae* 土块三方白蚁]({{ site.base_url }}/species/ternicubitermes-glebae/)（Kenya, Tanzania, Uganda）
 
-Ternicubitermes latens 隐藏三方白蚁（Tanzania）
+[*Ternicubitermes latens* 隐藏三方白蚁]({{ site.base_url }}/species/ternicubitermes-latens/)（Tanzania）
 
-Ternicubitermes microduplex 小双三方白蚁（South Africa）
+[*Ternicubitermes microduplex* 小双三方白蚁]({{ site.base_url }}/species/ternicubitermes-microduplex/)（South Africa）
 
-Ternicubitermes muneris 职司三方白蚁（Democratic Republic of the Congo, Kenya, Malawi, Tanzania, Zambia）
+[*Ternicubitermes muneris* 职司三方白蚁]({{ site.base_url }}/species/ternicubitermes-muneris/)（Democratic Republic of the Congo, Kenya, Malawi, Tanzania, Zambia）
 
-Ternicubitermes pallidiceps 灰头三方白蚁（Democratic Republic of the Congo, Malawi, Tanzania, Zambia, Zimbabwe）
+[*Ternicubitermes pallidiceps* 灰头三方白蚁]({{ site.base_url }}/species/ternicubitermes-pallidiceps/)（Democratic Republic of the Congo, Malawi, Tanzania, Zambia, Zimbabwe）
 
-Ternicubitermes subcrenulatus 微齿三方白蚁（Ghana, Guinea, Côte d'Ivoire, Nigeria）
+[*Ternicubitermes subcrenulatus* 微齿三方白蚁]({{ site.base_url }}/species/ternicubitermes-subcrenulatus/)（Ghana, Guinea, Côte d'Ivoire, Nigeria）
 
-Ternicubitermes undulatus 波颚三方白蚁（South Africa）
+[*Ternicubitermes undulatus* 波颚三方白蚁]({{ site.base_url }}/species/ternicubitermes-undulatus/)（South Africa）
 
-Ternicubitermes weissi 魏斯三方白蚁（Republic of the Congo (Brazzaville), Liberia）
+[*Ternicubitermes weissi* 魏斯三方白蚁]({{ site.base_url }}/species/ternicubitermes-weissi/)（Republic of the Congo (Brazzaville), Liberia）
 
-Ternicubitermes zavattarii 扎瓦塔里三方白蚁（Ethiopia, Kenya, Tanzania）
+[*Ternicubitermes zavattarii* 扎瓦塔里三方白蚁]({{ site.base_url }}/species/ternicubitermes-zavattarii/)（Ethiopia, Kenya, Tanzania）
 
 <h5 id="thoracotermes">Thoracotermes</h5>
 
-Thoracotermes brevinotus 短背胸白蚁（West Africa, Guinea, Côte d'Ivoire）
+[*Thoracotermes brevinotus* 短背胸白蚁]({{ site.base_url }}/species/thoracotermes-brevinotus/)（West Africa, Guinea, Côte d'Ivoire）
 
-Thoracotermes grevillensis 格瑞维勒胸白蚁（Angola）
+[*Thoracotermes grevillensis* 格瑞维勒胸白蚁]({{ site.base_url }}/species/thoracotermes-grevillensis/)（Angola）
 
-Thoracotermes lusingensis 卢森加胸白蚁（Angola, Democratic Republic of the Congo, Nigeria, Zambia）
+[*Thoracotermes lusingensis* 卢森加胸白蚁]({{ site.base_url }}/species/thoracotermes-lusingensis/)（Angola, Democratic Republic of the Congo, Nigeria, Zambia）
 
-\*Thoracotermes macrothorax 大胸胸白蚁（Old World tropics, West Africa, Central Africa, Angola, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone）
+\*[*Thoracotermes macrothorax* 大胸胸白蚁]({{ site.base_url }}/species/thoracotermes-macrothorax/)（Old World tropics, West Africa, Central Africa, Angola, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone）
 
 <h5 id="trapellitermes">Trapellitermes</h5>
 
-\*Trapellitermes loxomastax 弯颚菱角白蚁（West Africa, Côte d'Ivoire）
+\*[*Trapellitermes loxomastax* 弯颚菱角白蚁]({{ site.base_url }}/species/trapellitermes-loxomastax/)（West Africa, Côte d'Ivoire）
 
 <h5 id="unguitermes">Unguitermes</h5>
 
-Unguitermes acutifrons 尖额爪白蚁（tropical Africa）
+[*Unguitermes acutifrons* 尖额爪白蚁]({{ site.base_url }}/species/unguitermes-acutifrons/)（tropical Africa）
 
-\*Unguitermes bidentatus 双齿爪白蚁（Cameroon, Democratic Republic of the Congo, Nigeria）
+\*[*Unguitermes bidentatus* 双齿爪白蚁]({{ site.base_url }}/species/unguitermes-bidentatus/)（Cameroon, Democratic Republic of the Congo, Nigeria）
 
-Unguitermes bouilloni 布永爪白蚁（Democratic Republic of the Congo）
+[*Unguitermes bouilloni* 布永爪白蚁]({{ site.base_url }}/species/unguitermes-bouilloni/)（Democratic Republic of the Congo）
 
-Unguitermes magnus 大爪白蚁（tropical Africa）
+[*Unguitermes magnus* 大爪白蚁]({{ site.base_url }}/species/unguitermes-magnus/)（tropical Africa）
 
-Unguitermes proclivifrons 前斜额爪白蚁（Zambia）
+[*Unguitermes proclivifrons* 前斜额爪白蚁]({{ site.base_url }}/species/unguitermes-proclivifrons/)（Zambia）
 
-Unguitermes trispinosus 三针爪白蚁（tropical Africa）
+[*Unguitermes trispinosus* 三针爪白蚁]({{ site.base_url }}/species/unguitermes-trispinosus/)（tropical Africa）
 
-Unguitermes unidentatus 单齿爪白蚁（Namibia）
+[*Unguitermes unidentatus* 单齿爪白蚁]({{ site.base_url }}/species/unguitermes-unidentatus/)（Namibia）
 
 <h5 id="unicornitermes">Unicornitermes</h5>
 
-\*Unicornitermes gaerdesi 盖尔德独角白蚁（Namibia, South Africa）
+\*[*Unicornitermes gaerdesi* 盖尔德独角白蚁]({{ site.base_url }}/species/unicornitermes-gaerdesi/)（Namibia, South Africa）
 
 <h4 id="cylindrotermitinae">Cylindrotermitinae</h4>
 
@@ -3786,25 +3786,25 @@ The two genera show a transatlantic disjunct distribution: the genus Cephaloterm
 
 <h5 id="cephalotermes">Cephalotermes</h5>
 
-\*Cephalotermes rectangularis 直角头白蚁（Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda）
+\*[*Cephalotermes rectangularis* 直角头白蚁]({{ site.base_url }}/species/cephalotermes-rectangularis/)（Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda）
 
 <h5 id="cylindrotermes">Cylindrotermes</h5>
 
-Cylindrotermes brevipilosus 短毛圆筒白蚁（Neotropics）
+[*Cylindrotermes brevipilosus* 短毛圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-brevipilosus/)（Neotropics）
 
-Cylindrotermes caata 骨痂圆筒白蚁（Neotropics）
+[*Cylindrotermes caata* 骨痂圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-caata/)（Neotropics）
 
-Cylindrotermes capixaba 卡皮沙巴圆筒白蚁（Neotropics）
+[*Cylindrotermes capixaba* 卡皮沙巴圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-capixaba/)（Neotropics）
 
-Cylindrotermes flangiatus 凸缘圆筒白蚁（Neotropics）
+[*Cylindrotermes flangiatus* 凸缘圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-flangiatus/)（Neotropics）
 
-Cylindrotermes macrognathus 长颚圆筒白蚁（Neotropics）
+[*Cylindrotermes macrognathus* 长颚圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-macrognathus/)（Neotropics）
 
-\*Cylindrotermes nordenskioldi 努登舍尔德圆筒白蚁（Neotropics）
+\*[*Cylindrotermes nordenskioldi* 努登舍尔德圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-nordenskioldi/)（Neotropics）
 
-Cylindrotermes parvignathus 小颚圆筒白蚁（Neotropics）
+[*Cylindrotermes parvignathus* 小颚圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-parvignathus/)（Neotropics）
 
-Cylindrotermes sapiranga 萨皮兰加圆筒白蚁（Neotropics）
+[*Cylindrotermes sapiranga* 萨皮兰加圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-sapiranga/)（Neotropics）
 
 <h4 id="engelitermitinae">Engelitermitinae</h4>
 
@@ -3814,7 +3814,7 @@ Because it contains a single genus with a single species, its characters are tho
 
 <h5 id="engelitermes">Engelitermes</h5>
 
-\*Engelitermes zambo 赞博恩格尔白蚁（Cameroon）
+\*[*Engelitermes zambo* 赞博恩格尔白蚁]({{ site.base_url }}/species/engelitermes-zambo/)（Cameroon）
 
 <h4 id="foraminitermitinae">Foraminitermitinae</h4>
 
@@ -3824,29 +3824,29 @@ Its distribution spans both the Afrotropical realm (West and Central Africa to E
 
 <h5 id="foraminitermes">Foraminitermes</h5>
 
-Foraminitermes coatoni 科顿孔白蚁（Angola, Democratic Republic of the Congo）
+[*Foraminitermes coatoni* 科顿孔白蚁]({{ site.base_url }}/species/foraminitermes-coatoni/)（Angola, Democratic Republic of the Congo）
 
-Foraminitermes corniferus 具角孔白蚁（West Africa, Togo, Democratic Republic of the Congo）
+[*Foraminitermes corniferus* 具角孔白蚁]({{ site.base_url }}/species/foraminitermes-corniferus/)（West Africa, Togo, Democratic Republic of the Congo）
 
-Foraminitermes harrisi 哈里斯孔白蚁（Democratic Republic of the Congo）
+[*Foraminitermes harrisi* 哈里斯孔白蚁]({{ site.base_url }}/species/foraminitermes-harrisi/)（Democratic Republic of the Congo）
 
-Foraminitermes rhinoceros 犀牛孔白蚁（Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda）
+[*Foraminitermes rhinoceros* 犀牛孔白蚁]({{ site.base_url }}/species/foraminitermes-rhinoceros/)（Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda）
 
-\*Foraminitermes tubifrons 瘤额孔白蚁（Cameroon, Guinea, Côte d'Ivoire, Nigeria）
+\*[*Foraminitermes tubifrons* 瘤额孔白蚁]({{ site.base_url }}/species/foraminitermes-tubifrons/)（Cameroon, Guinea, Côte d'Ivoire, Nigeria）
 
-Foraminitermes valens 强健孔白蚁（Central Africa, Cameroon, Guinea, Côte d'Ivoire, Nigeria, Tanzania）
+[*Foraminitermes valens* 强健孔白蚁]({{ site.base_url }}/species/foraminitermes-valens/)（Central Africa, Cameroon, Guinea, Côte d'Ivoire, Nigeria, Tanzania）
 
 <h5 id="labritermes">Labritermes</h5>
 
-\*Labritermes buttelreepeni 巴特里彭唇白蚁（Indonesia, Malaysia）
+\*[*Labritermes buttelreepeni* 巴特里彭唇白蚁]({{ site.base_url }}/species/labritermes-buttelreepeni/)（Indonesia, Malaysia）
 
-Labritermes emersoni 埃默森唇白蚁（Malaysia, Indonesia, Singapore）
+[*Labritermes emersoni* 埃默森唇白蚁]({{ site.base_url }}/species/labritermes-emersoni/)（Malaysia, Indonesia, Singapore）
 
-Labritermes kistneri 基斯特纳唇白蚁（Malaysia, Indonesia）
+[*Labritermes kistneri* 基斯特纳唇白蚁]({{ site.base_url }}/species/labritermes-kistneri/)（Malaysia, Indonesia）
 
 <h5 id="pseudomicrotermes">Pseudomicrotermes</h5>
 
-\*Pseudomicrotermes alboniger 白黑伪小白蚁（Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa)）
+\*[*Pseudomicrotermes alboniger* 白黑伪小白蚁]({{ site.base_url }}/species/pseudomicrotermes-alboniger/)（Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa)）
 
 <h4 id="forficulitermitinae">Forficulitermitinae</h4>
 
@@ -3856,7 +3856,7 @@ Because it contains a single genus with a single species, its characters are tho
 
 <h5 id="forficulitermes">Forficulitermes</h5>
 
-\*Forficulitermes planifrons 扁额剪白蚁（Central Africa, Cameroon）
+\*[*Forficulitermes planifrons* 扁额剪白蚁]({{ site.base_url }}/species/forficulitermes-planifrons/)（Central Africa, Cameroon）
 
 <h4 id="macrotermitinae">Macrotermitinae</h4>
 
@@ -3870,805 +3870,805 @@ Macrotermes annandalei 土垄大白蚁
 
 <h5 id="acanthotermes">Acanthotermes</h5>
 
-\*Acanthotermes acanthothorax 刺胸刺白蚁（Old World tropics, West Africa, Central Africa, East Africa）
+\*[*Acanthotermes acanthothorax* 刺胸刺白蚁]({{ site.base_url }}/species/acanthotermes-acanthothorax/)（Old World tropics, West Africa, Central Africa, East Africa）
 
 <h5 id="allodontermes">Allodontermes</h5>
 
-Allodontermes rhodesiensis 罗得西亚奇齿白蚁（Old World tropics (East Africa), southern Africa）
+[*Allodontermes rhodesiensis* 罗得西亚奇齿白蚁]({{ site.base_url }}/species/allodontermes-rhodesiensis/)（Old World tropics (East Africa), southern Africa）
 
-\*Allodontermes schultzei 舒尔茨奇齿白蚁（southern Africa, Namibia, Botswana, South Africa, Eswatini, Zambia, Zimbabwe）
+\*[*Allodontermes schultzei* 舒尔茨奇齿白蚁]({{ site.base_url }}/species/allodontermes-schultzei/)（southern Africa, Namibia, Botswana, South Africa, Eswatini, Zambia, Zimbabwe）
 
-Allodontermes tenax 执着奇齿白蚁（Old World tropics (East Africa), southern Africa）
+[*Allodontermes tenax* 执着奇齿白蚁]({{ site.base_url }}/species/allodontermes-tenax/)（Old World tropics (East Africa), southern Africa）
 
 <h5 id="ancistrotermes">Ancistrotermes</h5>
 
-Ancistrotermes cavithorax 凹胸钩白蚁（West Africa, Côte d'Ivoire, Senegal, Benin, Gambia, Cameroon, Central Africa, Democratic Republic of the Congo, Ghana, Guinea, Nigeria, Sierra Leone, Uganda）
+[*Ancistrotermes cavithorax* 凹胸钩白蚁]({{ site.base_url }}/species/ancistrotermes-cavithorax/)（West Africa, Côte d'Ivoire, Senegal, Benin, Gambia, Cameroon, Central Africa, Democratic Republic of the Congo, Ghana, Guinea, Nigeria, Sierra Leone, Uganda）
 
-Ancistrotermes crassiceps 厚头钩白蚁（China (Yunnan)）
+[*Ancistrotermes crassiceps* 厚头钩白蚁]({{ site.base_url }}/species/ancistrotermes-crassiceps/)（China (Yunnan)）
 
-\*Ancistrotermes crucifer 十字钩白蚁（Old World tropics, West Africa, Central Africa）
+\*[*Ancistrotermes crucifer* 十字钩白蚁]({{ site.base_url }}/species/ancistrotermes-crucifer/)（Old World tropics, West Africa, Central Africa）
 
-crucifer 指名亚种
+[*crucifer* 指名亚种]({{ site.base_url }}/species/ancistrotermes-crucifer-crucifer/)
 
-diversana 相异亚种
+[*diversana* 相异亚种]({{ site.base_url }}/species/ancistrotermes-crucifer-diversana/)
 
-Ancistrotermes dimorphus 小头钩白蚁（China (Yunnan)）
+[*Ancistrotermes dimorphus* 小头钩白蚁]({{ site.base_url }}/species/ancistrotermes-dimorphus/)（China (Yunnan)）
 
-Ancistrotermes dubius 可疑钩白蚁（Democratic Republic of the Congo）
+[*Ancistrotermes dubius* 可疑钩白蚁]({{ site.base_url }}/species/ancistrotermes-dubius/)（Democratic Republic of the Congo）
 
-Ancistrotermes equatorius 赤道钩白蚁（Nigeria, Uganda）
+[*Ancistrotermes equatorius* 赤道钩白蚁]({{ site.base_url }}/species/ancistrotermes-equatorius/)（Nigeria, Uganda）
 
-Ancistrotermes ganlanbaensis 橄榄坝钩白蚁（Yunnan (Jinghong 500m)）
+[*Ancistrotermes ganlanbaensis* 橄榄坝钩白蚁]({{ site.base_url }}/species/ancistrotermes-ganlanbaensis/)（Yunnan (Jinghong 500m)）
 
-Ancistrotermes guineensis 几内亚钩白蚁（West Africa, Côte d'Ivoire, Benin, Gambia, Senegal, Cameroon, Ghana, Guinea, Guinea-Bissau, Nigeria）
+[*Ancistrotermes guineensis* 几内亚钩白蚁]({{ site.base_url }}/species/ancistrotermes-guineensis/)（West Africa, Côte d'Ivoire, Benin, Gambia, Senegal, Cameroon, Ghana, Guinea, Guinea-Bissau, Nigeria）
 
-Ancistrotermes hekouensis 河口钩白蚁（Yunnan (Hekou 110m)）
+[*Ancistrotermes hekouensis* 河口钩白蚁]({{ site.base_url }}/species/ancistrotermes-hekouensis/)（Yunnan (Hekou 110m)）
 
-Ancistrotermes latinotus 宽背钩白蚁（southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe）
+[*Ancistrotermes latinotus* 宽背钩白蚁]({{ site.base_url }}/species/ancistrotermes-latinotus/)（southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe）
 
-Ancistrotermes menglianensis 孟连钩白蚁（Yunnan (Menglian 1020m)）
+[*Ancistrotermes menglianensis* 孟连钩白蚁]({{ site.base_url }}/species/ancistrotermes-menglianensis/)（Yunnan (Menglian 1020m)）
 
-Ancistrotermes microdens 小齿钩白蚁（East Africa, Kenya, Uganda）
+[*Ancistrotermes microdens* 小齿钩白蚁]({{ site.base_url }}/species/ancistrotermes-microdens/)（East Africa, Kenya, Uganda）
 
-Ancistrotermes pakistanicus 巴基斯坦钩白蚁（South Asia, Southeast Asia, Pakistan, Thailand, Laos, Malaysia, Bangladesh, Cameroon, India, Indonesia, Myanmar, Singapore, Vietnam）
+[*Ancistrotermes pakistanicus* 巴基斯坦钩白蚁]({{ site.base_url }}/species/ancistrotermes-pakistanicus/)（South Asia, Southeast Asia, Pakistan, Thailand, Laos, Malaysia, Bangladesh, Cameroon, India, Indonesia, Myanmar, Singapore, Vietnam）
 
-Ancistrotermes periphrasis 迂回钩白蚁（Democratic Republic of the Congo, Ethiopia, Ghana, Sudan）
+[*Ancistrotermes periphrasis* 迂回钩白蚁]({{ site.base_url }}/species/ancistrotermes-periphrasis/)（Democratic Republic of the Congo, Ethiopia, Ghana, Sudan）
 
-Ancistrotermes wasmanni 沃斯曼钩白蚁（Democratic Republic of the Congo）
+[*Ancistrotermes wasmanni* 沃斯曼钩白蚁]({{ site.base_url }}/species/ancistrotermes-wasmanni/)（Democratic Republic of the Congo）
 
-Ancistrotermes xiai 夏氏钩白蚁（Yunnan (Mengla, Menglun 600m)）
+[*Ancistrotermes xiai* 夏氏钩白蚁]({{ site.base_url }}/species/ancistrotermes-xiai/)（Yunnan (Mengla, Menglun 600m)）
 
 <h5 id="euscaiotermes">Euscaiotermes</h5>
 
-\*Euscaiotermes primus 第一左转白蚁（Afrotropics, India）
+\*[*Euscaiotermes primus* 第一左转白蚁]({{ site.base_url }}/species/euscaiotermes-primus/)（Afrotropics, India）
 
 <h5 id="hypotermes">Hypotermes</h5>
 
-Hypotermes bawanensis 坝湾地白蚁（China (Yunnan)）
+[*Hypotermes bawanensis* 坝湾地白蚁]({{ site.base_url }}/species/hypotermes-bawanensis/)（China (Yunnan)）
 
-Hypotermes makhamensis 玛堪地白蚁（Thailand, Vietnam, Cambodia）
+[*Hypotermes makhamensis* 玛堪地白蚁]({{ site.base_url }}/species/hypotermes-makhamensis/)（Thailand, Vietnam, Cambodia）
 
-Hypotermes manyunensis 曼允地白蚁（China (Yunnan)）
+[*Hypotermes manyunensis* 曼允地白蚁]({{ site.base_url }}/species/hypotermes-manyunensis/)（China (Yunnan)）
 
-Hypotermes meiziensis 梅子地白蚁（China (Yunnan)）
+[*Hypotermes meiziensis* 梅子地白蚁]({{ site.base_url }}/species/hypotermes-meiziensis/)（China (Yunnan)）
 
-Hypotermes mengdingensis 孟定地白蚁（China (Yunnan)）
+[*Hypotermes mengdingensis* 孟定地白蚁]({{ site.base_url }}/species/hypotermes-mengdingensis/)（China (Yunnan)）
 
-\*Hypotermes obscuriceps 暗头地白蚁（India, Sri Lanka, Vietnam）
+\*[*Hypotermes obscuriceps* 暗头地白蚁]({{ site.base_url }}/species/hypotermes-obscuriceps/)（India, Sri Lanka, Vietnam）
 
-Hypotermes ruiliensis 瑞丽地白蚁（China (Yunnan)）
+[*Hypotermes ruiliensis* 瑞丽地白蚁]({{ site.base_url }}/species/hypotermes-ruiliensis/)（China (Yunnan)）
 
-Hypotermes sumatrensis 暗齿地白蚁（Indonesia, China）
+[*Hypotermes sumatrensis* 暗齿地白蚁]({{ site.base_url }}/species/hypotermes-sumatrensis/)（Indonesia, China）
 
-Hypotermes wandingensis 畹町地白蚁（China (Yunnan)）
+[*Hypotermes wandingensis* 畹町地白蚁]({{ site.base_url }}/species/hypotermes-wandingensis/)（China (Yunnan)）
 
-Hypotermes wayaoensis 瓦窑地白蚁（China (Yunnan)）
+[*Hypotermes wayaoensis* 瓦窑地白蚁]({{ site.base_url }}/species/hypotermes-wayaoensis/)（China (Yunnan)）
 
-Hypotermes winifredi 威尼弗雷德地白蚁（Sri Lanka）
+[*Hypotermes winifredi* 威尼弗雷德地白蚁]({{ site.base_url }}/species/hypotermes-winifredi/)（Sri Lanka）
 
-Hypotermes xenotermitis 氙地白蚁（India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand）
+[*Hypotermes xenotermitis* 氙地白蚁]({{ site.base_url }}/species/hypotermes-xenotermitis/)（India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand）
 
-Hypotermes yingjiangensis 盈江地白蚁（China (Yunnan)）
+[*Hypotermes yingjiangensis* 盈江地白蚁]({{ site.base_url }}/species/hypotermes-yingjiangensis/)（China (Yunnan)）
 
 <h5 id="macrotermes">Macrotermes</h5>
 
-Macrotermes acrocephalus 隆头大白蚁（Yunnan, China, Ruili）
+[*Macrotermes acrocephalus* 隆头大白蚁]({{ site.base_url }}/species/macrotermes-acrocephalus/)（Yunnan, China, Ruili）
 
-Macrotermes ahmadi 阿哈默德大白蚁（Southeast Asia, Malay Peninsula, Sumatra, Indonesia, Malaysia）
+[*Macrotermes ahmadi* 阿哈默德大白蚁]({{ site.base_url }}/species/macrotermes-ahmadi/)（Southeast Asia, Malay Peninsula, Sumatra, Indonesia, Malaysia）
 
-Macrotermes aleemi 阿利姆大白蚁（South Asia, India, Bangladesh）
+[*Macrotermes aleemi* 阿利姆大白蚁]({{ site.base_url }}/species/macrotermes-aleemi/)（South Asia, India, Bangladesh）
 
-Macrotermes amplus 体大大白蚁（Central Africa, Republic of the Congo, Democratic Republic of the Congo, Cameroon, Central African Republic, Angola, Gabon, Nigeria, Sudan）
+[*Macrotermes amplus* 体大大白蚁]({{ site.base_url }}/species/macrotermes-amplus/)（Central Africa, Republic of the Congo, Democratic Republic of the Congo, Cameroon, Central African Republic, Angola, Gabon, Nigeria, Sudan）
 
-Macrotermes annandalei 土垄大白蚁（Southeast Asia, East Asia, Thailand, Vietnam, Cambodia, Laos, China, India, Myanmar）
+[*Macrotermes annandalei* 土垄大白蚁]({{ site.base_url }}/species/macrotermes-annandalei/)（Southeast Asia, East Asia, Thailand, Vietnam, Cambodia, Laos, China, India, Myanmar）
 
-Macrotermes barneyi 黄翅大白蚁（East Asia, China, Hong Kong, China, Macau, China, Vietnam）
+[*Macrotermes barneyi* 黄翅大白蚁]({{ site.base_url }}/species/macrotermes-barneyi/)（East Asia, China, Hong Kong, China, Macau, China, Vietnam）
 
-Macrotermes beaufortensis 保佛大白蚁（Southeast Asia, Singapore, Malaysia）
+[*Macrotermes beaufortensis* 保佛大白蚁]({{ site.base_url }}/species/macrotermes-beaufortensis/)（Southeast Asia, Singapore, Malaysia）
 
-Macrotermes bellicosus 勇猛大白蚁（Old World tropics, Côte d'Ivoire, Senegal, Togo, Benin, Ghana, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Eritrea, Ethiopia, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mauritania, Mozambique, Niger, Nigeria, Sierra Leone, Somalia, Sudan, Tanzania, Uganda, Yemen）
+[*Macrotermes bellicosus* 勇猛大白蚁]({{ site.base_url }}/species/macrotermes-bellicosus/)（Old World tropics, Côte d'Ivoire, Senegal, Togo, Benin, Ghana, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Eritrea, Ethiopia, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mauritania, Mozambique, Niger, Nigeria, Sierra Leone, Somalia, Sudan, Tanzania, Uganda, Yemen）
 
-Macrotermes carbonarius 炭色大白蚁（Southeast Asia, East Asia, Singapore, Malaysia, Thailand, Cambodia, Indonesia, Vietnam）
+[*Macrotermes carbonarius* 炭色大白蚁]({{ site.base_url }}/species/macrotermes-carbonarius/)（Southeast Asia, East Asia, Singapore, Malaysia, Thailand, Cambodia, Indonesia, Vietnam）
 
-Macrotermes chaiglomi 蔡格洛姆大白蚁（Southeast Asia, East Asia, China, Thailand）
+[*Macrotermes chaiglomi* 蔡格洛姆大白蚁]({{ site.base_url }}/species/macrotermes-chaiglomi/)（Southeast Asia, East Asia, China, Thailand）
 
-Macrotermes chebalingensis 车八岭大白蚁（Guangdong, China, Shixing Chebaling）
+[*Macrotermes chebalingensis* 车八岭大白蚁]({{ site.base_url }}/species/macrotermes-chebalingensis/)（Guangdong, China, Shixing Chebaling）
 
-Macrotermes choui 周氏大白蚁（Yunnan, China, Yingjiang）
+[*Macrotermes choui* 周氏大白蚁]({{ site.base_url }}/species/macrotermes-choui/)（Yunnan, China, Yingjiang）
 
-Macrotermes constrictus 缢颏大白蚁（Sichuan, China, Dechang）
+[*Macrotermes constrictus* 缢颏大白蚁]({{ site.base_url }}/species/macrotermes-constrictus/)（Sichuan, China, Dechang）
 
-Macrotermes convulsionarius 震撼大白蚁（South Asia, India, Sri Lanka）
+[*Macrotermes convulsionarius* 震撼大白蚁]({{ site.base_url }}/species/macrotermes-convulsionarius/)（South Asia, India, Sri Lanka）
 
-Macrotermes declivatus 箕头大白蚁（Yunnan, China, Jinggu）
+[*Macrotermes declivatus* 箕头大白蚁]({{ site.base_url }}/species/macrotermes-declivatus/)（Yunnan, China, Jinggu）
 
-Macrotermes denticulatus 细齿大白蚁（Yunnan, China, Xiaomenglun, Hainan, Xinglong, Guangxi, Pingxiang）
+[*Macrotermes denticulatus* 细齿大白蚁]({{ site.base_url }}/species/macrotermes-denticulatus/)（Yunnan, China, Xiaomenglun, Hainan, Xinglong, Guangxi, Pingxiang）
 
-Macrotermes falciger 镰刀大白蚁（Old World tropics, West Africa, East Africa, southern Africa, Benin, Central African Republic, Democratic Republic of the Congo, Ghana, Guinea, Kenya, Malawi, Mozambique, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe）
+[*Macrotermes falciger* 镰刀大白蚁]({{ site.base_url }}/species/macrotermes-falciger/)（Old World tropics, West Africa, East Africa, southern Africa, Benin, Central African Republic, Democratic Republic of the Congo, Ghana, Guinea, Kenya, Malawi, Mozambique, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe）
 
-Macrotermes gilvus 暗黄大白蚁（Old World tropics, Indonesia, Malaysia, Philippines, Singapore, Thailand, Cambodia, Timor-Leste, Myanmar, Vietnam）
+[*Macrotermes gilvus* 暗黄大白蚁]({{ site.base_url }}/species/macrotermes-gilvus/)（Old World tropics, Indonesia, Malaysia, Philippines, Singapore, Thailand, Cambodia, Timor-Leste, Myanmar, Vietnam）
 
-Macrotermes gratus 可爱大白蚁（West Africa, Togo）
+[*Macrotermes gratus* 可爱大白蚁]({{ site.base_url }}/species/macrotermes-gratus/)（West Africa, Togo）
 
-Macrotermes guangxiensis 广西大白蚁（Guangxi, China, Nanning）
+[*Macrotermes guangxiensis* 广西大白蚁]({{ site.base_url }}/species/macrotermes-guangxiensis/)（Guangxi, China, Nanning）
 
-Macrotermes hainanensis 海南大白蚁（China (Hainan)）
+[*Macrotermes hainanensis* 海南大白蚁]({{ site.base_url }}/species/macrotermes-hainanensis/)（China (Hainan)）
 
-Macrotermes herus 优势大白蚁（Old World tropics, West Africa, East Africa, Ethiopia, Guinea, Kenya, Nigeria, Somalia, Sudan, Tanzania）
+[*Macrotermes herus* 优势大白蚁]({{ site.base_url }}/species/macrotermes-herus/)（Old World tropics, West Africa, East Africa, Ethiopia, Guinea, Kenya, Nigeria, Somalia, Sudan, Tanzania）
 
-Macrotermes hopini 和平大白蚁（Myanmar, northeastern India）
+[*Macrotermes hopini* 和平大白蚁]({{ site.base_url }}/species/macrotermes-hopini/)（Myanmar, northeastern India）
 
-Macrotermes incisus 凹缘大白蚁（China）
+[*Macrotermes incisus* 凹缘大白蚁]({{ site.base_url }}/species/macrotermes-incisus/)（China）
 
-Macrotermes ituriensis 伊图里大白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Macrotermes ituriensis* 伊图里大白蚁]({{ site.base_url }}/species/macrotermes-ituriensis/)（Central African Republic, Democratic Republic of the Congo）
 
-Macrotermes ivorensis 象牙海岸大白蚁（West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Nigeria, Senegal, Sierra Leone）
+[*Macrotermes ivorensis* 象牙海岸大白蚁]({{ site.base_url }}/species/macrotermes-ivorensis/)（West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Nigeria, Senegal, Sierra Leone）
 
-Macrotermes jinghongensis 景洪大白蚁（China (Yunnan), Jinghong）
+[*Macrotermes jinghongensis* 景洪大白蚁]({{ site.base_url }}/species/macrotermes-jinghongensis/)（China (Yunnan), Jinghong）
 
-Macrotermes khajuriai 哈贾瑞大白蚁（northeastern India, Bhutan）
+[*Macrotermes khajuriai* 哈贾瑞大白蚁]({{ site.base_url }}/species/macrotermes-khajuriai/)（northeastern India, Bhutan）
 
-Macrotermes latignathus 宽颚大白蚁（Nepal, Malaysia）
+[*Macrotermes latignathus* 宽颚大白蚁]({{ site.base_url }}/species/macrotermes-latignathus/)（Nepal, Malaysia）
 
-\*Macrotermes lilljeborgi 利勒伯格大白蚁（Central Africa, Cameroon, Republic of the Congo, Gabon, Democratic Republic of the Congo, Nigeria, Tanzania）
+\*[*Macrotermes lilljeborgi* 利勒伯格大白蚁]({{ site.base_url }}/species/macrotermes-lilljeborgi/)（Central Africa, Cameroon, Republic of the Congo, Gabon, Democratic Republic of the Congo, Nigeria, Tanzania）
 
-Macrotermes longiceps 长头大白蚁（Hainan, China, Diaoluo Mountain, Guangxi）
+[*Macrotermes longiceps* 长头大白蚁]({{ site.base_url }}/species/macrotermes-longiceps/)（Hainan, China, Diaoluo Mountain, Guangxi）
 
-Macrotermes longimentis 长颏大白蚁（Guangxi, China, Beihai）
+[*Macrotermes longimentis* 长颏大白蚁]({{ site.base_url }}/species/macrotermes-longimentis/)（Guangxi, China, Beihai）
 
-Macrotermes luokengensis 罗坑大白蚁（Guangdong, China, Dianbai）
+[*Macrotermes luokengensis* 罗坑大白蚁]({{ site.base_url }}/species/macrotermes-luokengensis/)（Guangdong, China, Dianbai）
 
-Macrotermes maesodensis 湄索德大白蚁（Southeast Asia, Vietnam, Thailand）
+[*Macrotermes maesodensis* 湄索德大白蚁]({{ site.base_url }}/species/macrotermes-maesodensis/)（Southeast Asia, Vietnam, Thailand）
 
-Macrotermes malaccensis 马六甲大白蚁（Southeast Asia, Malaysia, Indonesia, Singapore, Cambodia, Thailand, Vietnam）
+[*Macrotermes malaccensis* 马六甲大白蚁]({{ site.base_url }}/species/macrotermes-malaccensis/)（Southeast Asia, Malaysia, Indonesia, Singapore, Cambodia, Thailand, Vietnam）
 
-Macrotermes meidoensis 梅多大白蚁（Tibet, China, Medog）
+[*Macrotermes meidoensis* 梅多大白蚁]({{ site.base_url }}/species/macrotermes-meidoensis/)（Tibet, China, Medog）
 
-Macrotermes menglongensis 勐龙大白蚁（Yunnan, China, Damenglong）
+[*Macrotermes menglongensis* 勐龙大白蚁]({{ site.base_url }}/species/macrotermes-menglongensis/)（Yunnan, China, Damenglong）
 
-Macrotermes michaelseni 米夏埃尔森大白蚁（Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe）
+[*Macrotermes michaelseni* 米夏埃尔森大白蚁]({{ site.base_url }}/species/macrotermes-michaelseni/)（Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe）
 
-Macrotermes natalensis 纳塔尔大白蚁（Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Botswana, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Eritrea, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Kenya, Liberia, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe）
+[*Macrotermes natalensis* 纳塔尔大白蚁]({{ site.base_url }}/species/macrotermes-natalensis/)（Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Botswana, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Eritrea, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Kenya, Liberia, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe）
 
-Macrotermes niger 黑色大白蚁（Central African Republic, Cameroon）
+[*Macrotermes niger* 黑色大白蚁]({{ site.base_url }}/species/macrotermes-niger/)（Central African Republic, Cameroon）
 
-Macrotermes nobilis 闻名大白蚁（Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon）
+[*Macrotermes nobilis* 闻名大白蚁]({{ site.base_url }}/species/macrotermes-nobilis/)（Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon）
 
-Macrotermes orthognathus 直颚大白蚁（Guizhou, China, Xingyi）
+[*Macrotermes orthognathus* 直颚大白蚁]({{ site.base_url }}/species/macrotermes-orthognathus/)（Guizhou, China, Xingyi）
 
-Macrotermes peritrimorphus 近三型大白蚁（Guangxi, China, Hexian Huashuichong）
+[*Macrotermes peritrimorphus* 近三型大白蚁]({{ site.base_url }}/species/macrotermes-peritrimorphus/)（Guangxi, China, Hexian Huashuichong）
 
-Macrotermes planicapitatus 平头大白蚁（China (Hong Kong)）
+[*Macrotermes planicapitatus* 平头大白蚁]({{ site.base_url }}/species/macrotermes-planicapitatus/)（China (Hong Kong)）
 
-Macrotermes probeaufortensis 似保佛大白蚁（Malaysia）
+[*Macrotermes probeaufortensis* 似保佛大白蚁]({{ site.base_url }}/species/macrotermes-probeaufortensis/)（Malaysia）
 
-Macrotermes renouxi 勒努大白蚁（Cameroon, Congo）
+[*Macrotermes renouxi* 勒努大白蚁]({{ site.base_url }}/species/macrotermes-renouxi/)（Cameroon, Congo）
 
-Macrotermes serrulatus 细锯齿大白蚁（Southeast Asia, Myanmar, Bangladesh, India）
+[*Macrotermes serrulatus* 细锯齿大白蚁]({{ site.base_url }}/species/macrotermes-serrulatus/)（Southeast Asia, Myanmar, Bangladesh, India）
 
-Macrotermes singaporensis 新加坡大白蚁（Singapore）
+[*Macrotermes singaporensis* 新加坡大白蚁]({{ site.base_url }}/species/macrotermes-singaporensis/)（Singapore）
 
-Macrotermes subhyalinus 近明大白蚁（Old World tropics, Kenya, Ethiopia, Tanzania, Senegal, Côte d'Ivoire, Angola, Benin, Botswana, Burundi, Central African Republic, Chad, Democratic Republic of the Congo, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Malawi, Mali, Mozambique, Namibia, Nigeria, Oman, Rwanda, Saudi Arabia, Sierra Leone, Somalia, Sudan, Togo, Uganda, Yemen, Zambia, Zimbabwe）
+[*Macrotermes subhyalinus* 近明大白蚁]({{ site.base_url }}/species/macrotermes-subhyalinus/)（Old World tropics, Kenya, Ethiopia, Tanzania, Senegal, Côte d'Ivoire, Angola, Benin, Botswana, Burundi, Central African Republic, Chad, Democratic Republic of the Congo, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Malawi, Mali, Mozambique, Namibia, Nigeria, Oman, Rwanda, Saudi Arabia, Sierra Leone, Somalia, Sudan, Togo, Uganda, Yemen, Zambia, Zimbabwe）
 
-Macrotermes trapezoides 梯头大白蚁（Hainan, China, Yaxian）
+[*Macrotermes trapezoides* 梯头大白蚁]({{ site.base_url }}/species/macrotermes-trapezoides/)（Hainan, China, Yaxian）
 
-Macrotermes trimorphus 三型大白蚁（Guangxi, China, Longzhou）
+[*Macrotermes trimorphus* 三型大白蚁]({{ site.base_url }}/species/macrotermes-trimorphus/)（Guangxi, China, Longzhou）
 
-Macrotermes ukuzii 乌库兹大白蚁（southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania）
+[*Macrotermes ukuzii* 乌库兹大白蚁]({{ site.base_url }}/species/macrotermes-ukuzii/)（southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania）
 
-Macrotermes vikaspurensis 维卡斯布尔大白蚁（India）
+[*Macrotermes vikaspurensis* 维卡斯布尔大白蚁]({{ site.base_url }}/species/macrotermes-vikaspurensis/)（India）
 
-Macrotermes vitrialatus 明翼大白蚁（Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe）
+[*Macrotermes vitrialatus* 明翼大白蚁]({{ site.base_url }}/species/macrotermes-vitrialatus/)（Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe）
 
-Macrotermes yunnanensis 云南大白蚁（China (Yunnan), Jinghong (Damenglong)）
+[*Macrotermes yunnanensis* 云南大白蚁]({{ site.base_url }}/species/macrotermes-yunnanensis/)（China (Yunnan), Jinghong (Damenglong)）
 
-Macrotermes zhejiangensis 浙江大白蚁（Zhejiang, China, Quzhou）
+[*Macrotermes zhejiangensis* 浙江大白蚁]({{ site.base_url }}/species/macrotermes-zhejiangensis/)（Zhejiang, China, Quzhou）
 
-Macrotermes zhui 朱氏大白蚁（China (Guangxi)）
+[*Macrotermes zhui* 朱氏大白蚁]({{ site.base_url }}/species/macrotermes-zhui/)（China (Guangxi)）
 
 <h5 id="megaprotermes">Megaprotermes</h5>
 
-\*Megaprotermes giffardii 吉法德大前白蚁（Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal）
+\*[*Megaprotermes giffardii* 吉法德大前白蚁]({{ site.base_url }}/species/megaprotermes-giffardii/)（Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal）
 
 <h5 id="microtermes">Microtermes</h5>
 
-Microtermes aethiopicus 埃塞俄比亚小白蚁（Ethiopia）
+[*Microtermes aethiopicus* 埃塞俄比亚小白蚁]({{ site.base_url }}/species/microtermes-aethiopicus/)（Ethiopia）
 
-Microtermes albinotus 白背小白蚁（distribution to be verified）
+[*Microtermes albinotus* 白背小白蚁]({{ site.base_url }}/species/microtermes-albinotus/)（distribution to be verified）
 
-Microtermes albopartitus 部白小白蚁（southern Africa, South Africa, Cameroon, Democratic Republic of the Congo, Malawi, Tanzania）
+[*Microtermes albopartitus* 部白小白蚁]({{ site.base_url }}/species/microtermes-albopartitus/)（southern Africa, South Africa, Cameroon, Democratic Republic of the Congo, Malawi, Tanzania）
 
-Microtermes alluaudanus 阿留奥德小白蚁（Cameroon, Kenya, Malawi, Tanzania）
+[*Microtermes alluaudanus* 阿留奥德小白蚁]({{ site.base_url }}/species/microtermes-alluaudanus/)（Cameroon, Kenya, Malawi, Tanzania）
 
-Microtermes aluco 林鸮小白蚁（West Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Sudan）
+[*Microtermes aluco* 林鸮小白蚁]({{ site.base_url }}/species/microtermes-aluco/)（West Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Sudan）
 
-Microtermes baginei 巴吉勒小白蚁（Kenya）
+[*Microtermes baginei* 巴吉勒小白蚁]({{ site.base_url }}/species/microtermes-baginei/)（Kenya）
 
-Microtermes bharatpurensis 珀勒德布尔小白蚁（South Asia, Rajasthan, India）
+[*Microtermes bharatpurensis* 珀勒德布尔小白蚁]({{ site.base_url }}/species/microtermes-bharatpurensis/)（South Asia, Rajasthan, India）
 
-Microtermes bouvieri 布维尔小白蚁（Democratic Republic of the Congo）
+[*Microtermes bouvieri* 布维尔小白蚁]({{ site.base_url }}/species/microtermes-bouvieri/)（Democratic Republic of the Congo）
 
-Microtermes calvus 无毛小白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Microtermes calvus* 无毛小白蚁]({{ site.base_url }}/species/microtermes-calvus/)（Central African Republic, Democratic Republic of the Congo）
 
-Microtermes cherberensis 谢尔贝小白蚁（Kenya）
+[*Microtermes cherberensis* 谢尔贝小白蚁]({{ site.base_url }}/species/microtermes-cherberensis/)（Kenya）
 
-Microtermes chomaensis 乔马小白蚁（Zambia）
+[*Microtermes chomaensis* 乔马小白蚁]({{ site.base_url }}/species/microtermes-chomaensis/)（Zambia）
 
-Microtermes congoensis 刚果小白蚁（Central Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Angola）
+[*Microtermes congoensis* 刚果小白蚁]({{ site.base_url }}/species/microtermes-congoensis/)（Central Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Angola）
 
-comprehensa 捕获亚种
+[*comprehensa* 捕获亚种]({{ site.base_url }}/species/microtermes-congoensis-comprehensa/)
 
-congoensis 指名亚种
+[*congoensis* 指名亚种]({{ site.base_url }}/species/microtermes-congoensis-congoensis/)
 
-Microtermes darlingtonae 达林顿小白蚁（Kenya）
+[*Microtermes darlingtonae* 达林顿小白蚁]({{ site.base_url }}/species/microtermes-darlingtonae/)（Kenya）
 
-Microtermes depauperata 矮小小白蚁（Cameroon）
+[*Microtermes depauperata* 矮小小白蚁]({{ site.base_url }}/species/microtermes-depauperata/)（Cameroon）
 
-Microtermes divellens 撕裂小白蚁（Madagascar）
+[*Microtermes divellens* 撕裂小白蚁]({{ site.base_url }}/species/microtermes-divellens/)（Madagascar）
 
-Microtermes dubius 疑问小白蚁（southern Africa, South Africa）
+[*Microtermes dubius* 疑问小白蚁]({{ site.base_url }}/species/microtermes-dubius/)（southern Africa, South Africa）
 
-Microtermes edwini 埃德温小白蚁（Kenya）
+[*Microtermes edwini* 埃德温小白蚁]({{ site.base_url }}/species/microtermes-edwini/)（Kenya）
 
-Microtermes etiolatus 苍白小白蚁（Mozambique, South Africa, Zambia）
+[*Microtermes etiolatus* 苍白小白蚁]({{ site.base_url }}/species/microtermes-etiolatus/)（Mozambique, South Africa, Zambia）
 
-Microtermes feae 菲氏小白蚁（West Africa, Guinea-Bissau and Gulf of Guinea islands, Cameroon, Equatorial Guinea）
+[*Microtermes feae* 菲氏小白蚁]({{ site.base_url }}/species/microtermes-feae/)（West Africa, Guinea-Bissau and Gulf of Guinea islands, Cameroon, Equatorial Guinea）
 
-Microtermes grassei 格拉塞小白蚁（West Africa, Togo, Gambia）
+[*Microtermes grassei* 格拉塞小白蚁]({{ site.base_url }}/species/microtermes-grassei/)（West Africa, Togo, Gambia）
 
-Microtermes havilandi 哈维兰小白蚁（southern Africa, South Africa）
+[*Microtermes havilandi* 哈维兰小白蚁]({{ site.base_url }}/species/microtermes-havilandi/)（southern Africa, South Africa）
 
-Microtermes hollandei 霍兰德小白蚁（West Africa, Senegal）
+[*Microtermes hollandei* 霍兰德小白蚁]({{ site.base_url }}/species/microtermes-hollandei/)（West Africa, Senegal）
 
-Microtermes imphalensis 英帕尔小白蚁（South Asia, Manipur, India）
+[*Microtermes imphalensis* 英帕尔小白蚁]({{ site.base_url }}/species/microtermes-imphalensis/)（South Asia, Manipur, India）
 
-Microtermes incertoides 似可疑小白蚁（South Asia, India）
+[*Microtermes incertoides* 似可疑小白蚁]({{ site.base_url }}/species/microtermes-incertoides/)（South Asia, India）
 
-\*Microtermes incertus 可疑小白蚁（southern Africa, South Africa）
+\*[*Microtermes incertus* 可疑小白蚁]({{ site.base_url }}/species/microtermes-incertus/)（southern Africa, South Africa）
 
-Microtermes insperatus 未料小白蚁（Southeast Asia, Indonesia）
+[*Microtermes insperatus* 未料小白蚁]({{ site.base_url }}/species/microtermes-insperatus/)（Southeast Asia, Indonesia）
 
-Microtermes jacobsoni 雅各布森小白蚁（Southeast Asia, Indonesia）
+[*Microtermes jacobsoni* 雅各布森小白蚁]({{ site.base_url }}/species/microtermes-jacobsoni/)（Southeast Asia, Indonesia）
 
-Microtermes kairoonae 凯罗娜小白蚁（Kenya）
+[*Microtermes kairoonae* 凯罗娜小白蚁]({{ site.base_url }}/species/microtermes-kairoonae/)（Kenya）
 
-Microtermes kasaiensis 开赛小白蚁（Central Africa, Democratic Republic of the Congo, Kenya, Malawi, Uganda）
+[*Microtermes kasaiensis* 开赛小白蚁]({{ site.base_url }}/species/microtermes-kasaiensis/)（Central Africa, Democratic Republic of the Congo, Kenya, Malawi, Uganda）
 
-Microtermes kauderni 考登小白蚁（Madagascar）
+[*Microtermes kauderni* 考登小白蚁]({{ site.base_url }}/species/microtermes-kauderni/)（Madagascar）
 
-Microtermes lepidus 可爱小白蚁（West Africa, Senegal, Burkina Faso, Gambia, Mali）
+[*Microtermes lepidus* 可爱小白蚁]({{ site.base_url }}/species/microtermes-lepidus/)（West Africa, Senegal, Burkina Faso, Gambia, Mali）
 
-Microtermes logani 洛根小白蚁（Malawi）
+[*Microtermes logani* 洛根小白蚁]({{ site.base_url }}/species/microtermes-logani/)（Malawi）
 
-Microtermes lokoriensis 洛科里小白蚁（Kenya）
+[*Microtermes lokoriensis* 洛科里小白蚁]({{ site.base_url }}/species/microtermes-lokoriensis/)（Kenya）
 
-Microtermes lounsburyi 劳恩斯伯里小白蚁（southern Africa, South Africa, Malawi）
+[*Microtermes lounsburyi* 劳恩斯伯里小白蚁]({{ site.base_url }}/species/microtermes-lounsburyi/)（southern Africa, South Africa, Malawi）
 
-Microtermes luteus 橘黄小白蚁（Kenya, Malawi, Tanzania, Zambia）
+[*Microtermes luteus* 橘黄小白蚁]({{ site.base_url }}/species/microtermes-luteus/)（Kenya, Malawi, Tanzania, Zambia）
 
-Microtermes macronotus 大背小白蚁（Sri Lanka）
+[*Microtermes macronotus* 大背小白蚁]({{ site.base_url }}/species/microtermes-macronotus/)（Sri Lanka）
 
-Microtermes magnocellus 大单眼小白蚁（Ethiopia, Malawi, Tanzania, Zambia）
+[*Microtermes magnocellus* 大单眼小白蚁]({{ site.base_url }}/species/microtermes-magnocellus/)（Ethiopia, Malawi, Tanzania, Zambia）
 
-Microtermes magnoculus 大眼小白蚁（Somalia）
+[*Microtermes magnoculus* 大眼小白蚁]({{ site.base_url }}/species/microtermes-magnoculus/)（Somalia）
 
-Microtermes mangzhuangensis 曼庄小白蚁（Yunnan, China, Mengla）
+[*Microtermes mangzhuangensis* 曼庄小白蚁]({{ site.base_url }}/species/microtermes-mangzhuangensis/)（Yunnan, China, Mengla）
 
-Microtermes mariae 玛丽亚小白蚁（Kenya）
+[*Microtermes mariae* 玛丽亚小白蚁]({{ site.base_url }}/species/microtermes-mariae/)（Kenya）
 
-Microtermes menglunensis 勐仑小白蚁（Yunnan, China, Menglun）
+[*Microtermes menglunensis* 勐仑小白蚁]({{ site.base_url }}/species/microtermes-menglunensis/)（Yunnan, China, Menglun）
 
-Microtermes mengpengensis 勐捧小白蚁（Yunnan, China, Mengpeng）
+[*Microtermes mengpengensis* 勐捧小白蚁]({{ site.base_url }}/species/microtermes-mengpengensis/)（Yunnan, China, Mengpeng）
 
-Microtermes microthorax 小胸小白蚁（(country unknown)）
+[*Microtermes microthorax* 小胸小白蚁]({{ site.base_url }}/species/microtermes-microthorax/)（(country unknown)）
 
-Microtermes mokeetsei 莫凯特兹小白蚁（South Africa）
+[*Microtermes mokeetsei* 莫凯特兹小白蚁]({{ site.base_url }}/species/microtermes-mokeetsei/)（South Africa）
 
-Microtermes mulii 穆利小白蚁（Kenya）
+[*Microtermes mulii* 穆利小白蚁]({{ site.base_url }}/species/microtermes-mulii/)（Kenya）
 
-Microtermes mycophagus 食菌小白蚁（South Asia, India, Pakistan, Iran）
+[*Microtermes mycophagus* 食菌小白蚁]({{ site.base_url }}/species/microtermes-mycophagus/)（South Asia, India, Pakistan, Iran）
 
-Microtermes najdensis 内志小白蚁（Arabian Peninsula, Saudi Arabia, Yemen, Sudan）
+[*Microtermes najdensis* 内志小白蚁]({{ site.base_url }}/species/microtermes-najdensis/)（Arabian Peninsula, Saudi Arabia, Yemen, Sudan）
 
-Microtermes neghelliensis 内格豪尔小白蚁（Ethiopia）
+[*Microtermes neghelliensis* 内格豪尔小白蚁]({{ site.base_url }}/species/microtermes-neghelliensis/)（Ethiopia）
 
-Microtermes obesi 奥贝斯小白蚁（South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran）
+[*Microtermes obesi* 奥贝斯小白蚁]({{ site.base_url }}/species/microtermes-obesi/)（South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran）
 
-Microtermes occidentalis 西部小白蚁（South Africa）
+[*Microtermes occidentalis* 西部小白蚁]({{ site.base_url }}/species/microtermes-occidentalis/)（South Africa）
 
-Microtermes osborni 奥斯本小白蚁（Angola, Democratic Republic of the Congo, Ethiopia）
+[*Microtermes osborni* 奥斯本小白蚁]({{ site.base_url }}/species/microtermes-osborni/)（Angola, Democratic Republic of the Congo, Ethiopia）
 
-Microtermes pallidiventris 白腹小白蚁（Democratic Republic of the Congo）
+[*Microtermes pallidiventris* 白腹小白蚁]({{ site.base_url }}/species/microtermes-pallidiventris/)（Democratic Republic of the Congo）
 
-Microtermes pamelae 帕梅拉小白蚁（Zambia）
+[*Microtermes pamelae* 帕梅拉小白蚁]({{ site.base_url }}/species/microtermes-pamelae/)（Zambia）
 
-Microtermes problematicus 问题小白蚁（Senegal）
+[*Microtermes problematicus* 问题小白蚁]({{ site.base_url }}/species/microtermes-problematicus/)（Senegal）
 
-Microtermes pusillus 极小小白蚁（West Africa, Cameroon）
+[*Microtermes pusillus* 极小小白蚁]({{ site.base_url }}/species/microtermes-pusillus/)（West Africa, Cameroon）
 
-Microtermes redenianus 雷登小白蚁（East Africa, Tanzania, Chad, Democratic Republic of the Congo）
+[*Microtermes redenianus* 雷登小白蚁]({{ site.base_url }}/species/microtermes-redenianus/)（East Africa, Tanzania, Chad, Democratic Republic of the Congo）
 
-Microtermes sakalava 萨卡拉瓦小白蚁（Madagascar）
+[*Microtermes sakalava* 萨卡拉瓦小白蚁]({{ site.base_url }}/species/microtermes-sakalava/)（Madagascar）
 
-Microtermes sindensis 信德小白蚁（South Asia, Sindh, Pakistan）
+[*Microtermes sindensis* 信德小白蚁]({{ site.base_url }}/species/microtermes-sindensis/)（South Asia, Sindh, Pakistan）
 
-Microtermes sjostedti 舍斯泰特小白蚁（Democratic Republic of the Congo）
+[*Microtermes sjostedti* 舍斯泰特小白蚁]({{ site.base_url }}/species/microtermes-sjostedti/)（Democratic Republic of the Congo）
 
-Microtermes somaliensis 索马里小白蚁（East Africa, Somalia）
+[*Microtermes somaliensis* 索马里小白蚁]({{ site.base_url }}/species/microtermes-somaliensis/)（East Africa, Somalia）
 
-Microtermes subhyalinus 近明小白蚁（West Africa, Côte d'Ivoire, Senegal, Gambia, Burkina Faso, Saudi Arabia, Yemen）
+[*Microtermes subhyalinus* 近明小白蚁]({{ site.base_url }}/species/microtermes-subhyalinus/)（West Africa, Côte d'Ivoire, Senegal, Gambia, Burkina Faso, Saudi Arabia, Yemen）
 
-Microtermes thoracalis 胸突小白蚁（West Africa, Côte d'Ivoire, Sudan）
+[*Microtermes thoracalis* 胸突小白蚁]({{ site.base_url }}/species/microtermes-thoracalis/)（West Africa, Côte d'Ivoire, Sudan）
 
-Microtermes toumodiensis 图莫迪小白蚁（West Africa, Côte d'Ivoire, Senegal, Togo）
+[*Microtermes toumodiensis* 图莫迪小白蚁]({{ site.base_url }}/species/microtermes-toumodiensis/)（West Africa, Côte d'Ivoire, Senegal, Togo）
 
-Microtermes tragardhi 特雷高小白蚁（Old World tropics, East Africa, southern Africa）
+[*Microtermes tragardhi* 特雷高小白蚁]({{ site.base_url }}/species/microtermes-tragardhi/)（Old World tropics, East Africa, southern Africa）
 
-Microtermes tsavoensis 察沃小白蚁（East Africa, Tsavo, Kenya）
+[*Microtermes tsavoensis* 察沃小白蚁]({{ site.base_url }}/species/microtermes-tsavoensis/)（East Africa, Tsavo, Kenya）
 
-Microtermes unicolor 单色小白蚁（South Asia, Pakistan, India）
+[*Microtermes unicolor* 单色小白蚁]({{ site.base_url }}/species/microtermes-unicolor/)（South Asia, Pakistan, India）
 
-Microtermes upembae 乌彭巴小白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Microtermes upembae* 乌彭巴小白蚁]({{ site.base_url }}/species/microtermes-upembae/)（Central African Republic, Democratic Republic of the Congo）
 
-Microtermes vadschaggae 瓦斯查嘎小白蚁（East Africa, Tanzania, Senegal）
+[*Microtermes vadschaggae* 瓦斯查嘎小白蚁]({{ site.base_url }}/species/microtermes-vadschaggae/)（East Africa, Tanzania, Senegal）
 
-Microtermes yemenensis 也门小白蚁（Arabian Peninsula, Yemen, Saudi Arabia）
+[*Microtermes yemenensis* 也门小白蚁]({{ site.base_url }}/species/microtermes-yemenensis/)（Arabian Peninsula, Yemen, Saudi Arabia）
 
 <h5 id="odontotermes">Odontotermes</h5>
 
-Odontotermes acutidens 尖齿土白蚁（West Africa, Côte d'Ivoire, Ghana, Guinea）
+[*Odontotermes acutidens* 尖齿土白蚁]({{ site.base_url }}/species/odontotermes-acutidens/)（West Africa, Côte d'Ivoire, Ghana, Guinea）
 
-Odontotermes adampurensis 阿达姆普尔土白蚁（South Asia, India, Bangladesh）
+[*Odontotermes adampurensis* 阿达姆普尔土白蚁]({{ site.base_url }}/species/odontotermes-adampurensis/)（South Asia, India, Bangladesh）
 
-Odontotermes agilis 快捷土白蚁（West Africa, Liberia）
+[*Odontotermes agilis* 快捷土白蚁]({{ site.base_url }}/species/odontotermes-agilis/)（West Africa, Liberia）
 
-Odontotermes akengeensis 阿肯土白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Odontotermes akengeensis* 阿肯土白蚁]({{ site.base_url }}/species/odontotermes-akengeensis/)（Central African Republic, Democratic Republic of the Congo）
 
-Odontotermes amanicus 阿马尼（East Africa, Tanzania, Kenya, Zanzibar）
+[*Odontotermes amanicus* 阿马尼]({{ site.base_url }}/species/odontotermes-amanicus/)（East Africa, Tanzania, Kenya, Zanzibar）
 
-Odontotermes amaniensis 阿马尼（East Africa (Kenya, Tanzania)）
+[*Odontotermes amaniensis* 阿马尼]({{ site.base_url }}/species/odontotermes-amaniensis/)（East Africa (Kenya, Tanzania)）
 
-Odontotermes anamallensis 安纳马赖土白蚁（South Asia (India)）
+[*Odontotermes anamallensis* 安纳马赖土白蚁]({{ site.base_url }}/species/odontotermes-anamallensis/)（South Asia (India)）
 
-Odontotermes anceps 裂头土白蚁（East Africa (Kenya, Ethiopia, Tanzania)）
+[*Odontotermes anceps* 裂头土白蚁]({{ site.base_url }}/species/odontotermes-anceps/)（East Africa (Kenya, Ethiopia, Tanzania)）
 
-Odontotermes angustatus 细窄土白蚁（southern Africa (South Africa)）
+[*Odontotermes angustatus* 细窄土白蚁]({{ site.base_url }}/species/odontotermes-angustatus/)（southern Africa (South Africa)）
 
-Odontotermes angustignathus 细颚土白蚁（Southeast Asia, Vietnam, China）
+[*Odontotermes angustignathus* 细颚土白蚁]({{ site.base_url }}/species/odontotermes-angustignathus/)（Southeast Asia, Vietnam, China）
 
-Odontotermes angustipennis 窄翅土白蚁（Old World tropics, Central Africa, East Africa, Democratic Republic of the Congo）
+[*Odontotermes angustipennis* 窄翅土白蚁]({{ site.base_url }}/species/odontotermes-angustipennis/)（Old World tropics, Central Africa, East Africa, Democratic Republic of the Congo）
 
-Odontotermes annulicornis 环角土白蚁（China (Yunnan)）
+[*Odontotermes annulicornis* 环角土白蚁]({{ site.base_url }}/species/odontotermes-annulicornis/)（China (Yunnan)）
 
-Odontotermes apollo 阿波罗土白蚁（East Africa (Kenya, Tanzania)）
+[*Odontotermes apollo* 阿波罗土白蚁]({{ site.base_url }}/species/odontotermes-apollo/)（East Africa (Kenya, Tanzania)）
 
-Odontotermes aquaticus 河边土白蚁（Central Africa, Cameroon, Togo）
+[*Odontotermes aquaticus* 河边土白蚁]({{ site.base_url }}/species/odontotermes-aquaticus/)（Central Africa, Cameroon, Togo）
 
-Odontotermes assmuthi 阿斯穆斯土白蚁（South Asia (India, Pakistan, Bangladesh)）
+[*Odontotermes assmuthi* 阿斯穆斯土白蚁]({{ site.base_url }}/species/odontotermes-assmuthi/)（South Asia (India, Pakistan, Bangladesh)）
 
-Odontotermes aurora 黎明土白蚁（East Africa, Tanzania, Zanzibar）
+[*Odontotermes aurora* 黎明土白蚁]({{ site.base_url }}/species/odontotermes-aurora/)（East Africa, Tanzania, Zanzibar）
 
-Odontotermes badius 栗色土白蚁（Old World tropics (West Africa), East Africa, southern Africa）
+[*Odontotermes badius* 栗色土白蚁]({{ site.base_url }}/species/odontotermes-badius/)（Old World tropics (West Africa), East Africa, southern Africa）
 
-badius 指名亚种
+[*badius* 指名亚种]({{ site.base_url }}/species/odontotermes-badius-badius/)
 
-littoralis 海滨亚种
+[*littoralis* 海滨亚种]({{ site.base_url }}/species/odontotermes-badius-littoralis/)
 
-Odontotermes bellahunisensis 贝拉胡尼斯土白蚁（South Asia (India)）
+[*Odontotermes bellahunisensis* 贝拉胡尼斯土白蚁]({{ site.base_url }}/species/odontotermes-bellahunisensis/)（South Asia (India)）
 
-Odontotermes bequaerti 贝奎特土白蚁（Old World tropics, West Africa, Central Africa, Democratic Republic of the Congo, Ghana）
+[*Odontotermes bequaerti* 贝奎特土白蚁]({{ site.base_url }}/species/odontotermes-bequaerti/)（Old World tropics, West Africa, Central Africa, Democratic Republic of the Congo, Ghana）
 
-Odontotermes bhagwatii 巴格瓦蒂土白蚁（South Asia (India)）
+[*Odontotermes bhagwatii* 巴格瓦蒂土白蚁]({{ site.base_url }}/species/odontotermes-bhagwatii/)（South Asia (India)）
 
-Odontotermes billitoni 利顿土白蚁（Southeast Asia (Indonesia, Malaysia)）
+[*Odontotermes billitoni* 利顿土白蚁]({{ site.base_url }}/species/odontotermes-billitoni/)（Southeast Asia (Indonesia, Malaysia)）
 
-Odontotermes boetonensis 博顿土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes boetonensis* 博顿土白蚁]({{ site.base_url }}/species/odontotermes-boetonensis/)（Southeast Asia (Indonesia)）
 
-Odontotermes bogoriensis 茂物土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes bogoriensis* 茂物土白蚁]({{ site.base_url }}/species/odontotermes-bogoriensis/)（Southeast Asia (Indonesia)）
 
-Odontotermes bomaensis 博马土白蚁（Democratic Republic of the Congo）
+[*Odontotermes bomaensis* 博马土白蚁]({{ site.base_url }}/species/odontotermes-bomaensis/)（Democratic Republic of the Congo）
 
-Odontotermes boranicus 博拉娜土白蚁（East Africa (Kenya, Ethiopia, Tanzania)）
+[*Odontotermes boranicus* 博拉娜土白蚁]({{ site.base_url }}/species/odontotermes-boranicus/)（East Africa (Kenya, Ethiopia, Tanzania)）
 
-Odontotermes bottegoanus 博泰戈土白蚁（East Africa, Ethiopia）
+[*Odontotermes bottegoanus* 博泰戈土白蚁]({{ site.base_url }}/species/odontotermes-bottegoanus/)（East Africa, Ethiopia）
 
-Odontotermes boveni 博韦土白蚁（South Asia, India, Nepal）
+[*Odontotermes boveni* 博韦土白蚁]({{ site.base_url }}/species/odontotermes-boveni/)（South Asia, India, Nepal）
 
-Odontotermes brunneus 棕色土白蚁（South Asia, India, unspecified）
+[*Odontotermes brunneus* 棕色土白蚁]({{ site.base_url }}/species/odontotermes-brunneus/)（South Asia, India, unspecified）
 
-Odontotermes buchholzi 巴克霍尔兹土白蚁（Central Africa, Gabon, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Liberia）
+[*Odontotermes buchholzi* 巴克霍尔兹土白蚁]({{ site.base_url }}/species/odontotermes-buchholzi/)（Central Africa, Gabon, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Liberia）
 
-Odontotermes butteli 巴特土白蚁（Southeast Asia, Malaysia, Indonesia）
+[*Odontotermes butteli* 巴特土白蚁]({{ site.base_url }}/species/odontotermes-butteli/)（Southeast Asia, Malaysia, Indonesia）
 
-Odontotermes caffrariae 卡夫拉尼亚土白蚁（southern Africa, South Africa, Tanzania）
+[*Odontotermes caffrariae* 卡夫拉尼亚土白蚁]({{ site.base_url }}/species/odontotermes-caffrariae/)（southern Africa, South Africa, Tanzania）
 
-Odontotermes capensis 好望角土白蚁（Old World tropics, West Africa, southern Africa, South Africa）
+[*Odontotermes capensis* 好望角土白蚁]({{ site.base_url }}/species/odontotermes-capensis/)（Old World tropics, West Africa, southern Africa, South Africa）
 
-Odontotermes celebensis 西里伯斯土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes celebensis* 西里伯斯土白蚁]({{ site.base_url }}/species/odontotermes-celebensis/)（Southeast Asia (Indonesia)）
 
-Odontotermes ceylonicus 锡兰土白蚁（South Asia, Sri Lanka, India）
+[*Odontotermes ceylonicus* 锡兰土白蚁]({{ site.base_url }}/species/odontotermes-ceylonicus/)（South Asia, Sri Lanka, India）
 
-Odontotermes chicapanensis 希卡帕土白蚁（southern Africa, Angola）
+[*Odontotermes chicapanensis* 希卡帕土白蚁]({{ site.base_url }}/species/odontotermes-chicapanensis/)（southern Africa, Angola）
 
-Odontotermes classicus 无产土白蚁（East Africa, Eritrea, Ethiopia, Somalia, Sudan）
+[*Odontotermes classicus* 无产土白蚁]({{ site.base_url }}/species/odontotermes-classicus/)（East Africa, Eritrea, Ethiopia, Somalia, Sudan）
 
-Odontotermes conignathus 锥颚土白蚁（China (Yunnan)）
+[*Odontotermes conignathus* 锥颚土白蚁]({{ site.base_url }}/species/odontotermes-conignathus/)（China (Yunnan)）
 
-Odontotermes culturarum 栽培土白蚁（Old World tropics, West Africa, East Africa, Democratic Republic of the Congo, Kenya, Tanzania, Uganda）
+[*Odontotermes culturarum* 栽培土白蚁]({{ site.base_url }}/species/odontotermes-culturarum/)（Old World tropics, West Africa, East Africa, Democratic Republic of the Congo, Kenya, Tanzania, Uganda）
 
-Odontotermes denticulatus 齿小土白蚁（Indonesia, Malaysia, Singapore）
+[*Odontotermes denticulatus* 齿小土白蚁]({{ site.base_url }}/species/odontotermes-denticulatus/)（Indonesia, Malaysia, Singapore）
 
-Odontotermes diana 黛安娜土白蚁（Democratic Republic of the Congo）
+[*Odontotermes diana* 黛安娜土白蚁]({{ site.base_url }}/species/odontotermes-diana/)（Democratic Republic of the Congo）
 
-Odontotermes dimorphus 双工土白蚁（Guangxi (Hexian Huashuichong Nature Reserve), China）
+[*Odontotermes dimorphus* 双工土白蚁]({{ site.base_url }}/species/odontotermes-dimorphus/)（Guangxi (Hexian Huashuichong Nature Reserve), China）
 
-Odontotermes distans 遥远土白蚁（India, Nepal）
+[*Odontotermes distans* 遥远土白蚁]({{ site.base_url }}/species/odontotermes-distans/)（India, Nepal）
 
-Odontotermes dives 多产土白蚁（Southeast Asia, Indonesia, Philippines, Malaysia）
+[*Odontotermes dives* 多产土白蚁]({{ site.base_url }}/species/odontotermes-dives/)（Southeast Asia, Indonesia, Philippines, Malaysia）
 
-Odontotermes djampeensis 达扎丕土白蚁（Southeast Asia, Indonesia, Thailand）
+[*Odontotermes djampeensis* 达扎丕土白蚁]({{ site.base_url }}/species/odontotermes-djampeensis/)（Southeast Asia, Indonesia, Thailand）
 
-Odontotermes ebeni 埃本土白蚁（East Africa, Ethiopia, Somalia）
+[*Odontotermes ebeni* 埃本土白蚁]({{ site.base_url }}/species/odontotermes-ebeni/)（East Africa, Ethiopia, Somalia）
 
-Odontotermes egregius 卓越土白蚁（East Africa (Kenya)）
+[*Odontotermes egregius* 卓越土白蚁]({{ site.base_url }}/species/odontotermes-egregius/)（East Africa (Kenya)）
 
-Odontotermes elgonensis 埃尔贡土白蚁（East Africa (Kenya)）
+[*Odontotermes elgonensis* 埃尔贡土白蚁]({{ site.base_url }}/species/odontotermes-elgonensis/)（East Africa (Kenya)）
 
-Odontotermes erodens 缺齿土白蚁（distribution to be verified）
+[*Odontotermes erodens* 缺齿土白蚁]({{ site.base_url }}/species/odontotermes-erodens/)（distribution to be verified）
 
-Odontotermes erraticus 游荡土白蚁（West Africa, Senegal, Togo, Gambia, Niger）
+[*Odontotermes erraticus* 游荡土白蚁]({{ site.base_url }}/species/odontotermes-erraticus/)（West Africa, Senegal, Togo, Gambia, Niger）
 
-Odontotermes escherichi 埃舍里希土白蚁（South Asia, Southeast Asia, East Asia, India, Sri Lanka, Malaysia, China）
+[*Odontotermes escherichi* 埃舍里希土白蚁]({{ site.base_url }}/species/odontotermes-escherichi/)（South Asia, Southeast Asia, East Asia, India, Sri Lanka, Malaysia, China）
 
-Odontotermes fallax 欺诈土白蚁（East Africa, Tanzania, Kenya, Ethiopia）
+[*Odontotermes fallax* 欺诈土白蚁]({{ site.base_url }}/species/odontotermes-fallax/)（East Africa, Tanzania, Kenya, Ethiopia）
 
-Odontotermes feae 菲氏土白蚁（South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka）
+[*Odontotermes feae* 菲氏土白蚁]({{ site.base_url }}/species/odontotermes-feae/)（South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka）
 
-Odontotermes feaeoides 似菲氏土白蚁（India）
+[*Odontotermes feaeoides* 似菲氏土白蚁]({{ site.base_url }}/species/odontotermes-feaeoides/)（India）
 
-Odontotermes fidens 纤齿土白蚁（Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria）
+[*Odontotermes fidens* 纤齿土白蚁]({{ site.base_url }}/species/odontotermes-fidens/)（Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Nigeria）
 
-Odontotermes flammifrons 红额土白蚁（West Africa, Burkina Faso, Democratic Republic of the Congo, Malawi, Sudan, Zambia）
+[*Odontotermes flammifrons* 红额土白蚁]({{ site.base_url }}/species/odontotermes-flammifrons/)（West Africa, Burkina Faso, Democratic Republic of the Congo, Malawi, Sudan, Zambia）
 
-Odontotermes fockianus 福克土白蚁（Namibia）
+[*Odontotermes fockianus* 福克土白蚁]({{ site.base_url }}/species/odontotermes-fockianus/)（Namibia）
 
-Odontotermes fontanellus 小囟土白蚁（Jiangsu (Zhenjiang), Anhui, Yunnan, China）
+[*Odontotermes fontanellus* 小囟土白蚁]({{ site.base_url }}/species/odontotermes-fontanellus/)（Jiangsu (Zhenjiang), Anhui, Yunnan, China）
 
-Odontotermes formosanus 黑翅土白蚁（Old World tropics, Taiwan, China, China, Macau, China, Hong Kong, China, Japan, Myanmar, Thailand, Vietnam）
+[*Odontotermes formosanus* 黑翅土白蚁]({{ site.base_url }}/species/odontotermes-formosanus/)（Old World tropics, Taiwan, China, China, Macau, China, Hong Kong, China, Japan, Myanmar, Thailand, Vietnam）
 
-Odontotermes foveafrons 凹额土白蚁（Yunnan (Damenglong, Ganlanba, Simao), China）
+[*Odontotermes foveafrons* 凹额土白蚁]({{ site.base_url }}/species/odontotermes-foveafrons/)（Yunnan (Damenglong, Ganlanba, Simao), China）
 
-Odontotermes fulleri 富勒土白蚁（East Africa, Kenya, Central African Republic, Democratic Republic of the Congo, Uganda）
+[*Odontotermes fulleri* 富勒土白蚁]({{ site.base_url }}/species/odontotermes-fulleri/)（East Africa, Kenya, Central African Republic, Democratic Republic of the Congo, Uganda）
 
-Odontotermes fuyangensis 富阳土白蚁（China (Zhejiang)）
+[*Odontotermes fuyangensis* 富阳土白蚁]({{ site.base_url }}/species/odontotermes-fuyangensis/)（China (Zhejiang)）
 
-Odontotermes ganpati 加帕蒂土白蚁（India）
+[*Odontotermes ganpati* 加帕蒂土白蚁]({{ site.base_url }}/species/odontotermes-ganpati/)（India）
 
-Odontotermes garambae 加兰巴土白蚁（West Africa, Burkina Faso, Democratic Republic of the Congo）
+[*Odontotermes garambae* 加兰巴土白蚁]({{ site.base_url }}/species/odontotermes-garambae/)（West Africa, Burkina Faso, Democratic Republic of the Congo）
 
-Odontotermes giriensis 吉里土白蚁（South Asia, East Asia, China, India, Bangladesh, Bhutan）
+[*Odontotermes giriensis* 吉里土白蚁]({{ site.base_url }}/species/odontotermes-giriensis/)（South Asia, East Asia, China, India, Bangladesh, Bhutan）
 
-Odontotermes girnarensis 吉尔纳尔土白蚁（South Asia, Gujarat, India）
+[*Odontotermes girnarensis* 吉尔纳尔土白蚁]({{ site.base_url }}/species/odontotermes-girnarensis/)（South Asia, Gujarat, India）
 
-Odontotermes globicola 栖球土白蚁（South Asia, India, Pakistan, Sri Lanka）
+[*Odontotermes globicola* 栖球土白蚁]({{ site.base_url }}/species/odontotermes-globicola/)（South Asia, India, Pakistan, Sri Lanka）
 
-Odontotermes grandiceps 大头土白蚁（Southeast Asia (Indonesia, Malaysia)）
+[*Odontotermes grandiceps* 大头土白蚁]({{ site.base_url }}/species/odontotermes-grandiceps/)（Southeast Asia (Indonesia, Malaysia)）
 
-Odontotermes grassei 格拉塞土白蚁（Côte d'Ivoire）
+[*Odontotermes grassei* 格拉塞土白蚁]({{ site.base_url }}/species/odontotermes-grassei/)（Côte d'Ivoire）
 
-Odontotermes gravelyi 粗颚土白蚁（Yunnan, China, Myanmar, Vietnam）
+[*Odontotermes gravelyi* 粗颚土白蚁]({{ site.base_url }}/species/odontotermes-gravelyi/)（Yunnan, China, Myanmar, Vietnam）
 
-Odontotermes guizhouensis 贵州土白蚁（China (Guizhou)）
+[*Odontotermes guizhouensis* 贵州土白蚁]({{ site.base_url }}/species/odontotermes-guizhouensis/)（China (Guizhou)）
 
-Odontotermes guptai 古普塔土白蚁（South Asia, Pakistan, India, Bangladesh）
+[*Odontotermes guptai* 古普塔土白蚁]({{ site.base_url }}/species/odontotermes-guptai/)（South Asia, Pakistan, India, Bangladesh）
 
-Odontotermes gurdaspurensis 古达斯普尔土白蚁（South Asia, India, Pakistan）
+[*Odontotermes gurdaspurensis* 古达斯普尔土白蚁]({{ site.base_url }}/species/odontotermes-gurdaspurensis/)（South Asia, India, Pakistan）
 
-Odontotermes hageni 哈根土白蚁（Indonesia, Malaysia）
+[*Odontotermes hageni* 哈根土白蚁]({{ site.base_url }}/species/odontotermes-hageni/)（Indonesia, Malaysia）
 
-Odontotermes hainanensis 海南土白蚁（South Asia, Southeast Asia, East Asia, China, Vietnam, Malaysia, Thailand, Cambodia, India, Myanmar）
+[*Odontotermes hainanensis* 海南土白蚁]({{ site.base_url }}/species/odontotermes-hainanensis/)（South Asia, Southeast Asia, East Asia, China, Vietnam, Malaysia, Thailand, Cambodia, India, Myanmar）
 
-Odontotermes horai 霍拉土白蚁（South Asia, India, Pakistan, Nepal）
+[*Odontotermes horai* 霍拉土白蚁]({{ site.base_url }}/species/odontotermes-horai/)（South Asia, India, Pakistan, Nepal）
 
-Odontotermes horni 霍恩土白蚁（Old World tropics, India, Sri Lanka, Nigeria, Bhutan, Cambodia, Vietnam）
+[*Odontotermes horni* 霍恩土白蚁]({{ site.base_url }}/species/odontotermes-horni/)（Old World tropics, India, Sri Lanka, Nigeria, Bhutan, Cambodia, Vietnam）
 
-Odontotermes incisus 刃穴土白蚁（Indonesia）
+[*Odontotermes incisus* 刃穴土白蚁]({{ site.base_url }}/species/odontotermes-incisus/)（Indonesia）
 
-Odontotermes indrapurensis 因德拉普拉土白蚁（Indonesia）
+[*Odontotermes indrapurensis* 因德拉普拉土白蚁]({{ site.base_url }}/species/odontotermes-indrapurensis/)（Indonesia）
 
-Odontotermes interveniens 中间土白蚁（southern Africa, Namibia, Angola）
+[*Odontotermes interveniens* 中间土白蚁]({{ site.base_url }}/species/odontotermes-interveniens/)（southern Africa, Namibia, Angola）
 
-Odontotermes iratus 愤怒土白蚁（Gabon）
+[*Odontotermes iratus* 愤怒土白蚁]({{ site.base_url }}/species/odontotermes-iratus/)（Gabon）
 
-Odontotermes javanicus 爪哇土白蚁（Southeast Asia, East Asia, Malaysia, Indonesia, Thailand, China）
+[*Odontotermes javanicus* 爪哇土白蚁]({{ site.base_url }}/species/odontotermes-javanicus/)（Southeast Asia, East Asia, Malaysia, Indonesia, Thailand, China）
 
-javanicus 指名亚种
+[*javanicus* 指名亚种]({{ site.base_url }}/species/odontotermes-javanicus-javanicus/)
 
-nymanni 尼曼亚种
+[*nymanni* 尼曼亚种]({{ site.base_url }}/species/odontotermes-javanicus-nymanni/)
 
-Odontotermes kapuri 卡普尔土白蚁（South Asia, India, Bhutan）
+[*Odontotermes kapuri* 卡普尔土白蚁]({{ site.base_url }}/species/odontotermes-kapuri/)（South Asia, India, Bhutan）
 
-Odontotermes karawajevi 卡拉瓦土白蚁（Indonesia）
+[*Odontotermes karawajevi* 卡拉瓦土白蚁]({{ site.base_url }}/species/odontotermes-karawajevi/)（Indonesia）
 
-Odontotermes karnyi 卡尼土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes karnyi* 卡尼土白蚁]({{ site.base_url }}/species/odontotermes-karnyi/)（Southeast Asia (Indonesia)）
 
-Odontotermes kepongensis 甲洞土白蚁（Malaysia）
+[*Odontotermes kepongensis* 甲洞土白蚁]({{ site.base_url }}/species/odontotermes-kepongensis/)（Malaysia）
 
-Odontotermes kibarensis 基巴拉土白蚁（East Africa, Kenya, Angola, Sudan, Tanzania, Uganda）
+[*Odontotermes kibarensis* 基巴拉土白蚁]({{ site.base_url }}/species/odontotermes-kibarensis/)（East Africa, Kenya, Angola, Sudan, Tanzania, Uganda）
 
-Odontotermes kistneri 基斯特纳土白蚁（Malaysia）
+[*Odontotermes kistneri* 基斯特纳土白蚁]({{ site.base_url }}/species/odontotermes-kistneri/)（Malaysia）
 
-Odontotermes koenigi 柯尼希土白蚁（Sri Lanka）
+[*Odontotermes koenigi* 柯尼希土白蚁]({{ site.base_url }}/species/odontotermes-koenigi/)（Sri Lanka）
 
-Odontotermes kulkarni 库尔坎土白蚁（India）
+[*Odontotermes kulkarni* 库尔坎土白蚁]({{ site.base_url }}/species/odontotermes-kulkarni/)（India）
 
-Odontotermes lacustris 湖泊土白蚁（Old World tropics, East Africa, southern Africa, Malawi, Zambia）
+[*Odontotermes lacustris* 湖泊土白蚁]({{ site.base_url }}/species/odontotermes-lacustris/)（Old World tropics, East Africa, southern Africa, Malawi, Zambia）
 
-Odontotermes latericius 似砖土白蚁（Old World tropics (West Africa), East Africa, southern Africa）
+[*Odontotermes latericius* 似砖土白蚁]({{ site.base_url }}/species/odontotermes-latericius/)（Old World tropics (West Africa), East Africa, southern Africa）
 
-latericius 指名亚种
+[*latericius* 指名亚种]({{ site.base_url }}/species/odontotermes-latericius-latericius/)
 
-media 中间亚种
+[*media* 中间亚种]({{ site.base_url }}/species/odontotermes-latericius-media/)
 
-Odontotermes latialatus 宽翅土白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Odontotermes latialatus* 宽翅土白蚁]({{ site.base_url }}/species/odontotermes-latialatus/)（Central African Republic, Democratic Republic of the Congo）
 
-Odontotermes latigula 宽颏土白蚁（South Asia (India)）
+[*Odontotermes latigula* 宽颏土白蚁]({{ site.base_url }}/species/odontotermes-latigula/)（South Asia (India)）
 
-Odontotermes latiguloides 拟宽喉土白蚁（India）
+[*Odontotermes latiguloides* 拟宽喉土白蚁]({{ site.base_url }}/species/odontotermes-latiguloides/)（India）
 
-Odontotermes latissimus 极宽土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes latissimus* 极宽土白蚁]({{ site.base_url }}/species/odontotermes-latissimus/)（Southeast Asia (Indonesia)）
 
-Odontotermes lautus 雅致土白蚁（South Africa）
+[*Odontotermes lautus* 雅致土白蚁]({{ site.base_url }}/species/odontotermes-lautus/)（South Africa）
 
-Odontotermes lobintactus 叶蛩土白蚁（Democratic Republic of the Congo）
+[*Odontotermes lobintactus* 叶蛩土白蚁]({{ site.base_url }}/species/odontotermes-lobintactus/)（Democratic Republic of the Congo）
 
-Odontotermes longignathus 长颚土白蚁（South Asia, Southeast Asia, Neotropics, Central and South America, India, Bangladesh, Malaysia, Thailand）
+[*Odontotermes longignathus* 长颚土白蚁]({{ site.base_url }}/species/odontotermes-longignathus/)（South Asia, Southeast Asia, Neotropics, Central and South America, India, Bangladesh, Malaysia, Thailand）
 
-Odontotermes longigula 长喉土白蚁（West Africa, Senegal）
+[*Odontotermes longigula* 长喉土白蚁]({{ site.base_url }}/species/odontotermes-longigula/)（West Africa, Senegal）
 
-Odontotermes longzhouensis 龙州土白蚁（Guangxi (Shanglin), China）
+[*Odontotermes longzhouensis* 龙州土白蚁]({{ site.base_url }}/species/odontotermes-longzhouensis/)（Guangxi (Shanglin), China）
 
-Odontotermes luoyangensis 洛阳土白蚁（Henan, China）
+[*Odontotermes luoyangensis* 洛阳土白蚁]({{ site.base_url }}/species/odontotermes-luoyangensis/)（Henan, China）
 
-Odontotermes maesodensis 湄索德土白蚁（Thailand, Vietnam）
+[*Odontotermes maesodensis* 湄索德土白蚁]({{ site.base_url }}/species/odontotermes-maesodensis/)（Thailand, Vietnam）
 
-Odontotermes magdalenae 马格达莱纳土白蚁（West Africa, Nigeria, Burkina Faso, Cameroon, Central African Republic, Chad, Guinea, Sudan）
+[*Odontotermes magdalenae* 马格达莱纳土白蚁]({{ site.base_url }}/species/odontotermes-magdalenae/)（West Africa, Nigeria, Burkina Faso, Cameroon, Central African Republic, Chad, Guinea, Sudan）
 
-Odontotermes makassarensis 望加锡土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes makassarensis* 望加锡土白蚁]({{ site.base_url }}/species/odontotermes-makassarensis/)（Southeast Asia (Indonesia)）
 
-Odontotermes malabaricus 马拉巴尔土白蚁（India）
+[*Odontotermes malabaricus* 马拉巴尔土白蚁]({{ site.base_url }}/species/odontotermes-malabaricus/)（India）
 
-Odontotermes malaccensis 马六甲土白蚁（Southeast Asia, Malaysia）
+[*Odontotermes malaccensis* 马六甲土白蚁]({{ site.base_url }}/species/odontotermes-malaccensis/)（Southeast Asia, Malaysia）
 
-Odontotermes maledictus 可恨土白蚁（Ethiopia）
+[*Odontotermes maledictus* 可恨土白蚁]({{ site.base_url }}/species/odontotermes-maledictus/)（Ethiopia）
 
-Odontotermes malelaensis 马雷拉土白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Odontotermes malelaensis* 马雷拉土白蚁]({{ site.base_url }}/species/odontotermes-malelaensis/)（Central African Republic, Democratic Republic of the Congo）
 
-Odontotermes maliki 马利克土白蚁（Bangladesh）
+[*Odontotermes maliki* 马利克土白蚁]({{ site.base_url }}/species/odontotermes-maliki/)（Bangladesh）
 
-Odontotermes matangensis 马登土白蚁（Malaysia）
+[*Odontotermes matangensis* 马登土白蚁]({{ site.base_url }}/species/odontotermes-matangensis/)（Malaysia）
 
-Odontotermes maximus 最大土白蚁（Southeast Asia (Indonesia)）
+[*Odontotermes maximus* 最大土白蚁]({{ site.base_url }}/species/odontotermes-maximus/)（Southeast Asia (Indonesia)）
 
-Odontotermes mediocris 温和土白蚁（East Africa, Kenya, Ethiopia, Malawi, Tanzania）
+[*Odontotermes mediocris* 温和土白蚁]({{ site.base_url }}/species/odontotermes-mediocris/)（East Africa, Kenya, Ethiopia, Malawi, Tanzania）
 
-Odontotermes menadoensis 万鸦东土白蚁（Indonesia）
+[*Odontotermes menadoensis* 万鸦东土白蚁]({{ site.base_url }}/species/odontotermes-menadoensis/)（Indonesia）
 
-Odontotermes meridionalis 南方土白蚁（China）
+[*Odontotermes meridionalis* 南方土白蚁]({{ site.base_url }}/species/odontotermes-meridionalis/)（China）
 
-Odontotermes microdentatus 小齿土白蚁（South Asia (India)）
+[*Odontotermes microdentatus* 小齿土白蚁]({{ site.base_url }}/species/odontotermes-microdentatus/)（South Asia (India)）
 
-Odontotermes microps 小眼土白蚁（East Africa (Tanzania)）
+[*Odontotermes microps* 小眼土白蚁]({{ site.base_url }}/species/odontotermes-microps/)（East Africa (Tanzania)）
 
-Odontotermes minutus 小土白蚁（East Asia, China, Indonesia, Malaysia）
+[*Odontotermes minutus* 小土白蚁]({{ site.base_url }}/species/odontotermes-minutus/)（East Asia, China, Indonesia, Malaysia）
 
-Odontotermes mirganjensis 米尔甘杰土白蚁（Bangladesh, India）
+[*Odontotermes mirganjensis* 米尔甘杰土白蚁]({{ site.base_url }}/species/odontotermes-mirganjensis/)（Bangladesh, India）
 
-Odontotermes mohandi 莫汉德土白蚁（India）
+[*Odontotermes mohandi* 莫汉德土白蚁]({{ site.base_url }}/species/odontotermes-mohandi/)（India）
 
-Odontotermes monodon 单齿土白蚁（Kenya, Uganda, Tanzania, Malawi, Mozambique, South Africa, Democratic Republic of the Congo）
+[*Odontotermes monodon* 单齿土白蚁]({{ site.base_url }}/species/odontotermes-monodon/)（Kenya, Uganda, Tanzania, Malawi, Mozambique, South Africa, Democratic Republic of the Congo）
 
-lujanus 卢扬亚种
+[*lujanus* 卢扬亚种]({{ site.base_url }}/species/odontotermes-monodon-lujanus/)
 
-monodon 指名亚种
+[*monodon* 指名亚种]({{ site.base_url }}/species/odontotermes-monodon-monodon/)
 
-Odontotermes montanus 高山土白蚁（East Africa, Kenya, Ethiopia）
+[*Odontotermes montanus* 高山土白蚁]({{ site.base_url }}/species/odontotermes-montanus/)（East Africa, Kenya, Ethiopia）
 
-Odontotermes mukimbunginis 穆金本古土白蚁（Old World tropics, West Africa, Central Africa, Democratic Republic of the Congo）
+[*Odontotermes mukimbunginis* 穆金本古土白蚁]({{ site.base_url }}/species/odontotermes-mukimbunginis/)（Old World tropics, West Africa, Central Africa, Democratic Republic of the Congo）
 
-Odontotermes neodenticulatus 新齿小土白蚁（Indonesia, Malaysia）
+[*Odontotermes neodenticulatus* 新齿小土白蚁]({{ site.base_url }}/species/odontotermes-neodenticulatus/)（Indonesia, Malaysia）
 
-Odontotermes nilensis 尼罗土白蚁（West Africa, Senegal, Democratic Republic of the Congo, Sudan）
+[*Odontotermes nilensis* 尼罗土白蚁]({{ site.base_url }}/species/odontotermes-nilensis/)（West Africa, Senegal, Democratic Republic of the Congo, Sudan）
 
-Odontotermes nolaensis 诺拉土白蚁（East Africa, Kenya, Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Senegal, Uganda）
+[*Odontotermes nolaensis* 诺拉土白蚁]({{ site.base_url }}/species/odontotermes-nolaensis/)（East Africa, Kenya, Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Senegal, Uganda）
 
-Odontotermes obesus 胖身土白蚁（South Asia, India, Pakistan, Nepal, Bangladesh, Bhutan, China, Myanmar）
+[*Odontotermes obesus* 胖身土白蚁]({{ site.base_url }}/species/odontotermes-obesus/)（South Asia, India, Pakistan, Nepal, Bangladesh, Bhutan, China, Myanmar）
 
-Odontotermes oblongatus 矩形土白蚁（Southeast Asia, Malaysia, Thailand, India, Indonesia, Singapore）
+[*Odontotermes oblongatus* 矩形土白蚁]({{ site.base_url }}/species/odontotermes-oblongatus/)（Southeast Asia, Malaysia, Thailand, India, Indonesia, Singapore）
 
-Odontotermes okahandjae 奥卡汉贾土白蚁（southern Africa, Namibia）
+[*Odontotermes okahandjae* 奥卡汉贾土白蚁]({{ site.base_url }}/species/odontotermes-okahandjae/)（southern Africa, Namibia）
 
-Odontotermes ostentans 显形土白蚁（São Tomé and Príncipe）
+[*Odontotermes ostentans* 显形土白蚁]({{ site.base_url }}/species/odontotermes-ostentans/)（São Tomé and Príncipe）
 
-Odontotermes palmquisti 帕姆奎斯特土白蚁（East Africa, Tanzania, Kenya, Malawi）
+[*Odontotermes palmquisti* 帕姆奎斯特土白蚁]({{ site.base_url }}/species/odontotermes-palmquisti/)（East Africa, Tanzania, Kenya, Malawi）
 
-Odontotermes paradenticulatus 似齿小土白蚁（Philippines）
+[*Odontotermes paradenticulatus* 似齿小土白蚁]({{ site.base_url }}/species/odontotermes-paradenticulatus/)（Philippines）
 
-Odontotermes paralatigula 近宽颏土白蚁（South Asia, India, Myanmar）
+[*Odontotermes paralatigula* 近宽颏土白蚁]({{ site.base_url }}/species/odontotermes-paralatigula/)（South Asia, India, Myanmar）
 
-Odontotermes paralatiguloides 近似宽颏土白蚁（India）
+[*Odontotermes paralatiguloides* 近似宽颏土白蚁]({{ site.base_url }}/species/odontotermes-paralatiguloides/)（India）
 
-Odontotermes parallelus 平行土白蚁（Guangdong (Dabu), Hainan (Wuzhi Mountain), China）
+[*Odontotermes parallelus* 平行土白蚁]({{ site.base_url }}/species/odontotermes-parallelus/)（Guangdong (Dabu), Hainan (Wuzhi Mountain), China）
 
-Odontotermes paraoblongatus 似矩形土白蚁（Southeast Asia, Malaysia, Thailand）
+[*Odontotermes paraoblongatus* 似矩形土白蚁]({{ site.base_url }}/species/odontotermes-paraoblongatus/)（Southeast Asia, Malaysia, Thailand）
 
-Odontotermes parvidens 微齿土白蚁（South Asia, India, Pakistan, Bangladesh, Bhutan, Myanmar）
+[*Odontotermes parvidens* 微齿土白蚁]({{ site.base_url }}/species/odontotermes-parvidens/)（South Asia, India, Pakistan, Bangladesh, Bhutan, Myanmar）
 
-Odontotermes patruus 伯伯土白蚁（Central Africa, Democratic Republic of the Congo, Kenya, Rwanda, Uganda）
+[*Odontotermes patruus* 伯伯土白蚁]({{ site.base_url }}/species/odontotermes-patruus/)（Central Africa, Democratic Republic of the Congo, Kenya, Rwanda, Uganda）
 
-Odontotermes pauperans 小贫土白蚁（West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Ghana, Guinea, Guinea-Bissau）
+[*Odontotermes pauperans* 小贫土白蚁]({{ site.base_url }}/species/odontotermes-pauperans/)（West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Ghana, Guinea, Guinea-Bissau）
 
-Odontotermes peshawarensis 白沙瓦土白蚁（Pakistan）
+[*Odontotermes peshawarensis* 白沙瓦土白蚁]({{ site.base_url }}/species/odontotermes-peshawarensis/)（Pakistan）
 
-Odontotermes planiceps 扁头土白蚁（Angola, Democratic Republic of the Congo）
+[*Odontotermes planiceps* 扁头土白蚁]({{ site.base_url }}/species/odontotermes-planiceps/)（Angola, Democratic Republic of the Congo）
 
-Odontotermes praevalens 首要土白蚁（Malaysia）
+[*Odontotermes praevalens* 首要土白蚁]({{ site.base_url }}/species/odontotermes-praevalens/)（Malaysia）
 
-Odontotermes preliminaris 初始土白蚁（South Asia (Sri Lanka)）
+[*Odontotermes preliminaris* 初始土白蚁]({{ site.base_url }}/species/odontotermes-preliminaris/)（South Asia (Sri Lanka)）
 
-Odontotermes pretoriensis 比勒陀利亚土白蚁（southern Africa (South Africa)）
+[*Odontotermes pretoriensis* 比勒陀利亚土白蚁]({{ site.base_url }}/species/odontotermes-pretoriensis/)（southern Africa (South Africa)）
 
-Odontotermes prewensis 普鲁士土白蚁（Thailand）
+[*Odontotermes prewensis* 普鲁士土白蚁]({{ site.base_url }}/species/odontotermes-prewensis/)（Thailand）
 
-Odontotermes prodives 似多产土白蚁（Malaysia, Thailand）
+[*Odontotermes prodives* 似多产土白蚁]({{ site.base_url }}/species/odontotermes-prodives/)（Malaysia, Thailand）
 
-Odontotermes profeae 前菲氏土白蚁（South Asia (India, Pakistan, Bangladesh)）
+[*Odontotermes profeae* 前菲氏土白蚁]({{ site.base_url }}/species/odontotermes-profeae/)（South Asia (India, Pakistan, Bangladesh)）
 
-Odontotermes proformosanus 原黑翅土白蚁（Southeast Asia, Cambodia, Vietnam, Bangladesh, India, Thailand）
+[*Odontotermes proformosanus* 原黑翅土白蚁]({{ site.base_url }}/species/odontotermes-proformosanus/)（Southeast Asia, Cambodia, Vietnam, Bangladesh, India, Thailand）
 
-Odontotermes prolatigula 前宽颏土白蚁（India）
+[*Odontotermes prolatigula* 前宽颏土白蚁]({{ site.base_url }}/species/odontotermes-prolatigula/)（India）
 
-Odontotermes proximus 最新土白蚁（Malaysia）
+[*Odontotermes proximus* 最新土白蚁]({{ site.base_url }}/species/odontotermes-proximus/)（Malaysia）
 
-Odontotermes pujiangensis 浦江土白蚁（China (Zhejiang)）
+[*Odontotermes pujiangensis* 浦江土白蚁]({{ site.base_url }}/species/odontotermes-pujiangensis/)（China (Zhejiang)）
 
-Odontotermes pyriceps 梨头土白蚁（Hainan (Haikou, Qionghai), China）
+[*Odontotermes pyriceps* 梨头土白蚁]({{ site.base_url }}/species/odontotermes-pyriceps/)（Hainan (Haikou, Qionghai), China）
 
-Odontotermes quinquedentatus 五齿土白蚁（Guizhou (Xingyi), China）
+[*Odontotermes quinquedentatus* 五齿土白蚁]({{ site.base_url }}/species/odontotermes-quinquedentatus/)（Guizhou (Xingyi), China）
 
-Odontotermes ramulosus 支脉土白蚁（East Africa (Tanzania)）
+[*Odontotermes ramulosus* 支脉土白蚁]({{ site.base_url }}/species/odontotermes-ramulosus/)（East Africa (Tanzania)）
 
-Odontotermes rectanguloides 似直角土白蚁（Angola, Democratic Republic of the Congo, Ethiopia, Côte d'Ivoire, Kenya, Tanzania, Uganda）
+[*Odontotermes rectanguloides* 似直角土白蚁]({{ site.base_url }}/species/odontotermes-rectanguloides/)（Angola, Democratic Republic of the Congo, Ethiopia, Côte d'Ivoire, Kenya, Tanzania, Uganda）
 
-Odontotermes redemanni 雷德曼土白蚁（South Asia, India, Sri Lanka, Bangladesh）
+[*Odontotermes redemanni* 雷德曼土白蚁]({{ site.base_url }}/species/odontotermes-redemanni/)（South Asia, India, Sri Lanka, Bangladesh）
 
-Odontotermes rehobothensis 雷霍博特土白蚁（Namibia）
+[*Odontotermes rehobothensis* 雷霍博特土白蚁]({{ site.base_url }}/species/odontotermes-rehobothensis/)（Namibia）
 
-Odontotermes robustus 粗壮土白蚁（Congo）
+[*Odontotermes robustus* 粗壮土白蚁]({{ site.base_url }}/species/odontotermes-robustus/)（Congo）
 
-Odontotermes rothschildianus 罗思柴尔德土白蚁（Ethiopia）
+[*Odontotermes rothschildianus* 罗思柴尔德土白蚁]({{ site.base_url }}/species/odontotermes-rothschildianus/)（Ethiopia）
 
-Odontotermes salebrifrons 糙额土白蚁（Central Africa, Democratic Republic of the Congo, East Africa, Uganda, Kenya, Tanzania, Somalia）
+[*Odontotermes salebrifrons* 糙额土白蚁]({{ site.base_url }}/species/odontotermes-salebrifrons/)（Central Africa, Democratic Republic of the Congo, East Africa, Uganda, Kenya, Tanzania, Somalia）
 
-Odontotermes sarawakensis 砂拉越土白蚁（Southeast Asia, Malaysia, Indonesia, Thailand）
+[*Odontotermes sarawakensis* 砂拉越土白蚁]({{ site.base_url }}/species/odontotermes-sarawakensis/)（Southeast Asia, Malaysia, Indonesia, Thailand）
 
-Odontotermes sasangirensis 萨桑吉尔土白蚁（India）
+[*Odontotermes sasangirensis* 萨桑吉尔土白蚁]({{ site.base_url }}/species/odontotermes-sasangirensis/)（India）
 
-Odontotermes schmitzi 施米茨土白蚁（West Africa, Benin, Democratic Republic of the Congo, Sudan）
+[*Odontotermes schmitzi* 施米茨土白蚁]({{ site.base_url }}/species/odontotermes-schmitzi/)（West Africa, Benin, Democratic Republic of the Congo, Sudan）
 
-Odontotermes scrutor 探索土白蚁（Democratic Republic of the Congo）
+[*Odontotermes scrutor* 探索土白蚁]({{ site.base_url }}/species/odontotermes-scrutor/)（Democratic Republic of the Congo）
 
-Odontotermes sellathorax 鞍胸土白蚁（Sichuan (Bishan), China）
+[*Odontotermes sellathorax* 鞍胸土白蚁]({{ site.base_url }}/species/odontotermes-sellathorax/)（Sichuan (Bishan), China）
 
-Odontotermes shixingensis 始兴土白蚁（China (Guangdong)）
+[*Odontotermes shixingensis* 始兴土白蚁]({{ site.base_url }}/species/odontotermes-shixingensis/)（China (Guangdong)）
 
-Odontotermes sikkimensis 锡金土白蚁（India）
+[*Odontotermes sikkimensis* 锡金土白蚁]({{ site.base_url }}/species/odontotermes-sikkimensis/)（India）
 
-Odontotermes silamensis 锡拉姆土白蚁（Malaysia）
+[*Odontotermes silamensis* 锡拉姆土白蚁]({{ site.base_url }}/species/odontotermes-silamensis/)（Malaysia）
 
-Odontotermes silvaticus 森林土白蚁（West Africa, Burkina Faso, Cameroon）
+[*Odontotermes silvaticus* 森林土白蚁]({{ site.base_url }}/species/odontotermes-silvaticus/)（West Africa, Burkina Faso, Cameroon）
 
-Odontotermes silvestrii 西尔韦斯特里土白蚁（Democratic Republic of the Congo）
+[*Odontotermes silvestrii* 西尔韦斯特里土白蚁]({{ site.base_url }}/species/odontotermes-silvestrii/)（Democratic Republic of the Congo）
 
-Odontotermes simalurensis 锡马卢土白蚁（Indonesia）
+[*Odontotermes simalurensis* 锡马卢土白蚁]({{ site.base_url }}/species/odontotermes-simalurensis/)（Indonesia）
 
-Odontotermes simplicidens 简齿土白蚁（Central Africa, Cameroon, Gabon）
+[*Odontotermes simplicidens* 简齿土白蚁]({{ site.base_url }}/species/odontotermes-simplicidens/)（Central Africa, Cameroon, Gabon）
 
-Odontotermes sinabangensis 锡纳邦土白蚁（Indonesia）
+[*Odontotermes sinabangensis* 锡纳邦土白蚁]({{ site.base_url }}/species/odontotermes-sinabangensis/)（Indonesia）
 
-Odontotermes singsiti 辛格斯特土白蚁（India）
+[*Odontotermes singsiti* 辛格斯特土白蚁]({{ site.base_url }}/species/odontotermes-singsiti/)（India）
 
-Odontotermes sjostedti 舍斯泰特土白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Odontotermes sjostedti* 舍斯泰特土白蚁]({{ site.base_url }}/species/odontotermes-sjostedti/)（Central African Republic, Democratic Republic of the Congo）
 
-evansi 埃文斯亚种
+[*evansi* 埃文斯亚种]({{ site.base_url }}/species/odontotermes-sjostedti-evansi/)
 
-sjostedti 指名亚种
+[*sjostedti* 指名亚种]({{ site.base_url }}/species/odontotermes-sjostedti-sjostedti/)
 
-Odontotermes smeathmani 斯米瑟曼土白蚁（Old World tropics, West Africa, East Africa, Democratic Republic of the Congo, Eritrea, Ethiopia, Côte d'Ivoire, Nigeria, Senegal, Sierra Leone, South Africa, Sudan）
+[*Odontotermes smeathmani* 斯米瑟曼土白蚁]({{ site.base_url }}/species/odontotermes-smeathmani/)（Old World tropics, West Africa, East Africa, Democratic Republic of the Congo, Eritrea, Ethiopia, Côte d'Ivoire, Nigeria, Senegal, Sierra Leone, South Africa, Sudan）
 
-Odontotermes snyderi 斯奈德土白蚁（Democratic Republic of the Congo）
+[*Odontotermes snyderi* 斯奈德土白蚁]({{ site.base_url }}/species/odontotermes-snyderi/)（Democratic Republic of the Congo）
 
-Odontotermes somaliensis 索马里土白蚁（East Africa, Somalia, Ethiopia）
+[*Odontotermes somaliensis* 索马里土白蚁]({{ site.base_url }}/species/odontotermes-somaliensis/)（East Africa, Somalia, Ethiopia）
 
-Odontotermes stanleyvillensis 斯坦利维尔土白蚁（Democratic Republic of the Congo）
+[*Odontotermes stanleyvillensis* 斯坦利维尔土白蚁]({{ site.base_url }}/species/odontotermes-stanleyvillensis/)（Democratic Republic of the Congo）
 
-Odontotermes stercorivorus 食粪土白蚁（East Africa (Kenya, Tanzania)）
+[*Odontotermes stercorivorus* 食粪土白蚁]({{ site.base_url }}/species/odontotermes-stercorivorus/)（East Africa (Kenya, Tanzania)）
 
-Odontotermes sudanensis 苏丹土白蚁（Old World tropics, West Africa, East Africa, Ghana, Guinea, Côte d'Ivoire, Nigeria, Senegal, Sudan）
+[*Odontotermes sudanensis* 苏丹土白蚁]({{ site.base_url }}/species/odontotermes-sudanensis/)（Old World tropics, West Africa, East Africa, Ghana, Guinea, Côte d'Ivoire, Nigeria, Senegal, Sudan）
 
-Odontotermes takensis 来兴土白蚁（Southeast Asia, Thailand）
+[*Odontotermes takensis* 来兴土白蚁]({{ site.base_url }}/species/odontotermes-takensis/)（Southeast Asia, Thailand）
 
-Odontotermes tanganicus 坦噶土白蚁（Old World tropics, East Africa, southern Africa, Kenya, Malawi, Tanzania）
+[*Odontotermes tanganicus* 坦噶土白蚁]({{ site.base_url }}/species/odontotermes-tanganicus/)（Old World tropics, East Africa, southern Africa, Kenya, Malawi, Tanzania）
 
-Odontotermes taprobanes 塔普拉班土白蚁（South Asia (Sri Lanka)）
+[*Odontotermes taprobanes* 塔普拉班土白蚁]({{ site.base_url }}/species/odontotermes-taprobanes/)（South Asia (Sri Lanka)）
 
-Odontotermes terricola 地栖土白蚁（Central Africa, Cameroon, East Africa, Tanzania, Democratic Republic of the Congo, Gabon）
+[*Odontotermes terricola* 地栖土白蚁]({{ site.base_url }}/species/odontotermes-terricola/)（Central Africa, Cameroon, East Africa, Tanzania, Democratic Republic of the Congo, Gabon）
 
-Odontotermes tragardhi 特雷高土白蚁（southern Africa (South Africa)）
+[*Odontotermes tragardhi* 特雷高土白蚁]({{ site.base_url }}/species/odontotermes-tragardhi/)（southern Africa (South Africa)）
 
-Odontotermes transvaalensis 德兰士瓦土白蚁（southern Africa, South Africa, Botswana, Ethiopia, Kenya, Tanzania, Uganda, Zimbabwe）
+[*Odontotermes transvaalensis* 德兰士瓦土白蚁]({{ site.base_url }}/species/odontotermes-transvaalensis/)（southern Africa, South Africa, Botswana, Ethiopia, Kenya, Tanzania, Uganda, Zimbabwe）
 
-Odontotermes vaishno 瓦伊什诺土白蚁（South Asia (India)）
+[*Odontotermes vaishno* 瓦伊什诺土白蚁]({{ site.base_url }}/species/odontotermes-vaishno/)（South Asia (India)）
 
-\*Odontotermes vulgaris 常见土白蚁（Old World tropics, West Africa, East Africa, southern Africa, Angola, Namibia, South Africa, Eswatini, Zimbabwe）
+\*[*Odontotermes vulgaris* 常见土白蚁]({{ site.base_url }}/species/odontotermes-vulgaris/)（Old World tropics, West Africa, East Africa, southern Africa, Angola, Namibia, South Africa, Eswatini, Zimbabwe）
 
-Odontotermes wallonensis 瓦隆土白蚁（South Asia (India)）
+[*Odontotermes wallonensis* 瓦隆土白蚁]({{ site.base_url }}/species/odontotermes-wallonensis/)（South Asia (India)）
 
-Odontotermes wuzhishanensis 五指山土白蚁（China (Hainan)）
+[*Odontotermes wuzhishanensis* 五指山土白蚁]({{ site.base_url }}/species/odontotermes-wuzhishanensis/)（China (Hainan)）
 
-Odontotermes yadevi 亚德维土白蚁（South Asia (India)）
+[*Odontotermes yadevi* 亚德维土白蚁]({{ site.base_url }}/species/odontotermes-yadevi/)（South Asia (India)）
 
-Odontotermes yaoi 姚氏土白蚁（China (Fujian)）
+[*Odontotermes yaoi* 姚氏土白蚁]({{ site.base_url }}/species/odontotermes-yaoi/)（China (Fujian)）
 
-Odontotermes yarangensis 亚让土白蚁（Tibet (Medog Yarong 1000m), China）
+[*Odontotermes yarangensis* 亚让土白蚁]({{ site.base_url }}/species/odontotermes-yarangensis/)（Tibet (Medog Yarong 1000m), China）
 
-Odontotermes yunnanensis 云南土白蚁（Yunnan, China, Vietnam）
+[*Odontotermes yunnanensis* 云南土白蚁]({{ site.base_url }}/species/odontotermes-yunnanensis/)（Yunnan, China, Vietnam）
 
-Odontotermes zambesiensis 赞比西土白蚁（East Africa, Kenya, Malawi, Mozambique, Tanzania）
+[*Odontotermes zambesiensis* 赞比西土白蚁]({{ site.base_url }}/species/odontotermes-zambesiensis/)（East Africa, Kenya, Malawi, Mozambique, Tanzania）
 
-Odontotermes ziyangensis 资阳土白蚁（China (Shaanxi)）
+[*Odontotermes ziyangensis* 资阳土白蚁]({{ site.base_url }}/species/odontotermes-ziyangensis/)（China (Shaanxi)）
 
-Odontotermes zulunatalensis 祖鲁纳塔尔土白蚁（southern Africa (South Africa)）
+[*Odontotermes zulunatalensis* 祖鲁纳塔尔土白蚁]({{ site.base_url }}/species/odontotermes-zulunatalensis/)（southern Africa (South Africa)）
 
-Odontotermes zunyiensis 遵义土白蚁（China (Guizhou)）
+[*Odontotermes zunyiensis* 遵义土白蚁]({{ site.base_url }}/species/odontotermes-zunyiensis/)（China (Guizhou)）
 
 <h5 id="protermes">Protermes</h5>
 
-Protermes hirticeps 毛头前白蚁（East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria）
+[*Protermes hirticeps* 毛头前白蚁]({{ site.base_url }}/species/protermes-hirticeps/)（East Africa, Uganda, Congo, Democratic Republic of the Congo, Nigeria）
 
-Protermes minimus 最小前白蚁（Angola, Democratic Republic of the Congo, Guinea, Nigeria, Zambia）
+[*Protermes minimus* 最小前白蚁]({{ site.base_url }}/species/protermes-minimus/)（Angola, Democratic Republic of the Congo, Guinea, Nigeria, Zambia）
 
-Protermes minutus 小前白蚁（West Africa, Côte d'Ivoire, Angola, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Sierra Leone, Zambia）
+[*Protermes minutus* 小前白蚁]({{ site.base_url }}/species/protermes-minutus/)（West Africa, Côte d'Ivoire, Angola, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Sierra Leone, Zambia）
 
-Protermes mwekerae 穆维盖拉前白蚁（Angola, Zambia）
+[*Protermes mwekerae* 穆维盖拉前白蚁]({{ site.base_url }}/species/protermes-mwekerae/)（Angola, Zambia）
 
-\*Protermes prorepens 前匍前白蚁（Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone）
+\*[*Protermes prorepens* 前匍前白蚁]({{ site.base_url }}/species/protermes-prorepens/)（Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone）
 
 <h5 id="pseudacanthotermes">Pseudacanthotermes</h5>
 
-Pseudacanthotermes curticeps 短头伪刺白蚁（Democratic Republic of the Congo）
+[*Pseudacanthotermes curticeps* 短头伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-curticeps/)（Democratic Republic of the Congo）
 
-Pseudacanthotermes grandiceps 大头伪刺白蚁（Kenya, Tanzania, Uganda）
+[*Pseudacanthotermes grandiceps* 大头伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-grandiceps/)（Kenya, Tanzania, Uganda）
 
-Pseudacanthotermes harrisensis 哈里斯伪刺白蚁（Sudan）
+[*Pseudacanthotermes harrisensis* 哈里斯伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-harrisensis/)（Sudan）
 
-\*Pseudacanthotermes militaris 好斗伪刺白蚁（Old World tropics, West Africa, Central Africa, East Africa, southern Africa）
+\*[*Pseudacanthotermes militaris* 好斗伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-militaris/)（Old World tropics, West Africa, Central Africa, East Africa, southern Africa）
 
-laticeps 宽头亚种
+[*laticeps* 宽头亚种]({{ site.base_url }}/species/pseudacanthotermes-militaris-laticeps/)
 
-militaris 指名亚种
+[*militaris* 指名亚种]({{ site.base_url }}/species/pseudacanthotermes-militaris-militaris/)
 
-Pseudacanthotermes piceus 柏油伪刺白蚁（Uganda, Zimbabwe）
+[*Pseudacanthotermes piceus* 柏油伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-piceus/)（Uganda, Zimbabwe）
 
-Pseudacanthotermes spiniger 具刺伪刺白蚁（Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia）
+[*Pseudacanthotermes spiniger* 具刺伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-spiniger/)（Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia）
 
 <h5 id="synacanthotermes">Synacanthotermes</h5>
 
-\*Synacanthotermes heterodon 异齿聚刺白蚁（Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo）
+\*[*Synacanthotermes heterodon* 异齿聚刺白蚁]({{ site.base_url }}/species/synacanthotermes-heterodon/)（Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo）
 
-Synacanthotermes trilobatus 三裂聚刺白蚁（Angola, Democratic Republic of the Congo, Malawi, Zambia）
+[*Synacanthotermes trilobatus* 三裂聚刺白蚁]({{ site.base_url }}/species/synacanthotermes-trilobatus/)（Angola, Democratic Republic of the Congo, Malawi, Zambia）
 
-Synacanthotermes zanzibarensis 桑给巴尔聚刺白蚁（East Africa, Tanzania, Ethiopia, Kenya）
+[*Synacanthotermes zanzibarensis* 桑给巴尔聚刺白蚁]({{ site.base_url }}/species/synacanthotermes-zanzibarensis/)（East Africa, Tanzania, Ethiopia, Kenya）
 
 <h4 id="microcerotermitinae">Microcerotermitinae</h4>
 
@@ -4680,321 +4680,321 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 
 <h5 id="microcerotermes">Microcerotermes</h5>
 
-Microcerotermes acerbus 粗鲁锯白蚁（Sierra Leone）
+[*Microcerotermes acerbus* 粗鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-acerbus/)（Sierra Leone）
 
-Microcerotermes algoasinensis 阿尔哥亚湾锯白蚁（southern Africa, South Africa）
+[*Microcerotermes algoasinensis* 阿尔哥亚湾锯白蚁]({{ site.base_url }}/species/microcerotermes-algoasinensis/)（southern Africa, South Africa）
 
-Microcerotermes amboinensis 安汶锯白蚁（Southeast Asia, Indonesia）
+[*Microcerotermes amboinensis* 安汶锯白蚁]({{ site.base_url }}/species/microcerotermes-amboinensis/)（Southeast Asia, Indonesia）
 
-Microcerotermes annandalei 安嫩代尔锯白蚁（Southeast Asia, Thailand, India, Malaysia, Myanmar）
+[*Microcerotermes annandalei* 安嫩代尔锯白蚁]({{ site.base_url }}/species/microcerotermes-annandalei/)（Southeast Asia, Thailand, India, Malaysia, Myanmar）
 
-Microcerotermes apricitatis 阳光锯白蚁（southern Africa, South Africa）
+[*Microcerotermes apricitatis* 阳光锯白蚁]({{ site.base_url }}/species/microcerotermes-apricitatis/)（southern Africa, South Africa）
 
-Microcerotermes arboreus 树栖锯白蚁（Neotropics, Panama, Colombia, Brazil, French Guiana, Bolivia, Cayman Islands, Guyana, Haiti, Honduras, Nicaragua, Peru, Puerto Rico, Suriname, Trinidad and Tobago, Venezuela）
+[*Microcerotermes arboreus* 树栖锯白蚁]({{ site.base_url }}/species/microcerotermes-arboreus/)（Neotropics, Panama, Colombia, Brazil, French Guiana, Bolivia, Cayman Islands, Guyana, Haiti, Honduras, Nicaragua, Peru, Puerto Rico, Suriname, Trinidad and Tobago, Venezuela）
 
-Microcerotermes baluchistanicus 俾路支锯白蚁（South Asia, Pakistan, India）
+[*Microcerotermes baluchistanicus* 俾路支锯白蚁]({{ site.base_url }}/species/microcerotermes-baluchistanicus/)（South Asia, Pakistan, India）
 
-Microcerotermes barbertoni 巴伯顿锯白蚁（southern Africa, South Africa）
+[*Microcerotermes barbertoni* 巴伯顿锯白蚁]({{ site.base_url }}/species/microcerotermes-barbertoni/)（southern Africa, South Africa）
 
-Microcerotermes beesoni 比森锯白蚁（South Asia, India, Bangladesh, Bhutan, Pakistan）
+[*Microcerotermes beesoni* 比森锯白蚁]({{ site.base_url }}/species/microcerotermes-beesoni/)（South Asia, India, Bangladesh, Bhutan, Pakistan）
 
-Microcerotermes bequaertianus 贝奎特锯白蚁（Democratic Republic of the Congo, Côte d'Ivoire）
+[*Microcerotermes bequaertianus* 贝奎特锯白蚁]({{ site.base_url }}/species/microcerotermes-bequaertianus/)（Democratic Republic of the Congo, Côte d'Ivoire）
 
-Microcerotermes biroi 比罗锯白蚁（South Asia, Oceania, Australia, Papua New Guinea, India, Indonesia, Samoa, Solomon Islands, Tonga）
+[*Microcerotermes biroi* 比罗锯白蚁]({{ site.base_url }}/species/microcerotermes-biroi/)（South Asia, Oceania, Australia, Papua New Guinea, India, Indonesia, Samoa, Solomon Islands, Tonga）
 
-Microcerotermes biswanathae 比斯瓦那塔锯白蚁（South Asia, India）
+[*Microcerotermes biswanathae* 比斯瓦那塔锯白蚁]({{ site.base_url }}/species/microcerotermes-biswanathae/)（South Asia, India）
 
-Microcerotermes boreus 北部锯白蚁（Oceania, Australia）
+[*Microcerotermes boreus* 北部锯白蚁]({{ site.base_url }}/species/microcerotermes-boreus/)（Oceania, Australia）
 
-Microcerotermes bouilloni 布永锯白蚁（Australia, Papua New Guinea）
+[*Microcerotermes bouilloni* 布永锯白蚁]({{ site.base_url }}/species/microcerotermes-bouilloni/)（Australia, Papua New Guinea）
 
-Microcerotermes bouvieri 布维尔锯白蚁（Neotropics, Brazil, Colombia, Mexico）
+[*Microcerotermes bouvieri* 布维尔锯白蚁]({{ site.base_url }}/species/microcerotermes-bouvieri/)（Neotropics, Brazil, Colombia, Mexico）
 
-Microcerotermes brachygnathus 短颚锯白蚁（Old World tropics, Burkina Faso, Indonesia, Guinea, South Africa, Tanzania, Zambia, Zimbabwe）
+[*Microcerotermes brachygnathus* 短颚锯白蚁]({{ site.base_url }}/species/microcerotermes-brachygnathus/)（Old World tropics, Burkina Faso, Indonesia, Guinea, South Africa, Tanzania, Zambia, Zimbabwe）
 
-Microcerotermes brevior 狭小锯白蚁（Papua New Guinea）
+[*Microcerotermes brevior* 狭小锯白蚁]({{ site.base_url }}/species/microcerotermes-brevior/)（Papua New Guinea）
 
-Microcerotermes buettikeri 比特铁克锯白蚁（Middle East, Saudi Arabia, Iran, Yemen）
+[*Microcerotermes buettikeri* 比特铁克锯白蚁]({{ site.base_url }}/species/microcerotermes-buettikeri/)（Middle East, Saudi Arabia, Iran, Yemen）
 
-Microcerotermes bugnioni 布格尼恩锯白蚁（South Asia, Sri Lanka）
+[*Microcerotermes bugnioni* 布格尼恩锯白蚁]({{ site.base_url }}/species/microcerotermes-bugnioni/)（South Asia, Sri Lanka）
 
-Microcerotermes cachani 卡占锯白蚁（Madagascar）
+[*Microcerotermes cachani* 卡占锯白蚁]({{ site.base_url }}/species/microcerotermes-cachani/)（Madagascar）
 
-Microcerotermes cameroni 卡梅伦锯白蚁（South Asia, India, Malaysia）
+[*Microcerotermes cameroni* 卡梅伦锯白蚁]({{ site.base_url }}/species/microcerotermes-cameroni/)（South Asia, India, Malaysia）
 
-Microcerotermes cavus 凿洞锯白蚁（Oceania, Australia）
+[*Microcerotermes cavus* 凿洞锯白蚁]({{ site.base_url }}/species/microcerotermes-cavus/)（Oceania, Australia）
 
-Microcerotermes celebensis 西里伯斯锯白蚁（Southeast Asia, Indonesia）
+[*Microcerotermes celebensis* 西里伯斯锯白蚁]({{ site.base_url }}/species/microcerotermes-celebensis/)（Southeast Asia, Indonesia）
 
-Microcerotermes chaudhryi 乔德里锯白蚁（South Asia, Pakistan, Iran）
+[*Microcerotermes chaudhryi* 乔德里锯白蚁]({{ site.base_url }}/species/microcerotermes-chaudhryi/)（South Asia, Pakistan, Iran）
 
-Microcerotermes chhotanii 乔塔里锯白蚁（Iran）
+[*Microcerotermes chhotanii* 乔塔里锯白蚁]({{ site.base_url }}/species/microcerotermes-chhotanii/)（Iran）
 
-Microcerotermes choanensis 乔安锯白蚁（Old World tropics, West Africa, southern Africa）
+[*Microcerotermes choanensis* 乔安锯白蚁]({{ site.base_url }}/species/microcerotermes-choanensis/)（Old World tropics, West Africa, southern Africa）
 
-Microcerotermes collinsi 柯林斯锯白蚁（South Africa）
+[*Microcerotermes collinsi* 柯林斯锯白蚁]({{ site.base_url }}/species/microcerotermes-collinsi/)（South Africa）
 
-Microcerotermes crassus 大锯白蚁（Southeast Asia, Philippines, Thailand, Myanmar, Singapore, Bangladesh, China, India, Malaysia, Vietnam）
+[*Microcerotermes crassus* 大锯白蚁]({{ site.base_url }}/species/microcerotermes-crassus/)（Southeast Asia, Philippines, Thailand, Myanmar, Singapore, Bangladesh, China, India, Malaysia, Vietnam）
 
-Microcerotermes cupreiceps 铜头锯白蚁（Papua New Guinea）
+[*Microcerotermes cupreiceps* 铜头锯白蚁]({{ site.base_url }}/species/microcerotermes-cupreiceps/)（Papua New Guinea）
 
-Microcerotermes cylindriceps 筒头锯白蚁（Sri Lanka）
+[*Microcerotermes cylindriceps* 筒头锯白蚁]({{ site.base_url }}/species/microcerotermes-cylindriceps/)（Sri Lanka）
 
-Microcerotermes dammermani 达梅尔曼锯白蚁（Indonesia）
+[*Microcerotermes dammermani* 达梅尔曼锯白蚁]({{ site.base_url }}/species/microcerotermes-dammermani/)（Indonesia）
 
-Microcerotermes danieli 丹尼尔锯白蚁（South Asia, India）
+[*Microcerotermes danieli* 丹尼尔锯白蚁]({{ site.base_url }}/species/microcerotermes-danieli/)（South Asia, India）
 
-Microcerotermes dashlibronensis 达什利布龙锯白蚁（Iran）
+[*Microcerotermes dashlibronensis* 达什利布龙锯白蚁]({{ site.base_url }}/species/microcerotermes-dashlibronensis/)（Iran）
 
-Microcerotermes debilicornis 软角锯白蚁（southern Africa, South Africa）
+[*Microcerotermes debilicornis* 软角锯白蚁]({{ site.base_url }}/species/microcerotermes-debilicornis/)（southern Africa, South Africa）
 
-Microcerotermes depokensis 德波锯白蚁（Southeast Asia, Indonesia）
+[*Microcerotermes depokensis* 德波锯白蚁]({{ site.base_url }}/species/microcerotermes-depokensis/)（Southeast Asia, Indonesia）
 
-Microcerotermes distans 遥远锯白蚁（Southeast Asia, Indonesia, Malaysia, Philippines, Thailand）
+[*Microcerotermes distans* 遥远锯白蚁]({{ site.base_url }}/species/microcerotermes-distans/)（Southeast Asia, Indonesia, Malaysia, Philippines, Thailand）
 
-Microcerotermes distinctus 易识锯白蚁（Oceania, Australia）
+[*Microcerotermes distinctus* 易识锯白蚁]({{ site.base_url }}/species/microcerotermes-distinctus/)（Oceania, Australia）
 
-Microcerotermes diversus 不同锯白蚁（Middle East, Iraq, Iran, Saudi Arabia, Oman, Kuwait, Yemen）
+[*Microcerotermes diversus* 不同锯白蚁]({{ site.base_url }}/species/microcerotermes-diversus/)（Middle East, Iraq, Iran, Saudi Arabia, Oman, Kuwait, Yemen）
 
-Microcerotermes dolichocephalicus 长头锯白蚁（China）
+[*Microcerotermes dolichocephalicus* 长头锯白蚁]({{ site.base_url }}/species/microcerotermes-dolichocephalicus/)（China）
 
-Microcerotermes dolichognathus 狭颚锯白蚁（West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone）
+[*Microcerotermes dolichognathus* 狭颚锯白蚁]({{ site.base_url }}/species/microcerotermes-dolichognathus/)（West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone）
 
-Microcerotermes dumasensis 杜马斯锯白蚁（India）
+[*Microcerotermes dumasensis* 杜马斯锯白蚁]({{ site.base_url }}/species/microcerotermes-dumasensis/)（India）
 
-Microcerotermes dumisae 杜米萨锯白蚁（South Africa）
+[*Microcerotermes dumisae* 杜米萨锯白蚁]({{ site.base_url }}/species/microcerotermes-dumisae/)（South Africa）
 
-Microcerotermes duplex 含糊锯白蚁（Southeast Asia, Indonesia, Malaysia）
+[*Microcerotermes duplex* 含糊锯白蚁]({{ site.base_url }}/species/microcerotermes-duplex/)（Southeast Asia, Indonesia, Malaysia）
 
-Microcerotermes durbanensis 德班锯白蚁（southern Africa, South Africa）
+[*Microcerotermes durbanensis* 德班锯白蚁]({{ site.base_url }}/species/microcerotermes-durbanensis/)（southern Africa, South Africa）
 
-Microcerotermes edentatus 缺齿锯白蚁（West Africa, Côte d'Ivoire, Liberia, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Nigeria, Tanzania, Uganda）
+[*Microcerotermes edentatus* 缺齿锯白蚁]({{ site.base_url }}/species/microcerotermes-edentatus/)（West Africa, Côte d'Ivoire, Liberia, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Nigeria, Tanzania, Uganda）
 
-Microcerotermes elegans 苗条锯白蚁（Democratic Republic of the Congo）
+[*Microcerotermes elegans* 苗条锯白蚁]({{ site.base_url }}/species/microcerotermes-elegans/)（Democratic Republic of the Congo）
 
-Microcerotermes eugnathus 真颚锯白蚁（Egypt, Sinai, Tunisia）
+[*Microcerotermes eugnathus* 真颚锯白蚁]({{ site.base_url }}/species/microcerotermes-eugnathus/)（Egypt, Sinai, Tunisia）
 
-Microcerotermes exiguus 微小锯白蚁（Neotropics, Costa Rica, Brazil, Colombia, Venezuela, French Guiana, Guatemala, Nicaragua, Panama, Paraguay, Peru, Trinidad and Tobago）
+[*Microcerotermes exiguus* 微小锯白蚁]({{ site.base_url }}/species/microcerotermes-exiguus/)（Neotropics, Costa Rica, Brazil, Colombia, Venezuela, French Guiana, Guatemala, Nicaragua, Panama, Paraguay, Peru, Trinidad and Tobago）
 
-Microcerotermes fletcheri 弗莱彻锯白蚁（South Asia, India）
+[*Microcerotermes fletcheri* 弗莱彻锯白蚁]({{ site.base_url }}/species/microcerotermes-fletcheri/)（South Asia, India）
 
-Microcerotermes flyensis 弗莱锯白蚁（Papua New Guinea）
+[*Microcerotermes flyensis* 弗莱锯白蚁]({{ site.base_url }}/species/microcerotermes-flyensis/)（Papua New Guinea）
 
-Microcerotermes fuscotibialis 棕胫锯白蚁（Old World tropics, West Africa, Central Africa）
+[*Microcerotermes fuscotibialis* 棕胫锯白蚁]({{ site.base_url }}/species/microcerotermes-fuscotibialis/)（Old World tropics, West Africa, Central Africa）
 
-fuscotibialis 指名亚种
+[*fuscotibialis* 指名亚种]({{ site.base_url }}/species/microcerotermes-fuscotibialis-fuscotibialis/)
 
-libericus 利比里亚亚种
+[*libericus* 利比里亚亚种]({{ site.base_url }}/species/microcerotermes-fuscotibialis-libericus/)
 
-validior 较壮亚种
+[*validior* 较壮亚种]({{ site.base_url }}/species/microcerotermes-fuscotibialis-validior/)
 
-Microcerotermes gabrielis 加布里埃利斯锯白蚁（South Asia, Middle East, Afghanistan, Iran）
+[*Microcerotermes gabrielis* 加布里埃利斯锯白蚁]({{ site.base_url }}/species/microcerotermes-gabrielis/)（South Asia, Middle East, Afghanistan, Iran）
 
-Microcerotermes ganeshi 加内什锯白蚁（India）
+[*Microcerotermes ganeshi* 加内什锯白蚁]({{ site.base_url }}/species/microcerotermes-ganeshi/)（India）
 
-Microcerotermes gracilis 细瘦锯白蚁（Neotropics, Mexico, Costa Rica, Guatemala, Honduras, Nicaragua）
+[*Microcerotermes gracilis* 细瘦锯白蚁]({{ site.base_url }}/species/microcerotermes-gracilis/)（Neotropics, Mexico, Costa Rica, Guatemala, Honduras, Nicaragua）
 
-Microcerotermes greeni 格林锯白蚁（South Asia, Sri Lanka）
+[*Microcerotermes greeni* 格林锯白蚁]({{ site.base_url }}/species/microcerotermes-greeni/)（South Asia, Sri Lanka）
 
-Microcerotermes hamatus 具钩锯白蚁（southern Africa, South Africa, Democratic Republic of the Congo）
+[*Microcerotermes hamatus* 具钩锯白蚁]({{ site.base_url }}/species/microcerotermes-hamatus/)（southern Africa, South Africa, Democratic Republic of the Congo）
 
-Microcerotermes havilandi 哈维兰锯白蚁（Indonesia, Malaysia）
+[*Microcerotermes havilandi* 哈维兰锯白蚁]({{ site.base_url }}/species/microcerotermes-havilandi/)（Indonesia, Malaysia）
 
-Microcerotermes heimi 埃姆锯白蚁（South Asia, India, Sri Lanka, Pakistan）
+[*Microcerotermes heimi* 埃姆锯白蚁]({{ site.base_url }}/species/microcerotermes-heimi/)（South Asia, India, Sri Lanka, Pakistan）
 
-Microcerotermes hypaenicus 海帕恩锯白蚁（South Africa）
+[*Microcerotermes hypaenicus* 海帕恩锯白蚁]({{ site.base_url }}/species/microcerotermes-hypaenicus/)（South Africa）
 
-Microcerotermes ilalazonatus 伊拉拉佐纳图斯锯白蚁（South Africa）
+[*Microcerotermes ilalazonatus* 伊拉拉佐纳图斯锯白蚁]({{ site.base_url }}/species/microcerotermes-ilalazonatus/)（South Africa）
 
-Microcerotermes implacidus 易动锯白蚁（Oceania, Australia）
+[*Microcerotermes implacidus* 易动锯白蚁]({{ site.base_url }}/species/microcerotermes-implacidus/)（Oceania, Australia）
 
-Microcerotermes indistinctus 模糊锯白蚁（Neotropics, Brazil, French Guiana, Trinidad and Tobago, Venezuela）
+[*Microcerotermes indistinctus* 模糊锯白蚁]({{ site.base_url }}/species/microcerotermes-indistinctus/)（Neotropics, Brazil, French Guiana, Trinidad and Tobago, Venezuela）
 
-Microcerotermes insularis 岛屿锯白蚁（India）
+[*Microcerotermes insularis* 岛屿锯白蚁]({{ site.base_url }}/species/microcerotermes-insularis/)（India）
 
-Microcerotermes kudremukhae 库德雷穆克锯白蚁（India）
+[*Microcerotermes kudremukhae* 库德雷穆克锯白蚁]({{ site.base_url }}/species/microcerotermes-kudremukhae/)（India）
 
-Microcerotermes kwazulu 夸祖鲁锯白蚁（southern Africa, South Africa）
+[*Microcerotermes kwazulu* 夸祖鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-kwazulu/)（southern Africa, South Africa）
 
-Microcerotermes labioangulatus 角唇锯白蚁（India）
+[*Microcerotermes labioangulatus* 角唇锯白蚁]({{ site.base_url }}/species/microcerotermes-labioangulatus/)（India）
 
-labioangulatus 指名亚种
+[*labioangulatus* 指名亚种]({{ site.base_url }}/species/microcerotermes-labioangulatus-labioangulatus/)
 
-wahkdaitensis 瓦克代特亚种
+[*wahkdaitensis* 瓦克代特亚种]({{ site.base_url }}/species/microcerotermes-labioangulatus-wahkdaitensis/)
 
-Microcerotermes lahorensis 拉合尔锯白蚁（South Asia, Pakistan, India）
+[*Microcerotermes lahorensis* 拉合尔锯白蚁]({{ site.base_url }}/species/microcerotermes-lahorensis/)（South Asia, Pakistan, India）
 
-Microcerotermes lateralis 侧移锯白蚁（Central Africa, Cameroon, Sierra Leone）
+[*Microcerotermes lateralis* 侧移锯白蚁]({{ site.base_url }}/species/microcerotermes-lateralis/)（Central Africa, Cameroon, Sierra Leone）
 
-Microcerotermes laticeps 宽头锯白蚁（southern Africa, South Africa）
+[*Microcerotermes laticeps* 宽头锯白蚁]({{ site.base_url }}/species/microcerotermes-laticeps/)（southern Africa, South Africa）
 
-Microcerotermes laxmi 拉克西米锯白蚁（India）
+[*Microcerotermes laxmi* 拉克西米锯白蚁]({{ site.base_url }}/species/microcerotermes-laxmi/)（India）
 
-Microcerotermes leai 莉锯白蚁（Oceania, Australia）
+[*Microcerotermes leai* 莉锯白蚁]({{ site.base_url }}/species/microcerotermes-leai/)（Oceania, Australia）
 
-Microcerotermes limpopoensis 林波波锯白蚁（South Africa）
+[*Microcerotermes limpopoensis* 林波波锯白蚁]({{ site.base_url }}/species/microcerotermes-limpopoensis/)（South Africa）
 
-Microcerotermes longiceps 头长锯白蚁（Madagascar）
+[*Microcerotermes longiceps* 头长锯白蚁]({{ site.base_url }}/species/microcerotermes-longiceps/)（Madagascar）
 
-Microcerotermes longignathus 长颚锯白蚁（Pakistan）
+[*Microcerotermes longignathus* 长颚锯白蚁]({{ site.base_url }}/species/microcerotermes-longignathus/)（Pakistan）
 
-Microcerotermes longimalatus 长腭锯白蚁（Democratic Republic of the Congo）
+[*Microcerotermes longimalatus* 长腭锯白蚁]({{ site.base_url }}/species/microcerotermes-longimalatus/)（Democratic Republic of the Congo）
 
-Microcerotermes losbanosensis 洛斯巴尼奥斯锯白蚁（Southeast Asia, Philippines）
+[*Microcerotermes losbanosensis* 洛斯巴尼奥斯锯白蚁]({{ site.base_url }}/species/microcerotermes-losbanosensis/)（Southeast Asia, Philippines）
 
-Microcerotermes luluai 卢路亚锯白蚁（Papua New Guinea）
+[*Microcerotermes luluai* 卢路亚锯白蚁]({{ site.base_url }}/species/microcerotermes-luluai/)（Papua New Guinea）
 
-Microcerotermes macacoensis 马卡古锯白蚁（Democratic Republic of the Congo）
+[*Microcerotermes macacoensis* 马卡古锯白蚁]({{ site.base_url }}/species/microcerotermes-macacoensis/)（Democratic Republic of the Congo）
 
-Microcerotermes madurae 马都拉锯白蚁（Southeast Asia, Indonesia）
+[*Microcerotermes madurae* 马都拉锯白蚁]({{ site.base_url }}/species/microcerotermes-madurae/)（Southeast Asia, Indonesia）
 
-Microcerotermes major 大型锯白蚁（Madagascar）
+[*Microcerotermes major* 大型锯白蚁]({{ site.base_url }}/species/microcerotermes-major/)（Madagascar）
 
-Microcerotermes maliki 马利克锯白蚁（Pakistan）
+[*Microcerotermes maliki* 马利克锯白蚁]({{ site.base_url }}/species/microcerotermes-maliki/)（Pakistan）
 
-Microcerotermes malmesburyi 马姆斯伯里锯白蚁（South Africa）
+[*Microcerotermes malmesburyi* 马姆斯伯里锯白蚁]({{ site.base_url }}/species/microcerotermes-malmesburyi/)（South Africa）
 
-Microcerotermes mandibularis 具颚锯白蚁（Madagascar）
+[*Microcerotermes mandibularis* 具颚锯白蚁]({{ site.base_url }}/species/microcerotermes-mandibularis/)（Madagascar）
 
-Microcerotermes manjikuli 曼志库尔锯白蚁（Thailand）
+[*Microcerotermes manjikuli* 曼志库尔锯白蚁]({{ site.base_url }}/species/microcerotermes-manjikuli/)（Thailand）
 
-Microcerotermes marilimbus 海角锯白蚁（Hainan (Wanning, Ledong)）
+[*Microcerotermes marilimbus* 海角锯白蚁]({{ site.base_url }}/species/microcerotermes-marilimbus/)（Hainan (Wanning, Ledong)）
 
-Microcerotermes masaiaticus 马赛亚特锯白蚁（Kenya, Tanzania）
+[*Microcerotermes masaiaticus* 马赛亚特锯白蚁]({{ site.base_url }}/species/microcerotermes-masaiaticus/)（Kenya, Tanzania）
 
-Microcerotermes minor 小型锯白蚁（India, Sri Lanka）
+[*Microcerotermes minor* 小型锯白蚁]({{ site.base_url }}/species/microcerotermes-minor/)（India, Sri Lanka）
 
-Microcerotermes minutus 小泰锯白蚁（China, Thailand）
+[*Microcerotermes minutus* 小泰锯白蚁]({{ site.base_url }}/species/microcerotermes-minutus/)（China, Thailand）
 
-Microcerotermes mzilikazi 姆兹立卡兹锯白蚁（southern Africa, South Africa）
+[*Microcerotermes mzilikazi* 姆兹立卡兹锯白蚁]({{ site.base_url }}/species/microcerotermes-mzilikazi/)（southern Africa, South Africa）
 
-Microcerotermes nanulus 短小锯白蚁（Benin, Côte d'Ivoire）
+[*Microcerotermes nanulus* 短小锯白蚁]({{ site.base_url }}/species/microcerotermes-nanulus/)（Benin, Côte d'Ivoire）
 
-Microcerotermes nanus 侏儒锯白蚁（Oceania, Australia）
+[*Microcerotermes nanus* 侏儒锯白蚁]({{ site.base_url }}/species/microcerotermes-nanus/)（Oceania, Australia）
 
-Microcerotermes nemoralis 树林锯白蚁（Tanzania, Zambia）
+[*Microcerotermes nemoralis* 树林锯白蚁]({{ site.base_url }}/species/microcerotermes-nemoralis/)（Tanzania, Zambia）
 
-Microcerotermes nervosus 强健锯白蚁（Oceania, Australia）
+[*Microcerotermes nervosus* 强健锯白蚁]({{ site.base_url }}/species/microcerotermes-nervosus/)（Oceania, Australia）
 
-Microcerotermes newmani 纽曼锯白蚁（Oceania, Australia）
+[*Microcerotermes newmani* 纽曼锯白蚁]({{ site.base_url }}/species/microcerotermes-newmani/)（Oceania, Australia）
 
-Microcerotermes nicobarensis 尼科巴锯白蚁（South Asia, India）
+[*Microcerotermes nicobarensis* 尼科巴锯白蚁]({{ site.base_url }}/species/microcerotermes-nicobarensis/)（South Asia, India）
 
-Microcerotermes novaecaledoniae 新喀里多尼亚锯白蚁（Oceania, New Caledonia）
+[*Microcerotermes novaecaledoniae* 新喀里多尼亚锯白蚁]({{ site.base_url }}/species/microcerotermes-novaecaledoniae/)（Oceania, New Caledonia）
 
-Microcerotermes pakistanicus 巴基斯坦锯白蚁（South Asia, Pakistan, India, Iran, Malaysia）
+[*Microcerotermes pakistanicus* 巴基斯坦锯白蚁]({{ site.base_url }}/species/microcerotermes-pakistanicus/)（South Asia, Pakistan, India, Iran, Malaysia）
 
-Microcerotermes palaearcticus 古北锯白蚁（Algeria, Morocco, Tunisia）
+[*Microcerotermes palaearcticus* 古北锯白蚁]({{ site.base_url }}/species/microcerotermes-palaearcticus/)（Algeria, Morocco, Tunisia）
 
-Microcerotermes palestinensis 巴勒斯坦锯白蚁（Middle East, Israel, India）
+[*Microcerotermes palestinensis* 巴勒斯坦锯白蚁]({{ site.base_url }}/species/microcerotermes-palestinensis/)（Middle East, Israel, India）
 
-Microcerotermes papuanus 巴布亚锯白蚁（Southeast Asia, Indonesia, Papua New Guinea）
+[*Microcerotermes papuanus* 巴布亚锯白蚁]({{ site.base_url }}/species/microcerotermes-papuanus/)（Southeast Asia, Indonesia, Papua New Guinea）
 
-Microcerotermes paracelebensis 似西里伯斯锯白蚁（Malaysia, Thailand）
+[*Microcerotermes paracelebensis* 似西里伯斯锯白蚁]({{ site.base_url }}/species/microcerotermes-paracelebensis/)（Malaysia, Thailand）
 
-Microcerotermes parviceps 小头锯白蚁（Oceania, Australia）
+[*Microcerotermes parviceps* 小头锯白蚁]({{ site.base_url }}/species/microcerotermes-parviceps/)（Oceania, Australia）
 
-Microcerotermes parvulus 细小锯白蚁（Old World tropics, West Africa, Central Africa, Chad, Congo, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea, Côte d'Ivoire, Nigeria, Senegal, Tanzania, Oman, Saudi Arabia, Yemen）
+[*Microcerotermes parvulus* 细小锯白蚁]({{ site.base_url }}/species/microcerotermes-parvulus/)（Old World tropics, West Africa, Central Africa, Chad, Congo, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea, Côte d'Ivoire, Nigeria, Senegal, Tanzania, Oman, Saudi Arabia, Yemen）
 
-Microcerotermes parvus 小锯白蚁（Old World tropics, Congo, Côte d'Ivoire, Senegal, Togo, South Africa, Angola, Cameroon, Democratic Republic of the Congo, Eritrea, Ethiopia, Gabon, Ghana, Kenya, Nigeria, Sudan, Tanzania, Uganda）
+[*Microcerotermes parvus* 小锯白蚁]({{ site.base_url }}/species/microcerotermes-parvus/)（Old World tropics, Congo, Côte d'Ivoire, Senegal, Togo, South Africa, Angola, Cameroon, Democratic Republic of the Congo, Eritrea, Ethiopia, Gabon, Ghana, Kenya, Nigeria, Sudan, Tanzania, Uganda）
 
-Microcerotermes pauliani 波利昂锯白蚁（Madagascar）
+[*Microcerotermes pauliani* 波利昂锯白蚁]({{ site.base_url }}/species/microcerotermes-pauliani/)（Madagascar）
 
-Microcerotermes peraffinis 近缘锯白蚁（Oceania, Tonga, Samoa）
+[*Microcerotermes peraffinis* 近缘锯白蚁]({{ site.base_url }}/species/microcerotermes-peraffinis/)（Oceania, Tonga, Samoa）
 
-Microcerotermes periminutus 微锯白蚁（Hainan (Qiongzhong)）
+[*Microcerotermes periminutus* 微锯白蚁]({{ site.base_url }}/species/microcerotermes-periminutus/)（Hainan (Qiongzhong)）
 
-Microcerotermes philippinensis 菲律宾锯白蚁（Philippines）
+[*Microcerotermes philippinensis* 菲律宾锯白蚁]({{ site.base_url }}/species/microcerotermes-philippinensis/)（Philippines）
 
-Microcerotermes piliceps 毛头锯白蚁（Oceania, Solomon Islands, Papua New Guinea）
+[*Microcerotermes piliceps* 毛头锯白蚁]({{ site.base_url }}/species/microcerotermes-piliceps/)（Oceania, Solomon Islands, Papua New Guinea）
 
-Microcerotermes pondweniensis 庞德文尼锯白蚁（South Africa）
+[*Microcerotermes pondweniensis* 庞德文尼锯白蚁]({{ site.base_url }}/species/microcerotermes-pondweniensis/)（South Africa）
 
-Microcerotermes prochampioni 近冠锯白蚁（Pakistan）
+[*Microcerotermes prochampioni* 近冠锯白蚁]({{ site.base_url }}/species/microcerotermes-prochampioni/)（Pakistan）
 
-Microcerotermes progrediens 行进锯白蚁（Angola, Cameroon, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Nigeria）
+[*Microcerotermes progrediens* 行进锯白蚁]({{ site.base_url }}/species/microcerotermes-progrediens/)（Angola, Cameroon, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Nigeria）
 
-Microcerotermes propinquus 近邻锯白蚁（Madagascar, Réunion, Europa Island (France)）
+[*Microcerotermes propinquus* 近邻锯白蚁]({{ site.base_url }}/species/microcerotermes-propinquus/)（Madagascar, Réunion, Europa Island (France)）
 
-Microcerotermes psammophilus 喜沙锯白蚁（South Africa）
+[*Microcerotermes psammophilus* 喜沙锯白蚁]({{ site.base_url }}/species/microcerotermes-psammophilus/)（South Africa）
 
-Microcerotermes raja 拉贾锯白蚁（South Asia, India）
+[*Microcerotermes raja* 拉贾锯白蚁]({{ site.base_url }}/species/microcerotermes-raja/)（South Asia, India）
 
-Microcerotermes rambanensis 拉姆班锯白蚁（India）
+[*Microcerotermes rambanensis* 拉姆班锯白蚁]({{ site.base_url }}/species/microcerotermes-rambanensis/)（India）
 
-Microcerotermes remotus 天涯锯白蚁（Hainan (Yaxian, Dongfang, Ledong, Lingshui)）
+[*Microcerotermes remotus* 天涯锯白蚁]({{ site.base_url }}/species/microcerotermes-remotus/)（Hainan (Yaxian, Dongfang, Ledong, Lingshui)）
 
-Microcerotermes repugnans 抵抗锯白蚁（Oceania, Australia, Papua New Guinea）
+[*Microcerotermes repugnans* 抵抗锯白蚁]({{ site.base_url }}/species/microcerotermes-repugnans/)（Oceania, Australia, Papua New Guinea）
 
-Microcerotermes rhombinidus 菱巢锯白蚁（China, Guangdong, Hainan, Guangxi）
+[*Microcerotermes rhombinidus* 菱巢锯白蚁]({{ site.base_url }}/species/microcerotermes-rhombinidus/)（China, Guangdong, Hainan, Guangxi）
 
-Microcerotermes sabaeus 塞巴锯白蚁（Saudi Arabia, Yemen）
+[*Microcerotermes sabaeus* 塞巴锯白蚁]({{ site.base_url }}/species/microcerotermes-sabaeus/)（Saudi Arabia, Yemen）
 
-Microcerotermes sabahensis 沙巴锯白蚁（Malaysia）
+[*Microcerotermes sabahensis* 沙巴锯白蚁]({{ site.base_url }}/species/microcerotermes-sabahensis/)（Malaysia）
 
-Microcerotermes sakarahensis 萨卡拉哈锯白蚁（Madagascar）
+[*Microcerotermes sakarahensis* 萨卡拉哈锯白蚁]({{ site.base_url }}/species/microcerotermes-sakarahensis/)（Madagascar）
 
-Microcerotermes sakesarensis 瑟盖瑟尔锯白蚁（India, Pakistan）
+[*Microcerotermes sakesarensis* 瑟盖瑟尔锯白蚁]({{ site.base_url }}/species/microcerotermes-sakesarensis/)（India, Pakistan）
 
-Microcerotermes sanctaeluciae 圣卢西亚湖锯白蚁（South Africa）
+[*Microcerotermes sanctaeluciae* 圣卢西亚湖锯白蚁]({{ site.base_url }}/species/microcerotermes-sanctaeluciae/)（South Africa）
 
-Microcerotermes saravanensis 萨拉万锯白蚁（Iran）
+[*Microcerotermes saravanensis* 萨拉万锯白蚁]({{ site.base_url }}/species/microcerotermes-saravanensis/)（Iran）
 
-Microcerotermes secernens 切割锯白蚁（Central African Republic, Democratic Republic of the Congo）
+[*Microcerotermes secernens* 切割锯白蚁]({{ site.base_url }}/species/microcerotermes-secernens/)（Central African Republic, Democratic Republic of the Congo）
 
-Microcerotermes septentrionalis 北方锯白蚁（Neotropics, Costa Rica, Mexico, Guatemala, Honduras, Belize, Nicaragua）
+[*Microcerotermes septentrionalis* 北方锯白蚁]({{ site.base_url }}/species/microcerotermes-septentrionalis/)（Neotropics, Costa Rica, Mexico, Guatemala, Honduras, Belize, Nicaragua）
 
-Microcerotermes serratus 锯锯白蚁（Oceania, Australia, Indonesia, Malaysia, Thailand）
+[*Microcerotermes serratus* 锯锯白蚁]({{ site.base_url }}/species/microcerotermes-serratus/)（Oceania, Australia, Indonesia, Malaysia, Thailand）
 
-Microcerotermes shahroudiensis 沙赫鲁德锯白蚁（Iran）
+[*Microcerotermes shahroudiensis* 沙赫鲁德锯白蚁]({{ site.base_url }}/species/microcerotermes-shahroudiensis/)（Iran）
 
-Microcerotermes sikorae 西科拉锯白蚁（Madagascar）
+[*Microcerotermes sikorae* 西科拉锯白蚁]({{ site.base_url }}/species/microcerotermes-sikorae/)（Madagascar）
 
-Microcerotermes silvestrianus 西尔韦斯特里锯白蚁（Democratic Republic of the Congo, Tanzania）
+[*Microcerotermes silvestrianus* 西尔韦斯特里锯白蚁]({{ site.base_url }}/species/microcerotermes-silvestrianus/)（Democratic Republic of the Congo, Tanzania）
 
-Microcerotermes sistaniensis 锡斯坦锯白蚁（Iran, Sistan and Baluchestan）
+[*Microcerotermes sistaniensis* 锡斯坦锯白蚁]({{ site.base_url }}/species/microcerotermes-sistaniensis/)（Iran, Sistan and Baluchestan）
 
-Microcerotermes solidus 坚硬锯白蚁（West Africa, Senegal, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Nigeria）
+[*Microcerotermes solidus* 坚硬锯白蚁]({{ site.base_url }}/species/microcerotermes-solidus/)（West Africa, Senegal, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Nigeria）
 
-\*Microcerotermes strunckii 斯特伦基锯白蚁（Neotropics, Brazil, Argentina, Paraguay, Peru, Venezuela）
+\*[*Microcerotermes strunckii* 斯特伦基锯白蚁]({{ site.base_url }}/species/microcerotermes-strunckii/)（Neotropics, Brazil, Argentina, Paraguay, Peru, Venezuela）
 
-Microcerotermes subinteger 稍全锯白蚁（Madagascar）
+[*Microcerotermes subinteger* 稍全锯白蚁]({{ site.base_url }}/species/microcerotermes-subinteger/)（Madagascar）
 
-Microcerotermes subtilis 瘦长锯白蚁（Madagascar, Réunion, Comoros, Europa Island (France), Glorioso Islands (France), Seychelles, Tanzania）
+[*Microcerotermes subtilis* 瘦长锯白蚁]({{ site.base_url }}/species/microcerotermes-subtilis/)（Madagascar, Réunion, Comoros, Europa Island (France), Glorioso Islands (France), Seychelles, Tanzania）
 
-Microcerotermes taylori 泰勒锯白蚁（Oceania, Australia, Papua New Guinea）
+[*Microcerotermes taylori* 泰勒锯白蚁]({{ site.base_url }}/species/microcerotermes-taylori/)（Oceania, Australia, Papua New Guinea）
 
-Microcerotermes tenuignathus 细颚锯白蚁（India, Pakistan）
+[*Microcerotermes tenuignathus* 细颚锯白蚁]({{ site.base_url }}/species/microcerotermes-tenuignathus/)（India, Pakistan）
 
-Microcerotermes theobromae 可可锯白蚁（Equatorial Guinea, São Tomé and Príncipe）
+[*Microcerotermes theobromae* 可可锯白蚁]({{ site.base_url }}/species/microcerotermes-theobromae/)（Equatorial Guinea, São Tomé and Príncipe）
 
-Microcerotermes thermarum 沃姆巴德锯白蚁（South Africa）
+[*Microcerotermes thermarum* 沃姆巴德锯白蚁]({{ site.base_url }}/species/microcerotermes-thermarum/)（South Africa）
 
-Microcerotermes transiens 经过锯白蚁（West Africa, Liberia, Cameroon）
+[*Microcerotermes transiens* 经过锯白蚁]({{ site.base_url }}/species/microcerotermes-transiens/)（West Africa, Liberia, Cameroon）
 
-Microcerotermes turkmenicus 土库曼锯白蚁（Turkmenistan）
+[*Microcerotermes turkmenicus* 土库曼锯白蚁]({{ site.base_url }}/species/microcerotermes-turkmenicus/)（Turkmenistan）
 
-Microcerotermes turneri 特纳锯白蚁（Oceania, Australia）
+[*Microcerotermes turneri* 特纳锯白蚁]({{ site.base_url }}/species/microcerotermes-turneri/)（Oceania, Australia）
 
-Microcerotermes uncatus 钩颚锯白蚁（Myanmar）
+[*Microcerotermes uncatus* 钩颚锯白蚁]({{ site.base_url }}/species/microcerotermes-uncatus/)（Myanmar）
 
-Microcerotermes unidentatus 单齿锯白蚁（Madagascar）
+[*Microcerotermes unidentatus* 单齿锯白蚁]({{ site.base_url }}/species/microcerotermes-unidentatus/)（Madagascar）
 
-Microcerotermes varaminicus 瓦拉明锯白蚁（Iran）
+[*Microcerotermes varaminicus* 瓦拉明锯白蚁]({{ site.base_url }}/species/microcerotermes-varaminicus/)（Iran）
 
-Microcerotermes zuluensis 祖鲁锯白蚁（Old World tropics, West Africa, southern Africa）
+[*Microcerotermes zuluensis* 祖鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-zuluensis/)（Old World tropics, West Africa, southern Africa）
 
-zuluensis 指名亚种
+[*zuluensis* 指名亚种]({{ site.base_url }}/species/microcerotermes-zuluensis-zuluensis/)
 
-rubriceps 红头亚种
+[*rubriceps* 红头亚种]({{ site.base_url }}/species/microcerotermes-zuluensis-rubriceps/)
 
-Microcerotermes zuluoides 似祖鲁锯白蚁（southern Africa, South Africa）
+[*Microcerotermes zuluoides* 似祖鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-zuluoides/)（southern Africa, South Africa）
 
 <h5 id="onkotermes">Onkotermes</h5>
 
-\*Onkotermes brevicorniger 短角倒钩白蚁（Argentina, Brazil, Chile）
+\*[*Onkotermes brevicorniger* 短角倒钩白蚁]({{ site.base_url }}/species/onkotermes-brevicorniger/)（Argentina, Brazil, Chile）
 
-Onkotermes corochus 瘤额倒钩白蚁（Argentina, Paraguay）
+[*Onkotermes corochus* 瘤额倒钩白蚁]({{ site.base_url }}/species/onkotermes-corochus/)（Argentina, Paraguay）
 
 <h4 id="mirocapritermitinae">Mirocapritermitinae</h4>
 
@@ -5006,301 +5006,301 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="dicuspiditermes">Dicuspiditermes</h5>
 
-Dicuspiditermes achankovili 阿坚柯维尔突扭白蚁（India）
+[*Dicuspiditermes achankovili* 阿坚柯维尔突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-achankovili/)（India）
 
-Dicuspiditermes boseae 鲍斯突扭白蚁（India, Tamil Nadu）
+[*Dicuspiditermes boseae* 鲍斯突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-boseae/)（India, Tamil Nadu）
 
-Dicuspiditermes cacuminatus 尖齿突扭白蚁（Malaysia）
+[*Dicuspiditermes cacuminatus* 尖齿突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-cacuminatus/)（Malaysia）
 
-Dicuspiditermes cornutella 小角突扭白蚁（India）
+[*Dicuspiditermes cornutella* 小角突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-cornutella/)（India）
 
-Dicuspiditermes fissifex 裂开突扭白蚁（Indonesia, Malaysia, Singapore）
+[*Dicuspiditermes fissifex* 裂开突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-fissifex/)（Indonesia, Malaysia, Singapore）
 
-Dicuspiditermes fontanellus 小囟突扭白蚁（South Asia, India）
+[*Dicuspiditermes fontanellus* 小囟突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-fontanellus/)（South Asia, India）
 
-Dicuspiditermes gravelyi 格雷夫利突扭白蚁（India）
+[*Dicuspiditermes gravelyi* 格雷夫利突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-gravelyi/)（India）
 
-Dicuspiditermes hutsoni 赫特森突扭白蚁（South Asia, Sri Lanka）
+[*Dicuspiditermes hutsoni* 赫特森突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-hutsoni/)（South Asia, Sri Lanka）
 
-Dicuspiditermes incola 栖息突扭白蚁（India, Sri Lanka）
+[*Dicuspiditermes incola* 栖息突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-incola/)（India, Sri Lanka）
 
-Dicuspiditermes kistneri 基斯特纳突扭白蚁（Malaysia, Singapore）
+[*Dicuspiditermes kistneri* 基斯特纳突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-kistneri/)（Malaysia, Singapore）
 
-Dicuspiditermes laetus 明亮突扭白蚁（Southeast Asia, Thailand, Bangladesh, Cambodia, China, India, Malaysia, Myanmar, Vietnam）
+[*Dicuspiditermes laetus* 明亮突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-laetus/)（Southeast Asia, Thailand, Bangladesh, Cambodia, China, India, Malaysia, Myanmar, Vietnam）
 
-Dicuspiditermes leghugathrae 莱古加思突扭白蚁（India）
+[*Dicuspiditermes leghugathrae* 莱古加思突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-leghugathrae/)（India）
 
-Dicuspiditermes makhamensis 玛堪突扭白蚁（Thailand）
+[*Dicuspiditermes makhamensis* 玛堪突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-makhamensis/)（Thailand）
 
-Dicuspiditermes minutus 小突扭白蚁（Brunei, Indonesia, Malaysia, Singapore）
+[*Dicuspiditermes minutus* 小突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-minutus/)（Brunei, Indonesia, Malaysia, Singapore）
 
-Dicuspiditermes nemorosus 树荫突扭白蚁（Southeast Asia, Malaysia, Indonesia, Singapore）
+[*Dicuspiditermes nemorosus* 树荫突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-nemorosus/)（Southeast Asia, Malaysia, Indonesia, Singapore）
 
-\*Dicuspiditermes obtusus 迟钝突扭白蚁（India）
+\*[*Dicuspiditermes obtusus* 迟钝突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-obtusus/)（India）
 
-Dicuspiditermes punjabensis 旁遮普突扭白蚁（Pakistan）
+[*Dicuspiditermes punjabensis* 旁遮普突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-punjabensis/)（Pakistan）
 
-Dicuspiditermes rothi 罗思突扭白蚁（Malaysia）
+[*Dicuspiditermes rothi* 罗思突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-rothi/)（Malaysia）
 
-Dicuspiditermes santschii 桑特斯基突扭白蚁（Southeast Asia, Indonesia, Malaysia）
+[*Dicuspiditermes santschii* 桑特斯基突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-santschii/)（Southeast Asia, Indonesia, Malaysia）
 
-Dicuspiditermes sisiri 西西尔突扭白蚁（India, Kerala）
+[*Dicuspiditermes sisiri* 西西尔突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-sisiri/)（India, Kerala）
 
-Dicuspiditermes spinitibialis 刺胫突扭白蚁（East Asia, China, Thailand）
+[*Dicuspiditermes spinitibialis* 刺胫突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-spinitibialis/)（East Asia, China, Thailand）
 
 <h5 id="homallotermes">Homallotermes</h5>
 
-Homallotermes eleanorae 埃莉诺平白蚁（Brunei, Indonesia, Malaysia）
+[*Homallotermes eleanorae* 埃莉诺平白蚁]({{ site.base_url }}/species/homallotermes-eleanorae/)（Brunei, Indonesia, Malaysia）
 
-Homallotermes exiguus 微小平白蚁（Indonesia, Malaysia）
+[*Homallotermes exiguus* 微小平白蚁]({{ site.base_url }}/species/homallotermes-exiguus/)（Indonesia, Malaysia）
 
-\*Homallotermes foraminifer 具孔平白蚁（Indonesia, Malaysia）
+\*[*Homallotermes foraminifer* 具孔平白蚁]({{ site.base_url }}/species/homallotermes-foraminifer/)（Indonesia, Malaysia）
 
-Homallotermes pilosus 多毛平白蚁（India）
+[*Homallotermes pilosus* 多毛平白蚁]({{ site.base_url }}/species/homallotermes-pilosus/)（India）
 
 <h5 id="indocapritermes">Indocapritermes</h5>
 
-\*Indocapritermes aruni 阿伦印扭白蚁（South Asia, India）
+\*[*Indocapritermes aruni* 阿伦印扭白蚁]({{ site.base_url }}/species/indocapritermes-aruni/)（South Asia, India）
 
 <h5 id="kemneritermes">Kemneritermes</h5>
 
-\*Kemneritermes sarawakensis 砂拉越凯姆勒白蚁（Borneo）
+\*[*Kemneritermes sarawakensis* 砂拉越凯姆勒白蚁]({{ site.base_url }}/species/kemneritermes-sarawakensis/)（Borneo）
 
 <h5 id="krishnacapritermes">Krishnacapritermes</h5>
 
-Krishnacapritermes dineshan 迪内尚克里希纳扭白蚁（India, Kerala, Western Ghats）
+[*Krishnacapritermes dineshan* 迪内尚克里希纳扭白蚁]({{ site.base_url }}/species/krishnacapritermes-dineshan/)（India, Kerala, Western Ghats）
 
-\*Krishnacapritermes maitii 迈蒂克里希纳扭白蚁（India, Western Ghats）
+\*[*Krishnacapritermes maitii* 迈蒂克里希纳扭白蚁]({{ site.base_url }}/species/krishnacapritermes-maitii/)（India, Western Ghats）
 
-Krishnacapritermes manikandan 马尼坎丹克里希纳扭白蚁（India, Kerala）
+[*Krishnacapritermes manikandan* 马尼坎丹克里希纳扭白蚁]({{ site.base_url }}/species/krishnacapritermes-manikandan/)（India, Kerala）
 
-Krishnacapritermes thakuri 塔库尔克里希纳扭白蚁（South Asia, India）
+[*Krishnacapritermes thakuri* 塔库尔克里希纳扭白蚁]({{ site.base_url }}/species/krishnacapritermes-thakuri/)（South Asia, India）
 
 <h5 id="labiocapritermes">Labiocapritermes</h5>
 
-\*Labiocapritermes distortus 扭曲唇扭白蚁（India）
+\*[*Labiocapritermes distortus* 扭曲唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-distortus/)（India）
 
-Labiocapritermes ghatensis 高止唇扭白蚁（India）
+[*Labiocapritermes ghatensis* 高止唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-ghatensis/)（India）
 
 <h5 id="mirocapritermes">Mirocapritermes</h5>
 
-Mirocapritermes concaveus 凹瘤白蚁（Thailand）
+[*Mirocapritermes concaveus* 凹瘤白蚁]({{ site.base_url }}/species/mirocapritermes-concaveus/)（Thailand）
 
-\*Mirocapritermes connectens 连接瘤白蚁（Southeast Asia, Malaysia, Singapore）
+\*[*Mirocapritermes connectens* 连接瘤白蚁]({{ site.base_url }}/species/mirocapritermes-connectens/)（Southeast Asia, Malaysia, Singapore）
 
-Mirocapritermes hsuchiafui 云南瘤白蚁（China）
+[*Mirocapritermes hsuchiafui* 云南瘤白蚁]({{ site.base_url }}/species/mirocapritermes-hsuchiafui/)（China）
 
-Mirocapritermes jiangchengensis 江城瘤白蚁（China, Yunnan）
+[*Mirocapritermes jiangchengensis* 江城瘤白蚁]({{ site.base_url }}/species/mirocapritermes-jiangchengensis/)（China, Yunnan）
 
-Mirocapritermes latignathus 宽颚瘤白蚁（Thailand, Malaysia）
+[*Mirocapritermes latignathus* 宽颚瘤白蚁]({{ site.base_url }}/species/mirocapritermes-latignathus/)（Thailand, Malaysia）
 
-Mirocapritermes prewensis 普鲁瘤白蚁（Thailand）
+[*Mirocapritermes prewensis* 普鲁瘤白蚁]({{ site.base_url }}/species/mirocapritermes-prewensis/)（Thailand）
 
-Mirocapritermes snyderi 斯奈德瘤白蚁（Bangladesh）
+[*Mirocapritermes snyderi* 斯奈德瘤白蚁]({{ site.base_url }}/species/mirocapritermes-snyderi/)（Bangladesh）
 
-Mirocapritermes valeriae 瓦莱里瘤白蚁（Myanmar）
+[*Mirocapritermes valeriae* 瓦莱里瘤白蚁]({{ site.base_url }}/species/mirocapritermes-valeriae/)（Myanmar）
 
 <h5 id="oriencapritermes">Oriencapritermes</h5>
 
-\*Oriencapritermes kluangensis 居銮东扭白蚁（Indonesia, Malaysia）
+\*[*Oriencapritermes kluangensis* 居銮东扭白蚁]({{ site.base_url }}/species/oriencapritermes-kluangensis/)（Indonesia, Malaysia）
 
 <h5 id="pericapritermes">Pericapritermes</h5>
 
-Pericapritermes appellans 定名近扭白蚁（West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone）
+[*Pericapritermes appellans* 定名近扭白蚁]({{ site.base_url }}/species/pericapritermes-appellans/)（West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone）
 
-Pericapritermes assamensis 阿萨姆近扭白蚁（India）
+[*Pericapritermes assamensis* 阿萨姆近扭白蚁]({{ site.base_url }}/species/pericapritermes-assamensis/)（India）
 
-Pericapritermes beibengensis 背崩近扭白蚁（China (Tibet)）
+[*Pericapritermes beibengensis* 背崩近扭白蚁]({{ site.base_url }}/species/pericapritermes-beibengensis/)（China (Tibet)）
 
-Pericapritermes brachygnathus 短颚近扭白蚁（Indonesia, Malaysia）
+[*Pericapritermes brachygnathus* 短颚近扭白蚁]({{ site.base_url }}/species/pericapritermes-brachygnathus/)（Indonesia, Malaysia）
 
-Pericapritermes buitenzorgi 比特恩佐格近扭白蚁（Indonesia, Malaysia）
+[*Pericapritermes buitenzorgi* 比特恩佐格近扭白蚁]({{ site.base_url }}/species/pericapritermes-buitenzorgi/)（Indonesia, Malaysia）
 
-Pericapritermes ceylonicus 锡兰近扭白蚁（India, Sri Lanka）
+[*Pericapritermes ceylonicus* 锡兰近扭白蚁]({{ site.base_url }}/species/pericapritermes-ceylonicus/)（India, Sri Lanka）
 
-Pericapritermes chiasognathus 隐颚近扭白蚁（Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria）
+[*Pericapritermes chiasognathus* 隐颚近扭白蚁]({{ site.base_url }}/species/pericapritermes-chiasognathus/)（Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria）
 
-Pericapritermes desaegeri 德埃吉近扭白蚁（Democratic Republic of the Congo）
+[*Pericapritermes desaegeri* 德埃吉近扭白蚁]({{ site.base_url }}/species/pericapritermes-desaegeri/)（Democratic Republic of the Congo）
 
-Pericapritermes dolichocephalus 长头近扭白蚁（Indonesia, Malaysia）
+[*Pericapritermes dolichocephalus* 长头近扭白蚁]({{ site.base_url }}/species/pericapritermes-dolichocephalus/)（Indonesia, Malaysia）
 
-Pericapritermes dumicola 栖丛近扭白蚁（Indonesia, Kenya, Tanzania）
+[*Pericapritermes dumicola* 栖丛近扭白蚁]({{ site.base_url }}/species/pericapritermes-dumicola/)（Indonesia, Kenya, Tanzania）
 
-Pericapritermes dunensis 德拉敦近扭白蚁（India, Bhutan）
+[*Pericapritermes dunensis* 德拉敦近扭白蚁]({{ site.base_url }}/species/pericapritermes-dunensis/)（India, Bhutan）
 
-Pericapritermes durga 杜尔加近扭白蚁（India, Bhutan）
+[*Pericapritermes durga* 杜尔加近扭白蚁]({{ site.base_url }}/species/pericapritermes-durga/)（India, Bhutan）
 
-Pericapritermes fuscotibialis 灰胫近扭白蚁（Hong Kong.）
+[*Pericapritermes fuscotibialis* 灰胫近扭白蚁]({{ site.base_url }}/species/pericapritermes-fuscotibialis/)（Hong Kong.）
 
-Pericapritermes gloveri 格洛弗近扭白蚁（Tanzania, Zambia）
+[*Pericapritermes gloveri* 格洛弗近扭白蚁]({{ site.base_url }}/species/pericapritermes-gloveri/)（Tanzania, Zambia）
 
-Pericapritermes gutianensis 古田近扭白蚁（China (Fujian)）
+[*Pericapritermes gutianensis* 古田近扭白蚁]({{ site.base_url }}/species/pericapritermes-gutianensis/)（China (Fujian)）
 
-Pericapritermes hepuensis 合浦近扭白蚁（China (Guangxi)）
+[*Pericapritermes hepuensis* 合浦近扭白蚁]({{ site.base_url }}/species/pericapritermes-hepuensis/)（China (Guangxi)）
 
-Pericapritermes heteronotus 异背近扭白蚁（Democratic Republic of the Congo, Guinea, Nigeria, Sierra Leone）
+[*Pericapritermes heteronotus* 异背近扭白蚁]({{ site.base_url }}/species/pericapritermes-heteronotus/)（Democratic Republic of the Congo, Guinea, Nigeria, Sierra Leone）
 
-Pericapritermes latignathus 多毛近扭白蚁（Indonesia, Cambodia, Vietnam, Bangladesh, China, Malaysia, Thailand）
+[*Pericapritermes latignathus* 多毛近扭白蚁]({{ site.base_url }}/species/pericapritermes-latignathus/)（Indonesia, Cambodia, Vietnam, Bangladesh, China, Malaysia, Thailand）
 
-Pericapritermes machadoi 马查多近扭白蚁（Angola）
+[*Pericapritermes machadoi* 马查多近扭白蚁]({{ site.base_url }}/species/pericapritermes-machadoi/)（Angola）
 
-Pericapritermes magnificus 非凡近扭白蚁（Gabon, Cameroon, Congo）
+[*Pericapritermes magnificus* 非凡近扭白蚁]({{ site.base_url }}/species/pericapritermes-magnificus/)（Gabon, Cameroon, Congo）
 
-Pericapritermes metatus 丈量近扭白蚁（Guinea）
+[*Pericapritermes metatus* 丈量近扭白蚁]({{ site.base_url }}/species/pericapritermes-metatus/)（Guinea）
 
-Pericapritermes minimus 最小近扭白蚁（Angola, Cameroon, Democratic Republic of the Congo）
+[*Pericapritermes minimus* 最小近扭白蚁]({{ site.base_url }}/species/pericapritermes-minimus/)（Angola, Cameroon, Democratic Republic of the Congo）
 
-Pericapritermes modiglianii 莫迪利亚尼近扭白蚁（Indonesia）
+[*Pericapritermes modiglianii* 莫迪利亚尼近扭白蚁]({{ site.base_url }}/species/pericapritermes-modiglianii/)（Indonesia）
 
-Pericapritermes mohri 莫尔近扭白蚁（Indonesia, Malaysia）
+[*Pericapritermes mohri* 莫尔近扭白蚁]({{ site.base_url }}/species/pericapritermes-mohri/)（Indonesia, Malaysia）
 
-Pericapritermes nigerianus 尼日利亚近扭白蚁（Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria）
+[*Pericapritermes nigerianus* 尼日利亚近扭白蚁]({{ site.base_url }}/species/pericapritermes-nigerianus/)（Côte d'Ivoire, Cameroon, Gambia, Ghana, Nigeria）
 
-Pericapritermes nitobei 新渡户近扭白蚁（South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam）
+[*Pericapritermes nitobei* 新渡户近扭白蚁]({{ site.base_url }}/species/pericapritermes-nitobei/)（South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam）
 
-Pericapritermes paetensis 帕埃特近扭白蚁（Philippines）
+[*Pericapritermes paetensis* 帕埃特近扭白蚁]({{ site.base_url }}/species/pericapritermes-paetensis/)（Philippines）
 
-Pericapritermes pallidipes 灰足近扭白蚁（Sierra Leone, Cameroon）
+[*Pericapritermes pallidipes* 灰足近扭白蚁]({{ site.base_url }}/species/pericapritermes-pallidipes/)（Sierra Leone, Cameroon）
 
-Pericapritermes papuanus 巴布亚近扭白蚁（Papua New Guinea）
+[*Pericapritermes papuanus* 巴布亚近扭白蚁]({{ site.base_url }}/species/pericapritermes-papuanus/)（Papua New Guinea）
 
-Pericapritermes parvus 小型近扭白蚁（Indonesia, Papua New Guinea）
+[*Pericapritermes parvus* 小型近扭白蚁]({{ site.base_url }}/species/pericapritermes-parvus/)（Indonesia, Papua New Guinea）
 
-Pericapritermes pilosus 毛多近扭白蚁（Papua New Guinea）
+[*Pericapritermes pilosus* 毛多近扭白蚁]({{ site.base_url }}/species/pericapritermes-pilosus/)（Papua New Guinea）
 
-Pericapritermes planiusculus 平扁近扭白蚁（Guizhou (Congjiang).）
+[*Pericapritermes planiusculus* 平扁近扭白蚁]({{ site.base_url }}/species/pericapritermes-planiusculus/)（Guizhou (Congjiang).）
 
-Pericapritermes schultzei 舒尔茨近扭白蚁（Indonesia, Australia, Papua New Guinea）
+[*Pericapritermes schultzei* 舒尔茨近扭白蚁]({{ site.base_url }}/species/pericapritermes-schultzei/)（Indonesia, Australia, Papua New Guinea）
 
-Pericapritermes semarangi 三宝近扭白蚁（India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand）
+[*Pericapritermes semarangi* 三宝近扭白蚁]({{ site.base_url }}/species/pericapritermes-semarangi/)（India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar, Thailand）
 
-Pericapritermes silvestrianus 西尔韦斯特里近扭白蚁（Côte d'Ivoire, Liberia）
+[*Pericapritermes silvestrianus* 西尔韦斯特里近扭白蚁]({{ site.base_url }}/species/pericapritermes-silvestrianus/)（Côte d'Ivoire, Liberia）
 
-Pericapritermes speciosus 美丽近扭白蚁（Indonesia, Malaysia）
+[*Pericapritermes speciosus* 美丽近扭白蚁]({{ site.base_url }}/species/pericapritermes-speciosus/)（Indonesia, Malaysia）
 
-Pericapritermes tetraphilus 大近扭白蚁（Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjinghong 500 m, Hekou 90 m, Pingbian, Jinping Mengla 370, 420, 450, 680 m, Mojiang 1400 m, Santaishan, Simao, Manyun); India; Bangladesh; Myanmar）
+[*Pericapritermes tetraphilus* 大近扭白蚁]({{ site.base_url }}/species/pericapritermes-tetraphilus/)（Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjinghong 500 m, Hekou 90 m, Pingbian, Jinping Mengla 370, 420, 450, 680 m, Mojiang 1400 m, Santaishan, Simao, Manyun); India; Bangladesh; Myanmar）
 
-Pericapritermes topslipensis 托普斯利普近扭白蚁（India）
+[*Pericapritermes topslipensis* 托普斯利普近扭白蚁]({{ site.base_url }}/species/pericapritermes-topslipensis/)（India）
 
-\*Pericapritermes urgens 催促近扭白蚁（Senegal, Gambia, Guinea, Ghana, Côte d'Ivoire, Burkina Faso, Nigeria, Cameroon）
+\*[*Pericapritermes urgens* 催促近扭白蚁]({{ site.base_url }}/species/pericapritermes-urgens/)（Senegal, Gambia, Guinea, Ghana, Côte d'Ivoire, Burkina Faso, Nigeria, Cameroon）
 
-confinis 近邻亚种
+[*confinis* 近邻亚种]({{ site.base_url }}/species/pericapritermes-urgens-confinis/)
 
-urgens 指名亚种
+[*urgens* 指名亚种]({{ site.base_url }}/species/pericapritermes-urgens-urgens/)
 
-Pericapritermes vermai 维尔马近扭白蚁（India）
+[*Pericapritermes vermai* 维尔马近扭白蚁]({{ site.base_url }}/species/pericapritermes-vermai/)（India）
 
-Pericapritermes wuzhishanensis 五指山近扭白蚁（China (Hainan)）
+[*Pericapritermes wuzhishanensis* 五指山近扭白蚁]({{ site.base_url }}/species/pericapritermes-wuzhishanensis/)（China (Hainan)）
 
 <h5 id="procapritermes">Procapritermes</h5>
 
-Procapritermes atypus 地蛛前扭白蚁（Indonesia, Malaysia）
+[*Procapritermes atypus* 地蛛前扭白蚁]({{ site.base_url }}/species/procapritermes-atypus/)（Indonesia, Malaysia）
 
-Procapritermes dakshinae 戴克夏娜前扭白蚁（India, Kerala）
+[*Procapritermes dakshinae* 戴克夏娜前扭白蚁]({{ site.base_url }}/species/procapritermes-dakshinae/)（India, Kerala）
 
-Procapritermes holmgreni 霍姆格伦前扭白蚁（Bangladesh, India）
+[*Procapritermes holmgreni* 霍姆格伦前扭白蚁]({{ site.base_url }}/species/procapritermes-holmgreni/)（Bangladesh, India）
 
-Procapritermes huananensis 华南前扭白蚁（Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China）
+[*Procapritermes huananensis* 华南前扭白蚁]({{ site.base_url }}/species/procapritermes-huananensis/)（Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China）
 
-Procapritermes keralai 喀拉拉前扭白蚁（India）
+[*Procapritermes keralai* 喀拉拉前扭白蚁]({{ site.base_url }}/species/procapritermes-keralai/)（India）
 
-Procapritermes longignathus 长颚前扭白蚁（Thailand）
+[*Procapritermes longignathus* 长颚前扭白蚁]({{ site.base_url }}/species/procapritermes-longignathus/)（Thailand）
 
-Procapritermes martyni 马丁前扭白蚁（Malaysia）
+[*Procapritermes martyni* 马丁前扭白蚁]({{ site.base_url }}/species/procapritermes-martyni/)（Malaysia）
 
-Procapritermes minutus 小前扭白蚁（Yunnan (Jinping Mengla 580 m), Indonesia, Malaysia）
+[*Procapritermes minutus* 小前扭白蚁]({{ site.base_url }}/species/procapritermes-minutus/)（Yunnan (Jinping Mengla 580 m), Indonesia, Malaysia）
 
-Procapritermes neosetiger 新具毛前扭白蚁（Indonesia, Malaysia）
+[*Procapritermes neosetiger* 新具毛前扭白蚁]({{ site.base_url }}/species/procapritermes-neosetiger/)（Indonesia, Malaysia）
 
-Procapritermes prosetiger 似具毛前扭白蚁（Indonesia, Malaysia, Thailand）
+[*Procapritermes prosetiger* 似具毛前扭白蚁]({{ site.base_url }}/species/procapritermes-prosetiger/)（Indonesia, Malaysia, Thailand）
 
-Procapritermes sandakanensis 山打根前扭白蚁（Malaysia）
+[*Procapritermes sandakanensis* 山打根前扭白蚁]({{ site.base_url }}/species/procapritermes-sandakanensis/)（Malaysia）
 
-\*Procapritermes setiger 具毛前扭白蚁（Malaysia, Indonesia）
+\*[*Procapritermes setiger* 具毛前扭白蚁]({{ site.base_url }}/species/procapritermes-setiger/)（Malaysia, Indonesia）
 
-Procapritermes zhangfengensis 章凤前扭白蚁（Yunnan (Longchuan890 m), China）
+[*Procapritermes zhangfengensis* 章凤前扭白蚁]({{ site.base_url }}/species/procapritermes-zhangfengensis/)（Yunnan (Longchuan890 m), China）
 
 <h5 id="pseudocapritermes">Pseudocapritermes</h5>
 
-Pseudocapritermes angustignathus 细颚伪扭白蚁（Malaysia）
+[*Pseudocapritermes angustignathus* 细颚伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-angustignathus/)（Malaysia）
 
-Pseudocapritermes bhutanensis 不丹伪扭白蚁（Bhutan）
+[*Pseudocapritermes bhutanensis* 不丹伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-bhutanensis/)（Bhutan）
 
-Pseudocapritermes fletcheri 弗莱彻伪扭白蚁（India）
+[*Pseudocapritermes fletcheri* 弗莱彻伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-fletcheri/)（India）
 
-Pseudocapritermes jiangchengensis 江城伪扭白蚁（China (Yunnan)）
+[*Pseudocapritermes jiangchengensis* 江城伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-jiangchengensis/)（China (Yunnan)）
 
-Pseudocapritermes karticki 卡蒂克伪扭白蚁（India）
+[*Pseudocapritermes karticki* 卡蒂克伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-karticki/)（India）
 
-Pseudocapritermes kemneri 凯姆勒伪扭白蚁（Malaysia）
+[*Pseudocapritermes kemneri* 凯姆勒伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-kemneri/)（Malaysia）
 
-Pseudocapritermes kunjepu 昆杰普伪扭白蚁（India, Indonesia）
+[*Pseudocapritermes kunjepu* 昆杰普伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-kunjepu/)（India, Indonesia）
 
-Pseudocapritermes megacephalus 大头伪扭白蚁（Pakistan, Malaysia）
+[*Pseudocapritermes megacephalus* 大头伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-megacephalus/)（Pakistan, Malaysia）
 
-Pseudocapritermes minutus 小伪扭白蚁（Yunnan (Jinping Mengla580 m), China）
+[*Pseudocapritermes minutus* 小伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-minutus/)（Yunnan (Jinping Mengla580 m), China）
 
-Pseudocapritermes orientalis 东方伪扭白蚁（Pakistan, India, Indonesia, Malaysia）
+[*Pseudocapritermes orientalis* 东方伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-orientalis/)（Pakistan, India, Indonesia, Malaysia）
 
-Pseudocapritermes parasilvaticus 似森林伪扭白蚁（Indonesia, Thailand）
+[*Pseudocapritermes parasilvaticus* 似森林伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-parasilvaticus/)（Indonesia, Thailand）
 
-Pseudocapritermes planimentus 平颏伪扭白蚁（Yunnan (Jianshui1450 m), China）
+[*Pseudocapritermes planimentus* 平颏伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-planimentus/)（Yunnan (Jianshui1450 m), China）
 
-Pseudocapritermes prosilvaticus 近森林伪扭白蚁（Malaysia）
+[*Pseudocapritermes prosilvaticus* 近森林伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-prosilvaticus/)（Malaysia）
 
-Pseudocapritermes pseudolaetus 隆额伪扭白蚁（Yunnan (Jinping Mengla390 m), China）
+[*Pseudocapritermes pseudolaetus* 隆额伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-pseudolaetus/)（Yunnan (Jinping Mengla390 m), China）
 
-\*Pseudocapritermes silvaticus 森林伪扭白蚁（Indonesia, Malaysia）
+\*[*Pseudocapritermes silvaticus* 森林伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-silvaticus/)（Indonesia, Malaysia）
 
-Pseudocapritermes sinensis 中华伪扭白蚁（China）
+[*Pseudocapritermes sinensis* 中华伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-sinensis/)（China）
 
-Pseudocapritermes sowerbyi 圆囟伪扭白蚁（China）
+[*Pseudocapritermes sowerbyi* 圆囟伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-sowerbyi/)（China）
 
-Pseudocapritermes tikadari 铁卡达伪扭白蚁（India, Bhutan）
+[*Pseudocapritermes tikadari* 铁卡达伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-tikadari/)（India, Bhutan）
 
 <h5 id="rinacapritermes">Rinacapritermes</h5>
 
-Rinacapritermes abundans 丰富丽娜扭白蚁（India）
+[*Rinacapritermes abundans* 丰富丽娜扭白蚁]({{ site.base_url }}/species/rinacapritermes-abundans/)（India）
 
-\*Rinacapritermes silvius 林栖丽娜扭白蚁（India）
+\*[*Rinacapritermes silvius* 林栖丽娜扭白蚁]({{ site.base_url }}/species/rinacapritermes-silvius/)（India）
 
 <h5 id="sinocapritermes">Sinocapritermes</h5>
 
-Sinocapritermes albipennis 白翅华扭白蚁（China, Yunnan）
+[*Sinocapritermes albipennis* 白翅华扭白蚁]({{ site.base_url }}/species/sinocapritermes-albipennis/)（China, Yunnan）
 
-Sinocapritermes fujianensis 闽华扭白蚁（China）
+[*Sinocapritermes fujianensis* 闽华扭白蚁]({{ site.base_url }}/species/sinocapritermes-fujianensis/)（China）
 
-Sinocapritermes guangxiensis 桂华扭白蚁（China）
+[*Sinocapritermes guangxiensis* 桂华扭白蚁]({{ site.base_url }}/species/sinocapritermes-guangxiensis/)（China）
 
-Sinocapritermes magnus 大华扭白蚁（China, Guizhou, Guangxi, Jiangxi, Chongqing）
+[*Sinocapritermes magnus* 大华扭白蚁]({{ site.base_url }}/species/sinocapritermes-magnus/)（China, Guizhou, Guangxi, Jiangxi, Chongqing）
 
-Sinocapritermes mushae 台湾华扭白蚁（Hong Kong, China, Taiwan, China, Japan）
+[*Sinocapritermes mushae* 台湾华扭白蚁]({{ site.base_url }}/species/sinocapritermes-mushae/)（Hong Kong, China, Taiwan, China, Japan）
 
-Sinocapritermes parvulus 小华扭白蚁（China, Hainan）
+[*Sinocapritermes parvulus* 小华扭白蚁]({{ site.base_url }}/species/sinocapritermes-parvulus/)（China, Hainan）
 
-Sinocapritermes planifrons 平额华扭白蚁（China, Yunnan）
+[*Sinocapritermes planifrons* 平额华扭白蚁]({{ site.base_url }}/species/sinocapritermes-planifrons/)（China, Yunnan）
 
-Sinocapritermes pratensis 草地华扭白蚁（China）
+[*Sinocapritermes pratensis* 草地华扭白蚁]({{ site.base_url }}/species/sinocapritermes-pratensis/)（China）
 
-\*Sinocapritermes sinensis 中华华扭白蚁（China, Yunnan）
+\*[*Sinocapritermes sinensis* 中华华扭白蚁]({{ site.base_url }}/species/sinocapritermes-sinensis/)（China, Yunnan）
 
-Sinocapritermes sinicus 中国华扭白蚁（China）
+[*Sinocapritermes sinicus* 中国华扭白蚁]({{ site.base_url }}/species/sinocapritermes-sinicus/)（China）
 
-Sinocapritermes songtaoensis 松桃华扭白蚁（China, Guizhou）
+[*Sinocapritermes songtaoensis* 松桃华扭白蚁]({{ site.base_url }}/species/sinocapritermes-songtaoensis/)（China, Guizhou）
 
-Sinocapritermes tianmuensis 天目华扭白蚁（China, Zhejiang）
+[*Sinocapritermes tianmuensis* 天目华扭白蚁]({{ site.base_url }}/species/sinocapritermes-tianmuensis/)（China, Zhejiang）
 
-Sinocapritermes vicinus 川华扭白蚁（China, Sichuan, Chongqing）
+[*Sinocapritermes vicinus* 川华扭白蚁]({{ site.base_url }}/species/sinocapritermes-vicinus/)（China, Sichuan, Chongqing）
 
-Sinocapritermes xiai 夏氏华扭白蚁（China）
+[*Sinocapritermes xiai* 夏氏华扭白蚁]({{ site.base_url }}/species/sinocapritermes-xiai/)（China）
 
-Sinocapritermes xiushanensis 秀山华扭白蚁（China, Chongqing）
+[*Sinocapritermes xiushanensis* 秀山华扭白蚁]({{ site.base_url }}/species/sinocapritermes-xiushanensis/)（China, Chongqing）
 
-Sinocapritermes yunnanensis 滇华扭白蚁（China, Yunnan）
+[*Sinocapritermes yunnanensis* 滇华扭白蚁]({{ site.base_url }}/species/sinocapritermes-yunnanensis/)（China, Yunnan）
 
 <h5 id="syncapritermes">Syncapritermes</h5>
 
-\*Syncapritermes greeni 格林聚扭白蚁（Indonesia, Malaysia）
+\*[*Syncapritermes greeni* 格林聚扭白蚁]({{ site.base_url }}/species/syncapritermes-greeni/)（Indonesia, Malaysia）
 
 <h4 id="nasutitermitinae">Nasutitermitinae</h4>
 
@@ -5314,1401 +5314,1401 @@ the bearded termite Hospitalitermes sp.
 
 <h5 id="aciculitermes">Aciculitermes</h5>
 
-\*Aciculitermes aciculatus 针状针白蚁（Thailand, Indonesia, Malaysia, Singapore）
+\*[*Aciculitermes aciculatus* 针状针白蚁]({{ site.base_url }}/species/aciculitermes-aciculatus/)（Thailand, Indonesia, Malaysia, Singapore）
 
-Aciculitermes maymyoensis 眉妙针白蚁（China, Myanmar, Thailand）
+[*Aciculitermes maymyoensis* 眉妙针白蚁]({{ site.base_url }}/species/aciculitermes-maymyoensis/)（China, Myanmar, Thailand）
 
 <h5 id="afrosubulitermes">Afrosubulitermes</h5>
 
-\*Afrosubulitermes congoensis 刚果非锥白蚁（Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda）
+\*[*Afrosubulitermes congoensis* 刚果非锥白蚁]({{ site.base_url }}/species/afrosubulitermes-congoensis/)（Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda）
 
 <h5 id="agnathotermes">Agnathotermes</h5>
 
-Agnathotermes crassinasus 粗鼻无颚白蚁（Brazil, Colombia, Ecuador）
+[*Agnathotermes crassinasus* 粗鼻无颚白蚁]({{ site.base_url }}/species/agnathotermes-crassinasus/)（Brazil, Colombia, Ecuador）
 
-\*Agnathotermes glaber 光秃无颚白蚁（Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago）
+\*[*Agnathotermes glaber* 光秃无颚白蚁]({{ site.base_url }}/species/agnathotermes-glaber/)（Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago）
 
 <h5 id="ahmaditermes">Ahmaditermes</h5>
 
-Ahmaditermes choui 周氏钝颚白蚁（Hong Kong）
+[*Ahmaditermes choui* 周氏钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-choui/)（Hong Kong）
 
-Ahmaditermes crassinasus 粗鼻钝颚白蚁（Hainan (Xinglong)）
+[*Ahmaditermes crassinasus* 粗鼻钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-crassinasus/)（Hainan (Xinglong)）
 
-Ahmaditermes deltocephalus 角头钝颚白蚁（Fujian (Hexi), Hainan, Yunnan (Jinping Mengla 480-680 m, Nanxi, Pingbian, Simao, Menghai, Santaishan), Thailand）
+[*Ahmaditermes deltocephalus* 角头钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-deltocephalus/)（Fujian (Hexi), Hainan, Yunnan (Jinping Mengla 480-680 m, Nanxi, Pingbian, Simao, Menghai, Santaishan), Thailand）
 
-Ahmaditermes dinghuensis 鼎湖钝颚白蚁（China, Vietnam）
+[*Ahmaditermes dinghuensis* 鼎湖钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-dinghuensis/)（China, Vietnam）
 
-Ahmaditermes dukouensis 渡口钝颚白蚁（China (Sichuan)）
+[*Ahmaditermes dukouensis* 渡口钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-dukouensis/)（China (Sichuan)）
 
-Ahmaditermes emersoni 埃默森钝颚白蚁（Bhutan, India）
+[*Ahmaditermes emersoni* 埃默森钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-emersoni/)（Bhutan, India）
 
-Ahmaditermes foveafrons 凹额钝颚白蚁（Zhejiang (Tianmu Mountain)）
+[*Ahmaditermes foveafrons* 凹额钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-foveafrons/)（Zhejiang (Tianmu Mountain)）
 
-Ahmaditermes guizhouensis 贵州钝颚白蚁（China (Guizhou)）
+[*Ahmaditermes guizhouensis* 贵州钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-guizhouensis/)（China (Guizhou)）
 
-Ahmaditermes laticephalus 宽头钝颚白蚁（China, Vietnam, Thailand）
+[*Ahmaditermes laticephalus* 宽头钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-laticephalus/)（China, Vietnam, Thailand）
 
-Ahmaditermes lipingensis 黎平钝颚白蚁（Guizhou (Liping)）
+[*Ahmaditermes lipingensis* 黎平钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-lipingensis/)（Guizhou (Liping)）
 
-Ahmaditermes parafulvus 黄色钝颚白蚁（China, Vietnam）
+[*Ahmaditermes parafulvus* 黄色钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-parafulvus/)（China, Vietnam）
 
-Ahmaditermes perisinuosus 近丘额钝颚白蚁（Guangxi (Hexian Huashuichong)）
+[*Ahmaditermes perisinuosus* 近丘额钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-perisinuosus/)（Guangxi (Hexian Huashuichong)）
 
-Ahmaditermes pingnanensis 屏南钝颚白蚁（Zhejiang (Longquan), Fujian (Pingnan850m)）
+[*Ahmaditermes pingnanensis* 屏南钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-pingnanensis/)（Zhejiang (Longquan), Fujian (Pingnan850m)）
 
-\*Ahmaditermes pyricephalus 梨头钝颚白蚁（Hunan (Yizhang), Bangladesh, India）
+\*[*Ahmaditermes pyricephalus* 梨头钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-pyricephalus/)（Hunan (Yizhang), Bangladesh, India）
 
-Ahmaditermes sichuanensis 四川钝颚白蚁（China (Sichuan)）
+[*Ahmaditermes sichuanensis* 四川钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-sichuanensis/)（China (Sichuan)）
 
-Ahmaditermes sikkimensis 锡金钝颚白蚁（India）
+[*Ahmaditermes sikkimensis* 锡金钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-sikkimensis/)（India）
 
-Ahmaditermes sinensis 中国钝颚白蚁（China）
+[*Ahmaditermes sinensis* 中国钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-sinensis/)（China）
 
-Ahmaditermes sinuosus 丘额钝颚白蚁（China）
+[*Ahmaditermes sinuosus* 丘额钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-sinuosus/)（China）
 
-Ahmaditermes tianmuensis 天目钝颚白蚁（China (Zhejiang)）
+[*Ahmaditermes tianmuensis* 天目钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-tianmuensis/)（China (Zhejiang)）
 
-Ahmaditermes tiantongensis 天童钝颚白蚁（China (Zhejiang)）
+[*Ahmaditermes tiantongensis* 天童钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-tiantongensis/)（China (Zhejiang)）
 
-Ahmaditermes xiangyunensis 祥云钝颚白蚁（China (Yunnan)）
+[*Ahmaditermes xiangyunensis* 祥云钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-xiangyunensis/)（China (Yunnan)）
 
 <h5 id="ampoulitermes">Ampoulitermes</h5>
 
-\*Ampoulitermes wynaadensis 维纳德安瓿白蚁（India）
+\*[*Ampoulitermes wynaadensis* 维纳德安瓿白蚁]({{ site.base_url }}/species/ampoulitermes-wynaadensis/)（India）
 
-Ampoulitermes zacharia 扎卡里亚安瓿白蚁（India）
+[*Ampoulitermes zacharia* 扎卡里亚安瓿白蚁]({{ site.base_url }}/species/ampoulitermes-zacharia/)（India）
 
 <h5 id="angularitermes">Angularitermes</h5>
 
-Angularitermes clypeatus 大唇棱角白蚁（Brazil, French Guiana, Ecuador）
+[*Angularitermes clypeatus* 大唇棱角白蚁]({{ site.base_url }}/species/angularitermes-clypeatus/)（Brazil, French Guiana, Ecuador）
 
-Angularitermes coninasus 锥鼻棱角白蚁（Brazil）
+[*Angularitermes coninasus* 锥鼻棱角白蚁]({{ site.base_url }}/species/angularitermes-coninasus/)（Brazil）
 
-\*Angularitermes nasutissimus 巨鼻棱角白蚁（Brazil, French Guiana, Colombia, Guyana, Trinidad and Tobago）
+\*[*Angularitermes nasutissimus* 巨鼻棱角白蚁]({{ site.base_url }}/species/angularitermes-nasutissimus/)（Brazil, French Guiana, Colombia, Guyana, Trinidad and Tobago）
 
-Angularitermes orestes 俄瑞斯忒斯棱角白蚁（Brazil）
+[*Angularitermes orestes* 俄瑞斯忒斯棱角白蚁]({{ site.base_url }}/species/angularitermes-orestes/)（Brazil）
 
-Angularitermes pinocchio 松果棱角白蚁（Brazil, Peru）
+[*Angularitermes pinocchio* 松果棱角白蚁]({{ site.base_url }}/species/angularitermes-pinocchio/)（Brazil, Peru）
 
-Angularitermes tiguassu 毛鼻棱角白蚁（Brazil）
+[*Angularitermes tiguassu* 毛鼻棱角白蚁]({{ site.base_url }}/species/angularitermes-tiguassu/)（Brazil）
 
 <h5 id="anhangatermes">Anhangatermes</h5>
 
-Anhangatermes anhanguera 魔鬼魔白蚁（Brazil）
+[*Anhangatermes anhanguera* 魔鬼魔白蚁]({{ site.base_url }}/species/anhangatermes-anhanguera/)（Brazil）
 
-Anhangatermes eurycephalus 宽头魔白蚁（Brazil, Colombia, French Guiana）
+[*Anhangatermes eurycephalus* 宽头魔白蚁]({{ site.base_url }}/species/anhangatermes-eurycephalus/)（Brazil, Colombia, French Guiana）
 
-Anhangatermes juruena 茹鲁埃纳魔白蚁（Brazil）
+[*Anhangatermes juruena* 茹鲁埃纳魔白蚁]({{ site.base_url }}/species/anhangatermes-juruena/)（Brazil）
 
-\*Anhangatermes macarthuri 麦克阿瑟魔白蚁（Brazil, French Guiana）
+\*[*Anhangatermes macarthuri* 麦克阿瑟魔白蚁]({{ site.base_url }}/species/anhangatermes-macarthuri/)（Brazil, French Guiana）
 
-Anhangatermes pilosus 多毛魔白蚁（Brazil）
+[*Anhangatermes pilosus* 多毛魔白蚁]({{ site.base_url }}/species/anhangatermes-pilosus/)（Brazil）
 
 <h5 id="antillitermes">Antillitermes</h5>
 
-\*Antillitermes subtilis 细瘦安的列斯白蚁（Cuba, Dominican Republic）
+\*[*Antillitermes subtilis* 细瘦安的列斯白蚁]({{ site.base_url }}/species/antillitermes-subtilis/)（Cuba, Dominican Republic）
 
 <h5 id="araujotermes">Araujotermes</h5>
 
-\*Araujotermes caissara 凯萨拉阿劳若白蚁（Brazil, Argentina）
+\*[*Araujotermes caissara* 凯萨拉阿劳若白蚁]({{ site.base_url }}/species/araujotermes-caissara/)（Brazil, Argentina）
 
-Araujotermes nanus 侏儒阿劳若白蚁（Brazil, Colombia）
+[*Araujotermes nanus* 侏儒阿劳若白蚁]({{ site.base_url }}/species/araujotermes-nanus/)（Brazil, Colombia）
 
-Araujotermes parvellus 长毛阿劳若白蚁（Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela）
+[*Araujotermes parvellus* 长毛阿劳若白蚁]({{ site.base_url }}/species/araujotermes-parvellus/)（Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela）
 
-Araujotermes zeteki 策特克阿劳若白蚁（Colombia, Brazil, Panama, Venezuela）
+[*Araujotermes zeteki* 策特克阿劳若白蚁]({{ site.base_url }}/species/araujotermes-zeteki/)（Colombia, Brazil, Panama, Venezuela）
 
 <h5 id="arcotermes">Arcotermes</h5>
 
-\*Arcotermes tubus 管鼻弧白蚁（China (Jiangxi)）
+\*[*Arcotermes tubus* 管鼻弧白蚁]({{ site.base_url }}/species/arcotermes-tubus/)（China (Jiangxi)）
 
 <h5 id="atlantitermes">Atlantitermes</h5>
 
-\*Atlantitermes guarinim 好斗阿特拉斯白蚁（Brazil）
+\*[*Atlantitermes guarinim* 好斗阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-guarinim/)（Brazil）
 
-Atlantitermes ibitiriguara 具锯阿特拉斯白蚁（Brazil）
+[*Atlantitermes ibitiriguara* 具锯阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-ibitiriguara/)（Brazil）
 
-Atlantitermes kirbyi 柯比阿特拉斯白蚁（Nicaragua, Panama）
+[*Atlantitermes kirbyi* 柯比阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-kirbyi/)（Nicaragua, Panama）
 
-Atlantitermes oculatissimus 巨眼阿特拉斯白蚁（Brazil, Colombia, French Guiana, Peru, Ecuador, Guyana）
+[*Atlantitermes oculatissimus* 巨眼阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-oculatissimus/)（Brazil, Colombia, French Guiana, Peru, Ecuador, Guyana）
 
-Atlantitermes osborni 奥斯本阿特拉斯白蚁（Colombia, Brazil, French Guiana, Bolivia, Ecuador, Guyana, Venezuela）
+[*Atlantitermes osborni* 奥斯本阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-osborni/)（Colombia, Brazil, French Guiana, Bolivia, Ecuador, Guyana, Venezuela）
 
-Atlantitermes raripilus 少毛阿特拉斯白蚁（Brazil, Guyana, Peru）
+[*Atlantitermes raripilus* 少毛阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-raripilus/)（Brazil, Guyana, Peru）
 
-Atlantitermes snyderi 斯奈德阿特拉斯白蚁（Brazil, French Guiana, Trinidad, Guyana, Peru, Venezuela）
+[*Atlantitermes snyderi* 斯奈德阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-snyderi/)（Brazil, French Guiana, Trinidad, Guyana, Peru, Venezuela）
 
-Atlantitermes stercophilus 喜粪阿特拉斯白蚁（Brazil, Peru）
+[*Atlantitermes stercophilus* 喜粪阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-stercophilus/)（Brazil, Peru）
 
 <h5 id="australitermes">Australitermes</h5>
 
-\*Australitermes dilucidus 清晰澳大利亚白蚁（Australia）
+\*[*Australitermes dilucidus* 清晰澳大利亚白蚁]({{ site.base_url }}/species/australitermes-dilucidus/)（Australia）
 
-Australitermes insignitus 易辨澳大利亚白蚁（Australia）
+[*Australitermes insignitus* 易辨澳大利亚白蚁]({{ site.base_url }}/species/australitermes-insignitus/)（Australia）
 
-Australitermes perlevis 极轻澳大利亚白蚁（Australia）
+[*Australitermes perlevis* 极轻澳大利亚白蚁]({{ site.base_url }}/species/australitermes-perlevis/)（Australia）
 
 <h5 id="baucaliotermes">Baucaliotermes</h5>
 
-\*Baucaliotermes hainesi 海恩斯细颈白蚁（South Africa, Namibia）
+\*[*Baucaliotermes hainesi* 海恩斯细颈白蚁]({{ site.base_url }}/species/baucaliotermes-hainesi/)（South Africa, Namibia）
 
 <h5 id="bulbitermes">Bulbitermes</h5>
 
-Bulbitermes borneensis 婆罗瓢白蚁（Indonesia, Malaysia）
+[*Bulbitermes borneensis* 婆罗瓢白蚁]({{ site.base_url }}/species/bulbitermes-borneensis/)（Indonesia, Malaysia）
 
-Bulbitermes brevicornis 短角瓢白蚁（Philippines）
+[*Bulbitermes brevicornis* 短角瓢白蚁]({{ site.base_url }}/species/bulbitermes-brevicornis/)（Philippines）
 
-Bulbitermes bulbiceps 瓢头瓢白蚁（South Asia, India, Assam）
+[*Bulbitermes bulbiceps* 瓢头瓢白蚁]({{ site.base_url }}/species/bulbitermes-bulbiceps/)（South Asia, India, Assam）
 
-Bulbitermes busuangae 布桑加瓢白蚁（Philippines）
+[*Bulbitermes busuangae* 布桑加瓢白蚁]({{ site.base_url }}/species/bulbitermes-busuangae/)（Philippines）
 
-Bulbitermes constricticeps 缩头瓢白蚁（Philippines）
+[*Bulbitermes constricticeps* 缩头瓢白蚁]({{ site.base_url }}/species/bulbitermes-constricticeps/)（Philippines）
 
-Bulbitermes constrictiformis 类紧缩瓢白蚁（Southeast Asia, Indonesia, Sumatra, Malaysia）
+[*Bulbitermes constrictiformis* 类紧缩瓢白蚁]({{ site.base_url }}/species/bulbitermes-constrictiformis/)（Southeast Asia, Indonesia, Sumatra, Malaysia）
 
-Bulbitermes constrictoides 似紧缩瓢白蚁（Indonesia, Malaysia）
+[*Bulbitermes constrictoides* 似紧缩瓢白蚁]({{ site.base_url }}/species/bulbitermes-constrictoides/)（Indonesia, Malaysia）
 
-\*Bulbitermes constrictus 紧缩瓢白蚁（Southeast Asia, Malaysia, Indonesia）
+\*[*Bulbitermes constrictus* 紧缩瓢白蚁]({{ site.base_url }}/species/bulbitermes-constrictus/)（Southeast Asia, Malaysia, Indonesia）
 
-Bulbitermes debadiliporum 德巴迪利普瓢白蚁（Southeast Asia, Indonesia, Malaysia, Singapore, Philippines, Vietnam）
+[*Bulbitermes debadiliporum* 德巴迪利普瓢白蚁]({{ site.base_url }}/species/bulbitermes-debadiliporum/)（Southeast Asia, Indonesia, Malaysia, Singapore, Philippines, Vietnam）
 
-Bulbitermes durianensis 榴莲岛瓢白蚁（Indonesia）
+[*Bulbitermes durianensis* 榴莲岛瓢白蚁]({{ site.base_url }}/species/bulbitermes-durianensis/)（Indonesia）
 
-Bulbitermes flavicans 黄色瓢白蚁（Southeast Asia, Indonesia, Malaysia）
+[*Bulbitermes flavicans* 黄色瓢白蚁]({{ site.base_url }}/species/bulbitermes-flavicans/)（Southeast Asia, Indonesia, Malaysia）
 
-Bulbitermes fulvus 栗色瓢白蚁（China）
+[*Bulbitermes fulvus* 栗色瓢白蚁]({{ site.base_url }}/species/bulbitermes-fulvus/)（China）
 
-Bulbitermes gedeensis 格德瓢白蚁（Indonesia）
+[*Bulbitermes gedeensis* 格德瓢白蚁]({{ site.base_url }}/species/bulbitermes-gedeensis/)（Indonesia）
 
-Bulbitermes germanus 常见瓢白蚁（Indonesia, Malaysia, Singapore, Thailand）
+[*Bulbitermes germanus* 常见瓢白蚁]({{ site.base_url }}/species/bulbitermes-germanus/)（Indonesia, Malaysia, Singapore, Thailand）
 
-Bulbitermes johorensis 柔佛瓢白蚁（Malaysia）
+[*Bulbitermes johorensis* 柔佛瓢白蚁]({{ site.base_url }}/species/bulbitermes-johorensis/)（Malaysia）
 
-Bulbitermes kraepelini 克雷珀林瓢白蚁（Indonesia, Singapore）
+[*Bulbitermes kraepelini* 克雷珀林瓢白蚁]({{ site.base_url }}/species/bulbitermes-kraepelini/)（Indonesia, Singapore）
 
-Bulbitermes lakshmani 拉克什曼瓢白蚁（Indonesia）
+[*Bulbitermes lakshmani* 拉克什曼瓢白蚁]({{ site.base_url }}/species/bulbitermes-lakshmani/)（Indonesia）
 
-Bulbitermes mariveles 马里维勒瓢白蚁（Philippines）
+[*Bulbitermes mariveles* 马里维勒瓢白蚁]({{ site.base_url }}/species/bulbitermes-mariveles/)（Philippines）
 
-Bulbitermes mcgregori 麦格雷戈瓢白蚁（Philippines）
+[*Bulbitermes mcgregori* 麦格雷戈瓢白蚁]({{ site.base_url }}/species/bulbitermes-mcgregori/)（Philippines）
 
-Bulbitermes nasutus 大鼻瓢白蚁（Indonesia）
+[*Bulbitermes nasutus* 大鼻瓢白蚁]({{ site.base_url }}/species/bulbitermes-nasutus/)（Indonesia）
 
-Bulbitermes parapusillus 似极小瓢白蚁（Bangladesh, India, Malaysia, Thailand）
+[*Bulbitermes parapusillus* 似极小瓢白蚁]({{ site.base_url }}/species/bulbitermes-parapusillus/)（Bangladesh, India, Malaysia, Thailand）
 
-Bulbitermes perpusillus 近极小瓢白蚁（Malaysia, Singapore）
+[*Bulbitermes perpusillus* 近极小瓢白蚁]({{ site.base_url }}/species/bulbitermes-perpusillus/)（Malaysia, Singapore）
 
-Bulbitermes prabhae 普拉巴瓢白蚁（Vietnam, Myanmar, Thailand）
+[*Bulbitermes prabhae* 普拉巴瓢白蚁]({{ site.base_url }}/species/bulbitermes-prabhae/)（Vietnam, Myanmar, Thailand）
 
-Bulbitermes pronasutus 似大鼻瓢白蚁（Malaysia）
+[*Bulbitermes pronasutus* 似大鼻瓢白蚁]({{ site.base_url }}/species/bulbitermes-pronasutus/)（Malaysia）
 
-Bulbitermes prorosae 似罗莎瓢白蚁（Indonesia）
+[*Bulbitermes prorosae* 似罗莎瓢白蚁]({{ site.base_url }}/species/bulbitermes-prorosae/)（Indonesia）
 
-Bulbitermes pusillus 极小瓢白蚁（Indonesia, Malaysia）
+[*Bulbitermes pusillus* 极小瓢白蚁]({{ site.base_url }}/species/bulbitermes-pusillus/)（Indonesia, Malaysia）
 
-Bulbitermes pyriformis 梨形瓢白蚁（Bangladesh）
+[*Bulbitermes pyriformis* 梨形瓢白蚁]({{ site.base_url }}/species/bulbitermes-pyriformis/)（Bangladesh）
 
-Bulbitermes rosae 罗莎瓢白蚁（Indonesia）
+[*Bulbitermes rosae* 罗莎瓢白蚁]({{ site.base_url }}/species/bulbitermes-rosae/)（Indonesia）
 
-Bulbitermes salakensis 萨拉山瓢白蚁（Indonesia）
+[*Bulbitermes salakensis* 萨拉山瓢白蚁]({{ site.base_url }}/species/bulbitermes-salakensis/)（Indonesia）
 
-Bulbitermes sarawakensis 砂拉越瓢白蚁（Indonesia, Malaysia）
+[*Bulbitermes sarawakensis* 砂拉越瓢白蚁]({{ site.base_url }}/species/bulbitermes-sarawakensis/)（Indonesia, Malaysia）
 
-Bulbitermes singaporiensis 新加坡瓢白蚁（Southeast Asia, Malaysia, Indonesia）
+[*Bulbitermes singaporiensis* 新加坡瓢白蚁]({{ site.base_url }}/species/bulbitermes-singaporiensis/)（Southeast Asia, Malaysia, Indonesia）
 
-Bulbitermes subulatus 似锥瓢白蚁（Southeast Asia, Indonesia, Malaysia）
+[*Bulbitermes subulatus* 似锥瓢白蚁]({{ site.base_url }}/species/bulbitermes-subulatus/)（Southeast Asia, Indonesia, Malaysia）
 
-Bulbitermes umasumasensis 乌马斯乌马斯瓢白蚁（Singapore, Malaysia）
+[*Bulbitermes umasumasensis* 乌马斯乌马斯瓢白蚁]({{ site.base_url }}/species/bulbitermes-umasumasensis/)（Singapore, Malaysia）
 
-Bulbitermes vicinus 相似瓢白蚁（Indonesia）
+[*Bulbitermes vicinus* 相似瓢白蚁]({{ site.base_url }}/species/bulbitermes-vicinus/)（Indonesia）
 
 <h5 id="caetetermes">Caetetermes</h5>
 
-Caetetermes fontesi 丰特斯林白蚁（South America, French Guiana）
+[*Caetetermes fontesi* 丰特斯林白蚁]({{ site.base_url }}/species/caetetermes-fontesi/)（South America, French Guiana）
 
-\*Caetetermes taquarussu 塔夸拉林白蚁（South America, Brazil, Colombia, French Guiana, Ecuador, Guyana）
+\*[*Caetetermes taquarussu* 塔夸拉林白蚁]({{ site.base_url }}/species/caetetermes-taquarussu/)（South America, Brazil, Colombia, French Guiana, Ecuador, Guyana）
 
 <h5 id="caribitermes">Caribitermes</h5>
 
-\*Caribitermes discolor 异色加勒比白蚁（Dominican Republic, Puerto Rico, Cuba, Haiti, Jamaica）
+\*[*Caribitermes discolor* 异色加勒比白蚁]({{ site.base_url }}/species/caribitermes-discolor/)（Dominican Republic, Puerto Rico, Cuba, Haiti, Jamaica）
 
 <h5 id="ceylonitermellus">Ceylonitermellus</h5>
 
-\*Ceylonitermellus hantanae 汉塔娜小锡兰白蚁（Sri Lanka）
+\*[*Ceylonitermellus hantanae* 汉塔娜小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-hantanae/)（Sri Lanka）
 
-Ceylonitermellus kotuae 科图瓦小锡兰白蚁（Sri Lanka）
+[*Ceylonitermellus kotuae* 科图瓦小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-kotuae/)（Sri Lanka）
 
-Ceylonitermellus sahyadriensis 萨亚德里小锡兰白蚁（India）
+[*Ceylonitermellus sahyadriensis* 萨亚德里小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-sahyadriensis/)（India）
 
 <h5 id="ceylonitermes">Ceylonitermes</h5>
 
-\*Ceylonitermes escherichi 埃舍里希锡兰白蚁（Sri Lanka）
+\*[*Ceylonitermes escherichi* 埃舍里希锡兰白蚁]({{ site.base_url }}/species/ceylonitermes-escherichi/)（Sri Lanka）
 
-Ceylonitermes indicola 印度锡兰白蚁（India, Indonesia）
+[*Ceylonitermes indicola* 印度锡兰白蚁]({{ site.base_url }}/species/ceylonitermes-indicola/)（India, Indonesia）
 
-Ceylonitermes nivedita 尼韦迪塔锡兰白蚁（India）
+[*Ceylonitermes nivedita* 尼韦迪塔锡兰白蚁]({{ site.base_url }}/species/ceylonitermes-nivedita/)（India）
 
-Ceylonitermes paulosus 保洛斯锡兰白蚁（Sri Lanka, India）
+[*Ceylonitermes paulosus* 保洛斯锡兰白蚁]({{ site.base_url }}/species/ceylonitermes-paulosus/)（Sri Lanka, India）
 
 <h5 id="coarctotermes">Coarctotermes</h5>
 
-Coarctotermes beharaensis 贝哈拉缩狭白蚁（Madagascar）
+[*Coarctotermes beharaensis* 贝哈拉缩狭白蚁]({{ site.base_url }}/species/coarctotermes-beharaensis/)（Madagascar）
 
-\*Coarctotermes clepsydra 漏壶缩狭白蚁（Madagascar）
+\*[*Coarctotermes clepsydra* 漏壶缩狭白蚁]({{ site.base_url }}/species/coarctotermes-clepsydra/)（Madagascar）
 
-Coarctotermes nasonovi 纳索诺夫缩狭白蚁（Madagascar）
+[*Coarctotermes nasonovi* 纳索诺夫缩狭白蚁]({{ site.base_url }}/species/coarctotermes-nasonovi/)（Madagascar）
 
-Coarctotermes pauliani 波利昂缩狭白蚁（Madagascar）
+[*Coarctotermes pauliani* 波利昂缩狭白蚁]({{ site.base_url }}/species/coarctotermes-pauliani/)（Madagascar）
 
 <h5 id="coatitermes">Coatitermes</h5>
 
-\*Coatitermes clevelandi 克利夫兰凸鼻白蚁（Brazil, Colombia, French Guiana, Peru, Bolivia, Ecuador, Panama）
+\*[*Coatitermes clevelandi* 克利夫兰凸鼻白蚁]({{ site.base_url }}/species/coatitermes-clevelandi/)（Brazil, Colombia, French Guiana, Peru, Bolivia, Ecuador, Panama）
 
-Coatitermes kartaboensis 卡尔塔波凸鼻白蚁（Brazil, French Guiana, Guyana, Peru）
+[*Coatitermes kartaboensis* 卡尔塔波凸鼻白蚁]({{ site.base_url }}/species/coatitermes-kartaboensis/)（Brazil, French Guiana, Guyana, Peru）
 
-Coatitermes mazaruniensis 马扎鲁尼凸鼻白蚁（Guyana, Ecuador, French Guiana）
+[*Coatitermes mazaruniensis* 马扎鲁尼凸鼻白蚁]({{ site.base_url }}/species/coatitermes-mazaruniensis/)（Guyana, Ecuador, French Guiana）
 
-Coatitermes pallidus 苍白凸鼻白蚁（Colombia, Bolivia, Ecuador, Peru）
+[*Coatitermes pallidus* 苍白凸鼻白蚁]({{ site.base_url }}/species/coatitermes-pallidus/)（Colombia, Bolivia, Ecuador, Peru）
 
 <h5 id="coendutermes">Coendutermes</h5>
 
-\*Coendutermes tucum 纤维箭猪白蚁（Brazil, Colombia, Suriname）
+\*[*Coendutermes tucum* 纤维箭猪白蚁]({{ site.base_url }}/species/coendutermes-tucum/)（Brazil, Colombia, Suriname）
 
 <h5 id="constrictotermes">Constrictotermes</h5>
 
-Constrictotermes cacaoensis 可可缩白蚁（French Guiana）
+[*Constrictotermes cacaoensis* 可可缩白蚁]({{ site.base_url }}/species/constrictotermes-cacaoensis/)（French Guiana）
 
-Constrictotermes cavifrons 凹额缩白蚁（Brazil, French Guiana, Peru, Colombia, Ecuador, Guyana, Suriname, Bolivia, Venezuela）
+[*Constrictotermes cavifrons* 凹额缩白蚁]({{ site.base_url }}/species/constrictotermes-cavifrons/)（Brazil, French Guiana, Peru, Colombia, Ecuador, Guyana, Suriname, Bolivia, Venezuela）
 
-\*Constrictotermes cyphergaster 弯肠缩白蚁（Brazil, Paraguay, Argentina, Bolivia）
+\*[*Constrictotermes cyphergaster* 弯肠缩白蚁]({{ site.base_url }}/species/constrictotermes-cyphergaster/)（Brazil, Paraguay, Argentina, Bolivia）
 
-Constrictotermes guantanamensis 关塔那摩缩白蚁（Caribbean, Cuba）
+[*Constrictotermes guantanamensis* 关塔那摩缩白蚁]({{ site.base_url }}/species/constrictotermes-guantanamensis/)（Caribbean, Cuba）
 
-Constrictotermes latinotus 宽背缩白蚁（Ecuador, Colombia）
+[*Constrictotermes latinotus* 宽背缩白蚁]({{ site.base_url }}/species/constrictotermes-latinotus/)（Ecuador, Colombia）
 
-Constrictotermes rupestris 红色缩白蚁（Brazil）
+[*Constrictotermes rupestris* 红色缩白蚁]({{ site.base_url }}/species/constrictotermes-rupestris/)（Brazil）
 
 <h5 id="convexitermes">Convexitermes</h5>
 
-\*Convexitermes convexifrons 凸额凸白蚁（Brazil, Colombia, Bolivia, Ecuador, Peru, Paraguay, Trinidad）
+\*[*Convexitermes convexifrons* 凸额凸白蚁]({{ site.base_url }}/species/convexitermes-convexifrons/)（Brazil, Colombia, Bolivia, Ecuador, Peru, Paraguay, Trinidad）
 
-Convexitermes manni 曼凸白蚁（Brazil, French Guiana, Guyana, Paraguay, Suriname, Trinidad and Tobago）
+[*Convexitermes manni* 曼凸白蚁]({{ site.base_url }}/species/convexitermes-manni/)（Brazil, French Guiana, Guyana, Paraguay, Suriname, Trinidad and Tobago）
 
 <h5 id="cortaritermes">Cortaritermes</h5>
 
-Cortaritermes fulviceps 栗头利颚白蚁（Argentina, Uruguay, Brazil, Paraguay）
+[*Cortaritermes fulviceps* 栗头利颚白蚁]({{ site.base_url }}/species/cortaritermes-fulviceps/)（Argentina, Uruguay, Brazil, Paraguay）
 
-Cortaritermes intermedius 中间利颚白蚁（Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad, Trinidad and Tobago）
+[*Cortaritermes intermedius* 中间利颚白蚁]({{ site.base_url }}/species/cortaritermes-intermedius/)（Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad, Trinidad and Tobago）
 
-Cortaritermes piliceps 毛头利颚白蚁（Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad）
+[*Cortaritermes piliceps* 毛头利颚白蚁]({{ site.base_url }}/species/cortaritermes-piliceps/)（Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad）
 
-Cortaritermes rizzinii 里兹尼利颚白蚁（Brazil）
+[*Cortaritermes rizzinii* 里兹尼利颚白蚁]({{ site.base_url }}/species/cortaritermes-rizzinii/)（Brazil）
 
-\*Cortaritermes silvestrii 西尔韦斯特里利颚白蚁（Brazil, Argentina, Paraguay）
+\*[*Cortaritermes silvestrii* 西尔韦斯特里利颚白蚁]({{ site.base_url }}/species/cortaritermes-silvestrii/)（Brazil, Argentina, Paraguay）
 
 <h5 id="cucurbitermes">Cucurbitermes</h5>
 
-Cucurbitermes parviceps 小葫白蚁（China）
+[*Cucurbitermes parviceps* 小葫白蚁]({{ site.base_url }}/species/cucurbitermes-parviceps/)（China）
 
-Cucurbitermes sinensis 中华葫白蚁（China, Guangdong）
+[*Cucurbitermes sinensis* 中华葫白蚁]({{ site.base_url }}/species/cucurbitermes-sinensis/)（China, Guangdong）
 
-\*Cucurbitermes yingdeensis 英德葫白蚁（China, Guangdong, Jiangxi, Hunan）
+\*[*Cucurbitermes yingdeensis* 英德葫白蚁]({{ site.base_url }}/species/cucurbitermes-yingdeensis/)（China, Guangdong, Jiangxi, Hunan）
 
 <h5 id="cyranotermes">Cyranotermes</h5>
 
-Cyranotermes caete 卡埃特巨鼻白蚁（Brazil, French Guiana）
+[*Cyranotermes caete* 卡埃特巨鼻白蚁]({{ site.base_url }}/species/cyranotermes-caete/)（Brazil, French Guiana）
 
-Cyranotermes glaber 无毛巨鼻白蚁（French Guiana, Brazil）
+[*Cyranotermes glaber* 无毛巨鼻白蚁]({{ site.base_url }}/species/cyranotermes-glaber/)（French Guiana, Brazil）
 
-Cyranotermes karipuna 卡日普纳巨鼻白蚁（Brazil）
+[*Cyranotermes karipuna* 卡日普纳巨鼻白蚁]({{ site.base_url }}/species/cyranotermes-karipuna/)（Brazil）
 
-\*Cyranotermes timuassu 多毛巨鼻白蚁（Brazil）
+\*[*Cyranotermes timuassu* 多毛巨鼻白蚁]({{ site.base_url }}/species/cyranotermes-timuassu/)（Brazil）
 
 <h5 id="diversitermes">Diversitermes</h5>
 
-Diversitermes castaniceps 栗头歧白蚁（Brazil, Paraguay, Bolivia）
+[*Diversitermes castaniceps* 栗头歧白蚁]({{ site.base_url }}/species/diversitermes-castaniceps/)（Brazil, Paraguay, Bolivia）
 
-\*Diversitermes diversimiles 多兵歧白蚁（Brazil, Argentina, French Guiana, Bolivia, Paraguay）
+\*[*Diversitermes diversimiles* 多兵歧白蚁]({{ site.base_url }}/species/diversitermes-diversimiles/)（Brazil, Argentina, French Guiana, Bolivia, Paraguay）
 
-Diversitermes tiapuan 长简鼻歧白蚁（Brazil, Colombia）
+[*Diversitermes tiapuan* 长简鼻歧白蚁]({{ site.base_url }}/species/diversitermes-tiapuan/)（Brazil, Colombia）
 
 <h5 id="diwaitermes">Diwaitermes</h5>
 
-Diwaitermes castanopsis 锥栗木象白蚁（Papua New Guinea）
+[*Diwaitermes castanopsis* 锥栗木象白蚁]({{ site.base_url }}/species/diwaitermes-castanopsis/)（Papua New Guinea）
 
-Diwaitermes foi 福阿木象白蚁（Papua New Guinea）
+[*Diwaitermes foi* 福阿木象白蚁]({{ site.base_url }}/species/diwaitermes-foi/)（Papua New Guinea）
 
-\*Diwaitermes kanehirai 凯恩希拉木象白蚁（Indonesia, Solomon Islands, Australia, Papua New Guinea, Vanuatu）
+\*[*Diwaitermes kanehirai* 凯恩希拉木象白蚁]({{ site.base_url }}/species/diwaitermes-kanehirai/)（Indonesia, Solomon Islands, Australia, Papua New Guinea, Vanuatu）
 
 <h5 id="eleanoritermes">Eleanoritermes</h5>
 
-\*Eleanoritermes borneensis 婆罗埃莉诺白蚁（Borneo）
+\*[*Eleanoritermes borneensis* 婆罗埃莉诺白蚁]({{ site.base_url }}/species/eleanoritermes-borneensis/)（Borneo）
 
 <h5 id="emersonitermes">Emersonitermes</h5>
 
-\*Emersonitermes thekadensis 卡迪埃默森白蚁（India）
+\*[*Emersonitermes thekadensis* 卡迪埃默森白蚁]({{ site.base_url }}/species/emersonitermes-thekadensis/)（India）
 
 <h5 id="enetotermes">Enetotermes</h5>
 
-\*Enetotermes bembicoides 似陀针筒白蚁（Zambia）
+\*[*Enetotermes bembicoides* 似陀针筒白蚁]({{ site.base_url }}/species/enetotermes-bembicoides/)（Zambia）
 
 <h5 id="ereymatermes">Ereymatermes</h5>
 
-Ereymatermes panamensis 巴拿马无名白蚁（Central America, Panama）
+[*Ereymatermes panamensis* 巴拿马无名白蚁]({{ site.base_url }}/species/ereymatermes-panamensis/)（Central America, Panama）
 
-Ereymatermes piquira 短小无名白蚁（South America, Brazil, Peru）
+[*Ereymatermes piquira* 短小无名白蚁]({{ site.base_url }}/species/ereymatermes-piquira/)（South America, Brazil, Peru）
 
-\*Ereymatermes rotundiceps 圆头无名白蚁（South America, Brazil, Colombia, Ecuador）
+\*[*Ereymatermes rotundiceps* 圆头无名白蚁]({{ site.base_url }}/species/ereymatermes-rotundiceps/)（South America, Brazil, Colombia, Ecuador）
 
 <h5 id="eutermellus">Eutermellus</h5>
 
-Eutermellus abruptus 陡峭小真白蚁（tropical Africa）
+[*Eutermellus abruptus* 陡峭小真白蚁]({{ site.base_url }}/species/eutermellus-abruptus/)（tropical Africa）
 
-Eutermellus aquilinus 鹰鼻小真白蚁（tropical Africa）
+[*Eutermellus aquilinus* 鹰鼻小真白蚁]({{ site.base_url }}/species/eutermellus-aquilinus/)（tropical Africa）
 
-Eutermellus bipartitus 两段小真白蚁（tropical Africa）
+[*Eutermellus bipartitus* 两段小真白蚁]({{ site.base_url }}/species/eutermellus-bipartitus/)（tropical Africa）
 
-\*Eutermellus convergens 收敛小真白蚁（Côte d'Ivoire, Cameroon, Congo, Equatorial Guinea, Gabon, Ghana, Nigeria）
+\*[*Eutermellus convergens* 收敛小真白蚁]({{ site.base_url }}/species/eutermellus-convergens/)（Côte d'Ivoire, Cameroon, Congo, Equatorial Guinea, Gabon, Ghana, Nigeria）
 
-Eutermellus undulans 波纹小真白蚁（West Africa, Gambia）
+[*Eutermellus undulans* 波纹小真白蚁]({{ site.base_url }}/species/eutermellus-undulans/)（West Africa, Gambia）
 
 <h5 id="fulleritermes">Fulleritermes</h5>
 
-Fulleritermes coatoni 科顿富勒白蚁（southern Africa, South Africa, Zimbabwe）
+[*Fulleritermes coatoni* 科顿富勒白蚁]({{ site.base_url }}/species/fulleritermes-coatoni/)（southern Africa, South Africa, Zimbabwe）
 
-\*Fulleritermes contractus 收缩富勒白蚁（Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe）
+\*[*Fulleritermes contractus* 收缩富勒白蚁]({{ site.base_url }}/species/fulleritermes-contractus/)（Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe）
 
-Fulleritermes mallyi 马利富勒白蚁（South Africa）
+[*Fulleritermes mallyi* 马利富勒白蚁]({{ site.base_url }}/species/fulleritermes-mallyi/)（South Africa）
 
-Fulleritermes tenebricus 阴暗富勒白蚁（Côte d'Ivoire, Togo, Senegal, Burkina Faso, Ghana, Central African Republic, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan）
+[*Fulleritermes tenebricus* 阴暗富勒白蚁]({{ site.base_url }}/species/fulleritermes-tenebricus/)（Côte d'Ivoire, Togo, Senegal, Burkina Faso, Ghana, Central African Republic, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan）
 
 <h5 id="grallatotermes">Grallatotermes</h5>
 
-Grallatotermes admirabilus 奇妙高跷白蚁（Philippines）
+[*Grallatotermes admirabilus* 奇妙高跷白蚁]({{ site.base_url }}/species/grallatotermes-admirabilus/)（Philippines）
 
-Grallatotermes africanus 非洲高跷白蚁（Mozambique, Tanzania, Kenya）
+[*Grallatotermes africanus* 非洲高跷白蚁]({{ site.base_url }}/species/grallatotermes-africanus/)（Mozambique, Tanzania, Kenya）
 
-\*Grallatotermes grallator 高跷高跷白蚁（Papua New Guinea）
+\*[*Grallatotermes grallator* 高跷高跷白蚁]({{ site.base_url }}/species/grallatotermes-grallator/)（Papua New Guinea）
 
-Grallatotermes grallatoriformis 似高跷高跷白蚁（India）
+[*Grallatotermes grallatoriformis* 似高跷高跷白蚁]({{ site.base_url }}/species/grallatotermes-grallatoriformis/)（India）
 
-Grallatotermes niger 黑色高跷白蚁（India）
+[*Grallatotermes niger* 黑色高跷白蚁]({{ site.base_url }}/species/grallatotermes-niger/)（India）
 
-Grallatotermes splendidus 华美高跷白蚁（Philippines）
+[*Grallatotermes splendidus* 华美高跷白蚁]({{ site.base_url }}/species/grallatotermes-splendidus/)（Philippines）
 
-Grallatotermes weyeri 韦耶高跷白蚁（Indonesia）
+[*Grallatotermes weyeri* 韦耶高跷白蚁]({{ site.base_url }}/species/grallatotermes-weyeri/)（Indonesia）
 
 <h5 id="hirtitermes">Hirtitermes</h5>
 
-Hirtitermes brabazoni 布拉巴宗多毛白蚁（Indonesia）
+[*Hirtitermes brabazoni* 布拉巴宗多毛白蚁]({{ site.base_url }}/species/hirtitermes-brabazoni/)（Indonesia）
 
-\*Hirtitermes hirtiventris 毛腹多毛白蚁（Indonesia, Malaysia）
+\*[*Hirtitermes hirtiventris* 毛腹多毛白蚁]({{ site.base_url }}/species/hirtitermes-hirtiventris/)（Indonesia, Malaysia）
 
-Hirtitermes spinocephalus 刺头多毛白蚁（Indonesia, Malaysia）
+[*Hirtitermes spinocephalus* 刺头多毛白蚁]({{ site.base_url }}/species/hirtitermes-spinocephalus/)（Indonesia, Malaysia）
 
 <h5 id="hospitalitermes">Hospitalitermes</h5>
 
-Hospitalitermes asahinai 朝比奈须白蚁（Thailand）
+[*Hospitalitermes asahinai* 朝比奈须白蚁]({{ site.base_url }}/species/hospitalitermes-asahinai/)（Thailand）
 
-Hospitalitermes ataramensis 阿特兰须白蚁（Cambodia, Thailand, Vietnam, India, Myanmar）
+[*Hospitalitermes ataramensis* 阿特兰须白蚁]({{ site.base_url }}/species/hospitalitermes-ataramensis/)（Cambodia, Thailand, Vietnam, India, Myanmar）
 
-Hospitalitermes bicolor 双色须白蚁（Thailand, Cambodia, Vietnam, Indonesia, Malaysia, Singapore）
+[*Hospitalitermes bicolor* 双色须白蚁]({{ site.base_url }}/species/hospitalitermes-bicolor/)（Thailand, Cambodia, Vietnam, Indonesia, Malaysia, Singapore）
 
-Hospitalitermes birmanicus 缅甸须白蚁（Myanmar, Thailand）
+[*Hospitalitermes birmanicus* 缅甸须白蚁]({{ site.base_url }}/species/hospitalitermes-birmanicus/)（Myanmar, Thailand）
 
-Hospitalitermes blairi 布莱尔须白蚁（India）
+[*Hospitalitermes blairi* 布莱尔须白蚁]({{ site.base_url }}/species/hospitalitermes-blairi/)（India）
 
-Hospitalitermes brevirostratus 短鼻须白蚁（Myanmar）
+[*Hospitalitermes brevirostratus* 短鼻须白蚁]({{ site.base_url }}/species/hospitalitermes-brevirostratus/)（Myanmar）
 
-Hospitalitermes butteli 巴特须白蚁（Indonesia）
+[*Hospitalitermes butteli* 巴特须白蚁]({{ site.base_url }}/species/hospitalitermes-butteli/)（Indonesia）
 
-Hospitalitermes damenglongensis 大勐龙须白蚁（China (Yunnan), Jinghong (Damenglong)）
+[*Hospitalitermes damenglongensis* 大勐龙须白蚁]({{ site.base_url }}/species/hospitalitermes-damenglongensis/)（China (Yunnan), Jinghong (Damenglong)）
 
-Hospitalitermes diurnus 日常须白蚁（Indonesia）
+[*Hospitalitermes diurnus* 日常须白蚁]({{ site.base_url }}/species/hospitalitermes-diurnus/)（Indonesia）
 
-Hospitalitermes ferrugineus 铁锈须白蚁（Indonesia）
+[*Hospitalitermes ferrugineus* 铁锈须白蚁]({{ site.base_url }}/species/hospitalitermes-ferrugineus/)（Indonesia）
 
-Hospitalitermes flaviventris 黄腹须白蚁（Indonesia, Malaysia）
+[*Hospitalitermes flaviventris* 黄腹须白蚁]({{ site.base_url }}/species/hospitalitermes-flaviventris/)（Indonesia, Malaysia）
 
-Hospitalitermes flavoantennaris 黄触角须白蚁（Indonesia）
+[*Hospitalitermes flavoantennaris* 黄触角须白蚁]({{ site.base_url }}/species/hospitalitermes-flavoantennaris/)（Indonesia）
 
-Hospitalitermes grassii 格拉塞须白蚁（Indonesia）
+[*Hospitalitermes grassii* 格拉塞须白蚁]({{ site.base_url }}/species/hospitalitermes-grassii/)（Indonesia）
 
-\*Hospitalitermes hospitalis 寄宿须白蚁（Brunei, Indonesia, Malaysia, Philippines, Singapore）
+\*[*Hospitalitermes hospitalis* 寄宿须白蚁]({{ site.base_url }}/species/hospitalitermes-hospitalis/)（Brunei, Indonesia, Malaysia, Philippines, Singapore）
 
-hospitalis 指名亚种
+[*hospitalis* 指名亚种]({{ site.base_url }}/species/hospitalitermes-hospitalis-hospitalis/)
 
-hospitaloides 似寄宿亚种
+[*hospitaloides* 似寄宿亚种]({{ site.base_url }}/species/hospitalitermes-hospitalis-hospitaloides/)
 
-Hospitalitermes irianensis 伊里安查亚须白蚁（Indonesia）
+[*Hospitalitermes irianensis* 伊里安查亚须白蚁]({{ site.base_url }}/species/hospitalitermes-irianensis/)（Indonesia）
 
-Hospitalitermes javanicus 爪哇须白蚁（Indonesia）
+[*Hospitalitermes javanicus* 爪哇须白蚁]({{ site.base_url }}/species/hospitalitermes-javanicus/)（Indonesia）
 
-Hospitalitermes jepsoni 杰普森须白蚁（Cambodia, Myanmar, Bangladesh, India, Thailand）
+[*Hospitalitermes jepsoni* 杰普森须白蚁]({{ site.base_url }}/species/hospitalitermes-jepsoni/)（Cambodia, Myanmar, Bangladesh, India, Thailand）
 
-Hospitalitermes jinghongensis 景洪须白蚁（China (Yunnan), Jinghong）
+[*Hospitalitermes jinghongensis* 景洪须白蚁]({{ site.base_url }}/species/hospitalitermes-jinghongensis/)（China (Yunnan), Jinghong）
 
-Hospitalitermes kali 卡尔须白蚁（India (Nicobar Islands)）
+[*Hospitalitermes kali* 卡尔须白蚁]({{ site.base_url }}/species/hospitalitermes-kali/)（India (Nicobar Islands)）
 
-Hospitalitermes krishnai 克里希纳须白蚁（Indonesia, Lampung, southern Sumatra）
+[*Hospitalitermes krishnai* 克里希纳须白蚁]({{ site.base_url }}/species/hospitalitermes-krishnai/)（Indonesia, Lampung, southern Sumatra）
 
-Hospitalitermes lividiceps 蓝头须白蚁（Indonesia）
+[*Hospitalitermes lividiceps* 蓝头须白蚁]({{ site.base_url }}/species/hospitalitermes-lividiceps/)（Indonesia）
 
-Hospitalitermes madrasi 马德拉斯须白蚁（India）
+[*Hospitalitermes madrasi* 马德拉斯须白蚁]({{ site.base_url }}/species/hospitalitermes-madrasi/)（India）
 
-Hospitalitermes majusculus 大须白蚁（Yunnan (Damenglong, Baka), China）
+[*Hospitalitermes majusculus* 大须白蚁]({{ site.base_url }}/species/hospitalitermes-majusculus/)（Yunnan (Damenglong, Baka), China）
 
-Hospitalitermes medioflavus 中黄须白蚁（Malaysia, Indonesia, Singapore, Thailand）
+[*Hospitalitermes medioflavus* 中黄须白蚁]({{ site.base_url }}/species/hospitalitermes-medioflavus/)（Malaysia, Indonesia, Singapore, Thailand）
 
-Hospitalitermes moluccanus 摩鹿加须白蚁（Indonesia）
+[*Hospitalitermes moluccanus* 摩鹿加须白蚁]({{ site.base_url }}/species/hospitalitermes-moluccanus/)（Indonesia）
 
-Hospitalitermes monoceros 独角须白蚁（Sri Lanka, India）
+[*Hospitalitermes monoceros* 独角须白蚁]({{ site.base_url }}/species/hospitalitermes-monoceros/)（Sri Lanka, India）
 
-Hospitalitermes nemorosus 阴凉须白蚁（Indonesia）
+[*Hospitalitermes nemorosus* 阴凉须白蚁]({{ site.base_url }}/species/hospitalitermes-nemorosus/)（Indonesia）
 
-Hospitalitermes nicobarensis 尼科巴须白蚁（India (Nicobar Islands)）
+[*Hospitalitermes nicobarensis* 尼科巴须白蚁]({{ site.base_url }}/species/hospitalitermes-nicobarensis/)（India (Nicobar Islands)）
 
-Hospitalitermes nigriantennalis 黑触角须白蚁（Malaysia, Brunei, Indonesia）
+[*Hospitalitermes nigriantennalis* 黑触角须白蚁]({{ site.base_url }}/species/hospitalitermes-nigriantennalis/)（Malaysia, Brunei, Indonesia）
 
-Hospitalitermes papuanus 巴布亚须白蚁（Papua New Guinea）
+[*Hospitalitermes papuanus* 巴布亚须白蚁]({{ site.base_url }}/species/hospitalitermes-papuanus/)（Papua New Guinea）
 
-Hospitalitermes paraschmidti 似施密德须白蚁（Malaysia）
+[*Hospitalitermes paraschmidti* 似施密德须白蚁]({{ site.base_url }}/species/hospitalitermes-paraschmidti/)（Malaysia）
 
-Hospitalitermes proflaviventris 似黄腹须白蚁（Malaysia）
+[*Hospitalitermes proflaviventris* 似黄腹须白蚁]({{ site.base_url }}/species/hospitalitermes-proflaviventris/)（Malaysia）
 
-Hospitalitermes rufus 红色须白蚁（Indonesia, Malaysia）
+[*Hospitalitermes rufus* 红色须白蚁]({{ site.base_url }}/species/hospitalitermes-rufus/)（Indonesia, Malaysia）
 
-Hospitalitermes schmidti 施密德须白蚁（Indonesia）
+[*Hospitalitermes schmidti* 施密德须白蚁]({{ site.base_url }}/species/hospitalitermes-schmidti/)（Indonesia）
 
-Hospitalitermes seikii 清木须白蚁（Singapore, Malaysia, Sri Lanka, Myanmar, Thailand, Indonesia, Cambodia, Vietnam, Brunei, China, India, Philippines）
+[*Hospitalitermes seikii* 清木须白蚁]({{ site.base_url }}/species/hospitalitermes-seikii/)（Singapore, Malaysia, Sri Lanka, Myanmar, Thailand, Indonesia, Cambodia, Vietnam, Brunei, China, India, Philippines）
 
-Hospitalitermes sharpi 夏普须白蚁（Indonesia, Malaysia, Singapore）
+[*Hospitalitermes sharpi* 夏普须白蚁]({{ site.base_url }}/species/hospitalitermes-sharpi/)（Indonesia, Malaysia, Singapore）
 
-Hospitalitermes umbrinus 赭色须白蚁（Singapore, Malaysia, Indonesia）
+[*Hospitalitermes umbrinus* 赭色须白蚁]({{ site.base_url }}/species/hospitalitermes-umbrinus/)（Singapore, Malaysia, Indonesia）
 
 <h5 id="hyleotermes">Hyleotermes</h5>
 
-\*Hyleotermes brevipilus 短毛森林白蚁（Brazil, Guyana, Colombia, Ecuador, French Guiana, Venezuela）
+\*[*Hyleotermes brevipilus* 短毛森林白蚁]({{ site.base_url }}/species/hyleotermes-brevipilus/)（Brazil, Guyana, Colombia, Ecuador, French Guiana, Venezuela）
 
 <h5 id="kaudernitermes">Kaudernitermes</h5>
 
-\*Kaudernitermes kaudernianus 考登考登白蚁（Madagascar）
+\*[*Kaudernitermes kaudernianus* 考登考登白蚁]({{ site.base_url }}/species/kaudernitermes-kaudernianus/)（Madagascar）
 
-Kaudernitermes laticeps 宽头考登白蚁（Madagascar, Mayotte）
+[*Kaudernitermes laticeps* 宽头考登白蚁]({{ site.base_url }}/species/kaudernitermes-laticeps/)（Madagascar, Mayotte）
 
-Kaudernitermes nigritus 黑色考登白蚁（Madagascar, Seychelles）
+[*Kaudernitermes nigritus* 黑色考登白蚁]({{ site.base_url }}/species/kaudernitermes-nigritus/)（Madagascar, Seychelles）
 
-Kaudernitermes salebrithorax 凹胸考登白蚁（Madagascar, Seychelles）
+[*Kaudernitermes salebrithorax* 凹胸考登白蚁]({{ site.base_url }}/species/kaudernitermes-salebrithorax/)（Madagascar, Seychelles）
 
 <h5 id="lacessititermes">Lacessititermes</h5>
 
-Lacessititermes albipes 白足怒白蚁（Indonesia, Malaysia）
+[*Lacessititermes albipes* 白足怒白蚁]({{ site.base_url }}/species/lacessititermes-albipes/)（Indonesia, Malaysia）
 
-Lacessititermes atrior 暗黑怒白蚁（Indonesia, Malaysia）
+[*Lacessititermes atrior* 暗黑怒白蚁]({{ site.base_url }}/species/lacessititermes-atrior/)（Indonesia, Malaysia）
 
-Lacessititermes batavus 荷兰怒白蚁（Indonesia）
+[*Lacessititermes batavus* 荷兰怒白蚁]({{ site.base_url }}/species/lacessititermes-batavus/)（Indonesia）
 
-Lacessititermes breviarticulatus 短节怒白蚁（Malaysia）
+[*Lacessititermes breviarticulatus* 短节怒白蚁]({{ site.base_url }}/species/lacessititermes-breviarticulatus/)（Malaysia）
 
-Lacessititermes cuphus 驼身怒白蚁（Vietnam）
+[*Lacessititermes cuphus* 驼身怒白蚁]({{ site.base_url }}/species/lacessititermes-cuphus/)（Vietnam）
 
-Lacessititermes filicornis 丝角怒白蚁（Malaysia）
+[*Lacessititermes filicornis* 丝角怒白蚁]({{ site.base_url }}/species/lacessititermes-filicornis/)（Malaysia）
 
-Lacessititermes holmgreni 霍姆格伦怒白蚁（Philippines）
+[*Lacessititermes holmgreni* 霍姆格伦怒白蚁]({{ site.base_url }}/species/lacessititermes-holmgreni/)（Philippines）
 
-Lacessititermes jacobsoni 雅各布森怒白蚁（Indonesia）
+[*Lacessititermes jacobsoni* 雅各布森怒白蚁]({{ site.base_url }}/species/lacessititermes-jacobsoni/)（Indonesia）
 
-Lacessititermes kolapisensis 戈拉皮斯怒白蚁（Malaysia (Sabah)）
+[*Lacessititermes kolapisensis* 戈拉皮斯怒白蚁]({{ site.base_url }}/species/lacessititermes-kolapisensis/)（Malaysia (Sabah)）
 
-Lacessititermes laborator 耕地怒白蚁（Indonesia, Sumatra, Malaysia）
+[*Lacessititermes laborator* 耕地怒白蚁]({{ site.base_url }}/species/lacessititermes-laborator/)（Indonesia, Sumatra, Malaysia）
 
-Lacessititermes lacessitiformis 似紧张怒白蚁（Malaysia）
+[*Lacessititermes lacessitiformis* 似紧张怒白蚁]({{ site.base_url }}/species/lacessititermes-lacessitiformis/)（Malaysia）
 
-\*Lacessititermes lacessitus 紧张怒白蚁（Malaysia, Singapore）
+\*[*Lacessititermes lacessitus* 紧张怒白蚁]({{ site.base_url }}/species/lacessititermes-lacessitus/)（Malaysia, Singapore）
 
-Lacessititermes longinasus 长鼻怒白蚁（Indonesia, Sumatra）
+[*Lacessititermes longinasus* 长鼻怒白蚁]({{ site.base_url }}/species/lacessititermes-longinasus/)（Indonesia, Sumatra）
 
-Lacessititermes palawanensis 巴拉望怒白蚁（Philippines）
+[*Lacessititermes palawanensis* 巴拉望怒白蚁]({{ site.base_url }}/species/lacessititermes-palawanensis/)（Philippines）
 
-Lacessititermes piliferus 具毛怒白蚁（Indonesia, Sumatra, Malaysia）
+[*Lacessititermes piliferus* 具毛怒白蚁]({{ site.base_url }}/species/lacessititermes-piliferus/)（Indonesia, Sumatra, Malaysia）
 
-Lacessititermes ransoneti 兰森埃特怒白蚁（Singapore, Malaysia）
+[*Lacessititermes ransoneti* 兰森埃特怒白蚁]({{ site.base_url }}/species/lacessititermes-ransoneti/)（Singapore, Malaysia）
 
-Lacessititermes saraiensis 萨赖怒白蚁（China, Indonesia, Philippines）
+[*Lacessititermes saraiensis* 萨赖怒白蚁]({{ site.base_url }}/species/lacessititermes-saraiensis/)（China, Indonesia, Philippines）
 
-Lacessititermes sordidus 肮脏怒白蚁（Indonesia, Malaysia）
+[*Lacessititermes sordidus* 肮脏怒白蚁]({{ site.base_url }}/species/lacessititermes-sordidus/)（Indonesia, Malaysia）
 
-Lacessititermes thailandicus 泰国怒白蚁（Thailand）
+[*Lacessititermes thailandicus* 泰国怒白蚁]({{ site.base_url }}/species/lacessititermes-thailandicus/)（Thailand）
 
-Lacessititermes yamanei 山根怒白蚁（Indonesia, Singapore, Malaysia, Philippines）
+[*Lacessititermes yamanei* 山根怒白蚁]({{ site.base_url }}/species/lacessititermes-yamanei/)（Indonesia, Singapore, Malaysia, Philippines）
 
 <h5 id="leptomyxotermes">Leptomyxotermes</h5>
 
-\*Leptomyxotermes doriae 多利亚薄喙白蚁（Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone）
+\*[*Leptomyxotermes doriae* 多利亚薄喙白蚁]({{ site.base_url }}/species/leptomyxotermes-doriae/)（Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone）
 
 <h5 id="leucopitermes">Leucopitermes</h5>
 
-Leucopitermes leucopiformis 似白脸白脸白蚁（Malaysia）
+[*Leucopitermes leucopiformis* 似白脸白脸白蚁]({{ site.base_url }}/species/leucopitermes-leucopiformis/)（Malaysia）
 
-\*Leucopitermes leucops 白脸白脸白蚁（Indonesia, Malaysia）
+\*[*Leucopitermes leucops* 白脸白脸白蚁]({{ site.base_url }}/species/leucopitermes-leucops/)（Indonesia, Malaysia）
 
-Leucopitermes paraleucops 近白脸白脸白蚁（Malaysia）
+[*Leucopitermes paraleucops* 近白脸白脸白蚁]({{ site.base_url }}/species/leucopitermes-paraleucops/)（Malaysia）
 
-Leucopitermes thoi 索白脸白蚁（Indonesia, Malaysia）
+[*Leucopitermes thoi* 索白脸白蚁]({{ site.base_url }}/species/leucopitermes-thoi/)（Indonesia, Malaysia）
 
 <h5 id="longipeditermes">Longipeditermes</h5>
 
-Longipeditermes kistneri 基斯特纳长足白蚁（Malaysia, Indonesia）
+[*Longipeditermes kistneri* 基斯特纳长足白蚁]({{ site.base_url }}/species/longipeditermes-kistneri/)（Malaysia, Indonesia）
 
-\*Longipeditermes longipes 长足长足白蚁（Malaysia, Singapore, Thailand, Indonesia, Brunei）
+\*[*Longipeditermes longipes* 长足长足白蚁]({{ site.base_url }}/species/longipeditermes-longipes/)（Malaysia, Singapore, Thailand, Indonesia, Brunei）
 
 <h5 id="macrosubulitermes">Macrosubulitermes</h5>
 
-\*Macrosubulitermes greavesi 格里夫斯大锥白蚁（Australia）
+\*[*Macrosubulitermes greavesi* 格里夫斯大锥白蚁]({{ site.base_url }}/species/macrosubulitermes-greavesi/)（Australia）
 
 <h5 id="malagasitermes">Malagasitermes</h5>
 
-\*Malagasitermes milloti 米约马尔加什白蚁（Madagascar）
+\*[*Malagasitermes milloti* 米约马尔加什白蚁]({{ site.base_url }}/species/malagasitermes-milloti/)（Madagascar）
 
 <h5 id="malaysiotermes">Malaysiotermes</h5>
 
-Malaysiotermes holmgreni 霍姆格伦马来白蚁（Indonesia, Malaysia）
+[*Malaysiotermes holmgreni* 霍姆格伦马来白蚁]({{ site.base_url }}/species/malaysiotermes-holmgreni/)（Indonesia, Malaysia）
 
-\*Malaysiotermes spinocephalus 刺头马来白蚁（Indonesia, Malaysia）
+\*[*Malaysiotermes spinocephalus* 刺头马来白蚁]({{ site.base_url }}/species/malaysiotermes-spinocephalus/)（Indonesia, Malaysia）
 
 <h5 id="mimeutermes">Mimeutermes</h5>
 
-Mimeutermes binghami 宾厄姆仿白蚁（Kenya, Zambia）
+[*Mimeutermes binghami* 宾厄姆仿白蚁]({{ site.base_url }}/species/mimeutermes-binghami/)（Kenya, Zambia）
 
-Mimeutermes clypeatus 大唇仿白蚁（Zimbabwe）
+[*Mimeutermes clypeatus* 大唇仿白蚁]({{ site.base_url }}/species/mimeutermes-clypeatus/)（Zimbabwe）
 
-Mimeutermes edentatus 无齿仿白蚁（Ghana, Guinea, Nigeria）
+[*Mimeutermes edentatus* 无齿仿白蚁]({{ site.base_url }}/species/mimeutermes-edentatus/)（Ghana, Guinea, Nigeria）
 
-\*Mimeutermes giffardii 吉法德仿白蚁（Cameroon, Ghana, Guinea, Côte d'Ivoire）
+\*[*Mimeutermes giffardii* 吉法德仿白蚁]({{ site.base_url }}/species/mimeutermes-giffardii/)（Cameroon, Ghana, Guinea, Côte d'Ivoire）
 
-Mimeutermes majusculus 稍大仿白蚁（Tanzania）
+[*Mimeutermes majusculus* 稍大仿白蚁]({{ site.base_url }}/species/mimeutermes-majusculus/)（Tanzania）
 
-Mimeutermes sorex 吻长仿白蚁（Cameroon, Côte d'Ivoire, Ghana, Guinea, Nigeria）
+[*Mimeutermes sorex* 吻长仿白蚁]({{ site.base_url }}/species/mimeutermes-sorex/)（Cameroon, Côte d'Ivoire, Ghana, Guinea, Nigeria）
 
 <h5 id="muelleritermes">Muelleritermes</h5>
 
-\*Muelleritermes fritzi 弗里茨米勒白蚁米勒白蚁（Brazil）
+\*[*Muelleritermes fritzi* 弗里茨米勒白蚁米勒白蚁]({{ site.base_url }}/species/muelleritermes-fritzi/)（Brazil）
 
-Muelleritermes globiceps 球头米勒白蚁（Brazil）
+[*Muelleritermes globiceps* 球头米勒白蚁]({{ site.base_url }}/species/muelleritermes-globiceps/)（Brazil）
 
 <h5 id="mycterotermes">Mycterotermes</h5>
 
-\*Mycterotermes meringocephalus 饼头鸟嘴白蚁（Oman, Yemen）
+\*[*Mycterotermes meringocephalus* 饼头鸟嘴白蚁]({{ site.base_url }}/species/mycterotermes-meringocephalus/)（Oman, Yemen）
 
 <h5 id="nasopilotermes">Nasopilotermes</h5>
 
-\*Nasopilotermes jiangxiensis 江西棘象白蚁（China (Jiangxi)）
+\*[*Nasopilotermes jiangxiensis* 江西棘象白蚁]({{ site.base_url }}/species/nasopilotermes-jiangxiensis/)（China (Jiangxi)）
 
 <h5 id="nasutitermes">Nasutitermes</h5>
 
-Nasutitermes acajutlae 阿卡胡特拉象白蚁（Colombia, Puerto Rico, United States, French Guiana, Trinidad and Tobago, Antigua and Barbuda, Barbados, Montserrat, Suriname, Venezuela, British Virgin Islands, United States Virgin Islands）
+[*Nasutitermes acajutlae* 阿卡胡特拉象白蚁]({{ site.base_url }}/species/nasutitermes-acajutlae/)（Colombia, Puerto Rico, United States, French Guiana, Trinidad and Tobago, Antigua and Barbuda, Barbados, Montserrat, Suriname, Venezuela, British Virgin Islands, United States Virgin Islands）
 
-Nasutitermes acangussu 头大象白蚁（Brazil, French Guiana, Colombia, Ecuador, Peru）
+[*Nasutitermes acangussu* 头大象白蚁]({{ site.base_url }}/species/nasutitermes-acangussu/)（Brazil, French Guiana, Colombia, Ecuador, Peru）
 
-Nasutitermes acutus 尖锐象白蚁（Indonesia, Malaysia）
+[*Nasutitermes acutus* 尖锐象白蚁]({{ site.base_url }}/species/nasutitermes-acutus/)（Indonesia, Malaysia）
 
-Nasutitermes aduncus 弯曲象白蚁（Brazil, Peru, Bolivia）
+[*Nasutitermes aduncus* 弯曲象白蚁]({{ site.base_url }}/species/nasutitermes-aduncus/)（Brazil, Peru, Bolivia）
 
-Nasutitermes alticola 高地象白蚁（Malaysia）
+[*Nasutitermes alticola* 高地象白蚁]({{ site.base_url }}/species/nasutitermes-alticola/)（Malaysia）
 
-Nasutitermes amboinensis 安汶象白蚁（Indonesia）
+[*Nasutitermes amboinensis* 安汶象白蚁]({{ site.base_url }}/species/nasutitermes-amboinensis/)（Indonesia）
 
-Nasutitermes anamalaiensis 安纳马莱象白蚁（India）
+[*Nasutitermes anamalaiensis* 安纳马莱象白蚁]({{ site.base_url }}/species/nasutitermes-anamalaiensis/)（India）
 
-Nasutitermes anjiensis 安吉象白蚁（China）
+[*Nasutitermes anjiensis* 安吉象白蚁]({{ site.base_url }}/species/nasutitermes-anjiensis/)（China）
 
-Nasutitermes anoniensis 阿诺尼象白蚁（Bangladesh）
+[*Nasutitermes anoniensis* 阿诺尼象白蚁]({{ site.base_url }}/species/nasutitermes-anoniensis/)（Bangladesh）
 
-Nasutitermes aquilinus 鹰喙象白蚁（Brazil, Paraguay, Argentina, Colombia）
+[*Nasutitermes aquilinus* 鹰喙象白蚁]({{ site.base_url }}/species/nasutitermes-aquilinus/)（Brazil, Paraguay, Argentina, Colombia）
 
-Nasutitermes araujoi 阿劳若象白蚁（Brazil）
+[*Nasutitermes araujoi* 阿劳若象白蚁]({{ site.base_url }}/species/nasutitermes-araujoi/)（Brazil）
 
-Nasutitermes arborum 树生象白蚁（Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda）
+[*Nasutitermes arborum* 树生象白蚁]({{ site.base_url }}/species/nasutitermes-arborum/)（Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda）
 
-Nasutitermes arenarius 沙地象白蚁（Brazil, Suriname, Venezuela）
+[*Nasutitermes arenarius* 沙地象白蚁]({{ site.base_url }}/species/nasutitermes-arenarius/)（Brazil, Suriname, Venezuela）
 
-Nasutitermes aruensis 阿鲁象白蚁（Indonesia）
+[*Nasutitermes aruensis* 阿鲁象白蚁]({{ site.base_url }}/species/nasutitermes-aruensis/)（Indonesia）
 
-Nasutitermes atripennis 黑翅象白蚁（Indonesia, Malaysia, Philippines）
+[*Nasutitermes atripennis* 黑翅象白蚁]({{ site.base_url }}/species/nasutitermes-atripennis/)（Indonesia, Malaysia, Philippines）
 
-Nasutitermes aurantius 橙黄象白蚁（Panama）
+[*Nasutitermes aurantius* 橙黄象白蚁]({{ site.base_url }}/species/nasutitermes-aurantius/)（Panama）
 
-Nasutitermes balingtauagensis 巴林他象白蚁（Philippines）
+[*Nasutitermes balingtauagensis* 巴林他象白蚁]({{ site.base_url }}/species/nasutitermes-balingtauagensis/)（Philippines）
 
-Nasutitermes banksi 班克斯象白蚁（Brazil, French Guiana, Colombia, Guyana, Bolivia, Peru）
+[*Nasutitermes banksi* 班克斯象白蚁]({{ site.base_url }}/species/nasutitermes-banksi/)（Brazil, French Guiana, Colombia, Guyana, Bolivia, Peru）
 
-Nasutitermes bannaensis 版纳象白蚁（China）
+[*Nasutitermes bannaensis* 版纳象白蚁]({{ site.base_url }}/species/nasutitermes-bannaensis/)（China）
 
-Nasutitermes bashanensis 巴山象白蚁（China）
+[*Nasutitermes bashanensis* 巴山象白蚁]({{ site.base_url }}/species/nasutitermes-bashanensis/)（China）
 
-Nasutitermes benjamini 本杰明象白蚁（Mauritius）
+[*Nasutitermes benjamini* 本杰明象白蚁]({{ site.base_url }}/species/nasutitermes-benjamini/)（Mauritius）
 
-Nasutitermes bikpelanus 鼻大象白蚁（Papua New Guinea）
+[*Nasutitermes bikpelanus* 鼻大象白蚁]({{ site.base_url }}/species/nasutitermes-bikpelanus/)（Papua New Guinea）
 
-Nasutitermes bivalens 二价象白蚁（Brazil, Costa Rica, Colombia, Argentina）
+[*Nasutitermes bivalens* 二价象白蚁]({{ site.base_url }}/species/nasutitermes-bivalens/)（Brazil, Costa Rica, Colombia, Argentina）
 
-Nasutitermes boengiensis 博恩象白蚁（Indonesia）
+[*Nasutitermes boengiensis* 博恩象白蚁]({{ site.base_url }}/species/nasutitermes-boengiensis/)（Indonesia）
 
-Nasutitermes boetoni 博顿象白蚁（Indonesia）
+[*Nasutitermes boetoni* 博顿象白蚁]({{ site.base_url }}/species/nasutitermes-boetoni/)（Indonesia）
 
-Nasutitermes bolivari 玻利瓦尔象白蚁（Bolivia, Brazil, Venezuela）
+[*Nasutitermes bolivari* 玻利瓦尔象白蚁]({{ site.base_url }}/species/nasutitermes-bolivari/)（Bolivia, Brazil, Venezuela）
 
-Nasutitermes bolivianus 玻利维亚象白蚁（Bolivia）
+[*Nasutitermes bolivianus* 玻利维亚象白蚁]({{ site.base_url }}/species/nasutitermes-bolivianus/)（Bolivia）
 
-Nasutitermes brachynasutus 鼻短象白蚁（Thailand）
+[*Nasutitermes brachynasutus* 鼻短象白蚁]({{ site.base_url }}/species/nasutitermes-brachynasutus/)（Thailand）
 
-Nasutitermes brevioculatus 小眼象白蚁（Brazil, Argentina, Bolivia, Paraguay）
+[*Nasutitermes brevioculatus* 小眼象白蚁]({{ site.base_url }}/species/nasutitermes-brevioculatus/)（Brazil, Argentina, Bolivia, Paraguay）
 
-Nasutitermes brevirostris 短吻象白蚁（Marshall Islands, Micronesia, Palau）
+[*Nasutitermes brevirostris* 短吻象白蚁]({{ site.base_url }}/species/nasutitermes-brevirostris/)（Marshall Islands, Micronesia, Palau）
 
-Nasutitermes brunneus 棕色象白蚁（India）
+[*Nasutitermes brunneus* 棕色象白蚁]({{ site.base_url }}/species/nasutitermes-brunneus/)（India）
 
-Nasutitermes bulbiceps 葱头象白蚁（Malaysia）
+[*Nasutitermes bulbiceps* 葱头象白蚁]({{ site.base_url }}/species/nasutitermes-bulbiceps/)（Malaysia）
 
-Nasutitermes bulbus 胖头象白蚁（China）
+[*Nasutitermes bulbus* 胖头象白蚁]({{ site.base_url }}/species/nasutitermes-bulbus/)（China）
 
-Nasutitermes callimorphus 硬皮象白蚁（Brazil, Colombia, French Guiana, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guadeloupe (France), Martinique (France), Mexico, Panama, Paraguay, Peru, Venezuela）
+[*Nasutitermes callimorphus* 硬皮象白蚁]({{ site.base_url }}/species/nasutitermes-callimorphus/)（Brazil, Colombia, French Guiana, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guadeloupe (France), Martinique (France), Mexico, Panama, Paraguay, Peru, Venezuela）
 
-Nasutitermes camerunensis 喀麦隆象白蚁（Cameroon, Nigeria）
+[*Nasutitermes camerunensis* 喀麦隆象白蚁]({{ site.base_url }}/species/nasutitermes-camerunensis/)（Cameroon, Nigeria）
 
-Nasutitermes carnarvonensis 卡那封象白蚁（Australia）
+[*Nasutitermes carnarvonensis* 卡那封象白蚁]({{ site.base_url }}/species/nasutitermes-carnarvonensis/)（Australia）
 
-Nasutitermes castaneus 栗色象白蚁（Philippines）
+[*Nasutitermes castaneus* 栗色象白蚁]({{ site.base_url }}/species/nasutitermes-castaneus/)（Philippines）
 
-Nasutitermes celebensis 西里伯斯象白蚁（Indonesia）
+[*Nasutitermes celebensis* 西里伯斯象白蚁]({{ site.base_url }}/species/nasutitermes-celebensis/)（Indonesia）
 
-Nasutitermes centraliensis 中部象白蚁（Australia）
+[*Nasutitermes centraliensis* 中部象白蚁]({{ site.base_url }}/species/nasutitermes-centraliensis/)（Australia）
 
-Nasutitermes ceylonicus 锡兰象白蚁（Sri Lanka）
+[*Nasutitermes ceylonicus* 锡兰象白蚁]({{ site.base_url }}/species/nasutitermes-ceylonicus/)（Sri Lanka）
 
-Nasutitermes changningensis 长宁象白蚁（China）
+[*Nasutitermes changningensis* 长宁象白蚁]({{ site.base_url }}/species/nasutitermes-changningensis/)（China）
 
-Nasutitermes chapmani 查普曼象白蚁（Philippines）
+[*Nasutitermes chapmani* 查普曼象白蚁]({{ site.base_url }}/species/nasutitermes-chapmani/)（Philippines）
 
-Nasutitermes chaquimayensis 查基马约象白蚁（Brazil, Peru, Bolivia, Paraguay）
+[*Nasutitermes chaquimayensis* 查基马约象白蚁]({{ site.base_url }}/species/nasutitermes-chaquimayensis/)（Brazil, Peru, Bolivia, Paraguay）
 
-Nasutitermes cherraensis 乞拉象白蚁（India）
+[*Nasutitermes cherraensis* 乞拉象白蚁]({{ site.base_url }}/species/nasutitermes-cherraensis/)（India）
 
-Nasutitermes chhotanii 乔塔里象白蚁（India）
+[*Nasutitermes chhotanii* 乔塔里象白蚁]({{ site.base_url }}/species/nasutitermes-chhotanii/)（India）
 
-Nasutitermes choui 周氏象白蚁（China）
+[*Nasutitermes choui* 周氏象白蚁]({{ site.base_url }}/species/nasutitermes-choui/)（China）
 
-Nasutitermes chrysopleura 金纹象白蚁（Cameroon）
+[*Nasutitermes chrysopleura* 金纹象白蚁]({{ site.base_url }}/species/nasutitermes-chrysopleura/)（Cameroon）
 
-Nasutitermes coalescens 团结象白蚁（Australia）
+[*Nasutitermes coalescens* 团结象白蚁]({{ site.base_url }}/species/nasutitermes-coalescens/)（Australia）
 
-Nasutitermes colimae 科利马象白蚁（Mexico）
+[*Nasutitermes colimae* 科利马象白蚁]({{ site.base_url }}/species/nasutitermes-colimae/)（Mexico）
 
-Nasutitermes communis 圆头象白蚁（China）
+[*Nasutitermes communis* 圆头象白蚁]({{ site.base_url }}/species/nasutitermes-communis/)（China）
 
-Nasutitermes comorensis 科摩罗象白蚁（Comoros）
+[*Nasutitermes comorensis* 科摩罗象白蚁]({{ site.base_url }}/species/nasutitermes-comorensis/)（Comoros）
 
-Nasutitermes comstockae 科姆斯托克象白蚁（Colombia, Brazil, French Guiana）
+[*Nasutitermes comstockae* 科姆斯托克象白蚁]({{ site.base_url }}/species/nasutitermes-comstockae/)（Colombia, Brazil, French Guiana）
 
-\*Nasutitermes corniger 具角象白蚁（Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States）
+\*[*Nasutitermes corniger* 具角象白蚁]({{ site.base_url }}/species/nasutitermes-corniger/)（Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States）
 
-Nasutitermes corporaali 科尔波弱尔象白蚁（Indonesia）
+[*Nasutitermes corporaali* 科尔波弱尔象白蚁]({{ site.base_url }}/species/nasutitermes-corporaali/)（Indonesia）
 
-Nasutitermes coxipoensis 科西波象白蚁（Brazil, French Guiana, Argentina）
+[*Nasutitermes coxipoensis* 科西波象白蚁]({{ site.base_url }}/species/nasutitermes-coxipoensis/)（Brazil, French Guiana, Argentina）
 
-Nasutitermes crassicornis 厚角象白蚁（India）
+[*Nasutitermes crassicornis* 厚角象白蚁]({{ site.base_url }}/species/nasutitermes-crassicornis/)（India）
 
-Nasutitermes crassus 粗颚象白蚁（Bolivia）
+[*Nasutitermes crassus* 粗颚象白蚁]({{ site.base_url }}/species/nasutitermes-crassus/)（Bolivia）
 
-Nasutitermes curtinasus 短鼻象白蚁（China）
+[*Nasutitermes curtinasus* 短鼻象白蚁]({{ site.base_url }}/species/nasutitermes-curtinasus/)（China）
 
-Nasutitermes dasyopsis 毛脸象白蚁（Panama）
+[*Nasutitermes dasyopsis* 毛脸象白蚁]({{ site.base_url }}/species/nasutitermes-dasyopsis/)（Panama）
 
-Nasutitermes dendrophilus 喜树象白蚁（Ecuador, Brazil, Peru）
+[*Nasutitermes dendrophilus* 喜树象白蚁]({{ site.base_url }}/species/nasutitermes-dendrophilus/)（Ecuador, Brazil, Peru）
 
-Nasutitermes devrayi 德沃瑞象白蚁（India (Nicobar Islands)）
+[*Nasutitermes devrayi* 德沃瑞象白蚁]({{ site.base_url }}/species/nasutitermes-devrayi/)（India (Nicobar Islands)）
 
-Nasutitermes diabolus 魔鬼象白蚁（Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria, Uganda）
+[*Nasutitermes diabolus* 魔鬼象白蚁]({{ site.base_url }}/species/nasutitermes-diabolus/)（Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria, Uganda）
 
-Nasutitermes dimorphus 二型象白蚁（Malaysia, Thailand）
+[*Nasutitermes dimorphus* 二型象白蚁]({{ site.base_url }}/species/nasutitermes-dimorphus/)（Malaysia, Thailand）
 
-Nasutitermes dixoni 迪克森象白蚁（Australia）
+[*Nasutitermes dixoni* 迪克森象白蚁]({{ site.base_url }}/species/nasutitermes-dixoni/)（Australia）
 
-Nasutitermes dobonensis 多波象白蚁（Indonesia）
+[*Nasutitermes dobonensis* 多波象白蚁]({{ site.base_url }}/species/nasutitermes-dobonensis/)（Indonesia）
 
-Nasutitermes dolichorhinos 长鼻象白蚁（China）
+[*Nasutitermes dolichorhinos* 长鼻象白蚁]({{ site.base_url }}/species/nasutitermes-dolichorhinos/)（China）
 
-Nasutitermes dudgeoni 香港象白蚁（China）
+[*Nasutitermes dudgeoni* 香港象白蚁]({{ site.base_url }}/species/nasutitermes-dudgeoni/)（China）
 
-Nasutitermes dunensis 德拉敦象白蚁（India）
+[*Nasutitermes dunensis* 德拉敦象白蚁]({{ site.base_url }}/species/nasutitermes-dunensis/)（India）
 
-Nasutitermes ecuadorianus 厄瓜多尔象白蚁（Ecuador, Brazil）
+[*Nasutitermes ecuadorianus* 厄瓜多尔象白蚁]({{ site.base_url }}/species/nasutitermes-ecuadorianus/)（Ecuador, Brazil）
 
-Nasutitermes ehrhardti 埃尔哈特象白蚁（Brazil, Argentina）
+[*Nasutitermes ehrhardti* 埃尔哈特象白蚁]({{ site.base_url }}/species/nasutitermes-ehrhardti/)（Brazil, Argentina）
 
-Nasutitermes elegantulus 小雅象白蚁（Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda）
+[*Nasutitermes elegantulus* 小雅象白蚁]({{ site.base_url }}/species/nasutitermes-elegantulus/)（Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda）
 
-Nasutitermes emersoni 埃默森象白蚁（India, Bangladesh）
+[*Nasutitermes emersoni* 埃默森象白蚁]({{ site.base_url }}/species/nasutitermes-emersoni/)（India, Bangladesh）
 
-Nasutitermes ephratae 埃夫拉塔象白蚁（Mexico, Brazil, Colombia, Costa Rica, French Guiana, Panama, Belize, Bolivia, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Montserrat, Nicaragua, Paraguay, Peru, Puerto Rico, Suriname, Trinidad and Tobago, Venezuela, U.S. Virgin Islands）
+[*Nasutitermes ephratae* 埃夫拉塔象白蚁]({{ site.base_url }}/species/nasutitermes-ephratae/)（Mexico, Brazil, Colombia, Costa Rica, French Guiana, Panama, Belize, Bolivia, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Montserrat, Nicaragua, Paraguay, Peru, Puerto Rico, Suriname, Trinidad and Tobago, Venezuela, U.S. Virgin Islands）
 
-Nasutitermes eucalypti 桉树象白蚁（Australia）
+[*Nasutitermes eucalypti* 桉树象白蚁]({{ site.base_url }}/species/nasutitermes-eucalypti/)（Australia）
 
-Nasutitermes exitiosus 破坏象白蚁（Australia）
+[*Nasutitermes exitiosus* 破坏象白蚁]({{ site.base_url }}/species/nasutitermes-exitiosus/)（Australia）
 
-Nasutitermes fabricii 法布里克象白蚁（India）
+[*Nasutitermes fabricii* 法布里克象白蚁]({{ site.base_url }}/species/nasutitermes-fabricii/)（India）
 
-Nasutitermes falciformis 鹰鼻象白蚁（China）
+[*Nasutitermes falciformis* 鹰鼻象白蚁]({{ site.base_url }}/species/nasutitermes-falciformis/)（China）
 
-Nasutitermes fengkaiensis 封开象白蚁（China）
+[*Nasutitermes fengkaiensis* 封开象白蚁]({{ site.base_url }}/species/nasutitermes-fengkaiensis/)（China）
 
-Nasutitermes ferranti 费朗象白蚁（Democratic Republic of the Congo (Kinshasa), Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Nigeria）
+[*Nasutitermes ferranti* 费朗象白蚁]({{ site.base_url }}/species/nasutitermes-ferranti/)（Democratic Republic of the Congo (Kinshasa), Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Nigeria）
 
-Nasutitermes feytaudi 费淘德象白蚁（Brazil）
+[*Nasutitermes feytaudi* 费淘德象白蚁]({{ site.base_url }}/species/nasutitermes-feytaudi/)（Brazil）
 
-Nasutitermes fletcheri 弗莱彻象白蚁（India）
+[*Nasutitermes fletcheri* 弗莱彻象白蚁]({{ site.base_url }}/species/nasutitermes-fletcheri/)（India）
 
-Nasutitermes fulleri 富勒象白蚁（Democratic Republic of the Congo (Kinshasa), Nigeria, Angola, Cameroon, Central African Republic, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Sierra Leone, Uganda）
+[*Nasutitermes fulleri* 富勒象白蚁]({{ site.base_url }}/species/nasutitermes-fulleri/)（Democratic Republic of the Congo (Kinshasa), Nigeria, Angola, Cameroon, Central African Republic, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Sierra Leone, Uganda）
 
-Nasutitermes fumigatus 烟色象白蚁（Australia）
+[*Nasutitermes fumigatus* 烟色象白蚁]({{ site.base_url }}/species/nasutitermes-fumigatus/)（Australia）
 
-Nasutitermes fuscipennis 暗翅象白蚁（Malaysia, Thailand）
+[*Nasutitermes fuscipennis* 暗翅象白蚁]({{ site.base_url }}/species/nasutitermes-fuscipennis/)（Malaysia, Thailand）
 
-Nasutitermes gaigei 盖格象白蚁（Brazil, French Guiana, Colombia, Bolivia, Trinidad and Tobago, Guyana, Martinique (France), Venezuela）
+[*Nasutitermes gaigei* 盖格象白蚁]({{ site.base_url }}/species/nasutitermes-gaigei/)（Brazil, French Guiana, Colombia, Bolivia, Trinidad and Tobago, Guyana, Martinique (France), Venezuela）
 
-Nasutitermes gardneri 尖鼻象白蚁（Bhutan, China, India）
+[*Nasutitermes gardneri* 尖鼻象白蚁]({{ site.base_url }}/species/nasutitermes-gardneri/)（Bhutan, China, India）
 
-Nasutitermes gardneriformis 若尖象白蚁（China）
+[*Nasutitermes gardneriformis* 若尖象白蚁]({{ site.base_url }}/species/nasutitermes-gardneriformis/)（China）
 
-Nasutitermes garoensis 山地象白蚁（Bhutan, China, India）
+[*Nasutitermes garoensis* 山地象白蚁]({{ site.base_url }}/species/nasutitermes-garoensis/)（Bhutan, China, India）
 
-Nasutitermes glabritergus 光背象白蚁（Costa Rica, Panama, Guatemala, Ecuador）
+[*Nasutitermes glabritergus* 光背象白蚁]({{ site.base_url }}/species/nasutitermes-glabritergus/)（Costa Rica, Panama, Guatemala, Ecuador）
 
-Nasutitermes globiceps 球头象白蚁（Brazil, Bolivia, Colombia, Paraguay）
+[*Nasutitermes globiceps* 球头象白蚁]({{ site.base_url }}/species/nasutitermes-globiceps/)（Brazil, Bolivia, Colombia, Paraguay）
 
-Nasutitermes gracilirostris 细嘴象白蚁（Indonesia, Papua New Guinea）
+[*Nasutitermes gracilirostris* 细嘴象白蚁]({{ site.base_url }}/species/nasutitermes-gracilirostris/)（Indonesia, Papua New Guinea）
 
-Nasutitermes gracilis 细瘦象白蚁（Indonesia, Philippines）
+[*Nasutitermes gracilis* 细瘦象白蚁]({{ site.base_url }}/species/nasutitermes-gracilis/)（Indonesia, Philippines）
 
-Nasutitermes grandinasus 大鼻象白蚁（China）
+[*Nasutitermes grandinasus* 大鼻象白蚁]({{ site.base_url }}/species/nasutitermes-grandinasus/)（China）
 
-Nasutitermes graveolus 稍重象白蚁（Australia, Papua New Guinea）
+[*Nasutitermes graveolus* 稍重象白蚁]({{ site.base_url }}/species/nasutitermes-graveolus/)（Australia, Papua New Guinea）
 
-Nasutitermes guayanae 圭亚那象白蚁（Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago）
+[*Nasutitermes guayanae* 圭亚那象白蚁]({{ site.base_url }}/species/nasutitermes-guayanae/)（Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago）
 
-Nasutitermes guizhouensis 贵州象白蚁（China）
+[*Nasutitermes guizhouensis* 贵州象白蚁]({{ site.base_url }}/species/nasutitermes-guizhouensis/)（China）
 
-Nasutitermes haddoensis 哈多象白蚁（India）
+[*Nasutitermes haddoensis* 哈多象白蚁]({{ site.base_url }}/species/nasutitermes-haddoensis/)（India）
 
-Nasutitermes havilandi 哈维兰象白蚁（Singapore, Malaysia, Nigeria, Indonesia, Thailand）
+[*Nasutitermes havilandi* 哈维兰象白蚁]({{ site.base_url }}/species/nasutitermes-havilandi/)（Singapore, Malaysia, Nigeria, Indonesia, Thailand）
 
-Nasutitermes hejiangensis 合江象白蚁（China）
+[*Nasutitermes hejiangensis* 合江象白蚁]({{ site.base_url }}/species/nasutitermes-hejiangensis/)（China）
 
-Nasutitermes heterodon 异齿象白蚁（China）
+[*Nasutitermes heterodon* 异齿象白蚁]({{ site.base_url }}/species/nasutitermes-heterodon/)（China）
 
-Nasutitermes hexianensis 和县象白蚁（China）
+[*Nasutitermes hexianensis* 和县象白蚁]({{ site.base_url }}/species/nasutitermes-hexianensis/)（China）
 
-Nasutitermes hirticeps 毛头象白蚁（São Tomé and Príncipe）
+[*Nasutitermes hirticeps* 毛头象白蚁]({{ site.base_url }}/species/nasutitermes-hirticeps/)（São Tomé and Príncipe）
 
-Nasutitermes horni 霍恩象白蚁（Sri Lanka）
+[*Nasutitermes horni* 霍恩象白蚁]({{ site.base_url }}/species/nasutitermes-horni/)（Sri Lanka）
 
-Nasutitermes huangshanensis 黄山象白蚁（China）
+[*Nasutitermes huangshanensis* 黄山象白蚁]({{ site.base_url }}/species/nasutitermes-huangshanensis/)（China）
 
-Nasutitermes hubbardi 哈伯德象白蚁（Cuba, Dominican Republic, Jamaica, Haiti）
+[*Nasutitermes hubbardi* 哈伯德象白蚁]({{ site.base_url }}/species/nasutitermes-hubbardi/)（Cuba, Dominican Republic, Jamaica, Haiti）
 
-Nasutitermes inclinasus 倾鼻象白蚁（China）
+[*Nasutitermes inclinasus* 倾鼻象白蚁]({{ site.base_url }}/species/nasutitermes-inclinasus/)（China）
 
-Nasutitermes indicola 印度象白蚁（India）
+[*Nasutitermes indicola* 印度象白蚁]({{ site.base_url }}/species/nasutitermes-indicola/)（India）
 
-Nasutitermes infuscatus 暗色象白蚁（Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Tanzania, Zimbabwe, Democratic Republic of the Congo (Kinshasa)）
+[*Nasutitermes infuscatus* 暗色象白蚁]({{ site.base_url }}/species/nasutitermes-infuscatus/)（Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Tanzania, Zimbabwe, Democratic Republic of the Congo (Kinshasa)）
 
-Nasutitermes itapocuensis 伊塔波库象白蚁（Brazil, Argentina）
+[*Nasutitermes itapocuensis* 伊塔波库象白蚁]({{ site.base_url }}/species/nasutitermes-itapocuensis/)（Brazil, Argentina）
 
-Nasutitermes jacobsoni 雅各布森象白蚁（Indonesia）
+[*Nasutitermes jacobsoni* 雅各布森象白蚁]({{ site.base_url }}/species/nasutitermes-jacobsoni/)（Indonesia）
 
-Nasutitermes jalpaigurensis 杰尔拜古里象白蚁（Bangladesh, India）
+[*Nasutitermes jalpaigurensis* 杰尔拜古里象白蚁]({{ site.base_url }}/species/nasutitermes-jalpaigurensis/)（Bangladesh, India）
 
-Nasutitermes jaraguae 哈拉瓜象白蚁（Brazil, Argentina）
+[*Nasutitermes jaraguae* 哈拉瓜象白蚁]({{ site.base_url }}/species/nasutitermes-jaraguae/)（Brazil, Argentina）
 
-Nasutitermes javanicus 爪哇象白蚁（Indonesia）
+[*Nasutitermes javanicus* 爪哇象白蚁]({{ site.base_url }}/species/nasutitermes-javanicus/)（Indonesia）
 
-Nasutitermes jiangxiensis 江西象白蚁（China）
+[*Nasutitermes jiangxiensis* 江西象白蚁]({{ site.base_url }}/species/nasutitermes-jiangxiensis/)（China）
 
-Nasutitermes johoricus 柔佛象白蚁（Malaysia, Thailand）
+[*Nasutitermes johoricus* 柔佛象白蚁]({{ site.base_url }}/species/nasutitermes-johoricus/)（Malaysia, Thailand）
 
-Nasutitermes kali 卡尔象白蚁（India）
+[*Nasutitermes kali* 卡尔象白蚁]({{ site.base_url }}/species/nasutitermes-kali/)（India）
 
-Nasutitermes kemneri 凯姆勒象白蚁（Brazil, Bolivia）
+[*Nasutitermes kemneri* 凯姆勒象白蚁]({{ site.base_url }}/species/nasutitermes-kemneri/)（Brazil, Bolivia）
 
-Nasutitermes kempae 肯帕象白蚁（Kenya, Malawi, Mozambique, South Africa, Tanzania）
+[*Nasutitermes kempae* 肯帕象白蚁]({{ site.base_url }}/species/nasutitermes-kempae/)（Kenya, Malawi, Mozambique, South Africa, Tanzania）
 
-Nasutitermes kimberleyensis 金伯利象白蚁（Australia）
+[*Nasutitermes kimberleyensis* 金伯利象白蚁]({{ site.base_url }}/species/nasutitermes-kimberleyensis/)（Australia）
 
-Nasutitermes kinoshitai 木下象白蚁（China (Taiwan)）
+[*Nasutitermes kinoshitai* 木下象白蚁]({{ site.base_url }}/species/nasutitermes-kinoshitai/)（China (Taiwan)）
 
-Nasutitermes koiari 科伊阿瑞象白蚁（Australia, Papua New Guinea）
+[*Nasutitermes koiari* 科伊阿瑞象白蚁]({{ site.base_url }}/species/nasutitermes-koiari/)（Australia, Papua New Guinea）
 
-Nasutitermes krishna 克里希纳象白蚁（India）
+[*Nasutitermes krishna* 克里希纳象白蚁]({{ site.base_url }}/species/nasutitermes-krishna/)（India）
 
-Nasutitermes lacustris 湖泊象白蚁（Sri Lanka）
+[*Nasutitermes lacustris* 湖泊象白蚁]({{ site.base_url }}/species/nasutitermes-lacustris/)（Sri Lanka）
 
-Nasutitermes latifrons 宽额象白蚁（Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda）
+[*Nasutitermes latifrons* 宽额象白蚁]({{ site.base_url }}/species/nasutitermes-latifrons/)（Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda）
 
-Nasutitermes latus 宽阔象白蚁（Philippines）
+[*Nasutitermes latus* 宽阔象白蚁]({{ site.base_url }}/species/nasutitermes-latus/)（Philippines）
 
-Nasutitermes leponcei 莱波斯象白蚁（Indonesia, Papua New Guinea）
+[*Nasutitermes leponcei* 莱波斯象白蚁]({{ site.base_url }}/species/nasutitermes-leponcei/)（Indonesia, Papua New Guinea）
 
-Nasutitermes lividus 青色象白蚁（Haiti, Cuba, Dominican Republic）
+[*Nasutitermes lividus* 青色象白蚁]({{ site.base_url }}/species/nasutitermes-lividus/)（Haiti, Cuba, Dominican Republic）
 
-Nasutitermes llinquipatensis 林奎帕塔象白蚁（Brazil, Ecuador, Peru）
+[*Nasutitermes llinquipatensis* 林奎帕塔象白蚁]({{ site.base_url }}/species/nasutitermes-llinquipatensis/)（Brazil, Ecuador, Peru）
 
-Nasutitermes longiarticulatus 显长象白蚁（Brazil）
+[*Nasutitermes longiarticulatus* 显长象白蚁]({{ site.base_url }}/species/nasutitermes-longiarticulatus/)（Brazil）
 
-Nasutitermes longinasoides 似鼻长象白蚁（Singapore, Indonesia, Malaysia）
+[*Nasutitermes longinasoides* 似鼻长象白蚁]({{ site.base_url }}/species/nasutitermes-longinasoides/)（Singapore, Indonesia, Malaysia）
 
-Nasutitermes longinasus 鼻长象白蚁（Malaysia, Indonesia, Singapore）
+[*Nasutitermes longinasus* 鼻长象白蚁]({{ site.base_url }}/species/nasutitermes-longinasus/)（Malaysia, Indonesia, Singapore）
 
-Nasutitermes longipennis 长翅象白蚁（Australia）
+[*Nasutitermes longipennis* 长翅象白蚁]({{ site.base_url }}/species/nasutitermes-longipennis/)（Australia）
 
-Nasutitermes longirostratus 喙长象白蚁（Bolivia, Peru）
+[*Nasutitermes longirostratus* 喙长象白蚁]({{ site.base_url }}/species/nasutitermes-longirostratus/)（Bolivia, Peru）
 
-Nasutitermes longirostris 长喙象白蚁（Indonesia, Malaysia）
+[*Nasutitermes longirostris* 长喙象白蚁]({{ site.base_url }}/species/nasutitermes-longirostris/)（Indonesia, Malaysia）
 
-longirostris 指名亚种
+[*longirostris* 指名亚种]({{ site.base_url }}/species/nasutitermes-longirostris-longirostris/)
 
-sabahicola 沙巴亚种
+[*sabahicola* 沙巴亚种]({{ site.base_url }}/species/nasutitermes-longirostris-sabahicola/)
 
-Nasutitermes longwangshanensis 龙王山象白蚁（China）
+[*Nasutitermes longwangshanensis* 龙王山象白蚁]({{ site.base_url }}/species/nasutitermes-longwangshanensis/)（China）
 
-Nasutitermes lujae 卢哈象白蚁（Cameroon, Nigeria, Gabon, Uganda, Angola, Congo (Brazzaville), Democratic Republic of the Congo, Ghana, Côte d'Ivoire）
+[*Nasutitermes lujae* 卢哈象白蚁]({{ site.base_url }}/species/nasutitermes-lujae/)（Cameroon, Nigeria, Gabon, Uganda, Angola, Congo (Brazzaville), Democratic Republic of the Congo, Ghana, Côte d'Ivoire）
 
-Nasutitermes luzonicus 吕宋象白蚁（Indonesia, Guam (USA), Malaysia, Philippines）
+[*Nasutitermes luzonicus* 吕宋象白蚁]({{ site.base_url }}/species/nasutitermes-luzonicus/)（Indonesia, Guam (USA), Malaysia, Philippines）
 
-Nasutitermes machengensis 麻城象白蚁（China）
+[*Nasutitermes machengensis* 麻城象白蚁]({{ site.base_url }}/species/nasutitermes-machengensis/)（China）
 
-Nasutitermes macrocephalus 大头象白蚁（Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela）
+[*Nasutitermes macrocephalus* 大头象白蚁]({{ site.base_url }}/species/nasutitermes-macrocephalus/)（Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela）
 
-Nasutitermes magnus 巨大象白蚁（Australia）
+[*Nasutitermes magnus* 巨大象白蚁]({{ site.base_url }}/species/nasutitermes-magnus/)（Australia）
 
-Nasutitermes maheensis 马埃象白蚁（Seychelles）
+[*Nasutitermes maheensis* 马埃象白蚁]({{ site.base_url }}/species/nasutitermes-maheensis/)（Seychelles）
 
-Nasutitermes major 大型象白蚁（Brazil, Peru, Colombia, Bolivia）
+[*Nasutitermes major* 大型象白蚁]({{ site.base_url }}/species/nasutitermes-major/)（Brazil, Peru, Colombia, Bolivia）
 
-Nasutitermes makassarensis 望加锡象白蚁（Indonesia）
+[*Nasutitermes makassarensis* 望加锡象白蚁]({{ site.base_url }}/species/nasutitermes-makassarensis/)（Indonesia）
 
-Nasutitermes mangshanensis 莽山象白蚁（China）
+[*Nasutitermes mangshanensis* 莽山象白蚁]({{ site.base_url }}/species/nasutitermes-mangshanensis/)（China）
 
-Nasutitermes maniseri 马尼塞象白蚁（Brazil）
+[*Nasutitermes maniseri* 马尼塞象白蚁]({{ site.base_url }}/species/nasutitermes-maniseri/)（Brazil）
 
-Nasutitermes matangensis 马登象白蚁（Bangladesh, India, Myanmar, Thailand, Malaysia, Indonesia, Cambodia, Vietnam）
+[*Nasutitermes matangensis* 马登象白蚁]({{ site.base_url }}/species/nasutitermes-matangensis/)（Bangladesh, India, Myanmar, Thailand, Malaysia, Indonesia, Cambodia, Vietnam）
 
-christmasensis 圣诞岛亚种
+[*christmasensis* 圣诞岛亚种]({{ site.base_url }}/species/nasutitermes-matangensis-christmasensis/)
 
-matangensioides 似马登亚种
+[*matangensioides* 似马登亚种]({{ site.base_url }}/species/nasutitermes-matangensis-matangensioides/)
 
-matangensis 指名亚种
+[*matangensis* 指名亚种]({{ site.base_url }}/species/nasutitermes-matangensis-matangensis/)
 
-pyricephalus 梨头亚种
+[*pyricephalus* 梨头亚种]({{ site.base_url }}/species/nasutitermes-matangensis-pyricephalus/)
 
-Nasutitermes mauritianus 毛里求斯象白蚁（Madagascar, Mauritius）
+[*Nasutitermes mauritianus* 毛里求斯象白蚁]({{ site.base_url }}/species/nasutitermes-mauritianus/)（Madagascar, Mauritius）
 
-Nasutitermes maximus 最大象白蚁（Peru）
+[*Nasutitermes maximus* 最大象白蚁]({{ site.base_url }}/species/nasutitermes-maximus/)（Peru）
 
-Nasutitermes medoensis 墨脱象白蚁（China）
+[*Nasutitermes medoensis* 墨脱象白蚁]({{ site.base_url }}/species/nasutitermes-medoensis/)（China）
 
-Nasutitermes meinerti 迈纳特象白蚁（Venezuela）
+[*Nasutitermes meinerti* 迈纳特象白蚁]({{ site.base_url }}/species/nasutitermes-meinerti/)（Venezuela）
 
-Nasutitermes meridianus 南方象白蚁（Philippines）
+[*Nasutitermes meridianus* 南方象白蚁]({{ site.base_url }}/species/nasutitermes-meridianus/)（Philippines）
 
-Nasutitermes mindanensis 棉兰老岛象白蚁（Philippines）
+[*Nasutitermes mindanensis* 棉兰老岛象白蚁]({{ site.base_url }}/species/nasutitermes-mindanensis/)（Philippines）
 
-Nasutitermes minimus 最小象白蚁（Brazil, Peru, Bolivia）
+[*Nasutitermes minimus* 最小象白蚁]({{ site.base_url }}/species/nasutitermes-minimus/)（Brazil, Peru, Bolivia）
 
-Nasutitermes minor 小型象白蚁（Bolivia, Brazil）
+[*Nasutitermes minor* 小型象白蚁]({{ site.base_url }}/species/nasutitermes-minor/)（Bolivia, Brazil）
 
-Nasutitermes mirabilis 奇鼻象白蚁（China）
+[*Nasutitermes mirabilis* 奇鼻象白蚁]({{ site.base_url }}/species/nasutitermes-mirabilis/)（China）
 
-Nasutitermes mojosensis 莫霍斯象白蚁（Bolivia, Peru）
+[*Nasutitermes mojosensis* 莫霍斯象白蚁]({{ site.base_url }}/species/nasutitermes-mojosensis/)（Bolivia, Peru）
 
-Nasutitermes mollis 柔软象白蚁（Philippines）
+[*Nasutitermes mollis* 柔软象白蚁]({{ site.base_url }}/species/nasutitermes-mollis/)（Philippines）
 
-Nasutitermes montanae 大山象白蚁（Suriname）
+[*Nasutitermes montanae* 大山象白蚁]({{ site.base_url }}/species/nasutitermes-montanae/)（Suriname）
 
-Nasutitermes moratus 拖延象白蚁（China, India）
+[*Nasutitermes moratus* 拖延象白蚁]({{ site.base_url }}/species/nasutitermes-moratus/)（China, India）
 
-Nasutitermes motu 易动象白蚁（Papua New Guinea）
+[*Nasutitermes motu* 易动象白蚁]({{ site.base_url }}/species/nasutitermes-motu/)（Papua New Guinea）
 
-Nasutitermes muli 柑橘象白蚁（Papua New Guinea）
+[*Nasutitermes muli* 柑橘象白蚁]({{ site.base_url }}/species/nasutitermes-muli/)（Papua New Guinea）
 
-Nasutitermes myersi 迈尔斯象白蚁（Brazil）
+[*Nasutitermes myersi* 迈尔斯象白蚁]({{ site.base_url }}/species/nasutitermes-myersi/)（Brazil）
 
-Nasutitermes neonanus 新鼻象白蚁（Madagascar）
+[*Nasutitermes neonanus* 新鼻象白蚁]({{ site.base_url }}/species/nasutitermes-neonanus/)（Madagascar）
 
-Nasutitermes neoparvus 新微象白蚁（Brunei, Indonesia, Malaysia）
+[*Nasutitermes neoparvus* 新微象白蚁]({{ site.base_url }}/species/nasutitermes-neoparvus/)（Brunei, Indonesia, Malaysia）
 
-Nasutitermes nigriceps 黑头象白蚁（Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands）
+[*Nasutitermes nigriceps* 黑头象白蚁]({{ site.base_url }}/species/nasutitermes-nigriceps/)（Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands）
 
-Nasutitermes nomadensis 诺马德象白蚁（Papua New Guinea）
+[*Nasutitermes nomadensis* 诺马德象白蚁]({{ site.base_url }}/species/nasutitermes-nomadensis/)（Papua New Guinea）
 
-Nasutitermes nordenskioldi 努登舍尔德象白蚁（Argentina, Paraguay, Bolivia）
+[*Nasutitermes nordenskioldi* 努登舍尔德象白蚁]({{ site.base_url }}/species/nasutitermes-nordenskioldi/)（Argentina, Paraguay, Bolivia）
 
-Nasutitermes novarumhebridarum 新赫布里底象白蚁（Solomon Islands, New Caledonia (France), Papua New Guinea, Vanuatu）
+[*Nasutitermes novarumhebridarum* 新赫布里底象白蚁]({{ site.base_url }}/species/nasutitermes-novarumhebridarum/)（Solomon Islands, New Caledonia (France), Papua New Guinea, Vanuatu）
 
-Nasutitermes obscurus 昏暗象白蚁（Peru, Brazil, French Guiana）
+[*Nasutitermes obscurus* 昏暗象白蚁]({{ site.base_url }}/species/nasutitermes-obscurus/)（Peru, Brazil, French Guiana）
 
-Nasutitermes obtusimandibulus 钝颚象白蚁（China）
+[*Nasutitermes obtusimandibulus* 钝颚象白蚁]({{ site.base_url }}/species/nasutitermes-obtusimandibulus/)（China）
 
-Nasutitermes octopilis 八毛象白蚁（Brazil, French Guiana, Colombia, Guyana, India, Peru, Ecuador, Venezuela）
+[*Nasutitermes octopilis* 八毛象白蚁]({{ site.base_url }}/species/nasutitermes-octopilis/)（Brazil, French Guiana, Colombia, Guyana, India, Peru, Ecuador, Venezuela）
 
-Nasutitermes oculatus 眼显象白蚁（Sri Lanka）
+[*Nasutitermes oculatus* 眼显象白蚁]({{ site.base_url }}/species/nasutitermes-oculatus/)（Sri Lanka）
 
-Nasutitermes olidus 臭味象白蚁（Fiji）
+[*Nasutitermes olidus* 臭味象白蚁]({{ site.base_url }}/species/nasutitermes-olidus/)（Fiji）
 
-Nasutitermes orthonasus 直鼻象白蚁（China）
+[*Nasutitermes orthonasus* 直鼻象白蚁]({{ site.base_url }}/species/nasutitermes-orthonasus/)（China）
 
-Nasutitermes oshimai 大岛象白蚁（Philippines）
+[*Nasutitermes oshimai* 大岛象白蚁]({{ site.base_url }}/species/nasutitermes-oshimai/)（Philippines）
 
-Nasutitermes ovatus 卵头象白蚁（China, Vietnam）
+[*Nasutitermes ovatus* 卵头象白蚁]({{ site.base_url }}/species/nasutitermes-ovatus/)（China, Vietnam）
 
-Nasutitermes ovipennis 椭圆翅象白蚁（Malaysia）
+[*Nasutitermes ovipennis* 椭圆翅象白蚁]({{ site.base_url }}/species/nasutitermes-ovipennis/)（Malaysia）
 
-Nasutitermes palaoensis 帕劳象白蚁（Micronesia）
+[*Nasutitermes palaoensis* 帕劳象白蚁]({{ site.base_url }}/species/nasutitermes-palaoensis/)（Micronesia）
 
-Nasutitermes panayensis 班乃象白蚁（Philippines）
+[*Nasutitermes panayensis* 班乃象白蚁]({{ site.base_url }}/species/nasutitermes-panayensis/)（Philippines）
 
-Nasutitermes parviceps 小头象白蚁（China）
+[*Nasutitermes parviceps* 小头象白蚁]({{ site.base_url }}/species/nasutitermes-parviceps/)（China）
 
-Nasutitermes parvonasutus 小象白蚁（China (Taiwan)）
+[*Nasutitermes parvonasutus* 小象白蚁]({{ site.base_url }}/species/nasutitermes-parvonasutus/)（China (Taiwan)）
 
-Nasutitermes parvus 微象白蚁（Philippines）
+[*Nasutitermes parvus* 微象白蚁]({{ site.base_url }}/species/nasutitermes-parvus/)（Philippines）
 
-Nasutitermes perparvus 似微象白蚁（Vietnam, Malaysia, Thailand）
+[*Nasutitermes perparvus* 似微象白蚁]({{ site.base_url }}/species/nasutitermes-perparvus/)（Vietnam, Malaysia, Thailand）
 
-Nasutitermes peruanus 秘鲁象白蚁（Peru, Ecuador, Brazil, Bolivia）
+[*Nasutitermes peruanus* 秘鲁象白蚁]({{ site.base_url }}/species/nasutitermes-peruanus/)（Peru, Ecuador, Brazil, Bolivia）
 
-Nasutitermes pictus 着色象白蚁（Mexico）
+[*Nasutitermes pictus* 着色象白蚁]({{ site.base_url }}/species/nasutitermes-pictus/)（Mexico）
 
-Nasutitermes pilosus 多毛象白蚁（Brazil, French Guiana, Bolivia）
+[*Nasutitermes pilosus* 多毛象白蚁]({{ site.base_url }}/species/nasutitermes-pilosus/)（Brazil, French Guiana, Bolivia）
 
-Nasutitermes pinocchio 皮诺基奥象白蚁（Indonesia, Papua New Guinea）
+[*Nasutitermes pinocchio* 皮诺基奥象白蚁]({{ site.base_url }}/species/nasutitermes-pinocchio/)（Indonesia, Papua New Guinea）
 
-Nasutitermes planiusculus 平圆象白蚁（China）
+[*Nasutitermes planiusculus* 平圆象白蚁]({{ site.base_url }}/species/nasutitermes-planiusculus/)（China）
 
-Nasutitermes pluriarticulatus 多节象白蚁（Brazil, Argentina, Uruguay）
+[*Nasutitermes pluriarticulatus* 多节象白蚁]({{ site.base_url }}/species/nasutitermes-pluriarticulatus/)（Brazil, Argentina, Uruguay）
 
-Nasutitermes pluvialis 招雨象白蚁（Australia）
+[*Nasutitermes pluvialis* 招雨象白蚁]({{ site.base_url }}/species/nasutitermes-pluvialis/)（Australia）
 
-Nasutitermes princeps 第一象白蚁（Australia, Indonesia, Papua New Guinea）
+[*Nasutitermes princeps* 第一象白蚁]({{ site.base_url }}/species/nasutitermes-princeps/)（Australia, Indonesia, Papua New Guinea）
 
-Nasutitermes proatripennis 似黑翅象白蚁（Malaysia, Thailand）
+[*Nasutitermes proatripennis* 似黑翅象白蚁]({{ site.base_url }}/species/nasutitermes-proatripennis/)（Malaysia, Thailand）
 
-Nasutitermes profuscipennis 似暗翅象白蚁（Bangladesh, India, Thailand）
+[*Nasutitermes profuscipennis* 似暗翅象白蚁]({{ site.base_url }}/species/nasutitermes-profuscipennis/)（Bangladesh, India, Thailand）
 
-Nasutitermes projectus 喷射象白蚁（Australia）
+[*Nasutitermes projectus* 喷射象白蚁]({{ site.base_url }}/species/nasutitermes-projectus/)（Australia）
 
-Nasutitermes proximus 最新象白蚁（Brazil, Uruguay）
+[*Nasutitermes proximus* 最新象白蚁]({{ site.base_url }}/species/nasutitermes-proximus/)（Brazil, Uruguay）
 
-Nasutitermes qimenensis 祁门象白蚁（China）
+[*Nasutitermes qimenensis* 祁门象白蚁]({{ site.base_url }}/species/nasutitermes-qimenensis/)（China）
 
-Nasutitermes qingjiensis 庆界象白蚁（China）
+[*Nasutitermes qingjiensis* 庆界象白蚁]({{ site.base_url }}/species/nasutitermes-qingjiensis/)（China）
 
-Nasutitermes rectangularis 直角象白蚁（Malaysia）
+[*Nasutitermes rectangularis* 直角象白蚁]({{ site.base_url }}/species/nasutitermes-rectangularis/)（Malaysia）
 
-Nasutitermes regularis 规律象白蚁（Malaysia）
+[*Nasutitermes regularis* 规律象白蚁]({{ site.base_url }}/species/nasutitermes-regularis/)（Malaysia）
 
-Nasutitermes retus 红色象白蚁（Indonesia）
+[*Nasutitermes retus* 红色象白蚁]({{ site.base_url }}/species/nasutitermes-retus/)（Indonesia）
 
-Nasutitermes rippertii 里珀特象白蚁（Cuba, Bahamas, Jamaica）
+[*Nasutitermes rippertii* 里珀特象白蚁]({{ site.base_url }}/species/nasutitermes-rippertii/)（Cuba, Bahamas, Jamaica）
 
-Nasutitermes roboratus 强壮象白蚁（Myanmar）
+[*Nasutitermes roboratus* 强壮象白蚁]({{ site.base_url }}/species/nasutitermes-roboratus/)（Myanmar）
 
-Nasutitermes rotundatus 圆形象白蚁（Brazil, Peru, Argentina, Bolivia, Colombia, Ecuador）
+[*Nasutitermes rotundatus* 圆形象白蚁]({{ site.base_url }}/species/nasutitermes-rotundatus/)（Brazil, Peru, Argentina, Bolivia, Colombia, Ecuador）
 
-Nasutitermes rotundus 球形象白蚁（Philippines）
+[*Nasutitermes rotundus* 球形象白蚁]({{ site.base_url }}/species/nasutitermes-rotundus/)（Philippines）
 
-Nasutitermes saleierensis 萨莱尔象白蚁（Indonesia）
+[*Nasutitermes saleierensis* 萨莱尔象白蚁]({{ site.base_url }}/species/nasutitermes-saleierensis/)（Indonesia）
 
-Nasutitermes sanctaeanae 圣安娜象白蚁（Paraguay, Argentina）
+[*Nasutitermes sanctaeanae* 圣安娜象白蚁]({{ site.base_url }}/species/nasutitermes-sanctaeanae/)（Paraguay, Argentina）
 
-Nasutitermes sandakensis 山打根象白蚁（Malaysia）
+[*Nasutitermes sandakensis* 山打根象白蚁]({{ site.base_url }}/species/nasutitermes-sandakensis/)（Malaysia）
 
-Nasutitermes schoutedeni 斯考特登象白蚁（Angola, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Côte d'Ivoire, Nigeria, Uganda, Democratic Republic of the Congo (Kinshasa)）
+[*Nasutitermes schoutedeni* 斯考特登象白蚁]({{ site.base_url }}/species/nasutitermes-schoutedeni/)（Angola, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Côte d'Ivoire, Nigeria, Uganda, Democratic Republic of the Congo (Kinshasa)）
 
-Nasutitermes seghersi 西格象白蚁（Tanzania, Papua New Guinea）
+[*Nasutitermes seghersi* 西格象白蚁]({{ site.base_url }}/species/nasutitermes-seghersi/)（Tanzania, Papua New Guinea）
 
-malangganus 马兰干亚种
+[*malangganus* 马兰干亚种]({{ site.base_url }}/species/nasutitermes-seghersi-malangganus/)
 
-seghersi 指名亚种
+[*seghersi* 指名亚种]({{ site.base_url }}/species/nasutitermes-seghersi-seghersi/)
 
-Nasutitermes shangchengensis 商城象白蚁（China）
+[*Nasutitermes shangchengensis* 商城象白蚁]({{ site.base_url }}/species/nasutitermes-shangchengensis/)（China）
 
-Nasutitermes simaluris 锡默卢象白蚁（Indonesia）
+[*Nasutitermes simaluris* 锡默卢象白蚁]({{ site.base_url }}/species/nasutitermes-simaluris/)（Indonesia）
 
-Nasutitermes similis 相似象白蚁（Brazil, French Guiana, Colombia, Guyana, Suriname, Ecuador, Peru, Venezuela）
+[*Nasutitermes similis* 相似象白蚁]({{ site.base_url }}/species/nasutitermes-similis/)（Brazil, French Guiana, Colombia, Guyana, Suriname, Ecuador, Peru, Venezuela）
 
-Nasutitermes simulans 模仿象白蚁（Philippines）
+[*Nasutitermes simulans* 模仿象白蚁]({{ site.base_url }}/species/nasutitermes-simulans/)（Philippines）
 
-Nasutitermes sinensis 中华象白蚁（China）
+[*Nasutitermes sinensis* 中华象白蚁]({{ site.base_url }}/species/nasutitermes-sinensis/)（China）
 
-Nasutitermes smithi 史密斯象白蚁（Australia）
+[*Nasutitermes smithi* 史密斯象白蚁]({{ site.base_url }}/species/nasutitermes-smithi/)（Australia）
 
-Nasutitermes stricticeps 缩头象白蚁（Brazil, Venezuela）
+[*Nasutitermes stricticeps* 缩头象白蚁]({{ site.base_url }}/species/nasutitermes-stricticeps/)（Brazil, Venezuela）
 
-Nasutitermes subtibetanus 亚藏象白蚁（China）
+[*Nasutitermes subtibetanus* 亚藏象白蚁]({{ site.base_url }}/species/nasutitermes-subtibetanus/)（China）
 
-Nasutitermes subtibialis 亚径象白蚁（China）
+[*Nasutitermes subtibialis* 亚径象白蚁]({{ site.base_url }}/species/nasutitermes-subtibialis/)（China）
 
-Nasutitermes suknensis 苏克纳象白蚁（India）
+[*Nasutitermes suknensis* 苏克纳象白蚁]({{ site.base_url }}/species/nasutitermes-suknensis/)（India）
 
-Nasutitermes surinamensis 苏里南象白蚁（Brazil, Colombia, French Guiana, Bolivia, Guyana, Peru, Ecuador, Suriname, Venezuela）
+[*Nasutitermes surinamensis* 苏里南象白蚁]({{ site.base_url }}/species/nasutitermes-surinamensis/)（Brazil, Colombia, French Guiana, Bolivia, Guyana, Peru, Ecuador, Suriname, Venezuela）
 
-Nasutitermes takasagoensis 高砂象白蚁（Japan, Guam, Taiwan, China, Christmas Island）
+[*Nasutitermes takasagoensis* 高砂象白蚁]({{ site.base_url }}/species/nasutitermes-takasagoensis/)（Japan, Guam, Taiwan, China, Christmas Island）
 
-Nasutitermes tandoni 坦登象白蚁（India）
+[*Nasutitermes tandoni* 坦登象白蚁]({{ site.base_url }}/species/nasutitermes-tandoni/)（India）
 
-Nasutitermes tatarendae 塔塔恩达象白蚁（Brazil, Peru, Argentina, Bolivia, Paraguay）
+[*Nasutitermes tatarendae* 塔塔恩达象白蚁]({{ site.base_url }}/species/nasutitermes-tatarendae/)（Brazil, Peru, Argentina, Bolivia, Paraguay）
 
-Nasutitermes taylori 泰勒象白蚁（Philippines）
+[*Nasutitermes taylori* 泰勒象白蚁]({{ site.base_url }}/species/nasutitermes-taylori/)（Philippines）
 
-Nasutitermes thanensis 塔诺象白蚁（India）
+[*Nasutitermes thanensis* 塔诺象白蚁]({{ site.base_url }}/species/nasutitermes-thanensis/)（India）
 
-Nasutitermes tianmuensis 天目象白蚁（China）
+[*Nasutitermes tianmuensis* 天目象白蚁]({{ site.base_url }}/species/nasutitermes-tianmuensis/)（China）
 
-Nasutitermes tiantongensis 天童象白蚁（China）
+[*Nasutitermes tiantongensis* 天童象白蚁]({{ site.base_url }}/species/nasutitermes-tiantongensis/)（China）
 
-Nasutitermes tibetanus 西藏象白蚁（China）
+[*Nasutitermes tibetanus* 西藏象白蚁]({{ site.base_url }}/species/nasutitermes-tibetanus/)（China）
 
-Nasutitermes timoriensis 帝汶象白蚁（Indonesia）
+[*Nasutitermes timoriensis* 帝汶象白蚁]({{ site.base_url }}/species/nasutitermes-timoriensis/)（Indonesia）
 
-Nasutitermes tipuanicus 蒂普阿尼象白蚁（Bolivia, Paraguay）
+[*Nasutitermes tipuanicus* 蒂普阿尼象白蚁]({{ site.base_url }}/species/nasutitermes-tipuanicus/)（Bolivia, Paraguay）
 
-Nasutitermes torresi 托里斯象白蚁（Australia, Papua New Guinea）
+[*Nasutitermes torresi* 托里斯象白蚁]({{ site.base_url }}/species/nasutitermes-torresi/)（Australia, Papua New Guinea）
 
-Nasutitermes tredecimarticulatus 十三节象白蚁（Brazil, Ecuador）
+[*Nasutitermes tredecimarticulatus* 十三节象白蚁]({{ site.base_url }}/species/nasutitermes-tredecimarticulatus/)（Brazil, Ecuador）
 
-Nasutitermes triloki 特里洛克象白蚁（India）
+[*Nasutitermes triloki* 特里洛克象白蚁]({{ site.base_url }}/species/nasutitermes-triloki/)（India）
 
-Nasutitermes triodiae 三齿程草象白蚁（Australia, Papua New Guinea）
+[*Nasutitermes triodiae* 三齿程草象白蚁]({{ site.base_url }}/species/nasutitermes-triodiae/)（Australia, Papua New Guinea）
 
-Nasutitermes tsaii 蔡氏象白蚁（China）
+[*Nasutitermes tsaii* 蔡氏象白蚁]({{ site.base_url }}/species/nasutitermes-tsaii/)（China）
 
-Nasutitermes tungsalangensis 通沙朗象白蚁（Malaysia, Thailand）
+[*Nasutitermes tungsalangensis* 通沙朗象白蚁]({{ site.base_url }}/species/nasutitermes-tungsalangensis/)（Malaysia, Thailand）
 
-Nasutitermes unduliceps 浪头象白蚁（Brazil, French Guiana）
+[*Nasutitermes unduliceps* 浪头象白蚁]({{ site.base_url }}/species/nasutitermes-unduliceps/)（Brazil, French Guiana）
 
-Nasutitermes vadoni 瓦东象白蚁（Madagascar）
+[*Nasutitermes vadoni* 瓦东象白蚁]({{ site.base_url }}/species/nasutitermes-vadoni/)（Madagascar）
 
-Nasutitermes vallis 山谷象白蚁（China）
+[*Nasutitermes vallis* 山谷象白蚁]({{ site.base_url }}/species/nasutitermes-vallis/)（China）
 
-Nasutitermes vishnu 维什鲁象白蚁（India）
+[*Nasutitermes vishnu* 维什鲁象白蚁]({{ site.base_url }}/species/nasutitermes-vishnu/)（India）
 
-Nasutitermes walkeri 沃克象白蚁（Australia, New Zealand）
+[*Nasutitermes walkeri* 沃克象白蚁]({{ site.base_url }}/species/nasutitermes-walkeri/)（Australia, New Zealand）
 
-Nasutitermes wheeleri 惠勒象白蚁（Brazil, Colombia, French Guiana）
+[*Nasutitermes wheeleri* 惠勒象白蚁]({{ site.base_url }}/species/nasutitermes-wheeleri/)（Brazil, Colombia, French Guiana）
 
-Nasutitermes xingshanensis 兴山象白蚁（China）
+[*Nasutitermes xingshanensis* 兴山象白蚁]({{ site.base_url }}/species/nasutitermes-xingshanensis/)（China）
 
 <h5 id="ngauratermes">Ngauratermes</h5>
 
-\*Ngauratermes arue 小凋落白蚁（Brazil, Peru）
+\*[*Ngauratermes arue* 小凋落白蚁]({{ site.base_url }}/species/ngauratermes-arue/)（Brazil, Peru）
 
 <h5 id="niuginitermes">Niuginitermes</h5>
 
-Niuginitermes liklik 小新几内亚白蚁（Papua New Guinea）
+[*Niuginitermes liklik* 小新几内亚白蚁]({{ site.base_url }}/species/niuginitermes-liklik/)（Papua New Guinea）
 
-\*Niuginitermes variratae 瓦里拉塔新几内亚白蚁（Papua New Guinea）
+\*[*Niuginitermes variratae* 瓦里拉塔新几内亚白蚁]({{ site.base_url }}/species/niuginitermes-variratae/)（Papua New Guinea）
 
 <h5 id="obtusitermes">Obtusitermes</h5>
 
-Obtusitermes formosulus 漂亮钝白蚁（Venezuela, Panama, Trinidad and Tobago）
+[*Obtusitermes formosulus* 漂亮钝白蚁]({{ site.base_url }}/species/obtusitermes-formosulus/)（Venezuela, Panama, Trinidad and Tobago）
 
-Obtusitermes monomorphus 单型钝白蚁（Panama）
+[*Obtusitermes monomorphus* 单型钝白蚁]({{ site.base_url }}/species/obtusitermes-monomorphus/)（Panama）
 
-\*Obtusitermes panamae 巴拿马钝白蚁（Panama, Costa Rica, Colombia）
+\*[*Obtusitermes panamae* 巴拿马钝白蚁]({{ site.base_url }}/species/obtusitermes-panamae/)（Panama, Costa Rica, Colombia）
 
 <h5 id="occasitermes">Occasitermes</h5>
 
-\*Occasitermes occasus 西部西部白蚁（Australia）
+\*[*Occasitermes occasus* 西部西部白蚁]({{ site.base_url }}/species/occasitermes-occasus/)（Australia）
 
-Occasitermes watsoni 沃森西部白蚁（Australia）
+[*Occasitermes watsoni* 沃森西部白蚁]({{ site.base_url }}/species/occasitermes-watsoni/)（Australia）
 
 <h5 id="occultitermes">Occultitermes</h5>
 
-Occultitermes aridus 干燥隐白蚁（Australia）
+[*Occultitermes aridus* 干燥隐白蚁]({{ site.base_url }}/species/occultitermes-aridus/)（Australia）
 
-\*Occultitermes occultus 藏隐白蚁（Australia）
+\*[*Occultitermes occultus* 藏隐白蚁]({{ site.base_url }}/species/occultitermes-occultus/)（Australia）
 
 <h5 id="oriensubulitermes">Oriensubulitermes</h5>
 
-\*Oriensubulitermes inanis 缺齿东锥白蚁（Indonesia, Malaysia, Singapore）
+\*[*Oriensubulitermes inanis* 缺齿东锥白蚁]({{ site.base_url }}/species/oriensubulitermes-inanis/)（Indonesia, Malaysia, Singapore）
 
-Oriensubulitermes kemneri 凯姆勒东锥白蚁（Malaysia）
+[*Oriensubulitermes kemneri* 凯姆勒东锥白蚁]({{ site.base_url }}/species/oriensubulitermes-kemneri/)（Malaysia）
 
 <h5 id="paraconvexitermes">Paraconvexitermes</h5>
 
-Paraconvexitermes acangapua 圆头近凸白蚁（Brazil, Colombia, French Guiana, Venezuela）
+[*Paraconvexitermes acangapua* 圆头近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-acangapua/)（Brazil, Colombia, French Guiana, Venezuela）
 
-Paraconvexitermes junceus 细长近凸白蚁（Brazil, Guyana, Ecuador）
+[*Paraconvexitermes junceus* 细长近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-junceus/)（Brazil, Guyana, Ecuador）
 
-\*Paraconvexitermes nigricornis 黑角近凸白蚁（Colombia, French Guiana, Brazil, Peru）
+\*[*Paraconvexitermes nigricornis* 黑角近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-nigricornis/)（Colombia, French Guiana, Brazil, Peru）
 
 <h5 id="parvitermes">Parvitermes</h5>
 
-Parvitermes aequalis 类似微白蚁（Cuba）
+[*Parvitermes aequalis* 类似微白蚁]({{ site.base_url }}/species/parvitermes-aequalis/)（Cuba）
 
-Parvitermes antillarum 安的列斯微白蚁（Haiti, Dominican Republic）
+[*Parvitermes antillarum* 安的列斯微白蚁]({{ site.base_url }}/species/parvitermes-antillarum/)（Haiti, Dominican Republic）
 
-Parvitermes bacchanalis 酒神微白蚁（Brazil）
+[*Parvitermes bacchanalis* 酒神微白蚁]({{ site.base_url }}/species/parvitermes-bacchanalis/)（Brazil）
 
-\*Parvitermes brooksi 布鲁克斯微白蚁（Cuba, Bahamas）
+\*[*Parvitermes brooksi* 布鲁克斯微白蚁]({{ site.base_url }}/species/parvitermes-brooksi/)（Cuba, Bahamas）
 
-Parvitermes collinsae 柯林斯微白蚁（Dominican Republic）
+[*Parvitermes collinsae* 柯林斯微白蚁]({{ site.base_url }}/species/parvitermes-collinsae/)（Dominican Republic）
 
-Parvitermes dominicanae 多米尼加微白蚁（Dominican Republic）
+[*Parvitermes dominicanae* 多米尼加微白蚁]({{ site.base_url }}/species/parvitermes-dominicanae/)（Dominican Republic）
 
-Parvitermes flaveolus 微黄微白蚁（Dominican Republic, Haiti）
+[*Parvitermes flaveolus* 微黄微白蚁]({{ site.base_url }}/species/parvitermes-flaveolus/)（Dominican Republic, Haiti）
 
-Parvitermes mesoamericanus 中美洲微白蚁（Guatemala, Nicaragua, Honduras）
+[*Parvitermes mesoamericanus* 中美洲微白蚁]({{ site.base_url }}/species/parvitermes-mesoamericanus/)（Guatemala, Nicaragua, Honduras）
 
-Parvitermes mexicanus 墨西哥微白蚁（Mexico）
+[*Parvitermes mexicanus* 墨西哥微白蚁]({{ site.base_url }}/species/parvitermes-mexicanus/)（Mexico）
 
-Parvitermes pallidiceps 灰头微白蚁（Dominican Republic, Haiti）
+[*Parvitermes pallidiceps* 灰头微白蚁]({{ site.base_url }}/species/parvitermes-pallidiceps/)（Dominican Republic, Haiti）
 
-Parvitermes toussainti 图森特微白蚁（Dominican Republic, Haiti）
+[*Parvitermes toussainti* 图森特微白蚁]({{ site.base_url }}/species/parvitermes-toussainti/)（Dominican Republic, Haiti）
 
-Parvitermes wolcotti 沃尔科特微白蚁（Puerto Rico, United States, British Virgin Islands）
+[*Parvitermes wolcotti* 沃尔科特微白蚁]({{ site.base_url }}/species/parvitermes-wolcotti/)（Puerto Rico, United States, British Virgin Islands）
 
-Parvitermes yucatanus 尤卡坦微白蚁（Guatemala, Mexico, Belize）
+[*Parvitermes yucatanus* 尤卡坦微白蚁]({{ site.base_url }}/species/parvitermes-yucatanus/)（Guatemala, Mexico, Belize）
 
 <h5 id="periaciculitermes">Periaciculitermes</h5>
 
-\*Periaciculitermes menglunensis 勐仑近针白蚁（China）
+\*[*Periaciculitermes menglunensis* 勐仑近针白蚁]({{ site.base_url }}/species/periaciculitermes-menglunensis/)（China）
 
 <h5 id="postsubulitermes">Postsubulitermes</h5>
 
-\*Postsubulitermes parviconstrictus 微缩后锥白蚁（Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon）
+\*[*Postsubulitermes parviconstrictus* 微缩后锥白蚁]({{ site.base_url }}/species/postsubulitermes-parviconstrictus/)（Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon）
 
 <h5 id="rhadinotermes">Rhadinotermes</h5>
 
-\*Rhadinotermes coarctatus 压缩锥形白蚁（Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia）
+\*[*Rhadinotermes coarctatus* 压缩锥形白蚁]({{ site.base_url }}/species/rhadinotermes-coarctatus/)（Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia）
 
 <h5 id="roonwalitermes">Roonwalitermes</h5>
 
-\*Roonwalitermes wadhwai 沃德瓦鲁恩沃白蚁（India）
+\*[*Roonwalitermes wadhwai* 沃德瓦鲁恩沃白蚁]({{ site.base_url }}/species/roonwalitermes-wadhwai/)（India）
 
 <h5 id="rotunditermes">Rotunditermes</h5>
 
-Rotunditermes bragantinus 布拉干提纳圆白蚁（Brazil, Colombia, French Guiana, Suriname, Ecuador, Peru）
+[*Rotunditermes bragantinus* 布拉干提纳圆白蚁]({{ site.base_url }}/species/rotunditermes-bragantinus/)（Brazil, Colombia, French Guiana, Suriname, Ecuador, Peru）
 
-\*Rotunditermes rotundiceps 圆头圆白蚁（Brazil, Colombia, Peru）
+\*[*Rotunditermes rotundiceps* 圆头圆白蚁]({{ site.base_url }}/species/rotunditermes-rotundiceps/)（Brazil, Colombia, Peru）
 
 <h5 id="rounditermes">Rounditermes</h5>
 
-\*Rounditermes dechambrei 德尚布尔胖白蚁（French Guiana）
+\*[*Rounditermes dechambrei* 德尚布尔胖白蚁]({{ site.base_url }}/species/rounditermes-dechambrei/)（French Guiana）
 
 <h5 id="sabahitermes">Sabahitermes</h5>
 
-Sabahitermes leuserensis 勒塞尔沙巴白蚁（Indonesia, Malaysia）
+[*Sabahitermes leuserensis* 勒塞尔沙巴白蚁]({{ site.base_url }}/species/sabahitermes-leuserensis/)（Indonesia, Malaysia）
 
-\*Sabahitermes malakuni 马拉昆沙巴白蚁（Malaysia）
+\*[*Sabahitermes malakuni* 马拉昆沙巴白蚁]({{ site.base_url }}/species/sabahitermes-malakuni/)（Malaysia）
 
 <h5 id="sandsitermes">Sandsitermes</h5>
 
-\*Sandsitermes robustus 粗壮桑兹白蚁（Peru, Brazil, Colombia）
+\*[*Sandsitermes robustus* 粗壮桑兹白蚁]({{ site.base_url }}/species/sandsitermes-robustus/)（Peru, Brazil, Colombia）
 
 <h5 id="sinonasutitermes">Sinonasutitermes</h5>
 
-Sinonasutitermes admirabilis 奇异华象白蚁（China）
+[*Sinonasutitermes admirabilis* 奇异华象白蚁]({{ site.base_url }}/species/sinonasutitermes-admirabilis/)（China）
 
-\*Sinonasutitermes dimorphus 二型华象白蚁（China）
+\*[*Sinonasutitermes dimorphus* 二型华象白蚁]({{ site.base_url }}/species/sinonasutitermes-dimorphus/)（China）
 
-Sinonasutitermes erectinasus 翘鼻华象白蚁（China）
+[*Sinonasutitermes erectinasus* 翘鼻华象白蚁]({{ site.base_url }}/species/sinonasutitermes-erectinasus/)（China）
 
-Sinonasutitermes guangxiensis 广西华象白蚁（China）
+[*Sinonasutitermes guangxiensis* 广西华象白蚁]({{ site.base_url }}/species/sinonasutitermes-guangxiensis/)（China）
 
-Sinonasutitermes hainanensis 海南华象白蚁（China）
+[*Sinonasutitermes hainanensis* 海南华象白蚁]({{ site.base_url }}/species/sinonasutitermes-hainanensis/)（China）
 
-Sinonasutitermes mediocris 居中华象白蚁（China）
+[*Sinonasutitermes mediocris* 居中华象白蚁]({{ site.base_url }}/species/sinonasutitermes-mediocris/)（China）
 
-Sinonasutitermes planinasus 平鼻华象白蚁（China）
+[*Sinonasutitermes planinasus* 平鼻华象白蚁]({{ site.base_url }}/species/sinonasutitermes-planinasus/)（China）
 
-Sinonasutitermes platycephalus 扁头华象白蚁（China）
+[*Sinonasutitermes platycephalus* 扁头华象白蚁]({{ site.base_url }}/species/sinonasutitermes-platycephalus/)（China）
 
-Sinonasutitermes trimorphus 三型华象白蚁（China）
+[*Sinonasutitermes trimorphus* 三型华象白蚁]({{ site.base_url }}/species/sinonasutitermes-trimorphus/)（China）
 
-Sinonasutitermes xiai 夏氏华象白蚁（China）
+[*Sinonasutitermes xiai* 夏氏华象白蚁]({{ site.base_url }}/species/sinonasutitermes-xiai/)（China）
 
-Sinonasutitermes yui 尤氏华象白蚁（China）
+[*Sinonasutitermes yui* 尤氏华象白蚁]({{ site.base_url }}/species/sinonasutitermes-yui/)（China）
 
 <h5 id="sinqasapatermes">Sinqasapatermes</h5>
 
-\*Sinqasapatermes sachae 森林鼻大白蚁（Colombia, Ecuador, Peru）
+\*[*Sinqasapatermes sachae* 森林鼻大白蚁]({{ site.base_url }}/species/sinqasapatermes-sachae/)（Colombia, Ecuador, Peru）
 
 <h5 id="spatulitermes">Spatulitermes</h5>
 
-\*Spatulitermes coolingi 库林匙白蚁（southern Africa, Namibia, Zambia）
+\*[*Spatulitermes coolingi* 库林匙白蚁]({{ site.base_url }}/species/spatulitermes-coolingi/)（southern Africa, Namibia, Zambia）
 
 <h5 id="subulioiditermes">Subulioiditermes</h5>
 
-Subulioiditermes borneensis 婆罗似锥白蚁（Malaysia）
+[*Subulioiditermes borneensis* 婆罗似锥白蚁]({{ site.base_url }}/species/subulioiditermes-borneensis/)（Malaysia）
 
-Subulioiditermes emersoni 埃默森似锥白蚁（Malaysia）
+[*Subulioiditermes emersoni* 埃默森似锥白蚁]({{ site.base_url }}/species/subulioiditermes-emersoni/)（Malaysia）
 
-\*Subulioiditermes subulioides 似锥似锥白蚁（Indonesia, Malaysia）
+\*[*Subulioiditermes subulioides* 似锥似锥白蚁]({{ site.base_url }}/species/subulioiditermes-subulioides/)（Indonesia, Malaysia）
 
 <h5 id="subulitermes">Subulitermes</h5>
 
-Subulitermes angusticeps 窄头锥白蚁（Bolivia）
+[*Subulitermes angusticeps* 窄头锥白蚁]({{ site.base_url }}/species/subulitermes-angusticeps/)（Bolivia）
 
-Subulitermes baileyi 贝利锥白蚁（Brazil, Venezuela, French Guiana, Colombia, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guyana）
+[*Subulitermes baileyi* 贝利锥白蚁]({{ site.base_url }}/species/subulitermes-baileyi/)（Brazil, Venezuela, French Guiana, Colombia, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guyana）
 
-Subulitermes constricticeps 缩头锥白蚁（Brazil, French Guiana, Colombia）
+[*Subulitermes constricticeps* 缩头锥白蚁]({{ site.base_url }}/species/subulitermes-constricticeps/)（Brazil, French Guiana, Colombia）
 
-Subulitermes denisae 丹尼斯锥白蚁（Panama, Costa Rica, Nicaragua）
+[*Subulitermes denisae* 丹尼斯锥白蚁]({{ site.base_url }}/species/subulitermes-denisae/)（Panama, Costa Rica, Nicaragua）
 
-\*Subulitermes microsoma 体小锥白蚁（Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay）
+\*[*Subulitermes microsoma* 体小锥白蚁]({{ site.base_url }}/species/subulitermes-microsoma/)（Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay）
 
-Subulitermes thompsonae 汤普森锥白蚁（Peru, Ecuador）
+[*Subulitermes thompsonae* 汤普森锥白蚁]({{ site.base_url }}/species/subulitermes-thompsonae/)（Peru, Ecuador）
 
 <h5 id="tarditermes">Tarditermes</h5>
 
-\*Tarditermes contracolor 反色慢白蚁（Congo (Kinshasa), Democratic Republic of the Congo）
+\*[*Tarditermes contracolor* 反色慢白蚁]({{ site.base_url }}/species/tarditermes-contracolor/)（Congo (Kinshasa), Democratic Republic of the Congo）
 
 <h5 id="tenuirostritermes">Tenuirostritermes</h5>
 
-Tenuirostritermes briciae 布瑞西亚薄嘴白蚁（Mexico, Nicaragua, Belize, Guatemala, Honduras）
+[*Tenuirostritermes briciae* 布瑞西亚薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-briciae/)（Mexico, Nicaragua, Belize, Guatemala, Honduras）
 
-Tenuirostritermes cinereus 灰白薄嘴白蚁（United States, Mexico）
+[*Tenuirostritermes cinereus* 灰白薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-cinereus/)（United States, Mexico）
 
-Tenuirostritermes incisus 切割薄嘴白蚁（Mexico, Guatemala, Honduras, Nicaragua）
+[*Tenuirostritermes incisus* 切割薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-incisus/)（Mexico, Guatemala, Honduras, Nicaragua）
 
-Tenuirostritermes strenuus 活跃薄嘴白蚁（Mexico）
+[*Tenuirostritermes strenuus* 活跃薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-strenuus/)（Mexico）
 
-\*Tenuirostritermes tenuirostris 薄嘴薄嘴白蚁（United States, Mexico）
+\*[*Tenuirostritermes tenuirostris* 薄嘴薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-tenuirostris/)（United States, Mexico）
 
 <h5 id="tiunatermes">Tiunatermes</h5>
 
-\*Tiunatermes mariuzani 马里乌赞暗鼻白蚁（South America, Brazil）
+\*[*Tiunatermes mariuzani* 马里乌赞暗鼻白蚁]({{ site.base_url }}/species/tiunatermes-mariuzani/)（South America, Brazil）
 
-Tiunatermes tapirape 塔皮拉佩暗鼻白蚁（South America, Brazil）
+[*Tiunatermes tapirape* 塔皮拉佩暗鼻白蚁]({{ site.base_url }}/species/tiunatermes-tapirape/)（South America, Brazil）
 
 <h5 id="triangularitermes">Triangularitermes</h5>
 
-\*Triangularitermes triangulariceps 三角头三角白蚁（Brazil, Colombia, Ecuador, Peru）
+\*[*Triangularitermes triangulariceps* 三角头三角白蚁]({{ site.base_url }}/species/triangularitermes-triangulariceps/)（Brazil, Colombia, Ecuador, Peru）
 
 <h5 id="trinervitermes">Trinervitermes</h5>
 
-Trinervitermes arabiae 阿拉伯三脉白蚁（Saudi Arabia, Yemen）
+[*Trinervitermes arabiae* 阿拉伯三脉白蚁]({{ site.base_url }}/species/trinervitermes-arabiae/)（Saudi Arabia, Yemen）
 
-Trinervitermes bettonianus 贝顿三脉白蚁（Namibia, Republic of the Congo (Brazzaville), Kenya, Democratic Republic of the Congo (Kinshasa), Malawi, Mozambique, Nigeria, Tanzania, Uganda, Zambia, Zimbabwe）
+[*Trinervitermes bettonianus* 贝顿三脉白蚁]({{ site.base_url }}/species/trinervitermes-bettonianus/)（Namibia, Republic of the Congo (Brazzaville), Kenya, Democratic Republic of the Congo (Kinshasa), Malawi, Mozambique, Nigeria, Tanzania, Uganda, Zambia, Zimbabwe）
 
-Trinervitermes biformis 二型三脉白蚁（India, Pakistan, Sri Lanka）
+[*Trinervitermes biformis* 二型三脉白蚁]({{ site.base_url }}/species/trinervitermes-biformis/)（India, Pakistan, Sri Lanka）
 
-Trinervitermes dispar 不同三脉白蚁（Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe）
+[*Trinervitermes dispar* 不同三脉白蚁]({{ site.base_url }}/species/trinervitermes-dispar/)（Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe）
 
-Trinervitermes disparatus 分离三脉白蚁（Vietnam）
+[*Trinervitermes disparatus* 分离三脉白蚁]({{ site.base_url }}/species/trinervitermes-disparatus/)（Vietnam）
 
-Trinervitermes fletcheri 弗莱彻三脉白蚁（India）
+[*Trinervitermes fletcheri* 弗莱彻三脉白蚁]({{ site.base_url }}/species/trinervitermes-fletcheri/)（India）
 
-Trinervitermes geminatus 成对三脉白蚁（Côte d'Ivoire, Senegal, Togo, Ghana, Nigeria, Burkina Faso, Democratic Republic of the Congo, Ethiopia, Mali, Mauritania, Sierra Leone, Sudan, Uganda）
+[*Trinervitermes geminatus* 成对三脉白蚁]({{ site.base_url }}/species/trinervitermes-geminatus/)（Côte d'Ivoire, Senegal, Togo, Ghana, Nigeria, Burkina Faso, Democratic Republic of the Congo, Ethiopia, Mali, Mauritania, Sierra Leone, Sudan, Uganda）
 
-Trinervitermes gratiosus 常见三脉白蚁（Angola, Burundi, Democratic Republic of the Congo (Kinshasa), Kenya, Rwanda, Tanzania, Uganda, Zambia, Democratic Republic of the Congo (Kinshasa)）
+[*Trinervitermes gratiosus* 常见三脉白蚁]({{ site.base_url }}/species/trinervitermes-gratiosus/)（Angola, Burundi, Democratic Republic of the Congo (Kinshasa), Kenya, Rwanda, Tanzania, Uganda, Zambia, Democratic Republic of the Congo (Kinshasa)）
 
-Trinervitermes indicus 印度三脉白蚁（India）
+[*Trinervitermes indicus* 印度三脉白蚁]({{ site.base_url }}/species/trinervitermes-indicus/)（India）
 
-Trinervitermes nigrirostris 黑鼻三脉白蚁（India）
+[*Trinervitermes nigrirostris* 黑鼻三脉白蚁]({{ site.base_url }}/species/trinervitermes-nigrirostris/)（India）
 
-Trinervitermes occidentalis 西部三脉白蚁（Côte d'Ivoire, Senegal, Togo, Burkina Faso, Nigeria, Central Africa, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea-Bissau, Sierra Leone, Uganda）
+[*Trinervitermes occidentalis* 西部三脉白蚁]({{ site.base_url }}/species/trinervitermes-occidentalis/)（Côte d'Ivoire, Senegal, Togo, Burkina Faso, Nigeria, Central Africa, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea-Bissau, Sierra Leone, Uganda）
 
-Trinervitermes oeconomus 根三脉白蚁（Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda）
+[*Trinervitermes oeconomus* 根三脉白蚁]({{ site.base_url }}/species/trinervitermes-oeconomus/)（Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda）
 
-Trinervitermes rabidus 狂猛三脉白蚁（Sri Lanka, India）
+[*Trinervitermes rabidus* 狂猛三脉白蚁]({{ site.base_url }}/species/trinervitermes-rabidus/)（Sri Lanka, India）
 
-Trinervitermes rapulum 蔓菁三脉白蚁（South Africa, Ethiopia, Malawi, Tanzania, Zimbabwe）
+[*Trinervitermes rapulum* 蔓菁三脉白蚁]({{ site.base_url }}/species/trinervitermes-rapulum/)（South Africa, Ethiopia, Malawi, Tanzania, Zimbabwe）
 
-Trinervitermes rhodesiensis 罗得西亚三脉白蚁（Côte d'Ivoire, Angola, Botswana, Central Africa, Republic of the Congo, Democratic Republic of the Congo, Namibia, South Africa, Tanzania, Zambia, Zimbabwe）
+[*Trinervitermes rhodesiensis* 罗得西亚三脉白蚁]({{ site.base_url }}/species/trinervitermes-rhodesiensis/)（Côte d'Ivoire, Angola, Botswana, Central Africa, Republic of the Congo, Democratic Republic of the Congo, Namibia, South Africa, Tanzania, Zambia, Zimbabwe）
 
-Trinervitermes saudiensis 沙特三脉白蚁（Saudi Arabia, Yemen）
+[*Trinervitermes saudiensis* 沙特三脉白蚁]({{ site.base_url }}/species/trinervitermes-saudiensis/)（Saudi Arabia, Yemen）
 
-Trinervitermes sensarmai 森萨尔马三脉白蚁（India）
+[*Trinervitermes sensarmai* 森萨尔马三脉白蚁]({{ site.base_url }}/species/trinervitermes-sensarmai/)（India）
 
-Trinervitermes sudanicus 苏丹三脉白蚁（Mali）
+[*Trinervitermes sudanicus* 苏丹三脉白蚁]({{ site.base_url }}/species/trinervitermes-sudanicus/)（Mali）
 
-Trinervitermes togoensis 多哥兰三脉白蚁（Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda）
+[*Trinervitermes togoensis* 多哥兰三脉白蚁]({{ site.base_url }}/species/trinervitermes-togoensis/)（Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda）
 
-\*Trinervitermes trinervius 三脉三脉白蚁（Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda）
+\*[*Trinervitermes trinervius* 三脉三脉白蚁]({{ site.base_url }}/species/trinervitermes-trinervius/)（Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda）
 
-Trinervitermes trinervoides 似三脉三脉白蚁（South Africa, Namibia, Democratic Republic of the Congo (Kinshasa), Democratic Republic of the Congo (Kinshasa), Lesotho, Mozambique, Eswatini, Zimbabwe）
+[*Trinervitermes trinervoides* 似三脉三脉白蚁]({{ site.base_url }}/species/trinervitermes-trinervoides/)（South Africa, Namibia, Democratic Republic of the Congo (Kinshasa), Democratic Republic of the Congo (Kinshasa), Lesotho, Mozambique, Eswatini, Zimbabwe）
 
 <h5 id="tumulitermes">Tumulitermes</h5>
 
-Tumulitermes apiocephalus 蜂头冢白蚁（Australia）
+[*Tumulitermes apiocephalus* 蜂头冢白蚁]({{ site.base_url }}/species/tumulitermes-apiocephalus/)（Australia）
 
-Tumulitermes comatus 长毛冢白蚁（Australia）
+[*Tumulitermes comatus* 长毛冢白蚁]({{ site.base_url }}/species/tumulitermes-comatus/)（Australia）
 
-Tumulitermes curtus 缩短冢白蚁（Australia）
+[*Tumulitermes curtus* 缩短冢白蚁]({{ site.base_url }}/species/tumulitermes-curtus/)（Australia）
 
-Tumulitermes dalbiensis 多尔比冢白蚁（Australia）
+[*Tumulitermes dalbiensis* 多尔比冢白蚁]({{ site.base_url }}/species/tumulitermes-dalbiensis/)（Australia）
 
-Tumulitermes hastilis 甘蔗冢白蚁（Australia）
+[*Tumulitermes hastilis* 甘蔗冢白蚁]({{ site.base_url }}/species/tumulitermes-hastilis/)（Australia）
 
-Tumulitermes kershawi 克肖冢白蚁（Australia）
+[*Tumulitermes kershawi* 克肖冢白蚁]({{ site.base_url }}/species/tumulitermes-kershawi/)（Australia）
 
-Tumulitermes marcidus 凋零冢白蚁（Australia, Papua New Guinea）
+[*Tumulitermes marcidus* 凋零冢白蚁]({{ site.base_url }}/species/tumulitermes-marcidus/)（Australia, Papua New Guinea）
 
-Tumulitermes mareebensis 马里巴冢白蚁（Australia）
+[*Tumulitermes mareebensis* 马里巴冢白蚁]({{ site.base_url }}/species/tumulitermes-mareebensis/)（Australia）
 
-Tumulitermes nichollsi 尼科尔斯冢白蚁（Australia）
+[*Tumulitermes nichollsi* 尼科尔斯冢白蚁]({{ site.base_url }}/species/tumulitermes-nichollsi/)（Australia）
 
-Tumulitermes pastinator 挖掘冢白蚁（Australia）
+[*Tumulitermes pastinator* 挖掘冢白蚁]({{ site.base_url }}/species/tumulitermes-pastinator/)（Australia）
 
-Tumulitermes peracutus 锐利冢白蚁（Australia）
+[*Tumulitermes peracutus* 锐利冢白蚁]({{ site.base_url }}/species/tumulitermes-peracutus/)（Australia）
 
-Tumulitermes petilus 修长冢白蚁（Australia）
+[*Tumulitermes petilus* 修长冢白蚁]({{ site.base_url }}/species/tumulitermes-petilus/)（Australia）
 
-Tumulitermes pulleinei 普雷勒冢白蚁（Australia）
+[*Tumulitermes pulleinei* 普雷勒冢白蚁]({{ site.base_url }}/species/tumulitermes-pulleinei/)（Australia）
 
-Tumulitermes recalvus 无毛冢白蚁（Australia）
+[*Tumulitermes recalvus* 无毛冢白蚁]({{ site.base_url }}/species/tumulitermes-recalvus/)（Australia）
 
-Tumulitermes subaquilus 稍暗冢白蚁（Australia）
+[*Tumulitermes subaquilus* 稍暗冢白蚁]({{ site.base_url }}/species/tumulitermes-subaquilus/)（Australia）
 
-\*Tumulitermes tumuli 土垄冢白蚁（Australia）
+\*[*Tumulitermes tumuli* 土垄冢白蚁]({{ site.base_url }}/species/tumulitermes-tumuli/)（Australia）
 
-Tumulitermes westraliensis 西澳冢白蚁（Australia）
+[*Tumulitermes westraliensis* 西澳冢白蚁]({{ site.base_url }}/species/tumulitermes-westraliensis/)（Australia）
 
 <h5 id="velocitermes">Velocitermes</h5>
 
-Velocitermes aporeticus 怀疑快白蚁（Brazil）
+[*Velocitermes aporeticus* 怀疑快白蚁]({{ site.base_url }}/species/velocitermes-aporeticus/)（Brazil）
 
-Velocitermes barrocoloradensis 巴罗科罗拉多快白蚁（Panama）
+[*Velocitermes barrocoloradensis* 巴罗科罗拉多快白蚁]({{ site.base_url }}/species/velocitermes-barrocoloradensis/)（Panama）
 
-Velocitermes beebei 毕比快白蚁（Brazil, French Guiana, Guyana, Ecuador, Venezuela）
+[*Velocitermes beebei* 毕比快白蚁]({{ site.base_url }}/species/velocitermes-beebei/)（Brazil, French Guiana, Guyana, Ecuador, Venezuela）
 
-Velocitermes glabrinotus 光背快白蚁（Brazil, Colombia）
+[*Velocitermes glabrinotus* 光背快白蚁]({{ site.base_url }}/species/velocitermes-glabrinotus/)（Brazil, Colombia）
 
-\*Velocitermes heteropterus 异翅快白蚁（Brazil, Colombia, Paraguay, Argentina, Venezuela）
+\*[*Velocitermes heteropterus* 异翅快白蚁]({{ site.base_url }}/species/velocitermes-heteropterus/)（Brazil, Colombia, Paraguay, Argentina, Venezuela）
 
-Velocitermes laticephalus 宽头快白蚁（Bolivia, Ecuador, Peru）
+[*Velocitermes laticephalus* 宽头快白蚁]({{ site.base_url }}/species/velocitermes-laticephalus/)（Bolivia, Ecuador, Peru）
 
-Velocitermes melanocephalus 黑头快白蚁（Argentina, Bolivia, Brazil, French Guiana）
+[*Velocitermes melanocephalus* 黑头快白蚁]({{ site.base_url }}/species/velocitermes-melanocephalus/)（Argentina, Bolivia, Brazil, French Guiana）
 
-Velocitermes paucipilis 少毛快白蚁（Brazil, Ecuador, Venezuela）
+[*Velocitermes paucipilis* 少毛快白蚁]({{ site.base_url }}/species/velocitermes-paucipilis/)（Brazil, Ecuador, Venezuela）
 
-Velocitermes uniformis 单型快白蚁（Brazil, Bolivia, Venezuela）
+[*Velocitermes uniformis* 单型快白蚁]({{ site.base_url }}/species/velocitermes-uniformis/)（Brazil, Bolivia, Venezuela）
 
-Velocitermes velox 快速快白蚁（Brazil, Bolivia, Peru）
+[*Velocitermes velox* 快速快白蚁]({{ site.base_url }}/species/velocitermes-velox/)（Brazil, Bolivia, Peru）
 
 <h5 id="verrucositermes">Verrucositermes</h5>
 
-Verrucositermes hirtus 多毛疣白蚁（Cameroon）
+[*Verrucositermes hirtus* 多毛疣白蚁]({{ site.base_url }}/species/verrucositermes-hirtus/)（Cameroon）
 
-\*Verrucositermes tuberosus 多疣疣白蚁（Cameroon, Congo (Kinshasa), Democratic Republic of the Congo, Gabon）
+\*[*Verrucositermes tuberosus* 多疣疣白蚁]({{ site.base_url }}/species/verrucositermes-tuberosus/)（Cameroon, Congo (Kinshasa), Democratic Republic of the Congo, Gabon）
 
 <h5 id="xiaitermes">Xiaitermes</h5>
 
-Xiaitermes tiantaiensis 天台夏氏白蚁（China）
+[*Xiaitermes tiantaiensis* 天台夏氏白蚁]({{ site.base_url }}/species/xiaitermes-tiantaiensis/)（China）
 
-\*Xiaitermes yinxianensis 鄞县夏氏白蚁（China）
+\*[*Xiaitermes yinxianensis* 鄞县夏氏白蚁]({{ site.base_url }}/species/xiaitermes-yinxianensis/)（China）
 
 <h4 id="neocapritermitinae">Neocapritermitinae</h4>
 
@@ -6718,49 +6718,49 @@ This subfamily is a group endemic to the Neotropical realm, with a distribution 
 
 <h5 id="neocapritermes">Neocapritermes</h5>
 
-Neocapritermes angusticeps 窄头新扭白蚁（Brazil, French Guiana, Guyana, Suriname, Trinidad and Tobago, Venezuela）
+[*Neocapritermes angusticeps* 窄头新扭白蚁]({{ site.base_url }}/species/neocapritermes-angusticeps/)（Brazil, French Guiana, Guyana, Suriname, Trinidad and Tobago, Venezuela）
 
-Neocapritermes araguaia 阿拉瓜亚新扭白蚁（Brazil, French Guiana）
+[*Neocapritermes araguaia* 阿拉瓜亚新扭白蚁]({{ site.base_url }}/species/neocapritermes-araguaia/)（Brazil, French Guiana）
 
-Neocapritermes bodkini 博德金新扭白蚁（Colombia, Guyana, Brazil, Peru）
+[*Neocapritermes bodkini* 博德金新扭白蚁]({{ site.base_url }}/species/neocapritermes-bodkini/)（Colombia, Guyana, Brazil, Peru）
 
-Neocapritermes braziliensis 巴西新扭白蚁（Brazil, Colombia, Peru, Venezuela）
+[*Neocapritermes braziliensis* 巴西新扭白蚁]({{ site.base_url }}/species/neocapritermes-braziliensis/)（Brazil, Colombia, Peru, Venezuela）
 
-Neocapritermes centralis 中部新扭白蚁（Panama, Costa Rica）
+[*Neocapritermes centralis* 中部新扭白蚁]({{ site.base_url }}/species/neocapritermes-centralis/)（Panama, Costa Rica）
 
-Neocapritermes guyana 圭亚那新扭白蚁（French Guiana, Brazil, Guyana）
+[*Neocapritermes guyana* 圭亚那新扭白蚁]({{ site.base_url }}/species/neocapritermes-guyana/)（French Guiana, Brazil, Guyana）
 
-Neocapritermes longinotus 长背新扭白蚁（Brazil, Colombia, French Guiana, Venezuela）
+[*Neocapritermes longinotus* 长背新扭白蚁]({{ site.base_url }}/species/neocapritermes-longinotus/)（Brazil, Colombia, French Guiana, Venezuela）
 
-Neocapritermes mirim 小型新扭白蚁（Brazil）
+[*Neocapritermes mirim* 小型新扭白蚁]({{ site.base_url }}/species/neocapritermes-mirim/)（Brazil）
 
-\*Neocapritermes opacus 发黑新扭白蚁（Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru）
+\*[*Neocapritermes opacus* 发黑新扭白蚁]({{ site.base_url }}/species/neocapritermes-opacus/)（Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru）
 
-Neocapritermes parvus 微型新扭白蚁（Brazil, Paraguay）
+[*Neocapritermes parvus* 微型新扭白蚁]({{ site.base_url }}/species/neocapritermes-parvus/)（Brazil, Paraguay）
 
-Neocapritermes pumilis 侏儒新扭白蚁（Colombia, Brazil, French Guiana, Ecuador）
+[*Neocapritermes pumilis* 侏儒新扭白蚁]({{ site.base_url }}/species/neocapritermes-pumilis/)（Colombia, Brazil, French Guiana, Ecuador）
 
-Neocapritermes talpa 鼹鼠新扭白蚁（Brazil, Bolivia, Colombia, French Guiana, Peru）
+[*Neocapritermes talpa* 鼹鼠新扭白蚁]({{ site.base_url }}/species/neocapritermes-talpa/)（Brazil, Bolivia, Colombia, French Guiana, Peru）
 
-Neocapritermes talpoides 似鼹鼠新扭白蚁（Colombia, Brazil, Bolivia, Ecuador, Venezuela）
+[*Neocapritermes talpoides* 似鼹鼠新扭白蚁]({{ site.base_url }}/species/neocapritermes-talpoides/)（Colombia, Brazil, Bolivia, Ecuador, Venezuela）
 
-Neocapritermes taracua 塔拉夸新扭白蚁（Brazil, Colombia, French Guiana, Guyana, Ecuador, Venezuela, Peru）
+[*Neocapritermes taracua* 塔拉夸新扭白蚁]({{ site.base_url }}/species/neocapritermes-taracua/)（Brazil, Colombia, French Guiana, Guyana, Ecuador, Venezuela, Peru）
 
-Neocapritermes unicornis 独角新扭白蚁（Brazil）
+[*Neocapritermes unicornis* 独角新扭白蚁]({{ site.base_url }}/species/neocapritermes-unicornis/)（Brazil）
 
-Neocapritermes utiariti 乌蒂亚里蒂新扭白蚁（Brazil, Colombia, Peru）
+[*Neocapritermes utiariti* 乌蒂亚里蒂新扭白蚁]({{ site.base_url }}/species/neocapritermes-utiariti/)（Brazil, Colombia, Peru）
 
-Neocapritermes villosus 密毛新扭白蚁（Peru, Brazil, Ecuador）
+[*Neocapritermes villosus* 密毛新扭白蚁]({{ site.base_url }}/species/neocapritermes-villosus/)（Peru, Brazil, Ecuador）
 
 <h5 id="planicapritermes">Planicapritermes</h5>
 
-Planicapritermes longilabrum 长唇平扭白蚁（Brazil）
+[*Planicapritermes longilabrum* 长唇平扭白蚁]({{ site.base_url }}/species/planicapritermes-longilabrum/)（Brazil）
 
-\*Planicapritermes planiceps 平头平扭白蚁（Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela）
+\*[*Planicapritermes planiceps* 平头平扭白蚁]({{ site.base_url }}/species/planicapritermes-planiceps/)（Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela）
 
 <h5 id="schievitermes">Schievitermes</h5>
 
-\*Schievitermes globicornis 球角不对称白蚁（French Guiana）
+\*[*Schievitermes globicornis* 球角不对称白蚁]({{ site.base_url }}/species/schievitermes-globicornis/)（French Guiana）
 
 <h4 id="promirotermitinae">Promirotermitinae</h4>
 
@@ -6770,89 +6770,89 @@ Its diet is humus (soil) feeding; an environmental gradient survey in Kruger Nat
 
 <h5 id="angulitermes">Angulitermes</h5>
 
-Angulitermes acutus 锋利角白蚁（India）
+[*Angulitermes acutus* 锋利角白蚁]({{ site.base_url }}/species/angulitermes-acutus/)（India）
 
-Angulitermes akhorisainensis 艾豪瑞赛恩角白蚁（India）
+[*Angulitermes akhorisainensis* 艾豪瑞赛恩角白蚁]({{ site.base_url }}/species/angulitermes-akhorisainensis/)（India）
 
-Angulitermes arabiae 阿拉伯角白蚁（Saudi Arabia）
+[*Angulitermes arabiae* 阿拉伯角白蚁]({{ site.base_url }}/species/angulitermes-arabiae/)（Saudi Arabia）
 
-Angulitermes asirensis 阿西尔角白蚁（Saudi Arabia）
+[*Angulitermes asirensis* 阿西尔角白蚁]({{ site.base_url }}/species/angulitermes-asirensis/)（Saudi Arabia）
 
-Angulitermes bhagsunagensis 珀格苏纳格角白蚁（India）
+[*Angulitermes bhagsunagensis* 珀格苏纳格角白蚁]({{ site.base_url }}/species/angulitermes-bhagsunagensis/)（India）
 
-Angulitermes braunsi 布劳恩斯角白蚁（South Africa）
+[*Angulitermes braunsi* 布劳恩斯角白蚁]({{ site.base_url }}/species/angulitermes-braunsi/)（South Africa）
 
-Angulitermes ceylonicus 锡兰角白蚁（Sri Lanka）
+[*Angulitermes ceylonicus* 锡兰角白蚁]({{ site.base_url }}/species/angulitermes-ceylonicus/)（Sri Lanka）
 
-Angulitermes dehraensis 德拉敦角白蚁（Pakistan, Afghanistan, India）
+[*Angulitermes dehraensis* 德拉敦角白蚁]({{ site.base_url }}/species/angulitermes-dehraensis/)（Pakistan, Afghanistan, India）
 
-Angulitermes elsenburgi 埃尔森伯格角白蚁（South Africa）
+[*Angulitermes elsenburgi* 埃尔森伯格角白蚁]({{ site.base_url }}/species/angulitermes-elsenburgi/)（South Africa）
 
-Angulitermes emersoni 埃默森角白蚁（Bangladesh）
+[*Angulitermes emersoni* 埃默森角白蚁]({{ site.base_url }}/species/angulitermes-emersoni/)（Bangladesh）
 
-Angulitermes fletcheri 弗莱彻角白蚁（India）
+[*Angulitermes fletcheri* 弗莱彻角白蚁]({{ site.base_url }}/species/angulitermes-fletcheri/)（India）
 
-\*Angulitermes frontalis 显额角白蚁（Botswana, South Africa）
+\*[*Angulitermes frontalis* 显额角白蚁]({{ site.base_url }}/species/angulitermes-frontalis/)（Botswana, South Africa）
 
-Angulitermes hussaini 侯赛因角白蚁（Pakistan）
+[*Angulitermes hussaini* 侯赛因角白蚁]({{ site.base_url }}/species/angulitermes-hussaini/)（Pakistan）
 
-Angulitermes kashmirensis 克什米尔角白蚁（India）
+[*Angulitermes kashmirensis* 克什米尔角白蚁]({{ site.base_url }}/species/angulitermes-kashmirensis/)（India）
 
-Angulitermes keralai 喀拉拉角白蚁（India）
+[*Angulitermes keralai* 喀拉拉角白蚁]({{ site.base_url }}/species/angulitermes-keralai/)（India）
 
-Angulitermes longifrons 长额角白蚁（India）
+[*Angulitermes longifrons* 长额角白蚁]({{ site.base_url }}/species/angulitermes-longifrons/)（India）
 
-Angulitermes jodhpurensis 焦特布尔角白蚁（India）
+[*Angulitermes jodhpurensis* 焦特布尔角白蚁]({{ site.base_url }}/species/angulitermes-jodhpurensis/)（India）
 
-Angulitermes mishrai 米什拉角白蚁（India）
+[*Angulitermes mishrai* 米什拉角白蚁]({{ site.base_url }}/species/angulitermes-mishrai/)（India）
 
-Angulitermes nepalensis 尼泊尔角白蚁（Nepal）
+[*Angulitermes nepalensis* 尼泊尔角白蚁]({{ site.base_url }}/species/angulitermes-nepalensis/)（Nepal）
 
-Angulitermes nilensis 尼罗角白蚁（Senegal, Eritrea, Ethiopia, Kenya, Sudan, Tanzania）
+[*Angulitermes nilensis* 尼罗角白蚁]({{ site.base_url }}/species/angulitermes-nilensis/)（Senegal, Eritrea, Ethiopia, Kenya, Sudan, Tanzania）
 
-Angulitermes obtusus 迟钝角白蚁（India）
+[*Angulitermes obtusus* 迟钝角白蚁]({{ site.base_url }}/species/angulitermes-obtusus/)（India）
 
-Angulitermes paanensis 帕安角白蚁（Myanmar）
+[*Angulitermes paanensis* 帕安角白蚁]({{ site.base_url }}/species/angulitermes-paanensis/)（Myanmar）
 
-Angulitermes punjabensis 旁遮普角白蚁（Pakistan）
+[*Angulitermes punjabensis* 旁遮普角白蚁]({{ site.base_url }}/species/angulitermes-punjabensis/)（Pakistan）
 
-Angulitermes quadriceps 方头角白蚁（Israel, Saudi Arabia, Yemen）
+[*Angulitermes quadriceps* 方头角白蚁]({{ site.base_url }}/species/angulitermes-quadriceps/)（Israel, Saudi Arabia, Yemen）
 
-Angulitermes ramanii 拉曼角白蚁（India）
+[*Angulitermes ramanii* 拉曼角白蚁]({{ site.base_url }}/species/angulitermes-ramanii/)（India）
 
-Angulitermes rathorai 拉托拉角白蚁（India）
+[*Angulitermes rathorai* 拉托拉角白蚁]({{ site.base_url }}/species/angulitermes-rathorai/)（India）
 
-Angulitermes resimus 高鼻角白蚁（Myanmar）
+[*Angulitermes resimus* 高鼻角白蚁]({{ site.base_url }}/species/angulitermes-resimus/)（Myanmar）
 
-Angulitermes tilaki 蒂拉克角白蚁（India）
+[*Angulitermes tilaki* 蒂拉克角白蚁]({{ site.base_url }}/species/angulitermes-tilaki/)（India）
 
-Angulitermes truncatus 伤残角白蚁（Senegal, Ghana, Kenya, Nigeria, Saudi Arabia, Tanzania, Uganda, Zambia）
+[*Angulitermes truncatus* 伤残角白蚁]({{ site.base_url }}/species/angulitermes-truncatus/)（Senegal, Ghana, Kenya, Nigeria, Saudi Arabia, Tanzania, Uganda, Zambia）
 
 <h5 id="promirotermes">Promirotermes</h5>
 
-Promirotermes bechuana 贝专纳前奇白蚁（South Africa）
+[*Promirotermes bechuana* 贝专纳前奇白蚁]({{ site.base_url }}/species/promirotermes-bechuana/)（South Africa）
 
-Promirotermes bellicosi 勇猛前奇白蚁（Kenya, Tanzania）
+[*Promirotermes bellicosi* 勇猛前奇白蚁]({{ site.base_url }}/species/promirotermes-bellicosi/)（Kenya, Tanzania）
 
-Promirotermes dumisae 杜米萨前奇白蚁（South Africa）
+[*Promirotermes dumisae* 杜米萨前奇白蚁]({{ site.base_url }}/species/promirotermes-dumisae/)（South Africa）
 
-Promirotermes gracilipes 细足前奇白蚁（Democratic Republic of the Congo, Republic of the Congo, Kenya, Uganda）
+[*Promirotermes gracilipes* 细足前奇白蚁]({{ site.base_url }}/species/promirotermes-gracilipes/)（Democratic Republic of the Congo, Republic of the Congo, Kenya, Uganda）
 
-\*Promirotermes holmgreni 霍姆格伦前奇白蚁（Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon）
+\*[*Promirotermes holmgreni* 霍姆格伦前奇白蚁]({{ site.base_url }}/species/promirotermes-holmgreni/)（Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon）
 
-holmgreni 指名亚种
+[*holmgreni* 指名亚种]({{ site.base_url }}/species/promirotermes-holmgreni-holmgreni/)
 
-infera 下亚种
+[*infera* 下亚种]({{ site.base_url }}/species/promirotermes-holmgreni-infera/)
 
-Promirotermes massaicus 马萨前奇白蚁（Kenya, Tanzania, Uganda, Zambia）
+[*Promirotermes massaicus* 马萨前奇白蚁]({{ site.base_url }}/species/promirotermes-massaicus/)（Kenya, Tanzania, Uganda, Zambia）
 
-Promirotermes orthoceps 直头前奇白蚁（Democratic Republic of the Congo）
+[*Promirotermes orthoceps* 直头前奇白蚁]({{ site.base_url }}/species/promirotermes-orthoceps/)（Democratic Republic of the Congo）
 
-Promirotermes pygmaeus 短小前奇白蚁（Democratic Republic of the Congo, Malawi, Uganda）
+[*Promirotermes pygmaeus* 短小前奇白蚁]({{ site.base_url }}/species/promirotermes-pygmaeus/)（Democratic Republic of the Congo, Malawi, Uganda）
 
-Promirotermes redundans 常见前奇白蚁（Cameroon, Togo, Gambia, Ghana, Guinea, Nigeria, Senegal）
+[*Promirotermes redundans* 常见前奇白蚁]({{ site.base_url }}/species/promirotermes-redundans/)（Cameroon, Togo, Gambia, Ghana, Guinea, Nigeria, Senegal）
 
-Promirotermes rotundifrons 圆额前奇白蚁（Botswana, South Africa）
+[*Promirotermes rotundifrons* 圆额前奇白蚁]({{ site.base_url }}/species/promirotermes-rotundifrons/)（Botswana, South Africa）
 
 <h4 id="protohamitermitinae">Protohamitermitinae</h4>
 
@@ -6862,11 +6862,11 @@ This subfamily is an oligotypic group endemic to the Oriental realm. Both genera
 
 <h5 id="orientotermes">Orientotermes</h5>
 
-\*Orientotermes emersoni 埃默森东方白蚁（Brunei, Malaysia）
+\*[*Orientotermes emersoni* 埃默森东方白蚁]({{ site.base_url }}/species/orientotermes-emersoni/)（Brunei, Malaysia）
 
 <h5 id="protohamitermes">Protohamitermes</h5>
 
-\*Protohamitermes globiceps 球头始钩白蚁（Brunei, Indonesia, Malaysia）
+\*[*Protohamitermes globiceps* 球头始钩白蚁]({{ site.base_url }}/species/protohamitermes-globiceps/)（Brunei, Indonesia, Malaysia）
 
 <h4 id="sphaerotermitinae">Sphaerotermitinae</h4>
 
@@ -6876,7 +6876,7 @@ This subfamily is endemic to the Afrotropical realm (West–Central Africa), and
 
 <h5 id="sphaerotermes">Sphaerotermes</h5>
 
-\*Sphaerotermes sphaerothorax 圆胸圆球白蚁（Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria）
+\*[*Sphaerotermes sphaerothorax* 圆胸圆球白蚁]({{ site.base_url }}/species/sphaerotermes-sphaerothorax/)（Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria）
 
 <h4 id="syntermitinae">Syntermitinae</h4>
 
@@ -6888,257 +6888,257 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="acangaobitermes">Acangaobitermes</h5>
 
-\*Acangaobitermes krishnai 克里希纳漏斗白蚁（Brazil）
+\*[*Acangaobitermes krishnai* 克里希纳漏斗白蚁]({{ site.base_url }}/species/acangaobitermes-krishnai/)（Brazil）
 
 <h5 id="armitermes">Armitermes</h5>
 
-\*Armitermes armiger 具戟戟白蚁（Panama, Costa Rica）
+\*[*Armitermes armiger* 具戟戟白蚁]({{ site.base_url }}/species/armitermes-armiger/)（Panama, Costa Rica）
 
-Armitermes bidentatus 双齿戟白蚁（Brazil）
+[*Armitermes bidentatus* 双齿戟白蚁]({{ site.base_url }}/species/armitermes-bidentatus/)（Brazil）
 
-Armitermes spininotus 刺背戟白蚁（Brazil）
+[*Armitermes spininotus* 刺背戟白蚁]({{ site.base_url }}/species/armitermes-spininotus/)（Brazil）
 
 <h5 id="bandeiratermes">Bandeiratermes</h5>
 
-\*Bandeiratermes silvestrii 西尔韦斯特里班代拉白蚁（Brazil, Bolivia, Paraguay）
+\*[*Bandeiratermes silvestrii* 西尔韦斯特里班代拉白蚁]({{ site.base_url }}/species/bandeiratermes-silvestrii/)（Brazil, Bolivia, Paraguay）
 
-Bandeiratermes tellustris 大地班代拉白蚁（Brazil）
+[*Bandeiratermes tellustris* 大地班代拉白蚁]({{ site.base_url }}/species/bandeiratermes-tellustris/)（Brazil）
 
 <h5 id="biratermes">Biratermes</h5>
 
-\*Biratermes robustus 粗壮拜拉白蚁（French Guiana, Brazil）
+\*[*Biratermes robustus* 粗壮拜拉白蚁]({{ site.base_url }}/species/biratermes-robustus/)（French Guiana, Brazil）
 
 <h5 id="cahuallitermes">Cahuallitermes</h5>
 
-Cahuallitermes aduncus 具钩弃白蚁（Mexico）
+[*Cahuallitermes aduncus* 具钩弃白蚁]({{ site.base_url }}/species/cahuallitermes-aduncus/)（Mexico）
 
-\*Cahuallitermes intermedius 中间弃白蚁（Mexico, Guatemala, Honduras, Belize）
+\*[*Cahuallitermes intermedius* 中间弃白蚁]({{ site.base_url }}/species/cahuallitermes-intermedius/)（Mexico, Guatemala, Honduras, Belize）
 
 <h5 id="cornitermes">Cornitermes</h5>
 
-Cornitermes acignathus 尖颚角象白蚁（Costa Rica, Colombia, Panama, Ecuador）
+[*Cornitermes acignathus* 尖颚角象白蚁]({{ site.base_url }}/species/cornitermes-acignathus/)（Costa Rica, Colombia, Panama, Ecuador）
 
-Cornitermes bequaerti 贝奎特角象白蚁（Brazil, Bolivia, Paraguay）
+[*Cornitermes bequaerti* 贝奎特角象白蚁]({{ site.base_url }}/species/cornitermes-bequaerti/)（Brazil, Bolivia, Paraguay）
 
-Cornitermes bolivianus 玻利维亚角象白蚁（Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela）
+[*Cornitermes bolivianus* 玻利维亚角象白蚁]({{ site.base_url }}/species/cornitermes-bolivianus/)（Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela）
 
-\*Cornitermes cumulans 成堆角象白蚁（Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador）
+\*[*Cornitermes cumulans* 成堆角象白蚁]({{ site.base_url }}/species/cornitermes-cumulans/)（Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador）
 
-Cornitermes falcatus 弯钩角象白蚁（Brazil）
+[*Cornitermes falcatus* 弯钩角象白蚁]({{ site.base_url }}/species/cornitermes-falcatus/)（Brazil）
 
-Cornitermes incisus 切割角象白蚁（Brazil）
+[*Cornitermes incisus* 切割角象白蚁]({{ site.base_url }}/species/cornitermes-incisus/)（Brazil）
 
-Cornitermes ovatus 卵形角象白蚁（Brazil, Colombia）
+[*Cornitermes ovatus* 卵形角象白蚁]({{ site.base_url }}/species/cornitermes-ovatus/)（Brazil, Colombia）
 
-Cornitermes pilosus 多毛角象白蚁（Brazil, Peru, Colombia, Bolivia）
+[*Cornitermes pilosus* 多毛角象白蚁]({{ site.base_url }}/species/cornitermes-pilosus/)（Brazil, Peru, Colombia, Bolivia）
 
-Cornitermes pugnax 好斗角象白蚁（Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela）
+[*Cornitermes pugnax* 好斗角象白蚁]({{ site.base_url }}/species/cornitermes-pugnax/)（Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela）
 
-Cornitermes silvestrii 西尔韦斯特里角象白蚁（Brazil, Bolivia）
+[*Cornitermes silvestrii* 西尔韦斯特里角象白蚁]({{ site.base_url }}/species/cornitermes-silvestrii/)（Brazil, Bolivia）
 
-Cornitermes snyderi 斯奈德角象白蚁（Brazil, Colombia, Bolivia, Ecuador）
+[*Cornitermes snyderi* 斯奈德角象白蚁]({{ site.base_url }}/species/cornitermes-snyderi/)（Brazil, Colombia, Bolivia, Ecuador）
 
-Cornitermes villosus 密毛角象白蚁（Brazil）
+[*Cornitermes villosus* 密毛角象白蚁]({{ site.base_url }}/species/cornitermes-villosus/)（Brazil）
 
-Cornitermes walkeri 沃克角象白蚁（Costa Rica, Panama, Colombia）
+[*Cornitermes walkeri* 沃克角象白蚁]({{ site.base_url }}/species/cornitermes-walkeri/)（Costa Rica, Panama, Colombia）
 
-Cornitermes weberi 韦伯角象白蚁（Brazil, French Guiana, Guyana, Suriname）
+[*Cornitermes weberi* 韦伯角象白蚁]({{ site.base_url }}/species/cornitermes-weberi/)（Brazil, French Guiana, Guyana, Suriname）
 
 <h5 id="curvitermes">Curvitermes</h5>
 
-Curvitermes minor 小型曲白蚁（Brazil, Bolivia）
+[*Curvitermes minor* 小型曲白蚁]({{ site.base_url }}/species/curvitermes-minor/)（Brazil, Bolivia）
 
-\*Curvitermes odontognathus 齿颚曲白蚁（Brazil, Colombia, Bolivia, Ecuador）
+\*[*Curvitermes odontognathus* 齿颚曲白蚁]({{ site.base_url }}/species/curvitermes-odontognathus/)（Brazil, Colombia, Bolivia, Ecuador）
 
 <h5 id="cyrilliotermes">Cyrilliotermes</h5>
 
-\*Cyrilliotermes angulariceps 角头壶头白蚁（South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador）
+\*[*Cyrilliotermes angulariceps* 角头壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-angulariceps/)（South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador）
 
-Cyrilliotermes brevidens 短齿壶头白蚁（Brazil）
+[*Cyrilliotermes brevidens* 短齿壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-brevidens/)（Brazil）
 
-Cyrilliotermes crassinasus 粗鼻壶头白蚁（Brazil）
+[*Cyrilliotermes crassinasus* 粗鼻壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-crassinasus/)（Brazil）
 
-Cyrilliotermes strictinasus 缩鼻壶头白蚁（South America, Brazil）
+[*Cyrilliotermes strictinasus* 缩鼻壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-strictinasus/)（South America, Brazil）
 
 <h5 id="embiratermes">Embiratermes</h5>
 
-Embiratermes benjamini 本杰明生白蚁（Bolivia, Venezuela）
+[*Embiratermes benjamini* 本杰明生白蚁]({{ site.base_url }}/species/embiratermes-benjamini/)（Bolivia, Venezuela）
 
-Embiratermes chagresi 查格雷斯生白蚁（Colombia, Panama, Costa Rica, Ecuador, Nicaragua）
+[*Embiratermes chagresi* 查格雷斯生白蚁]({{ site.base_url }}/species/embiratermes-chagresi/)（Colombia, Panama, Costa Rica, Ecuador, Nicaragua）
 
-\*Embiratermes festivellus 喜庆生白蚁（Brazil）
+\*[*Embiratermes festivellus* 喜庆生白蚁]({{ site.base_url }}/species/embiratermes-festivellus/)（Brazil）
 
-Embiratermes heterotypus 异型生白蚁（Brazil, Argentina, Paraguay）
+[*Embiratermes heterotypus* 异型生白蚁]({{ site.base_url }}/species/embiratermes-heterotypus/)（Brazil, Argentina, Paraguay）
 
-Embiratermes latidens 宽齿生白蚁（Brazil, Bolivia, Colombia, Paraguay, Peru, Suriname, Venezuela）
+[*Embiratermes latidens* 宽齿生白蚁]({{ site.base_url }}/species/embiratermes-latidens/)（Brazil, Bolivia, Colombia, Paraguay, Peru, Suriname, Venezuela）
 
-Embiratermes neotenicus 幼态生白蚁（Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela）
+[*Embiratermes neotenicus* 幼态生白蚁]({{ site.base_url }}/species/embiratermes-neotenicus/)（Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela）
 
-Embiratermes snyderi 斯奈德生白蚁（French Guiana, Guyana）
+[*Embiratermes snyderi* 斯奈德生白蚁]({{ site.base_url }}/species/embiratermes-snyderi/)（French Guiana, Guyana）
 
-Embiratermes spissus 密实生白蚁（Colombia, Peru, Brazil, Ecuador, Guyana, Venezuela）
+[*Embiratermes spissus* 密实生白蚁]({{ site.base_url }}/species/embiratermes-spissus/)（Colombia, Peru, Brazil, Ecuador, Guyana, Venezuela）
 
-Embiratermes transandinus 安弟斯生白蚁（Brazil, Ecuador, Venezuela）
+[*Embiratermes transandinus* 安弟斯生白蚁]({{ site.base_url }}/species/embiratermes-transandinus/)（Brazil, Ecuador, Venezuela）
 
 <h5 id="genuotermes">Genuotermes</h5>
 
-\*Genuotermes spinifer 具脊膝白蚁（Brazil）
+\*[*Genuotermes spinifer* 具脊膝白蚁]({{ site.base_url }}/species/genuotermes-spinifer/)（Brazil）
 
 <h5 id="ibitermes">Ibitermes</h5>
 
-Ibitermes curupira 长毛地球白蚁（Brazil, Bolivia）
+[*Ibitermes curupira* 长毛地球白蚁]({{ site.base_url }}/species/ibitermes-curupira/)（Brazil, Bolivia）
 
-\*Ibitermes inflatus 高唇基地球白蚁（Brazil）
+\*[*Ibitermes inflatus* 高唇基地球白蚁]({{ site.base_url }}/species/ibitermes-inflatus/)（Brazil）
 
 <h5 id="labiotermes">Labiotermes</h5>
 
-Labiotermes brevilabius 短唇厚唇白蚁（Brazil, Bolivia）
+[*Labiotermes brevilabius* 短唇厚唇白蚁]({{ site.base_url }}/species/labiotermes-brevilabius/)（Brazil, Bolivia）
 
-Labiotermes emersoni 埃默森厚唇白蚁（Brazil, Bolivia, Argentina, Paraguay）
+[*Labiotermes emersoni* 埃默森厚唇白蚁]({{ site.base_url }}/species/labiotermes-emersoni/)（Brazil, Bolivia, Argentina, Paraguay）
 
-Labiotermes guasu 大厚唇白蚁（Brazil, Colombia, Peru）
+[*Labiotermes guasu* 大厚唇白蚁]({{ site.base_url }}/species/labiotermes-guasu/)（Brazil, Colombia, Peru）
 
-\*Labiotermes labralis 细唇厚唇白蚁（Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia）
+\*[*Labiotermes labralis* 细唇厚唇白蚁]({{ site.base_url }}/species/labiotermes-labralis/)（Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia）
 
-Labiotermes laticephalus 宽头厚唇白蚁（Brazil, Bolivia, Paraguay, Argentina）
+[*Labiotermes laticephalus* 宽头厚唇白蚁]({{ site.base_url }}/species/labiotermes-laticephalus/)（Brazil, Bolivia, Paraguay, Argentina）
 
-Labiotermes leptothrix 纤毛厚唇白蚁（Brazil, Colombia）
+[*Labiotermes leptothrix* 纤毛厚唇白蚁]({{ site.base_url }}/species/labiotermes-leptothrix/)（Brazil, Colombia）
 
-Labiotermes longilabius 长唇厚唇白蚁（Brazil, French Guiana, Paraguay）
+[*Labiotermes longilabius* 长唇厚唇白蚁]({{ site.base_url }}/species/labiotermes-longilabius/)（Brazil, French Guiana, Paraguay）
 
-Labiotermes oreadicus 山神厚唇白蚁（Brazil）
+[*Labiotermes oreadicus* 山神厚唇白蚁]({{ site.base_url }}/species/labiotermes-oreadicus/)（Brazil）
 
-Labiotermes orthocephalus 直头厚唇白蚁（Brazil, Paraguay）
+[*Labiotermes orthocephalus* 直头厚唇白蚁]({{ site.base_url }}/species/labiotermes-orthocephalus/)（Brazil, Paraguay）
 
-Labiotermes pelliceus 毛头厚唇白蚁（Brazil, Colombia, Guyana, Bolivia, Ecuador, Peru）
+[*Labiotermes pelliceus* 毛头厚唇白蚁]({{ site.base_url }}/species/labiotermes-pelliceus/)（Brazil, Colombia, Guyana, Bolivia, Ecuador, Peru）
 
 <h5 id="macuxitermes">Macuxitermes</h5>
 
-Macuxitermes colombicus 哥伦比亚马库希白蚁（Neotropics, Colombia）
+[*Macuxitermes colombicus* 哥伦比亚马库希白蚁]({{ site.base_url }}/species/macuxitermes-colombicus/)（Neotropics, Colombia）
 
-\*Macuxitermes triceratops 三角马库希白蚁（Brazil）
+\*[*Macuxitermes triceratops* 三角马库希白蚁]({{ site.base_url }}/species/macuxitermes-triceratops/)（Brazil）
 
 <h5 id="mapinguaritermes">Mapinguaritermes</h5>
 
-Mapinguaritermes grandidens 大齿红懒白蚁（Colombia, French Guiana, Guyana, Brazil）
+[*Mapinguaritermes grandidens* 大齿红懒白蚁]({{ site.base_url }}/species/mapinguaritermes-grandidens/)（Colombia, French Guiana, Guyana, Brazil）
 
-Mapinguaritermes marizalensis 马里扎尔红懒白蚁（Brazil）
+[*Mapinguaritermes marizalensis* 马里扎尔红懒白蚁]({{ site.base_url }}/species/mapinguaritermes-marizalensis/)（Brazil）
 
-\*Mapinguaritermes peruanus 秘鲁红懒白蚁（Peru, Neotropics, Ecuador）
+\*[*Mapinguaritermes peruanus* 秘鲁红懒白蚁]({{ site.base_url }}/species/mapinguaritermes-peruanus/)（Peru, Neotropics, Ecuador）
 
 <h5 id="noirotitermes">Noirotitermes</h5>
 
-\*Noirotitermes noiroti 努瓦罗努瓦罗白蚁（Brazil）
+\*[*Noirotitermes noiroti* 努瓦罗努瓦罗白蚁]({{ site.base_url }}/species/noirotitermes-noiroti/)（Brazil）
 
 <h5 id="paracurvitermes">Paracurvitermes</h5>
 
-\*Paracurvitermes manni 曼近曲白蚁（Brazil, Bolivia）
+\*[*Paracurvitermes manni* 曼近曲白蚁]({{ site.base_url }}/species/paracurvitermes-manni/)（Brazil, Bolivia）
 
 <h5 id="procornitermes">Procornitermes</h5>
 
-Procornitermes araujoi 阿劳若前角白蚁（Brazil）
+[*Procornitermes araujoi* 阿劳若前角白蚁]({{ site.base_url }}/species/procornitermes-araujoi/)（Brazil）
 
-Procornitermes lespesii 莱佩斯前角白蚁（Brazil, Bolivia, Paraguay, Argentina）
+[*Procornitermes lespesii* 莱佩斯前角白蚁]({{ site.base_url }}/species/procornitermes-lespesii/)（Brazil, Bolivia, Paraguay, Argentina）
 
-Procornitermes romani 罗曼前角白蚁（Brazil）
+[*Procornitermes romani* 罗曼前角白蚁]({{ site.base_url }}/species/procornitermes-romani/)（Brazil）
 
-Procornitermes striatus 具沟前角白蚁（Argentina, Brazil, Uruguay, Paraguay）
+[*Procornitermes striatus* 具沟前角白蚁]({{ site.base_url }}/species/procornitermes-striatus/)（Argentina, Brazil, Uruguay, Paraguay）
 
-\*Procornitermes triacifer 三尖唇前角白蚁（Brazil, Argentina, Bolivia, Paraguay）
+\*[*Procornitermes triacifer* 三尖唇前角白蚁]({{ site.base_url }}/species/procornitermes-triacifer/)（Brazil, Argentina, Bolivia, Paraguay）
 
 <h5 id="rhynchotermes">Rhynchotermes</h5>
 
-Rhynchotermes amazonensis 亚马孙喙白蚁（Colombia, Brazil）
+[*Rhynchotermes amazonensis* 亚马孙喙白蚁]({{ site.base_url }}/species/rhynchotermes-amazonensis/)（Colombia, Brazil）
 
-Rhynchotermes armatus 武装喙白蚁（Colombia）
+[*Rhynchotermes armatus* 武装喙白蚁]({{ site.base_url }}/species/rhynchotermes-armatus/)（Colombia）
 
-Rhynchotermes bulbinasus 葱鼻喙白蚁（Colombia）
+[*Rhynchotermes bulbinasus* 葱鼻喙白蚁]({{ site.base_url }}/species/rhynchotermes-bulbinasus/)（Colombia）
 
-Rhynchotermes diphyes 黑白喙白蚁（Brazil）
+[*Rhynchotermes diphyes* 黑白喙白蚁]({{ site.base_url }}/species/rhynchotermes-diphyes/)（Brazil）
 
-Rhynchotermes matraga 马特拉加喙白蚁（Brazil）
+[*Rhynchotermes matraga* 马特拉加喙白蚁]({{ site.base_url }}/species/rhynchotermes-matraga/)（Brazil）
 
-\*Rhynchotermes nasutissimus 巨鼻喙白蚁（Brazil, Bolivia, Paraguay, Argentina, Peru）
+\*[*Rhynchotermes nasutissimus* 巨鼻喙白蚁]({{ site.base_url }}/species/rhynchotermes-nasutissimus/)（Brazil, Bolivia, Paraguay, Argentina, Peru）
 
-Rhynchotermes perarmatus 全武喙白蚁（Costa Rica, Panama, Ecuador, Colombia, Belize, Guatemala）
+[*Rhynchotermes perarmatus* 全武喙白蚁]({{ site.base_url }}/species/rhynchotermes-perarmatus/)（Costa Rica, Panama, Ecuador, Colombia, Belize, Guatemala）
 
-Rhynchotermes piauy 皮奥伊喙白蚁（Brazil）
+[*Rhynchotermes piauy* 皮奥伊喙白蚁]({{ site.base_url }}/species/rhynchotermes-piauy/)（Brazil）
 
 <h5 id="silvestritermes">Silvestritermes</h5>
 
-Silvestritermes almirsateri 阿尔米尔萨特尔西尔韦斯特里白蚁（Brazil）
+[*Silvestritermes almirsateri* 阿尔米尔萨特尔西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-almirsateri/)（Brazil）
 
-Silvestritermes duende 精灵西尔韦斯特里白蚁（Brazil）
+[*Silvestritermes duende* 精灵西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-duende/)（Brazil）
 
-\*Silvestritermes euamignathus 真弓颚西尔韦斯特里白蚁（Brazil, Colombia, Venezuela, Bolivia, Paraguay）
+\*[*Silvestritermes euamignathus* 真弓颚西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-euamignathus/)（Brazil, Colombia, Venezuela, Bolivia, Paraguay）
 
-Silvestritermes gnomus 标记西尔韦斯特里白蚁（Brazil, Ecuador）
+[*Silvestritermes gnomus* 标记西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-gnomus/)（Brazil, Ecuador）
 
-Silvestritermes heyeri 海耶尔西尔韦斯特里白蚁（Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela）
+[*Silvestritermes heyeri* 海耶尔西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-heyeri/)（Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela）
 
-Silvestritermes lanei 莱恩西尔韦斯特里白蚁（Brazil）
+[*Silvestritermes lanei* 莱恩西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-lanei/)（Brazil）
 
-Silvestritermes minutus 最小西尔韦斯特里白蚁（Brazil, Colombia, French Guiana, Guyana, Suriname, Ecuador, Peru）
+[*Silvestritermes minutus* 最小西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-minutus/)（Brazil, Colombia, French Guiana, Guyana, Suriname, Ecuador, Peru）
 
 <h5 id="syntermes">Syntermes</h5>
 
-Syntermes aculeosus 胸刺聚白蚁（Brazil, Peru, Bolivia, Ecuador, French Guiana, Venezuela, Colombia, Suriname, Guyana）
+[*Syntermes aculeosus* 胸刺聚白蚁]({{ site.base_url }}/species/syntermes-aculeosus/)（Brazil, Peru, Bolivia, Ecuador, French Guiana, Venezuela, Colombia, Suriname, Guyana）
 
-Syntermes barbatus 倒钩聚白蚁（Brazil）
+[*Syntermes barbatus* 倒钩聚白蚁]({{ site.base_url }}/species/syntermes-barbatus/)（Brazil）
 
-Syntermes bolivianus 玻利维亚聚白蚁（Bolivia, Argentina）
+[*Syntermes bolivianus* 玻利维亚聚白蚁]({{ site.base_url }}/species/syntermes-bolivianus/)（Bolivia, Argentina）
 
-Syntermes brevimalatus 短颚聚白蚁（Colombia, Guyana）
+[*Syntermes brevimalatus* 短颚聚白蚁]({{ site.base_url }}/species/syntermes-brevimalatus/)（Colombia, Guyana）
 
-Syntermes calvus 无毛聚白蚁（Brazil, French Guiana, Guyana）
+[*Syntermes calvus* 无毛聚白蚁]({{ site.base_url }}/species/syntermes-calvus/)（Brazil, French Guiana, Guyana）
 
-Syntermes cearensis 塞阿腊聚白蚁（Brazil, Bolivia）
+[*Syntermes cearensis* 塞阿腊聚白蚁]({{ site.base_url }}/species/syntermes-cearensis/)（Brazil, Bolivia）
 
-Syntermes chaquimayensis 查基马约聚白蚁（Colombia, Bolivia, Brazil, Peru, Ecuador）
+[*Syntermes chaquimayensis* 查基马约聚白蚁]({{ site.base_url }}/species/syntermes-chaquimayensis/)（Colombia, Bolivia, Brazil, Peru, Ecuador）
 
-Syntermes crassilabrum 厚唇聚白蚁（Colombia, Brazil）
+[*Syntermes crassilabrum* 厚唇聚白蚁]({{ site.base_url }}/species/syntermes-crassilabrum/)（Colombia, Brazil）
 
-\*Syntermes dirus 可怕聚白蚁（Brazil）
+\*[*Syntermes dirus* 可怕聚白蚁]({{ site.base_url }}/species/syntermes-dirus/)（Brazil）
 
-Syntermes grandis 大聚白蚁（Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana）
+[*Syntermes grandis* 大聚白蚁]({{ site.base_url }}/species/syntermes-grandis/)（Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana）
 
-Syntermes insidians 隐蔽聚白蚁（Brazil）
+[*Syntermes insidians* 隐蔽聚白蚁]({{ site.base_url }}/species/syntermes-insidians/)（Brazil）
 
-Syntermes longiceps 长头聚白蚁（Brazil, Colombia）
+[*Syntermes longiceps* 长头聚白蚁]({{ site.base_url }}/species/syntermes-longiceps/)（Brazil, Colombia）
 
-Syntermes magnoculus 大眼聚白蚁（Brazil）
+[*Syntermes magnoculus* 大眼聚白蚁]({{ site.base_url }}/species/syntermes-magnoculus/)（Brazil）
 
-Syntermes molestus 讨厌聚白蚁（Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname）
+[*Syntermes molestus* 讨厌聚白蚁]({{ site.base_url }}/species/syntermes-molestus/)（Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname）
 
-Syntermes nanus 侏儒聚白蚁（Brazil, Colombia, Argentina, Bolivia, Paraguay）
+[*Syntermes nanus* 侏儒聚白蚁]({{ site.base_url }}/species/syntermes-nanus/)（Brazil, Colombia, Argentina, Bolivia, Paraguay）
 
-Syntermes obtusus 迟钝聚白蚁（Brazil, Paraguay, Argentina, Bolivia）
+[*Syntermes obtusus* 迟钝聚白蚁]({{ site.base_url }}/species/syntermes-obtusus/)（Brazil, Paraguay, Argentina, Bolivia）
 
-Syntermes parallelus 平行聚白蚁（Brazil, Venezuela, Colombia, French Guiana, Guyana）
+[*Syntermes parallelus* 平行聚白蚁]({{ site.base_url }}/species/syntermes-parallelus/)（Brazil, Venezuela, Colombia, French Guiana, Guyana）
 
-Syntermes peruanus 秘鲁聚白蚁（Brazil, Bolivia, Peru）
+[*Syntermes peruanus* 秘鲁聚白蚁]({{ site.base_url }}/species/syntermes-peruanus/)（Brazil, Bolivia, Peru）
 
-Syntermes praecellens 优越聚白蚁（Brazil, Bolivia）
+[*Syntermes praecellens* 优越聚白蚁]({{ site.base_url }}/species/syntermes-praecellens/)（Brazil, Bolivia）
 
-Syntermes spinosus 多刺聚白蚁（Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela）
+[*Syntermes spinosus* 多刺聚白蚁]({{ site.base_url }}/species/syntermes-spinosus/)（Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela）
 
-Syntermes tanygnathus 长颚聚白蚁（Brazil, Colombia）
+[*Syntermes tanygnathus* 长颚聚白蚁]({{ site.base_url }}/species/syntermes-tanygnathus/)（Brazil, Colombia）
 
-Syntermes territus 受惊聚白蚁（Colombia, French Guiana, Brazil, Guyana, Suriname, Panama, Venezuela）
+[*Syntermes territus* 受惊聚白蚁]({{ site.base_url }}/species/syntermes-territus/)（Colombia, French Guiana, Brazil, Guyana, Suriname, Panama, Venezuela）
 
-Syntermes wheeleri 惠勒聚白蚁（Brazil, Paraguay）
+[*Syntermes wheeleri* 惠勒聚白蚁]({{ site.base_url }}/species/syntermes-wheeleri/)（Brazil, Paraguay）
 
 <h5 id="uncitermes">Uncitermes</h5>
 
-Uncitermes almeriae 阿尔梅里弯钩白蚁（Peru, Ecuador）
+[*Uncitermes almeriae* 阿尔梅里弯钩白蚁]({{ site.base_url }}/species/uncitermes-almeriae/)（Peru, Ecuador）
 
-\*Uncitermes teevani 蒂范弯钩白蚁（Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Venezuela, Ecuador）
+\*[*Uncitermes teevani* 蒂范弯钩白蚁]({{ site.base_url }}/species/uncitermes-teevani/)（Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Venezuela, Ecuador）
 
 <h5 id="vaninitermes">Vaninitermes</h5>
 
-Vaninitermes brevinasus 短鼻瓦宁白蚁（French Guiana, Brazil, Guyana）
+[*Vaninitermes brevinasus* 短鼻瓦宁白蚁]({{ site.base_url }}/species/vaninitermes-brevinasus/)（French Guiana, Brazil, Guyana）
 
-\*Vaninitermes ignotus 忽视瓦宁白蚁（Brazil, Colombia, French Guiana, Peru）
+\*[*Vaninitermes ignotus* 忽视瓦宁白蚁]({{ site.base_url }}/species/vaninitermes-ignotus/)（Brazil, Colombia, French Guiana, Peru）
 
 <h4 id="termitinae">Termitinae</h4>
 
@@ -7150,261 +7150,261 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="apsenterotermes">Apsenterotermes</h5>
 
-Apsenterotermes aspersus 散乱后肠白蚁（Australia）
+[*Apsenterotermes aspersus* 散乱后肠白蚁]({{ site.base_url }}/species/apsenterotermes-aspersus/)（Australia）
 
-Apsenterotermes declinatus 长弯后肠白蚁（Australia）
+[*Apsenterotermes declinatus* 长弯后肠白蚁]({{ site.base_url }}/species/apsenterotermes-declinatus/)（Australia）
 
-Apsenterotermes improcerus 粗短后肠白蚁（Australia）
+[*Apsenterotermes improcerus* 粗短后肠白蚁]({{ site.base_url }}/species/apsenterotermes-improcerus/)（Australia）
 
-\*Apsenterotermes iridipennis 虹翅后肠白蚁（Australia）
+\*[*Apsenterotermes iridipennis* 虹翅后肠白蚁]({{ site.base_url }}/species/apsenterotermes-iridipennis/)（Australia）
 
-Apsenterotermes stenopronos 细管后肠白蚁（Australia）
+[*Apsenterotermes stenopronos* 细管后肠白蚁]({{ site.base_url }}/species/apsenterotermes-stenopronos/)（Australia）
 
 <h5 id="capritermes">Capritermes</h5>
 
-\*Capritermes capricornis 山羊角扭白蚁（Côte d'Ivoire, Madagascar）
+\*[*Capritermes capricornis* 山羊角扭白蚁]({{ site.base_url }}/species/capritermes-capricornis/)（Côte d'Ivoire, Madagascar）
 
 <h5 id="cavitermes">Cavitermes</h5>
 
-Cavitermes parmae 帕尔马腔白蚁（Brazil, Ecuador）
+[*Cavitermes parmae* 帕尔马腔白蚁]({{ site.base_url }}/species/cavitermes-parmae/)（Brazil, Ecuador）
 
-Cavitermes parvicavus 小腔腔白蚁（Brazil, Colombia, Ecuador）
+[*Cavitermes parvicavus* 小腔腔白蚁]({{ site.base_url }}/species/cavitermes-parvicavus/)（Brazil, Colombia, Ecuador）
 
-Cavitermes rozeni 罗森腔白蚁（Brazil, Ecuador）
+[*Cavitermes rozeni* 罗森腔白蚁]({{ site.base_url }}/species/cavitermes-rozeni/)（Brazil, Ecuador）
 
-Cavitermes simplicinervis 简灰腔白蚁（Brazil）
+[*Cavitermes simplicinervis* 简灰腔白蚁]({{ site.base_url }}/species/cavitermes-simplicinervis/)（Brazil）
 
-\*Cavitermes tuberosus 肉瘤腔白蚁（Brazil, French Guiana, Colombia, Trinidad and Tobago, Bolivia, Guyana, Ecuador, Venezuela）
+\*[*Cavitermes tuberosus* 肉瘤腔白蚁]({{ site.base_url }}/species/cavitermes-tuberosus/)（Brazil, French Guiana, Colombia, Trinidad and Tobago, Bolivia, Guyana, Ecuador, Venezuela）
 
 <h5 id="cornicapritermes">Cornicapritermes</h5>
 
-\*Cornicapritermes mucronatus 尖锐角扭白蚁（Brazil, French Guiana, Colombia）
+\*[*Cornicapritermes mucronatus* 尖锐角扭白蚁]({{ site.base_url }}/species/cornicapritermes-mucronatus/)（Brazil, French Guiana, Colombia）
 
 <h5 id="cristatitermes">Cristatitermes</h5>
 
-Cristatitermes arenicola 沙栖脊突白蚁（Australia）
+[*Cristatitermes arenicola* 沙栖脊突白蚁]({{ site.base_url }}/species/cristatitermes-arenicola/)（Australia）
 
-Cristatitermes barretti 巴雷特脊突白蚁（Australia）
+[*Cristatitermes barretti* 巴雷特脊突白蚁]({{ site.base_url }}/species/cristatitermes-barretti/)（Australia）
 
-\*Cristatitermes carinatus 颏突脊突白蚁（Australia）
+\*[*Cristatitermes carinatus* 颏突脊突白蚁]({{ site.base_url }}/species/cristatitermes-carinatus/)（Australia）
 
-Cristatitermes froggatti 弗洛格特脊突白蚁（Australia）
+[*Cristatitermes froggatti* 弗洛格特脊突白蚁]({{ site.base_url }}/species/cristatitermes-froggatti/)（Australia）
 
-Cristatitermes pineaformis 松球脊突白蚁（Australia）
+[*Cristatitermes pineaformis* 松球脊突白蚁]({{ site.base_url }}/species/cristatitermes-pineaformis/)（Australia）
 
-Cristatitermes tutulatus 毛头脊突白蚁（Australia）
+[*Cristatitermes tutulatus* 毛头脊突白蚁]({{ site.base_url }}/species/cristatitermes-tutulatus/)（Australia）
 
 <h5 id="dihoplotermes">Dihoplotermes</h5>
 
-\*Dihoplotermes inusitatus 非凡双戟白蚁（South America, Brazil, French Guiana, Argentina, Bolivia, Paraguay, Uruguay）
+\*[*Dihoplotermes inusitatus* 非凡双戟白蚁]({{ site.base_url }}/species/dihoplotermes-inusitatus/)（South America, Brazil, French Guiana, Argentina, Bolivia, Paraguay, Uruguay）
 
-Dihoplotermes taurus 公牛双戟白蚁（Brazil）
+[*Dihoplotermes taurus* 公牛双戟白蚁]({{ site.base_url }}/species/dihoplotermes-taurus/)（Brazil）
 
 <h5 id="divinotermes">Divinotermes</h5>
 
-\*Divinotermes allognathus 异颚迪维努白蚁（Brazil）
+\*[*Divinotermes allognathus* 异颚迪维努白蚁]({{ site.base_url }}/species/divinotermes-allognathus/)（Brazil）
 
-Divinotermes digitatus 具指迪维努白蚁（Brazil）
+[*Divinotermes digitatus* 具指迪维努白蚁]({{ site.base_url }}/species/divinotermes-digitatus/)（Brazil）
 
-Divinotermes tuberculatus 小瘤迪维努白蚁（Brazil, Bolivia）
+[*Divinotermes tuberculatus* 小瘤迪维努白蚁]({{ site.base_url }}/species/divinotermes-tuberculatus/)（Brazil, Bolivia）
 
 <h5 id="ekphysotermes">Ekphysotermes</h5>
 
-Ekphysotermes jarmuranus 贾穆瘤突白蚁（Australia）
+[*Ekphysotermes jarmuranus* 贾穆瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-jarmuranus/)（Australia）
 
-\*Ekphysotermes kalgoorliensis 卡尔古利瘤突白蚁（Australia）
+\*[*Ekphysotermes kalgoorliensis* 卡尔古利瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-kalgoorliensis/)（Australia）
 
-Ekphysotermes ocellaris 眼显瘤突白蚁（Australia）
+[*Ekphysotermes ocellaris* 眼显瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-ocellaris/)（Australia）
 
-Ekphysotermes pelatus 脱皮瘤突白蚁（Australia）
+[*Ekphysotermes pelatus* 脱皮瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-pelatus/)（Australia）
 
-Ekphysotermes percomis 可爱瘤突白蚁（Australia）
+[*Ekphysotermes percomis* 可爱瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-percomis/)（Australia）
 
 <h5 id="ephelotermes">Ephelotermes</h5>
 
-Ephelotermes argutus 清楚棒颚白蚁（Australia）
+[*Ephelotermes argutus* 清楚棒颚白蚁]({{ site.base_url }}/species/ephelotermes-argutus/)（Australia）
 
-Ephelotermes cheeli 奇尔棒颚白蚁（Australia, Papua New Guinea）
+[*Ephelotermes cheeli* 奇尔棒颚白蚁]({{ site.base_url }}/species/ephelotermes-cheeli/)（Australia, Papua New Guinea）
 
-\*Ephelotermes melachoma 黑垄棒颚白蚁（Australia）
+\*[*Ephelotermes melachoma* 黑垄棒颚白蚁]({{ site.base_url }}/species/ephelotermes-melachoma/)（Australia）
 
-Ephelotermes paleatus 深颏棒颚白蚁（Australia, Papua New Guinea）
+[*Ephelotermes paleatus* 深颏棒颚白蚁]({{ site.base_url }}/species/ephelotermes-paleatus/)（Australia, Papua New Guinea）
 
-Ephelotermes persimilis 相似棒颚白蚁（Australia）
+[*Ephelotermes persimilis* 相似棒颚白蚁]({{ site.base_url }}/species/ephelotermes-persimilis/)（Australia）
 
-Ephelotermes taylori 泰勒棒颚白蚁（Australia）
+[*Ephelotermes taylori* 泰勒棒颚白蚁]({{ site.base_url }}/species/ephelotermes-taylori/)（Australia）
 
 <h5 id="hapsidotermes">Hapsidotermes</h5>
 
-\*Hapsidotermes harrisi 哈里斯络白蚁（Australia）
+\*[*Hapsidotermes harrisi* 哈里斯络白蚁]({{ site.base_url }}/species/hapsidotermes-harrisi/)（Australia）
 
-Hapsidotermes labellus 小唇络白蚁（Australia）
+[*Hapsidotermes labellus* 小唇络白蚁]({{ site.base_url }}/species/hapsidotermes-labellus/)（Australia）
 
-Hapsidotermes longius 较长络白蚁（Australia）
+[*Hapsidotermes longius* 较长络白蚁]({{ site.base_url }}/species/hapsidotermes-longius/)（Australia）
 
-Hapsidotermes maideni 梅登络白蚁（Australia）
+[*Hapsidotermes maideni* 梅登络白蚁]({{ site.base_url }}/species/hapsidotermes-maideni/)（Australia）
 
-Hapsidotermes orbus 孤儿络白蚁（Australia）
+[*Hapsidotermes orbus* 孤儿络白蚁]({{ site.base_url }}/species/hapsidotermes-orbus/)（Australia）
 
 <h5 id="hesperotermes">Hesperotermes</h5>
 
-\*Hesperotermes infrequens 罕见西澳白蚁（Australia）
+\*[*Hesperotermes infrequens* 罕见西澳白蚁]({{ site.base_url }}/species/hesperotermes-infrequens/)（Australia）
 
 <h5 id="inquilinitermes">Inquilinitermes</h5>
 
-\*Inquilinitermes fur 窃贼客白蚁（Brazil）
+\*[*Inquilinitermes fur* 窃贼客白蚁]({{ site.base_url }}/species/inquilinitermes-fur/)（Brazil）
 
-Inquilinitermes inquilinus 旅居客白蚁（Brazil, French Guiana, Colombia, Guyana）
+[*Inquilinitermes inquilinus* 旅居客白蚁]({{ site.base_url }}/species/inquilinitermes-inquilinus/)（Brazil, French Guiana, Colombia, Guyana）
 
-Inquilinitermes johnchapmani 约翰查普曼客白蚁（Bolivia）
+[*Inquilinitermes johnchapmani* 约翰查普曼客白蚁]({{ site.base_url }}/species/inquilinitermes-johnchapmani/)（Bolivia）
 
-Inquilinitermes microcerus 小角客白蚁（Brazil）
+[*Inquilinitermes microcerus* 小角客白蚁]({{ site.base_url }}/species/inquilinitermes-microcerus/)（Brazil）
 
 <h5 id="lophotermes">Lophotermes</h5>
 
-Lophotermes aduncus 钩状小脊突白蚁（Australia, Papua New Guinea）
+[*Lophotermes aduncus* 钩状小脊突白蚁]({{ site.base_url }}/species/lophotermes-aduncus/)（Australia, Papua New Guinea）
 
-Lophotermes brevicephalus 短头小脊突白蚁（Australia, Papua New Guinea）
+[*Lophotermes brevicephalus* 短头小脊突白蚁]({{ site.base_url }}/species/lophotermes-brevicephalus/)（Australia, Papua New Guinea）
 
-Lophotermes crinitus 多毛小脊突白蚁（Australia）
+[*Lophotermes crinitus* 多毛小脊突白蚁]({{ site.base_url }}/species/lophotermes-crinitus/)（Australia）
 
-Lophotermes leptognathus 细颚小脊突白蚁（Australia）
+[*Lophotermes leptognathus* 细颚小脊突白蚁]({{ site.base_url }}/species/lophotermes-leptognathus/)（Australia）
 
-Lophotermes parvicornis 小角小脊突白蚁（Australia）
+[*Lophotermes parvicornis* 小角小脊突白蚁]({{ site.base_url }}/species/lophotermes-parvicornis/)（Australia）
 
-\*Lophotermes pectinatus 梳状小脊突白蚁（Australia）
+\*[*Lophotermes pectinatus* 梳状小脊突白蚁]({{ site.base_url }}/species/lophotermes-pectinatus/)（Australia）
 
-Lophotermes pusillus 极小小脊突白蚁（Australia）
+[*Lophotermes pusillus* 极小小脊突白蚁]({{ site.base_url }}/species/lophotermes-pusillus/)（Australia）
 
-Lophotermes quadratus 方形小脊突白蚁（Australia）
+[*Lophotermes quadratus* 方形小脊突白蚁]({{ site.base_url }}/species/lophotermes-quadratus/)（Australia）
 
-Lophotermes septentrionalis 北方小脊突白蚁（Australia）
+[*Lophotermes septentrionalis* 北方小脊突白蚁]({{ site.base_url }}/species/lophotermes-septentrionalis/)（Australia）
 
 <h5 id="macrognathotermes">Macrognathotermes</h5>
 
-Macrognathotermes broomensis 布鲁姆长颚白蚁（Australia）
+[*Macrognathotermes broomensis* 布鲁姆长颚白蚁]({{ site.base_url }}/species/macrognathotermes-broomensis/)（Australia）
 
-\*Macrognathotermes errator 游荡长颚白蚁（Australia, Papua New Guinea）
+\*[*Macrognathotermes errator* 游荡长颚白蚁]({{ site.base_url }}/species/macrognathotermes-errator/)（Australia, Papua New Guinea）
 
-Macrognathotermes prolatus 极长长颚白蚁（Australia）
+[*Macrognathotermes prolatus* 极长长颚白蚁]({{ site.base_url }}/species/macrognathotermes-prolatus/)（Australia）
 
-Macrognathotermes sunteri 森特长颚白蚁（Australia）
+[*Macrognathotermes sunteri* 森特长颚白蚁]({{ site.base_url }}/species/macrognathotermes-sunteri/)（Australia）
 
 <h5 id="palmitermes">Palmitermes</h5>
 
-\*Palmitermes impostor 骗子棕榈白蚁（Australia, Brazil, French Guiana）
+\*[*Palmitermes impostor* 骗子棕榈白蚁]({{ site.base_url }}/species/palmitermes-impostor/)（Australia, Brazil, French Guiana）
 
 <h5 id="paracapritermes">Paracapritermes</h5>
 
-Paracapritermes kraepelinii 克雷珀林旁扭白蚁（Australia）
+[*Paracapritermes kraepelinii* 克雷珀林旁扭白蚁]({{ site.base_url }}/species/paracapritermes-kraepelinii/)（Australia）
 
-\*Paracapritermes primus 第一旁扭白蚁（Australia）
+\*[*Paracapritermes primus* 第一旁扭白蚁]({{ site.base_url }}/species/paracapritermes-primus/)（Australia）
 
-Paracapritermes prolixus 细长旁扭白蚁（Australia）
+[*Paracapritermes prolixus* 细长旁扭白蚁]({{ site.base_url }}/species/paracapritermes-prolixus/)（Australia）
 
-Paracapritermes secundus 第二旁扭白蚁（Australia）
+[*Paracapritermes secundus* 第二旁扭白蚁]({{ site.base_url }}/species/paracapritermes-secundus/)（Australia）
 
 <h5 id="protocapritermes">Protocapritermes</h5>
 
-\*Protocapritermes krisiformis 波颚始扭白蚁（Australia）
+\*[*Protocapritermes krisiformis* 波颚始扭白蚁]({{ site.base_url }}/species/protocapritermes-krisiformis/)（Australia）
 
-Protocapritermes odontomachus 齿颚始扭白蚁（Australia, Papua New Guinea, Solomon Islands）
+[*Protocapritermes odontomachus* 齿颚始扭白蚁]({{ site.base_url }}/species/protocapritermes-odontomachus/)（Australia, Papua New Guinea, Solomon Islands）
 
 <h5 id="quasitermes">Quasitermes</h5>
 
-\*Quasitermes incisus 切割相似白蚁（Madagascar）
+\*[*Quasitermes incisus* 切割相似白蚁]({{ site.base_url }}/species/quasitermes-incisus/)（Madagascar）
 
 <h5 id="saxatilitermes">Saxatilitermes</h5>
 
-\*Saxatilitermes saxatilis 石栖石白蚁（Australia）
+\*[*Saxatilitermes saxatilis* 石栖石白蚁]({{ site.base_url }}/species/saxatilitermes-saxatilis/)（Australia）
 
 <h5 id="spinitermes">Spinitermes</h5>
 
-Spinitermes brevicornutus 短角针刺白蚁（French Guiana, Colombia, Argentina, Bolivia, Brazil, Paraguay）
+[*Spinitermes brevicornutus* 短角针刺白蚁]({{ site.base_url }}/species/spinitermes-brevicornutus/)（French Guiana, Colombia, Argentina, Bolivia, Brazil, Paraguay）
 
-Spinitermes longiceps 长头针刺白蚁（Brazil, Colombia, Ecuador）
+[*Spinitermes longiceps* 长头针刺白蚁]({{ site.base_url }}/species/spinitermes-longiceps/)（Brazil, Colombia, Ecuador）
 
-Spinitermes nigrostomus 黑嘴针刺白蚁（Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname）
+[*Spinitermes nigrostomus* 黑嘴针刺白蚁]({{ site.base_url }}/species/spinitermes-nigrostomus/)（Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname）
 
-Spinitermes robustus 粗壮针刺白蚁（Brazil, Bolivia）
+[*Spinitermes robustus* 粗壮针刺白蚁]({{ site.base_url }}/species/spinitermes-robustus/)（Brazil, Bolivia）
 
-\*Spinitermes trispinosus 三针针刺白蚁（Brazil, Colombia, French Guiana, Paraguay, Peru, Venezuela）
+\*[*Spinitermes trispinosus* 三针针刺白蚁]({{ site.base_url }}/species/spinitermes-trispinosus/)（Brazil, Colombia, French Guiana, Paraguay, Peru, Venezuela）
 
 <h5 id="termes">Termes</h5>
 
-Termes amaralii 阿马拉利白蚁（São Tomé and Príncipe）
+[*Termes amaralii* 阿马拉利白蚁]({{ site.base_url }}/species/termes-amaralii/)（São Tomé and Príncipe）
 
-Termes atlanticus 大西洋白蚁（Colombia）
+[*Termes atlanticus* 大西洋白蚁]({{ site.base_url }}/species/termes-atlanticus/)（Colombia）
 
-Termes ayri 艾尔白蚁（Brazil, Colombia, Ecuador, French Guiana, Peru, Venezuela）
+[*Termes ayri* 艾尔白蚁]({{ site.base_url }}/species/termes-ayri/)（Brazil, Colombia, Ecuador, French Guiana, Peru, Venezuela）
 
-Termes baculi 巴舍尔白蚁（Old World tropics, Cameroon, Nigeria, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Sudan）
+[*Termes baculi* 巴舍尔白蚁]({{ site.base_url }}/species/termes-baculi/)（Old World tropics, Cameroon, Nigeria, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Sudan）
 
-Termes baculiformis 似巴舍尔白蚁（Madagascar）
+[*Termes baculiformis* 似巴舍尔白蚁]({{ site.base_url }}/species/termes-baculiformis/)（Madagascar）
 
-Termes bolivianus 玻利维亚白蚁（French Guiana, Brazil, Paraguay, Bolivia, Argentina, Peru）
+[*Termes bolivianus* 玻利维亚白蚁]({{ site.base_url }}/species/termes-bolivianus/)（French Guiana, Brazil, Paraguay, Bolivia, Argentina, Peru）
 
-Termes boultoni 博尔顿白蚁（Zambia, Zimbabwe）
+[*Termes boultoni* 博尔顿白蚁]({{ site.base_url }}/species/termes-boultoni/)（Zambia, Zimbabwe）
 
-Termes brevicornis 短角白蚁（Malaysia）
+[*Termes brevicornis* 短角白蚁]({{ site.base_url }}/species/termes-brevicornis/)（Malaysia）
 
-Termes capensis 好望角白蚁（South Africa）
+[*Termes capensis* 好望角白蚁]({{ site.base_url }}/species/termes-capensis/)（South Africa）
 
-Termes chocoensis 乔科白蚁（Colombia）
+[*Termes chocoensis* 乔科白蚁]({{ site.base_url }}/species/termes-chocoensis/)（Colombia）
 
-Termes comis 友好白蚁（Indonesia, Malaysia, Singapore, Thailand, Vietnam）
+[*Termes comis* 友好白蚁]({{ site.base_url }}/species/termes-comis/)（Indonesia, Malaysia, Singapore, Thailand, Vietnam）
 
-\*Termes fatalis 祸根白蚁（Neotropics, Brazil, Colombia, French Guiana, etc., northern South America, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago, Venezuela）
+\*[*Termes fatalis* 祸根白蚁]({{ site.base_url }}/species/termes-fatalis/)（Neotropics, Brazil, Colombia, French Guiana, etc., northern South America, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago, Venezuela）
 
-Termes hispaniolae 伊斯帕尼奥拉白蚁（Neotropics, Central America and the Caribbean, widely distributed in northern South America, Belize, Bolivia, Brazil, Cayman Islands, Colombia, Costa Rica, Cuba, Dominican Republic, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Mexico, Montserrat, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Anguilla, Saint Lucia, Trinidad and Tobago, Venezuela, U.S. Virgin Islands, introduced: Bahamas）
+[*Termes hispaniolae* 伊斯帕尼奥拉白蚁]({{ site.base_url }}/species/termes-hispaniolae/)（Neotropics, Central America and the Caribbean, widely distributed in northern South America, Belize, Bolivia, Brazil, Cayman Islands, Colombia, Costa Rica, Cuba, Dominican Republic, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Mexico, Montserrat, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Anguilla, Saint Lucia, Trinidad and Tobago, Venezuela, U.S. Virgin Islands, introduced: Bahamas）
 
-Termes hospes 宿主白蚁（Old World tropics, Democratic Republic of the Congo, Senegal, Cameroon, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Uganda）
+[*Termes hospes* 宿主白蚁]({{ site.base_url }}/species/termes-hospes/)（Old World tropics, Democratic Republic of the Congo, Senegal, Cameroon, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Uganda）
 
-Termes huayangensis 怀阳白蚁（Guangdong, China, Huayang, Thailand）
+[*Termes huayangensis* 怀阳白蚁]({{ site.base_url }}/species/termes-huayangensis/)（Guangdong, China, Huayang, Thailand）
 
-Termes laticornis 宽角白蚁（Indonesia, Malaysia, Vietnam）
+[*Termes laticornis* 宽角白蚁]({{ site.base_url }}/species/termes-laticornis/)（Indonesia, Malaysia, Vietnam）
 
-Termes major 较大白蚁（Thailand）
+[*Termes major* 较大白蚁]({{ site.base_url }}/species/termes-major/)（Thailand）
 
-Termes marjoriae 钳白蚁（Yunnan (Jinghong500 m); Myanmar, China）
+[*Termes marjoriae* 钳白蚁]({{ site.base_url }}/species/termes-marjoriae/)（Yunnan (Jinghong500 m); Myanmar, China）
 
-Termes medioculatus 中推白蚁（Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela, Peru）
+[*Termes medioculatus* 中推白蚁]({{ site.base_url }}/species/termes-medioculatus/)（Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela, Peru）
 
-Termes melindae 梅林达白蚁（Central America, Mexico, Belize, Cayman Islands）
+[*Termes melindae* 梅林达白蚁]({{ site.base_url }}/species/termes-melindae/)（Central America, Mexico, Belize, Cayman Islands）
 
-Termes nigritus 黑色白蚁（Brazil, Argentina, Paraguay）
+[*Termes nigritus* 黑色白蚁]({{ site.base_url }}/species/termes-nigritus/)（Brazil, Argentina, Paraguay）
 
-Termes panamaensis 巴拿马白蚁（Colombia, Panama, Ecuador, Costa Rica, Guatemala, Mexico, Nicaragua, Trinidad and Tobago, Venezuela, United States Virgin Islands）
+[*Termes panamaensis* 巴拿马白蚁]({{ site.base_url }}/species/termes-panamaensis/)（Colombia, Panama, Ecuador, Costa Rica, Guatemala, Mexico, Nicaragua, Trinidad and Tobago, Venezuela, United States Virgin Islands）
 
-Termes propinquus 邻近白蚁（Indonesia, Malaysia, Thailand）
+[*Termes propinquus* 邻近白蚁]({{ site.base_url }}/species/termes-propinquus/)（Indonesia, Malaysia, Thailand）
 
-Termes riograndensis 里奥格兰德白蚁（Argentina, Brazil, Paraguay, Uruguay）
+[*Termes riograndensis* 里奥格兰德白蚁]({{ site.base_url }}/species/termes-riograndensis/)（Argentina, Brazil, Paraguay, Uruguay）
 
-Termes rostratus 尖鼻白蚁（Southeast Asia, Thailand, Malaysia, Indonesia, Singapore）
+[*Termes rostratus* 尖鼻白蚁]({{ site.base_url }}/species/termes-rostratus/)（Southeast Asia, Thailand, Malaysia, Indonesia, Singapore）
 
-Termes splendens 明亮白蚁（Ghana）
+[*Termes splendens* 明亮白蚁]({{ site.base_url }}/species/termes-splendens/)（Ghana）
 
 <h5 id="tuberculitermes">Tuberculitermes</h5>
 
-\*Tuberculitermes bycanistes 噪犀鸟小瘤白蚁（Old World tropics, Senegal, etc., West Africa）
+\*[*Tuberculitermes bycanistes* 噪犀鸟小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-bycanistes/)（Old World tropics, Senegal, etc., West Africa）
 
-Tuberculitermes flexuosus 弯曲小瘤白蚁（West Africa, Burkina Faso）
+[*Tuberculitermes flexuosus* 弯曲小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-flexuosus/)（West Africa, Burkina Faso）
 
-Tuberculitermes guineensis 几内亚小瘤白蚁（Cameroon, Ghana, Guinea, Nigeria, Sudan）
+[*Tuberculitermes guineensis* 几内亚小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-guineensis/)（Cameroon, Ghana, Guinea, Nigeria, Sudan）
 
 <h5 id="xylochomitermes">Xylochomitermes</h5>
 
-Xylochomitermes aspinosus 无刺木堆白蚁（Australia）
+[*Xylochomitermes aspinosus* 无刺木堆白蚁]({{ site.base_url }}/species/xylochomitermes-aspinosus/)（Australia）
 
-Xylochomitermes melvillensis 梅尔维尔木堆白蚁（Australia）
+[*Xylochomitermes melvillensis* 梅尔维尔木堆白蚁]({{ site.base_url }}/species/xylochomitermes-melvillensis/)（Australia）
 
-\*Xylochomitermes occidualis 西部木堆白蚁（Australia）
+\*[*Xylochomitermes occidualis* 西部木堆白蚁]({{ site.base_url }}/species/xylochomitermes-occidualis/)（Australia）
 
-Xylochomitermes punctillus 点囟木堆白蚁（Australia）
+[*Xylochomitermes punctillus* 点囟木堆白蚁]({{ site.base_url }}/species/xylochomitermes-punctillus/)（Australia）
 
-Xylochomitermes reductus 缩小木堆白蚁（Australia）
+[*Xylochomitermes reductus* 缩小木堆白蚁]({{ site.base_url }}/species/xylochomitermes-reductus/)（Australia）
 
-Xylochomitermes tomentosus 粗毛木堆白蚁（Australia）
+[*Xylochomitermes tomentosus* 粗毛木堆白蚁]({{ site.base_url }}/species/xylochomitermes-tomentosus/)（Australia）
 
 <h2 id="references">References</h2>
 
