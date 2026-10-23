@@ -34,27 +34,38 @@
         if (c.tagName === 'UL' && !childUl) childUl = c;
         else if (c.tagName === 'A' && !childA) childA = c;
       }
-      if (!childUl || !childA) continue;
-      var depth = 0, n = li;
-      while ((n = n.parentElement)) { if (n.tagName === 'UL') depth++; }
-      var collapsed = depth >= 3;
-      var btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'toc-toggle';
-      btn.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
-      btn.setAttribute('aria-label', '展开/收起');
-      btn.textContent = collapsed ? '▸' : '▾';
-      if (collapsed) li.classList.add('collapsed');
-      li.insertBefore(btn, childA);
-      btn.addEventListener('click', (function (li, btn) {
-        return function (ev) {
-          ev.preventDefault();
-          ev.stopPropagation();
-          var isCollapsed = li.classList.toggle('collapsed');
-          btn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
-          btn.textContent = isCollapsed ? '▸' : '▾';
-        };
-      })(li, btn));
+      if (!childA) continue;
+      var row = document.createElement('div');
+      row.className = 'toc-row';
+      if (childUl) {
+        var depth = 0, n = li;
+        while ((n = n.parentElement)) { if (n.tagName === 'UL') depth++; }
+        var collapsed = depth >= 3;
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'toc-toggle';
+        btn.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+        btn.setAttribute('aria-label', '展开/收起');
+        btn.textContent = collapsed ? '▸' : '▾';
+        if (collapsed) li.classList.add('collapsed');
+        btn.addEventListener('click', (function (li, btn) {
+          return function (ev) {
+            ev.preventDefault();
+            ev.stopPropagation();
+            var isCollapsed = li.classList.toggle('collapsed');
+            btn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
+            btn.textContent = isCollapsed ? '▸' : '▾';
+          };
+        })(li, btn));
+        row.appendChild(btn);
+      } else {
+        var sp = document.createElement('span');
+        sp.className = 'toc-spacer';
+        sp.setAttribute('aria-hidden', 'true');
+        row.appendChild(sp);
+      }
+      li.insertBefore(row, childA);
+      row.appendChild(childA);
     }
   }
 
