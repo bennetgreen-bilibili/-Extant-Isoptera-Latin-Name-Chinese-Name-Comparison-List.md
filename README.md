@@ -21,7 +21,7 @@
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
-- `sitemap.xml`：站点地图（jekyll-sitemap 构建时会自动覆盖为含全部页面）
+- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/custom.css`：搜索框脚本与样式
 
