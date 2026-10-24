@@ -39,4 +39,5 @@
 - `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式种标记；正文留空待补充）。
 - `list.md` / `en/list.md`：名录中每个物种名已链接到对应物种页。
 - 在 `_config.yml` 中通过 `collections.species` 注册（`output: true`，`permalink: /species/:name/`）。
+- 物种页底部有「同属其他种」内链区块：列出同属全部物种（最多 40 个，超出部分链接到 `/list/#<属id>`），用于增加站内抓取路径；数据来自 `_data/species_by_genus.json`，由 `.github/workflows/build_genus_index.py` 在 CI 构建时自动重新生成。本地新增/改名物种后，先执行 `python .github/workflows/build_genus_index.py` 再构建。
 - 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。

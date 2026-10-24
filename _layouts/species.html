@@ -54,4 +54,26 @@ layout: default
   </dl>
 
   {{ content }}
+
+  {%- comment -%} 同属其他种：_data/species_by_genus.json 由 .github/workflows/build_genus_index.py 生成 {%- endcomment -%}
+  {%- assign genus_siblings = site.data.species_by_genus[page.genus_id] -%}
+  {%- if genus_siblings and genus_siblings.size > 1 -%}
+  {%- assign sibling_total = genus_siblings.size -%}
+  {%- if page.rank != 'subspecies' -%}{%- assign sibling_total = sibling_total | minus: 1 -%}{%- endif -%}
+  {%- if sibling_total > 0 -%}
+  <section class="species-siblings" aria-labelledby="siblings-title">
+    <h2 id="siblings-title" class="siblings-title">同属其他种 <span class="fact-en">Other species in {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} 种）</span></h2>
+    <ul class="sibling-list">
+      {%- assign shown = 0 -%}
+      {%- for sp in genus_siblings -%}
+        {%- if sp.url != page.url and shown < 40 -%}
+      <li><a href="{{ site.base_url }}{{ sp.url }}"><i class="sibling-latin">{{ sp.latin }}</i> <span class="sibling-zh">{{ sp.zh }}</span></a></li>
+        {%- assign shown = shown | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+    <p class="sibling-more">{%- if sibling_total > shown -%}该属共 {{ sibling_total }} 种，{%- endif -%}<a href="{{ site.base_url }}/list/#{{ page.genus_id }}">在名录中查看 {{ page.genus_zh }} 的全部物种 →</a></p>
+  </section>
+  {%- endif -%}
+  {%- endif -%}
 </article>

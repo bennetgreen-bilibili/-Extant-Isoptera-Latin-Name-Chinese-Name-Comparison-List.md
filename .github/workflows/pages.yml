@@ -32,6 +32,9 @@ jobs:
       - name: Convert _inbox to posts
         run: python .github/workflows/convert_inbox.py
 
+      - name: Build genus index for species pages
+        run: python .github/workflows/build_genus_index.py
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
