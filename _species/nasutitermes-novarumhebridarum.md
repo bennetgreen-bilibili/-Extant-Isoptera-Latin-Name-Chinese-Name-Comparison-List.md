@@ -53,10 +53,4 @@ synonym_localities: "Solomon Islands: Santa Cruz Archipelago: Graciosa Bay; Papu
 2. *Eutermes yandiniensis* Hill, 1927: 25-28 —— 模式产地：Papua New Guinea: New Britain: Rabaul
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Nasutitermes (Grallatotermes) oceanicum*、*Eutermes yandiniensis* 等）出现，本站统一归入 *Nasutitermes novarumhebridarum*。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/nasutitermitinae.json]({{ site.base_url }}/data/termitidae/nasutitermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

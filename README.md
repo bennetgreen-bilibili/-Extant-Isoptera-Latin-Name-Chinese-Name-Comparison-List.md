@@ -44,7 +44,7 @@
 - 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。
 
 ## 物种页正文（自动生成）
-- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种 / 数据出处与引用**（每页 800–3900 字，3071 条摘要句互不相同）。
+- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3071 条摘要句互不相同）。
 - 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
 - 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。
 - 用法：`python .github/workflows/build_species_body.py`（只统计、不写文件）、`--write`（写回 `_species/*.md`）、`--sample <slug>...`（打印生成结果）、`--check-idempotent`。

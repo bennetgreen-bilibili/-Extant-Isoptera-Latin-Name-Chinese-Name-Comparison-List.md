@@ -55,10 +55,4 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]; Bolivia: 
 4. *Anoplotermes (Anoplotermes) clypeatus* Snyder, 1926: 47-48 —— 模式产地：Bolivia: El Beni: San Gregorio \[ 15.5S 64.666W \]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Anoplotermes (Anoplotermes) brevipilus*、*Anoplotermes (Anoplotermes) proximus*、*Anoplotermes (Anoplotermes) distinctus*、*Anoplotermes (Anoplotermes) clypeatus* 等）出现，本站统一归入 *Anoplotermes parvus*。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/apicotermitinae.json]({{ site.base_url }}/data/termitidae/apicotermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

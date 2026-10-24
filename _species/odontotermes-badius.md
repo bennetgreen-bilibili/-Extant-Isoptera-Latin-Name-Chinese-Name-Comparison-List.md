@@ -49,10 +49,4 @@ synonym_count: 0
 
 - [*Odontotermes badius badius* 指名亚种]({{ site.base_url }}/species/odontotermes-badius-badius/) —— Haviland, 1898，模式产地：South Africa: Natal: Durban
 - [*Odontotermes badius littoralis* 海滨亚种]({{ site.base_url }}/species/odontotermes-badius-littoralis/) —— Fuller, 1922，模式产地：South Africa: Natal: Durban
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/macrotermitinae.json]({{ site.base_url }}/data/termitidae/macrotermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

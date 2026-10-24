@@ -43,10 +43,4 @@ synonym_count: 0
 本亚种暂未单列分布记录；母种 *Basidentitermes mactus* 的分布为：西非、几内亚、利比里亚、加纳、科特迪瓦、尼日利亚、喀麦隆、坦桑尼亚。
 
 母种英文记录：West Africa, Guinea, Liberia, Ghana, Côte d'Ivoire, Nigeria, Cameroon, Tanzania。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/cubitermitinae.json]({{ site.base_url }}/data/termitidae/cubitermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

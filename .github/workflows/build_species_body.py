@@ -435,18 +435,9 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
             lines.append("- %s%s" % (
                 html_link("*%s* %s" % (sub["latin"], sub["zh"]), "/species/%s/" % sub["slug"]), suffix))
 
-    # ---- 数据出处 ---------------------------------------------------------
-    data_file = meta["fam_file"].get(family_id) or ""
-    if sub_id and meta["sub_file"].get(sub_id):
-        data_file = meta["sub_file"][sub_id]
-    lines += ["", "## 数据出处与引用", ""]
-    lines.append(
-        "本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》%s 版（%s 发布，%s 更新），"
-        "作者%s，以 CC BY 4.0 许可发布；对应的机器可读数据见 %s。" % (
-            meta["version"], meta["published"], meta["modified"], meta["creator"],
-            html_link(data_file, "/" + data_file) if data_file else "data/index.json"))
-    lines += ["", "引用格式（APA）：%s. (%s). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(%s 正式版). %s/" % (
-        meta["creator"], meta["version"].split(".")[0], meta["version"], SITE)]
+    # 说明：物种页不再写「数据出处与引用」小节——本站自己就是数据来源，
+    # 在每条物种记录里引用本站属于自我引用，对读者无意义。
+    # 全站层面的作者/版本/引用格式仍保留在首页 index.md。
     return "\n".join(lines)
 
 

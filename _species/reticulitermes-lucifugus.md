@@ -60,10 +60,4 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 - [*Reticulitermes lucifugus corsicus* 科西嘉亚种]({{ site.base_url }}/species/reticulitermes-lucifugus-corsicus/) —— Clément, 1977，模式产地：France: Corsica
 - [*Reticulitermes lucifugus lucifugus* 指名亚种]({{ site.base_url }}/species/reticulitermes-lucifugus-lucifugus/) —— Rossi, 1792，模式产地：(country unknown): "Shores of Mediterranean"
 - [*Reticulitermes lucifugus siculus* 西西里亚种]({{ site.base_url }}/species/reticulitermes-lucifugus-siculus/) —— Ghesini, Luchetti & Marini, 2024，模式产地：Italy: Sicily
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/heterotermitidae.json]({{ site.base_url }}/data/heterotermitidae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

@@ -48,10 +48,4 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 1. *Hodotermes erithreensis minor* Harris, 1946: 67 —— 模式产地：Somalia: Alabla Balleh, Halaya
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Hodotermes erithreensis minor* 出现，本站统一归入 *Hodotermes erithreensis*。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/hodotermitidae.json]({{ site.base_url }}/data/hodotermitidae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

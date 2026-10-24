@@ -49,10 +49,4 @@ synonym_count: 0
 
 - [*Nasutitermes longirostris longirostris* 指名亚种]({{ site.base_url }}/species/nasutitermes-longirostris-longirostris/) —— Holmgren, 1913，模式产地：Malaysia: Sarawak
 - [*Nasutitermes longirostris sabahicola* 沙巴亚种]({{ site.base_url }}/species/nasutitermes-longirostris-sabahicola/) —— Engel & Krishna, 2013，模式产地：Malaysia: Sabah: Lamag District: Tenegang Besar, mile 8
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/nasutitermitinae.json]({{ site.base_url }}/data/termitidae/nasutitermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

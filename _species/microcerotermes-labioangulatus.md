@@ -49,10 +49,4 @@ synonym_count: 0
 
 - [*Microcerotermes labioangulatus labioangulatus* 指名亚种]({{ site.base_url }}/species/microcerotermes-labioangulatus-labioangulatus/) —— Sen-Sarma & Thakur, 1975，模式产地：India: Tripura: Ambasa, Zoelchara
 - [*Microcerotermes labioangulatus wahkdaitensis* 瓦克代特亚种]({{ site.base_url }}/species/microcerotermes-labioangulatus-wahkdaitensis/) —— Das & Choudhury, 2020，模式产地：India: Meghalaya: Wahkdait area, East Khasi Hills \[ 25.208N 91.99E \]
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/microcerotermitinae.json]({{ site.base_url }}/data/termitidae/microcerotermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

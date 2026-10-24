@@ -51,10 +51,4 @@ synonym_localities: "Angola: Leba, Humpata"
 1. *Coarctotermes brunneus* Noirot, 1955: 150 —— 模式产地：Angola: Leba, Humpata
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Coarctotermes brunneus* 出现，本站统一归入 *Fulleritermes contractus*。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/nasutitermitinae.json]({{ site.base_url }}/data/termitidae/nasutitermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

@@ -51,10 +51,4 @@ synonym_localities: "Brasil: Goiás: Alto Paraíso de Goiás [14.1325S 47.51W]"
 1. *Rhynchotermes guarany* Cancello, 1997: 149-153 —— 模式产地：Brasil: Goiás: Alto Paraíso de Goiás \[14.1325S 47.51W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Rhynchotermes guarany* 出现，本站统一归入 *Rhynchotermes nasutissimus*。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/syntermitinae.json]({{ site.base_url }}/data/termitidae/syntermitinae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->

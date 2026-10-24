@@ -50,10 +50,4 @@ synonym_localities: "Australia: Western Australia, near Condon; Australia: Victo
 3. *Calotermes (Calotermes) oldfieldi chryseus* Hill, 1926: 201-202 —— 模式产地：Australia: New South Wales: Brooklana
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes (Calotermes) condonensis*、*Calotermes (Calotermes) oldfieldi*、*Calotermes (Calotermes) oldfieldi chryseus* 等）出现，本站统一归入 *Bifiditermes improbus*。
-
-## 数据出处与引用
-
-本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/kalotermitidae.json]({{ site.base_url }}/data/kalotermitidae.json)。
-
-引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
 <!-- AUTO:END -->
