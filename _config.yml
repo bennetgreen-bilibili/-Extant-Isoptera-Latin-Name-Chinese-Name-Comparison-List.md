@@ -5,6 +5,13 @@ description: >-
   提供名录检索、各阶元物种数统计，并按类群拆分的结构化数据（JSON-LD）。
 lang: zh-CN
 author: 班奈特格林
+# Jekyll 标准站点地址：canonical、sitemap.xml、以及所有绝对链接都由 url + baseurl 拼接。
+# 显式写死，避免依赖 GitHub Pages 构建时的自动注入（换域名/换构建方式时不会静默失效）。
+url: https://bennetgreen-bilibili.github.io
+baseurl: /-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
+
+# 站内模板自用的自定义变量：{{ site.base_url }} 在 _layouts、list.md、物种页里共 6000+ 处，
+# 值等于上面的 url + baseurl；改名会全站断链，改动时务必与上面保持同步。
 base_url: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
 
 collections:
