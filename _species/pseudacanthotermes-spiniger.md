@@ -24,3 +24,41 @@ synonym_count: 4
 synonyms: "Acanthotermes spiniger lujae Wasmann, 1904: 673; Acanthotermes spiniger kohli Wasmann, 1911: 110-111; Pseudacanthotermes unsgaardi Sjöstedt, 1926: 71-72; Pseudacanthotermes spiniger maynei Sjöstedt, 1926: 70-71"
 synonym_localities: "Democratic Republic of the Congo: Sankuru (Kassai); Democratic Republic of the Congo: Romé, near Kisangani (Stanleyville); Congo: Indo; Democratic Republic of the Congo: Eala, Hemptienne-St. Benuit, Moto (Uélè)"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**具刺伪刺白蚁**（*Pseudacanthotermes spiniger*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1900 年描述，模式产地为 Democratic Republic of the Congo: Umangi。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚。本站记录本种有 4 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
+- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
+- **属 Genus**：[伪刺白蚁属 *Pseudacanthotermes*]({{ site.base_url }}/list/#pseudacanthotermes) —— 共 6 种
+- **本属模式种**：*Pseudacanthotermes militaris*
+
+## 分布
+
+- **分布记录**：旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚
+- **英文记录**：Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Acanthotermes spiniger lujae* Wasmann, 1904: 673 —— 模式产地：Democratic Republic of the Congo: Sankuru (Kassai)
+2. *Acanthotermes spiniger kohli* Wasmann, 1911: 110-111 —— 模式产地：Democratic Republic of the Congo: Romé, near Kisangani (Stanleyville)
+3. *Pseudacanthotermes unsgaardi* Sjöstedt, 1926: 71-72 —— 模式产地：Congo: Indo
+4. *Pseudacanthotermes spiniger maynei* Sjöstedt, 1926: 70-71 —— 模式产地：Democratic Republic of the Congo: Eala, Hemptienne-St. Benuit, Moto (Uélè)
+
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Acanthotermes spiniger lujae*、*Acanthotermes spiniger kohli*、*Pseudacanthotermes unsgaardi*、*Pseudacanthotermes spiniger maynei* 等）出现，本站统一归入 *Pseudacanthotermes spiniger*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/macrotermitinae.json]({{ site.base_url }}/data/termitidae/macrotermitinae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

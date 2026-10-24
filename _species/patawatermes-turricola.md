@@ -24,3 +24,37 @@ synonym_count: 1
 synonyms: "Anoplotermes bequaerti Snyder & Emerson in Snyder, 1949: 104"
 synonym_localities: "Argentina: Misiones: Santa Ana [ 27.37S 55.58W ]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) [ 25.3667S 54.6833W ]; Guairá: Villa Rica [ 25.75S 56.4333W ]; Itapúa: Encarnación [ 27.252S 55.914W ]"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**土栖帕塔瓦白蚁**（*Patawatermes turricola*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）帕塔瓦白蚁属（*Patawatermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]。分布记录包括南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥。本站记录本种有 1 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
+- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
+- **属 Genus**：[帕塔瓦白蚁属 *Patawatermes*]({{ site.base_url }}/list/#patawatermes) —— 共 2 种
+
+## 分布
+
+- **分布记录**：南美洲、哥伦比亚、巴西、秘鲁、厄瓜多尔、委内瑞拉、巴拉圭、阿根廷、玻利维亚、巴拿马、特立尼达和多巴哥
+- **英文记录**：South America, Colombia, Brazil, Peru, Ecuador, Venezuela, Paraguay, Argentina, Bolivia, Panama, Trinidad and Tobago
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Anoplotermes bequaerti* Snyder & Emerson in Snyder, 1949: 104 —— 模式产地：Argentina: Misiones: Santa Ana \[ 27.37S 55.58W \]
+
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Anoplotermes bequaerti* 出现，本站统一归入 *Patawatermes turricola*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/apicotermitinae.json]({{ site.base_url }}/data/termitidae/apicotermitinae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

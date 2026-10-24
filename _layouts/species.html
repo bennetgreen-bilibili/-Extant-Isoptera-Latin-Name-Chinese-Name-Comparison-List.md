@@ -33,24 +33,6 @@ layout: default
     </div>
     {% endif %}
 
-    {% if page.synonym_count > 0 %}
-    <div class="species-fact">
-      <dt>次异名 <span class="fact-en">Junior synonyms</span>（{{ page.synonym_count }}）</dt>
-      <dd>
-        <ul class="synonym-list">
-          {% assign syns = page.synonyms | split: ';' %}
-          {% for s in syns %}{% assign t = s | strip %}{% if t != '' %}<li>{{ t }}</li>{% endif %}{% endfor %}
-        </ul>
-        {% if page.synonym_localities %}
-        <p class="synonym-localities-label">次异名模式产地 <span class="fact-en">Type localities of junior synonyms</span></p>
-        <ul class="synonym-localities">
-          {% assign locs = page.synonym_localities | split: ';' %}
-          {% for l in locs %}{% assign u = l | strip %}{% if u != '' %}<li>{{ u }}</li>{% endif %}{% endfor %}
-        </ul>
-        {% endif %}
-      </dd>
-    </div>
-    {% endif %}
   </dl>
 
   {{ content }}

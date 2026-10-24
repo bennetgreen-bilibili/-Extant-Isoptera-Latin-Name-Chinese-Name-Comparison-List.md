@@ -21,3 +21,42 @@ synonym_count: 6
 synonyms: "Calotermes havilandi parasita Wasmann, 1910: 120; Calotermes ( Cryptotermes ) jacobsoni Holmgren, 1913: 48; Planocryptotermes nocens Light, 1921: 43-47; Cryptotermes thompsonae Snyder, 1922: 16-18; Cryptotermes ( Planocryptotermes ) primus Kemner, 1932: 151-153; Cryptotermes ( Planocryptotermes ) javanicus Kemner, 1934: 47-49"
 synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: Luzon: Manila; Panama: Ancon; Sri Lanka: ?; Indonesia: Java: Bogor"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**长颚堆砂白蚁**（*Cryptotermes dudleyi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达。本站记录本种有 6 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
+- **属 Genus**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种
+- **本属模式种**：*Cryptotermes cavifrons*
+
+## 分布
+
+- **分布记录**：澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达
+- **英文记录**：Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Calotermes havilandi parasita* Wasmann, 1910: 120 —— 模式产地：Mauritius: ?
+2. *Calotermes (Cryptotermes) jacobsoni* Holmgren, 1913: 48 —— 模式产地：Indonesia: Java: Gunung Gedeh
+3. *Planocryptotermes nocens* Light, 1921: 43-47 —— 模式产地：Philippines: Luzon: Manila
+4. *Cryptotermes thompsonae* Snyder, 1922: 16-18 —— 模式产地：Panama: Ancon
+5. *Cryptotermes (Planocryptotermes) primus* Kemner, 1932: 151-153 —— 模式产地：Sri Lanka: ?
+6. *Cryptotermes (Planocryptotermes) javanicus* Kemner, 1934: 47-49 —— 模式产地：Indonesia: Java: Bogor
+
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes havilandi parasita*、*Calotermes (Cryptotermes) jacobsoni*、*Planocryptotermes nocens*、*Cryptotermes thompsonae*、*Cryptotermes (Planocryptotermes) primus*、*Cryptotermes (Planocryptotermes) javanicus* 等）出现，本站统一归入 *Cryptotermes dudleyi*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/kalotermitidae.json]({{ site.base_url }}/data/kalotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

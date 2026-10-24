@@ -21,3 +21,36 @@ synonym_count: 1
 synonyms: "Kalotermes ( Neotermes ) manni Snyder, 1926: 6"
 synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**完美毛白蚁**（*Comatermes perfectus*）是木白蚁科（KALOTERMITIDAE）毛白蚁属（*Comatermes*）的现存唯一种，隶属近等翅类（Icoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥。本站记录本种有 1 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
+- **属 Genus**：[毛白蚁属 *Comatermes*]({{ site.base_url }}/list/#comatermes) —— 单型属，仅含 1 种
+
+## 分布
+
+- **分布记录**：中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥
+- **英文记录**：Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Kalotermes (Neotermes) manni* Snyder, 1926: 6 —— 模式产地：Bolivia: La Paz: near mouth of Mapiri \[ 15.1131S 67.69W \]
+
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes (Neotermes) manni* 出现，本站统一归入 *Comatermes perfectus*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/kalotermitidae.json]({{ site.base_url }}/data/kalotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

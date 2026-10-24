@@ -20,3 +20,29 @@ author_year: "Roonwal & Sen-Sarma, 1960"
 type_locality: "India: Uttarakhand: Dehra Dun"
 synonym_count: 0
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**指名亚种**（*Neotermes megaoculatus megaoculatus*）是巨眼新白蚁（*Neotermes megaoculatus*）的一个亚种，隶属木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*），所属支系为近等翅类（Icoisoptera）。本亚种由 Roonwal & Sen-Sarma 于 1960 年描述，模式产地为 India: Uttarakhand: Dehra Dun。本页暂无单列的分布记录，母种 *Neotermes megaoculatus* 的分布见下文「分布」一节。
+
+## 分类位置
+
+- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
+- **属 Genus**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种
+- **种 Species**：[巨眼新白蚁 *Neotermes megaoculatus*]({{ site.base_url }}/species/neotermes-megaoculatus/)
+- **亚种 Subspecies**：本页（*Neotermes megaoculatus megaoculatus*）
+
+## 分布
+
+本亚种暂未单列分布记录；母种 *Neotermes megaoculatus* 的分布为：印度。
+
+母种英文记录：India。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/kalotermitidae.json]({{ site.base_url }}/data/kalotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

@@ -21,3 +21,41 @@ synonym_count: 6
 synonyms: "Hodotermes aurivillii Sjöstedt, 1900: 278; Hodotermes ( Hodotermes ) silvestrii Fuller, 1921: 40; Hodotermes ( Hodotermes ) thomseni Fuller, 1921: 39; Hodotermes ( Hodotermes ) peringueyi Fuller, 1921: 39; Hodotermes ( Hodotermes ) faurei Fuller, 1921: 40; Hodotermes viator hageni Fuller, 1921: 38-39"
 synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Africa: Cape Province: Namaqualand-Bushmanland; South Africa: Cape Province: Beaufort West, Kraanvogelkuil; South Africa: Cape Province: Peddie; South Africa: Cape Province: Victoria West; South Africa: Cape Province: Elsenburg"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**旅游小草白蚁**（*Microhodotermes viator*）是草白蚁科（HODOTERMITIDAE）小草白蚁属（*Microhodotermes*）的一种，也是本属的模式种，隶属远等翅类（Teletisoptera）。本种由 Latreille 于 1804 年描述，模式产地为 South Africa: Cape of Good Hope。分布记录包括南非、纳米比亚。本站记录本种有 6 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
+- **科 Family**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种
+- **属 Genus**：[小草白蚁属 *Microhodotermes*]({{ site.base_url }}/list/#microhodotermes) —— 共 3 种
+
+## 分布
+
+- **分布记录**：南非、纳米比亚
+- **英文记录**：South Africa, Namibia
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Hodotermes aurivillii* Sjöstedt, 1900: 278 —— 模式产地：South Africa: Cape Province \[W. Capland\]: Darling
+2. *Hodotermes (Hodotermes) silvestrii* Fuller, 1921: 40 —— 模式产地：South Africa: Cape Province: Namaqualand-Bushmanland
+3. *Hodotermes (Hodotermes) thomseni* Fuller, 1921: 39 —— 模式产地：South Africa: Cape Province: Beaufort West, Kraanvogelkuil
+4. *Hodotermes (Hodotermes) peringueyi* Fuller, 1921: 39 —— 模式产地：South Africa: Cape Province: Peddie
+5. *Hodotermes (Hodotermes) faurei* Fuller, 1921: 40 —— 模式产地：South Africa: Cape Province: Victoria West
+6. *Hodotermes viator hageni* Fuller, 1921: 38-39 —— 模式产地：South Africa: Cape Province: Elsenburg
+
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes aurivillii*、*Hodotermes (Hodotermes) silvestrii*、*Hodotermes (Hodotermes) thomseni*、*Hodotermes (Hodotermes) peringueyi*、*Hodotermes (Hodotermes) faurei*、*Hodotermes viator hageni* 等）出现，本站统一归入 *Microhodotermes viator*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/hodotermitidae.json]({{ site.base_url }}/data/hodotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

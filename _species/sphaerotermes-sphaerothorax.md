@@ -22,3 +22,29 @@ distribution_zh: "刚果（布）、喀麦隆、中非共和国、安哥拉、�
 distribution_en: "Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria"
 synonym_count: 0
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**圆胸圆球白蚁**（*Sphaerotermes sphaerothorax*）是白蚁科（TERMITIDAE）圆球白蚁亚科（Sphaerotermitinae）圆球白蚁属（*Sphaerotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚、尼日利亚。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
+- **亚科 Subfamily**：[圆球白蚁亚科 Sphaerotermitinae]({{ site.base_url }}/list/#sphaerotermitinae) —— 本站收录 1 属 1 种
+- **属 Genus**：[圆球白蚁属 *Sphaerotermes*]({{ site.base_url }}/list/#sphaerotermes) —— 单型属，仅含 1 种
+
+## 分布
+
+- **分布记录**：刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚、尼日利亚
+- **英文记录**：Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/sphaerotermitinae.json]({{ site.base_url }}/data/termitidae/sphaerotermitinae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

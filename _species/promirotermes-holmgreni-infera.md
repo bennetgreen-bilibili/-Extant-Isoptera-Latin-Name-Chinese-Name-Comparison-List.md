@@ -23,3 +23,30 @@ author_year: "Silvestri, 1914"
 type_locality: "Senegal: Thiès"
 synonym_count: 0
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**下亚种**（*Promirotermes holmgreni infera*）是霍姆格伦前奇白蚁（*Promirotermes holmgreni*）的一个亚种，隶属白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Senegal: Thiès。本页暂无单列的分布记录，母种 *Promirotermes holmgreni* 的分布见下文「分布」一节。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
+- **亚科 Subfamily**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/list/#promirotermitinae) —— 本站收录 2 属 39 种
+- **属 Genus**：[前奇白蚁属 *Promirotermes*]({{ site.base_url }}/list/#promirotermes) —— 共 10 种
+- **种 Species**：[霍姆格伦前奇白蚁 *Promirotermes holmgreni*]({{ site.base_url }}/species/promirotermes-holmgreni/)
+- **亚种 Subspecies**：本页（*Promirotermes holmgreni infera*）
+
+## 分布
+
+本亚种暂未单列分布记录；母种 *Promirotermes holmgreni* 的分布为：塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆。
+
+母种英文记录：Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/promirotermitinae.json]({{ site.base_url }}/data/termitidae/promirotermitinae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

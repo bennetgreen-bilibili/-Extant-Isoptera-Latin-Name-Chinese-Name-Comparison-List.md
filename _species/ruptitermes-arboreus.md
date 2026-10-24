@@ -22,3 +22,30 @@ distribution_zh: "巴西及邻近南美国家、哥伦比亚、圭亚那、法�
 distribution_en: "Brazil and neighboring South American countries, Colombia, Guyana, French Guiana, Suriname"
 synonym_count: 0
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**树栖腹爆白蚁**（*Ruptitermes arboreus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括巴西及邻近南美国家、哥伦比亚、圭亚那、法属圭亚那、苏里南。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
+- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
+- **属 Genus**：[腹爆白蚁属 *Ruptitermes*]({{ site.base_url }}/list/#ruptitermes) —— 共 13 种
+- **本属模式种**：*Ruptitermes xanthochiton*
+
+## 分布
+
+- **分布记录**：巴西及邻近南美国家、哥伦比亚、圭亚那、法属圭亚那、苏里南
+- **英文记录**：Brazil and neighboring South American countries, Colombia, Guyana, French Guiana, Suriname
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/apicotermitinae.json]({{ site.base_url }}/data/termitidae/apicotermitinae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

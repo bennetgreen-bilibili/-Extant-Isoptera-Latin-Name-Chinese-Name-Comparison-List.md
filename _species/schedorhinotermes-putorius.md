@@ -21,3 +21,37 @@ synonym_count: 1
 synonyms: "Schedorhinotermes putorius insularis Sjöstedt, 1926: 53"
 synonym_localities: "Equatorial Guinea: Bioko"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**臭鼬长鼻白蚁**（*Schedorhinotermes putorius*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Kitta。分布记录包括西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达。本站记录本种有 1 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种
+- **属 Genus**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种
+- **本属模式种**：*Schedorhinotermes intermedius*
+
+## 分布
+
+- **分布记录**：西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达
+- **英文记录**：West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Schedorhinotermes putorius insularis* Sjöstedt, 1926: 53 —— 模式产地：Equatorial Guinea: Bioko
+
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Schedorhinotermes putorius insularis* 出现，本站统一归入 *Schedorhinotermes putorius*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/rhinotermitidae.json]({{ site.base_url }}/data/rhinotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

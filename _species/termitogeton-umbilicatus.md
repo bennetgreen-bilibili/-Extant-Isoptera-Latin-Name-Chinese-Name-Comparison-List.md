@@ -19,3 +19,29 @@ distribution_zh: "斯里兰卡"
 distribution_en: "Sri Lanka"
 synonym_count: 0
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**中凹寡脉白蚁**（*Termitogeton umbilicatus*）是寡脉白蚁科（TERMITOGETONIDAE）寡脉白蚁属（*Termitogeton*）的一种，隶属新等翅类（Neoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 Sri Lanka: Rambodde。分布记录包括斯里兰卡。
+
+## 分类位置
+
+- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family**：[寡脉白蚁科 TERMITOGETONIDAE]({{ site.base_url }}/list/#termitogetonidae) —— 本站收录 1 属 2 种
+- **属 Genus**：[寡脉白蚁属 *Termitogeton*]({{ site.base_url }}/list/#termitogeton) —— 共 2 种
+- **本属模式种**：*Termitogeton planus*
+
+## 分布
+
+- **分布记录**：斯里兰卡
+- **英文记录**：Sri Lanka
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitogetonidae.json]({{ site.base_url }}/data/termitogetonidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

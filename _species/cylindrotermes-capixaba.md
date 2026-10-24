@@ -22,3 +22,30 @@ distribution_zh: "新热带界"
 distribution_en: "Neotropics"
 synonym_count: 0
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**卡皮沙巴圆筒白蚁**（*Cylindrotermes capixaba*）是白蚁科（TERMITIDAE）圆筒白蚁亚科（Cylindrotermitinae）圆筒白蚁属（*Cylindrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Rocha & Cancello 于 2007 年描述，模式产地为 Brasil: Espírito Santo: Cariacica \[ 20.2639S 40.42W \]。分布记录包括新热带界。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
+- **亚科 Subfamily**：[圆筒白蚁亚科 Cylindrotermitinae]({{ site.base_url }}/list/#cylindrotermitinae) —— 本站收录 2 属 9 种
+- **属 Genus**：[圆筒白蚁属 *Cylindrotermes*]({{ site.base_url }}/list/#cylindrotermes) —— 共 8 种
+- **本属模式种**：*Cylindrotermes nordenskioldi*
+
+## 分布
+
+- **分布记录**：新热带界
+- **英文记录**：Neotropics
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/termitidae/cylindrotermitinae.json]({{ site.base_url }}/data/termitidae/cylindrotermitinae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

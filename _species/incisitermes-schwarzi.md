@@ -21,3 +21,36 @@ synonym_count: 1
 synonyms: "Kalotermes tabogae Snyder, 1924: 4-5"
 synonym_localities: "Panama: Taboga Island"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**施瓦茨楹白蚁**（*Incisitermes schwarzi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，也是本属的模式种，隶属近等翅类（Icoisoptera）。本种由 Banks 于 1919 年描述，模式产地为 Cuba: ?; Jamaica: Bog River; United States: Florida: Adam Key; Florida: Miami Beach; Florida: Paradise Key; Florida: Pensacola。分布记录包括墨西哥、美国、安提瓜和巴布达、阿鲁巴、巴哈马、伯利兹、博奈尔、开曼群岛、哥伦比亚、古巴、库拉索、多米尼克、多米尼加、格林纳达、法属瓜德罗普、危地马拉、洪都拉斯、牙买加、法属马提尼克、尼加拉瓜、巴拿马、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉。本站记录本种有 1 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
+- **属 Genus**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种
+
+## 分布
+
+- **分布记录**：墨西哥、美国、安提瓜和巴布达、阿鲁巴、巴哈马、伯利兹、博奈尔、开曼群岛、哥伦比亚、古巴、库拉索、多米尼克、多米尼加、格林纳达、法属瓜德罗普、危地马拉、洪都拉斯、牙买加、法属马提尼克、尼加拉瓜、巴拿马、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉
+- **英文记录**：Mexico, United States, Antigua and Barbuda, Aruba, Bahamas, Belize, Bonaire, Cayman Islands, Colombia, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, French Guadeloupe, Guatemala, Honduras, Jamaica, French Martinique, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, Venezuela
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Kalotermes tabogae* Snyder, 1924: 4-5 —— 模式产地：Panama: Taboga Island
+
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Kalotermes tabogae* 出现，本站统一归入 *Incisitermes schwarzi*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/kalotermitidae.json]({{ site.base_url }}/data/kalotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

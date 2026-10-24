@@ -21,3 +21,36 @@ synonym_count: 1
 synonyms: "Calotermes chilensis cayutuensis Goetsch, 1933: 229"
 synonym_localities: "Chile: Los Lagos: Cayutué [ 41.2333S 72.2833W ]"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**方颈洞白蚁**（*Porotermes quadricollis*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种，也是本属的模式种，隶属远等翅类（Teletisoptera）。本种由 Rambur 于 1842 年描述，模式产地为 Chile: ?。分布记录包括智利及南美南部。本站记录本种有 1 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
+- **科 Family**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/list/#stolotermitidae) —— 本站收录 2 属 10 种
+- **属 Genus**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/list/#porotermes) —— 共 3 种
+
+## 分布
+
+- **分布记录**：智利及南美南部
+- **英文记录**：Chile and southern South America
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Calotermes chilensis cayutuensis* Goetsch, 1933: 229 —— 模式产地：Chile: Los Lagos: Cayutué \[ 41.2333S 72.2833W \]
+
+在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes chilensis cayutuensis* 出现，本站统一归入 *Porotermes quadricollis*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/stolotermitidae.json]({{ site.base_url }}/data/stolotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

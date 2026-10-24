@@ -21,3 +21,38 @@ synonym_count: 2
 synonyms: "Reticulitermes humilis hoferi Banks, 1920: 53; Heterotermes intermedius Light, 1933: 112-113"
 synonym_localities: "United States: Arizona: Santa Catalina Mountains: Sabino Canyon; Mexico: La Venta, near Guadalajara; Madre Maria Island; Nayarit; Presido, near Mazaltan; Tepic"
 ---
+
+<!-- AUTO:BEGIN -->
+## 摘要
+
+**金黄异白蚁**（*Heterotermes aureus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1920 年描述，模式产地为 United States: Arizona: Santa Catalina Mountains: Sabino Canyon。分布记录包括北美西南部、美国西南部、墨西哥。本站记录本种有 2 个次异名。
+
+## 分类位置
+
+- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
+- **属 Genus**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/list/#heterotermes) —— 共 31 种
+- **本属模式种**：*Heterotermes platycephalus*
+
+## 分布
+
+- **分布记录**：北美西南部、美国西南部、墨西哥
+- **英文记录**：southwestern North America, southwestern United States, Mexico
+
+以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+## 次异名
+
+本站记录本种有 2 个次异名（junior synonyms），按原始文献出处列出：
+
+1. *Reticulitermes humilis hoferi* Banks, 1920: 53 —— 模式产地：United States: Arizona: Santa Catalina Mountains: Sabino Canyon
+2. *Heterotermes intermedius* Light, 1933: 112-113 —— 模式产地：Mexico: La Venta, near Guadalajara
+
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Reticulitermes humilis hoferi*、*Heterotermes intermedius* 等）出现，本站统一归入 *Heterotermes aureus*。
+
+## 数据出处与引用
+
+本条记录出自《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》2026.10.17 版（2026-10-13 发布，2026-10-17 更新），作者班奈特格林，以 CC BY 4.0 许可发布；对应的机器可读数据见 [data/heterotermitidae.json]({{ site.base_url }}/data/heterotermitidae.json)。
+
+引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). {{ site.base_url }}/
+<!-- AUTO:END -->

@@ -36,8 +36,17 @@
 
 ## 物种页（每个物种/亚种一个独立页面）
 - `_species/*.md`：Jekyll 集合（collection），共 3071 个文件（3008 种 + 63 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
-- `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式种标记；正文留空待补充）。
+- `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式产地/分布速览 + 同属内链）。
 - `list.md` / `en/list.md`：名录中每个物种名已链接到对应物种页。
 - 在 `_config.yml` 中通过 `collections.species` 注册（`output: true`，`permalink: /species/:name/`）。
+- 物种页正文由 `.github/workflows/build_species_body.py` 生成（见下文「物种页正文」）。
 - 物种页底部有「同属其他种」内链区块：列出同属全部物种（最多 40 个，超出部分链接到 `/list/#<属id>`），用于增加站内抓取路径；数据来自 `_data/species_by_genus.json`，由 `.github/workflows/build_genus_index.py` 在 CI 构建时自动重新生成。本地新增/改名物种后，先执行 `python .github/workflows/build_genus_index.py` 再构建。
 - 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。
+
+## 物种页正文（自动生成）
+- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种 / 数据出处与引用**（每页 800–3900 字，3071 条摘要句互不相同）。
+- 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
+- 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。
+- 用法：`python .github/workflows/build_species_body.py`（只统计、不写文件）、`--write`（写回 `_species/*.md`）、`--sample <slug>...`（打印生成结果）、`--check-idempotent`。
+- CI 中位于 `pages.yml` 的「Build species page bodies」步骤，在 Jekyll 构建前执行，保证数据变更后正文同步。
+- 生成内容完全来自仓库内已有字段，不做外部事实补全；分布、模式产地等地名沿用原始数据写法。
