@@ -8,10 +8,12 @@
 | `index.md` | 首页：简介（作者/版本/引用格式）+ 页面导航 + JSON-LD |
 | `list.md` | 名录：搜索框（中文/拉丁名/次异名检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
+| `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 
 ## 结构化数据（按类群拆分）
+- 页面：`data.md`（/data/，列出全部文件及白蚁科 18 亚科的逐文件链接）
 - 入口：`data/index.json`（分类树 + 全部文件清单）
 - `data/mastotermitidae.json`、`data/teletisoptera.json`、`data/kalotermitidae.json`、`data/neoisoptera-excl-termitidae.json`
 - `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）

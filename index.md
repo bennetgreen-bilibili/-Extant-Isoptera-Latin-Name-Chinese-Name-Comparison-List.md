@@ -195,21 +195,9 @@ permalink: /
 <ul>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/"><strong>名录</strong></a> — 全部类群对照名录（支系—科—亚科—属—种，含分布与参考文献）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/"><strong>统计</strong></a> — 各阶元（科/亚科/属/种）物种数统计表。</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/"><strong>数据</strong></a> — 机器可读结构化数据（JSON，按类群拆分，逐文件可访问）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blog/"><strong>博客</strong></a> — 文章与更新说明（Word 文档自动转网页，随 _posts 文件夹自动更新）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
-</ul>
-
-## 结构化数据
-
-<p>机器可读数据已按类群拆分，入口为 <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json"><code>data/index.json</code></a>（含完整分类树与全部文件清单），各文件均可独立访问：</p>
-
-<ul>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/mastotermitidae.json">澳白蚁科</a> ·
-      <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/teletisoptera.json">远等翅类 Teletisoptera</a> ·
-      <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/kalotermitidae.json">木白蚁科</a> ·
-      <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json">新等翅类（除白蚁科）</a></li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/">白蚁科 18 亚科（逐亚科文件）</a></li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json">检索索引 search-index.json</a>（供搜索框使用）</li>
 </ul>
 

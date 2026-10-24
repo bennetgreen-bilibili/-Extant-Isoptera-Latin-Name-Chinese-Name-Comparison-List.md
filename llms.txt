@@ -9,6 +9,7 @@
 - [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
 - [名录（完整对照表：支系—科—亚科—属—种，含属级嵌套目录）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
+- [数据（机器可读结构化数据 JSON，按支系/科/亚科拆分，逐文件可访问）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
 - [留言（Giscus 留言板）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/)
 - [物种页（每个物种/亚种一个独立页面，URL 形如 /species/<拉丁学名小写连字符>/，共 3008 种 + 63 亚种）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/mastotermes-darwiniensis/)
@@ -17,6 +18,7 @@
 - [Home (about + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
 - [List (full checklist: clade–family–subfamily–genus–species)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/)
 - [Statistics (species counts by family/subfamily/genus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/)
+- [Data (machine-readable structured data JSON, split by taxon)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/data/)
 - [Download (files in downloads/ folder)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/)
 - [Guestbook (Giscus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/)
 - [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
@@ -30,7 +32,7 @@
 - [远等翅类 Teletisoptera（古白蚁科/草白蚁科/原白蚁科/胄白蚁科）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/teletisoptera.json)
 - [木白蚁科 Kalotermitidae](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/kalotermitidae.json)
 - [新等翅类（除白蚁科）：沙白蚁科/鼻白蚁科/齿白蚁科/杆白蚁科/寡脉白蚁科/异白蚁科](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json)
-- [白蚁科 Termitidae 18 亚科（逐亚科文件，目录：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/)
+- [白蚁科 Termitidae 18 亚科（逐亚科文件，完整清单见「数据」页 /data/）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [检索索引 search-index.json（供搜索框）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json)
 
 ## 内容要点（给 AI 参考）

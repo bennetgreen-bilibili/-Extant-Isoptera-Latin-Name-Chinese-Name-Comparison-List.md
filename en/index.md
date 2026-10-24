@@ -195,21 +195,9 @@ permalink: /en/
 <ul>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/"><strong>List</strong></a> — the complete checklist (clade–family–subfamily–genus–species, with distribution and references).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/"><strong>Statistics</strong></a> — species counts by rank (family/subfamily/genus).</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/data/"><strong>Data</strong></a> — machine-readable structured data (JSON, split by taxon, each file accessible).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
-</ul>
-
-## Structured Data
-
-<p>Machine-readable data is split by taxon; the entry point is <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json"><code>data/index.json</code></a> (full taxonomic tree and file manifest); each file is independently accessible:</p>
-
-<ul>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/mastotermitidae.json">Mastotermitidae</a> ·
-      <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/teletisoptera.json">Teletisoptera</a> ·
-      <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/kalotermitidae.json">Kalotermitidae</a> ·
-      <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json">Neoisoptera (excl. Termitidae)</a></li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/termitidae/">Termitidae, 18 subfamilies (one file each)</a></li>
-  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json">Search index (search-index.json)</a> for the search box</li>
 </ul>
 
