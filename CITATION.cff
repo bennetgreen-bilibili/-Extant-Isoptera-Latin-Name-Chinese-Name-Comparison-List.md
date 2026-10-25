@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this checklist, please cite it as below. 中文引用格式见项目网站与 dataset/README.md。"
+type: dataset
+title: "Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17)"
+abstract: "A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3008 species and 63 subspecies (3071 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications."
+authors:
+  - family-names: "班奈特格林"
+version: "2026.10.17"
+date-released: "2026-10-17"
+license: "CC-BY-4.0"
+keywords:
+  - "termites"
+  - "Isoptera"
+  - "Blattodea"
+  - "checklist"
+  - "taxonomy"
+  - "species list"
+  - "Chinese names"
+  - "scientific names"
+  - "synonyms"
+  - "biodiversity informatics"
+repository-code: "https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md"
+url: "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/"

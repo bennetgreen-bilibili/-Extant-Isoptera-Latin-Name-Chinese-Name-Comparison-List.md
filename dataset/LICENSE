@@ -1,0 +1,29 @@
+# 许可 License
+
+本数据集（`dataset/` 目录下的全部数据文件、元数据文件与本说明）由 **班奈特格林（Bennet Green）** 以
+**Creative Commons Attribution 4.0 International（CC BY 4.0）** 许可发布。
+
+- 许可全文（法律文本）：https://creativecommons.org/licenses/by/4.0/legalcode
+- 中文摘要（非正式译文）：https://creativecommons.org/licenses/by/4.0/deed.zh-hans
+- SPDX 标识符：CC-BY-4.0
+
+## 你可以
+
+- 自由复制、分发、改编、商用、用于机器学习训练，无需另行申请授权。
+
+## 条件
+
+- **署名（Attribution）**：请保留作者署名、许可名称与来源链接，并注明是否作过修改。推荐署名格式：
+  - 中文：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 版) [Data set]. Zenodo. https://doi.org/<DOI>
+  - English: Bennet Green. (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (Version 2026.10.17) [Data set]. Zenodo. https://doi.org/<DOI>
+  - 如引用了具体物种条目，请同时注明对应站点页面（`taxonID` 列）与所用版本号。
+
+## 说明
+
+- 拉丁学名、命名人、文献引用等**事实性信息**本身不受著作权保护；本许可覆盖的是本数据集的汇编结构、字段设计、中文正名整理与说明文字。
+- 本数据集**不构成任何命名行为（no nomenclatural act）**，不改变任何分类单元的命名地位。
+- 原始文献的著作权归各自作者与出版方所有；引用文献请遵循原出版方的条款。
+
+## 第三方内容
+
+- 分类框架与异名信息整理自 Krishna et al. (2013)、Hellemans et al. (2024) 等 77 篇文献及 termitologia.net、GBIF、《中国动物志》《白蚁学》等资料，详见 `data/isoptera-references.csv` 与 README 的「编制方法与数据来源」。

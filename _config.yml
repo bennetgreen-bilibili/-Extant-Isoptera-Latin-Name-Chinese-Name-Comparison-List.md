@@ -40,3 +40,19 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# ---------------------------------------------------------------------------
+# 数据集归档（DOI）
+# 铸造 DOI 后只改这里的 doi / concept_doi，站内引用信息、JSON-LD identifier、
+# 页面 <link rel="cite-as"> 会自动出现；不再需要手改页面。
+# 归档包由 .github/workflows/build_dataset.py 生成（dataset/ 目录 + downloads/ 下的 zip），
+# 完整流程见 _tools/数据集DOI与归档发布指南.md。
+# ---------------------------------------------------------------------------
+dataset:
+  doi: ""            # 版本 DOI，例 10.5281/zenodo.1234567（留空则站内不显示 DOI）
+  concept_doi: ""    # 概念 DOI（全部版本），例 10.5281/zenodo.1234566
+  version: "2026.10.17"
+  publisher: "Zenodo"
+  license_name: "CC BY 4.0"
+  license_url: "https://creativecommons.org/licenses/by/4.0/"
+  archive_file: "downloads/isoptera-checklist-v2026.10.17.zip"  # 与 build_dataset.py 输出一致

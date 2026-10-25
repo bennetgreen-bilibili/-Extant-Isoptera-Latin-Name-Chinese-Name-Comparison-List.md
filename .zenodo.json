@@ -1,0 +1,50 @@
+{
+ "title": "Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17)",
+ "description": "<p>A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3008 species and 63 subspecies (3071 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</p><p><strong>Project website / 项目网站:</strong> <a href=\"https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/\">https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/</a></p>",
+ "creators": [
+  {
+   "name": "班奈特格林",
+   "affiliation": "Independent researcher"
+  }
+ ],
+ "upload_type": "dataset",
+ "publication_date": "2026-10-17",
+ "access_right": "open",
+ "license": "cc-by-4.0",
+ "version": "2026.10.17",
+ "language": "zho",
+ "keywords": [
+  "termites",
+  "Isoptera",
+  "Blattodea",
+  "checklist",
+  "taxonomy",
+  "species list",
+  "Chinese names",
+  "scientific names",
+  "synonyms",
+  "biodiversity informatics",
+  "白蚁",
+  "等翅目",
+  "等翅下目",
+  "拉丁学名",
+  "中文正名",
+  "物种名录",
+  "分类学",
+  "生物多样性",
+  "次异名",
+  "模式种"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+   "relation": "isDocumentedBy",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md",
+   "relation": "isSupplementedBy",
+   "scheme": "url"
+  }
+ ]
+}

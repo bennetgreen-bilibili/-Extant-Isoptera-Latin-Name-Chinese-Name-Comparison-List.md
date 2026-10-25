@@ -19,6 +19,20 @@
 - `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）
 - `search-index.json`（检索索引，供名录页搜索框）
 
+## 归档数据集与 DOI（dataset/）
+- 生成脚本：`.github/workflows/build_dataset.py`（只用标准库，确定性输出，可 `--check`）。产物：
+  - `dataset/data/isoptera-checklist.csv`：3071 行逐条表，22 列（Darwin Core 风格列名，含中文正名、模式产地、分布中英、次异名）
+  - `dataset/data/isoptera-taxonomy.json`：完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接）
+  - `dataset/data/isoptera-synonyms.csv`、`isoptera-counts.csv`、`isoptera-references.csv`
+  - `dataset/datapackage.json`（字段字典）、`dataset/datacite-metadata.xml`（DataCite 4.6 记录）
+  - `dataset/README.md`（其中 AUTO / DOI 两个标记区块由脚本自动填充，标记外手写内容不受影响）、`dataset/LICENSE`、`dataset/CHANGELOG.md`、`dataset/CHECKSUMS.sha256`
+  - `downloads/isoptera-checklist-v<版本>.zip`：可直接上传 Zenodo 的归档包（downloads 页自动列出）
+  - 仓库根 `CITATION.cff`（GitHub 仓库页「Cite this repository」按钮）与 `.zenodo.json`（Zenodo GitHub 集成）
+- 元数据唯一来源：`dataset/metadata.json`（标题、描述、作者、关键词、许可、DOI、相关标识符、来源）。
+- 命令：`python .github/workflows/build_dataset.py`（自检）、`--write`（写入）、`--check`（校验仓库内产物是否最新）。
+- **铸造成 DOI 后**：把 DOI 填进 `dataset/metadata.json` 的 `doi.version` / `doi.concept` 和 `_config.yml` 的 `dataset.doi` / `dataset.concept_doi`，再跑 `--write`。站内「引用与 DOI」区块、页脚 DOI 链接、`<link rel="cite-as">`、首页 JSON-LD 的 `identifier` 会自动出现，不需要改页面。
+- 完整操作流程（Zenodo 预留 DOI 的先后顺序、GBIF checklist 二次发布、ScienceDB 国内路线、Google Dataset Search 收录、常见坑）：见 `_tools/数据集DOI与归档发布指南.md`。
+
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取

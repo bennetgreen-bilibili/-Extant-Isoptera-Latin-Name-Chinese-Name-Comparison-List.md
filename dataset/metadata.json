@@ -1,0 +1,102 @@
+{
+ "$comment": "数据集元数据：build_dataset.py 的唯一元数据来源，用于生成 datapackage.json / datacite-metadata.xml / CITATION.cff / .zenodo.json。铸造 DOI 后把 doi.version 与 doi.concept 填上，再运行 --write。",
+ "version": "2026.10.17",
+ "name": "extant-isoptera-checklist",
+ "title": {
+  "zh": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17 正式版）",
+  "en": "Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17)"
+ },
+ "description": {
+  "zh": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3008 种、63 亚种，共 3071 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
+  "en": "A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3008 species and 63 subspecies (3071 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications."
+ },
+ "creators": [
+  {
+   "name": "班奈特格林",
+   "nameEn": "Bennet Green",
+   "nameType": "Personal",
+   "affiliation": "",
+   "orcid": "",
+   "website": ""
+  }
+ ],
+ "contributors": [],
+ "publisher": "Zenodo",
+ "publicationYear": 2026,
+ "language": "zh-CN",
+ "resourceType": "Dataset",
+ "license": {
+  "name": "Creative Commons Attribution 4.0 International",
+  "identifier": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ },
+ "doi": {
+  "$comment": "铸造后填入，例如 version: 10.5281/zenodo.1234567, concept: 10.5281/zenodo.1234566。留空时生成的 DataCite XML 使用 10.5281/zenodo.XXXXXXX 占位并在终端告警。",
+  "version": "",
+  "concept": "",
+  "resolver": "https://doi.org/"
+ },
+ "dates": {
+  "created": "2026-10-13",
+  "updated": "2026-10-17",
+  "issued": "2026-10-17"
+ },
+ "keywords": {
+  "zh": [
+   "白蚁",
+   "等翅目",
+   "等翅下目",
+   "拉丁学名",
+   "中文正名",
+   "物种名录",
+   "分类学",
+   "生物多样性",
+   "次异名",
+   "模式种"
+  ],
+  "en": [
+   "termites",
+   "Isoptera",
+   "Blattodea",
+   "checklist",
+   "taxonomy",
+   "species list",
+   "Chinese names",
+   "scientific names",
+   "synonyms",
+   "biodiversity informatics"
+  ]
+ },
+ "relatedIdentifiers": [
+  {
+   "relationType": "IsDocumentedBy",
+   "relatedIdentifier": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+   "relatedIdentifierType": "URL",
+   "description": "项目网站：名录检索页、统计页、物种页与在线 JSON 数据"
+  },
+  {
+   "relationType": "IsSupplementedBy",
+   "relatedIdentifier": "https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md",
+   "relatedIdentifierType": "URL",
+   "description": "生成本数据集的源代码仓库（构建脚本、更新历史）"
+  }
+ ],
+ "siteUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+ "repository": "https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md",
+ "expectedCounts": {
+  "clades": 6,
+  "families": 13,
+  "subfamilies": 18,
+  "genera": 323,
+  "species": 3008,
+  "subspecies": 63
+ },
+ "sources": [
+  "Krishna K, Grimaldi DA, Krishna V, Engel MS. Treatise on the Isoptera of the world. Bull Am Mus Nat Hist. 2013;377:1-2704. doi:10.1206/377.1",
+  "Hellemans S, et al. Genomic data provide insights into the classification of extant termites. Nat Commun. 2024;15:6724. doi:10.1038/s41467-024-51028-y",
+  "Engel MS, Grimaldi DA, Krishna K. Termites (Isoptera): their phylogeny, classification, and rise to ecological dominance. Am Mus Novit. 2009;3650:1-27. doi:10.1206/651.1",
+  "termitologia.net — 世界白蚁名录与网站资料",
+  "GBIF — Global Biodiversity Information Facility 分类与分布参考资料",
+  "《白蚁学》《世界白蚁中文名录》《中国动物志》等中文文献与既有译名"
+ ]
+}

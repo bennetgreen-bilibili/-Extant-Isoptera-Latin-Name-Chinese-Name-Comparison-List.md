@@ -6,6 +6,10 @@
 <title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="canonical" href="{{ site.base_url }}{{ page.url }}">
+{% if site.dataset.doi %}{%- comment -%} FAIR signposting：站点页面指向数据集 DOI，便于 DataCite / Google Dataset Search 关联 {%- endcomment -%}
+<link rel="cite-as" href="https://doi.org/{{ site.dataset.doi }}">
+<link rel="describedby" type="application/vnd.datacite.datacite+xml" href="{{ site.base_url }}/dataset/datacite-metadata.xml">
+{% endif %}
 {% unless page.collection == 'species' %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
@@ -77,7 +81,7 @@
 <footer class="site-footer">
   <div class="container footer-inner">
     <p class="footer-line">© 2026 班奈特格林 · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录</p>
-    <p class="footer-line footer-sub">注明作者可免费引用 · CC BY 4.0 · 13 科 323 属 3008 种 63 亚种</p>
+    <p class="footer-line footer-sub">注明作者可免费引用 · CC BY 4.0 · 13 科 323 属 3008 种 63 亚种{% if site.dataset.doi %} · <a href="https://doi.org/{{ site.dataset.doi }}">数据集 DOI：{{ site.dataset.doi }}</a>{% endif %}</p>
   </div>
 </footer>
 

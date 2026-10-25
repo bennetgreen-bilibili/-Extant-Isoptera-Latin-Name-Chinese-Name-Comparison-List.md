@@ -14,6 +14,28 @@ permalink: /en/data/
 
 <p>Machine-readable data is split by taxon; the entry point is <a href="{{ site.base_url }}/data/index.json"><code>data/index.json</code></a> (full taxonomic tree with 6 clades, 13 families, 18 subfamilies, plus the complete file manifest). All <strong>22 JSON files</strong> below are independently accessible and downloadable.</p>
 
+## Archived dataset &amp; DOI
+
+<p>All checklist records are also packaged as a citable archived dataset (<strong>3,071 records</strong>: one-row-per-taxon CSV, taxonomy JSON, synonym table, reference list, plus a DataCite 4.6 record and a CC BY 4.0 license). Download:
+<a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>.</p>
+
+<ul>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3,071 taxon records (Chinese name, type locality, distribution, synonyms)</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — full taxonomy tree (clade–family–subfamily–genus–species/subspecies)</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — synonym table with type localities and alignment status</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — counts by family/subfamily</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-references.csv"><code>dataset/data/isoptera-references.csv</code></a> — 77 references (DOIs where available)</li>
+  <li><a href="{{ site.base_url }}/dataset/datapackage.json"><code>datapackage.json</code></a> — field dictionary (Frictionless Data Package)</li>
+  <li><a href="{{ site.base_url }}/dataset/datacite-metadata.xml"><code>datacite-metadata.xml</code></a> — DataCite metadata record</li>
+  <li><a href="{{ site.base_url }}/dataset/README.md">Dataset README</a> — provenance, methods, fields, limitations, citation</li>
+</ul>
+
+{% if site.dataset.doi %}<p><strong>DOI (version {{ site.dataset.version }})</strong>: <a href="https://doi.org/{{ site.dataset.doi }}">{{ site.dataset.doi }}</a>{% if site.dataset.concept_doi %}　<strong>Concept DOI (always latest version)</strong>: <a href="https://doi.org/{{ site.dataset.concept_doi }}">{{ site.dataset.concept_doi }}</a>{% endif %}</p>
+
+<p><strong>Citation (APA)</strong>: Bennet Green. (2026). <i>Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names</i> (Version {{ site.dataset.version }}) [Data set]. {{ site.dataset.publisher }}. <a href="https://doi.org/{{ site.dataset.doi }}">https://doi.org/{{ site.dataset.doi }}</a></p>{% else %}<p><strong>Citation (APA)</strong>: Bennet Green. (2026). <i>Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names</i> (Version {{ site.dataset.version }}) [Data set]. <a href="{{ site.base_url }}/">{{ site.base_url }}/</a></p>
+
+<p>The archive is prepared for DOI deposition (README, DataCite metadata, CC BY 4.0 license and SHA-256 checksums included); the permanent DOI will be shown in this section and in the site footer once minted.</p>{% endif %}
+
 ## By clade / family
 
 <ul>

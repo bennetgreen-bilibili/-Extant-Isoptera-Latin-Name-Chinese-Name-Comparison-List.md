@@ -14,6 +14,28 @@ permalink: /data/
 
 <p>本站的机器可读数据已按类群拆分，入口为 <a href="{{ site.base_url }}/data/index.json"><code>data/index.json</code></a>（含 6 支系、13 科、18 亚科的完整分类树与全部文件清单）。以下 <strong>22 个 JSON 文件</strong>均可独立访问与下载。</p>
 
+## 归档数据集与 DOI <span class="fact-en">Archived dataset &amp; DOI</span>
+
+<p>全部名录另已整理为可引用的归档数据集（<strong>3071 条记录</strong>：逐条 CSV、分类树 JSON、次异名长表、参考文献表，附 DataCite 4.6 元数据与 CC BY 4.0 许可），可直接下载：
+<a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>。</p>
+
+<ul>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3071 行逐条分类单元表（含中文正名、模式产地、分布、次异名）</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — 完整分类树（支系—科—亚科—属—种/亚种）</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — 次异名长表（含模式产地与对齐状态）</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — 科/亚科级计数</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-references.csv"><code>dataset/data/isoptera-references.csv</code></a> — 77 条参考文献（有 DOI 者随条目给出）</li>
+  <li><a href="{{ site.base_url }}/dataset/datapackage.json"><code>datapackage.json</code></a> — 字段字典（Frictionless Data Package）</li>
+  <li><a href="{{ site.base_url }}/dataset/datacite-metadata.xml"><code>datacite-metadata.xml</code></a> — DataCite 元数据记录</li>
+  <li><a href="{{ site.base_url }}/dataset/README.md">数据集说明 README</a> — 来源、方法、字段、限制与引用</li>
+</ul>
+
+{% if site.dataset.doi %}<p><strong>DOI（版本 {{ site.dataset.version }}）</strong>：<a href="https://doi.org/{{ site.dataset.doi }}">{{ site.dataset.doi }}</a>{% if site.dataset.concept_doi %}　<strong>概念 DOI（始终指向最新版）</strong>：<a href="https://doi.org/{{ site.dataset.concept_doi }}">{{ site.dataset.concept_doi }}</a>{% endif %}</p>
+
+<p><strong>引用格式（APA）</strong>：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. <a href="https://doi.org/{{ site.dataset.doi }}">https://doi.org/{{ site.dataset.doi }}</a></p>{% else %}<p><strong>引用格式（APA）</strong>：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. <a href="{{ site.base_url }}/">{{ site.base_url }}/</a></p>
+
+<p>该归档包已按 DOI 归档格式准备（含 README、DataCite 元数据、CC BY 4.0 许可与 SHA-256 校验）；永久 DOI 铸造后会显示在本节与全站页脚。</p>{% endif %}
+
 ## 按支系 / 科
 
 <ul>

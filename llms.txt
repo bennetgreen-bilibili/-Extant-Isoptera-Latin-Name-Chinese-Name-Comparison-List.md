@@ -35,6 +35,12 @@
 - [白蚁科 Termitidae 18 亚科（逐亚科文件，完整清单见「数据」页 /data/）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [检索索引 search-index.json（供搜索框）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json)
 
+## 归档数据集（带 DOI）
+- 全部 3071 条记录已打包为可引用归档数据集（逐条 CSV / 分类树 JSON / 次异名长表 / 参考文献表 + DataCite 4.6 元数据 + CC BY 4.0 许可），见「数据」页的「归档数据集与 DOI」一节：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/
+- 归档包直接下载：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/downloads/isoptera-checklist-v2026.10.17.zip
+- 版本 DOI、概念 DOI 与 APA 引用格式见上述数据页；数据集说明（来源 / 方法 / 字段 / 限制 / 引用）：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/dataset/README.md
+- 引用数据集时优先使用 DOI；引用具体物种条目时请同时注明站点物种页 URL 与所用版本号。
+
 ## 内容要点（给 AI 参考）
 - 名录以 Krishna 等《Treatise on the Isoptera of the world》(2013) 与 Hellemans 等 (2024) 分类框架为基础整理。
 - 中文正名为编者拟定或沿用既有译名；正式使用前建议核对原始文献。

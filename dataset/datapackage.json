@@ -1,0 +1,371 @@
+{
+ "profile": "tabular-data-package",
+ "name": "extant-isoptera-checklist",
+ "title": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17 正式版）",
+ "version": "2026.10.17",
+ "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3008 种、63 亚种，共 3071 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
+ "id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+ "homepage": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
+ "created": "2026-10-13",
+ "keywords": [
+  "白蚁",
+  "等翅目",
+  "等翅下目",
+  "拉丁学名",
+  "中文正名",
+  "物种名录",
+  "分类学",
+  "生物多样性",
+  "次异名",
+  "模式种",
+  "termites",
+  "Isoptera",
+  "Blattodea",
+  "checklist",
+  "taxonomy",
+  "species list",
+  "Chinese names",
+  "scientific names",
+  "synonyms",
+  "biodiversity informatics"
+ ],
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "title": "Creative Commons Attribution 4.0 International",
+   "path": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "班奈特格林",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Krishna K, Grimaldi DA, Krishna V, Engel MS. Treatise on the Isoptera of the world. Bull Am Mus Nat Hist. 2013;377:1-2704. doi:10.1206/377.1"
+  },
+  {
+   "title": "Hellemans S, et al. Genomic data provide insights into the classification of extant termites. Nat Commun. 2024;15:6724. doi:10.1038/s41467-024-51028-y"
+  },
+  {
+   "title": "Engel MS, Grimaldi DA, Krishna K. Termites (Isoptera): their phylogeny, classification, and rise to ecological dominance. Am Mus Novit. 2009;3650:1-27. doi:10.1206/651.1"
+  },
+  {
+   "title": "termitologia.net — 世界白蚁名录与网站资料"
+  },
+  {
+   "title": "GBIF — Global Biodiversity Information Facility 分类与分布参考资料"
+  },
+  {
+   "title": "《白蚁学》《世界白蚁中文名录》《中国动物志》等中文文献与既有译名"
+  }
+ ],
+ "counts": {
+  "clades": 6,
+  "families": 13,
+  "subfamilies": 18,
+  "genera": 323,
+  "species": 3008,
+  "subspecies": 63
+ },
+ "resources": [
+  {
+   "name": "isoptera_checklist",
+   "path": "data/isoptera-checklist.csv",
+   "title": "逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名）",
+   "format": "csv",
+   "bytes": 1752731,
+   "rows": 3071,
+   "profile": "tabular-data-resource",
+   "schema": {
+    "fields": [
+     {
+      "name": "taxonID",
+      "type": "URL",
+      "description": "站点物种页永久地址，同时作为本数据集的分类单元标识符。Stable identifier (species page URL)."
+     },
+     {
+      "name": "scientificName",
+      "type": "string",
+      "description": "拉丁学名（属名 + 种加词 [+ 亚种加词]）。Latin scientific name."
+     },
+     {
+      "name": "authorship",
+      "type": "string",
+      "description": "命名人与发表年份。Authorship as given in the source."
+     },
+     {
+      "name": "taxonRank",
+      "type": "string",
+      "description": "分类等级：species 或 subspecies。Taxon rank."
+     },
+     {
+      "name": "parentNameUsage",
+      "type": "string",
+      "description": "亚种所属的种（种级记录为空）。Parent species for subspecies."
+     },
+     {
+      "name": "genus",
+      "type": "string",
+      "description": "属（拉丁）。Genus."
+     },
+     {
+      "name": "genusZh",
+      "type": "string",
+      "description": "属（中文）。Genus in Chinese."
+     },
+     {
+      "name": "subfamily",
+      "type": "string",
+      "description": "亚科（拉丁，无亚科者留空）。Subfamily."
+     },
+     {
+      "name": "subfamilyZh",
+      "type": "string",
+      "description": "亚科（中文）。Subfamily in Chinese."
+     },
+     {
+      "name": "family",
+      "type": "string",
+      "description": "科（拉丁）。Family."
+     },
+     {
+      "name": "familyZh",
+      "type": "string",
+      "description": "科（中文）。Family in Chinese."
+     },
+     {
+      "name": "clade",
+      "type": "string",
+      "description": "所属支系（拉丁）。Clade."
+     },
+     {
+      "name": "cladeZh",
+      "type": "string",
+      "description": "所属支系（中文）。Clade in Chinese."
+     },
+     {
+      "name": "vernacularName",
+      "type": "string",
+      "description": "中文正名（Darwin Core vernacularName）。Chinese standard name."
+     },
+     {
+      "name": "isTypeSpecies",
+      "type": "string",
+      "description": "是否为该属模式种：yes / no。Whether the taxon is its genus type species."
+     },
+     {
+      "name": "typeLocality",
+      "type": "string",
+      "description": "模式产地，沿用原始数据写法。Type locality as recorded."
+     },
+     {
+      "name": "distributionZh",
+      "type": "string",
+      "description": "分布（中文）。Distribution in Chinese."
+     },
+     {
+      "name": "distributionEn",
+      "type": "string",
+      "description": "分布（英文；仅种级有记录）。Distribution in English."
+     },
+     {
+      "name": "synonymCount",
+      "type": "integer",
+      "description": "次异名条数。Number of synonyms."
+     },
+     {
+      "name": "synonyms",
+      "type": "string",
+      "description": "全部次异名，分号分隔。All synonyms, semicolon-separated."
+     },
+     {
+      "name": "synonymLocalities",
+      "type": "string",
+      "description": "次异名模式产地，分号分隔。Type localities of synonyms."
+     },
+     {
+      "name": "pageUrl",
+      "type": "string",
+      "description": "对应站点页面 URL。Corresponding project page."
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   },
+   "dialect": {
+    "csvddfVersion": 1.2,
+    "delimiter": ",",
+    "lineTerminator": "\r\n",
+    "header": true,
+    "encoding": "utf-8"
+   }
+  },
+  {
+   "name": "isoptera_taxonomy",
+   "path": "data/isoptera-taxonomy.json",
+   "title": "完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接）",
+   "format": "json",
+   "bytes": 1715138,
+   "rows": 3071,
+   "profile": "data-resource"
+  },
+  {
+   "name": "isoptera_synonyms",
+   "path": "data/isoptera-synonyms.csv",
+   "title": "次异名长表（一行一次异名，含其模式产地）",
+   "format": "csv",
+   "bytes": 169975,
+   "rows": 696,
+   "profile": "tabular-data-resource",
+   "schema": {
+    "fields": [
+     {
+      "name": "taxonID",
+      "type": "string",
+      "description": "接受名的分类单元标识符。taxonID of the accepted taxon."
+     },
+     {
+      "name": "scientificName",
+      "type": "string",
+      "description": "接受名（拉丁）。Accepted scientific name."
+     },
+     {
+      "name": "synonym",
+      "type": "string",
+      "description": "次异名（含命名人与年份、页码）。Synonym with authorship."
+     },
+     {
+      "name": "synonymTypeLocality",
+      "type": "string",
+      "description": "次异名模式产地；仅当 localityAlignment = matched 时逐条对应，否则留空。Type locality of the synonym."
+     },
+     {
+      "name": "localityAlignment",
+      "type": "string",
+      "description": "模式产地与次异名的对应状态：matched 可逐条对齐；unmatched 原数据条数不等（完整模式产地见 isoptera-checklist.csv 的 synonymLocalities 列）；absent 原数据无模式产地。"
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   },
+   "dialect": {
+    "csvddfVersion": 1.2,
+    "delimiter": ",",
+    "lineTerminator": "\r\n",
+    "header": true,
+    "encoding": "utf-8"
+   }
+  },
+  {
+   "name": "isoptera_counts",
+   "path": "data/isoptera-counts.csv",
+   "title": "科/亚科级分类单元计数",
+   "format": "csv",
+   "bytes": 2215,
+   "rows": 31,
+   "profile": "tabular-data-resource",
+   "schema": {
+    "fields": [
+     {
+      "name": "clade",
+      "type": "string",
+      "description": "支系（拉丁）。Clade."
+     },
+     {
+      "name": "family",
+      "type": "string",
+      "description": "科（拉丁）。Family."
+     },
+     {
+      "name": "familyZh",
+      "type": "string",
+      "description": "科（中文）。Family in Chinese."
+     },
+     {
+      "name": "subfamily",
+      "type": "string",
+      "description": "亚科（拉丁；科级汇总行为空）。Subfamily."
+     },
+     {
+      "name": "subfamilyZh",
+      "type": "string",
+      "description": "亚科（中文）。Subfamily in Chinese."
+     },
+     {
+      "name": "genera",
+      "type": "integer",
+      "description": "属数。Number of genera."
+     },
+     {
+      "name": "species",
+      "type": "integer",
+      "description": "种数。Number of species."
+     },
+     {
+      "name": "subspecies",
+      "type": "integer",
+      "description": "亚种数。Number of subspecies."
+     },
+     {
+      "name": "total",
+      "type": "integer",
+      "description": "种 + 亚种。Species plus subspecies."
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   },
+   "dialect": {
+    "csvddfVersion": 1.2,
+    "delimiter": ",",
+    "lineTerminator": "\r\n",
+    "header": true,
+    "encoding": "utf-8"
+   }
+  },
+  {
+   "name": "isoptera_references",
+   "path": "data/isoptera-references.csv",
+   "title": "参考文献清单（有 DOI 者随条目给出）",
+   "format": "csv",
+   "bytes": 14186,
+   "rows": 77,
+   "profile": "tabular-data-resource",
+   "schema": {
+    "fields": [
+     {
+      "name": "referenceID",
+      "type": "integer",
+      "description": "名录正文中的文献编号。Reference number used in the checklist."
+     },
+     {
+      "name": "citation",
+      "type": "string",
+      "description": "文献著录（已去除 doi 字段）。Full citation without the DOI."
+     },
+     {
+      "name": "doi",
+      "type": "string",
+      "description": "DOI；无 DOI 时为空白。DOI, empty when unavailable."
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   },
+   "dialect": {
+    "csvddfVersion": 1.2,
+    "delimiter": ",",
+    "lineTerminator": "\r\n",
+    "header": true,
+    "encoding": "utf-8"
+   }
+  }
+ ]
+}
