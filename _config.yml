@@ -49,8 +49,8 @@ plugins:
 # 完整流程见 _tools/数据集DOI与归档发布指南.md。
 # ---------------------------------------------------------------------------
 dataset:
-  doi: ""            # 版本 DOI，例 10.5281/zenodo.1234567（留空则站内不显示 DOI）
-  concept_doi: ""    # 概念 DOI（全部版本），例 10.5281/zenodo.1234566
+  doi: "10.5281/zenodo.23646836"            # 版本 DOI（2026.10.17 版）
+  concept_doi: "10.5281/zenodo.23646835"    # 概念 DOI（全部版本）
   version: "2026.10.17"
   publisher: "Zenodo"
   license_name: "CC BY 4.0"

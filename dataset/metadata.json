@@ -33,7 +33,7 @@
  "doi": {
   "$comment": "铸造后填入，例如 version: 10.5281/zenodo.1234567, concept: 10.5281/zenodo.1234566。留空时生成的 DataCite XML 使用 10.5281/zenodo.XXXXXXX 占位并在终端告警。",
   "version": "10.5281/zenodo.23646836",
-  "concept": "",
+  "concept": "10.5281/zenodo.23646835",
   "resolver": "https://doi.org/"
  },
  "dates": {

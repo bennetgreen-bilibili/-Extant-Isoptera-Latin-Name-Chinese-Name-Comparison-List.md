@@ -14,4 +14,5 @@
   - `datapackage.json`：Frictionless Data Package 描述（含字段字典）。
   - `datacite-metadata.xml`：DataCite Metadata Schema 4.6 记录。
 - 许可：CC BY 4.0。
+- 归档 DOI（2026-10-25 于 Zenodo 发布）：版本 DOI [10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)；概念 DOI（全部版本，始终指向最新版）[10.5281/zenodo.23646835](https://doi.org/10.5281/zenodo.23646835)。
 - 说明：本版本为纯汇编，不构成任何命名行为（no nomenclatural act）。

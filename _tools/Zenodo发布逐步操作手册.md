@@ -3,21 +3,24 @@
 > 这是"照着做"的操作单：每一步都有可勾选框、可直接复制的值和"怎么判断成功"。
 > 讲"为什么这样做、有哪几条路"的是同目录的《数据集DOI与归档发布指南.md》；本文件只讲"手怎么动"。
 >
-> **当前状态（2026-10-26 核对）**
-> - 数据集包已提交：`2f510e0`；DOI 回填与手册更新在其后的提交里（推送见 7.4）
-> - 归档包：`downloads/isoptera-checklist-v2026.10.17.zip`，**485,678 字节**，内含 12 个文件
-> - Zenodo 侧：**已预留 DOI `10.5281/zenodo.23646836`**（草稿尚未发布）；`dataset/metadata.json` 的 `doi.version` 已回填，归档包里 README / CITATION.cff / datacite-metadata.xml 三处已带真 DOI；概念 DOI 待发布后再填 `_config.yml`
+> **当前状态（2026-10-26 核对：已发布）**
+> - ✅ **记录已发布**：<https://zenodo.org/records/23646836>（2026-10-25 发布，DataCite 状态 findable）
+> - 版本 DOI `10.5281/zenodo.23646836`；概念 DOI `10.5281/zenodo.23646835`
+> - 归档包：`downloads/isoptera-checklist-v2026.10.17.zip`，**485,846 字节**，12 个文件（线上已发布的是 485,678 字节，需按 6.1 替换一次）
+> - 站点：`_config.yml` 与 `dataset/metadata.json` 的版本/概念 DOI 已回填并重新生成（push 后按 7.5 验收）
+> - 剩余：Zenodo 替换归档文件（6.1）→ push → 7.5 验收 → 第 8 节曝光动作
 > - 预计耗时：账号 5 分钟 + 填表 15 分钟 + 回填 10 分钟（第一次做）；以后发新版 20 分钟
 
 ## 记录区（边做边填，填完这一版就齐了）
 
 | 项目 | 值 |
 |---|---|
-| Zenodo record 网址 | https://zenodo.org/records/ |
+| Zenodo record 网址 | <https://zenodo.org/records/23646836> |
 | **版本 DOI**（version DOI） | 10.5281/zenodo.23646836 |
-| **概念 DOI**（concept DOI，全部版本） | 10.5281/zenodo. |
-| 实际发布日期 | |
-| 发布时归档包字节数 | 485,678 |
+| **概念 DOI**（concept DOI，全部版本） | 10.5281/zenodo.23646835 |
+| 实际发布日期 | 2026-10-25（publication_date 元数据仍写 2026-10-17） |
+| 归档包字节数 | 485,846（2026-10-26 重打包；首版上传为 485,678） |
+| 归档包 MD5 | 9ab772314d2712b5aad9e6adf9ed2d66 |
 
 ---
 
@@ -283,11 +286,22 @@ Get-Item downloads/isoptera-checklist-v2026.10.17.zip | Select-Object Length,Las
 
 ---
 
-## 6. 发布（Publish）
+## 6. 发布（Publish）✅ 2026-10-25 已完成
 
-- [ ] 点 **Preview** 看一眼：标题、作者、描述渲染是否正常，DOI 是否已显示
-- [ ] 确认 Visibility = **Public**（文件公开，元数据本来就公开）
-- [ ] 点 **Publish** → 弹窗确认
+- [x] 点 **Preview** 看一眼：标题、作者、描述渲染是否正常，DOI 是否已显示
+- [x] 确认 Visibility = **Public**（文件公开，元数据本来就公开）
+- [x] 点 **Publish** → 弹窗确认
+
+**发布结果（Zenodo / DataCite API 实测）**
+
+| 项 | 值 |
+|---|---|
+| record | <https://zenodo.org/records/23646836> |
+| 版本 DOI | `10.5281/zenodo.23646836`（DataCite state: findable） |
+| 概念 DOI | `10.5281/zenodo.23646835` |
+| 作者 | Green, Bennet（ORCID 0009-0009-8563-8559，Independent researcher） |
+| 类型 / 许可 | Dataset / CC BY 4.0 |
+| 线上文件 | `isoptera-checklist-v2026.10.17.zip`，485,678 B，MD5 `f1c7d5b56a9968a04c0e90ebacfc5a20` |
 
 ### 发布后立刻做三件事
 
@@ -301,11 +315,30 @@ Get-Item downloads/isoptera-checklist-v2026.10.17.zip | Select-Object Length,Las
      Invoke-RestMethod "https://api.datacite.org/dois/10.5281/zenodo.XXXXXXXX" | ConvertTo-Json -Depth 4 | Select-String "relatedIdentifiers|license|titles|types"
      ```
    - 打开 <https://commons.datacite.org> 用 DOI 搜，能看到 record 即被收录
-3. **补记录区**：把版本 DOI、概念 DOI、发布日期、字节数填进本文件顶部的表
+3. **补记录区**：把版本 DOI、概念 DOI、发布日期、字节数填进本文件顶部的表（已填好）
+
+### 6.1 还要做一次文件替换（推荐，5 分钟）
+
+发布时上传的是 485,678 字节那版（README 里只有版本 DOI）。之后补了概念 DOI 与 CHANGELOG 归档记录，重新打包为 **485,846 字节 / MD5 `9ab772314d2712b5aad9e6adf9ed2d66`**。替换一次，才能让「DOI 指向的包」与「站点下载的包」逐字节一致（也才能互相校验 MD5）。
+
+- [ ] record 页点 **Edit**（发布后 45 天内可改文件，超期只能改元数据、不能换文件）
+- [ ] 文件区删掉现有 zip → **Upload files** 传 `downloads/isoptera-checklist-v2026.10.17.zip`
+- [ ] **Publish** 保存（DOI 不变，不产生新版本号）
+- [ ] 核对字节数与 MD5：
+
+```powershell
+(Invoke-RestMethod "https://zenodo.org/api/records/23646836").files | Select-Object key,size,checksum
+```
+
+### 6.2 三处可选元数据修正（同一个 Edit 里顺手改）
+
+1. **中文翻译标题被截短**：DataCite 里是「现存等翅下目(白蚁)拉丁学名—中文正名对照名录」，漏了「（2026.10.17 正式版）」。改成与 `dataset/metadata.json` 一致的全称。
+2. **第二条 related work 选错**：现在是 relation = isDocumentedBy、resource type = computationalnotebook；应为 **isSupplementedBy** + **Software**。
+3. **Language 未填**：设成 Chinese（Chinese (Simplified)）。
 
 ---
 
-## 7. 回填站点、提交推送、验收
+## 7. 回填站点、提交推送、验收（7.1–7.3 ✅ 已完成 2026-10-26）
 
 ### 7.1 两处配置
 
@@ -313,14 +346,14 @@ Get-Item downloads/isoptera-checklist-v2026.10.17.zip | Select-Object Length,Las
 
 ```yaml
 dataset:
-  doi: "10.5281/zenodo.XXXXXXXX"        # 版本 DOI
-  concept_doi: "10.5281/zenodo.YYYYYYY"  # 概念 DOI
+  doi: "10.5281/zenodo.23646836"        # 版本 DOI
+  concept_doi: "10.5281/zenodo.23646835"  # 概念 DOI
 ```
 
 `dataset/metadata.json` 的 `concept`（顺手补齐，DataCite XML 会生成 `IsVersionOf` 关系）：
 
 ```json
-  "concept": "10.5281/zenodo.YYYYYYY",
+  "concept": "10.5281/zenodo.23646835",
 ```
 
 ### 7.2 重新生成并校验
@@ -378,7 +411,7 @@ $sp   = (Invoke-WebRequest "${u}species/acangaobitermes-krishnai/" -UseBasicPars
 
 DOI 只是准入证。以下按"性价比"排序：
 
-1. **ORCID 自动同步**（0 成本）：Zenodo 元数据更新后通常 24 小时内出现在你的 ORCID Works；没出现就在 ORCID 里 *Add works → Search & link → Zenodo* 手动链。
+1. **ORCID 自动同步**（0 成本）：记录里已带 ORCID 0009-0009-8563-8559，通常 24 小时内出现在你的 ORCID Works；没出现就在 ORCID 里 *Add works → Search & link → Zenodo* 手动链。
 2. **Google Dataset Search**（0 成本，被动）：无需提交，靠抓取。前提是 record 公开 + `/data/` 页有 schema.org `Dataset` 结构化数据（已有）。收录通常要几周到几个月，去 <https://datasetsearch.research.google.com> 搜 `Isoptera checklist` / `termites` 观察是否出现。
 3. **把 DOI 放出去**：B 站视频简介、GitHub 仓库 About 里的 Website、你写的中文文章/图鉴、相关微信群与论坛。**没有链接的 DOI 等于没有。**
 4. **让别人能一行引用**：record 页 *Cite as* 里有 APA / BibTeX / DataCite JSON，直接复制；站点页脚与 /data/ 页已指向 DOI，形成闭环。

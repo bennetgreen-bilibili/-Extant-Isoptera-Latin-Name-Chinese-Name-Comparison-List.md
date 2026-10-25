@@ -5,7 +5,7 @@
 **版本 Version**：2026.10.17　·　**记录 Records**：3071 条（3008 种 + 63 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
 
 <!-- DOI:BEGIN -->
-**DOI**：[10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)
+**DOI**：[10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)（概念 DOI / 全部版本：10.5281/zenodo.23646835）
 
 **引用格式 Citation（中文 / APA 7）**
 
