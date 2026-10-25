@@ -2,6 +2,7 @@
 
 > 适用对象：本仓库（现存等翅下目白蚁名录站点）。目标：把站内名录变成**带 DOI、可被引用、被聚合器收录**的数据集，并把 DOI 回填到站内，形成「站点 ↔ 数据集」双向关联。
 > 相关文件：`dataset/`（数据集包）、`.github/workflows/build_dataset.py`（生成脚本）、`dataset/metadata.json`（元数据唯一来源）、`_config.yml` 的 `dataset:` 配置块。
+> 照着点的操作单（每一步可复制、可勾选、含验收命令）：**《Zenodo发布逐步操作手册.md》**。
 
 ---
 

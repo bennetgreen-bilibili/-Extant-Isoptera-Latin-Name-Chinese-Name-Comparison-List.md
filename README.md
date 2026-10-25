@@ -32,6 +32,7 @@
 - 命令：`python .github/workflows/build_dataset.py`（自检）、`--write`（写入）、`--check`（校验仓库内产物是否最新）。
 - **铸造成 DOI 后**：把 DOI 填进 `dataset/metadata.json` 的 `doi.version` / `doi.concept` 和 `_config.yml` 的 `dataset.doi` / `dataset.concept_doi`，再跑 `--write`。站内「引用与 DOI」区块、页脚 DOI 链接、`<link rel="cite-as">`、首页 JSON-LD 的 `identifier` 会自动出现，不需要改页面。
 - 完整操作流程（Zenodo 预留 DOI 的先后顺序、GBIF checklist 二次发布、ScienceDB 国内路线、Google Dataset Search 收录、常见坑）：见 `_tools/数据集DOI与归档发布指南.md`。
+- 逐步操作单（照抄的字段值、可复制命令、发布后验收脚本）：见 `_tools/Zenodo发布逐步操作手册.md`。
 
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
