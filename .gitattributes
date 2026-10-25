@@ -1,0 +1,8 @@
+# 生成产物必须与 build_dataset.py 的输出逐字节一致：
+#   - dataset/CHECKSUMS.sha256 记录的是这些字节的 SHA-256
+#   - build_dataset.py --check 也是逐字节比对
+# 因此禁止 Git 对它们做任何换行转换（core.autocrlf=true 的 Windows 环境尤其重要）。
+dataset/** -text
+downloads/*.zip -text -diff
+CITATION.cff -text
+.zenodo.json -text
