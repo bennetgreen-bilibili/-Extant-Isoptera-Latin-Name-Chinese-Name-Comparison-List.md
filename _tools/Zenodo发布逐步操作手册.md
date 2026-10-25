@@ -3,10 +3,10 @@
 > 这是"照着做"的操作单：每一步都有可勾选框、可直接复制的值和"怎么判断成功"。
 > 讲"为什么这样做、有哪几条路"的是同目录的《数据集DOI与归档发布指南.md》；本文件只讲"手怎么动"。
 >
-> **当前状态（2026.10.17 版核对）**
-> - 数据集包已生成并提交：commit `2f510e0 数据包`，工作区干净、已推送 `origin/main`
-> - 归档包：`downloads/isoptera-checklist-v2026.10.17.zip`，**485,517 字节**，内含 13 个文件
-> - Zenodo 侧：**尚未操作**（`dataset/metadata.json` 的 `doi.version` 为空，DataCite XML 用的是占位 DOI `10.5281/zenodo.XXXXXXX`）
+> **当前状态（2026-10-26 核对）**
+> - 数据集包已提交：`2f510e0`；DOI 回填与手册更新在其后的提交里（推送见 7.4）
+> - 归档包：`downloads/isoptera-checklist-v2026.10.17.zip`，**485,678 字节**，内含 12 个文件
+> - Zenodo 侧：**已预留 DOI `10.5281/zenodo.23646836`**（草稿尚未发布）；`dataset/metadata.json` 的 `doi.version` 已回填，归档包里 README / CITATION.cff / datacite-metadata.xml 三处已带真 DOI；概念 DOI 待发布后再填 `_config.yml`
 > - 预计耗时：账号 5 分钟 + 填表 15 分钟 + 回填 10 分钟（第一次做）；以后发新版 20 分钟
 
 ## 记录区（边做边填，填完这一版就齐了）
@@ -14,10 +14,10 @@
 | 项目 | 值 |
 |---|---|
 | Zenodo record 网址 | https://zenodo.org/records/ |
-| **版本 DOI**（version DOI） | 10.5281/zenodo. |
+| **版本 DOI**（version DOI） | 10.5281/zenodo.23646836 |
 | **概念 DOI**（concept DOI，全部版本） | 10.5281/zenodo. |
 | 实际发布日期 | |
-| 发布时归档包字节数 | 485,517 |
+| 发布时归档包字节数 | 485,678 |
 
 ---
 
@@ -36,7 +36,7 @@ python .github/workflows/build_dataset.py --check
 ```text
 记录 3071 条（种 3008，亚种 63）；属 323；科 13；亚科 18；支系 6
 次异名 696 条；参考文献 77 条（含 DOI 46 条）
-数据文件合计 3654245 字节；归档包 downloads/isoptera-checklist-v2026.10.17.zip 485517 字节；产物 13 个
+数据文件合计 3654245 字节；归档包 downloads/isoptera-checklist-v2026.10.17.zip 485678 字节；产物 13 个
 ok: 全部 13 个产物与生成结果一致
 ```
 
@@ -59,20 +59,20 @@ ok: 全部 13 个产物与生成结果一致
 ## 2. 第 1 遍上传（先不发布）
 
 - [ ] 右上角 **＋** → **New upload**
-- [ ] **Upload files** → 选 `downloads/isoptera-checklist-v2026.10.17.zip`（485,517 字节）
+- [ ] **Upload files** → 选 `downloads/isoptera-checklist-v2026.10.17.zip`（485,678 字节）
 - [ ] 等进度条走完（485 KB，很快）
 
 **只传这一个文件就够了。** 它是"一键下载"的完整包，里面是：
 
 ```text
 isoptera-checklist-2026.10.17/
-  README.md            10,023 B   归档说明（来源/方法/字段/限制/引用）
+  README.md            10,728 B   归档说明（来源/方法/字段/限制/引用）
   LICENSE               1,913 B   CC BY 4.0
-  CITATION.cff          1,726 B   机器可读引用
+  CITATION.cff          1,757 B   机器可读引用（含 doi: 一行）
   CHANGELOG.md          1,174 B
   CHECKSUMS.sha256        717 B
-  datapackage.json     10,890 B   字段字典（Frictionless 格式）
-  datacite-metadata.xml 6,183 B   DataCite 4.6 元数据
+  datapackage.json     10,830 B   字段字典（Frictionless 格式）
+  datacite-metadata.xml 6,184 B   DataCite 4.6 元数据（第 3 行就是 DOI）
   data/isoptera-checklist.csv     1,752,731 B  3071 行 × 22 列
   data/isoptera-taxonomy.json     1,715,138 B  完整分类树
   data/isoptera-synonyms.csv        169,975 B  次异名长表
@@ -225,6 +225,8 @@ Contributors、Funding、Publisher（自动 Zenodo）、Notes（除非你想加"
 
 ## 5. 把 DOI 写回仓库、重新打包、重传文件（最容易漏的一步）
 
+> ✅ **2026-10-26 已完成**：`dataset/metadata.json` 已填 `10.5281/zenodo.23646836`，`--write` 已重跑，归档包 485,678 字节 / 12 个文件已全部带真 DOI，`--check` 通过。**现在只差把新 zip 重传给 Zenodo 草稿**（先删旧包）。
+
 **为什么必须做**：归档包里 `README.md`、`CITATION.cff`、`datacite-metadata.xml` 三处都要写 DOI。现在包里是占位符 `10.5281/zenodo.XXXXXXX`。别人下载压缩包、离线打开 README 时看到的应该是真 DOI —— 这正是"先预留 DOI 再上传文件"这个顺序存在的意义。写完要重新生成 zip，所以**必须重传一次文件**。
 
 ### 5.1 改元数据
@@ -267,7 +269,7 @@ python .github/workflows/build_dataset.py --check
 Get-Item downloads/isoptera-checklist-v2026.10.17.zip | Select-Object Length,LastWriteTime
 ```
 
-`--check` 必须通过；zip 字节数会变（可能仍是 485,517，也可能差几十字节，取决于 DOI 长度），**以 `LastWriteTime` 是刚才为准**。
+`--check` 必须通过；zip 字节数会变（可能仍是 485,678，也可能差几十字节，取决于 DOI 长度），**以 `LastWriteTime` 是刚才为准**。
 
 ### 5.5 在 Zenodo 草稿里替换文件
 

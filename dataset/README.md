@@ -5,7 +5,29 @@
 **版本 Version**：2026.10.17　·　**记录 Records**：3071 条（3008 种 + 63 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
 
 <!-- DOI:BEGIN -->
-> **DOI：待铸造。** 在 Zenodo 上传页点击 Get a DOI now! 预留 DOI，把 DOI 填进 dataset/metadata.json，重新运行 build_dataset.py --write，本区块（DOI、引用格式、BibTeX）会自动更新；步骤见 _tools/数据集DOI与归档发布指南.md。
+**DOI**：[10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)
+
+**引用格式 Citation（中文 / APA 7）**
+
+> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17 正式版）》(版本 2026.10.17) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
+
+**Citation (English, APA 7)**
+
+> Bennet Green. (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17) (Version 2026.10.17) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
+
+**BibTeX**
+
+```bibtex
+@misc{extantisopterachecklist2026,
+  author    = {班奈特格林},
+  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17)},
+  year      = {2026},
+  version   = {2026.10.17},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23646836},
+  url       = {https://doi.org/10.5281/zenodo.23646836}
+}
+```
 <!-- DOI:END -->
 
 ## 这是什么 What this is
