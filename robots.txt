@@ -37,3 +37,4 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/sitemap.xml
+Sitemap: https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/sitemap.txt

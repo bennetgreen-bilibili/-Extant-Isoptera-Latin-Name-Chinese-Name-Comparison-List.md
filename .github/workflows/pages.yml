@@ -38,6 +38,9 @@ jobs:
       - name: Build species page bodies
         run: python .github/workflows/build_species_body.py --write
 
+      - name: Build sitemap.txt
+        run: python .github/workflows/build_sitemap_txt.py
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
