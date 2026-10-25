@@ -92,6 +92,8 @@ Zenodo 表单分 **Basic information**（带红星必填）与 **Recommended inf
 
 搜 `dataset` → 选 **Dataset**。
 
+> 这是主表单的 Resource type，意思是"你上传的东西是数据集"。Related works 里那个同名字段问的是"链接过去的对象是什么"，见 3.9，两者别混。
+
 ### 3.2 Title（主标题用英文，中文放"翻译标题"）
 
 主标题：
@@ -173,21 +175,24 @@ Zenodo 描述支持 HTML，下面的 `<p>` 会正常渲染。把下面代码块*
 - [ ] **Version**：`2026.10.17`
 - [ ] **Language**：Chinese（有 Chinese (Simplified) 就选它）
 
-### 3.9 Related works（两个链接，很关键）
+### 3.9 Related works（两个链接，四个小字段怎么填）
 
-- [ ] **Add related work** → Relation 选语义最近的（"is documented by" / "is supplemented by"；若下拉里没有就选 "is referenced by"），Identifier 填：
+弹窗里一排要填 4 个东西：**Relation type / Identifier / Scheme / Resource type**。两条都按这张表填：
 
-```text
-https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/
-```
+| # | Relation type（关系） | Identifier（地址） | Scheme（标识类型） | Resource type（对方是什么） |
+|---|---|---|---|---|
+| 1 | **Is documented by**（本数据集被此对象记录/说明） | `https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/` | **URL** | **Other**（没有 Other 就选 Text） |
+| 2 | **Is supplemented by**（本数据集由此对象补充/附带） | `https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md` | **URL** | **Software** |
 
-- [ ] 再加一条，Identifier 填：
+三个容易犹豫的点：
 
-```text
-https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md
-```
+- **Scheme 两条都选 `URL`**：两者都是网址，没有 DOI/ISBN/ISSN 这类号。选错（例如选 DOI）Zenodo 会校验失败或生成死链。列表里常见的有 ARK / arXiv / DOI / Handle / ISBN / ISSN / PMID / PURL / URL / URN，选 URL。
+- **Resource type 指的是"对方那一边是什么"**，不是本记录（本记录是 Dataset）：站点选 Other（没有就 Text），GitHub 仓库选 Software。若你的界面这一栏可以留空，留空也不影响发布。
+- **Relation type 没有一模一样的词就选语义最近的**，方向是"**本记录 → 对方**"：站点 "Is documented by"、仓库 "Is supplemented by"；实在没有就用 "Is referenced by"。别选成 "Documents"（那是"本记录记录了对方"，方向反了）。
 
 **为什么重要**：这是"站点 ↔ 数据集"的机器可读双向链接。聚合器和搜索引擎据此知道"这个 DOI 对应的内容在这个网站上"，你站内 `<link rel="cite-as">` 是反方向。漏了不影响发布，但会损失一部分可发现性。
+
+> 和脚本保持一致：`dataset/metadata.json` 的 `relatedIdentifiers` 用的正是 `IsDocumentedBy`（站点）与 `IsSupplementedBy`（仓库），生成的 `datacite-metadata.xml` 里也是这两条；表单照抄，页面与 XML 就一致。
 
 ### 3.10 不用填的字段
 
