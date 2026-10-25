@@ -415,7 +415,7 @@ DOI 只是准入证。以下按"性价比"排序：
 2. **Google Dataset Search**（0 成本，被动）：无需提交，靠抓取。前提是 record 公开 + `/data/` 页有 schema.org `Dataset` 结构化数据（已有）。收录通常要几周到几个月，去 <https://datasetsearch.research.google.com> 搜 `Isoptera checklist` / `termites` 观察是否出现。
 3. **把 DOI 放出去**：B 站视频简介、GitHub 仓库 About 里的 Website、你写的中文文章/图鉴、相关微信群与论坛。**没有链接的 DOI 等于没有。**
 4. **让别人能一行引用**：record 页 *Cite as* 里有 APA / BibTeX / DataCite JSON，直接复制；站点页脚与 /data/ 页已指向 DOI，形成闭环。
-5. **GBIF checklist（第二 DOI，10.15468）**：分类学与生物多样性社区真正的入口，GBIF 的文献追踪会把引用该 DOI 的论文自动挂回数据集页。工作量大（要 DwC-A + IPT 或走 GBIF 节点），**建议 Zenodo 这套跑顺之后再单独做一轮**，不要一次摊两摊。
+5. **GBIF checklist（第二 DOI，10.15468）**：分类学与生物多样性社区真正的入口，GBIF 的文献追踪会把引用该 DOI 的论文自动挂回数据集页。**DwC-A 发布包已生成**（`downloads/isoptera-checklist-dwca-v2026.10.17.zip`），剩下的门槛是发布资格（IPT 账号 + 机构背书）；逐步操作见 **《GBIF-checklist发布逐步操作手册.md》**，做之前先把 Zenodo 的替换文件与验收收尾。
 6. **发新版而不是发新 record**：每年更新名录时在 record 页点 **New version**，概念 DOI 不变，引用与引用计数都累积在同一条目上。这条对长期曝光比任何单次推广都重要。
 
 ---

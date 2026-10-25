@@ -27,12 +27,14 @@
   - `dataset/datapackage.json`（字段字典）、`dataset/datacite-metadata.xml`（DataCite 4.6 记录）
   - `dataset/README.md`（其中 AUTO / DOI 两个标记区块由脚本自动填充，标记外手写内容不受影响）、`dataset/LICENSE`、`dataset/CHANGELOG.md`、`dataset/CHECKSUMS.sha256`
   - `downloads/isoptera-checklist-v<版本>.zip`：可直接上传 Zenodo 的归档包（downloads 页自动列出）
+  - `dataset/dwc-a/` + `downloads/isoptera-checklist-dwca-v<版本>.zip`：**GBIF checklist 发布用** Darwin Core Archive（`taxon.txt` 3767 行 = 接受名 3071 + 次异名 696、`vernacularname.txt` 3071 行、`meta.xml`、`eml.xml` 通过 GBIF Metadata Profile 1.1 校验）；与 Zenodo 包同源但不进 Zenodo zip
   - 仓库根 `CITATION.cff`（GitHub 仓库页「Cite this repository」按钮）与 `.zenodo.json`（Zenodo GitHub 集成）
 - 元数据唯一来源：`dataset/metadata.json`（标题、描述、作者、关键词、许可、DOI、相关标识符、来源）。
 - 命令：`python .github/workflows/build_dataset.py`（自检）、`--write`（写入）、`--check`（校验仓库内产物是否最新）。
 - **铸造成 DOI 后**：把 DOI 填进 `dataset/metadata.json` 的 `doi.version` / `doi.concept` 和 `_config.yml` 的 `dataset.doi` / `dataset.concept_doi`，再跑 `--write`。站内「引用与 DOI」区块、页脚 DOI 链接、`<link rel="cite-as">`、首页 JSON-LD 的 `identifier` 会自动出现，不需要改页面。
 - 完整操作流程（Zenodo 预留 DOI 的先后顺序、GBIF checklist 二次发布、ScienceDB 国内路线、Google Dataset Search 收录、常见坑）：见 `_tools/数据集DOI与归档发布指南.md`。
 - 逐步操作单（照抄的字段值、可复制命令、发布后验收脚本）：见 `_tools/Zenodo发布逐步操作手册.md`。
+- GBIF checklist（第二 DOI，10.15468）逐步操作单（发布资格/背书、IPT 上传、元数据照抄表、回填与验收）：见 `_tools/GBIF-checklist发布逐步操作手册.md`。
 
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap

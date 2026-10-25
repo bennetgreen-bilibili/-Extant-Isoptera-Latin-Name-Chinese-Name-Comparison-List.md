@@ -102,20 +102,29 @@
 
 ## 3. GBIF checklist 路线（第二个 DOI + 分类学社区曝光）
 
-**为什么值得做**：GBIF 是分类名与分布数据的头号检索入口；GBIF 数据集会分配 DOI（`10.15468` 前缀）；GBIF 的文献追踪会自动把引用该 DOI 的论文挂回数据集页面——这对"被同行看到"非常有效。
+**为什么值得做**：GBIF 是分类名与分布数据的头号检索入口；GBIF 会为注册数据集分配 `10.15468` 前缀的 DOI；GBIF 的文献追踪会把引用该 DOI 的论文挂回数据集页面——这对"被同行看到"非常有效。
 
-**做法（概要）**：
+**关键事实（少走弯路）**：GBIF DOI **不用单独申请**，数据集在 GBIF 注册成功后由 GBIF 自动分配（IPT 手册 *DOI Workflows*：*"By default, GBIF assigns a DOI to all registered datasets. These DOIs begin 10.15468."*）。真正的门槛是**发布资格**：① 机构已在 GBIF 注册并背书（endorsement）② 该机构被加进某个 IPT ③ 你有 IPT 账号。只有一件事例外：若在 IPT 元数据的 *Citation identifier* 里填了现成 DOI（如 Zenodo DOI），GBIF 会把它当作数据集引用 DOI，页面上就不再突出 10.15468——想拿第二 DOI 就**留空**。
 
-1. 造一个 **Darwin Core Archive**（zip 内含 `taxon.txt`、`meta.xml`、`eml.xml`）：
-   - `taxon.txt` 必备：`taxonID`、`scientificName`、`taxonRank`、`parentNameUsageID`、`genus`、`family`、`vernacularName`（中文名放这里）、`taxonRemarks`；
-   - `parentNameUsageID` 用物种页 URL 规则构造（亚种指向母种页面）；
-   - `eml.xml` 写标题、作者、许可（CC BY 4.0）、引用方式。
-2. 用 GBIF 的 **IPT**（Integrated Publishing Toolkit，可自建或使用托管实例）注册资源 → 发布 checklist。
-3. 发布后在 GBIF 数据集页拿到 DOI，回填到 `dataset/metadata.json` 的 `relatedIdentifiers`（`IsSupplementedBy` 或 `IsIdenticalTo` 视情况），再 `--write`。
+**本仓库已完成的部分（2026-10-26）**：`build_dataset.py` 现在同时生成 Darwin Core Archive，脚本无新参数，`--write/--check` 一并管理：
 
-本仓库当前主表列名已按 Darwin Core 风格设计（`taxonID / scientificName / taxonRank / parentNameUsage / genus / family / vernacularName`），改成 `taxon.txt` 只需补 `parentNameUsageID`、把 CSV 改成制表符分隔并加 `meta.xml`/`eml.xml`。可作为数据集 v2 的一步（脚本里加一个 `--dwc` 导出即可）。
+- `dataset/dwc-a/taxon.txt`：Taxon 核心表 3767 行 × 19 列（接受名 3071 + 次异名 696，异名用 `acceptedNameUsageID` 指回接受名；亚种 `parentNameUsageID` 指向母种记录）；分类用 GBIF 支持的 denormalized 方式（kingdom/phylum/class/order/family/genus 每行写全），亚科/支系放在 `taxonRemarks` 保留；
+- `dataset/dwc-a/vernacularname.txt`：VernacularName 扩展 3071 行（中文正名，`language=zho`）——中文名走扩展，不塞 `scientificName`；
+- `dataset/dwc-a/meta.xml`：Darwin Core Text 描述（核心 + 扩展映射，UTF-8/TAB/LF）；
+- `dataset/dwc-a/eml.xml`：EML 2.1.1（GBIF Metadata Profile 1.1），已通过 profile XSD 校验；IPT 发布会用元数据编辑器重新生成；
+- `downloads/isoptera-checklist-dwca-v2026.10.17.zip`：**上传 IPT 用的包**（267,581 字节，4 个文件）。
 
-**提醒**：名录里"分布"是文字描述，不要包装成精确坐标发布；GBIF checklist 的定位是"名录"，与 occurrence（标本/观测）是两类资源。
+DwC-A 不进 Zenodo 归档 zip：归档包是已发布的"引用快照"，改内容会变字节数、必须发新 Zenodo 版本；DwC-A 是 GBIF 的"发布源"。
+
+**发布与回填（概要，逐步照做见《GBIF-checklist发布逐步操作手册.md》）**：
+
+1. 申请发布资格：先问 GBIF 中国节点（中科院，节点经理 `xuzp@mail.las.ac.cn`；注册表里的 `www.gbifchina.org` 已失效）→ 不行问 `helpdesk@gbif.org` → 或用 <https://www.gbif.org/data-hosting-centres> 找托管机构 → 自建 IPT 是最后选项（自建也不能绕过背书）。机构注册/背书入口 <https://www.gbif.org/become-a-publisher>。
+2. 在 IPT 建 Checklist 资源 → 上传 `downloads/isoptera-checklist-dwca-v2026.10.17.zip`（**不要传 Zenodo 的 zip**，那个没有 `meta.xml`）→ 检查 Taxon 19 字段 / Vernacular Name 扩展映射 → 填元数据（照抄 `dataset/metadata.json`；Citation identifier 留空）→ Publish → **Register with GBIF**。
+3. 索引后 GBIF 数据集页就有 `10.15468/…` DOI。回填：`_config.yml` 的 `gbif_doi` / `gbif_dataset`（已加注释行，取消注释即可，`/data/` 页自动显示），Zenodo 记录的 Related works 加 `Is identical to` + Description 补一句。
+
+**注意：不要把 GBIF DOI 写进 `dataset/metadata.json` 的 `relatedIdentifiers` 再 `--write`**——那会改变 `datacite-metadata.xml` / `CHECKSUMS.sha256` / 归档 zip 的字节，触发一次 Zenodo 新版本。反向关联用 Zenodo 网页元数据（可改、不动文件）完成即可；确实想在 DataCite 元数据里互链时，留到下一次正常发版一起做。
+
+**提醒**：名录里"分布"是文字描述，不要包装成精确坐标发布；GBIF checklist 的定位是"名录"，与 occurrence（标本/观测）是两类资源。科名在本仓库是全大写（`MASTOTERMITIDAE`），GBIF 名称解析大小写不敏感，一般能匹配；若 dataset 页 Issues 显示大量匹配问题，再考虑在 DwC-A 输出处改首字母大写并重新生成。
 
 ---
 
@@ -179,6 +188,10 @@
 | `dataset/README.md` | 归档包说明（AUTO / DOI 区块由脚本填充） |
 | `dataset/CHECKSUMS.sha256` | 数据文件校验和 |
 | `downloads/isoptera-checklist-v2026.10.17.zip` | 直接上传 Zenodo 的归档包 |
+| `dataset/dwc-a/`（taxon.txt / vernacularname.txt / meta.xml / eml.xml） | Darwin Core Archive 源文件（GBIF checklist 用，脚本生成） |
+| `downloads/isoptera-checklist-dwca-v2026.10.17.zip` | 直接上传 IPT / GBIF 的 DwC-A 包 |
 | `.zenodo.json` | Zenodo GitHub 集成元数据（若用 Release 自动归档） |
 | `CITATION.cff`（仓库根） | GitHub「Cite this repository」按钮 |
-| `_config.yml` `dataset:` 块 | 铸造后只改这里，站内自动显示 DOI |
+| `_config.yml` `dataset:` 块 | 铸造后只改这里，站内自动显示 DOI（Zenodo DOI 与 GBIF DOI 分两个键） |
+| `_tools/Zenodo发布逐步操作手册.md` | Zenodo 发布照着做（已完成，含替换归档文件与验收） |
+| `_tools/GBIF-checklist发布逐步操作手册.md` | GBIF checklist（第二 DOI）照着做（发布资格、IPT 上传、回填、验收） |

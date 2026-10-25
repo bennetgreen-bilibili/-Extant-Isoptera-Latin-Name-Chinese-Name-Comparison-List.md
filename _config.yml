@@ -56,3 +56,8 @@ dataset:
   license_name: "CC BY 4.0"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
   archive_file: "downloads/isoptera-checklist-v2026.10.17.zip"  # 与 build_dataset.py 输出一致
+  # GBIF checklist（第二 DOI，10.15468/…）：数据集在 GBIF 注册成功后由 GBIF 自动分配。
+  # 发布后取消下面两行注释并回填，/data/ 页会自动出现「GBIF checklist（第二 DOI）」区块；
+  # 不要填 dataset.doi（那是 Zenodo 版本 DOI，两者分工见 _tools/GBIF-checklist发布逐步操作手册.md）。
+  # gbif_doi: "10.15468/xxxxxxxx"
+  # gbif_dataset: "https://www.gbif.org/dataset/<datasetKey>"

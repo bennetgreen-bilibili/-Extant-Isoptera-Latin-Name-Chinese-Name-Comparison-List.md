@@ -22,6 +22,13 @@
   dataset/README.md                       仅更新 AUTO:BEGIN 与 AUTO:END 之间的区块
   downloads/isoptera-checklist-v<版本>.zip 可直接上传 Zenodo 的归档包
 
+GBIF checklist（第二 DOI，10.15468）另生成一份 Darwin Core Archive（与 Zenodo 包分开，不进归档 zip）：
+  dataset/dwc-a/taxon.txt                 Taxon 核心表（接受名 + 次异名记录，TSV）
+  dataset/dwc-a/vernacularname.txt        VernacularName 扩展（中文正名）
+  dataset/dwc-a/meta.xml                  Darwin Core Text 描述文件（核心/扩展映射）
+  dataset/dwc-a/eml.xml                   EML 2.1.1 元数据（IPT 可用自带编辑器覆盖）
+  downloads/isoptera-checklist-dwca-v<版本>.zip  可直接上传 IPT 的 DwC-A 包
+
 用法：
   python .github/workflows/build_dataset.py             # 只统计与自检，不写文件
   python .github/workflows/build_dataset.py --write     # 写入全部产物
@@ -118,6 +125,313 @@ COUNTS_FIELDS = [
 ]
 
 
+# ---------------------------------------------------------------- Darwin Core Archive（GBIF checklist）
+
+# GBIF 注册数据集时默认分配 10.15468/… 的 DOI；DwC-A 是发布载体。
+# 这些文件与 Zenodo 归档包分开生成：Zenodo 包是「引用快照」，DwC-A 是「GBIF 发布源」，
+# 两者同源（同一份 records），不要手工各改一份。字段选择依据：
+#   - IPT 手册 Checklist Data / Best Practices in Publishing Species Checklists
+#   - Darwin Core Taxon 核心术语 + VernacularName 扩展
+DWCA_DIR = DATASET_DIR / "dwc-a"
+DWC_TERMS = "http://rs.tdwg.org/dwc/terms/"
+DC_TERMS = "http://purl.org/dc/terms/"
+DWC_TAXON_ROW_TYPE = DWC_TERMS + "Taxon"
+DWC_VERNACULAR_ROW_TYPE = "http://rs.gbif.org/terms/1.0/VernacularName"
+EML_NS = "eml://ecoinformatics.org/eml-2.1.1"
+XML_LANG = "{http://www.w3.org/XML/1998/namespace}lang"
+
+DWC_KINGDOM = "Animalia"
+DWC_PHYLUM = "Arthropoda"
+DWC_CLASS = "Insecta"
+DWC_ORDER = "Blattodea"
+DWC_NOMENCLATURAL_CODE = "ICZN"
+DWC_NAME_ACCORDING_TO = "Krishna et al. 2013 (Treatise on the Isoptera of the world); Hellemans et al. 2024 (Nat Commun 15:6724)"
+DWC_NAME_ACCORDING_TO_ID = "https://doi.org/10.1206/377.1"
+
+# (列名, 术语 URI)。列序与 meta.xml 的 index 一一对应。
+DWC_TAXON_COLUMNS = [
+    ("taxonID", DWC_TERMS + "taxonID"),
+    ("scientificName", DWC_TERMS + "scientificName"),
+    ("scientificNameAuthorship", DWC_TERMS + "scientificNameAuthorship"),
+    ("taxonRank", DWC_TERMS + "taxonRank"),
+    ("taxonomicStatus", DWC_TERMS + "taxonomicStatus"),
+    ("acceptedNameUsageID", DWC_TERMS + "acceptedNameUsageID"),
+    ("parentNameUsageID", DWC_TERMS + "parentNameUsageID"),
+    ("nameAccordingTo", DWC_TERMS + "nameAccordingTo"),
+    ("nameAccordingToID", DWC_TERMS + "nameAccordingToID"),
+    ("nomenclaturalCode", DWC_TERMS + "nomenclaturalCode"),
+    ("kingdom", DWC_TERMS + "kingdom"),
+    ("phylum", DWC_TERMS + "phylum"),
+    ("class", DWC_TERMS + "class"),
+    ("order", DWC_TERMS + "order"),
+    ("family", DWC_TERMS + "family"),
+    ("genus", DWC_TERMS + "genus"),
+    ("specificEpithet", DWC_TERMS + "specificEpithet"),
+    ("infraspecificEpithet", DWC_TERMS + "infraspecificEpithet"),
+    ("taxonRemarks", DWC_TERMS + "taxonRemarks"),
+]
+DWC_VERNACULAR_COLUMNS = [
+    ("taxonID", DWC_TERMS + "taxonID"),
+    ("vernacularName", DWC_TERMS + "vernacularName"),
+    ("language", DC_TERMS + "language"),
+]
+
+DWC_SYNONYM_PATTERN = re.compile(r"^([A-Z][a-z]+)\s*(?:\(\s*([A-Z][a-z]+)\s*\))?\s+([a-z]+)(?:\s+([a-z]+))?\s*(.*)$")
+DWC_PAGE_SUFFIX = re.compile(r":\s*\d[\d,\s\-\u2013.]*$")
+DWC_NAME_PARTS = re.compile(r"^([A-Z][a-z]+) ([a-z]+)(?: ([a-z]+))?$")
+
+
+def dwc_cell(value) -> str:
+    """单元格清洗：制表符/换行会破坏 TSV，统一替换为空格；空值编码为空串。"""
+    text = str(value if value is not None else "")
+    text = text.replace("\t", " ").replace("\r", " ").replace("\n", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+    if text in ("NULL", "\\N", "\\NULL"):
+        text = ""
+    return text
+
+
+def dwc_tsv(columns: list, rows: list) -> bytes:
+    """UTF-8、无 BOM、LF 行尾的 TSV（meta.xml 里 linesTerminatedBy 写 \\n）。"""
+    lines = ["\t".join(name for name, _ in columns)]
+    for row in rows:
+        if len(row) != len(columns):
+            sys.exit(f"error: DwC-A 行列数 {len(row)} 与表头 {len(columns)} 不一致")
+        lines.append("\t".join(dwc_cell(value) for value in row))
+    return ("\n".join(lines) + "\n").encode("utf-8")
+
+
+def dwc_split_name(latin: str) -> tuple:
+    """把「属 种 [亚种]」拆成三元组；式样不符时返回 (latin, '', '') 由调用方兜底。"""
+    match = DWC_NAME_PARTS.match(latin.strip())
+    if not match:
+        return latin.strip(), "", ""
+    genus, specific, infra = match.groups()
+    return genus, specific, infra or ""
+
+
+def dwc_taxon_remarks(taxon) -> str:
+    parts = [f"中文名 Chinese name: {taxon.zh}", f"支系 Clade: {taxon.clade_latin}"]
+    if taxon.subfamily_latin:
+        parts.append(f"亚科 Subfamily: {taxon.subfamily_latin}")
+    parts.append(f"模式产地 Type locality: {taxon.type_locality}")
+    if taxon.is_type_species:
+        parts.append("模式种 Type species of its genus")
+    if taxon.distribution_zh:
+        parts.append(f"分布 Distribution: {taxon.distribution_zh}")
+    return "；".join(parts)
+
+
+def dwc_taxon_rows(records: list, warnings: list) -> list:
+    """接受名记录 + 次异名记录（异名单独成行，靠 acceptedNameUsageID 指回接受名）。"""
+    rows = []
+    for taxon in records:
+        genus, specific, infra = dwc_split_name(taxon.latin)
+        rows.append(
+            [
+                taxon.page_url,
+                taxon.latin,
+                taxon.authorship,
+                taxon.rank,
+                "accepted",
+                "",
+                taxon.parent_url if taxon.rank == "subspecies" else "",
+                DWC_NAME_ACCORDING_TO,
+                DWC_NAME_ACCORDING_TO_ID,
+                DWC_NOMENCLATURAL_CODE,
+                DWC_KINGDOM,
+                DWC_PHYLUM,
+                DWC_CLASS,
+                DWC_ORDER,
+                taxon.family_latin,
+                genus,
+                specific,
+                infra,
+                dwc_taxon_remarks(taxon),
+            ]
+        )
+        if not taxon.synonyms:
+            continue
+        for index, raw in enumerate(item.strip() for item in taxon.synonyms.split(";") if item.strip()):
+            match = DWC_SYNONYM_PATTERN.match(raw)
+            if not match:
+                warnings.append(f"{taxon.latin}：异名无法解析，已按原始字符串发布：{raw}")
+                rows.append(
+                    [
+                        f"{taxon.page_url}#synonym-{index + 1}",
+                        raw,
+                        "",
+                        "",
+                        "synonym",
+                        taxon.page_url,
+                        "",
+                        DWC_NAME_ACCORDING_TO,
+                        DWC_NAME_ACCORDING_TO_ID,
+                        DWC_NOMENCLATURAL_CODE,
+                        DWC_KINGDOM,
+                        DWC_PHYLUM,
+                        DWC_CLASS,
+                        DWC_ORDER,
+                        taxon.family_latin,
+                        "",
+                        "",
+                        "",
+                        f"异名 Synonym as given in source: {raw}",
+                    ]
+                )
+                continue
+            genus_syn, subgenus, specific_syn, infra_syn, rest = match.groups()
+            name = f"{genus_syn} ({subgenus}) {specific_syn}" if subgenus else f"{genus_syn} {specific_syn}"
+            if infra_syn:
+                name = f"{name} {infra_syn}"
+            authorship = DWC_PAGE_SUFFIX.sub("", rest.strip()).strip().rstrip(",;.")
+            rows.append(
+                [
+                    f"{taxon.page_url}#synonym-{index + 1}",
+                    name,
+                    authorship,
+                    "subspecies" if infra_syn else "species",
+                    "synonym",
+                    taxon.page_url,
+                    "",
+                    DWC_NAME_ACCORDING_TO,
+                    DWC_NAME_ACCORDING_TO_ID,
+                    DWC_NOMENCLATURAL_CODE,
+                    DWC_KINGDOM,
+                    DWC_PHYLUM,
+                    DWC_CLASS,
+                    DWC_ORDER,
+                    taxon.family_latin,
+                    genus_syn,
+                    specific_syn,
+                    infra_syn or "",
+                    f"异名 Synonym as given in source: {raw}",
+                ]
+            )
+    return rows
+
+
+def dwc_vernacular_rows(records: list) -> list:
+    return [[taxon.page_url, taxon.zh, "zho"] for taxon in records if taxon.zh]
+
+
+def dwc_meta_xml() -> str:
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">',
+        '  <core encoding="UTF-8" fieldsTerminatedBy="\\t" linesTerminatedBy="\\n" fieldsEnclosedBy="" '
+        f'ignoreHeaderLines="1" rowType="{DWC_TAXON_ROW_TYPE}">',
+        "    <files>",
+        "      <location>taxon.txt</location>",
+        "    </files>",
+        '    <id index="0"/>',
+    ]
+    for index, (_, uri) in enumerate(DWC_TAXON_COLUMNS[1:], start=1):
+        lines.append(f'    <field index="{index}" term="{uri}"/>')
+    lines += [
+        "  </core>",
+        '  <extension encoding="UTF-8" fieldsTerminatedBy="\\t" linesTerminatedBy="\\n" fieldsEnclosedBy="" '
+        f'ignoreHeaderLines="1" rowType="{DWC_VERNACULAR_ROW_TYPE}">',
+        "    <files>",
+        "      <location>vernacularname.txt</location>",
+        "    </files>",
+        '    <coreid index="0"/>',
+    ]
+    for index, (_, uri) in enumerate(DWC_VERNACULAR_COLUMNS[1:], start=1):
+        lines.append(f'    <field index="{index}" term="{uri}"/>')
+    lines += ["  </extension>", "</archive>"]
+    return "\n".join(lines) + "\n"
+
+
+def dwc_eml_xml(meta: dict, counts: dict) -> str:
+    """EML 2.1.1 元数据。IPT 会用自带编辑器重新生成 EML，本文件供非 IPT 渠道与人工核对。"""
+    creator = meta["creators"][0]
+    ET.register_namespace("eml", EML_NS)
+    root = ET.Element(
+        f"{{{EML_NS}}}eml",
+        {
+            "packageId": f"{meta['name']}.{meta['version']}",
+            "system": meta["siteUrl"],
+            "scope": "system",
+            XML_LANG: "en",
+        },
+    )
+    dataset = ET.SubElement(root, "dataset")
+    ET.SubElement(dataset, "title", {XML_LANG: "en"}).text = meta["title"]["en"]
+    ET.SubElement(dataset, "title", {XML_LANG: "zh"}).text = meta["title"]["zh"]
+
+    def person(parent: ET.Element, tag: str) -> None:
+        node = ET.SubElement(parent, tag)
+        name = ET.SubElement(node, "individualName")
+        ET.SubElement(name, "surName").text = creator["name"]
+
+    person(dataset, "creator")
+    person(dataset, "metadataProvider")
+    ET.SubElement(dataset, "pubDate").text = meta["dates"]["issued"]
+    ET.SubElement(dataset, "language").text = "zh"
+    abstract = ET.SubElement(dataset, "abstract")
+    ET.SubElement(abstract, "para").text = meta["description"]["zh"]
+    ET.SubElement(abstract, "para").text = meta["description"]["en"]
+    keywords = ET.SubElement(dataset, "keywordSet")
+    for keyword in meta["keywords"]["zh"] + meta["keywords"]["en"]:
+        ET.SubElement(keywords, "keyword").text = keyword
+    # GBIF Metadata Profile 1.1 要求 keywordThesaurus 收尾（keyword+ 之后必须出现）
+    ET.SubElement(keywords, "keywordThesaurus").text = "Author keywords"
+    rights = ET.SubElement(dataset, "intellectualRights")
+    ET.SubElement(rights, "para").text = f"{meta['license']['name']} ({meta['license']['url']})"
+    distribution = ET.SubElement(dataset, "distribution", {"scope": "document"})
+    online = ET.SubElement(distribution, "online")
+    ET.SubElement(online, "url", {"function": "information"}).text = meta["siteUrl"]
+    person(dataset, "contact")
+    ET.indent(root, space=" ")
+    return '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(root, encoding="unicode") + "\n"
+
+
+def build_dwc_zip(files: dict) -> bytes:
+    """DwC-A 是压平的 zip：meta.xml / 数据文件直接在根（GBIF 下载包同样布局）。"""
+    buffer = io.BytesIO()
+    with zipfile.ZipFile(buffer, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+        for name in sorted(files):
+            info = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = 0o644 << 16
+            archive.writestr(info, files[name])
+    return buffer.getvalue()
+
+
+def validate_dwc(taxon_rows: list, vernacular_rows: list, accepted_count: int) -> list:
+    """发布前的硬校验（参考 GBIF DwC-A Validator 的检查项）：唯一性、引用完整性、词表、空值。"""
+    problems = []
+    ids = [row[0] for row in taxon_rows]
+    if len(ids) != len(set(ids)):
+        problems.append("taxonID 不唯一")
+    known = set(ids)
+    if sum(1 for row in taxon_rows if row[4] == "accepted") != accepted_count:
+        problems.append("接受名记录数与物种页数不一致")
+    for row in taxon_rows:
+        if row[4] not in ("accepted", "synonym"):
+            problems.append(f"taxonomicStatus 非法：{row[4]}")
+        if row[3] and row[3] not in ("species", "subspecies"):
+            problems.append(f"taxonRank 非法：{row[3]}")
+        for column in (5, 6):
+            if row[column] and row[column] not in known:
+                problems.append(f"{row[0]} 引用了不存在的 taxonID：{row[column]}")
+        if not row[1]:
+            problems.append(f"{row[0]} 缺少 scientificName")
+        if row[4] == "accepted":
+            for column, name in ((7, "kingdom"), (14, "family"), (15, "genus")):
+                if not row[column]:
+                    problems.append(f"{row[0]} 缺少 {name}")
+    if len(vernacular_rows) != accepted_count:
+        problems.append("vernacularname.txt 行数与接受名数不一致")
+    for row in vernacular_rows:
+        if row[0] not in known:
+            problems.append(f"vernacularname 引用不存在的 taxonID：{row[0]}")
+        if not row[1]:
+            problems.append(f"vernacularname 中 {row[0]} 缺少中文名")
+    return problems
+
+
 # ---------------------------------------------------------------- 读取来源
 
 def read_json(path: Path) -> dict:
@@ -176,6 +490,7 @@ class Taxon:
     is_type_species: bool
     parent_latin: str
     parent_slug: str
+    parent_url: str
     synonyms: str
     synonym_localities: str
     synonym_count: int
@@ -215,6 +530,7 @@ def load_species(site_url: str) -> list:
                 is_type_species=bool(fm.get("type", False)),
                 parent_latin=str(fm.get("parent_latin", "")),
                 parent_slug=str(fm.get("parent_slug", "")),
+                parent_url=f"{site_url}/species/{fm.get('parent_slug', '')}/" if fm.get("parent_slug") else "",
                 synonyms=str(fm.get("synonyms", "")),
                 synonym_localities=str(fm.get("synonym_localities", "")),
                 synonym_count=int(fm.get("synonym_count", 0) or 0),
@@ -972,12 +1288,32 @@ def main() -> int:
     zip_bytes = build_zip(archive_members, meta["version"])
     zip_path = f"downloads/isoptera-checklist-v{meta['version']}.zip"
 
+    dwc_rows = dwc_taxon_rows(records, warnings)
+    dwc_vernacular = dwc_vernacular_rows(records)
+    dwc_problems = validate_dwc(dwc_rows, dwc_vernacular, len(records))
+    if dwc_problems:
+        print("error: Darwin Core Archive 校验失败，未写入任何文件：", file=sys.stderr)
+        for problem in dwc_problems:
+            print(f"  - {problem}", file=sys.stderr)
+        return 1
+    dwc_files = {
+        "taxon.txt": dwc_tsv(DWC_TAXON_COLUMNS, dwc_rows),
+        "vernacularname.txt": dwc_tsv(DWC_VERNACULAR_COLUMNS, dwc_vernacular),
+        "meta.xml": dwc_meta_xml().encode("utf-8"),
+        "eml.xml": dwc_eml_xml(meta, counts).encode("utf-8"),
+    }
+    dwc_zip_bytes = build_dwc_zip(dwc_files)
+    dwc_zip_path = f"downloads/isoptera-checklist-dwca-v{meta['version']}.zip"
+
     outputs = {DATASET_DIR / path: content for path, content in {**data_files, **meta_files}.items()}
     outputs[DATASET_DIR / "CHECKSUMS.sha256"] = checksums
     outputs[README_PATH] = new_readme
     outputs[DOWNLOADS_DIR / Path(zip_path).name] = zip_bytes
     outputs[ROOT / "CITATION.cff"] = meta_files["CITATION.cff"]
     outputs[ROOT / ".zenodo.json"] = zenodo_json(meta).encode("utf-8")
+    for name, content in dwc_files.items():
+        outputs[DWCA_DIR / name] = content
+    outputs[DOWNLOADS_DIR / Path(dwc_zip_path).name] = dwc_zip_bytes
 
     with_doi = sum(1 for reference in references if reference["doi"])
     print(
@@ -986,6 +1322,10 @@ def main() -> int:
     )
     print(f"次异名 {len(synonym_rows)} 条；参考文献 {len(references)} 条（含 DOI {with_doi} 条）")
     print(f"数据文件合计 {data_bytes} 字节；归档包 {zip_path} {len(zip_bytes)} 字节；产物 {len(outputs)} 个")
+    print(
+        f"DwC-A：taxon {len(dwc_rows)} 行（接受名 {len(records)}，异名 {len(dwc_rows) - len(records)}）；"
+        f"vernacularname {len(dwc_vernacular)} 行；包 {dwc_zip_path} {len(dwc_zip_bytes)} 字节"
+    )
     for warning in warnings:
         print(f"warn: {warning}", file=sys.stderr)
     if not meta["doi"]["version"]:

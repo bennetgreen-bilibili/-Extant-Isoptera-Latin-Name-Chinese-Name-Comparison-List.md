@@ -32,7 +32,9 @@ permalink: /data/
 
 {% if site.dataset.doi %}<p><strong>DOI（版本 {{ site.dataset.version }}）</strong>：<a href="https://doi.org/{{ site.dataset.doi }}">{{ site.dataset.doi }}</a>{% if site.dataset.concept_doi %}　<strong>概念 DOI（始终指向最新版）</strong>：<a href="https://doi.org/{{ site.dataset.concept_doi }}">{{ site.dataset.concept_doi }}</a>{% endif %}</p>
 
-<p><strong>引用格式（APA）</strong>：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. <a href="https://doi.org/{{ site.dataset.doi }}">https://doi.org/{{ site.dataset.doi }}</a></p>{% else %}<p><strong>引用格式（APA）</strong>：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. <a href="{{ site.base_url }}/">{{ site.base_url }}/</a></p>
+<p><strong>引用格式（APA）</strong>：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. <a href="https://doi.org/{{ site.dataset.doi }}">https://doi.org/{{ site.dataset.doi }}</a></p>
+
+{% if site.dataset.gbif_doi %}<p><strong>GBIF checklist（第二 DOI，10.15468）</strong>：<a href="https://doi.org/{{ site.dataset.gbif_doi }}">{{ site.dataset.gbif_doi }}</a>{% if site.dataset.gbif_dataset %}　<strong>GBIF 数据集页</strong>：<a href="{{ site.dataset.gbif_dataset }}">{{ site.dataset.gbif_dataset }}</a>{% endif %}　（Darwin Core Archive 发布，面向分类学与生物多样性检索；版本快照仍以 Zenodo DOI 为准）</p>{% endif %}{% else %}<p><strong>引用格式（APA）</strong>：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. <a href="{{ site.base_url }}/">{{ site.base_url }}/</a></p>
 
 <p>该归档包已按 DOI 归档格式准备（含 README、DataCite 元数据、CC BY 4.0 许可与 SHA-256 校验）；永久 DOI 铸造后会显示在本节与全站页脚。</p>{% endif %}
 
