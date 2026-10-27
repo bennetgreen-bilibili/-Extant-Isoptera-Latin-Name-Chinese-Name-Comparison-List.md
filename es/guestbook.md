@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Libro de visitas — isópteros (termitas) actuales: lista comparativa latín–chino
+title: "Libro de visitas — isópteros (termitas) actuales: lista comparativa latín–chino"
 description: "Libro de visitas: deja tu nombre de usuario (cuenta de GitHub) y un mensaje."
 lang: es
 author: 班奈特格林 (Bennet Green)

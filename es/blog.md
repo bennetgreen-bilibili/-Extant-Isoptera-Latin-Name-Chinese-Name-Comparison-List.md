@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog — isópteros (termitas) actuales: artículos y notas
+title: "Blog — isópteros (termitas) actuales: artículos y notas"
 description: "Artículos y notas de actualización del autor, ordenados del más reciente al más antiguo."
 lang: es
 author: 班奈特格林 (Bennet Green)

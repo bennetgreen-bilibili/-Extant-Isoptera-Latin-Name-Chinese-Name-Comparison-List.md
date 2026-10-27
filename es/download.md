@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Descargas — isópteros (termitas) actuales: lista comparativa latín–chino
+title: "Descargas — isópteros (termitas) actuales: lista comparativa latín–chino"
 description: "Zona de descargas: archivos del sitio, listados automáticamente desde la carpeta downloads/ del repositorio."
 lang: es
 author: 班奈特格林 (Bennet Green)
