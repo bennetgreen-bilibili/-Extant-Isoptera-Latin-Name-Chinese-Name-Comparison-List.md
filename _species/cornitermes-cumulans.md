@@ -30,23 +30,27 @@ synonym_localities: "Paraguay: ?; Brasil: ?; Brasil: Minas Gerais: Congonhas [20
 
 **成堆角象白蚁**（*Cornitermes cumulans*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Kollar 于 1832 年描述，模式产地为 Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]。分布记录包括巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔。本站记录本种有 4 个次异名。
 
+EN — **成堆角象白蚁** (*Cornitermes cumulans*) is a species and the type species of its genus of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Kollar in 1832; the type locality is Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]. Distribution: Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador. This site records 4 junior synonyms for the species.
+
+ES — **成堆角象白蚁** (*Cornitermes cumulans*) es una especie, y la especie tipo de su género del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Kollar en 1832; la localidad tipo es Brasil: São Paulo: Iperó, Ipanema \[23.4265S 47.5921W\]. Distribución: Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador. Este sitio registra 4 sinónimos junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种（14 species · 14 especies）
 
 ## 分布
 
 - **分布记录**：巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔
-- **英文记录**：Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador
+- **英文记录 English record / Registro en inglés**：Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 4 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Termes americana* Rengger, 1835: 267 —— 模式产地：Paraguay: ?
 2. *Termes dubius* Rambur, 1842: 309 —— 模式产地：Brasil: ?
@@ -54,4 +58,6 @@ synonym_localities: "Paraguay: ?; Brasil: ?; Brasil: Minas Gerais: Congonhas [20
 4. *Termes christiersoni* Sörensen, 1884: 20-22 —— 模式产地：Argentina: Chaco: Río de Oro \[27.0422S 58.5667W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni* 等）出现，本站统一归入 *Cornitermes cumulans*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni*); this site treats them all under *Cornitermes cumulans*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes americana*、*Termes dubius*、*Termes (Termes) similis*、*Termes christiersoni*); este sitio los reúne todos bajo *Cornitermes cumulans*.
 <!-- AUTO:END -->

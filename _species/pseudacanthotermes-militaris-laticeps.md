@@ -29,14 +29,18 @@ synonym_count: 0
 
 **宽头亚种**（*Pseudacanthotermes militaris laticeps*）是好斗伪刺白蚁（*Pseudacanthotermes militaris*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Sjöstedt 于 1905 年描述，模式产地为 Sierra Leone: ?。本页暂无单列的分布记录，母种 *Pseudacanthotermes militaris* 的分布见下文「分布」一节。
 
+EN — **宽头亚种** (*Pseudacanthotermes militaris laticeps*) is a subspecies of *Pseudacanthotermes militaris*, in the family TERMITIDAE (subfamily Macrotermitinae), genus *Pseudacanthotermes*, belonging to the clade Geoisoptera. The subspecies was described by Sjöstedt in 1905; the type locality is Sierra Leone: ?. No separate distribution record is listed on this page; see the parent species *Pseudacanthotermes militaris*.
+
+ES — **宽头亚种** (*Pseudacanthotermes militaris laticeps*) es una subespecie de *Pseudacanthotermes militaris*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Pseudacanthotermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Sjöstedt en 1905; la localidad tipo es Sierra Leone: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pseudacanthotermes militaris*.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
-- **属 Genus**：[伪刺白蚁属 *Pseudacanthotermes*]({{ site.base_url }}/list/#pseudacanthotermes) —— 共 6 种
-- **种 Species**：[好斗伪刺白蚁 *Pseudacanthotermes militaris*]({{ site.base_url }}/species/pseudacanthotermes-militaris/)
-- **亚种 Subspecies**：本页（*Pseudacanthotermes militaris laticeps*）
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
+- **属 Genus / Género**：[伪刺白蚁属 *Pseudacanthotermes*]({{ site.base_url }}/list/#pseudacanthotermes) —— 共 6 种（6 species · 6 especies）
+- **种 Species / Especie**：[好斗伪刺白蚁 *Pseudacanthotermes militaris*]({{ site.base_url }}/species/pseudacanthotermes-militaris/)
+- **亚种 Subspecies / Subespecie**：本页（*Pseudacanthotermes militaris laticeps*）
 
 ## 分布
 

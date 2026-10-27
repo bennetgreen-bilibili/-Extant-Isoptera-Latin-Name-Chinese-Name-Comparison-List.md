@@ -27,23 +27,27 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 
 **格斯特乳白蚁**（*Coptotermes gestroi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Bhamo。分布记录包括东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛。文献另注：热带区广布，引入安提瓜和巴布达。本站记录本种有 10 个次异名。
 
+EN — **格斯特乳白蚁** (*Coptotermes gestroi*) is a species and the type species of its genus of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Wasmann in 1896; the type locality is Myanmar: Bhamo. Distribution: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. This site records 10 junior synonyms for the species.
+
+ES — **格斯特乳白蚁** (*Coptotermes gestroi*) es una especie, y la especie tipo de su género del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Bhamo. Distribución: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. Este sitio registra 10 sinónimos junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
 
 ## 分布
 
 - **分布记录**：东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛
 - **补充记录**：热带区广布，引入安提瓜和巴布达
-- **英文记录**：Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands
+- **英文记录 English record / Registro en inglés**：Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 10 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Arrhinotermes heimi* Wasmann, 1902: 104 —— 模式产地：India: Maharashtra: Ahmednagar District: Wallon
 2. *Coptotermes havilandi* Holmgren, 1911: 192 —— 模式产地：Thailand: Hinlap
@@ -57,4 +61,6 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 10. *Coptotermes yaxianensis* Li, 1986: 225-226 —— 模式产地：China: Yunnan Province: Jinghong
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Arrhinotermes heimi*、*Coptotermes havilandi*、*Coptotermes parvulus*、*Coptotermes vastator*、*Coptotermes pacificus*、*Coptotermes javanicus*、*Coptotermes monosetosus menglunensis*、*Coptotermes (Oligocrinitermes) cochlearus* 等）出现，本站统一归入 *Coptotermes gestroi*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Arrhinotermes heimi*、*Coptotermes havilandi*、*Coptotermes parvulus*、*Coptotermes vastator*、*Coptotermes pacificus*、*Coptotermes javanicus*、*Coptotermes monosetosus menglunensis*、*Coptotermes (Oligocrinitermes) cochlearus*); this site treats them all under *Coptotermes gestroi*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Arrhinotermes heimi*、*Coptotermes havilandi*、*Coptotermes parvulus*、*Coptotermes vastator*、*Coptotermes pacificus*、*Coptotermes javanicus*、*Coptotermes monosetosus menglunensis*、*Coptotermes (Oligocrinitermes) cochlearus*); este sitio los reúne todos bajo *Coptotermes gestroi*.
 <!-- AUTO:END -->

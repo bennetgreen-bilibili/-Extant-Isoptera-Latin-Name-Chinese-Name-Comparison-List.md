@@ -25,17 +25,21 @@ synonym_count: 0
 
 **克拉丽塔尖鼻白蚁**（*Acorhinotermes claritae*）是鼻白蚁科（RHINOTERMITIDAE）尖鼻白蚁属（*Acorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Castro & Scheffrahn 于 2019 年描述，模式产地为 Colombia: Amazonas, Leticia \[ 4.21528S 69.9406W \]。分布记录包括哥伦比亚、巴西、委内瑞拉。
 
+EN — **克拉丽塔尖鼻白蚁** (*Acorhinotermes claritae*) is a species of the genus *Acorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Castro & Scheffrahn in 2019; the type locality is Colombia: Amazonas, Leticia \[ 4.21528S 69.9406W \]. Distribution: Colombia, Brazil, Venezuela.
+
+ES — **克拉丽塔尖鼻白蚁** (*Acorhinotermes claritae*) es una especie del género *Acorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Castro & Scheffrahn en 2019; la localidad tipo es Colombia: Amazonas, Leticia \[ 4.21528S 69.9406W \]. Distribución: Colombia, Brazil, Venezuela.
+
 ## 分类位置
 
-- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
-- **科 Family**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种
-- **属 Genus**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/list/#acorhinotermes) —— 共 2 种
-- **本属模式种**：*Acorhinotermes subfusciceps*
+- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **属 Genus / Género**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/list/#acorhinotermes) —— 共 2 种（2 species · 2 especies）
+- **本属模式种 Type species / Especie tipo**：*Acorhinotermes subfusciceps*
 
 ## 分布
 
 - **分布记录**：哥伦比亚、巴西、委内瑞拉
-- **英文记录**：Colombia, Brazil, Venezuela
+- **英文记录 English record / Registro en inglés**：Colombia, Brazil, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

@@ -30,25 +30,31 @@ synonym_localities: "Madagascar: Manantantely, near Tolanaro"
 
 **切割相似白蚁**（*Quasitermes incisus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）相似白蚁属（*Quasitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Cachan 于 1949 年描述，模式产地为 Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina。分布记录包括马达加斯加。本站记录本种有 1 个次异名。
 
+EN — **切割相似白蚁** (*Quasitermes incisus*) is the only extant species of the genus *Quasitermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Cachan in 1949; the type locality is Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina. Distribution: Madagascar. This site records 1 junior synonym for the species.
+
+ES — **切割相似白蚁** (*Quasitermes incisus*) es la única especie viviente del género *Quasitermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina. Distribución: Madagascar. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种
-- **属 Genus**：[相似白蚁属 *Quasitermes*]({{ site.base_url }}/list/#quasitermes) —— 单型属，仅含 1 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
+- **属 Genus / Género**：[相似白蚁属 *Quasitermes*]({{ site.base_url }}/list/#quasitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 
 - **分布记录**：马达加斯加
-- **英文记录**：Madagascar
+- **英文记录 English record / Registro en inglés**：Madagascar
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Quasitermes caprinus* Emerson, 1950: 10-13 —— 模式产地：Madagascar: Manantantely, near Tolanaro
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Quasitermes caprinus* 出现，本站统一归入 *Quasitermes incisus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Quasitermes caprinus*; this site treats it under *Quasitermes incisus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Quasitermes caprinus*; este sitio lo reúne bajo *Quasitermes incisus*.
 <!-- AUTO:END -->

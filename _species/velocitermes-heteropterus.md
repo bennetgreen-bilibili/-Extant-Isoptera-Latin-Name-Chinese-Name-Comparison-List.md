@@ -30,25 +30,31 @@ synonym_localities: "Brasil: São Paulo: Guatapará, Horto Florestal de Guarani 
 
 **异翅快白蚁**（*Velocitermes heteropterus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）快白蚁属（*Velocitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉。本站记录本种有 1 个次异名。
 
+EN — **异翅快白蚁** (*Velocitermes heteropterus*) is a species and the type species of its genus of the genus *Velocitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Colombia, Paraguay, Argentina, Venezuela. This site records 1 junior synonym for the species.
+
+ES — **异翅快白蚁** (*Velocitermes heteropterus*) es una especie, y la especie tipo de su género del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Colombia, Paraguay, Argentina, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[快白蚁属 *Velocitermes*]({{ site.base_url }}/list/#velocitermes) —— 共 10 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[快白蚁属 *Velocitermes*]({{ site.base_url }}/list/#velocitermes) —— 共 10 种（10 species · 10 especies）
 
 ## 分布
 
 - **分布记录**：巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉
-- **英文记录**：Brazil, Colombia, Paraguay, Argentina, Venezuela
+- **英文记录 English record / Registro en inglés**：Brazil, Colombia, Paraguay, Argentina, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Diversitermes needhami* Roonwal, Chhotani & Verma, 1981: 348 —— 模式产地：Brasil: São Paulo: Guatapará, Horto Florestal de Guarani \[21.42S 48.1W\]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Diversitermes needhami* 出现，本站统一归入 *Velocitermes heteropterus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Diversitermes needhami*; this site treats it under *Velocitermes heteropterus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Diversitermes needhami*; este sitio lo reúne bajo *Velocitermes heteropterus*.
 <!-- AUTO:END -->

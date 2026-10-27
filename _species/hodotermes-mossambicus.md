@@ -27,22 +27,26 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 
 **莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种，隶属远等翅类（Teletisoptera）。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本站记录本种有 10 个次异名。
 
+EN — **莫桑比克草白蚁** (*Hodotermes mossambicus*) is a species and the type species of its genus of the genus *Hodotermes*, in the family HODOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Hagen in 1853; the type locality is Mozambique: ?. Distribution: southern and eastern Africa. This site records 10 junior synonyms for the species.
+
+ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la especie tipo de su género del género *Hodotermes*, en la familia HODOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
-- **科 Family**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种
-- **属 Genus**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/list/#hodotermes) —— 共 2 种
+- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
+- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
+- **属 Genus / Género**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/list/#hodotermes) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 
 - **分布记录**：非洲南部及东部
-- **英文记录**：southern and eastern Africa
+- **英文记录 English record / Registro en inglés**：southern and eastern Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 10 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 10 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Hodotermes havilandi* Sharp, 1895: 384 —— 模式产地：South Africa: Natal: Colenso on Tugela River
 2. *Hodotermes pulcher* Sjöstedt, 1905: 1-3 —— 模式产地：South Africa: Orange River Colony
@@ -56,4 +60,6 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 10. *Hodotermes (Hodotermes) bloemfonteinsis* Sjöstedt, 1926: 14-15 —— 模式产地：South Africa: Pretoria: Girls High School
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis* 等）出现，本站统一归入 *Hodotermes mossambicus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis*); this site treats them all under *Hodotermes mossambicus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Hodotermes havilandi*、*Hodotermes pulcher*、*Hodotermes macrothorax*、*Hodotermes braini*、*Hodotermes karrooensis*、*Hodotermes transvaalensis*、*Hodotermes warreni*、*Hodotermes pretoriensis*); este sitio los reúne todos bajo *Hodotermes mossambicus*.
 <!-- AUTO:END -->

@@ -30,27 +30,33 @@ synonym_localities: "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]; Bras
 
 **可怕聚白蚁**（*Syntermes dirus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]。分布记录包括巴西。本站记录本种有 3 个次异名。
 
+EN — **可怕聚白蚁** (*Syntermes dirus*) is a species and the type species of its genus of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Burmeister in 1839; the type locality is Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribution: Brazil. This site records 3 junior synonyms for the species.
+
+ES — **可怕聚白蚁** (*Syntermes dirus*) es una especie, y la especie tipo de su género del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribución: Brazil. Este sitio registra 3 sinónimos junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/list/#syntermes) —— 共 23 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/list/#syntermes) —— 共 23 种（23 species · 23 especies）
 
 ## 分布
 
 - **分布记录**：巴西
-- **英文记录**：Brazil
+- **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 3 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Termes obscurum* Blanchard, 1840: 47 —— 模式产地：Brasil: Rio de Janeiro: Rio de Janeiro \[22.9S 43.23W\]
 2. *Termes dubius* Rambur, 1842: 309 —— 模式产地：Brasil: ?
 3. *Termes cephalotes* Rambur, 1842: 309 —— 模式产地：Brasil: ?
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes obscurum*、*Termes dubius*、*Termes cephalotes* 等）出现，本站统一归入 *Syntermes dirus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes obscurum*、*Termes dubius*、*Termes cephalotes*); this site treats them all under *Syntermes dirus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes obscurum*、*Termes dubius*、*Termes cephalotes*); este sitio los reúne todos bajo *Syntermes dirus*.
 <!-- AUTO:END -->

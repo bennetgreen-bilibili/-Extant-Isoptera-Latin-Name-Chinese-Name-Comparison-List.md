@@ -28,18 +28,22 @@ synonym_count: 0
 
 **西尔韦斯特里角象白蚁**（*Cornitermes silvestrii*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1949 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、玻利维亚。
 
+EN — **西尔韦斯特里角象白蚁** (*Cornitermes silvestrii*) is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1949; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Bolivia.
+
+ES — **西尔韦斯特里角象白蚁** (*Cornitermes silvestrii*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1949; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Bolivia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种
-- **本属模式种**：*Cornitermes cumulans*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种（14 species · 14 especies）
+- **本属模式种 Type species / Especie tipo**：*Cornitermes cumulans*
 
 ## 分布
 
 - **分布记录**：巴西、玻利维亚
-- **英文记录**：Brazil, Bolivia
+- **英文记录 English record / Registro en inglés**：Brazil, Bolivia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

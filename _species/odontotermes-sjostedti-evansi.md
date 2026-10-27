@@ -29,14 +29,18 @@ synonym_count: 0
 
 **埃文斯亚种**（*Odontotermes sjostedti evansi*）是舍斯泰特土白蚁（*Odontotermes sjostedti*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Emerson 于 1928 年描述，模式产地为 Cameroon: Senegambina。本页暂无单列的分布记录，母种 *Odontotermes sjostedti* 的分布见下文「分布」一节。
 
+EN — **埃文斯亚种** (*Odontotermes sjostedti evansi*) is a subspecies of *Odontotermes sjostedti*, in the family TERMITIDAE (subfamily Macrotermitinae), genus *Odontotermes*, belonging to the clade Geoisoptera. The subspecies was described by Emerson in 1928; the type locality is Cameroon: Senegambina. No separate distribution record is listed on this page; see the parent species *Odontotermes sjostedti*.
+
+ES — **埃文斯亚种** (*Odontotermes sjostedti evansi*) es una subespecie de *Odontotermes sjostedti*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Odontotermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Senegambina. No se incluye un registro de distribución separado en esta página; véase la especie parental *Odontotermes sjostedti*.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
-- **属 Genus**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种
-- **种 Species**：[舍斯泰特土白蚁 *Odontotermes sjostedti*]({{ site.base_url }}/species/odontotermes-sjostedti/)
-- **亚种 Subspecies**：本页（*Odontotermes sjostedti evansi*）
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
+- **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）
+- **种 Species / Especie**：[舍斯泰特土白蚁 *Odontotermes sjostedti*]({{ site.base_url }}/species/odontotermes-sjostedti/)
+- **亚种 Subspecies / Subespecie**：本页（*Odontotermes sjostedti evansi*）
 
 ## 分布
 

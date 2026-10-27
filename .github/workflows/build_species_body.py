@@ -302,32 +302,67 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     fam = meta["fam_counts"].get(family_id) or {}
     lines = []
 
-    # ---- 摘要 -------------------------------------------------------------
     rank_word = "亚种" if rank == "subspecies" else "种"
+    rank_en = "subspecies" if rank == "subspecies" else "species"
+    rank_es = "subespecie" if rank == "subspecies" else "especie"
+    clade_label = clade_latin or clade_zh
     fam_phrase = "%s（%s）" % (family_zh, family_latin)
     if sub_zh:
         fam_phrase += "%s（%s）" % (sub_zh, sub_latin)
+    fam_en = "the family %s" % family_latin
+    if sub_latin:
+        fam_en += " (subfamily %s)" % sub_latin
+    fam_es = "la familia %s" % family_latin
+    if sub_latin:
+        fam_es += " (subfamilia %s)" % sub_latin
+
+    # ---- 摘要 -------------------------------------------------------------
     if rank == "subspecies":
         parent_zh, parent_latin = clean(fm.get("parent_zh")), clean(fm.get("parent_latin"))
         lead = "**%s**（*%s*）是%s（*%s*）的一个亚种，隶属%s%s（*%s*），所属支系为%s（%s）" % (
             zh, latin, parent_zh, parent_latin, fam_phrase, genus_zh, genus_latin,
             clade_zh, clade_latin)
+        lead_en = "**%s** (*%s*) is a subspecies of *%s*, in %s, genus *%s*, belonging to the clade %s" % (
+            zh, latin, parent_latin, fam_en, genus_latin, clade_label)
+        lead_es = "**%s** (*%s*) es una subespecie de *%s*, en %s, género *%s*, perteneciente al clado %s" % (
+            zh, latin, parent_latin, fam_es, genus_latin, clade_label)
     else:
+        klass = classify(rank, is_type, genus_info)
         lead = "**%s**（*%s*）是%s%s（*%s*）的%s，隶属%s（%s）" % (
-            zh, latin, fam_phrase, genus_zh, genus_latin,
-            classify(rank, is_type, genus_info), clade_zh, clade_latin)
+            zh, latin, fam_phrase, genus_zh, genus_latin, klass, clade_zh, clade_latin)
+        klass_en = ("the only extant species" if klass == "现存唯一种"
+                    else ("a species and the type species of its genus" if klass == "一种，也是本属的模式种"
+                          else "a species"))
+        klass_es = ("la única especie viviente" if klass == "现存唯一种"
+                    else ("una especie, y la especie tipo de su género" if klass == "一种，也是本属的模式种"
+                          else "una especie"))
+        lead_en = "**%s** (*%s*) is %s of the genus *%s*, in %s, belonging to the clade %s" % (
+            zh, latin, klass_en, genus_latin, fam_en, clade_label)
+        lead_es = "**%s** (*%s*) es %s del género *%s*, en %s, perteneciente al clado %s" % (
+            zh, latin, klass_es, genus_latin, fam_es, clade_label)
 
     sents = [lead + "。"]
+    sents_en = [lead_en + "."]
+    sents_es = [lead_es + "."]
     if author and year:
         sents.append("本%s由 %s 于 %s 年描述，模式产地为 %s。" % (
             rank_word, author, year, type_locality or "未记录"))
+        sents_en.append("The %s was described by %s in %s; the type locality is %s." % (
+            rank_en, author, year, type_locality or "not recorded"))
+        sents_es.append("La %s fue descrita por %s en %s; la localidad tipo es %s." % (
+            rank_es, author, year, type_locality or "no registrada"))
     elif author_year:
         sents.append("本%s的命名信息为 %s，模式产地为 %s。" % (
             rank_word, author_year, type_locality or "未记录"))
+        sents_en.append("The %s is recorded under the name %s; the type locality is %s." % (
+            rank_en, author_year, type_locality or "not recorded"))
+        sents_es.append("La %s se registra bajo el nombre %s; la localidad tipo es %s." % (
+            rank_es, author_year, type_locality or "no registrada"))
 
     native, introduced, notes = parse_distribution(fm.get("distribution_zh"))
     parent_native, _, _ = parse_distribution((parent_fm or {}).get("distribution_zh"))
     own_dist = bool(native or introduced or notes)
+    dist_en_raw = md_escape(fm.get("distribution_en"))
     if own_dist:
         if native:
             sents.append("分布记录包括%s。" % join_zh(native))
@@ -335,50 +370,65 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
             sents.append("另有记录显示其已引入%s。" % join_zh(introduced))
         if notes:
             sents.append("文献另注：%s。" % "；".join(notes))
+        if dist_en_raw:
+            sents_en.append("Distribution: %s." % dist_en_raw)
+            sents_es.append("Distribución: %s." % dist_en_raw)
     elif parent_fm:
         sents.append("本页暂无单列的分布记录，母种 *%s* 的分布见下文「分布」一节。" % clean(parent_fm.get("latin")))
+        sents_en.append("No separate distribution record is listed on this page; see the parent species *%s*." % clean(parent_fm.get("latin")))
+        sents_es.append("No se incluye un registro de distribución separado en esta página; véase la especie parental *%s*." % clean(parent_fm.get("latin")))
 
     syn_count = clean(fm.get("synonym_count"))
     if syn_count.isdigit() and int(syn_count) > 0:
         sents.append("本站记录本%s有 %s 个次异名。" % (rank_word, syn_count))
-    lines += ["## 摘要", "", "".join(sents)]
+        sents_en.append("This site records %s junior synonym%s for the %s." % (syn_count, "" if syn_count == "1" else "s", rank_en))
+        sents_es.append("Este sitio registra %s sinónimo%s junior para la %s." % (syn_count, "" if syn_count == "1" else "s", rank_es))
+    lines += ["## 摘要", "", "".join(sents), "", "EN — " + " ".join(sents_en), "", "ES — " + " ".join(sents_es)]
 
     # ---- 分类位置 ---------------------------------------------------------
     lines += ["", "## 分类位置", ""]
     clade = meta["clades"].get(meta["family_clade"].get(family_id, ""))
     if clade:
-        lines.append("- **支系 Clade**：%s" % html_link(
+        lines.append("- **支系 Clade / Clado**：%s" % html_link(
             "%s %s" % (clade.get("zh", clade_zh), clade.get("latin", clade_latin)),
             "/list/#%s" % clade.get("id", "isoptera")))
     else:
-        lines.append("- **支系 Clade**：%s %s" % (clade_zh, clade_latin))
+        lines.append("- **支系 Clade / Clado**：%s %s" % (clade_zh, clade_latin))
     fam_stat = ""
     if fam:
-        fam_stat = " —— 本站收录 %s 属 %s 种" % (fam.get("genera", "?"), fam.get("species", "?"))
-    lines.append("- **科 Family**：%s%s" % (
+        _fg, _fs = fam.get("genera", "?"), fam.get("species", "?")
+        fam_stat = " —— 本站收录 %s 属 %s 种（%s %s, %s species · %s %s, %s %s）" % (
+            _fg, _fs,
+            _fg, ("genus" if _fg == 1 else "genera"), _fs,
+            _fg, ("género" if _fg == 1 else "géneros"), _fs, ("especie" if _fs == 1 else "especies"))
+    lines.append("- **科 Family / Familia**：%s%s" % (
         html_link("%s %s" % (family_zh, family_latin), "/list/#%s" % family_id), fam_stat))
     if sub_zh and sub_id:
         sub_stat = ""
         sc = meta["sub_counts"].get(sub_id) or {}
         if sc:
-            sub_stat = " —— 本站收录 %s 属 %s 种" % (sc.get("genera", "?"), sc.get("species", "?"))
-        lines.append("- **亚科 Subfamily**：%s%s" % (
+            _sg, _ss = sc.get("genera", "?"), sc.get("species", "?")
+            sub_stat = " —— 本站收录 %s 属 %s 种（%s %s, %s species · %s %s, %s %s）" % (
+                _sg, _ss,
+                _sg, ("genus" if _sg == 1 else "genera"), _ss,
+                _sg, ("género" if _sg == 1 else "géneros"), _ss, ("especie" if _ss == 1 else "especies"))
+        lines.append("- **亚科 Subfamily / Subfamilia**：%s%s" % (
             html_link("%s %s" % (sub_zh, sub_latin), "/list/#%s" % sub_id), sub_stat))
     if rank == "subspecies":
-        lines.append("- **属 Genus**：%s —— %s" % (
+        lines.append("- **属 Genus / Género**：%s —— %s" % (
             html_link("%s *%s*" % (genus_zh, genus_latin), "/list/#%s" % genus_id),
-            "单型属，仅含 1 种" if gcount == 1 else "共 %s 种" % gcount))
-        lines.append("- **种 Species**：%s" % html_link(
+            "单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）" if gcount == 1 else "共 %s 种（%s species · %s especies）" % (gcount, gcount, gcount)))
+        lines.append("- **种 Species / Especie**：%s" % html_link(
             "%s *%s*" % (clean(fm.get("parent_zh")), clean(fm.get("parent_latin"))),
             "/species/%s/" % clean(fm.get("parent_slug"))))
-        lines.append("- **亚种 Subspecies**：本页（*%s*）" % latin)
+        lines.append("- **亚种 Subspecies / Subespecie**：本页（*%s*）" % latin)
     else:
-        genus_desc = "单型属，仅含 1 种" if gcount == 1 else "共 %s 种" % gcount
-        lines.append("- **属 Genus**：%s —— %s" % (
+        genus_desc = "单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）" if gcount == 1 else "共 %s 种（%s species · %s especies）" % (gcount, gcount, gcount)
+        lines.append("- **属 Genus / Género**：%s —— %s" % (
             html_link("%s *%s*" % (genus_zh, genus_latin), "/list/#%s" % genus_id), genus_desc))
         ts = genus_info.get("type_species")
         if ts and ts != latin:
-            lines.append("- **本属模式种**：*%s*" % ts)
+            lines.append("- **本属模式种 Type species / Especie tipo**：*%s*" % ts)
 
     # ---- 分布 -------------------------------------------------------------
     if own_dist:
@@ -390,7 +440,7 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
         if notes:
             lines.append("- **补充记录**：%s" % "；".join(notes))
         if clean(fm.get("distribution_en")):
-            lines.append("- **英文记录**：%s" % md_escape(fm.get("distribution_en")))
+            lines.append("- **英文记录 English record / Registro en inglés**：%s" % md_escape(fm.get("distribution_en")))
         lines += ["", "以上记录沿用原始数据的写法，未做地理编码与译名统一。"]
     elif parent_fm:
         lines += ["", "## 分布", ""]
@@ -404,7 +454,7 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     locs = parse_list(fm.get("synonym_localities"))
     if syns:
         lines += ["", "## 次异名", ""]
-        lines.append("本站记录本%s有 %d 个次异名（junior synonyms），按原始文献出处列出：" % (rank_word, len(syns)))
+        lines.append("本站记录本%s有 %d 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：" % (rank_word, len(syns)))
         lines.append("")
         for i, entry in enumerate(syns, 1):
             name, auth = split_synonym(entry)
@@ -414,16 +464,24 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
         old_names = "、".join("*%s*" % split_synonym(s)[0] for s in syns[:8])
         if len(syns) > 1:
             lines += ["", "在旧文献、地方名录与数据库检索中，本%s可能以上述异名（%s 等）出现，本站统一归入 *%s*。"
-                      % (rank_word, old_names, latin)]
+                      % (rank_word, old_names, latin),
+                      "EN — In older literature, regional checklists and database searches, this %s may appear under the synonyms above (%s); this site treats them all under *%s*."
+                      % (rank_en, old_names, latin),
+                      "ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta %s puede aparecer bajo los sinónimos anteriores (%s); este sitio los reúne todos bajo *%s*."
+                      % (rank_es, old_names, latin)]
         else:
             lines += ["", "在旧文献、地方名录与数据库检索中，本%s可能以异名 %s 出现，本站统一归入 *%s*。"
-                      % (rank_word, old_names, latin)]
+                      % (rank_word, old_names, latin),
+                      "EN — In older literature, regional checklists and database searches, this %s may appear under the synonym %s; this site treats it under *%s*."
+                      % (rank_en, old_names, latin),
+                      "ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta %s puede aparecer bajo el sinónimo %s; este sitio lo reúne bajo *%s*."
+                      % (rank_es, old_names, latin)]
 
     # ---- 亚种 -------------------------------------------------------------
     subs = subs_of_parent.get(latin) or []
     if subs:
         lines += ["", "## 亚种", ""]
-        lines.append("本种下分 %d 个亚种：" % len(subs))
+        lines.append("本种下分 %d 个亚种（subspecies / subespecies）：" % len(subs))
         lines.append("")
         for sub in subs:
             extra = []
@@ -435,11 +493,7 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
             lines.append("- %s%s" % (
                 html_link("*%s* %s" % (sub["latin"], sub["zh"]), "/species/%s/" % sub["slug"]), suffix))
 
-    # 说明：物种页不再写「数据出处与引用」小节——本站自己就是数据来源，
-    # 在每条物种记录里引用本站属于自我引用，对读者无意义。
-    # 全站层面的作者/版本/引用格式仍保留在首页 index.md。
     return "\n".join(lines)
-
 
 # ------------------------------------------------------------------- assembly
 def assemble(head, body, block, nl):

@@ -25,17 +25,21 @@ synonym_count: 0
 
 **城市散白蚁**（*Reticulitermes urbis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Bagnères, Uva & Clément 于 2003 年描述，模式产地为 France: Isère: Domène。分布记录包括欧洲、克罗地亚、希腊、意大利、法国。
 
+EN — **城市散白蚁** (*Reticulitermes urbis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Bagnères, Uva & Clément in 2003; the type locality is France: Isère: Domène. Distribution: Europe, Croatia, Greece, Italy, France.
+
+ES — **城市散白蚁** (*Reticulitermes urbis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Bagnères, Uva & Clément en 2003; la localidad tipo es France: Isère: Domène. Distribución: Europe, Croatia, Greece, Italy, France.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种
-- **本属模式种**：*Reticulitermes flavipes*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
+- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
 ## 分布
 
 - **分布记录**：欧洲、克罗地亚、希腊、意大利、法国
-- **英文记录**：Europe, Croatia, Greece, Italy, France
+- **英文记录 English record / Registro en inglés**：Europe, Croatia, Greece, Italy, France
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

@@ -28,17 +28,21 @@ synonym_count: 0
 
 **游荡长颚白蚁**（*Macrognathotermes errator*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）长颚白蚁属（*Macrognathotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Miller 于 1991 年描述，模式产地为 Australia: Northern Territory: Milingimbi。分布记录包括澳大利亚、巴布亚新几内亚。
 
+EN — **游荡长颚白蚁** (*Macrognathotermes errator*) is a species and the type species of its genus of the genus *Macrognathotermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Miller in 1991; the type locality is Australia: Northern Territory: Milingimbi. Distribution: Australia, Papua New Guinea.
+
+ES — **游荡长颚白蚁** (*Macrognathotermes errator*) es una especie, y la especie tipo de su género del género *Macrognathotermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Milingimbi. Distribución: Australia, Papua New Guinea.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种
-- **属 Genus**：[长颚白蚁属 *Macrognathotermes*]({{ site.base_url }}/list/#macrognathotermes) —— 共 4 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
+- **属 Genus / Género**：[长颚白蚁属 *Macrognathotermes*]({{ site.base_url }}/list/#macrognathotermes) —— 共 4 种（4 species · 4 especies）
 
 ## 分布
 
 - **分布记录**：澳大利亚、巴布亚新几内亚
-- **英文记录**：Australia, Papua New Guinea
+- **英文记录 English record / Registro en inglés**：Australia, Papua New Guinea
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

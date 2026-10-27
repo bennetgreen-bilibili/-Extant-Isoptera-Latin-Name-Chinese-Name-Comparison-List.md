@@ -29,14 +29,18 @@ synonym_count: 0
 
 **相异亚种**（*Ancistrotermes crucifer diversana*）是十字钩白蚁（*Ancistrotermes crucifer*）的一个亚种，隶属白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Kakoulima; Kindia。本页暂无单列的分布记录，母种 *Ancistrotermes crucifer* 的分布见下文「分布」一节。
 
+EN — **相异亚种** (*Ancistrotermes crucifer diversana*) is a subspecies of *Ancistrotermes crucifer*, in the family TERMITIDAE (subfamily Macrotermitinae), genus *Ancistrotermes*, belonging to the clade Geoisoptera. The subspecies was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima; Kindia. No separate distribution record is listed on this page; see the parent species *Ancistrotermes crucifer*.
+
+ES — **相异亚种** (*Ancistrotermes crucifer diversana*) es una subespecie de *Ancistrotermes crucifer*, en la familia TERMITIDAE (subfamilia Macrotermitinae), género *Ancistrotermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Ancistrotermes crucifer*.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
-- **属 Genus**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/list/#ancistrotermes) —— 共 16 种
-- **种 Species**：[十字钩白蚁 *Ancistrotermes crucifer*]({{ site.base_url }}/species/ancistrotermes-crucifer/)
-- **亚种 Subspecies**：本页（*Ancistrotermes crucifer diversana*）
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
+- **属 Genus / Género**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/list/#ancistrotermes) —— 共 16 种（16 species · 16 especies）
+- **种 Species / Especie**：[十字钩白蚁 *Ancistrotermes crucifer*]({{ site.base_url }}/species/ancistrotermes-crucifer/)
+- **亚种 Subspecies / Subespecie**：本页（*Ancistrotermes crucifer diversana*）
 
 ## 分布
 

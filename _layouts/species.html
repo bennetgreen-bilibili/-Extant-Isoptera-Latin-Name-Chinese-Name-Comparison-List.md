@@ -35,6 +35,13 @@ layout: default
 
   </dl>
 
+  <p class="species-lang-nav">
+    <span class="species-lang-nav-label">名录 List · Listado</span>：
+    <a href="{{ site.base_url }}/list/#{{ page.genus_id }}" hreflang="zh-CN" lang="zh-CN">中文</a> ·
+    <a href="{{ site.base_url }}/en/list/#{{ page.genus_id }}" hreflang="en" lang="en">English</a> ·
+    <a href="{{ site.base_url }}/es/list/#{{ page.genus_id }}" hreflang="es" lang="es">Español</a>
+  </p>
+
   {{ content }}
 
   {%- comment -%} 同属其他种：_data/species_by_genus.json 由 .github/workflows/build_genus_index.py 生成 {%- endcomment -%}

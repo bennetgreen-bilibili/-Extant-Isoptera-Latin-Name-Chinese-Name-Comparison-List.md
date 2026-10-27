@@ -28,18 +28,22 @@ synonym_count: 0
 
 **单型钝白蚁**（*Obtusitermes monomorphus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）钝白蚁属（*Obtusitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Scheffrahn 于 2025 年描述，模式产地为 Panama: Coclé: El Cope Natl. Park; 8.6790, -80.5972 \[8.679N 80.5972W\]。分布记录包括巴拿马。
 
+EN — **单型钝白蚁** (*Obtusitermes monomorphus*) is a species of the genus *Obtusitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Scheffrahn in 2025; the type locality is Panama: Coclé: El Cope Natl. Park; 8.6790, -80.5972 \[8.679N 80.5972W\]. Distribution: Panama.
+
+ES — **单型钝白蚁** (*Obtusitermes monomorphus*) es una especie del género *Obtusitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Scheffrahn en 2025; la localidad tipo es Panama: Coclé: El Cope Natl. Park; 8.6790, -80.5972 \[8.679N 80.5972W\]. Distribución: Panama.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[钝白蚁属 *Obtusitermes*]({{ site.base_url }}/list/#obtusitermes) —— 共 3 种
-- **本属模式种**：*Obtusitermes panamae*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[钝白蚁属 *Obtusitermes*]({{ site.base_url }}/list/#obtusitermes) —— 共 3 种（3 species · 3 especies）
+- **本属模式种 Type species / Especie tipo**：*Obtusitermes panamae*
 
 ## 分布
 
 - **分布记录**：巴拿马
-- **英文记录**：Panama
+- **英文记录 English record / Registro en inglés**：Panama
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

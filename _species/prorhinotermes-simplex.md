@@ -25,17 +25,21 @@ synonym_count: 0
 
 **简单原鼻白蚁**（*Prorhinotermes simplex*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 Cuba: ?。分布记录包括美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各。
 
+EN — **简单原鼻白蚁** (*Prorhinotermes simplex*) is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Hagen in 1858; the type locality is Cuba: ?. Distribution: United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico.
+
+ES — **简单原鼻白蚁** (*Prorhinotermes simplex*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Hagen en 1858; la localidad tipo es Cuba: ?. Distribución: United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico.
+
 ## 分类位置
 
-- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
-- **科 Family**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种
-- **属 Genus**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/list/#prorhinotermes) —— 共 12 种
-- **本属模式种**：*Prorhinotermes inopinatus*
+- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
+- **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/list/#prorhinotermes) —— 共 12 种（12 species · 12 especies）
+- **本属模式种 Type species / Especie tipo**：*Prorhinotermes inopinatus*
 
 ## 分布
 
 - **分布记录**：美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各
-- **英文记录**：United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico
+- **英文记录 English record / Registro en inglés**：United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

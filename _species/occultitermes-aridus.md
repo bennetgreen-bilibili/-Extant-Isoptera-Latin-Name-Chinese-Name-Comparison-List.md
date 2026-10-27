@@ -28,18 +28,22 @@ synonym_count: 0
 
 **干燥隐白蚁**（*Occultitermes aridus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）隐白蚁属（*Occultitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Gay 于 1977 年描述，模式产地为 Australia: Queensland: Carnarvon Range。分布记录包括澳大利亚。
 
+EN — **干燥隐白蚁** (*Occultitermes aridus*) is a species of the genus *Occultitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Gay in 1977; the type locality is Australia: Queensland: Carnarvon Range. Distribution: Australia.
+
+ES — **干燥隐白蚁** (*Occultitermes aridus*) es una especie del género *Occultitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Gay en 1977; la localidad tipo es Australia: Queensland: Carnarvon Range. Distribución: Australia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[隐白蚁属 *Occultitermes*]({{ site.base_url }}/list/#occultitermes) —— 共 2 种
-- **本属模式种**：*Occultitermes occultus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[隐白蚁属 *Occultitermes*]({{ site.base_url }}/list/#occultitermes) —— 共 2 种（2 species · 2 especies）
+- **本属模式种 Type species / Especie tipo**：*Occultitermes occultus*
 
 ## 分布
 
 - **分布记录**：澳大利亚
-- **英文记录**：Australia
+- **英文记录 English record / Registro en inglés**：Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

@@ -28,18 +28,22 @@ synonym_count: 0
 
 **北方小脊突白蚁**（*Lophotermes septentrionalis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）小脊突白蚁属（*Lophotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Hill 于 1927 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚。
 
+EN — **北方小脊突白蚁** (*Lophotermes septentrionalis*) is a species of the genus *Lophotermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Hill in 1927; the type locality is Australia: Northern Territory: Darwin. Distribution: Australia.
+
+ES — **北方小脊突白蚁** (*Lophotermes septentrionalis*) es una especie del género *Lophotermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hill en 1927; la localidad tipo es Australia: Northern Territory: Darwin. Distribución: Australia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种
-- **属 Genus**：[小脊突白蚁属 *Lophotermes*]({{ site.base_url }}/list/#lophotermes) —— 共 9 种
-- **本属模式种**：*Lophotermes pectinatus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
+- **属 Genus / Género**：[小脊突白蚁属 *Lophotermes*]({{ site.base_url }}/list/#lophotermes) —— 共 9 种（9 species · 9 especies）
+- **本属模式种 Type species / Especie tipo**：*Lophotermes pectinatus*
 
 ## 分布
 
 - **分布记录**：澳大利亚
-- **英文记录**：Australia
+- **英文记录 English record / Registro en inglés**：Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

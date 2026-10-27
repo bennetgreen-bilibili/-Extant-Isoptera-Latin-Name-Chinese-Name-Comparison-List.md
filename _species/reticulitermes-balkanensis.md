@@ -25,17 +25,21 @@ synonym_count: 0
 
 **巴尔干散白蚁**（*Reticulitermes balkanensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Clément 于 1984 年描述，模式产地为 Greece: ?; Yugoslavia: ?。分布记录包括巴尔干半岛、希腊等、阿尔巴尼亚、前南斯拉夫。
 
+EN — **巴尔干散白蚁** (*Reticulitermes balkanensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Clément in 1984; the type locality is Greece: ?; Yugoslavia: ?. Distribution: Balkans, Greece etc., Albania, former Yugoslavia.
+
+ES — **巴尔干散白蚁** (*Reticulitermes balkanensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Clément en 1984; la localidad tipo es Greece: ?; Yugoslavia: ?. Distribución: Balkans, Greece etc., Albania, former Yugoslavia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种
-- **本属模式种**：*Reticulitermes flavipes*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
+- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
 ## 分布
 
 - **分布记录**：巴尔干半岛、希腊等、阿尔巴尼亚、前南斯拉夫
-- **英文记录**：Balkans, Greece etc., Albania, former Yugoslavia
+- **英文记录 English record / Registro en inglés**：Balkans, Greece etc., Albania, former Yugoslavia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

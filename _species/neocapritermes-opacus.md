@@ -30,23 +30,27 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 
 **发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本站记录本种有 6 个次异名。
 
+EN — **发黑新扭白蚁** (*Neocapritermes opacus*) is a species and the type species of its genus of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae), belonging to the clade Geoisoptera. The species was described by Hagen in 1858; the type locality is Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribution: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. This site records 6 junior synonyms for the species.
+
+ES — **发黑新扭白蚁** (*Neocapritermes opacus*) es una especie, y la especie tipo de su género del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribución: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. Este sitio registra 6 sinónimos junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种
-- **属 Genus**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
+- **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种（17 species · 17 especies）
 
 ## 分布
 
 - **分布记录**：巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁
-- **英文记录**：Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru
+- **英文记录 English record / Registro en inglés**：Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 6 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 6 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Termes saliens* Müller, 1873: 347 —— 模式产地：Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]
 2. *Termes orensis* Sörensen, 1884: 22-23 —— 模式产地：Argentina: Chaco: Río de Oro \[ 27.0422S 58.5667W \]
@@ -56,4 +60,6 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 6. *Capritermes (Neocapritermes) parallelus* Snyder, 1926: 67-69 —— 模式产地：Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Termes saliens*、*Termes orensis*、*Termes lacussancti*、*Termes (Capritermes) paradoxus*、*Capritermes alienus*、*Capritermes (Neocapritermes) parallelus* 等）出现，本站统一归入 *Neocapritermes opacus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Termes saliens*、*Termes orensis*、*Termes lacussancti*、*Termes (Capritermes) paradoxus*、*Capritermes alienus*、*Capritermes (Neocapritermes) parallelus*); this site treats them all under *Neocapritermes opacus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Termes saliens*、*Termes orensis*、*Termes lacussancti*、*Termes (Capritermes) paradoxus*、*Capritermes alienus*、*Capritermes (Neocapritermes) parallelus*); este sitio los reúne todos bajo *Neocapritermes opacus*.
 <!-- AUTO:END -->

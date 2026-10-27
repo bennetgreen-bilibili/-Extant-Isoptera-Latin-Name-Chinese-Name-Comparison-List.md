@@ -29,14 +29,18 @@ synonym_count: 0
 
 **指名亚种**（*Cubitermes pretorianus pretorianus*）是比勒陀利亚方白蚁（*Cubitermes pretorianus*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）方白蚁属（*Cubitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Silvestri 于 1914 年描述，模式产地为 South Africa: Transvaal: Pretoria。本页暂无单列的分布记录，母种 *Cubitermes pretorianus* 的分布见下文「分布」一节。
 
+EN — **指名亚种** (*Cubitermes pretorianus pretorianus*) is a subspecies of *Cubitermes pretorianus*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Cubitermes*, belonging to the clade Geoisoptera. The subspecies was described by Silvestri in 1914; the type locality is South Africa: Transvaal: Pretoria. No separate distribution record is listed on this page; see the parent species *Cubitermes pretorianus*.
+
+ES — **指名亚种** (*Cubitermes pretorianus pretorianus*) es una subespecie de *Cubitermes pretorianus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Cubitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es South Africa: Transvaal: Pretoria. No se incluye un registro de distribución separado en esta página; véase la especie parental *Cubitermes pretorianus*.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种
-- **属 Genus**：[方白蚁属 *Cubitermes*]({{ site.base_url }}/list/#cubitermes) —— 共 11 种
-- **种 Species**：[比勒陀利亚方白蚁 *Cubitermes pretorianus*]({{ site.base_url }}/species/cubitermes-pretorianus/)
-- **亚种 Subspecies**：本页（*Cubitermes pretorianus pretorianus*）
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
+- **属 Genus / Género**：[方白蚁属 *Cubitermes*]({{ site.base_url }}/list/#cubitermes) —— 共 11 种（11 species · 11 especies）
+- **种 Species / Especie**：[比勒陀利亚方白蚁 *Cubitermes pretorianus*]({{ site.base_url }}/species/cubitermes-pretorianus/)
+- **亚种 Subspecies / Subespecie**：本页（*Cubitermes pretorianus pretorianus*）
 
 ## 分布
 

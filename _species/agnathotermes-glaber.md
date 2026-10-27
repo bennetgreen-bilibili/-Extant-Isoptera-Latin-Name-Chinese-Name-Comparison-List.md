@@ -28,17 +28,21 @@ synonym_count: 0
 
 **光秃无颚白蚁**（*Agnathotermes glaber*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）无颚白蚁属（*Agnathotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、特立尼达、玻利维亚、厄瓜多尔、特立尼达和多巴哥。
 
+EN — **光秃无颚白蚁** (*Agnathotermes glaber*) is a species and the type species of its genus of the genus *Agnathotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago.
+
+ES — **光秃无颚白蚁** (*Agnathotermes glaber*) es una especie, y la especie tipo de su género del género *Agnathotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución: Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[无颚白蚁属 *Agnathotermes*]({{ site.base_url }}/list/#agnathotermes) —— 共 2 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[无颚白蚁属 *Agnathotermes*]({{ site.base_url }}/list/#agnathotermes) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 
 - **分布记录**：巴西、法属圭亚那、哥伦比亚、特立尼达、玻利维亚、厄瓜多尔、特立尼达和多巴哥
-- **英文记录**：Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago
+- **英文记录 English record / Registro en inglés**：Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

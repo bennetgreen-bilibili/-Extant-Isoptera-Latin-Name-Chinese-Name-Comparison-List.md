@@ -25,17 +25,21 @@ synonym_count: 0
 
 **爱德华兹前砂白蚁**（*Procryptotermes edwardsi*）是木白蚁科（KALOTERMITIDAE）前砂白蚁属（*Procryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Scheffrahn 于 1999 年描述，模式产地为 Jamaica: Cousin Cave。分布记录包括加勒比。
 
+EN — **爱德华兹前砂白蚁** (*Procryptotermes edwardsi*) is a species of the genus *Procryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Scheffrahn in 1999; the type locality is Jamaica: Cousin Cave. Distribution: Caribbean.
+
+ES — **爱德华兹前砂白蚁** (*Procryptotermes edwardsi*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Scheffrahn en 1999; la localidad tipo es Jamaica: Cousin Cave. Distribución: Caribbean.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/list/#procryptotermes) —— 共 14 种
-- **本属模式种**：*Procryptotermes fryeri*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/list/#procryptotermes) —— 共 14 种（14 species · 14 especies）
+- **本属模式种 Type species / Especie tipo**：*Procryptotermes fryeri*
 
 ## 分布
 
 - **分布记录**：加勒比
-- **英文记录**：Caribbean
+- **英文记录 English record / Registro en inglés**：Caribbean
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

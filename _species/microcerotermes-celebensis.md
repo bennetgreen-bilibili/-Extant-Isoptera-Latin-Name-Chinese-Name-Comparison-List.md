@@ -28,18 +28,22 @@ synonym_count: 0
 
 **西里伯斯锯白蚁**（*Microcerotermes celebensis*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Kemner 于 1934 年描述，模式产地为 Indonesia: Sulawesi: Boeton Island; Sulawesi: Goesoengbolo; Sulawesi: Makassar。分布记录包括东南亚、印度尼西亚。
 
+EN — **西里伯斯锯白蚁** (*Microcerotermes celebensis*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae), belonging to the clade Geoisoptera. The species was described by Kemner in 1934; the type locality is Indonesia: Sulawesi: Boeton Island; Sulawesi: Goesoengbolo; Sulawesi: Makassar. Distribution: Southeast Asia, Indonesia.
+
+ES — **西里伯斯锯白蚁** (*Microcerotermes celebensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Sulawesi: Boeton Island; Sulawesi: Goesoengbolo; Sulawesi: Makassar. Distribución: Southeast Asia, Indonesia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种
-- **属 Genus**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/list/#microcerotermes) —— 共 148 种
-- **本属模式种**：*Microcerotermes strunckii*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
+- **属 Genus / Género**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/list/#microcerotermes) —— 共 148 种（148 species · 148 especies）
+- **本属模式种 Type species / Especie tipo**：*Microcerotermes strunckii*
 
 ## 分布
 
 - **分布记录**：东南亚、印度尼西亚
-- **英文记录**：Southeast Asia, Indonesia
+- **英文记录 English record / Registro en inglés**：Southeast Asia, Indonesia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

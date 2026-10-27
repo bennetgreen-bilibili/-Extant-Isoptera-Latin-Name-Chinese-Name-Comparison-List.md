@@ -28,17 +28,21 @@ synonym_count: 0
 
 **扁额剪白蚁**（*Forficulitermes planifrons*）是白蚁科（TERMITIDAE）剪白蚁亚科（Forficulitermitinae）剪白蚁属（*Forficulitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1960 年描述，模式产地为 Democratic Republic of the Congo: Sona Mpangu。分布记录包括中非喀麦隆。
 
+EN — **扁额剪白蚁** (*Forficulitermes planifrons*) is the only extant species of the genus *Forficulitermes*, in the family TERMITIDAE (subfamily Forficulitermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1960; the type locality is Democratic Republic of the Congo: Sona Mpangu. Distribution: Central Africa, Cameroon.
+
+ES — **扁额剪白蚁** (*Forficulitermes planifrons*) es la única especie viviente del género *Forficulitermes*, en la familia TERMITIDAE (subfamilia Forficulitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Sona Mpangu. Distribución: Central Africa, Cameroon.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[剪白蚁亚科 Forficulitermitinae]({{ site.base_url }}/list/#forficulitermitinae) —— 本站收录 1 属 1 种
-- **属 Genus**：[剪白蚁属 *Forficulitermes*]({{ site.base_url }}/list/#forficulitermes) —— 单型属，仅含 1 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[剪白蚁亚科 Forficulitermitinae]({{ site.base_url }}/list/#forficulitermitinae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
+- **属 Genus / Género**：[剪白蚁属 *Forficulitermes*]({{ site.base_url }}/list/#forficulitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 
 - **分布记录**：中非喀麦隆
-- **英文记录**：Central Africa, Cameroon
+- **英文记录 English record / Registro en inglés**：Central Africa, Cameroon
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

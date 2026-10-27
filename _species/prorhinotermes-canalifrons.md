@@ -25,17 +25,21 @@ synonym_count: 0
 
 **沟额原鼻白蚁**（*Prorhinotermes canalifrons*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Sjöstedt 于 1904 年描述，模式产地为 Madagascar: Toamasina (Tamatave)。分布记录包括印度洋岛屿、留尼汪、马达加斯加、法国、可可斯（基林）群岛、科摩罗、毛里求斯、留尼汪（法）、塞舌尔。
 
+EN — **沟额原鼻白蚁** (*Prorhinotermes canalifrons*) is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Sjöstedt in 1904; the type locality is Madagascar: Toamasina (Tamatave). Distribution: Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles.
+
+ES — **沟额原鼻白蚁** (*Prorhinotermes canalifrons*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Madagascar: Toamasina (Tamatave). Distribución: Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles.
+
 ## 分类位置
 
-- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
-- **科 Family**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种
-- **属 Genus**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/list/#prorhinotermes) —— 共 12 种
-- **本属模式种**：*Prorhinotermes inopinatus*
+- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
+- **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/list/#prorhinotermes) —— 共 12 种（12 species · 12 especies）
+- **本属模式种 Type species / Especie tipo**：*Prorhinotermes inopinatus*
 
 ## 分布
 
 - **分布记录**：印度洋岛屿、留尼汪、马达加斯加、法国、可可斯（基林）群岛、科摩罗、毛里求斯、留尼汪（法）、塞舌尔
-- **英文记录**：Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles
+- **英文记录 English record / Registro en inglés**：Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

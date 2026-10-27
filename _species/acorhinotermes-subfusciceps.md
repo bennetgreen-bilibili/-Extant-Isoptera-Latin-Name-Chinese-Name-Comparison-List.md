@@ -25,16 +25,20 @@ synonym_count: 0
 
 **棕头尖鼻白蚁**（*Acorhinotermes subfusciceps*）是鼻白蚁科（RHINOTERMITIDAE）尖鼻白蚁属（*Acorhinotermes*）的一种，也是本属的模式种，隶属新等翅类（Neoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉。
 
+EN — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) is a species and the type species of its genus of the genus *Acorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
+
+ES — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) es una especie, y la especie tipo de su género del género *Acorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
+
 ## 分类位置
 
-- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
-- **科 Family**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种
-- **属 Genus**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/list/#acorhinotermes) —— 共 2 种
+- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **属 Genus / Género**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/list/#acorhinotermes) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 
 - **分布记录**：南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉
-- **英文记录**：South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela
+- **英文记录 English record / Registro en inglés**：South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

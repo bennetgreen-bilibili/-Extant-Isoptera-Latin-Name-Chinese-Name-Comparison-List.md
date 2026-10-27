@@ -28,18 +28,22 @@ synonym_count: 0
 
 **马修斯奇囟白蚁**（*Tonsuritermes mathewsi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）奇囟白蚁属（*Tonsuritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Constantini & Cancello 于 2018 年描述，模式产地为 Brasil: Mato Grosso: Chapada dos Guimarães \[ 15.4606S 55.7497W \]。分布记录包括巴西。
 
+EN — **马修斯奇囟白蚁** (*Tonsuritermes mathewsi*) is a species of the genus *Tonsuritermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Constantini & Cancello in 2018; the type locality is Brasil: Mato Grosso: Chapada dos Guimarães \[ 15.4606S 55.7497W \]. Distribution: Brazil.
+
+ES — **马修斯奇囟白蚁** (*Tonsuritermes mathewsi*) es una especie del género *Tonsuritermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Constantini & Cancello en 2018; la localidad tipo es Brasil: Mato Grosso: Chapada dos Guimarães \[ 15.4606S 55.7497W \]. Distribución: Brazil.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
-- **属 Genus**：[奇囟白蚁属 *Tonsuritermes*]({{ site.base_url }}/list/#tonsuritermes) —— 共 2 种
-- **本属模式种**：*Tonsuritermes tucki*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **属 Genus / Género**：[奇囟白蚁属 *Tonsuritermes*]({{ site.base_url }}/list/#tonsuritermes) —— 共 2 种（2 species · 2 especies）
+- **本属模式种 Type species / Especie tipo**：*Tonsuritermes tucki*
 
 ## 分布
 
 - **分布记录**：巴西
-- **英文记录**：Brazil
+- **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

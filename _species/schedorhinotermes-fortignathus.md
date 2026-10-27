@@ -25,17 +25,21 @@ synonym_count: 0
 
 **强颚长鼻白蚁**（*Schedorhinotermes fortignathus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Xia & He 于 1980 年描述，模式产地为 China: Yunnan Province: Simao。分布记录包括云南（思茅）。
 
+EN — **强颚长鼻白蚁** (*Schedorhinotermes fortignathus*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Xia & He in 1980; the type locality is China: Yunnan Province: Simao. Distribution: Yunnan (Simao)..
+
+ES — **强颚长鼻白蚁** (*Schedorhinotermes fortignathus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Xia & He en 1980; la localidad tipo es China: Yunnan Province: Simao. Distribución: Yunnan (Simao)..
+
 ## 分类位置
 
-- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
-- **科 Family**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种
-- **属 Genus**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种
-- **本属模式种**：*Schedorhinotermes intermedius*
+- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种（35 species · 35 especies）
+- **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*
 
 ## 分布
 
 - **分布记录**：云南（思茅）
-- **英文记录**：Yunnan (Simao).
+- **英文记录 English record / Registro en inglés**：Yunnan (Simao).
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

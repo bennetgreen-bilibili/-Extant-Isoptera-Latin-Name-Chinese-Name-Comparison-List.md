@@ -28,18 +28,22 @@ synonym_count: 0
 
 **密毛角象白蚁**（*Cornitermes villosus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1952 年描述，模式产地为 Brasil: São Paulo: Guatapará, Horto Florestal de Guarani \[21.42S 48.1W\]。分布记录包括巴西。
 
+EN — **密毛角象白蚁** (*Cornitermes villosus*) is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1952; the type locality is Brasil: São Paulo: Guatapará, Horto Florestal de Guarani \[21.42S 48.1W\]. Distribution: Brazil.
+
+ES — **密毛角象白蚁** (*Cornitermes villosus*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: São Paulo: Guatapará, Horto Florestal de Guarani \[21.42S 48.1W\]. Distribución: Brazil.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种
-- **本属模式种**：*Cornitermes cumulans*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种（14 species · 14 especies）
+- **本属模式种 Type species / Especie tipo**：*Cornitermes cumulans*
 
 ## 分布
 
 - **分布记录**：巴西
-- **英文记录**：Brazil
+- **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

@@ -25,17 +25,21 @@ synonym_count: 0
 
 **肖若散白蚁**（*Reticulitermes affinis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Hsia & Fan 于 1965 年描述，模式产地为 China: Fujian Province: Nan-Ping。分布记录包括中国。
 
+EN — **肖若散白蚁** (*Reticulitermes affinis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Hsia & Fan in 1965; the type locality is China: Fujian Province: Nan-Ping. Distribution: China.
+
+ES — **肖若散白蚁** (*Reticulitermes affinis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Hsia & Fan en 1965; la localidad tipo es China: Fujian Province: Nan-Ping. Distribución: China.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种
-- **本属模式种**：*Reticulitermes flavipes*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
+- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
 ## 分布
 
 - **分布记录**：中国
-- **英文记录**：China
+- **英文记录 English record / Registro en inglés**：China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

@@ -27,23 +27,27 @@ synonym_localities: "Australia: Queensland: Mackay; Australia: New South Wales: 
 
 **岛生新白蚁**（*Neotermes insularis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Walker 于 1853 年描述，模式产地为 New Zealand: ?。分布记录包括澳大利亚、新西兰。本站记录本种有 7 个次异名。
 
+EN — **岛生新白蚁** (*Neotermes insularis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Walker in 1853; the type locality is New Zealand: ?. Distribution: Australia, New Zealand. This site records 7 junior synonyms for the species.
+
+ES — **岛生新白蚁** (*Neotermes insularis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Walker en 1853; la localidad tipo es New Zealand: ?. Distribución: Australia, New Zealand. Este sitio registra 7 sinónimos junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种
-- **本属模式种**：*Neotermes castaneus*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
+- **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
 
 ## 分布
 
 - **分布记录**：澳大利亚、新西兰
-- **英文记录**：Australia, New Zealand
+- **英文记录 English record / Registro en inglés**：Australia, New Zealand
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 7 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 7 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Calotermes irregularis* Froggatt, 1897: 525-527 —— 模式产地：Australia: Queensland: Mackay
 2. *Calotermes robustus* Froggatt, 1897: 529-530 —— 模式产地：Australia: New South Wales: Sans Souci
@@ -54,4 +58,6 @@ synonym_localities: "Australia: Queensland: Mackay; Australia: New South Wales: 
 7. *Calotermes (Neotermes) deuqueti* Hill, 1926: 196-199 —— 模式产地：Australia: New South Wales: Lismore
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Calotermes irregularis*、*Calotermes robustus*、*Calotermes longiceps*、*Calotermes (Neotermes) oculifer*、*Calotermes (Neotermes) paralleliceps*、*Calotermes malandensis*、*Calotermes (Neotermes) deuqueti* 等）出现，本站统一归入 *Neotermes insularis*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Calotermes irregularis*、*Calotermes robustus*、*Calotermes longiceps*、*Calotermes (Neotermes) oculifer*、*Calotermes (Neotermes) paralleliceps*、*Calotermes malandensis*、*Calotermes (Neotermes) deuqueti*); this site treats them all under *Neotermes insularis*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Calotermes irregularis*、*Calotermes robustus*、*Calotermes longiceps*、*Calotermes (Neotermes) oculifer*、*Calotermes (Neotermes) paralleliceps*、*Calotermes malandensis*、*Calotermes (Neotermes) deuqueti*); este sitio los reúne todos bajo *Neotermes insularis*.
 <!-- AUTO:END -->

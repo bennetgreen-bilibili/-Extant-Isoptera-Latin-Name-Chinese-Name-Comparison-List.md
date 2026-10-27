@@ -28,17 +28,21 @@ synonym_count: 0
 
 **赞博恩格尔白蚁**（*Engelitermes zambo*）是白蚁科（TERMITIDAE）恩格尔白蚁亚科（Engelitermitinae）恩格尔白蚁属（*Engelitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Romero-Arias, Roisin & Scheffrahn 于 2023 年描述，模式产地为 Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]。分布记录包括喀麦隆。
 
+EN — **赞博恩格尔白蚁** (*Engelitermes zambo*) is the only extant species of the genus *Engelitermes*, in the family TERMITIDAE (subfamily Engelitermitinae), belonging to the clade Geoisoptera. The species was described by Romero-Arias, Roisin & Scheffrahn in 2023; the type locality is Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]. Distribution: Cameroon.
+
+ES — **赞博恩格尔白蚁** (*Engelitermes zambo*) es la única especie viviente del género *Engelitermes*, en la familia TERMITIDAE (subfamilia Engelitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Romero-Arias, Roisin & Scheffrahn en 2023; la localidad tipo es Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]. Distribución: Cameroon.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[恩格尔白蚁亚科 Engelitermitinae]({{ site.base_url }}/list/#engelitermitinae) —— 本站收录 1 属 1 种
-- **属 Genus**：[恩格尔白蚁属 *Engelitermes*]({{ site.base_url }}/list/#engelitermes) —— 单型属，仅含 1 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[恩格尔白蚁亚科 Engelitermitinae]({{ site.base_url }}/list/#engelitermitinae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
+- **属 Genus / Género**：[恩格尔白蚁属 *Engelitermes*]({{ site.base_url }}/list/#engelitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 
 - **分布记录**：喀麦隆
-- **英文记录**：Cameroon
+- **英文记录 English record / Registro en inglés**：Cameroon
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

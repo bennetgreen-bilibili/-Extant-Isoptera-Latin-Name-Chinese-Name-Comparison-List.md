@@ -27,25 +27,31 @@ synonym_localities: "Madagascar: Manantantely, near Tolanaro"
 
 **长后琥珀白蚁**（*Postelectrotermes longus*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Holmgren 于 1910 年描述，模式产地为 Seychelles: Aldabra: Takamaka。分布记录包括科摩罗、马达加斯加、塞舌尔。本站记录本种有 1 个次异名。
 
+EN — **长后琥珀白蚁** (*Postelectrotermes longus*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Holmgren in 1910; the type locality is Seychelles: Aldabra: Takamaka. Distribution: Comoros, Madagascar, Seychelles. This site records 1 junior synonym for the species.
+
+ES — **长后琥珀白蚁** (*Postelectrotermes longus*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución: Comoros, Madagascar, Seychelles. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/list/#postelectrotermes) —— 共 15 种
-- **本属模式种**：*Postelectrotermes praecox*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/list/#postelectrotermes) —— 共 15 种（15 species · 15 especies）
+- **本属模式种 Type species / Especie tipo**：*Postelectrotermes praecox*
 
 ## 分布
 
 - **分布记录**：科摩罗、马达加斯加、塞舌尔
-- **英文记录**：Comoros, Madagascar, Seychelles
+- **英文记录 English record / Registro en inglés**：Comoros, Madagascar, Seychelles
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Proneotermes delphinensis* Cachan, 1951: 1-2 —— 模式产地：Madagascar: Manantantely, near Tolanaro
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Proneotermes delphinensis* 出现，本站统一归入 *Postelectrotermes longus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Proneotermes delphinensis*; this site treats it under *Postelectrotermes longus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Proneotermes delphinensis*; este sitio lo reúne bajo *Postelectrotermes longus*.
 <!-- AUTO:END -->

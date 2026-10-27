@@ -27,24 +27,30 @@ synonym_localities: "Chile: Los Lagos: Cayutué [ 41.2333S 72.2833W ]"
 
 **方颈洞白蚁**（*Porotermes quadricollis*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种，也是本属的模式种，隶属远等翅类（Teletisoptera）。本种由 Rambur 于 1842 年描述，模式产地为 Chile: ?。分布记录包括智利及南美南部。本站记录本种有 1 个次异名。
 
+EN — **方颈洞白蚁** (*Porotermes quadricollis*) is a species and the type species of its genus of the genus *Porotermes*, in the family STOLOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Rambur in 1842; the type locality is Chile: ?. Distribution: Chile and southern South America. This site records 1 junior synonym for the species.
+
+ES — **方颈洞白蚁** (*Porotermes quadricollis*) es una especie, y la especie tipo de su género del género *Porotermes*, en la familia STOLOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Rambur en 1842; la localidad tipo es Chile: ?. Distribución: Chile and southern South America. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
-- **科 Family**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/list/#stolotermitidae) —— 本站收录 2 属 10 种
-- **属 Genus**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/list/#porotermes) —— 共 3 种
+- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
+- **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/list/#stolotermitidae) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）
+- **属 Genus / Género**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/list/#porotermes) —— 共 3 种（3 species · 3 especies）
 
 ## 分布
 
 - **分布记录**：智利及南美南部
-- **英文记录**：Chile and southern South America
+- **英文记录 English record / Registro en inglés**：Chile and southern South America
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Calotermes chilensis cayutuensis* Goetsch, 1933: 229 —— 模式产地：Chile: Los Lagos: Cayutué \[ 41.2333S 72.2833W \]
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Calotermes chilensis cayutuensis* 出现，本站统一归入 *Porotermes quadricollis*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Calotermes chilensis cayutuensis*; this site treats it under *Porotermes quadricollis*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Calotermes chilensis cayutuensis*; este sitio lo reúne bajo *Porotermes quadricollis*.
 <!-- AUTO:END -->

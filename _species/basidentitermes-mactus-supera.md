@@ -29,14 +29,18 @@ synonym_count: 0
 
 **上亚种**（*Basidentitermes mactus supera*）是荣耀基齿白蚁（*Basidentitermes mactus*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Nigeria: Olokemeji。本页暂无单列的分布记录，母种 *Basidentitermes mactus* 的分布见下文「分布」一节。
 
+EN — **上亚种** (*Basidentitermes mactus supera*) is a subspecies of *Basidentitermes mactus*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Basidentitermes*, belonging to the clade Geoisoptera. The subspecies was described by Silvestri in 1914; the type locality is Nigeria: Olokemeji. No separate distribution record is listed on this page; see the parent species *Basidentitermes mactus*.
+
+ES — **上亚种** (*Basidentitermes mactus supera*) es una subespecie de *Basidentitermes mactus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Basidentitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Nigeria: Olokemeji. No se incluye un registro de distribución separado en esta página; véase la especie parental *Basidentitermes mactus*.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种
-- **属 Genus**：[基齿白蚁属 *Basidentitermes*]({{ site.base_url }}/list/#basidentitermes) —— 共 8 种
-- **种 Species**：[荣耀基齿白蚁 *Basidentitermes mactus*]({{ site.base_url }}/species/basidentitermes-mactus/)
-- **亚种 Subspecies**：本页（*Basidentitermes mactus supera*）
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
+- **属 Genus / Género**：[基齿白蚁属 *Basidentitermes*]({{ site.base_url }}/list/#basidentitermes) —— 共 8 种（8 species · 8 especies）
+- **种 Species / Especie**：[荣耀基齿白蚁 *Basidentitermes mactus*]({{ site.base_url }}/species/basidentitermes-mactus/)
+- **亚种 Subspecies / Subespecie**：本页（*Basidentitermes mactus supera*）
 
 ## 分布
 

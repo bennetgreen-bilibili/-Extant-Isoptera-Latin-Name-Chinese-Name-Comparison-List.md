@@ -29,14 +29,18 @@ synonym_count: 0
 
 **马兰干亚种**（*Nasutitermes seghersi malangganus*）是西格象白蚁（*Nasutitermes seghersi*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: New Ireland: Kolonoboi。本页暂无单列的分布记录，母种 *Nasutitermes seghersi* 的分布见下文「分布」一节。
 
+EN — **马兰干亚种** (*Nasutitermes seghersi malangganus*) is a subspecies of *Nasutitermes seghersi*, in the family TERMITIDAE (subfamily Nasutitermitinae), genus *Nasutitermes*, belonging to the clade Geoisoptera. The subspecies was described by Roisin & Pasteels in 1996; the type locality is Papua New Guinea: New Ireland: Kolonoboi. No separate distribution record is listed on this page; see the parent species *Nasutitermes seghersi*.
+
+ES — **马兰干亚种** (*Nasutitermes seghersi malangganus*) es una subespecie de *Nasutitermes seghersi*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Nasutitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: New Ireland: Kolonoboi. No se incluye un registro de distribución separado en esta página; véase la especie parental *Nasutitermes seghersi*.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种
-- **种 Species**：[西格象白蚁 *Nasutitermes seghersi*]({{ site.base_url }}/species/nasutitermes-seghersi/)
-- **亚种 Subspecies**：本页（*Nasutitermes seghersi malangganus*）
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）
+- **种 Species / Especie**：[西格象白蚁 *Nasutitermes seghersi*]({{ site.base_url }}/species/nasutitermes-seghersi/)
+- **亚种 Subspecies / Subespecie**：本页（*Nasutitermes seghersi malangganus*）
 
 ## 分布
 

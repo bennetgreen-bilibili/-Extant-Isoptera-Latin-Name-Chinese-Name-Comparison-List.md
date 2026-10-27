@@ -28,18 +28,22 @@ synonym_count: 0
 
 **梨形解甲白蚁**（*Anoplotermes pyriformis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1934 年描述，模式产地为 Costa Rica: Santa Clara: Hamburg Farm。分布记录包括哥斯达黎加。
 
+EN — **梨形解甲白蚁** (*Anoplotermes pyriformis*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1934; the type locality is Costa Rica: Santa Clara: Hamburg Farm. Distribution: Costa Rica.
+
+ES — **梨形解甲白蚁** (*Anoplotermes pyriformis*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1934; la localidad tipo es Costa Rica: Santa Clara: Hamburg Farm. Distribución: Costa Rica.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
-- **属 Genus**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/list/#anoplotermes) —— 共 23 种
-- **本属模式种**：*Anoplotermes pacificus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/list/#anoplotermes) —— 共 23 种（23 species · 23 especies）
+- **本属模式种 Type species / Especie tipo**：*Anoplotermes pacificus*
 
 ## 分布
 
 - **分布记录**：哥斯达黎加
-- **英文记录**：Costa Rica
+- **英文记录 English record / Registro en inglés**：Costa Rica
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

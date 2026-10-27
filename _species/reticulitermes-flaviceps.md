@@ -25,17 +25,21 @@ synonym_count: 0
 
 **黄胸散白蚁**（*Reticulitermes flaviceps*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Oshima 于 1911 年描述，模式产地为 Taiwan: ?。分布记录包括中国南部、台湾、香港、日本、越南。
 
+EN — **黄胸散白蚁** (*Reticulitermes flaviceps*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Oshima in 1911; the type locality is Taiwan: ?. Distribution: southern China, Taiwan, Hong Kong, Japan, Vietnam.
+
+ES — **黄胸散白蚁** (*Reticulitermes flaviceps*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Oshima en 1911; la localidad tipo es Taiwan: ?. Distribución: southern China, Taiwan, Hong Kong, Japan, Vietnam.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种
-- **本属模式种**：*Reticulitermes flavipes*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
+- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
 ## 分布
 
 - **分布记录**：中国南部、台湾、香港、日本、越南
-- **英文记录**：southern China, Taiwan, Hong Kong, Japan, Vietnam
+- **英文记录 English record / Registro en inglés**：southern China, Taiwan, Hong Kong, Japan, Vietnam
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

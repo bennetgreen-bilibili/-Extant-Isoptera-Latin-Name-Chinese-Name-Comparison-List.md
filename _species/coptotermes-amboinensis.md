@@ -25,17 +25,21 @@ synonym_count: 0
 
 **安汶乳白蚁**（*Coptotermes amboinensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Kemner 于 1931 年描述，模式产地为 Indonesia: Maluku: Ambon。分布记录包括印尼马鲁古群岛。
 
+EN — **安汶乳白蚁** (*Coptotermes amboinensis*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Kemner in 1931; the type locality is Indonesia: Maluku: Ambon. Distribution: Maluku Islands, Indonesia.
+
+ES — **安汶乳白蚁** (*Coptotermes amboinensis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Kemner en 1931; la localidad tipo es Indonesia: Maluku: Ambon. Distribución: Maluku Islands, Indonesia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种
-- **本属模式种**：*Coptotermes gestroi*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
+- **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
 ## 分布
 
 - **分布记录**：印尼马鲁古群岛
-- **英文记录**：Maluku Islands, Indonesia
+- **英文记录 English record / Registro en inglés**：Maluku Islands, Indonesia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

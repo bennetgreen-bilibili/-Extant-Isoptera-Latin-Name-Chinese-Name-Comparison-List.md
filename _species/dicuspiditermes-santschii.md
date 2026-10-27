@@ -30,26 +30,32 @@ synonym_localities: "Indonesia: Sumatra: Tandjunggadang"
 
 **桑特斯基突扭白蚁**（*Dicuspiditermes santschii*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1922 年描述，模式产地为 Indonesia: Sumatra: Padang-Pandjang。分布记录包括东南亚、印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
 
+EN — **桑特斯基突扭白蚁** (*Dicuspiditermes santschii*) is a species of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1922; the type locality is Indonesia: Sumatra: Padang-Pandjang. Distribution: Southeast Asia, Indonesia, Malaysia. This site records 1 junior synonym for the species.
+
+ES — **桑特斯基突扭白蚁** (*Dicuspiditermes santschii*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1922; la localidad tipo es Indonesia: Sumatra: Padang-Pandjang. Distribución: Southeast Asia, Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种
-- **属 Genus**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种
-- **本属模式种**：*Dicuspiditermes obtusus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
+- **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种（21 species · 21 especies）
+- **本属模式种 Type species / Especie tipo**：*Dicuspiditermes obtusus*
 
 ## 分布
 
 - **分布记录**：东南亚、印度尼西亚、马来西亚
-- **英文记录**：Southeast Asia, Indonesia, Malaysia
+- **英文记录 English record / Registro en inglés**：Southeast Asia, Indonesia, Malaysia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Capritermes padangensis* Kemner, 1930: 320-322 —— 模式产地：Indonesia: Sumatra: Tandjunggadang
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Capritermes padangensis* 出现，本站统一归入 *Dicuspiditermes santschii*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Capritermes padangensis*; this site treats it under *Dicuspiditermes santschii*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Capritermes padangensis*; este sitio lo reúne bajo *Dicuspiditermes santschii*.
 <!-- AUTO:END -->

@@ -28,18 +28,22 @@ synonym_count: 0
 
 **奇妙高跷白蚁**（*Grallatotermes admirabilus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）高跷白蚁属（*Grallatotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Light 于 1930 年描述，模式产地为 Philippines: Negros, above Dumaguete, Horns of Negros; Suab River on Cotabato Coast。分布记录包括菲律宾。
 
+EN — **奇妙高跷白蚁** (*Grallatotermes admirabilus*) is a species of the genus *Grallatotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Light in 1930; the type locality is Philippines: Negros, above Dumaguete, Horns of Negros; Suab River on Cotabato Coast. Distribution: Philippines.
+
+ES — **奇妙高跷白蚁** (*Grallatotermes admirabilus*) es una especie del género *Grallatotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Light en 1930; la localidad tipo es Philippines: Negros, above Dumaguete, Horns of Negros; Suab River on Cotabato Coast. Distribución: Philippines.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[高跷白蚁属 *Grallatotermes*]({{ site.base_url }}/list/#grallatotermes) —— 共 7 种
-- **本属模式种**：*Grallatotermes grallator*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[高跷白蚁属 *Grallatotermes*]({{ site.base_url }}/list/#grallatotermes) —— 共 7 种（7 species · 7 especies）
+- **本属模式种 Type species / Especie tipo**：*Grallatotermes grallator*
 
 ## 分布
 
 - **分布记录**：菲律宾
-- **英文记录**：Philippines
+- **英文记录 English record / Registro en inglés**：Philippines
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

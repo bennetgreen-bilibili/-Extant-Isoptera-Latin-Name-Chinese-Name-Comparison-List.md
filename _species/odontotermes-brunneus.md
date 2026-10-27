@@ -30,26 +30,32 @@ synonym_localities: "India: Karnataka: Bijapur District: Badami"
 
 **棕色土白蚁**（*Odontotermes brunneus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 India: Bengal。分布记录包括南亚印度、未注明。本站记录本种有 1 个次异名。
 
+EN — **棕色土白蚁** (*Odontotermes brunneus*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Hagen in 1858; the type locality is India: Bengal. Distribution: South Asia, India, unspecified. This site records 1 junior synonym for the species.
+
+ES — **棕色土白蚁** (*Odontotermes brunneus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hagen en 1858; la localidad tipo es India: Bengal. Distribución: South Asia, India, unspecified. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
-- **属 Genus**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种
-- **本属模式种**：*Odontotermes vulgaris*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
+- **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）
+- **本属模式种 Type species / Especie tipo**：*Odontotermes vulgaris*
 
 ## 分布
 
 - **分布记录**：南亚印度、未注明
-- **英文记录**：South Asia, India, unspecified
+- **英文记录 English record / Registro en inglés**：South Asia, India, unspecified
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Odontotermes mathadi* Roonwal & Chhotani, 1964: 45-52 —— 模式产地：India: Karnataka: Bijapur District: Badami
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Odontotermes mathadi* 出现，本站统一归入 *Odontotermes brunneus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Odontotermes mathadi*; this site treats it under *Odontotermes brunneus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Odontotermes mathadi*; este sitio lo reúne bajo *Odontotermes brunneus*.
 <!-- AUTO:END -->

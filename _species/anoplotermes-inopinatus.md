@@ -28,18 +28,22 @@ synonym_count: 0
 
 **意外解甲白蚁**（*Anoplotermes inopinatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Scheffrahn & Krecek 于 2006 年描述，模式产地为 Bahamas: Eleuthera Island: North Bluff。分布记录包括巴哈马。
 
+EN — **意外解甲白蚁** (*Anoplotermes inopinatus*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Scheffrahn & Krecek in 2006; the type locality is Bahamas: Eleuthera Island: North Bluff. Distribution: Bahamas.
+
+ES — **意外解甲白蚁** (*Anoplotermes inopinatus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Scheffrahn & Krecek en 2006; la localidad tipo es Bahamas: Eleuthera Island: North Bluff. Distribución: Bahamas.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
-- **属 Genus**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/list/#anoplotermes) —— 共 23 种
-- **本属模式种**：*Anoplotermes pacificus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/list/#anoplotermes) —— 共 23 种（23 species · 23 especies）
+- **本属模式种 Type species / Especie tipo**：*Anoplotermes pacificus*
 
 ## 分布
 
 - **分布记录**：巴哈马
-- **英文记录**：Bahamas
+- **英文记录 English record / Registro en inglés**：Bahamas
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

@@ -28,18 +28,22 @@ synonym_count: 0
 
 **马特拉加喙白蚁**（*Rhynchotermes matraga*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）喙白蚁属（*Rhynchotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Constantini & Cancello 于 2016 年描述，模式产地为 Brasil: Minas Gerais: Conceição do Mato Dentro, Serra da Serpentina \[19.0502S 43.3635W\]。分布记录包括巴西。
 
+EN — **马特拉加喙白蚁** (*Rhynchotermes matraga*) is a species of the genus *Rhynchotermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Constantini & Cancello in 2016; the type locality is Brasil: Minas Gerais: Conceição do Mato Dentro, Serra da Serpentina \[19.0502S 43.3635W\]. Distribution: Brazil.
+
+ES — **马特拉加喙白蚁** (*Rhynchotermes matraga*) es una especie del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Constantini & Cancello en 2016; la localidad tipo es Brasil: Minas Gerais: Conceição do Mato Dentro, Serra da Serpentina \[19.0502S 43.3635W\]. Distribución: Brazil.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[喙白蚁属 *Rhynchotermes*]({{ site.base_url }}/list/#rhynchotermes) —— 共 8 种
-- **本属模式种**：*Rhynchotermes nasutissimus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[喙白蚁属 *Rhynchotermes*]({{ site.base_url }}/list/#rhynchotermes) —— 共 8 种（8 species · 8 especies）
+- **本属模式种 Type species / Especie tipo**：*Rhynchotermes nasutissimus*
 
 ## 分布
 
 - **分布记录**：巴西
-- **英文记录**：Brazil
+- **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

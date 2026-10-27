@@ -28,18 +28,22 @@ synonym_count: 0
 
 **哈尔拉兹弓白蚁**（*Amitermes kharrazii*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ghayourfar 于 1999 年描述，模式产地为 Iran: Province of Tehran: Tehran, Karaj, Abyek。分布记录包括伊朗。
 
+EN — **哈尔拉兹弓白蚁** (*Amitermes kharrazii*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Ghayourfar in 1999; the type locality is Iran: Province of Tehran: Tehran, Karaj, Abyek. Distribution: Iran.
+
+ES — **哈尔拉兹弓白蚁** (*Amitermes kharrazii*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ghayourfar en 1999; la localidad tipo es Iran: Province of Tehran: Tehran, Karaj, Abyek. Distribución: Iran.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种
-- **属 Genus**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/list/#amitermes) —— 共 113 种
-- **本属模式种**：*Amitermes amifer*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
+- **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/list/#amitermes) —— 共 113 种（113 species · 113 especies）
+- **本属模式种 Type species / Especie tipo**：*Amitermes amifer*
 
 ## 分布
 
 - **分布记录**：伊朗
-- **英文记录**：Iran
+- **英文记录 English record / Registro en inglés**：Iran
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

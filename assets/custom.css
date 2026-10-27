@@ -180,6 +180,9 @@ a{color:var(--accent)}
 .fact-zh{color:var(--ink)}
 .fact-en{color:var(--muted);font-size:.9em;font-weight:400}
 .fact-es{color:var(--muted);font-size:.9em;font-weight:400}
+.species-lang-nav{margin:.9em 0;font-size:.92em;color:var(--muted)}
+.species-lang-nav a{color:var(--accent);text-decoration:none}
+.species-lang-nav a:hover{text-decoration:underline}
 .synonym-list,.synonym-localities{margin:.3em 0 .3em 1.25em;padding:0}
 .synonym-list li,.synonym-localities li{margin:.18em 0;line-height:1.55}
 .synonym-localities-label{margin:.7em 0 .15em;font-weight:600}

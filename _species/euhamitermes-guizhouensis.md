@@ -28,18 +28,22 @@ synonym_count: 0
 
 **贵州亮白蚁**（*Euhamitermes guizhouensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Gao & Gong 于 1985 年描述，模式产地为 China: Guizhou Province: Ceheng。分布记录包括中国、贵州。
 
+EN — **贵州亮白蚁** (*Euhamitermes guizhouensis*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Gao & Gong in 1985; the type locality is China: Guizhou Province: Ceheng. Distribution: China, Guizhou.
+
+ES — **贵州亮白蚁** (*Euhamitermes guizhouensis*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Gao & Gong en 1985; la localidad tipo es China: Guizhou Province: Ceheng. Distribución: China, Guizhou.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
-- **属 Genus**：[亮白蚁属 *Euhamitermes*]({{ site.base_url }}/list/#euhamitermes) —— 共 24 种
-- **本属模式种**：*Euhamitermes hamatus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **属 Genus / Género**：[亮白蚁属 *Euhamitermes*]({{ site.base_url }}/list/#euhamitermes) —— 共 24 种（24 species · 24 especies）
+- **本属模式种 Type species / Especie tipo**：*Euhamitermes hamatus*
 
 ## 分布
 
 - **分布记录**：中国、贵州
-- **英文记录**：China, Guizhou
+- **英文记录 English record / Registro en inglés**：China, Guizhou
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

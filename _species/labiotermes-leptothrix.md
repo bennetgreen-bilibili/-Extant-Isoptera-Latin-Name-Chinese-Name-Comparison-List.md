@@ -28,18 +28,22 @@ synonym_count: 0
 
 **纤毛厚唇白蚁**（*Labiotermes leptothrix*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括巴西、哥伦比亚。
 
+EN — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) is a species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: Brazil, Colombia.
+
+ES — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, Colombia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/list/#labiotermes) —— 共 10 种
-- **本属模式种**：*Labiotermes labralis*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/list/#labiotermes) —— 共 10 种（10 species · 10 especies）
+- **本属模式种 Type species / Especie tipo**：*Labiotermes labralis*
 
 ## 分布
 
 - **分布记录**：巴西、哥伦比亚
-- **英文记录**：Brazil, Colombia
+- **英文记录 English record / Registro en inglés**：Brazil, Colombia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

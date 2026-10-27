@@ -25,17 +25,21 @@ synonym_count: 0
 
 **布朗棒鼻白蚁**（*Parrhinotermes browni*）是鼻白蚁科（RHINOTERMITIDAE）棒鼻白蚁属（*Parrhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Harris 于 1958 年描述，模式产地为 Solomon Islands: Guadalcanal: Gold Ridge。分布记录包括印度尼西亚、巴布亚新几内亚、所罗门群岛。
 
+EN — **布朗棒鼻白蚁** (*Parrhinotermes browni*) is a species of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Harris in 1958; the type locality is Solomon Islands: Guadalcanal: Gold Ridge. Distribution: Indonesia, Papua New Guinea, Solomon Islands.
+
+ES — **布朗棒鼻白蚁** (*Parrhinotermes browni*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Harris en 1958; la localidad tipo es Solomon Islands: Guadalcanal: Gold Ridge. Distribución: Indonesia, Papua New Guinea, Solomon Islands.
+
 ## 分类位置
 
-- **支系 Clade**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
-- **科 Family**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种
-- **属 Genus**：[棒鼻白蚁属 *Parrhinotermes*]({{ site.base_url }}/list/#parrhinotermes) —— 共 13 种
-- **本属模式种**：*Parrhinotermes aequalis*
+- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **属 Genus / Género**：[棒鼻白蚁属 *Parrhinotermes*]({{ site.base_url }}/list/#parrhinotermes) —— 共 13 种（13 species · 13 especies）
+- **本属模式种 Type species / Especie tipo**：*Parrhinotermes aequalis*
 
 ## 分布
 
 - **分布记录**：印度尼西亚、巴布亚新几内亚、所罗门群岛
-- **英文记录**：Indonesia, Papua New Guinea, Solomon Islands
+- **英文记录 English record / Registro en inglés**：Indonesia, Papua New Guinea, Solomon Islands
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

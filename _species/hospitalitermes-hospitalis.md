@@ -28,23 +28,27 @@ synonym_count: 0
 
 **寄宿须白蚁**（*Hospitalitermes hospitalis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）须白蚁属（*Hospitalitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak; Singapore: ?。分布记录包括文莱、印度尼西亚、马来西亚、菲律宾、新加坡。
 
+EN — **寄宿须白蚁** (*Hospitalitermes hospitalis*) is a species and the type species of its genus of the genus *Hospitalitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak; Singapore: ?. Distribution: Brunei, Indonesia, Malaysia, Philippines, Singapore.
+
+ES — **寄宿须白蚁** (*Hospitalitermes hospitalis*) es una especie, y la especie tipo de su género del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak; Singapore: ?. Distribución: Brunei, Indonesia, Malaysia, Philippines, Singapore.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[须白蚁属 *Hospitalitermes*]({{ site.base_url }}/list/#hospitalitermes) —— 共 37 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[须白蚁属 *Hospitalitermes*]({{ site.base_url }}/list/#hospitalitermes) —— 共 37 种（37 species · 37 especies）
 
 ## 分布
 
 - **分布记录**：文莱、印度尼西亚、马来西亚、菲律宾、新加坡
-- **英文记录**：Brunei, Indonesia, Malaysia, Philippines, Singapore
+- **英文记录 English record / Registro en inglés**：Brunei, Indonesia, Malaysia, Philippines, Singapore
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 亚种
 
-本种下分 2 个亚种：
+本种下分 2 个亚种（subspecies / subespecies）：
 
 - [*Hospitalitermes hospitalis hospitalis* 指名亚种]({{ site.base_url }}/species/hospitalitermes-hospitalis-hospitalis/) —— Haviland, 1898，模式产地：Malaysia: Sarawak; Singapore: ?
 - [*Hospitalitermes hospitalis hospitaloides* 似寄宿亚种]({{ site.base_url }}/species/hospitalitermes-hospitalis-hospitaloides/) —— Holmgren, 1913，模式产地：Malaysia: Sarawak: Miri Hills

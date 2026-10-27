@@ -28,17 +28,21 @@ synonym_count: 0
 
 **布鲁克斯微白蚁**（*Parvitermes brooksi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）微白蚁属（*Parvitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1925 年描述，模式产地为 Cuba: Cienfuegos: Soledad。分布记录包括古巴、巴哈马。
 
+EN — **布鲁克斯微白蚁** (*Parvitermes brooksi*) is a species and the type species of its genus of the genus *Parvitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1925; the type locality is Cuba: Cienfuegos: Soledad. Distribution: Cuba, Bahamas.
+
+ES — **布鲁克斯微白蚁** (*Parvitermes brooksi*) es una especie, y la especie tipo de su género del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1925; la localidad tipo es Cuba: Cienfuegos: Soledad. Distribución: Cuba, Bahamas.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[微白蚁属 *Parvitermes*]({{ site.base_url }}/list/#parvitermes) —— 共 13 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[微白蚁属 *Parvitermes*]({{ site.base_url }}/list/#parvitermes) —— 共 13 种（13 species · 13 especies）
 
 ## 分布
 
 - **分布记录**：古巴、巴哈马
-- **英文记录**：Cuba, Bahamas
+- **英文记录 English record / Registro en inglés**：Cuba, Bahamas
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

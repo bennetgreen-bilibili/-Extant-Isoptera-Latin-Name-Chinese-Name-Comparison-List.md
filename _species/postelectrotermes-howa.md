@@ -27,25 +27,31 @@ synonym_localities: "Mauritius: ?"
 
 **合华后琥珀白蚁**（*Postelectrotermes howa*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括印度洋岛屿、马达加斯加、留尼汪、科摩罗、毛里求斯、留尼汪（法）。本站记录本种有 1 个次异名。
 
+EN — **合华后琥珀白蚁** (*Postelectrotermes howa*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Wasmann in 1897; the type locality is Madagascar: Fenerive. Distribution: Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France). This site records 1 junior synonym for the species.
+
+ES — **合华后琥珀白蚁** (*Postelectrotermes howa*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Fenerive. Distribución: Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France). Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/list/#postelectrotermes) —— 共 15 种
-- **本属模式种**：*Postelectrotermes praecox*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/list/#postelectrotermes) —— 共 15 种（15 species · 15 especies）
+- **本属模式种 Type species / Especie tipo**：*Postelectrotermes praecox*
 
 ## 分布
 
 - **分布记录**：印度洋岛屿、马达加斯加、留尼汪、科摩罗、毛里求斯、留尼汪（法）
-- **英文记录**：Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France)
+- **英文记录 English record / Registro en inglés**：Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Neotermes howa mauritiana* Sjöstedt, 1926: 42 —— 模式产地：Mauritius: ?
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Neotermes howa mauritiana* 出现，本站统一归入 *Postelectrotermes howa*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Neotermes howa mauritiana*; this site treats it under *Postelectrotermes howa*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Neotermes howa mauritiana*; este sitio lo reúne bajo *Postelectrotermes howa*.
 <!-- AUTO:END -->

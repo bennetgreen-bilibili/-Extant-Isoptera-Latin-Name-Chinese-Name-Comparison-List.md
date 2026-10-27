@@ -25,17 +25,21 @@ synonym_count: 0
 
 **克里希纳前砂白蚁**（*Procryptotermes krishnai*）是木白蚁科（KALOTERMITIDAE）前砂白蚁属（*Procryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Emerson 于 1961 年描述，模式产地为 New Caledonia (French): Noumea。分布记录包括新喀里多尼亚、法属新喀里多尼亚。
 
+EN — **克里希纳前砂白蚁** (*Procryptotermes krishnai*) is a species of the genus *Procryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Emerson in 1961; the type locality is New Caledonia (French): Noumea. Distribution: New Caledonia, French New Caledonia.
+
+ES — **克里希纳前砂白蚁** (*Procryptotermes krishnai*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Emerson en 1961; la localidad tipo es New Caledonia (French): Noumea. Distribución: New Caledonia, French New Caledonia.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/list/#procryptotermes) —— 共 14 种
-- **本属模式种**：*Procryptotermes fryeri*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/list/#procryptotermes) —— 共 14 种（14 species · 14 especies）
+- **本属模式种 Type species / Especie tipo**：*Procryptotermes fryeri*
 
 ## 分布
 
 - **分布记录**：新喀里多尼亚、法属新喀里多尼亚
-- **英文记录**：New Caledonia, French New Caledonia
+- **英文记录 English record / Registro en inglés**：New Caledonia, French New Caledonia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

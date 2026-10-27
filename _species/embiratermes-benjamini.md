@@ -28,18 +28,22 @@ synonym_count: 0
 
 **本杰明生白蚁**（*Embiratermes benjamini*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]。分布记录包括玻利维亚、委内瑞拉。
 
+EN — **本杰明生白蚁** (*Embiratermes benjamini*) is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Bolivia, Venezuela.
+
+ES — **本杰明生白蚁** (*Embiratermes benjamini*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución: Bolivia, Venezuela.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种
-- **属 Genus**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/list/#embiratermes) —— 共 9 种
-- **本属模式种**：*Embiratermes festivellus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/list/#embiratermes) —— 共 9 种（9 species · 9 especies）
+- **本属模式种 Type species / Especie tipo**：*Embiratermes festivellus*
 
 ## 分布
 
 - **分布记录**：玻利维亚、委内瑞拉
-- **英文记录**：Bolivia, Venezuela
+- **英文记录 English record / Registro en inglés**：Bolivia, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

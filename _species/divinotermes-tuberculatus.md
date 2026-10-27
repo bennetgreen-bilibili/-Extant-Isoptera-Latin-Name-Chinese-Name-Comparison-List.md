@@ -28,18 +28,22 @@ synonym_count: 0
 
 **小瘤迪维努白蚁**（*Divinotermes tuberculatus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）迪维努白蚁属（*Divinotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Carrijo & Cancello 于 2011 年描述，模式产地为 Brasil: Rondônia: Vilhena \[12.8S 60.1W\]。分布记录包括巴西、玻利维亚。
 
+EN — **小瘤迪维努白蚁** (*Divinotermes tuberculatus*) is a species of the genus *Divinotermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Carrijo & Cancello in 2011; the type locality is Brasil: Rondônia: Vilhena \[12.8S 60.1W\]. Distribution: Brazil, Bolivia.
+
+ES — **小瘤迪维努白蚁** (*Divinotermes tuberculatus*) es una especie del género *Divinotermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Carrijo & Cancello en 2011; la localidad tipo es Brasil: Rondônia: Vilhena \[12.8S 60.1W\]. Distribución: Brazil, Bolivia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种
-- **属 Genus**：[迪维努白蚁属 *Divinotermes*]({{ site.base_url }}/list/#divinotermes) —— 共 3 种
-- **本属模式种**：*Divinotermes allognathus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
+- **属 Genus / Género**：[迪维努白蚁属 *Divinotermes*]({{ site.base_url }}/list/#divinotermes) —— 共 3 种（3 species · 3 especies）
+- **本属模式种 Type species / Especie tipo**：*Divinotermes allognathus*
 
 ## 分布
 
 - **分布记录**：巴西、玻利维亚
-- **英文记录**：Brazil, Bolivia
+- **英文记录 English record / Registro en inglés**：Brazil, Bolivia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

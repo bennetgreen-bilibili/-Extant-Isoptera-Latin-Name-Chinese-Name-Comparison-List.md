@@ -28,17 +28,21 @@ synonym_count: 0
 
 **阿伦印扭白蚁**（*Indocapritermes aruni*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）印扭白蚁属（*Indocapritermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Chhotani 于 1997 年描述，模式产地为 India: Kerala: Silent Valley。分布记录包括南亚、印度。
 
+EN — **阿伦印扭白蚁** (*Indocapritermes aruni*) is the only extant species of the genus *Indocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Chhotani in 1997; the type locality is India: Kerala: Silent Valley. Distribution: South Asia, India.
+
+ES — **阿伦印扭白蚁** (*Indocapritermes aruni*) es la única especie viviente del género *Indocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Kerala: Silent Valley. Distribución: South Asia, India.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种
-- **属 Genus**：[印扭白蚁属 *Indocapritermes*]({{ site.base_url }}/list/#indocapritermes) —— 单型属，仅含 1 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
+- **属 Genus / Género**：[印扭白蚁属 *Indocapritermes*]({{ site.base_url }}/list/#indocapritermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 
 - **分布记录**：南亚、印度
-- **英文记录**：South Asia, India
+- **英文记录 English record / Registro en inglés**：South Asia, India
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

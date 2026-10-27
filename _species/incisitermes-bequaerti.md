@@ -25,17 +25,21 @@ synonym_count: 0
 
 **贝奎特楹白蚁**（*Incisitermes bequaerti*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Snyder 于 1929 年描述，模式产地为 Cuba: Oriente: Banos。分布记录包括巴哈马、波多黎各、古巴、百慕大、库拉索、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛。
 
+EN — **贝奎特楹白蚁** (*Incisitermes bequaerti*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Snyder in 1929; the type locality is Cuba: Oriente: Banos. Distribution: Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands.
+
+ES — **贝奎特楹白蚁** (*Incisitermes bequaerti*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Snyder en 1929; la localidad tipo es Cuba: Oriente: Banos. Distribución: Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种
-- **本属模式种**：*Incisitermes schwarzi*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
+- **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*
 
 ## 分布
 
 - **分布记录**：巴哈马、波多黎各、古巴、百慕大、库拉索、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛
-- **英文记录**：Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands
+- **英文记录 English record / Registro en inglés**：Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

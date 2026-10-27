@@ -25,17 +25,21 @@ synonym_count: 0
 
 **乌巴齐无刺白蚁**（*Anacanthotermes ubachi*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，隶属远等翅类（Teletisoptera）。本种由 Navás 于 1911 年描述，模式产地为 Israel: near Dead Sea (Cercanias del Mar Muerto)。分布记录包括中东、以色列、约旦、巴勒斯坦、伊拉克、沙特阿拉伯、土耳其。
 
+EN — **乌巴齐无刺白蚁** (*Anacanthotermes ubachi*) is a species of the genus *Anacanthotermes*, in the family HODOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Navás in 1911; the type locality is Israel: near Dead Sea (Cercanias del Mar Muerto). Distribution: Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey.
+
+ES — **乌巴齐无刺白蚁** (*Anacanthotermes ubachi*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Navás en 1911; la localidad tipo es Israel: near Dead Sea (Cercanias del Mar Muerto). Distribución: Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey.
+
 ## 分类位置
 
-- **支系 Clade**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
-- **科 Family**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种
-- **属 Genus**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/list/#anacanthotermes) —— 共 16 种
-- **本属模式种**：*Anacanthotermes ochraceus*
+- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
+- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
+- **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/list/#anacanthotermes) —— 共 16 种（16 species · 16 especies）
+- **本属模式种 Type species / Especie tipo**：*Anacanthotermes ochraceus*
 
 ## 分布
 
 - **分布记录**：中东、以色列、约旦、巴勒斯坦、伊拉克、沙特阿拉伯、土耳其
-- **英文记录**：Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey
+- **英文记录 English record / Registro en inglés**：Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

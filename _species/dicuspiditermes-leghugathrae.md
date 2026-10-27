@@ -28,18 +28,22 @@ synonym_count: 0
 
 **莱古加思突扭白蚁**（*Dicuspiditermes leghugathrae*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Amina & Rajmohana 于 2020 年描述，模式产地为 India: Kerala: Palakkad, Chulliyar Dam \[ 10.5906N 76.769E \]。分布记录包括印度。
 
+EN — **莱古加思突扭白蚁** (*Dicuspiditermes leghugathrae*) is a species of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Amina & Rajmohana in 2020; the type locality is India: Kerala: Palakkad, Chulliyar Dam \[ 10.5906N 76.769E \]. Distribution: India.
+
+ES — **莱古加思突扭白蚁** (*Dicuspiditermes leghugathrae*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Amina & Rajmohana en 2020; la localidad tipo es India: Kerala: Palakkad, Chulliyar Dam \[ 10.5906N 76.769E \]. Distribución: India.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种
-- **属 Genus**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种
-- **本属模式种**：*Dicuspiditermes obtusus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
+- **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种（21 species · 21 especies）
+- **本属模式种 Type species / Especie tipo**：*Dicuspiditermes obtusus*
 
 ## 分布
 
 - **分布记录**：印度
-- **英文记录**：India
+- **英文记录 English record / Registro en inglés**：India
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

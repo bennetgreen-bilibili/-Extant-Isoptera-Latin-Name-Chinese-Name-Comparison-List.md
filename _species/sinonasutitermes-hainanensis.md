@@ -28,18 +28,22 @@ synonym_count: 0
 
 **海南华象白蚁**（*Sinonasutitermes hainanensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）华象白蚁属（*Sinonasutitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Li & Ping 于 1986 年描述，模式产地为 China: Guangdong Province: Hainan Island: Diao-luo。分布记录包括中国。
 
+EN — **海南华象白蚁** (*Sinonasutitermes hainanensis*) is a species of the genus *Sinonasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Li & Ping in 1986; the type locality is China: Guangdong Province: Hainan Island: Diao-luo. Distribution: China.
+
+ES — **海南华象白蚁** (*Sinonasutitermes hainanensis*) es una especie del género *Sinonasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Li & Ping en 1986; la localidad tipo es China: Guangdong Province: Hainan Island: Diao-luo. Distribución: China.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种
-- **属 Genus**：[华象白蚁属 *Sinonasutitermes*]({{ site.base_url }}/list/#sinonasutitermes) —— 共 11 种
-- **本属模式种**：*Sinonasutitermes dimorphus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **属 Genus / Género**：[华象白蚁属 *Sinonasutitermes*]({{ site.base_url }}/list/#sinonasutitermes) —— 共 11 种（11 species · 11 especies）
+- **本属模式种 Type species / Especie tipo**：*Sinonasutitermes dimorphus*
 
 ## 分布
 
 - **分布记录**：中国
-- **英文记录**：China
+- **英文记录 English record / Registro en inglés**：China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

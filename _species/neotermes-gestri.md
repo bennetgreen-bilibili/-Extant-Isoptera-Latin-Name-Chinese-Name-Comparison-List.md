@@ -25,17 +25,21 @@ synonym_count: 0
 
 **盖斯特新白蚁**（*Neotermes gestri*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Silvestri 于 1912 年描述，模式产地为 Sao Tome and Principe: Principe Island。分布记录包括赤道几内亚、喀麦隆、尼日利亚、圣多美和普林西比。
 
+EN — **盖斯特新白蚁** (*Neotermes gestri*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Silvestri in 1912; the type locality is Sao Tome and Principe: Principe Island. Distribution: Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe.
+
+ES — **盖斯特新白蚁** (*Neotermes gestri*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Silvestri en 1912; la localidad tipo es Sao Tome and Principe: Principe Island. Distribución: Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe.
+
 ## 分类位置
 
-- **支系 Clade**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
-- **科 Family**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种
-- **属 Genus**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种
-- **本属模式种**：*Neotermes castaneus*
+- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
+- **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
 
 ## 分布
 
 - **分布记录**：赤道几内亚、喀麦隆、尼日利亚、圣多美和普林西比
-- **英文记录**：Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe
+- **英文记录 English record / Registro en inglés**：Equatorial Guinea, Cameroon, Nigeria, São Tomé and Príncipe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

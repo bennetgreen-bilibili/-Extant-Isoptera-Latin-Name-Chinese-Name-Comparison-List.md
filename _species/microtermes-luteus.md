@@ -28,18 +28,22 @@ synonym_count: 0
 
 **橘黄小白蚁**（*Microtermes luteus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Harris 于 1954 年描述，模式产地为 Tanzania: Tanga District: Mwakijembe。分布记录包括肯尼亚、马拉维、坦桑尼亚、赞比亚。
 
+EN — **橘黄小白蚁** (*Microtermes luteus*) is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Harris in 1954; the type locality is Tanzania: Tanga District: Mwakijembe. Distribution: Kenya, Malawi, Tanzania, Zambia.
+
+ES — **橘黄小白蚁** (*Microtermes luteus*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Harris en 1954; la localidad tipo es Tanzania: Tanga District: Mwakijembe. Distribución: Kenya, Malawi, Tanzania, Zambia.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
-- **属 Genus**：[小白蚁属 *Microtermes*]({{ site.base_url }}/list/#microtermes) —— 共 69 种
-- **本属模式种**：*Microtermes incertus*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
+- **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/list/#microtermes) —— 共 69 种（69 species · 69 especies）
+- **本属模式种 Type species / Especie tipo**：*Microtermes incertus*
 
 ## 分布
 
 - **分布记录**：肯尼亚、马拉维、坦桑尼亚、赞比亚
-- **英文记录**：Kenya, Malawi, Tanzania, Zambia
+- **英文记录 English record / Registro en inglés**：Kenya, Malawi, Tanzania, Zambia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

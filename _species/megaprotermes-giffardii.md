@@ -28,17 +28,21 @@ synonym_count: 0
 
 **吉法德大前白蚁**（*Megaprotermes giffardii*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大前白蚁属（*Megaprotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1914 年描述，模式产地为 Nigeria: Ibadan。分布记录包括科特迪瓦、中非共和国、刚果民主共和国、冈比亚、加纳、尼日利亚、塞内加尔。
 
+EN — **吉法德大前白蚁** (*Megaprotermes giffardii*) is the only extant species of the genus *Megaprotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1914; the type locality is Nigeria: Ibadan. Distribution: Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal.
+
+ES — **吉法德大前白蚁** (*Megaprotermes giffardii*) es la única especie viviente del género *Megaprotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1914; la localidad tipo es Nigeria: Ibadan. Distribución: Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种
-- **属 Genus**：[大前白蚁属 *Megaprotermes*]({{ site.base_url }}/list/#megaprotermes) —— 单型属，仅含 1 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
+- **属 Genus / Género**：[大前白蚁属 *Megaprotermes*]({{ site.base_url }}/list/#megaprotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 
 - **分布记录**：科特迪瓦、中非共和国、刚果民主共和国、冈比亚、加纳、尼日利亚、塞内加尔
-- **英文记录**：Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal
+- **英文记录 English record / Registro en inglés**：Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

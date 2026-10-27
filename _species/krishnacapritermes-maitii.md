@@ -28,17 +28,21 @@ synonym_count: 0
 
 **迈蒂克里希纳扭白蚁**（*Krishnacapritermes maitii*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）克里希纳扭白蚁属（*Krishnacapritermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Chhotani 于 1997 年描述，模式产地为 India: Tamil Nadu: Pumbarai: Palni Hills。分布记录包括印度、西高止山。
 
+EN — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) is a species and the type species of its genus of the genus *Krishnacapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Chhotani in 1997; the type locality is India: Tamil Nadu: Pumbarai: Palni Hills. Distribution: India, Western Ghats.
+
+ES — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) es una especie, y la especie tipo de su género del género *Krishnacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Tamil Nadu: Pumbarai: Palni Hills. Distribución: India, Western Ghats.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种
-- **属 Genus**：[克里希纳扭白蚁属 *Krishnacapritermes*]({{ site.base_url }}/list/#krishnacapritermes) —— 共 4 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
+- **属 Genus / Género**：[克里希纳扭白蚁属 *Krishnacapritermes*]({{ site.base_url }}/list/#krishnacapritermes) —— 共 4 种（4 species · 4 especies）
 
 ## 分布
 
 - **分布记录**：印度、西高止山
-- **英文记录**：India, Western Ghats
+- **英文记录 English record / Registro en inglés**：India, Western Ghats
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

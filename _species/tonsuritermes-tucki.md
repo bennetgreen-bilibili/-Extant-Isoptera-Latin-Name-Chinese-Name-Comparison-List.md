@@ -28,17 +28,21 @@ synonym_count: 0
 
 **塔克奇囟白蚁**（*Tonsuritermes tucki*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）奇囟白蚁属（*Tonsuritermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Constantini & Cancello 于 2018 年描述，模式产地为 Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁。
 
+EN — **塔克奇囟白蚁** (*Tonsuritermes tucki*) is a species and the type species of its genus of the genus *Tonsuritermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Constantini & Cancello in 2018; the type locality is Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]. Distribution: South America, Brazil, Colombia, French Guiana, Paraguay, Peru.
+
+ES — **塔克奇囟白蚁** (*Tonsuritermes tucki*) es una especie, y la especie tipo de su género del género *Tonsuritermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Constantini & Cancello en 2018; la localidad tipo es Brasil: Santa Catarina: Campos Novos \[ 27.4S 51.22W \]. Distribución: South America, Brazil, Colombia, French Guiana, Paraguay, Peru.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种
-- **亚科 Subfamily**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种
-- **属 Genus**：[奇囟白蚁属 *Tonsuritermes*]({{ site.base_url }}/list/#tonsuritermes) —— 共 2 种
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **属 Genus / Género**：[奇囟白蚁属 *Tonsuritermes*]({{ site.base_url }}/list/#tonsuritermes) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 
 - **分布记录**：南美洲、巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁
-- **英文记录**：South America, Brazil, Colombia, French Guiana, Paraguay, Peru
+- **英文记录 English record / Registro en inglés**：South America, Brazil, Colombia, French Guiana, Paraguay, Peru
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->

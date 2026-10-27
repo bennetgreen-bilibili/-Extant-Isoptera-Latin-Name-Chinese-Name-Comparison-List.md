@@ -27,25 +27,31 @@ synonym_localities: "China: Guangdong Province: Dinghu Mountain: Zhaoqing City"
 
 **广州散白蚁**（*Reticulitermes guangzhouensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ping 于 1985 年描述，模式产地为 China: Guangdong Province: Guangzhou。分布记录包括中国。本站记录本种有 1 个次异名。
 
+EN — **广州散白蚁** (*Reticulitermes guangzhouensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Ping in 1985; the type locality is China: Guangdong Province: Guangzhou. Distribution: China. This site records 1 junior synonym for the species.
+
+ES — **广州散白蚁** (*Reticulitermes guangzhouensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Ping en 1985; la localidad tipo es China: Guangdong Province: Guangzhou. Distribución: China. Este sitio registra 1 sinónimo junior para la especie.
+
 ## 分类位置
 
-- **支系 Clade**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
-- **科 Family**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种
-- **属 Genus**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种
-- **本属模式种**：*Reticulitermes flavipes*
+- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
+- **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
 ## 分布
 
 - **分布记录**：中国
-- **英文记录**：China
+- **英文记录 English record / Registro en inglés**：China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
 ## 次异名
 
-本站记录本种有 1 个次异名（junior synonyms），按原始文献出处列出：
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Reticulitermes dichrous* Ping, 1985: 324-325, 328 —— 模式产地：China: Guangdong Province: Dinghu Mountain: Zhaoqing City
 
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Reticulitermes dichrous* 出现，本站统一归入 *Reticulitermes guangzhouensis*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Reticulitermes dichrous*; this site treats it under *Reticulitermes guangzhouensis*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Reticulitermes dichrous*; este sitio lo reúne bajo *Reticulitermes guangzhouensis*.
 <!-- AUTO:END -->
