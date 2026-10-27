@@ -179,6 +179,7 @@ a{color:var(--accent)}
 .species-fact dd{margin:0;line-height:1.6}
 .fact-zh{color:var(--ink)}
 .fact-en{color:var(--muted);font-size:.9em;font-weight:400}
+.fact-es{color:var(--muted);font-size:.9em;font-weight:400}
 .synonym-list,.synonym-localities{margin:.3em 0 .3em 1.25em;padding:0}
 .synonym-list li,.synonym-localities li{margin:.18em 0;line-height:1.55}
 .synonym-localities-label{margin:.7em 0 .15em;font-weight:600}

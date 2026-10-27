@@ -3,29 +3,29 @@ layout: default
 ---
 <article class="species-page">
   <nav class="species-crumbs" aria-label="分类位置">
-    <a href="{{ site.base_url }}/list/">名录</a>
+    <a href="{{ site.base_url }}/list/">名录 <span class="fact-en" lang="en">List</span> <span class="fact-es" lang="es">Listado</span></a>
     › <a href="{{ site.base_url }}/list/#{{ page.family_id }}">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/list/#{{ page.subfamily_id }}">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/list/#{{ page.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a>
   </nav>
 
   <h1 class="species-title"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh">{{ page.zh }}</span></h1>
 
-  <p class="species-meta">{% if page.rank == 'subspecies' %}亚种 <span class="fact-en">Subspecies</span>{% else %}种 <span class="fact-en">Species</span>{% endif %}{% if page.type %} · <span class="species-type-mark">* 模式种 <span class="fact-en">Type species</span></span>{% endif %}</p>
+  <p class="species-meta">{% if page.rank == 'subspecies' %}亚种 <span class="fact-en" lang="en">Subspecies</span> <span class="fact-es" lang="es">Subespecie</span>{% else %}种 <span class="fact-en" lang="en">Species</span> <span class="fact-es" lang="es">Especie</span>{% endif %}{% if page.type %} · <span class="species-type-mark">* 模式种 <span class="fact-en" lang="en">Type species</span> <span class="fact-es" lang="es">Especie tipo</span></span>{% endif %}</p>
 
   {% if page.rank == 'subspecies' %}
-  <p class="species-parent">隶属 <span class="fact-en">Parent species</span>：<a href="{{ site.base_url }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i> {{ page.parent_zh }}</a></p>
+  <p class="species-parent">隶属 <span class="fact-en" lang="en">Parent species</span> <span class="fact-es" lang="es">Especie parental</span>：<a href="{{ site.base_url }}/species/{{ page.parent_slug }}/"><i>{{ page.parent_latin }}</i> {{ page.parent_zh }}</a></p>
   {% endif %}
 
   <dl class="species-facts">
     {% if page.type_locality %}
     <div class="species-fact">
-      <dt>模式产地 <span class="fact-en">Type locality</span></dt>
+      <dt>模式产地 <span class="fact-en" lang="en">Type locality</span> <span class="fact-es" lang="es">Localidad tipo</span></dt>
       <dd>{{ page.type_locality }}</dd>
     </div>
     {% endif %}
 
     {% if page.distribution_zh or page.distribution_en %}
     <div class="species-fact">
-      <dt>分布 <span class="fact-en">Distribution</span></dt>
+      <dt>分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span></dt>
       <dd>
         {% if page.distribution_zh %}<div class="fact-zh">{{ page.distribution_zh }}</div>{% endif %}
         {% if page.distribution_en %}<div class="fact-en">{{ page.distribution_en }}</div>{% endif %}
@@ -44,7 +44,7 @@ layout: default
   {%- if page.rank != 'subspecies' -%}{%- assign sibling_total = sibling_total | minus: 1 -%}{%- endif -%}
   {%- if sibling_total > 0 -%}
   <section class="species-siblings" aria-labelledby="siblings-title">
-    <h2 id="siblings-title" class="siblings-title">同属其他种 <span class="fact-en">Other species in {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} 种）</span></h2>
+    <h2 id="siblings-title" class="siblings-title">同属其他种 <span class="fact-en" lang="en">Other species in {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} 种）</span> <span class="fact-es" lang="es">Otras especies de {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} especies）</span></h2>
     <ul class="sibling-list">
       {%- assign shown = 0 -%}
       {%- for sp in genus_siblings -%}
