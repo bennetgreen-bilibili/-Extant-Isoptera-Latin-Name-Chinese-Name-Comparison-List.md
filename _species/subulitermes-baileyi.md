@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**贝利锥白蚁**（*Subulitermes baileyi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）锥白蚁属（*Subulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、委内瑞拉、法属圭亚那、哥伦比亚、哥斯达黎加、特立尼达和多巴哥、玻利维亚、厄瓜多尔、圭亚那。
+**贝利锥白蚁**（*Subulitermes baileyi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）锥白蚁属（*Subulitermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、委内瑞拉、法属圭亚那、哥伦比亚、哥斯达黎加、特立尼达和多巴哥、玻利维亚、厄瓜多尔、圭亚那。
 
-EN — **贝利锥白蚁** (*Subulitermes baileyi*) is a species of the genus *Subulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Venezuela, French Guiana, Colombia, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guyana.
+EN — **贝利锥白蚁** (*Subulitermes baileyi*) is a species of the genus *Subulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Venezuela, French Guiana, Colombia, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guyana.
 
-ES — **贝利锥白蚁** (*Subulitermes baileyi*) es una especie del género *Subulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, Venezuela, French Guiana, Colombia, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guyana.
+ES — **贝利锥白蚁** (*Subulitermes baileyi*) es una especie del género *Subulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, Venezuela, French Guiana, Colombia, Costa Rica, Trinidad and Tobago, Bolivia, Ecuador, Guyana.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[锥白蚁属 *Subulitermes*]({{ site.base_url }}/list/#subulitermes) —— 共 6 种（6 species · 6 especies）

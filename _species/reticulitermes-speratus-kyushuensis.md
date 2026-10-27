@@ -24,15 +24,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**九州亚种**（*Reticulitermes speratus kyushuensis*）是栖北散白蚁（*Reticulitermes speratus*）的一个亚种，隶属异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Morimoto 于 1968 年描述，模式产地为 Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii。本页暂无单列的分布记录，母种 *Reticulitermes speratus* 的分布见下文「分布」一节。
+**九州亚种**（*Reticulitermes speratus kyushuensis*）是栖北散白蚁（*Reticulitermes speratus*）的一个亚种，隶属异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）。本亚种由 Morimoto 于 1968 年描述，模式产地为 Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii。本页暂无单列的分布记录，母种 *Reticulitermes speratus* 的分布见下文「分布」一节。
 
-EN — **九州亚种** (*Reticulitermes speratus kyushuensis*) is a subspecies of *Reticulitermes speratus*, in the family HETEROTERMITIDAE, genus *Reticulitermes*, belonging to the clade Geoisoptera. The subspecies was described by Morimoto in 1968; the type locality is Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii. No separate distribution record is listed on this page; see the parent species *Reticulitermes speratus*.
+EN — **九州亚种** (*Reticulitermes speratus kyushuensis*) is a subspecies of *Reticulitermes speratus*, in the family HETEROTERMITIDAE, genus *Reticulitermes*. The subspecies was described by Morimoto in 1968; the type locality is Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii. No separate distribution record is listed on this page; see the parent species *Reticulitermes speratus*.
 
-ES — **九州亚种** (*Reticulitermes speratus kyushuensis*) es una subespecie de *Reticulitermes speratus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes speratus*.
+ES — **九州亚种** (*Reticulitermes speratus kyushuensis*) es una subespecie de *Reticulitermes speratus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes speratus*.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **种 Species / Especie**：[栖北散白蚁 *Reticulitermes speratus*]({{ site.base_url }}/species/reticulitermes-speratus/)

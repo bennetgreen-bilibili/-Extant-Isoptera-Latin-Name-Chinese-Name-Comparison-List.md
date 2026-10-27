@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍斯前钩白蚁**（*Prohamitermes hosei*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）前钩白蚁属（*Prohamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Desneux 于 1906 年描述，模式产地为 Malaysia: Sarawak。分布记录包括婆罗洲、印度尼西亚、马来西亚。
+**霍斯前钩白蚁**（*Prohamitermes hosei*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）前钩白蚁属（*Prohamitermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 Malaysia: Sarawak。分布记录包括婆罗洲、印度尼西亚、马来西亚。
 
-EN — **霍斯前钩白蚁** (*Prohamitermes hosei*) is a species of the genus *Prohamitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Desneux in 1906; the type locality is Malaysia: Sarawak. Distribution: Borneo, Indonesia, Malaysia.
+EN — **霍斯前钩白蚁** (*Prohamitermes hosei*) is a species of the genus *Prohamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Desneux in 1906; the type locality is Malaysia: Sarawak. Distribution: Borneo, Indonesia, Malaysia.
 
-ES — **霍斯前钩白蚁** (*Prohamitermes hosei*) es una especie del género *Prohamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Desneux en 1906; la localidad tipo es Malaysia: Sarawak. Distribución: Borneo, Indonesia, Malaysia.
+ES — **霍斯前钩白蚁** (*Prohamitermes hosei*) es una especie del género *Prohamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Desneux en 1906; la localidad tipo es Malaysia: Sarawak. Distribución: Borneo, Indonesia, Malaysia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[前钩白蚁属 *Prohamitermes*]({{ site.base_url }}/list/#prohamitermes) —— 共 2 种（2 species · 2 especies）

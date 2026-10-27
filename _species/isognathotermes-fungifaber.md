@@ -28,15 +28,14 @@ synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Cameroon: Bip
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**菌匠等颚白蚁**（*Isognathotermes fungifaber*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian。分布记录包括非洲热带。本站记录本种有 4 个次异名。
+**菌匠等颚白蚁**（*Isognathotermes fungifaber*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian。分布记录包括非洲热带。本站记录本种有 4 个次异名。
 
-EN — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1896; the type locality is Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian. Distribution: tropical Africa. This site records 4 junior synonyms for the species.
+EN — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Sjöstedt in 1896; the type locality is Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian. Distribution: tropical Africa. This site records 4 junior synonyms for the species.
 
-ES — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian. Distribución: tropical Africa. Este sitio registra 4 sinónimos junior para la especie.
+ES — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian. Distribución: tropical Africa. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 9 种（9 species · 9 especies）

@@ -28,15 +28,14 @@ synonym_localities: "Ethiopia: Murlè"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**伦伯格弓白蚁**（*Amitermes loennbergianus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1911 年描述，模式产地为 Kenya: somewhat north of Guaso Nyero。分布记录包括厄立特里亚、埃塞俄比亚、肯尼亚、索马里、坦桑尼亚、乌干达、也门。本站记录本种有 1 个次异名。
+**伦伯格弓白蚁**（*Amitermes loennbergianus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Kenya: somewhat north of Guaso Nyero。分布记录包括厄立特里亚、埃塞俄比亚、肯尼亚、索马里、坦桑尼亚、乌干达、也门。本站记录本种有 1 个次异名。
 
-EN — **伦伯格弓白蚁** (*Amitermes loennbergianus*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1911; the type locality is Kenya: somewhat north of Guaso Nyero. Distribution: Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen. This site records 1 junior synonym for the species.
+EN — **伦伯格弓白蚁** (*Amitermes loennbergianus*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Sjöstedt in 1911; the type locality is Kenya: somewhat north of Guaso Nyero. Distribution: Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen. This site records 1 junior synonym for the species.
 
-ES — **伦伯格弓白蚁** (*Amitermes loennbergianus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Kenya: somewhat north of Guaso Nyero. Distribución: Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen. Este sitio registra 1 sinónimo junior para la especie.
+ES — **伦伯格弓白蚁** (*Amitermes loennbergianus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Kenya: somewhat north of Guaso Nyero. Distribución: Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/list/#amitermes) —— 共 113 种（113 species · 113 especies）

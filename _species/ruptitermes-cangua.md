@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**圆头腹爆白蚁**（*Ruptitermes cangua*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Acioli & Constantino 于 2015 年描述，模式产地为 Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]。分布记录包括南美洲、法属圭亚那、巴西。
+**圆头腹爆白蚁**（*Ruptitermes cangua*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）腹爆白蚁属（*Ruptitermes*）的一种。本种由 Acioli & Constantino 于 2015 年描述，模式产地为 Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]。分布记录包括南美洲、法属圭亚那、巴西。
 
-EN — **圆头腹爆白蚁** (*Ruptitermes cangua*) is a species of the genus *Ruptitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Acioli & Constantino in 2015; the type locality is Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]. Distribution: South America, French Guiana, Brazil.
+EN — **圆头腹爆白蚁** (*Ruptitermes cangua*) is a species of the genus *Ruptitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Acioli & Constantino in 2015; the type locality is Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]. Distribution: South America, French Guiana, Brazil.
 
-ES — **圆头腹爆白蚁** (*Ruptitermes cangua*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Acioli & Constantino en 2015; la localidad tipo es Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]. Distribución: South America, French Guiana, Brazil.
+ES — **圆头腹爆白蚁** (*Ruptitermes cangua*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Acioli & Constantino en 2015; la localidad tipo es Brasil: Rondônia: Vilhena \[ 12.8S 60.1W \]. Distribución: South America, French Guiana, Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[腹爆白蚁属 *Ruptitermes*]({{ site.base_url }}/list/#ruptitermes) —— 共 13 种（13 species · 13 especies）

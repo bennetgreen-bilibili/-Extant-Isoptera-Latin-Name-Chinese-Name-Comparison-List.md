@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**穆维盖拉前白蚁**（*Protermes mwekerae*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ruelle 于 1971 年描述，模式产地为 Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve。分布记录包括安哥拉、赞比亚。
+**穆维盖拉前白蚁**（*Protermes mwekerae*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种。本种由 Ruelle 于 1971 年描述，模式产地为 Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve。分布记录包括安哥拉、赞比亚。
 
-EN — **穆维盖拉前白蚁** (*Protermes mwekerae*) is a species of the genus *Protermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Ruelle in 1971; the type locality is Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve. Distribution: Angola, Zambia.
+EN — **穆维盖拉前白蚁** (*Protermes mwekerae*) is a species of the genus *Protermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Ruelle in 1971; the type locality is Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve. Distribution: Angola, Zambia.
 
-ES — **穆维盖拉前白蚁** (*Protermes mwekerae*) es una especie del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ruelle en 1971; la localidad tipo es Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve. Distribución: Angola, Zambia.
+ES — **穆维盖拉前白蚁** (*Protermes mwekerae*) es una especie del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ruelle en 1971; la localidad tipo es Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve. Distribución: Angola, Zambia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[前白蚁属 *Protermes*]({{ site.base_url }}/list/#protermes) —— 共 5 种（5 species · 5 especies）

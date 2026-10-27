@@ -28,15 +28,14 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Sankisia; South 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**明翼大白蚁**（*Macrotermes vitrialatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1899 年描述，模式产地为 Democratic Republic of the Congo: "an Bord" (at the border)。分布记录包括旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 5 个次异名。
+**明翼大白蚁**（*Macrotermes vitrialatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Democratic Republic of the Congo: "an Bord" (at the border)。分布记录包括旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 5 个次异名。
 
-EN — **明翼大白蚁** (*Macrotermes vitrialatus*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1899; the type locality is Democratic Republic of the Congo: "an Bord" (at the border). Distribution: Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. This site records 5 junior synonyms for the species.
+EN — **明翼大白蚁** (*Macrotermes vitrialatus*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1899; the type locality is Democratic Republic of the Congo: "an Bord" (at the border). Distribution: Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. This site records 5 junior synonyms for the species.
 
-ES — **明翼大白蚁** (*Macrotermes vitrialatus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Democratic Republic of the Congo: "an Bord" (at the border). Distribución: Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. Este sitio registra 5 sinónimos junior para la especie.
+ES — **明翼大白蚁** (*Macrotermes vitrialatus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Democratic Republic of the Congo: "an Bord" (at the border). Distribución: Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. Este sitio registra 5 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/list/#macrotermes) —— 共 57 种（57 species · 57 especies）

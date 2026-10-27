@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**李氏散白蚁**（*Reticulitermes lii*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ping & Huang 于 1993 年描述，模式产地为 China: Hubei Province: Chibi, Puqi City。分布记录包括中国。
+**李氏散白蚁**（*Reticulitermes lii*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Ping & Huang 于 1993 年描述，模式产地为 China: Hubei Province: Chibi, Puqi City。分布记录包括中国。
 
-EN — **李氏散白蚁** (*Reticulitermes lii*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Ping & Huang in 1993; the type locality is China: Hubei Province: Chibi, Puqi City. Distribution: China.
+EN — **李氏散白蚁** (*Reticulitermes lii*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Ping & Huang in 1993; the type locality is China: Hubei Province: Chibi, Puqi City. Distribution: China.
 
-ES — **李氏散白蚁** (*Reticulitermes lii*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Ping & Huang en 1993; la localidad tipo es China: Hubei Province: Chibi, Puqi City. Distribución: China.
+ES — **李氏散白蚁** (*Reticulitermes lii*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Huang en 1993; la localidad tipo es China: Hubei Province: Chibi, Puqi City. Distribución: China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

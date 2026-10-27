@@ -28,15 +28,14 @@ synonym_localities: "South Africa: Natal: Haviland Rail"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**简单鳞白蚁**（*Lepidotermes simplex*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti。分布记录包括非洲南部、南非。本站记录本种有 1 个次异名。
+**简单鳞白蚁**（*Lepidotermes simplex*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti。分布记录包括非洲南部、南非。本站记录本种有 1 个次异名。
 
-EN — **简单鳞白蚁** (*Lepidotermes simplex*) is a species of the genus *Lepidotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1913; the type locality is South Africa: Natal: Amanzimtoti. Distribution: southern Africa, South Africa. This site records 1 junior synonym for the species.
+EN — **简单鳞白蚁** (*Lepidotermes simplex*) is a species of the genus *Lepidotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Natal: Amanzimtoti. Distribution: southern Africa, South Africa. This site records 1 junior synonym for the species.
 
-ES — **简单鳞白蚁** (*Lepidotermes simplex*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Natal: Amanzimtoti. Distribución: southern Africa, South Africa. Este sitio registra 1 sinónimo junior para la especie.
+ES — **简单鳞白蚁** (*Lepidotermes simplex*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Natal: Amanzimtoti. Distribución: southern Africa, South Africa. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[鳞白蚁属 *Lepidotermes*]({{ site.base_url }}/list/#lepidotermes) —— 共 9 种（9 species · 9 especies）

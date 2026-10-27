@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具戟戟白蚁**（*Armitermes armiger*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）戟白蚁属（*Armitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴拿马、哥斯达黎加。
+**具戟戟白蚁**（*Armitermes armiger*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）戟白蚁属（*Armitermes*）的一种，也是本属的模式种。本种由 Motschulsky 于 1855 年描述，模式产地为 Panama: Obispo。分布记录包括巴拿马、哥斯达黎加。
 
-EN — **具戟戟白蚁** (*Armitermes armiger*) is a species and the type species of its genus of the genus *Armitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Motschulsky in 1855; the type locality is Panama: Obispo. Distribution: Panama, Costa Rica.
+EN — **具戟戟白蚁** (*Armitermes armiger*) is a species and the type species of its genus of the genus *Armitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Motschulsky in 1855; the type locality is Panama: Obispo. Distribution: Panama, Costa Rica.
 
-ES — **具戟戟白蚁** (*Armitermes armiger*) es una especie, y la especie tipo de su género del género *Armitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución: Panama, Costa Rica.
+ES — **具戟戟白蚁** (*Armitermes armiger*) es una especie, y la especie tipo de su género del género *Armitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución: Panama, Costa Rica.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[戟白蚁属 *Armitermes*]({{ site.base_url }}/list/#armitermes) —— 共 3 种（3 species · 3 especies）

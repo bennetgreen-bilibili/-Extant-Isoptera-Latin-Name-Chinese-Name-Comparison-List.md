@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**加拉帕戈斯楹白蚁**（*Incisitermes galapagoensis*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Banks 于 1901 年描述，模式产地为 Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]。分布记录包括厄瓜多尔。
+**加拉帕戈斯楹白蚁**（*Incisitermes galapagoensis*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Banks 于 1901 年描述，模式产地为 Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]。分布记录包括厄瓜多尔。
 
-EN — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Banks in 1901; the type locality is Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribution: Ecuador.
+EN — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1901; the type locality is Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribution: Ecuador.
 
-ES — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Banks en 1901; la localidad tipo es Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribución: Ecuador.
+ES — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1901; la localidad tipo es Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribución: Ecuador.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

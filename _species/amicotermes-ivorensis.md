@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**象牙海岸善白蚁**（*Amicotermes ivorensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）善白蚁属（*Amicotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sands 于 1999 年描述，模式产地为 Ivory Coast: near Ndouci。分布记录包括喀麦隆、科特迪瓦。
+**象牙海岸善白蚁**（*Amicotermes ivorensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）善白蚁属（*Amicotermes*）的一种。本种由 Sands 于 1999 年描述，模式产地为 Ivory Coast: near Ndouci。分布记录包括喀麦隆、科特迪瓦。
 
-EN — **象牙海岸善白蚁** (*Amicotermes ivorensis*) is a species of the genus *Amicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Sands in 1999; the type locality is Ivory Coast: near Ndouci. Distribution: Cameroon, Ivory Coast.
+EN — **象牙海岸善白蚁** (*Amicotermes ivorensis*) is a species of the genus *Amicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1999; the type locality is Ivory Coast: near Ndouci. Distribution: Cameroon, Ivory Coast.
 
-ES — **象牙海岸善白蚁** (*Amicotermes ivorensis*) es una especie del género *Amicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sands en 1999; la localidad tipo es Ivory Coast: near Ndouci. Distribución: Cameroon, Ivory Coast.
+ES — **象牙海岸善白蚁** (*Amicotermes ivorensis*) es una especie del género *Amicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1999; la localidad tipo es Ivory Coast: near Ndouci. Distribución: Cameroon, Ivory Coast.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[善白蚁属 *Amicotermes*]({{ site.base_url }}/list/#amicotermes) —— 共 12 种（12 species · 12 especies）

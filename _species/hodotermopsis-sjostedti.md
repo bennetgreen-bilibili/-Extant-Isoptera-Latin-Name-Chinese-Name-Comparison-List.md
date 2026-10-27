@@ -25,15 +25,14 @@ synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan Co
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（HODOTERMOPSIDAE）原白蚁属（*Hodotermopsis*）的现存唯一种，隶属远等翅类（Teletisoptera）。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本站记录本种有 5 个次异名。
+**山林原白蚁**（*Hodotermopsis sjostedti*）是原白蚁科（HODOTERMOPSIDAE）原白蚁属（*Hodotermopsis*）的现存唯一种。本种由 Holmgren 于 1911 年描述，模式产地为 Vietnam: Tonkin: Montes Mauson。分布记录包括日本、中国台湾、中国南部、越南。本站记录本种有 5 个次异名。
 
-EN — **山林原白蚁** (*Hodotermopsis sjostedti*) is the only extant species of the genus *Hodotermopsis*, in the family HODOTERMOPSIDAE, belonging to the clade Teletisoptera. The species was described by Holmgren in 1911; the type locality is Vietnam: Tonkin: Montes Mauson. Distribution: Japan, China (Taiwan), southern China, Vietnam. This site records 5 junior synonyms for the species.
+EN — **山林原白蚁** (*Hodotermopsis sjostedti*) is the only extant species of the genus *Hodotermopsis*, in the family HODOTERMOPSIDAE. The species was described by Holmgren in 1911; the type locality is Vietnam: Tonkin: Montes Mauson. Distribution: Japan, China (Taiwan), southern China, Vietnam. This site records 5 junior synonyms for the species.
 
-ES — **山林原白蚁** (*Hodotermopsis sjostedti*) es la única especie viviente del género *Hodotermopsis*, en la familia HODOTERMOPSIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Holmgren en 1911; la localidad tipo es Vietnam: Tonkin: Montes Mauson. Distribución: Japan, China (Taiwan), southern China, Vietnam. Este sitio registra 5 sinónimos junior para la especie.
+ES — **山林原白蚁** (*Hodotermopsis sjostedti*) es la única especie viviente del género *Hodotermopsis*, en la familia HODOTERMOPSIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Vietnam: Tonkin: Montes Mauson. Distribución: Japan, China (Taiwan), southern China, Vietnam. Este sitio registra 5 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/list/#hodotermopsidae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
 - **属 Genus / Género**：[原白蚁属 *Hodotermopsis*]({{ site.base_url }}/list/#hodotermopsis) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

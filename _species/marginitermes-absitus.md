@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**遥远边白蚁**（*Marginitermes absitus*）是木白蚁科（KALOTERMITIDAE）边白蚁属（*Marginitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Scheffrahn 于 2013 年描述，模式产地为 Australia: Queensland: Cape York Peninsula。分布记录包括澳大利亚。
+**遥远边白蚁**（*Marginitermes absitus*）是木白蚁科（KALOTERMITIDAE）边白蚁属（*Marginitermes*）的一种。本种由 Scheffrahn 于 2013 年描述，模式产地为 Australia: Queensland: Cape York Peninsula。分布记录包括澳大利亚。
 
-EN — **遥远边白蚁** (*Marginitermes absitus*) is a species of the genus *Marginitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Scheffrahn in 2013; the type locality is Australia: Queensland: Cape York Peninsula. Distribution: Australia.
+EN — **遥远边白蚁** (*Marginitermes absitus*) is a species of the genus *Marginitermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn in 2013; the type locality is Australia: Queensland: Cape York Peninsula. Distribution: Australia.
 
-ES — **遥远边白蚁** (*Marginitermes absitus*) es una especie del género *Marginitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Scheffrahn en 2013; la localidad tipo es Australia: Queensland: Cape York Peninsula. Distribución: Australia.
+ES — **遥远边白蚁** (*Marginitermes absitus*) es una especie del género *Marginitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2013; la localidad tipo es Australia: Queensland: Cape York Peninsula. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[边白蚁属 *Marginitermes*]({{ site.base_url }}/list/#marginitermes) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Marginitermes hubbardi*

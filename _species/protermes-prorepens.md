@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**前匍前白蚁**（*Protermes prorepens*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括安哥拉、喀麦隆、中非共和国、刚果民主共和国、加蓬、科特迪瓦、利比里亚、尼日利亚、塞拉利昂。
+**前匍前白蚁**（*Protermes prorepens*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）前白蚁属（*Protermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括安哥拉、喀麦隆、中非共和国、刚果民主共和国、加蓬、科特迪瓦、利比里亚、尼日利亚、塞拉利昂。
 
-EN — **前匍前白蚁** (*Protermes prorepens*) is a species and the type species of its genus of the genus *Protermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1907; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone.
+EN — **前匍前白蚁** (*Protermes prorepens*) is a species and the type species of its genus of the genus *Protermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1907; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone.
 
-ES — **前匍前白蚁** (*Protermes prorepens*) es una especie, y la especie tipo de su género del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone.
+ES — **前匍前白蚁** (*Protermes prorepens*) es una especie, y la especie tipo de su género del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[前白蚁属 *Protermes*]({{ site.base_url }}/list/#protermes) —— 共 5 种（5 species · 5 especies）

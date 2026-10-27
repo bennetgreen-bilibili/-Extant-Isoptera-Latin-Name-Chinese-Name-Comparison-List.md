@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**景洪须白蚁**（*Hospitalitermes jinghongensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）须白蚁属（*Hospitalitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 He & Gao 于 1984 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括中国云南、景洪。
+**景洪须白蚁**（*Hospitalitermes jinghongensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）须白蚁属（*Hospitalitermes*）的一种。本种由 He & Gao 于 1984 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括中国云南、景洪。
 
-EN — **景洪须白蚁** (*Hospitalitermes jinghongensis*) is a species of the genus *Hospitalitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by He & Gao in 1984; the type locality is China: Yunnan Province: Jinghong. Distribution: China (Yunnan), Jinghong.
+EN — **景洪须白蚁** (*Hospitalitermes jinghongensis*) is a species of the genus *Hospitalitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by He & Gao in 1984; the type locality is China: Yunnan Province: Jinghong. Distribution: China (Yunnan), Jinghong.
 
-ES — **景洪须白蚁** (*Hospitalitermes jinghongensis*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por He & Gao en 1984; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan), Jinghong.
+ES — **景洪须白蚁** (*Hospitalitermes jinghongensis*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por He & Gao en 1984; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan), Jinghong.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[须白蚁属 *Hospitalitermes*]({{ site.base_url }}/list/#hospitalitermes) —— 共 37 种（37 species · 37 especies）

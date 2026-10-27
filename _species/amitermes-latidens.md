@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽齿弓白蚁**（*Amitermes latidens*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cape York Peninsula, Alice River。分布记录包括澳大利亚。
+**宽齿弓白蚁**（*Amitermes latidens*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cape York Peninsula, Alice River。分布记录包括澳大利亚。
 
-EN — **宽齿弓白蚁** (*Amitermes latidens*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Cape York Peninsula, Alice River. Distribution: Australia.
+EN — **宽齿弓白蚁** (*Amitermes latidens*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Cape York Peninsula, Alice River. Distribution: Australia.
 
-ES — **宽齿弓白蚁** (*Amitermes latidens*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Cape York Peninsula, Alice River. Distribución: Australia.
+ES — **宽齿弓白蚁** (*Amitermes latidens*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Cape York Peninsula, Alice River. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/list/#amitermes) —— 共 113 种（113 species · 113 especies）

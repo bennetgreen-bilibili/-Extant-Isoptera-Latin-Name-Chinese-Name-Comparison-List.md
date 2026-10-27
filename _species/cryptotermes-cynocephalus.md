@@ -25,15 +25,14 @@ synonym_localities: "Indonesia: Java: Bogor"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**犬头堆砂白蚁**（*Cryptotermes cynocephalus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Light 于 1921 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括菲律宾至澳大利亚、热带、印度尼西亚、马来西亚、夏威夷（美国）、巴布亚新几内亚、斯里兰卡。本站记录本种有 1 个次异名。
+**犬头堆砂白蚁**（*Cryptotermes cynocephalus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Light 于 1921 年描述，模式产地为 Philippines: Luzon: Manila。分布记录包括菲律宾至澳大利亚、热带、印度尼西亚、马来西亚、夏威夷（美国）、巴布亚新几内亚、斯里兰卡。本站记录本种有 1 个次异名。
 
-EN — **犬头堆砂白蚁** (*Cryptotermes cynocephalus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Light in 1921; the type locality is Philippines: Luzon: Manila. Distribution: Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka. This site records 1 junior synonym for the species.
+EN — **犬头堆砂白蚁** (*Cryptotermes cynocephalus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Light in 1921; the type locality is Philippines: Luzon: Manila. Distribution: Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka. This site records 1 junior synonym for the species.
 
-ES — **犬头堆砂白蚁** (*Cryptotermes cynocephalus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Light en 1921; la localidad tipo es Philippines: Luzon: Manila. Distribución: Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
+ES — **犬头堆砂白蚁** (*Cryptotermes cynocephalus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1921; la localidad tipo es Philippines: Luzon: Manila. Distribución: Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*

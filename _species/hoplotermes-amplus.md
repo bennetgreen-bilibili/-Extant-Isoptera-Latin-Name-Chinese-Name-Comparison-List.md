@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**广泛武白蚁**（*Hoplotermes amplus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）武白蚁属（*Hoplotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Jala。分布记录包括中美洲及加勒比、墨西哥。
+**广泛武白蚁**（*Hoplotermes amplus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）武白蚁属（*Hoplotermes*）的现存唯一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Jala。分布记录包括中美洲及加勒比、墨西哥。
 
-EN — **广泛武白蚁** (*Hoplotermes amplus*) is the only extant species of the genus *Hoplotermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Light in 1933; the type locality is Mexico: Colima State: Jala. Distribution: Central America and Caribbean, Mexico.
+EN — **广泛武白蚁** (*Hoplotermes amplus*) is the only extant species of the genus *Hoplotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Light in 1933; the type locality is Mexico: Colima State: Jala. Distribution: Central America and Caribbean, Mexico.
 
-ES — **广泛武白蚁** (*Hoplotermes amplus*) es la única especie viviente del género *Hoplotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala. Distribución: Central America and Caribbean, Mexico.
+ES — **广泛武白蚁** (*Hoplotermes amplus*) es la única especie viviente del género *Hoplotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala. Distribución: Central America and Caribbean, Mexico.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[武白蚁属 *Hoplotermes*]({{ site.base_url }}/list/#hoplotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

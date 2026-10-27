@@ -25,15 +25,14 @@ synonym_localities: "Cameroon: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**喀麦隆新白蚁**（*Neotermes camerunensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Sjöstedt 于 1900 年描述，模式产地为 Cameroon: Mungo River。分布记录包括塞内加尔、喀麦隆、尼日利亚、圣多美和普林西比。本站记录本种有 1 个次异名。
+**喀麦隆新白蚁**（*Neotermes camerunensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Cameroon: Mungo River。分布记录包括塞内加尔、喀麦隆、尼日利亚、圣多美和普林西比。本站记录本种有 1 个次异名。
 
-EN — **喀麦隆新白蚁** (*Neotermes camerunensis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Sjöstedt in 1900; the type locality is Cameroon: Mungo River. Distribution: Senegal, Cameroon, Nigeria, São Tomé and Príncipe. This site records 1 junior synonym for the species.
+EN — **喀麦隆新白蚁** (*Neotermes camerunensis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Sjöstedt in 1900; the type locality is Cameroon: Mungo River. Distribution: Senegal, Cameroon, Nigeria, São Tomé and Príncipe. This site records 1 junior synonym for the species.
 
-ES — **喀麦隆新白蚁** (*Neotermes camerunensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Cameroon: Mungo River. Distribución: Senegal, Cameroon, Nigeria, São Tomé and Príncipe. Este sitio registra 1 sinónimo junior para la especie.
+ES — **喀麦隆新白蚁** (*Neotermes camerunensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Cameroon: Mungo River. Distribución: Senegal, Cameroon, Nigeria, São Tomé and Príncipe. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*

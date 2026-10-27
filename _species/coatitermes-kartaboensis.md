@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**卡尔塔波凸鼻白蚁**（*Coatitermes kartaboensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）凸鼻白蚁属（*Coatitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、法属圭亚那、圭亚那、秘鲁。
+**卡尔塔波凸鼻白蚁**（*Coatitermes kartaboensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）凸鼻白蚁属（*Coatitermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、法属圭亚那、圭亚那、秘鲁。
 
-EN — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) is a species of the genus *Coatitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, French Guiana, Guyana, Peru.
+EN — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) is a species of the genus *Coatitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, French Guiana, Guyana, Peru.
 
-ES — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) es una especie del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Guyana, Peru.
+ES — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) es una especie del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Guyana, Peru.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[凸鼻白蚁属 *Coatitermes*]({{ site.base_url }}/list/#coatitermes) —— 共 4 种（4 species · 4 especies）

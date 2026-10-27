@@ -25,15 +25,14 @@ synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolul
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本站记录本种有 16 个次异名。
+**台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本站记录本种有 16 个次异名。
 
-EN — **台湾乳白蚁** (*Coptotermes formosanus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Shiraki in 1909; the type locality is Taiwan: Taipei. Distribution: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. This site records 16 junior synonyms for the species.
+EN — **台湾乳白蚁** (*Coptotermes formosanus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Shiraki in 1909; the type locality is Taiwan: Taipei. Distribution: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. This site records 16 junior synonyms for the species.
 
-ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 16 sinónimos junior para la especie.
+ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 16 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*

@@ -25,15 +25,14 @@ synonym_localities: "South Africa: Natal: Colenso on Tugela River; South Africa:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种，隶属远等翅类（Teletisoptera）。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本站记录本种有 10 个次异名。
+**莫桑比克草白蚁**（*Hodotermes mossambicus*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，也是本属的模式种。本种由 Hagen 于 1853 年描述，模式产地为 Mozambique: ?。分布记录包括非洲南部及东部。本站记录本种有 10 个次异名。
 
-EN — **莫桑比克草白蚁** (*Hodotermes mossambicus*) is a species and the type species of its genus of the genus *Hodotermes*, in the family HODOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Hagen in 1853; the type locality is Mozambique: ?. Distribution: southern and eastern Africa. This site records 10 junior synonyms for the species.
+EN — **莫桑比克草白蚁** (*Hodotermes mossambicus*) is a species and the type species of its genus of the genus *Hodotermes*, in the family HODOTERMITIDAE. The species was described by Hagen in 1853; the type locality is Mozambique: ?. Distribution: southern and eastern Africa. This site records 10 junior synonyms for the species.
 
-ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la especie tipo de su género del género *Hodotermes*, en la familia HODOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
+ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la especie tipo de su género del género *Hodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
 - **属 Genus / Género**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/list/#hodotermes) —— 共 2 种（2 species · 2 especies）
 

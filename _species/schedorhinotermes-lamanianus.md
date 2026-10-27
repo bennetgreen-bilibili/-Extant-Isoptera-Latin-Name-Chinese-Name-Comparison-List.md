@@ -25,15 +25,14 @@ synonym_localities: "Democratic Republic of the Congo: Katanga: Lubumbashi; Moza
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
+**拉曼长鼻白蚁**（*Schedorhinotermes lamanianus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Kingoyi; Mukimbungu。分布记录包括西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
 
-EN — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
+EN — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Sjöstedt in 1911; the type locality is Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
 
-ES — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribución: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
+ES — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribución: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*

@@ -28,15 +28,14 @@ synonym_localities: "Brasil: Rio de Janeiro: Mendes [22.5174S 43.7215W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**异型生白蚁**（*Embiratermes heterotypus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]。分布记录包括巴西、阿根廷、巴拉圭。本站记录本种有 1 个次异名。
+**异型生白蚁**（*Embiratermes heterotypus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]。分布记录包括巴西、阿根廷、巴拉圭。本站记录本种有 1 个次异名。
 
-EN — **异型生白蚁** (*Embiratermes heterotypus*) is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1901; the type locality is Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribution: Brazil, Argentina, Paraguay. This site records 1 junior synonym for the species.
+EN — **异型生白蚁** (*Embiratermes heterotypus*) is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Silvestri in 1901; the type locality is Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribution: Brazil, Argentina, Paraguay. This site records 1 junior synonym for the species.
 
-ES — **异型生白蚁** (*Embiratermes heterotypus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1901; la localidad tipo es Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución: Brazil, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
+ES — **异型生白蚁** (*Embiratermes heterotypus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución: Brazil, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/list/#embiratermes) —— 共 9 种（9 species · 9 especies）

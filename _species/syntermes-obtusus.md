@@ -28,15 +28,14 @@ synonym_localities: "Brasil: Mato Grosso: Cuiabá [15.5961S 56.0967W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**迟钝聚白蚁**（*Syntermes obtusus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1911 年描述，模式产地为 Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]。分布记录包括巴西、巴拉圭、阿根廷、玻利维亚。本站记录本种有 1 个次异名。
+**迟钝聚白蚁**（*Syntermes obtusus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]。分布记录包括巴西、巴拉圭、阿根廷、玻利维亚。本站记录本种有 1 个次异名。
 
-EN — **迟钝聚白蚁** (*Syntermes obtusus*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1911; the type locality is Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]. Distribution: Brazil, Paraguay, Argentina, Bolivia. This site records 1 junior synonym for the species.
+EN — **迟钝聚白蚁** (*Syntermes obtusus*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1911; the type locality is Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]. Distribution: Brazil, Paraguay, Argentina, Bolivia. This site records 1 junior synonym for the species.
 
-ES — **迟钝聚白蚁** (*Syntermes obtusus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1911; la localidad tipo es Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]. Distribución: Brazil, Paraguay, Argentina, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **迟钝聚白蚁** (*Syntermes obtusus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]. Distribución: Brazil, Paraguay, Argentina, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/list/#syntermes) —— 共 23 种（23 species · 23 especies）

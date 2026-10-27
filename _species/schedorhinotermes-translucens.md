@@ -25,15 +25,14 @@ synonym_localities: "Indonesia: Sulawesi; Solomon Islands: Ugi Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**透明长鼻白蚁**（*Schedorhinotermes translucens*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚。本站记录本种有 2 个次异名。
+**透明长鼻白蚁**（*Schedorhinotermes translucens*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚。本站记录本种有 2 个次异名。
 
-EN — **透明长鼻白蚁** (*Schedorhinotermes translucens*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. This site records 2 junior synonyms for the species.
+EN — **透明长鼻白蚁** (*Schedorhinotermes translucens*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. This site records 2 junior synonyms for the species.
 
-ES — **透明长鼻白蚁** (*Schedorhinotermes translucens*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
+ES — **透明长鼻白蚁** (*Schedorhinotermes translucens*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*

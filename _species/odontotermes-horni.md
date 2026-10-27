@@ -28,15 +28,14 @@ synonym_localities: "Sri Lanka: Peradeniya; Sri Lanka: Avisavella; Raltota; Sri 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍恩土白蚁**（*Odontotermes horni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1902 年描述，模式产地为 Sri Lanka: Nalanda。分布记录包括旧热带界印度、斯里兰卡、尼日利亚、不丹、柬埔寨、越南。本站记录本种有 3 个次异名。
+**霍恩土白蚁**（*Odontotermes horni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 Sri Lanka: Nalanda。分布记录包括旧热带界印度、斯里兰卡、尼日利亚、不丹、柬埔寨、越南。本站记录本种有 3 个次异名。
 
-EN — **霍恩土白蚁** (*Odontotermes horni*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1902; the type locality is Sri Lanka: Nalanda. Distribution: Old World tropics, India, Sri Lanka, Nigeria, Bhutan, Cambodia, Vietnam. This site records 3 junior synonyms for the species.
+EN — **霍恩土白蚁** (*Odontotermes horni*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Wasmann in 1902; the type locality is Sri Lanka: Nalanda. Distribution: Old World tropics, India, Sri Lanka, Nigeria, Bhutan, Cambodia, Vietnam. This site records 3 junior synonyms for the species.
 
-ES — **霍恩土白蚁** (*Odontotermes horni*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1902; la localidad tipo es Sri Lanka: Nalanda. Distribución: Old World tropics, India, Sri Lanka, Nigeria, Bhutan, Cambodia, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
+ES — **霍恩土白蚁** (*Odontotermes horni*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es Sri Lanka: Nalanda. Distribución: Old World tropics, India, Sri Lanka, Nigeria, Bhutan, Cambodia, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**森林鼻大白蚁**（*Sinqasapatermes sachae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）鼻大白蚁属（*Sinqasapatermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Cuezzo & Nickle 于 2011 年描述，模式产地为 Peru: Loreto: Arcadia \[1S 75.3W\]。分布记录包括哥伦比亚、厄瓜多尔、秘鲁。
+**森林鼻大白蚁**（*Sinqasapatermes sachae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）鼻大白蚁属（*Sinqasapatermes*）的现存唯一种。本种由 Cuezzo & Nickle 于 2011 年描述，模式产地为 Peru: Loreto: Arcadia \[1S 75.3W\]。分布记录包括哥伦比亚、厄瓜多尔、秘鲁。
 
-EN — **森林鼻大白蚁** (*Sinqasapatermes sachae*) is the only extant species of the genus *Sinqasapatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Cuezzo & Nickle in 2011; the type locality is Peru: Loreto: Arcadia \[1S 75.3W\]. Distribution: Colombia, Ecuador, Peru.
+EN — **森林鼻大白蚁** (*Sinqasapatermes sachae*) is the only extant species of the genus *Sinqasapatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Cuezzo & Nickle in 2011; the type locality is Peru: Loreto: Arcadia \[1S 75.3W\]. Distribution: Colombia, Ecuador, Peru.
 
-ES — **森林鼻大白蚁** (*Sinqasapatermes sachae*) es la única especie viviente del género *Sinqasapatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Cuezzo & Nickle en 2011; la localidad tipo es Peru: Loreto: Arcadia \[1S 75.3W\]. Distribución: Colombia, Ecuador, Peru.
+ES — **森林鼻大白蚁** (*Sinqasapatermes sachae*) es la única especie viviente del género *Sinqasapatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cuezzo & Nickle en 2011; la localidad tipo es Peru: Loreto: Arcadia \[1S 75.3W\]. Distribución: Colombia, Ecuador, Peru.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[鼻大白蚁属 *Sinqasapatermes*]({{ site.base_url }}/list/#sinqasapatermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

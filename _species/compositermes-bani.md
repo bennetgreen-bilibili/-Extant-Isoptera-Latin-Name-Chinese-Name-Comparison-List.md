@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**班恩肠刺白蚁**（*Compositermes bani*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）肠刺白蚁属（*Compositermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Carrijo, Scheffrahn & Křeček 于 2016 年描述，模式产地为 Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]。分布记录包括玻利维亚、巴西。
+**班恩肠刺白蚁**（*Compositermes bani*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）肠刺白蚁属（*Compositermes*）的一种。本种由 Carrijo, Scheffrahn & Křeček 于 2016 年描述，模式产地为 Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]。分布记录包括玻利维亚、巴西。
 
-EN — **班恩肠刺白蚁** (*Compositermes bani*) is a species of the genus *Compositermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Carrijo, Scheffrahn & Křeček in 2016; the type locality is Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]. Distribution: Bolivia, Brazil.
+EN — **班恩肠刺白蚁** (*Compositermes bani*) is a species of the genus *Compositermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Carrijo, Scheffrahn & Křeček in 2016; the type locality is Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]. Distribution: Bolivia, Brazil.
 
-ES — **班恩肠刺白蚁** (*Compositermes bani*) es una especie del género *Compositermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Carrijo, Scheffrahn & Křeček en 2016; la localidad tipo es Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]. Distribución: Bolivia, Brazil.
+ES — **班恩肠刺白蚁** (*Compositermes bani*) es una especie del género *Compositermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Carrijo, Scheffrahn & Křeček en 2016; la localidad tipo es Bolivia: Santa Cruz: Chochis \[ 18.107S 60.086W \]. Distribución: Bolivia, Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[肠刺白蚁属 *Compositermes*]({{ site.base_url }}/list/#compositermes) —— 共 2 种（2 species · 2 especies）

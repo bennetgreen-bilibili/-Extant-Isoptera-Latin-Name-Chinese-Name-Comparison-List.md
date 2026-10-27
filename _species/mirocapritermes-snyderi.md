@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**斯奈德瘤白蚁**（*Mirocapritermes snyderi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）瘤白蚁属（*Mirocapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Akhtar 于 1975 年描述，模式产地为 Bangladesh: Ukhia。分布记录包括孟加拉国。
+**斯奈德瘤白蚁**（*Mirocapritermes snyderi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）瘤白蚁属（*Mirocapritermes*）的一种。本种由 Akhtar 于 1975 年描述，模式产地为 Bangladesh: Ukhia。分布记录包括孟加拉国。
 
-EN — **斯奈德瘤白蚁** (*Mirocapritermes snyderi*) is a species of the genus *Mirocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Akhtar in 1975; the type locality is Bangladesh: Ukhia. Distribution: Bangladesh.
+EN — **斯奈德瘤白蚁** (*Mirocapritermes snyderi*) is a species of the genus *Mirocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Akhtar in 1975; the type locality is Bangladesh: Ukhia. Distribution: Bangladesh.
 
-ES — **斯奈德瘤白蚁** (*Mirocapritermes snyderi*) es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Ukhia. Distribución: Bangladesh.
+ES — **斯奈德瘤白蚁** (*Mirocapritermes snyderi*) es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Ukhia. Distribución: Bangladesh.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[瘤白蚁属 *Mirocapritermes*]({{ site.base_url }}/list/#mirocapritermes) —— 共 8 种（8 species · 8 especies）

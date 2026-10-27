@@ -28,15 +28,14 @@ synonym_localities: "Australia: Queensland: Torrens Creek; Australia: Queensland
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小头锯白蚁**（*Microcerotermes parviceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Colosseum。分布记录包括大洋洲、澳大利亚。本站记录本种有 4 个次异名。
+**小头锯白蚁**（*Microcerotermes parviceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Colosseum。分布记录包括大洋洲、澳大利亚。本站记录本种有 4 个次异名。
 
-EN — **小头锯白蚁** (*Microcerotermes parviceps*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae), belonging to the clade Geoisoptera. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Colosseum. Distribution: Oceania, Australia. This site records 4 junior synonyms for the species.
+EN — **小头锯白蚁** (*Microcerotermes parviceps*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Colosseum. Distribution: Oceania, Australia. This site records 4 junior synonyms for the species.
 
-ES — **小头锯白蚁** (*Microcerotermes parviceps*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Colosseum. Distribución: Oceania, Australia. Este sitio registra 4 sinónimos junior para la especie.
+ES — **小头锯白蚁** (*Microcerotermes parviceps*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Colosseum. Distribución: Oceania, Australia. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
 - **属 Genus / Género**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/list/#microcerotermes) —— 共 148 种（148 species · 148 especies）

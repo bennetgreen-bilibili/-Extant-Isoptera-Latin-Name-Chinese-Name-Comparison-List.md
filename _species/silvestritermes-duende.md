@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**精灵西尔韦斯特里白蚁**（*Silvestritermes duende*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Rocha & Cancello 于 2012 年描述，模式产地为 Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]。分布记录包括巴西。
+**精灵西尔韦斯特里白蚁**（*Silvestritermes duende*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Rocha & Cancello 于 2012 年描述，模式产地为 Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]。分布记录包括巴西。
 
-EN — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) is a species of the genus *Silvestritermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Rocha & Cancello in 2012; the type locality is Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]. Distribution: Brazil.
+EN — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) is a species of the genus *Silvestritermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Rocha & Cancello in 2012; the type locality is Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]. Distribution: Brazil.
 
-ES — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) es una especie del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Rocha & Cancello en 2012; la localidad tipo es Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]. Distribución: Brazil.
+ES — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) es una especie del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rocha & Cancello en 2012; la localidad tipo es Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[西尔韦斯特里白蚁属 *Silvestritermes*]({{ site.base_url }}/list/#silvestritermes) —— 共 7 种（7 species · 7 especies）

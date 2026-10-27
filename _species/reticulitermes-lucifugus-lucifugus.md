@@ -26,15 +26,14 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Reticulitermes lucifugus lucifugus*）是暗黑散白蚁（*Reticulitermes lucifugus*）的一个亚种，隶属异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。本页暂无单列的分布记录，母种 *Reticulitermes lucifugus* 的分布见下文「分布」一节。本站记录本亚种有 5 个次异名。
+**指名亚种**（*Reticulitermes lucifugus lucifugus*）是暗黑散白蚁（*Reticulitermes lucifugus*）的一个亚种，隶属异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）。本亚种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。本页暂无单列的分布记录，母种 *Reticulitermes lucifugus* 的分布见下文「分布」一节。本站记录本亚种有 5 个次异名。
 
-EN — **指名亚种** (*Reticulitermes lucifugus lucifugus*) is a subspecies of *Reticulitermes lucifugus*, in the family HETEROTERMITIDAE, genus *Reticulitermes*, belonging to the clade Geoisoptera. The subspecies was described by Rossi in 1792; the type locality is (country unknown): "Shores of Mediterranean". No separate distribution record is listed on this page; see the parent species *Reticulitermes lucifugus*. This site records 5 junior synonyms for the subspecies.
+EN — **指名亚种** (*Reticulitermes lucifugus lucifugus*) is a subspecies of *Reticulitermes lucifugus*, in the family HETEROTERMITIDAE, genus *Reticulitermes*. The subspecies was described by Rossi in 1792; the type locality is (country unknown): "Shores of Mediterranean". No separate distribution record is listed on this page; see the parent species *Reticulitermes lucifugus*. This site records 5 junior synonyms for the subspecies.
 
-ES — **指名亚种** (*Reticulitermes lucifugus lucifugus*) es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus*. Este sitio registra 5 sinónimos junior para la subespecie.
+ES — **指名亚种** (*Reticulitermes lucifugus lucifugus*) es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus*. Este sitio registra 5 sinónimos junior para la subespecie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **种 Species / Especie**：[暗黑散白蚁 *Reticulitermes lucifugus*]({{ site.base_url }}/species/reticulitermes-lucifugus/)

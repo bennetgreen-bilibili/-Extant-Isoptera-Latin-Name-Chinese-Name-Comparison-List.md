@@ -28,15 +28,14 @@ synonym_localities: "Mozambique: ?; South Africa: Transvaal: Messina; Namibia: O
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**米夏埃尔森大白蚁**（*Macrotermes michaelseni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1914 年描述，模式产地为 Namibia: Okahandja。分布记录包括旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 4 个次异名。
+**米夏埃尔森大白蚁**（*Macrotermes michaelseni*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Namibia: Okahandja。分布记录包括旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 4 个次异名。
 
-EN — **米夏埃尔森大白蚁** (*Macrotermes michaelseni*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1914; the type locality is Namibia: Okahandja. Distribution: Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe. This site records 4 junior synonyms for the species.
+EN — **米夏埃尔森大白蚁** (*Macrotermes michaelseni*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1914; the type locality is Namibia: Okahandja. Distribution: Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe. This site records 4 junior synonyms for the species.
 
-ES — **米夏埃尔森大白蚁** (*Macrotermes michaelseni*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Namibia: Okahandja. Distribución: Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
+ES — **米夏埃尔森大白蚁** (*Macrotermes michaelseni*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Namibia: Okahandja. Distribución: Old World tropics, East Africa, southern Africa, Angola, Botswana, Cameroon, Kenya, Malawi, Mozambique, Namibia, South Africa, Eswatini, Tanzania, Zambia, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/list/#macrotermes) —— 共 57 种（57 species · 57 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**好斗角象白蚁**（*Cornitermes pugnax*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、圭亚那、苏里南、厄瓜多尔、委内瑞拉。
+**好斗角象白蚁**（*Cornitermes pugnax*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、法属圭亚那、哥伦比亚、秘鲁、圭亚那、苏里南、厄瓜多尔、委内瑞拉。
 
-EN — **好斗角象白蚁** (*Cornitermes pugnax*) is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela.
+EN — **好斗角象白蚁** (*Cornitermes pugnax*) is a species of the genus *Cornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela.
 
-ES — **好斗角象白蚁** (*Cornitermes pugnax*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela.
+ES — **好斗角象白蚁** (*Cornitermes pugnax*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Colombia, Peru, Guyana, Suriname, Ecuador, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种（14 species · 14 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**坚硬锯白蚁**（*Microcerotermes solidus*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama。分布记录包括西非、塞内加尔、安哥拉、喀麦隆、刚果民主共和国、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚。
+**坚硬锯白蚁**（*Microcerotermes solidus*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Silvestri 于 1912 年描述，模式产地为 Guinea Bissau: Bolama。分布记录包括西非、塞内加尔、安哥拉、喀麦隆、刚果民主共和国、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚。
 
-EN — **坚硬锯白蚁** (*Microcerotermes solidus*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1912; the type locality is Guinea Bissau: Bolama. Distribution: West Africa, Senegal, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Nigeria.
+EN — **坚硬锯白蚁** (*Microcerotermes solidus*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Silvestri in 1912; the type locality is Guinea Bissau: Bolama. Distribution: West Africa, Senegal, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Nigeria.
 
-ES — **坚硬锯白蚁** (*Microcerotermes solidus*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama. Distribución: West Africa, Senegal, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Nigeria.
+ES — **坚硬锯白蚁** (*Microcerotermes solidus*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama. Distribución: West Africa, Senegal, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Nigeria.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
 - **属 Genus / Género**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/list/#microcerotermes) —— 共 148 种（148 species · 148 especies）

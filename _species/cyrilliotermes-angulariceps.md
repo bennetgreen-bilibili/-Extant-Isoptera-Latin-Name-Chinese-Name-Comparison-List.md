@@ -28,15 +28,14 @@ synonym_localities: "Suriname: Para: Jodensavanne [5.418N 54.969W]; Suriname: Pa
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**角头壶头白蚁**（*Cyrilliotermes angulariceps*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）壶头白蚁属（*Cyrilliotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、苏里南、秘鲁、厄瓜多尔。本站记录本种有 2 个次异名。
+**角头壶头白蚁**（*Cyrilliotermes angulariceps*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）壶头白蚁属（*Cyrilliotermes*）的一种，也是本属的模式种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、苏里南、秘鲁、厄瓜多尔。本站记录本种有 2 个次异名。
 
-EN — **角头壶头白蚁** (*Cyrilliotermes angulariceps*) is a species and the type species of its genus of the genus *Cyrilliotermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador. This site records 2 junior synonyms for the species.
+EN — **角头壶头白蚁** (*Cyrilliotermes angulariceps*) is a species and the type species of its genus of the genus *Cyrilliotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador. This site records 2 junior synonyms for the species.
 
-ES — **角头壶头白蚁** (*Cyrilliotermes angulariceps*) es una especie, y la especie tipo de su género del género *Cyrilliotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador. Este sitio registra 2 sinónimos junior para la especie.
+ES — **角头壶头白蚁** (*Cyrilliotermes angulariceps*) es una especie, y la especie tipo de su género del género *Cyrilliotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: South America, Brazil, Colombia, French Guiana, Suriname, Peru, Ecuador. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[壶头白蚁属 *Cyrilliotermes*]({{ site.base_url }}/list/#cyrilliotermes) —— 共 4 种（4 species · 4 especies）

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**等角堆砂白蚁**（*Cryptotermes aequacornis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Scheffrahn & Krecek 于 1999 年描述，模式产地为 Trinidad and Tobago: San Juan-Laventille: near La Vache Bay \[ 10.746N 61.488W \]。分布记录包括特立尼达和多巴哥、委内瑞拉。
+**等角堆砂白蚁**（*Cryptotermes aequacornis*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Scheffrahn & Krecek 于 1999 年描述，模式产地为 Trinidad and Tobago: San Juan-Laventille: near La Vache Bay \[ 10.746N 61.488W \]。分布记录包括特立尼达和多巴哥、委内瑞拉。
 
-EN — **等角堆砂白蚁** (*Cryptotermes aequacornis*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Scheffrahn & Krecek in 1999; the type locality is Trinidad and Tobago: San Juan-Laventille: near La Vache Bay \[ 10.746N 61.488W \]. Distribution: Trinidad and Tobago, Venezuela.
+EN — **等角堆砂白蚁** (*Cryptotermes aequacornis*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn & Krecek in 1999; the type locality is Trinidad and Tobago: San Juan-Laventille: near La Vache Bay \[ 10.746N 61.488W \]. Distribution: Trinidad and Tobago, Venezuela.
 
-ES — **等角堆砂白蚁** (*Cryptotermes aequacornis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Scheffrahn & Krecek en 1999; la localidad tipo es Trinidad and Tobago: San Juan-Laventille: near La Vache Bay \[ 10.746N 61.488W \]. Distribución: Trinidad and Tobago, Venezuela.
+ES — **等角堆砂白蚁** (*Cryptotermes aequacornis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 1999; la localidad tipo es Trinidad and Tobago: San Juan-Laventille: near La Vache Bay \[ 10.746N 61.488W \]. Distribución: Trinidad and Tobago, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*

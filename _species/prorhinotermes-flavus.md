@@ -25,15 +25,14 @@ synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Pan
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本站记录本种有 9 个次异名。
+**黄色原鼻白蚁**（*Prorhinotermes flavus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Bugnion & Popoff 于 1910 年描述，模式产地为 Sri Lanka: Ambalangoda。分布记录包括东南亚、菲律宾、新加坡、泰国、南亚、印度、斯里兰卡、孟加拉国、中国、印度尼西亚、马来西亚、台湾。本站记录本种有 9 个次异名。
 
-EN — **黄色原鼻白蚁** (*Prorhinotermes flavus*) is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Bugnion & Popoff in 1910; the type locality is Sri Lanka: Ambalangoda. Distribution: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. This site records 9 junior synonyms for the species.
+EN — **黄色原鼻白蚁** (*Prorhinotermes flavus*) is a species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE. The species was described by Bugnion & Popoff in 1910; the type locality is Sri Lanka: Ambalangoda. Distribution: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. This site records 9 junior synonyms for the species.
 
-ES — **黄色原鼻白蚁** (*Prorhinotermes flavus*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Bugnion & Popoff en 1910; la localidad tipo es Sri Lanka: Ambalangoda. Distribución: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. Este sitio registra 9 sinónimos junior para la especie.
+ES — **黄色原鼻白蚁** (*Prorhinotermes flavus*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Bugnion & Popoff en 1910; la localidad tipo es Sri Lanka: Ambalangoda. Distribución: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. Este sitio registra 9 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
 - **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/list/#prorhinotermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Prorhinotermes inopinatus*

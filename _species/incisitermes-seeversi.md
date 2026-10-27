@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西弗斯楹白蚁**（*Incisitermes seeversi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Snyder & Emerson 于 1949 年描述，模式产地为 Mexico: Madre Maria Island。分布记录包括墨西哥、危地马拉。
+**西弗斯楹白蚁**（*Incisitermes seeversi*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder & Emerson 于 1949 年描述，模式产地为 Mexico: Madre Maria Island。分布记录包括墨西哥、危地马拉。
 
-EN — **西弗斯楹白蚁** (*Incisitermes seeversi*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Snyder & Emerson in 1949; the type locality is Mexico: Madre Maria Island. Distribution: Mexico, Guatemala.
+EN — **西弗斯楹白蚁** (*Incisitermes seeversi*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Snyder & Emerson in 1949; the type locality is Mexico: Madre Maria Island. Distribution: Mexico, Guatemala.
 
-ES — **西弗斯楹白蚁** (*Incisitermes seeversi*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Mexico: Madre Maria Island. Distribución: Mexico, Guatemala.
+ES — **西弗斯楹白蚁** (*Incisitermes seeversi*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Mexico: Madre Maria Island. Distribución: Mexico, Guatemala.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

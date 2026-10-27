@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具瘤树白蚁**（*Glyptotermes tuberculatus*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种，也是本属的模式种，隶属近等翅类（Icoisoptera）。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Uralla。分布记录包括澳大利亚、新西兰。
+**具瘤树白蚁**（*Glyptotermes tuberculatus*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种，也是本属的模式种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Uralla。分布记录包括澳大利亚、新西兰。
 
-EN — **具瘤树白蚁** (*Glyptotermes tuberculatus*) is a species and the type species of its genus of the genus *Glyptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Uralla. Distribution: Australia, New Zealand.
+EN — **具瘤树白蚁** (*Glyptotermes tuberculatus*) is a species and the type species of its genus of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Uralla. Distribution: Australia, New Zealand.
 
-ES — **具瘤树白蚁** (*Glyptotermes tuberculatus*) es una especie, y la especie tipo de su género del género *Glyptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Uralla. Distribución: Australia, New Zealand.
+ES — **具瘤树白蚁** (*Glyptotermes tuberculatus*) es una especie, y la especie tipo de su género del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Uralla. Distribución: Australia, New Zealand.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/list/#glyptotermes) —— 共 131 种（131 species · 131 especies）
 

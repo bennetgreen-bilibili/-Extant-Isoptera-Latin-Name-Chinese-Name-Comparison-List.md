@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗曼前角白蚁**（*Procornitermes romani*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1952 年描述，模式产地为 Brasil: Bahia: Itaetê \[12.98S 40.97W\]。分布记录包括巴西。
+**罗曼前角白蚁**（*Procornitermes romani*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Emerson 于 1952 年描述，模式产地为 Brasil: Bahia: Itaetê \[12.98S 40.97W\]。分布记录包括巴西。
 
-EN — **罗曼前角白蚁** (*Procornitermes romani*) is a species of the genus *Procornitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1952; the type locality is Brasil: Bahia: Itaetê \[12.98S 40.97W\]. Distribution: Brazil.
+EN — **罗曼前角白蚁** (*Procornitermes romani*) is a species of the genus *Procornitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Emerson in 1952; the type locality is Brasil: Bahia: Itaetê \[12.98S 40.97W\]. Distribution: Brazil.
 
-ES — **罗曼前角白蚁** (*Procornitermes romani*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: Bahia: Itaetê \[12.98S 40.97W\]. Distribución: Brazil.
+ES — **罗曼前角白蚁** (*Procornitermes romani*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: Bahia: Itaetê \[12.98S 40.97W\]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[前角白蚁属 *Procornitermes*]({{ site.base_url }}/list/#procornitermes) —— 共 5 种（5 species · 5 especies）

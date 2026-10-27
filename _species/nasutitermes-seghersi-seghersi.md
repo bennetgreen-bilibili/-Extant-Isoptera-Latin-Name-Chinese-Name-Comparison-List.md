@@ -27,15 +27,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Nasutitermes seghersi seghersi*）是西格象白蚁（*Nasutitermes seghersi*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: Madang Province: Yoro。本页暂无单列的分布记录，母种 *Nasutitermes seghersi* 的分布见下文「分布」一节。
+**指名亚种**（*Nasutitermes seghersi seghersi*）是西格象白蚁（*Nasutitermes seghersi*）的一个亚种，隶属白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）。本亚种由 Roisin & Pasteels 于 1996 年描述，模式产地为 Papua New Guinea: Madang Province: Yoro。本页暂无单列的分布记录，母种 *Nasutitermes seghersi* 的分布见下文「分布」一节。
 
-EN — **指名亚种** (*Nasutitermes seghersi seghersi*) is a subspecies of *Nasutitermes seghersi*, in the family TERMITIDAE (subfamily Nasutitermitinae), genus *Nasutitermes*, belonging to the clade Geoisoptera. The subspecies was described by Roisin & Pasteels in 1996; the type locality is Papua New Guinea: Madang Province: Yoro. No separate distribution record is listed on this page; see the parent species *Nasutitermes seghersi*.
+EN — **指名亚种** (*Nasutitermes seghersi seghersi*) is a subspecies of *Nasutitermes seghersi*, in the family TERMITIDAE (subfamily Nasutitermitinae), genus *Nasutitermes*. The subspecies was described by Roisin & Pasteels in 1996; the type locality is Papua New Guinea: Madang Province: Yoro. No separate distribution record is listed on this page; see the parent species *Nasutitermes seghersi*.
 
-ES — **指名亚种** (*Nasutitermes seghersi seghersi*) es una subespecie de *Nasutitermes seghersi*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Nasutitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Madang Province: Yoro. No se incluye un registro de distribución separado en esta página; véase la especie parental *Nasutitermes seghersi*.
+ES — **指名亚种** (*Nasutitermes seghersi seghersi*) es una subespecie de *Nasutitermes seghersi*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Nasutitermes*. La subespecie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Madang Province: Yoro. No se incluye un registro de distribución separado en esta página; véase la especie parental *Nasutitermes seghersi*.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）

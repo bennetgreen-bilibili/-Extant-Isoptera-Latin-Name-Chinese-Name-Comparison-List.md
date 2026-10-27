@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**里兹尼利颚白蚁**（*Cortaritermes rizzinii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Araujo 于 1971 年描述，模式产地为 Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]。分布记录包括巴西。
+**里兹尼利颚白蚁**（*Cortaritermes rizzinii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种。本种由 Araujo 于 1971 年描述，模式产地为 Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]。分布记录包括巴西。
 
-EN — **里兹尼利颚白蚁** (*Cortaritermes rizzinii*) is a species of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Araujo in 1971; the type locality is Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]. Distribution: Brazil.
+EN — **里兹尼利颚白蚁** (*Cortaritermes rizzinii*) is a species of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Araujo in 1971; the type locality is Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]. Distribution: Brazil.
 
-ES — **里兹尼利颚白蚁** (*Cortaritermes rizzinii*) es una especie del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Araujo en 1971; la localidad tipo es Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]. Distribución: Brazil.
+ES — **里兹尼利颚白蚁** (*Cortaritermes rizzinii*) es una especie del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Araujo en 1971; la localidad tipo es Brasil: Minas Gerais: Serra do Cipó \[19.27S 43.53W\]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[利颚白蚁属 *Cortaritermes*]({{ site.base_url }}/list/#cortaritermes) —— 共 5 种（5 species · 5 especies）

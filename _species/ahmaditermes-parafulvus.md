@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄色钝颚白蚁**（*Ahmaditermes parafulvus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）钝颚白蚁属（*Ahmaditermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Tsai & Chen 于 1963 年描述，模式产地为 China: Yunnan Province: ChinPing。分布记录包括中国、越南。
+**黄色钝颚白蚁**（*Ahmaditermes parafulvus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）钝颚白蚁属（*Ahmaditermes*）的一种。本种由 Tsai & Chen 于 1963 年描述，模式产地为 China: Yunnan Province: ChinPing。分布记录包括中国、越南。
 
-EN — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) is a species of the genus *Ahmaditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China, Vietnam.
+EN — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) is a species of the genus *Ahmaditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Tsai & Chen in 1963; the type locality is China: Yunnan Province: ChinPing. Distribution: China, Vietnam.
 
-ES — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: China, Vietnam.
+ES — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: China, Vietnam.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[钝颚白蚁属 *Ahmaditermes*]({{ site.base_url }}/list/#ahmaditermes) —— 共 21 种（21 species · 21 especies）

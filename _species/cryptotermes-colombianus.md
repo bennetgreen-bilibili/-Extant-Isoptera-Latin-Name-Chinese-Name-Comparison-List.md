@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**哥伦比亚堆砂白蚁**（*Cryptotermes colombianus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Casalla, Scheffrahn & Korb 于 2016 年描述，模式产地为 Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]。分布记录包括哥伦比亚。
+**哥伦比亚堆砂白蚁**（*Cryptotermes colombianus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Casalla, Scheffrahn & Korb 于 2016 年描述，模式产地为 Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]。分布记录包括哥伦比亚。
 
-EN — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Casalla, Scheffrahn & Korb in 2016; the type locality is Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]. Distribution: Colombia.
+EN — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Casalla, Scheffrahn & Korb in 2016; the type locality is Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]. Distribution: Colombia.
 
-ES — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Casalla, Scheffrahn & Korb en 2016; la localidad tipo es Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]. Distribución: Colombia.
+ES — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Casalla, Scheffrahn & Korb en 2016; la localidad tipo es Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]. Distribución: Colombia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*

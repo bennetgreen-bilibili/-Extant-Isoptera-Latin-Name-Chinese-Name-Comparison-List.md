@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短角球白蚁**（*Globitermes brachycerastes*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Han 于 1987 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括云南（景洪 500 m）、中国。
+**短角球白蚁**（*Globitermes brachycerastes*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种。本种由 Han 于 1987 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括云南（景洪 500 m）、中国。
 
-EN — **短角球白蚁** (*Globitermes brachycerastes*) is a species of the genus *Globitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Han in 1987; the type locality is China: Yunnan Province: Jinghong. Distribution: Yunnan (Jinghong 500 m), China.
+EN — **短角球白蚁** (*Globitermes brachycerastes*) is a species of the genus *Globitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Han in 1987; the type locality is China: Yunnan Province: Jinghong. Distribution: Yunnan (Jinghong 500 m), China.
 
-ES — **短角球白蚁** (*Globitermes brachycerastes*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Han en 1987; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: Yunnan (Jinghong 500 m), China.
+ES — **短角球白蚁** (*Globitermes brachycerastes*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Han en 1987; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: Yunnan (Jinghong 500 m), China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[球白蚁属 *Globitermes*]({{ site.base_url }}/list/#globitermes) —— 共 7 种（7 species · 7 especies）

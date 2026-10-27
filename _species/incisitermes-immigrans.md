@@ -25,15 +25,14 @@ synonym_localities: "United States: Hawaii: Hilo; Panama: Ancon; Kiribati: Phoen
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**移境楹白蚁**（*Incisitermes immigrans*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Snyder 于 1922 年描述，模式产地为 United States: Hawaii: Honolulu, Oahu。分布记录包括中美洲至波利尼西亚。本站记录本种有 3 个次异名。
+**移境楹白蚁**（*Incisitermes immigrans*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Snyder 于 1922 年描述，模式产地为 United States: Hawaii: Honolulu, Oahu。分布记录包括中美洲至波利尼西亚。本站记录本种有 3 个次异名。
 
-EN — **移境楹白蚁** (*Incisitermes immigrans*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Snyder in 1922; the type locality is United States: Hawaii: Honolulu, Oahu. Distribution: Central America to Polynesia. This site records 3 junior synonyms for the species.
+EN — **移境楹白蚁** (*Incisitermes immigrans*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1922; the type locality is United States: Hawaii: Honolulu, Oahu. Distribution: Central America to Polynesia. This site records 3 junior synonyms for the species.
 
-ES — **移境楹白蚁** (*Incisitermes immigrans*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Snyder en 1922; la localidad tipo es United States: Hawaii: Honolulu, Oahu. Distribución: Central America to Polynesia. Este sitio registra 3 sinónimos junior para la especie.
+ES — **移境楹白蚁** (*Incisitermes immigrans*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1922; la localidad tipo es United States: Hawaii: Honolulu, Oahu. Distribución: Central America to Polynesia. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

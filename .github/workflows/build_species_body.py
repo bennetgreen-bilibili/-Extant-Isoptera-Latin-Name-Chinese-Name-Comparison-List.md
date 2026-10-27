@@ -319,27 +319,26 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     # ---- 摘要 -------------------------------------------------------------
     if rank == "subspecies":
         parent_zh, parent_latin = clean(fm.get("parent_zh")), clean(fm.get("parent_latin"))
-        lead = "**%s**（*%s*）是%s（*%s*）的一个亚种，隶属%s%s（*%s*），所属支系为%s（%s）" % (
-            zh, latin, parent_zh, parent_latin, fam_phrase, genus_zh, genus_latin,
-            clade_zh, clade_latin)
-        lead_en = "**%s** (*%s*) is a subspecies of *%s*, in %s, genus *%s*, belonging to the clade %s" % (
-            zh, latin, parent_latin, fam_en, genus_latin, clade_label)
-        lead_es = "**%s** (*%s*) es una subespecie de *%s*, en %s, género *%s*, perteneciente al clado %s" % (
-            zh, latin, parent_latin, fam_es, genus_latin, clade_label)
+        lead = "**%s**（*%s*）是%s（*%s*）的一个亚种，隶属%s%s（*%s*）" % (
+            zh, latin, parent_zh, parent_latin, fam_phrase, genus_zh, genus_latin)
+        lead_en = "**%s** (*%s*) is a subspecies of *%s*, in %s, genus *%s*" % (
+            zh, latin, parent_latin, fam_en, genus_latin)
+        lead_es = "**%s** (*%s*) es una subespecie de *%s*, en %s, género *%s*" % (
+            zh, latin, parent_latin, fam_es, genus_latin)
     else:
         klass = classify(rank, is_type, genus_info)
-        lead = "**%s**（*%s*）是%s%s（*%s*）的%s，隶属%s（%s）" % (
-            zh, latin, fam_phrase, genus_zh, genus_latin, klass, clade_zh, clade_latin)
+        lead = "**%s**（*%s*）是%s%s（*%s*）的%s" % (
+            zh, latin, fam_phrase, genus_zh, genus_latin, klass)
         klass_en = ("the only extant species" if klass == "现存唯一种"
                     else ("a species and the type species of its genus" if klass == "一种，也是本属的模式种"
                           else "a species"))
         klass_es = ("la única especie viviente" if klass == "现存唯一种"
                     else ("una especie, y la especie tipo de su género" if klass == "一种，也是本属的模式种"
                           else "una especie"))
-        lead_en = "**%s** (*%s*) is %s of the genus *%s*, in %s, belonging to the clade %s" % (
-            zh, latin, klass_en, genus_latin, fam_en, clade_label)
-        lead_es = "**%s** (*%s*) es %s del género *%s*, en %s, perteneciente al clado %s" % (
-            zh, latin, klass_es, genus_latin, fam_es, clade_label)
+        lead_en = "**%s** (*%s*) is %s of the genus *%s*, in %s" % (
+            zh, latin, klass_en, genus_latin, fam_en)
+        lead_es = "**%s** (*%s*) es %s del género *%s*, en %s" % (
+            zh, latin, klass_es, genus_latin, fam_es)
 
     sents = [lead + "。"]
     sents_en = [lead_en + "."]
@@ -387,13 +386,6 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
 
     # ---- 分类位置 ---------------------------------------------------------
     lines += ["", "## 分类位置", ""]
-    clade = meta["clades"].get(meta["family_clade"].get(family_id, ""))
-    if clade:
-        lines.append("- **支系 Clade / Clado**：%s" % html_link(
-            "%s %s" % (clade.get("zh", clade_zh), clade.get("latin", clade_latin)),
-            "/list/#%s" % clade.get("id", "isoptera")))
-    else:
-        lines.append("- **支系 Clade / Clado**：%s %s" % (clade_zh, clade_latin))
     fam_stat = ""
     if fam:
         _fg, _fs = fam.get("genera", "?"), fam.get("species", "?")

@@ -28,15 +28,14 @@ synonym_localities: "Mozambique: Lourenço Marques, Delagoa Bay; South Africa: T
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗得西亚奇齿白蚁**（*Allodontermes rhodesiensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1914 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括旧热带界东非、非洲南部。本站记录本种有 2 个次异名。
+**罗得西亚奇齿白蚁**（*Allodontermes rhodesiensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括旧热带界东非、非洲南部。本站记录本种有 2 个次异名。
 
-EN — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) is a species of the genus *Allodontermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1914; the type locality is Zimbabwe: Harare (Salisbury). Distribution: Old World tropics (East Africa), southern Africa. This site records 2 junior synonyms for the species.
+EN — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) is a species of the genus *Allodontermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1914; the type locality is Zimbabwe: Harare (Salisbury). Distribution: Old World tropics (East Africa), southern Africa. This site records 2 junior synonyms for the species.
 
-ES — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) es una especie del género *Allodontermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Zimbabwe: Harare (Salisbury). Distribución: Old World tropics (East Africa), southern Africa. Este sitio registra 2 sinónimos junior para la especie.
+ES — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) es una especie del género *Allodontermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Zimbabwe: Harare (Salisbury). Distribución: Old World tropics (East Africa), southern Africa. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[奇齿白蚁属 *Allodontermes*]({{ site.base_url }}/list/#allodontermes) —— 共 3 种（3 species · 3 especies）

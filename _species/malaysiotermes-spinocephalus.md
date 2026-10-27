@@ -28,15 +28,14 @@ synonym_localities: "Malaysia: Selangor: Sungei Buloh; Malaysia: Sabah: Quoin Hi
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**刺头马来白蚁**（*Malaysiotermes spinocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）马来白蚁属（*Malaysiotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Kedah: Sungai Lalang。分布记录包括印度尼西亚、马来西亚。本站记录本种有 4 个次异名。
+**刺头马来白蚁**（*Malaysiotermes spinocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）马来白蚁属（*Malaysiotermes*）的一种，也是本属的模式种。本种由 Ahmad 于 1968 年描述，模式产地为 Malaysia: Kedah: Sungai Lalang。分布记录包括印度尼西亚、马来西亚。本站记录本种有 4 个次异名。
 
-EN — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) is a species and the type species of its genus of the genus *Malaysiotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Ahmad in 1968; the type locality is Malaysia: Kedah: Sungai Lalang. Distribution: Indonesia, Malaysia. This site records 4 junior synonyms for the species.
+EN — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) is a species and the type species of its genus of the genus *Malaysiotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ahmad in 1968; the type locality is Malaysia: Kedah: Sungai Lalang. Distribution: Indonesia, Malaysia. This site records 4 junior synonyms for the species.
 
-ES — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) es una especie, y la especie tipo de su género del género *Malaysiotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Kedah: Sungai Lalang. Distribución: Indonesia, Malaysia. Este sitio registra 4 sinónimos junior para la especie.
+ES — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) es una especie, y la especie tipo de su género del género *Malaysiotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Kedah: Sungai Lalang. Distribución: Indonesia, Malaysia. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[马来白蚁属 *Malaysiotermes*]({{ site.base_url }}/list/#malaysiotermes) —— 共 2 种（2 species · 2 especies）

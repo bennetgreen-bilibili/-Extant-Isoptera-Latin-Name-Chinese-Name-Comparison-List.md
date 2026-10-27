@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**比里巴多刺白蚁**（*Echinotermes biriba*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）多刺白蚁属（*Echinotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Castro & Scheffrahn 于 2020 年描述，模式产地为 Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]。分布记录包括南美洲、哥伦比亚、秘鲁。
+**比里巴多刺白蚁**（*Echinotermes biriba*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）多刺白蚁属（*Echinotermes*）的现存唯一种。本种由 Castro & Scheffrahn 于 2020 年描述，模式产地为 Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]。分布记录包括南美洲、哥伦比亚、秘鲁。
 
-EN — **比里巴多刺白蚁** (*Echinotermes biriba*) is the only extant species of the genus *Echinotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Castro & Scheffrahn in 2020; the type locality is Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribution: South America, Colombia, Peru.
+EN — **比里巴多刺白蚁** (*Echinotermes biriba*) is the only extant species of the genus *Echinotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Castro & Scheffrahn in 2020; the type locality is Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribution: South America, Colombia, Peru.
 
-ES — **比里巴多刺白蚁** (*Echinotermes biriba*) es la única especie viviente del género *Echinotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Castro & Scheffrahn en 2020; la localidad tipo es Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribución: South America, Colombia, Peru.
+ES — **比里巴多刺白蚁** (*Echinotermes biriba*) es la única especie viviente del género *Echinotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Castro & Scheffrahn en 2020; la localidad tipo es Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribución: South America, Colombia, Peru.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[多刺白蚁属 *Echinotermes*]({{ site.base_url }}/list/#echinotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

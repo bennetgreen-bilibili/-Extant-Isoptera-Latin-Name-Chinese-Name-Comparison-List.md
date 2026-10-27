@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**卢森加胸白蚁**（*Thoracotermes lusingensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）胸白蚁属（*Thoracotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Harris 于 1958 年描述，模式产地为 Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga。分布记录包括安哥拉、刚果民主共和国、尼日利亚、赞比亚。
+**卢森加胸白蚁**（*Thoracotermes lusingensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）胸白蚁属（*Thoracotermes*）的一种。本种由 Harris 于 1958 年描述，模式产地为 Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga。分布记录包括安哥拉、刚果民主共和国、尼日利亚、赞比亚。
 
-EN — **卢森加胸白蚁** (*Thoracotermes lusingensis*) is a species of the genus *Thoracotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Harris in 1958; the type locality is Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribution: Angola, Democratic Republic of the Congo, Nigeria, Zambia.
+EN — **卢森加胸白蚁** (*Thoracotermes lusingensis*) is a species of the genus *Thoracotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Harris in 1958; the type locality is Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribution: Angola, Democratic Republic of the Congo, Nigeria, Zambia.
 
-ES — **卢森加胸白蚁** (*Thoracotermes lusingensis*) es una especie del género *Thoracotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Harris en 1958; la localidad tipo es Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribución: Angola, Democratic Republic of the Congo, Nigeria, Zambia.
+ES — **卢森加胸白蚁** (*Thoracotermes lusingensis*) es una especie del género *Thoracotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Harris en 1958; la localidad tipo es Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribución: Angola, Democratic Republic of the Congo, Nigeria, Zambia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[胸白蚁属 *Thoracotermes*]({{ site.base_url }}/list/#thoracotermes) —— 共 4 种（4 species · 4 especies）

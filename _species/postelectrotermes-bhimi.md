@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**比姆后琥珀白蚁**（*Postelectrotermes bhimi*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Roonwal & Maiti 于 1965 年描述，模式产地为 India: Kerala: Kottayam District: Vandiperiyar village。分布记录包括南亚、印度。
+**比姆后琥珀白蚁**（*Postelectrotermes bhimi*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Roonwal & Maiti 于 1965 年描述，模式产地为 India: Kerala: Kottayam District: Vandiperiyar village。分布记录包括南亚、印度。
 
-EN — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Roonwal & Maiti in 1965; the type locality is India: Kerala: Kottayam District: Vandiperiyar village. Distribution: South Asia, India.
+EN — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Roonwal & Maiti in 1965; the type locality is India: Kerala: Kottayam District: Vandiperiyar village. Distribution: South Asia, India.
 
-ES — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Roonwal & Maiti en 1965; la localidad tipo es India: Kerala: Kottayam District: Vandiperiyar village. Distribución: South Asia, India.
+ES — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roonwal & Maiti en 1965; la localidad tipo es India: Kerala: Kottayam District: Vandiperiyar village. Distribución: South Asia, India.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/list/#postelectrotermes) —— 共 15 种（15 species · 15 especies）
 - **本属模式种 Type species / Especie tipo**：*Postelectrotermes praecox*

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短头伪刺白蚁**（*Pseudacanthotermes curticeps*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Tshela。分布记录包括刚果民主共和国。
+**短头伪刺白蚁**（*Pseudacanthotermes curticeps*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 Democratic Republic of the Congo: Tshela。分布记录包括刚果民主共和国。
 
-EN — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) is a species of the genus *Pseudacanthotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1924; the type locality is Democratic Republic of the Congo: Tshela. Distribution: Democratic Republic of the Congo.
+EN — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) is a species of the genus *Pseudacanthotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1924; the type locality is Democratic Republic of the Congo: Tshela. Distribution: Democratic Republic of the Congo.
 
-ES — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Tshela. Distribución: Democratic Republic of the Congo.
+ES — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Tshela. Distribución: Democratic Republic of the Congo.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[伪刺白蚁属 *Pseudacanthotermes*]({{ site.base_url }}/list/#pseudacanthotermes) —— 共 6 种（6 species · 6 especies）

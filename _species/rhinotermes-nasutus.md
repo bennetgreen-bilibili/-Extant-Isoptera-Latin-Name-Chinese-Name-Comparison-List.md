@@ -25,15 +25,14 @@ synonym_localities: "Suriname: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大鼻鼻白蚁**（*Rhinotermes nasutus*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种，也是本属的模式种，隶属新等翅类（Neoisoptera）。本种由 Perty 于 1833 年描述，模式产地为 Brasil: ?。分布记录包括法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南。本站记录本种有 1 个次异名。
+**大鼻鼻白蚁**（*Rhinotermes nasutus*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种，也是本属的模式种。本种由 Perty 于 1833 年描述，模式产地为 Brasil: ?。分布记录包括法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南。本站记录本种有 1 个次异名。
 
-EN — **大鼻鼻白蚁** (*Rhinotermes nasutus*) is a species and the type species of its genus of the genus *Rhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Perty in 1833; the type locality is Brasil: ?. Distribution: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. This site records 1 junior synonym for the species.
+EN — **大鼻鼻白蚁** (*Rhinotermes nasutus*) is a species and the type species of its genus of the genus *Rhinotermes*, in the family RHINOTERMITIDAE. The species was described by Perty in 1833; the type locality is Brasil: ?. Distribution: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. This site records 1 junior synonym for the species.
 
-ES — **大鼻鼻白蚁** (*Rhinotermes nasutus*) es una especie, y la especie tipo de su género del género *Rhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Perty en 1833; la localidad tipo es Brasil: ?. Distribución: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
+ES — **大鼻鼻白蚁** (*Rhinotermes nasutus*) es una especie, y la especie tipo de su género del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Perty en 1833; la localidad tipo es Brasil: ?. Distribución: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[鼻白蚁属 *Rhinotermes*]({{ site.base_url }}/list/#rhinotermes) —— 共 4 种（4 species · 4 especies）
 

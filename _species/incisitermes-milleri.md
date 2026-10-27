@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**米勒楹白蚁**（*Incisitermes milleri*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Emerson 于 1943 年描述，模式产地为 United States: Florida: Elliot Key。分布记录包括美国、多米尼加、巴哈马、开曼群岛、古巴、牙买加、特克斯和凯科斯群岛。
+**米勒楹白蚁**（*Incisitermes milleri*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Emerson 于 1943 年描述，模式产地为 United States: Florida: Elliot Key。分布记录包括美国、多米尼加、巴哈马、开曼群岛、古巴、牙买加、特克斯和凯科斯群岛。
 
-EN — **米勒楹白蚁** (*Incisitermes milleri*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Emerson in 1943; the type locality is United States: Florida: Elliot Key. Distribution: United States, Dominican Republic, Bahamas, Cayman Islands, Cuba, Jamaica, Turks and Caicos Islands.
+EN — **米勒楹白蚁** (*Incisitermes milleri*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Emerson in 1943; the type locality is United States: Florida: Elliot Key. Distribution: United States, Dominican Republic, Bahamas, Cayman Islands, Cuba, Jamaica, Turks and Caicos Islands.
 
-ES — **米勒楹白蚁** (*Incisitermes milleri*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Emerson en 1943; la localidad tipo es United States: Florida: Elliot Key. Distribución: United States, Dominican Republic, Bahamas, Cayman Islands, Cuba, Jamaica, Turks and Caicos Islands.
+ES — **米勒楹白蚁** (*Incisitermes milleri*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1943; la localidad tipo es United States: Florida: Elliot Key. Distribución: United States, Dominican Republic, Bahamas, Cayman Islands, Cuba, Jamaica, Turks and Caicos Islands.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

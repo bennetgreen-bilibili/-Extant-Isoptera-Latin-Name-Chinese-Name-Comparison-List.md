@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**相等棒鼻白蚁**（*Parrhinotermes aequalis*）是鼻白蚁科（RHINOTERMITIDAE）棒鼻白蚁属（*Parrhinotermes*）的一种，也是本属的模式种，隶属新等翅类（Neoisoptera）。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括马来西亚、沙捞越、印度尼西亚。
+**相等棒鼻白蚁**（*Parrhinotermes aequalis*）是鼻白蚁科（RHINOTERMITIDAE）棒鼻白蚁属（*Parrhinotermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括马来西亚、沙捞越、印度尼西亚。
 
-EN — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) is a species and the type species of its genus of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Malaysia, Sarawak, Indonesia.
+EN — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) is a species and the type species of its genus of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE. The species was described by Haviland in 1898; the type locality is Malaysia: Sarawak. Distribution: Malaysia, Sarawak, Indonesia.
 
-ES — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) es una especie, y la especie tipo de su género del género *Parrhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Malaysia, Sarawak, Indonesia.
+ES — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) es una especie, y la especie tipo de su género del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Malaysia, Sarawak, Indonesia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[棒鼻白蚁属 *Parrhinotermes*]({{ site.base_url }}/list/#parrhinotermes) —— 共 13 种（13 species · 13 especies）
 

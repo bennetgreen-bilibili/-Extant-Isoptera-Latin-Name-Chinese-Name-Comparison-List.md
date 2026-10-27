@@ -28,15 +28,14 @@ synonym_localities: "Brasil: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**讨厌聚白蚁**（*Syntermes molestus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Bahia。分布记录包括巴西、哥伦比亚、秘鲁、法属圭亚那、委内瑞拉、玻利维亚、厄瓜多尔、圭亚那、苏里南。本站记录本种有 1 个次异名。
+**讨厌聚白蚁**（*Syntermes molestus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: Bahia。分布记录包括巴西、哥伦比亚、秘鲁、法属圭亚那、委内瑞拉、玻利维亚、厄瓜多尔、圭亚那、苏里南。本站记录本种有 1 个次异名。
 
-EN — **讨厌聚白蚁** (*Syntermes molestus*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Burmeister in 1839; the type locality is Brasil: Bahia. Distribution: Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname. This site records 1 junior synonym for the species.
+EN — **讨厌聚白蚁** (*Syntermes molestus*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Burmeister in 1839; the type locality is Brasil: Bahia. Distribution: Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname. This site records 1 junior synonym for the species.
 
-ES — **讨厌聚白蚁** (*Syntermes molestus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: Bahia. Distribución: Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname. Este sitio registra 1 sinónimo junior para la especie.
+ES — **讨厌聚白蚁** (*Syntermes molestus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: Bahia. Distribución: Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/list/#syntermes) —— 共 23 种（23 species · 23 especies）

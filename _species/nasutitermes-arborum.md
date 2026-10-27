@@ -28,15 +28,14 @@ synonym_localities: "Gabon: ?; Benin: Cotonou"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**树生象白蚁**（*Nasutitermes arborum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达。本站记录本种有 2 个次异名。
+**树生象白蚁**（*Nasutitermes arborum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Smeathman 于 1781 年描述，模式产地为 Sierra Leone: Njala。分布记录包括科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达。本站记录本种有 2 个次异名。
 
-EN — **树生象白蚁** (*Nasutitermes arborum*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Smeathman in 1781; the type locality is Sierra Leone: Njala. Distribution: Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda. This site records 2 junior synonyms for the species.
+EN — **树生象白蚁** (*Nasutitermes arborum*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Smeathman in 1781; the type locality is Sierra Leone: Njala. Distribution: Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda. This site records 2 junior synonyms for the species.
 
-ES — **树生象白蚁** (*Nasutitermes arborum*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Smeathman en 1781; la localidad tipo es Sierra Leone: Njala. Distribución: Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda. Este sitio registra 2 sinónimos junior para la especie.
+ES — **树生象白蚁** (*Nasutitermes arborum*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Smeathman en 1781; la localidad tipo es Sierra Leone: Njala. Distribución: Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）

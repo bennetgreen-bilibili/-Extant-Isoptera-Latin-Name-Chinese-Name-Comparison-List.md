@@ -25,15 +25,14 @@ synonym_localities: "Sri Lanka: Bogawantalawa"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**好斗后琥珀白蚁**（*Postelectrotermes militaris*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Desneux 于 1904 年描述，模式产地为 Sri Lanka: Bogawantalawa。分布记录包括斯里兰卡。本站记录本种有 1 个次异名。
+**好斗后琥珀白蚁**（*Postelectrotermes militaris*）是木白蚁科（KALOTERMITIDAE）后琥珀白蚁属（*Postelectrotermes*）的一种。本种由 Desneux 于 1904 年描述，模式产地为 Sri Lanka: Bogawantalawa。分布记录包括斯里兰卡。本站记录本种有 1 个次异名。
 
-EN — **好斗后琥珀白蚁** (*Postelectrotermes militaris*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Desneux in 1904; the type locality is Sri Lanka: Bogawantalawa. Distribution: Sri Lanka. This site records 1 junior synonym for the species.
+EN — **好斗后琥珀白蚁** (*Postelectrotermes militaris*) is a species of the genus *Postelectrotermes*, in the family KALOTERMITIDAE. The species was described by Desneux in 1904; the type locality is Sri Lanka: Bogawantalawa. Distribution: Sri Lanka. This site records 1 junior synonym for the species.
 
-ES — **好斗后琥珀白蚁** (*Postelectrotermes militaris*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Desneux en 1904; la localidad tipo es Sri Lanka: Bogawantalawa. Distribución: Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
+ES — **好斗后琥珀白蚁** (*Postelectrotermes militaris*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Desneux en 1904; la localidad tipo es Sri Lanka: Bogawantalawa. Distribución: Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[后琥珀白蚁属 *Postelectrotermes*]({{ site.base_url }}/list/#postelectrotermes) —— 共 15 种（15 species · 15 especies）
 - **本属模式种 Type species / Especie tipo**：*Postelectrotermes praecox*

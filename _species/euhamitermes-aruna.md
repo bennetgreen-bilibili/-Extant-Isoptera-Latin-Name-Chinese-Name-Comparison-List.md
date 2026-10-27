@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阿鲁纳亮白蚁**（*Euhamitermes aruna*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Chhotani 于 1975 年描述，模式产地为 India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong。分布记录包括东洋界。
+**阿鲁纳亮白蚁**（*Euhamitermes aruna*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种。本种由 Chhotani 于 1975 年描述，模式产地为 India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong。分布记录包括东洋界。
 
-EN — **阿鲁纳亮白蚁** (*Euhamitermes aruna*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Chhotani in 1975; the type locality is India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong. Distribution: Oriental region.
+EN — **阿鲁纳亮白蚁** (*Euhamitermes aruna*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Chhotani in 1975; the type locality is India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong. Distribution: Oriental region.
 
-ES — **阿鲁纳亮白蚁** (*Euhamitermes aruna*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Chhotani en 1975; la localidad tipo es India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong. Distribución: Oriental region.
+ES — **阿鲁纳亮白蚁** (*Euhamitermes aruna*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Chhotani en 1975; la localidad tipo es India: Arunachal Pradesh: Kameng Division: Charduar Forest, towards Bhalukpong. Distribución: Oriental region.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[亮白蚁属 *Euhamitermes*]({{ site.base_url }}/list/#euhamitermes) —— 共 24 种（24 species · 24 especies）

@@ -28,15 +28,14 @@ synonym_localities: "Ethiopia: Monti Berrek, near Ancover, 15 km NE of Addis Aba
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阿比西尼亚坚白蚁**（*Firmitermes abyssinicus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）坚白蚁属（*Firmitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1911 年描述，模式产地为 Ethiopia: Hicka。分布记录包括旧热带界、埃塞俄比亚。本站记录本种有 1 个次异名。
+**阿比西尼亚坚白蚁**（*Firmitermes abyssinicus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）坚白蚁属（*Firmitermes*）的现存唯一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Ethiopia: Hicka。分布记录包括旧热带界、埃塞俄比亚。本站记录本种有 1 个次异名。
 
-EN — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) is the only extant species of the genus *Firmitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1911; the type locality is Ethiopia: Hicka. Distribution: Old World tropics, Ethiopia. This site records 1 junior synonym for the species.
+EN — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) is the only extant species of the genus *Firmitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1911; the type locality is Ethiopia: Hicka. Distribution: Old World tropics, Ethiopia. This site records 1 junior synonym for the species.
 
-ES — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) es la única especie viviente del género *Firmitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Ethiopia: Hicka. Distribución: Old World tropics, Ethiopia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) es la única especie viviente del género *Firmitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Ethiopia: Hicka. Distribución: Old World tropics, Ethiopia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[坚白蚁属 *Firmitermes*]({{ site.base_url }}/list/#firmitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

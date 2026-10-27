@@ -28,15 +28,14 @@ synonym_localities: "Sri Lanka: Heneratgoda; Peradeniya; Sri Lanka: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**锡兰近扭白蚁**（*Pericapritermes ceylonicus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1911 年描述，模式产地为 Sri Lanka: Peradeniya。分布记录包括印度、斯里兰卡。本站记录本种有 2 个次异名。
+**锡兰近扭白蚁**（*Pericapritermes ceylonicus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Sri Lanka: Peradeniya。分布记录包括印度、斯里兰卡。本站记录本种有 2 个次异名。
 
-EN — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1911; the type locality is Sri Lanka: Peradeniya. Distribution: India, Sri Lanka. This site records 2 junior synonyms for the species.
+EN — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Holmgren in 1911; the type locality is Sri Lanka: Peradeniya. Distribution: India, Sri Lanka. This site records 2 junior synonyms for the species.
 
-ES — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Peradeniya. Distribución: India, Sri Lanka. Este sitio registra 2 sinónimos junior para la especie.
+ES — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Peradeniya. Distribución: India, Sri Lanka. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/list/#pericapritermes) —— 共 41 种（41 species · 41 especies）

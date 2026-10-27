@@ -28,15 +28,14 @@ synonym_localities: "Australia: Queensland: Cape York Peninsula, near Coleman Ri
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**哈里斯络白蚁**（*Hapsidotermes harrisi*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Ravenshoe。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**哈里斯络白蚁**（*Hapsidotermes harrisi*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种，也是本属的模式种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Ravenshoe。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
-EN — **哈里斯络白蚁** (*Hapsidotermes harrisi*) is a species and the type species of its genus of the genus *Hapsidotermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia. This site records 1 junior synonym for the species.
+EN — **哈里斯络白蚁** (*Hapsidotermes harrisi*) is a species and the type species of its genus of the genus *Hapsidotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia. This site records 1 junior synonym for the species.
 
-ES — **哈里斯络白蚁** (*Hapsidotermes harrisi*) es una especie, y la especie tipo de su género del género *Hapsidotermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Ravenshoe. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **哈里斯络白蚁** (*Hapsidotermes harrisi*) es una especie, y la especie tipo de su género del género *Hapsidotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Ravenshoe. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[络白蚁属 *Hapsidotermes*]({{ site.base_url }}/list/#hapsidotermes) —— 共 5 种（5 species · 5 especies）

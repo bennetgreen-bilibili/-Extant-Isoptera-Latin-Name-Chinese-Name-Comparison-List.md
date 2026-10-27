@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**莫比迪克堆砂白蚁**（*Cryptotermes mobydicki*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Scheffrahn 于 2025 年描述，模式产地为 French Guiana: Petit Saut \[ 5.07N 53.032W \]。分布记录包括法属圭亚那。
+**莫比迪克堆砂白蚁**（*Cryptotermes mobydicki*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Scheffrahn 于 2025 年描述，模式产地为 French Guiana: Petit Saut \[ 5.07N 53.032W \]。分布记录包括法属圭亚那。
 
-EN — **莫比迪克堆砂白蚁** (*Cryptotermes mobydicki*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Scheffrahn in 2025; the type locality is French Guiana: Petit Saut \[ 5.07N 53.032W \]. Distribution: French Guiana.
+EN — **莫比迪克堆砂白蚁** (*Cryptotermes mobydicki*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn in 2025; the type locality is French Guiana: Petit Saut \[ 5.07N 53.032W \]. Distribution: French Guiana.
 
-ES — **莫比迪克堆砂白蚁** (*Cryptotermes mobydicki*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Scheffrahn en 2025; la localidad tipo es French Guiana: Petit Saut \[ 5.07N 53.032W \]. Distribución: French Guiana.
+ES — **莫比迪克堆砂白蚁** (*Cryptotermes mobydicki*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2025; la localidad tipo es French Guiana: Petit Saut \[ 5.07N 53.032W \]. Distribución: French Guiana.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*

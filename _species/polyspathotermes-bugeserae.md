@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**布盖塞拉多铲白蚁**（*Polyspathotermes bugeserae*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）多铲白蚁属（*Polyspathotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Bouillon & Vincke 于 1971 年描述，模式产地为 Rwanda: Bugesera。分布记录包括卢旺达。
+**布盖塞拉多铲白蚁**（*Polyspathotermes bugeserae*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）多铲白蚁属（*Polyspathotermes*）的一种。本种由 Bouillon & Vincke 于 1971 年描述，模式产地为 Rwanda: Bugesera。分布记录包括卢旺达。
 
-EN — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) is a species of the genus *Polyspathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Bouillon & Vincke in 1971; the type locality is Rwanda: Bugesera. Distribution: Rwanda.
+EN — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) is a species of the genus *Polyspathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Bouillon & Vincke in 1971; the type locality is Rwanda: Bugesera. Distribution: Rwanda.
 
-ES — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) es una especie del género *Polyspathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Bouillon & Vincke en 1971; la localidad tipo es Rwanda: Bugesera. Distribución: Rwanda.
+ES — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) es una especie del género *Polyspathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Bouillon & Vincke en 1971; la localidad tipo es Rwanda: Bugesera. Distribución: Rwanda.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[多铲白蚁属 *Polyspathotermes*]({{ site.base_url }}/list/#polyspathotermes) —— 共 7 种（7 species · 7 especies）

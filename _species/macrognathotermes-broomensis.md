@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**布鲁姆长颚白蚁**（*Macrognathotermes broomensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）长颚白蚁属（*Macrognathotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Western Australia: Broome。分布记录包括澳大利亚。
+**布鲁姆长颚白蚁**（*Macrognathotermes broomensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）长颚白蚁属（*Macrognathotermes*）的一种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Western Australia: Broome。分布记录包括澳大利亚。
 
-EN — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) is a species of the genus *Macrognathotermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Mjöberg in 1920; the type locality is Australia: Western Australia: Broome. Distribution: Australia.
+EN — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) is a species of the genus *Macrognathotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Western Australia: Broome. Distribution: Australia.
 
-ES — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) es una especie del género *Macrognathotermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Broome. Distribución: Australia.
+ES — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) es una especie del género *Macrognathotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Broome. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[长颚白蚁属 *Macrognathotermes*]({{ site.base_url }}/list/#macrognathotermes) —— 共 4 种（4 species · 4 especies）

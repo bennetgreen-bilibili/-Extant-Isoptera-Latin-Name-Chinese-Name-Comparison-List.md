@@ -28,15 +28,14 @@ synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xava
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曼近曲白蚁**（*Paracurvitermes manni*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）近曲白蚁属（*Paracurvitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]。分布记录包括巴西、玻利维亚。本站记录本种有 1 个次异名。
+**曼近曲白蚁**（*Paracurvitermes manni*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）近曲白蚁属（*Paracurvitermes*）的现存唯一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]。分布记录包括巴西、玻利维亚。本站记录本种有 1 个次异名。
 
-EN — **曼近曲白蚁** (*Paracurvitermes manni*) is the only extant species of the genus *Paracurvitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Brazil, Bolivia. This site records 1 junior synonym for the species.
+EN — **曼近曲白蚁** (*Paracurvitermes manni*) is the only extant species of the genus *Paracurvitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribution: Brazil, Bolivia. This site records 1 junior synonym for the species.
 
-ES — **曼近曲白蚁** (*Paracurvitermes manni*) es la única especie viviente del género *Paracurvitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución: Brazil, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **曼近曲白蚁** (*Paracurvitermes manni*) es la única especie viviente del género *Paracurvitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución: Brazil, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[近曲白蚁属 *Paracurvitermes*]({{ site.base_url }}/list/#paracurvitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

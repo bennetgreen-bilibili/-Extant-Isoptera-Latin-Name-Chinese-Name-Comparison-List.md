@@ -28,15 +28,14 @@ synonym_localities: "Sao Tome and Principe: Roça Infante D. Henrique; Democrati
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小雅象白蚁**（*Nasutitermes elegantulus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1911 年描述，模式产地为 Cameroon: Victoria。分布记录包括刚果（布）、安哥拉、喀麦隆、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、圣多美和普林西比、乌干达。本站记录本种有 3 个次异名。
+**小雅象白蚁**（*Nasutitermes elegantulus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Cameroon: Victoria。分布记录包括刚果（布）、安哥拉、喀麦隆、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、圣多美和普林西比、乌干达。本站记录本种有 3 个次异名。
 
-EN — **小雅象白蚁** (*Nasutitermes elegantulus*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1911; the type locality is Cameroon: Victoria. Distribution: Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda. This site records 3 junior synonyms for the species.
+EN — **小雅象白蚁** (*Nasutitermes elegantulus*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1911; the type locality is Cameroon: Victoria. Distribution: Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda. This site records 3 junior synonyms for the species.
 
-ES — **小雅象白蚁** (*Nasutitermes elegantulus*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Cameroon: Victoria. Distribución: Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda. Este sitio registra 3 sinónimos junior para la especie.
+ES — **小雅象白蚁** (*Nasutitermes elegantulus*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Cameroon: Victoria. Distribución: Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）

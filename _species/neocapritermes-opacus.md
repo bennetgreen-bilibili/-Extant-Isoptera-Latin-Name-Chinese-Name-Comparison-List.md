@@ -28,15 +28,14 @@ synonym_localities: "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]; Argent
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本站记录本种有 6 个次异名。
+**发黑新扭白蚁**（*Neocapritermes opacus*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]。分布记录包括巴西、阿根廷、玻利维亚、法属圭亚那、乌拉圭、厄瓜多尔、巴拉圭、秘鲁。本站记录本种有 6 个次异名。
 
-EN — **发黑新扭白蚁** (*Neocapritermes opacus*) is a species and the type species of its genus of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae), belonging to the clade Geoisoptera. The species was described by Hagen in 1858; the type locality is Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribution: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. This site records 6 junior synonyms for the species.
+EN — **发黑新扭白蚁** (*Neocapritermes opacus*) is a species and the type species of its genus of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Hagen in 1858; the type locality is Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribution: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. This site records 6 junior synonyms for the species.
 
-ES — **发黑新扭白蚁** (*Neocapritermes opacus*) es una especie, y la especie tipo de su género del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribución: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. Este sitio registra 6 sinónimos junior para la especie.
+ES — **发黑新扭白蚁** (*Neocapritermes opacus*) es una especie, y la especie tipo de su género del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Minas Gerais: Congonhas \[ 20.4997S 43.8578W \]. Distribución: Brazil, Argentina, Bolivia, French Guiana, Uruguay, Ecuador, Paraguay, Peru. Este sitio registra 6 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种（17 species · 17 especies）

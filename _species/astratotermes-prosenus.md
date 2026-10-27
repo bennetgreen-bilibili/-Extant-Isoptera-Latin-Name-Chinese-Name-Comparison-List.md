@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大型无刃白蚁**（*Astratotermes prosenus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无刃白蚁属（*Astratotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Sands 于 1972 年描述，模式产地为 Nigeria: Northern Region: 30 miles from Lokoja on Okene Road。分布记录包括非洲热带。
+**大型无刃白蚁**（*Astratotermes prosenus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无刃白蚁属（*Astratotermes*）的一种，也是本属的模式种。本种由 Sands 于 1972 年描述，模式产地为 Nigeria: Northern Region: 30 miles from Lokoja on Okene Road。分布记录包括非洲热带。
 
-EN — **大型无刃白蚁** (*Astratotermes prosenus*) is a species and the type species of its genus of the genus *Astratotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Sands in 1972; the type locality is Nigeria: Northern Region: 30 miles from Lokoja on Okene Road. Distribution: tropical Africa.
+EN — **大型无刃白蚁** (*Astratotermes prosenus*) is a species and the type species of its genus of the genus *Astratotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Nigeria: Northern Region: 30 miles from Lokoja on Okene Road. Distribution: tropical Africa.
 
-ES — **大型无刃白蚁** (*Astratotermes prosenus*) es una especie, y la especie tipo de su género del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: Northern Region: 30 miles from Lokoja on Okene Road. Distribución: tropical Africa.
+ES — **大型无刃白蚁** (*Astratotermes prosenus*) es una especie, y la especie tipo de su género del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Nigeria: Northern Region: 30 miles from Lokoja on Okene Road. Distribución: tropical Africa.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无刃白蚁属 *Astratotermes*]({{ site.base_url }}/list/#astratotermes) —— 共 6 种（6 species · 6 especies）

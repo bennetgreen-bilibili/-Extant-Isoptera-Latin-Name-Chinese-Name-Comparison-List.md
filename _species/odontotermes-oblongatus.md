@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**矩形土白蚁**（*Odontotermes oblongatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1913 年描述，模式产地为 Singapore: ?。分布记录包括东南亚马来西亚、泰国、印度、印度尼西亚、新加坡。
+**矩形土白蚁**（*Odontotermes oblongatus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Singapore: ?。分布记录包括东南亚马来西亚、泰国、印度、印度尼西亚、新加坡。
 
-EN — **矩形土白蚁** (*Odontotermes oblongatus*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1913; the type locality is Singapore: ?. Distribution: Southeast Asia, Malaysia, Thailand, India, Indonesia, Singapore.
+EN — **矩形土白蚁** (*Odontotermes oblongatus*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Holmgren in 1913; the type locality is Singapore: ?. Distribution: Southeast Asia, Malaysia, Thailand, India, Indonesia, Singapore.
 
-ES — **矩形土白蚁** (*Odontotermes oblongatus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1913; la localidad tipo es Singapore: ?. Distribución: Southeast Asia, Malaysia, Thailand, India, Indonesia, Singapore.
+ES — **矩形土白蚁** (*Odontotermes oblongatus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Singapore: ?. Distribución: Southeast Asia, Malaysia, Thailand, India, Indonesia, Singapore.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

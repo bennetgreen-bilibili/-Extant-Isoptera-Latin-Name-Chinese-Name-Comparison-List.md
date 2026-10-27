@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**白黑伪小白蚁**（*Pseudomicrotermes alboniger*）是白蚁科（TERMITIDAE）孔白蚁亚科（Foraminitermitinae）伪小白蚁属（*Pseudomicrotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru。分布记录包括喀麦隆、刚果（金）、尼日利亚、津巴布韦、刚果民主共和国。
+**白黑伪小白蚁**（*Pseudomicrotermes alboniger*）是白蚁科（TERMITIDAE）孔白蚁亚科（Foraminitermitinae）伪小白蚁属（*Pseudomicrotermes*）的现存唯一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru。分布记录包括喀麦隆、刚果（金）、尼日利亚、津巴布韦、刚果民主共和国。
 
-EN — **白黑伪小白蚁** (*Pseudomicrotermes alboniger*) is the only extant species of the genus *Pseudomicrotermes*, in the family TERMITIDAE (subfamily Foraminitermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1911; the type locality is Democratic Republic of the Congo: Sankuru. Distribution: Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa).
+EN — **白黑伪小白蚁** (*Pseudomicrotermes alboniger*) is the only extant species of the genus *Pseudomicrotermes*, in the family TERMITIDAE (subfamily Foraminitermitinae). The species was described by Wasmann in 1911; the type locality is Democratic Republic of the Congo: Sankuru. Distribution: Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa).
 
-ES — **白黑伪小白蚁** (*Pseudomicrotermes alboniger*) es la única especie viviente del género *Pseudomicrotermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1911; la localidad tipo es Democratic Republic of the Congo: Sankuru. Distribución: Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa).
+ES — **白黑伪小白蚁** (*Pseudomicrotermes alboniger*) es la única especie viviente del género *Pseudomicrotermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Democratic Republic of the Congo: Sankuru. Distribución: Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa).
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/list/#foraminitermitinae) —— 本站收录 3 属 10 种（3 genera, 10 species · 3 géneros, 10 especies）
 - **属 Genus / Género**：[伪小白蚁属 *Pseudomicrotermes*]({{ site.base_url }}/list/#pseudomicrotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**犀牛孔白蚁**（*Foraminitermes rhinoceros*）是白蚁科（TERMITIDAE）孔白蚁亚科（Foraminitermitinae）孔白蚁属（*Foraminitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1905 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达。
+**犀牛孔白蚁**（*Foraminitermes rhinoceros*）是白蚁科（TERMITIDAE）孔白蚁亚科（Foraminitermitinae）孔白蚁属（*Foraminitermes*）的一种。本种由 Sjöstedt 于 1905 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达。
 
-EN — **犀牛孔白蚁** (*Foraminitermes rhinoceros*) is a species of the genus *Foraminitermes*, in the family TERMITIDAE (subfamily Foraminitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1905; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda.
+EN — **犀牛孔白蚁** (*Foraminitermes rhinoceros*) is a species of the genus *Foraminitermes*, in the family TERMITIDAE (subfamily Foraminitermitinae). The species was described by Sjöstedt in 1905; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda.
 
-ES — **犀牛孔白蚁** (*Foraminitermes rhinoceros*) es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda.
+ES — **犀牛孔白蚁** (*Foraminitermes rhinoceros*) es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/list/#foraminitermitinae) —— 本站收录 3 属 10 种（3 genera, 10 species · 3 géneros, 10 especies）
 - **属 Genus / Género**：[孔白蚁属 *Foraminitermes*]({{ site.base_url }}/list/#foraminitermes) —— 共 6 种（6 species · 6 especies）

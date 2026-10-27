@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大唇棱角白蚁**（*Angularitermes clypeatus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）棱角白蚁属（*Angularitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括巴西、法属圭亚那、厄瓜多尔。
+**大唇棱角白蚁**（*Angularitermes clypeatus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）棱角白蚁属（*Angularitermes*）的一种。本种由 Mathews 于 1977 年描述，模式产地为 Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]。分布记录包括巴西、法属圭亚那、厄瓜多尔。
 
-EN — **大唇棱角白蚁** (*Angularitermes clypeatus*) is a species of the genus *Angularitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: Brazil, French Guiana, Ecuador.
+EN — **大唇棱角白蚁** (*Angularitermes clypeatus*) is a species of the genus *Angularitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Mathews in 1977; the type locality is Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribution: Brazil, French Guiana, Ecuador.
 
-ES — **大唇棱角白蚁** (*Angularitermes clypeatus*) es una especie del género *Angularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, French Guiana, Ecuador.
+ES — **大唇棱角白蚁** (*Angularitermes clypeatus*) es una especie del género *Angularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, French Guiana, Ecuador.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[棱角白蚁属 *Angularitermes*]({{ site.base_url }}/list/#angularitermes) —— 共 6 种（6 species · 6 especies）

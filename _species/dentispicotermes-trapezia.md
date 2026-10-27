@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**梯形齿尖白蚁**（*Dentispicotermes trapezia*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）齿尖白蚁属（*Dentispicotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Scheffrahn 于 2024 年描述，模式产地为 Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]。分布记录包括玻利维亚、巴拉圭、潘塔纳尔-查科。
+**梯形齿尖白蚁**（*Dentispicotermes trapezia*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）齿尖白蚁属（*Dentispicotermes*）的一种。本种由 Scheffrahn 于 2024 年描述，模式产地为 Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]。分布记录包括玻利维亚、巴拉圭、潘塔纳尔-查科。
 
-EN — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) is a species of the genus *Dentispicotermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Scheffrahn in 2024; the type locality is Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribution: Bolivia, Paraguay, Pantanal–Chaco.
+EN — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) is a species of the genus *Dentispicotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Scheffrahn in 2024; the type locality is Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribution: Bolivia, Paraguay, Pantanal–Chaco.
 
-ES — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Scheffrahn en 2024; la localidad tipo es Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribución: Bolivia, Paraguay, Pantanal–Chaco.
+ES — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Scheffrahn en 2024; la localidad tipo es Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribución: Bolivia, Paraguay, Pantanal–Chaco.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[齿尖白蚁属 *Dentispicotermes*]({{ site.base_url }}/list/#dentispicotermes) —— 共 6 种（6 species · 6 especies）

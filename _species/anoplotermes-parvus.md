@@ -28,15 +28,14 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]; Bolivia: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小解甲白蚁**（*Anoplotermes parvus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1923 年描述，模式产地为 Panama: Frijoles。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。本站记录本种有 4 个次异名。
+**小解甲白蚁**（*Anoplotermes parvus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Snyder 于 1923 年描述，模式产地为 Panama: Frijoles。分布记录包括巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比。本站记录本种有 4 个次异名。
 
-EN — **小解甲白蚁** (*Anoplotermes parvus*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1923; the type locality is Panama: Frijoles. Distribution: Brazil, Guiana Shield, Amazon region, Central America and Caribbean. This site records 4 junior synonyms for the species.
+EN — **小解甲白蚁** (*Anoplotermes parvus*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Snyder in 1923; the type locality is Panama: Frijoles. Distribution: Brazil, Guiana Shield, Amazon region, Central America and Caribbean. This site records 4 junior synonyms for the species.
 
-ES — **小解甲白蚁** (*Anoplotermes parvus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1923; la localidad tipo es Panama: Frijoles. Distribución: Brazil, Guiana Shield, Amazon region, Central America and Caribbean. Este sitio registra 4 sinónimos junior para la especie.
+ES — **小解甲白蚁** (*Anoplotermes parvus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1923; la localidad tipo es Panama: Frijoles. Distribución: Brazil, Guiana Shield, Amazon region, Central America and Caribbean. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/list/#anoplotermes) —— 共 23 种（23 species · 23 especies）

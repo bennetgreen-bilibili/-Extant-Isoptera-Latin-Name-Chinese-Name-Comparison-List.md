@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**高鼻角白蚁**（*Angulitermes resimus*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）角白蚁属（*Angulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Krishna 于 1965 年描述，模式产地为 Myanmar: Maymyo, 22 miles E Mandalay。分布记录包括缅甸。
+**高鼻角白蚁**（*Angulitermes resimus*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）角白蚁属（*Angulitermes*）的一种。本种由 Krishna 于 1965 年描述，模式产地为 Myanmar: Maymyo, 22 miles E Mandalay。分布记录包括缅甸。
 
-EN — **高鼻角白蚁** (*Angulitermes resimus*) is a species of the genus *Angulitermes*, in the family TERMITIDAE (subfamily Promirotermitinae), belonging to the clade Geoisoptera. The species was described by Krishna in 1965; the type locality is Myanmar: Maymyo, 22 miles E Mandalay. Distribution: Myanmar.
+EN — **高鼻角白蚁** (*Angulitermes resimus*) is a species of the genus *Angulitermes*, in the family TERMITIDAE (subfamily Promirotermitinae). The species was described by Krishna in 1965; the type locality is Myanmar: Maymyo, 22 miles E Mandalay. Distribution: Myanmar.
 
-ES — **高鼻角白蚁** (*Angulitermes resimus*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Maymyo, 22 miles E Mandalay. Distribución: Myanmar.
+ES — **高鼻角白蚁** (*Angulitermes resimus*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Maymyo, 22 miles E Mandalay. Distribución: Myanmar.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/list/#promirotermitinae) —— 本站收录 2 属 39 种（2 genera, 39 species · 2 géneros, 39 especies）
 - **属 Genus / Género**：[角白蚁属 *Angulitermes*]({{ site.base_url }}/list/#angulitermes) —— 共 29 种（29 species · 29 especies）

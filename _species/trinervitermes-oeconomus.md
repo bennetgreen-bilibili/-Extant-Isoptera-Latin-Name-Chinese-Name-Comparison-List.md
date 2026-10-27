@@ -28,15 +28,14 @@ synonym_localities: "Mali: Alahina; Chad: Chari-Chad; Central African Republic: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**根三脉白蚁**（*Trinervitermes oeconomus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Trägårdh 于 1904 年描述，模式产地为 Sudan: Kaka。分布记录包括科特迪瓦、多哥、布基纳法索、贝宁、中非、乍得、刚果民主共和国、埃塞俄比亚、加纳、马里、尼日利亚、塞内加尔、苏丹、乌干达。本站记录本种有 3 个次异名。
+**根三脉白蚁**（*Trinervitermes oeconomus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Trägårdh 于 1904 年描述，模式产地为 Sudan: Kaka。分布记录包括科特迪瓦、多哥、布基纳法索、贝宁、中非、乍得、刚果民主共和国、埃塞俄比亚、加纳、马里、尼日利亚、塞内加尔、苏丹、乌干达。本站记录本种有 3 个次异名。
 
-EN — **根三脉白蚁** (*Trinervitermes oeconomus*) is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Trägårdh in 1904; the type locality is Sudan: Kaka. Distribution: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. This site records 3 junior synonyms for the species.
+EN — **根三脉白蚁** (*Trinervitermes oeconomus*) is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Trägårdh in 1904; the type locality is Sudan: Kaka. Distribution: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. This site records 3 junior synonyms for the species.
 
-ES — **根三脉白蚁** (*Trinervitermes oeconomus*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Trägårdh en 1904; la localidad tipo es Sudan: Kaka. Distribución: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. Este sitio registra 3 sinónimos junior para la especie.
+ES — **根三脉白蚁** (*Trinervitermes oeconomus*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Trägårdh en 1904; la localidad tipo es Sudan: Kaka. Distribución: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/list/#trinervitermes) —— 共 21 种（21 species · 21 especies）

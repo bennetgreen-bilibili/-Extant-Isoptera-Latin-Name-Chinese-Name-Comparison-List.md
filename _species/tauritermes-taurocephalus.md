@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**牛头牛白蚁**（*Tauritermes taurocephalus*）是木白蚁科（KALOTERMITIDAE）牛白蚁属（*Tauritermes*）的一种，也是本属的模式种，隶属近等翅类（Icoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]。分布记录包括巴西、阿根廷、玻利维亚。
+**牛头牛白蚁**（*Tauritermes taurocephalus*）是木白蚁科（KALOTERMITIDAE）牛白蚁属（*Tauritermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]。分布记录包括巴西、阿根廷、玻利维亚。
 
-EN — **牛头牛白蚁** (*Tauritermes taurocephalus*) is a species and the type species of its genus of the genus *Tauritermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribution: Brazil, Argentina, Bolivia.
+EN — **牛头牛白蚁** (*Tauritermes taurocephalus*) is a species and the type species of its genus of the genus *Tauritermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribution: Brazil, Argentina, Bolivia.
 
-ES — **牛头牛白蚁** (*Tauritermes taurocephalus*) es una especie, y la especie tipo de su género del género *Tauritermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribución: Brazil, Argentina, Bolivia.
+ES — **牛头牛白蚁** (*Tauritermes taurocephalus*) es una especie, y la especie tipo de su género del género *Tauritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribución: Brazil, Argentina, Bolivia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[牛白蚁属 *Tauritermes*]({{ site.base_url }}/list/#tauritermes) —— 共 4 种（4 species · 4 especies）
 

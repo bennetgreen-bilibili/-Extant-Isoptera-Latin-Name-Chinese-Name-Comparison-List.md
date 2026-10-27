@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**地下锐颚白蚁**（*Hoplognathotermes submissus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）锐颚白蚁属（*Hoplognathotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1914 年描述，模式产地为 Cameroon: Victoria。分布记录包括旧热带界、喀麦隆。
+**地下锐颚白蚁**（*Hoplognathotermes submissus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）锐颚白蚁属（*Hoplognathotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Cameroon: Victoria。分布记录包括旧热带界、喀麦隆。
 
-EN — **地下锐颚白蚁** (*Hoplognathotermes submissus*) is a species of the genus *Hoplognathotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1914; the type locality is Cameroon: Victoria. Distribution: Old World tropics, Cameroon.
+EN — **地下锐颚白蚁** (*Hoplognathotermes submissus*) is a species of the genus *Hoplognathotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Silvestri in 1914; the type locality is Cameroon: Victoria. Distribution: Old World tropics, Cameroon.
 
-ES — **地下锐颚白蚁** (*Hoplognathotermes submissus*) es una especie del género *Hoplognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1914; la localidad tipo es Cameroon: Victoria. Distribución: Old World tropics, Cameroon.
+ES — **地下锐颚白蚁** (*Hoplognathotermes submissus*) es una especie del género *Hoplognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Cameroon: Victoria. Distribución: Old World tropics, Cameroon.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[锐颚白蚁属 *Hoplognathotermes*]({{ site.base_url }}/list/#hoplognathotermes) —— 共 3 种（3 species · 3 especies）

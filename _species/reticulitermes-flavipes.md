@@ -25,15 +25,14 @@ synonym_localities: "United States: Pennsylvania; United States: Texas: Beaumont
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**北美散白蚁**（*Reticulitermes flavipes*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Kollar 于 1837 年描述，模式产地为 Austria: Schönbrunn。分布记录包括北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭。文献另注：随贸易引入欧洲。本站记录本种有 3 个次异名。
+**北美散白蚁**（*Reticulitermes flavipes*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1837 年描述，模式产地为 Austria: Schönbrunn。分布记录包括北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭。文献另注：随贸易引入欧洲。本站记录本种有 3 个次异名。
 
-EN — **北美散白蚁** (*Reticulitermes flavipes*) is a species and the type species of its genus of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Kollar in 1837; the type locality is Austria: Schönbrunn. Distribution: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. This site records 3 junior synonyms for the species.
+EN — **北美散白蚁** (*Reticulitermes flavipes*) is a species and the type species of its genus of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Kollar in 1837; the type locality is Austria: Schönbrunn. Distribution: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. This site records 3 junior synonyms for the species.
 
-ES — **北美散白蚁** (*Reticulitermes flavipes*) es una especie, y la especie tipo de su género del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Kollar en 1837; la localidad tipo es Austria: Schönbrunn. Distribución: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. Este sitio registra 3 sinónimos junior para la especie.
+ES — **北美散白蚁** (*Reticulitermes flavipes*) es una especie, y la especie tipo de su género del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Kollar en 1837; la localidad tipo es Austria: Schönbrunn. Distribución: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 

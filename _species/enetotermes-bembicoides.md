@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似陀针筒白蚁**（*Enetotermes bembicoides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）针筒白蚁属（*Enetotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Sands 于 1995 年描述，模式产地为 Zambia: Lusaka。分布记录包括赞比亚。
+**似陀针筒白蚁**（*Enetotermes bembicoides*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）针筒白蚁属（*Enetotermes*）的现存唯一种。本种由 Sands 于 1995 年描述，模式产地为 Zambia: Lusaka。分布记录包括赞比亚。
 
-EN — **似陀针筒白蚁** (*Enetotermes bembicoides*) is the only extant species of the genus *Enetotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Sands in 1995; the type locality is Zambia: Lusaka. Distribution: Zambia.
+EN — **似陀针筒白蚁** (*Enetotermes bembicoides*) is the only extant species of the genus *Enetotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sands in 1995; the type locality is Zambia: Lusaka. Distribution: Zambia.
 
-ES — **似陀针筒白蚁** (*Enetotermes bembicoides*) es la única especie viviente del género *Enetotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sands en 1995; la localidad tipo es Zambia: Lusaka. Distribución: Zambia.
+ES — **似陀针筒白蚁** (*Enetotermes bembicoides*) es la única especie viviente del género *Enetotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Zambia: Lusaka. Distribución: Zambia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[针筒白蚁属 *Enetotermes*]({{ site.base_url }}/list/#enetotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

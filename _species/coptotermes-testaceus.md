@@ -25,15 +25,14 @@ synonym_localities: "Suriname: Marowijne: Confluence of Perica Creek and Cottica
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**厚壳乳白蚁**（*Coptotermes testaceus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括新热带界、中美洲至南美北部。本站记录本种有 5 个次异名。
+**厚壳乳白蚁**（*Coptotermes testaceus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Linnaeus 于 1758 年描述，模式产地为 Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]。分布记录包括新热带界、中美洲至南美北部。本站记录本种有 5 个次异名。
 
-EN — **厚壳乳白蚁** (*Coptotermes testaceus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Linnaeus in 1758; the type locality is Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribution: Neotropics, Central America to northern South America. This site records 5 junior synonyms for the species.
+EN — **厚壳乳白蚁** (*Coptotermes testaceus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Linnaeus in 1758; the type locality is Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribution: Neotropics, Central America to northern South America. This site records 5 junior synonyms for the species.
 
-ES — **厚壳乳白蚁** (*Coptotermes testaceus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Linnaeus en 1758; la localidad tipo es Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribución: Neotropics, Central America to northern South America. Este sitio registra 5 sinónimos junior para la especie.
+ES — **厚壳乳白蚁** (*Coptotermes testaceus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Linnaeus en 1758; la localidad tipo es Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribución: Neotropics, Central America to northern South America. Este sitio registra 5 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*

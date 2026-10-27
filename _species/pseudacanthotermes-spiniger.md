@@ -28,15 +28,14 @@ synonym_localities: "Democratic Republic of the Congo: Sankuru (Kassai); Democra
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具刺伪刺白蚁**（*Pseudacanthotermes spiniger*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1900 年描述，模式产地为 Democratic Republic of the Congo: Umangi。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚。本站记录本种有 4 个次异名。
+**具刺伪刺白蚁**（*Pseudacanthotermes spiniger*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）伪刺白蚁属（*Pseudacanthotermes*）的一种。本种由 Sjöstedt 于 1900 年描述，模式产地为 Democratic Republic of the Congo: Umangi。分布记录包括旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚。本站记录本种有 4 个次异名。
 
-EN — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) is a species of the genus *Pseudacanthotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1900; the type locality is Democratic Republic of the Congo: Umangi. Distribution: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. This site records 4 junior synonyms for the species.
+EN — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) is a species of the genus *Pseudacanthotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Sjöstedt in 1900; the type locality is Democratic Republic of the Congo: Umangi. Distribution: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. This site records 4 junior synonyms for the species.
 
-ES — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Democratic Republic of the Congo: Umangi. Distribución: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. Este sitio registra 4 sinónimos junior para la especie.
+ES — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Democratic Republic of the Congo: Umangi. Distribución: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[伪刺白蚁属 *Pseudacanthotermes*]({{ site.base_url }}/list/#pseudacanthotermes) —— 共 6 种（6 species · 6 especies）

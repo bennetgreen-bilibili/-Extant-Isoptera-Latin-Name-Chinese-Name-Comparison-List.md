@@ -28,15 +28,14 @@ synonym_localities: "Australia: Northern Territory: Port Darwin: Palmerston; (co
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三齿程草象白蚁**（*Nasutitermes triodiae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Western Australia: Hall’s Creek, Kimberly Goldfield。分布记录包括澳大利亚、巴布亚新几内亚。本站记录本种有 4 个次异名。
+**三齿程草象白蚁**（*Nasutitermes triodiae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Froggatt 于 1898 年描述，模式产地为 Australia: Western Australia: Hall’s Creek, Kimberly Goldfield。分布记录包括澳大利亚、巴布亚新几内亚。本站记录本种有 4 个次异名。
 
-EN — **三齿程草象白蚁** (*Nasutitermes triodiae*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Froggatt in 1898; the type locality is Australia: Western Australia: Hall’s Creek, Kimberly Goldfield. Distribution: Australia, Papua New Guinea. This site records 4 junior synonyms for the species.
+EN — **三齿程草象白蚁** (*Nasutitermes triodiae*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Froggatt in 1898; the type locality is Australia: Western Australia: Hall’s Creek, Kimberly Goldfield. Distribution: Australia, Papua New Guinea. This site records 4 junior synonyms for the species.
 
-ES — **三齿程草象白蚁** (*Nasutitermes triodiae*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Western Australia: Hall’s Creek, Kimberly Goldfield. Distribución: Australia, Papua New Guinea. Este sitio registra 4 sinónimos junior para la especie.
+ES — **三齿程草象白蚁** (*Nasutitermes triodiae*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Western Australia: Hall’s Creek, Kimberly Goldfield. Distribución: Australia, Papua New Guinea. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）

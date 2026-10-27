@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽颈新白蚁**（*Neotermes laticollis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Holmgren 于 1910 年描述，模式产地为 Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé。分布记录包括塞舌尔。
+**宽颈新白蚁**（*Neotermes laticollis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé。分布记录包括塞舌尔。
 
-EN — **宽颈新白蚁** (*Neotermes laticollis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Holmgren in 1910; the type locality is Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé. Distribution: Seychelles.
+EN — **宽颈新白蚁** (*Neotermes laticollis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Holmgren in 1910; the type locality is Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé. Distribution: Seychelles.
 
-ES — **宽颈新白蚁** (*Neotermes laticollis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé. Distribución: Seychelles.
+ES — **宽颈新白蚁** (*Neotermes laticollis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé. Distribución: Seychelles.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**斜角肌鳞白蚁**（*Lepidotermes scalenus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Uys 于 1994 年描述，模式产地为 South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect。分布记录包括非洲南部、南非。
+**斜角肌鳞白蚁**（*Lepidotermes scalenus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种。本种由 Uys 于 1994 年描述，模式产地为 South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect。分布记录包括非洲南部、南非。
 
-EN — **斜角肌鳞白蚁** (*Lepidotermes scalenus*) is a species of the genus *Lepidotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Uys in 1994; the type locality is South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect. Distribution: southern Africa, South Africa.
+EN — **斜角肌鳞白蚁** (*Lepidotermes scalenus*) is a species of the genus *Lepidotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Uys in 1994; the type locality is South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect. Distribution: southern Africa, South Africa.
 
-ES — **斜角肌鳞白蚁** (*Lepidotermes scalenus*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Uys en 1994; la localidad tipo es South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect. Distribución: southern Africa, South Africa.
+ES — **斜角肌鳞白蚁** (*Lepidotermes scalenus*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Uys en 1994; la localidad tipo es South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect. Distribución: southern Africa, South Africa.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[鳞白蚁属 *Lepidotermes*]({{ site.base_url }}/list/#lepidotermes) —— 共 9 种（9 species · 9 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**严肃等颚白蚁**（*Isognathotermes severus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Kakoulima。分布记录包括西非科特迪瓦、喀麦隆、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹、坦桑尼亚。
+**严肃等颚白蚁**（*Isognathotermes severus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Kakoulima。分布记录包括西非科特迪瓦、喀麦隆、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹、坦桑尼亚。
 
-EN — **严肃等颚白蚁** (*Isognathotermes severus*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima. Distribution: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania.
+EN — **严肃等颚白蚁** (*Isognathotermes severus*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Camayenne; Kakoulima. Distribution: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania.
 
-ES — **严肃等颚白蚁** (*Isognathotermes severus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima. Distribución: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania.
+ES — **严肃等颚白蚁** (*Isognathotermes severus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima. Distribución: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 9 种（9 species · 9 especies）

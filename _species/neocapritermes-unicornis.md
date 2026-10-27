@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**独角新扭白蚁**（*Neocapritermes unicornis*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Constantino 于 1991 年描述，模式产地为 Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]。分布记录包括巴西。
+**独角新扭白蚁**（*Neocapritermes unicornis*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Constantino 于 1991 年描述，模式产地为 Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]。分布记录包括巴西。
 
-EN — **独角新扭白蚁** (*Neocapritermes unicornis*) is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae), belonging to the clade Geoisoptera. The species was described by Constantino in 1991; the type locality is Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]. Distribution: Brazil.
+EN — **独角新扭白蚁** (*Neocapritermes unicornis*) is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Constantino in 1991; the type locality is Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]. Distribution: Brazil.
 
-ES — **独角新扭白蚁** (*Neocapritermes unicornis*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]. Distribución: Brazil.
+ES — **独角新扭白蚁** (*Neocapritermes unicornis*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amapá: Serra do Navio \[ 0.8955N 52.0022W \]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种（17 species · 17 especies）

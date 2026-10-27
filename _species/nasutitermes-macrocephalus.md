@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大头象白蚁**（*Nasutitermes macrocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1903 年描述，模式产地为 Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]。分布记录包括巴西、哥伦比亚、法属圭亚那、厄瓜多尔、秘鲁、阿根廷、玻利维亚、巴拉圭、委内瑞拉。
+**大头象白蚁**（*Nasutitermes macrocephalus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Silvestri 于 1903 年描述，模式产地为 Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]。分布记录包括巴西、哥伦比亚、法属圭亚那、厄瓜多尔、秘鲁、阿根廷、玻利维亚、巴拉圭、委内瑞拉。
 
-EN — **大头象白蚁** (*Nasutitermes macrocephalus*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1903; the type locality is Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]. Distribution: Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela.
+EN — **大头象白蚁** (*Nasutitermes macrocephalus*) is a species of the genus *Nasutitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1903; the type locality is Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]. Distribution: Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela.
 
-ES — **大头象白蚁** (*Nasutitermes macrocephalus*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]. Distribución: Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela.
+ES — **大头象白蚁** (*Nasutitermes macrocephalus*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Misiones: Puerto Piray \[26.4667S 54.7W\]; Misiones: San Ignacio \[27.2667S 55.5333W\]; Paraguay: Alto Paraná: Puerto Bertoni \[25.65S 54.5833W\]. Distribución: Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）

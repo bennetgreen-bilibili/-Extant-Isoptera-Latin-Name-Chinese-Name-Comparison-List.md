@@ -25,15 +25,14 @@ synonym_localities: "Australia: Queensland: north Queensland"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**达尔文澳白蚁**（*Mastotermes darwiniensis*）是澳白蚁科（MASTOTERMITIDAE）澳白蚁属（*Mastotermes*）的现存唯一种，隶属现存等翅下目（Extant Isoptera）。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚北部、热带北部地区。另有记录显示其已引入巴布亚新几内亚。本站记录本种有 1 个次异名。
+**达尔文澳白蚁**（*Mastotermes darwiniensis*）是澳白蚁科（MASTOTERMITIDAE）澳白蚁属（*Mastotermes*）的现存唯一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚北部、热带北部地区。另有记录显示其已引入巴布亚新几内亚。本站记录本种有 1 个次异名。
 
-EN — **达尔文澳白蚁** (*Mastotermes darwiniensis*) is the only extant species of the genus *Mastotermes*, in the family MASTOTERMITIDAE, belonging to the clade Extant Isoptera. The species was described by Froggatt in 1897; the type locality is Australia: Northern Territory: Darwin. Distribution: northern Australia, tropical northern region, introduced: Papua New Guinea. This site records 1 junior synonym for the species.
+EN — **达尔文澳白蚁** (*Mastotermes darwiniensis*) is the only extant species of the genus *Mastotermes*, in the family MASTOTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: Northern Territory: Darwin. Distribution: northern Australia, tropical northern region, introduced: Papua New Guinea. This site records 1 junior synonym for the species.
 
-ES — **达尔文澳白蚁** (*Mastotermes darwiniensis*) es la única especie viviente del género *Mastotermes*, en la familia MASTOTERMITIDAE, perteneciente al clado Extant Isoptera. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Northern Territory: Darwin. Distribución: northern Australia, tropical northern region, introduced: Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
+ES — **达尔文澳白蚁** (*Mastotermes darwiniensis*) es la única especie viviente del género *Mastotermes*, en la familia MASTOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Northern Territory: Darwin. Distribución: northern Australia, tropical northern region, introduced: Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[现存等翅下目 Extant Isoptera]({{ site.base_url }}/list/#isoptera)
 - **科 Family / Familia**：[澳白蚁科 MASTOTERMITIDAE]({{ site.base_url }}/list/#mastotermitidae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
 - **属 Genus / Género**：[澳白蚁属 *Mastotermes*]({{ site.base_url }}/list/#mastotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

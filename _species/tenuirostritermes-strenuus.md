@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**活跃薄嘴白蚁**（*Tenuirostritermes strenuus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）薄嘴白蚁属（*Tenuirostritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Hagen 于 1860 年描述，模式产地为 Mexico: Veracruz。分布记录包括墨西哥。
+**活跃薄嘴白蚁**（*Tenuirostritermes strenuus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）薄嘴白蚁属（*Tenuirostritermes*）的一种。本种由 Hagen 于 1860 年描述，模式产地为 Mexico: Veracruz。分布记录包括墨西哥。
 
-EN — **活跃薄嘴白蚁** (*Tenuirostritermes strenuus*) is a species of the genus *Tenuirostritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Hagen in 1860; the type locality is Mexico: Veracruz. Distribution: Mexico.
+EN — **活跃薄嘴白蚁** (*Tenuirostritermes strenuus*) is a species of the genus *Tenuirostritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Hagen in 1860; the type locality is Mexico: Veracruz. Distribution: Mexico.
 
-ES — **活跃薄嘴白蚁** (*Tenuirostritermes strenuus*) es una especie del género *Tenuirostritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hagen en 1860; la localidad tipo es Mexico: Veracruz. Distribución: Mexico.
+ES — **活跃薄嘴白蚁** (*Tenuirostritermes strenuus*) es una especie del género *Tenuirostritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hagen en 1860; la localidad tipo es Mexico: Veracruz. Distribución: Mexico.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[薄嘴白蚁属 *Tenuirostritermes*]({{ site.base_url }}/list/#tenuirostritermes) —— 共 5 种（5 species · 5 especies）

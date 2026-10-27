@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长毛阿劳若白蚁**（*Araujotermes parvellus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿劳若白蚁属（*Araujotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、特立尼达和多巴哥、委内瑞拉。
+**长毛阿劳若白蚁**（*Araujotermes parvellus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿劳若白蚁属（*Araujotermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、特立尼达和多巴哥、委内瑞拉。
 
-EN — **长毛阿劳若白蚁** (*Araujotermes parvellus*) is a species of the genus *Araujotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1923; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela.
+EN — **长毛阿劳若白蚁** (*Araujotermes parvellus*) is a species of the genus *Araujotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1923; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribution: Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela.
 
-ES — **长毛阿劳若白蚁** (*Araujotermes parvellus*) es una especie del género *Araujotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1923; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela.
+ES — **长毛阿劳若白蚁** (*Araujotermes parvellus*) es una especie del género *Araujotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1923; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, Colombia, French Guiana, Guyana, Trinidad and Tobago, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[阿劳若白蚁属 *Araujotermes*]({{ site.base_url }}/list/#araujotermes) —— 共 4 种（4 species · 4 especies）

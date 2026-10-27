@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**甘哈亮白蚁**（*Euhamitermes kanhaensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Roonwal & Chhotani 于 1965 年描述，模式产地为 India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6。分布记录包括南亚、印度。
+**甘哈亮白蚁**（*Euhamitermes kanhaensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种。本种由 Roonwal & Chhotani 于 1965 年描述，模式产地为 India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6。分布记录包括南亚、印度。
 
-EN — **甘哈亮白蚁** (*Euhamitermes kanhaensis*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Roonwal & Chhotani in 1965; the type locality is India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6. Distribution: South Asia, India.
+EN — **甘哈亮白蚁** (*Euhamitermes kanhaensis*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Roonwal & Chhotani in 1965; the type locality is India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6. Distribution: South Asia, India.
 
-ES — **甘哈亮白蚁** (*Euhamitermes kanhaensis*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Roonwal & Chhotani en 1965; la localidad tipo es India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6. Distribución: South Asia, India.
+ES — **甘哈亮白蚁** (*Euhamitermes kanhaensis*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1965; la localidad tipo es India: Madhya Pradesh: Mandla District: Kanha National Park, ca. 1 km N of Forest Rest House, coll. sta. No. 6. Distribución: South Asia, India.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[亮白蚁属 *Euhamitermes*]({{ site.base_url }}/list/#euhamitermes) —— 共 24 种（24 species · 24 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具瘤岗白蚁**（*Jugositermes tuberculatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）岗白蚁属（*Jugositermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1928 年描述，模式产地为 Cameroon: Bipindi。分布记录包括中非、喀麦隆、中非共和国、刚果民主共和国、加蓬、尼日利亚。
+**具瘤岗白蚁**（*Jugositermes tuberculatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）岗白蚁属（*Jugositermes*）的现存唯一种。本种由 Emerson 于 1928 年描述，模式产地为 Cameroon: Bipindi。分布记录包括中非、喀麦隆、中非共和国、刚果民主共和国、加蓬、尼日利亚。
 
-EN — **具瘤岗白蚁** (*Jugositermes tuberculatus*) is the only extant species of the genus *Jugositermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1928; the type locality is Cameroon: Bipindi. Distribution: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
+EN — **具瘤岗白蚁** (*Jugositermes tuberculatus*) is the only extant species of the genus *Jugositermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Emerson in 1928; the type locality is Cameroon: Bipindi. Distribution: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
 
-ES — **具瘤岗白蚁** (*Jugositermes tuberculatus*) es la única especie viviente del género *Jugositermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Bipindi. Distribución: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
+ES — **具瘤岗白蚁** (*Jugositermes tuberculatus*) es la única especie viviente del género *Jugositermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Bipindi. Distribución: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[岗白蚁属 *Jugositermes*]({{ site.base_url }}/list/#jugositermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

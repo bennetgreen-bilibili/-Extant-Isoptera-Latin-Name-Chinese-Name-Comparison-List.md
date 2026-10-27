@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**坚硬楹白蚁**（*Incisitermes solidus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括不明。
+**坚硬楹白蚁**（*Incisitermes solidus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 (country unknown): ?。分布记录包括不明。
 
-EN — **坚硬楹白蚁** (*Incisitermes solidus*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Hagen in 1858; the type locality is (country unknown): ?. Distribution: unknown.
+EN — **坚硬楹白蚁** (*Incisitermes solidus*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Hagen in 1858; the type locality is (country unknown): ?. Distribution: unknown.
 
-ES — **坚硬楹白蚁** (*Incisitermes solidus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Hagen en 1858; la localidad tipo es (country unknown): ?. Distribución: unknown.
+ES — **坚硬楹白蚁** (*Incisitermes solidus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es (country unknown): ?. Distribución: unknown.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

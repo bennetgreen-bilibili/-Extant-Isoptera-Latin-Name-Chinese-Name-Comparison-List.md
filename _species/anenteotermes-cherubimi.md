@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小天使无甲白蚁**（*Anenteotermes cherubimi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Scheffrahn 于 2018 年描述，模式产地为 Cameroon: Korup National Park。分布记录包括刚果共和国、喀麦隆。
+**小天使无甲白蚁**（*Anenteotermes cherubimi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种。本种由 Scheffrahn 于 2018 年描述，模式产地为 Cameroon: Korup National Park。分布记录包括刚果共和国、喀麦隆。
 
-EN — **小天使无甲白蚁** (*Anenteotermes cherubimi*) is a species of the genus *Anenteotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Scheffrahn in 2018; the type locality is Cameroon: Korup National Park. Distribution: Republic of the Congo, Cameroon.
+EN — **小天使无甲白蚁** (*Anenteotermes cherubimi*) is a species of the genus *Anenteotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn in 2018; the type locality is Cameroon: Korup National Park. Distribution: Republic of the Congo, Cameroon.
 
-ES — **小天使无甲白蚁** (*Anenteotermes cherubimi*) es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Korup National Park. Distribución: Republic of the Congo, Cameroon.
+ES — **小天使无甲白蚁** (*Anenteotermes cherubimi*) es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Korup National Park. Distribución: Republic of the Congo, Cameroon.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无甲白蚁属 *Anenteotermes*]({{ site.base_url }}/list/#anenteotermes) —— 共 11 种（11 species · 11 especies）

@@ -25,15 +25,14 @@ synonym_localities: "Malaysia: Sabah: Darvel Bay; Philippines: Luzon: Los Banos"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曲颚乳白蚁**（*Coptotermes curvignathus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak; Myanmar: ?; Singapore: ?。分布记录包括东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非。另有记录显示其已引入中国。本站记录本种有 2 个次异名。
+**曲颚乳白蚁**（*Coptotermes curvignathus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak; Myanmar: ?; Singapore: ?。分布记录包括东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非。另有记录显示其已引入中国。本站记录本种有 2 个次异名。
 
-EN — **曲颚乳白蚁** (*Coptotermes curvignathus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Holmgren in 1913; the type locality is Malaysia: Sarawak; Myanmar: ?; Singapore: ?. Distribution: Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa. This site records 2 junior synonyms for the species.
+EN — **曲颚乳白蚁** (*Coptotermes curvignathus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Holmgren in 1913; the type locality is Malaysia: Sarawak; Myanmar: ?; Singapore: ?. Distribution: Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa. This site records 2 junior synonyms for the species.
 
-ES — **曲颚乳白蚁** (*Coptotermes curvignathus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak; Myanmar: ?; Singapore: ?. Distribución: Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa. Este sitio registra 2 sinónimos junior para la especie.
+ES — **曲颚乳白蚁** (*Coptotermes curvignathus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak; Myanmar: ?; Singapore: ?. Distribución: Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*

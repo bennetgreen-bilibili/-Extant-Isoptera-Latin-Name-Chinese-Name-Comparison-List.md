@@ -28,15 +28,14 @@ synonym_localities: "South Africa: Zululand"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乌库兹大白蚁**（*Macrotermes ukuzii*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Fuller 于 1922 年描述，模式产地为 South Africa: Zululand: Ukuzi River。分布记录包括非洲南部、津巴布韦、南非、斯威士兰、坦桑尼亚。本站记录本种有 1 个次异名。
+**乌库兹大白蚁**（*Macrotermes ukuzii*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Fuller 于 1922 年描述，模式产地为 South Africa: Zululand: Ukuzi River。分布记录包括非洲南部、津巴布韦、南非、斯威士兰、坦桑尼亚。本站记录本种有 1 个次异名。
 
-EN — **乌库兹大白蚁** (*Macrotermes ukuzii*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Fuller in 1922; the type locality is South Africa: Zululand: Ukuzi River. Distribution: southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania. This site records 1 junior synonym for the species.
+EN — **乌库兹大白蚁** (*Macrotermes ukuzii*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Fuller in 1922; the type locality is South Africa: Zululand: Ukuzi River. Distribution: southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania. This site records 1 junior synonym for the species.
 
-ES — **乌库兹大白蚁** (*Macrotermes ukuzii*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Zululand: Ukuzi River. Distribución: southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
+ES — **乌库兹大白蚁** (*Macrotermes ukuzii*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Zululand: Ukuzi River. Distribución: southern Africa, Zimbabwe, South Africa, Eswatini, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/list/#macrotermes) —— 共 57 种（57 species · 57 especies）

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**赛庞乳白蚁**（*Coptotermes sepangensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Krishna 于 1956 年描述，模式产地为 Malaysia: Selangor: Sepang。分布记录包括马来西亚、印度尼西亚。
+**赛庞乳白蚁**（*Coptotermes sepangensis*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Krishna 于 1956 年描述，模式产地为 Malaysia: Selangor: Sepang。分布记录包括马来西亚、印度尼西亚。
 
-EN — **赛庞乳白蚁** (*Coptotermes sepangensis*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Krishna in 1956; the type locality is Malaysia: Selangor: Sepang. Distribution: Malaysia, Indonesia.
+EN — **赛庞乳白蚁** (*Coptotermes sepangensis*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Krishna in 1956; the type locality is Malaysia: Selangor: Sepang. Distribution: Malaysia, Indonesia.
 
-ES — **赛庞乳白蚁** (*Coptotermes sepangensis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Krishna en 1956; la localidad tipo es Malaysia: Selangor: Sepang. Distribución: Malaysia, Indonesia.
+ES — **赛庞乳白蚁** (*Coptotermes sepangensis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Krishna en 1956; la localidad tipo es Malaysia: Selangor: Sepang. Distribución: Malaysia, Indonesia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*

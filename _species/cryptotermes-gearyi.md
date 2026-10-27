@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**吉尔里堆砂白蚁**（*Cryptotermes gearyi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Hill 于 1942 年描述，模式产地为 Australia: Queensland: Dalby。分布记录包括澳大利亚。
+**吉尔里堆砂白蚁**（*Cryptotermes gearyi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Hill 于 1942 年描述，模式产地为 Australia: Queensland: Dalby。分布记录包括澳大利亚。
 
-EN — **吉尔里堆砂白蚁** (*Cryptotermes gearyi*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Hill in 1942; the type locality is Australia: Queensland: Dalby. Distribution: Australia.
+EN — **吉尔里堆砂白蚁** (*Cryptotermes gearyi*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Hill in 1942; the type locality is Australia: Queensland: Dalby. Distribution: Australia.
 
-ES — **吉尔里堆砂白蚁** (*Cryptotermes gearyi*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Dalby. Distribución: Australia.
+ES — **吉尔里堆砂白蚁** (*Cryptotermes gearyi*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Dalby. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*

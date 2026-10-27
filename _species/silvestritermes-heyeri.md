@@ -28,15 +28,14 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本站记录本种有 1 个次异名。
+**海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本站记录本种有 1 个次异名。
 
-EN — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) is a species of the genus *Silvestritermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1915; the type locality is Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribution: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. This site records 1 junior synonym for the species.
+EN — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) is a species of the genus *Silvestritermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Wasmann in 1915; the type locality is Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribution: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. This site records 1 junior synonym for the species.
 
-ES — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) es una especie del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1915; la localidad tipo es Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribución: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+ES — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) es una especie del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Wasmann en 1915; la localidad tipo es Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribución: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[西尔韦斯特里白蚁属 *Silvestritermes*]({{ site.base_url }}/list/#silvestritermes) —— 共 7 种（7 species · 7 especies）

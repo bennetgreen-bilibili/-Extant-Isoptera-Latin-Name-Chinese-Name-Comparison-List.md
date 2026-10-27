@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**巴罗科罗拉多快白蚁**（*Velocitermes barrocoloradensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）快白蚁属（*Velocitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括巴拿马。
+**巴罗科罗拉多快白蚁**（*Velocitermes barrocoloradensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）快白蚁属（*Velocitermes*）的一种。本种由 Snyder 于 1925 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括巴拿马。
 
-EN — **巴罗科罗拉多快白蚁** (*Velocitermes barrocoloradensis*) is a species of the genus *Velocitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1925; the type locality is Panama: Barro Colorado Island. Distribution: Panama.
+EN — **巴罗科罗拉多快白蚁** (*Velocitermes barrocoloradensis*) is a species of the genus *Velocitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Snyder in 1925; the type locality is Panama: Barro Colorado Island. Distribution: Panama.
 
-ES — **巴罗科罗拉多快白蚁** (*Velocitermes barrocoloradensis*) es una especie del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Barro Colorado Island. Distribución: Panama.
+ES — **巴罗科罗拉多快白蚁** (*Velocitermes barrocoloradensis*) es una especie del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Barro Colorado Island. Distribución: Panama.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[快白蚁属 *Velocitermes*]({{ site.base_url }}/list/#velocitermes) —— 共 10 种（10 species · 10 especies）

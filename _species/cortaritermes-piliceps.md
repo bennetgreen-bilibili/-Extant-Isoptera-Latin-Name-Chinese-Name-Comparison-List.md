@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**毛头利颚白蚁**（*Cortaritermes piliceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1910 年描述，模式产地为 Paraguay: Concepción: Puerto Max, Estancia Postillon \[22.648S 57.763W\]。分布记录包括巴西、阿根廷、哥伦比亚、法属圭亚那、乌拉圭、委内瑞拉、玻利维亚、巴拉圭、特立尼达。
+**毛头利颚白蚁**（*Cortaritermes piliceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Paraguay: Concepción: Puerto Max, Estancia Postillon \[22.648S 57.763W\]。分布记录包括巴西、阿根廷、哥伦比亚、法属圭亚那、乌拉圭、委内瑞拉、玻利维亚、巴拉圭、特立尼达。
 
-EN — **毛头利颚白蚁** (*Cortaritermes piliceps*) is a species of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1910; the type locality is Paraguay: Concepción: Puerto Max, Estancia Postillon \[22.648S 57.763W\]. Distribution: Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad.
+EN — **毛头利颚白蚁** (*Cortaritermes piliceps*) is a species of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Paraguay: Concepción: Puerto Max, Estancia Postillon \[22.648S 57.763W\]. Distribution: Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad.
 
-ES — **毛头利颚白蚁** (*Cortaritermes piliceps*) es una especie del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1910; la localidad tipo es Paraguay: Concepción: Puerto Max, Estancia Postillon \[22.648S 57.763W\]. Distribución: Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad.
+ES — **毛头利颚白蚁** (*Cortaritermes piliceps*) es una especie del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Paraguay: Concepción: Puerto Max, Estancia Postillon \[22.648S 57.763W\]. Distribución: Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[利颚白蚁属 *Cortaritermes*]({{ site.base_url }}/list/#cortaritermes) —— 共 5 种（5 species · 5 especies）

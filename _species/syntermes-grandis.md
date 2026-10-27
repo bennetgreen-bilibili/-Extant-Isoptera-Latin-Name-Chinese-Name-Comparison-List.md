@@ -28,15 +28,14 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; Brasil: ?; Bolivi
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大聚白蚁**（*Syntermes grandis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Rambur 于 1842 年描述，模式产地为 French Guiana: Cayenne \[4.93333N 52.33W\]。分布记录包括巴西、法属圭亚那、苏里南、委内瑞拉、玻利维亚、圭亚那。本站记录本种有 3 个次异名。
+**大聚白蚁**（*Syntermes grandis*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Rambur 于 1842 年描述，模式产地为 French Guiana: Cayenne \[4.93333N 52.33W\]。分布记录包括巴西、法属圭亚那、苏里南、委内瑞拉、玻利维亚、圭亚那。本站记录本种有 3 个次异名。
 
-EN — **大聚白蚁** (*Syntermes grandis*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Rambur in 1842; the type locality is French Guiana: Cayenne \[4.93333N 52.33W\]. Distribution: Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana. This site records 3 junior synonyms for the species.
+EN — **大聚白蚁** (*Syntermes grandis*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Rambur in 1842; the type locality is French Guiana: Cayenne \[4.93333N 52.33W\]. Distribution: Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana. This site records 3 junior synonyms for the species.
 
-ES — **大聚白蚁** (*Syntermes grandis*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Rambur en 1842; la localidad tipo es French Guiana: Cayenne \[4.93333N 52.33W\]. Distribución: Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana. Este sitio registra 3 sinónimos junior para la especie.
+ES — **大聚白蚁** (*Syntermes grandis*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es French Guiana: Cayenne \[4.93333N 52.33W\]. Distribución: Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/list/#syntermes) —— 共 23 种（23 species · 23 especies）

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**库兹涅佐夫古白蚁**（*Archotermopsis kuznetsovi*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，隶属远等翅类（Teletisoptera）。本种由 Belyaeva 于 2004 年描述，模式产地为 Vietnam: 8 km. SE Shapa Mt。分布记录包括中国、越南。
+**库兹涅佐夫古白蚁**（*Archotermopsis kuznetsovi*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种。本种由 Belyaeva 于 2004 年描述，模式产地为 Vietnam: 8 km. SE Shapa Mt。分布记录包括中国、越南。
 
-EN — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) is a species of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE, belonging to the clade Teletisoptera. The species was described by Belyaeva in 2004; the type locality is Vietnam: 8 km. SE Shapa Mt. Distribution: China, Vietnam.
+EN — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) is a species of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Belyaeva in 2004; the type locality is Vietnam: 8 km. SE Shapa Mt. Distribution: China, Vietnam.
 
-ES — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) es una especie del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Belyaeva en 2004; la localidad tipo es Vietnam: 8 km. SE Shapa Mt. Distribución: China, Vietnam.
+ES — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) es una especie del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Belyaeva en 2004; la localidad tipo es Vietnam: 8 km. SE Shapa Mt. Distribución: China, Vietnam.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/list/#archotermopsidae) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
 - **属 Genus / Género**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/list/#archotermopsis) —— 共 2 种（2 species · 2 especies）
 - **本属模式种 Type species / Especie tipo**：*Archotermopsis wroughtoni*

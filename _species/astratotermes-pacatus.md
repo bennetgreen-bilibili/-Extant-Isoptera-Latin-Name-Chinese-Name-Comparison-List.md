@@ -28,15 +28,14 @@ synonym_localities: "Congo: Brazzaville"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**平静无刃白蚁**（*Astratotermes pacatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无刃白蚁属（*Astratotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括非洲热带。本站记录本种有 1 个次异名。
+**平静无刃白蚁**（*Astratotermes pacatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无刃白蚁属（*Astratotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Kindia。分布记录包括非洲热带。本站记录本种有 1 个次异名。
 
-EN — **平静无刃白蚁** (*Astratotermes pacatus*) is a species of the genus *Astratotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1914; the type locality is Guinea: Kindia. Distribution: tropical Africa. This site records 1 junior synonym for the species.
+EN — **平静无刃白蚁** (*Astratotermes pacatus*) is a species of the genus *Astratotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Kindia. Distribution: tropical Africa. This site records 1 junior synonym for the species.
 
-ES — **平静无刃白蚁** (*Astratotermes pacatus*) es una especie del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. Distribución: tropical Africa. Este sitio registra 1 sinónimo junior para la especie.
+ES — **平静无刃白蚁** (*Astratotermes pacatus*) es una especie del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. Distribución: tropical Africa. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无刃白蚁属 *Astratotermes*]({{ site.base_url }}/list/#astratotermes) —— 共 6 种（6 species · 6 especies）

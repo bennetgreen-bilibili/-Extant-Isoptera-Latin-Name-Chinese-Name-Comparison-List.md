@@ -28,15 +28,14 @@ synonym_localities: "India: Assam: North-East Frontier Agency, Khasi Hills, on b
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**氙地白蚁**（*Hypotermes xenotermitis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Palon (Pegù)。分布记录包括印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国。本站记录本种有 1 个次异名。
+**氙地白蚁**（*Hypotermes xenotermitis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Palon (Pegù)。分布记录包括印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国。本站记录本种有 1 个次异名。
 
-EN — **氙地白蚁** (*Hypotermes xenotermitis*) is a species of the genus *Hypotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1896; the type locality is Myanmar: Palon (Pegù). Distribution: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. This site records 1 junior synonym for the species.
+EN — **氙地白蚁** (*Hypotermes xenotermitis*) is a species of the genus *Hypotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Wasmann in 1896; the type locality is Myanmar: Palon (Pegù). Distribution: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. This site records 1 junior synonym for the species.
 
-ES — **氙地白蚁** (*Hypotermes xenotermitis*) es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Palon (Pegù). Distribución: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. Este sitio registra 1 sinónimo junior para la especie.
+ES — **氙地白蚁** (*Hypotermes xenotermitis*) es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Palon (Pegù). Distribución: India, Pakistan, Bangladesh, Bhutan, Indonesia, Malaysia, Myanmar, Thailand. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[地白蚁属 *Hypotermes*]({{ site.base_url }}/list/#hypotermes) —— 共 13 种（13 species · 13 especies）

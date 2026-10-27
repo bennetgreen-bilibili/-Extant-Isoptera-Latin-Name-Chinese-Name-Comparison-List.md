@@ -25,15 +25,14 @@ synonym_localities: "Equatorial Guinea: Bioko"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**臭鼬长鼻白蚁**（*Schedorhinotermes putorius*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Kitta。分布记录包括西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达。本站记录本种有 1 个次异名。
+**臭鼬长鼻白蚁**（*Schedorhinotermes putorius*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Sjöstedt 于 1896 年描述，模式产地为 Cameroon: Kitta。分布记录包括西非、喀麦隆、加蓬、赤道几内亚、加纳、几内亚、几内亚比绍、科特迪瓦、尼日利亚、圣多美和普林西比、塞拉利昂、安哥拉、中非共和国、刚果民主共和国、乌干达。本站记录本种有 1 个次异名。
 
-EN — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Sjöstedt in 1896; the type locality is Cameroon: Kitta. Distribution: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. This site records 1 junior synonym for the species.
+EN — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Sjöstedt in 1896; the type locality is Cameroon: Kitta. Distribution: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. This site records 1 junior synonym for the species.
 
-ES — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Kitta. Distribución: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. Este sitio registra 1 sinónimo junior para la especie.
+ES — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Kitta. Distribución: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*

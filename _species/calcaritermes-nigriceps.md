@@ -25,15 +25,14 @@ synonym_localities: "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.083
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑头距白蚁**（*Calcaritermes nigriceps*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本站记录本种有 1 个次异名。
+**黑头距白蚁**（*Calcaritermes nigriceps*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本站记录本种有 1 个次异名。
 
-EN — **黑头距白蚁** (*Calcaritermes nigriceps*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
+EN — **黑头距白蚁** (*Calcaritermes nigriceps*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
 
-ES — **黑头距白蚁** (*Calcaritermes nigriceps*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+ES — **黑头距白蚁** (*Calcaritermes nigriceps*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/list/#calcaritermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Calcaritermes imminens*

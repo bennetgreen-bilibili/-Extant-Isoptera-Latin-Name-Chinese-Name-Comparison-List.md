@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**铜头锯白蚁**（*Microcerotermes cupreiceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Roisin & Pasteels 于 2000 年描述，模式产地为 Papua New Guinea: Central Province: Varirata National Park。分布记录包括巴布亚新几内亚。
+**铜头锯白蚁**（*Microcerotermes cupreiceps*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）的一种。本种由 Roisin & Pasteels 于 2000 年描述，模式产地为 Papua New Guinea: Central Province: Varirata National Park。分布记录包括巴布亚新几内亚。
 
-EN — **铜头锯白蚁** (*Microcerotermes cupreiceps*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae), belonging to the clade Geoisoptera. The species was described by Roisin & Pasteels in 2000; the type locality is Papua New Guinea: Central Province: Varirata National Park. Distribution: Papua New Guinea.
+EN — **铜头锯白蚁** (*Microcerotermes cupreiceps*) is a species of the genus *Microcerotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Roisin & Pasteels in 2000; the type locality is Papua New Guinea: Central Province: Varirata National Park. Distribution: Papua New Guinea.
 
-ES — **铜头锯白蚁** (*Microcerotermes cupreiceps*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Roisin & Pasteels en 2000; la localidad tipo es Papua New Guinea: Central Province: Varirata National Park. Distribución: Papua New Guinea.
+ES — **铜头锯白蚁** (*Microcerotermes cupreiceps*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Roisin & Pasteels en 2000; la localidad tipo es Papua New Guinea: Central Province: Varirata National Park. Distribución: Papua New Guinea.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
 - **属 Genus / Género**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/list/#microcerotermes) —— 共 148 种（148 species · 148 especies）

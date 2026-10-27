@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长唇狭鼻白蚁**（*Dolichorhinotermes longilabius*）是鼻白蚁科（RHINOTERMITIDAE）狭鼻白蚁属（*Dolichorhinotermes*）的一种，也是本属的模式种，隶属新等翅类（Neoisoptera）。本种由 Emerson 于 1924 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。
+**长唇狭鼻白蚁**（*Dolichorhinotermes longilabius*）是鼻白蚁科（RHINOTERMITIDAE）狭鼻白蚁属（*Dolichorhinotermes*）的一种，也是本属的模式种。本种由 Emerson 于 1924 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、巴西、哥伦比亚、法属圭亚那、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。
 
-EN — **长唇狭鼻白蚁** (*Dolichorhinotermes longilabius*) is a species and the type species of its genus of the genus *Dolichorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Emerson in 1924; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Brazil, Colombia, French Guiana, Ecuador, Guyana, Trinidad and Tobago, Venezuela.
+EN — **长唇狭鼻白蚁** (*Dolichorhinotermes longilabius*) is a species and the type species of its genus of the genus *Dolichorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Emerson in 1924; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: South America, Brazil, Colombia, French Guiana, Ecuador, Guyana, Trinidad and Tobago, Venezuela.
 
-ES — **长唇狭鼻白蚁** (*Dolichorhinotermes longilabius*) es una especie, y la especie tipo de su género del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Emerson en 1924; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Brazil, Colombia, French Guiana, Ecuador, Guyana, Trinidad and Tobago, Venezuela.
+ES — **长唇狭鼻白蚁** (*Dolichorhinotermes longilabius*) es una especie, y la especie tipo de su género del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Emerson en 1924; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Brazil, Colombia, French Guiana, Ecuador, Guyana, Trinidad and Tobago, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[狭鼻白蚁属 *Dolichorhinotermes*]({{ site.base_url }}/list/#dolichorhinotermes) —— 共 7 种（7 species · 7 especies）
 

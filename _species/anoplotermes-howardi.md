@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**霍华德解甲白蚁**（*Anoplotermes howardi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]。分布记录包括玻利维亚、巴西。
+**霍华德解甲白蚁**（*Anoplotermes howardi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）解甲白蚁属（*Anoplotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]。分布记录包括玻利维亚、巴西。
 
-EN — **霍华德解甲白蚁** (*Anoplotermes howardi*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]. Distribution: Bolivia, Brazil.
+EN — **霍华德解甲白蚁** (*Anoplotermes howardi*) is a species of the genus *Anoplotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Snyder in 1926; the type locality is Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]. Distribution: Bolivia, Brazil.
 
-ES — **霍华德解甲白蚁** (*Anoplotermes howardi*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]. Distribución: Bolivia, Brazil.
+ES — **霍华德解甲白蚁** (*Anoplotermes howardi*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[ 13.9667S 66.8667W \]. Distribución: Bolivia, Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[解甲白蚁属 *Anoplotermes*]({{ site.base_url }}/list/#anoplotermes) —— 共 23 种（23 species · 23 especies）

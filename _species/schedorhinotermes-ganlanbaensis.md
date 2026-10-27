@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**橄榄坝长鼻白蚁**（*Schedorhinotermes ganlanbaensis*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Xia & He 于 1980 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括中国云南。
+**橄榄坝长鼻白蚁**（*Schedorhinotermes ganlanbaensis*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Xia & He 于 1980 年描述，模式产地为 China: Yunnan Province: Jinghong。分布记录包括中国云南。
 
-EN — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Xia & He in 1980; the type locality is China: Yunnan Province: Jinghong. Distribution: China (Yunnan).
+EN — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Xia & He in 1980; the type locality is China: Yunnan Province: Jinghong. Distribution: China (Yunnan).
 
-ES — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Xia & He en 1980; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan).
+ES — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Xia & He en 1980; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan).
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*

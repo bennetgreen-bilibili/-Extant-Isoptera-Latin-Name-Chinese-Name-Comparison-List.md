@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大颚钩白蚁**（*Gnathamitermes grandis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Light 于 1930 年描述，模式产地为 Mexico: Guadalajara。分布记录包括中美洲墨西哥。
+**大颚钩白蚁**（*Gnathamitermes grandis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种。本种由 Light 于 1930 年描述，模式产地为 Mexico: Guadalajara。分布记录包括中美洲墨西哥。
 
-EN — **大颚钩白蚁** (*Gnathamitermes grandis*) is a species of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Light in 1930; the type locality is Mexico: Guadalajara. Distribution: Central America (Mexico).
+EN — **大颚钩白蚁** (*Gnathamitermes grandis*) is a species of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Light in 1930; the type locality is Mexico: Guadalajara. Distribution: Central America (Mexico).
 
-ES — **大颚钩白蚁** (*Gnathamitermes grandis*) es una especie del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Light en 1930; la localidad tipo es Mexico: Guadalajara. Distribución: Central America (Mexico).
+ES — **大颚钩白蚁** (*Gnathamitermes grandis*) es una especie del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1930; la localidad tipo es Mexico: Guadalajara. Distribución: Central America (Mexico).
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[颚钩白蚁属 *Gnathamitermes*]({{ site.base_url }}/list/#gnathamitermes) —— 共 4 种（4 species · 4 especies）

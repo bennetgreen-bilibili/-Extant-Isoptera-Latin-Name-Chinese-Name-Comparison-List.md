@@ -28,15 +28,14 @@ synonym_localities: "United States: Arizona: Oracle; United States: California: 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**复杂颚钩白蚁**（*Gnathamitermes perplexus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Victoria。分布记录包括美国、墨西哥。本站记录本种有 6 个次异名。
+**复杂颚钩白蚁**（*Gnathamitermes perplexus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种，也是本属的模式种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Victoria。分布记录包括美国、墨西哥。本站记录本种有 6 个次异名。
 
-EN — **复杂颚钩白蚁** (*Gnathamitermes perplexus*) is a species and the type species of its genus of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Banks in 1920; the type locality is United States: Texas: Victoria. Distribution: United States, Mexico. This site records 6 junior synonyms for the species.
+EN — **复杂颚钩白蚁** (*Gnathamitermes perplexus*) is a species and the type species of its genus of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Banks in 1920; the type locality is United States: Texas: Victoria. Distribution: United States, Mexico. This site records 6 junior synonyms for the species.
 
-ES — **复杂颚钩白蚁** (*Gnathamitermes perplexus*) es una especie, y la especie tipo de su género del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Victoria. Distribución: United States, Mexico. Este sitio registra 6 sinónimos junior para la especie.
+ES — **复杂颚钩白蚁** (*Gnathamitermes perplexus*) es una especie, y la especie tipo de su género del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Victoria. Distribución: United States, Mexico. Este sitio registra 6 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[颚钩白蚁属 *Gnathamitermes*]({{ site.base_url }}/list/#gnathamitermes) —— 共 4 种（4 species · 4 especies）

@@ -28,15 +28,14 @@ synonym_localities: "Madagascar: St. Marie Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑色考登白蚁**（*Kaudernitermes nigritus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括马达加斯加、塞舌尔。本站记录本种有 1 个次异名。
+**黑色考登白蚁**（*Kaudernitermes nigritus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）考登白蚁属（*Kaudernitermes*）的一种。本种由 Wasmann 于 1897 年描述，模式产地为 Madagascar: Fenerive。分布记录包括马达加斯加、塞舌尔。本站记录本种有 1 个次异名。
 
-EN — **黑色考登白蚁** (*Kaudernitermes nigritus*) is a species of the genus *Kaudernitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1897; the type locality is Madagascar: Fenerive. Distribution: Madagascar, Seychelles. This site records 1 junior synonym for the species.
+EN — **黑色考登白蚁** (*Kaudernitermes nigritus*) is a species of the genus *Kaudernitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Wasmann in 1897; the type locality is Madagascar: Fenerive. Distribution: Madagascar, Seychelles. This site records 1 junior synonym for the species.
 
-ES — **黑色考登白蚁** (*Kaudernitermes nigritus*) es una especie del género *Kaudernitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Fenerive. Distribución: Madagascar, Seychelles. Este sitio registra 1 sinónimo junior para la especie.
+ES — **黑色考登白蚁** (*Kaudernitermes nigritus*) es una especie del género *Kaudernitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Fenerive. Distribución: Madagascar, Seychelles. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[考登白蚁属 *Kaudernitermes*]({{ site.base_url }}/list/#kaudernitermes) —— 共 4 种（4 species · 4 especies）

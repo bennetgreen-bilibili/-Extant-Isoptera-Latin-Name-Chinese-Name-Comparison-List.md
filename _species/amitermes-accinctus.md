@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**锋颚弓白蚁**（*Amitermes accinctus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Gay 于 1968 年描述，模式产地为 Australia: Western Australia: Eurardy, 90 mi N Geraldton。分布记录包括澳大利亚。
+**锋颚弓白蚁**（*Amitermes accinctus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Gay 于 1968 年描述，模式产地为 Australia: Western Australia: Eurardy, 90 mi N Geraldton。分布记录包括澳大利亚。
 
-EN — **锋颚弓白蚁** (*Amitermes accinctus*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Gay in 1968; the type locality is Australia: Western Australia: Eurardy, 90 mi N Geraldton. Distribution: Australia.
+EN — **锋颚弓白蚁** (*Amitermes accinctus*) is a species of the genus *Amitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Gay in 1968; the type locality is Australia: Western Australia: Eurardy, 90 mi N Geraldton. Distribution: Australia.
 
-ES — **锋颚弓白蚁** (*Amitermes accinctus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Gay en 1968; la localidad tipo es Australia: Western Australia: Eurardy, 90 mi N Geraldton. Distribución: Australia.
+ES — **锋颚弓白蚁** (*Amitermes accinctus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Gay en 1968; la localidad tipo es Australia: Western Australia: Eurardy, 90 mi N Geraldton. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/list/#amitermes) —— 共 113 种（113 species · 113 especies）

@@ -25,15 +25,14 @@ synonym_localities: "South Africa: Cape South Coast: The Wilderness"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**德班双裂白蚁**（*Bifiditermes durbanensis*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Durban。分布记录包括南非、肯尼亚、坦桑尼亚。本站记录本种有 1 个次异名。
+**德班双裂白蚁**（*Bifiditermes durbanensis*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Durban。分布记录包括南非、肯尼亚、坦桑尼亚。本站记录本种有 1 个次异名。
 
-EN — **德班双裂白蚁** (*Bifiditermes durbanensis*) is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Haviland in 1898; the type locality is South Africa: Natal: Durban. Distribution: South Africa, Kenya, Tanzania. This site records 1 junior synonym for the species.
+EN — **德班双裂白蚁** (*Bifiditermes durbanensis*) is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Haviland in 1898; the type locality is South Africa: Natal: Durban. Distribution: South Africa, Kenya, Tanzania. This site records 1 junior synonym for the species.
 
-ES — **德班双裂白蚁** (*Bifiditermes durbanensis*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Durban. Distribución: South Africa, Kenya, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
+ES — **德班双裂白蚁** (*Bifiditermes durbanensis*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Durban. Distribución: South Africa, Kenya, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/list/#bifiditermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Bifiditermes madagascariensis*

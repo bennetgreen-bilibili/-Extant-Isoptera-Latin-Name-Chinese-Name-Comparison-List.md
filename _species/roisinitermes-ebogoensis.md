@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**埃博戈罗伊辛白蚁**（*Roisinitermes ebogoensis*）是木白蚁科（KALOTERMITIDAE）罗伊辛白蚁属（*Roisinitermes*）的现存唯一种，隶属近等翅类（Icoisoptera）。本种由 Scheffrahn 于 2018 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
+**埃博戈罗伊辛白蚁**（*Roisinitermes ebogoensis*）是木白蚁科（KALOTERMITIDAE）罗伊辛白蚁属（*Roisinitermes*）的现存唯一种。本种由 Scheffrahn 于 2018 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
 
-EN — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) is the only extant species of the genus *Roisinitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Scheffrahn in 2018; the type locality is Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribution: Cameroon.
+EN — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) is the only extant species of the genus *Roisinitermes*, in the family KALOTERMITIDAE. The species was described by Scheffrahn in 2018; the type locality is Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribution: Cameroon.
 
-ES — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) es la única especie viviente del género *Roisinitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución: Cameroon.
+ES — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) es la única especie viviente del género *Roisinitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución: Cameroon.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[罗伊辛白蚁属 *Roisinitermes*]({{ site.base_url }}/list/#roisinitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

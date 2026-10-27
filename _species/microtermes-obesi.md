@@ -28,15 +28,14 @@ synonym_localities: "India: Gujarat: Anand; India: Maharashtra: Mumbai"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**奥贝斯小白蚁**（*Microtermes obesi*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1912 年描述，模式产地为 India: Maharashtra: Khandala。分布记录包括南亚、东南亚、印度、巴基斯坦、泰国、柬埔寨、伊朗。本站记录本种有 2 个次异名。
+**奥贝斯小白蚁**（*Microtermes obesi*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Holmgren 于 1912 年描述，模式产地为 India: Maharashtra: Khandala。分布记录包括南亚、东南亚、印度、巴基斯坦、泰国、柬埔寨、伊朗。本站记录本种有 2 个次异名。
 
-EN — **奥贝斯小白蚁** (*Microtermes obesi*) is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1912; the type locality is India: Maharashtra: Khandala. Distribution: South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran. This site records 2 junior synonyms for the species.
+EN — **奥贝斯小白蚁** (*Microtermes obesi*) is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Holmgren in 1912; the type locality is India: Maharashtra: Khandala. Distribution: South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran. This site records 2 junior synonyms for the species.
 
-ES — **奥贝斯小白蚁** (*Microtermes obesi*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1912; la localidad tipo es India: Maharashtra: Khandala. Distribución: South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran. Este sitio registra 2 sinónimos junior para la especie.
+ES — **奥贝斯小白蚁** (*Microtermes obesi*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es India: Maharashtra: Khandala. Distribución: South Asia, Southeast Asia, India, Pakistan, Thailand, Cambodia, Iran. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/list/#microtermes) —— 共 69 种（69 species · 69 especies）

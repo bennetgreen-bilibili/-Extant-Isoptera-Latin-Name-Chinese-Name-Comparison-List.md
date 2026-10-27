@@ -25,15 +25,14 @@ synonym_localities: "Polynesia (French): Marquesas: Uahuka: Tehaeva: Hane Valley
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄唇树白蚁**（*Glyptotermes xantholabrum*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Hill 于 1926 年描述，模式产地为 Samoa: Upolu Island: Apia。分布记录包括萨摩亚、巴布亚新几内亚、法属波利尼西亚、瓦努阿图。本站记录本种有 1 个次异名。
+**黄唇树白蚁**（*Glyptotermes xantholabrum*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Hill 于 1926 年描述，模式产地为 Samoa: Upolu Island: Apia。分布记录包括萨摩亚、巴布亚新几内亚、法属波利尼西亚、瓦努阿图。本站记录本种有 1 个次异名。
 
-EN — **黄唇树白蚁** (*Glyptotermes xantholabrum*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Hill in 1926; the type locality is Samoa: Upolu Island: Apia. Distribution: Samoa, Papua New Guinea, French Polynesia, Vanuatu. This site records 1 junior synonym for the species.
+EN — **黄唇树白蚁** (*Glyptotermes xantholabrum*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Hill in 1926; the type locality is Samoa: Upolu Island: Apia. Distribution: Samoa, Papua New Guinea, French Polynesia, Vanuatu. This site records 1 junior synonym for the species.
 
-ES — **黄唇树白蚁** (*Glyptotermes xantholabrum*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Hill en 1926; la localidad tipo es Samoa: Upolu Island: Apia. Distribución: Samoa, Papua New Guinea, French Polynesia, Vanuatu. Este sitio registra 1 sinónimo junior para la especie.
+ES — **黄唇树白蚁** (*Glyptotermes xantholabrum*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1926; la localidad tipo es Samoa: Upolu Island: Apia. Distribución: Samoa, Papua New Guinea, French Polynesia, Vanuatu. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/list/#glyptotermes) —— 共 131 种（131 species · 131 especies）
 - **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**突额散白蚁**（*Reticulitermes assamensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Gardner 于 1945 年描述，模式产地为 India: Assam: Sadiya。分布记录包括印度、不丹、中国。
+**突额散白蚁**（*Reticulitermes assamensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Gardner 于 1945 年描述，模式产地为 India: Assam: Sadiya。分布记录包括印度、不丹、中国。
 
-EN — **突额散白蚁** (*Reticulitermes assamensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Gardner in 1945; the type locality is India: Assam: Sadiya. Distribution: India, Bhutan, China.
+EN — **突额散白蚁** (*Reticulitermes assamensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Gardner in 1945; the type locality is India: Assam: Sadiya. Distribution: India, Bhutan, China.
 
-ES — **突额散白蚁** (*Reticulitermes assamensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Gardner en 1945; la localidad tipo es India: Assam: Sadiya. Distribución: India, Bhutan, China.
+ES — **突额散白蚁** (*Reticulitermes assamensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Gardner en 1945; la localidad tipo es India: Assam: Sadiya. Distribución: India, Bhutan, China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

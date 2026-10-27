@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具齿亮白蚁**（*Euhamitermes dentatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Thakur & Chatterjee 于 1974 年描述，模式产地为 India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli。分布记录包括印度、安得拉邦。
+**具齿亮白蚁**（*Euhamitermes dentatus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）亮白蚁属（*Euhamitermes*）的一种。本种由 Thakur & Chatterjee 于 1974 年描述，模式产地为 India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli。分布记录包括印度、安得拉邦。
 
-EN — **具齿亮白蚁** (*Euhamitermes dentatus*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Thakur & Chatterjee in 1974; the type locality is India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribution: India, Andhra Pradesh.
+EN — **具齿亮白蚁** (*Euhamitermes dentatus*) is a species of the genus *Euhamitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Thakur & Chatterjee in 1974; the type locality is India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribution: India, Andhra Pradesh.
 
-ES — **具齿亮白蚁** (*Euhamitermes dentatus*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Thakur & Chatterjee en 1974; la localidad tipo es India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribución: India, Andhra Pradesh.
+ES — **具齿亮白蚁** (*Euhamitermes dentatus*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Thakur & Chatterjee en 1974; la localidad tipo es India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribución: India, Andhra Pradesh.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[亮白蚁属 *Euhamitermes*]({{ site.base_url }}/list/#euhamitermes) —— 共 24 种（24 species · 24 especies）

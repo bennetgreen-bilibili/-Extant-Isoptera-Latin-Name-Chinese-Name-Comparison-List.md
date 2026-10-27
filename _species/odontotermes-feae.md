@@ -28,15 +28,14 @@ synonym_localities: "India: Maharashtra: Mumbai"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**菲氏土白蚁**（*Odontotermes feae*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Carin Chebà, 900–1100 m。分布记录包括南亚、东南亚印度、泰国、越南、孟加拉国、不丹、缅甸、尼泊尔、斯里兰卡。本站记录本种有 1 个次异名。
+**菲氏土白蚁**（*Odontotermes feae*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Carin Chebà, 900–1100 m。分布记录包括南亚、东南亚印度、泰国、越南、孟加拉国、不丹、缅甸、尼泊尔、斯里兰卡。本站记录本种有 1 个次异名。
 
-EN — **菲氏土白蚁** (*Odontotermes feae*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1896; the type locality is Myanmar: Carin Chebà, 900–1100 m. Distribution: South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka. This site records 1 junior synonym for the species.
+EN — **菲氏土白蚁** (*Odontotermes feae*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Wasmann in 1896; the type locality is Myanmar: Carin Chebà, 900–1100 m. Distribution: South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka. This site records 1 junior synonym for the species.
 
-ES — **菲氏土白蚁** (*Odontotermes feae*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Carin Chebà, 900–1100 m. Distribución: South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
+ES — **菲氏土白蚁** (*Odontotermes feae*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Carin Chebà, 900–1100 m. Distribución: South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

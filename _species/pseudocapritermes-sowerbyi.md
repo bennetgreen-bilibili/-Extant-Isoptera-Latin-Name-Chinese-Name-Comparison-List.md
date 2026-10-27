@@ -28,15 +28,14 @@ synonym_localities: "China: Meihuashan"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**圆囟伪扭白蚁**（*Pseudocapritermes sowerbyi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Light 于 1924 年描述，模式产地为 China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft."。分布记录包括中国。本站记录本种有 1 个次异名。
+**圆囟伪扭白蚁**（*Pseudocapritermes sowerbyi*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种。本种由 Light 于 1924 年描述，模式产地为 China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft."。分布记录包括中国。本站记录本种有 1 个次异名。
 
-EN — **圆囟伪扭白蚁** (*Pseudocapritermes sowerbyi*) is a species of the genus *Pseudocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Light in 1924; the type locality is China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft.". Distribution: China. This site records 1 junior synonym for the species.
+EN — **圆囟伪扭白蚁** (*Pseudocapritermes sowerbyi*) is a species of the genus *Pseudocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Light in 1924; the type locality is China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft.". Distribution: China. This site records 1 junior synonym for the species.
 
-ES — **圆囟伪扭白蚁** (*Pseudocapritermes sowerbyi*) es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Light en 1924; la localidad tipo es China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft.". Distribución: China. Este sitio registra 1 sinónimo junior para la especie.
+ES — **圆囟伪扭白蚁** (*Pseudocapritermes sowerbyi*) es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Light en 1924; la localidad tipo es China: Kuliang, "in mountains Sowerby back of Foochow, 2500 ft.". Distribución: China. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[伪扭白蚁属 *Pseudocapritermes*]({{ site.base_url }}/list/#pseudocapritermes) —— 共 18 种（18 species · 18 especies）

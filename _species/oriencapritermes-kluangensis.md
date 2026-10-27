@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**居銮东扭白蚁**（*Oriencapritermes kluangensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）东扭白蚁属（*Oriencapritermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Ahmad & Akhtar 于 1981 年描述，模式产地为 Malaysia: Sarawak: Kluang Forest。分布记录包括印度尼西亚、马来西亚。
+**居銮东扭白蚁**（*Oriencapritermes kluangensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）东扭白蚁属（*Oriencapritermes*）的现存唯一种。本种由 Ahmad & Akhtar 于 1981 年描述，模式产地为 Malaysia: Sarawak: Kluang Forest。分布记录包括印度尼西亚、马来西亚。
 
-EN — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) is the only extant species of the genus *Oriencapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Ahmad & Akhtar in 1981; the type locality is Malaysia: Sarawak: Kluang Forest. Distribution: Indonesia, Malaysia.
+EN — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) is the only extant species of the genus *Oriencapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Ahmad & Akhtar in 1981; the type locality is Malaysia: Sarawak: Kluang Forest. Distribution: Indonesia, Malaysia.
 
-ES — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) es la única especie viviente del género *Oriencapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ahmad & Akhtar en 1981; la localidad tipo es Malaysia: Sarawak: Kluang Forest. Distribución: Indonesia, Malaysia.
+ES — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) es la única especie viviente del género *Oriencapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad & Akhtar en 1981; la localidad tipo es Malaysia: Sarawak: Kluang Forest. Distribución: Indonesia, Malaysia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[东扭白蚁属 *Oriencapritermes*]({{ site.base_url }}/list/#oriencapritermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

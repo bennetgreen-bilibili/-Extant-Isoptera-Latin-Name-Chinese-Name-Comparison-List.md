@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大头直颚白蚁**（*Orthognathotermes macrocephalus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）直颚白蚁属（*Orthognathotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]。分布记录包括巴西、玻利维亚。
+**大头直颚白蚁**（*Orthognathotermes macrocephalus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）直颚白蚁属（*Orthognathotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]。分布记录包括巴西、玻利维亚。
 
-EN — **大头直颚白蚁** (*Orthognathotermes macrocephalus*) is a species and the type species of its genus of the genus *Orthognathotermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]. Distribution: Brazil, Bolivia.
+EN — **大头直颚白蚁** (*Orthognathotermes macrocephalus*) is a species and the type species of its genus of the genus *Orthognathotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]. Distribution: Brazil, Bolivia.
 
-ES — **大头直颚白蚁** (*Orthognathotermes macrocephalus*) es una especie, y la especie tipo de su género del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]. Distribución: Brazil, Bolivia.
+ES — **大头直颚白蚁** (*Orthognathotermes macrocephalus*) es una especie, y la especie tipo de su género del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[ 14.5667S 68.8833W \]. Distribución: Brazil, Bolivia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[直颚白蚁属 *Orthognathotermes*]({{ site.base_url }}/list/#orthognathotermes) —— 共 15 种（15 species · 15 especies）

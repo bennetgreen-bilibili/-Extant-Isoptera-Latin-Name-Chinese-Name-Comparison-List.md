@@ -29,15 +29,14 @@ synonym_localities: "Cameroon: Victoria"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**指名亚种**（*Basidentitermes mactus mactus*）是荣耀基齿白蚁（*Basidentitermes mactus*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Sjöstedt 于 1911 年描述，模式产地为 Guinea: ?。本页暂无单列的分布记录，母种 *Basidentitermes mactus* 的分布见下文「分布」一节。本站记录本亚种有 1 个次异名。
+**指名亚种**（*Basidentitermes mactus mactus*）是荣耀基齿白蚁（*Basidentitermes mactus*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）基齿白蚁属（*Basidentitermes*）。本亚种由 Sjöstedt 于 1911 年描述，模式产地为 Guinea: ?。本页暂无单列的分布记录，母种 *Basidentitermes mactus* 的分布见下文「分布」一节。本站记录本亚种有 1 个次异名。
 
-EN — **指名亚种** (*Basidentitermes mactus mactus*) is a subspecies of *Basidentitermes mactus*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Basidentitermes*, belonging to the clade Geoisoptera. The subspecies was described by Sjöstedt in 1911; the type locality is Guinea: ?. No separate distribution record is listed on this page; see the parent species *Basidentitermes mactus*. This site records 1 junior synonym for the subspecies.
+EN — **指名亚种** (*Basidentitermes mactus mactus*) is a subspecies of *Basidentitermes mactus*, in the family TERMITIDAE (subfamily Cubitermitinae), genus *Basidentitermes*. The subspecies was described by Sjöstedt in 1911; the type locality is Guinea: ?. No separate distribution record is listed on this page; see the parent species *Basidentitermes mactus*. This site records 1 junior synonym for the subspecies.
 
-ES — **指名亚种** (*Basidentitermes mactus mactus*) es una subespecie de *Basidentitermes mactus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Basidentitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Sjöstedt en 1911; la localidad tipo es Guinea: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Basidentitermes mactus*. Este sitio registra 1 sinónimo junior para la subespecie.
+ES — **指名亚种** (*Basidentitermes mactus mactus*) es una subespecie de *Basidentitermes mactus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Basidentitermes*. La subespecie fue descrita por Sjöstedt en 1911; la localidad tipo es Guinea: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Basidentitermes mactus*. Este sitio registra 1 sinónimo junior para la subespecie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[基齿白蚁属 *Basidentitermes*]({{ site.base_url }}/list/#basidentitermes) —— 共 8 种（8 species · 8 especies）

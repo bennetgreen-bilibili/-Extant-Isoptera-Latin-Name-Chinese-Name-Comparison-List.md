@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑色木白蚁**（*Kalotermes atratus*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Hill 于 1933 年描述，模式产地为 Australia: New South Wales, near Appin。分布记录包括澳大利亚。
+**黑色木白蚁**（*Kalotermes atratus*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种。本种由 Hill 于 1933 年描述，模式产地为 Australia: New South Wales, near Appin。分布记录包括澳大利亚。
 
-EN — **黑色木白蚁** (*Kalotermes atratus*) is a species of the genus *Kalotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Hill in 1933; the type locality is Australia: New South Wales, near Appin. Distribution: Australia.
+EN — **黑色木白蚁** (*Kalotermes atratus*) is a species of the genus *Kalotermes*, in the family KALOTERMITIDAE. The species was described by Hill in 1933; the type locality is Australia: New South Wales, near Appin. Distribution: Australia.
 
-ES — **黑色木白蚁** (*Kalotermes atratus*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Hill en 1933; la localidad tipo es Australia: New South Wales, near Appin. Distribución: Australia.
+ES — **黑色木白蚁** (*Kalotermes atratus*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1933; la localidad tipo es Australia: New South Wales, near Appin. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/list/#kalotermes) —— 共 21 种（21 species · 21 especies）
 - **本属模式种 Type species / Especie tipo**：*Kalotermes flavicollis*

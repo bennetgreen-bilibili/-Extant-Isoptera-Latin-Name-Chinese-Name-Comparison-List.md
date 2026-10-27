@@ -28,15 +28,14 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**博德金新扭白蚁**（*Neocapritermes bodkini*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]。分布记录包括哥伦比亚、圭亚那、巴西、秘鲁。本站记录本种有 1 个次异名。
+**博德金新扭白蚁**（*Neocapritermes bodkini*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]。分布记录包括哥伦比亚、圭亚那、巴西、秘鲁。本站记录本种有 1 个次异名。
 
-EN — **博德金新扭白蚁** (*Neocapritermes bodkini*) is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1923; the type locality is Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]. Distribution: Colombia, Guyana, Brazil, Peru. This site records 1 junior synonym for the species.
+EN — **博德金新扭白蚁** (*Neocapritermes bodkini*) is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Silvestri in 1923; the type locality is Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]. Distribution: Colombia, Guyana, Brazil, Peru. This site records 1 junior synonym for the species.
 
-ES — **博德金新扭白蚁** (*Neocapritermes bodkini*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1923; la localidad tipo es Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]. Distribución: Colombia, Guyana, Brazil, Peru. Este sitio registra 1 sinónimo junior para la especie.
+ES — **博德金新扭白蚁** (*Neocapritermes bodkini*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Silvestri en 1923; la localidad tipo es Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]. Distribución: Colombia, Guyana, Brazil, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种（17 species · 17 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**侯赛因角白蚁**（*Angulitermes hussaini*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）角白蚁属（*Angulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ahmad 于 1955 年描述，模式产地为 Pakistan: Larkana。分布记录包括巴基斯坦。
+**侯赛因角白蚁**（*Angulitermes hussaini*）是白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）角白蚁属（*Angulitermes*）的一种。本种由 Ahmad 于 1955 年描述，模式产地为 Pakistan: Larkana。分布记录包括巴基斯坦。
 
-EN — **侯赛因角白蚁** (*Angulitermes hussaini*) is a species of the genus *Angulitermes*, in the family TERMITIDAE (subfamily Promirotermitinae), belonging to the clade Geoisoptera. The species was described by Ahmad in 1955; the type locality is Pakistan: Larkana. Distribution: Pakistan.
+EN — **侯赛因角白蚁** (*Angulitermes hussaini*) is a species of the genus *Angulitermes*, in the family TERMITIDAE (subfamily Promirotermitinae). The species was described by Ahmad in 1955; the type locality is Pakistan: Larkana. Distribution: Pakistan.
 
-ES — **侯赛因角白蚁** (*Angulitermes hussaini*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ahmad en 1955; la localidad tipo es Pakistan: Larkana. Distribución: Pakistan.
+ES — **侯赛因角白蚁** (*Angulitermes hussaini*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Ahmad en 1955; la localidad tipo es Pakistan: Larkana. Distribución: Pakistan.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/list/#promirotermitinae) —— 本站收录 2 属 39 种（2 genera, 39 species · 2 géneros, 39 especies）
 - **属 Genus / Género**：[角白蚁属 *Angulitermes*]({{ site.base_url }}/list/#angulitermes) —— 共 29 种（29 species · 29 especies）

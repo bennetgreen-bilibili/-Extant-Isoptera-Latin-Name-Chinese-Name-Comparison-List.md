@@ -27,15 +27,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**无毛亚种**（*Globitermes globosus depilis*）是球形球白蚁（*Globitermes globosus*）的一个亚种，隶属白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak: Mt. Lambir。本页暂无单列的分布记录，母种 *Globitermes globosus* 的分布见下文「分布」一节。
+**无毛亚种**（*Globitermes globosus depilis*）是球形球白蚁（*Globitermes globosus*）的一个亚种，隶属白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）。本亚种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak: Mt. Lambir。本页暂无单列的分布记录，母种 *Globitermes globosus* 的分布见下文「分布」一节。
 
-EN — **无毛亚种** (*Globitermes globosus depilis*) is a subspecies of *Globitermes globosus*, in the family TERMITIDAE (subfamily Amitermitinae), genus *Globitermes*, belonging to the clade Geoisoptera. The subspecies was described by Holmgren in 1913; the type locality is Malaysia: Sarawak: Mt. Lambir. No separate distribution record is listed on this page; see the parent species *Globitermes globosus*.
+EN — **无毛亚种** (*Globitermes globosus depilis*) is a subspecies of *Globitermes globosus*, in the family TERMITIDAE (subfamily Amitermitinae), genus *Globitermes*. The subspecies was described by Holmgren in 1913; the type locality is Malaysia: Sarawak: Mt. Lambir. No separate distribution record is listed on this page; see the parent species *Globitermes globosus*.
 
-ES — **无毛亚种** (*Globitermes globosus depilis*) es una subespecie de *Globitermes globosus*, en la familia TERMITIDAE (subfamilia Amitermitinae), género *Globitermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak: Mt. Lambir. No se incluye un registro de distribución separado en esta página; véase la especie parental *Globitermes globosus*.
+ES — **无毛亚种** (*Globitermes globosus depilis*) es una subespecie de *Globitermes globosus*, en la familia TERMITIDAE (subfamilia Amitermitinae), género *Globitermes*. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak: Mt. Lambir. No se incluye un registro de distribución separado en esta página; véase la especie parental *Globitermes globosus*.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[球白蚁属 *Globitermes*]({{ site.base_url }}/list/#globitermes) —— 共 7 种（7 species · 7 especies）

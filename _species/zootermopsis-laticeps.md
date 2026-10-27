@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽头动白蚁**（*Zootermopsis laticeps*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种，隶属远等翅类（Teletisoptera）。本种由 Banks 于 1906 年描述，模式产地为 United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch。分布记录包括北美西南部、美国、墨西哥。
+**宽头动白蚁**（*Zootermopsis laticeps*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种。本种由 Banks 于 1906 年描述，模式产地为 United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch。分布记录包括北美西南部、美国、墨西哥。
 
-EN — **宽头动白蚁** (*Zootermopsis laticeps*) is a species of the genus *Zootermopsis*, in the family ARCHOTERMOPSIDAE, belonging to the clade Teletisoptera. The species was described by Banks in 1906; the type locality is United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch. Distribution: southwestern North America, United States, Mexico.
+EN — **宽头动白蚁** (*Zootermopsis laticeps*) is a species of the genus *Zootermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Banks in 1906; the type locality is United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch. Distribution: southwestern North America, United States, Mexico.
 
-ES — **宽头动白蚁** (*Zootermopsis laticeps*) es una especie del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch. Distribución: southwestern North America, United States, Mexico.
+ES — **宽头动白蚁** (*Zootermopsis laticeps*) es una especie del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch. Distribución: southwestern North America, United States, Mexico.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/list/#archotermopsidae) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
 - **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/list/#zootermopsis) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Zootermopsis angusticollis*

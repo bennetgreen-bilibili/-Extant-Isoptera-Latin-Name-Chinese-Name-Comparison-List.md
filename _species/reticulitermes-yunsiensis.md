@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**云寺散白蚁**（*Reticulitermes yunsiensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Li & Huang 于 1986 年描述，模式产地为 China: Fujian Province: Daiyunshan。分布记录包括中国。
+**云寺散白蚁**（*Reticulitermes yunsiensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Li & Huang 于 1986 年描述，模式产地为 China: Fujian Province: Daiyunshan。分布记录包括中国。
 
-EN — **云寺散白蚁** (*Reticulitermes yunsiensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Li & Huang in 1986; the type locality is China: Fujian Province: Daiyunshan. Distribution: China.
+EN — **云寺散白蚁** (*Reticulitermes yunsiensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Li & Huang in 1986; the type locality is China: Fujian Province: Daiyunshan. Distribution: China.
 
-ES — **云寺散白蚁** (*Reticulitermes yunsiensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Li & Huang en 1986; la localidad tipo es China: Fujian Province: Daiyunshan. Distribución: China.
+ES — **云寺散白蚁** (*Reticulitermes yunsiensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Li & Huang en 1986; la localidad tipo es China: Fujian Province: Daiyunshan. Distribución: China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

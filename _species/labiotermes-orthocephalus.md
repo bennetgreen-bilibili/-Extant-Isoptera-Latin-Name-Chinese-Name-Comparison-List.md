@@ -28,15 +28,14 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本站记录本种有 2 个次异名。
+**直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本站记录本种有 2 个次异名。
 
-EN — **直头厚唇白蚁** (*Labiotermes orthocephalus*) is a species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Paraguay. This site records 2 junior synonyms for the species.
+EN — **直头厚唇白蚁** (*Labiotermes orthocephalus*) is a species of the genus *Labiotermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Paraguay. This site records 2 junior synonyms for the species.
 
-ES — **直头厚唇白蚁** (*Labiotermes orthocephalus*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Paraguay. Este sitio registra 2 sinónimos junior para la especie.
+ES — **直头厚唇白蚁** (*Labiotermes orthocephalus*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Paraguay. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/list/#labiotermes) —— 共 10 种（10 species · 10 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**努瓦罗努瓦罗白蚁**（*Noirotitermes noiroti*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）努瓦罗白蚁属（*Noirotitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Cancello & Myles 于 2000 年描述，模式产地为 Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]。分布记录包括巴西。
+**努瓦罗努瓦罗白蚁**（*Noirotitermes noiroti*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）努瓦罗白蚁属（*Noirotitermes*）的现存唯一种。本种由 Cancello & Myles 于 2000 年描述，模式产地为 Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]。分布记录包括巴西。
 
-EN — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) is the only extant species of the genus *Noirotitermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Cancello & Myles in 2000; the type locality is Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribution: Brazil.
+EN — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) is the only extant species of the genus *Noirotitermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Cancello & Myles in 2000; the type locality is Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribution: Brazil.
 
-ES — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) es la única especie viviente del género *Noirotitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Cancello & Myles en 2000; la localidad tipo es Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribución: Brazil.
+ES — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) es la única especie viviente del género *Noirotitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Cancello & Myles en 2000; la localidad tipo es Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[努瓦罗白蚁属 *Noirotitermes*]({{ site.base_url }}/list/#noirotitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

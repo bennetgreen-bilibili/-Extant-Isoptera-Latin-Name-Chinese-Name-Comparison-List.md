@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**非洲高跷白蚁**（*Grallatotermes africanus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）高跷白蚁属（*Grallatotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Harris 于 1954 年描述，模式产地为 Tanzania: Tanga District: Ngomeni。分布记录包括莫桑比克、坦桑尼亚、肯尼亚。
+**非洲高跷白蚁**（*Grallatotermes africanus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）高跷白蚁属（*Grallatotermes*）的一种。本种由 Harris 于 1954 年描述，模式产地为 Tanzania: Tanga District: Ngomeni。分布记录包括莫桑比克、坦桑尼亚、肯尼亚。
 
-EN — **非洲高跷白蚁** (*Grallatotermes africanus*) is a species of the genus *Grallatotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Harris in 1954; the type locality is Tanzania: Tanga District: Ngomeni. Distribution: Mozambique, Tanzania, Kenya.
+EN — **非洲高跷白蚁** (*Grallatotermes africanus*) is a species of the genus *Grallatotermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Harris in 1954; the type locality is Tanzania: Tanga District: Ngomeni. Distribution: Mozambique, Tanzania, Kenya.
 
-ES — **非洲高跷白蚁** (*Grallatotermes africanus*) es una especie del género *Grallatotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Harris en 1954; la localidad tipo es Tanzania: Tanga District: Ngomeni. Distribución: Mozambique, Tanzania, Kenya.
+ES — **非洲高跷白蚁** (*Grallatotermes africanus*) es una especie del género *Grallatotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Harris en 1954; la localidad tipo es Tanzania: Tanga District: Ngomeni. Distribución: Mozambique, Tanzania, Kenya.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[高跷白蚁属 *Grallatotermes*]({{ site.base_url }}/list/#grallatotermes) —— 共 7 种（7 species · 7 especies）

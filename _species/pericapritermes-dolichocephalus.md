@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长头近扭白蚁**（*Pericapritermes dolichocephalus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 John 于 1925 年描述，模式产地为 Indonesia: Sumatra: Kota Bahru; Malaysia: Selangor: Kajang。分布记录包括印度尼西亚、马来西亚。
+**长头近扭白蚁**（*Pericapritermes dolichocephalus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 John 于 1925 年描述，模式产地为 Indonesia: Sumatra: Kota Bahru; Malaysia: Selangor: Kajang。分布记录包括印度尼西亚、马来西亚。
 
-EN — **长头近扭白蚁** (*Pericapritermes dolichocephalus*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by John in 1925; the type locality is Indonesia: Sumatra: Kota Bahru; Malaysia: Selangor: Kajang. Distribution: Indonesia, Malaysia.
+EN — **长头近扭白蚁** (*Pericapritermes dolichocephalus*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by John in 1925; the type locality is Indonesia: Sumatra: Kota Bahru; Malaysia: Selangor: Kajang. Distribution: Indonesia, Malaysia.
 
-ES — **长头近扭白蚁** (*Pericapritermes dolichocephalus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por John en 1925; la localidad tipo es Indonesia: Sumatra: Kota Bahru; Malaysia: Selangor: Kajang. Distribución: Indonesia, Malaysia.
+ES — **长头近扭白蚁** (*Pericapritermes dolichocephalus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por John en 1925; la localidad tipo es Indonesia: Sumatra: Kota Bahru; Malaysia: Selangor: Kajang. Distribución: Indonesia, Malaysia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/list/#pericapritermes) —— 共 41 种（41 species · 41 especies）

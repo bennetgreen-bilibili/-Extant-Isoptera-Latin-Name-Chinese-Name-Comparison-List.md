@@ -28,15 +28,14 @@ synonym_localities: "Malaysia: Sabah: Sandakan South District: Lungmanis"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小土白蚁**（*Odontotermes minutus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Amir 于 1975 年描述，模式产地为 Indonesia: Sumatra: Lampung: Way Kambas。分布记录包括东亚中国、印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
+**小土白蚁**（*Odontotermes minutus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Amir 于 1975 年描述，模式产地为 Indonesia: Sumatra: Lampung: Way Kambas。分布记录包括东亚中国、印度尼西亚、马来西亚。本站记录本种有 1 个次异名。
 
-EN — **小土白蚁** (*Odontotermes minutus*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Amir in 1975; the type locality is Indonesia: Sumatra: Lampung: Way Kambas. Distribution: East Asia, China, Indonesia, Malaysia. This site records 1 junior synonym for the species.
+EN — **小土白蚁** (*Odontotermes minutus*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Amir in 1975; the type locality is Indonesia: Sumatra: Lampung: Way Kambas. Distribution: East Asia, China, Indonesia, Malaysia. This site records 1 junior synonym for the species.
 
-ES — **小土白蚁** (*Odontotermes minutus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Amir en 1975; la localidad tipo es Indonesia: Sumatra: Lampung: Way Kambas. Distribución: East Asia, China, Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **小土白蚁** (*Odontotermes minutus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Amir en 1975; la localidad tipo es Indonesia: Sumatra: Lampung: Way Kambas. Distribución: East Asia, China, Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**栖巢无钩白蚁**（*Ahamitermes nidicola*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）无钩白蚁属（*Ahamitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cape York Peninsula, Alice River。分布记录包括澳大利亚。
+**栖巢无钩白蚁**（*Ahamitermes nidicola*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）无钩白蚁属（*Ahamitermes*）的一种，也是本属的模式种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Cape York Peninsula, Alice River。分布记录包括澳大利亚。
 
-EN — **栖巢无钩白蚁** (*Ahamitermes nidicola*) is a species and the type species of its genus of the genus *Ahamitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Cape York Peninsula, Alice River. Distribution: Australia.
+EN — **栖巢无钩白蚁** (*Ahamitermes nidicola*) is a species and the type species of its genus of the genus *Ahamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Cape York Peninsula, Alice River. Distribution: Australia.
 
-ES — **栖巢无钩白蚁** (*Ahamitermes nidicola*) es una especie, y la especie tipo de su género del género *Ahamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Cape York Peninsula, Alice River. Distribución: Australia.
+ES — **栖巢无钩白蚁** (*Ahamitermes nidicola*) es una especie, y la especie tipo de su género del género *Ahamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Cape York Peninsula, Alice River. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[无钩白蚁属 *Ahamitermes*]({{ site.base_url }}/list/#ahamitermes) —— 共 3 种（3 species · 3 especies）

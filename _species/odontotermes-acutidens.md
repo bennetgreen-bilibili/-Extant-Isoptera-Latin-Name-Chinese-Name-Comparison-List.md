@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**尖齿土白蚁**（*Odontotermes acutidens*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Grassé 于 1947 年描述，模式产地为 Ivory Coast: Kouibli, 40 km east of Man \[approx. 07°24N, 07°34W\]。分布记录包括西非科特迪瓦、加纳、几内亚。
+**尖齿土白蚁**（*Odontotermes acutidens*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Grassé 于 1947 年描述，模式产地为 Ivory Coast: Kouibli, 40 km east of Man \[approx. 07°24N, 07°34W\]。分布记录包括西非科特迪瓦、加纳、几内亚。
 
-EN — **尖齿土白蚁** (*Odontotermes acutidens*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Grassé in 1947; the type locality is Ivory Coast: Kouibli, 40 km east of Man \[approx. 07°24N, 07°34W\]. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea.
+EN — **尖齿土白蚁** (*Odontotermes acutidens*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Grassé in 1947; the type locality is Ivory Coast: Kouibli, 40 km east of Man \[approx. 07°24N, 07°34W\]. Distribution: West Africa, Côte d'Ivoire, Ghana, Guinea.
 
-ES — **尖齿土白蚁** (*Odontotermes acutidens*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Grassé en 1947; la localidad tipo es Ivory Coast: Kouibli, 40 km east of Man \[approx. 07°24N, 07°34W\]. Distribución: West Africa, Côte d'Ivoire, Ghana, Guinea.
+ES — **尖齿土白蚁** (*Odontotermes acutidens*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Grassé en 1947; la localidad tipo es Ivory Coast: Kouibli, 40 km east of Man \[approx. 07°24N, 07°34W\]. Distribución: West Africa, Côte d'Ivoire, Ghana, Guinea.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

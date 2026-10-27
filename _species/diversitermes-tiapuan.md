@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**长简鼻歧白蚁**（*Diversitermes tiapuan*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Oliveira & Constantino 于 2016 年描述，模式产地为 Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]。分布记录包括巴西、哥伦比亚。
+**长简鼻歧白蚁**（*Diversitermes tiapuan*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种。本种由 Oliveira & Constantino 于 2016 年描述，模式产地为 Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]。分布记录包括巴西、哥伦比亚。
 
-EN — **长简鼻歧白蚁** (*Diversitermes tiapuan*) is a species of the genus *Diversitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Oliveira & Constantino in 2016; the type locality is Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]. Distribution: Brazil, Colombia.
+EN — **长简鼻歧白蚁** (*Diversitermes tiapuan*) is a species of the genus *Diversitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Oliveira & Constantino in 2016; the type locality is Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]. Distribution: Brazil, Colombia.
 
-ES — **长简鼻歧白蚁** (*Diversitermes tiapuan*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Oliveira & Constantino en 2016; la localidad tipo es Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]. Distribución: Brazil, Colombia.
+ES — **长简鼻歧白蚁** (*Diversitermes tiapuan*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2016; la localidad tipo es Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]. Distribución: Brazil, Colombia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[歧白蚁属 *Diversitermes*]({{ site.base_url }}/list/#diversitermes) —— 共 3 种（3 species · 3 especies）

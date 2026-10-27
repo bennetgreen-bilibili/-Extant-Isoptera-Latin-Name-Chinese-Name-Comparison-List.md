@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具锯阿特拉斯白蚁**（*Atlantitermes ibitiriguara*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿特拉斯白蚁属（*Atlantitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Fontes 于 1979 年描述，模式产地为 Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]。分布记录包括巴西。
+**具锯阿特拉斯白蚁**（*Atlantitermes ibitiriguara*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿特拉斯白蚁属（*Atlantitermes*）的一种。本种由 Fontes 于 1979 年描述，模式产地为 Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]。分布记录包括巴西。
 
-EN — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) is a species of the genus *Atlantitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Fontes in 1979; the type locality is Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribution: Brazil.
+EN — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) is a species of the genus *Atlantitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Fontes in 1979; the type locality is Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribution: Brazil.
 
-ES — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) es una especie del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribución: Brazil.
+ES — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) es una especie del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[阿特拉斯白蚁属 *Atlantitermes*]({{ site.base_url }}/list/#atlantitermes) —— 共 8 种（8 species · 8 especies）

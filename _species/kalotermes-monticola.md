@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**山栖木白蚁**（*Kalotermes monticola*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Sjöstedt 于 1925 年描述，模式产地为 Algeria: Massif de l’Edough。分布记录包括阿尔及利亚、北非。
+**山栖木白蚁**（*Kalotermes monticola*）是木白蚁科（KALOTERMITIDAE）木白蚁属（*Kalotermes*）的一种。本种由 Sjöstedt 于 1925 年描述，模式产地为 Algeria: Massif de l’Edough。分布记录包括阿尔及利亚、北非。
 
-EN — **山栖木白蚁** (*Kalotermes monticola*) is a species of the genus *Kalotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Sjöstedt in 1925; the type locality is Algeria: Massif de l’Edough. Distribution: Algeria, North Africa.
+EN — **山栖木白蚁** (*Kalotermes monticola*) is a species of the genus *Kalotermes*, in the family KALOTERMITIDAE. The species was described by Sjöstedt in 1925; the type locality is Algeria: Massif de l’Edough. Distribution: Algeria, North Africa.
 
-ES — **山栖木白蚁** (*Kalotermes monticola*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Sjöstedt en 1925; la localidad tipo es Algeria: Massif de l’Edough. Distribución: Algeria, North Africa.
+ES — **山栖木白蚁** (*Kalotermes monticola*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1925; la localidad tipo es Algeria: Massif de l’Edough. Distribución: Algeria, North Africa.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/list/#kalotermes) —— 共 21 种（21 species · 21 especies）
 - **本属模式种 Type species / Especie tipo**：*Kalotermes flavicollis*

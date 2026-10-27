@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽唇狭鼻白蚁**（*Dolichorhinotermes latilabrum*）是鼻白蚁科（RHINOTERMITIDAE）狭鼻白蚁属（*Dolichorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]。分布记录包括南美洲、巴西、法属圭亚那、玻利维亚。
+**宽唇狭鼻白蚁**（*Dolichorhinotermes latilabrum*）是鼻白蚁科（RHINOTERMITIDAE）狭鼻白蚁属（*Dolichorhinotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]。分布记录包括南美洲、巴西、法属圭亚那、玻利维亚。
 
-EN — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) is a species of the genus *Dolichorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Snyder in 1926; the type locality is Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]. Distribution: South America, Brazil, French Guiana, Bolivia.
+EN — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) is a species of the genus *Dolichorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Snyder in 1926; the type locality is Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]. Distribution: South America, Brazil, French Guiana, Bolivia.
 
-ES — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]. Distribución: South America, Brazil, French Guiana, Bolivia.
+ES — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]. Distribución: South America, Brazil, French Guiana, Bolivia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[狭鼻白蚁属 *Dolichorhinotermes*]({{ site.base_url }}/list/#dolichorhinotermes) —— 共 7 种（7 species · 7 especies）
 - **本属模式种 Type species / Especie tipo**：*Dolichorhinotermes longilabius*

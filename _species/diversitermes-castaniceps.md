@@ -28,15 +28,14 @@ synonym_localities: "Brasil: São Paulo: São Vicente, Ilha Porchat [23.98S 46.3
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**栗头歧白蚁**（*Diversitermes castaniceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1910 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]。分布记录包括巴西、巴拉圭、玻利维亚。本站记录本种有 1 个次异名。
+**栗头歧白蚁**（*Diversitermes castaniceps*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）歧白蚁属（*Diversitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]。分布记录包括巴西、巴拉圭、玻利维亚。本站记录本种有 1 个次异名。
 
-EN — **栗头歧白蚁** (*Diversitermes castaniceps*) is a species of the genus *Diversitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1910; the type locality is Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribution: Brazil, Paraguay, Bolivia. This site records 1 junior synonym for the species.
+EN — **栗头歧白蚁** (*Diversitermes castaniceps*) is a species of the genus *Diversitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribution: Brazil, Paraguay, Bolivia. This site records 1 junior synonym for the species.
 
-ES — **栗头歧白蚁** (*Diversitermes castaniceps*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1910; la localidad tipo es Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribución: Brazil, Paraguay, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **栗头歧白蚁** (*Diversitermes castaniceps*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribución: Brazil, Paraguay, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[歧白蚁属 *Diversitermes*]({{ site.base_url }}/list/#diversitermes) —— 共 3 种（3 species · 3 especies）

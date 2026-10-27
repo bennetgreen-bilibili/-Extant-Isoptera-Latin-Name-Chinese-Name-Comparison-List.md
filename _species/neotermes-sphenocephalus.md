@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**楔头新白蚁**（*Neotermes sphenocephalus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Xu & Han 于 1985 年描述，模式产地为 China: Hainan Island: Wanning。分布记录包括中国、云南。
+**楔头新白蚁**（*Neotermes sphenocephalus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Xu & Han 于 1985 年描述，模式产地为 China: Hainan Island: Wanning。分布记录包括中国、云南。
 
-EN — **楔头新白蚁** (*Neotermes sphenocephalus*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Xu & Han in 1985; the type locality is China: Hainan Island: Wanning. Distribution: China, Yunnan.
+EN — **楔头新白蚁** (*Neotermes sphenocephalus*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Xu & Han in 1985; the type locality is China: Hainan Island: Wanning. Distribution: China, Yunnan.
 
-ES — **楔头新白蚁** (*Neotermes sphenocephalus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Xu & Han en 1985; la localidad tipo es China: Hainan Island: Wanning. Distribución: China, Yunnan.
+ES — **楔头新白蚁** (*Neotermes sphenocephalus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Xu & Han en 1985; la localidad tipo es China: Hainan Island: Wanning. Distribución: China, Yunnan.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*

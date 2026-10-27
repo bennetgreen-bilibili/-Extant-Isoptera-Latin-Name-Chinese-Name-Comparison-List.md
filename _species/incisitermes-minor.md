@@ -25,15 +25,14 @@ synonym_localities: "United States: Arizona: Copper Butte Canyon: Ray; United St
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小楹白蚁**（*Incisitermes minor*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Hagen 于 1858 年描述，模式产地为 United States: California: San Diego。分布记录包括美国西部、墨西哥北部、中国、夏威夷（美国）、意大利、日本。另有记录显示其已引入加拿大。本站记录本种有 2 个次异名。
+**小楹白蚁**（*Incisitermes minor*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 United States: California: San Diego。分布记录包括美国西部、墨西哥北部、中国、夏威夷（美国）、意大利、日本。另有记录显示其已引入加拿大。本站记录本种有 2 个次异名。
 
-EN — **小楹白蚁** (*Incisitermes minor*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Hagen in 1858; the type locality is United States: California: San Diego. Distribution: western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan. This site records 2 junior synonyms for the species.
+EN — **小楹白蚁** (*Incisitermes minor*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Hagen in 1858; the type locality is United States: California: San Diego. Distribution: western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan. This site records 2 junior synonyms for the species.
 
-ES — **小楹白蚁** (*Incisitermes minor*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California: San Diego. Distribución: western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan. Este sitio registra 2 sinónimos junior para la especie.
+ES — **小楹白蚁** (*Incisitermes minor*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California: San Diego. Distribución: western United States, northern Mexico; introduced: Canada, China, Hawaii (United States), Italy, Japan. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

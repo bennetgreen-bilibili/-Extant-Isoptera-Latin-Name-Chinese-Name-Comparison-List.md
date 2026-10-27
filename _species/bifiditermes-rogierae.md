@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗吉尔双裂白蚁**（*Bifiditermes rogierae*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Hollande 于 1982 年描述，模式产地为 Canary Islands (Spain): Tenerife, Punta de Teno。分布记录包括西班牙。
+**罗吉尔双裂白蚁**（*Bifiditermes rogierae*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Hollande 于 1982 年描述，模式产地为 Canary Islands (Spain): Tenerife, Punta de Teno。分布记录包括西班牙。
 
-EN — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Hollande in 1982; the type locality is Canary Islands (Spain): Tenerife, Punta de Teno. Distribution: Spain.
+EN — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) is a species of the genus *Bifiditermes*, in the family KALOTERMITIDAE. The species was described by Hollande in 1982; the type locality is Canary Islands (Spain): Tenerife, Punta de Teno. Distribution: Spain.
 
-ES — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Hollande en 1982; la localidad tipo es Canary Islands (Spain): Tenerife, Punta de Teno. Distribución: Spain.
+ES — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hollande en 1982; la localidad tipo es Canary Islands (Spain): Tenerife, Punta de Teno. Distribución: Spain.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/list/#bifiditermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Bifiditermes madagascariensis*

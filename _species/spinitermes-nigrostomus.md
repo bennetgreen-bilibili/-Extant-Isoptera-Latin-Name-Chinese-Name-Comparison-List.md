@@ -28,15 +28,14 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黑嘴针刺白蚁**（*Spinitermes nigrostomus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]。分布记录包括巴西、委内瑞拉、玻利维亚、圭亚那、秘鲁、苏里南。本站记录本种有 1 个次异名。
+**黑嘴针刺白蚁**（*Spinitermes nigrostomus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）针刺白蚁属（*Spinitermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]。分布记录包括巴西、委内瑞拉、玻利维亚、圭亚那、秘鲁、苏里南。本站记录本种有 1 个次异名。
 
-EN — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) is a species of the genus *Spinitermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribution: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. This site records 1 junior synonym for the species.
+EN — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) is a species of the genus *Spinitermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribution: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. This site records 1 junior synonym for the species.
 
-ES — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribución: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
+ES — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribución: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[针刺白蚁属 *Spinitermes*]({{ site.base_url }}/list/#spinitermes) —— 共 5 种（5 species · 5 especies）

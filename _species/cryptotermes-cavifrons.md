@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凹额堆砂白蚁**（*Cryptotermes cavifrons*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，也是本属的模式种，隶属近等翅类（Icoisoptera）。本种由 Banks 于 1906 年描述，模式产地为 United States: Florida: Kissimee。分布记录包括北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛。
+**凹额堆砂白蚁**（*Cryptotermes cavifrons*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，也是本属的模式种。本种由 Banks 于 1906 年描述，模式产地为 United States: Florida: Kissimee。分布记录包括北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛。
 
-EN — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) is a species and the type species of its genus of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Banks in 1906; the type locality is United States: Florida: Kissimee. Distribution: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
+EN — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) is a species and the type species of its genus of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1906; the type locality is United States: Florida: Kissimee. Distribution: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
 
-ES — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) es una especie, y la especie tipo de su género del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
+ES — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) es una especie, y la especie tipo de su género del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**湖北散白蚁**（*Reticulitermes hubeiensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ping & Huang 于 1992 年描述，模式产地为 China: Hubei Province: Chongyang。分布记录包括中国。
+**湖北散白蚁**（*Reticulitermes hubeiensis*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Ping & Huang 于 1992 年描述，模式产地为 China: Hubei Province: Chongyang。分布记录包括中国。
 
-EN — **湖北散白蚁** (*Reticulitermes hubeiensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Ping & Huang in 1992; the type locality is China: Hubei Province: Chongyang. Distribution: China.
+EN — **湖北散白蚁** (*Reticulitermes hubeiensis*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Ping & Huang in 1992; the type locality is China: Hubei Province: Chongyang. Distribution: China.
 
-ES — **湖北散白蚁** (*Reticulitermes hubeiensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Ping & Huang en 1992; la localidad tipo es China: Hubei Province: Chongyang. Distribución: China.
+ES — **湖北散白蚁** (*Reticulitermes hubeiensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Huang en 1992; la localidad tipo es China: Hubei Province: Chongyang. Distribución: China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

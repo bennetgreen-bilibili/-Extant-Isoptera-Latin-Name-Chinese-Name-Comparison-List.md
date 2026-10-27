@@ -28,15 +28,14 @@ synonym_localities: "China: Guangxi Province: Shanglin"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**龙州土白蚁**（*Odontotermes longzhouensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Lin 于 1981 年描述，模式产地为 China: Guangxi Province: Longzhou。分布记录包括广西（上林）、中国。本站记录本种有 1 个次异名。
+**龙州土白蚁**（*Odontotermes longzhouensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Lin 于 1981 年描述，模式产地为 China: Guangxi Province: Longzhou。分布记录包括广西（上林）、中国。本站记录本种有 1 个次异名。
 
-EN — **龙州土白蚁** (*Odontotermes longzhouensis*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Lin in 1981; the type locality is China: Guangxi Province: Longzhou. Distribution: Guangxi (Shanglin), China. This site records 1 junior synonym for the species.
+EN — **龙州土白蚁** (*Odontotermes longzhouensis*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Lin in 1981; the type locality is China: Guangxi Province: Longzhou. Distribution: Guangxi (Shanglin), China. This site records 1 junior synonym for the species.
 
-ES — **龙州土白蚁** (*Odontotermes longzhouensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Lin en 1981; la localidad tipo es China: Guangxi Province: Longzhou. Distribución: Guangxi (Shanglin), China. Este sitio registra 1 sinónimo junior para la especie.
+ES — **龙州土白蚁** (*Odontotermes longzhouensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Lin en 1981; la localidad tipo es China: Guangxi Province: Longzhou. Distribución: Guangxi (Shanglin), China. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

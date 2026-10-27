@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**库皮珀安加齿尖白蚁**（*Dentispicotermes cupiporanga*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）齿尖白蚁属（*Dentispicotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Bandeira & Cancello 于 1992 年描述，模式产地为 Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]。分布记录包括巴西、委内瑞拉。
+**库皮珀安加齿尖白蚁**（*Dentispicotermes cupiporanga*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）齿尖白蚁属（*Dentispicotermes*）的一种。本种由 Bandeira & Cancello 于 1992 年描述，模式产地为 Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]。分布记录包括巴西、委内瑞拉。
 
-EN — **库皮珀安加齿尖白蚁** (*Dentispicotermes cupiporanga*) is a species of the genus *Dentispicotermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Bandeira & Cancello in 1992; the type locality is Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]. Distribution: Brazil, Venezuela.
+EN — **库皮珀安加齿尖白蚁** (*Dentispicotermes cupiporanga*) is a species of the genus *Dentispicotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Bandeira & Cancello in 1992; the type locality is Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]. Distribution: Brazil, Venezuela.
 
-ES — **库皮珀安加齿尖白蚁** (*Dentispicotermes cupiporanga*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Bandeira & Cancello en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]. Distribución: Brazil, Venezuela.
+ES — **库皮珀安加齿尖白蚁** (*Dentispicotermes cupiporanga*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Bandeira & Cancello en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]. Distribución: Brazil, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[齿尖白蚁属 *Dentispicotermes*]({{ site.base_url }}/list/#dentispicotermes) —— 共 6 种（6 species · 6 especies）

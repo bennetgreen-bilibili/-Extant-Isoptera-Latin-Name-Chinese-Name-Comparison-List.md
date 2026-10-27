@@ -28,15 +28,14 @@ synonym_localities: "Liberia: ?; Central African Republic: Fort de Possel; Democ
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**三脉三脉白蚁**（*Trinervitermes trinervius*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达。本站记录本种有 3 个次异名。
+**三脉三脉白蚁**（*Trinervitermes trinervius*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，也是本属的模式种。本种由 Rambur 于 1842 年描述，模式产地为 Senegal: ?。分布记录包括塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达。本站记录本种有 3 个次异名。
 
-EN — **三脉三脉白蚁** (*Trinervitermes trinervius*) is a species and the type species of its genus of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Rambur in 1842; the type locality is Senegal: ?. Distribution: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. This site records 3 junior synonyms for the species.
+EN — **三脉三脉白蚁** (*Trinervitermes trinervius*) is a species and the type species of its genus of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Rambur in 1842; the type locality is Senegal: ?. Distribution: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. This site records 3 junior synonyms for the species.
 
-ES — **三脉三脉白蚁** (*Trinervitermes trinervius*) es una especie, y la especie tipo de su género del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Rambur en 1842; la localidad tipo es Senegal: ?. Distribución: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. Este sitio registra 3 sinónimos junior para la especie.
+ES — **三脉三脉白蚁** (*Trinervitermes trinervius*) es una especie, y la especie tipo de su género del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es Senegal: ?. Distribución: Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/list/#trinervitermes) —— 共 21 种（21 species · 21 especies）

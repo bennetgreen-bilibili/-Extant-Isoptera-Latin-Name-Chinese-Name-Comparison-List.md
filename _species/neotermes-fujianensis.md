@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**福建新白蚁**（*Neotermes fujianensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Ping 于 1983 年描述，模式产地为 China: Fujian province: Nanjimg County。分布记录包括中国、福建、广东、广西。
+**福建新白蚁**（*Neotermes fujianensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Ping 于 1983 年描述，模式产地为 China: Fujian province: Nanjimg County。分布记录包括中国、福建、广东、广西。
 
-EN — **福建新白蚁** (*Neotermes fujianensis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Ping in 1983; the type locality is China: Fujian province: Nanjimg County. Distribution: China, Fujian, Guangdong, Guangxi.
+EN — **福建新白蚁** (*Neotermes fujianensis*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Ping in 1983; the type locality is China: Fujian province: Nanjimg County. Distribution: China, Fujian, Guangdong, Guangxi.
 
-ES — **福建新白蚁** (*Neotermes fujianensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Ping en 1983; la localidad tipo es China: Fujian province: Nanjimg County. Distribución: China, Fujian, Guangdong, Guangxi.
+ES — **福建新白蚁** (*Neotermes fujianensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ping en 1983; la localidad tipo es China: Fujian province: Nanjimg County. Distribución: China, Fujian, Guangdong, Guangxi.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*

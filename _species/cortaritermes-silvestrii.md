@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**西尔韦斯特里利颚白蚁**（*Cortaritermes silvestrii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1910 年描述，模式产地为 Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]。分布记录包括巴西、阿根廷、巴拉圭。
+**西尔韦斯特里利颚白蚁**（*Cortaritermes silvestrii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1910 年描述，模式产地为 Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]。分布记录包括巴西、阿根廷、巴拉圭。
 
-EN — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) is a species and the type species of its genus of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1910; the type locality is Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribution: Brazil, Argentina, Paraguay.
+EN — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) is a species and the type species of its genus of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribution: Brazil, Argentina, Paraguay.
 
-ES — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) es una especie, y la especie tipo de su género del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribución: Brazil, Argentina, Paraguay.
+ES — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) es una especie, y la especie tipo de su género del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribución: Brazil, Argentina, Paraguay.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[利颚白蚁属 *Cortaritermes*]({{ site.base_url }}/list/#cortaritermes) —— 共 5 种（5 species · 5 especies）

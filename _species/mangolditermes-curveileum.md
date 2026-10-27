@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**曲回曼戈尔德白蚁**（*Mangolditermes curveileum*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）曼戈尔德白蚁属（*Mangolditermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]。分布记录包括南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥。
+**曲回曼戈尔德白蚁**（*Mangolditermes curveileum*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）曼戈尔德白蚁属（*Mangolditermes*）的现存唯一种。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]。分布记录包括南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥。
 
-EN — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) is the only extant species of the genus *Mangolditermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Scheffrahn, Carrijo & Castro in 2023; the type locality is Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribution: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
+EN — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) is the only extant species of the genus *Mangolditermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn, Carrijo & Castro in 2023; the type locality is Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribution: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
 
-ES — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) es la única especie viviente del género *Mangolditermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribución: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
+ES — **曲回曼戈尔德白蚁** (*Mangolditermes curveileum*) es la única especie viviente del género *Mangolditermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) \[ 9.6089S 65.3769W \]. Distribución: South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[曼戈尔德白蚁属 *Mangolditermes*]({{ site.base_url }}/list/#mangolditermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

@@ -28,15 +28,14 @@ synonym_localities: "Angola: São Paulo de Loanda; South Africa: Natal: Mont aux
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**短小无利器白蚁**（*Astalotermes brevior*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
+**短小无利器白蚁**（*Astalotermes brevior*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
 
-EN — **短小无利器白蚁** (*Astalotermes brevior*) is a species of the genus *Astalotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1913; the type locality is South Africa: Zululand: Mkosi. Distribution: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. This site records 3 junior synonyms for the species.
+EN — **短小无利器白蚁** (*Astalotermes brevior*) is a species of the genus *Astalotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Holmgren in 1913; the type locality is South Africa: Zululand: Mkosi. Distribution: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. This site records 3 junior synonyms for the species.
 
-ES — **短小无利器白蚁** (*Astalotermes brevior*) es una especie del género *Astalotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
+ES — **短小无利器白蚁** (*Astalotermes brevior*) es una especie del género *Astalotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无利器白蚁属 *Astalotermes*]({{ site.base_url }}/list/#astalotermes) —— 共 17 种（17 species · 17 especies）

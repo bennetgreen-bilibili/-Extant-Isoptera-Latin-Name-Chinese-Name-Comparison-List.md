@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**虹翅后肠白蚁**（*Apsenterotermes iridipennis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）后肠白蚁属（*Apsenterotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Gay 于 1956 年描述，模式产地为 Australia: Western Australia: 5 mi NW Norseman。分布记录包括澳大利亚。
+**虹翅后肠白蚁**（*Apsenterotermes iridipennis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）后肠白蚁属（*Apsenterotermes*）的一种，也是本属的模式种。本种由 Gay 于 1956 年描述，模式产地为 Australia: Western Australia: 5 mi NW Norseman。分布记录包括澳大利亚。
 
-EN — **虹翅后肠白蚁** (*Apsenterotermes iridipennis*) is a species and the type species of its genus of the genus *Apsenterotermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Gay in 1956; the type locality is Australia: Western Australia: 5 mi NW Norseman. Distribution: Australia.
+EN — **虹翅后肠白蚁** (*Apsenterotermes iridipennis*) is a species and the type species of its genus of the genus *Apsenterotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Gay in 1956; the type locality is Australia: Western Australia: 5 mi NW Norseman. Distribution: Australia.
 
-ES — **虹翅后肠白蚁** (*Apsenterotermes iridipennis*) es una especie, y la especie tipo de su género del género *Apsenterotermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Gay en 1956; la localidad tipo es Australia: Western Australia: 5 mi NW Norseman. Distribución: Australia.
+ES — **虹翅后肠白蚁** (*Apsenterotermes iridipennis*) es una especie, y la especie tipo de su género del género *Apsenterotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Gay en 1956; la localidad tipo es Australia: Western Australia: 5 mi NW Norseman. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[后肠白蚁属 *Apsenterotermes*]({{ site.base_url }}/list/#apsenterotermes) —— 共 5 种（5 species · 5 especies）

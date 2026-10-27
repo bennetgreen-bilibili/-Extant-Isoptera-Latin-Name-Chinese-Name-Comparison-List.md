@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**平头平扭白蚁**（*Planicapritermes planiceps*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）平扭白蚁属（*Planicapritermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、厄瓜多尔、苏里南、委内瑞拉。
+**平头平扭白蚁**（*Planicapritermes planiceps*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）平扭白蚁属（*Planicapritermes*）的一种，也是本属的模式种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、厄瓜多尔、苏里南、委内瑞拉。
 
-EN — **平头平扭白蚁** (*Planicapritermes planiceps*) is a species and the type species of its genus of the genus *Planicapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae), belonging to the clade Geoisoptera. The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela.
+EN — **平头平扭白蚁** (*Planicapritermes planiceps*) is a species and the type species of its genus of the genus *Planicapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Emerson in 1925; the type locality is Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribution: Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela.
 
-ES — **平头平扭白蚁** (*Planicapritermes planiceps*) es una especie, y la especie tipo de su género del género *Planicapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela.
+ES — **平头平扭白蚁** (*Planicapritermes planiceps*) es una especie, y la especie tipo de su género del género *Planicapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[平扭白蚁属 *Planicapritermes*]({{ site.base_url }}/list/#planicapritermes) —— 共 2 种（2 species · 2 especies）

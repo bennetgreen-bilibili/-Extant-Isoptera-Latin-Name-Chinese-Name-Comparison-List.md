@@ -28,15 +28,14 @@ synonym_localities: "Swaziland: Lebombo Flats N of Umbuluzi River near Komati"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽背钩白蚁**（*Ancistrotermes latinotus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1912 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Luapula。分布记录包括非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 1 个次异名。
+**宽背钩白蚁**（*Ancistrotermes latinotus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）钩白蚁属（*Ancistrotermes*）的一种。本种由 Holmgren 于 1912 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Luapula。分布记录包括非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 1 个次异名。
 
-EN — **宽背钩白蚁** (*Ancistrotermes latinotus*) is a species of the genus *Ancistrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1912; the type locality is Democratic Republic of the Congo: Katanga: Luapula. Distribution: southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 1 junior synonym for the species.
+EN — **宽背钩白蚁** (*Ancistrotermes latinotus*) is a species of the genus *Ancistrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Holmgren in 1912; the type locality is Democratic Republic of the Congo: Katanga: Luapula. Distribution: southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe. This site records 1 junior synonym for the species.
 
-ES — **宽背钩白蚁** (*Ancistrotermes latinotus*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1912; la localidad tipo es Democratic Republic of the Congo: Katanga: Luapula. Distribución: southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
+ES — **宽背钩白蚁** (*Ancistrotermes latinotus*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Democratic Republic of the Congo: Katanga: Luapula. Distribución: southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[钩白蚁属 *Ancistrotermes*]({{ site.base_url }}/list/#ancistrotermes) —— 共 16 种（16 species · 16 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**管形颚钩白蚁**（*Gnathamitermes tubiformans*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Buckley 于 1862 年描述，模式产地为 United States: Texas: Lapasas; Texas: San Saba。分布记录包括墨西哥、美国。
+**管形颚钩白蚁**（*Gnathamitermes tubiformans*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）颚钩白蚁属（*Gnathamitermes*）的一种。本种由 Buckley 于 1862 年描述，模式产地为 United States: Texas: Lapasas; Texas: San Saba。分布记录包括墨西哥、美国。
 
-EN — **管形颚钩白蚁** (*Gnathamitermes tubiformans*) is a species of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Buckley in 1862; the type locality is United States: Texas: Lapasas; Texas: San Saba. Distribution: Mexico, United States.
+EN — **管形颚钩白蚁** (*Gnathamitermes tubiformans*) is a species of the genus *Gnathamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Buckley in 1862; the type locality is United States: Texas: Lapasas; Texas: San Saba. Distribution: Mexico, United States.
 
-ES — **管形颚钩白蚁** (*Gnathamitermes tubiformans*) es una especie del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Buckley en 1862; la localidad tipo es United States: Texas: Lapasas; Texas: San Saba. Distribución: Mexico, United States.
+ES — **管形颚钩白蚁** (*Gnathamitermes tubiformans*) es una especie del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Buckley en 1862; la localidad tipo es United States: Texas: Lapasas; Texas: San Saba. Distribución: Mexico, United States.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[颚钩白蚁属 *Gnathamitermes*]({{ site.base_url }}/list/#gnathamitermes) —— 共 4 种（4 species · 4 especies）

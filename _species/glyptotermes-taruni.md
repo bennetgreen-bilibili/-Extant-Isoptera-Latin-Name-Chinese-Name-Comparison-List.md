@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**塔鲁恩树白蚁**（*Glyptotermes taruni*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Bose 于 1999 年描述，模式产地为 India: Arunachal Pradesh: Lower Subansari District, 23 km from Yazali, near Lichi。分布记录包括印度。
+**塔鲁恩树白蚁**（*Glyptotermes taruni*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Bose 于 1999 年描述，模式产地为 India: Arunachal Pradesh: Lower Subansari District, 23 km from Yazali, near Lichi。分布记录包括印度。
 
-EN — **塔鲁恩树白蚁** (*Glyptotermes taruni*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Bose in 1999; the type locality is India: Arunachal Pradesh: Lower Subansari District, 23 km from Yazali, near Lichi. Distribution: India.
+EN — **塔鲁恩树白蚁** (*Glyptotermes taruni*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Bose in 1999; the type locality is India: Arunachal Pradesh: Lower Subansari District, 23 km from Yazali, near Lichi. Distribution: India.
 
-ES — **塔鲁恩树白蚁** (*Glyptotermes taruni*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Bose en 1999; la localidad tipo es India: Arunachal Pradesh: Lower Subansari District, 23 km from Yazali, near Lichi. Distribución: India.
+ES — **塔鲁恩树白蚁** (*Glyptotermes taruni*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Bose en 1999; la localidad tipo es India: Arunachal Pradesh: Lower Subansari District, 23 km from Yazali, near Lichi. Distribución: India.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/list/#glyptotermes) —— 共 131 种（131 species · 131 especies）
 - **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*

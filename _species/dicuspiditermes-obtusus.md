@@ -28,15 +28,14 @@ synonym_localities: "India: Orissa: Chilka Lake: Barkuda Island"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**迟钝突扭白蚁**（*Dicuspiditermes obtusus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1923 年描述，模式产地为 India: Orissa: Chilka Lake: Barkuda Island。分布记录包括印度。本站记录本种有 1 个次异名。
+**迟钝突扭白蚁**（*Dicuspiditermes obtusus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1923 年描述，模式产地为 India: Orissa: Chilka Lake: Barkuda Island。分布记录包括印度。本站记录本种有 1 个次异名。
 
-EN — **迟钝突扭白蚁** (*Dicuspiditermes obtusus*) is a species and the type species of its genus of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1923; the type locality is India: Orissa: Chilka Lake: Barkuda Island. Distribution: India. This site records 1 junior synonym for the species.
+EN — **迟钝突扭白蚁** (*Dicuspiditermes obtusus*) is a species and the type species of its genus of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Silvestri in 1923; the type locality is India: Orissa: Chilka Lake: Barkuda Island. Distribution: India. This site records 1 junior synonym for the species.
 
-ES — **迟钝突扭白蚁** (*Dicuspiditermes obtusus*) es una especie, y la especie tipo de su género del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1923; la localidad tipo es India: Orissa: Chilka Lake: Barkuda Island. Distribución: India. Este sitio registra 1 sinónimo junior para la especie.
+ES — **迟钝突扭白蚁** (*Dicuspiditermes obtusus*) es una especie, y la especie tipo de su género del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1923; la localidad tipo es India: Orissa: Chilka Lake: Barkuda Island. Distribución: India. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种（21 species · 21 especies）

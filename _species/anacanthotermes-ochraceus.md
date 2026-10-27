@@ -25,15 +25,14 @@ synonym_localities: "Tunisia: Tunis, Bou-Hedma"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**黄赭无刺白蚁**（*Anacanthotermes ochraceus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，也是本属的模式种，隶属远等翅类（Teletisoptera）。本种由 Burmeister 于 1839 年描述，模式产地为 Egypt: ?。分布记录包括北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门。本站记录本种有 1 个次异名。
+**黄赭无刺白蚁**（*Anacanthotermes ochraceus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Egypt: ?。分布记录包括北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门。本站记录本种有 1 个次异名。
 
-EN — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) is a species and the type species of its genus of the genus *Anacanthotermes*, in the family HODOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Burmeister in 1839; the type locality is Egypt: ?. Distribution: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. This site records 1 junior synonym for the species.
+EN — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) is a species and the type species of its genus of the genus *Anacanthotermes*, in the family HODOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Egypt: ?. Distribution: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. This site records 1 junior synonym for the species.
 
-ES — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) es una especie, y la especie tipo de su género del género *Anacanthotermes*, en la familia HODOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Burmeister en 1839; la localidad tipo es Egypt: ?. Distribución: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. Este sitio registra 1 sinónimo junior para la especie.
+ES — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) es una especie, y la especie tipo de su género del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Egypt: ?. Distribución: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
 - **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/list/#anacanthotermes) —— 共 16 种（16 species · 16 especies）
 

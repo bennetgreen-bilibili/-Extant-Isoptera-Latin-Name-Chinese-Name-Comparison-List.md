@@ -25,15 +25,14 @@ synonym_localities: "United States: Texas: Cotula"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**简角近新白蚁**（*Paraneotermes simplicicornis*）是木白蚁科（KALOTERMITIDAE）近新白蚁属（*Paraneotermes*）的现存唯一种，隶属近等翅类（Icoisoptera）。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Laguna, on the Neuces River。分布记录包括北美、美国、墨西哥。本站记录本种有 1 个次异名。
+**简角近新白蚁**（*Paraneotermes simplicicornis*）是木白蚁科（KALOTERMITIDAE）近新白蚁属（*Paraneotermes*）的现存唯一种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Laguna, on the Neuces River。分布记录包括北美、美国、墨西哥。本站记录本种有 1 个次异名。
 
-EN — **简角近新白蚁** (*Paraneotermes simplicicornis*) is the only extant species of the genus *Paraneotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Banks in 1920; the type locality is United States: Texas: Laguna, on the Neuces River. Distribution: North America, United States, Mexico. This site records 1 junior synonym for the species.
+EN — **简角近新白蚁** (*Paraneotermes simplicicornis*) is the only extant species of the genus *Paraneotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1920; the type locality is United States: Texas: Laguna, on the Neuces River. Distribution: North America, United States, Mexico. This site records 1 junior synonym for the species.
 
-ES — **简角近新白蚁** (*Paraneotermes simplicicornis*) es la única especie viviente del género *Paraneotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Laguna, on the Neuces River. Distribución: North America, United States, Mexico. Este sitio registra 1 sinónimo junior para la especie.
+ES — **简角近新白蚁** (*Paraneotermes simplicicornis*) es la única especie viviente del género *Paraneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Laguna, on the Neuces River. Distribución: North America, United States, Mexico. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[近新白蚁属 *Paraneotermes*]({{ site.base_url }}/list/#paraneotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

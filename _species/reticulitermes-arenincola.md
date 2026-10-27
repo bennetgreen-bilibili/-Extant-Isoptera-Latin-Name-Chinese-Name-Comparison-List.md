@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**沙栖散白蚁**（*Reticulitermes arenincola*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Goellner 于 1931 年描述，模式产地为 United States: Indiana: Pine, W of Gary。分布记录包括美国。
+**沙栖散白蚁**（*Reticulitermes arenincola*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Goellner 于 1931 年描述，模式产地为 United States: Indiana: Pine, W of Gary。分布记录包括美国。
 
-EN — **沙栖散白蚁** (*Reticulitermes arenincola*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Goellner in 1931; the type locality is United States: Indiana: Pine, W of Gary. Distribution: United States.
+EN — **沙栖散白蚁** (*Reticulitermes arenincola*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Goellner in 1931; the type locality is United States: Indiana: Pine, W of Gary. Distribution: United States.
 
-ES — **沙栖散白蚁** (*Reticulitermes arenincola*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Goellner en 1931; la localidad tipo es United States: Indiana: Pine, W of Gary. Distribución: United States.
+ES — **沙栖散白蚁** (*Reticulitermes arenincola*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Goellner en 1931; la localidad tipo es United States: Indiana: Pine, W of Gary. Distribución: United States.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

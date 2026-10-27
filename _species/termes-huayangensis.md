@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**怀阳白蚁**（*Termes huayangensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ahmad 于 1965 年描述，模式产地为 Thailand: Huay Yang。分布记录包括中国广东、华阳、泰国。
+**怀阳白蚁**（*Termes huayangensis*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）白蚁属（*Termes*）的一种。本种由 Ahmad 于 1965 年描述，模式产地为 Thailand: Huay Yang。分布记录包括中国广东、华阳、泰国。
 
-EN — **怀阳白蚁** (*Termes huayangensis*) is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Ahmad in 1965; the type locality is Thailand: Huay Yang. Distribution: Guangdong, China, Huayang, Thailand.
+EN — **怀阳白蚁** (*Termes huayangensis*) is a species of the genus *Termes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Ahmad in 1965; the type locality is Thailand: Huay Yang. Distribution: Guangdong, China, Huayang, Thailand.
 
-ES — **怀阳白蚁** (*Termes huayangensis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Huay Yang. Distribución: Guangdong, China, Huayang, Thailand.
+ES — **怀阳白蚁** (*Termes huayangensis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Huay Yang. Distribución: Guangdong, China, Huayang, Thailand.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[白蚁属 *Termes*]({{ site.base_url }}/list/#termes) —— 共 26 种（26 species · 26 especies）

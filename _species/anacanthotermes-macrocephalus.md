@@ -25,15 +25,14 @@ synonym_localities: "Pakistan: Peshawar"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大头无刺白蚁**（*Anacanthotermes macrocephalus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，隶属远等翅类（Teletisoptera）。本种由 Desneux 于 1906 年描述，模式产地为 Pakistan: Sind: Karachi。分布记录包括印度、阿富汗、伊朗、巴基斯坦。本站记录本种有 1 个次异名。
+**大头无刺白蚁**（*Anacanthotermes macrocephalus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种。本种由 Desneux 于 1906 年描述，模式产地为 Pakistan: Sind: Karachi。分布记录包括印度、阿富汗、伊朗、巴基斯坦。本站记录本种有 1 个次异名。
 
-EN — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) is a species of the genus *Anacanthotermes*, in the family HODOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Desneux in 1906; the type locality is Pakistan: Sind: Karachi. Distribution: India, Afghanistan, Iran, Pakistan. This site records 1 junior synonym for the species.
+EN — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) is a species of the genus *Anacanthotermes*, in the family HODOTERMITIDAE. The species was described by Desneux in 1906; the type locality is Pakistan: Sind: Karachi. Distribution: India, Afghanistan, Iran, Pakistan. This site records 1 junior synonym for the species.
 
-ES — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Desneux en 1906; la localidad tipo es Pakistan: Sind: Karachi. Distribución: India, Afghanistan, Iran, Pakistan. Este sitio registra 1 sinónimo junior para la especie.
+ES — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Desneux en 1906; la localidad tipo es Pakistan: Sind: Karachi. Distribución: India, Afghanistan, Iran, Pakistan. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
 - **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/list/#anacanthotermes) —— 共 16 种（16 species · 16 especies）
 - **本属模式种 Type species / Especie tipo**：*Anacanthotermes ochraceus*

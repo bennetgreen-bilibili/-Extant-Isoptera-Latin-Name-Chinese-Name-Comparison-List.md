@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**克里希纳距白蚁**（*Calcaritermes krishnai*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Maiti & Chakraborty 于 1981 年描述，模式产地为 India: Nicobar Islands: Great Nicobar Island: Champa Bay。分布记录包括印度尼科巴群岛。
+**克里希纳距白蚁**（*Calcaritermes krishnai*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Maiti & Chakraborty 于 1981 年描述，模式产地为 India: Nicobar Islands: Great Nicobar Island: Champa Bay。分布记录包括印度尼科巴群岛。
 
-EN — **克里希纳距白蚁** (*Calcaritermes krishnai*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Maiti & Chakraborty in 1981; the type locality is India: Nicobar Islands: Great Nicobar Island: Champa Bay. Distribution: India (Nicobar Islands).
+EN — **克里希纳距白蚁** (*Calcaritermes krishnai*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Maiti & Chakraborty in 1981; the type locality is India: Nicobar Islands: Great Nicobar Island: Champa Bay. Distribution: India (Nicobar Islands).
 
-ES — **克里希纳距白蚁** (*Calcaritermes krishnai*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Maiti & Chakraborty en 1981; la localidad tipo es India: Nicobar Islands: Great Nicobar Island: Champa Bay. Distribución: India (Nicobar Islands).
+ES — **克里希纳距白蚁** (*Calcaritermes krishnai*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Maiti & Chakraborty en 1981; la localidad tipo es India: Nicobar Islands: Great Nicobar Island: Champa Bay. Distribución: India (Nicobar Islands).
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/list/#calcaritermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Calcaritermes imminens*

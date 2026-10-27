@@ -28,15 +28,14 @@ synonym_localities: "South Africa: ?; Eritrea: Mt. Kullo; Democratic Republic of
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**不同三脉白蚁**（*Trinervitermes dispar*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1902 年描述，模式产地为 Malawi: Zomba。分布记录包括厄立特里亚、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、纳米比亚、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦。本站记录本种有 7 个次异名。
+**不同三脉白蚁**（*Trinervitermes dispar*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1902 年描述，模式产地为 Malawi: Zomba。分布记录包括厄立特里亚、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、纳米比亚、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦。本站记录本种有 7 个次异名。
 
-EN — **不同三脉白蚁** (*Trinervitermes dispar*) is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1902; the type locality is Malawi: Zomba. Distribution: Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. This site records 7 junior synonyms for the species.
+EN — **不同三脉白蚁** (*Trinervitermes dispar*) is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1902; the type locality is Malawi: Zomba. Distribution: Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. This site records 7 junior synonyms for the species.
 
-ES — **不同三脉白蚁** (*Trinervitermes dispar*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1902; la localidad tipo es Malawi: Zomba. Distribución: Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. Este sitio registra 7 sinónimos junior para la especie.
+ES — **不同三脉白蚁** (*Trinervitermes dispar*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1902; la localidad tipo es Malawi: Zomba. Distribución: Eritrea, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Namibia, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. Este sitio registra 7 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/list/#trinervitermes) —— 共 21 种（21 species · 21 especies）

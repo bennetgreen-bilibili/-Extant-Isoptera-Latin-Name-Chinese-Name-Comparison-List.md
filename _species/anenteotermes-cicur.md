@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**温顺无甲白蚁**（*Anenteotermes cicur*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sands 于 1972 年描述，模式产地为 Democratic Republic of the Congo: Yase, 12 km from Yangambi。分布记录包括刚果民主共和国。
+**温顺无甲白蚁**（*Anenteotermes cicur*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无甲白蚁属（*Anenteotermes*）的一种。本种由 Sands 于 1972 年描述，模式产地为 Democratic Republic of the Congo: Yase, 12 km from Yangambi。分布记录包括刚果民主共和国。
 
-EN — **温顺无甲白蚁** (*Anenteotermes cicur*) is a species of the genus *Anenteotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Sands in 1972; the type locality is Democratic Republic of the Congo: Yase, 12 km from Yangambi. Distribution: Democratic Republic of the Congo.
+EN — **温顺无甲白蚁** (*Anenteotermes cicur*) is a species of the genus *Anenteotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sands in 1972; the type locality is Democratic Republic of the Congo: Yase, 12 km from Yangambi. Distribution: Democratic Republic of the Congo.
 
-ES — **温顺无甲白蚁** (*Anenteotermes cicur*) es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Yase, 12 km from Yangambi. Distribución: Democratic Republic of the Congo.
+ES — **温顺无甲白蚁** (*Anenteotermes cicur*) es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Yase, 12 km from Yangambi. Distribución: Democratic Republic of the Congo.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无甲白蚁属 *Anenteotermes*]({{ site.base_url }}/list/#anenteotermes) —— 共 11 种（11 species · 11 especies）

@@ -28,15 +28,14 @@ synonym_localities: "Australia: Queensland, near Laura; Australia: Northern Terr
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**挖掘冢白蚁**（*Tumulitermes pastinator*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Hill 于 1915 年描述，模式产地为 Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport。分布记录包括澳大利亚。本站记录本种有 2 个次异名。
+**挖掘冢白蚁**（*Tumulitermes pastinator*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）冢白蚁属（*Tumulitermes*）的一种。本种由 Hill 于 1915 年描述，模式产地为 Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport。分布记录包括澳大利亚。本站记录本种有 2 个次异名。
 
-EN — **挖掘冢白蚁** (*Tumulitermes pastinator*) is a species of the genus *Tumulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Hill in 1915; the type locality is Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribution: Australia. This site records 2 junior synonyms for the species.
+EN — **挖掘冢白蚁** (*Tumulitermes pastinator*) is a species of the genus *Tumulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Hill in 1915; the type locality is Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribution: Australia. This site records 2 junior synonyms for the species.
 
-ES — **挖掘冢白蚁** (*Tumulitermes pastinator*) es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribución: Australia. Este sitio registra 2 sinónimos junior para la especie.
+ES — **挖掘冢白蚁** (*Tumulitermes pastinator*) es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribución: Australia. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[冢白蚁属 *Tumulitermes*]({{ site.base_url }}/list/#tumulitermes) —— 共 17 种（17 species · 17 especies）

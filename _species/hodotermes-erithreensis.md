@@ -25,15 +25,14 @@ synonym_localities: "Somalia: Alabla Balleh, Halaya"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**厄立特里亚草白蚁**（*Hodotermes erithreensis*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种，隶属远等翅类（Teletisoptera）。本种由 Sjöstedt 于 1912 年描述，模式产地为 Eritrea: Assab。分布记录包括厄立特里亚、埃塞俄比亚、索马里。本站记录本种有 1 个次异名。
+**厄立特里亚草白蚁**（*Hodotermes erithreensis*）是草白蚁科（HODOTERMITIDAE）草白蚁属（*Hodotermes*）的一种。本种由 Sjöstedt 于 1912 年描述，模式产地为 Eritrea: Assab。分布记录包括厄立特里亚、埃塞俄比亚、索马里。本站记录本种有 1 个次异名。
 
-EN — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) is a species of the genus *Hodotermes*, in the family HODOTERMITIDAE, belonging to the clade Teletisoptera. The species was described by Sjöstedt in 1912; the type locality is Eritrea: Assab. Distribution: Eritrea, Ethiopia, Somalia. This site records 1 junior synonym for the species.
+EN — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) is a species of the genus *Hodotermes*, in the family HODOTERMITIDAE. The species was described by Sjöstedt in 1912; the type locality is Eritrea: Assab. Distribution: Eritrea, Ethiopia, Somalia. This site records 1 junior synonym for the species.
 
-ES — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) es una especie del género *Hodotermes*, en la familia HODOTERMITIDAE, perteneciente al clado Teletisoptera. La especie fue descrita por Sjöstedt en 1912; la localidad tipo es Eritrea: Assab. Distribución: Eritrea, Ethiopia, Somalia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) es una especie del género *Hodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Sjöstedt en 1912; la localidad tipo es Eritrea: Assab. Distribución: Eritrea, Ethiopia, Somalia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[远等翅类 Teletisoptera]({{ site.base_url }}/list/#teletisoptera)
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
 - **属 Genus / Género**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/list/#hodotermes) —— 共 2 种（2 species · 2 especies）
 - **本属模式种 Type species / Especie tipo**：*Hodotermes mossambicus*

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**卡托莱三棒白蚁**（*Triclavitermes catoleensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）三棒白蚁属（*Triclavitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Ferreira, Carvalho & Vasconcellos 于 2025 年描述，模式产地为 Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]。分布记录包括巴西、巴伊亚。
+**卡托莱三棒白蚁**（*Triclavitermes catoleensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）三棒白蚁属（*Triclavitermes*）的现存唯一种。本种由 Ferreira, Carvalho & Vasconcellos 于 2025 年描述，模式产地为 Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]。分布记录包括巴西、巴伊亚。
 
-EN — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) is the only extant species of the genus *Triclavitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Ferreira, Carvalho & Vasconcellos in 2025; the type locality is Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribution: Brazil, Bahia.
+EN — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) is the only extant species of the genus *Triclavitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Ferreira, Carvalho & Vasconcellos in 2025; the type locality is Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribution: Brazil, Bahia.
 
-ES — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) es la única especie viviente del género *Triclavitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ferreira, Carvalho & Vasconcellos en 2025; la localidad tipo es Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribución: Brazil, Bahia.
+ES — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) es la única especie viviente del género *Triclavitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Ferreira, Carvalho & Vasconcellos en 2025; la localidad tipo es Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribución: Brazil, Bahia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[三棒白蚁属 *Triclavitermes*]({{ site.base_url }}/list/#triclavitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

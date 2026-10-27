@@ -27,15 +27,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**下亚种**（*Promirotermes holmgreni infera*）是霍姆格伦前奇白蚁（*Promirotermes holmgreni*）的一个亚种，隶属白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*），所属支系为土栖等翅类（Geoisoptera）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Senegal: Thiès。本页暂无单列的分布记录，母种 *Promirotermes holmgreni* 的分布见下文「分布」一节。
+**下亚种**（*Promirotermes holmgreni infera*）是霍姆格伦前奇白蚁（*Promirotermes holmgreni*）的一个亚种，隶属白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Senegal: Thiès。本页暂无单列的分布记录，母种 *Promirotermes holmgreni* 的分布见下文「分布」一节。
 
-EN — **下亚种** (*Promirotermes holmgreni infera*) is a subspecies of *Promirotermes holmgreni*, in the family TERMITIDAE (subfamily Promirotermitinae), genus *Promirotermes*, belonging to the clade Geoisoptera. The subspecies was described by Silvestri in 1914; the type locality is Senegal: Thiès. No separate distribution record is listed on this page; see the parent species *Promirotermes holmgreni*.
+EN — **下亚种** (*Promirotermes holmgreni infera*) is a subspecies of *Promirotermes holmgreni*, in the family TERMITIDAE (subfamily Promirotermitinae), genus *Promirotermes*. The subspecies was described by Silvestri in 1914; the type locality is Senegal: Thiès. No separate distribution record is listed on this page; see the parent species *Promirotermes holmgreni*.
 
-ES — **下亚种** (*Promirotermes holmgreni infera*) es una subespecie de *Promirotermes holmgreni*, en la familia TERMITIDAE (subfamilia Promirotermitinae), género *Promirotermes*, perteneciente al clado Geoisoptera. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Senegal: Thiès. No se incluye un registro de distribución separado en esta página; véase la especie parental *Promirotermes holmgreni*.
+ES — **下亚种** (*Promirotermes holmgreni infera*) es una subespecie de *Promirotermes holmgreni*, en la familia TERMITIDAE (subfamilia Promirotermitinae), género *Promirotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Senegal: Thiès. No se incluye un registro de distribución separado en esta página; véase la especie parental *Promirotermes holmgreni*.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/list/#promirotermitinae) —— 本站收录 2 属 39 种（2 genera, 39 species · 2 géneros, 39 especies）
 - **属 Genus / Género**：[前奇白蚁属 *Promirotermes*]({{ site.base_url }}/list/#promirotermes) —— 共 10 种（10 species · 10 especies）

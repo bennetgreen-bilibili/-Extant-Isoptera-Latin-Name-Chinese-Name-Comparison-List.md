@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽唇稀白蚁**（*Speculitermes latalabrum*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）稀白蚁属（*Speculitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Aiswarya & Amina 于 2026 年描述，模式产地为 India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]。分布记录包括南亚、印度。
+**宽唇稀白蚁**（*Speculitermes latalabrum*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）稀白蚁属（*Speculitermes*）的一种。本种由 Aiswarya & Amina 于 2026 年描述，模式产地为 India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]。分布记录包括南亚、印度。
 
-EN — **宽唇稀白蚁** (*Speculitermes latalabrum*) is a species of the genus *Speculitermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Aiswarya & Amina in 2026; the type locality is India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribution: South Asia, India.
+EN — **宽唇稀白蚁** (*Speculitermes latalabrum*) is a species of the genus *Speculitermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Aiswarya & Amina in 2026; the type locality is India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribution: South Asia, India.
 
-ES — **宽唇稀白蚁** (*Speculitermes latalabrum*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Aiswarya & Amina en 2026; la localidad tipo es India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribución: South Asia, India.
+ES — **宽唇稀白蚁** (*Speculitermes latalabrum*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Aiswarya & Amina en 2026; la localidad tipo es India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribución: South Asia, India.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[稀白蚁属 *Speculitermes*]({{ site.base_url }}/list/#speculitermes) —— 共 13 种（13 species · 13 especies）

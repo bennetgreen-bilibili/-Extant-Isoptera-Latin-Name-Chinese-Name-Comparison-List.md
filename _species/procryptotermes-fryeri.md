@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**弗赖尔前砂白蚁**（*Procryptotermes fryeri*）是木白蚁科（KALOTERMITIDAE）前砂白蚁属（*Procryptotermes*）的一种，也是本属的模式种，隶属近等翅类（Icoisoptera）。本种由 Holmgren 于 1910 年描述，模式产地为 Seychelles: Aldabra: Takamaka。分布记录包括塞舌尔。
+**弗赖尔前砂白蚁**（*Procryptotermes fryeri*）是木白蚁科（KALOTERMITIDAE）前砂白蚁属（*Procryptotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1910 年描述，模式产地为 Seychelles: Aldabra: Takamaka。分布记录包括塞舌尔。
 
-EN — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) is a species and the type species of its genus of the genus *Procryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Holmgren in 1910; the type locality is Seychelles: Aldabra: Takamaka. Distribution: Seychelles.
+EN — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) is a species and the type species of its genus of the genus *Procryptotermes*, in the family KALOTERMITIDAE. The species was described by Holmgren in 1910; the type locality is Seychelles: Aldabra: Takamaka. Distribution: Seychelles.
 
-ES — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) es una especie, y la especie tipo de su género del género *Procryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución: Seychelles.
+ES — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) es una especie, y la especie tipo de su género del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución: Seychelles.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/list/#procryptotermes) —— 共 14 种（14 species · 14 especies）
 

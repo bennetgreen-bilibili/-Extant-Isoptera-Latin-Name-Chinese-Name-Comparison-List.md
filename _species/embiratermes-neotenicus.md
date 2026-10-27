@@ -28,15 +28,14 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本站记录本种有 1 个次异名。
+**幼态生白蚁**（*Embiratermes neotenicus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Holmgren 于 1906 年描述，模式产地为 Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]。分布记录包括秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉。本站记录本种有 1 个次异名。
 
-EN — **幼态生白蚁** (*Embiratermes neotenicus*) is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. This site records 1 junior synonym for the species.
+EN — **幼态生白蚁** (*Embiratermes neotenicus*) is a species of the genus *Embiratermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Holmgren in 1906; the type locality is Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribution: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. This site records 1 junior synonym for the species.
 
-ES — **幼态生白蚁** (*Embiratermes neotenicus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+ES — **幼态生白蚁** (*Embiratermes neotenicus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/list/#embiratermes) —— 共 9 种（9 species · 9 especies）

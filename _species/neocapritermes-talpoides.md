@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似鼹鼠新扭白蚁**（*Neocapritermes talpoides*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Krishna & Araujo 于 1968 年描述，模式产地为 Ecuador: Morona-Santiago: Rio Zamora \[ 3.51333S 78.5219W \]。分布记录包括哥伦比亚、巴西、玻利维亚、厄瓜多尔、委内瑞拉。
+**似鼹鼠新扭白蚁**（*Neocapritermes talpoides*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Krishna & Araujo 于 1968 年描述，模式产地为 Ecuador: Morona-Santiago: Rio Zamora \[ 3.51333S 78.5219W \]。分布记录包括哥伦比亚、巴西、玻利维亚、厄瓜多尔、委内瑞拉。
 
-EN — **似鼹鼠新扭白蚁** (*Neocapritermes talpoides*) is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae), belonging to the clade Geoisoptera. The species was described by Krishna & Araujo in 1968; the type locality is Ecuador: Morona-Santiago: Rio Zamora \[ 3.51333S 78.5219W \]. Distribution: Colombia, Brazil, Bolivia, Ecuador, Venezuela.
+EN — **似鼹鼠新扭白蚁** (*Neocapritermes talpoides*) is a species of the genus *Neocapritermes*, in the family TERMITIDAE (subfamily Neocapritermitinae). The species was described by Krishna & Araujo in 1968; the type locality is Ecuador: Morona-Santiago: Rio Zamora \[ 3.51333S 78.5219W \]. Distribution: Colombia, Brazil, Bolivia, Ecuador, Venezuela.
 
-ES — **似鼹鼠新扭白蚁** (*Neocapritermes talpoides*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Krishna & Araujo en 1968; la localidad tipo es Ecuador: Morona-Santiago: Rio Zamora \[ 3.51333S 78.5219W \]. Distribución: Colombia, Brazil, Bolivia, Ecuador, Venezuela.
+ES — **似鼹鼠新扭白蚁** (*Neocapritermes talpoides*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Krishna & Araujo en 1968; la localidad tipo es Ecuador: Morona-Santiago: Rio Zamora \[ 3.51333S 78.5219W \]. Distribución: Colombia, Brazil, Bolivia, Ecuador, Venezuela.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种（17 species · 17 especies）

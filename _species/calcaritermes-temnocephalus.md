@@ -25,15 +25,14 @@ synonym_localities: "Costa Rica: Santa Clara: Hamburg Farm"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**切头距白蚁**（*Calcaritermes temnocephalus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本站记录本种有 1 个次异名。
+**切头距白蚁**（*Calcaritermes temnocephalus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]。分布记录包括南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本站记录本种有 1 个次异名。
 
-EN — **切头距白蚁** (*Calcaritermes temnocephalus*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribution: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
+EN — **切头距白蚁** (*Calcaritermes temnocephalus*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribution: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. This site records 1 junior synonym for the species.
 
-ES — **切头距白蚁** (*Calcaritermes temnocephalus*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+ES — **切头距白蚁** (*Calcaritermes temnocephalus*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/list/#calcaritermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Calcaritermes imminens*

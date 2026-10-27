@@ -28,15 +28,14 @@ synonym_localities: "Uganda: ?"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**基巴拉土白蚁**（*Odontotermes kibarensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Fuller 于 1923 年描述，模式产地为 Uganda: Kampala: Kibara。分布记录包括东非肯尼亚、安哥拉、苏丹、坦桑尼亚、乌干达。本站记录本种有 1 个次异名。
+**基巴拉土白蚁**（*Odontotermes kibarensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Fuller 于 1923 年描述，模式产地为 Uganda: Kampala: Kibara。分布记录包括东非肯尼亚、安哥拉、苏丹、坦桑尼亚、乌干达。本站记录本种有 1 个次异名。
 
-EN — **基巴拉土白蚁** (*Odontotermes kibarensis*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Fuller in 1923; the type locality is Uganda: Kampala: Kibara. Distribution: East Africa, Kenya, Angola, Sudan, Tanzania, Uganda. This site records 1 junior synonym for the species.
+EN — **基巴拉土白蚁** (*Odontotermes kibarensis*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Fuller in 1923; the type locality is Uganda: Kampala: Kibara. Distribution: East Africa, Kenya, Angola, Sudan, Tanzania, Uganda. This site records 1 junior synonym for the species.
 
-ES — **基巴拉土白蚁** (*Odontotermes kibarensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Fuller en 1923; la localidad tipo es Uganda: Kampala: Kibara. Distribución: East Africa, Kenya, Angola, Sudan, Tanzania, Uganda. Este sitio registra 1 sinónimo junior para la especie.
+ES — **基巴拉土白蚁** (*Odontotermes kibarensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Fuller en 1923; la localidad tipo es Uganda: Kampala: Kibara. Distribución: East Africa, Kenya, Angola, Sudan, Tanzania, Uganda. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

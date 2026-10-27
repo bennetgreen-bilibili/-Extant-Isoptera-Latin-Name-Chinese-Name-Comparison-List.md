@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**直角头白蚁**（*Cephalotermes rectangularis*）是白蚁科（TERMITIDAE）圆筒白蚁亚科（Cylindrotermitinae）头白蚁属（*Cephalotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1899 年描述，模式产地为 Cameroon: Mungo River。分布记录包括旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达。
+**直角头白蚁**（*Cephalotermes rectangularis*）是白蚁科（TERMITIDAE）圆筒白蚁亚科（Cylindrotermitinae）头白蚁属（*Cephalotermes*）的现存唯一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Cameroon: Mungo River。分布记录包括旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达。
 
-EN — **直角头白蚁** (*Cephalotermes rectangularis*) is the only extant species of the genus *Cephalotermes*, in the family TERMITIDAE (subfamily Cylindrotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1899; the type locality is Cameroon: Mungo River. Distribution: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
+EN — **直角头白蚁** (*Cephalotermes rectangularis*) is the only extant species of the genus *Cephalotermes*, in the family TERMITIDAE (subfamily Cylindrotermitinae). The species was described by Sjöstedt in 1899; the type locality is Cameroon: Mungo River. Distribution: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
 
-ES — **直角头白蚁** (*Cephalotermes rectangularis*) es la única especie viviente del género *Cephalotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Mungo River. Distribución: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
+ES — **直角头白蚁** (*Cephalotermes rectangularis*) es la única especie viviente del género *Cephalotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Mungo River. Distribución: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[圆筒白蚁亚科 Cylindrotermitinae]({{ site.base_url }}/list/#cylindrotermitinae) —— 本站收录 2 属 9 种（2 genera, 9 species · 2 géneros, 9 especies）
 - **属 Genus / Género**：[头白蚁属 *Cephalotermes*]({{ site.base_url }}/list/#cephalotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

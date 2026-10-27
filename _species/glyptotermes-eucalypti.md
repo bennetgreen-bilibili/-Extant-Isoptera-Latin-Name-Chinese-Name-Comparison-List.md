@@ -25,15 +25,14 @@ synonym_localities: "Australia: Capital Territory: Black Mtn"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**桉树树白蚁**（*Glyptotermes eucalypti*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Sydney。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**桉树树白蚁**（*Glyptotermes eucalypti*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Sydney。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
-EN — **桉树树白蚁** (*Glyptotermes eucalypti*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Sydney. Distribution: Australia. This site records 1 junior synonym for the species.
+EN — **桉树树白蚁** (*Glyptotermes eucalypti*) is a species of the genus *Glyptotermes*, in the family KALOTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: New South Wales: Sydney. Distribution: Australia. This site records 1 junior synonym for the species.
 
-ES — **桉树树白蚁** (*Glyptotermes eucalypti*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Sydney. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **桉树树白蚁** (*Glyptotermes eucalypti*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Sydney. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/list/#glyptotermes) —— 共 131 种（131 species · 131 especies）
 - **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*

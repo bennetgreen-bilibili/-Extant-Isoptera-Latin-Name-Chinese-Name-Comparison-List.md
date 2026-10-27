@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**阿布里异颚白蚁**（*Allognathotermes aburiensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）异颚白蚁属（*Allognathotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1926 年描述，模式产地为 Ghana: Aburi。分布记录包括加纳、几内亚、尼日利亚。
+**阿布里异颚白蚁**（*Allognathotermes aburiensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）异颚白蚁属（*Allognathotermes*）的一种。本种由 Sjöstedt 于 1926 年描述，模式产地为 Ghana: Aburi。分布记录包括加纳、几内亚、尼日利亚。
 
-EN — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) is a species of the genus *Allognathotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1926; the type locality is Ghana: Aburi. Distribution: Ghana, Guinea, Nigeria.
+EN — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) is a species of the genus *Allognathotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1926; the type locality is Ghana: Aburi. Distribution: Ghana, Guinea, Nigeria.
 
-ES — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) es una especie del género *Allognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Aburi. Distribución: Ghana, Guinea, Nigeria.
+ES — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) es una especie del género *Allognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Aburi. Distribución: Ghana, Guinea, Nigeria.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[异颚白蚁属 *Allognathotermes*]({{ site.base_url }}/list/#allognathotermes) —— 共 3 种（3 species · 3 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**点囟木堆白蚁**（*Xylochomitermes punctillus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）木堆白蚁属（*Xylochomitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Miller 于 1991 年描述，模式产地为 Australia: Queensland: Weipa。分布记录包括澳大利亚。
+**点囟木堆白蚁**（*Xylochomitermes punctillus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）木堆白蚁属（*Xylochomitermes*）的一种。本种由 Miller 于 1991 年描述，模式产地为 Australia: Queensland: Weipa。分布记录包括澳大利亚。
 
-EN — **点囟木堆白蚁** (*Xylochomitermes punctillus*) is a species of the genus *Xylochomitermes*, in the family TERMITIDAE (subfamily Termitinae), belonging to the clade Geoisoptera. The species was described by Miller in 1991; the type locality is Australia: Queensland: Weipa. Distribution: Australia.
+EN — **点囟木堆白蚁** (*Xylochomitermes punctillus*) is a species of the genus *Xylochomitermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Miller in 1991; the type locality is Australia: Queensland: Weipa. Distribution: Australia.
 
-ES — **点囟木堆白蚁** (*Xylochomitermes punctillus*) es una especie del género *Xylochomitermes*, en la familia TERMITIDAE (subfamilia Termitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland: Weipa. Distribución: Australia.
+ES — **点囟木堆白蚁** (*Xylochomitermes punctillus*) es una especie del género *Xylochomitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland: Weipa. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[木堆白蚁属 *Xylochomitermes*]({{ site.base_url }}/list/#xylochomitermes) —— 共 6 种（6 species · 6 especies）

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**大眼新白蚁**（*Neotermes magnoculus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]。分布记录包括玻利维亚、巴西。
+**大眼新白蚁**（*Neotermes magnoculus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Snyder 于 1926 年描述，模式产地为 Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]。分布记录包括玻利维亚、巴西。
 
-EN — **大眼新白蚁** (*Neotermes magnoculus*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Snyder in 1926; the type locality is Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribution: Bolivia, Brazil.
+EN — **大眼新白蚁** (*Neotermes magnoculus*) is a species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1926; the type locality is Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribution: Bolivia, Brazil.
 
-ES — **大眼新白蚁** (*Neotermes magnoculus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribución: Bolivia, Brazil.
+ES — **大眼新白蚁** (*Neotermes magnoculus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribución: Bolivia, Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*

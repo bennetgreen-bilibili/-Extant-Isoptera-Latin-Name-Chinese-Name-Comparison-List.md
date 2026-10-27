@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乔安和白蚁**（*Adaiphrotermes choanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和白蚁属（*Adaiphrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Pretoria: Arcadia。分布记录包括肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦。
+**乔安和白蚁**（*Adaiphrotermes choanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和白蚁属（*Adaiphrotermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Pretoria: Arcadia。分布记录包括肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦。
 
-EN — **乔安和白蚁** (*Adaiphrotermes choanensis*) is a species of the genus *Adaiphrotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Fuller in 1925; the type locality is South Africa: Pretoria: Arcadia. Distribution: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
+EN — **乔安和白蚁** (*Adaiphrotermes choanensis*) is a species of the genus *Adaiphrotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Fuller in 1925; the type locality is South Africa: Pretoria: Arcadia. Distribution: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
 
-ES — **乔安和白蚁** (*Adaiphrotermes choanensis*) es una especie del género *Adaiphrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Pretoria: Arcadia. Distribución: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
+ES — **乔安和白蚁** (*Adaiphrotermes choanensis*) es una especie del género *Adaiphrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Pretoria: Arcadia. Distribución: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[和白蚁属 *Adaiphrotermes*]({{ site.base_url }}/list/#adaiphrotermes) —— 共 3 种（3 species · 3 especies）

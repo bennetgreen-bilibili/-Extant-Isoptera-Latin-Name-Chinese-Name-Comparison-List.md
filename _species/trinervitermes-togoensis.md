@@ -28,15 +28,14 @@ synonym_localities: "Sudan: Kaka; Mali: Belia"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多哥兰三脉白蚁**（*Trinervitermes togoensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1899 年描述，模式产地为 Ghana: Ho。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、印度、尼日尔、贝宁、厄立特里亚、埃塞俄比亚、加纳、几内亚、马里、尼日利亚、塞拉利昂、苏丹、乌干达。本站记录本种有 2 个次异名。
+**多哥兰三脉白蚁**（*Trinervitermes togoensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Ghana: Ho。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、印度、尼日尔、贝宁、厄立特里亚、埃塞俄比亚、加纳、几内亚、马里、尼日利亚、塞拉利昂、苏丹、乌干达。本站记录本种有 2 个次异名。
 
-EN — **多哥兰三脉白蚁** (*Trinervitermes togoensis*) is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1899; the type locality is Ghana: Ho. Distribution: Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda. This site records 2 junior synonyms for the species.
+EN — **多哥兰三脉白蚁** (*Trinervitermes togoensis*) is a species of the genus *Trinervitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1899; the type locality is Ghana: Ho. Distribution: Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda. This site records 2 junior synonyms for the species.
 
-ES — **多哥兰三脉白蚁** (*Trinervitermes togoensis*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Ghana: Ho. Distribución: Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda. Este sitio registra 2 sinónimos junior para la especie.
+ES — **多哥兰三脉白蚁** (*Trinervitermes togoensis*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Ghana: Ho. Distribución: Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/list/#trinervitermes) —— 共 21 种（21 species · 21 especies）

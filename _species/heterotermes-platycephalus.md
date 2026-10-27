@@ -25,15 +25,14 @@ synonym_localities: "Australia: Western Australia: Swan River"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宽头异白蚁**（*Heterotermes platycephalus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: South Australia: Kangaroo Island。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
+**宽头异白蚁**（*Heterotermes platycephalus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种，也是本属的模式种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: South Australia: Kangaroo Island。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
-EN — **宽头异白蚁** (*Heterotermes platycephalus*) is a species and the type species of its genus of the genus *Heterotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Froggatt in 1897; the type locality is Australia: South Australia: Kangaroo Island. Distribution: Australia. This site records 1 junior synonym for the species.
+EN — **宽头异白蚁** (*Heterotermes platycephalus*) is a species and the type species of its genus of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: South Australia: Kangaroo Island. Distribution: Australia. This site records 1 junior synonym for the species.
 
-ES — **宽头异白蚁** (*Heterotermes platycephalus*) es una especie, y la especie tipo de su género del género *Heterotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: South Australia: Kangaroo Island. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **宽头异白蚁** (*Heterotermes platycephalus*) es una especie, y la especie tipo de su género del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: South Australia: Kangaroo Island. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/list/#heterotermes) —— 共 31 种（31 species · 31 especies）
 

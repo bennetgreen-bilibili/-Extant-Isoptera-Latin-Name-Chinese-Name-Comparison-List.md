@@ -28,15 +28,14 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
+**乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
 
-EN — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) is a species and the type species of its genus of the genus *Alyscotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
+EN — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) is a species and the type species of its genus of the genus *Alyscotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
 
-ES — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) es una especie, y la especie tipo de su género del género *Alyscotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Kilimanjaro: Kibonoto. Distribución: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
+ES — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) es una especie, y la especie tipo de su género del género *Alyscotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Kilimanjaro: Kibonoto. Distribución: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[逃白蚁属 *Alyscotermes*]({{ site.base_url }}/list/#alyscotermes) —— 共 2 种（2 species · 2 especies）

@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**八重山散白蚁**（*Reticulitermes yaeyamanus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Morimoto 于 1968 年描述，模式产地为 Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara。分布记录包括日本、中国。
+**八重山散白蚁**（*Reticulitermes yaeyamanus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Morimoto 于 1968 年描述，模式产地为 Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara。分布记录包括日本、中国。
 
-EN — **八重山散白蚁** (*Reticulitermes yaeyamanus*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Morimoto in 1968; the type locality is Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara. Distribution: Japan, China.
+EN — **八重山散白蚁** (*Reticulitermes yaeyamanus*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Morimoto in 1968; the type locality is Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara. Distribution: Japan, China.
 
-ES — **八重山散白蚁** (*Reticulitermes yaeyamanus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara. Distribución: Japan, China.
+ES — **八重山散白蚁** (*Reticulitermes yaeyamanus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Hateruma-mori; Iriomote; Ishigaki; Omotodake; Shirihama; Yoshihara. Distribución: Japan, China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

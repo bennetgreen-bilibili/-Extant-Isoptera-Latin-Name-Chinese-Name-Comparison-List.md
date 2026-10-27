@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗浮散白蚁**（*Reticulitermes luofunicus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Zhu, Ma & Li 于 1982 年描述，模式产地为 China: Guangdong Province: Boluo County: Luofushan。分布记录包括中国。
+**罗浮散白蚁**（*Reticulitermes luofunicus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Zhu, Ma & Li 于 1982 年描述，模式产地为 China: Guangdong Province: Boluo County: Luofushan。分布记录包括中国。
 
-EN — **罗浮散白蚁** (*Reticulitermes luofunicus*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Zhu, Ma & Li in 1982; the type locality is China: Guangdong Province: Boluo County: Luofushan. Distribution: China.
+EN — **罗浮散白蚁** (*Reticulitermes luofunicus*) is a species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Zhu, Ma & Li in 1982; the type locality is China: Guangdong Province: Boluo County: Luofushan. Distribution: China.
 
-ES — **罗浮散白蚁** (*Reticulitermes luofunicus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Zhu, Ma & Li en 1982; la localidad tipo es China: Guangdong Province: Boluo County: Luofushan. Distribución: China.
+ES — **罗浮散白蚁** (*Reticulitermes luofunicus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Zhu, Ma & Li en 1982; la localidad tipo es China: Guangdong Province: Boluo County: Luofushan. Distribución: China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*

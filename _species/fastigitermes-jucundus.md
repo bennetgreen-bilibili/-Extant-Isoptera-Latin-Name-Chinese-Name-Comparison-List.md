@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**可爱峰白蚁**（*Fastigitermes jucundus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）峰白蚁属（*Fastigitermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚。
+**可爱峰白蚁**（*Fastigitermes jucundus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）峰白蚁属（*Fastigitermes*）的现存唯一种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Democratic Republic of the Congo: Mukimbungu。分布记录包括非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚。
 
-EN — **可爱峰白蚁** (*Fastigitermes jucundus*) is the only extant species of the genus *Fastigitermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Sjöstedt in 1907; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
+EN — **可爱峰白蚁** (*Fastigitermes jucundus*) is the only extant species of the genus *Fastigitermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Sjöstedt in 1907; the type locality is Democratic Republic of the Congo: Mukimbungu. Distribution: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
 
-ES — **可爱峰白蚁** (*Fastigitermes jucundus*) es la única especie viviente del género *Fastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
+ES — **可爱峰白蚁** (*Fastigitermes jucundus*) es la única especie viviente del género *Fastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[峰白蚁属 *Fastigitermes*]({{ site.base_url }}/list/#fastigitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

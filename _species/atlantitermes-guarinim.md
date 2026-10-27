@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**好斗阿特拉斯白蚁**（*Atlantitermes guarinim*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿特拉斯白蚁属（*Atlantitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Fontes 于 1979 年描述，模式产地为 Brasil: São Paulo: Itanhaém \[24.1831S 46.7889W\]。分布记录包括巴西。
+**好斗阿特拉斯白蚁**（*Atlantitermes guarinim*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）阿特拉斯白蚁属（*Atlantitermes*）的一种，也是本属的模式种。本种由 Fontes 于 1979 年描述，模式产地为 Brasil: São Paulo: Itanhaém \[24.1831S 46.7889W\]。分布记录包括巴西。
 
-EN — **好斗阿特拉斯白蚁** (*Atlantitermes guarinim*) is a species and the type species of its genus of the genus *Atlantitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Fontes in 1979; the type locality is Brasil: São Paulo: Itanhaém \[24.1831S 46.7889W\]. Distribution: Brazil.
+EN — **好斗阿特拉斯白蚁** (*Atlantitermes guarinim*) is a species and the type species of its genus of the genus *Atlantitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Fontes in 1979; the type locality is Brasil: São Paulo: Itanhaém \[24.1831S 46.7889W\]. Distribution: Brazil.
 
-ES — **好斗阿特拉斯白蚁** (*Atlantitermes guarinim*) es una especie, y la especie tipo de su género del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Itanhaém \[24.1831S 46.7889W\]. Distribución: Brazil.
+ES — **好斗阿特拉斯白蚁** (*Atlantitermes guarinim*) es una especie, y la especie tipo de su género del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Itanhaém \[24.1831S 46.7889W\]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[阿特拉斯白蚁属 *Atlantitermes*]({{ site.base_url }}/list/#atlantitermes) —— 共 8 种（8 species · 8 especies）

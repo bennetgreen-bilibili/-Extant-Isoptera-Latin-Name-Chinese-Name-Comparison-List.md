@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**周氏钝颚白蚁**（*Ahmaditermes choui*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）钝颚白蚁属（*Ahmaditermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Ping & Tong 于 1989 年描述，模式产地为 China: Hong Kong。分布记录包括香港。
+**周氏钝颚白蚁**（*Ahmaditermes choui*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）钝颚白蚁属（*Ahmaditermes*）的一种。本种由 Ping & Tong 于 1989 年描述，模式产地为 China: Hong Kong。分布记录包括香港。
 
-EN — **周氏钝颚白蚁** (*Ahmaditermes choui*) is a species of the genus *Ahmaditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Ping & Tong in 1989; the type locality is China: Hong Kong. Distribution: Hong Kong.
+EN — **周氏钝颚白蚁** (*Ahmaditermes choui*) is a species of the genus *Ahmaditermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Ping & Tong in 1989; the type locality is China: Hong Kong. Distribution: Hong Kong.
 
-ES — **周氏钝颚白蚁** (*Ahmaditermes choui*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Ping & Tong en 1989; la localidad tipo es China: Hong Kong. Distribución: Hong Kong.
+ES — **周氏钝颚白蚁** (*Ahmaditermes choui*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ping & Tong en 1989; la localidad tipo es China: Hong Kong. Distribución: Hong Kong.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[钝颚白蚁属 *Ahmaditermes*]({{ site.base_url }}/list/#ahmaditermes) —— 共 21 种（21 species · 21 especies）

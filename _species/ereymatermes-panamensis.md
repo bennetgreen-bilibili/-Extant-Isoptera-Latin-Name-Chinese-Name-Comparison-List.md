@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**巴拿马无名白蚁**（*Ereymatermes panamensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）无名白蚁属（*Ereymatermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Roisin 于 1995 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括中美洲、巴拿马。
+**巴拿马无名白蚁**（*Ereymatermes panamensis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）无名白蚁属（*Ereymatermes*）的一种。本种由 Roisin 于 1995 年描述，模式产地为 Panama: Barro Colorado Island。分布记录包括中美洲、巴拿马。
 
-EN — **巴拿马无名白蚁** (*Ereymatermes panamensis*) is a species of the genus *Ereymatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Roisin in 1995; the type locality is Panama: Barro Colorado Island. Distribution: Central America, Panama.
+EN — **巴拿马无名白蚁** (*Ereymatermes panamensis*) is a species of the genus *Ereymatermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Roisin in 1995; the type locality is Panama: Barro Colorado Island. Distribution: Central America, Panama.
 
-ES — **巴拿马无名白蚁** (*Ereymatermes panamensis*) es una especie del género *Ereymatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Roisin en 1995; la localidad tipo es Panama: Barro Colorado Island. Distribución: Central America, Panama.
+ES — **巴拿马无名白蚁** (*Ereymatermes panamensis*) es una especie del género *Ereymatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roisin en 1995; la localidad tipo es Panama: Barro Colorado Island. Distribución: Central America, Panama.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[无名白蚁属 *Ereymatermes*]({{ site.base_url }}/list/#ereymatermes) —— 共 3 种（3 species · 3 especies）

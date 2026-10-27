@@ -28,15 +28,14 @@ synonym_localities: "Taiwan: ?; China: Jiangsu Province: Tschingkiang; China: Gu
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**新渡户近扭白蚁**（*Pericapritermes nitobei*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Maruyama。分布记录包括韩国、日本、中国台湾、中国、印度尼西亚、马来西亚、泰国、越南。本站记录本种有 3 个次异名。
+**新渡户近扭白蚁**（*Pericapritermes nitobei*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Maruyama。分布记录包括韩国、日本、中国台湾、中国、印度尼西亚、马来西亚、泰国、越南。本站记录本种有 3 个次异名。
 
-EN — **新渡户近扭白蚁** (*Pericapritermes nitobei*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Shiraki in 1909; the type locality is Taiwan: Maruyama. Distribution: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. This site records 3 junior synonyms for the species.
+EN — **新渡户近扭白蚁** (*Pericapritermes nitobei*) is a species of the genus *Pericapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Shiraki in 1909; the type locality is Taiwan: Maruyama. Distribution: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. This site records 3 junior synonyms for the species.
 
-ES — **新渡户近扭白蚁** (*Pericapritermes nitobei*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Maruyama. Distribución: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
+ES — **新渡户近扭白蚁** (*Pericapritermes nitobei*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Maruyama. Distribución: South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia, Thailand, Vietnam. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/list/#pericapritermes) —— 共 41 种（41 species · 41 especies）

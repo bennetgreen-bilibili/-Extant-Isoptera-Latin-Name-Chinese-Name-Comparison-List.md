@@ -28,15 +28,14 @@ synonym_localities: "India: Tamil Nadu: Topslip; India: Goa: South Goa Forest Di
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**弗莱彻伪扭白蚁**（*Pseudocapritermes fletcheri*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren & Holmgren 于 1917 年描述，模式产地为 India: Tamil Nadu: Anamalai Hills。分布记录包括印度。本站记录本种有 3 个次异名。
+**弗莱彻伪扭白蚁**（*Pseudocapritermes fletcheri*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）伪扭白蚁属（*Pseudocapritermes*）的一种。本种由 Holmgren & Holmgren 于 1917 年描述，模式产地为 India: Tamil Nadu: Anamalai Hills。分布记录包括印度。本站记录本种有 3 个次异名。
 
-EN — **弗莱彻伪扭白蚁** (*Pseudocapritermes fletcheri*) is a species of the genus *Pseudocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren & Holmgren in 1917; the type locality is India: Tamil Nadu: Anamalai Hills. Distribution: India. This site records 3 junior synonyms for the species.
+EN — **弗莱彻伪扭白蚁** (*Pseudocapritermes fletcheri*) is a species of the genus *Pseudocapritermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is India: Tamil Nadu: Anamalai Hills. Distribution: India. This site records 3 junior synonyms for the species.
 
-ES — **弗莱彻伪扭白蚁** (*Pseudocapritermes fletcheri*) es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es India: Tamil Nadu: Anamalai Hills. Distribución: India. Este sitio registra 3 sinónimos junior para la especie.
+ES — **弗莱彻伪扭白蚁** (*Pseudocapritermes fletcheri*) es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es India: Tamil Nadu: Anamalai Hills. Distribución: India. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[伪扭白蚁属 *Pseudocapritermes*]({{ site.base_url }}/list/#pseudocapritermes) —— 共 18 种（18 species · 18 especies）

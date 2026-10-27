@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**塞内加尔漠白蚁**（*Eremotermes senegalensis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）漠白蚁属（*Eremotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Mampouya, Fleck & Nel 于 1997 年描述，模式产地为 Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar。分布记录包括塞内加尔。
+**塞内加尔漠白蚁**（*Eremotermes senegalensis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）漠白蚁属（*Eremotermes*）的一种。本种由 Mampouya, Fleck & Nel 于 1997 年描述，模式产地为 Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar。分布记录包括塞内加尔。
 
-EN — **塞内加尔漠白蚁** (*Eremotermes senegalensis*) is a species of the genus *Eremotermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Mampouya, Fleck & Nel in 1997; the type locality is Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar. Distribution: Senegal.
+EN — **塞内加尔漠白蚁** (*Eremotermes senegalensis*) is a species of the genus *Eremotermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Mampouya, Fleck & Nel in 1997; the type locality is Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar. Distribution: Senegal.
 
-ES — **塞内加尔漠白蚁** (*Eremotermes senegalensis*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Mampouya, Fleck & Nel en 1997; la localidad tipo es Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar. Distribución: Senegal.
+ES — **塞内加尔漠白蚁** (*Eremotermes senegalensis*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mampouya, Fleck & Nel en 1997; la localidad tipo es Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar. Distribución: Senegal.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[漠白蚁属 *Eremotermes*]({{ site.base_url }}/list/#eremotermes) —— 共 10 种（10 species · 10 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**埃德温小白蚁**（*Microtermes edwini*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Bacchus 于 1997 年描述，模式产地为 Kenya: Sotil, Kisabei。分布记录包括肯尼亚。
+**埃德温小白蚁**（*Microtermes edwini*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Bacchus 于 1997 年描述，模式产地为 Kenya: Sotil, Kisabei。分布记录包括肯尼亚。
 
-EN — **埃德温小白蚁** (*Microtermes edwini*) is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Bacchus in 1997; the type locality is Kenya: Sotil, Kisabei. Distribution: Kenya.
+EN — **埃德温小白蚁** (*Microtermes edwini*) is a species of the genus *Microtermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Bacchus in 1997; the type locality is Kenya: Sotil, Kisabei. Distribution: Kenya.
 
-ES — **埃德温小白蚁** (*Microtermes edwini*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Bacchus en 1997; la localidad tipo es Kenya: Sotil, Kisabei. Distribución: Kenya.
+ES — **埃德温小白蚁** (*Microtermes edwini*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Bacchus en 1997; la localidad tipo es Kenya: Sotil, Kisabei. Distribución: Kenya.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/list/#microtermes) —— 共 69 种（69 species · 69 especies）

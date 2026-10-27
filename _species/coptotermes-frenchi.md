@@ -25,15 +25,14 @@ synonym_localities: "Australia: South Australia: Barton"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**弗伦奇乳白蚁**（*Coptotermes frenchi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Hill 于 1932 年描述，模式产地为 Australia: Victoria: Melbourne, Hawthorne。分布记录包括澳大利亚。另有记录显示其已引入新西兰。本站记录本种有 1 个次异名。
+**弗伦奇乳白蚁**（*Coptotermes frenchi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Hill 于 1932 年描述，模式产地为 Australia: Victoria: Melbourne, Hawthorne。分布记录包括澳大利亚。另有记录显示其已引入新西兰。本站记录本种有 1 个次异名。
 
-EN — **弗伦奇乳白蚁** (*Coptotermes frenchi*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE, belonging to the clade Geoisoptera. The species was described by Hill in 1932; the type locality is Australia: Victoria: Melbourne, Hawthorne. Distribution: Australia; introduced: New Zealand. This site records 1 junior synonym for the species.
+EN — **弗伦奇乳白蚁** (*Coptotermes frenchi*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Hill in 1932; the type locality is Australia: Victoria: Melbourne, Hawthorne. Distribution: Australia; introduced: New Zealand. This site records 1 junior synonym for the species.
 
-ES — **弗伦奇乳白蚁** (*Coptotermes frenchi*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE, perteneciente al clado Geoisoptera. La especie fue descrita por Hill en 1932; la localidad tipo es Australia: Victoria: Melbourne, Hawthorne. Distribución: Australia; introduced: New Zealand. Este sitio registra 1 sinónimo junior para la especie.
+ES — **弗伦奇乳白蚁** (*Coptotermes frenchi*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Hill en 1932; la localidad tipo es Australia: Victoria: Melbourne, Hawthorne. Distribución: Australia; introduced: New Zealand. Este sitio registra 1 sinónimo junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*

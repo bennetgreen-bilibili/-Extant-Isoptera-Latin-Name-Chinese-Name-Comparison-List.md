@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**索白脸白蚁**（*Leucopitermes thoi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）白脸白蚁属（*Leucopitermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Gathorne-Hardy 于 2004 年描述，模式产地为 Indonesia: Sumatra: Aceh Tenggara: Ketambe field station。分布记录包括印度尼西亚、马来西亚。
+**索白脸白蚁**（*Leucopitermes thoi*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）白脸白蚁属（*Leucopitermes*）的一种。本种由 Gathorne-Hardy 于 2004 年描述，模式产地为 Indonesia: Sumatra: Aceh Tenggara: Ketambe field station。分布记录包括印度尼西亚、马来西亚。
 
-EN — **索白脸白蚁** (*Leucopitermes thoi*) is a species of the genus *Leucopitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Gathorne-Hardy in 2004; the type locality is Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribution: Indonesia, Malaysia.
+EN — **索白脸白蚁** (*Leucopitermes thoi*) is a species of the genus *Leucopitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Gathorne-Hardy in 2004; the type locality is Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribution: Indonesia, Malaysia.
 
-ES — **索白脸白蚁** (*Leucopitermes thoi*) es una especie del género *Leucopitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Gathorne-Hardy en 2004; la localidad tipo es Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribución: Indonesia, Malaysia.
+ES — **索白脸白蚁** (*Leucopitermes thoi*) es una especie del género *Leucopitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gathorne-Hardy en 2004; la localidad tipo es Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribución: Indonesia, Malaysia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[白脸白蚁属 *Leucopitermes*]({{ site.base_url }}/list/#leucopitermes) —— 共 4 种（4 species · 4 especies）

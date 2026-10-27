@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**丘翅堆砂白蚁**（*Cryptotermes papulosus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Gay & Watson 于 1982 年描述，模式产地为 Australia: South Australia: Lameroo。分布记录包括澳大利亚。
+**丘翅堆砂白蚁**（*Cryptotermes papulosus*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Gay & Watson 于 1982 年描述，模式产地为 Australia: South Australia: Lameroo。分布记录包括澳大利亚。
 
-EN — **丘翅堆砂白蚁** (*Cryptotermes papulosus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Gay & Watson in 1982; the type locality is Australia: South Australia: Lameroo. Distribution: Australia.
+EN — **丘翅堆砂白蚁** (*Cryptotermes papulosus*) is a species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Gay & Watson in 1982; the type locality is Australia: South Australia: Lameroo. Distribution: Australia.
 
-ES — **丘翅堆砂白蚁** (*Cryptotermes papulosus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Gay & Watson en 1982; la localidad tipo es Australia: South Australia: Lameroo. Distribución: Australia.
+ES — **丘翅堆砂白蚁** (*Cryptotermes papulosus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gay & Watson en 1982; la localidad tipo es Australia: South Australia: Lameroo. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/list/#cryptotermes) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*

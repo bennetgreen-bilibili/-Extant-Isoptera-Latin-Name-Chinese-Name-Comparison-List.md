@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**瘤额倒钩白蚁**（*Onkotermes corochus*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）倒钩白蚁属（*Onkotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Torales & Fontes 于 2008 年描述，模式产地为 Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]。分布记录包括阿根廷、巴拉圭。
+**瘤额倒钩白蚁**（*Onkotermes corochus*）是白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）倒钩白蚁属（*Onkotermes*）的一种。本种由 Torales & Fontes 于 2008 年描述，模式产地为 Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]。分布记录包括阿根廷、巴拉圭。
 
-EN — **瘤额倒钩白蚁** (*Onkotermes corochus*) is a species of the genus *Onkotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae), belonging to the clade Geoisoptera. The species was described by Torales & Fontes in 2008; the type locality is Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]. Distribution: Argentina, Paraguay.
+EN — **瘤额倒钩白蚁** (*Onkotermes corochus*) is a species of the genus *Onkotermes*, in the family TERMITIDAE (subfamily Microcerotermitinae). The species was described by Torales & Fontes in 2008; the type locality is Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]. Distribution: Argentina, Paraguay.
 
-ES — **瘤额倒钩白蚁** (*Onkotermes corochus*) es una especie del género *Onkotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Torales & Fontes en 2008; la localidad tipo es Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]. Distribución: Argentina, Paraguay.
+ES — **瘤额倒钩白蚁** (*Onkotermes corochus*) es una especie del género *Onkotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Torales & Fontes en 2008; la localidad tipo es Argentina: Chaco: Lapachito \[ 27.1667S 59.4W \]. Distribución: Argentina, Paraguay.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
 - **属 Genus / Género**：[倒钩白蚁属 *Onkotermes*]({{ site.base_url }}/list/#onkotermes) —— 共 2 种（2 species · 2 especies）

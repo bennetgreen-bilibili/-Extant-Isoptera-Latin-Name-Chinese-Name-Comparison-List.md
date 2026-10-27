@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**小棒鼻白蚁**（*Parrhinotermes minor*）是鼻白蚁科（RHINOTERMITIDAE）棒鼻白蚁属（*Parrhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Thapa 于 1982 年描述，模式产地为 Malaysia: Sabah: Kunak-Mostyn District: Kalumpang。分布记录包括泰国、印度尼西亚、马来西亚。
+**小棒鼻白蚁**（*Parrhinotermes minor*）是鼻白蚁科（RHINOTERMITIDAE）棒鼻白蚁属（*Parrhinotermes*）的一种。本种由 Thapa 于 1982 年描述，模式产地为 Malaysia: Sabah: Kunak-Mostyn District: Kalumpang。分布记录包括泰国、印度尼西亚、马来西亚。
 
-EN — **小棒鼻白蚁** (*Parrhinotermes minor*) is a species of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Thapa in 1982; the type locality is Malaysia: Sabah: Kunak-Mostyn District: Kalumpang. Distribution: Thailand, Indonesia, Malaysia.
+EN — **小棒鼻白蚁** (*Parrhinotermes minor*) is a species of the genus *Parrhinotermes*, in the family RHINOTERMITIDAE. The species was described by Thapa in 1982; the type locality is Malaysia: Sabah: Kunak-Mostyn District: Kalumpang. Distribution: Thailand, Indonesia, Malaysia.
 
-ES — **小棒鼻白蚁** (*Parrhinotermes minor*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Kunak-Mostyn District: Kalumpang. Distribución: Thailand, Indonesia, Malaysia.
+ES — **小棒鼻白蚁** (*Parrhinotermes minor*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Kunak-Mostyn District: Kalumpang. Distribución: Thailand, Indonesia, Malaysia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[棒鼻白蚁属 *Parrhinotermes*]({{ site.base_url }}/list/#parrhinotermes) —— 共 13 种（13 species · 13 especies）
 - **本属模式种 Type species / Especie tipo**：*Parrhinotermes aequalis*

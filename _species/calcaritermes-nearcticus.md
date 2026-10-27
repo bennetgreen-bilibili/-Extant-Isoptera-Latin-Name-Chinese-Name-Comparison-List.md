@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**新北距白蚁**（*Calcaritermes nearcticus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Snyder 于 1933 年描述，模式产地为 United States: Florida: Clay County。分布记录包括美国。
+**新北距白蚁**（*Calcaritermes nearcticus*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Snyder 于 1933 年描述，模式产地为 United States: Florida: Clay County。分布记录包括美国。
 
-EN — **新北距白蚁** (*Calcaritermes nearcticus*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Snyder in 1933; the type locality is United States: Florida: Clay County. Distribution: United States.
+EN — **新北距白蚁** (*Calcaritermes nearcticus*) is a species of the genus *Calcaritermes*, in the family KALOTERMITIDAE. The species was described by Snyder in 1933; the type locality is United States: Florida: Clay County. Distribution: United States.
 
-ES — **新北距白蚁** (*Calcaritermes nearcticus*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Snyder en 1933; la localidad tipo es United States: Florida: Clay County. Distribución: United States.
+ES — **新北距白蚁** (*Calcaritermes nearcticus*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1933; la localidad tipo es United States: Florida: Clay County. Distribución: United States.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/list/#calcaritermes) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Calcaritermes imminens*

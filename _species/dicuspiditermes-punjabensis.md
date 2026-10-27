@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**旁遮普突扭白蚁**（*Dicuspiditermes punjabensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Holmgren & Holmgren 于 1917 年描述，模式产地为 Pakistan: Lyallpur。分布记录包括巴基斯坦。
+**旁遮普突扭白蚁**（*Dicuspiditermes punjabensis*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Holmgren & Holmgren 于 1917 年描述，模式产地为 Pakistan: Lyallpur。分布记录包括巴基斯坦。
 
-EN — **旁遮普突扭白蚁** (*Dicuspiditermes punjabensis*) is a species of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae), belonging to the clade Geoisoptera. The species was described by Holmgren & Holmgren in 1917; the type locality is Pakistan: Lyallpur. Distribution: Pakistan.
+EN — **旁遮普突扭白蚁** (*Dicuspiditermes punjabensis*) is a species of the genus *Dicuspiditermes*, in the family TERMITIDAE (subfamily Mirocapritermitinae). The species was described by Holmgren & Holmgren in 1917; the type locality is Pakistan: Lyallpur. Distribution: Pakistan.
 
-ES — **旁遮普突扭白蚁** (*Dicuspiditermes punjabensis*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es Pakistan: Lyallpur. Distribución: Pakistan.
+ES — **旁遮普突扭白蚁** (*Dicuspiditermes punjabensis*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es Pakistan: Lyallpur. Distribución: Pakistan.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 133 种（14 genera, 133 species · 14 géneros, 133 especies）
 - **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种（21 species · 21 especies）

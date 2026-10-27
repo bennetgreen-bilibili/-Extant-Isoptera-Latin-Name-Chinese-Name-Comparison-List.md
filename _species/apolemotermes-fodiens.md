@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**挖掘和平白蚁**（*Apolemotermes fodiens*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和平白蚁属（*Apolemotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]。分布记录包括喀麦隆。
+**挖掘和平白蚁**（*Apolemotermes fodiens*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和平白蚁属（*Apolemotermes*）的现存唯一种。本种由 Romero-Arias & Roisin 于 2021 年描述，模式产地为 Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]。分布记录包括喀麦隆。
 
-EN — **挖掘和平白蚁** (*Apolemotermes fodiens*) is the only extant species of the genus *Apolemotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Romero-Arias & Roisin in 2021; the type locality is Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribution: Cameroon.
+EN — **挖掘和平白蚁** (*Apolemotermes fodiens*) is the only extant species of the genus *Apolemotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Romero-Arias & Roisin in 2021; the type locality is Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribution: Cameroon.
 
-ES — **挖掘和平白蚁** (*Apolemotermes fodiens*) es la única especie viviente del género *Apolemotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribución: Cameroon.
+ES — **挖掘和平白蚁** (*Apolemotermes fodiens*) es la única especie viviente del género *Apolemotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribución: Cameroon.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[和平白蚁属 *Apolemotermes*]({{ site.base_url }}/list/#apolemotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

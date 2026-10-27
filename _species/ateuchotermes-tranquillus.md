@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**宁静无锐白蚁**（*Ateuchotermes tranquillus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无锐白蚁属（*Ateuchotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Mamou。分布记录包括几内亚。
+**宁静无锐白蚁**（*Ateuchotermes tranquillus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无锐白蚁属（*Ateuchotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Mamou。分布记录包括几内亚。
 
-EN — **宁静无锐白蚁** (*Ateuchotermes tranquillus*) is a species of the genus *Ateuchotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1914; the type locality is Guinea: Mamou. Distribution: Guinea.
+EN — **宁静无锐白蚁** (*Ateuchotermes tranquillus*) is a species of the genus *Ateuchotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Silvestri in 1914; the type locality is Guinea: Mamou. Distribution: Guinea.
 
-ES — **宁静无锐白蚁** (*Ateuchotermes tranquillus*) es una especie del género *Ateuchotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución: Guinea.
+ES — **宁静无锐白蚁** (*Ateuchotermes tranquillus*) es una especie del género *Ateuchotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución: Guinea.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无锐白蚁属 *Ateuchotermes*]({{ site.base_url }}/list/#ateuchotermes) —— 共 8 种（8 species · 8 especies）

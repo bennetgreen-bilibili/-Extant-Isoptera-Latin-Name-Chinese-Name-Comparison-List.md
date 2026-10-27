@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**流浪长鼻白蚁**（*Schedorhinotermes derosus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Hill 于 1933 年描述，模式产地为 Australia: Western Australia: Derby。分布记录包括澳大利亚。
+**流浪长鼻白蚁**（*Schedorhinotermes derosus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Hill 于 1933 年描述，模式产地为 Australia: Western Australia: Derby。分布记录包括澳大利亚。
 
-EN — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE, belonging to the clade Neoisoptera. The species was described by Hill in 1933; the type locality is Australia: Western Australia: Derby. Distribution: Australia.
+EN — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) is a species of the genus *Schedorhinotermes*, in the family RHINOTERMITIDAE. The species was described by Hill in 1933; the type locality is Australia: Western Australia: Derby. Distribution: Australia.
 
-ES — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Hill en 1933; la localidad tipo es Australia: Western Australia: Derby. Distribución: Australia.
+ES — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Hill en 1933; la localidad tipo es Australia: Western Australia: Derby. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/list/#schedorhinotermes) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*

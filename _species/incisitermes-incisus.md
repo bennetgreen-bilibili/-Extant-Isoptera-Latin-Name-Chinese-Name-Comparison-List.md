@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**切割楹白蚁**（*Incisitermes incisus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种，隶属近等翅类（Icoisoptera）。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]。分布记录包括瓜德罗普、巴巴多斯、蒙特塞拉特、安提瓜和巴布达、巴哈马、哥伦比亚、古巴、多米尼克、荷属安的列斯、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、法属圣马丁、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。
+**切割楹白蚁**（*Incisitermes incisus*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]。分布记录包括瓜德罗普、巴巴多斯、蒙特塞拉特、安提瓜和巴布达、巴哈马、哥伦比亚、古巴、多米尼克、荷属安的列斯、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、法属圣马丁、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛。
 
-EN — **切割楹白蚁** (*Incisitermes incisus*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribution: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
+EN — **切割楹白蚁** (*Incisitermes incisus*) is a species of the genus *Incisitermes*, in the family KALOTERMITIDAE. The species was described by Silvestri in 1901; the type locality is Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribution: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
 
-ES — **切割楹白蚁** (*Incisitermes incisus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribución: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
+ES — **切割楹白蚁** (*Incisitermes incisus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribución: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*

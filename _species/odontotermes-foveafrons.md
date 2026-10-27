@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**凹额土白蚁**（*Odontotermes foveafrons*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Xia & Fan 于 1982 年描述，模式产地为 China: Yunnan Province: Yangwu。分布记录包括云南（大勐龙、橄榄坝、思茅）、中国。
+**凹额土白蚁**（*Odontotermes foveafrons*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）土白蚁属（*Odontotermes*）的一种。本种由 Xia & Fan 于 1982 年描述，模式产地为 China: Yunnan Province: Yangwu。分布记录包括云南（大勐龙、橄榄坝、思茅）、中国。
 
-EN — **凹额土白蚁** (*Odontotermes foveafrons*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae), belonging to the clade Geoisoptera. The species was described by Xia & Fan in 1982; the type locality is China: Yunnan Province: Yangwu. Distribution: Yunnan (Damenglong, Ganlanba, Simao), China.
+EN — **凹额土白蚁** (*Odontotermes foveafrons*) is a species of the genus *Odontotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Xia & Fan in 1982; the type locality is China: Yunnan Province: Yangwu. Distribution: Yunnan (Damenglong, Ganlanba, Simao), China.
 
-ES — **凹额土白蚁** (*Odontotermes foveafrons*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Xia & Fan en 1982; la localidad tipo es China: Yunnan Province: Yangwu. Distribución: Yunnan (Damenglong, Ganlanba, Simao), China.
+ES — **凹额土白蚁** (*Odontotermes foveafrons*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Xia & Fan en 1982; la localidad tipo es China: Yunnan Province: Yangwu. Distribución: Yunnan (Damenglong, Ganlanba, Simao), China.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[土白蚁属 *Odontotermes*]({{ site.base_url }}/list/#odontotermes) —— 共 198 种（198 species · 198 especies）

@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**异唇锐尖白蚁**（*Mucrotermes heterochilus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）锐尖白蚁属（*Mucrotermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Silvestri 于 1914 年描述，模式产地为 Benin: Segboroué。分布记录包括旧热带界、贝宁、喀麦隆、刚果民主共和国、加纳、几内亚、尼日利亚。
+**异唇锐尖白蚁**（*Mucrotermes heterochilus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）锐尖白蚁属（*Mucrotermes*）的一种。本种由 Silvestri 于 1914 年描述，模式产地为 Benin: Segboroué。分布记录包括旧热带界、贝宁、喀麦隆、刚果民主共和国、加纳、几内亚、尼日利亚。
 
-EN — **异唇锐尖白蚁** (*Mucrotermes heterochilus*) is a species of the genus *Mucrotermes*, in the family TERMITIDAE (subfamily Cubitermitinae), belonging to the clade Geoisoptera. The species was described by Silvestri in 1914; the type locality is Benin: Segboroué. Distribution: Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria.
+EN — **异唇锐尖白蚁** (*Mucrotermes heterochilus*) is a species of the genus *Mucrotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Silvestri in 1914; the type locality is Benin: Segboroué. Distribution: Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria.
 
-ES — **异唇锐尖白蚁** (*Mucrotermes heterochilus*) es una especie del género *Mucrotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Silvestri en 1914; la localidad tipo es Benin: Segboroué. Distribución: Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria.
+ES — **异唇锐尖白蚁** (*Mucrotermes heterochilus*) es una especie del género *Mucrotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Benin: Segboroué. Distribución: Old World tropics, Benin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Nigeria.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[锐尖白蚁属 *Mucrotermes*]({{ site.base_url }}/list/#mucrotermes) —— 共 2 种（2 species · 2 especies）

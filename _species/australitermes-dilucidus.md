@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**清晰澳大利亚白蚁**（*Australitermes dilucidus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）澳大利亚白蚁属（*Australitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Hill 于 1942 年描述，模式产地为 Australia: Queensland: Doongul State Forest, near Aramara。分布记录包括澳大利亚。
+**清晰澳大利亚白蚁**（*Australitermes dilucidus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）澳大利亚白蚁属（*Australitermes*）的一种，也是本属的模式种。本种由 Hill 于 1942 年描述，模式产地为 Australia: Queensland: Doongul State Forest, near Aramara。分布记录包括澳大利亚。
 
-EN — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) is a species and the type species of its genus of the genus *Australitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae), belonging to the clade Geoisoptera. The species was described by Hill in 1942; the type locality is Australia: Queensland: Doongul State Forest, near Aramara. Distribution: Australia.
+EN — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) is a species and the type species of its genus of the genus *Australitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Hill in 1942; the type locality is Australia: Queensland: Doongul State Forest, near Aramara. Distribution: Australia.
 
-ES — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) es una especie, y la especie tipo de su género del género *Australitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Doongul State Forest, near Aramara. Distribución: Australia.
+ES — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) es una especie, y la especie tipo de su género del género *Australitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Doongul State Forest, near Aramara. Distribución: Australia.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
 - **属 Genus / Género**：[澳大利亚白蚁属 *Australitermes*]({{ site.base_url }}/list/#australitermes) —— 共 3 种（3 species · 3 especies）

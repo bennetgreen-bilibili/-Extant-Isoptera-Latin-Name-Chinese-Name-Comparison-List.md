@@ -25,15 +25,14 @@ synonym_localities: "Honduras: ?; Guatemala: ?; Dominica: Laudat; United States:
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**栗色新白蚁**（*Neotermes castaneus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，也是本属的模式种，隶属近等翅类（Icoisoptera）。本种由 Burmeister 于 1839 年描述，模式产地为 Puerto Rico: ?。分布记录包括中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）。本站记录本种有 4 个次异名。
+**栗色新白蚁**（*Neotermes castaneus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Puerto Rico: ?。分布记录包括中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）。本站记录本种有 4 个次异名。
 
-EN — **栗色新白蚁** (*Neotermes castaneus*) is a species and the type species of its genus of the genus *Neotermes*, in the family KALOTERMITIDAE, belonging to the clade Icoisoptera. The species was described by Burmeister in 1839; the type locality is Puerto Rico: ?. Distribution: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). This site records 4 junior synonyms for the species.
+EN — **栗色新白蚁** (*Neotermes castaneus*) is a species and the type species of its genus of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Puerto Rico: ?. Distribution: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). This site records 4 junior synonyms for the species.
 
-ES — **栗色新白蚁** (*Neotermes castaneus*) es una especie, y la especie tipo de su género del género *Neotermes*, en la familia KALOTERMITIDAE, perteneciente al clado Icoisoptera. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
+ES — **栗色新白蚁** (*Neotermes castaneus*) es una especie, y la especie tipo de su género del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[近等翅类 Icoisoptera]({{ site.base_url }}/list/#icoisoptera)
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 

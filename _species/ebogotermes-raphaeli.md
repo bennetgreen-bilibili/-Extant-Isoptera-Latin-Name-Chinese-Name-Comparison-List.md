@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**拉斐尔埃博戈白蚁**（*Ebogotermes raphaeli*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）埃博戈白蚁属（*Ebogotermes*）的现存唯一种，隶属土栖等翅类（Geoisoptera）。本种由 Scheffrahn & Roisin 于 2021 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
+**拉斐尔埃博戈白蚁**（*Ebogotermes raphaeli*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）埃博戈白蚁属（*Ebogotermes*）的现存唯一种。本种由 Scheffrahn & Roisin 于 2021 年描述，模式产地为 Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]。分布记录包括喀麦隆。
 
-EN — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) is the only extant species of the genus *Ebogotermes*, in the family TERMITIDAE (subfamily Apicotermitinae), belonging to the clade Geoisoptera. The species was described by Scheffrahn & Roisin in 2021; the type locality is Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribution: Cameroon.
+EN — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) is the only extant species of the genus *Ebogotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Scheffrahn & Roisin in 2021; the type locality is Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribution: Cameroon.
 
-ES — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) es la única especie viviente del género *Ebogotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Scheffrahn & Roisin en 2021; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución: Cameroon.
+ES — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) es la única especie viviente del género *Ebogotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn & Roisin en 2021; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución: Cameroon.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[埃博戈白蚁属 *Ebogotermes*]({{ site.base_url }}/list/#ebogotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）

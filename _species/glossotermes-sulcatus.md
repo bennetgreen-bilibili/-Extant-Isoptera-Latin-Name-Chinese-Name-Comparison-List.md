@@ -23,15 +23,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**具纹舌白蚁**（*Glossotermes sulcatus*）是齿白蚁科（SERRITERMITIDAE）舌白蚁属（*Glossotermes*）的一种，隶属新等翅类（Neoisoptera）。本种由 Cancello & DeSouza 于 2005 年描述，模式产地为 Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]。分布记录包括巴西。
+**具纹舌白蚁**（*Glossotermes sulcatus*）是齿白蚁科（SERRITERMITIDAE）舌白蚁属（*Glossotermes*）的一种。本种由 Cancello & DeSouza 于 2005 年描述，模式产地为 Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]。分布记录包括巴西。
 
-EN — **具纹舌白蚁** (*Glossotermes sulcatus*) is a species of the genus *Glossotermes*, in the family SERRITERMITIDAE, belonging to the clade Neoisoptera. The species was described by Cancello & DeSouza in 2005; the type locality is Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribution: Brazil.
+EN — **具纹舌白蚁** (*Glossotermes sulcatus*) is a species of the genus *Glossotermes*, in the family SERRITERMITIDAE. The species was described by Cancello & DeSouza in 2005; the type locality is Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribution: Brazil.
 
-ES — **具纹舌白蚁** (*Glossotermes sulcatus*) es una especie del género *Glossotermes*, en la familia SERRITERMITIDAE, perteneciente al clado Neoisoptera. La especie fue descrita por Cancello & DeSouza en 2005; la localidad tipo es Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribución: Brazil.
+ES — **具纹舌白蚁** (*Glossotermes sulcatus*) es una especie del género *Glossotermes*, en la familia SERRITERMITIDAE. La especie fue descrita por Cancello & DeSouza en 2005; la localidad tipo es Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribución: Brazil.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[新等翅类 Neoisoptera]({{ site.base_url }}/list/#neoisoptera)
 - **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/list/#serritermitidae) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）
 - **属 Genus / Género**：[舌白蚁属 *Glossotermes*]({{ site.base_url }}/list/#glossotermes) —— 共 2 种（2 species · 2 especies）
 - **本属模式种 Type species / Especie tipo**：*Glossotermes oculatus*

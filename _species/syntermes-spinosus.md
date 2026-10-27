@@ -28,15 +28,14 @@ synonym_localities: "French Guiana: Cayenne [4.93333N 52.33W]; French Guiana: Ca
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**多刺聚白蚁**（*Syntermes spinosus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，隶属土栖等翅类（Geoisoptera）。本种由 Latreille 于 1804 年描述，模式产地为 (country unknown): ?。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、秘鲁、厄瓜多尔、委内瑞拉。本站记录本种有 7 个次异名。
+**多刺聚白蚁**（*Syntermes spinosus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种。本种由 Latreille 于 1804 年描述，模式产地为 (country unknown): ?。分布记录包括巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、秘鲁、厄瓜多尔、委内瑞拉。本站记录本种有 7 个次异名。
 
-EN — **多刺聚白蚁** (*Syntermes spinosus*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae), belonging to the clade Geoisoptera. The species was described by Latreille in 1804; the type locality is (country unknown): ?. Distribution: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela. This site records 7 junior synonyms for the species.
+EN — **多刺聚白蚁** (*Syntermes spinosus*) is a species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Latreille in 1804; the type locality is (country unknown): ?. Distribution: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela. This site records 7 junior synonyms for the species.
 
-ES — **多刺聚白蚁** (*Syntermes spinosus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Latreille en 1804; la localidad tipo es (country unknown): ?. Distribución: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela. Este sitio registra 7 sinónimos junior para la especie.
+ES — **多刺聚白蚁** (*Syntermes spinosus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Latreille en 1804; la localidad tipo es (country unknown): ?. Distribución: Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela. Este sitio registra 7 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/list/#syntermes) —— 共 23 种（23 species · 23 especies）

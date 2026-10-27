@@ -26,15 +26,14 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**方头同钩白蚁**（*Synhamitermes quadriceps*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）同钩白蚁属（*Synhamitermes*）的一种，也是本属的模式种，隶属土栖等翅类（Geoisoptera）。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Khandala, near Bombay。分布记录包括南美东南部、阿根廷/巴拉圭/乌拉圭、南亚、印度。
+**方头同钩白蚁**（*Synhamitermes quadriceps*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）同钩白蚁属（*Synhamitermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Khandala, near Bombay。分布记录包括南美东南部、阿根廷/巴拉圭/乌拉圭、南亚、印度。
 
-EN — **方头同钩白蚁** (*Synhamitermes quadriceps*) is a species and the type species of its genus of the genus *Synhamitermes*, in the family TERMITIDAE (subfamily Amitermitinae), belonging to the clade Geoisoptera. The species was described by Wasmann in 1902; the type locality is India: Maharashtra: Khandala, near Bombay. Distribution: southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India.
+EN — **方头同钩白蚁** (*Synhamitermes quadriceps*) is a species and the type species of its genus of the genus *Synhamitermes*, in the family TERMITIDAE (subfamily Amitermitinae). The species was described by Wasmann in 1902; the type locality is India: Maharashtra: Khandala, near Bombay. Distribution: southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India.
 
-ES — **方头同钩白蚁** (*Synhamitermes quadriceps*) es una especie, y la especie tipo de su género del género *Synhamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae), perteneciente al clado Geoisoptera. La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. Distribución: southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India.
+ES — **方头同钩白蚁** (*Synhamitermes quadriceps*) es una especie, y la especie tipo de su género del género *Synhamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. Distribución: southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India.
 
 ## 分类位置
 
-- **支系 Clade / Clado**：[土栖等翅类 Geoisoptera]({{ site.base_url }}/list/#geoisoptera)
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[同钩白蚁属 *Synhamitermes*]({{ site.base_url }}/list/#synhamitermes) —— 共 4 种（4 species · 4 especies）
