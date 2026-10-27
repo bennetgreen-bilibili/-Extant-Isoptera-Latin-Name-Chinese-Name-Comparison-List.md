@@ -188,7 +188,7 @@ permalink: /
 > 共收录 13 科、323 属、3008 种、63 亚种；`*` 模式种；(N) 为文末参考文献编号。
 > 主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》[termitologia.net](https://www.termitologia.net/)、[organismnames.com](http://organismnames.com/query.htm)、[GBIF](https://www.gbif.org/)、其他参考文献见名录末尾。
 
-**作者**：班奈特格林（bilibili）　**版本**：2026.10.17 正式版　**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0）。
+**作者**：班奈特格林（bilibili）　**版本**：2026.10.17 正式版　**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0；插图版权归各摄影师，按各图署名与许可使用）。
 
 **建议引用格式**（APA）：
 {% if site.dataset.doi %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. https://doi.org/{{ site.dataset.doi }}{% else %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/{% endif %}

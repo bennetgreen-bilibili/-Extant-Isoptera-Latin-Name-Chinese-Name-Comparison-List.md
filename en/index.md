@@ -185,7 +185,7 @@ permalink: /en/
 > Covers 13 families, 323 genera, 3008 species, 63 subspecies; `*` marks the type species; (N) is the reference number.
 > Main sources: 《白蚁学》 (Termitology), 《世界白蚁中文名录》 (World Termite Chinese-Name List), 《中国动物志》 (Fauna Sinica), [termitologia.net](https://www.termitologia.net/), [organismnames.com](http://organismnames.com/query.htm), [GBIF](https://www.gbif.org/); other references are listed at the end of the List page.
 
-**Author**: 班奈特格林 (Bennet Green, bilibili)　**Version**: 2026.10.17 (final)　**License**: free to use with attribution (equivalent to CC BY 4.0).
+**Author**: 班奈特格林 (Bennet Green, bilibili)　**Version**: 2026.10.17 (final)　**License**: free to use with attribution (equivalent to CC BY 4.0; illustration copyrights belong to their photographers and follow the attribution and license shown with each figure).
 
 **Suggested citation** (APA):
 > 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.17). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/

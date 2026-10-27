@@ -409,7 +409,7 @@ The living species is distributed in the tropical regions of northern Australia 
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/mastotermitidae.jpg" alt="Mastotermes darwiniensis 达尔文澳白蚁" loading="lazy">
-  <figcaption>Mastotermes darwiniensis 达尔文澳白蚁（https://www.inaturalist.org/observations/203451137）</figcaption>
+  <figcaption><i>Mastotermes darwiniensis</i> 达尔文澳白蚁 · 摄影 <a href="https://www.inaturalist.org/photos/359464427">Reiner Richter</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="mastotermes">Mastotermes</h5>
@@ -445,8 +445,6 @@ The distribution of this family shows a disjunct north-temperate pattern: the ge
 
 [*Zootermopsis nevadensis* 内华达动白蚁]({{ site.base_url }}/species/zootermopsis-nevadensis/)
 
-
-
 <h3 id="hodotermitidae">HODOTERMITIDAE</h3>
 
 The family Hodotermitidae was established by Desneux in 1904 (Desneux, 1904: 284)(1), with the type genus Hodotermes Hagen, 1853. The family name derives from the type genus: Hodotermes is formed from the Greek hodos (road, wandering) and termes, referring to its habit of foraging above ground. This checklist includes 3 genera and 21 species.
@@ -455,7 +453,7 @@ This family comprises the “harvester” termites endemic to the arid zones of 
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/hodotermitidae.jpg" alt="Microhodotermes viator 旅游小草白蚁" loading="lazy">
-  <figcaption>Microhodotermes viator 旅游小草白蚁（https://www.inaturalist.org/observations/401934726）</figcaption>
+  <figcaption><i>Microhodotermes viator</i> 旅游小草白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/401934726">Sue Milton-Dean</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="anacanthotermes">Anacanthotermes</h5>
@@ -529,7 +527,7 @@ This family comprises the “dampwood termites” with a typical Gondwanan disju
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/stolotermitidae.jpg" alt="Stolotermes victoriensis 维多利亚胄白蚁" loading="lazy">
-  <figcaption>Stolotermes victoriensis 维多利亚胄白蚁（https://www.inaturalist.org/photos/109922908）</figcaption>
+  <figcaption><i>Stolotermes victoriensis</i> 维多利亚胄白蚁 · 摄影 <a href="https://www.inaturalist.org/photos/109922908">Nick Porch</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="porotermes">Porotermes</h5>
@@ -1177,8 +1175,6 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 [*Kalotermes monticola* 山栖木白蚁]({{ site.base_url }}/species/kalotermes-monticola/)
 
-
-
 [*Kalotermes pallidinotum* 白背木白蚁]({{ site.base_url }}/species/kalotermes-pallidinotum/)
 
 [*Kalotermes phoeniciae* 腓尼基木白蚁]({{ site.base_url }}/species/kalotermes-phoeniciae/)
@@ -1350,8 +1346,6 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 [*Neotermes medius* 中部新白蚁]({{ site.base_url }}/species/neotermes-medius/)
 
 [*Neotermes megaoculatus* 巨眼新白蚁]({{ site.base_url }}/species/neotermes-megaoculatus/)
-
-
 
 [*Neotermes meruensis* 梅鲁新白蚁]({{ site.base_url }}/species/neotermes-meruensis/)
 
@@ -1587,7 +1581,7 @@ This family contains only two living genera, and the two genera contrast sharply
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/psammotermitidae.jpg" alt="沙白蚁 Psammotermes sp." loading="lazy">
-  <figcaption>沙白蚁 Psammotermes sp.（https://www.inaturalist.org/observations/338446969）</figcaption>
+  <figcaption><i>Psammotermes sp.</i> 沙白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/338446969">Thijs Valkenburg</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="prorhinotermes">Prorhinotermes</h5>
@@ -1638,7 +1632,7 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/rhinotermitidae.jpg" alt="长鼻白蚁 Schedorhinotermes sp." loading="lazy">
-  <figcaption>长鼻白蚁 Schedorhinotermes sp.（https://www.inaturalist.org/observations/339086630）</figcaption>
+  <figcaption><i>Schedorhinotermes sp.</i> 长鼻白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/339086630">Dave Holland</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="acorhinotermes">Acorhinotermes</h5>
@@ -1778,12 +1772,6 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 The family Serritermitidae was established by Holmgren in 1910 (Serritermitidae Holmgren, 1910) (14), with the type genus Serritermes Wasmann, 1897. The family name is derived from the type genus name, formed by combining the Latin serra (saw) with termes, referring to the conspicuously saw-like, many-toothed margins of the mandibles in the soldiers and reproductives of this family. This checklist records 2 genera and 3 species.
 
 This family is a small family endemic to the Neotropical realm, occurring from northern South America (the Guiana Shield) to Brazil. It lacks a true worker caste. The two genera differ markedly in their way of life: Glossotermes is a wood-dwelling termite that lives inside dry, decaying fallen logs, whereas S. serrifer is a rare obligate inquiline among termites, spending its entire life within the epigeal mound nests of the termitid Cornitermes cumulans without building a nest of its own; its soldiers have sickle-shaped mandibles with serrate inner margins. In this family the soldier head is elongate with arcuate lateral margins, and bears a small, blind-ended fontanelle at the front of the head that does not communicate with the frontal gland; the antennae have 12–15 articles (12–13 in Serritermes, 13–15 in Glossotermes). The frontal gland of the soldier is extremely well developed, extending from the head into the anterior half of the thorax and abdomen; when defending, it releases the secretion through the back of the neck by self-rupture (autothysis) (26).
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/serritermitidae.jpg" alt="Serritermes serrifer 锯齿白蚁" loading="lazy">
-  <figcaption>Serritermes serrifer 锯齿白蚁（https://termiti.czu.cz/en/r-12998-galleries/r-13066-serritermitidae）</figcaption>
-</figure>
-
 <h5 id="glossotermes">Glossotermes</h5>
 
 \*[*Glossotermes oculatus* 眼显舌白蚁]({{ site.base_url }}/species/glossotermes-oculatus/)
@@ -1905,7 +1893,7 @@ In distribution, this is a small Oriental-realm family, occurring in Southeast A
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/termitogetonidae.jpg" alt="Termitogeton umbilicatus 中凹寡脉白蚁" loading="lazy">
-  <figcaption>Termitogeton umbilicatus 中凹寡脉白蚁（https://www.inaturalist.org/observations/254743733）</figcaption>
+  <figcaption><i>Termitogeton umbilicatus</i> 中凹寡脉白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/254743733">Jonghyun Park</a> · <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="termitogeton">Termitogeton</h5>
@@ -1932,8 +1920,6 @@ This family is the most economically important group of termites in the world: C
 <h5 id="coptotermes">Coptotermes</h5>
 
 [*Coptotermes acinaciformis* 短刀乳白蚁]({{ site.base_url }}/species/coptotermes-acinaciformis/)
-
-
 
 [*Coptotermes amanii* 阿马尼乳白蚁]({{ site.base_url }}/species/coptotermes-amanii/)
 
@@ -2271,9 +2257,6 @@ This family is the most economically important group of termites in the world: C
 
 [*Reticulitermes lucifugus* 暗黑散白蚁]({{ site.base_url }}/species/reticulitermes-lucifugus/)
 
-
-
-
 [*Reticulitermes luofunicus* 罗浮散白蚁]({{ site.base_url }}/species/reticulitermes-luofunicus/)
 
 [*Reticulitermes magdalenae* 马格达莱纳散白蚁]({{ site.base_url }}/species/reticulitermes-magdalenae/)
@@ -2345,9 +2328,6 @@ This family is the most economically important group of termites in the world: C
 [*Reticulitermes solidimandibulas* 粗颚散白蚁]({{ site.base_url }}/species/reticulitermes-solidimandibulas/)
 
 [*Reticulitermes speratus* 栖北散白蚁]({{ site.base_url }}/species/reticulitermes-speratus/)
-
-
-
 
 [*Reticulitermes subligulosus* 近舌唇散白蚁]({{ site.base_url }}/species/reticulitermes-subligulosus/)
 
@@ -2752,8 +2732,6 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 \*[*Globitermes globosus* 球形球白蚁]({{ site.base_url }}/species/globitermes-globosus/)
 
-
-
 [*Globitermes menglaensis* 勐腊球白蚁]({{ site.base_url }}/species/globitermes-menglaensis/)
 
 [*Globitermes mengpengensis* 勐捧球白蚁]({{ site.base_url }}/species/globitermes-mengpengensis/)
@@ -2823,8 +2801,6 @@ Economically, this subfamily has well-documented records of crop damage in West 
 <h5 id="prohamitermes">Prohamitermes</h5>
 
 [*Prohamitermes hosei* 霍斯前钩白蚁]({{ site.base_url }}/species/prohamitermes-hosei/)
-
-
 
 \*[*Prohamitermes mirabilis* 奇异前钩白蚁]({{ site.base_url }}/species/prohamitermes-mirabilis/)
 
@@ -3237,8 +3213,6 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 \*[*Eurytermes assmuthi* 阿斯穆斯宽白蚁]({{ site.base_url }}/species/eurytermes-assmuthi/)
 
-
-
 [*Eurytermes boveni* 博文宽白蚁]({{ site.base_url }}/species/eurytermes-boveni/)
 
 [*Eurytermes buddha* 大佛宽白蚁]({{ site.base_url }}/species/eurytermes-buddha/)
@@ -3471,7 +3445,7 @@ Rocha & Cuezzo (2015) (45) first systematically described the morphology and in 
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/crepititermitinae.png" alt="Crepititermes verruculosus 多疣响白蚁" loading="lazy">
-  <figcaption>Crepititermes verruculosus 多疣响白蚁（参考文献21的补充资料）</figcaption>
+  <figcaption><i>Crepititermes verruculosus</i> 多疣响白蚁 · 图自 <a href="https://doi.org/10.1038/s41467-024-51028-y">Hellemans et al. 2024, Nat Commun 15:6724</a>（补充材料）· <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">CC BY-NC-ND 4.0</a></figcaption>
 </figure>
 
 <h5 id="crepititermes">Crepititermes</h5>
@@ -3485,12 +3459,6 @@ The subfamily Cubitermitinae was established by Weidner in 1956, with the type g
 All known genera and species of this subfamily are distributed in sub-Saharan Africa — West Africa (Côte d'Ivoire, Nigeria, Guinea, Senegal, Gambia, Togo, etc.), Central Africa and the Congo Basin (Cameroon, Congo, Democratic Republic of the Congo, Gabon, Central African Republic), East Africa (Kenya, Tanzania, Uganda, Rwanda), and southern Africa (South Africa, Zimbabwe, Zambia, Namibia, Angola, etc.). The diet is mainly soil (humus). Nesting is its most distinctive feature — many genera build columnar, umbrella-shaped, or mushroom-shaped mounds on the ground surface, the nest walls being constructed of soil and feces, which can markedly concentrate soil clay and nutrients and modify soil structure (in Ugandan grassland, the density of Cubitermes testaceus mounds can reach more than a hundred per hectare (48)); they are often used as bioindicator groups of soil health. The soldiers have biting-type mandibles and defend at the nest entrance. As represented by the type genus Cubitermes, the soldier head is nearly rectangular with the fontanelle on the frons, the antennae have about 14–15 articles, and the mandibles are short, stout, and incurved. In the genera Procubitermes, Noditermes, Basidentitermes, Unguitermes, Unicornitermes, etc., the soldier abdomen is milky white (white-gutted type), the soldiers being fed purely on worker saliva. The worker ileum (P1) is inflated into a sac, the enteric valve has a median pad, the hindgut P3 bears a caecum ventrally, and the gizzard lacks a columnar belt. Taxonomically, this subfamily is a well-supported monophyletic group; the hindgut of Cubitermes is a classic material for studying the anaerobic fermentation and methanogenic microflora of the higher-termite gut (49).
 
 Economically, all members of this subfamily are soil-feeding groups, and where their mounds occur densely along the edges of moist pastures they may occupy and cover land (50).
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/cubitermitinae.jpg" alt="蛇白蚁 Ophiotermes sp." loading="lazy">
-  <figcaption>蛇白蚁 Ophiotermes sp.（https://www.inaturalist.org/observations/330017606）</figcaption>
-</figure>
-
 <h5 id="apilitermes">Apilitermes</h5>
 
 \*[*Apilitermes longiceps* 长头无毛白蚁]({{ site.base_url }}/species/apilitermes-longiceps/)
@@ -3506,8 +3474,6 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 [*Basidentitermes diversifrons* 裂额基齿白蚁]({{ site.base_url }}/species/basidentitermes-diversifrons/)
 
 [*Basidentitermes mactus* 荣耀基齿白蚁]({{ site.base_url }}/species/basidentitermes-mactus/)
-
-
 
 [*Basidentitermes malelaensis* 马雷拉基齿白蚁]({{ site.base_url }}/species/basidentitermes-malelaensis/)
 
@@ -3547,8 +3513,6 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 [*Cubitermes pretorianus* 比勒陀利亚方白蚁]({{ site.base_url }}/species/cubitermes-pretorianus/)
 
-
-
 [*Cubitermes sanctaeluciae* 圣卢西亚方白蚁]({{ site.base_url }}/species/cubitermes-sanctaeluciae/)
 
 [*Cubitermes tenuiceps* 细头方白蚁]({{ site.base_url }}/species/cubitermes-tenuiceps/)
@@ -3566,8 +3530,6 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 [*Euchilotermes quadriceps* 方头真唇白蚁]({{ site.base_url }}/species/euchilotermes-quadriceps/)
 
 \*[*Euchilotermes tensus* 拉长真唇白蚁]({{ site.base_url }}/species/euchilotermes-tensus/)
-
-
 
 [*Euchilotermes umbraticola* 隐蔽真唇白蚁]({{ site.base_url }}/species/euchilotermes-umbraticola/)
 
@@ -3842,12 +3804,6 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 The subfamily Cylindrotermitinae was established by Hellemans, Engel and Bourguignon in 2024 (21), with the type genus Cylindrotermes Holmgren, 1906; the subfamily name is derived from the type genus, referring to the elongate, cylindrical head and body (Greek kylindros, cylinder). This catalogue includes 2 genera and 9 species.
 
 The two genera show a transatlantic disjunct distribution: the genus Cephalotermes Silvestri is an Afrotropical genus, with the rectangular-headed termite widespread from West and Central Africa to East Africa; the genus Cylindrotermes Holmgren is a Neotropical genus, all 8 of its species occurring in the Neotropical realm. Both genera are wood-feeders, and the worker mandibles are of the typical wood-feeding type: Cephalotermes builds mound nests with large colonies, the nest often containing a pair of primary reproductives and a queen with a greatly swollen abdomen; Cylindrotermes lives in dead wood and forms smaller colonies. Morphologically, the soldier head is long and subrectangular, without a frontal projection, the body surface is covered with short setae, and the mandibles are short and stout, of the biting–hacking type; the worker ileum (P1) is a long tube that forms a ventral loop beneath the rectum, and the enteric valve bears six unequal pads, by which these taxa can be distinguished from related groups. The apical tooth of the worker left mandible is about equal to or shorter than the first and second marginal teeth, and the third marginal tooth is well developed; in Cephalotermes the queen with the greatly swollen abdomen gradually loses the ability to walk as the colony matures (known only from mound colonies of Cephalotermes). Phylogenomic evidence from 2024 shows that the two form an independent monophyletic clade, representing a narrowly distributed relict group within the family that is non-basal in position yet highly disjunct in distribution. Economically, Cylindrotermes nordenskioeldi has been judged harmful in sugarcane fields of northeastern Brazil (51).
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/cylindrotermitinae.jpg" alt="Cylindrotermes macrognathus 长颚圆筒白蚁" loading="lazy">
-  <figcaption>Cylindrotermes macrognathus 长颚圆筒白蚁（https://www.inaturalist.org/photos/449822418）</figcaption>
-</figure>
-
 <h5 id="cephalotermes">Cephalotermes</h5>
 
 \*[*Cephalotermes rectangularis* 直角头白蚁]({{ site.base_url }}/species/cephalotermes-rectangularis/)
@@ -3875,12 +3831,6 @@ The two genera show a transatlantic disjunct distribution: the genus Cephaloterm
 The subfamily Engelitermitinae was established by Romero-Arias, Roisin and Scheffrahn in 2024 (52), with the type genus Engelitermes and the type species E. zambo; the genus name honours the termite taxonomist Michael S. Engel. This catalogue includes 1 genus and 1 species.
 
 Because it contains a single genus with a single species, its characters are those of the subfamily: the type colony (52) was collected in lowland tropical rainforest along the Nyong River in southern Cameroon, where it lived in a cavity of about 50 × 60 cm between the bark and a standing dead tree, constructing the nest chamber of soft black faecal material; the colony numbered more than ten thousand individuals, but soldiers were extremely scarce — in two of the four known samples only workers were collected. The worker mandibles are of the soil-feeding (humus-feeding) type, and the enteric-valve pads bear only a single spine with an unsculptured cuticle, a combination unique among termites; soldiers are rare, with a transparent abdomen containing no solid food, the head yellow-orange and rectangular, the mandibles short and stout, each bearing a triangular tooth near the base, and the tibial spur formula 2:2:2. Alates have not yet been collected. The subfamily is known from only four collecting localities, and its discovery shows that distinctive deep lineages of the family remain to be discovered in African tropical rainforests.
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/engelitermitinae.jpg" alt="Engelitermes zambo 赞博恩格尔白蚁" loading="lazy">
-  <figcaption>Engelitermes zambo 赞博恩格尔白蚁（https://novataxa.blogspot.com/2023/12/engelitermes.html）</figcaption>
-</figure>
-
 <h5 id="engelitermes">Engelitermes</h5>
 
 \*[*Engelitermes zambo* 赞博恩格尔白蚁]({{ site.base_url }}/species/engelitermes-zambo/)
@@ -3893,7 +3843,7 @@ Its distribution spans both the Afrotropical realm (West and Central Africa to E
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/foraminitermitinae.jpg" alt="唇白蚁 Labritermes sp." loading="lazy">
-  <figcaption>唇白蚁 Labritermes sp.（https://www.inaturalist.org/photos/461877787）</figcaption>
+  <figcaption><i>Labritermes</i> sp. 唇白蚁 · 摄影者放弃版权（<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh">CC0 1.0</a>）· <a href="https://www.inaturalist.org/photos/461877787">iNaturalist</a></figcaption>
 </figure>
 
 <h5 id="foraminitermes">Foraminitermes</h5>
@@ -3927,12 +3877,6 @@ Its distribution spans both the Afrotropical realm (West and Central Africa to E
 The subfamily Forficulitermitinae was established by Hellemans, Engel and Bourguignon in 2024 (21), with the type genus Forficulitermes Emerson, 1960; the subfamily name is derived from the type genus (Latin forfex, scissors, referring to the elongate, forceps-like curved mandibles). This catalogue includes 1 genus and 1 species.
 
 Because it contains a single genus with a single species, its characters are those of the subfamily: the workers are soil-feeders (humus-feeders); the soldier head is nearly square, the fontanelle lies in a shallow depression with, on each side in front of it, a flat longitudinal ridge that forms a shallow groove running to the base of the clypeus, and there is additionally a small tubercle on each side between the fontanelle and the antennal socket; the mandibles are slender and toothless, used for biting rather than snapping, and the labrum bears a median projection and sharp apicolateral angles on its distal margin. In the worker, the second marginal tooth of the right mandible is well developed, and the four Malpighian tubules open in pairs together at the junction of the mixed segment — characters that distinguish this subfamily from the snapping-type soldiers common in the family and from the Termitinae. In the 2024 analysis its position was unstable in most analyses (21) (it was treated as a rogue taxon), but topology tests did not reject the hypothesis that it is closely related to the Engelitermitinae; its unique morphological combination is sufficient to establish a separate subfamily, representing another narrowly distributed relict monotypic lineage of the family that is non-basal and of uncertain phylogenetic position.
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/forficulitermitinae.jpg" alt="Forficulitermes planifrons 扁额剪白蚁" loading="lazy">
-  <figcaption>Forficulitermes planifrons 扁额剪白蚁（https://www.inaturalist.org/photos/619613456）</figcaption>
-</figure>
-
 <h5 id="forficulitermes">Forficulitermes</h5>
 
 \*[*Forficulitermes planifrons* 扁额剪白蚁]({{ site.base_url }}/species/forficulitermes-planifrons/)
@@ -3974,8 +3918,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Ancistrotermes crassiceps* 厚头钩白蚁]({{ site.base_url }}/species/ancistrotermes-crassiceps/)
 
 \*[*Ancistrotermes crucifer* 十字钩白蚁]({{ site.base_url }}/species/ancistrotermes-crucifer/)
-
-
 
 [*Ancistrotermes dimorphus* 小头钩白蚁]({{ site.base_url }}/species/ancistrotermes-dimorphus/)
 
@@ -4181,8 +4123,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 [*Microtermes congoensis* 刚果小白蚁]({{ site.base_url }}/species/microtermes-congoensis/)
 
-
-
 [*Microtermes darlingtonae* 达林顿小白蚁]({{ site.base_url }}/species/microtermes-darlingtonae/)
 
 [*Microtermes depauperata* 矮小小白蚁]({{ site.base_url }}/species/microtermes-depauperata/)
@@ -4333,8 +4273,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 [*Odontotermes badius* 栗色土白蚁]({{ site.base_url }}/species/odontotermes-badius/)
 
-
-
 [*Odontotermes bellahunisensis* 贝拉胡尼斯土白蚁]({{ site.base_url }}/species/odontotermes-bellahunisensis/)
 
 [*Odontotermes bequaerti* 贝奎特土白蚁]({{ site.base_url }}/species/odontotermes-bequaerti/)
@@ -4463,8 +4401,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 [*Odontotermes javanicus* 爪哇土白蚁]({{ site.base_url }}/species/odontotermes-javanicus/)
 
-
-
 [*Odontotermes kapuri* 卡普尔土白蚁]({{ site.base_url }}/species/odontotermes-kapuri/)
 
 [*Odontotermes karawajevi* 卡拉瓦土白蚁]({{ site.base_url }}/species/odontotermes-karawajevi/)
@@ -4484,8 +4420,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Odontotermes lacustris* 湖泊土白蚁]({{ site.base_url }}/species/odontotermes-lacustris/)
 
 [*Odontotermes latericius* 似砖土白蚁]({{ site.base_url }}/species/odontotermes-latericius/)
-
-
 
 [*Odontotermes latialatus* 宽翅土白蚁]({{ site.base_url }}/species/odontotermes-latialatus/)
 
@@ -4544,8 +4478,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Odontotermes mohandi* 莫汉德土白蚁]({{ site.base_url }}/species/odontotermes-mohandi/)
 
 [*Odontotermes monodon* 单齿土白蚁]({{ site.base_url }}/species/odontotermes-monodon/)
-
-
 
 [*Odontotermes montanus* 高山土白蚁]({{ site.base_url }}/species/odontotermes-montanus/)
 
@@ -4655,8 +4587,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 [*Odontotermes sjostedti* 舍斯泰特土白蚁]({{ site.base_url }}/species/odontotermes-sjostedti/)
 
-
-
 [*Odontotermes smeathmani* 斯米瑟曼土白蚁]({{ site.base_url }}/species/odontotermes-smeathmani/)
 
 [*Odontotermes snyderi* 斯奈德土白蚁]({{ site.base_url }}/species/odontotermes-snyderi/)
@@ -4727,8 +4657,6 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 \*[*Pseudacanthotermes militaris* 好斗伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-militaris/)
 
-
-
 [*Pseudacanthotermes piceus* 柏油伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-piceus/)
 
 [*Pseudacanthotermes spiniger* 具刺伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-spiniger/)
@@ -4751,7 +4679,7 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/microcerotermitinae.jpg" alt="Microcerotermes subtilis 瘦长锯白蚁" loading="lazy">
-  <figcaption>Microcerotermes subtilis 瘦长锯白蚁（https://www.inaturalist.org/observations/231264472）</figcaption>
+  <figcaption><i>Microcerotermes subtilis</i> 瘦长锯白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/231264472">Observatoire Régional de Lutte Anti-Termites</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="microcerotermes">Microcerotermes</h5>
@@ -4858,9 +4786,6 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 
 [*Microcerotermes fuscotibialis* 棕胫锯白蚁]({{ site.base_url }}/species/microcerotermes-fuscotibialis/)
 
-
-
-
 [*Microcerotermes gabrielis* 加布里埃利斯锯白蚁]({{ site.base_url }}/species/microcerotermes-gabrielis/)
 
 [*Microcerotermes ganeshi* 加内什锯白蚁]({{ site.base_url }}/species/microcerotermes-ganeshi/)
@@ -4890,8 +4815,6 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 [*Microcerotermes kwazulu* 夸祖鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-kwazulu/)
 
 [*Microcerotermes labioangulatus* 角唇锯白蚁]({{ site.base_url }}/species/microcerotermes-labioangulatus/)
-
-
 
 [*Microcerotermes lahorensis* 拉合尔锯白蚁]({{ site.base_url }}/species/microcerotermes-lahorensis/)
 
@@ -5055,8 +4978,6 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 
 [*Microcerotermes zuluensis* 祖鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-zuluensis/)
 
-
-
 [*Microcerotermes zuluoides* 似祖鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-zuluoides/)
 
 <h5 id="onkotermes">Onkotermes</h5>
@@ -5075,7 +4996,7 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/mirocapritermitinae.jpg" alt="Pericapritermes nitobei 新渡户近扭白蚁" loading="lazy">
-  <figcaption>Pericapritermes nitobei 新渡户近扭白蚁（https://www.inaturalist.org/observations/319111630）</figcaption>
+  <figcaption><i>Pericapritermes nitobei</i> 新渡户近扭白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/319111630">Melvyn Yeo</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="dicuspiditermes">Dicuspiditermes</h5>
@@ -5257,8 +5178,6 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 [*Pericapritermes topslipensis* 托普斯利普近扭白蚁]({{ site.base_url }}/species/pericapritermes-topslipensis/)
 
 \*[*Pericapritermes urgens* 催促近扭白蚁]({{ site.base_url }}/species/pericapritermes-urgens/)
-
-
 
 [*Pericapritermes vermai* 维尔马近扭白蚁]({{ site.base_url }}/species/pericapritermes-vermai/)
 
@@ -5811,8 +5730,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 \*[*Hospitalitermes hospitalis* 寄宿须白蚁]({{ site.base_url }}/species/hospitalitermes-hospitalis/)
 
-
-
 [*Hospitalitermes irianensis* 伊里安查亚须白蚁]({{ site.base_url }}/species/hospitalitermes-irianensis/)
 
 [*Hospitalitermes javanicus* 爪哇须白蚁]({{ site.base_url }}/species/hospitalitermes-javanicus/)
@@ -6247,8 +6164,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 [*Nasutitermes longirostris* 长喙象白蚁]({{ site.base_url }}/species/nasutitermes-longirostris/)
 
-
-
 [*Nasutitermes longwangshanensis* 龙王山象白蚁]({{ site.base_url }}/species/nasutitermes-longwangshanensis/)
 
 [*Nasutitermes lujae* 卢哈象白蚁]({{ site.base_url }}/species/nasutitermes-lujae/)
@@ -6272,10 +6187,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Nasutitermes maniseri* 马尼塞象白蚁]({{ site.base_url }}/species/nasutitermes-maniseri/)
 
 [*Nasutitermes matangensis* 马登象白蚁]({{ site.base_url }}/species/nasutitermes-matangensis/)
-
-
-
-
 
 [*Nasutitermes mauritianus* 毛里求斯象白蚁]({{ site.base_url }}/species/nasutitermes-mauritianus/)
 
@@ -6402,8 +6313,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Nasutitermes schoutedeni* 斯考特登象白蚁]({{ site.base_url }}/species/nasutitermes-schoutedeni/)
 
 [*Nasutitermes seghersi* 西格象白蚁]({{ site.base_url }}/species/nasutitermes-seghersi/)
-
-
 
 [*Nasutitermes shangchengensis* 商城象白蚁]({{ site.base_url }}/species/nasutitermes-shangchengensis/)
 
@@ -6780,12 +6689,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 The subfamily Neocapritermitinae was established by Hellemans, Engel and Bourguignon in 2024 (21), with the type genus Neocapritermes Holmgren, 1912; the subfamily name is derived from the type genus name (neo-, “new” + Capritermes). This catalogue includes 3 genera and 20 species.
 
 This subfamily is a group endemic to the Neotropical realm, with a distribution centered on Brazil, reaching north to Central America (Panama, Costa Rica), south to northern Argentina and Paraguay, west to Peru, Ecuador, Colombia and Bolivia, and east to the Guianas, Venezuela and Trinidad and Tobago; the genus Schievitermes is so far known only from a single species in French Guiana. No introduced or invasive records are known for this subfamily. In feeding habits, it feeds on decayed wood or at the wood–soil interface. In defense, the soldiers have asymmetrical twisted mandibles, a rectangular head, and no frontal process; compared with the Old World Mirocapritermitinae, the posterior margin of the second marginal tooth of the right mandible is straight, the molar region bears distinct ridges, and the enteric valve is composed of three folds (the latter has six), by which they can be distinguished. In the worker–alate mandible type, the apical tooth of the left mandible is shorter than the combined length of the first and second marginal teeth, a diagnostic point in the dentition of this subfamily; the mixed segment of the hindgut is long, with the distal portion expanded into a pair of mesenteric caeca (present only in Neocapritermes and Schievitermes), and the wall of the dilated chamber (P3) is densely covered with fine spines; the two pairs of Malpighian tubules are fused into a single point anteriorly, without a node. The most celebrated biological record of this subfamily comes from Neocapritermes: the aged workers of N. taracua form a sac containing blue protein crystals at the junction of the thorax and abdomen, and when defending against enemies the body wall ruptures and the contents mix with the salivary gland secretion, producing autothysis (70), one of the most complex worker defense mechanisms among termites. Economically, Neocapritermes opacus is the most common termite species in sugarcane fields in the State of São Paulo, Brazil (71).
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/neocapritermitinae.jpg" alt="塔拉夸新扭白蚁 Neocapritermes taracua" loading="lazy">
-  <figcaption>塔拉夸新扭白蚁 Neocapritermes taracua（https://www.science.org/doi/10.1126/science.1219129）</figcaption>
-</figure>
-
 <h5 id="neocapritermes">Neocapritermes</h5>
 
 [*Neocapritermes angusticeps* 窄头新扭白蚁]({{ site.base_url }}/species/neocapritermes-angusticeps/)
@@ -6840,7 +6743,7 @@ Its diet is humus (soil) feeding; an environmental gradient survey in Kruger Nat
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/promirotermitinae.jpg" alt="Angulitermes fletcheri 弗莱彻角白蚁" loading="lazy">
-  <figcaption>Angulitermes fletcheri 弗莱彻角白蚁（https://www.inaturalist.org/observations/154536789）</figcaption>
+  <figcaption><i>Angulitermes fletcheri</i> 弗莱彻角白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/154536789">Paul Antony Mangaly</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="angulitermes">Angulitermes</h5>
@@ -6915,8 +6818,6 @@ Its diet is humus (soil) feeding; an environmental gradient survey in Kruger Nat
 
 \*[*Promirotermes holmgreni* 霍姆格伦前奇白蚁]({{ site.base_url }}/species/promirotermes-holmgreni/)
 
-
-
 [*Promirotermes massaicus* 马萨前奇白蚁]({{ site.base_url }}/species/promirotermes-massaicus/)
 
 [*Promirotermes orthoceps* 直头前奇白蚁]({{ site.base_url }}/species/promirotermes-orthoceps/)
@@ -6932,12 +6833,6 @@ Its diet is humus (soil) feeding; an environmental gradient survey in Kruger Nat
 The subfamily Protohamitermitinae was established by Hellemans, Engel and Bourguignon in 2024 (21), with the type genus Protohamitermes Holmgren, 1912; the subfamily name is derived from the type genus name (proto-, “primitive” + Hamitermes, the latter containing the Latin hamus, “hook”). This catalogue includes 2 genera and 2 species.
 
 This subfamily is an oligotypic group endemic to the Oriental realm. Both genera occur in Southeast Asia (Brunei, Malaysia, Indonesia). Both genera lack soldiers, and the workers feed on decayed wood; their long, tubular ileum (P1) is coiled in a ring on the ventral side of the rectum, similar to Cylindrotermitinae and part of Apicotermitinae, and the Malpighian tubules of the hindgut are attached to the mixed segment by two pairs of knots. In the worker, the first and second marginal teeth of the right mandible each bear a well-developed subsidiary tooth at the base, with the anterior margin of the subsidiary tooth angular and the posterior margin arcuate, the most critical diagnostic feature of the worker of this subfamily; by this it can be distinguished from the soldier-bearing Cylindrotermitinae. Because it lacks a soldier caste and is morphologically specialized, the taxonomic position of this subfamily long remained unresolved; molecular analysis shows that the two genera form a monophyletic group (21). As an Oriental representative of the soldierless higher termites, this subfamily is of some significance for understanding the parallel evolution of the loss of the soldier caste.
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/protohamitermitinae.jpg" alt="Protohamitermes globiceps 球头始钩白蚁" loading="lazy">
-  <figcaption>Protohamitermes globiceps 球头始钩白蚁（https://termitesandants.blogspot.com/2012/01/protohamitermes-globiceps.html）</figcaption>
-</figure>
-
 <h5 id="orientotermes">Orientotermes</h5>
 
 \*[*Orientotermes emersoni* 埃默森东方白蚁]({{ site.base_url }}/species/orientotermes-emersoni/)
@@ -6952,16 +6847,6 @@ The subfamily Sphaerotermitinae was established by Engel and Krishna in 2004 (73
 
 This subfamily is endemic to the Afrotropical realm (West–Central Africa), and its only species ranges across the Republic of the Congo, Cameroon, the Central African Republic, Angola, the Democratic Republic of the Congo, Gabon, Guinea and Nigeria, with field sampling concentrated in the lowland rainforests of Cameroon. Biologically it is extremely distinctive: the species builds epigeal mound nests, but instead of cultivating the fungus combs seen in Macrotermitinae, it cultivates a bacteria-rich “comb” as food; the nest is built from a mixture of clay and fine sand and is compact in structure. Morphologically, the soldier has a broadly rounded head on both sides, a small and inconspicuous fontanelle located in the middle of the head capsule; the labrum is rounded on the sides with a hyaline tip at the front; the left mandible bears several fine teeth and one blunt tooth near the base, while the inner margin of the right mandible is smooth and toothless; the pronotum is much narrower than the head, with straight anterior and lateral margins lacking protruding spines. In the worker, the molar plate of the right mandible bears 6–7 ridges, the labrum is wholly sclerotized without the transverse sclerotized band seen in Macrotermitinae, and the postclypeus is strongly elevated with a median longitudinal line; at the junction of its P3 (paunch) and P4 (colon) there are conspicuous posteriorly directed setae, a condition unique among termites. In the alate, the fontanelle is pale and small, like a dot. Phylogenetically, several molecular analyses show that this subfamily is the sister group of Macrotermitinae, occupying a key position in the early diversification of the higher termites and being of great significance for understanding the evolution of feeding habits in the higher termites. Ecologically, its mounds are one of the main resources exploited by the “termite-fishing” behavior of chimpanzees in the rainforests of Cameroon (74).
 
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/sphaerotermitinae-1.jpg" alt="Sphaerotermes sphaerothorax 圆胸圆球白蚁" loading="lazy">
-  <figcaption>Sphaerotermes sphaerothorax 圆胸圆球白蚁（https://www.inaturalist.org/observations/339437267）</figcaption>
-</figure>
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/sphaerotermitinae-2.jpg" alt="Sphaerotermes sphaerothorax 圆胸圆球白蚁" loading="lazy">
-  <figcaption>Sphaerotermes sphaerothorax 圆胸圆球白蚁（https://www.inaturalist.org/observations/339437267）</figcaption>
-</figure>
-
 <h5 id="sphaerotermes">Sphaerotermes</h5>
 
 \*[*Sphaerotermes sphaerothorax* 圆胸圆球白蚁]({{ site.base_url }}/species/sphaerotermes-sphaerothorax/)
@@ -6973,12 +6858,6 @@ The subfamily Syntermitinae was established by Engel and Krishna in 2004 (73), w
 In this subfamily, the soldiers of many species possess both a nasus similar to that of Nasutitermitinae (but without the ability to spray) and well-developed chewing–slashing mandibles, a unique intermediate defensive morphology within the family, while the remaining species have only powerful mandibles and no nasus. This subfamily is endemic to the Neotropical realm: its northern limit reaches Mexico (Cahuallitermes) and Central America (Costa Rica, Panama, Guatemala, Belize, Honduras, Nicaragua), and it extends south to northern Argentina and Uruguay, with Brazil as the center of distribution; Bolivia, Peru, Ecuador, Colombia, Venezuela and the countries of the Guiana Shield all have representatives. Most genera lead a subterranean life, and many species build conspicuous epigeal mounds, being a dominant termite group in the South American savannas; their diet consists mainly of organic matter at the soil–wood interface, humus and dead grass. In the worker, the mixed segment of the hindgut is bilobed and overlaps outside the ileum (P1) (reduced to a single lobe only in Procornitermes), and the scale membrane of the inner wall of the enteric valve bears spines (reduced only in Syntermes). The soldier has a well-developed nasus with a truncate apex, a broad and distinct frontal pore, and a narrow, simple labrum with a hyaline tip. The alate has a large, round fontanelle that is slightly concave or shaped like a convex plate, a moderately to strongly elevated postclypeus with a median longitudinal line, a short forewing costal vein (R1), and tarsi lacking an arolium. (3)
 
 Economically, this subfamily is an important group of subterranean pests of agriculture and forestry in Brazil: S. molestus damages pineapple, cotton, rice, maize and eucalyptus plantation seedlings, and there is a first record of serious damage to potato roots (75); Cornitermes cumulans is the famous “cupim-de-montículo” of South American pastures, occurring densely in pastures, roadsides and eucalyptus forests, and it causes stem damage to teak (Tectona grandis) plantations in Mato Grosso State, Brazil (76); Procornitermes has occurrence records in maize fields in Argentina. Procornitermes and Labiotermes damage upland rice and maize in Brazil (42).
-
-<figure class="taxa-illustration">
-  <img src="{{ site.base_url }}/assets/images/syntermitinae.jpg" alt="Rhynchotermes perarmatus 全武喙白蚁" loading="lazy">
-  <figcaption>Rhynchotermes perarmatus 全武喙白蚁（https://www.inaturalist.org/observations/396238969）</figcaption>
-</figure>
-
 <h5 id="acangaobitermes">Acangaobitermes</h5>
 
 \*[*Acangaobitermes krishnai* 克里希纳漏斗白蚁]({{ site.base_url }}/species/acangaobitermes-krishnai/)
@@ -7243,7 +7122,7 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/termitinae.jpg" alt="Termes hispaniolae 伊斯帕尼奥拉白蚁" loading="lazy">
-  <figcaption>Termes hispaniolae 伊斯帕尼奥拉白蚁（https://www.inaturalist.org/observations/104975694）</figcaption>
+  <figcaption><i>Termes hispaniolae</i> 伊斯帕尼奥拉白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/104975694">tobiasrunge</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
 
 <h5 id="apsenterotermes">Apsenterotermes</h5>
