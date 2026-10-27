@@ -3,76 +3,88 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{%- comment -%} 页标题双语：page.title 为本站页面语言，page.title_alt 为另一语言（中文页放英文标题，英文页放中文标题） {%- endcomment -%}
-<title>{{ page.title }}{% if page.title_alt %} | {{ page.title_alt }}{% endif %}</title>
+{%- comment -%}
+  标签页标题：只保留本页语言，不做双语拼接；另一种语言只出现在页头副行（.hero-title-alt），
+  换语言用页头的语言切换（中文 / English / Español）。
+{%- endcomment -%}
+<title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="canonical" href="{{ site.base_url }}{{ page.url }}">
 {% if site.dataset.doi %}{%- comment -%} FAIR signposting：站点页面指向数据集 DOI，便于 DataCite / Google Dataset Search 关联 {%- endcomment -%}
 <link rel="cite-as" href="https://doi.org/{{ site.dataset.doi }}">
 <link rel="describedby" type="application/vnd.datacite.datacite+xml" href="{{ site.base_url }}/dataset/datacite-metadata.xml">
 {% endif %}
+{%- comment -%} 页面路径去掉语言前缀（/en、/es），用于 hreflang 与语言切换 {%- endcomment -%}
+{% assign path_no_lang = page.url | remove_first: '/en' | remove_first: '/es' %}
 {% unless page.collection == 'species' %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
-{% elsif page.lang == 'en' %}
-<link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url | remove_first: '/en' }}">
-<link rel="alternate" hreflang="en" href="{{ site.base_url }}{{ page.url }}">
-<link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url | remove_first: '/en' }}">
 {% else %}
-<link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
-<link rel="alternate" hreflang="en" href="{{ site.base_url }}/en{{ page.url }}">
-<link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
+<link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ path_no_lang }}">
+<link rel="alternate" hreflang="en" href="{{ site.base_url }}/en{{ path_no_lang }}">
+<link rel="alternate" hreflang="es" href="{{ site.base_url }}/es{{ path_no_lang }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ path_no_lang }}">
 {% endif %}{% endunless %}
 <link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
 </head>
 <body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
 
-{% if page.layout == 'post' %}
-{% assign switch_url = site.base_url | append: '/en/blog/' %}
-{% assign switch_label = 'English' %}
-{% elsif page.lang == 'en' %}
-{% assign switch_url = site.base_url | append: page.url | remove_first: '/en' %}
-{% assign switch_label = '中文' %}
-{% else %}
-{% assign switch_url = site.base_url | append: '/en' | append: page.url %}
-{% assign switch_label = 'English' %}
-{% endif %}
-{% if page.lang == 'en' %}
-{% assign LANGP = '/en' %}
-{% else %}
-{% assign LANGP = '' %}
-{% endif %}
+{%- comment -%} 界面文案按页面语言取自 _data/i18n.yml，未知语言回退中文 {%- endcomment -%}
+{%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- if page.lang == 'en' -%}
+{%- assign LANGP = '/en' -%}
+{%- elsif page.lang == 'es' -%}
+{%- assign LANGP = '/es' -%}
+{%- else -%}
+{%- assign LANGP = '' -%}
+{%- endif -%}
 
 {%- comment -%}
-  页头双语标题：主行 = 页面语言（page.lang），副行 = 另一语言。
-  两条文案统一取自 _config.yml 的 title_zh / title_en，避免各页各写一份。
+  页头双语标题：主行 = 页面语言（_config.yml 的 title_zh / title_en / title_es），
+  副行 = 另一语言（中文页→英文，英文页→中文，西语页→英文）。副行只出现在页头。
 {%- endcomment -%}
 {%- if page.lang == 'en' -%}
 {%- assign hero_title_main = site.title_en | default: site.title -%}
 {%- assign hero_title_main_lang = 'en' -%}
 {%- assign hero_title_alt = site.title_zh | default: site.title -%}
 {%- assign hero_title_alt_lang = 'zh-CN' -%}
-{%- assign hero_sub_main = 'Latin names · Chinese names · bilingual checklist — 13 families · 18 subfamilies · 323 genera · 3008 species · 63 subspecies' -%}
-{%- assign hero_sub_alt = '拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种' -%}
+{%- elsif page.lang == 'es' -%}
+{%- assign hero_title_main = site.title_es | default: site.title -%}
+{%- assign hero_title_main_lang = 'es' -%}
+{%- assign hero_title_alt = site.title_en | default: site.title -%}
+{%- assign hero_title_alt_lang = 'en' -%}
 {%- else -%}
 {%- assign hero_title_main = site.title_zh | default: site.title -%}
 {%- assign hero_title_main_lang = 'zh-CN' -%}
 {%- assign hero_title_alt = site.title_en | default: site.title -%}
 {%- assign hero_title_alt_lang = 'en' -%}
-{%- assign hero_sub_main = '拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种' -%}
-{%- assign hero_sub_alt = 'Latin names · Chinese names · bilingual checklist — 13 families · 18 subfamilies · 323 genera · 3008 species · 63 subspecies' -%}
+{%- endif -%}
+
+{%- comment -%} 三语切换目标：文章页没有其他语种版本，指向各语种博客列表；物种页不显示切换 {%- endcomment -%}
+{%- if page.layout == 'post' -%}
+{%- assign url_zh = page.url -%}
+{%- assign url_en = '/en/blog/' -%}
+{%- assign url_es = '/es/blog/' -%}
+{%- else -%}
+{%- assign url_zh = path_no_lang -%}
+{%- assign url_en = '/en' | append: path_no_lang -%}
+{%- assign url_es = '/es' | append: path_no_lang -%}
 {%- endif -%}
 
 <header class="hero">
   <div class="container hero-inner">
     <div class="hero-top">
-      <a class="hero-brand" href="{{ site.base_url }}/">现存等翅下目名录 <span class="hero-brand-en">Extant Isoptera</span></a>
+      <a class="hero-brand" href="{{ site.base_url }}{{ LANGP }}/">{{ T.brand }} <span class="hero-brand-sub">{{ T.brand_sub }}</span></a>
       <div class="hero-actions">
-        <span class="hero-version">v2026.10.17</span>
-        {% unless page.collection == 'species' %}<a class="lang-switch" href="{{ switch_url }}">{{ switch_label }}</a>{% endunless %}
+        <span class="hero-version">v{{ site.dataset.version }}</span>
+        {% unless page.collection == 'species' %}<span class="lang-switch-group" role="group" aria-label="Language">
+          {%- if page.lang == 'zh-CN' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['zh-CN'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_zh }}" hreflang="zh-CN" lang="zh-CN">{{ site.data.i18n['zh-CN'].lang_label }}</a>{%- endif -%}
+          {%- if page.lang == 'en' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['en'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_en }}" hreflang="en" lang="en">{{ site.data.i18n['en'].lang_label }}</a>{%- endif -%}
+          {%- if page.lang == 'es' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['es'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_es }}" hreflang="es" lang="es">{{ site.data.i18n['es'].lang_label }}</a>{%- endif -%}
+        </span>{% endunless %}
       </div>
     </div>
-    {% if page.url == '/' or page.url == '/en/' %}
+    {% if path_no_lang == '/' %}
     <h1 class="hero-title">
       <span class="hero-title-main" lang="{{ hero_title_main_lang }}">{{ hero_title_main }}</span>
       <span class="hero-title-alt" lang="{{ hero_title_alt_lang }}">{{ hero_title_alt }}</span>
@@ -83,22 +95,19 @@
       <span class="hero-title-alt" lang="{{ hero_title_alt_lang }}">{{ hero_title_alt }}</span>
     </div>
     {% endif %}
-    <p class="hero-sub">
-      <span class="hero-sub-main" lang="{{ hero_title_main_lang }}">{{ hero_sub_main }}</span>
-      <span class="hero-sub-alt" lang="{{ hero_title_alt_lang }}">{{ hero_sub_alt }}</span>
-    </p>
+    <p class="hero-sub">{{ T.hero_sub }}</p>
   </div>
 </header>
 
-<nav class="site-nav" aria-label="主导航">
+<nav class="site-nav" aria-label="{{ T.nav_label }}">
   <div class="container nav-inner">
-    <a href="{{ site.base_url }}{{ LANGP }}/" class="nav-link{% if page.url == '/' or page.url == '/en/' %} active{% endif %}">{% if page.lang == 'en' %}Home{% else %}首页{% endif %}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{% if page.lang == 'en' %}List{% else %}名录{% endif %}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{% if page.lang == 'en' %}Statistics{% else %}统计{% endif %}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/data/" class="nav-link{% if page.url contains '/data' %} active{% endif %}">{% if page.lang == 'en' %}Data{% else %}数据{% endif %}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{% if page.lang == 'en' %}Download{% else %}下载{% endif %}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{% if page.lang == 'en' %}Blog{% else %}博客{% endif %}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/guestbook/" class="nav-link{% if page.url contains '/guestbook' %} active{% endif %}">{% if page.lang == 'en' %}Guestbook{% else %}留言{% endif %}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/" class="nav-link{% if path_no_lang == '/' %} active{% endif %}">{{ T.nav_home }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{{ T.nav_list }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{{ T.nav_stats }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/data/" class="nav-link{% if page.url contains '/data' %} active{% endif %}">{{ T.nav_data }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{{ T.nav_blog }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/guestbook/" class="nav-link{% if page.url contains '/guestbook' %} active{% endif %}">{{ T.nav_guestbook }}</a>
   </div>
 </nav>
 
@@ -110,12 +119,12 @@
 
 <footer class="site-footer">
   <div class="container footer-inner">
-    <p class="footer-line">© 2026 班奈特格林 · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录</p>
-    <p class="footer-line footer-sub">注明作者可免费引用 · CC BY 4.0 · 13 科 323 属 3008 种 63 亚种{% if site.dataset.doi %} · <a href="https://doi.org/{{ site.dataset.doi }}">数据集 DOI：{{ site.dataset.doi }}</a>{% endif %}</p>
+    <p class="footer-line">{{ T.footer_copy }}</p>
+    <p class="footer-line footer-sub">{{ T.footer_note }}{% if site.dataset.doi %} · <a href="https://doi.org/{{ site.dataset.doi }}">{{ T.footer_doi }}: {{ site.dataset.doi }}</a>{% endif %}</p>
   </div>
 </footer>
 
-<button class="back-top" id="back-top" aria-label="回到顶部" title="回到顶部">↑</button>
+<button class="back-top" id="back-top" aria-label="{{ T.back_top }}" title="{{ T.back_top }}">↑</button>
 
 <script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
 <script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Guestbook — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-title_alt: 留言 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
 description: "Guestbook: leave your nickname (GitHub account) and a message."
 lang: en
 author: 班奈特格林 (Bennet Green)

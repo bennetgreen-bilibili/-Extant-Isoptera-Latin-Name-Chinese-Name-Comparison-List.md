@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Structured Data — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-title_alt: 结构化数据 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
 description: "Machine-readable structured data (JSON) for the extant Isoptera (termite) checklist: the entry point data/index.json holds the full taxonomic tree; the rest is split into 22 files by clade/family/subfamily."
 lang: en
 author: 班奈特格林 (Bennet Green)

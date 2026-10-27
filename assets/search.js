@@ -8,7 +8,8 @@
   var LANG = input.getAttribute('data-lang') || 'zh';
   var EMPTY = input.getAttribute('data-empty') || '无匹配结果';
   var RANK = { '支系':'Clade','科':'Family','亚科':'Subfamily','属':'Genus','种':'Species','亚种':'Subspecies' };
-  function rank(r){ return (LANG==='en') ? (RANK[r]||r) : r; }
+  var RANK_ES = { '支系':'Clado','科':'Familia','亚科':'Subfamilia','属':'Género','种':'Especie','亚种':'Subespecie' };
+  function rank(r){ return (LANG==='en') ? (RANK[r]||r) : (LANG==='es' ? (RANK_ES[r]||r) : r); }
 
   function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function norm(s){ return String(s==null?'':s).toLowerCase(); }
@@ -21,7 +22,7 @@
     for (var i=0;i<list.length;i++){
       var r = list[i];
       var e = r.e;
-      var synHint = r.viaSyn ? ' <span class="syn-hint">· ' + esc(LANG==='en'?'junior synonym':'次异名') + '</span>' : '';
+      var synHint = r.viaSyn ? ' <span class="syn-hint">· ' + esc(LANG==='en'?'junior synonym':(LANG==='es'?'sinónimo junior':'次异名')) + '</span>' : '';
       var href = (e.p && (e.r === '种' || e.r === '亚种')) ? (BASE + '/species/' + encodeURIComponent(e.p) + '/') : (LIST + '#' + e.h);
       html += '<li><a href="'+href+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+synHint+'</a></li>';
     }

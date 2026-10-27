@@ -1,0 +1,58 @@
+# 站内界面文案（三语）。新增一门语言时：
+#   1) 在这里加一个语言键（键名 = 页面的 front matter `lang`）
+#   2) 在 _config.yml 加对应的 title_xx（页头主标题）
+#   3) 建 xx/ 目录下与根目录一一对应的页面（permalink: /xx/…/）
+#   4) 模板里不用再改：导航/页头/页脚/语言切换/hreflang 都读这里
+zh-CN:
+  lang_label: 中文
+  brand: 现存等翅下目名录
+  brand_sub: Extant Isoptera
+  nav_label: 主导航
+  nav_home: 首页
+  nav_list: 名录
+  nav_stats: 统计
+  nav_data: 数据
+  nav_download: 下载
+  nav_blog: 博客
+  nav_guestbook: 留言
+  hero_sub: 拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种
+  footer_copy: © 2026 班奈特格林 · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+  footer_note: 注明作者可免费引用 · CC BY 4.0 · 13 科 323 属 3008 种 63 亚种
+  footer_doi: 数据集 DOI
+  back_top: 回到顶部
+
+en:
+  lang_label: English
+  brand: Extant Isoptera
+  brand_sub: Latin–Chinese name comparison list
+  nav_label: Main navigation
+  nav_home: Home
+  nav_list: List
+  nav_stats: Statistics
+  nav_data: Data
+  nav_download: Download
+  nav_blog: Blog
+  nav_guestbook: Guestbook
+  hero_sub: Latin names · Chinese names · bilingual checklist — 13 families · 18 subfamilies · 323 genera · 3008 species · 63 subspecies
+  footer_copy: © 2026 Bennet Green (班奈特格林) · Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+  footer_note: Free to cite with attribution · CC BY 4.0 · 13 families, 323 genera, 3008 species, 63 subspecies
+  footer_doi: Dataset DOI
+  back_top: Back to top
+
+es:
+  lang_label: Español
+  brand: Isópteros actuales
+  brand_sub: Lista comparativa latín–chino
+  nav_label: Navegación principal
+  nav_home: Inicio
+  nav_list: Listado
+  nav_stats: Estadísticas
+  nav_data: Datos
+  nav_download: Descargas
+  nav_blog: Blog
+  nav_guestbook: Libro de visitas
+  hero_sub: Nombres latinos · nombres chinos · lista bilingüe — 13 familias · 18 subfamilias · 323 géneros · 3008 especies · 63 subespecies
+  footer_copy: © 2026 Bennet Green (班奈特格林) · Lista comparativa de nombres latinos y chinos de los isópteros actuales
+  footer_note: Uso libre citando al autor · CC BY 4.0 · 13 familias, 323 géneros, 3008 especies, 63 subespecies
+  footer_doi: DOI del conjunto de datos
+  back_top: Volver arriba

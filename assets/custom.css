@@ -34,19 +34,19 @@ a{color:var(--accent)}
 .hero{background:linear-gradient(135deg,#1f4d38 0%,#2f6b4f 58%,#3a7d5c 100%);color:#fff;padding:22px 0 20px}
 .hero-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
 .hero-brand{color:#fff;text-decoration:none;font-weight:700;letter-spacing:.5px;font-size:15px}
-.hero-brand-en{font-style:italic;font-weight:400;opacity:.8;font-family:var(--font-serif)}
+.hero-brand-sub{font-style:italic;font-weight:400;opacity:.8;font-family:var(--font-serif)}
 .hero-actions{display:flex;align-items:center;gap:10px}
 .hero-version{font-size:12px;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);padding:3px 10px;border-radius:999px;letter-spacing:.5px}
-.lang-switch{color:#fff;text-decoration:none;font-size:13px;font-weight:600;padding:6px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.45);transition:background .15s,border-color .15s}
+.lang-switch-group{display:inline-flex;align-items:center;gap:6px;flex-wrap:wrap}
+.lang-switch{color:#fff;text-decoration:none;font-size:13px;font-weight:600;padding:5px 12px;border-radius:999px;border:1px solid rgba(255,255,255,.45);transition:background .15s,border-color .15s;white-space:nowrap}
 .lang-switch:hover{background:rgba(255,255,255,.18);border-color:rgba(255,255,255,.8)}
+.lang-switch.is-current{background:rgba(255,255,255,.16);border-color:rgba(255,255,255,.7);cursor:default}
 .hero-title{margin:0 0 8px;font-size:24px;line-height:1.4;font-weight:700;letter-spacing:.5px}
 .hero-sub{margin:0;font-size:14px;opacity:.86;font-family:var(--font-serif)}
 .hero-sub b{font-weight:600}
-/* 双语标题：主行=页面语言，副行=另一语言（衬线斜体、稍小） */
+/* 双语标题：主行=页面语言，副行=另一语言（衬线斜体、稍小）；副行只出现在页头 */
 .hero-title-main{display:block}
 .hero-title-alt{display:block;margin-top:3px;font-size:17px;font-weight:500;letter-spacing:.2px;font-style:italic;font-family:var(--font-serif);opacity:.92}
-.hero-sub-main{display:block}
-.hero-sub-alt{display:block;margin-top:1px;font-size:.94em;font-style:italic;opacity:.82}
 
 /* ===== 吸顶导航 ===== */
 .site-nav{position:sticky;top:0;z-index:500;background:var(--card);border-bottom:1px solid var(--line);box-shadow:var(--shadow-sm)}
@@ -148,7 +148,7 @@ a{color:var(--accent)}
 .back-top{position:fixed;right:22px;bottom:24px;z-index:600;width:44px;height:44px;border-radius:50%;border:none;background:var(--accent);color:#fff;font-size:20px;cursor:pointer;box-shadow:var(--shadow-md);opacity:0;pointer-events:none;transition:opacity .2s,transform .2s}
 .back-top:hover{transform:translateY(-3px)}
 
-@media (max-width:640px){.hero-title{font-size:20px}.hero-title-alt{font-size:15px}.container{padding:0 15px}.post-list>li{padding:16px}}
+@media (max-width:640px){.hero-top{flex-wrap:wrap}.hero-title{font-size:20px}.hero-title-alt{font-size:15px}.lang-switch{font-size:12px;padding:4px 10px}.container{padding:0 15px}.post-list>li{padding:16px}}
 
 
 /* ===== 物种详情页 ===== */

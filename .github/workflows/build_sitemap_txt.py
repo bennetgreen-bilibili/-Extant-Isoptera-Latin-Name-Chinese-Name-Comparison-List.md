@@ -31,7 +31,7 @@ ROOT = Path(__file__).resolve().parents[2]
 CONFIG = ROOT / "_config.yml"
 DEFAULT_OUT = ROOT / "sitemap.txt"
 
-# 中文核心页面在前，英文页随后；其余页面按路径排序追加
+# 中文核心页面在前，英文页、西语页随后；其余页面按路径排序追加
 CORE_ORDER = ["/", "/list/", "/stats/", "/data/", "/download/", "/blog/", "/guestbook/"]
 
 # 这些目录里不会有「页面」（下划线前缀由 Jekyll 自身排除，其余为静态资源/数据目录）
@@ -143,12 +143,13 @@ def build_sitemap() -> list[str]:
             ordered.append(core)
             page_set.discard(core)
     ordered += sorted(page_set)
-    # 英文页与中文页同构，紧跟中文页之后；其余页面已在上面按路径排序
+    # 英文页、西语页与中文页同构：先中文核心页，再英文页，最后西语页
 
     en_pages = [u for u in ordered if u.startswith("/en/")]
-    zh_pages = [u for u in ordered if u not in en_pages]
+    es_pages = [u for u in ordered if u.startswith("/es/")]
+    zh_pages = [u for u in ordered if u not in en_pages and u not in es_pages]
 
-    paths = zh_pages + en_pages
+    paths = zh_pages + en_pages + es_pages
     posts = discover_posts()
     species = sorted(discover_species(), key=str.casefold)
     paths += posts + species

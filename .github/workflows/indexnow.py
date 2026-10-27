@@ -174,6 +174,9 @@ def path_to_url(path, base):
     if p.startswith("en/") and p.endswith(".md"):
         stem = Path(p).stem
         return base + "/en/" + ("" if stem == "index" else stem + "/")
+    if p.startswith("es/") and p.endswith(".md"):
+        stem = Path(p).stem
+        return base + "/es/" + ("" if stem == "index" else stem + "/")
     if p.startswith("_posts/") and p.endswith(".md"):
         m = re.match(r"(\d{4})-(\d{2})-(\d{2})-(.+)\.md$", Path(p).name)
         if m:

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 博客（推文） — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-title_alt: Blog — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
 description: "作者的文章与更新说明：名录更新、分类讨论与参考文献导读，按日期倒序排列。"
 lang: zh-CN
 author: 班奈特格林
