@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Download — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+title_alt: 下载 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
 description: "Download area: files provided by the site, auto-listed from the repository downloads/ folder."
 lang: en
 author: 班奈特格林 (Bennet Green)

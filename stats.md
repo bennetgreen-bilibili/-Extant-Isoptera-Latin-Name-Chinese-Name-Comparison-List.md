@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 统计 — 现存等翅下目（白蚁）各阶元物种数
+title_alt: Statistics — Extant Isoptera (Termites) species counts by rank
 description: 现存等翅下目（白蚁）名录的各阶元物种数统计：13 科、18 亚科、323 属、3008 种、63 亚种，含科/亚科/属级明细表。
 lang: zh-CN
 author: 班奈特格林

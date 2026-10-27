@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 留言 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+title_alt: Guestbook — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
 description: "留言板：留下你的网名（GitHub 账号）和想说的话。"
 lang: zh-CN
 author: 班奈特格林

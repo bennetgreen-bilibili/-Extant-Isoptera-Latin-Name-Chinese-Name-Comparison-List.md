@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Blog — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "Author's articles and update notes. Word documents (.docx) are automatically converted into web posts, listed newest-first (same idea as the downloads/ folder)."
+title_alt: 博客（推文） — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+description: "Author's articles and update notes: checklist updates, classification notes and reference guides, newest first."
 lang: en
 author: 班奈特格林 (Bennet Green)
 permalink: /en/blog/
@@ -9,7 +10,7 @@ permalink: /en/blog/
 
 # Blog
 
-<p>Author's articles and update notes. Drop a Word document (<code>.docx</code>) or plain text (<code>.txt</code> / <code>.md</code>) into the <code>_inbox/</code> folder and push: GitHub Actions converts it into a web page automatically and this page lists it newest first — the same idea as the <code>downloads/</code> folder on the download page.</p>
+<p>Author's articles and update notes, newest first.</p>
 
 {% if site.posts.size > 0 %}
 <p><strong>{{ site.posts.size }}</strong> post(s):</p>

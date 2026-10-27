@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 结构化数据 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+title_alt: Structured Data — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
 description: 现存等翅下目（白蚁）名录的机器可读结构化数据（JSON）：入口 data/index.json 含完整分类树，其余按支系/科/亚科拆分为 22 个文件，均可独立访问与下载。
 lang: zh-CN
 author: 班奈特格林

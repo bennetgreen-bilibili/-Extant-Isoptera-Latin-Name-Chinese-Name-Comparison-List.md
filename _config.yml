@@ -1,4 +1,9 @@
-title: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+# 站点标题：title 为双语合并串（供取 site.title 的场合：分享卡片、外部工具），
+# title_zh / title_en 由 _layouts/default.html 的页头双语标题分两行渲染；
+# 页面级双语标题用各页 front matter 的 title_alt（见 README「双语标题」）。
+title: "现存等翅下目（白蚁）拉丁学名—中文正名对照名录 | Extant Isoptera (Termites) — Latin–Chinese Name Comparison List"
+title_zh: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+title_en: Extant Isoptera (Termites) — Latin–Chinese Name Comparison List
 description: >-
   双语（中文/English）
   现存等翅下目（白蚁）现生类群对照名录：13 科、18 亚科、323 属、3008 种、63 亚种。

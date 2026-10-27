@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 博客（推文） — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: "作者的文章与更新说明。Word 文档（docx）自动转换为网页文章，放入 _posts 文件夹即自动按日期倒序列出（与下载区 downloads 同理）。"
+title_alt: Blog — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+description: "作者的文章与更新说明：名录更新、分类讨论与参考文献导读，按日期倒序排列。"
 lang: zh-CN
 author: 班奈特格林
 permalink: /blog/
@@ -9,7 +10,7 @@ permalink: /blog/
 
 # 博客（推文）
 
-<p>这里列出作者的文章与更新说明。把 Word 文档（<code>.docx</code>）或纯文本（<code>.txt</code> / <code>.md</code>）放进仓库的 <code>_inbox/</code> 文件夹，推送后由 GitHub Actions 自动转成网页文章并发布，本页按日期倒序自动列出——和下载区自动列出 <code>downloads/</code> 文件夹里的文件是同一个道理。</p>
+<p>这里列出作者的文章与更新说明，按日期倒序排列。</p>
 
 {% if site.posts.size > 0 %}
 <p>当前共 <strong>{{ site.posts.size }}</strong> 篇：</p>

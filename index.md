@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+title_alt: Extant Isoptera (Termites) — Latin–Chinese Name Comparison List
 description: 现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3008 种、63 亚种的拉丁学名—中文正名，含名录检索、分类统计与按类群拆分的结构化数据。
 lang: zh-CN
 author: 班奈特格林

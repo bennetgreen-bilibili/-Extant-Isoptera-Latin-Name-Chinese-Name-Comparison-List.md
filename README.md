@@ -38,6 +38,10 @@
 
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
+- **双语标题**：
+  - 浏览器标签页 `<title>`＝`{{ page.title }} | {{ page.title_alt }}`（`_layouts/default.html`）。中文页的 `title_alt` 放英文标题、英文页放中文标题，主语言（本页语言）始终在前；物种页的 `title` 本身已是「拉丁学名 + 中文正名」，不需要 `title_alt`。
+  - 页头大标题与副标题分两行：主行＝页面语言，副行＝另一语言（衬线斜体）。站名文案只存在两处：`_config.yml` 的 `title_zh` / `title_en`（`site.title` 为双语合并串），改站名不需要动页面。
+  - 新增页面时：中文版写 `title` + `title_alt`（英文），英文版写 `title` + `title_alt`（中文），即可自动获得双语标题与 `<title>`。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）
 - `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3086 条：14 个页面 + 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件

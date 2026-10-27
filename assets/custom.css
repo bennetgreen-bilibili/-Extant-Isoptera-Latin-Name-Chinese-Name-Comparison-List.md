@@ -42,6 +42,11 @@ a{color:var(--accent)}
 .hero-title{margin:0 0 8px;font-size:24px;line-height:1.4;font-weight:700;letter-spacing:.5px}
 .hero-sub{margin:0;font-size:14px;opacity:.86;font-family:var(--font-serif)}
 .hero-sub b{font-weight:600}
+/* 双语标题：主行=页面语言，副行=另一语言（衬线斜体、稍小） */
+.hero-title-main{display:block}
+.hero-title-alt{display:block;margin-top:3px;font-size:17px;font-weight:500;letter-spacing:.2px;font-style:italic;font-family:var(--font-serif);opacity:.92}
+.hero-sub-main{display:block}
+.hero-sub-alt{display:block;margin-top:1px;font-size:.94em;font-style:italic;opacity:.82}
 
 /* ===== 吸顶导航 ===== */
 .site-nav{position:sticky;top:0;z-index:500;background:var(--card);border-bottom:1px solid var(--line);box-shadow:var(--shadow-sm)}
@@ -143,7 +148,7 @@ a{color:var(--accent)}
 .back-top{position:fixed;right:22px;bottom:24px;z-index:600;width:44px;height:44px;border-radius:50%;border:none;background:var(--accent);color:#fff;font-size:20px;cursor:pointer;box-shadow:var(--shadow-md);opacity:0;pointer-events:none;transition:opacity .2s,transform .2s}
 .back-top:hover{transform:translateY(-3px)}
 
-@media (max-width:640px){.hero-title{font-size:20px}.container{padding:0 15px}.post-list>li{padding:16px}}
+@media (max-width:640px){.hero-title{font-size:20px}.hero-title-alt{font-size:15px}.container{padding:0 15px}.post-list>li{padding:16px}}
 
 
 /* ===== 物种详情页 ===== */

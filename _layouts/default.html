@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ page.title }}</title>
+{%- comment -%} 页标题双语：page.title 为本站页面语言，page.title_alt 为另一语言（中文页放英文标题，英文页放中文标题） {%- endcomment -%}
+<title>{{ page.title }}{% if page.title_alt %} | {{ page.title_alt }}{% endif %}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="canonical" href="{{ site.base_url }}{{ page.url }}">
 {% if site.dataset.doi %}{%- comment -%} FAIR signposting：站点页面指向数据集 DOI，便于 DataCite / Google Dataset Search 关联 {%- endcomment -%}
@@ -42,6 +43,26 @@
 {% assign LANGP = '' %}
 {% endif %}
 
+{%- comment -%}
+  页头双语标题：主行 = 页面语言（page.lang），副行 = 另一语言。
+  两条文案统一取自 _config.yml 的 title_zh / title_en，避免各页各写一份。
+{%- endcomment -%}
+{%- if page.lang == 'en' -%}
+{%- assign hero_title_main = site.title_en | default: site.title -%}
+{%- assign hero_title_main_lang = 'en' -%}
+{%- assign hero_title_alt = site.title_zh | default: site.title -%}
+{%- assign hero_title_alt_lang = 'zh-CN' -%}
+{%- assign hero_sub_main = 'Latin names · Chinese names · bilingual checklist — 13 families · 18 subfamilies · 323 genera · 3008 species · 63 subspecies' -%}
+{%- assign hero_sub_alt = '拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种' -%}
+{%- else -%}
+{%- assign hero_title_main = site.title_zh | default: site.title -%}
+{%- assign hero_title_main_lang = 'zh-CN' -%}
+{%- assign hero_title_alt = site.title_en | default: site.title -%}
+{%- assign hero_title_alt_lang = 'en' -%}
+{%- assign hero_sub_main = '拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种' -%}
+{%- assign hero_sub_alt = 'Latin names · Chinese names · bilingual checklist — 13 families · 18 subfamilies · 323 genera · 3008 species · 63 subspecies' -%}
+{%- endif -%}
+
 <header class="hero">
   <div class="container hero-inner">
     <div class="hero-top">
@@ -52,11 +73,20 @@
       </div>
     </div>
     {% if page.url == '/' or page.url == '/en/' %}
-    <h1 class="hero-title">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</h1>
+    <h1 class="hero-title">
+      <span class="hero-title-main" lang="{{ hero_title_main_lang }}">{{ hero_title_main }}</span>
+      <span class="hero-title-alt" lang="{{ hero_title_alt_lang }}">{{ hero_title_alt }}</span>
+    </h1>
     {% else %}
-    <div class="hero-title">现存等翅下目（白蚁）拉丁学名—中文正名对照名录</div>
+    <div class="hero-title">
+      <span class="hero-title-main" lang="{{ hero_title_main_lang }}">{{ hero_title_main }}</span>
+      <span class="hero-title-alt" lang="{{ hero_title_alt_lang }}">{{ hero_title_alt }}</span>
+    </div>
     {% endif %}
-    <p class="hero-sub">拉丁学名 · 中文正名 · 双语对照 —— 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种</p>
+    <p class="hero-sub">
+      <span class="hero-sub-main" lang="{{ hero_title_main_lang }}">{{ hero_sub_main }}</span>
+      <span class="hero-sub-alt" lang="{{ hero_title_alt_lang }}">{{ hero_sub_alt }}</span>
+    </p>
   </div>
 </header>
 
