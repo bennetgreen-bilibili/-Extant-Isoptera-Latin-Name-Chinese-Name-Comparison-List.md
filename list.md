@@ -11,6 +11,22 @@ permalink: /list/
 ---
 # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.17）正式版
 
+## 分类框架
+
+本名录全部类群同属一个分类框架，自上而下为：
+
+1. **域 Domain**：真核域 Eukaryota
+2. **界 Kingdom**：动物界 Animalia
+3. **门 Phylum**：节肢动物门 Arthropoda
+4. **纲 Class**：昆虫纲 Insecta
+5. **亚纲 Subclass**：有翅亚纲 Pterygota
+6. **下纲 Infraclass**：新翅下纲 Neoptera
+7. **总目 Superorder**：网翅总目 Dictyoptera
+8. **目 Order**：蜚蠊目 Blattodea
+9. **下目 Infraorder**：等翅下目 Isoptera（白蚁领科 Termitoidae）
+
+其下依次为 **科 Family** → **亚科 Subfamily** → **属 Genus** → **种 Species**；各科、亚科、属、种详见下方名录。
+
 <div class="search-wrap">
   <input type="search" id="search-input" class="search-input" placeholder="搜索中文名、拉丁学名或次异名（如：Mastotermes、达尔文澳白蚁、Termes destructor、白蚁科、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
   <ul id="search-results" class="search-results" style="display:none"></ul>

@@ -11,6 +11,22 @@ permalink: /en/list/
 ---
 # Extant Isoptera (Termites) — Latin–Chinese Name Comparison List (2026.10.17) Final Version
 
+## Taxonomic framework
+
+All taxa in this list belong to a single taxonomic framework, from top to bottom:
+
+1. **Domain** — Eukaryota
+2. **Kingdom** — Animalia
+3. **Phylum** — Arthropoda
+4. **Class** — Insecta
+5. **Subclass** — Pterygota
+6. **Infraclass** — Neoptera
+7. **Superorder** — Dictyoptera
+8. **Order** — Blattodea (cockroaches and termites)
+9. **Infraorder** — Isoptera (epifamily Termitoidae)
+
+Below follow **Family** → **Subfamily** → **Genus** → **Species**; the families, subfamilies, genera and species are listed below.
+
 <div class="search-wrap">
   <input type="search" id="search-input" class="search-input" placeholder="Search scientific name, Chinese name or junior synonym (e.g., Mastotermes, Termitidae, Termes destructor)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/" data-empty="No results found">
   <ul id="search-results" class="search-results" style="display:none"></ul>

@@ -11,6 +11,22 @@ permalink: /es/list/
 ---
 # Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos (2026.10.17) — versión definitiva
 
+## Marco taxonómico
+
+Todos los taxones de este listado pertenecen a un único marco taxonómico, de arriba abajo:
+
+1. **Dominio** — Eukaryota
+2. **Reino** — Animalia
+3. **Filo** — Arthropoda
+4. **Clase** — Insecta
+5. **Subclase** — Pterygota
+6. **Infraclase** — Neoptera
+7. **Superorden** — Dictyoptera
+8. **Orden** — Blattodea (cucarachas y termitas)
+9. **Infraorden** — Isoptera (epifamilia Termitoidae)
+
+Debajo siguen **Familia** → **Subfamilia** → **Género** → **Especie**; las familias, subfamilias, géneros y especies se enumeran a continuación.
+
 <div class="search-wrap">
   <input type="search" id="search-input" class="search-input" placeholder="Buscar nombre científico, nombre chino o sinónimo junior (p. ej., Mastotermes, Termitidae, Termes destructor)" autocomplete="off" aria-label="Buscar en el listado" data-lang="es" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/list/" data-empty="Sin resultados">
   <ul id="search-results" class="search-results" style="display:none"></ul>
