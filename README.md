@@ -61,9 +61,11 @@
 - 本地预览（`jekyll serve`）没有跑 Pagefind，搜索页会显示「索引尚未生成」的回退提示，其余功能不受影响；不生成索引时代码不会报错。
 - 索引产物不进仓库（由 CI 生成、随 artifact 部署），因此仓库不变大。
 
-### 3. 访问统计：GoatCounter（可选，默认关闭）
-- 开源、无 Cookie、可自托管的访问统计。在 `_data/analytics.yml` 的 `goatcounter.site` 填上站点代码（如 `bennetgreen`）即启用；留空则不加载任何统计脚本。
-- 自托管把 `host` 改成自己的域名；`count_local: true` 时本地预览也计数。
+### 3. 访问统计：GoatCounter（已启用，站点代码 `bennetgreen`）
+- 开源、无 Cookie、可自托管的访问统计，面板：<https://bennetgreen.goatcounter.com>。
+- 配置在 `_data/analytics.yml`，两个字段对应 goatcounter.com 给出的官方片段：`count_url` → `data-goatcounter="https://bennetgreen.goatcounter.com/count"`，`script_src` → `src="https://gc.zgo.at/count.js"`。**把 `count_url` 置空即停用**，页面完全不输出统计脚本。
+- `count_local: true` 时才统计本地预览（默认 `false`，线上不受影响）。自托管时把两个字段改成自己的域名即可。
+- 统计脚本只上报页面路径、不写 Cookie；如需向访客明示，可在页脚或独立页面加一句声明。
 
 ### 4. 引用与导出（`_includes/citation.html` + `assets/site.js`）
 - 三个数据页（`data.md` / `en/data.md` / `es/data.md`）通过 `{% include citation.html %}` 插入「引用与导出」区块：GB/T 7714 风格与 BibTeX 各一段，带「复制」按钮（`setupCitations()`，含 `document.execCommand` 回退）；另有 CITATION.cff、DataCite XML、数据集 README 的导入入口。

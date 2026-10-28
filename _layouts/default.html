@@ -135,13 +135,17 @@
 {% endif %}
 <script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
 <script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>
-{%- comment -%} 访问统计：_data/analytics.yml 里填了 GoatCounter 站点代码才加载，默认不统计 {%- endcomment -%}
+{%- comment -%}
+  访问统计（GoatCounter，开源无 Cookie）：_data/analytics.yml 的 count_url / script_src；
+  对应官方片段 <script data-goatcounter="…" async src="//gc.zgo.at/count.js">。
+  count_url 留空则不输出任何统计脚本。
+{%- endcomment -%}
 {%- assign gc = site.data.analytics.goatcounter -%}
-{%- if gc.site.size > 0 %}
+{%- if gc.count_url.size > 0 %}
 {%- if gc.count_local %}
 <script>window.goatcounter = window.goatcounter || {}; window.goatcounter.allow_local = true;</script>
 {%- endif %}
-<script data-goatcounter="https://{{ gc.site }}.{{ gc.host }}{{ gc.path }}" async src="https://{{ gc.site }}.{{ gc.host }}/count.js"></script>
+<script data-goatcounter="{{ gc.count_url }}" async src="{{ gc.script_src }}"></script>
 {%- endif %}
 </body>
 </html>
