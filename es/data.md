@@ -36,6 +36,9 @@ permalink: /es/data/
 
 <p>El archivo está preparado para el depósito del DOI (incluye README, metadatos DataCite, licencia CC BY 4.0 y sumas de verificación SHA-256); el DOI permanente aparecerá en esta sección y en el pie del sitio una vez asignado.</p>{% endif %}
 
+{% include citation.html %}
+
+
 ## Por clado / familia
 
 <ul>

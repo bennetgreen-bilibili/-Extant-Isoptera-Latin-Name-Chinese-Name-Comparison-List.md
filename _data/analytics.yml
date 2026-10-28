@@ -1,0 +1,17 @@
+# 访问统计（可选）：GoatCounter —— 开源、无 Cookie、不收集个人数据的网站统计
+#
+# 启用步骤：
+#   1. 到 https://www.goatcounter.com/ 免费注册（或用 Docker 自托管）；
+#   2. 把站点代码填到下面的 site（例如注册名 bennetgreen，则统计面板是
+#      https://bennetgreen.goatcounter.com）；
+#   3. 提交后 CI 重新构建，页面底部会加载 https://<site>.goatcounter.com/count.js。
+#
+# 留空（site: ""）时整段脚本不会输出，站点保持零第三方统计。
+#
+# 自托管：把 host 改成自己的域名（如 stats.example.com），path 一般保持 /count。
+goatcounter:
+  site: ""
+  host: "goatcounter.com"
+  path: "/count"
+  # 是否统计本地预览（jekyll serve）的访问：false 表示只在正式域名下计数
+  count_local: false

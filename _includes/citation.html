@@ -1,0 +1,75 @@
+{%- comment -%}
+  引用与导出（数据页共用的引用区块，按页面语言切换文案）
+  数据源：_config.yml 的 site.dataset（doi / concept_doi / version / publisher）；铸造新 DOI 后无需改本文件。
+  复制按钮由 assets/site.js 的 setupCitations() 绑定（.cite-block > pre.cite-text + button.cite-copy）。
+{%- endcomment -%}
+{%- if page.lang == 'en' -%}
+<h3 id="citation">Citation &amp; export</h3>
+<p>The archived dataset is licensed CC BY 4.0 — please keep the DOI and the version number in any citation. Copy a format below, or import the metadata file into your reference manager.</p>
+
+<div class="cite-block">
+<pre class="cite-text">Bennet Green. Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version {{ site.dataset.version }}) [Data set]. {{ site.dataset.publisher }}; {{ site.dataset.version | slice: 0, 4 }}. https://doi.org/{{ site.dataset.doi }}</pre>
+<button class="cite-copy" type="button" data-label="Copy GB/T 7714–style" data-copied-label="Copied">Copy GB/T 7714–style</button>
+</div>
+
+<div class="cite-block">
+<pre class="cite-text">@misc{extantisoptera{{ site.dataset.version | remove: '.' }},
+  author    = {班奈特格林 and Green, Bennet},
+  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names},
+  year      = {{ "{" }}{{ site.dataset.version | slice: 0, 4 }}{{ "}" }},
+  version   = {{ "{" }}{{ site.dataset.version }}{{ "}" }},
+  publisher = {Zenodo},
+  doi       = {{ "{" }}{{ site.dataset.doi }}{{ "}" }},
+  url       = {{ "{" }}https://doi.org/{{ site.dataset.doi }}{{ "}" }}
+}</pre>
+<button class="cite-copy" type="button" data-label="Copy BibTeX" data-copied-label="Copied">Copy BibTeX</button>
+</div>
+
+<p class="cite-note">Other imports: <a href="{{ site.base_url }}/CITATION.cff">CITATION.cff</a> (Zotero, GitHub “Cite this repository”), <a href="{{ site.base_url }}/dataset/datacite-metadata.xml">DataCite XML</a>, <a href="{{ site.base_url }}/dataset/README.md">dataset README</a> (APA in Chinese and English, plus BibTeX).</p>
+{%- elsif page.lang == 'es' -%}
+<h3 id="citation">Citación y exportación</h3>
+<p>El conjunto de datos archivado tiene licencia CC BY 4.0: conserve el DOI y el número de versión en cualquier citación. Copie un formato abajo o importe el archivo de metadatos en su gestor de referencias.</p>
+
+<div class="cite-block">
+<pre class="cite-text">Bennet Green. Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (versión {{ site.dataset.version }}) [Conjunto de datos]. {{ site.dataset.publisher }}; {{ site.dataset.version | slice: 0, 4 }}. https://doi.org/{{ site.dataset.doi }}</pre>
+<button class="cite-copy" type="button" data-label="Copiar estilo GB/T 7714" data-copied-label="Copiado">Copiar estilo GB/T 7714</button>
+</div>
+
+<div class="cite-block">
+<pre class="cite-text">@misc{extantisoptera{{ site.dataset.version | remove: '.' }},
+  author    = {班奈特格林 and Green, Bennet},
+  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names},
+  year      = {{ "{" }}{{ site.dataset.version | slice: 0, 4 }}{{ "}" }},
+  version   = {{ "{" }}{{ site.dataset.version }}{{ "}" }},
+  publisher = {Zenodo},
+  doi       = {{ "{" }}{{ site.dataset.doi }}{{ "}" }},
+  url       = {{ "{" }}https://doi.org/{{ site.dataset.doi }}{{ "}" }}
+}</pre>
+<button class="cite-copy" type="button" data-label="Copiar BibTeX" data-copied-label="Copiado">Copiar BibTeX</button>
+</div>
+
+<p class="cite-note">Otras importaciones: <a href="{{ site.base_url }}/CITATION.cff">CITATION.cff</a> (Zotero, «Cite this repository» de GitHub), <a href="{{ site.base_url }}/dataset/datacite-metadata.xml">DataCite XML</a> y <a href="{{ site.base_url }}/dataset/README.md">README del conjunto de datos</a> (APA en chino e inglés, más BibTeX).</p>
+{%- else -%}
+<h3 id="citation">引用与导出 <span class="fact-en">Citation &amp; export</span></h3>
+<p>归档数据集采用 CC BY 4.0 许可，引用时请保留 DOI 与版本号；下方格式可直接复制，也可把元数据文件导入文献管理器。</p>
+
+<div class="cite-block">
+<pre class="cite-text">班奈特格林. 现存等翅下目（白蚁）拉丁学名—中文正名对照名录：{{ site.dataset.version }} 版[DS/OL]. {{ site.dataset.publisher }}, {{ site.dataset.version | slice: 0, 4 }}. https://doi.org/{{ site.dataset.doi }}.</pre>
+<button class="cite-copy" type="button" data-label="复制 GB/T 7714" data-copied-label="已复制">复制 GB/T 7714</button>
+</div>
+
+<div class="cite-block">
+<pre class="cite-text">@misc{extantisoptera{{ site.dataset.version | remove: '.' }},
+  author    = {班奈特格林},
+  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names},
+  year      = {{ "{" }}{{ site.dataset.version | slice: 0, 4 }}{{ "}" }},
+  version   = {{ "{" }}{{ site.dataset.version }}{{ "}" }},
+  publisher = {Zenodo},
+  doi       = {{ "{" }}{{ site.dataset.doi }}{{ "}" }},
+  url       = {{ "{" }}https://doi.org/{{ site.dataset.doi }}{{ "}" }}
+}</pre>
+<button class="cite-copy" type="button" data-label="复制 BibTeX" data-copied-label="已复制">复制 BibTeX</button>
+</div>
+
+<p class="cite-note">其他导入方式：<a href="{{ site.base_url }}/CITATION.cff">CITATION.cff</a>（Zotero、GitHub「Cite this repository」）、<a href="{{ site.base_url }}/dataset/datacite-metadata.xml">DataCite XML</a>、<a href="{{ site.base_url }}/dataset/README.md">数据集 README</a>（含 APA 中英文与 BibTeX）。</p>
+{%- endif -%}

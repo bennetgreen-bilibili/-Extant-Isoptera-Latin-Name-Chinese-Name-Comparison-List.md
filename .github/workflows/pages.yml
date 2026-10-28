@@ -41,6 +41,14 @@ jobs:
       - name: Build sitemap.txt
         run: python .github/workflows/build_sitemap_txt.py
 
+      # 拼音 / 繁体是可选增强：装不上时 build_search_index.py 会自动跳过，不阻断部署
+      - name: Install search index libraries (pinyin / traditional Chinese)
+        continue-on-error: true
+        run: pip install pypinyin opencc-python-reimplemented
+
+      - name: Build search index (adds pinyin and traditional Chinese fields)
+        run: python .github/workflows/build_search_index.py --write
+
       - name: Build dataset package (DOI export)
         run: python .github/workflows/build_dataset.py --write
 
@@ -52,6 +60,25 @@ jobs:
         with:
           source: ./
           destination: ./_site
+
+      # 全站全文检索：Pagefind 在 Jekyll 产物上生成静态索引 /pagefind/
+      # extended 版才带中文 / 日文分词支持，务必装 [extended] 额外包。
+      - name: Install Pagefind (extended: Chinese tokenizer)
+        continue-on-error: true
+        run: pip install "pagefind[extended]==1.5.2"
+
+      # 全文检索索引失败时不阻断发布：搜索页会显示「索引尚未生成」的回退提示
+      - name: Index site with Pagefind
+        continue-on-error: true
+        run: python -m pagefind --site _site
+
+      - name: Verify Pagefind bundle
+        run: |
+          if test -f _site/pagefind/pagefind.js && test -f _site/pagefind/pagefind-ui.js; then
+            echo "Pagefind bundle OK: $(du -sh _site/pagefind | cut -f1)"
+          else
+            echo "::warning::Pagefind bundle missing — full-text search page will show its fallback"
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

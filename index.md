@@ -199,6 +199,7 @@ permalink: /
 
 <ul>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/"><strong>名录</strong></a> — 全部类群对照名录（支系—科—亚科—属—种，含分布与参考文献）。</li>
+  <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search/"><strong>全文搜索</strong></a> — 全站检索：名录、3071 个物种页、统计、数据与博客（支持繁体与拼音）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/"><strong>统计</strong></a> — 各阶元（科/亚科/属/种）物种数统计表。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/"><strong>数据</strong></a> — 机器可读结构化数据（JSON，按类群拆分，逐文件可访问）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>

@@ -10,6 +10,7 @@ zh-CN:
   nav_label: 主导航
   nav_home: 首页
   nav_list: 名录
+  nav_search: 全文搜索
   nav_stats: 统计
   nav_data: 数据
   nav_download: 下载
@@ -28,6 +29,7 @@ en:
   nav_label: Main navigation
   nav_home: Home
   nav_list: List
+  nav_search: Search
   nav_stats: Statistics
   nav_data: Data
   nav_download: Download
@@ -46,6 +48,7 @@ es:
   nav_label: Navegación principal
   nav_home: Inicio
   nav_list: Listado
+  nav_search: Búsqueda
   nav_stats: Estadísticas
   nav_data: Datos
   nav_download: Descargas

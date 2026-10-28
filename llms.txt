@@ -10,6 +10,7 @@
 ## 关键页面（中文）
 - [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
 - [名录（完整对照表：支系—科—亚科—属—种，含属级嵌套目录）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
+- [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
 - [数据（机器可读结构化数据 JSON，按支系/科/亚科拆分，逐文件可访问）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
@@ -19,6 +20,7 @@
 ## Key pages (English)
 - [Home (about + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
 - [List (full checklist: clade–family–subfamily–genus–species)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/)
+- [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/search/)
 - [Statistics (species counts by family/subfamily/genus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/)
 - [Data (machine-readable structured data JSON, split by taxon)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/data/)
 - [Download (files in downloads/ folder)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/)
@@ -30,6 +32,7 @@
 ## Páginas principales (Español)
 - [Inicio (presentación + navegación)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/)
 - [Listado (lista comparativa completa: clado–familia–subfamilia–género–especie)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/list/)
+- [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/search/)
 - [Estadísticas (número de especies por rango: familia/subfamilia/género)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/stats/)
 - [Datos (datos estructurados legibles por máquina, JSON, divididos por taxón)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/data/)
 - [Descargas (archivos de la carpeta downloads/)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/download/)

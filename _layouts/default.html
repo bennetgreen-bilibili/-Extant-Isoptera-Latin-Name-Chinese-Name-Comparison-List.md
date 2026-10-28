@@ -25,7 +25,9 @@
 <link rel="alternate" hreflang="es" href="{{ site.base_url }}/es{{ path_no_lang }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ path_no_lang }}">
 {% endif %}{% endunless %}
-<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
+{%- comment -%} 全文搜索页（pagefind: true）：Pagefind 的样式与脚本由 CI 在 _site/pagefind/ 生成 {%- endcomment -%}
+{% if page.pagefind %}<link rel="stylesheet" href="{{ site.base_url }}/pagefind/pagefind-ui.css">
+{% endif %}<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
 </head>
 <body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
 
@@ -71,7 +73,7 @@
 {%- assign url_es = '/es' | append: path_no_lang -%}
 {%- endif -%}
 
-<header class="hero">
+<header class="hero" data-pagefind-ignore>
   <div class="container hero-inner">
     <div class="hero-top">
       <a class="hero-brand" href="{{ site.base_url }}{{ LANGP }}/">{{ T.brand }} <span class="hero-brand-sub">{{ T.brand_sub }}</span></a>
@@ -99,10 +101,11 @@
   </div>
 </header>
 
-<nav class="site-nav" aria-label="{{ T.nav_label }}">
+<nav class="site-nav" aria-label="{{ T.nav_label }}" data-pagefind-ignore>
   <div class="container nav-inner">
     <a href="{{ site.base_url }}{{ LANGP }}/" class="nav-link{% if path_no_lang == '/' %} active{% endif %}">{{ T.nav_home }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{{ T.nav_list }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/search/" class="nav-link{% if page.url contains '/search' %} active{% endif %}">{{ T.nav_search }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{{ T.nav_stats }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/data/" class="nav-link{% if page.url contains '/data' %} active{% endif %}">{{ T.nav_data }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>
@@ -111,22 +114,34 @@
   </div>
 </nav>
 
-<main class="content-wrap">
+<main class="content-wrap" data-pagefind-body>
   <div class="container content">
     {{ content }}
   </div>
 </main>
 
-<footer class="site-footer">
+<footer class="site-footer" data-pagefind-ignore>
   <div class="container footer-inner">
     <p class="footer-line">{{ T.footer_copy }}</p>
     <p class="footer-line footer-sub">{{ T.footer_note }}{% if site.dataset.doi %} · <a href="https://doi.org/{{ site.dataset.doi }}">{{ T.footer_doi }}: {{ site.dataset.doi }}</a>{% endif %}</p>
   </div>
 </footer>
 
-<button class="back-top" id="back-top" aria-label="{{ T.back_top }}" title="{{ T.back_top }}">↑</button>
+<button class="back-top" id="back-top" aria-label="{{ T.back_top }}" title="{{ T.back_top }}" data-pagefind-ignore>↑</button>
 
+{% if page.pagefind %}
+<script src="{{ site.base_url }}/pagefind/pagefind-ui.js" defer></script>
+<script src="{{ site.base_url }}/assets/search-page.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}
 <script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
 <script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>
+{%- comment -%} 访问统计：_data/analytics.yml 里填了 GoatCounter 站点代码才加载，默认不统计 {%- endcomment -%}
+{%- assign gc = site.data.analytics.goatcounter -%}
+{%- if gc.site.size > 0 %}
+{%- if gc.count_local %}
+<script>window.goatcounter = window.goatcounter || {}; window.goatcounter.allow_local = true;</script>
+{%- endif %}
+<script data-goatcounter="https://{{ gc.site }}.{{ gc.host }}{{ gc.path }}" async src="https://{{ gc.site }}.{{ gc.host }}/count.js"></script>
+{%- endif %}
 </body>
 </html>

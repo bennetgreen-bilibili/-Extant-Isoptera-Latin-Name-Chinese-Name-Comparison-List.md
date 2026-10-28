@@ -36,6 +36,9 @@ permalink: /en/data/
 
 <p>The archive is prepared for DOI deposition (README, DataCite metadata, CC BY 4.0 license and SHA-256 checksums included); the permanent DOI will be shown in this section and in the site footer once minted.</p>{% endif %}
 
+{% include citation.html %}
+
+
 ## By clade / family
 
 <ul>

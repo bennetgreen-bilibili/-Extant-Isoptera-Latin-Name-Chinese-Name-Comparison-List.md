@@ -28,9 +28,11 @@ permalink: /list/
 其下依次为 **科 Family** → **亚科 Subfamily** → **属 Genus** → **种 Species**；各科、亚科、属、种详见下方名录。
 
 <div class="search-wrap">
-  <input type="search" id="search-input" class="search-input" placeholder="搜索中文名、拉丁学名或次异名（如：Mastotermes、达尔文澳白蚁、Termes destructor、白蚁科、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
+  <input type="search" id="search-input" class="search-input" placeholder="搜索中文名、拉丁学名、次异名，支持拼音与繁体（如：Mastotermes、达尔文澳白蚁、baiyi、白蟻、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
   <ul id="search-results" class="search-results" style="display:none"></ul>
 </div>
+
+<p class="search-hint">可直接输入拼音（如 <code>baiyi</code>）或繁体中文检索；名录之外的内容（博客、物种页等）见 <a href="{{ site.base_url }}/search/">全站全文搜索</a>。</p>
 
 <h2 id="toc">目录</h2>
 
@@ -3801,6 +3803,11 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 的后肠是研究高等白蚁肠道厌氧发酵与产甲烷微生物区系的经典材料(49)。
 
 经济上本亚科全系食土类群，其垅巢在湿润牧场边缘密生时可能占压土地(50)。
+<figure class="taxa-illustration">
+  <img src="{{ site.base_url }}/assets/images/cubitermitinae.jpg" alt="Cubitermes sp. 方白蚁" loading="lazy">
+  <figcaption><i>Cubitermes</i> sp. 方白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/250109235">Rob Palmer</a> · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>（iNaturalist，已缩放）</figcaption>
+</figure>
+
 <h5 id="apilitermes">无毛白蚁属 Apilitermes</h5>
 
 \*[*Apilitermes longiceps* 长头无毛白蚁]({{ site.base_url }}/species/apilitermes-longiceps/)
@@ -4164,6 +4171,11 @@ Cephalotermes 垅巢群体）。
 经济上，
 圆筒白蚁属 Cylindrotermes nordenskioeldi
 在巴西东北部甘蔗田被判定为有害(51)。
+<figure class="taxa-illustration">
+  <img src="{{ site.base_url }}/assets/images/cylindrotermitinae.jpg" alt="Cylindrotermes sp. 圆筒白蚁" loading="lazy">
+  <figcaption><i>Cylindrotermes</i> sp. 圆筒白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/330656812">portioid</a> · <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（iNaturalist，已缩放）</figcaption>
+</figure>
+
 <h5 id="cephalotermes">头白蚁属 Cephalotermes</h5>
 
 \*[*Cephalotermes rectangularis* 直角头白蚁]({{ site.base_url }}/species/cephalotermes-rectangularis/)
@@ -7176,6 +7188,11 @@ Schievitermes），
 经济上，
 新扭白蚁属 Neocapritermes opacus
 在巴西圣保罗州甘蔗田为最常见白蚁种类(71)。
+<figure class="taxa-illustration">
+  <img src="{{ site.base_url }}/assets/images/neocapritermitinae.jpg" alt="Neocapritermes sp. 新扭白蚁" loading="lazy">
+  <figcaption><i>Neocapritermes</i> sp. 新扭白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/401639346">Léa Maria Steffen S. Fernandes</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
+</figure>
+
 <h5 id="neocapritermes">新扭白蚁属 Neocapritermes</h5>
 
 [*Neocapritermes angusticeps* 窄头新扭白蚁]({{ site.base_url }}/species/neocapritermes-angusticeps/)
@@ -7341,6 +7358,11 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 以此可区别于具兵蚁的圆筒白蚁亚科。
 因无兵蚁品级、形态特化，该亚科长期分类位置未定；分子分析显示两属构成单系群(21)。
 作为无兵蚁高等白蚁的东洋界代表，本亚科对理解兵蚁品级丢失的平行演化有一定意义。
+<figure class="taxa-illustration">
+  <img src="{{ site.base_url }}/assets/images/protohamitermitinae.jpg" alt="Protohamitermes globiceps 球头始钩白蚁" loading="lazy">
+  <figcaption><i>Protohamitermes globiceps</i> 球头始钩白蚁 · 图源 <a href="https://termitesandants.blogspot.com/2012/01/protohamitermes-globiceps.html">Termites and Ants of Malaysia</a></figcaption>
+</figure>
+
 <h5 id="orientotermes">东方白蚁属 Orientotermes</h5>
 
 \*[*Orientotermes emersoni* 埃默森东方白蚁]({{ site.base_url }}/species/orientotermes-emersoni/)
@@ -7403,6 +7425,11 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 并在巴西马托格罗索州造成柚木（Tectona grandis）人工林茎干损伤(76)；
 前角白蚁属在阿根廷玉米田有发生记录。
 Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
+<figure class="taxa-illustration">
+  <img src="{{ site.base_url }}/assets/images/syntermitinae.jpg" alt="Rhynchotermes perarmatus 全武喙白蚁" loading="lazy">
+  <figcaption><i>Rhynchotermes perarmatus</i> 全武喙白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/395432001">aeon2012</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
+</figure>
+
 <h5 id="acangaobitermes">漏斗白蚁属 Acangaobitermes</h5>
 
 \*[*Acangaobitermes krishnai* 克里希纳漏斗白蚁]({{ site.base_url }}/species/acangaobitermes-krishnai/)

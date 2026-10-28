@@ -6,13 +6,14 @@
 | 文件 | 页面 |
 |---|---|
 | `index.md` | 首页：简介（作者/版本/引用格式）+ 页面导航 + JSON-LD |
-| `list.md` | 名录：搜索框（中文/拉丁名/次异名检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
+| `list.md` | 名录：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
+| `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
-| `en/*.md` | 英文版：与上表一一对应的 7 个页面（`en/index.md` … `en/guestbook.md`，permalink `/en/…/`） |
-| `es/*.md` | 西班牙语版：与上表一一对应的 7 个页面（`es/index.md` … `es/guestbook.md`，permalink `/es/…/`） |
+| `en/*.md` | 英文版：与上表一一对应的 8 个页面（`en/index.md` … `en/search.md`，permalink `/en/…/`） |
+| `es/*.md` | 西班牙语版：与上表一一对应的 8 个页面（`es/index.md` … `es/search.md`，permalink `/es/…/`） |
 
 ## 多语言（中文 / English / Español）
 - 三种语言一套模板：`_layouts/default.html` 读页面 front matter 的 `lang`（`zh-CN` / `en` / `es`）决定语言前缀、导航、页脚与语言切换；页面路径去掉 `/en`、`/es` 前缀后同构，`hreflang` 与语言切换链接都由它推导。
@@ -26,7 +27,7 @@
 - 入口：`data/index.json`（分类树 + 全部文件清单）
 - `data/mastotermitidae.json`、`data/teletisoptera.json`、`data/kalotermitidae.json`、`data/neoisoptera-excl-termitidae.json`
 - `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）
-- `search-index.json`（检索索引，供名录页搜索框）
+- `search-index.json`（检索索引，供名录页搜索框；由 `.github/workflows/build_search_index.py` 从 `list.md` + `_species/` 生成，见下文「站内检索与开源组件」）
 
 ## 归档数据集与 DOI（dataset/）
 - 生成脚本：`.github/workflows/build_dataset.py`（只用标准库，确定性输出，可 `--check`）。产物：
@@ -43,14 +44,39 @@
 - 完整操作流程（Zenodo 预留 DOI 的先后顺序、GBIF checklist 二次发布、ScienceDB 国内路线、Google Dataset Search 收录、常见坑）：见 `_tools/数据集DOI与归档发布指南.md`。
 - 逐步操作单（照抄的字段值、可复制命令、发布后验收脚本）：见 `_tools/Zenodo发布逐步操作手册.md`。
 
+## 站内检索与开源组件
+
+站点用到两个开源检索/统计组件，都不需要数据库或后端服务：
+
+### 1. 名录检索：拼音 + 繁体（`.github/workflows/build_search_index.py` + `assets/search.js`）
+- 索引 `search-index.json` 由脚本从 `list.md`（类群标题与种/亚种条目、页面顺序）与 `_species/`（亚种中文名、次异名）生成，**确定性输出**，可用 `--check` 校验。
+- 字段：`l` 拉丁名、`z` 中文名、`r` 阶元、`h` 锚点、`s` 次异名、`p` 物种页 slug，以及三个可选增强字段：`py`（拼音连写，如 `daerwenaobaiyi`）、`pi`（拼音首字母）、`zt`（繁体写法）。
+- 增强字段由 CI 安装 **pypinyin**（拼音）与 **OpenCC**（简→繁）后在构建时补上：`pip install pypinyin opencc-python-reimplemented`。本地未装依赖时脚本自动跳过增强字段照常生成基础索引（不报错），所以仓库内的 `search-index.json` 是基础版；部署版由 CI 重新生成。
+- 前端 `assets/search.js` 依次匹配：拉丁名 / 中文名 / 次异名 / 繁体 / 拼音全拼 / 拼音首字母；无结果时给出「在全站全文搜索中查找」的跳转入口。命令：`python .github/workflows/build_search_index.py [--write|--check|--no-enrich]`。
+
+### 2. 全文搜索：Pagefind（`.github/workflows/pages.yml` + `assets/search-page.js`）
+- [Pagefind](https://pagefind.app/) 在 Jekyll 构建**之后**扫描 `_site` 生成静态索引 `_site/pagefind/`（CI 步骤：`pip install "pagefind[extended]==1.5.2"` → `python -m pagefind --site _site`）。
+- 必须用 **extended** 版：普通版不带中文/日文分词，中文检索效果差。
+- 页面 `search.md` / `en/search.md` / `es/search.md` 的 front matter 里有 `pagefind: true`，`_layouts/default.html` 据此加载 `/pagefind/pagefind-ui.css`、`pagefind-ui.js` 与 `assets/search-page.js`；`bundlePath` 与 `baseUrl` 都带上站点 `baseurl`，因此站点部署在子路径下也能用。
+- 本地预览（`jekyll serve`）没有跑 Pagefind，搜索页会显示「索引尚未生成」的回退提示，其余功能不受影响；不生成索引时代码不会报错。
+- 索引产物不进仓库（由 CI 生成、随 artifact 部署），因此仓库不变大。
+
+### 3. 访问统计：GoatCounter（可选，默认关闭）
+- 开源、无 Cookie、可自托管的访问统计。在 `_data/analytics.yml` 的 `goatcounter.site` 填上站点代码（如 `bennetgreen`）即启用；留空则不加载任何统计脚本。
+- 自托管把 `host` 改成自己的域名；`count_local: true` 时本地预览也计数。
+
+### 4. 引用与导出（`_includes/citation.html` + `assets/site.js`）
+- 三个数据页（`data.md` / `en/data.md` / `es/data.md`）通过 `{% include citation.html %}` 插入「引用与导出」区块：GB/T 7714 风格与 BibTeX 各一段，带「复制」按钮（`setupCitations()`，含 `document.execCommand` 回退）；另有 CITATION.cff、DataCite XML、数据集 README 的导入入口。
+- 文案与 DOI/版本号全部取自 `_config.yml` 的 `site.dataset`，铸造新 DOI 或改版本后无需改该文件。
+
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3093 条：21 个页面（中文 7 + 英文 7 + 西语 7）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3096 条：24 个页面（中文 8 + 英文 8 + 西语 8）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
-- `assets/search.js`、`assets/custom.css`：搜索框脚本与样式
+- `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 
 ## 下载 / 留言
 - **下载页**（`download.md` / `en/download.md`）：把要提供下载的文件放进仓库 `downloads/` 文件夹即可，页面用 Jekyll `site.static_files` 自动列出，无需改页面。占位文件 `downloads/.gitkeep` 可删除。

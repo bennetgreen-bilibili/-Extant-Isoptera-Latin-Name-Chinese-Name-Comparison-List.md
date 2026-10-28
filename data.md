@@ -36,6 +36,9 @@ permalink: /data/
 
 <p>该归档包已按 DOI 归档格式准备（含 README、DataCite 元数据、CC BY 4.0 许可与 SHA-256 校验）；永久 DOI 铸造后会显示在本节与全站页脚。</p>{% endif %}
 
+{% include citation.html %}
+
+
 ## 按支系 / 科
 
 <ul>

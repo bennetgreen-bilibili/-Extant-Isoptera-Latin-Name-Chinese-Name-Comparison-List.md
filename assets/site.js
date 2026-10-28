@@ -112,6 +112,46 @@
     });
   }
 
+  function copyText(text, done) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done, function () { legacyCopy(text, done); });
+      return;
+    }
+    legacyCopy(text, done);
+  }
+
+  function legacyCopy(text, done) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.setAttribute('readonly', '');
+    ta.style.position = 'fixed';
+    ta.style.top = '-1000px';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); done(); } catch (e) { /* 剪贴板不可用：保持原样 */ }
+    document.body.removeChild(ta);
+  }
+
+  function setupCitations() {
+    var blocks = document.querySelectorAll('.cite-block');
+    for (var i = 0; i < blocks.length; i++) {
+      (function (block) {
+        var pre = block.querySelector('.cite-text');
+        var btn = block.querySelector('.cite-copy');
+        if (!pre || !btn) return;
+        var label = btn.getAttribute('data-label') || btn.textContent;
+        var copied = btn.getAttribute('data-copied-label') || label;
+        btn.addEventListener('click', function () {
+          copyText(pre.textContent, function () {
+            btn.textContent = copied;
+            btn.classList.add('is-copied');
+            setTimeout(function () { btn.textContent = label; btn.classList.remove('is-copied'); }, 1600);
+          });
+        });
+      })(blocks[i]);
+    }
+  }
+
   function ready(fn) { if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
-  ready(function () { setupToc(); italicizeTaxa(); setupBackTop(); });
+  ready(function () { setupToc(); italicizeTaxa(); setupBackTop(); setupCitations(); });
 })();
