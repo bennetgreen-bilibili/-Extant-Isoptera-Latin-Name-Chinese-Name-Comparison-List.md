@@ -1,11 +1,9 @@
 name: Debug Jekyll build
 
 # 一次性诊断：用 GitHub Pages 同款环境（github-pages gem / Jekyll 3.10）重建，
-# 把错误行以 ::error:: 注解形式暴露出来（注解可通过公开 API 读取）。定位后删除。
+# 把错误行以 ::error:: 注解形式暴露出来（注解可通过公开 API 读取）。定位后删除本文件及此触发条件。
 on:
   push:
-    paths:
-      - ".github/workflows/debug-jekyll.yml"
 
 permissions:
   contents: read
@@ -30,7 +28,7 @@ jobs:
           jekyll build --trace > /tmp/jekyll.log 2>&1
           echo "exit=$?"
           wc -l /tmp/jekyll.log
-          grep -n -E "Liquid Exception|Liquid syntax error|Error|error|Exception|Build Warning|Liquid Warning" /tmp/jekyll.log | head -20
+          grep -n -E "Liquid Exception|Liquid syntax error|Error|error|Exception|Invalid|undefined" /tmp/jekyll.log | head -20
 
       - name: Emit error lines as annotations
         if: always()
@@ -42,18 +40,14 @@ jobs:
           except FileNotFoundError:
               print('::error::no jekyll.log captured')
               raise SystemExit(0)
-          # 1) 优先输出 Liquid 异常块
-          hits = [l for l in lines if re.search(r'Liquid Exception|Liquid syntax error|Liquid Warning|Error:|Exception|Invalid|undefined', l)]
+          hits = [l for l in lines if re.search(r'Liquid Exception|Liquid syntax error|Liquid Warning|Error:|Exception|Invalid|undefined|Build failed', l)]
           if not hits:
               hits = lines[-12:]
-          seen = set()
-          out = []
+          seen, out = set(), []
           for line in hits:
               line = line.strip()
-              if not line or line in seen:
-                  continue
-              seen.add(line)
-              out.append(line)
+              if line and line not in seen:
+                  seen.add(line); out.append(line)
           for line in out[:10]:
               print('::error::' + line[:900])
           print('::warning::total log lines ' + str(len(lines)))
