@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Hospitalitermes umbrinus","species_zh":"赭色须白蚁","slug":"hospitalitermes-umbrinus","rank":"species","type_species":false,"genus":"Hospitalitermes","genus_zh":"须白蚁属","genus_id":"hospitalitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9696213,"records":58,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,1.5]},"properties":{"n":54}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[101.5,2.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,3.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[100.5,5.5]},"properties":{"n":1}}
+]
+}

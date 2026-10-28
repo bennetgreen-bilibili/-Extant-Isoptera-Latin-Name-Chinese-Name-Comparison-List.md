@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Macrognathotermes broomensis","species_zh":"布鲁姆长颚白蚁","slug":"macrognathotermes-broomensis","rank":"species","type_species":false,"genus":"Macrognathotermes","genus_zh":"长颚白蚁属","genus_id":"macrognathotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803389,"records":7,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-20.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[123.5,-17.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[125.5,-14.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[126.5,-14.5]},"properties":{"n":1}}
+]
+}

@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Amitermes socotrensis","species_zh":"索科特拉弓白蚁","slug":"amitermes-socotrensis","rank":"species","type_species":false,"genus":"Amitermes","genus_zh":"弓白蚁属","genus_id":"amitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9806666,"records":9,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[53.5,12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[54.5,12.5]},"properties":{"n":8}}
+]
+}

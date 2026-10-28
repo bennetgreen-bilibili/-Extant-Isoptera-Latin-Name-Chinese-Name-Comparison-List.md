@@ -34,6 +34,8 @@ permalink: /list/
 
 <p class="search-hint">可直接输入拼音（如 <code>baiyi</code>）或繁体中文检索；名录之外的内容（博客、物种页等）见 <a href="{{ site.base_url }}/search/">全站全文搜索</a>。</p>
 
+{% include distribution-notes.html %}
+
 <h2 id="toc">目录</h2>
 
 - [现存等翅下目 Extant Isoptera](#isoptera)
@@ -396,6 +398,7 @@ permalink: /list/
               - [白蚁属 Termes](#termes)
               - [小瘤白蚁属 Tuberculitermes](#tuberculitermes)
               - [木堆白蚁属 Xylochomitermes](#xylochomitermes)
+- [参考文献](#references)
 
 ---
 
@@ -404,6 +407,8 @@ permalink: /list/
 现存等翅下目 Extant Isoptera
 
 <h3 id="mastotermitidae">澳白蚁科 MASTOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="mastotermitidae" %}
 
 澳白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)。
 模式属为澳白蚁属 Mastotermes Froggatt, 1897（模式种达尔文澳白蚁
@@ -438,6 +443,8 @@ Mastotermes 一般释为希腊文 mastos（乳房状突起）与 termes 组合�
 
 <h5 id="mastotermes">澳白蚁属 Mastotermes</h5>
 
+{% include distribution-map.html mode="genus" id="mastotermes" %}
+
 \*[*Mastotermes darwiniensis* 达尔文澳白蚁]({{ site.base_url }}/species/mastotermes-darwiniensis/)
 
 <h2 id="euisoptera">真等翅类 Euisoptera</h2>
@@ -445,6 +452,8 @@ Mastotermes 一般释为希腊文 mastos（乳房状突起）与 termes 组合�
 <h2 id="teletisoptera">远等翅类 Teletisoptera</h2>
 
 <h3 id="archotermopsidae">古白蚁科 ARCHOTERMOPSIDAE</h3>
+
+{% include distribution-map.html mode="family" id="archotermopsidae" %}
 
 古白蚁科由 Engel、
 Grimaldi 与 Krishna 于 2009 年建立（Engel, Grimaldi &
@@ -475,11 +484,15 @@ Zootermopsis nevadensis
 
 <h5 id="archotermopsis">古白蚁属 Archotermopsis</h5>
 
+{% include distribution-map.html mode="genus" id="archotermopsis" %}
+
 [*Archotermopsis kuznetsovi* 库兹涅佐夫古白蚁]({{ site.base_url }}/species/archotermopsis-kuznetsovi/)
 
 \*[*Archotermopsis wroughtoni* 罗夫顿古白蚁]({{ site.base_url }}/species/archotermopsis-wroughtoni/)
 
 <h5 id="zootermopsis">动白蚁属 Zootermopsis</h5>
+
+{% include distribution-map.html mode="genus" id="zootermopsis" %}
 
 \*[*Zootermopsis angusticollis* 狭颈动白蚁]({{ site.base_url }}/species/zootermopsis-angusticollis/)
 
@@ -488,6 +501,8 @@ Zootermopsis nevadensis
 [*Zootermopsis nevadensis* 内华达动白蚁]({{ site.base_url }}/species/zootermopsis-nevadensis/)
 
 <h3 id="hodotermitidae">草白蚁科 HODOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="hodotermitidae" %}
 
 草白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)，
 模式属为草白蚁属 Hodotermes Hagen, 1853。
@@ -515,6 +530,8 @@ Zootermopsis nevadensis
 </figure>
 
 <h5 id="anacanthotermes">无刺白蚁属 Anacanthotermes</h5>
+
+{% include distribution-map.html mode="genus" id="anacanthotermes" %}
 
 [*Anacanthotermes ahngerianus* 安格无刺白蚁]({{ site.base_url }}/species/anacanthotermes-ahngerianus/)
 
@@ -550,11 +567,15 @@ Zootermopsis nevadensis
 
 <h5 id="hodotermes">草白蚁属 Hodotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hodotermes" %}
+
 [*Hodotermes erithreensis* 厄立特里亚草白蚁]({{ site.base_url }}/species/hodotermes-erithreensis/)
 
 \*[*Hodotermes mossambicus* 莫桑比克草白蚁]({{ site.base_url }}/species/hodotermes-mossambicus/)
 
 <h5 id="microhodotermes">小草白蚁属 Microhodotermes</h5>
+
+{% include distribution-map.html mode="genus" id="microhodotermes" %}
 
 [*Microhodotermes maroccanus* 摩洛哥小草白蚁]({{ site.base_url }}/species/microhodotermes-maroccanus/)
 
@@ -563,6 +584,8 @@ Zootermopsis nevadensis
 [*Microhodotermes wasmanni* 沃斯曼小草白蚁]({{ site.base_url }}/species/microhodotermes-wasmanni/)
 
 <h3 id="hodotermopsidae">原白蚁科 HODOTERMOPSIDAE</h3>
+
+{% include distribution-map.html mode="family" id="hodotermopsidae" %}
 
 原白蚁科由 Engel 于 2021 年提出(11)。
 模式属为原白蚁属 Hodotermopsis Holmgren, 1911。
@@ -585,9 +608,13 @@ Zootermopsis nevadensis
 
 <h5 id="hodotermopsis">原白蚁属 Hodotermopsis</h5>
 
+{% include distribution-map.html mode="genus" id="hodotermopsis" %}
+
 \*[*Hodotermopsis sjostedti* 山林原白蚁]({{ site.base_url }}/species/hodotermopsis-sjostedti/)
 
 <h3 id="stolotermitidae">胄白蚁科 STOLOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="stolotermitidae" %}
 
 胄白蚁科由 Holmgren 于 1910 年建立（Holmgren, 1910a:
 285）(14)，
@@ -612,6 +639,8 @@ Zootermopsis nevadensis
 
 <h5 id="porotermes">洞白蚁属 Porotermes</h5>
 
+{% include distribution-map.html mode="genus" id="porotermes" %}
+
 [*Porotermes adamsoni* 亚当森洞白蚁]({{ site.base_url }}/species/porotermes-adamsoni/)
 
 [*Porotermes planiceps* 扁头洞白蚁]({{ site.base_url }}/species/porotermes-planiceps/)
@@ -619,6 +648,8 @@ Zootermopsis nevadensis
 \*[*Porotermes quadricollis* 方颈洞白蚁]({{ site.base_url }}/species/porotermes-quadricollis/)
 
 <h5 id="stolotermes">胄白蚁属 Stolotermes</h5>
+
+{% include distribution-map.html mode="genus" id="stolotermes" %}
 
 [*Stolotermes africanus* 非洲胄白蚁]({{ site.base_url }}/species/stolotermes-africanus/)
 
@@ -637,6 +668,8 @@ Zootermopsis nevadensis
 <h2 id="icoisoptera">近等翅类 Icoisoptera</h2>
 
 <h3 id="kalotermitidae">木白蚁科 KALOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="kalotermitidae" %}
 
 木白蚁科由 Froggatt 于 1897 年建立(16)，
 模式属为 Kalotermes Hagen, 1853。
@@ -678,6 +711,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="allotermes">奇白蚁属 Allotermes</h5>
 
+{% include distribution-map.html mode="genus" id="allotermes" %}
+
 [*Allotermes denticulatus* 小齿奇白蚁]({{ site.base_url }}/species/allotermes-denticulatus/)
 
 [*Allotermes papillifer* 乳突奇白蚁]({{ site.base_url }}/species/allotermes-papillifer/)
@@ -685,6 +720,8 @@ Rugitermes 等属为次要木材害虫(20)。
 \*[*Allotermes paradoxus* 奇异奇白蚁]({{ site.base_url }}/species/allotermes-paradoxus/)
 
 <h5 id="bicornitermes">双角白蚁属 Bicornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="bicornitermes" %}
 
 \*[*Bicornitermes bicornis* 双角双角白蚁]({{ site.base_url }}/species/bicornitermes-bicornis/)
 
@@ -695,6 +732,8 @@ Rugitermes 等属为次要木材害虫(20)。
 [*Bicornitermes spinicollis* 刺颈双角白蚁]({{ site.base_url }}/species/bicornitermes-spinicollis/)
 
 <h5 id="bifiditermes">双裂白蚁属 Bifiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="bifiditermes" %}
 
 [*Bifiditermes angulatus* 角状双裂白蚁]({{ site.base_url }}/species/bifiditermes-angulatus/)
 
@@ -722,6 +761,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="calcaritermes">距白蚁属 Calcaritermes</h5>
 
+{% include distribution-map.html mode="genus" id="calcaritermes" %}
+
 [*Calcaritermes brevicollis* 短颈距白蚁]({{ site.base_url }}/species/calcaritermes-brevicollis/)
 
 [*Calcaritermes colei* 科尔距白蚁]({{ site.base_url }}/species/calcaritermes-colei/)
@@ -748,13 +789,19 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="ceratokalotermes">角木白蚁属 Ceratokalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ceratokalotermes" %}
+
 \*[*Ceratokalotermes spoliator* 掠夺角木白蚁]({{ site.base_url }}/species/ceratokalotermes-spoliator/)
 
 <h5 id="comatermes">毛白蚁属 Comatermes</h5>
 
+{% include distribution-map.html mode="genus" id="comatermes" %}
+
 \*[*Comatermes perfectus* 完美毛白蚁]({{ site.base_url }}/species/comatermes-perfectus/)
 
 <h5 id="cryptotermes">堆砂白蚁属 Cryptotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cryptotermes" %}
 
 [*Cryptotermes abruptus* 陡额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-abruptus/)
 
@@ -906,6 +953,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="epicalotermes">上木白蚁属 Epicalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="epicalotermes" %}
+
 \*[*Epicalotermes aethiopicus* 埃塞俄比亚上木白蚁]({{ site.base_url }}/species/epicalotermes-aethiopicus/)
 
 [*Epicalotermes kempae* 肯帕上木白蚁]({{ site.base_url }}/species/epicalotermes-kempae/)
@@ -920,11 +969,15 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="eucryptotermes">真砂白蚁属 Eucryptotermes</h5>
 
+{% include distribution-map.html mode="genus" id="eucryptotermes" %}
+
 [*Eucryptotermes breviceps* 短头真砂白蚁]({{ site.base_url }}/species/eucryptotermes-breviceps/)
 
 \*[*Eucryptotermes hagenii* 哈根真砂白蚁]({{ site.base_url }}/species/eucryptotermes-hagenii/)
 
 <h5 id="glyptotermes">树白蚁属 Glyptotermes</h5>
+
+{% include distribution-map.html mode="genus" id="glyptotermes" %}
 
 [*Glyptotermes adamsoni* 亚当森树白蚁]({{ site.base_url }}/species/glyptotermes-adamsoni/)
 
@@ -1190,6 +1243,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="incisitermes">楹白蚁属 Incisitermes</h5>
 
+{% include distribution-map.html mode="genus" id="incisitermes" %}
+
 [*Incisitermes banksi* 班克斯楹白蚁]({{ site.base_url }}/species/incisitermes-banksi/)
 
 [*Incisitermes barretti* 巴雷特楹白蚁]({{ site.base_url }}/species/incisitermes-barretti/)
@@ -1252,6 +1307,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="kalotermes">木白蚁属 Kalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="kalotermes" %}
+
 [*Kalotermes aemulus* 竞争木白蚁]({{ site.base_url }}/species/kalotermes-aemulus/)
 
 [*Kalotermes approximatus* 邻近木白蚁]({{ site.base_url }}/species/kalotermes-approximatus/)
@@ -1296,9 +1353,13 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="longicaputermes">头长白蚁属 Longicaputermes</h5>
 
+{% include distribution-map.html mode="genus" id="longicaputermes" %}
+
 \*[*Longicaputermes sinaicus* 西奈头长白蚁]({{ site.base_url }}/species/longicaputermes-sinaicus/)
 
 <h5 id="marginitermes">边白蚁属 Marginitermes</h5>
+
+{% include distribution-map.html mode="genus" id="marginitermes" %}
 
 [*Marginitermes absitus* 遥远边白蚁]({{ site.base_url }}/species/marginitermes-absitus/)
 
@@ -1307,6 +1368,8 @@ Rugitermes 等属为次要木材害虫(20)。
 \*[*Marginitermes hubbardi* 哈伯德边白蚁]({{ site.base_url }}/species/marginitermes-hubbardi/)
 
 <h5 id="neotermes">新白蚁属 Neotermes</h5>
+
+{% include distribution-map.html mode="genus" id="neotermes" %}
 
 [*Neotermes aburiensis* 阿布里新白蚁]({{ site.base_url }}/species/neotermes-aburiensis/)
 
@@ -1552,9 +1615,13 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="paraneotermes">近新白蚁属 Paraneotermes</h5>
 
+{% include distribution-map.html mode="genus" id="paraneotermes" %}
+
 \*[*Paraneotermes simplicicornis* 简角近新白蚁]({{ site.base_url }}/species/paraneotermes-simplicicornis/)
 
 <h5 id="postelectrotermes">后琥珀白蚁属 Postelectrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="postelectrotermes" %}
 
 [*Postelectrotermes amplus* 大后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-amplus/)
 
@@ -1588,6 +1655,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="procryptotermes">前砂白蚁属 Procryptotermes</h5>
 
+{% include distribution-map.html mode="genus" id="procryptotermes" %}
+
 [*Procryptotermes australiensis* 澳大利亚前砂白蚁]({{ site.base_url }}/species/procryptotermes-australiensis/)
 
 [*Procryptotermes corniceps* 角头前砂白蚁]({{ site.base_url }}/species/procryptotermes-corniceps/)
@@ -1618,6 +1687,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="proneotermes">前新白蚁属 Proneotermes</h5>
 
+{% include distribution-map.html mode="genus" id="proneotermes" %}
+
 [*Proneotermes latifrons* 宽额前新白蚁]({{ site.base_url }}/species/proneotermes-latifrons/)
 
 [*Proneotermes macondianus* 马康多前新白蚁]({{ site.base_url }}/species/proneotermes-macondianus/)
@@ -1626,13 +1697,19 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="pterotermes">翅白蚁属 Pterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="pterotermes" %}
+
 \*[*Pterotermes occidentis* 西部翅白蚁]({{ site.base_url }}/species/pterotermes-occidentis/)
 
 <h5 id="roisinitermes">罗伊辛白蚁属 Roisinitermes</h5>
 
+{% include distribution-map.html mode="genus" id="roisinitermes" %}
+
 \*[*Roisinitermes ebogoensis* 埃博戈罗伊辛白蚁]({{ site.base_url }}/species/roisinitermes-ebogoensis/)
 
 <h5 id="rugitermes">皱白蚁属 Rugitermes</h5>
+
+{% include distribution-map.html mode="genus" id="rugitermes" %}
 
 [*Rugitermes aridus* 干皱白蚁]({{ site.base_url }}/species/rugitermes-aridus/)
 
@@ -1672,6 +1749,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 <h5 id="tauritermes">牛白蚁属 Tauritermes</h5>
 
+{% include distribution-map.html mode="genus" id="tauritermes" %}
+
 [*Tauritermes bandeirai* 班代拉牛白蚁]({{ site.base_url }}/species/tauritermes-bandeirai/)
 
 \*[*Tauritermes taurocephalus* 牛头牛白蚁]({{ site.base_url }}/species/tauritermes-taurocephalus/)
@@ -1683,6 +1762,8 @@ Rugitermes 等属为次要木材害虫(20)。
 <h2 id="neoisoptera">新等翅类 Neoisoptera</h2>
 
 <h3 id="psammotermitidae">沙白蚁科 PSAMMOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="psammotermitidae" %}
 
 沙白蚁亚科（Psammotermitinae）由 Holmgren 于 1911 年建立，
 2024 年系统发育研究将其提升为科（Psammotermitidae）(21)。
@@ -1712,6 +1793,8 @@ Prorhinotermes simplex 在美国佛罗里达危害木结构建筑(24)。
 
 <h5 id="prorhinotermes">原鼻白蚁属 Prorhinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="prorhinotermes" %}
+
 [*Prorhinotermes canalifrons* 沟额原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-canalifrons/)
 
 [*Prorhinotermes cotym* 科廷原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-cotym/)
@@ -1738,6 +1821,8 @@ Prorhinotermes simplex 在美国佛罗里达危害木结构建筑(24)。
 
 <h5 id="psammotermes">沙白蚁属 Psammotermes</h5>
 
+{% include distribution-map.html mode="genus" id="psammotermes" %}
+
 [*Psammotermes allocerus* 奇白沙白蚁]({{ site.base_url }}/species/psammotermes-allocerus/)
 
 \*[*Psammotermes hybostoma* 弯嘴沙白蚁]({{ site.base_url }}/species/psammotermes-hybostoma/)
@@ -1751,6 +1836,8 @@ Prorhinotermes simplex 在美国佛罗里达危害木结构建筑(24)。
 [*Psammotermes voeltzkowi* 弗尔特科沙白蚁]({{ site.base_url }}/species/psammotermes-voeltzkowi/)
 
 <h3 id="rhinotermitidae">鼻白蚁科 RHINOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="rhinotermitidae" %}
 
 鼻白蚁亚科（Rhinotermitinae）由 Froggatt 于 1897 年建立；
 此处采用 2024 年系统发育研究重新界定后的狭义鼻白蚁科（Rhinotermitidae
@@ -1781,11 +1868,15 @@ sensu novo）(21)，
 
 <h5 id="acorhinotermes">尖鼻白蚁属 Acorhinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acorhinotermes" %}
+
 [*Acorhinotermes claritae* 克拉丽塔尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-claritae/)
 
 \*[*Acorhinotermes subfusciceps* 棕头尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-subfusciceps/)
 
 <h5 id="dolichorhinotermes">狭鼻白蚁属 Dolichorhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="dolichorhinotermes" %}
 
 [*Dolichorhinotermes japuraensis* 雅普拉狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-japuraensis/)
 
@@ -1802,6 +1893,8 @@ sensu novo）(21)，
 [*Dolichorhinotermes tenebrosus* 暗色狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-tenebrosus/)
 
 <h5 id="parrhinotermes">棒鼻白蚁属 Parrhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="parrhinotermes" %}
 
 \*[*Parrhinotermes aequalis* 相等棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-aequalis/)
 
@@ -1831,6 +1924,8 @@ sensu novo）(21)，
 
 <h5 id="rhinotermes">鼻白蚁属 Rhinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="rhinotermes" %}
+
 [*Rhinotermes hispidus* 多毛鼻白蚁]({{ site.base_url }}/species/rhinotermes-hispidus/)
 
 [*Rhinotermes manni* 曼鼻白蚁]({{ site.base_url }}/species/rhinotermes-manni/)
@@ -1840,6 +1935,8 @@ sensu novo）(21)，
 \*[*Rhinotermes nasutus* 大鼻鼻白蚁]({{ site.base_url }}/species/rhinotermes-nasutus/)
 
 <h5 id="schedorhinotermes">长鼻白蚁属 Schedorhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="schedorhinotermes" %}
 
 [*Schedorhinotermes actuosus* 活跃长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-actuosus/)
 
@@ -1913,6 +2010,8 @@ sensu novo）(21)，
 
 <h3 id="serritermitidae">齿白蚁科 SERRITERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="serritermitidae" %}
+
 齿白蚁科由 Holmgren 于 1910 年建立（Serritermitidae
 Holmgren, 1910）(14)，
 模式属为 Serritermes Wasmann, 1897。
@@ -1931,15 +2030,21 @@ Glossotermes 属13–15节）；本科兵蚁额腺极为发达，自头部延伸
 御敌时以自体爆裂方式经颈背释放分泌物(26)。
 <h5 id="glossotermes">舌白蚁属 Glossotermes</h5>
 
+{% include distribution-map.html mode="genus" id="glossotermes" %}
+
 \*[*Glossotermes oculatus* 眼显舌白蚁]({{ site.base_url }}/species/glossotermes-oculatus/)
 
 [*Glossotermes sulcatus* 具纹舌白蚁]({{ site.base_url }}/species/glossotermes-sulcatus/)
 
 <h5 id="serritermes">齿白蚁属 Serritermes</h5>
 
+{% include distribution-map.html mode="genus" id="serritermes" %}
+
 \*[*Serritermes serrifer* 锯齿白蚁]({{ site.base_url }}/species/serritermes-serrifer/)
 
 <h3 id="stylotermitidae">杆白蚁科 STYLOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="stylotermitidae" %}
 
 杆白蚁科为现生单型科，
 唯含杆白蚁属 Stylotermes Holmgren & Holmgren, 1917。
@@ -1965,6 +2070,8 @@ S. halumicus 为材料研究），踪迹跟踪信息素亦在该二种中有专�
 </figure>
 
 <h5 id="stylotermes">杆白蚁属 Stylotermes</h5>
+
+{% include distribution-map.html mode="genus" id="stylotermes" %}
 
 [*Stylotermes acrofrons* 丘额杆白蚁]({{ site.base_url }}/species/stylotermes-acrofrons/)
 
@@ -2058,6 +2165,8 @@ S. halumicus 为材料研究），踪迹跟踪信息素亦在该二种中有专�
 
 <h3 id="termitogetonidae">寡脉白蚁科 TERMITOGETONIDAE</h3>
 
+{% include distribution-map.html mode="family" id="termitogetonidae" %}
+
 寡脉白蚁亚科（Termitogetoninae）由 Holmgren 于 1910
 年建立（1910a:286）(14)，
 2024 年基因组系统发育研究将其由亚科提升为科（Termitogetonidae）(21)。
@@ -2086,6 +2195,8 @@ S. halumicus 为材料研究），踪迹跟踪信息素亦在该二种中有专�
 
 <h5 id="termitogeton">寡脉白蚁属 Termitogeton</h5>
 
+{% include distribution-map.html mode="genus" id="termitogeton" %}
+
 \*[*Termitogeton planus* 平坦寡脉白蚁]({{ site.base_url }}/species/termitogeton-planus/)
 
 [*Termitogeton umbilicatus* 中凹寡脉白蚁]({{ site.base_url }}/species/termitogeton-umbilicatus/)
@@ -2093,6 +2204,8 @@ S. halumicus 为材料研究），踪迹跟踪信息素亦在该二种中有专�
 <h2 id="geoisoptera">土栖等翅类 Geoisoptera</h2>
 
 <h3 id="heterotermitidae">异白蚁科 HETEROTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="heterotermitidae" %}
 
 异白蚁亚科（Heterotermitinae）由 Froggatt 于 1897 年建立，
 长期隶属鼻白蚁科；2024 年系统发育研究将其提升为科（Heterotermitidae）(21)，
@@ -2136,6 +2249,8 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 </figure>
 
 <h5 id="coptotermes">乳白蚁属 Coptotermes</h5>
+
+{% include distribution-map.html mode="genus" id="coptotermes" %}
 
 [*Coptotermes acinaciformis* 短刀乳白蚁]({{ site.base_url }}/species/coptotermes-acinaciformis/)
 
@@ -2257,6 +2372,8 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 
 <h5 id="heterotermes">异白蚁属 Heterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="heterotermes" %}
+
 [*Heterotermes aethiopicus* 埃塞俄比亚异白蚁]({{ site.base_url }}/species/heterotermes-aethiopicus/)
 
 [*Heterotermes assu* 大异白蚁]({{ site.base_url }}/species/heterotermes-assu/)
@@ -2320,6 +2437,8 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 [*Heterotermes wittmeri* 威特默异白蚁]({{ site.base_url }}/species/heterotermes-wittmeri/)
 
 <h5 id="reticulitermes">散白蚁属 Reticulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="reticulitermes" %}
 
 [*Reticulitermes aculabialis* 尖唇散白蚁]({{ site.base_url }}/species/reticulitermes-aculabialis/)
 
@@ -2603,6 +2722,8 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 
 <h3 id="termitidae">白蚁科 TERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="termitidae" %}
+
 白蚁科由 Latreille 于 1802 年建立，
 模式属为 Termes Linnaeus, 1758；
 科名由模式属词干 Termit- 加科级后缀 -idae 构成。
@@ -2685,6 +2806,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="ahamitermes">无钩白蚁属 Ahamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="ahamitermes" %}
+
 [*Ahamitermes hillii* 希尔无钩白蚁]({{ site.base_url }}/species/ahamitermes-hillii/)
 
 [*Ahamitermes inclusus* 栖垄无钩白蚁]({{ site.base_url }}/species/ahamitermes-inclusus/)
@@ -2692,6 +2815,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 \*[*Ahamitermes nidicola* 栖巢无钩白蚁]({{ site.base_url }}/species/ahamitermes-nidicola/)
 
 <h5 id="amitermes">弓白蚁属 Amitermes</h5>
+
+{% include distribution-map.html mode="genus" id="amitermes" %}
 
 [*Amitermes abruptus* 陡额弓白蚁]({{ site.base_url }}/species/amitermes-abruptus/)
 
@@ -2921,6 +3046,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="dentispicotermes">齿尖白蚁属 Dentispicotermes</h5>
 
+{% include distribution-map.html mode="genus" id="dentispicotermes" %}
+
 [*Dentispicotermes brevicarinatus* 短脊齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-brevicarinatus/)
 
 [*Dentispicotermes conjunctus* 邻近齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-conjunctus/)
@@ -2934,6 +3061,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 [*Dentispicotermes trapezia* 梯形齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-trapezia/)
 
 <h5 id="drepanotermes">镰白蚁属 Drepanotermes</h5>
+
+{% include distribution-map.html mode="genus" id="drepanotermes" %}
 
 [*Drepanotermes acicularis* 细长镰白蚁]({{ site.base_url }}/species/drepanotermes-acicularis/)
 
@@ -2985,6 +3114,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="eremotermes">漠白蚁属 Eremotermes</h5>
 
+{% include distribution-map.html mode="genus" id="eremotermes" %}
+
 [*Eremotermes arctus* 短窄漠白蚁]({{ site.base_url }}/species/eremotermes-arctus/)
 
 [*Eremotermes dehraduni* 德拉敦漠白蚁]({{ site.base_url }}/species/eremotermes-dehraduni/)
@@ -3007,6 +3138,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="globitermes">球白蚁属 Globitermes</h5>
 
+{% include distribution-map.html mode="genus" id="globitermes" %}
+
 [*Globitermes brachycerastes* 短角球白蚁]({{ site.base_url }}/species/globitermes-brachycerastes/)
 
 \*[*Globitermes globosus* 球形球白蚁]({{ site.base_url }}/species/globitermes-globosus/)
@@ -3023,6 +3156,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="gnathamitermes">颚钩白蚁属 Gnathamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="gnathamitermes" %}
+
 [*Gnathamitermes grandis* 大颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-grandis/)
 
 [*Gnathamitermes nigriceps* 黑头颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-nigriceps/)
@@ -3033,19 +3168,27 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="hoplotermes">武白蚁属 Hoplotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hoplotermes" %}
+
 \*[*Hoplotermes amplus* 广泛武白蚁]({{ site.base_url }}/species/hoplotermes-amplus/)
 
 <h5 id="incolitermes">子民白蚁属 Incolitermes</h5>
 
+{% include distribution-map.html mode="genus" id="incolitermes" %}
+
 \*[*Incolitermes pumilus* 侏儒子民白蚁]({{ site.base_url }}/species/incolitermes-pumilus/)
 
 <h5 id="invasitermes">闯白蚁属 Invasitermes</h5>
+
+{% include distribution-map.html mode="genus" id="invasitermes" %}
 
 \*[*Invasitermes inermis* 非武闯白蚁]({{ site.base_url }}/species/invasitermes-inermis/)
 
 [*Invasitermes insitivus* 候补闯白蚁]({{ site.base_url }}/species/invasitermes-insitivus/)
 
 <h5 id="orthognathotermes">直颚白蚁属 Orthognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="orthognathotermes" %}
 
 [*Orthognathotermes aduncus* 具钩直颚白蚁]({{ site.base_url }}/species/orthognathotermes-aduncus/)
 
@@ -3079,17 +3222,23 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 
 <h5 id="prohamitermes">前钩白蚁属 Prohamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="prohamitermes" %}
+
 [*Prohamitermes hosei* 霍斯前钩白蚁]({{ site.base_url }}/species/prohamitermes-hosei/)
 
 \*[*Prohamitermes mirabilis* 奇异前钩白蚁]({{ site.base_url }}/species/prohamitermes-mirabilis/)
 
 <h5 id="pseudhamitermes">伪钩白蚁属 Pseudhamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="pseudhamitermes" %}
+
 \*[*Pseudhamitermes khmerensis* 高棉伪钩白蚁]({{ site.base_url }}/species/pseudhamitermes-khmerensis/)
 
 [*Pseudhamitermes longignathus* 长颚伪钩白蚁]({{ site.base_url }}/species/pseudhamitermes-longignathus/)
 
 <h5 id="synhamitermes">同钩白蚁属 Synhamitermes</h5>
+
+{% include distribution-map.html mode="genus" id="synhamitermes" %}
 
 [*Synhamitermes ceylonicus* 锡兰同钩白蚁]({{ site.base_url }}/species/synhamitermes-ceylonicus/)
 
@@ -3138,6 +3287,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="acholotermes">顺白蚁属 Acholotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acholotermes" %}
+
 [*Acholotermes chirotus* 短小顺白蚁]({{ site.base_url }}/species/acholotermes-chirotus/)
 
 [*Acholotermes epius* 椭囟顺白蚁]({{ site.base_url }}/species/acholotermes-epius/)
@@ -3150,13 +3301,19 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="acidnotermes">虚白蚁属 Acidnotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acidnotermes" %}
+
 \*[*Acidnotermes praus* 短肠虚白蚁]({{ site.base_url }}/species/acidnotermes-praus/)
 
 <h5 id="acutidentitermes">尖齿白蚁属 Acutidentitermes</h5>
 
+{% include distribution-map.html mode="genus" id="acutidentitermes" %}
+
 \*[*Acutidentitermes osborni* 奥斯本尖齿白蚁]({{ site.base_url }}/species/acutidentitermes-osborni/)
 
 <h5 id="adaiphrotermes">和白蚁属 Adaiphrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="adaiphrotermes" %}
 
 [*Adaiphrotermes choanensis* 乔安和白蚁]({{ site.base_url }}/species/adaiphrotermes-choanensis/)
 
@@ -3166,19 +3323,27 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="aderitotermes">谐白蚁属 Aderitotermes</h5>
 
+{% include distribution-map.html mode="genus" id="aderitotermes" %}
+
 [*Aderitotermes cavator* 中空谐白蚁]({{ site.base_url }}/species/aderitotermes-cavator/)
 
 \*[*Aderitotermes fossor* 挖掘谐白蚁]({{ site.base_url }}/species/aderitotermes-fossor/)
 
 <h5 id="adynatotermes">弱白蚁属 Adynatotermes</h5>
 
+{% include distribution-map.html mode="genus" id="adynatotermes" %}
+
 \*[*Adynatotermes moretelae* 莫特拉弱白蚁]({{ site.base_url }}/species/adynatotermes-moretelae/)
 
 <h5 id="aganotermes">雅白蚁属 Aganotermes</h5>
 
+{% include distribution-map.html mode="genus" id="aganotermes" %}
+
 \*[*Aganotermes oryctes* 挖者雅白蚁]({{ site.base_url }}/species/aganotermes-oryctes/)
 
 <h5 id="allognathotermes">异颚白蚁属 Allognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="allognathotermes" %}
 
 [*Allognathotermes aburiensis* 阿布里异颚白蚁]({{ site.base_url }}/species/allognathotermes-aburiensis/)
 
@@ -3188,15 +3353,21 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="alyscotermes">逃白蚁属 Alyscotermes</h5>
 
+{% include distribution-map.html mode="genus" id="alyscotermes" %}
+
 \*[*Alyscotermes kilimandjaricus* 乞力马扎罗逃白蚁]({{ site.base_url }}/species/alyscotermes-kilimandjaricus/)
 
 [*Alyscotermes trestus* 懦夫逃白蚁]({{ site.base_url }}/species/alyscotermes-trestus/)
 
 <h5 id="amalotermes">软白蚁属 Amalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="amalotermes" %}
+
 \*[*Amalotermes phaeocephalus* 暗头软白蚁]({{ site.base_url }}/species/amalotermes-phaeocephalus/)
 
 <h5 id="amicotermes">善白蚁属 Amicotermes</h5>
+
+{% include distribution-map.html mode="genus" id="amicotermes" %}
 
 [*Amicotermes autothysius* 自爆善白蚁]({{ site.base_url }}/species/amicotermes-autothysius/)
 
@@ -3224,13 +3395,19 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="amplucrutermes">大腿白蚁属 Amplucrutermes</h5>
 
+{% include distribution-map.html mode="genus" id="amplucrutermes" %}
+
 \*[*Amplucrutermes inflatus* 椭圆大腿白蚁]({{ site.base_url }}/species/amplucrutermes-inflatus/)
 
 <h5 id="anaorotermes">无戟白蚁属 Anaorotermes</h5>
 
+{% include distribution-map.html mode="genus" id="anaorotermes" %}
+
 \*[*Anaorotermes echinocolon* 海胆肠无戟白蚁]({{ site.base_url }}/species/anaorotermes-echinocolon/)
 
 <h5 id="anenteotermes">无甲白蚁属 Anenteotermes</h5>
+
+{% include distribution-map.html mode="genus" id="anenteotermes" %}
 
 [*Anenteotermes amachetus* 无刀无甲白蚁]({{ site.base_url }}/species/anenteotermes-amachetus/)
 
@@ -3255,6 +3432,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 [*Anenteotermes polyscolus* 多魁无甲白蚁]({{ site.base_url }}/species/anenteotermes-polyscolus/)
 
 <h5 id="anoplotermes">解甲白蚁属 Anoplotermes</h5>
+
+{% include distribution-map.html mode="genus" id="anoplotermes" %}
 
 [*Anoplotermes ater* 暗黑解甲白蚁]({{ site.base_url }}/species/anoplotermes-ater/)
 
@@ -3304,9 +3483,13 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="apagotermes">疲白蚁属 Apagotermes</h5>
 
+{% include distribution-map.html mode="genus" id="apagotermes" %}
+
 \*[*Apagotermes stolidus* 愚蠢疲白蚁]({{ site.base_url }}/species/apagotermes-stolidus/)
 
 <h5 id="aparatermes">弯肠白蚁属 Aparatermes</h5>
+
+{% include distribution-map.html mode="genus" id="aparatermes" %}
 
 \*[*Aparatermes abbreviatus* 缩短弯肠白蚁]({{ site.base_url }}/species/aparatermes-abbreviatus/)
 
@@ -3315,6 +3498,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 [*Aparatermes thornatus* 刺棘弯肠白蚁]({{ site.base_url }}/species/aparatermes-thornatus/)
 
 <h5 id="apicotermes">尖白蚁属 Apicotermes</h5>
+
+{% include distribution-map.html mode="genus" id="apicotermes" %}
 
 [*Apicotermes angustatus* 狭窄尖白蚁]({{ site.base_url }}/species/apicotermes-angustatus/)
 
@@ -3344,13 +3529,19 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="apolemotermes">和平白蚁属 Apolemotermes</h5>
 
+{% include distribution-map.html mode="genus" id="apolemotermes" %}
+
 \*[*Apolemotermes fodiens* 挖掘和平白蚁]({{ site.base_url }}/species/apolemotermes-fodiens/)
 
 <h5 id="asagarotermes">无剑白蚁属 Asagarotermes</h5>
 
+{% include distribution-map.html mode="genus" id="asagarotermes" %}
+
 \*[*Asagarotermes coronatus* 冠毛无剑白蚁]({{ site.base_url }}/species/asagarotermes-coronatus/)
 
 <h5 id="astalotermes">无利器白蚁属 Astalotermes</h5>
+
+{% include distribution-map.html mode="genus" id="astalotermes" %}
 
 [*Astalotermes acholus* 阿彻鲁斯无利器白蚁]({{ site.base_url }}/species/astalotermes-acholus/)
 
@@ -3388,6 +3579,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="astratotermes">无刃白蚁属 Astratotermes</h5>
 
+{% include distribution-map.html mode="genus" id="astratotermes" %}
+
 [*Astratotermes aneristus* 赞比亚无刃白蚁]({{ site.base_url }}/species/astratotermes-aneristus/)
 
 [*Astratotermes apocnetus* 小凶无刃白蚁]({{ site.base_url }}/species/astratotermes-apocnetus/)
@@ -3401,6 +3594,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 \*[*Astratotermes prosenus* 大型无刃白蚁]({{ site.base_url }}/species/astratotermes-prosenus/)
 
 <h5 id="ateuchotermes">无锐白蚁属 Ateuchotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ateuchotermes" %}
 
 [*Ateuchotermes ctenopher* 梳肠无锐白蚁]({{ site.base_url }}/species/ateuchotermes-ctenopher/)
 
@@ -3420,13 +3615,19 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="caputitermes">首白蚁属 Caputitermes</h5>
 
+{% include distribution-map.html mode="genus" id="caputitermes" %}
+
 \*[*Caputitermes dimorphus* 二型首白蚁]({{ site.base_url }}/species/caputitermes-dimorphus/)
 
 <h5 id="chasitermes">蔡斯白蚁属 Chasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="chasitermes" %}
+
 \*[*Chasitermes pax* 和平蔡斯白蚁]({{ site.base_url }}/species/chasitermes-pax/)
 
 <h5 id="compositermes">肠刺白蚁属 Compositermes</h5>
+
+{% include distribution-map.html mode="genus" id="compositermes" %}
 
 [*Compositermes bani* 班恩肠刺白蚁]({{ site.base_url }}/species/compositermes-bani/)
 
@@ -3434,17 +3635,25 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="coxotermes">基白蚁属 Coxotermes</h5>
 
+{% include distribution-map.html mode="genus" id="coxotermes" %}
+
 \*[*Coxotermes boukokoensis* 布科科基白蚁]({{ site.base_url }}/species/coxotermes-boukokoensis/)
 
 <h5 id="disjunctitermes">间断白蚁属 Disjunctitermes</h5>
+
+{% include distribution-map.html mode="genus" id="disjunctitermes" %}
 
 \*[*Disjunctitermes insularis* 岛生间断白蚁]({{ site.base_url }}/species/disjunctitermes-insularis/)
 
 <h5 id="dissimulitermes">隐藏白蚁属 Dissimulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="dissimulitermes" %}
+
 \*[*Dissimulitermes invisibilis* 隐形隐藏白蚁]({{ site.base_url }}/species/dissimulitermes-invisibilis/)
 
 <h5 id="duplidentitermes">双齿白蚁属 Duplidentitermes</h5>
+
+{% include distribution-map.html mode="genus" id="duplidentitermes" %}
 
 \*[*Duplidentitermes furcatidens* 叉齿双齿白蚁]({{ site.base_url }}/species/duplidentitermes-furcatidens/)
 
@@ -3454,17 +3663,25 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="ebogotermes">埃博戈白蚁属 Ebogotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ebogotermes" %}
+
 \*[*Ebogotermes raphaeli* 拉斐尔埃博戈白蚁]({{ site.base_url }}/species/ebogotermes-raphaeli/)
 
 <h5 id="eburnitermes">象牙白蚁属 Eburnitermes</h5>
+
+{% include distribution-map.html mode="genus" id="eburnitermes" %}
 
 \*[*Eburnitermes grassei* 格拉塞象牙白蚁]({{ site.base_url }}/species/eburnitermes-grassei/)
 
 <h5 id="echinotermes">多刺白蚁属 Echinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="echinotermes" %}
+
 \*[*Echinotermes biriba* 比里巴多刺白蚁]({{ site.base_url }}/species/echinotermes-biriba/)
 
 <h5 id="euhamitermes">亮白蚁属 Euhamitermes</h5>
+
+{% include distribution-map.html mode="genus" id="euhamitermes" %}
 
 [*Euhamitermes aruna* 阿鲁纳亮白蚁]({{ site.base_url }}/species/euhamitermes-aruna/)
 
@@ -3516,6 +3733,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="eurytermes">宽白蚁属 Eurytermes</h5>
 
+{% include distribution-map.html mode="genus" id="eurytermes" %}
+
 \*[*Eurytermes assmuthi* 阿斯穆斯宽白蚁]({{ site.base_url }}/species/eurytermes-assmuthi/)
 
 [*Eurytermes boveni* 博文宽白蚁]({{ site.base_url }}/species/eurytermes-boveni/)
@@ -3530,13 +3749,19 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="firmitermes">坚白蚁属 Firmitermes</h5>
 
+{% include distribution-map.html mode="genus" id="firmitermes" %}
+
 \*[*Firmitermes abyssinicus* 阿比西尼亚坚白蚁]({{ site.base_url }}/species/firmitermes-abyssinicus/)
 
 <h5 id="gastrotermes">胃白蚁属 Gastrotermes</h5>
 
+{% include distribution-map.html mode="genus" id="gastrotermes" %}
+
 \*[*Gastrotermes spinatus* 多刺胃白蚁]({{ site.base_url }}/species/gastrotermes-spinatus/)
 
 <h5 id="grigiotermes">灰白蚁属 Grigiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="grigiotermes" %}
 
 \*[*Grigiotermes hageni* 哈根灰白蚁]({{ site.base_url }}/species/grigiotermes-hageni/)
 
@@ -3544,15 +3769,21 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="heimitermes">埃姆白蚁属 Heimitermes</h5>
 
+{% include distribution-map.html mode="genus" id="heimitermes" %}
+
 \*[*Heimitermes laticeps* 宽头埃姆白蚁]({{ site.base_url }}/species/heimitermes-laticeps/)
 
 [*Heimitermes moorei* 穆尔埃姆白蚁]({{ site.base_url }}/species/heimitermes-moorei/)
 
 <h5 id="hirsutitermes">毛糙白蚁属 Hirsutitermes</h5>
 
+{% include distribution-map.html mode="genus" id="hirsutitermes" %}
+
 \*[*Hirsutitermes kanzakii* 神崎毛糙白蚁]({{ site.base_url }}/species/hirsutitermes-kanzakii/)
 
 <h5 id="hoplognathotermes">锐颚白蚁属 Hoplognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="hoplognathotermes" %}
 
 [*Hoplognathotermes angolensis* 安哥拉锐颚白蚁]({{ site.base_url }}/species/hoplognathotermes-angolensis/)
 
@@ -3562,17 +3793,23 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="humutermes">腐殖白蚁属 Humutermes</h5>
 
+{% include distribution-map.html mode="genus" id="humutermes" %}
+
 \*[*Humutermes krishnai* 克里希纳腐殖白蚁]({{ site.base_url }}/species/humutermes-krishnai/)
 
 [*Humutermes noiroti* 努瓦罗腐殖白蚁]({{ site.base_url }}/species/humutermes-noiroti/)
 
 <h5 id="hydrecotermes">海德瑞克白蚁属 Hydrecotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hydrecotermes" %}
+
 \*[*Hydrecotermes arienesho* 惊人海德瑞克白蚁]({{ site.base_url }}/species/hydrecotermes-arienesho/)
 
 [*Hydrecotermes kawaii* 可爱海德瑞克白蚁]({{ site.base_url }}/species/hydrecotermes-kawaii/)
 
 <h5 id="indotermes">印白蚁属 Indotermes</h5>
+
+{% include distribution-map.html mode="genus" id="indotermes" %}
 
 [*Indotermes arshadi* 阿沙德印白蚁]({{ site.base_url }}/species/indotermes-arshadi/)
 
@@ -3596,25 +3833,37 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="jugositermes">岗白蚁属 Jugositermes</h5>
 
+{% include distribution-map.html mode="genus" id="jugositermes" %}
+
 \*[*Jugositermes tuberculatus* 具瘤岗白蚁]({{ site.base_url }}/species/jugositermes-tuberculatus/)
 
 <h5 id="koutabatermes">库塔巴白蚁属 Koutabatermes</h5>
+
+{% include distribution-map.html mode="genus" id="koutabatermes" %}
 
 \*[*Koutabatermes spinifer* 具刺库塔巴白蚁]({{ site.base_url }}/species/koutabatermes-spinifer/)
 
 <h5 id="krecekitermes">克雷切克白蚁属 Krecekitermes</h5>
 
+{% include distribution-map.html mode="genus" id="krecekitermes" %}
+
 \*[*Krecekitermes daironi* 戴龙克雷切克白蚁]({{ site.base_url }}/species/krecekitermes-daironi/)
 
 <h5 id="labidotermes">钳白蚁属 Labidotermes</h5>
+
+{% include distribution-map.html mode="genus" id="labidotermes" %}
 
 \*[*Labidotermes celisi* 塞利斯钳白蚁]({{ site.base_url }}/species/labidotermes-celisi/)
 
 <h5 id="longustitermes">长工白蚁属 Longustitermes</h5>
 
+{% include distribution-map.html mode="genus" id="longustitermes" %}
+
 \*[*Longustitermes manni* 曼长工白蚁]({{ site.base_url }}/species/longustitermes-manni/)
 
 <h5 id="machadotermes">剑白蚁属 Machadotermes</h5>
+
+{% include distribution-map.html mode="genus" id="machadotermes" %}
 
 \*[*Machadotermes inflatus* 过高剑白蚁]({{ site.base_url }}/species/machadotermes-inflatus/)
 
@@ -3624,13 +3873,19 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="mangolditermes">曼戈尔德白蚁属 Mangolditermes</h5>
 
+{% include distribution-map.html mode="genus" id="mangolditermes" %}
+
 \*[*Mangolditermes curveileum* 曲回曼戈尔德白蚁]({{ site.base_url }}/species/mangolditermes-curveileum/)
 
 <h5 id="ourissotermes">海胆白蚁属 Ourissotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ourissotermes" %}
+
 \*[*Ourissotermes giblinorum* 吉布林海胆白蚁]({{ site.base_url }}/species/ourissotermes-giblinorum/)
 
 <h5 id="patawatermes">帕塔瓦白蚁属 Patawatermes</h5>
+
+{% include distribution-map.html mode="genus" id="patawatermes" %}
 
 [*Patawatermes nigripunctatus* 黑点帕塔瓦白蚁]({{ site.base_url }}/species/patawatermes-nigripunctatus/)
 
@@ -3638,17 +3893,25 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="phoxotermes">锐白蚁属 Phoxotermes</h5>
 
+{% include distribution-map.html mode="genus" id="phoxotermes" %}
+
 \*[*Phoxotermes cerberus* 三头犬锐白蚁]({{ site.base_url }}/species/phoxotermes-cerberus/)
 
 <h5 id="rostrotermes">突吻白蚁属 Rostrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="rostrotermes" %}
 
 \*[*Rostrotermes cornutus* 具角突吻白蚁]({{ site.base_url }}/species/rostrotermes-cornutus/)
 
 <h5 id="rubeotermes">变红白蚁属 Rubeotermes</h5>
 
+{% include distribution-map.html mode="genus" id="rubeotermes" %}
+
 \*[*Rubeotermes jheringi* 耶林变红白蚁]({{ site.base_url }}/species/rubeotermes-jheringi/)
 
 <h5 id="ruptitermes">腹爆白蚁属 Ruptitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ruptitermes" %}
 
 [*Ruptitermes araujoi* 阿劳若腹爆白蚁]({{ site.base_url }}/species/ruptitermes-araujoi/)
 
@@ -3678,15 +3941,21 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="rustitermes">拉斯特白蚁属 Rustitermes</h5>
 
+{% include distribution-map.html mode="genus" id="rustitermes" %}
+
 \*[*Rustitermes boteroi* 博特罗拉斯特白蚁]({{ site.base_url }}/species/rustitermes-boteroi/)
 
 <h5 id="skatitermes">洁白蚁属 Skatitermes</h5>
+
+{% include distribution-map.html mode="genus" id="skatitermes" %}
 
 \*[*Skatitermes psammophilus* 喜沙洁白蚁]({{ site.base_url }}/species/skatitermes-psammophilus/)
 
 [*Skatitermes watti* 瓦特洁白蚁]({{ site.base_url }}/species/skatitermes-watti/)
 
 <h5 id="speculitermes">稀白蚁属 Speculitermes</h5>
+
+{% include distribution-map.html mode="genus" id="speculitermes" %}
 
 [*Speculitermes angustigulus* 狭颏稀白蚁]({{ site.base_url }}/species/speculitermes-angustigulus/)
 
@@ -3716,15 +3985,21 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="tetimatermes">足白蚁属 Tetimatermes</h5>
 
+{% include distribution-map.html mode="genus" id="tetimatermes" %}
+
 \*[*Tetimatermes oliveirae* 橄榄树足白蚁]({{ site.base_url }}/species/tetimatermes-oliveirae/)
 
 <h5 id="tonsuritermes">奇囟白蚁属 Tonsuritermes</h5>
+
+{% include distribution-map.html mode="genus" id="tonsuritermes" %}
 
 [*Tonsuritermes mathewsi* 马修斯奇囟白蚁]({{ site.base_url }}/species/tonsuritermes-mathewsi/)
 
 \*[*Tonsuritermes tucki* 塔克奇囟白蚁]({{ site.base_url }}/species/tonsuritermes-tucki/)
 
 <h5 id="trichotermes">发白蚁属 Trichotermes</h5>
+
+{% include distribution-map.html mode="genus" id="trichotermes" %}
 
 [*Trichotermes ducis* 首领发白蚁]({{ site.base_url }}/species/trichotermes-ducis/)
 
@@ -3734,9 +4009,13 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 <h5 id="triclavitermes">三棒白蚁属 Triclavitermes</h5>
 
+{% include distribution-map.html mode="genus" id="triclavitermes" %}
+
 \*[*Triclavitermes catoleensis* 卡托莱三棒白蚁]({{ site.base_url }}/species/triclavitermes-catoleensis/)
 
 <h5 id="tucupitermes">黄汁白蚁属 Tucupitermes</h5>
+
+{% include distribution-map.html mode="genus" id="tucupitermes" %}
 
 \*[*Tucupitermes ubixaba* 乌比沙巴黄汁白蚁]({{ site.base_url }}/species/tucupitermes-ubixaba/)
 
@@ -3776,6 +4055,8 @@ al., 2015）(47)，
 
 <h5 id="crepititermes">响白蚁属 Crepititermes</h5>
 
+{% include distribution-map.html mode="genus" id="crepititermes" %}
+
 \*[*Crepititermes verruculosus* 多疣响白蚁]({{ site.base_url }}/species/crepititermes-verruculosus/)
 
 <h4 id="cubitermitinae">方白蚁亚科 Cubitermitinae</h4>
@@ -3810,9 +4091,13 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="apilitermes">无毛白蚁属 Apilitermes</h5>
 
+{% include distribution-map.html mode="genus" id="apilitermes" %}
+
 \*[*Apilitermes longiceps* 长头无毛白蚁]({{ site.base_url }}/species/apilitermes-longiceps/)
 
 <h5 id="basidentitermes">基齿白蚁属 Basidentitermes</h5>
+
+{% include distribution-map.html mode="genus" id="basidentitermes" %}
 
 [*Basidentitermes amicus* 友善基齿白蚁]({{ site.base_url }}/species/basidentitermes-amicus/)
 
@@ -3832,11 +4117,15 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="batillitermes">铲白蚁属 Batillitermes</h5>
 
+{% include distribution-map.html mode="genus" id="batillitermes" %}
+
 [*Batillitermes clypeatus* 大唇铲白蚁]({{ site.base_url }}/species/batillitermes-clypeatus/)
 
 \*[*Batillitermes monachus* 僧侣铲白蚁]({{ site.base_url }}/species/batillitermes-monachus/)
 
 <h5 id="crenetermes">刻痕白蚁属 Crenetermes</h5>
+
+{% include distribution-map.html mode="genus" id="crenetermes" %}
 
 \*[*Crenetermes albotarsalis* 白跗刻痕白蚁]({{ site.base_url }}/species/crenetermes-albotarsalis/)
 
@@ -3849,6 +4138,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 [*Crenetermes mixtus* 混杂刻痕白蚁]({{ site.base_url }}/species/crenetermes-mixtus/)
 
 <h5 id="cubitermes">方白蚁属 Cubitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cubitermes" %}
 
 [*Cubitermes atrox* 凶猛方白蚁]({{ site.base_url }}/species/cubitermes-atrox/)
 
@@ -3874,6 +4165,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="euchilotermes">真唇白蚁属 Euchilotermes</h5>
 
+{% include distribution-map.html mode="genus" id="euchilotermes" %}
+
 [*Euchilotermes acutidens* 尖齿真唇白蚁]({{ site.base_url }}/species/euchilotermes-acutidens/)
 
 [*Euchilotermes quadriceps* 方头真唇白蚁]({{ site.base_url }}/species/euchilotermes-quadriceps/)
@@ -3884,9 +4177,13 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="fastigitermes">峰白蚁属 Fastigitermes</h5>
 
+{% include distribution-map.html mode="genus" id="fastigitermes" %}
+
 \*[*Fastigitermes jucundus* 可爱峰白蚁]({{ site.base_url }}/species/fastigitermes-jucundus/)
 
 <h5 id="furculitermes">叉白蚁属 Furculitermes</h5>
+
+{% include distribution-map.html mode="genus" id="furculitermes" %}
 
 [*Furculitermes brevilabius* 短唇叉白蚁]({{ site.base_url }}/species/furculitermes-brevilabius/)
 
@@ -3905,6 +4202,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 \*[*Furculitermes winifredae* 威尼弗雷德叉白蚁]({{ site.base_url }}/species/furculitermes-winifredae/)
 
 <h5 id="isognathotermes">等颚白蚁属 Isognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="isognathotermes" %}
 
 [*Isognathotermes bulbifrons* 球额等颚白蚁]({{ site.base_url }}/species/isognathotermes-bulbifrons/)
 
@@ -3926,6 +4225,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="lepidotermes">鳞白蚁属 Lepidotermes</h5>
 
+{% include distribution-map.html mode="genus" id="lepidotermes" %}
+
 [*Lepidotermes amydrus* 幽暗鳞白蚁]({{ site.base_url }}/species/lepidotermes-amydrus/)
 
 [*Lepidotermes goliathi* 戈利亚特鳞白蚁]({{ site.base_url }}/species/lepidotermes-goliathi/)
@@ -3946,17 +4247,23 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="megagnathotermes">大颚白蚁属 Megagnathotermes</h5>
 
+{% include distribution-map.html mode="genus" id="megagnathotermes" %}
+
 [*Megagnathotermes katangensis* 加丹加大颚白蚁]({{ site.base_url }}/species/megagnathotermes-katangensis/)
 
 \*[*Megagnathotermes notandus* 标记大颚白蚁]({{ site.base_url }}/species/megagnathotermes-notandus/)
 
 <h5 id="mucrotermes">锐尖白蚁属 Mucrotermes</h5>
 
+{% include distribution-map.html mode="genus" id="mucrotermes" %}
+
 [*Mucrotermes heterochilus* 异唇锐尖白蚁]({{ site.base_url }}/species/mucrotermes-heterochilus/)
 
 \*[*Mucrotermes osborni* 奥斯本锐尖白蚁]({{ site.base_url }}/species/mucrotermes-osborni/)
 
 <h5 id="nitiditermes">净白蚁属 Nitiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="nitiditermes" %}
 
 [*Nitiditermes aemulus* 竞争净白蚁]({{ site.base_url }}/species/nitiditermes-aemulus/)
 
@@ -3990,6 +4297,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="noditermes">节白蚁属 Noditermes</h5>
 
+{% include distribution-map.html mode="genus" id="noditermes" %}
+
 [*Noditermes angolensis* 安哥拉节白蚁]({{ site.base_url }}/species/noditermes-angolensis/)
 
 [*Noditermes cristifrons* 毛额节白蚁]({{ site.base_url }}/species/noditermes-cristifrons/)
@@ -4006,11 +4315,15 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="okavangotermes">奥卡万戈白蚁属 Okavangotermes</h5>
 
+{% include distribution-map.html mode="genus" id="okavangotermes" %}
+
 \*[*Okavangotermes giessi* 吉斯奥卡万戈白蚁]({{ site.base_url }}/species/okavangotermes-giessi/)
 
 [*Okavangotermes guineensis* 几内亚奥卡万戈白蚁]({{ site.base_url }}/species/okavangotermes-guineensis/)
 
 <h5 id="ophiotermes">蛇白蚁属 Ophiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ophiotermes" %}
 
 [*Ophiotermes gracilis* 细瘦蛇白蚁]({{ site.base_url }}/species/ophiotermes-gracilis/)
 
@@ -4028,19 +4341,27 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="orthotermes">直白蚁属 Orthotermes</h5>
 
+{% include distribution-map.html mode="genus" id="orthotermes" %}
+
 \*[*Orthotermes depressifrons* 陷额直白蚁]({{ site.base_url }}/species/orthotermes-depressifrons/)
 
 [*Orthotermes mansuetus* 顺从直白蚁]({{ site.base_url }}/species/orthotermes-mansuetus/)
 
 <h5 id="ovambotermes">奥万博兰白蚁属 Ovambotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ovambotermes" %}
+
 \*[*Ovambotermes sylvaticus* 林地奥万博兰白蚁]({{ site.base_url }}/species/ovambotermes-sylvaticus/)
 
 <h5 id="pilotermes">棘白蚁属 Pilotermes</h5>
 
+{% include distribution-map.html mode="genus" id="pilotermes" %}
+
 \*[*Pilotermes langi* 兰棘白蚁]({{ site.base_url }}/species/pilotermes-langi/)
 
 <h5 id="polyspathotermes">多铲白蚁属 Polyspathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="polyspathotermes" %}
 
 [*Polyspathotermes bugeserae* 布盖塞拉多铲白蚁]({{ site.base_url }}/species/polyspathotermes-bugeserae/)
 
@@ -4058,11 +4379,15 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="proboscitermes">象鼻白蚁属 Proboscitermes</h5>
 
+{% include distribution-map.html mode="genus" id="proboscitermes" %}
+
 [*Proboscitermes mcgrewi* 麦克格鲁象鼻白蚁]({{ site.base_url }}/species/proboscitermes-mcgrewi/)
 
 \*[*Proboscitermes tubuliferus* 具管象鼻白蚁]({{ site.base_url }}/species/proboscitermes-tubuliferus/)
 
 <h5 id="procubitermes">原方白蚁属 Procubitermes</h5>
+
+{% include distribution-map.html mode="genus" id="procubitermes" %}
 
 [*Procubitermes aburiensis* 阿布里原方白蚁]({{ site.base_url }}/species/procubitermes-aburiensis/)
 
@@ -4084,9 +4409,13 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="profastigitermes">前峰白蚁属 Profastigitermes</h5>
 
+{% include distribution-map.html mode="genus" id="profastigitermes" %}
+
 \*[*Profastigitermes putnami* 帕特南前峰白蚁]({{ site.base_url }}/species/profastigitermes-putnami/)
 
 <h5 id="ternicubitermes">三方白蚁属 Ternicubitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ternicubitermes" %}
 
 \*[*Ternicubitermes bilobatodes* 双叶三方白蚁]({{ site.base_url }}/species/ternicubitermes-bilobatodes/)
 
@@ -4116,6 +4445,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="thoracotermes">胸白蚁属 Thoracotermes</h5>
 
+{% include distribution-map.html mode="genus" id="thoracotermes" %}
+
 [*Thoracotermes brevinotus* 短背胸白蚁]({{ site.base_url }}/species/thoracotermes-brevinotus/)
 
 [*Thoracotermes grevillensis* 格瑞维勒胸白蚁]({{ site.base_url }}/species/thoracotermes-grevillensis/)
@@ -4126,9 +4457,13 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 <h5 id="trapellitermes">菱角白蚁属 Trapellitermes</h5>
 
+{% include distribution-map.html mode="genus" id="trapellitermes" %}
+
 \*[*Trapellitermes loxomastax* 弯颚菱角白蚁]({{ site.base_url }}/species/trapellitermes-loxomastax/)
 
 <h5 id="unguitermes">爪白蚁属 Unguitermes</h5>
+
+{% include distribution-map.html mode="genus" id="unguitermes" %}
 
 [*Unguitermes acutifrons* 尖额爪白蚁]({{ site.base_url }}/species/unguitermes-acutifrons/)
 
@@ -4145,6 +4480,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 [*Unguitermes unidentatus* 单齿爪白蚁]({{ site.base_url }}/species/unguitermes-unidentatus/)
 
 <h5 id="unicornitermes">独角白蚁属 Unicornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="unicornitermes" %}
 
 \*[*Unicornitermes gaerdesi* 盖尔德独角白蚁]({{ site.base_url }}/species/unicornitermes-gaerdesi/)
 
@@ -4178,9 +4515,13 @@ Cephalotermes 垅巢群体）。
 
 <h5 id="cephalotermes">头白蚁属 Cephalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="cephalotermes" %}
+
 \*[*Cephalotermes rectangularis* 直角头白蚁]({{ site.base_url }}/species/cephalotermes-rectangularis/)
 
 <h5 id="cylindrotermes">圆筒白蚁属 Cylindrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cylindrotermes" %}
 
 [*Cylindrotermes brevipilosus* 短毛圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-brevipilosus/)
 
@@ -4214,6 +4555,8 @@ Roisin 与 Scheffrahn 等于 2024 年建立(52)，
 有翅蚁迄今尚未采获。该亚科迄今仅知四个采集点，其发现表明非洲热带雨林中仍有本科独特深层支系有待发现。
 <h5 id="engelitermes">恩格尔白蚁属 Engelitermes</h5>
 
+{% include distribution-map.html mode="genus" id="engelitermes" %}
+
 \*[*Engelitermes zambo* 赞博恩格尔白蚁]({{ site.base_url }}/species/engelitermes-zambo/)
 
 <h4 id="foraminitermitinae">孔白蚁亚科 Foraminitermitinae</h4>
@@ -4238,6 +4581,8 @@ Roisin 与 Scheffrahn 等于 2024 年建立(52)，
 
 <h5 id="foraminitermes">孔白蚁属 Foraminitermes</h5>
 
+{% include distribution-map.html mode="genus" id="foraminitermes" %}
+
 [*Foraminitermes coatoni* 科顿孔白蚁]({{ site.base_url }}/species/foraminitermes-coatoni/)
 
 [*Foraminitermes corniferus* 具角孔白蚁]({{ site.base_url }}/species/foraminitermes-corniferus/)
@@ -4252,6 +4597,8 @@ Roisin 与 Scheffrahn 等于 2024 年建立(52)，
 
 <h5 id="labritermes">唇白蚁属 Labritermes</h5>
 
+{% include distribution-map.html mode="genus" id="labritermes" %}
+
 \*[*Labritermes buttelreepeni* 巴特里彭唇白蚁]({{ site.base_url }}/species/labritermes-buttelreepeni/)
 
 [*Labritermes emersoni* 埃默森唇白蚁]({{ site.base_url }}/species/labritermes-emersoni/)
@@ -4259,6 +4606,8 @@ Roisin 与 Scheffrahn 等于 2024 年建立(52)，
 [*Labritermes kistneri* 基斯特纳唇白蚁]({{ site.base_url }}/species/labritermes-kistneri/)
 
 <h5 id="pseudomicrotermes">伪小白蚁属 Pseudomicrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="pseudomicrotermes" %}
 
 \*[*Pseudomicrotermes alboniger* 白黑伪小白蚁]({{ site.base_url }}/species/pseudomicrotermes-alboniger/)
 
@@ -4278,6 +4627,8 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 但拓扑检验未拒绝其与恩格尔白蚁亚科近缘的假说；其独特的形态组合足以独立成亚科，代表本科中非基部、
 系统位置未定的又一狭域孑遗单型支系。
 <h5 id="forficulitermes">剪白蚁属 Forficulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="forficulitermes" %}
 
 \*[*Forficulitermes planifrons* 扁额剪白蚁]({{ site.base_url }}/species/forficulitermes-planifrons/)
 
@@ -4327,9 +4678,13 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 
 <h5 id="acanthotermes">刺白蚁属 Acanthotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acanthotermes" %}
+
 \*[*Acanthotermes acanthothorax* 刺胸刺白蚁]({{ site.base_url }}/species/acanthotermes-acanthothorax/)
 
 <h5 id="allodontermes">奇齿白蚁属 Allodontermes</h5>
+
+{% include distribution-map.html mode="genus" id="allodontermes" %}
 
 [*Allodontermes rhodesiensis* 罗得西亚奇齿白蚁]({{ site.base_url }}/species/allodontermes-rhodesiensis/)
 
@@ -4338,6 +4693,8 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 [*Allodontermes tenax* 执着奇齿白蚁]({{ site.base_url }}/species/allodontermes-tenax/)
 
 <h5 id="ancistrotermes">钩白蚁属 Ancistrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ancistrotermes" %}
 
 [*Ancistrotermes cavithorax* 凹胸钩白蚁]({{ site.base_url }}/species/ancistrotermes-cavithorax/)
 
@@ -4373,9 +4730,13 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 
 <h5 id="euscaiotermes">左转白蚁属 Euscaiotermes</h5>
 
+{% include distribution-map.html mode="genus" id="euscaiotermes" %}
+
 \*[*Euscaiotermes primus* 第一左转白蚁]({{ site.base_url }}/species/euscaiotermes-primus/)
 
 <h5 id="hypotermes">地白蚁属 Hypotermes</h5>
+
+{% include distribution-map.html mode="genus" id="hypotermes" %}
 
 [*Hypotermes bawanensis* 坝湾地白蚁]({{ site.base_url }}/species/hypotermes-bawanensis/)
 
@@ -4404,6 +4765,8 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 [*Hypotermes yingjiangensis* 盈江地白蚁]({{ site.base_url }}/species/hypotermes-yingjiangensis/)
 
 <h5 id="macrotermes">大白蚁属 Macrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="macrotermes" %}
 
 [*Macrotermes acrocephalus* 隆头大白蚁]({{ site.base_url }}/species/macrotermes-acrocephalus/)
 
@@ -4521,9 +4884,13 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 
 <h5 id="megaprotermes">大前白蚁属 Megaprotermes</h5>
 
+{% include distribution-map.html mode="genus" id="megaprotermes" %}
+
 \*[*Megaprotermes giffardii* 吉法德大前白蚁]({{ site.base_url }}/species/megaprotermes-giffardii/)
 
 <h5 id="microtermes">小白蚁属 Microtermes</h5>
+
+{% include distribution-map.html mode="genus" id="microtermes" %}
 
 [*Microtermes aethiopicus* 埃塞俄比亚小白蚁]({{ site.base_url }}/species/microtermes-aethiopicus/)
 
@@ -4664,6 +5031,8 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 [*Microtermes yemenensis* 也门小白蚁]({{ site.base_url }}/species/microtermes-yemenensis/)
 
 <h5 id="odontotermes">土白蚁属 Odontotermes</h5>
+
+{% include distribution-map.html mode="genus" id="odontotermes" %}
 
 [*Odontotermes acutidens* 尖齿土白蚁]({{ site.base_url }}/species/odontotermes-acutidens/)
 
@@ -5063,6 +5432,8 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 
 <h5 id="protermes">前白蚁属 Protermes</h5>
 
+{% include distribution-map.html mode="genus" id="protermes" %}
+
 [*Protermes hirticeps* 毛头前白蚁]({{ site.base_url }}/species/protermes-hirticeps/)
 
 [*Protermes minimus* 最小前白蚁]({{ site.base_url }}/species/protermes-minimus/)
@@ -5074,6 +5445,8 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 \*[*Protermes prorepens* 前匍前白蚁]({{ site.base_url }}/species/protermes-prorepens/)
 
 <h5 id="pseudacanthotermes">伪刺白蚁属 Pseudacanthotermes</h5>
+
+{% include distribution-map.html mode="genus" id="pseudacanthotermes" %}
 
 [*Pseudacanthotermes curticeps* 短头伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-curticeps/)
 
@@ -5088,6 +5461,8 @@ Allodontermes 等属为非洲与南亚作物害虫(10)。
 [*Pseudacanthotermes spiniger* 具刺伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-spiniger/)
 
 <h5 id="synacanthotermes">聚刺白蚁属 Synacanthotermes</h5>
+
+{% include distribution-map.html mode="genus" id="synacanthotermes" %}
 
 \*[*Synacanthotermes heterodon* 异齿聚刺白蚁]({{ site.base_url }}/species/synacanthotermes-heterodon/)
 
@@ -5121,6 +5496,8 @@ Holmgren, 1910）(14)，
 </figure>
 
 <h5 id="microcerotermes">锯白蚁属 Microcerotermes</h5>
+
+{% include distribution-map.html mode="genus" id="microcerotermes" %}
 
 [*Microcerotermes acerbus* 粗鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-acerbus/)
 
@@ -5420,6 +5797,8 @@ Holmgren, 1910）(14)，
 
 <h5 id="onkotermes">倒钩白蚁属 Onkotermes</h5>
 
+{% include distribution-map.html mode="genus" id="onkotermes" %}
+
 \*[*Onkotermes brevicorniger* 短角倒钩白蚁]({{ site.base_url }}/species/onkotermes-brevicorniger/)
 
 [*Onkotermes corochus* 瘤额倒钩白蚁]({{ site.base_url }}/species/onkotermes-corochus/)
@@ -5454,6 +5833,8 @@ sp. 为害袋装幼苗根部，
 </figure>
 
 <h5 id="dicuspiditermes">突扭白蚁属 Dicuspiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="dicuspiditermes" %}
 
 [*Dicuspiditermes achankovili* 阿坚柯维尔突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-achankovili/)
 
@@ -5499,6 +5880,8 @@ sp. 为害袋装幼苗根部，
 
 <h5 id="homallotermes">平白蚁属 Homallotermes</h5>
 
+{% include distribution-map.html mode="genus" id="homallotermes" %}
+
 [*Homallotermes eleanorae* 埃莉诺平白蚁]({{ site.base_url }}/species/homallotermes-eleanorae/)
 
 [*Homallotermes exiguus* 微小平白蚁]({{ site.base_url }}/species/homallotermes-exiguus/)
@@ -5509,13 +5892,19 @@ sp. 为害袋装幼苗根部，
 
 <h5 id="indocapritermes">印扭白蚁属 Indocapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="indocapritermes" %}
+
 \*[*Indocapritermes aruni* 阿伦印扭白蚁]({{ site.base_url }}/species/indocapritermes-aruni/)
 
 <h5 id="kemneritermes">凯姆勒白蚁属 Kemneritermes</h5>
 
+{% include distribution-map.html mode="genus" id="kemneritermes" %}
+
 \*[*Kemneritermes sarawakensis* 砂拉越凯姆勒白蚁]({{ site.base_url }}/species/kemneritermes-sarawakensis/)
 
 <h5 id="krishnacapritermes">克里希纳扭白蚁属 Krishnacapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="krishnacapritermes" %}
 
 [*Krishnacapritermes dineshan* 迪内尚克里希纳扭白蚁]({{ site.base_url }}/species/krishnacapritermes-dineshan/)
 
@@ -5527,11 +5916,15 @@ sp. 为害袋装幼苗根部，
 
 <h5 id="labiocapritermes">唇扭白蚁属 Labiocapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="labiocapritermes" %}
+
 \*[*Labiocapritermes distortus* 扭曲唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-distortus/)
 
 [*Labiocapritermes ghatensis* 高止唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-ghatensis/)
 
 <h5 id="mirocapritermes">瘤白蚁属 Mirocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="mirocapritermes" %}
 
 [*Mirocapritermes concaveus* 凹瘤白蚁]({{ site.base_url }}/species/mirocapritermes-concaveus/)
 
@@ -5551,9 +5944,13 @@ sp. 为害袋装幼苗根部，
 
 <h5 id="oriencapritermes">东扭白蚁属 Oriencapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="oriencapritermes" %}
+
 \*[*Oriencapritermes kluangensis* 居銮东扭白蚁]({{ site.base_url }}/species/oriencapritermes-kluangensis/)
 
 <h5 id="pericapritermes">近扭白蚁属 Pericapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="pericapritermes" %}
 
 [*Pericapritermes appellans* 定名近扭白蚁]({{ site.base_url }}/species/pericapritermes-appellans/)
 
@@ -5639,6 +6036,8 @@ sp. 为害袋装幼苗根部，
 
 <h5 id="procapritermes">前扭白蚁属 Procapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="procapritermes" %}
+
 [*Procapritermes atypus* 地蛛前扭白蚁]({{ site.base_url }}/species/procapritermes-atypus/)
 
 [*Procapritermes dakshinae* 戴克夏娜前扭白蚁]({{ site.base_url }}/species/procapritermes-dakshinae/)
@@ -5666,6 +6065,8 @@ sp. 为害袋装幼苗根部，
 [*Procapritermes zhangfengensis* 章凤前扭白蚁]({{ site.base_url }}/species/procapritermes-zhangfengensis/)
 
 <h5 id="pseudocapritermes">伪扭白蚁属 Pseudocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="pseudocapritermes" %}
 
 [*Pseudocapritermes angustignathus* 细颚伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-angustignathus/)
 
@@ -5705,11 +6106,15 @@ sp. 为害袋装幼苗根部，
 
 <h5 id="rinacapritermes">丽娜扭白蚁属 Rinacapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="rinacapritermes" %}
+
 [*Rinacapritermes abundans* 丰富丽娜扭白蚁]({{ site.base_url }}/species/rinacapritermes-abundans/)
 
 \*[*Rinacapritermes silvius* 林栖丽娜扭白蚁]({{ site.base_url }}/species/rinacapritermes-silvius/)
 
 <h5 id="sinocapritermes">华扭白蚁属 Sinocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="sinocapritermes" %}
 
 [*Sinocapritermes albipennis* 白翅华扭白蚁]({{ site.base_url }}/species/sinocapritermes-albipennis/)
 
@@ -5744,6 +6149,8 @@ sp. 为害袋装幼苗根部，
 [*Sinocapritermes yunnanensis* 滇华扭白蚁]({{ site.base_url }}/species/sinocapritermes-yunnanensis/)
 
 <h5 id="syncapritermes">聚扭白蚁属 Syncapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="syncapritermes" %}
 
 \*[*Syncapritermes greeni* 格林聚扭白蚁]({{ site.base_url }}/species/syncapritermes-greeni/)
 
@@ -5788,21 +6195,29 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="aciculitermes">针白蚁属 Aciculitermes</h5>
 
+{% include distribution-map.html mode="genus" id="aciculitermes" %}
+
 \*[*Aciculitermes aciculatus* 针状针白蚁]({{ site.base_url }}/species/aciculitermes-aciculatus/)
 
 [*Aciculitermes maymyoensis* 眉妙针白蚁]({{ site.base_url }}/species/aciculitermes-maymyoensis/)
 
 <h5 id="afrosubulitermes">非锥白蚁属 Afrosubulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="afrosubulitermes" %}
+
 \*[*Afrosubulitermes congoensis* 刚果非锥白蚁]({{ site.base_url }}/species/afrosubulitermes-congoensis/)
 
 <h5 id="agnathotermes">无颚白蚁属 Agnathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="agnathotermes" %}
 
 [*Agnathotermes crassinasus* 粗鼻无颚白蚁]({{ site.base_url }}/species/agnathotermes-crassinasus/)
 
 \*[*Agnathotermes glaber* 光秃无颚白蚁]({{ site.base_url }}/species/agnathotermes-glaber/)
 
 <h5 id="ahmaditermes">钝颚白蚁属 Ahmaditermes</h5>
+
+{% include distribution-map.html mode="genus" id="ahmaditermes" %}
 
 [*Ahmaditermes choui* 周氏钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-choui/)
 
@@ -5848,11 +6263,15 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="ampoulitermes">安瓿白蚁属 Ampoulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="ampoulitermes" %}
+
 \*[*Ampoulitermes wynaadensis* 维纳德安瓿白蚁]({{ site.base_url }}/species/ampoulitermes-wynaadensis/)
 
 [*Ampoulitermes zacharia* 扎卡里亚安瓿白蚁]({{ site.base_url }}/species/ampoulitermes-zacharia/)
 
 <h5 id="angularitermes">棱角白蚁属 Angularitermes</h5>
+
+{% include distribution-map.html mode="genus" id="angularitermes" %}
 
 [*Angularitermes clypeatus* 大唇棱角白蚁]({{ site.base_url }}/species/angularitermes-clypeatus/)
 
@@ -5868,6 +6287,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="anhangatermes">魔白蚁属 Anhangatermes</h5>
 
+{% include distribution-map.html mode="genus" id="anhangatermes" %}
+
 [*Anhangatermes anhanguera* 魔鬼魔白蚁]({{ site.base_url }}/species/anhangatermes-anhanguera/)
 
 [*Anhangatermes eurycephalus* 宽头魔白蚁]({{ site.base_url }}/species/anhangatermes-eurycephalus/)
@@ -5880,9 +6301,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="antillitermes">安的列斯白蚁属 Antillitermes</h5>
 
+{% include distribution-map.html mode="genus" id="antillitermes" %}
+
 \*[*Antillitermes subtilis* 细瘦安的列斯白蚁]({{ site.base_url }}/species/antillitermes-subtilis/)
 
 <h5 id="araujotermes">阿劳若白蚁属 Araujotermes</h5>
+
+{% include distribution-map.html mode="genus" id="araujotermes" %}
 
 \*[*Araujotermes caissara* 凯萨拉阿劳若白蚁]({{ site.base_url }}/species/araujotermes-caissara/)
 
@@ -5894,9 +6319,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="arcotermes">弧白蚁属 Arcotermes</h5>
 
+{% include distribution-map.html mode="genus" id="arcotermes" %}
+
 \*[*Arcotermes tubus* 管鼻弧白蚁]({{ site.base_url }}/species/arcotermes-tubus/)
 
 <h5 id="atlantitermes">阿特拉斯白蚁属 Atlantitermes</h5>
+
+{% include distribution-map.html mode="genus" id="atlantitermes" %}
 
 \*[*Atlantitermes guarinim* 好斗阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-guarinim/)
 
@@ -5916,6 +6345,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="australitermes">澳大利亚白蚁属 Australitermes</h5>
 
+{% include distribution-map.html mode="genus" id="australitermes" %}
+
 \*[*Australitermes dilucidus* 清晰澳大利亚白蚁]({{ site.base_url }}/species/australitermes-dilucidus/)
 
 [*Australitermes insignitus* 易辨澳大利亚白蚁]({{ site.base_url }}/species/australitermes-insignitus/)
@@ -5924,9 +6355,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="baucaliotermes">细颈白蚁属 Baucaliotermes</h5>
 
+{% include distribution-map.html mode="genus" id="baucaliotermes" %}
+
 \*[*Baucaliotermes hainesi* 海恩斯细颈白蚁]({{ site.base_url }}/species/baucaliotermes-hainesi/)
 
 <h5 id="bulbitermes">瓢白蚁属 Bulbitermes</h5>
+
+{% include distribution-map.html mode="genus" id="bulbitermes" %}
 
 [*Bulbitermes borneensis* 婆罗瓢白蚁]({{ site.base_url }}/species/bulbitermes-borneensis/)
 
@@ -5998,15 +6433,21 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="caetetermes">林白蚁属 Caetetermes</h5>
 
+{% include distribution-map.html mode="genus" id="caetetermes" %}
+
 [*Caetetermes fontesi* 丰特斯林白蚁]({{ site.base_url }}/species/caetetermes-fontesi/)
 
 \*[*Caetetermes taquarussu* 塔夸拉林白蚁]({{ site.base_url }}/species/caetetermes-taquarussu/)
 
 <h5 id="caribitermes">加勒比白蚁属 Caribitermes</h5>
 
+{% include distribution-map.html mode="genus" id="caribitermes" %}
+
 \*[*Caribitermes discolor* 异色加勒比白蚁]({{ site.base_url }}/species/caribitermes-discolor/)
 
 <h5 id="ceylonitermellus">小锡兰白蚁属 Ceylonitermellus</h5>
+
+{% include distribution-map.html mode="genus" id="ceylonitermellus" %}
 
 \*[*Ceylonitermellus hantanae* 汉塔娜小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-hantanae/)
 
@@ -6015,6 +6456,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Ceylonitermellus sahyadriensis* 萨亚德里小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-sahyadriensis/)
 
 <h5 id="ceylonitermes">锡兰白蚁属 Ceylonitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ceylonitermes" %}
 
 \*[*Ceylonitermes escherichi* 埃舍里希锡兰白蚁]({{ site.base_url }}/species/ceylonitermes-escherichi/)
 
@@ -6026,6 +6469,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="coarctotermes">缩狭白蚁属 Coarctotermes</h5>
 
+{% include distribution-map.html mode="genus" id="coarctotermes" %}
+
 [*Coarctotermes beharaensis* 贝哈拉缩狭白蚁]({{ site.base_url }}/species/coarctotermes-beharaensis/)
 
 \*[*Coarctotermes clepsydra* 漏壶缩狭白蚁]({{ site.base_url }}/species/coarctotermes-clepsydra/)
@@ -6035,6 +6480,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Coarctotermes pauliani* 波利昂缩狭白蚁]({{ site.base_url }}/species/coarctotermes-pauliani/)
 
 <h5 id="coatitermes">凸鼻白蚁属 Coatitermes</h5>
+
+{% include distribution-map.html mode="genus" id="coatitermes" %}
 
 \*[*Coatitermes clevelandi* 克利夫兰凸鼻白蚁]({{ site.base_url }}/species/coatitermes-clevelandi/)
 
@@ -6046,9 +6493,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="coendutermes">箭猪白蚁属 Coendutermes</h5>
 
+{% include distribution-map.html mode="genus" id="coendutermes" %}
+
 \*[*Coendutermes tucum* 纤维箭猪白蚁]({{ site.base_url }}/species/coendutermes-tucum/)
 
 <h5 id="constrictotermes">缩白蚁属 Constrictotermes</h5>
+
+{% include distribution-map.html mode="genus" id="constrictotermes" %}
 
 [*Constrictotermes cacaoensis* 可可缩白蚁]({{ site.base_url }}/species/constrictotermes-cacaoensis/)
 
@@ -6064,11 +6515,15 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="convexitermes">凸白蚁属 Convexitermes</h5>
 
+{% include distribution-map.html mode="genus" id="convexitermes" %}
+
 \*[*Convexitermes convexifrons* 凸额凸白蚁]({{ site.base_url }}/species/convexitermes-convexifrons/)
 
 [*Convexitermes manni* 曼凸白蚁]({{ site.base_url }}/species/convexitermes-manni/)
 
 <h5 id="cortaritermes">利颚白蚁属 Cortaritermes</h5>
+
+{% include distribution-map.html mode="genus" id="cortaritermes" %}
 
 [*Cortaritermes fulviceps* 栗头利颚白蚁]({{ site.base_url }}/species/cortaritermes-fulviceps/)
 
@@ -6082,6 +6537,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="cucurbitermes">葫白蚁属 Cucurbitermes</h5>
 
+{% include distribution-map.html mode="genus" id="cucurbitermes" %}
+
 [*Cucurbitermes parviceps* 小葫白蚁]({{ site.base_url }}/species/cucurbitermes-parviceps/)
 
 [*Cucurbitermes sinensis* 中华葫白蚁]({{ site.base_url }}/species/cucurbitermes-sinensis/)
@@ -6089,6 +6546,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 \*[*Cucurbitermes yingdeensis* 英德葫白蚁]({{ site.base_url }}/species/cucurbitermes-yingdeensis/)
 
 <h5 id="cyranotermes">巨鼻白蚁属 Cyranotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cyranotermes" %}
 
 [*Cyranotermes caete* 卡埃特巨鼻白蚁]({{ site.base_url }}/species/cyranotermes-caete/)
 
@@ -6100,6 +6559,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="diversitermes">歧白蚁属 Diversitermes</h5>
 
+{% include distribution-map.html mode="genus" id="diversitermes" %}
+
 [*Diversitermes castaniceps* 栗头歧白蚁]({{ site.base_url }}/species/diversitermes-castaniceps/)
 
 \*[*Diversitermes diversimiles* 多兵歧白蚁]({{ site.base_url }}/species/diversitermes-diversimiles/)
@@ -6107,6 +6568,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Diversitermes tiapuan* 长简鼻歧白蚁]({{ site.base_url }}/species/diversitermes-tiapuan/)
 
 <h5 id="diwaitermes">木象白蚁属 Diwaitermes</h5>
+
+{% include distribution-map.html mode="genus" id="diwaitermes" %}
 
 [*Diwaitermes castanopsis* 锥栗木象白蚁]({{ site.base_url }}/species/diwaitermes-castanopsis/)
 
@@ -6116,17 +6579,25 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="eleanoritermes">埃莉诺白蚁属 Eleanoritermes</h5>
 
+{% include distribution-map.html mode="genus" id="eleanoritermes" %}
+
 \*[*Eleanoritermes borneensis* 婆罗埃莉诺白蚁]({{ site.base_url }}/species/eleanoritermes-borneensis/)
 
 <h5 id="emersonitermes">埃默森白蚁属 Emersonitermes</h5>
+
+{% include distribution-map.html mode="genus" id="emersonitermes" %}
 
 \*[*Emersonitermes thekadensis* 卡迪埃默森白蚁]({{ site.base_url }}/species/emersonitermes-thekadensis/)
 
 <h5 id="enetotermes">针筒白蚁属 Enetotermes</h5>
 
+{% include distribution-map.html mode="genus" id="enetotermes" %}
+
 \*[*Enetotermes bembicoides* 似陀针筒白蚁]({{ site.base_url }}/species/enetotermes-bembicoides/)
 
 <h5 id="ereymatermes">无名白蚁属 Ereymatermes</h5>
+
+{% include distribution-map.html mode="genus" id="ereymatermes" %}
 
 [*Ereymatermes panamensis* 巴拿马无名白蚁]({{ site.base_url }}/species/ereymatermes-panamensis/)
 
@@ -6135,6 +6606,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 \*[*Ereymatermes rotundiceps* 圆头无名白蚁]({{ site.base_url }}/species/ereymatermes-rotundiceps/)
 
 <h5 id="eutermellus">小真白蚁属 Eutermellus</h5>
+
+{% include distribution-map.html mode="genus" id="eutermellus" %}
 
 [*Eutermellus abruptus* 陡峭小真白蚁]({{ site.base_url }}/species/eutermellus-abruptus/)
 
@@ -6148,6 +6621,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="fulleritermes">富勒白蚁属 Fulleritermes</h5>
 
+{% include distribution-map.html mode="genus" id="fulleritermes" %}
+
 [*Fulleritermes coatoni* 科顿富勒白蚁]({{ site.base_url }}/species/fulleritermes-coatoni/)
 
 \*[*Fulleritermes contractus* 收缩富勒白蚁]({{ site.base_url }}/species/fulleritermes-contractus/)
@@ -6157,6 +6632,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Fulleritermes tenebricus* 阴暗富勒白蚁]({{ site.base_url }}/species/fulleritermes-tenebricus/)
 
 <h5 id="grallatotermes">高跷白蚁属 Grallatotermes</h5>
+
+{% include distribution-map.html mode="genus" id="grallatotermes" %}
 
 [*Grallatotermes admirabilus* 奇妙高跷白蚁]({{ site.base_url }}/species/grallatotermes-admirabilus/)
 
@@ -6174,6 +6651,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="hirtitermes">多毛白蚁属 Hirtitermes</h5>
 
+{% include distribution-map.html mode="genus" id="hirtitermes" %}
+
 [*Hirtitermes brabazoni* 布拉巴宗多毛白蚁]({{ site.base_url }}/species/hirtitermes-brabazoni/)
 
 \*[*Hirtitermes hirtiventris* 毛腹多毛白蚁]({{ site.base_url }}/species/hirtitermes-hirtiventris/)
@@ -6181,6 +6660,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Hirtitermes spinocephalus* 刺头多毛白蚁]({{ site.base_url }}/species/hirtitermes-spinocephalus/)
 
 <h5 id="hospitalitermes">须白蚁属 Hospitalitermes</h5>
+
+{% include distribution-map.html mode="genus" id="hospitalitermes" %}
 
 [*Hospitalitermes asahinai* 朝比奈须白蚁]({{ site.base_url }}/species/hospitalitermes-asahinai/)
 
@@ -6258,9 +6739,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="hyleotermes">森林白蚁属 Hyleotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hyleotermes" %}
+
 \*[*Hyleotermes brevipilus* 短毛森林白蚁]({{ site.base_url }}/species/hyleotermes-brevipilus/)
 
 <h5 id="kaudernitermes">考登白蚁属 Kaudernitermes</h5>
+
+{% include distribution-map.html mode="genus" id="kaudernitermes" %}
 
 \*[*Kaudernitermes kaudernianus* 考登考登白蚁]({{ site.base_url }}/species/kaudernitermes-kaudernianus/)
 
@@ -6271,6 +6756,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Kaudernitermes salebrithorax* 凹胸考登白蚁]({{ site.base_url }}/species/kaudernitermes-salebrithorax/)
 
 <h5 id="lacessititermes">怒白蚁属 Lacessititermes</h5>
+
+{% include distribution-map.html mode="genus" id="lacessititermes" %}
 
 [*Lacessititermes albipes* 白足怒白蚁]({{ site.base_url }}/species/lacessititermes-albipes/)
 
@@ -6314,9 +6801,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="leptomyxotermes">薄喙白蚁属 Leptomyxotermes</h5>
 
+{% include distribution-map.html mode="genus" id="leptomyxotermes" %}
+
 \*[*Leptomyxotermes doriae* 多利亚薄喙白蚁]({{ site.base_url }}/species/leptomyxotermes-doriae/)
 
 <h5 id="leucopitermes">白脸白蚁属 Leucopitermes</h5>
+
+{% include distribution-map.html mode="genus" id="leucopitermes" %}
 
 [*Leucopitermes leucopiformis* 似白脸白脸白蚁]({{ site.base_url }}/species/leucopitermes-leucopiformis/)
 
@@ -6328,25 +6819,35 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="longipeditermes">长足白蚁属 Longipeditermes</h5>
 
+{% include distribution-map.html mode="genus" id="longipeditermes" %}
+
 [*Longipeditermes kistneri* 基斯特纳长足白蚁]({{ site.base_url }}/species/longipeditermes-kistneri/)
 
 \*[*Longipeditermes longipes* 长足长足白蚁]({{ site.base_url }}/species/longipeditermes-longipes/)
 
 <h5 id="macrosubulitermes">大锥白蚁属 Macrosubulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="macrosubulitermes" %}
+
 \*[*Macrosubulitermes greavesi* 格里夫斯大锥白蚁]({{ site.base_url }}/species/macrosubulitermes-greavesi/)
 
 <h5 id="malagasitermes">马尔加什白蚁属 Malagasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="malagasitermes" %}
+
 \*[*Malagasitermes milloti* 米约马尔加什白蚁]({{ site.base_url }}/species/malagasitermes-milloti/)
 
 <h5 id="malaysiotermes">马来白蚁属 Malaysiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="malaysiotermes" %}
 
 [*Malaysiotermes holmgreni* 霍姆格伦马来白蚁]({{ site.base_url }}/species/malaysiotermes-holmgreni/)
 
 \*[*Malaysiotermes spinocephalus* 刺头马来白蚁]({{ site.base_url }}/species/malaysiotermes-spinocephalus/)
 
 <h5 id="mimeutermes">仿白蚁属 Mimeutermes</h5>
+
+{% include distribution-map.html mode="genus" id="mimeutermes" %}
 
 [*Mimeutermes binghami* 宾厄姆仿白蚁]({{ site.base_url }}/species/mimeutermes-binghami/)
 
@@ -6362,19 +6863,27 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="muelleritermes">米勒白蚁属 Muelleritermes</h5>
 
+{% include distribution-map.html mode="genus" id="muelleritermes" %}
+
 \*[*Muelleritermes fritzi* 弗里茨米勒白蚁米勒白蚁]({{ site.base_url }}/species/muelleritermes-fritzi/)
 
 [*Muelleritermes globiceps* 球头米勒白蚁]({{ site.base_url }}/species/muelleritermes-globiceps/)
 
 <h5 id="mycterotermes">鸟嘴白蚁属 Mycterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="mycterotermes" %}
+
 \*[*Mycterotermes meringocephalus* 饼头鸟嘴白蚁]({{ site.base_url }}/species/mycterotermes-meringocephalus/)
 
 <h5 id="nasopilotermes">棘象白蚁属 Nasopilotermes</h5>
 
+{% include distribution-map.html mode="genus" id="nasopilotermes" %}
+
 \*[*Nasopilotermes jiangxiensis* 江西棘象白蚁]({{ site.base_url }}/species/nasopilotermes-jiangxiensis/)
 
 <h5 id="nasutitermes">象白蚁属 Nasutitermes</h5>
+
+{% include distribution-map.html mode="genus" id="nasutitermes" %}
 
 [*Nasutitermes acajutlae* 阿卡胡特拉象白蚁]({{ site.base_url }}/species/nasutitermes-acajutlae/)
 
@@ -6864,15 +7373,21 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="ngauratermes">凋落白蚁属 Ngauratermes</h5>
 
+{% include distribution-map.html mode="genus" id="ngauratermes" %}
+
 \*[*Ngauratermes arue* 小凋落白蚁]({{ site.base_url }}/species/ngauratermes-arue/)
 
 <h5 id="niuginitermes">新几内亚白蚁属 Niuginitermes</h5>
+
+{% include distribution-map.html mode="genus" id="niuginitermes" %}
 
 [*Niuginitermes liklik* 小新几内亚白蚁]({{ site.base_url }}/species/niuginitermes-liklik/)
 
 \*[*Niuginitermes variratae* 瓦里拉塔新几内亚白蚁]({{ site.base_url }}/species/niuginitermes-variratae/)
 
 <h5 id="obtusitermes">钝白蚁属 Obtusitermes</h5>
+
+{% include distribution-map.html mode="genus" id="obtusitermes" %}
 
 [*Obtusitermes formosulus* 漂亮钝白蚁]({{ site.base_url }}/species/obtusitermes-formosulus/)
 
@@ -6882,11 +7397,15 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="occasitermes">西部白蚁属 Occasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="occasitermes" %}
+
 \*[*Occasitermes occasus* 西部西部白蚁]({{ site.base_url }}/species/occasitermes-occasus/)
 
 [*Occasitermes watsoni* 沃森西部白蚁]({{ site.base_url }}/species/occasitermes-watsoni/)
 
 <h5 id="occultitermes">隐白蚁属 Occultitermes</h5>
+
+{% include distribution-map.html mode="genus" id="occultitermes" %}
 
 [*Occultitermes aridus* 干燥隐白蚁]({{ site.base_url }}/species/occultitermes-aridus/)
 
@@ -6894,11 +7413,15 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="oriensubulitermes">东锥白蚁属 Oriensubulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="oriensubulitermes" %}
+
 \*[*Oriensubulitermes inanis* 缺齿东锥白蚁]({{ site.base_url }}/species/oriensubulitermes-inanis/)
 
 [*Oriensubulitermes kemneri* 凯姆勒东锥白蚁]({{ site.base_url }}/species/oriensubulitermes-kemneri/)
 
 <h5 id="paraconvexitermes">近凸白蚁属 Paraconvexitermes</h5>
+
+{% include distribution-map.html mode="genus" id="paraconvexitermes" %}
 
 [*Paraconvexitermes acangapua* 圆头近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-acangapua/)
 
@@ -6907,6 +7430,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 \*[*Paraconvexitermes nigricornis* 黑角近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-nigricornis/)
 
 <h5 id="parvitermes">微白蚁属 Parvitermes</h5>
+
+{% include distribution-map.html mode="genus" id="parvitermes" %}
 
 [*Parvitermes aequalis* 类似微白蚁]({{ site.base_url }}/species/parvitermes-aequalis/)
 
@@ -6936,21 +7461,31 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="periaciculitermes">近针白蚁属 Periaciculitermes</h5>
 
+{% include distribution-map.html mode="genus" id="periaciculitermes" %}
+
 \*[*Periaciculitermes menglunensis* 勐仑近针白蚁]({{ site.base_url }}/species/periaciculitermes-menglunensis/)
 
 <h5 id="postsubulitermes">后锥白蚁属 Postsubulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="postsubulitermes" %}
 
 \*[*Postsubulitermes parviconstrictus* 微缩后锥白蚁]({{ site.base_url }}/species/postsubulitermes-parviconstrictus/)
 
 <h5 id="rhadinotermes">锥形白蚁属 Rhadinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="rhadinotermes" %}
+
 \*[*Rhadinotermes coarctatus* 压缩锥形白蚁]({{ site.base_url }}/species/rhadinotermes-coarctatus/)
 
 <h5 id="roonwalitermes">鲁恩沃白蚁属 Roonwalitermes</h5>
 
+{% include distribution-map.html mode="genus" id="roonwalitermes" %}
+
 \*[*Roonwalitermes wadhwai* 沃德瓦鲁恩沃白蚁]({{ site.base_url }}/species/roonwalitermes-wadhwai/)
 
 <h5 id="rotunditermes">圆白蚁属 Rotunditermes</h5>
+
+{% include distribution-map.html mode="genus" id="rotunditermes" %}
 
 [*Rotunditermes bragantinus* 布拉干提纳圆白蚁]({{ site.base_url }}/species/rotunditermes-bragantinus/)
 
@@ -6958,9 +7493,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="rounditermes">胖白蚁属 Rounditermes</h5>
 
+{% include distribution-map.html mode="genus" id="rounditermes" %}
+
 \*[*Rounditermes dechambrei* 德尚布尔胖白蚁]({{ site.base_url }}/species/rounditermes-dechambrei/)
 
 <h5 id="sabahitermes">沙巴白蚁属 Sabahitermes</h5>
+
+{% include distribution-map.html mode="genus" id="sabahitermes" %}
 
 [*Sabahitermes leuserensis* 勒塞尔沙巴白蚁]({{ site.base_url }}/species/sabahitermes-leuserensis/)
 
@@ -6968,9 +7507,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="sandsitermes">桑兹白蚁属 Sandsitermes</h5>
 
+{% include distribution-map.html mode="genus" id="sandsitermes" %}
+
 \*[*Sandsitermes robustus* 粗壮桑兹白蚁]({{ site.base_url }}/species/sandsitermes-robustus/)
 
 <h5 id="sinonasutitermes">华象白蚁属 Sinonasutitermes</h5>
+
+{% include distribution-map.html mode="genus" id="sinonasutitermes" %}
 
 [*Sinonasutitermes admirabilis* 奇异华象白蚁]({{ site.base_url }}/species/sinonasutitermes-admirabilis/)
 
@@ -6996,13 +7539,19 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="sinqasapatermes">鼻大白蚁属 Sinqasapatermes</h5>
 
+{% include distribution-map.html mode="genus" id="sinqasapatermes" %}
+
 \*[*Sinqasapatermes sachae* 森林鼻大白蚁]({{ site.base_url }}/species/sinqasapatermes-sachae/)
 
 <h5 id="spatulitermes">匙白蚁属 Spatulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="spatulitermes" %}
+
 \*[*Spatulitermes coolingi* 库林匙白蚁]({{ site.base_url }}/species/spatulitermes-coolingi/)
 
 <h5 id="subulioiditermes">似锥白蚁属 Subulioiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="subulioiditermes" %}
 
 [*Subulioiditermes borneensis* 婆罗似锥白蚁]({{ site.base_url }}/species/subulioiditermes-borneensis/)
 
@@ -7011,6 +7560,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 \*[*Subulioiditermes subulioides* 似锥似锥白蚁]({{ site.base_url }}/species/subulioiditermes-subulioides/)
 
 <h5 id="subulitermes">锥白蚁属 Subulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="subulitermes" %}
 
 [*Subulitermes angusticeps* 窄头锥白蚁]({{ site.base_url }}/species/subulitermes-angusticeps/)
 
@@ -7026,9 +7577,13 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="tarditermes">慢白蚁属 Tarditermes</h5>
 
+{% include distribution-map.html mode="genus" id="tarditermes" %}
+
 \*[*Tarditermes contracolor* 反色慢白蚁]({{ site.base_url }}/species/tarditermes-contracolor/)
 
 <h5 id="tenuirostritermes">薄嘴白蚁属 Tenuirostritermes</h5>
+
+{% include distribution-map.html mode="genus" id="tenuirostritermes" %}
 
 [*Tenuirostritermes briciae* 布瑞西亚薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-briciae/)
 
@@ -7042,15 +7597,21 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="tiunatermes">暗鼻白蚁属 Tiunatermes</h5>
 
+{% include distribution-map.html mode="genus" id="tiunatermes" %}
+
 \*[*Tiunatermes mariuzani* 马里乌赞暗鼻白蚁]({{ site.base_url }}/species/tiunatermes-mariuzani/)
 
 [*Tiunatermes tapirape* 塔皮拉佩暗鼻白蚁]({{ site.base_url }}/species/tiunatermes-tapirape/)
 
 <h5 id="triangularitermes">三角白蚁属 Triangularitermes</h5>
 
+{% include distribution-map.html mode="genus" id="triangularitermes" %}
+
 \*[*Triangularitermes triangulariceps* 三角头三角白蚁]({{ site.base_url }}/species/triangularitermes-triangulariceps/)
 
 <h5 id="trinervitermes">三脉白蚁属 Trinervitermes</h5>
+
+{% include distribution-map.html mode="genus" id="trinervitermes" %}
 
 [*Trinervitermes arabiae* 阿拉伯三脉白蚁]({{ site.base_url }}/species/trinervitermes-arabiae/)
 
@@ -7096,6 +7657,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="tumulitermes">冢白蚁属 Tumulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="tumulitermes" %}
+
 [*Tumulitermes apiocephalus* 蜂头冢白蚁]({{ site.base_url }}/species/tumulitermes-apiocephalus/)
 
 [*Tumulitermes comatus* 长毛冢白蚁]({{ site.base_url }}/species/tumulitermes-comatus/)
@@ -7132,6 +7695,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="velocitermes">快白蚁属 Velocitermes</h5>
 
+{% include distribution-map.html mode="genus" id="velocitermes" %}
+
 [*Velocitermes aporeticus* 怀疑快白蚁]({{ site.base_url }}/species/velocitermes-aporeticus/)
 
 [*Velocitermes barrocoloradensis* 巴罗科罗拉多快白蚁]({{ site.base_url }}/species/velocitermes-barrocoloradensis/)
@@ -7154,11 +7719,15 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 <h5 id="verrucositermes">疣白蚁属 Verrucositermes</h5>
 
+{% include distribution-map.html mode="genus" id="verrucositermes" %}
+
 [*Verrucositermes hirtus* 多毛疣白蚁]({{ site.base_url }}/species/verrucositermes-hirtus/)
 
 \*[*Verrucositermes tuberosus* 多疣疣白蚁]({{ site.base_url }}/species/verrucositermes-tuberosus/)
 
 <h5 id="xiaitermes">夏氏白蚁属 Xiaitermes</h5>
+
+{% include distribution-map.html mode="genus" id="xiaitermes" %}
 
 [*Xiaitermes tiantaiensis* 天台夏氏白蚁]({{ site.base_url }}/species/xiaitermes-tiantaiensis/)
 
@@ -7194,6 +7763,8 @@ Schievitermes），
 </figure>
 
 <h5 id="neocapritermes">新扭白蚁属 Neocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="neocapritermes" %}
 
 [*Neocapritermes angusticeps* 窄头新扭白蚁]({{ site.base_url }}/species/neocapritermes-angusticeps/)
 
@@ -7231,11 +7802,15 @@ Schievitermes），
 
 <h5 id="planicapritermes">平扭白蚁属 Planicapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="planicapritermes" %}
+
 [*Planicapritermes longilabrum* 长唇平扭白蚁]({{ site.base_url }}/species/planicapritermes-longilabrum/)
 
 \*[*Planicapritermes planiceps* 平头平扭白蚁]({{ site.base_url }}/species/planicapritermes-planiceps/)
 
 <h5 id="schievitermes">不对称白蚁属 Schievitermes</h5>
+
+{% include distribution-map.html mode="genus" id="schievitermes" %}
 
 \*[*Schievitermes globicornis* 球角不对称白蚁]({{ site.base_url }}/species/schievitermes-globicornis/)
 
@@ -7261,6 +7836,8 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 </figure>
 
 <h5 id="angulitermes">角白蚁属 Angulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="angulitermes" %}
 
 [*Angulitermes acutus* 锋利角白蚁]({{ site.base_url }}/species/angulitermes-acutus/)
 
@@ -7322,6 +7899,8 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 
 <h5 id="promirotermes">前奇白蚁属 Promirotermes</h5>
 
+{% include distribution-map.html mode="genus" id="promirotermes" %}
+
 [*Promirotermes bechuana* 贝专纳前奇白蚁]({{ site.base_url }}/species/promirotermes-bechuana/)
 
 [*Promirotermes bellicosi* 勇猛前奇白蚁]({{ site.base_url }}/species/promirotermes-bellicosi/)
@@ -7365,9 +7944,13 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 
 <h5 id="orientotermes">东方白蚁属 Orientotermes</h5>
 
+{% include distribution-map.html mode="genus" id="orientotermes" %}
+
 \*[*Orientotermes emersoni* 埃默森东方白蚁]({{ site.base_url }}/species/orientotermes-emersoni/)
 
 <h5 id="protohamitermes">始钩白蚁属 Protohamitermes</h5>
+
+{% include distribution-map.html mode="genus" id="protohamitermes" %}
 
 \*[*Protohamitermes globiceps* 球头始钩白蚁]({{ site.base_url }}/species/protohamitermes-globiceps/)
 
@@ -7394,6 +7977,8 @@ Engel 与 Bourguignon 于 2024 年建立(21)，
 生态上，其冢巢是喀麦隆雨林黑猩猩“钓白蚁”行为的主要利用对象之一(74)。
 
 <h5 id="sphaerotermes">圆球白蚁属 Sphaerotermes</h5>
+
+{% include distribution-map.html mode="genus" id="sphaerotermes" %}
 
 \*[*Sphaerotermes sphaerothorax* 圆胸圆球白蚁]({{ site.base_url }}/species/sphaerotermes-sphaerothorax/)
 
@@ -7432,9 +8017,13 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="acangaobitermes">漏斗白蚁属 Acangaobitermes</h5>
 
+{% include distribution-map.html mode="genus" id="acangaobitermes" %}
+
 \*[*Acangaobitermes krishnai* 克里希纳漏斗白蚁]({{ site.base_url }}/species/acangaobitermes-krishnai/)
 
 <h5 id="armitermes">戟白蚁属 Armitermes</h5>
+
+{% include distribution-map.html mode="genus" id="armitermes" %}
 
 \*[*Armitermes armiger* 具戟戟白蚁]({{ site.base_url }}/species/armitermes-armiger/)
 
@@ -7444,21 +8033,29 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="bandeiratermes">班代拉白蚁属 Bandeiratermes</h5>
 
+{% include distribution-map.html mode="genus" id="bandeiratermes" %}
+
 \*[*Bandeiratermes silvestrii* 西尔韦斯特里班代拉白蚁]({{ site.base_url }}/species/bandeiratermes-silvestrii/)
 
 [*Bandeiratermes tellustris* 大地班代拉白蚁]({{ site.base_url }}/species/bandeiratermes-tellustris/)
 
 <h5 id="biratermes">拜拉白蚁属 Biratermes</h5>
 
+{% include distribution-map.html mode="genus" id="biratermes" %}
+
 \*[*Biratermes robustus* 粗壮拜拉白蚁]({{ site.base_url }}/species/biratermes-robustus/)
 
 <h5 id="cahuallitermes">弃白蚁属 Cahuallitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cahuallitermes" %}
 
 [*Cahuallitermes aduncus* 具钩弃白蚁]({{ site.base_url }}/species/cahuallitermes-aduncus/)
 
 \*[*Cahuallitermes intermedius* 中间弃白蚁]({{ site.base_url }}/species/cahuallitermes-intermedius/)
 
 <h5 id="cornitermes">角象白蚁属 Cornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cornitermes" %}
 
 [*Cornitermes acignathus* 尖颚角象白蚁]({{ site.base_url }}/species/cornitermes-acignathus/)
 
@@ -7490,11 +8087,15 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="curvitermes">曲白蚁属 Curvitermes</h5>
 
+{% include distribution-map.html mode="genus" id="curvitermes" %}
+
 [*Curvitermes minor* 小型曲白蚁]({{ site.base_url }}/species/curvitermes-minor/)
 
 \*[*Curvitermes odontognathus* 齿颚曲白蚁]({{ site.base_url }}/species/curvitermes-odontognathus/)
 
 <h5 id="cyrilliotermes">壶头白蚁属 Cyrilliotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cyrilliotermes" %}
 
 \*[*Cyrilliotermes angulariceps* 角头壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-angulariceps/)
 
@@ -7505,6 +8106,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Cyrilliotermes strictinasus* 缩鼻壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-strictinasus/)
 
 <h5 id="embiratermes">生白蚁属 Embiratermes</h5>
+
+{% include distribution-map.html mode="genus" id="embiratermes" %}
 
 [*Embiratermes benjamini* 本杰明生白蚁]({{ site.base_url }}/species/embiratermes-benjamini/)
 
@@ -7526,15 +8129,21 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="genuotermes">膝白蚁属 Genuotermes</h5>
 
+{% include distribution-map.html mode="genus" id="genuotermes" %}
+
 \*[*Genuotermes spinifer* 具脊膝白蚁]({{ site.base_url }}/species/genuotermes-spinifer/)
 
 <h5 id="ibitermes">地球白蚁属 Ibitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ibitermes" %}
 
 [*Ibitermes curupira* 长毛地球白蚁]({{ site.base_url }}/species/ibitermes-curupira/)
 
 \*[*Ibitermes inflatus* 高唇基地球白蚁]({{ site.base_url }}/species/ibitermes-inflatus/)
 
 <h5 id="labiotermes">厚唇白蚁属 Labiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="labiotermes" %}
 
 [*Labiotermes brevilabius* 短唇厚唇白蚁]({{ site.base_url }}/species/labiotermes-brevilabius/)
 
@@ -7558,11 +8167,15 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="macuxitermes">马库希白蚁属 Macuxitermes</h5>
 
+{% include distribution-map.html mode="genus" id="macuxitermes" %}
+
 [*Macuxitermes colombicus* 哥伦比亚马库希白蚁]({{ site.base_url }}/species/macuxitermes-colombicus/)
 
 \*[*Macuxitermes triceratops* 三角马库希白蚁]({{ site.base_url }}/species/macuxitermes-triceratops/)
 
 <h5 id="mapinguaritermes">红懒白蚁属 Mapinguaritermes</h5>
+
+{% include distribution-map.html mode="genus" id="mapinguaritermes" %}
 
 [*Mapinguaritermes grandidens* 大齿红懒白蚁]({{ site.base_url }}/species/mapinguaritermes-grandidens/)
 
@@ -7572,13 +8185,19 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="noirotitermes">努瓦罗白蚁属 Noirotitermes</h5>
 
+{% include distribution-map.html mode="genus" id="noirotitermes" %}
+
 \*[*Noirotitermes noiroti* 努瓦罗努瓦罗白蚁]({{ site.base_url }}/species/noirotitermes-noiroti/)
 
 <h5 id="paracurvitermes">近曲白蚁属 Paracurvitermes</h5>
 
+{% include distribution-map.html mode="genus" id="paracurvitermes" %}
+
 \*[*Paracurvitermes manni* 曼近曲白蚁]({{ site.base_url }}/species/paracurvitermes-manni/)
 
 <h5 id="procornitermes">前角白蚁属 Procornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="procornitermes" %}
 
 [*Procornitermes araujoi* 阿劳若前角白蚁]({{ site.base_url }}/species/procornitermes-araujoi/)
 
@@ -7591,6 +8210,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 \*[*Procornitermes triacifer* 三尖唇前角白蚁]({{ site.base_url }}/species/procornitermes-triacifer/)
 
 <h5 id="rhynchotermes">喙白蚁属 Rhynchotermes</h5>
+
+{% include distribution-map.html mode="genus" id="rhynchotermes" %}
 
 [*Rhynchotermes amazonensis* 亚马孙喙白蚁]({{ site.base_url }}/species/rhynchotermes-amazonensis/)
 
@@ -7610,6 +8231,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="silvestritermes">西尔韦斯特里白蚁属 Silvestritermes</h5>
 
+{% include distribution-map.html mode="genus" id="silvestritermes" %}
+
 [*Silvestritermes almirsateri* 阿尔米尔萨特尔西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-almirsateri/)
 
 [*Silvestritermes duende* 精灵西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-duende/)
@@ -7625,6 +8248,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Silvestritermes minutus* 最小西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-minutus/)
 
 <h5 id="syntermes">聚白蚁属 Syntermes</h5>
+
+{% include distribution-map.html mode="genus" id="syntermes" %}
 
 [*Syntermes aculeosus* 胸刺聚白蚁]({{ site.base_url }}/species/syntermes-aculeosus/)
 
@@ -7674,11 +8299,15 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="uncitermes">弯钩白蚁属 Uncitermes</h5>
 
+{% include distribution-map.html mode="genus" id="uncitermes" %}
+
 [*Uncitermes almeriae* 阿尔梅里弯钩白蚁]({{ site.base_url }}/species/uncitermes-almeriae/)
 
 \*[*Uncitermes teevani* 蒂范弯钩白蚁]({{ site.base_url }}/species/uncitermes-teevani/)
 
 <h5 id="vaninitermes">瓦宁白蚁属 Vaninitermes</h5>
+
+{% include distribution-map.html mode="genus" id="vaninitermes" %}
 
 [*Vaninitermes brevinasus* 短鼻瓦宁白蚁]({{ site.base_url }}/species/vaninitermes-brevinasus/)
 
@@ -7715,6 +8344,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="apsenterotermes">后肠白蚁属 Apsenterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="apsenterotermes" %}
+
 [*Apsenterotermes aspersus* 散乱后肠白蚁]({{ site.base_url }}/species/apsenterotermes-aspersus/)
 
 [*Apsenterotermes declinatus* 长弯后肠白蚁]({{ site.base_url }}/species/apsenterotermes-declinatus/)
@@ -7727,9 +8358,13 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="capritermes">扭白蚁属 Capritermes</h5>
 
+{% include distribution-map.html mode="genus" id="capritermes" %}
+
 \*[*Capritermes capricornis* 山羊角扭白蚁]({{ site.base_url }}/species/capritermes-capricornis/)
 
 <h5 id="cavitermes">腔白蚁属 Cavitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cavitermes" %}
 
 [*Cavitermes parmae* 帕尔马腔白蚁]({{ site.base_url }}/species/cavitermes-parmae/)
 
@@ -7743,9 +8378,13 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="cornicapritermes">角扭白蚁属 Cornicapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="cornicapritermes" %}
+
 \*[*Cornicapritermes mucronatus* 尖锐角扭白蚁]({{ site.base_url }}/species/cornicapritermes-mucronatus/)
 
 <h5 id="cristatitermes">脊突白蚁属 Cristatitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cristatitermes" %}
 
 [*Cristatitermes arenicola* 沙栖脊突白蚁]({{ site.base_url }}/species/cristatitermes-arenicola/)
 
@@ -7761,11 +8400,15 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="dihoplotermes">双戟白蚁属 Dihoplotermes</h5>
 
+{% include distribution-map.html mode="genus" id="dihoplotermes" %}
+
 \*[*Dihoplotermes inusitatus* 非凡双戟白蚁]({{ site.base_url }}/species/dihoplotermes-inusitatus/)
 
 [*Dihoplotermes taurus* 公牛双戟白蚁]({{ site.base_url }}/species/dihoplotermes-taurus/)
 
 <h5 id="divinotermes">迪维努白蚁属 Divinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="divinotermes" %}
 
 \*[*Divinotermes allognathus* 异颚迪维努白蚁]({{ site.base_url }}/species/divinotermes-allognathus/)
 
@@ -7774,6 +8417,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Divinotermes tuberculatus* 小瘤迪维努白蚁]({{ site.base_url }}/species/divinotermes-tuberculatus/)
 
 <h5 id="ekphysotermes">瘤突白蚁属 Ekphysotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ekphysotermes" %}
 
 [*Ekphysotermes jarmuranus* 贾穆瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-jarmuranus/)
 
@@ -7786,6 +8431,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Ekphysotermes percomis* 可爱瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-percomis/)
 
 <h5 id="ephelotermes">棒颚白蚁属 Ephelotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ephelotermes" %}
 
 [*Ephelotermes argutus* 清楚棒颚白蚁]({{ site.base_url }}/species/ephelotermes-argutus/)
 
@@ -7801,6 +8448,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="hapsidotermes">络白蚁属 Hapsidotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hapsidotermes" %}
+
 \*[*Hapsidotermes harrisi* 哈里斯络白蚁]({{ site.base_url }}/species/hapsidotermes-harrisi/)
 
 [*Hapsidotermes labellus* 小唇络白蚁]({{ site.base_url }}/species/hapsidotermes-labellus/)
@@ -7813,9 +8462,13 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="hesperotermes">西澳白蚁属 Hesperotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hesperotermes" %}
+
 \*[*Hesperotermes infrequens* 罕见西澳白蚁]({{ site.base_url }}/species/hesperotermes-infrequens/)
 
 <h5 id="inquilinitermes">客白蚁属 Inquilinitermes</h5>
+
+{% include distribution-map.html mode="genus" id="inquilinitermes" %}
 
 \*[*Inquilinitermes fur* 窃贼客白蚁]({{ site.base_url }}/species/inquilinitermes-fur/)
 
@@ -7826,6 +8479,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Inquilinitermes microcerus* 小角客白蚁]({{ site.base_url }}/species/inquilinitermes-microcerus/)
 
 <h5 id="lophotermes">小脊突白蚁属 Lophotermes</h5>
+
+{% include distribution-map.html mode="genus" id="lophotermes" %}
 
 [*Lophotermes aduncus* 钩状小脊突白蚁]({{ site.base_url }}/species/lophotermes-aduncus/)
 
@@ -7847,6 +8502,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="macrognathotermes">长颚白蚁属 Macrognathotermes</h5>
 
+{% include distribution-map.html mode="genus" id="macrognathotermes" %}
+
 [*Macrognathotermes broomensis* 布鲁姆长颚白蚁]({{ site.base_url }}/species/macrognathotermes-broomensis/)
 
 \*[*Macrognathotermes errator* 游荡长颚白蚁]({{ site.base_url }}/species/macrognathotermes-errator/)
@@ -7857,9 +8514,13 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="palmitermes">棕榈白蚁属 Palmitermes</h5>
 
+{% include distribution-map.html mode="genus" id="palmitermes" %}
+
 \*[*Palmitermes impostor* 骗子棕榈白蚁]({{ site.base_url }}/species/palmitermes-impostor/)
 
 <h5 id="paracapritermes">旁扭白蚁属 Paracapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="paracapritermes" %}
 
 [*Paracapritermes kraepelinii* 克雷珀林旁扭白蚁]({{ site.base_url }}/species/paracapritermes-kraepelinii/)
 
@@ -7871,19 +8532,27 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="protocapritermes">始扭白蚁属 Protocapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="protocapritermes" %}
+
 \*[*Protocapritermes krisiformis* 波颚始扭白蚁]({{ site.base_url }}/species/protocapritermes-krisiformis/)
 
 [*Protocapritermes odontomachus* 齿颚始扭白蚁]({{ site.base_url }}/species/protocapritermes-odontomachus/)
 
 <h5 id="quasitermes">相似白蚁属 Quasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="quasitermes" %}
+
 \*[*Quasitermes incisus* 切割相似白蚁]({{ site.base_url }}/species/quasitermes-incisus/)
 
 <h5 id="saxatilitermes">石白蚁属 Saxatilitermes</h5>
 
+{% include distribution-map.html mode="genus" id="saxatilitermes" %}
+
 \*[*Saxatilitermes saxatilis* 石栖石白蚁]({{ site.base_url }}/species/saxatilitermes-saxatilis/)
 
 <h5 id="spinitermes">针刺白蚁属 Spinitermes</h5>
+
+{% include distribution-map.html mode="genus" id="spinitermes" %}
 
 [*Spinitermes brevicornutus* 短角针刺白蚁]({{ site.base_url }}/species/spinitermes-brevicornutus/)
 
@@ -7896,6 +8565,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 \*[*Spinitermes trispinosus* 三针针刺白蚁]({{ site.base_url }}/species/spinitermes-trispinosus/)
 
 <h5 id="termes">白蚁属 Termes</h5>
+
+{% include distribution-map.html mode="genus" id="termes" %}
 
 [*Termes amaralii* 阿马拉利白蚁]({{ site.base_url }}/species/termes-amaralii/)
 
@@ -7951,6 +8622,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 <h5 id="tuberculitermes">小瘤白蚁属 Tuberculitermes</h5>
 
+{% include distribution-map.html mode="genus" id="tuberculitermes" %}
+
 \*[*Tuberculitermes bycanistes* 噪犀鸟小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-bycanistes/)
 
 [*Tuberculitermes flexuosus* 弯曲小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-flexuosus/)
@@ -7958,6 +8631,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Tuberculitermes guineensis* 几内亚小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-guineensis/)
 
 <h5 id="xylochomitermes">木堆白蚁属 Xylochomitermes</h5>
+
+{% include distribution-map.html mode="genus" id="xylochomitermes" %}
 
 [*Xylochomitermes aspinosus* 无刺木堆白蚁]({{ site.base_url }}/species/xylochomitermes-aspinosus/)
 
@@ -8418,3 +9093,11 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
     condiciones de campo. Rev Investig Estud UNA.
     2024;
     15(1):62-70. [doi: 10.57201/ieuna2413372](https://doi.org/10.57201/ieuna2413372)
+
+---
+
+<h2 id="references-doi">参考文献与 DOI <span class="fact-en" lang="en">References &amp; DOIs</span> <span class="fact-es" lang="es">Referencias y DOI</span></h2>
+
+<p>上列 {{ site.data.references.meta.counts.total }} 条参考文献的增强视图：逐条给出 <strong>DOI 链接</strong>、<strong>Crossref 书目记录</strong>，以及 <strong>GB/T 7714 式</strong>、<strong>APA 7</strong>、<strong>Vancouver</strong> 三种引用格式与 <strong>BibTeX / RIS / CSL-JSON</strong> 机器可读格式，均可一键复制或下载。权威条目仍以上面编号列表中的原文为准，两处的编号、条数与措辞完全一致。</p>
+
+{% include references.html %}

@@ -1,0 +1,12 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Hospitalitermes nigriantennalis","species_zh":"黑触角须白蚁","slug":"hospitalitermes-nigriantennalis","rank":"species","type_species":false,"genus":"Hospitalitermes","genus_zh":"须白蚁属","genus_id":"hospitalitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9135216,"records":23,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5,-1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,0.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[110.5,1.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[112.5,1.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,3.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,4.5]},"properties":{"n":5}}
+]
+}

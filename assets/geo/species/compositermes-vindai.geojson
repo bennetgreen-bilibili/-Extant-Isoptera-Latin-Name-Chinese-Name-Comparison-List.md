@@ -1,0 +1,21 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Compositermes vindai","species_zh":"文达肠刺白蚁","slug":"compositermes-vindai","rank":"species","type_species":true,"genus":"Compositermes","genus_zh":"肠刺白蚁属","genus_id":"compositermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8483205,"records":33,"cells":15,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-57.5,-26.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-57.5,-25.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-56.5,-23.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-56.5,-22.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-59.5,-18.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,-8.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,8.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,10.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-60.5,11.5]},"properties":{"n":2}}
+]
+}

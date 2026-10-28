@@ -1,0 +1,13 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Syntermes grandis","species_zh":"大聚白蚁","slug":"syntermes-grandis","rank":"species","type_species":false,"genus":"Syntermes","genus_zh":"聚白蚁属","genus_id":"syntermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9377655,"records":8,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-42.5,-19.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-47.5,-15.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-45.5,-15.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-51.5,3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-55.5,5.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":1}}
+]
+}

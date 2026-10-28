@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"family":"Termitogetonidae","family_zh":"寡脉白蚁科","family_id":"termitogetonidae","gbif_key":null,"gbif_keys":[4802748],"resolution":"genus_aggregate","records":1,"cells":1,"grid":"1 degree","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, accessed 2026-10-28; aggregated to a 1 degree grid by this site","note":"GBIF backbone has no rank=FAMILY match for this name; the map aggregates the occurrences of the genera this checklist places in the family. Its records also count towards the GBIF host family."},
+"properties":{"level":"family","family":"TERMITOGETONIDAE","family_zh":"寡脉白蚁科","family_id":"termitogetonidae","records":1,"cells":1,"genera":1,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[80.5,6.5]},"properties":{"n":1}}
 ]

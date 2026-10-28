@@ -1,0 +1,23 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Amitermes hastatus","species_zh":"长矛弓白蚁","slug":"amitermes-hastatus","rank":"species","type_species":false,"genus":"Amitermes","genus_zh":"弓白蚁属","genus_id":"amitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9678503,"records":655,"cells":17,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-34.5]},"properties":{"n":232}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-34.5]},"properties":{"n":123}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[20.5,-34.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[21.5,-34.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.5,-34.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-33.5]},"properties":{"n":82}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-33.5]},"properties":{"n":121}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[20.5,-33.5]},"properties":{"n":15}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[21.5,-33.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.5,-33.5]},"properties":{"n":10}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[23.5,-33.5]},"properties":{"n":14}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[24.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[25.5,-33.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-32.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-32.5]},"properties":{"n":31}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-31.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-31.5]},"properties":{"n":1}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Amitermes amifer","species_zh":"弓颚弓白蚁","slug":"amitermes-amifer","rank":"species","type_species":true,"genus":"Amitermes","genus_zh":"弓白蚁属","genus_id":"amitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9028301,"records":5,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-56.5,-15.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-37.5,-9.5]},"properties":{"n":2}}
+]
+}

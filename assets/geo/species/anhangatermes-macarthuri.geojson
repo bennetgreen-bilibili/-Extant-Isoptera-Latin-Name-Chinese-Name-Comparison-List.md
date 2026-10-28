@@ -1,0 +1,9 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Anhangatermes macarthuri","species_zh":"麦克阿瑟魔白蚁","slug":"anhangatermes-macarthuri","rank":"species","type_species":true,"genus":"Anhangatermes","genus_zh":"魔白蚁属","genus_id":"anhangatermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8505220,"records":7,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-63.5,-8.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}}
+]
+}

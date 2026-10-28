@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"family":"Psammotermitidae","family_zh":"沙白蚁科","family_id":"psammotermitidae","gbif_key":null,"gbif_keys":[2007372,4802730],"resolution":"genus_aggregate","records":68,"cells":38,"grid":"1 degree","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, accessed 2026-10-28; aggregated to a 1 degree grid by this site","note":"GBIF backbone has no rank=FAMILY match for this name; the map aggregates the occurrences of the genera this checklist places in the family. Its records also count towards the GBIF host family."},
+"properties":{"level":"family","family":"PSAMMOTERMITIDAE","family_zh":"沙白蚁科","family_id":"psammotermitidae","records":68,"cells":38,"genera":2,"species":18,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[21.5,-32.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-31.5]},"properties":{"n":2}},

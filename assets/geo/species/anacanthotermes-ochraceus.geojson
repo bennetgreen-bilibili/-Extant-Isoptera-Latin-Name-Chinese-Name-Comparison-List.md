@@ -1,0 +1,14 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Anacanthotermes ochraceus","species_zh":"黄赭无刺白蚁","slug":"anacanthotermes-ochraceus","rank":"species","type_species":true,"genus":"Anacanthotermes","genus_zh":"无刺白蚁属","genus_id":"anacanthotermes","family":"HODOTERMITIDAE","family_zh":"草白蚁科","family_id":"hodotermitidae","gbif_key":9803140,"records":17,"cells":8,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[58.5,23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[29.5,26.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-9.5,28.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.5,30.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,31.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[8.5,34.5]},"properties":{"n":1}}
+]
+}

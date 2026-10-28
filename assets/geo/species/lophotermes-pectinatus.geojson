@@ -1,0 +1,11 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Lophotermes pectinatus","species_zh":"梳状小脊突白蚁","slug":"lophotermes-pectinatus","rank":"species","type_species":true,"genus":"Lophotermes","genus_zh":"小脊突白蚁属","genus_id":"lophotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803302,"records":29,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[144.5,-15.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-15.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[141.5,-12.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[143.5,-12.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-11.5]},"properties":{"n":5}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Parrhinotermes queenslandicus","species_zh":"昆士兰棒鼻白蚁","slug":"parrhinotermes-queenslandicus","rank":"species","type_species":false,"genus":"Parrhinotermes","genus_zh":"棒鼻白蚁属","genus_id":"parrhinotermes","family":"RHINOTERMITIDAE","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":4802745,"records":38,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-18.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-17.5]},"properties":{"n":19}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-17.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-16.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-15.5]},"properties":{"n":9}}
+]
+}

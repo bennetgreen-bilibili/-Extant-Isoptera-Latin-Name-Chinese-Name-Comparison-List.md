@@ -1,0 +1,19 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Pseudacanthotermes spiniger","species_zh":"具刺伪刺白蚁","slug":"pseudacanthotermes-spiniger","rank":"species","type_species":false,"genus":"Pseudacanthotermes","genus_zh":"伪刺白蚁属","genus_id":"pseudacanthotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9718938,"records":25,"cells":13,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[25.5,-12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[26.5,-12.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[27.5,-12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[28.5,-12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[24.5,-11.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[32.5,-11.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,0.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[11.5,3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[29.5,3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":9}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,6.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[1.5,6.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-10.5,7.5]},"properties":{"n":1}}
+]
+}

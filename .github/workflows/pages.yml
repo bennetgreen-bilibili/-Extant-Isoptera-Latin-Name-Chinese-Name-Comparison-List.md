@@ -69,7 +69,7 @@ jobs:
           python .github/workflows/build_species_photos.py --check
           python .github/workflows/build_references.py --verify
           # GeoJSON 与 occurrence_summary.json 必须一一对应：既校验 JSON 合法，也防止孤儿/缺失文件
-          python -c "import glob,json,os; s=json.load(open('_data/occurrence_summary.json', encoding='utf-8')); listed={os.path.normpath(f['file']) for f in s['families']} | {os.path.normpath(g['file']) for g in (s.get('genera') or [])}; disk={os.path.normpath(p) for p in glob.glob('assets/geo/**/*.geojson', recursive=True)}; [json.load(open(p, encoding='utf-8')) for p in disk]; missing=listed-disk; orphan=disk-listed; print('geo artefacts OK (%d files)' % len(disk)); raise SystemExit(1 if (missing or orphan) else 0)"
+          python -c "import glob,json,os; s=json.load(open('_data/occurrence_summary.json', encoding='utf-8')); listed={os.path.normpath(f['file']) for f in s['families']} | {os.path.normpath(g['file']) for g in (s.get('genera') or [])} | {os.path.normpath(v['file']) for v in (s.get('species') or {}).values()}; disk={os.path.normpath(p) for p in glob.glob('assets/geo/**/*.geojson', recursive=True)}; [json.load(open(p, encoding='utf-8')) for p in disk]; missing=listed-disk; orphan=disk-listed; print('geo artefacts OK (%d files)' % len(disk)); raise SystemExit(1 if (missing or orphan) else 0)"
 
       # 构建时增量刷新外部权威库：只用已提交缓存 + 过期条目，最多 120 秒；
       # 因此部署版可能比仓库缓存新，但绝不让构建因外部 API 变慢/失败而卡住。

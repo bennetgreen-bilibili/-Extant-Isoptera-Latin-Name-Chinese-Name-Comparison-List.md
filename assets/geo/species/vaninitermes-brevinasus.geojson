@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Vaninitermes brevinasus","species_zh":"短鼻瓦宁白蚁","slug":"vaninitermes-brevinasus","rank":"species","type_species":false,"genus":"Vaninitermes","genus_zh":"瓦宁白蚁属","genus_id":"vaninitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":11892275,"records":13,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-60.5,-2.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,5.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":8}}
+]
+}

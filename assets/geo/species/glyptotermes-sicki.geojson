@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Glyptotermes sicki","species_zh":"西克树白蚁","slug":"glyptotermes-sicki","rank":"species","type_species":false,"genus":"Glyptotermes","genus_zh":"树白蚁属","genus_id":"glyptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":9784934,"records":2,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-25.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-22.5]},"properties":{"n":1}}
+]
+}

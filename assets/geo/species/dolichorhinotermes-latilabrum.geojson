@@ -1,0 +1,12 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Dolichorhinotermes latilabrum","species_zh":"宽唇狭鼻白蚁","slug":"dolichorhinotermes-latilabrum","rank":"species","type_species":false,"genus":"Dolichorhinotermes","genus_zh":"狭鼻白蚁属","genus_id":"dolichorhinotermes","family":"RHINOTERMITIDAE","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":9477363,"records":50,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-65.5,-9.5]},"properties":{"n":12}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":21}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-8.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-39.5,-8.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":2}}
+]
+}

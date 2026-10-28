@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Neotermes meruensis","species_zh":"梅鲁新白蚁","slug":"neotermes-meruensis","rank":"species","type_species":false,"genus":"Neotermes","genus_zh":"新白蚁属","genus_id":"neotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":9032601,"records":2,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[36.5,-3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,-1.5]},"properties":{"n":1}}
+]
+}

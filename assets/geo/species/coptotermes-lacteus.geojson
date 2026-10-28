@@ -1,0 +1,26 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Coptotermes lacteus","species_zh":"乳色乳白蚁","slug":"coptotermes-lacteus","rank":"species","type_species":false,"genus":"Coptotermes","genus_zh":"乳白蚁属","genus_id":"coptotermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":4802737,"records":82,"cells":20,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-38.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-38.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-37.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-37.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[149.5,-37.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[150.5,-37.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[149.5,-36.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[150.5,-36.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[148.5,-35.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[149.5,-35.5]},"properties":{"n":22}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[149.5,-34.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[150.5,-34.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[150.5,-33.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[151.5,-33.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[152.5,-31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[151.5,-29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[152.5,-29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[153.5,-28.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[152.5,-27.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[153.5,-27.5]},"properties":{"n":1}}
+]
+}

@@ -34,6 +34,8 @@ Below follow **Family** → **Subfamily** → **Genus** → **Species**; the fam
 
 <p class="search-hint">Pinyin (e.g. <code>baiyi</code>) and traditional Chinese are both supported. For anything beyond the checklist (blog posts, species pages), see <a href="{{ site.base_url }}/en/search/">full-site search</a>.</p>
 
+{% include distribution-notes.html %}
+
 <h2 id="toc">Contents</h2>
 
 - [Extant Isoptera](#isoptera)
@@ -396,6 +398,7 @@ Below follow **Family** → **Subfamily** → **Genus** → **Species**; the fam
               - [Termes](#termes)
               - [Tuberculitermes](#tuberculitermes)
               - [Xylochomitermes](#xylochomitermes)
+- [References](#references)
 
 ---
 
@@ -404,6 +407,8 @@ Below follow **Family** → **Subfamily** → **Genus** → **Species**; the fam
 Extant Isoptera
 
 <h3 id="mastotermitidae">MASTOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="mastotermitidae" %}
 
 The family Mastotermitidae was established by Desneux in 1904 (Desneux, 1904: 284) (1). The type genus is Mastotermes Froggatt, 1897, with the type species Mastotermes darwiniensis Froggatt, 1897 fixed by original designation and monotypy. The family name is formed from the type genus name plus the family-level suffix -idae; Mastotermes is generally interpreted as a combination of the Greek mastos ('breast-like protuberance') and termes, referring to the papilla-like structures on the queen's abdomen. In this family the soldiers and workers are similar in appearance and poorly differentiated; the mandibles bear an apical tooth and several marginal teeth, and the alates have reticulate wing venation with a well-developed anal field, making this one of the living termite groups that retains the greatest number of primitive characters. The soldier head capsule is rounded and reddish-brown, with short, stout mandibles and long apical teeth; on the right mandible both marginal teeth are well developed, whereas on the left mandible only the first marginal tooth is distinct and the rest are reduced (this tooth formula is diagnostic of, and unique to, the family). In both soldiers and workers each fore coxa bears a flap-like process, and the ventral surfaces of the femora and tibiae bear rows of small opposing teeth, an appendicular feature unique to the family. This checklist records 1 genus and 1 species.
 
@@ -416,6 +421,8 @@ The living species is distributed in the tropical regions of northern Australia 
 
 <h5 id="mastotermes">Mastotermes</h5>
 
+{% include distribution-map.html mode="genus" id="mastotermes" %}
+
 \*[*Mastotermes darwiniensis* 达尔文澳白蚁]({{ site.base_url }}/species/mastotermes-darwiniensis/)
 
 <h2 id="euisoptera">Euisoptera</h2>
@@ -423,6 +430,8 @@ The living species is distributed in the tropical regions of northern Australia 
 <h2 id="teletisoptera">Teletisoptera</h2>
 
 <h3 id="archotermopsidae">ARCHOTERMOPSIDAE</h3>
+
+{% include distribution-map.html mode="family" id="archotermopsidae" %}
 
 The family Archotermopsidae was established by Engel, Grimaldi and Krishna in 2009 (Engel, Grimaldi & Krishna, 2009: 11)(5), with the type genus Archotermopsis Desneux, 1904. The family name derives from the type genus: Archotermopsis is formed from the Greek archaios (ancient) combined with Termopsis (the genus name Termopsis). This family is one of the groups commonly known as the “dampwood termites”; the soldiers have robust mandibles with distinct apical and marginal teeth, a flattened head, no fontanelle, and a large body size. The soldiers have a visible Y-shaped suture on the dorsal surface of the head, reduced eyes, 19–27 antennal segments, three marginal teeth on the left mandible and two on the right, a flat pronotum narrower than the head, and 5-segmented tarsi; the winged adults have distinct ocelli and are large-bodied. This checklist includes 2 genera and 5 species.
 
@@ -435,11 +444,15 @@ The distribution of this family shows a disjunct north-temperate pattern: the ge
 
 <h5 id="archotermopsis">Archotermopsis</h5>
 
+{% include distribution-map.html mode="genus" id="archotermopsis" %}
+
 [*Archotermopsis kuznetsovi* 库兹涅佐夫古白蚁]({{ site.base_url }}/species/archotermopsis-kuznetsovi/)
 
 \*[*Archotermopsis wroughtoni* 罗夫顿古白蚁]({{ site.base_url }}/species/archotermopsis-wroughtoni/)
 
 <h5 id="zootermopsis">Zootermopsis</h5>
+
+{% include distribution-map.html mode="genus" id="zootermopsis" %}
 
 \*[*Zootermopsis angusticollis* 狭颈动白蚁]({{ site.base_url }}/species/zootermopsis-angusticollis/)
 
@@ -448,6 +461,8 @@ The distribution of this family shows a disjunct north-temperate pattern: the ge
 [*Zootermopsis nevadensis* 内华达动白蚁]({{ site.base_url }}/species/zootermopsis-nevadensis/)
 
 <h3 id="hodotermitidae">HODOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="hodotermitidae" %}
 
 The family Hodotermitidae was established by Desneux in 1904 (Desneux, 1904: 284)(1), with the type genus Hodotermes Hagen, 1853. The family name derives from the type genus: Hodotermes is formed from the Greek hodos (road, wandering) and termes, referring to its habit of foraging above ground. This checklist includes 3 genera and 21 species.
 
@@ -459,6 +474,8 @@ This family comprises the “harvester” termites endemic to the arid zones of 
 </figure>
 
 <h5 id="anacanthotermes">Anacanthotermes</h5>
+
+{% include distribution-map.html mode="genus" id="anacanthotermes" %}
 
 [*Anacanthotermes ahngerianus* 安格无刺白蚁]({{ site.base_url }}/species/anacanthotermes-ahngerianus/)
 
@@ -494,11 +511,15 @@ This family comprises the “harvester” termites endemic to the arid zones of 
 
 <h5 id="hodotermes">Hodotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hodotermes" %}
+
 [*Hodotermes erithreensis* 厄立特里亚草白蚁]({{ site.base_url }}/species/hodotermes-erithreensis/)
 
 \*[*Hodotermes mossambicus* 莫桑比克草白蚁]({{ site.base_url }}/species/hodotermes-mossambicus/)
 
 <h5 id="microhodotermes">Microhodotermes</h5>
+
+{% include distribution-map.html mode="genus" id="microhodotermes" %}
 
 [*Microhodotermes maroccanus* 摩洛哥小草白蚁]({{ site.base_url }}/species/microhodotermes-maroccanus/)
 
@@ -507,6 +528,8 @@ This family comprises the “harvester” termites endemic to the arid zones of 
 [*Microhodotermes wasmanni* 沃斯曼小草白蚁]({{ site.base_url }}/species/microhodotermes-wasmanni/)
 
 <h3 id="hodotermopsidae">HODOTERMOPSIDAE</h3>
+
+{% include distribution-map.html mode="family" id="hodotermopsidae" %}
 
 The family Hodotermopsidae was proposed by Engel in 2021(11). The type genus is Hodotermopsis Holmgren, 1911. The family name derives from the type genus: Hodotermopsis means “resembling Hodotermes”, formed from Hodotermes plus the Greek opsis (appearance). This checklist includes 1 genus and 1 species.
 
@@ -519,9 +542,13 @@ The living species Hodotermopsis sjostedti is distributed in Japan, Taiwan (Chin
 
 <h5 id="hodotermopsis">Hodotermopsis</h5>
 
+{% include distribution-map.html mode="genus" id="hodotermopsis" %}
+
 \*[*Hodotermopsis sjostedti* 山林原白蚁]({{ site.base_url }}/species/hodotermopsis-sjostedti/)
 
 <h3 id="stolotermitidae">STOLOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="stolotermitidae" %}
 
 The family Stolotermitidae was established by Holmgren in 1910 (Holmgren, 1910a: 285)(14), with the type genus Stolotermes Hagen, 1858. The family name derives from the type genus Stolotermes (Greek stolos, column/expedition, popularly explained as referring to their marching activities). The soldiers of this family have a sclerotized, darkly pigmented head capsule, long, large mandibles, and 4-segmented tarsi. This checklist includes 2 genera and 10 species.
 
@@ -534,6 +561,8 @@ This family comprises the “dampwood termites” with a typical Gondwanan disju
 
 <h5 id="porotermes">Porotermes</h5>
 
+{% include distribution-map.html mode="genus" id="porotermes" %}
+
 [*Porotermes adamsoni* 亚当森洞白蚁]({{ site.base_url }}/species/porotermes-adamsoni/)
 
 [*Porotermes planiceps* 扁头洞白蚁]({{ site.base_url }}/species/porotermes-planiceps/)
@@ -541,6 +570,8 @@ This family comprises the “dampwood termites” with a typical Gondwanan disju
 \*[*Porotermes quadricollis* 方颈洞白蚁]({{ site.base_url }}/species/porotermes-quadricollis/)
 
 <h5 id="stolotermes">Stolotermes</h5>
+
+{% include distribution-map.html mode="genus" id="stolotermes" %}
 
 [*Stolotermes africanus* 非洲胄白蚁]({{ site.base_url }}/species/stolotermes-africanus/)
 
@@ -560,6 +591,8 @@ This family comprises the “dampwood termites” with a typical Gondwanan disju
 
 <h3 id="kalotermitidae">KALOTERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="kalotermitidae" %}
+
 The family Kalotermitidae was established by Froggatt in 1897(16), with the type genus Kalotermes Hagen, 1853. The family name derives from the type genus, formed from the Greek kalos (beautiful) and termes. This checklist includes 23 genera and 479 species.
 
 This family is commonly known as the 'drywood termites'. Most species build their nests and feed within dry wood, do not depend on the soil, and their nest is also their food source, so individuals do not leave the nest to forage over long distances. The family has no true worker caste, and nest labor is performed by pseudergates. The soldiers are of the mandibulate type, with the head roughly rectangular and lacking a fontanelle; the alates possess ocelli, by which they can be distinguished from groups that possess a fontanelle, such as the Rhinotermitidae and Termitidae. In distribution the family is pantropical to subtropical, extending into warm-temperate regions such as those with a Mediterranean climate, and it is especially diverse in dead branches and broken wood in the tropical forest canopy. Phylogenetically, this family is one of the earlier-diverging lineages among living termites (17), and it is the sister group of the Neoisoptera, so it is important for understanding the early evolution of eusociality in termites. With regard to invasion and dispersal, the drywood termites of this family are the most common wood-borne group in the tropical and subtropical world: Incisitermes minor, the western drywood termite (native to the western United States and northern Mexico, and introduced into Canada, China, Japan, Italy and Hawaii (United States)); Cryptotermes brevis, the West Indian drywood termite, is native to the desert regions of the Pacific coast of South America and has been spread by sea-borne timber to the southeastern United States, Hawaii, the Caribbean islands, South Africa, Madagascar and Australia, making it the most widely distributed invasive drywood termite species (18); Cryptotermes domesticus, the domestic drywood termite, is native to Southeast Asia and has been introduced into the coastal areas of South China, Taiwan, Japan, Australia and the Pacific islands; Cryptotermes dudleyi is native to the Oriental region and has established populations in the Neotropical Panama, Costa Rica, Colombia, Brazil and the West Indies; Cryptotermes havilandi is native to tropical Africa and has also established populations in Suriname, Guyana, Brazil and the West Indies. In addition, Cryptotermes cynocephalus Light is native to the Philippines and Southeast Asia and has been introduced into Sri Lanka, the area north of Cape York Peninsula in Australia, Rabaul in Papua New Guinea, and Hawaii (first recorded on Oahu); Glyptotermes breviconis of the genus Glyptotermes is native to the southeastern coast of Australia and has established local populations in natural trees in New Zealand and Fiji. In Sri Lanka, tea plantations are attacked by Postelectrotermes militaris and Glyptotermes dilatatus, which damage the tea plants (19); genera such as Bifiditermes, Eucryptotermes, Marginitermes, Paraneotermes, Procryptotermes and Rugitermes are minor timber pests (20).
@@ -571,6 +604,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="allotermes">Allotermes</h5>
 
+{% include distribution-map.html mode="genus" id="allotermes" %}
+
 [*Allotermes denticulatus* 小齿奇白蚁]({{ site.base_url }}/species/allotermes-denticulatus/)
 
 [*Allotermes papillifer* 乳突奇白蚁]({{ site.base_url }}/species/allotermes-papillifer/)
@@ -578,6 +613,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 \*[*Allotermes paradoxus* 奇异奇白蚁]({{ site.base_url }}/species/allotermes-paradoxus/)
 
 <h5 id="bicornitermes">Bicornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="bicornitermes" %}
 
 \*[*Bicornitermes bicornis* 双角双角白蚁]({{ site.base_url }}/species/bicornitermes-bicornis/)
 
@@ -588,6 +625,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 [*Bicornitermes spinicollis* 刺颈双角白蚁]({{ site.base_url }}/species/bicornitermes-spinicollis/)
 
 <h5 id="bifiditermes">Bifiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="bifiditermes" %}
 
 [*Bifiditermes angulatus* 角状双裂白蚁]({{ site.base_url }}/species/bifiditermes-angulatus/)
 
@@ -615,6 +654,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="calcaritermes">Calcaritermes</h5>
 
+{% include distribution-map.html mode="genus" id="calcaritermes" %}
+
 [*Calcaritermes brevicollis* 短颈距白蚁]({{ site.base_url }}/species/calcaritermes-brevicollis/)
 
 [*Calcaritermes colei* 科尔距白蚁]({{ site.base_url }}/species/calcaritermes-colei/)
@@ -641,13 +682,19 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="ceratokalotermes">Ceratokalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ceratokalotermes" %}
+
 \*[*Ceratokalotermes spoliator* 掠夺角木白蚁]({{ site.base_url }}/species/ceratokalotermes-spoliator/)
 
 <h5 id="comatermes">Comatermes</h5>
 
+{% include distribution-map.html mode="genus" id="comatermes" %}
+
 \*[*Comatermes perfectus* 完美毛白蚁]({{ site.base_url }}/species/comatermes-perfectus/)
 
 <h5 id="cryptotermes">Cryptotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cryptotermes" %}
 
 [*Cryptotermes abruptus* 陡额堆砂白蚁]({{ site.base_url }}/species/cryptotermes-abruptus/)
 
@@ -799,6 +846,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="epicalotermes">Epicalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="epicalotermes" %}
+
 \*[*Epicalotermes aethiopicus* 埃塞俄比亚上木白蚁]({{ site.base_url }}/species/epicalotermes-aethiopicus/)
 
 [*Epicalotermes kempae* 肯帕上木白蚁]({{ site.base_url }}/species/epicalotermes-kempae/)
@@ -813,11 +862,15 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="eucryptotermes">Eucryptotermes</h5>
 
+{% include distribution-map.html mode="genus" id="eucryptotermes" %}
+
 [*Eucryptotermes breviceps* 短头真砂白蚁]({{ site.base_url }}/species/eucryptotermes-breviceps/)
 
 \*[*Eucryptotermes hagenii* 哈根真砂白蚁]({{ site.base_url }}/species/eucryptotermes-hagenii/)
 
 <h5 id="glyptotermes">Glyptotermes</h5>
+
+{% include distribution-map.html mode="genus" id="glyptotermes" %}
 
 [*Glyptotermes adamsoni* 亚当森树白蚁]({{ site.base_url }}/species/glyptotermes-adamsoni/)
 
@@ -1083,6 +1136,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="incisitermes">Incisitermes</h5>
 
+{% include distribution-map.html mode="genus" id="incisitermes" %}
+
 [*Incisitermes banksi* 班克斯楹白蚁]({{ site.base_url }}/species/incisitermes-banksi/)
 
 [*Incisitermes barretti* 巴雷特楹白蚁]({{ site.base_url }}/species/incisitermes-barretti/)
@@ -1145,6 +1200,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="kalotermes">Kalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="kalotermes" %}
+
 [*Kalotermes aemulus* 竞争木白蚁]({{ site.base_url }}/species/kalotermes-aemulus/)
 
 [*Kalotermes approximatus* 邻近木白蚁]({{ site.base_url }}/species/kalotermes-approximatus/)
@@ -1189,9 +1246,13 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="longicaputermes">Longicaputermes</h5>
 
+{% include distribution-map.html mode="genus" id="longicaputermes" %}
+
 \*[*Longicaputermes sinaicus* 西奈头长白蚁]({{ site.base_url }}/species/longicaputermes-sinaicus/)
 
 <h5 id="marginitermes">Marginitermes</h5>
+
+{% include distribution-map.html mode="genus" id="marginitermes" %}
 
 [*Marginitermes absitus* 遥远边白蚁]({{ site.base_url }}/species/marginitermes-absitus/)
 
@@ -1200,6 +1261,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 \*[*Marginitermes hubbardi* 哈伯德边白蚁]({{ site.base_url }}/species/marginitermes-hubbardi/)
 
 <h5 id="neotermes">Neotermes</h5>
+
+{% include distribution-map.html mode="genus" id="neotermes" %}
 
 [*Neotermes aburiensis* 阿布里新白蚁]({{ site.base_url }}/species/neotermes-aburiensis/)
 
@@ -1445,9 +1508,13 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="paraneotermes">Paraneotermes</h5>
 
+{% include distribution-map.html mode="genus" id="paraneotermes" %}
+
 \*[*Paraneotermes simplicicornis* 简角近新白蚁]({{ site.base_url }}/species/paraneotermes-simplicicornis/)
 
 <h5 id="postelectrotermes">Postelectrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="postelectrotermes" %}
 
 [*Postelectrotermes amplus* 大后琥珀白蚁]({{ site.base_url }}/species/postelectrotermes-amplus/)
 
@@ -1481,6 +1548,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="procryptotermes">Procryptotermes</h5>
 
+{% include distribution-map.html mode="genus" id="procryptotermes" %}
+
 [*Procryptotermes australiensis* 澳大利亚前砂白蚁]({{ site.base_url }}/species/procryptotermes-australiensis/)
 
 [*Procryptotermes corniceps* 角头前砂白蚁]({{ site.base_url }}/species/procryptotermes-corniceps/)
@@ -1511,6 +1580,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="proneotermes">Proneotermes</h5>
 
+{% include distribution-map.html mode="genus" id="proneotermes" %}
+
 [*Proneotermes latifrons* 宽额前新白蚁]({{ site.base_url }}/species/proneotermes-latifrons/)
 
 [*Proneotermes macondianus* 马康多前新白蚁]({{ site.base_url }}/species/proneotermes-macondianus/)
@@ -1519,13 +1590,19 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="pterotermes">Pterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="pterotermes" %}
+
 \*[*Pterotermes occidentis* 西部翅白蚁]({{ site.base_url }}/species/pterotermes-occidentis/)
 
 <h5 id="roisinitermes">Roisinitermes</h5>
 
+{% include distribution-map.html mode="genus" id="roisinitermes" %}
+
 \*[*Roisinitermes ebogoensis* 埃博戈罗伊辛白蚁]({{ site.base_url }}/species/roisinitermes-ebogoensis/)
 
 <h5 id="rugitermes">Rugitermes</h5>
+
+{% include distribution-map.html mode="genus" id="rugitermes" %}
 
 [*Rugitermes aridus* 干皱白蚁]({{ site.base_url }}/species/rugitermes-aridus/)
 
@@ -1565,6 +1642,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h5 id="tauritermes">Tauritermes</h5>
 
+{% include distribution-map.html mode="genus" id="tauritermes" %}
+
 [*Tauritermes bandeirai* 班代拉牛白蚁]({{ site.base_url }}/species/tauritermes-bandeirai/)
 
 \*[*Tauritermes taurocephalus* 牛头牛白蚁]({{ site.base_url }}/species/tauritermes-taurocephalus/)
@@ -1577,6 +1656,8 @@ This family is commonly known as the 'drywood termites'. Most species build thei
 
 <h3 id="psammotermitidae">PSAMMOTERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="psammotermitidae" %}
+
 The subfamily Psammotermitinae was established by Holmgren in 1911, and was elevated to family rank (Psammotermitidae) by a 2024 phylogenetic study(21). The type genus is Psammotermes Desneux, 1902; the family name is formed from the Greek psammos (sand) and termes, referring to its habit of dwelling in sandy soil. This checklist includes 2 genera and 18 species.
 
 This family contains only two living genera, and the two genera contrast sharply in their ecological habits. Both lack a true worker caste (nest labor is performed by pseudergates). The soldiers are of the mandibulate type, with a sclerotized head capsule that is oval to slightly narrowed anteriorly; the frons bears a fontanelle, from which a longitudinal groove, either distinct or faint, extends toward the postclypeus; the tibial spur formula of the soldier's fore, mid and hind legs is 3:2:2. In the alates the pronotum is flat, the tarsi are four-segmented, the fontanelle is situated in the middle of the head, ocelli are present, and the antennae have 15-22 segments. Psammotermes is a typical desert termite, widely distributed from southern to West Africa, northeastern and northern Africa, through the Arabian Peninsula and Iran to northwestern India, and also occurring in Madagascar; it excavates its own nest chambers and tunnels in sandy soil, also occupies abandoned nests of other termites, and has extremely broad feeding habits, taking dry grass, leaf litter, animal dung and even wind-blown accumulations of organic debris. Prorhinotermes is an island-coastal type, widely distributed across the Indian Ocean islands, South Asia, Southeast Asia, southern China and Taiwan, northern Australia and the western Pacific islands, and also occurring in Central America and the Caribbean; its colonies are thought to disperse with ocean currents on driftwood, and it mostly inhabits damp, decaying wood near the intertidal zone, such as mangrove habitats (22). A few Psammotermes species damage crops and earth structures in arid regions. For example, Psammotermes hypostoma damages wooden structures and crops in North Africa and the Middle East (23), and Prorhinotermes simplex damages wooden buildings in Florida, United States (24).
@@ -1587,6 +1668,8 @@ This family contains only two living genera, and the two genera contrast sharply
 </figure>
 
 <h5 id="prorhinotermes">Prorhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="prorhinotermes" %}
 
 [*Prorhinotermes canalifrons* 沟额原鼻白蚁]({{ site.base_url }}/species/prorhinotermes-canalifrons/)
 
@@ -1614,6 +1697,8 @@ This family contains only two living genera, and the two genera contrast sharply
 
 <h5 id="psammotermes">Psammotermes</h5>
 
+{% include distribution-map.html mode="genus" id="psammotermes" %}
+
 [*Psammotermes allocerus* 奇白沙白蚁]({{ site.base_url }}/species/psammotermes-allocerus/)
 
 \*[*Psammotermes hybostoma* 弯嘴沙白蚁]({{ site.base_url }}/species/psammotermes-hybostoma/)
@@ -1628,6 +1713,8 @@ This family contains only two living genera, and the two genera contrast sharply
 
 <h3 id="rhinotermitidae">RHINOTERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="rhinotermitidae" %}
+
 The subfamily Rhinotermitinae was established by Froggatt in 1897; here the narrowly circumscribed Rhinotermitidae sensu novo, as redefined by the 2024 phylogenetic study, is adopted(21), containing 5 genera. The type genus is Rhinotermes Hagen, 1858; the family name is formed from the Greek rhis/rhinos (nose) and termes, referring to the raised, nose-like clypeus of the adults and the narrow groove running from the fontanelle to the clypeus. This checklist includes 5 genera and 61 species.
 
 Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (northern South America to the Caribbean); Parrhinotermes is chiefly Southeast Asian, extending west to northeastern India, north to Tibet and Yunnan of China, and east to Papua New Guinea, the Solomon Islands and Queensland, Australia; Schedorhinotermes is widely distributed in the Afrotropical and Oriental realms, Australia and the western Pacific islands. This family has a true worker caste, often nesting in the soil or in wood in contact with the soil, with the workers going out through tunnels to feed on wood; the soldiers are mostly dimorphic (a few trimorphic), with the labrum elongated and palp-like, brush-shaped at the tip and with a groove down the middle, along which the frontal-gland secretion flows to repel enemies—an important diagnostic character distinguishing this family from related families. In this family, the workers and winged adults bear three distinct, unequal marginal teeth behind the apical tooth of the left mandible; the anterior margin of the postclypeus is markedly arched in the winged adults, workers and soldiers; and the fontanelle of the soldiers lacks long setae around its margin. Economically, Schedorhinotermes commonly damages structural timber within its range, such as Schedorhinotermes intermedius in eastern Australia(25); Schedorhinotermes longirostris (native to India, Indonesia, Malaysia, Palau and Papua New Guinea, introduced to Guam, USA) was introduced into Guam in 2011 and damages the endemic cycads there.
@@ -1639,11 +1726,15 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 
 <h5 id="acorhinotermes">Acorhinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acorhinotermes" %}
+
 [*Acorhinotermes claritae* 克拉丽塔尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-claritae/)
 
 \*[*Acorhinotermes subfusciceps* 棕头尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-subfusciceps/)
 
 <h5 id="dolichorhinotermes">Dolichorhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="dolichorhinotermes" %}
 
 [*Dolichorhinotermes japuraensis* 雅普拉狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-japuraensis/)
 
@@ -1660,6 +1751,8 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 [*Dolichorhinotermes tenebrosus* 暗色狭鼻白蚁]({{ site.base_url }}/species/dolichorhinotermes-tenebrosus/)
 
 <h5 id="parrhinotermes">Parrhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="parrhinotermes" %}
 
 \*[*Parrhinotermes aequalis* 相等棒鼻白蚁]({{ site.base_url }}/species/parrhinotermes-aequalis/)
 
@@ -1689,6 +1782,8 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 
 <h5 id="rhinotermes">Rhinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="rhinotermes" %}
+
 [*Rhinotermes hispidus* 多毛鼻白蚁]({{ site.base_url }}/species/rhinotermes-hispidus/)
 
 [*Rhinotermes manni* 曼鼻白蚁]({{ site.base_url }}/species/rhinotermes-manni/)
@@ -1698,6 +1793,8 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 \*[*Rhinotermes nasutus* 大鼻鼻白蚁]({{ site.base_url }}/species/rhinotermes-nasutus/)
 
 <h5 id="schedorhinotermes">Schedorhinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="schedorhinotermes" %}
 
 [*Schedorhinotermes actuosus* 活跃长鼻白蚁]({{ site.base_url }}/species/schedorhinotermes-actuosus/)
 
@@ -1771,10 +1868,14 @@ Acorhinotermes, Dolichorhinotermes and Rhinotermes are chiefly Neotropical (nort
 
 <h3 id="serritermitidae">SERRITERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="serritermitidae" %}
+
 The family Serritermitidae was established by Holmgren in 1910 (Serritermitidae Holmgren, 1910) (14), with the type genus Serritermes Wasmann, 1897. The family name is derived from the type genus name, formed by combining the Latin serra (saw) with termes, referring to the conspicuously saw-like, many-toothed margins of the mandibles in the soldiers and reproductives of this family. This checklist records 2 genera and 3 species.
 
 This family is a small family endemic to the Neotropical realm, occurring from northern South America (the Guiana Shield) to Brazil. It lacks a true worker caste. The two genera differ markedly in their way of life: Glossotermes is a wood-dwelling termite that lives inside dry, decaying fallen logs, whereas S. serrifer is a rare obligate inquiline among termites, spending its entire life within the epigeal mound nests of the termitid Cornitermes cumulans without building a nest of its own; its soldiers have sickle-shaped mandibles with serrate inner margins. In this family the soldier head is elongate with arcuate lateral margins, and bears a small, blind-ended fontanelle at the front of the head that does not communicate with the frontal gland; the antennae have 12–15 articles (12–13 in Serritermes, 13–15 in Glossotermes). The frontal gland of the soldier is extremely well developed, extending from the head into the anterior half of the thorax and abdomen; when defending, it releases the secretion through the back of the neck by self-rupture (autothysis) (26).
 <h5 id="glossotermes">Glossotermes</h5>
+
+{% include distribution-map.html mode="genus" id="glossotermes" %}
 
 \*[*Glossotermes oculatus* 眼显舌白蚁]({{ site.base_url }}/species/glossotermes-oculatus/)
 
@@ -1782,9 +1883,13 @@ This family is a small family endemic to the Neotropical realm, occurring from n
 
 <h5 id="serritermes">Serritermes</h5>
 
+{% include distribution-map.html mode="genus" id="serritermes" %}
+
 \*[*Serritermes serrifer* 锯齿白蚁]({{ site.base_url }}/species/serritermes-serrifer/)
 
 <h3 id="stylotermitidae">STYLOTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="stylotermitidae" %}
 
 The family Stylotermitidae is a monotypic extant family, containing only the genus Stylotermes Holmgren & Holmgren, 1917. The group was established by Holmgren and Holmgren in 1917, with Stylotermes as the type genus. The family name is derived from the type genus, from the Greek stylos (column) plus termes. (3) This checklist records 1 genus and 45 species.
 
@@ -1796,6 +1901,8 @@ This family is endemic to the Oriental realm (southern and southeastern Asia). A
 </figure>
 
 <h5 id="stylotermes">Stylotermes</h5>
+
+{% include distribution-map.html mode="genus" id="stylotermes" %}
 
 [*Stylotermes acrofrons* 丘额杆白蚁]({{ site.base_url }}/species/stylotermes-acrofrons/)
 
@@ -1889,6 +1996,8 @@ This family is endemic to the Oriental realm (southern and southeastern Asia). A
 
 <h3 id="termitogetonidae">TERMITOGETONIDAE</h3>
 
+{% include distribution-map.html mode="family" id="termitogetonidae" %}
+
 The subfamily Termitogetoninae was established by Holmgren in 1910 (1910a:286) (14); in 2024, a genomic phylogenetic study elevated it from subfamily to family rank (Termitogetonidae) (21). The family Termitogetonidae is monotypic, containing only the genus Termitogeton Desneux, 1904. The family name is based on the stem Termitogeton, formed from termes and the Greek geiton (neighbor), meaning "one close to the genus Termes". This checklist records 1 genus and 2 species.
 
 In distribution, this is a small Oriental-realm family, occurring in Southeast Asia (Indonesia, Malaysia) and Sri Lanka, inhabiting dead or decayed wood in tropical rainforests. The family has no true workers; labor is performed by pseudergates. The soldiers possess a frontal gland capable of secreting defensive and alarm substances containing monoterpenes and other components (29); the sex ratio is close to 1:1 in all castes, except that females are somewhat more numerous among soldiers (30). The developmental pathway comprises 2 larval instars, 4 pseudergate instars (30), and 1 nymphal instar before reaching the adult; the wing buds appear at the second instar, regress in subsequent molts, and reappear at the nymphal stage, and a mature colony consists of only about a thousand individuals. The body is dorsoventrally flattened in all castes, an adaptation to living beneath bark. The alates have a nearly triangular head, small compound eyes with ocelli present, 15-segmented antennae, and a body densely covered with setae; the pronotum is narrower than the head and its anterior margin is produced into a lobe in the middle; the wings are densely covered with fine hairs, and the forewing scale does not overlap the hindwing scale. In the pseudergate, the left mandible bears an apical tooth and 3 marginal teeth, the second marginal tooth being longer than the apical tooth and the first marginal tooth; the tibial spur formula of all legs is 2:2:2. The soldier has a triangular head with a strongly undulating posterior margin that is produced in the middle, slender mandibles without marginal teeth (only a row of fine denticles at the base), 13–15-segmented antennae, and enlarged hind coxae.
@@ -1900,6 +2009,8 @@ In distribution, this is a small Oriental-realm family, occurring in Southeast A
 
 <h5 id="termitogeton">Termitogeton</h5>
 
+{% include distribution-map.html mode="genus" id="termitogeton" %}
+
 \*[*Termitogeton planus* 平坦寡脉白蚁]({{ site.base_url }}/species/termitogeton-planus/)
 
 [*Termitogeton umbilicatus* 中凹寡脉白蚁]({{ site.base_url }}/species/termitogeton-umbilicatus/)
@@ -1907,6 +2018,8 @@ In distribution, this is a small Oriental-realm family, occurring in Southeast A
 <h2 id="geoisoptera">Geoisoptera</h2>
 
 <h3 id="heterotermitidae">HETEROTERMITIDAE</h3>
+
+{% include distribution-map.html mode="family" id="heterotermitidae" %}
 
 The subfamily Heterotermitinae was established by Froggatt in 1897 and was long placed in the Rhinotermitidae; in 2024, a phylogenetic study elevated it to family rank (Heterotermitidae) (21), incorporating the genera Coptotermes and Reticulitermes, and it now contains 3 genera. The type genus is Heterotermes Froggatt, 1897, and the family name is formed from the Greek heteros (different) and termes. This checklist records 3 genera and 230 species.
 
@@ -1920,6 +2033,8 @@ This family is the most economically important group of termites in the world: C
 </figure>
 
 <h5 id="coptotermes">Coptotermes</h5>
+
+{% include distribution-map.html mode="genus" id="coptotermes" %}
 
 [*Coptotermes acinaciformis* 短刀乳白蚁]({{ site.base_url }}/species/coptotermes-acinaciformis/)
 
@@ -2041,6 +2156,8 @@ This family is the most economically important group of termites in the world: C
 
 <h5 id="heterotermes">Heterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="heterotermes" %}
+
 [*Heterotermes aethiopicus* 埃塞俄比亚异白蚁]({{ site.base_url }}/species/heterotermes-aethiopicus/)
 
 [*Heterotermes assu* 大异白蚁]({{ site.base_url }}/species/heterotermes-assu/)
@@ -2104,6 +2221,8 @@ This family is the most economically important group of termites in the world: C
 [*Heterotermes wittmeri* 威特默异白蚁]({{ site.base_url }}/species/heterotermes-wittmeri/)
 
 <h5 id="reticulitermes">Reticulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="reticulitermes" %}
 
 [*Reticulitermes aculabialis* 尖唇散白蚁]({{ site.base_url }}/species/reticulitermes-aculabialis/)
 
@@ -2387,6 +2506,8 @@ This family is the most economically important group of termites in the world: C
 
 <h3 id="termitidae">TERMITIDAE</h3>
 
+{% include distribution-map.html mode="family" id="termitidae" %}
+
 The family Termitidae was established by Latreille in 1802, with the type genus Termes Linnaeus, 1758. The family name is formed from the type genus stem Termit- plus the family-level suffix -idae. This checklist records 277 genera and 2138 species.
 
 This family has a pantropical distribution, with representatives in all major zoogeographic regions of the tropics and subtropics, and a few species extending into warm-temperate zones. Its feeding habits are the most diverse among termite families, encompassing wood-feeding, grass-feeding, leaf-litter-feeding, humus-feeding and fungus-cultivating types; a few species feed on lichens and algae growing on bark (such as the genus Constrictotermes), while inquilinous species feed on the nest material and feces of their host nest (such as the genus Inquilinitermes); about sixty percent of species are specialized soil-humus feeders. Unlike other families, the hindgut of this family is highly compartmentalized, and its digestive symbionts are dominated by bacteria and archaea. The most conspicuous shared feature of termitid soldiers is the unpaired, sac-like frontal gland (35), whose external opening is the fontanelle, yet defensive strategies diverge along this structure. The Nasutitermitinae is the largest subfamily of the family; in it the front of the soldier's head is prolonged into a conical nasus, the mandibles are reduced, and the soldier relies entirely on the frontal gland to eject a sticky secretion through the fontanelle at the tip of the nasus to entangle enemies; the Syntermitinae, which also possess a nasus, retain well-developed mandibles and employ both mechanical and chemical defense. The other extreme is seen in the snapping-mandible groups of the Mirocapritermitinae, such as the genus Pericapritermes, which repel enemies by a sudden crosswise strike of the two mandibles, while the frontal gland is poorly developed; Globitermes sulphureus goes even further, using rupture of the frontal gland for suicidal defense. A few lineages of the family have lost the soldier caste, the Neotropical species of the Apicotermitinae being one example, in which defense is undertaken entirely by the workers. In the alates the pronotum is saddle-shaped, the hind wing lacks an anal lobe and has simplified venation, and a fontanelle and ocelli are present; in the workers the postclypeus is swollen into a globular form and the hindgut has a mixed segment, and the antennae usually have 13-15 segments, while those of the soldiers usually have 12-16 segments. The detailed diagnostic characters of the soldiers and workers of each subfamily are given in the following subfamily sections. Nesting patterns are diverse, including subterranean nests, surface mounds and arboreal carton nests, and the nests of this family are the most conspicuous ecological-engineering structures of tropical forests and savannas. The Termitidae is the most species-rich group within the Neoisoptera; it began to radiate around the end of the Eocene and underwent a rapid internal radiation during the Paleogene.
@@ -2408,6 +2529,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="ahamitermes">Ahamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="ahamitermes" %}
+
 [*Ahamitermes hillii* 希尔无钩白蚁]({{ site.base_url }}/species/ahamitermes-hillii/)
 
 [*Ahamitermes inclusus* 栖垄无钩白蚁]({{ site.base_url }}/species/ahamitermes-inclusus/)
@@ -2415,6 +2538,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 \*[*Ahamitermes nidicola* 栖巢无钩白蚁]({{ site.base_url }}/species/ahamitermes-nidicola/)
 
 <h5 id="amitermes">Amitermes</h5>
+
+{% include distribution-map.html mode="genus" id="amitermes" %}
 
 [*Amitermes abruptus* 陡额弓白蚁]({{ site.base_url }}/species/amitermes-abruptus/)
 
@@ -2644,6 +2769,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="dentispicotermes">Dentispicotermes</h5>
 
+{% include distribution-map.html mode="genus" id="dentispicotermes" %}
+
 [*Dentispicotermes brevicarinatus* 短脊齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-brevicarinatus/)
 
 [*Dentispicotermes conjunctus* 邻近齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-conjunctus/)
@@ -2657,6 +2784,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 [*Dentispicotermes trapezia* 梯形齿尖白蚁]({{ site.base_url }}/species/dentispicotermes-trapezia/)
 
 <h5 id="drepanotermes">Drepanotermes</h5>
+
+{% include distribution-map.html mode="genus" id="drepanotermes" %}
 
 [*Drepanotermes acicularis* 细长镰白蚁]({{ site.base_url }}/species/drepanotermes-acicularis/)
 
@@ -2708,6 +2837,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="eremotermes">Eremotermes</h5>
 
+{% include distribution-map.html mode="genus" id="eremotermes" %}
+
 [*Eremotermes arctus* 短窄漠白蚁]({{ site.base_url }}/species/eremotermes-arctus/)
 
 [*Eremotermes dehraduni* 德拉敦漠白蚁]({{ site.base_url }}/species/eremotermes-dehraduni/)
@@ -2730,6 +2861,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="globitermes">Globitermes</h5>
 
+{% include distribution-map.html mode="genus" id="globitermes" %}
+
 [*Globitermes brachycerastes* 短角球白蚁]({{ site.base_url }}/species/globitermes-brachycerastes/)
 
 \*[*Globitermes globosus* 球形球白蚁]({{ site.base_url }}/species/globitermes-globosus/)
@@ -2746,6 +2879,8 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="gnathamitermes">Gnathamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="gnathamitermes" %}
+
 [*Gnathamitermes grandis* 大颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-grandis/)
 
 [*Gnathamitermes nigriceps* 黑头颚钩白蚁]({{ site.base_url }}/species/gnathamitermes-nigriceps/)
@@ -2756,19 +2891,27 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="hoplotermes">Hoplotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hoplotermes" %}
+
 \*[*Hoplotermes amplus* 广泛武白蚁]({{ site.base_url }}/species/hoplotermes-amplus/)
 
 <h5 id="incolitermes">Incolitermes</h5>
 
+{% include distribution-map.html mode="genus" id="incolitermes" %}
+
 \*[*Incolitermes pumilus* 侏儒子民白蚁]({{ site.base_url }}/species/incolitermes-pumilus/)
 
 <h5 id="invasitermes">Invasitermes</h5>
+
+{% include distribution-map.html mode="genus" id="invasitermes" %}
 
 \*[*Invasitermes inermis* 非武闯白蚁]({{ site.base_url }}/species/invasitermes-inermis/)
 
 [*Invasitermes insitivus* 候补闯白蚁]({{ site.base_url }}/species/invasitermes-insitivus/)
 
 <h5 id="orthognathotermes">Orthognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="orthognathotermes" %}
 
 [*Orthognathotermes aduncus* 具钩直颚白蚁]({{ site.base_url }}/species/orthognathotermes-aduncus/)
 
@@ -2802,17 +2945,23 @@ Economically, this subfamily has well-documented records of crop damage in West 
 
 <h5 id="prohamitermes">Prohamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="prohamitermes" %}
+
 [*Prohamitermes hosei* 霍斯前钩白蚁]({{ site.base_url }}/species/prohamitermes-hosei/)
 
 \*[*Prohamitermes mirabilis* 奇异前钩白蚁]({{ site.base_url }}/species/prohamitermes-mirabilis/)
 
 <h5 id="pseudhamitermes">Pseudhamitermes</h5>
 
+{% include distribution-map.html mode="genus" id="pseudhamitermes" %}
+
 \*[*Pseudhamitermes khmerensis* 高棉伪钩白蚁]({{ site.base_url }}/species/pseudhamitermes-khmerensis/)
 
 [*Pseudhamitermes longignathus* 长颚伪钩白蚁]({{ site.base_url }}/species/pseudhamitermes-longignathus/)
 
 <h5 id="synhamitermes">Synhamitermes</h5>
+
+{% include distribution-map.html mode="genus" id="synhamitermes" %}
 
 [*Synhamitermes ceylonicus* 锡兰同钩白蚁]({{ site.base_url }}/species/synhamitermes-ceylonicus/)
 
@@ -2835,6 +2984,8 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="acholotermes">Acholotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acholotermes" %}
+
 [*Acholotermes chirotus* 短小顺白蚁]({{ site.base_url }}/species/acholotermes-chirotus/)
 
 [*Acholotermes epius* 椭囟顺白蚁]({{ site.base_url }}/species/acholotermes-epius/)
@@ -2847,13 +2998,19 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="acidnotermes">Acidnotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acidnotermes" %}
+
 \*[*Acidnotermes praus* 短肠虚白蚁]({{ site.base_url }}/species/acidnotermes-praus/)
 
 <h5 id="acutidentitermes">Acutidentitermes</h5>
 
+{% include distribution-map.html mode="genus" id="acutidentitermes" %}
+
 \*[*Acutidentitermes osborni* 奥斯本尖齿白蚁]({{ site.base_url }}/species/acutidentitermes-osborni/)
 
 <h5 id="adaiphrotermes">Adaiphrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="adaiphrotermes" %}
 
 [*Adaiphrotermes choanensis* 乔安和白蚁]({{ site.base_url }}/species/adaiphrotermes-choanensis/)
 
@@ -2863,19 +3020,27 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="aderitotermes">Aderitotermes</h5>
 
+{% include distribution-map.html mode="genus" id="aderitotermes" %}
+
 [*Aderitotermes cavator* 中空谐白蚁]({{ site.base_url }}/species/aderitotermes-cavator/)
 
 \*[*Aderitotermes fossor* 挖掘谐白蚁]({{ site.base_url }}/species/aderitotermes-fossor/)
 
 <h5 id="adynatotermes">Adynatotermes</h5>
 
+{% include distribution-map.html mode="genus" id="adynatotermes" %}
+
 \*[*Adynatotermes moretelae* 莫特拉弱白蚁]({{ site.base_url }}/species/adynatotermes-moretelae/)
 
 <h5 id="aganotermes">Aganotermes</h5>
 
+{% include distribution-map.html mode="genus" id="aganotermes" %}
+
 \*[*Aganotermes oryctes* 挖者雅白蚁]({{ site.base_url }}/species/aganotermes-oryctes/)
 
 <h5 id="allognathotermes">Allognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="allognathotermes" %}
 
 [*Allognathotermes aburiensis* 阿布里异颚白蚁]({{ site.base_url }}/species/allognathotermes-aburiensis/)
 
@@ -2885,15 +3050,21 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="alyscotermes">Alyscotermes</h5>
 
+{% include distribution-map.html mode="genus" id="alyscotermes" %}
+
 \*[*Alyscotermes kilimandjaricus* 乞力马扎罗逃白蚁]({{ site.base_url }}/species/alyscotermes-kilimandjaricus/)
 
 [*Alyscotermes trestus* 懦夫逃白蚁]({{ site.base_url }}/species/alyscotermes-trestus/)
 
 <h5 id="amalotermes">Amalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="amalotermes" %}
+
 \*[*Amalotermes phaeocephalus* 暗头软白蚁]({{ site.base_url }}/species/amalotermes-phaeocephalus/)
 
 <h5 id="amicotermes">Amicotermes</h5>
+
+{% include distribution-map.html mode="genus" id="amicotermes" %}
 
 [*Amicotermes autothysius* 自爆善白蚁]({{ site.base_url }}/species/amicotermes-autothysius/)
 
@@ -2921,13 +3092,19 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="amplucrutermes">Amplucrutermes</h5>
 
+{% include distribution-map.html mode="genus" id="amplucrutermes" %}
+
 \*[*Amplucrutermes inflatus* 椭圆大腿白蚁]({{ site.base_url }}/species/amplucrutermes-inflatus/)
 
 <h5 id="anaorotermes">Anaorotermes</h5>
 
+{% include distribution-map.html mode="genus" id="anaorotermes" %}
+
 \*[*Anaorotermes echinocolon* 海胆肠无戟白蚁]({{ site.base_url }}/species/anaorotermes-echinocolon/)
 
 <h5 id="anenteotermes">Anenteotermes</h5>
+
+{% include distribution-map.html mode="genus" id="anenteotermes" %}
 
 [*Anenteotermes amachetus* 无刀无甲白蚁]({{ site.base_url }}/species/anenteotermes-amachetus/)
 
@@ -2952,6 +3129,8 @@ This subfamily is the principal home of the soldierless groups among the higher 
 [*Anenteotermes polyscolus* 多魁无甲白蚁]({{ site.base_url }}/species/anenteotermes-polyscolus/)
 
 <h5 id="anoplotermes">Anoplotermes</h5>
+
+{% include distribution-map.html mode="genus" id="anoplotermes" %}
 
 [*Anoplotermes ater* 暗黑解甲白蚁]({{ site.base_url }}/species/anoplotermes-ater/)
 
@@ -3001,9 +3180,13 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="apagotermes">Apagotermes</h5>
 
+{% include distribution-map.html mode="genus" id="apagotermes" %}
+
 \*[*Apagotermes stolidus* 愚蠢疲白蚁]({{ site.base_url }}/species/apagotermes-stolidus/)
 
 <h5 id="aparatermes">Aparatermes</h5>
+
+{% include distribution-map.html mode="genus" id="aparatermes" %}
 
 \*[*Aparatermes abbreviatus* 缩短弯肠白蚁]({{ site.base_url }}/species/aparatermes-abbreviatus/)
 
@@ -3012,6 +3195,8 @@ This subfamily is the principal home of the soldierless groups among the higher 
 [*Aparatermes thornatus* 刺棘弯肠白蚁]({{ site.base_url }}/species/aparatermes-thornatus/)
 
 <h5 id="apicotermes">Apicotermes</h5>
+
+{% include distribution-map.html mode="genus" id="apicotermes" %}
 
 [*Apicotermes angustatus* 狭窄尖白蚁]({{ site.base_url }}/species/apicotermes-angustatus/)
 
@@ -3041,13 +3226,19 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="apolemotermes">Apolemotermes</h5>
 
+{% include distribution-map.html mode="genus" id="apolemotermes" %}
+
 \*[*Apolemotermes fodiens* 挖掘和平白蚁]({{ site.base_url }}/species/apolemotermes-fodiens/)
 
 <h5 id="asagarotermes">Asagarotermes</h5>
 
+{% include distribution-map.html mode="genus" id="asagarotermes" %}
+
 \*[*Asagarotermes coronatus* 冠毛无剑白蚁]({{ site.base_url }}/species/asagarotermes-coronatus/)
 
 <h5 id="astalotermes">Astalotermes</h5>
+
+{% include distribution-map.html mode="genus" id="astalotermes" %}
 
 [*Astalotermes acholus* 阿彻鲁斯无利器白蚁]({{ site.base_url }}/species/astalotermes-acholus/)
 
@@ -3085,6 +3276,8 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="astratotermes">Astratotermes</h5>
 
+{% include distribution-map.html mode="genus" id="astratotermes" %}
+
 [*Astratotermes aneristus* 赞比亚无刃白蚁]({{ site.base_url }}/species/astratotermes-aneristus/)
 
 [*Astratotermes apocnetus* 小凶无刃白蚁]({{ site.base_url }}/species/astratotermes-apocnetus/)
@@ -3098,6 +3291,8 @@ This subfamily is the principal home of the soldierless groups among the higher 
 \*[*Astratotermes prosenus* 大型无刃白蚁]({{ site.base_url }}/species/astratotermes-prosenus/)
 
 <h5 id="ateuchotermes">Ateuchotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ateuchotermes" %}
 
 [*Ateuchotermes ctenopher* 梳肠无锐白蚁]({{ site.base_url }}/species/ateuchotermes-ctenopher/)
 
@@ -3117,13 +3312,19 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="caputitermes">Caputitermes</h5>
 
+{% include distribution-map.html mode="genus" id="caputitermes" %}
+
 \*[*Caputitermes dimorphus* 二型首白蚁]({{ site.base_url }}/species/caputitermes-dimorphus/)
 
 <h5 id="chasitermes">Chasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="chasitermes" %}
+
 \*[*Chasitermes pax* 和平蔡斯白蚁]({{ site.base_url }}/species/chasitermes-pax/)
 
 <h5 id="compositermes">Compositermes</h5>
+
+{% include distribution-map.html mode="genus" id="compositermes" %}
 
 [*Compositermes bani* 班恩肠刺白蚁]({{ site.base_url }}/species/compositermes-bani/)
 
@@ -3131,17 +3332,25 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="coxotermes">Coxotermes</h5>
 
+{% include distribution-map.html mode="genus" id="coxotermes" %}
+
 \*[*Coxotermes boukokoensis* 布科科基白蚁]({{ site.base_url }}/species/coxotermes-boukokoensis/)
 
 <h5 id="disjunctitermes">Disjunctitermes</h5>
+
+{% include distribution-map.html mode="genus" id="disjunctitermes" %}
 
 \*[*Disjunctitermes insularis* 岛生间断白蚁]({{ site.base_url }}/species/disjunctitermes-insularis/)
 
 <h5 id="dissimulitermes">Dissimulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="dissimulitermes" %}
+
 \*[*Dissimulitermes invisibilis* 隐形隐藏白蚁]({{ site.base_url }}/species/dissimulitermes-invisibilis/)
 
 <h5 id="duplidentitermes">Duplidentitermes</h5>
+
+{% include distribution-map.html mode="genus" id="duplidentitermes" %}
 
 \*[*Duplidentitermes furcatidens* 叉齿双齿白蚁]({{ site.base_url }}/species/duplidentitermes-furcatidens/)
 
@@ -3151,17 +3360,25 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="ebogotermes">Ebogotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ebogotermes" %}
+
 \*[*Ebogotermes raphaeli* 拉斐尔埃博戈白蚁]({{ site.base_url }}/species/ebogotermes-raphaeli/)
 
 <h5 id="eburnitermes">Eburnitermes</h5>
+
+{% include distribution-map.html mode="genus" id="eburnitermes" %}
 
 \*[*Eburnitermes grassei* 格拉塞象牙白蚁]({{ site.base_url }}/species/eburnitermes-grassei/)
 
 <h5 id="echinotermes">Echinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="echinotermes" %}
+
 \*[*Echinotermes biriba* 比里巴多刺白蚁]({{ site.base_url }}/species/echinotermes-biriba/)
 
 <h5 id="euhamitermes">Euhamitermes</h5>
+
+{% include distribution-map.html mode="genus" id="euhamitermes" %}
 
 [*Euhamitermes aruna* 阿鲁纳亮白蚁]({{ site.base_url }}/species/euhamitermes-aruna/)
 
@@ -3213,6 +3430,8 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="eurytermes">Eurytermes</h5>
 
+{% include distribution-map.html mode="genus" id="eurytermes" %}
+
 \*[*Eurytermes assmuthi* 阿斯穆斯宽白蚁]({{ site.base_url }}/species/eurytermes-assmuthi/)
 
 [*Eurytermes boveni* 博文宽白蚁]({{ site.base_url }}/species/eurytermes-boveni/)
@@ -3227,13 +3446,19 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="firmitermes">Firmitermes</h5>
 
+{% include distribution-map.html mode="genus" id="firmitermes" %}
+
 \*[*Firmitermes abyssinicus* 阿比西尼亚坚白蚁]({{ site.base_url }}/species/firmitermes-abyssinicus/)
 
 <h5 id="gastrotermes">Gastrotermes</h5>
 
+{% include distribution-map.html mode="genus" id="gastrotermes" %}
+
 \*[*Gastrotermes spinatus* 多刺胃白蚁]({{ site.base_url }}/species/gastrotermes-spinatus/)
 
 <h5 id="grigiotermes">Grigiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="grigiotermes" %}
 
 \*[*Grigiotermes hageni* 哈根灰白蚁]({{ site.base_url }}/species/grigiotermes-hageni/)
 
@@ -3241,15 +3466,21 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="heimitermes">Heimitermes</h5>
 
+{% include distribution-map.html mode="genus" id="heimitermes" %}
+
 \*[*Heimitermes laticeps* 宽头埃姆白蚁]({{ site.base_url }}/species/heimitermes-laticeps/)
 
 [*Heimitermes moorei* 穆尔埃姆白蚁]({{ site.base_url }}/species/heimitermes-moorei/)
 
 <h5 id="hirsutitermes">Hirsutitermes</h5>
 
+{% include distribution-map.html mode="genus" id="hirsutitermes" %}
+
 \*[*Hirsutitermes kanzakii* 神崎毛糙白蚁]({{ site.base_url }}/species/hirsutitermes-kanzakii/)
 
 <h5 id="hoplognathotermes">Hoplognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="hoplognathotermes" %}
 
 [*Hoplognathotermes angolensis* 安哥拉锐颚白蚁]({{ site.base_url }}/species/hoplognathotermes-angolensis/)
 
@@ -3259,17 +3490,23 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="humutermes">Humutermes</h5>
 
+{% include distribution-map.html mode="genus" id="humutermes" %}
+
 \*[*Humutermes krishnai* 克里希纳腐殖白蚁]({{ site.base_url }}/species/humutermes-krishnai/)
 
 [*Humutermes noiroti* 努瓦罗腐殖白蚁]({{ site.base_url }}/species/humutermes-noiroti/)
 
 <h5 id="hydrecotermes">Hydrecotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hydrecotermes" %}
+
 \*[*Hydrecotermes arienesho* 惊人海德瑞克白蚁]({{ site.base_url }}/species/hydrecotermes-arienesho/)
 
 [*Hydrecotermes kawaii* 可爱海德瑞克白蚁]({{ site.base_url }}/species/hydrecotermes-kawaii/)
 
 <h5 id="indotermes">Indotermes</h5>
+
+{% include distribution-map.html mode="genus" id="indotermes" %}
 
 [*Indotermes arshadi* 阿沙德印白蚁]({{ site.base_url }}/species/indotermes-arshadi/)
 
@@ -3293,25 +3530,37 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="jugositermes">Jugositermes</h5>
 
+{% include distribution-map.html mode="genus" id="jugositermes" %}
+
 \*[*Jugositermes tuberculatus* 具瘤岗白蚁]({{ site.base_url }}/species/jugositermes-tuberculatus/)
 
 <h5 id="koutabatermes">Koutabatermes</h5>
+
+{% include distribution-map.html mode="genus" id="koutabatermes" %}
 
 \*[*Koutabatermes spinifer* 具刺库塔巴白蚁]({{ site.base_url }}/species/koutabatermes-spinifer/)
 
 <h5 id="krecekitermes">Krecekitermes</h5>
 
+{% include distribution-map.html mode="genus" id="krecekitermes" %}
+
 \*[*Krecekitermes daironi* 戴龙克雷切克白蚁]({{ site.base_url }}/species/krecekitermes-daironi/)
 
 <h5 id="labidotermes">Labidotermes</h5>
+
+{% include distribution-map.html mode="genus" id="labidotermes" %}
 
 \*[*Labidotermes celisi* 塞利斯钳白蚁]({{ site.base_url }}/species/labidotermes-celisi/)
 
 <h5 id="longustitermes">Longustitermes</h5>
 
+{% include distribution-map.html mode="genus" id="longustitermes" %}
+
 \*[*Longustitermes manni* 曼长工白蚁]({{ site.base_url }}/species/longustitermes-manni/)
 
 <h5 id="machadotermes">Machadotermes</h5>
+
+{% include distribution-map.html mode="genus" id="machadotermes" %}
 
 \*[*Machadotermes inflatus* 过高剑白蚁]({{ site.base_url }}/species/machadotermes-inflatus/)
 
@@ -3321,13 +3570,19 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="mangolditermes">Mangolditermes</h5>
 
+{% include distribution-map.html mode="genus" id="mangolditermes" %}
+
 \*[*Mangolditermes curveileum* 曲回曼戈尔德白蚁]({{ site.base_url }}/species/mangolditermes-curveileum/)
 
 <h5 id="ourissotermes">Ourissotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ourissotermes" %}
+
 \*[*Ourissotermes giblinorum* 吉布林海胆白蚁]({{ site.base_url }}/species/ourissotermes-giblinorum/)
 
 <h5 id="patawatermes">Patawatermes</h5>
+
+{% include distribution-map.html mode="genus" id="patawatermes" %}
 
 [*Patawatermes nigripunctatus* 黑点帕塔瓦白蚁]({{ site.base_url }}/species/patawatermes-nigripunctatus/)
 
@@ -3335,17 +3590,25 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="phoxotermes">Phoxotermes</h5>
 
+{% include distribution-map.html mode="genus" id="phoxotermes" %}
+
 \*[*Phoxotermes cerberus* 三头犬锐白蚁]({{ site.base_url }}/species/phoxotermes-cerberus/)
 
 <h5 id="rostrotermes">Rostrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="rostrotermes" %}
 
 \*[*Rostrotermes cornutus* 具角突吻白蚁]({{ site.base_url }}/species/rostrotermes-cornutus/)
 
 <h5 id="rubeotermes">Rubeotermes</h5>
 
+{% include distribution-map.html mode="genus" id="rubeotermes" %}
+
 \*[*Rubeotermes jheringi* 耶林变红白蚁]({{ site.base_url }}/species/rubeotermes-jheringi/)
 
 <h5 id="ruptitermes">Ruptitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ruptitermes" %}
 
 [*Ruptitermes araujoi* 阿劳若腹爆白蚁]({{ site.base_url }}/species/ruptitermes-araujoi/)
 
@@ -3375,15 +3638,21 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="rustitermes">Rustitermes</h5>
 
+{% include distribution-map.html mode="genus" id="rustitermes" %}
+
 \*[*Rustitermes boteroi* 博特罗拉斯特白蚁]({{ site.base_url }}/species/rustitermes-boteroi/)
 
 <h5 id="skatitermes">Skatitermes</h5>
+
+{% include distribution-map.html mode="genus" id="skatitermes" %}
 
 \*[*Skatitermes psammophilus* 喜沙洁白蚁]({{ site.base_url }}/species/skatitermes-psammophilus/)
 
 [*Skatitermes watti* 瓦特洁白蚁]({{ site.base_url }}/species/skatitermes-watti/)
 
 <h5 id="speculitermes">Speculitermes</h5>
+
+{% include distribution-map.html mode="genus" id="speculitermes" %}
 
 [*Speculitermes angustigulus* 狭颏稀白蚁]({{ site.base_url }}/species/speculitermes-angustigulus/)
 
@@ -3413,15 +3682,21 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="tetimatermes">Tetimatermes</h5>
 
+{% include distribution-map.html mode="genus" id="tetimatermes" %}
+
 \*[*Tetimatermes oliveirae* 橄榄树足白蚁]({{ site.base_url }}/species/tetimatermes-oliveirae/)
 
 <h5 id="tonsuritermes">Tonsuritermes</h5>
+
+{% include distribution-map.html mode="genus" id="tonsuritermes" %}
 
 [*Tonsuritermes mathewsi* 马修斯奇囟白蚁]({{ site.base_url }}/species/tonsuritermes-mathewsi/)
 
 \*[*Tonsuritermes tucki* 塔克奇囟白蚁]({{ site.base_url }}/species/tonsuritermes-tucki/)
 
 <h5 id="trichotermes">Trichotermes</h5>
+
+{% include distribution-map.html mode="genus" id="trichotermes" %}
 
 [*Trichotermes ducis* 首领发白蚁]({{ site.base_url }}/species/trichotermes-ducis/)
 
@@ -3431,9 +3706,13 @@ This subfamily is the principal home of the soldierless groups among the higher 
 
 <h5 id="triclavitermes">Triclavitermes</h5>
 
+{% include distribution-map.html mode="genus" id="triclavitermes" %}
+
 \*[*Triclavitermes catoleensis* 卡托莱三棒白蚁]({{ site.base_url }}/species/triclavitermes-catoleensis/)
 
 <h5 id="tucupitermes">Tucupitermes</h5>
+
+{% include distribution-map.html mode="genus" id="tucupitermes" %}
 
 \*[*Tucupitermes ubixaba* 乌比沙巴黄汁白蚁]({{ site.base_url }}/species/tucupitermes-ubixaba/)
 
@@ -3452,6 +3731,8 @@ Rocha & Cuezzo (2015) (45) first systematically described the morphology and in 
 
 <h5 id="crepititermes">Crepititermes</h5>
 
+{% include distribution-map.html mode="genus" id="crepititermes" %}
+
 \*[*Crepititermes verruculosus* 多疣响白蚁]({{ site.base_url }}/species/crepititermes-verruculosus/)
 
 <h4 id="cubitermitinae">Cubitermitinae</h4>
@@ -3468,9 +3749,13 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="apilitermes">Apilitermes</h5>
 
+{% include distribution-map.html mode="genus" id="apilitermes" %}
+
 \*[*Apilitermes longiceps* 长头无毛白蚁]({{ site.base_url }}/species/apilitermes-longiceps/)
 
 <h5 id="basidentitermes">Basidentitermes</h5>
+
+{% include distribution-map.html mode="genus" id="basidentitermes" %}
 
 [*Basidentitermes amicus* 友善基齿白蚁]({{ site.base_url }}/species/basidentitermes-amicus/)
 
@@ -3490,11 +3775,15 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="batillitermes">Batillitermes</h5>
 
+{% include distribution-map.html mode="genus" id="batillitermes" %}
+
 [*Batillitermes clypeatus* 大唇铲白蚁]({{ site.base_url }}/species/batillitermes-clypeatus/)
 
 \*[*Batillitermes monachus* 僧侣铲白蚁]({{ site.base_url }}/species/batillitermes-monachus/)
 
 <h5 id="crenetermes">Crenetermes</h5>
+
+{% include distribution-map.html mode="genus" id="crenetermes" %}
 
 \*[*Crenetermes albotarsalis* 白跗刻痕白蚁]({{ site.base_url }}/species/crenetermes-albotarsalis/)
 
@@ -3507,6 +3796,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 [*Crenetermes mixtus* 混杂刻痕白蚁]({{ site.base_url }}/species/crenetermes-mixtus/)
 
 <h5 id="cubitermes">Cubitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cubitermes" %}
 
 [*Cubitermes atrox* 凶猛方白蚁]({{ site.base_url }}/species/cubitermes-atrox/)
 
@@ -3532,6 +3823,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="euchilotermes">Euchilotermes</h5>
 
+{% include distribution-map.html mode="genus" id="euchilotermes" %}
+
 [*Euchilotermes acutidens* 尖齿真唇白蚁]({{ site.base_url }}/species/euchilotermes-acutidens/)
 
 [*Euchilotermes quadriceps* 方头真唇白蚁]({{ site.base_url }}/species/euchilotermes-quadriceps/)
@@ -3542,9 +3835,13 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="fastigitermes">Fastigitermes</h5>
 
+{% include distribution-map.html mode="genus" id="fastigitermes" %}
+
 \*[*Fastigitermes jucundus* 可爱峰白蚁]({{ site.base_url }}/species/fastigitermes-jucundus/)
 
 <h5 id="furculitermes">Furculitermes</h5>
+
+{% include distribution-map.html mode="genus" id="furculitermes" %}
 
 [*Furculitermes brevilabius* 短唇叉白蚁]({{ site.base_url }}/species/furculitermes-brevilabius/)
 
@@ -3563,6 +3860,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 \*[*Furculitermes winifredae* 威尼弗雷德叉白蚁]({{ site.base_url }}/species/furculitermes-winifredae/)
 
 <h5 id="isognathotermes">Isognathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="isognathotermes" %}
 
 [*Isognathotermes bulbifrons* 球额等颚白蚁]({{ site.base_url }}/species/isognathotermes-bulbifrons/)
 
@@ -3584,6 +3883,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="lepidotermes">Lepidotermes</h5>
 
+{% include distribution-map.html mode="genus" id="lepidotermes" %}
+
 [*Lepidotermes amydrus* 幽暗鳞白蚁]({{ site.base_url }}/species/lepidotermes-amydrus/)
 
 [*Lepidotermes goliathi* 戈利亚特鳞白蚁]({{ site.base_url }}/species/lepidotermes-goliathi/)
@@ -3604,17 +3905,23 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="megagnathotermes">Megagnathotermes</h5>
 
+{% include distribution-map.html mode="genus" id="megagnathotermes" %}
+
 [*Megagnathotermes katangensis* 加丹加大颚白蚁]({{ site.base_url }}/species/megagnathotermes-katangensis/)
 
 \*[*Megagnathotermes notandus* 标记大颚白蚁]({{ site.base_url }}/species/megagnathotermes-notandus/)
 
 <h5 id="mucrotermes">Mucrotermes</h5>
 
+{% include distribution-map.html mode="genus" id="mucrotermes" %}
+
 [*Mucrotermes heterochilus* 异唇锐尖白蚁]({{ site.base_url }}/species/mucrotermes-heterochilus/)
 
 \*[*Mucrotermes osborni* 奥斯本锐尖白蚁]({{ site.base_url }}/species/mucrotermes-osborni/)
 
 <h5 id="nitiditermes">Nitiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="nitiditermes" %}
 
 [*Nitiditermes aemulus* 竞争净白蚁]({{ site.base_url }}/species/nitiditermes-aemulus/)
 
@@ -3648,6 +3955,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="noditermes">Noditermes</h5>
 
+{% include distribution-map.html mode="genus" id="noditermes" %}
+
 [*Noditermes angolensis* 安哥拉节白蚁]({{ site.base_url }}/species/noditermes-angolensis/)
 
 [*Noditermes cristifrons* 毛额节白蚁]({{ site.base_url }}/species/noditermes-cristifrons/)
@@ -3664,11 +3973,15 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="okavangotermes">Okavangotermes</h5>
 
+{% include distribution-map.html mode="genus" id="okavangotermes" %}
+
 \*[*Okavangotermes giessi* 吉斯奥卡万戈白蚁]({{ site.base_url }}/species/okavangotermes-giessi/)
 
 [*Okavangotermes guineensis* 几内亚奥卡万戈白蚁]({{ site.base_url }}/species/okavangotermes-guineensis/)
 
 <h5 id="ophiotermes">Ophiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ophiotermes" %}
 
 [*Ophiotermes gracilis* 细瘦蛇白蚁]({{ site.base_url }}/species/ophiotermes-gracilis/)
 
@@ -3686,19 +3999,27 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="orthotermes">Orthotermes</h5>
 
+{% include distribution-map.html mode="genus" id="orthotermes" %}
+
 \*[*Orthotermes depressifrons* 陷额直白蚁]({{ site.base_url }}/species/orthotermes-depressifrons/)
 
 [*Orthotermes mansuetus* 顺从直白蚁]({{ site.base_url }}/species/orthotermes-mansuetus/)
 
 <h5 id="ovambotermes">Ovambotermes</h5>
 
+{% include distribution-map.html mode="genus" id="ovambotermes" %}
+
 \*[*Ovambotermes sylvaticus* 林地奥万博兰白蚁]({{ site.base_url }}/species/ovambotermes-sylvaticus/)
 
 <h5 id="pilotermes">Pilotermes</h5>
 
+{% include distribution-map.html mode="genus" id="pilotermes" %}
+
 \*[*Pilotermes langi* 兰棘白蚁]({{ site.base_url }}/species/pilotermes-langi/)
 
 <h5 id="polyspathotermes">Polyspathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="polyspathotermes" %}
 
 [*Polyspathotermes bugeserae* 布盖塞拉多铲白蚁]({{ site.base_url }}/species/polyspathotermes-bugeserae/)
 
@@ -3716,11 +4037,15 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="proboscitermes">Proboscitermes</h5>
 
+{% include distribution-map.html mode="genus" id="proboscitermes" %}
+
 [*Proboscitermes mcgrewi* 麦克格鲁象鼻白蚁]({{ site.base_url }}/species/proboscitermes-mcgrewi/)
 
 \*[*Proboscitermes tubuliferus* 具管象鼻白蚁]({{ site.base_url }}/species/proboscitermes-tubuliferus/)
 
 <h5 id="procubitermes">Procubitermes</h5>
+
+{% include distribution-map.html mode="genus" id="procubitermes" %}
 
 [*Procubitermes aburiensis* 阿布里原方白蚁]({{ site.base_url }}/species/procubitermes-aburiensis/)
 
@@ -3742,9 +4067,13 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="profastigitermes">Profastigitermes</h5>
 
+{% include distribution-map.html mode="genus" id="profastigitermes" %}
+
 \*[*Profastigitermes putnami* 帕特南前峰白蚁]({{ site.base_url }}/species/profastigitermes-putnami/)
 
 <h5 id="ternicubitermes">Ternicubitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ternicubitermes" %}
 
 \*[*Ternicubitermes bilobatodes* 双叶三方白蚁]({{ site.base_url }}/species/ternicubitermes-bilobatodes/)
 
@@ -3774,6 +4103,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="thoracotermes">Thoracotermes</h5>
 
+{% include distribution-map.html mode="genus" id="thoracotermes" %}
+
 [*Thoracotermes brevinotus* 短背胸白蚁]({{ site.base_url }}/species/thoracotermes-brevinotus/)
 
 [*Thoracotermes grevillensis* 格瑞维勒胸白蚁]({{ site.base_url }}/species/thoracotermes-grevillensis/)
@@ -3784,9 +4115,13 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="trapellitermes">Trapellitermes</h5>
 
+{% include distribution-map.html mode="genus" id="trapellitermes" %}
+
 \*[*Trapellitermes loxomastax* 弯颚菱角白蚁]({{ site.base_url }}/species/trapellitermes-loxomastax/)
 
 <h5 id="unguitermes">Unguitermes</h5>
+
+{% include distribution-map.html mode="genus" id="unguitermes" %}
 
 [*Unguitermes acutifrons* 尖额爪白蚁]({{ site.base_url }}/species/unguitermes-acutifrons/)
 
@@ -3804,6 +4139,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 <h5 id="unicornitermes">Unicornitermes</h5>
 
+{% include distribution-map.html mode="genus" id="unicornitermes" %}
+
 \*[*Unicornitermes gaerdesi* 盖尔德独角白蚁]({{ site.base_url }}/species/unicornitermes-gaerdesi/)
 
 <h4 id="cylindrotermitinae">Cylindrotermitinae</h4>
@@ -3818,9 +4155,13 @@ The two genera show a transatlantic disjunct distribution: the genus Cephaloterm
 
 <h5 id="cephalotermes">Cephalotermes</h5>
 
+{% include distribution-map.html mode="genus" id="cephalotermes" %}
+
 \*[*Cephalotermes rectangularis* 直角头白蚁]({{ site.base_url }}/species/cephalotermes-rectangularis/)
 
 <h5 id="cylindrotermes">Cylindrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cylindrotermes" %}
 
 [*Cylindrotermes brevipilosus* 短毛圆筒白蚁]({{ site.base_url }}/species/cylindrotermes-brevipilosus/)
 
@@ -3845,6 +4186,8 @@ The subfamily Engelitermitinae was established by Romero-Arias, Roisin and Schef
 Because it contains a single genus with a single species, its characters are those of the subfamily: the type colony (52) was collected in lowland tropical rainforest along the Nyong River in southern Cameroon, where it lived in a cavity of about 50 × 60 cm between the bark and a standing dead tree, constructing the nest chamber of soft black faecal material; the colony numbered more than ten thousand individuals, but soldiers were extremely scarce — in two of the four known samples only workers were collected. The worker mandibles are of the soil-feeding (humus-feeding) type, and the enteric-valve pads bear only a single spine with an unsculptured cuticle, a combination unique among termites; soldiers are rare, with a transparent abdomen containing no solid food, the head yellow-orange and rectangular, the mandibles short and stout, each bearing a triangular tooth near the base, and the tibial spur formula 2:2:2. Alates have not yet been collected. The subfamily is known from only four collecting localities, and its discovery shows that distinctive deep lineages of the family remain to be discovered in African tropical rainforests.
 <h5 id="engelitermes">Engelitermes</h5>
 
+{% include distribution-map.html mode="genus" id="engelitermes" %}
+
 \*[*Engelitermes zambo* 赞博恩格尔白蚁]({{ site.base_url }}/species/engelitermes-zambo/)
 
 <h4 id="foraminitermitinae">Foraminitermitinae</h4>
@@ -3860,6 +4203,8 @@ Its distribution spans both the Afrotropical realm (West and Central Africa to E
 
 <h5 id="foraminitermes">Foraminitermes</h5>
 
+{% include distribution-map.html mode="genus" id="foraminitermes" %}
+
 [*Foraminitermes coatoni* 科顿孔白蚁]({{ site.base_url }}/species/foraminitermes-coatoni/)
 
 [*Foraminitermes corniferus* 具角孔白蚁]({{ site.base_url }}/species/foraminitermes-corniferus/)
@@ -3874,6 +4219,8 @@ Its distribution spans both the Afrotropical realm (West and Central Africa to E
 
 <h5 id="labritermes">Labritermes</h5>
 
+{% include distribution-map.html mode="genus" id="labritermes" %}
+
 \*[*Labritermes buttelreepeni* 巴特里彭唇白蚁]({{ site.base_url }}/species/labritermes-buttelreepeni/)
 
 [*Labritermes emersoni* 埃默森唇白蚁]({{ site.base_url }}/species/labritermes-emersoni/)
@@ -3881,6 +4228,8 @@ Its distribution spans both the Afrotropical realm (West and Central Africa to E
 [*Labritermes kistneri* 基斯特纳唇白蚁]({{ site.base_url }}/species/labritermes-kistneri/)
 
 <h5 id="pseudomicrotermes">Pseudomicrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="pseudomicrotermes" %}
 
 \*[*Pseudomicrotermes alboniger* 白黑伪小白蚁]({{ site.base_url }}/species/pseudomicrotermes-alboniger/)
 
@@ -3890,6 +4239,8 @@ The subfamily Forficulitermitinae was established by Hellemans, Engel and Bourgu
 
 Because it contains a single genus with a single species, its characters are those of the subfamily: the workers are soil-feeders (humus-feeders); the soldier head is nearly square, the fontanelle lies in a shallow depression with, on each side in front of it, a flat longitudinal ridge that forms a shallow groove running to the base of the clypeus, and there is additionally a small tubercle on each side between the fontanelle and the antennal socket; the mandibles are slender and toothless, used for biting rather than snapping, and the labrum bears a median projection and sharp apicolateral angles on its distal margin. In the worker, the second marginal tooth of the right mandible is well developed, and the four Malpighian tubules open in pairs together at the junction of the mixed segment — characters that distinguish this subfamily from the snapping-type soldiers common in the family and from the Termitinae. In the 2024 analysis its position was unstable in most analyses (21) (it was treated as a rogue taxon), but topology tests did not reject the hypothesis that it is closely related to the Engelitermitinae; its unique morphological combination is sufficient to establish a separate subfamily, representing another narrowly distributed relict monotypic lineage of the family that is non-basal and of uncertain phylogenetic position.
 <h5 id="forficulitermes">Forficulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="forficulitermes" %}
 
 \*[*Forficulitermes planifrons* 扁额剪白蚁]({{ site.base_url }}/species/forficulitermes-planifrons/)
 
@@ -3913,9 +4264,13 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 <h5 id="acanthotermes">Acanthotermes</h5>
 
+{% include distribution-map.html mode="genus" id="acanthotermes" %}
+
 \*[*Acanthotermes acanthothorax* 刺胸刺白蚁]({{ site.base_url }}/species/acanthotermes-acanthothorax/)
 
 <h5 id="allodontermes">Allodontermes</h5>
+
+{% include distribution-map.html mode="genus" id="allodontermes" %}
 
 [*Allodontermes rhodesiensis* 罗得西亚奇齿白蚁]({{ site.base_url }}/species/allodontermes-rhodesiensis/)
 
@@ -3924,6 +4279,8 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Allodontermes tenax* 执着奇齿白蚁]({{ site.base_url }}/species/allodontermes-tenax/)
 
 <h5 id="ancistrotermes">Ancistrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ancistrotermes" %}
 
 [*Ancistrotermes cavithorax* 凹胸钩白蚁]({{ site.base_url }}/species/ancistrotermes-cavithorax/)
 
@@ -3959,9 +4316,13 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 <h5 id="euscaiotermes">Euscaiotermes</h5>
 
+{% include distribution-map.html mode="genus" id="euscaiotermes" %}
+
 \*[*Euscaiotermes primus* 第一左转白蚁]({{ site.base_url }}/species/euscaiotermes-primus/)
 
 <h5 id="hypotermes">Hypotermes</h5>
+
+{% include distribution-map.html mode="genus" id="hypotermes" %}
 
 [*Hypotermes bawanensis* 坝湾地白蚁]({{ site.base_url }}/species/hypotermes-bawanensis/)
 
@@ -3990,6 +4351,8 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Hypotermes yingjiangensis* 盈江地白蚁]({{ site.base_url }}/species/hypotermes-yingjiangensis/)
 
 <h5 id="macrotermes">Macrotermes</h5>
+
+{% include distribution-map.html mode="genus" id="macrotermes" %}
 
 [*Macrotermes acrocephalus* 隆头大白蚁]({{ site.base_url }}/species/macrotermes-acrocephalus/)
 
@@ -4107,9 +4470,13 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 <h5 id="megaprotermes">Megaprotermes</h5>
 
+{% include distribution-map.html mode="genus" id="megaprotermes" %}
+
 \*[*Megaprotermes giffardii* 吉法德大前白蚁]({{ site.base_url }}/species/megaprotermes-giffardii/)
 
 <h5 id="microtermes">Microtermes</h5>
+
+{% include distribution-map.html mode="genus" id="microtermes" %}
 
 [*Microtermes aethiopicus* 埃塞俄比亚小白蚁]({{ site.base_url }}/species/microtermes-aethiopicus/)
 
@@ -4250,6 +4617,8 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Microtermes yemenensis* 也门小白蚁]({{ site.base_url }}/species/microtermes-yemenensis/)
 
 <h5 id="odontotermes">Odontotermes</h5>
+
+{% include distribution-map.html mode="genus" id="odontotermes" %}
 
 [*Odontotermes acutidens* 尖齿土白蚁]({{ site.base_url }}/species/odontotermes-acutidens/)
 
@@ -4649,6 +5018,8 @@ Economically, this subfamily is the most important pest group of Old World agric
 
 <h5 id="protermes">Protermes</h5>
 
+{% include distribution-map.html mode="genus" id="protermes" %}
+
 [*Protermes hirticeps* 毛头前白蚁]({{ site.base_url }}/species/protermes-hirticeps/)
 
 [*Protermes minimus* 最小前白蚁]({{ site.base_url }}/species/protermes-minimus/)
@@ -4660,6 +5031,8 @@ Economically, this subfamily is the most important pest group of Old World agric
 \*[*Protermes prorepens* 前匍前白蚁]({{ site.base_url }}/species/protermes-prorepens/)
 
 <h5 id="pseudacanthotermes">Pseudacanthotermes</h5>
+
+{% include distribution-map.html mode="genus" id="pseudacanthotermes" %}
 
 [*Pseudacanthotermes curticeps* 短头伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-curticeps/)
 
@@ -4674,6 +5047,8 @@ Economically, this subfamily is the most important pest group of Old World agric
 [*Pseudacanthotermes spiniger* 具刺伪刺白蚁]({{ site.base_url }}/species/pseudacanthotermes-spiniger/)
 
 <h5 id="synacanthotermes">Synacanthotermes</h5>
+
+{% include distribution-map.html mode="genus" id="synacanthotermes" %}
 
 \*[*Synacanthotermes heterodon* 异齿聚刺白蚁]({{ site.base_url }}/species/synacanthotermes-heterodon/)
 
@@ -4695,6 +5070,8 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 </figure>
 
 <h5 id="microcerotermes">Microcerotermes</h5>
+
+{% include distribution-map.html mode="genus" id="microcerotermes" %}
 
 [*Microcerotermes acerbus* 粗鲁锯白蚁]({{ site.base_url }}/species/microcerotermes-acerbus/)
 
@@ -4994,6 +5371,8 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 
 <h5 id="onkotermes">Onkotermes</h5>
 
+{% include distribution-map.html mode="genus" id="onkotermes" %}
+
 \*[*Onkotermes brevicorniger* 短角倒钩白蚁]({{ site.base_url }}/species/onkotermes-brevicorniger/)
 
 [*Onkotermes corochus* 瘤额倒钩白蚁]({{ site.base_url }}/species/onkotermes-corochus/)
@@ -5012,6 +5391,8 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 </figure>
 
 <h5 id="dicuspiditermes">Dicuspiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="dicuspiditermes" %}
 
 [*Dicuspiditermes achankovili* 阿坚柯维尔突扭白蚁]({{ site.base_url }}/species/dicuspiditermes-achankovili/)
 
@@ -5057,6 +5438,8 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="homallotermes">Homallotermes</h5>
 
+{% include distribution-map.html mode="genus" id="homallotermes" %}
+
 [*Homallotermes eleanorae* 埃莉诺平白蚁]({{ site.base_url }}/species/homallotermes-eleanorae/)
 
 [*Homallotermes exiguus* 微小平白蚁]({{ site.base_url }}/species/homallotermes-exiguus/)
@@ -5067,13 +5450,19 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="indocapritermes">Indocapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="indocapritermes" %}
+
 \*[*Indocapritermes aruni* 阿伦印扭白蚁]({{ site.base_url }}/species/indocapritermes-aruni/)
 
 <h5 id="kemneritermes">Kemneritermes</h5>
 
+{% include distribution-map.html mode="genus" id="kemneritermes" %}
+
 \*[*Kemneritermes sarawakensis* 砂拉越凯姆勒白蚁]({{ site.base_url }}/species/kemneritermes-sarawakensis/)
 
 <h5 id="krishnacapritermes">Krishnacapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="krishnacapritermes" %}
 
 [*Krishnacapritermes dineshan* 迪内尚克里希纳扭白蚁]({{ site.base_url }}/species/krishnacapritermes-dineshan/)
 
@@ -5085,11 +5474,15 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="labiocapritermes">Labiocapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="labiocapritermes" %}
+
 \*[*Labiocapritermes distortus* 扭曲唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-distortus/)
 
 [*Labiocapritermes ghatensis* 高止唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-ghatensis/)
 
 <h5 id="mirocapritermes">Mirocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="mirocapritermes" %}
 
 [*Mirocapritermes concaveus* 凹瘤白蚁]({{ site.base_url }}/species/mirocapritermes-concaveus/)
 
@@ -5109,9 +5502,13 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="oriencapritermes">Oriencapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="oriencapritermes" %}
+
 \*[*Oriencapritermes kluangensis* 居銮东扭白蚁]({{ site.base_url }}/species/oriencapritermes-kluangensis/)
 
 <h5 id="pericapritermes">Pericapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="pericapritermes" %}
 
 [*Pericapritermes appellans* 定名近扭白蚁]({{ site.base_url }}/species/pericapritermes-appellans/)
 
@@ -5197,6 +5594,8 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="procapritermes">Procapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="procapritermes" %}
+
 [*Procapritermes atypus* 地蛛前扭白蚁]({{ site.base_url }}/species/procapritermes-atypus/)
 
 [*Procapritermes dakshinae* 戴克夏娜前扭白蚁]({{ site.base_url }}/species/procapritermes-dakshinae/)
@@ -5224,6 +5623,8 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 [*Procapritermes zhangfengensis* 章凤前扭白蚁]({{ site.base_url }}/species/procapritermes-zhangfengensis/)
 
 <h5 id="pseudocapritermes">Pseudocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="pseudocapritermes" %}
 
 [*Pseudocapritermes angustignathus* 细颚伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-angustignathus/)
 
@@ -5263,11 +5664,15 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="rinacapritermes">Rinacapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="rinacapritermes" %}
+
 [*Rinacapritermes abundans* 丰富丽娜扭白蚁]({{ site.base_url }}/species/rinacapritermes-abundans/)
 
 \*[*Rinacapritermes silvius* 林栖丽娜扭白蚁]({{ site.base_url }}/species/rinacapritermes-silvius/)
 
 <h5 id="sinocapritermes">Sinocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="sinocapritermes" %}
 
 [*Sinocapritermes albipennis* 白翅华扭白蚁]({{ site.base_url }}/species/sinocapritermes-albipennis/)
 
@@ -5303,6 +5708,8 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 
 <h5 id="syncapritermes">Syncapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="syncapritermes" %}
+
 \*[*Syncapritermes greeni* 格林聚扭白蚁]({{ site.base_url }}/species/syncapritermes-greeni/)
 
 <h4 id="nasutitermitinae">Nasutitermitinae</h4>
@@ -5320,21 +5727,29 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="aciculitermes">Aciculitermes</h5>
 
+{% include distribution-map.html mode="genus" id="aciculitermes" %}
+
 \*[*Aciculitermes aciculatus* 针状针白蚁]({{ site.base_url }}/species/aciculitermes-aciculatus/)
 
 [*Aciculitermes maymyoensis* 眉妙针白蚁]({{ site.base_url }}/species/aciculitermes-maymyoensis/)
 
 <h5 id="afrosubulitermes">Afrosubulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="afrosubulitermes" %}
+
 \*[*Afrosubulitermes congoensis* 刚果非锥白蚁]({{ site.base_url }}/species/afrosubulitermes-congoensis/)
 
 <h5 id="agnathotermes">Agnathotermes</h5>
+
+{% include distribution-map.html mode="genus" id="agnathotermes" %}
 
 [*Agnathotermes crassinasus* 粗鼻无颚白蚁]({{ site.base_url }}/species/agnathotermes-crassinasus/)
 
 \*[*Agnathotermes glaber* 光秃无颚白蚁]({{ site.base_url }}/species/agnathotermes-glaber/)
 
 <h5 id="ahmaditermes">Ahmaditermes</h5>
+
+{% include distribution-map.html mode="genus" id="ahmaditermes" %}
 
 [*Ahmaditermes choui* 周氏钝颚白蚁]({{ site.base_url }}/species/ahmaditermes-choui/)
 
@@ -5380,11 +5795,15 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="ampoulitermes">Ampoulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="ampoulitermes" %}
+
 \*[*Ampoulitermes wynaadensis* 维纳德安瓿白蚁]({{ site.base_url }}/species/ampoulitermes-wynaadensis/)
 
 [*Ampoulitermes zacharia* 扎卡里亚安瓿白蚁]({{ site.base_url }}/species/ampoulitermes-zacharia/)
 
 <h5 id="angularitermes">Angularitermes</h5>
+
+{% include distribution-map.html mode="genus" id="angularitermes" %}
 
 [*Angularitermes clypeatus* 大唇棱角白蚁]({{ site.base_url }}/species/angularitermes-clypeatus/)
 
@@ -5400,6 +5819,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="anhangatermes">Anhangatermes</h5>
 
+{% include distribution-map.html mode="genus" id="anhangatermes" %}
+
 [*Anhangatermes anhanguera* 魔鬼魔白蚁]({{ site.base_url }}/species/anhangatermes-anhanguera/)
 
 [*Anhangatermes eurycephalus* 宽头魔白蚁]({{ site.base_url }}/species/anhangatermes-eurycephalus/)
@@ -5412,9 +5833,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="antillitermes">Antillitermes</h5>
 
+{% include distribution-map.html mode="genus" id="antillitermes" %}
+
 \*[*Antillitermes subtilis* 细瘦安的列斯白蚁]({{ site.base_url }}/species/antillitermes-subtilis/)
 
 <h5 id="araujotermes">Araujotermes</h5>
+
+{% include distribution-map.html mode="genus" id="araujotermes" %}
 
 \*[*Araujotermes caissara* 凯萨拉阿劳若白蚁]({{ site.base_url }}/species/araujotermes-caissara/)
 
@@ -5426,9 +5851,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="arcotermes">Arcotermes</h5>
 
+{% include distribution-map.html mode="genus" id="arcotermes" %}
+
 \*[*Arcotermes tubus* 管鼻弧白蚁]({{ site.base_url }}/species/arcotermes-tubus/)
 
 <h5 id="atlantitermes">Atlantitermes</h5>
+
+{% include distribution-map.html mode="genus" id="atlantitermes" %}
 
 \*[*Atlantitermes guarinim* 好斗阿特拉斯白蚁]({{ site.base_url }}/species/atlantitermes-guarinim/)
 
@@ -5448,6 +5877,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="australitermes">Australitermes</h5>
 
+{% include distribution-map.html mode="genus" id="australitermes" %}
+
 \*[*Australitermes dilucidus* 清晰澳大利亚白蚁]({{ site.base_url }}/species/australitermes-dilucidus/)
 
 [*Australitermes insignitus* 易辨澳大利亚白蚁]({{ site.base_url }}/species/australitermes-insignitus/)
@@ -5456,9 +5887,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="baucaliotermes">Baucaliotermes</h5>
 
+{% include distribution-map.html mode="genus" id="baucaliotermes" %}
+
 \*[*Baucaliotermes hainesi* 海恩斯细颈白蚁]({{ site.base_url }}/species/baucaliotermes-hainesi/)
 
 <h5 id="bulbitermes">Bulbitermes</h5>
+
+{% include distribution-map.html mode="genus" id="bulbitermes" %}
 
 [*Bulbitermes borneensis* 婆罗瓢白蚁]({{ site.base_url }}/species/bulbitermes-borneensis/)
 
@@ -5530,15 +5965,21 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="caetetermes">Caetetermes</h5>
 
+{% include distribution-map.html mode="genus" id="caetetermes" %}
+
 [*Caetetermes fontesi* 丰特斯林白蚁]({{ site.base_url }}/species/caetetermes-fontesi/)
 
 \*[*Caetetermes taquarussu* 塔夸拉林白蚁]({{ site.base_url }}/species/caetetermes-taquarussu/)
 
 <h5 id="caribitermes">Caribitermes</h5>
 
+{% include distribution-map.html mode="genus" id="caribitermes" %}
+
 \*[*Caribitermes discolor* 异色加勒比白蚁]({{ site.base_url }}/species/caribitermes-discolor/)
 
 <h5 id="ceylonitermellus">Ceylonitermellus</h5>
+
+{% include distribution-map.html mode="genus" id="ceylonitermellus" %}
 
 \*[*Ceylonitermellus hantanae* 汉塔娜小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-hantanae/)
 
@@ -5547,6 +5988,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Ceylonitermellus sahyadriensis* 萨亚德里小锡兰白蚁]({{ site.base_url }}/species/ceylonitermellus-sahyadriensis/)
 
 <h5 id="ceylonitermes">Ceylonitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ceylonitermes" %}
 
 \*[*Ceylonitermes escherichi* 埃舍里希锡兰白蚁]({{ site.base_url }}/species/ceylonitermes-escherichi/)
 
@@ -5558,6 +6001,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="coarctotermes">Coarctotermes</h5>
 
+{% include distribution-map.html mode="genus" id="coarctotermes" %}
+
 [*Coarctotermes beharaensis* 贝哈拉缩狭白蚁]({{ site.base_url }}/species/coarctotermes-beharaensis/)
 
 \*[*Coarctotermes clepsydra* 漏壶缩狭白蚁]({{ site.base_url }}/species/coarctotermes-clepsydra/)
@@ -5567,6 +6012,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Coarctotermes pauliani* 波利昂缩狭白蚁]({{ site.base_url }}/species/coarctotermes-pauliani/)
 
 <h5 id="coatitermes">Coatitermes</h5>
+
+{% include distribution-map.html mode="genus" id="coatitermes" %}
 
 \*[*Coatitermes clevelandi* 克利夫兰凸鼻白蚁]({{ site.base_url }}/species/coatitermes-clevelandi/)
 
@@ -5578,9 +6025,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="coendutermes">Coendutermes</h5>
 
+{% include distribution-map.html mode="genus" id="coendutermes" %}
+
 \*[*Coendutermes tucum* 纤维箭猪白蚁]({{ site.base_url }}/species/coendutermes-tucum/)
 
 <h5 id="constrictotermes">Constrictotermes</h5>
+
+{% include distribution-map.html mode="genus" id="constrictotermes" %}
 
 [*Constrictotermes cacaoensis* 可可缩白蚁]({{ site.base_url }}/species/constrictotermes-cacaoensis/)
 
@@ -5596,11 +6047,15 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="convexitermes">Convexitermes</h5>
 
+{% include distribution-map.html mode="genus" id="convexitermes" %}
+
 \*[*Convexitermes convexifrons* 凸额凸白蚁]({{ site.base_url }}/species/convexitermes-convexifrons/)
 
 [*Convexitermes manni* 曼凸白蚁]({{ site.base_url }}/species/convexitermes-manni/)
 
 <h5 id="cortaritermes">Cortaritermes</h5>
+
+{% include distribution-map.html mode="genus" id="cortaritermes" %}
 
 [*Cortaritermes fulviceps* 栗头利颚白蚁]({{ site.base_url }}/species/cortaritermes-fulviceps/)
 
@@ -5614,6 +6069,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="cucurbitermes">Cucurbitermes</h5>
 
+{% include distribution-map.html mode="genus" id="cucurbitermes" %}
+
 [*Cucurbitermes parviceps* 小葫白蚁]({{ site.base_url }}/species/cucurbitermes-parviceps/)
 
 [*Cucurbitermes sinensis* 中华葫白蚁]({{ site.base_url }}/species/cucurbitermes-sinensis/)
@@ -5621,6 +6078,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 \*[*Cucurbitermes yingdeensis* 英德葫白蚁]({{ site.base_url }}/species/cucurbitermes-yingdeensis/)
 
 <h5 id="cyranotermes">Cyranotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cyranotermes" %}
 
 [*Cyranotermes caete* 卡埃特巨鼻白蚁]({{ site.base_url }}/species/cyranotermes-caete/)
 
@@ -5632,6 +6091,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="diversitermes">Diversitermes</h5>
 
+{% include distribution-map.html mode="genus" id="diversitermes" %}
+
 [*Diversitermes castaniceps* 栗头歧白蚁]({{ site.base_url }}/species/diversitermes-castaniceps/)
 
 \*[*Diversitermes diversimiles* 多兵歧白蚁]({{ site.base_url }}/species/diversitermes-diversimiles/)
@@ -5639,6 +6100,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Diversitermes tiapuan* 长简鼻歧白蚁]({{ site.base_url }}/species/diversitermes-tiapuan/)
 
 <h5 id="diwaitermes">Diwaitermes</h5>
+
+{% include distribution-map.html mode="genus" id="diwaitermes" %}
 
 [*Diwaitermes castanopsis* 锥栗木象白蚁]({{ site.base_url }}/species/diwaitermes-castanopsis/)
 
@@ -5648,17 +6111,25 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="eleanoritermes">Eleanoritermes</h5>
 
+{% include distribution-map.html mode="genus" id="eleanoritermes" %}
+
 \*[*Eleanoritermes borneensis* 婆罗埃莉诺白蚁]({{ site.base_url }}/species/eleanoritermes-borneensis/)
 
 <h5 id="emersonitermes">Emersonitermes</h5>
+
+{% include distribution-map.html mode="genus" id="emersonitermes" %}
 
 \*[*Emersonitermes thekadensis* 卡迪埃默森白蚁]({{ site.base_url }}/species/emersonitermes-thekadensis/)
 
 <h5 id="enetotermes">Enetotermes</h5>
 
+{% include distribution-map.html mode="genus" id="enetotermes" %}
+
 \*[*Enetotermes bembicoides* 似陀针筒白蚁]({{ site.base_url }}/species/enetotermes-bembicoides/)
 
 <h5 id="ereymatermes">Ereymatermes</h5>
+
+{% include distribution-map.html mode="genus" id="ereymatermes" %}
 
 [*Ereymatermes panamensis* 巴拿马无名白蚁]({{ site.base_url }}/species/ereymatermes-panamensis/)
 
@@ -5667,6 +6138,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 \*[*Ereymatermes rotundiceps* 圆头无名白蚁]({{ site.base_url }}/species/ereymatermes-rotundiceps/)
 
 <h5 id="eutermellus">Eutermellus</h5>
+
+{% include distribution-map.html mode="genus" id="eutermellus" %}
 
 [*Eutermellus abruptus* 陡峭小真白蚁]({{ site.base_url }}/species/eutermellus-abruptus/)
 
@@ -5680,6 +6153,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="fulleritermes">Fulleritermes</h5>
 
+{% include distribution-map.html mode="genus" id="fulleritermes" %}
+
 [*Fulleritermes coatoni* 科顿富勒白蚁]({{ site.base_url }}/species/fulleritermes-coatoni/)
 
 \*[*Fulleritermes contractus* 收缩富勒白蚁]({{ site.base_url }}/species/fulleritermes-contractus/)
@@ -5689,6 +6164,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Fulleritermes tenebricus* 阴暗富勒白蚁]({{ site.base_url }}/species/fulleritermes-tenebricus/)
 
 <h5 id="grallatotermes">Grallatotermes</h5>
+
+{% include distribution-map.html mode="genus" id="grallatotermes" %}
 
 [*Grallatotermes admirabilus* 奇妙高跷白蚁]({{ site.base_url }}/species/grallatotermes-admirabilus/)
 
@@ -5706,6 +6183,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="hirtitermes">Hirtitermes</h5>
 
+{% include distribution-map.html mode="genus" id="hirtitermes" %}
+
 [*Hirtitermes brabazoni* 布拉巴宗多毛白蚁]({{ site.base_url }}/species/hirtitermes-brabazoni/)
 
 \*[*Hirtitermes hirtiventris* 毛腹多毛白蚁]({{ site.base_url }}/species/hirtitermes-hirtiventris/)
@@ -5713,6 +6192,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Hirtitermes spinocephalus* 刺头多毛白蚁]({{ site.base_url }}/species/hirtitermes-spinocephalus/)
 
 <h5 id="hospitalitermes">Hospitalitermes</h5>
+
+{% include distribution-map.html mode="genus" id="hospitalitermes" %}
 
 [*Hospitalitermes asahinai* 朝比奈须白蚁]({{ site.base_url }}/species/hospitalitermes-asahinai/)
 
@@ -5790,9 +6271,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="hyleotermes">Hyleotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hyleotermes" %}
+
 \*[*Hyleotermes brevipilus* 短毛森林白蚁]({{ site.base_url }}/species/hyleotermes-brevipilus/)
 
 <h5 id="kaudernitermes">Kaudernitermes</h5>
+
+{% include distribution-map.html mode="genus" id="kaudernitermes" %}
 
 \*[*Kaudernitermes kaudernianus* 考登考登白蚁]({{ site.base_url }}/species/kaudernitermes-kaudernianus/)
 
@@ -5803,6 +6288,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Kaudernitermes salebrithorax* 凹胸考登白蚁]({{ site.base_url }}/species/kaudernitermes-salebrithorax/)
 
 <h5 id="lacessititermes">Lacessititermes</h5>
+
+{% include distribution-map.html mode="genus" id="lacessititermes" %}
 
 [*Lacessititermes albipes* 白足怒白蚁]({{ site.base_url }}/species/lacessititermes-albipes/)
 
@@ -5846,9 +6333,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="leptomyxotermes">Leptomyxotermes</h5>
 
+{% include distribution-map.html mode="genus" id="leptomyxotermes" %}
+
 \*[*Leptomyxotermes doriae* 多利亚薄喙白蚁]({{ site.base_url }}/species/leptomyxotermes-doriae/)
 
 <h5 id="leucopitermes">Leucopitermes</h5>
+
+{% include distribution-map.html mode="genus" id="leucopitermes" %}
 
 [*Leucopitermes leucopiformis* 似白脸白脸白蚁]({{ site.base_url }}/species/leucopitermes-leucopiformis/)
 
@@ -5860,25 +6351,35 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="longipeditermes">Longipeditermes</h5>
 
+{% include distribution-map.html mode="genus" id="longipeditermes" %}
+
 [*Longipeditermes kistneri* 基斯特纳长足白蚁]({{ site.base_url }}/species/longipeditermes-kistneri/)
 
 \*[*Longipeditermes longipes* 长足长足白蚁]({{ site.base_url }}/species/longipeditermes-longipes/)
 
 <h5 id="macrosubulitermes">Macrosubulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="macrosubulitermes" %}
+
 \*[*Macrosubulitermes greavesi* 格里夫斯大锥白蚁]({{ site.base_url }}/species/macrosubulitermes-greavesi/)
 
 <h5 id="malagasitermes">Malagasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="malagasitermes" %}
+
 \*[*Malagasitermes milloti* 米约马尔加什白蚁]({{ site.base_url }}/species/malagasitermes-milloti/)
 
 <h5 id="malaysiotermes">Malaysiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="malaysiotermes" %}
 
 [*Malaysiotermes holmgreni* 霍姆格伦马来白蚁]({{ site.base_url }}/species/malaysiotermes-holmgreni/)
 
 \*[*Malaysiotermes spinocephalus* 刺头马来白蚁]({{ site.base_url }}/species/malaysiotermes-spinocephalus/)
 
 <h5 id="mimeutermes">Mimeutermes</h5>
+
+{% include distribution-map.html mode="genus" id="mimeutermes" %}
 
 [*Mimeutermes binghami* 宾厄姆仿白蚁]({{ site.base_url }}/species/mimeutermes-binghami/)
 
@@ -5894,19 +6395,27 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="muelleritermes">Muelleritermes</h5>
 
+{% include distribution-map.html mode="genus" id="muelleritermes" %}
+
 \*[*Muelleritermes fritzi* 弗里茨米勒白蚁米勒白蚁]({{ site.base_url }}/species/muelleritermes-fritzi/)
 
 [*Muelleritermes globiceps* 球头米勒白蚁]({{ site.base_url }}/species/muelleritermes-globiceps/)
 
 <h5 id="mycterotermes">Mycterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="mycterotermes" %}
+
 \*[*Mycterotermes meringocephalus* 饼头鸟嘴白蚁]({{ site.base_url }}/species/mycterotermes-meringocephalus/)
 
 <h5 id="nasopilotermes">Nasopilotermes</h5>
 
+{% include distribution-map.html mode="genus" id="nasopilotermes" %}
+
 \*[*Nasopilotermes jiangxiensis* 江西棘象白蚁]({{ site.base_url }}/species/nasopilotermes-jiangxiensis/)
 
 <h5 id="nasutitermes">Nasutitermes</h5>
+
+{% include distribution-map.html mode="genus" id="nasutitermes" %}
 
 [*Nasutitermes acajutlae* 阿卡胡特拉象白蚁]({{ site.base_url }}/species/nasutitermes-acajutlae/)
 
@@ -6396,15 +6905,21 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="ngauratermes">Ngauratermes</h5>
 
+{% include distribution-map.html mode="genus" id="ngauratermes" %}
+
 \*[*Ngauratermes arue* 小凋落白蚁]({{ site.base_url }}/species/ngauratermes-arue/)
 
 <h5 id="niuginitermes">Niuginitermes</h5>
+
+{% include distribution-map.html mode="genus" id="niuginitermes" %}
 
 [*Niuginitermes liklik* 小新几内亚白蚁]({{ site.base_url }}/species/niuginitermes-liklik/)
 
 \*[*Niuginitermes variratae* 瓦里拉塔新几内亚白蚁]({{ site.base_url }}/species/niuginitermes-variratae/)
 
 <h5 id="obtusitermes">Obtusitermes</h5>
+
+{% include distribution-map.html mode="genus" id="obtusitermes" %}
 
 [*Obtusitermes formosulus* 漂亮钝白蚁]({{ site.base_url }}/species/obtusitermes-formosulus/)
 
@@ -6414,11 +6929,15 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="occasitermes">Occasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="occasitermes" %}
+
 \*[*Occasitermes occasus* 西部西部白蚁]({{ site.base_url }}/species/occasitermes-occasus/)
 
 [*Occasitermes watsoni* 沃森西部白蚁]({{ site.base_url }}/species/occasitermes-watsoni/)
 
 <h5 id="occultitermes">Occultitermes</h5>
+
+{% include distribution-map.html mode="genus" id="occultitermes" %}
 
 [*Occultitermes aridus* 干燥隐白蚁]({{ site.base_url }}/species/occultitermes-aridus/)
 
@@ -6426,11 +6945,15 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="oriensubulitermes">Oriensubulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="oriensubulitermes" %}
+
 \*[*Oriensubulitermes inanis* 缺齿东锥白蚁]({{ site.base_url }}/species/oriensubulitermes-inanis/)
 
 [*Oriensubulitermes kemneri* 凯姆勒东锥白蚁]({{ site.base_url }}/species/oriensubulitermes-kemneri/)
 
 <h5 id="paraconvexitermes">Paraconvexitermes</h5>
+
+{% include distribution-map.html mode="genus" id="paraconvexitermes" %}
 
 [*Paraconvexitermes acangapua* 圆头近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-acangapua/)
 
@@ -6439,6 +6962,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 \*[*Paraconvexitermes nigricornis* 黑角近凸白蚁]({{ site.base_url }}/species/paraconvexitermes-nigricornis/)
 
 <h5 id="parvitermes">Parvitermes</h5>
+
+{% include distribution-map.html mode="genus" id="parvitermes" %}
 
 [*Parvitermes aequalis* 类似微白蚁]({{ site.base_url }}/species/parvitermes-aequalis/)
 
@@ -6468,21 +6993,31 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="periaciculitermes">Periaciculitermes</h5>
 
+{% include distribution-map.html mode="genus" id="periaciculitermes" %}
+
 \*[*Periaciculitermes menglunensis* 勐仑近针白蚁]({{ site.base_url }}/species/periaciculitermes-menglunensis/)
 
 <h5 id="postsubulitermes">Postsubulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="postsubulitermes" %}
 
 \*[*Postsubulitermes parviconstrictus* 微缩后锥白蚁]({{ site.base_url }}/species/postsubulitermes-parviconstrictus/)
 
 <h5 id="rhadinotermes">Rhadinotermes</h5>
 
+{% include distribution-map.html mode="genus" id="rhadinotermes" %}
+
 \*[*Rhadinotermes coarctatus* 压缩锥形白蚁]({{ site.base_url }}/species/rhadinotermes-coarctatus/)
 
 <h5 id="roonwalitermes">Roonwalitermes</h5>
 
+{% include distribution-map.html mode="genus" id="roonwalitermes" %}
+
 \*[*Roonwalitermes wadhwai* 沃德瓦鲁恩沃白蚁]({{ site.base_url }}/species/roonwalitermes-wadhwai/)
 
 <h5 id="rotunditermes">Rotunditermes</h5>
+
+{% include distribution-map.html mode="genus" id="rotunditermes" %}
 
 [*Rotunditermes bragantinus* 布拉干提纳圆白蚁]({{ site.base_url }}/species/rotunditermes-bragantinus/)
 
@@ -6490,9 +7025,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="rounditermes">Rounditermes</h5>
 
+{% include distribution-map.html mode="genus" id="rounditermes" %}
+
 \*[*Rounditermes dechambrei* 德尚布尔胖白蚁]({{ site.base_url }}/species/rounditermes-dechambrei/)
 
 <h5 id="sabahitermes">Sabahitermes</h5>
+
+{% include distribution-map.html mode="genus" id="sabahitermes" %}
 
 [*Sabahitermes leuserensis* 勒塞尔沙巴白蚁]({{ site.base_url }}/species/sabahitermes-leuserensis/)
 
@@ -6500,9 +7039,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="sandsitermes">Sandsitermes</h5>
 
+{% include distribution-map.html mode="genus" id="sandsitermes" %}
+
 \*[*Sandsitermes robustus* 粗壮桑兹白蚁]({{ site.base_url }}/species/sandsitermes-robustus/)
 
 <h5 id="sinonasutitermes">Sinonasutitermes</h5>
+
+{% include distribution-map.html mode="genus" id="sinonasutitermes" %}
 
 [*Sinonasutitermes admirabilis* 奇异华象白蚁]({{ site.base_url }}/species/sinonasutitermes-admirabilis/)
 
@@ -6528,13 +7071,19 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="sinqasapatermes">Sinqasapatermes</h5>
 
+{% include distribution-map.html mode="genus" id="sinqasapatermes" %}
+
 \*[*Sinqasapatermes sachae* 森林鼻大白蚁]({{ site.base_url }}/species/sinqasapatermes-sachae/)
 
 <h5 id="spatulitermes">Spatulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="spatulitermes" %}
+
 \*[*Spatulitermes coolingi* 库林匙白蚁]({{ site.base_url }}/species/spatulitermes-coolingi/)
 
 <h5 id="subulioiditermes">Subulioiditermes</h5>
+
+{% include distribution-map.html mode="genus" id="subulioiditermes" %}
 
 [*Subulioiditermes borneensis* 婆罗似锥白蚁]({{ site.base_url }}/species/subulioiditermes-borneensis/)
 
@@ -6543,6 +7092,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 \*[*Subulioiditermes subulioides* 似锥似锥白蚁]({{ site.base_url }}/species/subulioiditermes-subulioides/)
 
 <h5 id="subulitermes">Subulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="subulitermes" %}
 
 [*Subulitermes angusticeps* 窄头锥白蚁]({{ site.base_url }}/species/subulitermes-angusticeps/)
 
@@ -6558,9 +7109,13 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="tarditermes">Tarditermes</h5>
 
+{% include distribution-map.html mode="genus" id="tarditermes" %}
+
 \*[*Tarditermes contracolor* 反色慢白蚁]({{ site.base_url }}/species/tarditermes-contracolor/)
 
 <h5 id="tenuirostritermes">Tenuirostritermes</h5>
+
+{% include distribution-map.html mode="genus" id="tenuirostritermes" %}
 
 [*Tenuirostritermes briciae* 布瑞西亚薄嘴白蚁]({{ site.base_url }}/species/tenuirostritermes-briciae/)
 
@@ -6574,15 +7129,21 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="tiunatermes">Tiunatermes</h5>
 
+{% include distribution-map.html mode="genus" id="tiunatermes" %}
+
 \*[*Tiunatermes mariuzani* 马里乌赞暗鼻白蚁]({{ site.base_url }}/species/tiunatermes-mariuzani/)
 
 [*Tiunatermes tapirape* 塔皮拉佩暗鼻白蚁]({{ site.base_url }}/species/tiunatermes-tapirape/)
 
 <h5 id="triangularitermes">Triangularitermes</h5>
 
+{% include distribution-map.html mode="genus" id="triangularitermes" %}
+
 \*[*Triangularitermes triangulariceps* 三角头三角白蚁]({{ site.base_url }}/species/triangularitermes-triangulariceps/)
 
 <h5 id="trinervitermes">Trinervitermes</h5>
+
+{% include distribution-map.html mode="genus" id="trinervitermes" %}
 
 [*Trinervitermes arabiae* 阿拉伯三脉白蚁]({{ site.base_url }}/species/trinervitermes-arabiae/)
 
@@ -6628,6 +7189,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="tumulitermes">Tumulitermes</h5>
 
+{% include distribution-map.html mode="genus" id="tumulitermes" %}
+
 [*Tumulitermes apiocephalus* 蜂头冢白蚁]({{ site.base_url }}/species/tumulitermes-apiocephalus/)
 
 [*Tumulitermes comatus* 长毛冢白蚁]({{ site.base_url }}/species/tumulitermes-comatus/)
@@ -6664,6 +7227,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="velocitermes">Velocitermes</h5>
 
+{% include distribution-map.html mode="genus" id="velocitermes" %}
+
 [*Velocitermes aporeticus* 怀疑快白蚁]({{ site.base_url }}/species/velocitermes-aporeticus/)
 
 [*Velocitermes barrocoloradensis* 巴罗科罗拉多快白蚁]({{ site.base_url }}/species/velocitermes-barrocoloradensis/)
@@ -6686,11 +7251,15 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 <h5 id="verrucositermes">Verrucositermes</h5>
 
+{% include distribution-map.html mode="genus" id="verrucositermes" %}
+
 [*Verrucositermes hirtus* 多毛疣白蚁]({{ site.base_url }}/species/verrucositermes-hirtus/)
 
 \*[*Verrucositermes tuberosus* 多疣疣白蚁]({{ site.base_url }}/species/verrucositermes-tuberosus/)
 
 <h5 id="xiaitermes">Xiaitermes</h5>
+
+{% include distribution-map.html mode="genus" id="xiaitermes" %}
 
 [*Xiaitermes tiantaiensis* 天台夏氏白蚁]({{ site.base_url }}/species/xiaitermes-tiantaiensis/)
 
@@ -6707,6 +7276,8 @@ This subfamily is a group endemic to the Neotropical realm, with a distribution 
 </figure>
 
 <h5 id="neocapritermes">Neocapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="neocapritermes" %}
 
 [*Neocapritermes angusticeps* 窄头新扭白蚁]({{ site.base_url }}/species/neocapritermes-angusticeps/)
 
@@ -6744,11 +7315,15 @@ This subfamily is a group endemic to the Neotropical realm, with a distribution 
 
 <h5 id="planicapritermes">Planicapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="planicapritermes" %}
+
 [*Planicapritermes longilabrum* 长唇平扭白蚁]({{ site.base_url }}/species/planicapritermes-longilabrum/)
 
 \*[*Planicapritermes planiceps* 平头平扭白蚁]({{ site.base_url }}/species/planicapritermes-planiceps/)
 
 <h5 id="schievitermes">Schievitermes</h5>
+
+{% include distribution-map.html mode="genus" id="schievitermes" %}
 
 \*[*Schievitermes globicornis* 球角不对称白蚁]({{ site.base_url }}/species/schievitermes-globicornis/)
 
@@ -6764,6 +7339,8 @@ Its diet is humus (soil) feeding; an environmental gradient survey in Kruger Nat
 </figure>
 
 <h5 id="angulitermes">Angulitermes</h5>
+
+{% include distribution-map.html mode="genus" id="angulitermes" %}
 
 [*Angulitermes acutus* 锋利角白蚁]({{ site.base_url }}/species/angulitermes-acutus/)
 
@@ -6825,6 +7402,8 @@ Its diet is humus (soil) feeding; an environmental gradient survey in Kruger Nat
 
 <h5 id="promirotermes">Promirotermes</h5>
 
+{% include distribution-map.html mode="genus" id="promirotermes" %}
+
 [*Promirotermes bechuana* 贝专纳前奇白蚁]({{ site.base_url }}/species/promirotermes-bechuana/)
 
 [*Promirotermes bellicosi* 勇猛前奇白蚁]({{ site.base_url }}/species/promirotermes-bellicosi/)
@@ -6857,9 +7436,13 @@ This subfamily is an oligotypic group endemic to the Oriental realm. Both genera
 
 <h5 id="orientotermes">Orientotermes</h5>
 
+{% include distribution-map.html mode="genus" id="orientotermes" %}
+
 \*[*Orientotermes emersoni* 埃默森东方白蚁]({{ site.base_url }}/species/orientotermes-emersoni/)
 
 <h5 id="protohamitermes">Protohamitermes</h5>
+
+{% include distribution-map.html mode="genus" id="protohamitermes" %}
 
 \*[*Protohamitermes globiceps* 球头始钩白蚁]({{ site.base_url }}/species/protohamitermes-globiceps/)
 
@@ -6870,6 +7453,8 @@ The subfamily Sphaerotermitinae was established by Engel and Krishna in 2004 (73
 This subfamily is endemic to the Afrotropical realm (West–Central Africa), and its only species ranges across the Republic of the Congo, Cameroon, the Central African Republic, Angola, the Democratic Republic of the Congo, Gabon, Guinea and Nigeria, with field sampling concentrated in the lowland rainforests of Cameroon. Biologically it is extremely distinctive: the species builds epigeal mound nests, but instead of cultivating the fungus combs seen in Macrotermitinae, it cultivates a bacteria-rich “comb” as food; the nest is built from a mixture of clay and fine sand and is compact in structure. Morphologically, the soldier has a broadly rounded head on both sides, a small and inconspicuous fontanelle located in the middle of the head capsule; the labrum is rounded on the sides with a hyaline tip at the front; the left mandible bears several fine teeth and one blunt tooth near the base, while the inner margin of the right mandible is smooth and toothless; the pronotum is much narrower than the head, with straight anterior and lateral margins lacking protruding spines. In the worker, the molar plate of the right mandible bears 6–7 ridges, the labrum is wholly sclerotized without the transverse sclerotized band seen in Macrotermitinae, and the postclypeus is strongly elevated with a median longitudinal line; at the junction of its P3 (paunch) and P4 (colon) there are conspicuous posteriorly directed setae, a condition unique among termites. In the alate, the fontanelle is pale and small, like a dot. Phylogenetically, several molecular analyses show that this subfamily is the sister group of Macrotermitinae, occupying a key position in the early diversification of the higher termites and being of great significance for understanding the evolution of feeding habits in the higher termites. Ecologically, its mounds are one of the main resources exploited by the “termite-fishing” behavior of chimpanzees in the rainforests of Cameroon (74).
 
 <h5 id="sphaerotermes">Sphaerotermes</h5>
+
+{% include distribution-map.html mode="genus" id="sphaerotermes" %}
 
 \*[*Sphaerotermes sphaerothorax* 圆胸圆球白蚁]({{ site.base_url }}/species/sphaerotermes-sphaerothorax/)
 
@@ -6887,9 +7472,13 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="acangaobitermes">Acangaobitermes</h5>
 
+{% include distribution-map.html mode="genus" id="acangaobitermes" %}
+
 \*[*Acangaobitermes krishnai* 克里希纳漏斗白蚁]({{ site.base_url }}/species/acangaobitermes-krishnai/)
 
 <h5 id="armitermes">Armitermes</h5>
+
+{% include distribution-map.html mode="genus" id="armitermes" %}
 
 \*[*Armitermes armiger* 具戟戟白蚁]({{ site.base_url }}/species/armitermes-armiger/)
 
@@ -6899,21 +7488,29 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="bandeiratermes">Bandeiratermes</h5>
 
+{% include distribution-map.html mode="genus" id="bandeiratermes" %}
+
 \*[*Bandeiratermes silvestrii* 西尔韦斯特里班代拉白蚁]({{ site.base_url }}/species/bandeiratermes-silvestrii/)
 
 [*Bandeiratermes tellustris* 大地班代拉白蚁]({{ site.base_url }}/species/bandeiratermes-tellustris/)
 
 <h5 id="biratermes">Biratermes</h5>
 
+{% include distribution-map.html mode="genus" id="biratermes" %}
+
 \*[*Biratermes robustus* 粗壮拜拉白蚁]({{ site.base_url }}/species/biratermes-robustus/)
 
 <h5 id="cahuallitermes">Cahuallitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cahuallitermes" %}
 
 [*Cahuallitermes aduncus* 具钩弃白蚁]({{ site.base_url }}/species/cahuallitermes-aduncus/)
 
 \*[*Cahuallitermes intermedius* 中间弃白蚁]({{ site.base_url }}/species/cahuallitermes-intermedius/)
 
 <h5 id="cornitermes">Cornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cornitermes" %}
 
 [*Cornitermes acignathus* 尖颚角象白蚁]({{ site.base_url }}/species/cornitermes-acignathus/)
 
@@ -6945,11 +7542,15 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="curvitermes">Curvitermes</h5>
 
+{% include distribution-map.html mode="genus" id="curvitermes" %}
+
 [*Curvitermes minor* 小型曲白蚁]({{ site.base_url }}/species/curvitermes-minor/)
 
 \*[*Curvitermes odontognathus* 齿颚曲白蚁]({{ site.base_url }}/species/curvitermes-odontognathus/)
 
 <h5 id="cyrilliotermes">Cyrilliotermes</h5>
+
+{% include distribution-map.html mode="genus" id="cyrilliotermes" %}
 
 \*[*Cyrilliotermes angulariceps* 角头壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-angulariceps/)
 
@@ -6960,6 +7561,8 @@ Economically, this subfamily is an important group of subterranean pests of agri
 [*Cyrilliotermes strictinasus* 缩鼻壶头白蚁]({{ site.base_url }}/species/cyrilliotermes-strictinasus/)
 
 <h5 id="embiratermes">Embiratermes</h5>
+
+{% include distribution-map.html mode="genus" id="embiratermes" %}
 
 [*Embiratermes benjamini* 本杰明生白蚁]({{ site.base_url }}/species/embiratermes-benjamini/)
 
@@ -6981,15 +7584,21 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="genuotermes">Genuotermes</h5>
 
+{% include distribution-map.html mode="genus" id="genuotermes" %}
+
 \*[*Genuotermes spinifer* 具脊膝白蚁]({{ site.base_url }}/species/genuotermes-spinifer/)
 
 <h5 id="ibitermes">Ibitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ibitermes" %}
 
 [*Ibitermes curupira* 长毛地球白蚁]({{ site.base_url }}/species/ibitermes-curupira/)
 
 \*[*Ibitermes inflatus* 高唇基地球白蚁]({{ site.base_url }}/species/ibitermes-inflatus/)
 
 <h5 id="labiotermes">Labiotermes</h5>
+
+{% include distribution-map.html mode="genus" id="labiotermes" %}
 
 [*Labiotermes brevilabius* 短唇厚唇白蚁]({{ site.base_url }}/species/labiotermes-brevilabius/)
 
@@ -7013,11 +7622,15 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="macuxitermes">Macuxitermes</h5>
 
+{% include distribution-map.html mode="genus" id="macuxitermes" %}
+
 [*Macuxitermes colombicus* 哥伦比亚马库希白蚁]({{ site.base_url }}/species/macuxitermes-colombicus/)
 
 \*[*Macuxitermes triceratops* 三角马库希白蚁]({{ site.base_url }}/species/macuxitermes-triceratops/)
 
 <h5 id="mapinguaritermes">Mapinguaritermes</h5>
+
+{% include distribution-map.html mode="genus" id="mapinguaritermes" %}
 
 [*Mapinguaritermes grandidens* 大齿红懒白蚁]({{ site.base_url }}/species/mapinguaritermes-grandidens/)
 
@@ -7027,13 +7640,19 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="noirotitermes">Noirotitermes</h5>
 
+{% include distribution-map.html mode="genus" id="noirotitermes" %}
+
 \*[*Noirotitermes noiroti* 努瓦罗努瓦罗白蚁]({{ site.base_url }}/species/noirotitermes-noiroti/)
 
 <h5 id="paracurvitermes">Paracurvitermes</h5>
 
+{% include distribution-map.html mode="genus" id="paracurvitermes" %}
+
 \*[*Paracurvitermes manni* 曼近曲白蚁]({{ site.base_url }}/species/paracurvitermes-manni/)
 
 <h5 id="procornitermes">Procornitermes</h5>
+
+{% include distribution-map.html mode="genus" id="procornitermes" %}
 
 [*Procornitermes araujoi* 阿劳若前角白蚁]({{ site.base_url }}/species/procornitermes-araujoi/)
 
@@ -7046,6 +7665,8 @@ Economically, this subfamily is an important group of subterranean pests of agri
 \*[*Procornitermes triacifer* 三尖唇前角白蚁]({{ site.base_url }}/species/procornitermes-triacifer/)
 
 <h5 id="rhynchotermes">Rhynchotermes</h5>
+
+{% include distribution-map.html mode="genus" id="rhynchotermes" %}
 
 [*Rhynchotermes amazonensis* 亚马孙喙白蚁]({{ site.base_url }}/species/rhynchotermes-amazonensis/)
 
@@ -7065,6 +7686,8 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="silvestritermes">Silvestritermes</h5>
 
+{% include distribution-map.html mode="genus" id="silvestritermes" %}
+
 [*Silvestritermes almirsateri* 阿尔米尔萨特尔西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-almirsateri/)
 
 [*Silvestritermes duende* 精灵西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-duende/)
@@ -7080,6 +7703,8 @@ Economically, this subfamily is an important group of subterranean pests of agri
 [*Silvestritermes minutus* 最小西尔韦斯特里白蚁]({{ site.base_url }}/species/silvestritermes-minutus/)
 
 <h5 id="syntermes">Syntermes</h5>
+
+{% include distribution-map.html mode="genus" id="syntermes" %}
 
 [*Syntermes aculeosus* 胸刺聚白蚁]({{ site.base_url }}/species/syntermes-aculeosus/)
 
@@ -7129,11 +7754,15 @@ Economically, this subfamily is an important group of subterranean pests of agri
 
 <h5 id="uncitermes">Uncitermes</h5>
 
+{% include distribution-map.html mode="genus" id="uncitermes" %}
+
 [*Uncitermes almeriae* 阿尔梅里弯钩白蚁]({{ site.base_url }}/species/uncitermes-almeriae/)
 
 \*[*Uncitermes teevani* 蒂范弯钩白蚁]({{ site.base_url }}/species/uncitermes-teevani/)
 
 <h5 id="vaninitermes">Vaninitermes</h5>
+
+{% include distribution-map.html mode="genus" id="vaninitermes" %}
 
 [*Vaninitermes brevinasus* 短鼻瓦宁白蚁]({{ site.base_url }}/species/vaninitermes-brevinasus/)
 
@@ -7154,6 +7783,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="apsenterotermes">Apsenterotermes</h5>
 
+{% include distribution-map.html mode="genus" id="apsenterotermes" %}
+
 [*Apsenterotermes aspersus* 散乱后肠白蚁]({{ site.base_url }}/species/apsenterotermes-aspersus/)
 
 [*Apsenterotermes declinatus* 长弯后肠白蚁]({{ site.base_url }}/species/apsenterotermes-declinatus/)
@@ -7166,9 +7797,13 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="capritermes">Capritermes</h5>
 
+{% include distribution-map.html mode="genus" id="capritermes" %}
+
 \*[*Capritermes capricornis* 山羊角扭白蚁]({{ site.base_url }}/species/capritermes-capricornis/)
 
 <h5 id="cavitermes">Cavitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cavitermes" %}
 
 [*Cavitermes parmae* 帕尔马腔白蚁]({{ site.base_url }}/species/cavitermes-parmae/)
 
@@ -7182,9 +7817,13 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="cornicapritermes">Cornicapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="cornicapritermes" %}
+
 \*[*Cornicapritermes mucronatus* 尖锐角扭白蚁]({{ site.base_url }}/species/cornicapritermes-mucronatus/)
 
 <h5 id="cristatitermes">Cristatitermes</h5>
+
+{% include distribution-map.html mode="genus" id="cristatitermes" %}
 
 [*Cristatitermes arenicola* 沙栖脊突白蚁]({{ site.base_url }}/species/cristatitermes-arenicola/)
 
@@ -7200,11 +7839,15 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="dihoplotermes">Dihoplotermes</h5>
 
+{% include distribution-map.html mode="genus" id="dihoplotermes" %}
+
 \*[*Dihoplotermes inusitatus* 非凡双戟白蚁]({{ site.base_url }}/species/dihoplotermes-inusitatus/)
 
 [*Dihoplotermes taurus* 公牛双戟白蚁]({{ site.base_url }}/species/dihoplotermes-taurus/)
 
 <h5 id="divinotermes">Divinotermes</h5>
+
+{% include distribution-map.html mode="genus" id="divinotermes" %}
 
 \*[*Divinotermes allognathus* 异颚迪维努白蚁]({{ site.base_url }}/species/divinotermes-allognathus/)
 
@@ -7213,6 +7856,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 [*Divinotermes tuberculatus* 小瘤迪维努白蚁]({{ site.base_url }}/species/divinotermes-tuberculatus/)
 
 <h5 id="ekphysotermes">Ekphysotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ekphysotermes" %}
 
 [*Ekphysotermes jarmuranus* 贾穆瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-jarmuranus/)
 
@@ -7225,6 +7870,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 [*Ekphysotermes percomis* 可爱瘤突白蚁]({{ site.base_url }}/species/ekphysotermes-percomis/)
 
 <h5 id="ephelotermes">Ephelotermes</h5>
+
+{% include distribution-map.html mode="genus" id="ephelotermes" %}
 
 [*Ephelotermes argutus* 清楚棒颚白蚁]({{ site.base_url }}/species/ephelotermes-argutus/)
 
@@ -7240,6 +7887,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="hapsidotermes">Hapsidotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hapsidotermes" %}
+
 \*[*Hapsidotermes harrisi* 哈里斯络白蚁]({{ site.base_url }}/species/hapsidotermes-harrisi/)
 
 [*Hapsidotermes labellus* 小唇络白蚁]({{ site.base_url }}/species/hapsidotermes-labellus/)
@@ -7252,9 +7901,13 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="hesperotermes">Hesperotermes</h5>
 
+{% include distribution-map.html mode="genus" id="hesperotermes" %}
+
 \*[*Hesperotermes infrequens* 罕见西澳白蚁]({{ site.base_url }}/species/hesperotermes-infrequens/)
 
 <h5 id="inquilinitermes">Inquilinitermes</h5>
+
+{% include distribution-map.html mode="genus" id="inquilinitermes" %}
 
 \*[*Inquilinitermes fur* 窃贼客白蚁]({{ site.base_url }}/species/inquilinitermes-fur/)
 
@@ -7265,6 +7918,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 [*Inquilinitermes microcerus* 小角客白蚁]({{ site.base_url }}/species/inquilinitermes-microcerus/)
 
 <h5 id="lophotermes">Lophotermes</h5>
+
+{% include distribution-map.html mode="genus" id="lophotermes" %}
 
 [*Lophotermes aduncus* 钩状小脊突白蚁]({{ site.base_url }}/species/lophotermes-aduncus/)
 
@@ -7286,6 +7941,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="macrognathotermes">Macrognathotermes</h5>
 
+{% include distribution-map.html mode="genus" id="macrognathotermes" %}
+
 [*Macrognathotermes broomensis* 布鲁姆长颚白蚁]({{ site.base_url }}/species/macrognathotermes-broomensis/)
 
 \*[*Macrognathotermes errator* 游荡长颚白蚁]({{ site.base_url }}/species/macrognathotermes-errator/)
@@ -7296,9 +7953,13 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="palmitermes">Palmitermes</h5>
 
+{% include distribution-map.html mode="genus" id="palmitermes" %}
+
 \*[*Palmitermes impostor* 骗子棕榈白蚁]({{ site.base_url }}/species/palmitermes-impostor/)
 
 <h5 id="paracapritermes">Paracapritermes</h5>
+
+{% include distribution-map.html mode="genus" id="paracapritermes" %}
 
 [*Paracapritermes kraepelinii* 克雷珀林旁扭白蚁]({{ site.base_url }}/species/paracapritermes-kraepelinii/)
 
@@ -7310,19 +7971,27 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="protocapritermes">Protocapritermes</h5>
 
+{% include distribution-map.html mode="genus" id="protocapritermes" %}
+
 \*[*Protocapritermes krisiformis* 波颚始扭白蚁]({{ site.base_url }}/species/protocapritermes-krisiformis/)
 
 [*Protocapritermes odontomachus* 齿颚始扭白蚁]({{ site.base_url }}/species/protocapritermes-odontomachus/)
 
 <h5 id="quasitermes">Quasitermes</h5>
 
+{% include distribution-map.html mode="genus" id="quasitermes" %}
+
 \*[*Quasitermes incisus* 切割相似白蚁]({{ site.base_url }}/species/quasitermes-incisus/)
 
 <h5 id="saxatilitermes">Saxatilitermes</h5>
 
+{% include distribution-map.html mode="genus" id="saxatilitermes" %}
+
 \*[*Saxatilitermes saxatilis* 石栖石白蚁]({{ site.base_url }}/species/saxatilitermes-saxatilis/)
 
 <h5 id="spinitermes">Spinitermes</h5>
+
+{% include distribution-map.html mode="genus" id="spinitermes" %}
 
 [*Spinitermes brevicornutus* 短角针刺白蚁]({{ site.base_url }}/species/spinitermes-brevicornutus/)
 
@@ -7335,6 +8004,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 \*[*Spinitermes trispinosus* 三针针刺白蚁]({{ site.base_url }}/species/spinitermes-trispinosus/)
 
 <h5 id="termes">Termes</h5>
+
+{% include distribution-map.html mode="genus" id="termes" %}
 
 [*Termes amaralii* 阿马拉利白蚁]({{ site.base_url }}/species/termes-amaralii/)
 
@@ -7390,6 +8061,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 
 <h5 id="tuberculitermes">Tuberculitermes</h5>
 
+{% include distribution-map.html mode="genus" id="tuberculitermes" %}
+
 \*[*Tuberculitermes bycanistes* 噪犀鸟小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-bycanistes/)
 
 [*Tuberculitermes flexuosus* 弯曲小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-flexuosus/)
@@ -7397,6 +8070,8 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
 [*Tuberculitermes guineensis* 几内亚小瘤白蚁]({{ site.base_url }}/species/tuberculitermes-guineensis/)
 
 <h5 id="xylochomitermes">Xylochomitermes</h5>
+
+{% include distribution-map.html mode="genus" id="xylochomitermes" %}
 
 [*Xylochomitermes aspinosus* 无刺木堆白蚁]({{ site.base_url }}/species/xylochomitermes-aspinosus/)
 
@@ -7858,3 +8533,11 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
     condiciones de campo. Rev Investig Estud UNA.
     2024;
     15(1):62-70. [doi: 10.57201/ieuna2413372](https://doi.org/10.57201/ieuna2413372)
+
+---
+
+<h2 id="references-doi">References &amp; DOIs <span class="fact-zh" lang="zh-CN">参考文献与 DOI</span> <span class="fact-es" lang="es">Referencias y DOI</span></h2>
+
+<p>The enhanced view of the {{ site.data.references.meta.counts.total }} references listed above: every entry gets a <strong>DOI link</strong>, its <strong>Crossref record</strong>, the citation in <strong>GB/T 7714</strong>, <strong>APA 7</strong> and <strong>Vancouver</strong> style, and machine-readable <strong>BibTeX / RIS / CSL-JSON</strong> — all one click away. The numbered list above stays authoritative: numbering, count and wording are identical.</p>
+
+{% include references.html %}

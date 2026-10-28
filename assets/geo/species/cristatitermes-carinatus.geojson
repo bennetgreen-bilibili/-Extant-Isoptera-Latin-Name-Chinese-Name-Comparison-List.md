@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Cristatitermes carinatus","species_zh":"颏突脊突白蚁","slug":"cristatitermes-carinatus","rank":"species","type_species":true,"genus":"Cristatitermes","genus_zh":"脊突白蚁属","genus_id":"cristatitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803361,"records":16,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[136.5,-13.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-12.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-12.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-12.5]},"properties":{"n":4}}
+]
+}

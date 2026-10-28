@@ -1,5 +1,5 @@
 /*
-  参考文献页交互（/references/、/en/references/、/es/references/）。
+  参考文献页交互（名录页 /list/、/en/list/、/es/list/ 底部）。
   纯原生 JS，无框架、无依赖：
     1. [data-refs-copy] 按钮 → 复制目标元素（CSS 选择器）的纯文本；
        navigator.clipboard 优先，非安全上下文/老浏览器退回 textarea + execCommand。

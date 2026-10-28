@@ -1,0 +1,11 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Nitiditermes proximatus","species_zh":"近净白蚁","slug":"nitiditermes-proximatus","rank":"species","type_species":false,"genus":"Nitiditermes","genus_zh":"净白蚁属","genus_id":"nitiditermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":11815444,"records":13,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.5,7.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,8.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,11.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-12.5,12.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-13.5,13.5]},"properties":{"n":3}}
+]
+}

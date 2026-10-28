@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Macuxitermes triceratops","species_zh":"三角马库希白蚁","slug":"macuxitermes-triceratops","rank":"species","type_species":true,"genus":"Macuxitermes","genus_zh":"马库希白蚁属","genus_id":"macuxitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9784742,"records":3,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,3.5]},"properties":{"n":3}}
+]
+}

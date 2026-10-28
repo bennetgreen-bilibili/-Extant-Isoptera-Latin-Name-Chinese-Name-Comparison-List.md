@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Procapritermes","genus_zh":"前扭白蚁属","genus_id":"procapritermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4802989,"records":1,"cells":1,"species":13,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[101.5,3.5]},"properties":{"n":1}}
+]
+}

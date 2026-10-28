@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Euchilotermes tensus arcuata","species_zh":"弓形亚种","slug":"euchilotermes-tensus-arcuata","rank":"subspecies","type_species":false,"genus":"Euchilotermes","genus_zh":"真唇白蚁属","genus_id":"euchilotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9746000,"records":2,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,13.5]},"properties":{"n":2}}
+]
+}

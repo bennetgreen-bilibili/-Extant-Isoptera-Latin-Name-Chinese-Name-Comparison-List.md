@@ -1,0 +1,21 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Ekphysotermes kalgoorliensis","species_zh":"卡尔古利瘤突白蚁","slug":"ekphysotermes-kalgoorliensis","rank":"species","type_species":true,"genus":"Ekphysotermes","genus_zh":"瘤突白蚁属","genus_id":"ekphysotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803470,"records":35,"cells":15,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-34.5]},"properties":{"n":9}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-31.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-30.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[117.5,-29.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[147.5,-29.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[148.5,-29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-28.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[144.5,-28.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-27.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-26.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[119.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[147.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-23.5]},"properties":{"n":1}}
+]
+}

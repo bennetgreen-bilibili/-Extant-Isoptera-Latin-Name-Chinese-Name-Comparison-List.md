@@ -1,0 +1,9 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Euhamitermes","genus_zh":"亮白蚁属","genus_id":"euhamitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4802973,"records":13,"cells":3,"species":24,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[101.5,13.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[101.5,21.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[78.5,30.5]},"properties":{"n":1}}
+]
+}

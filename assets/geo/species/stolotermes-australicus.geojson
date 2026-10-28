@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Stolotermes australicus","species_zh":"澳大利亚胄白蚁","slug":"stolotermes-australicus","rank":"species","type_species":false,"genus":"Stolotermes","genus_zh":"胄白蚁属","genus_id":"stolotermes","family":"STOLOTERMITIDAE","family_zh":"胄白蚁科","family_id":"stolotermitidae","gbif_key":4802712,"records":3,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-17.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-16.5]},"properties":{"n":1}}
+]
+}

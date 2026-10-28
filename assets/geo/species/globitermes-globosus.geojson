@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Globitermes globosus","species_zh":"球形球白蚁","slug":"globitermes-globosus","rank":"species","type_species":true,"genus":"Globitermes","genus_zh":"球白蚁属","genus_id":"globitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9685128,"records":6,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,1.5]},"properties":{"n":6}}
+]
+}

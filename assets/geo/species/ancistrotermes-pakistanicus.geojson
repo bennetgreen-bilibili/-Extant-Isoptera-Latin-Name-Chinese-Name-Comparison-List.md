@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Ancistrotermes pakistanicus","species_zh":"巴基斯坦钩白蚁","slug":"ancistrotermes-pakistanicus","rank":"species","type_species":false,"genus":"Ancistrotermes","genus_zh":"钩白蚁属","genus_id":"ancistrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9669915,"records":6,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,1.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,30.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[74.5,31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,33.5]},"properties":{"n":1}}
+]
+}

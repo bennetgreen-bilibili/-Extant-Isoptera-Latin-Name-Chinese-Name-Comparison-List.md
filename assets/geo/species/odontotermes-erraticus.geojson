@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Odontotermes erraticus","species_zh":"游荡土白蚁","slug":"odontotermes-erraticus","rank":"species","type_species":false,"genus":"Odontotermes","genus_zh":"土白蚁属","genus_id":"odontotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9799464,"records":5,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[1.5,6.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-14.5,12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,13.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,14.5]},"properties":{"n":2}}
+]
+}

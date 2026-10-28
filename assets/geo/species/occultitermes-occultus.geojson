@@ -1,0 +1,13 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Occultitermes occultus","species_zh":"藏隐白蚁","slug":"occultitermes-occultus","rank":"species","type_species":true,"genus":"Occultitermes","genus_zh":"隐白蚁属","genus_id":"occultitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803370,"records":25,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[128.5,-15.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-13.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-12.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-12.5]},"properties":{"n":9}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-12.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-12.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[141.5,-12.5]},"properties":{"n":1}}
+]
+}

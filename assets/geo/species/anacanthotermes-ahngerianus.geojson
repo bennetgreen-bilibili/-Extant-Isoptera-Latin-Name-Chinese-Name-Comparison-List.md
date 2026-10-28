@@ -1,0 +1,13 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Anacanthotermes ahngerianus","species_zh":"安格无刺白蚁","slug":"anacanthotermes-ahngerianus","rank":"species","type_species":false,"genus":"Anacanthotermes","genus_zh":"无刺白蚁属","genus_id":"anacanthotermes","family":"HODOTERMITIDAE","family_zh":"草白蚁科","family_id":"hodotermitidae","gbif_key":9770648,"records":8,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[52.5,42.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[54.5,42.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[51.5,43.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[52.5,43.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[54.5,43.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[54.5,45.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[53.5,46.5]},"properties":{"n":1}}
+]
+}

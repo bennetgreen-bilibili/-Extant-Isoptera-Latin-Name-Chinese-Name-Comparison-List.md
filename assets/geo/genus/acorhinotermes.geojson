@@ -1,0 +1,14 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Acorhinotermes","genus_zh":"尖鼻白蚁属","genus_id":"acorhinotermes","family":"RHINOTERMITIDAE","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":4802752,"records":23,"cells":8,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5,-12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,-9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,-1.5]},"properties":{"n":8}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-0.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-58.5,6.5]},"properties":{"n":2}}
+]
+}

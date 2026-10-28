@@ -1,0 +1,12 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Humutermes krishnai","species_zh":"克里希纳腐殖白蚁","slug":"humutermes-krishnai","rank":"species","type_species":true,"genus":"Humutermes","genus_zh":"腐殖白蚁属","genus_id":"humutermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10419907,"records":28,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5,-3.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":12}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":4}}
+]
+}

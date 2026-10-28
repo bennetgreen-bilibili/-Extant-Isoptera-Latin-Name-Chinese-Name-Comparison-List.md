@@ -1,0 +1,18 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Hodotermopsis","genus_zh":"原白蚁属","genus_id":"hodotermopsis","family":"HODOTERMOPSIDAE","family_zh":"原白蚁科","family_id":"hodotermopsidae","gbif_key":4802931,"records":49,"cells":12,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[105.5,21.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[107.5,21.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[109.5,23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[110.5,23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[110.5,24.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5,24.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,24.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,24.5]},"properties":{"n":34}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[129.5,28.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,36.5]},"properties":{"n":1}}
+]
+}

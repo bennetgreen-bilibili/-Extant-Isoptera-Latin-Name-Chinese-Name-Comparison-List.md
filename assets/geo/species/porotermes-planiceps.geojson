@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Porotermes planiceps","species_zh":"扁头洞白蚁","slug":"porotermes-planiceps","rank":"species","type_species":false,"genus":"Porotermes","genus_zh":"洞白蚁属","genus_id":"porotermes","family":"STOLOTERMITIDAE","family_zh":"胄白蚁科","family_id":"stolotermitidae","gbif_key":9741515,"records":11,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-34.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-34.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-33.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.5,-33.5]},"properties":{"n":2}}
+]
+}

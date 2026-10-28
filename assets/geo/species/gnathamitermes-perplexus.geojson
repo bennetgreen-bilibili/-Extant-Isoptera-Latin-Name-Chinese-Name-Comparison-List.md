@@ -1,0 +1,13 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Gnathamitermes perplexus","species_zh":"复杂颚钩白蚁","slug":"gnathamitermes-perplexus","rank":"species","type_species":true,"genus":"Gnathamitermes","genus_zh":"颚钩白蚁属","genus_id":"gnathamitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007309,"records":9,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5,28.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-103.5,29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5,29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-110.5,31.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-108.5,31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-110.5,32.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-112.5,33.5]},"properties":{"n":1}}
+]
+}

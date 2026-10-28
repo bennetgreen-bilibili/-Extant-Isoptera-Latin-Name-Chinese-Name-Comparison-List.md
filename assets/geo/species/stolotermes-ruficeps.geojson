@@ -1,0 +1,16 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Stolotermes ruficeps","species_zh":"红头胄白蚁","slug":"stolotermes-ruficeps","rank":"species","type_species":false,"genus":"Stolotermes","genus_zh":"胄白蚁属","genus_id":"stolotermes","family":"STOLOTERMITIDAE","family_zh":"胄白蚁科","family_id":"stolotermitidae","gbif_key":2007386,"records":24,"cells":10,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[173.5,-41.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-41.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-41.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-40.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[176.5,-40.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[176.5,-39.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[176.5,-38.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-37.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-36.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[173.5,-35.5]},"properties":{"n":1}}
+]
+}

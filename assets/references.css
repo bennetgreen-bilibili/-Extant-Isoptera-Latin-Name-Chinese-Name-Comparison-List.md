@@ -1,5 +1,5 @@
 /*
-  参考文献页（/references/、/en/references/、/es/references/）样式。
+  参考文献页（名录页 /list/、/en/list/、/es/list/ 底部）样式。
   只服务 _includes/references.html，与 assets/custom.css 的 CSS 变量、圆角与阴影保持一致；
   不覆盖任何全站样式，全部类名以 .refs- 前缀隔离。
   无 JavaScript 时同样完整可读：复制按钮只是增强，正文与链接都是静态 HTML。

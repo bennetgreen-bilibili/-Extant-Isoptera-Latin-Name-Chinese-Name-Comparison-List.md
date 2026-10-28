@@ -2,9 +2,9 @@
 
 > 适用对象：本仓库（现存等翅下目白蚁名录站点）。目标：把名录末尾的 **77 条参考文献**从"论文式的一串文字"变成**可复制、可解析、可下载**的书目条目——逐条 DOI、Crossref 记录、GB/T 7714 式 / APA 7 / Vancouver 引用格式，外加 BibTeX / RIS / CSL-JSON，并可选补 BHL 原始描述扫描链接。
 >
-> 相关文件：`.github/workflows/build_references.py`（唯一生成脚本）、`_data/references.json`（站点数据，已提交）、`data/references.json`（公开下载副本，字节完全相同）、`_includes/references.html`（列表渲染）、`assets/references.css` / `assets/references.js`（样式与交互）、`references.md` / `en/references.md` / `es/references.md`（三语页面）。
+> 相关文件：`.github/workflows/build_references.py`（唯一生成脚本）、`_data/references.json`（站点数据，已提交）、`data/references.json`（公开下载副本，字节完全相同）、`_includes/references.html`（列表渲染）、`assets/references.css` / `assets/references.js`（样式与交互）、`list.md` / `en/list.md` / `es/list.md`（增强视图内嵌在名录页底部）。
 >
-> 在线页面：`/references/`、`/en/references/`、`/es/references/`。
+> 在线位置：三个名录页（`/list/`、`/en/list/`、`/es/list/`）底部 `#references-doi` 区块。原来的 `/references/` 三语独立页面已移除，内容全部整合进名录页。
 
 ---
 
@@ -205,7 +205,7 @@
 | `_includes/references.html` | 编号列表 + GB/T 引用 + DOI/Crossref 链接 + 复制按钮 + `<details>` 里的 APA/Vancouver/BibTeX/RIS/原文/候选 |
 | `assets/references.css` | 只服务本页的 `.refs-*` 样式（复用全站 CSS 变量，含打印样式） |
 | `assets/references.js` | 复制（clipboard + `execCommand` 兜底）与「导出 CSL-JSON」，无框架、无依赖 |
-| `references.md` / `en/references.md` / `es/references.md` | 三语页面（`/references/`、`/en/references/`、`/es/references/`），正文 + `{% include references.html %}` |
+| `list.md` / `en/list.md` / `es/list.md` | 名录页；页末 `<h2 id="references-doi">` + `{% include references.html %}`，即增强视图所在位置 |
 | 本文件 | 流水线、覆盖率、未匹配原因、BHL 步骤、重跑方法、许可 |
 
 **改模板时的两个坑**

@@ -1,0 +1,13 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Xylochomitermes tomentosus","species_zh":"粗毛木堆白蚁","slug":"xylochomitermes-tomentosus","rank":"species","type_species":false,"genus":"Xylochomitermes","genus_zh":"木堆白蚁属","genus_id":"xylochomitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803407,"records":27,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-31.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-30.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-29.5]},"properties":{"n":12}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,-28.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,-27.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-27.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5,-26.5]},"properties":{"n":2}}
+]
+}

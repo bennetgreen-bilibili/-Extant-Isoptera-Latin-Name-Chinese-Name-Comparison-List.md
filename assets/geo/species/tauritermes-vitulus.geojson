@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Tauritermes vitulus","species_zh":"公犊牛白蚁","slug":"tauritermes-vitulus","rank":"species","type_species":false,"genus":"Tauritermes","genus_zh":"牛白蚁属","genus_id":"tauritermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":9736455,"records":2,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-49.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-26.5]},"properties":{"n":1}}
+]
+}

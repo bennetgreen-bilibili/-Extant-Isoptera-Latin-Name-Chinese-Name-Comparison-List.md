@@ -1,0 +1,9 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Paraconvexitermes acangapua","species_zh":"圆头近凸白蚁","slug":"paraconvexitermes-acangapua","rank":"species","type_species":false,"genus":"Paraconvexitermes","genus_zh":"近凸白蚁属","genus_id":"paraconvexitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9749487,"records":21,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-65.5,-9.5]},"properties":{"n":12}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":4}}
+]
+}

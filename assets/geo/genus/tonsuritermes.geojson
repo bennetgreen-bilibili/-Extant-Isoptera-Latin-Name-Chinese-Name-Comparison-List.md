@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Tonsuritermes","genus_zh":"奇囟白蚁属","genus_id":"tonsuritermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10377166,"records":5,"cells":2,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}}
+]
+}

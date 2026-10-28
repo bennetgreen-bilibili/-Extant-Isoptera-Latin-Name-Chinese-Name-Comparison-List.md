@@ -1,0 +1,18 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Xylochomitermes punctillus","species_zh":"点囟木堆白蚁","slug":"xylochomitermes-punctillus","rank":"species","type_species":false,"genus":"Xylochomitermes","genus_zh":"木堆白蚁属","genus_id":"xylochomitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803411,"records":49,"cells":12,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-20.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-19.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-18.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-18.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-16.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[144.5,-15.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-15.5]},"properties":{"n":20}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-13.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[143.5,-13.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[141.5,-12.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-12.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-11.5]},"properties":{"n":2}}
+]
+}

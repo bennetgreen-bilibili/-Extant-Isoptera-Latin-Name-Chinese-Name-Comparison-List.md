@@ -1,0 +1,11 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Reticulitermes malletei","species_zh":"马利特散白蚁","slug":"reticulitermes-malletei","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":9703339,"records":8,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,36.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,37.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-78.5,37.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,39.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,39.5]},"properties":{"n":1}}
+]
+}

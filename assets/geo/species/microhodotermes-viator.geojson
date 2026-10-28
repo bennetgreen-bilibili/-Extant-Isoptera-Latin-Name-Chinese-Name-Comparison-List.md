@@ -1,0 +1,28 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Microhodotermes viator","species_zh":"旅游小草白蚁","slug":"microhodotermes-viator","rank":"species","type_species":true,"genus":"Microhodotermes","genus_zh":"小草白蚁属","genus_id":"microhodotermes","family":"HODOTERMITIDAE","family_zh":"草白蚁科","family_id":"hodotermitidae","gbif_key":9662047,"records":300,"cells":22,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-34.5]},"properties":{"n":26}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[20.5,-34.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[21.5,-34.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[17.5,-33.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-33.5]},"properties":{"n":135}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-33.5]},"properties":{"n":46}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[20.5,-33.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[21.5,-33.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.5,-33.5]},"properties":{"n":8}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[23.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[24.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[25.5,-33.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[26.5,-33.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[17.5,-32.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-32.5]},"properties":{"n":22}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-32.5]},"properties":{"n":20}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.5,-32.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-31.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,-31.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[17.5,-30.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[17.5,-28.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,-26.5]},"properties":{"n":1}}
+]
+}

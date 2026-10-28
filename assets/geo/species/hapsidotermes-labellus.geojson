@@ -1,0 +1,9 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Hapsidotermes labellus","species_zh":"小唇络白蚁","slug":"hapsidotermes-labellus","rank":"species","type_species":false,"genus":"Hapsidotermes","genus_zh":"络白蚁属","genus_id":"hapsidotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803127,"records":4,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[128.5,-15.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[125.5,-14.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-13.5]},"properties":{"n":1}}
+]
+}

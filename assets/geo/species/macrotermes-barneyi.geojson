@@ -1,0 +1,16 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Macrotermes barneyi","species_zh":"黄翅大白蚁","slug":"macrotermes-barneyi","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9143676,"records":32,"cells":10,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[101.5,21.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[112.5,22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5,22.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,22.5]},"properties":{"n":16}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5,23.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,24.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[119.5,26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,28.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[104.5,38.5]},"properties":{"n":1}}
+]
+}

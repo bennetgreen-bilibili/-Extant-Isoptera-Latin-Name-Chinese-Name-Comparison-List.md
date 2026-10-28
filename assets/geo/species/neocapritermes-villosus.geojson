@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Neocapritermes villosus","species_zh":"密毛新扭白蚁","slug":"neocapritermes-villosus","rank":"species","type_species":false,"genus":"Neocapritermes","genus_zh":"新扭白蚁属","genus_id":"neocapritermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9087626,"records":1,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,-11.5]},"properties":{"n":1}}
+]
+}

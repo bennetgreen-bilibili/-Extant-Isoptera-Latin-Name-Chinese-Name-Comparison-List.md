@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Reticulitermes clypeatus","species_zh":"大唇散白蚁","slug":"reticulitermes-clypeatus","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":4514007,"records":3,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,31.5]},"properties":{"n":2}}
+]
+}

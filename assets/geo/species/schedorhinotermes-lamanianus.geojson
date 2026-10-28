@@ -1,0 +1,21 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Schedorhinotermes lamanianus","species_zh":"拉曼长鼻白蚁","slug":"schedorhinotermes-lamanianus","rank":"species","type_species":false,"genus":"Schedorhinotermes","genus_zh":"长鼻白蚁属","genus_id":"schedorhinotermes","family":"RHINOTERMITIDAE","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":8857175,"records":35,"cells":15,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[30.5,-30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[30.5,-29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[31.5,-29.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[32.5,-28.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[32.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[31.5,-25.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[37.5,-7.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[39.5,-5.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[39.5,-3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.5,6.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[0.5,6.5]},"properties":{"n":13}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.5,7.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,8.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,9.5]},"properties":{"n":2}}
+]
+}

@@ -1,0 +1,12 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Tumulitermes westraliensis","species_zh":"西澳冢白蚁","slug":"tumulitermes-westraliensis","rank":"species","type_species":false,"genus":"Tumulitermes","genus_zh":"冢白蚁属","genus_id":"tumulitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":5815198,"records":7,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[119.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-32.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-31.5]},"properties":{"n":2}}
+]
+}

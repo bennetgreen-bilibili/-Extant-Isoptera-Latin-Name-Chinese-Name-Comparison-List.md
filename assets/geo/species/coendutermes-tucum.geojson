@@ -1,0 +1,11 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Coendutermes tucum","species_zh":"纤维箭猪白蚁","slug":"coendutermes-tucum","rank":"species","type_species":true,"genus":"Coendutermes","genus_zh":"箭猪白蚁属","genus_id":"coendutermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9166149,"records":12,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-58.5,-11.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-65.5,-9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,-1.5]},"properties":{"n":1}}
+]
+}

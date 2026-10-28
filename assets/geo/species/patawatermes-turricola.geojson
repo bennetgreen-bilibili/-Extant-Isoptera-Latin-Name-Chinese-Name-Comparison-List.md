@@ -1,0 +1,22 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Patawatermes turricola","species_zh":"土栖帕塔瓦白蚁","slug":"patawatermes-turricola","rank":"species","type_species":true,"genus":"Patawatermes","genus_zh":"帕塔瓦白蚁属","genus_id":"patawatermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10738387,"records":55,"cells":16,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-57.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-47.5,-23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-46.5,-23.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-50.5,-22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-49.5,-22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-46.5,-22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.5,-22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-46.5,-21.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-19.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-16.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,-8.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":20}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,2.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,2.5]},"properties":{"n":13}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,4.5]},"properties":{"n":1}}
+]
+}

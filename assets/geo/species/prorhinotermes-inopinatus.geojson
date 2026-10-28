@@ -1,0 +1,17 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Prorhinotermes inopinatus","species_zh":"意外原鼻白蚁","slug":"prorhinotermes-inopinatus","rank":"species","type_species":true,"genus":"Prorhinotermes","genus_zh":"原鼻白蚁属","genus_id":"prorhinotermes","family":"PSAMMOTERMITIDAE","family_zh":"沙白蚁科","family_id":"psammotermitidae","gbif_key":4802747,"records":24,"cells":11,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-16.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-15.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[141.5,-12.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[143.5,-12.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[165.5,-10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[143.5,-9.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[171.5,8.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,16.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,18.5]},"properties":{"n":4}}
+]
+}

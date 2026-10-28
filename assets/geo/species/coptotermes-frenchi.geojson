@@ -1,0 +1,15 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Coptotermes frenchi","species_zh":"弗伦奇乳白蚁","slug":"coptotermes-frenchi","rank":"species","type_species":false,"genus":"Coptotermes","genus_zh":"乳白蚁属","genus_id":"coptotermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":4802732,"records":15,"cells":9,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[144.5,-37.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-34.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[141.5,-33.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[150.5,-33.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[151.5,-33.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[151.5,-31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[153.5,-28.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[152.5,-27.5]},"properties":{"n":1}}
+]
+}

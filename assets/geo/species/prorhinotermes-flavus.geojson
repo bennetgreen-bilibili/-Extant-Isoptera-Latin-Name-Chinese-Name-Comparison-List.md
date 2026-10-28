@@ -1,0 +1,9 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Prorhinotermes flavus","species_zh":"黄色原鼻白蚁","slug":"prorhinotermes-flavus","rank":"species","type_species":false,"genus":"Prorhinotermes","genus_zh":"原鼻白蚁属","genus_id":"prorhinotermes","family":"PSAMMOTERMITIDAE","family_zh":"沙白蚁科","family_id":"psammotermitidae","gbif_key":9798256,"records":3,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[80.5,7.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[93.5,10.5]},"properties":{"n":1}}
+]
+}

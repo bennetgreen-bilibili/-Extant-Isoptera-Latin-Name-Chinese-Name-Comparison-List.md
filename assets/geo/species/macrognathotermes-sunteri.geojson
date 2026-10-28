@@ -1,0 +1,22 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Macrognathotermes sunteri","species_zh":"森特长颚白蚁","slug":"macrognathotermes-sunteri","rank":"species","type_species":false,"genus":"Macrognathotermes","genus_zh":"长颚白蚁属","genus_id":"macrognathotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803388,"records":76,"cells":16,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[126.5,-16.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[127.5,-16.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[126.5,-15.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[127.5,-15.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[128.5,-15.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[125.5,-14.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[126.5,-14.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-14.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-13.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-13.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-12.5]},"properties":{"n":16}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-12.5]},"properties":{"n":23}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-12.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-12.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-11.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-11.5]},"properties":{"n":1}}
+]
+}

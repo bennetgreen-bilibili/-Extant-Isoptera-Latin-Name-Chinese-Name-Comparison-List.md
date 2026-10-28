@@ -1,0 +1,20 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Embiratermes neotenicus","species_zh":"幼态生白蚁","slug":"embiratermes-neotenicus","rank":"species","type_species":false,"genus":"Embiratermes","genus_zh":"生白蚁属","genus_id":"embiratermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9316129,"records":90,"cells":14,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5,-12.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-49.5,-5.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-69.5,-4.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5,-3.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":14}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,-1.5]},"properties":{"n":9}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-0.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,1.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":16}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,2.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,2.5]},"properties":{"n":13}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,4.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,5.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":3}}
+]
+}

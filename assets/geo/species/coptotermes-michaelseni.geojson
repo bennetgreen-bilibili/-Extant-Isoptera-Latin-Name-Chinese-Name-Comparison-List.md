@@ -1,0 +1,11 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Coptotermes michaelseni","species_zh":"米夏埃尔森乳白蚁","slug":"coptotermes-michaelseni","rank":"species","type_species":false,"genus":"Coptotermes","genus_zh":"乳白蚁属","genus_id":"coptotermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":4802731,"records":11,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-35.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-34.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-32.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[117.5,-32.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-31.5]},"properties":{"n":4}}
+]
+}

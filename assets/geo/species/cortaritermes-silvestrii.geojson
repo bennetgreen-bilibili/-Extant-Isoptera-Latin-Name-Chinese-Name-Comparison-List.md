@@ -1,0 +1,12 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Cortaritermes silvestrii","species_zh":"西尔韦斯特里利颚白蚁","slug":"cortaritermes-silvestrii","rank":"species","type_species":true,"genus":"Cortaritermes","genus_zh":"利颚白蚁属","genus_id":"cortaritermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9744833,"records":10,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-46.5,-23.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-19.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-55.5,-15.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-47.5,-15.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-63.5,-7.5]},"properties":{"n":1}}
+]
+}

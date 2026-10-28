@@ -1,0 +1,18 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Acanthotermes","genus_zh":"刺白蚁属","genus_id":"acanthotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4802717,"records":110,"cells":12,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[14.5,0.5]},"properties":{"n":28}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,0.5]},"properties":{"n":46}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[32.5,0.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,1.5]},"properties":{"n":19}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[12.5,3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.5,4.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[8.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-7.5,6.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[5.5,6.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-10.5,7.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,7.5]},"properties":{"n":1}}
+]
+}

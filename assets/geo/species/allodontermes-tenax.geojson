@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Allodontermes tenax","species_zh":"执着奇齿白蚁","slug":"allodontermes-tenax","rank":"species","type_species":false,"genus":"Allodontermes","genus_zh":"奇齿白蚁属","genus_id":"allodontermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9745840,"records":9,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[37.5,-6.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[39.5,-3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,0.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,1.5]},"properties":{"n":2}}
+]
+}

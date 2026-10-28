@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Roisinitermes","genus_zh":"罗伊辛白蚁属","genus_id":"roisinitermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":10631716,"records":2,"cells":2,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[11.5,3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[12.5,6.5]},"properties":{"n":1}}
+]
+}

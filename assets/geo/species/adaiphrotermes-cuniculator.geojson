@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Adaiphrotermes cuniculator","species_zh":"灵动和白蚁","slug":"adaiphrotermes-cuniculator","rank":"species","type_species":true,"genus":"Adaiphrotermes","genus_zh":"和白蚁属","genus_id":"adaiphrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9729790,"records":58,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,8.5]},"properties":{"n":57}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[0.5,10.5]},"properties":{"n":1}}
+]
+}

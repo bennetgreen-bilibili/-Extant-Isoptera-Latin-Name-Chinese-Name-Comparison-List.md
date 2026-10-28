@@ -1,0 +1,20 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Cylindrotermes parvignathus","species_zh":"小颚圆筒白蚁","slug":"cylindrotermes-parvignathus","rank":"species","type_species":false,"genus":"Cylindrotermes","genus_zh":"圆筒白蚁属","genus_id":"cylindrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9013595,"records":232,"cells":14,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-59.5,-3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":17}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,-1.5]},"properties":{"n":15}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-69.5,-1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-0.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,0.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,0.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5,0.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,1.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":84}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5,1.5]},"properties":{"n":10}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,2.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,2.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":84}}
+]
+}

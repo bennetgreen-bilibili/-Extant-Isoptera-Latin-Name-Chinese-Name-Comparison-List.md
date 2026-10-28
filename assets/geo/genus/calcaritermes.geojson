@@ -1,0 +1,17 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Calcaritermes","genus_zh":"距白蚁属","genus_id":"calcaritermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":2007336,"records":360,"cells":11,"species":12,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,-9.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,2.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.5,9.5]},"properties":{"n":17}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,9.5]},"properties":{"n":135}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5,10.5]},"properties":{"n":165}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.5,10.5]},"properties":{"n":16}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,10.5]},"properties":{"n":19}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,14.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,29.5]},"properties":{"n":1}}
+]
+}

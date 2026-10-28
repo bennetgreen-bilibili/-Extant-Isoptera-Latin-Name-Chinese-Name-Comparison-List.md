@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Stolotermes queenslandicus","species_zh":"昆士兰胄白蚁","slug":"stolotermes-queenslandicus","rank":"species","type_species":false,"genus":"Stolotermes","genus_zh":"胄白蚁属","genus_id":"stolotermes","family":"STOLOTERMITIDAE","family_zh":"胄白蚁科","family_id":"stolotermitidae","gbif_key":4802716,"records":10,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[152.5,-27.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-17.5]},"properties":{"n":9}}
+]
+}

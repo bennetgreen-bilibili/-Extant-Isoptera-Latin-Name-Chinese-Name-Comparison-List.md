@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Trichotermes","genus_zh":"发白蚁属","genus_id":"trichotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4802971,"records":1,"cells":1,"species":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[14.5,-5.5]},"properties":{"n":1}}
+]
+}

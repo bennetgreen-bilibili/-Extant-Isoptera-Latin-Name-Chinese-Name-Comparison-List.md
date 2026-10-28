@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"genus":"Microtermes","genus_zh":"小白蚁属","genus_id":"microtermes","family":"Termitidae","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803123,"resolution":"genus_key","records":709,"cells":76,"grid":"1 degree","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Microtermes","genus_zh":"小白蚁属","genus_id":"microtermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803123,"records":708,"cells":75,"species":69,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-36.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,-34.5]},"properties":{"n":3}},
@@ -76,7 +76,6 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,30.5]},"properties":{"n":13}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[73.5,31.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[75.5,31.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,32.5]},"properties":{"n":3}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[7.5,49.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,32.5]},"properties":{"n":3}}
 ]
 }

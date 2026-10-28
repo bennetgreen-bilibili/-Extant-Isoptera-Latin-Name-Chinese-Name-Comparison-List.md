@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Tumulitermes mareebensis","species_zh":"马里巴冢白蚁","slug":"tumulitermes-mareebensis","rank":"species","type_species":false,"genus":"Tumulitermes","genus_zh":"冢白蚁属","genus_id":"tumulitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":5815196,"records":7,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[144.5,-17.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-16.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-13.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[143.5,-12.5]},"properties":{"n":1}}
+]
+}

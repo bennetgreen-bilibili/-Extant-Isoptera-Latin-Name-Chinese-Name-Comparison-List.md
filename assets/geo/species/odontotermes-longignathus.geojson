@@ -1,0 +1,15 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Odontotermes longignathus","species_zh":"长颚土白蚁","slug":"odontotermes-longignathus","rank":"species","type_species":false,"genus":"Odontotermes","genus_zh":"土白蚁属","genus_id":"odontotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9045531,"records":24,"cells":9,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,3.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[78.5,9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5,10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[76.5,10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[75.5,12.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[77.5,13.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[78.5,13.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[81.5,23.5]},"properties":{"n":10}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[88.5,24.5]},"properties":{"n":1}}
+]
+}

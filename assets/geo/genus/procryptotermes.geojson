@@ -1,0 +1,30 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Procryptotermes","genus_zh":"前砂白蚁属","genus_id":"procryptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":2007361,"records":265,"cells":24,"species":14,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[149.5,-22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[55.5,-21.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[147.5,-20.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[148.5,-20.5]},"properties":{"n":9}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[146.5,-19.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-13.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[142.5,-12.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-11.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[46.5,-9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,16.5]},"properties":{"n":35}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-66.5,17.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-62.5,17.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-67.5,18.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-63.5,18.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-104.5,19.5]},"properties":{"n":10}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-109.5,27.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-114.5,32.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-112.5,32.5]},"properties":{"n":15}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-110.5,32.5]},"properties":{"n":104}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-112.5,33.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-111.5,33.5]},"properties":{"n":31}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-110.5,33.5]},"properties":{"n":10}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-109.5,33.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-110.5,34.5]},"properties":{"n":5}}
+]
+}

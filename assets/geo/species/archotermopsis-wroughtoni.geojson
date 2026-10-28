@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Archotermopsis wroughtoni","species_zh":"罗夫顿古白蚁","slug":"archotermopsis-wroughtoni","rank":"species","type_species":true,"genus":"Archotermopsis","genus_zh":"古白蚁属","genus_id":"archotermopsis","family":"ARCHOTERMOPSIDAE","family_zh":"古白蚁科","family_id":"archotermopsidae","gbif_key":9709984,"records":2,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,35.5]},"properties":{"n":2}}
+]
+}

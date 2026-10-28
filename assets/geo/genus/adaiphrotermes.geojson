@@ -1,0 +1,19 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"genus","genus":"Adaiphrotermes","genus_zh":"和白蚁属","genus_id":"adaiphrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4802804,"records":138,"cells":13,"species":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[28.5,-25.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[14.5,0.5]},"properties":{"n":38}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,0.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,0.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,1.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,5.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":17}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[1.5,6.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,7.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,8.5]},"properties":{"n":63}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,9.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[0.5,10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,13.5]},"properties":{"n":2}}
+]
+}

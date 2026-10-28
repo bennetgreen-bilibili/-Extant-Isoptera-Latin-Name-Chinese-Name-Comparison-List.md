@@ -14,15 +14,15 @@
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 | `en/*.md` | 英文版：与上表一一对应的 8 个页面（`en/index.md` … `en/search.md`，permalink `/en/…/`） |
 | `es/*.md` | 西班牙语版：与上表一一对应的 8 个页面（`es/index.md` … `es/search.md`，permalink `/es/…/`） |
-| `distribution.md` / `en/` / `es/` | 分布图：13 科 GBIF 记录聚合的 1° 网格地图（Leaflet，本地托管），permalink `/distribution/`、`/en/distribution/`、`/es/distribution/` |
-| `references.md` / `en/` / `es/` | 参考文献与 DOI：77 条文献的 Crossref 增强、GB/T / APA / Vancouver 引用与 BibTeX / RIS / CSL-JSON，permalink `/references/`、`/en/references/`、`/es/references/` |
+
+> 分布图与文献不再是独立页面：**分布图**内嵌在名录页每个科、属标题下方（每个物种页另有该种自己的种级地图）；**77 条参考文献的 Crossref / DOI 增强视图**内嵌在名录页底部（`#references-doi`）。原来的 `/distribution/`、`/references/` 三语页面已移除。
 
 ## 多语言（中文 / English / Español）
 - 三种语言一套模板：`_layouts/default.html` 读页面 front matter 的 `lang`（`zh-CN` / `en` / `es`）决定语言前缀、导航、页脚与语言切换；页面路径去掉 `/en`、`/es` 前缀后同构，`hreflang` 与语言切换链接都由它推导。
 - 界面文案唯一来源：`_data/i18n.yml`（导航、页脚、页头副标题、语言切换名、回到顶部、页头品牌）。**新增一门语言**只需：① 这里加一个语言键；② `_config.yml` 加 `title_xx`（页头主标题）；③ 建 `xx/` 目录下与根目录一一对应的页面（`lang: xx` + `permalink: /xx/…/`）。模板、hreflang、语言切换、sitemap 脚本都不用改（`build_sitemap_txt.py` 会自动收录新目录）。
 - 页面标题：标签页 `<title>` 只显示本页语言（各页 front matter 的 `title`）；页头显示双语标题——主行＝本页语言（`title_zh` / `title_en` / `title_es`），副行＝另一语言（中文页→英文，英文页→中文，西语页→英文），副行只出现在页头。
 - 物种页 `_species/` 与文章 `_posts/` 目前只有中文内容：这两类页面不显示语言切换（文章页的 English/Español 切换指向 `/en/blog/`、`/es/blog/`），标题仍是「拉丁学名 + 中文正名」/ 中文标题。
-- 西语版说明：`es/list.md` 由 `en/list.md` 生成（7939 行、362 个锚点与英文版完全一致，仅界面文案与 74 段科/亚科/支系描述译成西语，参考文献原文保留），新增/改名物种后需与中文版一样同步更新三个 `list.md`；描述性段落为机器翻译初稿，建议母语者校对后再定稿。
+- 西语版说明：`es/list.md` 由 `en/list.md` 生成（8543 行、362 个锚点与英文版完全一致，仅界面文案与若干段科/亚科/支系描述译成西语，参考文献原文保留），新增/改名物种后需与中文版一样同步更新三个 `list.md`；描述性段落为机器翻译初稿，建议母语者校对后再定稿。三个 `list.md` 中每个科/属标题下的分布图 include 与页末的文献 include 由同一套规则插入（见 `_tools/分布图与瓦片使用政策.md`），新增/改名类群时一并补齐。
 
 ## 结构化数据（按类群拆分）
 - 页面：`data.md`（/data/，列出全部文件及白蚁科 18 亚科的逐文件链接）
@@ -75,15 +75,15 @@
 
 ## 外部数据与增强视图（GBIF / Catalogue of Life / Wikidata / BSF / iNaturalist / Crossref）
 
-在原有名录之外，站点把「外部数据」接进来：物种页增加外链与一致性提示，新增两个三语页面（分布图、文献与 DOI），并输出更完整的结构化数据。所有外部数据都由 `.github/workflows/` 下的脚本抓取、缓存进仓库并随构建部署；**外部信息只用于外链、对照与展示，绝不写回 `_species/` 或站内分类数据**。
+在原有名录之外，站点把「外部数据」接进来：物种页增加外链与一致性提示，名录页内嵌科/属分布图并在页末整合参考文献增强视图，每个物种页另有种级分布图，并输出更完整的结构化数据。所有外部数据都由 `.github/workflows/` 下的脚本抓取、缓存进仓库并随构建部署；**外部信息只用于外链、对照与展示，绝不写回 `_species/` 或站内分类数据**。
 
 | 功能 | 生成脚本 | 数据缓存 | 页面/模板 |
 |---|---|---|---|
 | 其它数据库外链 + 一致性提示 | `.github/workflows/build_authority_links.py` | `_data/authority_links.json` | `_includes/species-authority.html`、物种页、`/data/#authority` |
 | 世界名录对照（Blattodea Species File） | `.github/workflows/build_bsf_links.py` | `_data/bsf_links.json` + `_tools/bsf对照/工作表.csv` | 物种页「其他数据库」区块 |
 | 开放图片图集（CC0 / CC BY / CC BY-SA） | `.github/workflows/build_species_photos.py` | `_data/species_photos.json` | `_includes/species-gallery.html`、PhotoSwipe 灯箱 |
-| 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/**` + `_data/occurrence_summary.json` | `/distribution/` 三语页面、物种页「分布图」链接 |
-| 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | `/references/` 三语页面 |
+| 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
+| 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
@@ -95,7 +95,7 @@
 | Blattodea Species File 对照 | 有效名 2963、异名 3、待核对 62、未检索到 43（共 3071；抽查 20/20 页可通过） |
 | 开放许可照片 | 202 个物种、875 张（iNaturalist 758 + Wikimedia Commons 117） |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
-| 分布图 | 13 个科级 + 12 个属级 GeoJSON，共 6593 条 GBIF 记录聚合进 1° 网格（303 KB） |
+| 分布图 | 13 个科级 + 属级 + 种级 GeoJSON（`assets/geo/{family,genus,species}/`），仅名录现生类群，化石记录已剔除 |
 
 ### 1. 其它数据库外链与「本站名 vs 外部接受名」一致性提示
 - 每个物种页的「其他数据库」区块给出 GBIF Backbone、Catalogue of Life（ChecklistBank）、Wikidata、Blattodea Species File 的链接、状态（接受名/异名/存疑/未收录）与匹配置信度。
@@ -114,15 +114,16 @@
 - 图片热链回原站、不复制入库；没有自由许可照片的物种不显示该区块。
 - 细节与刷新方式见 `_tools/图片授权与署名说明.md`。
 
-### 4. 分布图（GBIF occurrence → GeoJSON + Leaflet）
-- 预生成 13 个科的 1° 网格 GeoJSON（`assets/geo/family/*.geojson`，大属另有属级文件），`/distribution/` 三语页面用**本地托管**的 Leaflet（BSD-2）渲染，地图只在滚动进视口时创建，不预取瓦片。
-- 数据是「仅有记录」的 occurrence 聚合，不代表实际分布边界；每图最多采样 900 条记录，采样偏差在页面与 `_tools/分布图与瓦片使用政策.md` 中说明。
-- 物种页只放「分布图」链接（不加载 Leaflet、不请求瓦片），从而避开了 OSM 瓦片使用政策的灰色地带。
+### 4. 分布图（GBIF occurrence → GeoJSON + Leaflet，内嵌在名录与物种页）
+- 预生成 **科级 13 个、属级每个属、种级每个种** 的 1° 网格 GeoJSON（`assets/geo/{family,genus,species}/*.geojson`），名录页每个科/属标题下方与每个物种页用**本地托管**的 Leaflet（BSD-2）渲染；地图只在滚动进视口时创建，不预取瓦片。
+- 只统计本名录收录的现生类群：GBIF 中不属于本名录的物种（含全部化石种、琥珀化石）被排除，`basisOfRecord` 为 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 的记录也被剔除——地图上不会再混入化石产地。
+- 数据是「仅有记录」的 occurrence 聚合，不代表实际分布边界；每个属都取全 GBIF 中的带坐标记录（上限 30000 条作为安全阈值），采样偏差在名录页顶部「分布图怎么读」与 `_tools/分布图与瓦片使用政策.md` 中说明。
+- 种级地图在种页面按需创建（不预取瓦片），因此即使 3000 多个种页也不会把公共瓦片当免费 CDN。
 
-### 5. 文献增强（Crossref + 可选 BHL）
+### 5. 文献增强（Crossref + 可选 BHL，已整合进名录页底部）
 - 把名录文末 77 条参考文献按 DOI 补全为 Crossref 书目记录，生成 GB/T 7714 式、APA、Vancouver 三种引用与 BibTeX / RIS / CSL-JSON；原文没有 DOI 的条目**不臆造 DOI**，只给候选供人工核对。
-- `/references/` 三语页面支持一键复制、导出 CSL-JSON；BHL 原始描述扫描为可选增强（需免费 `BHL_API_KEY`，见 `_tools/参考文献与DOI补全说明.md`）。
-- 权威条目仍以名录页文末编号与原文为准，本页只是增强视图。
+- 增强视图直接内嵌在名录页底部（`#references-doi`），三个 `list.md` 各用 `{% include references.html %}` 引入，支持一键复制、导出 CSL-JSON；BHL 原始描述扫描为可选增强（需免费 `BHL_API_KEY`，见 `_tools/参考文献与DOI补全说明.md`）。
+- 权威条目仍是名录页文末的编号列表（正文上标的 (1)…(77) 都指向它），增强视图只是它的展开。
 
 ### 6. 结构化数据（JSON-LD 实体图）
 - 物种页输出 schema.org `Taxon`（含 `scientificName`、`taxonRank`、中文 `alternateName`、`parentTaxon`、`identifier`）与 `BreadcrumbList`；`sameAs` 指向 GBIF / Catalogue of Life / Wikidata / BSF 条目，`isPartOf` 指向首页的 Dataset 实体。
@@ -145,7 +146,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3102 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3096 条：24 个页面（中文 8 + 英文 8 + 西语 8）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 

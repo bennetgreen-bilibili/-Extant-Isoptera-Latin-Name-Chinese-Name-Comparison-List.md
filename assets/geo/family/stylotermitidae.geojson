@@ -1,14 +1,8 @@
 {
 "type":"FeatureCollection",
-"properties":{"family":"Stylotermitidae","family_zh":"杆白蚁科","family_id":"stylotermitidae","gbif_key":8439366,"gbif_keys":[8439366],"resolution":"family_key","records":12,"cells":8,"grid":"1 degree","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"family","family":"STYLOTERMITIDAE","family_zh":"杆白蚁科","family_id":"stylotermitidae","records":3,"cells":2,"genera":1,"species":45,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[73.5,21.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[107.5,21.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,22.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-119.5,34.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-116.5,34.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-116.5,35.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-117.5,47.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,54.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,22.5]},"properties":{"n":1}}
 ]
 }

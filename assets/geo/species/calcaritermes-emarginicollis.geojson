@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Calcaritermes emarginicollis","species_zh":"刻颈距白蚁","slug":"calcaritermes-emarginicollis","rank":"species","type_species":false,"genus":"Calcaritermes","genus_zh":"距白蚁属","genus_id":"calcaritermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":9743976,"records":17,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5,10.5]},"properties":{"n":15}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,10.5]},"properties":{"n":2}}
+]
+}

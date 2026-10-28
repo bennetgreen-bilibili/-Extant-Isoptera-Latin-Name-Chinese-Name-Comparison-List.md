@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Procryptotermes fryeri","species_zh":"弗赖尔前砂白蚁","slug":"procryptotermes-fryeri","rank":"species","type_species":true,"genus":"Procryptotermes","genus_zh":"前砂白蚁属","genus_id":"procryptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":8870257,"records":1,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[46.5,-9.5]},"properties":{"n":1}}
+]
+}

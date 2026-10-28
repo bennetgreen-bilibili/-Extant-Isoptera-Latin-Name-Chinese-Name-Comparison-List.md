@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Psammotermes voeltzkowi","species_zh":"弗尔特科沙白蚁","slug":"psammotermes-voeltzkowi","rank":"species","type_species":false,"genus":"Psammotermes","genus_zh":"沙白蚁属","genus_id":"psammotermes","family":"PSAMMOTERMITIDAE","family_zh":"沙白蚁科","family_id":"psammotermitidae","gbif_key":9212024,"records":1,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[45.5,-24.5]},"properties":{"n":1}}
+]
+}

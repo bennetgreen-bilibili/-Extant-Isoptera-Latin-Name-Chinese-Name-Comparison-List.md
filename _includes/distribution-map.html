@@ -1,126 +1,107 @@
 {%- comment -%}
-  分布图 · distribution maps (GBIF occurrence records on a 1 degree grid)
+  分布图 · inline distribution map (GBIF occurrences on a 1 degree grid)
 
-  两种用法 / two modes —— 由 .github/workflows/build_occurrence_geojson.py 生成的数据驱动：
-    include distribution-map.html mode="page"
-        /distribution/ 页面：13 个科卡片（+ 可选的属级区块），并加载本地 Leaflet。
-    include distribution-map.html mode="link"
-        物种页：只输出「分布图」说明与链接，不加载 Leaflet、不请求任何瓦片。
+  由 .github/workflows/build_occurrence_geojson.py 生成的数据驱动，三种用法：
 
-  数据 / data: _data/occurrence_summary.json  ->  site.data.occurrence_summary
-  几何 / geometry: assets/geo/family/<family_id>.geojson, assets/geo/genus/<genus_id>.geojson
+    include distribution-map.html mode="family" id="mastotermitidae"
+        名录页：插在 <h3 id="mastotermitidae"> 科级标题下方的一张科级地图。
+    include distribution-map.html mode="genus" id="mastotermes"
+        名录页：插在 <h5 id="mastotermes"> 属级标题下方的一张属级地图。
+    include distribution-map.html mode="species"
+        物种页：该种自己的种级地图（数据键 = URL 里的 slug）。
 
-  Leaflet 的 <link>/<script> 由 _layouts/default.html 在 page.url 含 /distribution 时输出
-  （leaflet.css / leaflet.js / map.js / map.css），本 include 不自带标签，避免重复加载；
-  assets/map.js 在缺少 leaflet.css 时会自行按 script 路径补一张本地样式表作为兜底。
-  物种页的 link 模式只加一张 5 KB 的 assets/map.css，绝不加载 Leaflet、不请求任何瓦片。
-  瓦片政策见 _tools/分布图与瓦片使用政策.md：地图只在滚动到视口内才创建。
+  数据 / data: _data/occurrence_summary.json -> site.data.occurrence_summary
+  几何 / geometry: assets/geo/{family,genus,species}/<id>.geojson
+
+  Leaflet 的 <link>/<script> 由 _layouts/default.html 在名录页与物种页统一输出
+  （leaflet.css / leaflet.js / map.js / map.css），本 include 不自带标签，避免重复加载。
+  地图只在滚动到视口内时才创建，不预取任何瓦片；瓦片使用政策见
+  _tools/分布图与瓦片使用政策.md。
+
+  注意：Jekyll 的 kramdown 在空行处结束 HTML 块，本文件输出必须保持「无空行」，
+  否则插在 Markdown 名录页里的地图块会被当成 Markdown 重新解析。
 {%- endcomment -%}
 {%- assign occ = site.data.occurrence_summary -%}
-{%- assign dmode = include.mode | default: 'link' -%}
-{%- if page.lang == 'en' -%}{%- assign dlang = 'en' -%}
-{%- elsif page.lang == 'es' -%}{%- assign dlang = 'es' -%}
-{%- else -%}{%- assign dlang = 'zh' -%}
-{%- endif -%}
-
-{%- if dlang == 'en' -%}
+{%- assign dmode = include.mode | default: 'species' -%}
+{%- if page.lang == 'en' -%}{%- assign dm_lang = '/en' -%}{%- elsif page.lang == 'es' -%}{%- assign dm_lang = '/es' -%}{%- else -%}{%- assign dm_lang = '' -%}{%- endif -%}
+{%- if page.lang == 'en' -%}
   {%- assign t_records = 'records' -%}
   {%- assign t_cells = 'grid cells' -%}
   {%- assign t_species = 'species' -%}
   {%- assign t_geojson = 'GeoJSON' -%}
   {%- assign t_gbif = 'GBIF taxon page' -%}
-  {%- assign t_map_role = 'occurrence map' -%}
+  {%- assign t_map_role = 'occurrence map, GBIF records on a 1 degree grid' -%}
   {%- assign t_legend = 'records / cell' -%}
   {%- assign t_unit = 'records · 1° cell' -%}
   {%- assign t_empty = 'No GBIF records with coordinates for this taxon.' -%}
   {%- assign t_loading = 'Loading map…' -%}
-  {%- assign t_link_title = 'Distribution map' -%}
-  {%- assign t_link_caveat = 'Aggregated from family-level GBIF occurrence records; not an actual range boundary.' -%}
-  {%- assign t_link_open = 'Open the distribution maps' -%}
-  {%- assign t_link_genus = 'Genus-level map' -%}
-  {%- assign t_genus_title = 'Genus-level maps' -%}
-  {%- assign t_genus_intro = 'The largest genera (at least 12 species in this checklist) also get a map of their own. Same method, same 1° grid.' -%}
-  {%- assign t_cap_note = 'Each map samples at most 900 GBIF records; presence-only data is strongly biased towards North America and Europe.' -%}
-{%- elsif dlang == 'es' -%}
+  {%- assign t_title = 'Distribution map' -%}
+  {%- assign t_scope = 'checklist extant taxa only' -%}
+  {%- assign t_nodata = 'No GBIF record with coordinates was found for this species.' -%}
+  {%- assign t_note = 'Aggregated from GBIF occurrence records on a 1° grid; only extant taxa of this checklist are used, so fossil records are excluded. Dot size and shade show the number of records inside a cell.' -%}
+{%- elsif page.lang == 'es' -%}
   {%- assign t_records = 'registros' -%}
   {%- assign t_cells = 'celdas de 1°' -%}
   {%- assign t_species = 'especies' -%}
   {%- assign t_geojson = 'GeoJSON' -%}
-  {%- assign t_gbif = 'Ficha en GBIF' -%}
-  {%- assign t_map_role = 'mapa de registros' -%}
+  {%- assign t_gbif = 'ficha en GBIF' -%}
+  {%- assign t_map_role = 'mapa de registros, GBIF en una rejilla de 1 grado' -%}
   {%- assign t_legend = 'registros / celda' -%}
   {%- assign t_unit = 'registros · celda de 1°' -%}
   {%- assign t_empty = 'No hay registros de GBIF con coordenadas para este taxón.' -%}
   {%- assign t_loading = 'Cargando el mapa…' -%}
-  {%- assign t_link_title = 'Mapa de distribución' -%}
-  {%- assign t_link_caveat = 'Agregado a partir de registros de GBIF a nivel de familia; no representa un límite real de distribución.' -%}
-  {%- assign t_link_open = 'Abrir los mapas de distribución' -%}
-  {%- assign t_link_genus = 'Mapa de género' -%}
-  {%- assign t_genus_title = 'Mapas por género' -%}
-  {%- assign t_genus_intro = 'Los géneros más grandes (al menos 12 especies en esta lista) tienen también su propio mapa, con el mismo método y la misma rejilla de 1°.' -%}
-  {%- assign t_cap_note = 'Cada mapa muestrea como máximo 900 registros de GBIF; los datos de presencia están fuertemente sesgados hacia Norteamérica y Europa.' -%}
+  {%- assign t_title = 'Mapa de distribución' -%}
+  {%- assign t_scope = 'solo taxones actuales de la lista' -%}
+  {%- assign t_nodata = 'No se encontró ningún registro de GBIF con coordenadas para esta especie.' -%}
+  {%- assign t_note = 'Agregado de registros de GBIF en una rejilla de 1°; solo se usan taxones actuales de esta lista, por lo que los registros fósiles quedan excluidos. El tamaño y la intensidad del punto indican el número de registros de la celda.' -%}
 {%- else -%}
   {%- assign t_records = '条记录' -%}
   {%- assign t_cells = '个网格' -%}
   {%- assign t_species = '种' -%}
   {%- assign t_geojson = 'GeoJSON' -%}
   {%- assign t_gbif = 'GBIF 分类页' -%}
-  {%- assign t_map_role = '记录地图' -%}
+  {%- assign t_map_role = '分布图，GBIF 出现记录聚合到 1° 网格' -%}
   {%- assign t_legend = '记录 / 网格' -%}
   {%- assign t_unit = '条记录 · 1° 网格' -%}
-  {%- assign t_empty = '该分类单元的 GBIF 记录中没有带坐标的数据。' -%}
+  {%- assign t_empty = '该分类单元暂无 GBIF 带坐标记录。' -%}
   {%- assign t_loading = '地图加载中…' -%}
-  {%- assign t_link_title = '分布图' -%}
-  {%- assign t_link_caveat = '按科级 GBIF 记录聚合；不代表实际分布边界。' -%}
-  {%- assign t_link_open = '打开分布图' -%}
-  {%- assign t_link_genus = '属级地图' -%}
-  {%- assign t_genus_title = '属级地图' -%}
-  {%- assign t_genus_intro = '物种数在 12 种以上的大属另外单独出图，方法与科级完全一致（1° 网格、同样的记录上限）。' -%}
-  {%- assign t_cap_note = '每张地图最多取 900 条 GBIF 记录；分布数据为“仅有记录”型，且明显偏向北美与欧洲。' -%}
+  {%- assign t_title = '分布图' -%}
+  {%- assign t_scope = '仅名录现生类群' -%}
+  {%- assign t_nodata = 'GBIF 中暂未找到该种带坐标的记录。' -%}
+  {%- assign t_note = '按 GBIF 出现记录聚合到 1°×1° 网格；只统计本名录收录的现生类群，化石记录不参与。点的大小与深浅表示该网格内的记录条数。' -%}
 {%- endif -%}
-
-{%- if occ and dmode == 'page' -%}
-<div class="distribution-grid">
-{%- for f in occ.families -%}
-  <article class="distribution-card" id="{{ f.id }}">
-    <h3 class="distribution-card-title"><span class="distribution-card-zh">{{ f.zh }}</span> <i class="latin">{{ f.latin }}</i></h3>
-    <p class="distribution-meta">{{ f.records }} {{ t_records }} · {{ f.cells }} {{ t_cells }}{% if f.species %} · {{ f.species }} {{ t_species }}{% endif %}</p>
-    <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ f.file }}" data-label="{{ f.zh }} {{ f.latin }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ f.zh }} {{ f.latin }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-    <p class="distribution-card-links"><a href="{{ site.base_url }}/{{ f.file }}" download="{{ f.id }}.geojson">{{ t_geojson }} · {{ f.records }} {{ t_records }}</a>{% if f.gbif_url %} · <a href="{{ f.gbif_url }}" rel="noopener">{{ t_gbif }}</a>{% endif %}</p>
-  </article>
-{%- endfor -%}
+{%- if occ and dmode == 'family' -%}
+  {%- assign dm = nil -%}
+  {%- for item in occ.families -%}{%- if item.id == include.id -%}{%- assign dm = item -%}{%- break -%}{%- endif -%}{%- endfor -%}
+  {%- if dm and dm.file -%}
+<div class="distribution-inline distribution-inline-family" data-pagefind-ignore data-taxon="{{ dm.id }}">
+<div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.zh }} {{ dm.latin }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.zh }} {{ dm.latin }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
-{%- if occ.genera and occ.genera.size > 0 %}
-<section class="distribution-genus-section" aria-labelledby="genus-level">
-  <h2 id="genus-level">{{ t_genus_title }} <span class="fact-en" lang="en">Genus-level maps</span> <span class="fact-es" lang="es">Mapas por género</span></h2>
-  <p class="distribution-note">{{ t_genus_intro }} {{ t_cap_note }}</p>
-  <div class="distribution-grid distribution-grid-genus">
-  {%- for g in occ.genera -%}
-    <article class="distribution-card distribution-card-genus" id="genus-{{ g.id }}">
-      <h3 class="distribution-card-title"><i class="latin">{{ g.latin }}</i> <span class="distribution-card-zh">{{ g.zh }}</span></h3>
-      <p class="distribution-meta">{{ g.records }} {{ t_records }} · {{ g.cells }} {{ t_cells }} · {{ g.family_zh }} · {{ g.species }} {{ t_species }}</p>
-      <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ g.file }}" data-label="{{ g.latin }} {{ g.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ g.latin }} {{ g.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-      <p class="distribution-card-links"><a href="{{ site.base_url }}/{{ g.file }}" download="{{ g.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ g.gbif_url }}" rel="noopener">{{ t_gbif }}</a> · <a href="#{{ g.family_id }}">{{ g.family_zh }}</a></p>
-    </article>
-  {%- endfor -%}
-  </div>
-</section>
-{%- endif %}
-
-{%- elsif occ and dmode == 'link' -%}
-  {%- assign dm_family = nil -%}
-  {%- for f in occ.families -%}{%- if f.id == page.family_id -%}{%- assign dm_family = f -%}{%- break -%}{%- endif -%}{%- endfor -%}
-  {%- assign dm_genus = nil -%}
-  {%- if page.genus_id and occ.genera -%}
-    {%- for g in occ.genera -%}{%- if g.id == page.genus_id -%}{%- assign dm_genus = g -%}{%- break -%}{%- endif -%}{%- endfor -%}
   {%- endif -%}
-  {%- if dm_family -%}
-  <link rel="stylesheet" href="{{ site.base_url }}/assets/map.css">
-
-  <section class="species-map-link" aria-labelledby="species-map-title">
-    <h2 id="species-map-title" class="species-map-title">分布图 <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
-    <p class="species-map-note">按科级 GBIF 记录聚合；不代表实际分布边界。 <span class="fact-en" lang="en">Aggregated from family-level GBIF occurrence records on a 1° grid; not an actual range boundary.</span> <span class="fact-es" lang="es">Agregado a partir de registros de GBIF de la familia en una rejilla de 1°; no representa un límite real de distribución.</span></p>
-    <p class="species-map-links"><a href="{{ site.base_url }}/distribution/#{{ dm_family.id }}">{{ dm_family.zh }} <i class="latin">{{ dm_family.latin }}</i> — 分布图 · {{ dm_family.records }} {{ t_records }} →</a>{% if dm_genus %} · <a href="{{ site.base_url }}/distribution/#genus-{{ dm_genus.id }}">{{ dm_genus.latin }} — 属级地图 →</a>{% endif %}</p>
-  </section>
+{%- elsif occ and dmode == 'genus' -%}
+  {%- assign dm = nil -%}
+  {%- for item in occ.genera -%}{%- if item.id == include.id -%}{%- assign dm = item -%}{%- break -%}{%- endif -%}{%- endfor -%}
+  {%- if dm and dm.file -%}
+<div class="distribution-inline distribution-inline-genus" data-pagefind-ignore data-taxon="{{ dm.id }}">
+<div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/list/#{{ dm.family_id }}">{{ dm.family_zh }}</a></p>
+</div>
+  {%- endif -%}
+{%- elsif occ and dmode == 'species' -%}
+  {%- assign dm_slug = page.url | remove_first: '/species/' | remove: '/' -%}
+  {%- assign dm = occ.species[dm_slug] -%}
+  {%- if dm and dm.file -%}
+<div class="species-map" aria-labelledby="species-map-title" data-pagefind-ignore data-taxon="{{ dm_slug }}">
+<h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
+<p class="species-map-note">{{ t_note }}</p>
+<div class="distribution-map distribution-map-species" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/list/#{{ dm.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
+</div>
+  {%- else -%}
+<div class="species-map species-map-empty" aria-labelledby="species-map-title" data-pagefind-ignore>
+<h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
+<p class="species-map-note">{{ t_nodata }}</p>
+</div>
   {%- endif -%}
 {%- endif -%}
