@@ -86,7 +86,16 @@
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | `/references/` 三语页面 |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
 
-@FEATURE_STATS@
+| 覆盖情况（截至最近一次抓取） | 数量 |
+|---|---|
+| GBIF 可外链 / 共 3071 | 2967（96.6%；接受名 2957、异名 10、仅上级阶元 104） |
+| Catalogue of Life 可外链 | 2996（97.6%；异名 6、仅上级阶元 59、未收录 16） |
+| Wikidata 条目（P225） | 2875（93.6%） |
+| 与两库接受名完全一致 / 带提示 | 2896（94.3%） / 175 |
+| Blattodea Species File 对照 | 有效名 2963、异名 3、待核对 62、未检索到 43（共 3071；抽查 20/20 页可通过） |
+| 开放许可照片 | 139 个物种、636 张（iNaturalist 570 + Wikimedia Commons 66） |
+| 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
+| 分布图 | 13 个科级 + 12 个属级 GeoJSON，共 6593 条 GBIF 记录聚合进 1° 网格（303 KB） |
 
 ### 1. 其它数据库外链与「本站名 vs 外部接受名」一致性提示
 - 每个物种页的「其他数据库」区块给出 GBIF Backbone、Catalogue of Life（ChecklistBank）、Wikidata、Blattodea Species File 的链接、状态（接受名/异名/存疑/未收录）与匹配置信度。
