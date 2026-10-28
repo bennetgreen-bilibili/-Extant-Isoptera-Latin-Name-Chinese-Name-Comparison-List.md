@@ -16,6 +16,7 @@ permalink: /en/
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
+ "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
  "name": "Extant Isoptera (Termites) Latin–Chinese Name Comparison List (2026.10.17)",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "description": "Latin–Chinese name comparison list of extant Isoptera (termites): 13 families, 323 genera, 3008 species, 63 subspecies. Data split by clade/family/subfamily; the entry point data/index.json contains the full taxonomic tree.",

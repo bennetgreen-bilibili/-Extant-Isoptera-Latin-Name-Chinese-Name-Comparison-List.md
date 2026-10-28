@@ -28,6 +28,14 @@
 {%- comment -%} 全文搜索页（pagefind: true）：Pagefind 的样式与脚本由 CI 在 _site/pagefind/ 生成 {%- endcomment -%}
 {% if page.pagefind %}<link rel="stylesheet" href="{{ site.base_url }}/pagefind/pagefind-ui.css">
 {% endif %}<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
+{%- comment -%} 物种页图片图集（PhotoSwipe，MIT）：只有物种页加载 {%- endcomment -%}
+{% if page.collection == 'species' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.css">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/gallery.css?v={{ site.time | date: '%s' }}">
+{% endif %}{%- comment -%} 文献页、分布图页的专用样式 {%- endcomment -%}
+{% if page.url contains '/references' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ site.time | date: '%s' }}">
+{% endif %}{% if page.url contains '/distribution' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/map.css?v={{ site.time | date: '%s' }}">
+{% endif %}
 </head>
 <body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
 
@@ -107,6 +115,8 @@
     <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{{ T.nav_list }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/search/" class="nav-link{% if page.url contains '/search' %} active{% endif %}">{{ T.nav_search }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{{ T.nav_stats }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/distribution/" class="nav-link{% if page.url contains '/distribution' %} active{% endif %}">{{ T.nav_distribution }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/references/" class="nav-link{% if page.url contains '/references' %} active{% endif %}">{{ T.nav_references }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/data/" class="nav-link{% if page.url contains '/data' %} active{% endif %}">{{ T.nav_data }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{{ T.nav_blog }}</a>
@@ -132,6 +142,15 @@
 {% if page.pagefind %}
 <script src="{{ site.base_url }}/pagefind/pagefind-ui.js" defer></script>
 <script src="{{ site.base_url }}/assets/search-page.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}
+{%- comment -%} 物种页图片图集：PhotoSwipe 5 UMD + gallery.js（懒初始化，只在有图片时接管） {%- endcomment -%}
+{% if page.collection == 'species' %}<script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.umd.min.js" defer></script>
+<script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe-lightbox.umd.min.js" defer></script>
+<script src="{{ site.base_url }}/assets/gallery.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}{%- comment -%} 文献页 / 分布图页的专用脚本 {%- endcomment -%}
+{% if page.url contains '/references' %}<script src="{{ site.base_url }}/assets/references.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}{% if page.url contains '/distribution' %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
+<script src="{{ site.base_url }}/assets/map.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}
 <script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
 <script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>

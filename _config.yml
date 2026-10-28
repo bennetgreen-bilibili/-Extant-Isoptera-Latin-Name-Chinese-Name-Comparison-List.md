@@ -62,3 +62,21 @@ dataset:
   license_name: "CC BY 4.0"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
   archive_file: "downloads/isoptera-checklist-v2026.10.17.zip"  # 与 build_dataset.py 输出一致
+
+# ---------------------------------------------------------------------------
+# 外部权威库（物种页「其他数据库」外链 + JSON-LD sameAs）
+# 只生成链接与一致性提示，不参与站内分类数据的生成或改写。
+# 数据缓存：_data/authority_links.json（build_authority_links.py）
+#           _data/bsf_links.json（build_bsf_links.py，世界名录 Blattodea Species File 半自动对照）
+# 换 Catalogue of Life 年度版本时：改下面 col_taxon，并同步 build_authority_links.py 的 COL_DATASET。
+# ---------------------------------------------------------------------------
+external:
+  gbif_home: "https://www.gbif.org"
+  gbif_species: "https://www.gbif.org/species"                    # + /<GBIF usageKey>
+  col_home: "https://www.catalogueoflife.org"
+  col_taxon: "https://www.checklistbank.org/dataset/3LR/taxon"     # + /<COL usage id>
+  wikidata: "https://www.wikidata.org/wiki"                       # + /<QID>
+  bsf_home: "https://cockroach.speciesfile.org"
+  bsf_otu: "https://cockroach.speciesfile.org/otus"               # + /<OTU id>/overview
+  inaturalist: "https://www.inaturalist.org"
+  commons: "https://commons.wikimedia.org"

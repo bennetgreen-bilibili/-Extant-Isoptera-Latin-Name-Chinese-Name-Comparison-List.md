@@ -16,6 +16,7 @@ permalink: /
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
+ "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
 {% if site.dataset.doi %} "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": "{{ site.dataset.doi }}" },
  "sameAs": "https://doi.org/{{ site.dataset.doi }}",
 {% endif %}

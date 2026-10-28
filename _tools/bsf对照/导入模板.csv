@@ -1,0 +1,3 @@
+﻿latin,zh,family_latin,family_zh,bsf_status,bsf_label,bsf_valid_label,bsf_otu,bsf_url,auto_rule,check_status,notes,reviewer
+Coptotermes formosanus,台湾乳白蚁,HETEROTERMITIDAE,异白蚁科,valid,"Coptotermes formosanus Shiraki, 1909",,83152,https://cockroach.speciesfile.org/otus/83152/overview,exact,已核对,示例行：已核对 → JSON verified=true,示例复核人
+Mastotermes darwiniensis,达尔文澳白蚁,MASTOTERMITIDAE,澳白蚁科,valid,"Mastotermes darwiniensis Froggatt, 1897",,,,manual,待补录,示例行：待补录 —— 人工填 bsf_otu（或整段 bsf_url）后再改成 已核对,

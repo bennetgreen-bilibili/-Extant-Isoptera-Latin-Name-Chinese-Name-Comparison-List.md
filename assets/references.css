@@ -1,0 +1,282 @@
+/*
+  参考文献页（/references/、/en/references/、/es/references/）样式。
+  只服务 _includes/references.html，与 assets/custom.css 的 CSS 变量、圆角与阴影保持一致；
+  不覆盖任何全站样式，全部类名以 .refs- 前缀隔离。
+  无 JavaScript 时同样完整可读：复制按钮只是增强，正文与链接都是静态 HTML。
+*/
+
+.refs {
+  margin: 1.4em 0 2em;
+}
+
+/* 统计条 ---------------------------------------------------------------- */
+.refs-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45em;
+  margin: 0 0 1.2em;
+  padding: 0;
+  list-style: none;
+}
+.refs-stats li {
+  margin: 0;
+  padding: 3px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--accent-softer);
+  color: var(--accent-strong);
+  font-size: .84em;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+.refs-stats li b {
+  font-weight: 700;
+}
+.refs-stats li.refs-stat-muted {
+  background: var(--card);
+  color: var(--muted);
+}
+
+/* 条目 ------------------------------------------------------------------ */
+.refs-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.refs-item {
+  position: relative;
+  margin: 0 0 14px;
+  padding: 14px 16px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card);
+  box-shadow: var(--shadow-sm);
+}
+.refs-item:target {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-soft), var(--shadow-sm);
+}
+.refs-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .4em;
+  margin: 0 0 .45em;
+}
+.refs-num {
+  min-width: 1.9em;
+  padding: 1px 8px;
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-weight: 700;
+  font-size: .82em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+.refs-badge {
+  padding: 1px 9px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: .76em;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+.refs-badge-ok {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+}
+.refs-badge-warn {
+  border-color: var(--earth);
+  background: var(--earth-soft);
+  color: var(--earth);
+}
+
+/* 引用正文：正文用衬线，DOI 用等宽 --------------- */
+.refs-cite {
+  margin: 0 0 .5em;
+  font-family: var(--font-serif);
+  font-size: .96em;
+  line-height: 1.65;
+  color: var(--ink);
+  word-break: break-word;
+}
+.refs-cite .refs-doi-text {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, var(--font-sans);
+  font-size: .92em;
+}
+
+/* 链接行 --------------------------------------------------------------- */
+.refs-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3em .9em;
+  margin: 0 0 .55em;
+  font-size: .84em;
+}
+.refs-links a {
+  color: var(--accent-strong);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--accent);
+  word-break: break-all;
+}
+.refs-links a:hover,
+.refs-links a:focus-visible {
+  border-bottom-style: solid;
+}
+.refs-links .refs-link-meta {
+  color: var(--muted);
+  border-bottom: none;
+}
+
+/* 复制按钮 ------------------------------------------------------------- */
+.refs-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4em;
+  margin: 0;
+}
+.refs-copy {
+  display: inline-block;
+  font: inherit;
+  font-size: .78em;
+  line-height: 1.4;
+  padding: 4px 12px;
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--accent-strong);
+  cursor: pointer;
+  transition: background .15s, color .15s, border-color .15s;
+}
+.refs-copy:hover,
+.refs-copy:focus-visible {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+.refs-copy.is-copied {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.refs-copy[disabled] {
+  cursor: default;
+  opacity: .6;
+}
+
+/* 其他格式（details 展开，无 JS 同样可用） ----------------------------- */
+.refs-more {
+  margin: .7em 0 0;
+  border-top: 1px dashed var(--line-soft);
+  padding-top: .45em;
+}
+.refs-more > summary {
+  cursor: pointer;
+  color: var(--muted);
+  font-size: .84em;
+  list-style: none;
+}
+.refs-more > summary::-webkit-details-marker {
+  display: none;
+}
+.refs-more > summary::before {
+  content: "▸ ";
+  color: var(--accent);
+}
+.refs-more[open] > summary::before {
+  content: "▾ ";
+}
+.refs-more > summary:hover {
+  color: var(--accent-strong);
+}
+.refs-block {
+  margin: .7em 0 0;
+}
+.refs-block-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .6em;
+  margin: 0 0 .3em;
+}
+.refs-block-head h4 {
+  margin: 0;
+  font-size: .74em;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.refs-pre {
+  margin: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-sm);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, var(--font-sans);
+  font-size: .8em;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  word-break: break-word;
+}
+.refs-original {
+  margin: 0;
+  font-size: .86em;
+  color: var(--muted);
+}
+.refs-original strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+.refs-candidates {
+  margin: .2em 0 0;
+  padding-left: 1.1em;
+  font-size: .84em;
+  color: var(--muted);
+}
+.refs-candidates li {
+  margin: .15em 0;
+}
+.refs-note {
+  margin: 1.2em 0 0;
+  padding: 10px 14px;
+  border-left: 3px solid var(--earth);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  background: var(--earth-soft);
+  color: var(--ink);
+  font-size: .88em;
+  line-height: 1.6;
+}
+.refs-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .6em;
+  margin: 0 0 1em;
+}
+
+@media (max-width: 600px) {
+  .refs-item {
+    padding: 12px 12px 10px;
+  }
+  .refs-cite {
+    font-size: .93em;
+  }
+}
+
+@media print {
+  .refs-actions,
+  .refs-toolbar,
+  .refs-copy {
+    display: none !important;
+  }
+  .refs-item {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+}

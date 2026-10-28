@@ -16,6 +16,7 @@ permalink: /es/
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
+ "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
  "name": "Isópteros actuales (termitas): lista comparativa de nombres latinos y chinos (2026.10.17)",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "description": "Lista comparativa de nombres latinos y chinos de los isópteros (termitas) actuales: 13 familias, 323 géneros, 3008 especies y 63 subespecies. Datos divididos por clado/familia/subfamilia; el punto de entrada data/index.json contiene el árbol taxonómico completo.",

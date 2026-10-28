@@ -1,0 +1,19 @@
+{
+"type":"FeatureCollection",
+"properties":{"family":"Hodotermopsidae","family_zh":"原白蚁科","family_id":"hodotermopsidae","gbif_key":null,"gbif_keys":[4802931],"resolution":"genus_aggregate","records":50,"cells":13,"grid":"1 degree","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, accessed 2026-10-28; aggregated to a 1 degree grid by this site","note":"GBIF backbone has no rank=FAMILY match for this name; the map aggregates the occurrences of the genera this checklist places in the family. Its records also count towards the GBIF host family."},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[105.5,21.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[107.5,21.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,22.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[109.5,23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[110.5,23.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[110.5,24.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5,24.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,24.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,24.5]},"properties":{"n":34}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[129.5,28.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,36.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[140.5,39.5]},"properties":{"n":1}}
+]
+}

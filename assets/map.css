@@ -1,0 +1,214 @@
+/* ===== 分布图 · distribution maps =====
+   Only used by /distribution/ (and by nothing else: the species-page include is a
+   link, not a map). Leaflet itself comes from assets/vendor/leaflet/leaflet.css;
+   this file styles the cards, the lazy map containers and the legend.
+   Token names (--card, --line, --accent, …) come from assets/custom.css. */
+
+.distribution-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+  gap:18px;
+  margin:1.4em 0 2em;
+}
+.distribution-card{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow-sm);
+  padding:14px 14px 10px;
+  scroll-margin-top:calc(var(--nav-h) + 16px);
+}
+.distribution-card:target{
+  border-color:var(--accent);
+  box-shadow:0 0 0 2px var(--accent-soft),var(--shadow-sm);
+}
+.distribution-card-title{
+  margin:0 0 4px;
+  font-size:16px;
+  line-height:1.45;
+  font-weight:700;
+}
+.distribution-card-title .latin{
+  font-family:var(--font-serif);
+  font-weight:600;
+  color:var(--accent-strong);
+}
+.distribution-card-title .distribution-card-zh{
+  font-weight:700;
+}
+.distribution-meta{
+  margin:0 0 10px;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.5;
+}
+
+/* 地图容器：未进入视口时只是一个占位块，不会请求任何瓦片 */
+.distribution-map{
+  position:relative;
+  height:300px;
+  border:1px solid var(--line-soft);
+  border-radius:var(--radius-sm);
+  background:var(--accent-softer);
+  overflow:hidden;
+  color:var(--muted);
+  font-size:13px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.distribution-map.is-ready,
+.distribution-map.is-empty{
+  display:block;
+  color:inherit;
+  font-size:inherit;
+}
+.distribution-map-empty{
+  margin:0;
+  padding:18px;
+  text-align:center;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.6;
+}
+.distribution-card-links{
+  margin:8px 0 0;
+  font-size:13px;
+  line-height:1.5;
+  color:var(--muted);
+}
+.distribution-card-links a{
+  color:var(--accent);
+  text-decoration:none;
+}
+.distribution-card-links a:hover{
+  text-decoration:underline;
+}
+
+/* 图例（Leaflet 控件内的一个小盒子） */
+.map-legend{
+  background:rgba(255,255,255,.94);
+  color:#22302a;
+  border:1px solid #cbd3cc;
+  border-radius:8px;
+  padding:7px 9px;
+  font-size:11px;
+  line-height:1.3;
+  box-shadow:0 1px 4px rgba(0,0,0,.16);
+  max-width:150px;
+}
+.map-legend-title{
+  display:block;
+  font-weight:700;
+  margin-bottom:5px;
+  letter-spacing:.2px;
+}
+.map-legend-row{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  margin:2px 0;
+}
+.map-legend-dot{
+  display:inline-block;
+  flex:0 0 auto;
+  border-radius:50%;
+  background:#2f6b4f;
+  border:1px solid #1f4d38;
+}
+.map-legend-label{
+  font-variant-numeric:tabular-nums;
+}
+
+/* Leaflet 与站点风格的衔接 */
+.distribution-map .leaflet-container{
+  font-family:var(--font-sans);
+  background:#dfe7dd;
+  border-radius:var(--radius-sm);
+}
+.distribution-map .leaflet-control-attribution{
+  font-size:10px;
+  background:rgba(255,255,255,.86);
+  color:#3a4a40;
+}
+.distribution-map .leaflet-control-attribution a{
+  color:#1f4d38;
+}
+.distribution-map .leaflet-popup-content{
+  margin:6px 10px;
+  font-size:12px;
+  line-height:1.4;
+}
+
+/* 属级区块与说明文字 */
+.distribution-genus-section{
+  margin-top:2.4em;
+}
+.distribution-grid-genus .distribution-card{
+  padding-bottom:12px;
+}
+.distribution-note{
+  background:var(--accent-softer);
+  border-left:3px solid var(--accent);
+  border-radius:0 var(--radius-sm) var(--radius-sm) 0;
+  padding:10px 14px;
+  margin:0 0 1.2em;
+  font-size:14px;
+  color:var(--muted);
+  line-height:1.65;
+}
+.distribution-caveat{
+  border:1px solid var(--line);
+  border-left:3px solid var(--earth);
+  border-radius:0 var(--radius-sm) var(--radius-sm) 0;
+  background:var(--earth-soft);
+  padding:10px 14px;
+  margin:1.2em 0;
+  font-size:14px;
+  line-height:1.7;
+}
+
+/* 物种页的 link 模式（只有文字与链接，没有地图） */
+.species-map-link{
+  margin:1.6em 0 1.2em;
+  padding:14px 16px;
+  border:1px solid var(--line);
+  border-radius:var(--radius-sm);
+  background:var(--accent-softer);
+}
+.species-map-title{
+  margin:0 0 .5em;
+  font-size:17px;
+  line-height:1.4;
+}
+.species-map-note{
+  margin:0 0 .6em;
+  font-size:13px;
+  line-height:1.65;
+  color:var(--muted);
+}
+.species-map-links{
+  margin:0;
+  font-size:14px;
+  line-height:1.7;
+}
+.species-map-links .latin{
+  font-family:var(--font-serif);
+}
+
+@media (max-width:640px){
+  .distribution-grid{
+    grid-template-columns:1fr;
+    gap:14px;
+  }
+  .distribution-map{
+    height:240px;
+  }
+}
+
+/* 减少动效偏好：Leaflet 的缩放动画（若浏览器开启）不应影响阅读 */
+@media (prefers-reduced-motion:reduce){
+  .distribution-map .leaflet-zoom-animated{
+    transition:none;
+  }
+}

@@ -1,0 +1,616 @@
+{
+ "meta": {
+  "access_date": "2026-10-28",
+  "generated": "2026-10-28",
+  "source": "GBIF occurrence search API",
+  "source_url": "https://api.gbif.org/v1/occurrence/search",
+  "citation": "https://www.gbif.org/citation-guidelines",
+  "license": "CC BY 4.0 (GBIF occurrence records)",
+  "grid": "1 degree",
+  "cell_centre": true,
+  "cap_per_taxon": 900,
+  "page_limit": 300,
+  "family_files": 13,
+  "genus_files": 12,
+  "records_families": 6593,
+  "cells_families": 1489,
+  "genus_min_species": 12,
+  "genus_max_files": 12,
+  "tile_provider": "GBIF base map tiles (tile.gbif.org), OSM fallback",
+  "note": "Records are a deterministic capped sample of GBIF occurrence records, binned to a 1 degree grid; presence-only and strongly biased towards North America and Europe. Not a distribution boundary."
+ },
+ "families": [
+  {
+   "id": "mastotermitidae",
+   "latin": "Mastotermitidae",
+   "zh": "澳白蚁科",
+   "gbif_key": 4802811,
+   "gbif_keys": [
+    4802811
+   ],
+   "resolution": "family_key",
+   "records": 382,
+   "cells": 123,
+   "species": 1,
+   "genera": 1,
+   "file": "assets/geo/family/mastotermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/4802811",
+   "countries": {
+    "AU": 324,
+    "FR": 16,
+    "MX": 10,
+    "ES": 7,
+    "DE": 5,
+    "HR": 5,
+    "GB": 4,
+    "RU": 3
+   }
+  },
+  {
+   "id": "archotermopsidae",
+   "latin": "Archotermopsidae",
+   "zh": "古白蚁科",
+   "gbif_key": 8687694,
+   "gbif_keys": [
+    8687694
+   ],
+   "resolution": "family_key",
+   "records": 900,
+   "cells": 95,
+   "species": 5,
+   "genera": 2,
+   "file": "assets/geo/family/archotermopsidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/8687694",
+   "countries": {
+    "US": 650,
+    "CA": 231,
+    "CN": 9,
+    "MX": 4,
+    "JP": 2,
+    "PK": 2,
+    "NL": 1,
+    "TW": 1
+   }
+  },
+  {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科",
+   "gbif_key": 4802708,
+   "gbif_keys": [
+    4802708
+   ],
+   "resolution": "family_key",
+   "records": 900,
+   "cells": 129,
+   "species": 21,
+   "genera": 3,
+   "file": "assets/geo/family/hodotermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/4802708",
+   "countries": {
+    "ZA": 749,
+    "NA": 78,
+    "BW": 15,
+    "UZ": 11,
+    "TZ": 10,
+    "IL": 7,
+    "KZ": 7,
+    "ZM": 5
+   }
+  },
+  {
+   "id": "hodotermopsidae",
+   "latin": "Hodotermopsidae",
+   "zh": "原白蚁科",
+   "gbif_key": null,
+   "gbif_keys": [
+    4802931
+   ],
+   "resolution": "genus_aggregate",
+   "records": 50,
+   "cells": 13,
+   "species": 1,
+   "genera": 1,
+   "file": "assets/geo/family/hodotermopsidae.geojson",
+   "gbif_url": null,
+   "countries": {
+    "TW": 35,
+    "CN": 8,
+    "JP": 5,
+    "VN": 2
+   }
+  },
+  {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科",
+   "gbif_key": 8491757,
+   "gbif_keys": [
+    8491757
+   ],
+   "resolution": "family_key",
+   "records": 626,
+   "cells": 114,
+   "species": 10,
+   "genera": 2,
+   "file": "assets/geo/family/stolotermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/8491757",
+   "countries": {
+    "AU": 513,
+    "CL": 62,
+    "NZ": 27,
+    "ZA": 13,
+    "AR": 8,
+    "ES": 1,
+    "ET": 1,
+    "JP": 1
+   }
+  },
+  {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科",
+   "gbif_key": 4353,
+   "gbif_keys": [
+    4353
+   ],
+   "resolution": "family_key",
+   "records": 900,
+   "cells": 224,
+   "species": 479,
+   "genera": 23,
+   "file": "assets/geo/family/kalotermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/4353",
+   "countries": {
+    "US": 418,
+    "PT": 129,
+    "ES": 71,
+    "CR": 48,
+    "IT": 44,
+    "FR": 40,
+    "AU": 31,
+    "GR": 17
+   }
+  },
+  {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科",
+   "gbif_key": null,
+   "gbif_keys": [
+    2007372,
+    4802730
+   ],
+   "resolution": "genus_aggregate",
+   "records": 68,
+   "cells": 38,
+   "species": 18,
+   "genera": 2,
+   "file": "assets/geo/family/psammotermitidae.geojson",
+   "gbif_url": null,
+   "countries": {
+    "AU": 19,
+    "SN": 13,
+    "MP": 7,
+    "ZA": 5,
+    "NA": 4,
+    "RE": 3,
+    "CR": 2,
+    "IO": 2
+   }
+  },
+  {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科",
+   "gbif_key": 4354,
+   "gbif_keys": [
+    4354
+   ],
+   "resolution": "family_key",
+   "records": 900,
+   "cells": 324,
+   "species": 61,
+   "genera": 5,
+   "file": "assets/geo/family/rhinotermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/4354",
+   "countries": {
+    "US": 629,
+    "AU": 54,
+    "PT": 32,
+    "CR": 20,
+    "GR": 19,
+    "MX": 15,
+    "BR": 14,
+    "CA": 14
+   }
+  },
+  {
+   "id": "serritermitidae",
+   "latin": "Serritermitidae",
+   "zh": "齿白蚁科",
+   "gbif_key": 4802823,
+   "gbif_keys": [
+    4802823
+   ],
+   "resolution": "family_key",
+   "records": 54,
+   "cells": 18,
+   "species": 3,
+   "genera": 2,
+   "file": "assets/geo/family/serritermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/4802823",
+   "countries": {
+    "BR": 45,
+    "GF": 5,
+    "CI": 4
+   }
+  },
+  {
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "zh": "杆白蚁科",
+   "gbif_key": 8439366,
+   "gbif_keys": [
+    8439366
+   ],
+   "resolution": "family_key",
+   "records": 12,
+   "cells": 8,
+   "species": 45,
+   "genera": 1,
+   "file": "assets/geo/family/stylotermitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/8439366",
+   "countries": {
+    "US": 6,
+    "CN": 2,
+    "IN": 2,
+    "RU": 1,
+    "TW": 1
+   }
+  },
+  {
+   "id": "termitogetonidae",
+   "latin": "Termitogetonidae",
+   "zh": "寡脉白蚁科",
+   "gbif_key": null,
+   "gbif_keys": [
+    4802748
+   ],
+   "resolution": "genus_aggregate",
+   "records": 1,
+   "cells": 1,
+   "species": 2,
+   "genera": 1,
+   "file": "assets/geo/family/termitogetonidae.geojson",
+   "gbif_url": null,
+   "countries": {
+    "LK": 1
+   }
+  },
+  {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科",
+   "gbif_key": null,
+   "gbif_keys": [
+    2007379
+   ],
+   "resolution": "genus_aggregate",
+   "records": 900,
+   "cells": 170,
+   "species": 230,
+   "genera": 3,
+   "file": "assets/geo/family/heterotermitidae.geojson",
+   "gbif_url": null,
+   "countries": {
+    "US": 532,
+    "AU": 115,
+    "CR": 47,
+    "CO": 34,
+    "TW": 33,
+    "CN": 32,
+    "MX": 30,
+    "BR": 23
+   }
+  },
+  {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科",
+   "gbif_key": 4355,
+   "gbif_keys": [
+    4355
+   ],
+   "resolution": "family_key",
+   "records": 900,
+   "cells": 232,
+   "species": 2132,
+   "genera": 277,
+   "file": "assets/geo/family/termitidae.geojson",
+   "gbif_url": "https://www.gbif.org/species/4355",
+   "countries": {
+    "CR": 139,
+    "ZA": 104,
+    "TW": 86,
+    "AU": 80,
+    "KE": 77,
+    "SG": 64,
+    "BR": 47,
+    "MY": 37
+   }
+  }
+ ],
+ "genera": [
+  {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属",
+   "family_id": "termitidae",
+   "family_zh": "白蚁科",
+   "gbif_key": 5431333,
+   "records": 900,
+   "cells": 163,
+   "species": 243,
+   "file": "assets/geo/genus/nasutitermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/5431333",
+   "countries": {
+    "BR": 198,
+    "CR": 179,
+    "AU": 127,
+    "PR": 84,
+    "PE": 62,
+    "PA": 51,
+    "CW": 42,
+    "MX": 36
+   }
+  },
+  {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属",
+   "family_id": "termitidae",
+   "family_zh": "白蚁科",
+   "gbif_key": 4803344,
+   "records": 900,
+   "cells": 121,
+   "species": 198,
+   "file": "assets/geo/genus/odontotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/4803344",
+   "countries": {
+    "TW": 352,
+    "CI": 147,
+    "CN": 83,
+    "KE": 58,
+    "IN": 46,
+    "MY": 32,
+    "ZA": 26,
+    "BD": 24
+   }
+  },
+  {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属",
+   "family_id": "termitidae",
+   "family_zh": "白蚁科",
+   "gbif_key": 2007311,
+   "records": 900,
+   "cells": 49,
+   "species": 148,
+   "file": "assets/geo/genus/microcerotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007311",
+   "countries": {
+    "CR": 304,
+    "CG": 201,
+    "CO": 133,
+    "AU": 67,
+    "ZA": 55,
+    "GH": 34,
+    "NC": 18,
+    "IQ": 17
+   }
+  },
+  {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属",
+   "family_id": "heterotermitidae",
+   "family_zh": "异白蚁科",
+   "gbif_key": 2007365,
+   "records": 900,
+   "cells": 290,
+   "species": 140,
+   "file": "assets/geo/genus/reticulitermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007365",
+   "countries": {
+    "US": 723,
+    "PT": 34,
+    "GR": 27,
+    "ES": 24,
+    "JP": 19,
+    "CA": 14,
+    "KR": 12,
+    "CN": 10
+   }
+  },
+  {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属",
+   "family_id": "kalotermitidae",
+   "family_zh": "木白蚁科",
+   "gbif_key": 2007359,
+   "records": 900,
+   "cells": 117,
+   "species": 131,
+   "file": "assets/geo/genus/glyptotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007359",
+   "countries": {
+    "CR": 388,
+    "AU": 261,
+    "TW": 70,
+    "MX": 52,
+    "BR": 39,
+    "NF": 36,
+    "PE": 10,
+    "CM": 5
+   }
+  },
+  {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属",
+   "family_id": "kalotermitidae",
+   "family_zh": "木白蚁科",
+   "gbif_key": 2007329,
+   "records": 761,
+   "cells": 206,
+   "species": 121,
+   "file": "assets/geo/genus/neotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007329",
+   "countries": {
+    "AU": 263,
+    "TW": 125,
+    "BR": 84,
+    "PA": 46,
+    "US": 39,
+    "CL": 29,
+    "JP": 26,
+    "CR": 22
+   }
+  },
+  {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属",
+   "family_id": "termitidae",
+   "family_zh": "白蚁科",
+   "gbif_key": 2007285,
+   "records": 900,
+   "cells": 72,
+   "species": 113,
+   "file": "assets/geo/genus/amitermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007285",
+   "countries": {
+    "ZA": 587,
+    "AU": 170,
+    "BR": 55,
+    "CI": 33,
+    "US": 15,
+    "YE": 9,
+    "CO": 7,
+    "IQ": 7
+   }
+  },
+  {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属",
+   "family_id": "kalotermitidae",
+   "family_zh": "木白蚁科",
+   "gbif_key": 2007318,
+   "records": 900,
+   "cells": 40,
+   "species": 74,
+   "file": "assets/geo/genus/cryptotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007318",
+   "countries": {
+    "PT": 736,
+    "US": 47,
+    "ZA": 34,
+    "AU": 31,
+    "CR": 20,
+    "ES": 8,
+    "GP": 6,
+    "DE": 3
+   }
+  },
+  {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属",
+   "family_id": "termitidae",
+   "family_zh": "白蚁科",
+   "gbif_key": 4803123,
+   "records": 709,
+   "cells": 76,
+   "species": 69,
+   "file": "assets/geo/genus/microtermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/4803123",
+   "countries": {
+    "CI": 384,
+    "GH": 76,
+    "CG": 47,
+    "SN": 44,
+    "TG": 30,
+    "ZA": 25,
+    "PK": 21,
+    "MG": 19
+   }
+  },
+  {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属",
+   "family_id": "heterotermitidae",
+   "family_zh": "异白蚁科",
+   "gbif_key": 2007379,
+   "records": 900,
+   "cells": 170,
+   "species": 59,
+   "file": "assets/geo/genus/coptotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/2007379",
+   "countries": {
+    "US": 532,
+    "AU": 115,
+    "CR": 47,
+    "CO": 34,
+    "TW": 33,
+    "CN": 32,
+    "MX": 30,
+    "BR": 23
+   }
+  },
+  {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属",
+   "family_id": "termitidae",
+   "family_zh": "白蚁科",
+   "gbif_key": 4803134,
+   "records": 900,
+   "cells": 168,
+   "species": 57,
+   "file": "assets/geo/genus/macrotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/4803134",
+   "countries": {
+    "SG": 227,
+    "MY": 140,
+    "TH": 107,
+    "KE": 83,
+    "VN": 51,
+    "PH": 49,
+    "KH": 45,
+    "ID": 38
+   }
+  },
+  {
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "zh": "杆白蚁属",
+   "family_id": "stylotermitidae",
+   "family_zh": "杆白蚁科",
+   "gbif_key": 4802749,
+   "records": 3,
+   "cells": 2,
+   "species": 45,
+   "file": "assets/geo/genus/stylotermes.geojson",
+   "gbif_url": "https://www.gbif.org/species/4802749",
+   "countries": {
+    "CN": 2,
+    "TW": 1
+   }
+  }
+ ]
+}

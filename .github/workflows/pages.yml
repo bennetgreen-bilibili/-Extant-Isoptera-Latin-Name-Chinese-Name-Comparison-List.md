@@ -52,6 +52,31 @@ jobs:
       - name: Build dataset package (DOI export)
         run: python .github/workflows/build_dataset.py --write
 
+      # ------------------------------------------------------------------
+      # 外部数据与增强产物的校验（离线；损坏的 JSON 在这里就暴露，但不阻断部署）。
+      # 数据缓存随仓库提交，因此构建不需要现场抓 3000+ 次 API；刷新方式见各 _tools/*.md：
+      #   python .github/workflows/build_authority_links.py --write   （GBIF / Catalogue of Life / Wikidata）
+      #   python .github/workflows/build_bsf_links.py --write         （Blattodea Species File 半自动对照）
+      #   python .github/workflows/build_species_photos.py --write    （iNaturalist + Wikimedia Commons 图片）
+      #   python .github/workflows/build_references.py --write        （Crossref 文献增强）
+      #   python .github/workflows/build_occurrence_geojson.py --write（GBIF 分布图）
+      # ------------------------------------------------------------------
+      - name: Verify external data caches (offline)
+        continue-on-error: true
+        run: |
+          python .github/workflows/build_authority_links.py --check
+          python .github/workflows/build_bsf_links.py --check
+          python .github/workflows/build_species_photos.py --check
+          python .github/workflows/build_references.py --verify
+          # GeoJSON 与 occurrence_summary.json 必须一一对应：既校验 JSON 合法，也防止孤儿/缺失文件
+          python -c "import glob,json,os; s=json.load(open('_data/occurrence_summary.json', encoding='utf-8')); listed={os.path.normpath(f['file']) for f in s['families']} | {os.path.normpath(g['file']) for g in (s.get('genera') or [])}; disk={os.path.normpath(p) for p in glob.glob('assets/geo/**/*.geojson', recursive=True)}; [json.load(open(p, encoding='utf-8')) for p in disk]; missing=listed-disk; orphan=disk-listed; print('geo artefacts OK (%d files)' % len(disk)); raise SystemExit(1 if (missing or orphan) else 0)"
+
+      # 构建时增量刷新外部权威库：只用已提交缓存 + 过期条目，最多 120 秒；
+      # 因此部署版可能比仓库缓存新，但绝不让构建因外部 API 变慢/失败而卡住。
+      - name: Refresh authority links (budgeted, non-blocking)
+        continue-on-error: true
+        run: python .github/workflows/build_authority_links.py --write --refresh --stale-days 30 --budget 120
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

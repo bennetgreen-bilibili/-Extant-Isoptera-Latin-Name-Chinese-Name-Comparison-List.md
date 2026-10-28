@@ -12,6 +12,8 @@ zh-CN:
   nav_list: 名录
   nav_search: 全文搜索
   nav_stats: 统计
+  nav_distribution: 分布图
+  nav_references: 文献
   nav_data: 数据
   nav_download: 下载
   nav_blog: 博客
@@ -31,6 +33,8 @@ en:
   nav_list: List
   nav_search: Search
   nav_stats: Statistics
+  nav_distribution: Maps
+  nav_references: References
   nav_data: Data
   nav_download: Download
   nav_blog: Blog
@@ -50,6 +54,8 @@ es:
   nav_list: Listado
   nav_search: Búsqueda
   nav_stats: Estadísticas
+  nav_distribution: Mapas
+  nav_references: Referencias
   nav_data: Datos
   nav_download: Descargas
   nav_blog: Blog

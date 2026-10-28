@@ -75,4 +75,22 @@ permalink: /es/data/
 
 <ul>
   <li><a href="{{ site.base_url }}/search-index.json">Índice de búsqueda (search-index.json)</a> para el cuadro de búsqueda</li>
+
+<h2 id="authority">Cotejo con bases de datos externas</h2>
+
+<p>El bloque «Otras bases de datos» de cada página de especie lo genera <code>.github/workflows/build_authority_links.py</code> consultando la
+<a href="https://api.gbif.org/v1/species/match">API de GBIF Backbone</a>,
+<a href="https://api.checklistbank.org/">API de Catalogue of Life (ChecklistBank)</a> y
+<a href="https://query.wikidata.org/">Wikidata SPARQL</a> (P225) por nombre científico. Solo añade enlaces y avisos de consistencia: <strong>los datos de la lista no se modifican</strong>.
+{%- if site.data.authority_links %}{%- assign A = site.data.authority_links %}{%- assign C = A.meta.counts %}
+Caché actual (consultada el {{ A.meta.generated | slice: 0, 10 }}): de <strong>{{ C.total }}</strong> nombres, <strong>{{ C.gbif_linked }}</strong> enlazan con GBIF ({{ C.gbif_accepted }} aceptados, {{ C.gbif_synonym }} sinónimos), <strong>{{ C.col_linked }}</strong> con Catalogue of Life y <strong>{{ C.wikidata }}</strong> tienen elemento en Wikidata; <strong>{{ C.consistent }}</strong> coinciden con ambos nombres aceptados y <strong>{{ C.flagged }}</strong> llevan un aviso.{%- endif %}</p>
+
+<ul>
+  <li><a href="{{ site.base_url }}/downloads/isoptera-authority-crossref.csv"><code>isoptera-authority-crossref.csv</code></a> &mdash; tabla de cotejo (ID de GBIF / Catalogue of Life, estados, nombres aceptados, QID de Wikidata y marcas) para descargar y revisar.</li>
+  <li>Regla de enlace: GBIF solo se enlaza cuando <code>matchType=EXACT</code> (o FUZZY con confianza &ge; 95) y el rango es especie/subespecie.</li>
+  <li>Catálogo mundial: Blattodea Species File (<a href="https://cockroach.speciesfile.org">cockroach.speciesfile.org</a>, que absorbió el antiguo Isoptera Species File){% if site.data.bsf_links %}{% assign B = site.data.bsf_links.meta.counts %} &mdash; <strong>{{ B.valid }}</strong> nombres válidos y <strong>{{ B.synonym }}</strong> sinónimos emparejados automáticamente; <strong>{{ B.ambiguous }}</strong> dudosos y <strong>{{ B.missing }}</strong> no encontrados.{% endif %}</li>
+  <li>Datos estructurados: las páginas de especie emiten JSON-LD schema.org <code>Taxon</code> + <code>BreadcrumbList</code> con <code>sameAs</code> a estos registros y <code>isPartOf</code> al Dataset del sitio.</li>
+  <li><a href="{{ site.base_url }}/data/references.json"><code>data/references.json</code></a> &mdash; datos enriquecidos con Crossref de las 77 referencias (DOI, campos de Crossref, citas GB/T 7714 / APA / Vancouver, BibTeX / RIS / CSL-JSON); véase la <a href="{{ site.base_url }}/references/">página de referencias</a>.</li>
+</ul>
+
 </ul>

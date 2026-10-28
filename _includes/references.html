@@ -1,0 +1,154 @@
+{%- comment -%}
+  参考文献列表（77 条），数据来自 _data/references.json（.github/workflows/build_references.py 生成）。
+  assets/references.css 与 assets/references.js 由 _layouts/default.html 在 page.url 含 '/references' 时加载，
+  本文件不重复引入（否则脚本会执行两次：复制触发两次、导出下载两份）。
+  为什么这个文件几乎没有空行：Jekyll 的 kramdown 在空行处结束 HTML 块，块中间出现空行会被当成
+  Markdown 重新解析，破坏 <div>/<ol>/<li> 的嵌套。所以 <div class="refs"> 到 </div> 之间保持连续。
+  约定：
+    · 只读一次数据：assign refs = site.data.references.references
+    · 无 JavaScript 也完整可用：GB/T 引用、DOI/Crossref 链接、APA/Vancouver/BibTeX/RIS（<details>）都是静态 HTML
+    · 复制按钮由 assets/references.js 增强；「导出 CSL-JSON」默认 hidden，只有 JS 运行时才显示
+    · 文案：动作按钮随 page.lang；状态徽章按站点惯例中/英/西三语并排（.fact-en / .fact-es）
+{%- endcomment -%}
+{%- assign refs = site.data.references.references -%}
+{%- assign refmeta = site.data.references.meta -%}
+{%- assign counts = refmeta.counts -%}
+{%- if page.lang == 'en' -%}
+  {%- assign L_STAT_TOTAL = 'references in total' -%}
+  {%- assign L_STAT_DOI = 'with a DOI' -%}
+  {%- assign L_STAT_RESOLVED = 'verified against Crossref' -%}
+  {%- assign L_STAT_CAND = 'with candidate DOIs to review' -%}
+  {%- assign L_STAT_BHL = 'with a BHL scan link' -%}
+  {%- assign L_GBT = 'Copy GB/T' -%}
+  {%- assign L_COPIED = 'Copied' -%}
+  {%- assign L_COPY_HINT = 'Copy to clipboard' -%}
+  {%- assign L_MORE = 'Other formats and copies' -%}
+  {%- assign L_ORIGINAL = 'Source entry' -%}
+  {%- assign L_CANDIDATES = 'Candidate DOIs from the Crossref search — for manual review only' -%}
+  {%- assign L_DOI = 'DOI' -%}
+  {%- assign L_CROSSREF = 'Crossref record' -%}
+  {%- assign L_SEARCH = 'Search Crossref' -%}
+  {%- assign L_EXPORT = 'Export CSL-JSON' -%}
+  {%- assign L_DOWNLOAD = 'Download references.json' -%}
+  {%- assign L_EMPTY = 'Reference data is not available yet: run .github/workflows/build_references.py --write.' -%}
+{%- elsif page.lang == 'es' -%}
+  {%- assign L_STAT_TOTAL = 'referencias en total' -%}
+  {%- assign L_STAT_DOI = 'con DOI' -%}
+  {%- assign L_STAT_RESOLVED = 'verificadas en Crossref' -%}
+  {%- assign L_STAT_CAND = 'con DOI candidato por revisar' -%}
+  {%- assign L_STAT_BHL = 'con enlace a un escaneo de BHL' -%}
+  {%- assign L_GBT = 'Copiar GB/T' -%}
+  {%- assign L_COPIED = 'Copiado' -%}
+  {%- assign L_COPY_HINT = 'Copiar al portapapeles' -%}
+  {%- assign L_MORE = 'Otros formatos y copias' -%}
+  {%- assign L_ORIGINAL = 'Entrada original' -%}
+  {%- assign L_CANDIDATES = 'DOI candidatos de la búsqueda en Crossref: solo para revisión manual' -%}
+  {%- assign L_DOI = 'DOI' -%}
+  {%- assign L_CROSSREF = 'Registro Crossref' -%}
+  {%- assign L_SEARCH = 'Buscar en Crossref' -%}
+  {%- assign L_EXPORT = 'Exportar CSL-JSON' -%}
+  {%- assign L_DOWNLOAD = 'Descargar references.json' -%}
+  {%- assign L_EMPTY = 'Los datos de referencias aún no están disponibles: ejecute .github/workflows/build_references.py --write.' -%}
+{%- else -%}
+  {%- assign L_STAT_TOTAL = '条参考文献' -%}
+  {%- assign L_STAT_DOI = '条带 DOI' -%}
+  {%- assign L_STAT_RESOLVED = '条经 Crossref 核对' -%}
+  {%- assign L_STAT_CAND = '条有候选 DOI 待核对' -%}
+  {%- assign L_STAT_BHL = '条附 BHL 扫描' -%}
+  {%- assign L_GBT = '复制 GB/T' -%}
+  {%- assign L_COPIED = '已复制' -%}
+  {%- assign L_COPY_HINT = '复制到剪贴板' -%}
+  {%- assign L_MORE = '其他格式与复制' -%}
+  {%- assign L_ORIGINAL = '原文条目' -%}
+  {%- assign L_CANDIDATES = 'Crossref 检索得到的候选 DOI，仅供人工核对' -%}
+  {%- assign L_DOI = 'DOI' -%}
+  {%- assign L_CROSSREF = 'Crossref 记录' -%}
+  {%- assign L_SEARCH = 'Crossref 检索' -%}
+  {%- assign L_EXPORT = '导出 CSL-JSON' -%}
+  {%- assign L_DOWNLOAD = '下载 references.json' -%}
+  {%- assign L_EMPTY = '参考文献数据尚未生成：请运行 .github/workflows/build_references.py --write。' -%}
+{%- endif -%}
+
+{%- if refs -%}
+<div class="refs" id="refs-list">
+<ul class="refs-stats">
+<li><b>{{ counts.total }}</b> {{ L_STAT_TOTAL }}</li>
+<li><b>{{ counts.with_doi }}</b> {{ L_STAT_DOI }}</li>
+<li><b>{{ counts.crossref_resolved }}</b> {{ L_STAT_RESOLVED }}</li>
+<li><b>{{ counts.candidates }}</b> {{ L_STAT_CAND }}</li>
+<li class="refs-stat-muted">BHL <b>{{ counts.bhl }}</b> {{ L_STAT_BHL }}</li>
+</ul>
+<p class="refs-toolbar">
+<button class="refs-copy" type="button" id="refs-export-csl" hidden data-refs-export="{{ site.base_url }}/data/references.json" data-refs-filename="isoptera-references.csl.json" data-refs-copied="{{ L_COPIED }}">{{ L_EXPORT }}</button>
+<a class="refs-copy" href="{{ site.base_url }}/data/references.json" download>{{ L_DOWNLOAD }}</a>
+</p>
+<ol class="refs-list">
+{%- for ref in refs %}
+<li class="refs-item" id="ref-{{ ref.id }}">
+<div class="refs-head"><span class="refs-num">{{ ref.id }}</span>
+{%- if ref.doi_status == 'original' %}
+<span class="refs-badge refs-badge-ok">原文 DOI <span class="fact-en" lang="en">DOI from the source</span> <span class="fact-es" lang="es">DOI del original</span></span>
+{%- elsif ref.doi_status == 'matched_candidate' %}
+<span class="refs-badge refs-badge-warn">自动匹配待核对 <span class="fact-en" lang="en">auto-matched, not yet verified</span> <span class="fact-es" lang="es">coincidencia automática sin verificar</span></span>
+{%- else %}
+<span class="refs-badge">原文无 DOI <span class="fact-en" lang="en">no DOI in the source</span> <span class="fact-es" lang="es">sin DOI en el original</span></span>
+{%- endif %}
+{%- if ref.crossref_error and ref.crossref_error != '' %}
+<span class="refs-badge refs-badge-warn">Crossref 未返回记录 <span class="fact-en" lang="en">no Crossref record</span></span>
+{%- endif %}
+{%- if ref.bhl %}
+<span class="refs-badge refs-badge-ok">BHL 原始描述 <span class="fact-en" lang="en">BHL record</span></span>
+{%- endif %}
+</div>
+<p class="refs-cite" id="ref-{{ ref.id }}-gbt">{{ ref.formatted.gbt | escape }}</p>
+<p class="refs-links">
+{%- if ref.links.doi and ref.links.doi != '' %}<a href="{{ ref.links.doi | escape }}" target="_blank" rel="noopener">{{ L_DOI }} {{ ref.doi | escape }}</a>{% endif -%}
+{%- if ref.links.crossref and ref.links.crossref != '' %}<a href="{{ ref.links.crossref | escape }}" target="_blank" rel="noopener">{{ L_CROSSREF }}</a>{% endif -%}
+{%- if ref.links.search and ref.links.search != '' %}<a href="{{ ref.links.search | escape }}" target="_blank" rel="noopener">{{ L_SEARCH }}</a>{% endif -%}
+{%- if ref.bhl %}<a href="{{ ref.bhl.url | escape }}" target="_blank" rel="noopener">BHL</a>{% endif -%}
+</p>
+<div class="refs-actions">
+<button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-gbt" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">{{ L_GBT }}</button>
+<button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-bibtex" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">BibTeX</button>
+<button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-ris" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">RIS</button>
+</div>
+<details class="refs-more">
+<summary>{{ L_MORE }} <span class="fact-en" lang="en">Other formats and copies</span> <span class="fact-es" lang="es">Otros formatos y copias</span></summary>
+<div class="refs-block">
+<div class="refs-block-head"><h4>APA 7</h4><button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-apa" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">{{ L_GBT | replace: 'GB/T', 'APA' }}</button></div>
+<pre class="refs-pre" id="ref-{{ ref.id }}-apa">{{ ref.formatted.apa | escape }}</pre>
+</div>
+<div class="refs-block">
+<div class="refs-block-head"><h4>Vancouver</h4><button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-vancouver" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">{{ L_GBT | replace: 'GB/T', 'Vancouver' }}</button></div>
+<pre class="refs-pre" id="ref-{{ ref.id }}-vancouver">{{ ref.formatted.vancouver | escape }}</pre>
+</div>
+<div class="refs-block">
+<div class="refs-block-head"><h4>BibTeX</h4><button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-bibtex" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">{{ L_GBT | replace: 'GB/T', 'BibTeX' }}</button></div>
+<pre class="refs-pre" id="ref-{{ ref.id }}-bibtex">{{ ref.bibtex | escape }}</pre>
+</div>
+<div class="refs-block">
+<div class="refs-block-head"><h4>RIS</h4><button class="refs-copy" type="button" data-refs-copy="#ref-{{ ref.id }}-ris" data-refs-copied="{{ L_COPIED }}" title="{{ L_COPY_HINT }}">{{ L_GBT | replace: 'GB/T', 'RIS' }}</button></div>
+<pre class="refs-pre" id="ref-{{ ref.id }}-ris">{{ ref.ris | escape }}</pre>
+</div>
+<div class="refs-block">
+<div class="refs-block-head"><h4>{{ L_ORIGINAL }}</h4></div>
+<p class="refs-original">{{ ref.citation | escape }}</p>
+</div>
+{%- if ref.candidates and ref.candidates.size > 0 %}
+<div class="refs-block">
+<div class="refs-block-head"><h4>{{ L_CANDIDATES }}</h4></div>
+<ul class="refs-candidates">
+{%- for cand in ref.candidates %}
+<li><a href="{{ cand.links.doi | escape }}" target="_blank" rel="noopener">{{ cand.doi | escape }}</a>{% if cand.title and cand.title != '' %} — {{ cand.title | escape }}{% endif %}{% if cand.container_title and cand.container_title != '' %} · {{ cand.container_title | escape }}{% endif %}{% if cand.year and cand.year != '' %} ({{ cand.year | escape }}){% endif %}</li>
+{%- endfor %}
+</ul>
+</div>
+{%- endif %}
+</details>
+</li>
+{%- endfor %}
+</ol>
+</div>
+{%- else -%}
+<p class="refs-note">{{ L_EMPTY }}</p>
+{%- endif -%}

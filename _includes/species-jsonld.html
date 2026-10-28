@@ -1,0 +1,66 @@
+{%- comment -%}
+  物种页结构化数据：schema.org Taxon + BreadcrumbList（JSON-LD）。
+  与首页的 Dataset JSON-LD（@id 指向 {{ site.base_url }}/#dataset）共同构成实体图：
+    Taxon --isPartOf--> Dataset；Taxon --sameAs--> GBIF / Catalogue of Life / Wikidata / Blattodea Species File。
+  数据来自 front matter + _data/authority_links.json + _data/bsf_links.json；缺失时自动降级。
+{%- endcomment -%}
+{%- assign EXT = site.external -%}
+{%- assign AUTH = nil -%}
+{%- if site.data.authority_links -%}{%- assign AUTH = site.data.authority_links.taxa[page.latin] -%}{%- endif -%}
+{%- assign BSF = nil -%}
+{%- if site.data.bsf_links -%}{%- assign BSF = site.data.bsf_links.name_map[page.latin] -%}{%- endif -%}
+{%- capture sci_name -%}{{ page.latin }}{% if page.author_year %} {{ page.author_year }}{% endif %}{%- endcapture -%}
+{%- assign rank_label = 'Species' -%}
+{%- if page.rank == 'subspecies' -%}{%- assign rank_label = 'Subspecies' -%}{%- endif -%}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Taxon",
+   "@id": "{{ site.base_url }}{{ page.url }}#taxon",
+   "name": {{ page.latin | jsonify }},
+   "scientificName": {{ sci_name | jsonify }},
+   "taxonRank": {{ rank_label | jsonify }},
+   "alternateName": [{{ page.zh | jsonify }}],
+   "url": "{{ site.base_url }}{{ page.url }}",
+   "isPartOf": {"@type": "Dataset", "@id": "{{ site.base_url }}/#dataset"},
+   "parentTaxon": {% if page.rank == 'subspecies' %}{"@type": "Taxon", "name": {{ page.parent_latin | jsonify }}, "alternateName": [{{ page.parent_zh | jsonify }}], "url": "{{ site.base_url }}/species/{{ page.parent_slug }}/"}{% else %}{"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}/list/#{{ page.genus_id }}"}{% endif %}
+   {%- assign first = true -%}
+   {%- if AUTH.gbif.key or AUTH.col.id or AUTH.wd or BSF.valid_otu or BSF.otu -%}
+   ,"sameAs": [
+     {%- if AUTH.gbif.key -%}"{{ EXT.gbif_species }}/{{ AUTH.gbif.key }}"{%- assign first = false -%}{%- endif -%}
+     {%- if AUTH.col.id -%}{% unless first %},{% endunless %}"{{ EXT.col_taxon }}/{{ AUTH.col.id }}"{%- assign first = false -%}{%- endif -%}
+     {%- if AUTH.wd -%}{% unless first %},{% endunless %}"{{ EXT.wikidata }}/{{ AUTH.wd }}"{%- assign first = false -%}{%- endif -%}
+     {%- if BSF.status == 'valid' and BSF.otu -%}{% unless first %},{% endunless %}"{{ EXT.bsf_otu }}/{{ BSF.otu }}/overview"{%- assign first = false -%}{%- endif -%}
+     {%- if BSF.status == 'synonym' and BSF.valid_otu -%}{% unless first %},{% endunless %}"{{ EXT.bsf_otu }}/{{ BSF.valid_otu }}/overview"{%- assign first = false -%}{%- endif -%}
+   ]
+   {%- endif -%}
+   {%- if AUTH.gbif.key or AUTH.col.id or AUTH.wd -%}
+   ,"identifier": [
+     {%- assign firstid = true -%}
+     {%- if AUTH.gbif.key -%}{"@type": "PropertyValue", "propertyID": "GBIF Backbone usageKey", "value": "{{ AUTH.gbif.key }}"}{%- assign firstid = false -%}{%- endif -%}
+     {%- if AUTH.col.id -%}{% unless firstid %},{% endunless %}{"@type": "PropertyValue", "propertyID": "Catalogue of Life ID", "value": "{{ AUTH.col.id }}"}{%- assign firstid = false -%}{%- endif -%}
+     {%- if AUTH.wd -%}{% unless firstid %},{% endunless %}{"@type": "PropertyValue", "propertyID": "Wikidata QID", "value": "{{ AUTH.wd }}"}{%- assign firstid = false -%}{%- endif -%}
+   ]
+   {%- endif -%}
+  },
+  {
+   "@type": "BreadcrumbList",
+   "@id": "{{ site.base_url }}{{ page.url }}#breadcrumb",
+   "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "名录 List", "item": "{{ site.base_url }}/list/"},
+    {"@type": "ListItem", "position": 2, "name": {{ page.family_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.family_id }}"},
+    {%- if page.subfamily_zh %}
+    {"@type": "ListItem", "position": 3, "name": {{ page.subfamily_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.subfamily_id }}"},
+    {"@type": "ListItem", "position": 4, "name": {{ page.genus_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.genus_id }}"},
+    {"@type": "ListItem", "position": 5, "name": {{ page.latin | jsonify }}, "item": "{{ site.base_url }}{{ page.url }}"}
+    {%- else %}
+    {"@type": "ListItem", "position": 3, "name": {{ page.genus_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.genus_id }}"},
+    {"@type": "ListItem", "position": 4, "name": {{ page.latin | jsonify }}, "item": "{{ site.base_url }}{{ page.url }}"}
+    {%- endif %}
+   ]
+  }
+ ]
+}
+</script>

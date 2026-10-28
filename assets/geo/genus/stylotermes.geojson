@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"properties":{"genus":"Stylotermes","genus_zh":"杆白蚁属","genus_id":"stylotermes","family":"Stylotermitidae","family_zh":"杆白蚁科","family_id":"stylotermitidae","gbif_key":4802749,"resolution":"genus_key","records":3,"cells":2,"grid":"1 degree","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[107.5,21.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,22.5]},"properties":{"n":1}}
+]
+}

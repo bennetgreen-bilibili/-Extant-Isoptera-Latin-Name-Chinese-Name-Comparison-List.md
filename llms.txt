@@ -12,6 +12,8 @@
 - [名录（完整对照表：支系—科—亚科—属—种，含属级嵌套目录）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
 - [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
+- [分布图（13 科 GBIF occurrence 记录聚合的 1° 网格地图，Leaflet；含方法、采样偏差与数据说明）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/distribution/)
+- [参考文献与 DOI（77 条文献的 Crossref 增强、GB/T/APA/Vancouver 引用与 BibTeX/RIS/CSL-JSON）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/references/)
 - [数据（机器可读结构化数据 JSON，按支系/科/亚科拆分，逐文件可访问）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
 - [留言（Giscus 留言板）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/)
@@ -22,6 +24,8 @@
 - [List (full checklist: clade–family–subfamily–genus–species)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/)
 - [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/search/)
 - [Statistics (species counts by family/subfamily/genus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/)
+- [Distribution maps (1° grid aggregated from GBIF occurrence records for the 13 families; Leaflet)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/distribution/)
+- [References & DOIs (77 references enriched via Crossref; GB/T, APA and Vancouver styles, BibTeX/RIS/CSL-JSON)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/references/)
 - [Data (machine-readable structured data JSON, split by taxon)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/data/)
 - [Download (files in downloads/ folder)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/)
 - [Guestbook (Giscus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/)
@@ -34,6 +38,8 @@
 - [Listado (lista comparativa completa: clado–familia–subfamilia–género–especie)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/list/)
 - [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/search/)
 - [Estadísticas (número de especies por rango: familia/subfamilia/género)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/stats/)
+- [Mapas de distribución (rejilla de 1° agregada de registros de GBIF para las 13 familias; Leaflet)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/distribution/)
+- [Referencias y DOI (77 referencias enriquecidas con Crossref; estilos GB/T, APA y Vancouver, BibTeX/RIS/CSL-JSON)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/references/)
 - [Datos (datos estructurados legibles por máquina, JSON, divididos por taxón)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/data/)
 - [Descargas (archivos de la carpeta downloads/)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/download/)
 - [Libro de visitas (Giscus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/guestbook/)
@@ -53,6 +59,13 @@
 - 归档包直接下载：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/downloads/isoptera-checklist-v2026.10.17.zip
 - 版本 DOI：10.5281/zenodo.23646836（2026.10.17 版）；概念 DOI（全部版本）：10.5281/zenodo.23646835；APA 引用格式见上述数据页；数据集说明（来源 / 方法 / 字段 / 限制 / 引用）：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/dataset/README.md
 - 引用数据集时优先使用 DOI；引用具体物种条目时请同时注明站点物种页 URL 与所用版本号。
+
+## 外部数据库与一致性核对（物种页）
+- 每个物种页有「其他数据库」区块，按学名自动链接到 GBIF Backbone、Catalogue of Life（ChecklistBank）、Wikidata（P225）与 Blattodea Species File（世界名录，含原 Isoptera Species File）。
+- 若 GBIF / Catalogue of Life 把本站学名视为异名，页面会显示「本站名 vs 外部接受名」提示并给出接受名与对方记录；**本站名录数据不因此改写**（只作提示）。
+- 逐条对照表（GBIF/COL ID、状态、接受名、Wikidata QID、差异标记）可下载：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/downloads/isoptera-authority-crossref.csv
+- 物种页另输出 schema.org Taxon + BreadcrumbList JSON-LD，sameAs 指向上述外部库条目，isPartOf 关联本站 Dataset 实体。
+- 开放许可照片（仅 CC0 / CC BY / CC BY-SA）来自 iNaturalist 与 Wikimedia Commons，逐张署名，热链原站。
 
 ## 内容要点（给 AI 参考）
 - 名录以 Krishna 等《Treatise on the Isoptera of the world》(2013) 与 Hellemans 等 (2024) 分类框架为基础整理。
