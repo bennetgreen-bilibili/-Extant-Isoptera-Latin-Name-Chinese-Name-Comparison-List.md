@@ -1,0 +1,45 @@
+name: Debug Jekyll build
+
+# 一次性诊断用：把 Jekyll 构建失败的完整错误尾部写进 Job Summary，
+# 便于不登录也能通过公开的 check-runs API 看到真正的报错。定位后请删除本文件。
+on:
+  push:
+    paths:
+      - ".github/workflows/debug-jekyll.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Install Jekyll and plugins
+        run: |
+          gem install jekyll -v 4.3.4 --no-document
+          gem install jekyll-seo-tag jekyll-sitemap --no-document
+
+      - name: Build with Jekyll (capture all output)
+        continue-on-error: true
+        run: jekyll build --trace 2>&1 | tee /tmp/jekyll.log
+
+      - name: Write error tail to job summary
+        if: always()
+        run: |
+          {
+            echo '### Jekyll build tail'
+            echo ''
+            echo '<details><summary>tail -c 15000</summary>'
+            echo ''
+            echo '```'
+            tail -c 15000 /tmp/jekyll.log 2>/dev/null || echo 'no log captured'
+            echo '```'
+            echo ''
+            echo '</details>'
+          } >> "$GITHUB_STEP_SUMMARY"
