@@ -1,7 +1,7 @@
 name: Debug Jekyll build
 
-# 一次性诊断用：把 Jekyll 构建失败的完整错误尾部写进 Job Summary，
-# 便于不登录也能通过公开的 check-runs API 看到真正的报错。定位后请删除本文件。
+# 一次性诊断：用 GitHub Pages 同款环境（github-pages gem / Jekyll 3.10）重建，
+# 把错误行以 ::error:: 注解形式暴露出来（注解可通过公开 API 读取）。定位后删除。
 on:
   push:
     paths:
@@ -18,28 +18,43 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2"
+          ruby-version: "3.1"
 
-      - name: Install Jekyll and plugins
-        run: |
-          gem install jekyll -v 4.3.4 --no-document
-          gem install jekyll-seo-tag jekyll-sitemap --no-document
+      - name: Install GitHub Pages gem (Jekyll 3.10 stack)
+        run: gem install github-pages -v 232 --no-document
 
-      - name: Build with Jekyll (capture all output)
+      - name: Build with Jekyll 3.10 (capture output)
         continue-on-error: true
-        run: jekyll build --trace 2>&1 | tee /tmp/jekyll.log
+        run: |
+          set +e
+          jekyll build --trace > /tmp/jekyll.log 2>&1
+          echo "exit=$?"
+          wc -l /tmp/jekyll.log
+          grep -n -E "Liquid Exception|Liquid syntax error|Error|error|Exception|Build Warning|Liquid Warning" /tmp/jekyll.log | head -20
 
-      - name: Write error tail to job summary
+      - name: Emit error lines as annotations
         if: always()
         run: |
-          {
-            echo '### Jekyll build tail'
-            echo ''
-            echo '<details><summary>tail -c 15000</summary>'
-            echo ''
-            echo '```'
-            tail -c 15000 /tmp/jekyll.log 2>/dev/null || echo 'no log captured'
-            echo '```'
-            echo ''
-            echo '</details>'
-          } >> "$GITHUB_STEP_SUMMARY"
+          python3 - <<'PY'
+          import re
+          try:
+              lines = open('/tmp/jekyll.log', encoding='utf-8', errors='replace').read().splitlines()
+          except FileNotFoundError:
+              print('::error::no jekyll.log captured')
+              raise SystemExit(0)
+          # 1) 优先输出 Liquid 异常块
+          hits = [l for l in lines if re.search(r'Liquid Exception|Liquid syntax error|Liquid Warning|Error:|Exception|Invalid|undefined', l)]
+          if not hits:
+              hits = lines[-12:]
+          seen = set()
+          out = []
+          for line in hits:
+              line = line.strip()
+              if not line or line in seen:
+                  continue
+              seen.add(line)
+              out.append(line)
+          for line in out[:10]:
+              print('::error::' + line[:900])
+          print('::warning::total log lines ' + str(len(lines)))
+          PY
