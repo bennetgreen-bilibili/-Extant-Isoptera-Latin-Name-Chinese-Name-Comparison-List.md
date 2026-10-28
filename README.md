@@ -93,7 +93,7 @@
 | Wikidata 条目（P225） | 2875（93.6%） |
 | 与两库接受名完全一致 / 带提示 | 2896（94.3%） / 175 |
 | Blattodea Species File 对照 | 有效名 2963、异名 3、待核对 62、未检索到 43（共 3071；抽查 20/20 页可通过） |
-| 开放许可照片 | 139 个物种、636 张（iNaturalist 570 + Wikimedia Commons 66） |
+| 开放许可照片 | 202 个物种、875 张（iNaturalist 758 + Wikimedia Commons 117） |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
 | 分布图 | 13 个科级 + 12 个属级 GeoJSON，共 6593 条 GBIF 记录聚合进 1° 网格（303 KB） |
 

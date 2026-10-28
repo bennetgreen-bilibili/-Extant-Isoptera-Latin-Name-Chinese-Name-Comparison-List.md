@@ -793,7 +793,15 @@ def main(argv=None):
             return True
         return name in no_photos[source]
 
-    pending = [name for name in names if not all(done(name, source) for source in sources)]
+    # plan[name] = the sources this taxon still misses; a source that already has
+    # photos is never re-queried (and therefore never accidentally emptied) unless
+    # --refresh says so
+    plan = {}
+    for name in names:
+        todo = [source for source in sources if not done(name, source)]
+        if todo:
+            plan[name] = todo
+    pending = list(plan)
     print("%d taxa in list, %d already cached, %d to query (%s)%s"
           % (len(names), len(names) - len(pending), len(pending), "+".join(sources),
              ", budget %ds" % args.budget if args.budget else ""))
@@ -808,9 +816,9 @@ def main(argv=None):
     stopped = False
 
     def fetch_taxon(latin):
-        """Worker: query every active source for one taxon (runs in a thread)."""
+        """Worker: query the sources this taxon still misses (runs in a thread)."""
         results = {}
-        for source in sources:
+        for source in plan[latin]:
             if source == "inaturalist":
                 results[source] = fetch_inaturalist(clients[source], latin)
             else:
@@ -832,7 +840,7 @@ def main(argv=None):
                 stopped = True
                 break
             failed = False
-            for source in sources:
+            for source in plan[latin]:
                 result = results[source]
                 if result is None:
                     failed = True
