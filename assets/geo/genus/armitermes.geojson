@@ -1,14 +1,15 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"genus","genus":"Armitermes","genus_zh":"戟白蚁属","genus_id":"armitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803392,"records":12,"cells":8,"species":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Armitermes","genus_zh":"戟白蚁属","genus_id":"armitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803392,"records":17,"cells":9,"species":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-41.5,-21.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-17.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-16.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-38.5,-12.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-50.5,-7.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-50.5,-7.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-70.5,1.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-78.5,2.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":5}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,10.5]},"properties":{"n":2}}
 ]
 }

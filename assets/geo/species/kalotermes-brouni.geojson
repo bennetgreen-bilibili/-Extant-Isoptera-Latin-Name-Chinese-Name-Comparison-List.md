@@ -1,13 +1,19 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Kalotermes brouni","species_zh":"布龙木白蚁","slug":"kalotermes-brouni","rank":"species","type_species":false,"genus":"Kalotermes","genus_zh":"木白蚁属","genus_id":"kalotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":4802858,"records":13,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Kalotermes brouni","species_zh":"布龙木白蚁","slug":"kalotermes-brouni","rank":"species","type_species":false,"genus":"Kalotermes","genus_zh":"木白蚁属","genus_id":"kalotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":4802858,"records":31,"cells":13,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[172.5,-43.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-176.5,-43.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[172.5,-43.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[171.5,-41.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-41.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[173.5,-41.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-41.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-41.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[173.5,-40.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-40.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-40.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-39.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-36.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[175.5,-37.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-36.5]},"properties":{"n":13}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-35.5]},"properties":{"n":2}}
 ]
 }

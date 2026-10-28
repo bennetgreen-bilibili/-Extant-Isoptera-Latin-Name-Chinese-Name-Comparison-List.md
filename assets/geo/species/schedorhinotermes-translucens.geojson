@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Schedorhinotermes translucens","species_zh":"透明长鼻白蚁","slug":"schedorhinotermes-translucens","rank":"species","type_species":false,"genus":"Schedorhinotermes","genus_zh":"长鼻白蚁属","genus_id":"schedorhinotermes","family":"RHINOTERMITIDAE","family_zh":"鼻白蚁科","family_id":"rhinotermitidae","gbif_key":9517154,"records":1,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[162.5,-10.5]},"properties":{"n":1}}
+]
+}

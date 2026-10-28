@@ -1,15 +1,21 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Reticulitermes urbis","species_zh":"城市散白蚁","slug":"reticulitermes-urbis","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":4514001,"records":44,"cells":9,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Reticulitermes urbis","species_zh":"城市散白蚁","slug":"reticulitermes-urbis","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":4514001,"records":51,"cells":15,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[22.5,36.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[23.5,36.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[21.5,38.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[19.5,39.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[20.5,39.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[23.5,39.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[17.5,40.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[18.5,40.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[17.5,42.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[5.5,43.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[7.5,43.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,43.5]},"properties":{"n":6}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[16.5,43.5]},"properties":{"n":20}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[16.5,43.5]},"properties":{"n":20}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[5.5,45.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[2.5,46.5]},"properties":{"n":1}}
 ]
 }

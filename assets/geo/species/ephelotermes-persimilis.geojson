@@ -1,12 +1,17 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Ephelotermes persimilis","species_zh":"相似棒颚白蚁","slug":"ephelotermes-persimilis","rank":"species","type_species":false,"genus":"Ephelotermes","genus_zh":"棒颚白蚁属","genus_id":"ephelotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803377,"records":8,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Ephelotermes persimilis","species_zh":"相似棒颚白蚁","slug":"ephelotermes-persimilis","rank":"species","type_species":false,"genus":"Ephelotermes","genus_zh":"棒颚白蚁属","genus_id":"ephelotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803377,"records":17,"cells":11,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-32.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-32.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-31.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-31.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-31.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-30.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-30.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-29.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[117.5,-29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,-28.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[115.5,-28.5]},"properties":{"n":1}}
 ]
 }

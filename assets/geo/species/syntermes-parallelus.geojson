@@ -1,8 +1,11 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Syntermes parallelus","species_zh":"平行聚白蚁","slug":"syntermes-parallelus","rank":"species","type_species":false,"genus":"Syntermes","genus_zh":"聚白蚁属","genus_id":"syntermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9655682,"records":2,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Syntermes parallelus","species_zh":"平行聚白蚁","slug":"syntermes-parallelus","rank":"species","type_species":false,"genus":"Syntermes","genus_zh":"聚白蚁属","genus_id":"syntermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9655682,"records":10,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-54.5,2.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-54.5,2.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,3.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-63.5,10.5]},"properties":{"n":3}}
 ]
 }

@@ -1,13 +1,14 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Macrotermes herus","species_zh":"优势大白蚁","slug":"macrotermes-herus","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9664034,"records":72,"cells":12,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Macrotermes herus","species_zh":"优势大白蚁","slug":"macrotermes-herus","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9664034,"records":75,"cells":13,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[39.5,-3.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,-1.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,-1.5]},"properties":{"n":16}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[37.5,-1.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,-0.5]},"properties":{"n":18}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,0.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,-0.5]},"properties":{"n":19}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[37.5,-0.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,0.5]},"properties":{"n":12}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,0.5]},"properties":{"n":15}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[36.5,0.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[37.5,0.5]},"properties":{"n":2}},

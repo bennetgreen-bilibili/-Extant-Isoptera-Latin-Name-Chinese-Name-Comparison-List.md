@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Labiotermes labralis","species_zh":"细唇厚唇白蚁","slug":"labiotermes-labralis","rank":"species","type_species":true,"genus":"Labiotermes","genus_zh":"厚唇白蚁属","genus_id":"labiotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8275978,"records":110,"cells":36,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Labiotermes labralis","species_zh":"细唇厚唇白蚁","slug":"labiotermes-labralis","rank":"species","type_species":true,"genus":"Labiotermes","genus_zh":"厚唇白蚁属","genus_id":"labiotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8275978,"records":117,"cells":36,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.5,-22.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-40.5,-19.5]},"properties":{"n":1}},
@@ -21,7 +21,7 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-34.5,-8.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-50.5,-7.5]},"properties":{"n":8}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-51.5,-6.5]},"properties":{"n":4}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-4.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-3.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-60.5,-3.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-60.5,-2.5]},"properties":{"n":7}},
@@ -35,8 +35,8 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,2.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-60.5,2.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,3.5]},"properties":{"n":4}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,4.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":1}}
 ]
 }

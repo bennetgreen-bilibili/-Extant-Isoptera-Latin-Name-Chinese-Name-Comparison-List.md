@@ -1,10 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Cahuallitermes intermedius","species_zh":"中间弃白蚁","slug":"cahuallitermes-intermedius","rank":"species","type_species":true,"genus":"Cahuallitermes","genus_zh":"弃白蚁属","genus_id":"cahuallitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007283,"records":300,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Cahuallitermes intermedius","species_zh":"中间弃白蚁","slug":"cahuallitermes-intermedius","rank":"species","type_species":true,"genus":"Cahuallitermes","genus_zh":"弃白蚁属","genus_id":"cahuallitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007283,"records":353,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,18.5]},"properties":{"n":241}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5,19.5]},"properties":{"n":41}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,19.5]},"properties":{"n":17}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,19.5]},"properties":{"n":70}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-87.5,20.5]},"properties":{"n":1}}
 ]
 }

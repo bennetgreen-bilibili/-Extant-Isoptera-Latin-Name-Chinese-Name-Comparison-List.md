@@ -1,9 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Macrotermes carbonarius","species_zh":"炭色大白蚁","slug":"macrotermes-carbonarius","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9769827,"records":595,"cells":43,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Macrotermes carbonarius","species_zh":"炭色大白蚁","slug":"macrotermes-carbonarius","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9769827,"records":597,"cells":44,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[102.5,1.5]},"properties":{"n":5}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[103.5,1.5]},"properties":{"n":216}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[114.5,1.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[101.5,2.5]},"properties":{"n":13}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[102.5,2.5]},"properties":{"n":8}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[102.5,3.5]},"properties":{"n":12}},

@@ -1,7 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Microcerotermes zuluensis","species_zh":"祖鲁锯白蚁","slug":"microcerotermes-zuluensis","rank":"species","type_species":false,"genus":"Microcerotermes","genus_zh":"锯白蚁属","genus_id":"microcerotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9131627,"records":9,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Microcerotermes zuluensis","species_zh":"祖鲁锯白蚁","slug":"microcerotermes-zuluensis","rank":"species","type_species":false,"genus":"Microcerotermes","genus_zh":"锯白蚁属","genus_id":"microcerotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9131627,"records":19,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[30.5,-30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[31.5,-28.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[32.5,-28.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,8.5]},"properties":{"n":9}}
 ]
 }

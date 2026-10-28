@@ -1,15 +1,26 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Drepanotermes daliensis","species_zh":"戴利镰白蚁","slug":"drepanotermes-daliensis","rank":"species","type_species":false,"genus":"Drepanotermes","genus_zh":"镰白蚁属","genus_id":"drepanotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803327,"records":23,"cells":9,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Drepanotermes daliensis","species_zh":"戴利镰白蚁","slug":"drepanotermes-daliensis","rank":"species","type_species":false,"genus":"Drepanotermes","genus_zh":"镰白蚁属","genus_id":"drepanotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803327,"records":64,"cells":20,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-20.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[119.5,-20.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[124.5,-18.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[125.5,-18.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[123.5,-17.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[124.5,-17.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-17.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[134.5,-17.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[141.5,-17.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-16.5]},"properties":{"n":9}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[134.5,-16.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[135.5,-16.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[136.5,-16.5]},"properties":{"n":11}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-14.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[145.5,-16.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-15.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-14.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,-14.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-13.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-13.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[134.5,-12.5]},"properties":{"n":1}}
 ]
 }

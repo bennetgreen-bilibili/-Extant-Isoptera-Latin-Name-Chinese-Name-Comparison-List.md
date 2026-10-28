@@ -1,8 +1,8 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Armitermes armiger","species_zh":"具戟戟白蚁","slug":"armitermes-armiger","rank":"species","type_species":true,"genus":"Armitermes","genus_zh":"戟白蚁属","genus_id":"armitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9686351,"records":6,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Armitermes armiger","species_zh":"具戟戟白蚁","slug":"armitermes-armiger","rank":"species","type_species":true,"genus":"Armitermes","genus_zh":"戟白蚁属","genus_id":"armitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9686351,"records":7,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":5}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,10.5]},"properties":{"n":2}}
 ]
 }

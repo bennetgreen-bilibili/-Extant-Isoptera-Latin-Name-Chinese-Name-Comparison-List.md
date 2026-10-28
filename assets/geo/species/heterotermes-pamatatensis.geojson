@@ -1,0 +1,7 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"species","species":"Heterotermes pamatatensis","species_zh":"帕玛塔塔异白蚁","slug":"heterotermes-pamatatensis","rank":"species","type_species":false,"genus":"Heterotermes","genus_zh":"异白蚁属","genus_id":"heterotermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":9658129,"records":2,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-5.5]},"properties":{"n":2}}
+]
+}

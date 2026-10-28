@@ -1,11 +1,12 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Macrotermes lilljeborgi","species_zh":"利勒伯格大白蚁","slug":"macrotermes-lilljeborgi","rank":"species","type_species":true,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8967175,"records":8,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Macrotermes lilljeborgi","species_zh":"利勒伯格大白蚁","slug":"macrotermes-lilljeborgi","rank":"species","type_species":true,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8967175,"records":9,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[12.5,0.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[14.5,0.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,0.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,2.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[12.5,3.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[12.5,3.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[8.5,4.5]},"properties":{"n":1}}
 ]
 }

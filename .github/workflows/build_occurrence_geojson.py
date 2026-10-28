@@ -435,9 +435,15 @@ def pull_genus(client, genus_key, cap):
         records = list(cached.get("records") or [])
         if count == 0:
             return 0, []
-        if count is not None and len(records) >= min(count, cap):
+        pages_fetched = int(cached.get("pages_fetched") or 0)
+        pages_needed = 1 if count is None else max(
+            1, int(math.ceil(min(count, cap) / float(PAGE_LIMIT))))
+        if count is not None and (len(records) >= min(count, cap)
+                                  or pages_fetched >= pages_needed):
+            # every page was fetched; fewer compact records than count just
+            # means some raw records had no usable coordinates
             return count, records
-        offset = int(cached.get("pages_fetched") or 0) * PAGE_LIMIT
+        offset = pages_fetched * PAGE_LIMIT
 
     while True:
         if count is not None and len(records) >= min(count, cap):

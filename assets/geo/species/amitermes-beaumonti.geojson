@@ -1,10 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Amitermes beaumonti","species_zh":"博蒙特弓白蚁","slug":"amitermes-beaumonti","rank":"species","type_species":false,"genus":"Amitermes","genus_zh":"弓白蚁属","genus_id":"amitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007293,"records":593,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Amitermes beaumonti","species_zh":"博蒙特弓白蚁","slug":"amitermes-beaumonti","rank":"species","type_species":false,"genus":"Amitermes","genus_zh":"弓白蚁属","genus_id":"amitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007293,"records":596,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.5,8.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-78.5,8.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":7}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,17.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,18.5]},"properties":{"n":73}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,19.5]},"properties":{"n":512}}

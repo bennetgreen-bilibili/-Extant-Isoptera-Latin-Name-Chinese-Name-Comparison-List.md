@@ -1,10 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Reticulitermes speratus","species_zh":"栖北散白蚁","slug":"reticulitermes-speratus","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":8796429,"records":129,"cells":22,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Reticulitermes speratus","species_zh":"栖北散白蚁","slug":"reticulitermes-speratus","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":8796429,"records":168,"cells":25,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,30.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[133.5,34.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[135.5,34.5]},"properties":{"n":12}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[135.5,34.5]},"properties":{"n":32}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[137.5,34.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,34.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[126.5,35.5]},"properties":{"n":1}},
@@ -13,16 +13,19 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[136.5,35.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[137.5,35.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,35.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[139.5,35.5]},"properties":{"n":54}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[139.5,35.5]},"properties":{"n":55}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[127.5,36.5]},"properties":{"n":25}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[128.5,36.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[136.5,36.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[137.5,36.5]},"properties":{"n":11}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,36.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[139.5,36.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[140.5,36.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[126.5,37.5]},"properties":{"n":7}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[127.5,37.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[128.5,37.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[139.5,38.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[104.5,38.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[139.5,38.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[3.5,42.5]},"properties":{"n":4}}
 ]
 }

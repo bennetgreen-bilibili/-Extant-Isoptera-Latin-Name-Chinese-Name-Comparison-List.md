@@ -1,8 +1,9 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Anoplotermes fumosus","species_zh":"烟色解甲白蚁","slug":"anoplotermes-fumosus","rank":"species","type_species":false,"genus":"Anoplotermes","genus_zh":"解甲白蚁属","genus_id":"anoplotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007277,"records":28,"cells":17,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Anoplotermes fumosus","species_zh":"烟色解甲白蚁","slug":"anoplotermes-fumosus","rank":"species","type_species":false,"genus":"Anoplotermes","genus_zh":"解甲白蚁属","genus_id":"anoplotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":2007277,"records":39,"cells":18,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-59.5,-2.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-94.5,18.5]},"properties":{"n":11}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-100.5,20.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5,25.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5,26.5]},"properties":{"n":2}},

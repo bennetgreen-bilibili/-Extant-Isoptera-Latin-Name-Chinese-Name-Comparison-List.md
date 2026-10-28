@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Macrotermes bellicosus","species_zh":"勇猛大白蚁","slug":"macrotermes-bellicosus","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9656725,"records":89,"cells":23,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Macrotermes bellicosus","species_zh":"勇猛大白蚁","slug":"macrotermes-bellicosus","rank":"species","type_species":false,"genus":"Macrotermes","genus_zh":"大白蚁属","genus_id":"macrotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9656725,"records":134,"cells":34,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[39.5,-3.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[34.5,-1.5]},"properties":{"n":2}},
@@ -10,20 +10,31 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,0.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[35.5,1.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[31.5,3.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,5.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":13}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,5.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,5.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,5.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":25}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,6.5]},"properties":{"n":7}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.5,6.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[0.5,6.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[1.5,6.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[5.5,6.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[8.5,6.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,7.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,8.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-3.5,8.5]},"properties":{"n":26}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.5,8.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,9.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,9.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[2.5,9.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[10.5,9.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[0.5,10.5]},"properties":{"n":5}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[1.5,10.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-14.5,11.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,11.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-14.5,12.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,13.5]},"properties":{"n":5}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,14.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-14.5,13.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-17.5,14.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,14.5]},"properties":{"n":3}}
 ]
 }

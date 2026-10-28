@@ -1,7 +1,8 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Anoplotermes susanae","species_zh":"苏珊解甲白蚁","slug":"anoplotermes-susanae","rank":"species","type_species":false,"genus":"Anoplotermes","genus_zh":"解甲白蚁属","genus_id":"anoplotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":12255463,"records":8,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Anoplotermes susanae","species_zh":"苏珊解甲白蚁","slug":"anoplotermes-susanae","rank":"species","type_species":false,"genus":"Anoplotermes","genus_zh":"解甲白蚁属","genus_id":"anoplotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":12255463,"records":9,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,5.5]},"properties":{"n":8}}
 ]
 }

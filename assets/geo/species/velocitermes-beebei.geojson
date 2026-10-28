@@ -1,8 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Velocitermes beebei","species_zh":"毕比快白蚁","slug":"velocitermes-beebei","rank":"species","type_species":false,"genus":"Velocitermes","genus_zh":"快白蚁属","genus_id":"velocitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8940253,"records":4,"cells":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Velocitermes beebei","species_zh":"毕比快白蚁","slug":"velocitermes-beebei","rank":"species","type_species":false,"genus":"Velocitermes","genus_zh":"快白蚁属","genus_id":"velocitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8940253,"records":8,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-65.5,-9.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":2}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-9.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-58.5,6.5]},"properties":{"n":1}}
 ]
 }

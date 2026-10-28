@@ -1,10 +1,12 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Embiratermes chagresi","species_zh":"查格雷斯生白蚁","slug":"embiratermes-chagresi","rank":"species","type_species":false,"genus":"Embiratermes","genus_zh":"生白蚁属","genus_id":"embiratermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9655013,"records":6,"cells":5,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Embiratermes chagresi","species_zh":"查格雷斯生白蚁","slug":"embiratermes-chagresi","rank":"species","type_species":false,"genus":"Embiratermes","genus_zh":"生白蚁属","genus_id":"embiratermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":9655013,"records":57,"cells":7,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-78.5,0.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,5.5]},"properties":{"n":33}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,6.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,9.5]},"properties":{"n":17}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-85.5,10.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.5,10.5]},"properties":{"n":2}}
 ]

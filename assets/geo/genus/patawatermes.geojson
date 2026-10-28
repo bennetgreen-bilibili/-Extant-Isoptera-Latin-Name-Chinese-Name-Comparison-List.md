@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"genus","genus":"Patawatermes","genus_zh":"帕塔瓦白蚁属","genus_id":"patawatermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10676670,"records":157,"cells":28,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"genus","genus":"Patawatermes","genus_zh":"帕塔瓦白蚁属","genus_id":"patawatermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":10676670,"records":162,"cells":29,"species":2,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-57.5,-26.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-57.5,-25.5]},"properties":{"n":1}},
@@ -18,12 +18,13 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,-10.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,-8.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-73.5,-1.5]},"properties":{"n":7}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,-0.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,-0.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,1.5]},"properties":{"n":29}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.5,2.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,2.5]},"properties":{"n":13}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-54.5,3.5]},"properties":{"n":4}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,4.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,3.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-72.5,4.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-54.5,4.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-53.5,4.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,4.5]},"properties":{"n":27}},

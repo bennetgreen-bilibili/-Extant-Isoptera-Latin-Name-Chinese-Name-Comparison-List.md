@@ -1,7 +1,7 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Cryptotermes darlingtonae","species_zh":"达林顿堆砂白蚁","slug":"cryptotermes-darlingtonae","rank":"species","type_species":false,"genus":"Cryptotermes","genus_zh":"堆砂白蚁属","genus_id":"cryptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":7991941,"records":6,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Cryptotermes darlingtonae","species_zh":"达林顿堆砂白蚁","slug":"cryptotermes-darlingtonae","rank":"species","type_species":false,"genus":"Cryptotermes","genus_zh":"堆砂白蚁属","genus_id":"cryptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":7991941,"records":9,"cells":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,16.5]},"properties":{"n":6}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.5,16.5]},"properties":{"n":9}}
 ]
 }

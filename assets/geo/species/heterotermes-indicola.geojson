@@ -1,9 +1,12 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Heterotermes indicola","species_zh":"印度异白蚁","slug":"heterotermes-indicola","rank":"species","type_species":false,"genus":"Heterotermes","genus_zh":"异白蚁属","genus_id":"heterotermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":8776851,"records":3,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Heterotermes indicola","species_zh":"印度异白蚁","slug":"heterotermes-indicola","rank":"species","type_species":false,"genus":"Heterotermes","genus_zh":"异白蚁属","genus_id":"heterotermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":8776851,"records":7,"cells":6,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[76.5,11.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[77.5,28.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[77.5,29.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,30.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[74.5,31.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[72.5,34.5]},"properties":{"n":1}}
 ]
 }

@@ -1,9 +1,10 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Kalotermes dispar","species_zh":"不同木白蚁","slug":"kalotermes-dispar","rank":"species","type_species":false,"genus":"Kalotermes","genus_zh":"木白蚁属","genus_id":"kalotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":4514008,"records":12,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Kalotermes dispar","species_zh":"不同木白蚁","slug":"kalotermes-dispar","rank":"species","type_species":false,"genus":"Kalotermes","genus_zh":"木白蚁属","genus_id":"kalotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":4514008,"records":17,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-15.5,27.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-17.5,28.5]},"properties":{"n":4}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,28.5]},"properties":{"n":7}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-16.5,28.5]},"properties":{"n":11}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-15.5,28.5]},"properties":{"n":1}}
 ]
 }

@@ -1,8 +1,9 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Ephelotermes taylori","species_zh":"泰勒棒颚白蚁","slug":"ephelotermes-taylori","rank":"species","type_species":false,"genus":"Ephelotermes","genus_zh":"棒颚白蚁属","genus_id":"ephelotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803379,"records":12,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Ephelotermes taylori","species_zh":"泰勒棒颚白蚁","slug":"ephelotermes-taylori","rank":"species","type_species":false,"genus":"Ephelotermes","genus_zh":"棒颚白蚁属","genus_id":"ephelotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803379,"records":13,"cells":4,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-13.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-12.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[132.5,-12.5]},"properties":{"n":9}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-11.5]},"properties":{"n":1}}
 ]

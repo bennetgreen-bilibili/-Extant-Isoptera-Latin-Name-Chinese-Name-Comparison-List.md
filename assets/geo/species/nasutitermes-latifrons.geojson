@@ -1,9 +1,15 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Nasutitermes latifrons","species_zh":"宽额象白蚁","slug":"nasutitermes-latifrons","rank":"species","type_species":false,"genus":"Nasutitermes","genus_zh":"象白蚁属","genus_id":"nasutitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8923977,"records":33,"cells":3,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Nasutitermes latifrons","species_zh":"宽额象白蚁","slug":"nasutitermes-latifrons","rank":"species","type_species":false,"genus":"Nasutitermes","genus_zh":"象白蚁属","genus_id":"nasutitermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":8923977,"records":61,"cells":9,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[14.5,0.5]},"properties":{"n":10}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,0.5]},"properties":{"n":10}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,1.5]},"properties":{"n":13}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,1.5]},"properties":{"n":13}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-6.5,5.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.5,5.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-5.5,6.5]},"properties":{"n":18}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[2.5,6.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[1.5,10.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[2.5,12.5]},"properties":{"n":1}}
 ]
 }

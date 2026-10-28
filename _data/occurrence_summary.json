@@ -9,9 +9,7 @@
   "grid": "1 degree",
   "cell_centre": true,
   "page_limit": 300,
-  "cap_min": 300,
-  "cap_max": 3000,
-  "records_per_species": 30,
+  "max_records_per_genus": 30000,
   "taxon_scope": "checklist_extant",
   "fossil_filter": {
    "excluded_basis_of_record": [
@@ -23,12 +21,12 @@
   "partial": false,
   "family_files": 13,
   "genus_files": 254,
-  "species_files": 1004,
-  "records_total": 47198,
+  "species_files": 1181,
+  "records_total": 87076,
   "genera_total": 323,
   "genera_with_records": 254,
   "species_total": 3071,
-  "species_with_map": 1004,
+  "species_with_map": 1181,
   "species_without_gbif_key": 106,
   "genera_without_gbif_key": 7,
   "pulled_genera": 316,
@@ -39,8 +37,8 @@
    "id": "mastotermitidae",
    "latin": "MASTOTERMITIDAE",
    "zh": "澳白蚁科",
-   "records": 266,
-   "cells": 91,
+   "records": 300,
+   "cells": 94,
    "genera": 1,
    "species": 1,
    "file": "assets/geo/family/mastotermitidae.geojson"
@@ -49,8 +47,8 @@
    "id": "archotermopsidae",
    "latin": "ARCHOTERMOPSIDAE",
    "zh": "古白蚁科",
-   "records": 304,
-   "cells": 60,
+   "records": 2591,
+   "cells": 128,
    "genera": 2,
    "species": 5,
    "file": "assets/geo/family/archotermopsidae.geojson"
@@ -59,8 +57,8 @@
    "id": "hodotermitidae",
    "latin": "HODOTERMITIDAE",
    "zh": "草白蚁科",
-   "records": 672,
-   "cells": 148,
+   "records": 1589,
+   "cells": 189,
    "genera": 3,
    "species": 21,
    "file": "assets/geo/family/hodotermitidae.geojson"
@@ -79,8 +77,8 @@
    "id": "stolotermitidae",
    "latin": "STOLOTERMITIDAE",
    "zh": "胄白蚁科",
-   "records": 461,
-   "cells": 97,
+   "records": 622,
+   "cells": 110,
    "genera": 2,
    "species": 10,
    "file": "assets/geo/family/stolotermitidae.geojson"
@@ -89,8 +87,8 @@
    "id": "kalotermitidae",
    "latin": "KALOTERMITIDAE",
    "zh": "木白蚁科",
-   "records": 7276,
-   "cells": 698,
+   "records": 11328,
+   "cells": 855,
    "genera": 23,
    "species": 479,
    "file": "assets/geo/family/kalotermitidae.geojson"
@@ -109,8 +107,8 @@
    "id": "rhinotermitidae",
    "latin": "RHINOTERMITIDAE",
    "zh": "鼻白蚁科",
-   "records": 1435,
-   "cells": 324,
+   "records": 1898,
+   "cells": 387,
    "genera": 5,
    "species": 61,
    "file": "assets/geo/family/rhinotermitidae.geojson"
@@ -149,8 +147,8 @@
    "id": "heterotermitidae",
    "latin": "HETEROTERMITIDAE",
    "zh": "异白蚁科",
-   "records": 5599,
-   "cells": 836,
+   "records": 15809,
+   "cells": 1382,
    "genera": 3,
    "species": 230,
    "file": "assets/geo/family/heterotermitidae.geojson"
@@ -159,8 +157,8 @@
    "id": "termitidae",
    "latin": "TERMITIDAE",
    "zh": "白蚁科",
-   "records": 31010,
-   "cells": 1694,
+   "records": 52764,
+   "cells": 2024,
    "genera": 277,
    "species": 2132,
    "file": "assets/geo/family/termitidae.geojson"
@@ -175,8 +173,8 @@
    "family_latin": "MASTOTERMITIDAE",
    "family_zh": "澳白蚁科",
    "gbif_key": 8367731,
-   "records": 266,
-   "cells": 91,
+   "records": 300,
+   "cells": 94,
    "species": 1,
    "file": "assets/geo/genus/mastotermes.geojson"
   },
@@ -201,8 +199,8 @@
    "family_latin": "ARCHOTERMOPSIDAE",
    "family_zh": "古白蚁科",
    "gbif_key": 2007388,
-   "records": 300,
-   "cells": 57,
+   "records": 2587,
+   "cells": 125,
    "species": 3,
    "file": "assets/geo/genus/zootermopsis.geojson"
   },
@@ -227,8 +225,8 @@
    "family_latin": "HODOTERMITIDAE",
    "family_zh": "草白蚁科",
    "gbif_key": 8179928,
-   "records": 300,
-   "cells": 92,
+   "records": 537,
+   "cells": 131,
    "species": 2,
    "file": "assets/geo/genus/hodotermes.geojson"
   },
@@ -240,8 +238,8 @@
    "family_latin": "HODOTERMITIDAE",
    "family_zh": "草白蚁科",
    "gbif_key": 4802719,
-   "records": 300,
-   "cells": 22,
+   "records": 980,
+   "cells": 32,
    "species": 3,
    "file": "assets/geo/genus/microhodotermes.geojson"
   },
@@ -266,8 +264,8 @@
    "family_latin": "STOLOTERMITIDAE",
    "family_zh": "胄白蚁科",
    "gbif_key": 2007394,
-   "records": 300,
-   "cells": 74,
+   "records": 461,
+   "cells": 91,
    "species": 3,
    "file": "assets/geo/genus/porotermes.geojson"
   },
@@ -318,8 +316,8 @@
    "family_latin": "KALOTERMITIDAE",
    "family_zh": "木白蚁科",
    "gbif_key": 2007336,
-   "records": 360,
-   "cells": 11,
+   "records": 497,
+   "cells": 32,
    "species": 12,
    "file": "assets/geo/genus/calcaritermes.geojson"
   },
@@ -357,8 +355,8 @@
    "family_latin": "KALOTERMITIDAE",
    "family_zh": "木白蚁科",
    "gbif_key": 2007318,
-   "records": 2218,
-   "cells": 86,
+   "records": 3619,
+   "cells": 223,
    "species": 74,
    "file": "assets/geo/genus/cryptotermes.geojson"
   },
@@ -396,8 +394,8 @@
    "family_latin": "KALOTERMITIDAE",
    "family_zh": "木白蚁科",
    "gbif_key": 2007340,
-   "records": 900,
-   "cells": 82,
+   "records": 2252,
+   "cells": 153,
    "species": 30,
    "file": "assets/geo/genus/incisitermes.geojson"
   },
@@ -409,8 +407,8 @@
    "family_latin": "KALOTERMITIDAE",
    "family_zh": "木白蚁科",
    "gbif_key": 2007363,
-   "records": 630,
-   "cells": 181,
+   "records": 1792,
+   "cells": 293,
    "species": 21,
    "file": "assets/geo/genus/kalotermes.geojson"
   },
@@ -643,8 +641,8 @@
    "family_latin": "RHINOTERMITIDAE",
    "family_zh": "鼻白蚁科",
    "gbif_key": 4802753,
-   "records": 1050,
-   "cells": 267,
+   "records": 1513,
+   "cells": 331,
    "species": 35,
    "file": "assets/geo/genus/schedorhinotermes.geojson"
   },
@@ -708,8 +706,8 @@
    "family_latin": "HETEROTERMITIDAE",
    "family_zh": "异白蚁科",
    "gbif_key": 2007379,
-   "records": 1675,
-   "cells": 275,
+   "records": 6395,
+   "cells": 587,
    "species": 59,
    "file": "assets/geo/genus/coptotermes.geojson"
   },
@@ -721,8 +719,8 @@
    "family_latin": "HETEROTERMITIDAE",
    "family_zh": "异白蚁科",
    "gbif_key": 2007374,
-   "records": 930,
-   "cells": 144,
+   "records": 4929,
+   "cells": 541,
    "species": 31,
    "file": "assets/geo/genus/heterotermes.geojson"
   },
@@ -734,8 +732,8 @@
    "family_latin": "HETEROTERMITIDAE",
    "family_zh": "异白蚁科",
    "gbif_key": 2007365,
-   "records": 2994,
-   "cells": 516,
+   "records": 4485,
+   "cells": 589,
    "species": 140,
    "file": "assets/geo/genus/reticulitermes.geojson"
   },
@@ -968,8 +966,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 2007285,
-   "records": 2994,
-   "cells": 350,
+   "records": 5612,
+   "cells": 595,
    "species": 113,
    "file": "assets/geo/genus/amitermes.geojson"
   },
@@ -1020,8 +1018,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803289,
-   "records": 480,
-   "cells": 33,
+   "records": 616,
+   "cells": 35,
    "species": 16,
    "file": "assets/geo/genus/ancistrotermes.geojson"
   },
@@ -1085,8 +1083,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 2007276,
-   "records": 652,
-   "cells": 58,
+   "records": 2132,
+   "cells": 213,
    "species": 23,
    "file": "assets/geo/genus/anoplotermes.geojson"
   },
@@ -1176,8 +1174,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803392,
-   "records": 12,
-   "cells": 8,
+   "records": 17,
+   "cells": 9,
    "species": 3,
    "file": "assets/geo/genus/armitermes.geojson"
   },
@@ -1241,8 +1239,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4576526,
-   "records": 300,
-   "cells": 37,
+   "records": 349,
+   "cells": 54,
    "species": 8,
    "file": "assets/geo/genus/atlantitermes.geojson"
   },
@@ -1345,7 +1343,7 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 2007282,
-   "records": 300,
+   "records": 353,
    "cells": 4,
    "species": 2,
    "file": "assets/geo/genus/cahuallitermes.geojson"
@@ -1488,8 +1486,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803111,
-   "records": 300,
-   "cells": 76,
+   "records": 463,
+   "cells": 104,
    "species": 6,
    "file": "assets/geo/genus/constrictotermes.geojson"
   },
@@ -1527,8 +1525,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4298963,
-   "records": 420,
-   "cells": 118,
+   "records": 1622,
+   "cells": 236,
    "species": 14,
    "file": "assets/geo/genus/cornitermes.geojson"
   },
@@ -1605,8 +1603,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803082,
-   "records": 93,
-   "cells": 22,
+   "records": 126,
+   "cells": 35,
    "species": 11,
    "file": "assets/geo/genus/cubitermes.geojson"
   },
@@ -1631,8 +1629,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803351,
-   "records": 300,
-   "cells": 19,
+   "records": 890,
+   "cells": 78,
    "species": 8,
    "file": "assets/geo/genus/cylindrotermes.geojson"
   },
@@ -1722,8 +1720,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803110,
-   "records": 300,
-   "cells": 60,
+   "records": 425,
+   "cells": 98,
    "species": 3,
    "file": "assets/geo/genus/diversitermes.geojson"
   },
@@ -1761,8 +1759,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803315,
-   "records": 720,
-   "cells": 149,
+   "records": 2075,
+   "cells": 283,
    "species": 24,
    "file": "assets/geo/genus/drepanotermes.geojson"
   },
@@ -1813,8 +1811,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4577400,
-   "records": 300,
-   "cells": 26,
+   "records": 1095,
+   "cells": 131,
    "species": 9,
    "file": "assets/geo/genus/embiratermes.geojson"
   },
@@ -1826,8 +1824,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803373,
-   "records": 300,
-   "cells": 83,
+   "records": 386,
+   "cells": 104,
    "species": 6,
    "file": "assets/geo/genus/ephelotermes.geojson"
   },
@@ -1982,8 +1980,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 2007306,
-   "records": 298,
-   "cells": 75,
+   "records": 403,
+   "cells": 80,
    "species": 4,
    "file": "assets/geo/genus/gnathamitermes.geojson"
   },
@@ -2008,8 +2006,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803120,
-   "records": 253,
-   "cells": 68,
+   "records": 276,
+   "cells": 79,
    "species": 2,
    "file": "assets/geo/genus/grigiotermes.geojson"
   },
@@ -2268,8 +2266,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4298960,
-   "records": 300,
-   "cells": 89,
+   "records": 372,
+   "cells": 106,
    "species": 10,
    "file": "assets/geo/genus/labiotermes.geojson"
   },
@@ -2333,8 +2331,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 9343683,
-   "records": 300,
-   "cells": 10,
+   "records": 394,
+   "cells": 18,
    "species": 1,
    "file": "assets/geo/genus/longustitermes.geojson"
   },
@@ -2385,8 +2383,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803134,
-   "records": 1625,
-   "cells": 254,
+   "records": 2057,
+   "cells": 289,
    "species": 57,
    "file": "assets/geo/genus/macrotermes.geojson"
   },
@@ -2424,8 +2422,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 9406420,
-   "records": 93,
-   "cells": 19,
+   "records": 98,
+   "cells": 22,
    "species": 3,
    "file": "assets/geo/genus/mapinguaritermes.geojson"
   },
@@ -2463,8 +2461,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 2007311,
-   "records": 2816,
-   "cells": 330,
+   "records": 3618,
+   "cells": 501,
    "species": 148,
    "file": "assets/geo/genus/microcerotermes.geojson"
   },
@@ -2515,8 +2513,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 5431333,
-   "records": 2999,
-   "cells": 250,
+   "records": 12369,
+   "cells": 963,
    "species": 243,
    "file": "assets/geo/genus/nasutitermes.geojson"
   },
@@ -2528,8 +2526,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803414,
-   "records": 509,
-   "cells": 100,
+   "records": 924,
+   "cells": 174,
    "species": 17,
    "file": "assets/geo/genus/neocapritermes.geojson"
   },
@@ -2749,8 +2747,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803230,
-   "records": 107,
-   "cells": 41,
+   "records": 111,
+   "cells": 42,
    "species": 13,
    "file": "assets/geo/genus/parvitermes.geojson"
   },
@@ -2762,8 +2760,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 10676670,
-   "records": 157,
-   "cells": 28,
+   "records": 162,
+   "cells": 29,
    "species": 2,
    "file": "assets/geo/genus/patawatermes.geojson"
   },
@@ -3035,8 +3033,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 10170026,
-   "records": 29,
-   "cells": 11,
+   "records": 62,
+   "cells": 18,
    "species": 1,
    "file": "assets/geo/genus/rubeotermes.geojson"
   },
@@ -3048,7 +3046,7 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803112,
-   "records": 339,
+   "records": 342,
    "cells": 107,
    "species": 13,
    "file": "assets/geo/genus/ruptitermes.geojson"
@@ -3113,8 +3111,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 9322609,
-   "records": 374,
-   "cells": 65,
+   "records": 697,
+   "cells": 115,
    "species": 7,
    "file": "assets/geo/genus/silvestritermes.geojson"
   },
@@ -3230,8 +3228,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4298961,
-   "records": 690,
-   "cells": 159,
+   "records": 1161,
+   "cells": 251,
    "species": 23,
    "file": "assets/geo/genus/syntermes.geojson"
   },
@@ -3256,8 +3254,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 2007278,
-   "records": 775,
-   "cells": 176,
+   "records": 807,
+   "cells": 187,
    "species": 26,
    "file": "assets/geo/genus/termes.geojson"
   },
@@ -3399,8 +3397,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 5431332,
-   "records": 510,
-   "cells": 176,
+   "records": 1352,
+   "cells": 281,
    "species": 17,
    "file": "assets/geo/genus/tumulitermes.geojson"
   },
@@ -3412,8 +3410,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 8920718,
-   "records": 49,
-   "cells": 13,
+   "records": 60,
+   "cells": 20,
    "species": 2,
    "file": "assets/geo/genus/uncitermes.geojson"
   },
@@ -3438,8 +3436,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803105,
-   "records": 300,
-   "cells": 79,
+   "records": 322,
+   "cells": 87,
    "species": 10,
    "file": "assets/geo/genus/velocitermes.geojson"
   },
@@ -3764,8 +3762,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803166,
-   "records": 25,
-   "cells": 15,
+   "records": 62,
+   "cells": 21,
    "file": "assets/geo/species/amitermes-abruptus.geojson"
   },
   "amitermes-accinctus": {
@@ -3775,8 +3773,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803171,
-   "records": 5,
-   "cells": 3,
+   "records": 24,
+   "cells": 7,
    "file": "assets/geo/species/amitermes-accinctus.geojson"
   },
   "amitermes-aduncus": {
@@ -3786,8 +3784,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803212,
-   "records": 3,
-   "cells": 3,
+   "records": 7,
+   "cells": 6,
    "file": "assets/geo/species/amitermes-aduncus.geojson"
   },
   "amitermes-agrilus": {
@@ -3797,8 +3795,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803192,
-   "records": 32,
-   "cells": 12,
+   "records": 53,
+   "cells": 20,
    "file": "assets/geo/species/amitermes-agrilus.geojson"
   },
   "amitermes-amicki": {
@@ -3819,8 +3817,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 9028301,
-   "records": 5,
-   "cells": 3,
+   "records": 11,
+   "cells": 4,
    "file": "assets/geo/species/amitermes-amifer.geojson"
   },
   "amitermes-aporema": {
@@ -3852,8 +3850,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803160,
-   "records": 15,
-   "cells": 12,
+   "records": 27,
+   "cells": 22,
    "file": "assets/geo/species/amitermes-arcuatus.geojson"
   },
   "amitermes-beaumonti": {
@@ -3863,7 +3861,7 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007293,
-   "records": 593,
+   "records": 596,
    "cells": 6,
    "file": "assets/geo/species/amitermes-beaumonti.geojson"
   },
@@ -3874,9 +3872,31 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803191,
-   "records": 4,
-   "cells": 4,
+   "records": 15,
+   "cells": 8,
    "file": "assets/geo/species/amitermes-boreus.geojson"
+  },
+  "amitermes-braunsi": {
+   "latin": "Amitermes braunsi",
+   "zh": "布劳恩斯弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 9209781,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/amitermes-braunsi.geojson"
+  },
+  "amitermes-calabyi": {
+   "latin": "Amitermes calabyi",
+   "zh": "卡拉比弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 4803222,
+   "records": 8,
+   "cells": 5,
+   "file": "assets/geo/species/amitermes-calabyi.geojson"
   },
   "amitermes-capito": {
    "latin": "Amitermes capito",
@@ -3885,9 +3905,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803158,
-   "records": 4,
-   "cells": 4,
+   "records": 22,
+   "cells": 12,
    "file": "assets/geo/species/amitermes-capito.geojson"
+  },
+  "amitermes-coachellae": {
+   "latin": "Amitermes coachellae",
+   "zh": "科切拉弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 2007286,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/amitermes-coachellae.geojson"
   },
   "amitermes-colonus": {
    "latin": "Amitermes colonus",
@@ -3896,8 +3927,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803137,
-   "records": 13,
-   "cells": 6,
+   "records": 52,
+   "cells": 19,
    "file": "assets/geo/species/amitermes-colonus.geojson"
   },
   "amitermes-conformis": {
@@ -3907,8 +3938,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803206,
-   "records": 3,
-   "cells": 3,
+   "records": 64,
+   "cells": 15,
    "file": "assets/geo/species/amitermes-conformis.geojson"
   },
   "amitermes-cryptodon": {
@@ -3918,8 +3949,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007292,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/amitermes-cryptodon.geojson"
   },
   "amitermes-darwini": {
@@ -3929,8 +3960,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803185,
-   "records": 43,
-   "cells": 13,
+   "records": 102,
+   "cells": 29,
    "file": "assets/geo/species/amitermes-darwini.geojson"
   },
   "amitermes-dentosus": {
@@ -3940,8 +3971,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803173,
-   "records": 20,
-   "cells": 12,
+   "records": 151,
+   "cells": 59,
    "file": "assets/geo/species/amitermes-dentosus.geojson"
   },
   "amitermes-deplanatus": {
@@ -3951,8 +3982,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803215,
-   "records": 4,
-   "cells": 3,
+   "records": 12,
+   "cells": 8,
    "file": "assets/geo/species/amitermes-deplanatus.geojson"
   },
   "amitermes-emersoni": {
@@ -3962,8 +3993,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007290,
-   "records": 3,
-   "cells": 1,
+   "records": 4,
+   "cells": 2,
    "file": "assets/geo/species/amitermes-emersoni.geojson"
   },
   "amitermes-eucalypti": {
@@ -3973,8 +4004,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803139,
-   "records": 22,
-   "cells": 13,
+   "records": 41,
+   "cells": 19,
    "file": "assets/geo/species/amitermes-eucalypti.geojson"
   },
   "amitermes-evuncifer": {
@@ -3984,8 +4015,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 8864711,
-   "records": 60,
-   "cells": 12,
+   "records": 120,
+   "cells": 28,
    "file": "assets/geo/species/amitermes-evuncifer.geojson"
   },
   "amitermes-excellens": {
@@ -3995,8 +4026,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 9384063,
-   "records": 14,
-   "cells": 8,
+   "records": 25,
+   "cells": 13,
    "file": "assets/geo/species/amitermes-excellens.geojson"
   },
   "amitermes-exilis": {
@@ -4006,8 +4037,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803189,
-   "records": 5,
-   "cells": 4,
+   "records": 27,
+   "cells": 20,
    "file": "assets/geo/species/amitermes-exilis.geojson"
   },
   "amitermes-falcatus": {
@@ -4017,8 +4048,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803167,
-   "records": 13,
-   "cells": 9,
+   "records": 34,
+   "cells": 17,
    "file": "assets/geo/species/amitermes-falcatus.geojson"
   },
   "amitermes-firmus": {
@@ -4028,8 +4059,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803146,
-   "records": 9,
-   "cells": 7,
+   "records": 20,
+   "cells": 12,
    "file": "assets/geo/species/amitermes-firmus.geojson"
   },
   "amitermes-foreli": {
@@ -4039,7 +4070,7 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 9712465,
-   "records": 19,
+   "records": 20,
    "cells": 5,
    "file": "assets/geo/species/amitermes-foreli.geojson"
   },
@@ -4050,8 +4081,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803203,
-   "records": 56,
-   "cells": 26,
+   "records": 109,
+   "cells": 51,
    "file": "assets/geo/species/amitermes-germanus.geojson"
   },
   "amitermes-gracilis": {
@@ -4061,8 +4092,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803214,
-   "records": 2,
-   "cells": 2,
+   "records": 4,
+   "cells": 4,
    "file": "assets/geo/species/amitermes-gracilis.geojson"
   },
   "amitermes-guineensis": {
@@ -4072,8 +4103,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 9653855,
-   "records": 3,
-   "cells": 2,
+   "records": 14,
+   "cells": 9,
    "file": "assets/geo/species/amitermes-guineensis.geojson"
   },
   "amitermes-hartmeyeri": {
@@ -4083,8 +4114,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803154,
-   "records": 15,
-   "cells": 11,
+   "records": 107,
+   "cells": 41,
    "file": "assets/geo/species/amitermes-hartmeyeri.geojson"
   },
   "amitermes-hastatus": {
@@ -4105,9 +4136,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803193,
-   "records": 50,
-   "cells": 16,
+   "records": 110,
+   "cells": 24,
    "file": "assets/geo/species/amitermes-herbertensis.geojson"
+  },
+  "amitermes-heterognathus": {
+   "latin": "Amitermes heterognathus",
+   "zh": "异颚弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 4803209,
+   "records": 65,
+   "cells": 9,
+   "file": "assets/geo/species/amitermes-heterognathus.geojson"
   },
   "amitermes-innoxius": {
    "latin": "Amitermes innoxius",
@@ -4116,8 +4158,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803165,
-   "records": 7,
-   "cells": 6,
+   "records": 23,
+   "cells": 12,
    "file": "assets/geo/species/amitermes-innoxius.geojson"
   },
   "amitermes-inops": {
@@ -4127,9 +4169,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803170,
-   "records": 11,
-   "cells": 8,
+   "records": 20,
+   "cells": 9,
    "file": "assets/geo/species/amitermes-inops.geojson"
+  },
+  "amitermes-insolitus": {
+   "latin": "Amitermes insolitus",
+   "zh": "异常弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 4803175,
+   "records": 14,
+   "cells": 4,
+   "file": "assets/geo/species/amitermes-insolitus.geojson"
   },
   "amitermes-inspissatus": {
    "latin": "Amitermes inspissatus",
@@ -4138,8 +4191,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803218,
-   "records": 1,
-   "cells": 1,
+   "records": 6,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-inspissatus.geojson"
   },
   "amitermes-lanceolatus": {
@@ -4149,8 +4202,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803211,
-   "records": 4,
-   "cells": 2,
+   "records": 15,
+   "cells": 7,
    "file": "assets/geo/species/amitermes-lanceolatus.geojson"
   },
   "amitermes-latidens": {
@@ -4160,8 +4213,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803144,
-   "records": 28,
-   "cells": 16,
+   "records": 57,
+   "cells": 25,
    "file": "assets/geo/species/amitermes-latidens.geojson"
   },
   "amitermes-lativentris": {
@@ -4171,8 +4224,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803219,
-   "records": 28,
-   "cells": 18,
+   "records": 105,
+   "cells": 44,
    "file": "assets/geo/species/amitermes-lativentris.geojson"
   },
   "amitermes-laurensis": {
@@ -4182,8 +4235,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803161,
-   "records": 227,
-   "cells": 36,
+   "records": 351,
+   "cells": 46,
    "file": "assets/geo/species/amitermes-laurensis.geojson"
   },
   "amitermes-leptognathus": {
@@ -4193,8 +4246,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803142,
-   "records": 1,
-   "cells": 1,
+   "records": 4,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-leptognathus.geojson"
   },
   "amitermes-loennbergianus": {
@@ -4215,7 +4268,7 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803200,
-   "records": 130,
+   "records": 136,
    "cells": 5,
    "file": "assets/geo/species/amitermes-meridionalis.geojson"
   },
@@ -4226,8 +4279,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 9733544,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/amitermes-messinae.geojson"
   },
   "amitermes-minimus": {
@@ -4237,8 +4290,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007287,
-   "records": 1,
-   "cells": 1,
+   "records": 4,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-minimus.geojson"
   },
   "amitermes-modicus": {
@@ -4248,8 +4301,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803223,
-   "records": 32,
-   "cells": 11,
+   "records": 146,
+   "cells": 49,
    "file": "assets/geo/species/amitermes-modicus.geojson"
   },
   "amitermes-neogermanus": {
@@ -4259,8 +4312,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803187,
-   "records": 42,
-   "cells": 24,
+   "records": 276,
+   "cells": 85,
    "file": "assets/geo/species/amitermes-neogermanus.geojson"
   },
   "amitermes-obeuntis": {
@@ -4270,8 +4323,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803168,
-   "records": 7,
-   "cells": 3,
+   "records": 272,
+   "cells": 34,
    "file": "assets/geo/species/amitermes-obeuntis.geojson"
   },
   "amitermes-obtusidens": {
@@ -4281,8 +4334,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803226,
-   "records": 53,
-   "cells": 22,
+   "records": 106,
+   "cells": 46,
    "file": "assets/geo/species/amitermes-obtusidens.geojson"
   },
   "amitermes-pallidiceps": {
@@ -4292,9 +4345,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803198,
-   "records": 1,
-   "cells": 1,
+   "records": 15,
+   "cells": 7,
    "file": "assets/geo/species/amitermes-pallidiceps.geojson"
+  },
+  "amitermes-pallidus": {
+   "latin": "Amitermes pallidus",
+   "zh": "苍白弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 2007295,
+   "records": 6,
+   "cells": 1,
+   "file": "assets/geo/species/amitermes-pallidus.geojson"
   },
   "amitermes-pandus": {
    "latin": "Amitermes pandus",
@@ -4303,8 +4367,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803199,
-   "records": 4,
-   "cells": 4,
+   "records": 20,
+   "cells": 8,
    "file": "assets/geo/species/amitermes-pandus.geojson"
   },
   "amitermes-parallelus": {
@@ -4314,8 +4378,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803152,
-   "records": 5,
-   "cells": 4,
+   "records": 9,
+   "cells": 6,
    "file": "assets/geo/species/amitermes-parallelus.geojson"
   },
   "amitermes-parvidens": {
@@ -4325,8 +4389,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803136,
-   "records": 6,
-   "cells": 6,
+   "records": 15,
+   "cells": 7,
    "file": "assets/geo/species/amitermes-parvidens.geojson"
   },
   "amitermes-parvulus": {
@@ -4336,8 +4400,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007288,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/amitermes-parvulus.geojson"
   },
   "amitermes-parvus": {
@@ -4347,8 +4411,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803216,
-   "records": 14,
-   "cells": 8,
+   "records": 18,
+   "cells": 10,
    "file": "assets/geo/species/amitermes-parvus.geojson"
   },
   "amitermes-pavidus": {
@@ -4358,8 +4422,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803207,
-   "records": 17,
-   "cells": 11,
+   "records": 36,
+   "cells": 14,
    "file": "assets/geo/species/amitermes-pavidus.geojson"
   },
   "amitermes-perarmatus": {
@@ -4369,8 +4433,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803195,
-   "records": 20,
-   "cells": 11,
+   "records": 136,
+   "cells": 49,
    "file": "assets/geo/species/amitermes-perarmatus.geojson"
   },
   "amitermes-perelegans": {
@@ -4380,9 +4444,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803148,
-   "records": 26,
-   "cells": 9,
+   "records": 35,
+   "cells": 14,
    "file": "assets/geo/species/amitermes-perelegans.geojson"
+  },
+  "amitermes-perryi": {
+   "latin": "Amitermes perryi",
+   "zh": "佩里弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 4803225,
+   "records": 9,
+   "cells": 2,
+   "file": "assets/geo/species/amitermes-perryi.geojson"
   },
   "amitermes-procerus": {
    "latin": "Amitermes procerus",
@@ -4391,8 +4466,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803213,
-   "records": 10,
-   "cells": 8,
+   "records": 54,
+   "cells": 21,
    "file": "assets/geo/species/amitermes-procerus.geojson"
   },
   "amitermes-quadratus": {
@@ -4402,8 +4477,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803147,
-   "records": 1,
-   "cells": 1,
+   "records": 5,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-quadratus.geojson"
   },
   "amitermes-ravus": {
@@ -4413,9 +4488,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803179,
-   "records": 9,
-   "cells": 7,
+   "records": 11,
+   "cells": 8,
    "file": "assets/geo/species/amitermes-ravus.geojson"
+  },
+  "amitermes-rotundus": {
+   "latin": "Amitermes rotundus",
+   "zh": "圆腹弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 4803197,
+   "records": 4,
+   "cells": 1,
+   "file": "assets/geo/species/amitermes-rotundus.geojson"
   },
   "amitermes-scopulus": {
    "latin": "Amitermes scopulus",
@@ -4424,7 +4510,7 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803177,
-   "records": 17,
+   "records": 19,
    "cells": 5,
    "file": "assets/geo/species/amitermes-scopulus.geojson"
   },
@@ -4435,9 +4521,20 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007291,
-   "records": 5,
-   "cells": 2,
+   "records": 7,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-silvestrianus.geojson"
+  },
+  "amitermes-snyderi": {
+   "latin": "Amitermes snyderi",
+   "zh": "斯奈德弓白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "amitermes",
+   "gbif_key": 2007296,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/amitermes-snyderi.geojson"
   },
   "amitermes-socotrensis": {
    "latin": "Amitermes socotrensis",
@@ -4457,8 +4554,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 9669832,
-   "records": 1,
-   "cells": 1,
+   "records": 6,
+   "cells": 4,
    "file": "assets/geo/species/amitermes-spinifer.geojson"
   },
   "amitermes-subtilis": {
@@ -4468,8 +4565,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803153,
-   "records": 23,
-   "cells": 12,
+   "records": 25,
+   "cells": 13,
    "file": "assets/geo/species/amitermes-subtilis.geojson"
   },
   "amitermes-truncatidens": {
@@ -4479,8 +4576,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 8781947,
-   "records": 10,
-   "cells": 2,
+   "records": 15,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-truncatidens.geojson"
   },
   "amitermes-uncinatus": {
@@ -4490,8 +4587,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803202,
-   "records": 3,
-   "cells": 2,
+   "records": 12,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-uncinatus.geojson"
   },
   "amitermes-vicinus": {
@@ -4501,8 +4598,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803181,
-   "records": 3,
-   "cells": 3,
+   "records": 9,
+   "cells": 5,
    "file": "assets/geo/species/amitermes-vicinus.geojson"
   },
   "amitermes-vilis": {
@@ -4523,8 +4620,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803143,
-   "records": 1,
-   "cells": 1,
+   "records": 3,
+   "cells": 3,
    "file": "assets/geo/species/amitermes-viriosus.geojson"
   },
   "amitermes-vitiosus": {
@@ -4534,8 +4631,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803150,
-   "records": 115,
-   "cells": 33,
+   "records": 301,
+   "cells": 81,
    "file": "assets/geo/species/amitermes-vitiosus.geojson"
   },
   "amitermes-westraliensis": {
@@ -4545,8 +4642,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803156,
-   "records": 14,
-   "cells": 7,
+   "records": 92,
+   "cells": 34,
    "file": "assets/geo/species/amitermes-westraliensis.geojson"
   },
   "amitermes-wheeleri": {
@@ -4556,8 +4653,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 2007289,
-   "records": 12,
-   "cells": 8,
+   "records": 21,
+   "cells": 16,
    "file": "assets/geo/species/amitermes-wheeleri.geojson"
   },
   "amitermes-xylophagus": {
@@ -4567,8 +4664,8 @@
    "family_id": "termitidae",
    "genus_id": "amitermes",
    "gbif_key": 4803140,
-   "records": 16,
-   "cells": 11,
+   "records": 119,
+   "cells": 42,
    "file": "assets/geo/species/amitermes-xylophagus.geojson"
   },
   "amplucrutermes-inflatus": {
@@ -4699,8 +4796,8 @@
    "family_id": "termitidae",
    "genus_id": "ancistrotermes",
    "gbif_key": 9763456,
-   "records": 249,
-   "cells": 18,
+   "records": 273,
+   "cells": 20,
    "file": "assets/geo/species/ancistrotermes-cavithorax.geojson"
   },
   "ancistrotermes-crucifer": {
@@ -4710,8 +4807,8 @@
    "family_id": "termitidae",
    "genus_id": "ancistrotermes",
    "gbif_key": 9771362,
-   "records": 117,
-   "cells": 12,
+   "records": 134,
+   "cells": 13,
    "file": "assets/geo/species/ancistrotermes-crucifer.geojson"
   },
   "ancistrotermes-guineensis": {
@@ -4721,8 +4818,8 @@
    "family_id": "termitidae",
    "genus_id": "ancistrotermes",
    "gbif_key": 9791388,
-   "records": 64,
-   "cells": 16,
+   "records": 96,
+   "cells": 18,
    "file": "assets/geo/species/ancistrotermes-guineensis.geojson"
   },
   "ancistrotermes-latinotus": {
@@ -4743,8 +4840,8 @@
    "family_id": "termitidae",
    "genus_id": "ancistrotermes",
    "gbif_key": 9669915,
-   "records": 6,
-   "cells": 4,
+   "records": 9,
+   "cells": 5,
    "file": "assets/geo/species/ancistrotermes-pakistanicus.geojson"
   },
   "anenteotermes-nanus": {
@@ -4923,6 +5020,17 @@
    "cells": 3,
    "file": "assets/geo/species/anhangatermes-macarthuri.geojson"
   },
+  "anoplotermes-ater": {
+   "latin": "Anoplotermes ater",
+   "zh": "暗黑解甲白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "anoplotermes",
+   "gbif_key": 9166628,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/anoplotermes-ater.geojson"
+  },
   "anoplotermes-banksi": {
    "latin": "Anoplotermes banksi",
    "zh": "班克斯解甲白蚁",
@@ -4930,8 +5038,8 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 8886168,
-   "records": 119,
-   "cells": 11,
+   "records": 195,
+   "cells": 24,
    "file": "assets/geo/species/anoplotermes-banksi.geojson"
   },
   "anoplotermes-fumosus": {
@@ -4941,8 +5049,8 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 2007277,
-   "records": 28,
-   "cells": 17,
+   "records": 39,
+   "cells": 18,
    "file": "assets/geo/species/anoplotermes-fumosus.geojson"
   },
   "anoplotermes-janus": {
@@ -4952,8 +5060,8 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 9310928,
-   "records": 20,
-   "cells": 4,
+   "records": 94,
+   "cells": 14,
    "file": "assets/geo/species/anoplotermes-janus.geojson"
   },
   "anoplotermes-meridianus": {
@@ -4963,8 +5071,8 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 7821482,
-   "records": 127,
-   "cells": 12,
+   "records": 140,
+   "cells": 16,
    "file": "assets/geo/species/anoplotermes-meridianus.geojson"
   },
   "anoplotermes-pacificus": {
@@ -4974,8 +5082,8 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 9732303,
-   "records": 9,
-   "cells": 4,
+   "records": 220,
+   "cells": 23,
    "file": "assets/geo/species/anoplotermes-pacificus.geojson"
   },
   "anoplotermes-parvus": {
@@ -4985,9 +5093,20 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 9623180,
-   "records": 49,
-   "cells": 9,
+   "records": 106,
+   "cells": 23,
    "file": "assets/geo/species/anoplotermes-parvus.geojson"
+  },
+  "anoplotermes-schwarzi": {
+   "latin": "Anoplotermes schwarzi",
+   "zh": "施瓦茨解甲白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "anoplotermes",
+   "gbif_key": 9072353,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/anoplotermes-schwarzi.geojson"
   },
   "anoplotermes-susanae": {
    "latin": "Anoplotermes susanae",
@@ -4996,9 +5115,20 @@
    "family_id": "termitidae",
    "genus_id": "anoplotermes",
    "gbif_key": 12255463,
-   "records": 8,
-   "cells": 1,
+   "records": 9,
+   "cells": 2,
    "file": "assets/geo/species/anoplotermes-susanae.geojson"
+  },
+  "anoplotermes-tenebrosus": {
+   "latin": "Anoplotermes tenebrosus",
+   "zh": "黑暗解甲白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "anoplotermes",
+   "gbif_key": 8936742,
+   "records": 3,
+   "cells": 1,
+   "file": "assets/geo/species/anoplotermes-tenebrosus.geojson"
   },
   "antillitermes-subtilis": {
    "latin": "Antillitermes subtilis",
@@ -5205,7 +5335,7 @@
    "family_id": "termitidae",
    "genus_id": "armitermes",
    "gbif_key": 9686351,
-   "records": 6,
+   "records": 7,
    "cells": 2,
    "file": "assets/geo/species/armitermes-armiger.geojson"
   },
@@ -5275,6 +5405,28 @@
    "cells": 1,
    "file": "assets/geo/species/astratotermes-pacatus.geojson"
   },
+  "atlantitermes-guarinim": {
+   "latin": "Atlantitermes guarinim",
+   "zh": "好斗阿特拉斯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "atlantitermes",
+   "gbif_key": 9684660,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/atlantitermes-guarinim.geojson"
+  },
+  "atlantitermes-ibitiriguara": {
+   "latin": "Atlantitermes ibitiriguara",
+   "zh": "具锯阿特拉斯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "atlantitermes",
+   "gbif_key": 9735972,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/atlantitermes-ibitiriguara.geojson"
+  },
   "atlantitermes-oculatissimus": {
    "latin": "Atlantitermes oculatissimus",
    "zh": "巨眼阿特拉斯白蚁",
@@ -5282,8 +5434,8 @@
    "family_id": "termitidae",
    "genus_id": "atlantitermes",
    "gbif_key": 9242013,
-   "records": 61,
-   "cells": 12,
+   "records": 68,
+   "cells": 15,
    "file": "assets/geo/species/atlantitermes-oculatissimus.geojson"
   },
   "atlantitermes-osborni": {
@@ -5293,9 +5445,20 @@
    "family_id": "termitidae",
    "genus_id": "atlantitermes",
    "gbif_key": 9529973,
-   "records": 12,
-   "cells": 4,
+   "records": 17,
+   "cells": 7,
    "file": "assets/geo/species/atlantitermes-osborni.geojson"
+  },
+  "atlantitermes-raripilus": {
+   "latin": "Atlantitermes raripilus",
+   "zh": "少毛阿特拉斯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "atlantitermes",
+   "gbif_key": 9715732,
+   "records": 3,
+   "cells": 3,
+   "file": "assets/geo/species/atlantitermes-raripilus.geojson"
   },
   "atlantitermes-snyderi": {
    "latin": "Atlantitermes snyderi",
@@ -5304,8 +5467,8 @@
    "family_id": "termitidae",
    "genus_id": "atlantitermes",
    "gbif_key": 9429047,
-   "records": 52,
-   "cells": 8,
+   "records": 61,
+   "cells": 13,
    "file": "assets/geo/species/atlantitermes-snyderi.geojson"
   },
   "atlantitermes-stercophilus": {
@@ -5557,9 +5720,20 @@
    "family_id": "termitidae",
    "genus_id": "cahuallitermes",
    "gbif_key": 2007283,
-   "records": 300,
+   "records": 353,
    "cells": 4,
    "file": "assets/geo/species/cahuallitermes-intermedius.geojson"
+  },
+  "calcaritermes-brevicollis": {
+   "latin": "Calcaritermes brevicollis",
+   "zh": "短颈距白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "calcaritermes",
+   "gbif_key": 9788334,
+   "records": 4,
+   "cells": 2,
+   "file": "assets/geo/species/calcaritermes-brevicollis.geojson"
   },
   "calcaritermes-emarginicollis": {
    "latin": "Calcaritermes emarginicollis",
@@ -5568,9 +5742,20 @@
    "family_id": "kalotermitidae",
    "genus_id": "calcaritermes",
    "gbif_key": 9743976,
-   "records": 17,
-   "cells": 2,
+   "records": 51,
+   "cells": 4,
    "file": "assets/geo/species/calcaritermes-emarginicollis.geojson"
+  },
+  "calcaritermes-imminens": {
+   "latin": "Calcaritermes imminens",
+   "zh": "悬垂距白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "calcaritermes",
+   "gbif_key": 9693218,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/calcaritermes-imminens.geojson"
   },
   "calcaritermes-nearcticus": {
    "latin": "Calcaritermes nearcticus",
@@ -5579,9 +5764,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "calcaritermes",
    "gbif_key": 2007338,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/calcaritermes-nearcticus.geojson"
+  },
+  "calcaritermes-nigriceps": {
+   "latin": "Calcaritermes nigriceps",
+   "zh": "黑头距白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "calcaritermes",
+   "gbif_key": 9000934,
+   "records": 3,
+   "cells": 3,
+   "file": "assets/geo/species/calcaritermes-nigriceps.geojson"
+  },
+  "calcaritermes-rioensis": {
+   "latin": "Calcaritermes rioensis",
+   "zh": "里约距白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "calcaritermes",
+   "gbif_key": 9665284,
+   "records": 8,
+   "cells": 5,
+   "file": "assets/geo/species/calcaritermes-rioensis.geojson"
   },
   "calcaritermes-temnocephalus": {
    "latin": "Calcaritermes temnocephalus",
@@ -5590,8 +5797,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "calcaritermes",
    "gbif_key": 9492047,
-   "records": 8,
-   "cells": 6,
+   "records": 34,
+   "cells": 14,
    "file": "assets/geo/species/calcaritermes-temnocephalus.geojson"
   },
   "caribitermes-discolor": {
@@ -5781,6 +5988,17 @@
    "cells": 15,
    "file": "assets/geo/species/compositermes-vindai.geojson"
   },
+  "constrictotermes-cacaoensis": {
+   "latin": "Constrictotermes cacaoensis",
+   "zh": "可可缩白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "constrictotermes",
+   "gbif_key": 9433187,
+   "records": 3,
+   "cells": 1,
+   "file": "assets/geo/species/constrictotermes-cacaoensis.geojson"
+  },
   "constrictotermes-cavifrons": {
    "latin": "Constrictotermes cavifrons",
    "zh": "凹额缩白蚁",
@@ -5788,8 +6006,8 @@
    "family_id": "termitidae",
    "genus_id": "constrictotermes",
    "gbif_key": 9334317,
-   "records": 56,
-   "cells": 25,
+   "records": 68,
+   "cells": 31,
    "file": "assets/geo/species/constrictotermes-cavifrons.geojson"
   },
   "constrictotermes-cyphergaster": {
@@ -5799,8 +6017,8 @@
    "family_id": "termitidae",
    "genus_id": "constrictotermes",
    "gbif_key": 9659889,
-   "records": 196,
-   "cells": 43,
+   "records": 280,
+   "cells": 55,
    "file": "assets/geo/species/constrictotermes-cyphergaster.geojson"
   },
   "constrictotermes-latinotus": {
@@ -5821,7 +6039,7 @@
    "family_id": "termitidae",
    "genus_id": "constrictotermes",
    "gbif_key": 9660787,
-   "records": 10,
+   "records": 11,
    "cells": 3,
    "file": "assets/geo/species/constrictotermes-rupestris.geojson"
   },
@@ -5854,8 +6072,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 4802734,
-   "records": 52,
-   "cells": 23,
+   "records": 1576,
+   "cells": 237,
    "file": "assets/geo/species/coptotermes-acinaciformis.geojson"
   },
   "coptotermes-acinaciformis-acinaciformis": {
@@ -5865,8 +6083,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 9768238,
-   "records": 11,
-   "cells": 5,
+   "records": 738,
+   "cells": 51,
    "file": "assets/geo/species/coptotermes-acinaciformis-acinaciformis.geojson"
   },
   "coptotermes-acinaciformis-raffrayi": {
@@ -5876,8 +6094,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 9786544,
-   "records": 2,
-   "cells": 2,
+   "records": 276,
+   "cells": 29,
    "file": "assets/geo/species/coptotermes-acinaciformis-raffrayi.geojson"
   },
   "coptotermes-amanii": {
@@ -5887,9 +6105,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 8836837,
-   "records": 4,
-   "cells": 2,
+   "records": 6,
+   "cells": 3,
    "file": "assets/geo/species/coptotermes-amanii.geojson"
+  },
+  "coptotermes-boetonensis": {
+   "latin": "Coptotermes boetonensis",
+   "zh": "博顿乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 9698845,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-boetonensis.geojson"
   },
   "coptotermes-brunneus": {
    "latin": "Coptotermes brunneus",
@@ -5898,9 +6127,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 4802735,
-   "records": 2,
-   "cells": 1,
+   "records": 51,
+   "cells": 6,
    "file": "assets/geo/species/coptotermes-brunneus.geojson"
+  },
+  "coptotermes-ceylonicus": {
+   "latin": "Coptotermes ceylonicus",
+   "zh": "锡兰乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 8977720,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-ceylonicus.geojson"
   },
   "coptotermes-curvignathus": {
    "latin": "Coptotermes curvignathus",
@@ -5909,8 +6149,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 9785354,
-   "records": 2,
-   "cells": 2,
+   "records": 3,
+   "cells": 3,
    "file": "assets/geo/species/coptotermes-curvignathus.geojson"
   },
   "coptotermes-dreghorni": {
@@ -5920,8 +6160,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 4802743,
-   "records": 3,
-   "cells": 2,
+   "records": 27,
+   "cells": 3,
    "file": "assets/geo/species/coptotermes-dreghorni.geojson"
   },
   "coptotermes-emersoni": {
@@ -5942,8 +6182,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 2007383,
-   "records": 719,
-   "cells": 76,
+   "records": 757,
+   "cells": 86,
    "file": "assets/geo/species/coptotermes-formosanus.geojson"
   },
   "coptotermes-frenchi": {
@@ -5953,8 +6193,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 4802732,
-   "records": 15,
-   "cells": 9,
+   "records": 619,
+   "cells": 144,
    "file": "assets/geo/species/coptotermes-frenchi.geojson"
   },
   "coptotermes-gestroi": {
@@ -5964,9 +6204,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 2007381,
-   "records": 299,
-   "cells": 44,
+   "records": 514,
+   "cells": 53,
    "file": "assets/geo/species/coptotermes-gestroi.geojson"
+  },
+  "coptotermes-grandiceps": {
+   "latin": "Coptotermes grandiceps",
+   "zh": "庞头乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 7747292,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-grandiceps.geojson"
   },
   "coptotermes-intermedius": {
    "latin": "Coptotermes intermedius",
@@ -5975,9 +6226,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 8717545,
-   "records": 7,
-   "cells": 3,
+   "records": 39,
+   "cells": 12,
    "file": "assets/geo/species/coptotermes-intermedius.geojson"
+  },
+  "coptotermes-kalshoveni": {
+   "latin": "Coptotermes kalshoveni",
+   "zh": "卡尔斯霍芬乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 9655448,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-kalshoveni.geojson"
   },
   "coptotermes-kishori": {
    "latin": "Coptotermes kishori",
@@ -5997,8 +6259,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 4802737,
-   "records": 82,
-   "cells": 20,
+   "records": 393,
+   "cells": 43,
    "file": "assets/geo/species/coptotermes-lacteus.geojson"
   },
   "coptotermes-michaelseni": {
@@ -6008,9 +6270,31 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 4802731,
-   "records": 11,
-   "cells": 5,
+   "records": 88,
+   "cells": 15,
    "file": "assets/geo/species/coptotermes-michaelseni.geojson"
+  },
+  "coptotermes-pamuae": {
+   "latin": "Coptotermes pamuae",
+   "zh": "帕穆亚乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 8800322,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-pamuae.geojson"
+  },
+  "coptotermes-peregrinator": {
+   "latin": "Coptotermes peregrinator",
+   "zh": "陌生乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 9756104,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-peregrinator.geojson"
   },
   "coptotermes-sepangensis": {
    "latin": "Coptotermes sepangensis",
@@ -6030,8 +6314,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 8769616,
-   "records": 1,
-   "cells": 1,
+   "records": 19,
+   "cells": 7,
    "file": "assets/geo/species/coptotermes-sjostedti.geojson"
   },
   "coptotermes-testaceus": {
@@ -6041,9 +6325,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "coptotermes",
    "gbif_key": 2007380,
-   "records": 174,
-   "cells": 62,
+   "records": 252,
+   "cells": 81,
    "file": "assets/geo/species/coptotermes-testaceus.geojson"
+  },
+  "coptotermes-travians": {
+   "latin": "Coptotermes travians",
+   "zh": "南亚乳白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "coptotermes",
+   "gbif_key": 9693175,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/coptotermes-travians.geojson"
   },
   "coptotermes-truncatus": {
    "latin": "Coptotermes truncatus",
@@ -6074,8 +6369,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 8724065,
-   "records": 14,
-   "cells": 5,
+   "records": 22,
+   "cells": 8,
    "file": "assets/geo/species/cornitermes-acignathus.geojson"
   },
   "cornitermes-bequaerti": {
@@ -6085,8 +6380,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9688530,
-   "records": 23,
-   "cells": 15,
+   "records": 114,
+   "cells": 47,
    "file": "assets/geo/species/cornitermes-bequaerti.geojson"
   },
   "cornitermes-bolivianus": {
@@ -6096,8 +6391,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9206354,
-   "records": 8,
-   "cells": 3,
+   "records": 23,
+   "cells": 6,
    "file": "assets/geo/species/cornitermes-bolivianus.geojson"
   },
   "cornitermes-cumulans": {
@@ -6107,9 +6402,20 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9791029,
-   "records": 248,
-   "cells": 74,
+   "records": 675,
+   "cells": 108,
    "file": "assets/geo/species/cornitermes-cumulans.geojson"
+  },
+  "cornitermes-incisus": {
+   "latin": "Cornitermes incisus",
+   "zh": "切割角象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cornitermes",
+   "gbif_key": 9816329,
+   "records": 8,
+   "cells": 5,
+   "file": "assets/geo/species/cornitermes-incisus.geojson"
   },
   "cornitermes-ovatus": {
    "latin": "Cornitermes ovatus",
@@ -6118,9 +6424,20 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9700724,
-   "records": 4,
-   "cells": 3,
+   "records": 7,
+   "cells": 5,
    "file": "assets/geo/species/cornitermes-ovatus.geojson"
+  },
+  "cornitermes-pilosus": {
+   "latin": "Cornitermes pilosus",
+   "zh": "多毛角象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cornitermes",
+   "gbif_key": 8787805,
+   "records": 28,
+   "cells": 5,
+   "file": "assets/geo/species/cornitermes-pilosus.geojson"
   },
   "cornitermes-pugnax": {
    "latin": "Cornitermes pugnax",
@@ -6129,8 +6446,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 8739783,
-   "records": 19,
-   "cells": 10,
+   "records": 233,
+   "cells": 36,
    "file": "assets/geo/species/cornitermes-pugnax.geojson"
   },
   "cornitermes-silvestrii": {
@@ -6140,8 +6457,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9681528,
-   "records": 10,
-   "cells": 5,
+   "records": 140,
+   "cells": 43,
    "file": "assets/geo/species/cornitermes-silvestrii.geojson"
   },
   "cornitermes-snyderi": {
@@ -6151,9 +6468,20 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9771004,
-   "records": 18,
-   "cells": 7,
+   "records": 25,
+   "cells": 12,
    "file": "assets/geo/species/cornitermes-snyderi.geojson"
+  },
+  "cornitermes-villosus": {
+   "latin": "Cornitermes villosus",
+   "zh": "密毛角象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cornitermes",
+   "gbif_key": 9732044,
+   "records": 13,
+   "cells": 5,
+   "file": "assets/geo/species/cornitermes-villosus.geojson"
   },
   "cornitermes-walkeri": {
    "latin": "Cornitermes walkeri",
@@ -6162,8 +6490,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9712557,
-   "records": 20,
-   "cells": 8,
+   "records": 27,
+   "cells": 11,
    "file": "assets/geo/species/cornitermes-walkeri.geojson"
   },
   "cornitermes-weberi": {
@@ -6173,8 +6501,8 @@
    "family_id": "termitidae",
    "genus_id": "cornitermes",
    "gbif_key": 9455829,
-   "records": 2,
-   "cells": 1,
+   "records": 33,
+   "cells": 9,
    "file": "assets/geo/species/cornitermes-weberi.geojson"
   },
   "cortaritermes-fulviceps": {
@@ -6298,6 +6626,28 @@
    "cells": 2,
    "file": "assets/geo/species/cristatitermes-tutulatus.geojson"
   },
+  "cryptotermes-austrinus": {
+   "latin": "Cryptotermes austrinus",
+   "zh": "澳大利亚堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802903,
+   "records": 61,
+   "cells": 17,
+   "file": "assets/geo/species/cryptotermes-austrinus.geojson"
+  },
+  "cryptotermes-bengalensis": {
+   "latin": "Cryptotermes bengalensis",
+   "zh": "孟加拉堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 9661502,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/cryptotermes-bengalensis.geojson"
+  },
   "cryptotermes-brevis": {
    "latin": "Cryptotermes brevis",
    "zh": "麻头堆砂白蚁",
@@ -6305,8 +6655,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 2007322,
-   "records": 1917,
-   "cells": 34,
+   "records": 2109,
+   "cells": 53,
    "file": "assets/geo/species/cryptotermes-brevis.geojson"
   },
   "cryptotermes-cavifrons": {
@@ -6316,9 +6666,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 2007319,
-   "records": 35,
-   "cells": 10,
+   "records": 39,
+   "cells": 12,
    "file": "assets/geo/species/cryptotermes-cavifrons.geojson"
+  },
+  "cryptotermes-contognathus": {
+   "latin": "Cryptotermes contognathus",
+   "zh": "短颚堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 9725485,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/cryptotermes-contognathus.geojson"
+  },
+  "cryptotermes-cristatus": {
+   "latin": "Cryptotermes cristatus",
+   "zh": "高额堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802885,
+   "records": 14,
+   "cells": 4,
+   "file": "assets/geo/species/cryptotermes-cristatus.geojson"
   },
   "cryptotermes-cylindroceps": {
    "latin": "Cryptotermes cylindroceps",
@@ -6331,6 +6703,17 @@
    "cells": 1,
    "file": "assets/geo/species/cryptotermes-cylindroceps.geojson"
   },
+  "cryptotermes-cynocephalus": {
+   "latin": "Cryptotermes cynocephalus",
+   "zh": "犬头堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 2007324,
+   "records": 23,
+   "cells": 6,
+   "file": "assets/geo/species/cryptotermes-cynocephalus.geojson"
+  },
   "cryptotermes-darlingtonae": {
    "latin": "Cryptotermes darlingtonae",
    "zh": "达林顿堆砂白蚁",
@@ -6338,7 +6721,7 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 7991941,
-   "records": 6,
+   "records": 9,
    "cells": 1,
    "file": "assets/geo/species/cryptotermes-darlingtonae.geojson"
   },
@@ -6353,6 +6736,17 @@
    "cells": 1,
    "file": "assets/geo/species/cryptotermes-declivis.geojson"
   },
+  "cryptotermes-dolei": {
+   "latin": "Cryptotermes dolei",
+   "zh": "多尔堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 9373635,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/cryptotermes-dolei.geojson"
+  },
   "cryptotermes-domesticus": {
    "latin": "Cryptotermes domesticus",
    "zh": "截头堆砂白蚁",
@@ -6360,8 +6754,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 4802899,
-   "records": 28,
-   "cells": 6,
+   "records": 122,
+   "cells": 24,
    "file": "assets/geo/species/cryptotermes-domesticus.geojson"
   },
   "cryptotermes-dudleyi": {
@@ -6371,9 +6765,20 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 4802895,
-   "records": 7,
-   "cells": 5,
+   "records": 44,
+   "cells": 17,
    "file": "assets/geo/species/cryptotermes-dudleyi.geojson"
+  },
+  "cryptotermes-gearyi": {
+   "latin": "Cryptotermes gearyi",
+   "zh": "吉尔里堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802891,
+   "records": 8,
+   "cells": 3,
+   "file": "assets/geo/species/cryptotermes-gearyi.geojson"
   },
   "cryptotermes-havilandi": {
    "latin": "Cryptotermes havilandi",
@@ -6382,9 +6787,20 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 2007325,
-   "records": 19,
-   "cells": 7,
+   "records": 28,
+   "cells": 11,
    "file": "assets/geo/species/cryptotermes-havilandi.geojson"
+  },
+  "cryptotermes-hilli": {
+   "latin": "Cryptotermes hilli",
+   "zh": "希尔堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802901,
+   "records": 17,
+   "cells": 9,
+   "file": "assets/geo/species/cryptotermes-hilli.geojson"
   },
   "cryptotermes-longicollis": {
    "latin": "Cryptotermes longicollis",
@@ -6397,6 +6813,17 @@
    "cells": 1,
    "file": "assets/geo/species/cryptotermes-longicollis.geojson"
   },
+  "cryptotermes-nitidus": {
+   "latin": "Cryptotermes nitidus",
+   "zh": "亮头堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802896,
+   "records": 7,
+   "cells": 3,
+   "file": "assets/geo/species/cryptotermes-nitidus.geojson"
+  },
   "cryptotermes-pallidus": {
    "latin": "Cryptotermes pallidus",
    "zh": "苍白堆砂白蚁",
@@ -6404,9 +6831,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 9785379,
-   "records": 1,
+   "records": 4,
    "cells": 1,
    "file": "assets/geo/species/cryptotermes-pallidus.geojson"
+  },
+  "cryptotermes-papulosus": {
+   "latin": "Cryptotermes papulosus",
+   "zh": "丘翅堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802894,
+   "records": 6,
+   "cells": 2,
+   "file": "assets/geo/species/cryptotermes-papulosus.geojson"
+  },
+  "cryptotermes-perforans": {
+   "latin": "Cryptotermes perforans",
+   "zh": "穿孔堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 9732925,
+   "records": 3,
+   "cells": 1,
+   "file": "assets/geo/species/cryptotermes-perforans.geojson"
   },
   "cryptotermes-primus": {
    "latin": "Cryptotermes primus",
@@ -6415,9 +6864,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 4802888,
-   "records": 3,
-   "cells": 2,
+   "records": 143,
+   "cells": 29,
    "file": "assets/geo/species/cryptotermes-primus.geojson"
+  },
+  "cryptotermes-queenslandis": {
+   "latin": "Cryptotermes queenslandis",
+   "zh": "昆士兰堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802897,
+   "records": 79,
+   "cells": 14,
+   "file": "assets/geo/species/cryptotermes-queenslandis.geojson"
+  },
+  "cryptotermes-riverinae": {
+   "latin": "Cryptotermes riverinae",
+   "zh": "里弗赖纳堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802890,
+   "records": 11,
+   "cells": 2,
+   "file": "assets/geo/species/cryptotermes-riverinae.geojson"
   },
   "cryptotermes-secundus": {
    "latin": "Cryptotermes secundus",
@@ -6426,8 +6897,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 4802883,
-   "records": 3,
-   "cells": 3,
+   "records": 91,
+   "cells": 18,
    "file": "assets/geo/species/cryptotermes-secundus.geojson"
   },
   "cryptotermes-simulatus": {
@@ -6437,9 +6908,42 @@
    "family_id": "kalotermitidae",
    "genus_id": "cryptotermes",
    "gbif_key": 4802893,
-   "records": 1,
-   "cells": 1,
+   "records": 134,
+   "cells": 16,
    "file": "assets/geo/species/cryptotermes-simulatus.geojson"
+  },
+  "cryptotermes-sumatrensis": {
+   "latin": "Cryptotermes sumatrensis",
+   "zh": "苏门答腊堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 9679614,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/cryptotermes-sumatrensis.geojson"
+  },
+  "cryptotermes-tropicalis": {
+   "latin": "Cryptotermes tropicalis",
+   "zh": "热带堆砂白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "cryptotermes",
+   "gbif_key": 4802887,
+   "records": 32,
+   "cells": 5,
+   "file": "assets/geo/species/cryptotermes-tropicalis.geojson"
+  },
+  "cubitermes-bilobatus": {
+   "latin": "Cubitermes bilobatus",
+   "zh": "双裂方白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cubitermes",
+   "gbif_key": 8813583,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/cubitermes-bilobatus.geojson"
   },
   "cubitermes-exiguus": {
    "latin": "Cubitermes exiguus",
@@ -6485,6 +6989,39 @@
    "cells": 22,
    "file": "assets/geo/species/curvitermes-odontognathus.geojson"
   },
+  "cylindrotermes-brevipilosus": {
+   "latin": "Cylindrotermes brevipilosus",
+   "zh": "短毛圆筒白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cylindrotermes",
+   "gbif_key": 8932175,
+   "records": 8,
+   "cells": 5,
+   "file": "assets/geo/species/cylindrotermes-brevipilosus.geojson"
+  },
+  "cylindrotermes-caata": {
+   "latin": "Cylindrotermes caata",
+   "zh": "骨痂圆筒白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cylindrotermes",
+   "gbif_key": 9760333,
+   "records": 6,
+   "cells": 2,
+   "file": "assets/geo/species/cylindrotermes-caata.geojson"
+  },
+  "cylindrotermes-capixaba": {
+   "latin": "Cylindrotermes capixaba",
+   "zh": "卡皮沙巴圆筒白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cylindrotermes",
+   "gbif_key": 9678139,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/cylindrotermes-capixaba.geojson"
+  },
   "cylindrotermes-flangiatus": {
    "latin": "Cylindrotermes flangiatus",
    "zh": "凸缘圆筒白蚁",
@@ -6492,8 +7029,8 @@
    "family_id": "termitidae",
    "genus_id": "cylindrotermes",
    "gbif_key": 9742621,
-   "records": 25,
-   "cells": 5,
+   "records": 141,
+   "cells": 13,
    "file": "assets/geo/species/cylindrotermes-flangiatus.geojson"
   },
   "cylindrotermes-macrognathus": {
@@ -6503,8 +7040,8 @@
    "family_id": "termitidae",
    "genus_id": "cylindrotermes",
    "gbif_key": 9002583,
-   "records": 5,
-   "cells": 2,
+   "records": 10,
+   "cells": 3,
    "file": "assets/geo/species/cylindrotermes-macrognathus.geojson"
   },
   "cylindrotermes-parvignathus": {
@@ -6514,9 +7051,20 @@
    "family_id": "termitidae",
    "genus_id": "cylindrotermes",
    "gbif_key": 9013595,
-   "records": 232,
-   "cells": 14,
+   "records": 378,
+   "cells": 31,
    "file": "assets/geo/species/cylindrotermes-parvignathus.geojson"
+  },
+  "cylindrotermes-sapiranga": {
+   "latin": "Cylindrotermes sapiranga",
+   "zh": "萨皮兰加圆筒白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "cylindrotermes",
+   "gbif_key": 9774568,
+   "records": 15,
+   "cells": 9,
+   "file": "assets/geo/species/cylindrotermes-sapiranga.geojson"
   },
   "cyranotermes-caete": {
    "latin": "Cyranotermes caete",
@@ -6767,8 +7315,8 @@
    "family_id": "termitidae",
    "genus_id": "diversitermes",
    "gbif_key": 8933591,
-   "records": 20,
-   "cells": 5,
+   "records": 44,
+   "cells": 13,
    "file": "assets/geo/species/diversitermes-castaniceps.geojson"
   },
   "diversitermes-diversimiles": {
@@ -6778,8 +7326,8 @@
    "family_id": "termitidae",
    "genus_id": "diversitermes",
    "gbif_key": 8821445,
-   "records": 69,
-   "cells": 15,
+   "records": 97,
+   "cells": 30,
    "file": "assets/geo/species/diversitermes-diversimiles.geojson"
   },
   "diversitermes-tiapuan": {
@@ -6789,8 +7337,8 @@
    "family_id": "termitidae",
    "genus_id": "diversitermes",
    "gbif_key": 9223702,
-   "records": 17,
-   "cells": 2,
+   "records": 32,
+   "cells": 11,
    "file": "assets/geo/species/diversitermes-tiapuan.geojson"
   },
   "divinotermes-allognathus": {
@@ -6899,7 +7447,7 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803329,
-   "records": 2,
+   "records": 3,
    "cells": 1,
    "file": "assets/geo/species/drepanotermes-acicularis.geojson"
   },
@@ -6910,8 +7458,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803330,
-   "records": 9,
-   "cells": 4,
+   "records": 13,
+   "cells": 6,
    "file": "assets/geo/species/drepanotermes-barretti.geojson"
   },
   "drepanotermes-basidens": {
@@ -6921,8 +7469,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803321,
-   "records": 10,
-   "cells": 8,
+   "records": 31,
+   "cells": 12,
    "file": "assets/geo/species/drepanotermes-basidens.geojson"
   },
   "drepanotermes-bellator": {
@@ -6932,8 +7480,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803319,
-   "records": 36,
-   "cells": 12,
+   "records": 55,
+   "cells": 15,
    "file": "assets/geo/species/drepanotermes-bellator.geojson"
   },
   "drepanotermes-brevis": {
@@ -6943,8 +7491,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803333,
-   "records": 1,
-   "cells": 1,
+   "records": 11,
+   "cells": 3,
    "file": "assets/geo/species/drepanotermes-brevis.geojson"
   },
   "drepanotermes-calabyi": {
@@ -6954,8 +7502,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803340,
-   "records": 31,
-   "cells": 14,
+   "records": 84,
+   "cells": 22,
    "file": "assets/geo/species/drepanotermes-calabyi.geojson"
   },
   "drepanotermes-clarki": {
@@ -6965,8 +7513,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803338,
-   "records": 15,
-   "cells": 9,
+   "records": 77,
+   "cells": 18,
    "file": "assets/geo/species/drepanotermes-clarki.geojson"
   },
   "drepanotermes-columellaris": {
@@ -6976,8 +7524,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803332,
-   "records": 21,
-   "cells": 7,
+   "records": 58,
+   "cells": 12,
    "file": "assets/geo/species/drepanotermes-columellaris.geojson"
   },
   "drepanotermes-corax": {
@@ -6987,8 +7535,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803336,
-   "records": 10,
-   "cells": 4,
+   "records": 14,
+   "cells": 5,
    "file": "assets/geo/species/drepanotermes-corax.geojson"
   },
   "drepanotermes-crassidens": {
@@ -6998,7 +7546,7 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803328,
-   "records": 7,
+   "records": 12,
    "cells": 2,
    "file": "assets/geo/species/drepanotermes-crassidens.geojson"
   },
@@ -7009,8 +7557,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803327,
-   "records": 23,
-   "cells": 9,
+   "records": 64,
+   "cells": 20,
    "file": "assets/geo/species/drepanotermes-daliensis.geojson"
   },
   "drepanotermes-dibolia": {
@@ -7020,7 +7568,7 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803318,
-   "records": 12,
+   "records": 24,
    "cells": 4,
    "file": "assets/geo/species/drepanotermes-dibolia.geojson"
   },
@@ -7031,8 +7579,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803331,
-   "records": 66,
-   "cells": 29,
+   "records": 139,
+   "cells": 42,
    "file": "assets/geo/species/drepanotermes-diversicolor.geojson"
   },
   "drepanotermes-gayi": {
@@ -7042,8 +7590,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803322,
-   "records": 43,
-   "cells": 16,
+   "records": 103,
+   "cells": 23,
    "file": "assets/geo/species/drepanotermes-gayi.geojson"
   },
   "drepanotermes-hamulus": {
@@ -7053,7 +7601,7 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803334,
-   "records": 27,
+   "records": 39,
    "cells": 8,
    "file": "assets/geo/species/drepanotermes-hamulus.geojson"
   },
@@ -7064,8 +7612,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803323,
-   "records": 22,
-   "cells": 9,
+   "records": 31,
+   "cells": 10,
    "file": "assets/geo/species/drepanotermes-hilli.geojson"
   },
   "drepanotermes-invasor": {
@@ -7075,8 +7623,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803343,
-   "records": 2,
-   "cells": 2,
+   "records": 33,
+   "cells": 11,
    "file": "assets/geo/species/drepanotermes-invasor.geojson"
   },
   "drepanotermes-paradoxus": {
@@ -7086,7 +7634,7 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803337,
-   "records": 4,
+   "records": 10,
    "cells": 1,
    "file": "assets/geo/species/drepanotermes-paradoxus.geojson"
   },
@@ -7097,8 +7645,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803325,
-   "records": 114,
-   "cells": 58,
+   "records": 548,
+   "cells": 153,
    "file": "assets/geo/species/drepanotermes-perniger.geojson"
   },
   "drepanotermes-phoenix": {
@@ -7108,8 +7656,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803320,
-   "records": 12,
-   "cells": 3,
+   "records": 29,
+   "cells": 4,
    "file": "assets/geo/species/drepanotermes-phoenix.geojson"
   },
   "drepanotermes-rubriceps": {
@@ -7119,8 +7667,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803341,
-   "records": 165,
-   "cells": 67,
+   "records": 472,
+   "cells": 143,
    "file": "assets/geo/species/drepanotermes-rubriceps.geojson"
   },
   "drepanotermes-septentrionalis": {
@@ -7130,7 +7678,7 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803324,
-   "records": 34,
+   "records": 55,
    "cells": 8,
    "file": "assets/geo/species/drepanotermes-septentrionalis.geojson"
   },
@@ -7141,8 +7689,8 @@
    "family_id": "termitidae",
    "genus_id": "drepanotermes",
    "gbif_key": 4803316,
-   "records": 29,
-   "cells": 9,
+   "records": 139,
+   "cells": 19,
    "file": "assets/geo/species/drepanotermes-tamminensis.geojson"
   },
   "echinotermes-biriba": {
@@ -7196,8 +7744,8 @@
    "family_id": "termitidae",
    "genus_id": "embiratermes",
    "gbif_key": 9655013,
-   "records": 6,
-   "cells": 5,
+   "records": 57,
+   "cells": 7,
    "file": "assets/geo/species/embiratermes-chagresi.geojson"
   },
   "embiratermes-festivellus": {
@@ -7207,9 +7755,20 @@
    "family_id": "termitidae",
    "genus_id": "embiratermes",
    "gbif_key": 9727699,
-   "records": 1,
-   "cells": 1,
+   "records": 89,
+   "cells": 39,
    "file": "assets/geo/species/embiratermes-festivellus.geojson"
+  },
+  "embiratermes-heterotypus": {
+   "latin": "Embiratermes heterotypus",
+   "zh": "异型生白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "embiratermes",
+   "gbif_key": 9715663,
+   "records": 29,
+   "cells": 15,
+   "file": "assets/geo/species/embiratermes-heterotypus.geojson"
   },
   "embiratermes-latidens": {
    "latin": "Embiratermes latidens",
@@ -7218,8 +7777,8 @@
    "family_id": "termitidae",
    "genus_id": "embiratermes",
    "gbif_key": 9807952,
-   "records": 1,
-   "cells": 1,
+   "records": 169,
+   "cells": 7,
    "file": "assets/geo/species/embiratermes-latidens.geojson"
   },
   "embiratermes-neotenicus": {
@@ -7229,8 +7788,8 @@
    "family_id": "termitidae",
    "genus_id": "embiratermes",
    "gbif_key": 9316129,
-   "records": 90,
-   "cells": 14,
+   "records": 230,
+   "cells": 38,
    "file": "assets/geo/species/embiratermes-neotenicus.geojson"
   },
   "embiratermes-spissus": {
@@ -7251,8 +7810,8 @@
    "family_id": "termitidae",
    "genus_id": "ephelotermes",
    "gbif_key": 4803374,
-   "records": 75,
-   "cells": 41,
+   "records": 120,
+   "cells": 62,
    "file": "assets/geo/species/ephelotermes-argutus.geojson"
   },
   "ephelotermes-cheeli": {
@@ -7262,7 +7821,7 @@
    "family_id": "termitidae",
    "genus_id": "ephelotermes",
    "gbif_key": 4803381,
-   "records": 107,
+   "records": 137,
    "cells": 16,
    "file": "assets/geo/species/ephelotermes-cheeli.geojson"
   },
@@ -7273,8 +7832,8 @@
    "family_id": "termitidae",
    "genus_id": "ephelotermes",
    "gbif_key": 4803376,
-   "records": 83,
-   "cells": 24,
+   "records": 84,
+   "cells": 25,
    "file": "assets/geo/species/ephelotermes-melachoma.geojson"
   },
   "ephelotermes-paleatus": {
@@ -7295,8 +7854,8 @@
    "family_id": "termitidae",
    "genus_id": "ephelotermes",
    "gbif_key": 4803377,
-   "records": 8,
-   "cells": 6,
+   "records": 17,
+   "cells": 11,
    "file": "assets/geo/species/ephelotermes-persimilis.geojson"
   },
   "ephelotermes-taylori": {
@@ -7306,8 +7865,8 @@
    "family_id": "termitidae",
    "genus_id": "ephelotermes",
    "gbif_key": 4803379,
-   "records": 12,
-   "cells": 3,
+   "records": 13,
+   "cells": 4,
    "file": "assets/geo/species/ephelotermes-taylori.geojson"
   },
   "eremotermes-neoparadoxalis": {
@@ -7801,8 +8360,8 @@
    "family_id": "termitidae",
    "genus_id": "gnathamitermes",
    "gbif_key": 2007309,
-   "records": 9,
-   "cells": 7,
+   "records": 15,
+   "cells": 8,
    "file": "assets/geo/species/gnathamitermes-perplexus.geojson"
   },
   "gnathamitermes-tubiformans": {
@@ -7845,8 +8404,8 @@
    "family_id": "termitidae",
    "genus_id": "grigiotermes",
    "gbif_key": 9662984,
-   "records": 5,
-   "cells": 2,
+   "records": 28,
+   "cells": 16,
    "file": "assets/geo/species/grigiotermes-hageni.geojson"
   },
   "hapsidotermes-harrisi": {
@@ -7933,7 +8492,7 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 9756163,
-   "records": 4,
+   "records": 5,
    "cells": 4,
    "file": "assets/geo/species/heterotermes-assu.geojson"
   },
@@ -7944,9 +8503,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 2007376,
-   "records": 55,
-   "cells": 12,
+   "records": 423,
+   "cells": 24,
    "file": "assets/geo/species/heterotermes-aureus.geojson"
+  },
+  "heterotermes-brevicatena": {
+   "latin": "Heterotermes brevicatena",
+   "zh": "短链异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802774,
+   "records": 47,
+   "cells": 6,
+   "file": "assets/geo/species/heterotermes-brevicatena.geojson"
   },
   "heterotermes-cardini": {
    "latin": "Heterotermes cardini",
@@ -7955,8 +8525,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 9676899,
-   "records": 31,
-   "cells": 5,
+   "records": 39,
+   "cells": 13,
    "file": "assets/geo/species/heterotermes-cardini.geojson"
   },
   "heterotermes-convexinotatus": {
@@ -7966,8 +8536,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 2007375,
-   "records": 21,
-   "cells": 8,
+   "records": 72,
+   "cells": 16,
    "file": "assets/geo/species/heterotermes-convexinotatus.geojson"
   },
   "heterotermes-crinitus": {
@@ -7977,8 +8547,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 9449181,
-   "records": 59,
-   "cells": 7,
+   "records": 71,
+   "cells": 13,
    "file": "assets/geo/species/heterotermes-crinitus.geojson"
   },
   "heterotermes-ferox": {
@@ -7988,8 +8558,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 4802771,
-   "records": 1,
-   "cells": 1,
+   "records": 714,
+   "cells": 123,
    "file": "assets/geo/species/heterotermes-ferox.geojson"
   },
   "heterotermes-gertrudae": {
@@ -8010,9 +8580,31 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 8776851,
-   "records": 3,
-   "cells": 3,
+   "records": 7,
+   "cells": 6,
    "file": "assets/geo/species/heterotermes-indicola.geojson"
+  },
+  "heterotermes-intermedius": {
+   "latin": "Heterotermes intermedius",
+   "zh": "中间异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802769,
+   "records": 70,
+   "cells": 44,
+   "file": "assets/geo/species/heterotermes-intermedius.geojson"
+  },
+  "heterotermes-longicatena": {
+   "latin": "Heterotermes longicatena",
+   "zh": "长链异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802767,
+   "records": 15,
+   "cells": 3,
+   "file": "assets/geo/species/heterotermes-longicatena.geojson"
   },
   "heterotermes-longiceps": {
    "latin": "Heterotermes longiceps",
@@ -8021,8 +8613,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 9695966,
-   "records": 57,
-   "cells": 28,
+   "records": 140,
+   "cells": 42,
    "file": "assets/geo/species/heterotermes-longiceps.geojson"
   },
   "heterotermes-maculatus": {
@@ -8032,8 +8624,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 2007378,
-   "records": 1,
-   "cells": 1,
+   "records": 58,
+   "cells": 2,
    "file": "assets/geo/species/heterotermes-maculatus.geojson"
   },
   "heterotermes-malabaricus": {
@@ -8047,6 +8639,39 @@
    "cells": 3,
    "file": "assets/geo/species/heterotermes-malabaricus.geojson"
   },
+  "heterotermes-occiduus": {
+   "latin": "Heterotermes occiduus",
+   "zh": "西部异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802773,
+   "records": 54,
+   "cells": 23,
+   "file": "assets/geo/species/heterotermes-occiduus.geojson"
+  },
+  "heterotermes-pamatatensis": {
+   "latin": "Heterotermes pamatatensis",
+   "zh": "帕玛塔塔异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 9658129,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/heterotermes-pamatatensis.geojson"
+  },
+  "heterotermes-paradoxus": {
+   "latin": "Heterotermes paradoxus",
+   "zh": "奇异异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802775,
+   "records": 136,
+   "cells": 55,
+   "file": "assets/geo/species/heterotermes-paradoxus.geojson"
+  },
   "heterotermes-platycephalus": {
    "latin": "Heterotermes platycephalus",
    "zh": "宽头异白蚁",
@@ -8054,8 +8679,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 4802768,
-   "records": 1,
-   "cells": 1,
+   "records": 159,
+   "cells": 27,
    "file": "assets/geo/species/heterotermes-platycephalus.geojson"
   },
   "heterotermes-sulcatus": {
@@ -8065,8 +8690,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 9727247,
-   "records": 7,
-   "cells": 6,
+   "records": 70,
+   "cells": 34,
    "file": "assets/geo/species/heterotermes-sulcatus.geojson"
   },
   "heterotermes-tenuis": {
@@ -8076,9 +8701,31 @@
    "family_id": "heterotermitidae",
    "genus_id": "heterotermes",
    "gbif_key": 2007377,
-   "records": 472,
-   "cells": 54,
+   "records": 862,
+   "cells": 127,
    "file": "assets/geo/species/heterotermes-tenuis.geojson"
+  },
+  "heterotermes-vagus": {
+   "latin": "Heterotermes vagus",
+   "zh": "游荡异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802770,
+   "records": 73,
+   "cells": 20,
+   "file": "assets/geo/species/heterotermes-vagus.geojson"
+  },
+  "heterotermes-validus": {
+   "latin": "Heterotermes validus",
+   "zh": "健壮异白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "heterotermes",
+   "gbif_key": 4802765,
+   "records": 38,
+   "cells": 11,
+   "file": "assets/geo/species/heterotermes-validus.geojson"
   },
   "hirsutitermes-kanzakii": {
    "latin": "Hirsutitermes kanzakii",
@@ -8098,8 +8745,8 @@
    "family_id": "hodotermitidae",
    "genus_id": "hodotermes",
    "gbif_key": 9088572,
-   "records": 300,
-   "cells": 92,
+   "records": 533,
+   "cells": 130,
    "file": "assets/geo/species/hodotermes-mossambicus.geojson"
   },
   "hodotermopsis-sjostedti": {
@@ -8322,6 +8969,39 @@
    "cells": 1,
    "file": "assets/geo/species/ibitermes-inflatus.geojson"
   },
+  "incisitermes-banksi": {
+   "latin": "Incisitermes banksi",
+   "zh": "班克斯楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 2007349,
+   "records": 30,
+   "cells": 5,
+   "file": "assets/geo/species/incisitermes-banksi.geojson"
+  },
+  "incisitermes-barretti": {
+   "latin": "Incisitermes barretti",
+   "zh": "巴雷特楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 4802850,
+   "records": 27,
+   "cells": 6,
+   "file": "assets/geo/species/incisitermes-barretti.geojson"
+  },
+  "incisitermes-bequaerti": {
+   "latin": "Incisitermes bequaerti",
+   "zh": "贝奎特楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 9713033,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/incisitermes-bequaerti.geojson"
+  },
   "incisitermes-fruticavus": {
    "latin": "Incisitermes fruticavus",
    "zh": "蛀果楹白蚁",
@@ -8329,8 +9009,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "incisitermes",
    "gbif_key": 2007354,
-   "records": 6,
-   "cells": 2,
+   "records": 24,
+   "cells": 3,
    "file": "assets/geo/species/incisitermes-fruticavus.geojson"
   },
   "incisitermes-immigrans": {
@@ -8340,8 +9020,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "incisitermes",
    "gbif_key": 2007344,
-   "records": 7,
-   "cells": 5,
+   "records": 15,
+   "cells": 6,
    "file": "assets/geo/species/incisitermes-immigrans.geojson"
   },
   "incisitermes-incisus": {
@@ -8351,9 +9031,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "incisitermes",
    "gbif_key": 7559669,
-   "records": 74,
+   "records": 77,
    "cells": 1,
    "file": "assets/geo/species/incisitermes-incisus.geojson"
+  },
+  "incisitermes-marginipennis": {
+   "latin": "Incisitermes marginipennis",
+   "zh": "缘翅楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 2007342,
+   "records": 13,
+   "cells": 2,
+   "file": "assets/geo/species/incisitermes-marginipennis.geojson"
+  },
+  "incisitermes-milleri": {
+   "latin": "Incisitermes milleri",
+   "zh": "米勒楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 2007350,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/incisitermes-milleri.geojson"
   },
   "incisitermes-minor": {
    "latin": "Incisitermes minor",
@@ -8362,9 +9064,42 @@
    "family_id": "kalotermitidae",
    "genus_id": "incisitermes",
    "gbif_key": 2007347,
-   "records": 680,
-   "cells": 39,
+   "records": 1113,
+   "cells": 54,
    "file": "assets/geo/species/incisitermes-minor.geojson"
+  },
+  "incisitermes-pacificus": {
+   "latin": "Incisitermes pacificus",
+   "zh": "太平洋楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 9753659,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/incisitermes-pacificus.geojson"
+  },
+  "incisitermes-platycephalus": {
+   "latin": "Incisitermes platycephalus",
+   "zh": "宽头楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 2007348,
+   "records": 18,
+   "cells": 1,
+   "file": "assets/geo/species/incisitermes-platycephalus.geojson"
+  },
+  "incisitermes-repandus": {
+   "latin": "Incisitermes repandus",
+   "zh": "转变楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 4802848,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/incisitermes-repandus.geojson"
   },
   "incisitermes-schwarzi": {
    "latin": "Incisitermes schwarzi",
@@ -8373,9 +9108,20 @@
    "family_id": "kalotermitidae",
    "genus_id": "incisitermes",
    "gbif_key": 2007352,
-   "records": 14,
-   "cells": 2,
+   "records": 272,
+   "cells": 6,
    "file": "assets/geo/species/incisitermes-schwarzi.geojson"
+  },
+  "incisitermes-seeversi": {
+   "latin": "Incisitermes seeversi",
+   "zh": "西弗斯楹白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "incisitermes",
+   "gbif_key": 2007343,
+   "records": 5,
+   "cells": 1,
+   "file": "assets/geo/species/incisitermes-seeversi.geojson"
   },
   "incisitermes-snyderi": {
    "latin": "Incisitermes snyderi",
@@ -8384,8 +9130,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "incisitermes",
    "gbif_key": 2007351,
-   "records": 109,
-   "cells": 33,
+   "records": 156,
+   "cells": 39,
    "file": "assets/geo/species/incisitermes-snyderi.geojson"
   },
   "incolitermes-pumilus": {
@@ -8465,6 +9211,17 @@
    "cells": 1,
    "file": "assets/geo/species/jugositermes-tuberculatus.geojson"
   },
+  "kalotermes-aemulus": {
+   "latin": "Kalotermes aemulus",
+   "zh": "竞争木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802866,
+   "records": 41,
+   "cells": 11,
+   "file": "assets/geo/species/kalotermes-aemulus.geojson"
+  },
   "kalotermes-approximatus": {
    "latin": "Kalotermes approximatus",
    "zh": "邻近木白蚁",
@@ -8472,9 +9229,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "kalotermes",
    "gbif_key": 2007364,
-   "records": 10,
-   "cells": 9,
+   "records": 18,
+   "cells": 13,
    "file": "assets/geo/species/kalotermes-approximatus.geojson"
+  },
+  "kalotermes-atratus": {
+   "latin": "Kalotermes atratus",
+   "zh": "黑色木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802862,
+   "records": 24,
+   "cells": 10,
+   "file": "assets/geo/species/kalotermes-atratus.geojson"
+  },
+  "kalotermes-banksiae": {
+   "latin": "Kalotermes banksiae",
+   "zh": "山龙眼木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802859,
+   "records": 110,
+   "cells": 16,
+   "file": "assets/geo/species/kalotermes-banksiae.geojson"
   },
   "kalotermes-brouni": {
    "latin": "Kalotermes brouni",
@@ -8483,8 +9262,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "kalotermes",
    "gbif_key": 4802858,
-   "records": 13,
-   "cells": 7,
+   "records": 31,
+   "cells": 13,
    "file": "assets/geo/species/kalotermes-brouni.geojson"
   },
   "kalotermes-capicola": {
@@ -8494,9 +9273,31 @@
    "family_id": "kalotermitidae",
    "genus_id": "kalotermes",
    "gbif_key": 9689352,
-   "records": 3,
+   "records": 5,
    "cells": 2,
    "file": "assets/geo/species/kalotermes-capicola.geojson"
+  },
+  "kalotermes-cognatus": {
+   "latin": "Kalotermes cognatus",
+   "zh": "共生木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802865,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/kalotermes-cognatus.geojson"
+  },
+  "kalotermes-convexus": {
+   "latin": "Kalotermes convexus",
+   "zh": "凸木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802855,
+   "records": 107,
+   "cells": 27,
+   "file": "assets/geo/species/kalotermes-convexus.geojson"
   },
   "kalotermes-dispar": {
    "latin": "Kalotermes dispar",
@@ -8505,8 +9306,8 @@
    "family_id": "kalotermitidae",
    "genus_id": "kalotermes",
    "gbif_key": 4514008,
-   "records": 12,
-   "cells": 3,
+   "records": 17,
+   "cells": 4,
    "file": "assets/geo/species/kalotermes-dispar.geojson"
   },
   "kalotermes-flavicollis": {
@@ -8516,9 +9317,42 @@
    "family_id": "kalotermitidae",
    "genus_id": "kalotermes",
    "gbif_key": 4514009,
-   "records": 572,
-   "cells": 151,
+   "records": 1102,
+   "cells": 179,
    "file": "assets/geo/species/kalotermes-flavicollis.geojson"
+  },
+  "kalotermes-hilli": {
+   "latin": "Kalotermes hilli",
+   "zh": "希尔木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802879,
+   "records": 60,
+   "cells": 12,
+   "file": "assets/geo/species/kalotermes-hilli.geojson"
+  },
+  "kalotermes-jepsoni": {
+   "latin": "Kalotermes jepsoni",
+   "zh": "杰普森木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 9665914,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/kalotermes-jepsoni.geojson"
+  },
+  "kalotermes-pallidinotum": {
+   "latin": "Kalotermes pallidinotum",
+   "zh": "白背木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802853,
+   "records": 30,
+   "cells": 7,
+   "file": "assets/geo/species/kalotermes-pallidinotum.geojson"
   },
   "kalotermes-rufinotum": {
    "latin": "Kalotermes rufinotum",
@@ -8527,9 +9361,20 @@
    "family_id": "kalotermitidae",
    "genus_id": "kalotermes",
    "gbif_key": 4802852,
-   "records": 4,
-   "cells": 3,
+   "records": 86,
+   "cells": 19,
    "file": "assets/geo/species/kalotermes-rufinotum.geojson"
+  },
+  "kalotermes-serrulatus": {
+   "latin": "Kalotermes serrulatus",
+   "zh": "细锯齿木白蚁",
+   "rank": "species",
+   "family_id": "kalotermitidae",
+   "genus_id": "kalotermes",
+   "gbif_key": 4802864,
+   "records": 12,
+   "cells": 3,
+   "file": "assets/geo/species/kalotermes-serrulatus.geojson"
   },
   "kaudernitermes-laticeps": {
    "latin": "Kaudernitermes laticeps",
@@ -8582,8 +9427,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 8000408,
-   "records": 28,
-   "cells": 15,
+   "records": 45,
+   "cells": 19,
    "file": "assets/geo/species/labiotermes-brevilabius.geojson"
   },
   "labiotermes-emersoni": {
@@ -8593,8 +9438,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 7451380,
-   "records": 15,
-   "cells": 7,
+   "records": 35,
+   "cells": 12,
    "file": "assets/geo/species/labiotermes-emersoni.geojson"
   },
   "labiotermes-guasu": {
@@ -8615,7 +9460,7 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 8275978,
-   "records": 110,
+   "records": 117,
    "cells": 36,
    "file": "assets/geo/species/labiotermes-labralis.geojson"
   },
@@ -8626,8 +9471,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 8380526,
-   "records": 6,
-   "cells": 5,
+   "records": 7,
+   "cells": 6,
    "file": "assets/geo/species/labiotermes-laticephalus.geojson"
   },
   "labiotermes-leptothrix": {
@@ -8637,8 +9482,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 8055459,
-   "records": 6,
-   "cells": 5,
+   "records": 8,
+   "cells": 6,
    "file": "assets/geo/species/labiotermes-leptothrix.geojson"
   },
   "labiotermes-longilabius": {
@@ -8648,8 +9493,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 7548187,
-   "records": 9,
-   "cells": 7,
+   "records": 15,
+   "cells": 11,
    "file": "assets/geo/species/labiotermes-longilabius.geojson"
   },
   "labiotermes-oreadicus": {
@@ -8670,8 +9515,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 7640481,
-   "records": 29,
-   "cells": 23,
+   "records": 42,
+   "cells": 33,
    "file": "assets/geo/species/labiotermes-orthocephalus.geojson"
   },
   "labiotermes-pelliceus": {
@@ -8681,8 +9526,8 @@
    "family_id": "termitidae",
    "genus_id": "labiotermes",
    "gbif_key": 7620690,
-   "records": 33,
-   "cells": 8,
+   "records": 36,
+   "cells": 10,
    "file": "assets/geo/species/labiotermes-pelliceus.geojson"
   },
   "lacessititermes-batavus": {
@@ -8769,8 +9614,8 @@
    "family_id": "termitidae",
    "genus_id": "longustitermes",
    "gbif_key": 9618939,
-   "records": 20,
-   "cells": 4,
+   "records": 89,
+   "cells": 11,
    "file": "assets/geo/species/longustitermes-manni.geojson"
   },
   "lophotermes-aduncus": {
@@ -8956,8 +9801,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9143676,
-   "records": 32,
-   "cells": 10,
+   "records": 33,
+   "cells": 11,
    "file": "assets/geo/species/macrotermes-barneyi.geojson"
   },
   "macrotermes-beaufortensis": {
@@ -8978,8 +9823,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9656725,
-   "records": 89,
-   "cells": 23,
+   "records": 134,
+   "cells": 34,
    "file": "assets/geo/species/macrotermes-bellicosus.geojson"
   },
   "macrotermes-carbonarius": {
@@ -8989,8 +9834,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9769827,
-   "records": 595,
-   "cells": 43,
+   "records": 597,
+   "cells": 44,
    "file": "assets/geo/species/macrotermes-carbonarius.geojson"
   },
   "macrotermes-chaiglomi": {
@@ -9022,8 +9867,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9689975,
-   "records": 8,
-   "cells": 4,
+   "records": 10,
+   "cells": 6,
    "file": "assets/geo/species/macrotermes-falciger.geojson"
   },
   "macrotermes-gilvus": {
@@ -9033,8 +9878,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9645360,
-   "records": 177,
-   "cells": 51,
+   "records": 204,
+   "cells": 56,
    "file": "assets/geo/species/macrotermes-gilvus.geojson"
   },
   "macrotermes-herus": {
@@ -9044,8 +9889,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9664034,
-   "records": 72,
-   "cells": 12,
+   "records": 75,
+   "cells": 13,
    "file": "assets/geo/species/macrotermes-herus.geojson"
   },
   "macrotermes-lilljeborgi": {
@@ -9055,8 +9900,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 8967175,
-   "records": 8,
-   "cells": 5,
+   "records": 9,
+   "cells": 6,
    "file": "assets/geo/species/macrotermes-lilljeborgi.geojson"
   },
   "macrotermes-malaccensis": {
@@ -9077,8 +9922,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9809773,
-   "records": 66,
-   "cells": 35,
+   "records": 112,
+   "cells": 41,
    "file": "assets/geo/species/macrotermes-michaelseni.geojson"
   },
   "macrotermes-natalensis": {
@@ -9088,8 +9933,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 8742747,
-   "records": 102,
-   "cells": 26,
+   "records": 196,
+   "cells": 33,
    "file": "assets/geo/species/macrotermes-natalensis.geojson"
   },
   "macrotermes-subhyalinus": {
@@ -9099,8 +9944,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9675674,
-   "records": 214,
-   "cells": 52,
+   "records": 381,
+   "cells": 66,
    "file": "assets/geo/species/macrotermes-subhyalinus.geojson"
   },
   "macrotermes-ukuzii": {
@@ -9121,8 +9966,8 @@
    "family_id": "termitidae",
    "genus_id": "macrotermes",
    "gbif_key": 9725713,
-   "records": 40,
-   "cells": 24,
+   "records": 64,
+   "cells": 28,
    "file": "assets/geo/species/macrotermes-vitrialatus.geojson"
   },
   "macuxitermes-triceratops": {
@@ -9154,8 +9999,8 @@
    "family_id": "termitidae",
    "genus_id": "mapinguaritermes",
    "gbif_key": 8816091,
-   "records": 15,
-   "cells": 3,
+   "records": 20,
+   "cells": 6,
    "file": "assets/geo/species/mapinguaritermes-grandidens.geojson"
   },
   "marginitermes-absitus": {
@@ -9187,8 +10032,8 @@
    "family_id": "mastotermitidae",
    "genus_id": "mastotermes",
    "gbif_key": 4802813,
-   "records": 262,
-   "cells": 91,
+   "records": 295,
+   "cells": 94,
    "file": "assets/geo/species/mastotermes-darwiniensis.geojson"
   },
   "megagnathotermes-katangensis": {
@@ -9224,6 +10069,28 @@
    "cells": 1,
    "file": "assets/geo/species/megaprotermes-giffardii.geojson"
   },
+  "microcerotermes-algoasinensis": {
+   "latin": "Microcerotermes algoasinensis",
+   "zh": "阿尔哥亚湾锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 8977449,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-algoasinensis.geojson"
+  },
+  "microcerotermes-apricitatis": {
+   "latin": "Microcerotermes apricitatis",
+   "zh": "阳光锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 8880992,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-apricitatis.geojson"
+  },
   "microcerotermes-arboreus": {
    "latin": "Microcerotermes arboreus",
    "zh": "树栖锯白蚁",
@@ -9231,8 +10098,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 2007312,
-   "records": 58,
-   "cells": 10,
+   "records": 72,
+   "cells": 18,
    "file": "assets/geo/species/microcerotermes-arboreus.geojson"
   },
   "microcerotermes-baluchistanicus": {
@@ -9253,8 +10120,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803276,
-   "records": 10,
-   "cells": 6,
+   "records": 16,
+   "cells": 9,
    "file": "assets/geo/species/microcerotermes-biroi.geojson"
   },
   "microcerotermes-boreus": {
@@ -9264,9 +10131,31 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803266,
-   "records": 39,
-   "cells": 14,
+   "records": 58,
+   "cells": 21,
    "file": "assets/geo/species/microcerotermes-boreus.geojson"
+  },
+  "microcerotermes-bouvieri": {
+   "latin": "Microcerotermes bouvieri",
+   "zh": "布维尔锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 2007314,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-bouvieri.geojson"
+  },
+  "microcerotermes-brachygnathus": {
+   "latin": "Microcerotermes brachygnathus",
+   "zh": "短颚锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9713541,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-brachygnathus.geojson"
   },
   "microcerotermes-cameroni": {
    "latin": "Microcerotermes cameroni",
@@ -9286,9 +10175,20 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803273,
-   "records": 34,
-   "cells": 16,
+   "records": 119,
+   "cells": 47,
    "file": "assets/geo/species/microcerotermes-cavus.geojson"
+  },
+  "microcerotermes-celebensis": {
+   "latin": "Microcerotermes celebensis",
+   "zh": "西里伯斯锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9647196,
+   "records": 5,
+   "cells": 2,
+   "file": "assets/geo/species/microcerotermes-celebensis.geojson"
   },
   "microcerotermes-choanensis": {
    "latin": "Microcerotermes choanensis",
@@ -9297,8 +10197,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 8981176,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/microcerotermes-choanensis.geojson"
   },
   "microcerotermes-crassus": {
@@ -9312,6 +10212,39 @@
    "cells": 6,
    "file": "assets/geo/species/microcerotermes-crassus.geojson"
   },
+  "microcerotermes-danieli": {
+   "latin": "Microcerotermes danieli",
+   "zh": "丹尼尔锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9650452,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-danieli.geojson"
+  },
+  "microcerotermes-debilicornis": {
+   "latin": "Microcerotermes debilicornis",
+   "zh": "软角锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9757339,
+   "records": 4,
+   "cells": 2,
+   "file": "assets/geo/species/microcerotermes-debilicornis.geojson"
+  },
+  "microcerotermes-depokensis": {
+   "latin": "Microcerotermes depokensis",
+   "zh": "德波锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9779458,
+   "records": 15,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-depokensis.geojson"
+  },
   "microcerotermes-distinctus": {
    "latin": "Microcerotermes distinctus",
    "zh": "易识锯白蚁",
@@ -9319,8 +10252,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803275,
-   "records": 30,
-   "cells": 21,
+   "records": 163,
+   "cells": 79,
    "file": "assets/geo/species/microcerotermes-distinctus.geojson"
   },
   "microcerotermes-diversus": {
@@ -9352,7 +10285,7 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 9200903,
-   "records": 2,
+   "records": 4,
    "cells": 2,
    "file": "assets/geo/species/microcerotermes-edentatus.geojson"
   },
@@ -9363,8 +10296,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 9290320,
-   "records": 137,
-   "cells": 16,
+   "records": 144,
+   "cells": 21,
    "file": "assets/geo/species/microcerotermes-exiguus.geojson"
   },
   "microcerotermes-fletcheri": {
@@ -9385,9 +10318,31 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 8865249,
-   "records": 16,
-   "cells": 5,
+   "records": 39,
+   "cells": 12,
    "file": "assets/geo/species/microcerotermes-fuscotibialis.geojson"
+  },
+  "microcerotermes-fuscotibialis-validior": {
+   "latin": "Microcerotermes fuscotibialis validior",
+   "zh": "较壮亚种",
+   "rank": "subspecies",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9189266,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/microcerotermes-fuscotibialis-validior.geojson"
+  },
+  "microcerotermes-gracilis": {
+   "latin": "Microcerotermes gracilis",
+   "zh": "细瘦锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 2007313,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-gracilis.geojson"
   },
   "microcerotermes-implacidus": {
    "latin": "Microcerotermes implacidus",
@@ -9396,8 +10351,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803265,
-   "records": 12,
-   "cells": 9,
+   "records": 89,
+   "cells": 33,
    "file": "assets/geo/species/microcerotermes-implacidus.geojson"
   },
   "microcerotermes-indistinctus": {
@@ -9407,9 +10362,31 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 9478720,
+   "records": 5,
+   "cells": 3,
+   "file": "assets/geo/species/microcerotermes-indistinctus.geojson"
+  },
+  "microcerotermes-kwazulu": {
+   "latin": "Microcerotermes kwazulu",
+   "zh": "夸祖鲁锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 8744576,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/microcerotermes-indistinctus.geojson"
+   "file": "assets/geo/species/microcerotermes-kwazulu.geojson"
+  },
+  "microcerotermes-laticeps": {
+   "latin": "Microcerotermes laticeps",
+   "zh": "宽头锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9658702,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-laticeps.geojson"
   },
   "microcerotermes-leai": {
    "latin": "Microcerotermes leai",
@@ -9418,9 +10395,31 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803281,
+   "records": 3,
+   "cells": 3,
+   "file": "assets/geo/species/microcerotermes-leai.geojson"
+  },
+  "microcerotermes-madurae": {
+   "latin": "Microcerotermes madurae",
+   "zh": "马都拉锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9711825,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/microcerotermes-leai.geojson"
+   "file": "assets/geo/species/microcerotermes-madurae.geojson"
+  },
+  "microcerotermes-mzilikazi": {
+   "latin": "Microcerotermes mzilikazi",
+   "zh": "姆兹立卡兹锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9134927,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/microcerotermes-mzilikazi.geojson"
   },
   "microcerotermes-nanus": {
    "latin": "Microcerotermes nanus",
@@ -9429,8 +10428,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803272,
-   "records": 38,
-   "cells": 22,
+   "records": 46,
+   "cells": 25,
    "file": "assets/geo/species/microcerotermes-nanus.geojson"
   },
   "microcerotermes-nervosus": {
@@ -9440,8 +10439,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803274,
-   "records": 68,
-   "cells": 25,
+   "records": 102,
+   "cells": 27,
    "file": "assets/geo/species/microcerotermes-nervosus.geojson"
   },
   "microcerotermes-newmani": {
@@ -9451,9 +10450,20 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803267,
-   "records": 7,
-   "cells": 7,
+   "records": 116,
+   "cells": 53,
    "file": "assets/geo/species/microcerotermes-newmani.geojson"
+  },
+  "microcerotermes-nicobarensis": {
+   "latin": "Microcerotermes nicobarensis",
+   "zh": "尼科巴锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9664729,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-nicobarensis.geojson"
   },
   "microcerotermes-novaecaledoniae": {
    "latin": "Microcerotermes novaecaledoniae",
@@ -9477,6 +10487,28 @@
    "cells": 2,
    "file": "assets/geo/species/microcerotermes-pakistanicus.geojson"
   },
+  "microcerotermes-papuanus": {
+   "latin": "Microcerotermes papuanus",
+   "zh": "巴布亚锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 8795911,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-papuanus.geojson"
+  },
+  "microcerotermes-parviceps": {
+   "latin": "Microcerotermes parviceps",
+   "zh": "小头锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 4803270,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-parviceps.geojson"
+  },
   "microcerotermes-parvulus": {
    "latin": "Microcerotermes parvulus",
    "zh": "细小锯白蚁",
@@ -9484,8 +10516,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 8986422,
-   "records": 24,
-   "cells": 7,
+   "records": 34,
+   "cells": 15,
    "file": "assets/geo/species/microcerotermes-parvulus.geojson"
   },
   "microcerotermes-parvus": {
@@ -9495,9 +10527,42 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 9810138,
-   "records": 63,
-   "cells": 7,
+   "records": 80,
+   "cells": 13,
    "file": "assets/geo/species/microcerotermes-parvus.geojson"
+  },
+  "microcerotermes-peraffinis": {
+   "latin": "Microcerotermes peraffinis",
+   "zh": "近缘锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 8841704,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-peraffinis.geojson"
+  },
+  "microcerotermes-piliceps": {
+   "latin": "Microcerotermes piliceps",
+   "zh": "毛头锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9083724,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-piliceps.geojson"
+  },
+  "microcerotermes-propinquus": {
+   "latin": "Microcerotermes propinquus",
+   "zh": "近邻锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9126658,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-propinquus.geojson"
   },
   "microcerotermes-raja": {
    "latin": "Microcerotermes raja",
@@ -9521,6 +10586,17 @@
    "cells": 1,
    "file": "assets/geo/species/microcerotermes-repugnans.geojson"
   },
+  "microcerotermes-secernens": {
+   "latin": "Microcerotermes secernens",
+   "zh": "切割锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9027361,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/microcerotermes-secernens.geojson"
+  },
   "microcerotermes-septentrionalis": {
    "latin": "Microcerotermes septentrionalis",
    "zh": "北方锯白蚁",
@@ -9528,8 +10604,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 2007315,
-   "records": 538,
-   "cells": 11,
+   "records": 539,
+   "cells": 12,
    "file": "assets/geo/species/microcerotermes-septentrionalis.geojson"
   },
   "microcerotermes-serratus": {
@@ -9542,6 +10618,17 @@
    "records": 14,
    "cells": 2,
    "file": "assets/geo/species/microcerotermes-serratus.geojson"
+  },
+  "microcerotermes-solidus": {
+   "latin": "Microcerotermes solidus",
+   "zh": "坚硬锯白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "microcerotermes",
+   "gbif_key": 9654346,
+   "records": 7,
+   "cells": 3,
+   "file": "assets/geo/species/microcerotermes-solidus.geojson"
   },
   "microcerotermes-strunckii": {
    "latin": "Microcerotermes strunckii",
@@ -9561,8 +10648,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 9787126,
-   "records": 2,
-   "cells": 1,
+   "records": 5,
+   "cells": 2,
    "file": "assets/geo/species/microcerotermes-subtilis.geojson"
   },
   "microcerotermes-taylori": {
@@ -9572,8 +10659,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803283,
-   "records": 33,
-   "cells": 14,
+   "records": 34,
+   "cells": 15,
    "file": "assets/geo/species/microcerotermes-taylori.geojson"
   },
   "microcerotermes-turneri": {
@@ -9583,8 +10670,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 4803284,
-   "records": 82,
-   "cells": 23,
+   "records": 178,
+   "cells": 39,
    "file": "assets/geo/species/microcerotermes-turneri.geojson"
   },
   "microcerotermes-zuluensis": {
@@ -9594,8 +10681,8 @@
    "family_id": "termitidae",
    "genus_id": "microcerotermes",
    "gbif_key": 9131627,
-   "records": 9,
-   "cells": 1,
+   "records": 19,
+   "cells": 4,
    "file": "assets/geo/species/microcerotermes-zuluensis.geojson"
   },
   "microhodotermes-viator": {
@@ -9605,8 +10692,8 @@
    "family_id": "hodotermitidae",
    "genus_id": "microhodotermes",
    "gbif_key": 9662047,
-   "records": 300,
-   "cells": 22,
+   "records": 980,
+   "cells": 32,
    "file": "assets/geo/species/microhodotermes-viator.geojson"
   },
   "microtermes-albopartitus": {
@@ -9847,8 +10934,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9235750,
-   "records": 26,
-   "cells": 4,
+   "records": 31,
+   "cells": 6,
    "file": "assets/geo/species/nasutitermes-acajutlae.geojson"
   },
   "nasutitermes-acangussu": {
@@ -9858,9 +10945,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9542283,
+   "records": 16,
+   "cells": 12,
+   "file": "assets/geo/species/nasutitermes-acangussu.geojson"
+  },
+  "nasutitermes-aduncus": {
+   "latin": "Nasutitermes aduncus",
+   "zh": "弯曲象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8724063,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/nasutitermes-acangussu.geojson"
+   "file": "assets/geo/species/nasutitermes-aduncus.geojson"
   },
   "nasutitermes-anamalaiensis": {
    "latin": "Nasutitermes anamalaiensis",
@@ -9880,9 +10978,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9668371,
-   "records": 1,
-   "cells": 1,
+   "records": 62,
+   "cells": 25,
    "file": "assets/geo/species/nasutitermes-aquilinus.geojson"
+  },
+  "nasutitermes-araujoi": {
+   "latin": "Nasutitermes araujoi",
+   "zh": "阿劳若象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9736146,
+   "records": 17,
+   "cells": 3,
+   "file": "assets/geo/species/nasutitermes-araujoi.geojson"
   },
   "nasutitermes-arborum": {
    "latin": "Nasutitermes arborum",
@@ -9891,8 +11000,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9766145,
-   "records": 2,
-   "cells": 1,
+   "records": 34,
+   "cells": 10,
    "file": "assets/geo/species/nasutitermes-arborum.geojson"
   },
   "nasutitermes-banksi": {
@@ -9902,8 +11011,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9617652,
-   "records": 23,
-   "cells": 5,
+   "records": 152,
+   "cells": 15,
    "file": "assets/geo/species/nasutitermes-banksi.geojson"
   },
   "nasutitermes-bivalens": {
@@ -9913,8 +11022,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9772644,
-   "records": 4,
-   "cells": 2,
+   "records": 90,
+   "cells": 15,
    "file": "assets/geo/species/nasutitermes-bivalens.geojson"
   },
   "nasutitermes-brunneus": {
@@ -9935,9 +11044,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9536773,
-   "records": 71,
-   "cells": 9,
+   "records": 92,
+   "cells": 17,
    "file": "assets/geo/species/nasutitermes-callimorphus.geojson"
+  },
+  "nasutitermes-carnarvonensis": {
+   "latin": "Nasutitermes carnarvonensis",
+   "zh": "卡那封象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815214,
+   "records": 11,
+   "cells": 3,
+   "file": "assets/geo/species/nasutitermes-carnarvonensis.geojson"
   },
   "nasutitermes-centraliensis": {
    "latin": "Nasutitermes centraliensis",
@@ -9946,9 +11066,42 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815223,
-   "records": 3,
-   "cells": 2,
+   "records": 135,
+   "cells": 59,
    "file": "assets/geo/species/nasutitermes-centraliensis.geojson"
+  },
+  "nasutitermes-chaquimayensis": {
+   "latin": "Nasutitermes chaquimayensis",
+   "zh": "查基马约象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9657826,
+   "records": 6,
+   "cells": 3,
+   "file": "assets/geo/species/nasutitermes-chaquimayensis.geojson"
+  },
+  "nasutitermes-coalescens": {
+   "latin": "Nasutitermes coalescens",
+   "zh": "团结象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815218,
+   "records": 4,
+   "cells": 4,
+   "file": "assets/geo/species/nasutitermes-coalescens.geojson"
+  },
+  "nasutitermes-comorensis": {
+   "latin": "Nasutitermes comorensis",
+   "zh": "科摩罗象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8913171,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-comorensis.geojson"
   },
   "nasutitermes-comstockae": {
    "latin": "Nasutitermes comstockae",
@@ -9957,8 +11110,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 8892188,
-   "records": 6,
-   "cells": 2,
+   "records": 10,
+   "cells": 4,
    "file": "assets/geo/species/nasutitermes-comstockae.geojson"
   },
   "nasutitermes-corniger": {
@@ -9968,9 +11121,31 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5152433,
-   "records": 550,
-   "cells": 91,
+   "records": 1208,
+   "cells": 187,
    "file": "assets/geo/species/nasutitermes-corniger.geojson"
+  },
+  "nasutitermes-coxipoensis": {
+   "latin": "Nasutitermes coxipoensis",
+   "zh": "科西波象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9129528,
+   "records": 18,
+   "cells": 7,
+   "file": "assets/geo/species/nasutitermes-coxipoensis.geojson"
+  },
+  "nasutitermes-dasyopsis": {
+   "latin": "Nasutitermes dasyopsis",
+   "zh": "毛脸象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9652402,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-dasyopsis.geojson"
   },
   "nasutitermes-diabolus": {
    "latin": "Nasutitermes diabolus",
@@ -9979,8 +11154,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9786144,
-   "records": 7,
-   "cells": 1,
+   "records": 11,
+   "cells": 3,
    "file": "assets/geo/species/nasutitermes-diabolus.geojson"
   },
   "nasutitermes-dixoni": {
@@ -9990,9 +11165,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815217,
-   "records": 6,
-   "cells": 4,
+   "records": 87,
+   "cells": 23,
    "file": "assets/geo/species/nasutitermes-dixoni.geojson"
+  },
+  "nasutitermes-ehrhardti": {
+   "latin": "Nasutitermes ehrhardti",
+   "zh": "埃尔哈特象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8940330,
+   "records": 33,
+   "cells": 11,
+   "file": "assets/geo/species/nasutitermes-ehrhardti.geojson"
   },
   "nasutitermes-elegantulus": {
    "latin": "Nasutitermes elegantulus",
@@ -10012,9 +11198,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5152437,
-   "records": 284,
-   "cells": 35,
+   "records": 1171,
+   "cells": 97,
    "file": "assets/geo/species/nasutitermes-ephratae.geojson"
+  },
+  "nasutitermes-eucalypti": {
+   "latin": "Nasutitermes eucalypti",
+   "zh": "桉树象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815219,
+   "records": 97,
+   "cells": 40,
+   "file": "assets/geo/species/nasutitermes-eucalypti.geojson"
   },
   "nasutitermes-exitiosus": {
    "latin": "Nasutitermes exitiosus",
@@ -10023,9 +11220,53 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815215,
-   "records": 115,
-   "cells": 29,
+   "records": 1101,
+   "cells": 150,
    "file": "assets/geo/species/nasutitermes-exitiosus.geojson"
+  },
+  "nasutitermes-fabricii": {
+   "latin": "Nasutitermes fabricii",
+   "zh": "法布里克象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9674487,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-fabricii.geojson"
+  },
+  "nasutitermes-feytaudi": {
+   "latin": "Nasutitermes feytaudi",
+   "zh": "费淘德象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9748280,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-feytaudi.geojson"
+  },
+  "nasutitermes-fulleri": {
+   "latin": "Nasutitermes fulleri",
+   "zh": "富勒象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9769706,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-fulleri.geojson"
+  },
+  "nasutitermes-fumigatus": {
+   "latin": "Nasutitermes fumigatus",
+   "zh": "烟色象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815220,
+   "records": 365,
+   "cells": 58,
+   "file": "assets/geo/species/nasutitermes-fumigatus.geojson"
   },
   "nasutitermes-gaigei": {
    "latin": "Nasutitermes gaigei",
@@ -10034,8 +11275,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 8809146,
-   "records": 27,
-   "cells": 6,
+   "records": 159,
+   "cells": 24,
    "file": "assets/geo/species/nasutitermes-gaigei.geojson"
   },
   "nasutitermes-glabritergus": {
@@ -10045,8 +11286,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 8828881,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/nasutitermes-glabritergus.geojson"
   },
   "nasutitermes-globiceps": {
@@ -10056,9 +11297,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9818396,
+   "records": 70,
+   "cells": 12,
+   "file": "assets/geo/species/nasutitermes-globiceps.geojson"
+  },
+  "nasutitermes-gracilirostris": {
+   "latin": "Nasutitermes gracilirostris",
+   "zh": "细嘴象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9789786,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/nasutitermes-globiceps.geojson"
+   "file": "assets/geo/species/nasutitermes-gracilirostris.geojson"
   },
   "nasutitermes-graveolus": {
    "latin": "Nasutitermes graveolus",
@@ -10067,8 +11319,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815231,
-   "records": 7,
-   "cells": 4,
+   "records": 204,
+   "cells": 49,
    "file": "assets/geo/species/nasutitermes-graveolus.geojson"
   },
   "nasutitermes-guayanae": {
@@ -10078,8 +11330,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 8816670,
-   "records": 190,
-   "cells": 10,
+   "records": 384,
+   "cells": 33,
    "file": "assets/geo/species/nasutitermes-guayanae.geojson"
   },
   "nasutitermes-havilandi": {
@@ -10089,9 +11341,42 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9797492,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-havilandi.geojson"
+  },
+  "nasutitermes-hubbardi": {
+   "latin": "Nasutitermes hubbardi",
+   "zh": "哈伯德象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9715566,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-hubbardi.geojson"
+  },
+  "nasutitermes-itapocuensis": {
+   "latin": "Nasutitermes itapocuensis",
+   "zh": "伊塔波库象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9213232,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/nasutitermes-havilandi.geojson"
+   "file": "assets/geo/species/nasutitermes-itapocuensis.geojson"
+  },
+  "nasutitermes-jaraguae": {
+   "latin": "Nasutitermes jaraguae",
+   "zh": "哈拉瓜象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8884652,
+   "records": 100,
+   "cells": 31,
+   "file": "assets/geo/species/nasutitermes-jaraguae.geojson"
   },
   "nasutitermes-kali": {
    "latin": "Nasutitermes kali",
@@ -10111,9 +11396,42 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9668394,
+   "records": 57,
+   "cells": 30,
+   "file": "assets/geo/species/nasutitermes-kemneri.geojson"
+  },
+  "nasutitermes-kimberleyensis": {
+   "latin": "Nasutitermes kimberleyensis",
+   "zh": "金伯利象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815225,
+   "records": 18,
+   "cells": 12,
+   "file": "assets/geo/species/nasutitermes-kimberleyensis.geojson"
+  },
+  "nasutitermes-kinoshitai": {
+   "latin": "Nasutitermes kinoshitai",
+   "zh": "木下象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9655113,
+   "records": 5,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-kinoshitai.geojson"
+  },
+  "nasutitermes-krishna": {
+   "latin": "Nasutitermes krishna",
+   "zh": "克里希纳象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9808077,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/nasutitermes-kemneri.geojson"
+   "file": "assets/geo/species/nasutitermes-krishna.geojson"
   },
   "nasutitermes-latifrons": {
    "latin": "Nasutitermes latifrons",
@@ -10122,9 +11440,31 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 8923977,
-   "records": 33,
-   "cells": 3,
+   "records": 61,
+   "cells": 9,
    "file": "assets/geo/species/nasutitermes-latifrons.geojson"
+  },
+  "nasutitermes-leponcei": {
+   "latin": "Nasutitermes leponcei",
+   "zh": "莱波斯象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9738985,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-leponcei.geojson"
+  },
+  "nasutitermes-lividus": {
+   "latin": "Nasutitermes lividus",
+   "zh": "青色象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8851281,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-lividus.geojson"
   },
   "nasutitermes-longinasoides": {
    "latin": "Nasutitermes longinasoides",
@@ -10144,9 +11484,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815227,
-   "records": 1,
-   "cells": 1,
+   "records": 293,
+   "cells": 93,
    "file": "assets/geo/species/nasutitermes-longipennis.geojson"
+  },
+  "nasutitermes-lujae": {
+   "latin": "Nasutitermes lujae",
+   "zh": "卢哈象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9650694,
+   "records": 4,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-lujae.geojson"
   },
   "nasutitermes-macrocephalus": {
    "latin": "Nasutitermes macrocephalus",
@@ -10155,8 +11506,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9417059,
-   "records": 14,
-   "cells": 5,
+   "records": 76,
+   "cells": 31,
    "file": "assets/geo/species/nasutitermes-macrocephalus.geojson"
   },
   "nasutitermes-magnus": {
@@ -10166,9 +11517,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815224,
-   "records": 2,
-   "cells": 2,
+   "records": 177,
+   "cells": 50,
    "file": "assets/geo/species/nasutitermes-magnus.geojson"
+  },
+  "nasutitermes-maheensis": {
+   "latin": "Nasutitermes maheensis",
+   "zh": "马埃象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9670063,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-maheensis.geojson"
   },
   "nasutitermes-major": {
    "latin": "Nasutitermes major",
@@ -10177,9 +11539,42 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9093914,
-   "records": 1,
-   "cells": 1,
+   "records": 13,
+   "cells": 5,
    "file": "assets/geo/species/nasutitermes-major.geojson"
+  },
+  "nasutitermes-makassarensis": {
+   "latin": "Nasutitermes makassarensis",
+   "zh": "望加锡象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9739650,
+   "records": 4,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-makassarensis.geojson"
+  },
+  "nasutitermes-matangensis": {
+   "latin": "Nasutitermes matangensis",
+   "zh": "马登象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9301218,
+   "records": 6,
+   "cells": 5,
+   "file": "assets/geo/species/nasutitermes-matangensis.geojson"
+  },
+  "nasutitermes-matangensis-pyricephalus": {
+   "latin": "Nasutitermes matangensis pyricephalus",
+   "zh": "梨头亚种",
+   "rank": "subspecies",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9758279,
+   "records": 15,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-matangensis-pyricephalus.geojson"
   },
   "nasutitermes-mauritianus": {
    "latin": "Nasutitermes mauritianus",
@@ -10192,6 +11587,28 @@
    "cells": 1,
    "file": "assets/geo/species/nasutitermes-mauritianus.geojson"
   },
+  "nasutitermes-meinerti": {
+   "latin": "Nasutitermes meinerti",
+   "zh": "迈纳特象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9715539,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-meinerti.geojson"
+  },
+  "nasutitermes-minimus": {
+   "latin": "Nasutitermes minimus",
+   "zh": "最小象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8843585,
+   "records": 52,
+   "cells": 4,
+   "file": "assets/geo/species/nasutitermes-minimus.geojson"
+  },
   "nasutitermes-nigriceps": {
    "latin": "Nasutitermes nigriceps",
    "zh": "黑头象白蚁",
@@ -10199,9 +11616,31 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5152435,
-   "records": 123,
-   "cells": 34,
+   "records": 530,
+   "cells": 48,
    "file": "assets/geo/species/nasutitermes-nigriceps.geojson"
+  },
+  "nasutitermes-nordenskioldi": {
+   "latin": "Nasutitermes nordenskioldi",
+   "zh": "努登舍尔德象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9700906,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-nordenskioldi.geojson"
+  },
+  "nasutitermes-novarumhebridarum": {
+   "latin": "Nasutitermes novarumhebridarum",
+   "zh": "新赫布里底象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9778110,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-novarumhebridarum.geojson"
   },
   "nasutitermes-octopilis": {
    "latin": "Nasutitermes octopilis",
@@ -10210,8 +11649,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9300631,
-   "records": 11,
-   "cells": 4,
+   "records": 55,
+   "cells": 19,
    "file": "assets/geo/species/nasutitermes-octopilis.geojson"
   },
   "nasutitermes-parvonasutus": {
@@ -10221,9 +11660,97 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5888333,
+   "records": 17,
+   "cells": 8,
+   "file": "assets/geo/species/nasutitermes-parvonasutus.geojson"
+  },
+  "nasutitermes-pictus": {
+   "latin": "Nasutitermes pictus",
+   "zh": "着色象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5152436,
    "records": 1,
    "cells": 1,
-   "file": "assets/geo/species/nasutitermes-parvonasutus.geojson"
+   "file": "assets/geo/species/nasutitermes-pictus.geojson"
+  },
+  "nasutitermes-pilosus": {
+   "latin": "Nasutitermes pilosus",
+   "zh": "多毛象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8760050,
+   "records": 3,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-pilosus.geojson"
+  },
+  "nasutitermes-pinocchio": {
+   "latin": "Nasutitermes pinocchio",
+   "zh": "皮诺基奥象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9683869,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-pinocchio.geojson"
+  },
+  "nasutitermes-pluriarticulatus": {
+   "latin": "Nasutitermes pluriarticulatus",
+   "zh": "多节象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9189840,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-pluriarticulatus.geojson"
+  },
+  "nasutitermes-pluvialis": {
+   "latin": "Nasutitermes pluvialis",
+   "zh": "招雨象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815216,
+   "records": 66,
+   "cells": 18,
+   "file": "assets/geo/species/nasutitermes-pluvialis.geojson"
+  },
+  "nasutitermes-princeps": {
+   "latin": "Nasutitermes princeps",
+   "zh": "第一象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815230,
+   "records": 8,
+   "cells": 5,
+   "file": "assets/geo/species/nasutitermes-princeps.geojson"
+  },
+  "nasutitermes-projectus": {
+   "latin": "Nasutitermes projectus",
+   "zh": "喷射象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815229,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-projectus.geojson"
+  },
+  "nasutitermes-proximus": {
+   "latin": "Nasutitermes proximus",
+   "zh": "最新象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9731509,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-proximus.geojson"
   },
   "nasutitermes-rippertii": {
    "latin": "Nasutitermes rippertii",
@@ -10232,9 +11759,53 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9746479,
-   "records": 13,
-   "cells": 10,
+   "records": 21,
+   "cells": 11,
    "file": "assets/geo/species/nasutitermes-rippertii.geojson"
+  },
+  "nasutitermes-rotundatus": {
+   "latin": "Nasutitermes rotundatus",
+   "zh": "圆形象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9698452,
+   "records": 62,
+   "cells": 20,
+   "file": "assets/geo/species/nasutitermes-rotundatus.geojson"
+  },
+  "nasutitermes-saleierensis": {
+   "latin": "Nasutitermes saleierensis",
+   "zh": "萨莱尔象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9724734,
+   "records": 9,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-saleierensis.geojson"
+  },
+  "nasutitermes-sanctaeanae": {
+   "latin": "Nasutitermes sanctaeanae",
+   "zh": "圣安娜象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9678252,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-sanctaeanae.geojson"
+  },
+  "nasutitermes-seghersi": {
+   "latin": "Nasutitermes seghersi",
+   "zh": "西格象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9712054,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-seghersi.geojson"
   },
   "nasutitermes-similis": {
    "latin": "Nasutitermes similis",
@@ -10243,9 +11814,31 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9350066,
-   "records": 51,
-   "cells": 6,
+   "records": 282,
+   "cells": 33,
    "file": "assets/geo/species/nasutitermes-similis.geojson"
+  },
+  "nasutitermes-smithi": {
+   "latin": "Nasutitermes smithi",
+   "zh": "史密斯象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815228,
+   "records": 10,
+   "cells": 7,
+   "file": "assets/geo/species/nasutitermes-smithi.geojson"
+  },
+  "nasutitermes-stricticeps": {
+   "latin": "Nasutitermes stricticeps",
+   "zh": "缩头象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9774455,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-stricticeps.geojson"
   },
   "nasutitermes-surinamensis": {
    "latin": "Nasutitermes surinamensis",
@@ -10254,8 +11847,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 9612051,
-   "records": 20,
-   "cells": 5,
+   "records": 73,
+   "cells": 21,
    "file": "assets/geo/species/nasutitermes-surinamensis.geojson"
   },
   "nasutitermes-takasagoensis": {
@@ -10265,9 +11858,53 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5888327,
-   "records": 11,
-   "cells": 3,
+   "records": 42,
+   "cells": 6,
    "file": "assets/geo/species/nasutitermes-takasagoensis.geojson"
+  },
+  "nasutitermes-tatarendae": {
+   "latin": "Nasutitermes tatarendae",
+   "zh": "塔塔恩达象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9659483,
+   "records": 7,
+   "cells": 4,
+   "file": "assets/geo/species/nasutitermes-tatarendae.geojson"
+  },
+  "nasutitermes-torresi": {
+   "latin": "Nasutitermes torresi",
+   "zh": "托里斯象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5815222,
+   "records": 13,
+   "cells": 5,
+   "file": "assets/geo/species/nasutitermes-torresi.geojson"
+  },
+  "nasutitermes-tredecimarticulatus": {
+   "latin": "Nasutitermes tredecimarticulatus",
+   "zh": "十三节象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 8772577,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-tredecimarticulatus.geojson"
+  },
+  "nasutitermes-triloki": {
+   "latin": "Nasutitermes triloki",
+   "zh": "特里洛克象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9759357,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-triloki.geojson"
   },
   "nasutitermes-triodiae": {
    "latin": "Nasutitermes triodiae",
@@ -10276,9 +11913,20 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815226,
-   "records": 126,
-   "cells": 33,
+   "records": 428,
+   "cells": 95,
    "file": "assets/geo/species/nasutitermes-triodiae.geojson"
+  },
+  "nasutitermes-unduliceps": {
+   "latin": "Nasutitermes unduliceps",
+   "zh": "浪头象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 9760447,
+   "records": 2,
+   "cells": 2,
+   "file": "assets/geo/species/nasutitermes-unduliceps.geojson"
   },
   "nasutitermes-walkeri": {
    "latin": "Nasutitermes walkeri",
@@ -10287,8 +11935,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 5815213,
-   "records": 36,
-   "cells": 11,
+   "records": 434,
+   "cells": 52,
    "file": "assets/geo/species/nasutitermes-walkeri.geojson"
   },
   "nasutitermes-wheeleri": {
@@ -10298,8 +11946,8 @@
    "family_id": "termitidae",
    "genus_id": "nasutitermes",
    "gbif_key": 8723168,
-   "records": 3,
-   "cells": 2,
+   "records": 27,
+   "cells": 7,
    "file": "assets/geo/species/nasutitermes-wheeleri.geojson"
   },
   "neocapritermes-angusticeps": {
@@ -10309,8 +11957,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9182023,
-   "records": 7,
-   "cells": 2,
+   "records": 16,
+   "cells": 7,
    "file": "assets/geo/species/neocapritermes-angusticeps.geojson"
   },
   "neocapritermes-araguaia": {
@@ -10320,8 +11968,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9629977,
-   "records": 6,
-   "cells": 3,
+   "records": 22,
+   "cells": 11,
    "file": "assets/geo/species/neocapritermes-araguaia.geojson"
   },
   "neocapritermes-bodkini": {
@@ -10331,8 +11979,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9691567,
-   "records": 4,
-   "cells": 3,
+   "records": 5,
+   "cells": 4,
    "file": "assets/geo/species/neocapritermes-bodkini.geojson"
   },
   "neocapritermes-braziliensis": {
@@ -10342,8 +11990,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9218143,
-   "records": 41,
-   "cells": 10,
+   "records": 56,
+   "cells": 13,
    "file": "assets/geo/species/neocapritermes-braziliensis.geojson"
   },
   "neocapritermes-centralis": {
@@ -10353,9 +12001,20 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9703453,
-   "records": 1,
-   "cells": 1,
+   "records": 4,
+   "cells": 2,
    "file": "assets/geo/species/neocapritermes-centralis.geojson"
+  },
+  "neocapritermes-guyana": {
+   "latin": "Neocapritermes guyana",
+   "zh": "圭亚那新扭白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "neocapritermes",
+   "gbif_key": 9524519,
+   "records": 5,
+   "cells": 3,
+   "file": "assets/geo/species/neocapritermes-guyana.geojson"
   },
   "neocapritermes-longinotus": {
    "latin": "Neocapritermes longinotus",
@@ -10364,8 +12023,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9554506,
-   "records": 6,
-   "cells": 4,
+   "records": 12,
+   "cells": 7,
    "file": "assets/geo/species/neocapritermes-longinotus.geojson"
   },
   "neocapritermes-opacus": {
@@ -10375,9 +12034,20 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 8728678,
-   "records": 47,
-   "cells": 23,
+   "records": 165,
+   "cells": 45,
    "file": "assets/geo/species/neocapritermes-opacus.geojson"
+  },
+  "neocapritermes-parvus": {
+   "latin": "Neocapritermes parvus",
+   "zh": "微型新扭白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "neocapritermes",
+   "gbif_key": 9660957,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/neocapritermes-parvus.geojson"
   },
   "neocapritermes-pumilis": {
    "latin": "Neocapritermes pumilis",
@@ -10386,8 +12056,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9361811,
-   "records": 90,
-   "cells": 11,
+   "records": 120,
+   "cells": 14,
    "file": "assets/geo/species/neocapritermes-pumilis.geojson"
   },
   "neocapritermes-talpa": {
@@ -10397,8 +12067,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9405228,
-   "records": 18,
-   "cells": 8,
+   "records": 33,
+   "cells": 12,
    "file": "assets/geo/species/neocapritermes-talpa.geojson"
   },
   "neocapritermes-talpoides": {
@@ -10419,8 +12089,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9434398,
-   "records": 39,
-   "cells": 17,
+   "records": 90,
+   "cells": 23,
    "file": "assets/geo/species/neocapritermes-taracua.geojson"
   },
   "neocapritermes-unicornis": {
@@ -10430,8 +12100,8 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 9748524,
-   "records": 1,
-   "cells": 1,
+   "records": 17,
+   "cells": 3,
    "file": "assets/geo/species/neocapritermes-unicornis.geojson"
   },
   "neocapritermes-utiariti": {
@@ -10441,7 +12111,7 @@
    "family_id": "termitidae",
    "genus_id": "neocapritermes",
    "gbif_key": 8741470,
-   "records": 12,
+   "records": 14,
    "cells": 7,
    "file": "assets/geo/species/neocapritermes-utiariti.geojson"
   },
@@ -11974,6 +13644,17 @@
    "cells": 3,
    "file": "assets/geo/species/parvitermes-brooksi.geojson"
   },
+  "parvitermes-mexicanus": {
+   "latin": "Parvitermes mexicanus",
+   "zh": "墨西哥微白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "parvitermes",
+   "gbif_key": 5152438,
+   "records": 4,
+   "cells": 1,
+   "file": "assets/geo/species/parvitermes-mexicanus.geojson"
+  },
   "parvitermes-pallidiceps": {
    "latin": "Parvitermes pallidiceps",
    "zh": "灰头微白蚁",
@@ -12014,8 +13695,8 @@
    "family_id": "termitidae",
    "genus_id": "patawatermes",
    "gbif_key": 9339653,
-   "records": 15,
-   "cells": 2,
+   "records": 20,
+   "cells": 5,
    "file": "assets/geo/species/patawatermes-nigripunctatus.geojson"
   },
   "patawatermes-turricola": {
@@ -12168,8 +13849,8 @@
    "family_id": "stolotermitidae",
    "genus_id": "porotermes",
    "gbif_key": 4802722,
-   "records": 184,
-   "cells": 47,
+   "records": 342,
+   "cells": 64,
    "file": "assets/geo/species/porotermes-adamsoni.geojson"
   },
   "porotermes-planiceps": {
@@ -12579,6 +14260,28 @@
    "cells": 1,
    "file": "assets/geo/species/quasitermes-incisus.geojson"
   },
+  "reticulitermes-affinis": {
+   "latin": "Reticulitermes affinis",
+   "zh": "肖若散白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9789407,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/reticulitermes-affinis.geojson"
+  },
+  "reticulitermes-amamianus": {
+   "latin": "Reticulitermes amamianus",
+   "zh": "奄美散白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9666332,
+   "records": 4,
+   "cells": 1,
+   "file": "assets/geo/species/reticulitermes-amamianus.geojson"
+  },
   "reticulitermes-balkanensis": {
    "latin": "Reticulitermes balkanensis",
    "zh": "巴尔干散白蚁",
@@ -12586,8 +14289,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 4514004,
-   "records": 18,
-   "cells": 4,
+   "records": 20,
+   "cells": 5,
    "file": "assets/geo/species/reticulitermes-balkanensis.geojson"
   },
   "reticulitermes-banyulensis": {
@@ -12597,8 +14300,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 4514000,
-   "records": 12,
-   "cells": 5,
+   "records": 32,
+   "cells": 7,
    "file": "assets/geo/species/reticulitermes-banyulensis.geojson"
   },
   "reticulitermes-chinensis": {
@@ -12608,8 +14311,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 7346473,
-   "records": 7,
-   "cells": 2,
+   "records": 16,
+   "cells": 4,
    "file": "assets/geo/species/reticulitermes-chinensis.geojson"
   },
   "reticulitermes-clypeatus": {
@@ -12619,7 +14322,7 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 4514007,
-   "records": 3,
+   "records": 4,
    "cells": 2,
    "file": "assets/geo/species/reticulitermes-clypeatus.geojson"
   },
@@ -12630,8 +14333,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 5888472,
-   "records": 17,
-   "cells": 10,
+   "records": 18,
+   "cells": 11,
    "file": "assets/geo/species/reticulitermes-flaviceps.geojson"
   },
   "reticulitermes-flavipes": {
@@ -12641,8 +14344,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 2007366,
-   "records": 1392,
-   "cells": 225,
+   "records": 1783,
+   "cells": 250,
    "file": "assets/geo/species/reticulitermes-flavipes.geojson"
   },
   "reticulitermes-grassei": {
@@ -12652,9 +14355,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 4513999,
-   "records": 89,
+   "records": 134,
    "cells": 27,
    "file": "assets/geo/species/reticulitermes-grassei.geojson"
+  },
+  "reticulitermes-guangzhouensis": {
+   "latin": "Reticulitermes guangzhouensis",
+   "zh": "广州散白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9689726,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/reticulitermes-guangzhouensis.geojson"
   },
   "reticulitermes-hageni": {
    "latin": "Reticulitermes hageni",
@@ -12663,8 +14377,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 2007371,
-   "records": 21,
-   "cells": 16,
+   "records": 30,
+   "cells": 20,
    "file": "assets/geo/species/reticulitermes-hageni.geojson"
   },
   "reticulitermes-hesperus": {
@@ -12674,9 +14388,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 2007369,
-   "records": 454,
-   "cells": 58,
+   "records": 565,
+   "cells": 62,
    "file": "assets/geo/species/reticulitermes-hesperus.geojson"
+  },
+  "reticulitermes-kanmonensis": {
+   "latin": "Reticulitermes kanmonensis",
+   "zh": "关门散白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9706848,
+   "records": 5,
+   "cells": 2,
+   "file": "assets/geo/species/reticulitermes-kanmonensis.geojson"
   },
   "reticulitermes-labralis": {
    "latin": "Reticulitermes labralis",
@@ -12685,9 +14410,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9800054,
-   "records": 14,
-   "cells": 1,
+   "records": 16,
+   "cells": 2,
    "file": "assets/geo/species/reticulitermes-labralis.geojson"
+  },
+  "reticulitermes-leptomandibularis": {
+   "latin": "Reticulitermes leptomandibularis",
+   "zh": "细颚散白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9668042,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/reticulitermes-leptomandibularis.geojson"
   },
   "reticulitermes-lucifugus": {
    "latin": "Reticulitermes lucifugus",
@@ -12696,8 +14432,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 4514005,
-   "records": 122,
-   "cells": 62,
+   "records": 130,
+   "cells": 66,
    "file": "assets/geo/species/reticulitermes-lucifugus.geojson"
   },
   "reticulitermes-lucifugus-corsicus": {
@@ -12707,9 +14443,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9735774,
-   "records": 14,
-   "cells": 4,
+   "records": 15,
+   "cells": 5,
    "file": "assets/geo/species/reticulitermes-lucifugus-corsicus.geojson"
+  },
+  "reticulitermes-lucifugus-lucifugus": {
+   "latin": "Reticulitermes lucifugus lucifugus",
+   "zh": "指名亚种",
+   "rank": "subspecies",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9819875,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/reticulitermes-lucifugus-lucifugus.geojson"
   },
   "reticulitermes-malletei": {
    "latin": "Reticulitermes malletei",
@@ -12718,9 +14465,20 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9703339,
-   "records": 8,
-   "cells": 5,
+   "records": 10,
+   "cells": 7,
    "file": "assets/geo/species/reticulitermes-malletei.geojson"
+  },
+  "reticulitermes-miyatakei": {
+   "latin": "Reticulitermes miyatakei",
+   "zh": "宫武散白蚁",
+   "rank": "species",
+   "family_id": "heterotermitidae",
+   "genus_id": "reticulitermes",
+   "gbif_key": 9667047,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/reticulitermes-miyatakei.geojson"
   },
   "reticulitermes-nelsonae": {
    "latin": "Reticulitermes nelsonae",
@@ -12729,8 +14487,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9757216,
-   "records": 2,
-   "cells": 2,
+   "records": 5,
+   "cells": 4,
    "file": "assets/geo/species/reticulitermes-nelsonae.geojson"
   },
   "reticulitermes-okinawanus": {
@@ -12740,8 +14498,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9791938,
-   "records": 6,
-   "cells": 2,
+   "records": 9,
+   "cells": 3,
    "file": "assets/geo/species/reticulitermes-okinawanus.geojson"
   },
   "reticulitermes-speratus": {
@@ -12751,8 +14509,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 8796429,
-   "records": 129,
-   "cells": 22,
+   "records": 168,
+   "cells": 25,
    "file": "assets/geo/species/reticulitermes-speratus.geojson"
   },
   "reticulitermes-speratus-kyushuensis": {
@@ -12762,8 +14520,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9810259,
-   "records": 136,
-   "cells": 12,
+   "records": 181,
+   "cells": 16,
    "file": "assets/geo/species/reticulitermes-speratus-kyushuensis.geojson"
   },
   "reticulitermes-speratus-speratus": {
@@ -12784,8 +14542,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 2007370,
-   "records": 35,
-   "cells": 18,
+   "records": 376,
+   "cells": 49,
    "file": "assets/geo/species/reticulitermes-tibialis.geojson"
   },
   "reticulitermes-urbis": {
@@ -12795,8 +14553,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 4514001,
-   "records": 44,
-   "cells": 9,
+   "records": 51,
+   "cells": 15,
    "file": "assets/geo/species/reticulitermes-urbis.geojson"
   },
   "reticulitermes-virginicus": {
@@ -12806,8 +14564,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 2007367,
-   "records": 3,
-   "cells": 3,
+   "records": 43,
+   "cells": 11,
    "file": "assets/geo/species/reticulitermes-virginicus.geojson"
   },
   "reticulitermes-yaeyamanus": {
@@ -12817,8 +14575,8 @@
    "family_id": "heterotermitidae",
    "genus_id": "reticulitermes",
    "gbif_key": 9670782,
-   "records": 1,
-   "cells": 1,
+   "records": 3,
+   "cells": 2,
    "file": "assets/geo/species/reticulitermes-yaeyamanus.geojson"
   },
   "rhadinotermes-coarctatus": {
@@ -12993,8 +14751,8 @@
    "family_id": "termitidae",
    "genus_id": "rubeotermes",
    "gbif_key": 9082997,
-   "records": 17,
-   "cells": 5,
+   "records": 50,
+   "cells": 12,
    "file": "assets/geo/species/rubeotermes-jheringi.geojson"
   },
   "rugitermes-bicolor": {
@@ -13129,6 +14887,17 @@
    "cells": 2,
    "file": "assets/geo/species/ruptitermes-cangua.geojson"
   },
+  "ruptitermes-franciscoi": {
+   "latin": "Ruptitermes franciscoi",
+   "zh": "弗朗西斯科腹爆白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "ruptitermes",
+   "gbif_key": 9070348,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/ruptitermes-franciscoi.geojson"
+  },
   "ruptitermes-maraca": {
    "latin": "Ruptitermes maraca",
    "zh": "马拉卡腹爆白蚁",
@@ -13213,8 +14982,8 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 4802754,
-   "records": 359,
-   "cells": 147,
+   "records": 424,
+   "cells": 164,
    "file": "assets/geo/species/schedorhinotermes-actuosus.geojson"
   },
   "schedorhinotermes-breinli": {
@@ -13224,8 +14993,8 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 4802760,
-   "records": 120,
-   "cells": 46,
+   "records": 146,
+   "cells": 52,
    "file": "assets/geo/species/schedorhinotermes-breinli.geojson"
   },
   "schedorhinotermes-derosus": {
@@ -13235,8 +15004,8 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 4802758,
-   "records": 34,
-   "cells": 23,
+   "records": 45,
+   "cells": 25,
    "file": "assets/geo/species/schedorhinotermes-derosus.geojson"
   },
   "schedorhinotermes-intermedius": {
@@ -13246,8 +15015,8 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 4802757,
-   "records": 191,
-   "cells": 28,
+   "records": 308,
+   "cells": 44,
    "file": "assets/geo/species/schedorhinotermes-intermedius.geojson"
   },
   "schedorhinotermes-lamanianus": {
@@ -13257,9 +15026,31 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 8857175,
-   "records": 35,
-   "cells": 15,
+   "records": 52,
+   "cells": 22,
    "file": "assets/geo/species/schedorhinotermes-lamanianus.geojson"
+  },
+  "schedorhinotermes-longirostris": {
+   "latin": "Schedorhinotermes longirostris",
+   "zh": "长喙长鼻白蚁",
+   "rank": "species",
+   "family_id": "rhinotermitidae",
+   "genus_id": "schedorhinotermes",
+   "gbif_key": 9637583,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/schedorhinotermes-longirostris.geojson"
+  },
+  "schedorhinotermes-makassarensis": {
+   "latin": "Schedorhinotermes makassarensis",
+   "zh": "望加锡长鼻白蚁",
+   "rank": "species",
+   "family_id": "rhinotermitidae",
+   "genus_id": "schedorhinotermes",
+   "gbif_key": 9718667,
+   "records": 6,
+   "cells": 1,
+   "file": "assets/geo/species/schedorhinotermes-makassarensis.geojson"
   },
   "schedorhinotermes-medioobscurus": {
    "latin": "Schedorhinotermes medioobscurus",
@@ -13268,8 +15059,8 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 9797177,
-   "records": 6,
-   "cells": 1,
+   "records": 26,
+   "cells": 3,
    "file": "assets/geo/species/schedorhinotermes-medioobscurus.geojson"
   },
   "schedorhinotermes-putorius": {
@@ -13279,8 +15070,8 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 9122953,
-   "records": 3,
-   "cells": 2,
+   "records": 5,
+   "cells": 4,
    "file": "assets/geo/species/schedorhinotermes-putorius.geojson"
   },
   "schedorhinotermes-reticulatus": {
@@ -13290,9 +15081,20 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 4802755,
-   "records": 117,
-   "cells": 54,
+   "records": 235,
+   "cells": 92,
    "file": "assets/geo/species/schedorhinotermes-reticulatus.geojson"
+  },
+  "schedorhinotermes-sanctaecrucis": {
+   "latin": "Schedorhinotermes sanctaecrucis",
+   "zh": "圣克鲁斯长鼻白蚁",
+   "rank": "species",
+   "family_id": "rhinotermitidae",
+   "genus_id": "schedorhinotermes",
+   "gbif_key": 9670839,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/schedorhinotermes-sanctaecrucis.geojson"
   },
   "schedorhinotermes-seclusus": {
    "latin": "Schedorhinotermes seclusus",
@@ -13301,9 +15103,42 @@
    "family_id": "rhinotermitidae",
    "genus_id": "schedorhinotermes",
    "gbif_key": 4802759,
-   "records": 80,
-   "cells": 27,
+   "records": 139,
+   "cells": 34,
    "file": "assets/geo/species/schedorhinotermes-seclusus.geojson"
+  },
+  "schedorhinotermes-solomonensis": {
+   "latin": "Schedorhinotermes solomonensis",
+   "zh": "所罗门长鼻白蚁",
+   "rank": "species",
+   "family_id": "rhinotermitidae",
+   "genus_id": "schedorhinotermes",
+   "gbif_key": 9757899,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/schedorhinotermes-solomonensis.geojson"
+  },
+  "schedorhinotermes-tiwarii": {
+   "latin": "Schedorhinotermes tiwarii",
+   "zh": "蒂瓦里长鼻白蚁",
+   "rank": "species",
+   "family_id": "rhinotermitidae",
+   "genus_id": "schedorhinotermes",
+   "gbif_key": 9732945,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/schedorhinotermes-tiwarii.geojson"
+  },
+  "schedorhinotermes-translucens": {
+   "latin": "Schedorhinotermes translucens",
+   "zh": "透明长鼻白蚁",
+   "rank": "species",
+   "family_id": "rhinotermitidae",
+   "genus_id": "schedorhinotermes",
+   "gbif_key": 9517154,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/schedorhinotermes-translucens.geojson"
   },
   "schievitermes-globicornis": {
    "latin": "Schievitermes globicornis",
@@ -13334,8 +15169,8 @@
    "family_id": "termitidae",
    "genus_id": "silvestritermes",
    "gbif_key": 10707510,
-   "records": 102,
-   "cells": 34,
+   "records": 391,
+   "cells": 74,
    "file": "assets/geo/species/silvestritermes-euamignathus.geojson"
   },
   "silvestritermes-heyeri": {
@@ -13356,8 +15191,8 @@
    "family_id": "termitidae",
    "genus_id": "silvestritermes",
    "gbif_key": 9801261,
-   "records": 74,
-   "cells": 12,
+   "records": 79,
+   "cells": 14,
    "file": "assets/geo/species/silvestritermes-minutus.geojson"
   },
   "sinocapritermes-mushae": {
@@ -13587,8 +15422,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9462502,
-   "records": 29,
-   "cells": 11,
+   "records": 34,
+   "cells": 14,
    "file": "assets/geo/species/syntermes-aculeosus.geojson"
   },
   "syntermes-barbatus": {
@@ -13602,6 +15437,17 @@
    "cells": 3,
    "file": "assets/geo/species/syntermes-barbatus.geojson"
   },
+  "syntermes-bolivianus": {
+   "latin": "Syntermes bolivianus",
+   "zh": "玻利维亚聚白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "syntermes",
+   "gbif_key": 9667236,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/syntermes-bolivianus.geojson"
+  },
   "syntermes-brevimalatus": {
    "latin": "Syntermes brevimalatus",
    "zh": "短颚聚白蚁",
@@ -13613,6 +15459,17 @@
    "cells": 2,
    "file": "assets/geo/species/syntermes-brevimalatus.geojson"
   },
+  "syntermes-calvus": {
+   "latin": "Syntermes calvus",
+   "zh": "无毛聚白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "syntermes",
+   "gbif_key": 9570888,
+   "records": 5,
+   "cells": 3,
+   "file": "assets/geo/species/syntermes-calvus.geojson"
+  },
   "syntermes-cearensis": {
    "latin": "Syntermes cearensis",
    "zh": "塞阿腊聚白蚁",
@@ -13620,8 +15477,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9729262,
-   "records": 2,
-   "cells": 2,
+   "records": 5,
+   "cells": 5,
    "file": "assets/geo/species/syntermes-cearensis.geojson"
   },
   "syntermes-chaquimayensis": {
@@ -13631,8 +15488,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 8958839,
-   "records": 8,
-   "cells": 2,
+   "records": 10,
+   "cells": 4,
    "file": "assets/geo/species/syntermes-chaquimayensis.geojson"
   },
   "syntermes-crassilabrum": {
@@ -13653,8 +15510,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 8945471,
-   "records": 16,
-   "cells": 10,
+   "records": 55,
+   "cells": 26,
    "file": "assets/geo/species/syntermes-dirus.geojson"
   },
   "syntermes-grandis": {
@@ -13664,9 +15521,20 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9377655,
-   "records": 8,
-   "cells": 7,
+   "records": 46,
+   "cells": 26,
    "file": "assets/geo/species/syntermes-grandis.geojson"
+  },
+  "syntermes-insidians": {
+   "latin": "Syntermes insidians",
+   "zh": "隐蔽聚白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "syntermes",
+   "gbif_key": 9818917,
+   "records": 8,
+   "cells": 3,
+   "file": "assets/geo/species/syntermes-insidians.geojson"
   },
   "syntermes-longiceps": {
    "latin": "Syntermes longiceps",
@@ -13679,6 +15547,17 @@
    "cells": 1,
    "file": "assets/geo/species/syntermes-longiceps.geojson"
   },
+  "syntermes-magnoculus": {
+   "latin": "Syntermes magnoculus",
+   "zh": "大眼聚白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "syntermes",
+   "gbif_key": 9813457,
+   "records": 5,
+   "cells": 2,
+   "file": "assets/geo/species/syntermes-magnoculus.geojson"
+  },
   "syntermes-molestus": {
    "latin": "Syntermes molestus",
    "zh": "讨厌聚白蚁",
@@ -13686,8 +15565,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9583145,
-   "records": 343,
-   "cells": 91,
+   "records": 394,
+   "cells": 121,
    "file": "assets/geo/species/syntermes-molestus.geojson"
   },
   "syntermes-nanus": {
@@ -13697,8 +15576,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 8629529,
-   "records": 57,
-   "cells": 29,
+   "records": 104,
+   "cells": 51,
    "file": "assets/geo/species/syntermes-nanus.geojson"
   },
   "syntermes-obtusus": {
@@ -13708,8 +15587,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 8919402,
-   "records": 3,
-   "cells": 3,
+   "records": 12,
+   "cells": 10,
    "file": "assets/geo/species/syntermes-obtusus.geojson"
   },
   "syntermes-parallelus": {
@@ -13719,8 +15598,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9655682,
-   "records": 2,
-   "cells": 2,
+   "records": 10,
+   "cells": 5,
    "file": "assets/geo/species/syntermes-parallelus.geojson"
   },
   "syntermes-peruanus": {
@@ -13741,8 +15620,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9714994,
-   "records": 11,
-   "cells": 7,
+   "records": 38,
+   "cells": 8,
    "file": "assets/geo/species/syntermes-praecellens.geojson"
   },
   "syntermes-spinosus": {
@@ -13752,8 +15631,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9273818,
-   "records": 58,
-   "cells": 17,
+   "records": 76,
+   "cells": 28,
    "file": "assets/geo/species/syntermes-spinosus.geojson"
   },
   "syntermes-tanygnathus": {
@@ -13763,8 +15642,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9648538,
-   "records": 1,
-   "cells": 1,
+   "records": 2,
+   "cells": 2,
    "file": "assets/geo/species/syntermes-tanygnathus.geojson"
   },
   "syntermes-territus": {
@@ -13774,8 +15653,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9496256,
-   "records": 10,
-   "cells": 8,
+   "records": 19,
+   "cells": 10,
    "file": "assets/geo/species/syntermes-territus.geojson"
   },
   "syntermes-wheeleri": {
@@ -13785,8 +15664,8 @@
    "family_id": "termitidae",
    "genus_id": "syntermes",
    "gbif_key": 9736695,
-   "records": 8,
-   "cells": 3,
+   "records": 51,
+   "cells": 21,
    "file": "assets/geo/species/syntermes-wheeleri.geojson"
   },
   "tauritermes-vitulus": {
@@ -14192,8 +16071,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815197,
-   "records": 30,
-   "cells": 16,
+   "records": 136,
+   "cells": 37,
    "file": "assets/geo/species/tumulitermes-apiocephalus.geojson"
   },
   "tumulitermes-comatus": {
@@ -14203,9 +16082,20 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815209,
-   "records": 35,
-   "cells": 25,
+   "records": 121,
+   "cells": 55,
    "file": "assets/geo/species/tumulitermes-comatus.geojson"
+  },
+  "tumulitermes-curtus": {
+   "latin": "Tumulitermes curtus",
+   "zh": "缩短冢白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "tumulitermes",
+   "gbif_key": 5815199,
+   "records": 2,
+   "cells": 1,
+   "file": "assets/geo/species/tumulitermes-curtus.geojson"
   },
   "tumulitermes-dalbiensis": {
    "latin": "Tumulitermes dalbiensis",
@@ -14214,8 +16104,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815212,
-   "records": 47,
-   "cells": 14,
+   "records": 111,
+   "cells": 43,
    "file": "assets/geo/species/tumulitermes-dalbiensis.geojson"
   },
   "tumulitermes-hastilis": {
@@ -14225,8 +16115,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815211,
-   "records": 91,
-   "cells": 49,
+   "records": 152,
+   "cells": 67,
    "file": "assets/geo/species/tumulitermes-hastilis.geojson"
   },
   "tumulitermes-kershawi": {
@@ -14236,8 +16126,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815207,
-   "records": 8,
-   "cells": 7,
+   "records": 12,
+   "cells": 10,
    "file": "assets/geo/species/tumulitermes-kershawi.geojson"
   },
   "tumulitermes-marcidus": {
@@ -14247,8 +16137,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815206,
-   "records": 37,
-   "cells": 14,
+   "records": 45,
+   "cells": 18,
    "file": "assets/geo/species/tumulitermes-marcidus.geojson"
   },
   "tumulitermes-mareebensis": {
@@ -14258,9 +16148,20 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815196,
-   "records": 7,
-   "cells": 4,
+   "records": 27,
+   "cells": 6,
    "file": "assets/geo/species/tumulitermes-mareebensis.geojson"
+  },
+  "tumulitermes-nichollsi": {
+   "latin": "Tumulitermes nichollsi",
+   "zh": "尼科尔斯冢白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "tumulitermes",
+   "gbif_key": 5815201,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/tumulitermes-nichollsi.geojson"
   },
   "tumulitermes-pastinator": {
    "latin": "Tumulitermes pastinator",
@@ -14269,8 +16170,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815204,
-   "records": 125,
-   "cells": 56,
+   "records": 195,
+   "cells": 78,
    "file": "assets/geo/species/tumulitermes-pastinator.geojson"
   },
   "tumulitermes-peracutus": {
@@ -14280,8 +16181,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815208,
-   "records": 31,
-   "cells": 9,
+   "records": 121,
+   "cells": 26,
    "file": "assets/geo/species/tumulitermes-peracutus.geojson"
   },
   "tumulitermes-petilus": {
@@ -14291,8 +16192,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815205,
-   "records": 5,
-   "cells": 4,
+   "records": 54,
+   "cells": 19,
    "file": "assets/geo/species/tumulitermes-petilus.geojson"
   },
   "tumulitermes-pulleinei": {
@@ -14302,7 +16203,7 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815200,
-   "records": 11,
+   "records": 12,
    "cells": 4,
    "file": "assets/geo/species/tumulitermes-pulleinei.geojson"
   },
@@ -14313,9 +16214,20 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815203,
-   "records": 37,
-   "cells": 26,
+   "records": 99,
+   "cells": 56,
    "file": "assets/geo/species/tumulitermes-recalvus.geojson"
+  },
+  "tumulitermes-subaquilus": {
+   "latin": "Tumulitermes subaquilus",
+   "zh": "稍暗冢白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "tumulitermes",
+   "gbif_key": 5815210,
+   "records": 43,
+   "cells": 13,
+   "file": "assets/geo/species/tumulitermes-subaquilus.geojson"
   },
   "tumulitermes-tumuli": {
    "latin": "Tumulitermes tumuli",
@@ -14324,8 +16236,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815202,
-   "records": 38,
-   "cells": 20,
+   "records": 149,
+   "cells": 70,
    "file": "assets/geo/species/tumulitermes-tumuli.geojson"
   },
   "tumulitermes-westraliensis": {
@@ -14335,8 +16247,8 @@
    "family_id": "termitidae",
    "genus_id": "tumulitermes",
    "gbif_key": 5815198,
-   "records": 7,
-   "cells": 6,
+   "records": 69,
+   "cells": 19,
    "file": "assets/geo/species/tumulitermes-westraliensis.geojson"
   },
   "uncitermes-teevani": {
@@ -14346,8 +16258,8 @@
    "family_id": "termitidae",
    "genus_id": "uncitermes",
    "gbif_key": 9734260,
-   "records": 49,
-   "cells": 13,
+   "records": 60,
+   "cells": 20,
    "file": "assets/geo/species/uncitermes-teevani.geojson"
   },
   "vaninitermes-brevinasus": {
@@ -14372,6 +16284,17 @@
    "cells": 22,
    "file": "assets/geo/species/vaninitermes-ignotus.geojson"
   },
+  "velocitermes-aporeticus": {
+   "latin": "Velocitermes aporeticus",
+   "zh": "怀疑快白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "velocitermes",
+   "gbif_key": 9658855,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/velocitermes-aporeticus.geojson"
+  },
   "velocitermes-barrocoloradensis": {
    "latin": "Velocitermes barrocoloradensis",
    "zh": "巴罗科罗拉多快白蚁",
@@ -14390,8 +16313,8 @@
    "family_id": "termitidae",
    "genus_id": "velocitermes",
    "gbif_key": 8940253,
-   "records": 4,
-   "cells": 2,
+   "records": 8,
+   "cells": 4,
    "file": "assets/geo/species/velocitermes-beebei.geojson"
   },
   "velocitermes-glabrinotus": {
@@ -14401,8 +16324,8 @@
    "family_id": "termitidae",
    "genus_id": "velocitermes",
    "gbif_key": 9698645,
-   "records": 2,
-   "cells": 2,
+   "records": 4,
+   "cells": 4,
    "file": "assets/geo/species/velocitermes-glabrinotus.geojson"
   },
   "velocitermes-heteropterus": {
@@ -14489,8 +16412,8 @@
    "family_id": "archotermopsidae",
    "genus_id": "zootermopsis",
    "gbif_key": 2007393,
-   "records": 135,
-   "cells": 28,
+   "records": 1352,
+   "cells": 74,
    "file": "assets/geo/species/zootermopsis-angusticollis.geojson"
   },
   "zootermopsis-laticeps": {
@@ -14500,8 +16423,8 @@
    "family_id": "archotermopsidae",
    "genus_id": "zootermopsis",
    "gbif_key": 2007389,
-   "records": 2,
-   "cells": 2,
+   "records": 122,
+   "cells": 16,
    "file": "assets/geo/species/zootermopsis-laticeps.geojson"
   },
   "zootermopsis-nevadensis": {
@@ -14511,9 +16434,31 @@
    "family_id": "archotermopsidae",
    "genus_id": "zootermopsis",
    "gbif_key": 2007390,
-   "records": 80,
-   "cells": 38,
+   "records": 598,
+   "cells": 75,
    "file": "assets/geo/species/zootermopsis-nevadensis.geojson"
+  },
+  "zootermopsis-nevadensis-nevadensis": {
+   "latin": "Zootermopsis nevadensis nevadensis",
+   "zh": "指名亚种",
+   "rank": "subspecies",
+   "family_id": "archotermopsidae",
+   "genus_id": "zootermopsis",
+   "gbif_key": 7198563,
+   "records": 15,
+   "cells": 5,
+   "file": "assets/geo/species/zootermopsis-nevadensis-nevadensis.geojson"
+  },
+  "zootermopsis-nevadensis-nuttingi": {
+   "latin": "Zootermopsis nevadensis nuttingi",
+   "zh": "纳丁亚种",
+   "rank": "subspecies",
+   "family_id": "archotermopsidae",
+   "genus_id": "zootermopsis",
+   "gbif_key": 6193186,
+   "records": 36,
+   "cells": 11,
+   "file": "assets/geo/species/zootermopsis-nevadensis-nuttingi.geojson"
   }
  }
 }

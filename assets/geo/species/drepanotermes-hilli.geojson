@@ -1,15 +1,16 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Drepanotermes hilli","species_zh":"希尔镰白蚁","slug":"drepanotermes-hilli","rank":"species","type_species":false,"genus":"Drepanotermes","genus_zh":"镰白蚁属","genus_id":"drepanotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803323,"records":22,"cells":9,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Drepanotermes hilli","species_zh":"希尔镰白蚁","slug":"drepanotermes-hilli","rank":"species","type_species":false,"genus":"Drepanotermes","genus_zh":"镰白蚁属","genus_id":"drepanotermes","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","gbif_key":4803323,"records":31,"cells":10,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-29.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[117.5,-28.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-29.5]},"properties":{"n":3}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[117.5,-28.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-28.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[121.5,-28.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[122.5,-28.5]},"properties":{"n":3}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-27.5]},"properties":{"n":4}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-26.5]},"properties":{"n":4}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-26.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[119.5,-26.5]},"properties":{"n":1}}
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[122.5,-28.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-27.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,-26.5]},"properties":{"n":6}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[118.5,-26.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[119.5,-26.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[120.5,-26.5]},"properties":{"n":1}}
 ]
 }

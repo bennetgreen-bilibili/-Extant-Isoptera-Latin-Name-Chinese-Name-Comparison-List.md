@@ -1,16 +1,18 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Cryptotermes cavifrons","species_zh":"凹额堆砂白蚁","slug":"cryptotermes-cavifrons","rank":"species","type_species":true,"genus":"Cryptotermes","genus_zh":"堆砂白蚁属","genus_id":"cryptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":2007319,"records":35,"cells":10,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Cryptotermes cavifrons","species_zh":"凹额堆砂白蚁","slug":"cryptotermes-cavifrons","rank":"species","type_species":true,"genus":"Cryptotermes","genus_zh":"堆砂白蚁属","genus_id":"cryptotermes","family":"KALOTERMITIDAE","family_zh":"木白蚁科","family_id":"kalotermitidae","gbif_key":2007319,"records":39,"cells":12,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[8.5,9.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,24.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.5,25.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.5,26.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,27.5]},"properties":{"n":7}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,28.5]},"properties":{"n":2}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,28.5]},"properties":{"n":5}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,28.5]},"properties":{"n":7}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,29.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,29.5]},"properties":{"n":6}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,30.5]},"properties":{"n":4}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-79.5,32.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[13.5,52.5]},"properties":{"n":3}}
 ]
 }

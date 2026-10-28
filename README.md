@@ -95,7 +95,7 @@
 | Blattodea Species File 对照 | 有效名 2963、异名 3、待核对 62、未检索到 43（共 3071；抽查 20/20 页可通过） |
 | 开放许可照片 | 202 个物种、875 张（iNaturalist 758 + Wikimedia Commons 117） |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
-| 分布图 | 13 个科级 + 属级 + 种级 GeoJSON（`assets/geo/{family,genus,species}/`），仅名录现生类群，化石记录已剔除 |
+| 分布图 | 13 个科级 + 254 个属级 + 1,181 个种级 GeoJSON（`assets/geo/{family,genus,species}/`），87,076 条 GBIF 带坐标记录（访问日期 2026-10-28）；仅名录现生类群，化石种与 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 记录已剔除 |
 
 ### 1. 其它数据库外链与「本站名 vs 外部接受名」一致性提示
 - 每个物种页的「其他数据库」区块给出 GBIF Backbone、Catalogue of Life（ChecklistBank）、Wikidata、Blattodea Species File 的链接、状态（接受名/异名/存疑/未收录）与匹配置信度。

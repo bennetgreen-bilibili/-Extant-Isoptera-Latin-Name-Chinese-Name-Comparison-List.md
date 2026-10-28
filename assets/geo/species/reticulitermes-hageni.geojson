@@ -1,9 +1,11 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"species","species":"Reticulitermes hageni","species_zh":"哈根散白蚁","slug":"reticulitermes-hageni","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":2007371,"records":21,"cells":16,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"species","species":"Reticulitermes hageni","species_zh":"哈根散白蚁","slug":"reticulitermes-hageni","rank":"species","type_species":false,"genus":"Reticulitermes","genus_zh":"散白蚁属","genus_id":"reticulitermes","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","gbif_key":2007371,"records":30,"cells":20,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,27.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,29.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,29.5]},"properties":{"n":2}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-89.5,30.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-97.5,32.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-92.5,32.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5,33.5]},"properties":{"n":1}},
@@ -14,9 +16,11 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-87.5,36.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,36.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.5,37.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.5,38.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-90.5,38.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,38.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,38.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-82.5,39.5]},"properties":{"n":1}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,39.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.5,40.5]},"properties":{"n":2}}
 ]
 }
