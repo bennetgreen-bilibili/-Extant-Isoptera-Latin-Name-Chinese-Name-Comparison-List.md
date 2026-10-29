@@ -1,0 +1,54 @@
+name: Validate data and templates
+
+# PR / 推送前的闸门：结构一致性检查 + "生成产物是否最新" 检查。
+# 只读与生成都不访问外部 API（权威库缓存已提交在仓库里），所以快且稳定。
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 结构一致性：JSON、分布图产物、三语名录同构、锚点、计数、sitemap、i18n、命名差异产物
+      - name: Structural checks
+        run: python _tools/check_site.py --ci
+
+      # 重新生成全部派生产物（不装 pypinyin / OpenCC：仓库内的 search-index.json 是基础版，
+      # 部署时由 pages.yml 安装依赖后重新生成增强版，两者互不干扰）
+      - name: Regenerate derived artifacts
+        run: |
+          python .github/workflows/build_genus_index.py
+          python .github/workflows/build_species_body.py --write
+          python .github/workflows/build_sitemap_txt.py
+          python .github/workflows/build_search_index.py --write --no-enrich
+          python .github/workflows/build_dataset.py --write
+          python .github/workflows/build_name_issues.py --write
+
+      # 生成产物必须已提交：改了数据却忘了重跑脚本，这里立刻红
+      - name: Fail if generated artifacts are stale
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::error::生成产物与脚本输出不一致：请在本地重跑上面的脚本并提交结果（见 git status / git diff 输出）"
+            git status --porcelain
+            git diff
+            exit 1
+          fi
+          echo "OK: 所有生成产物与脚本输出一致"

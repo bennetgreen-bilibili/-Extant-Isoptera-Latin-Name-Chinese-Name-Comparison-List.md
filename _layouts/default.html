@@ -16,6 +16,8 @@
 {% endif %}
 {%- comment -%} 页面路径去掉语言前缀（/en、/es），用于 hreflang 与语言切换 {%- endcomment -%}
 {% assign path_no_lang = page.url | remove_first: '/en' | remove_first: '/es' %}
+{%- comment -%} 只有名录主页面才加载地图 / 文献增强与名录排版；/list/ 的子页面（如 /list/name-issues/）不继承这些资源 {%- endcomment -%}
+{%- assign is_list_page = false -%}{%- if path_no_lang == '/list/' -%}{%- assign is_list_page = true -%}{%- endif -%}
 {% unless page.collection == 'species' %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
@@ -32,12 +34,12 @@
 {% if page.collection == 'species' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.css">
 <link rel="stylesheet" href="{{ site.base_url }}/assets/gallery.css?v={{ site.time | date: '%s' }}">
 {% endif %}{%- comment -%} 名录页（分布图 + 文献增强）与物种页（种级分布图）的专用样式：Leaflet 本地托管，不从 CDN 加载 {%- endcomment -%}
-{% if page.url contains '/list' or page.collection == 'species' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/leaflet/leaflet.css">
+{% if is_list_page or page.collection == 'species' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/vendor/leaflet/leaflet.css">
 <link rel="stylesheet" href="{{ site.base_url }}/assets/map.css?v={{ site.time | date: '%s' }}">
-{% endif %}{% if page.url contains '/list' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ site.time | date: '%s' }}">
+{% endif %}{% if is_list_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ site.time | date: '%s' }}">
 {% endif %}
 </head>
-<body{% if page.url contains '/list' %} class="is-list-page"{% endif %}>
+<body{% if is_list_page %} class="is-list-page"{% endif %}>
 
 {%- comment -%} 界面文案按页面语言取自 _data/i18n.yml，未知语言回退中文 {%- endcomment -%}
 {%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
@@ -119,10 +121,12 @@
     <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{{ T.nav_blog }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/guestbook/" class="nav-link{% if page.url contains '/guestbook' %} active{% endif %}">{{ T.nav_guestbook }}</a>
+    <button type="button" class="nav-search-btn" id="nav-search-btn" aria-label="{{ T.search_shortcut }}" title="{{ T.search_shortcut }}"><span aria-hidden="true">⌕</span> {{ T.nav_search }}</button>
   </div>
 </nav>
 
-<main class="content-wrap" data-pagefind-body>
+{%- comment -%} Pagefind：物种页把「科」与拉丁名带进索引，供搜索结果过滤 / 展示（/search/ 与第三方 API 都可读） {%- endcomment -%}
+<main class="content-wrap" data-pagefind-body{% if page.collection == 'species' %} data-pagefind-filter="family:{{ page.family_latin }}" data-pagefind-meta="latin:{{ page.latin }}"{% endif %}>
   <div class="container content">
     {{ content }}
   </div>
@@ -137,6 +141,20 @@
 
 <button class="back-top" id="back-top" aria-label="{{ T.back_top }}" title="{{ T.back_top }}" data-pagefind-ignore>↑</button>
 
+{%- comment -%} 全局搜索浮层：Ctrl/⌘+K 或点击导航里的搜索按钮；Pagefind 索引不存在时回退到 /search/ {%- endcomment -%}
+<div class="search-overlay" id="search-overlay" hidden data-pagefind-ignore>
+  <div class="search-overlay-backdrop" id="search-overlay-backdrop"></div>
+  <div class="search-overlay-panel" role="dialog" aria-modal="true" aria-labelledby="search-overlay-title">
+    <div class="search-overlay-head">
+      <h2 class="search-overlay-title" id="search-overlay-title">{{ T.nav_search }}</h2>
+      <button type="button" class="search-overlay-close" id="search-overlay-close" aria-label="{{ T.search_overlay_close }}">×</button>
+    </div>
+    <input type="search" class="search-overlay-input" id="search-overlay-input" placeholder="{{ T.search_overlay_placeholder }}" aria-label="{{ T.search_overlay_placeholder }}" autocomplete="off" spellcheck="false">
+    <ul class="search-overlay-results" id="search-overlay-results"></ul>
+    <p class="search-overlay-foot"><a id="search-overlay-all" href="{{ site.base_url }}{{ LANGP }}/search/">{{ T.search_overlay_all }} →</a></p>
+  </div>
+</div>
+<script src="{{ site.base_url }}/assets/search-widget.js?v={{ site.time | date: '%s' }}" defer data-bundle="{{ site.base_url }}/pagefind/" data-base="{{ site.base_url }}" data-search-page="{{ site.base_url }}{{ LANGP }}/search/" data-text-empty="{{ T.search_overlay_empty }}" data-text-loading="{{ T.search_overlay_loading }}" data-text-all="{{ T.search_overlay_all }}" data-text-close="{{ T.search_overlay_close }}" data-text-shortcut="{{ T.search_shortcut }}"></script>
 {% if page.pagefind %}
 <script src="{{ site.base_url }}/pagefind/pagefind-ui.js" defer></script>
 <script src="{{ site.base_url }}/assets/search-page.js?v={{ site.time | date: '%s' }}" defer></script>
@@ -146,9 +164,9 @@
 <script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe-lightbox.umd.min.js" defer></script>
 <script src="{{ site.base_url }}/assets/gallery.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}{%- comment -%} 名录页 / 物种页的分布图脚本与名录页的文献增强脚本 {%- endcomment -%}
-{% if page.url contains '/list' or page.collection == 'species' %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
+{% if is_list_page or page.collection == 'species' %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
 <script src="{{ site.base_url }}/assets/map.js?v={{ site.time | date: '%s' }}" defer></script>
-{% endif %}{% if page.url contains '/list' %}<script src="{{ site.base_url }}/assets/references.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}{% if is_list_page %}<script src="{{ site.base_url }}/assets/references.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}
 <script src="{{ site.base_url }}/assets/search.js?v={{ site.time | date: '%s' }}"></script>
 <script src="{{ site.base_url }}/assets/site.js?v={{ site.time | date: '%s' }}"></script>

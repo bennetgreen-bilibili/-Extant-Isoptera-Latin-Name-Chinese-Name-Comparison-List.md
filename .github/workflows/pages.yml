@@ -29,6 +29,11 @@ jobs:
       - name: Install python-docx
         run: pip install python-docx
 
+      # 结构一致性闸门：三语名录同构、锚点、计数、sitemap、i18n、命名差异产物
+      # （数据本身有错就不部署；生成产物由下面的步骤重新生成，不在此处比较）
+      - name: Structural checks before build
+        run: python _tools/check_site.py
+
       - name: Convert _inbox to posts
         run: python .github/workflows/convert_inbox.py
 
@@ -40,6 +45,10 @@ jobs:
 
       - name: Build sitemap.txt
         run: python .github/workflows/build_sitemap_txt.py
+
+      # 命名差异看板数据（/list/name-issues/）：从 GBIF / COL / BSF 缓存整理，确定性输出
+      - name: Build name-issues dashboard data
+        run: python .github/workflows/build_name_issues.py --write
 
       # 拼音 / 繁体是可选增强：装不上时 build_search_index.py 会自动跳过，不阻断部署
       - name: Install search index libraries (pinyin / traditional Chinese)
@@ -61,8 +70,9 @@ jobs:
       #   python .github/workflows/build_references.py --write        （Crossref 文献增强）
       #   python .github/workflows/build_occurrence_geojson.py --write（GBIF 分布图）
       # ------------------------------------------------------------------
+      # 离线校验：坏了就应当阻断部署（线上只剩排版错误比缺数据更糟）。
+      # 注意：网络类步骤（权威库增量刷新 / Pagefind 安装与索引）仍保留 continue-on-error。
       - name: Verify external data caches (offline)
-        continue-on-error: true
         run: |
           python .github/workflows/build_authority_links.py --check
           python .github/workflows/build_bsf_links.py --check

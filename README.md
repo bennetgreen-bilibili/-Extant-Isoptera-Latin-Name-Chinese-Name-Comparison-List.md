@@ -9,6 +9,7 @@
 | `list.md` | 名录：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
 | `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
+| `name-issues.md` | 命名差异：名录页下一级（`/list/name-issues/`），把本站名与 GBIF / Catalogue of Life / BSF 的对照结果整理成可筛选清单（名称差异 / 匹配存疑 / 覆盖缺口），支持按类型、来源、关键词筛选与每页 50 条分页，附 CSV 与公开 JSON |
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
@@ -85,6 +86,7 @@
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
+| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、物种页「其他数据库」区块底部入口 |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
@@ -130,6 +132,14 @@
 - 物种页输出 schema.org `Taxon`（含 `scientificName`、`taxonRank`、中文 `alternateName`、`parentTaxon`、`identifier`）与 `BreadcrumbList`；`sameAs` 指向 GBIF / Catalogue of Life / Wikidata / BSF 条目，`isPartOf` 指向首页的 Dataset 实体。
 - 首页三语 `Dataset` JSON-LD 增加了固定 `@id`，因此 `Dataset ← isPartOf ← Taxon` 构成同一实体图，便于搜索引擎与学术聚合器识别。字段缺失（如没有 Wikidata 条目）时自动省略，不输出空数组。
 
+### 7. 命名差异与待核对看板（/list/name-issues/）
+
+- 位置：名录页（`/list/`）下一级，三语各一页；从名录页搜索框下方与每个物种页「其他数据库」区块底部进入。
+- 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 307 条，涉及 200 个种/亚种。
+- 交互：按类型与来源筛选、关键词检索（拉丁名 / 中文名 / 外部名 / 科名）、每页 50 条分页，状态写进 URL（`?group=&source=&q=&page=`）可分享；无 JS 时展示全部条目。
+- 产物：`_data/name_issues.json`（页面用）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）。
+- 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；只整理缓存，不改动任何站内分类数据。
+
 ### 外部数据的刷新与 CI
 - 全部缓存已提交进仓库，构建时不需要现场抓 3000+ 次 API。CI 在 Jekyll 构建前：① 离线校验各缓存（`--check` / `--verify`，坏 JSON 会立刻暴露但不阻断部署）；② 对权威库外链做一次 ≤120 秒的「过期条目」增量刷新（失败不阻断部署，部署版可能比仓库缓存新）。
 - 手动全量刷新（建议每月或换 Catalogue of Life 年度版本后执行）：
@@ -145,9 +155,10 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
+- **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语 `list.md` 同构、名录内部锚点、物种页面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数 = 名录物种链接数）、sitemap 与 i18n、命名差异产物自洽，并把「中文重名 / 缺分布 / 标题层级跳级」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3096 条：24 个页面（中文 8 + 英文 8 + 西语 8）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：27 个页面（中文 9 + 英文 9 + 西语 9）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 

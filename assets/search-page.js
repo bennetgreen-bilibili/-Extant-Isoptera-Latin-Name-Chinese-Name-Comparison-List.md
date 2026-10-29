@@ -72,6 +72,32 @@
     return result;
   }
 
+  // 搜索词回流：Pagefind UI 的输入框停手 1.5 秒且词长 ≥ 2 时记一次 GoatCounter 事件
+  var loggedTerms = {};
+  function trackTerm(raw) {
+    var q = String(raw || '').trim();
+    if (q.length < 2 || loggedTerms[q]) return;
+    loggedTerms[q] = 1;
+    try {
+      if (window.goatcounter && window.goatcounter.count) {
+        window.goatcounter.count({ path: '/search?q=' + encodeURIComponent(q), title: 'search', event: true });
+      }
+    } catch (err) { /* 统计失败不影响检索 */ }
+  }
+  function setupTracking(initial) {
+    var box = document.getElementById('pagefind-search');
+    if (!box) return;
+    var timer = null;
+    box.addEventListener('input', function (ev) {
+      var target = ev.target;
+      if (!target || !target.value) return;
+      var value = target.value;
+      clearTimeout(timer);
+      timer = setTimeout(function () { trackTerm(value); }, 1500);
+    });
+    if (initial) trackTerm(initial);
+  }
+
   function init() {
     if (typeof PagefindUI === 'undefined') { showFallback(); return; }
     var ui;
@@ -99,6 +125,7 @@
     var q = '';
     try { q = new URLSearchParams(window.location.search).get('q') || ''; } catch (err) { q = ''; }
     if (q && typeof ui.triggerSearch === 'function') ui.triggerSearch(q);
+    setupTracking(q);
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);

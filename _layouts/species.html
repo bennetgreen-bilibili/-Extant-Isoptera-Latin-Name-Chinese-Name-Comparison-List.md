@@ -7,7 +7,7 @@ layout: default
     › <a href="{{ site.base_url }}/list/#{{ page.family_id }}">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/list/#{{ page.subfamily_id }}">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/list/#{{ page.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a>
   </nav>
 
-  <h1 class="species-title"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh">{{ page.zh }}</span></h1>
+  <h1 class="species-title" data-pagefind-filter="rank:{{ page.rank }}" data-pagefind-meta="zh:{{ page.zh }}"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh">{{ page.zh }}</span></h1>
 
   <p class="species-meta">{% if page.rank == 'subspecies' %}亚种 <span class="fact-en" lang="en">Subspecies</span> <span class="fact-es" lang="es">Subespecie</span>{% else %}种 <span class="fact-en" lang="en">Species</span> <span class="fact-es" lang="es">Especie</span>{% endif %}{% if page.type %} · <span class="species-type-mark">* 模式种 <span class="fact-en" lang="en">Type species</span> <span class="fact-es" lang="es">Especie tipo</span></span>{% endif %}</p>
 

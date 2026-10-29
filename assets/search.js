@@ -44,7 +44,7 @@
     for (var i=0;i<list.length;i++){
       var r = list[i], e = r.e;
       var href = (e.p && (e.r === '种' || e.r === '亚种')) ? (BASE + '/species/' + encodeURIComponent(e.p) + '/') : (LIST + '#' + e.h);
-      html += '<li><a href="'+href+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+hint(r.via)+'</a></li>';
+      html += '<li><a href="'+href+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+(e.f ? ' <span class="fam">· '+esc(e.f)+'</span>' : '')+hint(r.via)+'</a></li>';
     }
     results.innerHTML = html;
     results.style.display = 'block';
@@ -82,8 +82,26 @@
     render(scored.slice(0, 60), raw);
   }
 
-  var timer;
-  input.addEventListener('input', function(){ clearTimeout(timer); var v = input.value; timer = setTimeout(function(){ search(v); }, 140); });
+  // 搜索词回流：用户停手 1.5 秒且词长 ≥ 2 时记一次 GoatCounter 事件（无 Cookie、无新依赖）
+  var logged = {};
+  function trackTerm(raw){
+    var q = String(raw || '').trim();
+    if (q.length < 2 || logged[q]) return;
+    logged[q] = 1;
+    try {
+      if (window.goatcounter && window.goatcounter.count) {
+        window.goatcounter.count({ path: '/list?q=' + encodeURIComponent(q), title: 'list-search', event: true });
+      }
+    } catch (e) { /* 统计失败不影响检索 */ }
+  }
+  var timer, trackTimer;
+  input.addEventListener('input', function(){
+    clearTimeout(timer);
+    clearTimeout(trackTimer);
+    var v = input.value;
+    timer = setTimeout(function(){ search(v); }, 140);
+    trackTimer = setTimeout(function(){ trackTerm(v); }, 1500);
+  });
   input.addEventListener('focus', function(){ if (input.value) search(input.value); });
   document.addEventListener('click', function(ev){ if (results.style.display !== 'none' && !ev.target.closest('.search-wrap')) results.style.display = 'none'; });
   input.addEventListener('keydown', function(ev){ if (ev.key === 'Escape'){ results.style.display='none'; } });

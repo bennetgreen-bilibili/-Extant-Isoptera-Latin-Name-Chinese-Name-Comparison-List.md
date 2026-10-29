@@ -96,5 +96,10 @@
   {%- if META -%}
   <p class="authority-meta">数据源 <span class="fact-en" lang="en">Sources</span>：GBIF Backbone Taxonomy{% if META.sources.col.title %} · {{ META.sources.col.title }}（{{ META.sources.col.dataset }}{% if META.sources.col.issued %}，{{ META.sources.col.issued }}{% endif %}{% if META.sources.col.doi %} · <a href="https://doi.org/{{ META.sources.col.doi }}" rel="noopener external" target="_blank">doi:{{ META.sources.col.doi }}</a>{% endif %}）{% endif %} · Wikidata（P225）{% if BSF %} · Blattodea Species File{% endif %}。抓取日期 {{ META.generated | slice: 0, 10 }}（UTC）。匹配方法与判定规则见<a href="{{ site.base_url }}/data/#authority">数据页</a>。</p>
   {%- endif -%}
+
+  {%- assign issue_count = site.data.name_issues.meta.by_latin[page.latin] -%}
+  {%- if issue_count -%}
+  <p class="authority-board-link"><a href="{{ site.base_url }}/list/name-issues/?q={{ page.latin | uri_escape }}">命名差异看板 <span class="fact-en" lang="en">name discrepancies</span> <span class="fact-es" lang="es">discrepancias de nombres</span>：该种有 {{ issue_count }} 条待核对 →</a></p>
+  {%- endif -%}
 </section>
 {%- endif -%}

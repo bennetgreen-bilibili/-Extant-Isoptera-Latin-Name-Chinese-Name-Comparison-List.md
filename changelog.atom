@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <title>现存等翅下目（白蚁）拉丁学名—中文正名对照名录 · 版本记录</title>
+  <subtitle>Extant Isoptera (Termites) checklist — release changelog</subtitle>
+  <id>https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/changelog/</id>
+  <link rel="self" type="application/atom+xml" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/changelog.atom"/>
+  <link rel="alternate" type="text/html" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/changelog/"/>
+  <updated>2026-10-17T00:00:00Z</updated>
+  <author><name>班奈特格林 (Bennet Green)</name><uri>https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/</uri></author>
+  <entry>
+    <title>2026.10.17 — 首个 DOI 归档版本 First archived release</title>
+    <id>https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/changelog/2026-10-17/</id>
+    <link rel="alternate" type="text/html" href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/changelog/#v2026-10-17"/>
+    <updated>2026-10-17T00:00:00Z</updated>
+    <published>2026-10-17T00:00:00Z</published>
+    <content type="text">数据内容与项目网站 2026.10.17 正式版一致：13 科、18 亚科、323 属、3008 种、63 亚种（3071 条记录）。
+归档文件：
+许可：CC BY 4.0。
+归档 DOI（2026-10-25 于 Zenodo 发布）：版本 DOI [10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)；概念 DOI（全部版本，始终指向最新版）[10.5281/zenodo.23646835](https://doi.org/10.5281/zenodo.23646835)。
+说明：本版本为纯汇编，不构成任何命名行为（no nomenclatural act）。
+</content>
+  </entry>
+</feed>

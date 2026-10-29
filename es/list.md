@@ -34,6 +34,8 @@ Debajo siguen **Familia** → **Subfamilia** → **Género** → **Especie**; la
 
 <p class="search-hint">Se admite pinyin (p. ej. <code>baiyi</code>) y chino tradicional. Para buscar fuera del listado (blog, páginas de especies), véase la <a href="{{ site.base_url }}/es/search/">búsqueda en todo el sitio</a>.</p>
 
+<p class="search-hint search-hint-board">El cotejo con GBIF / Catalogue of Life / Blattodea Species File marca <strong>{{ site.data.name_issues.meta.counts.total }}</strong> filas que requieren decisión humana ({{ site.data.name_issues.meta.counts.by_group.conflict }} conflictos · {{ site.data.name_issues.meta.counts.by_group.match }} inciertas · {{ site.data.name_issues.meta.counts.by_group.gap }} vacíos): <a href="{{ site.base_url }}/es/list/name-issues/"><strong>discrepancias de nombres →</strong></a></p>
+
 {% include distribution-notes.html %}
 
 <h2 id="toc">Contenido</h2>

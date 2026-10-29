@@ -6,6 +6,7 @@
   z  中文名（种、亚种为中文正名）
   r  阶元：支系 / 科 / 亚科 / 属 / 种 / 亚种
   h  所属属（或类群自身）的锚点 id，用于回跳 /list/#<h>
+  f  所属科中文名（用于检索结果里显示"哪个科"；支系 / 科条目自身也带）
   s  次异名（仅种、亚种；以 " ; " 分隔；无则省略）
   p  物种页 slug（仅种、亚种），用于跳转 /species/<p>/
   py 中文名的拼音连写（无声调，仅小写字母），供拼音检索
@@ -184,6 +185,10 @@ def enrich(entry: dict, pinyin_fn, traditional_fn, cache: dict) -> dict:
 def build(species_fields: dict[str, dict[str, str]], species_synonyms: dict[str, list[str]]) -> list[dict]:
     entries: list[dict] = []
     genus_id = ""
+    clade_zh = ""
+    family_zh = ""
+    subfamily_zh = ""
+    genus_zh = ""
     current: dict[str, dict] = {}  # parent_slug -> [subspecies entries]
     for path, fm in sorted(species_fields.items()):
         if fm.get("rank") == "subspecies":
@@ -201,7 +206,7 @@ def build(species_fields: dict[str, dict[str, str]], species_synonyms: dict[str,
         heading = HEADING_RE.match(line)
         if heading and heading.group(1) == "2" and heading.group(2) not in SKIP_IDS:
             zh, latin = split_heading_title(heading.group(3))
-            entries.append({"l": latin, "z": zh, "r": RANK_BY_LEVEL[2], "h": heading.group(2)})
+            entries.append({"l": latin, "z": zh, "r": RANK_BY_LEVEL[2], "h": heading.group(2), "c": zh})
 
     for line in LIST_MD.read_text(encoding="utf-8").splitlines():
         heading = HEADING_RE.match(line)
@@ -210,9 +215,24 @@ def build(species_fields: dict[str, dict[str, str]], species_synonyms: dict[str,
             if anchor in SKIP_IDS or level == 2:
                 continue
             zh, latin = split_heading_title(title)
-            entries.append({"l": latin, "z": zh, "r": RANK_BY_LEVEL[level], "h": anchor})
-            if level == 5:
+            if level == 2:
+                # 支系：条目前面已按页面顺序统一加过，这里只更新「当前上下文」
+                clade_zh = zh
+                family_zh = subfamily_zh = genus_zh = ""
+                genus_id = ""
+                continue
+            entry_heading: dict = {"l": latin, "z": zh, "r": RANK_BY_LEVEL[level], "h": anchor}
+            if level == 3:
+                family_zh, subfamily_zh, genus_zh = zh, "", ""
+                genus_id = ""
+            elif level == 4:
+                subfamily_zh, genus_zh = zh, ""
+            elif level == 5:
+                genus_zh = zh
                 genus_id = anchor
+            if family_zh:
+                entry_heading["f"] = family_zh
+            entries.append(entry_heading)
             continue
 
         species = SPECIES_RE.match(line)
@@ -220,6 +240,8 @@ def build(species_fields: dict[str, dict[str, str]], species_synonyms: dict[str,
             continue
         latin, zh, slug = species.group("latin"), species.group("zh").strip(), species.group("slug")
         entry: dict = {"l": latin, "z": zh, "r": "种", "h": genus_id}
+        if family_zh:
+            entry["f"] = family_zh
         synonyms = expand_synonyms(species_synonyms.get(slug) or [])
         if synonyms:
             entry["s"] = " ; ".join(synonyms)
@@ -228,6 +250,8 @@ def build(species_fields: dict[str, dict[str, str]], species_synonyms: dict[str,
 
         for sub in sorted(current.get(slug, []), key=lambda e: e["l"]):
             sub_entry = dict(sub)
+            if family_zh and "f" not in sub_entry:
+                sub_entry["f"] = family_zh
             sub_synonyms = expand_synonyms(species_synonyms.get(sub["l"].lower().replace(" ", "-")) or [])
             if sub_synonyms:
                 sub_entry["s"] = " ; ".join(sub_synonyms)

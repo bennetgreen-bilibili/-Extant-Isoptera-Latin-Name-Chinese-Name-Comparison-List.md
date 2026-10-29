@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "source": "dataset/CHANGELOG.md",
+  "versions": 1
+ },
+ "versions": [
+  {
+   "version": "2026.10.17",
+   "date": "2026-10-17",
+   "title": "首个 DOI 归档版本 First archived release",
+   "items": [
+    {
+     "depth": 0,
+     "text": "数据内容与项目网站 2026.10.17 正式版一致：13 科、18 亚科、323 属、3008 种、63 亚种（3071 条记录）。",
+     "html": "数据内容与项目网站 2026.10.17 正式版一致：13 科、18 亚科、323 属、3008 种、63 亚种（3071 条记录）。"
+    },
+    {
+     "depth": 0,
+     "text": "归档文件：",
+     "html": "归档文件："
+    },
+    {
+     "depth": 1,
+     "text": "`data/isoptera-checklist.csv`：逐条分类单元表，22 列（含中文正名、模式产地、分布中英、次异名、页面链接）。",
+     "html": "<code>data/isoptera-checklist.csv</code>：逐条分类单元表，22 列（含中文正名、模式产地、分布中英、次异名、页面链接）。"
+    },
+    {
+     "depth": 1,
+     "text": "`data/isoptera-taxonomy.json`：完整分类树，含各级计数与页面链接。",
+     "html": "<code>data/isoptera-taxonomy.json</code>：完整分类树，含各级计数与页面链接。"
+    },
+    {
+     "depth": 1,
+     "text": "`data/isoptera-synonyms.csv`：次异名长表（含与模式产地的对应状态 localityAlignment）。",
+     "html": "<code>data/isoptera-synonyms.csv</code>：次异名长表（含与模式产地的对应状态 localityAlignment）。"
+    },
+    {
+     "depth": 1,
+     "text": "`data/isoptera-counts.csv`：科/亚科级计数。",
+     "html": "<code>data/isoptera-counts.csv</code>：科/亚科级计数。"
+    },
+    {
+     "depth": 1,
+     "text": "`data/isoptera-references.csv`：77 条参考文献（带 DOI 者随条目给出）。",
+     "html": "<code>data/isoptera-references.csv</code>：77 条参考文献（带 DOI 者随条目给出）。"
+    },
+    {
+     "depth": 1,
+     "text": "`datapackage.json`：Frictionless Data Package 描述（含字段字典）。",
+     "html": "<code>datapackage.json</code>：Frictionless Data Package 描述（含字段字典）。"
+    },
+    {
+     "depth": 1,
+     "text": "`datacite-metadata.xml`：DataCite Metadata Schema 4.6 记录。",
+     "html": "<code>datacite-metadata.xml</code>：DataCite Metadata Schema 4.6 记录。"
+    },
+    {
+     "depth": 0,
+     "text": "许可：CC BY 4.0。",
+     "html": "许可：CC BY 4.0。"
+    },
+    {
+     "depth": 0,
+     "text": "归档 DOI（2026-10-25 于 Zenodo 发布）：版本 DOI [10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)；概念 DOI（全部版本，始终指向最新版）[10.5281/zenodo.23646835](https://doi.org/10.5281/zenodo.23646835)。",
+     "html": "归档 DOI（2026-10-25 于 Zenodo 发布）：版本 DOI <a href=\"https://doi.org/10.5281/zenodo.23646836\">10.5281/zenodo.23646836</a>；概念 DOI（全部版本，始终指向最新版）<a href=\"https://doi.org/10.5281/zenodo.23646835\">10.5281/zenodo.23646835</a>。"
+    },
+    {
+     "depth": 0,
+     "text": "说明：本版本为纯汇编，不构成任何命名行为（no nomenclatural act）。",
+     "html": "说明：本版本为纯汇编，不构成任何命名行为（no nomenclatural act）。"
+    }
+   ]
+  }
+ ]
+}
