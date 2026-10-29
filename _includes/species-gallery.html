@@ -2,8 +2,9 @@
   开放图片图集（CC0 / CC BY / CC BY-SA）
   数据：_data/species_photos.json —— 由 .github/workflows/build_species_photos.py 生成，
   来源 iNaturalist（taxon_name 精确匹配）+ Wikimedia Commons（LicenseShortName 白名单）。
-  版式：像图片搜索结果页的缩略图网格（等高等宽、逐行对齐）+ 悬停署名信息；
-  PhotoSwipe（MIT，assets/vendor/photoswipe/）由 assets/gallery.js 懒加载接管，
+  版式：瀑布流（保留原图比例、多列高低错落），每张图下方常显图注
+  「作者 · 许可协议（链接） · 来源页（链接）」；点击由 PhotoSwipe（MIT，
+  assets/vendor/photoswipe/）开灯箱，assets/gallery.js 懒加载接管，
   脚本不可用时链接直接打开原图。没有授权照片的物种不输出任何内容。
 {%- endcomment -%}
 {%- assign gallery_photos = nil -%}
@@ -14,29 +15,21 @@
 <section class="species-gallery" aria-labelledby="species-gallery-title">
   <div class="gallery-head">
     <h2 class="gallery-title" id="species-gallery-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ gallery_photos.size }} 张</span></h2>
-    <p class="gallery-lead">开放许可照片，点击可放大浏览。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；许可协议见下方署名。<span class="fact-en" lang="en">Freely licensed photos, click to enlarge. Hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers — see the credits below.</span> <span class="fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Enlazadas desde iNaturalist / Wikimedia Commons; los derechos son de sus autores, véanse los créditos.</span></p>
+    <p class="gallery-lead">开放许可照片，点击可放大浏览。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。<span class="fact-en" lang="en">Freely licensed photos, click to enlarge. Hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers — author, licence and source page are shown under each photo.</span> <span class="fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Enlazadas desde iNaturalist / Wikimedia Commons; los derechos son de sus autores — bajo cada foto se indican autor, licencia y página original.</span></p>
   </div>
   <div class="gallery-grid">
     {%- for photo in gallery_photos -%}
-    <a class="gallery-item" href="{{ photo.src | escape }}" data-pswp-width="{{ photo.width }}" data-pswp-height="{{ photo.height }}" data-credit="{{ photo.credit | escape }}" data-license="{{ photo.license | escape }}" data-license-url="{{ photo.licenseUrl | escape }}" data-source-page="{{ photo.page | escape }}" target="_blank" rel="noopener noreferrer">
-      <img src="{{ photo.thumb | escape }}" alt="{{ page.latin }} {{ page.zh }}（{{ photo.credit | escape }}，{{ photo.license | escape }}）" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
-      <span class="gallery-item-shade" aria-hidden="true"></span>
-      <span class="gallery-item-meta" aria-hidden="true">
-        <span class="gallery-item-credit">{{ photo.credit | escape }}</span>
-        <span class="gallery-item-tags">
-          <span class="gallery-item-license">{{ photo.license | escape }}</span>
-          <span class="gallery-item-source">{% if photo.source == 'inaturalist' %}iNaturalist{% else %}Wikimedia Commons{% endif %}</span>
-        </span>
-      </span>
-      <span class="gallery-item-zoom" aria-hidden="true">⤢</span>
-    </a>
+    <figure class="gallery-card">
+      <a class="gallery-item" href="{{ photo.src | escape }}" data-pswp-width="{{ photo.width }}" data-pswp-height="{{ photo.height }}" data-credit="{{ photo.credit | escape }}" data-license="{{ photo.license | escape }}" data-license-url="{{ photo.licenseUrl | escape }}" data-source-page="{{ photo.page | escape }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ photo.thumb | escape }}" alt="{{ page.latin }} {{ page.zh }}（{{ photo.credit | escape }}，{{ photo.license | escape }}）" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
+        <span class="gallery-item-zoom" aria-hidden="true">⤢</span>
+      </a>
+      <figcaption class="gallery-caption">
+        <span class="gallery-caption-credit">{{ photo.credit | escape }}</span>
+        <span class="gallery-caption-meta"><a class="gallery-caption-license" href="{{ photo.licenseUrl | escape }}" rel="license noopener noreferrer" target="_blank">{{ photo.license | escape }}</a><a class="gallery-caption-source" href="{{ photo.page | escape }}" rel="noopener noreferrer" target="_blank">{% if photo.source == 'inaturalist' %}iNaturalist{% else %}Wikimedia Commons{% endif %}</a></span>
+      </figcaption>
+    </figure>
     {%- endfor -%}
   </div>
-  <p class="gallery-credits">
-    <span class="gallery-credits-label">署名 <span class="fact-en" lang="en">Credits</span> <span class="fact-es" lang="es">Créditos</span>：</span>
-    {%- for photo in gallery_photos -%}
-    <span class="gallery-credit">{{ photo.credit | escape }} · <a href="{{ photo.licenseUrl | escape }}" rel="license noopener noreferrer" target="_blank">{{ photo.license | escape }}</a> · <a href="{{ photo.page | escape }}" rel="noopener noreferrer" target="_blank">{% if photo.source == 'inaturalist' %}iNaturalist{% else %}Wikimedia Commons{% endif %}</a></span>
-    {%- endfor -%}
-  </p>
 </section>
 {%- endif -%}
