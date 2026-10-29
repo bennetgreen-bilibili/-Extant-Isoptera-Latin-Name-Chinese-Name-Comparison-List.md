@@ -14,6 +14,8 @@
   9. sitemap.txt 无重复、URL 以 base_url 开头、收录 /list/name-issues/ 三语页面
  10. _data/i18n.yml 三语 key 集合一致
  11. 命名差异看板产物自洽（条数、CSV 列数、公开副本与 _data 副本一致）
+ 12. 订阅源与版本记录齐备：feed.xml / feed.json / opensearch.xml / changelog.atom、
+     三语 /changelog/ 页面；sitemap.txt 收录版本记录页但不收录订阅源（只收 HTML 页面）
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
 
@@ -47,6 +49,25 @@ NAME_ISSUES_PUBLIC = ROOT / "data" / "name-issues.json"
 NAME_ISSUES_CSV = ROOT / "downloads" / "isoptera-name-issues.csv"
 OCCURRENCE = ROOT / "_data" / "occurrence_summary.json"
 I18N = ROOT / "_data" / "i18n.yml"
+CHANGELOG_DATA = ROOT / "_data" / "changelog.json"
+CHANGELOG_ATOM = ROOT / "changelog.atom"
+# 根目录订阅源页面：permalink 必须与线上路径一致，且用 sitemap: false 挡掉 sitemap.xml
+FEED_PAGES = {
+    "feed.xml": "/feed.xml",
+    "feed.json": "/feed.json",
+    "opensearch.xml": "/opensearch.xml",
+}
+# 三语版本记录页：permalink 必须与 sitemap.txt 收录的 URL 一致
+CHANGELOG_PAGES = {
+    "changelog.md": "/changelog/",
+    "en/changelog.md": "/en/changelog/",
+    "es/changelog.md": "/es/changelog/",
+}
+CHANGELOG_VERSIONS = tuple(sorted(CHANGELOG_PAGES.values()))
+# 订阅源 / Atom 是静态产物，不是 HTML 页面，不应出现在 sitemap.txt 里
+NON_HTML_ARTIFACTS = ("feed.xml", "feed.json", "opensearch.xml", "changelog.atom")
+CHANGELOG_VERSION_RE = re.compile(r"^\d{4}\.\d{2}\.\d{2}$")
+JSONFEED_VERSION = "https://jsonfeed.org/version/1.1"
 
 REQUIRED_FIELDS = ("latin", "zh", "rank", "family_zh", "family_latin", "family_id", "genus_id")
 HEADING_RE = re.compile(r'<h([2-5]) id="([^"]+)">')
@@ -330,6 +351,80 @@ def check_name_issues() -> None:
         err("downloads/isoptera-name-issues.csv", "表头列数为 %d，应为 17" % len(header.split(",")))
 
 
+def check_feeds_and_changelog(base_url: str) -> None:
+    """订阅源与版本记录：静态产物、Jekyll 页面、sitemap.txt 三者必须互相对得上。"""
+    # 1. 版本记录数据与 Atom feed（由 _tools/build_changelog.py 生成；是否最新由 validate.yml 的 --check 负责）
+    if not CHANGELOG_DATA.is_file():
+        err("_data/changelog.json", "文件不存在（运行 python _tools/build_changelog.py --write）")
+    else:
+        try:
+            data = json.loads(read(CHANGELOG_DATA))
+        except Exception as exc:
+            err("_data/changelog.json", "JSON 解析失败：" + str(exc)[:120])
+        else:
+            versions = data.get("versions") or []
+            if not versions:
+                err("_data/changelog.json", "versions 为空（应从 dataset/CHANGELOG.md 解析到至少一个版本）")
+            for item in versions:
+                version = str(item.get("version") or "")
+                if not CHANGELOG_VERSION_RE.match(version):
+                    err("_data/changelog.json", "版本号 %r 不是 YYYY.MM.DD 形式" % version)
+    if not CHANGELOG_ATOM.is_file():
+        err("changelog.atom", "文件不存在（运行 python _tools/build_changelog.py --write）")
+    else:
+        atom = read(CHANGELOG_ATOM)
+        if not atom.startswith("<?xml"):
+            err("changelog.atom", "文件不以 <?xml 开头")
+        for tag in ("<feed", "<entry"):
+            if tag not in atom:
+                err("changelog.atom", "缺少 " + tag + " 元素")
+
+    # 2. 根目录订阅源页面：必须留在根目录由 Jekyll 渲染，permalink 固定，且不进入 sitemap.xml
+    for name, permalink in FEED_PAGES.items():
+        path = ROOT / name
+        if not path.is_file():
+            err(name, "文件不存在")
+            continue
+        fields = parse_front_matter(path)
+        if not fields:
+            err(name, "front matter 缺失或未闭合")
+            continue
+        if fields.get("permalink") != permalink:
+            err(name, "permalink 应为 %s，实际为 %r" % (permalink, fields.get("permalink")))
+        if fields.get("sitemap") != "false":
+            err(name, "缺少 sitemap: false（订阅源不应被 sitemap.xml 收录）")
+    feed_json = ROOT / "feed.json"
+    if feed_json.is_file():
+        text = read(feed_json)
+        if JSONFEED_VERSION not in text:
+            err("feed.json", "缺少 JSON Feed 1.1 版本声明 " + JSONFEED_VERSION)
+        if '"items"' not in text:
+            err("feed.json", '缺少 "items" 数组')
+
+    # 3. sitemap.txt：收录三语版本记录页，但不收录订阅源 / Atom 等非 HTML 产物
+    if SITEMAP.is_file():
+        urls = read(SITEMAP).splitlines()
+        for rel in CHANGELOG_VERSIONS:
+            if base_url + rel not in urls:
+                err("sitemap.txt", "未收录版本记录页 " + rel)
+        listed = [name for name in NON_HTML_ARTIFACTS if any(u.endswith("/" + name) for u in urls)]
+        if listed:
+            err("sitemap.txt", "不应收录非 HTML 产物：" + "、".join(listed))
+
+    # 4. 三语版本记录页：permalink 必须与 sitemap.txt 里的 URL 一致
+    for name, permalink in CHANGELOG_PAGES.items():
+        path = ROOT / name
+        if not path.is_file():
+            err(name, "版本记录页不存在")
+            continue
+        fields = parse_front_matter(path)
+        if not fields:
+            err(name, "front matter 缺失或未闭合")
+            continue
+        if fields.get("permalink") != permalink:
+            err(name, "permalink 应为 %s，实际为 %r" % (permalink, fields.get("permalink")))
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="站点与数据一致性校验")
     parser.add_argument("--ci", action="store_true", help="输出 GitHub Actions 注解")
@@ -346,6 +441,7 @@ def main() -> int:
     species_sets, _ = check_lists()
     check_counts(fields_by_slug, species_sets)
     check_sitemap(base_url)
+    check_feeds_and_changelog(base_url)
     check_i18n()
     check_name_issues()
 
@@ -370,7 +466,7 @@ def main() -> int:
             print("  …… 另有 %d 条" % (len(errors) - 40))
         return 1
 
-    print("校验通过：%d 个物种页、三语名录同构、计数一致、sitemap / i18n / 命名差异产物自洽（提醒 %d 条）" % (len(fields_by_slug), len(warnings)))
+    print("校验通过：%d 个物种页、三语名录同构、计数一致、sitemap / i18n / 命名差异产物与订阅源 / 版本记录自洽（提醒 %d 条）" % (len(fields_by_slug), len(warnings)))
     return 0
 
 

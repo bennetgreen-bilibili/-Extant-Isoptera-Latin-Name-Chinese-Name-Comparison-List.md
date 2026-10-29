@@ -103,3 +103,19 @@
   {%- endif -%}
 </section>
 {%- endif -%}
+
+{%- comment -%}
+  纠错入口 / Report an error —— 始终显示，不依赖外部权威库是否匹配到该种。
+  链接预填 GitHub Issue Form（.github/ISSUE_TEMPLATE/name-correction.yml）：
+  title = 学名；body = 学名 / 中文名 / 页面 URL，字段值逐个 uri_escape，换行用字面量 %0A。
+  正式修改只动源文件（list.md + _species front matter + isoptera-data.json），Issue 仅作讨论与取证入口。
+{%- endcomment -%}
+{%- assign report_page_url = site.base_url | append: page.url -%}
+{%- comment -%} 每个字段单独 uri_escape，再拼字面量 %0A；不要对已转义的整串再转义（会变成 %25 双重编码） {%- endcomment -%}
+{%- assign report_title = page.latin | prepend: '纠错：' | uri_escape -%}
+{%- assign report_part1 = '学名（Scientific name）：' | append: page.latin | uri_escape -%}
+{%- assign report_part2 = '中文名（Chinese name）：' | append: page.zh | uri_escape -%}
+{%- assign report_part3 = '页面（Page）：' | append: report_page_url | uri_escape -%}
+{%- assign report_body = report_part1 | append: '%0A' | append: report_part2 | append: '%0A' | append: report_part3 -%}
+<p class="authority-report"><a href="https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/issues/new?template=name-correction.yml&amp;title={{ report_title }}&amp;body={{ report_body }}" rel="noopener" target="_blank">发现命名/分布问题？报告错误 →</a> <span class="fact-en" lang="en">Report an error</span> <span class="fact-es" lang="es">Informar de un error</span></p>
+<p class="authority-report-note">本站数据以原始文献为准，纠错请附证据链接。<span class="fact-en" lang="en">Records follow the original literature; please attach an evidence link.</span> <span class="fact-es" lang="es">Los registros siguen la literatura original; adjunte un enlace de evidencia.</span></p>

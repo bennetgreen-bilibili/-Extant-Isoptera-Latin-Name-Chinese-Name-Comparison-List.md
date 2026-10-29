@@ -69,6 +69,53 @@ layout: default
   </section>
   {%- endif -%}
   {%- endif -%}
+
+  {%- comment -%}
+    引用本种：GB/T 7714、BibTeX、RIS 三种引用字符串全部由本页字段与 site.dataset 拼出。
+    复制按钮由 assets/site.js 的 setupCitations() 绑定（.cite-block > pre.cite-text + button.cite-copy）。
+    注意：BibTeX 中紧邻 Liquid 输出标记的花括号一律写成 HTML 实体，避免 Jekyll 解析错误。
+  {%- endcomment -%}
+  {%- assign cite_slug = page.url | remove: '/species/' | remove: '/' | replace: '-', '_' -%}
+  {%- assign cite_zh_rank = '' -%}
+  {%- if page.rank == 'subspecies' -%}{%- assign cite_zh_rank = '（亚种 subspecies）' -%}{%- endif -%}
+  <details class="species-cite">
+    <summary class="species-cite-summary">引用本种 <span class="fact-en" lang="en">Cite this species</span> <span class="fact-es" lang="es">Citar esta especie</span></summary>
+    <div class="species-cite-body">
+      <p class="species-cite-lead">以下引用字符串按本页字段自动生成，引用时请保留 DOI 与版本号；点击「复制」即可粘贴到论文、报告或文献管理器。<span class="fact-en" lang="en">Citation strings are generated from this page — please keep the DOI and the version number.</span> <span class="fact-es" lang="es">Las citas se generan a partir de esta página; conserve el DOI y el número de versión.</span></p>
+
+      <h3 class="species-cite-h">GB/T 7714</h3>
+      <div class="cite-block">
+        <pre class="cite-text">班奈特格林. 现存等翅下目（白蚁）拉丁学名—中文正名对照名录：<i>{{ page.latin }}</i> {{ page.zh }}{{ cite_zh_rank }}[EB/OL]. {{ site.dataset.version }} 版. {{ site.base_url }}{{ page.url }}. DOI: {{ site.dataset.doi }}.</pre>
+        <button class="cite-copy" type="button" data-label="复制 GB/T 7714" data-copied-label="已复制">复制 GB/T 7714</button>
+      </div>
+
+      <h3 class="species-cite-h">BibTeX</h3>
+      <div class="cite-block">
+        <pre class="cite-text">@misc{isoptera_{{ cite_slug }}_2026,
+  author       = {班奈特格林},
+  title        = &#123;{{ page.latin }}{{ cite_zh_rank }}：{{ page.zh }} · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录&#125;,
+  year         = {2026},
+  version      = &#123;{{ site.dataset.version }}&#125;,
+  howpublished = &#123;{{ site.base_url }}{{ page.url }}&#125;,
+  note         = &#123;{{ page.family_latin }} {{ page.family_zh }}；{{ site.dataset.version }} 版；DOI: {{ site.dataset.doi }}&#125;,
+  doi          = &#123;{{ site.dataset.doi }}&#125;
+}</pre>
+        <button class="cite-copy" type="button" data-label="复制 BibTeX" data-copied-label="已复制">复制 BibTeX</button>
+      </div>
+
+      <h3 class="species-cite-h">RIS</h3>
+      <div class="cite-block">
+        <pre class="cite-text">TY  - ELEC
+TI  - {{ page.latin }}{{ cite_zh_rank }}：{{ page.zh }} · 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+AU  - 班奈特格林
+PY  - 2026
+UR  - {{ site.base_url }}{{ page.url }}
+DO  - {{ site.dataset.doi }}
+ER  - </pre>
+        <button class="cite-copy" type="button" data-label="复制 RIS" data-copied-label="已复制">复制 RIS</button>
+      </div>
+    </div>
+  </details>
 </article>
 
 {% include species-jsonld.html %}

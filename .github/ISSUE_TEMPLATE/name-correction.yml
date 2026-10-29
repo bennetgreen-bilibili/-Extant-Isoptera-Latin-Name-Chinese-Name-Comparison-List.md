@@ -1,0 +1,84 @@
+name: 命名与分布纠错
+description: 报告名录条目中的学名、中文正名、分布、异名或分类位置问题（请附证据链接）
+title: "[纠错] "
+labels: ["name-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 数据唯一来源
+
+        本站数据只有一个来源：仓库里的 `list.md`（三语名录：中文 / English / Español）、
+        `_species/*.md`（每个物种页的 front matter）与 `isoptera-data.json`。
+        本 Issue 只用于讨论与取证；正式修改由维护者改上述源文件并重跑生成脚本，**不会直接改渲染后的页面**。
+
+        **请务必附证据链接**（原始文献 DOI、GBIF、Catalogue of Life、Blattodea Species File 等）。
+        本站分类处理以原始文献为准，没有证据的条目可能无法处理。
+
+  - type: input
+    id: latin
+    attributes:
+      label: 学名
+      description: 出问题的拉丁学名（物种页标题里的斜体部分）
+      placeholder: "Amitermes californicus"
+    validations:
+      required: true
+
+  - type: input
+    id: chinese
+    attributes:
+      label: 中文名
+      description: 名录中的中文正名；不确定可留空
+      placeholder: "加州弓白蚁"
+
+  - type: dropdown
+    id: problem_type
+    attributes:
+      label: 问题类型
+      options:
+        - 命名
+        - 分布
+        - 次异名
+        - 拼写
+        - 分类位置
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_value
+    attributes:
+      label: 现在的值
+      description: 本站目前写成什么（可直接粘贴名录行或物种页上的文字）
+      placeholder: "现在写的是……"
+
+  - type: textarea
+    id: suggested_value
+    attributes:
+      label: 建议改为
+      description: 建议的正确值，并简述理由
+      placeholder: "建议改为……"
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据链接
+      description: 原始文献 DOI、GBIF / Catalogue of Life / Blattodea Species File 页面等，一行一个
+      placeholder: |
+        https://doi.org/10.5281/zenodo.0000000
+        https://www.gbif.org/species/0000000
+        https://www.checklistbank.org/dataset/3LR/taxon/0000000
+        https://cockroach.speciesfile.org/otus/0000000/overview
+
+  - type: input
+    id: page_url
+    attributes:
+      label: 页面 URL
+      description: 出问题的物种页或名录页地址；可从物种页底部的「报告错误」链接拿到
+      placeholder: "https://bennetgreen-bilibili.github.io/…/species/…/"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 备注
+      description: 其他补充说明（可选）

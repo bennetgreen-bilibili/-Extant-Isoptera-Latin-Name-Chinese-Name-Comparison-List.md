@@ -21,6 +21,7 @@ zh-CN:
   footer_note: 注明作者可免费引用 · CC BY 4.0 · 13 科 323 属 3008 种 63 亚种
   footer_doi: 数据集 DOI
   back_top: 回到顶部
+  skip_to_content: 跳到主要内容
   search_shortcut: 全文搜索（Ctrl/⌘+K）
   search_overlay_placeholder: 搜索名录、物种页、博客…（Esc 关闭）
   search_overlay_all: 查看全部结果
@@ -46,6 +47,7 @@ en:
   footer_note: Free to cite with attribution · CC BY 4.0 · 13 families, 323 genera, 3008 species, 63 subspecies
   footer_doi: Dataset DOI
   back_top: Back to top
+  skip_to_content: Skip to main content
   search_shortcut: Search (Ctrl/⌘+K)
   search_overlay_placeholder: Search checklist, species pages, blog… (Esc to close)
   search_overlay_all: See all results
@@ -71,6 +73,7 @@ es:
   footer_note: Uso libre citando al autor · CC BY 4.0 · 13 familias, 323 géneros, 3008 especies, 63 subespecies
   footer_doi: DOI del conjunto de datos
   back_top: Volver arriba
+  skip_to_content: Ir al contenido principal
   search_shortcut: Búsqueda (Ctrl/⌘+K)
   search_overlay_placeholder: Buscar en el listado, especies, blog… (Esc para cerrar)
   search_overlay_all: Ver todos los resultados

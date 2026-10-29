@@ -13,8 +13,9 @@
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
-| `en/*.md` | 英文版：与上表一一对应的 8 个页面（`en/index.md` … `en/search.md`，permalink `/en/…/`） |
-| `es/*.md` | 西班牙语版：与上表一一对应的 8 个页面（`es/index.md` … `es/search.md`，permalink `/es/…/`） |
+| `changelog.md` | 版本记录（`/changelog/`）：从 `dataset/CHANGELOG.md` 生成，逐版本列出变更；可订阅 `changelog.atom` |
+| `en/*.md` | 英文版：与上表一一对应的 10 个页面（`en/index.md` … `en/changelog.md`，permalink `/en/…/`） |
+| `es/*.md` | 西班牙语版：与上表一一对应的 10 个页面（`es/index.md` … `es/changelog.md`，permalink `/es/…/`） |
 
 > 分布图与文献不再是独立页面：**分布图**内嵌在名录页每个科、属标题下方（每个物种页另有该种自己的种级地图）；**77 条参考文献的 Crossref / DOI 增强视图**内嵌在名录页底部（`#references-doi`）。原来的 `/distribution/`、`/references/` 三语页面已移除。
 
@@ -156,9 +157,9 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
 - **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语 `list.md` 同构、名录内部锚点、物种页面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数 = 名录物种链接数）、sitemap 与 i18n、命名差异产物自洽，并把「中文重名 / 缺分布 / 标题层级跳级」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
-- `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取
-- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：27 个页面（中文 9 + 英文 9 + 西语 9）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取。**注意**：爬虫只读域名根 `https://bennetgreen-bilibili.github.io/robots.txt`，而本仓库的文件发布在 `…/-Extant-…-List.md/robots.txt` 这个子路径下，因此这份规则目前不生效（域名根 404 等价于全站允许，无副作用）；要让它生效需另建 `bennetgreen-bilibili.github.io` 用户站仓库。sitemap 请在 Search Console 直接提交
+- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 3102 条）
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3102 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 

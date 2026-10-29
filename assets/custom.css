@@ -354,6 +354,51 @@ body.search-overlay-open{overflow:hidden}
 .cl-item code{font-size:.9em}
 .cl-note{font-size:.84em;color:var(--muted);line-height:1.7;margin-top:1.6em;max-width:900px}
 
+/* ===== 物种页「引用本种」：GB/T 7714 / BibTeX / RIS（折叠区块，复制按钮由 site.js 的 setupCitations 接管） ===== */
+.species-cite{margin:1.8em 0 .6em;padding:10px 16px 6px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm)}
+.species-cite-summary{cursor:pointer;font-weight:700;font-size:.98em;padding:3px 0;line-height:1.6}
+.species-cite-summary:hover{color:var(--accent-strong)}
+.species-cite-summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+.species-cite-body{padding:.1em 0 .4em}
+.species-cite-lead{font-size:.86em;color:var(--muted);line-height:1.65;margin:.55em 0 .2em}
+.species-cite-h{margin:1.1em 0 .15em;font-size:.9em;font-weight:700;color:var(--accent-strong);letter-spacing:.3px}
+.species-cite .cite-block{margin:.45em 0 .9em}
+@media (max-width:640px){.species-cite{padding:8px 12px 4px}.species-cite .cite-block .cite-text{font-size:.8em}}
+
+/* ===== 无障碍：跳过导航直达正文（_layouts/default.html 首个元素 .skip-link 指向 #main-content） ===== */
+.skip-link{position:absolute;left:-9999px;top:0;z-index:1200;padding:9px 16px;background:#1f4d38;color:#fff;font-weight:600;text-decoration:none;border-radius:0 0 var(--radius-sm) 0;box-shadow:none}
+.skip-link:focus,.skip-link:focus-visible{left:0;top:0;background:#1f4d38;color:#fff;outline:3px solid #fff;outline-offset:-4px}
+
+/* ===== 打印样式：正文白底黑字、隐藏导航与交互控件、外链附 URL、避免分页截断 ===== */
+@page{margin:14mm}
+@media print{
+  :root{--paper:#fff;--card:#fff;--ink:#000;--muted:#333;--line:#9a9a9a;--line-soft:#c8c8c8;--accent:#000;--accent-strong:#000;--accent-soft:#efefef;--accent-softer:#f6f6f6;--earth:#000;--earth-soft:#f0f0f0;--shadow-sm:none;--shadow-md:none}
+  html{scroll-behavior:auto}
+  body{background:#fff!important;color:#000!important;font-size:11pt;line-height:1.5}
+  /* 站点外壳与纯交互控件 */
+  .hero,.site-nav,.site-footer,.back-top,.search-overlay,.skip-link,.hero-actions,.lang-switch-group,.nav-search-btn,.species-crumbs,.species-lang-nav,.species-siblings,.sibling-more,.species-gallery,.gallery-head,.gallery-grid,.pswp,.species-map,.distribution-map,.leaflet-container,.leaflet-control,.leaflet-control-container,.toc-side,#toc,.ni-controls,.ni-pager,.ni-download,.ni-noscript,.refs-toolbar,.refs-actions,.refs-copy,.cite-copy,.authority-board-link{display:none!important}
+  /* 版心：去掉固定宽度、卡片的底色与阴影 */
+  .content-wrap,.content{display:block!important;max-width:none!important;width:auto!important;margin:0!important;padding:0!important}
+  .species-page,.species-authority,.cl-version,.species-cite,.taxa-illustration{background:#fff!important;box-shadow:none!important;border-color:#9a9a9a!important}
+  .species-authority,.species-cite{padding:8px 0!important}
+  .species-cite-body{display:block}
+  .cite-block .cite-text{background:#fff!important;border:1px solid #9a9a9a!important;box-shadow:none!important;font-size:9pt;line-height:1.45;padding:8px 10px;white-space:pre-wrap;word-break:break-word}
+  /* 表格：边框可见、表头不吸顶、整行尽量不跨页 */
+  table{width:100%;border-collapse:collapse;font-size:10pt}
+  th,td{border:1px solid #9a9a9a!important;padding:3px 5px;vertical-align:top}
+  thead{display:table-header-group}
+  .ni-table thead th{position:static!important;background:#efefef!important;color:#000!important;white-space:normal}
+  .ni-table-wrap{overflow:visible!important;border:1px solid #9a9a9a}
+  tr,img,.taxa-illustration,.species-fact,.species-authority,.cl-version,.ni-table tr,.refs-item{page-break-inside:avoid;break-inside:avoid}
+  h1,h2,h3,h4,h5,h6{page-break-after:avoid;break-after:avoid;color:#000}
+  .is-list-page .content h3,.is-list-page .content h5{page-break-after:avoid;break-after:avoid;page-break-inside:avoid}
+  p{orphans:3;widows:3}
+  /* 外链在正文后附 URL；导航/图片/按钮类装饰链接不附 */
+  a{color:#000!important;text-decoration:underline}
+  a[href^="http"]::after{content:" (" attr(href) ")";font-size:.85em;color:#444;word-break:break-all}
+  .btn a::after,.btn::after,.nav-link::after,.site-nav a::after,.site-footer a::after,.hero a::after,.skip-link::after,.species-crumbs a::after,.species-lang-nav a::after,.species-siblings a::after,.sibling-list a::after,.sibling-more a::after,.toc-side a::after,.search-overlay a::after,.species-gallery a::after,.gallery-card a::after,.gallery-caption a::after,.authority-board-link a::after{content:""!important}
+}
+
 
 
 

@@ -16,6 +16,8 @@
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
 - [留言（Giscus 留言板）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/)
 - [物种页（每个物种/亚种一个独立页面，URL 形如 /species/<拉丁学名小写连字符>/，共 3008 种 + 63 亚种）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/mastotermes-darwiniensis/)
+- [命名差异与待核对（本站名与 GBIF / Catalogue of Life / Blattodea Species File 的对照中需要人工注意的条目：名称差异 / 匹配存疑 / 覆盖缺口，可按类型、来源、关键词筛选与分页；附 CSV 与 JSON）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/name-issues/)
+- [版本记录（版本号即发布日期，逐条列出每次归档的变更、归档文件与 DOI；可订阅 changelog.atom）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/changelog/)
 
 ## Key pages (English)
 - [Home (about + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
@@ -46,7 +48,10 @@
 - [木白蚁科 Kalotermitidae](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/kalotermitidae.json)
 - [新等翅类（除白蚁科）：沙白蚁科/鼻白蚁科/齿白蚁科/杆白蚁科/寡脉白蚁科/异白蚁科](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json)
 - [白蚁科 Termitidae 18 亚科（逐亚科文件，完整清单见「数据」页 /data/）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
-- [检索索引 search-index.json（供搜索框）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json)
+- [检索索引 search-index.json（供搜索框；含所属科字段）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json)
+- [命名差异清单 data/name-issues.json（三类问题、外部记录链接、匹配置信度）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/name-issues.json)
+- 程序化访问与订阅（固定路径，均在站点根下）：feed.xml（Atom）、feed.json（JSON Feed）、changelog.atom（版本记录 Atom）、opensearch.xml（浏览器搜索描述文档，检索地址 /search/?q=…）、sitemap.txt（全站 URL 清单）
+- 站内任意页面可按 Ctrl/⌘+K（或点导航里的搜索按钮）打开全局搜索浮层，索引由 Pagefind 在构建时生成、查询全部在浏览器本地完成。
 
 ## 归档数据集（带 DOI）
 - 全部 3071 条记录已打包为可引用归档数据集（逐条 CSV / 分类树 JSON / 次异名长表 / 参考文献表 + DataCite 4.6 元数据 + CC BY 4.0 许可），见「数据」页的「归档数据集与 DOI」一节：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/

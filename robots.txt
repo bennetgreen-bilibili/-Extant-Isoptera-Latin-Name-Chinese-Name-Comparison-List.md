@@ -1,4 +1,16 @@
 # robots.txt — 允许主流搜索引擎与 AI 爬虫抓取
+#
+# ⚠ 位置说明（2026-10 核实）
+#   本文件的发布地址是
+#     https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/robots.txt
+#   但爬虫只读域名根 https://bennetgreen-bilibili.github.io/robots.txt。
+#   本账号没有 <user>.github.io 用户站仓库，所以域名根那份是 404 —— 404 等价于
+#   「全部允许」，与下面规则的目的相同，因此没有实际副作用；只是本文件里两条
+#   Sitemap: 指令目前不会被执行。
+#   将来若新建 <user>.github.io 仓库，把本文件原样复制到那个仓库根目录即可生效；
+#   在那之前，sitemap 请在 Search Console 里直接提交：
+#     https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/sitemap.xml
+#
 User-agent: *
 Allow: /
 

@@ -42,6 +42,35 @@ defaults:
       layout: species
       lang: zh-CN
       author: 班奈特格林
+  # ---------------------------------------------------------------------------
+  # sitemap.xml 收录范围（与 sitemap.txt 对齐）
+  # GitHub Pages 的默认插件会把「没有 front matter 的 Markdown / HTML」也渲染成页面
+  # （jekyll-optional-front-matter），并把 README.md 当作目录索引页（jekyll-readme-index）；
+  # 这些工具页/说明页于是被 jekyll-sitemap 收进 sitemap.xml，而 build_sitemap_txt.py
+  # 只认带 front matter 的 .md，生成的 sitemap.txt 本来就不含它们。
+  # 这里统一打 sitemap: false，避免两种格式不一致、以及 GSC 里出现无意义条目。
+  # 注意：不能用 exclude —— 那会让页面本身 404（dataset/ 页面站内仍有链接）。
+  # ---------------------------------------------------------------------------
+  -
+    scope:
+      path: "dataset"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "assets/vendor/leaflet"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "googleb89ba243d635e504.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名 — 中文正名对照名录Latin Name — Chinese Name Comparison List.md"
+    values:
+      sitemap: false
 
 plugins:
   - jekyll-seo-tag

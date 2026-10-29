@@ -71,10 +71,14 @@ permalink: /data/
   <li><a href="{{ site.base_url }}/data/termitidae/termitinae.json">白蚁亚科 Termitinae</a> — 23 属 · 106 种</li>
 </ul>
 
-## 检索索引
+## 检索索引与程序化访问 <span class="fact-en">Search index &amp; programmatic access</span>
 
 <ul>
-  <li><a href="{{ site.base_url }}/search-index.json">检索索引 search-index.json</a>（供名录页搜索框使用）</li>
+  <li><a href="{{ site.base_url }}/search-index.json"><code>search-index.json</code></a> — 名录检索索引（拼音 / 繁体 / 次异名，含所属科字段；由 <code>build_search_index.py</code> 生成）</li>
+  <li><a href="{{ site.base_url }}/data/name-issues.json"><code>data/name-issues.json</code></a> — 命名差异与待核对清单（三类问题、外部记录链接、匹配置信度；同内容 <a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv">CSV</a>）</li>
+  <li><a href="{{ site.base_url }}/sitemap.txt">sitemap.txt</a> — 全站 URL 清单（每行一个绝对 URL）</li>
+  <li>订阅：<a href="{{ site.base_url }}/feed.xml">feed.xml（Atom）</a> · <a href="{{ site.base_url }}/feed.json">feed.json（JSON Feed）</a> · <a href="{{ site.base_url }}/changelog.atom">changelog.atom（版本记录）</a></li>
+  <li>搜索发现：<a href="{{ site.base_url }}/opensearch.xml">opensearch.xml</a>（浏览器可把本站加为搜索引擎；检索地址 <code>/search/?q=…</code>）</li>
 
 <h2 id="authority">外部权威库对照 <span class="fact-en">External authority cross-check</span></h2>
 

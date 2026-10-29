@@ -152,6 +152,15 @@
     }
   }
 
+  /* 打印时自动展开「引用本种」区块，避免 <details> 折叠内容打印不出来 */
+  function openCiteDetailsForPrint() {
+    var details = document.querySelectorAll('details.species-cite');
+    for (var i = 0; i < details.length; i++) details[i].open = true;
+  }
+
   function ready(fn) { if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
-  ready(function () { setupToc(); italicizeTaxa(); setupBackTop(); setupCitations(); });
+  ready(function () {
+    setupToc(); italicizeTaxa(); setupBackTop(); setupCitations();
+    window.addEventListener('beforeprint', openCiteDetailsForPrint);
+  });
 })();

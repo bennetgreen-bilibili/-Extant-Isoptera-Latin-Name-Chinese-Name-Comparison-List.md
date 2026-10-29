@@ -1,0 +1,36 @@
+name: 数据使用提问
+description: 询问名录数据的来源、字段含义、引用方式、许可或使用范围
+title: "[数据问题] "
+labels: ["data-question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 提问前先看一眼
+
+        - 数据页与字段说明：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/>
+        - 数据集 DOI、版本与「下载」入口见页脚导航
+        - 数据以 **CC BY 4.0** 发布（注明作者即可自由使用，含商用与机器学习训练）
+        - 站内插图各自遵循原始许可（部分含 NC 非商业限制），引用前请核对图片署名与许可
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 问题描述
+      description: 想了解什么？涉及具体条目时请写清学名或页面 URL
+      placeholder: "例如：某字段的含义 / 某条记录的来源文献 / 能否用于某类产品……"
+    validations:
+      required: true
+
+  - type: input
+    id: page_url
+    attributes:
+      label: 涉及页面 URL
+      description: 相关的物种页 / 名录页 / 数据页地址（可选）
+      placeholder: "https://bennetgreen-bilibili.github.io/…"
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+      description: 希望得到怎样的答复或补充（可选）
