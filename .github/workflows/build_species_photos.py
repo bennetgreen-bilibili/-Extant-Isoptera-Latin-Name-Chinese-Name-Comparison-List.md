@@ -1,16 +1,24 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Collect openly licensed photos (CC0 / CC BY / CC BY-SA) for every taxon.
+"""Collect openly licensed photos (CC0 / CC BY / CC BY-SA / public domain).
 
 Sources
 -------
 iNaturalist        https://api.inaturalist.org/v1/observations
 Wikimedia Commons  https://commons.wikimedia.org/w/api.php
 
-Only CC0, CC BY x.y and CC BY-SA x.y are accepted.  NC / ND / public-domain /
-GFDL / unknown files are rejected on purpose: the checklist itself is CC BY 4.0
-and the gallery has to stay reusable under the same terms (see
-_tools/图片授权与署名说明.md).
+iNaturalist: CC0, CC BY x.y and CC BY-SA x.y are accepted (iNaturalist has no
+plain public-domain flag; CC0 is its public-domain option).
+Wikimedia Commons: the same CC licences plus public-domain files (LicenseShortName
+"Public domain" / "PD-…", e.g. PD-old-70, PD-USGov, PD-self).  NC / ND / GFDL /
+unknown files are still rejected: the checklist itself is CC BY 4.0 and the
+gallery has to stay reusable under the same terms.  Public domain is legally
+stricter-free than CC BY, but often lacks author metadata, so those entries keep
+whatever the file page states and fall back to "author not stated" instead of
+inventing an attribution (see _tools/图片授权与署名说明.md).
+
+LICENSE_POLICY_VERSION records which licence policy produced the payload; bump it
+when the allowlist changes so a stale cache can be spotted.
 
 Output
 ------
@@ -39,6 +47,9 @@ Usage
     python .github/workflows/build_species_photos.py --write --budget 3600
     python .github/workflows/build_species_photos.py --write --refresh --only inat
     python .github/workflows/build_species_photos.py --write --all-names _tmp/names.txt
+
+    # 循环补抓直到每个物种都有图（每轮 --budget 有界，可随时中断）
+    python .github/workflows/crawl_species_photos_loop.py --round-budget 900
 
 Exit codes: 0 ok, 1 validation failure / bad usage.
 """
@@ -71,6 +82,12 @@ INAT_API = "https://api.inaturalist.org/v1/observations"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 
 # --- licence policy -------------------------------------------------------
+# Bump LICENSE_POLICY_VERSION whenever the allow/deny rules below change: the
+# payload records it under meta.license_policy_version, so a cache produced under
+# an older policy stays recognisable and --check keeps the metadata in sync.
+LICENSE_POLICY_VERSION = 2
+LICENSE_POLICY = "CC0 / CC BY / CC BY-SA / Public domain (PD)"
+
 INAT_ALLOWED = ("cc0", "cc-by", "cc-by-sa")
 INAT_LABEL = {"cc0": "CC0", "cc-by": "CC BY", "cc-by-sa": "CC BY-SA"}
 INAT_LICENSE_URL = {
@@ -83,7 +100,19 @@ ALLOWED_LABELS = ("CC0", "CC BY", "CC BY-SA")
 COMMONS_CC0_RE = re.compile(r"^cc0(?:[ -]?1\.0)?$", re.I)
 COMMONS_CC_BY_RE = re.compile(
     r"^cc[\s-]+by(?:[\s-]*sa)?[\s-]+\d\.\d(?:\s+[a-z][a-z .]{0,14})?$", re.I)
+# Public domain: "Public domain", the bare code "pd" / "pdm" (License extmetadata)
+# and the Commons PD templates PD-old-70, PD-USGov, PD-self, PD-1996, … i.e. any
+# short name anchored at "pd-…".  NC/ND are rejected first by COMMONS_DENY_RE.
+COMMONS_PD_RE = re.compile(
+    r"^(?:public\s+domain|pd(?:m)?(?:[\s._\-–—].*)?|no\s+known\s+copyright"
+    r"(?:\s+restrictions?)?|no\s+restrictions?)$", re.I)
 COMMONS_DENY_RE = re.compile(r"\b(?:nc|nd|non-?commercial|no-?deriv\w*)\b", re.I)
+
+PD_LICENSE_LABEL = "Public domain"
+# The Public Domain Mark is a provenance statement rather than a licence, but it
+# is the only Creative Commons URL that applies to a PD file, so the gallery (and
+# validate()) can keep requiring a creativecommons.org link on every photo.
+PD_LICENSE_URL = "https://creativecommons.org/publicdomain/mark/1.0/"
 
 MAX_PHOTOS = 6
 INAT_PER_PAGE = 10
@@ -162,27 +191,38 @@ def strip_utm(url):
 
 
 def commons_license_ok(short_name):
-    """CC0 / CC BY x.y / CC BY-SA x.y only.  Everything else is refused."""
+    """CC0 / CC BY x.y / CC BY-SA x.y / public domain.  Everything else is refused."""
     name = re.sub(r"\s+", " ", (short_name or "").strip())
     if not name:
         return False
     if COMMONS_DENY_RE.search(name):
         return False
-    return bool(COMMONS_CC0_RE.match(name) or COMMONS_CC_BY_RE.match(name))
+    return bool(COMMONS_CC0_RE.match(name) or COMMONS_CC_BY_RE.match(name)
+                or COMMONS_PD_RE.match(name))
 
 
 def display_license(short_name):
     name = re.sub(r"\s+", " ", (short_name or "").strip())
     if COMMONS_CC0_RE.match(name):
         return "CC0"
+    if COMMONS_PD_RE.match(name):
+        return PD_LICENSE_LABEL
     return name
 
 
+def is_public_domain(label):
+    """True for the display label "Public domain" and for raw PD short names."""
+    name = re.sub(r"\s+", " ", (label or "").strip())
+    return name.lower() == PD_LICENSE_LABEL.lower() or bool(COMMONS_PD_RE.match(name))
+
+
 def default_license_url(label):
-    """Best-effort deed URL for a Commons licence short name."""
+    """Best-effort deed URL for a Commons licence short name / display label."""
     low = (label or "").strip().lower()
     if low in ("cc0", "cc0 1.0"):
         return INAT_LICENSE_URL["cc0"]
+    if is_public_domain(label):
+        return PD_LICENSE_URL
     match = re.match(r"^cc[\s-]+by([\s-]*sa)?[\s-]+(\d[\.]\d)", low)
     if match:
         kind = "by-sa" if match.group(1) else "by"
@@ -295,8 +335,10 @@ def fetch_inaturalist(client, latin):
     the same specimen - then top up to MAX_PHOTOS from the remaining candidates.
     """
     data = client.get_json(inat_query(latin))
-    if data is None:
-        return None
+    if not isinstance(data, dict) or data.get("error"):
+        return None  # API error: treat as failure, never as "this taxon has no photos"
+    if "results" not in data:
+        return None  # malformed answer: retried on the next run instead of cached
     candidates = []
     for obs in data.get("results") or []:
         taxon = obs.get("taxon") or {}
@@ -392,11 +434,22 @@ def commons_name_match(latin, title, ext):
     return key.lower() in haystack
 
 
+def commons_license_name(ext):
+    """Licence short name with fallbacks: CC files sometimes only fill License/UsageTerms."""
+    for key in ("LicenseShortName", "License", "UsageTerms"):
+        value = strip_html(first_value(ext, key))
+        if value and commons_license_ok(value):
+            return value
+    return ""
+
+
 def fetch_commons(client, latin):
-    """One request per taxon; files outside CC0 / CC BY / CC BY-SA are dropped."""
+    """One request per taxon; files outside CC0 / CC BY / CC BY-SA / PD are dropped."""
     data = client.get_json(commons_query(latin))
-    if data is None:
-        return None
+    if not isinstance(data, dict) or data.get("error"):
+        return None  # API error: treat as failure, never as "this taxon has no photos"
+    # a search with zero hits legitimately omits "query" (only "batchcomplete" comes
+    # back), so a missing key means "no files", not "request failed"
     pages = (data.get("query") or {}).get("pages") or []
     picked = []
     for page in pages:
@@ -405,9 +458,13 @@ def fetch_commons(client, latin):
             continue  # PDFs / SVG logos / DjVu scans cannot go into PhotoSwipe
         info = (page.get("imageinfo") or [{}])[0]
         ext = info.get("extmetadata") or {}
-        short_name = strip_html(first_value(ext, "LicenseShortName"))
-        if not commons_license_ok(short_name):
+        short_name = commons_license_name(ext)
+        if not short_name:
             continue
+        label = display_license(short_name)
+        public_domain = is_public_domain(label)
+        if public_domain and first_value(ext, "Copyrighted").strip().lower() == "true":
+            continue  # contradictory metadata - refuse rather than guess
         if not commons_name_match(latin, title, ext):
             continue
         src = strip_utm(info.get("url") or "")
@@ -420,12 +477,14 @@ def fetch_commons(client, latin):
             continue
         license_url = https_url(strip_html(first_value(ext, "LicenseUrl")))
         if not license_url.startswith("https://creativecommons.org/"):
-            license_url = default_license_url(display_license(short_name))
+            license_url = default_license_url(label)
         if not license_url.startswith("https://creativecommons.org/"):
             continue  # cannot state the licence properly -> leave it out
-        artist = strip_html(first_value(ext, "Artist"))
+        artist = strip_html(first_value(ext, "Artist")) or strip_html(first_value(ext, "Credit"))
         if not artist:
-            artist = "Wikimedia Commons"
+            # PD files often have no author at all: say so instead of inventing one
+            artist = ("Wikimedia Commons (public domain; author not stated)"
+                      if public_domain else "Wikimedia Commons")
         if len(artist) > 160:
             artist = artist[:157].rstrip() + "..."
         picked.append({
@@ -435,7 +494,7 @@ def fetch_commons(client, latin):
             "width": width,
             "height": height,
             "credit": artist,
-            "license": display_license(short_name),
+            "license": label,
             "licenseUrl": license_url,
             "page": page_url,
         })
@@ -527,6 +586,36 @@ def ordered(photos):
     return [photo for _index, photo in indexed][:MAX_PHOTOS]
 
 
+def plan_pending(names, sources, species, no_photos, refresh=False):
+    """Map each taxon to the sources it still needs - the crawl plan.
+
+    A source that already contributed photos is never re-queried (so a rerun
+    cannot accidentally empty it) unless refresh=True.  A taxon whose gallery
+    already holds MAX_PHOTOS images is finished for every source too: the cap
+    would drop anything new, and without this an entry that is full of
+    iNaturalist photos would look "missing Commons" on every rerun and be
+    re-queried forever.
+    """
+    plan = {}
+    for name in names:
+        photos = species.get(name) or []
+        todo = []
+        for source in sources:
+            if refresh:
+                todo.append(source)
+                continue
+            if any(photo.get("source") == source for photo in photos):
+                continue
+            if len(photos) >= MAX_PHOTOS:
+                continue
+            if name in no_photos[source]:
+                continue
+            todo.append(source)
+        if todo:
+            plan[name] = todo
+    return plan
+
+
 def build_meta(species, searched, no_photos, generated):
     photos_inat = sum(1 for plist in species.values() for p in plist
                       if p["source"] == "inaturalist")
@@ -534,7 +623,8 @@ def build_meta(species, searched, no_photos, generated):
                          if p["source"] == "commons")
     return {
         "generated": generated,
-        "license_policy": "CC0 / CC BY / CC BY-SA only",
+        "license_policy": LICENSE_POLICY,
+        "license_policy_version": LICENSE_POLICY_VERSION,
         "sources": {
             "inaturalist": {
                 "name": "iNaturalist",
@@ -545,6 +635,8 @@ def build_meta(species, searched, no_photos, generated):
                           % (INAT_PER_PAGE, ",".join(INAT_ALLOWED))),
                 "licenses": ["CC0", "CC BY", "CC BY-SA"],
                 "accepted_license_codes": list(INAT_ALLOWED),
+                "public_domain": ("iNaturalist has no plain public-domain flag; "
+                                  "CC0 is its public-domain option"),
                 "taxon_match": "observation.taxon.name must equal the checklist name exactly",
             },
             "commons": {
@@ -554,8 +646,15 @@ def build_meta(species, searched, no_photos, generated):
                 "query": ('action=query&generator=search&gsrsearch="<latin>"&gsrnamespace=6'
                           "&gsrlimit=%d&prop=imageinfo&iiprop=url|extmetadata|size"
                           "&iiurlwidth=%d&format=json" % (COMMONS_LIMIT, COMMONS_THUMB_WIDTH)),
-                "licenses": ["CC0", "CC BY x.y", "CC BY-SA x.y"],
-                "accepted_license_names": "LicenseShortName matching CC0 / CC BY x.y / CC BY-SA x.y",
+                "licenses": ["CC0", "CC BY x.y", "CC BY-SA x.y",
+                             "Public domain (Public domain / pd / pdm / PD-…)"],
+                "accepted_license_names": ("LicenseShortName (falling back to License / "
+                                           "UsageTerms) matching CC0, CC BY x.y, CC BY-SA x.y, "
+                                           "Public domain or PD-…; NC/ND/GFDL/unknown refused"),
+                "public_domain_attribution": (
+                    "PD files are labelled 'Public domain' and link to the Public Domain Mark; "
+                    "when the file page has no Artist/Credit the caption says "
+                    "'author not stated' instead of inventing one"),
                 "taxon_match": "full-text file search; the licence whitelist is the gate",
             },
         },
@@ -624,8 +723,11 @@ def validate(payload, known_names=None):
     for key in ("generated", "license_policy", "sources", "counts"):
         if key not in meta:
             problems.append("meta.%s missing" % key)
-    if meta.get("license_policy") != "CC0 / CC BY / CC BY-SA only":
+    if meta.get("license_policy") != LICENSE_POLICY:
         problems.append("meta.license_policy unexpected: %r" % (meta.get("license_policy"),))
+    if meta.get("license_policy_version") != LICENSE_POLICY_VERSION:
+        problems.append("meta.license_policy_version=%r but the code expects %d - rerun --write"
+                        % (meta.get("license_policy_version"), LICENSE_POLICY_VERSION))
     counts = meta.get("counts") or {}
     total_inat = total_commons = 0
     for name, photos in species.items():
@@ -712,7 +814,8 @@ def validate(payload, known_names=None):
 # ------------------------------------------------------------------- main
 def main(argv=None):
     parser = argparse.ArgumentParser(
-        description="Collect CC0 / CC BY / CC BY-SA photos for the termite checklist.")
+        description=("Collect openly licensed photos (CC0 / CC BY / CC BY-SA / "
+                     "public domain) for the termite checklist."))
     parser.add_argument("--write", action="store_true",
                         help="write _data/species_photos.json")
     parser.add_argument("--check", action="store_true",
@@ -721,7 +824,8 @@ def main(argv=None):
     parser.add_argument("--budget", type=float, default=0.0,
                         help="wall-clock budget in seconds (0 = unlimited)")
     parser.add_argument("--refresh", action="store_true",
-                        help="ignore the cache and refetch every selected taxon")
+                        help="ignore the cache and refetch every selected taxon "
+                             "(pair with --only commons after the licence allowlist changes)")
     parser.add_argument("--only", choices=("inat", "commons"),
                         help="query a single source")
     parser.add_argument("--all-names", metavar="FILE",
@@ -776,31 +880,10 @@ def main(argv=None):
                  counts.get("species_searched", 0)))
         return 0
 
-    def done(name, source):
-        """True when this source needs no request for this taxon.
-
-        A taxon whose gallery already holds MAX_PHOTOS images is finished for
-        every source too: the cap would drop anything new, and without this an
-        entry that is full of iNaturalist photos would look "missing Commons"
-        on every rerun and be re-queried forever.
-        """
-        if args.refresh:
-            return False
-        photos = species.get(name) or []
-        if any(photo.get("source") == source for photo in photos):
-            return True
-        if len(photos) >= MAX_PHOTOS:
-            return True
-        return name in no_photos[source]
-
     # plan[name] = the sources this taxon still misses; a source that already has
     # photos is never re-queried (and therefore never accidentally emptied) unless
     # --refresh says so
-    plan = {}
-    for name in names:
-        todo = [source for source in sources if not done(name, source)]
-        if todo:
-            plan[name] = todo
+    plan = plan_pending(names, sources, species, no_photos, refresh=args.refresh)
     pending = list(plan)
     print("%d taxa in list, %d already cached, %d to query (%s)%s"
           % (len(names), len(names) - len(pending), len(pending), "+".join(sources),
@@ -919,6 +1002,7 @@ def main(argv=None):
     if stopped:
         print("stopped by --budget; rerun the same command to continue")
     print("resume: python .github/workflows/build_species_photos.py --write --budget 3600")
+    print("loop:   python .github/workflows/crawl_species_photos_loop.py --round-budget 900")
     return 0
 
 

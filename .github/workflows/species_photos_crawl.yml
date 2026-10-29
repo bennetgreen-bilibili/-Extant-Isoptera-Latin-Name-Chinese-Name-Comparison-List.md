@@ -1,0 +1,102 @@
+name: Crawl species photos
+
+# 线上循环爬取：每天定时 + 手动触发。
+# 每一轮由 --round-budget 限时，_data/species_photos.json 本身就是断点缓存，
+# 没抓完的物种下一次运行接着抓，不需要从头开始。
+# 照片许可白名单见 _tools/图片授权与署名说明.md（CC0 / CC BY / CC BY-SA / 公有领域）。
+
+on:
+  workflow_dispatch:
+    inputs:
+      rounds:
+        description: "最多跑几轮（0 = 一直跑到没有待抓物种）"
+        required: false
+        default: "2"
+      round-budget:
+        description: "每轮时间预算（秒）"
+        required: false
+        default: "1200"
+      only:
+        description: "只抓一个来源：inat / commons（留空 = 两个都抓）"
+        required: false
+        default: ""
+      rescan-licenses:
+        description: "忽略缓存重扫许可（新增/放宽许可后跑一次；commons 全量约 20 分钟）"
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    # 每天 03:17 UTC（北京时间 11:17）自动补抓一轮
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: species-photos-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl (resumable loop)
+        continue-on-error: true
+        env:
+          ROUNDS: ${{ github.event.inputs.rounds || '2' }}
+          ROUND_BUDGET: ${{ github.event.inputs['round-budget'] || '1200' }}
+          ONLY: ${{ github.event.inputs.only || '' }}
+          RESCAN: ${{ github.event.inputs['rescan-licenses'] || 'false' }}
+        run: |
+          set -u
+          args=(--workers 4)
+          if [ -n "${ONLY}" ]; then args+=(--only "${ONLY}"); fi
+          if [ "${RESCAN}" = "true" ]; then
+            echo "::notice::rescanning the licence allowlist (ignoring the cache)"
+            python .github/workflows/build_species_photos.py --write --refresh "${args[@]}"
+          else
+            python .github/workflows/crawl_species_photos_loop.py \
+              --round-budget "${ROUND_BUDGET}" --max-rounds "${ROUNDS}" "${args[@]}"
+          fi
+
+      - name: Validate the cache
+        run: python .github/workflows/build_species_photos.py --check
+
+      - name: Commit the updated cache
+        id: commit
+        if: always() && steps.validate.outcome == 'success'
+        run: |
+          if git diff --quiet -- _data/species_photos.json; then
+            echo "no photo changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/species_photos.json
+          git commit -m "data(photos): 自动循环补抓开放许可图片（含公有领域）"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3; do
+            if git push; then break; fi
+            echo "push rejected (attempt ${attempt}) - rebasing on origin"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          done
+
+      - name: Trigger the Pages build
+        # GITHUB_TOKEN 推送不会触发其它工作流，所以这里显式派发 pages.yml
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref "${GITHUB_REF_NAME}"

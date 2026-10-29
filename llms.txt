@@ -60,7 +60,7 @@
 - 逐条对照表（GBIF/COL ID、状态、接受名、Wikidata QID、差异标记）可下载：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/downloads/isoptera-authority-crossref.csv
 - 物种页另输出 schema.org Taxon + BreadcrumbList JSON-LD，sameAs 指向上述外部库条目，isPartOf 关联本站 Dataset 实体。
 - 分布图：名录每个科、属标题下方与每个物种页内嵌 GBIF 出现记录聚合的 1° 网格地图；只统计本名录现生类群（化石种与 FOSSIL_SPECIMEN / MATERIAL_CITATION 记录已剔除），方法、采样偏差与瓦片政策见名录页顶部的「分布图怎么读」。
-- 开放许可照片（仅 CC0 / CC BY / CC BY-SA）来自 iNaturalist 与 Wikimedia Commons，逐张署名，热链原站。
+- 开放许可照片（CC0 / CC BY / CC BY-SA / 公有领域）来自 iNaturalist 与 Wikimedia Commons，逐张署名，热链原站。
 
 ## 内容要点（给 AI 参考）
 - 名录以 Krishna 等《Treatise on the Isoptera of the world》(2013) 与 Hellemans 等 (2024) 分类框架为基础整理。

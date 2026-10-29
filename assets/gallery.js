@@ -30,7 +30,7 @@
 
     var credit = document.createElement('span');
     credit.className = 'pswp-gallery-caption-credit';
-    credit.textContent = item.credit || 'CC0 / CC BY / CC BY-SA';
+    credit.textContent = item.credit || 'CC0 / CC BY / CC BY-SA / Public domain';
     inner.appendChild(credit);
 
     if (item.license) {

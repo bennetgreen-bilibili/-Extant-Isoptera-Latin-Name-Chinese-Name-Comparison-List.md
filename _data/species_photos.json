@@ -1,7 +1,8 @@
 {
  "meta": {
-  "generated": "2026-10-29T12:06:06Z",
-  "license_policy": "CC0 / CC BY / CC BY-SA only",
+  "generated": "2026-10-29T12:44:50Z",
+  "license_policy": "CC0 / CC BY / CC BY-SA / Public domain (PD)",
+  "license_policy_version": 2,
   "sources": {
    "inaturalist": {
     "name": "iNaturalist",
@@ -18,6 +19,7 @@
      "cc-by",
      "cc-by-sa"
     ],
+    "public_domain": "iNaturalist has no plain public-domain flag; CC0 is its public-domain option",
     "taxon_match": "observation.taxon.name must equal the checklist name exactly"
    },
    "commons": {
@@ -28,9 +30,11 @@
     "licenses": [
      "CC0",
      "CC BY x.y",
-     "CC BY-SA x.y"
+     "CC BY-SA x.y",
+     "Public domain (Public domain / pd / pdm / PD-…)"
     ],
-    "accepted_license_names": "LicenseShortName matching CC0 / CC BY x.y / CC BY-SA x.y",
+    "accepted_license_names": "LicenseShortName (falling back to License / UsageTerms) matching CC0, CC BY x.y, CC BY-SA x.y, Public domain or PD-…; NC/ND/GFDL/unknown refused",
+    "public_domain_attribution": "PD files are labelled 'Public domain' and link to the Public Domain Mark; when the file page has no Artist/Credit the caption says 'author not stated' instead of inventing one",
     "taxon_match": "full-text file search; the licence whitelist is the gate"
    }
   },

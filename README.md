@@ -81,7 +81,7 @@
 |---|---|---|---|
 | 其它数据库外链 + 一致性提示 | `.github/workflows/build_authority_links.py` | `_data/authority_links.json` | `_includes/species-authority.html`、物种页、`/data/#authority` |
 | 世界名录对照（Blattodea Species File） | `.github/workflows/build_bsf_links.py` | `_data/bsf_links.json` + `_tools/bsf对照/工作表.csv` | 物种页「其他数据库」区块 |
-| 开放图片图集（CC0 / CC BY / CC BY-SA） | `.github/workflows/build_species_photos.py` | `_data/species_photos.json` | `_includes/species-gallery.html`、PhotoSwipe 灯箱 |
+| 开放图片图集（CC0 / CC BY / CC BY-SA / 公有领域） | `.github/workflows/build_species_photos.py` + `.github/workflows/crawl_species_photos_loop.py`（循环爬取，`.github/workflows/species_photos_crawl.yml` 每天自动跑） | `_data/species_photos.json` | `_includes/species-gallery.html`、PhotoSwipe 灯箱 |
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
@@ -110,9 +110,10 @@
 - 复核流程见 `_tools/bsf对照/操作说明.md`。
 
 ### 3. 开放图片图集（iNaturalist + Wikimedia Commons）
-- 只收 **CC0 / CC BY / CC BY-SA** 三种许可（拒绝 NC/ND/PD 等），逐张生成「作者 · 许可（链接） · 来源」署名；PhotoSwipe 5（MIT，本地托管）灯箱，无 JS 时可点开原图。
-- 图片热链回原站、不复制入库；没有自由许可照片的物种不显示该区块。
-- 细节与刷新方式见 `_tools/图片授权与署名说明.md`。
+- 只收 **CC0 / CC BY / CC BY-SA / 公有领域（Public domain、PD-… 模板）**，逐张生成「作者 · 许可（链接） · 来源」署名；瀑布流版式、图注常显，PhotoSwipe 5（MIT，本地托管）灯箱，无 JS 时可点开原图。
+- 图片热链回原站、不复制入库；没有符合许可的照片的物种不显示该区块。
+- **循环爬取**：`python .github/workflows/crawl_species_photos_loop.py --round-budget 900` 会一轮接一轮地补，每轮限时、轮间休息，连续几轮没进度就自动停；`_data/species_photos.json` 本身就是断点缓存，随时可以中断。GitHub Actions 工作流 `.github/workflows/species_photos_crawl.yml` 每天 03:17 UTC 自动跑一次，也可以手动触发（可选只抓某个源、或忽略缓存重扫许可）。
+- 公有领域文件常常没有作者信息，本站如实写「author not stated」而**不猜测作者**；细节与刷新方式见 `_tools/图片授权与署名说明.md`。
 
 ### 4. 分布图（GBIF occurrence → GeoJSON + Leaflet，内嵌在名录与物种页）
 - 预生成 **科级 13 个、属级每个属、种级每个种** 的 1° 网格 GeoJSON（`assets/geo/{family,genus,species}/*.geojson`），名录页每个科/属标题下方与每个物种页用**本地托管**的 Leaflet（BSD-2）渲染；地图只在滚动进视口时创建，不预取瓦片。
