@@ -206,5 +206,25 @@ permalink: /
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blog/"><strong>博客</strong></a> — 文章与更新说明（Word 文档自动转网页，随 _posts 文件夹自动更新）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
+  <li><a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异</strong></a> — 本站名与 GBIF / Catalogue of Life / Blattodea Species File 的对照中需要人工核对的条目，可按类型、来源、关键词筛选。</li>
+  <li><a href="{{ site.base_url }}/changelog/"><strong>版本记录</strong></a> — 每个版本（发布日期）的变更清单，可订阅 <a href="{{ site.base_url }}/changelog.atom">Atom</a>。</li>
 </ul>
 
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebSite",
+ "@id": "{{ site.base_url }}/#website",
+ "url": "{{ site.base_url }}/",
+ "name": {{ site.title_zh | jsonify }},
+ "alternateName": {{ site.title_en | jsonify }},
+ "inLanguage": ["zh-CN", "en", "es"],
+ "publisher": { "@type": "Person", "name": "班奈特格林" },
+ "potentialAction": {
+  "@type": "SearchAction",
+  "target": { "@type": "EntryPoint", "urlTemplate": "{{ site.base_url }}/search/?q={search_term_string}" },
+  "query-input": "required name=search_term_string"
+ }
+}
+</script>

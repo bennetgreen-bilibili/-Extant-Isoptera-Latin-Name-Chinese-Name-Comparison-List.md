@@ -1,0 +1,33 @@
+---
+permalink: /feed.json
+sitemap: false
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title_zh | jsonify }},
+  "home_page_url": "{{ site.base_url }}/",
+  "feed_url": "{{ site.base_url }}/feed.json",
+  "description": {{ site.description | strip_newlines | jsonify }},
+  "language": "zh-CN",
+  "authors": [ { "name": "班奈特格林 (Bennet Green)", "url": "{{ site.base_url }}/" } ],
+  "items": [
+{%- for post in site.posts limit:20 %}
+    {
+      "id": "{{ site.base_url }}{{ post.url }}",
+      "url": "{{ site.base_url }}{{ post.url }}",
+      "title": {{ post.title | jsonify }},
+      "content_text": {{ post.excerpt | strip_html | normalize_whitespace | jsonify }},
+      "date_published": "{{ post.date | date_to_xmlschema }}"
+    }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+{%- if site.posts.size > 0 %},
+    {
+      "id": "{{ site.base_url }}/changelog/",
+      "url": "{{ site.base_url }}/changelog/",
+      "title": "版本记录 Changelog ({{ site.dataset.version }})",
+      "content_text": "名录按发布日期升版本号（YYYY.MM.DD）；每次归档的变更见 /changelog/ 与 changelog.atom。",
+      "date_published": "2026-10-17T00:00:00Z"
+    }
+{%- endif %}
+  ]
+}

@@ -341,6 +341,20 @@ body.search-overlay-open{overflow:hidden}
 @media (max-width:640px){.search-overlay{padding:6vh 10px 10px}.search-overlay-panel{padding:13px}}
 @media print{.search-overlay{display:none!important}}
 
+/* ===== 版本记录 /changelog/ 与文章标题备行 ===== */
+.page-title-alt{display:block;font-size:.52em;font-weight:400;color:var(--muted);margin-top:.3em}
+.cl-lead{max-width:900px;color:var(--ink);line-height:1.75}
+.cl-version{margin:1.6em 0 0;padding:16px 18px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm)}
+.cl-title{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;margin:0 0 .6em;font-size:1.08em;border-bottom:1px solid var(--line-soft);padding-bottom:.4em}
+.cl-ver{font-family:var(--font-serif);font-variant-numeric:tabular-nums;color:var(--accent-strong);font-weight:700}
+.cl-name{font-weight:600}
+.cl-items{margin:0;padding-left:1.3em;line-height:1.75;font-size:.94em}
+.cl-item{margin:.28em 0}
+.cl-item.cl-sub{margin-left:1em;font-size:.95em;color:var(--muted)}
+.cl-item code{font-size:.9em}
+.cl-note{font-size:.84em;color:var(--muted);line-height:1.7;margin-top:1.6em;max-width:900px}
+
+
 
 
 

@@ -1,0 +1,17 @@
+---
+permalink: /opensearch.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Isoptera 名录</ShortName>
+  <LongName>{{ site.title_zh }}</LongName>
+  <Description>现存等翅下目（白蚁）拉丁学名—中文正名对照名录：全站全文检索（Pagefind）。Extant Isoptera (termites) Latin–Chinese name checklist full-text search.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Language>zh-CN</Language>
+  <Url type="text/html" method="get" template="{{ site.base_url }}/search/?q={searchTerms}"/>
+  <Url type="application/atom+xml" method="get" template="{{ site.base_url }}/feed.xml"/>
+  <Contact>{{ site.base_url }}/guestbook/</Contact>
+  <AdultContent>false</AdultContent>
+</OpenSearchDescription>
