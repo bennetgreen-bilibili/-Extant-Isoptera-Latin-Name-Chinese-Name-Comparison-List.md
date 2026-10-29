@@ -1,0 +1,29 @@
+# lychee 链接检查配置（.github/workflows/linkcheck.yml 使用；本地也可
+# `lychee --offline --include-fragments _site` 手动复现）
+#
+# 为什么排除这些域名（外链巡检每周跑一次，误报会淹没真正失效的链接）：
+#   - iNaturalist：观察记录页与图片 CDN 对批量抓取返回 429 / 反爬页面；
+#     图片本身由 build_species_photos.py --check 在构建阶段用已提交缓存离线校验。
+#   - Wikimedia 图床：upload.wikimedia.org / commons.wikimedia.org 对爬虫限流（403 / 429）。
+#   - doi.org：跳转目标多为出版社页面（Cloudflare 403 / 登录墙），失败不代表 DOI 失效；
+#     DOI 与归档由 dataset/metadata.json、Zenodo 记录保证，不靠链接巡检判断。
+#   - 本站 Pages 域名：站内链接由 linkcheck.yml 的 --offline 步骤校验，不必再发网络请求。
+#
+# 注意：命令行参数优先于本文件（linkcheck.yml 里显式写了 --max-retries / --accept）。
+
+max_retries = 2
+accept = [200, 206, 429]
+
+exclude = [
+  # iNaturalist 观察记录页、图片 CDN 与开放数据镜像
+  "^https?://([a-z0-9-]+\\.)*inaturalist\\.org/",
+  "^https?://static\\.inaturalist\\.org/",
+  "^https?://inaturalist-open-data\\.s3\\.amazonaws\\.com/",
+  # Wikimedia / Wikipedia（图床与条目页）
+  "^https?://([a-z0-9-]+\\.)*wikimedia\\.org/",
+  "^https?://([a-z0-9-]+\\.)*wikipedia\\.org/",
+  # doi.org 跳转（出版社反爬导致误报，见文件头说明）
+  "^https?://(dx\\.)?doi\\.org/",
+  # 本站 Pages 域名（站内链接由 --offline 步骤负责）
+  "^https?://bennetgreen-bilibili\\.github\\.io/",
+]

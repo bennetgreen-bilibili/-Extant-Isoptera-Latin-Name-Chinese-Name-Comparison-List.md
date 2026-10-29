@@ -1,0 +1,82 @@
+name: Accessibility check (axe-core)
+
+# 每周 + PR 的无障碍巡检：构建站点后用 axe-core 扫首页 / 名录页 / 一个物种页 / 搜索页。
+# 构建方式与 pages.yml 一致（configure-pages + jekyll-build-pages），
+# 然后本地起 python -m http.server，再用 npx 跑 @axe-core/cli（真实浏览器 + axe 规则）。
+#
+# 先 continue-on-error: true 观察一周基线（不阻断合并）：
+# 已知 list.md 的标题层级 h3→h5（无亚科的科直接进属）会触发 heading-order；
+# 等基线清理完，再把 axe 步骤的 continue-on-error 去掉。
+# （现在直接阻断会让所有 PR 立刻变红，看不到新增问题。）
+
+on:
+  pull_request:
+  schedule:
+    # 每周一 04:47 UTC（与 linkcheck.yml 的 04:17 错开）
+    - cron: "47 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  # configure-pages / jekyll-build-pages 读取 Pages 配置需要 pages 读权限；
+  # 本工作流不部署，所以不给 pages: write / id-token: write。
+  pages: read
+
+concurrency:
+  group: a11y-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  axe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # @axe-core/cli 用 selenium + chromedriver 跑真实浏览器；ubuntu-latest 自带 Chrome
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      # 本地静态服务：后面所有 axe 请求都打到 127.0.0.1:8000。
+      # 起不来就让 job 红（这是流程坏了，不是无障碍问题）；nohup 保证进程跨步骤存活。
+      - name: Serve built site
+        run: |
+          nohup python -m http.server 8000 --directory _site > /tmp/http.log 2>&1 &
+          echo $! > /tmp/http.pid
+          for i in $(seq 1 30); do
+            if python -c "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/', timeout=2)" 2>/dev/null; then
+              echo "本地站点已就绪（pid $(cat /tmp/http.pid)）"
+              exit 0
+            fi
+            sleep 1
+          done
+          echo "::error::python -m http.server 未能启动"
+          cat /tmp/http.log
+          exit 1
+
+      # --exit：有 violation 时返回非 0（axe CLI 默认总是 0）；
+      # 配合 continue-on-error: true 先只做可见性观察，不阻断 PR。
+      - name: Run axe-core
+        continue-on-error: true
+        run: |
+          npx --yes @axe-core/cli --exit \
+            http://127.0.0.1:8000/ \
+            http://127.0.0.1:8000/list/ \
+            http://127.0.0.1:8000/species/mastotermes-darwiniensis/ \
+            http://127.0.0.1:8000/search/

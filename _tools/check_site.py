@@ -353,7 +353,7 @@ def check_name_issues() -> None:
 
 def check_feeds_and_changelog(base_url: str) -> None:
     """订阅源与版本记录：静态产物、Jekyll 页面、sitemap.txt 三者必须互相对得上。"""
-    # 1. 版本记录数据与 Atom feed（由 _tools/build_changelog.py 生成；是否最新由 validate.yml 的 --check 负责）
+    # 1. 版本记录数据与 Atom feed（由 _tools/build_changelog.py 生成；是否最新由 validate.yml 重新生成后比对 git status）
     if not CHANGELOG_DATA.is_file():
         err("_data/changelog.json", "文件不存在（运行 python _tools/build_changelog.py --write）")
     else:

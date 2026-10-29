@@ -40,6 +40,8 @@ jobs:
           python .github/workflows/build_sitemap_txt.py
           python .github/workflows/build_search_index.py --write --no-enrich
           python .github/workflows/build_dataset.py --write
+          # 版本记录数据（_data/changelog.json）与 changelog.atom：由 dataset/CHANGELOG.md 确定性生成
+          python _tools/build_changelog.py --write
           python .github/workflows/build_name_issues.py --write
 
       # 生成产物必须已提交：改了数据却忘了重跑脚本，这里立刻红

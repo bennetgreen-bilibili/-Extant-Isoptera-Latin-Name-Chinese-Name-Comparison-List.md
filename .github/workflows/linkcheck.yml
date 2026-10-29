@@ -1,0 +1,90 @@
+name: Link check (weekly)
+
+# 每周巡检：站内锚点 + 外链是否失效（定时每周一；也可手动 workflow_dispatch）。
+# 构建流程与 pages.yml 一致，然后用 lychee 分两步检查：
+#   1) --offline：只校验 _site 内的本地文件路径与 #fragment 锚点，不发网络请求；
+#   2) 在线外链：真实请求外部 URL；易限流 / 反爬的域名见根目录 lychee.toml。
+# 巡检失败时 job 直接变红（不吞错），并开一条 issue 提醒维护者。
+
+on:
+  schedule:
+    # 每周一 04:17 UTC（避开整点，减少 GitHub 调度拥堵）
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+  # configure-pages / jekyll-build-pages 读取 Pages 配置需要 pages 读权限；
+  # 本工作流不部署，所以不给 pages: write / id-token: write。
+  pages: read
+
+concurrency:
+  group: linkcheck
+  cancel-in-progress: true
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      # 站内链接与锚点：--offline 不访问网络，只校验 _site 内的文件路径 / #fragment。
+      # 排除 pagefind：构建时生成的检索 bundle（js / wasm / 分片），不是页面。
+      - name: Check internal links and anchors (offline)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --offline
+            --include-fragments
+            --no-progress
+            --exclude-path '**/pagefind/**'
+            _site
+
+      # 外链：真实请求；iNaturalist / Wikimedia 图床与 doi.org 跳转容易限流/反爬，
+      # 完整排除清单见根目录 lychee.toml（不排除的话每周会有大量误报）。
+      # 这里再排除 sitemap.txt：它是纯文本 URL 列表（3000+ 条站内页面），
+      # 会被 lychee 当作链接逐条请求，既慢又重复（站内链接已由 offline 步骤覆盖）。
+      - name: Check external links (online)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            _site
+            --max-retries 2
+            --accept 200,206,429
+            --no-progress
+            --exclude-path '**/pagefind/**'
+            --exclude-path '**/sitemap.txt'
+            --exclude '^https?://(inaturalist|static|upload|commons)\.'
+
+      # 失败时开一条 issue（同标题的 issue 已开着就跳过，避免每周刷屏）
+      - name: Report failure as an issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          TITLE="Weekly link check failed"
+          OPEN=$(gh issue list --state open --search "$TITLE in:title" --json number --jq 'length' || echo "1")
+          if [ "$OPEN" != "0" ]; then
+            echo "已存在未关闭的巡检 issue，跳过创建"
+            exit 0
+          fi
+          gh issue create --title "$TITLE" --body "链接巡检失败：$RUN_URL — 详见该次运行里的 lychee 报告（站内锚点 / 外链两步）。"

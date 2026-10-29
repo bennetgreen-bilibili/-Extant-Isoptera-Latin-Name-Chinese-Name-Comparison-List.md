@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -49,6 +49,12 @@ jobs:
       # 命名差异看板数据（/list/name-issues/）：从 GBIF / COL / BSF 缓存整理，确定性输出
       - name: Build name-issues dashboard data
         run: python .github/workflows/build_name_issues.py --write
+
+      # 版本记录（/changelog/ 三语 + changelog.atom）：_data/changelog.json 与 Atom feed
+      # 都由 dataset/CHANGELOG.md 生成，确定性输出（不含时间戳）；
+      # validate.yml 会重跑同一脚本并用 git status 断言产物已提交，所以这里漏跑会立刻红
+      - name: Build changelog data and Atom feed
+        run: python _tools/build_changelog.py --write
 
       # 拼音 / 繁体是可选增强：装不上时 build_search_index.py 会自动跳过，不阻断部署
       - name: Install search index libraries (pinyin / traditional Chinese)
@@ -88,7 +94,7 @@ jobs:
         run: python .github/workflows/build_authority_links.py --write --refresh --stale-days 30 --budget 120
 
       - name: Setup Pages
-        uses: actions/configure-pages@v6
+        uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
@@ -116,7 +122,7 @@ jobs:
           fi
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
 
@@ -129,7 +135,85 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4
+
+  # 部署后线上抽检：状态码 200 + 关键内容。任一失败让工作流变红
+  # （部署"成功"但页面缺失 / 错版 / 静态产物没上传时，这里会立刻发现）。
+  verify:
+    needs: deploy
+    if: needs.deploy.result == 'success'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      # 只跑标准库脚本，但显式装 Python 保证 python 命令存在（与其它 job 一致）
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify deployed URLs (status 200 and key content)
+        run: |
+          python - <<'PY'
+          import sys
+          import time
+          import urllib.error
+          import urllib.request
+
+          # 站点前缀用仓库固定的 base_url（_config.yml 里写死，不依赖 deploy 输出）
+          BASE = "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md"
+
+          # (路径, 必须出现的片段)；片段为 None 表示只校验状态码
+          CHECKS = [
+              ("/", None),
+              ("/list/", None),
+              ("/species/mastotermes-darwiniensis/", "Mastotermes darwiniensis"),
+              ("/search/", None),
+              ("/sitemap.xml", None),
+              ("/search-index.json", None),
+              ("/data/index.json", None),
+              ("/pagefind/pagefind.js", None),
+              ("/feed.xml", None),
+              ("/feed.json", None),
+              ("/opensearch.xml", None),
+              ("/changelog.atom", None),
+              ("/changelog/", "2026.10.17"),
+              ("/list/name-issues/", "ni-row"),
+          ]
+          UA = {"User-Agent": "isoptera-site-verify/1.0 (GitHub Actions deploy check)"}
+
+
+          def fetch(url, attempts=6, delay=15):
+              """CDN 传播有延迟：非 200 时重试，最后一次仍失败才报错。"""
+              last = ""
+              for i in range(attempts):
+                  try:
+                      req = urllib.request.Request(url, headers=UA)
+                      with urllib.request.urlopen(req, timeout=60) as resp:
+                          return resp.status, resp.read().decode("utf-8", "replace")
+                  except urllib.error.HTTPError as exc:
+                      last = "HTTP %s" % exc.code
+                  except Exception as exc:  # 网络抖动 / 超时
+                      last = "%s: %s" % (type(exc).__name__, exc)
+                  if i + 1 < attempts:
+                      time.sleep(delay)
+              raise SystemExit("error: 拉取失败 %s（%s）" % (url, last))
+
+
+          failed = []
+          for path, needle in CHECKS:
+              url = BASE + path
+              status, body = fetch(url)
+              ok = status == 200 and (needle is None or needle in body)
+              print(("OK   " if ok else "FAIL ") + str(status) + " " + url)
+              if not ok:
+                  failed.append(url)
+
+          if failed:
+              print("::error::%d 个线上 URL 未通过校验：%s" % (len(failed), " ".join(failed)))
+              sys.exit(1)
+          print("线上校验通过：%d 个 URL（状态码 200 + 关键内容）" % len(CHECKS))
+          PY
 
   indexnow:
     needs: deploy
@@ -137,12 +221,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 

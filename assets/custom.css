@@ -376,7 +376,7 @@ body.search-overlay-open{overflow:hidden}
   html{scroll-behavior:auto}
   body{background:#fff!important;color:#000!important;font-size:11pt;line-height:1.5}
   /* 站点外壳与纯交互控件 */
-  .hero,.site-nav,.site-footer,.back-top,.search-overlay,.skip-link,.hero-actions,.lang-switch-group,.nav-search-btn,.species-crumbs,.species-lang-nav,.species-siblings,.sibling-more,.species-gallery,.gallery-head,.gallery-grid,.pswp,.species-map,.distribution-map,.leaflet-container,.leaflet-control,.leaflet-control-container,.toc-side,#toc,.ni-controls,.ni-pager,.ni-download,.ni-noscript,.refs-toolbar,.refs-actions,.refs-copy,.cite-copy,.authority-board-link{display:none!important}
+  .hero,.site-nav,.site-footer,.back-top,.search-overlay,.skip-link,.hero-actions,.lang-switch-group,.nav-search-btn,.species-crumbs,.species-lang-nav,.species-siblings,.sibling-more,.species-gallery,.gallery-head,.gallery-grid,.pswp,.species-map,.distribution-map,.leaflet-container,.leaflet-control,.leaflet-control-container,.toc-side,#toc,.ni-controls,.ni-pager,.ni-download,.ni-noscript,.refs-toolbar,.refs-actions,.refs-copy,.cite-copy,.authority-board-link,.authority-report,.authority-report-note{display:none!important}
   /* 版心：去掉固定宽度、卡片的底色与阴影 */
   .content-wrap,.content{display:block!important;max-width:none!important;width:auto!important;margin:0!important;padding:0!important}
   .species-page,.species-authority,.cl-version,.species-cite,.taxa-illustration{background:#fff!important;box-shadow:none!important;border-color:#9a9a9a!important}
@@ -398,6 +398,14 @@ body.search-overlay-open{overflow:hidden}
   a[href^="http"]::after{content:" (" attr(href) ")";font-size:.85em;color:#444;word-break:break-all}
   .btn a::after,.btn::after,.nav-link::after,.site-nav a::after,.site-footer a::after,.hero a::after,.skip-link::after,.species-crumbs a::after,.species-lang-nav a::after,.species-siblings a::after,.sibling-list a::after,.sibling-more a::after,.toc-side a::after,.search-overlay a::after,.species-gallery a::after,.gallery-card a::after,.gallery-caption a::after,.authority-board-link a::after{content:""!important}
 }
+
+/* ===== 物种页「报告错误」入口（_includes/species-authority.html 末尾，始终显示） ===== */
+.authority-report{margin:1.1em 0 0;font-size:.92em}
+.authority-report a{color:var(--accent-strong);font-weight:600}
+.authority-report a:hover{text-decoration:underline}
+.authority-report-note{font-size:.82em;color:var(--muted);margin:.35em 0 0;line-height:1.65}
+/* 打印时随上面的隐藏清单一起隐藏（放在同一 @media print 块里，别另起一个块） */
+
 
 
 

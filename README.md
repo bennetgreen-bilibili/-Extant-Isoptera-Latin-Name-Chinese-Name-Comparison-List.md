@@ -50,11 +50,11 @@
 
 ## 站内检索与开源组件
 
-站点用到两个开源检索/统计组件，都不需要数据库或后端服务：
+站点用到的开源检索 / 统计 / 分发组件都不需要数据库或后端服务：
 
 ### 1. 名录检索：拼音 + 繁体（`.github/workflows/build_search_index.py` + `assets/search.js`）
 - 索引 `search-index.json` 由脚本从 `list.md`（类群标题与种/亚种条目、页面顺序）与 `_species/`（亚种中文名、次异名）生成，**确定性输出**，可用 `--check` 校验。
-- 字段：`l` 拉丁名、`z` 中文名、`r` 阶元、`h` 锚点、`s` 次异名、`p` 物种页 slug，以及三个可选增强字段：`py`（拼音连写，如 `daerwenaobaiyi`）、`pi`（拼音首字母）、`zt`（繁体写法）。
+- 字段：`l` 拉丁名、`z` 中文名、`r` 阶元、`h` 锚点、`f` 所属科中文名（结果里显示「哪个科」）、`s` 次异名、`p` 物种页 slug，以及三个可选增强字段：`py`（拼音连写，如 `daerwenaobaiyi`）、`pi`（拼音首字母）、`zt`（繁体写法）。
 - 增强字段由 CI 安装 **pypinyin**（拼音）与 **OpenCC**（简→繁）后在构建时补上：`pip install pypinyin opencc-python-reimplemented`。本地未装依赖时脚本自动跳过增强字段照常生成基础索引（不报错），所以仓库内的 `search-index.json` 是基础版；部署版由 CI 重新生成。
 - 前端 `assets/search.js` 依次匹配：拉丁名 / 中文名 / 次异名 / 繁体 / 拼音全拼 / 拼音首字母；无结果时给出「在全站全文搜索中查找」的跳转入口。命令：`python .github/workflows/build_search_index.py [--write|--check|--no-enrich]`。
 
@@ -74,6 +74,16 @@
 ### 4. 引用与导出（`_includes/citation.html` + `assets/site.js`）
 - 三个数据页（`data.md` / `en/data.md` / `es/data.md`）通过 `{% include citation.html %}` 插入「引用与导出」区块：GB/T 7714 风格与 BibTeX 各一段，带「复制」按钮（`setupCitations()`，含 `document.execCommand` 回退）；另有 CITATION.cff、DataCite XML、数据集 README 的导入入口。
 - 文案与 DOI/版本号全部取自 `_config.yml` 的 `site.dataset`，铸造新 DOI 或改版本后无需改该文件。
+
+### 5. 全局搜索浮层：Ctrl/⌘+K（`assets/search-widget.js`）
+- 任何页面按 Ctrl/⌘+K（或点导航右侧搜索按钮）打开浮层，直接调 Pagefind 的 JS API（`/pagefind/pagefind.js`）异步搜索，Enter 打开第一条结果，Esc 关闭，另有「查看全部结果 → /search/?q=」。
+- 索引不存在（本地 `jekyll serve`）时自动回退：不报错，浮层里只保留跳转入口。
+- 浮层文案来自 `_data/i18n.yml` 的 `search_overlay_*` 三语 key，由 `_layouts/default.html` 以 data 属性传给脚本。
+- 物种页的 `<main>` 与 `<h1>` 带 `data-pagefind-filter`（科 / 阶元）与 `data-pagefind-meta`（拉丁名 / 中文名），索引里可据此过滤与展示。
+
+### 6. 搜索词回流（GoatCounter 事件，无 Cookie）
+- 名录检索框（`assets/search.js`）与全文搜索页（`assets/search-page.js`）在用户停手 1.5 秒、词长 ≥ 2 时上报一次 GoatCounter 事件（`path=/list?q=…` / `/search?q=…`, `event: true`），同词每次会话只报一次。
+- 用途：知道读者实际在找什么（缺哪些中文名 / 异名），指导数据补全；不需要新服务、不写 Cookie。
 
 ## 外部数据与增强视图（GBIF / Catalogue of Life / Wikidata / BSF / iNaturalist / Crossref）
 
@@ -152,6 +162,30 @@ python .github/workflows/build_references.py --write                    # Crossr
 python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 分布图
 ```
 - 各脚本都支持 `--check`（离线校验）与断点续跑；缓存文件变大是正常的（`_data/` 下最大的是权威库与图片缓存）。
+
+## 订阅与分发（Atom / JSON Feed / OpenSearch / 版本记录）
+- `feed.xml`（Atom，博客文章）与 `feed.json`（JSON Feed 1.1）由 Jekyll 页面模板直接输出（`permalink: /feed.xml`、`/feed.json`，`sitemap: false`），不依赖插件；`_layouts/default.html` 的 `<head>` 里有 `<link rel="alternate">` 自动发现。
+- `changelog.atom`：由 `_tools/build_changelog.py` 从 `dataset/CHANGELOG.md` 生成（确定性输出，`--check` 校验），逐版本列出归档变更；人读版在 `/changelog/`（三语，`_data/changelog.json` 驱动）。
+- `opensearch.xml`：OpenSearch 描述文档，浏览器可把本站加为搜索引擎（检索地址 `/search/?q=…`）。
+- `index.md`（三语）输出 `WebSite` + `SearchAction` JSON-LD（与已有 Dataset 实体并存），便于搜索引擎识别站内搜索框。
+
+## 物种级引用与打印
+- 物种页底部有「引用本种 / Cite this species」折叠块（`_layouts/species.html`），提供 GB/T 7714、BibTeX、RIS 三种字符串，一键复制；内容全部由 front matter + `site.dataset` 现场拼出，无需逐页生成。
+- `assets/custom.css` 有完整 `@media print`：隐藏导航 / 页脚 / 搜索浮层 / 目录侧栏 / 地图控件 / 灯箱 / 分页控件，白底黑字、表格边框、标题与卡片避免跨页截断、正文外链后附 URL；打印前 `assets/site.js` 会展开引用折叠块。
+
+## 可访性与贡献入口
+- 每页首个元素是 `.skip-link`（跳到 `#main-content`），样式在 `assets/custom.css`；地图容器已有 `role` / `aria-label`。
+- 每个物种页底部（`_includes/species-authority.html` 末尾，不依赖外部库是否匹配到该种）有「报告错误」入口，预填 GitHub Issue Form（`.github/ISSUE_TEMPLATE/name-correction.yml`）的标题与学名 / 中文名 / 页面 URL。
+- `.github/PULL_REQUEST_TEMPLATE.md`、`CONTRIBUTING.md` 明确三语同步、生成脚本顺序与提交前校验。
+
+## 校验与巡检（GitHub Actions）
+| 工作流 | 触发 | 内容 |
+|---|---|---|
+| `validate.yml` | PR + push main | 跑 `_tools/check_site.py` 结构检查，再重跑全部生成脚本并用 `git status --porcelain` 断言「已提交产物与脚本输出一致」 |
+| `pages.yml` 内的 `verify` job | deploy 后 | 线上抽查 14 个 URL（状态 200 + 关键内容，含 `/list/name-issues/`、`/changelog/`、`/feed.xml`、`/pagefind/pagefind.js`），失败即红 |
+| `linkcheck.yml` | 每周一 cron + 手动 | Jekyll 构建后 lychee 两步：`--offline` 校验站内链接与锚点；在线检查外链（排除 iNat / 维基图床 / doi.org，见 `lychee.toml`）；失败开 issue |
+| `a11y.yml` | PR + 每周一 cron | 构建后本地起服务，用 `@axe-core/cli` 扫首页 / 名录 / 物种页 / 搜索页；先 `continue-on-error` 观察 heading-order 基线 |
+| `species_photos_crawl.yml` | 每天 | 图片循环抓取（原有） |
 
 ## 其它
 - `_config.yml`：启用 jekyll-seo-tag 与 jekyll-sitemap
