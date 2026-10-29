@@ -18,7 +18,7 @@
   </div>
   <div class="gallery-grid">
     {%- for photo in gallery_photos -%}
-    <a class="gallery-item" href="{{ photo.src | escape }}" data-pswp-width="{{ photo.width }}" data-pswp-height="{{ photo.height }}" data-credit="{{ photo.credit | escape }}" data-license="{{ photo.license | escape }}" data-license-url="{{ photo.licenseUrl | escape }}" data-source-page="{{ photo.page | escape }}" target="_blank" rel="noopener noreferrer" title="{{ photo.credit | escape }} · {{ photo.license | escape }}">
+    <a class="gallery-item" href="{{ photo.src | escape }}" data-pswp-width="{{ photo.width }}" data-pswp-height="{{ photo.height }}" data-credit="{{ photo.credit | escape }}" data-license="{{ photo.license | escape }}" data-license-url="{{ photo.licenseUrl | escape }}" data-source-page="{{ photo.page | escape }}" target="_blank" rel="noopener noreferrer">
       <img src="{{ photo.thumb | escape }}" alt="{{ page.latin }} {{ page.zh }}（{{ photo.credit | escape }}，{{ photo.license | escape }}）" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
       <span class="gallery-item-shade" aria-hidden="true"></span>
       <span class="gallery-item-meta" aria-hidden="true">
