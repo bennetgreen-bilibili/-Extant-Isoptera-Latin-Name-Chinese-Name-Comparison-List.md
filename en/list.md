@@ -8533,11 +8533,3 @@ Economically, in a survey of pastures in Paraguay, the mounds of Termes sp. redu
     condiciones de campo. Rev Investig Estud UNA.
     2024;
     15(1):62-70. [doi: 10.57201/ieuna2413372](https://doi.org/10.57201/ieuna2413372)
-
----
-
-<h2 id="references-doi">References &amp; DOIs <span class="fact-zh" lang="zh-CN">参考文献与 DOI</span> <span class="fact-es" lang="es">Referencias y DOI</span></h2>
-
-<p>The enhanced view of the {{ site.data.references.meta.counts.total }} references listed above: every entry gets a <strong>DOI link</strong>, its <strong>Crossref record</strong>, the citation in <strong>GB/T 7714</strong>, <strong>APA 7</strong> and <strong>Vancouver</strong> style, and machine-readable <strong>BibTeX / RIS / CSL-JSON</strong> — all one click away. The numbered list above stays authoritative: numbering, count and wording are identical.</p>
-
-{% include references.html %}

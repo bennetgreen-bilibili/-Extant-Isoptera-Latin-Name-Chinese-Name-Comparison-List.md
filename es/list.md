@@ -8533,11 +8533,3 @@ Desde el punto de vista económico, en un estudio de pastizales de Paraguay, los
     condiciones de campo. Rev Investig Estud UNA.
     2024;
     15(1):62-70. [doi: 10.57201/ieuna2413372](https://doi.org/10.57201/ieuna2413372)
-
----
-
-<h2 id="references-doi">Referencias y DOI <span class="fact-zh" lang="zh-CN">参考文献与 DOI</span> <span class="fact-en" lang="en">References &amp; DOIs</span></h2>
-
-<p>Vista enriquecida de las {{ site.data.references.meta.counts.total }} referencias enumeradas arriba: cada entrada incluye un <strong>enlace DOI</strong>, su <strong>registro de Crossref</strong>, la cita en estilo <strong>GB/T 7714</strong>, <strong>APA 7</strong> y <strong>Vancouver</strong>, y formatos legibles por máquina <strong>BibTeX / RIS / CSL-JSON</strong>, todo a un clic. La lista numerada de arriba sigue siendo la versión autorizada: numeración, número y texto son idénticos.</p>
-
-{% include references.html %}

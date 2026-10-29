@@ -90,7 +90,7 @@ Caché actual (consultada el {{ A.meta.generated | slice: 0, 10 }}): de <strong>
   <li>Regla de enlace: GBIF solo se enlaza cuando <code>matchType=EXACT</code> (o FUZZY con confianza &ge; 95) y el rango es especie/subespecie.</li>
   <li>Catálogo mundial: Blattodea Species File (<a href="https://cockroach.speciesfile.org">cockroach.speciesfile.org</a>, que absorbió el antiguo Isoptera Species File){% if site.data.bsf_links %}{% assign B = site.data.bsf_links.meta.counts %} &mdash; <strong>{{ B.valid }}</strong> nombres válidos y <strong>{{ B.synonym }}</strong> sinónimos emparejados automáticamente; <strong>{{ B.ambiguous }}</strong> dudosos y <strong>{{ B.missing }}</strong> no encontrados.{% endif %}</li>
   <li>Datos estructurados: las páginas de especie emiten JSON-LD schema.org <code>Taxon</code> + <code>BreadcrumbList</code> con <code>sameAs</code> a estos registros y <code>isPartOf</code> al Dataset del sitio.</li>
-  <li><a href="{{ site.base_url }}/data/references.json"><code>data/references.json</code></a> &mdash; datos enriquecidos con Crossref de las 77 referencias (DOI, campos de Crossref, citas GB/T 7714 / APA / Vancouver, BibTeX / RIS / CSL-JSON); véase la <a href="{{ site.base_url }}/list/#references-doi">vista enriquecida de referencias</a> al final del listado.</li>
+  <li><a href="{{ site.base_url }}/data/references.json"><code>data/references.json</code></a> &mdash; datos enriquecidos con Crossref de las 77 referencias (DOI, campos de Crossref, citas GB/T 7714 / APA / Vancouver, BibTeX / RIS / CSL-JSON).</li>
 </ul>
 
 </ul>

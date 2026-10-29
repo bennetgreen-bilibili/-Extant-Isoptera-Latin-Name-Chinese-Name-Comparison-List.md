@@ -90,7 +90,7 @@ permalink: /data/
   <li>外链规则：GBIF 仅在 <code>matchType=EXACT</code>（或 FUZZY 且 confidence ≥ 95）且阶元为种/亚种时给出链接，避免把属级或低置信度结果当成本种；Catalogue of Life 链接指向 ChecklistBank 的 name usage 页。</li>
   <li>世界名录对照：Blattodea Species File（<a href="https://cockroach.speciesfile.org">cockroach.speciesfile.org</a>，已并入原 Isoptera Species File，由 TaxonWorks / TaxonPages 构建）{% if site.data.bsf_links %}{% assign B = site.data.bsf_links.meta.counts %}——已自动匹配 <strong>{{ B.valid }}</strong> 个有效名、<strong>{{ B.synonym }}</strong> 个异名，待人工核对或未收录 <strong>{{ B.ambiguous }}</strong> / <strong>{{ B.missing }}</strong> 个；物种页上自动匹配的条目标注「自动匹配」，人工核对后才标「已人工核对」，核对流程见仓库 <code>_tools/bsf对照/操作说明.md</code>{% endif %}</li>
   <li>结构化数据：物种页另有 schema.org <code>Taxon</code> + <code>BreadcrumbList</code> JSON-LD，<code>sameAs</code> 指向上述外部库条目，并通过 <code>isPartOf</code> 关联本站 Dataset 实体。</li>
-  <li><a href="{{ site.base_url }}/data/references.json"><code>data/references.json</code></a> — 77 条参考文献的 Crossref 增强数据（DOI、Crossref 书目字段、GB/T 7714 式 / APA / Vancouver 引用、BibTeX / RIS / CSL-JSON），配套的增强视图见名录页末 <a href="{{ site.base_url }}/list/#references-doi">参考文献与 DOI</a>。</li>
+  <li><a href="{{ site.base_url }}/data/references.json"><code>data/references.json</code></a> — 77 条参考文献的 Crossref 增强数据（DOI、Crossref 书目字段、GB/T 7714 式 / APA / Vancouver 引用、BibTeX / RIS / CSL-JSON）。</li>
 </ul>
 
 </ul>

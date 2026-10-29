@@ -9093,11 +9093,3 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
     condiciones de campo. Rev Investig Estud UNA.
     2024;
     15(1):62-70. [doi: 10.57201/ieuna2413372](https://doi.org/10.57201/ieuna2413372)
-
----
-
-<h2 id="references-doi">参考文献与 DOI <span class="fact-en" lang="en">References &amp; DOIs</span> <span class="fact-es" lang="es">Referencias y DOI</span></h2>
-
-<p>上列 {{ site.data.references.meta.counts.total }} 条参考文献的增强视图：逐条给出 <strong>DOI 链接</strong>、<strong>Crossref 书目记录</strong>，以及 <strong>GB/T 7714 式</strong>、<strong>APA 7</strong>、<strong>Vancouver</strong> 三种引用格式与 <strong>BibTeX / RIS / CSL-JSON</strong> 机器可读格式，均可一键复制或下载。权威条目仍以上面编号列表中的原文为准，两处的编号、条数与措辞完全一致。</p>
-
-{% include references.html %}
