@@ -318,7 +318,11 @@ a{color:var(--accent)}
 .nav-search-btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 .search-results .fam{font-size:.78em;color:var(--muted);border:1px solid var(--line-soft);border-radius:4px;padding:0 5px;white-space:nowrap}
 body.search-overlay-open{overflow:hidden}
+/* 浮层默认关闭：.search-overlay 的 display:flex 是作者样式，会盖掉浏览器 UA 样式表里
+   [hidden]{display:none}，若少了下面这条，浮层一进页面就常显、close() 把 hidden 设回 true
+   也关不掉（整页被遮罩挡住 = 网站无法使用）。 */
 .search-overlay{position:fixed;inset:0;z-index:1000;display:flex;align-items:flex-start;justify-content:center;padding:10vh 16px 16px}
+.search-overlay[hidden]{display:none!important}
 .search-overlay-backdrop{position:absolute;inset:0;background:rgba(10,20,15,.55);backdrop-filter:blur(2px)}
 .search-overlay-panel{position:relative;width:100%;max-width:620px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-md);padding:16px 18px;max-height:76vh;display:flex;flex-direction:column}
 .search-overlay-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}

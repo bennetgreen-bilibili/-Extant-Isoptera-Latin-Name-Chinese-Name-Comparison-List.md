@@ -16,6 +16,8 @@
  11. 命名差异看板产物自洽（条数、CSV 列数、公开副本与 _data 副本一致）
  12. 订阅源与版本记录齐备：feed.xml / feed.json / opensearch.xml / changelog.atom、
      三语 /changelog/ 页面；sitemap.txt 收录版本记录页但不收录订阅源（只收 HTML 页面）
+ 13. 全局搜索浮层（#search-overlay）初始 hidden 且样式里有 [hidden] 兜底，
+     不会一进页面就常显、关不掉把整站遮住
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
 
@@ -351,6 +353,39 @@ def check_name_issues() -> None:
         err("downloads/isoptera-name-issues.csv", "表头列数为 %d，应为 17" % len(header.split(",")))
 
 
+def check_search_overlay() -> None:
+    """全局搜索浮层：初始必须隐藏、且能正常关闭（否则整站被遮罩挡住、点 × 也没反应）。
+
+    浮层用 hidden 属性做开关（assets/search-widget.js 只切 hidden）。但
+    .search-overlay{display:flex} 是作者样式，会盖掉浏览器 UA 样式表里的
+    [hidden]{display:none}；一旦缺少 !important 的 [hidden] 兜底规则，浮层一进页面
+    就常显、close() 把 hidden 设回 true 也关不掉 —— 线上表现就是"弹窗跳在页面上无法
+    关闭、网站无法使用"。
+    """
+    css_path = ROOT / "assets" / "custom.css"
+    if not css_path.is_file():
+        err("assets/custom.css", "全局搜索浮层的样式文件缺失")
+        return
+    # 浮层标签可能放在 _layouts 或 _includes 里：扫全部模板，找到 #search-overlay 的标签
+    found = []
+    for folder in ("_layouts", "_includes"):
+        for path in sorted((ROOT / folder).glob("*.html")):
+            text = read(path)
+            for tag in re.findall(r'<div\b[^>]*\bid="search-overlay"[^>]*>', text):
+                found.append((path.relative_to(ROOT).as_posix(), tag))
+    if not found:
+        err("_layouts/default.html", '找不到全局搜索浮层 #search-overlay 的标签')
+    for where, tag in found:
+        if not re.search(r"\shidden\b", tag):
+            err(where, '浮层 #search-overlay 的初始状态必须是 hidden 属性（不能默认显示）')
+    css = read(css_path)
+    m = re.search(r"\.search-overlay\[hidden\]\s*\{([^}]*)\}", css)
+    if not m:
+        err("assets/custom.css", "缺少 .search-overlay[hidden] 兜底规则，浮层会一进页面就常显且关不掉")
+    elif not re.search(r"display\s*:\s*none\s*!important", m.group(1)):
+        err("assets/custom.css", ".search-overlay[hidden] 必须写 display:none!important（普通声明会被 .search-overlay 的 display:flex 按优先级压掉）")
+
+
 def check_feeds_and_changelog(base_url: str) -> None:
     """订阅源与版本记录：静态产物、Jekyll 页面、sitemap.txt 三者必须互相对得上。"""
     # 1. 版本记录数据与 Atom feed（由 _tools/build_changelog.py 生成；是否最新由 validate.yml 重新生成后比对 git status）
@@ -444,6 +479,7 @@ def main() -> int:
     check_feeds_and_changelog(base_url)
     check_i18n()
     check_name_issues()
+    check_search_overlay()
 
     if args.ci:
         for where, msg in errors:
