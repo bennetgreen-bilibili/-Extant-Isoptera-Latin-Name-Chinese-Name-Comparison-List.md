@@ -1,9 +1,9 @@
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
- "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）",
+ "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
- "version": "2026.10.17",
+ "version": "2026.10.30",
  "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3008 种 63 亚种，含模式种标记、分布信息与 77 篇参考文献。",
  "creator": {
   "@type": "Person",
@@ -12,7 +12,7 @@
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "inLanguage": "zh-CN",
  "datePublished": "2026-10-13",
- "dateModified": "2026-10-17",
+ "dateModified": "2026-10-30",
  "counts": {
   "clades": 6,
   "families": 13,

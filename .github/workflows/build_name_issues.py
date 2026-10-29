@@ -6,12 +6,14 @@
   _data/name_issues.json          页面用（site.data.name_issues）
   data/name-issues.json           公开副本（与 data/references.json 同一做法）
   downloads/isoptera-name-issues.csv  可下载对照表（UTF-8 BOM，Excel 直接打开不花屏）
-  downloads/isoptera-synonym-groups.csv  异名→接受名长表（同样 UTF-8 BOM）
+  downloads/isoptera-synonym-pairs.csv  异名→接受名长表（同样 UTF-8 BOM）
 
 数据来源（均为仓库内已提交的缓存，不访问网络）：
   _data/authority_links.json   build_authority_links.py → GBIF / Catalogue of Life / Wikidata 匹配结果与 flags
   _data/bsf_links.json         build_bsf_links.py      → Blattodea Species File 半自动对照
   _species/*.md                front matter（中文正名、科、阶元、页面 slug）
+  _data/name_issue_reviews.json 人工核对备注（多为外部库拼写变体）：只给看板条目加 verified/note，
+                               不改动站内分类数据；有备注却没匹配到条目时脚本报错
 
 三类问题（group）：
   conflict  名称差异：外部库把本站名当异名（给出接受名）
@@ -32,8 +34,9 @@
     组合差异不是异名：GBIF 常按属级并系处理、把本站名写成它认为的「接受名」，方向容易写反。
   * 方向：逐个外部库按物种级结论投票（上位阶元 / 模糊 / 未收录不投票）。真异名：没人说本站名是
     接受名 → 外部接受名为接收名。组合差异：多数库用本站名 → 本站名为接收名，否则方向待定。
-  * 可补录：只有「真异名 + 方向明确为外部接受名 + 至少两库一致 + 无相反票」才允许写进
-    _species 的 authority_synonym_*；「已补录」仍以物种页 front matter 是否有该字段为准。
+  * 可补录：只有「真异名 + 方向明确为外部接受名 + 至少两个分类数据库一致认定」才允许写进
+    _species 的 authority_synonym_*；GBIF Backbone 的相反结论只作「方向有分歧」提示。
+    「已补录」仍以物种页 front matter 是否有该字段为准。
   downloads/isoptera-synonym-pairs.csv   同一批「名称差异对」长表（含关系、方向、接收名、补录状态）
 
 外链基址读自 _config.yml 的 external.*：按 YAML 规则去掉行尾注释后再拼接，
@@ -63,6 +66,7 @@ CONFIG = ROOT / "_config.yml"
 SPECIES_DIR = ROOT / "_species"
 AUTHORITY = ROOT / "_data" / "authority_links.json"
 BSF = ROOT / "_data" / "bsf_links.json"
+REVIEWS = ROOT / "_data" / "name_issue_reviews.json"
 DATA_OUT = ROOT / "_data" / "name_issues.json"
 PUBLIC_OUT = ROOT / "data" / "name-issues.json"
 CSV_OUT = ROOT / "downloads" / "isoptera-name-issues.csv"
@@ -143,6 +147,64 @@ def load_species() -> dict:
                 if entry.strip()
             ],
         }
+    return out
+
+
+def load_reviews() -> dict:
+    """读人工核对备注：键为 (学名, 来源|None, 类型|None)，只影响看板条目的 verified/note。
+
+    这是唯一允许人给「匹配存疑」下结论的入口：只加「已人工核对」与备注，
+    不写回外部库缓存，也不改动 _species 的站内分类数据。
+    """
+    if not REVIEWS.is_file():
+        return {}
+    data = json.loads(REVIEWS.read_text(encoding="utf-8"))
+    reviews = {}
+    for entry in data.get("reviews") or []:
+        latin = (entry.get("latin") or "").strip()
+        if not latin:
+            sys.exit("error: " + REVIEWS.name + " 有缺少 latin 的条目")
+        key = (latin, entry.get("source") or None, entry.get("kind") or None)
+        reviews[key] = {
+            "verified": bool(entry.get("verified", True)),
+            "note": (entry.get("note") or "").strip(),
+        }
+    return reviews
+
+
+def apply_reviews(rows: list) -> list:
+    """把人工核对备注套到看板条目；有备注却没匹配到条目时直接报错（防呆）。"""
+    reviews = load_reviews()
+    if not reviews:
+        return rows
+    used = set()
+
+    def pick(row: dict):
+        for key in ((row["latin"], row["source"], row["kind"]),
+                    (row["latin"], row["source"], None),
+                    (row["latin"], None, None)):
+            if key in reviews:
+                return key
+        return None
+
+    out = []
+    for row in rows:
+        key = pick(row)
+        if key is None:
+            out.append(row)
+            continue
+        used.add(key)
+        review = reviews[key]
+        row = dict(row)
+        row["verified"] = review["verified"] or row["verified"]
+        if review["note"]:
+            row["note"] = review["note"]
+        out.append(row)
+    unused = [key for key in reviews if key not in used]
+    if unused:
+        sys.exit("error: " + REVIEWS.name + " 里以下备注没有匹配到看板条目：" +
+                 "；".join(" × ".join(part for part in key if part)
+                          for key in sorted(unused, key=str)))
     return out
 
 
@@ -344,8 +406,11 @@ def build_synonym_pairs(rows: list, species: dict, votes_by_latin: dict) -> list
             "disputed": disputed,
             "receiving": receiving,
             "votes": {"synonym": synonym_votes, "accepted": accepted_votes},
+            # 「可以确定」＝至少两个分类数据库（GBIF / CoL / BSF）一致认定是异名。
+            # GBIF Backbone 对这类滞后组合常仍标 ACCEPTED，只作为「方向有分歧」提示，不否决；
+            # 单一来源（例如只有 CoL）不算确定，留给人工核对。
             "recordable": (direction == "external" and relation == "synonym"
-                           and not accepted_votes and len(synonym_votes) >= 2),
+                           and len(synonym_votes) >= 2),
             "recorded": False,
         })
         pairs.append(pair)
@@ -487,6 +552,7 @@ def build() -> dict:
                 if rec.get("valid_otu") else rec.get("url"),
                 match=rec.get("match"), verified=verified, note=note))
 
+    rows = apply_reviews(rows)
     rows = [annotate_accepted(r, species) for r in rows]
     rows.sort(key=lambda r: (GROUP_ORDER[r["group"]], r["family_latin"].casefold(),
                              r["latin"].casefold(), SOURCE_ORDER[r["source"]], r["kind"]))
@@ -531,7 +597,8 @@ def build() -> dict:
             "scope": "本站每一物种/亚种与 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果中，"
                      "需要人工注意的条目；只提示，不改动站内分类数据。",
             "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links.json 与 "
-                      "_data/bsf_links.json 生成；匹配规则见 _tools/外部权威库与一致性核对.md。",
+                      "_data/bsf_links.json 生成；人工核对备注见 _data/name_issue_reviews.json；"
+                      "匹配规则见 _tools/外部权威库与一致性核对.md。",
             "cache_dates": {
                 "authority": (auth.get("meta") or {}).get("generated"),
                 "bsf": (bsf.get("meta") or {}).get("generated"),
@@ -544,6 +611,7 @@ def build() -> dict:
                 "species_total": len(species),
                 "species_with_issue": len({r["latin"] for r in rows}),
                 "bsf_verified": bsf_verified_total,
+                "manually_reviewed": sum(1 for r in rows if r["verified"]),
                 # 名称差异整理成「本站名 ↔ 外部库接受名」的对，并给出关系类型与接收名方向
                 "conflict_species": len({r["latin"] for r in rows if r["group"] == "conflict"}),
                 "conflict_pairs": len(pairs),

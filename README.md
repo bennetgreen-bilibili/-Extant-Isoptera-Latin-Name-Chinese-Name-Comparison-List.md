@@ -97,7 +97,7 @@
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
-| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 逐对关系/方向/补录） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-pairs.csv`、物种页「其他数据库」区块（incoming / outgoing） |
+| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 逐对关系/方向/补录） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json`；人工核对备注 `_data/name_issue_reviews.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-pairs.csv`、物种页「其他数据库」区块（incoming / outgoing） |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
@@ -151,7 +151,12 @@
   - **关系**：加词不同 = 「异名」4 对；同种异属（只是换了属）= 「组合差异」11 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
   - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 15 对里：外部名为接收名 3 对、本站名为接收名 6 对、方向待定 6 对（10 对存在库间分歧）。
   - 页末「名称差异逐对归并」表与 `downloads/isoptera-synonym-pairs.csv`（15 列）给出每对的关系、方向、各库判定与补录状态；物种页「其他数据库」区块按 incoming / outgoing 两侧列出（本种接收了哪些异名 / 外部库把本名放在哪个名字下）。数字随缓存刷新而变，页面与 `meta.counts` 为准。
-- **补录规则与现状（当前 1 对）**：只有「真异名 + 方向明确为外部库名为接收名 + 至少两库一致且无相反票」（`recordable`）才允许补录。目前补录 1 对：*Amitermes californicus* → *Amitermes wheeleri*（GBIF / CoL / BSF 一致视为异名）。落点是接受名 `_species/<slug>.md` front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`（来源代码 gbif/col/bsf，同一异名的多个来源用逗号），正文「次异名」一节因此在文献次异名之外多出一个**「依外部权威库补录的异名」**小节；`synonym_count` 保持原始文献口径不变，归档数据集 `dataset/` 仍是文献口径（补录只进站点页面与 `search-index.json`，检索按该异名能命中接受名）。看板数据里该对 `recorded: true`、`meta.counts.pairs_recorded = 1`，页面上标「已补录」；异名自己的物种页反向链接到接受名的「次异名」小节。***Coptotermes guizhouensis* → *C. formosanus*、*Nasutitermes dasyopsis* → *N. nigriceps* 因 GBIF 明确把它们标为 ACCEPTED（方向有分歧）已撤回补录**，只作提示。所有名字都保留独立记录；正式合并（删条目、改 3008 种计数）仍待人工判断。
+- **补录规则与现状（当前 3 对）**：只有「真异名 + 方向明确为外部库名为接收名 + 至少两个分类数据库一致认定」（`recordable`）才允许补录；GBIF Backbone 对滞后组合仍标 ACCEPTED 时只作「方向有分歧」提示，不否决。目前补录 3 对：
+  - *Amitermes californicus* → *Amitermes wheeleri*（GBIF / CoL / BSF 一致）
+  - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL / BSF 一致；GBIF 仍标接受名）
+  - *Nasutitermes dasyopsis* → *Nasutitermes nigriceps*（CoL / BSF 一致；GBIF 仍标接受名）
+  落点是接受名 `_species/<slug>.md` front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`（来源代码 gbif/col/bsf，同一异名的多个来源用逗号），正文「次异名」一节因此在文献次异名之外多出一个**「依外部权威库补录的异名」**小节；`synonym_count` 保持原始文献口径不变，归档数据集 `dataset/` 仍是文献口径（补录只进站点页面与 `search-index.json`，检索按该异名能命中接受名）。看板数据里这 3 对 `recorded: true`、`meta.counts.pairs_recorded = 3`，页面上标「已补录」；异名自己的物种页反向链接到接受名的「次异名」小节。*Pericapritermes metatus* → *P. appellans metata* 只有 CoL 一库给结论，仍留待人工核对。所有名字都保留独立记录；正式合并（删条目、改 3008 种计数）仍待人工判断。
+- **拼写变体与人工核对（当前 4 条）**：看板里的模糊匹配不一定是本站拼错——外部库可能少一个字母（*Cortaritermes silvestrii* → *silvestri*、*Niuginitermes variratae* → *variatae*、*Euhamitermes chhotanii* → *chhotannii*），或者 GBIF Backbone 尚未收录新名而把它模糊匹配到另一个有效种（*Incisitermes mariae* → *I. marianus*）。这 4 条经与原始描述逐条核对，本站名正确、**不改名**；核对结论写进 `_data/name_issue_reviews.json`（`verified` / `note`），`build_name_issues.py` 生成看板时套用（页面与 CSV 标「已人工核对」并给出依据），不改站内分类数据，也不写回外部库缓存。详见 `_tools/外部权威库与一致性核对.md` 第 4.3 节。
 - 交互：按类型与来源筛选、关键词检索（拉丁名 / 中文名 / 外部名 / 科名）、每页 50 条分页，状态写进 URL（`?group=&source=&q=&page=`）可分享；无 JS 时展示全部条目。
 - 产物：`_data/name_issues.json`（页面用；`synonym_pairs` = 逐对关系/方向/票数，`species_authority` = 物种页 incoming/outgoing 索引，`synonym_of_slug` = 已补录异名的反查）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）、`downloads/isoptera-synonym-pairs.csv`（15 列，一行一对）。
 - 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；脚本只整理缓存并**读取** `_species` 的 `authority_synonym_*` 判断哪些异名已补录，不改动任何站内分类数据（补录本身是直接编辑接受名的 front matter）。外链基址读 `_config.yml` 的 `external.*` 并去掉 YAML 行尾注释（否则「# + /<GBIF usageKey>」会被拼进 URL，页面上异名/接受名的链接会变成坏地址甚至破坏 HTML），`_tools/check_site.py` 也会校验产物里没有这类脏 URL。

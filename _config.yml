@@ -84,13 +84,13 @@ plugins:
 # 完整流程见 _tools/数据集DOI与归档发布指南.md。
 # ---------------------------------------------------------------------------
 dataset:
-  doi: "10.5281/zenodo.23646836"            # 版本 DOI（2026.10.17 版）
+  doi: "10.5281/zenodo.23646836"            # 版本 DOI（2026.10.17 已发布；2026.10.30 版待 Zenodo「New version」后回填）
   concept_doi: "10.5281/zenodo.23646835"    # 概念 DOI（全部版本）
-  version: "2026.10.17"
+  version: "2026.10.30"
   publisher: "Zenodo"
   license_name: "CC BY 4.0"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
-  archive_file: "downloads/isoptera-checklist-v2026.10.17.zip"  # 与 build_dataset.py 输出一致
+  archive_file: "downloads/isoptera-checklist-v2026.10.30.zip"  # 与 build_dataset.py 输出一致
 
 # ---------------------------------------------------------------------------
 # 外部权威库（物种页「其他数据库」外链 + JSON-LD sameAs）

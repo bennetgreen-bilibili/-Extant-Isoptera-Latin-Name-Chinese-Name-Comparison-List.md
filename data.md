@@ -5,7 +5,7 @@ description: 现存等翅下目（白蚁）名录的机器可读结构化数据�
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [白蚁, 等翅目, Isoptera, 结构化数据, JSON, 名录, 分类, Termitidae]
 permalink: /data/
 ---

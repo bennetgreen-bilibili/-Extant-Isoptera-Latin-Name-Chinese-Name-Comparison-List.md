@@ -2,27 +2,27 @@
 
 **Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names — archived dataset**
 
-**版本 Version**：2026.10.17　·　**记录 Records**：3071 条（3008 种 + 63 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
+**版本 Version**：2026.10.30　·　**记录 Records**：3071 条（3008 种 + 63 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
 
 <!-- DOI:BEGIN -->
 **DOI**：[10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)（概念 DOI / 全部版本：10.5281/zenodo.23646835）
 
 **引用格式 Citation（中文 / APA 7）**
 
-> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17 正式版）》(版本 2026.10.17) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
+> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）》(版本 2026.10.30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
 
 **Citation (English, APA 7)**
 
-> Bennet Green. (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17) (Version 2026.10.17) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
+> Bennet Green. (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.30) (Version 2026.10.30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
 
 **BibTeX**
 
 ```bibtex
 @misc{extantisopterachecklist2026,
   author    = {班奈特格林},
-  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.17)},
+  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.30)},
   year      = {2026},
-  version   = {2026.10.17},
+  version   = {2026.10.30},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.23646836},
   url       = {https://doi.org/10.5281/zenodo.23646836}
@@ -57,14 +57,14 @@
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
 | `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3071 | 1752731 | `5ec008e4e3ddcb62…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3071 | 1715138 | `678b84c688290151…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3071 | 1715138 | `80b1dfb381f8fb6d…` |
 | `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 696 | 169975 | `0919f5c774778a02…` |
 | `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2215 | `0a0f02ae7aa25329…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 
 统计 Counts：6 支系 · 13 科 · 18 亚科 · 323 属 · 3008 种 · 63 亚种，合计 3071 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。
 
-版本 Version：2026.10.17　生成 Generator：.github/workflows/build_dataset.py（可由仓库来源完全重建）　本区块由脚本自动生成，请勿手工编辑；标记外的手写内容不受影响。
+版本 Version：2026.10.30　生成 Generator：.github/workflows/build_dataset.py（可由仓库来源完全重建）　本区块由脚本自动生成，请勿手工编辑；标记外的手写内容不受影响。
 <!-- AUTO:END -->
 
 ## 与项目网站的关系 Relationship to the project website
@@ -110,7 +110,7 @@
 - CSV：UTF-8（**无 BOM**）、RFC 4180 换行（CRLF）、逗号分隔、首行表头。用 Excel 打开如中文乱码，请用「数据 → 从文本/CSV」并指定 UTF-8。
 - JSON：UTF-8，`indent=1`，`ensure_ascii=False`（中文可读）。
 - XML：DataCite Metadata Schema 4.6，可直接参考其字段在 DataCite / Zenodo / ScienceDB 等平台录入元数据。
-- 归档包 `isoptera-checklist-v2026.10.17.zip`：本目录全部文件的确定性打包（固定时间戳，重跑字节一致）。
+- 归档包 `isoptera-checklist-v2026.10.30.zip`：本目录全部文件的确定性打包（固定时间戳，重跑字节一致）。
 
 读取示例：
 

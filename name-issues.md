@@ -5,7 +5,7 @@ description: "把本站名录与 GBIF Backbone、Catalogue of Life、Blattodea S
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-29
-version: 2026.10.17
+version: 2026.10.30
 keywords: [白蚁, 等翅目, 名录, 命名差异, 分类核对, GBIF, Catalogue of Life, Blattodea Species File]
 permalink: /list/name-issues/
 pagefind: true
@@ -74,7 +74,7 @@ pagefind: true
 </tbody>
 </table>
 </div>
-<p class="ni-syn-foot">判定规则：任一外部库只按<strong>物种级</strong>结论计票（仅匹配到属/科、模糊匹配、未收录都不算）。<strong>异名</strong>指加词不同、确为不同名；<strong>组合差异</strong>是同一种只是换了属，不算异名——这类里 GBIF 常把本名录的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以按各库票数判定接收名。只有「真异名 + 外部库名为接收名 + 至少两库一致且无相反票」的对才可补录：目前 <b>{{ C.pairs_recorded }}</b> 对已写进接受名物种页「次异名」的<strong>「依外部权威库补录的异名」</strong>小节（front matter 的 <code>authority_synonym_*</code>，检索也能按异名命中）。其余（含组合差异与方向待定）只作核对提示；本名录不删除任何名字，正式合并与否以原始文献与本站分类系统为准。</p>
+<p class="ni-syn-foot">判定规则：任一外部库只按<strong>物种级</strong>结论计票（仅匹配到属/科、模糊匹配、未收录都不算）。<strong>异名</strong>指加词不同、确为不同名；<strong>组合差异</strong>是同一种只是换了属，不算异名——这类里 GBIF 常把本名录的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以按各库票数判定接收名。只有「真异名 + 外部库名为接收名 + 至少两个分类数据库一致认定」的对才可补录（GBIF 仍标接受名时只标「方向有分歧」，不否决）：目前 <b>{{ C.pairs_recorded }}</b> 对已写进接受名物种页「次异名」的<strong>「依外部权威库补录的异名」</strong>小节（front matter 的 <code>authority_synonym_*</code>，检索也能按异名命中）。其余（含组合差异与方向待定）只作核对提示；本名录不删除任何名字，正式合并与否以原始文献与本站分类系统为准。</p>
 {%- endif %}
 
 <p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>下载完整清单 CSV（{{ C.total }} 条）</a> · <a href="{{ site.base_url }}/downloads/isoptera-synonym-pairs.csv" download>名称差异逐对归并 CSV（{{ C.conflict_pairs }} 行）</a> · 程序化访问：<code>{{ site.base_url }}/data/name-issues.json</code></p>

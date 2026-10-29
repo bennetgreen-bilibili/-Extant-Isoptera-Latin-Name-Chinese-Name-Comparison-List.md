@@ -5,11 +5,11 @@ description: "Latin–Chinese name comparison list of all extant Isoptera (termi
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termites, Isoptera, checklist, scientific names, Chinese names, taxonomy, Termitidae]
 permalink: /en/list/
 ---
-# Extant Isoptera (Termites) — Latin–Chinese Name Comparison List (2026.10.17) Final Version
+# Extant Isoptera (Termites) — Latin–Chinese Name Comparison List (2026.10.30) Final Version
 
 ## Taxonomic framework
 

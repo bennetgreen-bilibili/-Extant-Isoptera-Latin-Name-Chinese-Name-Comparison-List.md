@@ -5,7 +5,7 @@ description: "Lista comparativa de nombres latinos y chinos de todos los isópte
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termitas, Isoptera, listado, nombres científicos, nombres chinos, taxonomía, Termitidae]
 permalink: /es/
 ---
@@ -17,7 +17,7 @@ permalink: /es/
  "@context": "https://schema.org",
  "@type": "Dataset",
  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
- "name": "Isópteros actuales (termitas): lista comparativa de nombres latinos y chinos (2026.10.17)",
+ "name": "Isópteros actuales (termitas): lista comparativa de nombres latinos y chinos (2026.10.30)",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "description": "Lista comparativa de nombres latinos y chinos de los isópteros (termitas) actuales: 13 familias, 323 géneros, 3008 especies y 63 subespecies. Datos divididos por clado/familia/subfamilia; el punto de entrada data/index.json contiene el árbol taxonómico completo.",
  "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/",
@@ -27,9 +27,9 @@ permalink: /es/
  },
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "inLanguage": "es",
- "version": "2026.10.17",
+ "version": "2026.10.30",
  "datePublished": "2026-10-13",
- "dateModified": "2026-10-17",
+ "dateModified": "2026-10-30",
  "distribution": [
   {
    "@type": "DataDownload",
@@ -186,10 +186,10 @@ permalink: /es/
 > Abarca 13 familias, 323 géneros, 3008 especies y 63 subespecies; `*` marca la especie tipo; (N) es el número de referencia.
 > Fuentes principales: 《白蚁学》 (Termitology), 《世界白蚁中文名录》 (World Termite Chinese-Name List), 《中国动物志》 (Fauna Sinica), [termitologia.net](https://www.termitologia.net/), [organismnames.com](http://organismnames.com/query.htm), [GBIF](https://www.gbif.org/); el resto de las referencias se lista al final del listado.
 
-**Autor**: 班奈特格林 (Bennet Green, bilibili)　**Versión**: 2026.10.17 (definitiva)　**Licencia**: uso libre citando al autor (equivalente a CC BY 4.0; los derechos de las ilustraciones pertenecen a sus fotógrafos y siguen la atribución y licencia indicadas en cada figura).
+**Autor**: 班奈特格林 (Bennet Green, bilibili)　**Versión**: 2026.10.30 (definitiva)　**Licencia**: uso libre citando al autor (equivalente a CC BY 4.0; los derechos de las ilustraciones pertenecen a sus fotógrafos y siguen la atribución y licencia indicadas en cada figura).
 
 **Citación sugerida** (APA):
-> 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.17). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/
+> 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.30). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/
 
 ## Páginas
 

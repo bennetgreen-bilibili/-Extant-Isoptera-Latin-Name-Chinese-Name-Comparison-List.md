@@ -23,6 +23,10 @@ distribution_en: "Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antig
 synonym_count: 3
 synonyms: "Eutermes (Eutermes) guatemalae Holmgren, 1910: 294-295; Eutermes (Eutermes) pilifrons Holmgren, 1910: 265-266; Eutermes (Eutermes) pacificus Holmgren, 1910: 266-267"
 synonym_localities: "Guatemala: San José; Colombia: Cundinamarca: Bogotá [4.6N 74.0833W]; Curaçao: ?; Mexico: Jalisco, Nayarit; (country unknown): \"Central or South America\""
+authority_synonym_count: 1
+authority_synonyms: "Nasutitermes dasyopsis Thorne, 1989"
+authority_synonym_localities: "Panama: Cuayabo Grande"
+authority_synonym_sources: "col,bsf"
 ---
 
 <!-- AUTO:BEGIN -->
@@ -59,4 +63,13 @@ ES — **黑头象白蚁** (*Nasutitermes nigriceps*) es una especie del género
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus* 等）出现，本站统一归入 *Nasutitermes nigriceps*。
 EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*); this site treats them all under *Nasutitermes nigriceps*.
 ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Eutermes (Eutermes) guatemalae*、*Eutermes (Eutermes) pilifrons*、*Eutermes (Eutermes) pacificus*); este sitio los reúne todos bajo *Nasutitermes nigriceps*.
+
+### 依外部权威库补录的异名
+
+外部权威库在命名对照中把下列名字记为本种的异名，已补录在案；本名录中它们另有独立记录，是否合并待定：
+
+- *Nasutitermes dasyopsis* Thorne, 1989（Catalogue of Life · Blattodea Species File） —— 模式产地：Panama: Cuayabo Grande
+
+EN — The external authorities above give these names as synonyms of this species; they are recorded here for review, and each of them keeps its own record in this checklist for the time being.
+ES — Las autoridades externas citadas dan estos nombres como sinónimos de esta especie; se registran aquí para su revisión y cada uno conserva por ahora su propio registro en esta lista.
 <!-- AUTO:END -->

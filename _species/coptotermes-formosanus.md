@@ -20,6 +20,10 @@ distribution_en: "southern China and Taiwan, native, widely distributed in the t
 synonym_count: 16
 synonyms: "Coptotermes formosae Holmgren, 1911: 192; Coptotermes hongkonensis Oshima, 1914: 7-10; Coptotermes intrudens Oshima, 1920: 262-264; Coptotermes remotus Silvestri, 1927: 93-95; Coptotermes eucalyptus Ping, 1984: 186-187, 189; Coptotermes xiaoliangensis Ping, 1984: 184-185, 188; Coptotermes guangzhouensis Ping, 1985: 317-318, 326-327; Coptotermes heteromorphus Ping, 1985: 320-321, 327; Coptotermes ( Polycrinitermes ) changtaiensis Xia & He, 1986: 164-165, 178; Coptotermes ( Polycrinitermes ) hekouensis Xia & He, 1986: 162-164, 178; Coptotermes ( Polycrinitermes ) suzhouensis Xia & He, 1986: 167-169, 180; Coptotermes ( Polycrinitermes ) communis Xia & He, 1986: 166-167, 179; Coptotermes rectangularis Ping & Zhu in Ping et al., 1986: 157-158, 160; Coptotermes setosus Li, 1986: 227-228, 229; Coptotermes xianrendongensis Ping & Xu, 1993: 432-433, 442; Coptotermes ( Polycrinitermes ) anglefontanalis Gao, Lau & He, 1995: 1-5"
 synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolulu, Oahu; South Africa: Cape Province: Simonstown; China: Guangdong Province: Xiaoliang of Dianbai County; China: Guangdong Province: Xiaoliang of Dianbai County; China: Guangdong Province: Guangzhou; China: Guangdong Province: Guangzhou; China: Fujian Province: Changtai County; China: Yunnan Province: Hekou County; China: Jiangsu Province: Suzhou County; China: Zhejiang Province: Jinhua County; China: Guizhou Province: Conjiang County; China: Guangdong Province: Xuwen; China: Guangdong Province: Shixing County: Xianrendong of Chebaling; China: Hong Kong: New Territories: Lui Kung Tin"
+authority_synonym_count: 1
+authority_synonyms: "Coptotermes guizhouensis He & Qui, 1992"
+authority_synonym_localities: "China: Guizhou Province: Conjiang County"
+authority_synonym_sources: "col,bsf"
 ---
 
 <!-- AUTO:BEGIN -->
@@ -69,4 +73,13 @@ ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus* 等）出现，本站统一归入 *Coptotermes formosanus*。
 EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus*); this site treats them all under *Coptotermes formosanus*.
 ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus*); este sitio los reúne todos bajo *Coptotermes formosanus*.
+
+### 依外部权威库补录的异名
+
+外部权威库在命名对照中把下列名字记为本种的异名，已补录在案；本名录中它们另有独立记录，是否合并待定：
+
+- *Coptotermes guizhouensis* He & Qui, 1992（Catalogue of Life · Blattodea Species File） —— 模式产地：China: Guizhou Province: Conjiang County
+
+EN — The external authorities above give these names as synonyms of this species; they are recorded here for review, and each of them keeps its own record in this checklist for the time being.
+ES — Las autoridades externas citadas dan estos nombres como sinónimos de esta especie; se registran aquí para su revisión y cada uno conserva por ahora su propio registro en esta lista.
 <!-- AUTO:END -->

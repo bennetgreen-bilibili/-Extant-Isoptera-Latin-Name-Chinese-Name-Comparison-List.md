@@ -5,7 +5,7 @@ description: "Lista filtrable de discrepancias entre esta lista y GBIF Backbone,
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termitas, Isoptera, lista, discrepancias de nombres, revisión taxonómica, GBIF, Catalogue of Life, Blattodea Species File]
 permalink: /es/list/name-issues/
 pagefind: true
@@ -74,7 +74,7 @@ pagefind: true
 </tbody>
 </table>
 </div>
-<p class="ni-syn-foot">Reglas: solo votan los veredictos a <strong>nivel de especie</strong> (coincidencia solo de género/familia, difusa o «no encontrado» no cuentan). <strong>Sinónimo</strong> = epíteto distinto, nombre realmente distinto; <strong>diferencia de combinación</strong> = la misma especie en otro género, que no es un sinónimo. En este último caso GBIF suele absorber el género aquí usado en uno más antiguo y presenta nuestro nombre como su «nombre aceptado», por lo que la dirección se invierte con facilidad: por eso la decide el voto de las bases. Solo son registrables los pares «sinónimo real + nombre receptor externo + al menos dos bases de acuerdo y ningún voto contrario»: <b>{{ C.pairs_recorded }}</b> par(es) ya figuran en la página de la especie aceptada, en la sección de sinónimos, bajo «sinónimos registrados a partir de autoridades externas» (campos <code>authority_synonym_*</code>, también buscables). El resto —incluidas las diferencias de combinación y las direcciones indeterminadas— sigue siendo solo una nota de revisión; aquí no se elimina ningún nombre y la fusión formal sigue dependiendo de la literatura original y de la clasificación adoptada.</p>
+<p class="ni-syn-foot">Reglas: solo votan los veredictos a <strong>nivel de especie</strong> (coincidencia solo de género/familia, difusa o «no encontrado» no cuentan). <strong>Sinónimo</strong> = epíteto distinto, nombre realmente distinto; <strong>diferencia de combinación</strong> = la misma especie en otro género, que no es un sinónimo. En este último caso GBIF suele absorber el género aquí usado en uno más antiguo y presenta nuestro nombre como su «nombre aceptado», por lo que la dirección se invierte con facilidad: por eso la decide el voto de las bases. Solo son registrables los pares «sinónimo real + nombre receptor externo + al menos dos bases taxonómicas de acuerdo» (un veredicto contrario de GBIF se muestra como «bases en desacuerdo» y no veta): <b>{{ C.pairs_recorded }}</b> par(es) ya figuran en la página de la especie aceptada, en la sección de sinónimos, bajo «sinónimos registrados a partir de autoridades externas» (campos <code>authority_synonym_*</code>, también buscables). El resto —incluidas las diferencias de combinación y las direcciones indeterminadas— sigue siendo solo una nota de revisión; aquí no se elimina ningún nombre y la fusión formal sigue dependiendo de la literatura original y de la clasificación adoptada.</p>
 {%- endif %}
 
 <p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>Descargar la lista completa en CSV ({{ C.total }} filas)</a> · <a href="{{ site.base_url }}/downloads/isoptera-synonym-pairs.csv" download>tabla por pares con relación/dirección ({{ C.conflict_pairs }} filas)</a> · copia legible por máquina: <code>{{ site.base_url }}/data/name-issues.json</code></p>

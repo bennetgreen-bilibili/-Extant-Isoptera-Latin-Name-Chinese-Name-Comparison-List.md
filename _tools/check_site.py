@@ -464,6 +464,11 @@ def check_name_issues(fields_by_slug: dict) -> None:
             err("_data/name_issues.json", "接收名的 slug 找不到物种页：" + receiving["slug"])
         if pair.get("disputed"):
             disputed += 1
+        expected_recordable = (direction == "external" and relation == "synonym"
+                               and len((pair.get("votes") or {}).get("synonym") or []) >= 2)
+        if bool(pair.get("recordable")) != expected_recordable:
+            err("_data/name_issues.json", "recordable 判定与规则不一致：%s（应为 %s）"
+                % (our["latin"], expected_recordable))
         if pair.get("recordable"):
             recordable += 1
         if pair.get("recorded"):
@@ -471,6 +476,8 @@ def check_name_issues(fields_by_slug: dict) -> None:
             # 已补录必须方向明确、真异名，且真的写进了接受名物种页的 authority_synonyms
             if direction != "external" or relation != "synonym":
                 err("_data/name_issues.json", "已补录的对必须是「真异名 + 外部库名为接收名」：%s" % our["latin"])
+            if len((pair.get("votes") or {}).get("synonym") or []) < 2:
+                err("_data/name_issues.json", "已补录的对至少要有两个分类数据库认定是异名：%s" % our["latin"])
             accepted_slug = receiving.get("slug")
             accepted_fields = fields_by_slug.get(accepted_slug) if accepted_slug else None
             accepted_auth = [

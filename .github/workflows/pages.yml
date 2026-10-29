@@ -183,7 +183,7 @@ jobs:
               ("/feed.json", None),
               ("/opensearch.xml", None),
               ("/changelog.atom", None),
-              ("/changelog/", "2026.10.17"),
+              ("/changelog/", "2026.10.30"),
               ("/list/name-issues/", "ni-row"),
           ]
           UA = {"User-Agent": "isoptera-site-verify/1.0 (GitHub Actions deploy check)"}

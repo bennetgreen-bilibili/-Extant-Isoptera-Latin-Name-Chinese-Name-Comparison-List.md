@@ -2,7 +2,7 @@
  "meta": {
   "title": "Isoptera checklist — name discrepancies and review queue",
   "scope": "本站每一物种/亚种与 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果中，需要人工注意的条目；只提示，不改动站内分类数据。",
-  "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links.json 与 _data/bsf_links.json 生成；匹配规则见 _tools/外部权威库与一致性核对.md。",
+  "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links.json 与 _data/bsf_links.json 生成；人工核对备注见 _data/name_issue_reviews.json；匹配规则见 _tools/外部权威库与一致性核对.md。",
   "cache_dates": {
    "authority": "2026-10-28T16:28:37Z",
    "bsf": "2026-10-28T16:44:34Z"
@@ -29,6 +29,7 @@
    "species_total": 3071,
    "species_with_issue": 200,
    "bsf_verified": 0,
+   "manually_reviewed": 4,
    "conflict_species": 15,
    "conflict_pairs": 15,
    "pairs_relation_synonym": 4,
@@ -37,8 +38,8 @@
    "pairs_direction_site": 6,
    "pairs_direction_disputed": 6,
    "pairs_disputed": 10,
-   "pairs_recordable": 1,
-   "pairs_recorded": 1
+   "pairs_recordable": 3,
+   "pairs_recorded": 3
   },
   "by_latin": {
    "Ahmaditermes dinghuensis": 1,
@@ -269,8 +270,8 @@
    "relation": "synonym",
    "direction": "external",
    "disputed": true,
-   "recordable": false,
-   "recorded": false,
+   "recordable": true,
+   "recorded": true,
    "receiving_latin": "Coptotermes formosanus"
   },
   {
@@ -298,8 +299,8 @@
    "relation": "synonym",
    "direction": "external",
    "disputed": true,
-   "recordable": false,
-   "recorded": false,
+   "recordable": true,
+   "recorded": true,
    "receiving_latin": "Coptotermes formosanus"
   },
   {
@@ -492,8 +493,8 @@
    "relation": "synonym",
    "direction": "external",
    "disputed": true,
-   "recordable": false,
-   "recorded": false,
+   "recordable": true,
+   "recorded": true,
    "receiving_latin": "Nasutitermes nigriceps"
   },
   {
@@ -521,8 +522,8 @@
    "relation": "synonym",
    "direction": "external",
    "disputed": true,
-   "recordable": false,
-   "recorded": false,
+   "recordable": true,
+   "recorded": true,
    "receiving_latin": "Nasutitermes nigriceps"
   },
   {
@@ -946,8 +947,8 @@
    "accepted_url": null,
    "match": "FUZZY",
    "confidence": 95,
-   "verified": false,
-   "note": ""
+   "verified": true,
+   "note": "人工核对（2026-10-30）：GBIF Backbone 未收录本站名，模糊匹配到的是另一种 Incisitermes marianus (Holmgren, 1912)（有效种，命名人与模式产地均不同），不是拼写变体。本站名见原始描述 Scheffrahn, Austin & Szalanski, 2024（Zootaxa 5428: 427–439，模式产地 Trinidad and Tobago: Acono），Catalogue of Life 与 BSF 均按本名收录；本站名不改。"
   },
   {
    "latin": "Incisitermes nishimurai",
@@ -1288,8 +1289,8 @@
    "accepted_url": null,
    "match": "FUZZY",
    "confidence": 98,
-   "verified": false,
-   "note": ""
+   "verified": true,
+   "note": "人工核对（2026-10-30）：GBIF Backbone 与 BSF 拼作 silvestri（单 i），属外部库拼写变体，不是异名。本站名依 Termite Database 的原始组合记录（Eutermes (Eutermes) silvestrii Holmgren, 1910: 281–283），与 ION、CTFB（Catálogo Taxonômico da Fauna do Brasil）、NCBI 一致，保持 silvestrii；本站名不改。"
   },
   {
    "latin": "Cortaritermes silvestrii",
@@ -1364,8 +1365,8 @@
    "accepted_url": null,
    "match": "FUZZY",
    "confidence": 98,
-   "verified": false,
-   "note": ""
+   "verified": true,
+   "note": "人工核对（2026-10-30）：GBIF Backbone 拼作 chhotannii（双 n），属外部库拼写变体。BSF、Catalogue of Life 与 ION 的 Maiti, 1983 原始描述记录均作 chhotanii；本站名不改。"
   },
   {
    "latin": "Hospitalitermes seikii",
@@ -1687,8 +1688,8 @@
    "accepted_url": null,
    "match": "FUZZY",
    "confidence": 96,
-   "verified": false,
-   "note": ""
+   "verified": true,
+   "note": "人工核对（2026-10-30）：BSF、Catalogue of Life 与 GBIF 拼作 variatae（少一个 r），属外部库拼写变体。原始描述摘要（Roisin & Pasteels, 1996, Invertebrate Taxonomy 10(3): 507–616）明确作 N. variratae, sp. nov.；本站名不改。"
   },
   {
    "latin": "Niuginitermes variratae",
@@ -6378,8 +6379,8 @@
      "gbif"
     ]
    },
-   "recordable": false,
-   "recorded": false
+   "recordable": true,
+   "recorded": true
   },
   {
    "our": {
@@ -6598,8 +6599,8 @@
      "gbif"
     ]
    },
-   "recordable": false,
-   "recorded": false
+   "recordable": true,
+   "recorded": true
   },
   {
    "our": {
@@ -7061,7 +7062,7 @@
      "relation": "synonym",
      "direction": "external",
      "disputed": true,
-     "recorded": false
+     "recorded": true
     }
    ],
    "outgoing": []
@@ -7150,7 +7151,7 @@
      "relation": "synonym",
      "direction": "external",
      "disputed": true,
-     "recorded": false
+     "recorded": true
     }
    ],
    "outgoing": []
@@ -7371,6 +7372,26 @@
    "accepted_zh": "惠勒弓白蚁",
    "sources": [
     "gbif",
+    "col",
+    "bsf"
+   ]
+  },
+  "coptotermes-guizhouensis": {
+   "accepted": "Coptotermes formosanus Shiraki, 1909",
+   "accepted_latin": "Coptotermes formosanus",
+   "accepted_slug": "coptotermes-formosanus",
+   "accepted_zh": "台湾乳白蚁",
+   "sources": [
+    "col",
+    "bsf"
+   ]
+  },
+  "nasutitermes-dasyopsis": {
+   "accepted": "Nasutitermes nigriceps (Haldeman, 1854)",
+   "accepted_latin": "Nasutitermes nigriceps",
+   "accepted_slug": "nasutitermes-nigriceps",
+   "accepted_zh": "黑头象白蚁",
+   "sources": [
     "col",
     "bsf"
    ]

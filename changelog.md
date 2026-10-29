@@ -5,7 +5,7 @@ description: "名录的发布记录：每个版本号即发布日期（YYYY.MM.D
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-29
-version: 2026.10.17
+version: 2026.10.30
 permalink: /changelog/
 ---
 {%- assign CH = site.data.changelog -%}

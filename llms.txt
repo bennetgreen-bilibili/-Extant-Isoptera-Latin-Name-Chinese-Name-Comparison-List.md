@@ -3,7 +3,7 @@
 > 本文件是 llms.txt：面向 AI 助手的站点说明，见 https://llmstxt.org/
 
 ## 站点简介
-本站收录现存等翅下目（白蚁）全部现生类群的中文正名与拉丁学名对照名录（2026-10-17 正式版），共 13 科、18 亚科、323 属、3008 种、63 亚种。每条含模式种标记（*）与分布信息；文末附 77 篇参考文献（含 DOI）。作者：班奈特格林（bilibili）。免费发布，注明作者可随意参考使用。
+本站收录现存等翅下目（白蚁）全部现生类群的中文正名与拉丁学名对照名录（2026-10-30 正式版），共 13 科、18 亚科、323 属、3008 种、63 亚种。每条含模式种标记（*）与分布信息；文末附 77 篇参考文献（含 DOI）。作者：班奈特格林（bilibili）。免费发布，注明作者可随意参考使用。
 
 站点提供三种语言版本，页面结构一一对应：中文（站点根目录）、英文（/en/）、西班牙文（/es/）。
 
@@ -55,8 +55,8 @@
 
 ## 归档数据集（带 DOI）
 - 全部 3071 条记录已打包为可引用归档数据集（逐条 CSV / 分类树 JSON / 次异名长表 / 参考文献表 + DataCite 4.6 元数据 + CC BY 4.0 许可），见「数据」页的「归档数据集与 DOI」一节：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/
-- 归档包直接下载：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/downloads/isoptera-checklist-v2026.10.17.zip
-- 版本 DOI：10.5281/zenodo.23646836（2026.10.17 版）；概念 DOI（全部版本）：10.5281/zenodo.23646835；APA 引用格式见上述数据页；数据集说明（来源 / 方法 / 字段 / 限制 / 引用）：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/dataset/README.md
+- 归档包直接下载：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/downloads/isoptera-checklist-v2026.10.30.zip
+- 版本 DOI：10.5281/zenodo.23646836（2026.10.17 已发布版；2026.10.30 版待发布后回填）；概念 DOI（全部版本）：10.5281/zenodo.23646835；APA 引用格式见上述数据页；数据集说明（来源 / 方法 / 字段 / 限制 / 引用）：https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/dataset/README.md
 - 引用数据集时优先使用 DOI；引用具体物种条目时请同时注明站点物种页 URL 与所用版本号。
 
 ## 外部数据库与一致性核对（物种页）
@@ -70,7 +70,7 @@
 ## 内容要点（给 AI 参考）
 - 名录以 Krishna 等《Treatise on the Isoptera of the world》(2013) 与 Hellemans 等 (2024) 分类框架为基础整理。
 - 中文正名为编者拟定或沿用既有译名；正式使用前建议核对原始文献。
-- 引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/
+- 引用格式（APA）：班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.30 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/
 
 ## 数据统计（与正文核对一致）
 - 科：13　亚科：18　属：323　种：3008　亚种：63

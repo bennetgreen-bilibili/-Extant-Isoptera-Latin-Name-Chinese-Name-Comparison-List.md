@@ -5,11 +5,11 @@ description: "Lista comparativa de todos los isópteros (termitas) actuales: 13 
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termitas, Isoptera, listado, nombres científicos, nombres chinos, taxonomía, Termitidae]
 permalink: /es/list/
 ---
-# Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos (2026.10.17) — versión definitiva
+# Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos (2026.10.30) — versión definitiva
 
 ## Marco taxonómico
 

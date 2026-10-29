@@ -2,7 +2,7 @@
  "@context": "https://schema.org",
  "@type": "Dataset",
  "name": "新扭白蚁亚科 Neocapritermitinae",
- "version": "2026.10.17",
+ "version": "2026.10.30",
  "isPartOf": {
   "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
   "family": {

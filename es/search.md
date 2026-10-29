@@ -5,7 +5,7 @@ description: Búsqueda de texto completo en el listado, las 3071 páginas de esp
 lang: es
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termitas, Isoptera, búsqueda, texto completo, Pagefind]
 permalink: /es/search/
 pagefind: true

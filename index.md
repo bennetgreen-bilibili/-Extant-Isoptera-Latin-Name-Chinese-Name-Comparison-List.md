@@ -5,7 +5,7 @@ description: 现存等翅下目（白蚁）现生类群对照名录：13 科、3
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录, 分类, Termitidae]
 permalink: /
 ---
@@ -20,7 +20,7 @@ permalink: /
 {% if site.dataset.doi %} "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": "{{ site.dataset.doi }}" },
  "sameAs": "https://doi.org/{{ site.dataset.doi }}",
 {% endif %}
- "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）",
+ "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "description": "现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3008 种、63 亚种。数据按支系/科/亚科拆分，入口 data/index.json 含完整分类树。",
  "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
@@ -30,9 +30,9 @@ permalink: /
  },
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "inLanguage": "zh-CN",
- "version": "2026.10.17",
+ "version": "2026.10.30",
  "datePublished": "2026-10-13",
- "dateModified": "2026-10-17",
+ "dateModified": "2026-10-30",
  "distribution": [
   {
    "@type": "DataDownload",
@@ -181,7 +181,7 @@ permalink: /
 }
 </script>
 
-<p>现存等翅下目（白蚁）现生类群对照名录：<strong>13 科、323 属、3008 种、63 亚种</strong>的拉丁学名—中文正名，含模式种标记、分布信息与参考文献。作者班奈特格林，2026-10-17 正式版，注明作者可免费引用。</p>
+<p>现存等翅下目（白蚁）现生类群对照名录：<strong>13 科、323 属、3008 种、63 亚种</strong>的拉丁学名—中文正名，含模式种标记、分布信息与参考文献。作者班奈特格林，2026-10-30 正式版，注明作者可免费引用。</p>
 
 ## 简介
 
@@ -189,7 +189,7 @@ permalink: /
 > 共收录 13 科、323 属、3008 种、63 亚种；`*` 模式种；(N) 为文末参考文献编号。
 > 主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》[termitologia.net](https://www.termitologia.net/)、[organismnames.com](http://organismnames.com/query.htm)、[GBIF](https://www.gbif.org/)、其他参考文献见名录末尾。
 
-**作者**：班奈特格林（bilibili）　**版本**：2026.10.17 正式版　**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0；插图版权归各摄影师，按各图署名与许可使用）。
+**作者**：班奈特格林（bilibili）　**版本**：2026.10.30 正式版　**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0；插图版权归各摄影师，按各图署名与许可使用）。
 
 **建议引用格式**（APA）：
 {% if site.dataset.doi %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》({{ site.dataset.version }} 版) [Data set]. {{ site.dataset.publisher }}. https://doi.org/{{ site.dataset.doi }}{% else %}> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(2026.10.17 正式版). https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/{% endif %}

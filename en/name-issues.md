@@ -5,7 +5,7 @@ description: "A filterable list of name-level mismatches between this checklist 
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termites, Isoptera, checklist, name discrepancies, taxonomy review, GBIF, Catalogue of Life, Blattodea Species File]
 permalink: /en/list/name-issues/
 pagefind: true
@@ -74,7 +74,7 @@ pagefind: true
 </tbody>
 </table>
 </div>
-<p class="ni-syn-foot">Rules: only <strong>species-level</strong> verdicts vote (genus/family-only matches, fuzzy matches and “not found” do not). A <strong>synonym</strong> means a different epithet — a genuinely different name; a <strong>combination difference</strong> means the same species under a different genus, which is not a synonym. In the latter case GBIF often sinks the genus used here into an older one and reports our name as its “accepted name”, so the direction is easily reversed — hence the direction is decided by the database votes. Only pairs that are “true synonym + externally receiving name + at least two agreeing databases and no contrary vote” are recordable: <b>{{ C.pairs_recorded }}</b> pair(s) have been written into the accepted name's species page under “Synonyms recorded from external authorities” in its junior-synonym section (front-matter fields <code>authority_synonym_*</code>, also searchable). Everything else — including combination differences and undecided directions — remains a review note; no name is deleted here, and a formal merge still follows the original literature and the classification used here.</p>
+<p class="ni-syn-foot">Rules: only <strong>species-level</strong> verdicts vote (genus/family-only matches, fuzzy matches and “not found” do not). A <strong>synonym</strong> means a different epithet — a genuinely different name; a <strong>combination difference</strong> means the same species under a different genus, which is not a synonym. In the latter case GBIF often sinks the genus used here into an older one and reports our name as its “accepted name”, so the direction is easily reversed — hence the direction is decided by the database votes. Only pairs that are “true synonym + externally receiving name + at least two taxonomic databases agreeing” are recordable (a contrary GBIF verdict is shown as “databases disagree” and does not veto): <b>{{ C.pairs_recorded }}</b> pair(s) have been written into the accepted name's species page under “Synonyms recorded from external authorities” in its junior-synonym section (front-matter fields <code>authority_synonym_*</code>, also searchable). Everything else — including combination differences and undecided directions — remains a review note; no name is deleted here, and a formal merge still follows the original literature and the classification used here.</p>
 {%- endif %}
 
 <p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>Download the full list as CSV ({{ C.total }} rows)</a> · <a href="{{ site.base_url }}/downloads/isoptera-synonym-pairs.csv" download>per-pair relation/direction table ({{ C.conflict_pairs }} rows)</a> · machine-readable copy: <code>{{ site.base_url }}/data/name-issues.json</code></p>

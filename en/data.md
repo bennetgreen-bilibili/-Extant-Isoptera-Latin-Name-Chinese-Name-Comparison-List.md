@@ -5,7 +5,7 @@ description: "Machine-readable structured data (JSON) for the extant Isoptera (t
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termites, Isoptera, structured data, JSON, checklist, taxonomy, Termitidae]
 permalink: /en/data/
 ---

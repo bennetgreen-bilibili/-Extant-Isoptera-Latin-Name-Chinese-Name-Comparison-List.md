@@ -2,10 +2,10 @@
  "@context": "https://schema.org",
  "@type": "Dataset",
  "name": "新等翅类（除白蚁科）Neoisoptera excl. Termitidae",
- "version": "2026.10.17",
+ "version": "2026.10.30",
  "isPartOf": {
   "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/index.json",
-  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.17）"
+  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）"
  },
  "cladeIds": [
   {

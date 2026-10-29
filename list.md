@@ -5,11 +5,11 @@ description: 现存等翅下目（白蚁）全部现生类群（13 科 323 属 3
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录, 分类, Termitidae]
 permalink: /list/
 ---
-# 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.17）正式版
+# 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.30）正式版
 
 ## 分类框架
 

@@ -39,7 +39,7 @@
     python .github/workflows/build_dataset.py --check   # 先确认仓库内产物是最新的
     python .github/workflows/build_dataset.py --write   # 需要时重新生成
 
-产物：`dataset/` 整个目录 + 可直接上传的 `downloads/isoptera-checklist-v2026.10.17.zip`。
+产物：`dataset/` 整个目录 + 可直接上传的 `downloads/isoptera-checklist-v2026.10.30.zip`。
 
 ### 2.1 账号
 
@@ -50,7 +50,7 @@
 ### 2.2 新建上传并「预留 DOI」
 
 1. 右上角 **+ → New upload**。
-2. 上传 `downloads/isoptera-checklist-v2026.10.17.zip`（1 个文件，约 0.5 MB）。
+2. 上传 `downloads/isoptera-checklist-v2026.10.30.zip`（1 个文件，约 0.5 MB）。
 3. 在 **Basic information** 的 DOI 一栏点 **"Get a DOI now!"** —— 这会**在发布前预留一个版本 DOI**（注意：删掉草稿会丢失预留 DOI；DOI 只有发布后才真正注册）。
 4. 把这个预留 DOI 填进 `dataset/metadata.json` 的 `doi.version`，然后重新生成，用新 zip 覆盖上传的文件：
 
@@ -68,12 +68,12 @@
 | Title | `dataset/metadata.json` 的 `title.en`（英文标题，收录效果更好） |
 | Description | 英文摘要（`description.en`）；可追加 `<p>项目网站：…</p>` |
 | Creators | 班奈特格林；有 ORCID 填 ORCID；affiliation 可填 Independent researcher |
-| Publication date | 2026-10-17 |
+| Publication date | 2026-10-30 |
 | Resource type | **Dataset** |
 | License | **CC BY 4.0** |
 | Keywords | `metadata.json` 的 `keywords.en + keywords.zh` |
 | Language | Chinese (zho) |
-| Version | 2026.10.17 |
+| Version | 2026.10.30 |
 | Related identifiers | 站点 URL（relation: is documented by）；GitHub 仓库（is supplemented by） |
 | Funding | 无则留空，不要编 |
 
@@ -180,7 +180,7 @@
 | `dataset/datapackage.json` | 字段字典（Frictionless Data Package） |
 | `dataset/README.md` | 归档包说明（AUTO / DOI 区块由脚本填充） |
 | `dataset/CHECKSUMS.sha256` | 数据文件校验和 |
-| `downloads/isoptera-checklist-v2026.10.17.zip` | 直接上传 Zenodo 的归档包 |
+| `downloads/isoptera-checklist-v2026.10.30.zip` | 直接上传 Zenodo 的归档包 |
 | `.zenodo.json` | Zenodo GitHub 集成元数据（若用 Release 自动归档） |
 | `CITATION.cff`（仓库根） | GitHub「Cite this repository」按钮 |
 | `_config.yml` `dataset:` 块 | 铸造后只改这里，站内自动显示 DOI |

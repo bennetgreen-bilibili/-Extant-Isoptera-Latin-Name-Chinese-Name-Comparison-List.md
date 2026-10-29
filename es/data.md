@@ -5,7 +5,7 @@ description: "Datos estructurados legibles por máquina (JSON) del listado de is
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.17
+version: 2026.10.30
 keywords: [termitas, Isoptera, datos estructurados, JSON, listado, taxonomía, Termitidae]
 permalink: /es/data/
 ---
