@@ -20,16 +20,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       # 结构一致性：JSON、分布图产物、三语名录同构、锚点、计数、sitemap、i18n、命名差异产物
       - name: Structural checks
         run: python _tools/check_site.py --ci
+
+      # 外部数据缓存（离线，不联网）：与 pages.yml 部署前的同一组校验。
+      # 放在这里是为了让 PR 阶段就能发现脚本问题（例如本次的 Python 3.13-only API），
+      # 而不是等到部署时构建 job 才红。
+      - name: Verify external data caches (offline)
+        run: |
+          python .github/workflows/build_authority_links.py --check
+          python .github/workflows/build_bsf_links.py --check
+          python .github/workflows/build_species_photos.py --check
+          python .github/workflows/build_references.py --verify
+
+      # 数据集归档与其它产物一样要已提交；zip 只比内容（成员名 + 字节），
+      # 因为 deflate 压缩结果依赖平台 zlib，不同平台不逐字节一致。
+      # 这一步放在重新生成之前，比对的是「仓库里已提交的产物」。
+      - name: Verify dataset archive content
+        run: python .github/workflows/build_dataset.py --check
 
       # 重新生成全部派生产物（不装 pypinyin / OpenCC：仓库内的 search-index.json 是基础版，
       # 部署时由 pages.yml 安装依赖后重新生成增强版，两者互不干扰）
@@ -45,12 +61,14 @@ jobs:
           python .github/workflows/build_name_issues.py --write
 
       # 生成产物必须已提交：改了数据却忘了重跑脚本，这里立刻红
+      # 例外：downloads/*.zip 已在上面用 --check 逐成员比对过内容，这里只排除它的字节比对。
       - name: Fail if generated artifacts are stale
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
+          status="$(git status --porcelain -- . ':(exclude)downloads/*.zip')"
+          if [ -n "$status" ]; then
             echo "::error::生成产物与脚本输出不一致：请在本地重跑上面的脚本并提交结果（见 git status / git diff 输出）"
-            git status --porcelain
-            git diff
+            printf '%s\n' "$status"
+            git diff -- . ':(exclude)downloads/*.zip'
             exit 1
           fi
-          echo "OK: 所有生成产物与脚本输出一致"
+          echo "OK: 所有生成产物与脚本输出一致（zip 由 --check 逐成员校验，不做字节比对）"

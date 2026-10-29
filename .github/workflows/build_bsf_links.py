@@ -1018,7 +1018,9 @@ def check_repo() -> int:
         writer.writeheader()
         for row in expected_rows:
             writer.writerow({key: row.get(key, "") for key in CSV_FIELDS})
-        current = WORKSHEET_PATH.read_text(encoding="utf-8-sig", newline="")
+        # Path.read_text 的 newline 参数是 Python 3.13 才有的，CI 运行 3.12；
+        # read_bytes().decode() 等价：BOM 由 utf-8-sig 去掉、不做换行转换。
+        current = WORKSHEET_PATH.read_bytes().decode("utf-8-sig")
         if current.lstrip("\ufeff") != buf.getvalue():
             problems.append(
                 "工作表与 JSON 不同步（改了 CSV 请先 --import；改了 JSON 请 --write 重排）"
