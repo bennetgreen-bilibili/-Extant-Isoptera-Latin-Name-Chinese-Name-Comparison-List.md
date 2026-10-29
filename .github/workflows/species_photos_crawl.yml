@@ -61,12 +61,16 @@ jobs:
           RESCAN: ${{ github.event.inputs['rescan-licenses'] || 'false' }}
         run: |
           set -u
-          args=(--workers 4)
-          if [ -n "${ONLY}" ]; then args+=(--only "${ONLY}"); fi
+          common=(--workers 4)
           if [ "${RESCAN}" = "true" ]; then
-            echo "::notice::rescanning the licence allowlist (ignoring the cache)"
-            python .github/workflows/build_species_photos.py --write --refresh "${args[@]}"
+            # 公有领域只影响 Wikimedia Commons；没指定 --only 时默认只重扫 Commons
+            target="${ONLY:-commons}"
+            echo "::notice::rescanning the licence allowlist for ${target} (ignoring the cache)"
+            python .github/workflows/build_species_photos.py --write --refresh \
+              --only "${target}" "${common[@]}"
           else
+            args=("${common[@]}")
+            if [ -n "${ONLY}" ]; then args+=(--only "${ONLY}"); fi
             python .github/workflows/crawl_species_photos_loop.py \
               --round-budget "${ROUND_BUDGET}" --max-rounds "${ROUNDS}" "${args[@]}"
           fi
