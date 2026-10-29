@@ -34,7 +34,7 @@ permalink: /list/
 
 <p class="search-hint">可直接输入拼音（如 <code>baiyi</code>）或繁体中文检索；名录之外的内容（博客、物种页等）见 <a href="{{ site.base_url }}/search/">全站全文搜索</a>。</p>
 
-<p class="search-hint search-hint-board">与 GBIF / Catalogue of Life / Blattodea Species File 的对照中，共有 <strong>{{ site.data.name_issues.meta.counts.total }}</strong> 条需要人工注意（名称差异 {{ site.data.name_issues.meta.counts.by_group.conflict }} · 匹配存疑 {{ site.data.name_issues.meta.counts.by_group.match }} · 覆盖缺口 {{ site.data.name_issues.meta.counts.by_group.gap }}）：<a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异与待核对 →</strong></a></p>
+<p class="search-hint search-hint-board">与 GBIF / Catalogue of Life / Blattodea Species File 的对照中，共有 <strong>{{ site.data.name_issues.meta.counts.total }}</strong> 条需要人工注意（名称差异 {{ site.data.name_issues.meta.counts.by_group.conflict }} 条 → 归并为 {{ site.data.name_issues.meta.counts.synonym_groups }} 个接受名 · 匹配存疑 {{ site.data.name_issues.meta.counts.by_group.match }} · 覆盖缺口 {{ site.data.name_issues.meta.counts.by_group.gap }}）：<a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异与待核对 →</strong></a></p>
 
 {% include distribution-notes.html %}
 

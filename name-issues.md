@@ -14,14 +14,14 @@ pagefind: true
 {%- assign C = D.meta.counts -%}
 <nav class="ni-crumbs" aria-label="面包屑"><a href="{{ site.base_url }}/">首页</a> › <a href="{{ site.base_url }}/list/">名录</a> › 命名差异与待核对</nav>
 <h1 class="ni-title">命名差异与待核对<span class="ni-title-alt" lang="en">Name discrepancies and review queue</span></h1>
-<p class="ni-lead">本页把仓库里已有的「本站名 vs 外部权威库」对照结果整理成可筛选清单：GBIF Backbone、Catalogue of Life（ChecklistBank）与 Blattodea Species File（BSF）。只列出需要人工注意的条目——共 <b>{{ C.total }}</b> 条、涉及 <b>{{ C.species_with_issue }}</b> 个物种/亚种（名录共 {{ C.species_total }} 条记录）。<strong>这里只提示差异，不改动站内分类数据</strong>；匹配规则与判定口径见 <a href="{{ site.base_url }}/data/">数据页</a>，人工复核流程见 <code>_tools/外部权威库与一致性核对.md</code>。</p>
+<p class="ni-lead">本页把仓库里已有的「本站名 vs 外部权威库」对照结果整理成可筛选清单：GBIF Backbone、Catalogue of Life（ChecklistBank）与 Blattodea Species File（BSF）。只列出需要人工注意的条目——共 <b>{{ C.total }}</b> 条、涉及 <b>{{ C.species_with_issue }}</b> 个物种/亚种（名录共 {{ C.species_total }} 条记录）。其中「名称差异」的异名已按外部库给出的<b>接受名（接收名）</b>归并到页末<a href="#synonyms">异名归并</a>：<b>{{ C.synonym_groups }}</b> 个接收名、<b>{{ C.synonym_pairs }}</b> 对「异名 → 接收名」，其中 <b>{{ C.synonym_groups_in_site }}</b> 个接收名本名录也另行收录。<strong>这里只提示差异，不改动站内分类数据</strong>；匹配规则与判定口径见 <a href="{{ site.base_url }}/data/">数据页</a>，人工复核流程见 <code>_tools/外部权威库与一致性核对.md</code>。</p>
 <div class="ni-legend"><span><span class="ni-badge is-conflict">名称差异</span>外部库把本站名当作异名，并给出它认为的接受名——需要判断是否改名、加注或维持现状。</span><span><span class="ni-badge is-match">匹配存疑</span>模糊匹配，或同一学名在 BSF 有多个候选 OTU，脚本无法自动判定，需要人工核对。</span><span><span class="ni-badge is-gap">覆盖缺口</span>只匹配到上级阶元、外部库未收录，或在 BSF 中检索不到——影响外链与交叉引用。</span></div>
-<div class="ni-summary"><span class="ni-stat"><b>{{ C.total }}</b> 条待核对</span><span class="ni-stat"><b>{{ C.by_group.conflict }}</b> 名称差异</span><span class="ni-stat"><b>{{ C.by_group.match }}</b> 匹配存疑</span><span class="ni-stat"><b>{{ C.by_group.gap }}</b> 覆盖缺口</span><span class="ni-stat"><b>{{ C.species_with_issue }}</b> 个物种涉及</span><span class="ni-stat">BSF 已人工核对 <b>{{ C.bsf_verified }}</b> 条</span></div>
+<div class="ni-summary"><span class="ni-stat"><b>{{ C.total }}</b> 条待核对</span><span class="ni-stat"><b>{{ C.by_group.conflict }}</b> 名称差异 → {{ C.synonym_groups }} 个接收名</span><span class="ni-stat"><b>{{ C.synonym_groups_in_site }}</b> 个接收名本站另收</span><span class="ni-stat"><b>{{ C.by_group.match }}</b> 匹配存疑</span><span class="ni-stat"><b>{{ C.by_group.gap }}</b> 覆盖缺口</span><span class="ni-stat"><b>{{ C.species_with_issue }}</b> 个物种涉及</span><span class="ni-stat">BSF 已人工核对 <b>{{ C.bsf_verified }}</b> 条</span></div>
 <div class="ni-app" id="ni-root" data-page-size="50" data-text-range="第 {a}–{b} 条 / 共 {t} 条" data-text-page="第 {p} / {pages} 页" data-text-empty="没有匹配的条目，试试清空筛选。">
 <div class="ni-controls">
 <div class="ni-filters" role="group" aria-label="按类型筛选">
 <button type="button" class="ni-chip is-active" data-group="all" aria-pressed="true">全部 {{ C.total }}</button>
-<button type="button" class="ni-chip" data-group="conflict" aria-pressed="false">名称差异 {{ C.by_group.conflict }}</button>
+<button type="button" class="ni-chip" data-group="conflict" aria-pressed="false">名称差异 {{ C.by_group.conflict }}（{{ C.synonym_groups }} 个接收名）</button>
 <button type="button" class="ni-chip" data-group="match" aria-pressed="false">匹配存疑 {{ C.by_group.match }}</button>
 <button type="button" class="ni-chip" data-group="gap" aria-pressed="false">覆盖缺口 {{ C.by_group.gap }}</button>
 </div>
@@ -40,7 +40,7 @@ pagefind: true
 <td class="ni-family">{{ it.family_zh }}</td>
 <td class="ni-src">{%- if it.source == 'gbif' -%}GBIF{%- elsif it.source == 'col' -%}CoL{%- else -%}BSF{%- endif -%}</td>
 <td class="ni-kind"><span class="ni-badge is-{{ it.group }}">{%- if it.kind == 'synonym' -%}异名{%- elsif it.kind == 'higherrank' -%}仅上级阶元{%- elsif it.kind == 'missing' -%}未收录{%- elsif it.kind == 'fuzzy' -%}模糊匹配{%- else -%}匹配不确定{%- endif -%}</span></td>
-<td class="ni-ext">{%- if it.url -%}<a href="{{ it.url }}" rel="noopener external" target="_blank"><i>{{ it.theirs }}</i></a>{%- elsif it.theirs -%}<i>{{ it.theirs }}</i>{%- else -%}—{%- endif -%}{%- if it.accepted -%}<span class="ni-accepted">接受名 {%- if it.accepted_url %} <a href="{{ it.accepted_url }}" rel="noopener external" target="_blank"><i>{{ it.accepted }}</i></a>{%- else %} <i>{{ it.accepted }}</i>{%- endif -%}</span>{%- endif -%}</td>
+<td class="ni-ext">{%- if it.url -%}<a href="{{ it.url }}" rel="noopener external" target="_blank"><i>{{ it.theirs }}</i></a>{%- elsif it.theirs -%}<i>{{ it.theirs }}</i>{%- else -%}—{%- endif -%}{%- if it.accepted -%}<span class="ni-accepted">接受名 {%- if it.accepted_slug %} <a href="{{ site.base_url }}/species/{{ it.accepted_slug }}/" title="本名录也收录该名"><i>{{ it.accepted }}</i></a><span class="ni-insite">本站另有收录</span>{%- elsif it.accepted_url %} <a href="{{ it.accepted_url }}" rel="noopener external" target="_blank"><i>{{ it.accepted }}</i></a>{%- else %} <i>{{ it.accepted }}</i>{%- endif -%}</span>{%- endif -%}</td>
 <td class="ni-match">{%- if it.match -%}<span class="ni-match-type">{{ it.match }}</span>{%- if it.confidence %} · {{ it.confidence }}%{%- endif -%}{%- endif -%}{%- if it.verified %} <span class="ni-badge is-verified">已人工核对</span>{%- elsif it.source == 'bsf' %} <span class="ni-badge">自动匹配</span>{%- endif -%}</td>
 <td class="ni-note">{%- if it.note -%}{{ it.note }}{%- else -%}—{%- endif -%}</td>
 </tr>
@@ -49,9 +49,30 @@ pagefind: true
 </table>
 </div>
 <p class="ni-empty" id="ni-empty" hidden>没有匹配的条目，试试清空筛选。</p>
-<div class="ni-pager" id="ni-pager"><button type="button" id="ni-prev">‹ 上一页</button><span id="ni-pageinfo" aria-current="true">第 1 / 7 页</span><button type="button" id="ni-next">下一页 ›</button></div>
+{%- assign ni_pages = C.total | plus: 49 | divided_by: 50 -%}
+<div class="ni-pager" id="ni-pager"><button type="button" id="ni-prev">‹ 上一页</button><span id="ni-pageinfo" aria-current="true">第 1 / {{ ni_pages }} 页</span><button type="button" id="ni-next">下一页 ›</button></div>
 </div>
 <noscript><p class="ni-noscript">未启用 JavaScript 时，本页一次展示全部 {{ C.total }} 条，不做筛选与分页。</p></noscript>
-<p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>下载完整清单 CSV（{{ C.total }} 条）</a> · 程序化访问：<code>{{ site.base_url }}/data/name-issues.json</code></p>
-<p class="ni-note-foot">数据来源缓存：GBIF / Catalogue of Life 生成于 {{ D.meta.cache_dates.authority | slice: 0, 10 }}，Blattodea Species File 生成于 {{ D.meta.cache_dates.bsf | slice: 0, 10 }}。BSF 已人工核对 {{ C.bsf_verified }} / {{ C.species_total }} 条，标「自动匹配」的条目仅供参考；本页由 <code>.github/workflows/build_name_issues.py</code> 从仓库缓存生成，随名录更新自动重建。权威库条目以对方网站当前显示为准。</p>
+{%- assign G = D.synonym_groups -%}
+<h2 id="synonyms" class="ni-syn-title">异名归并：按接受名（接收名）归并 <span class="ni-syn-title-alt" lang="en">Synonyms grouped by their accepted name</span></h2>
+<p class="ni-syn-lead">外部库在「名称差异」里把本站名当作异名时，会同时给出它认为的接受名（接收名）。下面把散在多条记录里的异名按接收名归并：共 <b>{{ C.synonym_groups }}</b> 个接收名、<b>{{ C.synonym_pairs }}</b> 对「异名 → 接收名」（对应表中的 {{ C.by_group.conflict }} 条名称差异，涉及本站 {{ C.conflict_species }} 个名字）；其中 <b>{{ C.synonym_groups_in_site }}</b> 个接收名本名录也另行收录，需要人工判断是否合并。</p>
+{%- if G %}
+<div class="ni-table-wrap ni-syn-wrap">
+<table class="ni-table ni-syn-table">
+<thead><tr><th scope="col">接受名（接收名）</th><th scope="col">本名录中的对应记录</th><th scope="col">外部库归入该接收名的异名</th></tr></thead>
+<tbody>
+{%- for g in G %}
+<tr>
+<td class="ni-syn-acc"><i>{{ g.accepted }}</i>{%- for l in g.accepted_links %} <a class="ni-syn-ext" href="{{ l.url }}" rel="noopener external" target="_blank" title="外部库中的接受名记录">{%- if l.source == 'gbif' -%}GBIF{%- elsif l.source == 'col' -%}CoL{%- else -%}BSF{%- endif -%}</a>{%- endfor %}</td>
+<td class="ni-syn-site">{%- if g.accepted_slug -%}<a href="{{ site.base_url }}/species/{{ g.accepted_slug }}/">{{ g.accepted_zh }}<i>{{ g.accepted_latin }}</i></a> <span class="ni-insite">本站另有收录</span>{%- else -%}<span class="ni-syn-none">本名录未收录</span>{%- endif -%}</td>
+<td class="ni-syn-item"><ul class="ni-syn-list">{%- for s in g.synonyms -%}<li><a href="{{ site.base_url }}/species/{{ s.slug }}/">{{ s.zh }}<i>{{ s.latin }}</i></a> <span class="ni-syn-src">{%- for src in s.sources -%}{%- if src == 'gbif' -%}GBIF{%- elsif src == 'col' -%}CoL{%- else -%}BSF{%- endif -%}{%- unless forloop.last %} · {% endunless -%}{%- endfor -%}</span>{%- if s.match %} <span class="ni-syn-match">{{ s.match }}{% if s.confidence %} · {{ s.confidence }}%{% endif %}</span>{%- endif -%}</li>{%- endfor -%}</ul></td>
+</tr>
+{%- endfor %}
+</tbody>
+</table>
+</div>
+<p class="ni-syn-foot">这里只记录「外部库把谁当作谁的异名」这层对应关系：本名录仍把这些名字各自单列（<strong>不改动站内分类数据</strong>），是否合并以原始文献与本站采用的分类系统为准。物种页「其他数据库」区块也会在对应接受名的页面上列出这些异名。</p>
+{%- endif %}
+<p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>下载完整清单 CSV（{{ C.total }} 条）</a> · <a href="{{ site.base_url }}/downloads/isoptera-synonym-groups.csv" download>异名归并长表 CSV（{{ C.synonym_pairs }} 行）</a> · 程序化访问：<code>{{ site.base_url }}/data/name-issues.json</code></p>
+<p class="ni-note-foot">数据来源缓存：GBIF / Catalogue of Life 生成于 {{ D.meta.cache_dates.authority | slice: 0, 10 }}，Blattodea Species File 生成于 {{ D.meta.cache_dates.bsf | slice: 0, 10 }}。BSF 已人工核对 {{ C.bsf_verified }} / {{ C.species_total }} 条，标「自动匹配」的条目仅供参考；本页由 <code>.github/workflows/build_name_issues.py</code> 从仓库缓存生成（含按接受名归并的异名表），随名录更新自动重建。权威库条目以对方网站当前显示为准。</p>
 <script src="{{ site.base_url }}/assets/name-issues.js?v={{ site.time | date: '%s' }}" defer></script>

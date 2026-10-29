@@ -250,6 +250,12 @@ a{color:var(--accent)}
 .authority-conflict strong{color:var(--earth)}
 .authority-conflict p{margin:.35em 0}
 .authority-policy{font-size:.85em;color:var(--muted)}
+.authority-incoming{margin:1em 0 0;padding:10px 14px;background:var(--accent-softer);border-left:3px solid var(--accent);border-radius:var(--radius-sm);font-size:.93em}
+.authority-incoming strong{color:var(--accent-strong)}
+.authority-incoming ul{margin:.4em 0 .2em;padding-left:1.2em}
+.authority-incoming li{margin:.15em 0;line-height:1.6}
+.authority-incoming li i{font-family:var(--font-serif);font-style:italic}
+.authority-incoming .authority-detail{margin-left:6px}
 .authority-meta{margin:1.1em 0 0;font-size:.78em;color:var(--muted);line-height:1.65}
 @media (max-width:640px){.authority-source{min-width:0;flex-basis:100%}}
 
@@ -306,7 +312,31 @@ a{color:var(--accent)}
 .ni-download{margin:1.4em 0 .4em;font-size:.9em}
 .ni-note-foot{font-size:.82em;color:var(--muted);line-height:1.7;max-width:900px}
 .ni-noscript{font-size:.9em;color:var(--earth);background:var(--earth-soft);padding:8px 12px;border-radius:var(--radius-sm)}
-@media (max-width:720px){.ni-field input{min-width:0;width:100%}.ni-field{flex:1 1 100%}.ni-table{font-size:.82em}.ni-table .ni-note{max-width:200px}}
+/* 站内另有收录：外部库给出的接受名在本名录也有一条记录（可点进物种页） */
+.ni-insite{display:inline-block;margin-left:6px;font-size:.76em;padding:0 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent-strong);white-space:nowrap}
+/* 异名归并：按接受名（接收名）把名称差异分组 */
+.ni-syn-title{margin:2.4em 0 .4em;line-height:1.4;scroll-margin-top:5em}
+.ni-syn-title-alt{display:block;font-size:.58em;font-weight:400;color:var(--muted);margin-top:.2em}
+.ni-syn-lead{max-width:900px;color:var(--ink);line-height:1.75}
+.ni-syn-wrap{margin:.9em 0 0}
+.ni-syn-table .ni-syn-acc{min-width:210px;font-family:var(--font-serif);overflow-wrap:anywhere}
+.ni-syn-table .ni-syn-acc i{font-style:italic;color:var(--ink)}
+.ni-syn-ext{display:inline-block;margin-left:5px;font-size:.78em;font-weight:600;color:var(--accent-strong);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:0 6px}
+.ni-syn-ext:hover{border-color:var(--accent);background:var(--accent-softer)}
+.ni-syn-table .ni-syn-site{min-width:170px}
+.ni-syn-table .ni-syn-site a{color:var(--ink);text-decoration:none}
+.ni-syn-table .ni-syn-site a:hover{color:var(--accent-strong);text-decoration:underline}
+.ni-syn-table .ni-syn-site i{display:block;font-family:var(--font-serif);font-style:italic;color:var(--muted);font-size:.92em;margin-top:2px}
+.ni-syn-none{color:var(--muted);font-size:.92em}
+.ni-syn-list{margin:0;padding:0;list-style:none}
+.ni-syn-list li{margin:.1em 0;line-height:1.6}
+.ni-syn-list a{color:var(--ink);text-decoration:none}
+.ni-syn-list a:hover{color:var(--accent-strong);text-decoration:underline}
+.ni-syn-list i{font-family:var(--font-serif);font-style:italic;color:var(--muted);margin-left:6px;font-size:.95em}
+.ni-syn-src{font-size:.8em;font-weight:600;color:var(--accent-strong);margin-left:4px}
+.ni-syn-match{font-size:.8em;color:var(--muted);font-variant-numeric:tabular-nums;margin-left:4px}
+.ni-syn-foot{max-width:900px;margin:.7em 0 1.2em;font-size:.84em;color:var(--muted);line-height:1.7}
+@media (max-width:720px){.ni-field input{min-width:0;width:100%}.ni-field{flex:1 1 100%}.ni-table{font-size:.82em}.ni-table .ni-note{max-width:200px}.ni-syn-table .ni-syn-acc,.ni-syn-table .ni-syn-site{min-width:0}.ni-syn-table .ni-syn-site i{display:inline;margin-left:4px}}
 @media print{.ni-controls,.ni-pager,.ni-download,.ni-noscript{display:none!important}.ni-table tbody tr[hidden]{display:table-row!important}}
 .authority-board-link{margin:1em 0 0;font-size:.92em}
 .authority-board-link a{color:var(--accent-strong);font-weight:600}
@@ -393,7 +423,7 @@ body.search-overlay-open{overflow:hidden}
   thead{display:table-header-group}
   .ni-table thead th{position:static!important;background:#efefef!important;color:#000!important;white-space:normal}
   .ni-table-wrap{overflow:visible!important;border:1px solid #9a9a9a}
-  tr,img,.taxa-illustration,.species-fact,.species-authority,.cl-version,.ni-table tr,.refs-item{page-break-inside:avoid;break-inside:avoid}
+  tr,img,.taxa-illustration,.species-fact,.species-authority,.cl-version,.ni-table tr,.ni-syn-title,.ni-syn-foot,.authority-incoming,.refs-item{page-break-inside:avoid;break-inside:avoid}
   h1,h2,h3,h4,h5,h6{page-break-after:avoid;break-after:avoid;color:#000}
   .is-list-page .content h3,.is-list-page .content h5{page-break-after:avoid;break-after:avoid;page-break-inside:avoid}
   p{orphans:3;widows:3}

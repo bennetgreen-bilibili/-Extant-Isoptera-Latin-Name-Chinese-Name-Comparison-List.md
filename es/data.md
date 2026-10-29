@@ -75,7 +75,7 @@ permalink: /es/data/
 
 <ul>
   <li><a href="{{ site.base_url }}/search-index.json"><code>search-index.json</code></a> — índice de búsqueda del listado (pinyin / chino tradicional / sinónimos, con el campo de familia; generado por <code>build_search_index.py</code>)</li>
-  <li><a href="{{ site.base_url }}/data/name-issues.json"><code>data/name-issues.json</code></a> — discrepancias de nombres y cola de revisión (tipo de incidencia, enlaces a registros externos, confianza del cotejo; también en <a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv">CSV</a>)</li>
+  <li><a href="{{ site.base_url }}/data/name-issues.json"><code>data/name-issues.json</code></a> — discrepancias de nombres y cola de revisión (tipo de incidencia, enlaces a registros externos, confianza del cotejo; <code>synonym_groups</code> + <code>synonyms_by_slug</code> reagrupan cada sinónimo bajo el nombre aceptado que da la base externa y lo enlazan con nuestras páginas de especie; también en <a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv">CSV</a> y en una <a href="{{ site.base_url }}/downloads/isoptera-synonym-groups.csv">tabla larga sinónimo→aceptado</a>)</li>
   <li><a href="{{ site.base_url }}/sitemap.txt">sitemap.txt</a> — todas las URL del sitio, una por línea</li>
   <li>Suscripción: <a href="{{ site.base_url }}/feed.xml">feed.xml (Atom)</a> · <a href="{{ site.base_url }}/feed.json">feed.json (JSON Feed)</a> · <a href="{{ site.base_url }}/changelog.atom">changelog.atom (historial de versiones)</a></li>
   <li>Descubrimiento de búsqueda: <a href="{{ site.base_url }}/opensearch.xml">opensearch.xml</a> (añadir el sitio como buscador del navegador; URL de consulta <code>/search/?q=…</code>)</li>

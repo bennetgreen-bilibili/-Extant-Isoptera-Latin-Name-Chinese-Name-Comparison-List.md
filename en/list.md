@@ -34,7 +34,7 @@ Below follow **Family** → **Subfamily** → **Genus** → **Species**; the fam
 
 <p class="search-hint">Pinyin (e.g. <code>baiyi</code>) and traditional Chinese are both supported. For anything beyond the checklist (blog posts, species pages), see <a href="{{ site.base_url }}/en/search/">full-site search</a>.</p>
 
-<p class="search-hint search-hint-board">Cross-checks against GBIF / Catalogue of Life / Blattodea Species File flag <strong>{{ site.data.name_issues.meta.counts.total }}</strong> rows that need a human decision ({{ site.data.name_issues.meta.counts.by_group.conflict }} name conflicts · {{ site.data.name_issues.meta.counts.by_group.match }} uncertain · {{ site.data.name_issues.meta.counts.by_group.gap }} coverage gaps): <a href="{{ site.base_url }}/en/list/name-issues/"><strong>name discrepancies →</strong></a></p>
+<p class="search-hint search-hint-board">Cross-checks against GBIF / Catalogue of Life / Blattodea Species File flag <strong>{{ site.data.name_issues.meta.counts.total }}</strong> rows that need a human decision ({{ site.data.name_issues.meta.counts.by_group.conflict }} name conflicts → {{ site.data.name_issues.meta.counts.synonym_groups }} accepted names · {{ site.data.name_issues.meta.counts.by_group.match }} uncertain · {{ site.data.name_issues.meta.counts.by_group.gap }} coverage gaps): <a href="{{ site.base_url }}/en/list/name-issues/"><strong>name discrepancies →</strong></a></p>
 
 {% include distribution-notes.html %}
 

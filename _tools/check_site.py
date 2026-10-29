@@ -13,7 +13,8 @@
   8. 批次计数一致：_species 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数 = 名录物种链接数
   9. sitemap.txt 无重复、URL 以 base_url 开头、收录 /list/name-issues/ 三语页面
  10. _data/i18n.yml 三语 key 集合一致
- 11. 命名差异看板产物自洽（条数、CSV 列数、公开副本与 _data 副本一致）
+ 11. 命名差异看板产物自洽（条数、CSV 列数、公开副本与 _data 副本一致、
+     「异名按接受名归并」的分组计数与反查索引一致、外链 URL 不含空白/引号/锚点残渣）
  12. 订阅源与版本记录齐备：feed.xml / feed.json / opensearch.xml / changelog.atom、
      三语 /changelog/ 页面；sitemap.txt 收录版本记录页但不收录订阅源（只收 HTML 页面）
  13. 全局搜索浮层（#search-overlay）初始 hidden 且样式里有 [hidden] 兜底，
@@ -49,6 +50,10 @@ METADATA = ROOT / "dataset" / "metadata.json"
 NAME_ISSUES = ROOT / "_data" / "name_issues.json"
 NAME_ISSUES_PUBLIC = ROOT / "data" / "name-issues.json"
 NAME_ISSUES_CSV = ROOT / "downloads" / "isoptera-name-issues.csv"
+NAME_SYN_CSV = ROOT / "downloads" / "isoptera-synonym-groups.csv"
+# 外链必须是干净的绝对 URL：行尾注释、HTML 引号或 <...> 占位符被拼进来时，
+# 页面上「异名 / 接受名」的链接会指向坏地址，甚至提前闭合标签把整格 HTML 弄坏。
+BAD_URL_RE = re.compile(r"[\s\"'<>]|#")
 OCCURRENCE = ROOT / "_data" / "occurrence_summary.json"
 I18N = ROOT / "_data" / "i18n.yml"
 CHANGELOG_DATA = ROOT / "_data" / "changelog.json"
@@ -328,8 +333,13 @@ def check_i18n() -> None:
             err("_data/i18n.yml", "%s 与 %s 的 key 不一致：缺少 %s、多出 %s" % (langs[0], lang, missing[:5], extra[:5]))
 
 
+def check_name_issue_urls(where: str, url: str) -> None:
+    if url and BAD_URL_RE.search(url):
+        err(where, "外链 URL 不干净（疑似把 _config.yml 行尾注释拼进链接）：" + url[:120])
+
+
 def check_name_issues() -> None:
-    for path in (NAME_ISSUES, NAME_ISSUES_PUBLIC, NAME_ISSUES_CSV):
+    for path in (NAME_ISSUES, NAME_ISSUES_PUBLIC, NAME_ISSUES_CSV, NAME_SYN_CSV):
         if not path.is_file():
             err(path.relative_to(ROOT).as_posix(), "文件不存在（运行 .github/workflows/build_name_issues.py --write）")
             return
@@ -346,11 +356,72 @@ def check_name_issues() -> None:
         if not row.get("latin") or not row.get("source") or not row.get("group") or not row.get("kind"):
             err("_data/name_issues.json", "条目缺少必要字段：" + str(row)[:120])
             break
+        check_name_issue_urls("_data/name_issues.json", row.get("url") or "")
+        check_name_issue_urls("_data/name_issues.json", row.get("accepted_url") or "")
+        if row.get("accepted") and not row.get("accepted_latin"):
+            err("_data/name_issues.json", "有接受名却没有 accepted_latin（异名没记录到接收名下面）：" + row["latin"])
+            break
+        if row.get("accepted_slug") and not (SPECIES_DIR / (row["accepted_slug"] + ".md")).is_file():
+            err("_data/name_issues.json", "accepted_slug 找不到对应物种页：" + row["accepted_slug"])
+            break
     if read(NAME_ISSUES) != read(NAME_ISSUES_PUBLIC):
         err("data/name-issues.json", "公开副本与 _data/name_issues.json 不一致")
     header = read(NAME_ISSUES_CSV).splitlines()[0]
     if len(header.split(",")) != 17:
         err("downloads/isoptera-name-issues.csv", "表头列数为 %d，应为 17" % len(header.split(",")))
+    syn_header = read(NAME_SYN_CSV).splitlines()[0]
+    if len(syn_header.split(",")) != 14:
+        err("downloads/isoptera-synonym-groups.csv", "表头列数为 %d，应为 14" % len(syn_header.split(",")))
+
+    # 异名按接受名（接收名）归并：分组计数、逐条对应关系、反查索引三者必须自洽
+    counts = meta.get("counts") or {}
+    groups = data.get("synonym_groups") or []
+    by_slug = data.get("synonyms_by_slug") or {}
+    conflicts = [row for row in issues if row.get("group") == "conflict"]
+    if counts.get("synonym_groups") != len(groups):
+        err("_data/name_issues.json", "counts.synonym_groups=%s 与 synonym_groups 组数 %d 不一致"
+            % (counts.get("synonym_groups"), len(groups)))
+    pairs = 0
+    in_site = 0
+    group_slugs = set()
+    for group in groups:
+        if not group.get("accepted") or not group.get("accepted_latin") or not group.get("synonyms"):
+            err("_data/name_issues.json", "异名归并组缺少接受名或异名：" + str(group)[:120])
+            break
+        for link in group.get("accepted_links") or []:
+            check_name_issue_urls("_data/name_issues.json", link.get("url") or "")
+        for synonym in group["synonyms"]:
+            pairs += 1
+            if not synonym.get("latin") or not synonym.get("sources"):
+                err("_data/name_issues.json", "异名归并组内的异名缺少学名或来源：" + str(synonym)[:120])
+                break
+            for link in synonym.get("links") or []:
+                check_name_issue_urls("_data/name_issues.json", link.get("url") or "")
+        if group.get("accepted_slug"):
+            in_site += 1
+            group_slugs.add(group["accepted_slug"])
+            if group["accepted_slug"] not in by_slug:
+                err("_data/name_issues.json", "synonyms_by_slug 缺少已收录接受名：" + group["accepted_slug"])
+                break
+            if not (SPECIES_DIR / (group["accepted_slug"] + ".md")).is_file():
+                err("_data/name_issues.json", "异名归并组的 accepted_slug 找不到物种页：" + group["accepted_slug"])
+                break
+    if counts.get("synonym_pairs") != pairs:
+        err("_data/name_issues.json", "counts.synonym_pairs=%s 与分组内异名对数 %d 不一致"
+            % (counts.get("synonym_pairs"), pairs))
+    if counts.get("synonym_groups_in_site") != in_site:
+        err("_data/name_issues.json", "counts.synonym_groups_in_site=%s 与已收录接受名组数 %d 不一致"
+            % (counts.get("synonym_groups_in_site"), in_site))
+    if set(by_slug) != group_slugs:
+        err("_data/name_issues.json", "synonyms_by_slug 与已收录接受名不一致：%s != %s"
+            % (sorted(set(by_slug))[:3], sorted(group_slugs)[:3]))
+    grouped = {row.get("accepted_latin") for row in conflicts if row.get("accepted_latin")}
+    group_names = {group.get("accepted_latin") for group in groups}
+    if grouped != group_names:
+        err("_data/name_issues.json", "名称差异的接受名与异名归并组不一致：%s"
+            % sorted(grouped.symmetric_difference(group_names))[:3])
+    if conflicts and not groups:
+        err("_data/name_issues.json", "有名称差异条目却没有生成异名归并组")
 
 
 def check_search_overlay() -> None:

@@ -14,14 +14,14 @@ pagefind: true
 {%- assign C = D.meta.counts -%}
 <nav class="ni-crumbs" aria-label="Migas de pan"><a href="{{ site.base_url }}/es/">Inicio</a> › <a href="{{ site.base_url }}/es/list/">Listado</a> › Discrepancias</nav>
 <h1 class="ni-title">Discrepancias de nombres y cola de revisión<span class="ni-title-alt" lang="zh-CN">命名差异与待核对</span></h1>
-<p class="ni-lead">Esta página convierte los resultados de cotejo ya almacenados en caché entre esta lista y tres autoridades externas — GBIF Backbone, Catalogue of Life (ChecklistBank) y Blattodea Species File (BSF) — en una lista filtrable. Solo se muestran las entradas que requieren atención humana: <b>{{ C.total }}</b> filas que afectan a <b>{{ C.species_with_issue }}</b> especies/subespecies de {{ C.species_total }} registros. <strong>Aquí no se modifica ningún dato de la lista</strong>; las reglas de cotejo están en la <a href="{{ site.base_url }}/es/data/">página de datos</a>.</p>
+<p class="ni-lead">Esta página convierte los resultados de cotejo ya almacenados en caché entre esta lista y tres autoridades externas — GBIF Backbone, Catalogue of Life (ChecklistBank) y Blattodea Species File (BSF) — en una lista filtrable. Solo se muestran las entradas que requieren atención humana: <b>{{ C.total }}</b> filas que afectan a <b>{{ C.species_with_issue }}</b> especies/subespecies de {{ C.species_total }} registros. Los sinónimos de cada conflicto de nombre se reagrupan además bajo el <strong>nombre aceptado</strong> que da la base externa (<a href="#synonyms">sinónimos agrupados por nombre aceptado</a>): <b>{{ C.synonym_groups }}</b> nombres aceptados, <b>{{ C.synonym_pairs }}</b> pares sinónimo→aceptado, y <b>{{ C.synonym_groups_in_site }}</b> de esos nombres aceptados también figuran por separado en esta lista. <strong>Aquí no se modifica ningún dato de la lista</strong>; las reglas de cotejo están en la <a href="{{ site.base_url }}/es/data/">página de datos</a>.</p>
 <div class="ni-legend"><span><span class="ni-badge is-conflict">Conflicto de nombre</span>la base externa trata nuestro nombre como sinónimo y da su nombre aceptado: hay que decidir si renombrar, anotar o mantener.</span><span><span class="ni-badge is-match">Coincidencia incierta</span>coincidencia difusa o varias OTU candidatas con el mismo nombre, de modo que el script no puede decidir.</span><span><span class="ni-badge is-gap">Vacíos de cobertura</span>solo coincidió un rango superior, el nombre no figura o no se encuentra en BSF: afecta a los enlaces cruzados.</span></div>
-<div class="ni-summary"><span class="ni-stat"><b>{{ C.total }}</b> filas por revisar</span><span class="ni-stat"><b>{{ C.by_group.conflict }}</b> conflictos</span><span class="ni-stat"><b>{{ C.by_group.match }}</b> inciertas</span><span class="ni-stat"><b>{{ C.by_group.gap }}</b> vacíos</span><span class="ni-stat"><b>{{ C.species_with_issue }}</b> taxones implicados</span><span class="ni-stat">BSF verificadas a mano: <b>{{ C.bsf_verified }}</b></span></div>
+<div class="ni-summary"><span class="ni-stat"><b>{{ C.total }}</b> filas por revisar</span><span class="ni-stat"><b>{{ C.by_group.conflict }}</b> conflictos → {{ C.synonym_groups }} nombres aceptados</span><span class="ni-stat"><b>{{ C.synonym_groups_in_site }}</b> aceptados también en la lista</span><span class="ni-stat"><b>{{ C.by_group.match }}</b> inciertas</span><span class="ni-stat"><b>{{ C.by_group.gap }}</b> vacíos</span><span class="ni-stat"><b>{{ C.species_with_issue }}</b> taxones implicados</span><span class="ni-stat">BSF verificadas a mano: <b>{{ C.bsf_verified }}</b></span></div>
 <div class="ni-app" id="ni-root" data-page-size="50" data-text-range="Filas {a}–{b} de {t}" data-text-page="Página {p} / {pages}" data-text-empty="No hay filas que coincidan; pruebe a limpiar los filtros.">
 <div class="ni-controls">
 <div class="ni-filters" role="group" aria-label="Filtrar por tipo">
 <button type="button" class="ni-chip is-active" data-group="all" aria-pressed="true">Todas {{ C.total }}</button>
-<button type="button" class="ni-chip" data-group="conflict" aria-pressed="false">Conflictos {{ C.by_group.conflict }}</button>
+<button type="button" class="ni-chip" data-group="conflict" aria-pressed="false">Conflictos {{ C.by_group.conflict }} ({{ C.synonym_groups }} aceptados)</button>
 <button type="button" class="ni-chip" data-group="match" aria-pressed="false">Inciertas {{ C.by_group.match }}</button>
 <button type="button" class="ni-chip" data-group="gap" aria-pressed="false">Vacíos {{ C.by_group.gap }}</button>
 </div>
@@ -40,7 +40,7 @@ pagefind: true
 <td class="ni-family">{{ it.family_latin }}</td>
 <td class="ni-src">{%- if it.source == 'gbif' -%}GBIF{%- elsif it.source == 'col' -%}CoL{%- else -%}BSF{%- endif -%}</td>
 <td class="ni-kind"><span class="ni-badge is-{{ it.group }}">{%- if it.kind == 'synonym' -%}sinónimo{%- elsif it.kind == 'higherrank' -%}solo rango superior{%- elsif it.kind == 'missing' -%}no figura{%- elsif it.kind == 'fuzzy' -%}coincidencia difusa{%- else -%}coincidencia ambigua{%- endif -%}</span></td>
-<td class="ni-ext">{%- if it.url -%}<a href="{{ it.url }}" rel="noopener external" target="_blank"><i>{{ it.theirs }}</i></a>{%- elsif it.theirs -%}<i>{{ it.theirs }}</i>{%- else -%}—{%- endif -%}{%- if it.accepted -%}<span class="ni-accepted">nombre aceptado {%- if it.accepted_url %} <a href="{{ it.accepted_url }}" rel="noopener external" target="_blank"><i>{{ it.accepted }}</i></a>{%- else %} <i>{{ it.accepted }}</i>{%- endif -%}</span>{%- endif -%}</td>
+<td class="ni-ext">{%- if it.url -%}<a href="{{ it.url }}" rel="noopener external" target="_blank"><i>{{ it.theirs }}</i></a>{%- elsif it.theirs -%}<i>{{ it.theirs }}</i>{%- else -%}—{%- endif -%}{%- if it.accepted -%}<span class="ni-accepted">nombre aceptado {%- if it.accepted_slug %} <a href="{{ site.base_url }}/species/{{ it.accepted_slug }}/" title="también figura en esta lista"><i>{{ it.accepted }}</i></a><span class="ni-insite">también en la lista</span>{%- elsif it.accepted_url %} <a href="{{ it.accepted_url }}" rel="noopener external" target="_blank"><i>{{ it.accepted }}</i></a>{%- else %} <i>{{ it.accepted }}</i>{%- endif -%}</span>{%- endif -%}</td>
 <td class="ni-match">{%- if it.match -%}<span class="ni-match-type">{{ it.match }}</span>{%- if it.confidence %} · {{ it.confidence }}%{%- endif -%}{%- endif -%}{%- if it.verified %} <span class="ni-badge is-verified">verificada</span>{%- elsif it.source == 'bsf' %} <span class="ni-badge">automática</span>{%- endif -%}</td>
 <td class="ni-note">{%- if it.note -%}<span lang="zh-CN">{{ it.note }}</span>{%- else -%}—{%- endif -%}</td>
 </tr>
@@ -49,9 +49,30 @@ pagefind: true
 </table>
 </div>
 <p class="ni-empty" id="ni-empty" hidden>No hay filas que coincidan; pruebe a limpiar los filtros.</p>
-<div class="ni-pager" id="ni-pager"><button type="button" id="ni-prev">‹ Anterior</button><span id="ni-pageinfo" aria-current="true">Página 1 / 7</span><button type="button" id="ni-next">Siguiente ›</button></div>
+{%- assign ni_pages = C.total | plus: 49 | divided_by: 50 -%}
+<div class="ni-pager" id="ni-pager"><button type="button" id="ni-prev">‹ Anterior</button><span id="ni-pageinfo" aria-current="true">Página 1 / {{ ni_pages }}</span><button type="button" id="ni-next">Siguiente ›</button></div>
 </div>
 <noscript><p class="ni-noscript">Sin JavaScript esta página muestra las {{ C.total }} filas de una vez, sin filtros ni paginación.</p></noscript>
-<p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>Descargar la lista completa en CSV ({{ C.total }} filas)</a> · copia legible por máquina: <code>{{ site.base_url }}/data/name-issues.json</code></p>
-<p class="ni-note-foot">Fechas de caché: GBIF / Catalogue of Life {{ D.meta.cache_dates.authority | slice: 0, 10 }}; Blattodea Species File {{ D.meta.cache_dates.bsf | slice: 0, 10 }}. Las filas «automática» no han sido revisadas a mano ({{ C.bsf_verified }} de {{ C.species_total }} verificadas). Esta página se genera desde las cachés del repositorio con <code>.github/workflows/build_name_issues.py</code> y se reconstruye cada vez que se actualiza la lista; los registros externos son los que muestran esas bases en cada momento.</p>
+{%- assign G = D.synonym_groups -%}
+<h2 id="synonyms" class="ni-syn-title">Sinónimos agrupados por su nombre aceptado <span class="ni-syn-title-alt" lang="zh-CN">异名归并：按接受名（接收名）归并</span></h2>
+<p class="ni-syn-lead">Cuando una base externa trata un nombre de esta lista como sinónimo, también indica el nombre aceptado que usa en su lugar. Las filas siguientes reagrupan esos sinónimos bajo ese nombre aceptado: <b>{{ C.synonym_groups }}</b> nombres aceptados, <b>{{ C.synonym_pairs }}</b> pares sinónimo→aceptado (de {{ C.by_group.conflict }} filas de conflicto que afectan a {{ C.conflict_species }} nombres de esta lista). <b>{{ C.synonym_groups_in_site }}</b> de esos nombres aceptados también figuran por separado aquí, así que requieren una decisión de fusión.</p>
+{%- if G %}
+<div class="ni-table-wrap ni-syn-wrap">
+<table class="ni-table ni-syn-table">
+<thead><tr><th scope="col">Nombre aceptado</th><th scope="col">Registro en esta lista</th><th scope="col">Sinónimos atribuidos</th></tr></thead>
+<tbody>
+{%- for g in G %}
+<tr>
+<td class="ni-syn-acc"><i>{{ g.accepted }}</i>{%- for l in g.accepted_links %} <a class="ni-syn-ext" href="{{ l.url }}" rel="noopener external" target="_blank" title="registro del nombre aceptado en la base externa">{%- if l.source == 'gbif' -%}GBIF{%- elsif l.source == 'col' -%}CoL{%- else -%}BSF{%- endif -%}</a>{%- endfor %}</td>
+<td class="ni-syn-site">{%- if g.accepted_slug -%}<a href="{{ site.base_url }}/species/{{ g.accepted_slug }}/">{{ g.accepted_zh }}<i>{{ g.accepted_latin }}</i></a> <span class="ni-insite">también en la lista</span>{%- else -%}<span class="ni-syn-none">no figura en esta lista</span>{%- endif -%}</td>
+<td class="ni-syn-item"><ul class="ni-syn-list">{%- for s in g.synonyms -%}<li><a href="{{ site.base_url }}/species/{{ s.slug }}/">{{ s.zh }}<i>{{ s.latin }}</i></a> <span class="ni-syn-src">{%- for src in s.sources -%}{%- if src == 'gbif' -%}GBIF{%- elsif src == 'col' -%}CoL{%- else -%}BSF{%- endif -%}{%- unless forloop.last %} · {% endunless -%}{%- endfor -%}</span>{%- if s.match %} <span class="ni-syn-match">{{ s.match }}{% if s.confidence %} · {{ s.confidence }}%{% endif %}</span>{%- endif -%}</li>{%- endfor -%}</ul></td>
+</tr>
+{%- endfor %}
+</tbody>
+</table>
+</div>
+<p class="ni-syn-foot">Aquí solo se registra la relación sinónimo→aceptado que indican las bases externas: cada nombre conserva su propia fila (<strong>los datos de la lista no se modifican</strong>); la fusión es una decisión humana basada en la literatura original y en la clasificación aquí adoptada. La página de la especie aceptada que también figura en esta lista muestra los mismos sinónimos en su bloque «Otras bases de datos».</p>
+{%- endif %}
+<p class="ni-download"><a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv" download>Descargar la lista completa en CSV ({{ C.total }} filas)</a> · <a href="{{ site.base_url }}/downloads/isoptera-synonym-groups.csv" download>tabla larga sinónimo→aceptado ({{ C.synonym_pairs }} filas)</a> · copia legible por máquina: <code>{{ site.base_url }}/data/name-issues.json</code></p>
+<p class="ni-note-foot">Fechas de caché: GBIF / Catalogue of Life {{ D.meta.cache_dates.authority | slice: 0, 10 }}; Blattodea Species File {{ D.meta.cache_dates.bsf | slice: 0, 10 }}. Las filas «automática» no han sido revisadas a mano ({{ C.bsf_verified }} de {{ C.species_total }} verificadas). Esta página, incluida la tabla agrupada por nombre aceptado, se genera desde las cachés del repositorio con <code>.github/workflows/build_name_issues.py</code> y se reconstruye cada vez que se actualiza la lista; los registros externos son los que muestran esas bases en cada momento.</p>
 <script src="{{ site.base_url }}/assets/name-issues.js?v={{ site.time | date: '%s' }}" defer></script>

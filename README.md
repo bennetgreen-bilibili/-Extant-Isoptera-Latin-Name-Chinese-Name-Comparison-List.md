@@ -97,7 +97,7 @@
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
-| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、物种页「其他数据库」区块底部入口 |
+| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 异名按接受名归并） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-groups.csv`、物种页「其他数据库」区块（异名 → 接受名） |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
@@ -147,9 +147,10 @@
 
 - 位置：名录页（`/list/`）下一级，三语各一页；从名录页搜索框下方与每个物种页「其他数据库」区块底部进入。
 - 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 307 条，涉及 200 个种/亚种。
+- 异名归并（「把异名记录到对应的接收名下面」）：19 条名称差异按外部库给出的**接受名（接收名）**归并为 15 组（15 对「异名 → 接受名」，涉及本站 15 个名字），其中 3 个接受名本名录也另行收录（*Amitermes wheeleri* / *Coptotermes formosanus* / *Nasutitermes nigriceps*），页末「异名归并」表与物种页「其他数据库」区块都按接受名列出这些异名；同一份对应关系另有长表 `downloads/isoptera-synonym-groups.csv`（一行一对）。以上数字随权威库缓存刷新而变，页面与 `meta.counts` 为准。
 - 交互：按类型与来源筛选、关键词检索（拉丁名 / 中文名 / 外部名 / 科名）、每页 50 条分页，状态写进 URL（`?group=&source=&q=&page=`）可分享；无 JS 时展示全部条目。
-- 产物：`_data/name_issues.json`（页面用）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）。
-- 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；只整理缓存，不改动任何站内分类数据。
+- 产物：`_data/name_issues.json`（页面用；`synonym_groups` + `synonyms_by_slug` 为按接受名归并的异名）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）、`downloads/isoptera-synonym-groups.csv`（14 列异名归并长表）。
+- 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；只整理缓存，不改动任何站内分类数据。外链基址读 `_config.yml` 的 `external.*` 并去掉 YAML 行尾注释（否则「# + /<GBIF usageKey>」会被拼进 URL，页面上异名/接受名的链接会变成坏地址甚至破坏 HTML），`_tools/check_site.py` 也会校验产物里没有这类脏 URL。
 
 ### 外部数据的刷新与 CI
 - 全部缓存已提交进仓库，构建时不需要现场抓 3000+ 次 API。CI 在 Jekyll 构建前：① 离线校验各缓存（`--check` / `--verify`，坏 JSON 会立刻暴露但不阻断部署）；② 对权威库外链做一次 ≤120 秒的「过期条目」增量刷新（失败不阻断部署，部署版可能比仓库缓存新）。
