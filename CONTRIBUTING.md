@@ -36,6 +36,7 @@ python _tools/build_changelog.py --write
 ```
 
 - `--no-enrich` 是仓库内的基础版检索索引；部署时 CI 会装 pypinyin / OpenCC 再生成增强版，两者互不冲突。
+- 改动 `_species` front matter 的 `authority_synonym_*`（「依外部权威库补录的异名」）后，必须按上面的顺序重跑 `build_species_body.py`、`build_search_index.py`、`build_name_issues.py`（看板的「已补录」标记与检索命中都依赖这三步），`check_site.py` 会校验三者一致。
 - 外部 API 缓存类脚本（`build_authority_links.py`、`build_bsf_links.py`、`build_species_photos.py`、`build_references.py`、`build_occurrence_geojson.py`）**只在需要刷新缓存时**手动运行，不要无意义重跑。
 
 ## 提交前校验

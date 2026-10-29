@@ -97,7 +97,7 @@
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
-| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 异名按接受名归并） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-groups.csv`、物种页「其他数据库」区块（异名 → 接受名） |
+| 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 逐对关系/方向/补录） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-pairs.csv`、物种页「其他数据库」区块（incoming / outgoing） |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
@@ -147,10 +147,14 @@
 
 - 位置：名录页（`/list/`）下一级，三语各一页；从名录页搜索框下方与每个物种页「其他数据库」区块底部进入。
 - 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 307 条，涉及 200 个种/亚种。
-- 异名归并（「把异名记录到对应的接收名下面」）：19 条名称差异按外部库给出的**接受名（接收名）**归并为 15 组（15 对「异名 → 接受名」，涉及本站 15 个名字），其中 3 个接受名本名录也另行收录（*Amitermes wheeleri* / *Coptotermes formosanus* / *Nasutitermes nigriceps*），页末「异名归并」表与物种页「其他数据库」区块都按接受名列出这些异名；同一份对应关系另有长表 `downloads/isoptera-synonym-groups.csv`（一行一对）。以上数字随权威库缓存刷新而变，页面与 `meta.counts` 为准。
+- 逐对归并（「把异名记录到对应的接收名下面」）：19 条名称差异整理成 **15 对「本站名 ↔ 外部库主张的接受名」**（同一对多库只算一次），逐对判定两件事：
+  - **关系**：加词不同 = 「异名」4 对；同种异属（只是换了属）= 「组合差异」11 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
+  - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 15 对里：外部名为接收名 3 对、本站名为接收名 6 对、方向待定 6 对（10 对存在库间分歧）。
+  - 页末「名称差异逐对归并」表与 `downloads/isoptera-synonym-pairs.csv`（15 列）给出每对的关系、方向、各库判定与补录状态；物种页「其他数据库」区块按 incoming / outgoing 两侧列出（本种接收了哪些异名 / 外部库把本名放在哪个名字下）。数字随缓存刷新而变，页面与 `meta.counts` 为准。
+- **补录规则与现状（当前 1 对）**：只有「真异名 + 方向明确为外部库名为接收名 + 至少两库一致且无相反票」（`recordable`）才允许补录。目前补录 1 对：*Amitermes californicus* → *Amitermes wheeleri*（GBIF / CoL / BSF 一致视为异名）。落点是接受名 `_species/<slug>.md` front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`（来源代码 gbif/col/bsf，同一异名的多个来源用逗号），正文「次异名」一节因此在文献次异名之外多出一个**「依外部权威库补录的异名」**小节；`synonym_count` 保持原始文献口径不变，归档数据集 `dataset/` 仍是文献口径（补录只进站点页面与 `search-index.json`，检索按该异名能命中接受名）。看板数据里该对 `recorded: true`、`meta.counts.pairs_recorded = 1`，页面上标「已补录」；异名自己的物种页反向链接到接受名的「次异名」小节。***Coptotermes guizhouensis* → *C. formosanus*、*Nasutitermes dasyopsis* → *N. nigriceps* 因 GBIF 明确把它们标为 ACCEPTED（方向有分歧）已撤回补录**，只作提示。所有名字都保留独立记录；正式合并（删条目、改 3008 种计数）仍待人工判断。
 - 交互：按类型与来源筛选、关键词检索（拉丁名 / 中文名 / 外部名 / 科名）、每页 50 条分页，状态写进 URL（`?group=&source=&q=&page=`）可分享；无 JS 时展示全部条目。
-- 产物：`_data/name_issues.json`（页面用；`synonym_groups` + `synonyms_by_slug` 为按接受名归并的异名）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）、`downloads/isoptera-synonym-groups.csv`（14 列异名归并长表）。
-- 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；只整理缓存，不改动任何站内分类数据。外链基址读 `_config.yml` 的 `external.*` 并去掉 YAML 行尾注释（否则「# + /<GBIF usageKey>」会被拼进 URL，页面上异名/接受名的链接会变成坏地址甚至破坏 HTML），`_tools/check_site.py` 也会校验产物里没有这类脏 URL。
+- 产物：`_data/name_issues.json`（页面用；`synonym_pairs` = 逐对关系/方向/票数，`species_authority` = 物种页 incoming/outgoing 索引，`synonym_of_slug` = 已补录异名的反查）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）、`downloads/isoptera-synonym-pairs.csv`（15 列，一行一对）。
+- 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；脚本只整理缓存并**读取** `_species` 的 `authority_synonym_*` 判断哪些异名已补录，不改动任何站内分类数据（补录本身是直接编辑接受名的 front matter）。外链基址读 `_config.yml` 的 `external.*` 并去掉 YAML 行尾注释（否则「# + /<GBIF usageKey>」会被拼进 URL，页面上异名/接受名的链接会变成坏地址甚至破坏 HTML），`_tools/check_site.py` 也会校验产物里没有这类脏 URL。
 
 ### 外部数据的刷新与 CI
 - 全部缓存已提交进仓库，构建时不需要现场抓 3000+ 次 API。CI 在 Jekyll 构建前：① 离线校验各缓存（`--check` / `--verify`，坏 JSON 会立刻暴露但不阻断部署）；② 对权威库外链做一次 ≤120 秒的「过期条目」增量刷新（失败不阻断部署，部署版可能比仓库缓存新）。
@@ -217,13 +221,14 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。
 
 ## 物种页正文（自动生成）
-- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3071 条摘要句互不相同）。
+- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3071 条摘要句互不相同）。
 - 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
 - 手写多语言内容也放在标记外：正文直接写中文段落，非中文内容用 `lang` 标注，例如 `<div class="fact-es" lang="es">…</div>`、`<div class="fact-en" lang="en">…</div>`（`.fact-en` / `.fact-es` 为灰色小字样式，见 `assets/custom.css`）。自动生成的正文与章节标题目前只有中文；若要连正文一起三语，需要改 `build_species_body.py`（会重写 3071 页，属大改动）。
 - 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。
 - 用法：`python .github/workflows/build_species_body.py`（只统计、不写文件）、`--write`（写回 `_species/*.md`）、`--sample <slug>...`（打印生成结果）、`--check-idempotent`。
 - CI 中位于 `pages.yml` 的「Build species page bodies」步骤，在 Jekyll 构建前执行，保证数据变更后正文同步。
 - 生成内容完全来自仓库内已有字段，不做外部事实补全；分布、模式产地等地名沿用原始数据写法。
+- 「次异名」一节的结构：原始文献次异名（`synonyms` / `synonym_localities` / `synonym_count`）在前，编号列表；若 front matter 另有 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，再接一个「依外部权威库补录的异名」小节（项目符号列表，逐条给出模式产地与来源）。补录数据只影响该小节与检索索引，不改 `synonym_count`，因此 `dataset/` 归档仍是原始文献口径。
 
 ## 搜索引擎收录推送（IndexNow）
 - 根目录 `182d630ef67e7551ab41b920fcdba760.txt` 是 IndexNow 的 key 验证文件：文件名就是 key，内容也必须恰好是同一串 key。**不要改名、不要删、不要改内容**，否则 IndexNow 会拒收提交。

@@ -14,10 +14,13 @@
   9. sitemap.txt 无重复、URL 以 base_url 开头、收录 /list/name-issues/ 三语页面
  10. _data/i18n.yml 三语 key 集合一致
  11. 命名差异看板产物自洽（条数、CSV 列数、公开副本与 _data 副本一致、
-     「异名按接受名归并」的分组计数与反查索引一致、外链 URL 不含空白/引号/锚点残渣）
- 12. 订阅源与版本记录齐备：feed.xml / feed.json / opensearch.xml / changelog.atom、
+     「名称差异逐对归并」的关系/方向/接收名/补录计数与物种页索引一致、外链 URL 不含空白/引号/锚点残渣）
+ 12. 「依外部权威库补录的异名」链路一致：_species 的 authority_synonym_* 字段逐条对齐，
+     看板的 recorded 标记/计数/反查索引与物种页数据一致，且 search-index.json 能按异名命中；
+     之后条目编号顺延（原 12/13）
+ 13. 订阅源与版本记录齐备：feed.xml / feed.json / opensearch.xml / changelog.atom、
      三语 /changelog/ 页面；sitemap.txt 收录版本记录页但不收录订阅源（只收 HTML 页面）
- 13. 全局搜索浮层（#search-overlay）初始 hidden 且样式里有 [hidden] 兜底，
+ 14. 全局搜索浮层（#search-overlay）初始 hidden 且样式里有 [hidden] 兜底，
      不会一进页面就常显、关不掉把整站遮住
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
@@ -50,7 +53,7 @@ METADATA = ROOT / "dataset" / "metadata.json"
 NAME_ISSUES = ROOT / "_data" / "name_issues.json"
 NAME_ISSUES_PUBLIC = ROOT / "data" / "name-issues.json"
 NAME_ISSUES_CSV = ROOT / "downloads" / "isoptera-name-issues.csv"
-NAME_SYN_CSV = ROOT / "downloads" / "isoptera-synonym-groups.csv"
+NAME_SYN_CSV = ROOT / "downloads" / "isoptera-synonym-pairs.csv"
 # 外链必须是干净的绝对 URL：行尾注释、HTML 引号或 <...> 占位符被拼进来时，
 # 页面上「异名 / 接受名」的链接会指向坏地址，甚至提前闭合标签把整格 HTML 弄坏。
 BAD_URL_RE = re.compile(r"[\s\"'<>]|#")
@@ -178,6 +181,45 @@ def parse_front_matter(path: Path) -> dict:
     return fields
 
 
+AUTHORITY_SOURCE_CODES = {"gbif", "col", "bsf"}
+
+
+def check_authority_synonym_fields(path: Path, fields: dict) -> None:
+    """「依外部权威库补录的异名」：条数 / 模式产地 / 来源三个列表必须逐条对齐。
+
+    这些字段写在接受名的 _species 页里，是「把异名记录到对应的接收名下面」的落地数据；
+    条数对不上会让物种页渲染出错位的模式产地，也会让看板统计口径失真。
+    """
+    rel = path.relative_to(ROOT).as_posix()
+    names = [x for x in (fields.get("authority_synonyms") or "").split(";") if x.strip()]
+    if not names:
+        for key in ("authority_synonym_count", "authority_synonym_localities", "authority_synonym_sources"):
+            if fields.get(key):
+                err(rel, "有 " + key + " 却没有 authority_synonyms")
+                break
+        return
+    try:
+        count = int(fields.get("authority_synonym_count") or 0)
+    except ValueError:
+        count = -1
+    if count != len(names):
+        err(rel, "authority_synonym_count=%r 与 authority_synonyms 条数 %d 不一致"
+            % (fields.get("authority_synonym_count"), len(names)))
+    localities = [x for x in (fields.get("authority_synonym_localities") or "").split(";") if x.strip()]
+    if len(localities) != len(names):
+        err(rel, "authority_synonym_localities 条数 %d 与 authority_synonyms 条数 %d 不一致"
+            % (len(localities), len(names)))
+    sources = [x for x in (fields.get("authority_synonym_sources") or "").split(";") if x.strip()]
+    if len(sources) != len(names):
+        err(rel, "authority_synonym_sources 条数 %d 与 authority_synonyms 条数 %d 不一致"
+            % (len(sources), len(names)))
+    for value in sources:
+        for code in re.split(r"[,;]", value):
+            code = code.strip().lower()
+            if code and code not in AUTHORITY_SOURCE_CODES:
+                err(rel, "authority_synonym_sources 含未知来源代码：" + code)
+
+
 def check_species() -> tuple[dict, dict]:
     fields_by_slug = {}
     zh_names = {}
@@ -200,6 +242,7 @@ def check_species() -> tuple[dict, dict]:
             warn(path.relative_to(ROOT).as_posix(), "缺模式产地 type_locality")
         if not (fields.get("distribution_zh") or fields.get("distribution_en")):
             warn(path.relative_to(ROOT).as_posix(), "缺分布 distribution")
+        check_authority_synonym_fields(path, fields)
     dups = {k: v for k, v in zh_names.items() if len(v) > 1}
     for zh, slugs in sorted(dups.items()):
         warn("_species", "中文正名重复：%s（%s）" % (zh, "、".join(slugs)))
@@ -338,7 +381,7 @@ def check_name_issue_urls(where: str, url: str) -> None:
         err(where, "外链 URL 不干净（疑似把 _config.yml 行尾注释拼进链接）：" + url[:120])
 
 
-def check_name_issues() -> None:
+def check_name_issues(fields_by_slug: dict) -> None:
     for path in (NAME_ISSUES, NAME_ISSUES_PUBLIC, NAME_ISSUES_CSV, NAME_SYN_CSV):
         if not path.is_file():
             err(path.relative_to(ROOT).as_posix(), "文件不存在（运行 .github/workflows/build_name_issues.py --write）")
@@ -370,58 +413,136 @@ def check_name_issues() -> None:
     if len(header.split(",")) != 17:
         err("downloads/isoptera-name-issues.csv", "表头列数为 %d，应为 17" % len(header.split(",")))
     syn_header = read(NAME_SYN_CSV).splitlines()[0]
-    if len(syn_header.split(",")) != 14:
-        err("downloads/isoptera-synonym-groups.csv", "表头列数为 %d，应为 14" % len(syn_header.split(",")))
+    if len(syn_header.split(",")) != 15:
+        err("downloads/isoptera-synonym-pairs.csv", "表头列数为 %d，应为 15" % len(syn_header.split(",")))
 
-    # 异名按接受名（接收名）归并：分组计数、逐条对应关系、反查索引三者必须自洽
+    # 名称差异逐对归并：关系 / 方向 / 接收名 / 补录 必须与缓存和 _species 数据一致
     counts = meta.get("counts") or {}
-    groups = data.get("synonym_groups") or []
-    by_slug = data.get("synonyms_by_slug") or {}
+    pairs = data.get("synonym_pairs") or []
+    authority = data.get("species_authority") or {}
     conflicts = [row for row in issues if row.get("group") == "conflict"]
-    if counts.get("synonym_groups") != len(groups):
-        err("_data/name_issues.json", "counts.synonym_groups=%s 与 synonym_groups 组数 %d 不一致"
-            % (counts.get("synonym_groups"), len(groups)))
-    pairs = 0
-    in_site = 0
-    group_slugs = set()
-    for group in groups:
-        if not group.get("accepted") or not group.get("accepted_latin") or not group.get("synonyms"):
-            err("_data/name_issues.json", "异名归并组缺少接受名或异名：" + str(group)[:120])
+    if counts.get("conflict_pairs") != len(pairs):
+        err("_data/name_issues.json", "counts.conflict_pairs=%s 与 synonym_pairs 对数 %d 不一致"
+            % (counts.get("conflict_pairs"), len(pairs)))
+    if counts.get("conflict_species") != len({row.get("latin") for row in conflicts}):
+        err("_data/name_issues.json", "counts.conflict_species 与名称差异涉及的本站名个数不一致")
+    relation_total = {"synonym": 0, "combination": 0}
+    direction_total = {"external": 0, "site": 0, "disputed": 0}
+    recordable = recorded = disputed = 0
+    expected_reverse = {}
+    pair_keys = set()
+    for pair in pairs:
+        our, external = pair.get("our") or {}, pair.get("external") or {}
+        if not our.get("latin") or not external.get("latin") or not pair.get("sources"):
+            err("_data/name_issues.json", "名称差异对缺少本站名/外部名/来源：" + str(pair)[:120])
             break
-        for link in group.get("accepted_links") or []:
+        key = (our["latin"], external["latin"])
+        if key in pair_keys:
+            err("_data/name_issues.json", "名称差异对重复：%s ↔ %s" % key)
+        pair_keys.add(key)
+        for link in (pair.get("our_links") or []) + (pair.get("external_links") or []):
             check_name_issue_urls("_data/name_issues.json", link.get("url") or "")
-        for synonym in group["synonyms"]:
-            pairs += 1
-            if not synonym.get("latin") or not synonym.get("sources"):
-                err("_data/name_issues.json", "异名归并组内的异名缺少学名或来源：" + str(synonym)[:120])
-                break
-            for link in synonym.get("links") or []:
-                check_name_issue_urls("_data/name_issues.json", link.get("url") or "")
-        if group.get("accepted_slug"):
-            in_site += 1
-            group_slugs.add(group["accepted_slug"])
-            if group["accepted_slug"] not in by_slug:
-                err("_data/name_issues.json", "synonyms_by_slug 缺少已收录接受名：" + group["accepted_slug"])
-                break
-            if not (SPECIES_DIR / (group["accepted_slug"] + ".md")).is_file():
-                err("_data/name_issues.json", "异名归并组的 accepted_slug 找不到物种页：" + group["accepted_slug"])
-                break
-    if counts.get("synonym_pairs") != pairs:
-        err("_data/name_issues.json", "counts.synonym_pairs=%s 与分组内异名对数 %d 不一致"
-            % (counts.get("synonym_pairs"), pairs))
-    if counts.get("synonym_groups_in_site") != in_site:
-        err("_data/name_issues.json", "counts.synonym_groups_in_site=%s 与已收录接受名组数 %d 不一致"
-            % (counts.get("synonym_groups_in_site"), in_site))
-    if set(by_slug) != group_slugs:
-        err("_data/name_issues.json", "synonyms_by_slug 与已收录接受名不一致：%s != %s"
-            % (sorted(set(by_slug))[:3], sorted(group_slugs)[:3]))
-    grouped = {row.get("accepted_latin") for row in conflicts if row.get("accepted_latin")}
-    group_names = {group.get("accepted_latin") for group in groups}
-    if grouped != group_names:
-        err("_data/name_issues.json", "名称差异的接受名与异名归并组不一致：%s"
-            % sorted(grouped.symmetric_difference(group_names))[:3])
-    if conflicts and not groups:
-        err("_data/name_issues.json", "有名称差异条目却没有生成异名归并组")
+        relation, direction = pair.get("relation"), pair.get("direction")
+        if relation not in ("synonym", "combination"):
+            err("_data/name_issues.json", "未知关系类型：%r（%s）" % (relation, our["latin"]))
+            continue
+        if direction not in ("external", "site", "disputed"):
+            err("_data/name_issues.json", "未知方向：%r（%s）" % (direction, our["latin"]))
+            continue
+        relation_total[relation] += 1
+        direction_total[direction] += 1
+        receiving = pair.get("receiving") or {}
+        if direction == "external":
+            if receiving.get("latin") != external["latin"]:
+                err("_data/name_issues.json", "方向 external 的接收名应为外部接受名：%s" % our["latin"])
+        elif direction == "site":
+            if receiving.get("latin") != our["latin"] or not receiving.get("in_site"):
+                err("_data/name_issues.json", "方向 site 的接收名应为本站名：%s" % our["latin"])
+        elif receiving:
+            err("_data/name_issues.json", "方向待定的对不应有接收名：%s" % our["latin"])
+        if receiving.get("slug") and not (SPECIES_DIR / (receiving["slug"] + ".md")).is_file():
+            err("_data/name_issues.json", "接收名的 slug 找不到物种页：" + receiving["slug"])
+        if pair.get("disputed"):
+            disputed += 1
+        if pair.get("recordable"):
+            recordable += 1
+        if pair.get("recorded"):
+            recorded += 1
+            # 已补录必须方向明确、真异名，且真的写进了接受名物种页的 authority_synonyms
+            if direction != "external" or relation != "synonym":
+                err("_data/name_issues.json", "已补录的对必须是「真异名 + 外部库名为接收名」：%s" % our["latin"])
+            accepted_slug = receiving.get("slug")
+            accepted_fields = fields_by_slug.get(accepted_slug) if accepted_slug else None
+            accepted_auth = [
+                item.strip() for item in ((accepted_fields or {}).get("authority_synonyms") or "").split(";")
+                if item.strip()
+            ]
+            if not any(item == our["latin"] or item.startswith(our["latin"] + " ") for item in accepted_auth):
+                err("_data/name_issues.json",
+                    "标为已补录但接受名物种页的 authority_synonyms 里没有它：%s" % our["latin"])
+            if our.get("slug") and accepted_slug:
+                expected_reverse[our["slug"]] = accepted_slug
+    for name, actual in (("pairs_relation_synonym", relation_total["synonym"]),
+                         ("pairs_relation_combination", relation_total["combination"]),
+                         ("pairs_direction_external", direction_total["external"]),
+                         ("pairs_direction_site", direction_total["site"]),
+                         ("pairs_direction_disputed", direction_total["disputed"]),
+                         ("pairs_disputed", disputed), ("pairs_recordable", recordable),
+                         ("pairs_recorded", recorded)):
+        if counts.get(name) != actual:
+            err("_data/name_issues.json", "counts.%s=%s 与逐对统计 %d 不一致" % (name, counts.get(name), actual))
+    issue_pairs = {(row.get("latin"), row.get("accepted_latin")) for row in conflicts if row.get("accepted_latin")}
+    if issue_pairs != pair_keys:
+        err("_data/name_issues.json", "名称差异条目与 synonym_pairs 不是一一对应：%s"
+            % sorted(issue_pairs.symmetric_difference(pair_keys))[:3])
+    for row in conflicts:
+        pair = next((p for p in pairs
+                     if (p["our"]["latin"], p["external"]["latin"]) == (row.get("latin"), row.get("accepted_latin"))), None)
+        if pair and (row.get("relation"), row.get("direction"), bool(row.get("recorded"))) != (
+                pair["relation"], pair["direction"], bool(pair["recorded"])):
+            err("_data/name_issues.json", "条目的 relation/direction/recorded 与对不一致：%s" % row.get("latin"))
+            break
+
+    # 物种页索引（incoming / outgoing）必须与对一致、且 slug 都有对应物种页
+    expected_authority = {}
+    for pair in pairs:
+        if pair["direction"] == "external":
+            receiving = pair.get("receiving") or {}
+            slug = (receiving.get("slug") if receiving.get("in_site") else None)
+            if slug:
+                entry = expected_authority.setdefault(slug, {"incoming": set(), "outgoing": set()})
+                entry["incoming"].add(pair["our"]["latin"])
+        else:
+            entry = expected_authority.setdefault(pair["our"]["slug"], {"incoming": set(), "outgoing": set()})
+            entry["outgoing"].add(pair["external"]["latin"])
+    for slug, expected in expected_authority.items():
+        if not (SPECIES_DIR / (slug + ".md")).is_file():
+            err("_data/name_issues.json", "species_authority 的 slug 找不到物种页：" + slug)
+            continue
+        actual = authority.get(slug) or {}
+        incoming = {item.get("latin") for item in (actual.get("incoming") or [])}
+        outgoing = {item.get("latin") for item in (actual.get("outgoing") or [])}
+        if incoming != expected["incoming"] or outgoing != expected["outgoing"]:
+            err("_data/name_issues.json", "species_authority[%s] 与对不一致" % slug)
+    for slug in set(authority) - set(expected_authority):
+        err("_data/name_issues.json", "species_authority 多出条目：" + slug)
+
+    reverse = data.get("synonym_of_slug") or {}
+    reverse_map = {slug: rec.get("accepted_slug") for slug, rec in reverse.items()}
+    if reverse_map != expected_reverse:
+        err("_data/name_issues.json", "synonym_of_slug 与已补录对不一致：%s"
+            % sorted(set(reverse_map).symmetric_difference(expected_reverse))[:3])
+    if expected_reverse and SEARCH_INDEX.is_file():
+        entries = json.loads(read(SEARCH_INDEX))
+        by_page = {entry.get("p"): entry for entry in entries if entry.get("p")}
+        for pair in pairs:
+            if not pair.get("recorded"):
+                continue
+            slug = (pair.get("receiving") or {}).get("slug")
+            haystack = (by_page.get(slug) or {}).get("s") or ""
+            if pair["our"]["latin"] not in haystack:
+                err("search-index.json", "检索索引里 %s 没有记录异名 %s（名录搜索无法按次异名命中）"
+                    % (slug, pair["our"]["latin"]))
 
 
 def check_search_overlay() -> None:
@@ -549,7 +670,7 @@ def main() -> int:
     check_sitemap(base_url)
     check_feeds_and_changelog(base_url)
     check_i18n()
-    check_name_issues()
+    check_name_issues(fields_by_slug)
     check_search_overlay()
 
     if args.ci:

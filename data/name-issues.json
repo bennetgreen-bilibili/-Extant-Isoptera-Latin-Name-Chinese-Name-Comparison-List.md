@@ -30,9 +30,15 @@
    "species_with_issue": 200,
    "bsf_verified": 0,
    "conflict_species": 15,
-   "synonym_groups": 15,
-   "synonym_groups_in_site": 3,
-   "synonym_pairs": 15
+   "conflict_pairs": 15,
+   "pairs_relation_synonym": 4,
+   "pairs_relation_combination": 11,
+   "pairs_direction_external": 3,
+   "pairs_direction_site": 6,
+   "pairs_direction_disputed": 6,
+   "pairs_disputed": 10,
+   "pairs_recordable": 1,
+   "pairs_recorded": 1
   },
   "by_latin": {
    "Ahmaditermes dinghuensis": 1,
@@ -259,7 +265,13 @@
    "accepted_latin": "Coptotermes formosanus",
    "accepted_in_site": true,
    "accepted_slug": "coptotermes-formosanus",
-   "accepted_zh": "台湾乳白蚁"
+   "accepted_zh": "台湾乳白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Coptotermes formosanus"
   },
   {
    "latin": "Coptotermes guizhouensis",
@@ -282,7 +294,13 @@
    "accepted_latin": "Coptotermes formosanus",
    "accepted_in_site": true,
    "accepted_slug": "coptotermes-formosanus",
-   "accepted_zh": "台湾乳白蚁"
+   "accepted_zh": "台湾乳白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Coptotermes formosanus"
   },
   {
    "latin": "Amitermes californicus",
@@ -305,7 +323,13 @@
    "accepted_latin": "Amitermes wheeleri",
    "accepted_in_site": true,
    "accepted_slug": "amitermes-wheeleri",
-   "accepted_zh": "惠勒弓白蚁"
+   "accepted_zh": "惠勒弓白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": false,
+   "recordable": true,
+   "recorded": true,
+   "receiving_latin": "Amitermes wheeleri"
   },
   {
    "latin": "Amitermes californicus",
@@ -328,7 +352,13 @@
    "accepted_latin": "Amitermes wheeleri",
    "accepted_in_site": true,
    "accepted_slug": "amitermes-wheeleri",
-   "accepted_zh": "惠勒弓白蚁"
+   "accepted_zh": "惠勒弓白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": false,
+   "recordable": true,
+   "recorded": true,
+   "receiving_latin": "Amitermes wheeleri"
   },
   {
    "latin": "Amitermes californicus",
@@ -351,7 +381,13 @@
    "accepted_latin": "Amitermes wheeleri",
    "accepted_in_site": true,
    "accepted_slug": "amitermes-wheeleri",
-   "accepted_zh": "惠勒弓白蚁"
+   "accepted_zh": "惠勒弓白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": false,
+   "recordable": true,
+   "recorded": true,
+   "receiving_latin": "Amitermes wheeleri"
   },
   {
    "latin": "Grigiotermes hageni",
@@ -371,7 +407,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Anoplotermes hageni"
+   "accepted_latin": "Anoplotermes hageni",
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Grigiotermes hageni"
   },
   {
    "latin": "Mapinguaritermes grandidens",
@@ -391,7 +433,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Armitermes grandidens"
+   "accepted_latin": "Armitermes grandidens",
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Mapinguaritermes grandidens"
   },
   {
    "latin": "Megagnathotermes katangensis",
@@ -411,7 +459,13 @@
    "confidence": null,
    "verified": false,
    "note": "",
-   "accepted_latin": "Polyspathotermes katangensis"
+   "accepted_latin": "Polyspathotermes katangensis",
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": null
   },
   {
    "latin": "Nasutitermes dasyopsis",
@@ -434,7 +488,13 @@
    "accepted_latin": "Nasutitermes nigriceps",
    "accepted_in_site": true,
    "accepted_slug": "nasutitermes-nigriceps",
-   "accepted_zh": "黑头象白蚁"
+   "accepted_zh": "黑头象白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Nasutitermes nigriceps"
   },
   {
    "latin": "Nasutitermes dasyopsis",
@@ -457,7 +517,13 @@
    "accepted_latin": "Nasutitermes nigriceps",
    "accepted_in_site": true,
    "accepted_slug": "nasutitermes-nigriceps",
-   "accepted_zh": "黑头象白蚁"
+   "accepted_zh": "黑头象白蚁",
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Nasutitermes nigriceps"
   },
   {
    "latin": "Parvitermes bacchanalis",
@@ -477,7 +543,13 @@
    "confidence": null,
    "verified": false,
    "note": "",
-   "accepted_latin": "Obtusitermes bacchanalis"
+   "accepted_latin": "Obtusitermes bacchanalis",
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": null
   },
   {
    "latin": "Parvitermes mexicanus",
@@ -497,7 +569,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Nasutitermes mexicanus"
+   "accepted_latin": "Nasutitermes mexicanus",
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": null
   },
   {
    "latin": "Patawatermes nigripunctatus",
@@ -517,7 +595,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Anoplotermes nigripunctatus"
+   "accepted_latin": "Anoplotermes nigripunctatus",
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Patawatermes nigripunctatus"
   },
   {
    "latin": "Pericapritermes metatus",
@@ -537,7 +621,13 @@
    "confidence": null,
    "verified": false,
    "note": "",
-   "accepted_latin": "Pericapritermes appellans metata"
+   "accepted_latin": "Pericapritermes appellans metata",
+   "relation": "synonym",
+   "direction": "disputed",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": null
   },
   {
    "latin": "Rubeotermes jheringi",
@@ -557,7 +647,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Anoplotermes jheringi"
+   "accepted_latin": "Anoplotermes jheringi",
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Rubeotermes jheringi"
   },
   {
    "latin": "Ruptitermes franciscoi",
@@ -577,7 +673,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Anoplotermes franciscoi"
+   "accepted_latin": "Anoplotermes franciscoi",
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": null
   },
   {
    "latin": "Silvestritermes minutus",
@@ -597,7 +699,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Armitermes minutus"
+   "accepted_latin": "Armitermes minutus",
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Silvestritermes minutus"
   },
   {
    "latin": "Uncitermes teevani",
@@ -617,7 +725,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Armitermes teevani"
+   "accepted_latin": "Armitermes teevani",
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": "Uncitermes teevani"
   },
   {
    "latin": "Velocitermes aporeticus",
@@ -637,7 +751,13 @@
    "confidence": 100,
    "verified": false,
    "note": "",
-   "accepted_latin": "Diversitermes aporeticus"
+   "accepted_latin": "Diversitermes aporeticus",
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "recordable": false,
+   "recorded": false,
+   "receiving_latin": null
   },
   {
    "latin": "Coptotermes cooloola",
@@ -6112,14 +6232,39 @@
    "note": ""
   }
  ],
- "synonym_groups": [
+ "synonym_pairs": [
   {
-   "accepted": "Amitermes wheeleri (Desneux, 1906)",
-   "accepted_latin": "Amitermes wheeleri",
-   "accepted_in_site": true,
-   "accepted_slug": "amitermes-wheeleri",
-   "accepted_zh": "惠勒弓白蚁",
-   "accepted_links": [
+   "our": {
+    "latin": "Amitermes californicus",
+    "zh": "加州弓白蚁",
+    "slug": "amitermes-californicus",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Amitermes wheeleri (Desneux, 1906)",
+    "latin": "Amitermes wheeleri"
+   },
+   "sources": [
+    "gbif",
+    "col",
+    "bsf"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9157883"
+    },
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/8Q83Z"
+    },
+    {
+     "source": "bsf",
+     "url": "https://cockroach.speciesfile.org/otus/85266/overview"
+    }
+   ],
+   "external_links": [
     {
      "source": "gbif",
      "url": "https://www.gbif.org/species/2007289"
@@ -6133,275 +6278,68 @@
      "url": "https://cockroach.speciesfile.org/otus/85266/overview"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Amitermes californicus",
-     "zh": "加州弓白蚁",
-     "slug": "amitermes-californicus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif",
-      "col",
-      "bsf"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9157883"
-      },
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/8Q83Z"
-      },
-      {
-       "source": "bsf",
-       "url": "https://cockroach.speciesfile.org/otus/85266/overview"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": false,
+   "receiving": {
+    "name": "Amitermes wheeleri (Desneux, 1906)",
+    "latin": "Amitermes wheeleri",
+    "in_site": true,
+    "slug": "amitermes-wheeleri",
+    "zh": "惠勒弓白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/2007289"
+     },
+     {
+      "source": "col",
+      "url": "https://www.checklistbank.org/dataset/3LR/taxon/CSVV"
+     },
+     {
+      "source": "bsf",
+      "url": "https://cockroach.speciesfile.org/otus/85266/overview"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif",
+     "col",
+     "bsf"
+    ],
+    "accepted": []
+   },
+   "recordable": true,
+   "recorded": true
   },
   {
-   "accepted": "Anoplotermes franciscoi Snyder, 1959",
-   "accepted_latin": "Anoplotermes franciscoi",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
+   "our": {
+    "latin": "Coptotermes guizhouensis",
+    "zh": "贵州乳白蚁",
+    "slug": "coptotermes-guizhouensis",
+    "family_zh": "异白蚁科",
+    "family_latin": "HETEROTERMITIDAE"
+   },
+   "external": {
+    "name": "Coptotermes formosanus Shiraki, 1909",
+    "latin": "Coptotermes formosanus"
+   },
+   "sources": [
+    "col",
+    "bsf"
+   ],
+   "our_links": [
     {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9070348"
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/9H6G7"
+    },
+    {
+     "source": "bsf",
+     "url": "https://cockroach.speciesfile.org/otus/83152/overview"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Ruptitermes franciscoi",
-     "zh": "弗朗西斯科腹爆白蚁",
-     "slug": "ruptitermes-franciscoi",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/8555127"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Anoplotermes hageni Emerson & Snyder, 1949",
-   "accepted_latin": "Anoplotermes hageni",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9662984"
-    }
-   ],
-   "synonyms": [
-    {
-     "latin": "Grigiotermes hageni",
-     "zh": "哈根灰白蚁",
-     "slug": "grigiotermes-hageni",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/10112407"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Anoplotermes jheringi Holmgren, 1906",
-   "accepted_latin": "Anoplotermes jheringi",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9082997"
-    }
-   ],
-   "synonyms": [
-    {
-     "latin": "Rubeotermes jheringi",
-     "zh": "耶林变红白蚁",
-     "slug": "rubeotermes-jheringi",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/10974393"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Anoplotermes nigripunctatus Emerson, 1925",
-   "accepted_latin": "Anoplotermes nigripunctatus",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9339653"
-    }
-   ],
-   "synonyms": [
-    {
-     "latin": "Patawatermes nigripunctatus",
-     "zh": "黑点帕塔瓦白蚁",
-     "slug": "patawatermes-nigripunctatus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/11048620"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Armitermes grandidens Emerson, 1925",
-   "accepted_latin": "Armitermes grandidens",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/8816091"
-    }
-   ],
-   "synonyms": [
-    {
-     "latin": "Mapinguaritermes grandidens",
-     "zh": "大齿红懒白蚁",
-     "slug": "mapinguaritermes-grandidens",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9360607"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Armitermes minutus Emerson, 1925",
-   "accepted_latin": "Armitermes minutus",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9801261"
-    }
-   ],
-   "synonyms": [
-    {
-     "latin": "Silvestritermes minutus",
-     "zh": "最小西尔韦斯特里白蚁",
-     "slug": "silvestritermes-minutus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9635608"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Armitermes teevani Emerson, 1925",
-   "accepted_latin": "Armitermes teevani",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9734260"
-    }
-   ],
-   "synonyms": [
-    {
-     "latin": "Uncitermes teevani",
-     "zh": "蒂范弯钩白蚁",
-     "slug": "uncitermes-teevani",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9547733"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Coptotermes formosanus Shiraki, 1909",
-   "accepted_latin": "Coptotermes formosanus",
-   "accepted_in_site": true,
-   "accepted_slug": "coptotermes-formosanus",
-   "accepted_zh": "台湾乳白蚁",
-   "accepted_links": [
+   "external_links": [
     {
      "source": "col",
      "url": "https://www.checklistbank.org/dataset/3LR/taxon/Y8HZ"
@@ -6411,105 +6349,217 @@
      "url": "https://cockroach.speciesfile.org/otus/83152/overview"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Coptotermes guizhouensis",
-     "zh": "贵州乳白蚁",
-     "slug": "coptotermes-guizhouensis",
-     "family_zh": "异白蚁科",
-     "family_latin": "HETEROTERMITIDAE",
-     "sources": [
-      "col",
-      "bsf"
-     ],
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/9H6G7"
-      },
-      {
-       "source": "bsf",
-       "url": "https://cockroach.speciesfile.org/otus/83152/overview"
-      }
-     ],
-     "match": "exact",
-     "confidence": null
-    }
-   ]
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": true,
+   "receiving": {
+    "name": "Coptotermes formosanus Shiraki, 1909",
+    "latin": "Coptotermes formosanus",
+    "in_site": true,
+    "slug": "coptotermes-formosanus",
+    "zh": "台湾乳白蚁",
+    "links": [
+     {
+      "source": "col",
+      "url": "https://www.checklistbank.org/dataset/3LR/taxon/Y8HZ"
+     },
+     {
+      "source": "bsf",
+      "url": "https://cockroach.speciesfile.org/otus/83152/overview"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "col",
+     "bsf"
+    ],
+    "accepted": [
+     "gbif"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
   },
   {
-   "accepted": "Diversitermes aporeticus Mathews, 1977",
-   "accepted_latin": "Diversitermes aporeticus",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
+   "our": {
+    "latin": "Grigiotermes hageni",
+    "zh": "哈根灰白蚁",
+    "slug": "grigiotermes-hageni",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Anoplotermes hageni Emerson & Snyder, 1949",
+    "latin": "Anoplotermes hageni"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
     {
      "source": "gbif",
-     "url": "https://www.gbif.org/species/9658855"
+     "url": "https://www.gbif.org/species/10112407"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Velocitermes aporeticus",
-     "zh": "怀疑快白蚁",
-     "slug": "velocitermes-aporeticus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/8862789"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
-  },
-  {
-   "accepted": "Nasutitermes mexicanus Light, 1933",
-   "accepted_latin": "Nasutitermes mexicanus",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
+   "external_links": [
     {
      "source": "gbif",
-     "url": "https://www.gbif.org/species/5152438"
+     "url": "https://www.gbif.org/species/9662984"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Parvitermes mexicanus",
-     "zh": "墨西哥微白蚁",
-     "slug": "parvitermes-mexicanus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "gbif"
-     ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9275546"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
-    }
-   ]
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "receiving": {
+    "name": "Grigiotermes hageni",
+    "latin": "Grigiotermes hageni",
+    "in_site": true,
+    "slug": "grigiotermes-hageni",
+    "zh": "哈根灰白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/10112407"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": [
+     "col",
+     "bsf"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
   },
   {
-   "accepted": "Nasutitermes nigriceps (Haldeman, 1854)",
-   "accepted_latin": "Nasutitermes nigriceps",
-   "accepted_in_site": true,
-   "accepted_slug": "nasutitermes-nigriceps",
-   "accepted_zh": "黑头象白蚁",
-   "accepted_links": [
+   "our": {
+    "latin": "Mapinguaritermes grandidens",
+    "zh": "大齿红懒白蚁",
+    "slug": "mapinguaritermes-grandidens",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Armitermes grandidens Emerson, 1925",
+    "latin": "Armitermes grandidens"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9360607"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/8816091"
+    }
+   ],
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "receiving": {
+    "name": "Mapinguaritermes grandidens",
+    "latin": "Mapinguaritermes grandidens",
+    "in_site": true,
+    "slug": "mapinguaritermes-grandidens",
+    "zh": "大齿红懒白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9360607"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": [
+     "col",
+     "bsf"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Megagnathotermes katangensis",
+    "zh": "加丹加大颚白蚁",
+    "slug": "megagnathotermes-katangensis",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Polyspathotermes katangensis (Sjöstedt, 1927)",
+    "latin": "Polyspathotermes katangensis"
+   },
+   "sources": [
+    "col"
+   ],
+   "our_links": [
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/3YTNV"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/V9XXH"
+    }
+   ],
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": true,
+   "receiving": null,
+   "votes": {
+    "synonym": [
+     "col"
+    ],
+    "accepted": [
+     "gbif"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Nasutitermes dasyopsis",
+    "zh": "毛脸象白蚁",
+    "slug": "nasutitermes-dasyopsis",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Nasutitermes nigriceps (Haldeman, 1854)",
+    "latin": "Nasutitermes nigriceps"
+   },
+   "sources": [
+    "col",
+    "bsf"
+   ],
+   "our_links": [
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/45SX3"
+    },
+    {
+     "source": "bsf",
+     "url": "https://cockroach.speciesfile.org/otus/84733/overview"
+    }
+   ],
+   "external_links": [
     {
      "source": "col",
      "url": "https://www.checklistbank.org/dataset/3LR/taxon/45T2P"
@@ -6519,223 +6569,810 @@
      "url": "https://cockroach.speciesfile.org/otus/84733/overview"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Nasutitermes dasyopsis",
-     "zh": "毛脸象白蚁",
-     "slug": "nasutitermes-dasyopsis",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "col",
-      "bsf"
-     ],
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/45SX3"
-      },
-      {
-       "source": "bsf",
-       "url": "https://cockroach.speciesfile.org/otus/84733/overview"
-      }
-     ],
-     "match": "exact",
-     "confidence": null
-    }
-   ]
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": true,
+   "receiving": {
+    "name": "Nasutitermes nigriceps (Haldeman, 1854)",
+    "latin": "Nasutitermes nigriceps",
+    "in_site": true,
+    "slug": "nasutitermes-nigriceps",
+    "zh": "黑头象白蚁",
+    "links": [
+     {
+      "source": "col",
+      "url": "https://www.checklistbank.org/dataset/3LR/taxon/45T2P"
+     },
+     {
+      "source": "bsf",
+      "url": "https://cockroach.speciesfile.org/otus/84733/overview"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "col",
+     "bsf"
+    ],
+    "accepted": [
+     "gbif"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
   },
   {
-   "accepted": "Obtusitermes bacchanalis (Mathews, 1977)",
-   "accepted_latin": "Obtusitermes bacchanalis",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
+   "our": {
+    "latin": "Parvitermes bacchanalis",
+    "zh": "酒神微白蚁",
+    "slug": "parvitermes-bacchanalis",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Obtusitermes bacchanalis (Mathews, 1977)",
+    "latin": "Obtusitermes bacchanalis"
+   },
+   "sources": [
+    "col"
+   ],
+   "our_links": [
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/75SX3"
+    }
+   ],
+   "external_links": [
     {
      "source": "col",
      "url": "https://www.checklistbank.org/dataset/3LR/taxon/48BGQ"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Parvitermes bacchanalis",
-     "zh": "酒神微白蚁",
-     "slug": "parvitermes-bacchanalis",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "col"
-     ],
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/75SX3"
-      }
-     ],
-     "match": "exact",
-     "confidence": null
-    }
-   ]
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "receiving": null,
+   "votes": {
+    "synonym": [
+     "col"
+    ],
+    "accepted": []
+   },
+   "recordable": false,
+   "recorded": false
   },
   {
-   "accepted": "Pericapritermes appellans metata Silvestri, 1914",
-   "accepted_latin": "Pericapritermes appellans metata",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
+   "our": {
+    "latin": "Parvitermes mexicanus",
+    "zh": "墨西哥微白蚁",
+    "slug": "parvitermes-mexicanus",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Nasutitermes mexicanus Light, 1933",
+    "latin": "Nasutitermes mexicanus"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9275546"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/5152438"
+    }
+   ],
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "receiving": null,
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": []
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Patawatermes nigripunctatus",
+    "zh": "黑点帕塔瓦白蚁",
+    "slug": "patawatermes-nigripunctatus",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Anoplotermes nigripunctatus Emerson, 1925",
+    "latin": "Anoplotermes nigripunctatus"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/11048620"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9339653"
+    }
+   ],
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "receiving": {
+    "name": "Patawatermes nigripunctatus",
+    "latin": "Patawatermes nigripunctatus",
+    "in_site": true,
+    "slug": "patawatermes-nigripunctatus",
+    "zh": "黑点帕塔瓦白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/11048620"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": [
+     "col",
+     "bsf"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Pericapritermes metatus",
+    "zh": "丈量近扭白蚁",
+    "slug": "pericapritermes-metatus",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Pericapritermes appellans metata Silvestri, 1914",
+    "latin": "Pericapritermes appellans metata"
+   },
+   "sources": [
+    "col"
+   ],
+   "our_links": [
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/76T6M"
+    }
+   ],
+   "external_links": [
     {
      "source": "col",
      "url": "https://www.checklistbank.org/dataset/3LR/taxon/CDTRC"
     }
    ],
-   "synonyms": [
-    {
-     "latin": "Pericapritermes metatus",
-     "zh": "丈量近扭白蚁",
-     "slug": "pericapritermes-metatus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "col"
-     ],
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/76T6M"
-      }
-     ],
-     "match": "exact",
-     "confidence": null
-    }
-   ]
+   "relation": "synonym",
+   "direction": "disputed",
+   "disputed": true,
+   "receiving": null,
+   "votes": {
+    "synonym": [
+     "col"
+    ],
+    "accepted": [
+     "gbif"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
   },
   {
-   "accepted": "Polyspathotermes katangensis (Sjöstedt, 1927)",
-   "accepted_latin": "Polyspathotermes katangensis",
-   "accepted_in_site": false,
-   "accepted_slug": null,
-   "accepted_zh": null,
-   "accepted_links": [
+   "our": {
+    "latin": "Rubeotermes jheringi",
+    "zh": "耶林变红白蚁",
+    "slug": "rubeotermes-jheringi",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Anoplotermes jheringi Holmgren, 1906",
+    "latin": "Anoplotermes jheringi"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
     {
-     "source": "col",
-     "url": "https://www.checklistbank.org/dataset/3LR/taxon/V9XXH"
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/10974393"
     }
    ],
-   "synonyms": [
+   "external_links": [
     {
-     "latin": "Megagnathotermes katangensis",
-     "zh": "加丹加大颚白蚁",
-     "slug": "megagnathotermes-katangensis",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
-     "sources": [
-      "col"
-     ],
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/3YTNV"
-      }
-     ],
-     "match": "exact",
-     "confidence": null
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9082997"
     }
-   ]
+   ],
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "receiving": {
+    "name": "Rubeotermes jheringi",
+    "latin": "Rubeotermes jheringi",
+    "in_site": true,
+    "slug": "rubeotermes-jheringi",
+    "zh": "耶林变红白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/10974393"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": [
+     "col",
+     "bsf"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Ruptitermes franciscoi",
+    "zh": "弗朗西斯科腹爆白蚁",
+    "slug": "ruptitermes-franciscoi",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Anoplotermes franciscoi Snyder, 1959",
+    "latin": "Anoplotermes franciscoi"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/8555127"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9070348"
+    }
+   ],
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "receiving": null,
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": []
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Silvestritermes minutus",
+    "zh": "最小西尔韦斯特里白蚁",
+    "slug": "silvestritermes-minutus",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Armitermes minutus Emerson, 1925",
+    "latin": "Armitermes minutus"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9635608"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9801261"
+    }
+   ],
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "receiving": {
+    "name": "Silvestritermes minutus",
+    "latin": "Silvestritermes minutus",
+    "in_site": true,
+    "slug": "silvestritermes-minutus",
+    "zh": "最小西尔韦斯特里白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9635608"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": [
+     "col",
+     "bsf"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Uncitermes teevani",
+    "zh": "蒂范弯钩白蚁",
+    "slug": "uncitermes-teevani",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Armitermes teevani Emerson, 1925",
+    "latin": "Armitermes teevani"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9547733"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9734260"
+    }
+   ],
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "receiving": {
+    "name": "Uncitermes teevani",
+    "latin": "Uncitermes teevani",
+    "in_site": true,
+    "slug": "uncitermes-teevani",
+    "zh": "蒂范弯钩白蚁",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9547733"
+     }
+    ]
+   },
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": [
+     "col",
+     "bsf"
+    ]
+   },
+   "recordable": false,
+   "recorded": false
+  },
+  {
+   "our": {
+    "latin": "Velocitermes aporeticus",
+    "zh": "怀疑快白蚁",
+    "slug": "velocitermes-aporeticus",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "external": {
+    "name": "Diversitermes aporeticus Mathews, 1977",
+    "latin": "Diversitermes aporeticus"
+   },
+   "sources": [
+    "gbif"
+   ],
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/8862789"
+    }
+   ],
+   "external_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9658855"
+    }
+   ],
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "receiving": null,
+   "votes": {
+    "synonym": [
+     "gbif"
+    ],
+    "accepted": []
+   },
+   "recordable": false,
+   "recorded": false
   }
  ],
- "synonyms_by_slug": {
+ "species_authority": {
   "amitermes-wheeleri": {
    "latin": "Amitermes wheeleri",
    "zh": "惠勒弓白蚁",
-   "synonyms": [
+   "incoming": [
     {
      "latin": "Amitermes californicus",
      "zh": "加州弓白蚁",
      "slug": "amitermes-californicus",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
      "sources": [
       "gbif",
       "col",
       "bsf"
      ],
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9157883"
-      },
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/8Q83Z"
-      },
-      {
-       "source": "bsf",
-       "url": "https://cockroach.speciesfile.org/otus/85266/overview"
-      }
-     ],
-     "match": "EXACT",
-     "confidence": 100
+     "relation": "synonym",
+     "direction": "external",
+     "disputed": false,
+     "recorded": true
     }
-   ]
+   ],
+   "outgoing": []
   },
   "coptotermes-formosanus": {
    "latin": "Coptotermes formosanus",
    "zh": "台湾乳白蚁",
-   "synonyms": [
+   "incoming": [
     {
      "latin": "Coptotermes guizhouensis",
      "zh": "贵州乳白蚁",
      "slug": "coptotermes-guizhouensis",
-     "family_zh": "异白蚁科",
-     "family_latin": "HETEROTERMITIDAE",
      "sources": [
       "col",
       "bsf"
      ],
+     "relation": "synonym",
+     "direction": "external",
+     "disputed": true,
+     "recorded": false
+    }
+   ],
+   "outgoing": []
+  },
+  "grigiotermes-hageni": {
+   "latin": "Grigiotermes hageni",
+   "zh": "哈根灰白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Anoplotermes hageni",
+     "name": "Anoplotermes hageni Emerson & Snyder, 1949",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "site",
+     "disputed": true,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9662984"
+      }
+     ]
+    }
+   ]
+  },
+  "mapinguaritermes-grandidens": {
+   "latin": "Mapinguaritermes grandidens",
+   "zh": "大齿红懒白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Armitermes grandidens",
+     "name": "Armitermes grandidens Emerson, 1925",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "site",
+     "disputed": true,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/8816091"
+      }
+     ]
+    }
+   ]
+  },
+  "megagnathotermes-katangensis": {
+   "latin": "Megagnathotermes katangensis",
+   "zh": "加丹加大颚白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Polyspathotermes katangensis",
+     "name": "Polyspathotermes katangensis (Sjöstedt, 1927)",
+     "sources": [
+      "col"
+     ],
+     "relation": "combination",
+     "direction": "disputed",
+     "disputed": true,
      "links": [
       {
        "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/9H6G7"
-      },
-      {
-       "source": "bsf",
-       "url": "https://cockroach.speciesfile.org/otus/83152/overview"
+       "url": "https://www.checklistbank.org/dataset/3LR/taxon/V9XXH"
       }
-     ],
-     "match": "exact",
-     "confidence": null
+     ]
     }
    ]
   },
   "nasutitermes-nigriceps": {
    "latin": "Nasutitermes nigriceps",
    "zh": "黑头象白蚁",
-   "synonyms": [
+   "incoming": [
     {
      "latin": "Nasutitermes dasyopsis",
      "zh": "毛脸象白蚁",
      "slug": "nasutitermes-dasyopsis",
-     "family_zh": "白蚁科",
-     "family_latin": "TERMITIDAE",
      "sources": [
       "col",
       "bsf"
      ],
+     "relation": "synonym",
+     "direction": "external",
+     "disputed": true,
+     "recorded": false
+    }
+   ],
+   "outgoing": []
+  },
+  "parvitermes-bacchanalis": {
+   "latin": "Parvitermes bacchanalis",
+   "zh": "酒神微白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Obtusitermes bacchanalis",
+     "name": "Obtusitermes bacchanalis (Mathews, 1977)",
+     "sources": [
+      "col"
+     ],
+     "relation": "combination",
+     "direction": "disputed",
+     "disputed": false,
      "links": [
       {
        "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/45SX3"
-      },
-      {
-       "source": "bsf",
-       "url": "https://cockroach.speciesfile.org/otus/84733/overview"
+       "url": "https://www.checklistbank.org/dataset/3LR/taxon/48BGQ"
       }
-     ],
-     "match": "exact",
-     "confidence": null
+     ]
     }
+   ]
+  },
+  "parvitermes-mexicanus": {
+   "latin": "Parvitermes mexicanus",
+   "zh": "墨西哥微白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Nasutitermes mexicanus",
+     "name": "Nasutitermes mexicanus Light, 1933",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "disputed",
+     "disputed": false,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/5152438"
+      }
+     ]
+    }
+   ]
+  },
+  "patawatermes-nigripunctatus": {
+   "latin": "Patawatermes nigripunctatus",
+   "zh": "黑点帕塔瓦白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Anoplotermes nigripunctatus",
+     "name": "Anoplotermes nigripunctatus Emerson, 1925",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "site",
+     "disputed": true,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9339653"
+      }
+     ]
+    }
+   ]
+  },
+  "pericapritermes-metatus": {
+   "latin": "Pericapritermes metatus",
+   "zh": "丈量近扭白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Pericapritermes appellans metata",
+     "name": "Pericapritermes appellans metata Silvestri, 1914",
+     "sources": [
+      "col"
+     ],
+     "relation": "synonym",
+     "direction": "disputed",
+     "disputed": true,
+     "links": [
+      {
+       "source": "col",
+       "url": "https://www.checklistbank.org/dataset/3LR/taxon/CDTRC"
+      }
+     ]
+    }
+   ]
+  },
+  "rubeotermes-jheringi": {
+   "latin": "Rubeotermes jheringi",
+   "zh": "耶林变红白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Anoplotermes jheringi",
+     "name": "Anoplotermes jheringi Holmgren, 1906",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "site",
+     "disputed": true,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9082997"
+      }
+     ]
+    }
+   ]
+  },
+  "ruptitermes-franciscoi": {
+   "latin": "Ruptitermes franciscoi",
+   "zh": "弗朗西斯科腹爆白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Anoplotermes franciscoi",
+     "name": "Anoplotermes franciscoi Snyder, 1959",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "disputed",
+     "disputed": false,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9070348"
+      }
+     ]
+    }
+   ]
+  },
+  "silvestritermes-minutus": {
+   "latin": "Silvestritermes minutus",
+   "zh": "最小西尔韦斯特里白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Armitermes minutus",
+     "name": "Armitermes minutus Emerson, 1925",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "site",
+     "disputed": true,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9801261"
+      }
+     ]
+    }
+   ]
+  },
+  "uncitermes-teevani": {
+   "latin": "Uncitermes teevani",
+   "zh": "蒂范弯钩白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Armitermes teevani",
+     "name": "Armitermes teevani Emerson, 1925",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "site",
+     "disputed": true,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9734260"
+      }
+     ]
+    }
+   ]
+  },
+  "velocitermes-aporeticus": {
+   "latin": "Velocitermes aporeticus",
+   "zh": "怀疑快白蚁",
+   "incoming": [],
+   "outgoing": [
+    {
+     "latin": "Diversitermes aporeticus",
+     "name": "Diversitermes aporeticus Mathews, 1977",
+     "sources": [
+      "gbif"
+     ],
+     "relation": "combination",
+     "direction": "disputed",
+     "disputed": false,
+     "links": [
+      {
+       "source": "gbif",
+       "url": "https://www.gbif.org/species/9658855"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "synonym_of_slug": {
+  "amitermes-californicus": {
+   "accepted": "Amitermes wheeleri (Desneux, 1906)",
+   "accepted_latin": "Amitermes wheeleri",
+   "accepted_slug": "amitermes-wheeleri",
+   "accepted_zh": "惠勒弓白蚁",
+   "sources": [
+    "gbif",
+    "col",
+    "bsf"
    ]
   }
  }

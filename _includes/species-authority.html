@@ -93,21 +93,43 @@
   {%- endif -%}
 
   {%- comment -%}
-    异名归并反查：外部库把某些本站名当作「本种」的异名时，在**接受名**（接收名）这一侧列出它们。
-    数据来自 _data/name_issues.json 的 synonyms_by_slug（按接受名归并，见 build_name_issues.py）。
-    仍然只提示对应关系，不改动任何站内分类数据。
+    外部库异名：incoming = 外部库把某名字当作本种的异名（接收名在本页）；
+    outgoing = 外部库把本名放在某个名字下（本站名一侧为接收名，或方向待定）。
+    数据来自 _data/name_issues.json 的 species_authority（build_name_issues.py 生成）。
   {%- endcomment -%}
-  {%- assign INCOMING = site.data.name_issues.synonyms_by_slug[page.slug] -%}
+  {%- assign AUTH_INDEX = site.data.name_issues.species_authority[page.slug] -%}
+  {%- assign INCOMING = AUTH_INDEX.incoming -%}
+  {%- assign OUTGOING = AUTH_INDEX.outgoing -%}
   {%- if INCOMING -%}
   <div class="authority-incoming" role="note">
     <strong>外部库把下列名字作为本种的异名 <span class="fact-en" lang="en">the external databases give these names as synonyms of this species</span> <span class="fact-es" lang="es">las bases externas dan estos nombres como sinónimos de esta especie</span></strong>
     <ul>
-      {%- for syn in INCOMING.synonyms -%}
-      <li><a href="{{ site.base_url }}/species/{{ syn.slug }}/">{{ syn.zh }}<i>{{ syn.latin }}</i></a><span class="authority-detail">{%- for src in syn.sources -%}{%- if src == 'gbif' -%}GBIF{%- elsif src == 'col' -%}Catalogue of Life{%- else -%}Blattodea Species File{%- endif -%}{%- unless forloop.last %} · {% endunless -%}{%- endfor -%}{%- if syn.match %} · {{ syn.match }}{% if syn.confidence %} {{ syn.confidence }}%{% endif %}{%- endif -%}</span></li>
+      {%- for syn in INCOMING -%}
+      <li><a href="{{ site.base_url }}/species/{{ syn.slug }}/">{{ syn.zh }}<i>{{ syn.latin }}</i></a><span class="authority-detail">{%- for src in syn.sources -%}{%- if src == 'gbif' -%}GBIF{%- elsif src == 'col' -%}Catalogue of Life{%- else -%}Blattodea Species File{%- endif -%}{%- unless forloop.last %} · {% endunless -%}{%- endfor -%}</span>{%- if syn.relation == 'combination' %} <span class="authority-badge">组合差异</span>{%- endif -%}{%- if syn.disputed %} <span class="authority-badge">方向有分歧 <span class="fact-en" lang="en">direction disputed</span></span>{%- endif -%}{%- if syn.recorded %} <span class="authority-badge is-verified">已补录到本节 <span class="fact-en" lang="en">recorded below</span></span>{%- endif -%}</li>
       {%- endfor -%}
     </ul>
-    <p>本名录仍把它们各自单列，是否合并需人工依据原始文献判断。 <span class="fact-en" lang="en">Each name keeps its own record here; merging is a human decision.</span> <span class="fact-es" lang="es">Cada nombre conserva su registro; la fusión es una decisión humana.</span> <a href="{{ site.base_url }}/list/name-issues/#synonyms">命名差异看板 · 异名归并 →</a></p>
+    <p>标记「已补录到本节」的名字已经写进本页「次异名」一节的「依外部权威库补录的异名」；标「方向有分歧」的表示另有外部库把本名视为接受名，需人工核对。本名录仍保留它们各自的记录。 <span class="fact-en" lang="en">Names marked as recorded are already listed under “Synonyms recorded from external authorities” in the junior-synonym section above; “direction disputed” means another database regards our name as accepted, so a human check is needed. Each name keeps its own record for now.</span> <span class="fact-es" lang="es">Los nombres marcados como registrados ya figuran en la sección de sinónimos de esta página; «dirección en desacuerdo» significa que otra base considera aceptado nuestro nombre y requiere revisión humana. Cada uno conserva su registro por ahora.</span> <a href="{{ site.base_url }}/list/name-issues/#synonyms">命名差异看板 · 逐对归并 →</a></p>
   </div>
+  {%- endif -%}
+
+  {%- if OUTGOING -%}
+  <div class="authority-incoming is-outgoing" role="note">
+    <strong>外部库把本名放在下列名字下 <span class="fact-en" lang="en">the external databases place this name under the following names</span> <span class="fact-es" lang="es">las bases externas sitúan este nombre bajo los siguientes nombres</span></strong>
+    <ul>
+      {%- for pair in OUTGOING -%}
+      <li><i>{{ pair.name }}</i>{%- for link in pair.links %} <a class="authority-src" href="{{ link.url }}" rel="noopener external" target="_blank">{%- if link.source == 'gbif' -%}GBIF{%- elsif link.source == 'col' -%}Catalogue of Life{%- else -%}Blattodea Species File{%- endif -%}</a>{%- endfor -%}<span class="authority-detail">{%- if pair.relation == 'combination' -%}组合差异（同种异属）{%- else -%}异名{%- endif -%}{%- if pair.direction == 'site' -%} · 本站名为接收名{%- elsif pair.disputed -%} · 方向有分歧{%- else -%} · 方向待定{%- endif -%}</span></li>
+      {%- endfor -%}
+    </ul>
+    <p>标「本站名为接收名」的是同种异属（组合差异）且多数外部库采用本站组合：本页按本站分类保留本名，外部库那个名字视为旧组合，不写进本页次异名；标「方向有分歧 / 待定」的只作提示。 <span class="fact-en" lang="en">“Our name is the receiving name” marks a combination difference where most databases use the combination adopted here; the external name is treated as an older combination and is not written into this page's synonym list. Disputed or undecided rows are review notes only.</span> <span class="fact-es" lang="es">«Nuestro nombre es el receptor» indica una diferencia de combinación en la que la mayoría de las bases usan la combinación aquí adoptada; el nombre externo se considera una combinación anterior y no se añade a la lista de sinónimos. Las filas en desacuerdo o indeterminadas son solo notas de revisión.</span></p>
+  </div>
+  {%- endif -%}
+
+  {%- comment -%}
+    反向：本页的名字已被补录为另一个接受名的异名（synonym_of_slug），给出跳转。
+  {%- endcomment -%}
+  {%- assign RECORDED_AS = site.data.name_issues.synonym_of_slug[page.slug] -%}
+  {%- if RECORDED_AS -%}
+  <p class="authority-recorded">本站已把本名补录为 <a href="{{ site.base_url }}/species/{{ RECORDED_AS.accepted_slug }}/"><i>{{ RECORDED_AS.accepted_latin }}</i></a> 的异名（见该页「次异名」一节的「依外部权威库补录的异名」）。 <span class="fact-en" lang="en">This name has been recorded as a synonym of <i>{{ RECORDED_AS.accepted_latin }}</i> on that species page.</span> <span class="fact-es" lang="es">Este nombre se ha registrado como sinónimo de <i>{{ RECORDED_AS.accepted_latin }}</i> en esa página.</span></p>
   {%- endif -%}
 
   {%- assign META = site.data.authority_links.meta -%}

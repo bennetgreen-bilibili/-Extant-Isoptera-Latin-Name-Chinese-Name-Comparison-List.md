@@ -256,6 +256,12 @@ a{color:var(--accent)}
 .authority-incoming li{margin:.15em 0;line-height:1.6}
 .authority-incoming li i{font-family:var(--font-serif);font-style:italic}
 .authority-incoming .authority-detail{margin-left:6px}
+.authority-incoming.is-outgoing{background:var(--earth-soft);border-left-color:var(--earth)}
+.authority-incoming.is-outgoing strong{color:var(--earth)}
+.authority-src{display:inline-block;margin:0 4px;font-size:.8em;font-weight:600;color:var(--accent-strong);text-decoration:none}
+.authority-src:hover{text-decoration:underline}
+.authority-recorded{margin:1em 0 0;padding:8px 12px;background:var(--accent-soft);border-left:3px solid var(--accent-strong);border-radius:var(--radius-sm);font-size:.9em;color:var(--ink);line-height:1.65}
+.authority-recorded a{color:var(--accent-strong);font-weight:600}
 .authority-meta{margin:1.1em 0 0;font-size:.78em;color:var(--muted);line-height:1.65}
 @media (max-width:640px){.authority-source{min-width:0;flex-basis:100%}}
 
@@ -271,6 +277,7 @@ a{color:var(--accent)}
 .ni-badge.is-conflict{color:var(--earth);background:var(--earth-soft);border-color:transparent}
 .ni-badge.is-match{color:var(--accent-strong);background:var(--accent-soft);border-color:transparent}
 .ni-badge.is-gap{color:var(--muted);background:var(--accent-softer)}
+.ni-badge.is-comb{color:var(--accent-strong);background:var(--accent-soft);border-color:transparent}
 .ni-badge.is-verified{color:var(--accent-strong);background:var(--accent-soft);border-color:transparent}
 .ni-summary{display:flex;flex-wrap:wrap;gap:8px;margin:1.1em 0 1.3em}
 .ni-stat{display:inline-flex;align-items:baseline;gap:6px;padding:6px 12px;background:var(--card);border:1px solid var(--line);border-radius:999px;font-size:.86em;color:var(--muted)}
@@ -314,7 +321,7 @@ a{color:var(--accent)}
 .ni-noscript{font-size:.9em;color:var(--earth);background:var(--earth-soft);padding:8px 12px;border-radius:var(--radius-sm)}
 /* 站内另有收录：外部库给出的接受名在本名录也有一条记录（可点进物种页） */
 .ni-insite{display:inline-block;margin-left:6px;font-size:.76em;padding:0 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent-strong);white-space:nowrap}
-/* 异名归并：按接受名（接收名）把名称差异分组 */
+/* 名称差异逐对归并：关系 / 方向 / 接收名 / 补录（一行一对） */
 .ni-syn-title{margin:2.4em 0 .4em;line-height:1.4;scroll-margin-top:5em}
 .ni-syn-title-alt{display:block;font-size:.58em;font-weight:400;color:var(--muted);margin-top:.2em}
 .ni-syn-lead{max-width:900px;color:var(--ink);line-height:1.75}
@@ -336,6 +343,18 @@ a{color:var(--accent)}
 .ni-syn-src{font-size:.8em;font-weight:600;color:var(--accent-strong);margin-left:4px}
 .ni-syn-match{font-size:.8em;color:var(--muted);font-variant-numeric:tabular-nums;margin-left:4px}
 .ni-syn-foot{max-width:900px;margin:.7em 0 1.2em;font-size:.84em;color:var(--muted);line-height:1.7}
+.ni-syn-table .ni-syn-our{min-width:180px}
+.ni-syn-table .ni-syn-our a{color:var(--ink);text-decoration:none}
+.ni-syn-table .ni-syn-our a:hover{color:var(--accent-strong);text-decoration:underline}
+.ni-syn-table .ni-syn-our i{display:block;font-family:var(--font-serif);font-style:italic;color:var(--muted);font-size:.92em;margin-top:2px}
+.ni-syn-table .ni-syn-extname{min-width:190px;overflow-wrap:anywhere}
+.ni-syn-table .ni-syn-extname i{font-family:var(--font-serif);font-style:italic;color:var(--ink)}
+.ni-syn-table .ni-syn-rel,.ni-syn-table .ni-syn-rec{white-space:nowrap}
+.ni-syn-table .ni-syn-dir{min-width:130px;font-size:.92em;color:var(--muted)}
+.ni-syn-table .ni-syn-votes{min-width:150px}
+.ni-vote{display:inline-block;font-size:.78em;padding:1px 8px;border-radius:999px;margin:0 4px 3px 0;white-space:nowrap;border:1px solid var(--line)}
+.ni-vote.is-syn{color:var(--earth);background:var(--earth-soft);border-color:transparent}
+.ni-vote.is-acc{color:var(--accent-strong);background:var(--accent-soft);border-color:transparent}
 @media (max-width:720px){.ni-field input{min-width:0;width:100%}.ni-field{flex:1 1 100%}.ni-table{font-size:.82em}.ni-table .ni-note{max-width:200px}.ni-syn-table .ni-syn-acc,.ni-syn-table .ni-syn-site{min-width:0}.ni-syn-table .ni-syn-site i{display:inline;margin-left:4px}}
 @media print{.ni-controls,.ni-pager,.ni-download,.ni-noscript{display:none!important}.ni-table tbody tr[hidden]{display:table-row!important}}
 .authority-board-link{margin:1em 0 0;font-size:.92em}

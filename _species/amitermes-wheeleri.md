@@ -23,6 +23,10 @@ distribution_en: "United States, Mexico"
 synonym_count: 4
 synonyms: "Amitermes arizonensis Banks, 1920: 56, 59; Amitermes ( Amitermes ) spadix Light, 1932: 388-398; Amitermes ( Amitermes ) parvipunctus Light, 1932: 388; Amitermes floridensis Scheffrahn, Su & Mangold, 1989: 618-624"
 synonym_localities: "United States: Arizona: Fort Grant; United States: Texas: Uvalde; United States: Texas: Uvalde; United States: Florida: Pinellas Co.: St. Petersburg"
+authority_synonym_count: 1
+authority_synonyms: "Amitermes californicus Banks, 1920"
+authority_synonym_localities: "United States: California: San Diego County: Jacumba"
+authority_synonym_sources: "gbif,col,bsf"
 ---
 
 <!-- AUTO:BEGIN -->
@@ -60,4 +64,13 @@ ES — **惠勒弓白蚁** (*Amitermes wheeleri*) es una especie del género *Am
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Amitermes arizonensis*、*Amitermes (Amitermes) spadix*、*Amitermes (Amitermes) parvipunctus*、*Amitermes floridensis* 等）出现，本站统一归入 *Amitermes wheeleri*。
 EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Amitermes arizonensis*、*Amitermes (Amitermes) spadix*、*Amitermes (Amitermes) parvipunctus*、*Amitermes floridensis*); this site treats them all under *Amitermes wheeleri*.
 ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Amitermes arizonensis*、*Amitermes (Amitermes) spadix*、*Amitermes (Amitermes) parvipunctus*、*Amitermes floridensis*); este sitio los reúne todos bajo *Amitermes wheeleri*.
+
+### 依外部权威库补录的异名
+
+外部权威库在命名对照中把下列名字记为本种的异名，已补录在案；本名录中它们另有独立记录，是否合并待定：
+
+- *Amitermes californicus* Banks, 1920（GBIF · Catalogue of Life · Blattodea Species File） —— 模式产地：United States: California: San Diego County: Jacumba
+
+EN — The external authorities above give these names as synonyms of this species; they are recorded here for review, and each of them keeps its own record in this checklist for the time being.
+ES — Las autoridades externas citadas dan estos nombres como sinónimos de esta especie; se registran aquí para su revisión y cada uno conserva por ahora su propio registro en esta lista.
 <!-- AUTO:END -->

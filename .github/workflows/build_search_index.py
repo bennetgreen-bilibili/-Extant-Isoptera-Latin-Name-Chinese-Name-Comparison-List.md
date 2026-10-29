@@ -15,7 +15,8 @@
 
 数据来源（不引入任何外部数据）：
   list.md                  类群标题 <h2>~<h5> 与种/亚种条目（条目顺序 = 页面顺序）
-  _species/*.md            亚种条目的中文名 / 层级 / 次异名（次异名取页面「## 次异名」小节的斜体名）
+  _species/*.md            亚种条目的中文名 / 层级 / 次异名（次异名取页面「## 次异名」小节的斜体名，
+                           含编号的原始文献次异名与「依外部权威库补录的异名」项目符号列表）
 
 拼音与繁体字段为可选增强：
   pip install pypinyin opencc-python-reimplemented
@@ -55,7 +56,8 @@ SPECIES_RE = re.compile(
     r"^(?:\\\*)?\[\*(?P<latin>[^*]+)\* (?P<zh>[^\]]+?)\]"
     r"\(\{\{ site\.base_url \}\}/species/(?P<slug>[^/]+)/\)\s*$"
 )
-SYNONYM_RE = re.compile(r"^\d+\.\s+\*(?P<name>[^*]+)\*")
+# 「## 次异名」小节里既有原始文献的编号列表，也有「依外部权威库补录的异名」项目符号列表
+SYNONYM_RE = re.compile(r"^(?:\d+\.|-)\s+\*(?P<name>[^*]+)\*")
 FM_RE = re.compile(r'^(?P<key>[a-z_]+):\s*(?P<value>.*?)\s*$')
 
 

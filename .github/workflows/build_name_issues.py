@@ -18,12 +18,23 @@
   match     匹配存疑：模糊匹配 / 多重候选，需要人工判断
   gap       覆盖缺口：仅匹配到上级阶元、外部库未收录、BSF 未检索到
 
-名称差异还会按**接受名（接收名）归并**一份，对应「把异名记录到对应的接收名下面」：
+名称差异还要逐对判定**关系类型**与**接收名方向**，对应「把异名记录到对应的接收名下面」：
 
-  synonym_groups[]               每个接受名一组：接受名、是否本站也收录、引用它的异名（同一种多来源合并）
-  synonyms_by_slug{}             反查索引：站内 slug → 外部库归入该种的异名（物种页「其他数据库」区块用）
-  meta.counts.synonym_groups …   归并后的统计口径（组数 / 本站另收 / 异名对数 / 涉及本站名个数）
-  downloads/isoptera-synonym-groups.csv  同一份归并结果的长表（一行一对「接受名 ← 异名」）
+  synonym_pairs[]    每对：本站名、外部库接受名、relation（synonym 异名 / combination 组合差异）、
+                     direction（external 外部库名为接收名 / site 本站名为接收名 / disputed 待定）、
+                     votes（各库判定）、disputed、recordable、recorded
+  species_authority{} 物种页索引：incoming（外部库归入本种的异名）/ outgoing（外部库把本名放在哪个名字下）
+  synonym_of_slug{}   已补录为异名的站内 slug → 它被补录到的接收名（物种页反向链接）
+  meta.counts.*       关系/方向/可补录/已补录的统计口径
+
+判定规则（详情见 _tools/外部权威库与一致性核对.md）：
+  * 关系：属相同或加词不同 → synonym（异名）；同种异属（epithet 相同、属不同）→ combination（组合差异）。
+    组合差异不是异名：GBIF 常按属级并系处理、把本站名写成它认为的「接受名」，方向容易写反。
+  * 方向：逐个外部库按物种级结论投票（上位阶元 / 模糊 / 未收录不投票）。真异名：没人说本站名是
+    接受名 → 外部接受名为接收名。组合差异：多数库用本站名 → 本站名为接收名，否则方向待定。
+  * 可补录：只有「真异名 + 方向明确为外部接受名 + 至少两库一致 + 无相反票」才允许写进
+    _species 的 authority_synonym_*；「已补录」仍以物种页 front matter 是否有该字段为准。
+  downloads/isoptera-synonym-pairs.csv   同一批「名称差异对」长表（含关系、方向、接收名、补录状态）
 
 外链基址读自 _config.yml 的 external.*：按 YAML 规则去掉行尾注释后再拼接，
 否则会把「# + /<GBIF usageKey>」这类说明也拼进 URL，页面上的异名/接受名链接会变成坏地址。
@@ -55,7 +66,7 @@ BSF = ROOT / "_data" / "bsf_links.json"
 DATA_OUT = ROOT / "_data" / "name_issues.json"
 PUBLIC_OUT = ROOT / "data" / "name-issues.json"
 CSV_OUT = ROOT / "downloads" / "isoptera-name-issues.csv"
-SYN_CSV_OUT = ROOT / "downloads" / "isoptera-synonym-groups.csv"
+SYN_CSV_OUT = ROOT / "downloads" / "isoptera-synonym-pairs.csv"
 
 GROUP_ORDER = {"conflict": 0, "match": 1, "gap": 2}
 SOURCE_ORDER = {"gbif": 0, "col": 1, "bsf": 2}
@@ -66,10 +77,11 @@ CANON_RE = re.compile(
     r"(?:\s+(?P<subspecies>[a-z][A-Za-z\-]+))?"
 )
 SYN_CSV_COLUMNS = [
-    "acceptedName", "acceptedLatin", "acceptedInSite", "acceptedSlug", "acceptedZh",
-    "synonymName", "synonymZh", "synonymSlug", "familyZh", "sources",
-    "match", "confidence", "synonymUrl", "acceptedUrl",
+    "ourName", "ourZh", "ourSlug", "externalName", "externalLatin",
+    "relation", "direction", "receivingName", "receivingInSite", "receivingSlug",
+    "disputed", "sources", "recorded", "ourUrl", "externalUrl",
 ]
+SOURCE_LABELS = {"gbif": "GBIF", "col": "CoL", "bsf": "BSF"}
 
 
 def config_value(key: str) -> str:
@@ -124,6 +136,12 @@ def load_species() -> dict:
             "family_zh": fm.get("family_zh", ""),
             "family_latin": fm.get("family_latin", ""),
             "slug": path.stem,
+            # 已补录到本种「次异名」一节的外部权威库异名（front matter authority_synonyms）
+            "authority_synonyms": [
+                canonical_name(entry)
+                for entry in (fm.get("authority_synonyms") or "").split(";")
+                if entry.strip()
+            ],
         }
     return out
 
@@ -189,60 +207,202 @@ def annotate_accepted(row: dict, species: dict) -> dict:
     return row
 
 
-def build_synonym_groups(rows: list) -> list:
-    """把名称差异（kind=synonym）按接受名归并成组，组内合并多来源的同一异名。"""
-    groups: dict = {}
+def epithet_key(latin: str) -> tuple:
+    """属之后各加词（去掉常见性别词尾），用来识别「同一物种、不同属」的组合差异。
+
+    「Grigiotermes hageni」vs「Anoplotermes hageni」→ 同种异属（组合差异）；
+    「Pericapritermes metatus」vs「Pericapritermes appellans metata」→ 加词不同（判为异名）；
+    「Amitermes californicus」vs「Amitermes wheeleri」→ 异名。
+    """
+    parts = (latin or "").split()
+    keys = []
+    for epithet in parts[1:]:
+        value = epithet.lower()
+        for suffix in ("us", "a", "um", "is", "e", "i"):
+            if value.endswith(suffix) and len(value) > len(suffix) + 3:
+                value = value[: -len(suffix)]
+                break
+        keys.append(value)
+    return tuple(keys)
+
+
+def relation_kind(our_latin: str, accepted_latin: str) -> str:
+    """"synonym" 真异名（加词不同）/"combination" 同种异属（组合差异）。"""
+    if not our_latin or not accepted_latin:
+        return "synonym"
+    if our_latin.split()[0].lower() == accepted_latin.split()[0].lower():
+        return "synonym"
+    return "combination" if epithet_key(our_latin) == epithet_key(accepted_latin) else "synonym"
+
+
+def vote_for(source: str, rec: dict, flags: list) -> str | None:
+    """某个外部库对「本站名」的判定：accepted / synonym / None（不表态）。
+
+    只看物种级结论：上位阶元、模糊匹配、未收录都记 None，避免把属级结果当成本种意见。
+    """
+    if source == "gbif":
+        if "gbif_synonym" in flags:
+            return "synonym"
+        if any(flag in flags for flag in ("gbif_higherrank", "gbif_fuzzy", "gbif_missing", "gbif_doubtful")):
+            return None
+        return "accepted" if (rec.get("status") or "").upper() == "ACCEPTED" else None
+    if source == "col":
+        if "col_synonym" in flags:
+            return "synonym"
+        if any(flag in flags for flag in ("col_higherrank", "col_missing", "col_ambiguous")):
+            return None
+        return "accepted" if (rec.get("status") or "").lower() == "accepted" else None
+    if source == "bsf":
+        status = (rec.get("status") or "").lower()
+        if status == "valid":
+            return "accepted"
+        if status == "synonym":
+            return "synonym"
+        return None
+    return None
+
+
+def resolve_direction(relation: str, synonym_votes: list, accepted_votes: list) -> str:
+    """决定这一对的接收名在哪一侧。
+
+    - 组合差异（同种异属）：多数外部库用本站名 → 本站名为接收名；否则方向待定。
+    - 真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；票数占优同样如此；否则待定。
+    """
+    if relation == "combination":
+        return "site" if len(accepted_votes) > len(synonym_votes) else "disputed"
+    if synonym_votes and not accepted_votes:
+        return "external"
+    if len(synonym_votes) > len(accepted_votes):
+        return "external"
+    return "disputed"
+
+
+def build_synonym_pairs(rows: list, species: dict, votes_by_latin: dict) -> list:
+    """把名称差异整理成「本站名 ↔ 外部库接受名」的一对一关系，并判定方向与关系类型。"""
+    buckets: dict = {}
     for row in rows:
         if row["group"] != "conflict" or not row.get("accepted_latin"):
             continue
-        group = groups.get(row["accepted_latin"])
-        if group is None:
-            group = {
-                "accepted": row["accepted"],
-                "accepted_latin": row["accepted_latin"],
-                "accepted_in_site": bool(row.get("accepted_slug")),
-                "accepted_slug": row.get("accepted_slug") or None,
-                "accepted_zh": row.get("accepted_zh") or None,
-                "accepted_links": [],
-                "synonyms": [],
-            }
-            groups[row["accepted_latin"]] = group
-        if row.get("accepted_url") and not any(
-                link["source"] == row["source"] for link in group["accepted_links"]):
-            group["accepted_links"].append({"source": row["source"], "url": row["accepted_url"]})
-
-        synonym = next((item for item in group["synonyms"] if item["latin"] == row["latin"]), None)
-        if synonym is None:
-            synonym = {
-                "latin": row["latin"],
-                "zh": row.get("zh", ""),
-                "slug": row.get("slug", ""),
-                "family_zh": row.get("family_zh", ""),
-                "family_latin": row.get("family_latin", ""),
+        key = (row["latin"], row["accepted_latin"])
+        pair = buckets.get(key)
+        if pair is None:
+            pair = {
+                "our": {
+                    "latin": row["latin"],
+                    "zh": row.get("zh", ""),
+                    "slug": row.get("slug", ""),
+                    "family_zh": row.get("family_zh", ""),
+                    "family_latin": row.get("family_latin", ""),
+                },
+                "external": {"name": row["accepted"], "latin": row["accepted_latin"]},
                 "sources": [],
-                "links": [],
-                "match": None,
-                "confidence": None,
+                "our_links": [],
+                "external_links": [],
             }
-            group["synonyms"].append(synonym)
-        if row["source"] not in synonym["sources"]:
-            synonym["sources"].append(row["source"])
-        if row.get("url") and not any(
-                link["source"] == row["source"] for link in synonym["links"]):
-            synonym["links"].append({"source": row["source"], "url": row["url"]})
-        if synonym["match"] is None and row.get("match"):
-            synonym["match"] = row["match"]
-        if synonym["confidence"] is None and row.get("confidence") is not None:
-            synonym["confidence"] = row["confidence"]
+            buckets[key] = pair
+        if row["source"] not in pair["sources"]:
+            pair["sources"].append(row["source"])
+        if row.get("url") and not any(link["source"] == row["source"] for link in pair["our_links"]):
+            pair["our_links"].append({"source": row["source"], "url": row["url"]})
+        if row.get("accepted_url") and not any(
+                link["source"] == row["source"] for link in pair["external_links"]):
+            pair["external_links"].append({"source": row["source"], "url": row["accepted_url"]})
 
-    ordered = sorted(groups.values(), key=lambda item: item["accepted_latin"].casefold())
-    for group in ordered:
-        group["accepted_links"].sort(key=lambda link: SOURCE_ORDER[link["source"]])
-        group["synonyms"].sort(key=lambda item: item["latin"].casefold())
-        for synonym in group["synonyms"]:
-            synonym["sources"].sort(key=lambda source: SOURCE_ORDER[source])
-            synonym["links"].sort(key=lambda link: SOURCE_ORDER[link["source"]])
-    return ordered
+    pairs = []
+    for pair in buckets.values():
+        pair["sources"].sort(key=lambda source: SOURCE_ORDER[source])
+        pair["our_links"].sort(key=lambda link: SOURCE_ORDER[link["source"]])
+        pair["external_links"].sort(key=lambda link: SOURCE_ORDER[link["source"]])
+        votes = votes_by_latin.get(pair["our"]["latin"]) or {"synonym": [], "accepted": []}
+        synonym_votes, accepted_votes = votes["synonym"], votes["accepted"]
+        relation = relation_kind(pair["our"]["latin"], pair["external"]["latin"])
+        direction = resolve_direction(relation, synonym_votes, accepted_votes)
+        disputed = bool(synonym_votes) and bool(accepted_votes)
+        receiving = None
+        if direction == "external":
+            ext_sp = species.get(pair["external"]["latin"]) or {}
+            receiving = {
+                "name": pair["external"]["name"],
+                "latin": pair["external"]["latin"],
+                "in_site": bool(ext_sp),
+                "slug": ext_sp.get("slug"),
+                "zh": ext_sp.get("zh"),
+                "links": pair["external_links"],
+            }
+        elif direction == "site":
+            receiving = {
+                "name": pair["our"]["latin"],
+                "latin": pair["our"]["latin"],
+                "in_site": True,
+                "slug": pair["our"]["slug"],
+                "zh": pair["our"]["zh"],
+                "links": pair["our_links"],
+            }
+        pair.update({
+            "relation": relation,
+            "direction": direction,
+            "disputed": disputed,
+            "receiving": receiving,
+            "votes": {"synonym": synonym_votes, "accepted": accepted_votes},
+            "recordable": (direction == "external" and relation == "synonym"
+                           and not accepted_votes and len(synonym_votes) >= 2),
+            "recorded": False,
+        })
+        pairs.append(pair)
+    pairs.sort(key=lambda pair: (pair["our"]["latin"].casefold(), pair["external"]["latin"].casefold()))
+    return pairs
+
+
+def build_species_authority(pairs: list, species: dict) -> tuple:
+    """生成物种页用索引：本种接收了哪些异名（incoming）/ 外部库把本名放在哪些名字下（outgoing）。"""
+    index: dict = {}
+    synonym_of_slug = {}
+    for pair in pairs:
+        if pair["direction"] == "external":
+            accepted_sp = species.get(pair["external"]["latin"]) or {}
+            pair["recorded"] = pair["our"]["latin"] in set(accepted_sp.get("authority_synonyms") or [])
+            receiving = pair["receiving"] or {}
+            if pair["recorded"] and pair["our"].get("slug"):
+                synonym_of_slug[pair["our"]["slug"]] = {
+                    "accepted": pair["external"]["name"],
+                    "accepted_latin": pair["external"]["latin"],
+                    "accepted_slug": receiving.get("slug"),
+                    "accepted_zh": receiving.get("zh"),
+                    "sources": pair["sources"],
+                }
+            if receiving.get("in_site") and receiving.get("slug"):
+                entry = index.setdefault(receiving["slug"], {
+                    "latin": receiving["latin"], "zh": receiving.get("zh") or "",
+                    "incoming": [], "outgoing": [],
+                })
+                entry["incoming"].append({
+                    "latin": pair["our"]["latin"],
+                    "zh": pair["our"]["zh"],
+                    "slug": pair["our"]["slug"],
+                    "sources": pair["sources"],
+                    "relation": pair["relation"],
+                    "direction": pair["direction"],
+                    "disputed": pair["disputed"],
+                    "recorded": pair["recorded"],
+                })
+        else:
+            entry = index.setdefault(pair["our"]["slug"], {
+                "latin": pair["our"]["latin"], "zh": pair["our"]["zh"],
+                "incoming": [], "outgoing": [],
+            })
+            entry["outgoing"].append({
+                "latin": pair["external"]["latin"],
+                "name": pair["external"]["name"],
+                "sources": pair["sources"],
+                "relation": pair["relation"],
+                "direction": pair["direction"],
+                "disputed": pair["disputed"],
+                "links": pair["external_links"],
+            })
+    for entry in index.values():
+        entry["incoming"].sort(key=lambda item: item["latin"].casefold())
+        entry["outgoing"].sort(key=lambda item: item["latin"].casefold())
+    return index, synonym_of_slug
 
 
 def build() -> dict:
@@ -338,16 +498,32 @@ def build() -> dict:
         by_kind[r["kind"]] = by_kind.get(r["kind"], 0) + 1
         by_latin[r["latin"]] = by_latin.get(r["latin"], 0) + 1
 
-    groups = build_synonym_groups(rows)
-    synonyms_by_slug = {
-        group["accepted_slug"]: {
-            "latin": group["accepted_latin"],
-            "zh": group["accepted_zh"],
-            "synonyms": group["synonyms"],
-        }
-        for group in groups
-        if group["accepted_slug"]
-    }
+    # 每个学名在三个外部库里的判定（accepted / synonym / 不表态），用于判定归并方向
+    votes_by_latin = {}
+    for latin in {row["latin"] for row in rows if row["group"] == "conflict"}:
+        rec = auth.get("taxa", {}).get(latin) or {}
+        flags = rec.get("flags") or []
+        bsf_rec = bsf.get("name_map", {}).get(latin) or {}
+        votes = {"synonym": [], "accepted": []}
+        for source in ("gbif", "col", "bsf"):
+            sub = rec.get(source) if source in ("gbif", "col") else bsf_rec
+            vote = vote_for(source, sub or {}, flags)
+            if vote:
+                votes[vote].append(source)
+        votes_by_latin[latin] = votes
+
+    pairs = build_synonym_pairs(rows, species, votes_by_latin)
+    species_authority, synonym_of_slug = build_species_authority(pairs, species)
+    pair_by_key = {(pair["our"]["latin"], pair["external"]["latin"]): pair for pair in pairs}
+    annotated_rows = []
+    for row in rows:
+        pair = pair_by_key.get((row["latin"], row.get("accepted_latin")))
+        if row["group"] == "conflict" and pair:
+            row = dict(row, relation=pair["relation"], direction=pair["direction"],
+                       disputed=pair["disputed"], recordable=pair["recordable"],
+                       recorded=pair["recorded"], receiving_latin=(pair["receiving"] or {}).get("latin"))
+        annotated_rows.append(row)
+    rows = annotated_rows
 
     payload = {
         "meta": {
@@ -368,17 +544,24 @@ def build() -> dict:
                 "species_total": len(species),
                 "species_with_issue": len({r["latin"] for r in rows}),
                 "bsf_verified": bsf_verified_total,
-                # 名称差异按接受名（接收名）归并后的口径：条数不变，但「组」才是需要人工决策的单元
+                # 名称差异整理成「本站名 ↔ 外部库接受名」的对，并给出关系类型与接收名方向
                 "conflict_species": len({r["latin"] for r in rows if r["group"] == "conflict"}),
-                "synonym_groups": len(groups),
-                "synonym_groups_in_site": sum(1 for g in groups if g["accepted_in_site"]),
-                "synonym_pairs": sum(len(g["synonyms"]) for g in groups),
+                "conflict_pairs": len(pairs),
+                "pairs_relation_synonym": sum(1 for p in pairs if p["relation"] == "synonym"),
+                "pairs_relation_combination": sum(1 for p in pairs if p["relation"] == "combination"),
+                "pairs_direction_external": sum(1 for p in pairs if p["direction"] == "external"),
+                "pairs_direction_site": sum(1 for p in pairs if p["direction"] == "site"),
+                "pairs_direction_disputed": sum(1 for p in pairs if p["direction"] == "disputed"),
+                "pairs_disputed": sum(1 for p in pairs if p["disputed"]),
+                "pairs_recordable": sum(1 for p in pairs if p["recordable"]),
+                "pairs_recorded": sum(1 for p in pairs if p["recorded"]),
             },
             "by_latin": {k: by_latin[k] for k in sorted(by_latin)},
         },
         "issues": rows,
-        "synonym_groups": groups,
-        "synonyms_by_slug": synonyms_by_slug,
+        "synonym_pairs": pairs,
+        "species_authority": species_authority,
+        "synonym_of_slug": synonym_of_slug,
     }
     return payload
 
@@ -400,22 +583,22 @@ def csv_text(payload: dict) -> str:
 
 
 def synonym_csv_text(payload: dict) -> str:
-    """异名归并长表：一行一对「接受名（接收名）← 异名」。"""
+    """名称差异归并长表：一行一对「本站名 ↔ 外部库接受名」，含关系类型与接收名方向。"""
     buf = io.StringIO()
     writer = csv.writer(buf, lineterminator="\n")
     writer.writerow(SYN_CSV_COLUMNS)
-    for group in payload["synonym_groups"]:
-        for synonym in group["synonyms"]:
-            writer.writerow([
-                group["accepted"], group["accepted_latin"],
-                "yes" if group["accepted_in_site"] else "no",
-                group["accepted_slug"] or "", group["accepted_zh"] or "",
-                synonym["latin"], synonym["zh"], synonym["slug"], synonym["family_zh"],
-                ";".join(synonym["sources"]), synonym["match"] or "",
-                synonym["confidence"] if synonym["confidence"] is not None else "",
-                synonym["links"][0]["url"] if synonym["links"] else "",
-                group["accepted_links"][0]["url"] if group["accepted_links"] else "",
-            ])
+    for pair in payload["synonym_pairs"]:
+        receiving = pair["receiving"] or {}
+        writer.writerow([
+            pair["our"]["latin"], pair["our"]["zh"], pair["our"]["slug"],
+            pair["external"]["name"], pair["external"]["latin"],
+            pair["relation"], pair["direction"],
+            receiving.get("name") or "", "yes" if receiving.get("in_site") else "no",
+            receiving.get("slug") or "", "yes" if pair["disputed"] else "no",
+            ";".join(pair["sources"]), "yes" if pair["recorded"] else "no",
+            pair["our_links"][0]["url"] if pair["our_links"] else "",
+            pair["external_links"][0]["url"] if pair["external_links"] else "",
+        ])
     return buf.getvalue()
 
 
@@ -444,10 +627,15 @@ def main() -> int:
               bsf=counts["by_source"].get("bsf", 0),
               species_with_issue=counts["species_with_issue"],
               species_total=counts["species_total"], bsf_verified=counts["bsf_verified"]))
-    print("名称差异按接受名归并：{groups} 组（本站另有收录 {in_site} 组）· {pairs} 对异名 · "
-          "涉及本站名 {species} 个".format(
-              groups=counts["synonym_groups"], in_site=counts["synonym_groups_in_site"],
-              pairs=counts["synonym_pairs"], species=counts["conflict_species"]))
+    print("名称差异整理成 {pairs} 对：关系 异名 {syn} · 组合差异 {comb}；方向 "
+          "外部库名为接收名 {ext} · 本站名为接收名 {site} · 待定 {disp}；"
+          "可补录 {recordable} 对，已补录 {recorded} 对；涉及本站名 {species} 个".format(
+              pairs=counts["conflict_pairs"], syn=counts["pairs_relation_synonym"],
+              comb=counts["pairs_relation_combination"],
+              ext=counts["pairs_direction_external"], site=counts["pairs_direction_site"],
+              disp=counts["pairs_direction_disputed"],
+              recordable=counts["pairs_recordable"], recorded=counts["pairs_recorded"],
+              species=counts["conflict_species"]))
 
     if args.check:
         problems = []
@@ -481,7 +669,7 @@ def main() -> int:
         CSV_OUT.write_text(csv_content, encoding="utf-8-sig", newline="\n")
         SYN_CSV_OUT.write_text(synonym_csv_content, encoding="utf-8-sig", newline="\n")
         print("已写入 _data/name_issues.json、data/name-issues.json、"
-              "downloads/isoptera-name-issues.csv、downloads/isoptera-synonym-groups.csv")
+              "downloads/isoptera-name-issues.csv、downloads/isoptera-synonym-pairs.csv")
     else:
         print("未写入（加 --write 写入文件）")
     return 0

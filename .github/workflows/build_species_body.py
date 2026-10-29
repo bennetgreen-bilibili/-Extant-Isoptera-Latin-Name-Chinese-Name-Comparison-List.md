@@ -269,6 +269,27 @@ def parse_list(value):
     return [x.strip() for x in clean(value).split(";") if x.strip()]
 
 
+# 外部权威库补录的异名：front matter 的 authority_synonym_sources 用这几个代码
+AUTHORITY_LABELS = {
+    "gbif": "GBIF",
+    "col": "Catalogue of Life",
+    "bsf": "Blattodea Species File",
+}
+
+
+def authority_labels(value):
+    """gbif,col,bsf -> "GBIF · Catalogue of Life · Blattodea Species File"。
+
+    front matter 里多来源用逗号分隔（分号留给多个异名之间的分隔）；未知代码忽略、去重保序。
+    """
+    labels = []
+    for code in re.split(r"[,;]", clean(value)):
+        label = AUTHORITY_LABELS.get(code.strip().lower())
+        if label and label not in labels:
+            labels.append(label)
+    return " · ".join(labels)
+
+
 # ----------------------------------------------------------------- generators
 def html_link(label, path):
     return "[%s](%s%s)" % (label, SITE, path)
@@ -444,8 +465,10 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     # ---- 次异名 -----------------------------------------------------------
     syns = parse_list(fm.get("synonyms"))
     locs = parse_list(fm.get("synonym_localities"))
-    if syns:
+    authority_syns = parse_list(fm.get("authority_synonyms"))
+    if syns or authority_syns:
         lines += ["", "## 次异名", ""]
+    if syns:
         lines.append("本站记录本%s有 %d 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：" % (rank_word, len(syns)))
         lines.append("")
         for i, entry in enumerate(syns, 1):
@@ -468,6 +491,29 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
                       % (rank_en, old_names, latin),
                       "ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta %s puede aparecer bajo el sinónimo %s; este sitio lo reúne bajo *%s*."
                       % (rank_es, old_names, latin)]
+
+    # ---- 依外部权威库补录的异名 -------------------------------------------
+    # 「把异名记录到对应的接收名下面」：GBIF / CoL / BSF 在命名对照中把某个名字
+    # 记为本种的异名时，把它补录在次异名一节（数据来自 front matter 的
+    # authority_synonym_* 字段）。本名录仍保留该名字自己的记录，是否合并待人工判断。
+    if authority_syns:
+        authority_locs = parse_list(fm.get("authority_synonym_localities"))
+        authority_srcs = parse_list(fm.get("authority_synonym_sources"))
+        lines += ["", "### 依外部权威库补录的异名", ""]
+        lines.append("外部权威库在命名对照中把下列名字记为本%s的异名，已补录在案；本名录中它们另有独立记录，是否合并待定：" % rank_word)
+        lines.append("")
+        for i, entry in enumerate(authority_syns):
+            name, auth = split_synonym(entry)
+            loc = md_escape(authority_locs[i]) if i < len(authority_locs) else ""
+            src = authority_labels(authority_srcs[i]) if i < len(authority_srcs) else ""
+            tail = " —— 模式产地：%s" % loc if loc else ""
+            suffix = "（%s）" % src if src else ""
+            lines.append("- *%s* %s%s%s" % (name, auth, suffix, tail))
+        lines += [
+            "",
+            "EN — The external authorities above give these names as synonyms of this %s; they are recorded here for review, and each of them keeps its own record in this checklist for the time being." % rank_en,
+            "ES — Las autoridades externas citadas dan estos nombres como sinónimos de esta %s; se registran aquí para su revisión y cada uno conserva por ahora su propio registro en esta lista." % rank_es,
+        ]
 
     # ---- 亚种 -------------------------------------------------------------
     subs = subs_of_parent.get(latin) or []
