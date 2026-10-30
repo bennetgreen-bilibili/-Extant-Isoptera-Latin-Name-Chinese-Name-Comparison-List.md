@@ -34,7 +34,7 @@ ES — **浙江大白蚁** (*Macrotermes zhejiangensis*) es una especie del gén
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/list/#macrotermes) —— 共 57 种（57 species · 57 especies）
 - **本属模式种 Type species / Especie tipo**：*Macrotermes lilljeborgi*

@@ -36,7 +36,7 @@
  "counts": {
   "families": 6,
   "genera": 14,
-  "species": 359,
+  "species": 358,
   "subspecies": 8,
   "subfamilies": 0
  },
@@ -1087,7 +1087,7 @@
      "zh": "乳白蚁属",
      "latin": "Coptotermes",
      "id": "coptotermes",
-     "species_count": 59,
+     "species_count": 58,
      "type_species": "Coptotermes gestroi",
      "species": [
       {
@@ -1286,13 +1286,6 @@
        "zh": "广东乳白蚁",
        "type": false,
        "distribution": "中国广东）",
-       "subspecies": null
-      },
-      {
-       "latin": "Coptotermes guizhouensis",
-       "zh": "贵州乳白蚁",
-       "type": false,
-       "distribution": "中国贵州）",
        "subspecies": null
       },
       {

@@ -4,7 +4,7 @@
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "version": "2026.10.30",
- "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3008 种 63 亚种，含模式种标记、分布信息与 77 篇参考文献。",
+ "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3005 种 63 亚种，含模式种标记、分布信息与 77 篇参考文献。",
  "creator": {
   "@type": "Person",
   "name": "班奈特格林"
@@ -18,7 +18,7 @@
   "families": 13,
   "subfamilies": 18,
   "genera": 323,
-  "species": 3008,
+  "species": 3005,
   "subspecies": 63
  },
  "clades": [
@@ -262,7 +262,7 @@
             "latin": "HETEROTERMITIDAE",
             "counts": {
              "genera": 3,
-             "species": 230,
+             "species": 229,
              "subspecies": 8,
              "subfamilies": 0
             },
@@ -275,7 +275,7 @@
             "latin": "TERMITIDAE",
             "counts": {
              "genera": 277,
-             "species": 2132,
+             "species": 2130,
              "subspecies": 49,
              "subfamilies": 18
             },
@@ -288,7 +288,7 @@
               "latin": "Amitermitinae",
               "counts": {
                "genera": 14,
-               "species": 194,
+               "species": 193,
                "subspecies": 4
               },
               "file": "data/termitidae/amitermitinae.json"
@@ -420,7 +420,7 @@
               "latin": "Nasutitermitinae",
               "counts": {
                "genera": 81,
-               "species": 608,
+               "species": 607,
                "subspecies": 10
               },
               "file": "data/termitidae/nasutitermitinae.json"
@@ -552,11 +552,11 @@
    "counts": {
     "families": 6,
     "genera": 14,
-    "species": 359,
+    "species": 358,
     "subspecies": 8,
     "subfamilies": 0
    },
-   "bytes": 77351
+   "bytes": 77168
   },
   {
    "path": "data/termitidae/amitermitinae.json",
@@ -564,10 +564,10 @@
    "counts": {
     "subfamilies": 1,
     "genera": 14,
-    "species": 194,
+    "species": 193,
     "subspecies": 4
    },
-   "bytes": 39045
+   "bytes": 38865
   },
   {
    "path": "data/termitidae/apicotermitinae.json",
@@ -685,10 +685,10 @@
    "counts": {
     "subfamilies": 1,
     "genera": 81,
-    "species": 608,
+    "species": 607,
     "subspecies": 10
    },
-   "bytes": 137343
+   "bytes": 137172
   },
   {
    "path": "data/termitidae/neocapritermitinae.json",

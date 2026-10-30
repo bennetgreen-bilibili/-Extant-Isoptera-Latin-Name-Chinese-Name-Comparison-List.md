@@ -34,7 +34,7 @@ ES — **粗短后肠白蚁** (*Apsenterotermes improcerus*) es una especie del 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[后肠白蚁属 *Apsenterotermes*]({{ site.base_url }}/list/#apsenterotermes) —— 共 5 种（5 species · 5 especies）
 - **本属模式种 Type species / Especie tipo**：*Apsenterotermes iridipennis*

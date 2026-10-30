@@ -34,7 +34,7 @@ ES — **尖锐角扭白蚁** (*Cornicapritermes mucronatus*) es la única espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[角扭白蚁属 *Cornicapritermes*]({{ site.base_url }}/list/#cornicapritermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

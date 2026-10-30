@@ -4,7 +4,7 @@
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）",
  "alternateName": "extant-isoptera-checklist",
  "version": "2026.10.30",
- "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3008 种、63 亚种，共 3071 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
+ "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3005 种、63 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
  "inLanguage": "zh-CN",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "creator": {
@@ -18,7 +18,7 @@
   "families": 13,
   "subfamilies": 18,
   "genera": 323,
-  "species": 3008,
+  "species": 3005,
   "subspecies": 63
  },
  "clades": [
@@ -7883,7 +7883,7 @@
      "subfamilyId": "",
      "typeSpecies": "Coptotermes gestroi",
      "counts": {
-      "species": 59,
+      "species": 58,
       "subspecies": 2
      },
      "species": [
@@ -8197,17 +8197,6 @@
        "distributionZh": "中国广东",
        "distributionEn": "China (Guangdong)",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/coptotermes-guangdongensis/",
-       "subspecies": []
-      },
-      {
-       "latin": "Coptotermes guizhouensis",
-       "zh": "贵州乳白蚁",
-       "authorship": "He & Qui, 1992",
-       "isTypeSpecies": false,
-       "typeLocality": "China: Guizhou Province: Conjiang County",
-       "distributionZh": "中国贵州",
-       "distributionEn": "China (Guizhou)",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/coptotermes-guizhouensis/",
        "subspecies": []
       },
       {
@@ -10657,7 +10646,7 @@
      "subfamilyId": "amitermitinae",
      "typeSpecies": "Amitermes amifer",
      "counts": {
-      "species": 113,
+      "species": 112,
       "subspecies": 0
      },
      "species": [
@@ -10857,17 +10846,6 @@
        "distributionZh": "澳大利亚",
        "distributionEn": "Australia",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/amitermes-calabyi/",
-       "subspecies": []
-      },
-      {
-       "latin": "Amitermes californicus",
-       "zh": "加州弓白蚁",
-       "authorship": "Banks, 1920",
-       "isTypeSpecies": false,
-       "typeLocality": "United States: California: San Diego County: Jacumba",
-       "distributionZh": "美国、墨西哥",
-       "distributionEn": "United States, Mexico",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/amitermes-californicus/",
        "subspecies": []
       },
       {
@@ -29857,7 +29835,7 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Nasutitermes corniger",
      "counts": {
-      "species": 243,
+      "species": 242,
       "subspecies": 8
      },
      "species": [
@@ -30497,17 +30475,6 @@
        "distributionZh": "中国",
        "distributionEn": "China",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/nasutitermes-curtinasus/",
-       "subspecies": []
-      },
-      {
-       "latin": "Nasutitermes dasyopsis",
-       "zh": "毛脸象白蚁",
-       "authorship": "Thorne, 1989",
-       "isTypeSpecies": false,
-       "typeLocality": "Panama: Cuayabo Grande",
-       "distributionZh": "巴拿马",
-       "distributionEn": "Panama",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/nasutitermes-dasyopsis/",
        "subspecies": []
       },
       {

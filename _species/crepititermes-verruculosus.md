@@ -34,7 +34,7 @@ ES — **多疣响白蚁** (*Crepititermes verruculosus*) es la única especie v
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[响白蚁亚科 Crepititermitinae]({{ site.base_url }}/list/#crepititermitinae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
 - **属 Genus / Género**：[响白蚁属 *Crepititermes*]({{ site.base_url }}/list/#crepititermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

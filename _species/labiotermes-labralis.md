@@ -36,7 +36,7 @@ ES — **细唇厚唇白蚁** (*Labiotermes labralis*) es una especie, y la espe
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/list/#labiotermes) —— 共 10 种（10 species · 10 especies）
 

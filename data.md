@@ -16,11 +16,11 @@ permalink: /data/
 
 ## 归档数据集与 DOI <span class="fact-en">Archived dataset &amp; DOI</span>
 
-<p>全部名录另已整理为可引用的归档数据集（<strong>3071 条记录</strong>：逐条 CSV、分类树 JSON、次异名长表、参考文献表，附 DataCite 4.6 元数据与 CC BY 4.0 许可），可直接下载：
+<p>全部名录另已整理为可引用的归档数据集（<strong>3068 条记录</strong>：逐条 CSV、分类树 JSON、次异名长表、参考文献表，附 DataCite 4.6 元数据与 CC BY 4.0 许可），可直接下载：
 <a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>。</p>
 
 <ul>
-  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3071 行逐条分类单元表（含中文正名、模式产地、分布、次异名）</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3068 行逐条分类单元表（含中文正名、模式产地、分布、次异名）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — 完整分类树（支系—科—亚科—属—种/亚种）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — 次异名长表（含模式产地与对齐状态）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — 科/亚科级计数</li>
@@ -45,13 +45,13 @@ permalink: /data/
   <li><a href="{{ site.base_url }}/data/mastotermitidae.json"><strong>澳白蚁科</strong> Mastotermitidae</a> — 1 属 · 1 种</li>
   <li><a href="{{ site.base_url }}/data/teletisoptera.json"><strong>远等翅类</strong> Teletisoptera（古白蚁科 / 草白蚁科 / 原白蚁科 / 胄白蚁科）</a> — 4 科 · 8 属 · 37 种</li>
   <li><a href="{{ site.base_url }}/data/kalotermitidae.json"><strong>木白蚁科</strong> Kalotermitidae</a> — 23 属 · 479 种</li>
-  <li><a href="{{ site.base_url }}/data/neoisoptera-excl-termitidae.json"><strong>新等翅类（除白蚁科）</strong> Neoisoptera excl. Termitidae（沙白蚁科 / 鼻白蚁科 / 齿白蚁科 / 杆白蚁科 / 寡脉白蚁科 / 异白蚁科）</a> — 6 科 · 14 属 · 359 种</li>
+  <li><a href="{{ site.base_url }}/data/neoisoptera-excl-termitidae.json"><strong>新等翅类（除白蚁科）</strong> Neoisoptera excl. Termitidae（沙白蚁科 / 鼻白蚁科 / 齿白蚁科 / 杆白蚁科 / 寡脉白蚁科 / 异白蚁科）</a> — 6 科 · 14 属 · 358 种</li>
 </ul>
 
 ## 白蚁科 Termitidae（18 亚科 · 逐亚科文件）
 
 <ul>
-  <li><a href="{{ site.base_url }}/data/termitidae/amitermitinae.json">弓白蚁亚科 Amitermitinae</a> — 14 属 · 194 种</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/amitermitinae.json">弓白蚁亚科 Amitermitinae</a> — 14 属 · 193 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/apicotermitinae.json">尖白蚁亚科 Apicotermitinae</a> — 65 属 · 237 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/crepititermitinae.json">响白蚁亚科 Crepititermitinae</a> — 1 属 · 1 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/cubitermitinae.json">方白蚁亚科 Cubitermitinae</a> — 28 属 · 142 种</li>
@@ -62,7 +62,7 @@ permalink: /data/
   <li><a href="{{ site.base_url }}/data/termitidae/macrotermitinae.json">大白蚁亚科 Macrotermitinae</a> — 12 属 · 373 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/microcerotermitinae.json">锯白蚁亚科 Microcerotermitinae</a> — 2 属 · 150 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">瘤白蚁亚科 Mirocapritermitinae</a> — 14 属 · 133 种</li>
-  <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">象白蚁亚科 Nasutitermitinae</a> — 81 属 · 608 种</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">象白蚁亚科 Nasutitermitinae</a> — 81 属 · 607 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/neocapritermitinae.json">新扭白蚁亚科 Neocapritermitinae</a> — 3 属 · 20 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/promirotermitinae.json">前奇白蚁亚科 Promirotermitinae</a> — 2 属 · 39 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/protohamitermitinae.json">始钩白蚁亚科 Protohamitermitinae</a> — 2 属 · 2 种</li>

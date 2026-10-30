@@ -17,28 +17,24 @@ author_year: "Shiraki, 1909"
 type_locality: "Taiwan: Taipei"
 distribution_zh: "中国南部及台湾、原产、随木材广布热带亚热带"
 distribution_en: "southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade"
-synonym_count: 16
-synonyms: "Coptotermes formosae Holmgren, 1911: 192; Coptotermes hongkonensis Oshima, 1914: 7-10; Coptotermes intrudens Oshima, 1920: 262-264; Coptotermes remotus Silvestri, 1927: 93-95; Coptotermes eucalyptus Ping, 1984: 186-187, 189; Coptotermes xiaoliangensis Ping, 1984: 184-185, 188; Coptotermes guangzhouensis Ping, 1985: 317-318, 326-327; Coptotermes heteromorphus Ping, 1985: 320-321, 327; Coptotermes ( Polycrinitermes ) changtaiensis Xia & He, 1986: 164-165, 178; Coptotermes ( Polycrinitermes ) hekouensis Xia & He, 1986: 162-164, 178; Coptotermes ( Polycrinitermes ) suzhouensis Xia & He, 1986: 167-169, 180; Coptotermes ( Polycrinitermes ) communis Xia & He, 1986: 166-167, 179; Coptotermes rectangularis Ping & Zhu in Ping et al., 1986: 157-158, 160; Coptotermes setosus Li, 1986: 227-228, 229; Coptotermes xianrendongensis Ping & Xu, 1993: 432-433, 442; Coptotermes ( Polycrinitermes ) anglefontanalis Gao, Lau & He, 1995: 1-5"
-synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolulu, Oahu; South Africa: Cape Province: Simonstown; China: Guangdong Province: Xiaoliang of Dianbai County; China: Guangdong Province: Xiaoliang of Dianbai County; China: Guangdong Province: Guangzhou; China: Guangdong Province: Guangzhou; China: Fujian Province: Changtai County; China: Yunnan Province: Hekou County; China: Jiangsu Province: Suzhou County; China: Zhejiang Province: Jinhua County; China: Guizhou Province: Conjiang County; China: Guangdong Province: Xuwen; China: Guangdong Province: Shixing County: Xianrendong of Chebaling; China: Hong Kong: New Territories: Lui Kung Tin"
-authority_synonym_count: 1
-authority_synonyms: "Coptotermes guizhouensis He & Qui, 1992"
-authority_synonym_localities: "China: Guizhou Province: Conjiang County"
-authority_synonym_sources: "col,bsf"
+synonym_count: 17
+synonyms: "Coptotermes formosae Holmgren, 1911: 192; Coptotermes hongkonensis Oshima, 1914: 7-10; Coptotermes intrudens Oshima, 1920: 262-264; Coptotermes remotus Silvestri, 1927: 93-95; Coptotermes eucalyptus Ping, 1984: 186-187, 189; Coptotermes xiaoliangensis Ping, 1984: 184-185, 188; Coptotermes guangzhouensis Ping, 1985: 317-318, 326-327; Coptotermes heteromorphus Ping, 1985: 320-321, 327; Coptotermes ( Polycrinitermes ) changtaiensis Xia & He, 1986: 164-165, 178; Coptotermes ( Polycrinitermes ) hekouensis Xia & He, 1986: 162-164, 178; Coptotermes ( Polycrinitermes ) suzhouensis Xia & He, 1986: 167-169, 180; Coptotermes ( Polycrinitermes ) communis Xia & He, 1986: 166-167, 179; Coptotermes rectangularis Ping & Zhu in Ping et al., 1986: 157-158, 160; Coptotermes setosus Li, 1986: 227-228, 229; Coptotermes xianrendongensis Ping & Xu, 1993: 432-433, 442; Coptotermes ( Polycrinitermes ) anglefontanalis Gao, Lau & He, 1995: 1-5; Coptotermes guizhouensis He & Qui, 1992"
+synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolulu, Oahu; South Africa: Cape Province: Simonstown; China: Guangdong Province: Xiaoliang of Dianbai County; China: Guangdong Province: Xiaoliang of Dianbai County; China: Guangdong Province: Guangzhou; China: Guangdong Province: Guangzhou; China: Fujian Province: Changtai County; China: Yunnan Province: Hekou County; China: Jiangsu Province: Suzhou County; China: Zhejiang Province: Jinhua County; China: Guizhou Province: Conjiang County; China: Guangdong Province: Xuwen; China: Guangdong Province: Shixing County: Xianrendong of Chebaling; China: Hong Kong: New Territories: Lui Kung Tin; China: Guizhou Province: Conjiang County"
 ---
 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本站记录本种有 16 个次异名。
+**台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本站记录本种有 17 个次异名。
 
-EN — **台湾乳白蚁** (*Coptotermes formosanus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Shiraki in 1909; the type locality is Taiwan: Taipei. Distribution: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. This site records 16 junior synonyms for the species.
+EN — **台湾乳白蚁** (*Coptotermes formosanus*) is a species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Shiraki in 1909; the type locality is Taiwan: Taipei. Distribution: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. This site records 17 junior synonyms for the species.
 
-ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 16 sinónimos junior para la especie.
+ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 17 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
-- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
+- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 58 种（58 species · 58 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
 ## 分布
@@ -51,7 +47,7 @@ ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género
 
 ## 次异名
 
-本站记录本种有 16 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+本站记录本种有 17 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Coptotermes formosae* Holmgren, 1911: 192 —— 模式产地：Taiwan: ?
 2. *Coptotermes hongkonensis* Oshima, 1914: 7-10 —— 模式产地：China: Hong Kong
@@ -69,17 +65,9 @@ ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género
 14. *Coptotermes setosus* Li, 1986: 227-228, 229 —— 模式产地：China: Guangdong Province: Xuwen
 15. *Coptotermes xianrendongensis* Ping & Xu, 1993: 432-433, 442 —— 模式产地：China: Guangdong Province: Shixing County: Xianrendong of Chebaling
 16. *Coptotermes (Polycrinitermes) anglefontanalis* Gao, Lau & He, 1995: 1-5 —— 模式产地：China: Hong Kong: New Territories: Lui Kung Tin
+17. *Coptotermes guizhouensis* He & Qui, 1992 —— 模式产地：China: Guizhou Province: Conjiang County
 
 在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus* 等）出现，本站统一归入 *Coptotermes formosanus*。
 EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus*); this site treats them all under *Coptotermes formosanus*.
 ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Coptotermes formosae*、*Coptotermes hongkonensis*、*Coptotermes intrudens*、*Coptotermes remotus*、*Coptotermes eucalyptus*、*Coptotermes xiaoliangensis*、*Coptotermes guangzhouensis*、*Coptotermes heteromorphus*); este sitio los reúne todos bajo *Coptotermes formosanus*.
-
-### 依外部权威库补录的异名
-
-外部权威库在命名对照中把下列名字记为本种的异名，已补录在案；本名录中它们另有独立记录，是否合并待定：
-
-- *Coptotermes guizhouensis* He & Qui, 1992（Catalogue of Life · Blattodea Species File） —— 模式产地：China: Guizhou Province: Conjiang County
-
-EN — The external authorities above give these names as synonyms of this species; they are recorded here for review, and each of them keeps its own record in this checklist for the time being.
-ES — Las autoridades externas citadas dan estos nombres como sinónimos de esta especie; se registran aquí para su revisión y cada uno conserva por ahora su propio registro en esta lista.
 <!-- AUTO:END -->

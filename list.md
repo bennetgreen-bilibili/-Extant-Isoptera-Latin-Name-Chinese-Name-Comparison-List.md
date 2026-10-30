@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 名录 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: 现存等翅下目（白蚁）全部现生类群（13 科 323 属 3008 种 63 亚种）拉丁学名—中文正名对照名录，含模式种标记、分布信息与 77 篇参考文献。
+description: 现存等翅下目（白蚁）全部现生类群（13 科 323 属 3005 种 63 亚种）拉丁学名—中文正名对照名录，含模式种标记、分布信息与 77 篇参考文献。
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
@@ -2214,7 +2214,7 @@ S. halumicus 为材料研究），踪迹跟踪信息素亦在该二种中有专�
 并纳入乳白蚁属 Coptotermes 与散白蚁属 Reticulitermes，现含 3 属。
 模式属为 Heterotermes Froggatt, 1897，
 科名由希腊语 heteros（不同的）与 termes 组合。
-本名录收录 3 属 230 种。
+本名录收录 3 属 229 种。
 
 本科为泛热带至北温带广布的类群，三属分布格局差异明显：乳白蚁属泛热带分布，
 以东洋界与澳大利亚为多样性中心，并见于非洲热带、新热带及印度—太平洋诸岛；异白蚁属主产新热带界，
@@ -2307,8 +2307,6 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 [*Coptotermes grandis* 大头乳白蚁]({{ site.base_url }}/species/coptotermes-grandis/)
 
 [*Coptotermes guangdongensis* 广东乳白蚁]({{ site.base_url }}/species/coptotermes-guangdongensis/)
-
-[*Coptotermes guizhouensis* 贵州乳白蚁]({{ site.base_url }}/species/coptotermes-guizhouensis/)
 
 [*Coptotermes gulangyuensis* 鼓浪屿乳白蚁]({{ site.base_url }}/species/coptotermes-gulangyuensis/)
 
@@ -2729,7 +2727,7 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 白蚁科由 Latreille 于 1802 年建立，
 模式属为 Termes Linnaeus, 1758；
 科名由模式属词干 Termit- 加科级后缀 -idae 构成。
-本名录收录 277 属 2138 种。
+本名录收录 277 属 2130 种。
 
 本科为泛热带分布，热带、亚热带各大动物地理区均有代表，少数种延伸至暖温带。
 食性为白蚁各科中最多样的类群，涵盖木食、草食、枯枝落叶食、腐殖土食与培养真菌食等类型，
@@ -2751,7 +2749,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 筑巢模式多样，土栖巢、地表垅巢、树栖纸巢均见，本科蚁巢是热带森林与稀树草原最显著的生态工程结构。
 白蚁科是新等翅类中物种多样性最高的类群，约于始新世末开始辐射，其内部在古近纪发生了快速辐射。
 
-本科现分 18 个亚科(21)：弓白蚁亚科 Amitermitinae（14 属 194 种）、
+本科现分 18 个亚科(21)：弓白蚁亚科 Amitermitinae（14 属 193 种）、
 尖白蚁亚科 Apicotermitinae（65 属 237 种）、
 响白蚁亚科 Crepititermitinae（1 属 1 种）、
 方白蚁亚科 Cubitermitinae（28 属 142 种）、
@@ -2762,7 +2760,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 大白蚁亚科 Macrotermitinae（12 属 373 种）、
 锯白蚁亚科 Microcerotermitinae（2 属 150 种）、
 瘤白蚁亚科 Mirocapritermitinae（14 属 133 种）、
-象白蚁亚科 Nasutitermitinae（81 属 608 种）、
+象白蚁亚科 Nasutitermitinae（81 属 607 种）、
 新扭白蚁亚科 Neocapritermitinae（3 属 20 种）、
 前奇白蚁亚科 Promirotermitinae（2 属 39 种）、
 始钩白蚁亚科 Protohamitermitinae（2 属 2 种）、
@@ -2776,7 +2774,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 弓白蚁亚科由 Kemner 于 1934 年建立（原始文献第 110 页），
 模式属为弓白蚁属 Amitermes Silvestri, 1901，亚科名即取自模式属，
 Amitermes 疑取拉丁语 hami-“钩”＋ termes，指兵蚁弯曲如弓的上颚。
-本名录收录 14 属 194 种。
+本名录收录 14 属 193 种。
 
 本亚科分布以澳大利亚与旧热带界为中心，延及新热带界、中东、南亚与美国南部。
 食性涵盖腐木、干草及土—木界面多种基质；兵蚁头多呈梨形、无额突，上颚在属间变化极大，咬压、穿刺、
@@ -2855,8 +2853,6 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 [*Amitermes braunsi* 布劳恩斯弓白蚁]({{ site.base_url }}/species/amitermes-braunsi/)
 
 [*Amitermes calabyi* 卡拉比弓白蚁]({{ site.base_url }}/species/amitermes-calabyi/)
-
-[*Amitermes californicus* 加州弓白蚁]({{ site.base_url }}/species/amitermes-californicus/)
 
 [*Amitermes capito* 大头弓白蚁]({{ site.base_url }}/species/amitermes-capito/)
 
@@ -6163,7 +6159,7 @@ evidenced by soldier mandible development》，
 第 462 页）(63)，模式属为象白蚁属 Nasutitermes Dudley, 1890；
 亚科名取自模式属，Nasutitermes 由拉丁语 nasus（鼻）与 termes 组合，
 指兵蚁头前端延伸成的锥状象鼻。
-本名录收录 81 属 608 种。
+本名录收录 81 属 607 种。
 
 本亚科以象鼻型兵蚁（nasute soldier）为共衍征：头壳前端延伸成锥状象鼻，
 额腺分泌物经此喷出御敌，上颚显著退化、不再行咬啮，是本科防御方式高度特化的一支。
@@ -7002,8 +6998,6 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Nasutitermes crassus* 粗颚象白蚁]({{ site.base_url }}/species/nasutitermes-crassus/)
 
 [*Nasutitermes curtinasus* 短鼻象白蚁]({{ site.base_url }}/species/nasutitermes-curtinasus/)
-
-[*Nasutitermes dasyopsis* 毛脸象白蚁]({{ site.base_url }}/species/nasutitermes-dasyopsis/)
 
 [*Nasutitermes dendrophilus* 喜树象白蚁]({{ site.base_url }}/species/nasutitermes-dendrophilus/)
 

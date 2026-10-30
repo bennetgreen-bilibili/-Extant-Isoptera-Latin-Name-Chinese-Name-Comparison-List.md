@@ -34,7 +34,7 @@ ES — **常见前奇白蚁** (*Promirotermes redundans*) es una especie del gé
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/list/#promirotermitinae) —— 本站收录 2 属 39 种（2 genera, 39 species · 2 géneros, 39 especies）
 - **属 Genus / Género**：[前奇白蚁属 *Promirotermes*]({{ site.base_url }}/list/#promirotermes) —— 共 10 种（10 species · 10 especies）
 - **本属模式种 Type species / Especie tipo**：*Promirotermes holmgreni*

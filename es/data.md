@@ -16,11 +16,11 @@ permalink: /es/data/
 
 ## Conjunto de datos archivado y DOI
 
-<p>Todos los registros del listado están además empaquetados como un conjunto de datos archivado y citable (<strong>3071 registros</strong>: CSV con una fila por taxón, JSON de taxonomía, tabla de sinónimos, lista de referencias, más un registro DataCite 4.6 y una licencia CC BY 4.0). Descargar:
+<p>Todos los registros del listado están además empaquetados como un conjunto de datos archivado y citable (<strong>3068 registros</strong>: CSV con una fila por taxón, JSON de taxonomía, tabla de sinónimos, lista de referencias, más un registro DataCite 4.6 y una licencia CC BY 4.0). Descargar:
 <a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>.</p>
 
 <ul>
-  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3071 registros de taxones (nombre chino, localidad tipo, distribución, sinónimos)</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3068 registros de taxones (nombre chino, localidad tipo, distribución, sinónimos)</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — árbol taxonómico completo (clado–familia–subfamilia–género–especie/subespecie)</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — tabla de sinónimos con localidades tipo y estado de alineación</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — recuentos por familia/subfamilia</li>
@@ -45,13 +45,13 @@ permalink: /es/data/
   <li><a href="{{ site.base_url }}/data/mastotermitidae.json"><strong>Mastotermitidae</strong></a> — 1 género · 1 especie</li>
   <li><a href="{{ site.base_url }}/data/teletisoptera.json"><strong>Teletisoptera</strong> (Archotermopsidae / Hodotermitidae / Hodotermopsidae / Stolotermitidae)</a> — 4 familias · 8 géneros · 37 especies</li>
   <li><a href="{{ site.base_url }}/data/kalotermitidae.json"><strong>Kalotermitidae</strong></a> — 23 géneros · 479 especies</li>
-  <li><a href="{{ site.base_url }}/data/neoisoptera-excl-termitidae.json"><strong>Neoisoptera excl. Termitidae</strong> (Psammotermitidae / Rhinotermitidae / Serritermitidae / Stylotermitidae / Termitogetonidae / Heterotermitidae)</a> — 6 familias · 14 géneros · 359 especies</li>
+  <li><a href="{{ site.base_url }}/data/neoisoptera-excl-termitidae.json"><strong>Neoisoptera excl. Termitidae</strong> (Psammotermitidae / Rhinotermitidae / Serritermitidae / Stylotermitidae / Termitogetonidae / Heterotermitidae)</a> — 6 familias · 14 géneros · 358 especies</li>
 </ul>
 
 ## Termitidae (18 subfamilias, un archivo por subfamilia)
 
 <ul>
-  <li><a href="{{ site.base_url }}/data/termitidae/amitermitinae.json">Amitermitinae</a> — 14 géneros · 194 especies</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/amitermitinae.json">Amitermitinae</a> — 14 géneros · 193 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/apicotermitinae.json">Apicotermitinae</a> — 65 géneros · 237 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/crepititermitinae.json">Crepititermitinae</a> — 1 género · 1 especie</li>
   <li><a href="{{ site.base_url }}/data/termitidae/cubitermitinae.json">Cubitermitinae</a> — 28 géneros · 142 especies</li>
@@ -62,7 +62,7 @@ permalink: /es/data/
   <li><a href="{{ site.base_url }}/data/termitidae/macrotermitinae.json">Macrotermitinae</a> — 12 géneros · 373 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/microcerotermitinae.json">Microcerotermitinae</a> — 2 géneros · 150 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">Mirocapritermitinae</a> — 14 géneros · 133 especies</li>
-  <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">Nasutitermitinae</a> — 81 géneros · 608 especies</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">Nasutitermitinae</a> — 81 géneros · 607 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/neocapritermitinae.json">Neocapritermitinae</a> — 3 géneros · 20 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/promirotermitinae.json">Promirotermitinae</a> — 2 géneros · 39 especies</li>
   <li><a href="{{ site.base_url }}/data/termitidae/protohamitermitinae.json">Protohamitermitinae</a> — 2 géneros · 2 especies</li>

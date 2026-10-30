@@ -32,7 +32,7 @@ ES — **指名亚种** (*Reticulitermes speratus speratus*) es una subespecie d
 
 ## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
 - **种 Species / Especie**：[栖北散白蚁 *Reticulitermes speratus*]({{ site.base_url }}/species/reticulitermes-speratus/)
 - **亚种 Subspecies / Subespecie**：本页（*Reticulitermes speratus speratus*）

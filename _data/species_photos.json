@@ -39,10 +39,10 @@
    }
   },
   "counts": {
-   "species_with_photos": 206,
-   "species_searched": 3009,
+   "species_with_photos": 205,
+   "species_searched": 3006,
    "photos": {
-    "inaturalist": 771,
+    "inaturalist": 769,
     "commons": 122
    }
   },
@@ -545,7 +545,6 @@
     "Coptotermes grandiceps",
     "Coptotermes grandis",
     "Coptotermes guangdongensis",
-    "Coptotermes guizhouensis",
     "Coptotermes gulangyuensis",
     "Coptotermes hainanensis",
     "Coptotermes intermedius",
@@ -1657,7 +1656,6 @@
     "Nasutitermes crassicornis",
     "Nasutitermes crassus",
     "Nasutitermes curtinasus",
-    "Nasutitermes dasyopsis",
     "Nasutitermes dendrophilus",
     "Nasutitermes devrayi",
     "Nasutitermes diabolus",
@@ -3047,7 +3045,6 @@
     "Amitermes boreus",
     "Amitermes braunsi",
     "Amitermes calabyi",
-    "Amitermes californicus",
     "Amitermes capito",
     "Amitermes coachellae",
     "Amitermes colonus",
@@ -3467,7 +3464,6 @@
     "Coptotermes grandiceps",
     "Coptotermes grandis",
     "Coptotermes guangdongensis",
-    "Coptotermes guizhouensis",
     "Coptotermes gulangyuensis",
     "Coptotermes hainanensis",
     "Coptotermes intermedius",
@@ -4606,7 +4602,6 @@
     "Nasutitermes crassicornis",
     "Nasutitermes crassus",
     "Nasutitermes curtinasus",
-    "Nasutitermes dasyopsis",
     "Nasutitermes dendrophilus",
     "Nasutitermes devrayi",
     "Nasutitermes diabolus",
@@ -6000,74 +5995,6 @@
     "page": "https://commons.wikimedia.org/wiki/File:Acorhinotermes_(10.3897-zookeys.891.37523)_Figure_1.jpg"
    }
   ],
-  "Amitermes californicus": [
-   {
-    "source": "inaturalist",
-    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/362926964/large.jpeg",
-    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/362926964/medium.jpeg",
-    "width": 1024,
-    "height": 683,
-    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
-    "license": "CC BY",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://www.inaturalist.org/observations/205287560"
-   },
-   {
-    "source": "inaturalist",
-    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472450/large.jpeg",
-    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472450/medium.jpeg",
-    "width": 1024,
-    "height": 683,
-    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
-    "license": "CC BY",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://www.inaturalist.org/observations/200355517"
-   },
-   {
-    "source": "inaturalist",
-    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472453/large.jpeg",
-    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472453/medium.jpeg",
-    "width": 1024,
-    "height": 682,
-    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
-    "license": "CC BY",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://www.inaturalist.org/observations/200355517"
-   },
-   {
-    "source": "inaturalist",
-    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336058340/large.jpeg",
-    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/336058340/medium.jpeg",
-    "width": 1024,
-    "height": 768,
-    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
-    "license": "CC BY",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://www.inaturalist.org/observations/191547068"
-   },
-   {
-    "source": "inaturalist",
-    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336058353/large.jpeg",
-    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/336058353/medium.jpeg",
-    "width": 1024,
-    "height": 768,
-    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
-    "license": "CC BY",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://www.inaturalist.org/observations/191547068"
-   },
-   {
-    "source": "inaturalist",
-    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260012091/large.jpg",
-    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/260012091/medium.jpg",
-    "width": 1024,
-    "height": 682,
-    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
-    "license": "CC BY",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://www.inaturalist.org/observations/150759784"
-   }
-  ],
   "Amitermes eucalypti": [
    {
     "source": "inaturalist",
@@ -6430,6 +6357,50 @@
     "license": "CC BY-SA",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "page": "https://www.inaturalist.org/observations/177992207"
+   },
+   {
+    "source": "inaturalist",
+    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/362926964/large.jpeg",
+    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/362926964/medium.jpeg",
+    "width": 1024,
+    "height": 683,
+    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://www.inaturalist.org/observations/205287560"
+   },
+   {
+    "source": "inaturalist",
+    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472450/large.jpeg",
+    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472450/medium.jpeg",
+    "width": 1024,
+    "height": 683,
+    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://www.inaturalist.org/observations/200355517"
+   },
+   {
+    "source": "inaturalist",
+    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472453/large.jpeg",
+    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/353472453/medium.jpeg",
+    "width": 1024,
+    "height": 682,
+    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://www.inaturalist.org/observations/200355517"
+   },
+   {
+    "source": "inaturalist",
+    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336058340/large.jpeg",
+    "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/336058340/medium.jpeg",
+    "width": 1024,
+    "height": 768,
+    "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://www.inaturalist.org/observations/191547068"
    }
   ],
   "Anacanthotermes ahngerianus": [

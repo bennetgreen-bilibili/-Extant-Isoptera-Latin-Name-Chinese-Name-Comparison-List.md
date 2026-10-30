@@ -39,9 +39,9 @@ python .github/workflows/build_dataset.py --check
 **成功的标志**是最后四行：
 
 ```text
-记录 3071 条（种 3008，亚种 63）；属 323；科 13；亚科 18；支系 6
-次异名 696 条；参考文献 77 条（含 DOI 46 条）
-数据文件合计 3654245 字节；归档包 downloads/isoptera-checklist-v2026.10.30.zip 487496 字节；产物 13 个
+记录 3068 条（种 3005，亚种 63）；属 323；科 13；亚科 18；支系 6
+次异名 699 条；参考文献 77 条（含 DOI 46 条）
+数据文件合计 3652207 字节；归档包 downloads/isoptera-checklist-v2026.10.30.zip 487689 字节；产物 13 个
 ok: 全部 13 个产物与生成结果一致
 ```
 
@@ -70,17 +70,17 @@ ok: 全部 13 个产物与生成结果一致
 **只传这一个文件就够了。** 它是"一键下载"的完整包，里面是：
 
 ```text
-isoptera-checklist-2026.10.17/
-  README.md            10,728 B   归档说明（来源/方法/字段/限制/引用）
+isoptera-checklist-2026.10.30/
+  README.md            10,785 B   归档说明（来源/方法/字段/限制/引用）
   LICENSE               1,913 B   CC BY 4.0
   CITATION.cff          1,757 B   机器可读引用（含 doi: 一行）
-  CHANGELOG.md          1,174 B
+  CHANGELOG.md          5,887 B
   CHECKSUMS.sha256        717 B
   datapackage.json     10,830 B   字段字典（Frictionless 格式）
-  datacite-metadata.xml 6,184 B   DataCite 4.6 元数据（第 3 行就是 DOI）
-  data/isoptera-checklist.csv     1,752,731 B  3071 行 × 22 列
-  data/isoptera-taxonomy.json     1,715,138 B  完整分类树
-  data/isoptera-synonyms.csv        169,975 B  次异名长表
+  datacite-metadata.xml 6,304 B   DataCite 4.6 元数据（第 3 行就是 DOI）
+  data/isoptera-checklist.csv     1,751,458 B  3068 行 × 22 列
+  data/isoptera-taxonomy.json     1,713,678 B  完整分类树
+  data/isoptera-synonyms.csv        170,670 B  次异名长表
   data/isoptera-references.csv       14,186 B  77 条文献
   data/isoptera-counts.csv            2,215 B  科/亚科/属/种计数
 ```
@@ -133,8 +133,8 @@ Checklist of extant Isoptera (termites): Latin scientific names with Chinese sta
 Zenodo 描述支持 HTML，下面的 `<p>` 会正常渲染。把下面代码块**整段**粘进去：
 
 ```html
-<p>A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3008 species and 63 subspecies (3071 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</p>
-<p>现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3008 种、63 亚种，共 3071 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。</p>
+<p>A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3005 species and 63 subspecies (3068 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</p>
+<p>现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3005 种、63 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。</p>
 <p><strong>项目网站 / Project website:</strong> <a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/">https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/</a></p>
 <p><strong>源码仓库 / Source repository:</strong> <a href="https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md">https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md</a></p>
 ```

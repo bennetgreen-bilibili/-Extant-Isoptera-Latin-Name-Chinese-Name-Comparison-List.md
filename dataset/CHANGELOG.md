@@ -4,17 +4,24 @@
 
 ## 2026.10.30 — 异名补录与命名差异判定修订
 
-- 数据补录（只补异名对应关系，不改名录主体与计数）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
+- 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF、CoL、BSF 一致视为异名）
   - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL、BSF 一致；GBIF 仍标接受名）
   - *Nasutitermes dasyopsis* → *Nasutitermes nigriceps*（CoL、BSF 一致；GBIF 仍标接受名）
-  - `synonym_count` / `synonyms` 仍按原始文献口径，归档数据集的次异名表（696 条）不变。
-- 命名差异看板改为「逐对判定关系与方向」：19 条名称差异 → 15 对；关系上 异名 4 对 / 组合差异（同种异属）11 对；方向上 外部库名为接收名 3 对 / 本站名为接收名 6 对 / 待定 6 对；可补录 3 对、已补录 3 对。物种页「其他数据库」区块与 `search-index.json` 同步。
+  - 初版 `synonym_count` / `synonyms` 仍按原始文献口径，归档数据集的次异名表（696 条）不变；随后按人工判断把这 3 对正式合并（见本条末「异名正式合并」）。
+- 命名差异看板改为「逐对判定关系与方向」：19 条名称差异 → 15 对；关系上 异名 4 对 / 组合差异（同种异属）11 对；方向上 外部库名为接收名 3 对 / 本站名为接收名 6 对 / 待定 6 对；可补录 3 对、已补录 3 对（正式合并 3 对后的最终数字见本条末）。物种页「其他数据库」区块与 `search-index.json` 同步。
 - 修复：命名差异页的异名/接受名外链曾把 `_config.yml` 的行尾注释拼进 URL（链接失效、破坏 HTML），已修复，并在 `_tools/check_site.py` 增加坏 URL 与归并一致性校验。
 - 命名差异看板新增人工核对备注（`_data/name_issue_reviews.json`）：4 条模糊匹配经查为外部库拼写变体或误配——*Cortaritermes silvestrii*（GBIF / BSF 作 *silvestri*）、*Niuginitermes variratae*（BSF / CoL / GBIF 作 *variatae*）、*Euhamitermes chhotanii*（GBIF 作 *chhotannii*）与 *Incisitermes mariae*（GBIF 未收录该新名，模糊匹配到另一有效种 *I. marianus*）——本站名与原始描述一致，不改名；看板与 CSV 标「已人工核对」并附判定依据，规则见 `_tools/外部权威库与一致性核对.md` 第 4.3 节。
-- 归档文件：`downloads/isoptera-checklist-v2026.10.30.zip`（数据表与上一版一致，元数据、版本号与 `data/isoptera-taxonomy.json` 的名称/版本随之更新）。
+- 归档文件：`downloads/isoptera-checklist-v2026.10.30.zip`（本版数据表按本条末的异名合并重新生成，元数据、版本号与 `data/isoptera-taxonomy.json` 的名称/版本随之更新）。
 - DOI：本版尚未在 Zenodo 发布，版本 DOI 仍为 2026.10.17 版的 10.5281/zenodo.23646836；发布新版后回填。
 - 说明：本版本为纯汇编与对照记录，不构成任何命名行为（no nomenclatural act）。
+- **异名正式合并（同日修订）**：3 对「已补录」异名由「另立记录」改为正式并入接受名——
+  - 删除异名物种页（`amitermes-californicus`、`coptotermes-guizhouensis`、`nasutitermes-dasyopsis`），并从三语名录、`isoptera-data.json`、`data/` 结构化数据、检索索引、sitemap 与归档数据集中移除；
+  - 命名人与模式产地并入接受名的次异名列表（`synonyms` / `synonym_localities`），`synonym_count` 各加 1；`authority_synonym_*`（「依外部权威库补录的异名」）字段随之删除，物种页不再出现「另有独立记录、待合并」的提示；
+  - *Amitermes californicus* → *A. wheeleri*（GBIF / CoL / BSF 一致）、*Coptotermes guizhouensis* → *C. formosanus*（CoL / BSF 一致；GBIF 仍标接受名）、*Nasutitermes dasyopsis* → *N. nigriceps*（CoL / BSF 一致；GBIF 仍标接受名）；
+  - 计数调整：3071 → 3068 条记录（3008 → 3005 种，63 亚种不变）；白蚁科 2132 → 2130 种、异白蚁科 230 → 229 种、弓白蚁亚科 194 → 193 种、象白蚁亚科 608 → 607 种、弓白蚁属 113 → 112 种、乳白蚁属 59 → 58 种、象白蚁属 243 → 242 种；归档次异名表 696 → 699 条；
+  - 外部库缓存同步：`_data/authority_links.json`、`_data/bsf_links.json`（含人工核对工作表）、`downloads/isoptera-authority-crossref.csv` 都按新名录重算；`_data/species_photos.json` 把 *A. californicus* 的照片并入 *A. wheeleri*，`_data/occurrence_summary.json` 与种级 GeoJSON 移除已删物种；命名差异看板减少 7 条（307 → 300 条；名称差异 19 → 12 条、逐对 15 → 12 对；已补录 3 → 0）；
+  - 归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。
 
 ## 2026.10.17 — 首个 DOI 归档版本 First archived release
 

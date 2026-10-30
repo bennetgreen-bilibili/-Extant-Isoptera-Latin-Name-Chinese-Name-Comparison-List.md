@@ -45,13 +45,13 @@ permalink: /en/data/
   <li><a href="{{ site.base_url }}/data/mastotermitidae.json"><strong>Mastotermitidae</strong></a> — 1 genus · 1 species</li>
   <li><a href="{{ site.base_url }}/data/teletisoptera.json"><strong>Teletisoptera</strong> (Archotermopsidae / Hodotermitidae / Hodotermopsidae / Stolotermitidae)</a> — 4 families · 8 genera · 37 species</li>
   <li><a href="{{ site.base_url }}/data/kalotermitidae.json"><strong>Kalotermitidae</strong></a> — 23 genera · 479 species</li>
-  <li><a href="{{ site.base_url }}/data/neoisoptera-excl-termitidae.json"><strong>Neoisoptera excl. Termitidae</strong> (Psammotermitidae / Rhinotermitidae / Serritermitidae / Stylotermitidae / Termitogetonidae / Heterotermitidae)</a> — 6 families · 14 genera · 359 species</li>
+  <li><a href="{{ site.base_url }}/data/neoisoptera-excl-termitidae.json"><strong>Neoisoptera excl. Termitidae</strong> (Psammotermitidae / Rhinotermitidae / Serritermitidae / Stylotermitidae / Termitogetonidae / Heterotermitidae)</a> — 6 families · 14 genera · 358 species</li>
 </ul>
 
 ## Termitidae (18 subfamilies, one file each)
 
 <ul>
-  <li><a href="{{ site.base_url }}/data/termitidae/amitermitinae.json">Amitermitinae</a> — 14 genera · 194 species</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/amitermitinae.json">Amitermitinae</a> — 14 genera · 193 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/apicotermitinae.json">Apicotermitinae</a> — 65 genera · 237 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/crepititermitinae.json">Crepititermitinae</a> — 1 genus · 1 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/cubitermitinae.json">Cubitermitinae</a> — 28 genera · 142 species</li>
@@ -62,7 +62,7 @@ permalink: /en/data/
   <li><a href="{{ site.base_url }}/data/termitidae/macrotermitinae.json">Macrotermitinae</a> — 12 genera · 373 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/microcerotermitinae.json">Microcerotermitinae</a> — 2 genera · 150 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">Mirocapritermitinae</a> — 14 genera · 133 species</li>
-  <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">Nasutitermitinae</a> — 81 genera · 608 species</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">Nasutitermitinae</a> — 81 genera · 607 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/neocapritermitinae.json">Neocapritermitinae</a> — 3 genera · 20 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/promirotermitinae.json">Promirotermitinae</a> — 2 genera · 39 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/protohamitermitinae.json">Protohamitermitinae</a> — 2 genera · 2 species</li>

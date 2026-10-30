@@ -48,7 +48,7 @@
   <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/</relatedIdentifier>
   <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementedBy">https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md</relatedIdentifier>
  </relatedIdentifiers>
- <sizes>3071 taxon records; 3654245 bytes in data files</sizes>
+ <sizes>3068 taxon records; 3652207 bytes in data files</sizes>
  <formats>
   <format>text/csv</format>
   <format>application/json</format>
@@ -59,8 +59,8 @@
   <rights rightsIdentifier="CC-BY-4.0" rightsIdentifierScheme="SPDX">CC BY 4.0</rights>
  </rightsList>
  <descriptions>
-  <description descriptionType="Abstract" xml:lang="zh">现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3008 种、63 亚种，共 3071 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。</description>
-  <description descriptionType="Abstract" xml:lang="en">A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3008 species and 63 subspecies (3071 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</description>
+  <description descriptionType="Abstract" xml:lang="zh">现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3005 种、63 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。</description>
+  <description descriptionType="Abstract" xml:lang="en">A checklist of all extant lineages of Isoptera (termites): Latin scientific names paired with Chinese standard names. It covers 13 families, 18 subfamilies, 323 genera, 3005 species and 63 subspecies (3068 taxon records). Each record gives the scientific name, authorship, Chinese name, rank (species/subspecies), full classification (clade-family-subfamily-genus, in Latin and Chinese), type-species flag, type locality, distribution (Chinese and English), and synonyms with their type localities. The data are provided as a structured JSON taxonomy tree, a flat one-row-per-taxon CSV, a long-format synonym table, and a reference list of 77 cited works (DOIs where available). The dataset is a taxonomic compilation for look-up, cross-checking, translation and biodiversity informatics. It makes no nomenclatural act; new taxa and nomenclatural changes must be cited from the original publications.</description>
   <description descriptionType="Methods" xml:lang="zh">数据来源：Krishna et al. 2013（Treatise on the Isoptera of the world）、Hellemans et al. 2024（Nat Commun 15:6724）等 77 篇文献，以及 termitologia.net、GBIF、《白蚁学》《世界白蚁中文名录》《中国动物志》等中文资料。中文正名为编者拟定或沿用既有译名，正式使用前建议核对原始文献。生成脚本为仓库内 .github/workflows/build_dataset.py，数据可完全重建。</description>
  </descriptions>
  <geoLocations>

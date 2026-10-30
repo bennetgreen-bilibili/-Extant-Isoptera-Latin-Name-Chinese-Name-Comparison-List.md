@@ -32,8 +32,8 @@ ES — **拉夫雷亚种** (*Coptotermes acinaciformis raffrayi*) es una subespe
 
 ## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
-- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
+- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 58 种（58 species · 58 especies）
 - **种 Species / Especie**：[短刀乳白蚁 *Coptotermes acinaciformis*]({{ site.base_url }}/species/coptotermes-acinaciformis/)
 - **亚种 Subspecies / Subespecie**：本页（*Coptotermes acinaciformis raffrayi*）
 

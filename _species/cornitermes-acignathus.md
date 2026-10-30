@@ -34,7 +34,7 @@ ES — **尖颚角象白蚁** (*Cornitermes acignathus*) es una especie del gén
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/list/#cornitermes) —— 共 14 种（14 species · 14 especies）
 - **本属模式种 Type species / Especie tipo**：*Cornitermes cumulans*

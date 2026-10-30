@@ -34,8 +34,8 @@ ES — **瓦达球白蚁** (*Globitermes vadaensis*) es una especie del género 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 193 种（14 genera, 193 species · 14 géneros, 193 especies）
 - **属 Genus / Género**：[球白蚁属 *Globitermes*]({{ site.base_url }}/list/#globitermes) —— 共 7 种（7 species · 7 especies）
 - **本属模式种 Type species / Especie tipo**：*Globitermes globosus*
 

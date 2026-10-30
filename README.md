@@ -35,7 +35,7 @@
 
 ## 归档数据集与 DOI（dataset/）
 - 生成脚本：`.github/workflows/build_dataset.py`（只用标准库，确定性输出，可 `--check`）。产物：
-  - `dataset/data/isoptera-checklist.csv`：3071 行逐条表，22 列（Darwin Core 风格列名，含中文正名、模式产地、分布中英、次异名）
+  - `dataset/data/isoptera-checklist.csv`：3068 行逐条表，22 列（Darwin Core 风格列名，含中文正名、模式产地、分布中英、次异名）
   - `dataset/data/isoptera-taxonomy.json`：完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接）
   - `dataset/data/isoptera-synonyms.csv`、`isoptera-counts.csv`、`isoptera-references.csv`
   - `dataset/datapackage.json`（字段字典）、`dataset/datacite-metadata.xml`（DataCite 4.6 记录）
@@ -101,14 +101,14 @@
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
-| GBIF 可外链 / 共 3071 | 2967（96.6%；接受名 2957、异名 10、仅上级阶元 104） |
-| Catalogue of Life 可外链 | 2996（97.6%；异名 6、仅上级阶元 59、未收录 16） |
-| Wikidata 条目（P225） | 2875（93.6%） |
-| 与两库接受名完全一致 / 带提示 | 2896（94.3%） / 175 |
-| Blattodea Species File 对照 | 有效名 2963、异名 3、待核对 62、未检索到 43（共 3071；抽查 20/20 页可通过） |
-| 开放许可照片 | 206 个物种、893 张（iNaturalist 771 + Wikimedia Commons 122） |
+| GBIF 可外链 / 共 3068 | 2964（96.6%；接受名 2955、异名 9、仅上级阶元 104） |
+| Catalogue of Life 可外链 | 2993（97.6%；异名 3、仅上级阶元 59、未收录 16） |
+| Wikidata 条目（P225） | 2873（93.6%） |
+| 与两库接受名完全一致 / 带提示 | 2896（94.4%） / 172 |
+| Blattodea Species File 对照 | 有效名 2963、异名 0、待核对 62、未检索到 43（共 3068；抽查 20/20 页可通过） |
+| 开放许可照片 | 205 个物种、891 张（iNaturalist 769 + Wikimedia Commons 122） |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
-| 分布图 | 13 个科级 + 254 个属级 + 1,181 个种级 GeoJSON（`assets/geo/{family,genus,species}/`），87,076 条 GBIF 带坐标记录（访问日期 2026-10-28）；仅名录现生类群，化石种与 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 记录已剔除 |
+| 分布图 | 13 个科级 + 254 个属级 + 1,180 个种级 GeoJSON（`assets/geo/{family,genus,species}/`），87,075 条 GBIF 带坐标记录（访问日期 2026-10-28）；仅名录现生类群，化石种与 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 记录已剔除 |
 
 ### 1. 其它数据库外链与「本站名 vs 外部接受名」一致性提示
 - 每个物种页的「其他数据库」区块给出 GBIF Backbone、Catalogue of Life（ChecklistBank）、Wikidata、Blattodea Species File 的链接、状态（接受名/异名/存疑/未收录）与匹配置信度。
@@ -146,16 +146,16 @@
 ### 7. 命名差异与待核对看板（/list/name-issues/）
 
 - 位置：名录页（`/list/`）下一级，三语各一页；从名录页搜索框下方与每个物种页「其他数据库」区块底部进入。
-- 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 307 条，涉及 200 个种/亚种。
-- 逐对归并（「把异名记录到对应的接收名下面」）：19 条名称差异整理成 **15 对「本站名 ↔ 外部库主张的接受名」**（同一对多库只算一次），逐对判定两件事：
-  - **关系**：加词不同 = 「异名」4 对；同种异属（只是换了属）= 「组合差异」11 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
-  - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 15 对里：外部名为接收名 3 对、本站名为接收名 6 对、方向待定 6 对（10 对存在库间分歧）。
+- 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 300 条，涉及 197 个种/亚种。
+- 逐对归并（「把异名记录到对应的接收名下面」）：12 条名称差异整理成 **12 对「本站名 ↔ 外部库主张的接受名」**（同一对多库只算一次），逐对判定两件事：
+  - **关系**：加词不同 = 「异名」1 对；同种异属（只是换了属）= 「组合差异」11 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
+  - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 12 对里：外部名为接收名 0 对、本站名为接收名 6 对、方向待定 6 对（8 对存在库间分歧）。
   - 页末「名称差异逐对归并」表与 `downloads/isoptera-synonym-pairs.csv`（15 列）给出每对的关系、方向、各库判定与补录状态；物种页「其他数据库」区块按 incoming / outgoing 两侧列出（本种接收了哪些异名 / 外部库把本名放在哪个名字下）。数字随缓存刷新而变，页面与 `meta.counts` 为准。
-- **补录规则与现状（当前 3 对）**：只有「真异名 + 方向明确为外部库名为接收名 + 至少两个分类数据库一致认定」（`recordable`）才允许补录；GBIF Backbone 对滞后组合仍标 ACCEPTED 时只作「方向有分歧」提示，不否决。目前补录 3 对：
+- **补录规则与现状（当前 0 对）**：只有「真异名 + 方向明确为外部库名为接收名 + 至少两个分类数据库一致认定」（`recordable`）才允许补录；GBIF Backbone 对滞后组合仍标 ACCEPTED 时只作「方向有分歧」提示，不否决。此前看板标「已补录」的 3 对已在 2026.10.30 版**正式合并**（异名物种页删除，名录与各数据文件不再单列，命名人与模式产地并入接受名的次异名列表，`synonym_count` 各加 1），因此当前既无「可补录」也无「已补录」条目：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF / CoL / BSF 一致）
   - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL / BSF 一致；GBIF 仍标接受名）
   - *Nasutitermes dasyopsis* → *Nasutitermes nigriceps*（CoL / BSF 一致；GBIF 仍标接受名）
-  落点是接受名 `_species/<slug>.md` front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`（来源代码 gbif/col/bsf，同一异名的多个来源用逗号），正文「次异名」一节因此在文献次异名之外多出一个**「依外部权威库补录的异名」**小节；`synonym_count` 保持原始文献口径不变，归档数据集 `dataset/` 仍是文献口径（补录只进站点页面与 `search-index.json`，检索按该异名能命中接受名）。看板数据里这 3 对 `recorded: true`、`meta.counts.pairs_recorded = 3`，页面上标「已补录」；异名自己的物种页反向链接到接受名的「次异名」小节。*Pericapritermes metatus* → *P. appellans metata* 只有 CoL 一库给结论，仍留待人工核对。所有名字都保留独立记录；正式合并（删条目、改 3008 种计数）仍待人工判断。
+  「依外部权威库补录的异名」机制仍在（接受名 front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，来源代码 gbif/col/bsf），用于「异名另有独立记录、是否合并待定」的情形；正式合并后，异名只写进接受名的 `synonyms` / `synonym_localities`，`search-index.json` 仍可按异名命中接受名。*Pericapritermes metatus* → *P. appellans metata* 只有 CoL 一库给结论，仍留待人工核对。
 - **拼写变体与人工核对（当前 4 条）**：看板里的模糊匹配不一定是本站拼错——外部库可能少一个字母（*Cortaritermes silvestrii* → *silvestri*、*Niuginitermes variratae* → *variatae*、*Euhamitermes chhotanii* → *chhotannii*），或者 GBIF Backbone 尚未收录新名而把它模糊匹配到另一个有效种（*Incisitermes mariae* → *I. marianus*）。这 4 条经与原始描述逐条核对，本站名正确、**不改名**；核对结论写进 `_data/name_issue_reviews.json`（`verified` / `note`），`build_name_issues.py` 生成看板时套用（页面与 CSV 标「已人工核对」并给出依据），不改站内分类数据，也不写回外部库缓存。详见 `_tools/外部权威库与一致性核对.md` 第 4.3 节。
 - 交互：按类型与来源筛选、关键词检索（拉丁名 / 中文名 / 外部名 / 科名）、每页 50 条分页，状态写进 URL（`?group=&source=&q=&page=`）可分享；无 JS 时展示全部条目。
 - 产物：`_data/name_issues.json`（页面用；`synonym_pairs` = 逐对关系/方向/票数，`species_authority` = 物种页 incoming/outgoing 索引，`synonym_of_slug` = 已补录异名的反查）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）、`downloads/isoptera-synonym-pairs.csv`（15 列，一行一对）。
@@ -202,8 +202,8 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - **标题规则**：标签页 `<title>` 只显示本页语言，不做双语拼接；双语只出现在页头（主行 + 副行，见上文「多语言」）。因此各页 front matter 只需一个 `title`，不再有 `title_alt`。
 - **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语 `list.md` 同构、名录内部锚点、物种页面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数 = 名录物种链接数）、sitemap 与 i18n、命名差异产物自洽，并把「中文重名 / 缺分布 / 标题层级跳级」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取。**注意**：爬虫只读域名根 `https://bennetgreen-bilibili.github.io/robots.txt`，而本仓库的文件发布在 `…/-Extant-…-List.md/robots.txt` 这个子路径下，因此这份规则目前不生效（域名根 404 等价于全站允许，无副作用）；要让它生效需另建 `bennetgreen-bilibili.github.io` 用户站仓库。sitemap 请在 Search Console 直接提交
-- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 3102 条）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3102 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3071 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 3099 条）
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3068 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 
@@ -216,7 +216,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
   4. 复制生成的 `data-category` 与 `data-category-id`，替换 `guestbook.md` 和 `en/guestbook.md` 中对应的占位值。
 
 ## 物种页（每个物种/亚种一个独立页面）
-- `_species/*.md`：Jekyll 集合（collection），共 3071 个文件（3008 种 + 63 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
+- `_species/*.md`：Jekyll 集合（collection），共 3068 个文件（3005 种 + 63 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
 - **物种页是三语单页**：不设 `/en/species/`、`/es/species/` 副本，一个物种一页，页内同时承载中文/英文/西班牙文信息——固定标签写作「中文主 + `.fact-en`（英文）+ `.fact-es`（西文）」（如 `模式产地 Type locality Localidad tipo`），分布字段同时给出中文记录与英文记录（数据本身只有这两列），学名与中文正名在同一 H1。三语站的名录页都链接到这些共享物种页。
 - `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式产地/分布速览 + 同属内链）；面包屑「名录」带英文/西文小字，页面不显示语言切换（同一页服务三种语言）。
 - `list.md` / `en/list.md` / `es/list.md`：名录中每个物种名已链接到对应物种页（三语共用同一批 URL）。
@@ -226,14 +226,14 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。
 
 ## 物种页正文（自动生成）
-- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3071 条摘要句互不相同）。
+- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3068 条摘要句互不相同）。
 - 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
-- 手写多语言内容也放在标记外：正文直接写中文段落，非中文内容用 `lang` 标注，例如 `<div class="fact-es" lang="es">…</div>`、`<div class="fact-en" lang="en">…</div>`（`.fact-en` / `.fact-es` 为灰色小字样式，见 `assets/custom.css`）。自动生成的正文与章节标题目前只有中文；若要连正文一起三语，需要改 `build_species_body.py`（会重写 3071 页，属大改动）。
+- 手写多语言内容也放在标记外：正文直接写中文段落，非中文内容用 `lang` 标注，例如 `<div class="fact-es" lang="es">…</div>`、`<div class="fact-en" lang="en">…</div>`（`.fact-en` / `.fact-es` 为灰色小字样式，见 `assets/custom.css`）。自动生成的正文与章节标题目前只有中文；若要连正文一起三语，需要改 `build_species_body.py`（会重写 3068 页，属大改动）。
 - 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。
 - 用法：`python .github/workflows/build_species_body.py`（只统计、不写文件）、`--write`（写回 `_species/*.md`）、`--sample <slug>...`（打印生成结果）、`--check-idempotent`。
 - CI 中位于 `pages.yml` 的「Build species page bodies」步骤，在 Jekyll 构建前执行，保证数据变更后正文同步。
 - 生成内容完全来自仓库内已有字段，不做外部事实补全；分布、模式产地等地名沿用原始数据写法。
-- 「次异名」一节的结构：原始文献次异名（`synonyms` / `synonym_localities` / `synonym_count`）在前，编号列表；若 front matter 另有 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，再接一个「依外部权威库补录的异名」小节（项目符号列表，逐条给出模式产地与来源）。补录数据只影响该小节与检索索引，不改 `synonym_count`，因此 `dataset/` 归档仍是原始文献口径。
+- 「次异名」一节的结构：原始文献次异名（`synonyms` / `synonym_localities` / `synonym_count`）在前，编号列表；若 front matter 另有 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，再接一个「依外部权威库补录的异名」小节（项目符号列表，逐条给出模式产地与来源）。补录数据只影响该小节与检索索引，不改 `synonym_count`；2026.10.30 版已把此前 3 对「已补录」异名正式并入 `synonyms`（`synonym_count` 各加 1），当前没有只存在于该小节的条目。
 
 ## 搜索引擎收录推送（IndexNow）
 - 根目录 `182d630ef67e7551ab41b920fcdba760.txt` 是 IndexNow 的 key 验证文件：文件名就是 key，内容也必须恰好是同一串 key。**不要改名、不要删、不要改内容**，否则 IndexNow 会拒收提交。

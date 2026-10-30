@@ -16,7 +16,7 @@
  "counts": {
   "subfamilies": 1,
   "genera": 81,
-  "species": 608,
+  "species": 607,
   "subspecies": 10
  },
  "subfamily": {
@@ -2195,7 +2195,7 @@
     "zh": "象白蚁属",
     "latin": "Nasutitermes",
     "id": "nasutitermes",
-    "species_count": 243,
+    "species_count": 242,
     "type_species": "Nasutitermes corniger",
     "species": [
      {
@@ -2602,13 +2602,6 @@
       "zh": "短鼻象白蚁",
       "type": false,
       "distribution": "中国）",
-      "subspecies": null
-     },
-     {
-      "latin": "Nasutitermes dasyopsis",
-      "zh": "毛脸象白蚁",
-      "type": false,
-      "distribution": "巴拿马）",
       "subspecies": null
      },
      {

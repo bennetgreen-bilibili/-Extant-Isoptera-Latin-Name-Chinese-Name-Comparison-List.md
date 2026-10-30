@@ -34,8 +34,8 @@ ES — **马德拉斯漠白蚁** (*Eremotermes madrasicus*) es una especie del g
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 193 种（14 genera, 193 species · 14 géneros, 193 especies）
 - **属 Genus / Género**：[漠白蚁属 *Eremotermes*]({{ site.base_url }}/list/#eremotermes) —— 共 10 种（10 species · 10 especies）
 - **本属模式种 Type species / Especie tipo**：*Eremotermes indicatus*
 

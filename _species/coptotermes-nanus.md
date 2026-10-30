@@ -31,8 +31,8 @@ ES — **侏儒乳白蚁** (*Coptotermes nanus*) es una especie del género *Cop
 
 ## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 230 种（3 genera, 230 species · 3 géneros, 230 especies）
-- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 59 种（59 species · 59 especies）
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
+- **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/list/#coptotermes) —— 共 58 种（58 species · 58 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
 ## 分布

@@ -44,30 +44,30 @@
    }
   },
   "counts": {
-   "total": 3071,
-   "gbif_linked": 2967,
-   "gbif_accepted": 2957,
-   "gbif_synonym": 10,
+   "total": 3068,
+   "gbif_linked": 2964,
+   "gbif_accepted": 2955,
+   "gbif_synonym": 9,
    "gbif_missing": 0,
    "gbif_fuzzy": 4,
    "gbif_doubtful": 0,
    "gbif_higherrank": 104,
-   "col_linked": 2996,
+   "col_linked": 2993,
    "col_accepted": 2990,
-   "col_synonym": 6,
+   "col_synonym": 3,
    "col_missing": 16,
    "col_higherrank": 59,
-   "wikidata": 2875,
+   "wikidata": 2873,
    "consistent": 2896,
-   "flagged": 175
+   "flagged": 172
   },
   "flag_counts": {
    "col_higherrank": 59,
    "col_missing": 16,
-   "col_synonym": 6,
+   "col_synonym": 3,
    "gbif_fuzzy": 4,
    "gbif_higherrank": 104,
-   "gbif_synonym": 10
+   "gbif_synonym": 9
   }
  },
  "taxa": {
@@ -2032,39 +2032,6 @@
    },
    "wd": "Q110272281",
    "flags": [],
-   "_d": "2026-10-28"
-  },
-  "Amitermes californicus": {
-   "gbif": {
-    "key": 9157883,
-    "status": "SYNONYM",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Amitermes californicus Banks, 1920",
-    "accepted": {
-     "key": 2007289,
-     "name": "Amitermes wheeleri (Desneux, 1906)",
-     "status": null,
-     "rank": "SPECIES"
-    }
-   },
-   "col": {
-    "id": "8Q83Z",
-    "status": "synonym",
-    "label": "Amitermes californicus Banks, 1920",
-    "type": "variant",
-    "rank": "species",
-    "accepted": {
-     "id": "CSVV",
-     "label": "Amitermes wheeleri (Desneux, 1906)",
-     "name": "Amitermes wheeleri"
-    }
-   },
-   "flags": [
-    "gbif_synonym",
-    "col_synonym"
-   ],
    "_d": "2026-10-28"
   },
   "Amitermes capito": {
@@ -11623,34 +11590,6 @@
    },
    "wd": "Q140235369",
    "flags": [],
-   "_d": "2026-10-28"
-  },
-  "Coptotermes guizhouensis": {
-   "gbif": {
-    "key": 9759056,
-    "status": "ACCEPTED",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Coptotermes guizhouensis He & Qui, 1992",
-    "accepted": null
-   },
-   "col": {
-    "id": "9H6G7",
-    "status": "synonym",
-    "label": "Coptotermes (Polycrinitermes) guizhouensis He & Qui, 1992",
-    "type": "variant",
-    "rank": "species",
-    "accepted": {
-     "id": "Y8HZ",
-     "label": "Coptotermes formosanus Shiraki, 1909",
-     "name": "Coptotermes formosanus"
-    }
-   },
-   "wd": "Q140235370",
-   "flags": [
-    "col_synonym"
-   ],
    "_d": "2026-10-28"
   },
   "Coptotermes gulangyuensis": {
@@ -37577,34 +37516,6 @@
    },
    "wd": "Q130747622",
    "flags": [],
-   "_d": "2026-10-28"
-  },
-  "Nasutitermes dasyopsis": {
-   "gbif": {
-    "key": 9652402,
-    "status": "ACCEPTED",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Nasutitermes dasyopsis Thorne, 1989",
-    "accepted": null
-   },
-   "col": {
-    "id": "45SX3",
-    "status": "synonym",
-    "label": "Nasutitermes dasyopsis Thorne, 1989",
-    "type": "variant",
-    "rank": "species",
-    "accepted": {
-     "id": "45T2P",
-     "label": "Nasutitermes nigriceps (Haldeman, 1854)",
-     "name": "Nasutitermes nigriceps"
-    }
-   },
-   "wd": "Q130747623",
-   "flags": [
-    "col_synonym"
-   ],
    "_d": "2026-10-28"
   },
   "Nasutitermes dendrophilus": {

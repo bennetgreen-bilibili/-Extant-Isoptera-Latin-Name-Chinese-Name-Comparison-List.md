@@ -34,7 +34,7 @@ ES — **球角不对称白蚁** (*Schievitermes globicornis*) es la única espe
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[不对称白蚁属 *Schievitermes*]({{ site.base_url }}/list/#schievitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

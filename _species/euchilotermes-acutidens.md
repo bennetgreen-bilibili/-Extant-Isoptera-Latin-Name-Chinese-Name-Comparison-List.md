@@ -34,7 +34,7 @@ ES — **尖齿真唇白蚁** (*Euchilotermes acutidens*) es una especie del gé
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[真唇白蚁属 *Euchilotermes*]({{ site.base_url }}/list/#euchilotermes) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Euchilotermes tensus*

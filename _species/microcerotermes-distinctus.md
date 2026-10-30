@@ -34,7 +34,7 @@ ES — **易识锯白蚁** (*Microcerotermes distinctus*) es una especie del gé
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/list/#microcerotermitinae) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
 - **属 Genus / Género**：[锯白蚁属 *Microcerotermes*]({{ site.base_url }}/list/#microcerotermes) —— 共 148 种（148 species · 148 especies）
 - **本属模式种 Type species / Especie tipo**：*Microcerotermes strunckii*

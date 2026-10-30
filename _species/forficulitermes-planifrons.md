@@ -34,7 +34,7 @@ ES — **扁额剪白蚁** (*Forficulitermes planifrons*) es la única especie v
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[剪白蚁亚科 Forficulitermitinae]({{ site.base_url }}/list/#forficulitermitinae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
 - **属 Genus / Género**：[剪白蚁属 *Forficulitermes*]({{ site.base_url }}/list/#forficulitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

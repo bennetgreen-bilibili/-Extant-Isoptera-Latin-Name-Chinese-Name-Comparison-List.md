@@ -35,8 +35,8 @@ ES — **似寄宿亚种** (*Hospitalitermes hospitalis hospitaloides*) es una s
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 608 种（81 genera, 608 species · 81 géneros, 608 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
 - **属 Genus / Género**：[须白蚁属 *Hospitalitermes*]({{ site.base_url }}/list/#hospitalitermes) —— 共 37 种（37 species · 37 especies）
 - **种 Species / Especie**：[寄宿须白蚁 *Hospitalitermes hospitalis*]({{ site.base_url }}/species/hospitalitermes-hospitalis/)
 - **亚种 Subspecies / Subespecie**：本页（*Hospitalitermes hospitalis hospitaloides*）

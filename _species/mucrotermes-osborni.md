@@ -34,7 +34,7 @@ ES — **奥斯本锐尖白蚁** (*Mucrotermes osborni*) es una especie, y la es
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[锐尖白蚁属 *Mucrotermes*]({{ site.base_url }}/list/#mucrotermes) —— 共 2 种（2 species · 2 especies）
 

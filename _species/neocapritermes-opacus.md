@@ -36,7 +36,7 @@ ES — **发黑新扭白蚁** (*Neocapritermes opacus*) es una especie, y la esp
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2132 种（277 genera, 2132 species · 277 géneros, 2132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/list/#neocapritermitinae) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/list/#neocapritermes) —— 共 17 种（17 species · 17 especies）
 
