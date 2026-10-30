@@ -22,6 +22,8 @@
      三语 /changelog/ 页面；sitemap.txt 收录版本记录页但不收录订阅源（只收 HTML 页面）
  14. 全局搜索浮层（#search-overlay）初始 hidden 且样式里有 [hidden] 兜底，
      不会一进页面就常显、关不掉把整站遮住
+ 15. 物种页「同属其他种」区块带 data-pagefind-ignore：该区块只是内链，不进 Pagefind
+     全文索引，否则一个属的 40 个种名会塞进属内每一页，搜一个种名冒出整属的无关结果
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
 
@@ -585,6 +587,31 @@ def check_search_overlay() -> None:
         err("assets/custom.css", ".search-overlay[hidden] 必须写 display:none!important（普通声明会被 .search-overlay 的 display:flex 按优先级压掉）")
 
 
+def check_species_siblings_not_indexed() -> None:
+    """物种页「同属其他种」区块不得进入 Pagefind 全文索引。
+
+    Pagefind 只索引 <main data-pagefind-body> 里的文字（见 _layouts/default.html），
+    而「同属其他种」在 3000+ 个物种页上各列出最多 40 条同属学名 / 中文名内链。
+    一旦这些名字进了索引，每个物种页都「含有」整属的种名：搜一个种名会连同属的一大堆
+    无关页面一起返回，搜索结果被淹没。给该区块加 data-pagefind-ignore 让 Pagefind
+    整块跳过即可（页面上的内链、SEO 抓取路径都不受影响，只是不参与全文检索）。
+    """
+    layout = ROOT / "_layouts" / "species.html"
+    if not layout.is_file():
+        err("_layouts/species.html", "物种页布局不存在")
+        return
+    text = read(layout)
+    tags = re.findall(r'<section\b[^>]*\bclass="[^"]*\bspecies-siblings\b[^"]*"[^>]*>', text)
+    if not tags:
+        err("_layouts/species.html", '找不到「同属其他种」区块（<section class="species-siblings">）')
+        return
+    for tag in tags:
+        if not re.search(r"\sdata-pagefind-ignore\b", tag):
+            err("_layouts/species.html",
+                "「同属其他种」区块缺少 data-pagefind-ignore：同属种名会进入 Pagefind 全文索引，"
+                "搜索一个种名会多出同属其他种的一大批页面（每页最多 40 条内链）")
+
+
 def check_feeds_and_changelog(base_url: str) -> None:
     """订阅源与版本记录：静态产物、Jekyll 页面、sitemap.txt 三者必须互相对得上。"""
     # 1. 版本记录数据与 Atom feed（由 _tools/build_changelog.py 生成；是否最新由 validate.yml 重新生成后比对 git status）
@@ -679,6 +706,7 @@ def main() -> int:
     check_i18n()
     check_name_issues(fields_by_slug)
     check_search_overlay()
+    check_species_siblings_not_indexed()
 
     if args.ci:
         for where, msg in errors:

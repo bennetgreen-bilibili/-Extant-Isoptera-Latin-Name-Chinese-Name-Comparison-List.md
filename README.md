@@ -64,6 +64,7 @@
 - 页面 `search.md` / `en/search.md` / `es/search.md` 的 front matter 里有 `pagefind: true`，`_layouts/default.html` 据此加载 `/pagefind/pagefind-ui.css`、`pagefind-ui.js` 与 `assets/search-page.js`；`bundlePath` 与 `baseUrl` 都带上站点 `baseurl`，因此站点部署在子路径下也能用。
 - 本地预览（`jekyll serve`）没有跑 Pagefind，搜索页会显示「索引尚未生成」的回退提示，其余功能不受影响；不生成索引时代码不会报错。
 - 索引产物不进仓库（由 CI 生成、随 artifact 部署），因此仓库不变大。
+- 物种页的「同属其他种」内链区块带 `data-pagefind-ignore`：它只用于站内抓取路径，**不进全文索引**。该区块每页最多列 40 个同属学名 / 中文名，一旦进索引，每个物种页都「含有」整属的种名，搜一个种名就会带出同属一大片无关页面。`_tools/check_site.py` 第 15 项会在该属性被误删时拦下。
 
 ### 3. 访问统计：GoatCounter（已启用，站点代码 `bennetgreen`）
 - 开源、无 Cookie、可自托管的访问统计，面板：<https://bennetgreen.goatcounter.com>。

@@ -54,7 +54,7 @@ layout: default
   {%- assign sibling_total = genus_siblings.size -%}
   {%- if page.rank != 'subspecies' -%}{%- assign sibling_total = sibling_total | minus: 1 -%}{%- endif -%}
   {%- if sibling_total > 0 -%}
-  <section class="species-siblings" aria-labelledby="siblings-title">
+  <section class="species-siblings" aria-labelledby="siblings-title" data-pagefind-ignore>
     <h2 id="siblings-title" class="siblings-title">同属其他种 <span class="fact-en" lang="en">Other species in {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} 种）</span> <span class="fact-es" lang="es">Otras especies de {{ page.genus_zh }} <i>{{ page.genus_latin }}</i>（{{ sibling_total }} especies）</span></h2>
     <ul class="sibling-list">
       {%- assign shown = 0 -%}
