@@ -1,0 +1,103 @@
+name: Refresh papers cache
+
+# 文献检索器缓存（/papers/）：每天增量刷新 + 手动触发。
+# 使用免费的 OpenAlex API key（GitHub Secret: OPENALEX_API_KEY），走 key 自己的额度，
+# 不要依赖 GitHub runner 的共享 IP 免费额度（那是按 IP 共享、随时可能 429 的）。
+# 默认每天只刷新 30 天以上的旧条目（约 10 个属/天），单次限时 300 秒；
+# 手动触发可勾选 force 全量重查。缓存生成后自动提交并触发 Pages 构建。
+
+on:
+  workflow_dispatch:
+    inputs:
+      stale-days:
+        description: "只刷新超过多少天的条目"
+        required: false
+        default: "30"
+      time-budget:
+        description: "单次网络时间预算（秒）；force 全量重查时建议填 0"
+        required: false
+        default: "300"
+      force:
+        description: "全量重查（忽略过期判断）"
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    # 每天 03:47 UTC（北京时间 11:47）；避开 03:17 的照片爬取
+    - cron: "47 3 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: papers-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Require OpenAlex API key
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          if [ -z "${OPENALEX_API_KEY}" ]; then
+            echo "::error::OPENALEX_API_KEY secret is not set. Add it in Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - name: Refresh papers cache
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+          STALE_DAYS: ${{ github.event.inputs['stale-days'] || '30' }}
+          TIME_BUDGET: ${{ github.event.inputs['time-budget'] || '300' }}
+          FORCE: ${{ github.event.inputs.force || 'false' }}
+        run: |
+          set -u
+          args=(--write --refresh --stale-days "${STALE_DAYS}" --time-budget "${TIME_BUDGET}")
+          if [ "${FORCE}" = "true" ]; then
+            args+=(--force)
+          fi
+          python .github/workflows/build_papers.py "${args[@]}"
+
+      - name: Validate cache
+        run: python .github/workflows/build_papers.py --check
+
+      - name: Commit updated cache
+        id: commit
+        run: |
+          if git diff --quiet -- _data/papers.json papers-index.json; then
+            echo "no paper changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/papers.json papers-index.json
+          git commit -m "data(papers): 定时刷新文献缓存与摘要"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3; do
+            if git push; then break; fi
+            echo "push rejected (attempt ${attempt}) - rebasing on origin"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          done
+
+      - name: Trigger the Pages build
+        # GITHUB_TOKEN 推送不会触发其它工作流，所以这里显式派发 pages.yml
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref "${GITHUB_REF_NAME}"

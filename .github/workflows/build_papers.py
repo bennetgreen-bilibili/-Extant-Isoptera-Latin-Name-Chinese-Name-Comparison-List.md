@@ -64,7 +64,7 @@ OPENALEX_API = "https://api.openalex.org/works"
 CROSSREF_API = "https://api.crossref.org/works"
 
 PER_GENUS = 12
-MAX_ABSTRACT_CHARS = 6000
+MAX_ABSTRACT_CHARS = 20000
 OPENALEX_SLEEP = 0.45
 CROSSREF_SLEEP = 0.35
 MAX_ATTEMPTS = 4

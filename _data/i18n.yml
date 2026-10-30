@@ -33,7 +33,7 @@ zh-CN:
   papers_heading: 文献检索
   papers_placeholder: 输入拉丁学名、中文名或关键词，如 Coptotermes formosanus / 家白蚁
   papers_search: 检索
-  papers_hint: 支持中文、拉丁名、次异名、拼音与繁体；结果来自 OpenAlex 与 Crossref 开放元数据，摘要覆盖率约 50–60%。
+  papers_hint: 支持中文、拉丁名、次异名、拼音与繁体；结果来自 OpenAlex 与 Crossref 开放元数据，摘要覆盖率约 60–70%。
   papers_examples: 示例
   papers_synonyms: 包含次异名
   papers_chinese_only: 仅中文文献
@@ -104,7 +104,7 @@ en:
   papers_heading: Literature search
   papers_placeholder: "Latin name, Chinese name or keyword, e.g. Coptotermes formosanus / Formosan termite"
   papers_search: Search
-  papers_hint: "Chinese, Latin names, synonyms, pinyin and traditional Chinese are supported. Results come from open OpenAlex and Crossref metadata; abstract coverage is about 50–60%."
+  papers_hint: "Chinese, Latin names, synonyms, pinyin and traditional Chinese are supported. Results come from open OpenAlex and Crossref metadata; abstract coverage is about 60–70%."
   papers_examples: Examples
   papers_synonyms: Include synonyms
   papers_chinese_only: Chinese-language papers only
@@ -175,7 +175,7 @@ es:
   papers_heading: Búsqueda bibliográfica
   papers_placeholder: "Nombre latino, nombre chino o palabra clave, p. ej. Coptotermes formosanus / termita"
   papers_search: Buscar
-  papers_hint: "Se admiten chino, nombres latinos, sinónimos, pinyin y chino tradicional. Los resultados proceden de metadatos abiertos de OpenAlex y Crossref; la cobertura de resúmenes es del 50–60%."
+  papers_hint: "Se admiten chino, nombres latinos, sinónimos, pinyin y chino tradicional. Los resultados proceden de metadatos abiertos de OpenAlex y Crossref; la cobertura de resúmenes es del 60–70%."
   papers_examples: Ejemplos
   papers_synonyms: Incluir sinónimos
   papers_chinese_only: Solo artículos en chino

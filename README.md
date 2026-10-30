@@ -93,9 +93,10 @@
 - 摘要：OpenAlex `abstract_inverted_index` 按词位置还原；Crossref JATS 摘要去标签补缺；单条缺摘要时可点「尝试获取摘要」再查 Crossref / Semantic Scholar。**只使用开放元数据，不抓出版社页面 / PDF，也不抓知网**；摘要版权归原作者 / 出版方，页面注明来源。
 - 引用导出：每条结果可复制 GB/T 7714、BibTeX、RIS；外链预填 Google Scholar / CNKI / 万方 / 百度学术 / BHL / OpenAlex / Crossref。
 - 缓存：`build_papers.py` 按 323 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers.json`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
-- 覆盖率：开放元数据里约一半条目有摘要，页面会明确显示「暂无摘要」并给出 DOI / OpenAlex / 外部平台链接；不保证 100%。
+- 覆盖率：本次缓存 1540 条中 1053 条有摘要（68.4%），页面会明确显示「暂无摘要」并给出 DOI / OpenAlex / 外部平台链接；不保证 100%。
 - 额度与回退：OpenAlex 无 API key 时按出口 IP 共享每日免费额度；额度用尽会 429，`build_papers.py` 自动回退 Crossref（摘要覆盖率会降低）。设置 `OPENALEX_API_KEY` 可走自己的额度；也可用 `--crossref-only` 直接只用 Crossref。
 - 刷新：`python .github/workflows/build_papers.py --write`（只补缺失 / 过期）、`--force`（全部重查）、`--refresh --stale-days 180 --time-budget 300`；断点缓存在 `_tmp/papers-cache.json`（不提交）。方法、许可与限制见 `_tools/文献检索器说明.md`。
+- 定时刷新：`.github/workflows/papers_refresh.yml` 每天 03:47 UTC 用 GitHub Secret `OPENALEX_API_KEY` 增量刷新（默认 30 天 / 300 秒预算），自动提交 `_data/papers.json` 与 `papers-index.json` 并触发 Pages；手动触发可勾选 `force` 全量重查。**没有 key 时不要开启每日定时**（只会走 Crossref 回退，且 runner 共享 IP 仍可能 429）。
 
 
 ## 外部数据与增强视图（GBIF / Catalogue of Life / Wikidata / BSF / iNaturalist / Crossref）
