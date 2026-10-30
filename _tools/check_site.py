@@ -24,6 +24,8 @@
      不会一进页面就常显、关不掉把整站遮住
  15. 物种页「同属其他种」区块带 data-pagefind-ignore：该区块只是内链，不进 Pagefind
      全文索引，否则一个属的 40 个种名会塞进属内每一页，搜一个种名冒出整属的无关结果
+  16. 文献检索器：三语 /papers/ 页面、sitemap、papers.json / papers-index.json
+      字节一致、属覆盖与摘要字段自洽
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
 
@@ -51,6 +53,13 @@ SPECIES_DIR = ROOT / "_species"
 LIST_FILES = {"zh-CN": ROOT / "list.md", "en": ROOT / "en" / "list.md", "es": ROOT / "es" / "list.md"}
 SITEMAP = ROOT / "sitemap.txt"
 SEARCH_INDEX = ROOT / "search-index.json"
+PAPERS_DATA = ROOT / "_data" / "papers.json"
+PAPERS_PUBLIC = ROOT / "papers-index.json"
+PAPERS_PAGES = (
+    ("papers.md", "/papers/"),
+    ("en/papers.md", "/en/papers/"),
+    ("es/papers.md", "/es/papers/"),
+)
 METADATA = ROOT / "dataset" / "metadata.json"
 NAME_ISSUES = ROOT / "_data" / "name_issues.json"
 NAME_ISSUES_PUBLIC = ROOT / "data" / "name-issues.json"
@@ -352,6 +361,112 @@ def check_sitemap(base_url: str) -> None:
     for page in ("name-issues.md", "en/name-issues.md", "es/name-issues.md"):
         if not (ROOT / page).is_file():
             err(page, "命名差异看板页面缺失")
+
+
+def check_papers(base_url: str) -> None:
+    """文献检索器：三语页面、sitemap、缓存文件与摘要字段。"""
+    sitemap = read(SITEMAP).splitlines() if SITEMAP.is_file() else []
+    for page, url in PAPERS_PAGES:
+        path = ROOT / page
+        if not path.is_file():
+            err(page, "文献检索页面缺失")
+            continue
+        body = read(path)
+        if 'id="papers-app"' not in body:
+            err(page, "缺少 #papers-app 容器（assets/papers.js 不会初始化）")
+        if ("permalink: " + url) not in body:
+            err(page, "permalink 应为 " + url)
+        if (base_url + url) not in sitemap:
+            err("sitemap.txt", "未收录文献检索页面 " + url)
+
+    if not PAPERS_DATA.is_file():
+        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "文件不存在（运行 .github/workflows/build_papers.py --write）")
+        return
+    if not PAPERS_PUBLIC.is_file():
+        err(PAPERS_PUBLIC.relative_to(ROOT).as_posix(), "公开副本不存在（运行 build_papers.py --write）")
+    else:
+        if PAPERS_PUBLIC.read_bytes() != PAPERS_DATA.read_bytes():
+            err(PAPERS_PUBLIC.relative_to(ROOT).as_posix(), "与 _data/papers.json 字节不一致")
+
+    try:
+        document = json.loads(read(PAPERS_DATA))
+    except json.JSONDecodeError as exc:
+        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "JSON 不可解析：%s" % exc)
+        return
+    if not isinstance(document, dict):
+        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "顶层不是对象")
+        return
+
+    expected_genera = {
+        str(e.get("h"))
+        for e in (json.loads(read(SEARCH_INDEX)) if SEARCH_INDEX.is_file() else [])
+        if isinstance(e, dict) and e.get("r") == "属" and e.get("h")
+    }
+    meta = document.get("meta") or {}
+    genera = document.get("genera") or {}
+    if not isinstance(genera, dict):
+        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "genera 不是对象")
+        return
+    missing = sorted(expected_genera - set(genera))
+    extra = sorted(set(genera) - expected_genera)
+    if missing:
+        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "缺少属条目 %d 个：%s" % (len(missing), missing[:5]))
+    if extra:
+        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "多出属条目 %d 个：%s" % (len(extra), extra[:5]))
+
+    total = with_abstract = with_doi = 0
+    for gid, entry in genera.items():
+        if not isinstance(entry, dict):
+            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 条目不是对象" % gid)
+            continue
+        if not entry.get("latin"):
+            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 缺 latin" % gid)
+        if not isinstance(entry.get("fetched_at"), str):
+            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 缺 fetched_at" % gid)
+        papers = entry.get("papers")
+        if not isinstance(papers, list):
+            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: papers 不是数组" % gid)
+            continue
+        if len(papers) > int(meta.get("per_genus") or 12):
+            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 文献数超过 per_genus" % gid)
+        seen = set()
+        for idx, paper in enumerate(papers):
+            where = "%s[%d]" % (gid, idx)
+            if not isinstance(paper, dict):
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 不是对象")
+                continue
+            pid = paper.get("id") or paper.get("doi") or paper.get("title")
+            if not pid:
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 缺 id/doi/title")
+            if pid in seen:
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 重复条目")
+            seen.add(pid)
+            if not paper.get("title"):
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 缺 title")
+            abstract = paper.get("abstract", "")
+            if not isinstance(abstract, str):
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": abstract 不是字符串")
+                abstract = ""
+            if paper.get("abstract_chars") != len(abstract):
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": abstract_chars 与摘要长度不一致")
+            if paper.get("doi") and paper.get("doi_url") != ("https://doi.org/" + str(paper.get("doi"))):
+                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": doi_url 与 doi 不一致")
+            if abstract:
+                with_abstract += 1
+            if paper.get("doi"):
+                with_doi += 1
+            total += 1
+
+    counts = meta.get("counts") or {}
+    expected_counts = {
+        "genera": len(expected_genera),
+        "papers": total,
+        "with_abstract": with_abstract,
+        "with_doi": with_doi,
+    }
+    for key, value in expected_counts.items():
+        if counts.get(key) != value:
+            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "meta.counts.%s=%s，实际 %s" % (key, counts.get(key), value))
 
 
 def check_i18n() -> None:
@@ -702,6 +817,7 @@ def main() -> int:
     species_sets, _ = check_lists()
     check_counts(fields_by_slug, species_sets)
     check_sitemap(base_url)
+    check_papers(base_url)
     check_feeds_and_changelog(base_url)
     check_i18n()
     check_name_issues(fields_by_slug)

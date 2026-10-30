@@ -74,6 +74,7 @@ jobs:
       #   python .github/workflows/build_bsf_links.py --write         （Blattodea Species File 半自动对照）
       #   python .github/workflows/build_species_photos.py --write    （iNaturalist + Wikimedia Commons 图片）
       #   python .github/workflows/build_references.py --write        （Crossref 文献增强）
+      #   python .github/workflows/build_papers.py --write             （/papers/ 属级文献缓存 + 摘要）
       #   python .github/workflows/build_occurrence_geojson.py --write（GBIF 分布图）
       # ------------------------------------------------------------------
       # 离线校验：坏了就应当阻断部署（线上只剩排版错误比缺数据更糟）。
@@ -84,6 +85,7 @@ jobs:
           python .github/workflows/build_bsf_links.py --check
           python .github/workflows/build_species_photos.py --check
           python .github/workflows/build_references.py --verify
+          python .github/workflows/build_papers.py --check
           # GeoJSON 与 occurrence_summary.json 必须一一对应：既校验 JSON 合法，也防止孤儿/缺失文件
           python -c "import glob,json,os; s=json.load(open('_data/occurrence_summary.json', encoding='utf-8')); listed={os.path.normpath(f['file']) for f in s['families']} | {os.path.normpath(g['file']) for g in (s.get('genera') or [])} | {os.path.normpath(v['file']) for v in (s.get('species') or {}).values()}; disk={os.path.normpath(p) for p in glob.glob('assets/geo/**/*.geojson', recursive=True)}; [json.load(open(p, encoding='utf-8')) for p in disk]; missing=listed-disk; orphan=disk-listed; print('geo artefacts OK (%d files)' % len(disk)); raise SystemExit(1 if (missing or orphan) else 0)"
 

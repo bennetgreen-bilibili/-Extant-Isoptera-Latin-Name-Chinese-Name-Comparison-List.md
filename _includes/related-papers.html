@@ -1,0 +1,35 @@
+{%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- comment -%}
+  物种页「相关文献」区块：数据来自 _data/papers.json（.github/workflows/build_papers.py 生成）。
+  没有缓存时只显示检索入口，不影响页面构建；摘要为完整文本（JSON 已转义，Liquid 再 escape）。
+{%- endcomment -%}
+{%- assign papers_data = site.data.papers -%}
+{%- if papers_data -%}{%- assign genus_papers = papers_data.genera[page.genus_id] -%}{%- endif -%}
+<section class="species-papers" aria-labelledby="species-papers-title">
+  <h2 id="species-papers-title" class="species-papers-title">相关文献 <span class="fact-en" lang="en">Related papers</span> <span class="fact-es" lang="es">Artículos relacionados</span></h2>
+  <p class="species-papers-lead">以下为本站缓存的<strong>本属</strong>相关文献（自动匹配，供参考）；查本种请用检索器，会自动合并次异名。</p>
+  {%- if genus_papers and genus_papers.papers.size > 0 -%}
+  <ol class="species-papers-list">
+    {%- for p in genus_papers.papers limit:3 -%}
+    <li class="species-paper">
+      {%- if p.doi -%}<a class="species-paper-title" href="https://doi.org/{{ p.doi | escape }}" target="_blank" rel="noopener">{{ p.title | escape }}</a>
+      {%- elsif p.openalex_url -%}<a class="species-paper-title" href="{{ p.openalex_url | escape }}" target="_blank" rel="noopener">{{ p.title | escape }}</a>
+      {%- else -%}<span class="species-paper-title">{{ p.title | escape }}</span>{%- endif -%}
+      <p class="species-paper-meta">{% if p.authors %}{{ p.authors | join: ", " | escape }}{% if p.authors.size > 6 %} et al.{% endif %} · {% endif %}{% if p.year %}{{ p.year }} · {% endif %}{{ p.venue | escape }}</p>
+      {%- if p.abstract -%}
+      <details class="species-paper-abstract"><summary>{{ T.papers_abstract }}</summary><p>{{ p.abstract | escape }}</p></details>
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ol>
+  {%- else -%}
+  <p class="species-papers-empty">{{ T.papers_no_results }}</p>
+  {%- endif -%}
+  <p class="species-papers-actions">
+    <a class="papers-cta" href="{{ site.base_url }}/papers/?q={{ page.latin | uri_escape }}&amp;syn=1">检索本种文献（含异名）→</a>
+    <a href="https://openalex.org/works?search={{ page.latin | uri_escape }}" target="_blank" rel="noopener">OpenAlex</a>
+    <a href="https://scholar.google.com/scholar?q={{ page.latin | uri_escape }}" target="_blank" rel="noopener">Google Scholar</a>
+    <a href="https://kns.cnki.net/kns8s/defaultresult/index?kw={{ page.latin | uri_escape }}" target="_blank" rel="noopener">知网</a>
+  </p>
+  <p class="species-papers-note">{{ T.papers_abstract_note }}</p>
+</section>

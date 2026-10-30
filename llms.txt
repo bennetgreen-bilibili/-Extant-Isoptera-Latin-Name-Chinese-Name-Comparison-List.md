@@ -11,6 +11,7 @@
 - [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
 - [名录（完整对照表：支系—科—亚科—属—种，含属级嵌套目录；每个科、属标题下方内嵌 GBIF 1° 网格分布图，页末附 77 条参考文献的 DOI / GB/T 7714 / APA 7 / Vancouver / BibTeX / RIS / CSL-JSON 增强视图）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
 - [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search/)
+- [文献检索（按拉丁名 / 中文名 / 关键词查 OpenAlex + Crossref，自动合并次异名，显示摘要，导出 GB/T 7714 / BibTeX / RIS）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/papers/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
 - [数据（机器可读结构化数据 JSON，按支系/科/亚科拆分，逐文件可访问）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [下载（downloads/ 文件夹文件列表）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/)
@@ -23,6 +24,7 @@
 - [Home (about + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
 - [List (full checklist: clade–family–subfamily–genus–species; each family and genus heading is followed by an inline GBIF 1°-grid distribution map, and the end of the page carries the enhanced 77-reference view with DOIs, GB/T 7714, APA 7, Vancouver, BibTeX, RIS and CSL-JSON)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/)
 - [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/search/)
+- [Literature search (OpenAlex + Crossref by Latin/Chinese name or keyword; synonyms merged; abstracts; GB/T 7714 / BibTeX / RIS export)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/papers/)
 - [Statistics (species counts by family/subfamily/genus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/)
 - [Data (machine-readable structured data JSON, split by taxon)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/data/)
 - [Download (files in downloads/ folder)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/)
@@ -35,6 +37,7 @@
 - [Inicio (presentación + navegación)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/)
 - [Listado (lista comparativa completa: clado–familia–subfamilia–género–especie; cada título de familia y género va seguido de su mapa de distribución de GBIF en rejilla de 1°, y al final se incluye la vista enriquecida de las 77 referencias con DOI, GB/T 7714, APA 7, Vancouver, BibTeX, RIS y CSL-JSON)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/list/)
 - [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/search/)
+- [Búsqueda bibliográfica (OpenAlex + Crossref por nombre latino/chino o palabra clave; sinónimos; resúmenes; exportación GB/T 7714 / BibTeX / RIS)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/papers/)
 - [Estadísticas (número de especies por rango: familia/subfamilia/género)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/stats/)
 - [Datos (datos estructurados legibles por máquina, JSON, divididos por taxón)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/data/)
 - [Descargas (archivos de la carpeta downloads/)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/download/)
@@ -49,6 +52,7 @@
 - [新等翅类（除白蚁科）：沙白蚁科/鼻白蚁科/齿白蚁科/杆白蚁科/寡脉白蚁科/异白蚁科](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/neoisoptera-excl-termitidae.json)
 - [白蚁科 Termitidae 18 亚科（逐亚科文件，完整清单见「数据」页 /data/）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/)
 - [检索索引 search-index.json（供搜索框；含所属科字段）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search-index.json)
+- [文献缓存 papers-index.json（323 个属的论文元数据 + 完整摘要；/papers/ 断网兜底）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/papers-index.json)
 - [命名差异清单 data/name-issues.json（三类问题、外部记录链接、匹配置信度）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/name-issues.json)
 - 程序化访问与订阅（固定路径，均在站点根下）：feed.xml（Atom）、feed.json（JSON Feed）、changelog.atom（版本记录 Atom）、opensearch.xml（浏览器搜索描述文档，检索地址 /search/?q=…）、sitemap.txt（全站 URL 清单）
 - 站内任意页面可按 Ctrl/⌘+K（或点导航里的搜索按钮）打开全局搜索浮层，索引由 Pagefind 在构建时生成、查询全部在浏览器本地完成。

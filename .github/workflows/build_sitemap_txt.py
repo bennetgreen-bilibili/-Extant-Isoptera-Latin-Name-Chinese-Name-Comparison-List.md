@@ -32,7 +32,7 @@ CONFIG = ROOT / "_config.yml"
 DEFAULT_OUT = ROOT / "sitemap.txt"
 
 # 中文核心页面在前，英文页、西语页随后；其余页面按路径排序追加
-CORE_ORDER = ["/", "/list/", "/search/", "/stats/", "/data/", "/download/", "/blog/", "/guestbook/"]
+CORE_ORDER = ["/", "/list/", "/search/", "/papers/", "/stats/", "/data/", "/download/", "/blog/", "/guestbook/"]
 
 # 这些目录里不会有「页面」（下划线前缀由 Jekyll 自身排除，其余为静态资源/数据目录）
 SKIP_DIRS = {".git", ".github", "_site", "assets", "data", "downloads", "_inbox", "_tmp", "_tools", "_unpublished"}

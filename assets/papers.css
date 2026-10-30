@@ -1,0 +1,113 @@
+/* 文献检索器：/papers/ 三语页面 + 物种页「相关文献」区块
+   纯静态增强，无框架；配色沿用 assets/custom.css 的 CSS 变量。 */
+
+.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+.papers-title{margin:1.2rem 0 .4rem;font-size:clamp(1.7rem,3.2vw,2.3rem);line-height:1.2}
+.papers-lead{max-width:56rem;margin:0 0 1.2rem;color:var(--muted);line-height:1.75}
+
+.papers-app{max-width:64rem;margin:0 auto}
+.papers-form{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:1rem;margin:0 0 1rem}
+.papers-search-row{display:flex;gap:.55rem;align-items:stretch}
+.papers-search-wrap{position:relative;flex:1 1 auto;min-width:0}
+.papers-input{width:100%;box-sizing:border-box;font:inherit;font-size:1rem;padding:.72rem .9rem;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--card);color:var(--ink)}
+.papers-input:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}
+.papers-submit{flex:0 0 auto;font:inherit;font-weight:600;padding:.7rem 1.15rem;border:1px solid var(--accent);border-radius:var(--radius-sm);background:var(--accent);color:#fff;cursor:pointer}
+.papers-submit:hover{background:var(--accent-strong);border-color:var(--accent-strong)}
+.papers-submit:disabled{opacity:.6;cursor:progress}
+
+.papers-suggestions{position:absolute;z-index:60;left:0;right:0;top:calc(100% + 4px);margin:0;padding:.25rem;list-style:none;background:var(--card);border:1px solid var(--line);border-radius:var(--radius-sm);box-shadow:var(--shadow-md);max-height:19rem;overflow:auto}
+.papers-suggestions li{margin:0}
+.papers-suggestions button{display:block;width:100%;text-align:left;font:inherit;padding:.5rem .55rem;border:0;border-radius:6px;background:transparent;color:var(--ink);cursor:pointer;line-height:1.35}
+.papers-suggestions button:hover,.papers-suggestions button.is-active{background:var(--accent-softer)}
+.papers-suggestions .sug-rank{color:var(--muted);font-size:.78em;margin-right:.4rem}
+.papers-suggestions .sug-latin{font-family:var(--font-serif);font-style:italic}
+.papers-suggestions .sug-zh{color:var(--muted);margin-left:.35rem}
+
+.papers-selected{margin:.55rem 0 0;font-size:.9rem;color:var(--accent-strong);background:var(--accent-softer);border:1px solid var(--accent-soft);border-radius:999px;padding:.3rem .7rem;display:inline-block}
+.papers-hint{margin:.55rem 0 .2rem;color:var(--muted);font-size:.9rem;line-height:1.6}
+.papers-options{display:flex;flex-wrap:wrap;gap:.55rem 1rem;align-items:center;margin:.65rem 0 .2rem;font-size:.92rem}
+.papers-check{display:inline-flex;gap:.35rem;align-items:center;cursor:pointer;white-space:nowrap}
+.papers-check input{width:1em;height:1em;accent-color:var(--accent)}
+.papers-sort-label{display:inline-flex;gap:.35rem;align-items:center;color:var(--muted)}
+.papers-sort{font:inherit;font-size:.92rem;padding:.25rem .4rem;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+.papers-clear{margin-left:auto;font:inherit;font-size:.88rem;padding:.25rem .7rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--muted);cursor:pointer}
+.papers-clear:hover{color:var(--ink);border-color:var(--accent)}
+.papers-examples{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin:.65rem 0 0;font-size:.88rem;color:var(--muted)}
+.papers-examples button{font:inherit;font-size:.85rem;padding:.2rem .55rem;border:1px dashed var(--line);border-radius:999px;background:transparent;color:var(--accent-strong);cursor:pointer}
+.papers-examples button:hover{border-color:var(--accent);background:var(--accent-softer)}
+
+.papers-status{min-height:1.6rem;margin:.2rem 0 .6rem;color:var(--muted);font-size:.92rem;line-height:1.6}
+.papers-status.is-error{color:#8a3b2e}
+.papers-status.is-cached{color:var(--earth)}
+
+.papers-results{display:flex;flex-direction:column;gap:.8rem}
+.papers-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:1rem 1.05rem}
+.papers-card-head{display:flex;gap:.55rem;align-items:flex-start;justify-content:space-between}
+.papers-card-title{margin:0;font-size:1.05rem;line-height:1.45;font-weight:650;min-width:0}
+.papers-card-title a{color:var(--ink);text-decoration:none}
+.papers-card-title a:hover{color:var(--accent-strong);text-decoration:underline}
+.papers-badges{display:flex;flex-wrap:wrap;gap:.3rem;flex:0 0 auto;justify-content:flex-end}
+.papers-badge{font-size:.72rem;line-height:1.4;padding:.12rem .45rem;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap;background:var(--paper)}
+.papers-badge.is-source{color:var(--accent-strong);border-color:var(--accent-soft);background:var(--accent-softer)}
+.papers-badge.is-oa{color:#2f6b4f;border-color:#bcd9c8;background:#eef7f1}
+.papers-meta{margin:.45rem 0 0;color:var(--muted);font-size:.9rem;line-height:1.55}
+.papers-meta .papers-venue{font-style:italic}
+.papers-abstract{margin:.65rem 0 0;font-size:.94rem;line-height:1.7;color:var(--ink)}
+.papers-abstract-preview{margin:0}
+.papers-abstract-full{margin:.35rem 0 0;color:var(--ink)}
+.papers-abstract-full[hidden]{display:none}
+.papers-abstract-toggle{font:inherit;font-size:.85rem;padding:0;margin-left:.35rem;border:0;background:none;color:var(--accent-strong);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.papers-abstract-missing{margin:.65rem 0 0;color:var(--muted);font-size:.9rem}
+.papers-abstract-missing button{font:inherit;font-size:.85rem;margin-left:.4rem;padding:.15rem .5rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--accent-strong);cursor:pointer}
+.papers-abstract-missing button:disabled{opacity:.6;cursor:progress}
+.papers-abstract-source{display:block;margin-top:.3rem;color:var(--muted);font-size:.8rem}
+.papers-card-foot{display:flex;flex-wrap:wrap;gap:.45rem 1rem;align-items:center;margin-top:.75rem;padding-top:.65rem;border-top:1px solid var(--line-soft);font-size:.85rem;color:var(--muted)}
+.papers-card-foot a{color:var(--accent-strong)}
+.papers-cite-buttons{display:flex;flex-wrap:wrap;gap:.3rem;margin-left:auto}
+.papers-copy{font:inherit;font-size:.8rem;padding:.18rem .55rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap}
+.papers-copy:hover{border-color:var(--accent);background:var(--accent-softer)}
+.papers-copy.is-copied{color:var(--accent-strong);border-color:var(--accent)}
+
+.papers-more{display:block;width:100%;margin:1rem 0 0;font:inherit;font-weight:600;padding:.7rem 1rem;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--card);color:var(--accent-strong);cursor:pointer}
+.papers-more:hover{border-color:var(--accent);background:var(--accent-softer)}
+.papers-more[hidden]{display:none}
+
+.papers-abstract-note{max-width:52rem;margin:1rem 0 0;color:var(--muted);font-size:.82rem;line-height:1.6}
+.papers-cache-link{margin:.35rem 0 0;font-size:.84rem}
+.papers-cache-link a{color:var(--accent-strong)}
+.papers-external{margin:1.4rem 0 0;padding:1rem 0 0;border-top:1px solid var(--line)}
+.papers-external h2{font-size:1.02rem;margin:0 0 .5rem}
+.papers-external-list{display:flex;flex-wrap:wrap;gap:.45rem .9rem;margin:0;padding:0;list-style:none;font-size:.9rem}
+.papers-external-list a{color:var(--accent-strong)}
+.papers-noscript{margin:1rem 0;padding:.8rem 1rem;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--paper);color:var(--muted)}
+
+/* 物种页「相关文献」 */
+.species-papers{margin:2rem 0 0;padding:1.1rem 1.15rem;border:1px solid var(--line);border-radius:var(--radius);background:var(--card);box-shadow:var(--shadow-sm)}
+.species-papers-title{font-size:1.15rem;margin:0 0 .45rem}
+.species-papers-lead{margin:0 0 .7rem;color:var(--muted);font-size:.92rem;line-height:1.65}
+.species-papers-list{margin:0;padding-left:1.3rem;display:flex;flex-direction:column;gap:.75rem}
+.species-paper-title{color:var(--ink);font-weight:600;text-decoration:none;line-height:1.5}
+.species-paper-title:hover{color:var(--accent-strong);text-decoration:underline}
+.species-paper-meta{margin:.2rem 0 0;color:var(--muted);font-size:.85rem;line-height:1.55}
+.species-paper-abstract{margin:.3rem 0 0;font-size:.9rem;line-height:1.7}
+.species-paper-abstract summary{cursor:pointer;color:var(--accent-strong)}
+.species-paper-abstract p{margin:.35rem 0 0;white-space:pre-line}
+.species-papers-empty{margin:.2rem 0 .6rem;color:var(--muted);font-size:.92rem}
+.species-papers-actions{display:flex;flex-wrap:wrap;gap:.5rem .9rem;align-items:center;margin:.8rem 0 0;font-size:.9rem}
+.species-papers-actions a{color:var(--accent-strong)}
+.species-papers-actions .papers-cta{font-weight:600}
+.species-papers-note{margin:.7rem 0 0;color:var(--muted);font-size:.8rem;line-height:1.55}
+
+@media (max-width:640px){
+  .papers-search-row{flex-direction:column}
+  .papers-submit{width:100%}
+  .papers-clear{margin-left:0}
+  .papers-card-head{flex-direction:column}
+  .papers-badges{justify-content:flex-start}
+  .papers-cite-buttons{margin-left:0}
+}
+@media print{
+  .papers-form,.papers-examples,.papers-more,.papers-cite-buttons,.papers-external{display:none!important}
+  .papers-card,.species-papers{box-shadow:none;break-inside:avoid}
+}

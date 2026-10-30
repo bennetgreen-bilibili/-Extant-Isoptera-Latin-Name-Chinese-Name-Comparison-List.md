@@ -11,6 +11,7 @@ zh-CN:
   nav_home: 首页
   nav_list: 名录
   nav_search: 全文搜索
+  nav_papers: 文献
   nav_stats: 统计
   nav_data: 数据
   nav_download: 下载
@@ -29,6 +30,50 @@ zh-CN:
   search_overlay_loading: 搜索中…
   search_overlay_close: 关闭
 
+  papers_heading: 文献检索
+  papers_placeholder: 输入拉丁学名、中文名或关键词，如 Coptotermes formosanus / 家白蚁
+  papers_search: 检索
+  papers_hint: 支持中文、拉丁名、次异名、拼音与繁体；结果来自 OpenAlex 与 Crossref 开放元数据，摘要覆盖率约 50–60%。
+  papers_examples: 示例
+  papers_synonyms: 包含次异名
+  papers_chinese_only: 仅中文文献
+  papers_has_abstract: 只看有摘要
+  papers_sort: 排序
+  papers_sort_relevance: 相关度
+  papers_sort_newest: 最新
+  papers_sort_cited: 被引最多
+  papers_loading: 检索中…
+  papers_results: "找到 {n} 条结果"
+  papers_no_results: 没有找到匹配的文献。可尝试扩大检索范围，或使用下方外链。
+  papers_error: "检索失败：{msg}。可稍后重试，或使用下方外链。"
+  papers_cached: 实时检索不可用，以下为本站缓存的属级文献。
+  papers_more: 加载更多
+  papers_abstract: 摘要
+  papers_show_abstract: 展开摘要
+  papers_hide_abstract: 收起摘要
+  papers_no_abstract: 暂无摘要
+  papers_try_abstract: 尝试获取摘要
+  papers_try_abstract_loading: 获取中…
+  papers_abstract_source: 摘要来源
+  papers_external: 在其他平台检索
+  papers_copy: 复制引用
+  papers_copied: 已复制
+  papers_cite_gbt: GB/T 7714
+  papers_cite_bibtex: BibTeX
+  papers_cite_ris: RIS
+  papers_synonym_badge: 次异名
+  papers_cached_badge: 本站缓存
+  papers_source_openalex: OpenAlex
+  papers_source_crossref: Crossref
+  papers_source_s2: Semantic Scholar
+  papers_source_cache: 本站缓存
+  papers_abstract_note: 摘要来自开放元数据，版权归原作者/出版方；仅用于检索参考，请以原文为准。
+  papers_cited: 被引
+  papers_clear: 清空
+  papers_synonym_count: "{n} 个次异名"
+  papers_cache_download: 下载本站文献缓存（JSON，含摘要）
+
+
 en:
   lang_label: English
   brand: Extant Isoptera
@@ -37,6 +82,7 @@ en:
   nav_home: Home
   nav_list: List
   nav_search: Search
+  nav_papers: Papers
   nav_stats: Statistics
   nav_data: Data
   nav_download: Download
@@ -55,6 +101,50 @@ en:
   search_overlay_loading: Searching…
   search_overlay_close: Close
 
+  papers_heading: Literature search
+  papers_placeholder: "Latin name, Chinese name or keyword, e.g. Coptotermes formosanus / Formosan termite"
+  papers_search: Search
+  papers_hint: "Chinese, Latin names, synonyms, pinyin and traditional Chinese are supported. Results come from open OpenAlex and Crossref metadata; abstract coverage is about 50–60%."
+  papers_examples: Examples
+  papers_synonyms: Include synonyms
+  papers_chinese_only: Chinese-language papers only
+  papers_has_abstract: With abstract only
+  papers_sort: Sort
+  papers_sort_relevance: Relevance
+  papers_sort_newest: Newest
+  papers_sort_cited: Most cited
+  papers_loading: Searching…
+  papers_results: "Found {n} results"
+  papers_no_results: No matching papers found. Try a broader query or use the external links below.
+  papers_error: "Search failed: {msg}. Try again later or use the external links below."
+  papers_cached: Live search is unavailable; showing cached genus-level papers from this site.
+  papers_more: Load more
+  papers_abstract: Abstract
+  papers_show_abstract: Show abstract
+  papers_hide_abstract: Hide abstract
+  papers_no_abstract: No abstract
+  papers_try_abstract: Try to fetch abstract
+  papers_try_abstract_loading: Fetching…
+  papers_abstract_source: Abstract source
+  papers_external: Search on other platforms
+  papers_copy: Copy citation
+  papers_copied: Copied
+  papers_cite_gbt: GB/T 7714
+  papers_cite_bibtex: BibTeX
+  papers_cite_ris: RIS
+  papers_synonym_badge: synonym
+  papers_cached_badge: site cache
+  papers_source_openalex: OpenAlex
+  papers_source_crossref: Crossref
+  papers_source_s2: Semantic Scholar
+  papers_source_cache: Site cache
+  papers_abstract_note: Abstracts come from open metadata; copyright remains with the original authors/publishers. For reference only — please check the original.
+  papers_cited: cited
+  papers_clear: Clear
+  papers_synonym_count: "{n} synonyms"
+  papers_cache_download: Download the site's paper cache (JSON, includes abstracts)
+
+
 es:
   lang_label: Español
   brand: Isópteros actuales
@@ -63,6 +153,7 @@ es:
   nav_home: Inicio
   nav_list: Listado
   nav_search: Búsqueda
+  nav_papers: Artículos
   nav_stats: Estadísticas
   nav_data: Datos
   nav_download: Descargas
@@ -80,3 +171,46 @@ es:
   search_overlay_empty: Sin resultados
   search_overlay_loading: Buscando…
   search_overlay_close: Cerrar
+
+  papers_heading: Búsqueda bibliográfica
+  papers_placeholder: "Nombre latino, nombre chino o palabra clave, p. ej. Coptotermes formosanus / termita"
+  papers_search: Buscar
+  papers_hint: "Se admiten chino, nombres latinos, sinónimos, pinyin y chino tradicional. Los resultados proceden de metadatos abiertos de OpenAlex y Crossref; la cobertura de resúmenes es del 50–60%."
+  papers_examples: Ejemplos
+  papers_synonyms: Incluir sinónimos
+  papers_chinese_only: Solo artículos en chino
+  papers_has_abstract: Solo con resumen
+  papers_sort: Ordenar
+  papers_sort_relevance: Relevancia
+  papers_sort_newest: Más recientes
+  papers_sort_cited: Más citados
+  papers_loading: Buscando…
+  papers_results: "Se encontraron {n} resultados"
+  papers_no_results: No se encontraron artículos. Pruebe una búsqueda más amplia o los enlaces externos.
+  papers_error: "Error de búsqueda: {msg}. Inténtelo más tarde o use los enlaces externos."
+  papers_cached: La búsqueda en vivo no está disponible; se muestran artículos del género guardados en la caché del sitio.
+  papers_more: Cargar más
+  papers_abstract: Resumen
+  papers_show_abstract: Mostrar resumen
+  papers_hide_abstract: Ocultar resumen
+  papers_no_abstract: Sin resumen
+  papers_try_abstract: Intentar obtener resumen
+  papers_try_abstract_loading: Obteniendo…
+  papers_abstract_source: Fuente del resumen
+  papers_external: Buscar en otras plataformas
+  papers_copy: Copiar cita
+  papers_copied: Copiado
+  papers_cite_gbt: GB/T 7714
+  papers_cite_bibtex: BibTeX
+  papers_cite_ris: RIS
+  papers_synonym_badge: sinónimo
+  papers_cached_badge: caché del sitio
+  papers_source_openalex: OpenAlex
+  papers_source_crossref: Crossref
+  papers_source_s2: Semantic Scholar
+  papers_source_cache: Caché del sitio
+  papers_abstract_note: Los resúmenes proceden de metadatos abiertos; los derechos pertenecen a sus autores/editores. Solo para referencia; consulte el original.
+  papers_cited: citas
+  papers_clear: Limpiar
+  papers_synonym_count: "{n} sinónimos"
+  papers_cache_download: Descargar la caché bibliográfica del sitio (JSON, incluye resúmenes)

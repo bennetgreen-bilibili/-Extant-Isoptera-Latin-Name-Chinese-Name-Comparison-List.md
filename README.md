@@ -8,14 +8,15 @@
 | `index.md` | 首页：简介（作者/版本/引用格式）+ 页面导航 + JSON-LD |
 | `list.md` | 名录：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
 | `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
+| `papers.md` | 文献检索：按拉丁名/中文名/关键词检索 OpenAlex + Crossref，自动合并次异名，显示摘要，导出 GB/T 7714 / BibTeX / RIS；三语 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
 | `name-issues.md` | 命名差异：名录页下一级（`/list/name-issues/`），把本站名与 GBIF / Catalogue of Life / BSF 的对照结果整理成可筛选清单（名称差异 / 匹配存疑 / 覆盖缺口），支持按类型、来源、关键词筛选与每页 50 条分页，附 CSV 与公开 JSON |
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 | `changelog.md` | 版本记录（`/changelog/`）：从 `dataset/CHANGELOG.md` 生成，逐版本列出变更；可订阅 `changelog.atom` |
-| `en/*.md` | 英文版：与上表一一对应的 10 个页面（`en/index.md` … `en/changelog.md`，permalink `/en/…/`） |
-| `es/*.md` | 西班牙语版：与上表一一对应的 10 个页面（`es/index.md` … `es/changelog.md`，permalink `/es/…/`） |
+| `en/*.md` | 英文版：与上表一一对应的 11 个页面（`en/index.md` … `en/papers.md`、`en/changelog.md`，permalink `/en/…/`） |
+| `es/*.md` | 西班牙语版：与上表一一对应的 11 个页面（`es/index.md` … `es/papers.md`、`es/changelog.md`，permalink `/es/…/`） |
 
 > 分布图与文献不再是独立页面：**分布图**内嵌在名录页每个科、属标题下方（每个物种页另有该种自己的种级地图）；**77 条参考文献的 Crossref / DOI 增强视图**内嵌在名录页底部（`#references-doi`）。原来的 `/distribution/`、`/references/` 三语页面已移除。
 
@@ -85,6 +86,17 @@
 ### 6. 搜索词回流（GoatCounter 事件，无 Cookie）
 - 名录检索框（`assets/search.js`）与全文搜索页（`assets/search-page.js`）在用户停手 1.5 秒、词长 ≥ 2 时上报一次 GoatCounter 事件（`path=/list?q=…` / `/search?q=…`, `event: true`），同词每次会话只报一次。
 - 用途：知道读者实际在找什么（缺哪些中文名 / 异名），指导数据补全；不需要新服务、不写 Cookie。
+
+### 7. 文献检索器：`/papers/`（三语，`assets/papers.js` + `.github/workflows/build_papers.py`）
+- 页面：`papers.md` / `en/papers.md` / `es/papers.md`，permalink `/papers/`、`/en/papers/`、`/es/papers/`；导航「文献 / Papers / Artículos」进入。
+- 检索：输入拉丁学名、中文名或关键词，浏览器直接查 **OpenAlex**（主）与 **Crossref**（辅，按 DOI/标题去重合并）；自动合并 `search-index.json` 里的次异名；可筛「仅中文文献 / 只看有摘要」，按相关度 / 最新 / 被引排序。
+- 摘要：OpenAlex `abstract_inverted_index` 按词位置还原；Crossref JATS 摘要去标签补缺；单条缺摘要时可点「尝试获取摘要」再查 Crossref / Semantic Scholar。**只使用开放元数据，不抓出版社页面 / PDF，也不抓知网**；摘要版权归原作者 / 出版方，页面注明来源。
+- 引用导出：每条结果可复制 GB/T 7714、BibTeX、RIS；外链预填 Google Scholar / CNKI / 万方 / 百度学术 / BHL / OpenAlex / Crossref。
+- 缓存：`build_papers.py` 按 323 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers.json`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
+- 覆盖率：开放元数据里约一半条目有摘要，页面会明确显示「暂无摘要」并给出 DOI / OpenAlex / 外部平台链接；不保证 100%。
+- 额度与回退：OpenAlex 无 API key 时按出口 IP 共享每日免费额度；额度用尽会 429，`build_papers.py` 自动回退 Crossref（摘要覆盖率会降低）。设置 `OPENALEX_API_KEY` 可走自己的额度；也可用 `--crossref-only` 直接只用 Crossref。
+- 刷新：`python .github/workflows/build_papers.py --write`（只补缺失 / 过期）、`--force`（全部重查）、`--refresh --stale-days 180 --time-budget 300`；断点缓存在 `_tmp/papers-cache.json`（不提交）。方法、许可与限制见 `_tools/文献检索器说明.md`。
+
 
 ## 外部数据与增强视图（GBIF / Catalogue of Life / Wikidata / BSF / iNaturalist / Crossref）
 
