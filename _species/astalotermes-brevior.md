@@ -36,7 +36,7 @@ ES — **短小无利器白蚁** (*Astalotermes brevior*) es una especie del gé
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无利器白蚁属 *Astalotermes*]({{ site.base_url }}/list/#astalotermes) —— 共 17 种（17 species · 17 especies）
 - **本属模式种 Type species / Especie tipo**：*Astalotermes concilians*

@@ -4,7 +4,7 @@
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
  "version": "2026.10.30",
- "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3005 种 63 亚种，含模式种标记、分布信息与 77 篇参考文献。",
+ "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3004 种 64 亚种，含模式种标记、分布信息与 77 篇参考文献。",
  "creator": {
   "@type": "Person",
   "name": "班奈特格林"
@@ -18,8 +18,8 @@
   "families": 13,
   "subfamilies": 18,
   "genera": 323,
-  "species": 3005,
-  "subspecies": 63
+  "species": 3004,
+  "subspecies": 64
  },
  "clades": [
   {
@@ -275,8 +275,8 @@
             "latin": "TERMITIDAE",
             "counts": {
              "genera": 277,
-             "species": 2130,
-             "subspecies": 49,
+             "species": 2129,
+             "subspecies": 50,
              "subfamilies": 18
             },
             "file": "data/termitidae/",
@@ -408,8 +408,8 @@
               "latin": "Mirocapritermitinae",
               "counts": {
                "genera": 14,
-               "species": 133,
-               "subspecies": 2
+               "species": 132,
+               "subspecies": 3
               },
               "file": "data/termitidae/mirocapritermitinae.json"
              },
@@ -674,10 +674,10 @@
    "counts": {
     "subfamilies": 1,
     "genera": 14,
-    "species": 133,
-    "subspecies": 2
+    "species": 132,
+    "subspecies": 3
    },
-   "bytes": 29581
+   "bytes": 29487
   },
   {
    "path": "data/termitidae/nasutitermitinae.json",
@@ -688,7 +688,7 @@
     "species": 607,
     "subspecies": 10
    },
-   "bytes": 137172
+   "bytes": 137174
   },
   {
    "path": "data/termitidae/neocapritermitinae.json",

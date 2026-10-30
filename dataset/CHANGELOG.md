@@ -23,6 +23,15 @@
   - 外部库缓存同步：`_data/authority_links.json`、`_data/bsf_links.json`（含人工核对工作表）、`downloads/isoptera-authority-crossref.csv` 都按新名录重算；`_data/species_photos.json` 把 *A. californicus* 的照片并入 *A. wheeleri*，`_data/occurrence_summary.json` 与种级 GeoJSON 移除已删物种；命名差异看板减少 7 条（307 → 300 条；名称差异 19 → 12 条、逐对 15 → 12 对；已补录 3 → 0）；
   - 归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。
 
+- **名称修订（同日第二次修订）**：对人工复核确认的 4 对名称差异，按外部权威库的接受名改正本站记录（改后这些名字不再出现在命名差异看板）——
+  - *Velocitermes aporeticus* → *Diversitermes aporeticus*（并入歧白蚁属，中文名改「怀疑歧白蚁」；GBIF 接受组合）
+  - *Parvitermes mexicanus* → *Nasutitermes mexicanus*（并入象白蚁属，中文名改「墨西哥象白蚁」；GBIF 接受组合）
+  - *Parvitermes bacchanalis* → *Obtusitermes bacchanalis*（并入钝白蚁属，中文名改「酒神钝白蚁」；Catalogue of Life 接受组合）
+  - *Pericapritermes metatus* → 亚种 *Pericapritermes appellans metata* Silvestri, 1914（Catalogue of Life；原种级记录改为 *P. appellans* 下的亚种，中文名「丈量亚种」，模式产地 Guinea: Camayenne; Kakoulima; Kindia 保留）
+  - 计数：种 3005 → 3004、亚种 63 → 64（分类单元记录仍 3068 条）；白蚁科 2130 → 2129 种、49 → 50 亚种；瘤白蚁亚科 133 → 132 种、2 → 3 亚种；属级：*Velocitermes* 10 → 9、*Diversitermes* 3 → 4、*Parvitermes* 13 → 11、*Nasutitermes* 242 → 243、*Obtusitermes* 3 → 4、*Pericapritermes* 41 → 40 种（亚种 2 → 3）；旧组合不写入次异名（次异名表仍 699 条）。
+  - 外部数据与派生产物同步：`_data/authority_links.json` / `_data/bsf_links.json`（BSF 抽查 20/20）、`downloads/isoptera-authority-crossref.csv`、`_tools/bsf对照/工作表.csv`、`_data/species_photos.json`、`_data/occurrence_summary.json` 与种级 GeoJSON（改名并更新属性）、三语名录、`isoptera-data.json`、`data/` 结构化数据、检索索引、sitemap 与归档数据集。
+  - 归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。
+
 ## 2026.10.17 — 首个 DOI 归档版本 First archived release
 
 - 数据内容与项目网站 2026.10.17 正式版一致：13 科、18 亚科、323 属、3008 种、63 亚种（3071 条记录）。

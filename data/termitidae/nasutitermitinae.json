@@ -1172,9 +1172,16 @@
     "zh": "歧白蚁属",
     "latin": "Diversitermes",
     "id": "diversitermes",
-    "species_count": 3,
+    "species_count": 4,
     "type_species": "Diversitermes diversimiles",
     "species": [
+     {
+      "latin": "Diversitermes aporeticus",
+      "zh": "怀疑歧白蚁",
+      "type": false,
+      "distribution": "巴西）",
+      "subspecies": null
+     },
      {
       "latin": "Diversitermes castaniceps",
       "zh": "栗头歧白蚁",
@@ -2195,7 +2202,7 @@
     "zh": "象白蚁属",
     "latin": "Nasutitermes",
     "id": "nasutitermes",
-    "species_count": 242,
+    "species_count": 243,
     "type_species": "Nasutitermes corniger",
     "species": [
      {
@@ -3275,6 +3282,13 @@
       "subspecies": null
      },
      {
+      "latin": "Nasutitermes mexicanus",
+      "zh": "墨西哥象白蚁",
+      "type": false,
+      "distribution": "墨西哥）",
+      "subspecies": null
+     },
+     {
       "latin": "Nasutitermes mindanensis",
       "zh": "棉兰老岛象白蚁",
       "type": false,
@@ -3972,9 +3986,16 @@
     "zh": "钝白蚁属",
     "latin": "Obtusitermes",
     "id": "obtusitermes",
-    "species_count": 3,
+    "species_count": 4,
     "type_species": "Obtusitermes panamae",
     "species": [
+     {
+      "latin": "Obtusitermes bacchanalis",
+      "zh": "酒神钝白蚁",
+      "type": false,
+      "distribution": "巴西）",
+      "subspecies": null
+     },
      {
       "latin": "Obtusitermes formosulus",
       "zh": "漂亮钝白蚁",
@@ -4101,7 +4122,7 @@
     "zh": "微白蚁属",
     "latin": "Parvitermes",
     "id": "parvitermes",
-    "species_count": 13,
+    "species_count": 11,
     "type_species": "Parvitermes brooksi",
     "species": [
      {
@@ -4116,13 +4137,6 @@
       "zh": "安的列斯微白蚁",
       "type": false,
       "distribution": "海地、多米尼加）",
-      "subspecies": null
-     },
-     {
-      "latin": "Parvitermes bacchanalis",
-      "zh": "酒神微白蚁",
-      "type": false,
-      "distribution": "巴西）",
       "subspecies": null
      },
      {
@@ -4158,13 +4172,6 @@
       "zh": "中美洲微白蚁",
       "type": false,
       "distribution": "危地马拉、尼加拉瓜、洪都拉斯）",
-      "subspecies": null
-     },
-     {
-      "latin": "Parvitermes mexicanus",
-      "zh": "墨西哥微白蚁",
-      "type": false,
-      "distribution": "墨西哥）",
       "subspecies": null
      },
      {
@@ -4925,16 +4932,9 @@
     "zh": "快白蚁属",
     "latin": "Velocitermes",
     "id": "velocitermes",
-    "species_count": 10,
+    "species_count": 9,
     "type_species": "Velocitermes heteropterus",
     "species": [
-     {
-      "latin": "Velocitermes aporeticus",
-      "zh": "怀疑快白蚁",
-      "type": false,
-      "distribution": "巴西）",
-      "subspecies": null
-     },
      {
       "latin": "Velocitermes barrocoloradensis",
       "zh": "巴罗科罗拉多快白蚁",

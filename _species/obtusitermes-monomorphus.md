@@ -34,9 +34,9 @@ ES — **单型钝白蚁** (*Obtusitermes monomorphus*) es una especie del géne
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
-- **属 Genus / Género**：[钝白蚁属 *Obtusitermes*]({{ site.base_url }}/list/#obtusitermes) —— 共 3 种（3 species · 3 especies）
+- **属 Genus / Género**：[钝白蚁属 *Obtusitermes*]({{ site.base_url }}/list/#obtusitermes) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Obtusitermes panamae*
 
 ## 分布

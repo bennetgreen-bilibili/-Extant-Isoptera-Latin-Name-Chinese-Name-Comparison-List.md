@@ -34,7 +34,7 @@ ES — **三针针刺白蚁** (*Spinitermes trispinosus*) es una especie, y la e
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[针刺白蚁属 *Spinitermes*]({{ site.base_url }}/list/#spinitermes) —— 共 5 种（5 species · 5 especies）
 

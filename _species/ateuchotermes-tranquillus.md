@@ -34,7 +34,7 @@ ES — **宁静无锐白蚁** (*Ateuchotermes tranquillus*) es una especie del g
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[无锐白蚁属 *Ateuchotermes*]({{ site.base_url }}/list/#ateuchotermes) —— 共 8 种（8 species · 8 especies）
 - **本属模式种 Type species / Especie tipo**：*Ateuchotermes pectinatus*

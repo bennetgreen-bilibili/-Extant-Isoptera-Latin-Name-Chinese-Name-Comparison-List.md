@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-28T16:28:37Z",
+  "generated": "2026-10-30T14:07:31Z",
   "sources": {
    "gbif": {
     "name": "GBIF Backbone Taxonomy",
@@ -46,28 +46,28 @@
   "counts": {
    "total": 3068,
    "gbif_linked": 2964,
-   "gbif_accepted": 2955,
-   "gbif_synonym": 9,
+   "gbif_accepted": 2957,
+   "gbif_synonym": 7,
    "gbif_missing": 0,
    "gbif_fuzzy": 4,
    "gbif_doubtful": 0,
    "gbif_higherrank": 104,
-   "col_linked": 2993,
-   "col_accepted": 2990,
-   "col_synonym": 3,
+   "col_linked": 2995,
+   "col_accepted": 2994,
+   "col_synonym": 1,
    "col_missing": 16,
-   "col_higherrank": 59,
+   "col_higherrank": 57,
    "wikidata": 2873,
-   "consistent": 2896,
-   "flagged": 172
+   "consistent": 2899,
+   "flagged": 169
   },
   "flag_counts": {
-   "col_higherrank": 59,
+   "col_higherrank": 57,
    "col_missing": 16,
-   "col_synonym": 3,
+   "col_synonym": 1,
    "gbif_fuzzy": 4,
    "gbif_higherrank": 104,
-   "gbif_synonym": 9
+   "gbif_synonym": 7
   }
  },
  "taxa": {
@@ -16090,6 +16090,28 @@
     "gbif_higherrank"
    ],
    "_d": "2026-10-28"
+  },
+  "Diversitermes aporeticus": {
+   "gbif": {
+    "key": 9658855,
+    "status": "ACCEPTED",
+    "match": "EXACT",
+    "confidence": 100,
+    "rank": "SPECIES",
+    "name": "Diversitermes aporeticus Mathews, 1977",
+    "accepted": null
+   },
+   "col": {
+    "id": "36ZWX",
+    "status": "accepted",
+    "label": "Diversitermes aporeticus Mathews, 1977",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "wd": "Q140250571",
+   "flags": [],
+   "_d": "2026-10-30"
   },
   "Diversitermes castaniceps": {
    "gbif": {
@@ -39671,6 +39693,28 @@
    "flags": [],
    "_d": "2026-10-28"
   },
+  "Nasutitermes mexicanus": {
+   "gbif": {
+    "key": 5152438,
+    "status": "ACCEPTED",
+    "match": "EXACT",
+    "confidence": 100,
+    "rank": "SPECIES",
+    "name": "Nasutitermes mexicanus Light, 1933",
+    "accepted": null
+   },
+   "col": {
+    "id": "45T29",
+    "status": "accepted",
+    "label": "Nasutitermes mexicanus Light, 1933",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "wd": "Q13582503",
+   "flags": [],
+   "_d": "2026-10-30"
+  },
   "Nasutitermes mindanensis": {
    "gbif": {
     "key": 8775513,
@@ -45418,6 +45462,28 @@
    "wd": "Q140084782",
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Obtusitermes bacchanalis": {
+   "gbif": {
+    "key": 9767646,
+    "status": "ACCEPTED",
+    "match": "EXACT",
+    "confidence": 100,
+    "rank": "SPECIES",
+    "name": "Obtusitermes bacchanalis (Mathews, 1977)",
+    "accepted": null
+   },
+   "col": {
+    "id": "48BGQ",
+    "status": "accepted",
+    "label": "Obtusitermes bacchanalis (Mathews, 1977)",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "wd": "Q140084783",
+   "flags": [],
+   "_d": "2026-10-30"
   },
   "Obtusitermes formosulus": {
    "gbif": {
@@ -51438,36 +51504,6 @@
    "flags": [],
    "_d": "2026-10-28"
   },
-  "Parvitermes bacchanalis": {
-   "gbif": {
-    "key": null,
-    "status": "ACCEPTED",
-    "match": "HIGHERRANK",
-    "confidence": 96,
-    "rank": "GENUS",
-    "name": "Parvitermes Emerson, 1949",
-    "accepted": null,
-    "higherrank": true
-   },
-   "col": {
-    "id": "75SX3",
-    "status": "synonym",
-    "label": "Parvitermes bacchanalis Mathews, 1977",
-    "type": "variant",
-    "rank": "species",
-    "accepted": {
-     "id": "48BGQ",
-     "label": "Obtusitermes bacchanalis (Mathews, 1977)",
-     "name": "Obtusitermes bacchanalis"
-    }
-   },
-   "wd": "Q140724899",
-   "flags": [
-    "gbif_higherrank",
-    "col_synonym"
-   ],
-   "_d": "2026-10-28"
-  },
   "Parvitermes brooksi": {
    "gbif": {
     "key": 9665213,
@@ -51577,36 +51613,6 @@
    },
    "wd": "Q106628471",
    "flags": [
-    "col_higherrank"
-   ],
-   "_d": "2026-10-28"
-  },
-  "Parvitermes mexicanus": {
-   "gbif": {
-    "key": 9275546,
-    "status": "SYNONYM",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Parvitermes mexicanus (Light, 1933) Light, 1933",
-    "accepted": {
-     "key": 5152438,
-     "name": "Nasutitermes mexicanus Light, 1933",
-     "status": null,
-     "rank": "SPECIES"
-    }
-   },
-   "col": {
-    "id": null,
-    "status": "accepted",
-    "label": "Parvitermes Emerson, 1949",
-    "type": "higherrank",
-    "rank": "genus",
-    "accepted": null,
-    "higherrank": true
-   },
-   "flags": [
-    "gbif_synonym",
     "col_higherrank"
    ],
    "_d": "2026-10-28"
@@ -51795,6 +51801,30 @@
    "wd": "Q140077453",
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Pericapritermes appellans metata": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 100,
+    "rank": "SPECIES",
+    "name": "Pericapritermes appellans Silvestri, 1914",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "CDTRC",
+    "status": "accepted",
+    "label": "Pericapritermes appellans metata Silvestri, 1914",
+    "type": "variant",
+    "rank": "subspecies",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-30"
   },
   "Pericapritermes assamensis": {
    "gbif": {
@@ -52212,34 +52242,6 @@
    },
    "wd": "Q140077433",
    "flags": [],
-   "_d": "2026-10-28"
-  },
-  "Pericapritermes metatus": {
-   "gbif": {
-    "key": 9753087,
-    "status": "ACCEPTED",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Pericapritermes metatus Silvestri, 1914",
-    "accepted": null
-   },
-   "col": {
-    "id": "76T6M",
-    "status": "synonym",
-    "label": "Pericapritermes metata Silvestri, 1914",
-    "type": "variant",
-    "rank": "species",
-    "accepted": {
-     "id": "CDTRC",
-     "label": "Pericapritermes appellans metata Silvestri, 1914",
-     "name": "Pericapritermes appellans metata"
-    }
-   },
-   "wd": "Q140077431",
-   "flags": [
-    "col_synonym"
-   ],
    "_d": "2026-10-28"
   },
   "Pericapritermes minimus": {
@@ -67400,37 +67402,6 @@
     "accepted": null
    },
    "flags": [],
-   "_d": "2026-10-28"
-  },
-  "Velocitermes aporeticus": {
-   "gbif": {
-    "key": 8862789,
-    "status": "SYNONYM",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Velocitermes aporeticus (Mathews, 1977) Mathews, 1977",
-    "accepted": {
-     "key": 9658855,
-     "name": "Diversitermes aporeticus Mathews, 1977",
-     "status": null,
-     "rank": "SPECIES"
-    }
-   },
-   "col": {
-    "id": null,
-    "status": "accepted",
-    "label": "Velocitermes Holmgren, 1912",
-    "type": "higherrank",
-    "rank": "genus",
-    "accepted": null,
-    "higherrank": true
-   },
-   "wd": "Q140872135",
-   "flags": [
-    "gbif_synonym",
-    "col_higherrank"
-   ],
    "_d": "2026-10-28"
   },
   "Velocitermes barrocoloradensis": {

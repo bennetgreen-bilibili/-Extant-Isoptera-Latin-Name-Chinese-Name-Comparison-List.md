@@ -61,7 +61,7 @@ permalink: /en/data/
   <li><a href="{{ site.base_url }}/data/termitidae/forficulitermitinae.json">Forficulitermitinae</a> — 1 genus · 1 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/macrotermitinae.json">Macrotermitinae</a> — 12 genera · 373 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/microcerotermitinae.json">Microcerotermitinae</a> — 2 genera · 150 species</li>
-  <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">Mirocapritermitinae</a> — 14 genera · 133 species</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">Mirocapritermitinae</a> — 14 genera · 132 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">Nasutitermitinae</a> — 81 genera · 607 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/neocapritermitinae.json">Neocapritermitinae</a> — 3 genera · 20 species</li>
   <li><a href="{{ site.base_url }}/data/termitidae/promirotermitinae.json">Promirotermitinae</a> — 2 genera · 39 species</li>

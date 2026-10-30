@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: 现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3005 种、63 亚种的拉丁学名—中文正名，含名录检索、分类统计与按类群拆分的结构化数据。
+description: 现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3004 种、64 亚种的拉丁学名—中文正名，含名录检索、分类统计与按类群拆分的结构化数据。
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
@@ -22,7 +22,7 @@ permalink: /
 {% endif %}
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
- "description": "现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3005 种、63 亚种。数据按支系/科/亚科拆分，入口 data/index.json 含完整分类树。",
+ "description": "现存等翅下目（白蚁）现生类群对照名录：13 科、323 属、3004 种、64 亚种。数据按支系/科/亚科拆分，入口 data/index.json 含完整分类树。",
  "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
  "creator": {
   "@type": "Person",
@@ -181,12 +181,12 @@ permalink: /
 }
 </script>
 
-<p>现存等翅下目（白蚁）现生类群对照名录：<strong>13 科、323 属、3005 种、63 亚种</strong>的拉丁学名—中文正名，含模式种标记、分布信息与参考文献。作者班奈特格林，2026-10-30 正式版，注明作者可免费引用。</p>
+<p>现存等翅下目（白蚁）现生类群对照名录：<strong>13 科、323 属、3004 种、64 亚种</strong>的拉丁学名—中文正名，含模式种标记、分布信息与参考文献。作者班奈特格林，2026-10-30 正式版，注明作者可免费引用。</p>
 
 ## 简介
 
 > 出处：bilibili: 班奈特格林 编，个人制作，免费发布，注明作者可随意参考使用。
-> 共收录 13 科、323 属、3005 种、63 亚种；`*` 模式种；(N) 为文末参考文献编号。
+> 共收录 13 科、323 属、3004 种、64 亚种；`*` 模式种；(N) 为文末参考文献编号。
 > 主要参考：《白蚁学》《世界白蚁中文名录》《中国动物志》[termitologia.net](https://www.termitologia.net/)、[organismnames.com](http://organismnames.com/query.htm)、[GBIF](https://www.gbif.org/)、其他参考文献见名录末尾。
 
 **作者**：班奈特格林（bilibili）　**版本**：2026.10.30 正式版　**许可**：免费发布，注明作者可随意参考使用（等效 CC BY 4.0；插图版权归各摄影师，按各图署名与许可使用）。

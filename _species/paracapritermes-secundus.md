@@ -34,7 +34,7 @@ ES — **第二旁扭白蚁** (*Paracapritermes secundus*) es una especie del g�
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[旁扭白蚁属 *Paracapritermes*]({{ site.base_url }}/list/#paracapritermes) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Paracapritermes primus*

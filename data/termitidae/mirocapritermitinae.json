@@ -16,8 +16,8 @@
  "counts": {
   "subfamilies": 1,
   "genera": 14,
-  "species": 133,
-  "subspecies": 2
+  "species": 132,
+  "subspecies": 3
  },
  "subfamily": {
   "zh": "瘤白蚁亚科",
@@ -394,7 +394,7 @@
     "zh": "近扭白蚁属",
     "latin": "Pericapritermes",
     "id": "pericapritermes",
-    "species_count": 41,
+    "species_count": 40,
     "type_species": "Pericapritermes urgens",
     "species": [
      {
@@ -402,7 +402,12 @@
       "zh": "定名近扭白蚁",
       "type": false,
       "distribution": "西非科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂）",
-      "subspecies": null
+      "subspecies": [
+       {
+        "epithet": "metata",
+        "zh": "丈量亚种"
+       }
+      ]
      },
      {
       "latin": "Pericapritermes assamensis",
@@ -535,13 +540,6 @@
       "zh": "非凡近扭白蚁",
       "type": false,
       "distribution": "加蓬、喀麦隆、刚果）",
-      "subspecies": null
-     },
-     {
-      "latin": "Pericapritermes metatus",
-      "zh": "丈量近扭白蚁",
-      "type": false,
-      "distribution": "几内亚）",
       "subspecies": null
      },
      {

@@ -34,7 +34,7 @@ ES — **白黑伪小白蚁** (*Pseudomicrotermes alboniger*) es la única espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/list/#foraminitermitinae) —— 本站收录 3 属 10 种（3 genera, 10 species · 3 géneros, 10 especies）
 - **属 Genus / Género**：[伪小白蚁属 *Pseudomicrotermes*]({{ site.base_url }}/list/#pseudomicrotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

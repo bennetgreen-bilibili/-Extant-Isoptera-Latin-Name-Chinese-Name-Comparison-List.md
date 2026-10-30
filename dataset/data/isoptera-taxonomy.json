@@ -4,7 +4,7 @@
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）",
  "alternateName": "extant-isoptera-checklist",
  "version": "2026.10.30",
- "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3005 种、63 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
+ "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3004 种、64 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
  "inLanguage": "zh-CN",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "creator": {
@@ -18,8 +18,8 @@
   "families": 13,
   "subfamilies": 18,
   "genera": 323,
-  "species": 3005,
-  "subspecies": 63
+  "species": 3004,
+  "subspecies": 64
  },
  "clades": [
   {
@@ -25392,8 +25392,8 @@
      "subfamilyId": "mirocapritermitinae",
      "typeSpecies": "Pericapritermes urgens",
      "counts": {
-      "species": 41,
-      "subspecies": 2
+      "species": 40,
+      "subspecies": 3
      },
      "species": [
       {
@@ -25405,7 +25405,15 @@
        "distributionZh": "西非科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂",
        "distributionEn": "West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/pericapritermes-appellans/",
-       "subspecies": []
+       "subspecies": [
+        {
+         "latin": "Pericapritermes appellans metata",
+         "zh": "丈量亚种",
+         "authorship": "Silvestri, 1914",
+         "typeLocality": "Guinea: Camayenne; Kakoulima; Kindia",
+         "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/pericapritermes-appellans-metata/"
+        }
+       ]
       },
       {
        "latin": "Pericapritermes assamensis",
@@ -25614,17 +25622,6 @@
        "distributionZh": "加蓬、喀麦隆、刚果",
        "distributionEn": "Gabon, Cameroon, Congo",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/pericapritermes-magnificus/",
-       "subspecies": []
-      },
-      {
-       "latin": "Pericapritermes metatus",
-       "zh": "丈量近扭白蚁",
-       "authorship": "Silvestri, 1914",
-       "isTypeSpecies": false,
-       "typeLocality": "Guinea: Camayenne; Kakoulima; Kindia",
-       "distributionZh": "几内亚",
-       "distributionEn": "Guinea",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/pericapritermes-metatus/",
        "subspecies": []
       },
       {
@@ -28254,10 +28251,21 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Diversitermes diversimiles",
      "counts": {
-      "species": 3,
+      "species": 4,
       "subspecies": 0
      },
      "species": [
+      {
+       "latin": "Diversitermes aporeticus",
+       "zh": "怀疑歧白蚁",
+       "authorship": "Mathews, 1977",
+       "isTypeSpecies": false,
+       "typeLocality": "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]",
+       "distributionZh": "巴西",
+       "distributionEn": "Brazil",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/diversitermes-aporeticus/",
+       "subspecies": []
+      },
       {
        "latin": "Diversitermes castaniceps",
        "zh": "栗头歧白蚁",
@@ -29835,7 +29843,7 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Nasutitermes corniger",
      "counts": {
-      "species": 242,
+      "species": 243,
       "subspecies": 8
      },
      "species": [
@@ -31534,6 +31542,17 @@
        "subspecies": []
       },
       {
+       "latin": "Nasutitermes mexicanus",
+       "zh": "墨西哥象白蚁",
+       "authorship": "Light, 1933",
+       "isTypeSpecies": false,
+       "typeLocality": "Mexico: Colima State: Colima; Colima State: Jala; Colima State: Madrid",
+       "distributionZh": "墨西哥",
+       "distributionEn": "Mexico",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/nasutitermes-mexicanus/",
+       "subspecies": []
+      },
+      {
        "latin": "Nasutitermes mindanensis",
        "zh": "棉兰老岛象白蚁",
        "authorship": "Light & Wilson, 1936",
@@ -32628,10 +32647,21 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Obtusitermes panamae",
      "counts": {
-      "species": 3,
+      "species": 4,
       "subspecies": 0
      },
      "species": [
+      {
+       "latin": "Obtusitermes bacchanalis",
+       "zh": "酒神钝白蚁",
+       "authorship": "Mathews, 1977",
+       "isTypeSpecies": false,
+       "typeLocality": "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]",
+       "distributionZh": "巴西",
+       "distributionEn": "Brazil",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/obtusitermes-bacchanalis/",
+       "subspecies": []
+      },
       {
        "latin": "Obtusitermes formosulus",
        "zh": "漂亮钝白蚁",
@@ -32825,7 +32855,7 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Parvitermes brooksi",
      "counts": {
-      "species": 13,
+      "species": 11,
       "subspecies": 0
      },
      "species": [
@@ -32849,17 +32879,6 @@
        "distributionZh": "海地、多米尼加",
        "distributionEn": "Haiti, Dominican Republic",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/parvitermes-antillarum/",
-       "subspecies": []
-      },
-      {
-       "latin": "Parvitermes bacchanalis",
-       "zh": "酒神微白蚁",
-       "authorship": "Mathews, 1977",
-       "isTypeSpecies": false,
-       "typeLocality": "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]",
-       "distributionZh": "巴西",
-       "distributionEn": "Brazil",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/parvitermes-bacchanalis/",
        "subspecies": []
       },
       {
@@ -32915,17 +32934,6 @@
        "distributionZh": "危地马拉、尼加拉瓜、洪都拉斯",
        "distributionEn": "Guatemala, Nicaragua, Honduras",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/parvitermes-mesoamericanus/",
-       "subspecies": []
-      },
-      {
-       "latin": "Parvitermes mexicanus",
-       "zh": "墨西哥微白蚁",
-       "authorship": "Light, 1933",
-       "isTypeSpecies": false,
-       "typeLocality": "Mexico: Colima State: Colima; Colima State: Jala; Colima State: Madrid",
-       "distributionZh": "墨西哥",
-       "distributionEn": "Mexico",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/parvitermes-mexicanus/",
        "subspecies": []
       },
       {
@@ -34097,21 +34105,10 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Velocitermes heteropterus",
      "counts": {
-      "species": 10,
+      "species": 9,
       "subspecies": 0
      },
      "species": [
-      {
-       "latin": "Velocitermes aporeticus",
-       "zh": "怀疑快白蚁",
-       "authorship": "Mathews, 1977",
-       "isTypeSpecies": false,
-       "typeLocality": "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]",
-       "distributionZh": "巴西",
-       "distributionEn": "Brazil",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/velocitermes-aporeticus/",
-       "subspecies": []
-      },
       {
        "latin": "Velocitermes barrocoloradensis",
        "zh": "巴罗科罗拉多快白蚁",

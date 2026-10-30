@@ -36,9 +36,9 @@ ES — **异翅快白蚁** (*Velocitermes heteropterus*) es una especie, y la es
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
-- **属 Genus / Género**：[快白蚁属 *Velocitermes*]({{ site.base_url }}/list/#velocitermes) —— 共 10 种（10 species · 10 especies）
+- **属 Genus / Género**：[快白蚁属 *Velocitermes*]({{ site.base_url }}/list/#velocitermes) —— 共 9 种（9 species · 9 especies）
 
 ## 分布
 

@@ -34,7 +34,7 @@ ES — **侏儒子民白蚁** (*Incolitermes pumilus*) es la única especie vivi
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 193 种（14 genera, 193 species · 14 géneros, 193 especies）
 - **属 Genus / Género**：[子民白蚁属 *Incolitermes*]({{ site.base_url }}/list/#incolitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

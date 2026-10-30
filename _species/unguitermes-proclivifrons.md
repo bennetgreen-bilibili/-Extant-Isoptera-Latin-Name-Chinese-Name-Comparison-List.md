@@ -34,7 +34,7 @@ ES — **前斜额爪白蚁** (*Unguitermes proclivifrons*) es una especie del g
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
 - **属 Genus / Género**：[爪白蚁属 *Unguitermes*]({{ site.base_url }}/list/#unguitermes) —— 共 7 种（7 species · 7 especies）
 - **本属模式种 Type species / Especie tipo**：*Unguitermes bidentatus*

@@ -34,7 +34,7 @@ ES — **格里夫斯大锥白蚁** (*Macrosubulitermes greavesi*) es la única 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
 - **属 Genus / Género**：[大锥白蚁属 *Macrosubulitermes*]({{ site.base_url }}/list/#macrosubulitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

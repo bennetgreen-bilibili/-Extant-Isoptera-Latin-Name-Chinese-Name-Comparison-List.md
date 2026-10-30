@@ -1,7 +1,7 @@
 ---
 layout: default
 title: List — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "Latin–Chinese name comparison list of all extant Isoptera (termites): 13 families, 323 genera, 3005 species, 63 subspecies, with type-species markers, distribution and 77 references."
+description: "Latin–Chinese name comparison list of all extant Isoptera (termites): 13 families, 323 genera, 3004 species, 64 subspecies, with type-species markers, distribution and 77 references."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
@@ -2508,11 +2508,11 @@ This family is the most economically important group of termites in the world: C
 
 {% include distribution-map.html mode="family" id="termitidae" %}
 
-The family Termitidae was established by Latreille in 1802, with the type genus Termes Linnaeus, 1758. The family name is formed from the type genus stem Termit- plus the family-level suffix -idae. This checklist records 277 genera and 2130 species.
+The family Termitidae was established by Latreille in 1802, with the type genus Termes Linnaeus, 1758. The family name is formed from the type genus stem Termit- plus the family-level suffix -idae. This checklist records 277 genera and 2129 species.
 
 This family has a pantropical distribution, with representatives in all major zoogeographic regions of the tropics and subtropics, and a few species extending into warm-temperate zones. Its feeding habits are the most diverse among termite families, encompassing wood-feeding, grass-feeding, leaf-litter-feeding, humus-feeding and fungus-cultivating types; a few species feed on lichens and algae growing on bark (such as the genus Constrictotermes), while inquilinous species feed on the nest material and feces of their host nest (such as the genus Inquilinitermes); about sixty percent of species are specialized soil-humus feeders. Unlike other families, the hindgut of this family is highly compartmentalized, and its digestive symbionts are dominated by bacteria and archaea. The most conspicuous shared feature of termitid soldiers is the unpaired, sac-like frontal gland (35), whose external opening is the fontanelle, yet defensive strategies diverge along this structure. The Nasutitermitinae is the largest subfamily of the family; in it the front of the soldier's head is prolonged into a conical nasus, the mandibles are reduced, and the soldier relies entirely on the frontal gland to eject a sticky secretion through the fontanelle at the tip of the nasus to entangle enemies; the Syntermitinae, which also possess a nasus, retain well-developed mandibles and employ both mechanical and chemical defense. The other extreme is seen in the snapping-mandible groups of the Mirocapritermitinae, such as the genus Pericapritermes, which repel enemies by a sudden crosswise strike of the two mandibles, while the frontal gland is poorly developed; Globitermes sulphureus goes even further, using rupture of the frontal gland for suicidal defense. A few lineages of the family have lost the soldier caste, the Neotropical species of the Apicotermitinae being one example, in which defense is undertaken entirely by the workers. In the alates the pronotum is saddle-shaped, the hind wing lacks an anal lobe and has simplified venation, and a fontanelle and ocelli are present; in the workers the postclypeus is swollen into a globular form and the hindgut has a mixed segment, and the antennae usually have 13-15 segments, while those of the soldiers usually have 12-16 segments. The detailed diagnostic characters of the soldiers and workers of each subfamily are given in the following subfamily sections. Nesting patterns are diverse, including subterranean nests, surface mounds and arboreal carton nests, and the nests of this family are the most conspicuous ecological-engineering structures of tropical forests and savannas. The Termitidae is the most species-rich group within the Neoisoptera; it began to radiate around the end of the Eocene and underwent a rapid internal radiation during the Paleogene.
 
-The family is currently divided into 18 subfamilies (21): Amitermitinae (14 genera, 193 species), Apicotermitinae (65 genera, 237 species), Crepititermitinae (1 genus, 1 species), Cubitermitinae (28 genera, 142 species), Cylindrotermitinae (2 genera, 9 species), Engelitermitinae (1 genus, 1 species), Foraminitermitinae (3 genera, 10 species), Forficulitermitinae (1 genus, 1 species), Macrotermitinae (12 genera, 373 species), Microcerotermitinae (2 genera, 150 species), Mirocapritermitinae (14 genera, 133 species), Nasutitermitinae (81 genera, 607 species), Neocapritermitinae (3 genera, 20 species), Promirotermitinae (2 genera, 39 species), Protohamitermitinae (2 genera, 2 species), Sphaerotermitinae (1 genus, 1 species), Syntermitinae (22 genera, 105 species), and Termitinae (23 genera, 106 species). The economic damage caused by this family is detailed under each subfamily.
+The family is currently divided into 18 subfamilies (21): Amitermitinae (14 genera, 193 species), Apicotermitinae (65 genera, 237 species), Crepititermitinae (1 genus, 1 species), Cubitermitinae (28 genera, 142 species), Cylindrotermitinae (2 genera, 9 species), Engelitermitinae (1 genus, 1 species), Foraminitermitinae (3 genera, 10 species), Forficulitermitinae (1 genus, 1 species), Macrotermitinae (12 genera, 373 species), Microcerotermitinae (2 genera, 150 species), Mirocapritermitinae (14 genera, 132 species), Nasutitermitinae (81 genera, 607 species), Neocapritermitinae (3 genera, 20 species), Promirotermitinae (2 genera, 39 species), Protohamitermitinae (2 genera, 2 species), Sphaerotermitinae (1 genus, 1 species), Syntermitinae (22 genera, 105 species), and Termitinae (23 genera, 106 species). The economic damage caused by this family is detailed under each subfamily.
 
 <h4 id="amitermitinae">Amitermitinae</h4>
 
@@ -5377,7 +5377,7 @@ Economically, this subfamily contains several important pests: Microcerotermes d
 
 <h4 id="mirocapritermitinae">Mirocapritermitinae</h4>
 
-The subfamily Mirocapritermitinae was established by Kemner in 1934 (Mirocapritermitinae Kemner, 1934), with the type genus Mirocapritermes Holmgren, 1914. This catalogue includes 14 genera and 133 species.
+The subfamily Mirocapritermitinae was established by Kemner in 1934 (Mirocapritermitinae Kemner, 1934), with the type genus Mirocapritermes Holmgren, 1914. This catalogue includes 14 genera and 132 species.
 
 This subfamily has its centre of diversity in the Oriental realm, and most of its genera are restricted to the Oriental realm; the genus Pericapritermes is the most widely distributed, occurring outside the Oriental realm also in tropical Africa, the Australian realm and the southern margin of the Palaearctic (Japan, Korea).
 
@@ -5547,8 +5547,6 @@ Its diet is soil-feeding (humus-feeding) or feeding at the soil–wood interface
 [*Pericapritermes machadoi* 马查多近扭白蚁]({{ site.base_url }}/species/pericapritermes-machadoi/)
 
 [*Pericapritermes magnificus* 非凡近扭白蚁]({{ site.base_url }}/species/pericapritermes-magnificus/)
-
-[*Pericapritermes metatus* 丈量近扭白蚁]({{ site.base_url }}/species/pericapritermes-metatus/)
 
 [*Pericapritermes minimus* 最小近扭白蚁]({{ site.base_url }}/species/pericapritermes-minimus/)
 
@@ -6090,6 +6088,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 <h5 id="diversitermes">Diversitermes</h5>
 
 {% include distribution-map.html mode="genus" id="diversitermes" %}
+
+[*Diversitermes aporeticus* 怀疑歧白蚁]({{ site.base_url }}/species/diversitermes-aporeticus/)
 
 [*Diversitermes castaniceps* 栗头歧白蚁]({{ site.base_url }}/species/diversitermes-castaniceps/)
 
@@ -6715,6 +6715,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 [*Nasutitermes meridianus* 南方象白蚁]({{ site.base_url }}/species/nasutitermes-meridianus/)
 
+[*Nasutitermes mexicanus* 墨西哥象白蚁]({{ site.base_url }}/species/nasutitermes-mexicanus/)
+
 [*Nasutitermes mindanensis* 棉兰老岛象白蚁]({{ site.base_url }}/species/nasutitermes-mindanensis/)
 
 [*Nasutitermes minimus* 最小象白蚁]({{ site.base_url }}/species/nasutitermes-minimus/)
@@ -6917,6 +6919,8 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 {% include distribution-map.html mode="genus" id="obtusitermes" %}
 
+[*Obtusitermes bacchanalis* 酒神钝白蚁]({{ site.base_url }}/species/obtusitermes-bacchanalis/)
+
 [*Obtusitermes formosulus* 漂亮钝白蚁]({{ site.base_url }}/species/obtusitermes-formosulus/)
 
 [*Obtusitermes monomorphus* 单型钝白蚁]({{ site.base_url }}/species/obtusitermes-monomorphus/)
@@ -6965,8 +6969,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 
 [*Parvitermes antillarum* 安的列斯微白蚁]({{ site.base_url }}/species/parvitermes-antillarum/)
 
-[*Parvitermes bacchanalis* 酒神微白蚁]({{ site.base_url }}/species/parvitermes-bacchanalis/)
-
 \*[*Parvitermes brooksi* 布鲁克斯微白蚁]({{ site.base_url }}/species/parvitermes-brooksi/)
 
 [*Parvitermes collinsae* 柯林斯微白蚁]({{ site.base_url }}/species/parvitermes-collinsae/)
@@ -6976,8 +6978,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 [*Parvitermes flaveolus* 微黄微白蚁]({{ site.base_url }}/species/parvitermes-flaveolus/)
 
 [*Parvitermes mesoamericanus* 中美洲微白蚁]({{ site.base_url }}/species/parvitermes-mesoamericanus/)
-
-[*Parvitermes mexicanus* 墨西哥微白蚁]({{ site.base_url }}/species/parvitermes-mexicanus/)
 
 [*Parvitermes pallidiceps* 灰头微白蚁]({{ site.base_url }}/species/parvitermes-pallidiceps/)
 
@@ -7224,8 +7224,6 @@ Economically, this subfamily is an important pest group of tropical timber struc
 <h5 id="velocitermes">Velocitermes</h5>
 
 {% include distribution-map.html mode="genus" id="velocitermes" %}
-
-[*Velocitermes aporeticus* 怀疑快白蚁]({{ site.base_url }}/species/velocitermes-aporeticus/)
 
 [*Velocitermes barrocoloradensis* 巴罗科罗拉多快白蚁]({{ site.base_url }}/species/velocitermes-barrocoloradensis/)
 

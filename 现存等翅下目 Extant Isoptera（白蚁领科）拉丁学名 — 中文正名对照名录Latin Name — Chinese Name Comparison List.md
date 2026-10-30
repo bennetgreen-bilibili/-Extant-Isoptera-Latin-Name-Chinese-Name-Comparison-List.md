@@ -1,7 +1,7 @@
 # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.30）正式版
 
 > 出处：bilibili: 班奈特格林 编，个人制作，免费发布，注明作者可随意参考使用。
-> 共收录 323 属、3005 种、63 亚种；* 模式种；(N) 为文末参考文献编号。
+> 共收录 323 属、3004 种、64 亚种；* 模式种；(N) 为文末参考文献编号。
 > 本版为单文件完整版：已删全部链接与图片引用；长段落按句断行，每行不超过 50 字符。
 > 名录部分主要参考：《白蚁学》、《世界白蚁中文名录》、《中国动物志》等。
 
@@ -1427,7 +1427,7 @@ Reticulitermes zhaoi 赵氏散白蚁（中国）
 白蚁科由 Latreille 于 1802 年建立，
 模式属为 Termes Linnaeus, 1758；
 科名由模式属词干 Termit- 加科级后缀 -idae 构成。
-本名录收录 277 属 2130 种。
+本名录收录 277 属 2129 种。
 本科为泛热带分布，热带、亚热带各大动物地理区均有代表，少数种延伸至暖温带。
 食性为白蚁各科中最多样的类群，涵盖木食、草食、枯枝落叶食、腐殖土食与培养真菌食等类型，
 少数种类取食树皮附生的地衣与藻类（如缩白蚁属 Constrictotermes），
@@ -1457,7 +1457,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 剪白蚁亚科 Forficulitermitinae（1 属 1 种）、
 大白蚁亚科 Macrotermitinae（12 属 373 种）、
 锯白蚁亚科 Microcerotermitinae（2 属 150 种）、
-瘤白蚁亚科 Mirocapritermitinae（14 属 133 种）、
+瘤白蚁亚科 Mirocapritermitinae（14 属 132 种）、
 象白蚁亚科 Nasutitermitinae（81 属 607 种）、
 新扭白蚁亚科 Neocapritermitinae（3 属 20 种）、
 前奇白蚁亚科 Promirotermitinae（2 属 39 种）、
@@ -3305,7 +3305,7 @@ Onkotermes corochus 瘤额倒钩白蚁（阿根廷、巴拉圭）
 瘤白蚁亚科由 Kemner 于 1934 年建立（Mirocapritermitinae
 Kemner, 1934），
 模式属为瘤白蚁属 Mirocapritermes Holmgren, 1914。
-本名录收录 14 属 133 种。
+本名录收录 14 属 132 种。
 本亚科以东洋界为多样性中心，多数属限于东洋界；近扭白蚁属 Pericapritermes 分布最广，
 东洋界之外还见于非洲热带、澳洲界及古北南缘（日本、韩国）。
 食性为土壤（腐殖质）食性或土壤—木材界面取食，属高等白蚁中典型的土栖有机质降解类群。
@@ -3408,7 +3408,6 @@ Pericapritermes latignathus 多毛近扭白蚁（印度尼西亚、柬埔寨、�
 孟加拉国、中国、马来西亚、泰国）
 Pericapritermes machadoi 马查多近扭白蚁（安哥拉）
 Pericapritermes magnificus 非凡近扭白蚁（加蓬、喀麦隆、刚果）
-Pericapritermes metatus 丈量近扭白蚁（几内亚）
 Pericapritermes minimus 最小近扭白蚁（安哥拉、喀麦隆、刚果民主共和国）
 Pericapritermes modiglianii 莫迪利亚尼近扭白蚁（印度尼西亚）
 Pericapritermes mohri 莫尔近扭白蚁（印度尼西亚、马来西亚）
@@ -3743,6 +3742,7 @@ Cyranotermes karipuna 卡日普纳巨鼻白蚁（巴西）
 \*Cyranotermes timuassu 多毛巨鼻白蚁（巴西）
 
 #### 歧白蚁属 Diversitermes
+Diversitermes aporeticus 怀疑歧白蚁（巴西）
 Diversitermes castaniceps 栗头歧白蚁（巴西、巴拉圭、玻利维亚）
 \*Diversitermes diversimiles 多兵歧白蚁（巴西、阿根廷、法属圭亚那、
 玻利维亚、巴拉圭）
@@ -4107,6 +4107,7 @@ Nasutitermes maximus 最大象白蚁（秘鲁）
 Nasutitermes medoensis 墨脱象白蚁（中国）
 Nasutitermes meinerti 迈纳特象白蚁（委内瑞拉）
 Nasutitermes meridianus 南方象白蚁（菲律宾）
+Nasutitermes mexicanus 墨西哥象白蚁（墨西哥）
 Nasutitermes mindanensis 棉兰老岛象白蚁（菲律宾）
 Nasutitermes minimus 最小象白蚁（巴西、秘鲁、玻利维亚）
 Nasutitermes minor 小型象白蚁（玻利维亚、巴西）
@@ -4220,6 +4221,7 @@ Niuginitermes liklik 小新几内亚白蚁（巴布亚新几内亚）
 \*Niuginitermes variratae 瓦里拉塔新几内亚白蚁（巴布亚新几内亚）
 
 #### 钝白蚁属 Obtusitermes
+Obtusitermes bacchanalis 酒神钝白蚁（巴西）
 Obtusitermes formosulus 漂亮钝白蚁（委内瑞拉、巴拿马、特立尼达和多巴哥）
 Obtusitermes monomorphus 单型钝白蚁（巴拿马）
 \*Obtusitermes panamae 巴拿马钝白蚁（巴拿马、哥斯达黎加、哥伦比亚）
@@ -4246,13 +4248,11 @@ Paraconvexitermes junceus 细长近凸白蚁（巴西、圭亚那、厄瓜多尔
 #### 微白蚁属 Parvitermes
 Parvitermes aequalis 类似微白蚁（古巴）
 Parvitermes antillarum 安的列斯微白蚁（海地、多米尼加）
-Parvitermes bacchanalis 酒神微白蚁（巴西）
 \*Parvitermes brooksi 布鲁克斯微白蚁（古巴、巴哈马）
 Parvitermes collinsae 柯林斯微白蚁（多米尼加）
 Parvitermes dominicanae 多米尼加微白蚁（多米尼加）
 Parvitermes flaveolus 微黄微白蚁（多米尼加、海地）
 Parvitermes mesoamericanus 中美洲微白蚁（危地马拉、尼加拉瓜、洪都拉斯）
-Parvitermes mexicanus 墨西哥微白蚁（墨西哥）
 Parvitermes pallidiceps 灰头微白蚁（多米尼加、海地）
 Parvitermes toussainti 图森特微白蚁（多米尼加、海地）
 Parvitermes wolcotti 沃尔科特微白蚁（波多黎各、美国、英属维尔京群岛）
@@ -4397,7 +4397,6 @@ Tumulitermes subaquilus 稍暗冢白蚁（澳大利亚）
 Tumulitermes westraliensis 西澳冢白蚁（澳大利亚）
 
 #### 快白蚁属 Velocitermes
-Velocitermes aporeticus 怀疑快白蚁（巴西）
 Velocitermes barrocoloradensis 巴罗科罗拉多快白蚁（巴拿马）
 Velocitermes beebei 毕比快白蚁（巴西、法属圭亚那、圭亚那、厄瓜多尔、委内瑞拉）
 Velocitermes glabrinotus 光背快白蚁（巴西、哥伦比亚）

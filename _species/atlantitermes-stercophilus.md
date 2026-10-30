@@ -34,7 +34,7 @@ ES — **喜粪阿特拉斯白蚁** (*Atlantitermes stercophilus*) es una especi
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
 - **属 Genus / Género**：[阿特拉斯白蚁属 *Atlantitermes*]({{ site.base_url }}/list/#atlantitermes) —— 共 8 种（8 species · 8 especies）
 - **本属模式种 Type species / Especie tipo**：*Atlantitermes guarinim*

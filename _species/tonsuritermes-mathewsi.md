@@ -34,7 +34,7 @@ ES — **马修斯奇囟白蚁** (*Tonsuritermes mathewsi*) es una especie del g
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
 - **属 Genus / Género**：[奇囟白蚁属 *Tonsuritermes*]({{ site.base_url }}/list/#tonsuritermes) —— 共 2 种（2 species · 2 especies）
 - **本属模式种 Type species / Especie tipo**：*Tonsuritermes tucki*

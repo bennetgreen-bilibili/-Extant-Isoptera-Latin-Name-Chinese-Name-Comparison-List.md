@@ -4,40 +4,40 @@
   "scope": "本站每一物种/亚种与 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果中，需要人工注意的条目；只提示，不改动站内分类数据。",
   "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links.json 与 _data/bsf_links.json 生成；人工核对备注见 _data/name_issue_reviews.json；匹配规则见 _tools/外部权威库与一致性核对.md。",
   "cache_dates": {
-   "authority": "2026-10-28T16:28:37Z",
-   "bsf": "2026-10-28T16:44:34Z"
+   "authority": "2026-10-30T14:07:31Z",
+   "bsf": "2026-10-30T14:08:32Z"
   },
   "counts": {
-   "total": 300,
+   "total": 290,
    "by_group": {
-    "conflict": 12,
-    "match": 66,
-    "gap": 222
+    "conflict": 8,
+    "match": 63,
+    "gap": 219
    },
    "by_source": {
-    "gbif": 117,
-    "col": 78,
-    "bsf": 105
+    "gbif": 115,
+    "col": 74,
+    "bsf": 101
    },
    "by_kind": {
-    "synonym": 12,
-    "ambiguous": 62,
+    "synonym": 8,
+    "ambiguous": 59,
     "fuzzy": 4,
-    "higherrank": 163,
-    "missing": 59
+    "higherrank": 161,
+    "missing": 58
    },
    "species_total": 3068,
-   "species_with_issue": 197,
+   "species_with_issue": 194,
    "bsf_verified": 0,
    "manually_reviewed": 4,
-   "conflict_species": 12,
-   "conflict_pairs": 12,
-   "pairs_relation_synonym": 1,
-   "pairs_relation_combination": 11,
+   "conflict_species": 8,
+   "conflict_pairs": 8,
+   "pairs_relation_synonym": 0,
+   "pairs_relation_combination": 8,
    "pairs_direction_external": 0,
    "pairs_direction_site": 6,
-   "pairs_direction_disputed": 6,
-   "pairs_disputed": 8,
+   "pairs_direction_disputed": 2,
+   "pairs_disputed": 7,
    "pairs_recordable": 0,
    "pairs_recorded": 0
   },
@@ -163,12 +163,10 @@
    "Odontotermes celebensis": 1,
    "Odontotermes formosanus": 1,
    "Odontotermes robustus": 1,
-   "Parvitermes bacchanalis": 3,
    "Parvitermes mesoamericanus": 2,
-   "Parvitermes mexicanus": 3,
    "Parvitermes yucatanus": 2,
    "Patawatermes nigripunctatus": 1,
-   "Pericapritermes metatus": 2,
+   "Pericapritermes appellans metata": 1,
    "Pericapritermes vermai": 3,
    "Polyspathotermes bugeserae": 1,
    "Polyspathotermes inclitus": 1,
@@ -237,8 +235,7 @@
    "Triclavitermes catoleensis": 1,
    "Tucupitermes ubixaba": 1,
    "Uncitermes almeriae": 2,
-   "Uncitermes teevani": 1,
-   "Velocitermes aporeticus": 3
+   "Uncitermes teevani": 1
   }
  },
  "issues": [
@@ -321,58 +318,6 @@
    "receiving_latin": null
   },
   {
-   "latin": "Parvitermes bacchanalis",
-   "zh": "酒神微白蚁",
-   "slug": "parvitermes-bacchanalis",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "col",
-   "group": "conflict",
-   "kind": "synonym",
-   "theirs": "Parvitermes bacchanalis Mathews, 1977",
-   "url": "https://www.checklistbank.org/dataset/3LR/taxon/75SX3",
-   "accepted": "Obtusitermes bacchanalis (Mathews, 1977)",
-   "accepted_url": "https://www.checklistbank.org/dataset/3LR/taxon/48BGQ",
-   "match": "exact",
-   "confidence": null,
-   "verified": false,
-   "note": "",
-   "accepted_latin": "Obtusitermes bacchanalis",
-   "relation": "combination",
-   "direction": "disputed",
-   "disputed": false,
-   "recordable": false,
-   "recorded": false,
-   "receiving_latin": null
-  },
-  {
-   "latin": "Parvitermes mexicanus",
-   "zh": "墨西哥微白蚁",
-   "slug": "parvitermes-mexicanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "gbif",
-   "group": "conflict",
-   "kind": "synonym",
-   "theirs": "Parvitermes mexicanus (Light, 1933) Light, 1933",
-   "url": "https://www.gbif.org/species/9275546",
-   "accepted": "Nasutitermes mexicanus Light, 1933",
-   "accepted_url": "https://www.gbif.org/species/5152438",
-   "match": "EXACT",
-   "confidence": 100,
-   "verified": false,
-   "note": "",
-   "accepted_latin": "Nasutitermes mexicanus",
-   "relation": "combination",
-   "direction": "disputed",
-   "disputed": false,
-   "recordable": false,
-   "recorded": false,
-   "receiving_latin": null
-  },
-  {
    "latin": "Patawatermes nigripunctatus",
    "zh": "黑点帕塔瓦白蚁",
    "slug": "patawatermes-nigripunctatus",
@@ -397,32 +342,6 @@
    "recordable": false,
    "recorded": false,
    "receiving_latin": "Patawatermes nigripunctatus"
-  },
-  {
-   "latin": "Pericapritermes metatus",
-   "zh": "丈量近扭白蚁",
-   "slug": "pericapritermes-metatus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "col",
-   "group": "conflict",
-   "kind": "synonym",
-   "theirs": "Pericapritermes metata Silvestri, 1914",
-   "url": "https://www.checklistbank.org/dataset/3LR/taxon/76T6M",
-   "accepted": "Pericapritermes appellans metata Silvestri, 1914",
-   "accepted_url": "https://www.checklistbank.org/dataset/3LR/taxon/CDTRC",
-   "match": "exact",
-   "confidence": null,
-   "verified": false,
-   "note": "",
-   "accepted_latin": "Pericapritermes appellans metata",
-   "relation": "synonym",
-   "direction": "disputed",
-   "disputed": true,
-   "recordable": false,
-   "recorded": false,
-   "receiving_latin": null
   },
   {
    "latin": "Rubeotermes jheringi",
@@ -527,32 +446,6 @@
    "recordable": false,
    "recorded": false,
    "receiving_latin": "Uncitermes teevani"
-  },
-  {
-   "latin": "Velocitermes aporeticus",
-   "zh": "怀疑快白蚁",
-   "slug": "velocitermes-aporeticus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "gbif",
-   "group": "conflict",
-   "kind": "synonym",
-   "theirs": "Velocitermes aporeticus (Mathews, 1977) Mathews, 1977",
-   "url": "https://www.gbif.org/species/8862789",
-   "accepted": "Diversitermes aporeticus Mathews, 1977",
-   "accepted_url": "https://www.gbif.org/species/9658855",
-   "match": "EXACT",
-   "confidence": 100,
-   "verified": false,
-   "note": "",
-   "accepted_latin": "Diversitermes aporeticus",
-   "relation": "combination",
-   "direction": "disputed",
-   "disputed": false,
-   "recordable": false,
-   "recorded": false,
-   "receiving_latin": null
   },
   {
    "latin": "Coptotermes cooloola",
@@ -1560,63 +1453,6 @@
    "confidence": null,
    "verified": false,
    "note": "BSF 标签含亚属括号；候选：OTU 83828 Odontotermes robustus Sjöstedt, 1924；OTU 676750 Odontotermes (Odontotermes) robustus John, 1925 now Odontotermes praevalens (John, 1926)"
-  },
-  {
-   "latin": "Parvitermes bacchanalis",
-   "zh": "酒神微白蚁",
-   "slug": "parvitermes-bacchanalis",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "bsf",
-   "group": "match",
-   "kind": "ambiguous",
-   "theirs": "",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": null,
-   "confidence": null,
-   "verified": false,
-   "note": "仅模糊候选：OTU 84825 Obtusitermes bacchanalis (Mathews, 1977)"
-  },
-  {
-   "latin": "Parvitermes mexicanus",
-   "zh": "墨西哥微白蚁",
-   "slug": "parvitermes-mexicanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "bsf",
-   "group": "match",
-   "kind": "ambiguous",
-   "theirs": "",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": null,
-   "confidence": null,
-   "verified": false,
-   "note": "仅模糊候选：OTU 652366 Incisitermes mexicanus (Walker, 1853) now Incisitermes marginipennis (Latreille, 1817)"
-  },
-  {
-   "latin": "Pericapritermes metatus",
-   "zh": "丈量近扭白蚁",
-   "slug": "pericapritermes-metatus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "bsf",
-   "group": "match",
-   "kind": "ambiguous",
-   "theirs": "",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": null,
-   "confidence": null,
-   "verified": false,
-   "note": "仅模糊候选：OTU 85717 Pericapritermes appellans metata Silvestri, 1914；OTU 85696 Pericapritermes Silvestri, 1914；OTU 1044212 Pericapritermes cordatus Sjöstedt, 1924 now Pericapritermes chiasognathus (Sjöstedt, 1904)；OTU 85718 Pericapritermes minimus Weidner, 1956"
   },
   {
    "latin": "Pericapritermes vermai",
@@ -4678,116 +4514,97 @@
    "note": ""
   },
   {
-   "latin": "Parvitermes bacchanalis",
-   "zh": "酒神微白蚁",
-   "slug": "parvitermes-bacchanalis",
+   "latin": "Parvitermes mesoamericanus",
+   "zh": "中美洲微白蚁",
+   "slug": "parvitermes-mesoamericanus",
    "rank": "种",
+   "family_zh": "白蚁科",
+   "family_latin": "TERMITIDAE",
+   "source": "col",
+   "group": "gap",
+   "kind": "higherrank",
+   "theirs": "Parvitermes Emerson, 1949",
+   "url": null,
+   "accepted": null,
+   "accepted_url": null,
+   "match": "higherrank",
+   "confidence": null,
+   "verified": false,
+   "note": ""
+  },
+  {
+   "latin": "Parvitermes mesoamericanus",
+   "zh": "中美洲微白蚁",
+   "slug": "parvitermes-mesoamericanus",
+   "rank": "种",
+   "family_zh": "白蚁科",
+   "family_latin": "TERMITIDAE",
+   "source": "bsf",
+   "group": "gap",
+   "kind": "missing",
+   "theirs": "",
+   "url": null,
+   "accepted": null,
+   "accepted_url": null,
+   "match": null,
+   "confidence": null,
+   "verified": false,
+   "note": ""
+  },
+  {
+   "latin": "Parvitermes yucatanus",
+   "zh": "尤卡坦微白蚁",
+   "slug": "parvitermes-yucatanus",
+   "rank": "种",
+   "family_zh": "白蚁科",
+   "family_latin": "TERMITIDAE",
+   "source": "col",
+   "group": "gap",
+   "kind": "higherrank",
+   "theirs": "Parvitermes Emerson, 1949",
+   "url": null,
+   "accepted": null,
+   "accepted_url": null,
+   "match": "higherrank",
+   "confidence": null,
+   "verified": false,
+   "note": ""
+  },
+  {
+   "latin": "Parvitermes yucatanus",
+   "zh": "尤卡坦微白蚁",
+   "slug": "parvitermes-yucatanus",
+   "rank": "种",
+   "family_zh": "白蚁科",
+   "family_latin": "TERMITIDAE",
+   "source": "bsf",
+   "group": "gap",
+   "kind": "missing",
+   "theirs": "",
+   "url": null,
+   "accepted": null,
+   "accepted_url": null,
+   "match": null,
+   "confidence": null,
+   "verified": false,
+   "note": ""
+  },
+  {
+   "latin": "Pericapritermes appellans metata",
+   "zh": "丈量亚种",
+   "slug": "pericapritermes-appellans-metata",
+   "rank": "亚种",
    "family_zh": "白蚁科",
    "family_latin": "TERMITIDAE",
    "source": "gbif",
    "group": "gap",
    "kind": "higherrank",
-   "theirs": "Parvitermes Emerson, 1949",
+   "theirs": "Pericapritermes appellans Silvestri, 1914",
    "url": null,
    "accepted": null,
    "accepted_url": null,
    "match": "HIGHERRANK",
-   "confidence": 96,
-   "verified": false,
-   "note": ""
-  },
-  {
-   "latin": "Parvitermes mesoamericanus",
-   "zh": "中美洲微白蚁",
-   "slug": "parvitermes-mesoamericanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "col",
-   "group": "gap",
-   "kind": "higherrank",
-   "theirs": "Parvitermes Emerson, 1949",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": "higherrank",
-   "confidence": null,
-   "verified": false,
-   "note": ""
-  },
-  {
-   "latin": "Parvitermes mesoamericanus",
-   "zh": "中美洲微白蚁",
-   "slug": "parvitermes-mesoamericanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "bsf",
-   "group": "gap",
-   "kind": "missing",
-   "theirs": "",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": null,
-   "confidence": null,
-   "verified": false,
-   "note": ""
-  },
-  {
-   "latin": "Parvitermes mexicanus",
-   "zh": "墨西哥微白蚁",
-   "slug": "parvitermes-mexicanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "col",
-   "group": "gap",
-   "kind": "higherrank",
-   "theirs": "Parvitermes Emerson, 1949",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": "higherrank",
-   "confidence": null,
-   "verified": false,
-   "note": ""
-  },
-  {
-   "latin": "Parvitermes yucatanus",
-   "zh": "尤卡坦微白蚁",
-   "slug": "parvitermes-yucatanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "col",
-   "group": "gap",
-   "kind": "higherrank",
-   "theirs": "Parvitermes Emerson, 1949",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": "higherrank",
-   "confidence": null,
-   "verified": false,
-   "note": ""
-  },
-  {
-   "latin": "Parvitermes yucatanus",
-   "zh": "尤卡坦微白蚁",
-   "slug": "parvitermes-yucatanus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "bsf",
-   "group": "gap",
-   "kind": "missing",
-   "theirs": "",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": null,
-   "confidence": null,
+   "confidence": 100,
    "verified": false,
    "note": ""
   },
@@ -5987,44 +5804,6 @@
    "confidence": null,
    "verified": false,
    "note": ""
-  },
-  {
-   "latin": "Velocitermes aporeticus",
-   "zh": "怀疑快白蚁",
-   "slug": "velocitermes-aporeticus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "col",
-   "group": "gap",
-   "kind": "higherrank",
-   "theirs": "Velocitermes Holmgren, 1912",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": "higherrank",
-   "confidence": null,
-   "verified": false,
-   "note": ""
-  },
-  {
-   "latin": "Velocitermes aporeticus",
-   "zh": "怀疑快白蚁",
-   "slug": "velocitermes-aporeticus",
-   "rank": "种",
-   "family_zh": "白蚁科",
-   "family_latin": "TERMITIDAE",
-   "source": "bsf",
-   "group": "gap",
-   "kind": "missing",
-   "theirs": "",
-   "url": null,
-   "accepted": null,
-   "accepted_url": null,
-   "match": null,
-   "confidence": null,
-   "verified": false,
-   "note": ""
   }
  ],
  "synonym_pairs": [
@@ -6182,86 +5961,6 @@
   },
   {
    "our": {
-    "latin": "Parvitermes bacchanalis",
-    "zh": "酒神微白蚁",
-    "slug": "parvitermes-bacchanalis",
-    "family_zh": "白蚁科",
-    "family_latin": "TERMITIDAE"
-   },
-   "external": {
-    "name": "Obtusitermes bacchanalis (Mathews, 1977)",
-    "latin": "Obtusitermes bacchanalis"
-   },
-   "sources": [
-    "col"
-   ],
-   "our_links": [
-    {
-     "source": "col",
-     "url": "https://www.checklistbank.org/dataset/3LR/taxon/75SX3"
-    }
-   ],
-   "external_links": [
-    {
-     "source": "col",
-     "url": "https://www.checklistbank.org/dataset/3LR/taxon/48BGQ"
-    }
-   ],
-   "relation": "combination",
-   "direction": "disputed",
-   "disputed": false,
-   "receiving": null,
-   "votes": {
-    "synonym": [
-     "col"
-    ],
-    "accepted": []
-   },
-   "recordable": false,
-   "recorded": false
-  },
-  {
-   "our": {
-    "latin": "Parvitermes mexicanus",
-    "zh": "墨西哥微白蚁",
-    "slug": "parvitermes-mexicanus",
-    "family_zh": "白蚁科",
-    "family_latin": "TERMITIDAE"
-   },
-   "external": {
-    "name": "Nasutitermes mexicanus Light, 1933",
-    "latin": "Nasutitermes mexicanus"
-   },
-   "sources": [
-    "gbif"
-   ],
-   "our_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9275546"
-    }
-   ],
-   "external_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/5152438"
-    }
-   ],
-   "relation": "combination",
-   "direction": "disputed",
-   "disputed": false,
-   "receiving": null,
-   "votes": {
-    "synonym": [
-     "gbif"
-    ],
-    "accepted": []
-   },
-   "recordable": false,
-   "recorded": false
-  },
-  {
-   "our": {
     "latin": "Patawatermes nigripunctatus",
     "zh": "黑点帕塔瓦白蚁",
     "slug": "patawatermes-nigripunctatus",
@@ -6310,48 +6009,6 @@
     "accepted": [
      "col",
      "bsf"
-    ]
-   },
-   "recordable": false,
-   "recorded": false
-  },
-  {
-   "our": {
-    "latin": "Pericapritermes metatus",
-    "zh": "丈量近扭白蚁",
-    "slug": "pericapritermes-metatus",
-    "family_zh": "白蚁科",
-    "family_latin": "TERMITIDAE"
-   },
-   "external": {
-    "name": "Pericapritermes appellans metata Silvestri, 1914",
-    "latin": "Pericapritermes appellans metata"
-   },
-   "sources": [
-    "col"
-   ],
-   "our_links": [
-    {
-     "source": "col",
-     "url": "https://www.checklistbank.org/dataset/3LR/taxon/76T6M"
-    }
-   ],
-   "external_links": [
-    {
-     "source": "col",
-     "url": "https://www.checklistbank.org/dataset/3LR/taxon/CDTRC"
-    }
-   ],
-   "relation": "synonym",
-   "direction": "disputed",
-   "disputed": true,
-   "receiving": null,
-   "votes": {
-    "synonym": [
-     "col"
-    ],
-    "accepted": [
-     "gbif"
     ]
    },
    "recordable": false,
@@ -6561,46 +6218,6 @@
    },
    "recordable": false,
    "recorded": false
-  },
-  {
-   "our": {
-    "latin": "Velocitermes aporeticus",
-    "zh": "怀疑快白蚁",
-    "slug": "velocitermes-aporeticus",
-    "family_zh": "白蚁科",
-    "family_latin": "TERMITIDAE"
-   },
-   "external": {
-    "name": "Diversitermes aporeticus Mathews, 1977",
-    "latin": "Diversitermes aporeticus"
-   },
-   "sources": [
-    "gbif"
-   ],
-   "our_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/8862789"
-    }
-   ],
-   "external_links": [
-    {
-     "source": "gbif",
-     "url": "https://www.gbif.org/species/9658855"
-    }
-   ],
-   "relation": "combination",
-   "direction": "disputed",
-   "disputed": false,
-   "receiving": null,
-   "votes": {
-    "synonym": [
-     "gbif"
-    ],
-    "accepted": []
-   },
-   "recordable": false,
-   "recorded": false
   }
  ],
  "species_authority": {
@@ -6673,52 +6290,6 @@
     }
    ]
   },
-  "parvitermes-bacchanalis": {
-   "latin": "Parvitermes bacchanalis",
-   "zh": "酒神微白蚁",
-   "incoming": [],
-   "outgoing": [
-    {
-     "latin": "Obtusitermes bacchanalis",
-     "name": "Obtusitermes bacchanalis (Mathews, 1977)",
-     "sources": [
-      "col"
-     ],
-     "relation": "combination",
-     "direction": "disputed",
-     "disputed": false,
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/48BGQ"
-      }
-     ]
-    }
-   ]
-  },
-  "parvitermes-mexicanus": {
-   "latin": "Parvitermes mexicanus",
-   "zh": "墨西哥微白蚁",
-   "incoming": [],
-   "outgoing": [
-    {
-     "latin": "Nasutitermes mexicanus",
-     "name": "Nasutitermes mexicanus Light, 1933",
-     "sources": [
-      "gbif"
-     ],
-     "relation": "combination",
-     "direction": "disputed",
-     "disputed": false,
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/5152438"
-      }
-     ]
-    }
-   ]
-  },
   "patawatermes-nigripunctatus": {
    "latin": "Patawatermes nigripunctatus",
    "zh": "黑点帕塔瓦白蚁",
@@ -6737,29 +6308,6 @@
       {
        "source": "gbif",
        "url": "https://www.gbif.org/species/9339653"
-      }
-     ]
-    }
-   ]
-  },
-  "pericapritermes-metatus": {
-   "latin": "Pericapritermes metatus",
-   "zh": "丈量近扭白蚁",
-   "incoming": [],
-   "outgoing": [
-    {
-     "latin": "Pericapritermes appellans metata",
-     "name": "Pericapritermes appellans metata Silvestri, 1914",
-     "sources": [
-      "col"
-     ],
-     "relation": "synonym",
-     "direction": "disputed",
-     "disputed": true,
-     "links": [
-      {
-       "source": "col",
-       "url": "https://www.checklistbank.org/dataset/3LR/taxon/CDTRC"
       }
      ]
     }
@@ -6852,29 +6400,6 @@
       {
        "source": "gbif",
        "url": "https://www.gbif.org/species/9734260"
-      }
-     ]
-    }
-   ]
-  },
-  "velocitermes-aporeticus": {
-   "latin": "Velocitermes aporeticus",
-   "zh": "怀疑快白蚁",
-   "incoming": [],
-   "outgoing": [
-    {
-     "latin": "Diversitermes aporeticus",
-     "name": "Diversitermes aporeticus Mathews, 1977",
-     "sources": [
-      "gbif"
-     ],
-     "relation": "combination",
-     "direction": "disputed",
-     "disputed": false,
-     "links": [
-      {
-       "source": "gbif",
-       "url": "https://www.gbif.org/species/9658855"
       }
      ]
     }

@@ -34,7 +34,7 @@ ES — **密实生白蚁** (*Embiratermes spissus*) es una especie del género *
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/list/#embiratermes) —— 共 9 种（9 species · 9 especies）
 - **本属模式种 Type species / Especie tipo**：*Embiratermes festivellus*

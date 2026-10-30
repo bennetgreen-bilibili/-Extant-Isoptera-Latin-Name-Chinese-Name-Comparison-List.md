@@ -61,7 +61,7 @@ permalink: /data/
   <li><a href="{{ site.base_url }}/data/termitidae/forficulitermitinae.json">剪白蚁亚科 Forficulitermitinae</a> — 1 属 · 1 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/macrotermitinae.json">大白蚁亚科 Macrotermitinae</a> — 12 属 · 373 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/microcerotermitinae.json">锯白蚁亚科 Microcerotermitinae</a> — 2 属 · 150 种</li>
-  <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">瘤白蚁亚科 Mirocapritermitinae</a> — 14 属 · 133 种</li>
+  <li><a href="{{ site.base_url }}/data/termitidae/mirocapritermitinae.json">瘤白蚁亚科 Mirocapritermitinae</a> — 14 属 · 132 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/nasutitermitinae.json">象白蚁亚科 Nasutitermitinae</a> — 81 属 · 607 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/neocapritermitinae.json">新扭白蚁亚科 Neocapritermitinae</a> — 3 属 · 20 种</li>
   <li><a href="{{ site.base_url }}/data/termitidae/promirotermitinae.json">前奇白蚁亚科 Promirotermitinae</a> — 2 属 · 39 种</li>

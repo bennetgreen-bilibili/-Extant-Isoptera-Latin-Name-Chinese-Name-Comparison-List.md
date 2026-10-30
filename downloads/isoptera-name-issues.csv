@@ -2,15 +2,11 @@
 Grigiotermes hageni,哈根灰白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Grigiotermes hageni,"Grigiotermes hageni (Snyder & Emerson, 1949)","Anoplotermes hageni Emerson & Snyder, 1949",EXACT,100,https://www.gbif.org/species/10112407,https://www.gbif.org/species/9662984,no,
 Mapinguaritermes grandidens,大齿红懒白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Mapinguaritermes grandidens,"Mapinguaritermes grandidens (Emerson, 1925)","Armitermes grandidens Emerson, 1925",EXACT,100,https://www.gbif.org/species/9360607,https://www.gbif.org/species/8816091,no,
 Megagnathotermes katangensis,加丹加大颚白蚁,种,白蚁科,TERMITIDAE,col,conflict,synonym,Megagnathotermes katangensis,"Megagnathotermes katangensis Sjöstedt, 1927","Polyspathotermes katangensis (Sjöstedt, 1927)",exact,,https://www.checklistbank.org/dataset/3LR/taxon/3YTNV,https://www.checklistbank.org/dataset/3LR/taxon/V9XXH,no,
-Parvitermes bacchanalis,酒神微白蚁,种,白蚁科,TERMITIDAE,col,conflict,synonym,Parvitermes bacchanalis,"Parvitermes bacchanalis Mathews, 1977","Obtusitermes bacchanalis (Mathews, 1977)",exact,,https://www.checklistbank.org/dataset/3LR/taxon/75SX3,https://www.checklistbank.org/dataset/3LR/taxon/48BGQ,no,
-Parvitermes mexicanus,墨西哥微白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Parvitermes mexicanus,"Parvitermes mexicanus (Light, 1933) Light, 1933","Nasutitermes mexicanus Light, 1933",EXACT,100,https://www.gbif.org/species/9275546,https://www.gbif.org/species/5152438,no,
 Patawatermes nigripunctatus,黑点帕塔瓦白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Patawatermes nigripunctatus,"Patawatermes nigripunctatus (Emerson, 1925)","Anoplotermes nigripunctatus Emerson, 1925",EXACT,100,https://www.gbif.org/species/11048620,https://www.gbif.org/species/9339653,no,
-Pericapritermes metatus,丈量近扭白蚁,种,白蚁科,TERMITIDAE,col,conflict,synonym,Pericapritermes metatus,"Pericapritermes metata Silvestri, 1914","Pericapritermes appellans metata Silvestri, 1914",exact,,https://www.checklistbank.org/dataset/3LR/taxon/76T6M,https://www.checklistbank.org/dataset/3LR/taxon/CDTRC,no,
 Rubeotermes jheringi,耶林变红白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Rubeotermes jheringi,"Rubeotermes jheringi (Holmgren, 1906)","Anoplotermes jheringi Holmgren, 1906",EXACT,100,https://www.gbif.org/species/10974393,https://www.gbif.org/species/9082997,no,
 Ruptitermes franciscoi,弗朗西斯科腹爆白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Ruptitermes franciscoi,"Ruptitermes franciscoi (Snyder, 1946) Snyder, 1946","Anoplotermes franciscoi Snyder, 1959",EXACT,100,https://www.gbif.org/species/8555127,https://www.gbif.org/species/9070348,no,
 Silvestritermes minutus,最小西尔韦斯特里白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Silvestritermes minutus,"Silvestritermes minutus (Emerson, 1925)","Armitermes minutus Emerson, 1925",EXACT,100,https://www.gbif.org/species/9635608,https://www.gbif.org/species/9801261,no,
 Uncitermes teevani,蒂范弯钩白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Uncitermes teevani,"Uncitermes teevani (Emerson, 1925)","Armitermes teevani Emerson, 1925",EXACT,100,https://www.gbif.org/species/9547733,https://www.gbif.org/species/9734260,no,
-Velocitermes aporeticus,怀疑快白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Velocitermes aporeticus,"Velocitermes aporeticus (Mathews, 1977) Mathews, 1977","Diversitermes aporeticus Mathews, 1977",EXACT,100,https://www.gbif.org/species/8862789,https://www.gbif.org/species/9658855,no,
 Coptotermes cooloola,库鲁拉乳白蚁,种,异白蚁科,HETEROTERMITIDAE,bsf,match,ambiguous,Coptotermes cooloola,,,,,,,no,"仅模糊候选：OTU 83129 Coptotermes Wasmann, 1896；OTU 653598 Termes (Coptotermes)"
 Coptotermes nanus,侏儒乳白蚁,种,异白蚁科,HETEROTERMITIDAE,bsf,match,ambiguous,Coptotermes nanus,,,,,,,no,"仅模糊候选：OTU 83129 Coptotermes Wasmann, 1896；OTU 653598 Termes (Coptotermes)"
 Coptotermes remotus,远方乳白蚁,种,异白蚁科,HETEROTERMITIDAE,bsf,match,ambiguous,Coptotermes remotus,,,,,,,no,"候选：OTU 83188 Coptotermes remotus Hill, 1927；OTU 653702 Coptotermes remotus Silvestri, 1927 now Coptotermes formosanus Shiraki, 1909"
@@ -64,9 +60,6 @@ Niuginitermes variratae,瓦里拉塔新几内亚白蚁,种,白蚁科,TERMITIDAE,
 Odontotermes celebensis,西里伯斯土白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Odontotermes celebensis,,,,,,,no,"候选：OTU 83698 Odontotermes celebensis Holmgren, 1913；OTU 676155 Odontotermes celebensis Oshima, 1914 now Odontotermes menadoensis Kemner, 1934"
 Odontotermes formosanus,黑翅土白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Odontotermes formosanus,,,,,,,no,"候选：OTU 83723 Odontotermes formosanus (Shiraki, 1909)；OTU 675565 Odontotermes formosanus Holmgren, 1912 now Odontotermes formosanus (Shiraki, 1909)"
 Odontotermes robustus,粗壮土白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Odontotermes robustus,,,,,,,no,"BSF 标签含亚属括号；候选：OTU 83828 Odontotermes robustus Sjöstedt, 1924；OTU 676750 Odontotermes (Odontotermes) robustus John, 1925 now Odontotermes praevalens (John, 1926)"
-Parvitermes bacchanalis,酒神微白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Parvitermes bacchanalis,,,,,,,no,"仅模糊候选：OTU 84825 Obtusitermes bacchanalis (Mathews, 1977)"
-Parvitermes mexicanus,墨西哥微白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Parvitermes mexicanus,,,,,,,no,"仅模糊候选：OTU 652366 Incisitermes mexicanus (Walker, 1853) now Incisitermes marginipennis (Latreille, 1817)"
-Pericapritermes metatus,丈量近扭白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Pericapritermes metatus,,,,,,,no,"仅模糊候选：OTU 85717 Pericapritermes appellans metata Silvestri, 1914；OTU 85696 Pericapritermes Silvestri, 1914；OTU 1044212 Pericapritermes cordatus Sjöstedt, 1924 now Pericapritermes chiasognathus (Sjöstedt, 1904)；OTU 85718 Pericapritermes minimus Weidner, 1956"
 Pericapritermes vermai,维尔马近扭白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Pericapritermes vermai,,,,,,,no,"仅模糊候选：OTU 85696 Pericapritermes Silvestri, 1914；OTU 85710 Pericapritermes gloveri Harris, 1951"
 Rhynchotermes matraga,马特拉加喙白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Rhynchotermes matraga,,,,,,,no,"仅模糊候选：OTU 84240 Rhynchotermes Holmgren, 1912；OTU 782405 Rhynchotermes major (Snyder, 1925) now Rhynchotermes perarmatus (Snyder, 1925)"
 Ruptitermes araujoi,阿劳若腹爆白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Ruptitermes araujoi,,,,,,,no,"仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977"
@@ -228,12 +221,11 @@ Nitiditermes truncatoides,拟伤残净白蚁,种,白蚁科,TERMITIDAE,gbif,gap,h
 Nitiditermes truncatus,伤残净白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Nitiditermes truncatus,"Nitiditermes Emerson, 1960",,HIGHERRANK,96,,,no,
 Niuginitermes variratae,瓦里拉塔新几内亚白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Niuginitermes variratae,"Niuginitermes Roisin & Pasteels, 1996",,higherrank,,,,no,
 Obtusitermes monomorphus,单型钝白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Obtusitermes monomorphus,"Obtusitermes Snyder, 1924",,HIGHERRANK,96,,,no,
-Parvitermes bacchanalis,酒神微白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Parvitermes bacchanalis,"Parvitermes Emerson, 1949",,HIGHERRANK,96,,,no,
 Parvitermes mesoamericanus,中美洲微白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Parvitermes mesoamericanus,"Parvitermes Emerson, 1949",,higherrank,,,,no,
 Parvitermes mesoamericanus,中美洲微白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Parvitermes mesoamericanus,,,,,,,no,
-Parvitermes mexicanus,墨西哥微白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Parvitermes mexicanus,"Parvitermes Emerson, 1949",,higherrank,,,,no,
 Parvitermes yucatanus,尤卡坦微白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Parvitermes yucatanus,"Parvitermes Emerson, 1949",,higherrank,,,,no,
 Parvitermes yucatanus,尤卡坦微白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Parvitermes yucatanus,,,,,,,no,
+Pericapritermes appellans metata,丈量亚种,亚种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Pericapritermes appellans metata,"Pericapritermes appellans Silvestri, 1914",,HIGHERRANK,100,,,no,
 Pericapritermes vermai,维尔马近扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Pericapritermes vermai,"Pericapritermes Silvestri, 1914",,HIGHERRANK,96,,,no,
 Pericapritermes vermai,维尔马近扭白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Pericapritermes vermai,"Pericapritermes Silvestri, 1914",,higherrank,,,,no,
 Polyspathotermes bugeserae,布盖塞拉多铲白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Polyspathotermes bugeserae,"Polyspathotermes Josens & Deligne, 2021",,HIGHERRANK,94,,,no,
@@ -297,5 +289,3 @@ Triclavitermes catoleensis,卡托莱三棒白蚁,种,白蚁科,TERMITIDAE,gbif,g
 Tucupitermes ubixaba,乌比沙巴黄汁白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Tucupitermes ubixaba,Animalia,,HIGHERRANK,99,,,no,
 Uncitermes almeriae,阿尔梅里弯钩白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Uncitermes almeriae,"Uncitermes Rocha & Cancello, 2012",,higherrank,,,,no,
 Uncitermes almeriae,阿尔梅里弯钩白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Uncitermes almeriae,,,,,,,no,
-Velocitermes aporeticus,怀疑快白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Velocitermes aporeticus,"Velocitermes Holmgren, 1912",,higherrank,,,,no,
-Velocitermes aporeticus,怀疑快白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Velocitermes aporeticus,,,,,,,no,

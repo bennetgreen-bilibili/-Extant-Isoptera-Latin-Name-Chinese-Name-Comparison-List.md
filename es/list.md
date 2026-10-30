@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Listado — isópteros (termitas) actuales: nombres latinos y nombres chinos"
-description: "Lista comparativa de todos los isópteros (termitas) actuales: 13 familias, 18 subfamilias, 323 géneros, 3005 especies y 63 subespecies, con marcas de especie tipo, distribución y 77 referencias."
+description: "Lista comparativa de todos los isópteros (termitas) actuales: 13 familias, 18 subfamilias, 323 géneros, 3004 especies y 64 subespecies, con marcas de especie tipo, distribución y 77 referencias."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
@@ -2508,11 +2508,11 @@ Esta familia es el grupo de termitas de mayor importancia económica del mundo: 
 
 {% include distribution-map.html mode="family" id="termitidae" %}
 
-La familia Termitidae fue establecida por Latreille en 1802, con el género tipo Termes Linnaeus, 1758. El nombre de la familia se forma a partir del radical del género tipo, Termit-, más el sufijo de nivel de familia -idae. Esta lista registra 277 géneros y 2130 especies.
+La familia Termitidae fue establecida por Latreille en 1802, con el género tipo Termes Linnaeus, 1758. El nombre de la familia se forma a partir del radical del género tipo, Termit-, más el sufijo de nivel de familia -idae. Esta lista registra 277 géneros y 2129 especies.
 
 Esta familia presenta una distribución pantropical, con representantes en todas las principales regiones zoogeográficas de los trópicos y subtrópicos, y algunas especies que se extienden hacia zonas templado-cálidas. Sus hábitos alimentarios son los más diversos entre las familias de termitas, e incluyen tipos xilófagos, graminívoros, consumidores de hojarasca, consumidores de humus y cultivadores de hongos; unas pocas especies se alimentan de líquenes y algas que crecen sobre la corteza (como el género Constrictotermes), mientras que las especies inquilinas se alimentan del material del nido y de las heces de su nido huésped (como el género Inquilinitermes); cerca del sesenta por ciento de las especies son consumidoras especializadas de humus del suelo. A diferencia de otras familias, el intestino posterior de esta familia está muy compartimentado, y sus simbiontes digestivos están dominados por bacterias y arqueas. El rasgo compartido más conspicuo de los soldados de los termítidos es la glándula frontal impar y saculiforme (35), cuya abertura externa es la fontanela, aunque las estrategias defensivas divergen en torno a esta estructura. Nasutitermitinae es la subfamilia más grande de la familia; en ella la parte anterior de la cabeza del soldado se prolonga en un naso cónico, las mandíbulas están reducidas y el soldado depende por completo de la glándula frontal para eyectar por la fontanela, en el ápice del naso, una secreción pegajosa que enreda a los enemigos; los Syntermitinae, que también poseen naso, conservan mandíbulas bien desarrolladas y emplean defensa tanto mecánica como química. El otro extremo se observa en los grupos de mandíbulas chasqueadoras de los Mirocapritermitinae, como el género Pericapritermes, que rechazan a los enemigos mediante un súbito golpe cruzado de las dos mandíbulas, mientras que la glándula frontal está poco desarrollada; Globitermes sulphureus va aún más lejos y utiliza la ruptura de la glándula frontal para una defensa suicida. Algunos linajes de la familia han perdido la casta de soldados, siendo ejemplo de ello las especies neotropicales de Apicotermitinae, en las que la defensa corre enteramente a cargo de las obreras. En los alados el pronoto tiene forma de silla de montar, el ala posterior carece de lóbulo anal y presenta nerviación simplificada, y hay fontanela y ocelos; en las obreras el postclípeo está hinchado en forma globular y el intestino posterior tiene un segmento mixto, y las antenas suelen tener 13-15 segmentos, mientras que las de los soldados suelen tener 12-16 segmentos. Los caracteres diagnósticos detallados de los soldados y las obreras de cada subfamilia se presentan en las secciones de subfamilia siguientes. Los patrones de anidación son diversos, e incluyen nidos subterráneos, montículos superficiales y nidos de cartón arbóreos, y los nidos de esta familia son las estructuras de ingeniería ecológica más conspicuas de las selvas tropicales y las sabanas. Termitidae es el grupo más rico en especies dentro de Neoisoptera; comenzó a irradiar hacia el final del Eoceno y experimentó una rápida radiación interna durante el Paleógeno.
 
-La familia se divide actualmente en 18 subfamilias (21): Amitermitinae (14 géneros, 193 especies), Apicotermitinae (65 géneros, 237 especies), Crepititermitinae (1 género, 1 especie), Cubitermitinae (28 géneros, 142 especies), Cylindrotermitinae (2 géneros, 9 especies), Engelitermitinae (1 género, 1 especie), Foraminitermitinae (3 géneros, 10 especies), Forficulitermitinae (1 género, 1 especie), Macrotermitinae (12 géneros, 373 especies), Microcerotermitinae (2 géneros, 150 especies), Mirocapritermitinae (14 géneros, 133 especies), Nasutitermitinae (81 géneros, 607 especies), Neocapritermitinae (3 géneros, 20 especies), Promirotermitinae (2 géneros, 39 especies), Protohamitermitinae (2 géneros, 2 especies), Sphaerotermitinae (1 género, 1 especie), Syntermitinae (22 géneros, 105 especies) y Termitinae (23 géneros, 106 especies). Los daños económicos causados por esta familia se detallan en cada subfamilia.
+La familia se divide actualmente en 18 subfamilias (21): Amitermitinae (14 géneros, 193 especies), Apicotermitinae (65 géneros, 237 especies), Crepititermitinae (1 género, 1 especie), Cubitermitinae (28 géneros, 142 especies), Cylindrotermitinae (2 géneros, 9 especies), Engelitermitinae (1 género, 1 especie), Foraminitermitinae (3 géneros, 10 especies), Forficulitermitinae (1 género, 1 especie), Macrotermitinae (12 géneros, 373 especies), Microcerotermitinae (2 géneros, 150 especies), Mirocapritermitinae (14 géneros, 132 especies), Nasutitermitinae (81 géneros, 607 especies), Neocapritermitinae (3 géneros, 20 especies), Promirotermitinae (2 géneros, 39 especies), Protohamitermitinae (2 géneros, 2 especies), Sphaerotermitinae (1 género, 1 especie), Syntermitinae (22 géneros, 105 especies) y Termitinae (23 géneros, 106 especies). Los daños económicos causados por esta familia se detallan en cada subfamilia.
 
 <h4 id="amitermitinae">Amitermitinae</h4>
 
@@ -5377,7 +5377,7 @@ Desde el punto de vista económico, esta subfamilia contiene varias plagas impor
 
 <h4 id="mirocapritermitinae">Mirocapritermitinae</h4>
 
-La subfamilia Mirocapritermitinae fue establecida por Kemner en 1934 (Mirocapritermitinae Kemner, 1934), con el género tipo Mirocapritermes Holmgren, 1914. Este catálogo incluye 14 géneros y 133 especies.
+La subfamilia Mirocapritermitinae fue establecida por Kemner en 1934 (Mirocapritermitinae Kemner, 1934), con el género tipo Mirocapritermes Holmgren, 1914. Este catálogo incluye 14 géneros y 132 especies.
 
 Esta subfamilia tiene su centro de diversidad en el reino oriental, y la mayoría de sus géneros están restringidos al reino oriental; el género Pericapritermes es el de distribución más amplia y, fuera del reino oriental, se presenta también en el África tropical, el reino australiano y el margen meridional del paleártico (Japón, Corea).
 
@@ -5547,8 +5547,6 @@ Su dieta es de alimentación de suelo (humus) o de alimentación en la interfaz 
 [*Pericapritermes machadoi* 马查多近扭白蚁]({{ site.base_url }}/species/pericapritermes-machadoi/)
 
 [*Pericapritermes magnificus* 非凡近扭白蚁]({{ site.base_url }}/species/pericapritermes-magnificus/)
-
-[*Pericapritermes metatus* 丈量近扭白蚁]({{ site.base_url }}/species/pericapritermes-metatus/)
 
 [*Pericapritermes minimus* 最小近扭白蚁]({{ site.base_url }}/species/pericapritermes-minimus/)
 
@@ -6090,6 +6088,8 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 <h5 id="diversitermes">Diversitermes</h5>
 
 {% include distribution-map.html mode="genus" id="diversitermes" %}
+
+[*Diversitermes aporeticus* 怀疑歧白蚁]({{ site.base_url }}/species/diversitermes-aporeticus/)
 
 [*Diversitermes castaniceps* 栗头歧白蚁]({{ site.base_url }}/species/diversitermes-castaniceps/)
 
@@ -6715,6 +6715,8 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 
 [*Nasutitermes meridianus* 南方象白蚁]({{ site.base_url }}/species/nasutitermes-meridianus/)
 
+[*Nasutitermes mexicanus* 墨西哥象白蚁]({{ site.base_url }}/species/nasutitermes-mexicanus/)
+
 [*Nasutitermes mindanensis* 棉兰老岛象白蚁]({{ site.base_url }}/species/nasutitermes-mindanensis/)
 
 [*Nasutitermes minimus* 最小象白蚁]({{ site.base_url }}/species/nasutitermes-minimus/)
@@ -6917,6 +6919,8 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 
 {% include distribution-map.html mode="genus" id="obtusitermes" %}
 
+[*Obtusitermes bacchanalis* 酒神钝白蚁]({{ site.base_url }}/species/obtusitermes-bacchanalis/)
+
 [*Obtusitermes formosulus* 漂亮钝白蚁]({{ site.base_url }}/species/obtusitermes-formosulus/)
 
 [*Obtusitermes monomorphus* 单型钝白蚁]({{ site.base_url }}/species/obtusitermes-monomorphus/)
@@ -6965,8 +6969,6 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 
 [*Parvitermes antillarum* 安的列斯微白蚁]({{ site.base_url }}/species/parvitermes-antillarum/)
 
-[*Parvitermes bacchanalis* 酒神微白蚁]({{ site.base_url }}/species/parvitermes-bacchanalis/)
-
 \*[*Parvitermes brooksi* 布鲁克斯微白蚁]({{ site.base_url }}/species/parvitermes-brooksi/)
 
 [*Parvitermes collinsae* 柯林斯微白蚁]({{ site.base_url }}/species/parvitermes-collinsae/)
@@ -6976,8 +6978,6 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 [*Parvitermes flaveolus* 微黄微白蚁]({{ site.base_url }}/species/parvitermes-flaveolus/)
 
 [*Parvitermes mesoamericanus* 中美洲微白蚁]({{ site.base_url }}/species/parvitermes-mesoamericanus/)
-
-[*Parvitermes mexicanus* 墨西哥微白蚁]({{ site.base_url }}/species/parvitermes-mexicanus/)
 
 [*Parvitermes pallidiceps* 灰头微白蚁]({{ site.base_url }}/species/parvitermes-pallidiceps/)
 
@@ -7224,8 +7224,6 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 <h5 id="velocitermes">Velocitermes</h5>
 
 {% include distribution-map.html mode="genus" id="velocitermes" %}
-
-[*Velocitermes aporeticus* 怀疑快白蚁]({{ site.base_url }}/species/velocitermes-aporeticus/)
 
 [*Velocitermes barrocoloradensis* 巴罗科罗拉多快白蚁]({{ site.base_url }}/species/velocitermes-barrocoloradensis/)
 

@@ -34,7 +34,7 @@ ES — **非凡双戟白蚁** (*Dihoplotermes inusitatus*) es una especie, y la 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/list/#termitinae) —— 本站收录 23 属 106 种（23 genera, 106 species · 23 géneros, 106 especies）
 - **属 Genus / Género**：[双戟白蚁属 *Dihoplotermes*]({{ site.base_url }}/list/#dihoplotermes) —— 共 2 种（2 species · 2 especies）
 

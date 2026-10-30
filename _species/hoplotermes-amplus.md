@@ -34,7 +34,7 @@ ES — **广泛武白蚁** (*Hoplotermes amplus*) es la única especie viviente 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 193 种（14 genera, 193 species · 14 géneros, 193 especies）
 - **属 Genus / Género**：[武白蚁属 *Hoplotermes*]({{ site.base_url }}/list/#hoplotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

@@ -150,7 +150,7 @@
    "records": 15809,
    "cells": 1382,
    "genera": 3,
-   "species": 230,
+   "species": 229,
    "file": "assets/geo/family/heterotermitidae.geojson"
   },
   {
@@ -160,7 +160,7 @@
    "records": 52764,
    "cells": 2024,
    "genera": 277,
-   "species": 2132,
+   "species": 2129,
    "file": "assets/geo/family/termitidae.geojson"
   }
  ],
@@ -708,7 +708,7 @@
    "gbif_key": 2007379,
    "records": 6395,
    "cells": 587,
-   "species": 59,
+   "species": 58,
    "file": "assets/geo/genus/coptotermes.geojson"
   },
   {
@@ -968,7 +968,7 @@
    "gbif_key": 2007285,
    "records": 5612,
    "cells": 595,
-   "species": 113,
+   "species": 112,
    "file": "assets/geo/genus/amitermes.geojson"
   },
   {
@@ -1722,7 +1722,7 @@
    "gbif_key": 4803110,
    "records": 425,
    "cells": 98,
-   "species": 3,
+   "species": 4,
    "file": "assets/geo/genus/diversitermes.geojson"
   },
   {
@@ -2580,7 +2580,7 @@
    "gbif_key": 4803416,
    "records": 39,
    "cells": 9,
-   "species": 3,
+   "species": 4,
    "file": "assets/geo/genus/obtusitermes.geojson"
   },
   {
@@ -2749,7 +2749,7 @@
    "gbif_key": 4803230,
    "records": 111,
    "cells": 42,
-   "species": 13,
+   "species": 11,
    "file": "assets/geo/genus/parvitermes.geojson"
   },
   {
@@ -2775,7 +2775,7 @@
    "gbif_key": 4803310,
    "records": 98,
    "cells": 29,
-   "species": 41,
+   "species": 40,
    "file": "assets/geo/genus/pericapritermes.geojson"
   },
   {
@@ -3438,7 +3438,7 @@
    "gbif_key": 4803105,
    "records": 322,
    "cells": 87,
-   "species": 10,
+   "species": 9,
    "file": "assets/geo/genus/velocitermes.geojson"
   },
   {
@@ -13633,17 +13633,6 @@
    "cells": 3,
    "file": "assets/geo/species/parvitermes-brooksi.geojson"
   },
-  "parvitermes-mexicanus": {
-   "latin": "Parvitermes mexicanus",
-   "zh": "墨西哥微白蚁",
-   "rank": "species",
-   "family_id": "termitidae",
-   "genus_id": "parvitermes",
-   "gbif_key": 5152438,
-   "records": 4,
-   "cells": 1,
-   "file": "assets/geo/species/parvitermes-mexicanus.geojson"
-  },
   "parvitermes-pallidiceps": {
    "latin": "Parvitermes pallidiceps",
    "zh": "灰头微白蚁",
@@ -16273,17 +16262,6 @@
    "cells": 22,
    "file": "assets/geo/species/vaninitermes-ignotus.geojson"
   },
-  "velocitermes-aporeticus": {
-   "latin": "Velocitermes aporeticus",
-   "zh": "怀疑快白蚁",
-   "rank": "species",
-   "family_id": "termitidae",
-   "genus_id": "velocitermes",
-   "gbif_key": 9658855,
-   "records": 3,
-   "cells": 2,
-   "file": "assets/geo/species/velocitermes-aporeticus.geojson"
-  },
   "velocitermes-barrocoloradensis": {
    "latin": "Velocitermes barrocoloradensis",
    "zh": "巴罗科罗拉多快白蚁",
@@ -16448,6 +16426,28 @@
    "records": 36,
    "cells": 11,
    "file": "assets/geo/species/zootermopsis-nevadensis-nuttingi.geojson"
+  },
+  "diversitermes-aporeticus": {
+   "latin": "Diversitermes aporeticus",
+   "zh": "怀疑歧白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "diversitermes",
+   "gbif_key": 9658855,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/diversitermes-aporeticus.geojson"
+  },
+  "nasutitermes-mexicanus": {
+   "latin": "Nasutitermes mexicanus",
+   "zh": "墨西哥象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5152438,
+   "records": 4,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-mexicanus.geojson"
   }
  }
 }

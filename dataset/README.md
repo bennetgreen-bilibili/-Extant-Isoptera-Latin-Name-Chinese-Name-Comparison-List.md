@@ -2,7 +2,7 @@
 
 **Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names — archived dataset**
 
-**版本 Version**：2026.10.30　·　**记录 Records**：3068 条（3005 种 + 63 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
+**版本 Version**：2026.10.30　·　**记录 Records**：3068 条（3004 种 + 64 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
 
 <!-- DOI:BEGIN -->
 **DOI**：[10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)（概念 DOI / 全部版本：10.5281/zenodo.23646835）
@@ -34,7 +34,7 @@
 
 本包是「现存等翅下目（白蚁）拉丁学名—中文正名对照名录」的**可引用归档版本**：把项目网站上的名录整理为机器可读、字段完整、可被 DOI 长期引用的数据文件。
 
-数据集覆盖现存等翅下目（Isoptera，白蚁）**全部现生类群**：13 科、18 亚科、323 属、3005 种、63 亚种，共 **3068 条分类单元记录**。每条记录包含：
+数据集覆盖现存等翅下目（Isoptera，白蚁）**全部现生类群**：13 科、18 亚科、323 属、3004 种、64 亚种，共 **3068 条分类单元记录**。每条记录包含：
 
 - 拉丁学名（属名 + 种加词 [+ 亚种加词]）与命名人、年份；
 - **中文正名**（本数据集的核心增值内容）；
@@ -56,13 +56,13 @@
 
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
-| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3068 | 1751458 | `99403102a8015e4f…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3068 | 1713678 | `639591b51d825c04…` |
+| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3068 | 1751504 | `b1eb78bc4ddd1669…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3068 | 1713587 | `64940cd4d385ab5e…` |
 | `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 699 | 170670 | `1e120dda5822f36a…` |
-| `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2215 | `81139430025b3ba3…` |
+| `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2215 | `3749f3b86234b419…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 
-统计 Counts：6 支系 · 13 科 · 18 亚科 · 323 属 · 3005 种 · 63 亚种，合计 3068 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。
+统计 Counts：6 支系 · 13 科 · 18 亚科 · 323 属 · 3004 种 · 64 亚种，合计 3068 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。
 
 版本 Version：2026.10.30　生成 Generator：.github/workflows/build_dataset.py（可由仓库来源完全重建）　本区块由脚本自动生成，请勿手工编辑；标记外的手写内容不受影响。
 <!-- AUTO:END -->
@@ -144,7 +144,7 @@
 
 ## English summary
 
-This package is the citable, archived version of the "Extant Isoptera checklist: Latin scientific names with Chinese standard names" project. It covers all extant termite lineages — 13 families, 18 subfamilies, 323 genera, 3005 species and 63 subspecies (3068 taxon records) — and provides, for every record, the scientific name with authorship, the Chinese standard name, rank, full classification (clade, family, subfamily, genus; Latin and Chinese), type-species flag, type locality, distribution in Chinese and English, and synonyms with their type localities. A separate long table lists all synonyms, and 77 cited references are included with DOIs where available.
+This package is the citable, archived version of the "Extant Isoptera checklist: Latin scientific names with Chinese standard names" project. It covers all extant termite lineages — 13 families, 18 subfamilies, 323 genera, 3004 species and 64 subspecies (3068 taxon records) — and provides, for every record, the scientific name with authorship, the Chinese standard name, rank, full classification (clade, family, subfamily, genus; Latin and Chinese), type-species flag, type locality, distribution in Chinese and English, and synonyms with their type localities. A separate long table lists all synonyms, and 77 cited references are included with DOIs where available.
 
 Files: one row per taxon (`isoptera-checklist.csv`), a full taxonomy tree (`isoptera-taxonomy.json`), a synonym table, family/subfamily counts, and the reference list. Formats are documented in `datapackage.json`; the DataCite 4.6 record is in `datacite-metadata.xml`. Everything is regenerated deterministically from the project repository, so the deposit can be rebuilt and audited.
 

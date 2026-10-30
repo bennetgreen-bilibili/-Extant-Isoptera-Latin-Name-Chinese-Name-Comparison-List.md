@@ -34,7 +34,7 @@ ES — **巴特里彭唇白蚁** (*Labritermes buttelreepeni*) es una especie, y
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[孔白蚁亚科 Foraminitermitinae]({{ site.base_url }}/list/#foraminitermitinae) —— 本站收录 3 属 10 种（3 genera, 10 species · 3 géneros, 10 especies）
 - **属 Genus / Género**：[唇白蚁属 *Labritermes*]({{ site.base_url }}/list/#labritermes) —— 共 3 种（3 species · 3 especies）
 

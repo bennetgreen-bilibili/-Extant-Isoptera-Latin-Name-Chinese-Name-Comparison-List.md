@@ -34,7 +34,7 @@ ES — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) es la única espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[努瓦罗白蚁属 *Noirotitermes*]({{ site.base_url }}/list/#noirotitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

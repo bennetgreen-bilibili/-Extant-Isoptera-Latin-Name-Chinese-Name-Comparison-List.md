@@ -34,7 +34,7 @@ ES — **紧缩瓢白蚁** (*Bulbitermes constrictus*) es una especie, y la espe
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
 - **属 Genus / Género**：[瓢白蚁属 *Bulbitermes*]({{ site.base_url }}/list/#bulbitermes) —— 共 34 种（34 species · 34 especies）
 

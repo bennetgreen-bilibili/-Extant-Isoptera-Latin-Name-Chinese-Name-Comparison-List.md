@@ -34,9 +34,9 @@ ES — **泰勒象白蚁** (*Nasutitermes taylori*) es una especie del género *
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
-- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 242 种（242 species · 242 especies）
+- **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/list/#nasutitermes) —— 共 243 种（243 species · 243 especies）
 - **本属模式种 Type species / Especie tipo**：*Nasutitermes corniger*
 
 ## 分布

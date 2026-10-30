@@ -34,7 +34,7 @@ ES — **长颚圆筒白蚁** (*Cylindrotermes macrognathus*) es una especie del
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2130 种（277 genera, 2130 species · 277 géneros, 2130 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
 - **亚科 Subfamily / Subfamilia**：[圆筒白蚁亚科 Cylindrotermitinae]({{ site.base_url }}/list/#cylindrotermitinae) —— 本站收录 2 属 9 种（2 genera, 9 species · 2 géneros, 9 especies）
 - **属 Genus / Género**：[圆筒白蚁属 *Cylindrotermes*]({{ site.base_url }}/list/#cylindrotermes) —— 共 8 种（8 species · 8 especies）
 - **本属模式种 Type species / Especie tipo**：*Cylindrotermes nordenskioldi*

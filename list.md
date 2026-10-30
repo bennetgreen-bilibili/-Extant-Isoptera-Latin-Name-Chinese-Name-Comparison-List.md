@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 名录 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: 现存等翅下目（白蚁）全部现生类群（13 科 323 属 3005 种 63 亚种）拉丁学名—中文正名对照名录，含模式种标记、分布信息与 77 篇参考文献。
+description: 现存等翅下目（白蚁）全部现生类群（13 科 323 属 3004 种 64 亚种）拉丁学名—中文正名对照名录，含模式种标记、分布信息与 77 篇参考文献。
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
@@ -2727,7 +2727,7 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 白蚁科由 Latreille 于 1802 年建立，
 模式属为 Termes Linnaeus, 1758；
 科名由模式属词干 Termit- 加科级后缀 -idae 构成。
-本名录收录 277 属 2130 种。
+本名录收录 277 属 2129 种。
 
 本科为泛热带分布，热带、亚热带各大动物地理区均有代表，少数种延伸至暖温带。
 食性为白蚁各科中最多样的类群，涵盖木食、草食、枯枝落叶食、腐殖土食与培养真菌食等类型，
@@ -2759,7 +2759,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 剪白蚁亚科 Forficulitermitinae（1 属 1 种）、
 大白蚁亚科 Macrotermitinae（12 属 373 种）、
 锯白蚁亚科 Microcerotermitinae（2 属 150 种）、
-瘤白蚁亚科 Mirocapritermitinae（14 属 133 种）、
+瘤白蚁亚科 Mirocapritermitinae（14 属 132 种）、
 象白蚁亚科 Nasutitermitinae（81 属 607 种）、
 新扭白蚁亚科 Neocapritermitinae（3 属 20 种）、
 前奇白蚁亚科 Promirotermitinae（2 属 39 种）、
@@ -5806,7 +5806,7 @@ Holmgren, 1910）(14)，
 瘤白蚁亚科由 Kemner 于 1934 年建立（Mirocapritermitinae
 Kemner, 1934），
 模式属为瘤白蚁属 Mirocapritermes Holmgren, 1914。
-本名录收录 14 属 133 种。
+本名录收录 14 属 132 种。
 
 本亚科以东洋界为多样性中心，多数属限于东洋界；近扭白蚁属 Pericapritermes 分布最广，
 东洋界之外还见于非洲热带、澳洲界及古北南缘（日本、韩国）。
@@ -5989,8 +5989,6 @@ sp. 为害袋装幼苗根部，
 [*Pericapritermes machadoi* 马查多近扭白蚁]({{ site.base_url }}/species/pericapritermes-machadoi/)
 
 [*Pericapritermes magnificus* 非凡近扭白蚁]({{ site.base_url }}/species/pericapritermes-magnificus/)
-
-[*Pericapritermes metatus* 丈量近扭白蚁]({{ site.base_url }}/species/pericapritermes-metatus/)
 
 [*Pericapritermes minimus* 最小近扭白蚁]({{ site.base_url }}/species/pericapritermes-minimus/)
 
@@ -6558,6 +6556,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 <h5 id="diversitermes">歧白蚁属 Diversitermes</h5>
 
 {% include distribution-map.html mode="genus" id="diversitermes" %}
+
+[*Diversitermes aporeticus* 怀疑歧白蚁]({{ site.base_url }}/species/diversitermes-aporeticus/)
 
 [*Diversitermes castaniceps* 栗头歧白蚁]({{ site.base_url }}/species/diversitermes-castaniceps/)
 
@@ -7183,6 +7183,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 [*Nasutitermes meridianus* 南方象白蚁]({{ site.base_url }}/species/nasutitermes-meridianus/)
 
+[*Nasutitermes mexicanus* 墨西哥象白蚁]({{ site.base_url }}/species/nasutitermes-mexicanus/)
+
 [*Nasutitermes mindanensis* 棉兰老岛象白蚁]({{ site.base_url }}/species/nasutitermes-mindanensis/)
 
 [*Nasutitermes minimus* 最小象白蚁]({{ site.base_url }}/species/nasutitermes-minimus/)
@@ -7385,6 +7387,8 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 {% include distribution-map.html mode="genus" id="obtusitermes" %}
 
+[*Obtusitermes bacchanalis* 酒神钝白蚁]({{ site.base_url }}/species/obtusitermes-bacchanalis/)
+
 [*Obtusitermes formosulus* 漂亮钝白蚁]({{ site.base_url }}/species/obtusitermes-formosulus/)
 
 [*Obtusitermes monomorphus* 单型钝白蚁]({{ site.base_url }}/species/obtusitermes-monomorphus/)
@@ -7433,8 +7437,6 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 [*Parvitermes antillarum* 安的列斯微白蚁]({{ site.base_url }}/species/parvitermes-antillarum/)
 
-[*Parvitermes bacchanalis* 酒神微白蚁]({{ site.base_url }}/species/parvitermes-bacchanalis/)
-
 \*[*Parvitermes brooksi* 布鲁克斯微白蚁]({{ site.base_url }}/species/parvitermes-brooksi/)
 
 [*Parvitermes collinsae* 柯林斯微白蚁]({{ site.base_url }}/species/parvitermes-collinsae/)
@@ -7444,8 +7446,6 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 [*Parvitermes flaveolus* 微黄微白蚁]({{ site.base_url }}/species/parvitermes-flaveolus/)
 
 [*Parvitermes mesoamericanus* 中美洲微白蚁]({{ site.base_url }}/species/parvitermes-mesoamericanus/)
-
-[*Parvitermes mexicanus* 墨西哥微白蚁]({{ site.base_url }}/species/parvitermes-mexicanus/)
 
 [*Parvitermes pallidiceps* 灰头微白蚁]({{ site.base_url }}/species/parvitermes-pallidiceps/)
 
@@ -7692,8 +7692,6 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 <h5 id="velocitermes">快白蚁属 Velocitermes</h5>
 
 {% include distribution-map.html mode="genus" id="velocitermes" %}
-
-[*Velocitermes aporeticus* 怀疑快白蚁]({{ site.base_url }}/species/velocitermes-aporeticus/)
 
 [*Velocitermes barrocoloradensis* 巴罗科罗拉多快白蚁]({{ site.base_url }}/species/velocitermes-barrocoloradensis/)
 

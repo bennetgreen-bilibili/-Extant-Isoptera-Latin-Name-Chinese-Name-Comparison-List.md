@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extant Isoptera (Termites) — Latin–Chinese Name Comparison List
-description: "Latin–Chinese name comparison list of all extant Isoptera (termites): 13 families, 323 genera, 3005 species, 63 subspecies, with search, statistics and structured data split by clade."
+description: "Latin–Chinese name comparison list of all extant Isoptera (termites): 13 families, 323 genera, 3004 species, 64 subspecies, with search, statistics and structured data split by clade."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
@@ -19,7 +19,7 @@ permalink: /en/
  "@id": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/#dataset",
  "name": "Extant Isoptera (Termites) Latin–Chinese Name Comparison List (2026.10.30)",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
- "description": "Latin–Chinese name comparison list of extant Isoptera (termites): 13 families, 323 genera, 3005 species, 63 subspecies. Data split by clade/family/subfamily; the entry point data/index.json contains the full taxonomic tree.",
+ "description": "Latin–Chinese name comparison list of extant Isoptera (termites): 13 families, 323 genera, 3004 species, 64 subspecies. Data split by clade/family/subfamily; the entry point data/index.json contains the full taxonomic tree.",
  "url": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
  "creator": {
   "@type": "Person",
@@ -178,12 +178,12 @@ permalink: /en/
 }
 </script>
 
-<p>A Latin–Chinese name comparison list of all extant Isoptera (termites): <strong>13 families, 323 genera, 3005 species, 63 subspecies</strong>, with type-species markers, distribution and references. Compiled by Bennet Green (班奈特格林), 2026-10-17 final version; free to cite with attribution.</p>
+<p>A Latin–Chinese name comparison list of all extant Isoptera (termites): <strong>13 families, 323 genera, 3004 species, 64 subspecies</strong>, with type-species markers, distribution and references. Compiled by Bennet Green (班奈特格林), 2026-10-17 final version; free to cite with attribution.</p>
 
 ## About
 
 > Source: compiled by 班奈特格林 (Bennet Green, bilibili); personal work, free to use with attribution.
-> Covers 13 families, 323 genera, 3005 species, 63 subspecies; `*` marks the type species; (N) is the reference number.
+> Covers 13 families, 323 genera, 3004 species, 64 subspecies; `*` marks the type species; (N) is the reference number.
 > Main sources: 《白蚁学》 (Termitology), 《世界白蚁中文名录》 (World Termite Chinese-Name List), 《中国动物志》 (Fauna Sinica), [termitologia.net](https://www.termitologia.net/), [organismnames.com](http://organismnames.com/query.htm), [GBIF](https://www.gbif.org/); other references are listed at the end of the List page.
 
 **Author**: 班奈特格林 (Bennet Green, bilibili)　**Version**: 2026.10.30 (final)　**License**: free to use with attribution (equivalent to CC BY 4.0; illustration copyrights belong to their photographers and follow the attribution and license shown with each figure).
