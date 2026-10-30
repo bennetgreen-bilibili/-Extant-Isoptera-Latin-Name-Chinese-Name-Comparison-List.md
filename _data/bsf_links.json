@@ -2,18 +2,18 @@
   "meta": {
     "aborted": null,
     "api": "https://sfg.taxonworks.org/api/v1",
-    "api_calls": 4,
+    "api_calls": 1,
     "citation": "Blattodea Working Group. Blattodea Species File Online. https://cockroach.speciesfile.org",
     "counts": {
-      "ambiguous": 59,
+      "ambiguous": 58,
       "error": 0,
       "missing": 42,
       "synonym": 0,
       "total": 3068,
-      "valid": 2967
+      "valid": 2968
     },
     "fetched": 3068,
-    "generated": "2026-10-30T14:08:32Z",
+    "generated": "2026-10-30T15:11:04Z",
     "generated_by": ".github/workflows/build_bsf_links.py",
     "pending": 0,
     "rate_limit": "global <=2 req/s (max 4 in flight), exponential backoff on 429/5xx, resumable cache",
@@ -25,27 +25,27 @@
       "sample": [
         {
           "http": 200,
-          "latin": "Pseudocapritermes bhutanensis",
+          "latin": "Pseudocapritermes angustignathus",
           "ok": true,
-          "otu": 85784,
+          "otu": 85783,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/85784/overview"
+          "url": "https://cockroach.speciesfile.org/otus/85783/overview"
         },
         {
           "http": 200,
-          "latin": "Schedorhinotermes breinli",
+          "latin": "Schedorhinotermes brachyceps",
           "ok": true,
-          "otu": 83447,
+          "otu": 83446,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/83447/overview"
+          "url": "https://cockroach.speciesfile.org/otus/83446/overview"
         },
         {
           "http": 200,
-          "latin": "Pseudomicrotermes alboniger",
+          "latin": "Pseudocapritermes tikadari",
           "ok": true,
-          "otu": 83904,
+          "otu": 85800,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/83904/overview"
+          "url": "https://cockroach.speciesfile.org/otus/85800/overview"
         },
         {
           "http": 200,
@@ -65,19 +65,19 @@
         },
         {
           "http": 200,
-          "latin": "Synhamitermes quadriceps",
+          "latin": "Synhamitermes labioangulatus",
           "ok": true,
-          "otu": 85834,
+          "otu": 85833,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/85834/overview"
+          "url": "https://cockroach.speciesfile.org/otus/85833/overview"
         },
         {
           "http": 200,
-          "latin": "Stylotermes mecocephalus",
+          "latin": "Stylotermes longignathus",
           "ok": true,
-          "otu": 83111,
+          "otu": 83110,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/83111/overview"
+          "url": "https://cockroach.speciesfile.org/otus/83110/overview"
         },
         {
           "http": 200,
@@ -105,11 +105,11 @@
         },
         {
           "http": 200,
-          "latin": "Trinervitermes rhodesiensis",
+          "latin": "Trinervitermes rapulum",
           "ok": true,
-          "otu": 84925,
+          "otu": 84924,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/84925/overview"
+          "url": "https://cockroach.speciesfile.org/otus/84924/overview"
         },
         {
           "http": 200,
@@ -121,11 +121,11 @@
         },
         {
           "http": 200,
-          "latin": "Trinervitermes sudanicus",
+          "latin": "Trinervitermes sensarmai",
           "ok": true,
-          "otu": 84928,
+          "otu": 84927,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/84928/overview"
+          "url": "https://cockroach.speciesfile.org/otus/84927/overview"
         },
         {
           "http": 200,
@@ -169,19 +169,19 @@
         },
         {
           "http": 200,
-          "latin": "Pseudocapritermes prosilvaticus",
+          "latin": "Pseudocapritermes planimentus",
           "ok": true,
-          "otu": 85795,
+          "otu": 85794,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/85795/overview"
+          "url": "https://cockroach.speciesfile.org/otus/85794/overview"
         },
         {
           "http": 200,
-          "latin": "Termes medioculatus",
+          "latin": "Termes marjoriae",
           "ok": true,
-          "otu": 85852,
+          "otu": 85851,
           "status": "valid",
-          "url": "https://cockroach.speciesfile.org/otus/85852/overview"
+          "url": "https://cockroach.speciesfile.org/otus/85851/overview"
         }
       ]
     }
@@ -15422,17 +15422,6 @@
       "valid_otu": 82462,
       "verified": false
     },
-    "Megagnathotermes katangensis": {
-      "label": "",
-      "match": null,
-      "notes": "仅模糊候选：OTU 85089 Polyspathotermes katangensis (Sjöstedt, 1927)",
-      "otu": null,
-      "status": "ambiguous",
-      "url": null,
-      "valid_label": null,
-      "valid_otu": null,
-      "verified": false
-    },
     "Megagnathotermes notandus": {
       "label": "Megagnathotermes notandus Silvestri, 1914",
       "match": "exact",
@@ -26486,6 +26475,17 @@
       "url": "https://cockroach.speciesfile.org/otus/85016/overview",
       "valid_label": null,
       "valid_otu": 85016,
+      "verified": false
+    },
+    "Polyspathotermes katangensis": {
+      "label": "Polyspathotermes katangensis (Sjöstedt, 1927)",
+      "match": "exact",
+      "notes": "",
+      "otu": 85089,
+      "status": "valid",
+      "url": "https://cockroach.speciesfile.org/otus/85089/overview",
+      "valid_label": null,
+      "valid_otu": 85089,
       "verified": false
     },
     "Polyspathotermes montanus": {

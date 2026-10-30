@@ -2324,8 +2324,6 @@ Lepidotermes simplex 简单鳞白蚁（非洲南部、南非）
 Lepidotermes vastus 空闲鳞白蚁（非洲南部、南非）
 
 #### 大颚白蚁属 Megagnathotermes
-Megagnathotermes katangensis 加丹加大颚白蚁（非洲、
-刚果民主共和国加丹加、赞比亚）
 \*Megagnathotermes notandus 标记大颚白蚁（西非、科特迪瓦、
 刚果民主共和国、冈比亚、几内亚、尼日利亚、塞拉利昂）
 
@@ -2400,6 +2398,8 @@ Polyspathotermes inclitus 显赫多铲白蚁（刚果、刚果民主共和国、
 马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚）
 Polyspathotermes intercalatus 居间多铲白蚁（安哥拉、刚果、
 刚果民主共和国）
+Polyspathotermes katangensis 加丹加多铲白蚁（非洲、
+刚果民主共和国加丹加、赞比亚）
 Polyspathotermes montanus 高山多铲白蚁（马拉维、坦桑尼亚、赞比亚）
 Polyspathotermes oblectatus 愉悦多铲白蚁（刚果民主共和国、马拉维、
 坦桑尼亚、赞比亚）

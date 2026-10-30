@@ -11047,16 +11047,9 @@
        "zh": "大颚白蚁属",
        "latin": "Megagnathotermes",
        "id": "megagnathotermes",
-       "species_count": 2,
+       "species_count": 1,
        "type_species": "Megagnathotermes notandus",
        "species": [
-        {
-         "latin": "Megagnathotermes katangensis",
-         "zh": "加丹加大颚白蚁",
-         "type": false,
-         "distribution": "非洲、刚果民主共和国加丹加、赞比亚）",
-         "subspecies": null
-        },
         {
          "latin": "Megagnathotermes notandus",
          "zh": "标记大颚白蚁",
@@ -11401,7 +11394,7 @@
        "zh": "多铲白蚁属",
        "latin": "Polyspathotermes",
        "id": "polyspathotermes",
-       "species_count": 7,
+       "species_count": 8,
        "type_species": "Polyspathotermes sulcifrons",
        "species": [
         {
@@ -11423,6 +11416,13 @@
          "zh": "居间多铲白蚁",
          "type": false,
          "distribution": "安哥拉、刚果、刚果民主共和国）",
+         "subspecies": null
+        },
+        {
+         "latin": "Polyspathotermes katangensis",
+         "zh": "加丹加多铲白蚁",
+         "type": false,
+         "distribution": "非洲、刚果民主共和国加丹加、赞比亚）",
          "subspecies": null
         },
         {

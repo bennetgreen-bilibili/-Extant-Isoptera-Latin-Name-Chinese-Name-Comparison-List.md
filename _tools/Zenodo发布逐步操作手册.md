@@ -41,7 +41,7 @@ python .github/workflows/build_dataset.py --check
 ```text
 记录 3068 条（种 3004，亚种 64）；属 323；科 13；亚科 18；支系 6
 次异名 699 条；参考文献 77 条（含 DOI 46 条）
-数据文件合计 3652162 字节；归档包 downloads/isoptera-checklist-v2026.10.30.zip 488522 字节；产物 13 个
+数据文件合计 3652162 字节；归档包 downloads/isoptera-checklist-v2026.10.30.zip 489029 字节；产物 13 个
 ok: 全部 13 个产物与生成结果一致
 ```
 
@@ -74,7 +74,7 @@ isoptera-checklist-2026.10.30/
   README.md            10,785 B   归档说明（来源/方法/字段/限制/引用）
   LICENSE               1,913 B   CC BY 4.0
   CITATION.cff          1,757 B   机器可读引用（含 doi: 一行）
-  CHANGELOG.md          7,864 B
+  CHANGELOG.md          9,746 B
   CHECKSUMS.sha256        717 B
   datapackage.json     10,830 B   字段字典（Frictionless 格式）
   datacite-metadata.xml 6,304 B   DataCite 4.6 元数据（第 3 行就是 DOI）

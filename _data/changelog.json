@@ -138,6 +138,36 @@
      "depth": 1,
      "text": "归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。",
      "html": "归档文件 <code>downloads/isoptera-checklist-v2026.10.30.zip</code> 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。"
+    },
+    {
+     "depth": 0,
+     "text": "**名称修订（同日第三次修订）**：对人工复核确认的 1 项组合差异按外部权威库的接受名改正本站记录（改后该名字不再出现在命名差异看板）——",
+     "html": "<strong>名称修订（同日第三次修订）</strong>：对人工复核确认的 1 项组合差异按外部权威库的接受名改正本站记录（改后该名字不再出现在命名差异看板）——"
+    },
+    {
+     "depth": 1,
+     "text": "*Megagnathotermes katangensis* → *Polyspathotermes katangensis*（并入多铲白蚁属，中文名改「加丹加多铲白蚁」；Catalogue of Life 与 BSF 均接受该组合，GBIF Backbone 尚未收录、只匹配到多铲白蚁属）；旧组合不写入次异名（次异名表仍 699 条）。",
+     "html": "*Megagnathotermes katangensis* → *Polyspathotermes katangensis*（并入多铲白蚁属，中文名改「加丹加多铲白蚁」；Catalogue of Life 与 BSF 均接受该组合，GBIF Backbone 尚未收录、只匹配到多铲白蚁属）；旧组合不写入次异名（次异名表仍 699 条）。"
+    },
+    {
+     "depth": 1,
+     "text": "计数：种 3004、亚种 64、分类单元记录 3068 均不变；属级 *Megagnathotermes* 2 → 1 种、*Polyspathotermes* 7 → 8 种；方白蚁亚科 142 种、白蚁科 2129 种不变。",
+     "html": "计数：种 3004、亚种 64、分类单元记录 3068 均不变；属级 *Megagnathotermes* 2 → 1 种、*Polyspathotermes* 7 → 8 种；方白蚁亚科 142 种、白蚁科 2129 种不变。"
+    },
+    {
+     "depth": 1,
+     "text": "人工核对备注：*Ruptitermes franciscoi* 与 *Anoplotermes franciscoi* 经查是同一物种的两套组合（Acioli & Constantino, 2015, Zootaxa 4032: 451–492 的新组合；Constantino 的 Termite Database 2025-05 版同此），GBIF 的「(Snyder, 1946)」为 Plazi / Zootaxa 题名元数据笔误（正文与图注均作 1959）；本站名不改，结论写入 `_data/name_issue_reviews.json`（看板标「已人工核对」，人工核对条目 4 → 5）。",
+     "html": "人工核对备注：*Ruptitermes franciscoi* 与 *Anoplotermes franciscoi* 经查是同一物种的两套组合（Acioli &amp; Constantino, 2015, Zootaxa 4032: 451–492 的新组合；Constantino 的 Termite Database 2025-05 版同此），GBIF 的「(Snyder, 1946)」为 Plazi / Zootaxa 题名元数据笔误（正文与图注均作 1959）；本站名不改，结论写入 <code>_data/name_issue_reviews.json</code>（看板标「已人工核对」，人工核对条目 4 → 5）。"
+    },
+    {
+     "depth": 1,
+     "text": "外部数据与派生产物同步：`_data/authority_links.json` / `_data/bsf_links.json`（BSF 抽查 20/20）、`downloads/isoptera-authority-crossref.csv`、`_tools/bsf对照/工作表.csv`、`_data/species_photos.json`、`_data/occurrence_summary.json` 与分布图（改名后 GBIF Backbone 无对应种，该种级地图移除；同时补上 *Obtusitermes bacchanalis* 的种级地图，种级地图仍 1,180 个、记录仍 87,075 条）、三语名录、`isoptera-data.json`、`data/` 结构化数据、检索索引、sitemap 与归档数据集。",
+     "html": "外部数据与派生产物同步：<code>_data/authority_links.json</code> / <code>_data/bsf_links.json</code>（BSF 抽查 20/20）、<code>downloads/isoptera-authority-crossref.csv</code>、<code>_tools/bsf对照/工作表.csv</code>、<code>_data/species_photos.json</code>、<code>_data/occurrence_summary.json</code> 与分布图（改名后 GBIF Backbone 无对应种，该种级地图移除；同时补上 *Obtusitermes bacchanalis* 的种级地图，种级地图仍 1,180 个、记录仍 87,075 条）、三语名录、<code>isoptera-data.json</code>、<code>data/</code> 结构化数据、检索索引、sitemap 与归档数据集。"
+    },
+    {
+     "depth": 1,
+     "text": "归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。",
+     "html": "归档文件 <code>downloads/isoptera-checklist-v2026.10.30.zip</code> 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。"
     }
    ]
   },

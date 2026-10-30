@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"family","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","records":15809,"cells":1382,"genera":3,"species":230,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"family","family":"HETEROTERMITIDAE","family_zh":"异白蚁科","family_id":"heterotermitidae","records":15809,"cells":1382,"genera":3,"species":229,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[174.5,-39.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[144.5,-38.5]},"properties":{"n":2}},

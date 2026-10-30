@@ -1,6 +1,6 @@
 {
 "type":"FeatureCollection",
-"properties":{"level":"family","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","records":52764,"cells":2024,"genera":277,"species":2132,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
+"properties":{"level":"family","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","records":52763,"cells":2023,"genera":277,"species":2129,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"GBIF occurrence search API (https://api.gbif.org/v1/occurrence/search), hasCoordinate=true, hasGeospatialIssue=false, checklist extant taxa only, fossil basisOfRecord excluded, accessed 2026-10-28; aggregated to a 1 degree grid by this site"},
 "features":[
     {"type":"Feature","geometry":{"type":"Point","coordinates":[171.5,-44.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,-37.5]},"properties":{"n":18}},
@@ -962,7 +962,7 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-55.5,-12.5]},"properties":{"n":8}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-54.5,-12.5]},"properties":{"n":10}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-52.5,-12.5]},"properties":{"n":6}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-51.5,-12.5]},"properties":{"n":38}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[-51.5,-12.5]},"properties":{"n":39}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-49.5,-12.5]},"properties":{"n":2}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-48.5,-12.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-47.5,-12.5]},"properties":{"n":1}},
@@ -1014,7 +1014,7 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-38.5,-11.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-37.5,-11.5]},"properties":{"n":32}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[24.5,-11.5]},"properties":{"n":1}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[27.5,-11.5]},"properties":{"n":16}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[27.5,-11.5]},"properties":{"n":15}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[32.5,-11.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[130.5,-11.5]},"properties":{"n":42}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[131.5,-11.5]},"properties":{"n":2}},
@@ -1485,7 +1485,6 @@
     {"type":"Feature","geometry":{"type":"Point","coordinates":[116.5,6.5]},"properties":{"n":3}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.5,7.5]},"properties":{"n":9}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.5,7.5]},"properties":{"n":5}},
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-78.5,7.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-77.5,7.5]},"properties":{"n":1}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-66.5,7.5]},"properties":{"n":4}},
     {"type":"Feature","geometry":{"type":"Point","coordinates":[-64.5,7.5]},"properties":{"n":1}},

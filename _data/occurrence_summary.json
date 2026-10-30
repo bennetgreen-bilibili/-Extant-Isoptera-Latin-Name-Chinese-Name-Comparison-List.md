@@ -157,8 +157,8 @@
    "id": "termitidae",
    "latin": "TERMITIDAE",
    "zh": "白蚁科",
-   "records": 52764,
-   "cells": 2024,
+   "records": 52763,
+   "cells": 2023,
    "genera": 277,
    "species": 2129,
    "file": "assets/geo/family/termitidae.geojson"
@@ -1720,8 +1720,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803110,
-   "records": 425,
-   "cells": 98,
+   "records": 428,
+   "cells": 100,
    "species": 4,
    "file": "assets/geo/genus/diversitermes.geojson"
   },
@@ -2435,9 +2435,9 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803485,
-   "records": 29,
-   "cells": 3,
-   "species": 2,
+   "records": 28,
+   "cells": 2,
+   "species": 1,
    "file": "assets/geo/genus/megagnathotermes.geojson"
   },
   {
@@ -2513,8 +2513,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 5431333,
-   "records": 12369,
-   "cells": 963,
+   "records": 12372,
+   "cells": 962,
    "species": 243,
    "file": "assets/geo/genus/nasutitermes.geojson"
   },
@@ -2578,8 +2578,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803416,
-   "records": 39,
-   "cells": 9,
+   "records": 40,
+   "cells": 10,
    "species": 4,
    "file": "assets/geo/genus/obtusitermes.geojson"
   },
@@ -2747,8 +2747,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803230,
-   "records": 111,
-   "cells": 42,
+   "records": 107,
+   "cells": 41,
    "species": 11,
    "file": "assets/geo/genus/parvitermes.geojson"
   },
@@ -2801,7 +2801,7 @@
    "gbif_key": 11329858,
    "records": 18,
    "cells": 5,
-   "species": 7,
+   "species": 8,
    "file": "assets/geo/genus/polyspathotermes.geojson"
   },
   {
@@ -3436,8 +3436,8 @@
    "family_latin": "TERMITIDAE",
    "family_zh": "白蚁科",
    "gbif_key": 4803105,
-   "records": 322,
-   "cells": 87,
+   "records": 319,
+   "cells": 86,
    "species": 9,
    "file": "assets/geo/genus/velocitermes.geojson"
   },
@@ -7308,6 +7308,17 @@
    "cells": 5,
    "file": "assets/geo/species/disjunctitermes-insularis.geojson"
   },
+  "diversitermes-aporeticus": {
+   "latin": "Diversitermes aporeticus",
+   "zh": "怀疑歧白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "diversitermes",
+   "gbif_key": 9658855,
+   "records": 3,
+   "cells": 2,
+   "file": "assets/geo/species/diversitermes-aporeticus.geojson"
+  },
   "diversitermes-castaniceps": {
    "latin": "Diversitermes castaniceps",
    "zh": "栗头歧白蚁",
@@ -10036,17 +10047,6 @@
    "cells": 94,
    "file": "assets/geo/species/mastotermes-darwiniensis.geojson"
   },
-  "megagnathotermes-katangensis": {
-   "latin": "Megagnathotermes katangensis",
-   "zh": "加丹加大颚白蚁",
-   "rank": "species",
-   "family_id": "termitidae",
-   "genus_id": "megagnathotermes",
-   "gbif_key": 9770233,
-   "records": 1,
-   "cells": 1,
-   "file": "assets/geo/species/megagnathotermes-katangensis.geojson"
-  },
   "megagnathotermes-notandus": {
    "latin": "Megagnathotermes notandus",
    "zh": "标记大颚白蚁",
@@ -11587,6 +11587,17 @@
    "cells": 1,
    "file": "assets/geo/species/nasutitermes-meinerti.geojson"
   },
+  "nasutitermes-mexicanus": {
+   "latin": "Nasutitermes mexicanus",
+   "zh": "墨西哥象白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "nasutitermes",
+   "gbif_key": 5152438,
+   "records": 4,
+   "cells": 1,
+   "file": "assets/geo/species/nasutitermes-mexicanus.geojson"
+  },
   "nasutitermes-minimus": {
    "latin": "Nasutitermes minimus",
    "zh": "最小象白蚁",
@@ -12532,6 +12543,17 @@
    "records": 6,
    "cells": 2,
    "file": "assets/geo/species/noirotitermes-noiroti.geojson"
+  },
+  "obtusitermes-bacchanalis": {
+   "latin": "Obtusitermes bacchanalis",
+   "zh": "酒神钝白蚁",
+   "rank": "species",
+   "family_id": "termitidae",
+   "genus_id": "obtusitermes",
+   "gbif_key": 9767646,
+   "records": 1,
+   "cells": 1,
+   "file": "assets/geo/species/obtusitermes-bacchanalis.geojson"
   },
   "obtusitermes-formosulus": {
    "latin": "Obtusitermes formosulus",
@@ -16426,28 +16448,6 @@
    "records": 36,
    "cells": 11,
    "file": "assets/geo/species/zootermopsis-nevadensis-nuttingi.geojson"
-  },
-  "diversitermes-aporeticus": {
-   "latin": "Diversitermes aporeticus",
-   "zh": "怀疑歧白蚁",
-   "rank": "species",
-   "family_id": "termitidae",
-   "genus_id": "diversitermes",
-   "gbif_key": 9658855,
-   "records": 3,
-   "cells": 2,
-   "file": "assets/geo/species/diversitermes-aporeticus.geojson"
-  },
-  "nasutitermes-mexicanus": {
-   "latin": "Nasutitermes mexicanus",
-   "zh": "墨西哥象白蚁",
-   "rank": "species",
-   "family_id": "termitidae",
-   "genus_id": "nasutitermes",
-   "gbif_key": 5152438,
-   "records": 4,
-   "cells": 1,
-   "file": "assets/geo/species/nasutitermes-mexicanus.geojson"
   }
  }
 }

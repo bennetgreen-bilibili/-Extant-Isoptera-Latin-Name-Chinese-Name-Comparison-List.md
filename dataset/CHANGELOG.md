@@ -32,6 +32,13 @@
   - 外部数据与派生产物同步：`_data/authority_links.json` / `_data/bsf_links.json`（BSF 抽查 20/20）、`downloads/isoptera-authority-crossref.csv`、`_tools/bsf对照/工作表.csv`、`_data/species_photos.json`、`_data/occurrence_summary.json` 与种级 GeoJSON（改名并更新属性）、三语名录、`isoptera-data.json`、`data/` 结构化数据、检索索引、sitemap 与归档数据集。
   - 归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。
 
+- **名称修订（同日第三次修订）**：对人工复核确认的 1 项组合差异按外部权威库的接受名改正本站记录（改后该名字不再出现在命名差异看板）——
+  - *Megagnathotermes katangensis* → *Polyspathotermes katangensis*（并入多铲白蚁属，中文名改「加丹加多铲白蚁」；Catalogue of Life 与 BSF 均接受该组合，GBIF Backbone 尚未收录、只匹配到多铲白蚁属）；旧组合不写入次异名（次异名表仍 699 条）。
+  - 计数：种 3004、亚种 64、分类单元记录 3068 均不变；属级 *Megagnathotermes* 2 → 1 种、*Polyspathotermes* 7 → 8 种；方白蚁亚科 142 种、白蚁科 2129 种不变。
+  - 人工核对备注：*Ruptitermes franciscoi* 与 *Anoplotermes franciscoi* 经查是同一物种的两套组合（Acioli & Constantino, 2015, Zootaxa 4032: 451–492 的新组合；Constantino 的 Termite Database 2025-05 版同此），GBIF 的「(Snyder, 1946)」为 Plazi / Zootaxa 题名元数据笔误（正文与图注均作 1959）；本站名不改，结论写入 `_data/name_issue_reviews.json`（看板标「已人工核对」，人工核对条目 4 → 5）。
+  - 外部数据与派生产物同步：`_data/authority_links.json` / `_data/bsf_links.json`（BSF 抽查 20/20）、`downloads/isoptera-authority-crossref.csv`、`_tools/bsf对照/工作表.csv`、`_data/species_photos.json`、`_data/occurrence_summary.json` 与分布图（改名后 GBIF Backbone 无对应种，该种级地图移除；同时补上 *Obtusitermes bacchanalis* 的种级地图，种级地图仍 1,180 个、记录仍 87,075 条）、三语名录、`isoptera-data.json`、`data/` 结构化数据、检索索引、sitemap 与归档数据集。
+  - 归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。
+
 ## 2026.10.17 — 首个 DOI 归档版本 First archived release
 
 - 数据内容与项目网站 2026.10.17 正式版一致：13 科、18 亚科、323 属、3008 种、63 亚种（3071 条记录）。

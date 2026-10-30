@@ -4,16 +4,9 @@
   "purpose": "记录已人工核对过的「匹配存疑」条目（多为外部库拼写变体）：只给看板条目加「已人工核对」与备注，不改动任何站内分类数据，也不写回外部库缓存。",
   "rules": "按 latin 匹配条目，可用 source（gbif/col/bsf）与 kind（fuzzy/ambiguous/higherrank/missing/synonym）限定；verify 默认 true。由 .github/workflows/build_name_issues.py 读取，未被匹配的条目不生效且脚本会报错。判定依据与流程见 _tools/外部权威库与一致性核对.md。",
   "updated": "2026-10-30",
-  "reviewed": 4
+  "reviewed": 5
  },
  "reviews": [
-  {
-   "latin": "Incisitermes mariae",
-   "source": "gbif",
-   "kind": "fuzzy",
-   "verified": true,
-   "note": "人工核对（2026-10-30）：GBIF Backbone 未收录本站名，模糊匹配到的是另一种 Incisitermes marianus (Holmgren, 1912)（有效种，命名人与模式产地均不同），不是拼写变体。本站名见原始描述 Scheffrahn, Austin & Szalanski, 2024（Zootaxa 5428: 427–439，模式产地 Trinidad and Tobago: Acono），Catalogue of Life 与 BSF 均按本名收录；本站名不改。"
-  },
   {
    "latin": "Cortaritermes silvestrii",
    "source": "gbif",
@@ -29,11 +22,25 @@
    "note": "人工核对（2026-10-30）：GBIF Backbone 拼作 chhotannii（双 n），属外部库拼写变体。BSF、Catalogue of Life 与 ION 的 Maiti, 1983 原始描述记录均作 chhotanii；本站名不改。"
   },
   {
+   "latin": "Incisitermes mariae",
+   "source": "gbif",
+   "kind": "fuzzy",
+   "verified": true,
+   "note": "人工核对（2026-10-30）：GBIF Backbone 未收录本站名，模糊匹配到的是另一种 Incisitermes marianus (Holmgren, 1912)（有效种，命名人与模式产地均不同），不是拼写变体。本站名见原始描述 Scheffrahn, Austin & Szalanski, 2024（Zootaxa 5428: 427–439，模式产地 Trinidad and Tobago: Acono），Catalogue of Life 与 BSF 均按本名收录；本站名不改。"
+  },
+  {
    "latin": "Niuginitermes variratae",
    "source": "gbif",
    "kind": "fuzzy",
    "verified": true,
    "note": "人工核对（2026-10-30）：BSF、Catalogue of Life 与 GBIF 拼作 variatae（少一个 r），属外部库拼写变体。原始描述摘要（Roisin & Pasteels, 1996, Invertebrate Taxonomy 10(3): 507–616）明确作 N. variratae, sp. nov.；本站名不改。"
+  },
+  {
+   "latin": "Ruptitermes franciscoi",
+   "source": "gbif",
+   "kind": "synonym",
+   "verified": true,
+   "note": "人工核对（2026-10-30）：Anoplotermes franciscoi Snyder, 1959 是本站 Ruptitermes franciscoi 的基础异名（basionym），不是独立物种——Acioli & Constantino (2015, Zootaxa 4032: 451–492) 以「Ruptitermes franciscoi (Snyder, 1959), new combination」把该种移入腹爆白蚁属，Constantino 的 Termite Database（2025-05 更新）也只列这 1 个种。GBIF、Catalogue of Life 与 BSF 尚未采纳该新组合，仍把旧组合 Anoplotermes franciscoi 列为接受名，所以看板出现这条名称差异；其中 GBIF 条目的「(Snyder, 1946) Snyder, 1946」是 Plazi / Zootaxa 题名元数据的笔误（正文与图注均作 1959），GBIF 自身也标了 CONFLICTING_BASIONYM_COMBINATION。本站名不改，仍按 2015 年修订使用 Ruptitermes franciscoi。"
   }
  ]
 }

@@ -3905,8 +3905,6 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 {% include distribution-map.html mode="genus" id="megagnathotermes" %}
 
-[*Megagnathotermes katangensis* 加丹加大颚白蚁]({{ site.base_url }}/species/megagnathotermes-katangensis/)
-
 \*[*Megagnathotermes notandus* 标记大颚白蚁]({{ site.base_url }}/species/megagnathotermes-notandus/)
 
 <h5 id="mucrotermes">Mucrotermes</h5>
@@ -4024,6 +4022,8 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 [*Polyspathotermes inclitus* 显赫多铲白蚁]({{ site.base_url }}/species/polyspathotermes-inclitus/)
 
 [*Polyspathotermes intercalatus* 居间多铲白蚁]({{ site.base_url }}/species/polyspathotermes-intercalatus/)
+
+[*Polyspathotermes katangensis* 加丹加多铲白蚁]({{ site.base_url }}/species/polyspathotermes-katangensis/)
 
 [*Polyspathotermes montanus* 高山多铲白蚁]({{ site.base_url }}/species/polyspathotermes-montanus/)
 

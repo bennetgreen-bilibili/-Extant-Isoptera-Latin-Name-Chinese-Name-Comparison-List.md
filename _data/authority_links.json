@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-30T14:07:31Z",
+  "generated": "2026-10-30T15:09:48Z",
   "sources": {
    "gbif": {
     "name": "GBIF Backbone Taxonomy",
@@ -45,28 +45,27 @@
   },
   "counts": {
    "total": 3068,
-   "gbif_linked": 2964,
-   "gbif_accepted": 2957,
+   "gbif_linked": 2963,
+   "gbif_accepted": 2956,
    "gbif_synonym": 7,
    "gbif_missing": 0,
    "gbif_fuzzy": 4,
    "gbif_doubtful": 0,
-   "gbif_higherrank": 104,
+   "gbif_higherrank": 105,
    "col_linked": 2995,
-   "col_accepted": 2994,
-   "col_synonym": 1,
+   "col_accepted": 2995,
+   "col_synonym": 0,
    "col_missing": 16,
    "col_higherrank": 57,
-   "wikidata": 2873,
+   "wikidata": 2872,
    "consistent": 2899,
    "flagged": 169
   },
   "flag_counts": {
    "col_higherrank": 57,
    "col_missing": 16,
-   "col_synonym": 1,
    "gbif_fuzzy": 4,
-   "gbif_higherrank": 104,
+   "gbif_higherrank": 105,
    "gbif_synonym": 7
   }
  },
@@ -30704,34 +30703,6 @@
    "flags": [],
    "_d": "2026-10-28"
   },
-  "Megagnathotermes katangensis": {
-   "gbif": {
-    "key": 9770233,
-    "status": "ACCEPTED",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Megagnathotermes katangensis Sjöstedt, 1927",
-    "accepted": null
-   },
-   "col": {
-    "id": "3YTNV",
-    "status": "synonym",
-    "label": "Megagnathotermes katangensis Sjöstedt, 1927",
-    "type": "variant",
-    "rank": "species",
-    "accepted": {
-     "id": "V9XXH",
-     "label": "Polyspathotermes katangensis (Sjöstedt, 1927)",
-     "name": "Polyspathotermes katangensis"
-    }
-   },
-   "wd": "Q140210079",
-   "flags": [
-    "col_synonym"
-   ],
-   "_d": "2026-10-28"
-  },
   "Megagnathotermes notandus": {
    "gbif": {
     "key": 9651889,
@@ -52889,6 +52860,30 @@
     "gbif_higherrank"
    ],
    "_d": "2026-10-28"
+  },
+  "Polyspathotermes katangensis": {
+   "gbif": {
+    "key": null,
+    "status": "DOUBTFUL",
+    "match": "HIGHERRANK",
+    "confidence": 94,
+    "rank": "GENUS",
+    "name": "Polyspathotermes Josens & Deligne, 2021",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9XXH",
+    "status": "accepted",
+    "label": "Polyspathotermes katangensis (Sjöstedt, 1927)",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-30"
   },
   "Polyspathotermes montanus": {
    "gbif": {

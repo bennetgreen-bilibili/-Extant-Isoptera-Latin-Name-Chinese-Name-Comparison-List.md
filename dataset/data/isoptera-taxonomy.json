@@ -17239,21 +17239,10 @@
      "subfamilyId": "cubitermitinae",
      "typeSpecies": "Megagnathotermes notandus",
      "counts": {
-      "species": 2,
+      "species": 1,
       "subspecies": 0
      },
      "species": [
-      {
-       "latin": "Megagnathotermes katangensis",
-       "zh": "加丹加大颚白蚁",
-       "authorship": "Sjöstedt, 1927",
-       "isTypeSpecies": false,
-       "typeLocality": "Democratic Republic of the Congo: Katanga: Lubumbashi",
-       "distributionZh": "非洲、刚果民主共和国加丹加、赞比亚",
-       "distributionEn": "Africa, Katanga, Democratic Republic of the Congo, Zambia",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/megagnathotermes-katangensis/",
-       "subspecies": []
-      },
       {
        "latin": "Megagnathotermes notandus",
        "zh": "标记大颚白蚁",
@@ -17785,7 +17774,7 @@
      "subfamilyId": "cubitermitinae",
      "typeSpecies": "Polyspathotermes sulcifrons",
      "counts": {
-      "species": 7,
+      "species": 8,
       "subspecies": 0
      },
      "species": [
@@ -17820,6 +17809,17 @@
        "distributionZh": "安哥拉、刚果、刚果民主共和国",
        "distributionEn": "Angola, Congo, Democratic Republic of the Congo",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/polyspathotermes-intercalatus/",
+       "subspecies": []
+      },
+      {
+       "latin": "Polyspathotermes katangensis",
+       "zh": "加丹加多铲白蚁",
+       "authorship": "Sjöstedt, 1927",
+       "isTypeSpecies": false,
+       "typeLocality": "Democratic Republic of the Congo: Katanga: Lubumbashi",
+       "distributionZh": "非洲、刚果民主共和国加丹加、赞比亚",
+       "distributionEn": "Africa, Katanga, Democratic Republic of the Congo, Zambia",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/polyspathotermes-katangensis/",
        "subspecies": []
       },
       {

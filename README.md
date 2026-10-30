@@ -101,11 +101,11 @@
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
-| GBIF 可外链 / 共 3068 | 2964（96.6%；接受名 2957、异名 7、仅上级阶元 104） |
-| Catalogue of Life 可外链 | 2995（97.6%；异名 1、仅上级阶元 57、未收录 16） |
-| Wikidata 条目（P225） | 2873（93.6%） |
+| GBIF 可外链 / 共 3068 | 2963（96.6%；接受名 2956、异名 7、仅上级阶元 105） |
+| Catalogue of Life 可外链 | 2995（97.6%；接受名 2995、仅上级阶元 57、未收录 16） |
+| Wikidata 条目（P225） | 2872（93.6%） |
 | 与两库接受名完全一致 / 带提示 | 2899（94.5%） / 169 |
-| Blattodea Species File 对照 | 有效名 2967、异名 0、待核对 59、未检索到 42（共 3068；抽查 20/20 页可通过） |
+| Blattodea Species File 对照 | 有效名 2968、异名 0、待核对 58、未检索到 42（共 3068；抽查 20/20 页可通过） |
 | 开放许可照片 | 205 个物种、891 张（iNaturalist 769 + Wikimedia Commons 122） |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
 | 分布图 | 13 个科级 + 254 个属级 + 1,180 个种级 GeoJSON（`assets/geo/{family,genus,species}/`），87,075 条 GBIF 带坐标记录（访问日期 2026-10-28）；仅名录现生类群，化石种与 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 记录已剔除 |
@@ -146,17 +146,17 @@
 ### 7. 命名差异与待核对看板（/list/name-issues/）
 
 - 位置：名录页（`/list/`）下一级，三语各一页；从名录页搜索框下方与每个物种页「其他数据库」区块底部进入。
-- 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 290 条，涉及 194 个种/亚种。
-- 逐对归并（「把异名记录到对应的接收名下面」）：8 条名称差异整理成 **8 对「本站名 ↔ 外部库主张的接受名」**（同一对多库只算一次），逐对判定两件事：
-  - **关系**：加词不同 = 「异名」0 对；同种异属（只是换了属）= 「组合差异」8 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
-  - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 8 对里：外部名为接收名 0 对、本站名为接收名 6 对、方向待定 2 对（7 对存在库间分歧）。
+- 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 289 条，涉及 194 个种/亚种。
+- 逐对归并（「把异名记录到对应的接收名下面」）：7 条名称差异整理成 **7 对「本站名 ↔ 外部库主张的接受名」**（同一对多库只算一次），逐对判定两件事：
+  - **关系**：加词不同 = 「异名」0 对；同种异属（只是换了属）= 「组合差异」7 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
+  - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 7 对里：外部名为接收名 0 对、本站名为接收名 6 对、方向待定 1 对（6 对存在库间分歧）。
   - 页末「名称差异逐对归并」表与 `downloads/isoptera-synonym-pairs.csv`（15 列）给出每对的关系、方向、各库判定与补录状态；物种页「其他数据库」区块按 incoming / outgoing 两侧列出（本种接收了哪些异名 / 外部库把本名放在哪个名字下）。数字随缓存刷新而变，页面与 `meta.counts` 为准。
 - **补录规则与现状（当前 0 对）**：只有「真异名 + 方向明确为外部库名为接收名 + 至少两个分类数据库一致认定」（`recordable`）才允许补录；GBIF Backbone 对滞后组合仍标 ACCEPTED 时只作「方向有分歧」提示，不否决。此前看板标「已补录」的 3 对已在 2026.10.30 版**正式合并**（异名物种页删除，名录与各数据文件不再单列，命名人与模式产地并入接受名的次异名列表，`synonym_count` 各加 1），因此当前既无「可补录」也无「已补录」条目：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF / CoL / BSF 一致）
   - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL / BSF 一致；GBIF 仍标接受名）
   - *Nasutitermes dasyopsis* → *Nasutitermes nigriceps*（CoL / BSF 一致；GBIF 仍标接受名）
-  「依外部权威库补录的异名」机制仍在（接受名 front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，来源代码 gbif/col/bsf），用于「异名另有独立记录、是否合并待定」的情形；正式合并后，异名只写进接受名的 `synonyms` / `synonym_localities`，`search-index.json` 仍可按异名命中接受名。原留待人工核对的 *Pericapritermes metatus* → *P. appellans metata* 已在同日按 CoL 的接受名改为亚种；另有 3 对组合差异（*Velocitermes aporeticus* → *Diversitermes aporeticus*、*Parvitermes mexicanus* → *Nasutitermes mexicanus*、*Parvitermes bacchanalis* → *Obtusitermes bacchanalis*）也按外部接受名改正，详见 `dataset/CHANGELOG.md`。
-- **拼写变体与人工核对（当前 4 条）**：看板里的模糊匹配不一定是本站拼错——外部库可能少一个字母（*Cortaritermes silvestrii* → *silvestri*、*Niuginitermes variratae* → *variatae*、*Euhamitermes chhotanii* → *chhotannii*），或者 GBIF Backbone 尚未收录新名而把它模糊匹配到另一个有效种（*Incisitermes mariae* → *I. marianus*）。这 4 条经与原始描述逐条核对，本站名正确、**不改名**；核对结论写进 `_data/name_issue_reviews.json`（`verified` / `note`），`build_name_issues.py` 生成看板时套用（页面与 CSV 标「已人工核对」并给出依据），不改站内分类数据，也不写回外部库缓存。详见 `_tools/外部权威库与一致性核对.md` 第 4.3 节。
+  「依外部权威库补录的异名」机制仍在（接受名 front matter 的 `authority_synonym_count` / `authority_synonyms` / `authority_synonym_localities` / `authority_synonym_sources`，来源代码 gbif/col/bsf），用于「异名另有独立记录、是否合并待定」的情形；正式合并后，异名只写进接受名的 `synonyms` / `synonym_localities`，`search-index.json` 仍可按异名命中接受名。原留待人工核对的 *Pericapritermes metatus* → *P. appellans metata* 已在同日按 CoL 的接受名改为亚种；另有 3 对组合差异（*Velocitermes aporeticus* → *Diversitermes aporeticus*、*Parvitermes mexicanus* → *Nasutitermes mexicanus*、*Parvitermes bacchanalis* → *Obtusitermes bacchanalis*）以及 *Megagnathotermes katangensis* → *Polyspathotermes katangensis*（CoL / BSF 接受该组合，GBIF Backbone 尚未收录）也按外部接受名改正，详见 `dataset/CHANGELOG.md`。
+- **拼写变体与人工核对（当前 5 条）**：看板里的模糊匹配不一定是本站拼错——外部库可能少一个字母（*Cortaritermes silvestrii* → *silvestri*、*Niuginitermes variratae* → *variatae*、*Euhamitermes chhotanii* → *chhotannii*），或者 GBIF Backbone 尚未收录新名而把它模糊匹配到另一个有效种（*Incisitermes mariae* → *I. marianus*）；还有一条是外部库仍用旧组合（*Ruptitermes franciscoi* 被 GBIF 归为 *Anoplotermes franciscoi* 的同物异名，但后者只是 2015 年新组合的基础异名，并非独立物种）。这 5 条经与原始描述逐条核对，本站名正确、**不改名**；核对结论写进 `_data/name_issue_reviews.json`（`verified` / `note`），`build_name_issues.py` 生成看板时套用（页面与 CSV 标「已人工核对」并给出依据），不改站内分类数据，也不写回外部库缓存。详见 `_tools/外部权威库与一致性核对.md` 第 4.3 节。
 - 交互：按类型与来源筛选、关键词检索（拉丁名 / 中文名 / 外部名 / 科名）、每页 50 条分页，状态写进 URL（`?group=&source=&q=&page=`）可分享；无 JS 时展示全部条目。
 - 产物：`_data/name_issues.json`（页面用；`synonym_pairs` = 逐对关系/方向/票数，`species_authority` = 物种页 incoming/outgoing 索引，`synonym_of_slug` = 已补录异名的反查）、`data/name-issues.json`（公开副本，程序化访问）、`downloads/isoptera-name-issues.csv`（17 列，含外部记录 URL 与人工核对状态）、`downloads/isoptera-synonym-pairs.csv`（15 列，一行一对）。
 - 生成：`python .github/workflows/build_name_issues.py [--write|--check]`，确定性输出，CI 在 Jekyll 构建前执行；脚本只整理缓存并**读取** `_species` 的 `authority_synonym_*` 判断哪些异名已补录，不改动任何站内分类数据（补录本身是直接编辑接受名的 front matter）。外链基址读 `_config.yml` 的 `external.*` 并去掉 YAML 行尾注释（否则「# + /<GBIF usageKey>」会被拼进 URL，页面上异名/接受名的链接会变成坏地址甚至破坏 HTML），`_tools/check_site.py` 也会校验产物里没有这类脏 URL。
