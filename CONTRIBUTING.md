@@ -26,6 +26,7 @@
 顺序以 `.github/workflows/pages.yml`（部署）与 `.github/workflows/validate.yml`（PR 闸门）为准：
 
 ```
+python _tools/build_taxonomy_data.py --write
 python .github/workflows/build_genus_index.py
 python .github/workflows/build_species_body.py --write
 python .github/workflows/build_sitemap_txt.py
@@ -35,6 +36,7 @@ python .github/workflows/build_name_issues.py --write
 python _tools/build_changelog.py --write
 ```
 
+- `_tools/build_taxonomy_data.py`：从 `list.md` + `_species/` 生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；改分类层级、学名或分布后必须重跑，`--check` 可校验。
 - `--no-enrich` 是仓库内的基础版检索索引；部署时 CI 会装 pypinyin / OpenCC 再生成增强版，两者互不冲突。
 - 改动 `_species` front matter 的 `authority_synonym_*`（「依外部权威库补录的异名」）后，必须按上面的顺序重跑 `build_species_body.py`、`build_search_index.py`、`build_name_issues.py`（看板的「已补录」标记与检索命中都依赖这三步），`check_site.py` 会校验三者一致。
 - 外部 API 缓存类脚本（`build_authority_links.py`、`build_bsf_links.py`、`build_species_photos.py`、`build_references.py`、`build_occurrence_geojson.py`）**只在需要刷新缓存时**手动运行，不要无意义重跑。

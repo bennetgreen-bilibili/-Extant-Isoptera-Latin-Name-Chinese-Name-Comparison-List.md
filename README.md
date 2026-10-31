@@ -32,6 +32,7 @@
 - 入口：`data/index.json`（分类树 + 全部文件清单）
 - `data/mastotermitidae.json`、`data/teletisoptera.json`、`data/kalotermitidae.json`、`data/neoisoptera-excl-termitidae.json`
 - `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）
+- `isoptera-data.json`（整棵分类树的单文件版，含模式种、分布、亚种）与 `stats.md` / `en/stats.md` / `es/stats.md`（三语统计页）：由 `_tools/build_taxonomy_data.py` 从 `list.md` + `_species/` 确定性生成，可 `--check` 校验；`data/index.json` 的计数与文件字节数也由同一脚本维护
 - `search-index.json`（检索索引，供名录页搜索框；由 `.github/workflows/build_search_index.py` 从 `list.md` + `_species/` 生成，见下文「站内检索与开源组件」）
 
 ## 归档数据集与 DOI（dataset/）
@@ -112,6 +113,7 @@
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 名录页科/属标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
+| 分类树结构化数据 + 三语统计页 | `_tools/build_taxonomy_data.py` | 无（直接读 `list.md` + `_species/` front matter） | `isoptera-data.json`、`data/index.json`、`data/*.json`、`stats.md` / `en/stats.md` / `es/stats.md` |
 | 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 逐对关系/方向/补录） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json`；人工核对备注 `_data/name_issue_reviews.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-pairs.csv`、物种页「其他数据库」区块（incoming / outgoing） |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |

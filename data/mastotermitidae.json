@@ -14,7 +14,6 @@
   }
  ],
  "counts": {
-  "families": 1,
   "genera": 1,
   "species": 1,
   "subspecies": 0,
@@ -37,7 +36,7 @@
        "latin": "Mastotermes darwiniensis",
        "zh": "达尔文澳白蚁",
        "type": true,
-       "distribution": "澳大利亚北部、热带北部地区、引入：巴布亚新几内亚）",
+       "distribution": "澳大利亚北部、热带北部地区、引入：巴布亚新几内亚",
        "subspecies": null
       }
      ]

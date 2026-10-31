@@ -37,6 +37,11 @@ jobs:
       - name: Convert _inbox to posts
         run: python .github/workflows/convert_inbox.py
 
+      # 分类树结构化数据（isoptera-data.json / data/）与三语统计页（stats.md）：
+      # 从 list.md + _species/ 确定性生成；必须在物种页正文与数据集之前跑
+      - name: Build taxonomy data and statistics pages
+        run: python _tools/build_taxonomy_data.py --write
+
       - name: Build genus index for species pages
         run: python .github/workflows/build_genus_index.py
 

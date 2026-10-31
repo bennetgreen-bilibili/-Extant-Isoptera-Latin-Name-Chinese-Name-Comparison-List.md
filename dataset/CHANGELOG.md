@@ -14,6 +14,10 @@
   - 计数：分类单元记录 3068 → 3089（种 3004 → 3021、亚种 64 → 68、属 323 → 326）；尖白蚁亚科 237 → 241 种 / 68 属，方白蚁亚科 142 → 149 种、亚种 6 → 10，瘤白蚁亚科 132 → 135 种，弓白蚁亚科 193 → 194 种，白蚁亚科 106 → 107 种，象白蚁亚科 607 → 606 种，木白蚁科 479 → 480 种，鼻白蚁科 61 → 62 种；
   - 三语名录、isoptera-data.json、data/ 结构化数据（含 data/index.json 计数与文件字节数）、检索索引、sitemap、统计页、dataset/ 归档包与外部库缓存（_data/authority_links.json、_data/bsf_links.json、_data/papers.json、_data/name_issues.json）均已按新名录重算；
   - 说明：新种模式产地以原文为准；*Spiralitermes jurupari*、*Chasitermes tupan*、*Scheffrahnitermes ubuntu* 的产地仅到区域级（原文摘要未给出具体地点），待补。
+  - 固化：新增 `_tools/build_taxonomy_data.py`（只用标准库、确定性输出、支持 `--check`），从 `list.md` + `_species/` 统一生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；已接入 `validate.yml` 与 `pages.yml` 的生成顺序，此后增删类群不再需要手工改这些派生产物；
+  - 修复：`data/*.json` 的 `distribution` 字段此前带一个多余的右括号（如「安哥拉）」，由历史生成逻辑残留），已统一去掉；`data/index.json` 中按支系合辑存放的科（远等翅类 4 科、新等翅类除白蚁科 6 科）的 `file` 链接改为指向实际合辑文件（此前指向不存在的单科文件）；
+  - 统计页：属级明细表改为固定排序（种数降序、同种数按拉丁名升序），英文版「Overview」与亚科表表头改用英文标签；三语统计页计数与名录同步；
+  - 名称微调：*Isognathotermes phalloides* 中文正名由「似阳茎等颚白蚁」定为「阳茎等颚白蚁」。
 
 - 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF、CoL、BSF 一致视为异名）

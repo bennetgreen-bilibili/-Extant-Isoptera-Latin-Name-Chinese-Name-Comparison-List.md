@@ -76,7 +76,7 @@
    "path": "data/isoptera-checklist.csv",
    "title": "逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名）",
    "format": "csv",
-   "bytes": 1763421,
+   "bytes": 1763418,
    "rows": 3089,
    "profile": "tabular-data-resource",
    "schema": {
@@ -209,7 +209,7 @@
    "path": "data/isoptera-taxonomy.json",
    "title": "完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接）",
    "format": "json",
-   "bytes": 1725009,
+   "bytes": 1725006,
    "rows": 3089,
    "profile": "data-resource"
   },

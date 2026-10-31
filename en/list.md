@@ -3908,7 +3908,7 @@ Economically, all members of this subfamily are soil-feeding groups, and where t
 
 [*Isognathotermes phallicaecalis* 阳茎盲囊等颚白蚁]({{ site.base_url }}/species/isognathotermes-phallicaecalis/)
 
-[*Isognathotermes phalloides* 似阳茎等颚白蚁]({{ site.base_url }}/species/isognathotermes-phalloides/)
+[*Isognathotermes phalloides* 阳茎等颚白蚁]({{ site.base_url }}/species/isognathotermes-phalloides/)
 
 [*Isognathotermes planifrons* 平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-planifrons/)
 

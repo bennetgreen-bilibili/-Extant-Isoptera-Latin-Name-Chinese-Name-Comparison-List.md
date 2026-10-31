@@ -35,42 +35,42 @@
       "latin": "Foraminitermes coatoni",
       "zh": "科顿孔白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国）",
+      "distribution": "安哥拉、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Foraminitermes corniferus",
       "zh": "具角孔白蚁",
       "type": false,
-      "distribution": "西非、多哥、刚果民主共和国）",
+      "distribution": "西非、多哥、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Foraminitermes harrisi",
       "zh": "哈里斯孔白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Foraminitermes rhinoceros",
       "zh": "犀牛孔白蚁",
       "type": false,
-      "distribution": "中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达）",
+      "distribution": "中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Foraminitermes tubifrons",
       "zh": "瘤额孔白蚁",
       "type": true,
-      "distribution": "喀麦隆、几内亚、科特迪瓦、尼日利亚）",
+      "distribution": "喀麦隆、几内亚、科特迪瓦、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Foraminitermes valens",
       "zh": "强健孔白蚁",
       "type": false,
-      "distribution": "中非、喀麦隆、几内亚、科特迪瓦、尼日利亚、坦桑尼亚）",
+      "distribution": "中非、喀麦隆、几内亚、科特迪瓦、尼日利亚、坦桑尼亚",
       "subspecies": null
      }
     ]
@@ -86,21 +86,21 @@
       "latin": "Labritermes buttelreepeni",
       "zh": "巴特里彭唇白蚁",
       "type": true,
-      "distribution": "印度尼西亚、马来西亚）",
+      "distribution": "印度尼西亚、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Labritermes emersoni",
       "zh": "埃默森唇白蚁",
       "type": false,
-      "distribution": "马来西亚、印度尼西亚、新加坡）",
+      "distribution": "马来西亚、印度尼西亚、新加坡",
       "subspecies": null
      },
      {
       "latin": "Labritermes kistneri",
       "zh": "基斯特纳唇白蚁",
       "type": false,
-      "distribution": "马来西亚、印度尼西亚）",
+      "distribution": "马来西亚、印度尼西亚",
       "subspecies": null
      }
     ]
@@ -116,7 +116,7 @@
       "latin": "Pseudomicrotermes alboniger",
       "zh": "白黑伪小白蚁",
       "type": true,
-      "distribution": "喀麦隆、刚果（金）、尼日利亚、津巴布韦、刚果民主共和国）",
+      "distribution": "喀麦隆、刚果（金）、尼日利亚、津巴布韦、刚果民主共和国",
       "subspecies": null
      }
     ]

@@ -2,7 +2,7 @@
   "meta": {
     "aborted": null,
     "api": "https://sfg.taxonworks.org/api/v1",
-    "api_calls": 22,
+    "api_calls": 0,
     "citation": "Blattodea Working Group. Blattodea Species File Online. https://cockroach.speciesfile.org",
     "counts": {
       "ambiguous": 61,
@@ -13,7 +13,7 @@
       "valid": 2981
     },
     "fetched": 3089,
-    "generated": "2026-10-31T10:45:01Z",
+    "generated": "2026-10-31T10:59:14Z",
     "generated_by": ".github/workflows/build_bsf_links.py",
     "pending": 0,
     "rate_limit": "global <=2 req/s (max 4 in flight), exponential backoff on 429/5xx, resumable cache",

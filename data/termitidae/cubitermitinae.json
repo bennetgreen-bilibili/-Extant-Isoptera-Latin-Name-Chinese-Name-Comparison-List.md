@@ -35,7 +35,7 @@
       "latin": "Apilitermes longiceps",
       "zh": "长头无毛白蚁",
       "type": true,
-      "distribution": "旧热带界、刚果、尼日利亚）",
+      "distribution": "旧热带界、刚果、尼日利亚",
       "subspecies": null
      }
     ]
@@ -51,35 +51,35 @@
       "latin": "Basidentitermes amicus",
       "zh": "友善基齿白蚁",
       "type": false,
-      "distribution": "旧热带界、坦桑尼亚）",
+      "distribution": "旧热带界、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Basidentitermes aurivillii",
       "zh": "奥里维尔基齿白蚁",
       "type": true,
-      "distribution": "西非、多哥、尼日利亚、加纳、喀麦隆、刚果共和国、刚果民主共和国、苏丹、乌干达）",
+      "distribution": "西非、多哥、尼日利亚、加纳、喀麦隆、刚果共和国、刚果民主共和国、苏丹、乌干达",
       "subspecies": null
      },
      {
       "latin": "Basidentitermes demoulini",
       "zh": "德穆兰基齿白蚁",
       "type": false,
-      "distribution": "旧热带界、喀麦隆、刚果民主共和国、坦桑尼亚）",
+      "distribution": "旧热带界、喀麦隆、刚果民主共和国、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Basidentitermes diversifrons",
       "zh": "裂额基齿白蚁",
       "type": false,
-      "distribution": "旧热带界、喀麦隆、刚果共和国）",
+      "distribution": "旧热带界、喀麦隆、刚果共和国",
       "subspecies": null
      },
      {
       "latin": "Basidentitermes mactus",
       "zh": "荣耀基齿白蚁",
       "type": false,
-      "distribution": "西非、几内亚、利比里亚、加纳、科特迪瓦、尼日利亚、喀麦隆、坦桑尼亚）",
+      "distribution": "西非、几内亚、利比里亚、加纳、科特迪瓦、尼日利亚、喀麦隆、坦桑尼亚",
       "subspecies": [
        {
         "epithet": "mactus",
@@ -95,21 +95,21 @@
       "latin": "Basidentitermes malelaensis",
       "zh": "马雷拉基齿白蚁",
       "type": false,
-      "distribution": "非洲、刚果、喀麦隆、刚果民主共和国、加蓬、加纳）",
+      "distribution": "非洲、刚果、喀麦隆、刚果民主共和国、加蓬、加纳",
       "subspecies": null
      },
      {
       "latin": "Basidentitermes potens",
       "zh": "强壮基齿白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、冈比亚、多哥、尼日利亚、塞内加尔、喀麦隆、坦桑尼亚）",
+      "distribution": "西非、科特迪瓦、冈比亚、多哥、尼日利亚、塞内加尔、喀麦隆、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Basidentitermes trilobatus",
       "zh": "三裂基齿白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      }
     ]
@@ -125,14 +125,14 @@
       "latin": "Batillitermes clypeatus",
       "zh": "大唇铲白蚁",
       "type": false,
-      "distribution": "非洲南部、南非、尼日利亚）",
+      "distribution": "非洲南部、南非、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Batillitermes monachus",
       "zh": "僧侣铲白蚁",
       "type": true,
-      "distribution": "非洲南部、南非、津巴布韦）",
+      "distribution": "非洲南部、南非、津巴布韦",
       "subspecies": null
      }
     ]
@@ -148,35 +148,35 @@
       "latin": "Crenetermes albotarsalis",
       "zh": "白跗刻痕白蚁",
       "type": true,
-      "distribution": "中非、喀麦隆、刚果、刚果民主共和国、加蓬、尼日利亚、卢旺达、坦桑尼亚、赞比亚）",
+      "distribution": "中非、喀麦隆、刚果、刚果民主共和国、加蓬、尼日利亚、卢旺达、坦桑尼亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Crenetermes elongatus",
       "zh": "细长刻痕白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Crenetermes fruitus",
       "zh": "可爱刻痕白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Crenetermes mandibulatus",
       "zh": "大颚刻痕白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Crenetermes mixtus",
       "zh": "混杂刻痕白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      }
     ]
@@ -192,42 +192,42 @@
       "latin": "Cubitermes atrox",
       "zh": "凶猛方白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Cubitermes bilobatus",
       "zh": "双裂方白蚁",
       "type": true,
-      "distribution": "非洲南部、南非、刚果民主共和国、尼日利亚、苏丹、坦桑尼亚）",
+      "distribution": "非洲南部、南非、刚果民主共和国、尼日利亚、苏丹、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Cubitermes caesareus",
       "zh": "凯撒方白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Cubitermes conjenii",
       "zh": "康杰尼方白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Cubitermes exiguus",
       "zh": "短小方白蚁",
       "type": false,
-      "distribution": "非洲、刚果民主共和国）",
+      "distribution": "非洲、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Cubitermes pretorianus",
       "zh": "比勒陀利亚方白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": [
        {
         "epithet": "heidelbergi",
@@ -243,35 +243,35 @@
       "latin": "Cubitermes sanctaeluciae",
       "zh": "圣卢西亚方白蚁",
       "type": false,
-      "distribution": "非洲南部、南非、赞比亚）",
+      "distribution": "非洲南部、南非、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Cubitermes tenuiceps",
       "zh": "细头方白蚁",
       "type": false,
-      "distribution": "非洲、刚果民主共和国）",
+      "distribution": "非洲、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Cubitermes transvaalensis",
       "zh": "德兰士瓦方白蚁",
       "type": false,
-      "distribution": "非洲南部、南非德兰士瓦、赞比亚）",
+      "distribution": "非洲南部、南非德兰士瓦、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Cubitermes zulucola",
       "zh": "祖鲁兰方白蚁",
       "type": false,
-      "distribution": "非洲南部、南非祖鲁兰）",
+      "distribution": "非洲南部、南非祖鲁兰",
       "subspecies": null
      },
      {
       "latin": "Cubitermes zuluensis",
       "zh": "祖鲁方白蚁",
       "type": false,
-      "distribution": "非洲南部、南非祖鲁兰）",
+      "distribution": "非洲南部、南非祖鲁兰",
       "subspecies": null
      }
     ]
@@ -287,21 +287,21 @@
       "latin": "Euchilotermes acutidens",
       "zh": "尖齿真唇白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Euchilotermes quadriceps",
       "zh": "方头真唇白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Euchilotermes tensus",
       "zh": "拉长真唇白蚁",
       "type": true,
-      "distribution": "西非、冈比亚、几内亚、塞拉利昂、加纳、科特迪瓦、尼日利亚、喀麦隆）",
+      "distribution": "西非、冈比亚、几内亚、塞拉利昂、加纳、科特迪瓦、尼日利亚、喀麦隆",
       "subspecies": [
        {
         "epithet": "arcuata",
@@ -317,7 +317,7 @@
       "latin": "Euchilotermes umbraticola",
       "zh": "隐蔽真唇白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      }
     ]
@@ -333,7 +333,7 @@
       "latin": "Fastigitermes jucundus",
       "zh": "可爱峰白蚁",
       "type": true,
-      "distribution": "非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚）",
+      "distribution": "非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚",
       "subspecies": null
      }
     ]
@@ -349,56 +349,56 @@
       "latin": "Furculitermes brevilabius",
       "zh": "短唇叉白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Furculitermes brevimalatus",
       "zh": "短颚叉白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Furculitermes cubitalis",
       "zh": "急弯叉白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Furculitermes hendrickxi",
       "zh": "亨德里克斯叉白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Furculitermes longilabius",
       "zh": "长唇叉白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Furculitermes parviceps",
       "zh": "小头叉白蚁",
       "type": false,
-      "distribution": "中非、喀麦隆）",
+      "distribution": "中非、喀麦隆",
       "subspecies": null
      },
      {
       "latin": "Furculitermes soyeri",
       "zh": "索耶叉白蚁",
       "type": false,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      },
      {
       "latin": "Furculitermes winifredae",
       "zh": "威尼弗雷德叉白蚁",
       "type": true,
-      "distribution": "旧热带界）",
+      "distribution": "旧热带界",
       "subspecies": null
      }
     ]
@@ -414,105 +414,105 @@
       "latin": "Isognathotermes acristatus",
       "zh": "无冠等颚白蚁",
       "type": false,
-      "distribution": "安哥拉）",
+      "distribution": "安哥拉",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes bulbifrons",
       "zh": "球额等颚白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes congoensis",
       "zh": "刚果等颚白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes finitimus",
       "zh": "近邻等颚白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes fungifaber",
       "zh": "菌匠等颚白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes magniplanifrons",
       "zh": "大平额等颚白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes minitabundus",
       "zh": "威吓等颚白蚁",
       "type": true,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes modicus",
       "zh": "中等等颚白蚁",
       "type": false,
-      "distribution": "加蓬）",
+      "distribution": "加蓬",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes phallicaecalis",
       "zh": "阳茎盲囊等颚白蚁",
       "type": false,
-      "distribution": "刚果共和国、喀麦隆）",
+      "distribution": "刚果共和国、喀麦隆",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes phalloides",
-      "zh": "似阳茎等颚白蚁",
+      "zh": "阳茎等颚白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes planifrons",
       "zh": "平额等颚白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes rectimalatus",
       "zh": "直颚等颚白蚁",
       "type": false,
-      "distribution": "安哥拉）",
+      "distribution": "安哥拉",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes severus",
       "zh": "严肃等颚白蚁",
       "type": false,
-      "distribution": "西非科特迪瓦、喀麦隆、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹、坦桑尼亚）",
+      "distribution": "西非科特迪瓦、喀麦隆、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes similifinitimus",
       "zh": "似近邻等颚白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Isognathotermes ugandensis",
       "zh": "乌干达等颚白蚁",
       "type": false,
-      "distribution": "乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚）",
+      "distribution": "乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚",
       "subspecies": [
        {
         "epithet": "burundii",
@@ -536,7 +536,7 @@
       "latin": "Isognathotermes zenkeri",
       "zh": "岑克等颚白蚁",
       "type": false,
-      "distribution": "喀麦隆、刚果民主共和国）",
+      "distribution": "喀麦隆、刚果民主共和国",
       "subspecies": null
      }
     ]
@@ -552,63 +552,63 @@
       "latin": "Lepidotermes amydrus",
       "zh": "幽暗鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes goliathi",
       "zh": "戈利亚特鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes lounsburyi",
       "zh": "劳恩斯伯里鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes mtwalumi",
       "zh": "姆图瓦卢米鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes planifacies",
       "zh": "扁形鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes pretoriensis",
       "zh": "比勒陀利亚鳞白蚁",
       "type": true,
-      "distribution": "非洲南部、南非比勒陀利亚）",
+      "distribution": "非洲南部、南非比勒陀利亚",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes scalenus",
       "zh": "斜角肌鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes simplex",
       "zh": "简单鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Lepidotermes vastus",
       "zh": "空闲鳞白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      }
     ]
@@ -624,7 +624,7 @@
       "latin": "Megagnathotermes notandus",
       "zh": "标记大颚白蚁",
       "type": true,
-      "distribution": "西非、科特迪瓦、刚果民主共和国、冈比亚、几内亚、尼日利亚、塞拉利昂）",
+      "distribution": "西非、科特迪瓦、刚果民主共和国、冈比亚、几内亚、尼日利亚、塞拉利昂",
       "subspecies": null
      }
     ]
@@ -640,14 +640,14 @@
       "latin": "Mucrotermes heterochilus",
       "zh": "异唇锐尖白蚁",
       "type": false,
-      "distribution": "旧热带界、贝宁、喀麦隆、刚果民主共和国、加纳、几内亚、尼日利亚）",
+      "distribution": "旧热带界、贝宁、喀麦隆、刚果民主共和国、加纳、几内亚、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Mucrotermes osborni",
       "zh": "奥斯本锐尖白蚁",
       "type": true,
-      "distribution": "旧热带界、刚果民主共和国）",
+      "distribution": "旧热带界、刚果民主共和国",
       "subspecies": null
      }
     ]
@@ -663,105 +663,105 @@
       "latin": "Nitiditermes aemulus",
       "zh": "竞争净白蚁",
       "type": false,
-      "distribution": "几内亚）",
+      "distribution": "几内亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes anatruncatus",
       "zh": "反截净白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes berghei",
       "zh": "伯格净白蚁",
       "type": true,
-      "distribution": "刚果民主共和国、赞比亚）",
+      "distribution": "刚果民主共和国、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes curtatus",
       "zh": "短缩净白蚁",
       "type": false,
-      "distribution": "加纳、几内亚、塞内加尔）",
+      "distribution": "加纳、几内亚、塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes fulvus",
       "zh": "栗色净白蚁",
       "type": false,
-      "distribution": "坦桑尼亚）",
+      "distribution": "坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes niokoloensis",
       "zh": "尼奥科洛净白蚁",
       "type": false,
-      "distribution": "塞内加尔）",
+      "distribution": "塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes oculatus",
       "zh": "眼显净白蚁",
       "type": false,
-      "distribution": "加纳、几内亚、尼日利亚、塞内加尔、苏丹、坦桑尼亚）",
+      "distribution": "加纳、几内亚、尼日利亚、塞内加尔、苏丹、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes orthognathus",
       "zh": "直颚净白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、乌干达、赞比亚）",
+      "distribution": "刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、乌干达、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes proximatus",
       "zh": "近净白蚁",
       "type": false,
-      "distribution": "西非、塞内加尔、科特迪瓦、布基纳法索、肯尼亚、坦桑尼亚）",
+      "distribution": "西非、塞内加尔、科特迪瓦、布基纳法索、肯尼亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes sankurensis",
       "zh": "桑库鲁净白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦）",
+      "distribution": "安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes schereri",
       "zh": "谢勒净白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、几内亚、科特迪瓦、利比里亚、塞拉利昂、坦桑尼亚）",
+      "distribution": "刚果民主共和国、几内亚、科特迪瓦、利比里亚、塞拉利昂、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes sierraleonicus",
       "zh": "塞拉利昂净白蚁",
       "type": false,
-      "distribution": "塞拉利昂）",
+      "distribution": "塞拉利昂",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes testaceus",
       "zh": "厚壳净白蚁",
       "type": false,
-      "distribution": "肯尼亚、卢旺达、南非、乌干达）",
+      "distribution": "肯尼亚、卢旺达、南非、乌干达",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes truncatoides",
       "zh": "拟伤残净白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Nitiditermes truncatus",
       "zh": "伤残净白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      }
     ]
@@ -777,49 +777,49 @@
       "latin": "Noditermes angolensis",
       "zh": "安哥拉节白蚁",
       "type": false,
-      "distribution": "安哥拉）",
+      "distribution": "安哥拉",
       "subspecies": null
      },
      {
       "latin": "Noditermes cristifrons",
       "zh": "毛额节白蚁",
       "type": false,
-      "distribution": "西非、冈比亚、塞内加尔、多哥、布基纳法索、安哥拉、喀麦隆、刚果民主共和国、坦桑尼亚）",
+      "distribution": "西非、冈比亚、塞内加尔、多哥、布基纳法索、安哥拉、喀麦隆、刚果民主共和国、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Noditermes festivus",
       "zh": "欢乐节白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Noditermes indoensis",
       "zh": "因多节白蚁",
       "type": false,
-      "distribution": "中非、加蓬、刚果盆地、喀麦隆、刚果（布）、刚果民主共和国、坦桑尼亚）",
+      "distribution": "中非、加蓬、刚果盆地、喀麦隆、刚果（布）、刚果民主共和国、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Noditermes lamanianus",
       "zh": "拉曼节白蚁",
       "type": true,
-      "distribution": "中非、刚果共和国、安哥拉、喀麦隆、刚果民主共和国）",
+      "distribution": "中非、刚果共和国、安哥拉、喀麦隆、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Noditermes profestus",
       "zh": "工作日节白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Noditermes wasambaricus",
       "zh": "瓦森巴拉节白蚁",
       "type": false,
-      "distribution": "肯尼亚、坦桑尼亚）",
+      "distribution": "肯尼亚、坦桑尼亚",
       "subspecies": null
      }
     ]
@@ -835,14 +835,14 @@
       "latin": "Okavangotermes giessi",
       "zh": "吉斯奥卡万戈白蚁",
       "type": true,
-      "distribution": "安哥拉、纳米比亚）",
+      "distribution": "安哥拉、纳米比亚",
       "subspecies": null
      },
      {
       "latin": "Okavangotermes guineensis",
       "zh": "几内亚奥卡万戈白蚁",
       "type": false,
-      "distribution": "加纳）",
+      "distribution": "加纳",
       "subspecies": null
      }
     ]
@@ -858,49 +858,49 @@
       "latin": "Ophiotermes gracilis",
       "zh": "细瘦蛇白蚁",
       "type": false,
-      "distribution": "安哥拉）",
+      "distribution": "安哥拉",
       "subspecies": null
      },
      {
       "latin": "Ophiotermes grandilabius",
       "zh": "大唇蛇白蚁",
       "type": false,
-      "distribution": "喀麦隆、刚果民主共和国、加蓬、加纳、科特迪瓦、尼日利亚、坦桑尼亚）",
+      "distribution": "喀麦隆、刚果民主共和国、加蓬、加纳、科特迪瓦、尼日利亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Ophiotermes mandibularis",
       "zh": "显颚蛇白蚁",
       "type": true,
-      "distribution": "中非、中非共和国、喀麦隆、刚果（布）、刚果民主共和国、加蓬）",
+      "distribution": "中非、中非共和国、喀麦隆、刚果（布）、刚果民主共和国、加蓬",
       "subspecies": null
      },
      {
       "latin": "Ophiotermes mirandus",
       "zh": "惊奇蛇白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、几内亚）",
+      "distribution": "安哥拉、刚果民主共和国、几内亚",
       "subspecies": null
      },
      {
       "latin": "Ophiotermes receptus",
       "zh": "接受蛇白蚁",
       "type": false,
-      "distribution": "中非、刚果民主共和国）",
+      "distribution": "中非、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Ophiotermes shabaensis",
       "zh": "沙巴蛇白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Ophiotermes ugandaensis",
       "zh": "乌干达蛇白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、卢旺达、坦桑尼亚、乌干达）",
+      "distribution": "安哥拉、刚果民主共和国、卢旺达、坦桑尼亚、乌干达",
       "subspecies": null
      }
     ]
@@ -916,14 +916,14 @@
       "latin": "Orthotermes depressifrons",
       "zh": "陷额直白蚁",
       "type": true,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Orthotermes mansuetus",
       "zh": "顺从直白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、安哥拉、喀麦隆、加蓬）",
+      "distribution": "刚果民主共和国、安哥拉、喀麦隆、加蓬",
       "subspecies": null
      }
     ]
@@ -939,7 +939,7 @@
       "latin": "Ovambotermes sylvaticus",
       "zh": "林地奥万博兰白蚁",
       "type": true,
-      "distribution": "纳米比亚、赞比亚）",
+      "distribution": "纳米比亚、赞比亚",
       "subspecies": null
      }
     ]
@@ -955,7 +955,7 @@
       "latin": "Pilotermes langi",
       "zh": "兰棘白蚁",
       "type": true,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      }
     ]
@@ -971,56 +971,56 @@
       "latin": "Polyspathotermes bugeserae",
       "zh": "布盖塞拉多铲白蚁",
       "type": false,
-      "distribution": "卢旺达）",
+      "distribution": "卢旺达",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes inclitus",
       "zh": "显赫多铲白蚁",
       "type": false,
-      "distribution": "刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚）",
+      "distribution": "刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes intercalatus",
       "zh": "居间多铲白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果、刚果民主共和国）",
+      "distribution": "安哥拉、刚果、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes katangensis",
       "zh": "加丹加多铲白蚁",
       "type": false,
-      "distribution": "非洲、刚果民主共和国加丹加、赞比亚）",
+      "distribution": "非洲、刚果民主共和国加丹加、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes montanus",
       "zh": "高山多铲白蚁",
       "type": false,
-      "distribution": "马拉维、坦桑尼亚、赞比亚）",
+      "distribution": "马拉维、坦桑尼亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes oblectatus",
       "zh": "愉悦多铲白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、马拉维、坦桑尼亚、赞比亚）",
+      "distribution": "刚果民主共和国、马拉维、坦桑尼亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes sulcifrons",
       "zh": "沟额多铲白蚁",
       "type": true,
-      "distribution": "喀麦隆、刚果民主共和国、尼日利亚、坦桑尼亚）",
+      "distribution": "喀麦隆、刚果民主共和国、尼日利亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Polyspathotermes umbratus",
       "zh": "荫生多铲白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、几内亚、肯尼亚、马拉维、坦桑尼亚）",
+      "distribution": "刚果民主共和国、几内亚、肯尼亚、马拉维、坦桑尼亚",
       "subspecies": null
      }
     ]
@@ -1036,14 +1036,14 @@
       "latin": "Proboscitermes mcgrewi",
       "zh": "麦克格鲁象鼻白蚁",
       "type": false,
-      "distribution": "坦桑尼亚）",
+      "distribution": "坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Proboscitermes tubuliferus",
       "zh": "具管象鼻白蚁",
       "type": true,
-      "distribution": "喀麦隆、刚果民主共和国、加蓬、尼日利亚）",
+      "distribution": "喀麦隆、刚果民主共和国、加蓬、尼日利亚",
       "subspecies": null
      }
     ]
@@ -1059,63 +1059,63 @@
       "latin": "Procubitermes aburiensis",
       "zh": "阿布里原方白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、几内亚、多哥、加纳、尼日利亚）",
+      "distribution": "西非、科特迪瓦、几内亚、多哥、加纳、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Procubitermes arboricola",
       "zh": "树栖原方白蚁",
       "type": true,
-      "distribution": "中非、喀麦隆、刚果、刚果民主共和国、尼日利亚）",
+      "distribution": "中非、喀麦隆、刚果、刚果民主共和国、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Procubitermes curvatus",
       "zh": "弯曲原方白蚁",
       "type": false,
-      "distribution": "加纳、几内亚、科特迪瓦、利比里亚）",
+      "distribution": "加纳、几内亚、科特迪瓦、利比里亚",
       "subspecies": null
      },
      {
       "latin": "Procubitermes niapuensis",
       "zh": "尼亚普原方白蚁",
       "type": false,
-      "distribution": "喀麦隆、刚果、刚果民主共和国）",
+      "distribution": "喀麦隆、刚果、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Procubitermes sinuosus",
       "zh": "扭曲原方白蚁",
       "type": false,
-      "distribution": "西非、尼日利亚、几内亚）",
+      "distribution": "西非、尼日利亚、几内亚",
       "subspecies": null
      },
      {
       "latin": "Procubitermes sjostedti",
       "zh": "舍斯泰特原方白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、塞内加尔、尼日利亚、冈比亚、几内亚、利比里亚）",
+      "distribution": "西非、科特迪瓦、塞内加尔、尼日利亚、冈比亚、几内亚、利比里亚",
       "subspecies": null
      },
      {
       "latin": "Procubitermes ueleensis",
       "zh": "韦莱原方白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、韦莱地区、加蓬、乌干达）",
+      "distribution": "刚果民主共和国、韦莱地区、加蓬、乌干达",
       "subspecies": null
      },
      {
       "latin": "Procubitermes undulans",
       "zh": "波纹原方白蚁",
       "type": false,
-      "distribution": "东非、乌干达、刚果民主共和国）",
+      "distribution": "东非、乌干达、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Procubitermes wasmanni",
       "zh": "沃斯曼原方白蚁",
       "type": false,
-      "distribution": "喀麦隆）",
+      "distribution": "喀麦隆",
       "subspecies": null
      }
     ]
@@ -1131,7 +1131,7 @@
       "latin": "Profastigitermes putnami",
       "zh": "帕特南前峰白蚁",
       "type": true,
-      "distribution": "喀麦隆、刚果民主共和国）",
+      "distribution": "喀麦隆、刚果民主共和国",
       "subspecies": null
      }
     ]
@@ -1147,91 +1147,91 @@
       "latin": "Ternicubitermes bilobatodes",
       "zh": "双叶三方白蚁",
       "type": true,
-      "distribution": "冈比亚、几内亚比绍、塞内加尔）",
+      "distribution": "冈比亚、几内亚比绍、塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes breviceps",
       "zh": "短头三方白蚁",
       "type": false,
-      "distribution": "津巴布韦）",
+      "distribution": "津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes duplex",
       "zh": "含糊三方白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes falcifer",
       "zh": "具镰三方白蚁",
       "type": false,
-      "distribution": "坦桑尼亚）",
+      "distribution": "坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes glebae",
       "zh": "土块三方白蚁",
       "type": false,
-      "distribution": "肯尼亚、坦桑尼亚、乌干达）",
+      "distribution": "肯尼亚、坦桑尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes latens",
       "zh": "隐藏三方白蚁",
       "type": false,
-      "distribution": "坦桑尼亚）",
+      "distribution": "坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes microduplex",
       "zh": "小双三方白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes muneris",
       "zh": "职司三方白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、赞比亚）",
+      "distribution": "刚果民主共和国、肯尼亚、马拉维、坦桑尼亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes pallidiceps",
       "zh": "灰头三方白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、马拉维、坦桑尼亚、赞比亚、津巴布韦）",
+      "distribution": "刚果民主共和国、马拉维、坦桑尼亚、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes subcrenulatus",
       "zh": "微齿三方白蚁",
       "type": false,
-      "distribution": "加纳、几内亚、科特迪瓦、尼日利亚）",
+      "distribution": "加纳、几内亚、科特迪瓦、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes undulatus",
       "zh": "波颚三方白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes weissi",
       "zh": "魏斯三方白蚁",
       "type": false,
-      "distribution": "刚果（布）、利比里亚）",
+      "distribution": "刚果（布）、利比里亚",
       "subspecies": null
      },
      {
       "latin": "Ternicubitermes zavattarii",
       "zh": "扎瓦塔里三方白蚁",
       "type": false,
-      "distribution": "埃塞俄比亚、肯尼亚、坦桑尼亚）",
+      "distribution": "埃塞俄比亚、肯尼亚、坦桑尼亚",
       "subspecies": null
      }
     ]
@@ -1247,28 +1247,28 @@
       "latin": "Thoracotermes brevinotus",
       "zh": "短背胸白蚁",
       "type": false,
-      "distribution": "西非、几内亚、科特迪瓦）",
+      "distribution": "西非、几内亚、科特迪瓦",
       "subspecies": null
      },
      {
       "latin": "Thoracotermes grevillensis",
       "zh": "格瑞维勒胸白蚁",
       "type": false,
-      "distribution": "安哥拉）",
+      "distribution": "安哥拉",
       "subspecies": null
      },
      {
       "latin": "Thoracotermes lusingensis",
       "zh": "卢森加胸白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、尼日利亚、赞比亚）",
+      "distribution": "安哥拉、刚果民主共和国、尼日利亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Thoracotermes macrothorax",
       "zh": "大胸胸白蚁",
       "type": true,
-      "distribution": "旧热带界、西非、中非、安哥拉、喀麦隆、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、利比里亚、尼日利亚、塞拉利昂）",
+      "distribution": "旧热带界、西非、中非、安哥拉、喀麦隆、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、利比里亚、尼日利亚、塞拉利昂",
       "subspecies": null
      }
     ]
@@ -1284,7 +1284,7 @@
       "latin": "Trapellitermes loxomastax",
       "zh": "弯颚菱角白蚁",
       "type": true,
-      "distribution": "西非、科特迪瓦）",
+      "distribution": "西非、科特迪瓦",
       "subspecies": null
      }
     ]
@@ -1300,49 +1300,49 @@
       "latin": "Unguitermes acutifrons",
       "zh": "尖额爪白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Unguitermes bidentatus",
       "zh": "双齿爪白蚁",
       "type": true,
-      "distribution": "喀麦隆、刚果民主共和国、尼日利亚）",
+      "distribution": "喀麦隆、刚果民主共和国、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Unguitermes bouilloni",
       "zh": "布永爪白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Unguitermes magnus",
       "zh": "大爪白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Unguitermes proclivifrons",
       "zh": "前斜额爪白蚁",
       "type": false,
-      "distribution": "赞比亚）",
+      "distribution": "赞比亚",
       "subspecies": null
      },
      {
       "latin": "Unguitermes trispinosus",
       "zh": "三针爪白蚁",
       "type": false,
-      "distribution": "非洲热带）",
+      "distribution": "非洲热带",
       "subspecies": null
      },
      {
       "latin": "Unguitermes unidentatus",
       "zh": "单齿爪白蚁",
       "type": false,
-      "distribution": "纳米比亚）",
+      "distribution": "纳米比亚",
       "subspecies": null
      }
     ]
@@ -1358,7 +1358,7 @@
       "latin": "Unicornitermes gaerdesi",
       "zh": "盖尔德独角白蚁",
       "type": true,
-      "distribution": "纳米比亚、南非）",
+      "distribution": "纳米比亚、南非",
       "subspecies": null
      }
     ]

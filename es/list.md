@@ -3908,7 +3908,7 @@ Desde el punto de vista económico, todos los miembros de esta subfamilia son gr
 
 [*Isognathotermes phallicaecalis* 阳茎盲囊等颚白蚁]({{ site.base_url }}/species/isognathotermes-phallicaecalis/)
 
-[*Isognathotermes phalloides* 似阳茎等颚白蚁]({{ site.base_url }}/species/isognathotermes-phalloides/)
+[*Isognathotermes phalloides* 阳茎等颚白蚁]({{ site.base_url }}/species/isognathotermes-phalloides/)
 
 [*Isognathotermes planifrons* 平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-planifrons/)
 

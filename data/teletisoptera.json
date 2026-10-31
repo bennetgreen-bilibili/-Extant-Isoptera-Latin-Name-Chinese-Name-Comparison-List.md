@@ -49,14 +49,14 @@
        "latin": "Archotermopsis kuznetsovi",
        "zh": "库兹涅佐夫古白蚁",
        "type": false,
-       "distribution": "中国、越南）",
+       "distribution": "中国、越南",
        "subspecies": null
       },
       {
        "latin": "Archotermopsis wroughtoni",
        "zh": "罗夫顿古白蚁",
        "type": true,
-       "distribution": "南亚、中国）",
+       "distribution": "南亚、中国",
        "subspecies": null
       }
      ]
@@ -72,21 +72,21 @@
        "latin": "Zootermopsis angusticollis",
        "zh": "狭颈动白蚁",
        "type": true,
-       "distribution": "北美西海岸、美国、加拿大不列颠哥伦比亚、墨西哥；引入：夏威夷（美国））",
+       "distribution": "北美西海岸、美国、加拿大不列颠哥伦比亚、墨西哥；引入：夏威夷（美国）",
        "subspecies": null
       },
       {
        "latin": "Zootermopsis laticeps",
        "zh": "宽头动白蚁",
        "type": false,
-       "distribution": "北美西南部、美国、墨西哥）",
+       "distribution": "北美西南部、美国、墨西哥",
        "subspecies": null
       },
       {
        "latin": "Zootermopsis nevadensis",
        "zh": "内华达动白蚁",
        "type": false,
-       "distribution": "北美西部、美国西部、加拿大西部、墨西哥、引入：日本）",
+       "distribution": "北美西部、美国西部、加拿大西部、墨西哥、引入：日本",
        "subspecies": [
         {
          "epithet": "nevadensis",
@@ -118,112 +118,112 @@
        "latin": "Anacanthotermes ahngerianus",
        "zh": "安格无刺白蚁",
        "type": false,
-       "distribution": "中东、哈萨克斯坦、乌兹别克斯坦、伊朗、土库曼斯坦）",
+       "distribution": "中东、哈萨克斯坦、乌兹别克斯坦、伊朗、土库曼斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes baeckmannianus",
        "zh": "贝克曼无刺白蚁",
        "type": false,
-       "distribution": "哈萨克斯坦）",
+       "distribution": "哈萨克斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes baluchistanicus",
        "zh": "俾路支无刺白蚁",
        "type": false,
-       "distribution": "巴基斯坦）",
+       "distribution": "巴基斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes esmailii",
        "zh": "艾斯梅尔无刺白蚁",
        "type": false,
-       "distribution": "伊朗）",
+       "distribution": "伊朗",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes gurganiensis",
        "zh": "戈尔甘无刺白蚁",
        "type": false,
-       "distribution": "伊朗）",
+       "distribution": "伊朗",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes iranicus",
        "zh": "伊朗无刺白蚁",
        "type": false,
-       "distribution": "伊朗）",
+       "distribution": "伊朗",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes macrocephalus",
        "zh": "大头无刺白蚁",
        "type": false,
-       "distribution": "印度、阿富汗、伊朗、巴基斯坦）",
+       "distribution": "印度、阿富汗、伊朗、巴基斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes murgabicus",
        "zh": "穆尔加布无刺白蚁",
        "type": false,
-       "distribution": "土库曼斯坦）",
+       "distribution": "土库曼斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes ochraceus",
        "zh": "黄赭无刺白蚁",
        "type": true,
-       "distribution": "北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门）",
+       "distribution": "北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes saudiensis",
        "zh": "沙特无刺白蚁",
        "type": false,
-       "distribution": "沙特阿拉伯）",
+       "distribution": "沙特阿拉伯",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes sawensis",
        "zh": "塞瓦无刺白蚁",
        "type": false,
-       "distribution": "伊拉克）",
+       "distribution": "伊拉克",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes septentrionalis",
        "zh": "北方无刺白蚁",
        "type": false,
-       "distribution": "中东、伊朗、阿富汗、土库曼斯坦）",
+       "distribution": "中东、伊朗、阿富汗、土库曼斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes turkestanicus",
        "zh": "土耳其斯坦无刺白蚁",
        "type": false,
-       "distribution": "中东、乌兹别克斯坦、哈萨克斯坦、伊朗、塔吉克斯坦、土库曼斯坦）",
+       "distribution": "中东、乌兹别克斯坦、哈萨克斯坦、伊朗、塔吉克斯坦、土库曼斯坦",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes ubachi",
        "zh": "乌巴齐无刺白蚁",
        "type": false,
-       "distribution": "中东、以色列、约旦、巴勒斯坦、伊拉克、沙特阿拉伯、土耳其）",
+       "distribution": "中东、以色列、约旦、巴勒斯坦、伊拉克、沙特阿拉伯、土耳其",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes vagans",
        "zh": "游荡无刺白蚁",
        "type": false,
-       "distribution": "中东、伊朗、阿富汗、伊拉克、科威特、巴基斯坦、沙特阿拉伯）",
+       "distribution": "中东、伊朗、阿富汗、伊拉克、科威特、巴基斯坦、沙特阿拉伯",
        "subspecies": null
       },
       {
        "latin": "Anacanthotermes viarum",
        "zh": "小径无刺白蚁",
        "type": false,
-       "distribution": "印度、斯里兰卡）",
+       "distribution": "印度、斯里兰卡",
        "subspecies": null
       }
      ]
@@ -239,14 +239,14 @@
        "latin": "Hodotermes erithreensis",
        "zh": "厄立特里亚草白蚁",
        "type": false,
-       "distribution": "厄立特里亚、埃塞俄比亚、索马里）",
+       "distribution": "厄立特里亚、埃塞俄比亚、索马里",
        "subspecies": null
       },
       {
        "latin": "Hodotermes mossambicus",
        "zh": "莫桑比克草白蚁",
        "type": true,
-       "distribution": "非洲南部及东部）",
+       "distribution": "非洲南部及东部",
        "subspecies": null
       }
      ]
@@ -262,21 +262,21 @@
        "latin": "Microhodotermes maroccanus",
        "zh": "摩洛哥小草白蚁",
        "type": false,
-       "distribution": "摩洛哥、阿尔及利亚）",
+       "distribution": "摩洛哥、阿尔及利亚",
        "subspecies": null
       },
       {
        "latin": "Microhodotermes viator",
        "zh": "旅游小草白蚁",
        "type": true,
-       "distribution": "南非、纳米比亚）",
+       "distribution": "南非、纳米比亚",
        "subspecies": null
       },
       {
        "latin": "Microhodotermes wasmanni",
        "zh": "沃斯曼小草白蚁",
        "type": false,
-       "distribution": "利比亚、埃及、以色列、突尼斯）",
+       "distribution": "利比亚、埃及、以色列、突尼斯",
        "subspecies": null
       }
      ]
@@ -299,7 +299,7 @@
        "latin": "Hodotermopsis sjostedti",
        "zh": "山林原白蚁",
        "type": true,
-       "distribution": "日本、中国台湾、中国南部、越南）",
+       "distribution": "日本、中国台湾、中国南部、越南",
        "subspecies": null
       }
      ]
@@ -322,21 +322,21 @@
        "latin": "Porotermes adamsoni",
        "zh": "亚当森洞白蚁",
        "type": false,
-       "distribution": "澳大利亚；引入：新西兰）",
+       "distribution": "澳大利亚；引入：新西兰",
        "subspecies": null
       },
       {
        "latin": "Porotermes planiceps",
        "zh": "扁头洞白蚁",
        "type": false,
-       "distribution": "南非）",
+       "distribution": "南非",
        "subspecies": null
       },
       {
        "latin": "Porotermes quadricollis",
        "zh": "方颈洞白蚁",
        "type": true,
-       "distribution": "智利及南美南部）",
+       "distribution": "智利及南美南部",
        "subspecies": null
       }
      ]
@@ -352,49 +352,49 @@
        "latin": "Stolotermes africanus",
        "zh": "非洲胄白蚁",
        "type": false,
-       "distribution": "南非）",
+       "distribution": "南非",
        "subspecies": null
       },
       {
        "latin": "Stolotermes australicus",
        "zh": "澳大利亚胄白蚁",
        "type": false,
-       "distribution": "澳大利亚）",
+       "distribution": "澳大利亚",
        "subspecies": null
       },
       {
        "latin": "Stolotermes brunneicornis",
        "zh": "棕角胄白蚁",
        "type": true,
-       "distribution": "澳大利亚）",
+       "distribution": "澳大利亚",
        "subspecies": null
       },
       {
        "latin": "Stolotermes inopinus",
        "zh": "未料胄白蚁",
        "type": false,
-       "distribution": "新西兰）",
+       "distribution": "新西兰",
        "subspecies": null
       },
       {
        "latin": "Stolotermes queenslandicus",
        "zh": "昆士兰胄白蚁",
        "type": false,
-       "distribution": "澳大利亚）",
+       "distribution": "澳大利亚",
        "subspecies": null
       },
       {
        "latin": "Stolotermes ruficeps",
        "zh": "红头胄白蚁",
        "type": false,
-       "distribution": "新西兰）",
+       "distribution": "新西兰",
        "subspecies": null
       },
       {
        "latin": "Stolotermes victoriensis",
        "zh": "维多利亚胄白蚁",
        "type": false,
-       "distribution": "澳大利亚）",
+       "distribution": "澳大利亚",
        "subspecies": null
       }
      ]

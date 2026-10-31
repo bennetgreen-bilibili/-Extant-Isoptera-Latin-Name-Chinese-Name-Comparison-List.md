@@ -1,8 +1,8 @@
 ---
 layout: species
-title: "Isognathotermes phalloides Josens & Deligne, 2025 似阳茎等颚白蚁"
+title: "Isognathotermes phalloides Josens & Deligne, 2025 阳茎等颚白蚁"
 latin: "Isognathotermes phalloides"
-zh: "似阳茎等颚白蚁"
+zh: "阳茎等颚白蚁"
 type: false
 rank: species
 genus_zh: "等颚白蚁属"
@@ -26,11 +26,11 @@ synonym_count: 0
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**似阳茎等颚白蚁**（*Isognathotermes phalloides*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Josens & Deligne 于 2025 年描述，模式产地为 Democratic Republic of the Congo: Kondué \[ 4.9667S 23.3167E \]。分布记录包括刚果民主共和国。
+**阳茎等颚白蚁**（*Isognathotermes phalloides*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Josens & Deligne 于 2025 年描述，模式产地为 Democratic Republic of the Congo: Kondué \[ 4.9667S 23.3167E \]。分布记录包括刚果民主共和国。
 
-EN — **似阳茎等颚白蚁** (*Isognathotermes phalloides*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Josens & Deligne in 2025; the type locality is Democratic Republic of the Congo: Kondué \[ 4.9667S 23.3167E \]. Distribution: Democratic Republic of the Congo.
+EN — **阳茎等颚白蚁** (*Isognathotermes phalloides*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Josens & Deligne in 2025; the type locality is Democratic Republic of the Congo: Kondué \[ 4.9667S 23.3167E \]. Distribution: Democratic Republic of the Congo.
 
-ES — **似阳茎等颚白蚁** (*Isognathotermes phalloides*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Democratic Republic of the Congo: Kondué \[ 4.9667S 23.3167E \]. Distribución: Democratic Republic of the Congo.
+ES — **阳茎等颚白蚁** (*Isognathotermes phalloides*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Democratic Republic of the Congo: Kondué \[ 4.9667S 23.3167E \]. Distribución: Democratic Republic of the Congo.
 
 ## 分类位置
 

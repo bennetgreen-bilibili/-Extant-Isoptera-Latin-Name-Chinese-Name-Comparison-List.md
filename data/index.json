@@ -116,7 +116,7 @@
          "subspecies": 2,
          "subfamilies": 0
         },
-        "file": "data/archotermopsidae.json"
+        "file": "data/teletisoptera.json"
        },
        {
         "type": "family",
@@ -129,7 +129,7 @@
          "subspecies": 0,
          "subfamilies": 0
         },
-        "file": "data/hodotermitidae.json"
+        "file": "data/teletisoptera.json"
        },
        {
         "type": "family",
@@ -142,7 +142,7 @@
          "subspecies": 0,
          "subfamilies": 0
         },
-        "file": "data/hodotermopsidae.json"
+        "file": "data/teletisoptera.json"
        },
        {
         "type": "family",
@@ -155,7 +155,7 @@
          "subspecies": 0,
          "subfamilies": 0
         },
-        "file": "data/stolotermitidae.json"
+        "file": "data/teletisoptera.json"
        }
       ]
      },
@@ -195,7 +195,7 @@
            "subspecies": 0,
            "subfamilies": 0
           },
-          "file": "data/psammotermitidae.json"
+          "file": "data/neoisoptera-excl-termitidae.json"
          },
          {
           "type": "family",
@@ -208,7 +208,7 @@
            "subspecies": 0,
            "subfamilies": 0
           },
-          "file": "data/rhinotermitidae.json"
+          "file": "data/neoisoptera-excl-termitidae.json"
          },
          {
           "type": "family",
@@ -221,7 +221,7 @@
            "subspecies": 0,
            "subfamilies": 0
           },
-          "file": "data/serritermitidae.json"
+          "file": "data/neoisoptera-excl-termitidae.json"
          },
          {
           "type": "family",
@@ -234,7 +234,7 @@
            "subspecies": 0,
            "subfamilies": 0
           },
-          "file": "data/stylotermitidae.json"
+          "file": "data/neoisoptera-excl-termitidae.json"
          },
          {
           "type": "family",
@@ -247,7 +247,7 @@
            "subspecies": 0,
            "subfamilies": 0
           },
-          "file": "data/termitogetonidae.json"
+          "file": "data/neoisoptera-excl-termitidae.json"
          },
          {
           "type": "clade",
@@ -266,7 +266,7 @@
              "subspecies": 8,
              "subfamilies": 0
             },
-            "file": "data/heterotermitidae.json"
+            "file": "data/neoisoptera-excl-termitidae.json"
            },
            {
             "type": "family",
@@ -514,13 +514,23 @@
    "path": "data/mastotermitidae.json",
    "name": "澳白蚁科 Mastotermitidae",
    "counts": {
-    "families": 1,
     "genera": 1,
     "species": 1,
     "subspecies": 0,
     "subfamilies": 0
    },
-   "bytes": 1122
+   "bytes": 1102
+  },
+  {
+   "path": "data/kalotermitidae.json",
+   "name": "木白蚁科 Kalotermitidae",
+   "counts": {
+    "genera": 23,
+    "species": 480,
+    "subspecies": 4,
+    "subfamilies": 0
+   },
+   "bytes": 100635
   },
   {
    "path": "data/teletisoptera.json",
@@ -532,23 +542,11 @@
     "subspecies": 2,
     "subfamilies": 0
    },
-   "bytes": 10729
-  },
-  {
-   "path": "data/kalotermitidae.json",
-   "name": "木白蚁科 Kalotermitidae",
-   "counts": {
-    "families": 1,
-    "genera": 23,
-    "species": 480,
-    "subspecies": 4,
-    "subfamilies": 0
-   },
-   "bytes": 102092
+   "bytes": 10618
   },
   {
    "path": "data/neoisoptera-excl-termitidae.json",
-   "name": "新等翅类（除白蚁科）Neoisoptera excl. Termitidae",
+   "name": "新等翅类（除白蚁科） Neoisoptera excl. Termitidae",
    "counts": {
     "families": 6,
     "genera": 14,
@@ -556,7 +554,7 @@
     "subspecies": 8,
     "subfamilies": 0
    },
-   "bytes": 77368
+   "bytes": 76292
   },
   {
    "path": "data/termitidae/amitermitinae.json",
@@ -567,7 +565,7 @@
     "species": 194,
     "subspecies": 4
    },
-   "bytes": 39054
+   "bytes": 38472
   },
   {
    "path": "data/termitidae/apicotermitinae.json",
@@ -578,7 +576,7 @@
     "species": 241,
     "subspecies": 2
    },
-   "bytes": 61476
+   "bytes": 60753
   },
   {
    "path": "data/termitidae/crepititermitinae.json",
@@ -589,7 +587,7 @@
     "species": 1,
     "subspecies": 0
    },
-   "bytes": 1135
+   "bytes": 1132
   },
   {
    "path": "data/termitidae/cubitermitinae.json",
@@ -600,7 +598,7 @@
     "species": 149,
     "subspecies": 10
    },
-   "bytes": 37205
+   "bytes": 36755
   },
   {
    "path": "data/termitidae/cylindrotermitinae.json",
@@ -611,7 +609,7 @@
     "species": 9,
     "subspecies": 0
    },
-   "bytes": 2868
+   "bytes": 2841
   },
   {
    "path": "data/termitidae/engelitermitinae.json",
@@ -622,7 +620,7 @@
     "species": 1,
     "subspecies": 0
    },
-   "bytes": 1005
+   "bytes": 1002
   },
   {
    "path": "data/termitidae/foraminitermitinae.json",
@@ -633,7 +631,7 @@
     "species": 10,
     "subspecies": 0
    },
-   "bytes": 3344
+   "bytes": 3314
   },
   {
    "path": "data/termitidae/forficulitermitinae.json",
@@ -644,7 +642,7 @@
     "species": 1,
     "subspecies": 0
    },
-   "bytes": 1021
+   "bytes": 1018
   },
   {
    "path": "data/termitidae/macrotermitinae.json",
@@ -655,7 +653,7 @@
     "species": 373,
     "subspecies": 16
    },
-   "bytes": 80575
+   "bytes": 79456
   },
   {
    "path": "data/termitidae/microcerotermitinae.json",
@@ -666,7 +664,7 @@
     "species": 150,
     "subspecies": 7
    },
-   "bytes": 32036
+   "bytes": 31586
   },
   {
    "path": "data/termitidae/mirocapritermitinae.json",
@@ -677,7 +675,7 @@
     "species": 135,
     "subspecies": 3
    },
-   "bytes": 30067
+   "bytes": 29662
   },
   {
    "path": "data/termitidae/nasutitermitinae.json",
@@ -688,7 +686,7 @@
     "species": 606,
     "subspecies": 10
    },
-   "bytes": 137002
+   "bytes": 135184
   },
   {
    "path": "data/termitidae/neocapritermitinae.json",
@@ -699,7 +697,7 @@
     "species": 20,
     "subspecies": 0
    },
-   "bytes": 5498
+   "bytes": 5438
   },
   {
    "path": "data/termitidae/promirotermitinae.json",
@@ -710,7 +708,7 @@
     "species": 39,
     "subspecies": 2
    },
-   "bytes": 8503
+   "bytes": 8386
   },
   {
    "path": "data/termitidae/protohamitermitinae.json",
@@ -721,7 +719,7 @@
     "species": 2,
     "subspecies": 0
    },
-   "bytes": 1432
+   "bytes": 1426
   },
   {
    "path": "data/termitidae/sphaerotermitinae.json",
@@ -732,7 +730,7 @@
     "species": 1,
     "subspecies": 0
    },
-   "bytes": 1125
+   "bytes": 1122
   },
   {
    "path": "data/termitidae/syntermitinae.json",
@@ -743,7 +741,7 @@
     "species": 105,
     "subspecies": 0
    },
-   "bytes": 25980
+   "bytes": 25665
   },
   {
    "path": "data/termitidae/termitinae.json",
@@ -754,7 +752,7 @@
     "species": 107,
     "subspecies": 0
    },
-   "bytes": 26115
+   "bytes": 25794
   }
  ]
 }

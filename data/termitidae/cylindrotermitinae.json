@@ -35,7 +35,7 @@
       "latin": "Cephalotermes rectangularis",
       "zh": "直角头白蚁",
       "type": true,
-      "distribution": "旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达）",
+      "distribution": "旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达",
       "subspecies": null
      }
     ]
@@ -51,56 +51,56 @@
       "latin": "Cylindrotermes brevipilosus",
       "zh": "短毛圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes caata",
       "zh": "骨痂圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes capixaba",
       "zh": "卡皮沙巴圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes flangiatus",
       "zh": "凸缘圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes macrognathus",
       "zh": "长颚圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes nordenskioldi",
       "zh": "努登舍尔德圆筒白蚁",
       "type": true,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes parvignathus",
       "zh": "小颚圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      },
      {
       "latin": "Cylindrotermes sapiranga",
       "zh": "萨皮兰加圆筒白蚁",
       "type": false,
-      "distribution": "新热带界）",
+      "distribution": "新热带界",
       "subspecies": null
      }
     ]

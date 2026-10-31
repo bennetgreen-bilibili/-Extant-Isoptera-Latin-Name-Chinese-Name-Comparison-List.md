@@ -51,6 +51,7 @@ jobs:
       # 部署时由 pages.yml 安装依赖后重新生成增强版，两者互不干扰）
       - name: Regenerate derived artifacts
         run: |
+          python _tools/build_taxonomy_data.py --write
           python .github/workflows/build_genus_index.py
           python .github/workflows/build_species_body.py --write
           python .github/workflows/build_sitemap_txt.py

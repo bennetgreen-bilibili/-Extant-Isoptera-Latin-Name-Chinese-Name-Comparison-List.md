@@ -35,7 +35,7 @@
       "latin": "Acanthotermes acanthothorax",
       "zh": "刺胸刺白蚁",
       "type": true,
-      "distribution": "旧热带界、西非、中非、东非）",
+      "distribution": "旧热带界、西非、中非、东非",
       "subspecies": null
      }
     ]
@@ -51,21 +51,21 @@
       "latin": "Allodontermes rhodesiensis",
       "zh": "罗得西亚奇齿白蚁",
       "type": false,
-      "distribution": "旧热带界东非、非洲南部）",
+      "distribution": "旧热带界东非、非洲南部",
       "subspecies": null
      },
      {
       "latin": "Allodontermes schultzei",
       "zh": "舒尔茨奇齿白蚁",
       "type": true,
-      "distribution": "非洲南部纳米比亚、博茨瓦纳、南非、斯威士兰、赞比亚、津巴布韦）",
+      "distribution": "非洲南部纳米比亚、博茨瓦纳、南非、斯威士兰、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Allodontermes tenax",
       "zh": "执着奇齿白蚁",
       "type": false,
-      "distribution": "旧热带界东非、非洲南部）",
+      "distribution": "旧热带界东非、非洲南部",
       "subspecies": null
      }
     ]
@@ -81,21 +81,21 @@
       "latin": "Ancistrotermes cavithorax",
       "zh": "凹胸钩白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、塞内加尔、贝宁、冈比亚、喀麦隆、中非、刚果民主共和国、加纳、几内亚、尼日利亚、塞拉利昂、乌干达）",
+      "distribution": "西非、科特迪瓦、塞内加尔、贝宁、冈比亚、喀麦隆、中非、刚果民主共和国、加纳、几内亚、尼日利亚、塞拉利昂、乌干达",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes crassiceps",
       "zh": "厚头钩白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes crucifer",
       "zh": "十字钩白蚁",
       "type": true,
-      "distribution": "旧热带界、西非、中非）",
+      "distribution": "旧热带界、西非、中非",
       "subspecies": [
        {
         "epithet": "crucifer",
@@ -111,91 +111,91 @@
       "latin": "Ancistrotermes dimorphus",
       "zh": "小头钩白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes dubius",
       "zh": "可疑钩白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes equatorius",
       "zh": "赤道钩白蚁",
       "type": false,
-      "distribution": "尼日利亚、乌干达）",
+      "distribution": "尼日利亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes ganlanbaensis",
       "zh": "橄榄坝钩白蚁",
       "type": false,
-      "distribution": "云南（景洪500m））",
+      "distribution": "云南（景洪500m）",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes guineensis",
       "zh": "几内亚钩白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、贝宁、冈比亚、塞内加尔、喀麦隆、加纳、几内亚、几内亚比绍、尼日利亚）",
+      "distribution": "西非、科特迪瓦、贝宁、冈比亚、塞内加尔、喀麦隆、加纳、几内亚、几内亚比绍、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes hekouensis",
       "zh": "河口钩白蚁",
       "type": false,
-      "distribution": "云南（河口110m））",
+      "distribution": "云南（河口110m）",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes latinotus",
       "zh": "宽背钩白蚁",
       "type": false,
-      "distribution": "非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦）",
+      "distribution": "非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes menglianensis",
       "zh": "孟连钩白蚁",
       "type": false,
-      "distribution": "云南（孟连1020m））",
+      "distribution": "云南（孟连1020m）",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes microdens",
       "zh": "小齿钩白蚁",
       "type": false,
-      "distribution": "东非、肯尼亚、乌干达）",
+      "distribution": "东非、肯尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes pakistanicus",
       "zh": "巴基斯坦钩白蚁",
       "type": false,
-      "distribution": "南亚、东南亚、巴基斯坦、泰国、老挝、马来西亚、孟加拉国、喀麦隆、印度、印度尼西亚、缅甸、新加坡、越南）",
+      "distribution": "南亚、东南亚、巴基斯坦、泰国、老挝、马来西亚、孟加拉国、喀麦隆、印度、印度尼西亚、缅甸、新加坡、越南",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes periphrasis",
       "zh": "迂回钩白蚁",
       "type": false,
-      "distribution": "刚果民主共和国、埃塞俄比亚、加纳、苏丹）",
+      "distribution": "刚果民主共和国、埃塞俄比亚、加纳、苏丹",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes wasmanni",
       "zh": "沃斯曼钩白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Ancistrotermes xiai",
       "zh": "夏氏钩白蚁",
       "type": false,
-      "distribution": "云南（勐腊勐仑600m））",
+      "distribution": "云南（勐腊勐仑600m）",
       "subspecies": null
      }
     ]
@@ -211,7 +211,7 @@
       "latin": "Euscaiotermes primus",
       "zh": "第一左转白蚁",
       "type": true,
-      "distribution": "非洲热带、印度）",
+      "distribution": "非洲热带、印度",
       "subspecies": null
      }
     ]
@@ -227,91 +227,91 @@
       "latin": "Hypotermes bawanensis",
       "zh": "坝湾地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes makhamensis",
       "zh": "玛堪地白蚁",
       "type": false,
-      "distribution": "泰国、越南、柬埔寨）",
+      "distribution": "泰国、越南、柬埔寨",
       "subspecies": null
      },
      {
       "latin": "Hypotermes manyunensis",
       "zh": "曼允地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes meiziensis",
       "zh": "梅子地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes mengdingensis",
       "zh": "孟定地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes obscuriceps",
       "zh": "暗头地白蚁",
       "type": true,
-      "distribution": "印度、斯里兰卡、越南）",
+      "distribution": "印度、斯里兰卡、越南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes ruiliensis",
       "zh": "瑞丽地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes sumatrensis",
       "zh": "暗齿地白蚁",
       "type": false,
-      "distribution": "印度尼西亚、中国）",
+      "distribution": "印度尼西亚、中国",
       "subspecies": null
      },
      {
       "latin": "Hypotermes wandingensis",
       "zh": "畹町地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes wayaoensis",
       "zh": "瓦窑地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Hypotermes winifredi",
       "zh": "威尼弗雷德地白蚁",
       "type": false,
-      "distribution": "斯里兰卡）",
+      "distribution": "斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Hypotermes xenotermitis",
       "zh": "氙地白蚁",
       "type": false,
-      "distribution": "印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国）",
+      "distribution": "印度、巴基斯坦、孟加拉国、不丹、印度尼西亚、马来西亚、缅甸、泰国",
       "subspecies": null
      },
      {
       "latin": "Hypotermes yingjiangensis",
       "zh": "盈江地白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      }
     ]
@@ -327,399 +327,399 @@
       "latin": "Macrotermes acrocephalus",
       "zh": "隆头大白蚁",
       "type": false,
-      "distribution": "中国云南、瑞丽）",
+      "distribution": "中国云南、瑞丽",
       "subspecies": null
      },
      {
       "latin": "Macrotermes ahmadi",
       "zh": "阿哈默德大白蚁",
       "type": false,
-      "distribution": "东南亚、马来半岛、印度尼西亚苏门答腊、马来西亚）",
+      "distribution": "东南亚、马来半岛、印度尼西亚苏门答腊、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes aleemi",
       "zh": "阿利姆大白蚁",
       "type": false,
-      "distribution": "南亚、印度、孟加拉国）",
+      "distribution": "南亚、印度、孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Macrotermes amplus",
       "zh": "体大大白蚁",
       "type": false,
-      "distribution": "中非、刚果共和国、刚果民主共和国、喀麦隆、中非共和国、安哥拉、加蓬、尼日利亚、苏丹）",
+      "distribution": "中非、刚果共和国、刚果民主共和国、喀麦隆、中非共和国、安哥拉、加蓬、尼日利亚、苏丹",
       "subspecies": null
      },
      {
       "latin": "Macrotermes annandalei",
       "zh": "土垄大白蚁",
       "type": false,
-      "distribution": "东南亚、东亚、泰国、越南、柬埔寨、老挝、中国、印度、缅甸）",
+      "distribution": "东南亚、东亚、泰国、越南、柬埔寨、老挝、中国、印度、缅甸",
       "subspecies": null
      },
      {
       "latin": "Macrotermes barneyi",
       "zh": "黄翅大白蚁",
       "type": false,
-      "distribution": "东亚、中国、中国香港、中国澳门、越南）",
+      "distribution": "东亚、中国、中国香港、中国澳门、越南",
       "subspecies": null
      },
      {
       "latin": "Macrotermes beaufortensis",
       "zh": "保佛大白蚁",
       "type": false,
-      "distribution": "东南亚、新加坡、马来西亚）",
+      "distribution": "东南亚、新加坡、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes bellicosus",
       "zh": "勇猛大白蚁",
       "type": false,
-      "distribution": "旧热带界、科特迪瓦、塞内加尔、多哥、贝宁、加纳、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、厄立特里亚、埃塞俄比亚、几内亚、几内亚比绍、肯尼亚、利比里亚、马拉维、毛里塔尼亚、莫桑比克、尼日尔、尼日利亚、塞拉利昂、索马里、苏丹、坦桑尼亚、乌干达、也门）",
+      "distribution": "旧热带界、科特迪瓦、塞内加尔、多哥、贝宁、加纳、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、厄立特里亚、埃塞俄比亚、几内亚、几内亚比绍、肯尼亚、利比里亚、马拉维、毛里塔尼亚、莫桑比克、尼日尔、尼日利亚、塞拉利昂、索马里、苏丹、坦桑尼亚、乌干达、也门",
       "subspecies": null
      },
      {
       "latin": "Macrotermes carbonarius",
       "zh": "炭色大白蚁",
       "type": false,
-      "distribution": "东南亚、东亚、新加坡、马来西亚、泰国、柬埔寨、印度尼西亚、越南）",
+      "distribution": "东南亚、东亚、新加坡、马来西亚、泰国、柬埔寨、印度尼西亚、越南",
       "subspecies": null
      },
      {
       "latin": "Macrotermes chaiglomi",
       "zh": "蔡格洛姆大白蚁",
       "type": false,
-      "distribution": "东南亚、东亚、中国、泰国）",
+      "distribution": "东南亚、东亚、中国、泰国",
       "subspecies": null
      },
      {
       "latin": "Macrotermes chebalingensis",
       "zh": "车八岭大白蚁",
       "type": false,
-      "distribution": "中国广东、始兴车八岭）",
+      "distribution": "中国广东、始兴车八岭",
       "subspecies": null
      },
      {
       "latin": "Macrotermes choui",
       "zh": "周氏大白蚁",
       "type": false,
-      "distribution": "中国云南、盈江）",
+      "distribution": "中国云南、盈江",
       "subspecies": null
      },
      {
       "latin": "Macrotermes constrictus",
       "zh": "缢颏大白蚁",
       "type": false,
-      "distribution": "中国四川、德昌）",
+      "distribution": "中国四川、德昌",
       "subspecies": null
      },
      {
       "latin": "Macrotermes convulsionarius",
       "zh": "震撼大白蚁",
       "type": false,
-      "distribution": "南亚、印度、斯里兰卡）",
+      "distribution": "南亚、印度、斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Macrotermes declivatus",
       "zh": "箕头大白蚁",
       "type": false,
-      "distribution": "中国云南、景谷）",
+      "distribution": "中国云南、景谷",
       "subspecies": null
      },
      {
       "latin": "Macrotermes denticulatus",
       "zh": "细齿大白蚁",
       "type": false,
-      "distribution": "中国云南、小勐仑、海南、兴隆、广西、凭祥）",
+      "distribution": "中国云南、小勐仑、海南、兴隆、广西、凭祥",
       "subspecies": null
      },
      {
       "latin": "Macrotermes falciger",
       "zh": "镰刀大白蚁",
       "type": false,
-      "distribution": "旧热带界、西非、东非、非洲南部、贝宁、中非共和国、刚果民主共和国、加纳、几内亚、肯尼亚、马拉维、莫桑比克、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦）",
+      "distribution": "旧热带界、西非、东非、非洲南部、贝宁、中非共和国、刚果民主共和国、加纳、几内亚、肯尼亚、马拉维、莫桑比克、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Macrotermes gilvus",
       "zh": "暗黄大白蚁",
       "type": false,
-      "distribution": "旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南）",
+      "distribution": "旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南",
       "subspecies": null
      },
      {
       "latin": "Macrotermes gratus",
       "zh": "可爱大白蚁",
       "type": false,
-      "distribution": "西非、多哥）",
+      "distribution": "西非、多哥",
       "subspecies": null
      },
      {
       "latin": "Macrotermes guangxiensis",
       "zh": "广西大白蚁",
       "type": false,
-      "distribution": "中国广西、南宁）",
+      "distribution": "中国广西、南宁",
       "subspecies": null
      },
      {
       "latin": "Macrotermes hainanensis",
       "zh": "海南大白蚁",
       "type": false,
-      "distribution": "中国海南）",
+      "distribution": "中国海南",
       "subspecies": null
      },
      {
       "latin": "Macrotermes herus",
       "zh": "优势大白蚁",
       "type": false,
-      "distribution": "旧热带界、西非、东非、埃塞俄比亚、几内亚、肯尼亚、尼日利亚、索马里、苏丹、坦桑尼亚）",
+      "distribution": "旧热带界、西非、东非、埃塞俄比亚、几内亚、肯尼亚、尼日利亚、索马里、苏丹、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes hopini",
       "zh": "和平大白蚁",
       "type": false,
-      "distribution": "缅甸、印度东北部）",
+      "distribution": "缅甸、印度东北部",
       "subspecies": null
      },
      {
       "latin": "Macrotermes incisus",
       "zh": "凹缘大白蚁",
       "type": false,
-      "distribution": "中国）",
+      "distribution": "中国",
       "subspecies": null
      },
      {
       "latin": "Macrotermes ituriensis",
       "zh": "伊图里大白蚁",
       "type": false,
-      "distribution": "中非、刚果民主共和国）",
+      "distribution": "中非、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Macrotermes ivorensis",
       "zh": "象牙海岸大白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、刚果民主共和国、加蓬、几内亚、尼日利亚、塞内加尔、塞拉利昂）",
+      "distribution": "西非、科特迪瓦、刚果民主共和国、加蓬、几内亚、尼日利亚、塞内加尔、塞拉利昂",
       "subspecies": null
      },
      {
       "latin": "Macrotermes jinghongensis",
       "zh": "景洪大白蚁",
       "type": false,
-      "distribution": "中国云南、景洪）",
+      "distribution": "中国云南、景洪",
       "subspecies": null
      },
      {
       "latin": "Macrotermes khajuriai",
       "zh": "哈贾瑞大白蚁",
       "type": false,
-      "distribution": "印度东北部、不丹）",
+      "distribution": "印度东北部、不丹",
       "subspecies": null
      },
      {
       "latin": "Macrotermes latignathus",
       "zh": "宽颚大白蚁",
       "type": false,
-      "distribution": "尼泊尔、马来西亚）",
+      "distribution": "尼泊尔、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes lilljeborgi",
       "zh": "利勒伯格大白蚁",
       "type": true,
-      "distribution": "中非、喀麦隆、刚果共和国、加蓬、刚果民主共和国、尼日利亚、坦桑尼亚）",
+      "distribution": "中非、喀麦隆、刚果共和国、加蓬、刚果民主共和国、尼日利亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes longiceps",
       "zh": "长头大白蚁",
       "type": false,
-      "distribution": "中国海南、吊罗山、广西）",
+      "distribution": "中国海南、吊罗山、广西",
       "subspecies": null
      },
      {
       "latin": "Macrotermes longimentis",
       "zh": "长颏大白蚁",
       "type": false,
-      "distribution": "中国广西、北海）",
+      "distribution": "中国广西、北海",
       "subspecies": null
      },
      {
       "latin": "Macrotermes luokengensis",
       "zh": "罗坑大白蚁",
       "type": false,
-      "distribution": "中国广东、电白）",
+      "distribution": "中国广东、电白",
       "subspecies": null
      },
      {
       "latin": "Macrotermes maesodensis",
       "zh": "湄索德大白蚁",
       "type": false,
-      "distribution": "东南亚、越南、泰国）",
+      "distribution": "东南亚、越南、泰国",
       "subspecies": null
      },
      {
       "latin": "Macrotermes malaccensis",
       "zh": "马六甲大白蚁",
       "type": false,
-      "distribution": "东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南）",
+      "distribution": "东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南",
       "subspecies": null
      },
      {
       "latin": "Macrotermes meidoensis",
       "zh": "梅多大白蚁",
       "type": false,
-      "distribution": "中国西藏、墨脱）",
+      "distribution": "中国西藏、墨脱",
       "subspecies": null
      },
      {
       "latin": "Macrotermes menglongensis",
       "zh": "勐龙大白蚁",
       "type": false,
-      "distribution": "中国云南、大勐龙）",
+      "distribution": "中国云南、大勐龙",
       "subspecies": null
      },
      {
       "latin": "Macrotermes michaelseni",
       "zh": "米夏埃尔森大白蚁",
       "type": false,
-      "distribution": "旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦）",
+      "distribution": "旧热带界、东非、非洲南部、安哥拉、博茨瓦纳、喀麦隆、肯尼亚、马拉维、莫桑比克、纳米比亚、南非、斯威士兰、坦桑尼亚、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Macrotermes natalensis",
       "zh": "纳塔尔大白蚁",
       "type": false,
-      "distribution": "旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦）",
+      "distribution": "旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Macrotermes niger",
       "zh": "黑色大白蚁",
       "type": false,
-      "distribution": "中非、喀麦隆）",
+      "distribution": "中非、喀麦隆",
       "subspecies": null
      },
      {
       "latin": "Macrotermes nobilis",
       "zh": "闻名大白蚁",
       "type": false,
-      "distribution": "中非、喀麦隆、刚果、刚果民主共和国、加蓬）",
+      "distribution": "中非、喀麦隆、刚果、刚果民主共和国、加蓬",
       "subspecies": null
      },
      {
       "latin": "Macrotermes orthognathus",
       "zh": "直颚大白蚁",
       "type": false,
-      "distribution": "中国贵州、兴义）",
+      "distribution": "中国贵州、兴义",
       "subspecies": null
      },
      {
       "latin": "Macrotermes peritrimorphus",
       "zh": "近三型大白蚁",
       "type": false,
-      "distribution": "中国广西、贺县滑水冲）",
+      "distribution": "中国广西、贺县滑水冲",
       "subspecies": null
      },
      {
       "latin": "Macrotermes planicapitatus",
       "zh": "平头大白蚁",
       "type": false,
-      "distribution": "中国香港）",
+      "distribution": "中国香港",
       "subspecies": null
      },
      {
       "latin": "Macrotermes probeaufortensis",
       "zh": "似保佛大白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes renouxi",
       "zh": "勒努大白蚁",
       "type": false,
-      "distribution": "喀麦隆、刚果）",
+      "distribution": "喀麦隆、刚果",
       "subspecies": null
      },
      {
       "latin": "Macrotermes serrulatus",
       "zh": "细锯齿大白蚁",
       "type": false,
-      "distribution": "东南亚、缅甸、孟加拉国、印度）",
+      "distribution": "东南亚、缅甸、孟加拉国、印度",
       "subspecies": null
      },
      {
       "latin": "Macrotermes singaporensis",
       "zh": "新加坡大白蚁",
       "type": false,
-      "distribution": "新加坡）",
+      "distribution": "新加坡",
       "subspecies": null
      },
      {
       "latin": "Macrotermes subhyalinus",
       "zh": "近明大白蚁",
       "type": false,
-      "distribution": "旧热带界、肯尼亚、埃塞俄比亚、坦桑尼亚、塞内加尔、科特迪瓦、安哥拉、贝宁、博茨瓦纳、布隆迪、中非共和国、乍得、刚果民主共和国、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马拉维、马里、莫桑比克、纳米比亚、尼日利亚、阿曼、卢旺达、沙特阿拉伯、塞拉利昂、索马里、苏丹、多哥、乌干达、也门、赞比亚、津巴布韦）",
+      "distribution": "旧热带界、肯尼亚、埃塞俄比亚、坦桑尼亚、塞内加尔、科特迪瓦、安哥拉、贝宁、博茨瓦纳、布隆迪、中非共和国、乍得、刚果民主共和国、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马拉维、马里、莫桑比克、纳米比亚、尼日利亚、阿曼、卢旺达、沙特阿拉伯、塞拉利昂、索马里、苏丹、多哥、乌干达、也门、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Macrotermes trapezoides",
       "zh": "梯头大白蚁",
       "type": false,
-      "distribution": "中国海南、崖县）",
+      "distribution": "中国海南、崖县",
       "subspecies": null
      },
      {
       "latin": "Macrotermes trimorphus",
       "zh": "三型大白蚁",
       "type": false,
-      "distribution": "中国广西、龙州）",
+      "distribution": "中国广西、龙州",
       "subspecies": null
      },
      {
       "latin": "Macrotermes ukuzii",
       "zh": "乌库兹大白蚁",
       "type": false,
-      "distribution": "非洲南部、津巴布韦、南非、斯威士兰、坦桑尼亚）",
+      "distribution": "非洲南部、津巴布韦、南非、斯威士兰、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Macrotermes vikaspurensis",
       "zh": "维卡斯布尔大白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Macrotermes vitrialatus",
       "zh": "明翼大白蚁",
       "type": false,
-      "distribution": "旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦）",
+      "distribution": "旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Macrotermes yunnanensis",
       "zh": "云南大白蚁",
       "type": false,
-      "distribution": "中国云南、景洪大勐龙）",
+      "distribution": "中国云南、景洪大勐龙",
       "subspecies": null
      },
      {
       "latin": "Macrotermes zhejiangensis",
       "zh": "浙江大白蚁",
       "type": false,
-      "distribution": "中国浙江、衢州）",
+      "distribution": "中国浙江、衢州",
       "subspecies": null
      },
      {
       "latin": "Macrotermes zhui",
       "zh": "朱氏大白蚁",
       "type": false,
-      "distribution": "中国广西）",
+      "distribution": "中国广西",
       "subspecies": null
      }
     ]
@@ -735,7 +735,7 @@
       "latin": "Megaprotermes giffardii",
       "zh": "吉法德大前白蚁",
       "type": true,
-      "distribution": "科特迪瓦、中非共和国、刚果民主共和国、冈比亚、加纳、尼日利亚、塞内加尔）",
+      "distribution": "科特迪瓦、中非共和国、刚果民主共和国、冈比亚、加纳、尼日利亚、塞内加尔",
       "subspecies": null
      }
     ]
@@ -751,84 +751,84 @@
       "latin": "Microtermes aethiopicus",
       "zh": "埃塞俄比亚小白蚁",
       "type": false,
-      "distribution": "埃塞俄比亚）",
+      "distribution": "埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes albinotus",
       "zh": "白背小白蚁",
       "type": false,
-      "distribution": "分布待核）",
+      "distribution": "分布待核",
       "subspecies": null
      },
      {
       "latin": "Microtermes albopartitus",
       "zh": "部白小白蚁",
       "type": false,
-      "distribution": "非洲南部、南非、喀麦隆、刚果民主共和国、马拉维、坦桑尼亚）",
+      "distribution": "非洲南部、南非、喀麦隆、刚果民主共和国、马拉维、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes alluaudanus",
       "zh": "阿留奥德小白蚁",
       "type": false,
-      "distribution": "喀麦隆、肯尼亚、马拉维、坦桑尼亚）",
+      "distribution": "喀麦隆、肯尼亚、马拉维、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes aluco",
       "zh": "林鸮小白蚁",
       "type": false,
-      "distribution": "西非、尼日利亚、喀麦隆、刚果民主共和国、苏丹）",
+      "distribution": "西非、尼日利亚、喀麦隆、刚果民主共和国、苏丹",
       "subspecies": null
      },
      {
       "latin": "Microtermes baginei",
       "zh": "巴吉勒小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes bharatpurensis",
       "zh": "珀勒德布尔小白蚁",
       "type": false,
-      "distribution": "南亚、印度拉贾斯坦）",
+      "distribution": "南亚、印度拉贾斯坦",
       "subspecies": null
      },
      {
       "latin": "Microtermes bouvieri",
       "zh": "布维尔小白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Microtermes calvus",
       "zh": "无毛小白蚁",
       "type": false,
-      "distribution": "中非、刚果民主共和国）",
+      "distribution": "中非、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Microtermes cherberensis",
       "zh": "谢尔贝小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes chomaensis",
       "zh": "乔马小白蚁",
       "type": false,
-      "distribution": "赞比亚）",
+      "distribution": "赞比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes congoensis",
       "zh": "刚果小白蚁",
       "type": false,
-      "distribution": "中非、尼日利亚、喀麦隆、刚果民主共和国、安哥拉）",
+      "distribution": "中非、尼日利亚、喀麦隆、刚果民主共和国、安哥拉",
       "subspecies": [
        {
         "epithet": "comprehensa",
@@ -844,399 +844,399 @@
       "latin": "Microtermes darlingtonae",
       "zh": "达林顿小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes depauperata",
       "zh": "矮小小白蚁",
       "type": false,
-      "distribution": "喀麦隆）",
+      "distribution": "喀麦隆",
       "subspecies": null
      },
      {
       "latin": "Microtermes divellens",
       "zh": "撕裂小白蚁",
       "type": false,
-      "distribution": "马达加斯加）",
+      "distribution": "马达加斯加",
       "subspecies": null
      },
      {
       "latin": "Microtermes dubius",
       "zh": "疑问小白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Microtermes edwini",
       "zh": "埃德温小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes etiolatus",
       "zh": "苍白小白蚁",
       "type": false,
-      "distribution": "莫桑比克、南非、赞比亚）",
+      "distribution": "莫桑比克、南非、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes feae",
       "zh": "菲氏小白蚁",
       "type": false,
-      "distribution": "西非、几内亚比绍及几内亚湾岛屿、喀麦隆、赤道几内亚）",
+      "distribution": "西非、几内亚比绍及几内亚湾岛屿、喀麦隆、赤道几内亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes grassei",
       "zh": "格拉塞小白蚁",
       "type": false,
-      "distribution": "西非、多哥、冈比亚）",
+      "distribution": "西非、多哥、冈比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes havilandi",
       "zh": "哈维兰小白蚁",
       "type": false,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Microtermes hollandei",
       "zh": "霍兰德小白蚁",
       "type": false,
-      "distribution": "西非、塞内加尔）",
+      "distribution": "西非、塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Microtermes imphalensis",
       "zh": "英帕尔小白蚁",
       "type": false,
-      "distribution": "南亚、印度曼尼普尔）",
+      "distribution": "南亚、印度曼尼普尔",
       "subspecies": null
      },
      {
       "latin": "Microtermes incertoides",
       "zh": "似可疑小白蚁",
       "type": false,
-      "distribution": "南亚、印度）",
+      "distribution": "南亚、印度",
       "subspecies": null
      },
      {
       "latin": "Microtermes incertus",
       "zh": "可疑小白蚁",
       "type": true,
-      "distribution": "非洲南部、南非）",
+      "distribution": "非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Microtermes insperatus",
       "zh": "未料小白蚁",
       "type": false,
-      "distribution": "东南亚、印度尼西亚）",
+      "distribution": "东南亚、印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes jacobsoni",
       "zh": "雅各布森小白蚁",
       "type": false,
-      "distribution": "东南亚、印度尼西亚）",
+      "distribution": "东南亚、印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes kairoonae",
       "zh": "凯罗娜小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes kasaiensis",
       "zh": "开赛小白蚁",
       "type": false,
-      "distribution": "中非、刚果民主共和国、肯尼亚、马拉维、乌干达）",
+      "distribution": "中非、刚果民主共和国、肯尼亚、马拉维、乌干达",
       "subspecies": null
      },
      {
       "latin": "Microtermes kauderni",
       "zh": "考登小白蚁",
       "type": false,
-      "distribution": "马达加斯加）",
+      "distribution": "马达加斯加",
       "subspecies": null
      },
      {
       "latin": "Microtermes lepidus",
       "zh": "可爱小白蚁",
       "type": false,
-      "distribution": "西非、塞内加尔、布基纳法索、冈比亚、马里）",
+      "distribution": "西非、塞内加尔、布基纳法索、冈比亚、马里",
       "subspecies": null
      },
      {
       "latin": "Microtermes logani",
       "zh": "洛根小白蚁",
       "type": false,
-      "distribution": "马拉维）",
+      "distribution": "马拉维",
       "subspecies": null
      },
      {
       "latin": "Microtermes lokoriensis",
       "zh": "洛科里小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes lounsburyi",
       "zh": "劳恩斯伯里小白蚁",
       "type": false,
-      "distribution": "非洲南部、南非、马拉维）",
+      "distribution": "非洲南部、南非、马拉维",
       "subspecies": null
      },
      {
       "latin": "Microtermes luteus",
       "zh": "橘黄小白蚁",
       "type": false,
-      "distribution": "肯尼亚、马拉维、坦桑尼亚、赞比亚）",
+      "distribution": "肯尼亚、马拉维、坦桑尼亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes macronotus",
       "zh": "大背小白蚁",
       "type": false,
-      "distribution": "斯里兰卡）",
+      "distribution": "斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Microtermes magnocellus",
       "zh": "大单眼小白蚁",
       "type": false,
-      "distribution": "埃塞俄比亚、马拉维、坦桑尼亚、赞比亚）",
+      "distribution": "埃塞俄比亚、马拉维、坦桑尼亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes magnoculus",
       "zh": "大眼小白蚁",
       "type": false,
-      "distribution": "索马里）",
+      "distribution": "索马里",
       "subspecies": null
      },
      {
       "latin": "Microtermes mangzhuangensis",
       "zh": "曼庄小白蚁",
       "type": false,
-      "distribution": "中国云南、勐腊）",
+      "distribution": "中国云南、勐腊",
       "subspecies": null
      },
      {
       "latin": "Microtermes mariae",
       "zh": "玛丽亚小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes menglunensis",
       "zh": "勐仑小白蚁",
       "type": false,
-      "distribution": "中国云南、勐仑）",
+      "distribution": "中国云南、勐仑",
       "subspecies": null
      },
      {
       "latin": "Microtermes mengpengensis",
       "zh": "勐捧小白蚁",
       "type": false,
-      "distribution": "中国云南、勐捧）",
+      "distribution": "中国云南、勐捧",
       "subspecies": null
      },
      {
       "latin": "Microtermes microthorax",
       "zh": "小胸小白蚁",
       "type": false,
-      "distribution": "(country unknown)）",
+      "distribution": "(country unknown)",
       "subspecies": null
      },
      {
       "latin": "Microtermes mokeetsei",
       "zh": "莫凯特兹小白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Microtermes mulii",
       "zh": "穆利小白蚁",
       "type": false,
-      "distribution": "肯尼亚）",
+      "distribution": "肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes mycophagus",
       "zh": "食菌小白蚁",
       "type": false,
-      "distribution": "南亚、印度、巴基斯坦、伊朗）",
+      "distribution": "南亚、印度、巴基斯坦、伊朗",
       "subspecies": null
      },
      {
       "latin": "Microtermes najdensis",
       "zh": "内志小白蚁",
       "type": false,
-      "distribution": "阿拉伯半岛、沙特阿拉伯、也门、苏丹）",
+      "distribution": "阿拉伯半岛、沙特阿拉伯、也门、苏丹",
       "subspecies": null
      },
      {
       "latin": "Microtermes neghelliensis",
       "zh": "内格豪尔小白蚁",
       "type": false,
-      "distribution": "埃塞俄比亚）",
+      "distribution": "埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes obesi",
       "zh": "奥贝斯小白蚁",
       "type": false,
-      "distribution": "南亚、东南亚、印度、巴基斯坦、泰国、柬埔寨、伊朗）",
+      "distribution": "南亚、东南亚、印度、巴基斯坦、泰国、柬埔寨、伊朗",
       "subspecies": null
      },
      {
       "latin": "Microtermes occidentalis",
       "zh": "西部小白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Microtermes osborni",
       "zh": "奥斯本小白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、埃塞俄比亚）",
+      "distribution": "安哥拉、刚果民主共和国、埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes pallidiventris",
       "zh": "白腹小白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Microtermes pamelae",
       "zh": "帕梅拉小白蚁",
       "type": false,
-      "distribution": "赞比亚）",
+      "distribution": "赞比亚",
       "subspecies": null
      },
      {
       "latin": "Microtermes problematicus",
       "zh": "问题小白蚁",
       "type": false,
-      "distribution": "塞内加尔）",
+      "distribution": "塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Microtermes pusillus",
       "zh": "极小小白蚁",
       "type": false,
-      "distribution": "西非、喀麦隆）",
+      "distribution": "西非、喀麦隆",
       "subspecies": null
      },
      {
       "latin": "Microtermes redenianus",
       "zh": "雷登小白蚁",
       "type": false,
-      "distribution": "东非、坦桑尼亚、乍得、刚果民主共和国）",
+      "distribution": "东非、坦桑尼亚、乍得、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Microtermes sakalava",
       "zh": "萨卡拉瓦小白蚁",
       "type": false,
-      "distribution": "马达加斯加）",
+      "distribution": "马达加斯加",
       "subspecies": null
      },
      {
       "latin": "Microtermes sindensis",
       "zh": "信德小白蚁",
       "type": false,
-      "distribution": "南亚、巴基斯坦信德）",
+      "distribution": "南亚、巴基斯坦信德",
       "subspecies": null
      },
      {
       "latin": "Microtermes sjostedti",
       "zh": "舍斯泰特小白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Microtermes somaliensis",
       "zh": "索马里小白蚁",
       "type": false,
-      "distribution": "东非、索马里）",
+      "distribution": "东非、索马里",
       "subspecies": null
      },
      {
       "latin": "Microtermes subhyalinus",
       "zh": "近明小白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、塞内加尔、冈比亚、布基纳法索、沙特阿拉伯、也门）",
+      "distribution": "西非、科特迪瓦、塞内加尔、冈比亚、布基纳法索、沙特阿拉伯、也门",
       "subspecies": null
      },
      {
       "latin": "Microtermes thoracalis",
       "zh": "胸突小白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、苏丹）",
+      "distribution": "西非、科特迪瓦、苏丹",
       "subspecies": null
      },
      {
       "latin": "Microtermes toumodiensis",
       "zh": "图莫迪小白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、塞内加尔、多哥）",
+      "distribution": "西非、科特迪瓦、塞内加尔、多哥",
       "subspecies": null
      },
      {
       "latin": "Microtermes tragardhi",
       "zh": "特雷高小白蚁",
       "type": false,
-      "distribution": "旧热带界、东非、非洲南部）",
+      "distribution": "旧热带界、东非、非洲南部",
       "subspecies": null
      },
      {
       "latin": "Microtermes tsavoensis",
       "zh": "察沃小白蚁",
       "type": false,
-      "distribution": "东非、肯尼亚察沃）",
+      "distribution": "东非、肯尼亚察沃",
       "subspecies": null
      },
      {
       "latin": "Microtermes unicolor",
       "zh": "单色小白蚁",
       "type": false,
-      "distribution": "南亚、巴基斯坦、印度）",
+      "distribution": "南亚、巴基斯坦、印度",
       "subspecies": null
      },
      {
       "latin": "Microtermes upembae",
       "zh": "乌彭巴小白蚁",
       "type": false,
-      "distribution": "中非、刚果民主共和国）",
+      "distribution": "中非、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Microtermes vadschaggae",
       "zh": "瓦斯查嘎小白蚁",
       "type": false,
-      "distribution": "东非、坦桑尼亚、塞内加尔）",
+      "distribution": "东非、坦桑尼亚、塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Microtermes yemenensis",
       "zh": "也门小白蚁",
       "type": false,
-      "distribution": "阿拉伯半岛、也门、沙特阿拉伯）",
+      "distribution": "阿拉伯半岛、也门、沙特阿拉伯",
       "subspecies": null
      }
     ]
@@ -1252,119 +1252,119 @@
       "latin": "Odontotermes acutidens",
       "zh": "尖齿土白蚁",
       "type": false,
-      "distribution": "西非科特迪瓦、加纳、几内亚）",
+      "distribution": "西非科特迪瓦、加纳、几内亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes adampurensis",
       "zh": "阿达姆普尔土白蚁",
       "type": false,
-      "distribution": "南亚印度、孟加拉国）",
+      "distribution": "南亚印度、孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes agilis",
       "zh": "快捷土白蚁",
       "type": false,
-      "distribution": "西非利比里亚）",
+      "distribution": "西非利比里亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes akengeensis",
       "zh": "阿肯土白蚁",
       "type": false,
-      "distribution": "中非刚果民主共和国）",
+      "distribution": "中非刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes amanicus",
       "zh": "阿马尼",
       "type": false,
-      "distribution": "东非坦桑尼亚、肯尼亚、桑给巴尔）",
+      "distribution": "东非坦桑尼亚、肯尼亚、桑给巴尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes amaniensis",
       "zh": "阿马尼",
       "type": false,
-      "distribution": "东非肯尼亚、坦桑尼亚）",
+      "distribution": "东非肯尼亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes anamallensis",
       "zh": "安纳马赖土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes anceps",
       "zh": "裂头土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、埃塞俄比亚、坦桑尼亚）",
+      "distribution": "东非肯尼亚、埃塞俄比亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes angustatus",
       "zh": "细窄土白蚁",
       "type": false,
-      "distribution": "非洲南部南非）",
+      "distribution": "非洲南部南非",
       "subspecies": null
      },
      {
       "latin": "Odontotermes angustignathus",
       "zh": "细颚土白蚁",
       "type": false,
-      "distribution": "东南亚越南、中国）",
+      "distribution": "东南亚越南、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes angustipennis",
       "zh": "窄翅土白蚁",
       "type": false,
-      "distribution": "旧热带界中非、东非、刚果民主共和国）",
+      "distribution": "旧热带界中非、东非、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes annulicornis",
       "zh": "环角土白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes apollo",
       "zh": "阿波罗土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、坦桑尼亚）",
+      "distribution": "东非肯尼亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes aquaticus",
       "zh": "河边土白蚁",
       "type": false,
-      "distribution": "中非喀麦隆、多哥）",
+      "distribution": "中非喀麦隆、多哥",
       "subspecies": null
      },
      {
       "latin": "Odontotermes assmuthi",
       "zh": "阿斯穆斯土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦、孟加拉国）",
+      "distribution": "南亚印度、巴基斯坦、孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes aurora",
       "zh": "黎明土白蚁",
       "type": false,
-      "distribution": "东非坦桑尼亚桑给巴尔）",
+      "distribution": "东非坦桑尼亚桑给巴尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes badius",
       "zh": "栗色土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、东非、非洲南部）",
+      "distribution": "旧热带界西非、东非、非洲南部",
       "subspecies": [
        {
         "epithet": "badius",
@@ -1380,448 +1380,448 @@
       "latin": "Odontotermes bellahunisensis",
       "zh": "贝拉胡尼斯土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes bequaerti",
       "zh": "贝奎特土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、中非、刚果民主共和国、加纳）",
+      "distribution": "旧热带界西非、中非、刚果民主共和国、加纳",
       "subspecies": null
      },
      {
       "latin": "Odontotermes bhagwatii",
       "zh": "巴格瓦蒂土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes billitoni",
       "zh": "利顿土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚、马来西亚）",
+      "distribution": "东南亚印度尼西亚、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes boetonensis",
       "zh": "博顿土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes bogoriensis",
       "zh": "茂物土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes bomaensis",
       "zh": "博马土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes boranicus",
       "zh": "博拉娜土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、埃塞俄比亚、坦桑尼亚）",
+      "distribution": "东非肯尼亚、埃塞俄比亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes bottegoanus",
       "zh": "博泰戈土白蚁",
       "type": false,
-      "distribution": "东非埃塞俄比亚）",
+      "distribution": "东非埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes boveni",
       "zh": "博韦土白蚁",
       "type": false,
-      "distribution": "南亚印度、尼泊尔）",
+      "distribution": "南亚印度、尼泊尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes brunneus",
       "zh": "棕色土白蚁",
       "type": false,
-      "distribution": "南亚印度、未注明）",
+      "distribution": "南亚印度、未注明",
       "subspecies": null
      },
      {
       "latin": "Odontotermes buchholzi",
       "zh": "巴克霍尔兹土白蚁",
       "type": false,
-      "distribution": "中非加蓬、喀麦隆、刚果民主共和国、赤道几内亚、利比里亚）",
+      "distribution": "中非加蓬、喀麦隆、刚果民主共和国、赤道几内亚、利比里亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes butteli",
       "zh": "巴特土白蚁",
       "type": false,
-      "distribution": "东南亚马来西亚、印度尼西亚）",
+      "distribution": "东南亚马来西亚、印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes caffrariae",
       "zh": "卡夫拉尼亚土白蚁",
       "type": false,
-      "distribution": "非洲南部南非、坦桑尼亚）",
+      "distribution": "非洲南部南非、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes capensis",
       "zh": "好望角土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、非洲南部、南非）",
+      "distribution": "旧热带界西非、非洲南部、南非",
       "subspecies": null
      },
      {
       "latin": "Odontotermes celebensis",
       "zh": "西里伯斯土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes ceylonicus",
       "zh": "锡兰土白蚁",
       "type": false,
-      "distribution": "南亚斯里兰卡、印度）",
+      "distribution": "南亚斯里兰卡、印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes chicapanensis",
       "zh": "希卡帕土白蚁",
       "type": false,
-      "distribution": "非洲南部安哥拉）",
+      "distribution": "非洲南部安哥拉",
       "subspecies": null
      },
      {
       "latin": "Odontotermes classicus",
       "zh": "无产土白蚁",
       "type": false,
-      "distribution": "东非厄立特里亚、埃塞俄比亚、索马里、苏丹）",
+      "distribution": "东非厄立特里亚、埃塞俄比亚、索马里、苏丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes conignathus",
       "zh": "锥颚土白蚁",
       "type": false,
-      "distribution": "中国云南）",
+      "distribution": "中国云南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes culturarum",
       "zh": "栽培土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、东非、刚果民主共和国、肯尼亚、坦桑尼亚、乌干达）",
+      "distribution": "旧热带界西非、东非、刚果民主共和国、肯尼亚、坦桑尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Odontotermes denticulatus",
       "zh": "齿小土白蚁",
       "type": false,
-      "distribution": "印度尼西亚、马来西亚、新加坡）",
+      "distribution": "印度尼西亚、马来西亚、新加坡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes diana",
       "zh": "黛安娜土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes dimorphus",
       "zh": "双工土白蚁",
       "type": false,
-      "distribution": "广西（贺县滑水冲自然保护区）、中国）",
+      "distribution": "广西（贺县滑水冲自然保护区）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes distans",
       "zh": "遥远土白蚁",
       "type": false,
-      "distribution": "印度、尼泊尔）",
+      "distribution": "印度、尼泊尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes dives",
       "zh": "多产土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚、菲律宾、马来西亚）",
+      "distribution": "东南亚印度尼西亚、菲律宾、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes djampeensis",
       "zh": "达扎丕土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚、泰国）",
+      "distribution": "东南亚印度尼西亚、泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes ebeni",
       "zh": "埃本土白蚁",
       "type": false,
-      "distribution": "东非埃塞俄比亚、索马里）",
+      "distribution": "东非埃塞俄比亚、索马里",
       "subspecies": null
      },
      {
       "latin": "Odontotermes egregius",
       "zh": "卓越土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚）",
+      "distribution": "东非肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes elgonensis",
       "zh": "埃尔贡土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚）",
+      "distribution": "东非肯尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes erodens",
       "zh": "缺齿土白蚁",
       "type": false,
-      "distribution": "分布待核）",
+      "distribution": "分布待核",
       "subspecies": null
      },
      {
       "latin": "Odontotermes erraticus",
       "zh": "游荡土白蚁",
       "type": false,
-      "distribution": "西非塞内加尔、多哥、冈比亚、尼日尔）",
+      "distribution": "西非塞内加尔、多哥、冈比亚、尼日尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes escherichi",
       "zh": "埃舍里希土白蚁",
       "type": false,
-      "distribution": "南亚、东南亚、东亚印度、斯里兰卡、马来西亚、中国）",
+      "distribution": "南亚、东南亚、东亚印度、斯里兰卡、马来西亚、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes fallax",
       "zh": "欺诈土白蚁",
       "type": false,
-      "distribution": "东非坦桑尼亚、肯尼亚、埃塞俄比亚）",
+      "distribution": "东非坦桑尼亚、肯尼亚、埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes feae",
       "zh": "菲氏土白蚁",
       "type": false,
-      "distribution": "南亚、东南亚印度、泰国、越南、孟加拉国、不丹、缅甸、尼泊尔、斯里兰卡）",
+      "distribution": "南亚、东南亚印度、泰国、越南、孟加拉国、不丹、缅甸、尼泊尔、斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes feaeoides",
       "zh": "似菲氏土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes fidens",
       "zh": "纤齿土白蚁",
       "type": false,
-      "distribution": "喀麦隆、刚果民主共和国、加蓬、加纳、尼日利亚）",
+      "distribution": "喀麦隆、刚果民主共和国、加蓬、加纳、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes flammifrons",
       "zh": "红额土白蚁",
       "type": false,
-      "distribution": "西非布基纳法索、刚果民主共和国、马拉维、苏丹、赞比亚）",
+      "distribution": "西非布基纳法索、刚果民主共和国、马拉维、苏丹、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes fockianus",
       "zh": "福克土白蚁",
       "type": false,
-      "distribution": "纳米比亚）",
+      "distribution": "纳米比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes fontanellus",
       "zh": "小囟土白蚁",
       "type": false,
-      "distribution": "江苏（镇江）、安徽、云南、中国）",
+      "distribution": "江苏（镇江）、安徽、云南、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes formosanus",
       "zh": "黑翅土白蚁",
       "type": false,
-      "distribution": "旧热带界中国台湾、中国、中国澳门、中国香港、日本、缅甸、泰国、越南）",
+      "distribution": "旧热带界中国台湾、中国、中国澳门、中国香港、日本、缅甸、泰国、越南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes foveafrons",
       "zh": "凹额土白蚁",
       "type": false,
-      "distribution": "云南（大勐龙、橄榄坝、思茅）、中国）",
+      "distribution": "云南（大勐龙、橄榄坝、思茅）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes fulleri",
       "zh": "富勒土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、中非共和国、刚果民主共和国、乌干达）",
+      "distribution": "东非肯尼亚、中非共和国、刚果民主共和国、乌干达",
       "subspecies": null
      },
      {
       "latin": "Odontotermes fuyangensis",
       "zh": "富阳土白蚁",
       "type": false,
-      "distribution": "中国浙江）",
+      "distribution": "中国浙江",
       "subspecies": null
      },
      {
       "latin": "Odontotermes ganpati",
       "zh": "加帕蒂土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes garambae",
       "zh": "加兰巴土白蚁",
       "type": false,
-      "distribution": "西非布基纳法索、刚果民主共和国）",
+      "distribution": "西非布基纳法索、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes giriensis",
       "zh": "吉里土白蚁",
       "type": false,
-      "distribution": "南亚、东亚中国、印度、孟加拉国、不丹）",
+      "distribution": "南亚、东亚中国、印度、孟加拉国、不丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes girnarensis",
       "zh": "吉尔纳尔土白蚁",
       "type": false,
-      "distribution": "南亚印度古吉拉特）",
+      "distribution": "南亚印度古吉拉特",
       "subspecies": null
      },
      {
       "latin": "Odontotermes globicola",
       "zh": "栖球土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦、斯里兰卡）",
+      "distribution": "南亚印度、巴基斯坦、斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes grandiceps",
       "zh": "大头土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚、马来西亚）",
+      "distribution": "东南亚印度尼西亚、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes grassei",
       "zh": "格拉塞土白蚁",
       "type": false,
-      "distribution": "科特迪瓦）",
+      "distribution": "科特迪瓦",
       "subspecies": null
      },
      {
       "latin": "Odontotermes gravelyi",
       "zh": "粗颚土白蚁",
       "type": false,
-      "distribution": "中国云南、缅甸、越南）",
+      "distribution": "中国云南、缅甸、越南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes guizhouensis",
       "zh": "贵州土白蚁",
       "type": false,
-      "distribution": "中国贵州）",
+      "distribution": "中国贵州",
       "subspecies": null
      },
      {
       "latin": "Odontotermes guptai",
       "zh": "古普塔土白蚁",
       "type": false,
-      "distribution": "南亚巴基斯坦、印度、孟加拉国）",
+      "distribution": "南亚巴基斯坦、印度、孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes gurdaspurensis",
       "zh": "古达斯普尔土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦）",
+      "distribution": "南亚印度、巴基斯坦",
       "subspecies": null
      },
      {
       "latin": "Odontotermes hageni",
       "zh": "哈根土白蚁",
       "type": false,
-      "distribution": "印度尼西亚、马来西亚）",
+      "distribution": "印度尼西亚、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes hainanensis",
       "zh": "海南土白蚁",
       "type": false,
-      "distribution": "南亚、东南亚、东亚中国、越南、马来西亚、泰国、柬埔寨、印度、缅甸）",
+      "distribution": "南亚、东南亚、东亚中国、越南、马来西亚、泰国、柬埔寨、印度、缅甸",
       "subspecies": null
      },
      {
       "latin": "Odontotermes horai",
       "zh": "霍拉土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦、尼泊尔）",
+      "distribution": "南亚印度、巴基斯坦、尼泊尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes horni",
       "zh": "霍恩土白蚁",
       "type": false,
-      "distribution": "旧热带界印度、斯里兰卡、尼日利亚、不丹、柬埔寨、越南）",
+      "distribution": "旧热带界印度、斯里兰卡、尼日利亚、不丹、柬埔寨、越南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes incisus",
       "zh": "刃穴土白蚁",
       "type": false,
-      "distribution": "印度尼西亚）",
+      "distribution": "印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes indrapurensis",
       "zh": "因德拉普拉土白蚁",
       "type": false,
-      "distribution": "印度尼西亚）",
+      "distribution": "印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes interveniens",
       "zh": "中间土白蚁",
       "type": false,
-      "distribution": "非洲南部纳米比亚、安哥拉）",
+      "distribution": "非洲南部纳米比亚、安哥拉",
       "subspecies": null
      },
      {
       "latin": "Odontotermes iratus",
       "zh": "愤怒土白蚁",
       "type": false,
-      "distribution": "加蓬）",
+      "distribution": "加蓬",
       "subspecies": null
      },
      {
       "latin": "Odontotermes javanicus",
       "zh": "爪哇土白蚁",
       "type": false,
-      "distribution": "东南亚、东亚马来西亚、印度尼西亚、泰国、中国）",
+      "distribution": "东南亚、东亚马来西亚、印度尼西亚、泰国、中国",
       "subspecies": [
        {
         "epithet": "javanicus",
@@ -1837,70 +1837,70 @@
       "latin": "Odontotermes kapuri",
       "zh": "卡普尔土白蚁",
       "type": false,
-      "distribution": "南亚印度、不丹）",
+      "distribution": "南亚印度、不丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes karawajevi",
       "zh": "卡拉瓦土白蚁",
       "type": false,
-      "distribution": "印度尼西亚）",
+      "distribution": "印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes karnyi",
       "zh": "卡尼土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes kepongensis",
       "zh": "甲洞土白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes kibarensis",
       "zh": "基巴拉土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、安哥拉、苏丹、坦桑尼亚、乌干达）",
+      "distribution": "东非肯尼亚、安哥拉、苏丹、坦桑尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Odontotermes kistneri",
       "zh": "基斯特纳土白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes koenigi",
       "zh": "柯尼希土白蚁",
       "type": false,
-      "distribution": "斯里兰卡）",
+      "distribution": "斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes kulkarni",
       "zh": "库尔坎土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes lacustris",
       "zh": "湖泊土白蚁",
       "type": false,
-      "distribution": "旧热带界东非、非洲南部、马拉维、赞比亚）",
+      "distribution": "旧热带界东非、非洲南部、马拉维、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes latericius",
       "zh": "似砖土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、东非、非洲南部）",
+      "distribution": "旧热带界西非、东非、非洲南部",
       "subspecies": [
        {
         "epithet": "latericius",
@@ -1916,203 +1916,203 @@
       "latin": "Odontotermes latialatus",
       "zh": "宽翅土白蚁",
       "type": false,
-      "distribution": "中非刚果民主共和国）",
+      "distribution": "中非刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes latigula",
       "zh": "宽颏土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes latiguloides",
       "zh": "拟宽喉土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes latissimus",
       "zh": "极宽土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes lautus",
       "zh": "雅致土白蚁",
       "type": false,
-      "distribution": "南非）",
+      "distribution": "南非",
       "subspecies": null
      },
      {
       "latin": "Odontotermes lobintactus",
       "zh": "叶蛩土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes longignathus",
       "zh": "长颚土白蚁",
       "type": false,
-      "distribution": "南亚、东南亚、新热带界中南美洲印度、孟加拉国、马来西亚、泰国）",
+      "distribution": "南亚、东南亚、新热带界中南美洲印度、孟加拉国、马来西亚、泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes longigula",
       "zh": "长喉土白蚁",
       "type": false,
-      "distribution": "西非塞内加尔）",
+      "distribution": "西非塞内加尔",
       "subspecies": null
      },
      {
       "latin": "Odontotermes longzhouensis",
       "zh": "龙州土白蚁",
       "type": false,
-      "distribution": "广西（上林）、中国）",
+      "distribution": "广西（上林）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes luoyangensis",
       "zh": "洛阳土白蚁",
       "type": false,
-      "distribution": "中国河南）",
+      "distribution": "中国河南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes maesodensis",
       "zh": "湄索德土白蚁",
       "type": false,
-      "distribution": "泰国、越南）",
+      "distribution": "泰国、越南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes magdalenae",
       "zh": "马格达莱纳土白蚁",
       "type": false,
-      "distribution": "西非尼日利亚、布基纳法索、喀麦隆、中非共和国、乍得、几内亚、苏丹）",
+      "distribution": "西非尼日利亚、布基纳法索、喀麦隆、中非共和国、乍得、几内亚、苏丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes makassarensis",
       "zh": "望加锡土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes malabaricus",
       "zh": "马拉巴尔土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes malaccensis",
       "zh": "马六甲土白蚁",
       "type": false,
-      "distribution": "东南亚马来西亚）",
+      "distribution": "东南亚马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes maledictus",
       "zh": "可恨土白蚁",
       "type": false,
-      "distribution": "埃塞俄比亚）",
+      "distribution": "埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes malelaensis",
       "zh": "马雷拉土白蚁",
       "type": false,
-      "distribution": "中非刚果民主共和国）",
+      "distribution": "中非刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes maliki",
       "zh": "马利克土白蚁",
       "type": false,
-      "distribution": "孟加拉国）",
+      "distribution": "孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes matangensis",
       "zh": "马登土白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes maximus",
       "zh": "最大土白蚁",
       "type": false,
-      "distribution": "东南亚印度尼西亚）",
+      "distribution": "东南亚印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes mediocris",
       "zh": "温和土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、埃塞俄比亚、马拉维、坦桑尼亚）",
+      "distribution": "东非肯尼亚、埃塞俄比亚、马拉维、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes menadoensis",
       "zh": "万鸦东土白蚁",
       "type": false,
-      "distribution": "印度尼西亚）",
+      "distribution": "印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes meridionalis",
       "zh": "南方土白蚁",
       "type": false,
-      "distribution": "中国）",
+      "distribution": "中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes microdentatus",
       "zh": "小齿土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes microps",
       "zh": "小眼土白蚁",
       "type": false,
-      "distribution": "东非坦桑尼亚）",
+      "distribution": "东非坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes minutus",
       "zh": "小土白蚁",
       "type": false,
-      "distribution": "东亚中国、印度尼西亚、马来西亚）",
+      "distribution": "东亚中国、印度尼西亚、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes mirganjensis",
       "zh": "米尔甘杰土白蚁",
       "type": false,
-      "distribution": "孟加拉国、印度）",
+      "distribution": "孟加拉国、印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes mohandi",
       "zh": "莫汉德土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes monodon",
       "zh": "单齿土白蚁",
       "type": false,
-      "distribution": "肯尼亚、乌干达、坦桑尼亚、马拉维、莫桑比克、南非、刚果民主共和国）",
+      "distribution": "肯尼亚、乌干达、坦桑尼亚、马拉维、莫桑比克、南非、刚果民主共和国",
       "subspecies": [
        {
         "epithet": "lujanus",
@@ -2128,378 +2128,378 @@
       "latin": "Odontotermes montanus",
       "zh": "高山土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、埃塞俄比亚）",
+      "distribution": "东非肯尼亚、埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes mukimbunginis",
       "zh": "穆金本古土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、中非、刚果民主共和国）",
+      "distribution": "旧热带界西非、中非、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes neodenticulatus",
       "zh": "新齿小土白蚁",
       "type": false,
-      "distribution": "印度尼西亚、马来西亚）",
+      "distribution": "印度尼西亚、马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes nilensis",
       "zh": "尼罗土白蚁",
       "type": false,
-      "distribution": "西非塞内加尔、刚果民主共和国、苏丹）",
+      "distribution": "西非塞内加尔、刚果民主共和国、苏丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes nolaensis",
       "zh": "诺拉土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、安哥拉、喀麦隆、中非共和国、乍得、刚果民主共和国、塞内加尔、乌干达）",
+      "distribution": "东非肯尼亚、安哥拉、喀麦隆、中非共和国、乍得、刚果民主共和国、塞内加尔、乌干达",
       "subspecies": null
      },
      {
       "latin": "Odontotermes obesus",
       "zh": "胖身土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦、尼泊尔、孟加拉国、不丹、中国、缅甸）",
+      "distribution": "南亚印度、巴基斯坦、尼泊尔、孟加拉国、不丹、中国、缅甸",
       "subspecies": null
      },
      {
       "latin": "Odontotermes oblongatus",
       "zh": "矩形土白蚁",
       "type": false,
-      "distribution": "东南亚马来西亚、泰国、印度、印度尼西亚、新加坡）",
+      "distribution": "东南亚马来西亚、泰国、印度、印度尼西亚、新加坡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes okahandjae",
       "zh": "奥卡汉贾土白蚁",
       "type": false,
-      "distribution": "非洲南部纳米比亚）",
+      "distribution": "非洲南部纳米比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes ostentans",
       "zh": "显形土白蚁",
       "type": false,
-      "distribution": "圣多美和普林西比）",
+      "distribution": "圣多美和普林西比",
       "subspecies": null
      },
      {
       "latin": "Odontotermes palmquisti",
       "zh": "帕姆奎斯特土白蚁",
       "type": false,
-      "distribution": "东非坦桑尼亚、肯尼亚、马拉维）",
+      "distribution": "东非坦桑尼亚、肯尼亚、马拉维",
       "subspecies": null
      },
      {
       "latin": "Odontotermes paradenticulatus",
       "zh": "似齿小土白蚁",
       "type": false,
-      "distribution": "菲律宾）",
+      "distribution": "菲律宾",
       "subspecies": null
      },
      {
       "latin": "Odontotermes paralatigula",
       "zh": "近宽颏土白蚁",
       "type": false,
-      "distribution": "南亚印度、缅甸）",
+      "distribution": "南亚印度、缅甸",
       "subspecies": null
      },
      {
       "latin": "Odontotermes paralatiguloides",
       "zh": "近似宽颏土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes parallelus",
       "zh": "平行土白蚁",
       "type": false,
-      "distribution": "广东（大埔）、海南（五指山）、中国）",
+      "distribution": "广东（大埔）、海南（五指山）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes paraoblongatus",
       "zh": "似矩形土白蚁",
       "type": false,
-      "distribution": "东南亚马来西亚、泰国）",
+      "distribution": "东南亚马来西亚、泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes parvidens",
       "zh": "微齿土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦、孟加拉国、不丹、缅甸）",
+      "distribution": "南亚印度、巴基斯坦、孟加拉国、不丹、缅甸",
       "subspecies": null
      },
      {
       "latin": "Odontotermes patruus",
       "zh": "伯伯土白蚁",
       "type": false,
-      "distribution": "中非刚果民主共和国、肯尼亚、卢旺达、乌干达）",
+      "distribution": "中非刚果民主共和国、肯尼亚、卢旺达、乌干达",
       "subspecies": null
      },
      {
       "latin": "Odontotermes pauperans",
       "zh": "小贫土白蚁",
       "type": false,
-      "distribution": "西非科特迪瓦、塞内加尔、尼日利亚、冈比亚、加纳、几内亚、几内亚比绍）",
+      "distribution": "西非科特迪瓦、塞内加尔、尼日利亚、冈比亚、加纳、几内亚、几内亚比绍",
       "subspecies": null
      },
      {
       "latin": "Odontotermes peshawarensis",
       "zh": "白沙瓦土白蚁",
       "type": false,
-      "distribution": "巴基斯坦）",
+      "distribution": "巴基斯坦",
       "subspecies": null
      },
      {
       "latin": "Odontotermes planiceps",
       "zh": "扁头土白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国）",
+      "distribution": "安哥拉、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes praevalens",
       "zh": "首要土白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes preliminaris",
       "zh": "初始土白蚁",
       "type": false,
-      "distribution": "南亚斯里兰卡）",
+      "distribution": "南亚斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes pretoriensis",
       "zh": "比勒陀利亚土白蚁",
       "type": false,
-      "distribution": "非洲南部南非）",
+      "distribution": "非洲南部南非",
       "subspecies": null
      },
      {
       "latin": "Odontotermes prewensis",
       "zh": "普鲁士土白蚁",
       "type": false,
-      "distribution": "泰国）",
+      "distribution": "泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes prodives",
       "zh": "似多产土白蚁",
       "type": false,
-      "distribution": "马来西亚、泰国）",
+      "distribution": "马来西亚、泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes profeae",
       "zh": "前菲氏土白蚁",
       "type": false,
-      "distribution": "南亚印度、巴基斯坦、孟加拉国）",
+      "distribution": "南亚印度、巴基斯坦、孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes proformosanus",
       "zh": "原黑翅土白蚁",
       "type": false,
-      "distribution": "东南亚柬埔寨、越南、孟加拉国、印度、泰国）",
+      "distribution": "东南亚柬埔寨、越南、孟加拉国、印度、泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes prolatigula",
       "zh": "前宽颏土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes proximus",
       "zh": "最新土白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes pujiangensis",
       "zh": "浦江土白蚁",
       "type": false,
-      "distribution": "中国浙江）",
+      "distribution": "中国浙江",
       "subspecies": null
      },
      {
       "latin": "Odontotermes pyriceps",
       "zh": "梨头土白蚁",
       "type": false,
-      "distribution": "海南（海口琼海）、中国）",
+      "distribution": "海南（海口琼海）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes quinquedentatus",
       "zh": "五齿土白蚁",
       "type": false,
-      "distribution": "贵州（兴义）、中国）",
+      "distribution": "贵州（兴义）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes ramulosus",
       "zh": "支脉土白蚁",
       "type": false,
-      "distribution": "东非坦桑尼亚）",
+      "distribution": "东非坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes rectanguloides",
       "zh": "似直角土白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、埃塞俄比亚、科特迪瓦、肯尼亚、坦桑尼亚、乌干达）",
+      "distribution": "安哥拉、刚果民主共和国、埃塞俄比亚、科特迪瓦、肯尼亚、坦桑尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Odontotermes redemanni",
       "zh": "雷德曼土白蚁",
       "type": false,
-      "distribution": "南亚印度、斯里兰卡、孟加拉国）",
+      "distribution": "南亚印度、斯里兰卡、孟加拉国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes rehobothensis",
       "zh": "雷霍博特土白蚁",
       "type": false,
-      "distribution": "纳米比亚）",
+      "distribution": "纳米比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes robustus",
       "zh": "粗壮土白蚁",
       "type": false,
-      "distribution": "刚果）",
+      "distribution": "刚果",
       "subspecies": null
      },
      {
       "latin": "Odontotermes rothschildianus",
       "zh": "罗思柴尔德土白蚁",
       "type": false,
-      "distribution": "埃塞俄比亚）",
+      "distribution": "埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes salebrifrons",
       "zh": "糙额土白蚁",
       "type": false,
-      "distribution": "中非刚果民主共和国、东非乌干达、肯尼亚、坦桑尼亚、索马里）",
+      "distribution": "中非刚果民主共和国、东非乌干达、肯尼亚、坦桑尼亚、索马里",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sarawakensis",
       "zh": "砂拉越土白蚁",
       "type": false,
-      "distribution": "东南亚马来西亚、印度尼西亚、泰国）",
+      "distribution": "东南亚马来西亚、印度尼西亚、泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sasangirensis",
       "zh": "萨桑吉尔土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes schmitzi",
       "zh": "施米茨土白蚁",
       "type": false,
-      "distribution": "西非贝宁、刚果民主共和国、苏丹）",
+      "distribution": "西非贝宁、刚果民主共和国、苏丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes scrutor",
       "zh": "探索土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sellathorax",
       "zh": "鞍胸土白蚁",
       "type": false,
-      "distribution": "四川（璧山）、中国）",
+      "distribution": "四川（璧山）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes shixingensis",
       "zh": "始兴土白蚁",
       "type": false,
-      "distribution": "中国广东）",
+      "distribution": "中国广东",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sikkimensis",
       "zh": "锡金土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes silamensis",
       "zh": "锡拉姆土白蚁",
       "type": false,
-      "distribution": "马来西亚）",
+      "distribution": "马来西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes silvaticus",
       "zh": "森林土白蚁",
       "type": false,
-      "distribution": "西非布基纳法索、喀麦隆）",
+      "distribution": "西非布基纳法索、喀麦隆",
       "subspecies": null
      },
      {
       "latin": "Odontotermes silvestrii",
       "zh": "西尔韦斯特里土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes simalurensis",
       "zh": "锡马卢土白蚁",
       "type": false,
-      "distribution": "印度尼西亚）",
+      "distribution": "印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes simplicidens",
       "zh": "简齿土白蚁",
       "type": false,
-      "distribution": "中非喀麦隆、加蓬）",
+      "distribution": "中非喀麦隆、加蓬",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sinabangensis",
       "zh": "锡纳邦土白蚁",
       "type": false,
-      "distribution": "印度尼西亚）",
+      "distribution": "印度尼西亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes singsiti",
       "zh": "辛格斯特土白蚁",
       "type": false,
-      "distribution": "印度）",
+      "distribution": "印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sjostedti",
       "zh": "舍斯泰特土白蚁",
       "type": false,
-      "distribution": "中非刚果民主共和国）",
+      "distribution": "中非刚果民主共和国",
       "subspecies": [
        {
         "epithet": "evansi",
@@ -2515,168 +2515,168 @@
       "latin": "Odontotermes smeathmani",
       "zh": "斯米瑟曼土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、东非、刚果民主共和国、厄立特里亚、埃塞俄比亚、科特迪瓦、尼日利亚、塞内加尔、塞拉利昂、南非、苏丹）",
+      "distribution": "旧热带界西非、东非、刚果民主共和国、厄立特里亚、埃塞俄比亚、科特迪瓦、尼日利亚、塞内加尔、塞拉利昂、南非、苏丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes snyderi",
       "zh": "斯奈德土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes somaliensis",
       "zh": "索马里土白蚁",
       "type": false,
-      "distribution": "东非索马里、埃塞俄比亚）",
+      "distribution": "东非索马里、埃塞俄比亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes stanleyvillensis",
       "zh": "斯坦利维尔土白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes stercorivorus",
       "zh": "食粪土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、坦桑尼亚）",
+      "distribution": "东非肯尼亚、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes sudanensis",
       "zh": "苏丹土白蚁",
       "type": false,
-      "distribution": "旧热带界西非、东非、加纳、几内亚、科特迪瓦、尼日利亚、塞内加尔、苏丹）",
+      "distribution": "旧热带界西非、东非、加纳、几内亚、科特迪瓦、尼日利亚、塞内加尔、苏丹",
       "subspecies": null
      },
      {
       "latin": "Odontotermes takensis",
       "zh": "来兴土白蚁",
       "type": false,
-      "distribution": "东南亚泰国）",
+      "distribution": "东南亚泰国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes tanganicus",
       "zh": "坦噶土白蚁",
       "type": false,
-      "distribution": "旧热带界东非、非洲南部、肯尼亚、马拉维、坦桑尼亚）",
+      "distribution": "旧热带界东非、非洲南部、肯尼亚、马拉维、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes taprobanes",
       "zh": "塔普拉班土白蚁",
       "type": false,
-      "distribution": "南亚斯里兰卡）",
+      "distribution": "南亚斯里兰卡",
       "subspecies": null
      },
      {
       "latin": "Odontotermes terricola",
       "zh": "地栖土白蚁",
       "type": false,
-      "distribution": "中非喀麦隆、东非坦桑尼亚、刚果民主共和国、加蓬）",
+      "distribution": "中非喀麦隆、东非坦桑尼亚、刚果民主共和国、加蓬",
       "subspecies": null
      },
      {
       "latin": "Odontotermes tragardhi",
       "zh": "特雷高土白蚁",
       "type": false,
-      "distribution": "非洲南部南非）",
+      "distribution": "非洲南部南非",
       "subspecies": null
      },
      {
       "latin": "Odontotermes transvaalensis",
       "zh": "德兰士瓦土白蚁",
       "type": false,
-      "distribution": "非洲南部南非、博茨瓦纳、埃塞俄比亚、肯尼亚、坦桑尼亚、乌干达、津巴布韦）",
+      "distribution": "非洲南部南非、博茨瓦纳、埃塞俄比亚、肯尼亚、坦桑尼亚、乌干达、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Odontotermes vaishno",
       "zh": "瓦伊什诺土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes vulgaris",
       "zh": "常见土白蚁",
       "type": true,
-      "distribution": "旧热带界西非、东非、非洲南部、安哥拉、纳米比亚、南非、斯威士兰、津巴布韦）",
+      "distribution": "旧热带界西非、东非、非洲南部、安哥拉、纳米比亚、南非、斯威士兰、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Odontotermes wallonensis",
       "zh": "瓦隆土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes wuzhishanensis",
       "zh": "五指山土白蚁",
       "type": false,
-      "distribution": "中国海南）",
+      "distribution": "中国海南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes yadevi",
       "zh": "亚德维土白蚁",
       "type": false,
-      "distribution": "南亚印度）",
+      "distribution": "南亚印度",
       "subspecies": null
      },
      {
       "latin": "Odontotermes yaoi",
       "zh": "姚氏土白蚁",
       "type": false,
-      "distribution": "中国福建）",
+      "distribution": "中国福建",
       "subspecies": null
      },
      {
       "latin": "Odontotermes yarangensis",
       "zh": "亚让土白蚁",
       "type": false,
-      "distribution": "西藏（墨脱亚让1000m）、中国）",
+      "distribution": "西藏（墨脱亚让1000m）、中国",
       "subspecies": null
      },
      {
       "latin": "Odontotermes yunnanensis",
       "zh": "云南土白蚁",
       "type": false,
-      "distribution": "中国云南、越南）",
+      "distribution": "中国云南、越南",
       "subspecies": null
      },
      {
       "latin": "Odontotermes zambesiensis",
       "zh": "赞比西土白蚁",
       "type": false,
-      "distribution": "东非肯尼亚、马拉维、莫桑比克、坦桑尼亚）",
+      "distribution": "东非肯尼亚、马拉维、莫桑比克、坦桑尼亚",
       "subspecies": null
      },
      {
       "latin": "Odontotermes ziyangensis",
       "zh": "资阳土白蚁",
       "type": false,
-      "distribution": "中国陕西）",
+      "distribution": "中国陕西",
       "subspecies": null
      },
      {
       "latin": "Odontotermes zulunatalensis",
       "zh": "祖鲁纳塔尔土白蚁",
       "type": false,
-      "distribution": "非洲南部南非）",
+      "distribution": "非洲南部南非",
       "subspecies": null
      },
      {
       "latin": "Odontotermes zunyiensis",
       "zh": "遵义土白蚁",
       "type": false,
-      "distribution": "中国贵州）",
+      "distribution": "中国贵州",
       "subspecies": null
      }
     ]
@@ -2692,35 +2692,35 @@
       "latin": "Protermes hirticeps",
       "zh": "毛头前白蚁",
       "type": false,
-      "distribution": "东非、乌干达、刚果、刚果民主共和国、尼日利亚）",
+      "distribution": "东非、乌干达、刚果、刚果民主共和国、尼日利亚",
       "subspecies": null
      },
      {
       "latin": "Protermes minimus",
       "zh": "最小前白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、几内亚、尼日利亚、赞比亚）",
+      "distribution": "安哥拉、刚果民主共和国、几内亚、尼日利亚、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Protermes minutus",
       "zh": "小前白蚁",
       "type": false,
-      "distribution": "西非、科特迪瓦、安哥拉、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、塞拉利昂、赞比亚）",
+      "distribution": "西非、科特迪瓦、安哥拉、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、塞拉利昂、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Protermes mwekerae",
       "zh": "穆维盖拉前白蚁",
       "type": false,
-      "distribution": "安哥拉、赞比亚）",
+      "distribution": "安哥拉、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Protermes prorepens",
       "zh": "前匍前白蚁",
       "type": true,
-      "distribution": "安哥拉、喀麦隆、中非共和国、刚果民主共和国、加蓬、科特迪瓦、利比里亚、尼日利亚、塞拉利昂）",
+      "distribution": "安哥拉、喀麦隆、中非共和国、刚果民主共和国、加蓬、科特迪瓦、利比里亚、尼日利亚、塞拉利昂",
       "subspecies": null
      }
     ]
@@ -2736,28 +2736,28 @@
       "latin": "Pseudacanthotermes curticeps",
       "zh": "短头伪刺白蚁",
       "type": false,
-      "distribution": "刚果民主共和国）",
+      "distribution": "刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Pseudacanthotermes grandiceps",
       "zh": "大头伪刺白蚁",
       "type": false,
-      "distribution": "肯尼亚、坦桑尼亚、乌干达）",
+      "distribution": "肯尼亚、坦桑尼亚、乌干达",
       "subspecies": null
      },
      {
       "latin": "Pseudacanthotermes harrisensis",
       "zh": "哈里斯伪刺白蚁",
       "type": false,
-      "distribution": "苏丹）",
+      "distribution": "苏丹",
       "subspecies": null
      },
      {
       "latin": "Pseudacanthotermes militaris",
       "zh": "好斗伪刺白蚁",
       "type": true,
-      "distribution": "旧热带界、西非、中非、东非、非洲南部）",
+      "distribution": "旧热带界、西非、中非、东非、非洲南部",
       "subspecies": [
        {
         "epithet": "laticeps",
@@ -2773,14 +2773,14 @@
       "latin": "Pseudacanthotermes piceus",
       "zh": "柏油伪刺白蚁",
       "type": false,
-      "distribution": "乌干达、津巴布韦）",
+      "distribution": "乌干达、津巴布韦",
       "subspecies": null
      },
      {
       "latin": "Pseudacanthotermes spiniger",
       "zh": "具刺伪刺白蚁",
       "type": false,
-      "distribution": "旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚）",
+      "distribution": "旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚",
       "subspecies": null
      }
     ]
@@ -2796,21 +2796,21 @@
       "latin": "Synacanthotermes heterodon",
       "zh": "异齿聚刺白蚁",
       "type": true,
-      "distribution": "中非、喀麦隆、中非共和国、刚果民主共和国）",
+      "distribution": "中非、喀麦隆、中非共和国、刚果民主共和国",
       "subspecies": null
      },
      {
       "latin": "Synacanthotermes trilobatus",
       "zh": "三裂聚刺白蚁",
       "type": false,
-      "distribution": "安哥拉、刚果民主共和国、马拉维、赞比亚）",
+      "distribution": "安哥拉、刚果民主共和国、马拉维、赞比亚",
       "subspecies": null
      },
      {
       "latin": "Synacanthotermes zanzibarensis",
       "zh": "桑给巴尔聚刺白蚁",
       "type": false,
-      "distribution": "东非、坦桑尼亚、埃塞俄比亚、肯尼亚）",
+      "distribution": "东非、坦桑尼亚、埃塞俄比亚、肯尼亚",
       "subspecies": null
      }
     ]
