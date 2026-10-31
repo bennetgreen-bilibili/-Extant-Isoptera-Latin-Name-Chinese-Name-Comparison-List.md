@@ -5,7 +5,7 @@
   "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links.json 与 _data/bsf_links.json 生成；人工核对备注见 _data/name_issue_reviews.json；匹配规则见 _tools/外部权威库与一致性核对.md。",
   "cache_dates": {
    "authority": "2026-10-31T10:44:02Z",
-   "bsf": "2026-10-31T10:45:01Z"
+   "bsf": "2026-10-31T10:59:14Z"
   },
   "counts": {
    "total": 328,

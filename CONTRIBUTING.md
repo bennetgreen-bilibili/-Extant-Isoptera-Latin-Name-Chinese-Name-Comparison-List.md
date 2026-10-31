@@ -40,6 +40,7 @@ python _tools/build_changelog.py --write
 - `--no-enrich` 是仓库内的基础版检索索引；部署时 CI 会装 pypinyin / OpenCC 再生成增强版，两者互不冲突。
 - 改动 `_species` front matter 的 `authority_synonym_*`（「依外部权威库补录的异名」）后，必须按上面的顺序重跑 `build_species_body.py`、`build_search_index.py`、`build_name_issues.py`（看板的「已补录」标记与检索命中都依赖这三步），`check_site.py` 会校验三者一致。
 - 外部 API 缓存类脚本（`build_authority_links.py`、`build_bsf_links.py`、`build_species_photos.py`、`build_references.py`、`build_occurrence_geojson.py`）**只在需要刷新缓存时**手动运行，不要无意义重跑。
+- **刷新缓存后必须重跑 `build_name_issues.py --write` 并与之一起提交**：命名差异看板会把 `_data/authority_links.json` / `_data/bsf_links.json` 的 `meta.generated` 写进 `_data/name_issues.json` 的 `cache_dates`，只提交缓存、不重跑看板，CI 的「生成产物过期」检查会变红（`data/name-issues.json` 是同一内容的公开副本，要一起提交）。
 
 ## 提交前校验
 
