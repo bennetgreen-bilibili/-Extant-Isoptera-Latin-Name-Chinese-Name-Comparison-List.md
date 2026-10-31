@@ -8,7 +8,7 @@
 | `index.md` | 首页：简介（作者/版本/引用格式）+ 页面导航 + JSON-LD |
 | `list.md` | 名录：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
 | `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
-| `papers.md` | 文献检索：按拉丁名/中文名/多个关键词检索 OpenAlex + Crossref，默认限定白蚁（等翅目）文献，自动合并次异名，显示摘要，导出 GB/T 7714 / BibTeX / RIS；三语 |
+| `papers.md` | 文献检索：按拉丁名/中文名/多个关键词检索 OpenAlex + Crossref，默认限定白蚁（等翅目）文献，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español，导出 GB/T 7714 / BibTeX / RIS；三语 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
 | `name-issues.md` | 命名差异：名录页下一级（`/list/name-issues/`），把本站名与 GBIF / Catalogue of Life / BSF 的对照结果整理成可筛选清单（名称差异 / 匹配存疑 / 覆盖缺口），支持按类型、来源、关键词筛选与每页 50 条分页，附 CSV 与公开 JSON |
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
@@ -91,6 +91,7 @@
 - 页面：`papers.md` / `en/papers.md` / `es/papers.md`，permalink `/papers/`、`/en/papers/`、`/es/papers/`；导航「文献 / Papers / Artículos」进入。
 - 检索：输入拉丁学名、中文名或**多个关键词**（空格分隔，全部匹配；短语加引号），浏览器直接查 **OpenAlex**（主）与 **Crossref**（辅，按 DOI/标题去重合并）。默认追加白蚁（等翅目 + 常见属名）范围过滤，避免关键词检索跑出无关文献；可取消「仅白蚁文献」，或勾选「全文检索」把关键词匹配扩大到全文。常见中英术语会自动互扩（分子↔molecular、系统发育↔phylogeny、肠道↔gut 等）。自动合并 `search-index.json` 里的次异名；可筛「仅中文文献 / 只看有摘要」，按相关度 / 最新 / 被引排序。
 - 摘要：OpenAlex `abstract_inverted_index` 按词位置还原；Crossref JATS 摘要去标签补缺；单条缺摘要时可点「尝试获取摘要」再查 Crossref / Semantic Scholar。**只使用开放元数据，不抓出版社页面 / PDF，也不抓知网**；摘要版权归原作者 / 出版方，页面注明来源。
+- 摘要翻译：结果卡带「目标语言（中文 / English / Español）+ 翻译摘要」控件，**纯前端直连 MyMemory**（CORS 开放、无密钥、单次 500 字符、按访客 IP 约 5000 字符/天）；按 420 字节分块翻译、已知学名以 `[[n]]` 占位保护后还原、译文写入 `localStorage` 缓存。额度用尽依次回退站点邮箱额度与 Google 非官方接口，都失败时给 Google / Bing 外部翻译链接。可在 `#papers-app` 配 `data-translate-url`（+ `data-translate-key`）改用自建 LibreTranslate 兼容服务。
 - 引用导出：每条结果可复制 GB/T 7714、BibTeX、RIS；外链预填 Google Scholar / CNKI / 万方 / 百度学术 / BHL / OpenAlex / Crossref。
 - 缓存：`build_papers.py` 按 323 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers.json`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
 - 覆盖率：本次缓存 1540 条中 1053 条有摘要（68.4%），页面会明确显示「暂无摘要」并给出 DOI / OpenAlex / 外部平台链接；不保证 100%。

@@ -74,6 +74,17 @@ zh-CN:
   papers_clear: 清空
   papers_synonym_count: "{n} 个次异名"
   papers_cache_download: 下载本站文献缓存（JSON，含摘要）
+  papers_translate: 翻译摘要
+  papers_translate_to: 译为
+  papers_translating: 翻译中…
+  papers_translate_progress: "翻译中… {n}%"
+  papers_translate_show: 显示译文
+  papers_translate_hide: 隐藏译文
+  papers_translate_same: 摘要原文已是该语言。
+  papers_translate_quota: 今日免费翻译额度已用完，可改用下方外部翻译。
+  papers_translate_error: 翻译服务暂时不可用，可改用下方外部翻译。
+  papers_translate_machine: 机器翻译，仅供参考；学名与专业术语可能不准。
+  papers_translate_fallback: 外部翻译
 
 
 en:
@@ -147,6 +158,17 @@ en:
   papers_clear: Clear
   papers_synonym_count: "{n} synonyms"
   papers_cache_download: Download the site's paper cache (JSON, includes abstracts)
+  papers_translate: Translate abstract
+  papers_translate_to: Translate to
+  papers_translating: Translating…
+  papers_translate_progress: "Translating… {n}%"
+  papers_translate_show: Show translation
+  papers_translate_hide: Hide translation
+  papers_translate_same: The abstract is already in this language.
+  papers_translate_quota: Today's free translation quota is used up; use an external translator below.
+  papers_translate_error: Translation is unavailable right now; use an external translator below.
+  papers_translate_machine: Machine translation for reference only; scientific names and technical terms may be inaccurate.
+  papers_translate_fallback: External translator
 
 
 es:
@@ -220,3 +242,14 @@ es:
   papers_clear: Limpiar
   papers_synonym_count: "{n} sinónimos"
   papers_cache_download: Descargar la caché bibliográfica del sitio (JSON, incluye resúmenes)
+  papers_translate: Traducir resumen
+  papers_translate_to: Traducir a
+  papers_translating: Traduciendo…
+  papers_translate_progress: "Traduciendo… {n}%"
+  papers_translate_show: Mostrar traducción
+  papers_translate_hide: Ocultar traducción
+  papers_translate_same: El resumen ya está en este idioma.
+  papers_translate_quota: La cuota gratuita de traducción de hoy está agotada; use un traductor externo abajo.
+  papers_translate_error: La traducción no está disponible ahora; use un traductor externo abajo.
+  papers_translate_machine: Traducción automática solo como referencia; los nombres científicos y términos técnicos pueden ser inexactos.
+  papers_translate_fallback: Traductor externo

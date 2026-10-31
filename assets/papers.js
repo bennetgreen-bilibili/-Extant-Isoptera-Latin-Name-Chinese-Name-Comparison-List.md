@@ -58,7 +58,21 @@
     abstractNote: '',
     cited: 'cited',
     clear: 'Clear',
-    synonymCount: '{n} synonyms'
+    synonymCount: '{n} synonyms',
+    translate: 'Translate abstract',
+    translateTo: 'Translate to',
+    translating: 'Translating…',
+    translateProgress: 'Translating… {n}%',
+    translateShow: 'Show translation',
+    translateHide: 'Hide translation',
+    translateSame: 'The abstract is already in this language.',
+    translateQuota: 'Today’s free translation quota is used up; use an external translator below.',
+    translateError: 'Translation is unavailable right now; use an external translator below.',
+    translateMachine: 'Machine translation for reference only; scientific names and technical terms may be inaccurate.',
+    translateFallback: 'External translator',
+    langZh: '中文',
+    langEn: 'English',
+    langEs: 'Español'
   };
 
   var T = DEFAULTS;
@@ -670,6 +684,537 @@
     return list;
   }
 
+  // ---------------------------------------------------------------- 摘要翻译
+  // 纯前端、无后端、无 API Key。默认提供方 MyMemory：CORS 开放，单次最多 500 字符，
+  // 匿名额度按访客 IP 计（约 5000 字符/天），用尽后改用站点联系邮箱的额度重试；
+  // 仍失败则退到 Google 翻译的非官方接口（部分地区网络不可达）。
+  // 也可在 #papers-app 上配置 data-translate-url（LibreTranslate 兼容服务，可选
+  // data-translate-key）优先使用，适合自建或 Cloudflare Worker 代理。
+  // 译文写入 localStorage（按 原文+目标语言 哈希缓存），重复浏览不再消耗额度。
+  var TRANSLATE_TIMEOUT = 15000;
+  var TRANSLATE_TARGETS = ['zh-CN', 'en', 'es'];
+  var TRANSLATE_LABELS = { 'zh-CN': 'langZh', 'en': 'langEn', 'es': 'langEs' };
+  var TR_CACHE_PREFIX = 'papers-tr:v1:';
+  var TR_CACHE_MAX = 40;
+  var translateUid = 0;
+
+  function translateError(code, detail) {
+    var err = new Error(text(detail) || code);
+    err.translateCode = code;
+    return err;
+  }
+  function delay(ms) {
+    return new Promise(function (resolve) { window.setTimeout(resolve, ms); });
+  }
+  function clip(value, max) {
+    var s = text(value);
+    return s.length > max ? s.slice(0, max) : s;
+  }
+  function byteLength(value) {
+    var s = text(value);
+    if (typeof window.TextEncoder === 'function') {
+      try { return new window.TextEncoder().encode(s).length; } catch (e) { /* 回退按字符数 */ }
+    }
+    return s.length;
+  }
+  function hashText(value) {
+    var s = text(value), h = 5381;
+    for (var i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) | 0;
+    return (h >>> 0).toString(36);
+  }
+  function pageTargetLang() {
+    var l = norm(app.getAttribute('data-lang') || '');
+    if (l === 'en') return 'en';
+    if (l === 'es') return 'es';
+    return 'zh-CN';
+  }
+  // 摘要语种：先看中日韩字符占比（最可靠），再看元数据 language，最后按重音符号猜西语。
+  function detectLang(sample, hint) {
+    var s = text(sample);
+    var cjk = (s.match(/[\u3400-\u9fff]/g) || []).length;
+    if (cjk >= 8 && cjk / (s.length || 1) > 0.06) return 'zh-CN';
+    // 西语特征优先于 language 元数据：英文里几乎不出现的西语功能词更有辨识度，
+    // 可避免元数据缺失或标错时把西语摘要当英语送翻译。
+    var esWords = (s.match(/\b(?:el|los|las|una|del|por|para|al|es|son|como|este|esta|entre|desde|más)\b/gi) || []).length;
+    if (esWords >= 4) return 'es';
+    var marks = (s.match(/[áéíóúüñ¿¡]/gi) || []).length;
+    if (marks >= 3) return 'es';
+    var h = norm(hint).replace(/_/g, '-');
+    if (h.indexOf('zh') === 0) return 'zh-CN';
+    if (h.indexOf('es') === 0) return 'es';
+    if (h.indexOf('en') === 0) return 'en';
+    return 'en';
+  }
+  // 机器翻译常把拉丁学名翻成无关词（Coptotermes formosanus → “台湾黄百合”）。
+  // 翻译前把已知分类群名换成 [[n]] 占位符，译完再还原；实测该接口会原样保留占位符。
+  var latinRegexCache = null, latinRegexSig = '';
+  function latinNameList() {
+    var seen = {}, out = [];
+    function add(value) {
+      var s = text(value).trim();
+      if (!s || seen[norm(s)]) return;
+      if (!/^[A-Z][a-z]{2,}(?:\s+[a-z][a-z-]+)?$/.test(s)) return;
+      seen[norm(s)] = 1;
+      out.push(s);
+    }
+    TERMITE_CONTEXT.forEach(add);
+    if (state.selected) {
+      add(state.selected.l);
+      taxonSynonyms(state.selected).forEach(add);
+    }
+    if (state.taxa) {
+      for (var i = 0; i < state.taxa.length; i++) {
+        var entry = state.taxa[i];
+        if (entry && entry.r === '属') add(entry.l);
+      }
+    }
+    out.sort(function (a, b) { return b.length - a.length; });
+    return out;
+  }
+  function latinRegex() {
+    var sig = (state.selected ? state.selected.l : '') + '|' + (state.taxa ? '1' : '0');
+    if (latinRegexSig === sig) return latinRegexCache;
+    latinRegexSig = sig;
+    var names = latinNameList();
+    latinRegexCache = names.length
+      ? new RegExp('\\b(?:' + names.map(function (n) {
+        return n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+');
+      }).join('|') + ')(?:\\s+[a-z][a-z-]+)?\\b', 'g')
+      : null;
+    return latinRegexCache;
+  }
+  function protectNames(chunk) {
+    var re = latinRegex();
+    var plain = { text: chunk, restore: function (v) { return text(v); } };
+    if (!re) return plain;
+    var map = [];
+    re.lastIndex = 0;
+    var masked = chunk.replace(re, function (match) {
+      map.push({ token: '[[' + map.length + ']]', value: match });
+      return map[map.length - 1].token;
+    });
+    if (!map.length) return plain;
+    if (byteLength(masked) > 495) return plain;   // 占位符撑破单次上限时放弃保护
+    return {
+      text: masked,
+      restore: function (translated) {
+        var out = text(translated);
+        for (var i = 0; i < map.length; i++) {
+          if (out.indexOf(map[i].token) < 0) continue;
+          out = out.split(map[i].token).join(map[i].value);
+        }
+        // 兼容接口给占位符加空格或换成全角方括号的情况
+        out = out.replace(/\[\s*\[\s*(\d+)\s*\]\s*\]/g, function (whole, idx) {
+          var item = map[Number(idx)];
+          return item ? item.value : whole;
+        });
+        return out;
+      }
+    };
+  }
+
+  // 按制表符/空白边界切块，保持每块不超过接口字节上限；超长单词硬切。
+  function splitChunks(raw, limit) {
+    var s = text(raw).replace(/\s+/g, ' ').trim();
+    if (!s) return [];
+    var cap = limit || 480;
+    if (byteLength(s) <= cap) return [s];
+    var out = [], cur = '', words = s.split(' ');
+    for (var i = 0; i < words.length; i++) {
+      var w = words[i];
+      if (!w) continue;
+      if (cur && byteLength(cur + ' ' + w) > cap) { out.push(cur); cur = ''; }
+      if (byteLength(w) > cap) {
+        var rest = w;
+        while (byteLength(rest) > cap) {
+          var piece = rest.slice(0, cap);
+          while (piece.length > 1 && byteLength(piece) > cap) piece = piece.slice(0, -1);
+          out.push(piece);
+          rest = rest.slice(piece.length);
+        }
+        cur = rest;
+      } else {
+        cur = cur ? cur + ' ' + w : w;
+      }
+    }
+    if (cur) out.push(cur);
+    return out;
+  }
+  function decodeEntities(value) {
+    var s = text(value);
+    if (!s || s.indexOf('&') < 0) return s;
+    try {
+      var doc = new DOMParser().parseFromString('<span>' + s.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</span>', 'text/html');
+      return text(doc.body && doc.body.textContent).replace(/\u00a0/g, ' ').trim();
+    } catch (e) {
+      return s.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"')
+        .replace(/&#0?39;/g, "'").replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').trim();
+    }
+  }
+  function fetchJsonTimeout(url, signal, ms) {
+    var ctrl = new AbortController();
+    var timedOut = false;
+    var timer = window.setTimeout(function () { timedOut = true; ctrl.abort(); }, ms || TRANSLATE_TIMEOUT);
+    function forward() { ctrl.abort(); }
+    if (signal) {
+      if (signal.aborted) ctrl.abort();
+      else if (signal.addEventListener) signal.addEventListener('abort', forward);
+    }
+    function cleanup() {
+      window.clearTimeout(timer);
+      if (signal && signal.removeEventListener) signal.removeEventListener('abort', forward);
+    }
+    return fetchJson(url, ctrl.signal).then(function (data) {
+      cleanup();
+      return data;
+    }, function (err) {
+      cleanup();
+      if (timedOut) throw translateError('error', 'timeout');
+      throw err;
+    });
+  }
+
+  function myMemoryRequest(chunk, from, to, withEmail) {
+    var url = 'https://api.mymemory.translated.net/get?q=' + encodeURIComponent(chunk) +
+      '&langpair=' + encodeURIComponent(from) + '%7C' + encodeURIComponent(to) + '&mt=1';
+    if (withEmail) url += '&de=' + encodeURIComponent(MAILTO);
+    return fetchJsonTimeout(url, null, TRANSLATE_TIMEOUT).then(function (data) {
+      var detail = text(data && data.responseDetails);
+      var status = text(data && data.responseStatus);
+      if (data && data.quotaFinished) throw translateError('quota', detail || 'quota finished');
+      if (status && status !== '200') {
+        var quota = /quota|limit exceeded|all available|mymemory warning/i.test(detail);
+        throw translateError(quota ? 'quota' : 'error', detail || ('status ' + status));
+      }
+      var out = decodeEntities(data && data.responseData && data.responseData.translatedText);
+      if (!out) throw translateError('error', 'empty translation');
+      return out;
+    });
+  }
+
+  function gtxRequest(chunk, from, to) {
+    var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&dt=t&sl=' +
+      encodeURIComponent(from) + '&tl=' + encodeURIComponent(to) + '&q=' + encodeURIComponent(chunk);
+    return fetchJsonTimeout(url, null, 8000).then(function (data) {
+      var segs = (Array.isArray(data) && Array.isArray(data[0])) ? data[0] : [];
+      var out = segs.map(function (seg) { return Array.isArray(seg) ? text(seg[0]) : ''; }).join('');
+      out = text(out).replace(/\s+/g, ' ').trim();
+      if (!out) throw translateError('error', 'empty translation');
+      return out;
+    });
+  }
+
+  function libreRequest(provider, chunk, from, to) {
+    var body = { q: chunk, source: from === 'zh-CN' ? 'zh' : from, target: to === 'zh-CN' ? 'zh' : to, format: 'text' };
+    if (provider.key) body.api_key = provider.key;
+    var ctrl = new AbortController();
+    var timer = window.setTimeout(function () { ctrl.abort(); }, TRANSLATE_TIMEOUT);
+    return fetch(provider.url, {
+      method: 'POST',
+      credentials: 'omit',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify(body),
+      signal: ctrl.signal
+    }).then(function (res) {
+      window.clearTimeout(timer);
+      if (!res.ok) throw translateError(res.status === 429 ? 'quota' : 'error', 'HTTP ' + res.status);
+      return res.json();
+    }).then(function (data) {
+      var out = text(data && data.translatedText).replace(/\s+/g, ' ').trim();
+      if (!out) throw translateError('error', 'empty translation');
+      return out;
+    }).catch(function (err) {
+      window.clearTimeout(timer);
+      throw err && err.translateCode ? err : translateError('error', err && err.message);
+    });
+  }
+
+  function translateProviderList() {
+    var list = [];
+    var customUrl = text(app.getAttribute('data-translate-url')).trim();
+    if (customUrl) {
+      list.push({ name: 'LibreTranslate', kind: 'libre', url: customUrl, key: text(app.getAttribute('data-translate-key')).trim(), chunk: 1200 });
+    }
+    // 420 字节留给 [[n]] 学名占位符，保证单次请求仍在接口 500 字符上限内。
+    list.push({ name: 'MyMemory', kind: 'mymemory', chunk: 420 });
+    list.push({ name: 'Google', kind: 'gtx', chunk: 1600 });
+    return list;
+  }
+
+  // 同一时间只发一个翻译请求，避免多个卡片并发触发免费接口的速率限制。
+  var translateQueue = Promise.resolve();
+  function serialiseTranslate(task) {
+    var run = translateQueue.then(function () { return task(); }, function () { return task(); });
+    translateQueue = run.then(function () { return delay(160); }, function () { return delay(160); });
+    return run;
+  }
+  function translateChunk(provider, chunk, from, to, withEmail) {
+    return serialiseTranslate(function () {
+      if (provider.kind === 'libre') return libreRequest(provider, chunk, from, to);
+      if (provider.kind === 'gtx') return gtxRequest(chunk, from, to);
+      return myMemoryRequest(chunk, from, to, withEmail);
+    });
+  }
+
+  // 中文译文块之间直接相接；英/西语或 ASCII 边界再补空格。
+  function joinChunks(parts, target) {
+    var out = '';
+    for (var i = 0; i < parts.length; i++) {
+      var part = text(parts[i]).replace(/^\s+|\s+$/g, '');
+      if (!part) continue;
+      if (!out) { out = part; continue; }
+      var needSpace = target !== 'zh-CN' || /[A-Za-z0-9)\]}.,;:]$/.test(out) || /^[A-Za-z0-9(\[{]/.test(part);
+      out += (needSpace && !/\s$/.test(out) ? ' ' : '') + part;
+    }
+    return out.replace(/\s{2,}/g, ' ').trim();
+  }
+
+  // 按提供方顺序逐个尝试；每块单独请求，进度回调 (已完成块数, 总块数)。
+  function translateText(fullText, from, to, onProgress) {
+    // 顺手加载分类群索引：拿到全部属名后，学名保护能覆盖更多属（拿不到也不影响翻译）。
+    if (!state.taxa && typeof loadTaxa === 'function') loadTaxa().catch(function () {});
+    var providers = translateProviderList();
+    var index = 0;
+    var lastError = null;
+    function attempt() {
+      if (index >= providers.length) {
+        return Promise.reject(lastError || translateError('error', 'no provider'));
+      }
+      var provider = providers[index++];
+      var chunks = splitChunks(fullText, provider.chunk);
+      if (!chunks.length) return Promise.reject(translateError('error', 'empty abstract'));
+      var parts = [], pos = 0, withEmail = false;
+      function step() {
+        if (pos >= chunks.length) {
+          return Promise.resolve({ text: joinChunks(parts, to), provider: provider.name });
+        }
+        var chunk = chunks[pos];
+        var guarded = protectNames(chunk);
+        return translateChunk(provider, guarded.text, from, to, withEmail).then(function (out) {
+          parts.push(guarded.restore(out));
+          pos += 1;
+          if (onProgress) onProgress(pos, chunks.length);
+          return step();
+        }, function (err) {
+          // 匿名额度用尽：改用站点邮箱额度重试同一块（每块只重试一次）。
+          if (err && err.translateCode === 'quota' && provider.kind === 'mymemory' && !withEmail) {
+            withEmail = true;
+            return step();
+          }
+          throw err;
+        });
+      }
+      return step().catch(function (err) {
+        lastError = err;
+        return attempt();
+      });
+    }
+    return attempt();
+  }
+
+  function translateCacheKey(p, target) {
+    return TR_CACHE_PREFIX + target + ':' + hashText(p.doi || p.title) + ':' + hashText(p.abstract);
+  }
+  function translateCacheGet(key) {
+    try {
+      var raw = window.localStorage ? window.localStorage.getItem(key) : null;
+      if (!raw) return null;
+      var obj = JSON.parse(raw);
+      return obj && obj.t ? obj : null;
+    } catch (e) { return null; }
+  }
+  function translateCachePrune() {
+    try {
+      var keys = [], i;
+      for (i = 0; i < window.localStorage.length; i++) {
+        var key = window.localStorage.key(i);
+        if (key && key.indexOf(TR_CACHE_PREFIX) === 0) keys.push(key);
+      }
+      if (keys.length <= TR_CACHE_MAX) return;
+      var rows = keys.map(function (k) {
+        var ts = 0;
+        try { ts = (JSON.parse(window.localStorage.getItem(k)) || {}).s || 0; } catch (e) { ts = 0; }
+        return { k: k, ts: ts };
+      }).sort(function (a, b) { return a.ts - b.ts; });
+      for (i = 0; i < rows.length - TR_CACHE_MAX; i++) window.localStorage.removeItem(rows[i].k);
+    } catch (e) { /* 隐私模式 / 配额异常：跳过清理 */ }
+  }
+  function translateCacheSet(key, translated, provider) {
+    try {
+      if (!window.localStorage) return;
+      window.localStorage.setItem(key, JSON.stringify({ t: translated, p: provider || '', s: Date.now() }));
+      translateCachePrune();
+    } catch (e) { /* 存不下就不缓存，不影响本次显示 */ }
+  }
+
+  function translateFallbackUrl(kind, target, sample) {
+    var chunk = clip(sample, 1800);
+    if (kind === 'google') {
+      return 'https://translate.google.com/?op=translate&sl=auto&tl=' + encodeURIComponent(target) +
+        '&text=' + encodeURIComponent(chunk);
+    }
+    var bing = target === 'zh-CN' ? 'zh-Hans' : target;
+    return 'https://www.bing.com/translator?ref=TThis&from=auto&to=' + encodeURIComponent(bing) +
+      '&text=' + encodeURIComponent(chunk);
+  }
+
+  // 摘要卡里的翻译控件：目标语言（中/英/西，与站点三语一致）+ 翻译按钮 + 译文区。
+  function renderTranslate(p) {
+    var box = node('div', 'papers-translate');
+    var row = node('div', 'papers-translate-row');
+    var source = detectLang(p.abstract, p.language);
+    var defaultTarget = pageTargetLang();
+    if (defaultTarget === source) defaultTarget = defaultTarget === 'zh-CN' ? 'en' : 'zh-CN';
+    translateUid += 1;
+    var outId = 'papers-translate-out-' + translateUid;
+
+    var select = document.createElement('select');
+    select.className = 'papers-translate-select';
+    select.setAttribute('aria-label', T.translateTo);
+    TRANSLATE_TARGETS.forEach(function (code) {
+      var option = document.createElement('option');
+      option.value = code;
+      option.textContent = T[TRANSLATE_LABELS[code]] || code;
+      if (code === defaultTarget) option.selected = true;
+      select.appendChild(option);
+    });
+
+    var button = node('button', 'papers-translate-btn', T.translate);
+    button.type = 'button';
+    button.setAttribute('aria-controls', outId);
+    button.setAttribute('aria-expanded', 'false');
+
+    var status = node('span', 'papers-translate-status');
+    status.setAttribute('role', 'status');
+    status.setAttribute('aria-live', 'polite');
+
+    var out = node('div', 'papers-translate-output');
+    out.id = outId;
+    out.hidden = true;
+    var outText = node('p', 'papers-translate-text');
+    var outMeta = node('p', 'papers-translate-meta');
+    out.appendChild(outText);
+    out.appendChild(outMeta);
+
+    var fallback = node('p', 'papers-translate-fallback');
+    fallback.hidden = true;
+
+    row.appendChild(select);
+    row.appendChild(button);
+    row.appendChild(status);
+    box.appendChild(row);
+    box.appendChild(out);
+    box.appendChild(fallback);
+
+    var view = { busy: false, shown: false, text: '', provider: '', lang: '', token: 0 };
+
+    function showTranslation() {
+      view.shown = true;
+      out.hidden = false;
+      outText.hidden = !view.text;
+      outText.textContent = view.text;
+      if (view.text) outText.setAttribute('lang', view.lang);
+      outMeta.textContent = view.text
+        ? ((view.provider ? view.provider + ' · ' : '') + T.translateMachine)
+        : T.translateSame;
+      fallback.hidden = true;
+      status.textContent = '';
+      status.className = 'papers-translate-status';
+      button.disabled = false;
+      select.disabled = false;
+      button.textContent = T.translateHide;
+      button.setAttribute('aria-expanded', 'true');
+    }
+    function hideTranslation() {
+      view.shown = false;
+      out.hidden = true;
+      button.textContent = view.text ? T.translateShow : T.translate;
+      button.setAttribute('aria-expanded', 'false');
+    }
+    function renderFallback(target) {
+      clearNode(fallback);
+      fallback.appendChild(node('span', 'papers-translate-fallback-label', T.translateFallback));
+      [['google', 'Google'], ['bing', 'Bing']].forEach(function (item) {
+        var link = node('a', null, item[1]);
+        link.href = translateFallbackUrl(item[0], target, p.abstract);
+        link.target = '_blank';
+        link.rel = 'noopener';
+        fallback.appendChild(link);
+      });
+    }
+    function fail(err) {
+      view.busy = false;
+      view.shown = false;
+      button.disabled = false;
+      select.disabled = false;
+      button.textContent = T.translate;
+      button.setAttribute('aria-expanded', 'false');
+      out.hidden = true;
+      status.textContent = (err && err.translateCode === 'quota') ? T.translateQuota : T.translateError;
+      status.className = 'papers-translate-status is-error';
+      renderFallback(select.value);
+      fallback.hidden = false;
+    }
+    function start(target) {
+      if (view.busy) return;
+      // 换目标语言时丢掉上一语言的译文，避免失败后仍显示旧语言内容
+      if (view.lang && view.lang !== target) { view.text = ''; view.provider = ''; }
+      view.busy = true;
+      view.shown = false;
+      var token = ++view.token;
+      view.lang = target;
+      fallback.hidden = true;
+      status.className = 'papers-translate-status';
+      if (source === target) {
+        view.busy = false;
+        view.text = '';
+        view.provider = '';
+        showTranslation();
+        return;
+      }
+      var cacheKey = translateCacheKey(p, target);
+      var cached = translateCacheGet(cacheKey);
+      if (cached) {
+        view.busy = false;
+        view.text = text(cached.t);
+        view.provider = text(cached.p);
+        showTranslation();
+        return;
+      }
+      button.disabled = true;
+      select.disabled = true;
+      button.textContent = T.translating;
+      status.textContent = T.translating;
+      out.hidden = true;
+      translateText(p.abstract, source, target, function (done, total) {
+        if (token !== view.token) return;
+        if (total > 1) status.textContent = T.translateProgress.replace('{n}', String(Math.round(done / total * 100)));
+      }).then(function (res) {
+        if (token !== view.token) return;
+        view.busy = false;
+        view.text = res.text;
+        view.provider = res.provider;
+        translateCacheSet(cacheKey, res.text, res.provider);
+        showTranslation();
+      }).catch(function (err) {
+        if (token !== view.token) return;
+        fail(err);
+      });
+    }
+
+    button.addEventListener('click', function () {
+      if (view.busy) return;
+      if (view.shown) { hideTranslation(); return; }
+      if (view.text) { showTranslation(); return; }
+      start(select.value);
+    });
+    select.addEventListener('change', function () {
+      if (view.busy) return;
+      if (view.shown || view.text) start(select.value);
+    });
+    return box;
+  }
+
   // ---------------------------------------------------------------- 渲染
   function renderCard(p) {
     var card = node('article', 'papers-card');
@@ -764,6 +1309,7 @@
     }
     var src = p.abstract_source || p.source;
     if (src) wrap.appendChild(node('span', 'papers-abstract-source', T.abstractSource + ': ' + sourceLabel(src)));
+    wrap.appendChild(renderTranslate(p));
     return wrap;
   }
 

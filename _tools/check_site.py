@@ -380,10 +380,22 @@ def check_papers(base_url: str) -> None:
         for label in ("T.papers_scope", "T.papers_fulltext"):
             if label not in body:
                 err(page, "缺少 %s 文案（i18n key 未接入）" % label)
+        if 'data-lang="' not in body:
+            err(page, "缺少 #papers-app 的 data-lang（摘要翻译的默认目标语言无法确定）")
         if ("permalink: " + url) not in body:
             err(page, "permalink 应为 " + url)
         if (base_url + url) not in sitemap:
             err("sitemap.txt", "未收录文献检索页面 " + url)
+
+    bridge = ROOT / "_includes" / "papers-i18n.html"
+    if not bridge.is_file():
+        err("_includes/papers-i18n.html", "文案桥接文件缺失（assets/papers.js 只能用英文默认值）")
+    else:
+        bridge_body = read(bridge)
+        for key in ('"translate"', '"translateTo"', '"translateProgress"',
+                    '"translateQuota"', '"translateMachine"', '"langZh"', '"langEs"'):
+            if key not in bridge_body:
+                err("_includes/papers-i18n.html", "缺少 %s 字段（摘要翻译文案无法本地化）" % key)
 
     if not PAPERS_DATA.is_file():
         err(PAPERS_DATA.relative_to(ROOT).as_posix(), "文件不存在（运行 .github/workflows/build_papers.py --write）")

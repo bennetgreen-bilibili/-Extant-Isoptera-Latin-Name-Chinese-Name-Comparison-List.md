@@ -41,6 +41,20 @@
   "abstractNote": {{ T.papers_abstract_note | jsonify }},
   "cited": {{ T.papers_cited | jsonify }},
   "clear": {{ T.papers_clear | jsonify }},
-  "synonymCount": {{ T.papers_synonym_count | jsonify }}
+  "synonymCount": {{ T.papers_synonym_count | jsonify }},
+  "translate": {{ T.papers_translate | jsonify }},
+  "translateTo": {{ T.papers_translate_to | jsonify }},
+  "translating": {{ T.papers_translating | jsonify }},
+  "translateProgress": {{ T.papers_translate_progress | jsonify }},
+  "translateShow": {{ T.papers_translate_show | jsonify }},
+  "translateHide": {{ T.papers_translate_hide | jsonify }},
+  "translateSame": {{ T.papers_translate_same | jsonify }},
+  "translateQuota": {{ T.papers_translate_quota | jsonify }},
+  "translateError": {{ T.papers_translate_error | jsonify }},
+  "translateMachine": {{ T.papers_translate_machine | jsonify }},
+  "translateFallback": {{ T.papers_translate_fallback | jsonify }},
+  "langZh": {{ site.data.i18n['zh-CN'].lang_label | jsonify }},
+  "langEn": {{ site.data.i18n['en'].lang_label | jsonify }},
+  "langEs": {{ site.data.i18n['es'].lang_label | jsonify }}
 }
 </script>

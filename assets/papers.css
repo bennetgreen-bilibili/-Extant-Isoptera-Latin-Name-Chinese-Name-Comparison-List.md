@@ -62,6 +62,24 @@
 .papers-abstract-missing button{font:inherit;font-size:.85rem;margin-left:.4rem;padding:.15rem .5rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--accent-strong);cursor:pointer}
 .papers-abstract-missing button:disabled{opacity:.6;cursor:progress}
 .papers-abstract-source{display:block;margin-top:.3rem;color:var(--muted);font-size:.8rem}
+
+/* 摘要翻译：目标语言 + 翻译按钮 + 译文区（机器翻译，仅前端） */
+.papers-translate{margin:.55rem 0 0;display:flex;flex-direction:column;gap:.4rem}
+.papers-translate-row{display:flex;flex-wrap:wrap;gap:.35rem .5rem;align-items:center;font-size:.85rem}
+.papers-translate-select{font:inherit;font-size:.85rem;padding:.18rem .4rem;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+.papers-translate-select:focus{outline:2px solid var(--accent);outline-offset:1px}
+.papers-translate-btn{font:inherit;font-size:.82rem;padding:.2rem .6rem;border:1px solid var(--accent-soft);border-radius:999px;background:var(--accent-softer);color:var(--accent-strong);cursor:pointer;white-space:nowrap}
+.papers-translate-btn:hover{border-color:var(--accent)}
+.papers-translate-btn:disabled{opacity:.6;cursor:progress}
+.papers-translate-status{color:var(--muted);font-size:.8rem;line-height:1.5}
+.papers-translate-status.is-error{color:#8a3b2e}
+.papers-translate-output{margin:.1rem 0 0;padding:.5rem .7rem;border-left:3px solid var(--accent-soft);background:var(--accent-softer);border-radius:0 6px 6px 0}
+.papers-translate-output[hidden]{display:none}
+.papers-translate-text{margin:0;font-size:.94rem;line-height:1.75;white-space:pre-line}
+.papers-translate-meta{margin:.35rem 0 0;color:var(--muted);font-size:.78rem;line-height:1.5}
+.papers-translate-fallback{display:flex;flex-wrap:wrap;gap:.3rem .8rem;align-items:center;margin:0;color:var(--muted);font-size:.8rem}
+.papers-translate-fallback[hidden]{display:none}
+.papers-translate-fallback a{color:var(--accent-strong)}
 .papers-card-foot{display:flex;flex-wrap:wrap;gap:.45rem 1rem;align-items:center;margin-top:.75rem;padding-top:.65rem;border-top:1px solid var(--line-soft);font-size:.85rem;color:var(--muted)}
 .papers-card-foot a{color:var(--accent-strong)}
 .papers-cite-buttons{display:flex;flex-wrap:wrap;gap:.3rem;margin-left:auto}
@@ -108,6 +126,6 @@
   .papers-cite-buttons{margin-left:0}
 }
 @media print{
-  .papers-form,.papers-examples,.papers-more,.papers-cite-buttons,.papers-external{display:none!important}
+  .papers-form,.papers-examples,.papers-more,.papers-cite-buttons,.papers-external,.papers-translate-row,.papers-translate-fallback{display:none!important}
   .papers-card,.species-papers{box-shadow:none;break-inside:avoid}
 }
