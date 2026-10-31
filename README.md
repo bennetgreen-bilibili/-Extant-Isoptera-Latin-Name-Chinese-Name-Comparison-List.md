@@ -9,13 +9,14 @@
 | `list.md` | 名录：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 完整对照表（支系—科—亚科—属—种），属级嵌套目录，可靠锚点 |
 | `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
 | `papers.md` | 文献检索：按拉丁名/中文名/多个关键词检索 OpenAlex + Crossref，默认限定白蚁（等翅目）文献，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español，导出 GB/T 7714 / BibTeX / RIS；三语 |
+| `phylogeny.md` | 系统发育树：按 Hellemans 等（2024，Nature Communications 15:6724）UCE 系统发育基因组学结果绘制的科—亚科级总结分支图（13 科 + 18 个白蚁科亚科），可交互折叠、切换中文/拉丁名称、表格视图、打印；三语 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
 | `name-issues.md` | 命名差异：名录页下一级（`/list/name-issues/`），把本站名与 GBIF / Catalogue of Life / BSF 的对照结果整理成可筛选清单（名称差异 / 匹配存疑 / 覆盖缺口），支持按类型、来源、关键词筛选与每页 50 条分页，附 CSV 与公开 JSON |
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 | `changelog.md` | 版本记录（`/changelog/`）：从 `dataset/CHANGELOG.md` 生成，逐版本列出变更；可订阅 `changelog.atom` |
-| `en/*.md` | 英文版：与上表一一对应的 11 个页面（`en/index.md` … `en/papers.md`、`en/changelog.md`，permalink `/en/…/`） |
+| `en/*.md` | 英文版：与上表一一对应的 12 个页面（`en/index.md` … `en/papers.md`、`en/changelog.md`，permalink `/en/…/`） |
 | `es/*.md` | 西班牙语版：与上表一一对应的 11 个页面（`es/index.md` … `es/papers.md`、`es/changelog.md`，permalink `/es/…/`） |
 
 > 分布图与文献不再是独立页面：**分布图**内嵌在名录页每个科、属标题下方（每个物种页另有该种自己的种级地图）；**77 条参考文献的 Crossref / DOI 增强视图**内嵌在名录页底部（`#references-doi`）。原来的 `/distribution/`、`/references/` 三语页面已移除。
@@ -99,6 +100,15 @@
 - 额度与回退：OpenAlex 无 API key 时按出口 IP 共享每日免费额度；额度用尽会 429，`build_papers.py` 自动回退 Crossref（摘要覆盖率会降低）。设置 `OPENALEX_API_KEY` 可走自己的额度；也可用 `--crossref-only` 直接只用 Crossref。
 - 刷新：`python .github/workflows/build_papers.py --write`（只补缺失 / 过期）、`--force`（全部重查）、`--refresh --stale-days 180 --time-budget 300`；断点缓存在 `_tmp/papers-cache.json`（不提交）。方法、许可与限制见 `_tools/文献检索器说明.md`。
 - 定时刷新：`.github/workflows/papers_refresh.yml` 每天 03:47 UTC 用 GitHub Secret `OPENALEX_API_KEY` 增量刷新（默认 30 天 / 300 秒预算），自动提交 `_data/papers.json` 与 `papers-index.json` 并触发 Pages；手动触发可勾选 `force` 全量重查。**没有 key 时不要开启每日定时**（只会走 Crossref 回退，且 runner 共享 IP 仍可能 429）。
+
+### 8. 系统发育树：`/phylogeny/`（三语，`assets/phylogeny.js` + `_data/phylogeny.json`）
+- 页面：`phylogeny.md` / `en/phylogeny.md` / `es/phylogeny.md`，permalink `/phylogeny/`、`/en/phylogeny/`、`/es/phylogeny/`；导航「系统发育树 / Phylogeny / Filogenia」进入；文案在 `_data/i18n.yml` 的 `phylogeny` 段。
+- **拓扑与名称全部在 `_data/phylogeny.json`**：改数据即可改图（节点字段 `id/latin/zh/counts/note/uncertain/edgeUncertain/children`），页面与脚本不含硬编码分类信息；JS 注入 `window.PHYLOGENY`，`Phylo.buildLayout()` 计算布局，`Phylo.render()` 输出内联 SVG。
+- 来源：Hellemans, S. et al. 2024, *Nature Communications* 15: 6724, Fig. 3（UCE 串联矩阵 + 多物种溯祖分析的总结分支图）；虚线对应文中「异常区」（拓扑不稳定）；同时标注 Song, Ji & Su 2026, *Genes* 17: 1310 线粒体基因组研究的旁证。
+- 交互：支系名点击折叠/展开（含「折叠白蚁科」按钮）、名称「中文 + 拉丁 / 仅拉丁 / 仅中文」切换、**两种布局**（「按支序」= 逐节点展开的支序图；「按层级」= 支系/科/亚科三列对齐 + 阶元参考线）、**支持值显示开关**、树状/表格视图切换、打印（`@page` A4 横向）；类群名链接到名录页对应锚点（`/list/#<id>`）。无 JS 时给出前往名录页的提示。
+- 支持值：节点字段 `support`（`{ufb, lpp, scf}`）显示为「UFB 100 · sCF 64–64.9」等；无实测数值的节点用 `supportText: {zh, en}` 标注定性结论（如「单系 / monophyletic」），鼠标悬停与表格「支持值」列给出 `UFB / LPP / sCF` 全量文本。数值仅限 Hellemans et al. 2024 正文明确报告的节点。
+- 备注双语：`note`（中文）与 `note_en`（英文）；中文页显示 `note`，英文/西语页显示 `note_en`（悬停提示与表格「备注」列同步本地化）。
+- 校验：`assets/phylogeny.js` 同时以 CommonJS 导出（`buildLayout` 可在 Node 中单独测试）；布局断言（叶序单调、父节点 y 落在子节点范围内、名称不越界）见开发时的临时脚本；`sitemap.txt` 由 `build_sitemap_txt.py` 自动收录三语页面。
 
 
 ## 外部数据与增强视图（GBIF / Catalogue of Life / Wikidata / BSF / iNaturalist / Crossref）

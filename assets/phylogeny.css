@@ -1,0 +1,110 @@
+/* ============================================================
+   系统发育树页面（/phylogeny/）
+   与 assets/custom.css 的设计变量配合；深浅色自动适配。
+   ============================================================ */
+
+:root{--phylo-branch:#3c4f46;--phylo-family:#8a6137;--phylo-accent:#2f6b4f}
+@media (prefers-color-scheme:dark){:root{--phylo-branch:#a9c6b6;--phylo-family:#d8a877;--phylo-accent:#62b78a}}
+
+.phylo-title{margin-top:.2em}
+.phylo-lead{max-width:74ch;color:var(--ink)}
+.phylo-hint{margin:10px 0 4px;color:var(--muted);font-size:14px;max-width:80ch}
+
+/* ---------- 工具栏 ---------- */
+.phylo-toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:18px 0 12px}
+.phylo-toolbar .toolbar-group{display:inline-flex;gap:6px;align-items:center}
+.phylo-toolbar .toolbar-label{font-size:13px;color:var(--muted);margin-right:2px}
+.phylo-btn{font:inherit;font-size:13.5px;line-height:1.2;padding:7px 12px;border-radius:999px;
+  border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;
+  transition:background .15s,border-color .15s,color .15s}
+.phylo-btn:hover{border-color:var(--accent);color:var(--accent-strong)}
+.phylo-btn[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent-strong);font-weight:600}
+.phylo-btn:focus-visible,.phylo-svg .label:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* ---------- 图形容器 ---------- */
+.phylo-frame{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:var(--shadow-sm);padding:6px 10px;overflow:auto}
+.phylo-svg{display:block;max-width:none;height:auto}
+
+/* 分支 */
+.phylo-svg .branch{fill:none;stroke:var(--phylo-branch);stroke-width:1.15;stroke-linecap:round}
+.phylo-svg .branch.is-uncertain{stroke:var(--muted);stroke-width:1.05;stroke-dasharray:5 4;opacity:.85}
+.phylo-svg .band-family{fill:var(--accent-softer)}
+
+/* 名称 */
+.phylo-svg text{font-family:var(--font-serif)}
+.phylo-svg .label{cursor:default}
+.phylo-svg .label a{text-decoration:none}
+.phylo-svg .label a:hover .part-lat,.phylo-svg .label a:hover .part-zh{text-decoration:underline;text-underline-offset:2px}
+.phylo-svg .part-zh{fill:var(--ink);font-family:var(--font-sans);font-size:11.8px}
+.phylo-svg .part-lat{fill:var(--ink);font-style:italic;font-size:12.2px}
+.phylo-svg .part-tail{fill:var(--muted);font-family:var(--font-sans);font-size:9.8px}
+.phylo-svg .tip-family .part-lat{font-weight:600}
+
+/* 支系名（内部节点） */
+.phylo-svg .clade-name .part-zh{fill:var(--accent-strong);font-family:var(--font-sans);font-size:11px;font-weight:700}
+.phylo-svg .clade-name .part-lat{fill:var(--accent);font-size:11.4px}
+.phylo-svg .clade-family .part-zh{fill:var(--phylo-family);font-family:var(--font-sans);font-size:11px;font-weight:700}
+.phylo-svg .clade-family .part-lat{fill:var(--phylo-family);font-size:11.4px}
+.phylo-svg .clade-name{cursor:pointer}
+.phylo-svg .label-bg{fill:var(--card)}
+.phylo-svg .clade-name.is-uncertain .part-zh,.phylo-svg .clade-name.is-uncertain .part-lat{opacity:.85}
+.phylo-svg .part-support{fill:var(--muted);font-family:var(--font-sans);font-size:9.6px}
+.phylo-svg .part-suffix{fill:var(--muted);font-family:var(--font-sans);font-size:10px}
+
+/* 分类阶元参考线（按层级布局） */
+.phylo-svg .guide{fill:none;stroke:var(--line);stroke-width:1;stroke-dasharray:2 5}
+.phylo-svg .guide-label{fill:var(--muted);font-family:var(--font-sans);font-size:10px;font-weight:700;letter-spacing:.6px}
+
+/* 折叠中的节点 */
+.phylo-svg .tip.is-collapsed .part-lat{fill:var(--accent-strong)}
+
+/* ---------- 图例 ---------- */
+.phylo-legend{list-style:none;padding:0;margin:14px 0 6px;display:flex;flex-wrap:wrap;gap:8px 22px;
+  font-size:13px;color:var(--muted)}
+.phylo-legend li{display:inline-flex;align-items:center;gap:8px}
+.phylo-legend .swatch{width:30px;height:0;border-top:2px solid #3c4f46;display:inline-block}
+.phylo-legend .swatch-dashed{width:30px;height:0;border-top:2px dashed var(--muted);display:inline-block}
+.phylo-legend .dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+.phylo-legend .dot-clade{background:var(--accent)}
+.phylo-legend .dot-family{background:var(--earth)}
+.phylo-legend .dot-subfamily{background:var(--ink);opacity:.65}
+
+/* ---------- 表格视图 ---------- */
+.phylo-table{width:100%;border-collapse:collapse;font-size:13.5px}
+.phylo-table th,.phylo-table td{padding:7px 9px;border-bottom:1px solid var(--line-soft);text-align:left;vertical-align:top}
+.phylo-table thead th{position:sticky;top:0;background:var(--card);border-bottom:2px solid var(--line);font-weight:700;white-space:nowrap}
+.phylo-table td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.phylo-table td.note{color:var(--muted);font-size:12.5px;min-width:18ch}
+.phylo-table td.support{color:var(--muted);font-size:12.5px;white-space:nowrap}
+.phylo-table tr.rank-clade td{background:var(--accent-softer)}
+.phylo-table tr.rank-clade td:first-child{font-weight:700;color:var(--accent-strong)}
+.phylo-table tr.rank-family td:first-child{color:var(--earth);font-weight:700}
+.phylo-table tr.rank-subfamily td:first-child{color:var(--muted)}
+.phylo-table tr.is-uncertain td{color:var(--muted)}
+
+/* ---------- 来源与维护 ---------- */
+.phylo-source{margin-top:22px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--radius-sm);
+  background:var(--accent-softer);font-size:13.5px;color:var(--muted)}
+.phylo-source p{margin:.35em 0}
+.phylo-source strong{color:var(--ink)}
+.phylo-source a{color:var(--accent-strong)}
+.phylo-source code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:12.5px;background:var(--card);
+  padding:1px 6px;border-radius:5px;border:1px solid var(--line)}
+
+/* ---------- 响应式 ---------- */
+@media (max-width:720px){
+  .phylo-frame{padding:4px 6px}
+  .phylo-btn{font-size:12.5px;padding:6px 10px}
+  .phylo-hint{font-size:13px}
+}
+
+/* ---------- 打印 ---------- */
+@media print{
+  .phylo-toolbar,.phylo-hint,.site-nav,.hero,.site-footer,.back-top{display:none!important}
+  .phylo-frame{border:0;box-shadow:none;padding:0;overflow:visible;background:#fff}
+  .phylo-svg{width:100%;height:auto}
+  .phylo-table{font-size:9.5pt}
+  .phylo-source{background:transparent;border-color:#bbb}
+  @page{size:A4 landscape;margin:10mm}
+}

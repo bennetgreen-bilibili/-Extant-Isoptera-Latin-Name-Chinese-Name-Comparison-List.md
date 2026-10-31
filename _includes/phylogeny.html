@@ -1,0 +1,77 @@
+{%- comment -%}
+  系统发育树页面主体（/phylogeny/ 与 /en/phylogeny/、/es/phylogeny/ 共用）。
+  数据来自 _data/phylogeny.json；文案来自 _data/i18n.yml 的 phylogeny 段。
+{%- endcomment -%}
+{%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
+{%- assign TH = T.phylogeny -%}
+{%- if page.lang == 'en' -%}{%- assign LANGP = '/en' -%}{%- elsif page.lang == 'es' -%}{%- assign LANGP = '/es' -%}{%- else -%}{%- assign LANGP = '' -%}{%- endif -%}
+<h1 class="phylo-title">{{ TH.heading }}</h1>
+<p class="phylo-lead">{{ TH.lead }}</p>
+
+<div class="phylo-toolbar" id="phylo-toolbar" role="toolbar" aria-label="{{ TH.toolbarLabel }}">
+  <span class="toolbar-group">
+    <span class="toolbar-label">{{ TH.namesLabel }}</span>
+    <button type="button" class="phylo-btn" data-act="names-both" data-mode="both" aria-pressed="true">{{ TH.btnNamesBoth }}</button>
+    <button type="button" class="phylo-btn" data-act="names-latin" data-mode="latin" aria-pressed="false">{{ TH.btnNamesLatin }}</button>
+    <button type="button" class="phylo-btn" data-act="names-zh" data-mode="zh" aria-pressed="false">{{ TH.btnNamesZh }}</button>
+  </span>
+  <span class="toolbar-group">
+    <span class="toolbar-label">{{ TH.modeLabel }}</span>
+    <button type="button" class="phylo-btn" data-act="layout-cladogram" data-layout="cladogram" aria-pressed="true">{{ TH.btnModeCladogram }}</button>
+    <button type="button" class="phylo-btn" data-act="layout-rank" data-layout="rank" aria-pressed="false">{{ TH.btnModeRank }}</button>
+  </span>
+  <span class="toolbar-group">
+    <button type="button" class="phylo-btn" data-act="toggle-support" aria-pressed="true">{{ TH.btnSupport }}</button>
+  </span>
+  <span class="toolbar-group">
+    <button type="button" class="phylo-btn" data-act="expand">{{ TH.btnExpand }}</button>
+    <button type="button" class="phylo-btn" data-act="collapse-terminidae">{{ TH.btnCollapse }}</button>
+  </span>
+  <span class="toolbar-group">
+    <button type="button" class="phylo-btn" data-act="tree" data-view="tree" aria-pressed="true">{{ TH.btnTree }}</button>
+    <button type="button" class="phylo-btn" data-act="table" data-view="table" aria-pressed="false">{{ TH.btnTable }}</button>
+    <button type="button" class="phylo-btn" data-act="print">{{ TH.btnPrint }}</button>
+  </span>
+</div>
+
+<div class="phylo-frame" id="phylo-frame">
+  <div id="phylo-tree" data-pagefind-ignore></div>
+  <div id="phylo-table-wrap" hidden></div>
+</div>
+
+<p class="phylo-hint">{{ TH.hint }}</p>
+<p class="phylo-hint phylo-support-note">{{ TH.supportHint }}</p>
+
+<ul class="phylo-legend">
+  <li><span class="swatch" aria-hidden="true"></span>{{ TH.legendSolid }}</li>
+  <li><span class="swatch-dashed" aria-hidden="true"></span>{{ TH.legendDashed }}</li>
+  <li><span class="dot dot-clade" aria-hidden="true"></span>{{ TH.legendClade }}</li>
+  <li><span class="dot dot-family" aria-hidden="true"></span>{{ TH.legendFamily }}</li>
+  <li><span class="dot dot-subfamily" aria-hidden="true"></span>{{ TH.legendSubfamily }}</li>
+</ul>
+
+<div class="phylo-source">
+  <p><strong>{{ TH.sourceHeading }}</strong></p>
+  <p><strong>{{ TH.sourceTree }}</strong>{{ TH.sep }}{{ site.data.phylogeny.meta.source }}
+    <a href="https://doi.org/{{ site.data.phylogeny.meta.doi }}">doi:{{ site.data.phylogeny.meta.doi }}</a>（{{ site.data.phylogeny.meta.figure }}）。</p>
+  <p><strong>{{ TH.corroboration }}</strong>{{ TH.sep }}{{ site.data.phylogeny.meta.corroboration }}</p>
+  <p><strong>{{ TH.sourceList }}</strong>{{ TH.sep }}<a href="{{ site.base_url }}{{ LANGP }}/list/">{{ TH.listSummary }}</a> · {{ TH.countNote }}</p>
+  <p>{{ TH.editHint }}</p>
+</div>
+
+<noscript><p class="phylo-hint">{{ TH.noJs }} <a href="{{ site.base_url }}{{ LANGP }}/list/">→</a></p></noscript>
+
+<script>
+window.PHYLOGENY = {{ site.data.phylogeny | jsonify }};
+window.PHYLO_UI = Object.assign({}, {{ TH | jsonify }}, {
+  lang: {{ page.lang | jsonify }},
+  listBase: '{{ site.base_url }}{{ LANGP }}/list/'
+});
+</script>
+<script src="{{ site.base_url }}/assets/phylogeny.js"></script>
+<script>
+(function () {
+  if (!window.Phylo || !window.PHYLOGENY) return;
+  Phylo.render(document.getElementById('phylo-tree'), window.PHYLOGENY, window.PHYLO_UI);
+})();
+</script>

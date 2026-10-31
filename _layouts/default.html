@@ -45,7 +45,8 @@
 {% endif %}{% if is_list_page %}<link rel="stylesheet" href="{{ site.base_url }}/assets/references.css?v={{ site.time | date: '%s' }}">
 {% endif %}{% if is_papers_page or page.collection == 'species' %}<link rel="stylesheet" href="{{ site.base_url }}/assets/papers.css?v={{ site.time | date: '%s' }}">
 {% endif %}
-</head>
+{% if page.phylogeny %}<link rel="stylesheet" href="{{ site.base_url }}/assets/phylogeny.css?v={{ site.time | date: '%s' }}">
+{% endif %}</head>
 <body{% if is_list_page %} class="is-list-page"{% endif %}>
 
 {%- comment -%} 界面文案按页面语言取自 _data/i18n.yml，未知语言回退中文 {%- endcomment -%}
@@ -127,6 +128,7 @@
     <a href="{{ site.base_url }}{{ LANGP }}/list/" class="nav-link{% if page.url contains '/list' %} active{% endif %}">{{ T.nav_list }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/search/" class="nav-link{% if page.url contains '/search' %} active{% endif %}">{{ T.nav_search }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/papers/" class="nav-link{% if page.url contains '/papers' %} active{% endif %}">{{ T.nav_papers }}</a>
+    <a href="{{ site.base_url }}{{ LANGP }}/phylogeny/" class="nav-link{% if page.url contains '/phylogeny' %} active{% endif %}">{{ T.nav_phylogeny }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/stats/" class="nav-link{% if page.url contains '/stats' %} active{% endif %}">{{ T.nav_stats }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/data/" class="nav-link{% if page.url contains '/data' %} active{% endif %}">{{ T.nav_data }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>

@@ -12,6 +12,56 @@ zh-CN:
   nav_list: 名录
   nav_search: 全文搜索
   nav_papers: 文献
+  nav_phylogeny: 系统发育树
+  phylogeny:
+    heading: 科—亚科级系统发育树
+    sep: "："
+    listSummary: 13 科 · 18 亚科 · 326 属 · 3021 种
+    modeLabel: 布局
+    btnModeCladogram: 按支序
+    btnModeRank: 按层级
+    btnSupport: 支持值
+    colSupport: 支持值
+    guideClade: 支系
+    guideFamily: 科
+    guideSubfamily: 亚科
+    supportHint: 支持值来自 Hellemans 等（2024）正文：UFB = ultrafast bootstrap，LPP = local posterior probability，sCF = site concordance factor；标“单系”的节点表示原文所有分析均支持其单系性，原文未逐一报告数值的节点不再另标。
+    lead: >-
+      依据 Hellemans 等（2024）基于超保守元件（UCE）的系统发育基因组学结果（Nature Communications 15: 6724，Fig. 3），按本名录的 13 科、18 个白蚁科亚科体系重绘的总结分支图。实线表示该研究支持的分支；虚线表示其标注的「异常区」——这些位置的拓扑在串联矩阵与多物种溯祖分析之间、以及不同拓扑检验下并不稳定。
+    hint: 悬停（或用键盘聚焦）查看说明；点击支系名可折叠或展开；点击类群名可跳到名录对应位置。上方按钮可切换「按支序 / 按层级」布局，并显示或隐藏支持值。
+    toolbarLabel: 图形工具
+    namesLabel: 名称
+    btnNamesBoth: 中文 + 拉丁
+    btnNamesLatin: 仅拉丁
+    btnNamesZh: 仅中文
+    btnExpand: 全部展开
+    btnCollapse: 折叠白蚁科
+    btnTree: 树状视图
+    btnTable: 表格视图
+    btnPrint: 打印
+    legendSolid: 实线：分析支持的分支
+    legendDashed: 虚线：异常区，拓扑不确定
+    legendClade: 支系名（可点击）
+    legendFamily: 科
+    legendSubfamily: 亚科
+    colRank: 阶元
+    colZh: 中文名
+    colLatin: 拉丁名
+    colGenera: 属
+    colSpecies: 种
+    colNote: 备注
+    rankClade: 支系
+    rankFamily: 科
+    rankSubfamily: 亚科
+    ariaTree: 现存等翅下目科—亚科级系统发育树
+    taxaUnit: 个类群
+    sourceHeading: 数据与文献
+    sourceTree: 拓扑来源
+    corroboration: 线粒体基因组旁证
+    sourceList: 名录
+    countNote: 属、种数为本名录现行统计
+    editHint: 本页图形由 _data/phylogeny.json 驱动，修改该文件即可调整拓扑、名称、计数与备注；更新后重新构建站点生效。
+    noJs: 图形需要启用 JavaScript；如需查看分类层级，请前往名录页。
   nav_stats: 统计
   nav_data: 数据
   nav_download: 下载
@@ -97,6 +147,56 @@ en:
   nav_list: List
   nav_search: Search
   nav_papers: Papers
+  nav_phylogeny: Phylogeny
+  phylogeny:
+    heading: Family- and subfamily-level phylogeny
+    sep: ": "
+    listSummary: 13 families · 18 subfamilies · 326 genera · 3021 species
+    modeLabel: Layout
+    btnModeCladogram: Cladogram
+    btnModeRank: By rank
+    btnSupport: Support
+    colSupport: Support
+    guideClade: Clade
+    guideFamily: Family
+    guideSubfamily: Subfamily
+    supportHint: Support values follow the text of Hellemans et al. (2024): UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor. Nodes marked "monophyletic" were recovered as monophyletic in all analyses; values not reported in the text are not shown.
+    lead: >-
+      A summary cladogram redrawn from the phylogenomic study of Hellemans et al. (2024, Nature Communications 15: 6724, Fig. 3), which used ultraconserved elements (UCEs). Solid branches are supported by that study; dashed branches mark its anomaly zones, where the topology varies between concatenated and coalescent analyses and across topology tests.
+    hint: Hover (or focus with the keyboard) for notes; click a clade name to collapse or expand it; click a taxon name to open its entry. Use the buttons above to switch between the cladogram and rank layouts, and to show or hide support values.
+    toolbarLabel: Chart tools
+    namesLabel: Names
+    btnNamesBoth: Chinese + Latin
+    btnNamesLatin: Latin only
+    btnNamesZh: Chinese only
+    btnExpand: Expand all
+    btnCollapse: Collapse Termitidae
+    btnTree: Tree view
+    btnTable: Table view
+    btnPrint: Print
+    legendSolid: Solid — branches supported by the analyses
+    legendDashed: Dashed — anomaly zones, uncertain topology
+    legendClade: Clade name (clickable)
+    legendFamily: Family
+    legendSubfamily: Subfamily
+    colRank: Rank
+    colZh: Chinese name
+    colLatin: Latin name
+    colGenera: Genera
+    colSpecies: Species
+    colNote: Notes
+    rankClade: Clade
+    rankFamily: Family
+    rankSubfamily: Subfamily
+    ariaTree: Family- and subfamily-level phylogeny of extant Isoptera
+    taxaUnit: taxa
+    sourceHeading: Data and references
+    sourceTree: Topology
+    corroboration: Mitogenomic corroboration
+    sourceList: Checklist
+    countNote: Genus and species counts follow the current checklist
+    editHint: This page is driven by _data/phylogeny.json; edit that file to change topology, names, counts or notes, then rebuild the site.
+    noJs: The chart requires JavaScript; use the checklist page to browse the classification.
   nav_stats: Statistics
   nav_data: Data
   nav_download: Download
@@ -182,6 +282,56 @@ es:
   nav_list: Listado
   nav_search: Búsqueda
   nav_papers: Artículos
+  nav_phylogeny: Filogenia
+  phylogeny:
+    heading: Filogenia a nivel de familia y subfamilia
+    sep: ": "
+    listSummary: 13 familias · 18 subfamilias · 326 géneros · 3021 especies
+    modeLabel: Disposición
+    btnModeCladogram: Cladograma
+    btnModeRank: Por rango
+    btnSupport: Soporte
+    colSupport: Soporte
+    guideClade: Clado
+    guideFamily: Familia
+    guideSubfamily: Subfamilia
+    supportHint: Los valores de soporte provienen del texto de Hellemans et al. (2024): UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor. Los nodos marcados como "monophyletic" se recuperaron como monofiléticos en todos los análisis; los valores no reportados en el texto no se muestran.
+    lead: >-
+      Cladograma resumen redibujado a partir del estudio filogenómico de Hellemans et al. (2024, Nature Communications 15: 6724, Fig. 3), basado en elementos ultraconservados (UCE). Las ramas continuas están respaldadas por ese estudio; las discontinuas marcan sus zonas de anomalía, donde la topología varía entre análisis concatenados y de coalescencia y entre pruebas topológicas.
+    hint: Pase el cursor (o use el teclado) para ver notas; haga clic en el nombre de un clado para plegarlo o desplegarlo; haga clic en un nombre de taxón para abrir su entrada. Los botones superiores permiten cambiar entre las disposiciones de cladograma y por rango, y mostrar u ocultar los valores de soporte.
+    toolbarLabel: Herramientas del gráfico
+    namesLabel: Nombres
+    btnNamesBoth: Chino + latín
+    btnNamesLatin: Solo latín
+    btnNamesZh: Solo chino
+    btnExpand: Expandir todo
+    btnCollapse: Plegar Termitidae
+    btnTree: Vista de árbol
+    btnTable: Vista de tabla
+    btnPrint: Imprimir
+    legendSolid: Línea continua — ramas respaldadas por los análisis
+    legendDashed: Línea discontinua — zonas de anomalía, topología incierta
+    legendClade: Nombre de clado (se puede pulsar)
+    legendFamily: Familia
+    legendSubfamily: Subfamilia
+    colRank: Rango
+    colZh: Nombre chino
+    colLatin: Nombre latino
+    colGenera: Géneros
+    colSpecies: Especies
+    colNote: Notas
+    rankClade: Clado
+    rankFamily: Familia
+    rankSubfamily: Subfamilia
+    ariaTree: Filogenia de Isoptera actuales a nivel de familia y subfamilia
+    taxaUnit: taxones
+    sourceHeading: Datos y referencias
+    sourceTree: Topología
+    corroboration: Corroboración mitogenómica
+    sourceList: Lista
+    countNote: Los recuentos de géneros y especies siguen la lista actual
+    editHint: Esta página se genera a partir de _data/phylogeny.json; edite ese archivo para cambiar la topología, los nombres, los recuentos o las notas y vuelva a compilar el sitio.
+    noJs: El gráfico requiere JavaScript; use la página de la lista para explorar la clasificación.
   nav_stats: Estadísticas
   nav_data: Datos
   nav_download: Descargas
