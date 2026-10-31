@@ -7,6 +7,7 @@
 {%- if page.lang == 'en' -%}{%- assign LANGP = '/en' -%}{%- elsif page.lang == 'es' -%}{%- assign LANGP = '/es' -%}{%- else -%}{%- assign LANGP = '' -%}{%- endif -%}
 <h1 class="phylo-title">{{ TH.heading }}</h1>
 <p class="phylo-lead">{{ TH.lead }}</p>
+<p class="phylo-lead">{{ TH.lead2 }}</p>
 
 <div class="phylo-toolbar" id="phylo-toolbar" role="toolbar" aria-label="{{ TH.toolbarLabel }}">
   <span class="toolbar-group">
@@ -30,6 +31,7 @@
   <span class="toolbar-group">
     <button type="button" class="phylo-btn" data-act="tree" data-view="tree" aria-pressed="true">{{ TH.btnTree }}</button>
     <button type="button" class="phylo-btn" data-act="table" data-view="table" aria-pressed="false">{{ TH.btnTable }}</button>
+    <button type="button" class="phylo-btn" data-act="compare" data-view="compare" aria-pressed="false">{{ TH.btnCompare }}</button>
     <button type="button" class="phylo-btn" data-act="print">{{ TH.btnPrint }}</button>
   </span>
 </div>
@@ -37,9 +39,11 @@
 <div class="phylo-frame" id="phylo-frame">
   <div id="phylo-tree" data-pagefind-ignore></div>
   <div id="phylo-table-wrap" hidden></div>
+  <div id="phylo-compare-wrap" hidden></div>
 </div>
 
 <p class="phylo-hint">{{ TH.hint }}</p>
+<p class="phylo-hint" id="phylo-compare-summary"></p>
 <p class="phylo-hint phylo-support-note">{{ TH.supportHint }}</p>
 
 <ul class="phylo-legend">

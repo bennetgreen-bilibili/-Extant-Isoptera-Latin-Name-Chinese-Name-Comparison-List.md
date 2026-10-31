@@ -30,6 +30,8 @@
 .phylo-svg .branch{fill:none;stroke:var(--phylo-branch);stroke-width:1.15;stroke-linecap:round}
 .phylo-svg .branch.is-uncertain{stroke:var(--muted);stroke-width:1.05;stroke-dasharray:5 4;opacity:.85}
 .phylo-svg .band-family{fill:var(--accent-softer)}
+.phylo-svg .clade-bracket{fill:none;stroke:var(--accent);stroke-width:1.1;stroke-linecap:round}
+.phylo-svg .tip-outgroup .part-zh,.phylo-svg .tip-outgroup .part-lat{fill:var(--muted)}
 
 /* 名称 */
 .phylo-svg text{font-family:var(--font-serif)}
@@ -77,6 +79,12 @@
 .phylo-table td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
 .phylo-table td.note{color:var(--muted);font-size:12.5px;min-width:18ch}
 .phylo-table td.support{color:var(--muted);font-size:12.5px;white-space:nowrap}
+.phylo-table.phylo-compare td{vertical-align:top}
+.phylo-table .verdict{white-space:nowrap;font-weight:600}
+.phylo-table .verdict-agree{color:var(--accent-strong)}
+.phylo-table .verdict-conflict{color:#b0501f}
+.phylo-table .verdict-partial{color:var(--muted)}
+.phylo-compare-lead{margin:2px 0 10px}
 .phylo-table tr.rank-clade td{background:var(--accent-softer)}
 .phylo-table tr.rank-clade td:first-child{font-weight:700;color:var(--accent-strong)}
 .phylo-table tr.rank-family td:first-child{color:var(--earth);font-weight:700}

@@ -104,7 +104,9 @@
 ### 8. 系统发育树：`/phylogeny/`（三语，`assets/phylogeny.js` + `_data/phylogeny.json`）
 - 页面：`phylogeny.md` / `en/phylogeny.md` / `es/phylogeny.md`，permalink `/phylogeny/`、`/en/phylogeny/`、`/es/phylogeny/`；导航「系统发育树 / Phylogeny / Filogenia」进入；文案在 `_data/i18n.yml` 的 `phylogeny` 段。
 - **拓扑与名称全部在 `_data/phylogeny.json`**：改数据即可改图（节点字段 `id/latin/zh/counts/note/uncertain/edgeUncertain/children`），页面与脚本不含硬编码分类信息；JS 注入 `window.PHYLOGENY`，`Phylo.buildLayout()` 计算布局，`Phylo.render()` 输出内联 SVG。
-- 来源：Hellemans, S. et al. 2024, *Nature Communications* 15: 6724, Fig. 3（UCE 串联矩阵 + 多物种溯祖分析的总结分支图）；虚线对应文中「异常区」（拓扑不稳定）；同时标注 Song, Ji & Su 2026, *Genes* 17: 1310 线粒体基因组研究的旁证。
+- 来源：Hellemans, S. et al. 2024, *Nature Communications* 15: 6724, Fig. 3（UCE 串联矩阵 + 多物种溯祖分析的总结分支图）；虚线对应文中「异常区」（拓扑不稳定）。
+- 外群：树顶部加入 Cryptocercidae（Cryptocercus）作为外群——两篇论文均以 Cryptocercus 为外群（Song 2026 取 7 种），这样 Mastotermitidae 作为「其余白蚁的姐妹群」的位置一目了然，不会与树根混淆。
+- 论文对照：节点可带 song 字段（ufb / status / note / note_en，status 取 agree / conflict / partial），记录 Song, Ji & Su 2026（*Genes* 17: 1310）三套线粒体矩阵（PCG_AA / PCG_NT123 / PCG_rRNA）的 UFBoot 与判读；工具栏「论文对照」视图按节点列出「Hellemans 2024 / Song 2026 / 判读」，树下方还有一行自动汇总（一致 / 冲突 / 部分）；悬停节点也会显示 Song 2026 的对应结论。
 - 交互：支系名点击折叠/展开（含「折叠白蚁科」按钮）、名称「中文 + 拉丁 / 仅拉丁 / 仅中文」切换、**两种布局**（「按支序」= 逐节点展开的支序图；「按层级」= 支系/科/亚科三列对齐 + 阶元参考线）、**支持值显示开关**、树状/表格视图切换、打印（`@page` A4 横向）；类群名链接到名录页对应锚点（`/list/#<id>`）。无 JS 时给出前往名录页的提示。
 - 支持值：节点字段 `support`（`{ufb, lpp, scf}`）显示为「UFB 100 · sCF 64–64.9」等；无实测数值的节点用 `supportText: {zh, en}` 标注定性结论（如「单系 / monophyletic」），鼠标悬停与表格「支持值」列给出 `UFB / LPP / sCF` 全量文本。数值仅限 Hellemans et al. 2024 正文明确报告的节点。
 - 备注双语：`note`（中文）与 `note_en`（英文）；中文页显示 `note`，英文/西语页显示 `note_en`（悬停提示与表格「备注」列同步本地化）。

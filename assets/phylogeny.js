@@ -17,7 +17,7 @@
     edgeAnon: 15,
     labelGap: 10,
     padTop: 36,
-    padLeft: 30,
+    padLeft: 240,
     padRight: 30,
     padBottom: 28,
     mode: 'cladogram',      // 'cladogram' | 'rank'
@@ -82,6 +82,14 @@
     return '';
   }
 
+  function songTitle(node, lang) {
+    if (!node.song) return '';
+    var note = lang === 'zh' ? node.song.note : (node.song.note_en || node.song.note);
+    var head = lang === 'zh' ? 'Song 2026（线粒体基因组）：' : 'Song 2026 (mitogenomes): ';
+    var tail = lang === 'zh' ? '；UFB ' : '; UFB ';
+    return head + note + tail + node.song.ufb;
+  }
+
   function noteOf(node, lang) {
     if (lang === 'zh') return node.note || '';
     return node.note_en || node.note || '';
@@ -93,7 +101,7 @@
     if (options) for (var k2 in options) opts[k2] = options[k2];
 
     var rankMode = opts.mode === 'rank';
-    if (rankMode) { opts.padLeft = RANK.gutter; opts.padTop = Math.max(opts.padTop, 56); }
+    if (rankMode) { opts.padTop = Math.max(opts.padTop, 56); }
 
     var nodes = [], leaves = [];
     var colFamily = opts.padLeft + RANK.family;
@@ -105,6 +113,7 @@
       var n = {
         key: nodes.length, data: data, parent: parent, children: [],
         depth: parent ? parent.depth + 1 : 0,
+        cladeDepth: parent ? parent.cladeDepth + (parent.data.type === 'clade' ? 1 : 0) : 0,
         x: 0, y: 0, y0: 0, y1: 0,
         isLeaf: !(data.children && data.children.length),
         named: isNamed(data)
@@ -122,7 +131,7 @@
         if (rankMode) {
           if (d.type === 'subfamily') c.x = colSubfamily;
           else if (d.type === 'family') c.x = colFamily;
-          else if (isNamed(d)) c.x = Math.max(n.x + 2, opts.padLeft);
+          else if (isNamed(d)) c.x = n.x + 16;
           else c.x = n.x + 16;
         } else {
           c.x = n.x + edgeWidth(d);
@@ -210,7 +219,7 @@
             x: n.x + opts.labelGap, y: n.y, parts: cp,
             support: opts.showSupport ? supportInline(d, opts.notesLang) : '', suffix: ' ▸ ' + (d.__collapsedCount || ''), tail: '',
             cls: 'tip tip-' + d.type + ' is-collapsed', key: n.key, href: null,
-            title: noteOf(d, opts.notesLang), anchor: 'start', bg: 0
+            title: [noteOf(d, opts.notesLang), songTitle(d, opts.notesLang)].filter(Boolean).join('\n'), anchor: 'start', bg: 0
           });
           maxLabelRight = Math.max(maxLabelRight, n.x + opts.labelGap + partsWidth(cp));
         } else {
@@ -222,49 +231,52 @@
             support: tsup, suffix: '', tail: tail,
             cls: 'tip tip-' + d.type, key: n.key,
             href: opts.linkFor ? opts.linkFor(d) : null,
-            title: [noteOf(d, opts.notesLang), supportFull(d, opts.notesLang)].filter(Boolean).join('\n'),
+            title: [noteOf(d, opts.notesLang), supportFull(d, opts.notesLang), songTitle(d, opts.notesLang)].filter(Boolean).join('\n'),
             anchor: 'start', bg: 0
           });
           var tw = partsWidth(parts) + (tsup ? textWidth(' · ' + tsup) + 8 : 0) + (tail ? textWidth(' · ' + tail) + 10 : 0);
           maxLabelRight = Math.max(maxLabelRight, n.x + opts.labelGap + tw);
         }
-      } else if (d.latin || d.zh) {
+      } else if (d.type === 'family' && (d.latin || d.zh)) {
+        // 内部科级节点（白蚁科）：标签放在其亚科之上的一行间隙
         var cparts = nameParts(d, opts.zhMode || 'both');
         var sup = opts.showSupport ? supportInline(d, opts.notesLang) : '';
-        var isFamily = d.type === 'family';
-        var isInternalFamily = isFamily && n.children.length > 0;
-        var anchor, lx, ly;
-        if (isInternalFamily) {
-          // 科级内部节点（白蚁科）：放在其亚科之上的一行间隙，避免压住末端名称
-          anchor = 'start';
-          lx = n.x + 9;
-          ly = n.topY - opts.rowH / 2;
-        } else if (rankMode) {
-          // 层级布局：支系名统一排在左侧「支系」栏，右对齐，垂直居中于该支系的叶范围
-          anchor = 'end';
-          lx = opts.padLeft - 10;
-          ly = n.y;
-        } else {
-          anchor = 'start';
-          lx = n.x + 9;
-          ly = n.y;
-        }
         var bg = partsWidth(cparts) + (sup ? textWidth(' · ' + sup) + 8 : 0) + 16;
         labels.push({
-          x: lx, y: ly, parts: cparts, support: sup,
-          suffix: '', tail: '', bg: bg, anchor: anchor,
-          cls: 'clade-name ' + (isFamily ? 'clade-family' : 'clade-clade') +
-               ((d.edgeUncertain || d.uncertain) ? ' is-uncertain' : ''),
+          x: n.x + 9, y: n.topY - opts.rowH / 2, parts: cparts, support: sup,
+          suffix: '', tail: '', bg: bg, anchor: 'start',
+          cls: 'clade-name clade-family' + ((d.edgeUncertain || d.uncertain) ? ' is-uncertain' : ''),
           key: n.key, href: null,
-          title: [noteOf(d, opts.notesLang), supportFull(d, opts.notesLang)].filter(Boolean).join('\n')
+          title: [noteOf(d, opts.notesLang), supportFull(d, opts.notesLang), songTitle(d, opts.notesLang)].filter(Boolean).join('\n')
         });
-        if (anchor === 'start') maxLabelRight = Math.max(maxLabelRight, lx + bg);
+        maxLabelRight = Math.max(maxLabelRight, n.x + 9 + bg);
       }
       n.children.forEach(collectLabels);
     })(rootNode);
 
-    // rank 布局：支系名同处左栏，做最小间距去重叠（保持自上而下的嵌套顺序）
-    if (rankMode) {
+    // 支系：左侧括号 + 名称（两种布局共用；括号高度覆盖该支系的全部末端）
+    var cladeNodes = nodes.filter(function (n) { return n.data.type === 'clade' && (n.data.latin || n.data.zh); });
+    var maxCladeDepth = cladeNodes.reduce(function (a, n) { return Math.max(a, n.cladeDepth); }, 0);
+    cladeNodes.forEach(function (n) {
+      var d = n.data;
+      var bx = opts.padLeft - 14 - (maxCladeDepth - n.cladeDepth) * 7;
+      var top = n.topY - opts.rowH * 0.30;
+      var bot = n.botY + opts.rowH * 0.30;
+      lines.push({ x1: bx, y1: top, x2: bx, y2: bot, cls: 'clade-bracket' });
+      lines.push({ x1: bx, y1: top, x2: bx + 5, y2: top, cls: 'clade-bracket' });
+      lines.push({ x1: bx, y1: bot, x2: bx + 5, y2: bot, cls: 'clade-bracket' });
+      var parts = nameParts(d, opts.zhMode || 'both');
+      labels.push({
+        x: bx - 7, y: (n.topY + n.botY) / 2, parts: parts, support: '', suffix: '', tail: '',
+        bg: partsWidth(parts) + 16, anchor: 'end',
+        cls: 'clade-name clade-clade' + ((d.edgeUncertain || d.uncertain) ? ' is-uncertain' : ''),
+        key: n.key, href: null,
+        title: [noteOf(d, opts.notesLang), supportFull(d, opts.notesLang), songTitle(d, opts.notesLang)].filter(Boolean).join('\n')
+      });
+    });
+
+    // 支系名同处左栏，做最小间距去重叠（保持自上而下的嵌套顺序）
+    {
       var colLabels = labels.filter(function (l) { return l.cls.indexOf('clade-name') === 0; });
       colLabels.sort(function (a, b) { return a.y - b.y; });
       var minGap = 22;
@@ -306,6 +318,7 @@
     var toolbar = document.getElementById('phylo-toolbar');
     var treeWrap = document.getElementById('phylo-tree');
     var tableWrap = document.getElementById('phylo-table-wrap');
+    var compareWrap = document.getElementById('phylo-compare-wrap');
     if (!treeWrap) return;
 
     var notesLang = ui.lang === 'zh' ? 'zh' : 'en';
@@ -401,13 +414,14 @@
         if (lb.support) text.appendChild(svgEl('tspan', { 'class': 'part-support', text: ' · ' + lb.support }));
         if (lb.suffix) text.appendChild(svgEl('tspan', { 'class': 'part-suffix', text: lb.suffix }));
         if (lb.tail) text.appendChild(svgEl('tspan', { 'class': 'part-tail', text: ' · ' + lb.tail }));
-        if (lb.title) text.appendChild(svgEl('title', { text: lb.title }));
+
 
         if (lb.href) {
           var a = svgEl('a', { href: lb.href });
           a.appendChild(text);
           g.appendChild(a);
         } else g.appendChild(text);
+        if (lb.title) g.appendChild(svgEl('title', { text: lb.title }));
 
         if (lb.cls.indexOf('clade-name') === 0) {
           g.setAttribute('tabindex', '0');
@@ -465,6 +479,33 @@
       tableWrap.innerHTML = html;
     }
 
+    function drawCompare() {
+      if (!compareWrap) return;
+      var rows = [];
+      (function walk(d) { if (d.song) rows.push(d); (d.children || []).forEach(walk); })(payload.tree);
+      var esc = function (s) {
+        return String(s == null ? '' : s).replace(/[&<>"]/g, function (m) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m];
+        });
+      };
+      var verdict = { agree: ui.statusAgree, conflict: ui.statusConflict, partial: ui.statusPartial };
+      var html = '<p class="phylo-hint phylo-compare-lead">' + esc(ui.compareLead) + '</p>';
+      html += '<table class="phylo-table phylo-compare"><thead><tr>' +
+        '<th>' + esc(ui.colNode) + '</th><th>' + esc(ui.colHellemans) + '</th>' +
+        '<th>' + esc(ui.colSong) + '</th><th>' + esc(ui.colVerdict) + '</th></tr></thead><tbody>';
+      rows.forEach(function (d) {
+        var helle = supportFull(d, notesLang) || '—';
+        var status = d.song.status || 'partial';
+        html += '<tr class="status-' + status + '">' +
+          '<td>' + esc(d.zh || '') + '<br><i>' + esc(d.latin || '') + '</i></td>' +
+          '<td>' + esc(helle) + '</td>' +
+          '<td>' + esc(d.song.ufb || '—') + '</td>' +
+          '<td class="verdict verdict-' + status + '">' + esc(verdict[status] || '—') + '</td></tr>';
+      });
+      html += '</tbody></table>';
+      compareWrap.innerHTML = html;
+    }
+
     function setPressed() {
       if (!toolbar) return;
       toolbar.querySelectorAll('[data-mode]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-mode') === state.zhMode)); });
@@ -486,15 +527,26 @@
           else if (act === 'layout-cladogram') { state.mode = 'cladogram'; draw(); }
           else if (act === 'layout-rank') { state.mode = 'rank'; draw(); }
           else if (act === 'toggle-support') { state.showSupport = !state.showSupport; draw(); }
-          else if (act === 'table') { state.view = 'table'; drawTable(); treeWrap.hidden = true; tableWrap.hidden = false; }
-          else if (act === 'tree') { state.view = 'tree'; treeWrap.hidden = false; tableWrap.hidden = true; }
+          else if (act === 'table') { state.view = 'table'; drawTable(); treeWrap.hidden = true; tableWrap.hidden = false; if (compareWrap) compareWrap.hidden = true; }
+          else if (act === 'compare') { state.view = 'compare'; drawCompare(); treeWrap.hidden = true; tableWrap.hidden = true; if (compareWrap) compareWrap.hidden = false; }
+          else if (act === 'tree') { state.view = 'tree'; treeWrap.hidden = false; tableWrap.hidden = true; if (compareWrap) compareWrap.hidden = true; }
           else if (act === 'print') { window.print(); }
           setPressed();
         });
       });
     }
 
+    function renderCompareSummary() {
+      var el = document.getElementById('phylo-compare-summary');
+      if (!el) return;
+      var n = { agree: 0, conflict: 0, partial: 0 };
+      (function walk(d) { if (d.song) { n[d.song.status || 'partial'] = (n[d.song.status || 'partial'] || 0) + 1; } (d.children || []).forEach(walk); })(payload.tree);
+      var tpl = ui.compareSummary || '';
+      el.textContent = tpl.replace('{a}', n.agree).replace('{b}', n.conflict).replace('{c}', n.partial);
+    }
+
     draw();
+    renderCompareSummary();
     setPressed();
   }
 

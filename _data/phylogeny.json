@@ -1,11 +1,11 @@
 {
   "meta": {
-    "version": "1.1",
-    "updated": "2026-11-01",
+    "version": "2.0",
+    "updated": "2026-11-02",
     "source": "Hellemans, S. et al. (2024) Genomic data provide insights into the classification of extant termites. Nature Communications 15: 6724.",
     "doi": "10.1038/s41467-024-51028-y",
     "figure": "Fig. 3",
-    "corroboration": "Song, N., Ji, J. & Su, L. (2026) Phylogeny of termites inferred from mitogenomic data with a large taxon sampling. Genes 17: 1310.",
+    "corroboration": "Song, N., Ji, J. & Su, L. (2026) Phylogeny of termites inferred from mitogenomic data with a large taxon sampling. Genes 17: 1310. 13 科 + 7 种 Cryptocercus 外群，3 套线粒体矩阵（PCG_AA / PCG_NT123 / PCG_rRNA），UFBoot 10 000。",
     "counts": {
       "families": 13,
       "subfamilies": 18
@@ -15,6 +15,9 @@
       "en": "Support values are shown only for nodes for which the source text reports numbers (UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor); other nodes are marked \"monophyletic\", meaning all analyses of that study supported their monophyly."
     },
     "features": [
+      "Cryptocercidae outgroup added (both source papers sample Cryptocercus)",
+      "Song et al. 2026 node-level comparison (UFB AA/NT123/rRNA + verdict)",
+      "clade brackets in the left margin",
       "cladogram/rank layouts",
       "UFB/LPP/sCF support labels (toggle)",
       "zh/en node notes"
@@ -22,68 +25,68 @@
   },
   "tree": {
     "type": "clade",
-    "id": "isoptera",
     "children": [
       {
-        "type": "family",
-        "id": "mastotermitidae",
-        "zh": "澳白蚁科",
-        "latin": "MASTOTERMITIDAE",
-        "counts": {
-          "genera": 1,
-          "species": 1,
-          "subspecies": 0,
-          "subfamilies": 0
-        },
-        "note": "单型科，仅 Mastotermes darwiniensis；在全部分析中都是最基部的白蚁支系。",
-        "note_en": "Monotypic family (Mastotermes darwiniensis); recovered as the most basal termite lineage in all analyses.",
+        "type": "outgroup",
+        "id": "cryptocercidae",
+        "zh": "隐尾蠊科",
+        "latin": "CRYPTOCERCIDAE",
+        "note": "外群：隐尾蠊属 Cryptocercus。Song et al. (2026) 在分析中取 7 种 Cryptocercus 作外群；Hellemans et al. (2024) 同样以 Cryptocercus 为姐妹群。",
+        "note_en": "Outgroup: the wood-roach genus Cryptocercus. Song et al. (2026) sampled seven Cryptocercus species as outgroups; Hellemans et al. (2024) also recovered Cryptocercus as the sister group of termites.",
         "supportText": {
-          "zh": "单系",
-          "en": "monophyletic"
+          "zh": "外群",
+          "en": "outgroup"
         }
       },
       {
         "type": "clade",
-        "id": "euisoptera",
+        "id": "isoptera",
         "children": [
           {
+            "type": "family",
+            "id": "mastotermitidae",
+            "zh": "澳白蚁科",
+            "latin": "MASTOTERMITIDAE",
+            "counts": {
+              "genera": 1,
+              "species": 1,
+              "subspecies": 0,
+              "subfamilies": 0
+            },
+            "note": "单型科，仅 Mastotermes darwiniensis；在全部分析中都是最基部的白蚁支系。",
+            "note_en": "Monotypic family (Mastotermes darwiniensis); recovered as the most basal termite lineage in all analyses.",
+            "supportText": {
+              "zh": "单系",
+              "en": "monophyletic"
+            },
+            "song": {
+              "ufb": "100 / 100 / 100",
+              "status": "agree",
+              "note": "Mastotermitidae 为其余全部白蚁的姐妹群。",
+              "note_en": "Mastotermitidae is recovered as the sister group of all other termites."
+            }
+          },
+          {
             "type": "clade",
-            "id": "teletisoptera",
+            "id": "euisoptera",
             "children": [
               {
-                "type": "family",
-                "id": "stolotermitidae",
-                "zh": "胄白蚁科",
-                "latin": "STOLOTERMITIDAE",
-                "counts": {
-                  "genera": 2,
-                  "species": 10,
-                  "subspecies": 0,
-                  "subfamilies": 0
-                },
-                "note": "含 Stolotermes、Porotermes 两属。",
-                "note_en": "Contains Stolotermes and Porotermes.",
-                "supportText": {
-                  "zh": "单系",
-                  "en": "monophyletic"
-                }
-              },
-              {
                 "type": "clade",
+                "id": "teletisoptera",
                 "children": [
                   {
                     "type": "family",
-                    "id": "archotermopsidae",
-                    "zh": "古白蚁科",
-                    "latin": "ARCHOTERMOPSIDAE",
+                    "id": "stolotermitidae",
+                    "zh": "胄白蚁科",
+                    "latin": "STOLOTERMITIDAE",
                     "counts": {
                       "genera": 2,
-                      "species": 5,
-                      "subspecies": 2,
+                      "species": 10,
+                      "subspecies": 0,
                       "subfamilies": 0
                     },
-                    "note": "含 Archotermopsis、Zootermopsis 等。",
-                    "note_en": "Contains Archotermopsis, Zootermopsis and allies.",
+                    "note": "含 Stolotermes、Porotermes 两属。",
+                    "note_en": "Contains Stolotermes and Porotermes.",
                     "supportText": {
                       "zh": "单系",
                       "en": "monophyletic"
@@ -94,93 +97,98 @@
                     "children": [
                       {
                         "type": "family",
-                        "id": "hodotermopsidae",
-                        "zh": "原白蚁科",
-                        "latin": "HODOTERMOPSIDAE",
+                        "id": "archotermopsidae",
+                        "zh": "古白蚁科",
+                        "latin": "ARCHOTERMOPSIDAE",
                         "counts": {
-                          "genera": 1,
-                          "species": 1,
-                          "subspecies": 0,
+                          "genera": 2,
+                          "species": 5,
+                          "subspecies": 2,
                           "subfamilies": 0
                         },
-                        "note": "单型科，仅 Hodotermopsis。",
-                        "note_en": "Monotypic family (Hodotermopsis).",
+                        "note": "含 Archotermopsis、Zootermopsis 等。",
+                        "note_en": "Contains Archotermopsis, Zootermopsis and allies.",
                         "supportText": {
                           "zh": "单系",
                           "en": "monophyletic"
                         }
                       },
                       {
-                        "type": "family",
-                        "id": "hodotermitidae",
-                        "zh": "草白蚁科",
-                        "latin": "HODOTERMITIDAE",
-                        "counts": {
-                          "genera": 3,
-                          "species": 21,
-                          "subspecies": 0,
-                          "subfamilies": 0
-                        },
-                        "note": "含 Hodotermes、Anacanthotermes、Microhodotermes。",
-                        "note_en": "Contains Hodotermes, Anacanthotermes and Microhodotermes.",
-                        "supportText": {
-                          "zh": "单系",
-                          "en": "monophyletic"
-                        }
+                        "type": "clade",
+                        "children": [
+                          {
+                            "type": "family",
+                            "id": "hodotermopsidae",
+                            "zh": "原白蚁科",
+                            "latin": "HODOTERMOPSIDAE",
+                            "counts": {
+                              "genera": 1,
+                              "species": 1,
+                              "subspecies": 0,
+                              "subfamilies": 0
+                            },
+                            "note": "单型科，仅 Hodotermopsis。",
+                            "note_en": "Monotypic family (Hodotermopsis).",
+                            "supportText": {
+                              "zh": "单系",
+                              "en": "monophyletic"
+                            }
+                          },
+                          {
+                            "type": "family",
+                            "id": "hodotermitidae",
+                            "zh": "草白蚁科",
+                            "latin": "HODOTERMITIDAE",
+                            "counts": {
+                              "genera": 3,
+                              "species": 21,
+                              "subspecies": 0,
+                              "subfamilies": 0
+                            },
+                            "note": "含 Hodotermes、Anacanthotermes、Microhodotermes。",
+                            "note_en": "Contains Hodotermes, Anacanthotermes and Microhodotermes.",
+                            "supportText": {
+                              "zh": "单系",
+                              "en": "monophyletic"
+                            }
+                          }
+                        ],
+                        "edgeUncertain": true,
+                        "note": "图 3 中此节点位于异常区（虚线）。",
+                        "note_en": "This node lies in an anomaly zone in Fig. 3 (drawn dashed)."
                       }
                     ],
-                    "edgeUncertain": true,
-                    "note": "图 3 中此节点位于异常区（虚线）。",
-                    "note_en": "This node lies in an anomaly zone in Fig. 3 (drawn dashed)."
+                    "edgeUncertain": true
                   }
                 ],
-                "edgeUncertain": true
-              }
-            ],
-            "zh": "远等翅类",
-            "latin": "Teletisoptera",
-            "note": "远等翅类：Stolotermitidae 为其余三科的姐妹群（Hellemans et al. 2024）。",
-            "note_en": "Teletisoptera: Stolotermitidae is the sister group of the remaining three families (Hellemans et al. 2024)."
-          },
-          {
-            "type": "clade",
-            "id": "icoisoptera",
-            "children": [
-              {
-                "type": "family",
-                "id": "kalotermitidae",
-                "zh": "木白蚁科",
-                "latin": "KALOTERMITIDAE",
-                "counts": {
-                  "genera": 23,
-                  "species": 480,
-                  "subspecies": 4,
-                  "subfamilies": 0
-                },
-                "note": "低等白蚁中多样性最高的一科（23 属 480 种）。",
-                "note_en": "The most diverse family of lower termites (23 genera, 480 species).",
-                "supportText": {
-                  "zh": "单系",
-                  "en": "monophyletic"
+                "zh": "远等翅类",
+                "latin": "Teletisoptera",
+                "note": "远等翅类：Stolotermitidae 为其余三科的姐妹群（Hellemans et al. 2024）。",
+                "note_en": "Teletisoptera: Stolotermitidae is the sister group of the remaining three families (Hellemans et al. 2024).",
+                "song": {
+                  "ufb": "98 / 100 / 91（Hodotermopsidae+Stolotermitidae）",
+                  "status": "conflict",
+                  "note": "Song 2026 支持 (Hodotermopsidae+Stolotermitidae) + (Archotermopsidae+Hodotermitidae)，与 Fig. 3 内部关系不同。",
+                  "note_en": "Song 2026 supports (Hodotermopsidae+Stolotermitidae) + (Archotermopsidae+Hodotermitidae), differing from Fig. 3."
                 }
               },
               {
                 "type": "clade",
-                "id": "neoisoptera",
+                "id": "icoisoptera",
                 "children": [
                   {
                     "type": "family",
-                    "id": "stylotermitidae",
-                    "zh": "杆白蚁科",
-                    "latin": "STYLOTERMITIDAE",
+                    "id": "kalotermitidae",
+                    "zh": "木白蚁科",
+                    "latin": "KALOTERMITIDAE",
                     "counts": {
-                      "genera": 1,
-                      "species": 45,
-                      "subspecies": 0,
+                      "genera": 23,
+                      "species": 480,
+                      "subspecies": 4,
                       "subfamilies": 0
                     },
-                    "note": "单属科（Stylotermes）；其系统位置在不同分子数据集间曾反复变动。",
-                    "note_en": "Single genus (Stylotermes); its position has shifted among molecular datasets.",
+                    "note": "低等白蚁中多样性最高的一科（23 属 480 种）。",
+                    "note_en": "The most diverse family of lower termites (23 genera, 480 species).",
                     "supportText": {
                       "zh": "单系",
                       "en": "monophyletic"
@@ -188,93 +196,118 @@
                   },
                   {
                     "type": "clade",
-                    "id": "geoisoptera",
+                    "id": "neoisoptera",
                     "children": [
                       {
+                        "type": "family",
+                        "id": "stylotermitidae",
+                        "zh": "杆白蚁科",
+                        "latin": "STYLOTERMITIDAE",
+                        "counts": {
+                          "genera": 1,
+                          "species": 45,
+                          "subspecies": 0,
+                          "subfamilies": 0
+                        },
+                        "note": "单属科（Stylotermes）；其系统位置在不同分子数据集间曾反复变动。",
+                        "note_en": "Single genus (Stylotermes); its position has shifted among molecular datasets.",
+                        "supportText": {
+                          "zh": "单系",
+                          "en": "monophyletic"
+                        },
+                        "song": {
+                          "ufb": "96（AA）/ 100（核苷酸）",
+                          "status": "conflict",
+                          "note": "AA 树中与 Serritermitidae 互为姐妹（UFB 96）；两个核苷酸树中为独立的早期分支（UFB 100）。",
+                          "note_en": "Sister to Serritermitidae in the AA tree (UFB 96); an independent early-diverging lineage in both nucleotide trees (UFB 100)."
+                        }
+                      },
+                      {
                         "type": "clade",
+                        "id": "geoisoptera",
                         "children": [
                           {
                             "type": "clade",
                             "children": [
                               {
-                                "type": "family",
-                                "id": "serritermitidae",
-                                "zh": "齿白蚁科",
-                                "latin": "SERRITERMITIDAE",
-                                "counts": {
-                                  "genera": 2,
-                                  "species": 3,
-                                  "subspecies": 0,
-                                  "subfamilies": 0
-                                },
-                                "note": "含 Serritermes、Glossotermes 两属；与狭义鼻白蚁科互为姐妹群（Fig. 3）。",
-                                "note_en": "Contains Serritermes and Glossotermes; sister to Rhinotermitidae s.s. in Fig. 3.",
-                                "supportText": {
-                                  "zh": "单系",
-                                  "en": "monophyletic"
-                                }
-                              },
-                              {
-                                "type": "family",
-                                "id": "rhinotermitidae",
-                                "zh": "鼻白蚁科",
-                                "latin": "RHINOTERMITIDAE",
-                                "counts": {
-                                  "genera": 5,
-                                  "species": 62,
-                                  "subspecies": 0,
-                                  "subfamilies": 0
-                                },
-                                "note": "狭义鼻白蚁科，仅含 Acorhinotermes、Dolichorhinotermes、Parrhinotermes、Rhinotermes、Schedorhinotermes 5 属。",
-                                "note_en": "Rhinotermitidae s.s., restricted to Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes and Schedorhinotermes.",
-                                "supportText": {
-                                  "zh": "单系",
-                                  "en": "monophyletic"
-                                }
-                              }
-                            ],
-                            "edgeUncertain": true
-                          },
-                          {
-                            "type": "clade",
-                            "children": [
-                              {
-                                "type": "family",
-                                "id": "termitogetonidae",
-                                "zh": "寡脉白蚁科",
-                                "latin": "TERMITOGETONIDAE",
-                                "counts": {
-                                  "genera": 1,
-                                  "species": 2,
-                                  "subspecies": 0,
-                                  "subfamilies": 0
-                                },
-                                "note": "单属科（Termitogeton）；在 Geoisoptera 中的位置不确定（异常区）。",
-                                "note_en": "Single genus (Termitogeton); its position within Geoisoptera is uncertain (anomaly zone).",
-                                "supportText": {
-                                  "zh": "单系",
-                                  "en": "monophyletic"
-                                }
+                                "type": "clade",
+                                "children": [
+                                  {
+                                    "type": "family",
+                                    "id": "serritermitidae",
+                                    "zh": "齿白蚁科",
+                                    "latin": "SERRITERMITIDAE",
+                                    "counts": {
+                                      "genera": 2,
+                                      "species": 3,
+                                      "subspecies": 0,
+                                      "subfamilies": 0
+                                    },
+                                    "note": "含 Serritermes、Glossotermes 两属；与狭义鼻白蚁科互为姐妹群（Fig. 3）。",
+                                    "note_en": "Contains Serritermes and Glossotermes; sister to Rhinotermitidae s.s. in Fig. 3.",
+                                    "supportText": {
+                                      "zh": "单系",
+                                      "en": "monophyletic"
+                                    },
+                                    "song": {
+                                      "ufb": "96（AA）/ 91、100（核苷酸）",
+                                      "status": "conflict",
+                                      "note": "AA 树中与 Stylotermitidae 姐妹；核苷酸树中与 Termitogetonidae 姐妹。",
+                                      "note_en": "Sister to Stylotermitidae in the AA tree; sister to Termitogetonidae in the nucleotide trees."
+                                    }
+                                  },
+                                  {
+                                    "type": "family",
+                                    "id": "rhinotermitidae",
+                                    "zh": "鼻白蚁科",
+                                    "latin": "RHINOTERMITIDAE",
+                                    "counts": {
+                                      "genera": 5,
+                                      "species": 62,
+                                      "subspecies": 0,
+                                      "subfamilies": 0
+                                    },
+                                    "note": "狭义鼻白蚁科，仅含 Acorhinotermes、Dolichorhinotermes、Parrhinotermes、Rhinotermes、Schedorhinotermes 5 属。",
+                                    "note_en": "Rhinotermitidae s.s., restricted to Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes and Schedorhinotermes.",
+                                    "supportText": {
+                                      "zh": "单系",
+                                      "en": "monophyletic"
+                                    },
+                                    "song": {
+                                      "ufb": "93（AA）",
+                                      "status": "conflict",
+                                      "note": "AA 树中 Rhinotermitidae s.s. 为其余新等翅类的姐妹群，位置与 Fig. 3 不同。",
+                                      "note_en": "In the AA tree Rhinotermitidae s.s. is sister to the remaining Neoisoptera, unlike Fig. 3."
+                                    }
+                                  }
+                                ],
+                                "edgeUncertain": true
                               },
                               {
                                 "type": "clade",
                                 "children": [
                                   {
                                     "type": "family",
-                                    "id": "psammotermitidae",
-                                    "zh": "沙白蚁科",
-                                    "latin": "PSAMMOTERMITIDAE",
+                                    "id": "termitogetonidae",
+                                    "zh": "寡脉白蚁科",
+                                    "latin": "TERMITOGETONIDAE",
                                     "counts": {
-                                      "genera": 2,
-                                      "species": 18,
+                                      "genera": 1,
+                                      "species": 2,
                                       "subspecies": 0,
                                       "subfamilies": 0
                                     },
-                                    "note": "由 Psammotermitinae + Prorhinotermitinae 提升而来（Psammotermes、Prorhinotermes）；位置在各分析间不稳定。",
-                                    "note_en": "Raised from Psammotermitinae + Prorhinotermitinae (Psammotermes, Prorhinotermes); placement varies among analyses.",
+                                    "note": "单属科（Termitogeton）；在 Geoisoptera 中的位置不确定（异常区）。",
+                                    "note_en": "Single genus (Termitogeton); its position within Geoisoptera is uncertain (anomaly zone).",
                                     "supportText": {
                                       "zh": "单系",
                                       "en": "monophyletic"
+                                    },
+                                    "song": {
+                                      "ufb": "95（AA）/ 91、100（核苷酸）",
+                                      "status": "conflict",
+                                      "note": "AA 树中与 Stylotermitidae+Serritermitidae 成支（95）；核苷酸树中与 Serritermitidae 姐妹。",
+                                      "note_en": "Groups with Stylotermitidae+Serritermitidae in the AA tree (95); sister to Serritermitidae in the nucleotide trees."
                                     }
                                   },
                                   {
@@ -282,148 +315,161 @@
                                     "children": [
                                       {
                                         "type": "family",
-                                        "id": "heterotermitidae",
-                                        "zh": "异白蚁科",
-                                        "latin": "HETEROTERMITIDAE",
+                                        "id": "psammotermitidae",
+                                        "zh": "沙白蚁科",
+                                        "latin": "PSAMMOTERMITIDAE",
                                         "counts": {
-                                          "genera": 3,
-                                          "species": 229,
-                                          "subspecies": 8,
+                                          "genera": 2,
+                                          "species": 18,
+                                          "subspecies": 0,
                                           "subfamilies": 0
                                         },
-                                        "note": "含 Coptotermes、Heterotermes、Reticulitermes；Coptotermitinae 并入 Heterotermitinae（后者并系）。",
-                                        "note_en": "Contains Coptotermes, Heterotermes and Reticulitermes; Coptotermitinae is subsumed in Heterotermitinae (which is paraphyletic).",
+                                        "note": "由 Psammotermitinae + Prorhinotermitinae 提升而来（Psammotermes、Prorhinotermes）；位置在各分析间不稳定。",
+                                        "note_en": "Raised from Psammotermitinae + Prorhinotermitinae (Psammotermes, Prorhinotermes); placement varies among analyses.",
                                         "supportText": {
                                           "zh": "单系",
                                           "en": "monophyletic"
+                                        },
+                                        "song": {
+                                          "ufb": "100 / 100 / 100",
+                                          "status": "agree",
+                                          "note": "Psammotermitinae + Prorhinotermitinae 互为姐妹。",
+                                          "note_en": "Psammotermitinae + Prorhinotermitinae as sister groups."
                                         }
                                       },
                                       {
-                                        "type": "family",
-                                        "id": "termitidae",
+                                        "type": "clade",
                                         "children": [
                                           {
-                                            "type": "clade",
-                                            "children": [
-                                              {
-                                                "type": "subfamily",
-                                                "id": "sphaerotermitinae",
-                                                "zh": "圆球白蚁亚科",
-                                                "latin": "Sphaerotermitinae",
-                                                "counts": {
-                                                  "genera": 1,
-                                                  "species": 1,
-                                                  "subspecies": 0
-                                                },
-                                                "note": "由 Macrotermitinae 中分出（Sphaerotermes sphaerothorax），与 Macrotermitinae 互为姐妹群（Fig. 3）。",
-                                                "note_en": "Segregated from Macrotermitinae (Sphaerotermes sphaerothorax); sister to Macrotermitinae in Fig. 3.",
-                                                "supportText": {
-                                                  "zh": "单系",
-                                                  "en": "monophyletic"
-                                                }
-                                              },
-                                              {
-                                                "type": "subfamily",
-                                                "id": "macrotermitinae",
-                                                "zh": "大白蚁亚科",
-                                                "latin": "Macrotermitinae",
-                                                "counts": {
-                                                  "genera": 12,
-                                                  "species": 373,
-                                                  "subspecies": 16
-                                                },
-                                                "note": "与 Sphaerotermitinae 互为姐妹群（Fig. 3；UCE 分析结果相同）。",
-                                                "note_en": "Sister to Sphaerotermitinae (Fig. 3; also in the UCE analyses).",
-                                                "supportText": {
-                                                  "zh": "单系",
-                                                  "en": "monophyletic"
-                                                }
-                                              }
-                                            ]
+                                            "type": "family",
+                                            "id": "heterotermitidae",
+                                            "zh": "异白蚁科",
+                                            "latin": "HETEROTERMITIDAE",
+                                            "counts": {
+                                              "genera": 3,
+                                              "species": 229,
+                                              "subspecies": 8,
+                                              "subfamilies": 0
+                                            },
+                                            "note": "含 Coptotermes、Heterotermes、Reticulitermes；Coptotermitinae 并入 Heterotermitinae（后者并系）。",
+                                            "note_en": "Contains Coptotermes, Heterotermes and Reticulitermes; Coptotermitinae is subsumed in Heterotermitinae (which is paraphyletic).",
+                                            "supportText": {
+                                              "zh": "单系",
+                                              "en": "monophyletic"
+                                            },
+                                            "song": {
+                                              "ufb": "100 / 100 / 100",
+                                              "status": "agree",
+                                              "note": "Heterotermitidae 与 Termitidae 互为姐妹群。",
+                                              "note_en": "Heterotermitidae as sister to Termitidae."
+                                            }
                                           },
                                           {
-                                            "type": "clade",
+                                            "type": "family",
+                                            "id": "termitidae",
                                             "children": [
                                               {
-                                                "type": "subfamily",
-                                                "id": "foraminitermitinae",
-                                                "zh": "孔白蚁亚科",
-                                                "latin": "Foraminitermitinae",
-                                                "counts": {
-                                                  "genera": 3,
-                                                  "species": 10,
-                                                  "subspecies": 0
-                                                },
-                                                "note": "含 Foraminitermes、Labritermes 等。",
-                                                "note_en": "Contains Foraminitermes, Labritermes and allies.",
-                                                "supportText": {
-                                                  "zh": "单系",
-                                                  "en": "monophyletic"
-                                                }
+                                                "type": "clade",
+                                                "children": [
+                                                  {
+                                                    "type": "subfamily",
+                                                    "id": "sphaerotermitinae",
+                                                    "zh": "圆球白蚁亚科",
+                                                    "latin": "Sphaerotermitinae",
+                                                    "counts": {
+                                                      "genera": 1,
+                                                      "species": 1,
+                                                      "subspecies": 0
+                                                    },
+                                                    "note": "由 Macrotermitinae 中分出（Sphaerotermes sphaerothorax），与 Macrotermitinae 互为姐妹群（Fig. 3）。",
+                                                    "note_en": "Segregated from Macrotermitinae (Sphaerotermes sphaerothorax); sister to Macrotermitinae in Fig. 3.",
+                                                    "supportText": {
+                                                      "zh": "单系",
+                                                      "en": "monophyletic"
+                                                    },
+                                                    "song": {
+                                                      "ufb": "100 / 100 / 100（Macrotermitinae 基部位置）",
+                                                      "status": "conflict",
+                                                      "note": "Song 2026：Sphaerotermitinae 为独立支系，与 Macrotermitinae 不成姐妹群。",
+                                                      "note_en": "Song 2026 recovers Sphaerotermitinae as a distinct lineage, not sister to Macrotermitinae."
+                                                    }
+                                                  },
+                                                  {
+                                                    "type": "subfamily",
+                                                    "id": "macrotermitinae",
+                                                    "zh": "大白蚁亚科",
+                                                    "latin": "Macrotermitinae",
+                                                    "counts": {
+                                                      "genera": 12,
+                                                      "species": 373,
+                                                      "subspecies": 16
+                                                    },
+                                                    "note": "与 Sphaerotermitinae 互为姐妹群（Fig. 3；UCE 分析结果相同）。",
+                                                    "note_en": "Sister to Sphaerotermitinae (Fig. 3; also in the UCE analyses).",
+                                                    "supportText": {
+                                                      "zh": "单系",
+                                                      "en": "monophyletic"
+                                                    },
+                                                    "song": {
+                                                      "ufb": "100 / 100 / 100",
+                                                      "status": "conflict",
+                                                      "note": "Song 2026：Macrotermitinae 是其余白蚁科的姐妹群，而非与 Sphaerotermitinae 互为姐妹。",
+                                                      "note_en": "Song 2026 places Macrotermitinae as sister to all other Termitidae, not as sister to Sphaerotermitinae."
+                                                    }
+                                                  }
+                                                ]
                                               },
                                               {
                                                 "type": "clade",
                                                 "children": [
                                                   {
                                                     "type": "subfamily",
-                                                    "id": "apicotermitinae",
-                                                    "zh": "尖白蚁亚科",
-                                                    "latin": "Apicotermitinae",
+                                                    "id": "foraminitermitinae",
+                                                    "zh": "孔白蚁亚科",
+                                                    "latin": "Foraminitermitinae",
                                                     "counts": {
-                                                      "genera": 68,
-                                                      "species": 241,
-                                                      "subspecies": 2
+                                                      "genera": 3,
+                                                      "species": 10,
+                                                      "subspecies": 0
                                                     },
-                                                    "note": "68 属 241 种，单系。",
-                                                    "note_en": "68 genera, 241 species; monophyletic.",
+                                                    "note": "含 Foraminitermes、Labritermes 等。",
+                                                    "note_en": "Contains Foraminitermes, Labritermes and allies.",
                                                     "supportText": {
                                                       "zh": "单系",
                                                       "en": "monophyletic"
+                                                    },
+                                                    "song": {
+                                                      "ufb": "—",
+                                                      "status": "partial",
+                                                      "note": "两文均识别该支系，但亚科间深层关系未解析。",
+                                                      "note_en": "Recognised in both studies; deep relationships unresolved."
                                                     }
                                                   },
                                                   {
                                                     "type": "clade",
                                                     "children": [
                                                       {
-                                                        "type": "clade",
-                                                        "children": [
-                                                          {
-                                                            "type": "subfamily",
-                                                            "id": "microcerotermitinae",
-                                                            "zh": "锯白蚁亚科",
-                                                            "latin": "Microcerotermitinae",
-                                                            "counts": {
-                                                              "genera": 2,
-                                                              "species": 150,
-                                                              "subspecies": 7
-                                                            },
-                                                            "note": "UFB 100；Onkotermes 的归属仍存不确定性。",
-                                                            "note_en": "UFB 100; the placement of Onkotermes remains uncertain.",
-                                                            "support": {
-                                                              "ufb": "100",
-                                                              "lpp": "0.74-1",
-                                                              "scf": "48.2-49.7"
-                                                            }
-                                                          },
-                                                          {
-                                                            "type": "subfamily",
-                                                            "id": "syntermitinae",
-                                                            "zh": "聚白蚁亚科",
-                                                            "latin": "Syntermitinae",
-                                                            "counts": {
-                                                              "genera": 22,
-                                                              "species": 105,
-                                                              "subspecies": 0
-                                                            },
-                                                            "note": "UFB 100；含 Genuotermes（原先暂置于 Termitinae）。",
-                                                            "note_en": "UFB 100; includes Genuotermes (previously placed tentatively in Termitinae).",
-                                                            "support": {
-                                                              "ufb": "100",
-                                                              "lpp": "0.92-1",
-                                                              "scf": "62.9-64"
-                                                            }
-                                                          }
-                                                        ]
+                                                        "type": "subfamily",
+                                                        "id": "apicotermitinae",
+                                                        "zh": "尖白蚁亚科",
+                                                        "latin": "Apicotermitinae",
+                                                        "counts": {
+                                                          "genera": 68,
+                                                          "species": 241,
+                                                          "subspecies": 2
+                                                        },
+                                                        "note": "68 属 241 种，单系。",
+                                                        "note_en": "68 genera, 241 species; monophyletic.",
+                                                        "supportText": {
+                                                          "zh": "单系",
+                                                          "en": "monophyletic"
+                                                        },
+                                                        "song": {
+                                                          "ufb": "—",
+                                                          "status": "partial",
+                                                          "note": "两文均支持单系。",
+                                                          "note_en": "Monophyletic in both studies."
+                                                        }
                                                       },
                                                       {
                                                         "type": "clade",
@@ -433,78 +479,66 @@
                                                             "children": [
                                                               {
                                                                 "type": "subfamily",
-                                                                "id": "engelitermitinae",
-                                                                "zh": "恩格尔白蚁亚科",
-                                                                "latin": "Engelitermitinae",
+                                                                "id": "microcerotermitinae",
+                                                                "zh": "锯白蚁亚科",
+                                                                "latin": "Microcerotermitinae",
                                                                 "counts": {
-                                                                  "genera": 1,
-                                                                  "species": 1,
-                                                                  "subspecies": 0
+                                                                  "genera": 2,
+                                                                  "species": 150,
+                                                                  "subspecies": 7
                                                                 },
-                                                                "note": "单型亚科（Engelitermes zambo）。",
-                                                                "note_en": "Monotypic (Engelitermes zambo).",
-                                                                "supportText": {
-                                                                  "zh": "单系",
-                                                                  "en": "monophyletic"
+                                                                "note": "UFB 100；Onkotermes 的归属仍存不确定性。",
+                                                                "note_en": "UFB 100; the placement of Onkotermes remains uncertain.",
+                                                                "support": {
+                                                                  "ufb": "100",
+                                                                  "lpp": "0.74-1",
+                                                                  "scf": "48.2-49.7"
                                                                 }
                                                               },
                                                               {
                                                                 "type": "subfamily",
-                                                                "id": "forficulitermitinae",
-                                                                "zh": "剪白蚁亚科",
-                                                                "latin": "Forficulitermitinae",
+                                                                "id": "syntermitinae",
+                                                                "zh": "聚白蚁亚科",
+                                                                "latin": "Syntermitinae",
                                                                 "counts": {
-                                                                  "genera": 1,
-                                                                  "species": 1,
+                                                                  "genera": 22,
+                                                                  "species": 105,
                                                                   "subspecies": 0
                                                                 },
-                                                                "note": "单型亚科（Forficulitermes planifrons）；在部分分析中被识别为 rogue taxon。",
-                                                                "note_en": "Monotypic (Forficulitermes planifrons); identified as a rogue taxon in several analyses.",
-                                                                "supportText": {
-                                                                  "zh": "单系",
-                                                                  "en": "monophyletic"
+                                                                "note": "UFB 100；含 Genuotermes（原先暂置于 Termitinae）。",
+                                                                "note_en": "UFB 100; includes Genuotermes (previously placed tentatively in Termitinae).",
+                                                                "support": {
+                                                                  "ufb": "100",
+                                                                  "lpp": "0.92-1",
+                                                                  "scf": "62.9-64"
+                                                                },
+                                                                "song": {
+                                                                  "ufb": "—",
+                                                                  "status": "partial",
+                                                                  "note": "两文均支持单系（Song 2026 将 Genuotermes 并入）。",
+                                                                  "note_en": "Monophyletic in both studies (Genuotermes included in Song 2026)."
                                                                 }
                                                               }
-                                                            ],
-                                                            "edgeUncertain": true,
-                                                            "note": "支持度较弱；部分分析未形成此组合。",
-                                                            "note_en": "Weakly supported; this grouping is not recovered in all analyses."
+                                                            ]
                                                           },
                                                           {
                                                             "type": "clade",
                                                             "children": [
                                                               {
-                                                                "type": "subfamily",
-                                                                "id": "crepititermitinae",
-                                                                "zh": "响白蚁亚科",
-                                                                "latin": "Crepititermitinae",
-                                                                "counts": {
-                                                                  "genera": 1,
-                                                                  "species": 1,
-                                                                  "subspecies": 0
-                                                                },
-                                                                "note": "单型亚科（Crepititermes verruculosus）；常为 rogue taxon；18/30 个串联分析中与 Cylindrotermitinae + Protohamitermitinae 互为姐妹群（UFB 51–87）。",
-                                                                "note_en": "Monotypic (Crepititermes verruculosus); often a rogue taxon; sister to Cylindrotermitinae + Protohamitermitinae in 18/30 concatenated analyses (UFB 51-87).",
-                                                                "supportText": {
-                                                                  "zh": "单系",
-                                                                  "en": "monophyletic"
-                                                                }
-                                                              },
-                                                              {
                                                                 "type": "clade",
                                                                 "children": [
                                                                   {
                                                                     "type": "subfamily",
-                                                                    "id": "protohamitermitinae",
-                                                                    "zh": "始钩白蚁亚科",
-                                                                    "latin": "Protohamitermitinae",
+                                                                    "id": "engelitermitinae",
+                                                                    "zh": "恩格尔白蚁亚科",
+                                                                    "latin": "Engelitermitinae",
                                                                     "counts": {
-                                                                      "genera": 2,
-                                                                      "species": 2,
+                                                                      "genera": 1,
+                                                                      "species": 1,
                                                                       "subspecies": 0
                                                                     },
-                                                                    "note": "含 Prohamitermes 等。",
-                                                                    "note_en": "Contains Prohamitermes and allies.",
+                                                                    "note": "单型亚科（Engelitermes zambo）。",
+                                                                    "note_en": "Monotypic (Engelitermes zambo).",
                                                                     "supportText": {
                                                                       "zh": "单系",
                                                                       "en": "monophyletic"
@@ -512,82 +546,129 @@
                                                                   },
                                                                   {
                                                                     "type": "subfamily",
-                                                                    "id": "cylindrotermitinae",
-                                                                    "zh": "圆筒白蚁亚科",
-                                                                    "latin": "Cylindrotermitinae",
+                                                                    "id": "forficulitermitinae",
+                                                                    "zh": "剪白蚁亚科",
+                                                                    "latin": "Forficulitermitinae",
                                                                     "counts": {
-                                                                      "genera": 2,
-                                                                      "species": 9,
+                                                                      "genera": 1,
+                                                                      "species": 1,
                                                                       "subspecies": 0
                                                                     },
-                                                                    "note": "UFB 78–100。",
-                                                                    "note_en": "UFB 78-100.",
-                                                                    "support": {
-                                                                      "ufb": "78-100",
-                                                                      "lpp": "0.70-1",
-                                                                      "scf": "44.4-44.7"
+                                                                    "note": "单型亚科（Forficulitermes planifrons）；在部分分析中被识别为 rogue taxon。",
+                                                                    "note_en": "Monotypic (Forficulitermes planifrons); identified as a rogue taxon in several analyses.",
+                                                                    "supportText": {
+                                                                      "zh": "单系",
+                                                                      "en": "monophyletic"
                                                                     }
                                                                   }
-                                                                ]
-                                                              }
-                                                            ],
-                                                            "edgeUncertain": true
-                                                          },
-                                                          {
-                                                            "type": "subfamily",
-                                                            "id": "neocapritermitinae",
-                                                            "zh": "新扭白蚁亚科",
-                                                            "latin": "Neocapritermitinae",
-                                                            "counts": {
-                                                              "genera": 3,
-                                                              "species": 20,
-                                                              "subspecies": 0
-                                                            },
-                                                            "note": "UFB 100。",
-                                                            "note_en": "UFB 100.",
-                                                            "support": {
-                                                              "ufb": "100",
-                                                              "lpp": "1",
-                                                              "scf": "76.6-77"
-                                                            }
-                                                          },
-                                                          {
-                                                            "type": "subfamily",
-                                                            "id": "nasutitermitinae",
-                                                            "zh": "象白蚁亚科",
-                                                            "latin": "Nasutitermitinae",
-                                                            "counts": {
-                                                              "genera": 81,
-                                                              "species": 606,
-                                                              "subspecies": 10
-                                                            },
-                                                            "note": "现存最大的亚科，兵蚁具鼻状额突；UFB 100。",
-                                                            "note_en": "The largest subfamily; soldiers with a nasal fontanelle; UFB 100.",
-                                                            "support": {
-                                                              "ufb": "100",
-                                                              "lpp": "0.99-1",
-                                                              "scf": "52.1-53"
-                                                            }
-                                                          },
-                                                          {
-                                                            "type": "clade",
-                                                            "children": [
+                                                                ],
+                                                                "edgeUncertain": true,
+                                                                "note": "支持度较弱；部分分析未形成此组合。",
+                                                                "note_en": "Weakly supported; this grouping is not recovered in all analyses."
+                                                              },
+                                                              {
+                                                                "type": "clade",
+                                                                "children": [
+                                                                  {
+                                                                    "type": "subfamily",
+                                                                    "id": "crepititermitinae",
+                                                                    "zh": "响白蚁亚科",
+                                                                    "latin": "Crepititermitinae",
+                                                                    "counts": {
+                                                                      "genera": 1,
+                                                                      "species": 1,
+                                                                      "subspecies": 0
+                                                                    },
+                                                                    "note": "单型亚科（Crepititermes verruculosus）；常为 rogue taxon；18/30 个串联分析中与 Cylindrotermitinae + Protohamitermitinae 互为姐妹群（UFB 51–87）。",
+                                                                    "note_en": "Monotypic (Crepititermes verruculosus); often a rogue taxon; sister to Cylindrotermitinae + Protohamitermitinae in 18/30 concatenated analyses (UFB 51-87).",
+                                                                    "supportText": {
+                                                                      "zh": "单系",
+                                                                      "en": "monophyletic"
+                                                                    }
+                                                                  },
+                                                                  {
+                                                                    "type": "clade",
+                                                                    "children": [
+                                                                      {
+                                                                        "type": "subfamily",
+                                                                        "id": "protohamitermitinae",
+                                                                        "zh": "始钩白蚁亚科",
+                                                                        "latin": "Protohamitermitinae",
+                                                                        "counts": {
+                                                                          "genera": 2,
+                                                                          "species": 2,
+                                                                          "subspecies": 0
+                                                                        },
+                                                                        "note": "含 Prohamitermes 等。",
+                                                                        "note_en": "Contains Prohamitermes and allies.",
+                                                                        "supportText": {
+                                                                          "zh": "单系",
+                                                                          "en": "monophyletic"
+                                                                        }
+                                                                      },
+                                                                      {
+                                                                        "type": "subfamily",
+                                                                        "id": "cylindrotermitinae",
+                                                                        "zh": "圆筒白蚁亚科",
+                                                                        "latin": "Cylindrotermitinae",
+                                                                        "counts": {
+                                                                          "genera": 2,
+                                                                          "species": 9,
+                                                                          "subspecies": 0
+                                                                        },
+                                                                        "note": "UFB 78–100。",
+                                                                        "note_en": "UFB 78-100.",
+                                                                        "support": {
+                                                                          "ufb": "78-100",
+                                                                          "lpp": "0.70-1",
+                                                                          "scf": "44.4-44.7"
+                                                                        }
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ],
+                                                                "edgeUncertain": true
+                                                              },
                                                               {
                                                                 "type": "subfamily",
-                                                                "id": "promirotermitinae",
-                                                                "zh": "前奇白蚁亚科",
-                                                                "latin": "Promirotermitinae",
+                                                                "id": "neocapritermitinae",
+                                                                "zh": "新扭白蚁亚科",
+                                                                "latin": "Neocapritermitinae",
                                                                 "counts": {
-                                                                  "genera": 2,
-                                                                  "species": 39,
-                                                                  "subspecies": 2
+                                                                  "genera": 3,
+                                                                  "species": 20,
+                                                                  "subspecies": 0
                                                                 },
                                                                 "note": "UFB 100。",
                                                                 "note_en": "UFB 100.",
                                                                 "support": {
                                                                   "ufb": "100",
                                                                   "lpp": "1",
-                                                                  "scf": "77.4-79.5"
+                                                                  "scf": "76.6-77"
+                                                                }
+                                                              },
+                                                              {
+                                                                "type": "subfamily",
+                                                                "id": "nasutitermitinae",
+                                                                "zh": "象白蚁亚科",
+                                                                "latin": "Nasutitermitinae",
+                                                                "counts": {
+                                                                  "genera": 81,
+                                                                  "species": 606,
+                                                                  "subspecies": 10
+                                                                },
+                                                                "note": "现存最大的亚科，兵蚁具鼻状额突；UFB 100。",
+                                                                "note_en": "The largest subfamily; soldiers with a nasal fontanelle; UFB 100.",
+                                                                "support": {
+                                                                  "ufb": "100",
+                                                                  "lpp": "0.99-1",
+                                                                  "scf": "52.1-53"
+                                                                },
+                                                                "song": {
+                                                                  "ufb": "—",
+                                                                  "status": "partial",
+                                                                  "note": "两文均支持单系。",
+                                                                  "note_en": "Monophyletic in both studies."
                                                                 }
                                                               },
                                                               {
@@ -595,158 +676,199 @@
                                                                 "children": [
                                                                   {
                                                                     "type": "subfamily",
-                                                                    "id": "mirocapritermitinae",
-                                                                    "zh": "瘤白蚁亚科",
-                                                                    "latin": "Mirocapritermitinae",
+                                                                    "id": "promirotermitinae",
+                                                                    "zh": "前奇白蚁亚科",
+                                                                    "latin": "Promirotermitinae",
                                                                     "counts": {
-                                                                      "genera": 14,
-                                                                      "species": 135,
-                                                                      "subspecies": 3
-                                                                    },
-                                                                    "note": "UFB 99–100。",
-                                                                    "note_en": "UFB 99-100.",
-                                                                    "support": {
-                                                                      "ufb": "99-100",
-                                                                      "lpp": "1",
-                                                                      "scf": "55-56.1"
-                                                                    }
-                                                                  },
-                                                                  {
-                                                                    "type": "subfamily",
-                                                                    "id": "amitermitinae",
-                                                                    "zh": "弓白蚁亚科",
-                                                                    "latin": "Amitermitinae",
-                                                                    "counts": {
-                                                                      "genera": 14,
-                                                                      "species": 194,
-                                                                      "subspecies": 4
-                                                                    },
-                                                                    "note": "UFB 99–100。",
-                                                                    "note_en": "UFB 99-100.",
-                                                                    "support": {
-                                                                      "ufb": "99-100",
-                                                                      "lpp": "0.98-1",
-                                                                      "scf": "45.8-46.9"
-                                                                    }
-                                                                  }
-                                                                ]
-                                                              },
-                                                              {
-                                                                "type": "clade",
-                                                                "children": [
-                                                                  {
-                                                                    "type": "subfamily",
-                                                                    "id": "termitinae",
-                                                                    "zh": "白蚁亚科",
-                                                                    "latin": "Termitinae",
-                                                                    "counts": {
-                                                                      "genera": 23,
-                                                                      "species": 107,
-                                                                      "subspecies": 0
-                                                                    },
-                                                                    "note": "狭义白蚁亚科，限于 Termes 及其近缘属；UFB 100。",
-                                                                    "note_en": "Termitinae s.s., restricted to Termes and close relatives; UFB 100.",
-                                                                    "support": {
-                                                                      "ufb": "100",
-                                                                      "lpp": "1",
-                                                                      "scf": "56.5-57"
-                                                                    }
-                                                                  },
-                                                                  {
-                                                                    "type": "subfamily",
-                                                                    "id": "cubitermitinae",
-                                                                    "zh": "方白蚁亚科",
-                                                                    "latin": "Cubitermitinae",
-                                                                    "counts": {
-                                                                      "genera": 28,
-                                                                      "species": 149,
-                                                                      "subspecies": 10
+                                                                      "genera": 2,
+                                                                      "species": 39,
+                                                                      "subspecies": 2
                                                                     },
                                                                     "note": "UFB 100。",
                                                                     "note_en": "UFB 100.",
                                                                     "support": {
                                                                       "ufb": "100",
                                                                       "lpp": "1",
-                                                                      "scf": "64-64.9"
+                                                                      "scf": "77.4-79.5"
                                                                     }
+                                                                  },
+                                                                  {
+                                                                    "type": "clade",
+                                                                    "children": [
+                                                                      {
+                                                                        "type": "subfamily",
+                                                                        "id": "mirocapritermitinae",
+                                                                        "zh": "瘤白蚁亚科",
+                                                                        "latin": "Mirocapritermitinae",
+                                                                        "counts": {
+                                                                          "genera": 14,
+                                                                          "species": 135,
+                                                                          "subspecies": 3
+                                                                        },
+                                                                        "note": "UFB 99–100。",
+                                                                        "note_en": "UFB 99-100.",
+                                                                        "support": {
+                                                                          "ufb": "99-100",
+                                                                          "lpp": "1",
+                                                                          "scf": "55-56.1"
+                                                                        }
+                                                                      },
+                                                                      {
+                                                                        "type": "subfamily",
+                                                                        "id": "amitermitinae",
+                                                                        "zh": "弓白蚁亚科",
+                                                                        "latin": "Amitermitinae",
+                                                                        "counts": {
+                                                                          "genera": 14,
+                                                                          "species": 194,
+                                                                          "subspecies": 4
+                                                                        },
+                                                                        "note": "UFB 99–100。",
+                                                                        "note_en": "UFB 99-100.",
+                                                                        "support": {
+                                                                          "ufb": "99-100",
+                                                                          "lpp": "0.98-1",
+                                                                          "scf": "45.8-46.9"
+                                                                        }
+                                                                      }
+                                                                    ]
+                                                                  },
+                                                                  {
+                                                                    "type": "clade",
+                                                                    "children": [
+                                                                      {
+                                                                        "type": "subfamily",
+                                                                        "id": "termitinae",
+                                                                        "zh": "白蚁亚科",
+                                                                        "latin": "Termitinae",
+                                                                        "counts": {
+                                                                          "genera": 23,
+                                                                          "species": 107,
+                                                                          "subspecies": 0
+                                                                        },
+                                                                        "note": "狭义白蚁亚科，限于 Termes 及其近缘属；UFB 100。",
+                                                                        "note_en": "Termitinae s.s., restricted to Termes and close relatives; UFB 100.",
+                                                                        "support": {
+                                                                          "ufb": "100",
+                                                                          "lpp": "1",
+                                                                          "scf": "56.5-57"
+                                                                        },
+                                                                        "song": {
+                                                                          "ufb": "—",
+                                                                          "status": "partial",
+                                                                          "note": "Song 2026 沿用旧亚科划分并发现 Termitinae 非单系；Hellemans 2024 将其限定为 Termes 及近缘属。",
+                                                                          "note_en": "Song 2026 used the traditional subfamily concept and found Termitinae non-monophyletic; Hellemans 2024 restricted it to Termes and allies."
+                                                                        }
+                                                                      },
+                                                                      {
+                                                                        "type": "subfamily",
+                                                                        "id": "cubitermitinae",
+                                                                        "zh": "方白蚁亚科",
+                                                                        "latin": "Cubitermitinae",
+                                                                        "counts": {
+                                                                          "genera": 28,
+                                                                          "species": 149,
+                                                                          "subspecies": 10
+                                                                        },
+                                                                        "note": "UFB 100。",
+                                                                        "note_en": "UFB 100.",
+                                                                        "support": {
+                                                                          "ufb": "100",
+                                                                          "lpp": "1",
+                                                                          "scf": "64-64.9"
+                                                                        }
+                                                                      }
+                                                                    ]
                                                                   }
                                                                 ]
                                                               }
-                                                            ]
+                                                            ],
+                                                            "edgeUncertain": true,
+                                                            "note": "12 个亚科级支系构成的未解析多分支（图 3 中以虚线表示）。",
+                                                            "note_en": "An unresolved polytomy of 12 subfamily-level lineages (dashed in Fig. 3).",
+                                                            "supportText": {
+                                                              "zh": "12 个支系，未解析",
+                                                              "en": "12 lineages, unresolved"
+                                                            }
                                                           }
-                                                        ],
-                                                        "edgeUncertain": true,
-                                                        "note": "12 个亚科级支系构成的未解析多分支（图 3 中以虚线表示）。",
-                                                        "note_en": "An unresolved polytomy of 12 subfamily-level lineages (dashed in Fig. 3).",
-                                                        "supportText": {
-                                                          "zh": "12 个支系，未解析",
-                                                          "en": "12 lineages, unresolved"
-                                                        }
+                                                        ]
                                                       }
                                                     ]
                                                   }
                                                 ]
                                               }
-                                            ]
+                                            ],
+                                            "zh": "白蚁科",
+                                            "latin": "TERMITIDAE",
+                                            "counts": {
+                                              "genera": 280,
+                                              "species": 2144,
+                                              "subspecies": 54,
+                                              "subfamilies": 18
+                                            },
+                                            "note": "18 个亚科均为单系；亚科之间的深层关系多为极短节间，未完全解析。",
+                                            "note_en": "All 18 subfamily-level lineages are monophyletic; deep relationships among them are separated by very short internodes and are not fully resolved.",
+                                            "supportText": {
+                                              "zh": "单系",
+                                              "en": "monophyletic"
+                                            },
+                                            "song": {
+                                              "ufb": "100 / 100 / 100",
+                                              "status": "agree",
+                                              "note": "Termitidae 单系。",
+                                              "note_en": "Termitidae recovered as monophyletic."
+                                            }
                                           }
                                         ],
-                                        "zh": "白蚁科",
-                                        "latin": "TERMITIDAE",
-                                        "counts": {
-                                          "genera": 280,
-                                          "species": 2144,
-                                          "subspecies": 54,
-                                          "subfamilies": 18
-                                        },
-                                        "note": "18 个亚科均为单系；亚科之间的深层关系多为极短节间，未完全解析。",
-                                        "note_en": "All 18 subfamily-level lineages are monophyletic; deep relationships among them are separated by very short internodes and are not fully resolved.",
-                                        "supportText": {
-                                          "zh": "单系",
-                                          "en": "monophyletic"
-                                        }
+                                        "edgeUncertain": true
                                       }
                                     ],
-                                    "edgeUncertain": true
+                                    "edgeUncertain": true,
+                                    "note": "Fig. 3 中该节点位于异常区（虚线）；Termitogetonidae 与 Psammotermitidae 的位置在各分析间不稳定。",
+                                    "note_en": "This node lies in an anomaly zone in Fig. 3 (drawn dashed); the positions of Termitogetonidae and Psammotermitidae vary among analyses."
                                   }
                                 ],
-                                "edgeUncertain": true,
-                                "note": "Fig. 3 中该节点位于异常区（虚线）；Termitogetonidae 与 Psammotermitidae 的位置在各分析间不稳定。",
-                                "note_en": "This node lies in an anomaly zone in Fig. 3 (drawn dashed); the positions of Termitogetonidae and Psammotermitidae vary among analyses."
+                                "edgeUncertain": true
                               }
                             ],
-                            "edgeUncertain": true
+                            "edgeUncertain": true,
+                            "note": "Geoisoptera 内部顺序为 Fig. 3 首选拓扑，但位于异常区（虚线）。",
+                            "note_en": "The internal order of Geoisoptera follows the preferred topology of Fig. 3 but lies in an anomaly zone (drawn dashed)."
                           }
                         ],
-                        "edgeUncertain": true,
-                        "note": "Geoisoptera 内部顺序为 Fig. 3 首选拓扑，但位于异常区（虚线）。",
-                        "note_en": "The internal order of Geoisoptera follows the preferred topology of Fig. 3 but lies in an anomaly zone (drawn dashed)."
+                        "zh": "土栖等翅类",
+                        "latin": "Geoisoptera",
+                        "note": "土栖等翅类：6 个科。图 3 中本区内部顺序以虚线（异常区）表示，各分析间不稳定。",
+                        "note_en": "Geoisoptera: six families. The internal order follows Fig. 3, but this region is an anomaly zone (dashed) and varies among analyses."
                       }
                     ],
-                    "zh": "土栖等翅类",
-                    "latin": "Geoisoptera",
-                    "note": "土栖等翅类：6 个科。图 3 中本区内部顺序以虚线（异常区）表示，各分析间不稳定。",
-                    "note_en": "Geoisoptera: six families. The internal order follows Fig. 3, but this region is an anomaly zone (dashed) and varies among analyses."
+                    "zh": "新等翅类",
+                    "latin": "Neoisoptera",
+                    "note": "新等翅类：7 个科级支系，Stylotermitidae 位于该支系最基部。",
+                    "note_en": "Neoisoptera: seven family-level lineages, with Stylotermitidae sister to the rest."
                   }
                 ],
-                "zh": "新等翅类",
-                "latin": "Neoisoptera",
-                "note": "新等翅类：7 个科级支系，Stylotermitidae 位于该支系最基部。",
-                "note_en": "Neoisoptera: seven family-level lineages, with Stylotermitidae sister to the rest."
+                "zh": "近等翅类",
+                "latin": "Icoisoptera",
+                "note": "近等翅类：Kalotermitidae + Neoisoptera。",
+                "note_en": "Icoisoptera: Kalotermitidae + Neoisoptera.",
+                "song": {
+                  "ufb": "100 / 89 / 100",
+                  "status": "agree",
+                  "note": "Kalotermitidae 与其余新等翅类的关系，与本文一致。",
+                  "note_en": "Kalotermitidae as sister to the remaining Neoisoptera, as recovered here."
+                }
               }
             ],
-            "zh": "近等翅类",
-            "latin": "Icoisoptera",
-            "note": "近等翅类：Kalotermitidae + Neoisoptera。",
-            "note_en": "Icoisoptera: Kalotermitidae + Neoisoptera."
+            "zh": "真等翅类",
+            "latin": "Euisoptera"
           }
         ],
-        "zh": "真等翅类",
-        "latin": "Euisoptera"
+        "zh": "现存等翅下目",
+        "latin": "Extant Isoptera",
+        "note": "现存等翅下目；分子系统发育研究一致支持白蚁与隐尾蠊属 Cryptocercus 互为姐妹群。",
+        "note_en": "Extant Isoptera; molecular phylogenies consistently place termites as the sister group of the wood-roach genus Cryptocercus."
       }
-    ],
-    "zh": "现存等翅下目",
-    "latin": "Extant Isoptera",
-    "note": "现存等翅下目；分子系统发育研究一致支持白蚁与隐尾蠊属 Cryptocercus 互为姐妹群。",
-    "note_en": "Extant Isoptera; molecular phylogenies consistently place termites as the sister group of the wood-roach genus Cryptocercus."
+    ]
   }
 }

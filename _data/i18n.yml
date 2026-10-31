@@ -18,6 +18,17 @@ zh-CN:
     sep: "："
     listSummary: 13 科 · 18 亚科 · 326 属 · 3021 种
     modeLabel: 布局
+    lead2: 树以隐尾蠊属 Cryptocercus 为外群（两篇论文均如此取样）；与第一篇论文（Song et al. 2026，线粒体基因组）的逐节点对照见工具栏「论文对照」视图。
+    btnCompare: 论文对照
+    colNode: 节点
+    colHellemans: Hellemans 2024（UCE）
+    colSong: Song 2026（线粒体；UFB AA/NT123/rRNA）
+    colVerdict: 判读
+    statusAgree: 一致
+    statusConflict: 冲突
+    statusPartial: 部分 / 未解析
+    compareSummary: 与 Song et al.（2026）线粒体基因组对比：一致 {a} 个节点、冲突 {b} 个、部分或未解析 {c} 个；点工具栏「论文对照」查看逐节点细节。
+    compareLead: 下表逐节点对照两篇论文：Hellemans et al. (2024) 的 UCE 系统发育基因组学结果（本页树形依据）与 Song et al. (2026) 的线粒体基因组结果（13 科 + 7 种 Cryptocercus 外群；三套矩阵的 UFBoot 依次为 PCG_AA / PCG_NT123 / PCG_rRNA）。判读只比较当前树形中对应节点的关系。
     btnModeCladogram: 按支序
     btnModeRank: 按层级
     btnSupport: 支持值
@@ -153,6 +164,17 @@ en:
     sep: ": "
     listSummary: 13 families · 18 subfamilies · 326 genera · 3021 species
     modeLabel: Layout
+    lead2: Cryptocercus (Cryptocercidae) is used as the outgroup, as in both source papers; a node-by-node comparison with the first paper (Song et al. 2026, mitogenomes) is available in the Comparison view.
+    btnCompare: Comparison
+    colNode: Node
+    colHellemans: Hellemans 2024 (UCE)
+    colSong: Song 2026 (mitogenomes; UFB AA/NT123/rRNA)
+    colVerdict: Verdict
+    statusAgree: Agree
+    statusConflict: Conflict
+    statusPartial: Partial / unresolved
+    compareSummary: 'Against the mitogenome tree of Song et al. (2026): {a} nodes agree, {b} conflict, {c} partial or unresolved; open the Comparison view for node-by-node details.'
+    compareLead: 'Node-by-node comparison of the two source papers: the UCE phylogenomic results of Hellemans et al. (2024), which the tree follows, and the mitogenome results of Song et al. (2026) (13 families plus seven Cryptocercus outgroups; UFBoot values for PCG_AA / PCG_NT123 / PCG_rRNA). Verdicts compare only the relationship at the corresponding node of the current tree.'
     btnModeCladogram: Cladogram
     btnModeRank: By rank
     btnSupport: Support
@@ -288,6 +310,17 @@ es:
     sep: ": "
     listSummary: 13 familias · 18 subfamilias · 326 géneros · 3021 especies
     modeLabel: Disposición
+    lead2: Cryptocercus (Cryptocercidae) se usa como grupo externo, igual que en los dos trabajos; la comparación nodo por nodo con el primer trabajo (Song et al. 2026, mitogenomas) está en la vista Comparación.
+    btnCompare: Comparación
+    colNode: Nodo
+    colHellemans: Hellemans 2024 (UCE)
+    colSong: Song 2026 (mitogenomas; UFB AA/NT123/rRNA)
+    colVerdict: Veredicto
+    statusAgree: Coincide
+    statusConflict: Conflicto
+    statusPartial: Parcial / sin resolver
+    compareSummary: 'Frente al árbol mitogenómico de Song et al. (2026): {a} nodos coinciden, {b} en conflicto, {c} parciales o sin resolver; abra la vista Comparación para el detalle nodo por nodo.'
+    compareLead: 'Comparación nodo por nodo de los dos trabajos: los resultados filogenómicos con UCE de Hellemans et al. (2024), en los que se basa el árbol, y los resultados mitogenómicos de Song et al. (2026) (13 familias y siete grupos externos de Cryptocercus; UFBoot para PCG_AA / PCG_NT123 / PCG_rRNA). El veredicto compara solo la relación en el nodo correspondiente del árbol actual.'
     btnModeCladogram: Cladograma
     btnModeRank: Por rango
     btnSupport: Soporte
