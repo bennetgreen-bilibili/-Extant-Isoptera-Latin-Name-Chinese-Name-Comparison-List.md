@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Búsqueda bibliográfica — Isópteros actuales (termitas) lista comparativa latín–chino
-description: Busque literatura sobre termitas por nombre latino, nombre chino o palabra clave; sinónimos, filtro solo chino, resúmenes y exportación GB/T 7714 / BibTeX / RIS.
+description: Busque literatura sobre termitas por nombre latino, nombre chino o varias palabras clave; ámbito solo termitas por defecto, coincidencia de varias palabras, sinónimos, filtro solo chino, resúmenes y exportación GB/T 7714 / BibTeX / RIS.
 lang: es
 author: 班奈特格林
 date: 2026-10-30
@@ -13,7 +13,7 @@ permalink: /es/papers/
 {%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
 
 <h1 class="papers-title">{{ T.papers_heading }}</h1>
-<p class="papers-lead">Busque metadatos bibliográficos abiertos de OpenAlex y Crossref por nombre latino, nombre chino o palabra clave. Los sinónimos se combinan automáticamente; se incluyen resúmenes y citas.</p>
+<p class="papers-lead">Busque literatura sobre termitas por nombre latino, nombre chino o varias palabras clave. Por defecto los resultados se limitan a termitas (Isoptera); separe las palabras con espacios y todas deben coincidir. Los sinónimos se combinan automáticamente; se incluyen resúmenes y citas.</p>
 
 <div id="papers-app" class="papers-app" data-base="{{ site.base_url }}" data-index-url="{{ site.base_url }}/search-index.json" data-papers-url="{{ site.base_url }}/papers-index.json" data-lang="es" data-pagefind-ignore>
   <form id="papers-form" class="papers-form" role="search" novalidate>
@@ -28,9 +28,11 @@ permalink: /es/papers/
     <p id="papers-selected" class="papers-selected" hidden></p>
     <p id="papers-hint" class="papers-hint">{{ T.papers_hint }}</p>
     <div class="papers-options">
+      <label class="papers-check"><input id="papers-scope" type="checkbox" checked> {{ T.papers_scope }}</label>
       <label class="papers-check"><input id="papers-syn" type="checkbox" checked> {{ T.papers_synonyms }}</label>
       <label class="papers-check"><input id="papers-zh" type="checkbox"> {{ T.papers_chinese_only }}</label>
       <label class="papers-check"><input id="papers-has-abstract" type="checkbox"> {{ T.papers_has_abstract }}</label>
+      <label class="papers-check"><input id="papers-fulltext" type="checkbox"> {{ T.papers_fulltext }}</label>
       <label class="papers-sort-label">{{ T.papers_sort }}
         <select id="papers-sort" class="papers-sort">
           <option value="relevance">{{ T.papers_sort_relevance }}</option>
@@ -42,9 +44,10 @@ permalink: /es/papers/
     </div>
     <div class="papers-examples">
       <span>{{ T.papers_examples }}：</span>
+      <button type="button" data-example="molecular phylogeny">molecular phylogeny</button>
+      <button type="button" data-example="gut microbiota">gut microbiota</button>
+      <button type="button" data-example="wood resistance">wood resistance</button>
       <button type="button" data-example="Coptotermes formosanus">Coptotermes formosanus</button>
-      <button type="button" data-example="Reticulitermes">Reticulitermes</button>
-      <button type="button" data-example="白蚁">白蚁</button>
     </div>
   </form>
 

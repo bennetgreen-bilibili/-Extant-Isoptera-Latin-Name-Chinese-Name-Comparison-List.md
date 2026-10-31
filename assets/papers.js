@@ -1,6 +1,7 @@
 /*
   文献检索器（/papers/ 三语页面，纯原生 JS，无依赖）
   数据源：OpenAlex（主，CORS）、Crossref（辅，CORS）、本站 papers-index.json（兜底缓存）。
+  检索：自由关键词默认限定白蚁（等翅目）范围；多个关键词 AND；常见中英术语互扩（分子↔molecular）。
   摘要：OpenAlex abstract_inverted_index 还原；Crossref JATS 去标签；单 DOI 缺失时可再试 Semantic Scholar。
   注意：所有结果文本都用 textContent 写入，避免把 API 返回的 HTML 当页面 HTML 执行。
 */
@@ -23,6 +24,8 @@
     synonyms: 'Include synonyms',
     chineseOnly: 'Chinese-language papers only',
     hasAbstract: 'With abstract only',
+    scope: 'Termite literature only',
+    fulltext: 'Full-text search',
     sort: 'Sort',
     sortRelevance: 'Relevance',
     sortNewest: 'Newest',
@@ -76,6 +79,8 @@
     syn: document.getElementById('papers-syn'),
     zh: document.getElementById('papers-zh'),
     hasAbstract: document.getElementById('papers-has-abstract'),
+    scope: document.getElementById('papers-scope'),
+    fulltext: document.getElementById('papers-fulltext'),
     sort: document.getElementById('papers-sort'),
     clear: document.getElementById('papers-clear'),
     status: document.getElementById('papers-status'),
@@ -91,7 +96,9 @@
     cache: null,
     cachePromise: null,
     selected: null,
+    mode: 'keyword',
     terms: [],
+    context: [],
     query: '',
     results: [],
     page: 1,
@@ -291,37 +298,154 @@
     });
   }
 
-  function buildTerms() {
-    var raw = text(els.q.value).trim();
-    var e = state.selected;
-    var terms = [];
-    if (e) {
-      if (els.zh.checked && e.z) {
-        terms.push(quoteTerm(e.z));
+  // 默认只检索白蚁（等翅目）文献；用户可在页面取消勾选。
+  var TERMITE_CONTEXT = [
+    'termite', 'termites', 'isoptera', '白蚁', '白蟻', '等翅目', '螱',
+    'Coptotermes', 'Reticulitermes', 'Odontotermes', 'Macrotermes',
+    'Nasutitermes', 'Heterotermes', 'Cryptotermes', 'Kalotermes',
+    'Zootermopsis', 'Hodotermopsis', 'Microtermes', 'Trinervitermes',
+    'Anoplotermes', 'Neotermes', 'Prorhinotermes', 'Schedorhinotermes',
+    'Mastotermes', 'Hodotermes', 'Amitermes', 'Drepanotermes',
+    'Microcerotermes', 'Globitermes', 'Hospitalitermes',
+    'Termitidae', 'Rhinotermitidae', 'Kalotermitidae', 'Hodotermitidae',
+    'Mastotermitidae', 'Termopsidae', 'Archotermopsidae', 'Stolotermitidae',
+    'Serritermitidae'
+  ];
+
+  // 常见中英术语互扩：中文关键词也能命中英文论文，反之亦然。
+  // 只做整词映射，不做语义猜测；每个关键词内部用 OR，关键词之间用 AND。
+  var KEYWORD_ALIASES = {
+    '分子': ['molecular'], 'molecular': ['分子'],
+    '生物学': ['biology'], 'biology': ['生物学'],
+    '系统发育': ['phylogeny', 'phylogenetic'], '系统发生': ['phylogeny', 'phylogenetic'],
+    'phylogeny': ['系统发育'], 'phylogenetic': ['系统发育'],
+    '肠道': ['gut', 'hindgut', 'intestinal'],
+    'gut': ['肠道'], 'hindgut': ['肠道'], 'intestinal': ['肠道'],
+    '微生物': ['microbiota', 'microbial', 'microbe', 'microorganism'],
+    'microbiota': ['微生物'], 'microbial': ['微生物'], 'microbe': ['微生物'], 'microorganism': ['微生物'],
+    '共生': ['symbiosis', 'symbiotic'], 'symbiosis': ['共生'], 'symbiotic': ['共生'],
+    '基因': ['gene', 'genetic'], 'gene': ['基因'], 'genetic': ['基因'],
+    '基因组': ['genome', 'genomic'], 'genome': ['基因组'], 'genomic': ['基因组'],
+    '线粒体': ['mitochondrial', 'mitochondrion'],
+    'mitochondrial': ['线粒体'], 'mitochondrion': ['线粒体'],
+    '转录组': ['transcriptome', 'transcriptomic'],
+    'transcriptome': ['转录组'], 'transcriptomic': ['转录组'],
+    '蛋白': ['protein'], 'protein': ['蛋白'],
+    '酶': ['enzyme'], 'enzyme': ['酶'],
+    '分类': ['taxonomy', 'taxonomic'], 'taxonomy': ['分类'], 'taxonomic': ['分类'],
+    '进化': ['evolution', 'evolutionary'], 'evolution': ['进化'], 'evolutionary': ['进化'],
+    '生态': ['ecology', 'ecological'], 'ecology': ['生态'], 'ecological': ['生态'],
+    '行为': ['behavior', 'behaviour'], 'behavior': ['行为'], 'behaviour': ['行为'],
+    '食性': ['feeding', 'diet'], 'feeding': ['食性'], 'diet': ['食性'],
+    '木材': ['wood'], 'wood': ['木材'],
+    '纤维素': ['cellulose'], 'cellulose': ['纤维素'],
+    '抗性': ['resistance'], 'resistance': ['抗性'],
+    '杀虫剂': ['insecticide'], 'insecticide': ['杀虫剂'],
+    '信息素': ['pheromone'], 'pheromone': ['信息素'],
+    '菌圃': ['fungus comb'], 'fungus comb': ['菌圃'],
+    '品级': ['caste'], 'caste': ['品级'],
+    '工蚁': ['worker'], 'worker': ['工蚁'],
+    '兵蚁': ['soldier'], 'soldier': ['兵蚁'],
+    '繁殖蚁': ['alate', 'reproductive'], 'alate': ['繁殖蚁'], 'reproductive': ['繁殖蚁']
+  };
+
+  var MAX_KEYWORDS = 8;
+
+  function scopeOn() { return !els.scope || els.scope.checked; }
+  function fulltextOn() { return !!(els.fulltext && els.fulltext.checked); }
+
+  function parseKeywords(raw) {
+    var s = text(raw).replace(/[\u201c\u201d]/g, '"');
+    var out = [], cur = '', quoted = false;
+    for (var i = 0; i < s.length; i++) {
+      var ch = s.charAt(i);
+      if (ch === '"') { quoted = !quoted; continue; }
+      if (!quoted && /[\s,，;；、|]/.test(ch)) {
+        if (cur.trim()) out.push(cur.trim());
+        cur = '';
       } else {
-        terms.push(quoteTerm(e.l));
-        if (els.syn.checked) {
-          taxonSynonyms(e).forEach(function (s) {
-            if (s && norm(s) !== norm(e.l)) terms.push(quoteTerm(s));
-          });
-        }
+        cur += ch;
       }
-    } else if (raw) {
-      terms.push(quoteTerm(raw.replace(/"/g, '')));
+    }
+    if (cur.trim()) out.push(cur.trim());
+    var seen = {}, terms = [];
+    for (var j = 0; j < out.length; j++) {
+      var term = out[j].replace(/\s+/g, ' ').trim();
+      var key = norm(term);
+      if (!term || seen[key]) continue;
+      seen[key] = 1;
+      terms.push(term);
+      if (terms.length >= MAX_KEYWORDS) break;
     }
     return terms;
   }
 
-  function quoteTerm(term) {
-    return '"' + text(term).replace(/"/g, '').trim() + '"';
+  function aliasesFor(term) {
+    var list = KEYWORD_ALIASES[norm(term).trim()];
+    return Array.isArray(list) ? list : [];
   }
 
+  function termGroup(term) {
+    var out = [term], seen = {};
+    seen[norm(term)] = 1;
+    aliasesFor(term).forEach(function (alias) {
+      var key = norm(alias);
+      if (alias && !seen[key]) { seen[key] = 1; out.push(alias); }
+    });
+    return out;
+  }
+
+  function buildSearch() {
+    var raw = text(els.q.value).trim();
+    var e = state.selected;
+    if (e) {
+      var orTerms = [];
+      if (els.zh.checked && e.z) {
+        orTerms.push(e.z);
+      } else {
+        orTerms.push(e.l);
+        if (els.syn.checked) {
+          taxonSynonyms(e).forEach(function (s) {
+            if (s && norm(s) !== norm(e.l)) orTerms.push(s);
+          });
+        }
+      }
+      var seen = {}, terms = [];
+      orTerms.forEach(function (t) {
+        var key = norm(t);
+        if (t && !seen[key]) { seen[key] = 1; terms.push(t); }
+      });
+      return { mode: 'taxon', terms: terms, context: [] };
+    }
+    var keywords = parseKeywords(raw);
+    if (!keywords.length) return null;
+    return { mode: 'keyword', terms: keywords, context: TERMITE_CONTEXT.slice() };
+  }
+
+  function quoteTerm(term) {
+    var clean = text(term).replace(/["|,]/g, ' ').replace(/\s+/g, ' ').trim();
+    return '"' + clean + '"';
+  }
+
+  // 关键词模式：每个关键词生成一个 AND 过滤器；关键词内部与中英别名之间是 OR。
+  // 默认搜标题+摘要；勾选“全文检索”后改用 default.search（含全文，召回更高）。
   function openAlexUrl(page) {
-    var filter = 'title_and_abstract.search:' + state.terms.join('|');
-    if (els.zh.checked) filter += ',language:zh';
-    filter += ',type:article|review|book-chapter|preprint';
+    var filters = [];
+    var field = fulltextOn() ? 'default.search' : 'title_and_abstract.search';
+    if (state.mode === 'taxon') {
+      filters.push('title_and_abstract.search:' + state.terms.map(quoteTerm).join('|'));
+    } else if (state.mode === 'keyword') {
+      state.terms.forEach(function (t) {
+        filters.push(field + ':' + termGroup(t).map(quoteTerm).join('|'));
+      });
+      if (scopeOn() && state.context.length) {
+        filters.push('title_and_abstract.search:' + state.context.map(quoteTerm).join('|'));
+      }
+    }
+    if (els.zh.checked) filters.push('language:zh');
+    filters.push('type:article|review|book-chapter|preprint');
     var params = new URLSearchParams();
-    params.set('filter', filter);
+    params.set('filter', filters.join(','));
     params.set('per-page', String(PER_PAGE));
     params.set('page', String(page));
     params.set('select', 'id,doi,title,publication_year,publication_date,authorships,primary_location,type,language,cited_by_count,open_access,biblio,abstract_inverted_index');
@@ -332,7 +456,13 @@
   }
 
   function crossrefUrl(page) {
-    var q = state.terms.map(function (t) { return t.replace(/^"|"$/g, ''); }).join(' ');
+    var parts = [];
+    state.terms.forEach(function (t) {
+      parts.push(t);
+      if (state.mode === 'keyword') aliasesFor(t).forEach(function (a) { parts.push(a); });
+    });
+    if (state.mode === 'keyword' && scopeOn()) parts.push('termite', 'isoptera', '白蚁');
+    var q = parts.join(' ');
     var params = new URLSearchParams();
     params.set('query.bibliographic', q);
     params.set('rows', String(PER_PAGE));
@@ -340,6 +470,39 @@
     params.set('filter', 'type:journal-article');
     params.set('mailto', MAILTO);
     return 'https://api.crossref.org/works?' + params.toString();
+  }
+
+  function haystack(p) {
+    return norm(text(p.title) + ' ' + text(p.abstract));
+  }
+
+  function textHasTerm(hay, term) {
+    var t = norm(term).trim();
+    if (!t) return true;
+    if (hay.indexOf(t) >= 0) return true;
+    var aliases = aliasesFor(term);
+    for (var i = 0; i < aliases.length; i++) {
+      if (hay.indexOf(norm(aliases[i])) >= 0) return true;
+    }
+    return false;
+  }
+
+  function hasTermiteContext(hay) {
+    for (var i = 0; i < TERMITE_CONTEXT.length; i++) {
+      if (hay.indexOf(norm(TERMITE_CONTEXT[i])) >= 0) return true;
+    }
+    return false;
+  }
+
+  // Crossref 只能做相关性检索，合并前用标题+摘要做一次本地校验，避免把无关结果带进来。
+  function crossrefRelevant(p) {
+    if (state.mode !== 'keyword') return true;
+    var hay = haystack(p);
+    for (var i = 0; i < state.terms.length; i++) {
+      if (!textHasTerm(hay, state.terms[i])) return false;
+    }
+    if (scopeOn() && !hasTermiteContext(hay)) return false;
+    return true;
   }
 
   // ---------------------------------------------------------------- 结果规范化
@@ -798,8 +961,8 @@
 
   function runSearch(page) {
     page = page || 1;
-    var terms = buildTerms();
-    if (!terms.length) {
+    var built = buildSearch();
+    if (!built) {
       setStatus(T.noResults);
       clearResults();
       els.more.hidden = true;
@@ -809,7 +972,9 @@
     state.abort = new AbortController();
     var signal = state.abort.signal;
     state.page = page;
-    state.terms = terms;
+    state.mode = built.mode;
+    state.terms = built.terms;
+    state.context = built.context;
     state.query = state.selected ? state.selected.l : text(els.q.value).trim();
     state.cacheMode = false;
     if (page === 1) { clearResults(); state.total = 0; }
@@ -838,7 +1003,7 @@
         return;
       }
       var primary = oa.ok ? ((oa.data.results || []).map(fromOpenAlex)) : [];
-      var secondary = cr.ok ? (((cr.data.message && cr.data.message.items) || []).map(fromCrossref)) : [];
+      var secondary = cr.ok ? (((cr.data.message && cr.data.message.items) || []).map(fromCrossref).filter(crossrefRelevant)) : [];
       var merged = page === 1 ? mergeResults(primary, secondary) : primary;
       if (els.hasAbstract.checked) merged = merged.filter(function (p) { return !!p.abstract; });
       if (page === 1) {
@@ -910,6 +1075,12 @@
       if (els.hasAbstract.checked && !p.abstract) return false;
       if (genusKey) return true;
       var hay = norm(text(p.title) + ' ' + text(p.abstract));
+      if (state.mode === 'keyword') {
+        for (var i = 0; i < state.terms.length; i++) {
+          if (!textHasTerm(hay, state.terms[i])) return false;
+        }
+        return state.terms.length > 0;
+      }
       return q && hay.indexOf(q) >= 0;
     }).map(normalizeCachePaper);
     sortResults(out);
@@ -924,6 +1095,8 @@
       if (!els.syn.checked) params.set('syn', '0');
       if (els.zh.checked) params.set('zh', '1');
       if (els.hasAbstract.checked) params.set('abs', '1');
+      if (!scopeOn()) params.set('scope', '0');
+      if (fulltextOn()) params.set('full', '1');
       if (els.sort.value !== 'relevance') params.set('sort', els.sort.value);
       var qs = params.toString();
       history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
@@ -937,6 +1110,8 @@
       if (params.get('syn') === '0') { els.syn.checked = false; state.synTouched = true; }
       if (params.get('zh') === '1') els.zh.checked = true;
       if (params.get('abs') === '1') els.hasAbstract.checked = true;
+      if (params.get('scope') === '0' && els.scope) els.scope.checked = false;
+      if (params.get('full') === '1' && els.fulltext) els.fulltext.checked = true;
       var sort = params.get('sort');
       if (sort && ['relevance', 'newest', 'cited'].indexOf(sort) >= 0) els.sort.value = sort;
       if (!q) return;
@@ -1019,12 +1194,15 @@
     els.syn.checked = true;
     els.zh.checked = false;
     els.hasAbstract.checked = false;
+    if (els.scope) els.scope.checked = true;
+    if (els.fulltext) els.fulltext.checked = false;
     els.sort.value = 'relevance';
     state.synTouched = false;
     hideSuggestions();
     try { history.replaceState(null, '', location.pathname); } catch (e) { /* ignore */ }
   });
-  [els.syn, els.zh, els.hasAbstract].forEach(function (cb) {
+  [els.syn, els.zh, els.hasAbstract, els.scope, els.fulltext].forEach(function (cb) {
+    if (!cb) return;
     cb.addEventListener('change', function () {
       if (cb === els.syn) state.synTouched = true;
       if (state.query) runSearch(1);

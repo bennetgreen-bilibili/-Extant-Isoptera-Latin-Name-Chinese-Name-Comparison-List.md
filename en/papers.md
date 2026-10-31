@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Literature search — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: Search termite literature by Latin name, Chinese name or keyword; synonyms, Chinese-only filtering, abstracts and GB/T 7714 / BibTeX / RIS export.
+description: Search termite literature by Latin name, Chinese name or multiple keywords; termite-only scope by default, multi-keyword matching, synonyms, Chinese-only filtering, abstracts and GB/T 7714 / BibTeX / RIS export.
 lang: en
 author: 班奈特格林
 date: 2026-10-30
@@ -13,7 +13,7 @@ permalink: /en/papers/
 {%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
 
 <h1 class="papers-title">{{ T.papers_heading }}</h1>
-<p class="papers-lead">Search open literature metadata from OpenAlex and Crossref by Latin name, Chinese name or keyword. Synonyms are merged automatically; abstracts and citations are included.</p>
+<p class="papers-lead">Search termite literature by Latin name, Chinese name or multiple keywords. Results are limited to termites (Isoptera) by default; separate keywords with spaces and all must match. Synonyms are merged automatically; abstracts and citations are included.</p>
 
 <div id="papers-app" class="papers-app" data-base="{{ site.base_url }}" data-index-url="{{ site.base_url }}/search-index.json" data-papers-url="{{ site.base_url }}/papers-index.json" data-lang="en" data-pagefind-ignore>
   <form id="papers-form" class="papers-form" role="search" novalidate>
@@ -28,9 +28,11 @@ permalink: /en/papers/
     <p id="papers-selected" class="papers-selected" hidden></p>
     <p id="papers-hint" class="papers-hint">{{ T.papers_hint }}</p>
     <div class="papers-options">
+      <label class="papers-check"><input id="papers-scope" type="checkbox" checked> {{ T.papers_scope }}</label>
       <label class="papers-check"><input id="papers-syn" type="checkbox" checked> {{ T.papers_synonyms }}</label>
       <label class="papers-check"><input id="papers-zh" type="checkbox"> {{ T.papers_chinese_only }}</label>
       <label class="papers-check"><input id="papers-has-abstract" type="checkbox"> {{ T.papers_has_abstract }}</label>
+      <label class="papers-check"><input id="papers-fulltext" type="checkbox"> {{ T.papers_fulltext }}</label>
       <label class="papers-sort-label">{{ T.papers_sort }}
         <select id="papers-sort" class="papers-sort">
           <option value="relevance">{{ T.papers_sort_relevance }}</option>
@@ -42,9 +44,10 @@ permalink: /en/papers/
     </div>
     <div class="papers-examples">
       <span>{{ T.papers_examples }}：</span>
+      <button type="button" data-example="molecular phylogeny">molecular phylogeny</button>
+      <button type="button" data-example="gut microbiota">gut microbiota</button>
+      <button type="button" data-example="wood resistance">wood resistance</button>
       <button type="button" data-example="Coptotermes formosanus">Coptotermes formosanus</button>
-      <button type="button" data-example="Reticulitermes">Reticulitermes</button>
-      <button type="button" data-example="白蚁">白蚁</button>
     </div>
   </form>
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 文献检索 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: 按拉丁学名、中文名或关键词检索白蚁相关论文；支持次异名、中文文献筛选、摘要展开与 GB/T 7714 / BibTeX / RIS 引用导出。
+description: 按拉丁学名、中文名或多个关键词检索白蚁相关论文；默认限定白蚁（等翅目）文献，支持多关键词、次异名、中文文献筛选、摘要展开与 GB/T 7714 / BibTeX / RIS 引用导出。
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-30
@@ -13,7 +13,7 @@ permalink: /papers/
 {%- assign T = site.data.i18n[page.lang] | default: site.data.i18n['zh-CN'] -%}
 
 <h1 class="papers-title">{{ T.papers_heading }}</h1>
-<p class="papers-lead">输入拉丁学名、中文名或关键词，检索 OpenAlex / Crossref 的开放文献元数据；自动合并次异名，支持摘要展开与引用导出。</p>
+<p class="papers-lead">输入拉丁学名、中文名或多个关键词，检索白蚁相关论文；默认限定白蚁（等翅目）文献，多个关键词需同时匹配。自动合并次异名，支持摘要展开与引用导出。</p>
 
 <div id="papers-app" class="papers-app" data-base="{{ site.base_url }}" data-index-url="{{ site.base_url }}/search-index.json" data-papers-url="{{ site.base_url }}/papers-index.json" data-lang="zh-CN" data-pagefind-ignore>
   <form id="papers-form" class="papers-form" role="search" novalidate>
@@ -28,9 +28,11 @@ permalink: /papers/
     <p id="papers-selected" class="papers-selected" hidden></p>
     <p id="papers-hint" class="papers-hint">{{ T.papers_hint }}</p>
     <div class="papers-options">
+      <label class="papers-check"><input id="papers-scope" type="checkbox" checked> {{ T.papers_scope }}</label>
       <label class="papers-check"><input id="papers-syn" type="checkbox" checked> {{ T.papers_synonyms }}</label>
       <label class="papers-check"><input id="papers-zh" type="checkbox"> {{ T.papers_chinese_only }}</label>
       <label class="papers-check"><input id="papers-has-abstract" type="checkbox"> {{ T.papers_has_abstract }}</label>
+      <label class="papers-check"><input id="papers-fulltext" type="checkbox"> {{ T.papers_fulltext }}</label>
       <label class="papers-sort-label">{{ T.papers_sort }}
         <select id="papers-sort" class="papers-sort">
           <option value="relevance">{{ T.papers_sort_relevance }}</option>
@@ -42,9 +44,10 @@ permalink: /papers/
     </div>
     <div class="papers-examples">
       <span>{{ T.papers_examples }}：</span>
+      <button type="button" data-example="分子 系统发育">分子 系统发育</button>
+      <button type="button" data-example="白蚁 肠道 微生物">白蚁 肠道 微生物</button>
+      <button type="button" data-example="木材 抗性">木材 抗性</button>
       <button type="button" data-example="Coptotermes formosanus">Coptotermes formosanus</button>
-      <button type="button" data-example="Reticulitermes">Reticulitermes</button>
-      <button type="button" data-example="白蚁">白蚁</button>
     </div>
   </form>
 

@@ -31,20 +31,22 @@ zh-CN:
   search_overlay_close: 关闭
 
   papers_heading: 文献检索
-  papers_placeholder: 输入拉丁学名、中文名或关键词，如 Coptotermes formosanus / 家白蚁
+  papers_placeholder: 输入拉丁学名、中文名或多个关键词，如 Coptotermes / 分子 系统发育
   papers_search: 检索
-  papers_hint: 支持中文、拉丁名、次异名、拼音与繁体；结果来自 OpenAlex 与 Crossref 开放元数据，摘要覆盖率约 60–70%。
+  papers_hint: 默认只检索白蚁（等翅目）文献；多个关键词用空格分隔并需同时匹配（短语可加引号），如：分子 系统发育。常见中英术语会自动互扩。摘要覆盖率约 60–70%。
   papers_examples: 示例
   papers_synonyms: 包含次异名
   papers_chinese_only: 仅中文文献
   papers_has_abstract: 只看有摘要
+  papers_scope: 仅白蚁文献
+  papers_fulltext: 全文检索
   papers_sort: 排序
   papers_sort_relevance: 相关度
   papers_sort_newest: 最新
   papers_sort_cited: 被引最多
   papers_loading: 检索中…
   papers_results: "找到 {n} 条结果"
-  papers_no_results: 没有找到匹配的文献。可尝试扩大检索范围，或使用下方外链。
+  papers_no_results: 没有找到匹配的文献。可尝试减少关键词、取消“仅白蚁文献”，或勾选“全文检索”；也可使用下方外链。
   papers_error: "检索失败：{msg}。可稍后重试，或使用下方外链。"
   papers_cached: 实时检索不可用，以下为本站缓存的属级文献。
   papers_more: 加载更多
@@ -102,20 +104,22 @@ en:
   search_overlay_close: Close
 
   papers_heading: Literature search
-  papers_placeholder: "Latin name, Chinese name or keyword, e.g. Coptotermes formosanus / Formosan termite"
+  papers_placeholder: "Latin name, Chinese name or keywords, e.g. Coptotermes / molecular phylogeny"
   papers_search: Search
-  papers_hint: "Chinese, Latin names, synonyms, pinyin and traditional Chinese are supported. Results come from open OpenAlex and Crossref metadata; abstract coverage is about 60–70%."
+  papers_hint: "Termite (Isoptera) literature only by default. Separate multiple keywords with spaces; all must match (quote phrases), e.g. “molecular phylogeny”. Common Chinese/English terms are expanded automatically. Abstract coverage is about 60–70%."
   papers_examples: Examples
   papers_synonyms: Include synonyms
   papers_chinese_only: Chinese-language papers only
   papers_has_abstract: With abstract only
+  papers_scope: Termite literature only
+  papers_fulltext: Full-text search
   papers_sort: Sort
   papers_sort_relevance: Relevance
   papers_sort_newest: Newest
   papers_sort_cited: Most cited
   papers_loading: Searching…
   papers_results: "Found {n} results"
-  papers_no_results: No matching papers found. Try a broader query or use the external links below.
+  papers_no_results: "No matching papers found. Try fewer keywords, turn off “Termite literature only”, or enable “Full-text search”; you can also use the external links below."
   papers_error: "Search failed: {msg}. Try again later or use the external links below."
   papers_cached: Live search is unavailable; showing cached genus-level papers from this site.
   papers_more: Load more
@@ -173,20 +177,22 @@ es:
   search_overlay_close: Cerrar
 
   papers_heading: Búsqueda bibliográfica
-  papers_placeholder: "Nombre latino, nombre chino o palabra clave, p. ej. Coptotermes formosanus / termita"
+  papers_placeholder: "Nombre latino, nombre chino o palabras clave, p. ej. Coptotermes / molecular phylogeny"
   papers_search: Buscar
-  papers_hint: "Se admiten chino, nombres latinos, sinónimos, pinyin y chino tradicional. Los resultados proceden de metadatos abiertos de OpenAlex y Crossref; la cobertura de resúmenes es del 60–70%."
+  papers_hint: "Por defecto solo se busca literatura sobre termitas (Isoptera). Separe varias palabras clave con espacios; todas deben coincidir (use comillas para frases), p. ej. «filogenia molecular». Los términos comunes chino/inglés se amplían automáticamente. Cobertura de resúmenes: 60–70%."
   papers_examples: Ejemplos
   papers_synonyms: Incluir sinónimos
   papers_chinese_only: Solo artículos en chino
   papers_has_abstract: Solo con resumen
+  papers_scope: Solo literatura sobre termitas
+  papers_fulltext: Búsqueda en texto completo
   papers_sort: Ordenar
   papers_sort_relevance: Relevancia
   papers_sort_newest: Más recientes
   papers_sort_cited: Más citados
   papers_loading: Buscando…
   papers_results: "Se encontraron {n} resultados"
-  papers_no_results: No se encontraron artículos. Pruebe una búsqueda más amplia o los enlaces externos.
+  papers_no_results: "No se encontraron artículos. Pruebe con menos palabras clave, desactive «Solo literatura sobre termitas» o active «Búsqueda en texto completo»; también puede usar los enlaces externos."
   papers_error: "Error de búsqueda: {msg}. Inténtelo más tarde o use los enlaces externos."
   papers_cached: La búsqueda en vivo no está disponible; se muestran artículos del género guardados en la caché del sitio.
   papers_more: Cargar más

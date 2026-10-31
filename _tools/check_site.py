@@ -374,6 +374,12 @@ def check_papers(base_url: str) -> None:
         body = read(path)
         if 'id="papers-app"' not in body:
             err(page, "缺少 #papers-app 容器（assets/papers.js 不会初始化）")
+        for control in ("papers-scope", "papers-fulltext"):
+            if ('id="%s"' % control) not in body:
+                err(page, "缺少 #%s 控件（白蚁范围 / 全文检索无法切换）" % control)
+        for label in ("T.papers_scope", "T.papers_fulltext"):
+            if label not in body:
+                err(page, "缺少 %s 文案（i18n key 未接入）" % label)
         if ("permalink: " + url) not in body:
             err(page, "permalink 应为 " + url)
         if (base_url + url) not in sitemap:
