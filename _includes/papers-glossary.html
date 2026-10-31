@@ -1,0 +1,8 @@
+{%- comment -%}
+  摘要翻译术语表：数据见 _data/translation_glossary.yml（供人工审核修改）。
+  只在中文 ↔ 英文互译时生效；西班牙语目标不做术语干预。
+  以 JSON 内联给 assets/papers.js，避免额外请求；改术语表后请把 version +1。
+{%- endcomment -%}
+{%- if site.data.translation_glossary -%}
+<script type="application/json" id="papers-glossary">{{ site.data.translation_glossary | jsonify | replace: '</', '<\/' }}</script>
+{%- endif -%}

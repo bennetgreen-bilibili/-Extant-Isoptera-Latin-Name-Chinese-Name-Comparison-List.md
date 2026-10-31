@@ -26,6 +26,8 @@
      全文索引，否则一个属的 40 个种名会塞进属内每一页，搜一个种名冒出整属的无关结果
   16. 文献检索器：三语 /papers/ 页面、sitemap、papers.json / papers-index.json
       字节一致、属覆盖与摘要字段自洽
+  17. 摘要翻译术语表（_data/translation_glossary.yml）：结构、字段、重复项与 post 守卫，
+      且三语 /papers/ 页面都接入了 _includes/papers-glossary.html
 
 另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
 
@@ -361,6 +363,141 @@ def check_sitemap(base_url: str) -> None:
     for page in ("name-issues.md", "en/name-issues.md", "es/name-issues.md"):
         if not (ROOT / page).is_file():
             err(page, "命名差异看板页面缺失")
+
+
+GLOSSARY = ROOT / "_data" / "translation_glossary.yml"
+GLOSSARY_INCLUDE = ROOT / "_includes" / "papers-glossary.html"
+
+
+def parse_glossary(path: Path):
+    """解析 translation_glossary.yml 的受限子集（块式 mapping / sequence），返回 (data, problems)。"""
+    data = {"version": None, "extra_names": [], "mask": [], "post_zh": []}
+    problems = []
+    section = None
+    item = None
+    subkey = None
+    for no, raw in enumerate(read(path).splitlines(), 1):
+        line = raw.rstrip()
+        if not line.strip() or line.lstrip().startswith("#"):
+            continue
+        indent = len(line) - len(line.lstrip())
+        body = line.strip()
+        if indent == 0:
+            if body in ("extra_names:", "mask:", "post_zh:"):
+                section, item, subkey = body[:-1], None, None
+                continue
+            if body.startswith("version:"):
+                try:
+                    data["version"] = int(body.split(":", 1)[1].strip())
+                except ValueError:
+                    problems.append("第 %d 行 version 不是整数" % no)
+                continue
+            problems.append("第 %d 行未知顶层键：%s" % (no, body))
+            continue
+        if indent == 2 and body.startswith("- "):
+            item = {}
+            subkey = None
+            if section is None:
+                problems.append("第 %d 行列表项不在已知区段内" % no)
+                continue
+            data[section].append(item)
+            body = body[2:].strip()
+            if ":" not in body:
+                problems.append("第 %d 行列表项缺少 key: value" % no)
+                continue
+            key, value = body.split(":", 1)
+            item[key.strip()] = value.strip()
+            continue
+        if indent == 4 and item is not None:
+            if ":" not in body:
+                problems.append("第 %d 行缺少冒号" % no)
+                continue
+            key, value = body.split(":", 1)
+            key, value = key.strip(), value.strip()
+            if value == "":
+                if key not in ("when", "unless"):
+                    problems.append("第 %d 行 %s 缺少值" % (no, key))
+                item[key] = []
+                subkey = key
+            else:
+                item[key] = value
+                subkey = None
+            continue
+        if indent == 6 and body.startswith("- ") and item is not None and subkey:
+            item[subkey].append(body[2:].strip())
+            continue
+        problems.append("第 %d 行无法识别（缩进 %d）：%s" % (no, indent, body[:40]))
+    return data, problems
+
+
+def check_glossary() -> None:
+    """中英互译术语表：结构、字段、重复项与 post 守卫，以及三语页面是否接入。"""
+    if not GLOSSARY.is_file():
+        err("_data/translation_glossary.yml", "术语表缺失（摘要翻译会退回只有名录）")
+        return
+    data, problems = parse_glossary(GLOSSARY)
+    for problem in problems:
+        err("_data/translation_glossary.yml", problem)
+    if data["version"] is None:
+        err("_data/translation_glossary.yml", "缺 version（改术语表必须 +1，旧译文缓存才会失效）")
+    mask, posts, extra = data["mask"], data["post_zh"], data["extra_names"]
+    cjk = re.compile(r"[\u4e00-\u9fff]")
+    if len(mask) < 10 or len(posts) < 5:
+        err("_data/translation_glossary.yml", "条目过少（mask %d / post %d），疑似被误删" % (len(mask), len(posts)))
+    found = {item.get("en"): item.get("zh") for item in mask}
+    required_mask = {
+        "head capsule": "头壳", "antenna": "触角", "mandible": "上颚", "mouthparts": "口器",
+        "tarsus": "跗节", "tergite": "背板", "sternite": "腹板", "pronotum": "前胸背板",
+        "gizzard": "砂囊", "enteric valve": "肠瓣",
+    }
+    for en, zh in required_mask.items():
+        if found.get(en) != zh:
+            err("_data/translation_glossary.yml", "缺少关键形态术语 %s → %s（当前 %s）" % (en, zh, found.get(en)))
+    posts_map = {item.get("from"): item.get("to") for item in posts}
+    for frm, to in {"头舱": "头壳", "工人": "工蚁", "殖民地": "巢群"}.items():
+        if posts_map.get(frm) != to:
+            err("_data/translation_glossary.yml", "缺少关键纠错 %s → %s" % (frm, to))
+    seen = set()
+    for i, item in enumerate(mask):
+        en, zh = item.get("en"), item.get("zh")
+        if not en or not zh:
+            err("_data/translation_glossary.yml", "mask[%d] 缺 en/zh" % i)
+            continue
+        if not en.isascii():
+            err("_data/translation_glossary.yml", "mask[%d] en 含非 ASCII：%s" % (i, en))
+        if not cjk.search(zh):
+            err("_data/translation_glossary.yml", "mask[%d] zh 不含中文：%s" % (i, zh))
+        if en.lower() in seen:
+            err("_data/translation_glossary.yml", "mask 重复：%s" % en)
+        seen.add(en.lower())
+    seen = set()
+    for i, item in enumerate(posts):
+        frm, to, when = item.get("from"), item.get("to"), item.get("when")
+        if not frm or not to:
+            err("_data/translation_glossary.yml", "post_zh[%d] 缺 from/to" % i)
+            continue
+        if frm in seen:
+            err("_data/translation_glossary.yml", "post_zh 重复 from：%s" % frm)
+        seen.add(frm)
+        if frm == to:
+            err("_data/translation_glossary.yml", "post_zh[%d] from 与 to 相同：%s" % (i, frm))
+        if not isinstance(when, list) or not when:
+            err("_data/translation_glossary.yml", "post_zh[%d] 缺 when 守卫（会误伤其他语境）" % i)
+    for i, item in enumerate(extra):
+        if not item.get("latin") or not item.get("zh"):
+            err("_data/translation_glossary.yml", "extra_names[%d] 缺 latin/zh" % i)
+    if not GLOSSARY_INCLUDE.is_file():
+        err("_includes/papers-glossary.html", "术语表 JSON 桥接文件缺失")
+    else:
+        include_body = read(GLOSSARY_INCLUDE)
+        if 'id="papers-glossary"' not in include_body:
+            err("_includes/papers-glossary.html", '缺 id="papers-glossary"（前端读不到）')
+        if "site.data.translation_glossary" not in include_body:
+            err("_includes/papers-glossary.html", "没有输出 site.data.translation_glossary")
+    for page, _url in PAPERS_PAGES:
+        path = ROOT / page
+        if path.is_file() and "{% include papers-glossary.html %}" not in read(path):
+            err(page, "缺少 {% include papers-glossary.html %}（术语表不会进入页面）")
 
 
 def check_papers(base_url: str) -> None:
@@ -836,6 +973,7 @@ def main() -> int:
     check_counts(fields_by_slug, species_sets)
     check_sitemap(base_url)
     check_papers(base_url)
+    check_glossary()
     check_feeds_and_changelog(base_url)
     check_i18n()
     check_name_issues(fields_by_slug)

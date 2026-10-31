@@ -71,6 +71,7 @@ permalink: /en/papers/
   </section>
 
   {% include papers-i18n.html %}
+  {% include papers-glossary.html %}
 </div>
 
 <noscript><p class="papers-noscript">This page needs JavaScript. You can also search OpenAlex, Google Scholar or CNKI directly.</p></noscript>

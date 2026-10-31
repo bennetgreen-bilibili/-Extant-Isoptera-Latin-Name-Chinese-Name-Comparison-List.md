@@ -1,0 +1,504 @@
+# 文献检索器 · 摘要翻译术语表（只用于中文 ↔ 英文互译）
+#
+# 维护说明：
+#   - 只影响「中英互译」。西班牙语目标不做术语干预（仍为纯机器翻译）。
+#   - mask：翻译前把源语言术语替换成 [[n]] 占位符，译完还原成目标语言标准译名。
+#           只放「多词 / 罕见 / 无歧义」的词；常用普通词请放 post_zh，否则会破坏句法。
+#   - post_zh：只在中文译文里做「高频错误译法 → 标准术语」替换，不改原文；
+#           when / unless 用原文（英文）词判定，避免误伤其他语境。
+#   - 学名（3428 条拉丁名⇄中文正名）由名录自动生成，不在此文件重复；这里只补名录没有的名称。
+#   - 改完内容请把 version +1：页面会用版本号重算译文缓存，旧译文自动失效。
+#   - 形态/解剖术语按《中国白蚁志》等常用译法统一，供人工复核。
+version: 3
+
+# ---- 名录之外补充译名（名录已自动覆盖 3428 条） ----
+extra_names:
+  - latin: Isoptera
+    zh: 等翅下目
+  - latin: Blattodea
+    zh: 蜚蠊目
+  - latin: Dictyoptera
+    zh: 网翅总目
+  - latin: Termitoidae
+    zh: 白蚁领科
+  - latin: Termitomyces
+    zh: 鸡枞菌属
+  - latin: Trichoderma
+    zh: 木霉属
+  - latin: Metarhizium
+    zh: 绿僵菌属
+  - latin: Beauveria
+    zh: 白僵菌属
+  - latin: Bacillus
+    zh: 芽孢杆菌属
+  - latin: Pseudomonas
+    zh: 假单胞菌属
+  - latin: Wolbachia
+    zh: 沃尔巴克氏体属
+  - latin: Pinus
+    zh: 松属
+  - latin: Eucalyptus
+    zh: 桉属
+  - latin: Acacia
+    zh: 金合欢属
+
+# ---- 遮蔽类术语：翻译前遮蔽、译后还原；只放多词/罕见/无歧义词 ----
+mask:
+  # 昆虫形态 / 解剖（头壳、上颚、触角、跗节、砂囊、肠瓣…）
+  - en: head capsule
+    zh: 头壳
+  - en: antenna
+    zh: 触角
+  - en: antennae
+    zh: 触角
+  - en: antennal socket
+    zh: 触角窝
+  - en: antennal segment
+    zh: 触角节
+  - en: antennal carina
+    zh: 触角脊
+  - en: flagellum
+    zh: 鞭节
+  - en: scape
+    zh: 柄节
+  - en: pedicel
+    zh: 梗节
+  - en: clypeus
+    zh: 唇基
+  - en: labrum
+    zh: 上唇
+  - en: frons
+    zh: 额
+  - en: vertex
+    zh: 头顶
+  - en: occiput
+    zh: 后头
+  - en: epicranial suture
+    zh: 头盖缝
+  - en: fontanelle
+    zh: 囟
+  - en: frontal pore
+    zh: 额孔
+  - en: frontal tube
+    zh: 额管
+  - en: mandible
+    zh: 上颚
+  - en: maxilla
+    zh: 下颚
+  - en: maxillae
+    zh: 下颚
+  - en: labium
+    zh: 下唇
+  - en: maxillary palp
+    zh: 下颚须
+  - en: labial palp
+    zh: 下唇须
+  - en: mouthparts
+    zh: 口器
+  - en: mandibulate
+    zh: 大颚型
+  - en: nasute
+    zh: 象鼻型
+  - en: prothorax
+    zh: 前胸
+  - en: mesothorax
+    zh: 中胸
+  - en: metathorax
+    zh: 后胸
+  - en: abdomen
+    zh: 腹部
+  - en: pronotum
+    zh: 前胸背板
+  - en: mesonotum
+    zh: 中胸背板
+  - en: metanotum
+    zh: 后胸背板
+  - en: gena
+    zh: 颊
+  - en: postmentum
+    zh: 后颏
+  - en: submentum
+    zh: 亚颏
+  - en: coxa
+    zh: 基节
+  - en: trochanter
+    zh: 转节
+  - en: femur
+    zh: 腿节
+  - en: tibia
+    zh: 胫节
+  - en: tarsus
+    zh: 跗节
+  - en: tarsomere
+    zh: 跗分节
+  - en: tarsal claw
+    zh: 跗爪
+  - en: pretarsus
+    zh: 前跗节
+  - en: foreleg
+    zh: 前足
+  - en: midleg
+    zh: 中足
+  - en: hindleg
+    zh: 后足
+  - en: wing
+    zh: 翅
+  - en: forewing
+    zh: 前翅
+  - en: hindwing
+    zh: 后翅
+  - en: wing venation
+    zh: 翅脉
+  - en: basal suture
+    zh: 基缝
+  - en: tergite
+    zh: 背板
+  - en: sternite
+    zh: 腹板
+  - en: pleuron
+    zh: 侧板
+  - en: cercus
+    zh: 尾须
+  - en: exoskeleton
+    zh: 外骨骼
+  - en: integument
+    zh: 体壁
+  - en: seta
+    zh: 刚毛
+  - en: setae
+    zh: 刚毛
+  - en: sensillum
+    zh: 感器
+  - en: sensilla
+    zh: 感器
+  - en: ocellus
+    zh: 单眼
+  - en: ocelli
+    zh: 单眼
+  - en: compound eye
+    zh: 复眼
+  - en: tubercle
+    zh: 瘤突
+  - en: microsculpturing
+    zh: 微雕纹
+  - en: gizzard
+    zh: 砂囊
+  - en: gizzard armature
+    zh: 砂囊结构
+  - en: mesenteron
+    zh: 中肠
+  - en: stomodeum
+    zh: 口道
+  - en: stomodaeum
+    zh: 口道
+  - en: proctodeum
+    zh: 肛道
+  - en: proctodaeum
+    zh: 肛道
+  - en: proctodeal segment
+    zh: 肛道节
+  - en: enteric valve
+    zh: 肠瓣
+  - en: enteric valve armature
+    zh: 肠瓣结构
+  - en: mixed segment
+    zh: 混合节段
+  - en: paunch
+    zh: 后肠囊
+  - en: ileum
+    zh: 回肠
+  - en: colon
+    zh: 结肠
+  - en: rectum
+    zh: 直肠
+  - en: rectal pad
+    zh: 直肠垫
+  - en: digestive tube
+    zh: 消化管
+  - en: alimentary canal
+    zh: 消化道
+  - en: ovariole
+    zh: 卵巢管
+  - en: spermatheca
+    zh: 受精囊
+  - en: testis
+    zh: 精巢
+  - en: testes
+    zh: 精巢
+  # 行为 / 生态 / 生活史
+  - en: fungus comb
+    zh: 菌圃
+  - en: nuptial flight
+    zh: 婚飞
+  - en: dispersal flight
+    zh: 分飞
+  - en: mating flight
+    zh: 婚飞
+  - en: trophallaxis
+    zh: 交哺
+  - en: pseudergate
+    zh: 拟工蚁
+  - en: dealate
+    zh: 脱翅繁殖蚁
+  - en: alate
+    zh: 繁殖蚁
+  - en: imago
+    zh: 成虫
+  - en: caste differentiation
+    zh: 品级分化
+  - en: caste determination
+    zh: 品级决定
+  - en: primary reproductives
+    zh: 原始繁殖蚁
+  - en: secondary reproductives
+    zh: 补充繁殖蚁
+  - en: neotenic
+    zh: 幼态繁殖蚁
+  - en: parthenogenesis
+    zh: 孤雌生殖
+  - en: sex ratio
+    zh: 性比
+  - en: colony foundation
+    zh: 建巢
+  - en: colony founding
+    zh: 建巢
+  - en: brood care
+    zh: 育幼
+  - en: worker caste
+    zh: 工蚁品级
+  - en: soldier caste
+    zh: 兵蚁品级
+  - en: termite mound
+    zh: 白蚁丘
+  - en: mound building
+    zh: 筑丘
+  - en: termitarium
+    zh: 白蚁巢
+  - en: feeding preference
+    zh: 取食偏好
+  - en: feeding behavior
+    zh: 取食行为
+  - en: feeding behaviour
+    zh: 取食行为
+  - en: host plant
+    zh: 寄主植物
+  - en: dispersal
+    zh: 扩散
+  # 生理 / 生化 / 分子 / 防治
+  - en: lignocellulose
+    zh: 木质纤维素
+  - en: hemicellulose
+    zh: 半纤维素
+  - en: cellulase
+    zh: 纤维素酶
+  - en: lignin
+    zh: 木质素
+  - en: cellulose
+    zh: 纤维素
+  - en: xylan
+    zh: 木聚糖
+  - en: xylose
+    zh: 木糖
+  - en: fat body
+    zh: 脂肪体
+  - en: Malpighian tubules
+    zh: 马氏管
+  - en: frontal gland
+    zh: 额腺
+  - en: labial gland
+    zh: 下唇腺
+  - en: salivary gland
+    zh: 唾腺
+  - en: exocrine gland
+    zh: 外分泌腺
+  - en: cuticular hydrocarbon
+    zh: 表皮碳氢化合物
+  - en: tibial spur
+    zh: 胫距
+  - en: gut microbiota
+    zh: 肠道微生物群
+  - en: microbial community
+    zh: 微生物群落
+  - en: nitrogen fixation
+    zh: 固氮
+  - en: nitrogenase
+    zh: 固氮酶
+  - en: methanogenesis
+    zh: 产甲烷
+  - en: acetogenesis
+    zh: 产乙酸
+  - en: wood decay
+    zh: 木材腐朽
+  - en: biological control
+    zh: 生物防治
+  - en: chemical control
+    zh: 化学防治
+  - en: bait station
+    zh: 诱饵站
+  - en: termite bait
+    zh: 白蚁诱饵
+  - en: termiticide
+    zh: 杀白蚁剂
+  - en: chitin synthase
+    zh: 几丁质合成酶
+  - en: juvenile hormone
+    zh: 保幼激素
+  - en: 20-hydroxyecdysone
+    zh: 20-羟基蜕皮酮
+  - en: ecdysis
+    zh: 蜕皮
+  - en: oviposition
+    zh: 产卵
+  - en: fecundity
+    zh: 繁殖力
+  - en: integrated pest management
+    zh: 有害生物综合治理
+
+# ---- 中文译文纠错：高频普通词的机器翻译错误 → 标准术语 ----
+# when：原文必须出现其中任一词才替换；unless：原文出现则跳过（可留空）。
+post_zh:
+  - from: 头舱
+    to: 头壳
+    when:
+      - head capsule
+  - from: 天线
+    to: 触角
+    when:
+      - antenna
+      - antennae
+  - from: 触须
+    to: 触角
+    when:
+      - antenna
+      - antennae
+  - from: 前腿
+    to: 前足
+    when:
+      - foreleg
+      - forelegs
+  - from: 中腿
+    to: 中足
+    when:
+      - midleg
+      - midlegs
+  - from: 后腿
+    to: 后足
+    when:
+      - hindleg
+      - hindlegs
+  - from: 股骨
+    to: 腿节
+    when:
+      - femur
+      - femora
+  - from: 胫骨
+    to: 胫节
+    when:
+      - tibia
+      - tibiae
+  - from: 跗骨
+    to: 跗节
+    when:
+      - tarsus
+      - tarsi
+  - from: 爪子
+    to: 爪
+    when:
+      - claw
+      - claws
+  - from: 砂砾
+    to: 砂囊
+    when:
+      - gizzard
+  - from: 棘骨
+    to: 刺
+    when:
+      - spine
+      - spines
+  - from: 衔铁
+    to: 结构
+    when:
+      - armature
+  - from: 工人
+    to: 工蚁
+    when:
+      - worker
+      - workers
+  - from: 士兵
+    to: 兵蚁
+    when:
+      - soldier
+      - soldiers
+  - from: 工蜂
+    to: 工蚁
+    when:
+      - worker
+      - workers
+  - from: 殖民地
+    to: 巢群
+    when:
+      - colony
+      - colonies
+  - from: 白蚁群
+    to: 巢群
+    when:
+      - colony
+      - colonies
+  - from: 真菌梳子
+    to: 菌圃
+    when:
+      - fungus comb
+  - from: 婚礼飞行
+    to: 婚飞
+    when:
+      - nuptial flight
+      - mating flight
+  - from: 交配飞行
+    to: 婚飞
+    when:
+      - nuptial flight
+      - mating flight
+  - from: 雏鸟
+    to: 幼体
+    when:
+      - brood
+  - from: 种姓
+    to: 品级
+    when:
+      - caste
+  - from: 上颌骨
+    to: 上颚
+    when:
+      - mandible
+  - from: 下颌骨
+    to: 上颚
+    when:
+      - mandible
+  - from: 白蚁丘
+    to: 蚁丘
+    when:
+      - mound
+  - from: 巢穴
+    to: 巢
+    when:
+      - nest
+  - from: 王后
+    to: 蚁后
+    when:
+      - queen
+  - from: 国王
+    to: 蚁王
+    when:
+      - king
+  - from: 表皮层
+    to: 角质层
+    when:
+      - cuticle
+  - from: 木材腐烂
+    to: 木材腐朽
+    when:
+      - wood decay
+  - from: 等翅目
+    to: 等翅下目
+    when:
+      - Isoptera

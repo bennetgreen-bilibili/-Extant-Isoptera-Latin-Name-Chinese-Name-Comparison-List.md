@@ -71,6 +71,7 @@ permalink: /papers/
   </section>
 
   {% include papers-i18n.html %}
+  {% include papers-glossary.html %}
 </div>
 
 <noscript><p class="papers-noscript">本页需要 JavaScript；也可以直接去 OpenAlex、Google Scholar 或知网检索。</p></noscript>

@@ -69,6 +69,7 @@
     translateQuota: 'Today’s free translation quota is used up; use an external translator below.',
     translateError: 'Translation is unavailable right now; use an external translator below.',
     translateMachine: 'Machine translation for reference only; scientific names and technical terms may be inaccurate.',
+    translateTerms: 'checklist/glossary adjusted',
     translateFallback: 'External translator',
     langZh: '中文',
     langEn: 'English',
@@ -690,11 +691,17 @@
   // 仍失败则退到 Google 翻译的非官方接口（部分地区网络不可达）。
   // 也可在 #papers-app 上配置 data-translate-url（LibreTranslate 兼容服务，可选
   // data-translate-key）优先使用，适合自建或 Cloudflare Worker 代理。
-  // 译文写入 localStorage（按 原文+目标语言 哈希缓存），重复浏览不再消耗额度。
+  //
+  // 中英互译时用「名录 + 术语表」干预（西班牙语目标不做干预）：
+  //   1) 名录：3428 条拉丁名 ⇄ 中文正名，翻译前遮蔽成 [[n]]，译完还原成目标语言正名，
+  //      中文译文首次出现写成「中文名（拉丁名）」；
+  //   2) 术语表（_data/translation_glossary.yml）：遮蔽多词/罕见术语，译完还原；
+  //   3) 中文译文再做一次高频错译纠正（post_zh，例如 工人→工蚁、殖民地→巢群）。
+  // 译文写入 localStorage（按 原文+方向+名录/术语表版本 哈希缓存），重复浏览不再耗额度。
   var TRANSLATE_TIMEOUT = 15000;
   var TRANSLATE_TARGETS = ['zh-CN', 'en', 'es'];
   var TRANSLATE_LABELS = { 'zh-CN': 'langZh', 'en': 'langEn', 'es': 'langEs' };
-  var TR_CACHE_PREFIX = 'papers-tr:v1:';
+  var TR_CACHE_PREFIX = 'papers-tr:v2:';
   var TR_CACHE_MAX = 40;
   var translateUid = 0;
 
@@ -728,89 +735,332 @@
     if (l === 'es') return 'es';
     return 'zh-CN';
   }
-  // 摘要语种：先看中日韩字符占比（最可靠），再看元数据 language，最后按重音符号猜西语。
+  // 源语种判断：中日韩字符占比最可靠；其余用高辨识度功能词 + 重音符号区分
+  // es / pt / fr / de；都不明显时最后才信 OpenAlex 的 language 元数据。
+  // 返回值可直接当 MyMemory 的 langpair 源语言代码。
+  var LANG_WORD_RE = {
+    es: /\b(?:el|los|las|una|del|por|para|al|es|son|como|este|esta|entre|desde|más)\b/gi,
+    pt: /\b(?:os|um|uma|dos|das|com|não|nao|mais|também|tambem|são|sao|pela|pelo|aos|da)\b/gi,
+    fr: /\b(?:le|la|les|des|une|du|et|pour|avec|dans|est|sont|qui|que|sur|par|ont|été|ete|aux)\b/gi,
+    de: /\b(?:der|die|das|und|ist|sind|mit|von|den|des|auf|für|fur|nicht|werden|wurde|auch|als|bei)\b/gi
+  };
+  var LANG_MARK_RE = {
+    es: /[áéíóúüñ¿¡]/gi,
+    pt: /[ãõçâêô]/gi,
+    fr: /[èêàçôûîïœ]/gi,
+    de: /[äöüß]/gi
+  };
+  function countMatches(s, re) {
+    var found = text(s).match(re);
+    return found ? found.length : 0;
+  }
+  function bestByCount(s, table, min) {
+    var best = '', bestN = 0;
+    Object.keys(table).forEach(function (code) {
+      var n = countMatches(s, table[code]);
+      if (n > bestN) { bestN = n; best = code; }
+    });
+    return bestN >= min ? best : '';
+  }
   function detectLang(sample, hint) {
     var s = text(sample);
     var cjk = (s.match(/[\u3400-\u9fff]/g) || []).length;
     if (cjk >= 8 && cjk / (s.length || 1) > 0.06) return 'zh-CN';
-    // 西语特征优先于 language 元数据：英文里几乎不出现的西语功能词更有辨识度，
-    // 可避免元数据缺失或标错时把西语摘要当英语送翻译。
-    var esWords = (s.match(/\b(?:el|los|las|una|del|por|para|al|es|son|como|este|esta|entre|desde|más)\b/gi) || []).length;
-    if (esWords >= 4) return 'es';
-    var marks = (s.match(/[áéíóúüñ¿¡]/gi) || []).length;
-    if (marks >= 3) return 'es';
     var h = norm(hint).replace(/_/g, '-');
     if (h.indexOf('zh') === 0) return 'zh-CN';
+    var byWord = bestByCount(s, LANG_WORD_RE, 4);
+    if (byWord) return byWord;
+    var byMark = bestByCount(s, LANG_MARK_RE, 3);
+    if (byMark) return byMark;
     if (h.indexOf('es') === 0) return 'es';
+    if (h.indexOf('pt') === 0) return 'pt';
+    if (h.indexOf('fr') === 0) return 'fr';
+    if (h.indexOf('de') === 0) return 'de';
     if (h.indexOf('en') === 0) return 'en';
     return 'en';
   }
-  // 机器翻译常把拉丁学名翻成无关词（Coptotermes formosanus → “台湾黄百合”）。
-  // 翻译前把已知分类群名换成 [[n]] 占位符，译完再还原；实测该接口会原样保留占位符。
-  var latinRegexCache = null, latinRegexSig = '';
-  function latinNameList() {
-    var seen = {}, out = [];
-    function add(value) {
-      var s = text(value).trim();
-      if (!s || seen[norm(s)]) return;
-      if (!/^[A-Z][a-z]{2,}(?:\s+[a-z][a-z-]+)?$/.test(s)) return;
-      seen[norm(s)] = 1;
-      out.push(s);
-    }
-    TERMITE_CONTEXT.forEach(add);
-    if (state.selected) {
-      add(state.selected.l);
-      taxonSynonyms(state.selected).forEach(add);
-    }
-    if (state.taxa) {
-      for (var i = 0; i < state.taxa.length; i++) {
-        var entry = state.taxa[i];
-        if (entry && entry.r === '属') add(entry.l);
-      }
-    }
-    out.sort(function (a, b) { return b.length - a.length; });
-    return out;
-  }
-  function latinRegex() {
-    var sig = (state.selected ? state.selected.l : '') + '|' + (state.taxa ? '1' : '0');
-    if (latinRegexSig === sig) return latinRegexCache;
-    latinRegexSig = sig;
-    var names = latinNameList();
-    latinRegexCache = names.length
-      ? new RegExp('\\b(?:' + names.map(function (n) {
-        return n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+');
-      }).join('|') + ')(?:\\s+[a-z][a-z-]+)?\\b', 'g')
-      : null;
-    return latinRegexCache;
-  }
-  function protectNames(chunk) {
-    var re = latinRegex();
-    var plain = { text: chunk, restore: function (v) { return text(v); } };
-    if (!re) return plain;
-    var map = [];
-    re.lastIndex = 0;
-    var masked = chunk.replace(re, function (match) {
-      map.push({ token: '[[' + map.length + ']]', value: match });
-      return map[map.length - 1].token;
-    });
-    if (!map.length) return plain;
-    if (byteLength(masked) > 495) return plain;   // 占位符撑破单次上限时放弃保护
-    return {
-      text: masked,
-      restore: function (translated) {
-        var out = text(translated);
-        for (var i = 0; i < map.length; i++) {
-          if (out.indexOf(map[i].token) < 0) continue;
-          out = out.split(map[i].token).join(map[i].value);
+  // 机器翻译常把学名/术语翻错（Coptotermes formosanus → “台湾黄百合”、worker → “工人”）。
+  // 这里建立「译名计划」：翻译前把已知名称换成 [[n]] 占位符，译完按目标语言还原成
+  // 名录中文正名 / 拉丁名 / 术语表译名；中文译文再跑一遍高频错译纠正。
+  var glossaryCache = null;
+  function loadGlossary() {
+    if (glossaryCache) return glossaryCache;
+    glossaryCache = { version: 0, extra_names: [], mask: [], post_zh: [] };
+    try {
+      var el = document.getElementById('papers-glossary');
+      if (el) {
+        var data = JSON.parse(el.textContent || '{}');
+        if (data && typeof data === 'object') {
+          glossaryCache.version = Number(data.version) || 0;
+          glossaryCache.extra_names = Array.isArray(data.extra_names) ? data.extra_names : [];
+          glossaryCache.mask = Array.isArray(data.mask) ? data.mask : [];
+          glossaryCache.post_zh = Array.isArray(data.post_zh) ? data.post_zh : [];
         }
-        // 兼容接口给占位符加空格或换成全角方括号的情况
-        out = out.replace(/\[\s*\[\s*(\d+)\s*\]\s*\]/g, function (whole, idx) {
-          var item = map[Number(idx)];
-          return item ? item.value : whole;
-        });
-        return out;
       }
+    } catch (e) { /* 术语表异常时退回只有名录 */ }
+    return glossaryCache;
+  }
+
+  // 名录（search-index.json）→ 拉丁名 ⇄ 中文正名映射；随分类群索引与术语表版本缓存。
+  var nameMapsCache = null, nameMapsSig = '';
+  function nameMaps() {
+    var glossary = loadGlossary();
+    var sig = (state.taxa ? state.taxa.length : 0) + '|' + glossary.version;
+    if (nameMapsCache && nameMapsSig === sig) return nameMapsCache;
+    nameMapsSig = sig;
+
+    var taxa = state.taxa || [];
+    var speciesZh = {}, zhCount = {};
+    var i, entry, latin, zhName;
+    for (i = 0; i < taxa.length; i++) {
+      entry = taxa[i];
+      if (!entry || !entry.l || !entry.z) continue;
+      latin = text(entry.l).trim();
+      zhName = text(entry.z).trim();
+      if (!latin || !zhName) continue;
+      if (latin.split(/\s+/).length === 2) speciesZh[latin] = zhName;
+      zhCount[zhName] = (zhCount[zhName] || 0) + 1;
+    }
+
+    var latinToZh = {}, latinToZhLower = {}, zhToLatin = {}, latinList = [], zhList = [];
+    var seenLatin = {};
+    function addPair(name, translated) {
+      if (!name || !translated || !/^[A-Za-z]/.test(name)) return;
+      if (!latinToZh[name]) {
+        latinToZh[name] = translated;
+        // 名录里科名是全大写（TERMITIDAE），摘要常写混合大小写，需小写索引兜底
+        if (!latinToZhLower[norm(name)]) latinToZhLower[norm(name)] = translated;
+        latinList.push(name);
+      }
+      // 反向映射（中文→拉丁）只收唯一且 ≥3 字的中文名，避免「白蚁科」⊂「澳白蚁科」这类误伤
+      if (zhCount[translated] === 1 && translated.length >= 3 && !zhToLatin[translated]) {
+        zhToLatin[translated] = name;
+        zhList.push(translated);
+      }
+    }
+    function addProtectOnly(name) {
+      if (!name || !/^[A-Za-z]/.test(name) || seenLatin[norm(name)]) return;
+      seenLatin[norm(name)] = 1;
+      latinList.push(name);
+    }
+
+    for (i = 0; i < taxa.length; i++) {
+      entry = taxa[i];
+      if (!entry || !entry.l || !entry.z) continue;
+      latin = text(entry.l).trim();
+      zhName = text(entry.z).trim();
+      var parts = latin.split(/\s+/);
+      if (parts.length >= 3) {
+        var speciesName = speciesZh[parts.slice(0, 2).join(' ')];
+        addPair(latin, speciesName ? (speciesName + '（' + zhName + '）') : zhName);
+      } else {
+        addPair(latin, zhName);
+      }
+    }
+    // 术语表补充名称（名录没有的：Isoptera、Termitomyces 等）
+    glossary.extra_names.forEach(function (item) {
+      if (item && item.latin && item.zh) addPair(text(item.latin).trim(), text(item.zh).trim());
+    });
+    // 当前选中的分类群及其次异名一定进表
+    if (state.selected) {
+      addPair(text(state.selected.l), text(state.selected.z));
+      var selectedZh = latinToZh[text(state.selected.l)];
+      if (selectedZh) {
+        taxonSynonyms(state.selected).forEach(function (syn) { addPair(syn, selectedZh); });
+      }
+    }
+    // 名录次异名 → 接受名中文名
+    for (i = 0; i < taxa.length; i++) {
+      entry = taxa[i];
+      if (!entry || !entry.s || !entry.l) continue;
+      var acceptedZh = latinToZh[text(entry.l).trim()];
+      if (!acceptedZh) continue;
+      String(entry.s).split(';').forEach(function (raw) {
+        var syn = cleanSynonym(raw);
+        if (syn) addPair(syn, acceptedZh);
+      });
+    }
+    // 常用属名兜底：分类群索引没加载完时也能保护学名（只保护不翻译）
+    TERMITE_CONTEXT.forEach(addProtectOnly);
+
+    nameMapsCache = {
+      latinToZh: latinToZh,
+      latinToZhLower: latinToZhLower,
+      zhToLatin: zhToLatin,
+      latinList: latinList,
+      zhList: zhList
     };
+    return nameMapsCache;
+  }
+
+  function escapeRegExp(value) {
+    return text(value).replace(/[-.*+?^$(){}|[\]\\]/g, '\\$&');
+  }
+  function alternationRegex(items, latin) {
+    if (!items || !items.length) return null;
+    var sorted = items.slice().sort(function (a, b) { return b.length - a.length; });
+    var body = sorted.map(function (item) {
+      return escapeRegExp(item).replace(/\s+/g, '\\s+');
+    }).join('|');
+    // 拉丁名后允许跟一个等级词（如 Nasutitermitinae subfamily），中文名已含等级，还原时丢掉
+    return latin
+      ? new RegExp('\\b(?:' + body + ')(?:\\s+(?:subfamily|family|genus))?\\b', 'gi')
+      : new RegExp('(?:' + body + ')', 'g');
+  }
+  function termRegex(terms) {
+    if (!terms || !terms.length) return null;
+    var sorted = terms.slice().sort(function (a, b) { return b.length - a.length; });
+    var body = sorted.map(function (item) {
+      return escapeRegExp(item).replace(/\s+/g, '\\s+');
+    }).join('|');
+    return new RegExp('\\b(?:' + body + ')(?:s|es)?\\b', 'gi');
+  }
+  function lookupTerm(termMap, match) {
+    var key = norm(match);
+    if (termMap[key]) return termMap[key];
+    if (termMap[key.replace(/es$/, '')]) return termMap[key.replace(/es$/, '')];
+    if (termMap[key.replace(/s$/, '')]) return termMap[key.replace(/s$/, '')];
+    return '';
+  }
+
+  // 译名计划：mode = to-zh（英文等 → 中文）/ to-en（中文 → 英文）/ latinKeep（只保护拉丁名，如西语目标）
+  function createProtection(source, target) {
+    var glossary = loadGlossary();
+    var mode = 'latinKeep';
+    if (target === 'zh-CN' && source !== 'zh-CN') mode = 'to-zh';
+    else if (target === 'en' && source === 'zh-CN') mode = 'to-en';
+
+    var maps = nameMaps();
+    var seen = {};
+    var latinRe = alternationRegex(maps.latinList, true);
+    var zhRe = mode === 'to-en' ? alternationRegex(maps.zhList, false) : null;
+    var maskEn = {}, maskZh = {}, enTerms = [], zhTerms = [];
+    if (mode !== 'latinKeep') {
+      glossary.mask.forEach(function (item) {
+        if (!item) return;
+        var en = text(item.en).trim();
+        var zhName = text(item.zh).trim();
+        if (!en || !zhName) return;
+        maskEn[norm(en)] = zhName;
+        maskZh[zhName] = en;
+        if (enTerms.indexOf(en) < 0) enTerms.push(en);
+        if (zhTerms.indexOf(zhName) < 0) zhTerms.push(zhName);
+      });
+    }
+    var enTermRe = mode === 'to-zh' ? termRegex(enTerms) : null;
+    var zhTermRe = mode === 'to-en' ? alternationRegex(zhTerms, false) : null;
+
+    function protect(chunk) {
+      var raw = text(chunk);
+      var tokens = [];
+      var out = raw;
+      function push(value) {
+        var token = '[[' + tokens.length + ']]';
+        tokens.push({ token: token, value: value });
+        return token;
+      }
+      if (latinRe && (mode === 'to-zh' || mode === 'latinKeep')) {
+        latinRe.lastIndex = 0;
+        out = out.replace(latinRe, function (match) {
+          var name = match.replace(/\s+/g, ' ');
+          if (mode === 'latinKeep') return push(name);
+          // 摘要常写「Nasutitermitinae subfamily」，中文名已含「亚科」，吃掉等级词避免重复
+          var rank = '';
+          var rankHit = name.match(/\s+(subfamily|family|genus)$/i);
+          if (rankHit) { rank = ' ' + rankHit[1]; name = name.slice(0, name.length - rank.length); }
+          var zhName = maps.latinToZh[name] || maps.latinToZhLower[norm(name)];
+          if (!zhName) return push(name + rank);
+          var key = norm(name);
+          var times = seen[key] || 0;
+          seen[key] = times + 1;
+          return push(times ? zhName : (zhName + '（' + name + '）'));
+        });
+      }
+      if (enTermRe && mode === 'to-zh') {
+        enTermRe.lastIndex = 0;
+        out = out.replace(enTermRe, function (match) {
+          var zhName = lookupTerm(maskEn, match);
+          return zhName ? push(zhName) : match;
+        });
+      }
+      if (mode === 'to-en') {
+        if (zhRe) {
+          zhRe.lastIndex = 0;
+          out = out.replace(zhRe, function (match) {
+            var latin = maps.zhToLatin[match];
+            return latin ? push(latin) : match;
+          });
+        }
+        if (zhTermRe) {
+          zhTermRe.lastIndex = 0;
+          out = out.replace(zhTermRe, function (match) {
+            var en = maskZh[match];
+            return en ? push(en) : match;
+          });
+        }
+      }
+      if (!tokens.length) return { text: raw, tokens: [], restore: function (value) { return text(value); } };
+      if (byteLength(out) > 495) {
+        // 形态/术语密集时占位符会撑破单次上限：标记 dropped，让上层二分重切后重试，
+        // 不能整块放弃（否则会出现「头舱/旋前肌」这类漏网机翻）。
+        return { text: raw, tokens: [], dropped: true, restore: function (value) { return text(value); } };
+      }
+      return {
+        text: out,
+        tokens: tokens,
+        restore: function (translated) {
+          var value = text(translated);
+          for (var i = 0; i < tokens.length; i++) {
+            if (value.indexOf(tokens[i].token) < 0) continue;
+            value = value.split(tokens[i].token).join(tokens[i].value);
+          }
+          // 兼容接口给占位符加空格/换全角方括号的情况
+          value = value.replace(/\[\s*\[\s*(\d+)\s*\]\s*\]/g, function (whole, idx) {
+            var item = tokens[Number(idx)];
+            return item ? item.value : whole;
+          });
+          return value;
+        }
+      };
+    }
+    return { mode: mode, protect: protect };
+  }
+
+  // 中文译文高频错译纠正（术语表 post_zh）：when / unless 用原文英文词做守卫。
+  function postGuard(item, sourceText) {
+    var src = norm(sourceText);
+    var i;
+    var when = Array.isArray(item.when) ? item.when : [];
+    if (when.length) {
+      var hit = false;
+      for (i = 0; i < when.length; i++) {
+        if (src.indexOf(norm(when[i])) >= 0) { hit = true; break; }
+      }
+      if (!hit) return false;
+    }
+    var unless = Array.isArray(item.unless) ? item.unless : [];
+    for (i = 0; i < unless.length; i++) {
+      if (src.indexOf(norm(unless[i])) >= 0) return false;
+    }
+    return true;
+  }
+  function applyPostEdits(translated, sourceText) {
+    var list = loadGlossary().post_zh;
+    var out = text(translated);
+    var applied = 0;
+    if (!out || !list.length) return { text: out, count: 0 };
+    for (var i = 0; i < list.length; i++) {
+      var item = list[i] || {};
+      var from = text(item.from);
+      var to = text(item.to);
+      if (!from || !to || from === to) continue;
+      if (!postGuard(item, sourceText)) continue;
+      if (out.indexOf(from) < 0) continue;
+      var before = out;
+      out = out.split(from).join(to);
+      if (out !== before) applied += 1;
+    }
+    return { text: out, count: applied };
   }
 
   // 按制表符/空白边界切块，保持每块不超过接口字节上限；超长单词硬切。
@@ -889,6 +1139,11 @@
       var out = decodeEntities(data && data.responseData && data.responseData.translatedText);
       if (!out) throw translateError('error', 'empty translation');
       return out;
+    }).catch(function (err) {
+      if (err && err.translateCode) throw err;
+      var message = text(err && err.message);
+      if (/HTTP (?:429|403)/.test(message)) throw translateError('quota', message);
+      throw err;
     });
   }
 
@@ -969,51 +1224,108 @@
     return out.replace(/\s{2,}/g, ' ').trim();
   }
 
-  // 按提供方顺序逐个尝试；每块单独请求，进度回调 (已完成块数, 总块数)。
-  function translateText(fullText, from, to, onProgress) {
-    // 顺手加载分类群索引：拿到全部属名后，学名保护能覆盖更多属（拿不到也不影响翻译）。
-    if (!state.taxa && typeof loadTaxa === 'function') loadTaxa().catch(function () {});
-    var providers = translateProviderList();
-    var index = 0;
-    var lastError = null;
-    function attempt() {
-      if (index >= providers.length) {
-        return Promise.reject(lastError || translateError('error', 'no provider'));
-      }
-      var provider = providers[index++];
-      var chunks = splitChunks(fullText, provider.chunk);
-      if (!chunks.length) return Promise.reject(translateError('error', 'empty abstract'));
-      var parts = [], pos = 0, withEmail = false;
-      function step() {
-        if (pos >= chunks.length) {
-          return Promise.resolve({ text: joinChunks(parts, to), provider: provider.name });
-        }
-        var chunk = chunks[pos];
-        var guarded = protectNames(chunk);
-        return translateChunk(provider, guarded.text, from, to, withEmail).then(function (out) {
-          parts.push(guarded.restore(out));
-          pos += 1;
-          if (onProgress) onProgress(pos, chunks.length);
-          return step();
-        }, function (err) {
-          // 匿名额度用尽：改用站点邮箱额度重试同一块（每块只重试一次）。
-          if (err && err.translateCode === 'quota' && provider.kind === 'mymemory' && !withEmail) {
-            withEmail = true;
-            return step();
-          }
-          throw err;
-        });
-      }
-      return step().catch(function (err) {
-        lastError = err;
-        return attempt();
-      });
-    }
-    return attempt();
+  // 名录/术语表只在中英互译时生效；其它方向只保护拉丁学名不被改写。
+  function needsNameMaps(from, to) {
+    return (to === 'zh-CN' && from !== 'zh-CN') || (to === 'en' && from === 'zh-CN');
+  }
+  function ensureTaxa(ms) {
+    if (state.taxa) return Promise.resolve(state.taxa);
+    if (typeof loadTaxa === 'function') loadTaxa().catch(function () {});
+    if (!state.taxaPromise) return Promise.resolve(null);
+    return Promise.race([
+      state.taxaPromise.catch(function () { return null; }),
+      delay(ms || 3500).then(function () { return null; })
+    ]).then(function (list) {
+      if (!state.taxa && list) state.taxa = list;
+      return state.taxa;
+    });
   }
 
-  function translateCacheKey(p, target) {
-    return TR_CACHE_PREFIX + target + ':' + hashText(p.doi || p.title) + ':' + hashText(p.abstract);
+  // 保护后超长时，找一个尽量靠近中间的句子/逗号/空格边界，把原文一分为二再保护。
+  function splitPoint(value) {
+    var s = text(value);
+    var mid = Math.floor(s.length / 2);
+    var best = -1;
+    ['. ', '; ', ', ', ' '].forEach(function (mark) {
+      if (best >= 0) return;
+      var left = s.lastIndexOf(mark, mid);
+      var right = s.indexOf(mark, mid);
+      if (left > 0) best = left + mark.length;
+      else if (right > 0) best = right + mark.length;
+    });
+    if (best <= 0 || best >= s.length) best = mid;
+    return best;
+  }
+
+  // 按提供方顺序逐个尝试；每块单独请求，进度回调 (已完成块数, 总块数)。
+  function translateText(fullText, from, to, onProgress) {
+    var ready = needsNameMaps(from, to) ? ensureTaxa(3500) : Promise.resolve(null);
+    return ready.then(function () {
+      var plan = createProtection(from, to);
+      var providers = translateProviderList();
+      var index = 0;
+      var lastError = null;
+      function attempt() {
+        if (index >= providers.length) {
+          return Promise.reject(lastError || translateError('error', 'no provider'));
+        }
+        var provider = providers[index++];
+        var chunks = splitChunks(fullText, provider.chunk);
+        if (!chunks.length) return Promise.reject(translateError('error', 'empty abstract'));
+        var parts = [], pos = 0, withEmail = false;
+        function step() {
+          if (pos >= chunks.length) {
+            return Promise.resolve({ text: joinChunks(parts, to), provider: provider.name });
+          }
+          var chunk = chunks[pos];
+          var guarded = plan.protect(chunk);
+          if (guarded.dropped && byteLength(chunk) > 80) {
+            var cut = splitPoint(chunk);
+            var left = chunk.slice(0, cut).replace(/\s+$/, '');
+            var right = chunk.slice(cut).replace(/^\s+/, '');
+            if (left && right) {
+              chunks.splice(pos, 1, left, right);
+              return step();
+            }
+          }
+          return translateChunk(provider, guarded.text, from, to, withEmail).then(function (out) {
+            parts.push(guarded.restore(out));
+            pos += 1;
+            if (onProgress) onProgress(pos, chunks.length);
+            return step();
+          }, function (err) {
+            // 匿名额度用尽：改用站点邮箱额度重试同一块（每块只重试一次）。
+            if (err && err.translateCode === 'quota' && provider.kind === 'mymemory' && !withEmail) {
+              withEmail = true;
+              return step();
+            }
+            throw err;
+          });
+        }
+        return step().catch(function (err) {
+          lastError = err;
+          return attempt();
+        });
+      }
+      return attempt().then(function (result) {
+        var finalText = result.text;
+        var terms = 0;
+        if (to === 'zh-CN') {
+          var edited = applyPostEdits(finalText, fullText);
+          finalText = edited.text;
+          terms = edited.count;
+        }
+        return { text: finalText, provider: result.provider, terms: terms, mode: plan.mode };
+      });
+    });
+  }
+
+  function translateCacheKey(p, target, source) {
+    // 缓存键包含：目标语言、源语言、术语表版本、名录条数 —— 任一项变化旧译文自动失效
+    var glossary = loadGlossary();
+    var taxaSig = state.taxa ? state.taxa.length : 0;
+    return TR_CACHE_PREFIX + target + ':' + (source || '') + ':g' + glossary.version + ':t' + taxaSig +
+      ':' + hashText(p.doi || p.title) + ':' + hashText(p.abstract);
   }
   function translateCacheGet(key) {
     try {
@@ -1039,10 +1351,10 @@
       for (i = 0; i < rows.length - TR_CACHE_MAX; i++) window.localStorage.removeItem(rows[i].k);
     } catch (e) { /* 隐私模式 / 配额异常：跳过清理 */ }
   }
-  function translateCacheSet(key, translated, provider) {
+  function translateCacheSet(key, translated, provider, terms) {
     try {
       if (!window.localStorage) return;
-      window.localStorage.setItem(key, JSON.stringify({ t: translated, p: provider || '', s: Date.now() }));
+      window.localStorage.setItem(key, JSON.stringify({ t: translated, p: provider || '', n: terms || 0, s: Date.now() }));
       translateCachePrune();
     } catch (e) { /* 存不下就不缓存，不影响本次显示 */ }
   }
@@ -1106,7 +1418,7 @@
     box.appendChild(out);
     box.appendChild(fallback);
 
-    var view = { busy: false, shown: false, text: '', provider: '', lang: '', token: 0 };
+    var view = { busy: false, shown: false, text: '', provider: '', terms: 0, lang: '', token: 0 };
 
     function showTranslation() {
       view.shown = true;
@@ -1114,9 +1426,15 @@
       outText.hidden = !view.text;
       outText.textContent = view.text;
       if (view.text) outText.setAttribute('lang', view.lang);
-      outMeta.textContent = view.text
-        ? ((view.provider ? view.provider + ' · ' : '') + T.translateMachine)
-        : T.translateSame;
+      if (view.text) {
+        var meta = [];
+        if (view.provider) meta.push(view.provider);
+        if (view.terms) meta.push(T.translateTerms);
+        meta.push(T.translateMachine);
+        outMeta.textContent = meta.join(' · ');
+      } else {
+        outMeta.textContent = T.translateSame;
+      }
       fallback.hidden = true;
       status.textContent = '';
       status.className = 'papers-translate-status';
@@ -1158,7 +1476,7 @@
     function start(target) {
       if (view.busy) return;
       // 换目标语言时丢掉上一语言的译文，避免失败后仍显示旧语言内容
-      if (view.lang && view.lang !== target) { view.text = ''; view.provider = ''; }
+      if (view.lang && view.lang !== target) { view.text = ''; view.provider = ''; view.terms = 0; }
       view.busy = true;
       view.shown = false;
       var token = ++view.token;
@@ -1172,12 +1490,13 @@
         showTranslation();
         return;
       }
-      var cacheKey = translateCacheKey(p, target);
+      var cacheKey = translateCacheKey(p, target, source);
       var cached = translateCacheGet(cacheKey);
       if (cached) {
         view.busy = false;
         view.text = text(cached.t);
         view.provider = text(cached.p);
+        view.terms = Number(cached.n) || 0;
         showTranslation();
         return;
       }
@@ -1194,7 +1513,8 @@
         view.busy = false;
         view.text = res.text;
         view.provider = res.provider;
-        translateCacheSet(cacheKey, res.text, res.provider);
+        view.terms = res.terms || 0;
+        translateCacheSet(cacheKey, res.text, res.provider, res.terms);
         showTranslation();
       }).catch(function (err) {
         if (token !== view.token) return;

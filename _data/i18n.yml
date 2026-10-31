@@ -84,6 +84,7 @@ zh-CN:
   papers_translate_quota: 今日免费翻译额度已用完，可改用下方外部翻译。
   papers_translate_error: 翻译服务暂时不可用，可改用下方外部翻译。
   papers_translate_machine: 机器翻译，仅供参考；学名与专业术语可能不准。
+  papers_translate_terms: 名录/术语校正
   papers_translate_fallback: 外部翻译
 
 
@@ -168,6 +169,7 @@ en:
   papers_translate_quota: Today's free translation quota is used up; use an external translator below.
   papers_translate_error: Translation is unavailable right now; use an external translator below.
   papers_translate_machine: Machine translation for reference only; scientific names and technical terms may be inaccurate.
+  papers_translate_terms: checklist/glossary adjusted
   papers_translate_fallback: External translator
 
 
@@ -252,4 +254,5 @@ es:
   papers_translate_quota: La cuota gratuita de traducción de hoy está agotada; use un traductor externo abajo.
   papers_translate_error: La traducción no está disponible ahora; use un traductor externo abajo.
   papers_translate_machine: Traducción automática solo como referencia; los nombres científicos y términos técnicos pueden ser inexactos.
+  papers_translate_terms: ajustado a lista/glosario
   papers_translate_fallback: Traductor externo
