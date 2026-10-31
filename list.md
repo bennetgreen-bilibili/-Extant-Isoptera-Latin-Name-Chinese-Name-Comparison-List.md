@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 名录 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: 现存等翅下目（白蚁）全部现生类群（13 科 323 属 3004 种 64 亚种）拉丁学名—中文正名对照名录，含模式种标记、分布信息与 77 篇参考文献。
+description: 现存等翅下目（白蚁）全部现生类群（13 科 326 属 3021 种 68 亚种）拉丁学名—中文正名对照名录，含模式种标记、分布信息与 77 篇参考文献。
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
@@ -154,6 +154,7 @@ permalink: /list/
               - [埃博戈白蚁属 Ebogotermes](#ebogotermes)
               - [象牙白蚁属 Eburnitermes](#eburnitermes)
               - [多刺白蚁属 Echinotermes](#echinotermes)
+              - [肠棘白蚁属 Ekueitermes](#ekueitermes)
               - [亮白蚁属 Euhamitermes](#euhamitermes)
               - [宽白蚁属 Eurytermes](#eurytermes)
               - [坚白蚁属 Firmitermes](#firmitermes)
@@ -179,8 +180,10 @@ permalink: /list/
               - [变红白蚁属 Rubeotermes](#rubeotermes)
               - [腹爆白蚁属 Ruptitermes](#ruptitermes)
               - [拉斯特白蚁属 Rustitermes](#rustitermes)
+              - [谢弗拉恩白蚁属 Scheffrahnitermes](#scheffrahnitermes)
               - [洁白蚁属 Skatitermes](#skatitermes)
               - [稀白蚁属 Speculitermes](#speculitermes)
+              - [螺旋白蚁属 Spiralitermes](#spiralitermes)
               - [足白蚁属 Tetimatermes](#tetimatermes)
               - [奇囟白蚁属 Tonsuritermes](#tonsuritermes)
               - [发白蚁属 Trichotermes](#trichotermes)
@@ -676,7 +679,7 @@ Zootermopsis nevadensis
 木白蚁科由 Froggatt 于 1897 年建立(16)，
 模式属为 Kalotermes Hagen, 1853。
 科名源自模式属，由希腊语 kalos（美丽的）与 termes 组合而成。
-本名录收录 23 属 479 种。
+本名录收录 23 属 480 种。
 
 本科俗称“干木白蚁”。大多物种在干燥木材中筑巢和摄食，不依赖土壤，巢即食源，个体不外出远距离觅食。
 本科无真正的工蚁品级，由拟工蚁承担巢内劳动。
@@ -1697,6 +1700,8 @@ Rugitermes 等属为次要木材害虫(20)。
 
 \*[*Proneotermes perezi* 佩雷斯前新白蚁]({{ site.base_url }}/species/proneotermes-perezi/)
 
+[*Proneotermes tacicuarensis* 塔西夸罗前新白蚁]({{ site.base_url }}/species/proneotermes-tacicuarensis/)
+
 <h5 id="pterotermes">翅白蚁属 Pterotermes</h5>
 
 {% include distribution-map.html mode="genus" id="pterotermes" %}
@@ -1848,7 +1853,7 @@ sensu novo）(21)，
 模式属为 Rhinotermes Hagen, 1858；
 科名由希腊语 rhis/rhinos（鼻）与 termes 组合，指其成虫唇基隆起、
 形似鼻状并由囟门至唇基具窄沟的特征。
-本名录收录 5 属 61 种。
+本名录收录 5 属 62 种。
 
 尖鼻白蚁属、狭鼻白蚁属与鼻白蚁属主产新热带（南美北部至加勒比），棒鼻白蚁属主产东南亚，
 西至印度东北部，北达中国西藏与云南，东至巴布亚新几内亚、所罗门群岛与澳大利亚昆士兰；
@@ -1873,6 +1878,8 @@ sensu novo）(21)，
 {% include distribution-map.html mode="genus" id="acorhinotermes" %}
 
 [*Acorhinotermes claritae* 克拉丽塔尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-claritae/)
+
+[*Acorhinotermes murui* 穆鲁伊尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-murui/)
 
 \*[*Acorhinotermes subfusciceps* 棕头尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-subfusciceps/)
 
@@ -2727,7 +2734,7 @@ Heterotermes 与 Reticulitermes 兵蚁头近长方形、囟门小而不显著。
 白蚁科由 Latreille 于 1802 年建立，
 模式属为 Termes Linnaeus, 1758；
 科名由模式属词干 Termit- 加科级后缀 -idae 构成。
-本名录收录 277 属 2129 种。
+本名录收录 280 属 2144 种。
 
 本科为泛热带分布，热带、亚热带各大动物地理区均有代表，少数种延伸至暖温带。
 食性为白蚁各科中最多样的类群，涵盖木食、草食、枯枝落叶食、腐殖土食与培养真菌食等类型，
@@ -2749,24 +2756,24 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 筑巢模式多样，土栖巢、地表垅巢、树栖纸巢均见，本科蚁巢是热带森林与稀树草原最显著的生态工程结构。
 白蚁科是新等翅类中物种多样性最高的类群，约于始新世末开始辐射，其内部在古近纪发生了快速辐射。
 
-本科现分 18 个亚科(21)：弓白蚁亚科 Amitermitinae（14 属 193 种）、
-尖白蚁亚科 Apicotermitinae（65 属 237 种）、
+本科现分 18 个亚科(21)：弓白蚁亚科 Amitermitinae（14 属 194 种）、
+尖白蚁亚科 Apicotermitinae（68 属 241 种）、
 响白蚁亚科 Crepititermitinae（1 属 1 种）、
-方白蚁亚科 Cubitermitinae（28 属 142 种）、
+方白蚁亚科 Cubitermitinae（28 属 149 种）、
 圆筒白蚁亚科 Cylindrotermitinae（2 属 9 种）、
 恩格尔白蚁亚科 Engelitermitinae（1 属 1 种）、
 孔白蚁亚科 Foraminitermitinae（3 属 10 种）、
 剪白蚁亚科 Forficulitermitinae（1 属 1 种）、
 大白蚁亚科 Macrotermitinae（12 属 373 种）、
 锯白蚁亚科 Microcerotermitinae（2 属 150 种）、
-瘤白蚁亚科 Mirocapritermitinae（14 属 132 种）、
-象白蚁亚科 Nasutitermitinae（81 属 607 种）、
+瘤白蚁亚科 Mirocapritermitinae（14 属 135 种）、
+象白蚁亚科 Nasutitermitinae（81 属 606 种）、
 新扭白蚁亚科 Neocapritermitinae（3 属 20 种）、
 前奇白蚁亚科 Promirotermitinae（2 属 39 种）、
 始钩白蚁亚科 Protohamitermitinae（2 属 2 种）、
 圆球白蚁亚科 Sphaerotermitinae（1 属 1 种）、
 聚白蚁亚科 Syntermitinae（22 属 105 种）、
-白蚁亚科 Termitinae（23 属 106 种）。
+白蚁亚科 Termitinae（23 属 107 种）。
 本科的经济危害详见各亚科。
 
 <h4 id="amitermitinae">弓白蚁亚科 Amitermitinae</h4>
@@ -2774,7 +2781,7 @@ Globitermes sulphureus 更以额腺爆裂行自杀式防御。
 弓白蚁亚科由 Kemner 于 1934 年建立（原始文献第 110 页），
 模式属为弓白蚁属 Amitermes Silvestri, 1901，亚科名即取自模式属，
 Amitermes 疑取拉丁语 hami-“钩”＋ termes，指兵蚁弯曲如弓的上颚。
-本名录收录 14 属 193 种。
+本名录收录 14 属 194 种。
 
 本亚科分布以澳大利亚与旧热带界为中心，延及新热带界、中东、南亚与美国南部。
 食性涵盖腐木、干草及土—木界面多种基质；兵蚁头多呈梨形、无额突，上颚在属间变化极大，咬压、穿刺、
@@ -2853,6 +2860,8 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 [*Amitermes braunsi* 布劳恩斯弓白蚁]({{ site.base_url }}/species/amitermes-braunsi/)
 
 [*Amitermes calabyi* 卡拉比弓白蚁]({{ site.base_url }}/species/amitermes-calabyi/)
+
+[*Amitermes californicus* 加州弓白蚁]({{ site.base_url }}/species/amitermes-californicus/)
 
 [*Amitermes capito* 大头弓白蚁]({{ site.base_url }}/species/amitermes-capito/)
 
@@ -3251,7 +3260,7 @@ Globitermes sulphureus 在马来西亚危害建筑木材与椰子、油棕种植
 尖白蚁亚科由 Grassé 与 Noirot 于 1955 年在研究 Apicotermes
 arquieri 的著作中建立(41)，
 模式属为尖白蚁属 Apicotermes Holmgren, 1911，亚科名取自模式属。
-本名录收录 65 属 237 种。
+本名录收录 68 属 241 种。
 
 本亚科是高等白蚁中无兵蚁品级类群的主要归属：绝大多数种类在演化中独立丢失了兵蚁品级（至少两次独立发生
 ），
@@ -3623,6 +3632,8 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 \*[*Chasitermes pax* 和平蔡斯白蚁]({{ site.base_url }}/species/chasitermes-pax/)
 
+[*Chasitermes tupan* 图潘蔡斯白蚁]({{ site.base_url }}/species/chasitermes-tupan/)
+
 <h5 id="compositermes">肠刺白蚁属 Compositermes</h5>
 
 {% include distribution-map.html mode="genus" id="compositermes" %}
@@ -3676,6 +3687,12 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 {% include distribution-map.html mode="genus" id="echinotermes" %}
 
 \*[*Echinotermes biriba* 比里巴多刺白蚁]({{ site.base_url }}/species/echinotermes-biriba/)
+
+<h5 id="ekueitermes">肠棘白蚁属 Ekueitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ekueitermes" %}
+
+\*[*Ekueitermes alerosinus* 阿莱罗辛肠棘白蚁]({{ site.base_url }}/species/ekueitermes-alerosinus/)
 
 <h5 id="euhamitermes">亮白蚁属 Euhamitermes</h5>
 
@@ -3943,6 +3960,12 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 
 \*[*Rustitermes boteroi* 博特罗拉斯特白蚁]({{ site.base_url }}/species/rustitermes-boteroi/)
 
+<h5 id="scheffrahnitermes">谢弗拉恩白蚁属 Scheffrahnitermes</h5>
+
+{% include distribution-map.html mode="genus" id="scheffrahnitermes" %}
+
+\*[*Scheffrahnitermes ubuntu* 乌班图谢弗拉恩白蚁]({{ site.base_url }}/species/scheffrahnitermes-ubuntu/)
+
 <h5 id="skatitermes">洁白蚁属 Skatitermes</h5>
 
 {% include distribution-map.html mode="genus" id="skatitermes" %}
@@ -3980,6 +4003,12 @@ Aparatermes abbreviatus 危害牧草与桉树根系(44)。
 [*Speculitermes sinhalensis* 僧伽罗稀白蚁]({{ site.base_url }}/species/speculitermes-sinhalensis/)
 
 [*Speculitermes triangularis* 三角稀白蚁]({{ site.base_url }}/species/speculitermes-triangularis/)
+
+<h5 id="spiralitermes">螺旋白蚁属 Spiralitermes</h5>
+
+{% include distribution-map.html mode="genus" id="spiralitermes" %}
+
+\*[*Spiralitermes jurupari* 尤鲁帕里螺旋白蚁]({{ site.base_url }}/species/spiralitermes-jurupari/)
 
 <h5 id="tetimatermes">足白蚁属 Tetimatermes</h5>
 
@@ -4061,7 +4090,7 @@ al., 2015）(47)，
 
 方白蚁亚科由 Weidner 于 1956 年建立，
 模式属为方白蚁属 Cubitermes Wasmann, 1902，亚科名取自模式属。
-本名录收录 28 属 142 种。
+本名录收录 28 属 149 种。
 
 本亚科已知属种均分布于撒哈拉以南非洲——西非（科特迪瓦、尼日利亚、几内亚、塞内加尔、冈比亚、
 多哥等）、中非与刚果盆地（喀麦隆、刚果、刚果民主共和国、加蓬、中非共和国）、东非（肯尼亚、坦桑尼亚、
@@ -4203,6 +4232,8 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 {% include distribution-map.html mode="genus" id="isognathotermes" %}
 
+[*Isognathotermes acristatus* 无冠等颚白蚁]({{ site.base_url }}/species/isognathotermes-acristatus/)
+
 [*Isognathotermes bulbifrons* 球额等颚白蚁]({{ site.base_url }}/species/isognathotermes-bulbifrons/)
 
 [*Isognathotermes congoensis* 刚果等颚白蚁]({{ site.base_url }}/species/isognathotermes-congoensis/)
@@ -4211,11 +4242,23 @@ Unicornitermes 等属兵蚁腹部乳白色（白肠型），纯由工蚁唾液�
 
 [*Isognathotermes fungifaber* 菌匠等颚白蚁]({{ site.base_url }}/species/isognathotermes-fungifaber/)
 
+[*Isognathotermes magniplanifrons* 大平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-magniplanifrons/)
+
 \*[*Isognathotermes minitabundus* 威吓等颚白蚁]({{ site.base_url }}/species/isognathotermes-minitabundus/)
+
+[*Isognathotermes modicus* 中等等颚白蚁]({{ site.base_url }}/species/isognathotermes-modicus/)
+
+[*Isognathotermes phallicaecalis* 阳茎盲囊等颚白蚁]({{ site.base_url }}/species/isognathotermes-phallicaecalis/)
+
+[*Isognathotermes phalloides* 似阳茎等颚白蚁]({{ site.base_url }}/species/isognathotermes-phalloides/)
 
 [*Isognathotermes planifrons* 平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-planifrons/)
 
+[*Isognathotermes rectimalatus* 直颚等颚白蚁]({{ site.base_url }}/species/isognathotermes-rectimalatus/)
+
 [*Isognathotermes severus* 严肃等颚白蚁]({{ site.base_url }}/species/isognathotermes-severus/)
+
+[*Isognathotermes similifinitimus* 似近邻等颚白蚁]({{ site.base_url }}/species/isognathotermes-similifinitimus/)
 
 [*Isognathotermes ugandensis* 乌干达等颚白蚁]({{ site.base_url }}/species/isognathotermes-ugandensis/)
 
@@ -5806,7 +5849,7 @@ Holmgren, 1910）(14)，
 瘤白蚁亚科由 Kemner 于 1934 年建立（Mirocapritermitinae
 Kemner, 1934），
 模式属为瘤白蚁属 Mirocapritermes Holmgren, 1914。
-本名录收录 14 属 132 种。
+本名录收录 14 属 135 种。
 
 本亚科以东洋界为多样性中心，多数属限于东洋界；近扭白蚁属 Pericapritermes 分布最广，
 东洋界之外还见于非洲热带、澳洲界及古北南缘（日本、韩国）。
@@ -5919,6 +5962,10 @@ sp. 为害袋装幼苗根部，
 \*[*Labiocapritermes distortus* 扭曲唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-distortus/)
 
 [*Labiocapritermes ghatensis* 高止唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-ghatensis/)
+
+[*Labiocapritermes microcephalus* 小头唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-microcephalus/)
+
+[*Labiocapritermes wayanadensis* 瓦亚纳德唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-wayanadensis/)
 
 <h5 id="mirocapritermes">瘤白蚁属 Mirocapritermes</h5>
 
@@ -6082,6 +6129,8 @@ sp. 为害袋装幼苗根部，
 
 [*Pseudocapritermes minutus* 小伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-minutus/)
 
+[*Pseudocapritermes novus* 新伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-novus/)
+
 [*Pseudocapritermes orientalis* 东方伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-orientalis/)
 
 [*Pseudocapritermes parasilvaticus* 似森林伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-parasilvaticus/)
@@ -6157,7 +6206,7 @@ evidenced by soldier mandible development》，
 第 462 页）(63)，模式属为象白蚁属 Nasutitermes Dudley, 1890；
 亚科名取自模式属，Nasutitermes 由拉丁语 nasus（鼻）与 termes 组合，
 指兵蚁头前端延伸成的锥状象鼻。
-本名录收录 81 属 607 种。
+本名录收录 81 属 606 种。
 
 本亚科以象鼻型兵蚁（nasute soldier）为共衍征：头壳前端延伸成锥状象鼻，
 额腺分泌物经此喷出御敌，上颚显著退化、不再行咬啮，是本科防御方式高度特化的一支。
@@ -7723,8 +7772,6 @@ Hospitalitermes monoceros 在印度、斯里兰卡为甘蔗主要害虫(69)。
 
 {% include distribution-map.html mode="genus" id="xiaitermes" %}
 
-[*Xiaitermes tiantaiensis* 天台夏氏白蚁]({{ site.base_url }}/species/xiaitermes-tiantaiensis/)
-
 \*[*Xiaitermes yinxianensis* 鄞县夏氏白蚁]({{ site.base_url }}/species/xiaitermes-yinxianensis/)
 
 <h4 id="neocapritermitinae">新扭白蚁亚科 Neocapritermitinae</h4>
@@ -8311,7 +8358,7 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 
 白蚁亚科与白蚁科同时由 Latreille 于 1802 年建立，
 模式属为白蚁属 Termes Linnaeus, 1758。
-本名录收录 23 属 106 种。
+本名录收录 23 属 107 种。
 
 本亚科大多物种兵蚁为咀嚼型：兵蚁上颚延长、齿少而大，以咬、切方式御敌；
 其中扭白蚁属 Capritermes 等上颚左右不对称，以“弹颚”方式高速击伤入侵者；
@@ -8591,6 +8638,8 @@ Procornitermes 与 Labiotermes 在巴西危害旱稻、玉米(42)。
 [*Termes hospes* 宿主白蚁]({{ site.base_url }}/species/termes-hospes/)
 
 [*Termes huayangensis* 怀阳白蚁]({{ site.base_url }}/species/termes-huayangensis/)
+
+[*Termes incognitus* 隐秘白蚁]({{ site.base_url }}/species/termes-incognitus/)
 
 [*Termes laticornis* 宽角白蚁]({{ site.base_url }}/species/termes-laticornis/)
 

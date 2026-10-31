@@ -34,8 +34,8 @@ ES — **马尼坎丹克里希纳扭白蚁** (*Krishnacapritermes manikandan*) e
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 132 种（14 genera, 132 species · 14 géneros, 132 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
 - **属 Genus / Género**：[克里希纳扭白蚁属 *Krishnacapritermes*]({{ site.base_url }}/list/#krishnacapritermes) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Krishnacapritermes maitii*
 

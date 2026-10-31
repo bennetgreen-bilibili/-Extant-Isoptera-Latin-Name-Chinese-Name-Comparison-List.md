@@ -34,8 +34,8 @@ ES — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) es la única esp
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[三棒白蚁属 *Triclavitermes*]({{ site.base_url }}/list/#triclavitermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布

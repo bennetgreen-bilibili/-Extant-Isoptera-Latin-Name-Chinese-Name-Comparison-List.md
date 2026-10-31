@@ -31,7 +31,7 @@ ES — **长唇狭鼻白蚁** (*Dolichorhinotermes longilabius*) es una especie,
 
 ## 分类位置
 
-- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[狭鼻白蚁属 *Dolichorhinotermes*]({{ site.base_url }}/list/#dolichorhinotermes) —— 共 7 种（7 species · 7 especies）
 
 ## 分布

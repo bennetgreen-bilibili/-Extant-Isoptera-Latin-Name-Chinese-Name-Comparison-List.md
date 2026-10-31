@@ -20,25 +20,25 @@ author_year: "Schmitz, 1916"
 type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
 distribution_zh: "非洲热带"
 distribution_en: "tropical Africa"
-synonym_count: 2
-synonyms: "Cubitermes loubetsiensis Sjöstedt, 1924: 493; Cubitermes subarquatus Sjöstedt, 1926: 244-245"
+synonym_count: 3
+synonyms: "Cubitermes loubetsiensis Sjöstedt, 1924: 493; Cubitermes subarquatus Sjöstedt, 1926: 244-245; Cubitermes speciosus Sjöstedt, 1924: 256"
 synonym_localities: "Congo: Loubetsi; Democratic Republic of the Congo: Kisangani (Stanleyville)"
 ---
 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**近邻等颚白蚁**（*Isognathotermes finitimus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Schmitz 于 1916 年描述，模式产地为 Democratic Republic of the Congo: Kisangani (Stanleyville)。分布记录包括非洲热带。本站记录本种有 2 个次异名。
+**近邻等颚白蚁**（*Isognathotermes finitimus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Schmitz 于 1916 年描述，模式产地为 Democratic Republic of the Congo: Kisangani (Stanleyville)。分布记录包括非洲热带。本站记录本种有 3 个次异名。
 
-EN — **近邻等颚白蚁** (*Isognathotermes finitimus*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Schmitz in 1916; the type locality is Democratic Republic of the Congo: Kisangani (Stanleyville). Distribution: tropical Africa. This site records 2 junior synonyms for the species.
+EN — **近邻等颚白蚁** (*Isognathotermes finitimus*) is a species of the genus *Isognathotermes*, in the family TERMITIDAE (subfamily Cubitermitinae). The species was described by Schmitz in 1916; the type locality is Democratic Republic of the Congo: Kisangani (Stanleyville). Distribution: tropical Africa. This site records 3 junior synonyms for the species.
 
-ES — **近邻等颚白蚁** (*Isognathotermes finitimus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Schmitz en 1916; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: tropical Africa. Este sitio registra 2 sinónimos junior para la especie.
+ES — **近邻等颚白蚁** (*Isognathotermes finitimus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Schmitz en 1916; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: tropical Africa. Este sitio registra 3 sinónimos junior para la especie.
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
-- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 9 种（9 species · 9 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
+- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 16 种（16 species · 16 especies）
 - **本属模式种 Type species / Especie tipo**：*Isognathotermes minitabundus*
 
 ## 分布
@@ -50,12 +50,13 @@ ES — **近邻等颚白蚁** (*Isognathotermes finitimus*) es una especie del g
 
 ## 次异名
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
 
 1. *Cubitermes loubetsiensis* Sjöstedt, 1924: 493 —— 模式产地：Congo: Loubetsi
 2. *Cubitermes subarquatus* Sjöstedt, 1926: 244-245 —— 模式产地：Democratic Republic of the Congo: Kisangani (Stanleyville)
+3. *Cubitermes speciosus* Sjöstedt, 1924: 256
 
-在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cubitermes loubetsiensis*、*Cubitermes subarquatus* 等）出现，本站统一归入 *Isognathotermes finitimus*。
-EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Cubitermes loubetsiensis*、*Cubitermes subarquatus*); this site treats them all under *Isognathotermes finitimus*.
-ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Cubitermes loubetsiensis*、*Cubitermes subarquatus*); este sitio los reúne todos bajo *Isognathotermes finitimus*.
+在旧文献、地方名录与数据库检索中，本种可能以上述异名（*Cubitermes loubetsiensis*、*Cubitermes subarquatus*、*Cubitermes speciosus* 等）出现，本站统一归入 *Isognathotermes finitimus*。
+EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Cubitermes loubetsiensis*、*Cubitermes subarquatus*、*Cubitermes speciosus*); this site treats them all under *Isognathotermes finitimus*.
+ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Cubitermes loubetsiensis*、*Cubitermes subarquatus*、*Cubitermes speciosus*); este sitio los reúne todos bajo *Isognathotermes finitimus*.
 <!-- AUTO:END -->

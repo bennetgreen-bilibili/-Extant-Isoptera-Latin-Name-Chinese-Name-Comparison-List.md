@@ -36,9 +36,9 @@ ES — **乌干达等颚白蚁** (*Isognathotermes ugandensis*) es una especie d
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
-- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 9 种（9 species · 9 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
+- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 16 种（16 species · 16 especies）
 - **本属模式种 Type species / Especie tipo**：*Isognathotermes minitabundus*
 
 ## 分布
@@ -57,4 +57,13 @@ ES — **乌干达等颚白蚁** (*Isognathotermes ugandensis*) es una especie d
 在旧文献、地方名录与数据库检索中，本种可能以异名 *Cubitermes antennalis* 出现，本站统一归入 *Isognathotermes ugandensis*。
 EN — In older literature, regional checklists and database searches, this species may appear under the synonym *Cubitermes antennalis*; this site treats it under *Isognathotermes ugandensis*.
 ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo el sinónimo *Cubitermes antennalis*; este sitio lo reúne bajo *Isognathotermes ugandensis*.
+
+## 亚种
+
+本种下分 4 个亚种（subspecies / subespecies）：
+
+- [*Isognathotermes ugandensis burundii* 布隆迪亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-burundii/) —— Josens & Deligne, 2025，模式产地：Burundi: Ruvubu N.P. \[ 2.945S 30.438E \]
+- [*Isognathotermes ugandensis kenyae* 肯尼亚亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-kenyae/) —— Josens & Deligne, 2025，模式产地：Kenya: Mukuyuni \[ 0.0269N 36.0051E \]
+- [*Isognathotermes ugandensis malawii* 马拉维亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-malawii/) —— Josens & Deligne, 2025，模式产地：Malawi: Dowa-Lilongwe road \[ 13.65S 33.85E \]
+- [*Isognathotermes ugandensis ugandensis* 指名亚种]({{ site.base_url }}/species/isognathotermes-ugandensis-ugandensis/) —— Josens & Deligne, 2025，模式产地：Uganda: near Entebbe
 <!-- AUTO:END -->

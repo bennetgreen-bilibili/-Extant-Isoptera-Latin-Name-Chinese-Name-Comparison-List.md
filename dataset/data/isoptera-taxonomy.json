@@ -4,7 +4,7 @@
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）",
  "alternateName": "extant-isoptera-checklist",
  "version": "2026.10.30",
- "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3004 种、64 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
+ "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、326 属、3021 种、68 亚种，共 3089 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
  "inLanguage": "zh-CN",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "creator": {
@@ -17,9 +17,9 @@
   "clades": 6,
   "families": 13,
   "subfamilies": 18,
-  "genera": 323,
-  "species": 3004,
-  "subspecies": 64
+  "genera": 326,
+  "species": 3021,
+  "subspecies": 68
  },
  "clades": [
   {
@@ -5905,7 +5905,7 @@
      "subfamilyId": "",
      "typeSpecies": "Proneotermes perezi",
      "counts": {
-      "species": 3,
+      "species": 4,
       "subspecies": 0
      },
      "species": [
@@ -5940,6 +5940,17 @@
        "distributionZh": "哥斯达黎加、危地马拉、洪都拉斯、巴拿马",
        "distributionEn": "Costa Rica, Guatemala, Honduras, Panama",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/proneotermes-perezi/",
+       "subspecies": []
+      },
+      {
+       "latin": "Proneotermes tacicuarensis",
+       "zh": "塔西夸罗前新白蚁",
+       "authorship": "Jurado-Vargas, Méndez-Montiel, García-Díaz & Cruz-de León, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Mexico: Michoacán: Tacicuaro",
+       "distributionZh": "墨西哥（米却肯州）",
+       "distributionEn": "Mexico (Michoacán)",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/proneotermes-tacicuarensis/",
        "subspecies": []
       }
      ]
@@ -6509,7 +6520,7 @@
      "subfamilyId": "",
      "typeSpecies": "Acorhinotermes subfusciceps",
      "counts": {
-      "species": 2,
+      "species": 3,
       "subspecies": 0
      },
      "species": [
@@ -6522,6 +6533,17 @@
        "distributionZh": "哥伦比亚、巴西、委内瑞拉",
        "distributionEn": "Colombia, Brazil, Venezuela",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/acorhinotermes-claritae/",
+       "subspecies": []
+      },
+      {
+       "latin": "Acorhinotermes murui",
+       "zh": "穆鲁伊尖鼻白蚁",
+       "authorship": "Castro, 2023",
+       "isTypeSpecies": false,
+       "typeLocality": "Colombia: Amazon basin",
+       "distributionZh": "哥伦比亚（亚马孙）",
+       "distributionEn": "Colombia (Amazon basin)",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/acorhinotermes-murui/",
        "subspecies": []
       },
       {
@@ -10646,7 +10668,7 @@
      "subfamilyId": "amitermitinae",
      "typeSpecies": "Amitermes amifer",
      "counts": {
-      "species": 112,
+      "species": 113,
       "subspecies": 0
      },
      "species": [
@@ -10846,6 +10868,17 @@
        "distributionZh": "澳大利亚",
        "distributionEn": "Australia",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/amitermes-calabyi/",
+       "subspecies": []
+      },
+      {
+       "latin": "Amitermes californicus",
+       "zh": "加州弓白蚁",
+       "authorship": "Banks, 1920",
+       "isTypeSpecies": false,
+       "typeLocality": "United States: California: San Diego County: Jacumba",
+       "distributionZh": "美国西南部、墨西哥",
+       "distributionEn": "southwestern United States, Mexico",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/amitermes-californicus/",
        "subspecies": []
       },
       {
@@ -14556,7 +14589,7 @@
      "subfamilyId": "apicotermitinae",
      "typeSpecies": "Chasitermes pax",
      "counts": {
-      "species": 1,
+      "species": 2,
       "subspecies": 0
      },
      "species": [
@@ -14569,6 +14602,17 @@
        "distributionZh": "特立尼达和多巴哥",
        "distributionEn": "Trinidad and Tobago",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/chasitermes-pax/",
+       "subspecies": []
+      },
+      {
+       "latin": "Chasitermes tupan",
+       "zh": "图潘蔡斯白蚁",
+       "authorship": "Almeida-Azevedo, Carrijo, Pinzón-Florián, Morais & Azevedo, 2026",
+       "isTypeSpecies": false,
+       "typeLocality": "Amazon Rainforest (具体产地以原文为准)",
+       "distributionZh": "亚马孙雨林",
+       "distributionEn": "Amazon Rainforest",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/chasitermes-tupan/",
        "subspecies": []
       }
      ]
@@ -14794,6 +14838,30 @@
        "distributionZh": "南美洲、哥伦比亚、秘鲁",
        "distributionEn": "South America, Colombia, Peru",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/echinotermes-biriba/",
+       "subspecies": []
+      }
+     ]
+    },
+    {
+     "id": "ekueitermes",
+     "latin": "Ekueitermes",
+     "zh": "肠棘白蚁属",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Ekueitermes alerosinus",
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "species": [
+      {
+       "latin": "Ekueitermes alerosinus",
+       "zh": "阿莱罗辛肠棘白蚁",
+       "authorship": "Duran-Bautista & Celis-Daza, 2026",
+       "isTypeSpecies": true,
+       "typeLocality": "Colombia: Caquetá: Florencia: La Viciosa, Centro de Investigaciones Amazónicas CIMAZ, Macagual [ 1.4969N 75.6661W ]",
+       "distributionZh": "哥伦比亚",
+       "distributionEn": "Colombia",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/ekueitermes-alerosinus/",
        "subspecies": []
       }
      ]
@@ -16052,6 +16120,30 @@
      ]
     },
     {
+     "id": "scheffrahnitermes",
+     "latin": "Scheffrahnitermes",
+     "zh": "谢弗拉恩白蚁属",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Scheffrahnitermes ubuntu",
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "species": [
+      {
+       "latin": "Scheffrahnitermes ubuntu",
+       "zh": "乌班图谢弗拉恩白蚁",
+       "authorship": "Mellado et al., 2026",
+       "isTypeSpecies": true,
+       "typeLocality": "South America (具体产地以原文为准)",
+       "distributionZh": "南美洲",
+       "distributionEn": "South America",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/scheffrahnitermes-ubuntu/",
+       "subspecies": []
+      }
+     ]
+    },
+    {
      "id": "skatitermes",
      "latin": "Skatitermes",
      "zh": "洁白蚁属",
@@ -16238,6 +16330,30 @@
        "distributionZh": "南亚、印度",
        "distributionEn": "South Asia, India",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/speculitermes-triangularis/",
+       "subspecies": []
+      }
+     ]
+    },
+    {
+     "id": "spiralitermes",
+     "latin": "Spiralitermes",
+     "zh": "螺旋白蚁属",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Spiralitermes jurupari",
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "species": [
+      {
+       "latin": "Spiralitermes jurupari",
+       "zh": "尤鲁帕里螺旋白蚁",
+       "authorship": "Almeida-Azevedo, Rocha, Morais & Azevedo, 2026",
+       "isTypeSpecies": true,
+       "typeLocality": "Brazil: Amazon Rainforest (具体产地以原文为准)",
+       "distributionZh": "亚马孙雨林",
+       "distributionEn": "Amazon Rainforest",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/spiralitermes-jurupari/",
        "subspecies": []
       }
      ]
@@ -17015,10 +17131,21 @@
      "subfamilyId": "cubitermitinae",
      "typeSpecies": "Isognathotermes minitabundus",
      "counts": {
-      "species": 9,
-      "subspecies": 0
+      "species": 16,
+      "subspecies": 4
      },
      "species": [
+      {
+       "latin": "Isognathotermes acristatus",
+       "zh": "无冠等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Angola: Mussende [ 10.5528S 15.6582E ]",
+       "distributionZh": "安哥拉",
+       "distributionEn": "Angola",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-acristatus/",
+       "subspecies": []
+      },
       {
        "latin": "Isognathotermes bulbifrons",
        "zh": "球额等颚白蚁",
@@ -17064,6 +17191,17 @@
        "subspecies": []
       },
       {
+       "latin": "Isognathotermes magniplanifrons",
+       "zh": "大平额等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Democratic Republic of the Congo: Irangi [ 1.9S 28.45E ]",
+       "distributionZh": "刚果民主共和国",
+       "distributionEn": "Democratic Republic of the Congo",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-magniplanifrons/",
+       "subspecies": []
+      },
+      {
        "latin": "Isognathotermes minitabundus",
        "zh": "威吓等颚白蚁",
        "authorship": "Sjöstedt, 1913",
@@ -17072,6 +17210,39 @@
        "distributionZh": "非洲热带",
        "distributionEn": "tropical Africa",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-minitabundus/",
+       "subspecies": []
+      },
+      {
+       "latin": "Isognathotermes modicus",
+       "zh": "中等等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Gabon: Forêt des Abeilles [ 0.3167S 12.1167E ]",
+       "distributionZh": "加蓬",
+       "distributionEn": "Gabon",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-modicus/",
+       "subspecies": []
+      },
+      {
+       "latin": "Isognathotermes phallicaecalis",
+       "zh": "阳茎盲囊等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Congo Republic: Loundoungou [ 2.3804N 17.0704E ]",
+       "distributionZh": "刚果共和国、喀麦隆",
+       "distributionEn": "Congo Republic, Cameroon",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-phallicaecalis/",
+       "subspecies": []
+      },
+      {
+       "latin": "Isognathotermes phalloides",
+       "zh": "似阳茎等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Democratic Republic of the Congo: Kondué [ 4.9667S 23.3167E ]",
+       "distributionZh": "刚果民主共和国",
+       "distributionEn": "Democratic Republic of the Congo",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-phalloides/",
        "subspecies": []
       },
       {
@@ -17086,6 +17257,17 @@
        "subspecies": []
       },
       {
+       "latin": "Isognathotermes rectimalatus",
+       "zh": "直颚等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Angola: Mussende [ 10.5528S 15.6582E ]",
+       "distributionZh": "安哥拉",
+       "distributionEn": "Angola",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-rectimalatus/",
+       "subspecies": []
+      },
+      {
        "latin": "Isognathotermes severus",
        "zh": "严肃等颚白蚁",
        "authorship": "Silvestri, 1914",
@@ -17097,6 +17279,17 @@
        "subspecies": []
       },
       {
+       "latin": "Isognathotermes similifinitimus",
+       "zh": "似近邻等颚白蚁",
+       "authorship": "Josens & Deligne, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "Democratic Republic of the Congo: Yoko [ 0.2937N 25.2962E ]",
+       "distributionZh": "刚果民主共和国",
+       "distributionEn": "Democratic Republic of the Congo",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-similifinitimus/",
+       "subspecies": []
+      },
+      {
        "latin": "Isognathotermes ugandensis",
        "zh": "乌干达等颚白蚁",
        "authorship": "Fuller, 1923",
@@ -17105,7 +17298,36 @@
        "distributionZh": "乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚",
        "distributionEn": "Uganda, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Zambia",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-ugandensis/",
-       "subspecies": []
+       "subspecies": [
+        {
+         "latin": "Isognathotermes ugandensis burundii",
+         "zh": "布隆迪亚种",
+         "authorship": "Josens & Deligne, 2025",
+         "typeLocality": "Burundi: Ruvubu N.P. [ 2.945S 30.438E ]",
+         "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-ugandensis-burundii/"
+        },
+        {
+         "latin": "Isognathotermes ugandensis kenyae",
+         "zh": "肯尼亚亚种",
+         "authorship": "Josens & Deligne, 2025",
+         "typeLocality": "Kenya: Mukuyuni [ 0.0269N 36.0051E ]",
+         "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-ugandensis-kenyae/"
+        },
+        {
+         "latin": "Isognathotermes ugandensis malawii",
+         "zh": "马拉维亚种",
+         "authorship": "Josens & Deligne, 2025",
+         "typeLocality": "Malawi: Dowa-Lilongwe road [ 13.65S 33.85E ]",
+         "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-ugandensis-malawii/"
+        },
+        {
+         "latin": "Isognathotermes ugandensis ugandensis",
+         "zh": "指名亚种",
+         "authorship": "Josens & Deligne, 2025",
+         "typeLocality": "Uganda: near Entebbe",
+         "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/isognathotermes-ugandensis-ugandensis/"
+        }
+       ]
       },
       {
        "latin": "Isognathotermes zenkeri",
@@ -25232,7 +25454,7 @@
      "subfamilyId": "mirocapritermitinae",
      "typeSpecies": "Labiocapritermes distortus",
      "counts": {
-      "species": 2,
+      "species": 4,
       "subspecies": 0
      },
      "species": [
@@ -25256,6 +25478,28 @@
        "distributionZh": "印度",
        "distributionEn": "India",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/labiocapritermes-ghatensis/",
+       "subspecies": []
+      },
+      {
+       "latin": "Labiocapritermes microcephalus",
+       "zh": "小头唇扭白蚁",
+       "authorship": "Amina & Rajmohana, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "India: Kerala",
+       "distributionZh": "印度（喀拉拉）",
+       "distributionEn": "India (Kerala)",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/labiocapritermes-microcephalus/",
+       "subspecies": []
+      },
+      {
+       "latin": "Labiocapritermes wayanadensis",
+       "zh": "瓦亚纳德唇扭白蚁",
+       "authorship": "Amina & Rajmohana, 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "India: Kerala: Wayanad",
+       "distributionZh": "印度（喀拉拉）",
+       "distributionEn": "India (Kerala)",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/labiocapritermes-wayanadensis/",
        "subspecies": []
       }
      ]
@@ -26024,7 +26268,7 @@
      "subfamilyId": "mirocapritermitinae",
      "typeSpecies": "Pseudocapritermes silvaticus",
      "counts": {
-      "species": 18,
+      "species": 19,
       "subspecies": 0
      },
      "species": [
@@ -26125,6 +26369,17 @@
        "distributionZh": "云南（金平猛喇580 m）、中国",
        "distributionEn": "Yunnan (Jinping Mengla580 m), China",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/pseudocapritermes-minutus/",
+       "subspecies": []
+      },
+      {
+       "latin": "Pseudocapritermes novus",
+       "zh": "新伪扭白蚁",
+       "authorship": "Rituparna, Baraik & Rajmohana, 2026",
+       "isTypeSpecies": false,
+       "typeLocality": "India: West Bengal",
+       "distributionZh": "印度（西孟加拉）",
+       "distributionEn": "India (West Bengal)",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/pseudocapritermes-novus/",
        "subspecies": []
       },
       {
@@ -34252,21 +34507,10 @@
      "subfamilyId": "nasutitermitinae",
      "typeSpecies": "Xiaitermes yinxianensis",
      "counts": {
-      "species": 2,
+      "species": 1,
       "subspecies": 0
      },
      "species": [
-      {
-       "latin": "Xiaitermes tiantaiensis",
-       "zh": "天台夏氏白蚁",
-       "authorship": "Gao & He, 1994",
-       "isTypeSpecies": false,
-       "typeLocality": "China: Zhejiang Province: Tiantai",
-       "distributionZh": "中国",
-       "distributionEn": "China",
-       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/xiaitermes-tiantaiensis/",
-       "subspecies": []
-      },
       {
        "latin": "Xiaitermes yinxianensis",
        "zh": "鄞县夏氏白蚁",
@@ -37570,7 +37814,7 @@
      "subfamilyId": "termitinae",
      "typeSpecies": "Termes fatalis",
      "counts": {
-      "species": 26,
+      "species": 27,
       "subspecies": 0
      },
      "species": [
@@ -37737,6 +37981,17 @@
        "distributionZh": "中国广东、华阳、泰国",
        "distributionEn": "Guangdong, China, Huayang, Thailand",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/termes-huayangensis/",
+       "subspecies": []
+      },
+      {
+       "latin": "Termes incognitus",
+       "zh": "隐秘白蚁",
+       "authorship": "Fontaine et al., 2025",
+       "isTypeSpecies": false,
+       "typeLocality": "French Guiana",
+       "distributionZh": "法属圭亚那",
+       "distributionEn": "French Guiana",
+       "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/termes-incognitus/",
        "subspecies": []
       },
       {

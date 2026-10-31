@@ -37,8 +37,8 @@ ES — **指名亚种** (*Basidentitermes mactus mactus*) es una subespecie de *
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[基齿白蚁属 *Basidentitermes*]({{ site.base_url }}/list/#basidentitermes) —— 共 8 种（8 species · 8 especies）
 - **种 Species / Especie**：[荣耀基齿白蚁 *Basidentitermes mactus*]({{ site.base_url }}/species/basidentitermes-mactus/)
 - **亚种 Subspecies / Subespecie**：本页（*Basidentitermes mactus mactus*）

@@ -3,7 +3,7 @@
  "@type": "Dataset",
  "name": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30）",
  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
- "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 323 属 3004 种 64 亚种，含模式种标记、分布信息与 77 篇参考文献。",
+ "description": "现存等翅下目（白蚁）全部现生类群的拉丁学名—中文正名对照名录，收录 13 科 326 属 3021 种 68 亚种，含模式种标记、分布信息与 77 篇参考文献。",
  "creator": {
   "@type": "Person",
   "name": "班奈特格林"
@@ -26,9 +26,9 @@
  ],
  "counts": {
   "families": 13,
-  "genera": 323,
-  "species": 3004,
-  "subspecies": 64
+  "genera": 326,
+  "species": 3021,
+  "subspecies": 68
  },
  "source_file": "index.md",
  "clades_in_document_order": [
@@ -3784,7 +3784,7 @@
      "zh": "前新白蚁属",
      "latin": "Proneotermes",
      "id": "proneotermes",
-     "species_count": 3,
+     "species_count": 4,
      "type_species": "Proneotermes perezi",
      "species": [
       {
@@ -3806,6 +3806,13 @@
        "zh": "佩雷斯前新白蚁",
        "type": true,
        "distribution": "哥斯达黎加、危地马拉、洪都拉斯、巴拿马）",
+       "subspecies": null
+      },
+      {
+       "latin": "Proneotermes tacicuarensis",
+       "zh": "塔西夸罗前新白蚁",
+       "type": false,
+       "distribution": "墨西哥（米却肯州））",
        "subspecies": null
       }
      ]
@@ -4176,7 +4183,7 @@
      "zh": "尖鼻白蚁属",
      "latin": "Acorhinotermes",
      "id": "acorhinotermes",
-     "species_count": 2,
+     "species_count": 3,
      "type_species": "Acorhinotermes subfusciceps",
      "species": [
       {
@@ -4184,6 +4191,13 @@
        "zh": "克拉丽塔尖鼻白蚁",
        "type": false,
        "distribution": "哥伦比亚、巴西、委内瑞拉）",
+       "subspecies": null
+      },
+      {
+       "latin": "Acorhinotermes murui",
+       "zh": "穆鲁伊尖鼻白蚁",
+       "type": false,
+       "distribution": "哥伦比亚（亚马孙））",
        "subspecies": null
       },
       {
@@ -6769,7 +6783,7 @@
        "zh": "弓白蚁属",
        "latin": "Amitermes",
        "id": "amitermes",
-       "species_count": 112,
+       "species_count": 113,
        "type_species": "Amitermes amifer",
        "species": [
         {
@@ -6896,6 +6910,13 @@
          "zh": "卡拉比弓白蚁",
          "type": false,
          "distribution": "澳大利亚）",
+         "subspecies": null
+        },
+        {
+         "latin": "Amitermes californicus",
+         "zh": "加州弓白蚁",
+         "type": false,
+         "distribution": "美国西南部、墨西哥）",
          "subspecies": null
         },
         {
@@ -9290,7 +9311,7 @@
        "zh": "蔡斯白蚁属",
        "latin": "Chasitermes",
        "id": "chasitermes",
-       "species_count": 1,
+       "species_count": 2,
        "type_species": "Chasitermes pax",
        "species": [
         {
@@ -9298,6 +9319,13 @@
          "zh": "和平蔡斯白蚁",
          "type": true,
          "distribution": "特立尼达和多巴哥）",
+         "subspecies": null
+        },
+        {
+         "latin": "Chasitermes tupan",
+         "zh": "图潘蔡斯白蚁",
+         "type": false,
+         "distribution": "亚马孙雨林）",
          "subspecies": null
         }
        ]
@@ -9447,6 +9475,22 @@
          "zh": "比里巴多刺白蚁",
          "type": true,
          "distribution": "南美洲、哥伦比亚、秘鲁）",
+         "subspecies": null
+        }
+       ]
+      },
+      {
+       "zh": "肠棘白蚁属",
+       "latin": "Ekueitermes",
+       "id": "ekueitermes",
+       "species_count": 1,
+       "type_species": "Ekueitermes alerosinus",
+       "species": [
+        {
+         "latin": "Ekueitermes alerosinus",
+         "zh": "阿莱罗辛肠棘白蚁",
+         "type": true,
+         "distribution": "哥伦比亚）",
          "subspecies": null
         }
        ]
@@ -10267,6 +10311,22 @@
        ]
       },
       {
+       "zh": "谢弗拉恩白蚁属",
+       "latin": "Scheffrahnitermes",
+       "id": "scheffrahnitermes",
+       "species_count": 1,
+       "type_species": "Scheffrahnitermes ubuntu",
+       "species": [
+        {
+         "latin": "Scheffrahnitermes ubuntu",
+         "zh": "乌班图谢弗拉恩白蚁",
+         "type": true,
+         "distribution": "南美洲）",
+         "subspecies": null
+        }
+       ]
+      },
+      {
        "zh": "洁白蚁属",
        "latin": "Skatitermes",
        "id": "skatitermes",
@@ -10385,6 +10445,22 @@
          "zh": "三角稀白蚁",
          "type": false,
          "distribution": "南亚、印度）",
+         "subspecies": null
+        }
+       ]
+      },
+      {
+       "zh": "螺旋白蚁属",
+       "latin": "Spiralitermes",
+       "id": "spiralitermes",
+       "species_count": 1,
+       "type_species": "Spiralitermes jurupari",
+       "species": [
+        {
+         "latin": "Spiralitermes jurupari",
+         "zh": "尤鲁帕里螺旋白蚁",
+         "type": true,
+         "distribution": "亚马孙雨林）",
          "subspecies": null
         }
        ]
@@ -10903,9 +10979,16 @@
        "zh": "等颚白蚁属",
        "latin": "Isognathotermes",
        "id": "isognathotermes",
-       "species_count": 9,
+       "species_count": 16,
        "type_species": "Isognathotermes minitabundus",
        "species": [
+        {
+         "latin": "Isognathotermes acristatus",
+         "zh": "无冠等颚白蚁",
+         "type": false,
+         "distribution": "安哥拉）",
+         "subspecies": null
+        },
         {
          "latin": "Isognathotermes bulbifrons",
          "zh": "球额等颚白蚁",
@@ -10935,10 +11018,38 @@
          "subspecies": null
         },
         {
+         "latin": "Isognathotermes magniplanifrons",
+         "zh": "大平额等颚白蚁",
+         "type": false,
+         "distribution": "刚果民主共和国）",
+         "subspecies": null
+        },
+        {
          "latin": "Isognathotermes minitabundus",
          "zh": "威吓等颚白蚁",
          "type": true,
          "distribution": "非洲热带）",
+         "subspecies": null
+        },
+        {
+         "latin": "Isognathotermes modicus",
+         "zh": "中等等颚白蚁",
+         "type": false,
+         "distribution": "加蓬）",
+         "subspecies": null
+        },
+        {
+         "latin": "Isognathotermes phallicaecalis",
+         "zh": "阳茎盲囊等颚白蚁",
+         "type": false,
+         "distribution": "刚果共和国、喀麦隆）",
+         "subspecies": null
+        },
+        {
+         "latin": "Isognathotermes phalloides",
+         "zh": "似阳茎等颚白蚁",
+         "type": false,
+         "distribution": "刚果民主共和国）",
          "subspecies": null
         },
         {
@@ -10949,6 +11060,13 @@
          "subspecies": null
         },
         {
+         "latin": "Isognathotermes rectimalatus",
+         "zh": "直颚等颚白蚁",
+         "type": false,
+         "distribution": "安哥拉）",
+         "subspecies": null
+        },
+        {
          "latin": "Isognathotermes severus",
          "zh": "严肃等颚白蚁",
          "type": false,
@@ -10956,11 +11074,35 @@
          "subspecies": null
         },
         {
+         "latin": "Isognathotermes similifinitimus",
+         "zh": "似近邻等颚白蚁",
+         "type": false,
+         "distribution": "刚果民主共和国）",
+         "subspecies": null
+        },
+        {
          "latin": "Isognathotermes ugandensis",
          "zh": "乌干达等颚白蚁",
          "type": false,
          "distribution": "乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚）",
-         "subspecies": null
+         "subspecies": [
+          {
+           "epithet": "burundii",
+           "zh": "布隆迪亚种"
+          },
+          {
+           "epithet": "kenyae",
+           "zh": "肯尼亚亚种"
+          },
+          {
+           "epithet": "malawii",
+           "zh": "马拉维亚种"
+          },
+          {
+           "epithet": "ugandensis",
+           "zh": "指名亚种"
+          }
+         ]
         },
         {
          "latin": "Isognathotermes zenkeri",
@@ -16208,7 +16350,7 @@
        "zh": "唇扭白蚁属",
        "latin": "Labiocapritermes",
        "id": "labiocapritermes",
-       "species_count": 2,
+       "species_count": 4,
        "type_species": "Labiocapritermes distortus",
        "species": [
         {
@@ -16223,6 +16365,20 @@
          "zh": "高止唇扭白蚁",
          "type": false,
          "distribution": "印度）",
+         "subspecies": null
+        },
+        {
+         "latin": "Labiocapritermes microcephalus",
+         "zh": "小头唇扭白蚁",
+         "type": false,
+         "distribution": "印度（喀拉拉））",
+         "subspecies": null
+        },
+        {
+         "latin": "Labiocapritermes wayanadensis",
+         "zh": "瓦亚纳德唇扭白蚁",
+         "type": false,
+         "distribution": "印度（喀拉拉））",
          "subspecies": null
         }
        ]
@@ -16715,7 +16871,7 @@
        "zh": "伪扭白蚁属",
        "latin": "Pseudocapritermes",
        "id": "pseudocapritermes",
-       "species_count": 18,
+       "species_count": 19,
        "type_species": "Pseudocapritermes silvaticus",
        "species": [
         {
@@ -16779,6 +16935,13 @@
          "zh": "小伪扭白蚁",
          "type": false,
          "distribution": "云南（金平猛喇580 m）、中国）",
+         "subspecies": null
+        },
+        {
+         "latin": "Pseudocapritermes novus",
+         "zh": "新伪扭白蚁",
+         "type": false,
+         "distribution": "印度（西孟加拉））",
          "subspecies": null
         },
         {
@@ -22016,16 +22179,9 @@
        "zh": "夏氏白蚁属",
        "latin": "Xiaitermes",
        "id": "xiaitermes",
-       "species_count": 2,
+       "species_count": 1,
        "type_species": "Xiaitermes yinxianensis",
        "species": [
-        {
-         "latin": "Xiaitermes tiantaiensis",
-         "zh": "天台夏氏白蚁",
-         "type": false,
-         "distribution": "中国）",
-         "subspecies": null
-        },
         {
          "latin": "Xiaitermes yinxianensis",
          "zh": "鄞县夏氏白蚁",
@@ -24206,7 +24362,7 @@
        "zh": "白蚁属",
        "latin": "Termes",
        "id": "termes",
-       "species_count": 26,
+       "species_count": 27,
        "type_species": "Termes fatalis",
        "species": [
         {
@@ -24312,6 +24468,13 @@
          "zh": "怀阳白蚁",
          "type": false,
          "distribution": "中国广东、华阳、泰国）",
+         "subspecies": null
+        },
+        {
+         "latin": "Termes incognitus",
+         "zh": "隐秘白蚁",
+         "type": false,
+         "distribution": "法属圭亚那）",
          "subspecies": null
         },
         {

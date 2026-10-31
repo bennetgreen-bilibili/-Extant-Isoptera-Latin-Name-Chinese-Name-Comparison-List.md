@@ -34,9 +34,9 @@ ES — **中华伪扭白蚁** (*Pseudocapritermes sinensis*) es una especie del 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 132 种（14 genera, 132 species · 14 géneros, 132 especies）
-- **属 Genus / Género**：[伪扭白蚁属 *Pseudocapritermes*]({{ site.base_url }}/list/#pseudocapritermes) —— 共 18 种（18 species · 18 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
+- **属 Genus / Género**：[伪扭白蚁属 *Pseudocapritermes*]({{ site.base_url }}/list/#pseudocapritermes) —— 共 19 种（19 species · 19 especies）
 - **本属模式种 Type species / Especie tipo**：*Pseudocapritermes silvaticus*
 
 ## 分布

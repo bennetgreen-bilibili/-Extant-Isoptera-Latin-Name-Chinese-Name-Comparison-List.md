@@ -34,8 +34,8 @@ ES — **伯格净白蚁** (*Nitiditermes berghei*) es una especie, y la especie
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[净白蚁属 *Nitiditermes*]({{ site.base_url }}/list/#nitiditermes) —— 共 15 种（15 species · 15 especies）
 
 ## 分布

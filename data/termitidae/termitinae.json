@@ -16,7 +16,7 @@
  "counts": {
   "subfamilies": 1,
   "genera": 23,
-  "species": 106,
+  "species": 107,
   "subspecies": 0
  },
  "subfamily": {
@@ -705,7 +705,7 @@
     "zh": "白蚁属",
     "latin": "Termes",
     "id": "termes",
-    "species_count": 26,
+    "species_count": 27,
     "type_species": "Termes fatalis",
     "species": [
      {
@@ -811,6 +811,13 @@
       "zh": "怀阳白蚁",
       "type": false,
       "distribution": "中国广东、华阳、泰国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Termes incognitus",
+      "zh": "隐秘白蚁",
+      "type": false,
+      "distribution": "法属圭亚那）",
       "subspecies": null
      },
      {

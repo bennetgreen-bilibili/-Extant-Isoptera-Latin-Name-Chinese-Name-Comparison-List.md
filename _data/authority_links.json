@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-30T15:09:48Z",
+  "generated": "2026-10-31T10:44:02Z",
   "sources": {
    "gbif": {
     "name": "GBIF Backbone Taxonomy",
@@ -44,29 +44,30 @@
    }
   },
   "counts": {
-   "total": 3068,
+   "total": 3089,
    "gbif_linked": 2963,
-   "gbif_accepted": 2956,
-   "gbif_synonym": 7,
+   "gbif_accepted": 2955,
+   "gbif_synonym": 8,
    "gbif_missing": 0,
    "gbif_fuzzy": 4,
    "gbif_doubtful": 0,
-   "gbif_higherrank": 105,
-   "col_linked": 2995,
-   "col_accepted": 2995,
-   "col_synonym": 0,
-   "col_missing": 16,
-   "col_higherrank": 57,
-   "wikidata": 2872,
-   "consistent": 2899,
-   "flagged": 169
+   "gbif_higherrank": 126,
+   "col_linked": 3008,
+   "col_accepted": 3007,
+   "col_synonym": 1,
+   "col_missing": 17,
+   "col_higherrank": 64,
+   "wikidata": 2873,
+   "consistent": 2898,
+   "flagged": 191
   },
   "flag_counts": {
-   "col_higherrank": 57,
-   "col_missing": 16,
+   "col_higherrank": 64,
+   "col_missing": 17,
+   "col_synonym": 1,
    "gbif_fuzzy": 4,
-   "gbif_higherrank": 105,
-   "gbif_synonym": 7
+   "gbif_higherrank": 126,
+   "gbif_synonym": 8
   }
  },
  "taxa": {
@@ -310,6 +311,31 @@
    },
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Acorhinotermes murui": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Acorhinotermes Emerson, 1949",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "C3BTR",
+    "status": "accepted",
+    "label": "Acorhinotermes murui Castro, 2023",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "wd": "Q128802367",
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
   },
   "Acorhinotermes subfusciceps": {
    "gbif": {
@@ -2032,6 +2058,39 @@
    "wd": "Q110272281",
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Amitermes californicus": {
+   "gbif": {
+    "key": 9157883,
+    "status": "SYNONYM",
+    "match": "EXACT",
+    "confidence": 100,
+    "rank": "SPECIES",
+    "name": "Amitermes californicus Banks, 1920",
+    "accepted": {
+     "key": 2007289,
+     "name": "Amitermes wheeleri (Desneux, 1906)",
+     "status": null,
+     "rank": "SPECIES"
+    }
+   },
+   "col": {
+    "id": "8Q83Z",
+    "status": "synonym",
+    "label": "Amitermes californicus Banks, 1920",
+    "type": "variant",
+    "rank": "species",
+    "accepted": {
+     "id": "CSVV",
+     "label": "Amitermes wheeleri (Desneux, 1906)",
+     "name": "Amitermes wheeleri"
+    }
+   },
+   "flags": [
+    "gbif_synonym",
+    "col_synonym"
+   ],
+   "_d": "2026-10-31"
   },
   "Amitermes capito": {
    "gbif": {
@@ -10512,6 +10571,32 @@
    "flags": [],
    "_d": "2026-10-28"
   },
+  "Chasitermes tupan": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Chasitermes Scheffrahn & Carrijo, 2023",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Chasitermes Scheffrahn & Carrijo, 2023",
+    "type": "higherrank",
+    "rank": "genus",
+    "accepted": null,
+    "higherrank": true
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Coarctotermes beharaensis": {
    "gbif": {
     "key": 9767380,
@@ -17239,6 +17324,30 @@
    "wd": "Q110272415",
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Ekueitermes alerosinus": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 99,
+    "rank": "KINGDOM",
+    "name": "Animalia",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "VRZ4Q",
+    "status": "accepted",
+    "label": "Ekueitermes alerosinus Duran-Bautista & Celis-Daza, 2026",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
   },
   "Eleanoritermes borneensis": {
    "gbif": {
@@ -26573,6 +26682,30 @@
    "flags": [],
    "_d": "2026-10-28"
   },
+  "Isognathotermes acristatus": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GWM",
+    "status": "accepted",
+    "label": "Isognathotermes acristatus Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Isognathotermes bulbifrons": {
    "gbif": {
     "key": null,
@@ -26669,6 +26802,30 @@
    ],
    "_d": "2026-10-28"
   },
+  "Isognathotermes magniplanifrons": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GWQ",
+    "status": "accepted",
+    "label": "Isognathotermes magniplanifrons Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Isognathotermes minitabundus": {
    "gbif": {
     "key": null,
@@ -26692,6 +26849,78 @@
     "gbif_higherrank"
    ],
    "_d": "2026-10-28"
+  },
+  "Isognathotermes modicus": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GWR",
+    "status": "accepted",
+    "label": "Isognathotermes modicus Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
+  "Isognathotermes phallicaecalis": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GWY",
+    "status": "accepted",
+    "label": "Isognathotermes phallicaecalis Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
+  "Isognathotermes phalloides": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GWX",
+    "status": "accepted",
+    "label": "Isognathotermes phalloides Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
   },
   "Isognathotermes planifrons": {
    "gbif": {
@@ -26717,6 +26946,30 @@
    ],
    "_d": "2026-10-28"
   },
+  "Isognathotermes rectimalatus": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GWW",
+    "status": "accepted",
+    "label": "Isognathotermes rectimalatus Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Isognathotermes severus": {
    "gbif": {
     "key": null,
@@ -26741,6 +26994,30 @@
    ],
    "_d": "2026-10-28"
   },
+  "Isognathotermes similifinitimus": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GX8",
+    "status": "accepted",
+    "label": "Isognathotermes similifinitimus Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Isognathotermes ugandensis": {
    "gbif": {
     "key": null,
@@ -26764,6 +27041,104 @@
     "gbif_higherrank"
    ],
    "_d": "2026-10-28"
+  },
+  "Isognathotermes ugandensis burundii": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GX6",
+    "status": "accepted",
+    "label": "Isognathotermes ugandensis burundii Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "subspecies",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
+  "Isognathotermes ugandensis kenyae": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GX4",
+    "status": "accepted",
+    "label": "Isognathotermes ugandensis kenyae Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "subspecies",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
+  "Isognathotermes ugandensis malawii": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "V9GX5",
+    "status": "accepted",
+    "label": "Isognathotermes ugandensis malawii Josens & Deligne, 2025",
+    "type": "variant",
+    "rank": "subspecies",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
+  "Isognathotermes ugandensis ugandensis": {
+   "gbif": {
+    "key": null,
+    "status": "SYNONYM",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Isognathotermes Sjöstedt, 1926",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Isognathotermes ugandensis (Fuller, 1923)",
+    "type": "higherrank",
+    "rank": "species",
+    "accepted": null,
+    "higherrank": true
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
   },
   "Isognathotermes zenkeri": {
    "gbif": {
@@ -27637,6 +28012,58 @@
     "gbif_higherrank"
    ],
    "_d": "2026-10-28"
+  },
+  "Labiocapritermes microcephalus": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Labiocapritermes Krishna, 1968",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Labiocapritermes Krishna, 1968",
+    "type": "higherrank",
+    "rank": "genus",
+    "accepted": null,
+    "higherrank": true
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
+  "Labiocapritermes wayanadensis": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Labiocapritermes Krishna, 1968",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Labiocapritermes Krishna, 1968",
+    "type": "higherrank",
+    "rank": "genus",
+    "accepted": null,
+    "higherrank": true
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
   },
   "Labiotermes brevilabius": {
    "gbif": {
@@ -54783,6 +55210,32 @@
    "flags": [],
    "_d": "2026-10-28"
   },
+  "Proneotermes tacicuarensis": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Proneotermes Holmgren, 1911",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Proneotermes Holmgren, 1911",
+    "type": "higherrank",
+    "rank": "genus",
+    "accepted": null,
+    "higherrank": true
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Prorhinotermes canalifrons": {
    "gbif": {
     "key": 9717622,
@@ -55775,6 +56228,33 @@
    "wd": "Q140084286",
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Pseudocapritermes novus": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 96,
+    "rank": "GENUS",
+    "name": "Pseudocapritermes Kemner, 1934",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Pseudocapritermes Kemner, 1934",
+    "type": "higherrank",
+    "rank": "genus",
+    "accepted": null,
+    "higherrank": true
+   },
+   "wd": "Q140469632",
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
   },
   "Pseudocapritermes orientalis": {
    "gbif": {
@@ -61363,6 +61843,30 @@
    "flags": [],
    "_d": "2026-10-28"
   },
+  "Scheffrahnitermes ubuntu": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 99,
+    "rank": "KINGDOM",
+    "name": "Animalia",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": "VSF9H",
+    "status": "accepted",
+    "label": "Scheffrahnitermes ubuntu Mellado, Messina & Carrijo, 2026",
+    "type": "variant",
+    "rank": "species",
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Schievitermes globicornis": {
    "gbif": {
     "key": 11487971,
@@ -62685,6 +63189,31 @@
    "wd": "Q140073794",
    "flags": [],
    "_d": "2026-10-28"
+  },
+  "Spiralitermes jurupari": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 99,
+    "rank": "KINGDOM",
+    "name": "Animalia",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": null,
+    "label": null,
+    "type": "none",
+    "rank": null,
+    "accepted": null
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_missing"
+   ],
+   "_d": "2026-10-31"
   },
   "Stolotermes africanus": {
    "gbif": {
@@ -65267,6 +65796,32 @@
    "flags": [],
    "_d": "2026-10-28"
   },
+  "Termes incognitus": {
+   "gbif": {
+    "key": null,
+    "status": "ACCEPTED",
+    "match": "HIGHERRANK",
+    "confidence": 95,
+    "rank": "GENUS",
+    "name": "Termes Linnaeus, 1758",
+    "accepted": null,
+    "higherrank": true
+   },
+   "col": {
+    "id": null,
+    "status": "accepted",
+    "label": "Termes Linnaeus, 1758",
+    "type": "higherrank",
+    "rank": "genus",
+    "accepted": null,
+    "higherrank": true
+   },
+   "flags": [
+    "gbif_higherrank",
+    "col_higherrank"
+   ],
+   "_d": "2026-10-31"
+  },
   "Termes laticornis": {
    "gbif": {
     "key": 9683586,
@@ -67638,28 +68193,6 @@
     "accepted": null
    },
    "wd": "Q140073685",
-   "flags": [],
-   "_d": "2026-10-28"
-  },
-  "Xiaitermes tiantaiensis": {
-   "gbif": {
-    "key": 9646790,
-    "status": "ACCEPTED",
-    "match": "EXACT",
-    "confidence": 100,
-    "rank": "SPECIES",
-    "name": "Xiaitermes tiantaiensis He & Gao, 1994",
-    "accepted": null
-   },
-   "col": {
-    "id": "7G9P4",
-    "status": "accepted",
-    "label": "Xiaitermes tiantaiensis Gao & He, 1994",
-    "type": "variant",
-    "rank": "species",
-    "accepted": null
-   },
-   "wd": "Q140073684",
    "flags": [],
    "_d": "2026-10-28"
   },

@@ -16,7 +16,7 @@
  "counts": {
   "subfamilies": 1,
   "genera": 14,
-  "species": 132,
+  "species": 135,
   "subspecies": 3
  },
  "subfamily": {
@@ -290,7 +290,7 @@
     "zh": "唇扭白蚁属",
     "latin": "Labiocapritermes",
     "id": "labiocapritermes",
-    "species_count": 2,
+    "species_count": 4,
     "type_species": "Labiocapritermes distortus",
     "species": [
      {
@@ -305,6 +305,20 @@
       "zh": "高止唇扭白蚁",
       "type": false,
       "distribution": "印度）",
+      "subspecies": null
+     },
+     {
+      "latin": "Labiocapritermes microcephalus",
+      "zh": "小头唇扭白蚁",
+      "type": false,
+      "distribution": "印度（喀拉拉））",
+      "subspecies": null
+     },
+     {
+      "latin": "Labiocapritermes wayanadensis",
+      "zh": "瓦亚纳德唇扭白蚁",
+      "type": false,
+      "distribution": "印度（喀拉拉））",
       "subspecies": null
      }
     ]
@@ -797,7 +811,7 @@
     "zh": "伪扭白蚁属",
     "latin": "Pseudocapritermes",
     "id": "pseudocapritermes",
-    "species_count": 18,
+    "species_count": 19,
     "type_species": "Pseudocapritermes silvaticus",
     "species": [
      {
@@ -861,6 +875,13 @@
       "zh": "小伪扭白蚁",
       "type": false,
       "distribution": "云南（金平猛喇580 m）、中国）",
+      "subspecies": null
+     },
+     {
+      "latin": "Pseudocapritermes novus",
+      "zh": "新伪扭白蚁",
+      "type": false,
+      "distribution": "印度（西孟加拉））",
       "subspecies": null
      },
      {

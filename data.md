@@ -16,11 +16,11 @@ permalink: /data/
 
 ## 归档数据集与 DOI <span class="fact-en">Archived dataset &amp; DOI</span>
 
-<p>全部名录另已整理为可引用的归档数据集（<strong>3068 条记录</strong>：逐条 CSV、分类树 JSON、次异名长表、参考文献表，附 DataCite 4.6 元数据与 CC BY 4.0 许可），可直接下载：
+<p>全部名录另已整理为可引用的归档数据集（<strong>3089 条记录</strong>：逐条 CSV、分类树 JSON、次异名长表、参考文献表，附 DataCite 4.6 元数据与 CC BY 4.0 许可），可直接下载：
 <a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>。</p>
 
 <ul>
-  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3068 行逐条分类单元表（含中文正名、模式产地、分布、次异名）</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3089 行逐条分类单元表（含中文正名、模式产地、分布、次异名）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — 完整分类树（支系—科—亚科—属—种/亚种）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — 次异名长表（含模式产地与对齐状态）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — 科/亚科级计数</li>

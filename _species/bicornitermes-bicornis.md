@@ -31,7 +31,7 @@ ES — **双角双角白蚁** (*Bicornitermes bicornis*) es una especie, y la es
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[双角白蚁属 *Bicornitermes*]({{ site.base_url }}/list/#bicornitermes) —— 共 4 种（4 species · 4 especies）
 
 ## 分布

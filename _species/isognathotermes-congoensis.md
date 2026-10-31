@@ -23,6 +23,8 @@ distribution_en: "Democratic Republic of the Congo"
 synonym_count: 0
 ---
 
+> **分类地位待定（incertae sedis）**：2025 年 *Isognathotermes* 属整合修订（Josens et al., 2025, EJT 1024: 1–197）将该名列为 incertae sedis，其属级归属尚待进一步研究，本名录暂按原名保留记录。
+
 <!-- AUTO:BEGIN -->
 ## 摘要
 
@@ -34,9 +36,9 @@ ES — **刚果等颚白蚁** (*Isognathotermes congoensis*) es una especie del 
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
-- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 9 种（9 species · 9 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
+- **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/list/#isognathotermes) —— 共 16 种（16 species · 16 especies）
 - **本属模式种 Type species / Especie tipo**：*Isognathotermes minitabundus*
 
 ## 分布

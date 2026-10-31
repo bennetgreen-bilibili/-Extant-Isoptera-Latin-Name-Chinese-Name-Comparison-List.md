@@ -34,8 +34,8 @@ ES — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) es una especi
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 142 种（28 genera, 142 species · 28 géneros, 142 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/list/#cubitermitinae) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[多铲白蚁属 *Polyspathotermes*]({{ site.base_url }}/list/#polyspathotermes) —— 共 8 种（8 species · 8 especies）
 - **本属模式种 Type species / Especie tipo**：*Polyspathotermes sulcifrons*
 

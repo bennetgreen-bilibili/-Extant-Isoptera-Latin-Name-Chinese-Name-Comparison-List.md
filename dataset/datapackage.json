@@ -3,7 +3,7 @@
  "name": "extant-isoptera-checklist",
  "title": "现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）",
  "version": "2026.10.30",
- "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、323 属、3004 种、64 亚种，共 3068 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
+ "description": "现存等翅下目（Isoptera，白蚁）全部现生类群的拉丁学名—中文正名对照名录。收录 13 科、18 亚科、326 属、3021 种、68 亚种，共 3089 条分类单元记录。每条记录含：拉丁学名、命名人与年份、中文正名、分类等级（种/亚种）、所属支系—科—亚科—属（中拉双名）、模式种标记、模式产地、分布（中/英）、次异名及其模式产地。数据同时以结构化 JSON 分类树、逐条 CSV 与次异名长表三种形式提供，并附 77 篇参考文献清单（有 DOI 者随条目给出）。本数据集为分类学名录汇编，供检索、对照、翻译与生物多样性信息学使用；不构成任何命名行为（no nomenclatural act），新分类单元与命名修订请以正式发表文献为准。",
  "id": "https://doi.org/10.5281/zenodo.23646836",
  "homepage": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/",
  "created": "2026-10-13",
@@ -66,9 +66,9 @@
   "clades": 6,
   "families": 13,
   "subfamilies": 18,
-  "genera": 323,
-  "species": 3004,
-  "subspecies": 64
+  "genera": 326,
+  "species": 3021,
+  "subspecies": 68
  },
  "resources": [
   {
@@ -76,8 +76,8 @@
    "path": "data/isoptera-checklist.csv",
    "title": "逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名）",
    "format": "csv",
-   "bytes": 1751504,
-   "rows": 3068,
+   "bytes": 1763421,
+   "rows": 3089,
    "profile": "tabular-data-resource",
    "schema": {
     "fields": [
@@ -209,8 +209,8 @@
    "path": "data/isoptera-taxonomy.json",
    "title": "完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接）",
    "format": "json",
-   "bytes": 1713587,
-   "rows": 3068,
+   "bytes": 1725009,
+   "rows": 3089,
    "profile": "data-resource"
   },
   {
@@ -218,8 +218,8 @@
    "path": "data/isoptera-synonyms.csv",
    "title": "次异名长表（一行一次异名，含其模式产地）",
    "format": "csv",
-   "bytes": 170670,
-   "rows": 699,
+   "bytes": 171615,
+   "rows": 704,
    "profile": "tabular-data-resource",
    "schema": {
     "fields": [
@@ -266,7 +266,7 @@
    "path": "data/isoptera-counts.csv",
    "title": "科/亚科级分类单元计数",
    "format": "csv",
-   "bytes": 2215,
+   "bytes": 2216,
    "rows": 31,
    "profile": "tabular-data-resource",
    "schema": {

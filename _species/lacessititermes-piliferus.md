@@ -34,8 +34,8 @@ ES — **具毛怒白蚁** (*Lacessititermes piliferus*) es una especie del gén
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 607 种（81 genera, 607 species · 81 géneros, 607 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[怒白蚁属 *Lacessititermes*]({{ site.base_url }}/list/#lacessititermes) —— 共 20 种（20 species · 20 especies）
 - **本属模式种 Type species / Especie tipo**：*Lacessititermes lacessitus*
 

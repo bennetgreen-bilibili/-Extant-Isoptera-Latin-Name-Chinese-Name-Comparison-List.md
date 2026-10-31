@@ -16,7 +16,7 @@
  "counts": {
   "subfamilies": 1,
   "genera": 81,
-  "species": 607,
+  "species": 606,
   "subspecies": 10
  },
  "subfamily": {
@@ -5027,16 +5027,9 @@
     "zh": "夏氏白蚁属",
     "latin": "Xiaitermes",
     "id": "xiaitermes",
-    "species_count": 2,
+    "species_count": 1,
     "type_species": "Xiaitermes yinxianensis",
     "species": [
-     {
-      "latin": "Xiaitermes tiantaiensis",
-      "zh": "天台夏氏白蚁",
-      "type": false,
-      "distribution": "中国）",
-      "subspecies": null
-     },
      {
       "latin": "Xiaitermes yinxianensis",
       "zh": "鄞县夏氏白蚁",

@@ -31,7 +31,7 @@ ES — **角头前砂白蚁** (*Procryptotermes corniceps*) es una especie del g
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[前砂白蚁属 *Procryptotermes*]({{ site.base_url }}/list/#procryptotermes) —— 共 14 种（14 species · 14 especies）
 - **本属模式种 Type species / Especie tipo**：*Procryptotermes fryeri*
 

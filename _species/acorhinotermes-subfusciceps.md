@@ -31,8 +31,8 @@ ES — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) es una especie, y 
 
 ## 分类位置
 
-- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
-- **属 Genus / Género**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/list/#acorhinotermes) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
+- **属 Genus / Género**：[尖鼻白蚁属 *Acorhinotermes*]({{ site.base_url }}/list/#acorhinotermes) —— 共 3 种（3 species · 3 especies）
 
 ## 分布
 

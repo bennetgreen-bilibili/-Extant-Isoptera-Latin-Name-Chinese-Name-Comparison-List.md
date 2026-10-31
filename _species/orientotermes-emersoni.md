@@ -34,7 +34,7 @@ ES — **埃默森东方白蚁** (*Orientotermes emersoni*) es la única especie
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[始钩白蚁亚科 Protohamitermitinae]({{ site.base_url }}/list/#protohamitermitinae) —— 本站收录 2 属 2 种（2 genera, 2 species · 2 géneros, 2 especies）
 - **属 Genus / Género**：[东方白蚁属 *Orientotermes*]({{ site.base_url }}/list/#orientotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 

@@ -15,8 +15,8 @@
  "subfamilyId": "apicotermitinae",
  "counts": {
   "subfamilies": 1,
-  "genera": 65,
-  "species": 237,
+  "genera": 68,
+  "species": 241,
   "subspecies": 2
  },
  "subfamily": {
@@ -1077,7 +1077,7 @@
     "zh": "蔡斯白蚁属",
     "latin": "Chasitermes",
     "id": "chasitermes",
-    "species_count": 1,
+    "species_count": 2,
     "type_species": "Chasitermes pax",
     "species": [
      {
@@ -1085,6 +1085,13 @@
       "zh": "和平蔡斯白蚁",
       "type": true,
       "distribution": "特立尼达和多巴哥）",
+      "subspecies": null
+     },
+     {
+      "latin": "Chasitermes tupan",
+      "zh": "图潘蔡斯白蚁",
+      "type": false,
+      "distribution": "亚马孙雨林）",
       "subspecies": null
      }
     ]
@@ -1234,6 +1241,22 @@
       "zh": "比里巴多刺白蚁",
       "type": true,
       "distribution": "南美洲、哥伦比亚、秘鲁）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "肠棘白蚁属",
+    "latin": "Ekueitermes",
+    "id": "ekueitermes",
+    "species_count": 1,
+    "type_species": "Ekueitermes alerosinus",
+    "species": [
+     {
+      "latin": "Ekueitermes alerosinus",
+      "zh": "阿莱罗辛肠棘白蚁",
+      "type": true,
+      "distribution": "哥伦比亚）",
       "subspecies": null
      }
     ]
@@ -2054,6 +2077,22 @@
     ]
    },
    {
+    "zh": "谢弗拉恩白蚁属",
+    "latin": "Scheffrahnitermes",
+    "id": "scheffrahnitermes",
+    "species_count": 1,
+    "type_species": "Scheffrahnitermes ubuntu",
+    "species": [
+     {
+      "latin": "Scheffrahnitermes ubuntu",
+      "zh": "乌班图谢弗拉恩白蚁",
+      "type": true,
+      "distribution": "南美洲）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
     "zh": "洁白蚁属",
     "latin": "Skatitermes",
     "id": "skatitermes",
@@ -2172,6 +2211,22 @@
       "zh": "三角稀白蚁",
       "type": false,
       "distribution": "南亚、印度）",
+      "subspecies": null
+     }
+    ]
+   },
+   {
+    "zh": "螺旋白蚁属",
+    "latin": "Spiralitermes",
+    "id": "spiralitermes",
+    "species_count": 1,
+    "type_species": "Spiralitermes jurupari",
+    "species": [
+     {
+      "latin": "Spiralitermes jurupari",
+      "zh": "尤鲁帕里螺旋白蚁",
+      "type": true,
+      "distribution": "亚马孙雨林）",
       "subspecies": null
      }
     ]

@@ -2,7 +2,7 @@
 
 **Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names — archived dataset**
 
-**版本 Version**：2026.10.30　·　**记录 Records**：3068 条（3004 种 + 64 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
+**版本 Version**：2026.10.30　·　**记录 Records**：3089 条（3021 种 + 68 亚种）　·　**许可 License**：CC BY 4.0　·　**语言 Languages**：中文 · English
 
 <!-- DOI:BEGIN -->
 **DOI**：[10.5281/zenodo.23646836](https://doi.org/10.5281/zenodo.23646836)（概念 DOI / 全部版本：10.5281/zenodo.23646835）
@@ -34,7 +34,7 @@
 
 本包是「现存等翅下目（白蚁）拉丁学名—中文正名对照名录」的**可引用归档版本**：把项目网站上的名录整理为机器可读、字段完整、可被 DOI 长期引用的数据文件。
 
-数据集覆盖现存等翅下目（Isoptera，白蚁）**全部现生类群**：13 科、18 亚科、323 属、3004 种、64 亚种，共 **3068 条分类单元记录**。每条记录包含：
+数据集覆盖现存等翅下目（Isoptera，白蚁）**全部现生类群**：13 科、18 亚科、326 属、3021 种、68 亚种，共 **3089 条分类单元记录**。每条记录包含：
 
 - 拉丁学名（属名 + 种加词 [+ 亚种加词]）与命名人、年份；
 - **中文正名**（本数据集的核心增值内容）；
@@ -50,26 +50,26 @@
 本目录所有文件均由仓库来源自动生成（生成脚本 `.github/workflows/build_dataset.py`，仅用 Python 标准库），字段字典见 `datapackage.json`。
 
 <!-- AUTO:BEGIN -->
-> 构建提示 Build notes：41 个分类单元的次异名与模式产地条数不等，无法逐条对齐（见 isoptera-synonyms.csv 的 localityAlignment 列）
+> 构建提示 Build notes：43 个分类单元的次异名与模式产地条数不等，无法逐条对齐（见 isoptera-synonyms.csv 的 localityAlignment 列）
 
 ## 文件清单 Files
 
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
-| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3068 | 1751504 | `a7eb3e685bb9291e…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3068 | 1713587 | `1554996e884b5f9a…` |
-| `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 699 | 170670 | `1e120dda5822f36a…` |
-| `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2215 | `3749f3b86234b419…` |
+| `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1763421 | `0070abb47b33c470…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1725009 | `b7cf67517a432458…` |
+| `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 171615 | `a288a7d30d379aad…` |
+| `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `76fce47f5eedeaa0…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 
-统计 Counts：6 支系 · 13 科 · 18 亚科 · 323 属 · 3004 种 · 64 亚种，合计 3068 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。
+统计 Counts：6 支系 · 13 科 · 18 亚科 · 326 属 · 3021 种 · 68 亚种，合计 3089 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。
 
 版本 Version：2026.10.30　生成 Generator：.github/workflows/build_dataset.py（可由仓库来源完全重建）　本区块由脚本自动生成，请勿手工编辑；标记外的手写内容不受影响。
 <!-- AUTO:END -->
 
 ## 与项目网站的关系 Relationship to the project website
 
-- 项目网站（检索、统计、3068 个物种页）：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/>
+- 项目网站（检索、统计、3089 个物种页）：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/>
 - 网站上的在线 JSON 数据（按类群拆分的 22 个文件）：<https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/data/>
 - 源码与更新历史：<https://github.com/bennetgreen-bilibili/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md>
 
@@ -84,7 +84,7 @@
 - **分布**：沿用原始数据中的记录，未逐条核实；格式与粒度因来源而异（国家、地区或具体产地）。
 - **模式产地**：沿用原始数据写法，未统一为现代行政区划。
 
-数据可由仓库来源完全重建：脚本读取 3068 个物种页 front matter 与站点分类树，同一版本重跑得到逐字节一致的结果（`--check` 可校验）。
+数据可由仓库来源完全重建：脚本读取 3089 个物种页 front matter 与站点分类树，同一版本重跑得到逐字节一致的结果（`--check` 可校验）。
 
 ## 字段说明 Fields
 

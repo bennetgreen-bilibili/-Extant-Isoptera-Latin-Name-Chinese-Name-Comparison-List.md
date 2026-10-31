@@ -16,11 +16,11 @@ permalink: /es/data/
 
 ## Conjunto de datos archivado y DOI
 
-<p>Todos los registros del listado están además empaquetados como un conjunto de datos archivado y citable (<strong>3068 registros</strong>: CSV con una fila por taxón, JSON de taxonomía, tabla de sinónimos, lista de referencias, más un registro DataCite 4.6 y una licencia CC BY 4.0). Descargar:
+<p>Todos los registros del listado están además empaquetados como un conjunto de datos archivado y citable (<strong>3089 registros</strong>: CSV con una fila por taxón, JSON de taxonomía, tabla de sinónimos, lista de referencias, más un registro DataCite 4.6 y una licencia CC BY 4.0). Descargar:
 <a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>.</p>
 
 <ul>
-  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3068 registros de taxones (nombre chino, localidad tipo, distribución, sinónimos)</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3089 registros de taxones (nombre chino, localidad tipo, distribución, sinónimos)</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — árbol taxonómico completo (clado–familia–subfamilia–género–especie/subespecie)</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — tabla de sinónimos con localidades tipo y estado de alineación</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — recuentos por familia/subfamilia</li>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statistics — Extant Isoptera (Termites) species counts by rank
-description: "Species-count statistics for the extant Isoptera (termite) checklist: 13 families, 18 subfamilies, 323 genera, 3004 species, 64 subspecies, with family/subfamily/genus tables."
+description: "Species-count statistics for the extant Isoptera (termite) checklist: 13 families, 18 subfamilies, 326 genera, 3021 species, 68 subspecies, with family/subfamily/genus tables."
 lang: en
 author: 班奈特格林 (Bennet Green)
 permalink: /en/stats/
@@ -16,9 +16,9 @@ permalink: /en/stats/
 <tbody>
 <tr><td>科</td><td class="num">13</td></tr>
 <tr><td>亚科</td><td class="num">18</td></tr>
-<tr><td>属</td><td class="num">323</td></tr>
-<tr><td>种</td><td class="num">3004</td></tr>
-<tr><td>亚种</td><td class="num">64</td></tr>
+<tr><td>属</td><td class="num">326</td></tr>
+<tr><td>种</td><td class="num">3021</td></tr>
+<tr><td>亚种</td><td class="num">68</td></tr>
 </tbody>
 </table>
 
@@ -32,14 +32,14 @@ permalink: /en/stats/
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#hodotermitidae">草白蚁科</a></td><td>HODOTERMITIDAE</td><td class="num">3</td><td class="num">21</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#hodotermopsidae">原白蚁科</a></td><td>HODOTERMOPSIDAE</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#stolotermitidae">胄白蚁科</a></td><td>STOLOTERMITIDAE</td><td class="num">2</td><td class="num">10</td><td class="num">0</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#kalotermitidae">木白蚁科</a></td><td>KALOTERMITIDAE</td><td class="num">23</td><td class="num">479</td><td class="num">4</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#kalotermitidae">木白蚁科</a></td><td>KALOTERMITIDAE</td><td class="num">23</td><td class="num">480</td><td class="num">4</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#psammotermitidae">沙白蚁科</a></td><td>PSAMMOTERMITIDAE</td><td class="num">2</td><td class="num">18</td><td class="num">0</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#rhinotermitidae">鼻白蚁科</a></td><td>RHINOTERMITIDAE</td><td class="num">5</td><td class="num">61</td><td class="num">0</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#rhinotermitidae">鼻白蚁科</a></td><td>RHINOTERMITIDAE</td><td class="num">5</td><td class="num">62</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#serritermitidae">齿白蚁科</a></td><td>SERRITERMITIDAE</td><td class="num">2</td><td class="num">3</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#stylotermitidae">杆白蚁科</a></td><td>STYLOTERMITIDAE</td><td class="num">1</td><td class="num">45</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#termitogetonidae">寡脉白蚁科</a></td><td>TERMITOGETONIDAE</td><td class="num">1</td><td class="num">2</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#heterotermitidae">异白蚁科</a></td><td>HETEROTERMITIDAE</td><td class="num">3</td><td class="num">229</td><td class="num">8</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#termitidae">白蚁科</a></td><td>TERMITIDAE</td><td class="num">277</td><td class="num">2129</td><td class="num">50</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#termitidae">白蚁科</a></td><td>TERMITIDAE</td><td class="num">280</td><td class="num">2144</td><td class="num">54</td></tr>
 </tbody>
 </table>
 
@@ -48,24 +48,24 @@ permalink: /en/stats/
 <table class="stats-table">
 <thead><tr><th>中文名</th><th>拉丁名</th><th>属数</th><th>种数</th><th>亚种数</th></tr></thead>
 <tbody>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#amitermitinae">弓白蚁亚科</a></td><td>Amitermitinae</td><td class="num">14</td><td class="num">193</td><td class="num">4</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#apicotermitinae">尖白蚁亚科</a></td><td>Apicotermitinae</td><td class="num">65</td><td class="num">237</td><td class="num">2</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#amitermitinae">弓白蚁亚科</a></td><td>Amitermitinae</td><td class="num">14</td><td class="num">194</td><td class="num">4</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#apicotermitinae">尖白蚁亚科</a></td><td>Apicotermitinae</td><td class="num">68</td><td class="num">241</td><td class="num">2</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#crepititermitinae">响白蚁亚科</a></td><td>Crepititermitinae</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#cubitermitinae">方白蚁亚科</a></td><td>Cubitermitinae</td><td class="num">28</td><td class="num">142</td><td class="num">6</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#cubitermitinae">方白蚁亚科</a></td><td>Cubitermitinae</td><td class="num">28</td><td class="num">149</td><td class="num">10</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#cylindrotermitinae">圆筒白蚁亚科</a></td><td>Cylindrotermitinae</td><td class="num">2</td><td class="num">9</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#engelitermitinae">恩格尔白蚁亚科</a></td><td>Engelitermitinae</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#foraminitermitinae">孔白蚁亚科</a></td><td>Foraminitermitinae</td><td class="num">3</td><td class="num">10</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#forficulitermitinae">剪白蚁亚科</a></td><td>Forficulitermitinae</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#macrotermitinae">大白蚁亚科</a></td><td>Macrotermitinae</td><td class="num">12</td><td class="num">373</td><td class="num">16</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#microcerotermitinae">锯白蚁亚科</a></td><td>Microcerotermitinae</td><td class="num">2</td><td class="num">150</td><td class="num">7</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#mirocapritermitinae">瘤白蚁亚科</a></td><td>Mirocapritermitinae</td><td class="num">14</td><td class="num">132</td><td class="num">3</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#nasutitermitinae">象白蚁亚科</a></td><td>Nasutitermitinae</td><td class="num">81</td><td class="num">607</td><td class="num">10</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#mirocapritermitinae">瘤白蚁亚科</a></td><td>Mirocapritermitinae</td><td class="num">14</td><td class="num">135</td><td class="num">3</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#nasutitermitinae">象白蚁亚科</a></td><td>Nasutitermitinae</td><td class="num">81</td><td class="num">606</td><td class="num">10</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#neocapritermitinae">新扭白蚁亚科</a></td><td>Neocapritermitinae</td><td class="num">3</td><td class="num">20</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#promirotermitinae">前奇白蚁亚科</a></td><td>Promirotermitinae</td><td class="num">2</td><td class="num">39</td><td class="num">2</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#protohamitermitinae">始钩白蚁亚科</a></td><td>Protohamitermitinae</td><td class="num">2</td><td class="num">2</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#sphaerotermitinae">圆球白蚁亚科</a></td><td>Sphaerotermitinae</td><td class="num">1</td><td class="num">1</td><td class="num">0</td></tr>
 <tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#syntermitinae">聚白蚁亚科</a></td><td>Syntermitinae</td><td class="num">22</td><td class="num">105</td><td class="num">0</td></tr>
-<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#termitinae">白蚁亚科</a></td><td>Termitinae</td><td class="num">23</td><td class="num">106</td><td class="num">0</td></tr>
+<tr><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#termitinae">白蚁亚科</a></td><td>Termitinae</td><td class="num">23</td><td class="num">107</td><td class="num">0</td></tr>
 </tbody>
 </table>
 
@@ -399,6 +399,9 @@ permalink: /en/stats/
 <tr><td>Apicotermitinae</td><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#triclavitermes">Triclavitermes</a></td><td>三棒白蚁属</td><td class="num">1</td><td class="num">0</td></tr>
 <tr><td>Apicotermitinae</td><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#tucupitermes">Tucupitermes</a></td><td>黄汁白蚁属</td><td class="num">1</td><td class="num">0</td></tr>
 <tr><td>Cubitermitinae</td><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#unicornitermes">Unicornitermes</a></td><td>独角白蚁属</td><td class="num">1</td><td class="num">0</td></tr>
+<tr><td>尖白蚁亚科</td><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#ekueitermes">Ekueitermes</a></td><td>肠棘白蚁属</td><td class="num">1</td><td class="num">0</td></tr>
+<tr><td>尖白蚁亚科</td><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#scheffrahnitermes">Scheffrahnitermes</a></td><td>谢弗拉恩白蚁属</td><td class="num">1</td><td class="num">0</td></tr>
+<tr><td>尖白蚁亚科</td><td><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/#spiralitermes">Spiralitermes</a></td><td>螺旋白蚁属</td><td class="num">1</td><td class="num">0</td></tr>
 </tbody>
 </table>
 </details>

@@ -33,7 +33,7 @@ ES — **大鼻鼻白蚁** (*Rhinotermes nasutus*) es una especie, y la especie 
 
 ## 分类位置
 
-- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[鼻白蚁属 *Rhinotermes*]({{ site.base_url }}/list/#rhinotermes) —— 共 4 种（4 species · 4 especies）
 
 ## 分布

@@ -31,7 +31,7 @@ ES — **悬垂距白蚁** (*Calcaritermes imminens*) es una especie, y la espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/list/#calcaritermes) —— 共 12 种（12 species · 12 especies）
 
 ## 分布

@@ -31,7 +31,7 @@ ES — **米勒楹白蚁** (*Incisitermes milleri*) es una especie del género *
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/list/#incisitermes) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*
 

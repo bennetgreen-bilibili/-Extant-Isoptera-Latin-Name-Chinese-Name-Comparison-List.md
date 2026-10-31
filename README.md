@@ -36,7 +36,7 @@
 
 ## 归档数据集与 DOI（dataset/）
 - 生成脚本：`.github/workflows/build_dataset.py`（只用标准库，确定性输出，可 `--check`）。产物：
-  - `dataset/data/isoptera-checklist.csv`：3068 行逐条表，22 列（Darwin Core 风格列名，含中文正名、模式产地、分布中英、次异名）
+  - `dataset/data/isoptera-checklist.csv`：3089 行逐条表，22 列（Darwin Core 风格列名，含中文正名、模式产地、分布中英、次异名）
   - `dataset/data/isoptera-taxonomy.json`：完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接）
   - `dataset/data/isoptera-synonyms.csv`、`isoptera-counts.csv`、`isoptera-references.csv`
   - `dataset/datapackage.json`（字段字典）、`dataset/datacite-metadata.xml`（DataCite 4.6 记录）
@@ -93,7 +93,7 @@
 - 摘要：OpenAlex `abstract_inverted_index` 按词位置还原；Crossref JATS 摘要去标签补缺；单条缺摘要时可点「尝试获取摘要」再查 Crossref / Semantic Scholar。**只使用开放元数据，不抓出版社页面 / PDF，也不抓知网**；摘要版权归原作者 / 出版方，页面注明来源。
 - 摘要翻译：结果卡带「目标语言（中文 / English / Español）+ 翻译摘要」控件，**纯前端直连 MyMemory**（CORS 开放、无密钥、单次 500 字符、按访客 IP 约 5000 字符/天）；按 420 字节分块翻译。**中英互译时用「名录 + 术语表」干预**：3428 条拉丁名⇄中文正名（含 905 个次异名）把学名遮蔽后还原，中文译文首现写成「中文名（拉丁名）」；`_data/translation_glossary.yml` 提供遮蔽术语（**含 90 条昆虫形态/解剖词**：head capsule→头壳、pronotum→前胸背板、antenna→触角、tarsus→跗节、gizzard armature→砂囊结构…；以及 fungus comb→菌圃 等）与中文错译纠正（工人→工蚁、殖民地→巢群、头舱→头壳，带原文守卫）。译文按「原文 + 方向 + 术语表版本」写入 `localStorage` 缓存。额度用尽依次回退站点邮箱额度与 Google 非官方接口，都失败时给 Google / Bing 外部翻译链接。可在 `#papers-app` 配 `data-translate-url`（+ `data-translate-key`）改用自建 LibreTranslate 兼容服务。
 - 引用导出：每条结果可复制 GB/T 7714、BibTeX、RIS；外链预填 Google Scholar / CNKI / 万方 / 百度学术 / BHL / OpenAlex / Crossref。
-- 缓存：`build_papers.py` 按 323 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers.json`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
+- 缓存：`build_papers.py` 按 326 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers.json`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
 - 覆盖率：本次缓存 1540 条中 1053 条有摘要（68.4%），页面会明确显示「暂无摘要」并给出 DOI / OpenAlex / 外部平台链接；不保证 100%。
 - 额度与回退：OpenAlex 无 API key 时按出口 IP 共享每日免费额度；额度用尽会 429，`build_papers.py` 自动回退 Crossref（摘要覆盖率会降低）。设置 `OPENALEX_API_KEY` 可走自己的额度；也可用 `--crossref-only` 直接只用 Crossref。
 - 刷新：`python .github/workflows/build_papers.py --write`（只补缺失 / 过期）、`--force`（全部重查）、`--refresh --stale-days 180 --time-budget 300`；断点缓存在 `_tmp/papers-cache.json`（不提交）。方法、许可与限制见 `_tools/文献检索器说明.md`。
@@ -116,11 +116,11 @@
 
 | 覆盖情况（截至最近一次抓取） | 数量 |
 |---|---|
-| GBIF 可外链 / 共 3068 | 2963（96.6%；接受名 2956、异名 7、仅上级阶元 105） |
-| Catalogue of Life 可外链 | 2995（97.6%；接受名 2995、仅上级阶元 57、未收录 16） |
-| Wikidata 条目（P225） | 2872（93.6%） |
-| 与两库接受名完全一致 / 带提示 | 2899（94.5%） / 169 |
-| Blattodea Species File 对照 | 有效名 2968、异名 0、待核对 58、未检索到 42（共 3068；抽查 20/20 页可通过） |
+| GBIF 可外链 / 共 3089 | 2963（95.9%；接受名 2955、异名 8、仅上级阶元 126） |
+| Catalogue of Life 可外链 | 3008（97.4%%；接受名 3007、仅上级阶元 64、未收录 17） |
+| Wikidata 条目（P225） | 2873（93.0%%） |
+| 与两库接受名完全一致 / 带提示 | 2898（93.8%%） / 191 |
+| Blattodea Species File 对照 | 有效名 2981、异名 1、待核对 61、未检索到 46（共 3089；抽查 20/20 页可通过） |
 | 开放许可照片 | 205 个物种、891 张（iNaturalist 769 + Wikimedia Commons 122） |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
 | 分布图 | 13 个科级 + 254 个属级 + 1,180 个种级 GeoJSON（`assets/geo/{family,genus,species}/`），87,075 条 GBIF 带坐标记录（访问日期 2026-10-28）；仅名录现生类群，化石种与 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 记录已剔除 |
@@ -218,7 +218,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - **数据校验闸门**：`_tools/check_site.py`（只读，纯标准库）检查三语 `list.md` 同构、名录内部锚点、物种页面包屑锚点、批次计数（`_species` 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数 = 名录物种链接数）、sitemap 与 i18n、命名差异产物自洽，并把「中文重名 / 缺分布 / 标题层级跳级」列为提醒。用法：`python _tools/check_site.py`（加 `--ci` 输出 GitHub Actions 注解）。`.github/workflows/validate.yml` 在 PR 与推送到 main 时运行它，并重新生成全部派生产物后用 `git status --porcelain` 断言「已提交的产物与脚本输出一致」；`pages.yml` 在构建前也跑一次结构检查，数据有错就不部署。
 - `robots.txt`：允许主流搜索引擎与 AI 爬虫抓取。**注意**：爬虫只读域名根 `https://bennetgreen-bilibili.github.io/robots.txt`，而本仓库的文件发布在 `…/-Extant-…-List.md/robots.txt` 这个子路径下，因此这份规则目前不生效（域名根 404 等价于全站允许，无副作用）；要让它生效需另建 `bennetgreen-bilibili.github.io` 用户站仓库。sitemap 请在 Search Console 直接提交
 - `sitemap.xml`：站点地图，由 jekyll-sitemap 插件在构建时自动生成（含全部页面、文章与物种页）；工具页（`dataset/`、`dataset/CHANGELOG.html`、`assets/vendor/leaflet/`、Google 验证文件、根目录那份中文长文件名单文件版）已在 `_config.yml` 的 `defaults` 里用 `sitemap: false` 排除，两种格式的 URL 集合因此一致（均为 3099 条）
-- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3068 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
+- `sitemap.txt`：纯文本格式站点地图（每行一个绝对 URL，共 3099 条：30 个页面（中文 10 + 英文 10 + 西语 10）+ 1 篇文章 + 3089 个物种页；Google/Bing 均支持该格式），由 `.github/workflows/build_sitemap_txt.py` 从仓库源文件生成，CI 在 Jekyll 构建前自动重跑（位于 `_inbox` 转换之后，故 `_inbox` 自动转成的文章也会收录进部署版）。增删页面/物种页后本地执行 `python .github/workflows/build_sitemap_txt.py` 同步，`--check` 只校验不写文件
 - `llms.txt`：llmstxt.org 规范的站点说明
 - `assets/search.js`、`assets/search-page.js`、`assets/custom.css`：名录搜索框 / 全文搜索页脚本与样式
 
@@ -231,7 +231,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
   4. 复制生成的 `data-category` 与 `data-category-id`，替换 `guestbook.md` 和 `en/guestbook.md` 中对应的占位值。
 
 ## 物种页（每个物种/亚种一个独立页面）
-- `_species/*.md`：Jekyll 集合（collection），共 3068 个文件（3004 种 + 64 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
+- `_species/*.md`：Jekyll 集合（collection），共 3089 个文件（3021 种 + 68 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
 - **物种页是三语单页**：不设 `/en/species/`、`/es/species/` 副本，一个物种一页，页内同时承载中文/英文/西班牙文信息——固定标签写作「中文主 + `.fact-en`（英文）+ `.fact-es`（西文）」（如 `模式产地 Type locality Localidad tipo`），分布字段同时给出中文记录与英文记录（数据本身只有这两列），学名与中文正名在同一 H1。三语站的名录页都链接到这些共享物种页。
 - `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式产地/分布速览 + 同属内链）；面包屑「名录」带英文/西文小字，页面不显示语言切换（同一页服务三种语言）。
 - `list.md` / `en/list.md` / `es/list.md`：名录中每个物种名已链接到对应物种页（三语共用同一批 URL）。
@@ -241,7 +241,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - 如需新增/修改物种页内容，直接编辑对应 `_species/<slug>.md` 的正文（front matter 已含学名、中文正名、分类层级与模式种标记）。
 
 ## 物种页正文（自动生成）
-- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3068 条摘要句互不相同）。
+- 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3089 条摘要句互不相同）。
 - 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
 - 手写多语言内容也放在标记外：正文直接写中文段落，非中文内容用 `lang` 标注，例如 `<div class="fact-es" lang="es">…</div>`、`<div class="fact-en" lang="en">…</div>`（`.fact-en` / `.fact-es` 为灰色小字样式，见 `assets/custom.css`）。自动生成的正文与章节标题目前只有中文；若要连正文一起三语，需要改 `build_species_body.py`（会重写 3068 页，属大改动）。
 - 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。

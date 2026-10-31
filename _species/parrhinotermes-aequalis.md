@@ -31,7 +31,7 @@ ES — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) es una especie, y la e
 
 ## 分类位置
 
-- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 61 种（5 genera, 61 species · 5 géneros, 61 especies）
+- **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/list/#rhinotermitidae) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[棒鼻白蚁属 *Parrhinotermes*]({{ site.base_url }}/list/#parrhinotermes) —— 共 13 种（13 species · 13 especies）
 
 ## 分布

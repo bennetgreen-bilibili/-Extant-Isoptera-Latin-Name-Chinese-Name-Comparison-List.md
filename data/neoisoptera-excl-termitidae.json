@@ -36,7 +36,7 @@
  "counts": {
   "families": 6,
   "genera": 14,
-  "species": 358,
+  "species": 359,
   "subspecies": 8,
   "subfamilies": 0
  },
@@ -201,7 +201,7 @@
      "zh": "尖鼻白蚁属",
      "latin": "Acorhinotermes",
      "id": "acorhinotermes",
-     "species_count": 2,
+     "species_count": 3,
      "type_species": "Acorhinotermes subfusciceps",
      "species": [
       {
@@ -209,6 +209,13 @@
        "zh": "克拉丽塔尖鼻白蚁",
        "type": false,
        "distribution": "哥伦比亚、巴西、委内瑞拉）",
+       "subspecies": null
+      },
+      {
+       "latin": "Acorhinotermes murui",
+       "zh": "穆鲁伊尖鼻白蚁",
+       "type": false,
+       "distribution": "哥伦比亚（亚马孙））",
        "subspecies": null
       },
       {

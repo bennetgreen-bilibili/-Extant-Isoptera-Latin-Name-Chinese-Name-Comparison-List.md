@@ -32,7 +32,7 @@ ES — **指名亚种** (*Neotermes megaoculatus megaoculatus*) es una subespeci
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/list/#neotermes) —— 共 121 种（121 species · 121 especies）
 - **种 Species / Especie**：[巨眼新白蚁 *Neotermes megaoculatus*]({{ site.base_url }}/species/neotermes-megaoculatus/)
 - **亚种 Subspecies / Subespecie**：本页（*Neotermes megaoculatus megaoculatus*）

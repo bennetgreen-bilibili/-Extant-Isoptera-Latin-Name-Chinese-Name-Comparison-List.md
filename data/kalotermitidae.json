@@ -16,7 +16,7 @@
  "counts": {
   "families": 1,
   "genera": 23,
-  "species": 479,
+  "species": 480,
   "subspecies": 4,
   "subfamilies": 0
  },
@@ -3374,7 +3374,7 @@
      "zh": "前新白蚁属",
      "latin": "Proneotermes",
      "id": "proneotermes",
-     "species_count": 3,
+     "species_count": 4,
      "type_species": "Proneotermes perezi",
      "species": [
       {
@@ -3396,6 +3396,13 @@
        "zh": "佩雷斯前新白蚁",
        "type": true,
        "distribution": "哥斯达黎加、危地马拉、洪都拉斯、巴拿马）",
+       "subspecies": null
+      },
+      {
+       "latin": "Proneotermes tacicuarensis",
+       "zh": "塔西夸罗前新白蚁",
+       "type": false,
+       "distribution": "墨西哥（米却肯州））",
        "subspecies": null
       }
      ]

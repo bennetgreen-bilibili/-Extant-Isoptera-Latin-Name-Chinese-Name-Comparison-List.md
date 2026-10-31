@@ -16,7 +16,7 @@
  "counts": {
   "subfamilies": 1,
   "genera": 14,
-  "species": 193,
+  "species": 194,
   "subspecies": 4
  },
  "subfamily": {
@@ -58,7 +58,7 @@
     "zh": "弓白蚁属",
     "latin": "Amitermes",
     "id": "amitermes",
-    "species_count": 112,
+    "species_count": 113,
     "type_species": "Amitermes amifer",
     "species": [
      {
@@ -185,6 +185,13 @@
       "zh": "卡拉比弓白蚁",
       "type": false,
       "distribution": "澳大利亚）",
+      "subspecies": null
+     },
+     {
+      "latin": "Amitermes californicus",
+      "zh": "加州弓白蚁",
+      "type": false,
+      "distribution": "美国西南部、墨西哥）",
       "subspecies": null
      },
      {

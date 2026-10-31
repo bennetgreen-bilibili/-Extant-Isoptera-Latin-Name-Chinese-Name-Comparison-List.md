@@ -16,8 +16,8 @@
  "counts": {
   "subfamilies": 1,
   "genera": 28,
-  "species": 142,
-  "subspecies": 6
+  "species": 149,
+  "subspecies": 10
  },
  "subfamily": {
   "zh": "方白蚁亚科",
@@ -407,9 +407,16 @@
     "zh": "等颚白蚁属",
     "latin": "Isognathotermes",
     "id": "isognathotermes",
-    "species_count": 9,
+    "species_count": 16,
     "type_species": "Isognathotermes minitabundus",
     "species": [
+     {
+      "latin": "Isognathotermes acristatus",
+      "zh": "无冠等颚白蚁",
+      "type": false,
+      "distribution": "安哥拉）",
+      "subspecies": null
+     },
      {
       "latin": "Isognathotermes bulbifrons",
       "zh": "球额等颚白蚁",
@@ -439,10 +446,38 @@
       "subspecies": null
      },
      {
+      "latin": "Isognathotermes magniplanifrons",
+      "zh": "大平额等颚白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
       "latin": "Isognathotermes minitabundus",
       "zh": "威吓等颚白蚁",
       "type": true,
       "distribution": "非洲热带）",
+      "subspecies": null
+     },
+     {
+      "latin": "Isognathotermes modicus",
+      "zh": "中等等颚白蚁",
+      "type": false,
+      "distribution": "加蓬）",
+      "subspecies": null
+     },
+     {
+      "latin": "Isognathotermes phallicaecalis",
+      "zh": "阳茎盲囊等颚白蚁",
+      "type": false,
+      "distribution": "刚果共和国、喀麦隆）",
+      "subspecies": null
+     },
+     {
+      "latin": "Isognathotermes phalloides",
+      "zh": "似阳茎等颚白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
       "subspecies": null
      },
      {
@@ -453,6 +488,13 @@
       "subspecies": null
      },
      {
+      "latin": "Isognathotermes rectimalatus",
+      "zh": "直颚等颚白蚁",
+      "type": false,
+      "distribution": "安哥拉）",
+      "subspecies": null
+     },
+     {
       "latin": "Isognathotermes severus",
       "zh": "严肃等颚白蚁",
       "type": false,
@@ -460,11 +502,35 @@
       "subspecies": null
      },
      {
+      "latin": "Isognathotermes similifinitimus",
+      "zh": "似近邻等颚白蚁",
+      "type": false,
+      "distribution": "刚果民主共和国）",
+      "subspecies": null
+     },
+     {
       "latin": "Isognathotermes ugandensis",
       "zh": "乌干达等颚白蚁",
       "type": false,
       "distribution": "乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚）",
-      "subspecies": null
+      "subspecies": [
+       {
+        "epithet": "burundii",
+        "zh": "布隆迪亚种"
+       },
+       {
+        "epithet": "kenyae",
+        "zh": "肯尼亚亚种"
+       },
+       {
+        "epithet": "malawii",
+        "zh": "马拉维亚种"
+       },
+       {
+        "epithet": "ugandensis",
+        "zh": "指名亚种"
+       }
+      ]
      },
      {
       "latin": "Isognathotermes zenkeri",

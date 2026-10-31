@@ -31,7 +31,7 @@ ES — **短头真砂白蚁** (*Eucryptotermes breviceps*) es una especie del g�
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[真砂白蚁属 *Eucryptotermes*]({{ site.base_url }}/list/#eucryptotermes) —— 共 2 种（2 species · 2 especies）
 - **本属模式种 Type species / Especie tipo**：*Eucryptotermes hagenii*
 

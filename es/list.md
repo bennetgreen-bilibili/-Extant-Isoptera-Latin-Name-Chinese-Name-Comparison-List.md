@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Listado — isópteros (termitas) actuales: nombres latinos y nombres chinos"
-description: "Lista comparativa de todos los isópteros (termitas) actuales: 13 familias, 18 subfamilias, 323 géneros, 3004 especies y 64 subespecies, con marcas de especie tipo, distribución y 77 referencias."
+description: "Lista comparativa de todos los isópteros (termitas) actuales: 13 familias, 18 subfamilias, 326 géneros, 3021 especies y 68 subespecies, con marcas de especie tipo, distribución y 77 referencias."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
@@ -154,6 +154,7 @@ Debajo siguen **Familia** → **Subfamilia** → **Género** → **Especie**; la
               - [Ebogotermes](#ebogotermes)
               - [Eburnitermes](#eburnitermes)
               - [Echinotermes](#echinotermes)
+              - [Ekueitermes](#ekueitermes)
               - [Euhamitermes](#euhamitermes)
               - [Eurytermes](#eurytermes)
               - [Firmitermes](#firmitermes)
@@ -179,8 +180,10 @@ Debajo siguen **Familia** → **Subfamilia** → **Género** → **Especie**; la
               - [Rubeotermes](#rubeotermes)
               - [Ruptitermes](#ruptitermes)
               - [Rustitermes](#rustitermes)
+              - [Scheffrahnitermes](#scheffrahnitermes)
               - [Skatitermes](#skatitermes)
               - [Speculitermes](#speculitermes)
+              - [Spiralitermes](#spiralitermes)
               - [Tetimatermes](#tetimatermes)
               - [Tonsuritermes](#tonsuritermes)
               - [Trichotermes](#trichotermes)
@@ -1590,6 +1593,8 @@ Esta familia se conoce comúnmente como las 'termitas de madera seca'. La mayor�
 
 \*[*Proneotermes perezi* 佩雷斯前新白蚁]({{ site.base_url }}/species/proneotermes-perezi/)
 
+[*Proneotermes tacicuarensis* 塔西夸罗前新白蚁]({{ site.base_url }}/species/proneotermes-tacicuarensis/)
+
 <h5 id="pterotermes">Pterotermes</h5>
 
 {% include distribution-map.html mode="genus" id="pterotermes" %}
@@ -1717,7 +1722,7 @@ Esta familia contiene solo dos géneros vivientes, y ambos géneros contrastan m
 
 {% include distribution-map.html mode="family" id="rhinotermitidae" %}
 
-La subfamilia Rhinotermitinae fue establecida por Froggatt en 1897; aquí se adopta la circunscripción restringida de Rhinotermitidae sensu novo, tal como fue redefinida por el estudio filogenético de 2024(21), que contiene 5 géneros. El género tipo es Rhinotermes Hagen, 1858; el nombre de la familia se forma a partir del griego rhis/rhinos (nariz) y termes, en referencia al clípeo elevado, semejante a una nariz, de los adultos y al estrecho surco que va de la fontanela al clípeo. Esta lista de verificación incluye 5 géneros y 61 especies.
+La subfamilia Rhinotermitinae fue establecida por Froggatt en 1897; aquí se adopta la circunscripción restringida de Rhinotermitidae sensu novo, tal como fue redefinida por el estudio filogenético de 2024(21), que contiene 5 géneros. El género tipo es Rhinotermes Hagen, 1858; el nombre de la familia se forma a partir del griego rhis/rhinos (nariz) y termes, en referencia al clípeo elevado, semejante a una nariz, de los adultos y al estrecho surco que va de la fontanela al clípeo. Esta lista de verificación incluye 5 géneros y 62 especies.
 
 Acorhinotermes, Dolichorhinotermes y Rhinotermes son principalmente neotropicales (del norte de América del Sur al Caribe); Parrhinotermes es principalmente del sudeste asiático, extendiéndose al oeste hasta el nordeste de la India, al norte hasta el Tíbet y Yunnan de China, y al este hasta Papúa Nueva Guinea, las islas Salomón y Queensland, Australia; Schedorhinotermes está ampliamente distribuido en las regiones afrotropical y oriental, Australia y las islas del Pacífico occidental. Esta familia tiene una casta de obreras verdadera, que a menudo anida en el suelo o en madera en contacto con el suelo, y las obreras salen por túneles para alimentarse de madera; los soldados son en su mayoría dimórficos (unos pocos trimórficos), con el labro alargado y semejante a un palpo, en forma de cepillo en el ápice y con un surco en el centro, a lo largo del cual fluye la secreción de la glándula frontal para repeler a los enemigos—un carácter diagnóstico importante que distingue a esta familia de las familias relacionadas. En esta familia, las obreras y los alados presentan tres dientes marginales distintos y desiguales detrás del diente apical de la mandíbula izquierda; el margen anterior del posclípeo es marcadamente arqueado en los alados, las obreras y los soldados; y la fontanela de los soldados carece de setas largas alrededor de su margen. Desde el punto de vista económico, Schedorhinotermes daña comúnmente la madera estructural dentro de su área de distribución, como Schedorhinotermes intermedius en el este de Australia(25); Schedorhinotermes longirostris (nativa de la India, Indonesia, Malasia, Palau y Papúa Nueva Guinea, introducida en Guam, EE. UU.) fue introducida en Guam en 2011 y daña allí las cícadas endémicas.
 
@@ -1731,6 +1736,8 @@ Acorhinotermes, Dolichorhinotermes y Rhinotermes son principalmente neotropicale
 {% include distribution-map.html mode="genus" id="acorhinotermes" %}
 
 [*Acorhinotermes claritae* 克拉丽塔尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-claritae/)
+
+[*Acorhinotermes murui* 穆鲁伊尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-murui/)
 
 \*[*Acorhinotermes subfusciceps* 棕头尖鼻白蚁]({{ site.base_url }}/species/acorhinotermes-subfusciceps/)
 
@@ -1893,7 +1900,7 @@ Esta familia es una familia pequeña endémica de la región neotropical, presen
 
 {% include distribution-map.html mode="family" id="stylotermitidae" %}
 
-La familia Stylotermitidae es una familia viviente monotípica, que contiene únicamente el género Stylotermes Holmgren & Holmgren, 1917. El grupo fue establecido por Holmgren y Holmgren en 1917, con Stylotermes como género tipo. El nombre de la familia deriva del género tipo, del griego stylos (columna) más termes. (3) Esta lista de verificación registra 1 género y 45 especies.
+La familia Stylotermitidae es una familia viviente monotípica, que contiene únicamente el género Stylotermes Holmgren & Holmgren, 1917. El grupo fue establecido por Holmgren y Holmgren en 1917, con Stylotermes como género tipo. El nombre de la familia deriva del género tipo, del griego stylos (columna) más termes. (3) Esta lista de verificación registra 1 géneros y 45 especies.
 
 Esta familia es endémica de la región oriental (sur y sudeste de Asia). Unas 35 especies son endémicas de las montañas del sur de China, y la familia se extiende hacia el oeste hasta la India y Bangladés, hacia el este hasta Taiwán, China, y hacia el sur hasta Brunéi y Malasia; China es el centro moderno de diversificación de la familia, y también existen registros de recolección en las montañas del nordeste de la India. A diferencia de la mayoría de las termitas que habitan en la madera, que viven en madera muerta caída, Stylotermes vive dentro de la madera de árboles vivos o de árboles muertos muy recientemente, siendo una termita xilófaga oculta; no tiene una casta de obreras verdadera, sino que el trabajo lo realizan pseudoergates, y los soldados tienen una cápsula cefálica alargada y estrecha y mandíbulas en forma de cimitarra. En esta familia los alados tienen la cabeza casi redonda, una fontanela sumamente pequeña que a veces es invisible externamente, ocelos pequeños, antenas de 16–22 artejos y un pronoto plano. En todas las castas de la familia los tarsos son de 3 segmentos y la fórmula de espinas tibiales es 3:2:2, un carácter primitivo raramente observado entre las termitas actuales. Los soldados y las obreras poseen una glándula frontal pequeña pero activa que secreta compuestos monoterpénicos para la defensa (estudiada en S. faveolus y S. halumicus); también se han registrado específicamente feromonas de seguimiento de rastro en estas dos especies (27). Filogenéticamente, la familia es el grupo hermano de todos los demás Neoisoptera, siendo el linaje viviente de Neoisoptera que divergió más tempranamente, y es de gran importancia para comprender la evolución de la glándula frontal y de la diferenciación de castas. Desde el punto de vista económico, la familia habita árboles vivos y anida dentro de madera en pie viva, siendo un grupo raro que vive en árboles entre las termitas y que puede debilitar e incluso matar árboles vivos (28).
 
@@ -2000,7 +2007,7 @@ Esta familia es endémica de la región oriental (sur y sudeste de Asia). Unas 3
 
 {% include distribution-map.html mode="family" id="termitogetonidae" %}
 
-La subfamilia Termitogetoninae fue establecida por Holmgren en 1910 (1910a:286) (14); en 2024, un estudio filogenético genómico la elevó de subfamilia a categoría de familia (Termitogetonidae) (21). La familia Termitogetonidae es monotípica y contiene únicamente el género Termitogeton Desneux, 1904. El nombre de la familia se basa en el tallo Termitogeton, formado a partir de termes y del griego geiton (vecino), que significa "uno cercano al género Termes". Esta lista de verificación registra 1 género y 2 especies.
+La subfamilia Termitogetoninae fue establecida por Holmgren en 1910 (1910a:286) (14); en 2024, un estudio filogenético genómico la elevó de subfamilia a categoría de familia (Termitogetonidae) (21). La familia Termitogetonidae es monotípica y contiene únicamente el género Termitogeton Desneux, 1904. El nombre de la familia se basa en el tallo Termitogeton, formado a partir de termes y del griego geiton (vecino), que significa "uno cercano al género Termes". Esta lista de verificación registra 1 géneros y 2 especies.
 
 En cuanto a su distribución, se trata de una pequeña familia del reino oriental, presente en el sudeste asiático (Indonesia, Malasia) y Sri Lanka, que habita madera muerta o en descomposición en las selvas tropicales. La familia carece de obreras verdaderas; el trabajo lo realizan los pseudergados. Los soldados poseen una glándula frontal capaz de secretar sustancias defensivas y de alarma que contienen monoterpenos y otros componentes (29); la proporción de sexos es cercana a 1:1 en todas las castas, salvo que las hembras son algo más numerosas entre los soldados (30). La vía de desarrollo comprende 2 estadios larvales, 4 estadios de pseudergado (30) y 1 estadio ninfal antes de alcanzar el estado adulto; los rudimentos alares aparecen en el segundo estadio, regresan en las mudas siguientes y vuelven a aparecer en el estadio ninfal, y una colonia madura consta de solo unos mil individuos. El cuerpo es aplanado dorsoventralmente en todas las castas, una adaptación a vivir bajo la corteza. Los alados tienen la cabeza casi triangular, ojos compuestos pequeños con ocelos presentes, antenas de 15 segmentos y el cuerpo densamente cubierto de setas; el pronoto es más estrecho que la cabeza y su margen anterior se prolonga en un lóbulo en el centro; las alas están densamente cubiertas de pelos finos, y la escama del ala anterior no se superpone a la del ala posterior. En el pseudergado, la mandíbula izquierda lleva un diente apical y 3 dientes marginales, siendo el segundo diente marginal más largo que el diente apical y que el primer diente marginal; la fórmula de espolones tibiales de todas las patas es 2:2:2. El soldado tiene la cabeza triangular con el margen posterior fuertemente ondulado y prolongado en el centro, mandíbulas delgadas sin dientes marginales (solo una hilera de dentículos finos en la base), antenas de 13–15 segmentos y coxas posteriores ensanchadas.
 
@@ -2508,15 +2515,15 @@ Esta familia es el grupo de termitas de mayor importancia económica del mundo: 
 
 {% include distribution-map.html mode="family" id="termitidae" %}
 
-La familia Termitidae fue establecida por Latreille en 1802, con el género tipo Termes Linnaeus, 1758. El nombre de la familia se forma a partir del radical del género tipo, Termit-, más el sufijo de nivel de familia -idae. Esta lista registra 277 géneros y 2129 especies.
+La familia Termitidae fue establecida por Latreille en 1802, con el género tipo Termes Linnaeus, 1758. El nombre de la familia se forma a partir del radical del género tipo, Termit-, más el sufijo de nivel de familia -idae. Esta lista registra 280 géneros y 2144 especies.
 
 Esta familia presenta una distribución pantropical, con representantes en todas las principales regiones zoogeográficas de los trópicos y subtrópicos, y algunas especies que se extienden hacia zonas templado-cálidas. Sus hábitos alimentarios son los más diversos entre las familias de termitas, e incluyen tipos xilófagos, graminívoros, consumidores de hojarasca, consumidores de humus y cultivadores de hongos; unas pocas especies se alimentan de líquenes y algas que crecen sobre la corteza (como el género Constrictotermes), mientras que las especies inquilinas se alimentan del material del nido y de las heces de su nido huésped (como el género Inquilinitermes); cerca del sesenta por ciento de las especies son consumidoras especializadas de humus del suelo. A diferencia de otras familias, el intestino posterior de esta familia está muy compartimentado, y sus simbiontes digestivos están dominados por bacterias y arqueas. El rasgo compartido más conspicuo de los soldados de los termítidos es la glándula frontal impar y saculiforme (35), cuya abertura externa es la fontanela, aunque las estrategias defensivas divergen en torno a esta estructura. Nasutitermitinae es la subfamilia más grande de la familia; en ella la parte anterior de la cabeza del soldado se prolonga en un naso cónico, las mandíbulas están reducidas y el soldado depende por completo de la glándula frontal para eyectar por la fontanela, en el ápice del naso, una secreción pegajosa que enreda a los enemigos; los Syntermitinae, que también poseen naso, conservan mandíbulas bien desarrolladas y emplean defensa tanto mecánica como química. El otro extremo se observa en los grupos de mandíbulas chasqueadoras de los Mirocapritermitinae, como el género Pericapritermes, que rechazan a los enemigos mediante un súbito golpe cruzado de las dos mandíbulas, mientras que la glándula frontal está poco desarrollada; Globitermes sulphureus va aún más lejos y utiliza la ruptura de la glándula frontal para una defensa suicida. Algunos linajes de la familia han perdido la casta de soldados, siendo ejemplo de ello las especies neotropicales de Apicotermitinae, en las que la defensa corre enteramente a cargo de las obreras. En los alados el pronoto tiene forma de silla de montar, el ala posterior carece de lóbulo anal y presenta nerviación simplificada, y hay fontanela y ocelos; en las obreras el postclípeo está hinchado en forma globular y el intestino posterior tiene un segmento mixto, y las antenas suelen tener 13-15 segmentos, mientras que las de los soldados suelen tener 12-16 segmentos. Los caracteres diagnósticos detallados de los soldados y las obreras de cada subfamilia se presentan en las secciones de subfamilia siguientes. Los patrones de anidación son diversos, e incluyen nidos subterráneos, montículos superficiales y nidos de cartón arbóreos, y los nidos de esta familia son las estructuras de ingeniería ecológica más conspicuas de las selvas tropicales y las sabanas. Termitidae es el grupo más rico en especies dentro de Neoisoptera; comenzó a irradiar hacia el final del Eoceno y experimentó una rápida radiación interna durante el Paleógeno.
 
-La familia se divide actualmente en 18 subfamilias (21): Amitermitinae (14 géneros, 193 especies), Apicotermitinae (65 géneros, 237 especies), Crepititermitinae (1 género, 1 especie), Cubitermitinae (28 géneros, 142 especies), Cylindrotermitinae (2 géneros, 9 especies), Engelitermitinae (1 género, 1 especie), Foraminitermitinae (3 géneros, 10 especies), Forficulitermitinae (1 género, 1 especie), Macrotermitinae (12 géneros, 373 especies), Microcerotermitinae (2 géneros, 150 especies), Mirocapritermitinae (14 géneros, 132 especies), Nasutitermitinae (81 géneros, 607 especies), Neocapritermitinae (3 géneros, 20 especies), Promirotermitinae (2 géneros, 39 especies), Protohamitermitinae (2 géneros, 2 especies), Sphaerotermitinae (1 género, 1 especie), Syntermitinae (22 géneros, 105 especies) y Termitinae (23 géneros, 106 especies). Los daños económicos causados por esta familia se detallan en cada subfamilia.
+La familia se divide actualmente en 18 subfamilias (21): Amitermitinae (14 géneros, 194 especies), Apicotermitinae (68 géneros, 241 especies), Crepititermitinae (1 géneros, 1 especies), Cubitermitinae (28 géneros, 149 especies), Cylindrotermitinae (2 géneros, 9 especies), Engelitermitinae (1 géneros, 1 especies), Foraminitermitinae (3 géneros, 10 especies), Forficulitermitinae (1 géneros, 1 especies), Macrotermitinae (12 géneros, 373 especies), Microcerotermitinae (2 géneros, 150 especies), Mirocapritermitinae (14 géneros, 135 especies), Nasutitermitinae (81 géneros, 606 especies), Neocapritermitinae (3 géneros, 20 especies), Promirotermitinae (2 géneros, 39 especies), Protohamitermitinae (2 géneros, 2 especies), Sphaerotermitinae (1 géneros, 1 especies), Syntermitinae (22 géneros, 105 especies) y Termitinae (23 géneros, 107 especies). Los daños económicos causados por esta familia se detallan en cada subfamilia.
 
 <h4 id="amitermitinae">Amitermitinae</h4>
 
-La subfamilia Amitermitinae fue establecida por Kemner en 1934 (página 110 de la obra original), con el género tipo Amitermes Silvestri, 1901, del cual se toma el nombre de la subfamilia. Amitermes deriva probablemente del latín hami- "gancho" más termes, en referencia a las mandíbulas curvadas en forma de arco de los soldados. Esta lista registra 14 géneros y 193 especies.
+La subfamilia Amitermitinae fue establecida por Kemner en 1934 (página 110 de la obra original), con el género tipo Amitermes Silvestri, 1901, del cual se toma el nombre de la subfamilia. Amitermes deriva probablemente del latín hami- "gancho" más termes, en referencia a las mandíbulas curvadas en forma de arco de los soldados. Esta lista registra 14 géneros y 194 especies.
 
 Esta subfamilia se distribuye principalmente en Australia y el reino afrotropical, y se extiende hasta el reino neotropical, Oriente Medio, Asia meridional y el sur de los Estados Unidos. Su dieta abarca una variedad de sustratos, entre ellos madera podrida, hierba seca y la interfaz suelo–madera. La cabeza del soldado es en su mayor parte piriforme y carece de proyección frontal, y las mandíbulas varían enormemente entre géneros, presentando tipos mordedor-triturador, perforante, cortante e incluso de chasquido simétrico, lo que hace de este uno de los grupos con la diferenciación más rica de tipos mandibulares defensivos de la familia; entre ellos, el género Invasitermes carece de casta de soldado. En la obrera, el diente apical de la mandíbula izquierda es generalmente más corto que el diente marginal, excepto en Ahamitermes, Invasitermes y Orthognathotermes; el íleon (P1) de la obrera va de tubular a globosamente dilatado y no forma un asa ventral, y los tubos de Malpighi se unen de dos en dos en un nódulo basal común, excepto en Prohamitermes. Los soldados generalmente carecen de proyección frontal, salvo en Eremotermes y Dentispicotermes, cuyos soldados poseen una. Como ejemplifica el género tipo Amitermes, la fontanela del soldado se abre en la parte anterior de la cabeza y la glándula frontal está bien desarrollada; las antenas tienen 13–15 artejos (mayoritariamente 15), y el margen interno de la mandíbula suele llevar un solo diente. Los nidos son principalmente galerías subterráneas, pero algunas especies construyen montículos de tierra o habitan en montículos antiguos. Desde el punto de vista económico, algunas especies de esta subfamilia dañan pastizales y cultivos: la termita desértica norteamericana Gnathamitermes tubiformans consume grandes cantidades de gramíneas y hojarasca en pastizales áridos (36); el género australiano Drepanotermes es un consumidor importante de gramíneas de pastoreo y de hojarasca (37); el género indio Eremotermes daña los cultivos de papa (38); y Globitermes sulphureus daña madera estructural y plantaciones de coco y de palma aceitera en Malasia (39).
 
@@ -2576,6 +2583,8 @@ Desde el punto de vista económico, esta subfamilia cuenta con registros bien do
 [*Amitermes braunsi* 布劳恩斯弓白蚁]({{ site.base_url }}/species/amitermes-braunsi/)
 
 [*Amitermes calabyi* 卡拉比弓白蚁]({{ site.base_url }}/species/amitermes-calabyi/)
+
+[*Amitermes californicus* 加州弓白蚁]({{ site.base_url }}/species/amitermes-californicus/)
 
 [*Amitermes capito* 大头弓白蚁]({{ site.base_url }}/species/amitermes-capito/)
 
@@ -2971,7 +2980,7 @@ Desde el punto de vista económico, esta subfamilia cuenta con registros bien do
 
 <h4 id="apicotermitinae">Apicotermitinae</h4>
 
-La subfamilia Apicotermitinae fue establecida por Grassé y Noirot en 1955 en su trabajo sobre Apicotermes arquieri (41); el género tipo es Apicotermes Holmgren, 1911, del cual deriva el nombre de la subfamilia. Esta lista incluye 65 géneros y 237 especies.
+La subfamilia Apicotermitinae fue establecida por Grassé y Noirot en 1955 en su trabajo sobre Apicotermes arquieri (41); el género tipo es Apicotermes Holmgren, 1911, del cual deriva el nombre de la subfamilia. Esta lista incluye 68 géneros y 241 especies.
 
 Esta subfamilia es el principal reservorio de los grupos sin soldados entre las termitas superiores: la gran mayoría de las especies perdió de forma independiente la casta de soldado a lo largo de la evolución (en al menos dos eventos independientes), y solo unos pocos géneros relativamente basales conservan soldados. Los escasos géneros que conservan soldados están todos restringidos al reino afrotropical y al reino oriental: el reino afrotropical cuenta con Machadotermes, Jugositermes, Phoxotermes, Rostrotermes, Coxotermes, Eburnitermes y otros, mientras que el reino oriental cuenta con Indotermes y Eurytermes; todas las especies neotropicales conocidas carecen de soldados. En aquellos grupos que conservan soldados, las mandíbulas del soldado son cortas y robustas, del tipo perforante–cortante, y las mandíbulas de los soldados de Machadotermes son las más cortas de toda la subfamilia; los abdómenes de los soldados de Eburnitermes, Indotermes y Eurytermes son de color blanco lechoso porque se alimentan únicamente de saliva de las obreras (soldados de intestino blanco). En la obrera, el diente apical y el primer diente marginal de la mandíbula izquierda son grandes y se proyectan claramente por encima de la línea que une el tercer diente marginal con la prominencia molar, y por encima de la prominencia molar se observa un diente marginal accesorio (cuarto); el diente apical de la mandíbula derecha es más largo que el primer diente marginal — este es el contorno mandibular común de las obreras de esta subfamilia, mientras que la identificación genérica sigue dependiendo de detalles de la válvula entérica. La alimentación es principalmente geófaga (de humus), aunque no todas las especies son alimentadoras de suelo: por ejemplo, Ruptitermes arboreus del género Ruptitermes e Indotermes se alimentan de una gama más amplia de sustratos (incluida la hojarasca). Esta subfamilia construye nidos subterráneos difusos y lleva una existencia oculta, y la identificación taxonómica ha dependido durante mucho tiempo de la morfología de la válvula entérica de las obreras y de secuencias moleculares. Se reconocen con claridad tres regiones faunísticas: el reino afrotropical (África occidental, central, oriental y austral) posee el mayor número de especies, seguido del reino oriental, y el reino neotropical también cuenta con representantes. Los estudios filogenéticos y biogeográficos mitocondriales confirman que esta subfamilia es monofilética, que se originó en el reino afrotropical y que posteriormente se dispersó por separado hacia los reinos oriental y neotropical (21). Desde el punto de vista económico, se han registrado daños para el género neotropical Anoplotermes de esta subfamilia: Anoplotermes en la rizosfera del arroz de secano en Brasil fue identificado por primera vez como plaga del arroz de secano (42); Anoplotermes pacificus en Minas Gerais daña plántulas de eucalipto (43); y Aparatermes abbreviatus daña raíces de pastos y de eucalipto (44).
 
@@ -3320,6 +3329,8 @@ Esta subfamilia es el principal reservorio de los grupos sin soldados entre las 
 
 \*[*Chasitermes pax* 和平蔡斯白蚁]({{ site.base_url }}/species/chasitermes-pax/)
 
+[*Chasitermes tupan* 图潘蔡斯白蚁]({{ site.base_url }}/species/chasitermes-tupan/)
+
 <h5 id="compositermes">Compositermes</h5>
 
 {% include distribution-map.html mode="genus" id="compositermes" %}
@@ -3373,6 +3384,12 @@ Esta subfamilia es el principal reservorio de los grupos sin soldados entre las 
 {% include distribution-map.html mode="genus" id="echinotermes" %}
 
 \*[*Echinotermes biriba* 比里巴多刺白蚁]({{ site.base_url }}/species/echinotermes-biriba/)
+
+<h5 id="ekueitermes">Ekueitermes</h5>
+
+{% include distribution-map.html mode="genus" id="ekueitermes" %}
+
+\*[*Ekueitermes alerosinus* 阿莱罗辛肠棘白蚁]({{ site.base_url }}/species/ekueitermes-alerosinus/)
 
 <h5 id="euhamitermes">Euhamitermes</h5>
 
@@ -3640,6 +3657,12 @@ Esta subfamilia es el principal reservorio de los grupos sin soldados entre las 
 
 \*[*Rustitermes boteroi* 博特罗拉斯特白蚁]({{ site.base_url }}/species/rustitermes-boteroi/)
 
+<h5 id="scheffrahnitermes">Scheffrahnitermes</h5>
+
+{% include distribution-map.html mode="genus" id="scheffrahnitermes" %}
+
+\*[*Scheffrahnitermes ubuntu* 乌班图谢弗拉恩白蚁]({{ site.base_url }}/species/scheffrahnitermes-ubuntu/)
+
 <h5 id="skatitermes">Skatitermes</h5>
 
 {% include distribution-map.html mode="genus" id="skatitermes" %}
@@ -3677,6 +3700,12 @@ Esta subfamilia es el principal reservorio de los grupos sin soldados entre las 
 [*Speculitermes sinhalensis* 僧伽罗稀白蚁]({{ site.base_url }}/species/speculitermes-sinhalensis/)
 
 [*Speculitermes triangularis* 三角稀白蚁]({{ site.base_url }}/species/speculitermes-triangularis/)
+
+<h5 id="spiralitermes">Spiralitermes</h5>
+
+{% include distribution-map.html mode="genus" id="spiralitermes" %}
+
+\*[*Spiralitermes jurupari* 尤鲁帕里螺旋白蚁]({{ site.base_url }}/species/spiralitermes-jurupari/)
 
 <h5 id="tetimatermes">Tetimatermes</h5>
 
@@ -3716,7 +3745,7 @@ Esta subfamilia es el principal reservorio de los grupos sin soldados entre las 
 
 <h4 id="crepititermitinae">Crepititermitinae</h4>
 
-La subfamilia Crepititermitinae fue establecida por Hellemans, Engel y Bourguignon en 2024 (21), con el género tipo Crepititermes Emerson, 1925. El nombre de la subfamilia deriva del nombre del género tipo (latín crepitus, sonido crujiente). Esta lista registra 1 género y 1 especie.
+La subfamilia Crepititermitinae fue establecida por Hellemans, Engel y Bourguignon en 2024 (21), con el género tipo Crepititermes Emerson, 1925. El nombre de la subfamilia deriva del nombre del género tipo (latín crepitus, sonido crujiente). Esta lista registra 1 géneros y 1 especies.
 
 Dado que contiene solo un género y una especie, sus caracteres son los de la subfamilia. La única especie se distribuye en América del Sur: Brasil, Colombia, Guayana Francesa, Guyana, Bolivia, Ecuador, Paraguay, Perú y Trinidad y Tobago. Su dieta es el humus (suelo). La cabeza del soldado es casi rectangular con una frente plana; el labro tiene el margen apical cóncavo y ángulos laterales agudos, y las mandíbulas son mandíbulas de chasquido simétricas. Sus obreras se defienden mediante autotisis (21): cuando se las molesta, la pared corporal dorsal se rompe en la unión del tórax y el abdomen, exponiendo el contenido intestinal pegajoso para repeler a los enemigos. Caracteres como un P3 del intestino posterior con un ciego y una molleja con una banda columnar lo sitúan entre los Cubitermitinae y los grupos relacionados, lo que lo convierte en uno de los grupos de ramificación temprana representativos de las termitas superiores.
 
@@ -3735,7 +3764,7 @@ Rocha & Cuezzo (2015) (45) describieron por primera vez de manera sistemática l
 
 <h4 id="cubitermitinae">Cubitermitinae</h4>
 
-La subfamilia Cubitermitinae fue establecida por Weidner en 1956, con el género tipo Cubitermes Wasmann, 1902, del cual toma su nombre la subfamilia. Esta lista registra 28 géneros y 142 especies.
+La subfamilia Cubitermitinae fue establecida por Weidner en 1956, con el género tipo Cubitermes Wasmann, 1902, del cual toma su nombre la subfamilia. Esta lista registra 28 géneros y 149 especies.
 
 Todos los géneros y especies conocidos de esta subfamilia se distribuyen en el África subsahariana —África occidental (Côte d'Ivoire, Nigeria, Guinea, Senegal, Gambia, Togo, etc.), África central y la cuenca del Congo (Camerún, Congo, República Democrática del Congo, Gabón, República Centroafricana), África oriental (Kenia, Tanzania, Uganda, Ruanda) y África austral (Sudáfrica, Zimbabue, Zambia, Namibia, Angola, etc.)—. La dieta es principalmente suelo (humus). La construcción de nidos es su rasgo más distintivo: muchos géneros construyen montículos columnares, en forma de paraguas o de hongo sobre la superficie del suelo, y las paredes del nido se construyen con suelo y heces, lo que puede concentrar de manera notable la arcilla y los nutrientes del suelo y modificar su estructura (en los pastizales de Uganda, la densidad de montículos de Cubitermes testaceus puede superar el centenar por hectárea (48)); a menudo se los emplea como grupos bioindicadores de la salud del suelo. Los soldados tienen mandíbulas de tipo mordedor y defienden en la entrada del nido. Como representa el género tipo Cubitermes, la cabeza del soldado es casi rectangular con la fontanela en la frente, las antenas tienen unos 14–15 artejos y las mandíbulas son cortas, robustas y curvadas hacia dentro. En los géneros Procubitermes, Noditermes, Basidentitermes, Unguitermes, Unicornitermes, etc., el abdomen del soldado es de color blanco lechoso (tipo de intestino blanco), pues los soldados se alimentan únicamente de saliva de las obreras. El íleon (P1) de la obrera está inflado formando un saco, la válvula entérica posee una almohadilla media, el P3 del intestino posterior lleva un ciego ventralmente y la molleja carece de banda columnar. Desde el punto de vista taxonómico, esta subfamilia es un grupo monofilético bien sustentado; el intestino posterior de Cubitermes es un material clásico para estudiar la fermentación anaerobia y la microflora metanógena del intestino de las termitas superiores (49).
 
@@ -3861,6 +3890,8 @@ Desde el punto de vista económico, todos los miembros de esta subfamilia son gr
 
 {% include distribution-map.html mode="genus" id="isognathotermes" %}
 
+[*Isognathotermes acristatus* 无冠等颚白蚁]({{ site.base_url }}/species/isognathotermes-acristatus/)
+
 [*Isognathotermes bulbifrons* 球额等颚白蚁]({{ site.base_url }}/species/isognathotermes-bulbifrons/)
 
 [*Isognathotermes congoensis* 刚果等颚白蚁]({{ site.base_url }}/species/isognathotermes-congoensis/)
@@ -3869,11 +3900,23 @@ Desde el punto de vista económico, todos los miembros de esta subfamilia son gr
 
 [*Isognathotermes fungifaber* 菌匠等颚白蚁]({{ site.base_url }}/species/isognathotermes-fungifaber/)
 
+[*Isognathotermes magniplanifrons* 大平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-magniplanifrons/)
+
 \*[*Isognathotermes minitabundus* 威吓等颚白蚁]({{ site.base_url }}/species/isognathotermes-minitabundus/)
+
+[*Isognathotermes modicus* 中等等颚白蚁]({{ site.base_url }}/species/isognathotermes-modicus/)
+
+[*Isognathotermes phallicaecalis* 阳茎盲囊等颚白蚁]({{ site.base_url }}/species/isognathotermes-phallicaecalis/)
+
+[*Isognathotermes phalloides* 似阳茎等颚白蚁]({{ site.base_url }}/species/isognathotermes-phalloides/)
 
 [*Isognathotermes planifrons* 平额等颚白蚁]({{ site.base_url }}/species/isognathotermes-planifrons/)
 
+[*Isognathotermes rectimalatus* 直颚等颚白蚁]({{ site.base_url }}/species/isognathotermes-rectimalatus/)
+
 [*Isognathotermes severus* 严肃等颚白蚁]({{ site.base_url }}/species/isognathotermes-severus/)
+
+[*Isognathotermes similifinitimus* 似近邻等颚白蚁]({{ site.base_url }}/species/isognathotermes-similifinitimus/)
 
 [*Isognathotermes ugandensis* 乌干达等颚白蚁]({{ site.base_url }}/species/isognathotermes-ugandensis/)
 
@@ -5478,6 +5521,10 @@ Su dieta es de alimentación de suelo (humus) o de alimentación en la interfaz 
 
 [*Labiocapritermes ghatensis* 高止唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-ghatensis/)
 
+[*Labiocapritermes microcephalus* 小头唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-microcephalus/)
+
+[*Labiocapritermes wayanadensis* 瓦亚纳德唇扭白蚁]({{ site.base_url }}/species/labiocapritermes-wayanadensis/)
+
 <h5 id="mirocapritermes">Mirocapritermes</h5>
 
 {% include distribution-map.html mode="genus" id="mirocapritermes" %}
@@ -5639,6 +5686,8 @@ Su dieta es de alimentación de suelo (humus) o de alimentación en la interfaz 
 [*Pseudocapritermes megacephalus* 大头伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-megacephalus/)
 
 [*Pseudocapritermes minutus* 小伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-minutus/)
+
+[*Pseudocapritermes novus* 新伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-novus/)
 
 [*Pseudocapritermes orientalis* 东方伪扭白蚁]({{ site.base_url }}/species/pseudocapritermes-orientalis/)
 
@@ -7255,8 +7304,6 @@ Desde el punto de vista económico, esta subfamilia es un grupo de plagas import
 
 {% include distribution-map.html mode="genus" id="xiaitermes" %}
 
-[*Xiaitermes tiantaiensis* 天台夏氏白蚁]({{ site.base_url }}/species/xiaitermes-tiantaiensis/)
-
 \*[*Xiaitermes yinxianensis* 鄞县夏氏白蚁]({{ site.base_url }}/species/xiaitermes-yinxianensis/)
 
 <h4 id="neocapritermitinae">Neocapritermitinae</h4>
@@ -8030,6 +8077,8 @@ Desde el punto de vista económico, en un estudio de pastizales de Paraguay, los
 [*Termes hospes* 宿主白蚁]({{ site.base_url }}/species/termes-hospes/)
 
 [*Termes huayangensis* 怀阳白蚁]({{ site.base_url }}/species/termes-huayangensis/)
+
+[*Termes incognitus* 隐秘白蚁]({{ site.base_url }}/species/termes-incognitus/)
 
 [*Termes laticornis* 宽角白蚁]({{ site.base_url }}/species/termes-laticornis/)
 

@@ -34,8 +34,8 @@ ES — **朱里翁双齿白蚁** (*Duplidentitermes jurioni*) es una especie del
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 65 属 237 种（65 genera, 237 species · 65 géneros, 237 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[双齿白蚁属 *Duplidentitermes*]({{ site.base_url }}/list/#duplidentitermes) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Duplidentitermes furcatidens*
 

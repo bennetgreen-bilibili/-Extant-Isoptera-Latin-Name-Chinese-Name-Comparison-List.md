@@ -33,7 +33,7 @@ ES — **黄颈木白蚁** (*Kalotermes flavicollis*) es una especie, y la espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[木白蚁属 *Kalotermes*]({{ site.base_url }}/list/#kalotermes) —— 共 21 种（21 species · 21 especies）
 
 ## 分布

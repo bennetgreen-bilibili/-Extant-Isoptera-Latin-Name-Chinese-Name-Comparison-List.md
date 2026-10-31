@@ -1,4 +1,7 @@
 ﻿scientificName,chineseName,rank,familyZh,familyLatin,source,group,kind,ourName,externalName,acceptedName,match,confidence,externalUrl,acceptedUrl,verified,note
+Amitermes californicus,加州弓白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Amitermes californicus,"Amitermes californicus Banks, 1920","Amitermes wheeleri (Desneux, 1906)",EXACT,100,https://www.gbif.org/species/9157883,https://www.gbif.org/species/2007289,no,
+Amitermes californicus,加州弓白蚁,种,白蚁科,TERMITIDAE,col,conflict,synonym,Amitermes californicus,"Amitermes californicus Banks, 1920","Amitermes wheeleri (Desneux, 1906)",exact,,https://www.checklistbank.org/dataset/3LR/taxon/8Q83Z,https://www.checklistbank.org/dataset/3LR/taxon/CSVV,no,
+Amitermes californicus,加州弓白蚁,种,白蚁科,TERMITIDAE,bsf,conflict,synonym,Amitermes californicus,"Amitermes californicus Banks, 1920","Amitermes wheeleri (Desneux, 1906)",exact,,https://cockroach.speciesfile.org/otus/85266/overview,https://cockroach.speciesfile.org/otus/85266/overview,no,
 Grigiotermes hageni,哈根灰白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Grigiotermes hageni,"Grigiotermes hageni (Snyder & Emerson, 1949)","Anoplotermes hageni Emerson & Snyder, 1949",EXACT,100,https://www.gbif.org/species/10112407,https://www.gbif.org/species/9662984,no,
 Mapinguaritermes grandidens,大齿红懒白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Mapinguaritermes grandidens,"Mapinguaritermes grandidens (Emerson, 1925)","Armitermes grandidens Emerson, 1925",EXACT,100,https://www.gbif.org/species/9360607,https://www.gbif.org/species/8816091,no,
 Patawatermes nigripunctatus,黑点帕塔瓦白蚁,种,白蚁科,TERMITIDAE,gbif,conflict,synonym,Patawatermes nigripunctatus,"Patawatermes nigripunctatus (Emerson, 1925)","Anoplotermes nigripunctatus Emerson, 1925",EXACT,100,https://www.gbif.org/species/11048620,https://www.gbif.org/species/9339653,no,
@@ -33,12 +36,14 @@ Anhangatermes juruena,茹鲁埃纳魔白蚁,种,白蚁科,TERMITIDAE,bsf,match,a
 Anhangatermes pilosus,多毛魔白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Anhangatermes pilosus,,,,,,,no,"仅模糊候选：OTU 84309 Anhangatermes Constantino, 1990"
 Caputitermes dimorphus,二型首白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Caputitermes dimorphus,,,,,,,no,"仅模糊候选：OTU 84619 Nasutitermes dimorphus Ahmad, 1965"
 Ceylonitermes nivedita,尼韦迪塔锡兰白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Ceylonitermes nivedita,,,,,,,no,"仅模糊候选：OTU 84380 Ceylonitermes Holmgren, 1912"
+Chasitermes tupan,图潘蔡斯白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Chasitermes tupan,,,,,,,no,"仅模糊候选：OTU 738843 Chasitermes Scheffrahn & Carrijo, 2023"
 Cortaritermes silvestrii,西尔韦斯特里利颚白蚁,种,白蚁科,TERMITIDAE,gbif,match,fuzzy,Cortaritermes silvestrii,"Cortaritermes silvestri (Holmgren, 1910)",,FUZZY,98,https://www.gbif.org/species/9744833,,yes,"人工核对（2026-10-30）：GBIF Backbone 与 BSF 拼作 silvestri（单 i），属外部库拼写变体，不是异名。本站名依 Termite Database 的原始组合记录（Eutermes (Eutermes) silvestrii Holmgren, 1910: 281–283），与 ION、CTFB（Catálogo Taxonômico da Fauna do Brasil）、NCBI 一致，保持 silvestrii；本站名不改。"
 Cortaritermes silvestrii,西尔韦斯特里利颚白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Cortaritermes silvestrii,,,,,,,no,"仅模糊候选：OTU 84409 Cortaritermes silvestri (Holmgren, 1910)；OTU 84185 Cornitermes silvestrii Emerson, 1949；OTU 1114068 Silvestritermes Rocha & Cancello, 2012；OTU 782588 Silvestritermes Emerson, 1955 now Silvestritermes Emerson, 1955"
 Dihoplotermes taurus,公牛双戟白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Dihoplotermes taurus,,,,,,,no,"仅模糊候选：OTU 85362 Dihoplotermes Araujo, 1961"
 Diversitermes tiapuan,长简鼻歧白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Diversitermes tiapuan,,,,,,,no,"仅模糊候选：OTU 84419 Diversitermes Holmgren, 1912"
 Euhamitermes chhotanii,乔塔里亮白蚁,种,白蚁科,TERMITIDAE,gbif,match,fuzzy,Euhamitermes chhotanii,"Euhamitermes chhotannii Maiti, 1983",,FUZZY,98,https://www.gbif.org/species/9784466,,yes,"人工核对（2026-10-30）：GBIF Backbone 拼作 chhotannii（双 n），属外部库拼写变体。BSF、Catalogue of Life 与 ION 的 Maiti, 1983 原始描述记录均作 chhotanii；本站名不改。"
 Hospitalitermes seikii,清木须白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Hospitalitermes seikii,,,,,,,no,"仅模糊候选：OTU 84462 Hospitalitermes Holmgren, 1912；OTU 84476 Hospitalitermes hospitalis (Haviland, 1898)；OTU 84477 Hospitalitermes hospitalis hospitalis (Haviland, 1898)"
+Isognathotermes ugandensis ugandensis,指名亚种,亚种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Isognathotermes ugandensis ugandensis,,,,,,,no,"仅模糊候选：OTU 85050 Isognathotermes ugandensis (Fuller, 1923)；OTU 1412335 Isognathotermes ugandensis kenyae Josens & Deligne, 2025；OTU 1412336 Isognathotermes ugandensis malawii Josens & Deligne, 2025；OTU 1412333 Isognathotermes ugandensis burundii Josens & Deligne, 2025"
 Lacessititermes yamanei,山根怒白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Lacessititermes yamanei,,,,,,,no,"仅模糊候选：OTU 84505 Lacessititermes Holmgren, 1912"
 Mapinguaritermes marizalensis,马里扎尔红懒白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Mapinguaritermes marizalensis,,,,,,,no,"仅模糊候选：OTU 1411304 Mapinguaritermes marizalensis de Lucena, Cysneiros & Vasconcellos, 2026；OTU 1114075 Mapinguaritermes Rocha & Cancello, 2012"
 Microcerotermes labioangulatus labioangulatus,指名亚种,亚种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Microcerotermes labioangulatus labioangulatus,,,,,,,no,"仅模糊候选：OTU 85553 Microcerotermes labioangulatus Sen-Sarma & Thakur, 1975"
@@ -59,6 +64,7 @@ Odontotermes celebensis,西里伯斯土白蚁,种,白蚁科,TERMITIDAE,bsf,match
 Odontotermes formosanus,黑翅土白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Odontotermes formosanus,,,,,,,no,"候选：OTU 83723 Odontotermes formosanus (Shiraki, 1909)；OTU 675565 Odontotermes formosanus Holmgren, 1912 now Odontotermes formosanus (Shiraki, 1909)"
 Odontotermes robustus,粗壮土白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Odontotermes robustus,,,,,,,no,"BSF 标签含亚属括号；候选：OTU 83828 Odontotermes robustus Sjöstedt, 1924；OTU 676750 Odontotermes (Odontotermes) robustus John, 1925 now Odontotermes praevalens (John, 1926)"
 Pericapritermes vermai,维尔马近扭白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Pericapritermes vermai,,,,,,,no,"仅模糊候选：OTU 85696 Pericapritermes Silvestri, 1914；OTU 85710 Pericapritermes gloveri Harris, 1951"
+Pseudocapritermes novus,新伪扭白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Pseudocapritermes novus,,,,,,,no,"仅模糊候选：OTU 85782 Pseudocapritermes Kemner, 1934；OTU 1054069 Pseudocapritermes planus Mathur & Thapa, 1965 now Pseudocapritermes tikadari Roonwal & Chhotani, 1962；OTU 85789 Pseudocapritermes largus Li & Huang, 1986；OTU 85796 Pseudocapritermes pseudolaetus (Tsai & Chen, 1963)"
 Rhynchotermes matraga,马特拉加喙白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Rhynchotermes matraga,,,,,,,no,"仅模糊候选：OTU 84240 Rhynchotermes Holmgren, 1912；OTU 782405 Rhynchotermes major (Snyder, 1925) now Rhynchotermes perarmatus (Snyder, 1925)"
 Ruptitermes araujoi,阿劳若腹爆白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Ruptitermes araujoi,,,,,,,no,"仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977"
 Ruptitermes atyra,硬毛腹爆白蚁,种,白蚁科,TERMITIDAE,bsf,match,ambiguous,Ruptitermes atyra,,,,,,,no,"仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977"
@@ -106,6 +112,9 @@ Neotermes costaseca,干海岸新白蚁,种,木白蚁科,KALOTERMITIDAE,bsf,gap,m
 Neotermes ludaoensis,绿岛新白蚁,种,木白蚁科,KALOTERMITIDAE,gbif,gap,higherrank,Neotermes ludaoensis,"Neotermes Holmgren, 1911",,HIGHERRANK,96,,,no,
 Proneotermes macondianus,马康多前新白蚁,种,木白蚁科,KALOTERMITIDAE,col,gap,higherrank,Proneotermes macondianus,"Proneotermes Holmgren, 1911",,higherrank,,,,no,
 Proneotermes macondianus,马康多前新白蚁,种,木白蚁科,KALOTERMITIDAE,bsf,gap,missing,Proneotermes macondianus,,,,,,,no,
+Proneotermes tacicuarensis,塔西夸罗前新白蚁,种,木白蚁科,KALOTERMITIDAE,gbif,gap,higherrank,Proneotermes tacicuarensis,"Proneotermes Holmgren, 1911",,HIGHERRANK,96,,,no,
+Proneotermes tacicuarensis,塔西夸罗前新白蚁,种,木白蚁科,KALOTERMITIDAE,col,gap,higherrank,Proneotermes tacicuarensis,"Proneotermes Holmgren, 1911",,higherrank,,,,no,
+Proneotermes tacicuarensis,塔西夸罗前新白蚁,种,木白蚁科,KALOTERMITIDAE,bsf,gap,missing,Proneotermes tacicuarensis,,,,,,,no,
 Roisinitermes ebogoensis,埃博戈罗伊辛白蚁,种,木白蚁科,KALOTERMITIDAE,col,gap,missing,Roisinitermes ebogoensis,,,,,,,no,
 Roisinitermes ebogoensis,埃博戈罗伊辛白蚁,种,木白蚁科,KALOTERMITIDAE,bsf,gap,missing,Roisinitermes ebogoensis,,,,,,,no,
 Rugitermes aridus,干皱白蚁,种,木白蚁科,KALOTERMITIDAE,col,gap,higherrank,Rugitermes aridus,"Rugitermes Holmgren, 1911",,higherrank,,,,no,
@@ -116,6 +125,7 @@ Rugitermes volcanensis,火山皱白蚁,种,木白蚁科,KALOTERMITIDAE,bsf,gap,m
 Tauritermes bandeirai,班代拉牛白蚁,种,木白蚁科,KALOTERMITIDAE,col,gap,higherrank,Tauritermes bandeirai,"Tauritermes Krishna, 1961",,higherrank,,,,no,
 Tauritermes bandeirai,班代拉牛白蚁,种,木白蚁科,KALOTERMITIDAE,bsf,gap,missing,Tauritermes bandeirai,,,,,,,no,
 Prorhinotermes cotym,科廷原鼻白蚁,种,沙白蚁科,PSAMMOTERMITIDAE,gbif,gap,higherrank,Prorhinotermes cotym,"Prorhinotermes Silvestri, 1909",,HIGHERRANK,96,,,no,
+Acorhinotermes murui,穆鲁伊尖鼻白蚁,种,鼻白蚁科,RHINOTERMITIDAE,gbif,gap,higherrank,Acorhinotermes murui,"Acorhinotermes Emerson, 1949",,HIGHERRANK,96,,,no,
 Schedorhinotermes maximus,最大长鼻白蚁,种,鼻白蚁科,RHINOTERMITIDAE,gbif,gap,higherrank,Schedorhinotermes maximus,"Schedorhinotermes Silvestri & Silvestri, 1909",,HIGHERRANK,96,,,no,
 Ahmaditermes dinghuensis,鼎湖钝颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ahmaditermes dinghuensis,"Ahmaditermes Akhtar, 1975",,HIGHERRANK,96,,,no,
 Ahmaditermes parafulvus,黄色钝颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ahmaditermes parafulvus,"Ahmaditermes Akhtar, 1975",,HIGHERRANK,96,,,no,
@@ -144,6 +154,8 @@ Caputitermes dimorphus,二型首白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherr
 Caputitermes dimorphus,二型首白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Caputitermes dimorphus,,,,,,,no,
 Ceylonitermes nivedita,尼韦迪塔锡兰白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Ceylonitermes nivedita,"Ceylonitermes Holmgren, 1912",,higherrank,,,,no,
 Ceylonitermes paulosus,保洛斯锡兰白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ceylonitermes paulosus,"Ceylonitermes Holmgren, 1912",,HIGHERRANK,96,,,no,
+Chasitermes tupan,图潘蔡斯白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Chasitermes tupan,"Chasitermes Scheffrahn & Carrijo, 2023",,HIGHERRANK,96,,,no,
+Chasitermes tupan,图潘蔡斯白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Chasitermes tupan,"Chasitermes Scheffrahn & Carrijo, 2023",,higherrank,,,,no,
 Cortaritermes intermedius,中间利颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Cortaritermes intermedius,"Cortaritermes Mathews, 1977",,HIGHERRANK,96,,,no,
 Cortaritermes piliceps,毛头利颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Cortaritermes piliceps,"Cortaritermes Mathews, 1977",,HIGHERRANK,96,,,no,
 Dentispicotermes trapezia,梯形齿尖白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Dentispicotermes trapezia,"Dentispicotermes Emerson, 1949",,HIGHERRANK,96,,,no,
@@ -157,6 +169,7 @@ Ebogotermes raphaeli,拉斐尔埃博戈白蚁,种,白蚁科,TERMITIDAE,col,gap,m
 Ebogotermes raphaeli,拉斐尔埃博戈白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Ebogotermes raphaeli,,,,,,,no,
 Echinotermes biriba,比里巴多刺白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Echinotermes biriba,,,,,,,no,
 Echinotermes biriba,比里巴多刺白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Echinotermes biriba,,,,,,,no,
+Ekueitermes alerosinus,阿莱罗辛肠棘白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ekueitermes alerosinus,Animalia,,HIGHERRANK,99,,,no,
 Engelitermes zambo,赞博恩格尔白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Engelitermes zambo,Animalia,,HIGHERRANK,99,,,no,
 Gastrotermes spinatus,多刺胃白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Gastrotermes spinatus,,,,,,,no,
 Gastrotermes spinatus,多刺胃白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Gastrotermes spinatus,,,,,,,no,
@@ -169,14 +182,26 @@ Humutermes noiroti,努瓦罗腐殖白蚁,种,白蚁科,TERMITIDAE,gbif,gap,highe
 Inquilinitermes johnchapmani,约翰查普曼客白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Inquilinitermes johnchapmani,"Inquilinitermes Mathews, 1977",,HIGHERRANK,96,,,no,
 Inquilinitermes johnchapmani,约翰查普曼客白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Inquilinitermes johnchapmani,"Inquilinitermes Mathews, 1977",,higherrank,,,,no,
 Inquilinitermes johnchapmani,约翰查普曼客白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Inquilinitermes johnchapmani,,,,,,,no,
+Isognathotermes acristatus,无冠等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes acristatus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes bulbifrons,球额等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes bulbifrons,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes congoensis,刚果等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes congoensis,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes finitimus,近邻等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes finitimus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes fungifaber,菌匠等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes fungifaber,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes magniplanifrons,大平额等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes magniplanifrons,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes minitabundus,威吓等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes minitabundus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes modicus,中等等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes modicus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes phallicaecalis,阳茎盲囊等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes phallicaecalis,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes phalloides,似阳茎等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes phalloides,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes planifrons,平额等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes planifrons,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes rectimalatus,直颚等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes rectimalatus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes severus,严肃等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes severus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes similifinitimus,似近邻等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes similifinitimus,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Isognathotermes ugandensis,乌干达等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes ugandensis,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes ugandensis burundii,布隆迪亚种,亚种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes ugandensis burundii,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes ugandensis kenyae,肯尼亚亚种,亚种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes ugandensis kenyae,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes ugandensis malawii,马拉维亚种,亚种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes ugandensis malawii,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes ugandensis ugandensis,指名亚种,亚种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes ugandensis ugandensis,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
+Isognathotermes ugandensis ugandensis,指名亚种,亚种,白蚁科,TERMITIDAE,col,gap,higherrank,Isognathotermes ugandensis ugandensis,"Isognathotermes ugandensis (Fuller, 1923)",,higherrank,,,,no,
 Isognathotermes zenkeri,岑克等颚白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Isognathotermes zenkeri,"Isognathotermes Sjöstedt, 1926",,HIGHERRANK,96,,,no,
 Koutabatermes spinifer,具刺库塔巴白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Koutabatermes spinifer,Animalia,,HIGHERRANK,99,,,no,
 Koutabatermes spinifer,具刺库塔巴白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Koutabatermes spinifer,,,,,,,no,
@@ -184,6 +209,12 @@ Koutabatermes spinifer,具刺库塔巴白蚁,种,白蚁科,TERMITIDAE,bsf,gap,mi
 Krishnacapritermes dineshan,迪内尚克里希纳扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Krishnacapritermes dineshan,"Krishnacapritermes Chhotani, 1997",,HIGHERRANK,96,,,no,
 Krishnacapritermes manikandan,马尼坎丹克里希纳扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Krishnacapritermes manikandan,"Krishnacapritermes Chhotani, 1997",,HIGHERRANK,96,,,no,
 Labiocapritermes ghatensis,高止唇扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Labiocapritermes ghatensis,"Labiocapritermes Krishna, 1968",,HIGHERRANK,96,,,no,
+Labiocapritermes microcephalus,小头唇扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Labiocapritermes microcephalus,"Labiocapritermes Krishna, 1968",,HIGHERRANK,96,,,no,
+Labiocapritermes microcephalus,小头唇扭白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Labiocapritermes microcephalus,"Labiocapritermes Krishna, 1968",,higherrank,,,,no,
+Labiocapritermes microcephalus,小头唇扭白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Labiocapritermes microcephalus,,,,,,,no,
+Labiocapritermes wayanadensis,瓦亚纳德唇扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Labiocapritermes wayanadensis,"Labiocapritermes Krishna, 1968",,HIGHERRANK,96,,,no,
+Labiocapritermes wayanadensis,瓦亚纳德唇扭白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Labiocapritermes wayanadensis,"Labiocapritermes Krishna, 1968",,higherrank,,,,no,
+Labiocapritermes wayanadensis,瓦亚纳德唇扭白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Labiocapritermes wayanadensis,,,,,,,no,
 Lacessititermes yamanei,山根怒白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Lacessititermes yamanei,"Lacessititermes Holmgren, 1912",,HIGHERRANK,96,,,no,
 Lacessititermes yamanei,山根怒白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Lacessititermes yamanei,"Lacessititermes Holmgren, 1912",,higherrank,,,,no,
 Macrotermes vikaspurensis,维卡斯布尔大白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Macrotermes vikaspurensis,"Macrotermes Holmgren, 1909",,HIGHERRANK,96,,,no,
@@ -235,6 +266,8 @@ Polyspathotermes oblectatus,愉悦多铲白蚁,种,白蚁科,TERMITIDAE,gbif,gap
 Polyspathotermes sulcifrons,沟额多铲白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Polyspathotermes sulcifrons,"Polyspathotermes Josens & Deligne, 2021",,HIGHERRANK,94,,,no,
 Polyspathotermes umbratus,荫生多铲白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Polyspathotermes umbratus,"Polyspathotermes Josens & Deligne, 2021",,HIGHERRANK,94,,,no,
 Pseudocapritermes kunjepu,昆杰普伪扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Pseudocapritermes kunjepu,"Pseudocapritermes Kemner, 1934",,HIGHERRANK,96,,,no,
+Pseudocapritermes novus,新伪扭白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Pseudocapritermes novus,"Pseudocapritermes Kemner, 1934",,HIGHERRANK,96,,,no,
+Pseudocapritermes novus,新伪扭白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Pseudocapritermes novus,"Pseudocapritermes Kemner, 1934",,higherrank,,,,no,
 Rhynchotermes amazonensis,亚马孙喙白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Rhynchotermes amazonensis,"Rhynchotermes Holmgren, 1912",,higherrank,,,,no,
 Rhynchotermes amazonensis,亚马孙喙白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Rhynchotermes amazonensis,,,,,,,no,
 Rhynchotermes matraga,马特拉加喙白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Rhynchotermes matraga,"Rhynchotermes Holmgren, 1912",,higherrank,,,,no,
@@ -256,6 +289,7 @@ Rustitermes boteroi,博特罗拉斯特白蚁,种,白蚁科,TERMITIDAE,col,gap,mi
 Rustitermes boteroi,博特罗拉斯特白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Rustitermes boteroi,,,,,,,no,
 Sandsitermes robustus,粗壮桑兹白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Sandsitermes robustus,,,,,,,no,
 Sandsitermes robustus,粗壮桑兹白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Sandsitermes robustus,,,,,,,no,
+Scheffrahnitermes ubuntu,乌班图谢弗拉恩白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Scheffrahnitermes ubuntu,Animalia,,HIGHERRANK,99,,,no,
 Silvestritermes almirsateri,阿尔米尔萨特尔西尔韦斯特里白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Silvestritermes almirsateri,"Silvestritermes Rocha & Cancello, 2012",,HIGHERRANK,96,,,no,
 Silvestritermes duende,精灵西尔韦斯特里白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Silvestritermes duende,"Silvestritermes Rocha & Cancello, 2012",,HIGHERRANK,96,,,no,
 Silvestritermes gnomus,标记西尔韦斯特里白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Silvestritermes gnomus,"Silvestritermes Rocha & Cancello, 2012",,HIGHERRANK,96,,,no,
@@ -264,8 +298,13 @@ Silvestritermes lanei,莱恩西尔韦斯特里白蚁,种,白蚁科,TERMITIDAE,gb
 Sinqasapatermes sachae,森林鼻大白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Sinqasapatermes sachae,,,,,,,no,
 Sinqasapatermes sachae,森林鼻大白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Sinqasapatermes sachae,,,,,,,no,
 Speculitermes latalabrum,宽唇稀白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Speculitermes latalabrum,"Speculitermes Wasmann, 1902",,HIGHERRANK,96,,,no,
+Spiralitermes jurupari,尤鲁帕里螺旋白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Spiralitermes jurupari,Animalia,,HIGHERRANK,99,,,no,
+Spiralitermes jurupari,尤鲁帕里螺旋白蚁,种,白蚁科,TERMITIDAE,col,gap,missing,Spiralitermes jurupari,,,,,,,no,
 Termes atlanticus,大西洋白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Termes atlanticus,"Termes Linnaeus, 1758",,HIGHERRANK,95,,,no,
 Termes chocoensis,乔科白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Termes chocoensis,"Termes Linnaeus, 1758",,HIGHERRANK,95,,,no,
+Termes incognitus,隐秘白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Termes incognitus,"Termes Linnaeus, 1758",,HIGHERRANK,95,,,no,
+Termes incognitus,隐秘白蚁,种,白蚁科,TERMITIDAE,col,gap,higherrank,Termes incognitus,"Termes Linnaeus, 1758",,higherrank,,,,no,
+Termes incognitus,隐秘白蚁,种,白蚁科,TERMITIDAE,bsf,gap,missing,Termes incognitus,,,,,,,no,
 Ternicubitermes bilobatodes,双叶三方白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ternicubitermes bilobatodes,"Ternicubitermes Josens & Deligne, 2021",,HIGHERRANK,94,,,no,
 Ternicubitermes breviceps,短头三方白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ternicubitermes breviceps,"Ternicubitermes Josens & Deligne, 2021",,HIGHERRANK,94,,,no,
 Ternicubitermes duplex,含糊三方白蚁,种,白蚁科,TERMITIDAE,gbif,gap,higherrank,Ternicubitermes duplex,"Ternicubitermes Josens & Deligne, 2021",,HIGHERRANK,94,,,no,

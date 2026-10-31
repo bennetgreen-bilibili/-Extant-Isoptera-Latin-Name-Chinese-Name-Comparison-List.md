@@ -31,7 +31,7 @@ ES — **埃塞俄比亚上木白蚁** (*Epicalotermes aethiopicus*) es una espe
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 479 种（23 genera, 479 species · 23 géneros, 479 especies）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[上木白蚁属 *Epicalotermes*]({{ site.base_url }}/list/#epicalotermes) —— 共 6 种（6 species · 6 especies）
 
 ## 分布

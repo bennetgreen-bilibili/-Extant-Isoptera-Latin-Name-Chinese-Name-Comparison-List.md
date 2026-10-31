@@ -4,6 +4,17 @@
 
 ## 2026.10.30 — 异名补录与命名差异判定修订
 
+- **新增文献补录（2026-10-31，同一版本，尚未归档发布）**：按近年原始文献补录 18 个新种、4 个新亚种、3 个新属，并修订 4 处分类变动——
+  - 新属：*Ekueitermes*（肠棘白蚁属）、*Spiralitermes*（螺旋白蚁属）、*Scheffrahnitermes*（谢弗拉恩白蚁属），均隶尖白蚁亚科（Apicotermitinae）；
+  - 新种（18）：*Ekueitermes alerosinus*、*Spiralitermes jurupari*、*Scheffrahnitermes ubuntu*、*Chasitermes tupan*、*Pseudocapritermes novus*、*Labiocapritermes microcephalus*、*L. wayanadensis*、*Proneotermes tacicuarensis*、*Acorhinotermes murui*、*Termes incognitus*、*Isognathotermes acristatus*、*I. modicus*、*I. magniplanifrons*、*I. phallicaecalis*、*I. phalloides*、*I. rectimalatus*、*I. similifinitimus*、*Amitermes californicus*；
+  - 新亚种（4）：*Isognathotermes ugandensis burundii*、*I. u. kenyae*、*I. u. malawii*、*I. u. ugandensis*（方白蚁亚科）；
+  - *Isognathotermes* 属整合修订（EJT 1024, 2025）：补 5 个异名（*I. gibbifrons* → *I. bulbifrons*、*I. speciosus* → *I. finitimus*、*I. gaigei* → *I. planifrons*、*I. modestior* / *I. silvestrii* → *I. severus*）；*I. congoensis* 改注 incertae sedis；
+  - *Amitermes californicus* 依 Zootaxa 5128（2022）恢复为有效种，从 *A. wheeleri* 次异名中拆出（此前按外部库对照误并）；
+  - *Xiaitermes tiantaiensis* 依 Insects 17: 602（2026）降为 *X. yinxianensis* 次异名，删除其物种页；
+  - 计数：分类单元记录 3068 → 3089（种 3004 → 3021、亚种 64 → 68、属 323 → 326）；尖白蚁亚科 237 → 241 种 / 68 属，方白蚁亚科 142 → 149 种、亚种 6 → 10，瘤白蚁亚科 132 → 135 种，弓白蚁亚科 193 → 194 种，白蚁亚科 106 → 107 种，象白蚁亚科 607 → 606 种，木白蚁科 479 → 480 种，鼻白蚁科 61 → 62 种；
+  - 三语名录、isoptera-data.json、data/ 结构化数据（含 data/index.json 计数与文件字节数）、检索索引、sitemap、统计页、dataset/ 归档包与外部库缓存（_data/authority_links.json、_data/bsf_links.json、_data/papers.json、_data/name_issues.json）均已按新名录重算；
+  - 说明：新种模式产地以原文为准；*Spiralitermes jurupari*、*Chasitermes tupan*、*Scheffrahnitermes ubuntu* 的产地仅到区域级（原文摘要未给出具体地点），待补。
+
 - 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF、CoL、BSF 一致视为异名）
   - *Coptotermes guizhouensis* → *Coptotermes formosanus*（CoL、BSF 一致；GBIF 仍标接受名）

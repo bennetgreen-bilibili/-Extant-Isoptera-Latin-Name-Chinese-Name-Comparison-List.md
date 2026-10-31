@@ -34,7 +34,7 @@ ES — **索马里小白蚁** (*Microtermes somaliensis*) es una especie del gé
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 277 属 2129 种（277 genera, 2129 species · 277 géneros, 2129 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/list/#macrotermitinae) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/list/#microtermes) —— 共 69 种（69 species · 69 especies）
 - **本属模式种 Type species / Especie tipo**：*Microtermes incertus*
