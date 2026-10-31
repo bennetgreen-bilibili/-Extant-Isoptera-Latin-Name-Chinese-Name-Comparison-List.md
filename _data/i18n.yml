@@ -160,7 +160,7 @@ en:
     guideClade: Clade
     guideFamily: Family
     guideSubfamily: Subfamily
-    supportHint: Support values follow the text of Hellemans et al. (2024): UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor. Nodes marked "monophyletic" were recovered as monophyletic in all analyses; values not reported in the text are not shown.
+    supportHint: 'Support values follow the text of Hellemans et al. (2024): UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor. Nodes marked "monophyletic" were recovered as monophyletic in all analyses; values not reported in the text are not shown.'
     lead: >-
       A summary cladogram redrawn from the phylogenomic study of Hellemans et al. (2024, Nature Communications 15: 6724, Fig. 3), which used ultraconserved elements (UCEs). Solid branches are supported by that study; dashed branches mark its anomaly zones, where the topology varies between concatenated and coalescent analyses and across topology tests.
     hint: Hover (or focus with the keyboard) for notes; click a clade name to collapse or expand it; click a taxon name to open its entry. Use the buttons above to switch between the cladogram and rank layouts, and to show or hide support values.
@@ -295,7 +295,7 @@ es:
     guideClade: Clado
     guideFamily: Familia
     guideSubfamily: Subfamilia
-    supportHint: Los valores de soporte provienen del texto de Hellemans et al. (2024): UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor. Los nodos marcados como "monophyletic" se recuperaron como monofiléticos en todos los análisis; los valores no reportados en el texto no se muestran.
+    supportHint: 'Los valores de soporte provienen del texto de Hellemans et al. (2024): UFB = ultrafast bootstrap, LPP = local posterior probability, sCF = site concordance factor. Los nodos marcados como "monophyletic" se recuperaron como monofiléticos en todos los análisis; los valores no reportados en el texto no se muestran.'
     lead: >-
       Cladograma resumen redibujado a partir del estudio filogenómico de Hellemans et al. (2024, Nature Communications 15: 6724, Fig. 3), basado en elementos ultraconservados (UCE). Las ramas continuas están respaldadas por ese estudio; las discontinuas marcan sus zonas de anomalía, donde la topología varía entre análisis concatenados y de coalescencia y entre pruebas topológicas.
     hint: Pase el cursor (o use el teclado) para ver notas; haga clic en el nombre de un clado para plegarlo o desplegarlo; haga clic en un nombre de taxón para abrir su entrada. Los botones superiores permiten cambiar entre las disposiciones de cladograma y por rango, y mostrar u ocultar los valores de soporte.
