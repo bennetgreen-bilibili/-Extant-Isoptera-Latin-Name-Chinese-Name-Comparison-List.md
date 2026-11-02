@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Download — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "Download area: files provided by the site, auto-listed from the repository downloads/ folder."
+description: "Download area: checklist CSV, JSON structured data, reference lists and other files, auto-listed from the repository downloads/ folder with sizes and dates."
 lang: en
 author: 班奈特格林 (Bennet Green)
 permalink: /en/download/

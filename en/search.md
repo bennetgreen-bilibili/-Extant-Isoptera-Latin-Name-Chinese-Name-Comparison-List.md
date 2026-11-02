@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Full-site search — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: Full-text search across the checklist, 3089 species pages, statistics, data pages and blog posts. Chinese (including traditional), Latin names and pinyin are supported; the index is generated at build time with the open-source Pagefind tool and queries never leave the browser.
+description: "Full-text search across the checklist, 3089 species pages, statistics, data and blog: Chinese (traditional too), Latin names and pinyin, run in the browser."
 lang: en
 author: 班奈特格林
 date: 2026-10-17

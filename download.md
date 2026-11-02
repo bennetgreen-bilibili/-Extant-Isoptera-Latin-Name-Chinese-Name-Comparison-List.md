@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 下载 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: "下载区：本站提供的资料文件，随仓库 downloads/ 文件夹自动更新。"
+description: "下载区：本站提供的名录 CSV、JSON 结构化数据、参考文献清单等文件，由仓库 downloads/ 目录自动列出，可见文件大小与更新时间。｜本站《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》（2026.10.30 最终版），全站收录 13 科、18 亚科、326 属、3021 种、68 亚种的现生类群。"
 lang: zh-CN
 author: 班奈特格林
 permalink: /download/

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guestbook — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "Guestbook: leave your nickname (GitHub account) and a message."
+description: "Guestbook: leave your nickname (GitHub account) and a message for the author and other readers about using the checklist, or suggest corrections and additions."
 lang: en
 author: 班奈特格林 (Bennet Green)
 permalink: /en/guestbook/

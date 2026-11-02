@@ -9,6 +9,12 @@ description: >-
   双语（中文/English）
   现存等翅下目（白蚁）现生类群对照名录：13 科、18 亚科、326 属、3021 种、68 亚种。
   提供名录检索、各阶元物种数统计，并按类群拆分的结构化数据（JSON-LD）。
+# 各语言兜底 meta description（150–160 字，Bing 建议的描述长度）。
+# 只有既没有手写 description、也不是物种页/文章页的页面才会用到（见 _includes/meta-description.html）。
+# 上面那段 description 仍保持原样：feed.xml 用 description 作 <subtitle>，请不要改动它。
+description_zh: "双语（中文/English）现存等翅下目（白蚁）现生类群对照名录：收录 13 科、18 亚科、326 属、3021 种、68 亚种，提供拉丁学名—中文正名检索、各阶元物种数统计、模式产地与分布地图、同属物种对照，并按类群提供 JSON-LD 结构化数据与 GB/T 7714、BibTeX、RIS 引用格式。"
+description_en: "Bilingual (Chinese/English) list of all 3,021 extant termite species and 68 subspecies in 13 families: Latin and Chinese names, type localities, citations."
+description_es: "Lista bilingüe (chino/inglés) de las 3.021 especies y 68 subespecies actuales de termitas en 13 familias: nombres latinos y chinos, localidades típicas y citas."
 lang: zh-CN
 author: 班奈特格林
 # Jekyll 标准站点地址：canonical、sitemap.xml、以及所有绝对链接都由 url + baseurl 拼接。

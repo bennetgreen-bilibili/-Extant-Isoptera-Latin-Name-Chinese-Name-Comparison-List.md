@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Literature search — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: Search termite literature by Latin name, Chinese name or multiple keywords; termite-only scope by default, multi-keyword matching, synonyms, Chinese-only filtering, abstracts and GB/T 7714 / BibTeX / RIS export.
+description: "Search termite literature by Latin name, Chinese name or several keywords: synonyms, Chinese-only filter, abstracts and GB/T 7714, BibTeX and RIS export."
 lang: en
 author: 班奈特格林
 date: 2026-10-30

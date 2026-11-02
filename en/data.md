@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Structured Data — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "Machine-readable structured data (JSON) for the extant Isoptera (termite) checklist: the entry point data/index.json holds the full taxonomic tree; the rest is split into 22 files by clade/family/subfamily."
+description: "Machine-readable JSON data: data/index.json holds the full taxonomic tree and 22 further files split it by clade, family and subfamily. — Latin–Chinese list."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17

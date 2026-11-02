@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Release changelog — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "Release history of the checklist: each version number is its publication date (YYYY.MM.DD), with data changes, archive files and DOIs listed; subscribe via Atom."
+description: "Release history of the checklist: each version is its publication date (YYYY.MM.DD), with data changes, archive files and DOIs, plus an Atom feed for updates."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29

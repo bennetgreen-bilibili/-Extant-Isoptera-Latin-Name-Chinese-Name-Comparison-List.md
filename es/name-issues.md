@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Discrepancias de nombres y cola de revisión — Isópteros actuales (termitas), lista comparativa latín–chino
-description: "Lista filtrable de discrepancias entre esta lista y GBIF Backbone, Catalogue of Life y Blattodea Species File: sinónimos externos, coincidencias ambiguas y vacíos de cobertura, con descarga CSV."
+description: "Comparación de nombres con GBIF Backbone, Catalogue of Life y Blattodea Species File: sinónimos, coincidencias ambiguas y vacíos de cobertura, con descarga CSV."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29

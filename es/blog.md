@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog — isópteros (termitas) actuales: artículos y notas"
-description: "Artículos y notas de actualización del autor, ordenados del más reciente al más antiguo."
+description: "Blog del autor: notas de versión del listado, comentarios sobre la cobertura por familia y subfamilia, y guías de lectura, de lo más reciente a lo más antiguo."
 lang: es
 author: 班奈特格林 (Bennet Green)
 permalink: /es/blog/

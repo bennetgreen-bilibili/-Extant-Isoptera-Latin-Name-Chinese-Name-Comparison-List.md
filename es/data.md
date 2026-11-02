@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Datos estructurados — isópteros (termitas) actuales: lista comparativa latín–chino"
-description: "Datos estructurados legibles por máquina (JSON) del listado de isópteros (termitas) actuales: el punto de entrada data/index.json contiene el árbol taxonómico completo; el resto está dividido en 22 archivos por clado/familia/subfamilia."
+description: "Datos JSON legibles por máquina: data/index.json contiene el árbol taxonómico completo y otros 22 archivos lo dividen por clado, familia y subfamilia."
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17

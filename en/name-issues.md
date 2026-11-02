@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Name discrepancies and review queue — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
-description: "A filterable list of name-level mismatches between this checklist and GBIF Backbone, Catalogue of Life and the Blattodea Species File: external synonyms, ambiguous matches and coverage gaps, with CSV download."
+description: "Name-level comparison with GBIF Backbone, Catalogue of Life and the Blattodea Species File: synonyms, ambiguous matches and coverage gaps, CSV export."
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29
