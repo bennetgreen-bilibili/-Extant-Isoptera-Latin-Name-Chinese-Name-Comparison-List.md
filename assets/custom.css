@@ -459,6 +459,29 @@ body.search-overlay-open{overflow:hidden}
 .authority-report-note{font-size:.82em;color:var(--muted);margin:.35em 0 0;line-height:1.65}
 /* 打印时随上面的隐藏清单一起隐藏（放在同一 @media print 块里，别另起一个块） */
 
+/* ===== 科／亚科／属聚合页（.github/workflows/build_taxonomy_pages.py 生成） ===== */
+.taxon-page{max-width:960px;margin:0 auto}
+.taxon-crumbs{font-size:.9em;color:var(--muted);line-height:1.7;margin:0 0 .8em;word-break:break-word}
+.taxon-crumbs a{color:var(--accent-strong);text-decoration:none}
+.taxon-crumbs a:hover{text-decoration:underline}
+.taxon-header{margin:0 0 1.2em}
+.taxon-header h1{font-size:1.7em;line-height:1.35;margin:.2em 0}
+.taxon-header h1 i{font-style:italic;font-weight:600}
+.taxon-meta{color:var(--muted);font-size:.92em;margin:.2em 0 0}
+.taxon-section{margin:1.6em 0}
+.taxon-section h2{font-size:1.2em;border-bottom:1px solid #e3e3e3;padding-bottom:.25em;margin-bottom:.6em}
+.taxon-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.3em .9em}
+.taxon-list li{line-height:1.7;font-size:.95em}
+.taxon-list a{color:var(--accent-strong);text-decoration:none}
+.taxon-list a:hover{text-decoration:underline}
+.taxon-list a i{font-style:italic}
+.taxon-count{color:var(--muted);font-size:.85em;margin-left:.35em;white-space:nowrap}
+.taxon-type{color:var(--accent-strong);font-size:.82em;margin-left:.3em;white-space:nowrap}
+.taxon-sub{display:block;padding-left:1.1em;font-size:.88em;color:var(--muted)}
+.taxon-more,.taxon-back{font-size:.92em;color:var(--muted);margin:.6em 0 0}
+@media (max-width:600px){.taxon-list{grid-template-columns:1fr}}
+
+
 
 
 

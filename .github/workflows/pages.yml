@@ -48,6 +48,10 @@ jobs:
       - name: Build species page bodies
         run: python .github/workflows/build_species_body.py --write
 
+      # 科／亚科／属聚合页（/family/、/subfamily/、/genus/）：从 _species front matter 确定性生成
+      - name: Build family / subfamily / genus hub pages
+        run: python .github/workflows/build_taxonomy_pages.py
+
       - name: Build sitemap.txt
         run: python .github/workflows/build_sitemap_txt.py
 
@@ -192,6 +196,9 @@ jobs:
               ("/changelog.atom", None),
               ("/changelog/", "2026.10.30"),
               ("/list/name-issues/", "ni-row"),
+              ("/family/termitidae/", "TERMITIDAE"),
+              ("/subfamily/macrotermitinae/", "Macrotermitinae"),
+              ("/genus/mastotermes/", "Mastotermes darwiniensis"),
           ]
           UA = {"User-Agent": "isoptera-site-verify/1.0 (GitHub Actions deploy check)"}
 

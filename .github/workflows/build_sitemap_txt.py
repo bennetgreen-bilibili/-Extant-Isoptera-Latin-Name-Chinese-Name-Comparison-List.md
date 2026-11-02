@@ -96,7 +96,12 @@ def discover_pages() -> list[str]:
             continue
         if rel.parts[0] in SKIP_DIRS:
             continue
-        if path.name.startswith("_") or front_matter(path) is None:
+        if path.name.startswith("_"):
+            continue
+        fm = front_matter(path)
+        if fm is None:
+            continue
+        if re.search(r"^sitemap:\s*false\s*$", fm, re.MULTILINE):
             continue
         urls.append(page_url(path))
     return urls

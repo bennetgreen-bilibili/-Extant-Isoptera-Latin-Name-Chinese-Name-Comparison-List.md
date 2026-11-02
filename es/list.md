@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Listado — isópteros (termitas) actuales: nombres latinos y nombres chinos"
+title: Listado — nombres latinos y chinos
 description: "Listado completo de 3.021 especies y 68 subespecies de termitas: nombres latinos y chinos, autores, localidades típicas, distribución y especies tipo."
 lang: es
 author: 班奈特格林 (Bennet Green)
@@ -37,6 +37,26 @@ Debajo siguen **Familia** → **Subfamilia** → **Género** → **Especie**; la
 <p class="search-hint search-hint-board">El cotejo con GBIF / Catalogue of Life / Blattodea Species File marca <strong>{{ site.data.name_issues.meta.counts.total }}</strong> filas que requieren decisión humana ({{ site.data.name_issues.meta.counts.by_group.conflict }} conflictos → {{ site.data.name_issues.meta.counts.conflict_pairs }} pares: {{ site.data.name_issues.meta.counts.pairs_relation_combination }} diferencias de combinación · {{ site.data.name_issues.meta.counts.pairs_direction_site }} con nuestro nombre receptor · {{ site.data.name_issues.meta.counts.pairs_recorded }} registrados · {{ site.data.name_issues.meta.counts.by_group.match }} inciertas · {{ site.data.name_issues.meta.counts.by_group.gap }} vacíos): <a href="{{ site.base_url }}/es/list/name-issues/"><strong>discrepancias de nombres →</strong></a></p>
 
 {% include distribution-notes.html %}
+
+<h2 id="by-family">Navegar por familia (13 familias)</h2>
+
+<p>Cada una de las 13 familias tiene su página con todos los enlaces a subfamilias, géneros y especies, con sus recuentos:</p>
+
+<ul class="taxon-list family-browse">
+<li><a href="{{ site.base_url }}/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
+<li><a href="{{ site.base_url }}/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a> <span class="taxon-count">2 géneros · 5 especies</span></li>
+<li><a href="{{ site.base_url }}/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a> <span class="taxon-count">3 géneros · 21 especies</span></li>
+<li><a href="{{ site.base_url }}/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
+<li><a href="{{ site.base_url }}/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a> <span class="taxon-count">2 géneros · 10 especies</span></li>
+<li><a href="{{ site.base_url }}/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a> <span class="taxon-count">23 géneros · 480 especies</span></li>
+<li><a href="{{ site.base_url }}/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a> <span class="taxon-count">2 géneros · 18 especies</span></li>
+<li><a href="{{ site.base_url }}/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a> <span class="taxon-count">5 géneros · 62 especies</span></li>
+<li><a href="{{ site.base_url }}/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a> <span class="taxon-count">2 géneros · 3 especies</span></li>
+<li><a href="{{ site.base_url }}/family/stylotermitidae/"><i>STYLOTERMITIDAE</i> 杆白蚁科</a> <span class="taxon-count">1 géneros · 45 especies</span></li>
+<li><a href="{{ site.base_url }}/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a> <span class="taxon-count">1 géneros · 2 especies</span></li>
+<li><a href="{{ site.base_url }}/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a> <span class="taxon-count">3 géneros · 229 especies</span></li>
+<li><a href="{{ site.base_url }}/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a> <span class="taxon-count">280 géneros · 2144 especies</span></li>
+</ul>
 
 <h2 id="toc">Contenido</h2>
 

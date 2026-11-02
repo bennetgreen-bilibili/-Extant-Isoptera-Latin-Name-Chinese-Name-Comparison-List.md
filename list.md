@@ -38,6 +38,26 @@ permalink: /list/
 
 {% include distribution-notes.html %}
 
+<h2 id="by-family">按科浏览（13 科）</h2>
+
+<p>13 个科均可单独浏览，每页列出该科的全部亚科、属与物种链接及各级数量：</p>
+
+<ul class="taxon-list family-browse">
+<li><a href="{{ site.base_url }}/family/mastotermitidae/">澳白蚁科 <i>MASTOTERMITIDAE</i></a> <span class="taxon-count">1 属 · 1 种</span></li>
+<li><a href="{{ site.base_url }}/family/archotermopsidae/">古白蚁科 <i>ARCHOTERMOPSIDAE</i></a> <span class="taxon-count">2 属 · 5 种</span></li>
+<li><a href="{{ site.base_url }}/family/hodotermitidae/">草白蚁科 <i>HODOTERMITIDAE</i></a> <span class="taxon-count">3 属 · 21 种</span></li>
+<li><a href="{{ site.base_url }}/family/hodotermopsidae/">原白蚁科 <i>HODOTERMOPSIDAE</i></a> <span class="taxon-count">1 属 · 1 种</span></li>
+<li><a href="{{ site.base_url }}/family/stolotermitidae/">胄白蚁科 <i>STOLOTERMITIDAE</i></a> <span class="taxon-count">2 属 · 10 种</span></li>
+<li><a href="{{ site.base_url }}/family/kalotermitidae/">木白蚁科 <i>KALOTERMITIDAE</i></a> <span class="taxon-count">23 属 · 480 种</span></li>
+<li><a href="{{ site.base_url }}/family/psammotermitidae/">沙白蚁科 <i>PSAMMOTERMITIDAE</i></a> <span class="taxon-count">2 属 · 18 种</span></li>
+<li><a href="{{ site.base_url }}/family/rhinotermitidae/">鼻白蚁科 <i>RHINOTERMITIDAE</i></a> <span class="taxon-count">5 属 · 62 种</span></li>
+<li><a href="{{ site.base_url }}/family/serritermitidae/">齿白蚁科 <i>SERRITERMITIDAE</i></a> <span class="taxon-count">2 属 · 3 种</span></li>
+<li><a href="{{ site.base_url }}/family/stylotermitidae/">杆白蚁科 <i>STYLOTERMITIDAE</i></a> <span class="taxon-count">1 属 · 45 种</span></li>
+<li><a href="{{ site.base_url }}/family/termitogetonidae/">寡脉白蚁科 <i>TERMITOGETONIDAE</i></a> <span class="taxon-count">1 属 · 2 种</span></li>
+<li><a href="{{ site.base_url }}/family/heterotermitidae/">异白蚁科 <i>HETEROTERMITIDAE</i></a> <span class="taxon-count">3 属 · 229 种</span></li>
+<li><a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>TERMITIDAE</i></a> <span class="taxon-count">280 属 · 2144 种</span></li>
+</ul>
+
 <h2 id="toc">目录</h2>
 
 - [现存等翅下目 Extant Isoptera](#isoptera)

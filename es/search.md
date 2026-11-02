@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Búsqueda en todo el sitio — Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos
+title: Búsqueda en todo el sitio
 description: "Búsqueda de texto completo en el listado, las 3089 páginas de especies, estadísticas, datos y blog: chino (también tradicional), nombres latinos y pinyin."
 lang: es
 author: 班奈特格林
@@ -8,6 +8,8 @@ date: 2026-10-17
 version: 2026.10.30
 keywords: [termitas, Isoptera, búsqueda, texto completo, Pagefind]
 permalink: /es/search/
+noindex: true
+sitemap: false
 pagefind: true
 ---
 

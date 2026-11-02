@@ -1,0 +1,63 @@
+{%- comment -%}
+  数据集结构化数据（Dataset）。与首页 index.md 内联的 Dataset 用同一个 @id（#dataset），
+  让 /data/ 页与首页指向同一个实体；三语 /data/ 页共用此模板，靠 page.lang 切换语言字段。
+{%- endcomment -%}
+{%- assign ds_lang = 'zh-CN' -%}
+{%- assign ds_name = '现存等翅下目（白蚁）拉丁学名—中文正名对照名录' -%}
+{%- assign ds_desc = '现存等翅下目（白蚁）现生类群对照名录：13 科、18 亚科、326 属、3021 种、68 亚种。数据按支系/科/亚科拆分，入口 data/index.json 含完整分类树。' -%}
+{%- assign name_suffix = site.dataset.version | prepend: '（' | append: '）' -%}
+{%- if page.lang == 'en' -%}
+  {%- assign ds_lang = 'en' -%}
+  {%- assign ds_name = 'Extant Isoptera (Termites) — Latin–Chinese Name Comparison List' -%}
+  {%- assign ds_desc = 'A checklist of extant termites (Isoptera): 13 families, 18 subfamilies, 326 genera, 3021 species and 68 subspecies. Data are split by clade, family and subfamily; data/index.json holds the full tree.' -%}
+  {%- assign name_suffix = site.dataset.version | prepend: ' (' | append: ')' -%}
+{%- elsif page.lang == 'es' -%}
+  {%- assign ds_lang = 'es' -%}
+  {%- assign ds_name = 'Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos' -%}
+  {%- assign ds_desc = 'Lista de termitas actuales (Isoptera): 13 familias, 18 subfamilias, 326 géneros, 3021 especies y 68 subespecies. Los datos se dividen por clado, familia y subfamilia; data/index.json contiene el árbol completo.' -%}
+  {%- assign name_suffix = site.dataset.version | prepend: ' (' | append: ')' -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "{{ site.base_url }}/#dataset",
+  "name": {{ ds_name | append: name_suffix | jsonify }},
+  "alternateName": "Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List",
+  "description": {{ ds_desc | jsonify }},
+  "url": "{{ site.base_url }}/data/",
+  "creator": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }}
+  },
+  "license": {{ site.dataset.license_url | jsonify }},
+  "inLanguage": {{ ds_lang | jsonify }},
+  "version": "{{ site.dataset.version }}",
+  "datePublished": "2026-10-13",
+  "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
+{%- if site.dataset.doi %}
+  "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": "{{ site.dataset.doi }}" },
+  "sameAs": "https://doi.org/{{ site.dataset.doi }}",
+{%- endif %}
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "name": "分类树与文件清单 index.json",
+      "contentUrl": "{{ site.base_url }}/data/index.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "name": "完整名录 isoptera-data.json",
+      "contentUrl": "{{ site.base_url }}/isoptera-data.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/zip",
+      "name": "版本归档 {{ site.dataset.version }}",
+      "contentUrl": "{{ site.base_url }}/{{ site.dataset.archive_file }}"
+    }
+  ]
+}
+</script>

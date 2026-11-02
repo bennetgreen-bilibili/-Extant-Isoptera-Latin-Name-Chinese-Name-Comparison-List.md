@@ -1,0 +1,25 @@
+{%- comment -%} 文章结构化数据（BlogPosting）：发布/更新时间与作者，供搜索结果富摘要使用 {%- endcomment -%}
+{%- assign post_canonical = site.base_url | append: page.url -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "{{ post_canonical }}#article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: page.excerpt | strip_html | normalize_whitespace | strip | jsonify }},
+  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date: '%Y-%m-%d' }}",
+  "inLanguage": "{{ page.lang | default: 'zh-CN' }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.author | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title_zh | jsonify }}
+  },
+  "mainEntityOfPage": "{{ post_canonical }}",
+  "isPartOf": { "@id": "{{ site.base_url }}/#website" },
+  "image": "{{ site.base_url }}/assets/images/mastotermitidae.jpg"
+}
+</script>

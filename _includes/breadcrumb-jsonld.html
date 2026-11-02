@@ -1,0 +1,43 @@
+{%- comment -%}
+  面包屑结构化数据（BreadcrumbList）。大多数页面只有「首页 › 本页」两级，由模板兜底生成；
+  新生成的分类聚合页（family/、subfamily/、genus/）在 front matter 里写 breadcrumb 列表，
+  不含首页（本模板自动补第一项），例如：
+    breadcrumb:
+      - name: 名录
+        url: /list/
+      - name: 白蚁科 TERMITIDAE
+        url: /family/termitidae/
+  首页不输出（首页没有上级）。
+{%- endcomment -%}
+{%- if page.url != '/' -%}
+{%- assign home_url = '/' -%}
+{%- assign home_name = '首页' -%}
+{%- if page.lang == 'en' -%}
+  {%- assign home_url = '/en/' -%}{%- assign home_name = 'Home' -%}
+{%- elsif page.lang == 'es' -%}
+  {%- assign home_url = '/es/' -%}{%- assign home_name = 'Inicio' -%}
+{%- endif -%}
+{%- capture crumb_seed -%}{"@type": "ListItem", "position": 1, "name": {{ home_name | jsonify }}, "item": "{{ site.base_url }}{{ home_url }}"}{%- endcapture -%}
+{%- assign crumb_json = crumb_seed -%}
+{%- assign crumb_pos = 1 -%}
+{%- if page.breadcrumb -%}
+  {%- for crumb in page.breadcrumb -%}
+    {%- assign crumb_pos = crumb_pos | plus: 1 -%}
+    {%- assign crumb_url = crumb.url | default: page.url -%}
+    {%- capture crumb_piece -%},{"@type": "ListItem", "position": {{ crumb_pos }}, "name": {{ crumb.name | jsonify }}, "item": "{{ site.base_url }}{{ crumb_url }}"}{%- endcapture -%}
+    {%- assign crumb_json = crumb_json | append: crumb_piece -%}
+  {%- endfor -%}
+{%- else -%}
+  {%- assign crumb_pos = 2 -%}
+  {%- capture crumb_piece -%},{"@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }}, "item": "{{ canonical_url }}"}{%- endcapture -%}
+  {%- assign crumb_json = crumb_json | append: crumb_piece -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "{{ canonical_url }}#breadcrumb",
+  "itemListElement": [{{ crumb_json }}]
+}
+</script>
+{%- endif -%}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Búsqueda bibliográfica — Isópteros actuales (termitas) lista comparativa latín–chino
+title: Búsqueda bibliográfica
 description: "Busque literatura de termitas por nombre latino, nombre chino o palabras clave: sinónimos, filtro solo chino, resúmenes y exportación GB/T 7714, BibTeX y RIS."
 lang: es
 author: 班奈特格林

@@ -48,6 +48,12 @@ defaults:
       layout: species
       lang: zh-CN
       author: 班奈特格林
+  -
+    scope:
+      path: ""
+    values:
+      # 全站统一的数据版本日期：sitemap.xml 的 <lastmod> 与结构化为 dateModified 用
+      last_modified_at: 2026-10-30
   # ---------------------------------------------------------------------------
   # sitemap.xml 收录范围（与 sitemap.txt 对齐）
   # GitHub Pages 的默认插件会把「没有 front matter 的 Markdown / HTML」也渲染成页面

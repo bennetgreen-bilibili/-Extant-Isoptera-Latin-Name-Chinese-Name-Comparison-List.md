@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Full-site search — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+title: Full-site search
 description: "Full-text search across the checklist, 3089 species pages, statistics, data and blog: Chinese (traditional too), Latin names and pinyin, run in the browser."
 lang: en
 author: 班奈特格林
@@ -8,6 +8,8 @@ date: 2026-10-17
 version: 2026.10.30
 keywords: [termites, Isoptera, search, full-text, Pagefind]
 permalink: /en/search/
+noindex: true
+sitemap: false
 pagefind: true
 ---
 

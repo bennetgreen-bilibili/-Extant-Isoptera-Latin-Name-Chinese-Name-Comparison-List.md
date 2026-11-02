@@ -1,8 +1,9 @@
 {%- comment -%}
-  页面 meta description（150–160 字）。
+  页面 meta description 的取值逻辑（只输出文本，不输出 <meta> 标签）。
+  由 _layouts/default.html 用 {% capture %} 取到 meta_desc 后，同时写给
+  <meta name="description">、og:description、twitter:description，保证三处完全一致。
   背景：Bing 站长工具的 SEO 报告会把「描述过短」的页面逐条列出，并建议取 150–160 字；
-  统计口径是字符数（Ruby String#length），中英文一致。本文件是唯一输出 <meta name="description">
-  的地方，取值顺序：
+  统计口径是字符数（Ruby String#length），中英文一致。取值顺序：
 
     1) front matter 手写的 description —— 站点各栏目页（首页/名录/统计/数据/文献…）都手写，
        便于逐页打磨措辞；
@@ -47,4 +48,4 @@
   {%- endif -%}
   {%- assign meta_desc = meta_desc | truncate: 160, '…' -%}
 {%- endif -%}
-<meta name="description" content="{{ meta_desc | escape }}">
+{{- meta_desc -}}

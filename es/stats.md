@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Estadísticas — isópteros (termitas) actuales: número de especies por rango"
+title: Estadísticas — número de especies por rango
 description: "Recuento de especies del listado de isópteros actuales: 13 familias, 18 subfamilias, 326 géneros, 3.021 especies y 68 subespecies, con tablas detalladas."
 lang: es
 author: 班奈特格林 (Bennet Green)

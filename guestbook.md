@@ -5,6 +5,8 @@ description: "留言板：留下昵称（GitHub 账号）与想说的话，与�
 lang: zh-CN
 author: 班奈特格林
 permalink: /guestbook/
+noindex: true
+sitemap: false
 ---
 
 # 留言

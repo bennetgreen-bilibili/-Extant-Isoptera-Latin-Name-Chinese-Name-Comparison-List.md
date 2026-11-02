@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Isópteros actuales (termitas): lista comparativa de nombres latinos y chinos"
+title: "Isópteros actuales (termitas): nombres latinos y chinos"
 description: "Punto de entrada al listado de las 3.021 especies y 68 subespecies actuales de Isoptera (termitas) en 13 familias, con búsqueda, estadísticas y datos JSON-LD."
 lang: es
 author: 班奈特格林 (Bennet Green)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+title: Blog
 description: "Author's blog: the checklist's release notes, notes on taxonomic coverage by family and subfamily, and literature guides, newest first, with an Atom feed."
 lang: en
 author: 班奈特格林 (Bennet Green)

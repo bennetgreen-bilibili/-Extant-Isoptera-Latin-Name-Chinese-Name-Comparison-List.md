@@ -4,7 +4,7 @@ layout: default
 <article class="species-page">
   <nav class="species-crumbs" aria-label="分类位置">
     <a href="{{ site.base_url }}/list/">名录 <span class="fact-en" lang="en">List</span> <span class="fact-es" lang="es">Listado</span></a>
-    › <a href="{{ site.base_url }}/list/#{{ page.family_id }}">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/list/#{{ page.subfamily_id }}">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/list/#{{ page.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a>
+    › <a href="{{ site.base_url }}/family/{{ page.family_id }}/">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/subfamily/{{ page.subfamily_id }}/">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a>
   </nav>
 
   <h1 class="species-title" data-pagefind-filter="rank:{{ page.rank }}" data-pagefind-meta="zh:{{ page.zh }}"><i class="species-latin">{{ page.latin }}</i>{% if page.author_year %} <span class="species-author">{{ page.author_year }}</span>{% endif %} <span class="species-zh">{{ page.zh }}</span></h1>
@@ -66,7 +66,7 @@ layout: default
         {%- endif -%}
       {%- endfor -%}
     </ul>
-    <p class="sibling-more">{%- if sibling_total > shown -%}该属共 {{ sibling_total }} 种，{%- endif -%}<a href="{{ site.base_url }}/list/#{{ page.genus_id }}">在名录中查看 {{ page.genus_zh }} 的全部物种 →</a></p>
+    <p class="sibling-more">{%- if sibling_total > shown -%}该属共 {{ sibling_total }} 种，{%- endif -%}<a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">在 {{ page.genus_zh }} <i>{{ page.genus_latin }}</i> 属页面查看全部物种 →</a></p>
   </section>
   {%- endif -%}
   {%- endif -%}

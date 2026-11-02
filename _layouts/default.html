@@ -4,13 +4,78 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- comment -%}
-  标签页标题：只保留本页语言，不做双语拼接；另一种语言只出现在页头副行（.hero-title-alt），
-  换语言用页头的语言切换（中文 / English / Español）。
+  标签页标题（<title>）：只保留本页语言，不做双语拼接；另一种语言只出现在页头副行（.hero-title-alt），
+  换语言用页头的语言切换（中文 / English / Español）。模板规则：
+    · 物种页（_species/ 下 3089 条）：中文正名（拉丁学名）— 白蚁名录。不用 front matter 的 title，
+      那里带着命名人年份（例："Anacanthotermes ahngerianus Jacobson, 1905 安格无刺白蚁"），
+      直接当 <title> 会长到 99 字；命名人年份仍出现在 H1 与 JSON-LD 里。
+    · 首页：front matter 的 title 本身就是完整站点名，原样使用。
+    · 其余栏目页：front matter 的 title 已含站点名就不再加品牌，否则追加语言品牌名——
+      把 20 字左右的过短标题补到 25–50 字，同时避免重复站点名。
 {%- endcomment -%}
-<title>{{ page.title }}</title>
-{%- comment -%} 页面描述统一由 _includes/meta-description.html 输出：手写 description → 物种页自动拼唯一描述 → 文章 excerpt → 站点按语言兜底，长度 150–160 字 {%- endcomment -%}
-{% include meta-description.html %}
-<link rel="canonical" href="{{ site.base_url }}{{ page.url }}">
+{%- assign lang_brand = '白蚁名录' -%}
+{%- if page.lang == 'en' -%}{%- assign lang_brand = 'Termite Checklist' -%}
+{%- elsif page.lang == 'es' -%}{%- assign lang_brand = 'Lista de termitas' -%}
+{%- endif -%}
+{%- assign seo_title = page.title -%}
+{%- if page.collection == 'species' -%}
+  {%- assign seo_title = page.zh | append: '（' | append: page.latin | append: '） — 白蚁名录' -%}
+{%- elsif page.url == '/' or page.url == '/en/' or page.url == '/es/' -%}
+{%- elsif seo_title contains site.title_zh or seo_title contains site.title_en or seo_title contains site.title_es -%}
+{%- else -%}
+  {%- assign seo_title = seo_title | append: ' — ' | append: lang_brand -%}
+{%- endif -%}
+<title>{{ seo_title }}</title>
+{%- comment -%} 页面描述：手写 description → 物种页自动拼唯一描述 → 文章 excerpt → 站点按语言兜底（150–160 字），逻辑见 _includes/meta-description-value.html {%- endcomment -%}
+{%- capture meta_desc -%}{%- include meta-description-value.html -%}{%- endcapture -%}
+{%- assign meta_desc = meta_desc | strip -%}
+{%- assign canonical_url = site.base_url | append: page.url -%}
+{%- comment -%} 社交分享图：物种页优先 iNaturalist 照片（_data/species_photos.json），否则用所在科/亚科照片，最后兜底站点首图 {%- endcomment -%}
+{%- assign og_image = page.image -%}
+{%- if og_image == nil or og_image == '' -%}
+  {%- if page.collection == 'species' -%}
+    {%- assign og_photos = site.data.species_photos.species[page.latin] -%}
+    {%- if og_photos and og_photos.size > 0 -%}
+      {%- assign og_image = og_photos[0].src -%}
+    {%- else -%}
+      {%- assign og_image = site.data.taxonomy_images.family[page.family_id] | default: '/assets/images/mastotermitidae.jpg' -%}
+    {%- endif -%}
+  {%- elsif page.collection -%}
+    {%- assign og_image = '/assets/images/mastotermitidae.jpg' -%}
+  {%- elsif page.family_id -%}
+    {%- assign og_image = site.data.taxonomy_images.family[page.family_id] | default: '/assets/images/mastotermitidae.jpg' -%}
+  {%- else -%}
+    {%- assign og_image = '/assets/images/mastotermitidae.jpg' -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if og_image contains '://' -%}{%- assign og_image_abs = og_image -%}{%- else -%}{%- assign og_image_abs = site.base_url | append: og_image -%}{%- endif -%}
+{%- assign og_locale = 'zh_CN' -%}
+{%- assign og_site_name = site.title_zh -%}
+{%- if page.lang == 'en' -%}{%- assign og_locale = 'en_US' -%}{%- assign og_site_name = site.title_en -%}
+{%- elsif page.lang == 'es' -%}{%- assign og_locale = 'es_ES' -%}{%- assign og_site_name = site.title_es -%}
+{%- endif -%}
+<meta name="description" content="{{ meta_desc | escape }}">
+<meta name="robots" content="{% if page.noindex %}noindex, follow{% else %}index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1{% endif %}">
+<meta name="author" content="{{ site.author }}">
+<link rel="canonical" href="{{ canonical_url }}">
+<meta property="og:site_name" content="{{ og_site_name }}">
+<meta property="og:type" content="{% if page.layout == 'post' or page.collection == 'species' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ seo_title | escape }}">
+<meta property="og:description" content="{{ meta_desc | escape }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:locale" content="{{ og_locale }}">
+<meta property="og:image" content="{{ og_image_abs }}">
+<meta property="og:image:alt" content="{{ seo_title | escape }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_title | escape }}">
+<meta name="twitter:description" content="{{ meta_desc | escape }}">
+<meta name="twitter:image" content="{{ og_image_abs }}">
+{%- if page.layout == 'post' or page.collection == 'species' %}
+<meta property="article:author" content="{{ page.author | default: site.author }}">
+{%- if page.date %}
+<meta property="article:published_time" content="{{ page.date | date: '%Y-%m-%d' }}">
+{%- endif %}
+{%- endif %}
 {% if site.dataset.doi %}{%- comment -%} FAIR signposting：站点页面指向数据集 DOI，便于 DataCite / Google Dataset Search 关联 {%- endcomment -%}
 <link rel="cite-as" href="https://doi.org/{{ site.dataset.doi }}">
 <link rel="describedby" type="application/vnd.datacite.datacite+xml" href="{{ site.base_url }}/dataset/datacite-metadata.xml">
@@ -25,7 +90,7 @@
 {%- comment -%} 只有名录主页面才加载地图 / 文献增强与名录排版；/list/ 的子页面（如 /list/name-issues/）不继承这些资源 {%- endcomment -%}
 {%- assign is_list_page = false -%}{%- if path_no_lang == '/list/' -%}{%- assign is_list_page = true -%}{%- endif -%}
 {%- assign is_papers_page = false -%}{%- if path_no_lang == '/papers/' -%}{%- assign is_papers_page = true -%}{%- endif -%}
-{% unless page.collection == 'species' %}{% if page.layout == 'post' %}
+{% unless page.collection == 'species' or page.lang_only %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
 {% else %}
@@ -34,6 +99,10 @@
 <link rel="alternate" hreflang="es" href="{{ site.base_url }}/es{{ path_no_lang }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ path_no_lang }}">
 {% endif %}{% endunless %}
+{%- comment -%} 面包屑结构化数据：物种页另有自己的 BreadcrumbList（_includes/species-jsonld.html），此处只覆盖其余页面 {%- endcomment -%}
+{% unless page.collection == 'species' %}{% include breadcrumb-jsonld.html %}{% endunless %}
+{%- comment -%} 数据页（三语 /data/）：输出独立的 Dataset 结构化数据，与首页的 @id 保持一致 {%- endcomment -%}
+{% if path_no_lang == '/data/' %}{% include dataset-jsonld.html %}{% endif %}
 {%- comment -%} 全文搜索页（pagefind: true）：Pagefind 的样式与脚本由 CI 在 _site/pagefind/ 生成 {%- endcomment -%}
 {% if page.pagefind %}<link rel="stylesheet" href="{{ site.base_url }}/pagefind/pagefind-ui.css">
 {% endif %}<link rel="stylesheet" href="{{ site.base_url }}/assets/custom.css?v={{ site.time | date: '%s' }}">
@@ -101,7 +170,7 @@
       <a class="hero-brand" href="{{ site.base_url }}{{ LANGP }}/">{{ T.brand }} <span class="hero-brand-sub">{{ T.brand_sub }}</span></a>
       <div class="hero-actions">
         <span class="hero-version">v{{ site.dataset.version }}</span>
-        {% unless page.collection == 'species' %}<span class="lang-switch-group" role="group" aria-label="Language">
+        {% unless page.collection == 'species' or page.lang_only %}<span class="lang-switch-group" role="group" aria-label="Language">
           {%- if page.lang == 'zh-CN' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['zh-CN'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_zh }}" hreflang="zh-CN" lang="zh-CN">{{ site.data.i18n['zh-CN'].lang_label }}</a>{%- endif -%}
           {%- if page.lang == 'en' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['en'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_en }}" hreflang="en" lang="en">{{ site.data.i18n['en'].lang_label }}</a>{%- endif -%}
           {%- if page.lang == 'es' -%}<span class="lang-switch is-current" aria-current="true">{{ site.data.i18n['es'].lang_label }}</span>{%- else -%}<a class="lang-switch" href="{{ site.base_url }}{{ url_es }}" hreflang="es" lang="es">{{ site.data.i18n['es'].lang_label }}</a>{%- endif -%}

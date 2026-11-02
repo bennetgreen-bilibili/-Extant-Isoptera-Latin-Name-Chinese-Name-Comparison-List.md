@@ -1,0 +1,60 @@
+---
+layout: default
+title: "异白蚁属 Heterotermes 物种名录"
+description: "异白蚁属（Heterotermes）是异白蚁科（HETEROTERMITIDAE）下的一个属，本站收录 31 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。详见完整名录。"
+lang: zh-CN
+lang_only: true
+author: 班奈特格林
+family_id: heterotermitidae
+last_modified_at: 2026-10-30
+permalink: /genus/heterotermes/
+sitemap: true
+image: "/assets/images/heterotermitidae.jpg"
+breadcrumb:
+  - name: "名录"
+    url: "/list/"
+  - name: "异白蚁科 HETEROTERMITIDAE"
+    url: "/family/heterotermitidae/"
+  - name: "异白蚁属 Heterotermes"
+    url: "/genus/heterotermes/"
+---
+<article class="taxon-page">
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#heterotermitidae">异白蚁科</a> › <a href="{{ site.base_url }}/list/#heterotermes">异白蚁属 <i>Heterotermes</i></a> › <span>本属</span></nav>
+<header class="taxon-header">
+<h1>异白蚁属 <i>Heterotermes</i></h1>
+<p class="taxon-meta">异白蚁科 HETEROTERMITIDAE · 31 种</p>
+</header>
+<section class="taxon-section">
+<h2>物种（31 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/heterotermes-aethiopicus/"><i>Heterotermes aethiopicus</i> Sjöstedt, 1911 埃塞俄比亚异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-assu/"><i>Heterotermes assu</i> Constantino, 2000 大异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-aureus/"><i>Heterotermes aureus</i> Snyder, 1920 金黄异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-balwanti/"><i>Heterotermes balwanti</i> Mathur & Chhotani, 1969 巴尔万特异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-brevicatena/"><i>Heterotermes brevicatena</i> Watson & Miller, 1989 短链异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-cardini/"><i>Heterotermes cardini</i> Snyder, 1924 卡丁异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-ceylonicus/"><i>Heterotermes ceylonicus</i> Holmgren, 1911 锡兰异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-convexinotatus/"><i>Heterotermes convexinotatus</i> Snyder, 1924 凸背异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-crinitus/"><i>Heterotermes crinitus</i> Emerson, 1924 密毛异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-ferox/"><i>Heterotermes ferox</i> Froggatt, 1898 好斗异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-gertrudae/"><i>Heterotermes gertrudae</i> Roonwal, 1953 格特鲁德异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-indicola/"><i>Heterotermes indicola</i> Wasmann, 1902 印度异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-intermedius/"><i>Heterotermes intermedius</i> Hill, 1932 中间异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-lauralinearum/"><i>Heterotermes lauralinearum</i> Carrijo, 2020 劳拉利纳异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-longicatena/"><i>Heterotermes longicatena</i> Watson & Miller, 1989 长链异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-longiceps/"><i>Heterotermes longiceps</i> Snyder, 1924 长头异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-maculatus/"><i>Heterotermes maculatus</i> Light, 1933 斑点异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-malabaricus/"><i>Heterotermes malabaricus</i> Snyder, 1933 马拉巴尔异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-occiduus/"><i>Heterotermes occiduus</i> Hill, 1927 西部异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-omanae/"><i>Heterotermes omanae</i> Chhotani, 1988 阿曼异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-pamatatensis/"><i>Heterotermes pamatatensis</i> Kemner, 1934 帕玛塔塔异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-paradoxus/"><i>Heterotermes paradoxus</i> Froggatt, 1898 奇异异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-perfidus/"><i>Heterotermes perfidus</i> Silvestri, 1936 危险异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-philippinensis/"><i>Heterotermes philippinensis</i> Light, 1921 菲律宾异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-platycephalus/"><i>Heterotermes platycephalus</i> Froggatt, 1897 宽头异白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/heterotermes-sulcatus/"><i>Heterotermes sulcatus</i> Mathews, 1977 具沟异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-tenuior/"><i>Heterotermes tenuior</i> Haviland, 1898 细长异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-tenuis/"><i>Heterotermes tenuis</i> Hagen, 1858 细瘦异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-vagus/"><i>Heterotermes vagus</i> Hill, 1927 游荡异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-validus/"><i>Heterotermes validus</i> Hill, 1915 健壮异白蚁</a></li><li><a href="{{ site.base_url }}/species/heterotermes-wittmeri/"><i>Heterotermes wittmeri</i> Chhotani & Bose, 1982 威特默异白蚁</a></li></ul>
+</section>
+<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#heterotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+</article>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Taxon",
+ "@id": "{{ site.base_url }}/genus/heterotermes/#taxon",
+ "name": "Heterotermes",
+ "alternateName": [
+  "异白蚁属"
+ ],
+ "taxonRank": "Genus",
+ "url": "{{ site.base_url }}/genus/heterotermes/",
+ "isPartOf": {
+  "@type": "Dataset",
+  "@id": "{{ site.base_url }}/#dataset"
+ },
+ "version": "{{ site.dataset.version }}",
+ "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
+ "parentTaxon": {
+  "@type": "Taxon",
+  "name": "Heterotermitidae",
+  "alternateName": [
+   "异白蚁科"
+  ],
+  "taxonRank": "Family",
+  "url": "{{ site.base_url }}/family/heterotermitidae/"
+ }
+}
+</script>

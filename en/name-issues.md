@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Name discrepancies and review queue — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+title: Name discrepancies and review queue
 description: "Name-level comparison with GBIF Backbone, Catalogue of Life and the Blattodea Species File: synonyms, ambiguous matches and coverage gaps, CSV export."
 lang: en
 author: 班奈特格林 (Bennet Green)

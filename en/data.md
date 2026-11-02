@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structured Data — Extant Isoptera (Termites) Latin–Chinese Name Comparison List
+title: Structured Data
 description: "Machine-readable JSON data: data/index.json holds the full taxonomic tree and 22 further files split it by clade, family and subfamily. — Latin–Chinese list."
 lang: en
 author: 班奈特格林 (Bennet Green)

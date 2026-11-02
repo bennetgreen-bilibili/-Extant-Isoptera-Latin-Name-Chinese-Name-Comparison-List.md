@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historial de versiones — isópteros actuales, lista comparativa latín–chino
+title: Historial de versiones
 description: "Historial de versiones: cada versión es su fecha de publicación (AAAA.MM.DD), con cambios de datos, archivos de archivo, DOI y suscripción mediante Atom."
 lang: es
 author: 班奈特格林 (Bennet Green)

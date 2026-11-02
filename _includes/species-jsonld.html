@@ -24,8 +24,12 @@
    "taxonRank": {{ rank_label | jsonify }},
    "alternateName": [{{ page.zh | jsonify }}],
    "url": "{{ site.base_url }}{{ page.url }}",
+   {%- if site.dataset.version %}
+   "version": "{{ site.dataset.version }}",
+   "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
+   {%- endif %}
    "isPartOf": {"@type": "Dataset", "@id": "{{ site.base_url }}/#dataset"},
-   "parentTaxon": {% if page.rank == 'subspecies' %}{"@type": "Taxon", "name": {{ page.parent_latin | jsonify }}, "alternateName": [{{ page.parent_zh | jsonify }}], "url": "{{ site.base_url }}/species/{{ page.parent_slug }}/"}{% else %}{"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}/list/#{{ page.genus_id }}"}{% endif %}
+   "parentTaxon": {% if page.rank == 'subspecies' %}{"@type": "Taxon", "name": {{ page.parent_latin | jsonify }}, "alternateName": [{{ page.parent_zh | jsonify }}], "url": "{{ site.base_url }}/species/{{ page.parent_slug }}/"}{% else %}{"@type": "Taxon", "name": {{ page.genus_latin | jsonify }}, "alternateName": [{{ page.genus_zh | jsonify }}], "taxonRank": "Genus", "url": "{{ site.base_url }}/genus/{{ page.genus_id }}/"}{% endif %}
    {%- assign first = true -%}
    {%- if AUTH.gbif.key or AUTH.col.id or AUTH.wd or BSF.valid_otu or BSF.otu -%}
    ,"sameAs": [
@@ -50,13 +54,13 @@
    "@id": "{{ site.base_url }}{{ page.url }}#breadcrumb",
    "itemListElement": [
     {"@type": "ListItem", "position": 1, "name": "名录 List", "item": "{{ site.base_url }}/list/"},
-    {"@type": "ListItem", "position": 2, "name": {{ page.family_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.family_id }}"},
+    {"@type": "ListItem", "position": 2, "name": {{ page.family_zh | jsonify }}, "item": "{{ site.base_url }}/family/{{ page.family_id }}/"},
     {%- if page.subfamily_zh %}
-    {"@type": "ListItem", "position": 3, "name": {{ page.subfamily_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.subfamily_id }}"},
-    {"@type": "ListItem", "position": 4, "name": {{ page.genus_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.genus_id }}"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.subfamily_zh | jsonify }}, "item": "{{ site.base_url }}/subfamily/{{ page.subfamily_id }}/"},
+    {"@type": "ListItem", "position": 4, "name": {{ page.genus_zh | jsonify }}, "item": "{{ site.base_url }}/genus/{{ page.genus_id }}/"},
     {"@type": "ListItem", "position": 5, "name": {{ page.latin | jsonify }}, "item": "{{ site.base_url }}{{ page.url }}"}
     {%- else %}
-    {"@type": "ListItem", "position": 3, "name": {{ page.genus_zh | jsonify }}, "item": "{{ site.base_url }}/list/#{{ page.genus_id }}"},
+    {"@type": "ListItem", "position": 3, "name": {{ page.genus_zh | jsonify }}, "item": "{{ site.base_url }}/genus/{{ page.genus_id }}/"},
     {"@type": "ListItem", "position": 4, "name": {{ page.latin | jsonify }}, "item": "{{ site.base_url }}{{ page.url }}"}
     {%- endif %}
    ]

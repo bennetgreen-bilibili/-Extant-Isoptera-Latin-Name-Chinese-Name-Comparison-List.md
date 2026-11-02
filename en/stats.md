@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Statistics — Extant Isoptera (Termites) species counts by rank
+title: Statistics — species counts by rank
 description: "Species counts for the extant Isoptera checklist: 13 families, 18 subfamilies, 326 genera, 3,021 species, 68 subspecies, with family and genus tables."
 lang: en
 author: 班奈特格林 (Bennet Green)
