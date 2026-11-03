@@ -11,6 +11,7 @@ permalink: /genus/bifiditermes/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/kalotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -36,6 +37,9 @@ breadcrumb:
 <section class="taxon-section taxon-distribution" data-pagefind-ignore>
 <h2>分布图</h2>
 {% include distribution-map.html mode="genus" id="bifiditermes" %}
+</section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="genus" id="bifiditermes" limit=6 more="1" %}
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>属级介绍</h2>

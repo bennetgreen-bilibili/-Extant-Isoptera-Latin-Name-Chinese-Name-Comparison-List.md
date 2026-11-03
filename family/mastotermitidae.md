@@ -11,6 +11,7 @@ permalink: /family/mastotermitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/mastotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="mastotermitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="mastotermitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>澳白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)。模式属为澳白蚁属 Mastotermes Froggatt, 1897（模式种达尔文澳白蚁Mastotermes darwiniensis Froggatt, 1897，原始指定单模式）。科名由模式属名加科级后缀 -idae 构成；Mastotermes 一般释为希腊文 mastos（乳房状突起）与 termes 组合，指蚁后腹部的乳突状构造。本科兵蚁与工蚁外形相近、分化程度低，上颚具端齿与多个缘齿；有翅生殖蚁翅脉呈网状并具发达的臀脉区，是现生白蚁中保留原始特征较多的类群。本科兵蚁头壳圆形、淡红棕色，上颚短粗而端齿长；右上颚缘齿2枚均发达，左上颚仅第1缘齿明显、余者退化（齿式为本科鉴别点，仅见于本科）；兵蚁与工蚁前足基节各具瓣状突起，股节与胫节腹面具成列对生小齿，为本科独有的附肢特征。本名录收录 1 属 1 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/mastotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/mastotermitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/mastotermes/"><i>Mastotermes</i> 澳白蚁属</a> <span class="taxon-count">1 种</span></li></ul>

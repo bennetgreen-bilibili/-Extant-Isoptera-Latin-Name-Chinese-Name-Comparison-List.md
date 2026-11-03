@@ -11,6 +11,7 @@ permalink: /family/stolotermitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/stolotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="stolotermitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="stolotermitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>胄白蚁科由 Holmgren 于 1910 年建立（Holmgren, 1910a: 285）(14)，模式属为胄白蚁属 Stolotermes Hagen, 1858。科名词出模式属 Stolotermes（希腊文 stolos，列队/远征，通俗解释指其列队活动）。本科兵蚁头壳骨化、色素深，上颚长大，跗节4节。本名录收录 2 属 10 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/stolotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/stolotermitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/porotermes/"><i>Porotermes</i> 洞白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/stolotermes/"><i>Stolotermes</i> 胄白蚁属</a> <span class="taxon-count">7 种</span></li></ul>

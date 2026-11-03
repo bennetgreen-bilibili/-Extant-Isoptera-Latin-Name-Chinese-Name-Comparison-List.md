@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{%- comment -%}
+  「全部图片」页（科 / 亚科 / 属 / 种 四级共用）。
+  页面由 .github/workflows/build_photo_pages.py 生成到 photos/<kind>/<id>.md，
+  只给真的有照片的分类单元出页；front matter 里的 photo_kind / photo_id /
+  photo_latin / photo_count / back_url 是这里的唯一输入。
+  种级页展示该种全部照片；科 / 亚科 / 属级页按种分组、每种 6 张并链到种级页。
+{%- endcomment -%}
+<article class="taxon-page photo-page">
+  <nav class="taxon-crumbs" aria-label="分类位置">
+    {%- for crumb in page.breadcrumb -%}
+    <a href="{{ site.base_url }}{{ crumb.url }}">{{ crumb.name }}</a> ›
+    {%- endfor %}
+    <span>全部图片</span>
+  </nav>
+
+  <header class="taxon-header photo-page-header">
+    <h1 class="photo-page-title">{% if page.photo_kind == 'species' %}<i>{{ page.photo_latin }}</i> {{ page.photo_zh }}{% else %}{{ page.photo_zh }} <i>{{ page.photo_latin }}</i>{% endif %} <span class="photo-page-label">全部图片</span></h1>
+    <p class="taxon-meta">{{ page.photo_count }} 张开放许可照片{% if page.photo_species %} · {{ page.photo_species }} 种{% endif %} · 来源 iNaturalist / Wikimedia Commons</p>
+    <p class="taxon-back"><a href="{{ site.base_url }}{{ page.back_url }}">← 返回 {{ page.back_label }}</a></p>
+  </header>
+
+  {%- if page.photo_kind == 'species' -%}
+  {%- assign pp_photos = site.data.species_photos.species[page.photo_latin] -%}
+  {%- assign pp_label = page.photo_latin | append: ' ' | append: page.photo_zh -%}
+  {%- if pp_photos and pp_photos.size > 0 %}
+  <section class="species-gallery" aria-labelledby="photo-gallery-title">
+    <div class="gallery-head">
+      <h2 class="gallery-title" id="photo-gallery-title">{{ page.photo_latin }} {{ page.photo_zh }} <span class="gallery-count">{{ pp_photos.size }} 张</span></h2>
+      <p class="gallery-lead">该种全部开放许可照片。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。</p>
+    </div>
+    <div class="gallery-grid">
+      {%- for photo in pp_photos %}
+      {% include photo-card.html photo=photo label=pp_label %}
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+  {%- else -%}
+  {% include taxon-photos.html kind=page.photo_kind id=page.photo_id limit=6 grouped="1" %}
+  {%- endif -%}
+</article>

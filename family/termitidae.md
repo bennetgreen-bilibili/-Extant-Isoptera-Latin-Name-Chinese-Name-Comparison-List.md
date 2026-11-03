@@ -11,6 +11,7 @@ permalink: /family/termitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -34,6 +35,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="termitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="termitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>白蚁科由 Latreille 于 1802 年建立，模式属为 Termes Linnaeus, 1758；科名由模式属词干 Termit- 加科级后缀 -idae 构成。本名录收录 280 属 2144 种。</p>
@@ -43,6 +47,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/termitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/termitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>亚科（18）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a> <span class="taxon-count">14 个属、194 个种、4 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/apicotermitinae/"><i>Apicotermitinae</i> 尖白蚁亚科</a> <span class="taxon-count">68 个属、241 个种、2 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/crepititermitinae/"><i>Crepititermitinae</i> 响白蚁亚科</a> <span class="taxon-count">1 个属、1 个种</span></li><li><a href="{{ site.base_url }}/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> <span class="taxon-count">28 个属、149 个种、10 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/cylindrotermitinae/"><i>Cylindrotermitinae</i> 圆筒白蚁亚科</a> <span class="taxon-count">2 个属、9 个种</span></li><li><a href="{{ site.base_url }}/subfamily/engelitermitinae/"><i>Engelitermitinae</i> 恩格尔白蚁亚科</a> <span class="taxon-count">1 个属、1 个种</span></li><li><a href="{{ site.base_url }}/subfamily/foraminitermitinae/"><i>Foraminitermitinae</i> 孔白蚁亚科</a> <span class="taxon-count">3 个属、10 个种</span></li><li><a href="{{ site.base_url }}/subfamily/forficulitermitinae/"><i>Forficulitermitinae</i> 剪白蚁亚科</a> <span class="taxon-count">1 个属、1 个种</span></li><li><a href="{{ site.base_url }}/subfamily/macrotermitinae/"><i>Macrotermitinae</i> 大白蚁亚科</a> <span class="taxon-count">12 个属、373 个种、16 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/microcerotermitinae/"><i>Microcerotermitinae</i> 锯白蚁亚科</a> <span class="taxon-count">2 个属、150 个种、7 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/mirocapritermitinae/"><i>Mirocapritermitinae</i> 瘤白蚁亚科</a> <span class="taxon-count">14 个属、135 个种、3 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a> <span class="taxon-count">81 个属、606 个种、10 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/neocapritermitinae/"><i>Neocapritermitinae</i> 新扭白蚁亚科</a> <span class="taxon-count">3 个属、20 个种</span></li><li><a href="{{ site.base_url }}/subfamily/promirotermitinae/"><i>Promirotermitinae</i> 前奇白蚁亚科</a> <span class="taxon-count">2 个属、39 个种、2 个亚种</span></li><li><a href="{{ site.base_url }}/subfamily/protohamitermitinae/"><i>Protohamitermitinae</i> 始钩白蚁亚科</a> <span class="taxon-count">2 个属、2 个种</span></li><li><a href="{{ site.base_url }}/subfamily/sphaerotermitinae/"><i>Sphaerotermitinae</i> 圆球白蚁亚科</a> <span class="taxon-count">1 个属、1 个种</span></li><li><a href="{{ site.base_url }}/subfamily/syntermitinae/"><i>Syntermitinae</i> 聚白蚁亚科</a> <span class="taxon-count">22 个属、105 个种</span></li><li><a href="{{ site.base_url }}/subfamily/termitinae/"><i>Termitinae</i> 白蚁亚科</a> <span class="taxon-count">23 个属、107 个种</span></li></ul>

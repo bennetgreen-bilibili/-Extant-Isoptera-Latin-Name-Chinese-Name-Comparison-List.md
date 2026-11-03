@@ -11,6 +11,7 @@ permalink: /subfamily/amitermitinae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/amitermitinae.jpg"
 breadcrumb:
   - name: "名录"
@@ -42,6 +43,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="subfamily" id="amitermitinae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="subfamily" id="amitermitinae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>亚科级介绍</h2>
 <p>弓白蚁亚科由 Kemner 于 1934 年建立（原始文献第 110 页），模式属为弓白蚁属 Amitermes Silvestri, 1901，亚科名即取自模式属，Amitermes 疑取拉丁语 hami-“钩”＋ termes，指兵蚁弯曲如弓的上颚。本名录收录 14 属 194 种。</p>
@@ -49,6 +53,9 @@ breadcrumb:
 <p>经济上本亚科在西非有明确农作物为害记录：完胜弓白蚁 Amitermes evuncifer（产西非、中非、东非）在贝宁为农户点名的主要作物白蚁之一，在加纳糖料蔗园为复合群落中最常见为害种(40)，在多哥为主要为害白蚁，并见于科特迪瓦可可园与贝宁旱作稻田。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{%- assign fk = site.data.fauna_keys["/subfamily/amitermitinae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（14）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/ahamitermes/"><i>Ahamitermes</i> 无钩白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/amitermes/"><i>Amitermes</i> 弓白蚁属</a> <span class="taxon-count">113 种</span></li><li><a href="{{ site.base_url }}/genus/dentispicotermes/"><i>Dentispicotermes</i> 齿尖白蚁属</a> <span class="taxon-count">6 种</span></li><li><a href="{{ site.base_url }}/genus/drepanotermes/"><i>Drepanotermes</i> 镰白蚁属</a> <span class="taxon-count">24 种</span></li><li><a href="{{ site.base_url }}/genus/eremotermes/"><i>Eremotermes</i> 漠白蚁属</a> <span class="taxon-count">10 种</span></li><li><a href="{{ site.base_url }}/genus/globitermes/"><i>Globitermes</i> 球白蚁属</a> <span class="taxon-count">7 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/gnathamitermes/"><i>Gnathamitermes</i> 颚钩白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/hoplotermes/"><i>Hoplotermes</i> 武白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/incolitermes/"><i>Incolitermes</i> 子民白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/invasitermes/"><i>Invasitermes</i> 闯白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/orthognathotermes/"><i>Orthognathotermes</i> 直颚白蚁属</a> <span class="taxon-count">15 种</span></li><li><a href="{{ site.base_url }}/genus/prohamitermes/"><i>Prohamitermes</i> 前钩白蚁属</a> <span class="taxon-count">2 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/pseudhamitermes/"><i>Pseudhamitermes</i> 伪钩白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/synhamitermes/"><i>Synhamitermes</i> 同钩白蚁属</a> <span class="taxon-count">4 种</span></li></ul>
 </section>

@@ -11,6 +11,7 @@ permalink: /family/psammotermitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/psammotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="psammotermitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="psammotermitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>沙白蚁亚科（Psammotermitinae）由 Holmgren 于 1911 年建立，2024 年系统发育研究将其提升为科（Psammotermitidae）(21)。模式属为 Psammotermes Desneux, 1902；科名由希腊语 psammos（沙）与 termes 组合，指其栖居沙质土壤的习性。本名录收录 2 属 18 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/psammotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/psammotermitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/prorhinotermes/"><i>Prorhinotermes</i> 原鼻白蚁属</a> <span class="taxon-count">12 种</span></li><li><a href="{{ site.base_url }}/genus/psammotermes/"><i>Psammotermes</i> 沙白蚁属</a> <span class="taxon-count">6 种</span></li></ul>

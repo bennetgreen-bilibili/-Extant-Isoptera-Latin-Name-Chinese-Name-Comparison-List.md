@@ -113,6 +113,8 @@ permalink: /list/
 <li><a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>TERMITIDAE</i></a> <span class="taxon-count">2144 种 · 54 亚种</span></li>
 </ul>
 
+{%- assign fk = site.data.fauna_keys["/list/"] -%}{%- if fk %}{% include fauna-keys.html fk=fk %}{%- endif %}
+
 <h2 id="references">参考文献</h2>
 
 1. Desneux J. À propos de la phylogénie des

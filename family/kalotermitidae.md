@@ -11,6 +11,7 @@ permalink: /family/kalotermitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/kalotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="kalotermitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="kalotermitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>木白蚁科由 Froggatt 于 1897 年建立(16)，模式属为 Kalotermes Hagen, 1853。科名源自模式属，由希腊语 kalos（美丽的）与 termes 组合而成。本名录收录 23 属 480 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/kalotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/kalotermitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（23）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/allotermes/"><i>Allotermes</i> 奇白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/bicornitermes/"><i>Bicornitermes</i> 双角白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/bifiditermes/"><i>Bifiditermes</i> 双裂白蚁属</a> <span class="taxon-count">12 种</span></li><li><a href="{{ site.base_url }}/genus/calcaritermes/"><i>Calcaritermes</i> 距白蚁属</a> <span class="taxon-count">12 种</span></li><li><a href="{{ site.base_url }}/genus/ceratokalotermes/"><i>Ceratokalotermes</i> 角木白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/comatermes/"><i>Comatermes</i> 毛白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/cryptotermes/"><i>Cryptotermes</i> 堆砂白蚁属</a> <span class="taxon-count">74 种</span></li><li><a href="{{ site.base_url }}/genus/epicalotermes/"><i>Epicalotermes</i> 上木白蚁属</a> <span class="taxon-count">6 种</span></li><li><a href="{{ site.base_url }}/genus/eucryptotermes/"><i>Eucryptotermes</i> 真砂白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/glyptotermes/"><i>Glyptotermes</i> 树白蚁属</a> <span class="taxon-count">131 种</span></li><li><a href="{{ site.base_url }}/genus/incisitermes/"><i>Incisitermes</i> 楹白蚁属</a> <span class="taxon-count">30 种</span></li><li><a href="{{ site.base_url }}/genus/kalotermes/"><i>Kalotermes</i> 木白蚁属</a> <span class="taxon-count">21 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/longicaputermes/"><i>Longicaputermes</i> 头长白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/marginitermes/"><i>Marginitermes</i> 边白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/neotermes/"><i>Neotermes</i> 新白蚁属</a> <span class="taxon-count">121 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/paraneotermes/"><i>Paraneotermes</i> 近新白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/postelectrotermes/"><i>Postelectrotermes</i> 后琥珀白蚁属</a> <span class="taxon-count">15 种</span></li><li><a href="{{ site.base_url }}/genus/procryptotermes/"><i>Procryptotermes</i> 前砂白蚁属</a> <span class="taxon-count">14 种</span></li><li><a href="{{ site.base_url }}/genus/proneotermes/"><i>Proneotermes</i> 前新白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/pterotermes/"><i>Pterotermes</i> 翅白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/roisinitermes/"><i>Roisinitermes</i> 罗伊辛白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/rugitermes/"><i>Rugitermes</i> 皱白蚁属</a> <span class="taxon-count">18 种</span></li><li><a href="{{ site.base_url }}/genus/tauritermes/"><i>Tauritermes</i> 牛白蚁属</a> <span class="taxon-count">4 种</span></li></ul>

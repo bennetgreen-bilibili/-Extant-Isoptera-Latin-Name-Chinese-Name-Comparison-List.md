@@ -11,6 +11,7 @@ permalink: /family/archotermopsidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/archotermopsidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="archotermopsidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="archotermopsidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>古白蚁科由 Engel、Grimaldi 与 Krishna 于 2009 年建立（Engel, Grimaldi &amp; Krishna, 2009: 11）(5)，模式属为古白蚁属 Archotermopsis Desneux, 1904。科名词出模式属：Archotermopsis 由希腊文 archaios（古老的）与Termopsis（元白蚁属名）组合而成。本科是俗称“湿木白蚁”（dampwood termites）之一支；兵蚁上颚粗壮、具明显的端齿与缘齿，头部扁平、无囟门，个体大型。兵蚁头背可见Y形缝，眼退化，触角19—27节，左上颚缘齿3枚、右上颚2枚，前胸背板扁平、狭于头，跗节5节；有翅成虫具明显单眼，体大型。本名录收录 2 属 5 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/archotermopsidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/archotermopsidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/archotermopsis/"><i>Archotermopsis</i> 古白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/zootermopsis/"><i>Zootermopsis</i> 动白蚁属</a> <span class="taxon-count">3 种、2 亚种</span></li></ul>

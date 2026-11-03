@@ -124,7 +124,7 @@
 |---|---|---|---|
 | 其它数据库外链 + 一致性提示 | `.github/workflows/build_authority_links.py` | `_data/authority_links.json` | `_includes/species-authority.html`、物种页、`/data/#authority` |
 | 世界名录对照（Blattodea Species File） | `.github/workflows/build_bsf_links.py` | `_data/bsf_links.json` + `_tools/bsf对照/工作表.csv` | 物种页「其他数据库」区块 |
-| 开放图片图集（CC0 / CC BY / CC BY-SA / 公有领域） | `.github/workflows/build_species_photos.py` + `.github/workflows/crawl_species_photos_loop.py`（循环爬取，`.github/workflows/species_photos_crawl.yml` 每天自动跑） | `_data/species_photos.json` | `_includes/species-gallery.html`、PhotoSwipe 灯箱 |
+| 开放图片图集与「全部图片页」（CC0 / CC BY / CC BY-SA / 公有领域） | `.github/workflows/build_species_photos.py` + `.github/workflows/crawl_species_photos_loop.py`（循环爬取，`.github/workflows/species_photos_crawl.yml` 每天自动跑）→ `.github/workflows/build_photo_pages.py` 派生 `/photos/` 页面 | `_data/species_photos.json`、`_data/photo_taxa.json` | `_includes/species-gallery.html`、`_includes/taxon-photos.html`、`_layouts/photos.html`、PhotoSwipe 灯箱 |
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 科／亚科／属页面标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录索引页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
@@ -138,7 +138,7 @@
 | Wikidata 条目（P225） | 2873（93.0%%） |
 | 与两库接受名完全一致 / 带提示 | 2898（93.8%%） / 191 |
 | Blattodea Species File 对照 | 有效名 2981、异名 1、待核对 61、未检索到 46（共 3089；抽查 20/20 页可通过） |
-| 开放许可照片 | 205 个物种、891 张（iNaturalist 769 + Wikimedia Commons 122） |
+| 开放许可照片 | 206 个物种、3830 张（iNaturalist 3540 + Wikimedia Commons 290），物种页显示前 6 张、其余见 `/photos/` 图片页 |
 | 参考文献（Crossref） | 47/77 条带 DOI，其中 47 条已按 DOI 取回 Crossref 记录；12 条有候选待人工核对 |
 | 分布图 | 13 个科级 + 254 个属级 + 1,180 个种级 GeoJSON（`assets/geo/{family,genus,species}/`），87,075 条 GBIF 带坐标记录（访问日期 2026-10-28）；仅名录现生类群，化石种与 `FOSSIL_SPECIMEN` / `MATERIAL_CITATION` 记录已剔除 |
 
@@ -157,6 +157,8 @@
 ### 3. 开放图片图集（iNaturalist + Wikimedia Commons）
 - 只收 **CC0 / CC BY / CC BY-SA / 公有领域（Public domain、PD-… 模板）**，逐张生成「作者 · 许可（链接） · 来源」署名；瀑布流版式、图注常显，PhotoSwipe 5（MIT，本地托管）灯箱，无 JS 时可点开原图。
 - 图片热链回原站、不复制入库；没有符合许可的照片的物种不显示该区块。
+- **有多少抓多少**：抓取侧已取消「每物种最多 6 张」的旧上限（现仅保留 `MAX_PHOTOS = 120` 作为单物种病态膨胀的安全阀），两个源都翻页取全。
+- **三层呈现**：物种页只放前 6 张 + 「查看全部 N 张 →」；科／亚科／属页放跨种扁平预览 6 张 + 「查看全部 N 张 →」；`/species/<slug>/photos/`、`/genus/<id>/photos/`、`/subfamily/<id>/photos/`、`/family/<id>/photos/` 是完整图集——分类单元图片页按种分组、每种 6 张再链到该种图片页，避免白蚁科（1918 张 / 106 种）一次性铺满。
 - **循环爬取**：`python .github/workflows/crawl_species_photos_loop.py --round-budget 900` 会一轮接一轮地补，每轮限时、轮间休息，连续几轮没进度就自动停；`_data/species_photos.json` 本身就是断点缓存，随时可以中断。GitHub Actions 工作流 `.github/workflows/species_photos_crawl.yml` 每天 03:17 UTC 自动跑一次，也可以手动触发（可选只抓某个源、或忽略缓存重扫许可）。
 - 公有领域文件常常没有作者信息，本站如实写「author not stated」而**不猜测作者**；细节与刷新方式见 `_tools/图片授权与署名说明.md`。
 

@@ -11,6 +11,7 @@ permalink: /family/termitogetonidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/termitogetonidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="termitogetonidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="termitogetonidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>寡脉白蚁亚科（Termitogetoninae）由 Holmgren 于 1910年建立（1910a:286）(14)，2024 年基因组系统发育研究将其由亚科提升为科（Termitogetonidae）(21)。寡脉白蚁科单型，仅含寡脉白蚁属 Termitogeton Desneux, 1904；科名词根为 Termitogeton，由 termes 与希腊语 geiton（邻居）构成，意为"近于白蚁属者"。本名录收录 1 属 2 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/termitogetonidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/termitogetonidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/termitogeton/"><i>Termitogeton</i> 寡脉白蚁属</a> <span class="taxon-count">2 种</span></li></ul>

@@ -11,6 +11,7 @@ permalink: /subfamily/cylindrotermitinae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/cylindrotermitinae.jpg"
 breadcrumb:
   - name: "名录"
@@ -42,12 +43,18 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="subfamily" id="cylindrotermitinae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="subfamily" id="cylindrotermitinae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>亚科级介绍</h2>
 <p>圆筒白蚁亚科由 Hellemans、Engel 与 Bourguignon 于 2024 年建立(21)，模式属为圆筒白蚁属 Cylindrotermes Holmgren, 1906；亚科名取自模式属，指其细长圆筒状的头与体躯（希腊文 kylindros，圆筒）。本名录收录 2 属 9 种。</p>
 <p>两属呈跨大西洋间断分布：头白蚁属 Cephalotermes Silvestri 为旧热带界属，直角头白蚁广布西非、中非至东非；圆筒白蚁属 Cylindrotermes Holmgren 为新热带界属，所辖 8 种均产新热带界。两属均为木食性，工蚁上颚属典型木食型：头白蚁属筑垅巢、群体庞大，巢中常有一对蚁王与腹极膨胀的蚁后；圆筒白蚁属栖于枯木中、群体较小。形态上兵蚁头部长而呈亚矩形、无额突、体表被短刚毛，上颚短粗、属咬合—劈砍型；工蚁回肠（P1）长管状并在直肠下方形成腹环，肠瓣具六个不等的垫，可与近缘类群区分。工蚁左上颚端齿约等于或短于第一、二合缘齿，第三缘齿发达；头白蚁属 Cephalotermes 的腹极膨胀蚁后随群体成熟渐失爬行能力（仅见于Cephalotermes 垅巢群体）。2024 年系统发育基因组学证据表明二者构成独立单系支系，代表本科中非基部、分布却高度间断的狭域孑遗类群。经济上，圆筒白蚁属 Cylindrotermes nordenskioeldi在巴西东北部甘蔗田被判定为有害(51)。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{%- assign fk = site.data.fauna_keys["/subfamily/cylindrotermitinae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/cephalotermes/"><i>Cephalotermes</i> 头白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/cylindrotermes/"><i>Cylindrotermes</i> 圆筒白蚁属</a> <span class="taxon-count">8 种</span></li></ul>
 </section>

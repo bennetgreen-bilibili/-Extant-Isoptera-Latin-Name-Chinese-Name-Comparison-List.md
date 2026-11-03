@@ -11,6 +11,7 @@ permalink: /family/rhinotermitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/rhinotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="rhinotermitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="rhinotermitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>鼻白蚁亚科（Rhinotermitinae）由 Froggatt 于 1897 年建立；此处采用 2024 年系统发育研究重新界定后的狭义鼻白蚁科（Rhinotermitidae sensu novo）(21)，含 5 属。模式属为 Rhinotermes Hagen, 1858；科名由希腊语 rhis/rhinos（鼻）与 termes 组合，指其成虫唇基隆起、形似鼻状并由囟门至唇基具窄沟的特征。本名录收录 5 属 62 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/rhinotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/rhinotermitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（5）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/acorhinotermes/"><i>Acorhinotermes</i> 尖鼻白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/dolichorhinotermes/"><i>Dolichorhinotermes</i> 狭鼻白蚁属</a> <span class="taxon-count">7 种</span></li><li><a href="{{ site.base_url }}/genus/parrhinotermes/"><i>Parrhinotermes</i> 棒鼻白蚁属</a> <span class="taxon-count">13 种</span></li><li><a href="{{ site.base_url }}/genus/rhinotermes/"><i>Rhinotermes</i> 鼻白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/schedorhinotermes/"><i>Schedorhinotermes</i> 长鼻白蚁属</a> <span class="taxon-count">35 种</span></li></ul>

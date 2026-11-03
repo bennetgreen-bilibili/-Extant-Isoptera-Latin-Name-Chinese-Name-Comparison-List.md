@@ -20,11 +20,26 @@ inventing an attribution (see _tools/图片授权与署名说明.md).
 LICENSE_POLICY_VERSION records which licence policy produced the payload; bump it
 when the allowlist changes so a stale cache can be spotted.
 
+Photo set
+---------
+There is no display cap: every acceptable photo a source returns is stored, up to
+the MAX_PHOTOS sanity ceiling, and both APIs are paged (iNaturalist with
+page/per_page, Commons by following continue.gsroffset).  The species page shows
+the first SPECIES_PAGE_PHOTOS of the ordered list and links to /species/<slug>/photos/,
+which renders the whole set; genus and family pages do the same for their children.
+
+PHOTO_SET_VERSION records which rule produced the set.  Version 1 was the six-photo
+ceiling, so a version-1 cache is re-crawled once for every taxon that already holds
+photos - and meta.photo_set_version only advances to 2 after that catch-up pass has
+seen all of them, so an interrupted migration resumes instead of stranding species
+at six photos.
+
 Output
 ------
 _data/species_photos.json  (committed; doubles as the resumable cache)
 
-    {"meta": {"generated", "license_policy", "sources", "counts", "no_photos"},
+    {"meta": {"generated", "license_policy", "photo_set_version", "sources",
+              "counts", "no_photos"},
      "species": {"<latin>": [{source, src, thumb, width, height,
                               credit, license, licenseUrl, page}, ...]}}
 
@@ -114,9 +129,24 @@ PD_LICENSE_LABEL = "Public domain"
 # validate()) can keep requiring a creativecommons.org link on every photo.
 PD_LICENSE_URL = "https://creativecommons.org/publicdomain/mark/1.0/"
 
-MAX_PHOTOS = 6
-INAT_PER_PAGE = 10
-COMMONS_LIMIT = 8
+# Bump PHOTO_SET_VERSION whenever the *set* of photos a taxon yields changes shape
+# (e.g. the old six-photo ceiling being lifted): a cache written under an older
+# version gets one re-crawl pass, and the payload keeps the old number until that
+# pass has seen every taxon that already holds photos.
+PHOTO_SET_VERSION = 2
+
+# There is no display cap any more - every openly licensed photo we can find is
+# kept, and the species page simply shows the first six. MAX_PHOTOS stays only as
+# a sanity ceiling so one pathological taxon cannot balloon the JSON that Jekyll
+# loads into memory on every build.
+MAX_PHOTOS = 120
+# How many photos a species / genus / family page shows inline; the rest live on
+# the dedicated /photos/ page that the gallery links to.
+SPECIES_PAGE_PHOTOS = 6
+INAT_PER_PAGE = 100
+INAT_MAX_PAGES = 3
+COMMONS_LIMIT = 50
+COMMONS_MAX_PAGES = 4
 COMMONS_THUMB_WIDTH = 800
 SOURCE_ORDER = {"inaturalist": 0, "commons": 1}
 SOURCE_SITE = {
@@ -303,12 +333,13 @@ class PoliteClient(object):
 
 
 # ------------------------------------------------------------ iNaturalist
-def inat_query(latin):
+def inat_query(latin, page=1):
     return INAT_API + "?" + urllib.parse.urlencode({
         "taxon_name": latin,
         "photos": "true",
         "quality_grade": "research",
         "per_page": str(INAT_PER_PAGE),
+        "page": str(page),
         "photo_license": ",".join(INAT_ALLOWED),
     })
 
@@ -328,19 +359,36 @@ def inat_photo_dims(photo):
 
 
 def fetch_inaturalist(client, latin):
-    """One request per taxon; only observations of *exactly* this taxon are used.
+    """Page through every research-grade observation of *exactly* this taxon.
 
     Two photos per observation at most on the first pass - one uploader often
-    posts a burst of near-identical frames, which would fill the whole grid with
-    the same specimen - then top up to MAX_PHOTOS from the remaining candidates.
+    posts a burst of near-identical frames, which would fill the top of the page
+    with the same specimen - then top up from the remaining candidates, so the
+    six photos the species page shows stay varied while the photo page still gets
+    everything that is openly licensed.
     """
-    data = client.get_json(inat_query(latin))
-    if not isinstance(data, dict) or data.get("error"):
-        return None  # API error: treat as failure, never as "this taxon has no photos"
-    if "results" not in data:
-        return None  # malformed answer: retried on the next run instead of cached
     candidates = []
-    for obs in data.get("results") or []:
+    for page_no in range(1, INAT_MAX_PAGES + 1):
+        data = client.get_json(inat_query(latin, page_no))
+        if not isinstance(data, dict) or data.get("error"):
+            if page_no == 1:
+                return None  # API error: failure, never "this taxon has no photos"
+            break  # keep whatever the earlier pages gave us
+        if "results" not in data:
+            if page_no == 1:
+                return None  # malformed answer: retried on the next run instead of cached
+            break
+        results = data.get("results") or []
+        candidates.extend(_inat_candidates(results, latin))
+        if len(results) < INAT_PER_PAGE or len(candidates) >= MAX_PHOTOS * 3:
+            break  # last page, or already far past what we would keep
+    return _inat_pick(candidates)
+
+
+def _inat_candidates(results, latin):
+    """Filter one page of observations down to keepable photo candidates."""
+    candidates = []
+    for obs in results:
         taxon = obs.get("taxon") or {}
         if (taxon.get("name") or "") != latin:
             continue  # descendant or sibling taxon returned by the search
@@ -380,16 +428,26 @@ def fetch_inaturalist(client, latin):
                 "licenseUrl": INAT_LICENSE_URL[code],
                 "page": page,
             }))
+    return candidates
+
+
+def _inat_pick(candidates):
+    """Order the candidates: newest observation first, two per observer, then the rest."""
     # newest observations first: stable and independent of the API's own order
     candidates.sort(key=lambda item: -item[0])
     picked = []
+    taken = set()
     per_observation = {}
     for obs_id, entry in candidates:
         if per_observation.get(obs_id, 0) >= 2:
             continue
+        if entry["src"] in taken:
+            continue
         per_observation[obs_id] = per_observation.get(obs_id, 0) + 1
+        taken.add(entry["src"])
         picked.append(entry)
-    taken = set(entry["src"] for entry in picked)
+        if len(picked) >= MAX_PHOTOS:
+            return picked
     for _obs_id, entry in candidates:
         if len(picked) >= MAX_PHOTOS:
             break
@@ -401,8 +459,8 @@ def fetch_inaturalist(client, latin):
 
 
 # ---------------------------------------------------------------- Commons
-def commons_query(latin):
-    return COMMONS_API + "?" + urllib.parse.urlencode({
+def commons_query(latin, offset=None):
+    params = {
         "action": "query",
         "generator": "search",
         "gsrsearch": '"%s"' % latin,
@@ -413,7 +471,10 @@ def commons_query(latin):
         "iiurlwidth": str(COMMONS_THUMB_WIDTH),
         "format": "json",
         "formatversion": "2",
-    })
+    }
+    if offset:
+        params["gsroffset"] = str(offset)
+    return COMMONS_API + "?" + urllib.parse.urlencode(params)
 
 
 def commons_name_match(latin, title, ext):
@@ -444,10 +505,37 @@ def commons_license_name(ext):
 
 
 def fetch_commons(client, latin):
-    """One request per taxon; files outside CC0 / CC BY / CC BY-SA / PD are dropped."""
-    data = client.get_json(commons_query(latin))
-    if not isinstance(data, dict) or data.get("error"):
-        return None  # API error: treat as failure, never as "this taxon has no photos"
+    """Page through the file search; files outside CC0 / CC BY / CC BY-SA / PD are dropped."""
+    picked = []
+    seen = set()
+    offset = 0
+    for page_no in range(1, COMMONS_MAX_PAGES + 1):
+        data = client.get_json(commons_query(latin, offset))
+        if not isinstance(data, dict) or data.get("error"):
+            if page_no == 1:
+                return None  # API error: failure, never "this taxon has no photos"
+            break  # keep the pages that already answered
+        for entry in _commons_candidates(data, latin):
+            if entry["src"] in seen:
+                continue
+            seen.add(entry["src"])
+            picked.append(entry)
+        if len(picked) >= MAX_PHOTOS:
+            break
+        # Commons hands back the next offset in "continue"; without it the search is done
+        cont = data.get("continue") or {}
+        next_offset = cont.get("gsroffset")
+        if next_offset in (None, ""):
+            break
+        try:
+            offset = int(next_offset)
+        except (TypeError, ValueError):
+            break
+    return picked
+
+
+def _commons_candidates(data, latin):
+    """Filter one page of a Commons file search down to keepable photos."""
     # a search with zero hits legitimately omits "query" (only "batchcomplete" comes
     # back), so a missing key means "no files", not "request failed"
     pages = (data.get("query") or {}).get("pages") or []
@@ -580,22 +668,48 @@ def dedupe(photos):
 
 
 def ordered(photos):
-    """iNaturalist first, Commons second, stable inside each source; max 6."""
+    """iNaturalist first, Commons second, stable inside each source; ceiling only.
+
+    The species page shows the first six of this order, the photo page shows all
+    of them, so the ceiling exists to bound the payload rather than to curate it.
+    """
     indexed = list(enumerate(photos))
     indexed.sort(key=lambda item: (SOURCE_ORDER.get(item[1].get("source"), 9), item[0]))
     return [photo for _index, photo in indexed][:MAX_PHOTOS]
 
 
-def plan_pending(names, sources, species, no_photos, refresh=False):
+def photo_set_stale(meta):
+    """True while the cache still predates the current photo-set rules.
+
+    Version 1 was the six-photo ceiling: every taxon that has photos was cut off
+    at six and has to be asked once more.  meta.photo_set_version only moves to
+    the current number once that catch-up pass has met every such taxon, so an
+    interrupted migration resumes instead of silently leaving half the species
+    stuck at six.
+    """
+    try:
+        version = int((meta or {}).get("photo_set_version") or 1)
+    except (TypeError, ValueError):
+        version = 1
+    return version < PHOTO_SET_VERSION
+
+
+def plan_pending(names, sources, species, no_photos, meta=None, refresh=False):
     """Map each taxon to the sources it still needs - the crawl plan.
 
     A source that already contributed photos is never re-queried (so a rerun
-    cannot accidentally empty it) unless refresh=True.  A taxon whose gallery
-    already holds MAX_PHOTOS images is finished for every source too: the cap
-    would drop anything new, and without this an entry that is full of
-    iNaturalist photos would look "missing Commons" on every rerun and be
-    re-queried forever.
+    cannot accidentally empty it) unless refresh=True or the cache predates the
+    current photo-set rules.  "Has photos from this source" and "the source has
+    nothing for this taxon" are both terminal: nothing caps the result any more,
+    so an entry can never be full.
     """
+    stale = photo_set_stale(meta)
+    # a catch-up pass must reach the taxa that already hold photos before it spends
+    # its budget on the thousands of taxa that have none yet
+    overdue = [name for name in names if species.get(name)] if stale else []
+    if overdue:
+        owed = set(overdue)
+        names = overdue + [name for name in names if name not in owed]
     plan = {}
     for name in names:
         photos = species.get(name) or []
@@ -605,8 +719,8 @@ def plan_pending(names, sources, species, no_photos, refresh=False):
                 todo.append(source)
                 continue
             if any(photo.get("source") == source for photo in photos):
-                continue
-            if len(photos) >= MAX_PHOTOS:
+                if stale:
+                    todo.append(source)  # crawled under the old ceiling: ask again once
                 continue
             if name in no_photos[source]:
                 continue
@@ -616,7 +730,8 @@ def plan_pending(names, sources, species, no_photos, refresh=False):
     return plan
 
 
-def build_meta(species, searched, no_photos, generated):
+def build_meta(species, searched, no_photos, generated,
+               photo_set_version=PHOTO_SET_VERSION):
     photos_inat = sum(1 for plist in species.values() for p in plist
                       if p["source"] == "inaturalist")
     photos_commons = sum(1 for plist in species.values() for p in plist
@@ -625,14 +740,20 @@ def build_meta(species, searched, no_photos, generated):
         "generated": generated,
         "license_policy": LICENSE_POLICY,
         "license_policy_version": LICENSE_POLICY_VERSION,
+        "photo_set_version": photo_set_version,
+        "photo_set_note": ("every openly licensed photo the sources return is kept; "
+                           "the species page shows the first %d, /photos/ shows all"
+                           % SPECIES_PAGE_PHOTOS),
+        "max_photos_per_taxon": MAX_PHOTOS,
         "sources": {
             "inaturalist": {
                 "name": "iNaturalist",
                 "site": SOURCE_SITE["inaturalist"],
                 "api": INAT_API,
                 "query": ("taxon_name=<latin>&photos=true&quality_grade=research"
-                          "&per_page=%d&photo_license=%s"
+                          "&per_page=%d&page=<n>&photo_license=%s"
                           % (INAT_PER_PAGE, ",".join(INAT_ALLOWED))),
+                "pagination": "page=1..%d, stops on a short page" % INAT_MAX_PAGES,
                 "licenses": ["CC0", "CC BY", "CC BY-SA"],
                 "accepted_license_codes": list(INAT_ALLOWED),
                 "public_domain": ("iNaturalist has no plain public-domain flag; "
@@ -644,8 +765,10 @@ def build_meta(species, searched, no_photos, generated):
                 "site": SOURCE_SITE["commons"],
                 "api": COMMONS_API,
                 "query": ('action=query&generator=search&gsrsearch="<latin>"&gsrnamespace=6'
-                          "&gsrlimit=%d&prop=imageinfo&iiprop=url|extmetadata|size"
+                          "&gsrlimit=%d&gsroffset=<n>&prop=imageinfo&iiprop=url|extmetadata|size"
                           "&iiurlwidth=%d&format=json" % (COMMONS_LIMIT, COMMONS_THUMB_WIDTH)),
+                "pagination": ("follows the continue.gsroffset token, at most %d pages"
+                               % COMMONS_MAX_PAGES),
                 "licenses": ["CC0", "CC BY x.y", "CC BY-SA x.y",
                              "Public domain (Public domain / pd / pdm / PD-…)"],
                 "accepted_license_names": ("LicenseShortName (falling back to License / "
@@ -674,14 +797,16 @@ def comparable(payload):
     return clone
 
 
-def assemble(species, searched, no_photos, generated):
+def assemble(species, searched, no_photos, generated,
+             photo_set_version=PHOTO_SET_VERSION):
     ordered_species = {}
     for name in sorted(species):
         photos = ordered(dedupe(species[name]))
         if photos:
             ordered_species[name] = photos
-    return {"meta": build_meta(ordered_species, searched, no_photos, generated),
-            "species": ordered_species}
+    meta = build_meta(ordered_species, searched, no_photos, generated,
+                      photo_set_version=photo_set_version)
+    return {"meta": meta, "species": ordered_species}
 
 
 def write_payload(payload):
@@ -728,6 +853,11 @@ def validate(payload, known_names=None):
     if meta.get("license_policy_version") != LICENSE_POLICY_VERSION:
         problems.append("meta.license_policy_version=%r but the code expects %d - rerun --write"
                         % (meta.get("license_policy_version"), LICENSE_POLICY_VERSION))
+    version = meta.get("photo_set_version", 1)  # absent == the original six-photo cache
+    if (not isinstance(version, int) or isinstance(version, bool)
+            or not 1 <= version <= PHOTO_SET_VERSION):
+        problems.append("meta.photo_set_version=%r but the code expects 1..%d"
+                        % (version, PHOTO_SET_VERSION))
     counts = meta.get("counts") or {}
     total_inat = total_commons = 0
     for name, photos in species.items():
@@ -824,8 +954,8 @@ def main(argv=None):
     parser.add_argument("--budget", type=float, default=0.0,
                         help="wall-clock budget in seconds (0 = unlimited)")
     parser.add_argument("--refresh", action="store_true",
-                        help="ignore the cache and refetch every selected taxon "
-                             "(pair with --only commons after the licence allowlist changes)")
+                        help="ignore the cache and refetch every selected taxon, whole photo "
+                             "sets included (pair with --only commons after a licence change)")
     parser.add_argument("--only", choices=("inat", "commons"),
                         help="query a single source")
     parser.add_argument("--all-names", metavar="FILE",
@@ -855,6 +985,10 @@ def main(argv=None):
         sources = ["inaturalist" if args.only == "inat" else "commons"]
 
     species, no_photos, old_meta = load_existing()
+    # a cache written under an older photo-set rule gets one catch-up pass; the
+    # version number only advances once that pass has met every taxon it owed
+    stale = photo_set_stale(old_meta)
+    carry_version = 1 if stale else PHOTO_SET_VERSION
 
     if args.check:
         if not OUT.is_file():
@@ -873,6 +1007,11 @@ def main(argv=None):
                 print("  - %s" % problem, file=sys.stderr)
             return 1
         counts = payload["meta"]["counts"]
+        version = payload["meta"].get("photo_set_version")
+        if isinstance(version, int) and version < PHOTO_SET_VERSION:
+            print("note: meta.photo_set_version=%d - the six-photo ceiling catch-up "
+                  "pass is unfinished; run --write to continue" % version,
+                  file=sys.stderr)
         print("OK: %s - %d species with photos (%d iNaturalist + %d Commons), "
               "%d taxa searched"
               % (OUT.relative_to(ROOT), counts["species_with_photos"],
@@ -882,9 +1021,15 @@ def main(argv=None):
 
     # plan[name] = the sources this taxon still misses; a source that already has
     # photos is never re-queried (and therefore never accidentally emptied) unless
-    # --refresh says so
-    plan = plan_pending(names, sources, species, no_photos, refresh=args.refresh)
+    # --refresh says so, or unless the cache predates the current photo-set rules
+    if stale:
+        print("cache is photo_set_version<%d: taxa that already hold photos are "
+              "re-queried once so the old six-photo ceiling can be lifted"
+              % PHOTO_SET_VERSION)
+    plan = plan_pending(names, sources, species, no_photos, meta=old_meta,
+                        refresh=args.refresh)
     pending = list(plan)
+    limited = bool(args.limit) and len(pending) > args.limit
     print("%d taxa in list, %d already cached, %d to query (%s)%s"
           % (len(names), len(names) - len(pending), len(pending), "+".join(sources),
              ", budget %ds" % args.budget if args.budget else ""))
@@ -949,7 +1094,8 @@ def main(argv=None):
             if args.write and args.checkpoint and processed % args.checkpoint == 0:
                 partial = assemble(species, searched | set(no_photos["inaturalist"])
                                    | set(no_photos["commons"]), no_photos,
-                                   datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
+                                   datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                                   photo_set_version=carry_version)
                 write_payload(partial)
                 print("  checkpoint: %d taxa with photos on disk"
                       % len(partial["species"]))
@@ -970,8 +1116,14 @@ def main(argv=None):
               % errors, file=sys.stderr)
 
     searched |= set(no_photos["inaturalist"]) | set(no_photos["commons"])
+    migration_done = not stale or (not stopped and not limited and not errors)
     payload = assemble(species, searched, no_photos,
-                       datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
+                       datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                       photo_set_version=PHOTO_SET_VERSION if migration_done
+                       else carry_version)
+    if stale and not migration_done:
+        print("photo-set migration still open: meta.photo_set_version stays at %d, "
+              "rerun to keep lifting the old ceiling" % carry_version, file=sys.stderr)
 
     problems = validate(payload, known)
     if problems:

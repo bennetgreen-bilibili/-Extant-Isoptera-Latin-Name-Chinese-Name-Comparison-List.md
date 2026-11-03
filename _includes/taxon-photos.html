@@ -1,0 +1,82 @@
+{%- comment -%}
+  分类单元（科 / 亚科 / 属）的照片：内联小节与「全部图片」页共用这一个 include。
+  参数：
+    kind    genus | subfamily | family
+    id      分类单元 id（如 termitidae / macrotermitinae / reticulitermes）
+    limit   展示张数：扁平预览时是全页上限；分组时是每个种的上限（默认 6，0 = 不限）
+    more    "1" 时输出小节标题与「查看全部」按钮（分类单元页上的内联预览）
+    grouped "1" 时按物种分组渲染（分类单元的「全部图片」页）；否则扁平预览
+  数据：_data/species_by_*.json（build_genus_index.py）给出该单元下的种，
+        _data/species_photos.json 给出每种的照片；两者都只含种，不含亚种。
+  为什么不直接全量渲染：白蚁科现有上千张照片，一次性输出会成为几千个 <img>。
+  所以分类单元页只给 6 张预览，独立页按种分组、每种再截 6 张，
+  更深的入口落在种级的 /species/<slug>/photos/（全量）。
+{%- endcomment -%}
+{%- assign tp_kind = include.kind | default: 'genus' -%}
+{%- assign tp_id = include.id -%}
+{%- assign tp_limit = include.limit | default: 6 | plus: 0 -%}
+{%- if tp_kind == 'family' -%}
+  {%- assign tp_list = site.data.species_by_family[tp_id] -%}
+{%- elsif tp_kind == 'subfamily' -%}
+  {%- assign tp_list = site.data.species_by_subfamily[tp_id] -%}
+{%- else -%}
+  {%- assign tp_list = site.data.species_by_genus[tp_id] -%}
+{%- endif -%}
+{%- assign tp_total = 0 -%}
+{%- assign tp_species = 0 -%}
+{%- for sp in tp_list -%}
+  {%- assign tp_count = site.data.species_photos.species[sp.latin] -%}
+  {%- if tp_count and tp_count.size > 0 -%}
+    {%- assign tp_total = tp_total | plus: tp_count.size -%}
+    {%- assign tp_species = tp_species | plus: 1 -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if tp_total > 0 -%}
+<div class="taxon-photos{% unless include.grouped %} species-gallery{% endunless %}">
+  {%- if include.more -%}
+  <div class="gallery-head taxon-photos-head">
+    <h2 class="gallery-title" id="taxon-photos-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ tp_total }} 张 · {{ tp_species }} 种</span></h2>
+    <p class="gallery-lead">开放许可照片，点击可放大浏览。这里先展示 {{ tp_limit }} 张，按种查看请进「全部图片」。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者。</p>
+    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}/{{ tp_kind }}/{{ tp_id }}/photos/">查看全部 {{ tp_total }} 张 <span aria-hidden="true">→</span></a></p>
+  </div>
+  {%- endif -%}
+  {%- if include.grouped -%}
+  {%- for sp in tp_list -%}
+    {%- assign tp_count = site.data.species_photos.species[sp.latin] -%}
+    {%- if tp_count and tp_count.size > 0 -%}
+    {%- assign tp_label = sp.latin | append: ' ' | append: sp.zh -%}
+  <section class="species-gallery taxon-photos-group" aria-label="{{ tp_label | escape }}">
+    <div class="gallery-head">
+      <h3 class="gallery-title gallery-species"><a href="{{ site.base_url }}{{ sp.url }}"><i>{{ sp.latin }}</i> {{ sp.zh }}</a> <span class="gallery-count">{{ tp_count.size }} 张</span></h3>
+    </div>
+    <div class="gallery-grid">
+      {%- for photo in tp_count -%}
+        {%- if tp_limit > 0 and forloop.index0 >= tp_limit -%}{%- break -%}{%- endif %}
+      {% include photo-card.html photo=photo label=tp_label %}
+      {%- endfor -%}
+    </div>
+    {%- if tp_limit > 0 and tp_count.size > tp_limit %}
+    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ sp.url }}photos/">该种全部 {{ tp_count.size }} 张 <span aria-hidden="true">→</span></a></p>
+    {%- endif -%}
+  </section>
+    {%- endif -%}
+  {%- endfor -%}
+  {%- else -%}
+  {%- assign tp_shown = 0 -%}
+  <div class="gallery-grid">
+    {%- for sp in tp_list -%}
+      {%- assign tp_count = site.data.species_photos.species[sp.latin] -%}
+      {%- if tp_count and tp_count.size > 0 -%}
+        {%- assign tp_label = sp.latin | append: ' ' | append: sp.zh -%}
+        {%- for photo in tp_count -%}
+          {%- if tp_limit > 0 and tp_shown >= tp_limit -%}{%- break -%}{%- endif %}
+      {% include photo-card.html photo=photo label=tp_label %}
+          {%- assign tp_shown = tp_shown | plus: 1 -%}
+        {%- endfor -%}
+      {%- endif -%}
+      {%- if tp_limit > 0 and tp_shown >= tp_limit -%}{%- break -%}{%- endif -%}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+</div>
+{%- endif -%}

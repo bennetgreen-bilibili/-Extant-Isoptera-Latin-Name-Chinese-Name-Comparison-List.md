@@ -422,7 +422,9 @@ def check_counts(fields_by_slug: dict, taxonomy: dict) -> None:
     index_species = sum(1 for e in index if e.get("r") in ("种", "亚种"))
     index_genera = sum(1 for e in index if e.get("r") == "属")
     sitemap_urls = read(SITEMAP).splitlines()
-    sitemap_species = [u for u in sitemap_urls if "/species/" in u]
+    # /species/<slug>/photos/ 是「全部图片」页（.github/workflows/build_photo_pages.py），
+    # 属于物种的附属页，不计入「每个 _species 页面恰好一条物种 URL」这个等式。
+    sitemap_species = [u for u in sitemap_urls if "/species/" in u and not u.endswith("/photos/")]
     if len(sitemap_species) != page_count:
         err("sitemap.txt", "物种 URL 数 %d 与 _species 页面数 %d 不一致" % (len(sitemap_species), page_count))
     if index_species != page_count:

@@ -66,3 +66,35 @@
 .pswp-gallery-caption a{color:#fff;text-decoration:underline;text-underline-offset:2px}
 .pswp-gallery-caption a:hover{color:#d8f0e2}
 .pswp-gallery-caption-credit{font-weight:600}
+
+/* ===== 分类单元页（科 / 亚科 / 属）的图片小节 + 「全部图片」页 =====
+   .taxon-photos 是外容器：扁平预览时它同时带 .species-gallery（直接复用上面的瀑布流与灯箱），
+   按种分组时组内每个 section 各自是 .species-gallery（一个种一个灯箱，互不串）。
+   「查看全部 N 张 →」既出现在物种页图集尾部，也出现在分类单元页预览的标题行里。 */
+.taxon-photos{margin:2.1em 0 .6em}
+.species-gallery .gallery-more-row,
+.taxon-photos .gallery-more-row{flex-basis:100%;margin:.9em 0 0;text-align:center}
+.species-gallery .gallery-more,
+.taxon-photos .gallery-more{display:inline-flex;align-items:center;gap:.45em;padding:.5em 1.2em;border:1px solid var(--accent);border-radius:999px;background:var(--accent-soft);color:var(--accent-strong);font-size:.9em;font-weight:600;line-height:1.5;text-decoration:none;transition:background .15s,color .15s,border-color .15s}
+.species-gallery .gallery-more:hover,
+.taxon-photos .gallery-more:hover{background:var(--accent);border-color:var(--accent);color:#fff;text-decoration:none}
+.species-gallery .gallery-more:focus-visible,
+.taxon-photos .gallery-more:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* 分组渲染：每个种一个小节，标题可点回物种页 */
+.taxon-photos-group{padding-top:1em;margin:1.6em 0 .6em}
+.taxon-photos .gallery-species{font-size:.98em}
+.taxon-photos .gallery-species a,
+.species-gallery .gallery-species a{color:inherit;text-decoration:none}
+.taxon-photos .gallery-species a:hover,
+.species-gallery .gallery-species a:hover{color:var(--accent-strong);text-decoration:underline;text-underline-offset:2px}
+
+/* 「全部图片」页头部：标题 + 徽标 + 返回上级 */
+.photo-page .photo-page-title{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2em .55em}
+.photo-page .photo-page-label{font-size:.5em;font-weight:600;letter-spacing:.02em;color:var(--accent-strong);background:var(--accent-soft);border-radius:999px;padding:2px 10px;white-space:nowrap}
+@media (max-width:640px){
+  .photo-page .photo-page-label{font-size:.6em}
+  .species-gallery .gallery-more,
+  .taxon-photos .gallery-more{font-size:.86em;padding:.45em 1em}
+}
+

@@ -49,6 +49,9 @@ breadcrumb:
 <p>Rocha &amp; Cuezzo (2015)(45)首次系统描述了该种工蚁消化道的形态与原位盘绕方式；有翅蚁曾由 Emerson (1925) 据圭亚那 Kartabo正模记述（Crepititermes verruculosus 正模即为成虫），Roonwal &amp; Verma (1980)(46) 另记述其翅面微刻饰。法属圭亚那 Petit Saut 种群的工蚁肠道宏基因组亦有测序记录（Mikaelyan et al., 2015）(47)，为研究土栖高等白蚁肠道共生菌提供了材料。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{%- assign fk = site.data.fauna_keys["/subfamily/crepititermitinae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/crepititermes/"><i>Crepititermes</i> 响白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

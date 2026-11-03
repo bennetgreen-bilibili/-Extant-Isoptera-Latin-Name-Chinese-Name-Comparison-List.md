@@ -51,6 +51,7 @@ ROOT = Path(__file__).resolve().parents[2]
 SPECIES_DIR = ROOT / "_species"
 IMAGES_DIR = ROOT / "assets" / "images"
 PROSE_JSON = ROOT / "_data" / "taxon_prose.json"
+PHOTO_TAXA_JSON = ROOT / "_data" / "photo_taxa.json"
 DATA_OUT = ROOT / "_data" / "taxonomy_images.json"
 OUT_DIRS = {"family": ROOT / "family", "subfamily": ROOT / "subfamily", "genus": ROOT / "genus"}
 DEFAULT_IMAGE = "/assets/images/mastotermitidae.jpg"
@@ -257,10 +258,24 @@ def fit_description(core, pool, fillers=None):
     return desc
 
 
+def load_photo_taxa():
+    """有开放许可照片的分类单元：_data/photo_taxa.json（build_photo_pages.py 生成）。
+
+    科 / 亚科 / 属页只在真的有照片时才挂图片小节、并在 front matter 里写
+    has_photos: true —— _layouts/default.html 据此决定要不要加载 PhotoSwipe，
+    否则 326 个属页会白下载一套灯箱脚本。文件不存在（例如先跑本脚本）时按空处理。
+    """
+    if not PHOTO_TAXA_JSON.is_file():
+        return {rank: {} for rank in ("family", "subfamily", "genus", "species")}
+    data = json.loads(PHOTO_TAXA_JSON.read_text(encoding="utf-8"))
+    return {rank: data.get(rank) or {} for rank in ("family", "subfamily", "genus", "species")}
+
+
 def main():
     write = "--check" not in sys.argv
 
     figures = list_figures()
+    photo_taxa = load_photo_taxa()
     families, subfamilies, genera = {}, {}, {}
     per_genus = {}
     species_total = subspecies_total = 0
@@ -519,7 +534,8 @@ def main():
         return fit_description(core, pool)
 
     def front_matter(title, description, permalink, breadcrumb, image, family_id,
-                     last_modified="2026-10-30", has_map=False, taxon_search=False):
+                     last_modified="2026-10-30", has_map=False, taxon_search=False,
+                     has_photos=False):
         lines = ["---", "layout: default", "title: " + json.dumps(title, ensure_ascii=False),
                  "description: " + json.dumps(description, ensure_ascii=False),
                  "lang: zh-CN", "lang_only: true", "author: 班奈特格林",
@@ -530,6 +546,8 @@ def main():
             lines.append("has_map: true")
         if taxon_search:
             lines.append("taxon_search: true")
+        if has_photos:
+            lines.append("has_photos: true")
         if image:
             lines.append("image: " + json.dumps(image))
         lines.append("breadcrumb:")
@@ -582,6 +600,18 @@ def main():
                 '{%% include distribution-map.html mode="%s" id="%s" %%}\n'
                 '</section>\n' % (rank, taxon_id))
 
+    def photo_section(rank, taxon_id):
+        """图片小节：6 张预览 + 「查看全部 N 张」→ /<rank>/<id>/photos/。
+
+        照片本体由 _includes/taxon-photos.html 渲染，这里只决定要不要出现，
+        避免没有照片的分类单元留下一个空占位。
+        """
+        if not photo_taxa[rank].get(taxon_id):
+            return ""
+        return ('<section class="taxon-section taxon-photos-section" data-pagefind-ignore>\n'
+                '{%% include taxon-photos.html kind="%s" id="%s" limit=6 more="1" %%}\n'
+                '</section>\n' % (rank, taxon_id))
+
     def intro_section(taxon_id, heading):
         paragraphs = intros.get(taxon_id) or []
         if not paragraphs:
@@ -626,6 +656,16 @@ def main():
         return ('{%%- assign fz = site.data.%s["/%s/%s/"] -%%}'
                 '{%%- if fz %%}\n{%% include fauna-%s.html fauna=fz %%}\n{%%- endif %%}\n'
                 % (FAUNA_DATA_KEY[kind], kind, taxon_id, kind))
+
+    def keys_section(kind, taxon_id):
+        """据《中国动物志》整理的属级/种级形态检索表。
+
+        数据在 _data/fauna_keys.json（键为页面 URL），与形态描述分开成块：检索表按「组」
+        折叠显示，终端一律链到站内页面，已剔除的无效种在各表末尾列出。
+        """
+        return ('{%%- assign fk = site.data.fauna_keys["/%s/%s/"] -%%}'
+                '{%%- if fk %%}\n{%% include fauna-keys.html fk=fk %%}\n{%%- endif %%}\n'
+                % (kind, taxon_id))
 
     def genus_map_note(gen):
         fam = families[gen["family"]]
@@ -680,8 +720,10 @@ def main():
                          fam["species"] + fam["subspecies"])
             + figure_html(fid, fam["zh"])
             + distribution_section("family", fid)
+            + photo_section("family", fid)
             + intro_section(fid, "科级介绍")
             + fauna_section("family", fid)
+            + keys_section("family", fid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("family", fid) + "\n</article>\n"
             + taxon_jsonld("family", fid, fam["latin"], fam["zh"], parent, "科")
@@ -691,7 +733,8 @@ def main():
             front_matter("%s %s 分类名录" % (fam["zh"], fam["latin"]), desc,
                          "/family/%s/" % fid, breadcrumb_for("family", fam=fam),
                          image_path(fid), fid,
-                         has_map=has_geo("family", fid), taxon_search=True)
+                         has_map=has_geo("family", fid), taxon_search=True,
+                         has_photos=bool(photo_taxa["family"].get(fid)))
             + body)
 
     for sid in sorted(subfamilies):
@@ -712,7 +755,9 @@ def main():
             + search_box("亚科", [sid] + sub["genera"], sub["species"] + sub["subspecies"])
             + figure_html(sid, sub["zh"])
             + distribution_section("subfamily", sid)
+            + photo_section("subfamily", sid)
             + intro_section(sid, "亚科级介绍")
+            + keys_section("subfamily", sid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("subfamily", sid,
                          '<a href="%s/family/%s/">%s <i>%s</i></a>'
@@ -724,7 +769,8 @@ def main():
             front_matter("%s %s 属与物种名录" % (sub["zh"], sub["latin"]), desc,
                          "/subfamily/%s/" % sid, breadcrumb_for("subfamily", fam=fam, sub=sub),
                          image_path(sid), fam["id"],
-                         has_map=has_geo("subfamily", sid), taxon_search=True)
+                         has_map=has_geo("subfamily", sid), taxon_search=True,
+                         has_photos=bool(photo_taxa["subfamily"].get(sid)))
             + body)
 
     for gid in sorted(genera):
@@ -753,6 +799,7 @@ def main():
             + search_box("属", [gid], gen["species"] + gen["subspecies"])
             + figure_html(gid, gen["zh"])
             + (distribution_section("genus", gid) if mapped else genus_map_note(gen))
+            + photo_section("genus", gid)
             + genus_intro(gen, mapped)
             + fauna_section("genus", gid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
@@ -765,7 +812,8 @@ def main():
                          "/genus/%s/" % gid,
                          breadcrumb_for("genus", fam=fam, sub=subfamilies.get(gen["subfamily"]), gen=gen),
                          image_path(gen["family"]), fam["id"],
-                         has_map=mapped, taxon_search=True)
+                         has_map=mapped, taxon_search=True,
+                         has_photos=bool(photo_taxa["genus"].get(gid)))
             + body)
 
     problem = False

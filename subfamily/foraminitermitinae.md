@@ -48,6 +48,9 @@ breadcrumb:
 <p>分布兼及旧热带界（西非、中非至东非）与东洋界（马来半岛与东南亚）。食性以食土（腐殖质）为主，地下栖居，常活动于其他白蚁旧垅基部，十分稀有。形态上，兵蚁头近长方形、背腹略扁平，额区具一枚明显而稍凹陷的囟门；上颚属大颚型粗壮、缓弯而缘齿清晰，行咀嚼而非弹颚；工蚁上颚为食土型，肠瓣具棘状饰构，为本亚科近缘区分的重要鉴别依据。分类演化地位特殊：部分转录组与线粒体系统发育分析均将本亚科置于本科最基部的分化位置之一(21)，与圆球白蚁亚科及培菌的大白蚁亚科构成近缘的早期分支，是研究本科早期演化（尤其是食性转变与肠道共生微生物区系的起源）的关键狭域孑遗支系。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{%- assign fk = site.data.fauna_keys["/subfamily/foraminitermitinae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（3）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/foraminitermes/"><i>Foraminitermes</i> 孔白蚁属</a> <span class="taxon-count">6 种</span></li><li><a href="{{ site.base_url }}/genus/labritermes/"><i>Labritermes</i> 唇白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/pseudomicrotermes/"><i>Pseudomicrotermes</i> 伪小白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

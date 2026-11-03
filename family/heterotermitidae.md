@@ -11,6 +11,7 @@ permalink: /family/heterotermitidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/heterotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="heterotermitidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="heterotermitidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>异白蚁亚科（Heterotermitinae）由 Froggatt 于 1897 年建立，长期隶属鼻白蚁科；2024 年系统发育研究将其提升为科（Heterotermitidae）(21)，并纳入乳白蚁属 Coptotermes 与散白蚁属 Reticulitermes，现含 3 属。模式属为 Heterotermes Froggatt, 1897，科名由希腊语 heteros（不同的）与 termes 组合。本名录收录 3 属 229 种。</p>
@@ -49,6 +53,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/heterotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/heterotermitidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（3）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/coptotermes/"><i>Coptotermes</i> 乳白蚁属</a> <span class="taxon-count">58 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/heterotermes/"><i>Heterotermes</i> 异白蚁属</a> <span class="taxon-count">31 种</span></li><li><a href="{{ site.base_url }}/genus/reticulitermes/"><i>Reticulitermes</i> 散白蚁属</a> <span class="taxon-count">140 种、6 亚种</span></li></ul>

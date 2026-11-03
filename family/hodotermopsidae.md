@@ -11,6 +11,7 @@ permalink: /family/hodotermopsidae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/hodotermopsidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -40,6 +41,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="hodotermopsidae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="family" id="hodotermopsidae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>原白蚁科由 Engel 于 2021 年提出(11)。模式属为原白蚁属 Hodotermopsis Holmgren, 1911。科名词出模式属：Hodotermopsis 意为“似草白蚁的”，由 Hodotermes 加希腊文 opsis（外观）构成。本名录收录 1 属 1 种。</p>
@@ -48,6 +52,9 @@ breadcrumb:
 </section>
 {%- assign fz = site.data.fauna_families["/family/hodotermopsidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
+{%- endif %}
+{%- assign fk = site.data.fauna_keys["/family/hodotermopsidae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
 {%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/hodotermopsis/"><i>Hodotermopsis</i> 原白蚁属</a> <span class="taxon-count">1 种</span></li></ul>

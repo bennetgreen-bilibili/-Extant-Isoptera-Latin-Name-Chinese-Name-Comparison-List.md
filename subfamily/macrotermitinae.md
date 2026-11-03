@@ -11,6 +11,7 @@ permalink: /subfamily/macrotermitinae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/macrotermitinae-1.jpg"
 breadcrumb:
   - name: "名录"
@@ -42,6 +43,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="subfamily" id="macrotermitinae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="subfamily" id="macrotermitinae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>亚科级介绍</h2>
 <p>大白蚁亚科由 Kemner 于 1934 年建立(53)，模式属为大白蚁属 Macrotermes Holmgren, 1909（希腊文 makros，大，叠加 Termes）。本名录收录 12 属 373 种。</p>
@@ -49,6 +53,9 @@ breadcrumb:
 <p>经济上本亚科是旧世界农林业最主要的为害类群：勇猛大白蚁 M. bellicosus 与近明大白蚁M. subhyalinus 是非洲农田、可可园与椰园的主要蚁害，大型蚁冢并妨碍机械化耕作与收割；中国南方黑翅土白蚁 O. formosanus 是水库、江河堤坝的主要害虫(55)，可致散浸、管涌、跌窝直至溃口，并为害茶、柑橘、桉树、甘蔗等逾百种植物，云南蔗区其与黄翅大白蚁 M. barneyi 共同为害甘蔗，可致显著减产(56)；印度胖身土白蚁 O. obesus 与奥贝斯小白蚁 M. obesi 为害小麦、玉米、甘蔗、茶等多种作物，可致严重减产乃至绝收(57,58)。另一方面，本亚科培养的蚁巢伞菌（鸡枞菌）是亚洲、非洲著名的食用真菌。另有 Ancistrotermes、Hypotermes、Pseudacanthotermes、Allodontermes 等属为非洲与南亚作物害虫(10)。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{%- assign fk = site.data.fauna_keys["/subfamily/macrotermitinae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（12）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/acanthotermes/"><i>Acanthotermes</i> 刺白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/allodontermes/"><i>Allodontermes</i> 奇齿白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/ancistrotermes/"><i>Ancistrotermes</i> 钩白蚁属</a> <span class="taxon-count">16 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/euscaiotermes/"><i>Euscaiotermes</i> 左转白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/hypotermes/"><i>Hypotermes</i> 地白蚁属</a> <span class="taxon-count">13 种</span></li><li><a href="{{ site.base_url }}/genus/macrotermes/"><i>Macrotermes</i> 大白蚁属</a> <span class="taxon-count">57 种</span></li><li><a href="{{ site.base_url }}/genus/megaprotermes/"><i>Megaprotermes</i> 大前白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/microtermes/"><i>Microtermes</i> 小白蚁属</a> <span class="taxon-count">69 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/odontotermes/"><i>Odontotermes</i> 土白蚁属</a> <span class="taxon-count">198 种、10 亚种</span></li><li><a href="{{ site.base_url }}/genus/protermes/"><i>Protermes</i> 前白蚁属</a> <span class="taxon-count">5 种</span></li><li><a href="{{ site.base_url }}/genus/pseudacanthotermes/"><i>Pseudacanthotermes</i> 伪刺白蚁属</a> <span class="taxon-count">6 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/synacanthotermes/"><i>Synacanthotermes</i> 聚刺白蚁属</a> <span class="taxon-count">3 种</span></li></ul>
 </section>

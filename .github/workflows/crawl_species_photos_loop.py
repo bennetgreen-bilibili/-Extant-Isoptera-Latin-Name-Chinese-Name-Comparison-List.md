@@ -63,9 +63,9 @@ def load_names(all_names=None):
 def load_state(sources, refresh, all_names=None):
     """Return (names, species, count of pending taxa, plan)."""
     names = load_names(all_names)
-    species, no_photos, _meta = collector.load_existing()
+    species, no_photos, meta = collector.load_existing()
     plan = collector.plan_pending(names, list(sources), species, no_photos,
-                                  refresh=refresh)
+                                  meta=meta, refresh=refresh)
     return names, species, len(plan), plan
 
 

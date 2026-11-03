@@ -337,6 +337,11 @@ def index_page(language: str, taxonomy, blocks):
         parts.append("<p>Texto en español de las familias y subfamilias: "
                      "<a href=\"{{ site.base_url }}/es/list/sections/\">textos en español</a>.</p>")
         parts.append("")
+    if language == "zh":
+        # 《中国动物志》等翅目科的检索表（_data/fauna_keys.json 的 "/list/" 条目）
+        parts.append('{%- assign fk = site.data.fauna_keys["/list/"] -%}'
+                     '{%- if fk %}{% include fauna-keys.html fk=fk %}{%- endif %}')
+        parts.append("")
     if block.get("references"):
         parts.append(block["references"])
     return "\n".join(parts).rstrip() + "\n"

@@ -1,7 +1,10 @@
-/* 物种页图片图集：按需启用 PhotoSwipe 5（MIT，assets/vendor/photoswipe/）
-   没有 .species-gallery 的页面直接 no-op；PhotoSwipe 未加载（脚本被拦/离线）时也
-   只是让 <a class="gallery-item"> 按默认行为打开原图，不报错。
-   署名与许可完全来自 _includes/species-gallery.html 的 data-* 属性。 */
+/* 图片图集：按需启用 PhotoSwipe 5（MIT，assets/vendor/photoswipe/）
+   页面只要有 .species-gallery 就接管；没有则 no-op；PhotoSwipe 未加载（脚本被拦/离线）
+   时也只是让 <a class="gallery-item"> 按默认行为打开原图，不报错。
+   署名与许可完全来自图注里的 data-* 属性（_includes/photo-card.html），
+   所以一页可以同时存在多个 gallery（科/亚科/属的图片页是按种分组的）：
+   灯箱按「点击时所在的 .species-gallery」分实例，图注从当前幻灯片的
+   data.element 读取，不再用全局下标，避免多 gallery 串图注。 */
 (function () {
   'use strict';
 
@@ -22,6 +25,16 @@
     a.textContent = label;
     parent.appendChild(a);
     return a;
+  }
+
+  function itemFromElement(el) {
+    if (!el || !el.getAttribute) return null;
+    return {
+      credit: el.getAttribute('data-credit') || '',
+      license: el.getAttribute('data-license') || '',
+      licenseUrl: el.getAttribute('data-license-url') || '',
+      page: el.getAttribute('data-source-page') || ''
+    };
   }
 
   function buildCaption(item) {
@@ -48,22 +61,10 @@
     return inner;
   }
 
-  function boot(gallery) {
+  function boot() {
     if (booted) return;
     if (!window.PhotoSwipe || !window.PhotoSwipeLightbox) return;
     booted = true;
-
-    var anchors = gallery.querySelectorAll('a.gallery-item');
-    var items = [];
-    var i;
-    for (i = 0; i < anchors.length; i++) {
-      items.push({
-        credit: anchors[i].getAttribute('data-credit') || '',
-        license: anchors[i].getAttribute('data-license') || '',
-        licenseUrl: anchors[i].getAttribute('data-license-url') || '',
-        page: anchors[i].getAttribute('data-source-page') || ''
-      });
-    }
 
     var lightbox = new window.PhotoSwipeLightbox({
       gallery: '.species-gallery',
@@ -84,8 +85,9 @@
         onInit: function (el, pswp) {
           function render() {
             if (!pswp.currSlide) return;
-            var index = pswp.currSlide.index;
-            var item = items[index] || {};
+            var slide = pswp.currSlide;
+            var item = itemFromElement(slide.data && slide.data.element);
+            if (!item) item = {};
             while (el.firstChild) el.removeChild(el.firstChild);
             el.appendChild(buildCaption(item));
           }
@@ -99,26 +101,26 @@
   }
 
   function start() {
-    var gallery = document.querySelector('.species-gallery');
-    if (!gallery) return;
+    var galleries = document.querySelectorAll('.species-gallery');
+    if (!galleries.length) return;
 
     if ('IntersectionObserver' in window) {
       var observer = new IntersectionObserver(function (entries) {
         for (var i = 0; i < entries.length; i++) {
           if (entries[i].isIntersecting) {
             observer.disconnect();
-            boot(gallery);
+            boot();
             return;
           }
         }
       }, { rootMargin: '500px 0px' });
-      observer.observe(gallery);
+      for (var k = 0; k < galleries.length; k++) observer.observe(galleries[k]);
     }
 
     // pointerdown / keydown / focusin 都早于 click，交互前一定先装配好
     var events = ['pointerdown', 'touchstart', 'keydown', 'focusin'];
     for (var j = 0; j < events.length; j++) {
-      gallery.addEventListener(events[j], function () { boot(gallery); }, { passive: true });
+      document.addEventListener(events[j], boot, { passive: true });
     }
   }
 

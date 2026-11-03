@@ -11,6 +11,7 @@ permalink: /subfamily/microcerotermitinae/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 image: "/assets/images/microcerotermitinae.jpg"
 breadcrumb:
   - name: "名录"
@@ -42,6 +43,9 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="subfamily" id="microcerotermitinae" %}
 </section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="subfamily" id="microcerotermitinae" limit=6 more="1" %}
+</section>
 <section class="taxon-section taxon-intro">
 <h2>亚科级介绍</h2>
 <p>锯白蚁亚科由 Holmgren 于 1910 年建立（Microcerotermitinae Holmgren, 1910）(14)，模式属为锯白蚁属 Microcerotermes Silvestri, 1901；亚科名源自模式属（希腊语 mikros，小，cero，角）。它与聚白蚁亚科关系密切，但不能完全确定为姊妹群。本名录收录 2 属 150 种。</p>
@@ -49,6 +53,9 @@ breadcrumb:
 <p>经济上本亚科含若干重要害虫：不同锯白蚁 M. diversus 是伊朗(59)（胡齐斯坦省）、伊拉克、阿曼最具破坏性的建筑木材害虫，并是伊朗、伊拉克、沙特阿拉伯海枣（Phoenix dactylifera）的主要害虫；南美的斯特伦基锯白蚁 M. strunckii 为果树林次要害虫(60)，树栖锯白蚁 M. arboreus 为百香果次要害虫。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{%- assign fk = site.data.fauna_keys["/subfamily/microcerotermitinae/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/microcerotermes/"><i>Microcerotermes</i> 锯白蚁属</a> <span class="taxon-count">148 种、7 亚种</span></li><li><a href="{{ site.base_url }}/genus/onkotermes/"><i>Onkotermes</i> 倒钩白蚁属</a> <span class="taxon-count">2 种</span></li></ul>
 </section>

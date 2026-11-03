@@ -57,6 +57,13 @@ jobs:
       - name: Build species page bodies
         run: python .github/workflows/build_species_body.py --write
 
+      # 「全部图片」页（/species/<slug>/photos/、/genus/<id>/photos/ 等）与
+      # _data/photo_taxa.json（哪些分类单元有照片）：从 _data/species_photos.json 确定性生成。
+      # 必须在 build_taxonomy_pages.py 之前跑——科/亚科/属页会按 photo_taxa.json 决定
+      # 要不要挂图片小节、front matter 写不写 has_photos。
+      - name: Build /photos/ pages for taxa with photos
+        run: python .github/workflows/build_photo_pages.py
+
       # 科／亚科／属聚合页（/family/、/subfamily/、/genus/）：从 _species front matter 确定性生成
       - name: Build family / subfamily / genus hub pages
         run: python .github/workflows/build_taxonomy_pages.py
@@ -102,6 +109,7 @@ jobs:
           python .github/workflows/build_authority_links.py --check
           python .github/workflows/build_bsf_links.py --check
           python .github/workflows/build_species_photos.py --check
+          python .github/workflows/build_photo_pages.py --check
           python .github/workflows/build_references.py --verify
           python .github/workflows/build_papers.py --check
           # GeoJSON 与索引必须一一对应：既校验 JSON 合法，也防止孤儿/缺失文件。

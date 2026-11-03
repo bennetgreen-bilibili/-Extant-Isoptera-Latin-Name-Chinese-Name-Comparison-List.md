@@ -11,6 +11,7 @@ permalink: /genus/angulitermes/
 sitemap: true
 has_map: true
 taxon_search: true
+has_photos: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -37,6 +38,9 @@ breadcrumb:
 <section class="taxon-section taxon-distribution" data-pagefind-ignore>
 <h2>分布图</h2>
 {% include distribution-map.html mode="genus" id="angulitermes" %}
+</section>
+<section class="taxon-section taxon-photos-section" data-pagefind-ignore>
+{% include taxon-photos.html kind="genus" id="angulitermes" limit=6 more="1" %}
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>属级介绍</h2>

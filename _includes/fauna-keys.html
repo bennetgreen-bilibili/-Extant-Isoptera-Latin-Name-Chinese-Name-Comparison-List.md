@@ -1,0 +1,69 @@
+{%- comment -%}
+《中国动物志》形态检索表（属级 / 种级）。
+数据在 _data/fauna_keys.json，键为页面 URL；include 时传入已取出的 fk 变量：
+  {%- assign fk = site.data.fauna_keys["/family/termitidae/"] -%}{%- if fk %}{%- include fauna-keys.html fk=fk -%}{%- endif %}
+本块只渲染数据，不判断页面；无数据时不输出任何内容。
+{%- endcomment -%}
+{%- assign fk_n = fk.keys.size | default: 0 -%}
+{%- assign fk_o = fk.omitted.size | default: 0 -%}
+{%- if fk_n > 0 or fk_o > 0 -%}
+<section class="taxon-section fauna-keys" id="fauna-keys" lang="zh-CN">
+<h2>《中国动物志》检索表</h2>
+{%- if fk_n > 0 -%}
+<p class="fauna-lead">据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》的检索表重新整理。原表按书中当时的分类编写，本站按现行名录逐条核对：书中记载而本站未列为独立种的类群已从表末删除（每表末尾「已剔除」列出），编号因此与原书不同，本站按删除后的结构重新连续编号；书中属名与本站不一致者按本站分类归并，表中以其现用名出现。条目中的量度与图号从略。</p>
+{%- endif -%}
+{%- for k in fk.keys -%}
+{%- assign kidx = forloop.index0 -%}
+<details class="fk"{% if forloop.first %} open{% endif %}>
+<summary><span class="fk-title">{{ k.title }}</span>{% if k.caste %}<span class="fk-caste">{{ k.caste }}</span>{% endif %}<span class="fk-meta">{{ k.couplets.size }} 组 · {{ k.n_leaves }} 个终点</span></summary>
+{%- if k.note -%}
+<p class="fauna-note">{{ k.note }}</p>
+{%- endif -%}
+{%- if k.source -%}
+<p class="fauna-note">{{ k.source }}</p>
+{%- endif -%}
+<ol class="fk-list">
+{%- for c in k.couplets -%}
+<li class="fk-c" id="fk{{ kidx }}-{{ c.n }}" style="--d:{{ c.d }}">
+<span class="fk-n">{{ c.n }}</span>
+<span class="fk-leads">
+{%- for l in c.leads -%}
+<span class="fk-lead">
+{%- if l.t and l.t != blank -%}<span class="fk-txt">{{ l.t }}</span>{%- endif -%}
+{%- if l.leaf %} <span class="fk-dest">→ <a href="{{ site.base_url }}{{ l.leaf.url }}">{{ l.leaf.zh }}</a> <i class="fk-lat">{{ l.leaf.latin }}</i></span>
+{%- elsif l.to %} <span class="fk-dest">→ <a class="fk-to" href="#fk{{ kidx }}-{{ l.to }}">见第 {{ l.to }} 组</a></span>
+{%- endif -%}
+</span>
+{%- endfor -%}
+</span>
+</li>
+{%- endfor -%}
+</ol>
+{%- if k.dropped and k.dropped.size > 0 %}
+<p class="fk-dropped">已剔除（本站未列为独立种）：{% for d in k.dropped %}{{ d.zh }}{% if d.latin and d.latin != blank %} <i>{{ d.latin }}</i>{% endif %}{% unless forloop.last %}；{% endunless %}{% endfor %}。</p>
+{%- endif -%}
+</details>
+{%- endfor -%}
+{%- if fk.omitted and fk.omitted.size > 0 %}
+<p class="fk-omitted">本页未转述：{% for o in fk.omitted %}{{ o.title }}（{{ o.reason }}）{% unless forloop.last %}；{% endunless %}{% endfor %}。</p>
+{%- endif -%}
+<p class="fauna-cite">文献依据：黄复生、宋世涵、朱世模等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》，科学出版社；白蚁科亚科索引据 Krishna 等（2013）与 Engel 等（2024）的亚科划分重拟。</p>
+<script>
+(function(){
+  function openTarget(id){
+    if(!id) return;
+    var el=document.getElementById(id);
+    if(!el) return;
+    var d=el.closest('details');
+    if(d) d.open=true;
+  }
+  document.addEventListener('click',function(e){
+    var a=e.target.closest ? e.target.closest('a.fk-to') : null;
+    if(a && a.getAttribute('href').charAt(0)==='#') openTarget(a.getAttribute('href').slice(1));
+  });
+  window.addEventListener('hashchange',function(){ openTarget(location.hash.slice(1)); });
+  if(location.hash.indexOf('#fk')===0) openTarget(location.hash.slice(1));
+})();
+</script>
+</section>
+{%- endif -%}
