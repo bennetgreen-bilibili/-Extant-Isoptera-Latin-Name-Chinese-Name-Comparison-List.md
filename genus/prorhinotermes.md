@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Prorhinotermes inopinatus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genus["/genus/prorhinotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（12 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/prorhinotermes-canalifrons/"><i>Prorhinotermes canalifrons</i> Sjöstedt, 1904 沟额原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-cotym/"><i>Prorhinotermes cotym</i> Joseph, Amina & Mathew, 2023 科廷原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-flavus/"><i>Prorhinotermes flavus</i> Bugnion & Popoff, 1910 黄色原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-hainanensis/"><i>Prorhinotermes hainanensis</i> Ping & Xu, 1989 海南原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-inopinatus/"><i>Prorhinotermes inopinatus</i> Silvestri, 1909 意外原鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/prorhinotermes-molinoi/"><i>Prorhinotermes molinoi</i> Snyder, 1924 莫利诺原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-oceanicus/"><i>Prorhinotermes oceanicus</i> Wasmann, 1902 海洋原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-ponapensis/"><i>Prorhinotermes ponapensis</i> Oshima, 1917 波纳佩原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-rugifer/"><i>Prorhinotermes rugifer</i> Kemner, 1931 具皱原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-simplex/"><i>Prorhinotermes simplex</i> Hagen, 1858 简单原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-spectabilis/"><i>Prorhinotermes spectabilis</i> Ping & Xu, 1989 奇丽原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-xishaensis/"><i>Prorhinotermes xishaensis</i> Li & Tsai, 1976 西沙原鼻白蚁</a></li></ul>
 </section>

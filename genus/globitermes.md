@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Globitermes globosus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genus["/genus/globitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（7 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/globitermes-brachycerastes/"><i>Globitermes brachycerastes</i> Han, 1987 短角球白蚁</a></li><li><a href="{{ site.base_url }}/species/globitermes-globosus/"><i>Globitermes globosus</i> Haviland, 1898 球形球白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/globitermes-menglaensis/"><i>Globitermes menglaensis</i> Huang & Zhu, 1990 勐腊球白蚁</a></li><li><a href="{{ site.base_url }}/species/globitermes-mengpengensis/"><i>Globitermes mengpengensis</i> Zhu & Huang, 1990 勐捧球白蚁</a></li><li><a href="{{ site.base_url }}/species/globitermes-minor/"><i>Globitermes minor</i> Han, 1987 小球白蚁</a></li><li><a href="{{ site.base_url }}/species/globitermes-sulphureus/"><i>Globitermes sulphureus</i> Haviland, 1898 黄球白蚁</a></li><li><a href="{{ site.base_url }}/species/globitermes-vadaensis/"><i>Globitermes vadaensis</i> Kemner, 1934 瓦达球白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/globitermes-globosus-depilis/"><i>Globitermes globosus depilis</i> Holmgren, 1913 无毛亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/globitermes-globosus-globosus/"><i>Globitermes globosus globosus</i> Haviland, 1898 指名亚种</a></li></ul>
 </section>

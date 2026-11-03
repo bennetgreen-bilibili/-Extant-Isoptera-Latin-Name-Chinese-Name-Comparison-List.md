@@ -1,0 +1,42 @@
+{%- comment -%}
+  属级/科级形态与生物学：据《中国动物志·昆虫纲 第十七卷 等翅目》(2000) 对应章节改写而成。
+  数据来自 _data/fauna_genera.json 与 _data/fauna_families.json（键为页面 URL）。
+{%- endcomment -%}
+<section class="species-fauna taxon-fauna" lang="zh-CN">
+  <h2>属征与生物学 <span class="fact-en" lang="en">Genus diagnosis</span> <span class="fact-es" lang="es">Diagnosis del género</span></h2>
+  <p class="fauna-lead">以下内容据《中国动物志·昆虫纲 第十七卷 等翅目》（2000）{{ include.fauna.book_ref }}的属级记述重新整理改写；原书的检索表与量度表不在此转述。</p>
+  {%- if include.fauna.diagnosis and include.fauna.diagnosis != "" %}
+  <h3>鉴别要点 <span class="fact-en" lang="en">Key characters</span></h3>
+  <p>{{ include.fauna.diagnosis }}</p>
+  {%- endif %}
+  {%- if include.fauna.soldier and include.fauna.soldier != "" %}
+  <h3>兵蚁 <span class="fact-en" lang="en">Soldier</span></h3>
+  <p>{{ include.fauna.soldier }}</p>
+  {%- endif %}
+  {%- if include.fauna.alate and include.fauna.alate != "" %}
+  <h3>有翅成虫 <span class="fact-en" lang="en">Alate</span></h3>
+  <p>{{ include.fauna.alate }}</p>
+  {%- endif %}
+  {%- if include.fauna.worker and include.fauna.worker != "" %}
+  <h3>工蚁 <span class="fact-en" lang="en">Worker</span></h3>
+  <p>{{ include.fauna.worker }}</p>
+  {%- endif %}
+  {%- if include.fauna.biology and include.fauna.biology != "" %}
+  <h3>生物学与经济意义 <span class="fact-en" lang="en">Biology</span></h3>
+  <p>{{ include.fauna.biology }}</p>
+  {%- endif %}
+  {%- if include.fauna.distribution and include.fauna.distribution != "" %}
+  <h3>分布 <span class="fact-en" lang="en">Distribution</span></h3>
+  <p>{{ include.fauna.distribution }}</p>
+  {%- endif %}
+  {%- if include.fauna.en and include.fauna.en != "" %}
+  <div class="fauna-en fact-en" lang="en">
+    <h3>Diagnosis (English summary)</h3>
+    <p>{{ include.fauna.en }}</p>
+  </div>
+  {%- endif %}
+  {%- if include.fauna.taxonomy_note and include.fauna.taxonomy_note != "" %}
+  <p class="fauna-note"><strong>分类说明</strong>：{{ include.fauna.taxonomy_note }}</p>
+  {%- endif %}
+  <p class="fauna-cite">文献依据：黄复生、朱世模、平正明、王治国、李参、徐春贵，2000．中国动物志·昆虫纲 第十七卷 等翅目．北京：科学出版社．本段为重新组织的改写稿，非原文转录。</p>
+</section>

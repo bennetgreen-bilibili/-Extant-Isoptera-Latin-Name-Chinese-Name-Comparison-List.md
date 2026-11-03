@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Cucurbitermes yingdeensis</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genus["/genus/cucurbitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cucurbitermes-parviceps/"><i>Cucurbitermes parviceps</i> Xu & Dong, 1994 小葫白蚁</a></li><li><a href="{{ site.base_url }}/species/cucurbitermes-sinensis/"><i>Cucurbitermes sinensis</i> Li & Ping, 1985 中华葫白蚁</a></li><li><a href="{{ site.base_url }}/species/cucurbitermes-yingdeensis/"><i>Cucurbitermes yingdeensis</i> Li & Ping, 1985 英德葫白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

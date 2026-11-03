@@ -46,6 +46,9 @@ breadcrumb:
 <p>尖鼻白蚁属、狭鼻白蚁属与鼻白蚁属主产新热带（南美北部至加勒比），棒鼻白蚁属主产东南亚，西至印度东北部，北达中国西藏与云南，东至巴布亚新几内亚、所罗门群岛与澳大利亚昆士兰；长鼻白蚁属广布旧热带界、东洋界、澳大利亚及西太平洋岛屿。本科具真工蚁品级，往往巢居土中或与土壤接触的木材内，工蚁经隧道外出取食木材；兵蚁多呈大小二态（少数三态），上唇须状延长、顶端刷状、中央有沟，额腺分泌物沿沟流出御敌，是本科区别于近缘科的重要鉴别特征。本科工蚁与有翅成虫左上颚端齿之后具3枚明显而大小不等的缘齿，有翅成虫、工蚁与兵蚁的后唇基前缘均明显拱凸，兵蚁囟门周缘不生长毛。经济上，长鼻白蚁属在分布区内常见为害建筑木材，如澳大利亚东部的中间长鼻白蚁 Schedorhinotermes intermedius(25)；长喙长鼻白蚁 Schedorhinotermes longirostris（原生印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚，引入美国关岛），该种 2011 年传入关岛、为害当地特有苏铁。</p>
 <p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#rhinotermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
 </section>
+{%- assign fz = site.data.fauna_families["/family/rhinotermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（5）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/acorhinotermes/"><i>Acorhinotermes</i> 尖鼻白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/dolichorhinotermes/"><i>Dolichorhinotermes</i> 狭鼻白蚁属</a> <span class="taxon-count">7 种</span></li><li><a href="{{ site.base_url }}/genus/parrhinotermes/"><i>Parrhinotermes</i> 棒鼻白蚁属</a> <span class="taxon-count">13 种</span></li><li><a href="{{ site.base_url }}/genus/rhinotermes/"><i>Rhinotermes</i> 鼻白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/schedorhinotermes/"><i>Schedorhinotermes</i> 长鼻白蚁属</a> <span class="taxon-count">35 种</span></li></ul>
 </section>

@@ -46,6 +46,9 @@ breadcrumb:
 <p>现生种山林原白蚁分布于日本、中国台湾、中国南部及越南(12)。与近缘类群一致，原白蚁栖息于湿润腐木之中，巢群筑于倒木内部，营单块木巢生活，由拟工蚁执行巢内劳动。兵蚁头近方卵形、扁平，头前半部色深，头顶中央具一凹坑，单眼明显、呈肾形，上颚粗壮对称，左上颚具4枚、右上颚具2枚大型缘齿，触角22—24节，前胸背板半月形、略狭于头；有翅成虫体长12—13.5 mm，触角21—26节，前翅鳞略大于后翅鳞。经济上，山林原白蚁 Hodotermopsis sjostedti 在中国南方危害活树与伐倒木，是蛀干害虫(13)</p>
 <p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#hodotermopsidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
 </section>
+{%- assign fz = site.data.fauna_families["/family/hodotermopsidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/hodotermopsis/"><i>Hodotermopsis</i> 原白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

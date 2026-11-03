@@ -612,6 +612,15 @@ def main():
         body = "".join("<p>%s</p>\n" % text for text in paragraphs)
         return '<section class="taxon-section taxon-intro" data-pagefind-ignore>\n<h2>属级介绍</h2>\n' + body + "</section>\n"
 
+    def fauna_section(kind, taxon_id):
+        """据《中国动物志·昆虫纲 第十七卷 等翅目》(2000) 改写而来的形态描述。
+
+        数据在 _data/fauna_<kind>.json，键为页面 URL；没有对应条目时不输出任何内容。
+        """
+        return ('{%%- assign fz = site.data.fauna_%s["/%s/%s/"] -%%}'
+                '{%%- if fz %%}\n{%% include fauna-%s.html fauna=fz %%}\n{%%- endif %%}\n'
+                % (kind, kind, taxon_id, kind))
+
     def genus_map_note(gen):
         fam = families[gen["family"]]
         links = ['<a href="%s/family/%s/">%s的科级分布图</a>' % (SB, fam["id"], fam["zh"])]
@@ -666,6 +675,7 @@ def main():
             + figure_html(fid, fam["zh"])
             + distribution_section("family", fid)
             + intro_section(fid, "科级介绍")
+            + fauna_section("family", fid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("family", fid) + "\n</article>\n"
             + taxon_jsonld("family", fid, fam["latin"], fam["zh"], parent, "科")
@@ -736,6 +746,7 @@ def main():
             + figure_html(gid, gen["zh"])
             + (distribution_section("genus", gid) if mapped else genus_map_note(gen))
             + genus_intro(gen, mapped)
+            + fauna_section("genus", gid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("genus", gid) + "\n</article>\n"
             + taxon_jsonld("genus", gid, gen["latin"], gen["zh"], parent, "属")

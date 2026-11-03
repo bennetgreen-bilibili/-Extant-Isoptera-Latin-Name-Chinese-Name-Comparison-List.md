@@ -1,0 +1,46 @@
+{
+ "/family/hodotermopsidae/": {
+  "alate": "",
+  "biology": "该类群栖于潮湿森林，蛀食湿润原木、倒木与树桩，亦危害活树及村舍、古建筑的木构件，故有湿木白蚁之称。原始林与次生林受害尤重，其蛀道与土壤无联系，营隐蔽的木栖生活。",
+  "book_ref": "（原书草白蚁科 Hodotermitidae 一节）",
+  "diagnosis": "书中所记的草白蚁类群属等翅目中较原始的一支。各品级头部均不具囟；前胸背板平而窄于头宽；后足第一跗节仅腹面纵裂、背面仍为一节，因此腹面观似五节而背面观只见四节；尾须由四至八节组成；有翅成虫缺单眼，触角十五至二十七节；兵蚁胫节生二至四枚端刺。蜕变型（兵蚁）在头形、颚齿、触角与尾须节数上接近原始型，品级分化不剧烈，保留较多祖征。",
+  "distribution": "书中记载我国现存者仅一属一种，见于亚热带山地与丘陵森林；具体产地与寄主见本属物种页。",
+  "en": "In the 2000 account, Chinese members of this group are small, wood-dwelling termites retaining many ancestral features. Every caste lacks a fontanelle, the pronotum is flat and narrower than the head, the first hind tarsal segment is cleft only below (five segments seen from beneath, four from above), and cerci comprise four to eight segments. Alates have no ocelli and 15 to 27 antennal segments; soldiers bear two to four tibial spurs. Colonies live in damp timber and are known as dampwood termites.",
+  "soldier": "书中所记我国唯一一属的兵蚁头壳宽扁近圆形，后缘与两侧缘均作圆弧；触角节数多，可达二十四节；复眼明显；上颚强壮、弯曲幅度大，颚齿极发达，左上颚具四枚缘齿，右上颚三枚。前胸背板扁平且略窄于头；后足胫节除四枚端刺外尚有二枚侧刺，前足与中足胫节则无侧刺；尾须四至六节。",
+  "taxonomy_note": "原书沿用 Snyder、Emerson 的系统，把原白蚁亚科置于草白蚁科 Hodotermitidae 之内（并注明该亚科曾被主张提升为原白蚁科 Termopsidae）。这一亚科后来普遍被提升为独立的原白蚁科 Hodotermopsidae，本站采现行系统，故本页所载实为原书草白蚁科中与我国种类有关的部分。",
+  "worker": ""
+ },
+ "/family/kalotermitidae/": {
+  "alate": "",
+  "biology": "本科各类群筑巢、蛀食均限于木材之内，蛀道不与土壤相通，干材、枯立木、建筑木构件与仓储木器都可被侵害。因群体小而隐蔽，往往在木质被蛀空后才被发现；我国南方与沿海地区的古建筑、旧家具受害记录较多。",
+  "book_ref": "（原书木白蚁科 Kalotermitidae 一节）",
+  "diagnosis": "本科为中等大小、营木栖生活的原始类群，通称干木白蚁。各品级头部皆无囟；前胸背板扁平，宽度与头约略相当或稍过之；跗节四节，胫节端刺二至四枚；尾须只二节。兵蚁在触角后方留有淡色眼点；有翅成虫具单眼，前翅鳞远大于后翅鳞并覆于其基部，径分脉发达且分支若干，亚前缘脉细弱。本科无工蚁品级，取食与哺育由若虫承担。",
+  "distribution": "书中记载我国共五属（堆砂白蚁属、木白蚁属、楹白蚁属、树白蚁属与新白蚁属）；本站按现行分类收录的属与种数略有调整，详见下方名录。",
+  "en": "Kalotermitids are moderate-sized, wood-dwelling termites often called drywood termites. No caste possesses a fontanelle; the flat pronotum equals or slightly exceeds head width, tarsi are four-segmented, tibial spurs number two to four, and cerci have only two segments. Soldiers show pale eye spots behind the antennae; alates carry ocelli, an enlarged forewing scale overlapping the hindwing scale, a branched radial sector and a slender subcosta. The family lacks a true worker caste, nymphs performing its tasks.",
+  "soldier": "",
+  "taxonomy_note": "",
+  "worker": ""
+ },
+ "/family/rhinotermitidae/": {
+  "alate": "",
+  "biology": "本科多为土木两栖，巢可建于地下、树干或地面物体之中，群体结构较复杂。取食活树、枯木与建筑木构件，也能蛀害皮革、塑料、电缆护套乃至金属制品，若干属为世界性大害虫，对房屋、桥梁、电杆与通信设施的破坏尤重。",
+  "book_ref": "（原书鼻白蚁科 Rhinotermitidae 一节）",
+  "diagnosis": "头部具囟，为本科最醒目的特征；触角十三至二十五节；前胸背板平坦而窄于头；跗节四节，爪下无中垫；尾须二节。有翅成虫与工蚁左上颚有三枚缘齿、右上颚二枚，第一缘齿附有亚缘齿；有翅成虫具单眼，前翅鳞大于后翅鳞并彼此叠覆，翅膜生横脉而成网状。",
+  "distribution": "本科种类多、分布广，以东洋区为分布与分化中心，部分属伸入新热带区、热带区与澳洲区，亦有种类在湿度较低的北半球建立种群；我国南北均有分布。",
+  "en": "Rhinotermitids are recognised by a fontanelle on the head, antennae of 13 to 25 segments, a flat pronotum narrower than the head, four-segmented tarsi without an arolium, and two cerci. Alates and workers have three left and two right mandibular marginal teeth, the first with a subsidiary tooth; alates also show ocelli, overlapping wing scales and a reticulate wing membrane. Most species nest in soil or wood and several are worldwide structural pests.",
+  "soldier": "",
+  "taxonomy_note": "原书的鼻白蚁科包含此后被分出或归并的类群：杆白蚁属 Stylotermes 现多单列为杆白蚁科 Stylotermitidae，蔡白蚁属 Tsaitermes 已并入散白蚁属 Reticulitermes，乳白蚁属 Coptotermes 的若干种亦有调整。本站按现行系统排列，本页与原书章节并非逐属对应。",
+  "worker": ""
+ },
+ "/family/termitidae/": {
+  "alate": "",
+  "biology": "本科均营土栖生活，筑巢于地下、土垄、树干或建筑物内。大白蚁亚科等类群在巢中培育真菌菌圃，以分解木质；它们是热带、亚热带生态系统中的重要分解者，同时又是农作物、林木与建筑的重大害虫。",
+  "book_ref": "（原书白蚁科 Termitidae 一节）",
+  "diagnosis": "等翅目中最大的科，约占全部种类的四分之三，属土栖性的高等白蚁，巢多筑于地下或土垄之内。书中将其分为五个亚科：白蚁亚科、弓钩白蚁亚科、大白蚁亚科、象白蚁亚科，以及 Grasse 与 Noirot 于 1954 年另立的 Apicotermitinae。兵蚁与工蚁常呈明显多态，少数类群无兵蚁。兵蚁前胸背板窄于头，前缘上翘呈马鞍状，有囟，尾须一至二节，跗节三至四节；有翅成虫左上颚仅一至二枚缘齿，前后翅鳞分离而前翅鳞稍大，径脉退化或消失，后唇基大而隆起，囟显著。",
+  "distribution": "本科以热带与亚热带最为繁盛，我国南方种类众多，长江以南各省区均有分布，华南与西南山地尤为集中。",
+  "en": "The largest family of Isoptera, holding about three quarters of all species and comprising the higher, soil-dwelling termites. The 2000 account recognises five subfamilies, with soldiers and workers often strongly polymorphic and a few groups lacking soldiers. Soldiers have a saddle-shaped pronotum narrower than the head, a fontanelle, one or two cereal segments and three or four tarsal segments; alates have one or two left marginal teeth, separate wing scales and a reduced radial sector.",
+  "soldier": "",
+  "taxonomy_note": "原书采用五亚科系统，并把印白蚁属 Indotermes 等此后被主张独立成科的类群留在本科之内；本站按现行系统分列，故本页为原书白蚁科总体特征的改写，具体属的归属以名录为准。",
+  "worker": ""
+ }
+}

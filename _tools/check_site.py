@@ -5,7 +5,8 @@
 
   1. _config.yml 的 url + baseurl 与 base_url 一致；版本号与 dataset/metadata.json 一致
   2. 全部 JSON 可解析（_data/、data/、search-index.json、isoptera-data.json）
-  3. 分布图产物与 occurrence_summary.json 一一对应（无孤儿 / 缺失），GeoJSON 合法
+  3. 分布图产物与索引一一对应（无孤儿 / 缺失），GeoJSON 合法：索引 = occurrence_summary.json
+     （科 / 属 / 种）+ subfamily_maps.json（亚科）；实现见 _tools/check_geo.py
   4. _species/ front matter 必备字段齐全、slug 唯一
   5. 三语 list.md 同构：物种链接集合、标题锚点集合完全一致
   6. 名录页内部锚点全部有对应标题（不会点进去落空）
@@ -45,6 +46,11 @@ import re
 import sys
 from pathlib import Path
 
+# 分布图产物的不变量只有一份实现（_tools/check_geo.py），这里只负责把结果转成
+# 本脚本的 errors 列表与 --ci 注解，避免两处各写一遍后再次漂移。
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import check_geo as geo_artifacts  # noqa: E402  （必须先插入 sys.path 才能导入同级脚本）
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
@@ -70,7 +76,6 @@ NAME_SYN_CSV = ROOT / "downloads" / "isoptera-synonym-pairs.csv"
 # 外链必须是干净的绝对 URL：行尾注释、HTML 引号或 <...> 占位符被拼进来时，
 # 页面上「异名 / 接受名」的链接会指向坏地址，甚至提前闭合标签把整格 HTML 弄坏。
 BAD_URL_RE = re.compile(r"[\s\"'<>]|#")
-OCCURRENCE = ROOT / "_data" / "occurrence_summary.json"
 I18N = ROOT / "_data" / "i18n.yml"
 CHANGELOG_DATA = ROOT / "_data" / "changelog.json"
 CHANGELOG_ATOM = ROOT / "changelog.atom"
@@ -150,34 +155,18 @@ def check_json() -> None:
 
 
 def check_geo() -> None:
-    if not OCCURRENCE.is_file():
-        err("_data/occurrence_summary.json", "文件不存在")
-        return
-    summary = json.loads(read(OCCURRENCE))
-    listed = set()
-    for item in summary.get("families") or []:
-        listed.add(item["file"])
-    for item in summary.get("genera") or []:
-        listed.add(item["file"])
-    for item in (summary.get("species") or {}).values():
-        listed.add(item["file"])
-    # 亚科级地图由 build_taxonomy_pages.py 合并属级地图生成，索引在 _data/subfamily_maps.json
-    subfamily_maps = ROOT / "_data" / "subfamily_maps.json"
-    if subfamily_maps.is_file():
-        for item in (json.loads(read(subfamily_maps)).get("subfamilies") or []):
-            listed.add(item["file"])
-    disk = {p.relative_to(ROOT).as_posix() for p in (ROOT / "assets" / "geo").rglob("*.geojson")}
-    missing = sorted(listed - disk)
-    orphan = sorted(disk - listed)
-    if missing:
-        err("assets/geo", "%d 个 summary 引用但磁盘缺失的 GeoJSON，例如 %s" % (len(missing), missing[:3]))
-    if orphan:
-        err("assets/geo", "%d 个磁盘存在但 summary 未引用的 GeoJSON，例如 %s" % (len(orphan), orphan[:3]))
-    for rel in sorted(listed & disk):
-        try:
-            json.loads(read(ROOT / rel))
-        except Exception as exc:
-            err(rel, "GeoJSON 解析失败：" + str(exc)[:80])
+    """分布图产物：索引（occurrence_summary + subfamily_maps）与磁盘一一对应。"""
+    report = geo_artifacts.collect(ROOT)
+    for problem in report["problems"]:
+        err("_data", problem)
+    if report["missing"]:
+        err("assets/geo", "%d 个索引引用但磁盘缺失的 GeoJSON，例如 %s"
+            % (len(report["missing"]), report["missing"][:3]))
+    if report["orphan"]:
+        err("assets/geo", "%d 个磁盘存在但索引未引用的 GeoJSON，例如 %s"
+            % (len(report["orphan"]), report["orphan"][:3]))
+    for rel, msg in report["invalid"]:
+        err(rel, "GeoJSON 解析失败：" + msg[:80])
 
 
 def parse_front_matter(path: Path) -> dict:
