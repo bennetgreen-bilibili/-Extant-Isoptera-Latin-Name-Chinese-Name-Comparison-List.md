@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Proboscitermes tubuliferus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/proboscitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/proboscitermes-mcgrewi/"><i>Proboscitermes mcgrewi</i> Scheffrahn, 2010 麦克格鲁象鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/proboscitermes-tubuliferus/"><i>Proboscitermes tubuliferus</i> Sjöstedt, 1907 具管象鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

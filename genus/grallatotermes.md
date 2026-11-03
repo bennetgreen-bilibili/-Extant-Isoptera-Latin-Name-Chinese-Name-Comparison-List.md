@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Grallatotermes grallator</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/grallatotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/grallatotermes-admirabilus/"><i>Grallatotermes admirabilus</i> Light, 1930 奇妙高跷白蚁</a></li><li><a href="{{ site.base_url }}/species/grallatotermes-africanus/"><i>Grallatotermes africanus</i> Harris, 1954 非洲高跷白蚁</a></li><li><a href="{{ site.base_url }}/species/grallatotermes-grallator/"><i>Grallatotermes grallator</i> Desneux, 1905 高跷高跷白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/grallatotermes-grallatoriformis/"><i>Grallatotermes grallatoriformis</i> Holmgren & Holmgren, 1917 似高跷高跷白蚁</a></li><li><a href="{{ site.base_url }}/species/grallatotermes-niger/"><i>Grallatotermes niger</i> Chatterjee & Thapa, 1964 黑色高跷白蚁</a></li><li><a href="{{ site.base_url }}/species/grallatotermes-splendidus/"><i>Grallatotermes splendidus</i> Light & Wilson, 1936 华美高跷白蚁</a></li><li><a href="{{ site.base_url }}/species/grallatotermes-weyeri/"><i>Grallatotermes weyeri</i> Kemner, 1931 韦耶高跷白蚁</a></li></ul>
 </section>

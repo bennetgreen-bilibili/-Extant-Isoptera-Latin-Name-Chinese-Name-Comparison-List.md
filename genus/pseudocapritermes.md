@@ -44,7 +44,7 @@ breadcrumb:
 <p>模式种：<i>Pseudocapritermes silvaticus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
-{%- assign fz = site.data.fauna_genus["/genus/pseudocapritermes/"] -%}{%- if fz %}
+{%- assign fz = site.data.fauna_genera["/genus/pseudocapritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 <section class="taxon-section">

@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Procubitermes arboricola</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/procubitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/procubitermes-aburiensis/"><i>Procubitermes aburiensis</i> Sjöstedt, 1926 阿布里原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-arboricola/"><i>Procubitermes arboricola</i> Sjöstedt, 1897 树栖原方白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/procubitermes-curvatus/"><i>Procubitermes curvatus</i> Silvestri, 1914 弯曲原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-niapuensis/"><i>Procubitermes niapuensis</i> Emerson, 1928 尼亚普原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-sinuosus/"><i>Procubitermes sinuosus</i> Silvestri, 1914 扭曲原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-sjostedti/"><i>Procubitermes sjostedti</i> Rosen, 1912 舍斯泰特原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-ueleensis/"><i>Procubitermes ueleensis</i> Sjöstedt, 1924 韦莱原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-undulans/"><i>Procubitermes undulans</i> Schmitz, 1917 波纹原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-wasmanni/"><i>Procubitermes wasmanni</i> Emerson, 1928 沃斯曼原方白蚁</a></li></ul>
 </section>

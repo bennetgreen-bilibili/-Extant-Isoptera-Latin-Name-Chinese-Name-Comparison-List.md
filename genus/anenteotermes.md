@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Anenteotermes disluctans</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/anenteotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（11 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/anenteotermes-amachetus/"><i>Anenteotermes amachetus</i> Sands, 1972 无刀无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-ateuchestes/"><i>Anenteotermes ateuchestes</i> Sands, 1972 无锐无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-cherubimi/"><i>Anenteotermes cherubimi</i> Scheffrahn, 2018 小天使无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-cicur/"><i>Anenteotermes cicur</i> Sands, 1972 温顺无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-cnaphorus/"><i>Anenteotermes cnaphorus</i> Sands, 1972 笨神无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-disluctans/"><i>Anenteotermes disluctans</i> Sands, 1972 不斗无甲白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/anenteotermes-hemerus/"><i>Anenteotermes hemerus</i> Sands, 1972 肱骨无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-improcinctus/"><i>Anenteotermes improcinctus</i> Sands, 1972 无备无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-improelatans/"><i>Anenteotermes improelatans</i> Sands, 1972 不变无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-nanus/"><i>Anenteotermes nanus</i> Sjöstedt, 1911 侏儒无甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anenteotermes-polyscolus/"><i>Anenteotermes polyscolus</i> Sands, 1972 多魁无甲白蚁</a></li></ul>
 </section>

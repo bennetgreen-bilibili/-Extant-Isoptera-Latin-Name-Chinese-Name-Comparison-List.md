@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Patawatermes turricola</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/patawatermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/patawatermes-nigripunctatus/"><i>Patawatermes nigripunctatus</i> Emerson, 1925 黑点帕塔瓦白蚁</a></li><li><a href="{{ site.base_url }}/species/patawatermes-turricola/"><i>Patawatermes turricola</i> Silvestri, 1901 土栖帕塔瓦白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

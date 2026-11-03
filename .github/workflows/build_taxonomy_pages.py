@@ -612,14 +612,19 @@ def main():
         body = "".join("<p>%s</p>\n" % text for text in paragraphs)
         return '<section class="taxon-section taxon-intro" data-pagefind-ignore>\n<h2>属级介绍</h2>\n' + body + "</section>\n"
 
+    # 数据键必须与 _data/ 里的文件名一致：_data/fauna_families.json → site.data.fauna_families。
+    # 曾按单数拼成 fauna_family / fauna_genus，与文件名不匹配 → fz 恒为 nil，
+    # 整段形态描述永远不渲染（且不报错），只有页面 diff 会露馅。
+    FAUNA_DATA_KEY = {"family": "fauna_families", "genus": "fauna_genera", "species": "fauna_species"}
+
     def fauna_section(kind, taxon_id):
         """据《中国动物志·昆虫纲 第十七卷 等翅目》(2000) 改写而来的形态描述。
 
-        数据在 _data/fauna_<kind>.json，键为页面 URL；没有对应条目时不输出任何内容。
+        数据在 _data/fauna_<复数>.json，键为页面 URL；没有对应条目时不输出任何内容。
         """
-        return ('{%%- assign fz = site.data.fauna_%s["/%s/%s/"] -%%}'
+        return ('{%%- assign fz = site.data.%s["/%s/%s/"] -%%}'
                 '{%%- if fz %%}\n{%% include fauna-%s.html fauna=fz %%}\n{%%- endif %%}\n'
-                % (kind, kind, taxon_id, kind))
+                % (FAUNA_DATA_KEY[kind], kind, taxon_id, kind))
 
     def genus_map_note(gen):
         fam = families[gen["family"]]

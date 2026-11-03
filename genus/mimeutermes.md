@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Mimeutermes giffardii</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/mimeutermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/mimeutermes-binghami/"><i>Mimeutermes binghami</i> Sands, 1968 宾厄姆仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-clypeatus/"><i>Mimeutermes clypeatus</i> Sands, 1968 大唇仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-edentatus/"><i>Mimeutermes edentatus</i> Sands, 1956 无齿仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-giffardii/"><i>Mimeutermes giffardii</i> Silvestri, 1914 吉法德仿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/mimeutermes-majusculus/"><i>Mimeutermes majusculus</i> Sands, 1965 稍大仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-sorex/"><i>Mimeutermes sorex</i> Silvestri, 1914 吻长仿白蚁</a></li></ul>
 </section>

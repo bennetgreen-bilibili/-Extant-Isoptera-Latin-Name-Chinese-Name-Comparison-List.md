@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Allodontermes schultzei</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/allodontermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/allodontermes-rhodesiensis/"><i>Allodontermes rhodesiensis</i> Sjöstedt, 1914 罗得西亚奇齿白蚁</a></li><li><a href="{{ site.base_url }}/species/allodontermes-schultzei/"><i>Allodontermes schultzei</i> Silvestri, 1908 舒尔茨奇齿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/allodontermes-tenax/"><i>Allodontermes tenax</i> Silvestri, 1912 执着奇齿白蚁</a></li></ul>
 </section>

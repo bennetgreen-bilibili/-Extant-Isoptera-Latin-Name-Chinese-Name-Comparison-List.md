@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Acholotermes tithasus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/acholotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/acholotermes-chirotus/"><i>Acholotermes chirotus</i> Sands, 1972 短小顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-epius/"><i>Acholotermes epius</i> Sands, 1972 椭囟顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-imbellis/"><i>Acholotermes imbellis</i> Sands, 1972 和平顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-socialis/"><i>Acholotermes socialis</i> Sjöstedt, 1899 社会顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-tithasus/"><i>Acholotermes tithasus</i> Sands, 1972 体大顺白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

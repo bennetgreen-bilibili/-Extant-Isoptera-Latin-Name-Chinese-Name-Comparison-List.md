@@ -43,7 +43,7 @@ breadcrumb:
 <p>模式种：<i>Cucurbitermes yingdeensis</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
-{%- assign fz = site.data.fauna_genus["/genus/cucurbitermes/"] -%}{%- if fz %}
+{%- assign fz = site.data.fauna_genera["/genus/cucurbitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 <section class="taxon-section">

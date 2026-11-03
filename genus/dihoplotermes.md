@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Dihoplotermes inusitatus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/dihoplotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/dihoplotermes-inusitatus/"><i>Dihoplotermes inusitatus</i> Araujo, 1961 非凡双戟白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/dihoplotermes-taurus/"><i>Dihoplotermes taurus</i> Azevedo, Dambros & Morais, 2019 公牛双戟白蚁</a></li></ul>
 </section>

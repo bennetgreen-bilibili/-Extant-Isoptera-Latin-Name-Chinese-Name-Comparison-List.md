@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Labritermes buttelreepeni</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/labritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/labritermes-buttelreepeni/"><i>Labritermes buttelreepeni</i> Holmgren, 1914 巴特里彭唇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/labritermes-emersoni/"><i>Labritermes emersoni</i> Krishna & Adams, 1982 埃默森唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labritermes-kistneri/"><i>Labritermes kistneri</i> Krishna & Adams, 1982 基斯特纳唇白蚁</a></li></ul>
 </section>

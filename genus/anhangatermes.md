@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Anhangatermes macarthuri</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/anhangatermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/anhangatermes-anhanguera/"><i>Anhangatermes anhanguera</i> Oliveira & Cunha, 2014 魔鬼魔白蚁</a></li><li><a href="{{ site.base_url }}/species/anhangatermes-eurycephalus/"><i>Anhangatermes eurycephalus</i> Oliveira & Constantino, 2014 宽头魔白蚁</a></li><li><a href="{{ site.base_url }}/species/anhangatermes-juruena/"><i>Anhangatermes juruena</i> Oliveira & Constantino, 2014 茹鲁埃纳魔白蚁</a></li><li><a href="{{ site.base_url }}/species/anhangatermes-macarthuri/"><i>Anhangatermes macarthuri</i> Constantino, 1990 麦克阿瑟魔白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/anhangatermes-pilosus/"><i>Anhangatermes pilosus</i> Oliveira & Constantino, 2014 多毛魔白蚁</a></li></ul>
 </section>

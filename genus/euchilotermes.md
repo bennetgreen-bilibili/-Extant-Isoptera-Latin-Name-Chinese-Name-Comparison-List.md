@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Euchilotermes tensus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/euchilotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/euchilotermes-acutidens/"><i>Euchilotermes acutidens</i> Silvestri, 1914 尖齿真唇白蚁</a></li><li><a href="{{ site.base_url }}/species/euchilotermes-quadriceps/"><i>Euchilotermes quadriceps</i> Emerson, 1928 方头真唇白蚁</a></li><li><a href="{{ site.base_url }}/species/euchilotermes-tensus/"><i>Euchilotermes tensus</i> Silvestri, 1914 拉长真唇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/euchilotermes-umbraticola/"><i>Euchilotermes umbraticola</i> Williams, 1954 隐蔽真唇白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/euchilotermes-tensus-arcuata/"><i>Euchilotermes tensus arcuata</i> Silvestri, 1914 弓形亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/euchilotermes-tensus-tensus/"><i>Euchilotermes tensus tensus</i> Silvestri, 1914 指名亚种</a></li></ul>
 </section>

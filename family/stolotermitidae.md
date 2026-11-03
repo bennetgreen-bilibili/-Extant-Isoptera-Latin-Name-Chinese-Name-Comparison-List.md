@@ -46,6 +46,9 @@ breadcrumb:
 <p>本科为典型冈瓦纳间断分布的“湿木白蚁”：洞白蚁属分布于澳大利亚、南非、智利及南美南部；胄白蚁属分布于澳大利亚、新西兰以及南非。两属均栖息于湿润腐朽倒木、枯立木树皮下，巢群筑于木段内部，营单块木巢。本科历史生物地理格局可能同时受到早期陆地连接与后续跨海扩散等过程影响，不能仅以冈瓦纳大陆裂解解释现生属的分布。经济上，方颈洞白蚁在智利偶危害潮湿木构件(15)。据 Evans et al. (2013)(4)，亚当森洞白蚁 Porotermes adamsoni 随1941年输入新西兰的铁路木质枕木传入，现分布于北岛5处、南岛1处，发生于进口锯材与树木中。</p>
 <p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#stolotermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
 </section>
+{%- assign fz = site.data.fauna_families["/family/stolotermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/porotermes/"><i>Porotermes</i> 洞白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/stolotermes/"><i>Stolotermes</i> 胄白蚁属</a> <span class="taxon-count">7 种</span></li></ul>
 </section>

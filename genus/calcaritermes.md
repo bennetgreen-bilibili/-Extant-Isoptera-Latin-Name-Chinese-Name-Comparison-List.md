@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Calcaritermes imminens</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/calcaritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（12 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/calcaritermes-brevicollis/"><i>Calcaritermes brevicollis</i> Banks, 1918 短颈距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-colei/"><i>Calcaritermes colei</i> Krishna, 1962 科尔距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-emarginicollis/"><i>Calcaritermes emarginicollis</i> Snyder, 1925 刻颈距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-guatemalae/"><i>Calcaritermes guatemalae</i> Snyder, 1926 危地马拉距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-imminens/"><i>Calcaritermes imminens</i> Snyder, 1925 悬垂距白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/calcaritermes-krishnai/"><i>Calcaritermes krishnai</i> Maiti & Chakraborty, 1981 克里希纳距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-nearcticus/"><i>Calcaritermes nearcticus</i> Snyder, 1933 新北距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-nigriceps/"><i>Calcaritermes nigriceps</i> Emerson, 1925 黑头距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-parvinotus/"><i>Calcaritermes parvinotus</i> Light, 1933 小背距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-rioensis/"><i>Calcaritermes rioensis</i> Krishna, 1962 里约距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-snyderi/"><i>Calcaritermes snyderi</i> Krishna, 1962 斯奈德距白蚁</a></li><li><a href="{{ site.base_url }}/species/calcaritermes-temnocephalus/"><i>Calcaritermes temnocephalus</i> Silvestri, 1901 切头距白蚁</a></li></ul>
 </section>

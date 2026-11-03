@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Xylochomitermes occidualis</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/xylochomitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/xylochomitermes-aspinosus/"><i>Xylochomitermes aspinosus</i> Miller, 1991 无刺木堆白蚁</a></li><li><a href="{{ site.base_url }}/species/xylochomitermes-melvillensis/"><i>Xylochomitermes melvillensis</i> Hill, 1915 梅尔维尔木堆白蚁</a></li><li><a href="{{ site.base_url }}/species/xylochomitermes-occidualis/"><i>Xylochomitermes occidualis</i> Gay, 1971 西部木堆白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/xylochomitermes-punctillus/"><i>Xylochomitermes punctillus</i> Miller, 1991 点囟木堆白蚁</a></li><li><a href="{{ site.base_url }}/species/xylochomitermes-reductus/"><i>Xylochomitermes reductus</i> Gay, 1971 缩小木堆白蚁</a></li><li><a href="{{ site.base_url }}/species/xylochomitermes-tomentosus/"><i>Xylochomitermes tomentosus</i> Gay, 1971 粗毛木堆白蚁</a></li></ul>
 </section>

@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Forficulitermes planifrons</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/forficulitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/forficulitermes-planifrons/"><i>Forficulitermes planifrons</i> Emerson, 1960 扁额剪白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

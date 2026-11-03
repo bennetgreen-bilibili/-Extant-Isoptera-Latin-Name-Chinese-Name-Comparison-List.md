@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Diwaitermes kanehirai</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/diwaitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/diwaitermes-castanopsis/"><i>Diwaitermes castanopsis</i> Roisin & Pasteels, 1996 锥栗木象白蚁</a></li><li><a href="{{ site.base_url }}/species/diwaitermes-foi/"><i>Diwaitermes foi</i> Roisin & Pasteels, 1996 福阿木象白蚁</a></li><li><a href="{{ site.base_url }}/species/diwaitermes-kanehirai/"><i>Diwaitermes kanehirai</i> Oshima, 1914 凯恩希拉木象白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

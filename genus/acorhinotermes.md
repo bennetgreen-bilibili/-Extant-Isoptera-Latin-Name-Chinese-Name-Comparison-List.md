@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Acorhinotermes subfusciceps</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/acorhinotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/acorhinotermes-claritae/"><i>Acorhinotermes claritae</i> Castro & Scheffrahn, 2019 克拉丽塔尖鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/acorhinotermes-murui/"><i>Acorhinotermes murui</i> Castro, 2023 穆鲁伊尖鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/acorhinotermes-subfusciceps/"><i>Acorhinotermes subfusciceps</i> Emerson, 1925 棕头尖鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

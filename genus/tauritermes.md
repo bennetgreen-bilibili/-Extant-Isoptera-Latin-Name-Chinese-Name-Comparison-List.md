@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Tauritermes taurocephalus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/tauritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/tauritermes-bandeirai/"><i>Tauritermes bandeirai</i> Scheffrahn & Vasconcellos, 2020 班代拉牛白蚁</a></li><li><a href="{{ site.base_url }}/species/tauritermes-taurocephalus/"><i>Tauritermes taurocephalus</i> Silvestri, 1901 牛头牛白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/tauritermes-triceromegas/"><i>Tauritermes triceromegas</i> Silvestri, 1901 三混气牛白蚁</a></li><li><a href="{{ site.base_url }}/species/tauritermes-vitulus/"><i>Tauritermes vitulus</i> Araujo & Fontes, 1979 公犊牛白蚁</a></li></ul>
 </section>

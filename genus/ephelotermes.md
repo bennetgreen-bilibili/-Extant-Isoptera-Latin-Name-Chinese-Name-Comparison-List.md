@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Ephelotermes melachoma</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/ephelotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ephelotermes-argutus/"><i>Ephelotermes argutus</i> Hill, 1929 清楚棒颚白蚁</a></li><li><a href="{{ site.base_url }}/species/ephelotermes-cheeli/"><i>Ephelotermes cheeli</i> Mjöberg, 1920 奇尔棒颚白蚁</a></li><li><a href="{{ site.base_url }}/species/ephelotermes-melachoma/"><i>Ephelotermes melachoma</i> Miller, 1991 黑垄棒颚白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ephelotermes-paleatus/"><i>Ephelotermes paleatus</i> Miller, 1991 深颏棒颚白蚁</a></li><li><a href="{{ site.base_url }}/species/ephelotermes-persimilis/"><i>Ephelotermes persimilis</i> Gay, 1971 相似棒颚白蚁</a></li><li><a href="{{ site.base_url }}/species/ephelotermes-taylori/"><i>Ephelotermes taylori</i> Hill, 1915 泰勒棒颚白蚁</a></li></ul>
 </section>

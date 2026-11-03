@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Leucopitermes leucops</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/leucopitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/leucopitermes-leucopiformis/"><i>Leucopitermes leucopiformis</i> Akhtar & Pervez, 1986 似白脸白脸白蚁</a></li><li><a href="{{ site.base_url }}/species/leucopitermes-leucops/"><i>Leucopitermes leucops</i> Holmgren, 1914 白脸白脸白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/leucopitermes-paraleucops/"><i>Leucopitermes paraleucops</i> Morimoto, 1976 近白脸白脸白蚁</a></li><li><a href="{{ site.base_url }}/species/leucopitermes-thoi/"><i>Leucopitermes thoi</i> Gathorne-Hardy, 2004 索白脸白蚁</a></li></ul>
 </section>

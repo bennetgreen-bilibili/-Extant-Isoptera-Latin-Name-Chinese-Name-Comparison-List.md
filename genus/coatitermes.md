@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Coatitermes clevelandi</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/coatitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/coatitermes-clevelandi/"><i>Coatitermes clevelandi</i> Snyder, 1926 克利夫兰凸鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/coatitermes-kartaboensis/"><i>Coatitermes kartaboensis</i> Emerson, 1925 卡尔塔波凸鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/coatitermes-mazaruniensis/"><i>Coatitermes mazaruniensis</i> Emerson, 1925 马扎鲁尼凸鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/coatitermes-pallidus/"><i>Coatitermes pallidus</i> Snyder, 1926 苍白凸鼻白蚁</a></li></ul>
 </section>

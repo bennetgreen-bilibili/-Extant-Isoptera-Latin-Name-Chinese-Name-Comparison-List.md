@@ -46,6 +46,9 @@ breadcrumb:
 <p>本科分布呈间断的北温带格局：动白蚁属限于北美西部（自西海岸至西南部），古白蚁属分布于中国、越南、南亚及其邻近区域。两属均栖息于高湿环境中的腐朽倒木与树桩内，营单块木巢，巢群终生不离食源，由拟工蚁行使劳动。Zootermopsis angusticollis 于1999年前后在夏威夷（毛伊岛高海拔）定殖，Zootermopsis nevadensis于2000年首见于日本川西（Kawanishi）(4)。本科对干燥环境适应力弱，一般不危害干燥建筑木材，但动白蚁属 Zootermopsis 在北美太平洋沿岸为害潮湿木构件，是当地重要的湿木白蚁类建筑害虫(6)</p>
 <p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#archotermopsidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
 </section>
+{%- assign fz = site.data.fauna_families["/family/archotermopsidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/archotermopsis/"><i>Archotermopsis</i> 古白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/zootermopsis/"><i>Zootermopsis</i> 动白蚁属</a> <span class="taxon-count">3 种、2 亚种</span></li></ul>
 </section>

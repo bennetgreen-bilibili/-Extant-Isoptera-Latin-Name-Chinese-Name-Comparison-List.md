@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Tenuirostritermes tenuirostris</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/tenuirostritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/tenuirostritermes-briciae/"><i>Tenuirostritermes briciae</i> Snyder, 1922 布瑞西亚薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/species/tenuirostritermes-cinereus/"><i>Tenuirostritermes cinereus</i> Buckley, 1862 灰白薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/species/tenuirostritermes-incisus/"><i>Tenuirostritermes incisus</i> Snyder, 1922 切割薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/species/tenuirostritermes-strenuus/"><i>Tenuirostritermes strenuus</i> Hagen, 1860 活跃薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/species/tenuirostritermes-tenuirostris/"><i>Tenuirostritermes tenuirostris</i> Desneux, 1904 薄嘴薄嘴白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

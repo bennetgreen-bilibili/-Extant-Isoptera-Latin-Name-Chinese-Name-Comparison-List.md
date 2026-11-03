@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Macuxitermes triceratops</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/macuxitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/macuxitermes-colombicus/"><i>Macuxitermes colombicus</i> Postle & Scheffrahn, 2016 哥伦比亚马库希白蚁</a></li><li><a href="{{ site.base_url }}/species/macuxitermes-triceratops/"><i>Macuxitermes triceratops</i> Cancello & Bandeira, 1992 三角马库希白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Psammotermes hybostoma</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/psammotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/psammotermes-allocerus/"><i>Psammotermes allocerus</i> Silvestri, 1908 奇白沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-hybostoma/"><i>Psammotermes hybostoma</i> Desneux, 1902 弯嘴沙白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/psammotermes-prohybostoma/"><i>Psammotermes prohybostoma</i> Ravan & Akhtar, 1999 似弯嘴沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-rajasthanicus/"><i>Psammotermes rajasthanicus</i> Roonwal & Bose, 1960 拉贾斯坦沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-senegalensis/"><i>Psammotermes senegalensis</i> Sjöstedt, 1924 塞内加尔沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-voeltzkowi/"><i>Psammotermes voeltzkowi</i> Wasmann, 1910 弗尔特科沙白蚁</a></li></ul>
 </section>

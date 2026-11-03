@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Thoracotermes macrothorax</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/thoracotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/thoracotermes-brevinotus/"><i>Thoracotermes brevinotus</i> Silvestri, 1914 短背胸白蚁</a></li><li><a href="{{ site.base_url }}/species/thoracotermes-grevillensis/"><i>Thoracotermes grevillensis</i> Weidner, 1974 格瑞维勒胸白蚁</a></li><li><a href="{{ site.base_url }}/species/thoracotermes-lusingensis/"><i>Thoracotermes lusingensis</i> Harris, 1958 卢森加胸白蚁</a></li><li><a href="{{ site.base_url }}/species/thoracotermes-macrothorax/"><i>Thoracotermes macrothorax</i> Sjöstedt, 1899 大胸胸白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

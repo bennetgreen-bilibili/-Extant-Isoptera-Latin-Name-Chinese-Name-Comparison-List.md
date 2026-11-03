@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Ekphysotermes kalgoorliensis</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/ekphysotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ekphysotermes-jarmuranus/"><i>Ekphysotermes jarmuranus</i> Hill, 1929 贾穆瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-kalgoorliensis/"><i>Ekphysotermes kalgoorliensis</i> Hill, 1942 卡尔古利瘤突白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ekphysotermes-ocellaris/"><i>Ekphysotermes ocellaris</i> Mjöberg, 1920 眼显瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-pelatus/"><i>Ekphysotermes pelatus</i> Hill, 1942 脱皮瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-percomis/"><i>Ekphysotermes percomis</i> Hill, 1942 可爱瘤突白蚁</a></li></ul>
 </section>

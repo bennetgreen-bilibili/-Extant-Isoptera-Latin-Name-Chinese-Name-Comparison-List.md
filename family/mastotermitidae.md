@@ -46,6 +46,9 @@ breadcrumb:
 <p>现生种分布于澳大利亚北部热带地区（北领地、昆士兰北部、西澳金伯利一带），并已传入巴布亚新几内亚。本科是现生白蚁最早分化的支系(2)，后翅具宽大臀域(3)、跗节 5 节、产卵如蜚蠊般形成卵鞘，这些特征也可在近缘的食木蜚蠊类群（如 Cryptocercus）中找到。巢筑于地下、倒木与树木根颈处，无外露垅巢；自然条件下群体中等，在人居环境可扩展至十万级甚至更大规模，并能以补充繁殖蚁分巢扩散。经济上，达尔文澳白蚁是澳大利亚北部危害建筑木材与活立木的重要害虫(4)。入侵种群约于20世纪50年代（1959年前后）随运输物资传入巴布亚新几内亚莱城（Lae）；1962—1973年曾实施除治并一度以为根除，1990年代初复现，2002年再发现新的侵害点，现已扩散至当地42种本地与外来树木，受害面积较1973年扩大约6倍。该种另在澳大利亚境内向南扩展至黄金海岸（Gold Coast，约在本土分布南界以南800 km），属本土范围内的扩散。</p>
 <p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#mastotermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
 </section>
+{%- assign fz = site.data.fauna_families["/family/mastotermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/mastotermes/"><i>Mastotermes</i> 澳白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

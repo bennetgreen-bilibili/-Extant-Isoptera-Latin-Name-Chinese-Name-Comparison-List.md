@@ -47,6 +47,9 @@ breadcrumb:
 <p>本科是世界上经济意义最大的白蚁类群：台湾乳白蚁 Coptotermes formosanus与格斯特乳白蚁 C. gestroi 并称世界上为害最烈的两种建筑白蚁，合计占全球白蚁年经济损失的一半以上，前者被 ISSG 列入“世界 100 种最具危害性入侵种”(32)，后者在新加坡、马来西亚造成当地人造建筑虫损的 80%–90%；曲颚乳白蚁 C. curvignathus 是东南亚橡胶、椰子与油棕林的危险性害虫，亦为中国进境检疫对象(33)。短刀乳白蚁 C. acinaciformis 与弗伦奇乳白蚁 C. frenchi自澳大利亚引入新西兰；曲颚乳白蚁自东南亚引入中国、菲律宾、南非；格斯特乳白蚁自东南亚原产扩散至热带数十个国家和地区；舍斯泰特乳白蚁 C. sjostedti 自西非引入瓜德罗普（法国）；伤残乳白蚁 C. truncatus 自马达加斯加引入塞舌尔；北美散白蚁 R. flavipes 自北美东部随贸易引入欧洲（法国、德国、奥地利）、智利、乌拉圭、巴哈马与危地马拉。新热带界的异白蚁属 Heterotermes tenuis 在巴西为害甘蔗与桉树苗木(34)。</p>
 <p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#heterotermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
 </section>
+{%- assign fz = site.data.fauna_families["/family/heterotermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>属（3）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/coptotermes/"><i>Coptotermes</i> 乳白蚁属</a> <span class="taxon-count">58 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/heterotermes/"><i>Heterotermes</i> 异白蚁属</a> <span class="taxon-count">31 种</span></li><li><a href="{{ site.base_url }}/genus/reticulitermes/"><i>Reticulitermes</i> 散白蚁属</a> <span class="taxon-count">140 种、6 亚种</span></li></ul>
 </section>

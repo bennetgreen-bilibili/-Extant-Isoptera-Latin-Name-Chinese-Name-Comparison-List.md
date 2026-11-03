@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Procornitermes triacifer</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/procornitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/procornitermes-araujoi/"><i>Procornitermes araujoi</i> Emerson, 1952 阿劳若前角白蚁</a></li><li><a href="{{ site.base_url }}/species/procornitermes-lespesii/"><i>Procornitermes lespesii</i> Müller, 1873 莱佩斯前角白蚁</a></li><li><a href="{{ site.base_url }}/species/procornitermes-romani/"><i>Procornitermes romani</i> Emerson, 1952 罗曼前角白蚁</a></li><li><a href="{{ site.base_url }}/species/procornitermes-striatus/"><i>Procornitermes striatus</i> Hagen, 1858 具沟前角白蚁</a></li><li><a href="{{ site.base_url }}/species/procornitermes-triacifer/"><i>Procornitermes triacifer</i> Silvestri, 1901 三尖唇前角白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

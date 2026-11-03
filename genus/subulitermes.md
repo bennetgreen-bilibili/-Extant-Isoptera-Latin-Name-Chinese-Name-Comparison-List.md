@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Subulitermes microsoma</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/subulitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/subulitermes-angusticeps/"><i>Subulitermes angusticeps</i> Snyder, 1926 窄头锥白蚁</a></li><li><a href="{{ site.base_url }}/species/subulitermes-baileyi/"><i>Subulitermes baileyi</i> Emerson, 1925 贝利锥白蚁</a></li><li><a href="{{ site.base_url }}/species/subulitermes-constricticeps/"><i>Subulitermes constricticeps</i> Constantino, 1991 缩头锥白蚁</a></li><li><a href="{{ site.base_url }}/species/subulitermes-denisae/"><i>Subulitermes denisae</i> Roisin, 1995 丹尼斯锥白蚁</a></li><li><a href="{{ site.base_url }}/species/subulitermes-microsoma/"><i>Subulitermes microsoma</i> Silvestri, 1903 体小锥白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/subulitermes-thompsonae/"><i>Subulitermes thompsonae</i> Emerson, 1925 汤普森锥白蚁</a></li></ul>
 </section>

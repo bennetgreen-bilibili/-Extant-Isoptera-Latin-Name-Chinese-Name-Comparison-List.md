@@ -43,6 +43,9 @@ breadcrumb:
 <p>模式种：<i>Okavangotermes giessi</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/okavangotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/okavangotermes-giessi/"><i>Okavangotermes giessi</i> Coaton, 1971 吉斯奥卡万戈白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/okavangotermes-guineensis/"><i>Okavangotermes guineensis</i> Sands, 1995 几内亚奥卡万戈白蚁</a></li></ul>
 </section>

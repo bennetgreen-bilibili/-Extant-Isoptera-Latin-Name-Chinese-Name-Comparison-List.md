@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Amicotermes galenus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/amicotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（12 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/amicotermes-autothysius/"><i>Amicotermes autothysius</i> Sands, 1999 自爆善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-camerunensis/"><i>Amicotermes camerunensis</i> Sands, 1999 喀麦隆善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-congoensis/"><i>Amicotermes congoensis</i> Sands, 1999 刚果善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-cristatus/"><i>Amicotermes cristatus</i> Sands, 1999 冠毛善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-dibogi/"><i>Amicotermes dibogi</i> Sands, 1999 迪博格善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-galenus/"><i>Amicotermes galenus</i> Sands, 1972 盖伦善白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/amicotermes-gasteruptus/"><i>Amicotermes gasteruptus</i> Sands, 1999 腰肠善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-ivorensis/"><i>Amicotermes ivorensis</i> Sands, 1999 象牙海岸善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-mayombei/"><i>Amicotermes mayombei</i> Sands, 1999 马永贝善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-mbalmayoensis/"><i>Amicotermes mbalmayoensis</i> Sands, 1999 姆巴尔马约善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-multispinus/"><i>Amicotermes multispinus</i> Sands, 1999 多刺善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-spiculatus/"><i>Amicotermes spiculatus</i> Sands, 1999 具针善白蚁</a></li></ul>
 </section>

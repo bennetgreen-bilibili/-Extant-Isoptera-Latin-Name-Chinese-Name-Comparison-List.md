@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Embiratermes festivellus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/embiratermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/embiratermes-benjamini/"><i>Embiratermes benjamini</i> Snyder, 1926 本杰明生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-chagresi/"><i>Embiratermes chagresi</i> Snyder, 1925 查格雷斯生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-festivellus/"><i>Embiratermes festivellus</i> Silvestri, 1901 喜庆生白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/embiratermes-heterotypus/"><i>Embiratermes heterotypus</i> Silvestri, 1901 异型生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-latidens/"><i>Embiratermes latidens</i> Emerson & Banks, 1957 宽齿生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-neotenicus/"><i>Embiratermes neotenicus</i> Holmgren, 1906 幼态生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-snyderi/"><i>Embiratermes snyderi</i> Emerson & Banks, 1957 斯奈德生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-spissus/"><i>Embiratermes spissus</i> Emerson & Banks, 1957 密实生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-transandinus/"><i>Embiratermes transandinus</i> Araujo, 1977 安弟斯生白蚁</a></li></ul>
 </section>

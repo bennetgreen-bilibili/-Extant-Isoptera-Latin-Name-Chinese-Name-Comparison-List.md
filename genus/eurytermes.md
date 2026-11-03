@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Eurytermes assmuthi</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/eurytermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/eurytermes-assmuthi/"><i>Eurytermes assmuthi</i> Wasmann, 1902 阿斯穆斯宽白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/eurytermes-boveni/"><i>Eurytermes boveni</i> Roonwal & Chhotani, 1966 博文宽白蚁</a></li><li><a href="{{ site.base_url }}/species/eurytermes-buddha/"><i>Eurytermes buddha</i> Bose & Maiti, 1966 大佛宽白蚁</a></li><li><a href="{{ site.base_url }}/species/eurytermes-ceylonicus/"><i>Eurytermes ceylonicus</i> Holmgren, 1913 锡兰宽白蚁</a></li><li><a href="{{ site.base_url }}/species/eurytermes-mohana/"><i>Eurytermes mohana</i> Rathore, 1995 莫罕娜宽白蚁</a></li><li><a href="{{ site.base_url }}/species/eurytermes-topslipensis/"><i>Eurytermes topslipensis</i> Chatterjee & Thapa, 1963 托普斯利普宽白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/eurytermes-assmuthi-assmuthi/"><i>Eurytermes assmuthi assmuthi</i> Wasmann, 1902 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/eurytermes-assmuthi-modestior/"><i>Eurytermes assmuthi modestior</i> Silvestri, 1923 温和亚种</a></li></ul>
 </section>

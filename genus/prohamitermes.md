@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Prohamitermes mirabilis</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/prohamitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/prohamitermes-hosei/"><i>Prohamitermes hosei</i> Desneux, 1906 霍斯前钩白蚁</a></li><li><a href="{{ site.base_url }}/species/prohamitermes-mirabilis/"><i>Prohamitermes mirabilis</i> Haviland, 1898 奇异前钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/prohamitermes-hosei-hosei/"><i>Prohamitermes hosei hosei</i> Desneux, 1906 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/prohamitermes-hosei-minor/"><i>Prohamitermes hosei minor</i> Thapa, 1982 小亚种</a></li></ul>
 </section>

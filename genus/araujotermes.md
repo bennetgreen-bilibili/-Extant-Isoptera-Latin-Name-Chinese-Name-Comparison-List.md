@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Araujotermes caissara</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/araujotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/araujotermes-caissara/"><i>Araujotermes caissara</i> Fontes, 1982 凯萨拉阿劳若白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/araujotermes-nanus/"><i>Araujotermes nanus</i> Constantino, 1991 侏儒阿劳若白蚁</a></li><li><a href="{{ site.base_url }}/species/araujotermes-parvellus/"><i>Araujotermes parvellus</i> Silvestri, 1923 长毛阿劳若白蚁</a></li><li><a href="{{ site.base_url }}/species/araujotermes-zeteki/"><i>Araujotermes zeteki</i> Snyder, 1924 策特克阿劳若白蚁</a></li></ul>
 </section>

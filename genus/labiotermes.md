@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Labiotermes labralis</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/labiotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（10 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/labiotermes-brevilabius/"><i>Labiotermes brevilabius</i> Emerson & Banks, 1965 短唇厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-emersoni/"><i>Labiotermes emersoni</i> Araujo, 1954 埃默森厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-guasu/"><i>Labiotermes guasu</i> Constantino & Acioli, 2006 大厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-labralis/"><i>Labiotermes labralis</i> Holmgren, 1906 细唇厚唇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/labiotermes-laticephalus/"><i>Labiotermes laticephalus</i> Silvestri, 1901 宽头厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-leptothrix/"><i>Labiotermes leptothrix</i> Mathews, 1977 纤毛厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-longilabius/"><i>Labiotermes longilabius</i> Silvestri, 1901 长唇厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-oreadicus/"><i>Labiotermes oreadicus</i> Constantino, 2006 山神厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-orthocephalus/"><i>Labiotermes orthocephalus</i> Silvestri, 1901 直头厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-pelliceus/"><i>Labiotermes pelliceus</i> Emerson & Banks, 1965 毛头厚唇白蚁</a></li></ul>
 </section>

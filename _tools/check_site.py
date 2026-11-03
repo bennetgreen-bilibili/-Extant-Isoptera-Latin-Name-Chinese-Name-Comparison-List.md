@@ -191,6 +191,40 @@ def parse_front_matter(path: Path) -> dict:
 AUTHORITY_SOURCE_CODES = {"gbif", "col", "bsf"}
 
 
+FAUNA_KEY_RE = re.compile(r"site\.data\.(fauna_[a-z_]+)")
+FAUNA_SITES = ("family", "genus", "species", "subfamily", "_layouts", "_includes", "_pages")
+
+
+def check_fauna_keys() -> None:
+    """形态描述段落引用的数据键必须真实存在。
+
+    site.data.fauna_genera 就是 Jekyll 按 _data/fauna_genera.json 暴露的键；拼成单数时
+    Liquid 的 {% if fz %} 恒不成立，整段形态描述静默消失——不报错、不留空洞，只有页面
+    diff 才看得出来（本仓库真踩过：builder 曾写 fauna_genus / fauna_family）。
+    """
+    used: dict = {}
+    paths = [ROOT / "index.md"] + [ROOT / "list.md"]
+    for site in FAUNA_SITES:
+        base = ROOT / site
+        if base.is_dir():
+            paths.extend(sorted(base.rglob("*.md")) + sorted(base.rglob("*.html")))
+    for path in paths:
+        if not path.is_file():
+            continue
+        for key in FAUNA_KEY_RE.findall(read(path)):
+            used.setdefault(key, set()).add(path.relative_to(ROOT).as_posix())
+    data_dir = ROOT / "_data"
+    for key, pages in sorted(used.items()):
+        if (data_dir / (key + ".json")).is_file():
+            continue
+        err("_data", "%d 个页面/布局引用 site.data.%s，但 _data/%s.json 不存在："
+                     "Liquid 里恒为空、形态描述不会渲染（例如 %s）"
+            % (len(pages), key, key, ", ".join(sorted(pages)[:3])))
+    for path in sorted(data_dir.glob("fauna_*.json")):
+        if path.stem not in used:
+            warn("_data/" + path.name, "已提交，但没有任何页面或布局引用 site.data.%s" % path.stem)
+
+
 def check_authority_synonym_fields(path: Path, fields: dict) -> None:
     """「依外部权威库补录的异名」：条数 / 模式产地 / 来源三个列表必须逐条对齐。
 
@@ -962,6 +996,7 @@ def main() -> int:
     base_url = check_config()
     check_json()
     check_geo()
+    check_fauna_keys()
     fields_by_slug, _ = check_species()
     species_sets, _ = check_lists()
     check_counts(fields_by_slug, species_sets)

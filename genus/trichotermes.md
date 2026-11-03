@@ -44,6 +44,9 @@ breadcrumb:
 <p>模式种：<i>Trichotermes villifrons</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+{%- assign fz = site.data.fauna_genera["/genus/trichotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/trichotermes-ducis/"><i>Trichotermes ducis</i> Sjöstedt, 1914 首领发白蚁</a></li><li><a href="{{ site.base_url }}/species/trichotermes-machadoi/"><i>Trichotermes machadoi</i> Weidner, 1974 马查多发白蚁</a></li><li><a href="{{ site.base_url }}/species/trichotermes-villifrons/"><i>Trichotermes villifrons</i> Sjöstedt, 1911 毛额发白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>
