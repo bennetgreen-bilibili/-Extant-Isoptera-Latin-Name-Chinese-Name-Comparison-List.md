@@ -2,28 +2,37 @@
   形态描述：据《中国动物志·昆虫纲 第十七卷 等翅目》(2000) 对应条目改写而成。
   数据来自 _data/fauna_species.json，键为物种页 URL；由 _tools/fauna 生成，勿手改该 JSON 以外的正文。
   这里只渲染已改写的内容，原文不上站。
+  标题层级：h2 = 文献出处（《中国动物志》记载）；h3 = 内容类别（形态描述 / 生物学 / 分布与产地）；
+  h4 = 品级（兵蚁 / 有翅成虫 / 工蚁 / 若虫）与英文摘要。原书本身不是「形态描述」专著，故出处升一级、内容类别降一级。
 {%- endcomment -%}
 {%- assign _fz = include.fauna.soldier | append: include.fauna.alate | append: include.fauna.worker | append: include.fauna.nymph -%}
 {%- if _fz == "" -%}
 {%- else -%}
 <section class="species-fauna" lang="zh-CN">
-  <h2>形态描述 <span class="fact-en" lang="en">Morphology</span> <span class="fact-es" lang="es">Morfología</span></h2>
-  <p class="fauna-lead">以下形态记述据《中国动物志·昆虫纲 第十七卷 等翅目》（2000）{{ include.fauna.book_ref }}重新整理改写，术语沿用原书的中文形态学称谓；原书出版于 2000 年，个别类群的归属此后有调整，见文末说明。</p>
+  <h2>《中国动物志》记载 <span class="fact-en" lang="en">Fauna Sinica account</span> <span class="fact-es" lang="es">Registro de Fauna Sinica</span></h2>
+  <p class="fauna-lead">以下内容据《中国动物志·昆虫纲 第十七卷 等翅目》（2000）{{ include.fauna.book_ref }}重新整理改写，术语沿用原书的中文形态学称谓；原书出版于 2000 年，个别类群的归属此后有调整，见文末说明。</p>
+  <h3>形态描述 <span class="fact-en" lang="en">Morphology</span> <span class="fact-es" lang="es">Morfología</span></h3>
   {%- if include.fauna.soldier and include.fauna.soldier != "" %}
-  <h3>兵蚁 <span class="fact-en" lang="en">Soldier</span> <span class="fact-es" lang="es">Soldado</span></h3>
+  <h4>兵蚁 <span class="fact-en" lang="en">Soldier</span> <span class="fact-es" lang="es">Soldado</span></h4>
   <p>{{ include.fauna.soldier }}</p>
   {%- endif %}
   {%- if include.fauna.alate and include.fauna.alate != "" %}
-  <h3>有翅成虫 <span class="fact-en" lang="en">Alate</span> <span class="fact-es" lang="es">Alado</span></h3>
+  <h4>有翅成虫 <span class="fact-en" lang="en">Alate</span> <span class="fact-es" lang="es">Alado</span></h4>
   <p>{{ include.fauna.alate }}</p>
   {%- endif %}
   {%- if include.fauna.worker and include.fauna.worker != "" %}
-  <h3>工蚁 <span class="fact-en" lang="en">Worker</span> <span class="fact-es" lang="es">Obrera</span></h3>
+  <h4>工蚁 <span class="fact-en" lang="en">Worker</span> <span class="fact-es" lang="es">Obrera</span></h4>
   <p>{{ include.fauna.worker }}</p>
   {%- endif %}
   {%- if include.fauna.nymph and include.fauna.nymph != "" %}
-  <h3>若虫 <span class="fact-en" lang="en">Nymph</span> <span class="fact-es" lang="es">Ninfa</span></h3>
+  <h4>若虫 <span class="fact-en" lang="en">Nymph</span> <span class="fact-es" lang="es">Ninfa</span></h4>
   <p>{{ include.fauna.nymph }}</p>
+  {%- endif %}
+  {%- if include.fauna.en and include.fauna.en != "" %}
+  <div class="fauna-en fact-en" lang="en">
+    <h4>Morphology (English summary)</h4>
+    <p>{{ include.fauna.en }}</p>
+  </div>
   {%- endif %}
   {%- if include.fauna.biology and include.fauna.biology != "" %}
   <h3>生物学 <span class="fact-en" lang="en">Biology</span> <span class="fact-es" lang="es">Biología</span></h3>
@@ -32,12 +41,6 @@
   {%- if include.fauna.distribution and include.fauna.distribution != "" %}
   <h3>分布与产地 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span></h3>
   <p>{{ include.fauna.distribution }}</p>
-  {%- endif %}
-  {%- if include.fauna.en and include.fauna.en != "" %}
-  <div class="fauna-en fact-en" lang="en">
-    <h3>Morphology (English summary)</h3>
-    <p>{{ include.fauna.en }}</p>
-  </div>
   {%- endif %}
   {%- if include.fauna.taxonomy_note and include.fauna.taxonomy_note != "" %}
   <p class="fauna-note"><strong>分类说明</strong>：{{ include.fauna.taxonomy_note }}</p>

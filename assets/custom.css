@@ -522,9 +522,10 @@ body.search-overlay-open{overflow:hidden}
 .species-fauna{margin:2em 0 .6em;border-top:1px solid var(--line);padding-top:1.1em}
 .species-fauna h2{font-size:1.25em;margin:0 0 .7em}
 .species-fauna h3{font-size:1.05em;margin:1.2em 0 .35em}
+.species-fauna h4{font-size:1em;margin:.95em 0 .2em}
 .species-fauna p{margin:.35em 0 .7em;line-height:1.75}
 .fauna-lead{color:var(--muted);font-size:.94em}
 .fauna-en{margin:1.1em 0 .4em;padding:.6em .9em;border-left:3px solid var(--line);background:var(--accent-soft);border-radius:0 6px 6px 0}
-.fauna-en h3{margin-top:.2em}
+.fauna-en h3,.fauna-en h4{margin-top:.2em}
 .fauna-note{font-size:.94em;background:var(--accent-soft);padding:.55em .8em;border-radius:6px}
 .fauna-cite{color:var(--muted);font-size:.86em;margin-top:1.1em!important}

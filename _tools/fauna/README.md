@@ -30,7 +30,8 @@ PASS 需同时满足：与原文连续相同片段 < 30 字符、8-gram containm
 
 ## 渲染
 
-- `_includes/fauna-species.html` / `fauna-genus.html` / `fauna-family.html`：按分节渲染已改写的形态描述。
+- `_includes/fauna-species.html`：h2 = 文献出处（《中国动物志》记载）→ h3 = 内容类别（形态描述 / 生物学 / 分布与产地）→ h4 = 品级（兵蚁 / 有翅成虫 / 工蚁 / 若虫）。原书不是专著级别的「形态描述」，出处必须站在最上层，内容类别不能借用它的名字。
+- `_includes/fauna-genus.html` / `fauna-family.html`：同样按分节渲染（h2 = 属征/科征与生物学，暂未套用上面的三层结构）。
 - `_layouts/species.html`：以 `site.data.fauna_species[page.url]` 取数据。
 - `genus/*.md`、`family/*.md` 由 `.github/workflows/build_taxonomy_pages.py` 生成，生成器内已内置同等 include 块，
   手改生成器后重跑即可；现有页面已直接插入对应 Liquid 块。
