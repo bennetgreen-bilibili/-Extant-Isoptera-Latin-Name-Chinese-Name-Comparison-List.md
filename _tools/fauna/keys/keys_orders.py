@@ -21,7 +21,7 @@ FAMNOTE = ('本表据 Hellemans 等（2024）补充材料 Note 2 译出，终点
            '在原表为亚科级终点，本站未单设相应亚科页，故链接到所属科页并保留亚科名；'
            '原表标为「部分」（partim）的终点在条目文字中注明。')
 
-NEONOTE = ('原书（黄复生等，2000）把这一种写作 Neotermes brachyotum（扁胸新白蚁），'
+NEONOTE = ('原书（黄复生等，2000）把扁胸新白蚁写作 Neotermes brachyotum，'
            '本站按现行拼写 Neotermes brachynotum 收载。')
 
 ORDER_OVR = ('等翅目科的检索表', [('有翅成虫', [

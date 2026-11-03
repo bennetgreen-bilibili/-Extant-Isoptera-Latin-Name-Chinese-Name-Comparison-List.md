@@ -10,12 +10,12 @@
 {%- if fk_n > 0 or fk_o > 0 -%}
 <section class="taxon-section fauna-keys" id="fauna-keys" lang="zh-CN">
 <h2>形态检索表</h2>
-{%- if fk_n > 0 -%}
 {%- assign has_hel = false -%}
 {%- assign has_book = false -%}
 {%- for k in fk.keys -%}
 {%- if k.src_short contains 'Hellemans' -%}{%- assign has_hel = true -%}{%- elsif k.src_short -%}{%- assign has_book = true -%}{%- endif -%}
 {%- endfor -%}
+{%- if fk_n > 0 -%}
 <p class="fauna-lead">本页检索表逐表标注文献依据。{% if has_book %}《中国动物志》各表据黄复生等（2000）译出，并按本站现行名录逐条核对：书中记载而本站未列为独立种的类群已从表末删除（各表「已剔除」列出），编号因此重新连续，书中属名与本站不一致者按本站分类归并。{% endif %}{% if has_hel %}目级分科/亚科表与白蚁科亚科表据 Hellemans 等（2024）的分子系统学补充材料译出，采用的 13 科系统见于本页各科链接。{% endif %}条目中的量度与图号一般从略。</p>
 {%- endif -%}
 {%- for k in fk.keys -%}
@@ -50,7 +50,9 @@
 {%- if fk.omitted and fk.omitted.size > 0 %}
 <p class="fk-omitted">本页未转述：{% for o in fk.omitted %}{{ o.title }}（{{ o.reason }}）{% unless forloop.last %}；{% endunless %}{% endfor %}。</p>
 {%- endif -%}
+{%- if fk_n > 0 -%}
 <p class="fauna-cite">文献依据：{% if has_book %}黄复生、宋世涵、朱世模等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》，科学出版社；{% endif %}{% if has_hel %}Hellemans S., Rocha M. M., Wang M. et al. (2024) Genomic data provide insights into the classification of extant termites. <i>Nature Communications</i> 15: 6724. doi:10.1038/s41467-024-51028-y（补充材料 Note 2 目级分科/亚科检索表、Note 3 白蚁科亚科检索表）；{% endif %}表中分类群按本站现行名录链接，原表记载而本站未收录者已从表中剔除。</p>
+{%- endif -%}
 <script>
 (function(){
   function openTarget(id){
