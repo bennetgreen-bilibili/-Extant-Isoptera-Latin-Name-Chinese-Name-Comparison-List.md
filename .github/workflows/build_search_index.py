@@ -48,7 +48,10 @@ INDEX_JSON = ROOT / "search-index.json"
 RANK_BY_LEVEL = {2: "支系", 3: "科", 4: "亚科", 5: "属"}
 # _species front matter 的 rank 写作英文 species / subspecies
 RANK_BY_FRONT_MATTER = {"species": "种", "subspecies": "亚种"}
-SKIP_IDS = {"toc", "references", "references-doi"}
+# 名录中的非分类学标题（导航 / 目录 / 参考文献）：名单与 build_taxonomy_data.py 共用一份，
+# 见 _tools/checklist_headings.py（新增导航标题时只改那里）
+sys.path.insert(0, str(ROOT / "_tools"))
+from checklist_headings import SKIP_IDS  # noqa: E402
 
 HEADING_RE = re.compile(r'^<h([2-5]) id="([^"]+)">(.+?)</h[2-5]>\s*$')
 TITLE_SPLIT_RE = re.compile(r"^([^\x00-\x7f][^\x00-\x7f\s]*)\s+([\x00-\x7f].*)$")

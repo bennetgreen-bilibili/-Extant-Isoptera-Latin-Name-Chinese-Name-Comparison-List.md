@@ -43,8 +43,9 @@ HEAD_RE = re.compile(r'^<h([2-5]) id="([^"]+)">(.+?)</h[2-5]>\s*$')
 SP_RE = re.compile(r'^(?:\\\*)?\[\*(?P<latin>[^*]+)\* (?P<zh>[^\]]+?)\]\(\{\{ site\.base_url \}\}/species/(?P<slug>[^/]+)/\)\s*$')
 TITLE_RE = re.compile(r'^(\S.*?)\s+([A-Za-z].*)$')
 FM_RE = re.compile(r'^([A-Za-z_][A-Za-z0-9_]*)[ \t]*:[ \t]*(.*)$')
-# 名录正文中的非分类学标题（导航 / 目录 / 参考文献），不参与分类树解析
-SKIP_IDS = {'toc', 'by-family', 'references', 'references-doi'}
+# 名录正文中的非分类学标题（导航 / 目录 / 参考文献）：名单与 build_search_index.py 共用一份
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from checklist_headings import SKIP_IDS  # noqa: E402  （脚本目录已入 sys.path，被当模块 import 时同样成立）
 
 CLADE_PARENT = {
     "isoptera": None,
