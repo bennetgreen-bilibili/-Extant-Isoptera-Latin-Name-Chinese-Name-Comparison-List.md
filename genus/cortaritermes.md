@@ -51,6 +51,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/cortaritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/cortaritermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cortaritermes-fulviceps/"><i>Cortaritermes fulviceps</i> Silvestri, 1901 栗头利颚白蚁</a></li><li><a href="{{ site.base_url }}/species/cortaritermes-intermedius/"><i>Cortaritermes intermedius</i> Banks, 1919 中间利颚白蚁</a></li><li><a href="{{ site.base_url }}/species/cortaritermes-piliceps/"><i>Cortaritermes piliceps</i> Holmgren, 1910 毛头利颚白蚁</a></li><li><a href="{{ site.base_url }}/species/cortaritermes-rizzinii/"><i>Cortaritermes rizzinii</i> Araujo, 1971 里兹尼利颚白蚁</a></li><li><a href="{{ site.base_url }}/species/cortaritermes-silvestrii/"><i>Cortaritermes silvestrii</i> Holmgren, 1910 西尔韦斯特里利颚白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/spinitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/spinitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/spinitermes-brevicornutus/"><i>Spinitermes brevicornutus</i> Desneux, 1904 短角针刺白蚁</a></li><li><a href="{{ site.base_url }}/species/spinitermes-longiceps/"><i>Spinitermes longiceps</i> Constantino, 1991 长头针刺白蚁</a></li><li><a href="{{ site.base_url }}/species/spinitermes-nigrostomus/"><i>Spinitermes nigrostomus</i> Holmgren, 1906 黑嘴针刺白蚁</a></li><li><a href="{{ site.base_url }}/species/spinitermes-robustus/"><i>Spinitermes robustus</i> Snyder, 1926 粗壮针刺白蚁</a></li><li><a href="{{ site.base_url }}/species/spinitermes-trispinosus/"><i>Spinitermes trispinosus</i> Hagen, 1858 三针针刺白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

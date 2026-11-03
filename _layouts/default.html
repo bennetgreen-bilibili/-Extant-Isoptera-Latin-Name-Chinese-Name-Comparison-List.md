@@ -248,6 +248,8 @@
 {% if page.collection == 'species' or page.photo_kind or page.has_photos %}<script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe.umd.min.js" defer></script>
 <script src="{{ site.base_url }}/assets/vendor/photoswipe/photoswipe-lightbox.umd.min.js" defer></script>
 <script src="{{ site.base_url }}/assets/gallery.js?v={{ site.time | date: '%s' }}" defer></script>
+{% endif %}{%- comment -%} 「全部图片」页（四级共用）的本页检索：只筛当前页照片，按拉丁学名 / 中文名 / 摄影师 {%- endcomment -%}
+{% if page.photo_kind %}<script src="{{ site.base_url }}/assets/photo-search.js?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}{%- comment -%} 名录页 / 物种页 / 中转页（has_map）的分布图脚本与名录页的文献增强脚本 {%- endcomment -%}
 {% if is_list_page or page.collection == 'species' or page.has_map %}<script src="{{ site.base_url }}/assets/vendor/leaflet/leaflet.js" defer></script>
 <script src="{{ site.base_url }}/assets/map.js?v={{ site.time | date: '%s' }}" defer></script>

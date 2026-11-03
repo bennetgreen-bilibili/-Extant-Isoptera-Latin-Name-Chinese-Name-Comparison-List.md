@@ -658,10 +658,11 @@ def main():
                 % (FAUNA_DATA_KEY[kind], kind, taxon_id, kind))
 
     def keys_section(kind, taxon_id):
-        """据《中国动物志》整理的属级/种级形态检索表。
+        """形态检索表（科/亚科页放分属表，属页放分种表）。
 
-        数据在 _data/fauna_keys.json（键为页面 URL），与形态描述分开成块：检索表按「组」
-        折叠显示，终端一律链到站内页面，已剔除的无效种在各表末尾列出。
+        数据在 _data/fauna_keys.json（键为页面 URL）。来源逐表标注：原书表据黄复生等
+        （2000），目级与白蚁科亚科表据 Hellemans 等（2024）。检索表按「组」折叠显示，
+        终端一律链到站内页面，已剔除的无效种在各表末尾列出。
         """
         return ('{%%- assign fk = site.data.fauna_keys["/%s/%s/"] -%%}'
                 '{%%- if fk %%}\n{%% include fauna-keys.html fk=fk %%}\n{%%- endif %%}\n'
@@ -802,6 +803,7 @@ def main():
             + photo_section("genus", gid)
             + genus_intro(gen, mapped)
             + fauna_section("genus", gid)
+            + keys_section("genus", gid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("genus", gid, genus_up(gen)) + "\n</article>\n"
             + taxon_jsonld("genus", gid, gen["latin"], gen["zh"], parent, "属")

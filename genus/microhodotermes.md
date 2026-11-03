@@ -50,6 +50,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/microhodotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/microhodotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/microhodotermes-maroccanus/"><i>Microhodotermes maroccanus</i> Sjöstedt, 1926 摩洛哥小草白蚁</a></li><li><a href="{{ site.base_url }}/species/microhodotermes-viator/"><i>Microhodotermes viator</i> Latreille, 1804 旅游小草白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/microhodotermes-wasmanni/"><i>Microhodotermes wasmanni</i> Sjöstedt, 1900 沃斯曼小草白蚁</a></li></ul>
 </section>

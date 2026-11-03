@@ -51,6 +51,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/gnathamitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/gnathamitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/gnathamitermes-grandis/"><i>Gnathamitermes grandis</i> Light, 1930 大颚钩白蚁</a></li><li><a href="{{ site.base_url }}/species/gnathamitermes-nigriceps/"><i>Gnathamitermes nigriceps</i> Light, 1930 黑头颚钩白蚁</a></li><li><a href="{{ site.base_url }}/species/gnathamitermes-perplexus/"><i>Gnathamitermes perplexus</i> Banks, 1920 复杂颚钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/gnathamitermes-tubiformans/"><i>Gnathamitermes tubiformans</i> Buckley, 1862 管形颚钩白蚁</a></li></ul>
 </section>

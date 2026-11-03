@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/paracapritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/paracapritermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/paracapritermes-kraepelinii/"><i>Paracapritermes kraepelinii</i> Silvestri, 1909 克雷珀林旁扭白蚁</a></li><li><a href="{{ site.base_url }}/species/paracapritermes-primus/"><i>Paracapritermes primus</i> Hill, 1942 第一旁扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/paracapritermes-prolixus/"><i>Paracapritermes prolixus</i> Miller, 1991 细长旁扭白蚁</a></li><li><a href="{{ site.base_url }}/species/paracapritermes-secundus/"><i>Paracapritermes secundus</i> Miller, 1991 第二旁扭白蚁</a></li></ul>
 </section>

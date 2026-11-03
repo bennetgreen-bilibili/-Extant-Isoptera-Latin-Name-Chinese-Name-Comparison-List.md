@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/dihoplotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/dihoplotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/dihoplotermes-inusitatus/"><i>Dihoplotermes inusitatus</i> Araujo, 1961 非凡双戟白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/dihoplotermes-taurus/"><i>Dihoplotermes taurus</i> Azevedo, Dambros & Morais, 2019 公牛双戟白蚁</a></li></ul>
 </section>

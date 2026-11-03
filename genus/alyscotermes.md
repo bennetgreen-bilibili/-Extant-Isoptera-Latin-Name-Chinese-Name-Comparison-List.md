@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/alyscotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/alyscotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/alyscotermes-kilimandjaricus/"><i>Alyscotermes kilimandjaricus</i> Sjöstedt, 1907 乞力马扎罗逃白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/alyscotermes-trestus/"><i>Alyscotermes trestus</i> Sands, 1972 懦夫逃白蚁</a></li></ul>
 </section>

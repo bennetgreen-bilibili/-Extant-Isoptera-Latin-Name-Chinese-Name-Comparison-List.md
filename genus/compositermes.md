@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/compositermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/compositermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/compositermes-bani/"><i>Compositermes bani</i> Carrijo, Scheffrahn & Křeček, 2016 班恩肠刺白蚁</a></li><li><a href="{{ site.base_url }}/species/compositermes-vindai/"><i>Compositermes vindai</i> Scheffrahn, 2013 文达肠刺白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

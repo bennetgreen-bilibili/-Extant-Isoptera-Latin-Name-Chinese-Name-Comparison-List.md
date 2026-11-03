@@ -21,6 +21,12 @@
 /* 单张卡片：图片 + 下方图注，整体不能被拆到两列，卡片间距用 margin-bottom */
 .species-gallery .gallery-card{display:block;break-inside:avoid;page-break-inside:avoid;-webkit-column-break-inside:avoid;margin:0 0 14px;overflow:hidden;background:var(--card);border:1px solid var(--line);border-radius:var(--radius-sm);box-shadow:var(--shadow-sm);transition:border-color .15s,box-shadow .15s,transform .15s}
 
+/* 本页检索（assets/photo-search.js）用 [hidden] 收起不匹配的卡片与整组。
+   上面给卡片写死了 display:block，UA 默认的 [hidden]{display:none} 会被盖掉，
+   所以这里必须显式补一条，否则筛掉的卡片仍然可见。 */
+.species-gallery .gallery-card[hidden],
+.species-gallery[hidden]{display:none}
+
 /* 只有一张或两张照片时，收窄列数，避免列宽过小、右侧留下大片空白 */
 .species-gallery .gallery-grid:has(> .gallery-card:only-child){columns:1;max-width:540px}
 .species-gallery .gallery-grid:has(> .gallery-card:nth-child(2):last-child){columns:2;max-width:800px}
@@ -97,4 +103,34 @@
   .species-gallery .gallery-more,
   .taxon-photos .gallery-more{font-size:.86em;padding:.45em 1em}
 }
+
+/* ===== 「全部图片」页的本页检索框（_includes/photo-search.html） =====
+   四级图片页共用，只筛当前页已经渲染的照片：按拉丁学名 / 中文名 / 摄影师
+   （逻辑在 assets/photo-search.js）。框体常显——脚本被拦时输入框仍在，
+   只是筛不动，照片照常可看；不额外发请求，也不依赖全站搜索索引。 */
+.photo-page .photo-search{margin:1.4em 0 .2em;padding:12px 14px;background:var(--accent-softer);border:1px solid var(--line);border-radius:var(--radius-sm)}
+.photo-page .photo-search-count{font-weight:700;color:var(--accent-strong);margin:0 .18em;white-space:nowrap}
+.photo-page .photo-search-label{display:block;font-size:.86em;line-height:1.6;color:var(--muted);margin:0 0 .5em}
+.photo-search-row{display:flex;align-items:center;gap:8px}
+.photo-search-input{flex:1 1 auto;min-width:0;width:100%;padding:10px 13px;font:inherit;font-size:.95rem;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--card);color:var(--ink);box-shadow:var(--shadow-sm)}
+.photo-search-input::placeholder{color:var(--muted);opacity:.85}
+.photo-search-input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.photo-search-clear{flex:0 0 auto;padding:9px 14px;font:inherit;font-size:.86em;font-weight:600;line-height:1.5;color:var(--accent-strong);background:var(--card);border:1px solid var(--line);border-radius:999px;cursor:pointer;transition:background .15s,color .15s,border-color .15s}
+.photo-search-clear:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+.photo-search-clear:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.photo-page .photo-search-status{font-size:.82em;color:var(--muted);margin:.55em 0 0}
+.photo-page .photo-search-empty{font-size:.9em;color:var(--muted);margin:.6em 0 0}
+.photo-page .photo-search-empty a{color:var(--accent-strong)}
+.photo-search-clear[hidden],
+.photo-search-status[hidden],
+.photo-search-empty[hidden],
+.photo-search-count[hidden]{display:none}
+@media (max-width:640px){
+  .photo-page .photo-search{padding:10px 11px}
+  .photo-page .photo-search-label{font-size:.84em}
+  .photo-search-input{font-size:.92rem;padding:9px 11px}
+  .photo-search-clear{font-size:.82em;padding:8px 12px}
+}
+@media print{.photo-page .photo-search{display:none}}
+
 

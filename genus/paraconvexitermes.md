@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/paraconvexitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/paraconvexitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/paraconvexitermes-acangapua/"><i>Paraconvexitermes acangapua</i> Cancello & Noirot, 2003 圆头近凸白蚁</a></li><li><a href="{{ site.base_url }}/species/paraconvexitermes-junceus/"><i>Paraconvexitermes junceus</i> Emerson, 1949 细长近凸白蚁</a></li><li><a href="{{ site.base_url }}/species/paraconvexitermes-nigricornis/"><i>Paraconvexitermes nigricornis</i> Holmgren, 1906 黑角近凸白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

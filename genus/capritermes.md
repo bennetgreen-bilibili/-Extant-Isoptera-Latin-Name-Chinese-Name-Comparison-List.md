@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/capritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/capritermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/capritermes-capricornis/"><i>Capritermes capricornis</i> Wasmann, 1893 山羊角扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

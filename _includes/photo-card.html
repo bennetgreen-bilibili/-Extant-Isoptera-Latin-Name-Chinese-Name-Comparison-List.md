@@ -4,11 +4,13 @@
   参数：photo（_data/species_photos.json 里的一条记录）、label（「拉丁 中文」，用于 alt）。
   结构对齐 assets/gallery.js 与 assets/gallery.css：a.gallery-item 上的 data-* 是
   PhotoSwipe 的图注来源，缺一个属性灯箱里就会少一行署名。
+  figure 上的 data-label / data-credit 是 assets/photo-search.js 的唯一检索输入：
+  前者是「拉丁 中文」（按种分组时即该种的学名与中文名），后者是摄影师 / 作者。
 {%- endcomment -%}
 {%- assign pc = include.photo -%}
 {%- assign pc_label = include.label | default: '' -%}
 {%- assign pc_thumb = pc.thumb | default: pc.src -%}
-<figure class="gallery-card">
+<figure class="gallery-card" data-credit="{{ pc.credit | escape }}" data-label="{{ pc_label | escape }}">
   <a class="gallery-item" href="{{ pc.src | escape }}" data-pswp-width="{{ pc.width }}" data-pswp-height="{{ pc.height }}" data-credit="{{ pc.credit | escape }}" data-license="{{ pc.license | escape }}" data-license-url="{{ pc.licenseUrl | escape }}" data-source-page="{{ pc.page | escape }}" target="_blank" rel="noopener noreferrer">
     <img src="{{ pc_thumb | escape }}" alt="{{ pc_label }}（{{ pc.credit | escape }}，{{ pc.license | escape }}）" width="{{ pc.width }}" height="{{ pc.height }}" loading="lazy" decoding="async">
     <span class="gallery-item-zoom" aria-hidden="true">⤢</span>

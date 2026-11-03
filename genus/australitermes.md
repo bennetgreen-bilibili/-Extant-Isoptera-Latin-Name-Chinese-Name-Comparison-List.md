@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/australitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/australitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/australitermes-dilucidus/"><i>Australitermes dilucidus</i> Hill, 1942 清晰澳大利亚白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/australitermes-insignitus/"><i>Australitermes insignitus</i> Hill, 1942 易辨澳大利亚白蚁</a></li><li><a href="{{ site.base_url }}/species/australitermes-perlevis/"><i>Australitermes perlevis</i> Hill, 1942 极轻澳大利亚白蚁</a></li></ul>
 </section>

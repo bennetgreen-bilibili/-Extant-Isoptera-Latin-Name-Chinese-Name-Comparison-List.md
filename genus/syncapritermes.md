@@ -46,6 +46,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/syncapritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/syncapritermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/syncapritermes-greeni/"><i>Syncapritermes greeni</i> John, 1925 格林聚扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

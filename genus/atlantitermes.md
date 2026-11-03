@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/atlantitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/atlantitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/atlantitermes-guarinim/"><i>Atlantitermes guarinim</i> Fontes, 1979 好斗阿特拉斯白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/atlantitermes-ibitiriguara/"><i>Atlantitermes ibitiriguara</i> Fontes, 1979 具锯阿特拉斯白蚁</a></li><li><a href="{{ site.base_url }}/species/atlantitermes-kirbyi/"><i>Atlantitermes kirbyi</i> Snyder, 1926 柯比阿特拉斯白蚁</a></li><li><a href="{{ site.base_url }}/species/atlantitermes-oculatissimus/"><i>Atlantitermes oculatissimus</i> Emerson, 1925 巨眼阿特拉斯白蚁</a></li><li><a href="{{ site.base_url }}/species/atlantitermes-osborni/"><i>Atlantitermes osborni</i> Emerson, 1925 奥斯本阿特拉斯白蚁</a></li><li><a href="{{ site.base_url }}/species/atlantitermes-raripilus/"><i>Atlantitermes raripilus</i> Emerson, 1925 少毛阿特拉斯白蚁</a></li><li><a href="{{ site.base_url }}/species/atlantitermes-snyderi/"><i>Atlantitermes snyderi</i> Emerson, 1925 斯奈德阿特拉斯白蚁</a></li><li><a href="{{ site.base_url }}/species/atlantitermes-stercophilus/"><i>Atlantitermes stercophilus</i> Constantino & DeSouza, 1997 喜粪阿特拉斯白蚁</a></li></ul>
 </section>

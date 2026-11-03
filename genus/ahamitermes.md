@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/ahamitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/ahamitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ahamitermes-hillii/"><i>Ahamitermes hillii</i> Nicholls, 1929 希尔无钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ahamitermes-inclusus/"><i>Ahamitermes inclusus</i> Gay, 1955 栖垄无钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ahamitermes-nidicola/"><i>Ahamitermes nidicola</i> Mjöberg, 1920 栖巢无钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/acholotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/acholotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/acholotermes-chirotus/"><i>Acholotermes chirotus</i> Sands, 1972 短小顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-epius/"><i>Acholotermes epius</i> Sands, 1972 椭囟顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-imbellis/"><i>Acholotermes imbellis</i> Sands, 1972 和平顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-socialis/"><i>Acholotermes socialis</i> Sjöstedt, 1899 社会顺白蚁</a></li><li><a href="{{ site.base_url }}/species/acholotermes-tithasus/"><i>Acholotermes tithasus</i> Sands, 1972 体大顺白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

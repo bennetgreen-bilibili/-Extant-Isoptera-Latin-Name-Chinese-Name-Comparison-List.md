@@ -3,117 +3,6 @@
   "keys": [
    {
     "title": "等翅目科的检索表",
-    "caste": "兵蚁",
-    "couplets": [
-     {
-      "n": 1,
-      "d": 0,
-      "leads": [
-       {
-        "t": "跗节5节",
-        "leaf": {
-         "kind": "family",
-         "zh": "澳白蚁科",
-         "latin": "Mastotermitidae",
-         "url": "/family/mastotermitidae/"
-        }
-       },
-       {
-        "t": "跗节4节，少数有退化的5节",
-        "to": 2
-       }
-      ]
-     },
-     {
-      "n": 2,
-      "d": 1,
-      "leads": [
-       {
-        "t": "头部无囟",
-        "to": 3
-       },
-       {
-        "t": "头部有囟",
-        "to": 4
-       }
-      ]
-     },
-     {
-      "n": 3,
-      "d": 2,
-      "leads": [
-       {
-        "t": "尾须3—8节，触角22—23节（Stolotermes 属和 Porotermes 属少于19节）",
-        "leaf": {
-         "kind": "family",
-         "zh": "草白蚁科",
-         "latin": "Hodotermitidae",
-         "url": "/family/hodotermitidae/"
-        }
-       },
-       {
-        "t": "尾须2节，触角10—19节",
-        "leaf": {
-         "kind": "family",
-         "zh": "木白蚁科",
-         "latin": "Kalotermitidae",
-         "url": "/family/kalotermitidae/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 4,
-      "d": 2,
-      "leads": [
-       {
-        "t": "前胸背板扁平，无前叶",
-        "to": 5
-       },
-       {
-        "t": "前胸背板马鞍形，有前叶",
-        "leaf": {
-         "kind": "family",
-         "zh": "白蚁科",
-         "latin": "Termitidae",
-         "url": "/family/termitidae/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 5,
-      "d": 3,
-      "leads": [
-       {
-        "t": "上颚内缘无锯齿，或仅在内缘基部有少数小齿",
-        "leaf": {
-         "kind": "family",
-         "zh": "鼻白蚁科",
-         "latin": "Rhinotermitidae",
-         "url": "/family/rhinotermitidae/"
-        }
-       },
-       {
-        "t": "上颚沿整个内缘有锯齿",
-        "leaf": {
-         "kind": "family",
-         "zh": "齿白蚁科",
-         "latin": "Serritermitidae",
-         "url": "/family/serritermitidae/"
-        }
-       }
-      ]
-     }
-    ],
-    "dropped": [],
-    "n_leaves": 6,
-    "note": "本表为原书（黄复生等，2000）采用的 6 科方案。本站依现代分类学研究把等翅目分为 13 科，各科的对应关系为：澳白蚁科→澳白蚁科（Mastotermitidae）；草白蚁科→草白蚁科（Hodotermitidae）＋古白蚁科（Archotermopsidae）＋胄白蚁科（Stolotermitidae）；木白蚁科→木白蚁科（Kalotermitidae）；鼻白蚁科→鼻白蚁科（Rhinotermitidae）＋异白蚁科（Heterotermitidae）＋沙白蚁科（Psammotermitidae）＋杆白蚁科（Stylotermitidae）；齿白蚁科→齿白蚁科（Serritermitidae）；白蚁科→白蚁科（Termitidae）。表中科名按原书概念标注，各终点只链接到本站对应的科级页面。",
-    "site_genus": null,
-    "book_genus": "等翅目 Isoptera"
-   },
-   {
-    "title": "等翅目科的检索表",
     "caste": "有翅成虫",
     "couplets": [
      {
@@ -121,17 +10,17 @@
       "d": 0,
       "leads": [
        {
-        "t": "后翅有臀叶，跗节明显分为5节，触角多至30节",
+        "t": "跗节 3 节、4 节，或分节不明显的 5 节；后翅无臀叶；单眼有或无；后头沟缺（至多以折角或刻线表示）；前足基节无腹脊",
+        "to": 2
+       },
+       {
+        "t": "跗节明显分为 5 节；后翅有臀叶；有单眼；后头沟存在；前足基节有腹脊",
         "leaf": {
          "kind": "family",
          "zh": "澳白蚁科",
          "latin": "Mastotermitidae",
          "url": "/family/mastotermitidae/"
         }
-       },
-       {
-        "t": "后翅无臀叶，跗节4或3节，某些类群为发育不全的5节，触角少于27节",
-        "to": 2
        }
       ]
      },
@@ -140,12 +29,12 @@
       "d": 1,
       "leads": [
        {
-        "t": "头背无囟",
+        "t": "无单眼；左上颚具 3 枚缘齿（LMt）；尾须 1—8 节［皱翅类 Teletisoptera］",
         "to": 3
        },
        {
-        "t": "头背有囟",
-        "to": 4
+        "t": "有单眼，或单眼缺而左上颚仅 2 枚缘齿；尾须 2 节［真等翅类 Icoisoptera］",
+        "to": 7
        }
       ]
      },
@@ -154,16 +43,92 @@
       "d": 2,
       "leads": [
        {
-        "t": "无单眼，尾须3—8节，触角通常多于21节，左上颚有3个缘齿（Hodotermes 属、Microhodotermes 属和 Anacanthotermes 属中第2缘齿非常退化），右上颚有附齿（上述3属除外）",
+        "t": "具中垫；跗节 5 节，有时分节不明显",
+        "to": 4
+       },
+       {
+        "t": "无中垫；跗节 4 节或 5 节",
+        "to": 5
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 3,
+      "leads": [
+       {
+        "t": "右上颚端齿（RAt）长度等于或短于第一缘齿（RMt1）",
+        "leaf": {
+         "kind": "family",
+         "zh": "原白蚁科",
+         "latin": "Hodotermopsidae",
+         "url": "/family/hodotermopsidae/"
+        }
+       },
+       {
+        "t": "右上颚端齿长于第一缘齿",
+        "leaf": {
+         "kind": "family",
+         "zh": "古白蚁科",
+         "latin": "Archotermopsidae",
+         "url": "/family/archotermopsidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 3,
+      "leads": [
+       {
+        "t": "触角少于 20 节；右上颚具附齿［胄白蚁科 Stolotermitidae］",
+        "to": 6
+       },
+       {
+        "t": "触角多于 20 节；跗节 4 节；右上颚无附齿",
         "leaf": {
          "kind": "family",
          "zh": "草白蚁科",
          "latin": "Hodotermitidae",
          "url": "/family/hodotermitidae/"
         }
+       }
+      ]
+     },
+     {
+      "n": 6,
+      "d": 4,
+      "leads": [
+       {
+        "t": "跗节 4 节；腿节增粗；尾须 4—5 节；胫节距式 3:3:2 或 2:2:2（Stolotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "胄白蚁科",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/"
+        }
        },
        {
-        "t": "有单眼，尾须2节，触角少于21节，左上颚有2个缘齿，右上颚无附齿",
+        "t": "跗节 5 节；腿节不增粗；尾须 5 节；胫节距式 3:3:3 或 3:3:4（Porotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "胄白蚁科",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 7,
+      "d": 2,
+      "leads": [
+       {
+        "t": "有囟；跗节 3 节或 4 节；无中垫；左上颚多变［新等翅类 Neoisoptera］",
+        "to": 8
+       },
+       {
+        "t": "无囟；跗节 4 节；左上颚具 2 枚缘齿",
         "leaf": {
          "kind": "family",
          "zh": "木白蚁科",
@@ -174,15 +139,15 @@
       ]
      },
      {
-      "n": 4,
-      "d": 2,
+      "n": 8,
+      "d": 3,
       "leads": [
        {
-        "t": "前翅鳞大，与后翅鳞重叠，翅膜网状",
-        "to": 5
+        "t": "前翅鳞明显覆盖后翅鳞；翅面具网状纹；前胸背板扁平",
+        "to": 9
        },
        {
-        "t": "前翅鳞小，不与后翅鳞重叠，翅膜非网状",
+        "t": "前翅鳞不覆盖后翅鳞；翅面无网状纹；前胸背板马鞍形",
         "leaf": {
          "kind": "family",
          "zh": "白蚁科",
@@ -193,20 +158,34 @@
       ]
      },
      {
-      "n": 5,
-      "d": 3,
+      "n": 9,
+      "d": 4,
       "leads": [
        {
-        "t": "上颚具短的端齿，左上颚具3个缘齿，右上颚在端齿与第1缘齿基部之间具1附齿",
-        "leaf": {
-         "kind": "family",
-         "zh": "鼻白蚁科",
-         "latin": "Rhinotermitidae",
-         "url": "/family/rhinotermitidae/"
-        }
+        "t": "跗节 4 节",
+        "to": 10
        },
        {
-        "t": "上颚具大的端齿，左上颚具1个缘齿，右上颚无附齿",
+        "t": "跗节 3 节",
+        "leaf": {
+         "kind": "family",
+         "zh": "杆白蚁科",
+         "latin": "Stylotermitidae",
+         "url": "/family/stylotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 10,
+      "d": 5,
+      "leads": [
+       {
+        "t": "左上颚端齿（LAt）短，其后具 3 枚明显缘齿",
+        "to": 11
+       },
+       {
+        "t": "左上颚端齿长，其后仅 1 枚明显缘齿",
         "leaf": {
          "kind": "family",
          "zh": "齿白蚁科",
@@ -215,19 +194,405 @@
         }
        }
       ]
+     },
+     {
+      "n": 11,
+      "d": 6,
+      "leads": [
+       {
+        "t": "前翅 M 脉（若存在）与 Cu 脉在翅鳞之外分叉［沙白蚁科 Psammotermitidae］",
+        "to": 12
+       },
+       {
+        "t": "前翅各脉在翅鳞之内独立起始",
+        "to": 13
+       }
+      ]
+     },
+     {
+      "n": 12,
+      "d": 7,
+      "leads": [
+       {
+        "t": "前后翅鳞大小约相等，不重叠；头部无自囟至口上沟的沟（Psammotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "沙白蚁科",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/"
+        }
+       },
+       {
+        "t": "前后翅鳞大小不等，重叠；头部有自囟至口上沟的沟（Prorhinotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "沙白蚁科",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 13,
+      "d": 7,
+      "leads": [
+       {
+        "t": "后唇基无鼻状突，无自囟至下唇端部的沟",
+        "to": 14
+       },
+       {
+        "t": "后唇基具鼻状突，有自囟至唇基的狭沟",
+        "leaf": {
+         "kind": "family",
+         "zh": "鼻白蚁科",
+         "latin": "Rhinotermitidae",
+         "url": "/family/rhinotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 14,
+      "d": 8,
+      "leads": [
+       {
+        "t": "头扁平，近三角形，后缘波状；前胸背板前缘具中突；翅密被刚毛",
+        "leaf": {
+         "kind": "family",
+         "zh": "寡脉白蚁科",
+         "latin": "Termitogetonidae",
+         "url": "/family/termitogetonidae/"
+        }
+       },
+       {
+        "t": "头不扁平，卵形，后缘平直；前胸背板前缘无中突；翅疏被刚毛",
+        "leaf": {
+         "kind": "family",
+         "zh": "异白蚁科",
+         "latin": "Heterotermitidae",
+         "url": "/family/heterotermitidae/"
+        }
+       }
+      ]
      }
     ],
     "dropped": [],
-    "n_leaves": 6,
-    "note": "本表为原书（黄复生等，2000）采用的 6 科方案。本站依现代分类学研究把等翅目分为 13 科，各科的对应关系为：澳白蚁科→澳白蚁科（Mastotermitidae）；草白蚁科→草白蚁科（Hodotermitidae）＋古白蚁科（Archotermopsidae）＋胄白蚁科（Stolotermitidae）；木白蚁科→木白蚁科（Kalotermitidae）；鼻白蚁科→鼻白蚁科（Rhinotermitidae）＋异白蚁科（Heterotermitidae）＋沙白蚁科（Psammotermitidae）＋杆白蚁科（Stylotermitidae）；齿白蚁科→齿白蚁科（Serritermitidae）；白蚁科→白蚁科（Termitidae）。表中科名按原书概念标注，各终点只链接到本站对应的科级页面。",
+    "n_leaves": 15,
+    "note": "本表据 Hellemans 等（2024）补充材料 Note 2 译出，终点覆盖本站采用的 13 科，与原书（黄复生等，2000）的 6 科方案不同。胄白蚁科（Stolotermitidae）的 Stolotermitinae、Porotermitinae 与沙白蚁科（Psammotermitidae）的 Psammotermitinae、Prorhinotermitinae 在原表为亚科级终点，本站未单设相应亚科页，故链接到所属科页并保留亚科名；原表标为「部分」（partim）的终点在条目文字中注明。",
+    "source": "据 Hellemans、Rocha、Wang 等（2024）Nature Communications 15: 6724 补充材料 Note 2「Key to extant families and subfamilies of Isoptera」的有翅成虫与兵蚁两套检索表译出。",
+    "src_short": "Hellemans 等（2024）",
+    "site_genus": null,
+    "book_genus": "等翅目 Isoptera"
+   },
+   {
+    "title": "等翅目科的检索表",
+    "caste": "兵蚁",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "跗节 5 节，有时隐蔽（第 II 跗分节退化，仅腹面可见）",
+        "to": 2
+       },
+       {
+        "t": "跗节 3 节或 4 节",
+        "to": 4
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "前胸背板较小，窄于头，扁平；尾须 4—8 节；触角 19—27 节",
+        "to": 3
+       },
+       {
+        "t": "前胸背板大，与头等宽，马鞍形；尾须 4 节；触角 20—26 节",
+        "leaf": {
+         "kind": "family",
+         "zh": "澳白蚁科",
+         "latin": "Mastotermitidae",
+         "url": "/family/mastotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "d": 2,
+      "leads": [
+       {
+        "t": "各足胫节均具侧刺；头后缘呈二叶状或均匀弧出",
+        "leaf": {
+         "kind": "family",
+         "zh": "古白蚁科",
+         "latin": "Archotermopsidae",
+         "url": "/family/archotermopsidae/"
+        }
+       },
+       {
+        "t": "仅后足胫节具侧刺，中足胫节偶有 1 刺，前足胫节从无侧刺；头后缘均匀弧出",
+        "leaf": {
+         "kind": "family",
+         "zh": "原白蚁科",
+         "latin": "Hodotermopsidae",
+         "url": "/family/hodotermopsidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 1,
+      "leads": [
+       {
+        "t": "头无囟",
+        "to": 5
+       },
+       {
+        "t": "头有囟［新等翅类］",
+        "to": 8
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 2,
+      "leads": [
+       {
+        "t": "尾须长，1—5 节；触角 13—33 节",
+        "to": 6
+       },
+       {
+        "t": "尾须短，2 节；触角 10—21 节",
+        "leaf": {
+         "kind": "family",
+         "zh": "木白蚁科",
+         "latin": "Kalotermitidae",
+         "url": "/family/kalotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 6,
+      "d": 3,
+      "leads": [
+       {
+        "t": "前胸背板扁平；头壳或多或少扁平；后足腿节增粗；尾须 4—5 节；触角 13—19 节［胄白蚁科］",
+        "to": 7
+       },
+       {
+        "t": "前胸背板微呈马鞍形（前叶稍隆起）；头不扁平；后足腿节不增粗；尾须 1—5 节；触角 22—33 节",
+        "leaf": {
+         "kind": "family",
+         "zh": "草白蚁科",
+         "latin": "Hodotermitidae",
+         "url": "/family/hodotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 7,
+      "d": 4,
+      "leads": [
+       {
+        "t": "上颚短粗；头稍扁平；胫节距式 (2/3):(2/3/4):3（Porotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "胄白蚁科",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/"
+        }
+       },
+       {
+        "t": "上颚较长而不粗壮；头明显扁平；胫节距式 3:3:2 或 2:2:2（Stolotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "胄白蚁科",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 8,
+      "d": 2,
+      "leads": [
+       {
+        "t": "前胸背板扁平",
+        "to": 9
+       },
+       {
+        "t": "前胸背板明显马鞍形",
+        "leaf": {
+         "kind": "family",
+         "zh": "白蚁科",
+         "latin": "Termitidae",
+         "url": "/family/termitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 9,
+      "d": 3,
+      "leads": [
+       {
+        "t": "上颚内缘无锯齿，仅基部有时具少数小齿",
+        "to": 10
+       },
+       {
+        "t": "上颚沿整个内缘具锯齿",
+        "leaf": {
+         "kind": "family",
+         "zh": "齿白蚁科",
+         "latin": "Serritermitidae",
+         "url": "/family/serritermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 10,
+      "d": 4,
+      "leads": [
+       {
+        "t": "跗节 4 节",
+        "to": 11
+       },
+       {
+        "t": "跗节 3 节",
+        "leaf": {
+         "kind": "family",
+         "zh": "杆白蚁科",
+         "latin": "Stylotermitidae",
+         "url": "/family/stylotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 11,
+      "d": 5,
+      "leads": [
+       {
+        "t": "头具小囟，远离唇基基部",
+        "to": 12
+       },
+       {
+        "t": "头具大而圆的囟，位于唇基基部［乳白蚁属 Coptotermes；异白蚁科部分］",
+        "leaf": {
+         "kind": "family",
+         "zh": "异白蚁科",
+         "latin": "Heterotermitidae",
+         "url": "/family/heterotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 12,
+      "d": 6,
+      "leads": [
+       {
+        "t": "有自囟至唇基基部的沟",
+        "to": 13
+       },
+       {
+        "t": "无沟",
+        "to": 14
+       }
+      ]
+     },
+     {
+      "n": 13,
+      "d": 7,
+      "leads": [
+       {
+        "t": "下唇端部具刷状毛；上颚具明显的缘齿",
+        "leaf": {
+         "kind": "family",
+         "zh": "鼻白蚁科",
+         "latin": "Rhinotermitidae",
+         "url": "/family/rhinotermitidae/"
+        }
+       },
+       {
+        "t": "下唇端部无刷状毛；上颚无明显缘齿［沙白蚁科部分］（Prorhinotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "沙白蚁科",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 14,
+      "d": 7,
+      "leads": [
+       {
+        "t": "头两侧圆",
+        "to": 15
+       },
+       {
+        "t": "头两侧近于平行［异白蚁科部分］",
+        "leaf": {
+         "kind": "family",
+         "zh": "异白蚁科",
+         "latin": "Heterotermitidae",
+         "url": "/family/heterotermitidae/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 15,
+      "d": 8,
+      "leads": [
+       {
+        "t": "头近三角形、扁平，后缘波状；上颚除基部少数锯齿外无明显缘齿；前胸背板具前中突",
+        "leaf": {
+         "kind": "family",
+         "zh": "寡脉白蚁科",
+         "latin": "Termitogetonidae",
+         "url": "/family/termitogetonidae/"
+        }
+       },
+       {
+        "t": "头近矩形，后缘平直；上颚具明显缘齿；前胸背板无前中突［沙白蚁科部分］（Psammotermitinae）",
+        "leaf": {
+         "kind": "family",
+         "zh": "沙白蚁科",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/"
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 16,
+    "note": "本表据 Hellemans 等（2024）补充材料 Note 2 译出，终点覆盖本站采用的 13 科，与原书（黄复生等，2000）的 6 科方案不同。胄白蚁科（Stolotermitidae）的 Stolotermitinae、Porotermitinae 与沙白蚁科（Psammotermitidae）的 Psammotermitinae、Prorhinotermitinae 在原表为亚科级终点，本站未单设相应亚科页，故链接到所属科页并保留亚科名；原表标为「部分」（partim）的终点在条目文字中注明。",
+    "source": "据 Hellemans、Rocha、Wang 等（2024）Nature Communications 15: 6724 补充材料 Note 2「Key to extant families and subfamilies of Isoptera」的有翅成虫与兵蚁两套检索表译出。",
+    "src_short": "Hellemans 等（2024）",
     "site_genus": null,
     "book_genus": "等翅目 Isoptera"
    }
   ],
   "omitted": [],
   "n_keys": 2,
-  "n_couplets": 10,
-  "n_leaves": 12
+  "n_couplets": 29,
+  "n_leaves": 31
  },
  "/family/kalotermitidae/": {
   "keys": [
@@ -320,8 +685,18 @@
     "dropped": [],
     "n_leaves": 5,
     "site_genus": null,
-    "book_genus": "木白蚁科 Kalotermitidae"
-   },
+    "book_genus": "木白蚁科 Kalotermitidae",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 4,
+  "n_leaves": 5
+ },
+ "/genus/glyptotermes/": {
+  "keys": [
    {
     "title": "树白蚁属分种检索表",
     "caste": "兵蚁",
@@ -1000,7 +1375,9 @@
     "dropped": [],
     "n_leaves": 36,
     "site_genus": "/genus/glyptotermes/",
-    "book_genus": "树白蚁属 Glyptotermes"
+    "book_genus": "树白蚁属 Glyptotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "树白蚁属分种检索表",
@@ -1186,18 +1563,364 @@
     "dropped": [],
     "n_leaves": 10,
     "site_genus": "/genus/glyptotermes/",
-    "book_genus": "树白蚁属 Glyptotermes"
+    "book_genus": "树白蚁属 Glyptotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
-  "omitted": [
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 44,
+  "n_leaves": 46
+ },
+ "/genus/neotermes/": {
+  "keys": [
    {
-    "title": "新白蚁属 Neotermes 分种检索表",
-    "reason": "原文该检索表被 OCR 黏连成整段（种对无编号、终端丢失），无法可靠复原"
+    "title": "新白蚁属分种检索表",
+    "caste": "兵蚁",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "头长（至颚基）大于头宽的 1.5 倍",
+        "to": 2
+       },
+       {
+        "t": "头长（至颚基）小于头宽的 1.5 倍",
+        "to": 12
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "前胸背板前缘中央凹口宽而浅；后颏最狭处较宽，其宽的 2 倍小于最大宽",
+        "to": 3
+       },
+       {
+        "t": "前胸背板前缘中央凹口较深；后颏腰区较宽，其宽的 2 倍大于最宽处",
+        "to": 10
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "d": 2,
+      "leads": [
+       {
+        "t": "后颏最宽区两侧缘平行对称，近似方形",
+        "to": 4
+       },
+       {
+        "t": "后颏最宽区两侧缘前后不对称，前部宽，后部狭",
+        "to": 7
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 3,
+      "leads": [
+       {
+        "t": "体型大，后颏最宽区两侧中部略内凹",
+        "to": 5
+       },
+       {
+        "t": "体型小，后颏最宽区两侧几乎平直，不内凹",
+        "to": 6
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 4,
+      "leads": [
+       {
+        "t": "眼与触角的间距约 0.25 mm；后颏较宽，最狭宽／长与最大宽／长指数分别为 0.12—0.16 和 0.25—0.35；前胸背板与头宽几乎相等",
+        "leaf": {
+         "kind": "species",
+         "zh": "异距新白蚁",
+         "latin": "Neotermes dubiocalcaratus",
+         "url": "/species/neotermes-dubiocalcaratus/"
+        }
+       },
+       {
+        "t": "眼与触角的间距约 0.20 mm；后颏较细长，最狭宽／长与最大宽／长指数分别为 0.08 和 0.24；前胸背板宽于头宽",
+        "leaf": {
+         "kind": "species",
+         "zh": "细颏新白蚁",
+         "latin": "Neotermes angustigulus",
+         "url": "/species/neotermes-angustigulus/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 6,
+      "d": 4,
+      "leads": [
+       {
+        "t": "体较大，头宽 2.06—2.18 mm，前胸背板宽 2.29—2.59 mm；上颚外侧缘后半部呈波状，右上颚第 1 缘齿后切缘凹入、后端微凸",
+        "leaf": {
+         "kind": "species",
+         "zh": "波颚新白蚁",
+         "latin": "Neotermes undulatus",
+         "url": "/species/neotermes-undulatus/"
+        }
+       },
+       {
+        "t": "体略小，头宽 1.88—2.02 mm，前胸背板宽 2.08—2.40 mm；上颚外侧仅基部膨大，右上颚第 1 缘齿后切缘平直",
+        "leaf": {
+         "kind": "species",
+         "zh": "长头新白蚁",
+         "latin": "Neotermes longiceps",
+         "url": "/species/neotermes-longiceps/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 7,
+      "d": 3,
+      "leads": [
+       {
+        "t": "前胸背板前缘中央凹口较浅；后颏最宽区两侧前宽后狭，中部略凹，呈两叶状",
+        "to": 8
+       },
+       {
+        "t": "前胸背板前缘中央凹口较深；后颏最宽区两侧中部无凹入，较平直",
+        "to": 9
+       }
+      ]
+     },
+     {
+      "n": 8,
+      "d": 4,
+      "leads": [
+       {
+        "t": "触角 15 节，第 3 节膨大，明显大于第 2 节；头背中部略隆起",
+        "leaf": {
+         "kind": "species",
+         "zh": "双凹新白蚁",
+         "latin": "Neotermes binovatus",
+         "url": "/species/neotermes-binovatus/"
+        }
+       },
+       {
+        "t": "触角 16 节，第 3 节不膨大，短于第 2 节；头背缘较平坦",
+        "leaf": {
+         "kind": "species",
+         "zh": "中华新白蚁",
+         "latin": "Neotermes sinensis",
+         "url": "/species/neotermes-sinensis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 9,
+      "d": 4,
+      "leads": [
+       {
+        "t": "后颏最狭宽、最大宽与长之比指数均为 0.15，表面明显拱起",
+        "leaf": {
+         "kind": "species",
+         "zh": "丘颏新白蚁",
+         "latin": "Neotermes tuberogulus",
+         "url": "/species/neotermes-tuberogulus/"
+        }
+       },
+       {
+        "t": "后颏最狭宽和最大宽分别是长的 1/10 和不及 1/3，呈棍棒状",
+        "leaf": {
+         "kind": "species",
+         "zh": "福建新白蚁",
+         "latin": "Neotermes fujianensis",
+         "url": "/species/neotermes-fujianensis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 10,
+      "d": 2,
+      "leads": [
+       {
+        "t": "体形大；后颏最宽区两侧向后略缩狭，长不及最狭宽的 6 倍",
+        "leaf": {
+         "kind": "species",
+         "zh": "洼额新白蚁",
+         "latin": "Neotermes fovefrons",
+         "url": "/species/neotermes-fovefrons/"
+        }
+       },
+       {
+        "t": "体略小；后颏最宽区两侧向后明显缩狭，长大于最狭宽的 7 倍",
+        "to": 11
+       }
+      ]
+     },
+     {
+      "n": 11,
+      "d": 3,
+      "leads": [
+       {
+        "t": "体大型；前胸背板前、后缘中央明显凹入；右上颚第 2 缘齿后切缘较平直",
+        "leaf": {
+         "kind": "species",
+         "zh": "奇头新白蚁",
+         "latin": "Neotermes miracapitalis",
+         "url": "/species/neotermes-miracapitalis/"
+        }
+       },
+       {
+        "t": "体较小；前胸背板前、后缘中央凹口较浅；右上颚第 2 缘齿后切缘呈圆弧形凹",
+        "leaf": {
+         "kind": "species",
+         "zh": "云南新白蚁",
+         "latin": "Neotermes yunnanensis",
+         "url": "/species/neotermes-yunnanensis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 12,
+      "d": 1,
+      "leads": [
+       {
+        "t": "后颏最宽区两侧中部具凹入，呈两叶状",
+        "to": 13
+       },
+       {
+        "t": "后颏最宽区两侧中部无凹入，非两叶状",
+        "to": 15
+       }
+      ]
+     },
+     {
+      "n": 13,
+      "d": 2,
+      "leads": [
+       {
+        "t": "触角第 3 节长于第 2 节；上唇前缘中央内凹；后颏长为最狭处的 6—7 倍；体较大",
+        "leaf": {
+         "kind": "species",
+         "zh": "恒春新白蚁",
+         "latin": "Neotermes koshunensis",
+         "url": "/species/neotermes-koshunensis/"
+        }
+       },
+       {
+        "t": "触角第 3 节等于第 2 节；上唇前缘中央凸出；后颏长为最狭处的 7 倍；体略小",
+        "to": 14
+       }
+      ]
+     },
+     {
+      "n": 14,
+      "d": 3,
+      "leads": [
+       {
+        "t": "头略狭长；前胸背板前缘浅凹弧，后缘中央略凹；触角第 3 节短于第 2 节",
+        "leaf": {
+         "kind": "species",
+         "zh": "长颚新白蚁",
+         "latin": "Neotermes dolichognathus",
+         "url": "/species/neotermes-dolichognathus/"
+        }
+       },
+       {
+        "t": "头部略短宽；前胸背板前缘凹口宽而深，后缘中央不凹、近平直；触角第 3 节长于第 2 节",
+        "leaf": {
+         "kind": "species",
+         "zh": "小新白蚁",
+         "latin": "Neotermes humilis",
+         "url": "/species/neotermes-humilis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 15,
+      "d": 2,
+      "leads": [
+       {
+        "t": "体略大；右上颚第 1 缘齿后切缘突起呈齿状；后颏略细长，长为最狭宽的 7—8 倍；头两侧近平行",
+        "to": 16
+       },
+       {
+        "t": "体略小；右上颚第 1 缘齿后切缘呈凹面；后颏稍粗短，长为最狭宽的 5—6 倍；头两侧前狭后宽",
+        "to": 17
+       }
+      ]
+     },
+     {
+      "n": 16,
+      "d": 3,
+      "leads": [
+       {
+        "t": "头型明显宽而短；后颏最宽区两侧前宽后狭；前胸背板前缘凹口狭小；触角 14 节",
+        "leaf": {
+         "kind": "species",
+         "zh": "宽唇新白蚁",
+         "latin": "Neotermes amplilabralis",
+         "url": "/species/neotermes-amplilabralis/"
+        }
+       },
+       {
+        "t": "头型较狭长；后颏最宽区两侧前后平直；前胸背板前缘凹呈 V 形，凹口深；触角 12 节",
+        "leaf": {
+         "kind": "species",
+         "zh": "扁胸新白蚁",
+         "latin": "Neotermes brachynotum",
+         "url": "/species/neotermes-brachynotum/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 17,
+      "d": 3,
+      "leads": [
+       {
+        "t": "左上颚短，其长小于头宽；后颏最宽区两侧平行；触角 14—16 节",
+        "leaf": {
+         "kind": "species",
+         "zh": "楔头新白蚁",
+         "latin": "Neotermes sphenocephalus",
+         "url": "/species/neotermes-sphenocephalus/"
+        }
+       },
+       {
+        "t": "左上颚较长，其长大于头宽；后颏最宽区两侧前宽后狭；前胸背板前缘中央凹口较宽而深，中央不具切刻；触角 12 节",
+        "leaf": {
+         "kind": "species",
+         "zh": "台山新白蚁",
+         "latin": "Neotermes taishanensis",
+         "url": "/species/neotermes-taishanensis/"
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 18,
+    "note": "原书（黄复生等，2000）把这一种写作 Neotermes brachyotum（扁胸新白蚁），本站按现行拼写 Neotermes brachynotum 收载。",
+    "site_genus": "/genus/neotermes/",
+    "book_genus": "新白蚁属 Neotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
-  "n_keys": 3,
-  "n_couplets": 48,
-  "n_leaves": 51
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 17,
+  "n_leaves": 18
  },
  "/family/rhinotermitidae/": {
   "keys": [
@@ -1328,7 +2051,9 @@
     "dropped": [],
     "n_leaves": 7,
     "site_genus": null,
-    "book_genus": "鼻白蚁科 Rhinotermitidae"
+    "book_genus": "鼻白蚁科 Rhinotermitidae",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "鼻白蚁科分属检索表",
@@ -1457,8 +2182,18 @@
     "dropped": [],
     "n_leaves": 7,
     "site_genus": null,
-    "book_genus": "鼻白蚁科 Rhinotermitidae"
-   },
+    "book_genus": "鼻白蚁科 Rhinotermitidae",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 12,
+  "n_leaves": 14
+ },
+ "/genus/schedorhinotermes/": {
+  "keys": [
    {
     "title": "长鼻白蚁属分种检索表",
     "caste": "兵蚁",
@@ -1548,15 +2283,17 @@
     "dropped": [],
     "n_leaves": 5,
     "site_genus": "/genus/schedorhinotermes/",
-    "book_genus": "长鼻白蚁属 Schedorhinotermes"
+    "book_genus": "长鼻白蚁属 Schedorhinotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
   "omitted": [],
-  "n_keys": 3,
-  "n_couplets": 16,
-  "n_leaves": 19
+  "n_keys": 1,
+  "n_couplets": 4,
+  "n_leaves": 5
  },
- "/family/heterotermitidae/": {
+ "/genus/coptotermes/": {
   "keys": [
    {
     "title": "乳白蚁属分种检索表",
@@ -1930,7 +2667,9 @@
     ],
     "n_leaves": 15,
     "site_genus": "/genus/coptotermes/",
-    "book_genus": "乳白蚁属 Coptotermes"
+    "book_genus": "乳白蚁属 Coptotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "乳白蚁属分种检索表",
@@ -2081,8 +2820,18 @@
     ],
     "n_leaves": 6,
     "site_genus": "/genus/coptotermes/",
-    "book_genus": "乳白蚁属 Coptotermes"
-   },
+    "book_genus": "乳白蚁属 Coptotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 27,
+  "n_leaves": 21
+ },
+ "/genus/reticulitermes/": {
+  "keys": [
    {
     "title": "平额散白蚁亚属分种检索表",
     "caste": "兵蚁",
@@ -3122,7 +3871,9 @@
     "dropped": [],
     "n_leaves": 55,
     "site_genus": "/genus/reticulitermes/",
-    "book_genus": "平额散白蚁亚属 Reticulitermes (Planifrontotermes)"
+    "book_genus": "平额散白蚁亚属 Reticulitermes (Planifrontotermes)",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "突额散白蚁亚属分种检索表",
@@ -3950,7 +4701,9 @@
     ],
     "n_leaves": 43,
     "site_genus": "/genus/reticulitermes/",
-    "book_genus": "突额散白蚁亚属 Reticulitermes (Frontotermes)"
+    "book_genus": "突额散白蚁亚属 Reticulitermes (Frontotermes)",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "散白蚁亚属分种检索表",
@@ -4146,7 +4899,9 @@
     "dropped": [],
     "n_leaves": 10,
     "site_genus": "/genus/reticulitermes/",
-    "book_genus": "散白蚁亚属 Reticulitermes s. str."
+    "book_genus": "散白蚁亚属 Reticulitermes s. str.",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "蔡白蚁属分种检索表",
@@ -4257,15 +5012,17 @@
     "n_leaves": 6,
     "site_genus": "/genus/reticulitermes/",
     "book_genus": "蔡白蚁属 Tsaitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书把这一群放在 蔡白蚁属（Tsaitermes）名下，本站现归入 散白蚁属（Reticulitermes）；表中各种按本站的现行归属链接。"
    }
   ],
   "omitted": [],
-  "n_keys": 6,
-  "n_couplets": 139,
-  "n_leaves": 135
+  "n_keys": 4,
+  "n_couplets": 112,
+  "n_leaves": 114
  },
- "/family/stylotermitidae/": {
+ "/genus/stylotermes/": {
   "keys": [
    {
     "title": "杆白蚁属分种检索表",
@@ -4727,7 +5484,9 @@
     "dropped": [],
     "n_leaves": 24,
     "site_genus": "/genus/stylotermes/",
-    "book_genus": "杆白蚁属 Stylotermes"
+    "book_genus": "杆白蚁属 Stylotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
   "omitted": [],
@@ -5072,7 +5831,8 @@
     ],
     "dropped": [],
     "n_leaves": 18,
-    "source": "据 Bourguignon et al. (2024) 补充材料 Note 3 译出（修订自 Krishna et al. 2013）",
+    "source": "据 Hellemans 等（2024）Nature Communications 15: 6724 补充材料 Note 3「Key to subfamilies of Termitidae」（修订自 Krishna 等 2013）译出。",
+    "src_short": "Hellemans 等（2024）",
     "note": "以工蚁肠道解剖与上颚齿序为主，覆盖现存等翅目全部 18 个亚科，与原书（2000）按兵蚁、有翅成虫形态划分的亚科系统不完全一致；各终点链接到本站对应的亚科页面。",
     "n_subfamilies": 18
    },
@@ -5659,7 +6419,9 @@
     "dropped": [],
     "n_leaves": 31,
     "site_genus": null,
-    "book_genus": "白蚁科 Termitidae"
+    "book_genus": "白蚁科 Termitidae",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "白蚁科分属检索表",
@@ -5959,7 +6721,9 @@
     "dropped": [],
     "n_leaves": 16,
     "site_genus": null,
-    "book_genus": "白蚁科 Termitidae"
+    "book_genus": "白蚁科 Termitidae",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
   "omitted": [],
@@ -5967,7 +6731,7 @@
   "n_couplets": 62,
   "n_leaves": 65
  },
- "/subfamily/macrotermitinae/": {
+ "/genus/hypotermes/": {
   "keys": [
    {
     "title": "地白蚁属分种检索表",
@@ -6058,7 +6822,9 @@
     "dropped": [],
     "n_leaves": 5,
     "site_genus": "/genus/hypotermes/",
-    "book_genus": "地白蚁属 Hypotermes"
+    "book_genus": "地白蚁属 Hypotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "壤白蚁属分种检索表",
@@ -6131,8 +6897,18 @@
     "n_leaves": 4,
     "site_genus": "/genus/hypotermes/",
     "book_genus": "壤白蚁属 Parahypotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书把这一群放在 壤白蚁属（Parahypotermes）名下，本站现归入 地白蚁属（Hypotermes）；表中各种按本站的现行归属链接。"
-   },
+   }
+  ],
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 7,
+  "n_leaves": 9
+ },
+ "/genus/macrotermes/": {
+  "keys": [
    {
     "title": "大白蚁属分种检索表",
     "caste": "大兵蚁",
@@ -6583,7 +7359,9 @@
     ],
     "n_leaves": 23,
     "site_genus": "/genus/macrotermes/",
-    "book_genus": "大白蚁属 Macrotermes"
+    "book_genus": "大白蚁属 Macrotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "大白蚁属分种检索表",
@@ -6693,130 +7471,17 @@
     "dropped": [],
     "n_leaves": 6,
     "site_genus": "/genus/macrotermes/",
-    "book_genus": "大白蚁属 Macrotermes"
-   },
-   {
-    "title": "钩白蚁属分种检索表",
-    "caste": "大兵蚁",
-    "couplets": [
-     {
-      "n": 1,
-      "d": 0,
-      "leads": [
-       {
-        "t": "头最宽大于1.10 mm",
-        "to": 2
-       },
-       {
-        "t": "头最宽小于1.10mm",
-        "to": 3
-       }
-      ]
-     },
-     {
-      "n": 2,
-      "d": 1,
-      "leads": [
-       {
-        "t": "头圆形，前额不凹入",
-        "leaf": {
-         "kind": "species",
-         "zh": "河口钩白蚁",
-         "latin": "Ancistrotermes hekouensis",
-         "url": "/species/ancistrotermes-hekouensis/"
-        }
-       },
-       {
-        "t": "头椭圆形，前额凹入",
-        "leaf": {
-         "kind": "species",
-         "zh": "孟连钩白蚁",
-         "latin": "Ancistrotermes menglianensis",
-         "url": "/species/ancistrotermes-menglianensis/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 3,
-      "d": 1,
-      "leads": [
-       {
-        "t": "头长连上颚大于1.70 mm",
-        "to": 4
-       },
-       {
-        "t": "头长连上颚小于1.70 mm",
-        "to": 5
-       }
-      ]
-     },
-     {
-      "n": 4,
-      "d": 2,
-      "leads": [
-       {
-        "t": "头倒卵圆形，头中部至后颏不厚",
-        "leaf": {
-         "kind": "species",
-         "zh": "夏氏钩白蚁",
-         "latin": "Ancistrotermes xiai",
-         "url": "/species/ancistrotermes-xiai/"
-        }
-       },
-       {
-        "t": "头近方形，头中部至后颏隆起甚厚",
-        "leaf": {
-         "kind": "species",
-         "zh": "厚头钩白蚁",
-         "latin": "Ancistrotermes crassiceps",
-         "url": "/species/ancistrotermes-crassiceps/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 5,
-      "d": 2,
-      "leads": [
-       {
-        "t": "头顶中部呈弧状隆起",
-        "leaf": {
-         "kind": "species",
-         "zh": "小头钩白蚁",
-         "latin": "Ancistrotermes dimorphus",
-         "url": "/species/ancistrotermes-dimorphus/"
-        }
-       },
-       {
-        "t": "头顶中部前方呈丘状隆起",
-        "leaf": {
-         "kind": "species",
-         "zh": "橄榄坝钩白蚁",
-         "latin": "Ancistrotermes ganlanbaensis",
-         "url": "/species/ancistrotermes-ganlanbaensis/"
-        }
-       }
-      ]
-     }
-    ],
-    "dropped": [],
-    "n_leaves": 6,
-    "site_genus": "/genus/ancistrotermes/",
-    "book_genus": "钩白蚁属 Ancistrotermes"
+    "book_genus": "大白蚁属 Macrotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
-  "omitted": [
-   {
-    "title": "小白蚁属分种检索表（兵蚁）",
-    "reason": "剔除本站未收录的种后仅剩 1 个终点"
-   }
-  ],
-  "n_keys": 5,
-  "n_couplets": 40,
-  "n_leaves": 44
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 28,
+  "n_leaves": 29
  },
- "/subfamily/apicotermitinae/": {
+ "/genus/euhamitermes/": {
   "keys": [
    {
     "title": "亮白蚁属分种检索表",
@@ -7059,7 +7724,9 @@
     "dropped": [],
     "n_leaves": 13,
     "site_genus": "/genus/euhamitermes/",
-    "book_genus": "亮白蚁属 Euhamitermes"
+    "book_genus": "亮白蚁属 Euhamitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "亮白蚁属分种检索表",
@@ -7150,8 +7817,18 @@
     "dropped": [],
     "n_leaves": 5,
     "site_genus": "/genus/euhamitermes/",
-    "book_genus": "亮白蚁属 Euhamitermes"
-   },
+    "book_genus": "亮白蚁属 Euhamitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 16,
+  "n_leaves": 18
+ },
+ "/genus/indotermes/": {
+  "keys": [
    {
     "title": "印白蚁属分种检索表",
     "caste": "兵蚁",
@@ -7184,7 +7861,9 @@
     "dropped": [],
     "n_leaves": 2,
     "site_genus": "/genus/indotermes/",
-    "book_genus": "印白蚁属 Indotermes"
+    "book_genus": "印白蚁属 Indotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "华白蚁属分种检索表",
@@ -7238,15 +7917,17 @@
     "n_leaves": 3,
     "site_genus": "/genus/indotermes/",
     "book_genus": "华白蚁属 Sinotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书把这一群放在 华白蚁属（Sinotermes）名下，本站现归入 印白蚁属（Indotermes）；表中各种按本站的现行归属链接。"
    }
   ],
   "omitted": [],
-  "n_keys": 4,
-  "n_couplets": 19,
-  "n_leaves": 23
+  "n_keys": 2,
+  "n_couplets": 3,
+  "n_leaves": 5
  },
- "/subfamily/amitermitinae/": {
+ "/genus/globitermes/": {
   "keys": [
    {
     "title": "球白蚁属分种检索表",
@@ -7337,7 +8018,9 @@
     "dropped": [],
     "n_leaves": 5,
     "site_genus": "/genus/globitermes/",
-    "book_genus": "球白蚁属 Globitermes"
+    "book_genus": "球白蚁属 Globitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
   "omitted": [],
@@ -7345,7 +8028,139 @@
   "n_couplets": 4,
   "n_leaves": 5
  },
- "/subfamily/mirocapritermitinae/": {
+ "/genus/microtermes/": {
+  "keys": [],
+  "omitted": [
+   {
+    "title": "小白蚁属分种检索表（兵蚁）",
+    "reason": "剔除本站未收录的种后仅剩 1 个终点"
+   }
+  ],
+  "n_keys": 0,
+  "n_couplets": 0,
+  "n_leaves": 0
+ },
+ "/genus/ancistrotermes/": {
+  "keys": [
+   {
+    "title": "钩白蚁属分种检索表",
+    "caste": "大兵蚁",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "头最宽大于1.10 mm",
+        "to": 2
+       },
+       {
+        "t": "头最宽小于1.10mm",
+        "to": 3
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "头圆形，前额不凹入",
+        "leaf": {
+         "kind": "species",
+         "zh": "河口钩白蚁",
+         "latin": "Ancistrotermes hekouensis",
+         "url": "/species/ancistrotermes-hekouensis/"
+        }
+       },
+       {
+        "t": "头椭圆形，前额凹入",
+        "leaf": {
+         "kind": "species",
+         "zh": "孟连钩白蚁",
+         "latin": "Ancistrotermes menglianensis",
+         "url": "/species/ancistrotermes-menglianensis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "d": 1,
+      "leads": [
+       {
+        "t": "头长连上颚大于1.70 mm",
+        "to": 4
+       },
+       {
+        "t": "头长连上颚小于1.70 mm",
+        "to": 5
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 2,
+      "leads": [
+       {
+        "t": "头倒卵圆形，头中部至后颏不厚",
+        "leaf": {
+         "kind": "species",
+         "zh": "夏氏钩白蚁",
+         "latin": "Ancistrotermes xiai",
+         "url": "/species/ancistrotermes-xiai/"
+        }
+       },
+       {
+        "t": "头近方形，头中部至后颏隆起甚厚",
+        "leaf": {
+         "kind": "species",
+         "zh": "厚头钩白蚁",
+         "latin": "Ancistrotermes crassiceps",
+         "url": "/species/ancistrotermes-crassiceps/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 2,
+      "leads": [
+       {
+        "t": "头顶中部呈弧状隆起",
+        "leaf": {
+         "kind": "species",
+         "zh": "小头钩白蚁",
+         "latin": "Ancistrotermes dimorphus",
+         "url": "/species/ancistrotermes-dimorphus/"
+        }
+       },
+       {
+        "t": "头顶中部前方呈丘状隆起",
+        "leaf": {
+         "kind": "species",
+         "zh": "橄榄坝钩白蚁",
+         "latin": "Ancistrotermes ganlanbaensis",
+         "url": "/species/ancistrotermes-ganlanbaensis/"
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 6,
+    "site_genus": "/genus/ancistrotermes/",
+    "book_genus": "钩白蚁属 Ancistrotermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 5,
+  "n_leaves": 6
+ },
+ "/genus/mirocapritermes/": {
   "keys": [
    {
     "title": "瘤白蚁属分种检索表",
@@ -7379,8 +8194,18 @@
     "dropped": [],
     "n_leaves": 2,
     "site_genus": "/genus/mirocapritermes/",
-    "book_genus": "瘤白蚁属 Mirocapritermes"
-   },
+    "book_genus": "瘤白蚁属 Mirocapritermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 1,
+  "n_leaves": 2
+ },
+ "/genus/procapritermes/": {
+  "keys": [
    {
     "title": "马扭白蚁属分种检索表",
     "caste": "兵蚁",
@@ -7414,8 +8239,18 @@
     "n_leaves": 2,
     "site_genus": "/genus/procapritermes/",
     "book_genus": "马扭白蚁属 Malaysiocapritermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书把这一群放在 马扭白蚁属（Malaysiocapritermes）名下，本站现归入 前扭白蚁属（Procapritermes）；表中各种按本站的现行归属链接。"
-   },
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 1,
+  "n_leaves": 2
+ },
+ "/genus/sinocapritermes/": {
+  "keys": [
    {
     "title": "华扭白蚁属分种检索表",
     "caste": "兵蚁",
@@ -7676,8 +8511,18 @@
     "dropped": [],
     "n_leaves": 14,
     "site_genus": "/genus/sinocapritermes/",
-    "book_genus": "华扭白蚁属 Sinocapritermes"
-   },
+    "book_genus": "华扭白蚁属 Sinocapritermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 13,
+  "n_leaves": 14
+ },
+ "/genus/pericapritermes/": {
+  "keys": [
    {
     "title": "近扭白蚁属分种检索表",
     "caste": "兵蚁",
@@ -7848,7 +8693,9 @@
     ],
     "n_leaves": 9,
     "site_genus": "/genus/pericapritermes/",
-    "book_genus": "近扭白蚁属 Pericapritermes"
+    "book_genus": "近扭白蚁属 Pericapritermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "近扭白蚁属分种检索表",
@@ -7973,8 +8820,18 @@
     ],
     "n_leaves": 6,
     "site_genus": "/genus/pericapritermes/",
-    "book_genus": "近扭白蚁属 Pericapritermes"
-   },
+    "book_genus": "近扭白蚁属 Pericapritermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 14,
+  "n_leaves": 15
+ },
+ "/genus/pseudocapritermes/": {
+  "keys": [
    {
     "title": "钩扭白蚁属分种检索表",
     "caste": "兵蚁",
@@ -8089,15 +8946,17 @@
     "n_leaves": 6,
     "site_genus": "/genus/pseudocapritermes/",
     "book_genus": "钩扭白蚁属 Pseudocapritermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书中文名作 钩扭白蚁属，本站作 伪扭白蚁属（拉丁名相同）。"
    }
   ],
   "omitted": [],
-  "n_keys": 6,
-  "n_couplets": 34,
-  "n_leaves": 39
+  "n_keys": 1,
+  "n_couplets": 5,
+  "n_leaves": 6
  },
- "/subfamily/nasutitermitinae/": {
+ "/genus/hospitalitermes/": {
   "keys": [
    {
     "title": "须白蚁属分种检索表",
@@ -8155,8 +9014,18 @@
     ],
     "n_leaves": 3,
     "site_genus": "/genus/hospitalitermes/",
-    "book_genus": "须白蚁属 Hospitalitermes"
-   },
+    "book_genus": "须白蚁属 Hospitalitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 2,
+  "n_leaves": 3
+ },
+ "/genus/cucurbitermes/": {
+  "keys": [
    {
     "title": "葫白蚁属分种检索表",
     "caste": "兵蚁",
@@ -8189,8 +9058,18 @@
     "dropped": [],
     "n_leaves": 2,
     "site_genus": "/genus/cucurbitermes/",
-    "book_genus": "葫白蚁属 Cucurbitermes"
-   },
+    "book_genus": "葫白蚁属 Cucurbitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 1,
+  "n_leaves": 2
+ },
+ "/genus/nasutitermes/": {
+  "keys": [
    {
     "title": "歧颚白蚁属分种检索表",
     "caste": "大兵蚁",
@@ -8224,57 +9103,9 @@
     "n_leaves": 2,
     "site_genus": "/genus/nasutitermes/",
     "book_genus": "歧颚白蚁属 Havilanditermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书把这一群放在 歧颚白蚁属（Havilanditermes）名下，本站现归入 象白蚁属（Nasutitermes）；表中各种按本站的现行归属链接。"
-   },
-   {
-    "title": "近瓢白蚁属分种检索表",
-    "caste": "兵蚁",
-    "couplets": [
-     {
-      "n": 1,
-      "d": 0,
-      "leads": [
-       {
-        "t": "头最宽大于0.90 mm",
-        "to": 2
-       },
-       {
-        "t": "头最宽小于0.90 mm，0.72—0.86 mm，头长连象鼻1.33—1.53 mm，头长不连鼻0.89—1.03 mm，前胸背板宽0.42—0.47 mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "黄色钝颚白蚁",
-         "latin": "Ahmaditermes parafulvus",
-         "url": "/species/ahmaditermes-parafulvus/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 2,
-      "d": 1,
-      "leads": [
-       {
-        "t": "前胸背板宽小于0.50 mm，0.48—0.50(0.49) mm，头长连象鼻1.71—1.80(1.77) mm，头长不连鼻1.04—1.08(1.07) mm，头最宽0.96—1.03(0.99) mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "鼎湖钝颚白蚁",
-         "latin": "Ahmaditermes dinghuensis",
-         "url": "/species/ahmaditermes-dinghuensis/"
-        }
-       }
-      ]
-     }
-    ],
-    "dropped": [
-     {
-      "zh": "景洪近瓢白蚁",
-      "latin": "Peribulbitermes jinghongensis"
-     }
-    ],
-    "n_leaves": 2,
-    "site_genus": "/genus/ahmaditermes/",
-    "book_genus": "近瓢白蚁属 Peribulbitermes",
-    "note": "原书把这一群放在 近瓢白蚁属（Peribulbitermes）名下，本站现归入 钝颚白蚁属（Ahmaditermes）；表中各种按本站的现行归属链接。"
    },
    {
     "title": "象白蚁属分种检索表",
@@ -8916,7 +9747,9 @@
     "dropped": [],
     "n_leaves": 34,
     "site_genus": "/genus/nasutitermes/",
-    "book_genus": "象白蚁属 Nasutitermes"
+    "book_genus": "象白蚁属 Nasutitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "象白蚁属分种检索表",
@@ -9007,212 +9840,9 @@
     "dropped": [],
     "n_leaves": 5,
     "site_genus": "/genus/nasutitermes/",
-    "book_genus": "象白蚁属 Nasutitermes"
-   },
-   {
-    "title": "华象白蚁属分种检索表",
-    "caste": "兵蚁",
-    "couplets": [
-     {
-      "n": 1,
-      "d": 0,
-      "leads": [
-       {
-        "t": "兵蚁大、中、小三型",
-        "to": 2
-       },
-       {
-        "t": "兵蚁仅大、小二型",
-        "to": 4
-       }
-      ]
-     },
-     {
-      "n": 2,
-      "d": 1,
-      "leads": [
-       {
-        "t": "头宽大于1.50mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "三型华象白蚁",
-         "latin": "Sinonasutitermes trimorphus",
-         "url": "/species/sinonasutitermes-trimorphus/"
-        }
-       },
-       {
-        "t": "头宽小于1.50mm",
-        "to": 3
-       }
-      ]
-     },
-     {
-      "n": 3,
-      "d": 2,
-      "leads": [
-       {
-        "t": "头长连象鼻2.04—2.25mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "尤氏华象白蚁",
-         "latin": "Sinonasutitermes yui",
-         "url": "/species/sinonasutitermes-yui/"
-        }
-       },
-       {
-        "t": "头长连象鼻2.28mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "奇异华象白蚁",
-         "latin": "Sinonasutitermes admirabilis",
-         "url": "/species/sinonasutitermes-admirabilis/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 4,
-      "d": 1,
-      "leads": [
-       {
-        "t": "象鼻端高于头顶",
-        "to": 5
-       },
-       {
-        "t": "象鼻端低于或平于头顶",
-        "to": 7
-       }
-      ]
-     },
-     {
-      "n": 5,
-      "d": 2,
-      "leads": [
-       {
-        "t": "头长连象鼻大于2.40mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "广西华象白蚁",
-         "latin": "Sinonasutitermes guangxiensis",
-         "url": "/species/sinonasutitermes-guangxiensis/"
-        }
-       },
-       {
-        "t": "头长连象鼻小于2.40mm",
-        "to": 6
-       }
-      ]
-     },
-     {
-      "n": 6,
-      "d": 3,
-      "leads": [
-       {
-        "t": "大兵触角第3节略长于第2节，约1.3倍",
-        "leaf": {
-         "kind": "species",
-         "zh": "翘鼻华象白蚁",
-         "latin": "Sinonasutitermes erectinasus",
-         "url": "/species/sinonasutitermes-erectinasus/"
-        }
-       },
-       {
-        "t": "大兵触角第3节2倍于第2节",
-        "leaf": {
-         "kind": "species",
-         "zh": "海南华象白蚁",
-         "latin": "Sinonasutitermes hainanensis",
-         "url": "/species/sinonasutitermes-hainanensis/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 7,
-      "d": 2,
-      "leads": [
-       {
-        "t": "头宽大于1.38mm",
-        "to": 8
-       },
-       {
-        "t": "头宽小于1.38mm",
-        "to": 9
-       }
-      ]
-     },
-     {
-      "n": 8,
-      "d": 3,
-      "leads": [
-       {
-        "t": "前胸背板后缘弧形圆出",
-        "leaf": {
-         "kind": "species",
-         "zh": "二型华象白蚁",
-         "latin": "Sinonasutitermes dimorphus",
-         "url": "/species/sinonasutitermes-dimorphus/"
-        }
-       },
-       {
-        "t": "前胸背板后缘中央具凹切",
-        "leaf": {
-         "kind": "species",
-         "zh": "扁头华象白蚁",
-         "latin": "Sinonasutitermes platycephalus",
-         "url": "/species/sinonasutitermes-platycephalus/"
-        }
-       }
-      ]
-     },
-     {
-      "n": 9,
-      "d": 3,
-      "leads": [
-       {
-        "t": "头宽小于1.26 — 1.29mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "平鼻华象白蚁",
-         "latin": "Sinonasutitermes planinasus",
-         "url": "/species/sinonasutitermes-planinasus/"
-        }
-       },
-       {
-        "t": "头宽大于1.30mm",
-        "to": 10
-       }
-      ]
-     },
-     {
-      "n": 10,
-      "d": 4,
-      "leads": [
-       {
-        "t": "象鼻长0.89—0.94 mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "夏氏华象白蚁",
-         "latin": "Sinonasutitermes xiai",
-         "url": "/species/sinonasutitermes-xiai/"
-        }
-       },
-       {
-        "t": "象鼻长0.77—0.87mm",
-        "leaf": {
-         "kind": "species",
-         "zh": "居中华象白蚁",
-         "latin": "Sinonasutitermes mediocris",
-         "url": "/species/sinonasutitermes-mediocris/"
-        }
-       }
-      ]
-     }
-    ],
-    "dropped": [],
-    "n_leaves": 11,
-    "site_genus": "/genus/sinonasutitermes/",
-    "book_genus": "华象白蚁属 Sinonasutitermes"
+    "book_genus": "象白蚁属 Nasutitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    },
    {
     "title": "奇象白蚁属分种检索表",
@@ -9399,7 +10029,69 @@
     "n_leaves": 10,
     "site_genus": "/genus/nasutitermes/",
     "book_genus": "奇象白蚁属 Mironasutitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
     "note": "原书把这一群放在 奇象白蚁属（Mironasutitermes）名下，本站现归入 象白蚁属（Nasutitermes）；表中各种按本站的现行归属链接。"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 4,
+  "n_couplets": 47,
+  "n_leaves": 51
+ },
+ "/genus/ahmaditermes/": {
+  "keys": [
+   {
+    "title": "近瓢白蚁属分种检索表",
+    "caste": "兵蚁",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "头最宽大于0.90 mm",
+        "to": 2
+       },
+       {
+        "t": "头最宽小于0.90 mm，0.72—0.86 mm，头长连象鼻1.33—1.53 mm，头长不连鼻0.89—1.03 mm，前胸背板宽0.42—0.47 mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "黄色钝颚白蚁",
+         "latin": "Ahmaditermes parafulvus",
+         "url": "/species/ahmaditermes-parafulvus/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "前胸背板宽小于0.50 mm，0.48—0.50(0.49) mm，头长连象鼻1.71—1.80(1.77) mm，头长不连鼻1.04—1.08(1.07) mm，头最宽0.96—1.03(0.99) mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "鼎湖钝颚白蚁",
+         "latin": "Ahmaditermes dinghuensis",
+         "url": "/species/ahmaditermes-dinghuensis/"
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [
+     {
+      "zh": "景洪近瓢白蚁",
+      "latin": "Peribulbitermes jinghongensis"
+     }
+    ],
+    "n_leaves": 2,
+    "site_genus": "/genus/ahmaditermes/",
+    "book_genus": "近瓢白蚁属 Peribulbitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）",
+    "note": "原书把这一群放在 近瓢白蚁属（Peribulbitermes）名下，本站现归入 钝颚白蚁属（Ahmaditermes）；表中各种按本站的现行归属链接。"
    },
    {
     "title": "钝颚白蚁属分种检索表",
@@ -9699,25 +10391,249 @@
     "dropped": [],
     "n_leaves": 16,
     "site_genus": "/genus/ahmaditermes/",
-    "book_genus": "钝颚白蚁属 Ahmaditermes"
+    "book_genus": "钝颚白蚁属 Ahmaditermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
    }
   ],
-  "omitted": [
-   {
-    "title": "夏氏白蚁属 Xiaitermes 分种检索表",
-    "reason": "原表以黟县夏氏白蚁与天台夏氏白蚁二分，后者本站未列为独立种，剔除后仅剩 1 个终点，故不列检索表"
-   }
-  ],
-  "n_keys": 9,
-  "n_couplets": 77,
-  "n_leaves": 85
+  "omitted": [],
+  "n_keys": 2,
+  "n_couplets": 17,
+  "n_leaves": 18
  },
- "/family/psammotermitidae/": {
+ "/genus/sinonasutitermes/": {
+  "keys": [
+   {
+    "title": "华象白蚁属分种检索表",
+    "caste": "兵蚁",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "兵蚁大、中、小三型",
+        "to": 2
+       },
+       {
+        "t": "兵蚁仅大、小二型",
+        "to": 4
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "头宽大于1.50mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "三型华象白蚁",
+         "latin": "Sinonasutitermes trimorphus",
+         "url": "/species/sinonasutitermes-trimorphus/"
+        }
+       },
+       {
+        "t": "头宽小于1.50mm",
+        "to": 3
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "d": 2,
+      "leads": [
+       {
+        "t": "头长连象鼻2.04—2.25mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "尤氏华象白蚁",
+         "latin": "Sinonasutitermes yui",
+         "url": "/species/sinonasutitermes-yui/"
+        }
+       },
+       {
+        "t": "头长连象鼻2.28mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "奇异华象白蚁",
+         "latin": "Sinonasutitermes admirabilis",
+         "url": "/species/sinonasutitermes-admirabilis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 1,
+      "leads": [
+       {
+        "t": "象鼻端高于头顶",
+        "to": 5
+       },
+       {
+        "t": "象鼻端低于或平于头顶",
+        "to": 7
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 2,
+      "leads": [
+       {
+        "t": "头长连象鼻大于2.40mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "广西华象白蚁",
+         "latin": "Sinonasutitermes guangxiensis",
+         "url": "/species/sinonasutitermes-guangxiensis/"
+        }
+       },
+       {
+        "t": "头长连象鼻小于2.40mm",
+        "to": 6
+       }
+      ]
+     },
+     {
+      "n": 6,
+      "d": 3,
+      "leads": [
+       {
+        "t": "大兵触角第3节略长于第2节，约1.3倍",
+        "leaf": {
+         "kind": "species",
+         "zh": "翘鼻华象白蚁",
+         "latin": "Sinonasutitermes erectinasus",
+         "url": "/species/sinonasutitermes-erectinasus/"
+        }
+       },
+       {
+        "t": "大兵触角第3节2倍于第2节",
+        "leaf": {
+         "kind": "species",
+         "zh": "海南华象白蚁",
+         "latin": "Sinonasutitermes hainanensis",
+         "url": "/species/sinonasutitermes-hainanensis/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 7,
+      "d": 2,
+      "leads": [
+       {
+        "t": "头宽大于1.38mm",
+        "to": 8
+       },
+       {
+        "t": "头宽小于1.38mm",
+        "to": 9
+       }
+      ]
+     },
+     {
+      "n": 8,
+      "d": 3,
+      "leads": [
+       {
+        "t": "前胸背板后缘弧形圆出",
+        "leaf": {
+         "kind": "species",
+         "zh": "二型华象白蚁",
+         "latin": "Sinonasutitermes dimorphus",
+         "url": "/species/sinonasutitermes-dimorphus/"
+        }
+       },
+       {
+        "t": "前胸背板后缘中央具凹切",
+        "leaf": {
+         "kind": "species",
+         "zh": "扁头华象白蚁",
+         "latin": "Sinonasutitermes platycephalus",
+         "url": "/species/sinonasutitermes-platycephalus/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 9,
+      "d": 3,
+      "leads": [
+       {
+        "t": "头宽小于1.26 — 1.29mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "平鼻华象白蚁",
+         "latin": "Sinonasutitermes planinasus",
+         "url": "/species/sinonasutitermes-planinasus/"
+        }
+       },
+       {
+        "t": "头宽大于1.30mm",
+        "to": 10
+       }
+      ]
+     },
+     {
+      "n": 10,
+      "d": 4,
+      "leads": [
+       {
+        "t": "象鼻长0.89—0.94 mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "夏氏华象白蚁",
+         "latin": "Sinonasutitermes xiai",
+         "url": "/species/sinonasutitermes-xiai/"
+        }
+       },
+       {
+        "t": "象鼻长0.77—0.87mm",
+        "leaf": {
+         "kind": "species",
+         "zh": "居中华象白蚁",
+         "latin": "Sinonasutitermes mediocris",
+         "url": "/species/sinonasutitermes-mediocris/"
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 11,
+    "site_genus": "/genus/sinonasutitermes/",
+    "book_genus": "华象白蚁属 Sinonasutitermes",
+    "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
+    "src_short": "黄复生等（2000）"
+   }
+  ],
+  "omitted": [],
+  "n_keys": 1,
+  "n_couplets": 10,
+  "n_leaves": 11
+ },
+ "/genus/prorhinotermes/": {
   "keys": [],
   "omitted": [
    {
     "title": "原鼻白蚁属 Prorhinotermes 分种检索表",
     "reason": "原文该检索表的种对与终端被拆分到相邻页面并夹入书眉噪音，无法可靠复原"
+   }
+  ],
+  "n_keys": 0,
+  "n_couplets": 0,
+  "n_leaves": 0
+ },
+ "/genus/xiaitermes/": {
+  "keys": [],
+  "omitted": [
+   {
+    "title": "夏氏白蚁属 Xiaitermes 分种检索表",
+    "reason": "原表以黟县夏氏白蚁与天台夏氏白蚁二分，后者本站未列为独立种，剔除后仅剩 1 个终点，故不列检索表"
    }
   ],
   "n_keys": 0,

@@ -51,6 +51,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/uncitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/uncitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/uncitermes-almeriae/"><i>Uncitermes almeriae</i> Carrijo, 2016 阿尔梅里弯钩白蚁</a></li><li><a href="{{ site.base_url }}/species/uncitermes-teevani/"><i>Uncitermes teevani</i> Emerson, 1925 蒂范弯钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

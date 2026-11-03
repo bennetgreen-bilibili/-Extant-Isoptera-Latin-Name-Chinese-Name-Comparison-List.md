@@ -338,7 +338,7 @@ def index_page(language: str, taxonomy, blocks):
                      "<a href=\"{{ site.base_url }}/es/list/sections/\">textos en español</a>.</p>")
         parts.append("")
     if language == "zh":
-        # 《中国动物志》等翅目科的检索表（_data/fauna_keys.json 的 "/list/" 条目）
+        # 目级分科检索表（_data/fauna_keys.json 的 "/list/" 条目；据 Hellemans 等 2024 Note 2）
         parts.append('{%- assign fk = site.data.fauna_keys["/list/"] -%}'
                      '{%- if fk %}{% include fauna-keys.html fk=fk %}{%- endif %}')
         parts.append("")

@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/basidentitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/basidentitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（8 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/basidentitermes-amicus/"><i>Basidentitermes amicus</i> Harris, 1936 友善基齿白蚁</a></li><li><a href="{{ site.base_url }}/species/basidentitermes-aurivillii/"><i>Basidentitermes aurivillii</i> Sjöstedt, 1897 奥里维尔基齿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/basidentitermes-demoulini/"><i>Basidentitermes demoulini</i> Harris, 1963 德穆兰基齿白蚁</a></li><li><a href="{{ site.base_url }}/species/basidentitermes-diversifrons/"><i>Basidentitermes diversifrons</i> Silvestri, 1914 裂额基齿白蚁</a></li><li><a href="{{ site.base_url }}/species/basidentitermes-mactus/"><i>Basidentitermes mactus</i> Sjöstedt, 1911 荣耀基齿白蚁</a></li><li><a href="{{ site.base_url }}/species/basidentitermes-malelaensis/"><i>Basidentitermes malelaensis</i> Emerson, 1928 马雷拉基齿白蚁</a></li><li><a href="{{ site.base_url }}/species/basidentitermes-potens/"><i>Basidentitermes potens</i> Silvestri, 1914 强壮基齿白蚁</a></li><li><a href="{{ site.base_url }}/species/basidentitermes-trilobatus/"><i>Basidentitermes trilobatus</i> Noirot, 1955 三裂基齿白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/basidentitermes-mactus-mactus/"><i>Basidentitermes mactus mactus</i> Sjöstedt, 1911 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/basidentitermes-mactus-supera/"><i>Basidentitermes mactus supera</i> Silvestri, 1914 上亚种</a></li></ul>
 </section>

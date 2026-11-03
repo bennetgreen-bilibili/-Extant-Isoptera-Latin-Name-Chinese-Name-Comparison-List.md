@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/inquilinitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/inquilinitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/inquilinitermes-fur/"><i>Inquilinitermes fur</i> Silvestri, 1901 窃贼客白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/inquilinitermes-inquilinus/"><i>Inquilinitermes inquilinus</i> Emerson, 1925 旅居客白蚁</a></li><li><a href="{{ site.base_url }}/species/inquilinitermes-johnchapmani/"><i>Inquilinitermes johnchapmani</i> Scheffrahn, 2014 约翰查普曼客白蚁</a></li><li><a href="{{ site.base_url }}/species/inquilinitermes-microcerus/"><i>Inquilinitermes microcerus</i> Silvestri, 1901 小角客白蚁</a></li></ul>
 </section>

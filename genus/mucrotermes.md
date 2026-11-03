@@ -46,6 +46,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/mucrotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/mucrotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/mucrotermes-heterochilus/"><i>Mucrotermes heterochilus</i> Silvestri, 1914 异唇锐尖白蚁</a></li><li><a href="{{ site.base_url }}/species/mucrotermes-osborni/"><i>Mucrotermes osborni</i> Emerson, 1960 奥斯本锐尖白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

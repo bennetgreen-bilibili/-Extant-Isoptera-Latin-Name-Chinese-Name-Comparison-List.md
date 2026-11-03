@@ -7,6 +7,8 @@ layout: default
   只给真的有照片的分类单元出页；front matter 里的 photo_kind / photo_id /
   photo_latin / photo_count / back_url 是这里的唯一输入。
   种级页展示该种全部照片；科 / 亚科 / 属级页按种分组、每种 6 张并链到种级页。
+  四级页面都带同一个「本页检索」框（_includes/photo-search.html）：
+  按拉丁学名 / 中文名 / 摄影师筛当前页的照片，不额外请求数据。
 {%- endcomment -%}
 <article class="taxon-page photo-page">
   <nav class="taxon-crumbs" aria-label="分类位置">
@@ -21,6 +23,17 @@ layout: default
     <p class="taxon-meta">{{ page.photo_count }} 张开放许可照片{% if page.photo_species %} · {{ page.photo_species }} 种{% endif %} · 来源 iNaturalist / Wikimedia Commons</p>
     <p class="taxon-back"><a href="{{ site.base_url }}{{ page.back_url }}">← 返回 {{ page.back_label }}</a></p>
   </header>
+
+  {%- comment -%}
+    本页检索（四级共用）：只筛这一页已经渲染的照片，按拉丁学名 / 中文名 / 摄影师过滤。
+    有照片才输出；交互在 assets/photo-search.js，样式在 assets/gallery.css。
+    文案里的张数由脚本按实际渲染的卡片数填写（科 / 亚科 / 属页只渲染每种前 6 张，
+    page.photo_count 是全部照片总数，两者并不相等）。
+  {%- endcomment -%}
+  {%- assign pp_total = page.photo_count | plus: 0 -%}
+  {%- if pp_total > 0 -%}
+  {% include photo-search.html %}
+  {%- endif -%}
 
   {%- if page.photo_kind == 'species' -%}
   {%- assign pp_photos = site.data.species_photos.species[page.photo_latin] -%}

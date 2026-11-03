@@ -4,7 +4,10 @@
    署名与许可完全来自图注里的 data-* 属性（_includes/photo-card.html），
    所以一页可以同时存在多个 gallery（科/亚科/属的图片页是按种分组的）：
    灯箱按「点击时所在的 .species-gallery」分实例，图注从当前幻灯片的
-   data.element 读取，不再用全局下标，避免多 gallery 串图注。 */
+   data.element 读取，不再用全局下标，避免多 gallery 串图注。
+   children 选择器跳过 [hidden] 的卡片（assets/photo-search.js 的本页检索会隐藏
+   不匹配的照片）：PhotoSwipe 每次点击都重新 querySelectorAll，所以筛选后灯箱里
+   只剩匹配的照片，不会翻到被筛掉的图。 */
 (function () {
   'use strict';
 
@@ -68,7 +71,7 @@
 
     var lightbox = new window.PhotoSwipeLightbox({
       gallery: '.species-gallery',
-      children: 'a.gallery-item',
+      children: '.gallery-card:not([hidden]) a.gallery-item',
       pswpModule: window.PhotoSwipe,
       bgOpacity: 0.93,
       showHideAnimationType: 'zoom',

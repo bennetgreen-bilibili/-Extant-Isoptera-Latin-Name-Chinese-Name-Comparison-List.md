@@ -1,6 +1,18 @@
 # -*- coding: utf-8 -*-
-"""Emit _data/fauna_keys.json: dichotomous keys from 《中国动物志·等翅目》,
-pruned to the taxa that still have a page on this site and renumbered."""
+"""Emit _data/fauna_keys.json: dichotomous keys for this site.
+
+Sources
+-------
+- Species- and genus-level keys: 《中国动物志·昆虫纲 第十七卷 等翅目》
+  (黄复生等, 2000), mechanically cleaned and pruned to taxa with a site page.
+- Order-level key (/list/): Hellemans et al. (2024) Supplementary Note 2,
+  "Key to extant families and subfamilies of Isoptera" (translated).
+- Termitidae subfamily key: Hellemans et al. (2024) Supplementary Note 3,
+  revised from Krishna et al. (2013).
+
+Hand-written couplets live in keys_orders.py (ORDER_OVR / NEOTERMES_OVR);
+SITE placement: species keys belong to the genus page, genus keys to the
+family/subfamily page."""
 import re, json, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kp
@@ -22,6 +34,7 @@ SPEC=[
  (0,'family','/list/',None,'等翅目','Isoptera'),
  (1,'genus','/family/kalotermitidae/',None,'木白蚁科','Kalotermitidae'),
  (2,'species','/family/kalotermitidae/','glyptotermes','树白蚁属','Glyptotermes'),
+ (3,'species','/genus/neotermes/','neotermes','新白蚁属','Neotermes'),
  (4,'genus','/family/rhinotermitidae/',None,'鼻白蚁科','Rhinotermitidae'),
  (6,'species','/family/rhinotermitidae/','schedorhinotermes','长鼻白蚁属','Schedorhinotermes'),
  (7,'species','/family/heterotermitidae/','coptotermes','乳白蚁属','Coptotermes'),
@@ -65,29 +78,11 @@ TITLEHINT={0:'等翅目科的检索表',1:'木白蚊科分属',2:'树白蚁属�
  32:'近瓢白蚊属',34:'象白蚊属',35:'华象白蚁属',36:'奇象白蚁属',37:'钝颚白蚁属'}
 
 # hand-written couplets for keys whose printed layout defeated the line parser
-FAMNOTE=('本表为原书（黄复生等，2000）采用的 6 科方案。本站依现代分类学研究把等翅目分为 13 科，各科的对应关系为：'
-  '澳白蚁科→澳白蚁科（Mastotermitidae）；草白蚁科→草白蚁科（Hodotermitidae）＋古白蚁科（Archotermopsidae）＋胄白蚁科（Stolotermitidae）；'
-  '木白蚁科→木白蚁科（Kalotermitidae）；鼻白蚁科→鼻白蚁科（Rhinotermitidae）＋异白蚁科（Heterotermitidae）＋沙白蚁科（Psammotermitidae）＋杆白蚁科（Stylotermitidae）；'
-  '齿白蚁科→齿白蚁科（Serritermitidae）；白蚁科→白蚁科（Termitidae）。表中科名按原书概念标注，各终点只链接到本站对应的科级页面。')
+from keys_orders import (ORDER_OVR, NEOTERMES_OVR, NEONOTE, FAMNOTE, ORDSRC, SFSRC,
+                         BOOKSRC, HELSHORT, BOOKSHORT)
+
 OVR={
- 0:('等翅目',[('兵蚁',[
-   (1,[('跗节5节','fam:mastotermitidae'),('跗节4节，少数有退化的5节','to:2')]),
-   (2,[('头部无囟','to:3'),('头部有囟','to:4')]),
-   (3,[('尾须3—8节，触角22—23节（Stolotermes 属和 Porotermes 属少于19节）','fam:hodotermitidae'),
-       ('尾须2节，触角10—19节','fam:kalotermitidae')]),
-   (4,[('前胸背板扁平，无前叶','to:5'),('前胸背板马鞍形，有前叶','fam:termitidae')]),
-   (5,[('上颚内缘无锯齿，或仅在内缘基部有少数小齿','fam:rhinotermitidae'),
-       ('上颚沿整个内缘有锯齿','fam:serritermitidae')]),
- ]),('有翅成虫',[
-   (1,[('后翅有臀叶，跗节明显分为5节，触角多至30节','fam:mastotermitidae'),
-       ('后翅无臀叶，跗节4或3节，某些类群为发育不全的5节，触角少于27节','to:2')]),
-   (2,[('头背无囟','to:3'),('头背有囟','to:4')]),
-   (3,[('无单眼，尾须3—8节，触角通常多于21节，左上颚有3个缘齿（Hodotermes 属、Microhodotermes 属和 Anacanthotermes 属中第2缘齿非常退化），右上颚有附齿（上述3属除外）','fam:hodotermitidae'),
-       ('有单眼，尾须2节，触角少于21节，左上颚有2个缘齿，右上颚无附齿','fam:kalotermitidae')]),
-   (4,[('前翅鳞大，与后翅鳞重叠，翅膜网状','to:5'),('前翅鳞小，不与后翅鳞重叠，翅膜非网状','fam:termitidae')]),
-   (5,[('上颚具短的端齿，左上颚具3个缘齿，右上颚在端齿与第1缘齿基部之间具1附齿','fam:rhinotermitidae'),
-       ('上颚具大的端齿，左上颚具1个缘齿，右上颚无附齿','fam:serritermitidae')]),
- ])]), 16:('壤白蚁属',[('兵蚁',[
+ 16:('壤白蚁属',[('兵蚁',[
    (1,[('体长大于4.00 mm','to:2'),('体长小于4.00 mm','to:3')]),
    (2,[('体长4.42—5.05(4.63) mm，头长至颚基1.23—1.26(1.25) mm，左上颚长0.65—0.68(0.68) mm，头最宽1.06—1.10(1.08) mm，前胸背板宽0.77—0.81(0.80) mm','sp:hypotermes-manyunensis'),
        ('体长4.11—4.61 mm，头长至颚基1.17—1.24 mm，头最宽0.96—1.06 mm，前胸背板宽0.68—0.77 mm','sp:hypotermes-sumatrensis')]),
@@ -129,16 +124,19 @@ OVR={
  ])]),
 }
 
+OVR[0]=ORDER_OVR
+OVR[3]=NEOTERMES_OVR
+
 DROPNAME={'hospitalitermes-luzonensis':('吕宋须白蚁','Hospitalitermes luzonensis'),
           'microtermes-mengzhuangensis':('曼庄小白蚁','Microtermes mengzhuangensis')}
 
-SKIP={3:'原文该检索表被 OCR 黏连成整段（种对无编号、终端丢失），无法可靠复原',
+SKIP={
       5:'原文该检索表的种对与终端被拆分到相邻页面并夹入书眉噪音，无法可靠复原',
       33:'原表以黟县夏氏白蚁与天台夏氏白蚁二分，后者本站未列为独立种，剔除后仅剩 1 个终点，故不列检索表'}
 
-SKIPPAGE={3:('/family/kalotermitidae/','新白蚁属 Neotermes'),
-          5:('/family/psammotermitidae/','原鼻白蚁属 Prorhinotermes'),
-          33:('/subfamily/nasutitermitinae/','夏氏白蚁属 Xiaitermes')}
+SKIPPAGE={
+          5:('/genus/prorhinotermes/','原鼻白蚁属 Prorhinotermes'),
+          33:('/genus/xiaitermes/','夏氏白蚁属 Xiaitermes')}
 
 DROPOVR={'ahmaditermes jinghongensis':('景洪近瓢白蚁','Peribulbitermes jinghongensis'),
          'ahmaditermesjinghongensis':('景洪近瓢白蚁','Peribulbitermes jinghongensis')}
@@ -427,6 +425,7 @@ def key_from_ovr(spec, caste, couplets, dropped):
 
 def analyze(spec):
     idx,kind,page,kg,bzh,blat=spec
+    if kind=='species' and kg: page='/genus/%s/'%kg
     keys=[]; omitted=[]
     ttl=title_of(spec, OVR[idx][0] if idx in OVR else None)
     if idx in OVR:
@@ -439,7 +438,9 @@ def analyze(spec):
                 omitted.append({'title':ttl+'（'+caste+'）','reason':'剔除本站未收录的种后仅剩 %d 个终点，故不列检索表'%nl})
                 continue
             kk={'title':ttl,'caste':caste,'couplets':cs,'dropped':dropped,'n_leaves':nl}
-            if idx==0: kk['note']=FAMNOTE
+            if idx==0:
+                kk['note']=FAMNOTE; kk['source']=ORDSRC; kk['src_short']=HELSHORT
+            if idx==3: kk['note']=NEONOTE
             keys.append(kk)
     else:
         parse_all()
@@ -553,7 +554,7 @@ def subfamily_key():
     cs=key_from_ovr({'page':'/family/termitidae/'}, '工蚁与兵蚁', SUBFAM, dropped)
     return {'title':'白蚁科亚科检索表','caste':'工蚁与兵蚁','couplets':cs,'dropped':dropped,
             'n_leaves':count_leaves(cs),
-            'source':'据 Bourguignon et al. (2024) 补充材料 Note 3 译出（修订自 Krishna et al. 2013）',
+            'source':SFSRC, 'src_short':HELSHORT,
             'note':'以工蚁肠道解剖与上颚齿序为主，覆盖现存等翅目全部 18 个亚科，与原书（2000）按兵蚁、有翅成虫形态划分的亚科系统不完全一致；各终点链接到本站对应的亚科页面。',
             'n_subfamilies':18}
 
@@ -569,6 +570,8 @@ if __name__=='__main__':
             if not k['couplets']: continue
             k['site_genus']=('/genus/%s/'%a['site_genus']) if a['site_genus'] else None
             k['book_genus']='%s %s'%(a['book_zh'],a['book_lat'])
+            k.setdefault('source',BOOKSRC)
+            k.setdefault('src_short',BOOKSHORT)
             base=re.split(r'[\s(]', a['book_lat'])[0] if a['kind']=='species' else None
             k['dropped']=fix_dropped(k.get('dropped') or [], base)
             if not k.get('note'):
@@ -594,6 +597,7 @@ if __name__=='__main__':
         v['n_keys']=len(v['keys'])
         v['n_couplets']=sum(len(k['couplets']) for k in v['keys'])
         v['n_leaves']=sum(k['n_leaves'] for k in v['keys'])
+    pages={p:v for p,v in pages.items() if v['n_keys'] or v['omitted']}
     json.dump(pages, open('_data/fauna_keys.json','w',encoding='utf-8'), ensure_ascii=False, indent=1)
     for r in report:
         print('%02d %-22s %-8s c=%-3d l=%-3d drop=%d'%(r[0],r[1][:22],r[2],r[3],r[4],r[5]))

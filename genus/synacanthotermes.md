@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/synacanthotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/synacanthotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/synacanthotermes-heterodon/"><i>Synacanthotermes heterodon</i> Sjöstedt, 1899 异齿聚刺白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/synacanthotermes-trilobatus/"><i>Synacanthotermes trilobatus</i> Sjöstedt, 1926 三裂聚刺白蚁</a></li><li><a href="{{ site.base_url }}/species/synacanthotermes-zanzibarensis/"><i>Synacanthotermes zanzibarensis</i> Sjöstedt, 1915 桑给巴尔聚刺白蚁</a></li></ul>
 </section>

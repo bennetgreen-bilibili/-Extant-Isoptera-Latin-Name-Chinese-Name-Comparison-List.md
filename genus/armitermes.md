@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/armitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/armitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/armitermes-armiger/"><i>Armitermes armiger</i> Motschulsky, 1855 具戟戟白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/armitermes-bidentatus/"><i>Armitermes bidentatus</i> Rocha & Cancello, 2012 双齿戟白蚁</a></li><li><a href="{{ site.base_url }}/species/armitermes-spininotus/"><i>Armitermes spininotus</i> Rocha & Cancello, 2012 刺背戟白蚁</a></li></ul>
 </section>

@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/grigiotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/grigiotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/grigiotermes-hageni/"><i>Grigiotermes hageni</i> Snyder & Emerson, 1949 哈根灰白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/grigiotermes-piassava/"><i>Grigiotermes piassava</i> Carvalho & Vasconcellos, 2024 皮亚萨瓦灰白蚁</a></li></ul>
 </section>

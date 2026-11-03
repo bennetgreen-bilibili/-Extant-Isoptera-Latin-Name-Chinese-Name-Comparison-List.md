@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/apsenterotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/apsenterotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/apsenterotermes-aspersus/"><i>Apsenterotermes aspersus</i> Miller, 1991 散乱后肠白蚁</a></li><li><a href="{{ site.base_url }}/species/apsenterotermes-declinatus/"><i>Apsenterotermes declinatus</i> Miller, 1991 长弯后肠白蚁</a></li><li><a href="{{ site.base_url }}/species/apsenterotermes-improcerus/"><i>Apsenterotermes improcerus</i> Miller, 1991 粗短后肠白蚁</a></li><li><a href="{{ site.base_url }}/species/apsenterotermes-iridipennis/"><i>Apsenterotermes iridipennis</i> Gay, 1956 虹翅后肠白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/apsenterotermes-stenopronos/"><i>Apsenterotermes stenopronos</i> Miller, 1991 细管后肠白蚁</a></li></ul>
 </section>

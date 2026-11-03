@@ -45,6 +45,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/epicalotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/epicalotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/epicalotermes-aethiopicus/"><i>Epicalotermes aethiopicus</i> Silvestri, 1918 埃塞俄比亚上木白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/epicalotermes-kempae/"><i>Epicalotermes kempae</i> Wilkinson, 1954 肯帕上木白蚁</a></li><li><a href="{{ site.base_url }}/species/epicalotermes-mkuzii/"><i>Epicalotermes mkuzii</i> Coaton, 1949 摩库兹上木白蚁</a></li><li><a href="{{ site.base_url }}/species/epicalotermes-munroi/"><i>Epicalotermes munroi</i> Coaton, 1949 芒罗上木白蚁</a></li><li><a href="{{ site.base_url }}/species/epicalotermes-pakistanicus/"><i>Epicalotermes pakistanicus</i> Akhtar, 1974 巴基斯坦上木白蚁</a></li><li><a href="{{ site.base_url }}/species/epicalotermes-planifrons/"><i>Epicalotermes planifrons</i> Krishna, 1962 扁额上木白蚁</a></li></ul>
 </section>

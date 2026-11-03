@@ -46,6 +46,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/duplidentitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/duplidentitermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/duplidentitermes-furcatidens/"><i>Duplidentitermes furcatidens</i> Sjöstedt, 1924 叉齿双齿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/duplidentitermes-jurioni/"><i>Duplidentitermes jurioni</i> Emerson, 1959 朱里翁双齿白蚁</a></li><li><a href="{{ site.base_url }}/species/duplidentitermes-latimentonis/"><i>Duplidentitermes latimentonis</i> Emerson, 1959 宽颏双齿白蚁</a></li></ul>
 </section>

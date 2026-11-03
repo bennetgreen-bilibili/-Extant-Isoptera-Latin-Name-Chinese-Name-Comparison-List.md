@@ -46,6 +46,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/allotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/allotermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/allotermes-denticulatus/"><i>Allotermes denticulatus</i> Krishna, 1962 小齿奇白蚁</a></li><li><a href="{{ site.base_url }}/species/allotermes-papillifer/"><i>Allotermes papillifer</i> Krishna, 1962 乳突奇白蚁</a></li><li><a href="{{ site.base_url }}/species/allotermes-paradoxus/"><i>Allotermes paradoxus</i> Wasmann, 1910 奇异奇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

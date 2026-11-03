@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/mangolditermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/mangolditermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/mangolditermes-curveileum/"><i>Mangolditermes curveileum</i> Scheffrahn, Carrijo & Castro, 2023 曲回曼戈尔德白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/caetetermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/caetetermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/caetetermes-fontesi/"><i>Caetetermes fontesi</i> Scheffrahn, 2022 丰特斯林白蚁</a></li><li><a href="{{ site.base_url }}/species/caetetermes-taquarussu/"><i>Caetetermes taquarussu</i> Fontes, 1981 塔夸拉林白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

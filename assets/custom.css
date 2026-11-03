@@ -543,6 +543,7 @@ body.search-overlay-open{overflow:hidden}
 .fk-title{font-weight:600}
 .fk-caste{font-size:.84em;color:var(--muted);background:var(--accent-soft);padding:.1em .45em;border-radius:4px;font-weight:400}
 .fk-meta{margin-left:auto;font-size:.84em;color:var(--muted);font-weight:400}
+.fk-src{font-size:.78em;color:var(--muted);opacity:.85;font-weight:400}
 .fk-list{list-style:none;margin:0;padding:.1em .9em .6em}
 .fk-c{display:grid;grid-template-columns:2.3em minmax(0,1fr);gap:0 .5em;padding:.35em 0 .35em calc(var(--d,0)*1.2em);border-top:1px dashed var(--line);scroll-margin-top:5em}
 .fk-c:first-child{border-top:0}

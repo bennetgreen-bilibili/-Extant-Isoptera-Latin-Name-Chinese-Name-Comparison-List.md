@@ -47,6 +47,9 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/patawatermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
+{%- assign fk = site.data.fauna_keys["/genus/patawatermes/"] -%}{%- if fk %}
+{% include fauna-keys.html fk=fk %}
+{%- endif %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/patawatermes-nigripunctatus/"><i>Patawatermes nigripunctatus</i> Emerson, 1925 黑点帕塔瓦白蚁</a></li><li><a href="{{ site.base_url }}/species/patawatermes-turricola/"><i>Patawatermes turricola</i> Silvestri, 1901 土栖帕塔瓦白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>
