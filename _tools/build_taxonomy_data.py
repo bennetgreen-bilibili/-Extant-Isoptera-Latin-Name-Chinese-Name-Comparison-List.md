@@ -3,8 +3,8 @@
 """构建分类树结构化数据（isoptera-data.json / data/）与三语统计页（stats.md）。
 
 唯一数据源（只读，不改任何源文件）：
-  list.md                 分类层级与文档顺序（支系→科→亚科→属→种）
-  _species/*.md           front matter（中文名、模式种标记、分布、亚种、分类锚点）
+  _data/taxonomy.json     分类层级（支系→科→亚科→属）与文档顺序
+  _species/*.md           front matter（中文名、模式种标记、分布、亚种、所属属与科）
   _config.yml             base_url、dataset.version
   dataset/metadata.json   发布日期（dates.created / dates.updated）
   data/references.json    参考文献条数
@@ -33,19 +33,13 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LIST_MD = ROOT / "list.md"
+TAXONOMY_JSON = ROOT / "_data" / "taxonomy.json"
 SPECIES_DIR = ROOT / "_species"
 CONFIG = ROOT / "_config.yml"
 METADATA = ROOT / "dataset" / "metadata.json"
 REFERENCES = ROOT / "data" / "references.json"
 
-HEAD_RE = re.compile(r'^<h([2-5]) id="([^"]+)">(.+?)</h[2-5]>\s*$')
-SP_RE = re.compile(r'^(?:\\\*)?\[\*(?P<latin>[^*]+)\* (?P<zh>[^\]]+?)\]\(\{\{ site\.base_url \}\}/species/(?P<slug>[^/]+)/\)\s*$')
-TITLE_RE = re.compile(r'^(\S.*?)\s+([A-Za-z].*)$')
 FM_RE = re.compile(r'^([A-Za-z_][A-Za-z0-9_]*)[ \t]*:[ \t]*(.*)$')
-# 名录正文中的非分类学标题（导航 / 目录 / 参考文献）：名单与 build_search_index.py 共用一份
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from checklist_headings import SKIP_IDS  # noqa: E402  （脚本目录已入 sys.path，被当模块 import 时同样成立）
 
 CLADE_PARENT = {
     "isoptera": None,
@@ -111,13 +105,6 @@ def parse_front_matter(path: Path) -> dict:
     return fields
 
 
-def split_title(text: str):
-    m = TITLE_RE.match(text.strip())
-    if not m:
-        sys.exit("error: 无法拆分名录标题：%r" % text)
-    return m.group(1), m.group(2).strip()
-
-
 def load_species() -> dict:
     out = {}
     for path in sorted(SPECIES_DIR.glob("*.md")):
@@ -132,6 +119,7 @@ def load_species() -> dict:
             "rank": (fm.get("rank") or "species").strip(),
             "distribution_zh": (fm.get("distribution_zh") or "").strip(),
             "parent_latin": (fm.get("parent_latin") or "").strip(),
+            "genus_id": (fm.get("genus_id") or "").strip(),
         }
     return out
 
@@ -148,44 +136,63 @@ def attach_subspecies(species: dict) -> dict:
 
 
 def load_list(species: dict) -> dict:
-    clades, events = [], []
-    cur_clade = cur_family = cur_sub = cur_genus = None
-    for raw in read_text(LIST_MD).splitlines():
-        m = HEAD_RE.match(raw)
-        if m:
-            level, anchor, title = int(m.group(1)), m.group(2), m.group(3)
-            if anchor in SKIP_IDS:
-                continue
-            zh, latin = split_title(title)
-            if level == 2:
-                cur_clade = {"id": anchor, "zh": zh, "latin": latin, "families": []}
-                clades.append(cur_clade)
-                events.append(("clade", cur_clade))
-                cur_family = cur_sub = cur_genus = None
-            elif level == 3:
-                cur_family = {"id": anchor, "zh": zh, "latin": latin, "clade": cur_clade["id"],
-                              "subfamilies": [], "genera": []}
-                cur_clade["families"].append(cur_family)
-                events.append(("family", cur_family))
-                cur_sub = cur_genus = None
-            elif level == 4:
-                cur_sub = {"id": anchor, "zh": zh, "latin": latin, "genera": [], "family": cur_family}
-                cur_family["subfamilies"].append(cur_sub)
-                cur_genus = None
-            elif level == 5:
-                cur_genus = {"id": anchor, "zh": zh, "latin": latin, "species": [],
-                             "family": cur_family, "subfamily": cur_sub}
-                (cur_sub["genera"] if cur_sub else cur_family["genera"]).append(cur_genus)
+    """按 _data/taxonomy.json 重建分类树，再把 _species 里的种挂到各自的属上。
+
+    名录页（list.md）已改为索引页，不再逐条罗列物种，因此层级与顺序一律取
+    taxonomy.json；种与亚种的归属取 _species front matter 的 genus_id / parent_latin。
+    """
+    taxonomy = json.loads(read_text(TAXONOMY_JSON))
+    families = {family["id"]: family for family in taxonomy["families"]}
+    genera = {genus["id"]: genus for genus in taxonomy["genera"]}
+    subfamilies = {sub["id"]: sub for sub in taxonomy["subfamilies"]}
+
+    species_by_genus: dict[str, list[str]] = {}
+    for latin, fm in species.items():
+        if fm["rank"] == "subspecies":
             continue
-        m = SP_RE.match(raw)
-        if m and cur_genus is not None:
-            latin = m.group("latin").strip()
-            fm = species.get(latin)
-            if fm is None:
-                sys.exit("error: 名录中的 %s 找不到对应 _species 页面" % latin)
-            cur_genus["species"].append({"latin": latin, "fm": fm})
+        genus_id = fm.get("genus_id") or ""
+        if genus_id not in genera:
+            sys.exit("error: %s 的 genus_id（%s）不在 taxonomy.json 的属表里" % (latin, genus_id))
+        species_by_genus.setdefault(genus_id, []).append(latin)
+
+    clades, events = [], []
+    for clade in taxonomy["clades"]:
+        clade_node = {"id": clade["id"], "zh": clade["zh"], "latin": clade["latin"], "families": []}
+        clades.append(clade_node)
+        events.append(("clade", clade_node))
+        for family_id in clade["families"]:
+            family = families[family_id]
+            family_node = {"id": family_id, "zh": family["zh"], "latin": family["latin"],
+                           "clade": clade["id"], "subfamilies": [], "genera": []}
+            clade_node["families"].append(family_node)
+            events.append(("family", family_node))
+            sub_nodes = {}
+            for sub_id in family["subfamilies"]:
+                sub = subfamilies[sub_id]
+                sub_node = {"id": sub_id, "zh": sub["zh"], "latin": sub["latin"],
+                            "genera": [], "family": family_node}
+                sub_nodes[sub_id] = sub_node
+                family_node["subfamilies"].append(sub_node)
+            family_genera = list(family["genera"])
+            for sub_id in family["subfamilies"]:
+                family_genera.extend(subfamilies[sub_id]["genera"])
+            for genus_id in sorted(set(family_genera),
+                                   key=lambda gid: genera[gid]["latin"].lower()):
+                genus = genera[genus_id]
+                sub_node = sub_nodes.get(genus.get("subfamily") or "")
+                genus_node_ = {
+                    "id": genus_id,
+                    "zh": genus["zh"],
+                    "latin": genus["latin"],
+                    "species": [{"latin": latin, "fm": species[latin]}
+                                for latin in sorted(species_by_genus.get(genus_id, []),
+                                                    key=lambda name: name.lower())],
+                    "family": family_node,
+                    "subfamily": sub_node,
+                }
+                (sub_node["genera"] if sub_node else family_node["genera"]).append(genus_node_)
     if not clades:
-        sys.exit("error: list.md 中未解析到任何支系标题")
+        sys.exit("error: taxonomy.json 中没有任何支系")
     return {"clades": clades, "events": events}
 
 
@@ -461,7 +468,7 @@ def stats_payloads(site: Site, doc, subs, totals):
         rows = []
         for fam in fams:
             st = family_stats(fam, subs)
-            rows.append('<tr><td><a href="%s/list/#%s">%s</a></td><td>%s</td>'
+            rows.append('<tr><td><a href="%s/family/%s/">%s</a></td><td>%s</td>'
                         '<td class="num">%d</td><td class="num">%d</td><td class="num">%d</td></tr>'
                         % (site.base_url, fam["id"], fam["zh"], fam["latin"],
                            st["genera"], st["species"], st["subspecies"]))
@@ -471,7 +478,7 @@ def stats_payloads(site: Site, doc, subs, totals):
         rows = []
         for sub in (termitidae["subfamilies"] if termitidae else []):
             st = subfamily_stats(sub, subs)
-            rows.append('<tr><td><a href="%s/list/#%s">%s</a></td><td>%s</td>'
+            rows.append('<tr><td><a href="%s/subfamily/%s/">%s</a></td><td>%s</td>'
                         '<td class="num">%d</td><td class="num">%d</td><td class="num">%d</td></tr>'
                         % (site.base_url, sub["id"], sub["zh"], sub["latin"],
                            st["genera"], st["species"], st["subspecies"]))
@@ -490,7 +497,7 @@ def stats_payloads(site: Site, doc, subs, totals):
         items.sort(key=lambda x: (x[0], x[1]))
         rows = []
         for _, _, parent, g, st in items:
-            rows.append('<tr><td>%s</td><td><a href="%s/list/#%s">%s</a></td><td>%s</td>'
+            rows.append('<tr><td>%s</td><td><a href="%s/genus/%s/">%s</a></td><td>%s</td>'
                         '<td class="num">%d</td><td class="num">%d</td></tr>'
                         % (parent, site.base_url, g["id"], g["latin"], g["zh"],
                            st["species"], st["subspecies"]))

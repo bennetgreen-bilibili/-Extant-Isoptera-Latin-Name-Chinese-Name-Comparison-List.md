@@ -34,9 +34,9 @@ ES — **塔尔瓦尔稀白蚁** (*Speculitermes dharwarensis*) es una especie d
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[稀白蚁属 *Speculitermes*]({{ site.base_url }}/list/#speculitermes) —— 共 13 种（13 species · 13 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
+- **属 Genus / Género**：[稀白蚁属 *Speculitermes*]({{ site.base_url }}/genus/speculitermes/) —— 共 13 种（13 species · 13 especies）
 - **本属模式种 Type species / Especie tipo**：*Speculitermes cyclops*
 
 ## 分布

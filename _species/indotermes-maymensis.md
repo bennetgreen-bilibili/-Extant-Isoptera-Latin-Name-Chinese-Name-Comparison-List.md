@@ -34,9 +34,9 @@ ES — **眉妙印白蚁** (*Indotermes maymensis*) es una especie, y la especie
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/list/#apicotermitinae) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
-- **属 Genus / Género**：[印白蚁属 *Indotermes*]({{ site.base_url }}/list/#indotermes) —— 共 10 种（10 species · 10 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
+- **属 Genus / Género**：[印白蚁属 *Indotermes*]({{ site.base_url }}/genus/indotermes/) —— 共 10 种（10 species · 10 especies）
 
 ## 分布
 

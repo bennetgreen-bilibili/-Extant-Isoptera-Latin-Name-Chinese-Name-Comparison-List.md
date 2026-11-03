@@ -33,8 +33,8 @@ ES — **安格无刺白蚁** (*Anacanthotermes ahngerianus*) es una especie del
 
 ## 分类位置
 
-- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
-- **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/list/#anacanthotermes) —— 共 16 种（16 species · 16 especies）
+- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
+- **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种（16 species · 16 especies）
 - **本属模式种 Type species / Especie tipo**：*Anacanthotermes ochraceus*
 
 ## 分布

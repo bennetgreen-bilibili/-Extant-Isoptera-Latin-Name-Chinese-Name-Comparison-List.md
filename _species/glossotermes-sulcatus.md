@@ -31,8 +31,8 @@ ES — **具纹舌白蚁** (*Glossotermes sulcatus*) es una especie del género 
 
 ## 分类位置
 
-- **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/list/#serritermitidae) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）
-- **属 Genus / Género**：[舌白蚁属 *Glossotermes*]({{ site.base_url }}/list/#glossotermes) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）
+- **属 Genus / Género**：[舌白蚁属 *Glossotermes*]({{ site.base_url }}/genus/glossotermes/) —— 共 2 种（2 species · 2 especies）
 - **本属模式种 Type species / Especie tipo**：*Glossotermes oculatus*
 
 ## 分布

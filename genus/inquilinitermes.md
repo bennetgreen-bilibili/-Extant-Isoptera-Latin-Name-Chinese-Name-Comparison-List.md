@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/inquilinitermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#termitinae">白蚁亚科</a> › <a href="{{ site.base_url }}/list/#inquilinitermes">客白蚁属 <i>Inquilinitermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/termitinae/">白蚁亚科</a> › <a href="{{ site.base_url }}/genus/inquilinitermes/">客白蚁属 <i>Inquilinitermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>客白蚁属 <i>Inquilinitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 4 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/inquilinitermes-fur/"><i>Inquilinitermes fur</i> Silvestri, 1901 窃贼客白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/inquilinitermes-inquilinus/"><i>Inquilinitermes inquilinus</i> Emerson, 1925 旅居客白蚁</a></li><li><a href="{{ site.base_url }}/species/inquilinitermes-johnchapmani/"><i>Inquilinitermes johnchapmani</i> Scheffrahn, 2014 约翰查普曼客白蚁</a></li><li><a href="{{ site.base_url }}/species/inquilinitermes-microcerus/"><i>Inquilinitermes microcerus</i> Silvestri, 1901 小角客白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#inquilinitermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/termitinae/">白蚁亚科 <i>Termitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

@@ -33,8 +33,8 @@ ES — **达尔文澳白蚁** (*Mastotermes darwiniensis*) es la única especie 
 
 ## 分类位置
 
-- **科 Family / Familia**：[澳白蚁科 MASTOTERMITIDAE]({{ site.base_url }}/list/#mastotermitidae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
-- **属 Genus / Género**：[澳白蚁属 *Mastotermes*]({{ site.base_url }}/list/#mastotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科 Family / Familia**：[澳白蚁科 MASTOTERMITIDAE]({{ site.base_url }}/family/mastotermitidae/) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
+- **属 Genus / Género**：[澳白蚁属 *Mastotermes*]({{ site.base_url }}/genus/mastotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 

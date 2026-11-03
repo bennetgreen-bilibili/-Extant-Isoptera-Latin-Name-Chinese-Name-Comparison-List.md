@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/mimeutermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#nasutitermitinae">象白蚁亚科</a> › <a href="{{ site.base_url }}/list/#mimeutermes">仿白蚁属 <i>Mimeutermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/nasutitermitinae/">象白蚁亚科</a> › <a href="{{ site.base_url }}/genus/mimeutermes/">仿白蚁属 <i>Mimeutermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>仿白蚁属 <i>Mimeutermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 6 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/mimeutermes-binghami/"><i>Mimeutermes binghami</i> Sands, 1968 宾厄姆仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-clypeatus/"><i>Mimeutermes clypeatus</i> Sands, 1968 大唇仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-edentatus/"><i>Mimeutermes edentatus</i> Sands, 1956 无齿仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-giffardii/"><i>Mimeutermes giffardii</i> Silvestri, 1914 吉法德仿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/mimeutermes-majusculus/"><i>Mimeutermes majusculus</i> Sands, 1965 稍大仿白蚁</a></li><li><a href="{{ site.base_url }}/species/mimeutermes-sorex/"><i>Mimeutermes sorex</i> Silvestri, 1914 吻长仿白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#mimeutermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

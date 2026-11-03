@@ -33,8 +33,8 @@ ES — **平坦寡脉白蚁** (*Termitogeton planus*) es una especie, y la espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[寡脉白蚁科 TERMITOGETONIDAE]({{ site.base_url }}/list/#termitogetonidae) —— 本站收录 1 属 2 种（1 genus, 2 species · 1 género, 2 especies）
-- **属 Genus / Género**：[寡脉白蚁属 *Termitogeton*]({{ site.base_url }}/list/#termitogeton) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[寡脉白蚁科 TERMITOGETONIDAE]({{ site.base_url }}/family/termitogetonidae/) —— 本站收录 1 属 2 种（1 genus, 2 species · 1 género, 2 especies）
+- **属 Genus / Género**：[寡脉白蚁属 *Termitogeton*]({{ site.base_url }}/genus/termitogeton/) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 

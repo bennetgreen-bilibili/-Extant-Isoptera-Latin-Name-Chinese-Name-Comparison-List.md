@@ -1,0 +1,60 @@
+8701| 
+8702| [*Xylochomitermes melvillensis* 梅尔维尔木堆白蚁]({{ site.base_url }}/species/xylochomitermes-melvillensis/)
+8703| 
+8704| \*[*Xylochomitermes occidualis* 西部木堆白蚁]({{ site.base_url }}/species/xylochomitermes-occidualis/)
+8705| 
+8706| [*Xylochomitermes punctillus* 点囟木堆白蚁]({{ site.base_url }}/species/xylochomitermes-punctillus/)
+8707| 
+8708| [*Xylochomitermes reductus* 缩小木堆白蚁]({{ site.base_url }}/species/xylochomitermes-reductus/)
+8709| 
+8710| [*Xylochomitermes tomentosus* 粗毛木堆白蚁]({{ site.base_url }}/species/xylochomitermes-tomentosus/)
+8711| <h2 id="references">参考文献</h2>
+8712| 
+8713| 1. Desneux J. À propos de la phylogénie des
+8714|     Termitides. Ann Soc Entomol Belg. 1904;
+8715|     48(8):278-286.
+8716| 
+8717| 2. Bourguignon T, Lo N, Cameron SL, Šobotník
+8718|     J, Hayashi Y, Shigenobu S, et al. The
+8719|     evolutionary history of termites as inferred
+8720|     from 66 mitochondrial genomes. Mol Biol Evol.
+8721|     2015;
+8722|     32(2):406-421. [doi: 10.1093/molbev/msu308](https://doi.org/10.1093/molbev/msu308)
+8723| 
+8724| 3. Krishna K, Grimaldi DA, Krishna V, Engel
+8725|     MS. Treatise on the Isoptera of the world.
+8726|     Bull Am Mus Nat Hist. 2013;
+8727|     377:1-2704. [doi: 10.1206/377.1](https://doi.org/10.1206/377.1)
+8728| 
+8729| 4. Evans TA, Forschler BT, Grace JK. Biology
+8730|     of invasive termites: a worldwide review.
+8731|     Annu Rev Entomol. 2013;
+8732|     58:455-474. [doi: 10.1146/annurev-ento-120811-153554](https://doi.org/10.1146/annurev-ento-120811-153554)
+8733| 
+8734| 5. Engel MS, Grimaldi DA, Krishna K. Termites
+8735|     (Isoptera): their phylogeny, classification,
+8736|     and rise to ecological dominance. Am Mus
+8737|     Novit. 2009;
+8738|     3650:1-27. [doi: 10.1206/651.1](https://doi.org/10.1206/651.1)
+8739| 
+8740| 6. Oregon State University Extension.
+8741|     Controlling dampwood termites [Internet].
+8742|     [cited 2026 Oct 16].
+8743| 
+8744| 7. Harris WV. Termites of the genus
+8745|     Anacanthotermes in North Africa and the Near
+8746|     East (Isoptera: Hodotermitidae). Proc R
+8747|     Entomol Soc Lond B. 1967;
+8748|     36(5-6):79-86. [doi: 10.1111/j.1365-3113.1967.tb00540.x](https://doi.org/10.1111/j.1365-3113.1967.tb00540.x)
+8749| 
+8750| 8. Rouland-Lefèvre C. Termites as pests of
+8751|     agriculture. In: Bignell DE, Roisin Y, Lo N,
+8752|     editors. Biology of termites: a modern
+8753|     synthesis. Dordrecht: Springer;
+8754|      2011. p. 499-517. [doi: 10.1007/978-90-481-3977-4_18](https://doi.org/10.1007/978-90-481-3977-4_18)
+8755| 
+8756| 9. Khamraev AS, Lebedeva NI, Zuginisov TI,
+8757|     Abdullaev II, Rakhmatullaev A, Raina AK. Food
+8758|     preferences of the Turkestan termite
+8759|     Anacanthotermes turkestanicus (Isoptera:
+8760|     Hodotermitidae). Sociobiology. 2007;

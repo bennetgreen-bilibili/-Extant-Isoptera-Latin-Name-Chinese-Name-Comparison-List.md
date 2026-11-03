@@ -50,7 +50,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 SPECIES_DIR = ROOT / "_species"
 IMAGES_DIR = ROOT / "assets" / "images"
-LIST_MD = ROOT / "list.md"
+PROSE_JSON = ROOT / "_data" / "taxon_prose.json"
 DATA_OUT = ROOT / "_data" / "taxonomy_images.json"
 OUT_DIRS = {"family": ROOT / "family", "subfamily": ROOT / "subfamily", "genus": ROOT / "genus"}
 DEFAULT_IMAGE = "/assets/images/mastotermitidae.jpg"
@@ -95,23 +95,26 @@ def parse_front_matter(text):
     return data
 
 
-def list_figures():
-    """Map taxon id -> <figure> block copied verbatim from list.md.
+def load_prose():
+    """Read _data/taxon_prose.json (zh), written by _tools/extract_taxon_data.py."""
+    if not PROSE_JSON.is_file():
+        sys.exit("missing %s — run _tools/extract_taxon_data.py" % PROSE_JSON.name)
+    data = json.loads(PROSE_JSON.read_text(encoding="utf-8"))
+    return data.get("zh") or {}
 
-    Reusing the block keeps the same caption and photo credit as /list/ (the photos are
-    CC BY-NC / CC BY-NC-SA from iNaturalist and must keep their attribution), instead of
-    re-deriving credits here.
+
+def list_figures():
+    """Map taxon id -> <figure> block.
+
+    The block is kept verbatim so the caption and photo credit stay attached to the photo
+    (they are CC BY-NC / CC BY-NC-SA from iNaturalist and must keep their attribution).
     """
-    if not LIST_MD.is_file():
-        return {}
-    text = LIST_MD.read_text(encoding="utf-8")
+    prose = load_prose()
     figures = {}
-    for block in FIGURE_RE.findall(text):
-        m = IMG_RE.search(block)
-        if not m:
-            continue
-        key = re.sub(r"-\d+$", "", m.group(1))
-        figures.setdefault(key, block.strip())
+    for bucket in ("families", "subfamilies"):
+        for taxon_id, entry in (prose.get(bucket) or {}).items():
+            if entry.get("figure"):
+                figures[taxon_id] = entry["figure"]
     return figures
 
 
@@ -140,33 +143,18 @@ def reflow(lines):
 
 
 def list_sections():
-    """Map taxon id -> list of prose paragraphs, copied out of the /list/ sections.
+    """Map taxon id -> list of prose paragraphs for families and subfamilies.
 
-    Only the family (<h3>) and subfamily (<h4>) sections carry prose; a genus section
-    (<h5>) is just its map plus the species links. Illustration <figure> blocks and the
-    distribution-map includes are dropped here, because a hub page shows its own map.
+    The prose used to be copied out of /list/; since /list/ became an index page it lives
+    in _data/taxon_prose.json, and these hub pages are now its canonical home.
     """
-    if not LIST_MD.is_file():
-        return {}
-    text = LIST_MD.read_text(encoding="utf-8")
-    text = FIGURE_RE.sub("", text)
-    text = INCLUDE_MAP_RE.sub("", text)
-    heads = list(HEADING_RE.finditer(text))
+    prose = load_prose()
     sections = {}
-    for index, head in enumerate(heads):
-        if int(head.group(1)) not in (3, 4):
-            continue
-        end = heads[index + 1].start() if index + 1 < len(heads) else len(text)
-        paragraphs = []
-        for block in re.split(r"\n[ \t]*\n", text[head.end():end]):
-            lines = [ln for ln in block.splitlines() if ln.strip() and not TAG_ONLY_RE.match(ln)]
-            if not lines:
-                continue
-            paragraph = reflow(lines).strip()
-            if paragraph:
-                paragraphs.append(paragraph)
-        if paragraphs:
-            sections[head.group(2)] = paragraphs
+    for bucket in ("families", "subfamilies"):
+        for taxon_id, entry in (prose.get(bucket) or {}).items():
+            paragraphs = entry.get("paragraphs") or []
+            if paragraphs:
+                sections[taxon_id] = paragraphs
     return sections
 
 
@@ -239,7 +227,7 @@ def count_phrase_full(subfamilies, genera, species, subspecies):
 # Short neutral tails used only to pad a description up to the 150-character target.
 # They are appended after the rank-specific pool, shortest last, and never repeated.
 FILLERS = [
-    "详见完整名录。",
+    "详见名录索引。",
     "按分类系统逐级排列。",
     "数据来自 CC BY 4.0 数据集。",
     "并附中文正名与引用格式。",
@@ -433,11 +421,12 @@ def main():
     def crumb_nav(rank, fam=None, sub=None, gen=None):
         parts = ['<a href="%s/list/">名录</a>' % SB]
         if fam:
-            parts.append('<a href="%s/list/#%s">%s</a>' % (SB, fam["id"], fam["zh"]))
+            parts.append('<a href="%s/family/%s/">%s</a>' % (SB, fam["id"], fam["zh"]))
         if sub:
-            parts.append('<a href="%s/list/#%s">%s</a>' % (SB, sub["id"], sub["zh"]))
+            parts.append('<a href="%s/subfamily/%s/">%s</a>' % (SB, sub["id"], sub["zh"]))
         if gen:
-            parts.append('<a href="%s/list/#%s">%s <i>%s</i></a>' % (SB, gen["id"], gen["zh"], gen["latin"]))
+            parts.append('<a href="%s/genus/%s/">%s <i>%s</i></a>'
+                         % (SB, gen["id"], gen["zh"], gen["latin"]))
         label = {"family": "科", "subfamily": "亚科", "genus": "属"}[rank]
         return ('<nav class="taxon-crumbs" aria-label="分类位置">' + " › ".join(parts)
                 + " › <span>本%s</span></nav>" % label)
@@ -498,7 +487,7 @@ def main():
             pool = [
                 "本页按分类系统列出该科的全部%s与属，并汇总各级物种数量。" % ("亚科" if fam["subfamilies"] else ""),
                 "点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。",
-                "科的形态特征、分布格局与经济意义见完整名录的对应章节。",
+                "科的形态特征、分布格局与经济意义见本页上文。",
             ]
             if not fam["subfamilies"]:
                 pool[0] = "本页按分类系统列出该科的全部属，并汇总各级物种数量。"
@@ -511,7 +500,7 @@ def main():
             pool = [
                 "本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。",
                 "物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。",
-                "亚科的形态、分布与经济意义见完整名录的对应章节。",
+                "亚科的形态、分布与经济意义见本页上文。",
             ]
             return fit_description(core, pool)
         parent = families[gen["family"]]
@@ -525,7 +514,7 @@ def main():
         pool = [
             "本页列出该属的全部物种与亚种%s，物种页含模式产地、分布地图与同属物种。" % ("，并标注模式种" if gen["type_species"] else ""),
             "每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。",
-            "属的分类位置与名录锚点见完整名录的对应章节。",
+            "属的分类位置见名录索引与上级科、亚科页面。",
         ]
         return fit_description(core, pool)
 
@@ -560,12 +549,24 @@ def main():
             crumbs.append(("%s %s" % (gen["zh"], gen["latin"]), "/genus/%s/" % gen["id"]))
         return crumbs
 
-    def footer_nav(rank, taxon_id):
-        back = ('<p class="taxon-more">该%s的形态、分布与经济意义：'
-                '<a href="%s/list/#%s">完整名录对应章节</a>；'
-                '结构化数据：<a href="%s/data/">数据与下载</a>。</p>'
-                % ({"family": "科", "subfamily": "亚科", "genus": "属"}[rank], SB, taxon_id, SB))
-        return back + '\n<p class="taxon-back"><a href="%s/list/">← 返回完整名录</a> · <a href="%s/">首页</a></p>' % (SB, SB)
+    def footer_nav(rank, taxon_id, up=None):
+        """上下级导航：名录索引是唯一入口，逐级可以往回走。"""
+        links = ['<a href="%s/list/">名录索引</a>' % SB]
+        if up:
+            links.append(up)
+        links.append('<a href="%s/data/">数据与下载</a>' % SB)
+        back = '<p class="taxon-more">上一级：' + " · ".join(links) + "</p>"
+        return back + '\n<p class="taxon-back"><a href="%s/list/">← 返回名录索引</a> · <a href="%s/">首页</a></p>' % (SB, SB)
+
+    def genus_up(gen):
+        """属页的上一级：有亚科就指亚科页，否则指科页。"""
+        if gen["subfamily"]:
+            sub = subfamilies[gen["subfamily"]]
+            return ('<a href="%s/subfamily/%s/">%s <i>%s</i></a>'
+                    % (SB, sub["id"], sub["zh"], display_latin(sub["latin"])))
+        fam = families[gen["family"]]
+        return ('<a href="%s/family/%s/">%s <i>%s</i></a>'
+                % (SB, fam["id"], fam["zh"], display_latin(fam["latin"])))
 
     def has_geo(rank, taxon_id):
         if rank == "subfamily":
@@ -586,10 +587,10 @@ def main():
         if not paragraphs:
             return ""
         body = "".join("<p>%s</p>\n" % html_escape(p) for p in paragraphs)
-        return ('<section class="taxon-section taxon-intro" data-pagefind-ignore>\n<h2>' + heading + '</h2>\n'
+        return ('<section class="taxon-section taxon-intro">\n<h2>' + heading + '</h2>\n'
                 + body
-                + '<p class="taxon-src">以上文字取自<a href="%s/list/#%s">完整名录</a>的对应章节，'
-                  '参考文献与完整论述见该页。</p>\n</section>\n' % (SB, taxon_id))
+                + '<p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；'
+                  '名录索引见<a href="%s/list/">名录</a>。</p>\n</section>\n' % SB)
 
     def genus_intro(gen, mapped):
         fam = families[gen["family"]]
@@ -713,7 +714,9 @@ def main():
             + distribution_section("subfamily", sid)
             + intro_section(sid, "亚科级介绍")
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
-            + footer_nav("subfamily", sid) + "\n</article>\n"
+            + footer_nav("subfamily", sid,
+                         '<a href="%s/family/%s/">%s <i>%s</i></a>'
+                         % (SB, fam["id"], fam["zh"], display_latin(fam["latin"]))) + "\n</article>\n"
             + taxon_jsonld("subfamily", sid, sub["latin"], sub["zh"], parent, "亚科")
         )
         desc = desc_for("subfamily", sub=sub)
@@ -753,7 +756,7 @@ def main():
             + genus_intro(gen, mapped)
             + fauna_section("genus", gid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
-            + footer_nav("genus", gid) + "\n</article>\n"
+            + footer_nav("genus", gid, genus_up(gen)) + "\n</article>\n"
             + taxon_jsonld("genus", gid, gen["latin"], gen["zh"], parent, "属")
         )
         desc = desc_for("genus", gen=gen)

@@ -21,7 +21,7 @@ breadcrumb:
     url: "/genus/unguitermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#cubitermitinae">方白蚁亚科</a> › <a href="{{ site.base_url }}/list/#unguitermes">爪白蚁属 <i>Unguitermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科</a> › <a href="{{ site.base_url }}/genus/unguitermes/">爪白蚁属 <i>Unguitermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>爪白蚁属 <i>Unguitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 7 种</p>
@@ -49,8 +49,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/unguitermes-acutifrons/"><i>Unguitermes acutifrons</i> Silvestri, 1914 尖额爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-bidentatus/"><i>Unguitermes bidentatus</i> Silvestri, 1914 双齿爪白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/unguitermes-bouilloni/"><i>Unguitermes bouilloni</i> Harris, 1965 布永爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-magnus/"><i>Unguitermes magnus</i> Ruelle, 1973 大爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-proclivifrons/"><i>Unguitermes proclivifrons</i> Ruelle, 1973 前斜额爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-trispinosus/"><i>Unguitermes trispinosus</i> Ruelle, 1973 三针爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-unidentatus/"><i>Unguitermes unidentatus</i> Ruelle, 1973 单齿爪白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#unguitermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

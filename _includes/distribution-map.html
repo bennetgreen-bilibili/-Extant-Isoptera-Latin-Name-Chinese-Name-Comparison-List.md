@@ -4,13 +4,13 @@
   由 .github/workflows/build_occurrence_geojson.py 生成的数据驱动，四种用法：
 
     include distribution-map.html mode="family" id="mastotermitidae"
-        名录页与 /family/ 中转页：科级地图。
+        /family/ 科页：科级地图（旧名录页已不再放地图）。
     include distribution-map.html mode="subfamily" id="macrotermitinae"
-        /subfamily/ 中转页：亚科级地图。GBIF 的抓取按属进行，没有亚科层级，
+        /subfamily/ 亚科页：亚科级地图。GBIF 的抓取按属进行，没有亚科层级，
         因此这份几何由 .github/workflows/build_taxonomy_pages.py 把本亚科各属的
         1° 网格地图按坐标合并而成（属性与索引见 _data/subfamily_maps.json）。
     include distribution-map.html mode="genus" id="mastotermes"
-        名录页与 /genus/ 中转页：属级地图。
+        /genus/ 属页：属级地图。
     include distribution-map.html mode="species"
         物种页：该种自己的种级地图（数据键 = URL 里的 slug）。
 
@@ -19,13 +19,13 @@
   几何 / geometry: assets/geo/{family,subfamily,genus,species}/<id>.geojson
 
   Leaflet 的 <link>/<script> 由 _layouts/default.html 统一输出
-  （leaflet.css / leaflet.js / map.js / map.css）：名录页、物种页，以及带
-  has_map: true 的科/亚科/属中转页。本 include 不自带标签，避免重复加载。
+  （leaflet.css / leaflet.js / map.js / map.css）：科/亚科/属页面、物种页，以及带
+  has_map: true 的科/亚科/属页面。本 include 不自带标签，避免重复加载。
   地图只在滚动到视口内时才创建，不预取任何瓦片；瓦片使用政策见
   _tools/分布图与瓦片使用政策.md。
 
   注意：Jekyll 的 kramdown 在空行处结束 HTML 块，本文件输出必须保持「无空行」，
-  否则插在 Markdown 名录页里的地图块会被当成 Markdown 重新解析。
+  否则插在 Markdown 页面里的地图块会被当成 Markdown 重新解析。
 {%- endcomment -%}
 {%- assign occ = site.data.occurrence_summary -%}
 {%- assign dmode = include.mode | default: 'species' -%}
@@ -100,7 +100,7 @@
   {%- if dm and dm.file -%}
 <div class="distribution-inline distribution-inline-genus" data-pagefind-ignore data-taxon="{{ dm.id }}">
 <div class="distribution-map" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/list/#{{ dm.family_id }}">{{ dm.family_zh }}</a></p>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }}{% if dm.species %} · {{ dm.species }} {{ t_species }}{% endif %} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm.id }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}/family/{{ dm.family_id }}/">{{ dm.family_zh }}</a></p>
 </div>
   {%- endif -%}
 {%- elsif occ and dmode == 'species' -%}
@@ -111,7 +111,7 @@
 <h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
 <p class="species-map-note">{{ t_note }}</p>
 <div class="distribution-map distribution-map-species" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/list/#{{ dm.genus_id }}">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}/genus/{{ dm.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
   {%- else -%}
 <div class="species-map species-map-empty" aria-labelledby="species-map-title" data-pagefind-ignore>

@@ -34,9 +34,9 @@ ES — **塔夸拉林白蚁** (*Caetetermes taquarussu*) es una especie, y la es
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[林白蚁属 *Caetetermes*]({{ site.base_url }}/list/#caetetermes) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
+- **属 Genus / Género**：[林白蚁属 *Caetetermes*]({{ site.base_url }}/genus/caetetermes/) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 

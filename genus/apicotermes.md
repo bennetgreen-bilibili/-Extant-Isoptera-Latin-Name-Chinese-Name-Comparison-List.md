@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/apicotermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#apicotermitinae">尖白蚁亚科</a> › <a href="{{ site.base_url }}/list/#apicotermes">尖白蚁属 <i>Apicotermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/apicotermitinae/">尖白蚁亚科</a> › <a href="{{ site.base_url }}/genus/apicotermes/">尖白蚁属 <i>Apicotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>尖白蚁属 <i>Apicotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 13 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（13 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/apicotermes-angustatus/"><i>Apicotermes angustatus</i> Sjöstedt, 1924 狭窄尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-arquieri/"><i>Apicotermes arquieri</i> Grassé & Noirot, 1955 阿奎尔尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-desneuxi/"><i>Apicotermes desneuxi</i> Emerson, 1953 德纳尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-emersoni/"><i>Apicotermes emersoni</i> Bouillon, 1966 埃默森尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-goesswaldi/"><i>Apicotermes goesswaldi</i> Bouillon, 1966 格斯瓦尔德尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-gurgulifex/"><i>Apicotermes gurgulifex</i> Emerson, 1956 喉头尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-holmgreni/"><i>Apicotermes holmgreni</i> Emerson, 1956 霍姆格伦尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-kisantuensis/"><i>Apicotermes kisantuensis</i> Sjöstedt, 1924 基桑图尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-lamani/"><i>Apicotermes lamani</i> Sjöstedt, 1924 拉曼尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-occultus/"><i>Apicotermes occultus</i> Silvestri, 1914 隐蔽尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-porifex/"><i>Apicotermes porifex</i> Emerson, 1953 具孔尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-rimulifex/"><i>Apicotermes rimulifex</i> Emerson, 1956 裂缝尖白蚁</a></li><li><a href="{{ site.base_url }}/species/apicotermes-tragardhi/"><i>Apicotermes tragardhi</i> Holmgren, 1912 特雷高尖白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#apicotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/apicotermitinae/">尖白蚁亚科 <i>Apicotermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

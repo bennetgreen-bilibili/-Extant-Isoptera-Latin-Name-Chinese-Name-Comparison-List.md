@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/furculitermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#cubitermitinae">方白蚁亚科</a> › <a href="{{ site.base_url }}/list/#furculitermes">叉白蚁属 <i>Furculitermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科</a> › <a href="{{ site.base_url }}/genus/furculitermes/">叉白蚁属 <i>Furculitermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>叉白蚁属 <i>Furculitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 8 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/furculitermes-brevilabius/"><i>Furculitermes brevilabius</i> Emerson, 1960 短唇叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-brevimalatus/"><i>Furculitermes brevimalatus</i> Emerson, 1960 短颚叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-cubitalis/"><i>Furculitermes cubitalis</i> Emerson, 1960 急弯叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-hendrickxi/"><i>Furculitermes hendrickxi</i> Emerson, 1960 亨德里克斯叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-longilabius/"><i>Furculitermes longilabius</i> Emerson, 1960 长唇叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-parviceps/"><i>Furculitermes parviceps</i> Emerson, 1960 小头叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-soyeri/"><i>Furculitermes soyeri</i> Emerson, 1960 索耶叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-winifredae/"><i>Furculitermes winifredae</i> Emerson, 1960 威尼弗雷德叉白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#furculitermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

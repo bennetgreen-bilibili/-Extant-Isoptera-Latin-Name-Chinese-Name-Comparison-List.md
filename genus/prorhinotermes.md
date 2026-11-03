@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "原鼻白蚁属 Prorhinotermes 物种名录"
-description: "原鼻白蚁属（Prorhinotermes）是沙白蚁科（PSAMMOTERMITIDAE）下的一个属，本站收录 12 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。详见完整名录。"
+description: "原鼻白蚁属（Prorhinotermes）是沙白蚁科（PSAMMOTERMITIDAE）下的一个属，本站收录 12 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。每一条目均可跳转到对应的物种页面，查看拉丁学名、命名人年份、中文正名、参考文献与引用格式。详见名录索引。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -21,7 +21,7 @@ breadcrumb:
     url: "/genus/prorhinotermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#psammotermitidae">沙白蚁科</a> › <a href="{{ site.base_url }}/list/#prorhinotermes">原鼻白蚁属 <i>Prorhinotermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/psammotermitidae/">沙白蚁科</a> › <a href="{{ site.base_url }}/genus/prorhinotermes/">原鼻白蚁属 <i>Prorhinotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>原鼻白蚁属 <i>Prorhinotermes</i></h1>
 <p class="taxon-meta">沙白蚁科 PSAMMOTERMITIDAE · 12 种</p>
@@ -49,8 +49,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（12 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/prorhinotermes-canalifrons/"><i>Prorhinotermes canalifrons</i> Sjöstedt, 1904 沟额原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-cotym/"><i>Prorhinotermes cotym</i> Joseph, Amina & Mathew, 2023 科廷原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-flavus/"><i>Prorhinotermes flavus</i> Bugnion & Popoff, 1910 黄色原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-hainanensis/"><i>Prorhinotermes hainanensis</i> Ping & Xu, 1989 海南原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-inopinatus/"><i>Prorhinotermes inopinatus</i> Silvestri, 1909 意外原鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/prorhinotermes-molinoi/"><i>Prorhinotermes molinoi</i> Snyder, 1924 莫利诺原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-oceanicus/"><i>Prorhinotermes oceanicus</i> Wasmann, 1902 海洋原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-ponapensis/"><i>Prorhinotermes ponapensis</i> Oshima, 1917 波纳佩原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-rugifer/"><i>Prorhinotermes rugifer</i> Kemner, 1931 具皱原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-simplex/"><i>Prorhinotermes simplex</i> Hagen, 1858 简单原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-spectabilis/"><i>Prorhinotermes spectabilis</i> Ping & Xu, 1989 奇丽原鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/prorhinotermes-xishaensis/"><i>Prorhinotermes xishaensis</i> Li & Tsai, 1976 西沙原鼻白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#prorhinotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/family/psammotermitidae/">沙白蚁科 <i>Psammotermitidae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

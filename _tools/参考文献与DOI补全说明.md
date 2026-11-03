@@ -4,7 +4,7 @@
 >
 > 相关文件：`.github/workflows/build_references.py`（唯一生成脚本）、`_data/references.json`（站点数据，已提交）、`data/references.json`（公开下载副本，字节完全相同）、`_includes/references.html`（列表渲染）、`assets/references.css` / `assets/references.js`（样式与交互）、`list.md` / `en/list.md` / `es/list.md`（增强视图内嵌在名录页底部）。
 >
-> 在线位置：三个名录页（`/list/`、`/en/list/`、`/es/list/`）底部 `#references-doi` 区块。原来的 `/references/` 三语独立页面已移除，内容全部整合进名录页。
+> 在线位置：三个名录索引页（`/list/`、`/en/list/`、`/es/list/`）底部 `#references-doi` 区块。原来的 `/references/` 三语独立页面已移除，内容全部整合进名录索引页。
 
 ---
 
@@ -73,14 +73,14 @@
 **原因**：网页没有 DOI，Crossref 只索引有 DOI 的成果（少部分注册了 DataCite DOI 的数据库记录例外）。这些条目的价值是"物种信息来源可追溯"，本来就不该强行配一个 DOI。
 **处理**：保留原文 `[Internet]. [cited …]` 措辞；`links.search` 给出 Crossref 检索入口，读者可自行查。其中 `18`、`31`、`66` 命中了同源的 UF/IFAS **EDIS** 出版物（EENY 系列）与 CABI/Springer 条目，作为候选列出，**未被采用**——因为原文没有年份，无法满足"年份一致"。
 
-> 后续可做：`18`/`31`/`66` 若要升级为正式文献，需人工确认 EDIS 编号（如 EENY-083）与版本年份后，直接在 `list.md` 里补 DOI，再重跑本脚本。
+> 后续可做：`18`/`31`/`66` 若要升级为正式文献，需人工确认 EDIS 编号（如 EENY-083）与版本年份后，在 `_data/list_index_blocks.json` 的 `references` 块（三个语言各一份）里补 DOI，并同步根目录数据集文件的参考文献区块，再重跑本脚本与 `_tools/build_list_index.py`。
 
 ### 3.2 中国标准与中文期刊（2 条）
 
 `33`（SN/T 1105-2014 检验检疫行业标准）、`56`（李茅苗 2013《植物医生》）
 
 **原因**：行业标准与中文科普期刊大多没有 DOI；Crossref 覆盖以英文期刊为主。
-**处理**：原样保留。若日后有 CNKI/万方 DOI，可在 `list.md` 里补。
+**处理**：原样保留。若日后有 CNKI/万方 DOI，可在 `_data/list_index_blocks.json` 的 `references` 块里补。
 
 ### 3.3 早期印刷文献 / 无 DOI 的旧刊（14 条）
 
@@ -180,7 +180,7 @@
 - **缓存**：`_tmp/references-cache.json`（≈1.5 MB，gitignore）。CI 若想避免每次全量抓取，用 `actions/cache` 挂这个路径，key 取 `references-cache-v1`。
 - **CI 插入位置**（由 Lead 在 `.github/workflows/pages.yml` 里加，本文件不做改动）：放在 Jekyll build **之前**。`pages.yml` 现有那一步是**离线**校验（`continue-on-error: true`），建议把那行换成 `--verify`（不联网、不抓 Crossref，只查 JSON 自洽与两份文件字节相同）；`--check` 留给本地或带缓存的 CI（全量抓取约 80 个请求、60–90 秒，且 Crossref 抖动会让步骤变红）。
 - **`--verify` 查什么**：JSON 可解析、两份文件字节相同、`meta.counts` 与重算值一致、编号 1..N 连续、`doi_status` 合法且与 `doi` 自洽、三种格式与 BibTeX/RIS/CSL 非空、`links` 以 `https://doi.org/` 与 Crossref API 开头、`crossref` 字段齐全、BHL 链接指向 BHL。
-- **改了 `list.md` 之后**：重跑 `--write`，并人工看一眼新条目的 `doi_status` 与 `candidates`。
+- **改了参考文献之后**：重跑 `--write`，并人工看一眼新条目的 `doi_status` 与 `candidates`。参考文献原文现在存在 `_data/list_index_blocks.json`（三语各一份 `references` 块），改完要跑 `python _tools/build_list_index.py` 才会写进三语索引页。
 
 ---
 
@@ -205,7 +205,7 @@
 | `_includes/references.html` | 编号列表 + GB/T 引用 + DOI/Crossref 链接 + 复制按钮 + `<details>` 里的 APA/Vancouver/BibTeX/RIS/原文/候选 |
 | `assets/references.css` | 只服务本页的 `.refs-*` 样式（复用全站 CSS 变量，含打印样式） |
 | `assets/references.js` | 复制（clipboard + `execCommand` 兜底）与「导出 CSL-JSON」，无框架、无依赖 |
-| `list.md` / `en/list.md` / `es/list.md` | 名录页；页末 `<h2 id="references-doi">` + `{% include references.html %}`，即增强视图所在位置 |
+| `list.md` / `en/list.md` / `es/list.md` | 名录索引页；页末 `<h2 id="references-doi">` + `{% include references.html %}`，即增强视图所在位置。参考文献原文存在 `_data/list_index_blocks.json` 的 `references` 块里，由 `_tools/build_list_index.py` 写入三语页面 |
 | 本文件 | 流水线、覆盖率、未匹配原因、BHL 步骤、重跑方法、许可 |
 
 **改模板时的两个坑**

@@ -1,0 +1,1935 @@
+                                   SUPPLEMENTARY INFORMATION
+
+Genomic data provide insights into the classification of extant termites
+
+Simon Hellemans*, Mauricio M. Rocha, Menglin Wang, Johanna Romero Arias, Duur K. Aanen,
+Anne-Geneviève Bagnères, Ales Bucek, Tiago F. Carrijo, Thomas Chouvenc, Carolina Cuezzo,
+Joice P. Constantini, Reginaldo Constantino, Franck Dedeine, Jean Deligne, Paul Eggleton,
+Theodore A. Evans, Robert Hanus, Mark C. Harrison, Myriam Harry, Guy Josens, Corentin
+Jouault, Chicknayakanahalli M. Kalleshwaraswamy, Esra Kaymak, Judith Korb, Chow-Yang Lee,
+Frédéric Legendre, Hou-Feng Li, Nathan Lo, Tomer Lu, Kenji Matsuura, Kiyoto Maekawa, Dino
+P. McMahon, Nobuaki Mizumoto, Danilo E. Oliveira, Michael Poulsen, David Sillam-Dussès,
+Nan-Yao Su, Gaku Tokuda, Edward L. Vargo, Jessica L. Ware, Jan Sobotník, Rudolf H.
+Scheffrahn, Eliana Cancello, Yves Roisin, Michael S. Engel, Thomas Bourguignon*
+* Correspondence: simon.hellemans@gmail.com; Thomas.Bourguignon@oist.jp
+
+Content of Electronic Supplementary Information
+
+                                                                                     (Available in this PDF file)
+Supplementary Note 1: Diagnoses for all families of Neoisoptera, updated from Krishna et al.1.
+Supplementary Note 2: Key to extant families and subfamilies of Isoptera.
+Supplementary Note 3: Key to subfamilies of Termitidae, revised from Krishna et al.1.
+Supplementary Note 4: List of currently recognized genera of extant Isoptera.
+Supplementary Figures 1-18: Diagnostic features for each subfamily of Termitidae.
+Supplementary References
+
+                                                                                                                    1
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Information
+
+Supplementary Note 1: Diagnoses for all families in Neoisoptera, updated from Krishna et al.1.
+The descriptions are given following the order of the phylogenetic tree in Figure 1 of the main
+manuscript. Descriptions of imago-worker mandibles follow Sands2, while the ones of worker
+digestive tube follow Noirot3,4.
+
+Clade Neoisoptera Engel, Grimaldi, & Krishna
+This monophyletic clade includes the families Stylotermitidae, Serritermitidae, Rhinotermitidae
+sensu novo, Termitogetonidae, Psammotermitidae, Heterotermitidae, and Termitidae. The most
+defining features of members in this lineage are the presence of a fontanelle (aperture of the frontal
+gland) on the frons and the absence of arolium between the pretarsal claws.
+
+Family Stylotermitidae Holmgren & Holmgren
+Stylotermitinae Holmgren & Holmgren, 1917: 141. Type genus: Stylotermes Holmgren &
+
+         Holmgren, 1917.
+         Included genera (3): Parastylotermes Snyder & Emerson, Prostylotermes Engel &
+Grimaldi, and Stylotermes Holmgren & Holmgren.
+         Diagnosis (modified after Krishna et al.1): Termites with pseudergates (without a true
+worker caste); endosymbiotic protists present; comparatively small colonies, with a relatively
+diffuse nest, in living and partially dead trees.
+Imago. Head nearly circular; fontanelle exceptionally small, sometimes not visible; compound
+eyes small- to medium-sized; ocelli present; antennae with 16-22 articles; postclypeus quite short,
+faintly arched; pronotum flat. Imago-worker mandibles: left with one apical tooth (LAt) and three
+marginal teeth (LMt), second marginal tooth (LMt2) exceptionally small, shorter than first
+marginal (LMt1) or apical tooth (LAt); right with an apical tooth (RAt) and two marginal teeth
+(RMt), subsidiary tooth present at base of apical (RAt) and first marginal tooth (RMt1). Legs: tarsi
+trimerous; tibial spur formula 3:2:2 (Stylotermes) or 2:2:2 (Parastylotermes, Prostylotermes).
+Cerci dimerous. Sternal gland: one gland on sternum V. Wings reticulate, membrane without setae.
+Forewing scale not overlapping hindwing scale, almost touching margin of hindwing scale; all
+veins arising independently from inside scale; costa fused with Sc, C+Sc running along entire
+anterior margin of wing; Rs sclerotized, running close to costal margin; M present, weak, running
+closer to Cu than to Rs, typically simple and ending near wing apex; Cu weak, extending near to
+wing apex, with several branches extending to posterior margin; anal vein absent. Hindwing: C+Sc
+and Rs as in forewing; M arising from Rs immediately outside wing scale; Cu as in forewing.
+Soldier. Head long and narrow; mandibles saber-shaped, with one or two, minute, toothlike
+crenulations at base; fontanelle small; mandibles without prominent teeth, crenulations at inner
+basal region; antennae with 13-19 articles; pronotum flat.
+Pseudergate (true worker caste absent). Gut: esophagus distinct from the crop (as opposed to
+broadening into the crop as in Mastotermitidae, Teletisoptera, Serritermitidae, or Kalotermitidae);
+crop short, as in other Neoisoptera excluding Termitidae, ovoid or subspherical, asymmetrical,
+with muscle sheath strongly reduced (as in Serritermitidae, Rhinotermitidae, Termitogetonidae,
+Psammotermitidae, and Geoisoptera --defined below), cuticle with microsculptures (furrows and
+striations); gizzard elongated, nearly cylindrical, strongly muscular, with chitinized armature, folds
+divided into columns (sclerotized, with scaly surfaces) and pulvilli (non-sclerotized), columns I
+and II elongated, their length equal to that of pulvilli I, pulvilli II reduced, teeth in columns I and
+
+                                                                                                                    2
+                                   SUPPLEMENTARY INFORMATION
+
+II; stomodeal valve long, cuticle with longitudinal striations (as in Serritermitidae,
+Rhinotermitidae, Termitogetonidae, Psammotermitidae, and Geoisoptera --defined below);
+midgut or mesenteron short, cylindrical, forming an anticlockwise, circular ring, first dorsally, then
+ventrally under gizzard, ending in hindgut, ring diameter narrow (as in Serritermitidae,
+Rhinotermitidae, Termitogetonidae, Psammotermitidae, and Heterotermitidae), no mixed
+segment, no anterior caecum at gizzard-midgut junction; Malpighian tubules 8, inserted at midgut-
+hindgut junction, long, following a tortuous course around gut; hindgut with first proctodeal
+segment (ileum; P1) short, narrow at base, well invaginated in paunch (P3); enteric valve (P2)
+wider than P1, cylindrical, enlarged posteriorly, cushions extending the entire length of P1 and P2
+(as in Kalotermitidae, Rhinotermitidae, Termitogetonidae, Psammotermitidae, and
+Heterotermitidae, and likely symplesiomorphic for Icoisoptera), cuticular armature of cushions
+generally well-developed, cushion I on P2 more developed than that on P1; P3 dilated, containing
+symbiotic flagellates; P3-P4 loop untwisted (as in Kalotermitidae, Rhinotermitidae,
+Termitogetonidae, Psammotermitidae, and Heterotermitidae, and likely symplesiomorphic for
+Icoisoptera); colon (P4) a long tube, with an exceptionally short muscular rectal valve with folds
+near the junction with the rectum (P5), armature of valve reduced; P5 dilated.
+
+         Remarks: This group was long considered a subfamily of Rhinotermitidae. Engel et al.5
+elevated the lineage to family rank based on a phylogenetic analysis of morphological data from
+representative living and fossil termites, a decision confirmed with mitogenome sequencing by
+Wu et al.6; as well as in Bucek et al.7 and Hellemans et al.8 from transcriptomes and UCEs,
+respectively.
+
+Family Serritermitidae Holmgren
+Serritermitinae Holmgren, 1910: 285. Type genus: Serritermes Wasmann, 1897.
+Glossotermitinae Cancello & DeSouza, 2005: 35. Type genus: Glossotermes Emerson, 1950.
+
+         Included genera (2): Glossotermes Emerson and Serritermes Wasmann.
+         Diagnosis (modified after Krishna et al.1): Termites with pseudergates (without a true
+worker caste); endosymbiotic protists present.
+Imago. Fontanelle present, medium-sized; compound eyes medium-sized; Y-shaped ecdysial scar
+present; ocelli present; pronotum flat, narrower than head; antenna with 11-14 articles (13-14 in
+Serritermes; 11-13 in Glossotermes); postclypeus large, long, strongly arched, slightly shorter
+than half its width. Imago-worker mandibles: each with large apical tooth (At), marginal tooth
+(Mt) widely separated from apical tooth (At); left with one (Serritermes) or two (Glossotermes)
+marginal teeth (LMt), molar plate with ridges and toothlike projection at apical end; right with one
+marginal tooth (RMt), molar plate with ridges and toothlike projection at apical end. Legs: tarsi
+tetramerous; tibial spur formula 2:2:2; arolium absent. Cerci dimerous, styli absent in both sexes.
+Sternal gland: one gland on sternum V. Wings reticulate, without setae. Forewing: scale large,
+extending almost to base of hindwing scale, but not overlapping; Sc and R present; Rs sclerotized,
+running parallel and close to costal margin; M indistinct, possibly coalesced with Cu; Cu arising
+independently from inside wing scale (separating at suture), with 18-19 branches; anal vein absent.
+Hindwing: Sc, R, Rs, and Cu similar to forewing; M arising from Rs near suture.
+Soldier. Monomorphic. Head long, somewhat flat (Glossotermes) to thick (Serritermes), with
+curved sides. Fontanelle present, small, below vestigial compound eyes; fontanelle is a blind end,
+not connected to the frontal gland; frontal gland instead opening at dorsal cervix during autothysis9.
+Antennae with 12-15 articles (12-13 in Serritermes; 13-15 in Glossotermes). Labrum large,
+longer than wide, with sides rounded, tip hyaline. Labrum covering up well over half the length of
+
+                                                                                                                    3
+                                   SUPPLEMENTARY INFORMATION
+
+mandibles. Mandibles long, narrow, slightly (Glossotermes) to distinctly hooked (Serritermes) at
+tip; left mandible with inner margin with serrations of equal size, reaching almost to base
+(Serritermes) or fine serrations on apical half and coarser serrations proximally (Glossotermes),
+and a toothlike projection and a notch at base; right mandible with inner margin with serrations on
+apical half (Serritermes) or without serrations (Glossotermes) and a toothlike projection at base (+
+a notch at base in Glossotermes). Pronotum saddle-shaped, indented in front, frontal lobe large.
+Legs: tibial spur formula 2:2:2; arolium absent. Cerci dimerous.
+Pseudergate (true worker caste absent). Gut: esophagus broadening into the crop (while distinct
+in Rhinotermitidae, Termitogetonidae, Psammotermitidae, and Heterotermitidae); crop conical,
+reduced in size and musculature, with muscle sheath strongly reduced (as in Rhinotermitidae,
+Termitogetonidae, Psammotermitidae, and Geoisoptera), cuticle distinctly striated and with
+furrows; gizzard medium-sized, with reduced chitinized armature, columns I and II unsclerotized,
+without teeth, but with a few conical spines, pulvilli I about twice as long as columns, pulvilli II
+exceptionally reduced; stomodeal valve short (unique among non-termitids and a synapomorphy
+of family), cuticle with longitudinal striations (as in Rhinotermitidae, Termitogetonidae,
+Psammotermitidae, and Geoisoptera --defined below); midgut or mesenteron short, cylindrical,
+forming an anticlockwise, circular ring, first dorsally, then ventrally under gizzard, ending in
+hindgut, ring diameter narrow (as in Rhinotermitidae, Termitogetonidae, Psammotermitidae, and
+Heterotermitidae), no mixed segment, no anterior caecum at gizzard-midgut junction; Malpighian
+tubules 8, inserted at midgut-hindgut junction, long, following a tortuous course around gut;
+hindgut with P1 short, cylindrical, P1 and P2 poorly differentiated (characteristic of family), P2
+invaginated in P3, P1 with 6 faint cushions, nearly unarmed; P2 cone-shaped, shorter than P1, with
+6 short, prominent cushions, cuticle on cushions with tiny scales and short curved spines; P3
+strongly dilated, containing symbiotic flagellates; P3-P4 loop untwisted (as in Rhinotermitidae,
+Termitogetonidae, Psammotermitidae, and Heterotermitidae), P4 a long tube, with exceedingly
+short muscular rectal valve with folds near junction with P5, rectal valve armature without scales;
+P5 dilated.
+
+         Remarks: Serritermes is an obligatory inquiline of Cornitermes (Termitidae:
+Syntermitinae). We have maintained the current universal usage in retaining Serritermitidae as a
+distinct family, owing to key morphological differences --e.g., soldiers' labrum covering well
+over half the length of mandibles, defense by self-sacrifice through frontal gland autothysis;
+Imago/worker mandibles with distinct marginal tooth well separated from the apical one-- and
+biologies. Nonetheless, the option to unify Serritermitidae with Rhinotermitidae sensu novo (as
+defined below) should continue to be evaluated by future generations of termitologists.
+
+Family Rhinotermitidae Froggatt, sensu novo
+Rhinotermitinae Froggatt, 1897: 518. Type genus: Rhinotermes Hagen, 1858.
+
+         Included genera (5): Acorhinotermes Emerson, Dolichorhinotermes Snyder & Emerson,
+Parrhinotermes Holmgren, Rhinotermes Hagen, and Schedorhinotermes Silvestri
+(Macrorhinotermes Holmgren, syn. nov.).
+
+         Diagnosis: Termites with a true worker caste; endosymbiotic protists present; nests in
+rotten logs, fence posts, or trunks of dead or living trees, or in deserted mounds of other species;
+not known to build specific mounds of their own; pests of crops and timber.
+Imago. Head large, circular; fontanelle present, situated anteriorly, median groove running from
+fontanelle to clypeus; compound eyes large; ocelli present; antenna with 16-20 articles; Y-shaped
+ecdysial scar indistinct; inflated clypeus, slightly or not at all drawn out over the labrum --
+
+                                                                                                                    4
+                                   SUPPLEMENTARY INFORMATION
+
+reminescent of a "nose-like" projection; narrow medial groove running from the fontanelle to the
+anteclypeus. Pronotum rather flat (with anterior margin raised in the middle), slightly narrower
+than head. Imago-worker mandibles: left with an apical tooth (LAt) of varying size (e.g., LAt
+larger than LMt1 in S. lamanianus, S. reticulatus; of equal size in S. breinli; equal or subequal in
+species of Rhinotermes; E. Cancello, pers. obs.) followed by three (unequal) marginal teeth (LMt),
+second marginal (LMt2) shorter than first (LMt1); right with apical tooth (RAt) and two marginal
+teeth (RMt), subsidiary tooth present at base of RAt and RMt1. Legs: tibial spur formula 3:2:2
+(e.g., S. eleanorae, S. reticulatus) or 2:2:2 (e.g., R. nasutus) (E. Cancello, pers. obs.). Cerci
+dimerous, styli present in both sexes. Sternal gland: one gland, on sternum V. Wings reticulate,
+membrane with few setae. Forewing: scale large, overlapping hindwing scale; all veins arising
+independently from inside scale; C fused with Sc, C+Sc running along entire anterior margin of
+wing; Rs sclerotized, running close to C+Sc; M present, weak, running closer to Cu than to Rs,
+with branches extending to apex or posterior margin; Cu weak, with several branches extending to
+posterior margin; anal vein absent. Hindwing: C+Sc and Rs as in forewing; M arising from Rs,
+outside wing scale; Cu as in forewing.
+Soldier. Mono- (Acorhinotermes, Parrhinotermes), di- (Dolichorhinotermes, Rhinotermes,
+Schedorhinotermes) or tri-morphic (Schedorhinotermes part.; based on mandible-to-labrum length
+ratio). Head oval or roundish. Fontanelle not surrounded by setae, small, situated anteriorly, deep,
+narrow groove running from fontanelle to base of clypeus (some major soldiers) or to tip of labrum
+(minor soldier, some major soldiers) (chemical secretion of frontal gland flows from fontanelle
+through medial groove to apex of labrum). Labrum in minor soldier elongated, typically narrow,
+in major soldier shorter and broader; apex hyaline, with a "brush" at tip, widened apically in minor
+soldiers. Mandibles generally with teeth --except in Acorhinotermes, whose monomorphic
+soldiers have reduced mandibles; in polymorphic species: major soldier with teeth, minor soldier
+with teeth or reduced mandibles. Antenna with 13-19 articles. Pronotum flat. Legs: tibial spur
+formula 3:2:2 (e.g., S. eleanorae, S. reticulatus) or 2:2:2 (e.g., R. hispidus, R. marginalis, P.
+queenslandicus) (E. Cancello; R. Scheffrahn, pers. obs.).
+Worker (true worker caste present). Gut: esophagus distinct from the crop (as opposed to
+broadening into the crop as in Mastotermitidae, Teletisoptera, Serritermitidae, or Kalotermitidae);
+crop shorter than in Mastotermitidae, Teletisoptera, or Kalotermitidae, ovoid or subspherical,
+asymmetrical, with muscle sheath strongly reduced, as in Serritermitidae, Termitogetonidae,
+Psammotermitidae, and Geoisoptera, cuticle with microsculpturing (furrows and striations);
+gizzard elongate, nearly cylindrical, strongly muscular, with chitinized armature, folds divided into
+columns (sclerotized, with scaly surface) and pulvilli (non-sclerotized), columns I and II elongated,
+their length equal to that of pulvilli I, pulvilli II reduced, teeth in columns I and II varying with
+genera (in Rhinotermes no teeth, but cuticle thickened and sclerotized front to back); stomodeal
+valve long, cuticle with longitudinal striations (Serritermitidae, Termitogetonidae,
+Psammotermitidae, and Geoisoptera); midgut or mesenteron short, cylindrical, forming an
+anticlockwise, circular ring, first dorsally, then ventrally under gizzard, ending in hindgut, ring
+diameter narrow (as in Serritermitidae, Termitogetonidae, Psammotermitidae, and
+Heterotermitidae), no mixed segment, no anterior caecum at gizzard-midgut junction; Malpighian
+tubules 8, inserted at midgut-hindgut junction, long, following a tortuous course around gut;
+hindgut with P1 short, narrow at base, well invaginated in P3; P2 wider than P1, cylindrical,
+enlarged posteriorly, cushions extending the entire length of P1 and P2 (as in Kalotermitidae),
+cuticular armature of cushions generally well developed, cushion I on P2 more developed than that
+on P1, inner pointed tip of cushion I on P2 (= eschutcheon) varying in shape and armature, cushion
+
+                                                                                                                    5
+                                   SUPPLEMENTARY INFORMATION
+
+I on P1 rectangular, cushion II distinct in P1 and P2; P3 dilated, containing symbiotic flagellates;
+P3-P4 loop untwisted (as in Kalotermitidae, Serritermitidae, Termitogetonidae,
+Psammotermitidae, and Heterotermitidae), P4 a long tube, with an exceedingly short muscular
+rectal valve with folds near junction with P5, armature of valve reduced, epithelium smooth or
+with a few unsclerotized scales; P5 dilated.
+
+         Remarks: There is an interesting diversity of soldier morphologies among Rhinotermitidae
+depending on genera (see in the Diagnosis above), with one to three morphs originating from
+different larval instar. Some morphs are sometimes referred to as "nasutoid", owing to their long
+nasus-like labrum. Hence, the monomorphic soldiers of Acorhinotermes, along with the minor
+soldiers of Dolichorhinotermes, Rhinotermes, and Schedorhinotermes can be referred to as
+nasutoids --although minors of Schedorhinotermes do have functional biting mandibles. On the
+contrary, monomorphic soldiers of Parrhinotermes, as the major soldiers of Dolichorhinotermes,
+Rhinotermes, and Schedorhinotermes have functional mandibles. Most interestingly, in the few
+species of Dolichorhinotermes, Parrhinotermes, and Schedorhinotermes investigated so far, all
+soldiers and workers were found to be female. This suggests that sexual specialization of neuters
+might be an autapomorphy of the Rhinotermitidae sensu novo.
+
+Family Termitogetonidae Holmgren, stat. nov.
+Termitogetoninae Holmgren, 1910: 286. Type genus: Termitogeton Desneux, 1904.
+
+         Included genus: monogeneric.
+         Diagnosis: Termites with pseudergates (without a true worker caste); endosymbiotic
+protists present; nests in damp, decaying tree trunks and under bark (flattened body).
+Imago. Body densely setose, dorsoventrally flattened. Head subtriangular, dorsoventrally
+flattened, posterior margin sinuate. Y-shaped ecdysial scar partially visible; fontanelle present;
+compound eyes small; ocelli present; antenna with 15 articles; postclypeus short and flat; pronotum
+small, narrower than head, anterior margin projected medially. Imago-worker mandibles: left with
+an apical tooth (LAt) and three marginal teeth (LMt), second marginal (LMt2) longer than apical
+(LAt) or first marginal (LMt1); right with apical tooth (RAt) and two marginal teeth (RMt),
+subsidiary tooth present at base of RAt and RMt1. Legs: tibial spur formula 2:2:2. Cerci dimerous.
+Sternal gland: one gland, on sternum V. Wings: reticulate, membrane densely setose. Forewing:
+scale not overlapping hindwing scale, just reaching its anterior tip (as in Psammotermitidae); all
+veins arising independently from inside scale; C fused with Sc, C+Sc running along entire anterior
+margin of wing; Rs sclerotized, running close to C+Sc; M absent or indistinct (spectral), running
+closer to Cu than to Rs; Cu weak, with several branches extending to posterior margin; anal vein
+absent. Hindwing: C+Sc and Rs as in forewing; M present but weak, arising from Rs, outside wing
+scale; Cu as in forewing.
+Soldier. Body densely setose and dorsoventrally flattened as in imago. Head triangular, flattened
+dorsoventrally, posterior margin strongly sinuate, with medial projection; fontanelle small;
+mandibles elongated, without prominent teeth, small tooth and crenulations at basal region.
+Antenna with 13-15 articles. Pronotum flat, narrower than head, front margin with a medial
+projection. Legs: metacoxa incrassate, tibial spur formula 2:2:2, as in the imago.
+Pseudergate (true worker caste absent). Body as in the imago. gut: esophagus separated from
+crop (unlike Mastotermitidae, Teletisoptera, Serritermitidae, or Kalotermitidae); crop shorter than
+in Mastotermitidae, Teletisoptera, or Kalotermitidae, ovoid or subspherical, asymmetrical, with
+muscle sheath strongly reduced, as in Serritermitidae, Rhinotermitidae, Psammotermitidae, and
+Geoisoptera, cuticle with microsculptures (furrows and striations); gizzard elongated, nearly
+
+                                                                                                                    6
+                                   SUPPLEMENTARY INFORMATION
+
+cylindrical, strongly muscular, with chitinized armature, folds divided into columns (sclerotized,
+with scaly surface) and pulvilli (non-sclerotized), columns I and II elongated, their length equal to
+that of pulvilli I, pulvilli II reduced, teeth in columns I and II without sclerotization; stomodeal
+valve long, cuticle with longitudinal striations (Serritermitidae, Rhinotermitidae,
+Psammotermitidae, and Geoisoptera); midgut or mesenteron short, cylindrical, forming an
+anticlockwise, circular ring, first dorsally, then ventrally under gizzard, ending in hindgut, ring
+diameter narrow (as in Serritermitidae, Termitogetonidae, Psammotermitidae, and
+Heterotermitidae), no mixed segment, no anterior caecum at gizzard-midgut junction; Malpighian
+tubules 8, inserted at midgut-hindgut junction, long, following a tortuous course around gut;
+hindgut with P1 short, narrow at base, well invaginated in P3; P2 wider than P1, cylindrical,
+enlarged posteriorly, cushions extending the entire length of P1 and P2 (as in Kalotermitidae),
+cuticular armature of cushions generally well developed, cushion I on P2 more developed than that
+on P1, inner pointed tip of cushion I on P2 (= eschutcheon) varying in shape and armature, cushion
+I on P1 rectangular, cushion II distinct in P1, generally indistinct in P2; P3 dilated, containing
+symbiotic flagellates; P3-P4 loop untwisted (as in Kalotermitidae, Serritermitidae,
+Termitogetonidae, Psammotermitidae, and Heterotermitidae), P4 a long tube, with an exceedingly
+short muscular rectal valve with folds near junction with P5, armature of valve reduced, epithelium
+smooth or with a few unsclerotized scales; P5 dilated.
+
+         Remark: Termitogeton is a genus of wood-feeding termites known from the Oriental and
+Papuan realms.
+
+Family Psammotermitidae Holmgren, stat. nov.
+Diagnosis: Termites without a true worker caste; endosymbiotic protists present.
+Imago. Head variable, nearly flat (Psammotermes) to roundish or oval (Prorhinotermes);
+fontanelle present, in middle of head, with weak groove running from fontanelle to clypeus in
+Prorhinotermes; compound eyes typically small, sometimes medium-sized (in some
+Prorhinotermes); ocelli present; antenna with 15-22 articles. Imago-worker mandibles: left with
+apical tooth (LAt) and three marginal teeth (LMt); right with apical tooth (RAt) and two marginal
+teeth (RMt), subsidiary tooth present at base of RAt and RMt1. Pronotum flat, narrower than head.
+Legs: tibial spur formula 3:2:2 (but 2:2:2 in the extinct Zophotermes); tarsi tetramerous; arolium
+absent. Cerci dimerous. Sternal gland: one gland, on sternum V. Forewing: C fused with Sc, C+Sc
+running along entire anterior margin of wing; Rs sclerotized, running close to C+Sc; M weak,
+sometimes absent, when present arising from Cu outside of wing scale, running closer to Cu than
+to Rs, typically simple or incomplete; Cu weak, with several branches extending to posterior
+margin; anal vein absent. Hindwing: C+Sc and Rs as in forewing; Cu as in forewing.
+Soldier. Polymorphic, due to their differentiation from the second larval instars onward. Pronotum
+flat. Legs: tibial spur formula as in the imago, 3:2:2. Cerci dimerous.
+Pseudergate. Gut: esophagus distinct from the crop (as opposed to broadening into the crop as in
+Mastotermitidae, Teletisoptera, Serritermitidae, or Kalotermitidae); crop shorter than in
+Mastotermitidae, Teletisoptera, or Kalotermitidae, ovoid or subspherical, asymmetrical, with
+muscle sheath strongly reduced, as in Serritermitidae and Termitidae, cuticle with microsculptures
+(furrows and striations); gizzard elongated, nearly cylindrical, strongly muscular, with chitinized
+armature, folds divided into columns (sclerotized, with scaly surface) and pulvilli (non-
+sclerotized), columns I and II elongated, their length equal to that of pulvilli I, pulvilli II reduced,
+teeth in columns I and II varying with genera (in Prorhinotermes teeth conspicuous but not
+prominent, longer in II than I; in Psammotermes teeth absent, but cuticle thickened and sclerotized
+
+                                                                                                                    7
+                                   SUPPLEMENTARY INFORMATION
+
+front to back); stomodeal valve long, cuticle with longitudinal striations (Serritermitidae,
+Termitogetonidae, and Geoisoptera); midgut or mesenteron short, cylindrical, forming an
+anticlockwise, circular ring, first dorsally, then ventrally under gizzard, ending in hindgut, ring
+diameter narrow (as in Serritermitidae, Rhinotermitidae, Termitogetonidae, and Heterotermitidae),
+no mixed segment, no anterior caecum at gizzard-midgut junction; Malpighian tubules 8, inserted
+at midgut-hindgut junction, long, following a tortuous course around gut; hindgut with P1 short,
+narrow at base, well invaginated in P3; P2 wider than P1, cylindrical, enlarged posteriorly,
+cushions extending the entire length of P1 and P2 (as in Kalotermitidae), cuticular armature of
+cushions generally well developed, cushion I on P2 more developed than that on P1, inner pointed
+tip of cushion I on P2 (= eschutcheon), cushion I on P1 rectangular, cushion II distinct in P1,
+generally indistinct in P2; P3 dilated, containing symbiotic flagellates; P3-P4 loop untwisted (as
+in Kalotermitidae, Serritermitidae, Rhinotermitidae, Termitogetonidae, and Heterotermitidae), P4
+a long tube, with an exceptionally short muscular rectal valve with folds near junction with P5,
+armature of valve reduced, epithelium smooth or with a few unsclerotized scales; P5 dilated.
+Nymphs. Wing buds terminally fused, forming two shield-like structures on meso- and meta-
+thorax10,11.
+
+         Remarks: Given the rather dramatic phenotypic differences between Psammotermes,
+Prorhinotermes, and Zophotermes, the latter can be considered as a distinct subfamily within
+Psammotermitidae.
+
+Subfamily Psammotermitinae Holmgren
+Psammotermitinae Holmgren, 1911: 64. Type genus: Psammotermes Desneux, 1902.
+
+         Included genera: monogeneric.
+         Diagnosis: Termites with pseudergates; endosymbiotic protists present; subterranean nests
+in sandy soil in arid regions; some pest species.
+Imago. Head nearly flat; Y-suture not visible; fontanelle prominent; eyes small; antennae with 15-
+17 articles; postclypeus narrow, convex. Imago-worker mandibles: LAt >> LMt1 << LMt2 = LMt3,
+with LMt2 subequal to LAt. Styli in male only. Wings: membrane transparent, anterior margin
+without setae; forewing scale not overlapping hindwing scale, almost as long as hindwing scale;
+M, when present, arising proximally from Cu; hindwing M arising from within wing scale.
+Soldier. Mono- or poly-morphic; head flat, almost rectangular; fontanelle small to fairly
+prominent. Mandibles slightly hooked at tip, inner margin with 5-9 marginal teeth or large number
+of prominent, variable serrations. Antenna with 12-17 articles.
+
+Subfamily Prorhinotermitinae Quennedey & Deligne
+Prorhinotermitinae Quennedey & Deligne, 1975: 265. Type genus: Prorhinotermes Silvestri,
+
+         1909.
+         Included genera (2): Prorhinotermes Silvestri and Zophotermes Engel.
+         Diagnosis: True worker caste absent; endosymbiotic protists present; nests in decaying and
+dead trees, stumps, logs, or damp, decaying wood, with no connection to soil; some pest species.
+Imago. Head roundish to oval; eyes small to medium sized; antennae with 17-22 articles;
+postclypeus short relative to width, moderately arched. Imago-worker mandibles: LAt >> LMt1
+<< LMt2 < LMt3, with LMt2 roughly the same size as LAt. Wings: membrane with few setae;
+forewing scale overlapping hindwing scale; forewing M, when present, arising from Cu outside
+wing scale near or beyond wing midlength; hindwing M also arising from Cu or from Rs (as in
+Rhinotermitidae, Termitogetonidae, and Heterotermitidae).
+
+                                                                                                                    8
+                                   SUPPLEMENTARY INFORMATION
+
+Soldier. Dimorphic; head with sides rounded; fontanelle small, situated slightly beyond middle of
+head, groove present from fontanelle to clypeus; labrum without brush at tip; mandibles without
+teeth; antennae with 15-19 articles.
+
+         Remarks: The distribution of Prorhinotermes is mostly insular, with species rarely
+occurring on the mainland. This distribution, as their resistance to salinity12, has fueled speculation
+that colonies can be transported in driftwood by ocean currents, thus accounting for such a wide
+distribution on islands of the South Pacific.
+
+Clade Geoisoptera Engel, Hellemans, & Bourguignon, nov.
+
+Family Heterotermitidae Froggatt, stat. nov.
+Heterotermitinae Froggatt, 1897: 550. Type genus: Heterotermes Froggatt, 1897.
+Leucotermitinae Holmgren, 1910: 285. Type genus: Leucotermes Silvestri, 1901 [= Heterotermes
+
+         Froggatt, 1897].
+Coptotermitinae Holmgren, 1910: 285. Type genus: Coptotermes Wasmann, 1896. Syn. nov.
+Arrhinotermitinae Sjöstedt, 1926: 8. Type genus: Arrhinotermes Wasmann, 1902 [= Coptotermes
+
+         Wasmann]. Syn. nov.
+         Included genera (5): Coptotermes Wasmann, Heterotermes Froggatt (= Lukotermes
+Perkovsky & Nel, syn. nov.), Reticulitermes Holmgren.
+         Diagnosis: Termites with a true worker caste present; endosymbiotic protists present;
+subterranean, with no discrete nests (except for a few mound-building Coptotermes from
+Australia), in soil, colonies also in rotten logs or stumps of dead wood in contact with soil, or
+within hollow trees they fill with soft carton deposits (Coptotermes); some colonies found in
+mounds of other termites (Heterotermes); many serious pest species (particularly Coptotermes),
+and introduced to several areas of the world.
+Imago. Head: sides parallel below compound eyes (Heterotermes and Reticulitermes) or almost
+semicircular (Coptotermes); Y-shaped ecdysial scar distinct or indistinct (Coptotermes); fontanelle
+exceptionally small, in middle of head; compound eyes small (Heterotermes and Reticulitermes)
+or medium-sized (Coptotermes); ocelli present, typically quite small, at times almost indistinct;
+antenna with 12-19 articles (Heterotermes and Reticulitermes) or 15-23 articles (Coptotermes);
+postclypeus flat to weakly arched, shorter than half its width, never with elongate, grooved
+projection (as present in Rhinotermitidae), although with a weak median groove in Coptotermes;
+pronotum flat, slightly narrower than head, without median projection on anterior margin. Imago-
+worker mandibles: left with apical tooth (LAt) and three marginal teeth (LMt), first marginal tooth
+(LMt1) equal to (Reticulitermes) or shorter (Heterotermes) apical tooth (LAt), sometimes LMt1
+also shorter than LMt2 and LMt3 (Coptotermes); right with apical tooth (RAt) and two marginal
+teeth (RMt), subsidiary tooth present at base of RAt and RMt1. Legs: tarsi tetramerous; tibial spur
+formula 3:2:2. Cerci dimerous, styli only in male. Sternal gland: one gland, on sternum V. Wings
+reticulate, densely setose (Coptotermes) or with few setae on membrane (Heterotermes and
+Reticulitermes). Forewing: scale large, overlapping hindwing scale; all veins arising independently
+from inside scale; C fused with Sc, C+Sc running along entire anterior margin of wing; Rs
+sclerotized, running close to C+Sc; M present, weak, sometimes almost spectral, running closer to
+Cu than to Rs, with branches extending to apex or posterior margin; Cu weak, with several
+branches extending to posterior margin; anal vein absent. Hindwing: C+Sc and Rs as in forewing;
+M arising from Rs, outside wing scale; Cu as in forewing.
+
+                                                                                                                    9
+                                   SUPPLEMENTARY INFORMATION
+
+Soldier. Head long and narrow, with parallel sides (Heterotermes and Reticulitermes) to pear-
+shaped (Coptotermes), frons strongly inclined, with or without dorsolateral protuberances;
+fontanelle surrounded by setae, small (Heterotermes and Reticulitermes) to a prominent, large,
+roundish, opening in front at base of clypeus (Coptotermes). Mandibles long, katana-shaped,
+without teeth; left with a large basal projection and four to several serrations apical to it; right with
+one or two minute serrations (Heterotermes and Reticulitermes) or without serrations
+(Coptotermes). Antenna with 12-19 articles (Heterotermes and Reticulitermes) or 13-17 articles
+(Coptotermes). Labrum with tip pointed, needlelike, or blunt. Pronotum flat or faintly convex,
+narrower than head, with anterior margin slightly raised in Coptotermes. Legs: tibial spur formula
+as in the imago. Cerci as in the imago.
+Worker. Gut: esophagus distinct from the crop (as opposed to broadening into the crop as in
+Mastotermitidae, Teletisoptera, Serritermitidae, and Kalotermitidae); crop shorter than in
+Mastotermitidae, Teletisoptera, and Kalotermitidae, ovoid or subspherical, asymmetrical, with
+muscle sheath strongly reduced (as in Neoisoptera excluding Stylotermitidae), cuticle with
+microsculptures (furrows and striations); gizzard elongated, nearly cylindrical, strongly muscular,
+with chitinized armature, folds divided into columns (sclerotized, with scaly surface) and pulvilli
+(non-sclerotized), columns I and II elongate, their length equal to that of pulvilli I, pulvilli II
+reduced, teeth in columns I and II varying with genera (in Reticulitermes teeth conspicuous but
+not prominent, longer in I than II, in Coptotermes and Heterotermes no teeth, but cuticle thickened
+and sclerotized front to back); stomodeal valve long, cuticle with longitudinal striations (as in
+Neoisoptera excluding Stylotermitidae); midgut or mesenteron short, cylindrical, forming an
+anticlockwise, circular ring, first dorsally, then ventrally under gizzard, ending in hindgut, ring
+diameter narrow (as in Neoisoptera excluding Stylotermitidae and Termitidae), no mixed segment,
+no anterior caecum at gizzard-midgut junction; Malpighian tubules 8, inserted at midgut-hindgut
+junction, long, following a tortuous course around gut; hindgut with P1 short, narrow at base, well
+invaginated in P3; P2 wider than P1, cylindrical, enlarged posteriorly, cushions extending entire
+length of P1 and P2 (as in Kalotermitidae), cuticular armature of cushions generally well
+developed, cushion I on P2 more developed than that on P1, inner pointed tip of cushion I on P2
+(= eschutcheon), cushion I on P1 rectangular, cushion II distinct in P1 and P2; P3 dilated,
+containing symbiotic flagellates; P3-P4 loop untwisted (as in Kalotermitidae and all Neoisoptera
+excluding Stylotermitidae and Termitidae), P4 a long tube, with an exceedingly short muscular
+rectal valve with folds near junction with P5, armature of valve reduced, epithelium smooth or
+with a few unsclerotized scales; P5 dilated.
+
+         Remarks: Some distinctions among the constituent genera include: head round in
+Coptotermes and oval with even posterior margin in Heterotermes and Reticulitermes. Soldiers of
+Coptotermes have a pear-shaped head with a large fontanelle directed forward and, when active,
+oozing white latex. Conversely, soldiers of Heterotermes and Reticulitermes have a rectangular
+head with a small, almost indistinct, fontanelle. Note that the fossil genus Lukotermes is a
+synonym of Heterotermes as evidenced by the characteristic dorsolateral protuberances found in
+some soldiers and in brachypterous neotenics, as is the case in the fossil. There remains an issue
+of paraphyly for Heterotermes as traditionally circumscribed, which will be addressed in the near
+future. Some species exhibit slightly dimorphic soldiers13.
+
+                                                                                                                   10
+                                   SUPPLEMENTARY INFORMATION
+
+Family Termitidae Latreille
+         Diagnosis: Termites with a true worker caste; endosymbiotic protists absent, loss of
+
+proctodeal feeding.
+Imago. Fontanelle present; Y-shaped ecdysial scar present or absent; compound eyes small to
+large; ocelli present; antennae with 14-23 antennomeres; postclypeus short to long, generally
+arched. Pronotum trapezoidal or sub-semicircular, slightly raised anteriorly; sometimes referred to
+as "somewhat saddle-shaped" by some authors in certain genera (e.g., Emerson14). Imago-worker
+mandibles with apical tooth (At) and two marginal teeth (Mt), except in some Termitinae
+(Cavitermes), Crepititermitinae, and Nasutitermitinae (Mimeutermes); left mandible with apical
+tooth (LAt) shorter or longer than fused first plus second marginal tooth (LMt1+2), third (LMt3)
+sometimes greatly reduced and represented as a rounded edge (Amitermitinae: Amitermes,
+Drepanotermes); right mandible with two marginal teeth (RMt), second marginal (RMt2) reduced
+or absent (Apicotermitinae: Jugositermes; Cubitermitinae: Euchilotermes; Termitinae:
+Tuberculitermes and Spinitermes). Legs: tarsi tetramerous; tibial spur formula 3:2:2 or 2:2:2,
+mesotibia sometimes with additional spines. Cerci dimerous; styli present or absent. Forewing
+scale short, not overlapping hindwing scale; wing membranes weakly or not reticulated; venation
+as in Rhinotermitidae.
+Soldier. Caste absent (Protohamitermitinae, most Apicotermitinae, Amitermitinae: Invasitermes)
+or present; head shape variable; monomorphic, dimorphic, or trimorphic; fontanelle present or
+rarely absent (e.g., several Apicotermitinae; Amitermitinae: Dentispicotermes, Globitermes;
+Bordereau et al.15; Palma-Onetto16; E. Cancello, pers. obs.); mandibles variable, short and stout,
+long and slender, or completely reduced as stubs (Nasutitermitinae), with or without teeth; biting
+or snapping type (symmetrical or asymmetrical). Antennae with 11-20 antennomeres. Pronotum
+saddle-shaped, narrower than head (or subequal to larger in Apicotermitinae: Machadotermes,
+Cubitermitinae: Thoracotermes), anterior margin bilobed.
+Worker (true worker caste). Crop musculature greatly reduced; gizzard either regressed (without
+columnar region, in Apicotermitinae, Cubitermitinae and Engelitermitinae), or complete; gizzard
+without sclerotized tooth on columns I and II (unique to Termitidae); stomodeal valve with thin
+striations; midgut without caecum; four Malpighian tubules (two in Apicotermitinae:
+Labidotermes); no limiting groove between P1 and P2; enteric valve armature within lumen of
+valve or everted into P3.
+
+        Remarks: Termitid termites can be assigned to each of the 18 subfamilies using a
+combination of criteria from their imago, soldier and worker (see identification key in
+Supplementary Note 3). Imago-worker mandibles are most suggestive of their diet, of grinding
+type in wood-feeders and pounding type in soil-feeders17. However, they can also be of great
+taxonomic value, as extensively put forward by Ahmad18.
+
+        Assignment to a subfamily can be ascertained from the general conformation of workers'
+digestive tube (see synthesis presented in Figure 3 in the main text; and Supplementary Figs. 1-
+18). One important criterion is the occurrence of a mixed segment (the extension of the mesenteron
+over P1), generally present, but absent in Engelitermitinae, Foraminitermitinae,
+Forficulitermitinae, Macrotermitinae, Sphaerotermitinae; or either present or absent depending on
+the species in Apicotermitinae and Nasutitermitinae. The junction between the mesenteron and P1
+occurs ventrally and is elbowed (forming an acute angle) in both Microcerotermitinae and
+Neocapritermitinae (Supplementary Figs. 10d,f and 13c), while it is arched (or forming a right or
+obtuse angle) in other subfamilies. The shape of P1, although not synapomorphic for any
+subfamily, provides additional guidance. In Crepititermitinae, Cylindrotermitinae,
+
+                                                                                                                   11
+                                   SUPPLEMENTARY INFORMATION
+
+Engelitermitinae, Forficulitermitinae, Macrotermitinae, Nasutitermitinae, Protohamitermitinae
+and Sphaerotermitinae, P1 is always tubular, with a caliber not much different from the
+mesenteron. In other subfamilies, the caliber varies depending on the species: it can be tubular or
+dilated, reaching a volume equal to or greater than that of the paunch.
+
+        One other main criterion is the insertion of P2 into P3 (i.e., the enteric valve position),
+which is generally on the left side of the abdomen, but occurs on the right side in Amitermitinae,
+Cylindrotermitinae, Promirotermitinae and Protohamitermitinae; or on either side depending on
+species in Apicotermitinae and Nasutitermitinae. The enteric valve armature is generally of interest
+for species determination, although it may be of value for assigning them into their subfamily as
+well. For example, the valve of Foraminitermitinae is unarmed (Supplementary Fig. 7); the one of
+Mirocapritermitinae is formed of six folds (Supplementary Fig. 11), while the one of
+Neocapritermitinae exhibits only three folds (Supplementary Fig. 13).
+
+        Although arduous to observe, the insertion of the Malpighian tubules is relevant
+phylogenetically4. The four tubules are inserted equidistantly around the junction between the
+mesenteron and P1 in Macrotermitinae (see Supplementary Fig. 9d,e) and Sphaerotermitinae. In
+the Apicotermitinae, the tubules are located at the middle of the mesenteric tissue. In the other
+subfamilies, the tubules are united either in two pairs, or all four are (nearly-)united, at the
+boundary between the mesenteric tissue and the foregut. Of note, the Malpighian tubules of
+termitid termites are generally tangled in a "knot" sensu Sands2 (Supplementary Fig. 17h). Such
+knot is absent in Macrotermitinae and Sphaerotermitinae, while a pseudo-Malpighian knot occurs
+in Foraminitermitinae (Supplementary Fig. 7d).
+
+        The occurrence of diverticulum or nodules is of peculiar taxonomic value. Both the
+Cubitermitinae and Crepititermitinae exhibit a characteristic diverticulum on P3 (Supplementary
+Figs. 3-4). The presence of a Malpighian nodule in Cubitermitinae and Termitinae may be
+considered as a synapomorphy, a feature which was secondarily lost in a few species of both
+subfamilies (e.g., Lophotermes; 19). This nodule has first been referred as such by Noirot &
+Kovoor20, as "Malpighian sac" by Bignell et al.21, or Malpighian "diverticulum" by Sands22. These
+nodules are distinct from "ampulla(e)", which are dilatation of the proximal part of the Malpighian
+tubules. For instance, Tuberculitermes (Termitinae) exhibits four Malpighian tubules: they are
+tubular throughout, or can each dilate proximally into an ampulla; the tubules are attached in pairs,
+each with a united base, attached on either a true diverticulum (i.e., the nodule) or not22. In
+Prohamitermes hosei (Amitermitinae), the tubules are not attached in pairs, and the four tubules
+each end into their own globular ampulla (Supplementary Fig. 1f); note, however, that these
+ampullae are referred to as "nodules" by Noirot4. On the other hand, Angulitermes
+(Promirotermitinae) either shows ampullae or none, and does not exhibit a nodule.
+
+        Diagnostic pictures of termite soldiers and enteric valve armatures are available at:
+https://www.termitediversity.org (Scheffrahn23).
+
+                                                                                                                   12
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Note 2: Key to extant families and subfamilies of Isoptera.
+Note that subfamilies of the more diverse Termitidae are keyed later under the account of that
+family (vide infra). Also, these keys are based on extant taxa only and will work for most, but not
+all, fossil genera as there are some extinct subfamilies that have additional character combinations
+that are not taken into account here (e.g., Idanotermitinae in Mastotermitidae, etc.). Thus, a fossil
+not keying out to a given family in these keys does not necessarily mean that it does not belong to
+one of these clades.
+
+Imagoes
+1. Tarsi tri-, tetra-, or indistinctly pentamerous; hindwing without anal lobe; ocelli present or
+
+         absent; occipital sulcus absent (at most represented by angulation or line); procoxa without
+         ventral carina ...................................................................................................................... 2
+-- Tarsi distinctly pentamerous; hindwing with anal lobe; ocelli present; occipital sulcus
+         present; procoxa with ventral carina ........................................................ Mastotermitidae
+2(1). Ocelli absent and left mandible with three marginal teeth (LMt); cerci mono- to octomerous
+         [Teletisoptera] ................................................................................................................... 3
+--. Ocelli present; or ocelli absent and left mandible with two marginal teeth (LMt); cerci
+         dimerous [Icoisoptera] ...................................................................................................... 7
+3(2). Arolium present; tarsi pentamerous, sometimes indistinctly ............................................. 4
+--. Arolium absent; tarsi tetra- or pentamerous ....................................................................... 5
+4(3). Right mandible with apical tooth (RAt) as long as or shorter than first marginal tooth
+         (RMt1) .................................................................................................... Hodotermopsidae
+--. Right mandible with apical tooth (RAt) longer than first marginal tooth
+         (RMt1) ................................................................................................... Archotermopsidae
+5(3). Antenna with less than 20 articles; tarsi tetra- or pentamerous; right mandible with
+         subsidiary tooth present [Stolotermitidae] ....................................................................... 6
+--. Antenna with more than 20 articles; tarsi tetramerous; right mandible with subsidiary tooth
+         absent ......................................................................................................... Hodotermitidae
+6(5). Tarsi tetramerous; femur incrassate; cerci tetra- or pentamerous; tibial spur formula 3:3:2
+         or 2:2:2 ....................................................................................................... Stolotermitinae
+--. Tarsi pentamerous; femur not incrassate; cerci pentamerous; tibial spur formula 3:3:3 or
+         3:3:4 ............................................................................................................ Porotermitinae
+7(2). Fontanelle present; tarsi tri- or tetramerous; arolium absent; left mandible variable
+         [Neoisoptera] ..................................................................................................................... 8
+--. Fontanelle absent; tarsi tetramerous; left mandible with two marginal teeth
+         (LMt) .......................................................................................................... Kalotermitidae
+8(7). Forewing scale distinctly overlapping hindwing scale (except in Psammotermitinae);
+         wings reticulate; pronotum flat .......................................................................................... 9
+--. Forewing scale not overlapping hindwing scale; wings not reticulate; pronotum saddle-
+         shaped ................................................................................................................ Termitidae
+9(8). Tarsi tetramerous ............................................................................................................. 10
+--. Tarsi trimerous ........................................................................................... Stylotermitidae
+10(9). Left mandible with apical tooth (LAt) short, followed by three distinct marginal teeth
+         (LMt) ................................................................................................................................ 11
+--. Left mandible with apical tooth (LAt) long, followed by one distinct marginal tooth
+         (LMt).......................................................................................................... Serritermitidae
+
+                                                                                                                   13
+                                   SUPPLEMENTARY INFORMATION
+
+11(10). Forewing with M (when present) and Cu diverging outside of wing scale
+         [Psammotermitidae] ....................................................................................................... 12
+
+--. Forewing with veins arising independently inside wing scale ......................................... 13
+12(11). Fore- and hind-wing scales of about same size, not overlapping; hindwing M arising from
+
+         Rs, or if from Cu, then inside wing scale; head without groove extending from fontanelle
+         to epistomal sulcus ............................................................................... Psammotermitinae
+--. Fore- and hind-wing scales of differing sizes, overlapping; hindwing M arising outside of
+         wing scale either from Cu or Rs; head with groove extending from fontanelle to epistomal
+         sulcus ................................................................................................... Prorhinotermitinae
+13(11). Postclypeus without noselike projection, without groove from fontanelle to tip of
+         labrum ............................................................................................................................... 14
+--. Postclypeus with noselike projection, with narrow groove from fontanelle to
+         clypeus ...................................................................................................... Rhinotermitidae
+14(13). Head flattened, subtriangular, posterior margin sinuate; anterior margin of pronotum with
+         medial projection; wings densely setose ............................................... Termitogetonidae
+--. Head not flattened, ovoid, posterior margin even; anterior margin of pronotum without
+         medial projection; wings sparsely setose ............................................... Heterotermitidae
+
+Soldiers
+1. Tarsi pentamerous, sometimes cryptically (i.e., tarsomere II sometimes reduced and only
+
+         visible ventrally) ................................................................................................................. 2
+--. Tarsi tri- or tetra-merous ..................................................................................................... 4
+2(1). Pronotum comparatively small, narrower than head, flat; cerci tetra- to octo-merous;
+
+         antenna with 19-27 articles ................................................................................................. 3
+--. Pronotum large, as wide as head, saddle-shaped; cerci tetramerous; antenna with 20-26
+
+         articles ...................................................................................................... Mastotermitidae
+3(2). All tibiae with lateral spines; posterior margin of head bilobed or evenly
+
+         curved ................................................................................................... Archotermopsidae
+--. Only metatibia with lateral spines, rarely mesotibia with one spine, protibia never with
+
+         lateral spines; posterior margin of head evenly curved ......................... Hodotermopsidae
+4(1). Head without fontanelle ...................................................................................................... 5
+--. Head with fontanelle [Neoisoptera] ................................................................................... 8
+5(4). Cerci long, mono- to penta-merous; antenna with 13-33 articles ...................................... 6
+--. Cerci short, dimerous; antenna with 10-21 articles ................................... Kalotermitidae
+6(5). Pronotum flat; head capsule somewhat or markedly flattened; metafemur incrassate; cerci
+
+         tetra- to penta-merous; antenna with 13-19 articles [Stolotermitidae] ............................. 7
+--. Pronotum weakly saddle-shaped (i.e., anterior lobe slightly raised); head not flattened;
+
+         metafemur not incrassate; cerci mono- to penta-merous; antenna with 22-33
+         articles ....................................................................................................... Hodotermitidae
+7(6). Mandible short, stout; head somewhat flattened; tibial spur formula variable:
+         (2/3):(2/3/4):3 ............................................................................................. Porotermitinae
+--. Mandible comparatively long, not stout; head markedly and distinctly flattened; tibial spur
+         formula 3:3:2 or 2:2:2 ................................................................................. Stolotermitinae
+8(7). Pronotum flat ...................................................................................................................... 9
+--. Pronotum notably saddle-shaped ....................................................................... Termitidae
+
+                                                                                                                   14
+                                   SUPPLEMENTARY INFORMATION
+
+9(8). Mandible without serrations along mesal margins, except sometimes a few at
+         base ................................................................................................................................... 10
+
+--. Mandible with serrations along entire mesal margins ................................. Serritermitidae
+10(9). Tarsi tetramerous .............................................................................................................. 11
+--. Tarsi trimerous ........................................................................................... Stylotermitidae
+11(10). Head with small fontanelle, away from base of clypeus ................................................... 12
+--. Head with large, rounded fontanelle at base of clypeus
+
+         [Coptotermes] ............................................................................. Heterotermitidae, partim
+12(11). Groove extending from fontanelle to base of clypeus ....................................................... 13
+--. Groove absent ................................................................................................................... 14
+13(12). Tip of labrum with brush; mandibles with prominent marginal teeth ........ Rhinotermitidae
+--. Tip of labrum without brush; mandibles without prominent marginal teeth
+
+         [Psammotermitidae, partim] ............................................................ Prorhinotermitinae
+14(12). Head with sides rounded .................................................................................................. 15
+--. Head with sides subparallel ....................................................... Heterotermitidae, partim
+15(14). Head subtriangular, flattened, posterior margin sinuate; mandibles without prominent
+
+         marginal teeth except as basal tooth a few crenulations; pronotum with anterior medial
+         projection ............................................................................................... Termitogetonidae
+--. Head subrectangular, posterior margin even; mandibles with prominent marginal teeth;
+         pronotum without anterior medial projection [Psammotermitidae,
+         partim] ................................................................................................. Psammotermitinae
+
+Workers
+1. Wing buds and compound eyes either both present or both absent .................................... 2
+--. Wing buds absent; compound eyes present .............................................. Hodotermitidae
+2(1). Pronotum flat or slightly saddle-shaped; Malpighian tubules 8 or more ............................ 3
+--. Pronotum distinctly saddle-shaped; Malpighian tubules 4 ............................... Termitidae
+3(2). Esophagus broadening into the crop ................................................................................... 4
+--. Esophagus fully or sometimes incompletely separated from crop ..................................... 9
+4(3). Right mandible without subsidiary tooth between RAt and RMt1; left mandible with first
+
+         two marginal teeth fused, as LMt1+2 ................................................................................... 5
+--. Right mandible with subsidiary tooth between RAt and RMt1; left mandible with first two
+
+         marginal distinct, as LMt1 and LMt2 ................................................................................... 6
+5(4). Tarsi distinctly pentamerous ..................................................................... Mastotermitidae
+--. Tarsi tetramerous ........................................................................................ Kalotermitidae
+6(5). Malpighian tubules 8 or 9 [Stolotermitidae] ..................................................................... 7
+--. Malpighian tubules 10 ......................................................................................................... 8
+7(6). Malpighian tubules 8 .................................................................................. Stolotermitinae
+--. Malpighian tubules 9 ................................................................................... Porotermitinae
+8(6). Right mandible with apical tooth (RAt) as long or slightly shorter than first marginal tooth
+
+         (RMt1); left mandible with apical tooth (LAt) shorter than first marginal tooth
+         (LMt1) .................................................................................................... Hodotermopsidae
+--. Right mandible with apical tooth (RAt) longer than first marginal tooth (RMt1); left
+         mandible with apical tooth (LAt) as long as or longer than first marginal tooth
+         (LMt1) ................................................................................................... Archotermopsidae
+9(3). Tarsi tetramerous .............................................................................................................. 10
+
+                                                                                                                   15
+                                   SUPPLEMENTARY INFORMATION
+--. Tarsi trimerous ........................................................................................... Stylotermitidae
+10(9). Left mandible with an apical tooth (LAt), followed by three distinct marginal teeth
+
+         (LMt) ................................................................................................................................ 11
+--. Left and right mandibles each with long apical tooth, followed by one distinct marginal
+
+         tooth ........................................................................................................... Serritermitidae
+11(10). Secondary cushions of enteric valve (P2) indistinct or scarcely distinct............................ 12
+--. Secondary cushions of enteric valve (P2) distinct ............................................................. 14
+12(11). Secondary cushions of ileum (P1) well-developed [Psammotermitidae] ....................... 13
+--. Secondary cushions of ileum (P1) narrowed .......................................... Termitogetonidae
+13(12). Sclerotized columns I and II of gizzard without teeth ........................... Psammotermitinae
+--. Sclerotized columns I and II of gizzard with conspicuous, but not prominent,
+
+         teeth ..................................................................................................... Prorhinotermitinae
+14(11). Anterior margin of postclypeus convex .................................................... Rhinotermitidae
+--. Anterior margin of postclypeus straight or concave ................................ Heterotermitidae
+
+                                                                                                                   16
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Note 3: Key to subfamilies of Termitidae, revised from Krishna et al.1.
+
+Imagoes/Workers & Soldiers
+1. Worker gut: mixed segment absent; mesenteron well developed (both in length and
+
+         diameter) visible in situ in dorsal view; mesentero-proctodeal junction with four lobes (less
+         evident in some species); Malpighian knot or pseudo-Malpighian knot
+         absent .................................................................................................................................. 2
+--. Worker gut: mixed segment present or absent; without conspicuous backward-oriented
+         bristles at paunch-colon (P3-P4) junction; Malpighian knot or pseudo-Malpighian knot
+         present ................................................................................................................................ 3
+2(1). Imago/worker: labrum with dark, sclerotized transverse band; left mandible with anterior
+         margin of third marginal tooth (LMt3) less than twice length of posterior
+         margin ...................................................................................................... Macrotermitinae
+--. Imago/worker1: labrum without dark, sclerotized transverse band; left mandible with
+         anterior margin of third marginal tooth (LMt3) twice or more length of posterior margin.
+         Worker gut: conspicuous backward-oriented bristles at paunch-colon (P3-P4)
+         junction ................................................................................................. Sphaerotermitinae
+3(2). Worker gut: P3b protruding portion at the dorsal region forming two loops, leaving the coil
+         by the middle; pseudo-Malpighian knot present; mixed segment absent; enteric valve (P2)
+         without spines ..................................................................................... Foraminitermitinae
+--. Worker gut: P3b protruding portion at the dorsal region straight backward or forming a
+         simple loop, leaving the coil bordering the mesenteron margin; Malpighian knot present;
+         mixed segment present or absent; enteric valve (P2) with or without spines ..................... 4
+4(3). Worker gut: gizzard without columnar belt (regressed type); mixed segment absent; P1
+         cylindrical, running with an elongated S shape along the left side of the abdomen; enteric
+         valve (P2) composed of six smooth elongate cushions, each bearing a terminal
+         spine ......................................................................................................... Engelitermitinae
+--. Worker gut: Gizzard with (generalized type) or without columnar belt (regressed type);
+         mixed segment present or absent; P1 shape variable; enteric valve (P2) variable ............. 5
+5(4). Imago/worker: left mandible with third marginal tooth (LMt3) without distinct notch or
+         indentation between third (LMt3) and fused first plus second marginal teeth (LMt1+2).
+         Imago: fontanelle slit-like, oval or round. Worker gut: mixed segment, when present,
+         located externally to the coil of the mesenteric arch ........................................................... 6
+--. Imago/worker: left mandible with third marginal tooth (LMt3) with distinct notch or
+         indentation between third (LMt3) and fused first plus second marginal teeth (LMt1+2).
+         Imago: fontanelle not slit-like, obscure, oval, or round. Worker gut: mixed segment, if
+         present, located internally to the coil of the mesenteric arch ...................... Apicotermitinae
+6(5). Worker gut: paunch (P3) with blind diverticulum or caecum (also in soldiers and
+         imagoes) ............................................................................................................................. 7
+--. Worker gut: paunch (P3) without blind diverticulum or caecum ....................................... 8
+7(6). Worker gut: gizzard without columnar belt (regressed type); caecum in a ventral position;
+         P1 inflated; enteric valve armature composed of six elongated cushions and six
+
+1 Some authors consider that the species of Sphaerotermitinae exhibit a "subsidiary tooth" at the base of the apical
+tooth on the right mandible. This "subsidiary tooth" is referred to as an "edge uniform at most slightly sinuate" by
+Sands (1998: 79).
+
+                                                                                                                   17
+            SUPPLEMENTARY INFORMATION
+
+intermediate cushions, smaller and with weaker armature; Malpighian nodule generally
+
+present (Ethiopian distribution) ................................................................. Cubitermitinae
+
+--. Worker gut: gizzard with columnar belt (generalized type); caecum visible in right lateral
+
+view, at the protruded region of P3; P1 tubular, enteric valve armature composed of six
+
+cushions,   without  intermediate  cushions;    (Neotropical
+
+distribution) ............................................................................................ Crepititermitinae
+
+8(6). Worker gut: double mixed segment present or absent; soldier (always present): frontal pore
+
+at apex of prominence or nasus ........................................................................................... 9
+
+--. Worker gut: double mixed segment absent; soldier (rarely absent): fontanelle at front of
+
+head or at base of frontal prominence (when present) ....................................................... 10
+
+9(8). Worker gut: double mixed segment present or absent; ileum (P1) dilated. Soldier:
+
+fontanelle  wide,    mandibles     functional.  (Neotropical
+
+distribution) .................................................................. Syntermitinae (incl. Genuotermes)
+
+--. Worker gut: double mixed segment absent; ileum (P1) tubular. Soldier: fontanelle narrow,
+
+mandibles vestigial. (Worldwide distribution) ......................................... Nasutitermitinae
+
+10(8). Worker gut: P1 tubular, long, forming a loop ventrally under P5; P1 inserted on P3 at right
+
+side of abdomen. Worker mandibles: molar region always with
+
+ridges ................................................................................................................................ 11
+
+--. Worker gut: P1 shape variable (tubular or inflated), without ventral loop; P1 insertion at
+
+P3 variable; enteric valve position at the right or left side of abdomen. Worker mandibles:
+
+molar region with or without ridges .................................................................................. 12
+
+11(10). Imago/worker: right mandible without subsidiary tooth at base of first marginal tooth
+
+(RMt1), second marginal tooth (RMt2) not as below. Soldier: present. Worker gut: P1
+
+inserted dorsally on P3, Ethiopian and Neotropical region ................... Cylindrotermitinae
+
+--. Imago/worker: right mandible with subsidiary tooth at base of first marginal tooth (RMt1),
+
+second marginal tooth (RMt2) well-developed, with anterior margin angular and posterior
+
+margin curved. Soldier: absent. Worker gut: P1 inserted ventro-posteriorly on P3. (Oriental
+
+distribution) ...................................................................................... Protohamitermitinae
+
+12(10). Worker gut: Malpighian nodule generally present, located internally to the mesenteric arch,
+
+at the insertion of Malpighian tubules. Soldier: frontal prominence well-developed or much
+
+reduced ............................................................................................................. Termitinae
+
+--. Worker gut: Malpighian nodule absent (ampulla sometimes present). Soldier:
+
+variable ............................................................................................................................. 13
+
+13(12). Worker gut: P1 insertion in P3 (enteric valve position) at the left side of abdomen ......... 14
+
+--. Worker gut: P1 insertion in P3 (enteric valve position) at the right side of abdomen ...... 15
+
+14(13). Worker gut: mixed segment absent. Soldier mandibles: not
+
+snapping ............................................................................................... Forficulitermitinae
+
+--. Worker gut: mixed segment present .................................................................................. 16
+
+15(13).Worker/Soldier gut: P1 inflated or tubular. Soldier mandibles: crushing, piercing, slashing
+
+or snapping symmetrical (*only Neotropical genera have snapping symmetrical soldier
+
+mandibles); soldier head pear-shaped, without frontal projection (except Eremotermes,
+
+Dentispicotermes), labrum rounded or with slightly pointed
+
+tips ............................................................................................................... Amitermitinae
+
+--. Worker/Soldier gut: P1 always inflated. Soldier: mandibles with symmetrical snapping,
+
+head with notable frontal hump or projection; labrum
+
+bifurcate ................................................................................................ Promirotermitinae
+
+                                                18
+                                   SUPPLEMENTARY INFORMATION
+16(14).Worker gut: junction between mixed segment and ileum (P1) constricted and elbowed
+
+        ventrally, forming an acute angle with forward-oriented vertex. Imago/worker: RMt2
+        forwardly-oriented, with elongate posterior margin; molar region with
+        ridges ................................................................................................................................ 17
+--. Worker gut: junction between mixed segment and ileum (P1) arched. Soldier: asymmetrical
+        snapping. Imago/worker: RMt2 with both margins of near-equal length, and posterior
+        margin slightly concave; molar region smooth or with very reduced ridges. (Distribution:
+        Australian, Afrotropical, Palearctic (Sino-Japanese), and Papuan
+        regions) .............................................................................................. Mirocapritermitinae
+17(16).Soldier mandibles: piercing (Onkotermes; Distribution: Neotropical), or slashing
+        (Microcerotermes; Distribution: Australian, Papuan, Oriental, Ethiopian, and Neotropical
+        regions).............................................................................................. Microcerotermitinae
+--. Soldier mandibles: asymmetrical, or nearly-symmetrical snapping. (Neotropical
+        distribution) ......................................................................................... Neocapritermitinae
+
+                                                                                                                   19
+                          SUPPLEMENTARY INFORMATION
+
+Supplementary Note 4: List of currently recognized genera of extant Isoptera.
+
+Mastotermitidae (n = 1)
+
+Mastotermes      Froggatt
+
+Hodotermitidae (n = 3)
+
+Anacanthotermes Jacobson
+
+Hodotermes       Hagen
+
+Microhodotermes Sjöstedt
+
+Archotermopsidae (n = 2)
+
+Archotermopsis   Desneux
+
+Zootermopsis     Emerson
+
+Hodotermopsidae (n = 1)
+
+Hodotermopsis    Holmgren
+
+Stolotermitidae (n = 2)
+Stolotermitidae: Porotermitinae
+
+Porotermes       Hagen
+
+Stolotermitidae: Stolotermitinae
+
+Stolotermes      Hagen
+
+Kalotermitidae (n = 23)
+
+Allotermes       Wasmann
+
+Bicornitermes    Krishna
+
+Bifiditermes     Krishna
+
+Calcaritermes    Snyder
+
+Ceratokalotermes Krishna
+
+Comatermes       Krishna
+
+Cryptotermes     Banks
+
+Epicalotermes    Silvestri
+
+Eucryptotermes   Holmgren
+
+Glyptotermes     Froggatt
+
+Incisitermes     Krishna
+
+Kalotermes       Hagen
+
+Longicaputermes Ghesini, Marini, & Simon
+
+Marginitermes    Krishna
+
+Neotermes        Holmgren
+
+Paraneotermes    Light
+
+Postelectrotermes Krishna
+
+Procryptotermes  Holmgren
+
+                                                                               20
+                          SUPPLEMENTARY INFORMATION
+
+Proneotermes    Holmgren
+Pterotermes     Holmgren
+Roisinitermes   Scheffrahn
+Rugitermes      Holmgren
+Tauritermes     Krishna
+
+Stylotermitidae (n = 1)
+
+Stylotermes     Holmgren & Holmgren
+
+Serritermitidae (n = 2)
+
+Glossotermes    Emerson
+
+Serritermes     Wasmann
+
+Rhinotermitidae (n = 5)
+
+Acorhinotermes  Emerson
+
+Dolichorhinotermes Snyder & Emerson
+
+Parrhinotermes  Holmgren
+
+Rhinotermes     Hagen
+
+Schedorhinotermes Silvestri
+
+Psammotermitidae (n = 2)
+
+Psammotermitidae: Prorhinotermitinae
+
+Prorhinotermes  Silvestri
+
+Psammotermitidae: Psammotermitinae
+
+Psammotermes    Desneux
+
+Termitogetonidae (n = 1)
+
+Termitogeton    Desneux
+
+Heterotermitidae (n = 3)
+
+Coptotermes     Wasmann
+
+Heterotermes    Froggatt
+
+Reticulitermes  Holmgren
+
+                                                     21
+                           SUPPLEMENTARY INFORMATION
+
+Termitidae (n = 275)
+
+Termitidae: Amitermitinae (n = 14)
+
+Ahamitermes           Mjöberg
+
+Amitermes             Silvestri
+
+Dentispicotermes Emerson
+
+Drepanotermes         Silvestri
+
+Eremotermes           Silvestri
+
+Globitermes           Holmgren
+
+Gnathamitermes        Light
+
+Hoplotermes           Light
+
+Incolitermes          Gay
+
+Invasitermes          Miller
+
+Orthognathotermes Holmgren
+
+Prohamitermes         Holmgren
+
+Pseudhamitermes Noirot
+
+Synhamitermes         Holmgren
+
+Termitidae: Apicotermitinae (n = 63)
+
+Acholotermes          Sands
+
+Acidnotermes          Sands
+
+Acutidentitermes Emerson
+
+Adaiphrotermes        Sands
+
+Aderitotermes         Sands
+
+Adynatotermes         Sands
+
+Aganotermes           Sands
+
+Allognathotermes Silvestri
+
+Alyscotermes          Sands
+
+Amalotermes           Sands
+
+Amicotermes           Sands
+
+Amplucrutermes        Bourguignon & Roisin
+
+Anaorotermes          Sands
+
+Anenteotermes         Sands
+
+Anoplotermes          Müller
+
+Apagotermes           Sands
+
+Aparatermes           Fontes
+
+Apicotermes           Holmgren
+
+Apolemotermes         Romero Arias & Roisin
+
+Asagarotermes         Sands
+
+Astalotermes          Sands
+
+Astratotermes         Sands
+
+Ateuchotermes         Sands
+
+                                                      22
+                   SUPPLEMENTARY INFORMATION
+
+Caputitermes       Almeida-Azevedo & Azevedo
+Chasitermes        Scheffrahn & Carrijo
+Compositermes      Scheffrahn
+Coxotermes         Grassé & Noirot
+Disjunctitermes    Scheffrahn
+Dissimulitermes    Constantini & Cancello
+Duplidentitermes   Emerson
+Ebogotermes        Scheffrahn & Roisin
+Eburnitermes       Noirot
+Echinotermes       Castro & Scheffrahn
+Euhamitermes       Holmgren
+Eurytermes         Wasmann
+Firmitermes        Sjöstedt
+Gastrotermes       Scheffrahn
+Grigiotermes       Mathews
+Heimitermes        Grassé
+Hirsutitermes      Scheffrahn, Carrijo, & Castro
+Hoplognathotermes  Silvestri
+Humutermes         Bourguignon & Roisin
+Hydrecotermes      Bourguignon & Roisin
+Indotermes         Roonwal & Sen-Sarma
+Jugositermes       Emerson
+Koutabatermes      Romero Arias & Roisin
+Krecekitermes      Scheffrahn, Carrijo, & Castro
+Labidotermes       Deligne & Pasteels
+Longustitermes     Bourguignon & Roisin
+Machadotermes      Weidner
+Mangolditermes     Scheffrahn, Carrijo, & Castro
+Ourissotermes      Scheffrahn, Carrijo, & Castro
+Patawatermes       Bourguignon & Roisin
+Phoxotermes        Collins
+Rostrotermes       Grassé
+Rubeotermes        Bourguignon & Roisin
+Ruptitermes        Mathews
+Rustitermes        Constantini, Castro, & Scheffrahn
+Skatitermes        Coaton
+Speculitermes      Wasmann
+Tetimatermes       Fontes
+Tonsuritermes      Cancello & Constantini
+Trichotermes       Sjöstedt
+
+                                                      23
+                       SUPPLEMENTARY INFORMATION
+
+Termitidae: Crepititermitinae (n = 1)
+
+Crepititermes     Emerson
+
+Termitidae: Cubitermitinae (n = 28)
+
+Apilitermes       Holmgren
+
+Basidentitermes   Holmgren
+
+Batillitermes     Uys
+
+Crenetermes       Silvestri
+
+Cubitermes        Wasmann
+
+Euchilotermes     Silvestri
+
+Fastigitermes     Sjöstedt
+
+Furculitermes     Emerson
+
+Isognathotermes   Sjöstedt
+
+Lepidotermes      Sjöstedt
+
+Megagnathotermes Silvestri
+
+Mucrotermes       Emerson
+
+Nitiditermes      Emerson
+
+Noditermes        Sjöstedt
+
+Okavangotermes Coaton
+
+Ophiotermes       Sjöstedt
+
+Orthotermes       Silvestri
+
+Ovambotermes      Coaton
+
+Pilotermes        Emerson
+
+Polyspathotermes Josens & Deligne
+
+Proboscitermes    Sjöstedt
+
+Procubitermes     Silvestri
+
+Profastigitermes  Emerson
+
+Ternicubitermes   Josens & Deligne
+
+Thoracotermes     Wasmann
+
+Trapellitermes    Sands
+
+Unguitermes       Sjöstedt
+
+Unicornitermes    Coaton
+
+Termitidae: Cylindrotermitinae (n = 2)
+
+Cephalotermes     Silvestri
+
+Cylindrotermes    Holmgren
+
+Termitidae: Engelitermitinae (n = 1)
+
+Engelitermes      Romero Arias, Roisin, & Scheffrahn
+
+                                                      24
+                       SUPPLEMENTARY INFORMATION
+
+Termitidae: Foraminitermitinae (n = 3)
+
+Foraminitermes   Holmgren
+
+Labritermes      Holmgren
+
+Pseudomicrotermes Holmgren
+
+Termitidae: Forficulitermitinae (n = 1)
+
+Forficulitermes  Emerson
+
+Termitidae: Macrotermitinae (n = 12)
+
+Acanthotermes    Sjöstedt
+
+Allodontermes    Silvestri
+
+Ancistrotermes   Silvestri
+
+Euscaiotermes    Silvestri
+
+Hypotermes       Holmgren
+
+Macrotermes      Holmgren
+
+Megaprotermes    Ruelle
+
+Microtermes      Wasmann
+
+Odontotermes     Holmgren
+
+Protermes        Holmgren
+
+Pseudacanthotermes Sjöstedt
+
+Synacanthotermes Holmgren
+
+Termitidae: Microcerotermitinae (n = 2)
+
+Microcerotermes Silvestri
+
+Onkotermes       Constantino
+
+Termitidae: Mirocapritermitinae (n = 14)
+
+Dicuspiditermes  Krishna
+
+Homallotermes    John
+
+Indocapritermes  Chhotani
+
+Kemneritermes    Ahmad & Akhtar
+
+Krishnacapritermes Chhotani
+
+Labiocapritermes Krishna
+
+Mirocapritermes Holmgren
+
+Oriencapritermes Ahmad & Akhtar
+
+Pericapritermes  Silvestri
+
+Procapritermes   Holmgren
+
+Pseudocapritermes Kemner
+
+Rinacapritermes  Amina & Rajmohana
+
+Sinocapritermes  Ping & Xu
+
+Syncapritermes   Ahmad & Akhtar
+
+                                                  25
+                      SUPPLEMENTARY INFORMATION
+
+Termitidae: Nasutitermitinae (n = 82)
+
+Aciculitermes    Emerson
+
+Afrosubulitermes Emerson
+
+Agnathotermes    Snyder
+
+Ahmaditermes     Akhtar
+
+Ampoulitermes    Mathur & Thapa
+
+Angularitermes   Emerson
+
+Anhangatermes    Constantino
+
+Antillitermes    Roisin, Scheffrahn, & Kecek
+
+Araujotermes     Fontes
+
+Arcotermes       Fan
+
+Atlantitermes    Fontes
+
+Australitermes   Emerson
+
+Baucaliotermes   Sands
+
+Bulbitermes      Emerson
+
+Caetetermes      Fontes
+
+Caribitermes     Roisin, Scheffrahn, & Kecek
+
+Ceylonitermellus Emerson
+
+Ceylonitermes    Holmgren
+
+Coarctotermes    Holmgren
+
+Coatitermes      Fontes
+
+Coendutermes     Fontes
+
+Constrictotermes Holmgren
+
+Convexitermes    Holmgren
+
+Cortaritermes    Mathews
+
+Cucurbitermes    Li & Ping
+
+Cyranotermes     Araujo
+
+Diversitermes    Holmgren
+
+Diwaitermes      Roisin & Pasteels
+
+Eleanoritermes   Ahmad
+
+Emersonitermes   Mathur & Sen-Sarma
+
+Enetotermes      Sands
+
+Ereymatermes     Constantino
+
+Eutermellus      Silvestri
+
+Fulleritermes    Coaton
+
+Grallatotermes   Holmgren
+
+Hirtitermes      Holmgren
+
+Hospitalitermes  Holmgren
+
+Hyleotermes      Cuezzo, Scheffrahn, & Constantino
+
+                                                    26
+                   SUPPLEMENTARY INFORMATION
+
+Kaudernitermes     Sands & Lamb
+Lacessititermes    Holmgren
+Leptomyxotermes    Sands
+Leucopitermes      Emerson
+Longipeditermes    Holmgren
+Macrosubulitermes  Emerson
+Malagasitermes     Emerson
+Malaysiotermes     Ahmad
+Mimeutermes        Silvestri
+Muelleritermes     Cancello, Oliveira, & Rocha
+Mycterotermes      Sands
+Nasopilotermes     Gao, Lam, & Owen
+Nasutitermes       Dudley
+Ngauratermes       Constantino & Acioli
+Niuginitermes      Roisin & Pasteels
+Obtusitermes       Snyder
+Occasitermes       Holmgren
+Occultitermes      Emerson
+Oriensubulitermes  Emerson
+Paraconvexitermes  Cancello & Noirot
+Parvitermes        Emerson
+Periaciculitermes  Li
+Peribulbitermes    Li
+Postsubulitermes   Emerson
+Rhadinotermes      Sands
+Roonwalitermes     Bose
+Rotunditermes      Holmgren
+Rounditermes       Ensaf, Ponchel, & Nel
+Sabahitermes       Thapa
+Sandsitermes       Cuezzo, Cancello, & Carrijo
+Sinonasutitermes   Li & Ping
+Sinqasapatermes    Cuezzo & Nickle
+Spatulitermes      Coaton
+Subulioiditermes   Ahmad
+Subulitermes       Holmgren
+Tarditermes        Emerson
+Tenuirostritermes  Holmgren
+Tiunatermes        Carrijo, Cuezzo, & Santos
+Triangularitermes  Mathews
+Trinervitermes     Holmgren
+
+                                                27
+                 SUPPLEMENTARY INFORMATION
+
+Tumulitermes     Holmgren
+Velocitermes     Holmgren
+Verrucositermes  Emerson
+Xiaitermes       Gao & He
+
+Termitidae: Neocapritermitinae (n = 3)
+
+Neocapritermes   Holmgren
+
+Planicapritermes Emerson
+
+Schievitermes    Roisin
+
+Termitidae: Promirotermitinae (n = 2)
+
+Angulitermes     Sjöstedt
+
+Promirotermes    Silvestri
+
+Termitidae: Protohamitermitinae (n = 2)
+
+Orientotermes    Ahmad
+
+Protohamitermes Holmgren
+
+Termitidae: Sphaerotermitinae (n = 1)
+
+Sphaerotermes    Holmgren
+
+Termitidae: Syntermitinae (n = 21)
+
+Armitermes       Wasmann
+
+Bandeiratermes   Rocha & Cancello
+
+Biratermes       Rocha & Cancello
+
+Cahuallitermes   Constantino
+
+Cornitermes      Wasmann
+
+Curvitermes      Holmgren
+
+Cyrilliotermes   Fontes
+
+Embiratermes     Fontes
+
+Genuotermes      Emerson
+
+Ibitermes        Fontes
+
+Labiotermes      Holmgren
+
+Macuxitermes     Cancello & Bandeira
+
+Mapinguaritermes Rocha & Cancello
+
+Noirotitermes    Cancello & Myles
+
+Paracurvitermes  Constantino & Carvalho
+
+Procornitermes   Emerson
+
+Rhynchotermes    Holmgren
+
+Silvestritermes  Rocha & Cancello
+
+Syntermes        Holmgren
+
+                                            28
+                      SUPPLEMENTARY INFORMATION
+
+Uncitermes       Rocha & Cancello
+Vaninitermes     Rocha & Cancello
+
+Termitidae: Termitinae (n = 23)
+
+Apsenterotermes  Miller
+
+Capritermes      Wasmann
+
+Cavitermes       Emerson
+
+Cornicapritermes Emerson
+
+Cristatitermes   Miller
+
+Dihoplotermes    Araujo
+
+Divinotermes     Carrijo & Cancello
+
+Ekphysotermes    Gay
+
+Ephelotermes     Miller
+
+Hapsidotermes    Miller
+
+Hesperotermes    Gay
+
+Inquilinitermes  Mathews
+
+Lophotermes      Miller
+
+Macrognathotermes Miller
+
+Palmitermes      Hellemans & Roisin
+
+Paracapritermes Hill
+
+Protocapritermes Holmgren
+
+Quasitermes      Emerson
+
+Saxatilitermes   Miller
+
+Spinitermes      Wasmann
+
+Termes           Linnaeus
+
+Tuberculitermes  Holmgren
+
+Xylochomitermes Miller
+
+                                                 29
+                                   SUPPLEMENTARY INFORMATION
+Supplementary Figures: Diagnostic features for each subfamily of Termitidae.
+Pictures credits:
+T. F. Carrijo: Supplementary Fig. 13(a);
+P. Eggleton: Supplementary Fig. 15(a);
+G. Ide: Supplementary Fig. 12(a);
+G. Josens: Supplementary Fig. 4(a,b);
+S. Hellemans: Supplementary Fig. 6(a), Supplementary Fig. 15(d);
+C. M. Kalleshwaraswamy: Supplementary Fig. 14(a);
+M. M. Rocha: Supplementary Fig. 1(a,b,k), Supplementary Fig. 2(c), Supplementary Fig. 3(a),
+Supplementary Fig. 5(b, f), Supplementary Fig. 10(b), Supplementary Fig. 12(i), Supplementary
+Fig. 13(b,h,i), Supplementary Fig. 14(b), Supplementary Fig. 17(a-d,k-m), Supplementary Fig.
+18(a,b,l);
+R. H. Scheffrahn: Supplementary Fig. 1(j,l), Supplementary Fig. 2(a,h-j), Supplementary Fig. 3(e),
+Supplementary Fig. 4(c,j,k), Supplementary Fig. 5(a,e), Supplementary Fig. 6(e), Supplementary
+Fig. 7(a,f), Supplementary Fig. 8(a,e), Supplementary Fig. 9(a-c,g-i), Supplementary Fig.
+10(a,c,i,j), Supplementary Fig. 11(a-c,g-i), Supplementary Fig. 12(b,c,j,k), Supplementary Fig.
+14(f), Supplementary Fig. 16(a,e), Supplementary Fig. 18(c,j,k);
+J. Sobotník: Supplementary Fig. 1(c), Supplementary Fig. 2(b), Supplementary Fig. 12(d).
+
+                                                                                                                   30
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 1: Amitermitinae. Soldier heads, in dorsal view, of: (a) Amitermes amifer, (b) Orthognathotermes humilis,
+and (c) Globitermes sulphureus. Digestive tube: (d, e) in left view, and with detail of the Malpighian tubules insertion in A. amifer
+(adapted from Rocha & Cancello24); (f) detail of the Malpighian tubules insertion in Prohamitermes hosei (adapted from Noirot4;
+Reproduced with permission of the Licensor through PLSclear) with an arrow indicating globular ampullae (amp.; four ampullae
+are present: two in front as drawn, and two on the opposite side), (g) Dentispicotermes sp. in dorsal view. Left and right worker
+mandibles (not to scale): (h) A. lilloi (adapted from Rocha & Cancello24), (i) Orthognathotermes insignis. Enteric valve armatures:
+(j) Drepanotermes rubriceps (UF-AUS3), (k) O. insignis (MZUSP-3319), (l) G. sulphureus (UF-ASA15). Foregut: C, crop; G,
+gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth;
+LM, left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   31
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 2: Apicotermitinae. Dorsal views of (a) soldier of Machadotermes rigidus, and workers of
+(b) Ruptitermes arboreus and (c) Anoplotermes pacificus. Digestive tube (ventral view) of: (d) Apicotermes gurgulifex
+(MZUSP-224) and (e) A. pacificus. Left and right worker mandibles (not to scale): (f) Ruptitermes arboreus (adapted
+from Acioli & Constantino25), (g) A. pacificus. Enteric valve armatures: (h) A. banksi (UF-EC738), (i) Ateuchotermes
+ctenopher (UF-AFR1775), (j) Duplidentitermes sp. (UF-AFR1713). Foregut: C, crop; G, gizzard. Midgut (stippled).
+Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM, left marginal
+tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   32
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 3: Crepititermitinae, represented by its sole species, Crepititermes
+verruculosus. (a) Soldier's head, in dorsal view. (b) Digestive tube, in right view, with (c) detail
+of the Malpighian tubules insertion; the arrow indicates the P3 diverticulum (both adapted from
+Rocha & Cuezzo26). (d) Left and right worker mandibles (not to scale; adapted from Rocha &
+Cuezzo26). (e) Enteric valve armature (UF-PU715). Foregut: C, crop; G, gizzard. Midgut
+(stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles:
+A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl,
+molar plate.
+
+                                                                                                                   33
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 4: Cubitermitinae. Soldier heads, in dorsal view, of: (a) Cubitermes tenuiceps, (b) Megagnathotermes
+notandus, and (c) Euchilotermes tensus. Digestive tube of (d) C. exiguus (DJ_0152) in ventral view and (e) Isognathotermes sp.
+(MZUSP-13952) in right view (the arrows indicate the P3 diverticulum); detail of the mixed segment in (f) I. ugandensis, and (g)
+Procubitermes sjostedti (the arrow indicates the mesenteric nodule). Left and right worker mandibles: (h) Isognathotermes sp.
+(MZUSP-13952), (i) Ophiotermes grandilabius (DJ_P210). Enteric valve armatures: (j) O grandilabius (UF-AFR1315), and (k)
+Nitiditermes schereri (UF-AFR420). Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3,
+paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar
+prominence; Mpl, molar plate.
+
+                                                                                                                   34
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 5: Cylindrotermitinae. Soldier heads, in dorsal view, of (a) Cephalotermes
+rectangularis and (b) Cylindrotermes parvignathus. (c) Digestive tube of C. parvignathus, in right
+view, with arrow pointing to the P1 ventral loop (adapted from Rocha & Cuezzo27). (d) Left and
+right worker mandibles (not to scale) of C. parvignathus. Enteric valve armatures: (e) C.
+rectangularis (UF-AFR1428) and (f) Cylindrotermes brevipilosus (MZUSP-24534). Foregut: C,
+crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon;
+P5, rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr,
+molar prominence; Mpl, molar plate.
+
+                                                                                                                   35
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 6: Engelitermitinae, represented by its sole species, Engelitermes zambo.
+(a) Soldier's head, in dorsal view. Digestive tube in (b) dorsal view and (c) ventral view. (d) Left
+and right worker mandibles (not to scale). (e) Enteric valve armature. Foregut: C, crop; G, gizzard.
+Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum.
+Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar
+prominence; Mpl, molar plate.
+
+                                                                                                                   36
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 7: Foraminitermitinae. Soldier's head, in dorsal view, of: (a)
+Foraminitermes rhinoceros. Digestive tube of F. rhinoceros (BDIT108), in (b) dorsal (with arrow
+pointing to the P4 U-turn, displaced to the left side of the body) and (c) ventral views. (d)
+Labritermes kistneri pseudo-Malpighian knot (adapted from Krishna & Adams28, with permission
+from the American Museum of Natural History). Left and right worker mandibles of (e) F.
+rhinoceros (not to scale). (f) (Unarmed) enteric valve armature of Foraminitermes sp. (UF-
+AFR1077). Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve;
+P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right
+marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   37
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 8: Forficulitermitinae, represented by its sole species, Forficulitermes
+planifrons. (a) Soldier's head, in dorsal view. Digestive tube (with crop removed) in (b) dorsal and
+(c) ventral views (both adapted from Scheffrahn & Kecek29). (d) Left and right worker mandibles
+(not to scale, adapted from Scheffrahn & Kecek29). (e) Enteric valve armature (UF-AFR1664).
+Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch;
+P4, colon; P5, rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal
+tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   38
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 9: Macrotermitinae. Soldier heads, in dorsal view, of (a) Macrotermes bellicosus, (b)
+Odontotermes pauperans and (c) Pseudacanthotermes spiniger (major, left; minor, right). Digestive tube of
+Macrotermes gilvus (PHP046), in (d) dorsal and (e) ventral views. Left and right worker mandibles of (f) a large
+worker of Macrotermes natalensis (not to scale, MZUSP-13960). Enteric valve armatures of: (g) Macrotermes sp.
+(UF-AFR1046), (h) Allodontermes sp. (UF-NGR-FWs002) and (i) Pseudacanthotermes sp. (UF-NRG-CL001).
+Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5,
+rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl,
+molar plate.
+
+                                                                                                                   39
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 10: Microcerotermitinae. Soldier heads, in dorsal view, of: (a) Onkotermes sp. (PA1019), (b)
+Microcerotermes sp., (c) Microcerotermes cameroni. Digestive tube of Onkotermes brevicorniger in (d) ventral and
+(e) left views (adapted from Constantino et al.30, with permission from the Editorial Office of Sociobiology); and (f)
+Microcerotermes biroi, in ventral view. The arrows in (d, f) indicate the characteristic elbowed midgut-ileum junction.
+Left and right worker mandibles (not to scale) of: (g) a large worker of O. brevicorniger (adapted from Constantino
+et al.30, with permission from the Editorial Office of Sociobiology); and (h) M. papuanus. Enteric valve armatures of
+(i) Microcerotermes exiguus (PA558) and (j) Microcerotermes sp. (AFR1046). Foregut: C, crop; G, gizzard. Midgut
+(stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM,
+left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   40
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 11: Mirocapritermitinae. Soldier heads, in dorsal view, of: (a) Dicuspiditermes nemorosus,
+(b) Pericapritermes sp. (AFR671) and (c) Pseudocapritermes sp. (ASA343). Digestive tube of: (d) Pericapritermes
+ceylonicus in left view, and (e) Pseudocapritermes fletcheri in ventral view (adapted from Noirot4; Reproduced with
+permission of the Licensor through PLSclear). (f) Left and right worker mandibles (not to scale) of D. obtusus (adapted
+from Krishna31, with permission from the American Museum of Natural History). Enteric valve armatures: (g) D.
+nemorosus (UF-ASA109), (h) Pericapritermes sp. (UF-AFR1360) and (i) Sinocapritermes mushae (UF-ASA148).
+Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5,
+rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl,
+molar plate.
+
+                                                                                                                   41
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 12: Nasutitermitinae. Soldier heads (a) in lateral view of Angularitermes pinocchio; and in
+dorsal views of (b) Tenuirostritermes n. sp. (VZ8), (c) Trinervitermes trinervius, and (d) Verrucositermes tuberosus.
+Digestive tube (both adapted from Fontes32, with permission from the author) of: (e) Constrictotermes cypergaster in
+ventral view and (f) Nasutitermes corniger in dorsal view. Left and right worker mandibles (not to scale): (g) N.
+corniger (adapted from Fontes32, with permission from the author), and (h) Ereymatermes piquira (adapted from
+Cancello & Cuezzo33, with permission from the Editor of Papéis Avulsos de Zoologia). Enteric valve armatures: (i)
+Angularitermes coninasus (MZUSP-13445), (j) Parvitermes antillarum (UF-DR1518) and (k) Nasutitermes sp. (UF-
+NGR-T1002). Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4,
+colon; P5, rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar
+prominence; Mpl, molar plate.
+
+                                                                                                                   42
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 13: Neocapritermitinae. Soldiers' head, in dorsal view, of (a) Planicapritermes planiceps,
+and (b) Neocapritermes opacus. Digestive tube of P. planiceps, in (c) ventral view (note the elbowed midgut-ileum
+junction as in the Microcerotermitinae), with (d) detail of the Malpighian tubules insertion (both adapted from
+Constantino34, with permission from the Editorial Office of Sociobiology); and (e) N. opacus in right view, with an
+arrow indicating the mesenteric sacs. Left and right worker mandibles (not to scale): (f) P. planiceps (adapted from
+Ahmad18, with permission from the American Museum of Natural History); and (g) N. opacus (adapted from Krishna
+& Araujo35, with permission from the American Museum of Natural History). (h) Paunch (inverted to expose its
+internal ornaments) and (i) enteric valve armature of N. opacus (MZUSP-10182). Foregut: C, crop; G, gizzard. Midgut
+(stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM,
+left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   43
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 14: Promirotermitinae. Soldier heads, in dorsal view, of (a) Angulitermes
+keralai, and (b) Promirotermes gracilipes. Digestive tube of P. holmgreni (CIVT048) in (c) dorsal
+and (d) ventral views; (e) left and right worker mandibles (VIVT048). (f) Enteric valve armature
+of Promirotermes sp. (UF-AFR1635). Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut:
+P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM,
+left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   44
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 15: Protohamitermitinae. represented by the species Protohamitermes
+globiceps. (a) Worker. (b) Digestive tube, in dorsal view (adapted from Noirot4; Reproduced with
+permission of the Licensor through PLSclear), with arrow pointing to the P1 ventral loop. (c) Left
+and right worker mandibles (not to scale). (d) Enteric valve armature. Foregut: C, crop; G, gizzard.
+Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum.
+Mandibles: A, apical tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar
+prominence; Mpl, molar plate.
+
+                                                                                                                   45
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 16: Sphaerotermitinae, represented by the species Sphaerotermes
+sphaerothorax. (a) Soldier's head, in dorsal view. Digestive tube of S. sphaerothorax (CMRT042),
+in (b) dorsal view and (c) ventral view. (d) Left and right worker mandibles. (e) Enteric valve
+armature of Sphaerotermes sp. (UF-AFR1212). Foregut: C, crop; G, gizzard. Midgut (stippled).
+Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical
+tooth; LM, left marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar
+plate.
+
+                                                                                                                   46
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 17: Syntermitinae. Soldier heads, in dorsal view, of: (a) Genuotermes spinifer, (b) Labiotermes labralis,
+(c) Procornitermes araujoi and (d) Silvestritermes euamignathus. Digestive tube of (e) G. spinifer, in ventral view (adapted from
+Rocha36); (f, g) Cornitermes cumulans, detail of the major and minor mesenteric tongues; (h) Syntermes dirus, mixed segment with
+Malpighian knot represented. Left worker mandible and right mandible internal face of (i) Curvitermes odontognathus and (j) C.
+cumulans (not to scale, both adapted from Fontes32, with permission from the author). (k) Gizzard armature of C. cumulans. Enteric
+valve armatures of: (l) Embiratermes festivelus (MZUSP-1215), (m) C. cumulans (MZUSP-14328). Foregut: C, crop; G, gizzard.
+Midgut (stippled). Hindgut: P1, ileum; P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM, left
+marginal tooth; RM, right marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   47
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary Figure 18: Termitinae. Soldier heads, in dorsal view, of: (a) Termes fatalis, (b) Tuberculitermes sp.
+(MZUSP-27659, Renato L. Araujo, 14 May 1964, Kwango River, Democratic Republic of the Congo) and (c)
+Quasitermes incisus. Digestive tube of Termes fatalis in (d) dorsal view with (e) detail of the mixed segment (the
+arrow indicates the mesenteric nodule); and Divinotermes digitatus (MZUSP-22502) in (f) ventral view with (g) detail
+of the mixed segment. Left and right worker mandibles (not to scale) of (h) Divinotermes digitatus (MZUSP-22502)
+and (i) Cornicapritermes mucronatus (adapted from Krishna31, with permission from the American Museum of
+Natural History). Enteric valve armatures of (j) Termes fatalis (UF-BO422), (k) Tuberculitermes sp. (UF-AFR1675)
+and (l) Cavitermes tuberosus (MZUSP-12224). Foregut: C, crop; G, gizzard. Midgut (stippled). Hindgut: P1, ileum;
+P2, enteric valve; P3, paunch; P4, colon; P5, rectum. Mandibles: A, apical tooth; LM, left marginal tooth; RM, right
+marginal tooth; Mpr, molar prominence; Mpl, molar plate.
+
+                                                                                                                   48
+                                   SUPPLEMENTARY INFORMATION
+
+Supplementary References
+1. Krishna, K., Grimaldi, D. A., Krishna, V. & Engel, M. S. Treatise on the Isoptera of the
+
+        World. Bull. Am. Museum Nat. Hist. 1-7, 1-2704 (2013).
+2. Sands, W. A. The soldierless termites of Africa (Isoptera: Termitidae). Bull. Br. Museum
+
+        Nat. Hist. Entomol. 18, 1-244 + 9 pls (1972). doi: 10.1038/123530d0.
+3. Noirot, C. The gut of termites (Isoptera). Comparative anatomy, systematics, phylogeny. I.
+
+        Lower termites. Ann. la Société Entomol. Fr. (Nouvelle Série) 31, 197-226 (1995).
+4. Noirot, C. The gut of termites (Isoptera): comparative anatomy, systematics, phylogeny. II.
+
+        - Higher termites (Termitidae). Ann. la Société Entomol. Fr. (Nouvelle Série) 37, 431-471
+        (2001).
+5. Engel, M. S., Grimaldi, D. A. & Krishna, K. Termites (Isoptera): their phylogeny,
+        classification, and rise to ecological dominance. Am. Museum Novit. 3650, 1-27 (2009).
+6. Wu, L. W. et al. Phylogenetic position of the enigmatic termite family Stylotermitidae
+        (Insecta: Blattodea). Invertebr. Syst. 32, 1111-1117 (2018). doi: 10.1071/IS17093.
+7. Bucek, A. et al. Evolution of termite symbiosis informed by transcriptome-based
+        phylogenies. Curr. Biol. 29, 3728-3734.e4 (2019). doi: 10.1016/j.cub.2019.08.076.
+8. Hellemans, S. et al. Using ultraconserved elements to reconstruct the termite tree of life.
+        Mol. Phylogenet. Evol. 173, 107520 (2022). doi: 10.1016/j.ympev.2022.107520.
+9. Sobotník, J., Bourguignon, T., Hanus, R., Weyda, F. & Roisin, Y. Structure and function of
+        defensive glands in soldiers of Glossotermes oculatus (Isoptera: Serritermitidae). Biol. J.
+        Linn. Soc. 99, 839-848 (2010). doi: 10.1111/j.1095-8312.2010.01392.x.
+10. Stys, P. & Sobotník, J. Comments on classifications of insect ontogenies, and occurrence
+        of proneometabolous wing development in termite genus Prorhinotermes (Hexapoda:
+        Insecta). Acta Soc. Zool. Bohemicae 63, 483-492 (1999).
+11. Bourguignon, T. et al. Developmental pathways of Psammotermes hybostoma (Isoptera:
+        Rhinotermitidae): old pseudergates make up a new sterile caste. PLoS One 7, e44527
+        (2012). doi: 10.1371/journal.pone.0044527.
+12. Chiu, C. I. et al. Termite salinity tolerance and potential for transoceanic dispersal through
+        rafting. Ecol. Entomol. 46, 106-116 (2021). doi: 10.1111/een.12946.
+13. Constantino, R. Key to the soldiers of South American Heterotermes with a new species
+        from Brazil (Isoptera: Rhinotermitidae). Insect Syst. Evol. 31, 463-472 (2000).
+14. Emerson, A. E. The Neotropical genus Syntermes (Isoptera: Termitidae). Bull. Am. Museum
+        Nat. Hist. 83, 427-472 (1945).
+15. Bordereau, C., Robert, A., Van Tuyen, V. & Peppuy, A. Suicidal defensive behaviour by
+        frontal gland dehiscence in Globitermes sulphureus Haviland soldiers (Isoptera). Insectes
+        Soc. 44, 289-297 (1997). doi: 10.1007/s000400050049.
+16. Palma-Onetto, V. Structure, function and evolution of the labral and frontal glands in
+        termites. (Université Sorbonne Paris Cité, 2019).
+17. Eggleton, P. An introduction to termites: biology, taxonomy and functional morphology. in
+        Biology of Termites: A Modern Synthesis (eds. Bignell, D. E., Roisin, Y. & Lo, N.) 1-26
+        (Springer, Dordrecht, The Netherlands, 2011).
+18. Ahmad, M. The phylogeny of termite genera based on imago-worker mandibles. Bull. Am.
+        Museum Nat. Hist. 95, 37-86 (1950).
+19. Miller, L. R. A revision of the Termes-Capritermes branch of the Termitinae in Australia
+        (Isoptera: Termitidae). Invertebr. Taxon. 4, 1147-1282 (1991). doi: 10.1071/IT9901147.
+20. Noirot, C. & Kovoor, J. Anatomie comparée du tube digestif des termites I. Sous-famille
+
+                                                                                                                   49
+                                   SUPPLEMENTARY INFORMATION
+
+        des Termitinae. Insectes Soc. 5, 439-471+2pl. (1958).
+21. Bignell, D. E., Oskarsson, H., Anderson, J. M., Ineson, P. & Wood, T. G. Structure,
+
+        microbial associations and function of the so-called `mixed segment' of the gut in two soil-
+        feeding termites, Procubitermes aburiensis and Cubitermes severus (Termitidae,
+        Termitinae). J. Zool. 201, 445-480 (1983). doi: 10.1111/j.1469-7998.1983.tb05070.x.
+22. Sands, W. A. The Identification of Worker Castes of Termite Genera from Soils of Africa
+        and the Middle East. (CABI Publishing, Wallingford, UK, 1998).
+23. Scheffrahn, R. H. UF termite database University of Florida termite collection. (2019).
+        https://www.termitediversity.org
+24. Rocha, M. M. & Cancello, E. M. Comparative anatomy of the gut of the South American
+        species of Amitermes, with description of two new species and an identification key based
+        on soldiers and workers. Zootaxa 4751, 75-104 (2020). doi: 10.11646/zootaxa.4751.1.4.
+25. Acioli, A. N. S. & Constantino, R. A taxonomic revision of the neotropical termite genus
+        Ruptitermes (Isoptera, Termitidae, Apicotermitinae). Zootaxa 4032, 451-492 (2015). doi:
+        10.11646/zootaxa.4032.5.1.
+26. Rocha, M. M. & Cuezzo, C. Redescription of the monotypic Neotropical genus
+        Crepititermes Emerson (Termitidae: Termitinae). Neotrop. Entomol. 44, 457-465 (2015).
+        doi: 10.1007/s13744-015-0307-4.
+27. Rocha, M. M. & Cuezzo, C. Gut anatomy of the worker caste of Neotropical genera
+        Cylindrotermes Holmgren and Hoplotermes Light (Infraorder Isoptera, Termitidae). Rev.
+        Bras. Entomol. 63, 268-274 (2019). doi: 10.1016/j.rbe.2019.06.002.
+28. Krishna, K. & Adams, C. The Oriental termite genus Labritermes Holmgren (Isoptera,
+        Termitidae, Termitinae). Am. Museum Novit. 2735, 1-14 (1982).
+29. Scheffrahn, R. H. & Kecek, J. Redescription and reclassification of the African termite,
+        Forficulitermes planifrons (Isoptera, Termitidae, Termitinae). Zootaxa 3946, 591-594
+        (2015). doi: 10.11646/zootaxa.3946.4.9.
+30. Constantino, R., Liotta, J. & Giacosa, B. A reexamination of the systematic position of
+        Amitermes brevicorniger, with the description of a new genus (Isoptera, Termitidae,
+        Termitinae). Sociobiology 39, 453-463 (2002).
+31. Krishna, K. Phylogeny and generic reclassification of the Capritermes complex (Isoptera,
+        Termitidae, Termitinae). Bull. Am. Museum Nat. Hist. 138, 261-324 (1968).
+32. Fontes, L. R. Cupins neotropicais da subfalia Nasutitermitinae (Isoptera, Termitidae):
+        morfologia do soldado e das mandibulas do alado e operário, anatomia do tubo digestivo do
+        operário e filogenia dos gêneros. (Universidade de São Paulo, Brazil, 1987).
+33. Cancello, E. M. & Cuezzo, C. A new species of Ereymatermes Constantino (Isoptera,
+        Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Pap. Avulsos
+        Zool. 47, 283-288 (2007). doi: 10.1590/S0031-10492007002300001.
+34. Constantino, R. Description of a new Planicapritermes from Central Amazonia, with notes
+        on the morphology of the digestive tube of the Neocapritermes-Planicapritermes group
+        (Isoptera: Termitidae: Termitinae). Sociobiology 32, 109-118 (1998).
+35. Krishna, K. & Araujo, R. L. A revision of the Neotropical termite genus Neocapritermes
+        (Isoptera, Termitidae, Termitinae). Bull. Am. Museum Nat. Hist. 138, 83-130 (1968).
+36. Rocha, M. M. Redescription of the enigmatic genus Genuotermes Emerson (Isoptera,
+        Termitidae, Termitinae). Zookeys 340, 107-117 (2013). doi: 10.3897/zookeys.340.6131.
+
+                                                                                                                   50
+

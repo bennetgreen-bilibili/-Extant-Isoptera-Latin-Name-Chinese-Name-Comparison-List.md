@@ -8,10 +8,14 @@
   3. 分布图产物与索引一一对应（无孤儿 / 缺失），GeoJSON 合法：索引 = occurrence_summary.json
      （科 / 属 / 种）+ subfamily_maps.json（亚科）；实现见 _tools/check_geo.py
   4. _species/ front matter 必备字段齐全、slug 唯一
-  5. 三语 list.md 同构：物种链接集合、标题锚点集合完全一致
-  6. 名录页内部锚点全部有对应标题（不会点进去落空）
-  7. 物种页面包屑 / 同属链接的 family_id、genus_id 都能在名录里找到
-  8. 批次计数一致：_species 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数 = 名录物种链接数
+  5. 三语 /list/ 索引页同构：标题锚点集合（支系 + by-family + references）完全一致，
+     且与 _data/taxonomy.json 的支系 id 对齐；索引页不再含 /species/ 链接
+  6. 索引页内部锚点全部有对应标题（不会点进去落空）；13 科都有 /family/<id>/ 入口
+  7. 层级页面齐备：taxonomy.json 里每个科 / 亚科 / 属都有对应页面，属页 front matter
+     的 family_id 在科表内，属页列出的物种 slug 都存在，且每个物种页都出现在其属页上
+  8. 批次计数一致：_species 页数 = 检索索引种/亚种条数 = sitemap 物种 URL 数；
+     检索索引的属条目数 = taxonomy.json 的属数
+  8b. /en/list/sections/、/es/list/sections/ 覆盖全部 13 科 + 18 亚科的锚点
   9. sitemap.txt 无重复、URL 以 base_url 开头、收录 /list/name-issues/ 三语页面
  10. _data/i18n.yml 三语 key 集合一致
  11. 命名差异看板产物自洽（条数、CSV 列数、公开副本与 _data 副本一致、
@@ -30,7 +34,7 @@
   17. 摘要翻译术语表（_data/translation_glossary.yml）：结构、字段、重复项与 post 守卫，
       且三语 /papers/ 页面都接入了 _includes/papers-glossary.html
 
-另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地、名录标题层级跳级。
+另外输出"提醒"级问题（不阻断）：中文正名重复、缺分布/模式产地。
 
 用法：
   python _tools/check_site.py            # 只看错误与提醒
@@ -61,6 +65,8 @@ SPECIES_DIR = ROOT / "_species"
 LIST_FILES = {"zh-CN": ROOT / "list.md", "en": ROOT / "en" / "list.md", "es": ROOT / "es" / "list.md"}
 SITEMAP = ROOT / "sitemap.txt"
 SEARCH_INDEX = ROOT / "search-index.json"
+TAXONOMY_JSON = ROOT / "_data" / "taxonomy.json"
+SECTION_PAGES = {"en": ROOT / "en" / "list" / "sections.md", "es": ROOT / "es" / "list" / "sections.md"}
 PAPERS_DATA = ROOT / "_data" / "papers.json"
 PAPERS_PUBLIC = ROOT / "papers-index.json"
 PAPERS_PAGES = (
@@ -290,89 +296,140 @@ def check_species() -> tuple[dict, dict]:
     return fields_by_slug, zh_names
 
 
-def check_lists() -> tuple[dict, dict]:
-    species_sets, heading_sets, ids_by_lang = {}, {}, {}
-    zh_ids = set()
+def load_taxonomy() -> dict:
+    """分类层级数据（支系 → 科 → 亚科 → 属）与各级页面的锚点 id 来源。"""
+    if not TAXONOMY_JSON.is_file():
+        sys.exit("error: 找不到 _data/taxonomy.json（先跑 _tools/extract_taxon_data.py）")
+    return json.loads(read(TAXONOMY_JSON))
+
+
+def check_lists(taxonomy: dict, fields_by_slug: dict) -> dict:
+    """三语索引页同构 + 层级页面一一对应 + 每个物种都能从属页点到。
+
+    /list/ 现在是索引页：只列支系与各科的入口，物种条目一律在属页。旧的
+    「名录物种链接集合 == 标题锚点集合」不变量已随页面改版退场，这里换成三条更贴
+    结构的检查：索引页不含物种链接、每个科都有入口、每个物种都挂在自己的属页下。
+    """
+    clade_ids = [clade["id"] for clade in taxonomy["clades"]]
+    family_ids = {fam["id"] for fam in taxonomy["families"]}
+    subfamily_ids = {sub["id"] for sub in taxonomy["subfamilies"]}
+    genus_ids = {genus["id"] for genus in taxonomy["genera"]}
+    index_ids = set(clade_ids) | {"by-family", "references"}
+
+    ids_by_lang: dict = {}
     for lang, path in LIST_FILES.items():
+        rel = path.relative_to(ROOT).as_posix()
         if not path.is_file():
-            err(path.relative_to(ROOT).as_posix(), "文件不存在")
+            err(rel, "文件不存在")
             continue
         text = read(path)
-        links = SPECIES_LINK_RE.findall(text)
-        headings = HEADING_RE.findall(text)
-        ids = {h[1] for h in headings}
+        ids = {m[1] for m in HEADING_RE.findall(text)}
         ids_by_lang[lang] = ids
-        species_sets[lang] = set(links)
-        heading_sets[lang] = ids
-        # 内部锚点：](#id) 与 href="#id"
+        links = SPECIES_LINK_RE.findall(text)
+        if links:
+            err(rel, "名录索引页仍含 %d 个物种链接（例如 %s）；种条目应放在所属属页"
+                % (len(links), links[0]))
+        missing = sorted(index_ids - ids)
+        if missing:
+            err(rel, "缺少标题锚点：" + "、".join(missing))
+        extra = sorted(ids - index_ids)
+        if extra:
+            err(rel, "多出标题锚点 %s：索引页只列支系，科 / 亚科 / 属各有独立页面"
+                % "、".join(extra[:5]))
         anchors = set(ANCHOR_RE.findall(text)) | set(HREF_ANCHOR_RE.findall(text))
         dangling = sorted(a for a in anchors if a not in ids and a not in KNOWN_ANCHORS)
         if dangling:
-            err(path.relative_to(ROOT).as_posix(), "%d 个锚点找不到目标，例如 %s" % (len(dangling), dangling[:3]))
-        # 标题层级跳级（h3 -> h5，无 h4）：已知结构（无亚科的科直接进属），只提醒
-        seq = [(int(lvl), anchor) for lvl, anchor in headings]
-        skips = 0
-        for i in range(1, len(seq)):
-            if seq[i][0] - seq[i - 1][0] >= 2:
-                skips += 1
-        if skips:
-            warn(path.relative_to(ROOT).as_posix(), "%d 处标题层级跳级（h3→h5，无亚科的科），axe heading-order 会提示" % skips)
-        if lang == "zh-CN":
-            zh_ids = ids
-    if len(species_sets) == 3:
-        base = species_sets["zh-CN"]
+            err(rel, "%d 个锚点找不到目标，例如 %s" % (len(dangling), dangling[:3]))
+        fam_links = set(re.findall(r"/family/([a-z0-9-]+)/", text))
+        absent = sorted(family_ids - fam_links)
+        if absent:
+            err(rel, "按科浏览缺 %d 个科页入口：%s" % (len(absent), "、".join(absent[:5])))
+        stray_genus = sorted(genus_ids & set(re.findall(r"/genus/([a-z0-9-]+)/", text)))
+        if stray_genus:
+            err(rel, "索引页不该直链属页（例如 /genus/%s/）：属条目在属页" % stray_genus[0])
+
+    if len(ids_by_lang) == 3:
+        base = ids_by_lang["zh-CN"]
         for lang in ("en", "es"):
-            missing = sorted(base - species_sets[lang])
-            extra = sorted(species_sets[lang] - base)
+            missing = sorted(base - ids_by_lang[lang])
+            extra = sorted(ids_by_lang[lang] - base)
             if missing or extra:
                 err(LIST_FILES[lang].relative_to(ROOT).as_posix(),
-                    "与中文名录的物种链接不一致：缺少 %d、多出 %d（示例 %s）" % (len(missing), len(extra), (missing + extra)[:3]))
-    if len(heading_sets) == 3:
-        base = heading_sets["zh-CN"]
-        for lang in ("en", "es"):
-            missing = sorted(base - heading_sets[lang])
-            extra = sorted(heading_sets[lang] - base)
-            if missing or extra:
-                err(LIST_FILES[lang].relative_to(ROOT).as_posix(),
-                    "与中文名录的标题锚点不一致：缺少 %d、多出 %d（示例 %s）" % (len(missing), len(extra), (missing + extra)[:3]))
-    # 物种页面包屑 / 同属链接的锚点必须存在
-    bad = 0
-    for path in sorted(SPECIES_DIR.glob("*.md")):
-        fields = parse_front_matter(path)
-        for key in ("family_id", "genus_id"):
-            anchor = fields.get(key)
-            if anchor and anchor not in zh_ids:
-                bad += 1
-                if bad <= 5:
-                    err(path.relative_to(ROOT).as_posix(), key + "=" + anchor + " 在名录中找不到锚点")
-    if bad > 5:
-        err("_species", "共 %d 处分类锚点在名录中不存在" % bad)
-    return species_sets, ids_by_lang
+                    "与中文索引页的标题锚点不一致：缺少 %d、多出 %d（示例 %s）"
+                    % (len(missing), len(extra), (missing + extra)[:3]))
+
+    # 每个分类单元都要有自己的页面（页面由 build_taxonomy_pages.py 生成）
+    for rank, ids in (("family", family_ids), ("subfamily", subfamily_ids), ("genus", genus_ids)):
+        absent = sorted(t for t in ids if not (ROOT / rank / (t + ".md")).is_file())
+        if absent:
+            err(rank, "%d 个分类单元缺页面：%s" % (len(absent), "、".join(absent[:5])))
+
+    # 属页 front matter 的 family_id 必须真实存在
+    bad_parent = []
+    for genus_id in sorted(genus_ids):
+        path = ROOT / "genus" / (genus_id + ".md")
+        if not path.is_file():
+            continue
+        fam = parse_front_matter(path).get("family_id")
+        if fam not in family_ids:
+            bad_parent.append("%s→%s" % (genus_id, fam))
+    if bad_parent:
+        err("genus", "%d 个属页的 family_id 不在 taxonomy.json 里：%s"
+            % (len(bad_parent), "、".join(bad_parent[:5])))
+
+    # 物种页与属页的挂接：每个物种 / 亚种都出现在其所属属页的列表里
+    genus_text = {path.stem: read(path) for path in sorted((ROOT / "genus").glob("*.md"))}
+    linked: set = set()
+    for text in genus_text.values():
+        linked.update(SPECIES_LINK_RE.findall(text))
+    stray = sorted(linked - set(fields_by_slug))
+    if stray:
+        err("genus", "%d 个属页链接了不存在的物种页：%s" % (len(stray), "、".join(stray[:5])))
+    unlisted, misplaced = [], []
+    for slug, fields in sorted(fields_by_slug.items()):
+        if slug not in linked:
+            unlisted.append(slug)
+            continue
+        genus_id = fields.get("genus_id") or ""
+        if genus_id and ("/species/%s/" % slug) not in genus_text.get(genus_id, ""):
+            misplaced.append("%s→%s" % (slug, genus_id))
+    if unlisted:
+        err("genus", "%d 个物种页没有出现在任何属页的物种列表里（例如 %s）"
+            % (len(unlisted), "、".join(unlisted[:5])))
+    if misplaced:
+        err("genus", "%d 个物种页没有挂在 front matter 指定的属页下（例如 %s）"
+            % (len(misplaced), "、".join(misplaced[:5])))
+    return ids_by_lang
 
 
-def check_counts(fields_by_slug: dict, species_sets: dict) -> None:
+def check_section_pages(taxonomy: dict) -> None:
+    """英 / 西译文页（/en/list/sections/、/es/list/sections/）须覆盖全部科与亚科小节。"""
+    want = {fam["id"] for fam in taxonomy["families"]} | {sub["id"] for sub in taxonomy["subfamilies"]}
+    for lang, path in SECTION_PAGES.items():
+        rel = path.relative_to(ROOT).as_posix()
+        if not path.is_file():
+            err(rel, "译文页不存在（由 _tools/build_list_index.py 生成）")
+            continue
+        ids = {m[1] for m in HEADING_RE.findall(read(path))}
+        missing = sorted(want - ids)
+        if missing:
+            err(rel, "%d 个科 / 亚科缺小节：%s" % (len(missing), "、".join(missing[:5])))
+
+
+def check_counts(fields_by_slug: dict, taxonomy: dict) -> None:
     page_count = len(fields_by_slug)
     index = json.loads(read(SEARCH_INDEX))
     index_species = sum(1 for e in index if e.get("r") in ("种", "亚种"))
+    index_genera = sum(1 for e in index if e.get("r") == "属")
     sitemap_urls = read(SITEMAP).splitlines()
     sitemap_species = [u for u in sitemap_urls if "/species/" in u]
-    zh_links = len(species_sets.get("zh-CN", set()))
-    per_rank = {}
-    for fields in fields_by_slug.values():
-        per_rank[fields.get("rank")] = per_rank.get(fields.get("rank"), 0) + 1
-    want = {"种": 0, "亚种": 0}
-    for fields in fields_by_slug.values():
-        if fields.get("rank") == "species":
-            want["种"] += 1
-        elif fields.get("rank") == "subspecies":
-            want["亚种"] += 1
-    # 名录页只列种（亚种挂在 _species 与 species 页，不单独出现在名录列表里）
-    if zh_links != want["种"]:
-        err("list.md", "物种链接数 %d 与 front matter 中 rank=species 的页面数 %d 不一致" % (zh_links, want["种"]))
     if len(sitemap_species) != page_count:
         err("sitemap.txt", "物种 URL 数 %d 与 _species 页面数 %d 不一致" % (len(sitemap_species), page_count))
     if index_species != page_count:
         err("search-index.json", "种/亚种条数 %d 与 _species 页面数 %d 不一致" % (index_species, page_count))
+    if index_genera != len(taxonomy["genera"]):
+        err("search-index.json", "属条目 %d 与 taxonomy.json 的属数 %d 不一致"
+            % (index_genera, len(taxonomy["genera"])))
 
 
 def check_sitemap(base_url: str) -> None:
@@ -998,8 +1055,10 @@ def main() -> int:
     check_geo()
     check_fauna_keys()
     fields_by_slug, _ = check_species()
-    species_sets, _ = check_lists()
-    check_counts(fields_by_slug, species_sets)
+    taxonomy = load_taxonomy()
+    check_lists(taxonomy, fields_by_slug)
+    check_section_pages(taxonomy)
+    check_counts(fields_by_slug, taxonomy)
     check_sitemap(base_url)
     check_papers(base_url)
     check_glossary()
@@ -1030,7 +1089,7 @@ def main() -> int:
             print("  …… 另有 %d 条" % (len(errors) - 40))
         return 1
 
-    print("校验通过：%d 个物种页、三语名录同构、计数一致、sitemap / i18n / 命名差异产物与订阅源 / 版本记录自洽（提醒 %d 条）" % (len(fields_by_slug), len(warnings)))
+    print("校验通过：%d 个物种页、三语索引页同构、科/亚科/属页面齐备、计数一致、sitemap / i18n / 命名差异产物与订阅源 / 版本记录自洽（提醒 %d 条）" % (len(fields_by_slug), len(warnings)))
     return 0
 
 

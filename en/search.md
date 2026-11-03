@@ -17,7 +17,7 @@ pagefind: true
 
 <p>Search everything on the site: the checklist text, all 3089 species pages, the statistics and data pages, and blog posts. The index is generated at build time by the open-source <a href="https://pagefind.app/">Pagefind</a> tool; searches run entirely in your browser and are never uploaded.</p>
 
-<p>To look up a <strong>taxon in the checklist</strong> (family / subfamily / genus / species / subspecies), the <a href="{{ site.base_url }}/en/list/">checklist search box</a> is faster and links straight to the taxon anchor.</p>
+<p>To look up a <strong>taxon</strong> (family / subfamily / genus / species / subspecies), the <a href="{{ site.base_url }}/en/list/">index search box</a> is faster and jumps straight to the matching family / subfamily / genus / species page.</p>
 
 <div id="pagefind-search" data-pagefind-ignore data-lang="en" data-base="{{ site.base_url }}"></div>
 

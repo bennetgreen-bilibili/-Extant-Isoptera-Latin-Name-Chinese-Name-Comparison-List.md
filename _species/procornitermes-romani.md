@@ -34,9 +34,9 @@ ES — **罗曼前角白蚁** (*Procornitermes romani*) es una especie del géne
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[前角白蚁属 *Procornitermes*]({{ site.base_url }}/list/#procornitermes) —— 共 5 种（5 species · 5 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[前角白蚁属 *Procornitermes*]({{ site.base_url }}/genus/procornitermes/) —— 共 5 种（5 species · 5 especies）
 - **本属模式种 Type species / Especie tipo**：*Procornitermes triacifer*
 
 ## 分布

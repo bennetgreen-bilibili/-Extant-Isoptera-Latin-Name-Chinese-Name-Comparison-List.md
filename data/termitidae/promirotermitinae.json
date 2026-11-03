@@ -123,6 +123,13 @@
       "subspecies": null
      },
      {
+      "latin": "Angulitermes jodhpurensis",
+      "zh": "焦特布尔角白蚁",
+      "type": false,
+      "distribution": "印度",
+      "subspecies": null
+     },
+     {
       "latin": "Angulitermes kashmirensis",
       "zh": "克什米尔角白蚁",
       "type": false,
@@ -139,13 +146,6 @@
      {
       "latin": "Angulitermes longifrons",
       "zh": "长额角白蚁",
-      "type": false,
-      "distribution": "印度",
-      "subspecies": null
-     },
-     {
-      "latin": "Angulitermes jodhpurensis",
-      "zh": "焦特布尔角白蚁",
       "type": false,
       "distribution": "印度",
       "subspecies": null

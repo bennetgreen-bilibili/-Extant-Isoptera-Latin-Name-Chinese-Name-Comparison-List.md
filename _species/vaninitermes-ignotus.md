@@ -36,9 +36,9 @@ ES — **忽视瓦宁白蚁** (*Vaninitermes ignotus*) es una especie, y la espe
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/list/#syntermitinae) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
-- **属 Genus / Género**：[瓦宁白蚁属 *Vaninitermes*]({{ site.base_url }}/list/#vaninitermes) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
+- **属 Genus / Género**：[瓦宁白蚁属 *Vaninitermes*]({{ site.base_url }}/genus/vaninitermes/) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 

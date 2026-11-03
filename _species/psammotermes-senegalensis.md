@@ -31,8 +31,8 @@ ES — **塞内加尔沙白蚁** (*Psammotermes senegalensis*) es una especie de
 
 ## 分类位置
 
-- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
-- **属 Genus / Género**：[沙白蚁属 *Psammotermes*]({{ site.base_url }}/list/#psammotermes) —— 共 6 种（6 species · 6 especies）
+- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
+- **属 Genus / Género**：[沙白蚁属 *Psammotermes*]({{ site.base_url }}/genus/psammotermes/) —— 共 6 种（6 species · 6 especies）
 - **本属模式种 Type species / Especie tipo**：*Psammotermes hybostoma*
 
 ## 分布

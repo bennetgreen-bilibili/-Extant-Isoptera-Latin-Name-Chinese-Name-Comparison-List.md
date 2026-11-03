@@ -31,8 +31,8 @@ ES — **西部翅白蚁** (*Pterotermes occidentis*) es la única especie vivie
 
 ## 分类位置
 
-- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/list/#kalotermitidae) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
-- **属 Genus / Género**：[翅白蚁属 *Pterotermes*]({{ site.base_url }}/list/#pterotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
+- **属 Genus / Género**：[翅白蚁属 *Pterotermes*]({{ site.base_url }}/genus/pterotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 

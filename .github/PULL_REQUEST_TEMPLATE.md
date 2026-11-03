@@ -8,11 +8,15 @@
 
 ## 自检清单（数据 / 生成产物改动必勾）
 
-- [ ] 改了 `list.md` 后已同步 `en/list.md` 与 `es/list.md`（三语名录行数、锚点、属/种顺序一致）
+- [ ] 未手改 `list.md` / `en/list.md` / `es/list.md` / `en/list/sections.md` / `es/list/sections.md`（由 `_tools/build_list_index.py` 生成）；分类层级改在 `_data/taxonomy.json`、导语与参考文献块改在 `_data/list_index_blocks.json`、科亚科正文改在 `_data/taxon_prose.json`
 - [ ] 未手改 `<!-- AUTO:BEGIN -->` / `<!-- AUTO:END -->` 之间的自动区块（正文由 `.github/workflows/build_species_body.py` 生成，手写内容放在标记之外）
 - [ ] 已按 CI 顺序重跑全部生成脚本：
+  - `python _tools/extract_taxon_data.py --check`
+  - `python _tools/build_list_index.py`
+  - `python _tools/build_taxonomy_data.py --write`
   - `python .github/workflows/build_genus_index.py`
   - `python .github/workflows/build_species_body.py --write`
+  - `python .github/workflows/build_taxonomy_pages.py`
   - `python .github/workflows/build_sitemap_txt.py`
   - `python .github/workflows/build_search_index.py --write --no-enrich`
   - `python .github/workflows/build_dataset.py --write`

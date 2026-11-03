@@ -43,7 +43,8 @@
     var html = '';
     for (var i=0;i<list.length;i++){
       var r = list[i], e = r.e;
-      var href = (e.p && (e.r === '种' || e.r === '亚种')) ? (BASE + '/species/' + encodeURIComponent(e.p) + '/') : (LIST + '#' + e.h);
+      var href = (e.p && (e.r === '种' || e.r === '亚种')) ? (BASE + '/species/' + encodeURIComponent(e.p) + '/')
+        : (e.u ? BASE + e.u : (LIST + '#' + e.h));
       html += '<li><a href="'+href+'"><span class="rank">'+esc(rank(e.r))+'</span>'+esc(e.z)+' <span class="latin">'+esc(e.l)+'</span>'+(e.f ? ' <span class="fam">· '+esc(e.f)+'</span>' : '')+hint(r.via)+'</a></li>';
     }
     results.innerHTML = html;

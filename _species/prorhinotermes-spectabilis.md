@@ -31,8 +31,8 @@ ES — **奇丽原鼻白蚁** (*Prorhinotermes spectabilis*) es una especie del 
 
 ## 分类位置
 
-- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/list/#psammotermitidae) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
-- **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/list/#prorhinotermes) —— 共 12 种（12 species · 12 especies）
+- **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
+- **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Prorhinotermes inopinatus*
 
 ## 分布

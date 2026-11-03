@@ -31,8 +31,8 @@ ES — **圆唇杆白蚁** (*Stylotermes labralis*) es una especie del género *
 
 ## 分类位置
 
-- **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/list/#stylotermitidae) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）
-- **属 Genus / Género**：[杆白蚁属 *Stylotermes*]({{ site.base_url }}/list/#stylotermes) —— 共 45 种（45 species · 45 especies）
+- **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）
+- **属 Genus / Género**：[杆白蚁属 *Stylotermes*]({{ site.base_url }}/genus/stylotermes/) —— 共 45 种（45 species · 45 especies）
 - **本属模式种 Type species / Especie tipo**：*Stylotermes fletcheri*
 
 ## 分布

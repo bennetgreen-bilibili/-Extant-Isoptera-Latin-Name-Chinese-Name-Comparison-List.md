@@ -1,0 +1,48 @@
+   1| ---
+   2| layout: default
+   3| title: Listado — nombres latinos y chinos
+   4| description: "Listado completo de 3.021 especies y 68 subespecies de termitas: nombres latinos y chinos, autores, localidades típicas, distribución y especies tipo."
+   5| lang: es
+   6| author: 班奈特格林 (Bennet Green)
+   7| date: 2026-10-17
+   8| version: 2026.10.30
+   9| keywords: [termitas, Isoptera, listado, nombres científicos, nombres chinos, taxonomía, Termitidae]
+  10| permalink: /es/list/
+  11| ---
+  12| # Isópteros actuales (termitas) — lista comparativa de nombres latinos y chinos (2026.10.30) — versión definitiva
+  13| 
+  14| ## Marco taxonómico
+  15| 
+  16| Todos los taxones de este listado pertenecen a un único marco taxonómico, de arriba abajo:
+  17| 
+  18| 1. **Dominio** — Eukaryota
+  19| 2. **Reino** — Animalia
+  20| 3. **Filo** — Arthropoda
+  21| 4. **Clase** — Insecta
+  22| 5. **Subclase** — Pterygota
+  23| 6. **Infraclase** — Neoptera
+  24| 7. **Superorden** — Dictyoptera
+  25| 8. **Orden** — Blattodea (cucarachas y termitas)
+  26| 9. **Infraorden** — Isoptera (epifamilia Termitoidae)
+  27| 
+  28| Debajo siguen **Familia** → **Subfamilia** → **Género** → **Especie**; las familias, subfamilias, géneros y especies se enumeran a continuación.
+  29| 
+  30| <div class="search-wrap">
+  31|   <input type="search" id="search-input" class="search-input" placeholder="Buscar nombre científico, nombre chino, sinónimo junior, pinyin o chino tradicional (p. ej., Mastotermes, baiyi, 白蟻)" autocomplete="off" aria-label="Buscar en el listado" data-lang="es" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/list/" data-empty="Sin resultados">
+  32|   <ul id="search-results" class="search-results" style="display:none"></ul>
+  33| </div>
+  34| 
+  35| <p class="search-hint">Se admite pinyin (p. ej. <code>baiyi</code>) y chino tradicional. Para buscar fuera del listado (blog, páginas de especies), véase la <a href="{{ site.base_url }}/es/search/">búsqueda en todo el sitio</a>.</p>
+  36| 
+  37| <p class="search-hint search-hint-board">El cotejo con GBIF / Catalogue of Life / Blattodea Species File marca <strong>{{ site.data.name_issues.meta.counts.total }}</strong> filas que requieren decisión humana ({{ site.data.name_issues.meta.counts.by_group.conflict }} conflictos → {{ site.data.name_issues.meta.counts.conflict_pairs }} pares: {{ site.data.name_issues.meta.counts.pairs_relation_combination }} diferencias de combinación · {{ site.data.name_issues.meta.counts.pairs_direction_site }} con nuestro nombre receptor · {{ site.data.name_issues.meta.counts.pairs_recorded }} registrados · {{ site.data.name_issues.meta.counts.by_group.match }} inciertas · {{ site.data.name_issues.meta.counts.by_group.gap }} vacíos): <a href="{{ site.base_url }}/es/list/name-issues/"><strong>discrepancias de nombres →</strong></a></p>
+  38| 
+  39| {% include distribution-notes.html %}
+  40| 
+  41| <h2 id="by-family">Navegar por familia (13 familias)</h2>
+  42| 
+  43| <p>Cada una de las 13 familias tiene su página con todos los enlaces a subfamilias, géneros y especies, con sus recuentos:</p>
+  44| 
+  45| <ul class="taxon-list family-browse">
+  46| <li><a href="{{ site.base_url }}/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a> <span class="taxon-count">1 géneros · 1 especies</span></li>
+  47| <li><a href="{{ site.base_url }}/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a> <span class="taxon-count">2 géneros · 5 especies</span></li>
+  48| <li><a href="{{ site.base_url }}/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a> <span class="taxon-count">3 géneros · 21 especies</span></li>

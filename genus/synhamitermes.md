@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/synhamitermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#amitermitinae">弓白蚁亚科</a> › <a href="{{ site.base_url }}/list/#synhamitermes">同钩白蚁属 <i>Synhamitermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/amitermitinae/">弓白蚁亚科</a> › <a href="{{ site.base_url }}/genus/synhamitermes/">同钩白蚁属 <i>Synhamitermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>同钩白蚁属 <i>Synhamitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 4 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/synhamitermes-ceylonicus/"><i>Synhamitermes ceylonicus</i> Holmgren, 1913 锡兰同钩白蚁</a></li><li><a href="{{ site.base_url }}/species/synhamitermes-colombensis/"><i>Synhamitermes colombensis</i> Roonwal & Sen-Sarma, 1960 科伦坡同钩白蚁</a></li><li><a href="{{ site.base_url }}/species/synhamitermes-labioangulatus/"><i>Synhamitermes labioangulatus</i> Thakur, 1989 角唇同钩白蚁</a></li><li><a href="{{ site.base_url }}/species/synhamitermes-quadriceps/"><i>Synhamitermes quadriceps</i> Wasmann, 1902 方头同钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#synhamitermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

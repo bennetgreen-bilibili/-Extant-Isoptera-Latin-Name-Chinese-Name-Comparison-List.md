@@ -31,8 +31,8 @@ ES — **锯齿白蚁** (*Serritermes serrifer*) es la única especie viviente d
 
 ## 分类位置
 
-- **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/list/#serritermitidae) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）
-- **属 Genus / Género**：[齿白蚁属 *Serritermes*]({{ site.base_url }}/list/#serritermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）
+- **属 Genus / Género**：[齿白蚁属 *Serritermes*]({{ site.base_url }}/genus/serritermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 

@@ -19,7 +19,7 @@ breadcrumb:
     url: "/family/rhinotermitidae/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#rhinotermitidae">鼻白蚁科</a> › <span>本科</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/rhinotermitidae/">鼻白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>鼻白蚁科 <i>Rhinotermitidae</i></h1>
 <p class="taxon-meta">新等翅类 Neoisoptera · 5 属 · 62 种</p>
@@ -40,11 +40,11 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="rhinotermitidae" %}
 </section>
-<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>鼻白蚁亚科（Rhinotermitinae）由 Froggatt 于 1897 年建立；此处采用 2024 年系统发育研究重新界定后的狭义鼻白蚁科（Rhinotermitidae sensu novo）(21)，含 5 属。模式属为 Rhinotermes Hagen, 1858；科名由希腊语 rhis/rhinos（鼻）与 termes 组合，指其成虫唇基隆起、形似鼻状并由囟门至唇基具窄沟的特征。本名录收录 5 属 62 种。</p>
 <p>尖鼻白蚁属、狭鼻白蚁属与鼻白蚁属主产新热带（南美北部至加勒比），棒鼻白蚁属主产东南亚，西至印度东北部，北达中国西藏与云南，东至巴布亚新几内亚、所罗门群岛与澳大利亚昆士兰；长鼻白蚁属广布旧热带界、东洋界、澳大利亚及西太平洋岛屿。本科具真工蚁品级，往往巢居土中或与土壤接触的木材内，工蚁经隧道外出取食木材；兵蚁多呈大小二态（少数三态），上唇须状延长、顶端刷状、中央有沟，额腺分泌物沿沟流出御敌，是本科区别于近缘科的重要鉴别特征。本科工蚁与有翅成虫左上颚端齿之后具3枚明显而大小不等的缘齿，有翅成虫、工蚁与兵蚁的后唇基前缘均明显拱凸，兵蚁囟门周缘不生长毛。经济上，长鼻白蚁属在分布区内常见为害建筑木材，如澳大利亚东部的中间长鼻白蚁 Schedorhinotermes intermedius(25)；长喙长鼻白蚁 Schedorhinotermes longirostris（原生印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚，引入美国关岛），该种 2011 年传入关岛、为害当地特有苏铁。</p>
-<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#rhinotermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+<p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
 {%- assign fz = site.data.fauna_families["/family/rhinotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
@@ -52,8 +52,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>属（5）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/acorhinotermes/"><i>Acorhinotermes</i> 尖鼻白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/dolichorhinotermes/"><i>Dolichorhinotermes</i> 狭鼻白蚁属</a> <span class="taxon-count">7 种</span></li><li><a href="{{ site.base_url }}/genus/parrhinotermes/"><i>Parrhinotermes</i> 棒鼻白蚁属</a> <span class="taxon-count">13 种</span></li><li><a href="{{ site.base_url }}/genus/rhinotermes/"><i>Rhinotermes</i> 鼻白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/schedorhinotermes/"><i>Schedorhinotermes</i> 长鼻白蚁属</a> <span class="taxon-count">35 种</span></li></ul>
 </section>
-<p class="taxon-more">该科的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#rhinotermitidae">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

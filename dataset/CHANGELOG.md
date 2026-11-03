@@ -14,7 +14,9 @@
   - 计数：分类单元记录 3068 → 3089（种 3004 → 3021、亚种 64 → 68、属 323 → 326）；尖白蚁亚科 237 → 241 种 / 68 属，方白蚁亚科 142 → 149 种、亚种 6 → 10，瘤白蚁亚科 132 → 135 种，弓白蚁亚科 193 → 194 种，白蚁亚科 106 → 107 种，象白蚁亚科 607 → 606 种，木白蚁科 479 → 480 种，鼻白蚁科 61 → 62 种；
   - 三语名录、isoptera-data.json、data/ 结构化数据（含 data/index.json 计数与文件字节数）、检索索引、sitemap、统计页、dataset/ 归档包与外部库缓存（_data/authority_links.json、_data/bsf_links.json、_data/papers.json、_data/name_issues.json）均已按新名录重算；
   - 说明：新种模式产地以原文为准；*Spiralitermes jurupari*、*Chasitermes tupan*、*Scheffrahnitermes ubuntu* 的产地仅到区域级（原文摘要未给出具体地点），待补。
-  - 固化：新增 `_tools/build_taxonomy_data.py`（只用标准库、确定性输出、支持 `--check`），从 `list.md` + `_species/` 统一生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；已接入 `validate.yml` 与 `pages.yml` 的生成顺序，此后增删类群不再需要手工改这些派生产物；
+  - **站点结构（同版本）**：`/list/` 由全量名录改为**名录索引**——只保留分类框架说明、搜索框、按科浏览（13 科）、支系—科两层入口（6 支系、每科在该支系下的计数）与页末 77 条参考文献；逐条名录（326 属 / 3021 种 / 68 亚种）下沉到 `/family/`、`/subfamily/`、`/genus/` 三级页面，属页列出该属全部种与亚种，科页与亚科页承担本级说明、分布图与下一级入口。科／亚科正文的英译与西译整段迁到 `/en/list/sections/`、`/es/list/sections/` 两个译文页（各 466 行），中文正文仍渲染在科页与亚科页。
+  - **数据源（同版本）**：分类层级、三语科亚科正文、索引页说明块改为 `_data/taxonomy.json`、`_data/taxon_prose.json`、`_data/list_index_blocks.json` 三个数据文件；`_tools/build_list_index.py` 据此生成三语索引页与两个译文页（5 个页面，**不再手改**），`_tools/extract_taxon_data.py --check` 校验三者自洽。`build_taxonomy_data.py`、`build_search_index.py` 改从 taxonomy.json 建树，面包屑、统计页、检索结果与分布图内链一律改指 `/family|/subfamily|/genus/<id>/`，物种页正文里的「分类位置」链接同步重写；`check_site.py` 的不变量改为「三语索引页锚点同构 + 每个科/亚科/属都有页面 + 每个物种页都出现在其属页上」。
+  - 固化：新增 `_tools/build_taxonomy_data.py`（只用标准库、确定性输出、支持 `--check`），从 `list.md`（当时仍是全量名录，现改读 `_data/taxonomy.json`，见下条）+ `_species/` 统一生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；已接入 `validate.yml` 与 `pages.yml` 的生成顺序，此后增删类群不再需要手工改这些派生产物；
   - 修复：`data/*.json` 的 `distribution` 字段此前带一个多余的右括号（如「安哥拉）」，由历史生成逻辑残留），已统一去掉；`data/index.json` 中按支系合辑存放的科（远等翅类 4 科、新等翅类除白蚁科 6 科）的 `file` 链接改为指向实际合辑文件（此前指向不存在的单科文件）；
   - 统计页：属级明细表改为固定排序（种数降序、同种数按拉丁名升序），英文版「Overview」与亚科表表头改用英文标签；三语统计页计数与名录同步；
   - 名称微调：*Isognathotermes phalloides* 中文正名由「似阳茎等颚白蚁」定为「阳茎等颚白蚁」。

@@ -1,20 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""list.md 标题的解析约定（多个脚本共用，改这一份即可全员同步）。
+"""名录页里「非分类学标题」的锚点名单。
 
-名录用 <hN id="anchor">中文名 LATIN</hN> 表达分类阶元：
-  h2 支系 / h3 科 / h4 亚科 / h5 属 —— 标题必须是「中文名 + 拉丁名」。
-页面里还有若干**非分类学**标题（导航栏、目录、参考文献），它们只有中文、
-没有拉丁名，任何按「中文名 LATIN」解析的地方都必须先把这些锚点跳过，
-否则会以「无法拆分标题 / 无法拆分名录标题」直接失败。
+历史：`/list/` 曾是全量名录，标题按 `<hN id="anchor">中文名 LATIN</hN>` 表达分类阶元
+（h2 支系 / h3 科 / h4 亚科 / h5 属），页内另有导航栏、目录、参考文献这类只有中文的
+标题；凡按「中文名 LATIN」解析标题的脚本都必须先跳过它们。
 
-新增这类标题（例如再加一个「按亚科浏览」）时，只需把它的 id 加进
-NON_TAXON_IDS；本仓库里所有解析 list.md 标题的脚本都从这里取名单：
+名录改版为索引页之后，层级与顺序一律取 `_data/taxonomy.json`，
+`build_taxonomy_data.py` 与 `build_search_index.py` 都已不再解析标题；只剩迁移脚本
+`_tools/extract_taxon_data.py` 还在用这份名单（抽取旧名录时跳过导航类锚点，
+免得把「目录」「参考文献」当成科/亚科正文）。
 
-  _tools/build_taxonomy_data.py            （分类树 / data/*.json / 三语 stats.md）
-  .github/workflows/build_search_index.py  （search-index.json）
-
-不要在各脚本里另抄一份名单。
+新建索引页类标题时把 id 加进 NON_TAXON_IDS 即可；不要在脚本里另抄一份名单。
 """
 
 from __future__ import annotations

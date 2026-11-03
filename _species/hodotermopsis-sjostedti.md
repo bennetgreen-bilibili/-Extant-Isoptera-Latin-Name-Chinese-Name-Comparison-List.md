@@ -33,8 +33,8 @@ ES — **山林原白蚁** (*Hodotermopsis sjostedti*) es la única especie vivi
 
 ## 分类位置
 
-- **科 Family / Familia**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/list/#hodotermopsidae) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
-- **属 Genus / Género**：[原白蚁属 *Hodotermopsis*]({{ site.base_url }}/list/#hodotermopsis) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科 Family / Familia**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/family/hodotermopsidae/) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
+- **属 Genus / Género**：[原白蚁属 *Hodotermopsis*]({{ site.base_url }}/genus/hodotermopsis/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 

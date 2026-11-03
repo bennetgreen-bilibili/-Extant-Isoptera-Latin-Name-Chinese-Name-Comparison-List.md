@@ -29,7 +29,7 @@ jobs:
       - name: Install python-docx
         run: pip install python-docx
 
-      # 结构一致性闸门：三语名录同构、锚点、计数、sitemap、i18n、命名差异产物
+      # 结构一致性闸门：三语索引页同构、层级页面齐备、计数、sitemap、i18n、命名差异产物
       # （数据本身有错就不部署；生成产物由下面的步骤重新生成，不在此处比较）
       - name: Structural checks before build
         run: python _tools/check_site.py
@@ -37,8 +37,17 @@ jobs:
       - name: Convert _inbox to posts
         run: python .github/workflows/convert_inbox.py
 
+      # 分类层级 / 科亚科正文 / 索引页说明块三项数据自洽（只校验 JSON，不读 list.md）
+      - name: Verify taxonomy data files
+        run: python _tools/extract_taxon_data.py --check
+
+      # 三语 /list/ 索引页 + 英西译文页（/en/list/sections/、/es/list/sections/）：
+      # 从 _data/taxonomy.json + list_index_blocks.json + taxon_prose.json 生成
+      - name: Build list index pages
+        run: python _tools/build_list_index.py
+
       # 分类树结构化数据（isoptera-data.json / data/）与三语统计页（stats.md）：
-      # 从 list.md + _species/ 确定性生成；必须在物种页正文与数据集之前跑
+      # 从 _data/taxonomy.json + _species/ 确定性生成；必须在物种页正文与数据集之前跑
       - name: Build taxonomy data and statistics pages
         run: python _tools/build_taxonomy_data.py --write
 

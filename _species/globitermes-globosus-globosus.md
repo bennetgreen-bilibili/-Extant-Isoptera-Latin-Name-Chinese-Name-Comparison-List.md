@@ -35,9 +35,9 @@ ES — **指名亚种** (*Globitermes globosus globosus*) es una subespecie de *
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
-- **属 Genus / Género**：[球白蚁属 *Globitermes*]({{ site.base_url }}/list/#globitermes) —— 共 7 种（7 species · 7 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
+- **属 Genus / Género**：[球白蚁属 *Globitermes*]({{ site.base_url }}/genus/globitermes/) —— 共 7 种（7 species · 7 especies）
 - **种 Species / Especie**：[球形球白蚁 *Globitermes globosus*]({{ site.base_url }}/species/globitermes-globosus/)
 - **亚种 Subspecies / Subespecie**：本页（*Globitermes globosus globosus*）
 

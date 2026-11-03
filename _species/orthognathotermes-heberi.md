@@ -34,9 +34,9 @@ ES — **希伯直颚白蚁** (*Orthognathotermes heberi*) es una especie del g�
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/list/#amitermitinae) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
-- **属 Genus / Género**：[直颚白蚁属 *Orthognathotermes*]({{ site.base_url }}/list/#orthognathotermes) —— 共 15 种（15 species · 15 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
+- **属 Genus / Género**：[直颚白蚁属 *Orthognathotermes*]({{ site.base_url }}/genus/orthognathotermes/) —— 共 15 种（15 species · 15 especies）
 - **本属模式种 Type species / Especie tipo**：*Orthognathotermes macrocephalus*
 
 ## 分布

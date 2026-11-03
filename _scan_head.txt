@@ -1,0 +1,80 @@
+   1| ---
+   2| layout: default
+   3| title: 名录 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+   4| description: "全名录按科、亚科、属分级列出 3021 种与 68 亚种，逐条给出拉丁学名、中文正名、命名人与年份、模式产地和分布，标注模式种，附 77 篇参考文献与三语对照。｜本站《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》（2026.10.30 版），收录 13 科、326 属、3021 种、68 亚种。"
+   5| lang: zh-CN
+   6| author: 班奈特格林
+   7| date: 2026-10-17
+   8| version: 2026.10.30
+   9| keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录, 分类, Termitidae]
+  10| permalink: /list/
+  11| ---
+  12| # 现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名—中文正名对照名录（2026.10.30）正式版
+  13| 
+  14| ## 分类框架
+  15| 
+  16| 本名录全部类群同属一个分类框架，自上而下为：
+  17| 
+  18| 1. **域 Domain**：真核域 Eukaryota
+  19| 2. **界 Kingdom**：动物界 Animalia
+  20| 3. **门 Phylum**：节肢动物门 Arthropoda
+  21| 4. **纲 Class**：昆虫纲 Insecta
+  22| 5. **亚纲 Subclass**：有翅亚纲 Pterygota
+  23| 6. **下纲 Infraclass**：新翅下纲 Neoptera
+  24| 7. **总目 Superorder**：网翅总目 Dictyoptera
+  25| 8. **目 Order**：蜚蠊目 Blattodea
+  26| 9. **下目 Infraorder**：等翅下目 Isoptera（白蚁领科 Termitoidae）
+  27| 
+  28| 其下依次为 **科 Family** → **亚科 Subfamily** → **属 Genus** → **种 Species**；各科、亚科、属、种详见下方名录。
+  29| 
+  30| <div class="search-wrap">
+  31|   <input type="search" id="search-input" class="search-input" placeholder="搜索中文名、拉丁学名、次异名，支持拼音与繁体（如：Mastotermes、达尔文澳白蚁、baiyi、白蟻、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
+  32|   <ul id="search-results" class="search-results" style="display:none"></ul>
+  33| </div>
+  34| 
+  35| <p class="search-hint">可直接输入拼音（如 <code>baiyi</code>）或繁体中文检索；名录之外的内容（博客、物种页等）见 <a href="{{ site.base_url }}/search/">全站全文搜索</a>。</p>
+  36| 
+  37| <p class="search-hint search-hint-board">与 GBIF / Catalogue of Life / Blattodea Species File 的对照中，共有 <strong>{{ site.data.name_issues.meta.counts.total }}</strong> 条需要人工注意（名称差异 {{ site.data.name_issues.meta.counts.by_group.conflict }} 条 → {{ site.data.name_issues.meta.counts.conflict_pairs }} 对：组合差异 {{ site.data.name_issues.meta.counts.pairs_relation_combination }} · 本站名为接收名 {{ site.data.name_issues.meta.counts.pairs_direction_site }} · 已补录 {{ site.data.name_issues.meta.counts.pairs_recorded }} · 匹配存疑 {{ site.data.name_issues.meta.counts.by_group.match }} · 覆盖缺口 {{ site.data.name_issues.meta.counts.by_group.gap }}）：<a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异与待核对 →</strong></a></p>
+  38| 
+  39| {% include distribution-notes.html %}
+  40| 
+  41| <h2 id="by-family">按科浏览（13 科）</h2>
+  42| 
+  43| <p>13 个科均可单独浏览，每页列出该科的全部亚科、属与物种链接及各级数量：</p>
+  44| 
+  45| <ul class="taxon-list family-browse">
+  46| <li><a href="{{ site.base_url }}/family/mastotermitidae/">澳白蚁科 <i>MASTOTERMITIDAE</i></a> <span class="taxon-count">1 属 · 1 种</span></li>
+  47| <li><a href="{{ site.base_url }}/family/archotermopsidae/">古白蚁科 <i>ARCHOTERMOPSIDAE</i></a> <span class="taxon-count">2 属 · 5 种</span></li>
+  48| <li><a href="{{ site.base_url }}/family/hodotermitidae/">草白蚁科 <i>HODOTERMITIDAE</i></a> <span class="taxon-count">3 属 · 21 种</span></li>
+  49| <li><a href="{{ site.base_url }}/family/hodotermopsidae/">原白蚁科 <i>HODOTERMOPSIDAE</i></a> <span class="taxon-count">1 属 · 1 种</span></li>
+  50| <li><a href="{{ site.base_url }}/family/stolotermitidae/">胄白蚁科 <i>STOLOTERMITIDAE</i></a> <span class="taxon-count">2 属 · 10 种</span></li>
+  51| <li><a href="{{ site.base_url }}/family/kalotermitidae/">木白蚁科 <i>KALOTERMITIDAE</i></a> <span class="taxon-count">23 属 · 480 种</span></li>
+  52| <li><a href="{{ site.base_url }}/family/psammotermitidae/">沙白蚁科 <i>PSAMMOTERMITIDAE</i></a> <span class="taxon-count">2 属 · 18 种</span></li>
+  53| <li><a href="{{ site.base_url }}/family/rhinotermitidae/">鼻白蚁科 <i>RHINOTERMITIDAE</i></a> <span class="taxon-count">5 属 · 62 种</span></li>
+  54| <li><a href="{{ site.base_url }}/family/serritermitidae/">齿白蚁科 <i>SERRITERMITIDAE</i></a> <span class="taxon-count">2 属 · 3 种</span></li>
+  55| <li><a href="{{ site.base_url }}/family/stylotermitidae/">杆白蚁科 <i>STYLOTERMITIDAE</i></a> <span class="taxon-count">1 属 · 45 种</span></li>
+  56| <li><a href="{{ site.base_url }}/family/termitogetonidae/">寡脉白蚁科 <i>TERMITOGETONIDAE</i></a> <span class="taxon-count">1 属 · 2 种</span></li>
+  57| <li><a href="{{ site.base_url }}/family/heterotermitidae/">异白蚁科 <i>HETEROTERMITIDAE</i></a> <span class="taxon-count">3 属 · 229 种</span></li>
+  58| <li><a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>TERMITIDAE</i></a> <span class="taxon-count">280 属 · 2144 种</span></li>
+  59| </ul>
+  60| 
+  61| <h2 id="toc">目录</h2>
+  62| 
+  63| - [现存等翅下目 Extant Isoptera](#isoptera)
+  64|   - [澳白蚁科 MASTOTERMITIDAE](#mastotermitidae)
+  65|     - [澳白蚁属 Mastotermes](#mastotermes)
+  66|   - [真等翅类 Euisoptera](#euisoptera)
+  67|     - [远等翅类 Teletisoptera](#teletisoptera)
+  68|       - [古白蚁科 ARCHOTERMOPSIDAE](#archotermopsidae)
+  69|         - [古白蚁属 Archotermopsis](#archotermopsis)
+  70|         - [动白蚁属 Zootermopsis](#zootermopsis)
+  71|       - [草白蚁科 HODOTERMITIDAE](#hodotermitidae)
+  72|         - [无刺白蚁属 Anacanthotermes](#anacanthotermes)
+  73|         - [草白蚁属 Hodotermes](#hodotermes)
+  74|         - [小草白蚁属 Microhodotermes](#microhodotermes)
+  75|       - [原白蚁科 HODOTERMOPSIDAE](#hodotermopsidae)
+  76|         - [原白蚁属 Hodotermopsis](#hodotermopsis)
+  77|       - [胄白蚁科 STOLOTERMITIDAE](#stolotermitidae)
+  78|         - [洞白蚁属 Porotermes](#porotermes)
+  79|         - [胄白蚁属 Stolotermes](#stolotermes)
+  80|     - [近等翅类 Icoisoptera](#icoisoptera)

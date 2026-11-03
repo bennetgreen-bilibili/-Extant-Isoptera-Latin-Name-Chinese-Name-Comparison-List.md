@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/lepidotermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#cubitermitinae">方白蚁亚科</a> › <a href="{{ site.base_url }}/list/#lepidotermes">鳞白蚁属 <i>Lepidotermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科</a> › <a href="{{ site.base_url }}/genus/lepidotermes/">鳞白蚁属 <i>Lepidotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>鳞白蚁属 <i>Lepidotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 9 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/lepidotermes-amydrus/"><i>Lepidotermes amydrus</i> Uys, 1994 幽暗鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-goliathi/"><i>Lepidotermes goliathi</i> Williams, 1954 戈利亚特鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-lounsburyi/"><i>Lepidotermes lounsburyi</i> Silvestri, 1914 劳恩斯伯里鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-mtwalumi/"><i>Lepidotermes mtwalumi</i> Fuller, 1925 姆图瓦卢米鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-planifacies/"><i>Lepidotermes planifacies</i> Williams, 1954 扁形鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-pretoriensis/"><i>Lepidotermes pretoriensis</i> Sjöstedt, 1914 比勒陀利亚鳞白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/lepidotermes-scalenus/"><i>Lepidotermes scalenus</i> Uys, 1994 斜角肌鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-simplex/"><i>Lepidotermes simplex</i> Holmgren, 1913 简单鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-vastus/"><i>Lepidotermes vastus</i> Uys, 1994 空闲鳞白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#lepidotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

@@ -32,8 +32,8 @@ ES — **指名亚种** (*Zootermopsis nevadensis nevadensis*) es una subespecie
 
 ## 分类位置
 
-- **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/list/#archotermopsidae) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
-- **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/list/#zootermopsis) —— 共 3 种（3 species · 3 especies）
+- **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
+- **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种（3 species · 3 especies）
 - **种 Species / Especie**：[内华达动白蚁 *Zootermopsis nevadensis*]({{ site.base_url }}/species/zootermopsis-nevadensis/)
 - **亚种 Subspecies / Subespecie**：本页（*Zootermopsis nevadensis nevadensis*）
 

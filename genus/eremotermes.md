@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/eremotermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#amitermitinae">弓白蚁亚科</a> › <a href="{{ site.base_url }}/list/#eremotermes">漠白蚁属 <i>Eremotermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/amitermitinae/">弓白蚁亚科</a> › <a href="{{ site.base_url }}/genus/eremotermes/">漠白蚁属 <i>Eremotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>漠白蚁属 <i>Eremotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 10 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（10 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/eremotermes-arctus/"><i>Eremotermes arctus</i> Spaeth, 1964 短窄漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-dehraduni/"><i>Eremotermes dehraduni</i> Roonwal & Sen-Sarma, 1960 德拉敦漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-fletcheri/"><i>Eremotermes fletcheri</i> Holmgren & Holmgren, 1917 弗莱彻漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-indicatus/"><i>Eremotermes indicatus</i> Silvestri, 1911 指示漠白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/eremotermes-madrasicus/"><i>Eremotermes madrasicus</i> Roonwal & Sen-Sarma, 1960 马德拉斯漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-nanus/"><i>Eremotermes nanus</i> Harris, 1960 侏儒漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-neoparadoxalis/"><i>Eremotermes neoparadoxalis</i> Ahmad, 1955 新奇异漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-paradoxalis/"><i>Eremotermes paradoxalis</i> Holmgren, 1912 奇异漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-sanyuktae/"><i>Eremotermes sanyuktae</i> Thakur, 1989 女神漠白蚁</a></li><li><a href="{{ site.base_url }}/species/eremotermes-senegalensis/"><i>Eremotermes senegalensis</i> Mampouya, Fleck & Nel, 1997 塞内加尔漠白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#eremotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

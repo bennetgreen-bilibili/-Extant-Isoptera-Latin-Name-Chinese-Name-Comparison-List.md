@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/protermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#macrotermitinae">大白蚁亚科</a> › <a href="{{ site.base_url }}/list/#protermes">前白蚁属 <i>Protermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/macrotermitinae/">大白蚁亚科</a> › <a href="{{ site.base_url }}/genus/protermes/">前白蚁属 <i>Protermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>前白蚁属 <i>Protermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 5 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/protermes-hirticeps/"><i>Protermes hirticeps</i> Sjöstedt, 1924 毛头前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-minimus/"><i>Protermes minimus</i> Ruelle, 1971 最小前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-minutus/"><i>Protermes minutus</i> Grassé, 1937 小前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-mwekerae/"><i>Protermes mwekerae</i> Ruelle, 1971 穆维盖拉前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-prorepens/"><i>Protermes prorepens</i> Sjöstedt, 1907 前匍前白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#protermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/macrotermitinae/">大白蚁亚科 <i>Macrotermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

@@ -61,8 +61,18 @@
     },
     {
      "depth": 1,
-     "text": "固化：新增 `_tools/build_taxonomy_data.py`（只用标准库、确定性输出、支持 `--check`），从 `list.md` + `_species/` 统一生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；已接入 `validate.yml` 与 `pages.yml` 的生成顺序，此后增删类群不再需要手工改这些派生产物；",
-     "html": "固化：新增 <code>_tools/build_taxonomy_data.py</code>（只用标准库、确定性输出、支持 <code>--check</code>），从 <code>list.md</code> + <code>_species/</code> 统一生成 <code>isoptera-data.json</code>、<code>data/index.json</code>、<code>data/*.json</code> 与三语 <code>stats.md</code>；已接入 <code>validate.yml</code> 与 <code>pages.yml</code> 的生成顺序，此后增删类群不再需要手工改这些派生产物；"
+     "text": "**站点结构（同版本）**：`/list/` 由全量名录改为**名录索引**——只保留分类框架说明、搜索框、按科浏览（13 科）、支系—科两层入口（6 支系、每科在该支系下的计数）与页末 77 条参考文献；逐条名录（326 属 / 3021 种 / 68 亚种）下沉到 `/family/`、`/subfamily/`、`/genus/` 三级页面，属页列出该属全部种与亚种，科页与亚科页承担本级说明、分布图与下一级入口。科／亚科正文的英译与西译整段迁到 `/en/list/sections/`、`/es/list/sections/` 两个译文页（各 466 行），中文正文仍渲染在科页与亚科页。",
+     "html": "<strong>站点结构（同版本）</strong>：<code>/list/</code> 由全量名录改为<strong>名录索引</strong>——只保留分类框架说明、搜索框、按科浏览（13 科）、支系—科两层入口（6 支系、每科在该支系下的计数）与页末 77 条参考文献；逐条名录（326 属 / 3021 种 / 68 亚种）下沉到 <code>/family/</code>、<code>/subfamily/</code>、<code>/genus/</code> 三级页面，属页列出该属全部种与亚种，科页与亚科页承担本级说明、分布图与下一级入口。科／亚科正文的英译与西译整段迁到 <code>/en/list/sections/</code>、<code>/es/list/sections/</code> 两个译文页（各 466 行），中文正文仍渲染在科页与亚科页。"
+    },
+    {
+     "depth": 1,
+     "text": "**数据源（同版本）**：分类层级、三语科亚科正文、索引页说明块改为 `_data/taxonomy.json`、`_data/taxon_prose.json`、`_data/list_index_blocks.json` 三个数据文件；`_tools/build_list_index.py` 据此生成三语索引页与两个译文页（5 个页面，**不再手改**），`_tools/extract_taxon_data.py --check` 校验三者自洽。`build_taxonomy_data.py`、`build_search_index.py` 改从 taxonomy.json 建树，面包屑、统计页、检索结果与分布图内链一律改指 `/family|/subfamily|/genus/<id>/`，物种页正文里的「分类位置」链接同步重写；`check_site.py` 的不变量改为「三语索引页锚点同构 + 每个科/亚科/属都有页面 + 每个物种页都出现在其属页上」。",
+     "html": "<strong>数据源（同版本）</strong>：分类层级、三语科亚科正文、索引页说明块改为 <code>_data/taxonomy.json</code>、<code>_data/taxon_prose.json</code>、<code>_data/list_index_blocks.json</code> 三个数据文件；<code>_tools/build_list_index.py</code> 据此生成三语索引页与两个译文页（5 个页面，<strong>不再手改</strong>），<code>_tools/extract_taxon_data.py --check</code> 校验三者自洽。<code>build_taxonomy_data.py</code>、<code>build_search_index.py</code> 改从 taxonomy.json 建树，面包屑、统计页、检索结果与分布图内链一律改指 <code>/family|/subfamily|/genus/&lt;id&gt;/</code>，物种页正文里的「分类位置」链接同步重写；<code>check_site.py</code> 的不变量改为「三语索引页锚点同构 + 每个科/亚科/属都有页面 + 每个物种页都出现在其属页上」。"
+    },
+    {
+     "depth": 1,
+     "text": "固化：新增 `_tools/build_taxonomy_data.py`（只用标准库、确定性输出、支持 `--check`），从 `list.md`（当时仍是全量名录，现改读 `_data/taxonomy.json`，见下条）+ `_species/` 统一生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；已接入 `validate.yml` 与 `pages.yml` 的生成顺序，此后增删类群不再需要手工改这些派生产物；",
+     "html": "固化：新增 <code>_tools/build_taxonomy_data.py</code>（只用标准库、确定性输出、支持 <code>--check</code>），从 <code>list.md</code>（当时仍是全量名录，现改读 <code>_data/taxonomy.json</code>，见下条）+ <code>_species/</code> 统一生成 <code>isoptera-data.json</code>、<code>data/index.json</code>、<code>data/*.json</code> 与三语 <code>stats.md</code>；已接入 <code>validate.yml</code> 与 <code>pages.yml</code> 的生成顺序，此后增删类群不再需要手工改这些派生产物；"
     },
     {
      "depth": 1,

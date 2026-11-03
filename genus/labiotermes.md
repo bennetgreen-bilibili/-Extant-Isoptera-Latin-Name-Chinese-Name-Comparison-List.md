@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/labiotermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#syntermitinae">聚白蚁亚科</a> › <a href="{{ site.base_url }}/list/#labiotermes">厚唇白蚁属 <i>Labiotermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/syntermitinae/">聚白蚁亚科</a> › <a href="{{ site.base_url }}/genus/labiotermes/">厚唇白蚁属 <i>Labiotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>厚唇白蚁属 <i>Labiotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 10 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（10 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/labiotermes-brevilabius/"><i>Labiotermes brevilabius</i> Emerson & Banks, 1965 短唇厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-emersoni/"><i>Labiotermes emersoni</i> Araujo, 1954 埃默森厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-guasu/"><i>Labiotermes guasu</i> Constantino & Acioli, 2006 大厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-labralis/"><i>Labiotermes labralis</i> Holmgren, 1906 细唇厚唇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/labiotermes-laticephalus/"><i>Labiotermes laticephalus</i> Silvestri, 1901 宽头厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-leptothrix/"><i>Labiotermes leptothrix</i> Mathews, 1977 纤毛厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-longilabius/"><i>Labiotermes longilabius</i> Silvestri, 1901 长唇厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-oreadicus/"><i>Labiotermes oreadicus</i> Constantino, 2006 山神厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-orthocephalus/"><i>Labiotermes orthocephalus</i> Silvestri, 1901 直头厚唇白蚁</a></li><li><a href="{{ site.base_url }}/species/labiotermes-pelliceus/"><i>Labiotermes pelliceus</i> Emerson & Banks, 1965 毛头厚唇白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#labiotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

@@ -21,7 +21,7 @@ breadcrumb:
     url: "/subfamily/mirocapritermitinae/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#mirocapritermitinae">瘤白蚁亚科</a> › <span>本亚科</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/mirocapritermitinae/">瘤白蚁亚科</a> › <span>本亚科</span></nav>
 <header class="taxon-header">
 <h1>瘤白蚁亚科 <i>Mirocapritermitinae</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 14 属 · 135 种、3 亚种</p>
@@ -42,18 +42,18 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="subfamily" id="mirocapritermitinae" %}
 </section>
-<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<section class="taxon-section taxon-intro">
 <h2>亚科级介绍</h2>
 <p>瘤白蚁亚科由 Kemner 于 1934 年建立（Mirocapritermitinae Kemner, 1934），模式属为瘤白蚁属 Mirocapritermes Holmgren, 1914。本名录收录 14 属 135 种。</p>
 <p>本亚科以东洋界为多样性中心，多数属限于东洋界；近扭白蚁属 Pericapritermes 分布最广，东洋界之外还见于非洲热带、澳洲界及古北南缘（日本、韩国）。</p>
 <p>食性为土壤（腐殖质）食性或土壤—木材界面取食，属高等白蚁中典型的土栖有机质降解类群。防御上为典型的扭颚类群：兵蚁头矩形，上颚一般左右不对称（左上颚中部扭曲、右上颚呈刀剑状），借上颚形变时储存的弹性势能高速弹击御敌；新渡户近扭白蚁 P. nitobei(61)的高速摄影研究表明其不对称扭颚的击发速度与力量均超过对称弹颚类，前扭白蚁属部分种类上颚近对称。兵蚁头背面一般无额突，囟门小而不显著，仅模式属瘤白蚁属 Mirocapritermes 例外，额部具突起。工蚁—有翅蚁型右上颚第二缘齿后缘凹入、臼齿区平滑或仅具弱纹；后肠马氏管两对在近端愈合成组、无马氏管结节，肠瓣由六列褶突构成，为本亚科工蚁后肠的共性鉴别特征。经济上为害记录零散：印度卡纳塔克邦油棕苗圃(62)中近扭白蚁属 Pericapritermes sp. 为害袋装幼苗根部，致幼苗生长受阻。</p>
-<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#mirocapritermitinae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+<p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
 <section class="taxon-section">
 <h2>属（14）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/dicuspiditermes/"><i>Dicuspiditermes</i> 突扭白蚁属</a> <span class="taxon-count">21 种</span></li><li><a href="{{ site.base_url }}/genus/homallotermes/"><i>Homallotermes</i> 平白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/indocapritermes/"><i>Indocapritermes</i> 印扭白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/kemneritermes/"><i>Kemneritermes</i> 凯姆勒白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/krishnacapritermes/"><i>Krishnacapritermes</i> 克里希纳扭白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/labiocapritermes/"><i>Labiocapritermes</i> 唇扭白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/mirocapritermes/"><i>Mirocapritermes</i> 瘤白蚁属</a> <span class="taxon-count">8 种</span></li><li><a href="{{ site.base_url }}/genus/oriencapritermes/"><i>Oriencapritermes</i> 东扭白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/pericapritermes/"><i>Pericapritermes</i> 近扭白蚁属</a> <span class="taxon-count">40 种、3 亚种</span></li><li><a href="{{ site.base_url }}/genus/procapritermes/"><i>Procapritermes</i> 前扭白蚁属</a> <span class="taxon-count">13 种</span></li><li><a href="{{ site.base_url }}/genus/pseudocapritermes/"><i>Pseudocapritermes</i> 伪扭白蚁属</a> <span class="taxon-count">19 种</span></li><li><a href="{{ site.base_url }}/genus/rinacapritermes/"><i>Rinacapritermes</i> 丽娜扭白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/sinocapritermes/"><i>Sinocapritermes</i> 华扭白蚁属</a> <span class="taxon-count">16 种</span></li><li><a href="{{ site.base_url }}/genus/syncapritermes/"><i>Syncapritermes</i> 聚扭白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>
-<p class="taxon-more">该亚科的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#mirocapritermitinae">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

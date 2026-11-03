@@ -19,7 +19,7 @@ breadcrumb:
     url: "/family/mastotermitidae/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#mastotermitidae">澳白蚁科</a> › <span>本科</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/mastotermitidae/">澳白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>澳白蚁科 <i>Mastotermitidae</i></h1>
 <p class="taxon-meta">现存等翅下目 Extant Isoptera · 1 属 · 1 种</p>
@@ -40,11 +40,11 @@ breadcrumb:
 <h2>分布图</h2>
 {% include distribution-map.html mode="family" id="mastotermitidae" %}
 </section>
-<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>澳白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)。模式属为澳白蚁属 Mastotermes Froggatt, 1897（模式种达尔文澳白蚁Mastotermes darwiniensis Froggatt, 1897，原始指定单模式）。科名由模式属名加科级后缀 -idae 构成；Mastotermes 一般释为希腊文 mastos（乳房状突起）与 termes 组合，指蚁后腹部的乳突状构造。本科兵蚁与工蚁外形相近、分化程度低，上颚具端齿与多个缘齿；有翅生殖蚁翅脉呈网状并具发达的臀脉区，是现生白蚁中保留原始特征较多的类群。本科兵蚁头壳圆形、淡红棕色，上颚短粗而端齿长；右上颚缘齿2枚均发达，左上颚仅第1缘齿明显、余者退化（齿式为本科鉴别点，仅见于本科）；兵蚁与工蚁前足基节各具瓣状突起，股节与胫节腹面具成列对生小齿，为本科独有的附肢特征。本名录收录 1 属 1 种。</p>
 <p>现生种分布于澳大利亚北部热带地区（北领地、昆士兰北部、西澳金伯利一带），并已传入巴布亚新几内亚。本科是现生白蚁最早分化的支系(2)，后翅具宽大臀域(3)、跗节 5 节、产卵如蜚蠊般形成卵鞘，这些特征也可在近缘的食木蜚蠊类群（如 Cryptocercus）中找到。巢筑于地下、倒木与树木根颈处，无外露垅巢；自然条件下群体中等，在人居环境可扩展至十万级甚至更大规模，并能以补充繁殖蚁分巢扩散。经济上，达尔文澳白蚁是澳大利亚北部危害建筑木材与活立木的重要害虫(4)。入侵种群约于20世纪50年代（1959年前后）随运输物资传入巴布亚新几内亚莱城（Lae）；1962—1973年曾实施除治并一度以为根除，1990年代初复现，2002年再发现新的侵害点，现已扩散至当地42种本地与外来树木，受害面积较1973年扩大约6倍。该种另在澳大利亚境内向南扩展至黄金海岸（Gold Coast，约在本土分布南界以南800 km），属本土范围内的扩散。</p>
-<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#mastotermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+<p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
 {%- assign fz = site.data.fauna_families["/family/mastotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
@@ -52,8 +52,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/mastotermes/"><i>Mastotermes</i> 澳白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>
-<p class="taxon-more">该科的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#mastotermitidae">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

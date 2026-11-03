@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "直颚白蚁属 Orthognathotermes 物种名录"
-description: "直颚白蚁属（Orthognathotermes）是白蚁科（TERMITIDAE）下的一个属，隶属弓白蚁亚科（Amitermitinae），本站收录 15 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置与名录锚点见完整名录的对应章节。详见完整名录。按分类系统逐级排列。"
+description: "直颚白蚁属（Orthognathotermes）是白蚁科（TERMITIDAE）下的一个属，隶属弓白蚁亚科（Amitermitinae），本站收录 15 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置见名录索引与上级科、亚科页面。详见名录索引。按分类系统逐级排列。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/orthognathotermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#amitermitinae">弓白蚁亚科</a> › <a href="{{ site.base_url }}/list/#orthognathotermes">直颚白蚁属 <i>Orthognathotermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/amitermitinae/">弓白蚁亚科</a> › <a href="{{ site.base_url }}/genus/orthognathotermes/">直颚白蚁属 <i>Orthognathotermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>直颚白蚁属 <i>Orthognathotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 15 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（15 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/orthognathotermes-aduncus/"><i>Orthognathotermes aduncus</i> Emerson, 1949 具钩直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-brevipilosus/"><i>Orthognathotermes brevipilosus</i> Snyder, 1926 短毛直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-gibberorum/"><i>Orthognathotermes gibberorum</i> Mathews, 1977 驼背直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-heberi/"><i>Orthognathotermes heberi</i> Raw & Egler, 1985 希伯直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-humilis/"><i>Orthognathotermes humilis</i> Constantino, 1991 小直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-insignis/"><i>Orthognathotermes insignis</i> Araujo, 1977 醒目直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-longilamina/"><i>Orthognathotermes longilamina</i> Rocha & Cancello, 2009 长刀直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-macrocephalus/"><i>Orthognathotermes macrocephalus</i> Holmgren, 1906 大头直颚白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/orthognathotermes-mirim/"><i>Orthognathotermes mirim</i> Rocha & Cancello, 2009 小兵直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-okeyma/"><i>Orthognathotermes okeyma</i> Rocha & Cancello, 2009 无巢直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-orthognathus/"><i>Orthognathotermes orthognathus</i> Silvestri, 1903 直颚直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-pilosus/"><i>Orthognathotermes pilosus</i> Rocha & Cancello, 2009 多毛直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-tubesauassu/"><i>Orthognathotermes tubesauassu</i> Rocha & Cancello, 2009 大眼直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-uncimandibularis/"><i>Orthognathotermes uncimandibularis</i> Rocha & Cancello, 2009 钩颚直颚白蚁</a></li><li><a href="{{ site.base_url }}/species/orthognathotermes-wheeleri/"><i>Orthognathotermes wheeleri</i> Snyder, 1923 惠勒直颚白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#orthognathotermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

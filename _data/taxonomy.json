@@ -1,0 +1,2961 @@
+{
+ "clades": [
+  {
+   "families": [
+    "mastotermitidae"
+   ],
+   "id": "isoptera",
+   "latin": "Extant Isoptera",
+   "zh": "现存等翅下目"
+  },
+  {
+   "families": [],
+   "id": "euisoptera",
+   "latin": "Euisoptera",
+   "zh": "真等翅类"
+  },
+  {
+   "families": [
+    "archotermopsidae",
+    "hodotermitidae",
+    "hodotermopsidae",
+    "stolotermitidae"
+   ],
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  {
+   "families": [
+    "kalotermitidae"
+   ],
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  {
+   "families": [
+    "psammotermitidae",
+    "rhinotermitidae",
+    "serritermitidae",
+    "stylotermitidae",
+    "termitogetonidae"
+   ],
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  {
+   "families": [
+    "heterotermitidae",
+    "termitidae"
+   ],
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  }
+ ],
+ "families": [
+  {
+   "clade": "isoptera",
+   "genera": [
+    "mastotermes"
+   ],
+   "id": "mastotermitidae",
+   "latin": "MASTOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "澳白蚁科"
+  },
+  {
+   "clade": "teletisoptera",
+   "genera": [
+    "archotermopsis",
+    "zootermopsis"
+   ],
+   "id": "archotermopsidae",
+   "latin": "ARCHOTERMOPSIDAE",
+   "subfamilies": [],
+   "zh": "古白蚁科"
+  },
+  {
+   "clade": "teletisoptera",
+   "genera": [
+    "anacanthotermes",
+    "hodotermes",
+    "microhodotermes"
+   ],
+   "id": "hodotermitidae",
+   "latin": "HODOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "草白蚁科"
+  },
+  {
+   "clade": "teletisoptera",
+   "genera": [
+    "hodotermopsis"
+   ],
+   "id": "hodotermopsidae",
+   "latin": "HODOTERMOPSIDAE",
+   "subfamilies": [],
+   "zh": "原白蚁科"
+  },
+  {
+   "clade": "teletisoptera",
+   "genera": [
+    "porotermes",
+    "stolotermes"
+   ],
+   "id": "stolotermitidae",
+   "latin": "STOLOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "胄白蚁科"
+  },
+  {
+   "clade": "icoisoptera",
+   "genera": [
+    "allotermes",
+    "bicornitermes",
+    "bifiditermes",
+    "calcaritermes",
+    "ceratokalotermes",
+    "comatermes",
+    "cryptotermes",
+    "epicalotermes",
+    "eucryptotermes",
+    "glyptotermes",
+    "incisitermes",
+    "kalotermes",
+    "longicaputermes",
+    "marginitermes",
+    "neotermes",
+    "paraneotermes",
+    "postelectrotermes",
+    "procryptotermes",
+    "proneotermes",
+    "pterotermes",
+    "roisinitermes",
+    "rugitermes",
+    "tauritermes"
+   ],
+   "id": "kalotermitidae",
+   "latin": "KALOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "木白蚁科"
+  },
+  {
+   "clade": "neoisoptera",
+   "genera": [
+    "prorhinotermes",
+    "psammotermes"
+   ],
+   "id": "psammotermitidae",
+   "latin": "PSAMMOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "沙白蚁科"
+  },
+  {
+   "clade": "neoisoptera",
+   "genera": [
+    "acorhinotermes",
+    "dolichorhinotermes",
+    "parrhinotermes",
+    "rhinotermes",
+    "schedorhinotermes"
+   ],
+   "id": "rhinotermitidae",
+   "latin": "RHINOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "鼻白蚁科"
+  },
+  {
+   "clade": "neoisoptera",
+   "genera": [
+    "glossotermes",
+    "serritermes"
+   ],
+   "id": "serritermitidae",
+   "latin": "SERRITERMITIDAE",
+   "subfamilies": [],
+   "zh": "齿白蚁科"
+  },
+  {
+   "clade": "neoisoptera",
+   "genera": [
+    "stylotermes"
+   ],
+   "id": "stylotermitidae",
+   "latin": "STYLOTERMITIDAE",
+   "subfamilies": [],
+   "zh": "杆白蚁科"
+  },
+  {
+   "clade": "neoisoptera",
+   "genera": [
+    "termitogeton"
+   ],
+   "id": "termitogetonidae",
+   "latin": "TERMITOGETONIDAE",
+   "subfamilies": [],
+   "zh": "寡脉白蚁科"
+  },
+  {
+   "clade": "geoisoptera",
+   "genera": [
+    "coptotermes",
+    "heterotermes",
+    "reticulitermes"
+   ],
+   "id": "heterotermitidae",
+   "latin": "HETEROTERMITIDAE",
+   "subfamilies": [],
+   "zh": "异白蚁科"
+  },
+  {
+   "clade": "geoisoptera",
+   "genera": [],
+   "id": "termitidae",
+   "latin": "TERMITIDAE",
+   "subfamilies": [
+    "amitermitinae",
+    "apicotermitinae",
+    "crepititermitinae",
+    "cubitermitinae",
+    "cylindrotermitinae",
+    "engelitermitinae",
+    "foraminitermitinae",
+    "forficulitermitinae",
+    "macrotermitinae",
+    "microcerotermitinae",
+    "mirocapritermitinae",
+    "nasutitermitinae",
+    "neocapritermitinae",
+    "promirotermitinae",
+    "protohamitermitinae",
+    "sphaerotermitinae",
+    "syntermitinae",
+    "termitinae"
+   ],
+   "zh": "白蚁科"
+  }
+ ],
+ "genera": [
+  {
+   "family": "mastotermitidae",
+   "id": "mastotermes",
+   "latin": "Mastotermes",
+   "subfamily": "",
+   "zh": "澳白蚁属"
+  },
+  {
+   "family": "archotermopsidae",
+   "id": "archotermopsis",
+   "latin": "Archotermopsis",
+   "subfamily": "",
+   "zh": "古白蚁属"
+  },
+  {
+   "family": "archotermopsidae",
+   "id": "zootermopsis",
+   "latin": "Zootermopsis",
+   "subfamily": "",
+   "zh": "动白蚁属"
+  },
+  {
+   "family": "hodotermitidae",
+   "id": "anacanthotermes",
+   "latin": "Anacanthotermes",
+   "subfamily": "",
+   "zh": "无刺白蚁属"
+  },
+  {
+   "family": "hodotermitidae",
+   "id": "hodotermes",
+   "latin": "Hodotermes",
+   "subfamily": "",
+   "zh": "草白蚁属"
+  },
+  {
+   "family": "hodotermitidae",
+   "id": "microhodotermes",
+   "latin": "Microhodotermes",
+   "subfamily": "",
+   "zh": "小草白蚁属"
+  },
+  {
+   "family": "hodotermopsidae",
+   "id": "hodotermopsis",
+   "latin": "Hodotermopsis",
+   "subfamily": "",
+   "zh": "原白蚁属"
+  },
+  {
+   "family": "stolotermitidae",
+   "id": "porotermes",
+   "latin": "Porotermes",
+   "subfamily": "",
+   "zh": "洞白蚁属"
+  },
+  {
+   "family": "stolotermitidae",
+   "id": "stolotermes",
+   "latin": "Stolotermes",
+   "subfamily": "",
+   "zh": "胄白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "allotermes",
+   "latin": "Allotermes",
+   "subfamily": "",
+   "zh": "奇白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "bicornitermes",
+   "latin": "Bicornitermes",
+   "subfamily": "",
+   "zh": "双角白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "subfamily": "",
+   "zh": "双裂白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "subfamily": "",
+   "zh": "距白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "ceratokalotermes",
+   "latin": "Ceratokalotermes",
+   "subfamily": "",
+   "zh": "角木白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "comatermes",
+   "latin": "Comatermes",
+   "subfamily": "",
+   "zh": "毛白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "subfamily": "",
+   "zh": "堆砂白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "epicalotermes",
+   "latin": "Epicalotermes",
+   "subfamily": "",
+   "zh": "上木白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "eucryptotermes",
+   "latin": "Eucryptotermes",
+   "subfamily": "",
+   "zh": "真砂白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "subfamily": "",
+   "zh": "树白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "subfamily": "",
+   "zh": "楹白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "subfamily": "",
+   "zh": "木白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "longicaputermes",
+   "latin": "Longicaputermes",
+   "subfamily": "",
+   "zh": "头长白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "marginitermes",
+   "latin": "Marginitermes",
+   "subfamily": "",
+   "zh": "边白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "subfamily": "",
+   "zh": "新白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "paraneotermes",
+   "latin": "Paraneotermes",
+   "subfamily": "",
+   "zh": "近新白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "subfamily": "",
+   "zh": "后琥珀白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "subfamily": "",
+   "zh": "前砂白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "proneotermes",
+   "latin": "Proneotermes",
+   "subfamily": "",
+   "zh": "前新白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "pterotermes",
+   "latin": "Pterotermes",
+   "subfamily": "",
+   "zh": "翅白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "roisinitermes",
+   "latin": "Roisinitermes",
+   "subfamily": "",
+   "zh": "罗伊辛白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "subfamily": "",
+   "zh": "皱白蚁属"
+  },
+  {
+   "family": "kalotermitidae",
+   "id": "tauritermes",
+   "latin": "Tauritermes",
+   "subfamily": "",
+   "zh": "牛白蚁属"
+  },
+  {
+   "family": "psammotermitidae",
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "subfamily": "",
+   "zh": "原鼻白蚁属"
+  },
+  {
+   "family": "psammotermitidae",
+   "id": "psammotermes",
+   "latin": "Psammotermes",
+   "subfamily": "",
+   "zh": "沙白蚁属"
+  },
+  {
+   "family": "rhinotermitidae",
+   "id": "acorhinotermes",
+   "latin": "Acorhinotermes",
+   "subfamily": "",
+   "zh": "尖鼻白蚁属"
+  },
+  {
+   "family": "rhinotermitidae",
+   "id": "dolichorhinotermes",
+   "latin": "Dolichorhinotermes",
+   "subfamily": "",
+   "zh": "狭鼻白蚁属"
+  },
+  {
+   "family": "rhinotermitidae",
+   "id": "parrhinotermes",
+   "latin": "Parrhinotermes",
+   "subfamily": "",
+   "zh": "棒鼻白蚁属"
+  },
+  {
+   "family": "rhinotermitidae",
+   "id": "rhinotermes",
+   "latin": "Rhinotermes",
+   "subfamily": "",
+   "zh": "鼻白蚁属"
+  },
+  {
+   "family": "rhinotermitidae",
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "subfamily": "",
+   "zh": "长鼻白蚁属"
+  },
+  {
+   "family": "serritermitidae",
+   "id": "glossotermes",
+   "latin": "Glossotermes",
+   "subfamily": "",
+   "zh": "舌白蚁属"
+  },
+  {
+   "family": "serritermitidae",
+   "id": "serritermes",
+   "latin": "Serritermes",
+   "subfamily": "",
+   "zh": "齿白蚁属"
+  },
+  {
+   "family": "stylotermitidae",
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "subfamily": "",
+   "zh": "杆白蚁属"
+  },
+  {
+   "family": "termitogetonidae",
+   "id": "termitogeton",
+   "latin": "Termitogeton",
+   "subfamily": "",
+   "zh": "寡脉白蚁属"
+  },
+  {
+   "family": "heterotermitidae",
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "subfamily": "",
+   "zh": "乳白蚁属"
+  },
+  {
+   "family": "heterotermitidae",
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "subfamily": "",
+   "zh": "异白蚁属"
+  },
+  {
+   "family": "heterotermitidae",
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "subfamily": "",
+   "zh": "散白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ahamitermes",
+   "latin": "Ahamitermes",
+   "subfamily": "amitermitinae",
+   "zh": "无钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "subfamily": "amitermitinae",
+   "zh": "弓白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "dentispicotermes",
+   "latin": "Dentispicotermes",
+   "subfamily": "amitermitinae",
+   "zh": "齿尖白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "drepanotermes",
+   "latin": "Drepanotermes",
+   "subfamily": "amitermitinae",
+   "zh": "镰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "eremotermes",
+   "latin": "Eremotermes",
+   "subfamily": "amitermitinae",
+   "zh": "漠白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "globitermes",
+   "latin": "Globitermes",
+   "subfamily": "amitermitinae",
+   "zh": "球白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "gnathamitermes",
+   "latin": "Gnathamitermes",
+   "subfamily": "amitermitinae",
+   "zh": "颚钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hoplotermes",
+   "latin": "Hoplotermes",
+   "subfamily": "amitermitinae",
+   "zh": "武白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "incolitermes",
+   "latin": "Incolitermes",
+   "subfamily": "amitermitinae",
+   "zh": "子民白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "invasitermes",
+   "latin": "Invasitermes",
+   "subfamily": "amitermitinae",
+   "zh": "闯白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "orthognathotermes",
+   "latin": "Orthognathotermes",
+   "subfamily": "amitermitinae",
+   "zh": "直颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "prohamitermes",
+   "latin": "Prohamitermes",
+   "subfamily": "amitermitinae",
+   "zh": "前钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "pseudhamitermes",
+   "latin": "Pseudhamitermes",
+   "subfamily": "amitermitinae",
+   "zh": "伪钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "synhamitermes",
+   "latin": "Synhamitermes",
+   "subfamily": "amitermitinae",
+   "zh": "同钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "acholotermes",
+   "latin": "Acholotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "顺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "acidnotermes",
+   "latin": "Acidnotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "虚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "acutidentitermes",
+   "latin": "Acutidentitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "尖齿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "adaiphrotermes",
+   "latin": "Adaiphrotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "和白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "aderitotermes",
+   "latin": "Aderitotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "谐白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "adynatotermes",
+   "latin": "Adynatotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "弱白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "aganotermes",
+   "latin": "Aganotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "雅白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "allognathotermes",
+   "latin": "Allognathotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "异颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "alyscotermes",
+   "latin": "Alyscotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "逃白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "amalotermes",
+   "latin": "Amalotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "软白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "amicotermes",
+   "latin": "Amicotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "善白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "amplucrutermes",
+   "latin": "Amplucrutermes",
+   "subfamily": "apicotermitinae",
+   "zh": "大腿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "anaorotermes",
+   "latin": "Anaorotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "无戟白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "anenteotermes",
+   "latin": "Anenteotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "无甲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "解甲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "apagotermes",
+   "latin": "Apagotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "疲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "aparatermes",
+   "latin": "Aparatermes",
+   "subfamily": "apicotermitinae",
+   "zh": "弯肠白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "apicotermes",
+   "latin": "Apicotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "尖白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "apolemotermes",
+   "latin": "Apolemotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "和平白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "asagarotermes",
+   "latin": "Asagarotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "无剑白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "astalotermes",
+   "latin": "Astalotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "无利器白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "astratotermes",
+   "latin": "Astratotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "无刃白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ateuchotermes",
+   "latin": "Ateuchotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "无锐白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "caputitermes",
+   "latin": "Caputitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "首白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "chasitermes",
+   "latin": "Chasitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "蔡斯白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "compositermes",
+   "latin": "Compositermes",
+   "subfamily": "apicotermitinae",
+   "zh": "肠刺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "coxotermes",
+   "latin": "Coxotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "基白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "disjunctitermes",
+   "latin": "Disjunctitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "间断白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "dissimulitermes",
+   "latin": "Dissimulitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "隐藏白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "duplidentitermes",
+   "latin": "Duplidentitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "双齿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ebogotermes",
+   "latin": "Ebogotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "埃博戈白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "eburnitermes",
+   "latin": "Eburnitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "象牙白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "echinotermes",
+   "latin": "Echinotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "多刺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ekueitermes",
+   "latin": "Ekueitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "肠棘白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "euhamitermes",
+   "latin": "Euhamitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "亮白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "eurytermes",
+   "latin": "Eurytermes",
+   "subfamily": "apicotermitinae",
+   "zh": "宽白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "firmitermes",
+   "latin": "Firmitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "坚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "gastrotermes",
+   "latin": "Gastrotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "胃白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "grigiotermes",
+   "latin": "Grigiotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "灰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "heimitermes",
+   "latin": "Heimitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "埃姆白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hirsutitermes",
+   "latin": "Hirsutitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "毛糙白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hoplognathotermes",
+   "latin": "Hoplognathotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "锐颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "humutermes",
+   "latin": "Humutermes",
+   "subfamily": "apicotermitinae",
+   "zh": "腐殖白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hydrecotermes",
+   "latin": "Hydrecotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "海德瑞克白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "indotermes",
+   "latin": "Indotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "印白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "jugositermes",
+   "latin": "Jugositermes",
+   "subfamily": "apicotermitinae",
+   "zh": "岗白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "koutabatermes",
+   "latin": "Koutabatermes",
+   "subfamily": "apicotermitinae",
+   "zh": "库塔巴白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "krecekitermes",
+   "latin": "Krecekitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "克雷切克白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "labidotermes",
+   "latin": "Labidotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "钳白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "longustitermes",
+   "latin": "Longustitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "长工白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "machadotermes",
+   "latin": "Machadotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "剑白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "mangolditermes",
+   "latin": "Mangolditermes",
+   "subfamily": "apicotermitinae",
+   "zh": "曼戈尔德白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ourissotermes",
+   "latin": "Ourissotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "海胆白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "patawatermes",
+   "latin": "Patawatermes",
+   "subfamily": "apicotermitinae",
+   "zh": "帕塔瓦白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "phoxotermes",
+   "latin": "Phoxotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "锐白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rostrotermes",
+   "latin": "Rostrotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "突吻白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rubeotermes",
+   "latin": "Rubeotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "变红白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ruptitermes",
+   "latin": "Ruptitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "腹爆白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rustitermes",
+   "latin": "Rustitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "拉斯特白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "scheffrahnitermes",
+   "latin": "Scheffrahnitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "谢弗拉恩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "skatitermes",
+   "latin": "Skatitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "洁白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "speculitermes",
+   "latin": "Speculitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "稀白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "spiralitermes",
+   "latin": "Spiralitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "螺旋白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tetimatermes",
+   "latin": "Tetimatermes",
+   "subfamily": "apicotermitinae",
+   "zh": "足白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tonsuritermes",
+   "latin": "Tonsuritermes",
+   "subfamily": "apicotermitinae",
+   "zh": "奇囟白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "trichotermes",
+   "latin": "Trichotermes",
+   "subfamily": "apicotermitinae",
+   "zh": "发白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "triclavitermes",
+   "latin": "Triclavitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "三棒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tucupitermes",
+   "latin": "Tucupitermes",
+   "subfamily": "apicotermitinae",
+   "zh": "黄汁白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "crepititermes",
+   "latin": "Crepititermes",
+   "subfamily": "crepititermitinae",
+   "zh": "响白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "apilitermes",
+   "latin": "Apilitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "无毛白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "basidentitermes",
+   "latin": "Basidentitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "基齿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "batillitermes",
+   "latin": "Batillitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "铲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "crenetermes",
+   "latin": "Crenetermes",
+   "subfamily": "cubitermitinae",
+   "zh": "刻痕白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cubitermes",
+   "latin": "Cubitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "方白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "euchilotermes",
+   "latin": "Euchilotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "真唇白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "fastigitermes",
+   "latin": "Fastigitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "峰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "furculitermes",
+   "latin": "Furculitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "叉白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "isognathotermes",
+   "latin": "Isognathotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "等颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "lepidotermes",
+   "latin": "Lepidotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "鳞白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "megagnathotermes",
+   "latin": "Megagnathotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "大颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "mucrotermes",
+   "latin": "Mucrotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "锐尖白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "nitiditermes",
+   "latin": "Nitiditermes",
+   "subfamily": "cubitermitinae",
+   "zh": "净白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "noditermes",
+   "latin": "Noditermes",
+   "subfamily": "cubitermitinae",
+   "zh": "节白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "okavangotermes",
+   "latin": "Okavangotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "奥卡万戈白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ophiotermes",
+   "latin": "Ophiotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "蛇白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "orthotermes",
+   "latin": "Orthotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "直白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ovambotermes",
+   "latin": "Ovambotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "奥万博兰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "pilotermes",
+   "latin": "Pilotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "棘白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "polyspathotermes",
+   "latin": "Polyspathotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "多铲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "proboscitermes",
+   "latin": "Proboscitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "象鼻白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "procubitermes",
+   "latin": "Procubitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "原方白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "profastigitermes",
+   "latin": "Profastigitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "前峰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ternicubitermes",
+   "latin": "Ternicubitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "三方白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "thoracotermes",
+   "latin": "Thoracotermes",
+   "subfamily": "cubitermitinae",
+   "zh": "胸白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "trapellitermes",
+   "latin": "Trapellitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "菱角白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "unguitermes",
+   "latin": "Unguitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "爪白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "unicornitermes",
+   "latin": "Unicornitermes",
+   "subfamily": "cubitermitinae",
+   "zh": "独角白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cephalotermes",
+   "latin": "Cephalotermes",
+   "subfamily": "cylindrotermitinae",
+   "zh": "头白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cylindrotermes",
+   "latin": "Cylindrotermes",
+   "subfamily": "cylindrotermitinae",
+   "zh": "圆筒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "engelitermes",
+   "latin": "Engelitermes",
+   "subfamily": "engelitermitinae",
+   "zh": "恩格尔白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "foraminitermes",
+   "latin": "Foraminitermes",
+   "subfamily": "foraminitermitinae",
+   "zh": "孔白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "labritermes",
+   "latin": "Labritermes",
+   "subfamily": "foraminitermitinae",
+   "zh": "唇白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "pseudomicrotermes",
+   "latin": "Pseudomicrotermes",
+   "subfamily": "foraminitermitinae",
+   "zh": "伪小白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "forficulitermes",
+   "latin": "Forficulitermes",
+   "subfamily": "forficulitermitinae",
+   "zh": "剪白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "acanthotermes",
+   "latin": "Acanthotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "刺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "allodontermes",
+   "latin": "Allodontermes",
+   "subfamily": "macrotermitinae",
+   "zh": "奇齿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "euscaiotermes",
+   "latin": "Euscaiotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "左转白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hypotermes",
+   "latin": "Hypotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "地白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "大白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "megaprotermes",
+   "latin": "Megaprotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "大前白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "subfamily": "macrotermitinae",
+   "zh": "小白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "土白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "protermes",
+   "latin": "Protermes",
+   "subfamily": "macrotermitinae",
+   "zh": "前白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "pseudacanthotermes",
+   "latin": "Pseudacanthotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "伪刺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "synacanthotermes",
+   "latin": "Synacanthotermes",
+   "subfamily": "macrotermitinae",
+   "zh": "聚刺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "subfamily": "microcerotermitinae",
+   "zh": "锯白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "onkotermes",
+   "latin": "Onkotermes",
+   "subfamily": "microcerotermitinae",
+   "zh": "倒钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "突扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "homallotermes",
+   "latin": "Homallotermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "平白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "indocapritermes",
+   "latin": "Indocapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "印扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "kemneritermes",
+   "latin": "Kemneritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "凯姆勒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "krishnacapritermes",
+   "latin": "Krishnacapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "克里希纳扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "labiocapritermes",
+   "latin": "Labiocapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "唇扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "mirocapritermes",
+   "latin": "Mirocapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "瘤白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "oriencapritermes",
+   "latin": "Oriencapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "东扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "pericapritermes",
+   "latin": "Pericapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "近扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "procapritermes",
+   "latin": "Procapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "前扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "pseudocapritermes",
+   "latin": "Pseudocapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "伪扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rinacapritermes",
+   "latin": "Rinacapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "丽娜扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "sinocapritermes",
+   "latin": "Sinocapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "华扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "syncapritermes",
+   "latin": "Syncapritermes",
+   "subfamily": "mirocapritermitinae",
+   "zh": "聚扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "aciculitermes",
+   "latin": "Aciculitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "针白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "afrosubulitermes",
+   "latin": "Afrosubulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "非锥白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "agnathotermes",
+   "latin": "Agnathotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "无颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "钝颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ampoulitermes",
+   "latin": "Ampoulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "安瓿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "angularitermes",
+   "latin": "Angularitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "棱角白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "anhangatermes",
+   "latin": "Anhangatermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "魔白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "antillitermes",
+   "latin": "Antillitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "安的列斯白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "araujotermes",
+   "latin": "Araujotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "阿劳若白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "arcotermes",
+   "latin": "Arcotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "弧白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "atlantitermes",
+   "latin": "Atlantitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "阿特拉斯白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "australitermes",
+   "latin": "Australitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "澳大利亚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "baucaliotermes",
+   "latin": "Baucaliotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "细颈白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "bulbitermes",
+   "latin": "Bulbitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "瓢白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "caetetermes",
+   "latin": "Caetetermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "林白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "caribitermes",
+   "latin": "Caribitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "加勒比白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ceylonitermellus",
+   "latin": "Ceylonitermellus",
+   "subfamily": "nasutitermitinae",
+   "zh": "小锡兰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ceylonitermes",
+   "latin": "Ceylonitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "锡兰白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "coarctotermes",
+   "latin": "Coarctotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "缩狭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "coatitermes",
+   "latin": "Coatitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "凸鼻白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "coendutermes",
+   "latin": "Coendutermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "箭猪白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "constrictotermes",
+   "latin": "Constrictotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "缩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "convexitermes",
+   "latin": "Convexitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "凸白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cortaritermes",
+   "latin": "Cortaritermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "利颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cucurbitermes",
+   "latin": "Cucurbitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "葫白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cyranotermes",
+   "latin": "Cyranotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "巨鼻白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "diversitermes",
+   "latin": "Diversitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "歧白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "diwaitermes",
+   "latin": "Diwaitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "木象白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "eleanoritermes",
+   "latin": "Eleanoritermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "埃莉诺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "emersonitermes",
+   "latin": "Emersonitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "埃默森白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "enetotermes",
+   "latin": "Enetotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "针筒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ereymatermes",
+   "latin": "Ereymatermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "无名白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "eutermellus",
+   "latin": "Eutermellus",
+   "subfamily": "nasutitermitinae",
+   "zh": "小真白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "fulleritermes",
+   "latin": "Fulleritermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "富勒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "grallatotermes",
+   "latin": "Grallatotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "高跷白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hirtitermes",
+   "latin": "Hirtitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "多毛白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hospitalitermes",
+   "latin": "Hospitalitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "须白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hyleotermes",
+   "latin": "Hyleotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "森林白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "kaudernitermes",
+   "latin": "Kaudernitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "考登白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "lacessititermes",
+   "latin": "Lacessititermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "怒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "leptomyxotermes",
+   "latin": "Leptomyxotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "薄喙白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "leucopitermes",
+   "latin": "Leucopitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "白脸白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "longipeditermes",
+   "latin": "Longipeditermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "长足白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "macrosubulitermes",
+   "latin": "Macrosubulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "大锥白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "malagasitermes",
+   "latin": "Malagasitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "马尔加什白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "malaysiotermes",
+   "latin": "Malaysiotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "马来白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "mimeutermes",
+   "latin": "Mimeutermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "仿白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "muelleritermes",
+   "latin": "Muelleritermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "米勒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "mycterotermes",
+   "latin": "Mycterotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "鸟嘴白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "nasopilotermes",
+   "latin": "Nasopilotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "棘象白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "象白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ngauratermes",
+   "latin": "Ngauratermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "凋落白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "niuginitermes",
+   "latin": "Niuginitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "新几内亚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "obtusitermes",
+   "latin": "Obtusitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "钝白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "occasitermes",
+   "latin": "Occasitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "西部白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "occultitermes",
+   "latin": "Occultitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "隐白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "oriensubulitermes",
+   "latin": "Oriensubulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "东锥白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "paraconvexitermes",
+   "latin": "Paraconvexitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "近凸白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "parvitermes",
+   "latin": "Parvitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "微白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "periaciculitermes",
+   "latin": "Periaciculitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "近针白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "postsubulitermes",
+   "latin": "Postsubulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "后锥白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rhadinotermes",
+   "latin": "Rhadinotermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "锥形白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "roonwalitermes",
+   "latin": "Roonwalitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "鲁恩沃白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rotunditermes",
+   "latin": "Rotunditermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "圆白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rounditermes",
+   "latin": "Rounditermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "胖白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "sabahitermes",
+   "latin": "Sabahitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "沙巴白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "sandsitermes",
+   "latin": "Sandsitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "桑兹白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "sinonasutitermes",
+   "latin": "Sinonasutitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "华象白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "sinqasapatermes",
+   "latin": "Sinqasapatermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "鼻大白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "spatulitermes",
+   "latin": "Spatulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "匙白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "subulioiditermes",
+   "latin": "Subulioiditermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "似锥白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "subulitermes",
+   "latin": "Subulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "锥白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tarditermes",
+   "latin": "Tarditermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "慢白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tenuirostritermes",
+   "latin": "Tenuirostritermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "薄嘴白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tiunatermes",
+   "latin": "Tiunatermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "暗鼻白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "triangularitermes",
+   "latin": "Triangularitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "三角白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "三脉白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tumulitermes",
+   "latin": "Tumulitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "冢白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "velocitermes",
+   "latin": "Velocitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "快白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "verrucositermes",
+   "latin": "Verrucositermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "疣白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "xiaitermes",
+   "latin": "Xiaitermes",
+   "subfamily": "nasutitermitinae",
+   "zh": "夏氏白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "neocapritermes",
+   "latin": "Neocapritermes",
+   "subfamily": "neocapritermitinae",
+   "zh": "新扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "planicapritermes",
+   "latin": "Planicapritermes",
+   "subfamily": "neocapritermitinae",
+   "zh": "平扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "schievitermes",
+   "latin": "Schievitermes",
+   "subfamily": "neocapritermitinae",
+   "zh": "不对称白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "angulitermes",
+   "latin": "Angulitermes",
+   "subfamily": "promirotermitinae",
+   "zh": "角白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "promirotermes",
+   "latin": "Promirotermes",
+   "subfamily": "promirotermitinae",
+   "zh": "前奇白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "orientotermes",
+   "latin": "Orientotermes",
+   "subfamily": "protohamitermitinae",
+   "zh": "东方白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "protohamitermes",
+   "latin": "Protohamitermes",
+   "subfamily": "protohamitermitinae",
+   "zh": "始钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "sphaerotermes",
+   "latin": "Sphaerotermes",
+   "subfamily": "sphaerotermitinae",
+   "zh": "圆球白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "acangaobitermes",
+   "latin": "Acangaobitermes",
+   "subfamily": "syntermitinae",
+   "zh": "漏斗白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "armitermes",
+   "latin": "Armitermes",
+   "subfamily": "syntermitinae",
+   "zh": "戟白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "bandeiratermes",
+   "latin": "Bandeiratermes",
+   "subfamily": "syntermitinae",
+   "zh": "班代拉白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "biratermes",
+   "latin": "Biratermes",
+   "subfamily": "syntermitinae",
+   "zh": "拜拉白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cahuallitermes",
+   "latin": "Cahuallitermes",
+   "subfamily": "syntermitinae",
+   "zh": "弃白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cornitermes",
+   "latin": "Cornitermes",
+   "subfamily": "syntermitinae",
+   "zh": "角象白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "curvitermes",
+   "latin": "Curvitermes",
+   "subfamily": "syntermitinae",
+   "zh": "曲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cyrilliotermes",
+   "latin": "Cyrilliotermes",
+   "subfamily": "syntermitinae",
+   "zh": "壶头白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "embiratermes",
+   "latin": "Embiratermes",
+   "subfamily": "syntermitinae",
+   "zh": "生白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "genuotermes",
+   "latin": "Genuotermes",
+   "subfamily": "syntermitinae",
+   "zh": "膝白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ibitermes",
+   "latin": "Ibitermes",
+   "subfamily": "syntermitinae",
+   "zh": "地球白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "labiotermes",
+   "latin": "Labiotermes",
+   "subfamily": "syntermitinae",
+   "zh": "厚唇白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "macuxitermes",
+   "latin": "Macuxitermes",
+   "subfamily": "syntermitinae",
+   "zh": "马库希白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "mapinguaritermes",
+   "latin": "Mapinguaritermes",
+   "subfamily": "syntermitinae",
+   "zh": "红懒白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "noirotitermes",
+   "latin": "Noirotitermes",
+   "subfamily": "syntermitinae",
+   "zh": "努瓦罗白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "paracurvitermes",
+   "latin": "Paracurvitermes",
+   "subfamily": "syntermitinae",
+   "zh": "近曲白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "procornitermes",
+   "latin": "Procornitermes",
+   "subfamily": "syntermitinae",
+   "zh": "前角白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "rhynchotermes",
+   "latin": "Rhynchotermes",
+   "subfamily": "syntermitinae",
+   "zh": "喙白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "silvestritermes",
+   "latin": "Silvestritermes",
+   "subfamily": "syntermitinae",
+   "zh": "西尔韦斯特里白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "subfamily": "syntermitinae",
+   "zh": "聚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "uncitermes",
+   "latin": "Uncitermes",
+   "subfamily": "syntermitinae",
+   "zh": "弯钩白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "vaninitermes",
+   "latin": "Vaninitermes",
+   "subfamily": "syntermitinae",
+   "zh": "瓦宁白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "apsenterotermes",
+   "latin": "Apsenterotermes",
+   "subfamily": "termitinae",
+   "zh": "后肠白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "capritermes",
+   "latin": "Capritermes",
+   "subfamily": "termitinae",
+   "zh": "扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cavitermes",
+   "latin": "Cavitermes",
+   "subfamily": "termitinae",
+   "zh": "腔白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cornicapritermes",
+   "latin": "Cornicapritermes",
+   "subfamily": "termitinae",
+   "zh": "角扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "cristatitermes",
+   "latin": "Cristatitermes",
+   "subfamily": "termitinae",
+   "zh": "脊突白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "dihoplotermes",
+   "latin": "Dihoplotermes",
+   "subfamily": "termitinae",
+   "zh": "双戟白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "divinotermes",
+   "latin": "Divinotermes",
+   "subfamily": "termitinae",
+   "zh": "迪维努白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ekphysotermes",
+   "latin": "Ekphysotermes",
+   "subfamily": "termitinae",
+   "zh": "瘤突白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "ephelotermes",
+   "latin": "Ephelotermes",
+   "subfamily": "termitinae",
+   "zh": "棒颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hapsidotermes",
+   "latin": "Hapsidotermes",
+   "subfamily": "termitinae",
+   "zh": "络白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "hesperotermes",
+   "latin": "Hesperotermes",
+   "subfamily": "termitinae",
+   "zh": "西澳白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "inquilinitermes",
+   "latin": "Inquilinitermes",
+   "subfamily": "termitinae",
+   "zh": "客白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "lophotermes",
+   "latin": "Lophotermes",
+   "subfamily": "termitinae",
+   "zh": "小脊突白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "macrognathotermes",
+   "latin": "Macrognathotermes",
+   "subfamily": "termitinae",
+   "zh": "长颚白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "palmitermes",
+   "latin": "Palmitermes",
+   "subfamily": "termitinae",
+   "zh": "棕榈白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "paracapritermes",
+   "latin": "Paracapritermes",
+   "subfamily": "termitinae",
+   "zh": "旁扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "protocapritermes",
+   "latin": "Protocapritermes",
+   "subfamily": "termitinae",
+   "zh": "始扭白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "quasitermes",
+   "latin": "Quasitermes",
+   "subfamily": "termitinae",
+   "zh": "相似白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "saxatilitermes",
+   "latin": "Saxatilitermes",
+   "subfamily": "termitinae",
+   "zh": "石白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "spinitermes",
+   "latin": "Spinitermes",
+   "subfamily": "termitinae",
+   "zh": "针刺白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "termes",
+   "latin": "Termes",
+   "subfamily": "termitinae",
+   "zh": "白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "tuberculitermes",
+   "latin": "Tuberculitermes",
+   "subfamily": "termitinae",
+   "zh": "小瘤白蚁属"
+  },
+  {
+   "family": "termitidae",
+   "id": "xylochomitermes",
+   "latin": "Xylochomitermes",
+   "subfamily": "termitinae",
+   "zh": "木堆白蚁属"
+  }
+ ],
+ "meta": {
+  "counts": {
+   "clades": 6,
+   "families": 13,
+   "genera": 326,
+   "subfamilies": 18
+  },
+  "description": "分类层级数据：/list/ 改成索引页后，支系—科—亚科—属的关系与锚点以这里为准。",
+  "source": "extracted from the pre-index /list/ page by _tools/extract_taxon_data.py"
+ },
+ "subfamilies": [
+  {
+   "family": "termitidae",
+   "genera": [
+    "ahamitermes",
+    "amitermes",
+    "dentispicotermes",
+    "drepanotermes",
+    "eremotermes",
+    "globitermes",
+    "gnathamitermes",
+    "hoplotermes",
+    "incolitermes",
+    "invasitermes",
+    "orthognathotermes",
+    "prohamitermes",
+    "pseudhamitermes",
+    "synhamitermes"
+   ],
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "acholotermes",
+    "acidnotermes",
+    "acutidentitermes",
+    "adaiphrotermes",
+    "aderitotermes",
+    "adynatotermes",
+    "aganotermes",
+    "allognathotermes",
+    "alyscotermes",
+    "amalotermes",
+    "amicotermes",
+    "amplucrutermes",
+    "anaorotermes",
+    "anenteotermes",
+    "anoplotermes",
+    "apagotermes",
+    "aparatermes",
+    "apicotermes",
+    "apolemotermes",
+    "asagarotermes",
+    "astalotermes",
+    "astratotermes",
+    "ateuchotermes",
+    "caputitermes",
+    "chasitermes",
+    "compositermes",
+    "coxotermes",
+    "disjunctitermes",
+    "dissimulitermes",
+    "duplidentitermes",
+    "ebogotermes",
+    "eburnitermes",
+    "echinotermes",
+    "ekueitermes",
+    "euhamitermes",
+    "eurytermes",
+    "firmitermes",
+    "gastrotermes",
+    "grigiotermes",
+    "heimitermes",
+    "hirsutitermes",
+    "hoplognathotermes",
+    "humutermes",
+    "hydrecotermes",
+    "indotermes",
+    "jugositermes",
+    "koutabatermes",
+    "krecekitermes",
+    "labidotermes",
+    "longustitermes",
+    "machadotermes",
+    "mangolditermes",
+    "ourissotermes",
+    "patawatermes",
+    "phoxotermes",
+    "rostrotermes",
+    "rubeotermes",
+    "ruptitermes",
+    "rustitermes",
+    "scheffrahnitermes",
+    "skatitermes",
+    "speculitermes",
+    "spiralitermes",
+    "tetimatermes",
+    "tonsuritermes",
+    "trichotermes",
+    "triclavitermes",
+    "tucupitermes"
+   ],
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "crepititermes"
+   ],
+   "id": "crepititermitinae",
+   "latin": "Crepititermitinae",
+   "zh": "响白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "apilitermes",
+    "basidentitermes",
+    "batillitermes",
+    "crenetermes",
+    "cubitermes",
+    "euchilotermes",
+    "fastigitermes",
+    "furculitermes",
+    "isognathotermes",
+    "lepidotermes",
+    "megagnathotermes",
+    "mucrotermes",
+    "nitiditermes",
+    "noditermes",
+    "okavangotermes",
+    "ophiotermes",
+    "orthotermes",
+    "ovambotermes",
+    "pilotermes",
+    "polyspathotermes",
+    "proboscitermes",
+    "procubitermes",
+    "profastigitermes",
+    "ternicubitermes",
+    "thoracotermes",
+    "trapellitermes",
+    "unguitermes",
+    "unicornitermes"
+   ],
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "cephalotermes",
+    "cylindrotermes"
+   ],
+   "id": "cylindrotermitinae",
+   "latin": "Cylindrotermitinae",
+   "zh": "圆筒白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "engelitermes"
+   ],
+   "id": "engelitermitinae",
+   "latin": "Engelitermitinae",
+   "zh": "恩格尔白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "foraminitermes",
+    "labritermes",
+    "pseudomicrotermes"
+   ],
+   "id": "foraminitermitinae",
+   "latin": "Foraminitermitinae",
+   "zh": "孔白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "forficulitermes"
+   ],
+   "id": "forficulitermitinae",
+   "latin": "Forficulitermitinae",
+   "zh": "剪白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "acanthotermes",
+    "allodontermes",
+    "ancistrotermes",
+    "euscaiotermes",
+    "hypotermes",
+    "macrotermes",
+    "megaprotermes",
+    "microtermes",
+    "odontotermes",
+    "protermes",
+    "pseudacanthotermes",
+    "synacanthotermes"
+   ],
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "microcerotermes",
+    "onkotermes"
+   ],
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "dicuspiditermes",
+    "homallotermes",
+    "indocapritermes",
+    "kemneritermes",
+    "krishnacapritermes",
+    "labiocapritermes",
+    "mirocapritermes",
+    "oriencapritermes",
+    "pericapritermes",
+    "procapritermes",
+    "pseudocapritermes",
+    "rinacapritermes",
+    "sinocapritermes",
+    "syncapritermes"
+   ],
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "aciculitermes",
+    "afrosubulitermes",
+    "agnathotermes",
+    "ahmaditermes",
+    "ampoulitermes",
+    "angularitermes",
+    "anhangatermes",
+    "antillitermes",
+    "araujotermes",
+    "arcotermes",
+    "atlantitermes",
+    "australitermes",
+    "baucaliotermes",
+    "bulbitermes",
+    "caetetermes",
+    "caribitermes",
+    "ceylonitermellus",
+    "ceylonitermes",
+    "coarctotermes",
+    "coatitermes",
+    "coendutermes",
+    "constrictotermes",
+    "convexitermes",
+    "cortaritermes",
+    "cucurbitermes",
+    "cyranotermes",
+    "diversitermes",
+    "diwaitermes",
+    "eleanoritermes",
+    "emersonitermes",
+    "enetotermes",
+    "ereymatermes",
+    "eutermellus",
+    "fulleritermes",
+    "grallatotermes",
+    "hirtitermes",
+    "hospitalitermes",
+    "hyleotermes",
+    "kaudernitermes",
+    "lacessititermes",
+    "leptomyxotermes",
+    "leucopitermes",
+    "longipeditermes",
+    "macrosubulitermes",
+    "malagasitermes",
+    "malaysiotermes",
+    "mimeutermes",
+    "muelleritermes",
+    "mycterotermes",
+    "nasopilotermes",
+    "nasutitermes",
+    "ngauratermes",
+    "niuginitermes",
+    "obtusitermes",
+    "occasitermes",
+    "occultitermes",
+    "oriensubulitermes",
+    "paraconvexitermes",
+    "parvitermes",
+    "periaciculitermes",
+    "postsubulitermes",
+    "rhadinotermes",
+    "roonwalitermes",
+    "rotunditermes",
+    "rounditermes",
+    "sabahitermes",
+    "sandsitermes",
+    "sinonasutitermes",
+    "sinqasapatermes",
+    "spatulitermes",
+    "subulioiditermes",
+    "subulitermes",
+    "tarditermes",
+    "tenuirostritermes",
+    "tiunatermes",
+    "triangularitermes",
+    "trinervitermes",
+    "tumulitermes",
+    "velocitermes",
+    "verrucositermes",
+    "xiaitermes"
+   ],
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "neocapritermes",
+    "planicapritermes",
+    "schievitermes"
+   ],
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "angulitermes",
+    "promirotermes"
+   ],
+   "id": "promirotermitinae",
+   "latin": "Promirotermitinae",
+   "zh": "前奇白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "orientotermes",
+    "protohamitermes"
+   ],
+   "id": "protohamitermitinae",
+   "latin": "Protohamitermitinae",
+   "zh": "始钩白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "sphaerotermes"
+   ],
+   "id": "sphaerotermitinae",
+   "latin": "Sphaerotermitinae",
+   "zh": "圆球白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "acangaobitermes",
+    "armitermes",
+    "bandeiratermes",
+    "biratermes",
+    "cahuallitermes",
+    "cornitermes",
+    "curvitermes",
+    "cyrilliotermes",
+    "embiratermes",
+    "genuotermes",
+    "ibitermes",
+    "labiotermes",
+    "macuxitermes",
+    "mapinguaritermes",
+    "noirotitermes",
+    "paracurvitermes",
+    "procornitermes",
+    "rhynchotermes",
+    "silvestritermes",
+    "syntermes",
+    "uncitermes",
+    "vaninitermes"
+   ],
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  },
+  {
+   "family": "termitidae",
+   "genera": [
+    "apsenterotermes",
+    "capritermes",
+    "cavitermes",
+    "cornicapritermes",
+    "cristatitermes",
+    "dihoplotermes",
+    "divinotermes",
+    "ekphysotermes",
+    "ephelotermes",
+    "hapsidotermes",
+    "hesperotermes",
+    "inquilinitermes",
+    "lophotermes",
+    "macrognathotermes",
+    "palmitermes",
+    "paracapritermes",
+    "protocapritermes",
+    "quasitermes",
+    "saxatilitermes",
+    "spinitermes",
+    "termes",
+    "tuberculitermes",
+    "xylochomitermes"
+   ],
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ ]
+}

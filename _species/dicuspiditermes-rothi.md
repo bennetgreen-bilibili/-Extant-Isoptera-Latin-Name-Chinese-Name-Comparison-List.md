@@ -34,9 +34,9 @@ ES — **罗思突扭白蚁** (*Dicuspiditermes rothi*) es una especie del géne
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/list/#dicuspiditermes) —— 共 21 种（21 species · 21 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
+- **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/genus/dicuspiditermes/) —— 共 21 种（21 species · 21 especies）
 - **本属模式种 Type species / Especie tipo**：*Dicuspiditermes obtusus*
 
 ## 分布

@@ -8,7 +8,10 @@
 
 | 内容 | 源文件 |
 | --- | --- |
-| 名录（中文 / English / Español） | `list.md` / `en/list.md` / `es/list.md` |
+| 分类层级（支系—科—亚科—属） | `_data/taxonomy.json` |
+| 科／亚科正文（三语） | `_data/taxon_prose.json` |
+| 名录索引页的导语、按科浏览、参考文献块（三语） | `_data/list_index_blocks.json` |
+| 三语名录索引页与英西译文页 | 由 `_tools/build_list_index.py` 生成，**不要手改** `list.md` / `en/list.md` / `es/list.md` / `en/list/sections.md` / `es/list/sections.md` |
 | 物种页 front matter（学名、中文名、分布、模式产地、异名数…） | `_species/*.md` |
 | 数据集元数据（DOI、版本、许可） | `isoptera-data.json`，许可见 `dataset/LICENSE` |
 | 界面文案（三语） | `_data/i18n.yml`（`zh-CN` / `en` / `es` 三节 key 必须一致） |
@@ -17,7 +20,7 @@
 
 ## 三语同步
 
-- 名录改动必须同时落到 `list.md`、`en/list.md`、`es/list.md`（行数、锚点、属/种顺序保持一致）。
+- 名录索引页与译文页由脚本生成，改动要落在 `_data/taxonomy.json`（层级）、`_data/list_index_blocks.json`（导语／按科浏览／参考文献）、`_data/taxon_prose.json`（科亚科正文）三处数据文件上，再重跑 `python _tools/build_list_index.py`；三语的锚点集合由 `check_site.py` 校验同构。
 - 界面文案必须同时加到 `_data/i18n.yml` 的三个语言节。
 - `python _tools/check_site.py` 会检查三语同构与 i18n key 一致性，不一致直接失败。
 
@@ -26,6 +29,8 @@
 顺序以 `.github/workflows/pages.yml`（部署）与 `.github/workflows/validate.yml`（PR 闸门）为准：
 
 ```
+python _tools/extract_taxon_data.py --check
+python _tools/build_list_index.py
 python _tools/build_taxonomy_data.py --write
 python .github/workflows/build_genus_index.py
 python .github/workflows/build_species_body.py --write
@@ -37,9 +42,10 @@ python .github/workflows/build_name_issues.py --write
 python _tools/build_changelog.py --write
 ```
 
-- `_tools/build_taxonomy_data.py`：从 `list.md` + `_species/` 生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；改分类层级、学名或分布后必须重跑，`--check` 可校验。
+- `_tools/build_list_index.py`：从上面三个数据文件 + `_species/` 生成三语 `/list/` 索引页与 `/en/list/sections/`、`/es/list/sections/` 译文页；`_tools/extract_taxon_data.py --check` 校验三个数据文件自身自洽（不读 `list.md`）。
+- `_tools/build_taxonomy_data.py`：从 `_data/taxonomy.json` + `_species/` 生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；改分类层级、学名或分布后必须重跑，`--check` 可校验。
 - `--no-enrich` 是仓库内的基础版检索索引；部署时 CI 会装 pypinyin / OpenCC 再生成增强版，两者互不冲突。
-- 名录标题有固定格式：分类阶元写成 `<hN id="anchor">中文名 LATIN</hN>`（h2 支系 / h3 科 / h4 亚科 / h5 属）。导航、目录、参考文献这类**非分类学**标题没有拉丁名，它们的锚点 id 统一登记在 `_tools/checklist_headings.py` 的 `NON_TAXON_IDS`；新增此类标题（例如再加一个「按亚科浏览」）必须把 id 加进去，否则 `build_taxonomy_data.py` 与 `build_search_index.py` 会以「无法拆分标题」失败。名单只有这一份，不要在脚本里另抄。
+- 科／亚科／属页面由 `.github/workflows/build_taxonomy_pages.py` 从 `_data/taxonomy.json` + `_data/taxon_prose.json` + `_species/` 生成，标题与锚点都取自 taxonomy.json 的 id；`_tools/checklist_headings.py` 的 `NON_TAXON_IDS` 记录索引页与各处的非分类学标题 id（`by-family`、`toc`、`references` 等），新增此类标题必须同步登记。
 - 模板（`_layouts/`、`_includes/` 与所有带 front matter 的页面）的 Liquid 语法由 `_tools/check_liquid.py` 检查，CI 在 Jekyll 之前就跑一遍。**Liquid 4 会连 comment 块内部一起解析**：注释里不要直接写标签示例（曾经一个缺变量名的 capture 示例写在注释里，让整站构建在解析期就失败，只留下一条 Ruby 堆栈）。要举例就写成自然语言，或保证参数完整。
 - 改动 `_species` front matter 的 `authority_synonym_*`（「依外部权威库补录的异名」）后，必须按上面的顺序重跑 `build_species_body.py`、`build_search_index.py`、`build_name_issues.py`（看板的「已补录」标记与检索命中都依赖这三步），`check_site.py` 会校验三者一致。
 - 外部 API 缓存类脚本（`build_authority_links.py`、`build_bsf_links.py`、`build_species_photos.py`、`build_references.py`、`build_occurrence_geojson.py`）**只在需要刷新缓存时**手动运行，不要无意义重跑。
@@ -48,7 +54,7 @@ python _tools/build_changelog.py --write
 ## 提交前校验
 
 ```
-python _tools/check_site.py        # 结构 / 三语同构 / 计数 / sitemap / i18n / 命名差异产物自洽
+python _tools/check_site.py        # 结构 / 三语索引页同构 / 层级页面齐备 / 计数 / sitemap / i18n 自洽
 python _tools/check_site.py --ci   # 与 CI 相同的严格模式
 python _tools/check_liquid.py      # Liquid 语法（成对标签 / 参数个数 / 定界符；含 comment 内部）
 ```

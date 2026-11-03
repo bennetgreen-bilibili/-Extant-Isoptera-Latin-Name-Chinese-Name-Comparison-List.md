@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "剪白蚁亚科 Forficulitermitinae 属与物种名录"
-description: "剪白蚁亚科（Forficulitermitinae）是白蚁科（TERMITIDAE）下的一个亚科，本站收录 1 个属、1 个种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。详见完整名录。"
+description: "剪白蚁亚科（Forficulitermitinae）是白蚁科（TERMITIDAE）下的一个亚科，本站收录 1 个属、1 个种。本页列出该亚科下属的全部属及其物种数量，逐级链接到属页面与物种页面。物种页包含拉丁学名与命名人年份、中文正名、模式产地、分布地图、同属物种、参考文献与引用格式。详见名录索引。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -19,7 +19,7 @@ breadcrumb:
     url: "/subfamily/forficulitermitinae/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#forficulitermitinae">剪白蚁亚科</a> › <span>本亚科</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/forficulitermitinae/">剪白蚁亚科</a> › <span>本亚科</span></nav>
 <header class="taxon-header">
 <h1>剪白蚁亚科 <i>Forficulitermitinae</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 1 属 · 1 种</p>
@@ -31,17 +31,17 @@ breadcrumb:
 <ul class="taxon-search-results" hidden></ul>
 <p class="taxon-search-hint">只检索本亚科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
 </div>
-<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<section class="taxon-section taxon-intro">
 <h2>亚科级介绍</h2>
 <p>剪白蚁亚科由 Hellemans、Engel 与 Bourguignon 于 2024 年建立(21)，模式属为剪白蚁属 Forficulitermes Emerson, 1960；亚科名取自模式属（拉丁 forfex，剪刀，指其细长钳状弯曲的上颚）。本名录收录 1 属 1 种。</p>
 <p>因仅含一属一种，其特征即亚科特征：工蚁为食土（腐殖质）性；兵蚁头近方形，囟门位于浅凹内、前方两侧各具一道平纵脊并形成浅沟通至唇基基部，囟门与触角窝之间两侧另各有小瘤突，上颚细长无齿、行咬合而非弹击，上唇端缘具中突与尖锐的端侧角；工蚁右下颚第二缘齿发达，四条马氏管成对共同开口于混合节连接处——这些特征可与本科中常见的弹击型兵蚁及白蚁亚科相区别。2024 年分析中它在多数运算里位置不稳(21)（被列为 rogue taxon），但拓扑检验未拒绝其与恩格尔白蚁亚科近缘的假说；其独特的形态组合足以独立成亚科，代表本科中非基部、系统位置未定的又一狭域孑遗单型支系。</p>
-<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#forficulitermitinae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+<p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/forficulitermes/"><i>Forficulitermes</i> 剪白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>
-<p class="taxon-more">该亚科的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#forficulitermitinae">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

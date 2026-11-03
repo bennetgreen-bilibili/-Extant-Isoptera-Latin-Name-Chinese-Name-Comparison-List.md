@@ -33,8 +33,8 @@ ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la
 
 ## 分类位置
 
-- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/list/#hodotermitidae) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
-- **属 Genus / Género**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/list/#hodotermes) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
+- **属 Genus / Género**：[草白蚁属 *Hodotermes*]({{ site.base_url }}/genus/hodotermes/) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 

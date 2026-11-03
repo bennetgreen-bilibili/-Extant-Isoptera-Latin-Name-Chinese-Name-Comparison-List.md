@@ -33,8 +33,8 @@ ES — **亚当森洞白蚁** (*Porotermes adamsoni*) es una especie del género
 
 ## 分类位置
 
-- **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/list/#stolotermitidae) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）
-- **属 Genus / Género**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/list/#porotermes) —— 共 3 种（3 species · 3 especies）
+- **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）
+- **属 Genus / Género**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/genus/porotermes/) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Porotermes quadricollis*
 
 ## 分布

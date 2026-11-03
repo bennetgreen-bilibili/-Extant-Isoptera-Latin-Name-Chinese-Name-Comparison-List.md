@@ -34,9 +34,9 @@ ES — **居銮东扭白蚁** (*Oriencapritermes kluangensis*) es la única espe
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[东扭白蚁属 *Oriencapritermes*]({{ site.base_url }}/list/#oriencapritermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
+- **属 Genus / Género**：[东扭白蚁属 *Oriencapritermes*]({{ site.base_url }}/genus/oriencapritermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 

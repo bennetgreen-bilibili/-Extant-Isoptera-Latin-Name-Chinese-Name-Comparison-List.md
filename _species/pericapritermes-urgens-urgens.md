@@ -35,9 +35,9 @@ ES — **指名亚种** (*Pericapritermes urgens urgens*) es una subespecie de *
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/list/#mirocapritermitinae) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
-- **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/list/#pericapritermes) —— 共 40 种（40 species · 40 especies）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
+- **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种（40 species · 40 especies）
 - **种 Species / Especie**：[催促近扭白蚁 *Pericapritermes urgens*]({{ site.base_url }}/species/pericapritermes-urgens/)
 - **亚种 Subspecies / Subespecie**：本页（*Pericapritermes urgens urgens*）
 

@@ -31,8 +31,8 @@ ES — **红头胄白蚁** (*Stolotermes ruficeps*) es una especie del género *
 
 ## 分类位置
 
-- **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/list/#stolotermitidae) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）
-- **属 Genus / Género**：[胄白蚁属 *Stolotermes*]({{ site.base_url }}/list/#stolotermes) —— 共 7 种（7 species · 7 especies）
+- **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）
+- **属 Genus / Género**：[胄白蚁属 *Stolotermes*]({{ site.base_url }}/genus/stolotermes/) —— 共 7 种（7 species · 7 especies）
 - **本属模式种 Type species / Especie tipo**：*Stolotermes brunneicornis*
 
 ## 分布

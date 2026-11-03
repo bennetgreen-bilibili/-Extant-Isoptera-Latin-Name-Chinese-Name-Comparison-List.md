@@ -9,7 +9,7 @@ zh-CN:
   brand_sub: Extant Isoptera
   nav_label: 主导航
   nav_home: 首页
-  nav_list: 名录
+  nav_list: 名录索引
   nav_search: 全文搜索
   nav_papers: 文献
   nav_phylogeny: 系统发育树
@@ -72,7 +72,7 @@ zh-CN:
     sourceList: 名录
     countNote: 属、种数为本名录现行统计
     editHint: 本页图形由 _data/phylogeny.json 驱动，修改该文件即可调整拓扑、名称、计数与备注；更新后重新构建站点生效。
-    noJs: 图形需要启用 JavaScript；如需查看分类层级，请前往名录页。
+    noJs: 图形需要启用 JavaScript；如需查看分类层级，请前往名录索引页。
   nav_stats: 统计
   nav_data: 数据
   nav_download: 下载
@@ -155,7 +155,7 @@ en:
   brand_sub: Latin–Chinese name comparison list
   nav_label: Main navigation
   nav_home: Home
-  nav_list: List
+  nav_list: List index
   nav_search: Search
   nav_papers: Papers
   nav_phylogeny: Phylogeny
@@ -301,7 +301,7 @@ es:
   brand_sub: Lista comparativa latín–chino
   nav_label: Navegación principal
   nav_home: Inicio
-  nav_list: Listado
+  nav_list: Índice de la lista
   nav_search: Búsqueda
   nav_papers: Artículos
   nav_phylogeny: Filogenia

@@ -415,7 +415,7 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
             _fg, ("genus" if _fg == 1 else "genera"), _fs,
             _fg, ("género" if _fg == 1 else "géneros"), _fs, ("especie" if _fs == 1 else "especies"))
     lines.append("- **科 Family / Familia**：%s%s" % (
-        html_link("%s %s" % (family_zh, family_latin), "/list/#%s" % family_id), fam_stat))
+        html_link("%s %s" % (family_zh, family_latin), "/family/%s/" % family_id), fam_stat))
     if sub_zh and sub_id:
         sub_stat = ""
         sc = meta["sub_counts"].get(sub_id) or {}
@@ -426,10 +426,10 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
                 _sg, ("genus" if _sg == 1 else "genera"), _ss,
                 _sg, ("género" if _sg == 1 else "géneros"), _ss, ("especie" if _ss == 1 else "especies"))
         lines.append("- **亚科 Subfamily / Subfamilia**：%s%s" % (
-            html_link("%s %s" % (sub_zh, sub_latin), "/list/#%s" % sub_id), sub_stat))
+            html_link("%s %s" % (sub_zh, sub_latin), "/subfamily/%s/" % sub_id), sub_stat))
     if rank == "subspecies":
         lines.append("- **属 Genus / Género**：%s —— %s" % (
-            html_link("%s *%s*" % (genus_zh, genus_latin), "/list/#%s" % genus_id),
+            html_link("%s *%s*" % (genus_zh, genus_latin), "/genus/%s/" % genus_id),
             "单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）" if gcount == 1 else "共 %s 种（%s species · %s especies）" % (gcount, gcount, gcount)))
         lines.append("- **种 Species / Especie**：%s" % html_link(
             "%s *%s*" % (clean(fm.get("parent_zh")), clean(fm.get("parent_latin"))),
@@ -438,7 +438,7 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     else:
         genus_desc = "单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）" if gcount == 1 else "共 %s 种（%s species · %s especies）" % (gcount, gcount, gcount)
         lines.append("- **属 Genus / Género**：%s —— %s" % (
-            html_link("%s *%s*" % (genus_zh, genus_latin), "/list/#%s" % genus_id), genus_desc))
+            html_link("%s *%s*" % (genus_zh, genus_latin), "/genus/%s/" % genus_id), genus_desc))
         ts = genus_info.get("type_species")
         if ts and ts != latin:
             lines.append("- **本属模式种 Type species / Especie tipo**：*%s*" % ts)

@@ -31,8 +31,8 @@ ES — **巴尔干散白蚁** (*Reticulitermes balkanensis*) es una especie del 
 
 ## 分类位置
 
-- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/list/#heterotermitidae) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
-- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/list/#reticulitermes) —— 共 140 种（140 species · 140 especies）
+- **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
+- **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
 ## 分布

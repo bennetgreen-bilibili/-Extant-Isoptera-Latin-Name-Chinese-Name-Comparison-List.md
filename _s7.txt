@@ -1,0 +1,22 @@
+ 419|               - [Protocapritermes](#protocapritermes)
+ 420|               - [Quasitermes](#quasitermes)
+ 421|               - [Saxatilitermes](#saxatilitermes)
+ 422|               - [Spinitermes](#spinitermes)
+ 423|               - [Termes](#termes)
+ 424|               - [Tuberculitermes](#tuberculitermes)
+ 425|               - [Xylochomitermes](#xylochomitermes)
+ 426| - [References](#references)
+ 427| 
+ 428| ---
+ 429| 
+ 430| <h2 id="isoptera">Extant Isoptera</h2>
+ 431| 
+ 432| Extant Isoptera
+ 433| 
+ 434| <h3 id="mastotermitidae">MASTOTERMITIDAE</h3>
+ 435| 
+ 436| {% include distribution-map.html mode="family" id="mastotermitidae" %}
+ 437| 
+ 438| The family Mastotermitidae was established by Desneux in 1904 (Desneux, 1904: 284) (1). The type genus is Mastotermes Froggatt, 1897, with the type species Mastotermes darwiniensis Froggatt, 1897 fixed by original designation and monotypy. The family name is formed from the type genus name plus the family-level suffix -idae; Mastotermes is generally interpreted as a combination of the Greek mastos ('breast-like protuberance') and termes, referring to the papilla-like structures on the queen's abdomen. In this family the soldiers and workers are similar in appearance and poorly differentiated; the mandibles bear an apical tooth and several marginal teeth, and the alates have reticulate wing venation with a well-developed anal field, making this one of the living termite groups that retains the greatest number of primitive characters. The soldier head capsule is rounded and reddish-brown, with short, stout mandibles and long apical teeth; on the right mandible both marginal teeth are well developed, whereas on the left mandible only the first marginal tooth is distinct and the rest are reduced (this tooth formula is diagnostic of, and unique to, the family). In both soldiers and workers each fore coxa bears a flap-like process, and the ventral surfaces of the femora and tibiae bear rows of small opposing teeth, an appendicular feature unique to the family. This checklist records 1 genera and 1 species.
+ 439| 
+ 440| The living species is distributed in the tropical regions of northern Australia (Northern Territory, northern Queensland and the Kimberley region of Western Australia) and has been introduced into Papua New Guinea. This family is the earliest-diverging lineage of extant termites(2); the hind wing has a broad anal area(3), the tarsi are 5-segmented, and eggs are laid in oothecae like those of cockroaches—features also found in the related wood-feeding cockroaches (e.g. Cryptocercus). Nests are built underground, in fallen logs and at the root collars of trees, without exposed mounds; colonies are of moderate size under natural conditions but can expand to the order of a hundred thousand or even larger in human-modified environments, and can spread by colony budding with supplementary reproductives. Economically, Mastotermes darwiniensis is an important pest in northern Australia that damages structural timber and living trees(4). The invasive population was introduced into Lae, Papua New Guinea, with transported goods around the 1950s (about 1959); an eradication program was carried out between 1962 and 1973 and the species was once thought to have been eradicated, but it reappeared in the early 1990s, and new infestation sites were discovered again in 2002. It has now spread to 42 native and exotic tree species there, with the affected area about six times larger than in 1973. The species has also spread southward within Australia to the Gold Coast (about 800 km south of the southern limit of its native range), representing a range expansion within its native distribution.

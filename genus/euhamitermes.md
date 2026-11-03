@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "亮白蚁属 Euhamitermes 物种名录"
-description: "亮白蚁属（Euhamitermes）是白蚁科（TERMITIDAE）下的一个属，隶属尖白蚁亚科（Apicotermitinae），本站收录 24 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置与名录锚点见完整名录的对应章节。详见完整名录。按分类系统逐级排列。"
+description: "亮白蚁属（Euhamitermes）是白蚁科（TERMITIDAE）下的一个属，隶属尖白蚁亚科（Apicotermitinae），本站收录 24 种。本页列出该属的全部物种与亚种，并标注模式种，物种页含模式产地、分布地图与同属物种。属的分类位置见名录索引与上级科、亚科页面。详见名录索引。按分类系统逐级排列。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/euhamitermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#apicotermitinae">尖白蚁亚科</a> › <a href="{{ site.base_url }}/list/#euhamitermes">亮白蚁属 <i>Euhamitermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/apicotermitinae/">尖白蚁亚科</a> › <a href="{{ site.base_url }}/genus/euhamitermes/">亮白蚁属 <i>Euhamitermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>亮白蚁属 <i>Euhamitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 24 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（24 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/euhamitermes-aruna/"><i>Euhamitermes aruna</i> Chhotani, 1975 阿鲁纳亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-bidentatus/"><i>Euhamitermes bidentatus</i> Ping & Xu, 1987 双齿亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-chhotanii/"><i>Euhamitermes chhotanii</i> Maiti, 1983 乔塔里亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-concavigulus/"><i>Euhamitermes concavigulus</i> Ping & Liu, 1987 匙颏亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-daweishanensis/"><i>Euhamitermes daweishanensis</i> Ping, 1987 大围亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-dentatus/"><i>Euhamitermes dentatus</i> Thakur & Chatterjee, 1974 具齿亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-guizhouensis/"><i>Euhamitermes guizhouensis</i> Gao & Gong, 1985 贵州亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-hamatus/"><i>Euhamitermes hamatus</i> Holmgren, 1912 多毛亮白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/euhamitermes-indicus/"><i>Euhamitermes indicus</i> Holmgren & Holmgren, 1917 印度亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-kanhaensis/"><i>Euhamitermes kanhaensis</i> Roonwal & Chhotani, 1965 甘哈亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-karnatakensis/"><i>Euhamitermes karnatakensis</i> Roonwal & Chhotani, 1965 卡纳塔克亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-lighti/"><i>Euhamitermes lighti</i> Snyder, 1933 莱特亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-melanocephalus/"><i>Euhamitermes melanocephalus</i> Ping & Li, 1987 黑头亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-mengdingensis/"><i>Euhamitermes mengdingensis</i> Zhu & Li, 1987 孟定亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-microcephalus/"><i>Euhamitermes microcephalus</i> Ping & Li, 1987 小头亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-quadratceps/"><i>Euhamitermes quadratceps</i> Ping & Li, 1987 方头亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-retusus/"><i>Euhamitermes retusus</i> Ping & Xu, 1987 凹唇亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-shillongensis/"><i>Euhamitermes shillongensis</i> Roonwal & Chhotani, 1960 西隆亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-urbanii/"><i>Euhamitermes urbanii</i> Roonwal & Chhotani, 1977 乌尔巴尼亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-wittmeri/"><i>Euhamitermes wittmeri</i> Roonwal & Chhotani, 1977 威特默亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-yui/"><i>Euhamitermes yui</i> Ping, 1987 尤氏亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-yunnanensis/"><i>Euhamitermes yunnanensis</i> Ping & Xu, 1987 云南亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-yuntaishanensis/"><i>Euhamitermes yuntaishanensis</i> Zhu & Huang, 1987 云台山亮白蚁</a></li><li><a href="{{ site.base_url }}/species/euhamitermes-zhejianensis/"><i>Euhamitermes zhejianensis</i> He & Xia, 1983 浙江亮白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#euhamitermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/apicotermitinae/">尖白蚁亚科 <i>Apicotermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

@@ -33,8 +33,8 @@ ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la
 
 ## 分类位置
 
-- **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/list/#archotermopsidae) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
-- **属 Genus / Género**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/list/#archotermopsis) —— 共 2 种（2 species · 2 especies）
+- **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
+- **属 Genus / Género**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/genus/archotermopsis/) —— 共 2 种（2 species · 2 especies）
 
 ## 分布
 

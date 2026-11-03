@@ -1,0 +1,120 @@
+   1| ---
+   2| layout: default
+   3| title: List
+   4| description: "Full checklist of 3,021 termite species and 68 subspecies in 13 families: Latin and Chinese names, authors, type localities, distributions, type-species marks."
+   5| lang: en
+   6| author: 班奈特格林 (Bennet Green)
+   7| date: 2026-10-17
+   8| version: 2026.10.30
+   9| keywords: [termites, Isoptera, checklist, scientific names, Chinese names, taxonomy, Termitidae]
+  10| permalink: /en/list/
+  11| ---
+  12| # Extant Isoptera (Termites) — Latin–Chinese Name Comparison List (2026.10.30) Final Version
+  13| 
+  14| ## Taxonomic framework
+  15| 
+  16| All taxa in this list belong to a single taxonomic framework, from top to bottom:
+  17| 
+  18| 1. **Domain** — Eukaryota
+  19| 2. **Kingdom** — Animalia
+  20| 3. **Phylum** — Arthropoda
+  21| 4. **Class** — Insecta
+  22| 5. **Subclass** — Pterygota
+  23| 6. **Infraclass** — Neoptera
+  24| 7. **Superorder** — Dictyoptera
+  25| 8. **Order** — Blattodea (cockroaches and termites)
+  26| 9. **Infraorder** — Isoptera (epifamily Termitoidae)
+  27| 
+  28| Below follow **Family** → **Subfamily** → **Genus** → **Species**; the families, subfamilies, genera and species are listed below.
+  29| 
+  30| <div class="search-wrap">
+  31|   <input type="search" id="search-input" class="search-input" placeholder="Search scientific name, Chinese name, junior synonym, pinyin or traditional Chinese (e.g., Mastotermes, baiyi, 白蟻)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/" data-empty="No results found">
+  32|   <ul id="search-results" class="search-results" style="display:none"></ul>
+  33| </div>
+  34| 
+  35| <p class="search-hint">Pinyin (e.g. <code>baiyi</code>) and traditional Chinese are both supported. For anything beyond the checklist (blog posts, species pages), see <a href="{{ site.base_url }}/en/search/">full-site search</a>.</p>
+  36| 
+  37| <p class="search-hint search-hint-board">Cross-checks against GBIF / Catalogue of Life / Blattodea Species File flag <strong>{{ site.data.name_issues.meta.counts.total }}</strong> rows that need a human decision ({{ site.data.name_issues.meta.counts.by_group.conflict }} name conflicts → {{ site.data.name_issues.meta.counts.conflict_pairs }} pairs: {{ site.data.name_issues.meta.counts.pairs_relation_combination }} combination differences · {{ site.data.name_issues.meta.counts.pairs_direction_site }} with our name receiving · {{ site.data.name_issues.meta.counts.pairs_recorded }} recorded · {{ site.data.name_issues.meta.counts.by_group.match }} uncertain · {{ site.data.name_issues.meta.counts.by_group.gap }} coverage gaps): <a href="{{ site.base_url }}/en/list/name-issues/"><strong>name discrepancies →</strong></a></p>
+  38| 
+  39| {% include distribution-notes.html %}
+  40| 
+  41| <h2 id="by-family">Browse by family (13 families)</h2>
+  42| 
+  43| <p>Each of the 13 families has its own page listing every subfamily, genus and species link with counts:</p>
+  44| 
+  45| <ul class="taxon-list family-browse">
+  46| <li><a href="{{ site.base_url }}/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a> <span class="taxon-count">1 genera · 1 species</span></li>
+  47| <li><a href="{{ site.base_url }}/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a> <span class="taxon-count">2 genera · 5 species</span></li>
+  48| <li><a href="{{ site.base_url }}/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a> <span class="taxon-count">3 genera · 21 species</span></li>
+  49| <li><a href="{{ site.base_url }}/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a> <span class="taxon-count">1 genera · 1 species</span></li>
+  50| <li><a href="{{ site.base_url }}/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a> <span class="taxon-count">2 genera · 10 species</span></li>
+  51| <li><a href="{{ site.base_url }}/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a> <span class="taxon-count">23 genera · 480 species</span></li>
+  52| <li><a href="{{ site.base_url }}/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a> <span class="taxon-count">2 genera · 18 species</span></li>
+  53| <li><a href="{{ site.base_url }}/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a> <span class="taxon-count">5 genera · 62 species</span></li>
+  54| <li><a href="{{ site.base_url }}/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a> <span class="taxon-count">2 genera · 3 species</span></li>
+  55| <li><a href="{{ site.base_url }}/family/stylotermitidae/"><i>STYLOTERMITIDAE</i> 杆白蚁科</a> <span class="taxon-count">1 genera · 45 species</span></li>
+  56| <li><a href="{{ site.base_url }}/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a> <span class="taxon-count">1 genera · 2 species</span></li>
+  57| <li><a href="{{ site.base_url }}/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a> <span class="taxon-count">3 genera · 229 species</span></li>
+  58| <li><a href="{{ site.base_url }}/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a> <span class="taxon-count">280 genera · 2144 species</span></li>
+  59| </ul>
+  60| 
+  61| <h2 id="toc">Contents</h2>
+  62| 
+  63| - [Extant Isoptera](#isoptera)
+  64|   - [MASTOTERMITIDAE](#mastotermitidae)
+  65|     - [Mastotermes](#mastotermes)
+  66|   - [Euisoptera](#euisoptera)
+  67|     - [Teletisoptera](#teletisoptera)
+  68|       - [ARCHOTERMOPSIDAE](#archotermopsidae)
+  69|         - [Archotermopsis](#archotermopsis)
+  70|         - [Zootermopsis](#zootermopsis)
+  71|       - [HODOTERMITIDAE](#hodotermitidae)
+  72|         - [Anacanthotermes](#anacanthotermes)
+  73|         - [Hodotermes](#hodotermes)
+  74|         - [Microhodotermes](#microhodotermes)
+  75|       - [HODOTERMOPSIDAE](#hodotermopsidae)
+  76|         - [Hodotermopsis](#hodotermopsis)
+  77|       - [STOLOTERMITIDAE](#stolotermitidae)
+  78|         - [Porotermes](#porotermes)
+  79|         - [Stolotermes](#stolotermes)
+  80|     - [Icoisoptera](#icoisoptera)
+  81|       - [KALOTERMITIDAE](#kalotermitidae)
+  82|         - [Allotermes](#allotermes)
+  83|         - [Bicornitermes](#bicornitermes)
+  84|         - [Bifiditermes](#bifiditermes)
+  85|         - [Calcaritermes](#calcaritermes)
+  86|         - [Ceratokalotermes](#ceratokalotermes)
+  87|         - [Comatermes](#comatermes)
+  88|         - [Cryptotermes](#cryptotermes)
+  89|         - [Epicalotermes](#epicalotermes)
+  90|         - [Eucryptotermes](#eucryptotermes)
+  91|         - [Glyptotermes](#glyptotermes)
+  92|         - [Incisitermes](#incisitermes)
+  93|         - [Kalotermes](#kalotermes)
+  94|         - [Longicaputermes](#longicaputermes)
+  95|         - [Marginitermes](#marginitermes)
+  96|         - [Neotermes](#neotermes)
+  97|         - [Paraneotermes](#paraneotermes)
+  98|         - [Postelectrotermes](#postelectrotermes)
+  99|         - [Procryptotermes](#procryptotermes)
+ 100|         - [Proneotermes](#proneotermes)
+ 101|         - [Pterotermes](#pterotermes)
+ 102|         - [Roisinitermes](#roisinitermes)
+ 103|         - [Rugitermes](#rugitermes)
+ 104|         - [Tauritermes](#tauritermes)
+ 105|       - [Neoisoptera](#neoisoptera)
+ 106|         - [PSAMMOTERMITIDAE](#psammotermitidae)
+ 107|           - [Prorhinotermes](#prorhinotermes)
+ 108|           - [Psammotermes](#psammotermes)
+ 109|         - [RHINOTERMITIDAE](#rhinotermitidae)
+ 110|           - [Acorhinotermes](#acorhinotermes)
+ 111|           - [Dolichorhinotermes](#dolichorhinotermes)
+ 112|           - [Parrhinotermes](#parrhinotermes)
+ 113|           - [Rhinotermes](#rhinotermes)
+ 114|           - [Schedorhinotermes](#schedorhinotermes)
+ 115|         - [SERRITERMITIDAE](#serritermitidae)
+ 116|           - [Glossotermes](#glossotermes)
+ 117|           - [Serritermes](#serritermes)
+ 118|         - [STYLOTERMITIDAE](#stylotermitidae)
+ 119|           - [Stylotermes](#stylotermes)
+ 120|         - [TERMITOGETONIDAE](#termitogetonidae)

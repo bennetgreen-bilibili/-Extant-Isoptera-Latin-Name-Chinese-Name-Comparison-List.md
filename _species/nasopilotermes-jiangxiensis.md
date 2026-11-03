@@ -34,9 +34,9 @@ ES — **江西棘象白蚁** (*Nasopilotermes jiangxiensis*) es la única espec
 
 ## 分类位置
 
-- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/list/#termitidae) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
-- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/list/#nasutitermitinae) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
-- **属 Genus / Género**：[棘象白蚁属 *Nasopilotermes*]({{ site.base_url }}/list/#nasopilotermes) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
+- **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
+- **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
+- **属 Genus / Género**：[棘象白蚁属 *Nasopilotermes*]({{ site.base_url }}/genus/nasopilotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
 ## 分布
 

@@ -22,7 +22,7 @@ breadcrumb:
     url: "/genus/embiratermes/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/list/#termitidae">白蚁科</a> › <a href="{{ site.base_url }}/list/#syntermitinae">聚白蚁亚科</a> › <a href="{{ site.base_url }}/list/#embiratermes">生白蚁属 <i>Embiratermes</i></a> › <span>本属</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/syntermitinae/">聚白蚁亚科</a> › <a href="{{ site.base_url }}/genus/embiratermes/">生白蚁属 <i>Embiratermes</i></a> › <span>本属</span></nav>
 <header class="taxon-header">
 <h1>生白蚁属 <i>Embiratermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 9 种</p>
@@ -50,8 +50,8 @@ breadcrumb:
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/embiratermes-benjamini/"><i>Embiratermes benjamini</i> Snyder, 1926 本杰明生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-chagresi/"><i>Embiratermes chagresi</i> Snyder, 1925 查格雷斯生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-festivellus/"><i>Embiratermes festivellus</i> Silvestri, 1901 喜庆生白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/embiratermes-heterotypus/"><i>Embiratermes heterotypus</i> Silvestri, 1901 异型生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-latidens/"><i>Embiratermes latidens</i> Emerson & Banks, 1957 宽齿生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-neotenicus/"><i>Embiratermes neotenicus</i> Holmgren, 1906 幼态生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-snyderi/"><i>Embiratermes snyderi</i> Emerson & Banks, 1957 斯奈德生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-spissus/"><i>Embiratermes spissus</i> Emerson & Banks, 1957 密实生白蚁</a></li><li><a href="{{ site.base_url }}/species/embiratermes-transandinus/"><i>Embiratermes transandinus</i> Araujo, 1977 安弟斯生白蚁</a></li></ul>
 </section>
-<p class="taxon-more">该属的形态、分布与经济意义：<a href="{{ site.base_url }}/list/#embiratermes">完整名录对应章节</a>；结构化数据：<a href="{{ site.base_url }}/data/">数据与下载</a>。</p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回完整名录</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
 </article>
 <script type="application/ld+json">
 {

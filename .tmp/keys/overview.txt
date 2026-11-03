@@ -1,0 +1,603 @@
+
+===== 等翅目科的检索表 兵   蚁  [3603-3633]
+  c1   L:澳白蚁科|astotermitidae / >2   跗 节 5 节 澳白蚁科Mastotermitidae
+  c2   >3 / >4                      头部无囟 3
+  c3   L:草白蚁科|odotermitidae / L:木白蚊科|alotermitidae 尾须3—8节，触角22—23节(Stoloternes 属和Porotermes 属
+  c4   >5 / L:白蚁科|ermitidae         前胸背板扁平，无前叶 5
+  c5   L:鼻白蚊科|hinotermitidze / L:齿白蚊科|erritermitidae 上颚内缘无锯齿或仅在内缘基部有少数小齿 鼻白蚊科Rhinotermitidze
+  ## caste 有翅成虫
+  c1   L:澳白蚁科|astotermitidae / >2   后翅有臀叶，跗节明显分为5节，触角节多，有30节 澳白蚁科Mastotermitid
+  c2   >3 / >4                      头背无卤 3
+  c3   L:|icrohodotermes / L:木白蚁科|alotermitidae 无单眼，尾须3—8节，触角通常多于21节，左上颚有3个缘齿(在Iodotermes,
+  c4   >5 / L:白蚁科|ermitidae         前翅鳞大，与后翅鳞重叠，翅膜网状 5
+  c5   L:鼻白蚁科|hinotermitidae / L:齿白蚁科|erritermitidae 上颚具短的端齿，左上颚具有3个缘齿，右上颚在端齿和第1缘齿基部之间具1附齿 鼻白蚁科
+
+===== 木白蚊科分属检索表 兵    蚁  [3729-3741]
+  c1   >2 / L:属|ryptotermes         头大，长方形 … … …2
+  c2   >3 / L:属|lyprotermes         额部扁平，上颚长度近于头长之半 3
+  c3   >4 / L:楹白蚊属|ncisitermes      前胸背板前缘有无深凹陷 … … … … … … 4
+  c4   L:木白蚊属|alotermes / L:新白蚁属|eoterznes 触角第3节前端强烈增大 木白蚊属 Kalotermes
+
+===== 树白蚁属的分种检索表  [4146-4251]
+  ## caste 兵蚁
+  c1   >2 / >15                     头额面耸陡，额坡角大于60°2
+  c2   >3 / >4                      额面皱纹粗深 3
+  c3   L:大围山树白蚁|daweishanensis / L:峨螺树白蚁|emei 头较窄，头宽1.11—1.16mm。前胸背板前、后缘中央无凹刻 大围山树白蚁G.da
+  c4   >5 / >12                     头宽较窄0.79—1.05mm 5
+  c5   >6 / >7                      第10腹节背板几丁化强，棕色，深于其余腹背板 6
+  c6   L:麻额树白蚁|maculifrons / L:短头树白蚁|curticeps 左上颚较短长为0.61mm,不及头壳长之半。前胸背板前缘浅凹人，后缘无缺切，中凹率约
+  c7   L:黑树白蚁|fusus / >8            上颚较短，长不及头壳长的1/3(据Ahmad,M.,1958)触角10—11节。头壳
+  c8   >9 / >11                     头两侧平行 9
+  c9   L:厦门树白蚁|xiamenensis / >10    头长较短，头长1.21—1.25mm 厦门树白蚁G.xiamenensis
+  c10  L:小树白蚊|parvus / L:缙云树白蚊|jinyunensis 头两侧中段稍凹人。后颏宽区位于前段1/3处。前胸背板凹人较深，中凹率约30% 小树白
+  c11  L:福建树白蚊|fujianensis / L:戴云树白蚁|daiyunensis 后颏最狭稍宽为0.27—0.28mm 福建树白蚊G.fujianensis
+  c12  >13 / L:赤树白蚁|sasumensis      头宽较窄，1. 12—1.55mm 13
+  c13  L:双斑树白蚊|bimaculifrons / >14  上颚端向前下倾 双斑树白蚊G. bimaculifrons
+  c14  L:合江树白蚁|hejiangensis / L:尤氏树白蚁|yai 额顶具浅纹。后颏前宽区两侧缘无叶缺 合江树白蚁G.hejiangensis
+  c15  >16 / >20                    头宽大于1.40mm 16
+  c16  >17 / >18                    头型较短，头阔指数(头宽/头长)大于0.63 17
+  c17  L:榕树白蚁|ficus / L:英德树白蚁|yindeensis 上颚较短阔，左上颚长0.94—1.00mm,长不及头长之半 榕树白蚁G . ficu
+  c18  L:蔡氏树白蚊|tsai / >19           头宽较宽，1.68—1.74mm 蔡氏树白蚊G . tsai
+  c19  L:花唇树白蚁|baliochilus / L:川西树白蚊|hesperus 上唇具三角形棕色斑。左上颚长约为头长的一半。前胸背板宽于头 花唇树白蚁C.balio
+  c20  >21 / >31                    头宽大于1. 10mm 21
+  c21  >22 / >23                    前胸背板宽于头 22
+  c22  L:大眼树白蚁|magnioculus / L:宽胸树白蚁|larithorax 复眼大而突出 大眼树白蚁G.magnioculus
+  c23  L:宽头树白蚁|euryceps / >24       头型短宽，头阔指数0.68—0.70 宽头树白蚁G.euryceps
+  c24  L:金平树白蚁|chinpingensis / >25  后颏最狭较宽，为0.25—0.31mm 金平树白蚁G.chinpingensis
+  c25  >26 / >29                    左上颚较短，长为0.80—1.03mm,均值小于0.94mm 26
+  c26  L:琥珀树白蚁|stuccineus / >27     后颏前宽区具明显的横纹 琥珀树白蚁G.stuccineus
+  c27  >28 / L:赵氏树白蚁|zhaoi          头宽小于1.20mm 28
+  c28  L:陇南树白蚁|longnanensis / L:思茅树白蚁|simaoensis 头两侧平行。左上颚具4枚缘齿 陇南树白蚁G.longnanensis
+  c29  L:狭胸树白蚊|angustithorax / >30  前胸背板前缘近平直 狭胸树白蚊G.angustithorax
+  c30  L:凉山树白蚁|liangshanensis / L:那大树白蚁|nadaensis 前胸背板后缘中央具小缺刻 凉山树白蚁G.liangshanensis
+  c31  >32 / >34                    头型较短，头阔指数0.64—0.76 32
+  c32  L:黎母岭树白蚁|limulingensis / >33 头长，1. 13mm。头阔指数0.76 黎母岭树白蚁G.limulingensis
+  c33  L:翘预树白蚊|mandibulicinus / L:直频树白蛟|orthognathus 上嚬端明显上翘。后须腰缩指数0.54 翘预树白蚊G.mandibulicinus
+  c34  L:陕西树白蚊|shaanxiensis / >35   后颏最狭处较窄，为0.11—0.15mm,腰缩指数0.36 陕西树白蚊G.shaan
+  c35  L:短胸树白蚊|brachythorax / L:贵州树白蚁|guizhoensis 前胸背板中长较短，为0.27—0.38mm 短胸树白蚊G.brachythorax
+  ## caste 有翅成虫
+  c1   >2 / >7                      头赤褐色或较浅，前胸背板为褐黄色或稍淡腹部背板褐黄色或稍浅 2
+  c2   L:小树白蚁|parvus / >3           体较小，头宽(连眼)小于0.95mm,前胸背板宽小于0.91mm 小树白蚁G . p
+  c3   >4 / >5                      头部触角斑明显 4
+  c4   L:合江树白蚁|hejiangensis / L:宽胸树白蚊|larithorax 头顶丫缝可见，复眼宽0.39—0.42mm 合江树白蚁G.hejiangensis
+  c5   L:赤树白蚊|satsunensis / >6      头顶丫缝明显 赤树白蚊G.satsunensis
+  c6   L:用西树白蚊|hesperus / L:峨嵋树白蚁|emei 体较大，头宽(连眼)1.46—1.54mm,前胸背板宽度较宽1.41—1.56mm 
+  c7   L:黑树白蚁|fuscus / >8           体较小，头宽(连眼)小于0.95mm,前胸背板宽小于0.91mm 黑树白蚁G.fus
+  c8   L:金平树白蚁|chinpingensis / >9   腿节黄白蚁，与胫节颜色相同 金平树白蚁G.chinpingensis
+  c9   L:凉山树白蚁|liangshanensis / L:陇南树白蚁|longnanensis 头黑褐色，前胸背板宽与头宽(连眼)相等或略宽 凉山树白蚁G.liangshanens
+
+===== 新白蚊属分种检索表  [5521-5541]
+  ## caste 兵蚁
+  c1   >2 / >12                     头部较狭长，头长(至颚基)明显大于头宽的1.5倍 2
+  c2   >3 / >10                     前胸背板前凹缘宽而浅，后颏腰部较狭，其宽的2倍小于最大宽 3
+  c3   >4 / >7                      后颏最宽区两侧边平行对称，近似方形 4
+  c4   >5 / OPEN                    体型大，后颏最宽区两侧的中部略内凹 5
+  c5   OPEN                         眼与触角的间距大0.25mm,后颏较宽，最小宽与长或最大宽与长之比指数分别为0.12
+  c98  L:小新白蚁|humilis               触角15节，第3节膨大，明显大于2节，头背部中部略隆起 双凹新白蚁N. binova
+  c15  L:宽唇新白蚁|amplilabralis / L:蚊|brachyotum 体略大，右上颚1缘齿后切缘突起呈齿状，后须略细长，其长为最小宽的7—8倍头两侧近平行
+  c17  L:台山新白蚁|taishanensis         左上颚短，其长小于头宽。后颏最宽区两侧平行，触角14—16节 … … … … 楔头新
+
+===== 鼻白蚁科分属检索表  [6174-6203]
+  ## caste 兵蚁
+  c1   >2 / >4                      头囟前有沟 2
+  c2   L:原鼻白蚁漏|rorhinotermes / >3   上颚无明显齿 原鼻白蚁漏Prorhinotermes
+  c3   L:棒鼻白蚁属|arrhinotermes / L:长鼻白蚁属|chedorhinotermes 上颚基部有锯状齿 棒鼻白蚁属Parrhinotermes
+  c4   L:乳白蚊属|optotermes / >5       囱孔在头前，有1短管 乳白蚊属Coptotermes
+  c5   L:杆白蚊属|tylotermes / >6       上唇短，半圆形，无透明部 杆白蚊属Stylotermes
+  c6   L:蔡白蚁属|saitermes / L:散白蚊属|eticulitermes 头卵圆形 蔡白蚁属Tsaitermes
+  ## caste 成虫
+  c1   >2 / >4                      头两侧平行 2
+  c2   L:杆白蚊属|tylotermes / >3       跗 节 3 节 杆白蚊属Stylotermes
+  c3   L:散白蚁属|eticnulitermes / L:蔡白蚁属|saitermes 触角少于19节 散白蚁属Reticnulitermes
+  c4   L:原鼻白蚊属|rorhinotermes / >5   翅中脉由肘脉分出 原鼻白蚊属Prorhinotermes
+  c5   >6 / L:乳白蚊属|optoterimes      唇基明显扩大，有中沟 6
+  c6   L:长鼻白蚊属|chedorhinotermes / L:棒鼻白蚁属|arrhinotermes 触角20节 长鼻白蚊属Schedorhinotermes
+
+===== 原鼻白蚁属分种检索表 兵    蚁  [6229-6241]
+  c1   OPEN                         前胸背板宽于中胸背板 … 前胸背板狭于或等于中胸背板
+  c2   OPEN                         头背缘在额后平直；复眼大而明显 … … 头背缘在额后浅凹；复眼小而不明显
+  c3   OPEN                         前胸背板宽等于中胸背板宽， 头背缘平直 … … 甲?中国动物志早,电纲第十卷等翅目甲
+
+===== 长鼻白蚁属分种检索表  [6562-6584]
+  c1   >2 / >3                      大型种；大兵头呈卵梨形，两侧前部较狭，后部较宽，最大宽2.07mm, 右上颚1枚缘齿
+  c2   L:梨头长鼻白蚁|pyricephalus / L:异盟长鼻白蚊|insolitus 大兵：头部最宽与头长至颚基几乎相仿，呈宽梨形；后颏较宽阔，最小宽与长之比指数为0 2
+  c3   >4 / L:大长鼻白蚁|magus           大兵；前胸背板前缘突出的中央无凹刻，长与宽之比指数0.64—0.69,稍短宽，小兵：
+  c4   L:强颚长鼻白蚁|fortignatus / L:橄榄坝长鼻白蚁|None 大兵：触角17节，第2与第3节几乎等长上颚较宽扁，前胸背板较短宽，其长与宽之比指数 
+
+===== 乳白蚁属分种检索表  [6767-6842]
+  ## caste 兵蚁
+  c1   >2 / >9                      囟孔两侧各具1根刚毛，囟孔与触角窝之间无毛；上唇具1对端毛，缺亚端毛和中区毛；前胸背
+  c2   >3 / >4                      头有二型，具长卵形和近圆形 3
+  c3   L:二型乳白蚁|dimorphus            体小，头长至颚基1.251.28 mm, 卵形头宽1.14—1.21 mm, 圆形头
+  c4   >5 / >8                      头最宽在中段 5
+  c5   L:斜孔乳白蚁|obliquus / >6        后颏最窄处位于后部，图孔向上方倾斜 斜孔乳白蚁C . (0 . )ob liqu u
+  c6   L:版纳乳白蚁|bannaensis / >7      触角16—17节(多数17节),头长至颚基1.55—1.63mm,头宽1.25—1.
+  c7   L:崖县乳白蚁|yaxianensis / L:格斯特乳白蚁|gestroi 头部较窄，最宽1.04-1.13mm,头长至颚基1.30—1.33 mm 崖县乳白蚁
+  c8   L:匙颏乳白蚁|cochearus / L:长颚乳白蚁|longignathus 上颚较短，其长0.90—0.96 mm,后颏最宽处上方表面明显低凹成匙形，触角15节
+  c9   >10 / >15                    头形二型，有长卵形和近圆形 10
+  c10  >11 / >12                    触角16节 11
+  c11  L:河口乳白蚁|hekouensis / L:长泰乳白蚁|changtaiensis 体稍小，卵形头宽1.28-1.30mm,圆形头宽1.35—1.38 mm后足胫节长1
+  c12  >13 / >14                    囟孔椭圆形 13
+  c13  L:鼓浪屿乳白蚁|gulanyuensis / L:圆头乳白蚁|eyelocoryphus 头较短，卵形头长至颚基1.42—1.50 mm,头宽1.15—1.25 mm;圆形头
+  c14  L:巢县乳白蚁|chaoxianensis / OPEN 体小，卵形头宽1.14—1.18mm;圆形头宽1.25—1.27 mm,前胸背板宽0
+  c15  >16 / >17                    胸、腹背面具1长带 16
+  c16  L:长带乳白蚁|longistriatus / L:黑带乳白蚁|melanoistriatus 体较大，头在中段以后最宽，其宽1.361.39mm,前胸背板宽0.96—1.02 m
+  c17  >18 / >20                    头最宽处位于中段 18
+  c18  L:上海乳白蚁|shanghaiensis / >19  小种，头长至颚基1.25—1.38mm,头最宽1.03—1.05mm,前胸背板宽0.
+  c19  L:苏州乳白蚁|suzhouensis / L:赭黄乳白蚁|ochraceus 囟孔圆拱形，头宽1.25 — 1.35mm,前胸背板宽0.78 — 0.88mm, 
+  c20  >21 / >22                    体小，头宽1.27 mm以下 21
+  c21  L:贵州乳白蚁|guizhouersis / L:湾乳白蚁|formosarus 前胸背板较窄，其宽0.77—0.79 mm,头宽1.20—1.27 mm 贵州乳白蚁
+  c22  L:海南乳白蚁|hainanensis / >23    岗孔三角形，头宽1.33—1.47mm,前胸背板宽0.93—1.18 mm,触角15
+  c23  L:大头乳白蚁|grandis / L:广东乳白蚁|guangdongensis 头特大，头长至颚基1.68—1.87 mm,头宽1.33—1.54 mm,前胸背板宽
+
+===== 乳白蚊属分种检索表  [6842-6885]
+  ## caste 有翅成虫
+  c1   >2 / >4                      两单眼间缺斑纹，两单眼前内侧半月形斑纹明显；翅面被较稀的短毛；(寡毛乳白蚁亚属 Ol
+  c2   L:二型乳白蚁|dimorphus / >3       体较大，头长至上唇端1.50—1.55 mm,前胸背板宽1.35—1.40mm,触角
+  c3   L:单毛乳白蚁|monoserosus / L:崖县乳白蚁|yaxianensi 头宽连眼1.33—1.43mim,前胸背板宽1.32—1.36 mm,前翅长9.30
+  c4   >5 / >7                      体较小，头宽连眼1.35—1.43 mn 5
+  c5   L:巢县乳白蚁|chaoxianensis / >6   头长至上唇端1 .40 — 1 .43 mm,头宽连眼1 .39 — 1 .43 m
+  c6   L:贵州乳白蚁|guizhouensis / L:上海乳白蚁|shanghaiensis 前胸背板宽1.27mm,前翅长8.79mm头长至上唇端1.51mm 贵州乳白蚁C. 
+  c7   L:长泰乳白蚁|changtaiemsis / >8   头长至上唇端1.70—1.89mm,复眼至头下缘0.18—0.21 mm,头和前胸背
+  c8   >9 / >10                     头长(至上唇端)几等于宽(连复眼)9
+  c9   L:圆头乳白蚁|cyclocoryphus / L:台湾乳白蚁|formosanus 复眼长径0.44—0.49mm,复眼短径0.39—0.46 mm,头宽连眼1.53—
+  c10  L:苏州乳白蚁|suzhouensis          头长至上颚基1.32 mm,前翅鳞长1.08—1. 13mm,前胸背板长0.80 m
+  c77  >17                          版纳乳白蚁Coptotermes(0.) bannaensis Xia et He,
+
+===== 平额散白蚁亚属分种检索表  [7809-7930]
+  ## caste 兵蚁
+  c1   >2 / >31                     上唇舌状，唇端圆钝 2
+  c2   >3 / >12                     前胸背板中区毛约10枚 3
+  c3   >4 / >5                      上唇侧端毛发达 4
+  c4   L:毛唇散白蚁|tricholabralis / L:新中华散白蚁|neochinensis 头宽0 .98 — 1 .05mm 毛唇散白蚁R.(P.)tricholabrali
+  c5   >6 / >10                     上唇矛状 6
+  c6   L:黑胸散白蚁|chinensis / >7       后颏狭0. 14—0. 15mm 黑胸散白蚁R.(P.)chinensis
+  c7   L:丰都散白蚁|fenduensis / >8      头长2.00—2. 17mm 丰都散白蚁R.(P.)fend uensis
+  c8   L:圆磨散白蚊|labralis / >9        上额细弱，颚端稍直 圆磨散白蚊R . (P . )lab ra lis
+  c9   L:周氏散白蚁|choui / L:湖北散白蚁|hubeiensis 有U形头盖缝，后足胫节长0.94—0.99mm 周氏散白蚁R. (P.)choui
+  c10  >11 / L:近圆唇散白蚁|perilabralis  后颏狭0. 10 — 0. 14mm 11
+  c11  L:直缘散白蚁|rectis / L:宽唇散白蚁|latilabrum 头宽0.91—1.00mm 直缘散白蚁R . (P . )rect is
+  c12  >13 / >25                    前胸背板中区毛约20枚 13
+  c13  >14 / >22                    上唇矛状 14
+  c14  >15 / >18                    后颏狭0 . 07 - 0 . 14mm 15
+  c15  L:金黄散白蚁|chryseus / >16       后颏狭0 .07 — 0 .09mm 金黄散白蚁R.〔P.〕chryseus
+  c16  L:南江散白蚁|nanjiangensis / >17  头额区灰色带黑 南江散白蚁R.(P.)nanjiangensis
+  c17  L:细颏散白蚁|leptogulus / L:柠黄散白蚁|citrinus 头宽0 .93 — 1 . 03mm 细颏散白蚁R . (P . )leptog u
+  c18  >19 / >20                    上唇侧端毛发达 19
+  c19  L:兴山散白蚁|ringshanensis / L:扩头散白蚁|ampliceps 头两侧平行，后缘平直 兴山散白蚁R.(P.)ringshanensis
+  c20  L:拟尖唇散白蚁|pseudaculabialis / >21 头长2 .09- 2 . 14mm 拟尖唇散白蚁R.(P.)pseudacu lab
+  c21  L:近暗散白蚁|perilucifugus / L:似暗散白蚁|paralucifugus 头长1 .76 1 .78mm 近暗散白蚁R.(P.)perilucifugus
+  c22  L:小平散白蚁|parves / >23         头宽0 . 90mm 小平散白蚁R . (P . )par ves
+  c23  >24 / L:大囱散白蚁|gaoski         后颏狭0 . 11 — 0 . 13mm 24
+  c24  L:峨嵋散白蚁|emei / L:近舌唇散白蚁|subligulosus 后足胫节长0.75-0.85mm 峨嵋散白蚁R . (P . )e mei
+  c25  >26 / >27                    上唇矛状 26
+  c26  L:狭须散白蚁|perdngustus / L:平额散白蚁|planifrons 头宽1 .08 — 1 .20mm,触角17 — 18节 狭须散白蚁R.(P.)pe
+  c27  L:短头散白蚁|curticeps / >28      后颏狭0. 16 — 0.20mm 短头散白蚁R . (P. )curt iceps
+  c28  L:雷波散白蚁|leibcensis / >29     前胸背板宽0.91—1.01mm 雷波散白蚁R.(P.)leibcensis
+  c29  L:刚毛散白蚁|setosus / >30        头有密刚毛 刚毛散白蚁R . (P . )seto sus
+  c30  L:奇须散白蚁|mirogulus / L:天平山散白蚊|tianpingshanensis 后颏前宽区中央凹陷 奇须散白蚁R . (P . )mirogul us
+  c31  >32 / >38                    头长平均大于2 . 30mm,头长2 . 32 — 2 .96mm,(个别2 . 1
+  c32  >33 / >34                    上颚长1 .20 — 1 .32mm 33
+  c33  L:狭胸散白蚁|angustatus / L:毛坪散白蚁|maopingersis 头长1 .30 — 1 .39mm 狭胸散白蚁R . (P. )angustatus
+  c34  >35 / >36                    头两侧向后稍扩张 35
+  c35  L:凹头散白蚁|coelceps / L:罗浮散白蚁|luofunicus 头阔指数0.55—0.56 凹头散白蚁R . (P. )coelceps
+  c36  L:双瘤散白蚁|bicristatus / >37    额峰略隆，头两侧中部狭窄 双瘤散白蚁R.(P.)bicristatus
+  c37  L:海南散白蚁|hainanensis / L:大型散白蚁|largus 前胸背板梯形 海南散白蚁R.(P.)hainanensis
+  c38  >39 / >40                    上唇有侧端毛 39
+  c39  L:粗颚散白蚁|solidimandibulas / L:大别山散白蚁|dabieshanenzsis 头宽1. 11—1.25mm 粗颚散白蚁R.(P.)solidimandibulas
+  c40  L:隆头散白蚁|levatoriceps / >41   头背缘隆起 隆头散白蚁R.(P.)levatoriceps
+  c41  L:短颚散白蚁|brachygnathus / >42  上颚长0.95—1.00mm 短颚散白蚁R.(P.)brachygnathus
+  c42  >43 / >45                    上颚较直 43
+  c43  L:锥颚散白蚁|None / >44           上颚长小于头宽 锥颚散白蚁
+  c44  L:细颚散白蚁|lepiomandibularis / L:高要散白蚊|gaoyuoensis 头高大于0 . 94mm 细颚散白蚁R.(P.)lepiomandibularis
+  c45  >46 / >50                    前胸背板肾形 46
+  c46  >47 / >48                    前胸背板前缘显宽于后缘，前缘宽约为后缘宽的3倍 47
+  c47  L:尖唇散白蚁|aculabialis / L:责阳散白蚁|guiyangensis 头长1.80—2.00mm,前胸背板中区毛约2枚 尖唇散白蚁R. (P.)acu l
+  c48  L:湖南散白蚁|hunanensis / >49     前胸背板前缘凹刻浅，不明显 湖南散白蚁R.(P.)hunanensis
+  c49  L:清江散白蚁|qingiangensis / L:西藏散白蚁|tibetanus 上唇长0.31—0.35mm 清江散白蚁R.(P.)qingiangensis
+  c50  L:尹氏散白蚁|yina / >51           上唇缺亚端毛 尹氏散白蚁R . (P . }yin a
+  c51  L:云寺散白蚊|yunsiensis / >52     上颗外缘略呈波状 云寺散白蚊R.(P.)yunsiensis
+  c52  L:平额散白蚁|planimentu / >53     触角17节 平额散白蚁R . (P . )planime ntu
+  c53  L:雷公山散白蚁|leigongshanensis / >54 上唇端乳头状 … … … … … 雷公山散白蚁 R.(P.)l eigongshan
+  c54  L:大鹰散白蚊|dayongensis / >2     头毛稀疏 … ·麻江散白蚁 R.(P.) majiangensis 头毛适度 … 大
+
+===== 突额散白蚁亚属分种检索表  [9605-9708]
+  ## caste 兵蚁
+  c1   >2 / >6                      前胸背板中区毛约10枚 2
+  c2   >3 / >4                      上唇矛状 3
+  c3   L:肖若散白蚁|affinis / L:褐缘散白蚁|fulviurarginalis 上颚长1.18—1.30mm 肖若散白蚁R . (F . )affinis
+  c4   L:栖北散白蚁|None / >5            头宽1. 10—1.28mm 栖北散白蚁
+  c5   L:舌唇散白蚁|lingularus / L:桂林散白蚊|guilinensis 额峰适度隆起，头宽0.94—0.97mm 舌唇散白蚁R.(F.)ling u lar
+  c6   >7 / >12                     前胸背板中区毛约20枚 7
+  c7   >8 / L:高山散白蚁|altus           上唇矛状 8
+  c8   L:武宫散白蚁|wugongensis / >9     头宽1. 19—1.30 mm 武宫散白蚁R.(F.)wugongensis
+  c9   L:黄胸散白蚁|flaviceps / >10      上唇具侧端毛 黄胸散白蚁R.(F.)flav ice ps
+  c10  L:丹徒散白蚁|dantuensis / >11     头宽0.92—0.99mm 丹徒散白蚁R.(F.)dantuensis
+  c11  L:近黄胸散白蚁|periflaviceps / L:长须散白蚁|longigulus 上颚端较直 近黄胸散白蚁R.(F.)periflaviceps
+  c12  >13 / >31                    前胸背板中区毛约30枚 13
+  c13  >14 / >27                    上唇矛状 14
+  c14  >15 / >20                    额峰明显隆起至强隆起 15
+  c15  >16 / >17                    额峰强隆起 16
+  c16  L:窄头散白蚁|angusticephalus / L:高额散白蚁|hypsofrons 头宽1.11—1.20 mm 窄头散白蚁R.(F.)angusticephalus
+  c17  >18 / >19                    头宽0.87—1.04 mm 18
+  c18  L:毛头散白蚁|trichocephalus / L:宜章散白蚁|yizhangensis 头长1.30—1.43mm 毛头散白蚁R.(F.)trichoce phalus
+  c19  L:双峰散自蚁|bitumulus / L:平江散白蚁|pingjiangensis 左上颚长1. 15—1.27mm 双峰散自蚁R . (F . )bitumulus
+  c20  L:侏儒散白蚁|minuatus / >21       头长1.34—1.40 mm 侏儒散白蚁R.(F.)min uatus
+  c21  >22 / >23                    额中央凹陷，额呈双峰 22
+  c22  L:贵州散白蚁|guizhouensis / L:长翅散白蚁|longipennis 上唇具侧端毛，后颏长1.17—1.50mm 贵州散白蚁R.(F.)guizhouen
+  c23  >24 / >25                    头长1.43—1.66mm 24
+  c24  L:双色散白蚁|dichrous / L:小头散白蚁|microcephalus 左上颚长0.88—0.90 mm 双色散白蚁R . (F . )dich rous
+  c25  L:幽兰散白蚁|eymbidi / >26        后颏狭0. 17—0.20mm 幽兰散白蚁R . (F . }ey m bidi
+  c26  L:林海散白蚁|sylvestris / L:橙黄散白蚊|aurantius 上唇具侧端毛，上颚长0.92—0.94 mm 林海散白蚁R.(F.)sylvestr
+  c27  >28 / >29                    额峰明显至强隆起 28
+  c28  L:江城散白蚁|jiangchengertsis / L:卵唇散白蚊|ovatilabrum 头长2.26—2.42 mm 江城散白蚁R.(F.)jiangchengertsis
+  c29  L:兴义散白蚁|xingyiensis / >30    上唇有侧端毛 兴义散白蚁R.(F.}xingyiensis
+  c30  L:蚁|lii / L:蟹腿散白蚁|cncrifemuris 头宽1.04—1.12 mm 李 氏 散 白 蚁R . ( F . ) l i i
+  c31  >32 / >38                    上唇矛状 32
+  c32  >33 / >36                    头宽0 .95 — 1 . 11mm 33
+  c33  >34 / >35                    后颏长0 .94- 1 . 33mm 34
+  c34  L:花胸散白蚊|fukienensis / L:广州散白蚁|guangzhouensis 上颚端颇弯，弯端较长，后颏长1.26—1.33mm 花胸散白蚊R . (F . )f
+  c35  L:赵氏散白蚁|zhaoi / L:三色散白蚁|tricolorus 额峰缓隆起，前胸背板中区毛约40枚 赵氏散白蚁R . (F . )zhao i
+  c36  L:毛胸散白蚁|trichothonax / >37   前胸背板肾形 毛胸散白蚁R.(F.}trichotho nax
+  c37  L:褐胸散白蚁|None / L:永定散白蚁|yougdingensis 头后部稍扩，后缘宽圆 褐胸散白蚁
+  c38  L:尖额散白蚁|assamensi / >39      头长1.74—1.90 mm 尖额散白蚁R.(F.)assam en si
+  c39  L:大头散白蚁|grundis / >40        头宽1.45—1.52 mm 大头散白蚁R . (F . )grundis
+  c40  >41 / >42                    上唇侧端毛发达 41
+  c41  L:武冈散白蚁|wuganensis / L:古蔺散白蚁|gulinensis 头长2.00—2.22mm 武冈散白蚁R.(F.)wuganensis
+  c42  L:陌宽散白蚁|mirus / >43          头后部稍狭窄，后缘宽圆 陌宽散白蚁R . (F . )mir us
+  c43  L:花坪散白蚁|huapingensis / OPEN  后足胫节长0.98—1.02 nm 花坪散白蚁R.(F.)huapingensis
+
+===== 散白蚁亚属分种检索表Ret iculitermess, str.  [11217-11243]
+  ## caste 兵蚁
+  c1   >2 / >3                      前胸背板中区几乎光秃无毛 2
+  c2   L:青岛散白蚁|None / OPEN          头宽1.00—1.07mm 深黄散白蚁R.(s. str.}croce us 头宽1
+  c3   >4 / >6                      上唇端半透明区较长，但不成针状延伸，上颚军刀状 4
+  c4   L:察隅散白蚁|None / >5            上唇透明端钝圆形，透明端约占唇长1/4—1/5 察隅散白蚁
+  c5   L:龟唇散白蚁|None / L:端明散白蚁|None  上唇呈六角形龟甲 龟唇散白蚁
+  c6   >7 / >9                      额峰隆起 7
+  c7   >8 / L:鼎湖散白蚁|None            头宽0.89—1.01mm 8
+  c8   L:连城散白蚁|None / OPEN          后足胫节长0.75mm 长头散白蚁R.(s.str.)longicepłhal us
+  c9   >10                          上颚长大于头长之半 钩频散白蚊R . (s. str . )ancyle us 上颚
+  c10  L:弯颚散白蚁|None / >11           后颏狭0 . 13 - 0 . 15mm 弯颚散白蚁
+  c11  L:似长头散白蚁|None / L:短弯颚散白蚁|None 上唇缺侧端毛，前胸背板宽0.72-0.76mm 似长头散白蚁
+
+===== 蔡白蚁属分种检索表 兵    蚁  [11653-11667]
+  c1   >2 / >3                      头部最宽1 .40 — 1 .49mm 2
+  c2   L:湖南蔡白蚊|huanensis / L:英德蔡白蚁|yingdeensis 前胸背板前缘中央具狭深凹刻，后颏长1.45—1.65mm ,头长至上颚基2.00—2
+  c3   L:扩头蔡白蚁|ampliceps / >4       触角16—17节，头长至颚基1.78—1.89mm, 头最宽1.14—1.24mm,
+  c4   L:喜山蔡白蚁|oreophilus / >5      头长无颚1.60mm, 前胸背板长0.36mm, 前胸背板宽0.75mm, 喜山蔡白
+  c5   L:莽山蔡白蚁|mangshanensis / L:蛋头蔡白蚁|oocephalus 头宽1.24—1.35mm,前胸背板宽0.86—0.96mm,触角15—17节， 莽
+
+===== 杆白蚁属分种检索表  [11903-11974]
+  ## caste 兵蚁
+  c1   >2 / >20                     上唇端半圆形 2
+  c2   >3 / >9                      囟突起 3
+  c3   >4 / L:宽唇杆白蚁|latilabrum      头宽1.36—1.67 4
+  c4   >5 / >7                      前胸背板宽 一般小于1 . 27mm 5
+  c5   >6 / L:刚毛杆白蚁|None            头壳刚毛细短而稀疏 6
+  c6   L:短盖杆白蚁|valvules / L:重庆杆白蚁|chongqingensis 头宽1.36—1.41 短盖杆白蚁S.valvu les
+  c7   >8 / L:丘额杆白蚁|acrofrons       头壳长方形 8
+  c8   L:长汀杆白蚁|changtingensis / L:周氏杆白蚁|choui 前胸背板中区毛稀，缺中纵线 长汀杆白蚁S.changtingensis
+  c9   >10 / L:武夷杆白蚁|wuyinicus      头两侧平行或中段稍狭 10
+  c10  >11 / >12                    头两侧中段稍狭 11
+  c11  L:多毛杆白蚁|crinis / L:平额杆白蚁|planifrons 头宽1.35多毛杆白蚁S. cr inis
+  c12  >13 / >15                    头宽1. 16- 1.22 13
+  c13  >14 / L:阔颏杆白蚁|latipedunculus 后须狭0.16—0.19 14
+  c14  L:长头杆白蚁|mecocephalus / L:倾头杆白蚁|inclinatus 前胸背板后缘中央凹人明显 长头杆白蚁S.mecocephalus
+  c15  L:弯颚杆白蚁|curvatus / >16       上颚弯端明显 弯颚杆白蚁S. curvatus
+  c16  >17 / >18                    左上颚长1.53—1.70 17
+  c17  L:连平杆白蚁|lianpingensis / L:细颚杆白蚁|angusignathus 头两侧前段较狭 连平杆白蚁S.lianpingensis
+  c18  >19 / L:圆唇杆白蚁|labralis       上唇长0.35—0.40,长不及宽 19
+  c19  L:阔腿杆白蚊|laticrus             后胫长1.15—1.30 长囱杆白蚁s.fontanell us 后胫长1.32—1
+  c20  >21 / >22                    囟 隆 起 21
+  c21  L:苏氏杆白蚁|sui / L:高山杆白蚁|alpinus 头宽1.21—1.31 苏氏杆白蚁S . sui
+  c22  >23 / L:汉源杆白蚁|hanyuanicus    前胸背板后缘中央近平直或凹入甚微 23
+  c23  >24 / >25                    上颚长和头宽近相等 24
+  c24  L:直颚杆白蚁|None / >33           上颚端近直 直颚杆白蚁
+  c26  >27 / L:三平杆白蚁|triplanus      前胸背板前缘中央明显凹人 27
+  c27  L:波颚杆白蚊|undulatus / >28      上颚外缘吴波状 波颚杆白蚊S. undulat us
+  c28  L:贵阳杆白蚊|guiyangensis / >29   前胸背板具中线 贵阳杆白蚊S.guiyangensis
+  c29  L:中华杆白蚁|sinensis / >30       触角窝盖片几乎盖及头侧边 中华杆白蚁S.sinensis
+  c30  >31 / >32                    前胸背板宽1.10—1.19 31
+  c31  L:频奇杆白蚁|mirabilis / L:缙云杆白蚁|None 头壳长2 .09-2 . 10 频奇杆白蚁S . mirabilis
+  c32  L:成都杆白蚁|chengduensis / L:蔡氏杆白蚁|fsaii 上唇宽0.40—0.41 成都杆白蚁S.chengduensis
+  c33  L:长颚杆白蚁|longigrzathus / L:宏壮杆白蚁|None 左上颚长1.65—1.75 长颚杆白蚁S.longigrzathus
+
+===== 分属 检索表 兵   蚁  [13027-13129]
+  c1   >2 / >20                     上颚发达，头不延长成象鼻 2
+  c2   >3 / >14                     上颚对称，顶端内弯，用于咬钳 3
+  c3   L:锯白蚁属|icrocerotermes / >4   上颚内缘各有1列颗粒状小锯齿 锯白蚁属Microcerotermes
+  c4   >5 / >9                      左右上颚内缘中部各有1缘齿 5
+  c5   L:球白蚁属|lobitermes / >6       头圆形，上颚长钩状 球白蚁属Globitermes
+  c6   >7 / >8                      头下口式，跗节3节 7
+  c7   L:印白蚁属|ndotermes             头侧观最高点位于中部，后颏腰甚狭 华白蚁属Sinoternes① 头侧观最高点位于后
+  c8   L:亮白蚁嵩|nhamitermes / L:稀白蚁属|peculitermes 上颚中部具小的点齿 亮白蚁嵩Enhamitermes
+  c9   >10 / >11                    兵蚁二型或三型 10
+  c10  L:钩白蚁属|ncistrotermes / L:大白蚁属|acrotermes 兵蚁仅二型，体中型，头卵圆形，两上颚近中部各具1小齿粒，上唇端不透明 钩白蚁属Anc
+  c11  >12 / L:小白蚁属|icrotermes      左上颚中部前、后具缘齿 12
+  c12  L:土白蚊属|doztotermes / >13     左上颚中部前、后具1枚缘齿 土白蚊属Odoztotermes
+  c13  L:地白蚁属|ypotermes / L:壤白蚁腐|arahypotermes 左上颚中部以下具数枚缘齿 地白蚁属Hypotermes
+  c14  >15 / >17                    头具前凸 15
+  c15  L:白蚁属|ermes / >16            上颚轻微不对称，细长，似钩杆下弯 白蚁属Termes
+  c16  L:突歪白蚁属|icuspiditermes / L:瘤白蚁属|irocopritermes 上唇前缘深凹，侧角延伸成针状，头部具前侧角突起 突歪白蚁属Dicuspiditerm
+  c17  >18 / >19                    胫距排列2:2:2 18
+  c18  L:马扭白蚁属|alaysiotermes / L:华扭白蚁属|inocupritermes 上颚较直，顶端微弯，左右上颚极为相似 马扭白蚁属Malaysiotermes
+  c19  L:近扭白蚁属|ericapritermes / L:钩扭白蚊属|seudocapritermes 左上颚顶端宽钝，右侧斜切不凹 近扭白蚁属Pericapritermes
+  c20  >21 / >25                    触角窝后明显收缩 21
+  c21  >22 / >23                    上颚具明显的尖刺 22
+  c22  L:须白蚁属|ospitalitermes / L:近瓢白蚁属|eribulbitermes 头部后缘延长，触角和足很长 须白蚁属Hospitalitermes
+  c23  L:葫白蚁属|acurbitermes / >24    头不连象鼻，象鼻瘦长，头后缘几平直 葫白蚁属Cacurbitermes
+  c24  L:弧白蚁属|rcotermes / L:钝颚白蚁属|hmaditermes 头后缘弧形圆出 弧白蚁属Arcotermes
+  c25  >26 / >27                    兵蚁单态 26
+  c26  L:近针白蚁属|eriaciculitermes / L:象白蚁属|astutitermes 头梨形，长短毛较多(工蚁端齿明显大于第1缘齿) 近针白蚁属Periaciculite
+  c27  >28 / >30                    大兵蚁上颚具端刺或锐齿 28
+  c28  L:歧颚白蚊属|avilanditermes / >29 上颗具锐齿，齿顶端有分叉 歧颚白蚊属Havilanditermes
+  c29  L:奇象白蚁属|ironasutitermes / L:华象白蚁属|inonasuatitermes 上颚具长钝齿，触角节较长 奇象白蚁属Mironasutitermes
+  c30  L:夏氏白蚁属|iaitermes / L:棘白蚁属|ilotermes 头部鼻基两侧各具1小突起，后缘中央微凹人 夏氏白蚁属Xiaitermes
+  ## caste 有翅成虫
+  c1   >2 / >12                     右上颚第2缘齿后切边平直 2
+  c2   >3 / >5                      触角19节 3
+  c3   L:地白蚁属|ypotermes / >4        囟平，不突起，开口，左上颚后缘齿与颚齿板之间具浅凹切 地白蚁属Hypotermes
+  c4   L:土白蚁属|dontotermes / L:大白蚁属|acrotermes 前翅中脉自肘脉基部分出，触角第3节短于第2节 土白蚁属Odontotermes
+  c5   L:小白蚁属|icrotermes / >6       触角17—18节，后唇基比头色淡 小白蚁属Microtermes
+  c6   >7 / >8                      胫距排列3:2:2 7
+  c7   L:锯白蚁属|ierocerotermes / L:球白蚁属|lobitermes 复眼前方两侧边平行，囟不显，触角14节 锯白蚁属Mierocerotermes
+  c8   L:须白蚊属|ospitalitermes / >9   端齿退化，触角节很长，第3触角节长为第2节2倍 须白蚊属Hospitaliterme
+  c9   >10 / >11                    囱放射状，大小同单眼，前端分叉 10
+  c10  L:华象白蚁属|inonasutitermes / L:歧颚白蚁属|avilanditermes 上颚端齿大于第1缘齿 华象白蚁属Sinonasutitermes
+  c11  L:象白蚁属|asutitermes / L:钝频白蚁属|hmaditermes 上颚缘齿切边平直 象白蚁属Nasutitermes
+  c12  >13 / >15                    上颚端齿比第1缘齿长很多 13
+  c13  L:钩歪白蚊属|seudocapriternes / >14 左上颚第1缘齿后切边几平直，第2缘齿小而圆 钩歪白蚊属Pseudocapritern
+  c14  L:白蚁属|ernes / L:突歪白蚁属|icuspiditermes 右上颚第2 缘齿缩小，端齿与第1缘齿间交角较宽 白蚁属Ternes
+  c15  L:稀白蚊属|peculitermes / L:亮白蚁属|uhamiternes 跗节3节，囟大，近似单眼 稀白蚊属Speculitermes
+
+===== 地白蚁属分种检索表  [14220-14239]
+  ## caste 兵蚁
+  c1   >3 / >2                      体长(平均)大于4 . 00mm 3
+  c2   L:梅子地白蚊|ypotermesmeiziensis / L:畹町地白蚁|wandingensis 体长3.78mm头最宽大于1.00(1.02)mm,头长连上颚1.71mm,头长至颚
+  c3   >4 / L:孟定地白蛇|mengdingensis   头长至频基(平均)大于1 . 25mm 4
+  c4   L:瓦窑地白蚁|wayaoensis / >2      头长连上颚最大值(平均)大于2.00(2.05)mm,头长至颚基1.44mm,头最宽
+
+===== 77□□壤白蚊属分种检索表 兵    蚁  [14416-14427]
+  c1   >2 / >3                      体长大于4.00mm 2
+  c2   L:暗齿壤白蚁|suomatrensis         体长4.42—5.05(4.63) mm, 头长至颚基1.23—1.26(1.25)
+  c3   L:盈江填白蚊|yingjiangersis / L:瑞丽壤白蚁|nuiliensis 体长3.66—4.36(4.05)mm, 头长至颚基1.10—1.26(1.18) 
+
+===== 大白蚁属分种检索表  [14539-14614]
+  ## caste 大兵蚁
+  c1   >2 / >4                      兵蚁有明显的三态 2
+  c2   L:箕头大白蚁|declivatus / >3      体型较大(头长不连上颚大于4.50mm),头呈箕形 箕头大白蚁M. declivat
+  c3   L:近三型大白蚁|peritrimorphus / L:三型大白蚁|trimorphus 头较短，头长不连上颚为3.79mm,中部较宽，胸背板较窄 近三型大白蚁M.perit
+  c4   >5 / >10                     头最宽在3 . 56mm以上 5
+  c5   L:云南大白蚁|yuzranensis / >6     个体特别大，头宽4.65—4.69mm,头长不连上颚5.50—5.60mm 云南大白
+  c6   L:宽胸大白蚁|latinotus / >7       中胸背板最宽(2.86mm),宽于后胸(2.64mm)和前胸(2.57mm) 宽胸大
+  c7   L:|ongimentis / >8           后频较长，3.42—3.76mm 长颏大白蚁M. Longimentis
+  c8   L:广西大白蚊|guangxiensis / >9    后颏腰部最狭处明显地宽于前缘 广西大白蚊M.guangxiensis
+  c9   L:土垅大白蚁|anadalei / L:周氏大白蚊|choui 上颚端强弯，后颏宽大于0.98mm,前胸背板略狭于中胸和后胸 土垅大白蚁M . an
+  c10  >11 / >16                    头前狭后宽，背面观形似等腰梯形 11
+  c11  >12 / >14                    头较长，头长不连上颚在3.80mm以上 12
+  c12  L:浙江大白蚁|zhejiangensis / >13  头宽较宽，大于3.10mm,中、后胸背板较宽，分别大于1.80mm和1.97mm 浙
+  c13  L:|ongiceps / L:车八岭大白蚁|chebalingensis 左上颚内缘中段有锯齿 长头大白蚁M.Eongiceps
+  c14  L:勐龙大白蚊|menglongensis / >15  眼点不清楚 勐龙大白蚊M.menglongensis
+  c15  L:梯头大白蚊|trapezoides / L:梅多大白蚁|meidoersis 体较大，头长不连上颚大于3.30mm,头宽大于2.64mm,前胸宽大于1.76mm 
+  c16  >17 / >18                    头在触角后至后端宽度几相等，似长方形 17
+  c17  L:细齿大白蚁|denticulatus / L:平头大白蚁|planicepitatus 头部两侧有些波状，左上颚内缘中段有明显的细小锯齿 细齿大白蚁M.denticulat
+  c18  L:海南大白蚁|hainanensis / >19    个体特小，头宽2.30—2.50mm,头长不连上颚2.73—3. 18mm 海南大白
+  c19  >20 / >21                    后须腰部收缩明显 20
+  c20  L:缢颏大白蚁|constrictus / L:景洪大白蚊|jinghongensis 左上颚中段有细齿，较大，头宽3.07—3.23mm,头长不连上颚3.90—4.08m
+  c21  L:直频大白蚁|orthognathus / >22   上颚弯曲度较小，胸部背板的角叶不明显 直频大白蚁M.orthognathus
+  c22  L:隆头大白蚁|acrocephalus / >23   头顶明显拱起 隆头大白蚁M.acrocephalus
+  c23  L:凹缘大白蚁|incisus / >24        头后缘中央具明显的凹缢 凹缘大白蚁M . incis us
+  c24  L:|uokengensis / L:黄翅大白蚁|barneyi 头较长，头长不连上颚3.90—4.40mm,后颏较宽0.54—0.61mm,头宽2.
+  ## caste 有翅成虫
+  c1   >2 / >4                      体大型，头宽连眼2.64mm以上 2
+  c2   L:广西大白蚁|guangriensis / >3    前胸背板稍狭，宽度2.35—2.45mm 广西大白蚁M.guangriensis
+  c3   L:土城大白蚁|annadalei / L:长颏大白蚁|longimenris 单眼明显隆起，单复眼间距0.20mm,头宽连眼2.69—2.77mm,前胸背板宽2.
+  c4   L:浙江大白蚁|zhejiangersis / >5   前胸背板后缘中央近平直 浙江大白蚁M,zhejiangersis
+  c5   L:黄翅大白蚊|barneyi / L:|uokengensis 体色较浅，前翅中脉近后端才有分支 黄翅大白蚊M . barney i
+
+===== 亮白蚁属分种检索表  [15834-15871]
+  ## caste 兵蚁
+  c1   >2 / >5                      上唇端半圆形 2
+  c2   >3 / >4                      头壳两侧近平行或中段稍宽 3
+  c3   L:方头亮白蚁|quadratceps / L:双齿亮白蚁|bidentatus 头壳两侧平行，上颚基具1微齿 方头亮白蚁E.quadratceps
+  c4   L:云南亮白蚁|yurznanensis / L:尤氏亮白蚁|yui 头壳长1.68—1.80 mm,头阔指数0.74—0.77 mm 云南亮白蚁E.yu
+  c5   >6 / >10                     上唇端凹人明显 6
+  c6   >7 / >9                      头壳最宽处位于前段 7
+  c7   >8 / L:凹唇亮白蚊|retusus         头最宽1.28 — 1.38mm 8
+  c8   L:浙江亮白蚁|zhejiarerzsis / L:贵州亮白蚁|guizhouensis 后颏宽0.48—0.50mm,位于前段-处 浙江亮白蚁E.zhejiarerzsis
+  c9   L:孟定亮白蚁|mengdingersis / L:匙颏亮白蚁|cortcavigulus 左上颚长0.77—-0.81mm,约为头壳长的0.46—0.47mm 孟定亮白蚁E.
+  c10  >11 / >12                    头壳近方形，头阔指数0.81—0.88mm 11
+  c11  L:小头亮白蚁|microcephalus / L:大围山亮白蚁|daweishanensis 头最宽1 . 031 . 12 mn 小头亮白蚁E.microcephalus
+  c12  L:黑头亮白蚁|melanocephalus / L:云台山亮白蚁|yantaishanensis 头壳深褐色近黑 黑头亮白蚁E.melanocephalus
+  ## caste 成虫
+  c1   >2 / >3                      前胸背板宽小于1.04 mm 2
+  c2   L:小头亮白蚊|microcephalus / L:方头亮白蚊|quadratceps 囟前具淡色圆斑。复眼长径约为其至头下缘间距的56倍 小头亮白蚊E.microceph
+  c3   >4 / L:尤氏亮白蚁|yui             前胸背板宽小于1. 17mm 4
+  c4   L:云南亮白蚁|yunnanensis / L:大围山亮白蚁|daweishanensis 前胸背板后缘近平直。复眼长径约为其至头下缘间距的4—5倍 云南亮白蚁E.yunnan
+
+===== 印白蚁属分种检索表 兵   蚁  [16421-16428]
+  c1   L:等齿印白蚁|isodentatus / L:勐戛印白蚁|menggarensis 体较大型，头长连上颚3.57—3.87 mm, 头长至颚基2.50—2.79 mm,
+
+===== 华白蚁羁分种检索表  [16534-16545]
+  ## caste 兵蚁
+  c1   L:海南华白蚁|hainanensis / >2     体稍小，头长(至颚基)2.0—2.38 mm, 头宽1.92—2.18mm, 后颏长
+  c2   L:潞西华白蚁|uxiensis / L:云南华白蚁|yunnanensis 上颚长1.18—1.25 mm, 其长不及头长之半，前胸背板长0.71—0.82 m
+
+===== 球白蚊属分种检索表  [16647-16665]
+  ## caste 兵蚁
+  c1   >2 / L:小球白蚁|lobitermesminor  头宽大于1.00 mm 2
+  c2   >3 / L:动腊球白蚊|menglaensis     头长至颚基大于1.00 mm 3
+  c3   >4 / L:勐棒球白蚊|mengpengensis   前胸背板宽于0.80 mm 4
+  c4   L:短角球白蚊|brachycerastes       头宽1.11—1.21 mm头长至上颚端1.82—2.00mm 头长至颚基1.22—
+
+===== 小白蚁属分种检索表  [16855-16877]
+  ## caste 兵蚁
+  c1   >2 / L:曼庄小白蚁|manzhuangensis  头最宽大于0.85 mm 2
+  c2   L:勐棒小白蚁|mergpengezsis / >7   体小型，头顶中部微凹人，右上颚内缘基部呈2个波状突起 … … 勐仑小白蚁 M,men
+
+===== 钩白蚁属分种检索表  [16956-16970]
+  ## caste 大兵蚁
+  c1   >2 / >3                      头最宽大于1.10 mm 2
+  c2   L:河口钩白蚁|hekouensis / L:孟连钩白蚁|menglianensis 头圆形，前额不凹入 河口钩白蚁A.hekouensis
+  c3   >4 / >5                      头长连上颚大于1.70 mm 4
+  c4   L:夏氏钩白蚁|xiai / L:厚头钩白蚁|crassiceps 头倒卵圆形，头中部至后颏不厚 夏氏钩白蚁A . xi ai
+  c5   L:小头钩白蚁|dimorphus / L:橄榄坝钩白蚁|ganlanbaensis 头顶中部呈弧状隆起 小头钩白蚁A.dimorphus
+
+===== 瘤白蚊属分种检索表 兵    蚁  [17257-17261]
+  c1   L:云南瘤白蚁|hsuchiafui / L:江城瘤白蚁|jiangchengensis 上唇前缘浅凹，后足胫节长0.74 mm 云南瘤白蚁 M.hsuchiafui
+
+===== 马扭白蚁属分种检索表 兵    蚁  [17322-17356]
+  c1   L:华南马扭白蚁|huandnensis / OPEN  上颚较细长，长为1.54—1.70mm, 后颏腰较粗，腰宽0.25—0.31mm 头
+
+===== 华扭白蚁属分种检索表  [17490-17524]
+  ## caste 兵蚁
+  c1   >2 / >8                      后须短，其长一般为最窄的4倍，最宽一般大于最窄的2倍 2
+  c2   >3 / >5                      前胸背板前缘中央有凹口 3
+  c3   L:小华扭白蚁|parvulus / >4        头宽小于0.90 mm 小华扭白蚁S. parvu lus
+  c4   L:天目华扭白蚁|tianmuensis / L:闽华扭自蚁|fujianensis 前 胸 背 板 后 缘 中 央 有 凹 口 ， 触 角 第 3 节 大 于 第 2 
+  c5   L:台湾华扭白蚁|mushae / >6         额微隆，额前部坡短，触角第2、3节等长，第4节短，体为黄色 台湾华扭白蚁S. mus
+  c6   L:白翅华扭白蚊|albipannis / >7     头宽大于1.50 mm 白翅华扭白蚊S.albipannis
+  c7   L:填华扭白蚊|yunnanensis / L:华扭白蚁|sinensis 头后缘中央凹入，头宽1.07—1. 15mm 填华扭白蚊S.yunnanensis
+  c8   >9 / >10                     前胸背板前缘中央无凹口 9
+  c9   L:平额华扭白蚊|planifrons / L:松桃华扭白蚊|songtaoensis 头额面平坦，前部两侧稍狭，后颏长1.07—1. 15mm 平额华扭白蚊S.plani
+  c10  >11 / >13                    前胸背板后缘中央有凹口，上颚长小于头长至颚基 11
+  c11  L:川华扭白蚁|vicinus / >12        头宽1.23—1.34 mm 川华扭白蚁S.vici nus
+  c12  L:秀山华扭白蚁|xiushanensis / L:大华扭白蚊|magnus 头两侧较平行，后缘中部不凹入，额区坡面呈弧状 秀山华扭白蚁S.xiushanensi
+  c13  L:中国华扭白蚁|sinicus / L:桂华扭白蚊|guangxiensis 头宽1.21—1.29 mm,后颏长0.86—0.97 mm,额区坡面呈弧状 中国华
+
+===== 近扭白蚁属分种检索表  [17955-18004]
+  ## caste 兵蚁
+  c1   >2 / >7                      左上颚前部端区呈角状，端部弯向外侧，顶端钝，内切缘斜向前方2
+  c2   >3 / >5                      体形较小，上颚长1.38—1.67 mm其长接近头宽3
+  c3   L:扬子江近扭白蚊|jangtsekingensis / >4 体小型，头宽1.20—1.29 mm, 上颚长1.38—1.50 mm 扬子江近扭白
+  c4   L:古田近扭白蚊|gutianensis / L:平扁近扭白蚁|planiusclus 前胸背板前缘中央无凹刻，后足胫节长1.20—1.21 mm 古田近扭白蚊 P. gu
+  c5   L:大近扭白蚁|tetraphilus / >6     腹部背板刚毛稀布，头形稍狭长 大近扭白蚁 P.tetraphilus
+  c6   L:背崩近扭白蚁|beibengensis / L:多毛近扭白蚁|latignathus 头长至颚基2.46-2.66 mm, 头宽1.47 —1.51mm, 后颏较短宽 背
+  c7   >8 / >9                      后颏最大宽不及最小宽的两倍 8
+  c8   L:三宝近扭白蚁|semarangi / L:近扭白蚁|nitobei 前胸背板前缘中央凹人，额部较隆起，上颚长1.11—1.18 mm 三宝近扭白蚁P.s
+  c9   L:五指山近扭白蚊|wuzhishanensis / L:合潇近扭白蚁|hepuensis 头长至颚基1 .95 — 2 .09mn,较短不及宽的两倍 五指山近扭白蚊P.wuz
+  ## caste 有翅成虫
+  c1   >2 / >4                      体大型，头宽1.21—1.55 mm,后唇基具纵线，前胸背板前缘中央微突出 2
+  c2   L:大近扭白蚁|tetraplilus / >3     头宽1.29—1.50 mm,前胸背板宽1.13—1.17 mm 大近扭白蚁P,te
+  c3   L:古田近扭白蚁|gutianensis / L:扬子江近扭白蚁|jangtsekingensis 体和翅呈黑褐色 古田近扭白蚁P.gutianensis
+  c4   >5 / >6                      前胸背板较宽，宽为0.8—1.0mm 5
+  c5   L:灰胫近扭白蚁|fuscotibialis / L:五指山近扭白蚁|wuzhishanensis 后唇基褐色，囟略隆起 灰胫近扭白蚁P.fuscotibialis
+  c6   L:近扭白蚊|nitobei / OPEN        单眼短径一般小于单复眼间距 近扭白蚊P. nitobei
+
+===== 钩扭白蚊属分种检索表  [18350-18379]
+  ## caste 兵蚁
+  c1   >2 / >5                      上唇前部两侧较尖角状突出，中央凹缘深呈U或V形 2
+  c2   >3 / >4                      头部两侧平行，体型显著较小，头宽0.81—0.86mm,前胸背板最大宽0.6mm以下
+  c3   L:隆额钩扭白蚁|pseudolaetus / L:小钩扭白蚁|minutus 头部侧观，额区明显隆起，背中部前微凹陷，后部弧，上唇前缘凹口稍浅，前胸背板宽为0.5
+  c4   L:中华钩扭白蚁|sinensis / L:圆钩扭白蚁|sowerbyi 前胸背板前后缘中央均略凹人，头部较狭长，宽为1.33—1.38mm,长至颚基2.29
+  c5   L:大钩扭白蚁|largus / >6          头后缘中央不凹入，体型较大，后颏最大宽小于最小宽2倍 大钩扭白蚁P. largus
+  c6   L:平频钩扭白蚁|planimentus / OPEN  头部明显宽短，宽为1.42—1.45mm,长至颚基2.10—2.26mm,上颚长2.
+
+===== 须白蚊属分种检索表 兵   蚁  [18615-18625]
+  c1   L:大须白蚁|majusculus / >2       头宽大于1.30(1.32—1.44) mm, 头长连象鼻1.92—2.04mm,头
+  c2   >3 / OPEN                    前胸背板宽大于0.65mm 3
+  c62  L:|uzomensis                 mm, 头长连象鼻1.61—1.76mm, 头长不连鼻1.20—1.25mm,头 宽
+  c3   L:大勐龙须白蚁|damenglongensis     头长连象鼻最大值大于1.90(1.75—1.92)mm, 头长不连鼻1.25—1.3
+
+===== 葫白蚁属分种检索表  [18770-18779]
+  ## caste 兵蚁
+  c1   L:英德葫白蚁|yingdeensis          兵蚁单态，头长连象鼻1.81—1.98(1.89) mm, 头长不连鼻1.08—1.
+  c2   L:中华葫白蚁|sinensis             大、小兵蚁二态，大兵蚁头长连象鼻2.23—2.35(2,30)rmm,头长不连鼻1.
+
+===== 歧颚白蚊属分种检索表 大  兵  蚁  [18867-18879]
+  c1   L:普通歧颚白蚁|conmunis            头长连象鼻2.36—2.50(2.42)mm, 头长不连鼻1.27 —1.36(1.
+  c2   L:直鼻歧颚白蚁|orthonasus / OPEN   头长连象鼻2 . 19—2.33 mm, 头长不连鼻1. 17 — 1.22mm, 
+
+===== 近瓢白蚊属分种检索表  [18976-18984]
+  ## caste 兵蚁
+  c1   >2 / L:黄色近瓢白蚁|parafulvus     头最宽大于0.90mm … … 2
+  c2   L:鼎湖近瓢白蚊|dinghuersis         前胸背板宽大于0.50mm,0.50—0.53(0.51) mm, 头长连象鼻1.8
+
+===== 夏氏白蚁属分种检索表  [19120-19125]
+  ## caste 兵蚁
+  c1   L:藓县夏氏白蚁|yinxianensis        兵蚁大小二型，大兵蚁头长连象鼻1 .96—2.10(2.03)mm, 头长不连鼻1.
+  c2   L:天台夏氏白蚁|tiantaiensis        兵蚁单型，头长连象鼻1.72—1.90(1.80) mm, 头长不连鼻0.94—1.
+
+===== 象白蚊属分种检索表  [19197-19289]
+  ## caste 兵蚁
+  c1   L:高山象白蚊|takasagoensis / >2   大型种，头宽1.31—1.38mm,头长连鼻1.98—2.09mm,头长不连鼻1.2
+  c2   >3 / >5                      头长至颚基显著大于头宽 3
+  c3   L:栗色象白蚊|fulvus / >4          触角14节，第2节较短 栗色象白蚊N . fu lv us
+  c4   L:卵头象白蚊|ovtus / L:封开象白蚁|fengkaiensis 头长连象鼻1.42—1.58mm 卵头象白蚊N . ov tus
+  c5   >6 / >12                     上颚具明显长尖刺 6
+  c6   >7 / >8                      触角12节 7
+  c7   L:墨脱象白蚁|medoensis / L:山地象白蚊|garoensis 前胸背板宽0.46—0.54mm 墨脱象白蚁N.medoensis
+  c8   L:版纳象白蚁|bannaensis / >9      触角14节，后足胫节长1.36—1.45mm 版纳象白蚁N. bannaensis
+  c9   >10 / >11                    侧观象鼻与头背缘几平直 10
+  c10  L:亚胫象白蚁|subtibialis / L:印度象白蚁|moratus 象鼻较粗，头宽1.03—1.09mm,头长不连象鼻1.71—1.78mm;工蚁二型 
+  c11  L:亚藏象白蚁|subtibetanus / L:西藏象白蚁|tibetanus 头较宽，1.07—1.25mm,前胸背板宽0.54—0.61mm,后胫长1.07—1
+  c12  >13 / >14                    兵蚁二型 13
+  c13  L:山谷象白蚁|walis / L:钝颚象白蚁|obtusimandibulus 大兵头宽0.85—0.93mm 山谷象白蚁N. wal is
+  c14  >15 / >19                    头后缘微凹人 15
+  c15  L:胖头象白蚁|bulbus / >16         头宽1. 18—1.29mm 胖头象白蚁N. bulb us
+  c16  L:合江象白蚁|hejiangensis / >17   头长连象鼻1.82—1.96mm 合江象白蚁N.hejiangensis
+  c17  L:倾鼻象白蚁|inelinasus / >18     头宽0.97 — 1. 12mm 倾鼻象白蚁N. inelinasus
+  c18  L:中华象白蚊|sinensis / L:天童象白蚁|tiantongezsis 侧观头后部显著隆起 中华象白蚊N.sinensis
+  c19  L:座鼻象白蚁|falciformis / >20    鼻基微隆，鼻端下倾，侧观鼻呈鹰嘴状 座鼻象白蚁N.falciformis
+  c20  L:周氏象白蚊|choui / >21          鼻基宽为鼻中段2倍 周氏象白蚊N. chou i
+  c21  L:平圆象白蚁|planiusculus / >22   头后缘平直 平圆象白蚁N.planiusculus
+  c22  >23 / >28                    头长连象鼻小于1.70mm 23
+  c23  L:莽山象白蚁|mangshanersis / >24  触角11 — 12节 莽山象白蚁N.mangshanersis
+  c24  L:圆头象白蚁|comzmunis / >25      上颚缺尖刺 圆头象白蚁N.comzmunis
+  c25  L:奇鼻象白蚊|mirabilis / >26      鼻长0.68—0.76mm 奇鼻象白蚊N . mirabilis
+  c26  L:小象白蚁|parvonasutus / >27    鼻长0.61—0.66mm 小象白蚁N.parvonasutus
+  c27  L:香港象白蚁|dudgeoni / L:短鼻象白蚁|curtinasus 头长连象鼻1.31—1.32mm 香港象白蚁N.dudgeoni
+  c28  >29 / >30                    象鼻粗壮 29
+  c29  L:蔡氏象白蚁|tsaii / L:贵州象白蚁|guizhouensis 触角第3节短于第2节 蔡氏象白蚁N . tsa ii
+  c30  L:尖鼻象白蚁|gardneri / >31       侧观象鼻平直 尖鼻象白蚁N. gardneri
+  c31  L:庆界象白蚁|qingjiensis / >32    后足胫节短，1.00—1. 11mm 庆界象白蚁N.qingjiensis
+  c32  >33 / L:若尖象白蚁|gardneriformis 触角12节 33
+  c33  L:大鼻象白蚊|grandinasus / L:长鼻象白蚁|dolichorhinos 头宽1.02—1. 11mm 大鼻象白蚊N.grandinasus
+  ## caste 有翅成虫
+  c1   >2 / >3                      前胸背板具T形斑 2
+  c2   L:木下象白蚁|kinoshirae / L:小象白蚁|parvonasutus 头长至上唇尖1.20 —1.23mm,头宽连眼1.50 —1.53mm,前胸背板宽1
+  c3   L:印度象白蚁|moratus / >4         头 长 至 上 唇 尖 大 于 1 . 6 0 mm ; 1 . 6 6 mm , 
+  c4   L:高山象白蚁|takasagoensis / L:圆头象白蚁|cammunis 头长至上唇尖1.37 —1.50mm,头宽连眼1.45 —1.60mm,前胸背板宽1
+
+===== 华象白蚁属分种检索表  [20179-20214]
+  ## caste 兵蚁
+  c1   >2 / >4                      兵蚁大、中、小三型 … … …2
+  c2   L:三型华象白蚁|trimorphus / >3     头宽大于1.50mm 三型华象白蚁S.trimorphus
+  c3   L:尤氏华象白蚁|yui / L:奇异华象白蚁|admirabilis 头长连象鼻2.04—2.25mm 尤氏华象白蚁S . yui
+  c4   >5 / >7                      象鼻端高于头顶 5
+  c5   L:广西华象白蚁|guangriensis / >6   头长连象鼻大于2.40mm 广西华象白蚁S.guangriensis
+  c6   L:翘鼻华象白蚁|erectinarnus / L:海南华象白蚁|hainanensis 大兵触角第3节略长于第2节，约1.3倍 翘鼻华象白蚁S.erectinarnus
+  c7   >8 / >9                      头宽大于1 . 38mm 8
+  c8   L:二型华象白蚁|dimorpus / L:扁头华象白蚊|platyvcephalus 前胸背板后缘弧形圆出 二型华象白蚁S . dim or pus
+  c9   L:平鼻华象白蚁|planinasus / >10    头宽小于1 .26 — 1 .29mm 平鼻华象白蚁S.planinasus
+  c10  L:夏氏华象白蚁|riai / OPEN         象鼻长0.89—0.94 mm 夏氏华象白蚁S . ria i
+
+===== 奇象白蚁属分种检索表  [20594-20636]
+  ## caste 大兵蚁
+  c1   >2 / >5                      兵蚁三型 2
+  c2   >3 / >4                      头长连象鼻大于2.05mm 3
+  c3   L:兴山奇象白蚊|ringshanensis / L:异齿奇象白蚁|heterodon 象鼻圆管状，鼻基部凹入，头宽1.56—1.59mm 兴山奇象白蚊M.ringshan
+  c4   L:黄山奇象白蚁|huangshanensis / L:麻城奇象白蚁|machengensis 上颚齿尖较明显，前胸背板宽0.76—0.80mm 黄山奇象白蚁M.huangshan
+  c5   >6 / >7                      触角13—14节 6
+  c6   L:巴山奇象白蚁|bashanersis / L:龙王山奇象白蚁|longwanshanensis 头长不连象鼻0.94—1.06mm,上颚无尖刺 巴山奇象白蚁M. bashaners
+  c7   >8 / >9                      头宽大于1.25mm 8
+  c8   L:祁门奇象白蚁|qimenensis / L:长宁奇象白蚁|changningensis 头长连象鼻2.00—2.04mm,象鼻基部微隆起 祁门奇象白蚁M.qimenensi
+  c9   L:商城奇象白蚁|shangchengensis / OPEN 头宽1 . 14- 1 .21mm,侧观象鼻端部平直 商城奇象白蚁M,shangch
+
+===== 钝颚白蚁属分种检索表 兵    蚁  [20951-21019]
+  c1   >2 / >11                     兵蚁二型 2
+  c2   >3 / >4                      大兵头宽大于1 . 00run 3
+  c3   L:天童钝频白蚁|tiantongensis / L:梨头钝颚白蚁|pyricepłalus 头长连象鼻1.63—1.73(1.69)mm 天童钝频白蚁 A,ti antonge
+  c4   >5 / >6                      头宽0.70—-0.90mm 5
+  c5   L:近丘额钝颚白蚊|perisinuosus / L:蚁|choui 头 后 缘 显 著 凹 人 近丘额钝颚白蚊 A.perisinuosus
+  c6   >7 / >9                      头长连象鼻大于1.60mm 7
+  c7   >8 / L:蚁|lipingensis         前胸背板宽大于0.50mm 8
+  c8   L:凹额钝频白蚁|foveafrons / L:样云钝颚白蚊|riangyunensis 头长连象鼻1.61—1.68(1.64)mm 凹额钝频白蚁A.foveafrons
+  c9   L:粗鼻钝频白蚁|cnassinasus / >10   象鼻粗壮 粗鼻钝频白蚁A.cnassinasus
+  c10  L:中国钝频白蚁|sinensis / L:屏南钝颚白蚊|pingnanensis 大兵头长连象鼻1.54—1.64(1.57)mm 中国钝频白蚁A.sinensis
+  c11  L:渡口钝颚白蚁|dukouensis / >12    头长连象鼻1.65—1.80mm 渡口钝颚白蚁A.dukouensis
+  c12  >13 / >14                    象鼻基部隆起 13
+  c13  L:丘额钝颚白蚊|sinaosus / L:天目钝颐白蚊|tianmuensis 头长连象鼻1.25—1.39mm 丘额钝颚白蚊A.sinaosus
+  c14  L:角头钝颚白蚊|deltocephalus / >15 头后侧缘强烈突出，后胫长1.03—1.08mm 角头钝颚白蚊A.deltocepha
+  c15  L:贵州钝颚白蚁|quizhouensis / OPEN 象鼻短粗，鼻长约0.49mm 贵州钝颚白蚁A.quizhouensis
