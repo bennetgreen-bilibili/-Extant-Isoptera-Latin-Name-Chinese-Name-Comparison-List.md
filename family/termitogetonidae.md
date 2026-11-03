@@ -9,6 +9,8 @@ family_id: termitogetonidae
 last_modified_at: 2026-10-30
 permalink: /family/termitogetonidae/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/termitogetonidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -22,11 +24,28 @@ breadcrumb:
 <h1>寡脉白蚁科 <i>Termitogetonidae</i></h1>
 <p class="taxon-meta">新等翅类 Neoisoptera · 1 属 · 2 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="termitogetonidae,termitogeton" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（2 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/termitogetonidae.jpg" alt="Termitogeton umbilicatus 中凹寡脉白蚁" loading="lazy">
   <figcaption><i>Termitogeton umbilicatus</i> 中凹寡脉白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/254743733">Jonghyun Park</a> · <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="family" id="termitogetonidae" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>科级介绍</h2>
+<p>寡脉白蚁亚科（Termitogetoninae）由 Holmgren 于 1910年建立（1910a:286）(14)，2024 年基因组系统发育研究将其由亚科提升为科（Termitogetonidae）(21)。寡脉白蚁科单型，仅含寡脉白蚁属 Termitogeton Desneux, 1904；科名词根为 Termitogeton，由 termes 与希腊语 geiton（邻居）构成，意为"近于白蚁属者"。本名录收录 1 属 2 种。</p>
+<p>分布上，本科为东洋界小科，分布于东南亚（印度尼西亚、马来西亚）与斯里兰卡，栖于热带雨林内枯死或腐朽木材中。该科无真工蚁，承担劳作的为拟工蚁。兵蚁具额腺，能分泌含单萜等成分的防御与报警物质(29)；各品级性比接近 1:1，唯兵蚁中雌性偏多(30)。发育路线为 2 个幼龄期、4 个拟工蚁龄期(30)、1 个若虫龄期而至成虫；翅芽于 2 龄出现、在后续蜕皮中退化、至若虫期重新出现，成熟群落仅约千头个体。全品级体躯背腹扁平，是对树皮下栖境的适应；有翅蚁头近三角形、复眼小而单眼存在，触角 15 节，全身密被毛，前胸背板窄于头、前缘中央呈叶状突出，翅面密被细毛，前翅鳞不覆盖后翅鳞；拟工蚁左上颚具端齿与 3 枚缘齿，第二缘齿长于端齿及第一缘齿，各足胫节端距式 2:2:2；兵蚁头呈三角形、后缘强波曲并中央突出，上颚细长、无缘齿（仅基部具细齿列），触角 13–15 节，后足基节膨大。</p>
+<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#termitogetonidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+</section>
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/termitogeton/"><i>Termitogeton</i> 寡脉白蚁属</a> <span class="taxon-count">2 种</span></li></ul>
 </section>

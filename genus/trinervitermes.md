@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/trinervitermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>三脉白蚁属 <i>Trinervitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 21 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="trinervitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（21 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="trinervitermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>，本站收录 21 种。</p>
+<p>模式种：<i>Trinervitermes trinervius</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（21 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/trinervitermes-arabiae/"><i>Trinervitermes arabiae</i> Harris, 1957 阿拉伯三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-bettonianus/"><i>Trinervitermes bettonianus</i> Sjöstedt, 1905 贝顿三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-biformis/"><i>Trinervitermes biformis</i> Wasmann, 1902 二型三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-dispar/"><i>Trinervitermes dispar</i> Sjöstedt, 1902 不同三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-disparatus/"><i>Trinervitermes disparatus</i> Bathellier, 1927 分离三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-fletcheri/"><i>Trinervitermes fletcheri</i> Chatterjee & Thakur, 1965 弗莱彻三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-geminatus/"><i>Trinervitermes geminatus</i> Wasmann, 1897 成对三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-gratiosus/"><i>Trinervitermes gratiosus</i> Sjöstedt, 1924 常见三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-indicus/"><i>Trinervitermes indicus</i> Snyder, 1934 印度三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-nigrirostris/"><i>Trinervitermes nigrirostris</i> Mathur & Sen-Sarma, 1959 黑鼻三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-occidentalis/"><i>Trinervitermes occidentalis</i> Sjöstedt, 1904 西部三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-oeconomus/"><i>Trinervitermes oeconomus</i> Trägårdh, 1904 根三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-rabidus/"><i>Trinervitermes rabidus</i> Hagen, 1859 狂猛三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-rapulum/"><i>Trinervitermes rapulum</i> Sjöstedt, 1904 蔓菁三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-rhodesiensis/"><i>Trinervitermes rhodesiensis</i> Sjöstedt, 1911 罗得西亚三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-saudiensis/"><i>Trinervitermes saudiensis</i> Sands, 1965 沙特三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-sensarmai/"><i>Trinervitermes sensarmai</i> Bose, 1984 森萨尔马三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-sudanicus/"><i>Trinervitermes sudanicus</i> Sjöstedt, 1904 苏丹三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-togoensis/"><i>Trinervitermes togoensis</i> Sjöstedt, 1899 多哥兰三脉白蚁</a></li><li><a href="{{ site.base_url }}/species/trinervitermes-trinervius/"><i>Trinervitermes trinervius</i> Rambur, 1842 三脉三脉白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/trinervitermes-trinervoides/"><i>Trinervitermes trinervoides</i> Sjöstedt, 1911 似三脉三脉白蚁</a></li></ul>
 </section>

@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/promirotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>前奇白蚁属 <i>Promirotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 10 种、2 亚种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="promirotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（12 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="promirotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/promirotermitinae/">前奇白蚁亚科 <i>Promirotermitinae</i></a>，本站收录 10 种、2 亚种。</p>
+<p>模式种：<i>Promirotermes holmgreni</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（10 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/promirotermes-bechuana/"><i>Promirotermes bechuana</i> Fuller, 1922 贝专纳前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-bellicosi/"><i>Promirotermes bellicosi</i> Wasmann, 1912 勇猛前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-dumisae/"><i>Promirotermes dumisae</i> Fuller, 1925 杜米萨前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-gracilipes/"><i>Promirotermes gracilipes</i> Schmitz, 1917 细足前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-holmgreni/"><i>Promirotermes holmgreni</i> Silvestri, 1912 霍姆格伦前奇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/promirotermes-massaicus/"><i>Promirotermes massaicus</i> Sjöstedt, 1907 马萨前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-orthoceps/"><i>Promirotermes orthoceps</i> Emerson, 1928 直头前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-pygmaeus/"><i>Promirotermes pygmaeus</i> Harris, 1963 短小前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-redundans/"><i>Promirotermes redundans</i> Silvestri, 1914 常见前奇白蚁</a></li><li><a href="{{ site.base_url }}/species/promirotermes-rotundifrons/"><i>Promirotermes rotundifrons</i> Silvestri, 1908 圆额前奇白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/promirotermes-holmgreni-holmgreni/"><i>Promirotermes holmgreni holmgreni</i> Silvestri, 1912 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/promirotermes-holmgreni-infera/"><i>Promirotermes holmgreni infera</i> Silvestri, 1914 下亚种</a></li></ul>
 </section>

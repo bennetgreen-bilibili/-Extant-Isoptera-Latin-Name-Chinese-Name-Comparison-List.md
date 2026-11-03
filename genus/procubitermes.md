@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/procubitermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>原方白蚁属 <i>Procubitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 9 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="procubitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（9 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="procubitermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>，本站收录 9 种。</p>
+<p>模式种：<i>Procubitermes arboricola</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/procubitermes-aburiensis/"><i>Procubitermes aburiensis</i> Sjöstedt, 1926 阿布里原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-arboricola/"><i>Procubitermes arboricola</i> Sjöstedt, 1897 树栖原方白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/procubitermes-curvatus/"><i>Procubitermes curvatus</i> Silvestri, 1914 弯曲原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-niapuensis/"><i>Procubitermes niapuensis</i> Emerson, 1928 尼亚普原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-sinuosus/"><i>Procubitermes sinuosus</i> Silvestri, 1914 扭曲原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-sjostedti/"><i>Procubitermes sjostedti</i> Rosen, 1912 舍斯泰特原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-ueleensis/"><i>Procubitermes ueleensis</i> Sjöstedt, 1924 韦莱原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-undulans/"><i>Procubitermes undulans</i> Schmitz, 1917 波纹原方白蚁</a></li><li><a href="{{ site.base_url }}/species/procubitermes-wasmanni/"><i>Procubitermes wasmanni</i> Emerson, 1928 沃斯曼原方白蚁</a></li></ul>
 </section>

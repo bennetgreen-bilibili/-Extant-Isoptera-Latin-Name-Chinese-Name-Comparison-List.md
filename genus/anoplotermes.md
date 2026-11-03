@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/anoplotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>解甲白蚁属 <i>Anoplotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 23 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="anoplotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（23 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="anoplotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/apicotermitinae/">尖白蚁亚科 <i>Apicotermitinae</i></a>，本站收录 23 种。</p>
+<p>模式种：<i>Anoplotermes pacificus</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（23 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/anoplotermes-ater/"><i>Anoplotermes ater</i> Hagen, 1858 暗黑解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-bahamensis/"><i>Anoplotermes bahamensis</i> Scheffrahn & Krecek, 2006 巴哈马解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-banksi/"><i>Anoplotermes banksi</i> Emerson, 1925 班克斯解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-bolivianus/"><i>Anoplotermes bolivianus</i> Snyder, 1926 玻利维亚解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-brucei/"><i>Anoplotermes brucei</i> Snyder, 1955 布鲁斯解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-distans/"><i>Anoplotermes distans</i> Snyder, 1926 遥远解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-fumosus/"><i>Anoplotermes fumosus</i> Hagen, 1860 烟色解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-gracilis/"><i>Anoplotermes gracilis</i> Snyder, 1922 细瘦解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-grandifrons/"><i>Anoplotermes grandifrons</i> Snyder, 1926 大囟解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-hondurensis/"><i>Anoplotermes hondurensis</i> Snyder, 1924 洪都拉斯解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-howardi/"><i>Anoplotermes howardi</i> Snyder, 1926 霍华德解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-inopinatus/"><i>Anoplotermes inopinatus</i> Scheffrahn & Krecek, 2006 意外解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-janus/"><i>Anoplotermes janus</i> Bourguignon & Roisin, 2010 门神解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-meridianus/"><i>Anoplotermes meridianus</i> Emerson, 1925 南方解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-pacificus/"><i>Anoplotermes pacificus</i> Müller, 1873 太平洋解甲白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/anoplotermes-parvus/"><i>Anoplotermes parvus</i> Snyder, 1923 小解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-punctatus/"><i>Anoplotermes punctatus</i> Snyder, 1926 具点解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-pyriformis/"><i>Anoplotermes pyriformis</i> Snyder, 1934 梨形解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-rotundus/"><i>Anoplotermes rotundus</i> Snyder, 1926 球形解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-schwarzi/"><i>Anoplotermes schwarzi</i> Banks, 1919 施瓦茨解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-subterraneus/"><i>Anoplotermes subterraneus</i> Emerson, 1925 地下解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-susanae/"><i>Anoplotermes susanae</i> Scheffrahn, Carrijo & Castro, 2023 苏珊解甲白蚁</a></li><li><a href="{{ site.base_url }}/species/anoplotermes-tenebrosus/"><i>Anoplotermes tenebrosus</i> Hagen, 1858 黑暗解甲白蚁</a></li></ul>
 </section>

@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/cubitermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>方白蚁属 <i>Cubitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 11 种、2 亚种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="cubitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（13 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="cubitermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>，本站收录 11 种、2 亚种。</p>
+<p>模式种：<i>Cubitermes bilobatus</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（11 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cubitermes-atrox/"><i>Cubitermes atrox</i> Smeathman, 1781 凶猛方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-bilobatus/"><i>Cubitermes bilobatus</i> Haviland, 1898 双裂方白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/cubitermes-caesareus/"><i>Cubitermes caesareus</i> Sjöstedt, 1911 凯撒方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-conjenii/"><i>Cubitermes conjenii</i> Fuller, 1925 康杰尼方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-exiguus/"><i>Cubitermes exiguus</i> Mathot, 1964 短小方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-pretorianus/"><i>Cubitermes pretorianus</i> Silvestri, 1914 比勒陀利亚方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-sanctaeluciae/"><i>Cubitermes sanctaeluciae</i> Fuller, 1925 圣卢西亚方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-tenuiceps/"><i>Cubitermes tenuiceps</i> Sjöstedt, 1913 细头方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-transvaalensis/"><i>Cubitermes transvaalensis</i> Fuller, 1925 德兰士瓦方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-zulucola/"><i>Cubitermes zulucola</i> Sjöstedt, 1924 祖鲁兰方白蚁</a></li><li><a href="{{ site.base_url }}/species/cubitermes-zuluensis/"><i>Cubitermes zuluensis</i> Holmgren, 1913 祖鲁方白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/cubitermes-pretorianus-heidelbergi/"><i>Cubitermes pretorianus heidelbergi</i> Fuller, 1925 海德堡亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/cubitermes-pretorianus-pretorianus/"><i>Cubitermes pretorianus pretorianus</i> Silvestri, 1914 指名亚种</a></li></ul>
 </section>

@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/ancistrotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>钩白蚁属 <i>Ancistrotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 16 种、2 亚种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="ancistrotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（18 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="ancistrotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/macrotermitinae/">大白蚁亚科 <i>Macrotermitinae</i></a>，本站收录 16 种、2 亚种。</p>
+<p>模式种：<i>Ancistrotermes crucifer</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（16 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ancistrotermes-cavithorax/"><i>Ancistrotermes cavithorax</i> Sjöstedt, 1899 凹胸钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-crassiceps/"><i>Ancistrotermes crassiceps</i> Zhu & Wang, 1991 厚头钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-crucifer/"><i>Ancistrotermes crucifer</i> Sjöstedt, 1897 十字钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ancistrotermes-dimorphus/"><i>Ancistrotermes dimorphus</i> Tsai & Chen, 1963 小头钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-dubius/"><i>Ancistrotermes dubius</i> Sjöstedt, 1926 可疑钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-equatorius/"><i>Ancistrotermes equatorius</i> Harris, 1966 赤道钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-ganlanbaensis/"><i>Ancistrotermes ganlanbaensis</i> Zhu & Huang, 1991 橄榄坝钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-guineensis/"><i>Ancistrotermes guineensis</i> Silvestri, 1912 几内亚钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-hekouensis/"><i>Ancistrotermes hekouensis</i> Zhu & Wang, 1991 河口钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-latinotus/"><i>Ancistrotermes latinotus</i> Holmgren, 1912 宽背钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-menglianensis/"><i>Ancistrotermes menglianensis</i> Zhu & Wang, 1991 孟连钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-microdens/"><i>Ancistrotermes microdens</i> Harris, 1966 小齿钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-pakistanicus/"><i>Ancistrotermes pakistanicus</i> Ahmad, 1955 巴基斯坦钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-periphrasis/"><i>Ancistrotermes periphrasis</i> Sjöstedt, 1924 迂回钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-wasmanni/"><i>Ancistrotermes wasmanni</i> Snyder & Emerson, 1949 沃斯曼钩白蚁</a></li><li><a href="{{ site.base_url }}/species/ancistrotermes-xiai/"><i>Ancistrotermes xiai</i> Zhu & Huang, 1991 夏氏钩白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/ancistrotermes-crucifer-crucifer/"><i>Ancistrotermes crucifer crucifer</i> Sjöstedt, 1897 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/ancistrotermes-crucifer-diversana/"><i>Ancistrotermes crucifer diversana</i> Silvestri, 1914 相异亚种</a></li></ul>
 </section>

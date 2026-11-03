@@ -9,6 +9,8 @@ family_id: kalotermitidae
 last_modified_at: 2026-10-30
 permalink: /genus/kalotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/kalotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -24,6 +26,23 @@ breadcrumb:
 <h1>木白蚁属 <i>Kalotermes</i></h1>
 <p class="taxon-meta">木白蚁科 KALOTERMITIDAE · 21 种、2 亚种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="kalotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（23 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="kalotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>，本站收录 21 种、2 亚种。</p>
+<p>模式种：<i>Kalotermes flavicollis</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（21 种、2 亚种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/kalotermes-aemulus/"><i>Kalotermes aemulus</i> Sewell & Gay, 1978 竞争木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-approximatus/"><i>Kalotermes approximatus</i> Snyder, 1920 邻近木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-atratus/"><i>Kalotermes atratus</i> Hill, 1933 黑色木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-banksiae/"><i>Kalotermes banksiae</i> Hill, 1942 山龙眼木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-brouni/"><i>Kalotermes brouni</i> Froggatt, 1897 布龙木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-capicola/"><i>Kalotermes capicola</i> Coaton, 1949 开普敦木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-cognatus/"><i>Kalotermes cognatus</i> Gay, 1976 共生木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-convexus/"><i>Kalotermes convexus</i> Walker, 1853 凸木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-dispar/"><i>Kalotermes dispar</i> Grassé, 1938 不同木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-flavicollis/"><i>Kalotermes flavicollis</i> Fabricius, 1793 黄颈木白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/kalotermes-gracilignathus/"><i>Kalotermes gracilignathus</i> Emerson, 1924 细颚木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-hilli/"><i>Kalotermes hilli</i> Emerson, 1949 希尔木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-isaloensis/"><i>Kalotermes isaloensis</i> Cachan, 1949 伊萨卢木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-italicus/"><i>Kalotermes italicus</i> Ghesini & Marini, 2013 意大利木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-jepsoni/"><i>Kalotermes jepsoni</i> Kemner, 1932 杰普森木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-monticola/"><i>Kalotermes monticola</i> Sjöstedt, 1925 山栖木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-pallidinotum/"><i>Kalotermes pallidinotum</i> Hill, 1942 白背木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-phoeniciae/"><i>Kalotermes phoeniciae</i> Ghesini & Marini, 2015 腓尼基木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-rufinotum/"><i>Kalotermes rufinotum</i> Hill, 1925 红背木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-serrulatus/"><i>Kalotermes serrulatus</i> Gay, 1977 细锯齿木白蚁</a></li><li><a href="{{ site.base_url }}/species/kalotermes-umtatae/"><i>Kalotermes umtatae</i> Coaton, 1949 乌姆塔塔木白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/kalotermes-monticola-brachycephala/"><i>Kalotermes monticola brachycephala</i> Sjöstedt, 1926 短头亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/species/kalotermes-monticola-monticola/"><i>Kalotermes monticola monticola</i> Sjöstedt, 1925 指名亚种</a></li></ul>
 </section>

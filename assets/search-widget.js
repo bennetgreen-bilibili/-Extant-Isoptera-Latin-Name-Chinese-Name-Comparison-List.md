@@ -45,9 +45,15 @@
     });
   }
 
+  // 结果 URL 的两种形态都要认：Pagefind 若已按 baseUrl 前缀化，则可能是
+  // 绝对地址（https://host/baseurl/stats/）或站点内相对路径（/baseurl/stats/）；
+  // 只有两者都不是时才补前缀。重复补前缀会拼出 /baseurl/baseurl/… 而 404。
+  var REL_BASE = BASE ? BASE.replace(/^https?:\/\/[^/]+/, '') : '';
   function fixUrl(url) {
     if (!url) return SEARCH_PAGE;
-    if (!BASE || url.indexOf(BASE + '/') === 0) return url;
+    if (!BASE) return url;
+    if (REL_BASE && (url === REL_BASE || url.indexOf(REL_BASE + '/') === 0)) return url;
+    if (url.indexOf(BASE + '/') === 0) return url;
     return url.charAt(0) === '/' ? BASE + url : BASE + '/' + url;
   }
 
@@ -56,7 +62,18 @@
     if (!pagefindPromise) {
       pagefindPromise = dynamicImport(BUNDLE + 'pagefind.js').then(function (pf) {
         if (!pf) return null;
-        return Promise.resolve(pf.init ? pf.init() : null).then(function () { return pf; });
+        // 非 UI 入口不会自动带上 site.baseurl，这里显式设定，结果 URL 即带前缀的绝对地址
+        var setup;
+        try {
+          setup = (typeof pf.options === 'function' && BASE)
+            ? Promise.resolve(pf.options({ basePath: BUNDLE, baseUrl: BASE + '/' }))
+            : Promise.resolve();
+        } catch (e) {
+          setup = Promise.resolve();
+        }
+        return setup.then(function () {
+          return pf.init ? pf.init() : null;
+        }).then(function () { return pf; });
       }).catch(function () { return null; });
     }
     return pagefindPromise;

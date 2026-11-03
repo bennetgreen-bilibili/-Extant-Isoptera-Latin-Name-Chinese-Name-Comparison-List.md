@@ -480,6 +480,35 @@ body.search-overlay-open{overflow:hidden}
 .taxon-sub{display:block;padding-left:1.1em;font-size:.88em;color:var(--muted)}
 .taxon-more,.taxon-back{font-size:.92em;color:var(--muted);margin:.6em 0 0}
 @media (max-width:600px){.taxon-list{grid-template-columns:1fr}}
+/* 中转页（科／亚科／属）局部检索框、介绍正文与无图提示 */
+.taxon-search{margin:1em 0 1.5em;padding:12px 14px;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--accent-softer)}
+.taxon-search-label{display:block;font-size:.88em;color:var(--muted);margin:0 0 .45em}
+.taxon-search-input{width:100%;padding:10px 13px;font:inherit;font-size:.95rem;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--card);color:var(--ink);box-shadow:var(--shadow-sm)}
+.taxon-search-input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.taxon-search-status{font-size:.82em;color:var(--muted);margin:.5em 0 0}
+.taxon-search-results{list-style:none;margin:6px 0 0;padding:0;border:1px solid var(--line);border-radius:var(--radius-sm);max-height:60vh;overflow:auto;background:var(--card);box-shadow:var(--shadow-md)}
+.taxon-search-results li{padding:8px 12px;border-bottom:1px solid var(--line-soft)}
+.taxon-search-results li:last-child{border-bottom:0}
+.taxon-search-results a{color:inherit;text-decoration:none;display:block}
+.taxon-search-results a:hover{background:var(--accent-softer)}
+.taxon-search-results .rank{font-size:.72em;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 6px;margin-right:6px;white-space:nowrap}
+.taxon-search-results .latin{font-style:italic;color:var(--muted);font-size:.92em}
+.taxon-search-results .fam{font-size:.78em;color:var(--muted);border:1px solid var(--line-soft);border-radius:4px;padding:0 5px;white-space:nowrap}
+.taxon-search-empty{color:var(--muted);font-size:.92em}
+.taxon-search-empty a{color:var(--accent)}
+.taxon-search-hint{font-size:.82em;color:var(--muted);margin:.55em 0 0;line-height:1.65}
+.taxon-search-hint a{color:var(--accent-strong)}
+.taxon-intro p{line-height:1.85;margin:.75em 0;text-align:justify}
+.taxon-intro .taxon-src{font-size:.85em;color:var(--muted);margin-top:1em;text-align:left}
+.taxon-intro .taxon-src a{color:var(--accent-strong)}
+.taxon-map-empty{font-size:.92em;color:var(--muted);background:var(--accent-softer);border:1px solid var(--line-soft);border-radius:var(--radius-sm);padding:12px 14px;line-height:1.7}
+.taxon-map-empty a{color:var(--accent-strong)}
+.taxon-distribution .distribution-inline{margin-top:.2em}
+@media (max-width:600px){
+  .taxon-search{padding:10px 11px}
+  .taxon-search-results .fam{display:none}
+  .taxon-intro p{text-align:left}
+}
 
 
 
@@ -487,3 +516,15 @@ body.search-overlay-open{overflow:hidden}
 
 
 
+
+
+/* ---------- 物种页：形态描述（据《中国动物志》改写） ---------- */
+.species-fauna{margin:2em 0 .6em;border-top:1px solid var(--line);padding-top:1.1em}
+.species-fauna h2{font-size:1.25em;margin:0 0 .7em}
+.species-fauna h3{font-size:1.05em;margin:1.2em 0 .35em}
+.species-fauna p{margin:.35em 0 .7em;line-height:1.75}
+.fauna-lead{color:var(--muted);font-size:.94em}
+.fauna-en{margin:1.1em 0 .4em;padding:.6em .9em;border-left:3px solid var(--line);background:var(--accent-soft);border-radius:0 6px 6px 0}
+.fauna-en h3{margin-top:.2em}
+.fauna-note{font-size:.94em;background:var(--accent-soft);padding:.55em .8em;border-radius:6px}
+.fauna-cite{color:var(--muted);font-size:.86em;margin-top:1.1em!important}

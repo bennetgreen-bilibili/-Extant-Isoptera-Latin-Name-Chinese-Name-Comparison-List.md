@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /subfamily/cylindrotermitinae/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/cylindrotermitinae.jpg"
 breadcrumb:
   - name: "名录"
@@ -24,11 +26,28 @@ breadcrumb:
 <h1>圆筒白蚁亚科 <i>Cylindrotermitinae</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 2 属 · 9 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="cylindrotermitinae,cephalotermes,cylindrotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内检索（9 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本亚科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/cylindrotermitinae.jpg" alt="Cylindrotermes sp. 圆筒白蚁" loading="lazy">
   <figcaption><i>Cylindrotermes</i> sp. 圆筒白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/330656812">portioid</a> · <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="subfamily" id="cylindrotermitinae" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>亚科级介绍</h2>
+<p>圆筒白蚁亚科由 Hellemans、Engel 与 Bourguignon 于 2024 年建立(21)，模式属为圆筒白蚁属 Cylindrotermes Holmgren, 1906；亚科名取自模式属，指其细长圆筒状的头与体躯（希腊文 kylindros，圆筒）。本名录收录 2 属 9 种。</p>
+<p>两属呈跨大西洋间断分布：头白蚁属 Cephalotermes Silvestri 为旧热带界属，直角头白蚁广布西非、中非至东非；圆筒白蚁属 Cylindrotermes Holmgren 为新热带界属，所辖 8 种均产新热带界。两属均为木食性，工蚁上颚属典型木食型：头白蚁属筑垅巢、群体庞大，巢中常有一对蚁王与腹极膨胀的蚁后；圆筒白蚁属栖于枯木中、群体较小。形态上兵蚁头部长而呈亚矩形、无额突、体表被短刚毛，上颚短粗、属咬合—劈砍型；工蚁回肠（P1）长管状并在直肠下方形成腹环，肠瓣具六个不等的垫，可与近缘类群区分。工蚁左上颚端齿约等于或短于第一、二合缘齿，第三缘齿发达；头白蚁属 Cephalotermes 的腹极膨胀蚁后随群体成熟渐失爬行能力（仅见于Cephalotermes 垅巢群体）。2024 年系统发育基因组学证据表明二者构成独立单系支系，代表本科中非基部、分布却高度间断的狭域孑遗类群。经济上，圆筒白蚁属 Cylindrotermes nordenskioeldi在巴西东北部甘蔗田被判定为有害(51)。</p>
+<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#cylindrotermitinae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+</section>
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/cephalotermes/"><i>Cephalotermes</i> 头白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/cylindrotermes/"><i>Cylindrotermes</i> 圆筒白蚁属</a> <span class="taxon-count">8 种</span></li></ul>
 </section>

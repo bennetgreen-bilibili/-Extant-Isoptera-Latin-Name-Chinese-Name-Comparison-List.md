@@ -9,6 +9,8 @@ family_id: serritermitidae
 last_modified_at: 2026-10-30
 permalink: /family/serritermitidae/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -21,6 +23,23 @@ breadcrumb:
 <h1>齿白蚁科 <i>Serritermitidae</i></h1>
 <p class="taxon-meta">新等翅类 Neoisoptera · 2 属 · 3 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="serritermitidae,glossotermes,serritermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（3 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="family" id="serritermitidae" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>科级介绍</h2>
+<p>齿白蚁科由 Holmgren 于 1910 年建立（Serritermitidae Holmgren, 1910）(14)，模式属为 Serritermes Wasmann, 1897。科名词自模式属名，由拉丁语 serra（锯）与 termes 拼合，指本科兵蚁与繁殖蚁上颚具明显的锯状多齿缘。本名录收录 2 属 3 种。</p>
+<p>本科为新热带界特有小科，产南美北部（圭亚那地盾）至巴西。本科无真工蚁品级。两属生活方式迥异：Glossotermes 为木栖白蚁，栖于干腐倒木内；S. serrifer 则是白蚁中罕见的专性寄居者，终生寄居于白蚁科 Cornitermes cumulans 的地表垅巢内，不自筑巢，兵蚁上颚镰刀状、内缘具锯齿。本科兵蚁头长、侧缘呈弧形，头前具一小而呈盲端的囟门，不与额腺相通，触角12–15节（Serritermes 属12–13节，Glossotermes 属13–15节）；本科兵蚁额腺极为发达，自头部延伸至胸腹前半部，御敌时以自体爆裂方式经颈背释放分泌物(26)。</p>
+<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#serritermitidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+</section>
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/glossotermes/"><i>Glossotermes</i> 舌白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/serritermes/"><i>Serritermes</i> 齿白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

@@ -54,8 +54,11 @@
 
   // 结果 URL 由 Pagefind 按站点根目录记录（如 /list/），站点若部署在 baseurl 子路径下需要补前缀；
   // 这里统一改写，避免依赖 Pagefind UI 是否支持 baseUrl 选项。
+  var relBase = base ? base.replace(/^https?:\/\/[^/]+/, '') : '';
   function fixUrl(url) {
     if (!url || !base) return url;
+    // 已带前缀（绝对或站内相对）就原样返回，重复补前缀会拼出 /baseurl/baseurl/… 而 404
+    if (relBase && (url === relBase || url.indexOf(relBase + '/') === 0)) return url;
     if (url.indexOf(base + '/') === 0) return url;
     if (url.charAt(0) === '/') return base + url;
     return base + '/' + url;

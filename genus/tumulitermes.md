@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/tumulitermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>冢白蚁属 <i>Tumulitermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 17 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="tumulitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（17 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="tumulitermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>，本站收录 17 种。</p>
+<p>模式种：<i>Tumulitermes tumuli</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（17 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/tumulitermes-apiocephalus/"><i>Tumulitermes apiocephalus</i> Silvestri, 1909 蜂头冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-comatus/"><i>Tumulitermes comatus</i> Hill, 1942 长毛冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-curtus/"><i>Tumulitermes curtus</i> Hill, 1942 缩短冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-dalbiensis/"><i>Tumulitermes dalbiensis</i> Hill, 1942 多尔比冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-hastilis/"><i>Tumulitermes hastilis</i> Froggatt, 1898 甘蔗冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-kershawi/"><i>Tumulitermes kershawi</i> Hill, 1942 克肖冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-marcidus/"><i>Tumulitermes marcidus</i> Hill, 1942 凋零冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-mareebensis/"><i>Tumulitermes mareebensis</i> Hill, 1922 马里巴冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-nichollsi/"><i>Tumulitermes nichollsi</i> Hill, 1942 尼科尔斯冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-pastinator/"><i>Tumulitermes pastinator</i> Hill, 1915 挖掘冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-peracutus/"><i>Tumulitermes peracutus</i> Hill, 1925 锐利冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-petilus/"><i>Tumulitermes petilus</i> Hill, 1942 修长冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-pulleinei/"><i>Tumulitermes pulleinei</i> Mjöberg, 1920 普雷勒冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-recalvus/"><i>Tumulitermes recalvus</i> Hill, 1942 无毛冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-subaquilus/"><i>Tumulitermes subaquilus</i> Hill, 1942 稍暗冢白蚁</a></li><li><a href="{{ site.base_url }}/species/tumulitermes-tumuli/"><i>Tumulitermes tumuli</i> Froggatt, 1898 土垄冢白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/tumulitermes-westraliensis/"><i>Tumulitermes westraliensis</i> Hill, 1921 西澳冢白蚁</a></li></ul>
 </section>

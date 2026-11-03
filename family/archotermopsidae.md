@@ -9,6 +9,8 @@ family_id: archotermopsidae
 last_modified_at: 2026-10-30
 permalink: /family/archotermopsidae/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/archotermopsidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -22,11 +24,28 @@ breadcrumb:
 <h1>古白蚁科 <i>Archotermopsidae</i></h1>
 <p class="taxon-meta">远等翅类 Teletisoptera · 2 属 · 5 种、2 亚种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="archotermopsidae,archotermopsis,zootermopsis" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（7 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/archotermopsidae.jpg" alt="Archotermopsis kuznetsovi 库兹涅佐夫古白蚁" loading="lazy">
   <figcaption>Archotermopsis kuznetsovi 库兹涅佐夫古白蚁</figcaption>
 </figure>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="family" id="archotermopsidae" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>科级介绍</h2>
+<p>古白蚁科由 Engel、Grimaldi 与 Krishna 于 2009 年建立（Engel, Grimaldi &amp; Krishna, 2009: 11）(5)，模式属为古白蚁属 Archotermopsis Desneux, 1904。科名词出模式属：Archotermopsis 由希腊文 archaios（古老的）与Termopsis（元白蚁属名）组合而成。本科是俗称“湿木白蚁”（dampwood termites）之一支；兵蚁上颚粗壮、具明显的端齿与缘齿，头部扁平、无囟门，个体大型。兵蚁头背可见Y形缝，眼退化，触角19—27节，左上颚缘齿3枚、右上颚2枚，前胸背板扁平、狭于头，跗节5节；有翅成虫具明显单眼，体大型。本名录收录 2 属 5 种。</p>
+<p>本科分布呈间断的北温带格局：动白蚁属限于北美西部（自西海岸至西南部），古白蚁属分布于中国、越南、南亚及其邻近区域。两属均栖息于高湿环境中的腐朽倒木与树桩内，营单块木巢，巢群终生不离食源，由拟工蚁行使劳动。Zootermopsis angusticollis 于1999年前后在夏威夷（毛伊岛高海拔）定殖，Zootermopsis nevadensis于2000年首见于日本川西（Kawanishi）(4)。本科对干燥环境适应力弱，一般不危害干燥建筑木材，但动白蚁属 Zootermopsis 在北美太平洋沿岸为害潮湿木构件，是当地重要的湿木白蚁类建筑害虫(6)</p>
+<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#archotermopsidae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+</section>
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/archotermopsis/"><i>Archotermopsis</i> 古白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/zootermopsis/"><i>Zootermopsis</i> 动白蚁属</a> <span class="taxon-count">3 种、2 亚种</span></li></ul>
 </section>

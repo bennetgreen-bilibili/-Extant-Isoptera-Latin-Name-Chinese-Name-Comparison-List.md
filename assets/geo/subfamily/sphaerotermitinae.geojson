@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"properties":{"level":"subfamily","subfamily":"Sphaerotermitinae","subfamily_zh":"圆球白蚁亚科","subfamily_id":"sphaerotermitinae","family":"TERMITIDAE","family_zh":"白蚁科","family_id":"termitidae","records":30,"cells":4,"genera":1,"species":1,"grid":"1 degree","taxon_scope":"checklist_extant","generated":"2026-10-28","source":"merged by build_taxonomy_pages.py from the per-genus 1 degree maps of this subfamily; original records: GBIF occurrence search API (assets/geo/genus/*.geojson, generated 2026-10-28)"},
+"features":[
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[14.5,0.5]},"properties":{"n":7}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,0.5]},"properties":{"n":9}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[15.5,1.5]},"properties":{"n":13}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[11.5,3.5]},"properties":{"n":1}}
+]
+}

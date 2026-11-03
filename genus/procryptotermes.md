@@ -9,6 +9,8 @@ family_id: kalotermitidae
 last_modified_at: 2026-10-30
 permalink: /genus/procryptotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/kalotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -24,6 +26,23 @@ breadcrumb:
 <h1>前砂白蚁属 <i>Procryptotermes</i></h1>
 <p class="taxon-meta">木白蚁科 KALOTERMITIDAE · 14 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="procryptotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（14 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="procryptotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>，本站收录 14 种。</p>
+<p>模式种：<i>Procryptotermes fryeri</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（14 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/procryptotermes-australiensis/"><i>Procryptotermes australiensis</i> Gay, 1976 澳大利亚前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-corniceps/"><i>Procryptotermes corniceps</i> Snyder, 1923 角头前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-dhari/"><i>Procryptotermes dhari</i> Roonwal & Chhotani, 1963 达尔前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-dioscurae/"><i>Procryptotermes dioscurae</i> Harris, 1954 迪奥斯屈阿前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-edwardsi/"><i>Procryptotermes edwardsi</i> Scheffrahn, 1999 爱德华兹前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-falcifer/"><i>Procryptotermes falcifer</i> Krishna, 1962 具镰前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-fryeri/"><i>Procryptotermes fryeri</i> Holmgren, 1910 弗赖尔前砂白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/procryptotermes-hesperus/"><i>Procryptotermes hesperus</i> Scheffrahn & Krecek, 2001 西部前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-hunsurensis/"><i>Procryptotermes hunsurensis</i> Thakur, 1975 洪苏尔前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-krishnai/"><i>Procryptotermes krishnai</i> Emerson, 1961 克里希纳前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-leewardensis/"><i>Procryptotermes leewardensis</i> Scheffrahn & Krecek, 2001 背风群岛前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-rapae/"><i>Procryptotermes rapae</i> Light & Zimmerman, 1936 拉帕前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-speiseri/"><i>Procryptotermes speiseri</i> Holmgren & Holmgren, 1915 斯派泽前砂白蚁</a></li><li><a href="{{ site.base_url }}/species/procryptotermes-valeriae/"><i>Procryptotermes valeriae</i> Bose, 1979 瓦莱里前砂白蚁</a></li></ul>
 </section>

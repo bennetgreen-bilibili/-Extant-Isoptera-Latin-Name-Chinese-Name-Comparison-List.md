@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /subfamily/microcerotermitinae/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/microcerotermitinae.jpg"
 breadcrumb:
   - name: "名录"
@@ -24,11 +26,29 @@ breadcrumb:
 <h1>锯白蚁亚科 <i>Microcerotermitinae</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 2 属 · 150 种、7 亚种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="microcerotermitinae,microcerotermes,onkotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内检索（157 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本亚科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
 
 <figure class="taxa-illustration">
   <img src="{{ site.base_url }}/assets/images/microcerotermitinae.jpg" alt="Microcerotermes subtilis 瘦长锯白蚁" loading="lazy">
   <figcaption><i>Microcerotermes subtilis</i> 瘦长锯白蚁 · 摄影 <a href="https://www.inaturalist.org/observations/231264472">Observatoire Régional de Lutte Anti-Termites</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh">CC BY-NC 4.0</a>（iNaturalist，已缩放）</figcaption>
 </figure>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="subfamily" id="microcerotermitinae" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>亚科级介绍</h2>
+<p>锯白蚁亚科由 Holmgren 于 1910 年建立（Microcerotermitinae Holmgren, 1910）(14)，模式属为锯白蚁属 Microcerotermes Silvestri, 1901；亚科名源自模式属（希腊语 mikros，小，cero，角）。它与聚白蚁亚科关系密切，但不能完全确定为姊妹群。本名录收录 2 属 150 种。</p>
+<p>本亚科为泛热带分布，广布东洋界、非洲热带与澳洲界等各大区系，倒钩白蚁属主要见于新热带界南锥体。食性属木食—草食广谱类群，多在土壤—木材界面取食朽木与枯草；兵蚁头狭长、额部无突起，上颚为穿刺—劈砍型；兵蚁额前部具一小点状或细缝状囟门；上颚短粗、端缘内弯成钩，左上颚具一小齿、右上颚几无齿，触角 13–14 节，胫距式 2:2:2；工蚁单型。巢多为地下或地表小巢，一般不筑大型显著垅巢。(3)</p>
+<p>经济上本亚科含若干重要害虫：不同锯白蚁 M. diversus 是伊朗(59)（胡齐斯坦省）、伊拉克、阿曼最具破坏性的建筑木材害虫，并是伊朗、伊拉克、沙特阿拉伯海枣（Phoenix dactylifera）的主要害虫；南美的斯特伦基锯白蚁 M. strunckii 为果树林次要害虫(60)，树栖锯白蚁 M. arboreus 为百香果次要害虫。</p>
+<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#microcerotermitinae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+</section>
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/microcerotermes/"><i>Microcerotermes</i> 锯白蚁属</a> <span class="taxon-count">148 种、7 亚种</span></li><li><a href="{{ site.base_url }}/genus/onkotermes/"><i>Onkotermes</i> 倒钩白蚁属</a> <span class="taxon-count">2 种</span></li></ul>
 </section>

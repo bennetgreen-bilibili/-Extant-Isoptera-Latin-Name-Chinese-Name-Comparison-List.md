@@ -1,11 +1,12 @@
 /* ===== 分布图 · distribution maps =====
-   Used on the checklist pages (/list/, /en/list/, /es/list/) and on every
-   species page: each family / genus / species block carries one Leaflet map.
+   Used on the checklist pages (/list/, /en/list/, /es/list/), on every species
+   page, and on the /family/, /subfamily/, /genus/ hub pages: each family /
+   subfamily / genus / species block carries one Leaflet map.
    Leaflet itself comes from assets/vendor/leaflet/leaflet.css; this file styles
    the inline blocks, the lazy map containers, the legend and the method note.
    Token names (--card, --line, --accent, …) come from assets/custom.css. */
 
-/* 内嵌地图块：科 / 属标题下方的一张图 */
+/* 内嵌地图块：科 / 亚科 / 属标题下方的一张图 */
 .distribution-inline{
   margin:1.1em 0 1.6em;
   padding:12px 12px 10px;
@@ -35,6 +36,7 @@
   justify-content:center;
 }
 .distribution-inline-family .distribution-map{height:520px}
+.distribution-inline-subfamily .distribution-map{height:480px}
 .distribution-inline-genus .distribution-map{height:420px}
 .distribution-map-species{height:480px}
 .distribution-map.is-ready,
@@ -187,6 +189,7 @@
 
 @media (max-width:900px){
   .distribution-inline-family .distribution-map{height:400px}
+  .distribution-inline-subfamily .distribution-map{height:380px}
   .distribution-inline-genus .distribution-map{height:340px}
   .distribution-map,
   .distribution-map-species{height:360px}
@@ -194,6 +197,7 @@
 @media (max-width:640px){
   .distribution-map,
   .distribution-inline-family .distribution-map,
+  .distribution-inline-subfamily .distribution-map,
   .distribution-inline-genus .distribution-map,
   .distribution-map-species{height:300px}
 }

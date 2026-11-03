@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/amicotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>善白蚁属 <i>Amicotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 12 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="amicotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（12 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="amicotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/apicotermitinae/">尖白蚁亚科 <i>Apicotermitinae</i></a>，本站收录 12 种。</p>
+<p>模式种：<i>Amicotermes galenus</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（12 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/amicotermes-autothysius/"><i>Amicotermes autothysius</i> Sands, 1999 自爆善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-camerunensis/"><i>Amicotermes camerunensis</i> Sands, 1999 喀麦隆善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-congoensis/"><i>Amicotermes congoensis</i> Sands, 1999 刚果善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-cristatus/"><i>Amicotermes cristatus</i> Sands, 1999 冠毛善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-dibogi/"><i>Amicotermes dibogi</i> Sands, 1999 迪博格善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-galenus/"><i>Amicotermes galenus</i> Sands, 1972 盖伦善白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/amicotermes-gasteruptus/"><i>Amicotermes gasteruptus</i> Sands, 1999 腰肠善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-ivorensis/"><i>Amicotermes ivorensis</i> Sands, 1999 象牙海岸善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-mayombei/"><i>Amicotermes mayombei</i> Sands, 1999 马永贝善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-mbalmayoensis/"><i>Amicotermes mbalmayoensis</i> Sands, 1999 姆巴尔马约善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-multispinus/"><i>Amicotermes multispinus</i> Sands, 1999 多刺善白蚁</a></li><li><a href="{{ site.base_url }}/species/amicotermes-spiculatus/"><i>Amicotermes spiculatus</i> Sands, 1999 具针善白蚁</a></li></ul>
 </section>

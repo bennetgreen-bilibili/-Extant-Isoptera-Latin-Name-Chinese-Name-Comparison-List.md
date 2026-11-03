@@ -161,6 +161,11 @@ def check_geo() -> None:
         listed.add(item["file"])
     for item in (summary.get("species") or {}).values():
         listed.add(item["file"])
+    # 亚科级地图由 build_taxonomy_pages.py 合并属级地图生成，索引在 _data/subfamily_maps.json
+    subfamily_maps = ROOT / "_data" / "subfamily_maps.json"
+    if subfamily_maps.is_file():
+        for item in (json.loads(read(subfamily_maps)).get("subfamilies") or []):
+            listed.add(item["file"])
     disk = {p.relative_to(ROOT).as_posix() for p in (ROOT / "assets" / "geo").rglob("*.geojson")}
     missing = sorted(listed - disk)
     orphan = sorted(disk - listed)

@@ -9,6 +9,8 @@ family_id: rhinotermitidae
 last_modified_at: 2026-10-30
 permalink: /genus/rhinotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 image: "/assets/images/rhinotermitidae.jpg"
 breadcrumb:
   - name: "名录"
@@ -24,6 +26,23 @@ breadcrumb:
 <h1>鼻白蚁属 <i>Rhinotermes</i></h1>
 <p class="taxon-meta">鼻白蚁科 RHINOTERMITIDAE · 4 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="rhinotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（4 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="rhinotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/rhinotermitidae/">鼻白蚁科 <i>Rhinotermitidae</i></a>，本站收录 4 种。</p>
+<p>模式种：<i>Rhinotermes nasutus</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/rhinotermes-hispidus/"><i>Rhinotermes hispidus</i> Emerson, 1925 多毛鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/rhinotermes-manni/"><i>Rhinotermes manni</i> Snyder, 1924 曼鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/rhinotermes-marginalis/"><i>Rhinotermes marginalis</i> Linnaeus, 1758 微小鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/rhinotermes-nasutus/"><i>Rhinotermes nasutus</i> Perty, 1833 大鼻鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

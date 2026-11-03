@@ -16,11 +16,20 @@ build_genus_index.py, no PyYAML dependency) and writes one page per taxon:
     subfamily/<subfamily_id>.md  18 pages (all currently in Termitidae)
     genus/<genus_id>.md         326 pages
 
-Each page is Chinese-only navigation + a short unique summary (BreadcrumbList comes from
-_includes/breadcrumb-jsonld.html via the breadcrumb list in front matter). The prose
-(形态/分布/经济意义) is NOT duplicated: those paragraphs stay in /list/, and the hub
-pages link to the matching List-of-names anchor, so the two page families do not compete
-for the same text.
+Each page is Chinese-only: a short unique summary (BreadcrumbList comes from
+_includes/breadcrumb-jsonld.html via the breadcrumb list in front matter), a local search
+box scoped to that taxon, a distribution map (reusing _includes/distribution-map.html),
+the family/subfamily prose copied out of /list/, and the child list.
+
+The prose (形态/分布/经济意义) is copied from the /list/ section between a family (<h3>) or
+subfamily (<h4>) heading and the next heading. It still lives in /list/ as well — the hub
+page links back to that anchor. Copying it is deliberate: /list/ is a single 450 KB page,
+so "白蚁科的形态特征" had no citable, shareable landing page of its own before this.
+
+The subfamily maps (assets/geo/subfamily/<id>.geojson, _data/subfamily_maps.json) are
+merged here from the committed per-genus maps: build_occurrence_geojson.py pulls GBIF
+records per genus and has no subfamily level, and merging offline keeps this script
+deterministic and network-free.
 
 It also writes _data/taxonomy_images.json, used by _layouts/default.html as the og:image
 fallback for species pages (per-family photo) and by the hub pages themselves.
@@ -54,6 +63,15 @@ DATASET_DATE = "{{ site.dataset.version | replace: '.', '-' }}"
 FM_RE = re.compile(r"^([A-Za-z_][A-Za-z0-9_]*)[ \t]*:[ \t]*(.*)$")
 FIGURE_RE = re.compile(r'<figure class="taxa-illustration">.*?</figure>', re.S)
 IMG_RE = re.compile(r"/assets/images/([a-z0-9\-]+)\.(?:jpg|png)")
+HEADING_RE = re.compile(r'<h([2-5])\s+id="([a-z0-9\-]+)"[^>]*>.*?</h\1>', re.S)
+INCLUDE_MAP_RE = re.compile(r"^[ \t]*\{%\s*include\s+distribution-map\.html.*?%\}[ \t]*$", re.M)
+TAG_ONLY_RE = re.compile(r"^[ \t]*<[^>]+>[ \t]*$")
+CJK_RE = re.compile(u"[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff00-\uffef]")
+GEO_DIR = ROOT / "assets" / "geo"
+GEO_FAMILY = GEO_DIR / "family"
+GEO_GENUS = GEO_DIR / "genus"
+GEO_SUBFAMILY = GEO_DIR / "subfamily"
+SUBFAMILY_MAPS_OUT = ROOT / "_data" / "subfamily_maps.json"
 
 
 def parse_front_matter(text):
@@ -95,6 +113,98 @@ def list_figures():
         key = re.sub(r"-\d+$", "", m.group(1))
         figures.setdefault(key, block.strip())
     return figures
+
+
+def html_escape(text):
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def reflow(lines):
+    """Re-join the hard-wrapped lines of one /list/ paragraph.
+
+    Chinese may break anywhere, so a newline inside a paragraph is not a space; between
+    two Latin tokens it is ("Termes Linnaeus," + "1758；" -> "Termes Linnaeus, 1758；").
+    """
+    out = ""
+    for raw in lines:
+        line = raw.strip()
+        if not line:
+            continue
+        if not out:
+            out = line
+        elif CJK_RE.match(out[-1]) or CJK_RE.match(line[0]):
+            out += line
+        else:
+            out += " " + line
+    return out
+
+
+def list_sections():
+    """Map taxon id -> list of prose paragraphs, copied out of the /list/ sections.
+
+    Only the family (<h3>) and subfamily (<h4>) sections carry prose; a genus section
+    (<h5>) is just its map plus the species links. Illustration <figure> blocks and the
+    distribution-map includes are dropped here, because a hub page shows its own map.
+    """
+    if not LIST_MD.is_file():
+        return {}
+    text = LIST_MD.read_text(encoding="utf-8")
+    text = FIGURE_RE.sub("", text)
+    text = INCLUDE_MAP_RE.sub("", text)
+    heads = list(HEADING_RE.finditer(text))
+    sections = {}
+    for index, head in enumerate(heads):
+        if int(head.group(1)) not in (3, 4):
+            continue
+        end = heads[index + 1].start() if index + 1 < len(heads) else len(text)
+        paragraphs = []
+        for block in re.split(r"\n[ \t]*\n", text[head.end():end]):
+            lines = [ln for ln in block.splitlines() if ln.strip() and not TAG_ONLY_RE.match(ln)]
+            if not lines:
+                continue
+            paragraph = reflow(lines).strip()
+            if paragraph:
+                paragraphs.append(paragraph)
+        if paragraphs:
+            sections[head.group(2)] = paragraphs
+    return sections
+
+
+def parse_cells(path):
+    """Read the 1 degree grid of one committed taxon map -> {(lon, lat): records}."""
+    try:
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}, ""
+    cells = {}
+    for feature in data.get("features") or []:
+        coords = (feature.get("geometry") or {}).get("coordinates") or []
+        if len(coords) < 2:
+            continue
+        key = (round(float(coords[0]), 3), round(float(coords[1]), 3))
+        count = int((feature.get("properties") or {}).get("n") or 0)
+        cells[key] = cells.get(key, 0) + count
+    props = data.get("properties") or {}
+    return cells, str(props.get("generated") or "")
+
+
+def render_geojson(properties, cells):
+    """Same byte layout as build_occurrence_geojson.render_geojson (review-friendly)."""
+    body = ",\n".join(
+        "    " + json.dumps(
+            {"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]},
+             "properties": {"n": cells[(lon, lat)]}},
+            ensure_ascii=False, separators=(",", ":"))
+        for lon, lat in sorted(cells, key=lambda key: (key[1], key[0]))
+    )
+    return (
+        "{\n"
+        '"type":"FeatureCollection",\n'
+        '"properties":%s,\n'
+        '"features":[\n%s\n'
+        "]\n"
+        "}\n"
+    ) % (json.dumps(properties, ensure_ascii=False, separators=(",", ":")), body)
 
 
 def image_path(taxon_id):
@@ -230,6 +340,12 @@ def main():
         sys.exit("unexpected taxa: %d families / %d subfamilies / %d genera"
                  % (len(families), len(subfamilies), len(genera)))
 
+    # 科 / 亚科介绍：直接取自 /list/ 对应小节的正文（属小节只有地图与物种链接，没有正文）
+    intros = list_sections()
+    no_prose = [tid for tid in list(families) + list(subfamilies) if tid not in intros]
+    if no_prose:
+        sys.exit("list.md has no prose for: %s" % ", ".join(sorted(no_prose)))
+
     for gen in genera.values():
         gen["rows"].sort(key=lambda r: (0 if r["rank"] != "subspecies" else 1,
                                         r["latin"].casefold(), r["slug"]))
@@ -238,6 +354,52 @@ def main():
         fam["genera"] = sorted(fam["genera"])
     for sub in subfamilies.values():
         sub["genera"] = sorted(sub["genera"])
+
+    # 亚科级分布图：GBIF 的抓取是按属做的，没有亚科层级；这里把本亚科各属已提交的
+    # 1° 网格地图按坐标合并，得到一份可直接给 distribution-map.html 用的单文件。
+    subfamily_maps, geo_outputs = [], {}
+    for sid in sorted(subfamilies):
+        sub = subfamilies[sid]
+        cells, generated = {}, ""
+        for gid in sub["genera"]:
+            path = GEO_GENUS / (gid + ".geojson")
+            if not path.is_file():
+                continue
+            part, stamp = parse_cells(path)
+            for key, count in part.items():
+                cells[key] = cells.get(key, 0) + count
+            generated = stamp or generated
+        if not cells:
+            continue
+        fam = families[sub["family"]]
+        props = {
+            "level": "subfamily",
+            "subfamily": sub["latin"],
+            "subfamily_zh": sub["zh"],
+            "subfamily_id": sid,
+            "family": fam["latin"],
+            "family_zh": fam["zh"],
+            "family_id": fam["id"],
+            "records": sum(cells.values()),
+            "cells": len(cells),
+            "genera": len(sub["genera"]),
+            "species": sub["species"],
+            "grid": "1 degree",
+            "taxon_scope": "checklist_extant",
+            "generated": generated,
+            "source": ("merged by build_taxonomy_pages.py from the per-genus 1 degree maps of "
+                       "this subfamily; original records: GBIF occurrence search API "
+                       "(assets/geo/genus/*.geojson, generated %s)" % generated),
+        }
+        geo_outputs[GEO_SUBFAMILY / (sid + ".geojson")] = render_geojson(props, cells)
+        subfamily_maps.append({
+            "id": sid, "zh": sub["zh"], "latin": sub["latin"],
+            "family_id": fam["id"], "family_zh": fam["zh"],
+            "records": props["records"], "cells": props["cells"],
+            "species": sub["species"], "genera": len(sub["genera"]),
+            "file": "assets/geo/subfamily/%s.geojson" % sid,
+        })
+    subfamily_map_ids = {entry["id"] for entry in subfamily_maps}
 
     images = {"_meta": {"families": len(families), "subfamilies": len(subfamilies),
                         "default": DEFAULT_IMAGE},
@@ -367,13 +529,18 @@ def main():
         ]
         return fit_description(core, pool)
 
-    def front_matter(title, description, permalink, breadcrumb, image, family_id, last_modified="2026-10-30"):
+    def front_matter(title, description, permalink, breadcrumb, image, family_id,
+                     last_modified="2026-10-30", has_map=False, taxon_search=False):
         lines = ["---", "layout: default", "title: " + json.dumps(title, ensure_ascii=False),
                  "description: " + json.dumps(description, ensure_ascii=False),
                  "lang: zh-CN", "lang_only: true", "author: 班奈特格林",
                  "family_id: " + family_id,
                  "last_modified_at: " + last_modified,
                  "permalink: " + permalink, "sitemap: true"]
+        if has_map:
+            lines.append("has_map: true")
+        if taxon_search:
+            lines.append("taxon_search: true")
         if image:
             lines.append("image: " + json.dumps(image))
         lines.append("breadcrumb:")
@@ -400,6 +567,77 @@ def main():
                 % ({"family": "科", "subfamily": "亚科", "genus": "属"}[rank], SB, taxon_id, SB))
         return back + '\n<p class="taxon-back"><a href="%s/list/">← 返回完整名录</a> · <a href="%s/">首页</a></p>' % (SB, SB)
 
+    def has_geo(rank, taxon_id):
+        if rank == "subfamily":
+            return taxon_id in subfamily_map_ids
+        directory = {"family": GEO_FAMILY, "genus": GEO_GENUS}[rank]
+        return (directory / (taxon_id + ".geojson")).is_file()
+
+    def distribution_section(rank, taxon_id):
+        if not has_geo(rank, taxon_id):
+            return ""
+        return ('<section class="taxon-section taxon-distribution" data-pagefind-ignore>\n'
+                '<h2>分布图</h2>\n'
+                '{%% include distribution-map.html mode="%s" id="%s" %%}\n'
+                '</section>\n' % (rank, taxon_id))
+
+    def intro_section(taxon_id, heading):
+        paragraphs = intros.get(taxon_id) or []
+        if not paragraphs:
+            return ""
+        body = "".join("<p>%s</p>\n" % html_escape(p) for p in paragraphs)
+        return ('<section class="taxon-section taxon-intro" data-pagefind-ignore>\n<h2>' + heading + '</h2>\n'
+                + body
+                + '<p class="taxon-src">以上文字取自<a href="%s/list/#%s">完整名录</a>的对应章节，'
+                  '参考文献与完整论述见该页。</p>\n</section>\n' % (SB, taxon_id))
+
+    def genus_intro(gen, mapped):
+        fam = families[gen["family"]]
+        parts = ['本属隶属<a href="%s/family/%s/">%s <i>%s</i></a>'
+                 % (SB, fam["id"], fam["zh"], display_latin(fam["latin"]))]
+        if gen["subfamily"]:
+            sub = subfamilies[gen["subfamily"]]
+            parts.append('下的<a href="%s/subfamily/%s/">%s <i>%s</i></a>'
+                         % (SB, sub["id"], sub["zh"], display_latin(sub["latin"])))
+        paragraphs = ["".join(parts) + "，本站收录 %s。"
+                      % count_phrase(gen["species"], gen["subspecies"])]
+        if gen["type_species"]:
+            paragraphs.append("模式种：<i>%s</i>。" % gen["type_species"])
+        if mapped:
+            paragraphs.append("本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；"
+                              "点开物种条目可查看各自模式产地、分布与参考文献。")
+        else:
+            paragraphs.append("GBIF 中暂无本属带坐标的记录，本页因此不附图；"
+                              "点开物种条目仍可查看各自模式产地与参考文献。")
+        body = "".join("<p>%s</p>\n" % text for text in paragraphs)
+        return '<section class="taxon-section taxon-intro" data-pagefind-ignore>\n<h2>属级介绍</h2>\n' + body + "</section>\n"
+
+    def genus_map_note(gen):
+        fam = families[gen["family"]]
+        links = ['<a href="%s/family/%s/">%s的科级分布图</a>' % (SB, fam["id"], fam["zh"])]
+        if gen["subfamily"]:
+            sub = subfamilies[gen["subfamily"]]
+            links.append('<a href="%s/subfamily/%s/">%s的亚科级分布图</a>' % (SB, sub["id"], sub["zh"]))
+        return ('<section class="taxon-section taxon-distribution" data-pagefind-ignore>\n<h2>分布图</h2>\n'
+                '<p class="taxon-map-empty">GBIF 中暂无该属带坐标的记录，因此本页没有属级地图；'
+                '可参考%s。</p>\n</section>\n' % "或".join(links))
+
+    def search_box(scope_zh, anchors, species_count):
+        return (
+            '<div class="taxon-search" data-pagefind-ignore data-anchors="%s" '
+            'data-index="%s/search-index.json" data-search-page="%s/search/">\n'
+            '<label class="taxon-search-label" for="taxon-search-input">'
+            '在本%s范围内检索（%d 个种与亚种）：中文名或拉丁学名</label>\n'
+            '<input type="search" id="taxon-search-input" class="taxon-search-input" '
+            'placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" '
+            'role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">\n'
+            '<p class="taxon-search-status" hidden></p>\n'
+            '<ul class="taxon-search-results" hidden></ul>\n'
+            '<p class="taxon-search-hint">只检索本%s登记的分类单元；全站网页请用'
+            '<a href="%s/search/">全文搜索</a>。</p>\n'
+            '</div>\n'
+            % (",".join(anchors), SB, SB, scope_zh, species_count, scope_zh, SB))
+
     outputs = {}
     for fid in sorted(families):
         fam = families[fid]
@@ -423,8 +661,12 @@ def main():
             + '<h1>%s <i>%s</i></h1>\n' % (fam["zh"], display_latin(fam["latin"]))
             + '<p class="taxon-meta">%s · %s</p>\n' % (fam["clade_zh"] + " " + fam["clade_latin"], stats_line(fam=fam))
             + "</header>\n"
-            + figure_html(fid, fam["zh"]) +
-            "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
+            + search_box("科", [fid] + fam["subfamilies"] + fam["genera"],
+                         fam["species"] + fam["subspecies"])
+            + figure_html(fid, fam["zh"])
+            + distribution_section("family", fid)
+            + intro_section(fid, "科级介绍")
+            + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("family", fid) + "\n</article>\n"
             + taxon_jsonld("family", fid, fam["latin"], fam["zh"], parent, "科")
         )
@@ -432,7 +674,8 @@ def main():
         outputs[OUT_DIRS["family"] / (fid + ".md")] = (
             front_matter("%s %s 分类名录" % (fam["zh"], fam["latin"]), desc,
                          "/family/%s/" % fid, breadcrumb_for("family", fam=fam),
-                         image_path(fid), fid)
+                         image_path(fid), fid,
+                         has_map=has_geo("family", fid), taxon_search=True)
             + body)
 
     for sid in sorted(subfamilies):
@@ -450,8 +693,11 @@ def main():
             + '<h1>%s <i>%s</i></h1>\n' % (sub["zh"], display_latin(sub["latin"]))
             + '<p class="taxon-meta">%s · %s</p>\n' % (fam["zh"] + " " + fam["latin"], stats_line(sub=sub))
             + "</header>\n"
-            + figure_html(sid, sub["zh"]) +
-            "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
+            + search_box("亚科", [sid] + sub["genera"], sub["species"] + sub["subspecies"])
+            + figure_html(sid, sub["zh"])
+            + distribution_section("subfamily", sid)
+            + intro_section(sid, "亚科级介绍")
+            + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("subfamily", sid) + "\n</article>\n"
             + taxon_jsonld("subfamily", sid, sub["latin"], sub["zh"], parent, "亚科")
         )
@@ -459,7 +705,8 @@ def main():
         outputs[OUT_DIRS["subfamily"] / (sid + ".md")] = (
             front_matter("%s %s 属与物种名录" % (sub["zh"], sub["latin"]), desc,
                          "/subfamily/%s/" % sid, breadcrumb_for("subfamily", fam=fam, sub=sub),
-                         image_path(sid), fam["id"])
+                         image_path(sid), fam["id"],
+                         has_map=has_geo("subfamily", sid), taxon_search=True)
             + body)
 
     for gid in sorted(genera):
@@ -477,6 +724,7 @@ def main():
                       "url": SB + "/family/" + fam["id"] + "/"}
         sections = ["<h2>物种（%s）</h2>" % count_phrase(gen["species"], gen["subspecies"])
                     + html_list(species_items(gen))]
+        mapped = has_geo("genus", gid)
         body = (
             '<article class="taxon-page">\n'
             + crumb_nav("genus", fam=fam, sub=subfamilies.get(gen["subfamily"]), gen=gen) + "\n"
@@ -484,8 +732,11 @@ def main():
             + '<h1>%s <i>%s</i></h1>\n' % (gen["zh"], display_latin(gen["latin"]))
             + '<p class="taxon-meta">%s · %s</p>\n' % (fam["zh"] + " " + fam["latin"], stats_line(gen=gen))
             + "</header>\n"
-            + figure_html(gid, gen["zh"]) +
-            "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
+            + search_box("属", [gid], gen["species"] + gen["subspecies"])
+            + figure_html(gid, gen["zh"])
+            + (distribution_section("genus", gid) if mapped else genus_map_note(gen))
+            + genus_intro(gen, mapped)
+            + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("genus", gid) + "\n</article>\n"
             + taxon_jsonld("genus", gid, gen["latin"], gen["zh"], parent, "属")
         )
@@ -494,7 +745,8 @@ def main():
             front_matter("%s %s 物种名录" % (gen["zh"], gen["latin"]), desc,
                          "/genus/%s/" % gid,
                          breadcrumb_for("genus", fam=fam, sub=subfamilies.get(gen["subfamily"]), gen=gen),
-                         image_path(gen["family"]), fam["id"])
+                         image_path(gen["family"]), fam["id"],
+                         has_map=mapped, taxon_search=True)
             + body)
 
     problem = False
@@ -533,19 +785,50 @@ def main():
                     if write:
                         path.unlink()
 
+    geo_changed = 0
+    for path, content in sorted(geo_outputs.items()):
+        if path.is_file() and path.read_text(encoding="utf-8") == content:
+            continue
+        geo_changed += 1
+        if write:
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(content, encoding="utf-8", newline="\n")
+    geo_stale = 0
+    if GEO_SUBFAMILY.is_dir():
+        for path in sorted(GEO_SUBFAMILY.glob("*.geojson")):
+            if path in geo_outputs:
+                continue
+            geo_stale += 1
+            print("stale map: %s" % path.relative_to(ROOT))
+            if write:
+                path.unlink()
+
     payload = json.dumps(images, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n"
     data_changed = not DATA_OUT.is_file() or DATA_OUT.read_text(encoding="utf-8") != payload
     if data_changed and write:
         DATA_OUT.write_text(payload, encoding="utf-8", newline="\n")
 
+    maps_payload = json.dumps({
+        "_meta": {"subfamilies": len(subfamily_maps),
+                  "note": "亚科级 1° 网格分布图：由 build_taxonomy_pages.py 合并本亚科各属地图生成"},
+        "subfamilies": subfamily_maps,
+    }, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n"
+    maps_changed = (not SUBFAMILY_MAPS_OUT.is_file()
+                    or SUBFAMILY_MAPS_OUT.read_text(encoding="utf-8") != maps_payload)
+    if maps_changed and write:
+        SUBFAMILY_MAPS_OUT.parent.mkdir(parents=True, exist_ok=True)
+        SUBFAMILY_MAPS_OUT.write_text(maps_payload, encoding="utf-8", newline="\n")
+
     total = len(outputs)
-    n_changed = changed + (1 if data_changed else 0)
+    n_changed = changed + (1 if data_changed else 0) + (1 if maps_changed else 0) + geo_changed
     print("taxonomy hub pages: %d pages (13 family / 18 subfamily / 326 genus), %d stale"
           % (total, stale))
     print("description length %d-%d chars, all unique" % (min(len(d) for d in descs), max(len(d) for d in descs)))
+    print("subfamily maps: %d of 18 subfamilies have merged geometry, %d changed, %d stale"
+          % (len(subfamily_maps), geo_changed, geo_stale))
     print("%s: %d file(s) changed%s" % (DATA_OUT.relative_to(ROOT), n_changed,
                                         "" if write else " (--check: nothing written)"))
-    if not write and (changed or data_changed or stale):
+    if not write and (changed or data_changed or maps_changed or geo_changed or geo_stale or stale):
         sys.exit("generated files are out of date; rerun without --check")
     return 0
 

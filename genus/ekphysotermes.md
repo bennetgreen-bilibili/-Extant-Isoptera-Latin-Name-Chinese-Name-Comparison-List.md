@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/ekphysotermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>瘤突白蚁属 <i>Ekphysotermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 5 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="ekphysotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（5 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="ekphysotermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/termitinae/">白蚁亚科 <i>Termitinae</i></a>，本站收录 5 种。</p>
+<p>模式种：<i>Ekphysotermes kalgoorliensis</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ekphysotermes-jarmuranus/"><i>Ekphysotermes jarmuranus</i> Hill, 1929 贾穆瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-kalgoorliensis/"><i>Ekphysotermes kalgoorliensis</i> Hill, 1942 卡尔古利瘤突白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ekphysotermes-ocellaris/"><i>Ekphysotermes ocellaris</i> Mjöberg, 1920 眼显瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-pelatus/"><i>Ekphysotermes pelatus</i> Hill, 1942 脱皮瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-percomis/"><i>Ekphysotermes percomis</i> Hill, 1942 可爱瘤突白蚁</a></li></ul>
 </section>

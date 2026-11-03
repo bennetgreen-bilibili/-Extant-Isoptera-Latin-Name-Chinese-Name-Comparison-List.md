@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /genus/silvestritermes/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -25,6 +27,23 @@ breadcrumb:
 <h1>西尔韦斯特里白蚁属 <i>Silvestritermes</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 7 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="silvestritermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（7 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="genus" id="silvestritermes" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>属级介绍</h2>
+<p>本属隶属<a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a>下的<a href="{{ site.base_url }}/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a>，本站收录 7 种。</p>
+<p>模式种：<i>Silvestritermes euamignathus</i>。</p>
+<p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
+</section>
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/silvestritermes-almirsateri/"><i>Silvestritermes almirsateri</i> Rocha & Cancello, 2012 阿尔米尔萨特尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-duende/"><i>Silvestritermes duende</i> Rocha & Cancello, 2012 精灵西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-euamignathus/"><i>Silvestritermes euamignathus</i> Silvestri, 1901 真弓颚西尔韦斯特里白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/silvestritermes-gnomus/"><i>Silvestritermes gnomus</i> Constantino, 1991 标记西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-heyeri/"><i>Silvestritermes heyeri</i> Wasmann, 1915 海耶尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-lanei/"><i>Silvestritermes lanei</i> Canter, 1968 莱恩西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-minutus/"><i>Silvestritermes minutus</i> Emerson, 1925 最小西尔韦斯特里白蚁</a></li></ul>
 </section>

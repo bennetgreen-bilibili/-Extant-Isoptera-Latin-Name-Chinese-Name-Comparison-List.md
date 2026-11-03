@@ -9,6 +9,8 @@ family_id: termitidae
 last_modified_at: 2026-10-30
 permalink: /subfamily/sphaerotermitinae/
 sitemap: true
+has_map: true
+taxon_search: true
 breadcrumb:
   - name: "名录"
     url: "/list/"
@@ -23,6 +25,23 @@ breadcrumb:
 <h1>圆球白蚁亚科 <i>Sphaerotermitinae</i></h1>
 <p class="taxon-meta">白蚁科 TERMITIDAE · 1 属 · 1 种</p>
 </header>
+<div class="taxon-search" data-pagefind-ignore data-anchors="sphaerotermitinae,sphaerotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
+<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内检索（1 个种与亚种）：中文名或拉丁学名</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<p class="taxon-search-status" hidden></p>
+<ul class="taxon-search-results" hidden></ul>
+<p class="taxon-search-hint">只检索本亚科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+</div>
+<section class="taxon-section taxon-distribution" data-pagefind-ignore>
+<h2>分布图</h2>
+{% include distribution-map.html mode="subfamily" id="sphaerotermitinae" %}
+</section>
+<section class="taxon-section taxon-intro" data-pagefind-ignore>
+<h2>亚科级介绍</h2>
+<p>圆球白蚁亚科由 Engel 与 Krishna 于 2004 年建立(73)，模式属为圆球白蚁属 Sphaerotermes Holmgren, 1911；亚科名源自模式属名（希腊语 sphaira，“球”），唯一种圆胸圆球白蚁 S. sphaerothorax (Sjöstedt, 1911)的种名亦指其球形的胸部。本名录收录 1 属 1 种。</p>
+<p>本亚科为旧热带界（西非—中非）特有，唯一种的分布涵盖刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚与尼日利亚，野外采样集中于喀麦隆低地雨林。生物学上极为特殊：该种构筑地表冢巢，巢内不培植大白蚁亚科那样的真菌菌圃，而是培育富含细菌的“菌圃”作为食物；巢以黏土与细沙混合构筑，结构致密。形态上，兵蚁头两侧浑圆，囟门小而不显著、位于头面中部；上唇两侧圆、前端具透明尖；左上颚近基部具数枚细齿和一枚钝齿，右上颚内缘光滑无齿；前胸背板远窄于头部，前、侧缘平直而无突起的刺。工蚁右上颚咀嚼板具 6–7 条脊，上唇通体骨化、无大白蚁亚科那样的横列骨化带，后唇基强烈隆起并具中纵线；其 P3（胃）与 P4（结肠）交界处着生显著的后向刚毛，为白蚁中仅有一例。有翅蚁囟门浅色、细小如点。系统发育上，多项分子分析表明本亚科为大白蚁亚科的姊妹群，在高等白蚁早期分化中占据关键位置，对理解高等白蚁食性演化有重要意义。生态上，其冢巢是喀麦隆雨林黑猩猩“钓白蚁”行为的主要利用对象之一(74)。</p>
+<p class="taxon-src">以上文字取自<a href="{{ site.base_url }}/list/#sphaerotermitinae">完整名录</a>的对应章节，参考文献与完整论述见该页。</p>
+</section>
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/sphaerotermes/"><i>Sphaerotermes</i> 圆球白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>
