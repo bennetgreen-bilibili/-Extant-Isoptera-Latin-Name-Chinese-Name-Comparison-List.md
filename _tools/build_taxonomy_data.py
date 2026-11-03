@@ -43,7 +43,8 @@ HEAD_RE = re.compile(r'^<h([2-5]) id="([^"]+)">(.+?)</h[2-5]>\s*$')
 SP_RE = re.compile(r'^(?:\\\*)?\[\*(?P<latin>[^*]+)\* (?P<zh>[^\]]+?)\]\(\{\{ site\.base_url \}\}/species/(?P<slug>[^/]+)/\)\s*$')
 TITLE_RE = re.compile(r'^(\S.*?)\s+([A-Za-z].*)$')
 FM_RE = re.compile(r'^([A-Za-z_][A-Za-z0-9_]*)[ \t]*:[ \t]*(.*)$')
-SKIP_IDS = {'toc', 'references', 'references-doi'}
+# 名录正文中的非分类学标题（导航 / 目录 / 参考文献），不参与分类树解析
+SKIP_IDS = {'toc', 'by-family', 'references', 'references-doi'}
 
 CLADE_PARENT = {
     "isoptera": None,
@@ -531,7 +532,7 @@ def stats_payloads(site: Site, doc, subs, totals):
 
     zh = {
         'title': '统计 — 现存等翅下目（白蚁）各阶元物种数',
-        'description': '现存等翅下目（白蚁）名录的各阶元物种数统计：13 科、18 亚科、%d 属、%d 种、%d 亚种，含科/亚科/属级明细表。' % (G, S, SS),
+        'description': '"按分类阶元统计物种数：13 科、18 亚科、%d 属、%d 种、%d 亚种的概览，以及科级、亚科级、属级明细表，可横向对比不同类群的多样性。｜本站《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》（%s 最终版），全站收录 13 科、18 亚科、%d 属、%d 种、%d 亚种的现生类群。"' % (G, S, SS, site.version, G, S, SS),
         'author': '班奈特格林', 'permalink': '/stats/',
         'h1': '统计：各阶元物种数',
         'overview_h': '总览', 'overview_head': ('阶元', '数量'),
@@ -545,8 +546,8 @@ def stats_payloads(site: Site, doc, subs, totals):
         'genus_head': ('所属', '拉丁名', '中文名', '种数', '亚种数'),
     }
     en = {
-        'title': 'Statistics — Extant Isoptera (Termites) species counts by rank',
-        'description': '"Species-count statistics for the extant Isoptera (termite) checklist: 13 families, 18 subfamilies, %d genera, %d species, %d subspecies, with family/subfamily/genus tables."' % (G, S, SS),
+        'title': 'Statistics — species counts by rank',
+        'description': '"Species counts for the extant Isoptera checklist: 13 families, 18 subfamilies, %d genera, %s species, %d subspecies, with family and genus tables."' % (G, format(S, ','), SS),
         'author': '班奈特格林 (Bennet Green)', 'permalink': '/en/stats/',
         'h1': 'Statistics: species counts by rank',
         'overview_h': 'Overview', 'overview_head': ('Rank', 'Count'),
@@ -560,8 +561,8 @@ def stats_payloads(site: Site, doc, subs, totals):
         'genus_head': ('Parent', 'Latin name', 'Chinese name', 'Species', 'Subspecies'),
     }
     es = {
-        'title': '"Estadísticas — isópteros (termitas) actuales: número de especies por rango"',
-        'description': '"Estadísticas del listado de isópteros (termitas) actuales: 13 familias, 18 subfamilias, %d géneros, %d especies y %d subespecies, con tablas por familia, subfamilia y género."' % (G, S, SS),
+        'title': 'Estadísticas — número de especies por rango',
+        'description': '"Recuento de especies del listado de isópteros actuales: 13 familias, 18 subfamilias, %d géneros, %s especies y %d subespecies, con tablas detalladas."' % (G, format(S, ',').replace(',', '.'), SS),
         'author': '班奈特格林 (Bennet Green)', 'permalink': '/es/stats/',
         'h1': 'Estadísticas: número de especies por rango',
         'overview_h': 'Resumen', 'overview_head': ('Rango', 'Número'),
