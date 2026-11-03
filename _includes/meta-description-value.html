@@ -1,6 +1,6 @@
 {%- comment -%}
   页面 meta description 的取值逻辑（只输出文本，不输出 <meta> 标签）。
-  由 _layouts/default.html 用 {% capture %} 取到 meta_desc 后，同时写给
+  由 _layouts/default.html 用 capture 标签取到 meta_desc 后，同时写给
   <meta name="description">、og:description、twitter:description，保证三处完全一致。
   背景：Bing 站长工具的 SEO 报告会把「描述过短」的页面逐条列出，并建议取 150–160 字；
   统计口径是字符数（Ruby String#length），中英文一致。取值顺序：

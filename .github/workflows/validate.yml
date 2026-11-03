@@ -31,6 +31,12 @@ jobs:
       - name: Structural checks
         run: python _tools/check_site.py --ci
 
+      # Liquid 模板语法闸门：Liquid 4 在解析阶段就会因一个标签语法错让整站构建失败，
+      # 而 comment 块内部的「示例标签」同样会被解析（曾因此红过部署）。
+      # 这一步把同类错误提前到秒级，并直接给出 file:line，不必等 Jekyll 的 Ruby 堆栈。
+      - name: Lint Liquid templates
+        run: python _tools/check_liquid.py
+
       # 外部数据缓存（离线，不联网）：与 pages.yml 部署前的同一组校验。
       # 放在这里是为了让 PR 阶段就能发现脚本问题（例如本次的 Python 3.13-only API），
       # 而不是等到部署时构建 job 才红。

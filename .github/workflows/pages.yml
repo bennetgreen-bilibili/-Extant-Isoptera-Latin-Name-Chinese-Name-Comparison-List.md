@@ -107,6 +107,11 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
+      # Liquid 语法闸门：放在 Jekyll 之前，同一类错误在这里给出 file:line，
+      # 而不是几分钟后的一条 Liquid Exception + Ruby 堆栈。
+      - name: Lint Liquid templates before build
+        run: python _tools/check_liquid.py
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

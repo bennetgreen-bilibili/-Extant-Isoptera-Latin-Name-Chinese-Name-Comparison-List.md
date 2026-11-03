@@ -1,6 +1,6 @@
 {%- comment -%}
   物种页结构化数据：schema.org Taxon + BreadcrumbList（JSON-LD）。
-  与首页的 Dataset JSON-LD（@id 指向 {{ site.base_url }}/#dataset）共同构成实体图：
+  与首页的 Dataset JSON-LD（@id 指向 site.base_url + "/#dataset"）共同构成实体图：
     Taxon --isPartOf--> Dataset；Taxon --sameAs--> GBIF / Catalogue of Life / Wikidata / Blattodea Species File。
   数据来自 front matter + _data/authority_links.json + _data/bsf_links.json；缺失时自动降级。
 {%- endcomment -%}

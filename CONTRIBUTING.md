@@ -40,6 +40,7 @@ python _tools/build_changelog.py --write
 - `_tools/build_taxonomy_data.py`：从 `list.md` + `_species/` 生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；改分类层级、学名或分布后必须重跑，`--check` 可校验。
 - `--no-enrich` 是仓库内的基础版检索索引；部署时 CI 会装 pypinyin / OpenCC 再生成增强版，两者互不冲突。
 - 名录标题有固定格式：分类阶元写成 `<hN id="anchor">中文名 LATIN</hN>`（h2 支系 / h3 科 / h4 亚科 / h5 属）。导航、目录、参考文献这类**非分类学**标题没有拉丁名，它们的锚点 id 统一登记在 `_tools/checklist_headings.py` 的 `NON_TAXON_IDS`；新增此类标题（例如再加一个「按亚科浏览」）必须把 id 加进去，否则 `build_taxonomy_data.py` 与 `build_search_index.py` 会以「无法拆分标题」失败。名单只有这一份，不要在脚本里另抄。
+- 模板（`_layouts/`、`_includes/` 与所有带 front matter 的页面）的 Liquid 语法由 `_tools/check_liquid.py` 检查，CI 在 Jekyll 之前就跑一遍。**Liquid 4 会连 comment 块内部一起解析**：注释里不要直接写标签示例（曾经一个缺变量名的 capture 示例写在注释里，让整站构建在解析期就失败，只留下一条 Ruby 堆栈）。要举例就写成自然语言，或保证参数完整。
 - 改动 `_species` front matter 的 `authority_synonym_*`（「依外部权威库补录的异名」）后，必须按上面的顺序重跑 `build_species_body.py`、`build_search_index.py`、`build_name_issues.py`（看板的「已补录」标记与检索命中都依赖这三步），`check_site.py` 会校验三者一致。
 - 外部 API 缓存类脚本（`build_authority_links.py`、`build_bsf_links.py`、`build_species_photos.py`、`build_references.py`、`build_occurrence_geojson.py`）**只在需要刷新缓存时**手动运行，不要无意义重跑。
 - **刷新缓存后必须重跑 `build_name_issues.py --write` 并与之一起提交**：命名差异看板会把 `_data/authority_links.json` / `_data/bsf_links.json` 的 `meta.generated` 写进 `_data/name_issues.json` 的 `cache_dates`，只提交缓存、不重跑看板，CI 的「生成产物过期」检查会变红（`data/name-issues.json` 是同一内容的公开副本，要一起提交）。
@@ -49,6 +50,7 @@ python _tools/build_changelog.py --write
 ```
 python _tools/check_site.py        # 结构 / 三语同构 / 计数 / sitemap / i18n / 命名差异产物自洽
 python _tools/check_site.py --ci   # 与 CI 相同的严格模式
+python _tools/check_liquid.py      # Liquid 语法（成对标签 / 参数个数 / 定界符；含 comment 内部）
 ```
 
 生成的产物必须一并提交：CI 会重新生成并断言 `git status --porcelain` 为空（见 `.github/workflows/validate.yml`），忘记重跑脚本会直接红。
