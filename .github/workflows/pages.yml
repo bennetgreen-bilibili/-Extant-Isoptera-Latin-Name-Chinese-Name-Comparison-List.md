@@ -9,6 +9,9 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  # 仅用于失败时打印 Pages 部署状态（Dump Pages deployment statuses）。
+  # 显式列 permissions 时其余作用域一律为 none，不写这条会 403。
+  deployments: read
 
 concurrency:
   group: "pages"
@@ -175,10 +178,34 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    # 2026-11-03 事故：Pages 后端把部署卡在 updating_pages，超过 deploy-pages 自带的
+    # timeout（默认 600000 ms = 10 分钟）后被 abort，同一 sha 连续两次 attempt 都是 10 分钟整
+    # 挂死（run 41669679212 attempt 1/2，deployment 7523872615 / 7524597129）。
+    # 把等待窗口放宽到 30 分钟：既给「后端只是慢」留出余量，也能把「慢」和「真卡死」区分开
+    # ——若 30 分钟仍未收敛，就不要再加时长，直接改用 gh-pages 分支发布或找 GitHub Support。
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          timeout: 1800000
+
+      # 失败时把 Pages 部署状态打出来：日志里只会说 "Timeout reached"，而到底卡在哪个
+      # deployment、状态是什么，只能从这里看。continue-on-error 保证它不掩盖真正的失败。
+      - name: Dump Pages deployment statuses (diagnostics)
+        if: failure()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          api="${{ github.api_url }}/repos/${{ github.repository }}/deployments"
+          echo "== recent github-pages deployments"
+          gh api "$api?environment=github-pages&per_page=5" \
+            --jq '.[] | "\(.id) \(.sha[0:8]) \(.created_at)"' || true
+          for id in $(gh api "$api?environment=github-pages&per_page=3" --jq '.[].id'); do
+            echo "== deployment $id"
+            gh api "$api/$id/statuses" --jq '.[] | "\(.state) \(.created_at)"' || true
+          done
 
   # 部署后线上抽检：状态码 200 + 关键内容。任一失败让工作流变红
   # （部署"成功"但页面缺失 / 错版 / 静态产物没上传时，这里会立刻发现）。
