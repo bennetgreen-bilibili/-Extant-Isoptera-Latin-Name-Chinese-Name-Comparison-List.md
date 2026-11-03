@@ -293,7 +293,6 @@ def main():
 
         fam = families.setdefault(fid, {
             "id": fid, "zh": fm["family_zh"].strip(), "latin": fm["family_latin"].strip(),
-            "clade_zh": fm["clade_zh"].strip(), "clade_latin": fm["clade_latin"].strip(),
             "subfamilies": [], "species": 0, "subspecies": 0, "genera": {},
         })
         if is_ssp:
@@ -495,8 +494,8 @@ def main():
 
     def desc_for(rank, fam=None, sub=None, gen=None):
         if rank == "family":
-            core = ("%s（%s）是%s（%s）下的一个科，本站收录 %s。"
-                    % (fam["zh"], fam["latin"], fam["clade_zh"], fam["clade_latin"],
+            core = ("%s（%s）是现存等翅下目（Isoptera）下的一个科，本站收录 %s。"
+                    % (fam["zh"], fam["latin"],
                        count_phrase_full(len(fam["subfamilies"]), len(fam["genera"]),
                                          fam["species"], fam["subspecies"])))
             pool = [
@@ -697,8 +696,8 @@ def main():
     outputs = {}
     for fid in sorted(families):
         fam = families[fid]
-        parent = {"@type": "Taxon", "name": fam["clade_zh"], "alternateName": [fam["clade_latin"]],
-                  "taxonRank": "Clade"}
+        parent = {"@type": "Taxon", "name": "Isoptera", "alternateName": ["现存等翅下目"],
+                  "taxonRank": "Infraorder"}
         sections = []
         if fam["subfamilies"]:
             items = []
@@ -715,7 +714,7 @@ def main():
             + crumb_nav("family", fam=fam) + "\n"
             + '<header class="taxon-header">\n'
             + '<h1>%s <i>%s</i></h1>\n' % (fam["zh"], display_latin(fam["latin"]))
-            + '<p class="taxon-meta">%s · %s</p>\n' % (fam["clade_zh"] + " " + fam["clade_latin"], stats_line(fam=fam))
+            + '<p class="taxon-meta">%s</p>\n' % stats_line(fam=fam)
             + "</header>\n"
             + search_box("科", [fid] + fam["subfamilies"] + fam["genera"],
                          fam["species"] + fam["subspecies"])

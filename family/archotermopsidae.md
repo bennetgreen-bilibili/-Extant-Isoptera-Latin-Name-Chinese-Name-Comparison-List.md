@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "古白蚁科 ARCHOTERMOPSIDAE 分类名录"
-description: "古白蚁科（ARCHOTERMOPSIDAE）是远等翅类（Teletisoptera）下的一个科，本站收录 2 个属、5 个种、2 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。科的形态特征、分布格局与经济意义见本页上文。详见名录索引。按分类系统逐级排列。数据来自 CC BY 4.0 数据集。"
+description: "古白蚁科（ARCHOTERMOPSIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 2 个属、5 个种、2 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -23,7 +23,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/archotermopsidae/">古白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>古白蚁科 <i>Archotermopsidae</i></h1>
-<p class="taxon-meta">远等翅类 Teletisoptera · 2 属 · 5 种、2 亚种</p>
+<p class="taxon-meta">2 属 · 5 种、2 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="archotermopsidae,archotermopsis,zootermopsis" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（7 个种与亚种）：中文名或拉丁学名</label>
@@ -81,11 +81,11 @@ breadcrumb:
  "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
  "parentTaxon": {
   "@type": "Taxon",
-  "name": "远等翅类",
+  "name": "Isoptera",
   "alternateName": [
-   "Teletisoptera"
+   "现存等翅下目"
   ],
-  "taxonRank": "Clade"
+  "taxonRank": "Infraorder"
  }
 }
 </script>

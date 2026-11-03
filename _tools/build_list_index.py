@@ -43,8 +43,16 @@ SECTIONS_EN = ROOT / "en" / "list" / "sections.md"
 SECTIONS_ES = ROOT / "es" / "list" / "sections.md"
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.S)
-# 支系之间的从属关系在页面上靠标题顺序隐含，这里显式记下「本支系下分哪些支系」。
-CLADE_CHILDREN = {"euisoptera": ["teletisoptera", "icoisoptera"]}
+# 支系的从属关系（与 .github/workflows/build_taxonomy_data.py 的 CLADE_PARENT 一致）：
+# 新等翅类属于近等翅类，土栖等翅类属于新等翅类，页面上按这一层级嵌套显示。
+CLADE_PARENT = {
+    "isoptera": None,
+    "euisoptera": "isoptera",
+    "teletisoptera": "euisoptera",
+    "icoisoptera": "euisoptera",
+    "neoisoptera": "icoisoptera",
+    "geoisoptera": "neoisoptera",
+}
 
 FRONT_MATTER = {
     "zh": """---
@@ -172,7 +180,7 @@ def front_matter(text: str) -> dict:
 
 
 def count_species():
-    """按 front matter 统计：family -> {genus, species, subspecies}、genus -> {species, subspecies}。"""
+    """按 front matter 统计：family -> {genera: set, species, subspecies}、genus -> {species, subspecies}。"""
     families = {}
     genera = {}
     for path in sorted(SPECIES_DIR.glob("*.md")):
@@ -186,19 +194,24 @@ def count_species():
             continue
         bucket = genera.setdefault(genus, {"species": 0, "subspecies": 0})
         bucket["species" if rank == "species" else "subspecies"] += 1
-        fam = families.setdefault(family, {"genus": 0, "species": 0, "subspecies": 0})
+        fam = families.setdefault(family, {"genera": set(), "species": 0, "subspecies": 0})
+        fam["genera"].add(genus)
         fam["species" if rank == "species" else "subspecies"] += 1
     return families, genera
 
 
 def build_page_links(taxonomy):
-    """家族计数从 taxonomy 取属数，从 _species 取种/亚种数。"""
+    """科的属数取 _species 里实际出现的 genus_id。
+
+    白蚁科的属挂在亚科之下，_data/taxonomy.json 中该科的 "genera" 是空列表，
+    用 len(entry["genera"]) 会得到 0 属；按属页的实际来源统计才与科页、属页一致。
+    """
     families_by_id = {entry["id"]: entry for entry in taxonomy["families"]}
     species_counts, _ = count_species()
     for family_id, entry in families_by_id.items():
-        counts = species_counts.get(family_id) or {"species": 0, "subspecies": 0}
+        counts = species_counts.get(family_id) or {"genera": set(), "species": 0, "subspecies": 0}
         entry["counts"] = {
-            "genus": len(entry["genera"]),
+            "genus": len(counts["genera"]),
             "species": counts["species"],
             "subspecies": counts["subspecies"],
         }
@@ -215,61 +228,120 @@ def fmt_counts(language: str, counts, keys):
     return " · ".join(parts)
 
 
-def clade_index(language: str, taxonomy, families_by_id):
+CLADE_TOTALS_PREFIX = {"zh": "共 ", "en": "", "es": ""}
+CLADE_TOTALS_SUFFIX = {
+    "zh": "（含下分支系）",
+    "en": " in total (including subordinate clades)",
+    "es": " en total (incluidos los clados subordinados)",
+}
+CLADE_CHILD_JOIN = {"zh": "、", "en": " and ", "es": " y "}
+CLADE_SENTENCE = {
+    "zh": {"only": "本支系不含直接归属的科，下分 %s（见下文）。",
+           "with": "下分 %s（见下文）。直接归入本支系的科如下："},
+    "en": {"only": "This clade holds no families of its own; it is divided into %s (below).",
+           "with": "It is divided into %s (below). The families placed directly in it are "
+                   "listed below:"},
+    "es": {"only": "Este clado no contiene familias propias; se divide en %s (abajo).",
+           "with": "Se divide en %s (abajo). Las familias asignadas directamente a él se "
+                   "listan a continuación:"},
+}
+
+
+def clade_order(taxonomy):
+    """返回 (clade_by_id, children, roots)；子支系的顺序沿用 taxonomy 的文档顺序。"""
     clade_by_id = {entry["id"]: entry for entry in taxonomy["clades"]}
-    order = [entry["id"] for entry in taxonomy["clades"]]
-    chunks = []
-    for clade_id in order:
-        clade = clade_by_id[clade_id]
-        heading = "%s %s" % (clade["zh"], clade["latin"]) if language == "zh" else clade["latin"]
-        members = [families_by_id[family_id] for family_id in clade["families"]
-                   if family_id in families_by_id]
-        totals = {"family": len(members), "subfamily": 0, "genus": 0, "species": 0,
-                  "subspecies": 0}
-        for member in members:
-            totals["subfamily"] += len(member["subfamilies"])
-            totals["genus"] += member["counts"]["genus"]
-            totals["species"] += member["counts"]["species"]
-            totals["subspecies"] += member["counts"]["subspecies"]
-        body = ["<h2 id=\"%s\">%s</h2>" % (clade_id, html.escape(heading))]
-        if members:
-            body.append("")
-            body.append("<p>%s</p>" % fmt_counts(
-                language, totals, ("family", "subfamily", "genus", "species", "subspecies")))
-            body.append("")
-            body.append('<ul class="taxon-list">')
-            for member in members:
-                if language == "zh":
-                    label = "%s <i>%s</i>" % (member["zh"], member["latin"])
-                else:
-                    label = "<i>%s</i> %s" % (member["latin"], member["zh"])
-                count_text = fmt_counts(language, member["counts"], ("genus", "species", "subspecies"))
-                body.append('<li><a href="{{ site.base_url }}/family/%s/">%s</a> '
-                            '<span class="taxon-count">%s</span></li>'
-                            % (member["id"], label, count_text))
-            body.append("</ul>")
+    children = {clade_id: [] for clade_id in clade_by_id}
+    roots = []
+    for entry in taxonomy["clades"]:
+        clade_id = entry["id"]
+        if clade_id not in CLADE_PARENT:
+            sys.exit("error: 支系 %s 未在 CLADE_PARENT 中登记上级支系" % clade_id)
+        parent = CLADE_PARENT[clade_id]
+        if parent is None:
+            roots.append(clade_id)
+        elif parent in children:
+            children[parent].append(clade_id)
         else:
-            children = CLADE_CHILDREN.get(clade_id) or []
-            links = ["<a href=\"#%s\">%s %s</a>" % (child, clade_by_id[child]["zh"],
-                                                    clade_by_id[child]["latin"])
-                     for child in children if child in clade_by_id]
-            if links:
-                if language == "zh":
-                    sentence = "本支系不含直接归属的科，下分 %s 两支（见下文）。" % "、".join(links)
-                elif language == "en":
-                    sentence = ("This clade holds no families of its own; it is divided into "
-                                "%s (below)." % " and ".join(links))
-                else:
-                    sentence = ("Este clado no contiene familias propias; se divide en "
-                                "%s (abajo)." % " y ".join(links))
+            sys.exit("error: 支系 %s 的上级支系 %s 不存在" % (clade_id, parent))
+    return clade_by_id, children, roots
+
+
+def clade_totals(clade_id, clade_by_id, children, families_by_id, cache):
+    """本支系与下分各支系的合计（科 / 亚科 / 属 / 种 / 亚种）。"""
+    if clade_id in cache:
+        return cache[clade_id]
+    totals = {"family": 0, "subfamily": 0, "genus": 0, "species": 0, "subspecies": 0}
+    for family_id in clade_by_id[clade_id]["families"]:
+        member = families_by_id.get(family_id)
+        if not member:
+            continue
+        totals["family"] += 1
+        totals["subfamily"] += len(member["subfamilies"])
+        for key in ("genus", "species", "subspecies"):
+            totals[key] += member["counts"][key]
+    for child_id in children[clade_id]:
+        child = clade_totals(child_id, clade_by_id, children, families_by_id, cache)
+        for key in totals:
+            totals[key] += child[key]
+    cache[clade_id] = totals
+    return totals
+
+
+def clade_heading(language: str, clade) -> str:
+    return "%s %s" % (clade["zh"], clade["latin"]) if language == "zh" else clade["latin"]
+
+
+def clade_link(language: str, clade_id, clade_by_id) -> str:
+    heading = clade_heading(language, clade_by_id[clade_id])
+    return '<a href="#%s">%s</a>' % (clade_id, html.escape(heading))
+
+
+def clade_section(language, clade_id, depth, clade_by_id, children, families_by_id, cache):
+    """一个支系一节：标题层级按嵌套深度递进（h2 → h6），计数含下分各支系。"""
+    clade = clade_by_id[clade_id]
+    level = min(depth + 1, 6)
+    heading = html.escape(clade_heading(language, clade))
+    lines = ['<h%d id="%s" class="clade-h clade-lvl-%d">%s</h%d>'
+             % (level, clade_id, depth, heading, level), ""]
+    totals = clade_totals(clade_id, clade_by_id, children, families_by_id, cache)
+    count_text = CLADE_TOTALS_PREFIX[language] + fmt_counts(
+        language, totals, ("family", "subfamily", "genus", "species", "subspecies"))
+    if children[clade_id]:
+        count_text += CLADE_TOTALS_SUFFIX[language]
+    lines.append('<p class="clade-count clade-lvl-%d">%s</p>' % (depth, count_text))
+    members = [families_by_id[family_id] for family_id in clade["families"]
+               if family_id in families_by_id]
+    kids = children[clade_id]
+    if kids:
+        links = CLADE_CHILD_JOIN[language].join(
+            clade_link(language, kid, clade_by_id) for kid in kids)
+        sentence = CLADE_SENTENCE[language]["with" if members else "only"] % links
+        lines.append('<p class="clade-sub clade-lvl-%d">%s</p>' % (depth, sentence))
+    if members:
+        lines.append("")
+        lines.append('<ul class="taxon-list clade-lvl-%d">' % depth)
+        for member in members:
+            if language == "zh":
+                label = "%s <i>%s</i>" % (member["zh"], member["latin"])
             else:
-                sentence = {"zh": "本支系不含直接归属的科。",
-                            "en": "This clade holds no families of its own.",
-                            "es": "Este clado no contiene familias propias."}[language]
-            body.append("")
-            body.append("<p>%s</p>" % sentence)
-        chunks.append("\n".join(body))
-    return "\n\n".join(chunks)
+                label = "<i>%s</i> %s" % (member["latin"], member["zh"])
+            count_line = fmt_counts(language, member["counts"], ("genus", "species", "subspecies"))
+            lines.append('<li><a href="{{ site.base_url }}/family/%s/">%s</a> '
+                         '<span class="taxon-count">%s</span></li>'
+                         % (member["id"], label, count_line))
+        lines.append("</ul>")
+    for kid in kids:
+        lines.append("")
+        lines.append(clade_section(language, kid, depth + 1, clade_by_id, children,
+                                   families_by_id, cache))
+    return "\n".join(lines)
+
+
+def clade_index(language: str, taxonomy, families_by_id):
+    clade_by_id, children, roots = clade_order(taxonomy)
+    cache = {}
+    return "\n\n".join(clade_section(language, root, 1, clade_by_id, children,
+                                     families_by_id, cache) for root in roots)
 
 
 def sections_page(language: str, taxonomy, prose):

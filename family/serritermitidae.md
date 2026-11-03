@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "齿白蚁科 SERRITERMITIDAE 分类名录"
-description: "齿白蚁科（SERRITERMITIDAE）是新等翅类（Neoisoptera）下的一个科，本站收录 2 个属、3 个种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
+description: "齿白蚁科（SERRITERMITIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 2 个属、3 个种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -21,7 +21,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/serritermitidae/">齿白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>齿白蚁科 <i>Serritermitidae</i></h1>
-<p class="taxon-meta">新等翅类 Neoisoptera · 2 属 · 3 种</p>
+<p class="taxon-meta">2 属 · 3 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="serritermitidae,glossotermes,serritermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（3 个种与亚种）：中文名或拉丁学名</label>
@@ -71,11 +71,11 @@ breadcrumb:
  "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
  "parentTaxon": {
   "@type": "Taxon",
-  "name": "新等翅类",
+  "name": "Isoptera",
   "alternateName": [
-   "Neoisoptera"
+   "现存等翅下目"
   ],
-  "taxonRank": "Clade"
+  "taxonRank": "Infraorder"
  }
 }
 </script>

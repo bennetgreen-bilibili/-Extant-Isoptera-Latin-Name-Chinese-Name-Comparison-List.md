@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "木白蚁科 KALOTERMITIDAE 分类名录"
-description: "木白蚁科（KALOTERMITIDAE）是近等翅类（Icoisoptera）下的一个科，本站收录 23 个属、480 个种、4 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
+description: "木白蚁科（KALOTERMITIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 23 个属、480 个种、4 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -23,7 +23,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/kalotermitidae/">木白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>木白蚁科 <i>Kalotermitidae</i></h1>
-<p class="taxon-meta">近等翅类 Icoisoptera · 23 属 · 480 种、4 亚种</p>
+<p class="taxon-meta">23 属 · 480 种、4 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="kalotermitidae,allotermes,bicornitermes,bifiditermes,calcaritermes,ceratokalotermes,comatermes,cryptotermes,epicalotermes,eucryptotermes,glyptotermes,incisitermes,kalotermes,longicaputermes,marginitermes,neotermes,paraneotermes,postelectrotermes,procryptotermes,proneotermes,pterotermes,roisinitermes,rugitermes,tauritermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（484 个种与亚种）：中文名或拉丁学名</label>
@@ -81,11 +81,11 @@ breadcrumb:
  "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
  "parentTaxon": {
   "@type": "Taxon",
-  "name": "近等翅类",
+  "name": "Isoptera",
   "alternateName": [
-   "Icoisoptera"
+   "现存等翅下目"
   ],
-  "taxonRank": "Clade"
+  "taxonRank": "Infraorder"
  }
 }
 </script>

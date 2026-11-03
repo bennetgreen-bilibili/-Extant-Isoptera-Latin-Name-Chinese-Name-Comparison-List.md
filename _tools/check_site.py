@@ -104,7 +104,7 @@ CHANGELOG_VERSION_RE = re.compile(r"^\d{4}\.\d{2}\.\d{2}$")
 JSONFEED_VERSION = "https://jsonfeed.org/version/1.1"
 
 REQUIRED_FIELDS = ("latin", "zh", "rank", "family_zh", "family_latin", "family_id", "genus_id")
-HEADING_RE = re.compile(r'<h([2-5]) id="([^"]+)">')
+HEADING_RE = re.compile(r'<h([2-6]) id="([^"]+)"')
 SPECIES_LINK_RE = re.compile(r"\{\{ site\.base_url \}\}/species/([^/\s\"]+)/")
 ANCHOR_RE = re.compile(r"\]\(#([^)\s]+)\)")
 HREF_ANCHOR_RE = re.compile(r'href="#([^"\s]+)"')

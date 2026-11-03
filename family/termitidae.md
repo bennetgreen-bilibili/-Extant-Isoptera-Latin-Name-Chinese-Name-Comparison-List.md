@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "白蚁科 TERMITIDAE 分类名录"
-description: "白蚁科（TERMITIDAE）是土栖等翅类（Geoisoptera）下的一个科，本站收录 18 个亚科、280 个属、2144 个种、54 个亚种。本页按分类系统列出该科的全部亚科与属，并汇总各级物种数量。科的形态特征、分布格局与经济意义见本页上文。详见名录索引。按分类系统逐级排列。并附中文正名与引用格式。"
+description: "白蚁科（TERMITIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 18 个亚科、280 个属、2144 个种、54 个亚种。本页按分类系统列出该科的全部亚科与属，并汇总各级物种数量。科的形态特征、分布格局与经济意义见本页上文。详见名录索引。按分类系统逐级排列。数据来自 CC BY 4.0 数据集。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -22,7 +22,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>白蚁科 <i>Termitidae</i></h1>
-<p class="taxon-meta">土栖等翅类 Geoisoptera · 18 亚科 · 280 属 · 2144 种、54 亚种</p>
+<p class="taxon-meta">18 亚科 · 280 属 · 2144 种、54 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="termitidae,amitermitinae,apicotermitinae,crepititermitinae,cubitermitinae,cylindrotermitinae,engelitermitinae,foraminitermitinae,forficulitermitinae,macrotermitinae,microcerotermitinae,mirocapritermitinae,nasutitermitinae,neocapritermitinae,promirotermitinae,protohamitermitinae,sphaerotermitinae,syntermitinae,termitinae,acangaobitermes,acanthotermes,acholotermes,aciculitermes,acidnotermes,acutidentitermes,adaiphrotermes,aderitotermes,adynatotermes,afrosubulitermes,aganotermes,agnathotermes,ahamitermes,ahmaditermes,allodontermes,allognathotermes,alyscotermes,amalotermes,amicotermes,amitermes,amplucrutermes,ampoulitermes,anaorotermes,ancistrotermes,anenteotermes,angularitermes,angulitermes,anhangatermes,anoplotermes,antillitermes,apagotermes,aparatermes,apicotermes,apilitermes,apolemotermes,apsenterotermes,araujotermes,arcotermes,armitermes,asagarotermes,astalotermes,astratotermes,ateuchotermes,atlantitermes,australitermes,bandeiratermes,basidentitermes,batillitermes,baucaliotermes,biratermes,bulbitermes,caetetermes,cahuallitermes,capritermes,caputitermes,caribitermes,cavitermes,cephalotermes,ceylonitermellus,ceylonitermes,chasitermes,coarctotermes,coatitermes,coendutermes,compositermes,constrictotermes,convexitermes,cornicapritermes,cornitermes,cortaritermes,coxotermes,crenetermes,crepititermes,cristatitermes,cubitermes,cucurbitermes,curvitermes,cylindrotermes,cyranotermes,cyrilliotermes,dentispicotermes,dicuspiditermes,dihoplotermes,disjunctitermes,dissimulitermes,diversitermes,divinotermes,diwaitermes,drepanotermes,duplidentitermes,ebogotermes,eburnitermes,echinotermes,ekphysotermes,ekueitermes,eleanoritermes,embiratermes,emersonitermes,enetotermes,engelitermes,ephelotermes,eremotermes,ereymatermes,euchilotermes,euhamitermes,eurytermes,euscaiotermes,eutermellus,fastigitermes,firmitermes,foraminitermes,forficulitermes,fulleritermes,furculitermes,gastrotermes,genuotermes,globitermes,gnathamitermes,grallatotermes,grigiotermes,hapsidotermes,heimitermes,hesperotermes,hirsutitermes,hirtitermes,homallotermes,hoplognathotermes,hoplotermes,hospitalitermes,humutermes,hydrecotermes,hyleotermes,hypotermes,ibitermes,incolitermes,indocapritermes,indotermes,inquilinitermes,invasitermes,isognathotermes,jugositermes,kaudernitermes,kemneritermes,koutabatermes,krecekitermes,krishnacapritermes,labidotermes,labiocapritermes,labiotermes,labritermes,lacessititermes,lepidotermes,leptomyxotermes,leucopitermes,longipeditermes,longustitermes,lophotermes,machadotermes,macrognathotermes,macrosubulitermes,macrotermes,macuxitermes,malagasitermes,malaysiotermes,mangolditermes,mapinguaritermes,megagnathotermes,megaprotermes,microcerotermes,microtermes,mimeutermes,mirocapritermes,mucrotermes,muelleritermes,mycterotermes,nasopilotermes,nasutitermes,neocapritermes,ngauratermes,nitiditermes,niuginitermes,noditermes,noirotitermes,obtusitermes,occasitermes,occultitermes,odontotermes,okavangotermes,onkotermes,ophiotermes,oriencapritermes,oriensubulitermes,orientotermes,orthognathotermes,orthotermes,ourissotermes,ovambotermes,palmitermes,paracapritermes,paraconvexitermes,paracurvitermes,parvitermes,patawatermes,periaciculitermes,pericapritermes,phoxotermes,pilotermes,planicapritermes,polyspathotermes,postsubulitermes,proboscitermes,procapritermes,procornitermes,procubitermes,profastigitermes,prohamitermes,promirotermes,protermes,protocapritermes,protohamitermes,pseudacanthotermes,pseudhamitermes,pseudocapritermes,pseudomicrotermes,quasitermes,rhadinotermes,rhynchotermes,rinacapritermes,roonwalitermes,rostrotermes,rotunditermes,rounditermes,rubeotermes,ruptitermes,rustitermes,sabahitermes,sandsitermes,saxatilitermes,scheffrahnitermes,schievitermes,silvestritermes,sinocapritermes,sinonasutitermes,sinqasapatermes,skatitermes,spatulitermes,speculitermes,sphaerotermes,spinitermes,spiralitermes,subulioiditermes,subulitermes,synacanthotermes,syncapritermes,synhamitermes,syntermes,tarditermes,tenuirostritermes,termes,ternicubitermes,tetimatermes,thoracotermes,tiunatermes,tonsuritermes,trapellitermes,triangularitermes,trichotermes,triclavitermes,trinervitermes,tuberculitermes,tucupitermes,tumulitermes,uncitermes,unguitermes,unicornitermes,vaninitermes,velocitermes,verrucositermes,xiaitermes,xylochomitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（2198 个种与亚种）：中文名或拉丁学名</label>
@@ -79,11 +79,11 @@ breadcrumb:
  "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
  "parentTaxon": {
   "@type": "Taxon",
-  "name": "土栖等翅类",
+  "name": "Isoptera",
   "alternateName": [
-   "Geoisoptera"
+   "现存等翅下目"
   ],
-  "taxonRank": "Clade"
+  "taxonRank": "Infraorder"
  }
 }
 </script>

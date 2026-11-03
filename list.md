@@ -28,6 +28,8 @@ permalink: /list/
 
 其下依次为 **科 Family** → **亚科 Subfamily** → **属 Genus** → **种 Species**；各科、亚科、属、种详见下方名录。
 
+科之上另有若干未定阶元的支系，彼此嵌套：真等翅类（Euisoptera）下分远等翅类（Teletisoptera）与近等翅类（Icoisoptera），近等翅类下分新等翅类（Neoisoptera），新等翅类再下分土栖等翅类（Geoisoptera）；下方各节按这一层级逐级缩进列出。
+
 <div class="search-wrap">
   <input type="search" id="search-input" class="search-input" placeholder="搜索中文名、拉丁学名、次异名，支持拼音与繁体（如：Mastotermes、达尔文澳白蚁、baiyi、白蟻、象白蚁亚科）" autocomplete="off" aria-label="搜索名录">
   <ul id="search-results" class="search-results" style="display:none"></ul>
@@ -61,42 +63,46 @@ permalink: /list/
 
 <p class="list-note">本页只是分类索引：分类框架、按科浏览与参考文献在这里，每一科、亚科、属的形态、生物学与分布记述都在各自页面上，物种条目（拉丁学名、中文正名、命名人与年份、模式产地、分布）也在科页、亚科页或属页逐条列出。</p>
 
-<h2 id="isoptera">现存等翅下目 Extant Isoptera</h2>
+<h2 id="isoptera" class="clade-h clade-lvl-1">现存等翅下目 Extant Isoptera</h2>
 
-<p>1 科 · 1 属 · 1 种</p>
+<p class="clade-count clade-lvl-1">共 13 科 · 18 亚科 · 326 属 · 3021 种 · 68 亚种（含下分支系）</p>
+<p class="clade-sub clade-lvl-1">下分 <a href="#euisoptera">真等翅类 Euisoptera</a>（见下文）。直接归入本支系的科如下：</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-1">
 <li><a href="{{ site.base_url }}/family/mastotermitidae/">澳白蚁科 <i>MASTOTERMITIDAE</i></a> <span class="taxon-count">1 属 · 1 种</span></li>
 </ul>
 
-<h2 id="euisoptera">真等翅类 Euisoptera</h2>
+<h3 id="euisoptera" class="clade-h clade-lvl-2">真等翅类 Euisoptera</h3>
 
-<p>本支系不含直接归属的科，下分 <a href="#teletisoptera">远等翅类 Teletisoptera</a>、<a href="#icoisoptera">近等翅类 Icoisoptera</a> 两支（见下文）。</p>
+<p class="clade-count clade-lvl-2">共 12 科 · 18 亚科 · 325 属 · 3020 种 · 68 亚种（含下分支系）</p>
+<p class="clade-sub clade-lvl-2">本支系不含直接归属的科，下分 <a href="#teletisoptera">远等翅类 Teletisoptera</a>、<a href="#icoisoptera">近等翅类 Icoisoptera</a>（见下文）。</p>
 
-<h2 id="teletisoptera">远等翅类 Teletisoptera</h2>
+<h4 id="teletisoptera" class="clade-h clade-lvl-3">远等翅类 Teletisoptera</h4>
 
-<p>4 科 · 8 属 · 37 种 · 2 亚种</p>
+<p class="clade-count clade-lvl-3">共 4 科 · 8 属 · 37 种 · 2 亚种</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-3">
 <li><a href="{{ site.base_url }}/family/archotermopsidae/">古白蚁科 <i>ARCHOTERMOPSIDAE</i></a> <span class="taxon-count">2 属 · 5 种 · 2 亚种</span></li>
 <li><a href="{{ site.base_url }}/family/hodotermitidae/">草白蚁科 <i>HODOTERMITIDAE</i></a> <span class="taxon-count">3 属 · 21 种</span></li>
 <li><a href="{{ site.base_url }}/family/hodotermopsidae/">原白蚁科 <i>HODOTERMOPSIDAE</i></a> <span class="taxon-count">1 属 · 1 种</span></li>
 <li><a href="{{ site.base_url }}/family/stolotermitidae/">胄白蚁科 <i>STOLOTERMITIDAE</i></a> <span class="taxon-count">2 属 · 10 种</span></li>
 </ul>
 
-<h2 id="icoisoptera">近等翅类 Icoisoptera</h2>
+<h4 id="icoisoptera" class="clade-h clade-lvl-3">近等翅类 Icoisoptera</h4>
 
-<p>1 科 · 23 属 · 480 种 · 4 亚种</p>
+<p class="clade-count clade-lvl-3">共 8 科 · 18 亚科 · 317 属 · 2983 种 · 66 亚种（含下分支系）</p>
+<p class="clade-sub clade-lvl-3">下分 <a href="#neoisoptera">新等翅类 Neoisoptera</a>（见下文）。直接归入本支系的科如下：</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-3">
 <li><a href="{{ site.base_url }}/family/kalotermitidae/">木白蚁科 <i>KALOTERMITIDAE</i></a> <span class="taxon-count">23 属 · 480 种 · 4 亚种</span></li>
 </ul>
 
-<h2 id="neoisoptera">新等翅类 Neoisoptera</h2>
+<h5 id="neoisoptera" class="clade-h clade-lvl-4">新等翅类 Neoisoptera</h5>
 
-<p>5 科 · 11 属 · 130 种</p>
+<p class="clade-count clade-lvl-4">共 7 科 · 18 亚科 · 294 属 · 2503 种 · 62 亚种（含下分支系）</p>
+<p class="clade-sub clade-lvl-4">下分 <a href="#geoisoptera">土栖等翅类 Geoisoptera</a>（见下文）。直接归入本支系的科如下：</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-4">
 <li><a href="{{ site.base_url }}/family/psammotermitidae/">沙白蚁科 <i>PSAMMOTERMITIDAE</i></a> <span class="taxon-count">2 属 · 18 种</span></li>
 <li><a href="{{ site.base_url }}/family/rhinotermitidae/">鼻白蚁科 <i>RHINOTERMITIDAE</i></a> <span class="taxon-count">5 属 · 62 种</span></li>
 <li><a href="{{ site.base_url }}/family/serritermitidae/">齿白蚁科 <i>SERRITERMITIDAE</i></a> <span class="taxon-count">2 属 · 3 种</span></li>
@@ -104,13 +110,13 @@ permalink: /list/
 <li><a href="{{ site.base_url }}/family/termitogetonidae/">寡脉白蚁科 <i>TERMITOGETONIDAE</i></a> <span class="taxon-count">1 属 · 2 种</span></li>
 </ul>
 
-<h2 id="geoisoptera">土栖等翅类 Geoisoptera</h2>
+<h6 id="geoisoptera" class="clade-h clade-lvl-5">土栖等翅类 Geoisoptera</h6>
 
-<p>2 科 · 18 亚科 · 3 属 · 2373 种 · 62 亚种</p>
+<p class="clade-count clade-lvl-5">共 2 科 · 18 亚科 · 283 属 · 2373 种 · 62 亚种</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-5">
 <li><a href="{{ site.base_url }}/family/heterotermitidae/">异白蚁科 <i>HETEROTERMITIDAE</i></a> <span class="taxon-count">3 属 · 229 种 · 8 亚种</span></li>
-<li><a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>TERMITIDAE</i></a> <span class="taxon-count">2144 种 · 54 亚种</span></li>
+<li><a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>TERMITIDAE</i></a> <span class="taxon-count">280 属 · 2144 种 · 54 亚种</span></li>
 </ul>
 
 {%- assign fk = site.data.fauna_keys["/list/"] -%}{%- if fk %}{% include fauna-keys.html fk=fk %}{%- endif %}

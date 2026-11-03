@@ -28,6 +28,8 @@ All taxa in this list belong to a single taxonomic framework, from top to bottom
 
 Below follow **Family** → **Subfamily** → **Genus** → **Species**; the families, subfamilies, genera and species are listed below.
 
+Above family level sit several unranked clades, nested one within another: Euisoptera is divided into Teletisoptera and Icoisoptera, Icoisoptera into Neoisoptera, and Neoisoptera into Geoisoptera; the sections below follow that nesting, indented by level.
+
 <div class="search-wrap">
   <input type="search" id="search-input" class="search-input" placeholder="Search scientific name, Chinese name, junior synonym, pinyin or traditional Chinese (e.g., Mastotermes, baiyi, 白蟻)" autocomplete="off" aria-label="Search the checklist" data-lang="en" data-list-url="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/" data-empty="No results found">
   <ul id="search-results" class="search-results" style="display:none"></ul>
@@ -61,42 +63,46 @@ Below follow **Family** → **Subfamily** → **Genus** → **Species**; the fam
 
 <p class="list-note">This page is an index only: the taxonomic framework, the family browser and the references live here, while each family, subfamily and genus page carries its own morphology, biology and distribution text plus the species entries (scientific name, Chinese name, author and year, type locality, distribution).</p>
 
-<h2 id="isoptera">Extant Isoptera</h2>
+<h2 id="isoptera" class="clade-h clade-lvl-1">Extant Isoptera</h2>
 
-<p>1 family · 1 genus · 1 species</p>
+<p class="clade-count clade-lvl-1">13 family · 18 subfamily · 326 genus · 3021 species · 68 subspecies in total (including subordinate clades)</p>
+<p class="clade-sub clade-lvl-1">It is divided into <a href="#euisoptera">Euisoptera</a> (below). The families placed directly in it are listed below:</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-1">
 <li><a href="{{ site.base_url }}/family/mastotermitidae/"><i>MASTOTERMITIDAE</i> 澳白蚁科</a> <span class="taxon-count">1 genus · 1 species</span></li>
 </ul>
 
-<h2 id="euisoptera">Euisoptera</h2>
+<h3 id="euisoptera" class="clade-h clade-lvl-2">Euisoptera</h3>
 
-<p>This clade holds no families of its own; it is divided into <a href="#teletisoptera">远等翅类 Teletisoptera</a> and <a href="#icoisoptera">近等翅类 Icoisoptera</a> (below).</p>
+<p class="clade-count clade-lvl-2">12 family · 18 subfamily · 325 genus · 3020 species · 68 subspecies in total (including subordinate clades)</p>
+<p class="clade-sub clade-lvl-2">This clade holds no families of its own; it is divided into <a href="#teletisoptera">Teletisoptera</a> and <a href="#icoisoptera">Icoisoptera</a> (below).</p>
 
-<h2 id="teletisoptera">Teletisoptera</h2>
+<h4 id="teletisoptera" class="clade-h clade-lvl-3">Teletisoptera</h4>
 
-<p>4 family · 8 genus · 37 species · 2 subspecies</p>
+<p class="clade-count clade-lvl-3">4 family · 8 genus · 37 species · 2 subspecies</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-3">
 <li><a href="{{ site.base_url }}/family/archotermopsidae/"><i>ARCHOTERMOPSIDAE</i> 古白蚁科</a> <span class="taxon-count">2 genus · 5 species · 2 subspecies</span></li>
 <li><a href="{{ site.base_url }}/family/hodotermitidae/"><i>HODOTERMITIDAE</i> 草白蚁科</a> <span class="taxon-count">3 genus · 21 species</span></li>
 <li><a href="{{ site.base_url }}/family/hodotermopsidae/"><i>HODOTERMOPSIDAE</i> 原白蚁科</a> <span class="taxon-count">1 genus · 1 species</span></li>
 <li><a href="{{ site.base_url }}/family/stolotermitidae/"><i>STOLOTERMITIDAE</i> 胄白蚁科</a> <span class="taxon-count">2 genus · 10 species</span></li>
 </ul>
 
-<h2 id="icoisoptera">Icoisoptera</h2>
+<h4 id="icoisoptera" class="clade-h clade-lvl-3">Icoisoptera</h4>
 
-<p>1 family · 23 genus · 480 species · 4 subspecies</p>
+<p class="clade-count clade-lvl-3">8 family · 18 subfamily · 317 genus · 2983 species · 66 subspecies in total (including subordinate clades)</p>
+<p class="clade-sub clade-lvl-3">It is divided into <a href="#neoisoptera">Neoisoptera</a> (below). The families placed directly in it are listed below:</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-3">
 <li><a href="{{ site.base_url }}/family/kalotermitidae/"><i>KALOTERMITIDAE</i> 木白蚁科</a> <span class="taxon-count">23 genus · 480 species · 4 subspecies</span></li>
 </ul>
 
-<h2 id="neoisoptera">Neoisoptera</h2>
+<h5 id="neoisoptera" class="clade-h clade-lvl-4">Neoisoptera</h5>
 
-<p>5 family · 11 genus · 130 species</p>
+<p class="clade-count clade-lvl-4">7 family · 18 subfamily · 294 genus · 2503 species · 62 subspecies in total (including subordinate clades)</p>
+<p class="clade-sub clade-lvl-4">It is divided into <a href="#geoisoptera">Geoisoptera</a> (below). The families placed directly in it are listed below:</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-4">
 <li><a href="{{ site.base_url }}/family/psammotermitidae/"><i>PSAMMOTERMITIDAE</i> 沙白蚁科</a> <span class="taxon-count">2 genus · 18 species</span></li>
 <li><a href="{{ site.base_url }}/family/rhinotermitidae/"><i>RHINOTERMITIDAE</i> 鼻白蚁科</a> <span class="taxon-count">5 genus · 62 species</span></li>
 <li><a href="{{ site.base_url }}/family/serritermitidae/"><i>SERRITERMITIDAE</i> 齿白蚁科</a> <span class="taxon-count">2 genus · 3 species</span></li>
@@ -104,13 +110,13 @@ Below follow **Family** → **Subfamily** → **Genus** → **Species**; the fam
 <li><a href="{{ site.base_url }}/family/termitogetonidae/"><i>TERMITOGETONIDAE</i> 寡脉白蚁科</a> <span class="taxon-count">1 genus · 2 species</span></li>
 </ul>
 
-<h2 id="geoisoptera">Geoisoptera</h2>
+<h6 id="geoisoptera" class="clade-h clade-lvl-5">Geoisoptera</h6>
 
-<p>2 family · 18 subfamily · 3 genus · 2373 species · 62 subspecies</p>
+<p class="clade-count clade-lvl-5">2 family · 18 subfamily · 283 genus · 2373 species · 62 subspecies</p>
 
-<ul class="taxon-list">
+<ul class="taxon-list clade-lvl-5">
 <li><a href="{{ site.base_url }}/family/heterotermitidae/"><i>HETEROTERMITIDAE</i> 异白蚁科</a> <span class="taxon-count">3 genus · 229 species · 8 subspecies</span></li>
-<li><a href="{{ site.base_url }}/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a> <span class="taxon-count">2144 species · 54 subspecies</span></li>
+<li><a href="{{ site.base_url }}/family/termitidae/"><i>TERMITIDAE</i> 白蚁科</a> <span class="taxon-count">280 genus · 2144 species · 54 subspecies</span></li>
 </ul>
 
 <p>English text of the family and subfamily accounts: <a href="{{ site.base_url }}/en/list/sections/">sections in English</a>.</p>

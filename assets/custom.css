@@ -480,6 +480,16 @@ body.search-overlay-open{overflow:hidden}
 .taxon-sub{display:block;padding-left:1.1em;font-size:.88em;color:var(--muted)}
 .taxon-more,.taxon-back{font-size:.92em;color:var(--muted);margin:.6em 0 0}
 @media (max-width:600px){.taxon-list{grid-template-columns:1fr}}
+/* 名录索引页：支系为嵌套层级（真等翅类 → 远／近等翅类 → 新等翅类 → 土栖等翅类），逐级缩进 */
+.content h6.clade-h{font-size:.98em;font-weight:700;line-height:1.32;color:var(--ink);margin:1em 0 .3em}
+.clade-h{scroll-margin-top:calc(var(--nav-h) + 18px)}
+.clade-lvl-2{margin-left:1.1em}
+.clade-lvl-3{margin-left:2.2em}
+.clade-lvl-4{margin-left:3.3em}
+.clade-lvl-5{margin-left:4.4em}
+.clade-count{color:var(--muted);font-size:.9em;margin:.4em 0 .2em}
+.clade-sub{margin:.3em 0 .5em}
+@media (max-width:600px){.clade-lvl-2{margin-left:.6em}.clade-lvl-3{margin-left:1.2em}.clade-lvl-4{margin-left:1.8em}.clade-lvl-5{margin-left:2.4em}}
 /* 中转页（科／亚科／属）局部检索框、介绍正文与无图提示 */
 .taxon-search{margin:1em 0 1.5em;padding:12px 14px;border:1px solid var(--line);border-radius:var(--radius-sm);background:var(--accent-softer)}
 .taxon-search-label{display:block;font-size:.88em;color:var(--muted);margin:0 0 .45em}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "异白蚁科 HETEROTERMITIDAE 分类名录"
-description: "异白蚁科（HETEROTERMITIDAE）是土栖等翅类（Geoisoptera）下的一个科，本站收录 3 个属、229 个种、8 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。科的形态特征、分布格局与经济意义见本页上文。详见名录索引。按分类系统逐级排列。数据来自 CC BY 4.0 数据集。"
+description: "异白蚁科（HETEROTERMITIDAE）是现存等翅下目（Isoptera）下的一个科，本站收录 3 个属、229 个种、8 个亚种。本页按分类系统列出该科的全部属，并汇总各级物种数量。点击任一属可查看其全部物种与亚种，点击物种可查看模式产地、分布地图、同属物种与 GB/T 7714、BibTeX、RIS 引用格式。"
 lang: zh-CN
 lang_only: true
 author: 班奈特格林
@@ -23,7 +23,7 @@ breadcrumb:
 <nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/heterotermitidae/">异白蚁科</a> › <span>本科</span></nav>
 <header class="taxon-header">
 <h1>异白蚁科 <i>Heterotermitidae</i></h1>
-<p class="taxon-meta">土栖等翅类 Geoisoptera · 3 属 · 229 种、8 亚种</p>
+<p class="taxon-meta">3 属 · 229 种、8 亚种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="heterotermitidae,coptotermes,heterotermes,reticulitermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
 <label class="taxon-search-label" for="taxon-search-input">在本科范围内检索（237 个种与亚种）：中文名或拉丁学名</label>
@@ -82,11 +82,11 @@ breadcrumb:
  "dateModified": "{{ site.dataset.version | replace: '.', '-' }}",
  "parentTaxon": {
   "@type": "Taxon",
-  "name": "土栖等翅类",
+  "name": "Isoptera",
   "alternateName": [
-   "Geoisoptera"
+   "现存等翅下目"
   ],
-  "taxonRank": "Clade"
+  "taxonRank": "Infraorder"
  }
 }
 </script>
