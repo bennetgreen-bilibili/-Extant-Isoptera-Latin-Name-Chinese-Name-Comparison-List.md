@@ -22,7 +22,7 @@ permalink: /data/
 <ul>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-checklist.csv"><code>dataset/data/isoptera-checklist.csv</code></a> — 3089 行逐条分类单元表（含中文正名、模式产地、分布、次异名）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-taxonomy.json"><code>dataset/data/isoptera-taxonomy.json</code></a> — 完整分类树（支系—科—亚科—属—种/亚种）</li>
-  <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — 次异名长表（含模式产地与对齐状态）</li>
+  <li><a href="{{ site.base_url }}/dataset/data/isoptera-synonyms.csv"><code>dataset/data/isoptera-synonyms.csv</code></a> — 次异名长表（含模式产地、对齐状态与回指列 localitySource / localityCounts）</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-counts.csv"><code>dataset/data/isoptera-counts.csv</code></a> — 科/亚科级计数</li>
   <li><a href="{{ site.base_url }}/dataset/data/isoptera-references.csv"><code>dataset/data/isoptera-references.csv</code></a> — 77 条参考文献（有 DOI 者随条目给出）</li>
   <li><a href="{{ site.base_url }}/dataset/datapackage.json"><code>datapackage.json</code></a> — 字段字典（Frictionless Data Package）</li>

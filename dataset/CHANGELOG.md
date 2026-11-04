@@ -20,6 +20,7 @@
   - 修复：`data/*.json` 的 `distribution` 字段此前带一个多余的右括号（如「安哥拉）」，由历史生成逻辑残留），已统一去掉；`data/index.json` 中按支系合辑存放的科（远等翅类 4 科、新等翅类除白蚁科 6 科）的 `file` 链接改为指向实际合辑文件（此前指向不存在的单科文件）；
   - 统计页：属级明细表改为固定排序（种数降序、同种数按拉丁名升序），英文版「Overview」与亚科表表头改用英文标签；三语统计页计数与名录同步；
   - 名称微调：*Isognathotermes phalloides* 中文正名由「似阳茎等颚白蚁」定为「阳茎等颚白蚁」。
+- **次异名长表增加对齐回指列（2026-11-05，同一版本，尚未归档发布）**：`dataset/data/isoptera-synonyms.csv` 新增 `localitySource`（`synonym` 逐条对应本异名 / `checklist` 未逐条对齐、整串见主表 `synonymLocalities` 列 / `none` 原数据无模式产地）与 `localityCounts`（`names=N;localities=M`）两列，把「未逐条对齐」与「原数据缺产地」区分开；`dataset/datapackage.json` 字段说明、`dataset/README.md` 构建提示与归档包 `downloads/isoptera-checklist-v2026.10.30.zip` 同步重建。
 
 - 数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：
   - *Amitermes californicus* → *Amitermes wheeleri*（GBIF、CoL、BSF 一致视为异名）

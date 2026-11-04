@@ -218,7 +218,7 @@
    "path": "data/isoptera-synonyms.csv",
    "title": "次异名长表（一行一次异名，含其模式产地）",
    "format": "csv",
-   "bytes": 171615,
+   "bytes": 192613,
    "rows": 704,
    "profile": "tabular-data-resource",
    "schema": {
@@ -247,6 +247,16 @@
       "name": "localityAlignment",
       "type": "string",
       "description": "模式产地与次异名的对应状态：matched 可逐条对齐；unmatched 原数据条数不等（完整模式产地见 isoptera-checklist.csv 的 synonymLocalities 列）；absent 原数据无模式产地。"
+     },
+     {
+      "name": "localitySource",
+      "type": "string",
+      "description": "本行模式产地的来源层级：synonym 逐条对应本异名；checklist 未逐条对齐，产地只存在于 isoptera-checklist.csv 的 synonymLocalities 整串中（本行 synonymTypeLocality 留空 ≠ 原数据缺产地）；none 原数据无模式产地。"
+     },
+     {
+      "name": "localityCounts",
+      "type": "string",
+      "description": "接受名下「次异名条数 / 模式产地条数」，形如 names=10;localities=12；两者相等才逐条对齐。"
      }
     ],
     "missingValues": [

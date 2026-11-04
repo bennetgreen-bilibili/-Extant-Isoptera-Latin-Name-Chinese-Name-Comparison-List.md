@@ -97,6 +97,8 @@ SYNONYM_FIELDS = [
     ("synonym", "string", "次异名（含命名人与年份、页码）。Synonym with authorship."),
     ("synonymTypeLocality", "string", "次异名模式产地；仅当 localityAlignment = matched 时逐条对应，否则留空。Type locality of the synonym."),
     ("localityAlignment", "string", "模式产地与次异名的对应状态：matched 可逐条对齐；unmatched 原数据条数不等（完整模式产地见 isoptera-checklist.csv 的 synonymLocalities 列）；absent 原数据无模式产地。"),
+    ("localitySource", "string", "本行模式产地的来源层级：synonym 逐条对应本异名；checklist 未逐条对齐，产地只存在于 isoptera-checklist.csv 的 synonymLocalities 整串中（本行 synonymTypeLocality 留空 ≠ 原数据缺产地）；none 原数据无模式产地。"),
+    ("localityCounts", "string", "接受名下「次异名条数 / 模式产地条数」，形如 names=10;localities=12；两者相等才逐条对齐。"),
 ]
 
 REFERENCE_FIELDS = [
@@ -866,6 +868,7 @@ def main() -> int:
             continue
         names = [item.strip() for item in taxon.synonyms.split(";") if item.strip()]
         localities = [item.strip() for item in taxon.synonym_localities.split(";") if item.strip()]
+        counts_cell = f"names={len(names)};localities={len(localities)}"
         if not localities:
             status = "absent"
         elif len(names) == len(localities):
@@ -876,9 +879,11 @@ def main() -> int:
             warnings.append(
                 f"{taxon.latin}：次异名 {len(names)} 条、模式产地 {len(localities)} 条，无法逐条对齐（完整模式产地保留在主表 synonymLocalities 列）"
             )
+        # 回指列：让下游能区分「未逐条对齐」与「原数据缺产地」，并一眼看到条数差在哪
+        source = {"matched": "synonym", "unmatched": "checklist", "absent": "none"}[status]
         for index, name in enumerate(names):
             locality = localities[index] if status == "matched" else ""
-            synonym_rows.append([taxon.page_url, taxon.latin, name, locality, status])
+            synonym_rows.append([taxon.page_url, taxon.latin, name, locality, status, source, counts_cell])
 
     counts_rows = []
     clade_latin = {clade["id"]: clade["latin"] for clade in clades}
@@ -951,7 +956,9 @@ def main() -> int:
     notes = []
     if unaligned_taxa:
         notes.append(
-            f"{unaligned_taxa} 个分类单元的次异名与模式产地条数不等，无法逐条对齐（见 isoptera-synonyms.csv 的 localityAlignment 列）"
+            f"{unaligned_taxa} 个分类单元的次异名与模式产地条数不等，无法逐条对齐"
+            "（见 isoptera-synonyms.csv 的 localityAlignment / localitySource / localityCounts 列；"
+            "这些行的 synonymTypeLocality 留空表示「未逐条对齐」，完整产地串仍在 isoptera-checklist.csv 的 synonymLocalities 列）"
         )
     if tree_orphans:
         notes.append(f"{len(tree_orphans)} 条记录所属的科不在站点分类树中")

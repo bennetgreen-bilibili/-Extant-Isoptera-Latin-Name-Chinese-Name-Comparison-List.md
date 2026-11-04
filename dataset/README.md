@@ -50,7 +50,7 @@
 本目录所有文件均由仓库来源自动生成（生成脚本 `.github/workflows/build_dataset.py`，仅用 Python 标准库），字段字典见 `datapackage.json`。
 
 <!-- AUTO:BEGIN -->
-> 构建提示 Build notes：43 个分类单元的次异名与模式产地条数不等，无法逐条对齐（见 isoptera-synonyms.csv 的 localityAlignment 列）
+> 构建提示 Build notes：43 个分类单元的次异名与模式产地条数不等，无法逐条对齐（见 isoptera-synonyms.csv 的 localityAlignment / localitySource / localityCounts 列；这些行的 synonymTypeLocality 留空表示「未逐条对齐」，完整产地串仍在 isoptera-checklist.csv 的 synonymLocalities 列）
 
 ## 文件清单 Files
 
@@ -58,7 +58,7 @@
 |---|---|---|---|---|
 | `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1763418 | `1cfd06cab128188e…` |
 | `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1725006 | `9ed168ee6fcd5ac7…` |
-| `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 171615 | `a288a7d30d379aad…` |
+| `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 192613 | `ae04a2ed3e2e7b40…` |
 | `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `76fce47f5eedeaa0…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 

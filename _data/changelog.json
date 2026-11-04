@@ -91,6 +91,11 @@
     },
     {
      "depth": 0,
+     "text": "**次异名长表增加对齐回指列（2026-11-05，同一版本，尚未归档发布）**：`dataset/data/isoptera-synonyms.csv` 新增 `localitySource`（`synonym` 逐条对应本异名 / `checklist` 未逐条对齐、整串见主表 `synonymLocalities` 列 / `none` 原数据无模式产地）与 `localityCounts`（`names=N;localities=M`）两列，把「未逐条对齐」与「原数据缺产地」区分开；`dataset/datapackage.json` 字段说明、`dataset/README.md` 构建提示与归档包 `downloads/isoptera-checklist-v2026.10.30.zip` 同步重建。",
+     "html": "<strong>次异名长表增加对齐回指列（2026-11-05，同一版本，尚未归档发布）</strong>：<code>dataset/data/isoptera-synonyms.csv</code> 新增 <code>localitySource</code>（<code>synonym</code> 逐条对应本异名 / <code>checklist</code> 未逐条对齐、整串见主表 <code>synonymLocalities</code> 列 / <code>none</code> 原数据无模式产地）与 <code>localityCounts</code>（<code>names=N;localities=M</code>）两列，把「未逐条对齐」与「原数据缺产地」区分开；<code>dataset/datapackage.json</code> 字段说明、<code>dataset/README.md</code> 构建提示与归档包 <code>downloads/isoptera-checklist-v2026.10.30.zip</code> 同步重建。"
+    },
+    {
+     "depth": 0,
      "text": "数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对**可以确定**的异名写入接受名的「次异名」一节（front matter 的 `authority_synonym_*` 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）：",
      "html": "数据补录（初版：只补异名对应关系，不改名录主体与计数；这 3 对随后于同日正式合并，见本条末）：按 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果，把 3 对<strong>可以确定</strong>的异名写入接受名的「次异名」一节（front matter 的 <code>authority_synonym_*</code> 字段，正文生成「依外部权威库补录的异名」小节，检索可按异名命中）："
     },
