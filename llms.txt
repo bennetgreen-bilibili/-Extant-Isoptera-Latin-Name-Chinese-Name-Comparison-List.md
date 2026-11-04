@@ -10,7 +10,6 @@
 ## 关键页面（中文）
 - [首页（简介 + 页面导航）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/)
 - [名录索引（分类框架说明 + 按科浏览 + 支系—科两层入口；逐条名录在科／亚科／属页面，科页与属页标题下方内嵌 GBIF 1° 网格分布图，页末附 77 条参考文献的 DOI / GB/T 7714 / APA 7 / Vancouver / BibTeX / RIS / CSL-JSON 增强视图）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/list/)
-- [白蚁基础知识（形态学）：品级、头部、胸部与翅足、腹部、兵蚁、内部器官的中文名、拉丁/英文名与识别要点，附检索表常用特征速查与异名对照](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/basics/)
 - [全文搜索（全站检索：名录、物种页、统计、数据与博客；中/英/西三语，支持繁体与拼音）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/search/)
 - [文献检索（按拉丁名 / 中文名 / 关键词查 OpenAlex + Crossref，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español（中英互译时学名与术语按本站名录/术语表校正），导出 GB/T 7714 / BibTeX / RIS）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/papers/)
 - [统计（各阶元物种数统计表：科/亚科/属）](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/stats/)
@@ -24,7 +23,6 @@
 ## Key pages (English)
 - [Home (about + navigation)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/)
 - [List index (taxonomic framework + browse by family + clade–family entries; the per-genus checklist lives on the family / subfamily / genus pages, whose headings carry inline GBIF 1°-grid distribution maps, and the end of the page carries the enhanced 77-reference view with DOIs, GB/T 7714, APA 7, Vancouver, BibTeX, RIS and CSL-JSON)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/list/)
-- [Termite basics (morphology): head, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names and key-reading tips](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/basics/)
 - [Full-site search (checklist, species pages, statistics, data and blog; pinyin and traditional Chinese supported)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/search/)
 - [Literature search (OpenAlex + Crossref by Latin/Chinese name or keyword; synonyms merged; abstracts (machine-translatable into Chinese / English / Spanish; scientific names and terms aligned to this site's checklist/glossary when translating between Chinese and English); GB/T 7714 / BibTeX / RIS export)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/papers/)
 - [Statistics (species counts by family/subfamily/genus)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/stats/)
@@ -38,7 +36,6 @@
 ## Páginas principales (Español)
 - [Inicio (presentación + navegación)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/)
 - [Índice de la lista (marco taxonómico + navegación por familia + entradas clado–familia; el listado por género está en las páginas de familia / subfamilia / género, cuyos títulos llevan su mapa de distribución de GBIF en rejilla de 1°, y al final se incluye la vista enriquecida de las 77 referencias con DOI, GB/T 7714, APA 7, Vancouver, BibTeX, RIS y CSL-JSON)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/list/)
-- [Fundamentos de los termites (morfología): cabeza, fontanela, mandíbulas, alas, tarzos, placas abdominales y órganos internos, con nombres latinos y guía para leer las claves](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/basics/)
 - [Búsqueda en todo el sitio (listado, páginas de especies, estadísticas, datos y blog)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/search/)
 - [Búsqueda bibliográfica (OpenAlex + Crossref por nombre latino/chino o palabra clave; sinónimos; resúmenes (traducibles automáticamente al chino / inglés / español; al traducir entre chino e inglés, los nombres y términos se alinean con la lista/glosario del sitio); exportación GB/T 7714 / BibTeX / RIS)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/papers/)
 - [Estadísticas (número de especies por rango: familia/subfamilia/género)](https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/es/stats/)

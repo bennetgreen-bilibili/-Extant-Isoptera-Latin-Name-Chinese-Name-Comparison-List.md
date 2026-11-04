@@ -7,9 +7,9 @@
 |---|---|
 | `index.md` | 首页：简介（作者/版本/引用格式）+ 页面导航 + JSON-LD |
 | `list.md` | 名录索引（`/list/`）：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 分类框架说明 + 按科浏览 + 支系—科两层索引 + 页末参考文献；逐条名录已下沉到科／亚科／属页面 |
-| `basics/index.md` | 白蚁基础知识索引（`/basics/`）：入口页，分形态篇与生物学篇两栏，附阅读顺序与分类口径说明；三语（`en/basics/index.md`、`es/basics/index.md`） |
-| `basics/morphology.md` | 形态篇（`/basics/morphology/`）：形态学器官与部位的中文名、拉丁/英文名与识别要点，按品级、头、胸、腹、兵蚁、内部器官分组，附术语速查与异名对照；三语 |
-| `basics/biology.md` | 生物学篇（`/basics/biology/`）：品级发育、筑巢、食性与消化共生、生活史、社会行为、防御、生态功能，附文献；三语（`en/basics/biology.md`、`es/basics/biology.md`） |
+| `_pending_pages/basics/index.md` | 白蚁基础知识索引（`/basics/`）：入口页，分形态篇与生物学篇两栏，附阅读顺序与分类口径说明；三语（`_pending_pages/basics/en/index.md`、`_pending_pages/basics/es/index.md`）。**2026-11-05 起暂缓发布（审稿中）**，恢复步骤见 `_pending_pages/basics/README.md` |
+| `_pending_pages/basics/morphology.md` | 形态篇（`/basics/morphology/`）：形态学器官与部位的中文名、拉丁/英文名与识别要点，按品级、头、胸、腹、兵蚁、内部器官分组，附术语速查与异名对照；三语；**暂缓发布（审稿中）** |
+| `_pending_pages/basics/biology.md` | 生物学篇（`/basics/biology/`）：品级发育、筑巢、食性与消化共生、生活史、社会行为、防御、生态功能，附文献；三语（`_pending_pages/basics/en/biology.md`、`_pending_pages/basics/es/biology.md`）；**暂缓发布（审稿中）** |
 | `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
 | `papers.md` | 文献检索：按拉丁名/中文名/多个关键词检索 OpenAlex + Crossref，默认限定白蚁（等翅目）文献，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español，导出 GB/T 7714 / BibTeX / RIS；三语 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
