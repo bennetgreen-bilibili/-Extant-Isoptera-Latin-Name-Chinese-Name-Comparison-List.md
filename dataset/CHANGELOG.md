@@ -57,9 +57,11 @@
   - 外部数据与派生产物同步：`_data/authority_links.json` / `_data/bsf_links.json`（BSF 抽查 20/20）、`downloads/isoptera-authority-crossref.csv`、`_tools/bsf对照/工作表.csv`、`_data/species_photos.json`、`_data/occurrence_summary.json` 与分布图（改名后 GBIF Backbone 无对应种，该种级地图移除；同时补上 *Obtusitermes bacchanalis* 的种级地图，种级地图仍 1,180 个、记录仍 87,075 条）、三语名录、`isoptera-data.json`、`data/` 结构化数据、检索索引、sitemap 与归档数据集。
   - 归档文件 `downloads/isoptera-checklist-v2026.10.30.zip` 重新生成（沿用同一版本号；本版尚未在 Zenodo 发布）。
 
-- **新增「白蚁基础知识」页（同版本）**：新建三语页面 `/basics/`、`/en/basics/`、`/es/basics/`，先把形态学的器官与部位做进去——《中国动物志·昆虫纲·第十七卷·等翅目》《白蚁学》《白蚁生物学：现代研究合集》与 Krishna 等（2013）《Treatise on the Isoptera》的术语，按品级、头部、胸部与翅足、腹部、兵蚁、内部器官分组，逐条给出中文正名、拉丁/英文名与识别要点，并附「用这些术语读检索表」的十步速查与异名对照；不改名录数据与计数。
+- **新增「白蚁基础知识」页（同版本）**：新建三语基础页，先把形态学的器官与部位做进去——《中国动物志·昆虫纲·第十七卷·等翅目》《白蚁学》《白蚁生物学：现代研究合集》与 Krishna 等（2013）《Treatise on the Isoptera》的术语，按品级、头部、胸部与翅足、腹部、兵蚁、内部器官分组，逐条给出中文正名、拉丁/英文名与识别要点，并附「用这些术语读检索表」的十步速查与异名对照；不改名录数据与计数。
   - 导航：`_layouts/default.html` 主导航在「名录索引」之后加「基础知识」（`nav_basics`，zh 基础知识 / en Basics / es Fundamentos）；三语首页「页面导航」各加一条入口。
   - 检索表：`_includes/fauna-keys.html` 的说明段末加一句术语指引，按页面语言链到对应语种的《白蚁基础知识》。
+  - 结构（2026-11-05，同一版本）：`basics.md` 迁为 `basics/morphology.md`（`/basics/morphology/`，`en/basics/morphology.md`、`es/basics/morphology.md` 同步），`/basics/` 改为索引页（`basics/index.md`），分「形态篇」「生物学篇」两个入口，附阅读顺序与分类口径说明；三语首页卡片文案与 `README.md` 页面表同步改写，形态篇的「后续将补充」预告改为指向生物学篇。
+  - 新增「生物学篇」`basics/biology.md`（`/basics/biology/`，当前仅中文）：品级与发育、筑巢、食性与消化共生、生活史与群体建立、社会行为与巢内通讯、防御与天敌、生态功能与人类关系七章，附「与旧文献的几处差异」（巢的空调模型、东门中心仿生叙事、甲烷估计、菌食起源时间、科级归属）与 11 条文献；英文与西班牙文版待译。
 - **检索表（同版本）**：木白蚁科页新增 Krishna 等（2013）《Treatise on the Isoptera of the World》第 75—78 页的世界分属检索表，有翅成虫 18 组 19 个终点、兵蚁 20 组 21 个终点，接在《中国动物志》兵蚁表（5 属）之后；化石属 †Proelectrotermes、†Electrotermes 仅列名不链接，原表未含的 Longicaputermes、Roisinitermes 在表前说明。
   - 生成：`_tools/fauna/keys/keys_orders.py` 新增 KALO_WORLD 与 KALOSRC；`_tools/fauna/keys/emit.py` 支持用 `+` 合并终点、用 `|` 附注、用 `fos:` 标记化石属；`_data/fauna_keys.json` 重生成后该科 3 表 42 组 45 个终点。
   - 渲染：`_includes/fauna-keys.html` 增加 Treatise 来源说明与引文，化石属与合并终点按新结构输出；不改名录数据与计数。

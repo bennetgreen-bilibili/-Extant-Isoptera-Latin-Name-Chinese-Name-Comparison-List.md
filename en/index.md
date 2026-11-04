@@ -201,7 +201,7 @@ permalink: /en/
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
-  <li><a href="{{ site.base_url }}/en/basics/"><strong>Basics</strong></a> — termite morphological terms: head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a quick guide to the keys.</li>
+  <li><a href="{{ site.base_url }}/en/basics/"><strong>Basics</strong></a> — index: morphology (head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a quick guide to the keys) and biology (caste development, nesting, feeding, life history, defence and ecosystem roles).</li>
   <li><a href="{{ site.base_url }}/en/list/name-issues/"><strong>Name discrepancies</strong></a> — rows needing human review after cross-checking against GBIF / Catalogue of Life / Blattodea Species File, filterable by type, source and keyword.</li>
   <li><a href="{{ site.base_url }}/en/changelog/"><strong>Changelog</strong></a> — what changed in each version (publication date); subscribe via <a href="{{ site.base_url }}/changelog.atom">Atom</a>.</li>
 </ul>

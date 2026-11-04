@@ -7,10 +7,12 @@ author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
 version: 2026.10.30
 keywords: [termites, Isoptera, morfología, anatomía, glosario, fontanela, mandíbula, tarso, claves de identificación]
-permalink: /es/basics/
+permalink: /es/basics/morphology/
 ---
 
 # Fundamentos de los termites: morfología
+
+<p class="muted">← Volver al <a href="{{ site.base_url }}/es/basics/">índice de fundamentos</a>.</p>
 
 <p class="lead">Esta página reúne las partes del termite que realmente se pueden ver y contar: el nombre chino empleado en el sitio, el término latino/español, la casta en que aparece y qué hay que mirar. Los datos proceden de los volúmenes archivados de <i>Fauna Sinica, Insecta Vol. 17, Isoptera</i> (Huang Fusheng et al., 2000), <i>Termitología</i> (Cheng Dongbao y Yang Zhaofen, 2014), <i>Biology of Termites: A Modern Synthesis</i> y Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>. La terminología sigue el glosario del sitio (<code>_data/translation_glossary.yml</code>) para que coincida con el listado, las páginas de familia y género y las claves.</p>
 
@@ -278,4 +280,4 @@ Los datos proceden de las fuentes siguientes; la redacción es propia y no repro
 - Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377.
 - <i>Biology of Termites: A Modern Synthesis</i> (traducción china).
 
-<p class="muted">Esta página cubre los fundamentos morfológicos; seguirán secciones sobre desarrollo de castas, nidificación y alimentación. Las correcciones de términos o erratas son bienvenidas en el <a href="{{ site.base_url }}/es/guestbook/">libro de visitas</a>.</p>
+<p class="muted">Esta página cubre solo la morfología. El desarrollo de las castas, la construcción del nido y la alimentación se tratan en el volumen de biología (texto chino en preparación). Las correcciones de términos o erratas son bienvenidas en el <a href="{{ site.base_url }}/es/guestbook/">libro de visitas</a>.</p>

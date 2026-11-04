@@ -1,16 +1,18 @@
 ---
 layout: default
-title: 白蚁基础知识 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
+title: 白蚁基础知识 · 形态篇 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
 description: 白蚁形态学术语表格式说明：按品级、头部、胸部与翅足、腹部、兵蚁、内部器官分组，逐条给出头壳、头盖缝、囟、上颚、下颚、下唇、触角、翅脉、翅鳞、跗节、端距、尾须、气门、象鼻、堵口与消化道、马氏管、肠瓣、生殖器官的中文名、拉丁/英文名与识别要点，附检索表常用特征速查与异名对照，术语口径与本站名录完全一致。
 lang: zh-CN
 author: 班奈特格林
 date: 2026-11-04
 version: 2026.10.30
 keywords: [白蚁, 形态学, 解剖, 术语, 头壳, 囟, 上颚, 翅, 跗节, 检索表, Isoptera, morphology]
-permalink: /basics/
+permalink: /basics/morphology/
 ---
 
 # 白蚁基础知识：形态篇
+
+<p class="muted">← 返回<a href="{{ site.base_url }}/basics/">基础知识索引</a>。生物学部分（品级发育、筑巢、食性）见<a href="{{ site.base_url }}/basics/biology/">生物学篇</a>。</p>
 
 <p class="lead">这一页把白蚁身上“看得见、数得清”的部位逐条列出来：中文正名、拉丁/英文名、在什么品级上出现、看什么特征。条目取自站内存档的《中国动物志·昆虫纲·第十七卷·等翅目》（黄复生等，2000）、《白蚁学》（程冬保、杨兆芬，2014）、《白蚁生物学：现代研究合集》与 Krishna 等（2013）《Treatise on the Isoptera》，中文名沿用本站术语表（<code>_data/translation_glossary.yml</code>）的口径，以便与名录、科属页和检索表互相对照。</p>
 
@@ -278,4 +280,4 @@ permalink: /basics/
 - Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. *Bulletin of the American Museum of Natural History* 377.
 - 《白蚁生物学：现代研究合集》（*Biology of Termites: A Modern Synthesis* 中译本）。
 
-<p class="muted">本页为形态学基础条目，后续将补充品级发育、筑巢与食性等章节；如发现术语或错别字，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>
+<p class="muted">本页只讲形态；品级如何产生、巢如何建、吃什么如何消化，见<a href="{{ site.base_url }}/basics/biology/">生物学篇</a>。如发现术语或错别字，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>

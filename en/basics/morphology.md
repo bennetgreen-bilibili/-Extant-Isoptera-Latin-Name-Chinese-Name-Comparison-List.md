@@ -7,10 +7,12 @@ author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
 version: 2026.10.30
 keywords: [termites, Isoptera, morphology, anatomy, glossary, fontanelle, mandible, tarsus, identification keys]
-permalink: /en/basics/
+permalink: /en/basics/morphology/
 ---
 
 # Termite Basics: Morphology
+
+<p class="muted">← Back to the <a href="{{ site.base_url }}/en/basics/">Basics index</a>.</p>
 
 <p class="lead">This page lists the parts of a termite that can actually be seen and counted: the Chinese name used on this site, the Latin/English term, the caste in which it occurs, and what to look for. Entries are compiled from the archived volumes of <i>Fauna Sinica, Insecta Vol. 17, Isoptera</i> (Huang Fusheng et al., 2000), <i>Termitology</i> (Cheng Dongbao &amp; Yang Zhaofen, 2014), <i>Biology of Termites: A Modern Synthesis</i> and Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>. Terminology follows the site glossary (<code>_data/translation_glossary.yml</code>) so that it matches the checklist, the family and genus pages, and the keys.</p>
 
@@ -278,4 +280,4 @@ Entries are compiled from the sources below; the wording is the site's own and d
 - Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377.
 - <i>Biology of Termites: A Modern Synthesis</i> (Chinese translation).
 
-<p class="muted">This page covers morphological groundwork; sections on caste development, nesting and feeding will follow. Corrections of terms or typographical errors are welcome on the <a href="{{ site.base_url }}/en/guestbook/">guestbook</a>.</p>
+<p class="muted">This page covers morphology only. How castes arise, how nests are built and how termites feed are treated in the biology volume (Chinese text in preparation). Corrections of terms or typographical errors are welcome on the <a href="{{ site.base_url }}/en/guestbook/">guestbook</a>.</p>

@@ -206,7 +206,7 @@ permalink: /
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/download/"><strong>下载</strong></a> — 下载区文件（随 downloads/ 文件夹自动更新）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/blog/"><strong>博客</strong></a> — 文章与更新说明（Word 文档自动转网页，随 _posts 文件夹自动更新）。</li>
   <li><a href="https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/guestbook/"><strong>留言</strong></a> — 留言板（需 GitHub 账号登录）。</li>
-  <li><a href="{{ site.base_url }}/basics/"><strong>基础知识</strong></a> — 白蚁形态学术语：头壳、囟、上颚、翅、跗节、腹板、尾须与内部器官的中文名、拉丁/英文名与识别要点，附检索表常用特征速查。</li>
+  <li><a href="{{ site.base_url }}/basics/"><strong>基础知识</strong></a> — 索引：形态篇（头壳、囟、上颚、翅、跗节、腹板、尾须与内部器官的术语与识别要点，附检索表速查）与生物学篇（品级发育、筑巢、食性、生活史、防御与生态功能），术语口径与名录一致。</li>
   <li><a href="{{ site.base_url }}/list/name-issues/"><strong>命名差异</strong></a> — 本站名与 GBIF / Catalogue of Life / Blattodea Species File 的对照中需要人工核对的条目，可按类型、来源、关键词筛选。</li>
   <li><a href="{{ site.base_url }}/changelog/"><strong>版本记录</strong></a> — 每个版本（发布日期）的变更清单，可订阅 <a href="{{ site.base_url }}/changelog.atom">Atom</a>。</li>
 </ul>
