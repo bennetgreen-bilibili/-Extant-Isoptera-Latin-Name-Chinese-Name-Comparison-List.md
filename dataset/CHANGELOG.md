@@ -61,7 +61,7 @@
   - 导航：`_layouts/default.html` 主导航在「名录索引」之后加「基础知识」（`nav_basics`，zh 基础知识 / en Basics / es Fundamentos）；三语首页「页面导航」各加一条入口。
   - 检索表：`_includes/fauna-keys.html` 的说明段末加一句术语指引，按页面语言链到对应语种的《白蚁基础知识》。
   - 结构（2026-11-05，同一版本）：`basics.md` 迁为 `basics/morphology.md`（`/basics/morphology/`，`en/basics/morphology.md`、`es/basics/morphology.md` 同步），`/basics/` 改为索引页（`basics/index.md`），分「形态篇」「生物学篇」两个入口，附阅读顺序与分类口径说明；三语首页卡片文案与 `README.md` 页面表同步改写，形态篇的「后续将补充」预告改为指向生物学篇。
-  - 新增「生物学篇」`basics/biology.md`（`/basics/biology/`，当前仅中文）：品级与发育、筑巢、食性与消化共生、生活史与群体建立、社会行为与巢内通讯、防御与天敌、生态功能与人类关系七章，附「与旧文献的几处差异」（巢的空调模型、东门中心仿生叙事、甲烷估计、菌食起源时间、科级归属）与 11 条文献；英文与西班牙文版待译。
+  - 新增「生物学篇」`basics/biology.md`（`/basics/biology/`，当前仅中文）：品级与发育、筑巢、食性与消化共生、生活史与群体建立、社会行为与巢内通讯、防御与天敌、生态功能与人类关系七章，附「与旧文献的几处差异」（巢的空调模型、东门中心仿生叙事、甲烷估计、菌食起源时间、科级归属）与 11 条文献；英文与西班牙文版同步（`en/basics/biology.md`、`es/basics/biology.md`）。
 - **检索表（同版本）**：木白蚁科页新增 Krishna 等（2013）《Treatise on the Isoptera of the World》第 75—78 页的世界分属检索表，有翅成虫 18 组 19 个终点、兵蚁 20 组 21 个终点，接在《中国动物志》兵蚁表（5 属）之后；化石属 †Proelectrotermes、†Electrotermes 仅列名不链接，原表未含的 Longicaputermes、Roisinitermes 在表前说明。
   - 生成：`_tools/fauna/keys/keys_orders.py` 新增 KALO_WORLD 与 KALOSRC；`_tools/fauna/keys/emit.py` 支持用 `+` 合并终点、用 `|` 附注、用 `fos:` 标记化石属；`_data/fauna_keys.json` 重生成后该科 3 表 42 组 45 个终点。
   - 渲染：`_includes/fauna-keys.html` 增加 Treatise 来源说明与引文，化石属与合并终点按新结构输出；不改名录数据与计数。

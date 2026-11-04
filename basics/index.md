@@ -32,4 +32,4 @@ permalink: /basics/
 
 本站的“等翅下目”按现行系统发育研究处理为蜚蠊目下的一支；名录内 13 科的划分与《中国动物志·等翅目》等旧文献不完全一致，例如家白蚁属、散白蚁属旧置于鼻白蚁科，本站归入异白蚁科。凡涉及分类归属，以名录与科属页为准；两篇正文遇到差异处会就地注明。
 
-<p class="muted">英文与西班牙文版随后补上。如发现事实或术语错误，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>
+<p class="muted">英文版（<a href="{{ site.base_url }}/en/basics/biology/">Biology</a>）与西班牙文版（<a href="{{ site.base_url }}/es/basics/biology/">Biología</a>）已同步。如发现事实或术语错误，欢迎在<a href="{{ site.base_url }}/guestbook/">留言板</a>指出。</p>

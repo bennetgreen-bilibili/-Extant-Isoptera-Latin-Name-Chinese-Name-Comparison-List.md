@@ -280,4 +280,4 @@ Entries are compiled from the sources below; the wording is the site's own and d
 - Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377.
 - <i>Biology of Termites: A Modern Synthesis</i> (Chinese translation).
 
-<p class="muted">This page covers morphology only. How castes arise, how nests are built and how termites feed are treated in the biology volume (Chinese text in preparation). Corrections of terms or typographical errors are welcome on the <a href="{{ site.base_url }}/en/guestbook/">guestbook</a>.</p>
+<p class="muted">This page covers morphology only. How castes arise, how nests are built and how termites feed are treated in the [biology page]({{ site.base_url }}/en/basics/biology/). Corrections of terms or typographical errors are welcome on the <a href="{{ site.base_url }}/en/guestbook/">guestbook</a>.</p>

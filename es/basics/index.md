@@ -18,7 +18,7 @@ permalink: /es/basics/
 
 <ul>
   <li><a href="{{ site.base_url }}/es/basics/morphology/"><strong>Morfología</strong></a> — siete grupos: castas y los dos planes corporales, cabeza, tórax con alas y patas, abdomen, estructuras propias de los soldados, órganos internos, y una guía rápida de los caracteres más usados en las claves, con una nota sobre nombres alternativos.</li>
-  <li><strong>Biología</strong> — desarrollo de las castas (pseudergates y obreras verdaderas, hormona juvenil, feromonas inhibidoras, neoténicos), nidificación (tipos de nido, jardines de hongos, temperatura y humedad), alimentación, digestión y simbiosis, ciclo vital, comportamiento social, defensa y funciones ecológicas. El texto en chino está en preparación; la versión en español se publicará después.</li>
+  <li><a href="{{ site.base_url }}/es/basics/biology/"><strong>Biología</strong></a> — desarrollo de las castas (pseudergates y obreras verdaderas, hormona juvenil, feromonas inhibidoras, neoténicos), nidificación (tipos de nido, jardines de hongos, temperatura y humedad), alimentación, digestión y simbiosis, ciclo vital, comportamiento social, defensa y funciones ecológicas, con un apéndice sobre las diferencias con la bibliografía antigua.</li>
 </ul>
 
 ## Cómo usarlas

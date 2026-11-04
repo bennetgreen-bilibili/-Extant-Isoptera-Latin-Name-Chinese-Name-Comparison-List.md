@@ -18,7 +18,7 @@ permalink: /en/basics/
 
 <ul>
   <li><a href="{{ site.base_url }}/en/basics/morphology/"><strong>Morphology</strong></a> — seven groups: castes and the two body plans, head, thorax with wings and legs, abdomen, soldier-specific structures, internal organs, and a quick guide to the features most often used in the keys, with a note on competing names for the same structure.</li>
-  <li><strong>Biology</strong> — caste development (pseudergates and true workers, juvenile hormone, inhibitory pheromones, neotenics), nesting (nest types, fungus combs, temperature and humidity), feeding, digestion and symbiosis, life history, social behaviour, defence, and ecosystem roles. The Chinese text is in preparation; an English version will follow.</li>
+  <li><a href="{{ site.base_url }}/en/basics/biology/"><strong>Biology</strong></a> — caste development (pseudergates and true workers, juvenile hormone, inhibitory pheromones, neotenics), nesting (nest types, fungus combs, temperature and humidity), feeding, digestion and symbiosis, life history, social behaviour, defence, and ecosystem roles, with an appendix on where the page parts company with older literature.</li>
 </ul>
 
 ## How to use these pages
