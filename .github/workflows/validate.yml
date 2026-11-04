@@ -1,7 +1,11 @@
 name: Validate data and templates
 
-# PR / 推送前的闸门：结构一致性检查 + "生成产物是否最新" 检查。
+# PR / 推送闸门：结构一致性检查 + "生成产物是否最新" 检查。
 # 只读与生成都不访问外部 API（权威库缓存已提交在仓库里），所以快且稳定。
+#
+# 关于「生成产物过期」这一类红：main 上的推送会先跑一遍 _tools/regen_all.sh 自愈——
+# 重跑生成链，产物有差异就自动提交推回去，再继续跑后面的检查；
+# PR（和手动 dispatch）保持严格闸门，不改写分支。
 on:
   pull_request:
   push:
@@ -18,6 +22,9 @@ concurrency:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    # 自愈步骤要往 main 推一次提交，所以 job 级需要写权限（fork PR 拿到的仍是只读令牌）。
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -47,39 +54,54 @@ jobs:
           python .github/workflows/build_species_photos.py --check
           python .github/workflows/build_references.py --verify
 
+      # main 自愈：改了数据 / 文案（含 dataset/CHANGELOG.md）却忘了重跑脚本时，
+      # 这里重跑一遍生成链并提交回去，不再让 main 因为「忘了重跑」而变红。
+      # 放在只读检查之后：源数据本身不自洽时不会产生自动提交。
+      - name: Auto-repair generated artifacts (main push only)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          bash _tools/regen_all.sh
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "OK: 生成产物已是最新，无需提交"
+            exit 0
+          fi
+          echo "检测到过期产物，自动提交："
+          git status --porcelain
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(data): 自动重建过期产物 [skip ci]"
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "自动修复提交已推送（attempt ${attempt}）"
+              exit 0
+            fi
+            echo "push rejected (attempt ${attempt}) - rebasing on origin"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          done
+          echo "::error::自动修复提交推送失败（已重试 3 次）"
+          exit 1
+
       # 数据集归档与其它产物一样要已提交；zip 只比内容（成员名 + 字节），
       # 因为 deflate 压缩结果依赖平台 zlib，不同平台不逐字节一致。
-      # 这一步放在重新生成之前，比对的是「仓库里已提交的产物」。
+      # 这一步放在重新生成之前，比对的是「仓库里已提交的产物」（main 上已先被自愈步骤刷新）。
       - name: Verify dataset archive content
         run: python .github/workflows/build_dataset.py --check
 
       # 重新生成全部派生产物（不装 pypinyin / OpenCC：仓库内的 search-index.json 是基础版，
-      # 部署时由 pages.yml 安装依赖后重新生成增强版，两者互不干扰）
+      # 部署时由 pages.yml 安装依赖后重新生成增强版，两者互不干扰）。
+      # 生成顺序统一收在 _tools/regen_all.sh，本地收尾与 CI 自愈跑的是同一份。
       - name: Regenerate derived artifacts
-        run: |
-          # 分类层级 / 科亚科正文 / 索引页说明块三项数据必须自洽（不读 list.md，只校验 JSON）
-          python _tools/extract_taxon_data.py --check
-          # 三语 /list/ 索引页 + 英西译文页（en|es/list/sections.md）
-          python _tools/build_list_index.py
-          python _tools/build_taxonomy_data.py --write
-          python .github/workflows/build_genus_index.py
-          python .github/workflows/build_species_body.py --write
-          python .github/workflows/build_photo_pages.py
-          python .github/workflows/build_taxonomy_pages.py
-          python .github/workflows/build_sitemap_txt.py
-          python .github/workflows/build_search_index.py --write --no-enrich
-          python .github/workflows/build_dataset.py --write
-          # 版本记录数据（_data/changelog.json）与 changelog.atom：由 dataset/CHANGELOG.md 确定性生成
-          python _tools/build_changelog.py --write
-          python .github/workflows/build_name_issues.py --write
+        run: bash _tools/regen_all.sh
 
       # 生成产物必须已提交：改了数据却忘了重跑脚本，这里立刻红
-      # 例外：downloads/*.zip 已在上面用 --check 逐成员比对过内容，这里只排除它的字节比对。
+      # 例外：downloads/*.zip 已在上面用 --check 逐成员比对过内容，这里只排除它的字节比对
+      #（build_dataset.py --write 在 manifest 一致时会保留仓库原字节，避免平台间抖动）。
       - name: Fail if generated artifacts are stale
         run: |
           status="$(git status --porcelain -- . ':(exclude)downloads/*.zip')"
           if [ -n "$status" ]; then
-            echo "::error::生成产物与脚本输出不一致：请在本地重跑上面的脚本并提交结果（见 git status / git diff 输出）"
+            echo "::error::生成产物与脚本输出不一致：请在本地重跑下面的脚本并提交结果（见 git status / git diff 输出）"
             printf '%s\n' "$status"
             git diff -- . ':(exclude)downloads/*.zip'
             exit 1

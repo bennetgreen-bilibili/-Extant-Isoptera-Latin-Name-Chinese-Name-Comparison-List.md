@@ -1023,9 +1023,24 @@ def main() -> int:
 
     if args.write:
         for path, content in outputs.items():
+            rel = path.relative_to(ROOT).as_posix()
+            current = path.read_bytes() if path.is_file() else None
+            if current == content:
+                print(f"unchanged: {rel}")
+                continue
+            # 跨平台字节稳定：同一份成员内容在不同 zlib 下压缩出的 zip 字节并不相同，
+            # 但那只是压缩实现的差异。manifest（成员名 + 成员字节）一致就保留仓库里的
+            # 原字节，避免 Windows 与 Linux 之间来回改写 zip，让提交历史反复抖动。
+            if path.suffix == ".zip" and current is not None:
+                try:
+                    if zip_manifest(current) == zip_manifest(content):
+                        print(f"unchanged (manifest): {rel}")
+                        continue
+                except zipfile.BadZipFile:
+                    pass
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_bytes(content)
-            print(f"written: {path.relative_to(ROOT).as_posix()}")
+            print(f"written: {rel}")
         return 0
 
     print("\n未写入任何文件（dry-run）。加 --write 写入，--check 校验仓库产物。")

@@ -26,7 +26,13 @@
 
 ## 生成脚本与顺序
 
-顺序以 `.github/workflows/pages.yml`（部署）与 `.github/workflows/validate.yml`（PR 闸门）为准：
+顺序已固化在 `_tools/regen_all.sh`（与 `.github/workflows/validate.yml` 一致）。改了源文件后在仓库根目录跑一句即可：
+
+```
+bash _tools/regen_all.sh
+```
+
+它依次运行：
 
 ```
 python _tools/extract_taxon_data.py --check
@@ -34,13 +40,16 @@ python _tools/build_list_index.py
 python _tools/build_taxonomy_data.py --write
 python .github/workflows/build_genus_index.py
 python .github/workflows/build_species_body.py --write
+python .github/workflows/build_photo_pages.py
 python .github/workflows/build_taxonomy_pages.py
 python .github/workflows/build_sitemap_txt.py
 python .github/workflows/build_search_index.py --write --no-enrich
 python .github/workflows/build_dataset.py --write
-python .github/workflows/build_name_issues.py --write
 python _tools/build_changelog.py --write
+python .github/workflows/build_name_issues.py --write
 ```
+
+整条链是幂等的：连跑两次，第二次不产生任何字节变化。
 
 - `_tools/build_list_index.py`：从上面三个数据文件 + `_species/` 生成三语 `/list/` 索引页与 `/en/list/sections/`、`/es/list/sections/` 译文页；`_tools/extract_taxon_data.py --check` 校验三个数据文件自身自洽（不读 `list.md`）。
 - `_tools/build_taxonomy_data.py`：从 `_data/taxonomy.json` + `_species/` 生成 `isoptera-data.json`、`data/index.json`、`data/*.json` 与三语 `stats.md`；改分类层级、学名或分布后必须重跑，`--check` 可校验。
@@ -59,7 +68,11 @@ python _tools/check_site.py --ci   # 与 CI 相同的严格模式
 python _tools/check_liquid.py      # Liquid 语法（成对标签 / 参数个数 / 定界符；含 comment 内部）
 ```
 
-生成的产物必须一并提交：CI 会重新生成并断言 `git status --porcelain` 为空（见 `.github/workflows/validate.yml`），忘记重跑脚本会直接红。
+生成的产物必须一并提交：CI 会重新生成并断言 `git status --porcelain` 为空（见 `.github/workflows/validate.yml`）。
+
+不过「忘了重跑」不再需要人工救火：main 分支上的推送会先跑一遍 `_tools/regen_all.sh`，产物有差异就由 `github-actions[bot]` 自动提交推回（提交信息 `chore(data): 自动重建过期产物 [skip ci]`），然后再做检查。PR 与手动 dispatch 保持严格闸门，不会改写分支——所以在 PR 里仍然要自己跑一次。
+
+归档包 `downloads/*.zip` 只比内容不比字节：`build_dataset.py --check` 逐成员比对（成员名 + 字节），因为 deflate 的输出依赖平台 zlib；`--write` 在成员清单一致时会保留仓库里原有的字节，不会因为换平台就来回改。需要注意的是 **`dataset/CHANGELOG.md` 与 `dataset/LICENSE` 也被打进归档包**，改这两个文件同样会让归档包过期（这正是 2026-11-04 那次 main 变红的原因）。
 
 ## Issue 与 PR
 
