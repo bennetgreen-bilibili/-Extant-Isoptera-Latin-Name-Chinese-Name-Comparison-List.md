@@ -7,6 +7,7 @@
 |---|---|
 | `index.md` | 首页：简介（作者/版本/引用格式）+ 页面导航 + JSON-LD |
 | `list.md` | 名录索引（`/list/`）：搜索框（中文/拉丁名/次异名/拼音/繁体检索）+ 分类框架说明 + 按科浏览 + 支系—科两层索引 + 页末参考文献；逐条名录已下沉到科／亚科／属页面 |
+| `basics.md` | 白蚁基础知识（`/basics/`）：形态学器官与部位的中文名、拉丁/英文名与识别要点，按品级、头、胸、腹、兵蚁、内部器官分组，附术语速查与异名对照；三语 |
 | `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
 | `papers.md` | 文献检索：按拉丁名/中文名/多个关键词检索 OpenAlex + Crossref，默认限定白蚁（等翅目）文献，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español，导出 GB/T 7714 / BibTeX / RIS；三语 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
@@ -15,8 +16,8 @@
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 | `changelog.md` | 版本记录（`/changelog/`）：从 `dataset/CHANGELOG.md` 生成，逐版本列出变更；可订阅 `changelog.atom` |
-| `en/*.md` | 英文版：与上表一一对应的 11 个页面（`en/index.md` … `en/papers.md`、`en/changelog.md`，permalink `/en/…/`） |
-| `es/*.md` | 西班牙语版：与上表一一对应的 11 个页面（`es/index.md` … `es/papers.md`、`es/changelog.md`，permalink `/es/…/`） |
+| `en/*.md` | 英文版：与上表一一对应的 12 个页面（`en/index.md` … `en/papers.md`、`en/changelog.md`，permalink `/en/…/`） |
+| `es/*.md` | 西班牙语版：与上表一一对应的 12 个页面（`es/index.md` … `es/papers.md`、`es/changelog.md`，permalink `/es/…/`） |
 
 > 系统发育树页面（原 `/phylogeny/`、`/en/phylogeny/`、`/es/phylogeny/`）自 2026-11-02 起暂缓发布：三个页面已移到 `_pending_pages/phylogeny/`，`_data/phylogeny.json`、`assets/phylogeny.js`、`assets/phylogeny.css`、`_includes/phylogeny.html` 与三语文案（i18n 的 phylogeny 段）仍保留；等新论文发表后按 `_pending_pages/phylogeny/README.md` 恢复即可。
 

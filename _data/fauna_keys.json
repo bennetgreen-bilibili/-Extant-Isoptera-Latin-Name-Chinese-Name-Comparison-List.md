@@ -688,12 +688,812 @@
     "book_genus": "木白蚁科 Kalotermitidae",
     "source": "据黄复生等（2000）《中国动物志·昆虫纲·第十七卷·等翅目》译出。",
     "src_short": "黄复生等（2000）"
+   },
+   {
+    "title": "木白蚁科分属检索表（世界）",
+    "caste": "有翅成虫",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "前翅 M 脉与 Cu 脉在翅鳞之外共同起始；爪间突缺",
+        "to": 2
+       },
+       {
+        "t": "前翅 M 脉与 Cu 脉在翅鳞之内起始；爪间突有或缺",
+        "to": 3
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "左上颚（有翅成虫或拟工蚁）第 3 缘齿前缘长度超过第 1+2 缘齿后缘长度的 1.5 倍",
+        "leaf": {
+         "kind": "genus",
+         "zh": "上木白蚁属",
+         "latin": "Epicalotermes",
+         "url": "/genus/epicalotermes/"
+        }
+       },
+       {
+        "t": "第 3 缘齿前缘明显较长，但通常不超过第 1+2 缘齿后缘长度的 1.5 倍",
+        "leaf": {
+         "kind": "genus",
+         "zh": "双裂白蚁属",
+         "latin": "Bifiditermes",
+         "url": "/genus/bifiditermes/",
+         "also": [
+          {
+           "kind": "genus",
+           "zh": "双角白蚁属",
+           "latin": "Bicornitermes",
+           "url": "/genus/bicornitermes/"
+          }
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "d": 1,
+      "leads": [
+       {
+        "t": "中胫具 3 枚端距，并另有刺",
+        "to": 4
+       },
+       {
+        "t": "中胫仅具 3 枚端距，无附加刺",
+        "to": 6
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 2,
+      "leads": [
+       {
+        "t": "中胫具 2 枚外刺和 1 枚内刺；仅化石",
+        "leaf": {
+         "kind": "fossil",
+         "latin": "Proelectrotermes"
+        }
+       },
+       {
+        "t": "中胫具 1—2 枚外刺，无内刺",
+        "to": 5
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 3,
+      "leads": [
+       {
+        "t": "中胫具 2 枚外刺；仅化石",
+        "leaf": {
+         "kind": "fossil",
+         "latin": "Electrotermes"
+        }
+       },
+       {
+        "t": "中胫具 1 枚外刺；现生",
+        "leaf": {
+         "kind": "genus",
+         "zh": "后琥珀白蚁属",
+         "latin": "Postelectrotermes",
+         "url": "/genus/postelectrotermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 6,
+      "d": 2,
+      "leads": [
+       {
+        "t": "左上颚第 3 缘齿前缘等于第 1+2 缘齿后缘",
+        "to": 7
+       },
+       {
+        "t": "左上颚第 3 缘齿前缘明显较长",
+        "to": 16
+       }
+      ]
+     },
+     {
+      "n": 7,
+      "d": 3,
+      "leads": [
+       {
+        "t": "前翅 M 脉未骨化、细弱，大致居中于 Rs 与 Cu 之间，直达翅端",
+        "to": 8
+       },
+       {
+        "t": "前翅 M 脉骨化",
+        "to": 9
+       }
+      ]
+     },
+     {
+      "n": 8,
+      "d": 4,
+      "leads": [
+       {
+        "t": "翅深色，具瘤状小突起；爪间突有",
+        "leaf": {
+         "kind": "genus",
+         "zh": "木白蚁属",
+         "latin": "Kalotermes",
+         "url": "/genus/kalotermes/"
+        }
+       },
+       {
+        "t": "翅透明，无瘤突；爪间突缺",
+        "leaf": {
+         "kind": "genus",
+         "zh": "翅白蚁属",
+         "latin": "Pterotermes",
+         "url": "/genus/pterotermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 9,
+      "d": 4,
+      "leads": [
+       {
+        "t": "前翅 M 脉骨化，但强度不及 Rs",
+        "to": 10
+       },
+       {
+        "t": "前翅 M 脉骨化强度与 Rs 相同",
+        "to": 12
+       }
+      ]
+     },
+     {
+      "n": 10,
+      "d": 5,
+      "leads": [
+       {
+        "t": "头与前胸背板密被长而波状的毛",
+        "leaf": {
+         "kind": "genus",
+         "zh": "毛白蚁属",
+         "latin": "Comatermes",
+         "url": "/genus/comatermes/"
+        }
+       },
+       {
+        "t": "头与前胸背板被短刚毛，无长毛",
+        "to": 11
+       }
+      ]
+     },
+     {
+      "n": 11,
+      "d": 6,
+      "leads": [
+       {
+        "t": "左上颚第 1+2 缘齿后缘具明显端齿，后缘略长于第 3 缘齿前缘",
+        "leaf": {
+         "kind": "genus",
+         "zh": "近新白蚁属",
+         "latin": "Paraneotermes",
+         "url": "/genus/paraneotermes/"
+        }
+       },
+       {
+        "t": "第 1+2 缘齿后缘无端齿，均匀圆滑；后缘等于第 3 缘齿前缘",
+        "leaf": {
+         "kind": "genus",
+         "zh": "角木白蚁属",
+         "latin": "Ceratokalotermes",
+         "url": "/genus/ceratokalotermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 12,
+      "d": 5,
+      "leads": [
+       {
+        "t": "Rs 不分枝；M 脉紧靠 Rs 直达翅端",
+        "to": 13
+       },
+       {
+        "t": "Rs 具分枝",
+        "to": 14
+       }
+      ]
+     },
+     {
+      "n": 13,
+      "d": 6,
+      "leads": [
+       {
+        "t": "左上颚第 1+2 缘齿后缘与第 3 缘齿前缘交界处有明显角状缺刻",
+        "leaf": {
+         "kind": "genus",
+         "zh": "树白蚁属",
+         "latin": "Glyptotermes",
+         "url": "/genus/glyptotermes/"
+        }
+       },
+       {
+        "t": "左上颚上述交界处无明显角状缺刻",
+        "leaf": {
+         "kind": "genus",
+         "zh": "距白蚁属",
+         "latin": "Calcaritermes",
+         "url": "/genus/calcaritermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 14,
+      "d": 6,
+      "leads": [
+       {
+        "t": "M 脉极短小，在近翅缝处与 Rs 汇合",
+        "leaf": {
+         "kind": "genus",
+         "zh": "皱白蚁属",
+         "latin": "Rugitermes",
+         "url": "/genus/rugitermes/"
+        }
+       },
+       {
+        "t": "M 脉紧靠并平行于 Rs 直达翅端",
+        "to": 15
+       }
+      ]
+     },
+     {
+      "n": 15,
+      "d": 7,
+      "leads": [
+       {
+        "t": "前翅鳞前缘凸；复眼直径 0.46—0.78 mm",
+        "leaf": {
+         "kind": "genus",
+         "zh": "新白蚁属",
+         "latin": "Neotermes",
+         "url": "/genus/neotermes/"
+        }
+       },
+       {
+        "t": "前翅鳞前缘近直；复眼直径 0.43 mm",
+        "leaf": {
+         "kind": "genus",
+         "zh": "真砂白蚁属",
+         "latin": "Eucryptotermes",
+         "url": "/genus/eucryptotermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 16,
+      "d": 3,
+      "leads": [
+       {
+        "t": "M 脉稍骨化，与 Rs 的距离较与 Cu 近",
+        "leaf": {
+         "kind": "genus",
+         "zh": "前新白蚁属",
+         "latin": "Proneotermes",
+         "url": "/genus/proneotermes/"
+        }
+       },
+       {
+        "t": "M 脉未骨化，大致居中于 Rs 与 Cu 之间",
+        "to": 17
+       }
+      ]
+     },
+     {
+      "n": 17,
+      "d": 4,
+      "leads": [
+       {
+        "t": "M 脉在翅中部或中部之后向上弯，与 Rs 汇合",
+        "leaf": {
+         "kind": "genus",
+         "zh": "前砂白蚁属",
+         "latin": "Procryptotermes",
+         "url": "/genus/procryptotermes/",
+         "also": [
+          {
+           "kind": "genus",
+           "zh": "堆砂白蚁属",
+           "latin": "Cryptotermes",
+           "url": "/genus/cryptotermes/"
+          }
+         ]
+        }
+       },
+       {
+        "t": "M 脉直达翅端",
+        "to": 18
+       }
+      ]
+     },
+     {
+      "n": 18,
+      "d": 5,
+      "leads": [
+       {
+        "t": "爪间突始终缺",
+        "leaf": {
+         "kind": "genus",
+         "zh": "边白蚁属",
+         "latin": "Marginitermes",
+         "url": "/genus/marginitermes/",
+         "also": [
+          {
+           "kind": "genus",
+           "zh": "奇白蚁属",
+           "latin": "Allotermes",
+           "url": "/genus/allotermes/"
+          }
+         ]
+        }
+       },
+       {
+        "t": "爪间突通常有，偶缺",
+        "leaf": {
+         "kind": "genus",
+         "zh": "楹白蚁属",
+         "latin": "Incisitermes",
+         "url": "/genus/incisitermes/",
+         "also": [
+          {
+           "kind": "genus",
+           "zh": "牛白蚁属",
+           "latin": "Tauritermes",
+           "url": "/genus/tauritermes/"
+          }
+         ]
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 19,
+    "note": "世界分属检索表，含化石属 †Proelectrotermes 与 †Electrotermes；本站只收现存类群，化石属仅列名不加链接。原表据 Krishna（1961），未含本站另收的头长白蚁属（Longicaputermes）与罗伊辛白蚁属（Roisinitermes）。",
+    "source": "据 Krishna、Grimaldi、Krishna、Engel（2013）《Treatise on the Isoptera of the World》（Bulletin of the American Museum of Natural History 377）第 75—78 页「Key to the Genera of the Family Kalotermitidae」（源自 Krishna, 1961）译出。",
+    "src_short": "Krishna 等（2013）"
+   },
+   {
+    "title": "木白蚁科分属检索表（世界）",
+    "caste": "兵蚁",
+    "couplets": [
+     {
+      "n": 1,
+      "d": 0,
+      "leads": [
+       {
+        "t": "中胫具 1 枚外刺",
+        "leaf": {
+         "kind": "genus",
+         "zh": "后琥珀白蚁属",
+         "latin": "Postelectrotermes",
+         "url": "/genus/postelectrotermes/"
+        }
+       },
+       {
+        "t": "中胫无刺",
+        "to": 2
+       }
+      ]
+     },
+     {
+      "n": 2,
+      "d": 1,
+      "leads": [
+       {
+        "t": "前胫外侧近端部具 1 枚粗大显著的距，远大于 2 枚端距",
+        "leaf": {
+         "kind": "genus",
+         "zh": "距白蚁属",
+         "latin": "Calcaritermes",
+         "url": "/genus/calcaritermes/"
+        }
+       },
+       {
+        "t": "前胫端距不增大",
+        "to": 3
+       }
+      ]
+     },
+     {
+      "n": 3,
+      "d": 2,
+      "leads": [
+       {
+        "t": "头短，强护巢型（头前部平截，可用头堵住巢口）",
+        "to": 4
+       },
+       {
+        "t": "头长或短，非护巢型，前部以约 20°—45° 倾斜；具或不具前侧突",
+        "to": 8
+       }
+      ]
+     },
+     {
+      "n": 4,
+      "d": 3,
+      "leads": [
+       {
+        "t": "前胸背板前缘锯齿状",
+        "to": 5
+       },
+       {
+        "t": "前胸背板前缘平整，不呈锯齿状",
+        "to": 7
+       }
+      ]
+     },
+     {
+      "n": 5,
+      "d": 4,
+      "leads": [
+       {
+        "t": "前胸背板前缘呈锐锯齿状；头二叶状，叶间区域凹陷；头顶与额之间无脊",
+        "leaf": {
+         "kind": "genus",
+         "zh": "双角白蚁属",
+         "latin": "Bicornitermes",
+         "url": "/genus/bicornitermes/"
+        }
+       },
+       {
+        "t": "前胸背板前缘波状，具弱或细锯齿；头顶与额之间有脊",
+        "to": 6
+       }
+      ]
+     },
+     {
+      "n": 6,
+      "d": 5,
+      "leads": [
+       {
+        "t": "头前部强烈凹入（勺状）；触角窝位于距头前部 1/3—1/2 头长处",
+        "leaf": {
+         "kind": "genus",
+         "zh": "真砂白蚁属",
+         "latin": "Eucryptotermes",
+         "url": "/genus/eucryptotermes/"
+        }
+       },
+       {
+        "t": "头前部垂直，不强烈凹入；触角窝靠近上颚侧基",
+        "leaf": {
+         "kind": "genus",
+         "zh": "堆砂白蚁属",
+         "latin": "Cryptotermes",
+         "url": "/genus/cryptotermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 7,
+      "d": 4,
+      "leads": [
+       {
+        "t": "头顶与额之间脊明显；头前部不垂直；触角第 3 节大，棒状",
+        "leaf": {
+         "kind": "genus",
+         "zh": "前砂白蚁属",
+         "latin": "Procryptotermes",
+         "url": "/genus/procryptotermes/"
+        }
+       },
+       {
+        "t": "头顶与额之间无脊；头前部垂直；触角第 3 节不大",
+        "leaf": {
+         "kind": "genus",
+         "zh": "树白蚁属",
+         "latin": "Glyptotermes",
+         "url": "/genus/glyptotermes/",
+         "note": "部分种",
+         "also": [
+          {
+           "kind": "genus",
+           "zh": "木白蚁属",
+           "latin": "Kalotermes",
+           "url": "/genus/kalotermes/",
+           "note": "部分种"
+          }
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "n": 8,
+      "d": 3,
+      "leads": [
+       {
+        "t": "前胸背板前缘无深凹或深缺刻",
+        "to": 9
+       },
+       {
+        "t": "前胸背板前缘深凹或具深缺刻",
+        "to": 13
+       }
+      ]
+     },
+     {
+      "n": 9,
+      "d": 4,
+      "leads": [
+       {
+        "t": "头前部具显著脊，由触角背缘向中央延伸而成",
+        "leaf": {
+         "kind": "genus",
+         "zh": "皱白蚁属",
+         "latin": "Rugitermes",
+         "url": "/genus/rugitermes/"
+        }
+       },
+       {
+        "t": "头无显著脊",
+        "to": 10
+       }
+      ]
+     },
+     {
+      "n": 10,
+      "d": 5,
+      "leads": [
+       {
+        "t": "头通常具明显前侧突，有时呈护巢型",
+        "leaf": {
+         "kind": "genus",
+         "zh": "树白蚁属",
+         "latin": "Glyptotermes",
+         "url": "/genus/glyptotermes/"
+        }
+       },
+       {
+        "t": "头长，无明显前侧突",
+        "to": 11
+       }
+      ]
+     },
+     {
+      "n": 11,
+      "d": 6,
+      "leads": [
+       {
+        "t": "上颚相对头壳其余部分短",
+        "to": 12
+       },
+       {
+        "t": "上颚长，相对头壳不短",
+        "leaf": {
+         "kind": "genus",
+         "zh": "木白蚁属",
+         "latin": "Kalotermes",
+         "url": "/genus/kalotermes/",
+         "also": [
+          {
+           "kind": "genus",
+           "zh": "新白蚁属",
+           "latin": "Neotermes",
+           "url": "/genus/neotermes/"
+          }
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "n": 12,
+      "d": 7,
+      "leads": [
+       {
+        "t": "后颏前部很宽；拟工蚁上颚如图 38B",
+        "leaf": {
+         "kind": "genus",
+         "zh": "近新白蚁属",
+         "latin": "Paraneotermes",
+         "url": "/genus/paraneotermes/"
+        }
+       },
+       {
+        "t": "后颏前部不很宽；头前部斜面凹入",
+        "leaf": {
+         "kind": "genus",
+         "zh": "毛白蚁属",
+         "latin": "Comatermes",
+         "url": "/genus/comatermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 13,
+      "d": 4,
+      "leads": [
+       {
+        "t": "头两侧明显圆；后颏基部有骨化肿胀",
+        "leaf": {
+         "kind": "genus",
+         "zh": "翅白蚁属",
+         "latin": "Pterotermes",
+         "url": "/genus/pterotermes/"
+        }
+       },
+       {
+        "t": "头两侧几乎平直；后颏基部无肿胀",
+        "to": 14
+       }
+      ]
+     },
+     {
+      "n": 14,
+      "d": 5,
+      "leads": [
+       {
+        "t": "触角第 3 节很大，长度等于其后 5—7 节之和；头顶与额之间有脊",
+        "leaf": {
+         "kind": "genus",
+         "zh": "边白蚁属",
+         "latin": "Marginitermes",
+         "url": "/genus/marginitermes/"
+        }
+       },
+       {
+        "t": "触角第 3 节不及其后 5—7 节之和",
+        "to": 15
+       }
+      ]
+     },
+     {
+      "n": 15,
+      "d": 6,
+      "leads": [
+       {
+        "t": "头背腹扁平",
+        "to": 16
+       },
+       {
+        "t": "头厚",
+        "to": 17
+       }
+      ]
+     },
+     {
+      "n": 16,
+      "d": 7,
+      "leads": [
+       {
+        "t": "头自中部附近向前倾斜；上颚相对头壳长且强烈弯曲；腿节不肿胀",
+        "leaf": {
+         "kind": "genus",
+         "zh": "上木白蚁属",
+         "latin": "Epicalotermes",
+         "url": "/genus/epicalotermes/"
+        }
+       },
+       {
+        "t": "头不自中部向前倾斜；上颚相对头壳短；腿节强烈肿胀",
+        "leaf": {
+         "kind": "genus",
+         "zh": "楹白蚁属",
+         "latin": "Incisitermes",
+         "url": "/genus/incisitermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 17,
+      "d": 7,
+      "leads": [
+       {
+        "t": "触角窝前下方具角状突",
+        "leaf": {
+         "kind": "genus",
+         "zh": "奇白蚁属",
+         "latin": "Allotermes",
+         "url": "/genus/allotermes/"
+        }
+       },
+       {
+        "t": "无角状突",
+        "to": 18
+       }
+      ]
+     },
+     {
+      "n": 18,
+      "d": 8,
+      "leads": [
+       {
+        "t": "头具明显前侧突",
+        "to": 19
+       },
+       {
+        "t": "头前侧突不明显",
+        "to": 20
+       }
+      ]
+     },
+     {
+      "n": 19,
+      "d": 9,
+      "leads": [
+       {
+        "t": "触角第 3 节特化，较第 4 节长且色深；前胸背板前缘明显波状",
+        "leaf": {
+         "kind": "genus",
+         "zh": "牛白蚁属",
+         "latin": "Tauritermes",
+         "url": "/genus/tauritermes/"
+        }
+       },
+       {
+        "t": "触角第 3 节不特化，与第 4 节等长；前胸背板前缘微弱波状",
+        "leaf": {
+         "kind": "genus",
+         "zh": "角木白蚁属",
+         "latin": "Ceratokalotermes",
+         "url": "/genus/ceratokalotermes/"
+        }
+       }
+      ]
+     },
+     {
+      "n": 20,
+      "d": 9,
+      "leads": [
+       {
+        "t": "腿节肿胀；头前部深色；头顶与额之间有弱脊",
+        "leaf": {
+         "kind": "genus",
+         "zh": "前新白蚁属",
+         "latin": "Proneotermes",
+         "url": "/genus/proneotermes/"
+        }
+       },
+       {
+        "t": "腿节不肿胀；头顶与额之间无脊",
+        "leaf": {
+         "kind": "genus",
+         "zh": "双裂白蚁属",
+         "latin": "Bifiditermes",
+         "url": "/genus/bifiditermes/"
+        }
+       }
+      ]
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 21,
+    "note": "世界分属检索表，含化石属 †Proelectrotermes 与 †Electrotermes；本站只收现存类群，化石属仅列名不加链接。原表据 Krishna（1961），未含本站另收的头长白蚁属（Longicaputermes）与罗伊辛白蚁属（Roisinitermes）。",
+    "source": "据 Krishna、Grimaldi、Krishna、Engel（2013）《Treatise on the Isoptera of the World》（Bulletin of the American Museum of Natural History 377）第 75—78 页「Key to the Genera of the Family Kalotermitidae」（源自 Krishna, 1961）译出。",
+    "src_short": "Krishna 等（2013）"
    }
   ],
   "omitted": [],
-  "n_keys": 1,
-  "n_couplets": 4,
-  "n_leaves": 5
+  "n_keys": 3,
+  "n_couplets": 42,
+  "n_leaves": 45
  },
  "/genus/glyptotermes/": {
   "keys": [

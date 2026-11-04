@@ -79,7 +79,8 @@ TITLEHINT={0:'等翅目科的检索表',1:'木白蚊科分属',2:'树白蚁属�
 
 # hand-written couplets for keys whose printed layout defeated the line parser
 from keys_orders import (ORDER_OVR, NEOTERMES_OVR, NEONOTE, FAMNOTE, ORDSRC, SFSRC,
-                         BOOKSRC, HELSHORT, BOOKSHORT)
+                         BOOKSRC, HELSHORT, BOOKSHORT, KALO_WORLD, KALOSRC,
+                         KRISHNASHORT, KALONOTE)
 
 OVR={
  16:('壤白蚁属',[('兵蚁',[
@@ -361,8 +362,24 @@ def named_leaf(tgt):
         s=SLUG.get(tgt[3:])
         return {'kind':'species','zh':s['zh'],'latin':s['latin'],'url':s['url']} if s else None
     if tgt.startswith('gen:'):
-        g=GEN.get(tgt[4:])
-        return {'kind':'genus','zh':g['zh'],'latin':g['latin'],'url':'/genus/%s/'%g['id']} if g else None
+        parts=tgt.split('+')
+        out=[]
+        for part in parts:
+            gid=part[4:]
+            note=''
+            if '|' in gid:
+                gid,note=gid.split('|',1)
+            g=GEN.get(gid)
+            if not g: return None
+            lf={'kind':'genus','zh':g['zh'],'latin':g['latin'],'url':'/genus/%s/'%g['id']}
+            if note: lf['note']=note
+            out.append(lf)
+        leaf=out[0]
+        if len(out)>1: leaf['also']=out[1:]
+        return leaf
+    if tgt.startswith('fos:'):
+        lat=tgt[4:]
+        return {'kind':'fossil','latin':lat}
     if tgt.startswith('fam:'):
         f=res.FAM.get(tgt[4:])
         if not f: return None
@@ -558,6 +575,19 @@ def subfamily_key():
             'note':'以工蚁肠道解剖与上颚齿序为主，覆盖现存等翅目全部 18 个亚科，与原书（2000）按兵蚁、有翅成虫形态划分的亚科系统不完全一致；各终点链接到本站对应的亚科页面。',
             'n_subfamilies':18}
 
+def kalotermes_world_keys():
+    """木白蚁科世界分属检索表（Krishna et al. 2013），两套：有翅成虫、兵蚁。"""
+    keys=[]
+    ttl_base=KALO_WORLD[0]
+    for caste,cps in KALO_WORLD[1]:
+        dropped=[]
+        cs=key_from_ovr({'page':'/family/kalotermitidae/'}, caste, cps, dropped)
+        if not cs: continue
+        keys.append({'title':ttl_base,'caste':caste,'couplets':cs,'dropped':dropped,
+                     'n_leaves':count_leaves(cs),'note':KALONOTE,
+                     'source':KALOSRC,'src_short':KRISHNASHORT})
+    return keys
+
 if __name__=='__main__':
     pages={}
     report=[]
@@ -591,6 +621,9 @@ if __name__=='__main__':
     sf=subfamily_key()
     ent=pages.setdefault('/family/termitidae/',{'keys':[],'omitted':[]})
     ent['keys'].insert(0,sf)
+    # 木白蚁科：中国动物志分属表之后，接 Krishna et al. (2013) 世界分属表（有翅成虫、兵蚁）
+    kent=pages.setdefault('/family/kalotermitidae/',{'keys':[],'omitted':[]})
+    kent['keys'].extend(kalotermes_world_keys())
     # order: subfamily index first, then genus keys
     for pg,v in pages.items():
         v['keys']=[k for k in v['keys'] if k.get('couplets')]

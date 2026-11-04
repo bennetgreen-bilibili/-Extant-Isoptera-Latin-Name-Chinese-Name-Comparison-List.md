@@ -122,3 +122,99 @@ NEOTERMES_OVR = ('新白蚁属', [('兵蚁', [
   (17, [('左上颚短，其长小于头宽；后颏最宽区两侧平行；触角 14—16 节', 'sp:neotermes-sphenocephalus'),
         ('左上颚较长，其长大于头宽；后颏最宽区两侧前宽后狭；前胸背板前缘中央凹口较宽而深，中央不具切刻；触角 12 节', 'sp:neotermes-taishanensis')]),
  ])])
+
+# ---------------------------------------------------------------------------
+# 木白蚁科（Kalotermitidae）世界分属检索表
+# 据 Krishna et al. (2013) Treatise on the Isoptera of the World 第 75—78 页
+# "Key to the Genera of the Family Kalotermitidae"（源自 Krishna, 1961）译出。
+# 原表分有翅成虫与兵蚁两套；化石属以 fos: 前缀标记，不链接本站页面。
+KALOSRC = ('据 Krishna、Grimaldi、Krishna、Engel（2013）《Treatise on the Isoptera of the World》'
+           '（Bulletin of the American Museum of Natural History 377）第 75—78 页'
+           '「Key to the Genera of the Family Kalotermitidae」（源自 Krishna, 1961）译出。')
+KRISHNASHORT = 'Krishna 等（2013）'
+KALONOTE = ('世界分属检索表，含化石属 †Proelectrotermes 与 †Electrotermes；本站只收现存类群，'
+            '化石属仅列名不加链接。原表据 Krishna（1961），未含本站另收的头长白蚁属'
+            '（Longicaputermes）与罗伊辛白蚁属（Roisinitermes）。')
+
+KALO_WORLD = ('木白蚁科分属检索表（世界）', [
+ ('有翅成虫', [
+  (1, [('前翅 M 脉与 Cu 脉在翅鳞之外共同起始；爪间突缺', 'to:2'),
+       ('前翅 M 脉与 Cu 脉在翅鳞之内起始；爪间突有或缺', 'to:3')]),
+  (2, [('左上颚（有翅成虫或拟工蚁）第 3 缘齿前缘长度超过第 1+2 缘齿后缘长度的 1.5 倍', 'gen:epicalotermes'),
+       ('第 3 缘齿前缘明显较长，但通常不超过第 1+2 缘齿后缘长度的 1.5 倍', 'gen:bifiditermes+gen:bicornitermes')]),
+  (3, [('中胫具 3 枚端距，并另有刺', 'to:4'),
+       ('中胫仅具 3 枚端距，无附加刺', 'to:6')]),
+  (4, [('中胫具 2 枚外刺和 1 枚内刺；仅化石', 'fos:Proelectrotermes'),
+       ('中胫具 1—2 枚外刺，无内刺', 'to:5')]),
+  (5, [('中胫具 2 枚外刺；仅化石', 'fos:Electrotermes'),
+       ('中胫具 1 枚外刺；现生', 'gen:postelectrotermes')]),
+  (6, [('左上颚第 3 缘齿前缘等于第 1+2 缘齿后缘', 'to:7'),
+       ('左上颚第 3 缘齿前缘明显较长', 'to:16')]),
+  (7, [('前翅 M 脉未骨化、细弱，大致居中于 Rs 与 Cu 之间，直达翅端', 'to:8'),
+       ('前翅 M 脉骨化', 'to:9')]),
+  (8, [('翅深色，具瘤状小突起；爪间突有', 'gen:kalotermes'),
+       ('翅透明，无瘤突；爪间突缺', 'gen:pterotermes')]),
+  (9, [('前翅 M 脉骨化，但强度不及 Rs', 'to:10'),
+       ('前翅 M 脉骨化强度与 Rs 相同', 'to:12')]),
+  (10, [('头与前胸背板密被长而波状的毛', 'gen:comatermes'),
+        ('头与前胸背板被短刚毛，无长毛', 'to:11')]),
+  (11, [('左上颚第 1+2 缘齿后缘具明显端齿，后缘略长于第 3 缘齿前缘', 'gen:paraneotermes'),
+        ('第 1+2 缘齿后缘无端齿，均匀圆滑；后缘等于第 3 缘齿前缘', 'gen:ceratokalotermes')]),
+  (12, [('Rs 不分枝；M 脉紧靠 Rs 直达翅端', 'to:13'),
+        ('Rs 具分枝', 'to:14')]),
+  (13, [('左上颚第 1+2 缘齿后缘与第 3 缘齿前缘交界处有明显角状缺刻', 'gen:glyptotermes'),
+        ('左上颚上述交界处无明显角状缺刻', 'gen:calcaritermes')]),
+  (14, [('M 脉极短小，在近翅缝处与 Rs 汇合', 'gen:rugitermes'),
+        ('M 脉紧靠并平行于 Rs 直达翅端', 'to:15')]),
+  (15, [('前翅鳞前缘凸；复眼直径 0.46—0.78 mm', 'gen:neotermes'),
+        ('前翅鳞前缘近直；复眼直径 0.43 mm', 'gen:eucryptotermes')]),
+  (16, [('M 脉稍骨化，与 Rs 的距离较与 Cu 近', 'gen:proneotermes'),
+        ('M 脉未骨化，大致居中于 Rs 与 Cu 之间', 'to:17')]),
+  (17, [('M 脉在翅中部或中部之后向上弯，与 Rs 汇合', 'gen:procryptotermes+gen:cryptotermes'),
+        ('M 脉直达翅端', 'to:18')]),
+  (18, [('爪间突始终缺', 'gen:marginitermes+gen:allotermes'),
+        ('爪间突通常有，偶缺', 'gen:incisitermes+gen:tauritermes')]),
+ ]),
+ ('兵蚁', [
+  (1, [('中胫具 1 枚外刺', 'gen:postelectrotermes'),
+       ('中胫无刺', 'to:2')]),
+  (2, [('前胫外侧近端部具 1 枚粗大显著的距，远大于 2 枚端距', 'gen:calcaritermes'),
+       ('前胫端距不增大', 'to:3')]),
+  (3, [('头短，强护巢型（头前部平截，可用头堵住巢口）', 'to:4'),
+       ('头长或短，非护巢型，前部以约 20°—45° 倾斜；具或不具前侧突', 'to:8')]),
+  (4, [('前胸背板前缘锯齿状', 'to:5'),
+       ('前胸背板前缘平整，不呈锯齿状', 'to:7')]),
+  (5, [('前胸背板前缘呈锐锯齿状；头二叶状，叶间区域凹陷；头顶与额之间无脊', 'gen:bicornitermes'),
+       ('前胸背板前缘波状，具弱或细锯齿；头顶与额之间有脊', 'to:6')]),
+  (6, [('头前部强烈凹入（勺状）；触角窝位于距头前部 1/3—1/2 头长处', 'gen:eucryptotermes'),
+       ('头前部垂直，不强烈凹入；触角窝靠近上颚侧基', 'gen:cryptotermes')]),
+  (7, [('头顶与额之间脊明显；头前部不垂直；触角第 3 节大，棒状', 'gen:procryptotermes'),
+       ('头顶与额之间无脊；头前部垂直；触角第 3 节不大', 'gen:glyptotermes|部分种+gen:kalotermes|部分种')]),
+  (8, [('前胸背板前缘无深凹或深缺刻', 'to:9'),
+       ('前胸背板前缘深凹或具深缺刻', 'to:13')]),
+  (9, [('头前部具显著脊，由触角背缘向中央延伸而成', 'gen:rugitermes'),
+       ('头无显著脊', 'to:10')]),
+  (10, [('头通常具明显前侧突，有时呈护巢型', 'gen:glyptotermes'),
+        ('头长，无明显前侧突', 'to:11')]),
+  (11, [('上颚相对头壳其余部分短', 'to:12'),
+        ('上颚长，相对头壳不短', 'gen:kalotermes+gen:neotermes')]),
+  (12, [('后颏前部很宽；拟工蚁上颚如图 38B', 'gen:paraneotermes'),
+        ('后颏前部不很宽；头前部斜面凹入', 'gen:comatermes')]),
+  (13, [('头两侧明显圆；后颏基部有骨化肿胀', 'gen:pterotermes'),
+        ('头两侧几乎平直；后颏基部无肿胀', 'to:14')]),
+  (14, [('触角第 3 节很大，长度等于其后 5—7 节之和；头顶与额之间有脊', 'gen:marginitermes'),
+        ('触角第 3 节不及其后 5—7 节之和', 'to:15')]),
+  (15, [('头背腹扁平', 'to:16'),
+        ('头厚', 'to:17')]),
+  (16, [('头自中部附近向前倾斜；上颚相对头壳长且强烈弯曲；腿节不肿胀', 'gen:epicalotermes'),
+        ('头不自中部向前倾斜；上颚相对头壳短；腿节强烈肿胀', 'gen:incisitermes')]),
+  (17, [('触角窝前下方具角状突', 'gen:allotermes'),
+        ('无角状突', 'to:18')]),
+  (18, [('头具明显前侧突', 'to:19'),
+        ('头前侧突不明显', 'to:20')]),
+  (19, [('触角第 3 节特化，较第 4 节长且色深；前胸背板前缘明显波状', 'gen:tauritermes'),
+        ('触角第 3 节不特化，与第 4 节等长；前胸背板前缘微弱波状', 'gen:ceratokalotermes')]),
+  (20, [('腿节肿胀；头前部深色；头顶与额之间有弱脊', 'gen:proneotermes'),
+        ('腿节不肿胀；头顶与额之间无脊', 'gen:bifiditermes')]),
+ ]),
+])

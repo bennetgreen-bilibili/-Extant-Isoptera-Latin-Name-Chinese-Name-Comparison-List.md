@@ -10,6 +10,7 @@ zh-CN:
   nav_label: 主导航
   nav_home: 首页
   nav_list: 名录索引
+  nav_basics: 基础知识
   nav_search: 全文搜索
   nav_papers: 文献
   nav_phylogeny: 系统发育树
@@ -156,6 +157,7 @@ en:
   nav_label: Main navigation
   nav_home: Home
   nav_list: List index
+  nav_basics: Basics
   nav_search: Search
   nav_papers: Papers
   nav_phylogeny: Phylogeny
@@ -302,6 +304,7 @@ es:
   nav_label: Navegación principal
   nav_home: Inicio
   nav_list: Índice de la lista
+  nav_basics: Fundamentos
   nav_search: Búsqueda
   nav_papers: Artículos
   nav_phylogeny: Filogenia

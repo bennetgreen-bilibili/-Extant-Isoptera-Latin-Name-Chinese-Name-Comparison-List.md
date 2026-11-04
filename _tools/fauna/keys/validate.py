@@ -15,7 +15,12 @@ for pg, v in j.items():
         for c in k['couplets']:
             for l in c['leads']:
                 lf = l.get('leaf')
-                if lf and not exists(lf['url'], lf['kind']):
-                    bad.append((pg, lf['kind'], lf['url'], lf['latin']))
+                if not lf:
+                    continue
+                for row in [lf] + (lf.get('also') or []):
+                    if row.get('kind') == 'fossil' or not row.get('url'):
+                        continue
+                    if not exists(row['url'], row['kind']):
+                        bad.append((pg, row['kind'], row['url'], row.get('latin', '')))
 print('strict missing', len(bad))
 for b in bad[:40]: print(b)
