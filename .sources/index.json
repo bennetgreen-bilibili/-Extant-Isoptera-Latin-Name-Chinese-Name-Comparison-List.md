@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 12,
+    "count": 17,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T01:10:27+08:00",
+    "updated": "2026-11-07T01:18:41+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -13,8 +13,8 @@
       "canonical_key": "library:白蚁学",
       "file_path": "_unpublished/文库/白蚁学",
       "chars": 885410,
-      "retrieved_via": "文库（DOCX/PDF 抽取）",
-      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；中文教材，7 篇 22 章。",
+      "retrieved_via": "文库（抽取）",
+      "notes": "全文存于 _unpublished/文库/白蚁学（885410 字符），抽取：未知；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；中文教材，7 篇 22 章。",
       "library": {
         "book": "白蚁学",
         "manifest": "_unpublished/文库/manifest.json",
@@ -60,7 +60,7 @@
       "publisher": "科学出版社",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-04T22:35:32+08:00",
       "evidence": [
         {
           "quote": "缺少真工蚁的低等白蚁在发育到成虫的过程中，前胸腺经历了相当规律的生长过程",
@@ -79,8 +79,8 @@
       "canonical_key": "library:白蚁生物学现代研究合集",
       "file_path": "_unpublished/文库/白蚁生物学现代研究合集",
       "chars": 923202,
-      "retrieved_via": "文库（DOCX/PDF 抽取）",
-      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；原书 Biology of Termites: A Modern Synthesis（Bignell, Roisin, Lo 编）的中译合集。",
+      "retrieved_via": "文库（抽取）",
+      "notes": "全文存于 _unpublished/文库/白蚁生物学现代研究合集（923202 字符），抽取：未知；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；原书 Biology of Termites: A Modern Synthesis（Bignell, Roisin, Lo 编）的中译合集。",
       "library": {
         "book": "白蚁生物学现代研究合集",
         "manifest": "_unpublished/文库/manifest.json",
@@ -144,7 +144,7 @@
       "publisher": "中译合集",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-04T22:35:32+08:00",
       "evidence": [
         {
           "quote": "广义的拟工蚁或假工蚁，定义为个体作为一种 功能分类完成工作，而其余的发展灵活。其区分于真工蚁的后期特征是产生了早期的 和不可逆转的发展分支，失去了继续分化为有翅蚁的可能。",
@@ -193,8 +193,8 @@
       "canonical_key": "library:中国动物志-昆虫纲-第十七卷-等翅目",
       "file_path": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目",
       "chars": 869535,
-      "retrieved_via": "文库（DOCX/PDF 抽取）",
-      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；中国等翅目分类志，物种阶元的一手依据。",
+      "retrieved_via": "文库（抽取）",
+      "notes": "全文存于 _unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目（869535 字符），抽取：未知；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；中国等翅目分类志，物种阶元的一手依据。",
       "library": {
         "book": "中国动物志-昆虫纲-第十七卷-等翅目",
         "manifest": "_unpublished/文库/manifest.json",
@@ -313,7 +313,7 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-04T22:35:32+08:00",
       "evidence": [
         {
           "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
@@ -342,8 +342,8 @@
       "canonical_key": "library:Treatise-on-the-Isoptera",
       "file_path": "_unpublished/文库/Treatise-on-the-Isoptera",
       "chars": 9516675,
-      "retrieved_via": "文库（DOCX/PDF 抽取）",
-      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；全球等翅目总览，含文献目录与科属检索表。",
+      "retrieved_via": "文库（抽取）",
+      "notes": "全文存于 _unpublished/文库/Treatise-on-the-Isoptera（2718 页，9516675 字符），抽取：未知；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；全球等翅目总览，含文献目录与科属检索表。",
       "library": {
         "book": "Treatise-on-the-Isoptera",
         "manifest": "_unpublished/文库/manifest.json",
@@ -498,7 +498,7 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-04T22:35:32+08:00",
       "evidence": [
         {
           "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
@@ -522,8 +522,8 @@
       "canonical_key": "library:Sands-1972-Soldierless-Termites-of-Africa",
       "file_path": "_unpublished/文库/Sands-1972-Soldierless-Termites-of-Africa",
       "chars": 758873,
-      "retrieved_via": "文库（DOCX/PDF 抽取）",
-      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；非洲无兵蚁白蚁专著，9 图版、661 图。",
+      "retrieved_via": "文库（抽取）",
+      "notes": "全文存于 _unpublished/文库/Sands-1972-Soldierless-Termites-of-Africa（263 页，758873 字符），抽取：未知；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；非洲无兵蚁白蚁专著，9 图版、661 图。",
       "library": {
         "book": "Sands-1972-Soldierless-Termites-of-Africa",
         "manifest": "_unpublished/文库/manifest.json",
@@ -558,7 +558,7 @@
       "publisher": "Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18",
       "reliability": "peer_reviewed",
       "lang": "en",
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-04T22:35:32+08:00",
       "evidence": [
         {
           "quote": "When molested by predators such as ants, or when grasped by forceps and placed in alcohol, the abdominal muscles contract convulsively and the abdomen ruptures across a line of weakness behind the first tergite. The intestines erupt through the gap and themselves tend to burst, scattering their slimy contents.",
@@ -588,7 +588,7 @@
         "Xing L. X.",
         "Liu M. H."
       ],
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-07T01:17:47+08:00",
       "evidence": [
         {
           "quote": "The results showed that the AR derived from the last instar nymphs by molting, and they were more similar to neotenic reproductives in morphology.",
@@ -605,7 +605,28 @@
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "canonical_key": "doi:10.1093/jisesa/iev130",
-      "id": "S0006"
+      "id": "S0006",
+      "library": {
+        "book": "The-development-of-adultoid-reproductives-and-brachypterous-neotenic-reproductiv",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:17:47",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/The-development-of-adultoid-reproductives-and-brachypterous-neotenic-reproductiv/full.txt",
+            "chars": 37506,
+            "paragraphs": 149,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\PMC4622179.xml",
+            "sha256": "c85e1169e1d33c1cd20e8e46ecd1f26786ca5e1109e1532ed44d17783d029adc",
+            "bytes": 37640
+          }
+        ]
+      },
+      "file_path": "_unpublished/文库/The-development-of-adultoid-reproductives-and-brachypterous-neotenic-reproductiv",
+      "retrieved_via": "文库（xml-text）",
+      "chars": 37506,
+      "notes": "全文存于 _unpublished/文库/The-development-of-adultoid-reproductives-and-brachypterous-neotenic-reproductiv（37506 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；全文取自 Europe PMC（PMC4622179，fullTextXML）。"
     },
     {
       "title": "Oligocene termite nests with in situ fungus gardens from the Rukwa Rift Basin, Tanzania, support a Paleogene African origin for insect agriculture",
@@ -626,7 +647,7 @@
         "Mtelela C.",
         "Stevens N. J."
       ],
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "accessed": "2026-11-07T01:17:36+08:00",
       "evidence": [
         {
           "quote": "Using these well-dated fossil fungus gardens, we have recalibrated molecular divergence estimates for the origins of termite agriculture to around 31 Ma, lending support to hypotheses suggesting an African Paleogene origin for termite-fungus symbiosis",
@@ -643,7 +664,28 @@
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "canonical_key": "doi:10.1371/journal.pone.0156847",
-      "id": "S0007"
+      "id": "S0007",
+      "library": {
+        "book": "Oligocene-termite-nests-with-in-situ-fungus-gardens-from-the-Rukwa-Rift-Basin,-T",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:17:36",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Oligocene-termite-nests-with-in-situ-fungus-gardens-from-the-Rukwa-Rift-Basin,-T/full.txt",
+            "chars": 52729,
+            "paragraphs": 292,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\PMC4917219.xml",
+            "sha256": "c1448a917311f0d7855e492bd8be29abcc65bb233dcc9c00ab5d51158ea8a993",
+            "bytes": 52993
+          }
+        ]
+      },
+      "file_path": "_unpublished/文库/Oligocene-termite-nests-with-in-situ-fungus-gardens-from-the-Rukwa-Rift-Basin,-T",
+      "retrieved_via": "文库（xml-text）",
+      "chars": 52729,
+      "notes": "全文存于 _unpublished/文库/Oligocene-termite-nests-with-in-situ-fungus-gardens-from-the-Rukwa-Rift-Basin,-T（52729 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；全文取自 Europe PMC（PMC4917219，fullTextXML）。"
     },
     {
       "title": "Genomic data provide insights into the classification of extant termites",
@@ -659,9 +701,9 @@
         "Wang M.",
         "et al."
       ],
-      "file_path": "s41467-024-51028-y.pdf",
-      "retrieved_via": "PyMuPDF 抽取正文",
-      "accessed": "2026-11-07T00:00:00+08:00",
+      "file_path": "_unpublished/文库/Genomic-data-provide-insights-into-the-classification-of-extant-termites",
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-07T01:17:37+08:00",
       "evidence": [
         {
           "quote": "all species of this clade have a true worker caste (as in Mastotermitidae, Hodotermitidae, and Rhinotermitidae sensu novo) and typically live in large colonies.",
@@ -682,10 +724,27 @@
       "used_in": [
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
-      "body_sha256": "3ca3660e2288e8759a4f2e394ed2086e9ec95d078808e135435c844efbdca1d1",
-      "chars": 4128814,
+      "chars": 96836,
       "canonical_key": "doi:10.1038/s41467-024-51028-y",
-      "id": "S0008"
+      "id": "S0008",
+      "library": {
+        "book": "Genomic-data-provide-insights-into-the-classification-of-extant-termites",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:17:37",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Genomic-data-provide-insights-into-the-classification-of-extant-termites/full.txt",
+            "chars": 96836,
+            "paragraphs": 520,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\PMC11306793.xml",
+            "sha256": "979eda5553cd8d5ec033c07e6cd862786861a93fe6c860e2c61110e696a5b144",
+            "bytes": 97737
+          }
+        ]
+      },
+      "notes": "全文存于 _unpublished/文库/Genomic-data-provide-insights-into-the-classification-of-extant-termites（96836 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；全文取自 Europe PMC（PMC11306793，fullTextXML）。"
     },
     {
       "title": "Developmental Pathways of Psammotermes hybostoma (Isoptera: Rhinotermitidae): Old Pseudergates Make up a New Sterile Caste",
@@ -700,7 +759,7 @@
       "publisher": "PLoS ONE 7(9): e44527",
       "lang": "en",
       "license": "CC BY",
-      "retrieved_via": "web_fetch",
+      "retrieved_via": "文库（xml-text）",
       "evidence": [
         {
           "quote": "Beside numerous pluripotent pseudergates, constituting the main work force, some larger non-feeding apterous immatures, also occur. These individuals are unable to proceed to the winged imago stage, but store large amounts of fat and also give rise to large soldiers.",
@@ -721,10 +780,29 @@
       "used_in": [
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
-      "notes": "全文可读（PLOS 开放获取）。结论修正了 Roisin & Korb (2010)「沙白蚁属是否有真工蚁尚不能确定」的表述。",
-      "accessed": "2026-11-07T01:03:00+08:00",
+      "notes": "全文存于 _unpublished/文库/Developmental-Pathways-of-Psammotermes-hybostoma-(Isoptera-Rhinotermitidae)-Old-（38118 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；全文取自 Europe PMC（PMC3444481，fullTextXML）。",
+      "accessed": "2026-11-07T01:17:39+08:00",
       "canonical_key": "doi:10.1371/journal.pone.0044527",
-      "id": "S0009"
+      "id": "S0009",
+      "library": {
+        "book": "Developmental-Pathways-of-Psammotermes-hybostoma-(Isoptera-Rhinotermitidae)-Old-",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:17:39",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Developmental-Pathways-of-Psammotermes-hybostoma-(Isoptera-Rhinotermitidae)-Old-/full.txt",
+            "chars": 38118,
+            "paragraphs": 467,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\PMC3444481.xml",
+            "sha256": "ea0818ffb0526e76b729673e5fec8d5dca373cb1530dff4eed4694787a3baf5a",
+            "bytes": 38346
+          }
+        ]
+      },
+      "file_path": "_unpublished/文库/Developmental-Pathways-of-Psammotermes-hybostoma-(Isoptera-Rhinotermitidae)-Old-",
+      "chars": 38118
     },
     {
       "title": "The Trail-Following Communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae)",
@@ -755,7 +833,7 @@
       "used_in": [
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
-      "notes": "引文摘自 Research Square 预印本全文；正式版 DOI 见 doi 字段，摘要经 Europe PMC 核对一致。access: 正式版正文未获取（订阅刊），预印本全文可读。",
+      "notes": "引文摘自 Research Square 预印本全文；正式版 DOI 见 doi 字段，摘要经 Europe PMC 核对一致。access: 正式版正文未获取（订阅刊），预印本全文可读；预印本全文见 S0013（DOI 10.21203/rs.3.rs-2770501/v1）。",
       "accessed": "2026-11-07T01:02:42+08:00",
       "canonical_key": "doi:10.1007/s10886-023-01447-w",
       "id": "S0010"
@@ -816,6 +894,263 @@
       "accessed": "2026-11-07T01:10:27+08:00",
       "canonical_key": "url:https://indianjournals.com/article/jer-20-1-013",
       "id": "S0012"
+    },
+    {
+      "title": "The trail-following communication in Stylotermes spp. (Blattodea, Isoptera, Stylotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.21203/rs.3.rs-2770501/v1",
+      "file_path": "_unpublished/文库/The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl",
+      "chars": 41845,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T01:18:34+08:00",
+      "notes": "全文存于 _unpublished/文库/The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl（17 页，41845 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；全文为 Research Square accepted version（rs-2770501）；与 J Chem Ecol 2023 正式排版版可能有差异；元数据经 Crossref 校订；预印本；正式版为 J Chem Ecol 2023 的 S0010（DOI 10.1007/s10886-023-01447-w），引用以正式版为准。",
+      "library": {
+        "book": "The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:18:34",
+        "chunks": [
+          {
+            "chunk": "0001-0017",
+            "txt": "_unpublished/文库/The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl/0001-0017.txt",
+            "chars": 41845,
+            "paragraphs": 602,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\oa\\s0010_researchsquare.pdf",
+            "sha256": "7a802a178c7adb4fd5a62cb335ee42401348bc57f83be08fb6ace6fe1d6a8c60",
+            "bytes": 42292
+          }
+        ]
+      },
+      "authors": [
+        "Thakur Himanshu",
+        "Agarwal Surbhi",
+        "Hradecký Jaromír",
+        "Sharma Garima",
+        "Li Hou-Feng",
+        "Yang Shang-En",
+        "Sehadová Hana",
+        "Chandel Ravinder S.",
+        "Hyliš Mirek",
+        "Mathur Vartika",
+        "Šobotník Jan",
+        "Sillam-Dussès David"
+      ],
+      "year": 2023,
+      "lang": "en",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "doi": "10.21203/rs.3.rs-2770501/v1",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0013"
+    },
+    {
+      "title": "Eusociality and the success of the termites: insights from a supertree of dictyopteran families",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1420-9101.2009.01789.x",
+      "file_path": "_unpublished/文库/Eusociality-and-the-success-of-the-termites-insights-from-a-supertree-of-dictyop",
+      "chars": 74415,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T01:18:36+08:00",
+      "notes": "全文存于 _unpublished/文库/Eusociality-and-the-success-of-the-termites-insights-from-a-supertree-of-dictyop（12 页，74415 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；本机 PDF（~/Downloads）；元数据经 Crossref 校订；用途待落实：本机 PDF 入库，尚未定位到具体引用段落。",
+      "library": {
+        "book": "Eusociality-and-the-success-of-the-termites-insights-from-a-supertree-of-dictyop",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:18:36",
+        "chunks": [
+          {
+            "chunk": "0001-0012",
+            "txt": "_unpublished/文库/Eusociality-and-the-success-of-the-termites-insights-from-a-supertree-of-dictyop/0001-0012.txt",
+            "chars": 74415,
+            "paragraphs": 802,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\Eusociality_and_the_success_of_the_termi.pdf",
+            "sha256": "a2bedab9981bcb9982f9f17e2b584f88235289eb73a34ad9bc3310f2f5dd9a6d",
+            "bytes": 75013
+          }
+        ]
+      },
+      "authors": [
+        "DAVIS R. B.",
+        "BALDAUF S. L.",
+        "MAYHEW P. J."
+      ],
+      "year": 2009,
+      "publisher": "Journal of Evolutionary Biology",
+      "lang": "en",
+      "license": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+      "doi": "10.1111/j.1420-9101.2009.01789.x",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0014"
+    },
+    {
+      "title": "The origin of a ‘true’ worker caste in termites: mapping the real world on the phylogenetic tree",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1046/j.1420-9101.2003.00662.x",
+      "file_path": "_unpublished/文库/The-origin-of-a-‘true’-worker-caste-in-termites-mapping-the-real-world-on-the-ph",
+      "chars": 13202,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T01:18:36+08:00",
+      "notes": "全文存于 _unpublished/文库/The-origin-of-a-‘true’-worker-caste-in-termites-mapping-the-real-world-on-the-ph（3 页，13202 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；本机 PDF（~/Downloads）；元数据经 Crossref 校订；用途待落实：本机 PDF 入库，尚未定位到具体引用段落。",
+      "library": {
+        "book": "The-origin-of-a-‘true’-worker-caste-in-termites-mapping-the-real-world-on-the-ph",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:18:36",
+        "chunks": [
+          {
+            "chunk": "0001-0003",
+            "txt": "_unpublished/文库/The-origin-of-a-‘true’-worker-caste-in-termites-mapping-the-real-world-on-the-ph/0001-0003.txt",
+            "chars": 13202,
+            "paragraphs": 156,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\The_origin_of_a_true_worker_caste_in_ter.pdf",
+            "sha256": "0b52c68ba3df3697f40a6d768bcbc22fb7b5895123bbd5cad386c861fbf11ffc",
+            "bytes": 13391
+          }
+        ]
+      },
+      "authors": [
+        "Grandcolas P.",
+        "D'Haese C."
+      ],
+      "year": 2004,
+      "publisher": "Journal of Evolutionary Biology",
+      "lang": "en",
+      "license": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+      "doi": "10.1046/j.1420-9101.2003.00662.x",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0015"
+    },
+    {
+      "title": "Step-by-step Dissection Protocol of Apicotermitinae Worker (Blattaria: Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.13102/sociobiology.v70i4.8503",
+      "file_path": "_unpublished/文库/Step-by-step-Dissection-Protocol-of-Apicotermitinae-Worker-(Blattaria-Isoptera)",
+      "chars": 33948,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T01:18:37+08:00",
+      "notes": "全文存于 _unpublished/文库/Step-by-step-Dissection-Protocol-of-Apicotermitinae-Worker-(Blattaria-Isoptera)（8 页，33948 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；本机 PDF（~/Downloads）；元数据经 Crossref 校订；用途待落实：本机 PDF 入库，尚未定位到具体引用段落。",
+      "library": {
+        "book": "Step-by-step-Dissection-Protocol-of-Apicotermitinae-Worker-(Blattaria-Isoptera)",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:18:37",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/Step-by-step-Dissection-Protocol-of-Apicotermitinae-Worker-(Blattaria-Isoptera)/0001-0008.txt",
+            "chars": 33948,
+            "paragraphs": 295,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\Step-by-step_Dissection_Protocol_of_Apicotermitina.pdf",
+            "sha256": "1db3d33aeb377d0fb00caf4cca1d97fc40a055009105a4ab93fe888d43d28acb",
+            "bytes": 34043
+          }
+        ]
+      },
+      "authors": [
+        "Almeida-Azevedo Rayssa",
+        "Alves-Oliveira João",
+        "Morais José Wellington",
+        "Franklin Elizabeth",
+        "Azevedo Renato Almeida de"
+      ],
+      "year": 2023,
+      "publisher": "Sociobiology",
+      "lang": "en",
+      "license": "https://creativecommons.org/licenses/by/4.0",
+      "doi": "10.13102/sociobiology.v70i4.8503",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0016"
+    },
+    {
+      "title": "Adaptive radiation and social evolution of the ants",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1016/j.cell.2025.05.030",
+      "file_path": "_unpublished/文库/Adaptive-radiation-and-social-evolution-of-the-ants",
+      "chars": 259360,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T01:18:41+08:00",
+      "notes": "全文存于 _unpublished/文库/Adaptive-radiation-and-social-evolution-of-the-ants（47 页，259360 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；本机 PDF（~/Downloads）；内容为蚂蚁比较材料；元数据经 Crossref 校订；内容为蚂蚁（非白蚁）比较材料；用途待落实。",
+      "library": {
+        "book": "Adaptive-radiation-and-social-evolution-of-the-ants",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T01:18:41",
+        "chunks": [
+          {
+            "chunk": "0001-0047",
+            "txt": "_unpublished/文库/Adaptive-radiation-and-social-evolution-of-the-ants/0001-0047.txt",
+            "chars": 259360,
+            "paragraphs": 2774,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\PIIS0092867425006178.pdf",
+            "sha256": "7e76796d4f45521b867832ce8b5dcf5a95f044e4bb69a9ca0f3e8c2cfd064136",
+            "bytes": 260482
+          }
+        ]
+      },
+      "authors": [
+        "Vizueta Joel",
+        "Xiong Zijun",
+        "Ding Guo",
+        "Larsen Rasmus S.",
+        "Ran Hao",
+        "Gao Qionghua",
+        "Stiller Josefin",
+        "Dai Wei",
+        "Jiang Wei",
+        "Zhao Jie",
+        "Guo Chunxue",
+        "Zhang Xiafang",
+        "Zuo Dashuang",
+        "Zhong Wenjiang",
+        "Schiøtt Morten",
+        "Liu Chengyuan",
+        "Zhang Hailin",
+        "Dai Xueqin",
+        "Andreu Ignasi",
+        "Shi Yue",
+        "Tretter Sandra",
+        "He Ding",
+        "Gautam Shubham",
+        "Li Zelin",
+        "Hickey Glenn",
+        "Ivens Aniek B.F.",
+        "Meurville Marie-Pierre",
+        "Hita-Garcia Francisco",
+        "Kass Jamie M.",
+        "Guénard Benoit",
+        "Moreau Corrie",
+        "Paten Benedict",
+        "LeBoeuf Adria C.",
+        "Economo Evan P.",
+        "Chapuisat Michel",
+        "Shik Jonathan Z.",
+        "Ward Philip S.",
+        "Heinze Jürgen",
+        "Schultz Ted R.",
+        "Li Qiye",
+        "Dunn Robert R.",
+        "Sanders Nathan J.",
+        "Liu Weiwei",
+        "Schrader Lukas",
+        "Boomsma Jacobus J.",
+        "Zhang Guojie"
+      ],
+      "year": 2025,
+      "publisher": "Cell",
+      "lang": "en",
+      "license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+      "doi": "10.1016/j.cell.2025.05.030",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0017"
     }
   ]
 }

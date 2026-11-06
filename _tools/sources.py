@@ -9,6 +9,9 @@
   python _tools/sources.py check [--strict] [--ci]    # 校验存档（只读，绝不写盘）
   python _tools/sources.py list [--limit 20]          # 列出已存档来源
   python _tools/sources.py stats                      # 汇总
+  python _tools/sources.py import-library             # 把 _unpublished/文库 的书目同步成来源记录（幂等）
+  python _tools/sources.py library-add --file x.pdf --doi 10.1234/abcd --title "..." \
+      --kind paper --reliability peer_reviewed        # 论文/报告全文入库 + 登记来源
 
 清单格式（顶层是数组，或 {"records": [...]}）：
   [
@@ -39,8 +42,12 @@ import hashlib
 import json
 import os
 import re
+import shutil
 import sys
+import zipfile
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 
 ARCHIVE_DIR = ".sources"
@@ -202,10 +209,16 @@ def render_record(rec: dict) -> str:
         lines.append("（未记录摘录：本条为读过但未直接引用的来源。）")
         lines.append("")
     if rec.get("library"):
-        lines.append("## 分卷（按页切块）")
+        chunks = rec["library"].get("chunks") or []
+        lines.append("## 全文" if len(chunks) == 1 else "## 分卷（按页切块）")
         lines.append("")
-        for chunk in rec["library"].get("chunks", []):
-            lines.append(f"- {chunk.get('txt')} — {chunk.get('chunk')} 页，{chunk.get('chars')} 字符")
+        for chunk in chunks:
+            label = str(chunk.get("chunk") or "")
+            if re.match(r"^\d{4}-\d{4}$", label):
+                size = f"{label} 页，{chunk.get('chars')} 字符"
+            else:
+                size = f"{label}，{chunk.get('chars')} 字符"
+            lines.append(f"- {chunk.get('txt')} — {size}")
         lines.append("")
     if rec.get("used_in"):
         lines.append("## 被用于")
@@ -253,6 +266,19 @@ def merge(existing: dict, new: dict) -> tuple[dict, bool]:
             if new.get(key) is not None and existing.get(key) != new.get(key):
                 existing[key] = new[key]
                 changed = True
+    # 先有网页/文件来源、后来补了全文：把 library 挂到已有记录上，不新开条目
+    elif new.get("library") and not existing.get("library"):
+        existing["library"] = new["library"]
+        for key in ("file_path", "retrieved_via", "chars"):
+            if new.get(key):
+                existing[key] = new[key]
+        # 旧的 file_path 指向单文件（PDF）时，body_sha256 会失效：改指文库后清掉
+        if new.get("file_path"):
+            existing.pop("body_sha256", None)
+        if new.get("notes"):
+            existing["notes"] = ((existing.get("notes") or "").rstrip("。；")
+                                 + "；" + new["notes"].strip()).strip("；")
+        changed = True
     for key in ("url", "doi", "publisher", "lang", "license", "retrieved_via", "year",
                 "body_sha256", "chars", "notes"):
         if not existing.get(key) and new.get(key):
@@ -355,7 +381,12 @@ def _ingest(root: Path, records: list, json_out: bool) -> int:
 
 # ---------------------------------------------------------------- 文库（_unpublished/文库）
 
+# 文库是本机的「全文库」：书 / 论文 / 报告 / 网页正文的抽取文本都放
+# _unpublished/文库/<slug>/<分块>.txt；_unpublished/ 已被 .gitignore 排除，不进仓库、不发布。
+# .sources/ 只记元数据 + 短摘录，全文一律指向这里。
 LIBRARY_DEFAULT = "_unpublished/文库"
+LIBRARY_PAGE_CHUNK = 200       # PDF 每 200 页切一块（与既有书目一致）
+LIBRARY_TEXT_CHUNK = 200_000   # 非 PDF 文本每 20 万字符切一块
 
 # 文库 manifest 只有文本层面的信息；书目元数据在这里补（依据文库 README，勿臆造）
 LIBRARY_META: dict[str, dict] = {
@@ -389,6 +420,221 @@ LIBRARY_META: dict[str, dict] = {
 
 LIBRARY_CAVEAT = ("文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，"
                   "正式引用前须核对纸本或原书 PDF。")
+LIBRARY_CAVEAT_PAPER = ("文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，"
+                        "正式引用前须核对出版方原文。")
+
+def _slugify(text: str) -> str:
+    s = re.sub(r"[\\/:*?\"<>|\r\n\t]+", "-", str(text))
+    s = re.sub(r"\s+", "-", s.strip())
+    s = re.sub(r"-{2,}", "-", s).strip("-.")
+    return s[:80] or "untitled"
+
+
+def _text_chunks(text: str, limit: int = LIBRARY_TEXT_CHUNK) -> list[tuple[str, str]]:
+    limit = limit or LIBRARY_TEXT_CHUNK
+    """按段落边界把长文本切成每块 <= limit 字符；短文本只有一块，名为 full。"""
+    text = text.replace("\r\n", "\n").replace("\r", "\n").strip("\n") + "\n"
+    if not text.strip():
+        return []
+    if len(text) <= limit:
+        return [("full", text)]
+    parts: list[str] = []
+    buf: list[str] = []
+    size = 0
+
+    def flush() -> None:
+        nonlocal buf, size
+        if buf:
+            parts.append("\n".join(buf) + "\n")
+            buf, size = [], 0
+
+    for line in text.split("\n"):
+        line = line.rstrip()
+        while len(line) > limit:
+            flush()
+            parts.append(line[:limit] + "\n")
+            line = line[limit:]
+        if size + len(line) + 1 > limit and buf:
+            flush()
+        buf.append(line)
+        size += len(line) + 1
+    flush()
+    return [(f"part-{i:03d}", part) for i, part in enumerate(parts, 1)]
+
+
+def _pdf_pages(path: Path) -> list[str]:
+    try:
+        import pymupdf as fitz  # type: ignore
+    except Exception:
+        try:
+            import fitz  # type: ignore
+        except Exception as exc:  # pragma: no cover - 取决于本机环境
+            raise RuntimeError(
+                "没有可用的 PDF 抽取库（pymupdf/fitz）：请先用 pdf_extract_text 抽出文本，再用 --text 传入该 txt"
+            ) from exc
+    doc = fitz.open(str(path))
+    try:
+        pages = []
+        for page in doc:
+            try:
+                # sort=True 按坐标重排，双栏排版的阅读顺序通常更接近原文
+                pages.append(page.get_text("text", sort=True).strip())
+            except TypeError:  # 老版本 pymupdf 不认 sort 参数
+                pages.append(page.get_text("text").strip())
+        return pages
+    finally:
+        doc.close()
+
+
+def _pdf_chunks(path: Path) -> tuple[list[tuple[str, str]], dict]:
+    pages = _pdf_pages(path)
+    chunks: list[tuple[str, str]] = []
+    for start in range(0, len(pages), LIBRARY_PAGE_CHUNK):
+        group = pages[start:start + LIBRARY_PAGE_CHUNK]
+        label = f"{start + 1:04d}-{start + len(group):04d}"
+        chunks.append((label, "\f".join(group).strip("\n") + "\n"))
+    return chunks, {"extraction": "pdf-text", "pages": len(pages)}
+
+
+def _docx_text(path: Path) -> tuple[str, dict]:
+    """只用标准库读 docx：取 word/document.xml 里的段落文本。"""
+    with zipfile.ZipFile(path) as zf:
+        xml = zf.read("word/document.xml")
+    tree = ET.fromstring(xml)
+    w = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+    lines: list[str] = []
+    for para in tree.iter(w + "p"):
+        text = "".join(node.text or "" for node in para.iter(w + "t"))
+        if text.strip():
+            lines.append(text.rstrip())
+    return "\n".join(lines) + "\n", {"extraction": "docx", "paragraphs": len(lines)}
+
+
+class _HTMLText(HTMLParser):
+    BLOCK = {"p", "div", "br", "li", "tr", "h1", "h2", "h3", "h4", "h5", "h6",
+             "section", "article", "table", "blockquote", "pre",
+             # JATS/TEI 全文 XML：没有这些断行，期刊名、作者、日期会粘成一片
+             "title", "sec", "caption", "fig", "table-wrap", "td", "th", "abstract",
+             "ref", "kwd-group", "pub-date", "contrib", "aff", "body", "back"}
+    SKIP = {"script", "style", "noscript", "svg"}
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.parts: list[str] = []
+        self.skip = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.SKIP:
+            self.skip += 1
+        elif tag in self.BLOCK:
+            self.parts.append("\n")
+
+    def handle_endtag(self, tag):
+        if tag in self.SKIP and self.skip:
+            self.skip -= 1
+        elif tag in self.BLOCK:
+            self.parts.append("\n")
+
+    def handle_data(self, data):
+        if not self.skip:
+            self.parts.append(data)
+
+
+def _markup_text(raw: str, extraction: str) -> tuple[str, dict]:
+    parser = _HTMLText()
+    parser.feed(raw)
+    joined = "".join(parser.parts)
+    lines = [re.sub(r"[ \t\u00a0]+", " ", line).strip() for line in joined.split("\n")]
+    return "\n".join(line for line in lines if line) + "\n", {"extraction": extraction}
+
+
+def _html_text(path: Path) -> tuple[str, dict]:
+    return _markup_text(path.read_text(encoding="utf-8", errors="replace"), "html")
+
+
+def _xml_text(path: Path) -> tuple[str, dict]:
+    """JATS/TEI 全文 XML：先丢掉 <front>（期刊、作者、版权等元数据，已另存记录字段），再抽正文。"""
+    raw = path.read_text(encoding="utf-8", errors="replace")
+    # 摘要挂在 <front>/<article-meta> 下面，丢 front 之前先捞出来放回开头
+    abstracts = re.findall(r"<abstract\b[\s\S]*?</abstract>", raw)
+    raw = re.sub(r"<front[ >][\s\S]*?</front>", " ", raw)
+    if abstracts:
+        head = "" if all("<title" in a for a in abstracts) else "<title>Abstract</title>"
+        raw = "<sec>" + head + "".join(abstracts) + "</sec>" + raw
+    return _markup_text(raw, "xml-text")
+
+
+def _extract_chunks(path: Path, limit: int = LIBRARY_TEXT_CHUNK) -> tuple[list[tuple[str, str]], dict]:
+    suffix = path.suffix.lower()
+    if suffix == ".pdf":
+        return _pdf_chunks(path)
+    if suffix == ".docx":
+        text, info = _docx_text(path)
+    elif suffix in {".xml", ".rdf"}:
+        # JATS / TEI 全文 XML 要去标签：直接读原文会留下 <p>、<xref> 之类的标记
+        text, info = _xml_text(path)
+    elif suffix in {".html", ".htm"}:
+        text, info = _html_text(path)
+    elif suffix in {".txt", ".md", ".markdown", ".csv", ".tsv", ".json"}:
+        text, info = path.read_text(encoding="utf-8-sig", errors="replace"), {"extraction": "text"}
+    else:
+        raise RuntimeError(f"不认识的文件类型 {suffix}：请先转成 txt 再用 --text 传入")
+    chunks = _text_chunks(text, limit)
+    info.setdefault("paragraphs", text.count("\n"))
+    return chunks, info
+
+
+def _library_record(root: Path, lib_dir: Path, manifest_path: Path, generated: str,
+                    entry: dict) -> dict:
+    """把 manifest 里的一条书目/文档变成 .sources 记录（导入与入库共用）。"""
+    name = str(entry.get("book") or "").strip()
+    kind = str(entry.get("kind") or "book")
+    meta = dict(LIBRARY_META.get(name, {}))
+    meta.update({k: v for k, v in (entry.get("meta") or {}).items() if v})
+    extra_note = meta.pop("notes", "")
+    reliability = meta.pop("reliability", "unverified")
+    chunks = []
+    for chunk in entry.get("chunks", []):
+        out = str(chunk.get("out") or "").replace("\\", "/")
+        if not out:
+            out = rel(root, lib_dir / name / (str(chunk.get("chunk", "")) + ".txt"))
+        txt = root / out
+        item = {"chunk": chunk.get("chunk"), "txt": out, "chars": chunk.get("chars"),
+                "paragraphs": chunk.get("paragraphs"), "table_rows": chunk.get("table_rows"),
+                "source_file": chunk.get("source")}
+        if txt.is_file():
+            item["sha256"] = sha256_file(txt)
+            item["bytes"] = txt.stat().st_size
+        chunks.append(item)
+    pages = entry.get("pages")
+    where = rel(root, lib_dir / name)
+    size = f"{pages} 页，{entry.get('chars')} 字符" if pages else f"{entry.get('chars')} 字符"
+    notes = [
+        f"全文存于 {where}（{size}），抽取：{entry.get('extraction') or '未知'}",
+        LIBRARY_CAVEAT if kind == "book" else LIBRARY_CAVEAT_PAPER,
+    ]
+    if extra_note:
+        notes.append(extra_note)
+    notes_text = "；".join(n.rstrip("。；") for n in notes) + "。"
+
+    rec = {
+        "title": str(entry.get("title") or name),
+        "source_type": kind if kind in SOURCE_TYPES else "other",
+        "reliability": reliability,
+        "canonical_key": entry.get("canonical_key") or "library:" + name,
+        "file_path": where,
+        "chars": entry.get("chars"),
+        "retrieved_via": "文库（" + str(entry.get("extraction") or "抽取") + "）",
+        "accessed": (generated + "+08:00") if re.match(r"^\d{4}-\d{2}-\d{2}T", str(generated or "")) else now_iso(),
+        "notes": notes_text,
+        "library": {"book": name, "manifest": rel(root, manifest_path),
+                    "generated": generated, "chunks": chunks},
+    }
+    for key in ("authors", "year", "publisher", "lang", "license", "doi", "url"):
+        if meta.get(key):
+            rec[key] = meta[key]
+    return rec
+
 
 
 def cmd_import_library(args: argparse.Namespace) -> int:
@@ -401,52 +647,113 @@ def cmd_import_library(args: argparse.Namespace) -> int:
         return 2
     manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
     generated = manifest.get("generated", "")
-    records = []
-    for book in manifest.get("books", []):
-        name = book.get("book") or ""
-        if not name:
-            continue
-        meta = LIBRARY_META.get(name, {})
-        meta = {k: v for k, v in meta.items() if k != "notes"}
-        extra_note = LIBRARY_META.get(name, {}).get("notes", "")
-        chunks = []
-        for chunk in book.get("chunks", []):
-            txt = lib_dir / name / (str(chunk.get("chunk", "")) + ".txt")
-            entry = {
-                "chunk": chunk.get("chunk"),
-                "txt": rel(root, txt),
-                "chars": chunk.get("chars"),
-                "paragraphs": chunk.get("paragraphs"),
-                "table_rows": chunk.get("table_rows"),
-                "source_file": chunk.get("source"),
-            }
-            if txt.is_file():
-                entry["sha256"] = sha256_file(txt)
-                entry["bytes"] = txt.stat().st_size
-            chunks.append(entry)
-        notes = [
-            f"来自 {rel(root, manifest_path)}（生成于 {generated}）",
-            LIBRARY_CAVEAT,
-        ]
-        if extra_note:
-            notes.append(extra_note)
-        notes = "；".join(n.rstrip("。；") for n in notes) + "。"
-        rec = {
-            "title": name,
-            "source_type": "book",
-            "canonical_key": "library:" + name,
-            "file_path": rel(root, lib_dir / name),
-            "chars": book.get("chars"),
-            "retrieved_via": "文库（DOCX/PDF 抽取）",
-            "accessed": (generated + "+08:00") if re.match(r"^\d{4}-\d{2}-\d{2}T", generated or "") else now_iso(),
-            "notes": notes,
-            "library": {"book": name, "manifest": rel(root, manifest_path),
-                        "generated": generated, "chunks": chunks},
-            **meta,
-        }
-        records.append(rec)
-    print(f"[sources] 从文库读到 {len(records)} 本书，开始导入/更新……")
+    records = [_library_record(root, lib_dir, manifest_path, generated, book)
+               for book in manifest.get("books", []) if (book.get("book") or "").strip()]
+    print(f"[sources] 从文库读到 {len(records)} 项，开始导入/更新……")
     return _ingest(root, records, args.json_out)
+
+
+
+def cmd_library_add(args: argparse.Namespace) -> int:
+    """把一篇论文 / 报告 / 网页正文的**全文**存进文库，并同步登记为来源记录。"""
+    root = Path(args.root).resolve()
+    lib_dir = root / (args.library or LIBRARY_DEFAULT)
+    src = Path(args.file).expanduser()
+    if not src.is_absolute():
+        src = Path.cwd() / src
+    src = src.resolve()
+    if not src.is_file():
+        print(f"[sources] 找不到文件：{src}", file=sys.stderr)
+        return 2
+
+    title = (args.title or src.stem).strip()
+    slug = _slugify(args.slug or title)
+    doc_dir = lib_dir / slug
+    try:
+        if args.text:
+            text = Path(args.text).expanduser().resolve().read_text(encoding="utf-8-sig", errors="replace")
+            chunks, info = _text_chunks(text, args.chunk_chars), {"extraction": "外部文本（--text）"}
+        else:
+            chunks, info = _extract_chunks(src, args.chunk_chars)
+    except (RuntimeError, OSError, zipfile.BadZipFile) as exc:
+        print(f"[sources] 抽取失败：{exc}", file=sys.stderr)
+        return 2
+    total = sum(len(text) for _, text in chunks)
+    if total < 200:
+        print("[sources] 警告：抽出的文本几乎是空的（扫描件？）。请先用 pdf_extract_text 或 OCR 得到文本，"
+              "再用 --text 入库", file=sys.stderr)
+
+    doc_dir.mkdir(parents=True, exist_ok=True)
+    copied: Path | None = None
+    if not args.no_copy and not str(src).lower().startswith(str(lib_dir).lower()):
+        copied = doc_dir / "source" / src.name
+        copied.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(src, copied)
+
+    src_sha = sha256_file(src)
+    src_bytes = src.stat().st_size
+    chunk_records = []
+    for label, text in chunks:
+        out = doc_dir / f"{label}.txt"
+        out.write_text(text, encoding="utf-8", newline="\n")
+        chunk_records.append({
+            "chunk": label, "source": str(src), "bytes": src_bytes, "sha256": src_sha,
+            "paragraphs": text.count("\n"), "table_rows": 0, "chars": len(text),
+            "out": rel(root, out),
+        })
+    # 重新入库（例如 PDF 换成 XML）时，旧的分卷文件要清掉，否则库里留双份
+    keep = {label for label, _ in chunks}
+    for old in doc_dir.glob("*.txt"):
+        if old.stem not in keep:
+            old.unlink()
+
+    manifest_path = lib_dir / "manifest.json"
+    manifest = (json.loads(manifest_path.read_text(encoding="utf-8-sig"))
+                if manifest_path.is_file() else {"books": []})
+    generated = datetime.now().isoformat(timespec="seconds")
+    doi = (args.doi or "").strip()
+    url = (args.url or "").strip()
+    authors = [a.strip() for a in re.split(r"[;；]", args.authors or "") if a.strip()]
+    meta = {key: value for key, value in {
+        "authors": authors,
+        "year": args.year,
+        "publisher": args.publisher,
+        "lang": args.lang,
+        "license": args.license,
+        "doi": doi or None,
+        "url": url or None,
+        "reliability": args.reliability,
+    }.items() if value}
+    entry = {
+        "book": slug,
+        "kind": args.kind,
+        "title": title,
+        "chars": total,
+        "canonical_key": (
+            "doi:" + doi.lower().replace("https://doi.org/", "").replace("http://doi.org/", "")
+            if doi else ("url:" + normalize_url(url) if url else "library:" + slug)
+        ),
+        "meta": meta,
+        "source_file": rel(root, copied) if copied else str(src),
+        "source_sha256": src_sha,
+        "source_bytes": src_bytes,
+        "extraction": info.get("extraction"),
+        "pages": info.get("pages"),
+        "chunks": chunk_records,
+    }
+    manifest["generated"] = generated
+    manifest.setdefault("out_root", str(lib_dir))
+    manifest["books"] = [b for b in manifest.get("books", []) if b.get("book") != slug] + [entry]
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+    rec = _library_record(root, lib_dir, manifest_path, generated, entry)
+    if args.notes:
+        rec["notes"] = rec["notes"].rstrip("。") + "；" + args.notes.strip().rstrip("。") + "。"
+    rec["used_in"] = list(args.used_in or [])
+    if args.reliability == "unverified":
+        print("[sources] 提示：可靠性记为 unverified；确认来源等级后用 add 覆盖", file=sys.stderr)
+    print(f"[sources] 入库 {rel(root, doc_dir)}（{len(chunks)} 块，{total} 字符）")
+    return _ingest(root, [rec], args.json_out)
 
 
 def iter_text_files(root: Path):
@@ -625,6 +932,29 @@ def main(argv: list[str] | None = None) -> int:
     p_lib.add_argument("--library", default=LIBRARY_DEFAULT, help="文库目录，默认 _unpublished/文库")
     p_lib.add_argument("--json-out", action="store_true", help="输出机器可读结果")
     p_lib.set_defaults(func=cmd_import_library)
+
+    p_ladd = sub.add_parser("library-add", help="把论文/报告/网页正文的全文存进 _unpublished/文库 并登记来源")
+    p_ladd.add_argument("--file", required=True, help="原始文件（pdf / docx / html / txt / md）")
+    p_ladd.add_argument("--text", help="已抽好的纯文本；PDF 无文字层时用它")
+    p_ladd.add_argument("--title")
+    p_ladd.add_argument("--slug", help="文库子目录名，默认由标题生成")
+    p_ladd.add_argument("--kind", default="paper",
+                        choices=["paper", "book", "report", "web", "dataset", "other"])
+    p_ladd.add_argument("--reliability", default="unverified", choices=sorted(RELIABILITY))
+    p_ladd.add_argument("--authors", help="分号分隔")
+    p_ladd.add_argument("--year", type=int)
+    p_ladd.add_argument("--publisher")
+    p_ladd.add_argument("--lang")
+    p_ladd.add_argument("--license")
+    p_ladd.add_argument("--doi")
+    p_ladd.add_argument("--url")
+    p_ladd.add_argument("--notes")
+    p_ladd.add_argument("--used-in", dest="used_in", action="append", default=[])
+    p_ladd.add_argument("--chunk-chars", dest="chunk_chars", type=int, default=LIBRARY_TEXT_CHUNK)
+    p_ladd.add_argument("--no-copy", dest="no_copy", action="store_true", help="不复制原始 PDF/文件")
+    p_ladd.add_argument("--library", default=LIBRARY_DEFAULT)
+    p_ladd.add_argument("--json-out", action="store_true")
+    p_ladd.set_defaults(func=cmd_library_add)
 
     p_stats = sub.add_parser("stats", help="汇总")
     p_stats.set_defaults(func=cmd_stats)

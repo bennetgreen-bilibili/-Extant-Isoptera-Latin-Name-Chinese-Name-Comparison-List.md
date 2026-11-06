@@ -9,9 +9,9 @@
 > 统计数字、术语译名、图片授权）的来源，必须在同一轮任务里落成一条存档记录；正文里给出的每个此类
 > 判断，都要能指回某条记录。
 
-**两层要分清**：`_unpublished/文库/` 是**全文库**（本机 5 本书的按页切块 txt，被 gitignore，不发布）；
+**两层要分清**：`_unpublished/文库/` 是**全文库**（本机 5 本书 + 9 篇论文的全文 txt，被 gitignore，不发布）；
 `.sources/` 是**证据账本**（进仓库：元数据 + 逐字短摘录 + locator + used_in）。
-文库里的 5 本书在账本里已有 `S0001`–`S0005`——引用它们时**不要新开记录**，直接引用这些 id，
+文库里的书在账本里已有 `S0001`–`S0005`、论文 `S0006`–`S0017`（12 条记录，其中 9 篇有全文，`S0010`/`S0011` 只有摘要，`S0012` 无全文）——引用它们时**不要新开记录**，直接引用这些 id，
 `locator` 写「页码 + 分卷文件」（如 `p. 412 / 0401-0600.txt`）。读文库 `_full.txt` 或分卷 txt 也算「必须存档」
 的一次阅读：摘录逐字拷自该书，`used_in` 写用到它的文件。
 
@@ -64,6 +64,48 @@
 
 > Windows 上不要用 `/tmp`；一律 `_tmp/`。
 
+### 1.4.1 论文 / 报告全文入库（`library-add`）
+
+拿到 PDF、JATS/TEI 全文 XML、docx 或已抽好的 txt 时，一条命令把全文放进文库并同步登记来源：
+
+    # 出版社 PDF / OA PDF
+    python _tools/sources.py library-add --file ~/Downloads/xxx.pdf \
+        --title "原文标题（不改写、不翻译）" --kind paper --reliability peer_reviewed \
+        --doi 10.1038/xxxx --year 2024 --lang en --authors "Hellemans S.; Rocha M. M." \
+        --used-in "白蚁基础知识-中文稿-修订-v5.docx"
+
+    # Europe PMC 的 JATS 全文（比双栏 PDF 抽取干净得多）
+    curl -sL "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4622179/fullTextXML" -o _tmp/a.xml
+    python _tools/sources.py library-add --file _tmp/a.xml --doi 10.1093/jisesa/iev130 ...
+
+    # 已经抽好的纯文本（扫描件 OCR、网页正文）；--no-copy 表示不复制原件
+    python _tools/sources.py library-add --text _tmp/paper.txt --no-copy --kind paper ...
+
+- 落到 `_unpublished/文库/<slug>/`：`full.txt`（超过 20 万字符才切成 `part-001.txt`…）+
+  `source/<原件>`；同时在 `_unpublished/文库/manifest.json` 追加 `kind: paper` 的条目。
+- `--doi` / `--url` 决定 `canonical_key`：**与已有网页/文件记录同一来源时自动合并**，不会多出第二个 Sxxxx。
+- 引用文库内论文时 `locator` 写「页码 + 分卷文件」，例如 `p. 12 / full.txt`。
+- 只有摘要（订阅墙、SSRN 403）时**不要硬编全文**：记录照留，`notes` 写「access: blocked，仅有摘要」。
+- 预印本与正式版是**两条记录**（DOI 不同），两边 `notes` 互相指认，引用以正式版为准。
+- PDF 文本不是排版原貌（上标引文编号、表格、图注会错位），正式引用前核对出版方原文。
+
+### 1.4.2 文库的加密备份（`.library-vault/`）
+
+`_unpublished/文库/` 被 gitignore，所以仓库里另存一份**密文备份**，克隆仓库即可恢复文库：
+
+    python _tools/library_vault.py pack                 # 文库 → .library-vault/（AES-256-CTR + HMAC-SHA256）
+    python _tools/library_vault.py info                 # 只读 manifest
+    python _tools/library_vault.py verify               # 分块 sha256 + HMAC（需要口令）
+    python _tools/library_vault.py unpack --target _tmp/vrestore   # 恢复并逐文件校验
+
+- 口令从 `LIBRARY_VAULT_KEY` 环境变量或 `--key-file`（默认 `_tmp/vault.key`，已 gitignore）读取。
+  **口令文件绝不提交**；丢了口令 = 备份报废，提交了口令 = 没加密。
+- `pack` 是确定性的（gzip/tar mtime 归零、路径排序），同一文库重复 `pack` 产出同一密文；
+  文库变了要重新 `pack` 并提交 `.library-vault/`。
+- 加密只解决「仓库里不出现明文全文」，**不改变版权边界**：恢复出的全文仍然只在本地用、不再分发；
+  弱口令可被离线爆破，别拿它当机密保险箱。
+- `manifest.json` 里只有 salt/iv/HMAC/哈希与统计，没有标题以外的可读信息。
+
 ### 1.5 正文里怎么标
 
 - Markdown 正文：在论断句末或段末放 ``<!-- src:S0001 -->``（HTML 注释，渲染不可见、可被 check 校验）。
@@ -76,8 +118,10 @@
 
 1. **不得编造**标题、作者、年份、DOI、URL、页码、引文；没打开过的页面不许存档。
 2. **摘录必须逐字**；需要改写就放在 `notes` 并注明「转述」。
-3. **不存全文**：不把网页 HTML、出版社 PDF、知网/Google Books 页面整篇塞进仓库——只存元数据 + 短摘录
-   （单处 ≤400 字，同一版权作品累计 ≤2000 字）。与仓库既有政策一致（见 `_tools/文献检索器说明.md` §3）。
+3. **全文只进文库，不进仓库**：论文 / 报告 / 书的全文本地存在 `_unpublished/文库/`（已被 `.gitignore`
+   排除、不发布、不再分发），用 `library-add` 入库；`.sources/` 里只留元数据 + 短摘录
+   （单处 ≤400 字，同一版权作品累计 ≤2000 字）。网页 HTML、知网 / Google Books 页面不要整篇存，
+   只存摘录——与 `_tools/文献检索器说明.md` §3 的出版社 PDF 政策一致。
 4. **读不到正文就说读不到**：付费墙 / 403 / 只有摘要时，在 `notes` 记「access: blocked，仅有摘要」，
    正文里标注「据摘要」，不得当作已读全文。
 5. **不可靠来源也要留痕**：查过但结论是「不能用」的来源，同样记一条 `reliability: unverified` +

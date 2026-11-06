@@ -1,0 +1,51 @@
+{
+  "format": "dsh-library-vault/1",
+  "created": "2026-11-07T01:26:15+0800",
+  "cipher": "aes-256-ctr+hmac-sha256",
+  "kdf": {
+    "alg": "scrypt",
+    "salt": "eff382386c863745dafbfdf55aad078c",
+    "iv": "aea218f4caa691781f05d9b635c6a473",
+    "n": 16384,
+    "r": 8,
+    "p": 1,
+    "dklen": 64
+  },
+  "mac": "4072307a13aa83673f63a0b67122d4768d76c1eacabc08b99abcc14b96843b61",
+  "plain": {
+    "file": "library.tar.gz",
+    "bytes": 85958525,
+    "sha256": "807d0ad68e95a1bda388b154f012693aa7bb85d52d62eb54c82fe79eccb8c602"
+  },
+  "ciphertext": {
+    "bytes": 85958525,
+    "sha256": "8446eb9ced9c07bbc4571ec5a87e97437ad6f31938e4c5d78f6bf8d493b5980a"
+  },
+  "parts": [
+    {
+      "name": "part-000.bin",
+      "bytes": 24000000,
+      "sha256": "7f9b69111dd53bf0976623674a5c06297a99f13ea0578748ac4b057c8f3f7dcf"
+    },
+    {
+      "name": "part-001.bin",
+      "bytes": 24000000,
+      "sha256": "863ee2ad54d627687678d7ddadbbb46129d35a0bfe9f30d810fe49e04443d3d8"
+    },
+    {
+      "name": "part-002.bin",
+      "bytes": 24000000,
+      "sha256": "b749b262fe0158c48b4af7dbf89930b9cf128061bc47e393139a88ef295ec9ec"
+    },
+    {
+      "name": "part-003.bin",
+      "bytes": 13958525,
+      "sha256": "f8a7a3991231646c00b5cd7067da62b1c41c60858a28ce6ad3bb37c96d481497"
+    }
+  ],
+  "stats": {
+    "files": 57,
+    "source_bytes": 85958525
+  },
+  "note": "密钥不进仓库。解包见 .library-vault/README.md；口令丢失 = 备份报废。"
+}
