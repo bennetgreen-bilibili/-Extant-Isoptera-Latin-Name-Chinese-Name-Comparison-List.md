@@ -6,8 +6,8 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**206**。
-- 仍待补文献描述：**85**。其中 77 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
+- 已补写文献描述：**213**。
+- 仍待补文献描述：**78**。其中 70 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
 - 有 Treatise 条目但未提取到模式种的属：2（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
@@ -36,7 +36,7 @@
 | 科 | 属数 | 已有动物志描述 | 已补文献描述 | 待补 | 其中 Treatise 无条目 |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | 澳白蚁科 Mastotermitidae | 1 | 0 | 1 | 0 | 0 |
-| 古白蚁科 Archotermopsidae | 2 | 0 | 1 | 1 | 0 |
+| 古白蚁科 Archotermopsidae | 2 | 0 | 2 | 0 | 0 |
 | 草白蚁科 Hodotermitidae | 3 | 0 | 0 | 3 | 1 |
 | 原白蚁科 Hodotermopsidae | 1 | 1 | 0 | 0 | 0 |
 | 胄白蚁科 Stolotermitidae | 2 | 0 | 2 | 0 | 0 |
@@ -47,7 +47,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 177 | 80 | 6 |
+| 白蚁科 Termitidae | 280 | 23 | 183 | 74 | 6 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -65,16 +65,10 @@
 - 定位：pp. 293–297
 - 页面：https://isoptera.lifemosaic.net/genus/archotermopsis/
 
-### 动白蚁属 *Zootermopsis* — 待补（有 Treatise 线索）
+### 动白蚁属 *Zootermopsis* — 已有文献描述
 
-- 原始描述：Zootermopsis Emerson, 1933b: 182.
-- 模式种：Termopsis angusticollis Hagen, 1858 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hagen, 1858c: 32, 74–75 — Termopsis [part]; characters; species included.
-  - Hagen, 1858b: 12 — Termopsis [part]; characters; species included.
-  - Haviland, 1898: 371, 372–373 — Termopsis [part]; characters; key; distribution; species included.
-  - Desneux, 1904b: 12, 13 — Termopsis [part]; reference list; characters; Termopsis (Termopsis); characters; species included; distribution.
-  - Holmgren, 1911a: 37 — Termopsis; characters listed; key; species included.
+- 已据文献补写：De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484
+- 定位：couplet 2, pp. 4–11
 - 页面：https://isoptera.lifemosaic.net/genus/zootermopsis/
 
 ## 草白蚁科 Hodotermitidae（3 属）
@@ -356,28 +350,16 @@
   - Morimoto, 1975b: 29 — Ahamitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/ahamitermes/
 
-### 弓白蚁属 *Amitermes* — 待补（有 Treatise 线索）
+### 弓白蚁属 *Amitermes* — 已有文献描述
 
-- 原始描述：Amitermes Silvestri, 1901: 4.
-- 模式种：Amitermes amifer Silvestri, 1901 by subsequent designation, see Banks, 1920: 80.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 378, 406–407 — Termes “section with T. dentatus for type”; characters; key.
-  - Wasmann, 1902d: 122 — Amitermes; characters; species included.
-  - Silvestri, 1903: 43 — Amitermes; characters; distribution.
-  - Escherich, 1909: 175 — Amitermes; characters.
-  - Banks, 1919: 479 — Amitermes; key.
+- 已据文献补写：De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484
+- 定位：couplets 23 & 25, pp. 10–11
 - 页面：https://isoptera.lifemosaic.net/genus/amitermes/
 
-### 齿尖白蚁属 *Dentispicotermes* — 待补（有 Treatise 线索）
+### 齿尖白蚁属 *Dentispicotermes* — 已有文献描述
 
-- 原始描述：Dentispicotermes Emerson, 1949j: 177, 374, 375.
-- 模式种：Capritermes globicephalus Silvestri, 1901 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Araujo, 1969: 249–251 — Dentispicotermes; key; synonymy; characters; comparisons.
-  - Morimoto, 1975b: 37 — Dentispicotermes; key.
-  - Mathews, 1977: 128 — Dentispicotermes; synonymy; characters; relationships.
-  - Mill, 1983a: 182, 185 — Dentispicotermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 406, 417 — Dentispicotermes; key; biology; distribution.
+- 已据文献补写：Scheffrahn, R. H. 2024. Dentispicotermes trapezia (Isoptera: Termitidae: Amitermitinae), a new termite species from the Pantanal-Chaco Region of South America. Zootaxa 5536(3): 447–453. doi:10.11646/zootaxa.5536.3.4
+- 定位：pp. 447–448
 - 页面：https://isoptera.lifemosaic.net/genus/dentispicotermes/
 
 ### 镰白蚁属 *Drepanotermes* — 已有文献描述
@@ -396,25 +378,16 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 颚钩白蚁属 *Gnathamitermes* — 待补（有 Treatise 线索）
+### 颚钩白蚁属 *Gnathamitermes* — 已有文献描述
 
-- 原始描述：Gnathamitermes Light, 1932e: 390–394.
-- 模式种：Amitermes perplexus Banks, 1920 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Light, 1934e: 204, 205 — Amitermes (Gnathamitermes); key.
-  - Weesner, 1965: 33 — Gnathamitermes; key; characters; distribution.
-  - Morimoto, 1975b: 30 — Gnathamitermes; key.
-  - Mill, 1983a: 182, 185 — Gnathamitermes; key; number of species in New World; habitat; distribution.
-  - Nickle and Collins, 1990: 94, 114 — Gnathamitermes; key; characters.
+- 已据文献补写：De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484
+- 定位：couplets 24 & 25, pp. 10–11
 - 页面：https://isoptera.lifemosaic.net/genus/gnathamitermes/
 
-### 武白蚁属 *Hoplotermes* — 待补（有 Treatise 线索）
+### 武白蚁属 *Hoplotermes* — 已有文献描述
 
-- 原始描述：Hoplotermes Light, 1933: 134–135.
-- 模式种：Hoplotermes amplus Light, 1933 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 183 — Hoplotermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 2002a: 26 — Hoplotermes; key.
+- 已据文献补写：De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484
+- 定位：couplets 23 & 24, pp. 10–11
 - 页面：https://isoptera.lifemosaic.net/genus/hoplotermes/
 
 ### 子民白蚁属 *Incolitermes* — 待补（有 Treatise 线索）
@@ -899,16 +872,10 @@
 - 定位：Tucupitermes gen. nov. — Description: Imago / Genus Diagnosis / Genus Description (Worker) / Digestive tube（Zootaxa 5633: 187–191）
 - 页面：https://isoptera.lifemosaic.net/genus/tucupitermes/
 
-### 响白蚁属 *Crepititermes* — 待补（有 Treatise 线索）
+### 响白蚁属 *Crepititermes* — 已有文献描述
 
-- 原始描述：Crepititermes Emerson, 1925: 433 [first introduced as a subgenus of Mirotermes Wasmann, 1897].
-- 模式种：Mirotermes (Crepititermes) verruculosus Emerson, 1925 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Emerson, 1925: 433 — Mirotermes (Crepititermes); characters.
-  - Mathews, 1977: 133–134 — Crepititermes; synonymy; characters; comparisons.
-  - Mill, 1983a: 182, 186 — Crepititermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 405, 419 — Crepititermes; key; biology; distribution.
-  - Constantino, 2002a: 24 — Crepititermes; key.
+- 已据文献补写：Emerson, A. E. 1925. The Termites of Kartabo, Bartica District, British Guiana. Zoologica (New York) 6(4): 291–459. doi:10.5962/p.190324
+- 定位：pp. 433–434
 - 页面：https://isoptera.lifemosaic.net/genus/crepititermes/
 
 ### 无毛白蚁属 *Apilitermes* — 已有文献描述
@@ -1204,13 +1171,10 @@
 - 定位：pp. 126—127（archive.org 项 biostor-184513 页面图像）
 - 页面：https://isoptera.lifemosaic.net/genus/pseudomicrotermes/
 
-### 剪白蚁属 *Forficulitermes* — 待补（有 Treatise 线索）
+### 剪白蚁属 *Forficulitermes* — 已有文献描述
 
-- 原始描述：Forficulitermes Emerson, 1960c: 44–47.
-- 模式种：Forficulitermes planifrons Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 30, 31, 108, 109, pl. 22: fig. 69e — Forficulitermes; key; character; worker mandibles figured.
-  - Morimoto, 1975b: 38 — Forficulitermes; key. 2013 Krishna ET AL.: isoptera: TERMITIDAE: CubitERMITInAE 1951
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–49. Forficulitermes pp. 44–47.
+- 定位：pp. 44–47
 - 页面：https://isoptera.lifemosaic.net/genus/forficulitermes/
 
 ### 刺白蚁属 *Acanthotermes* — 已有文献描述

@@ -1,0 +1,142 @@
+{
+ "/genus/dentispicotermes/": {
+  "zh_name": "齿尖白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁具细长、弹射式（snapping）的上颚，头部有圆锥形头额突起（cephalic projection，即额突），并具发达的大型黄色下唇腺、向后延伸深入腹部；属土食性，工蚁肠瓣盔甲（enteric valve armature，EVA）具高度鉴别性。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "上颚细长、弹射式；多数种上颚具边缘齿（唯 D. brevicarinatus 无边缘齿）；末端钩约占上颚全长的 1/7（多数种）或约 1/3（D. pantanalis）；额突的形态（浅/陡、三角/狭梯形、后缘与头顶平面的夹角）为种间鉴别特征。"
+   },
+   {
+    "label": "工蚁",
+    "text": "土食性；肠瓣盔甲具高度鉴别性，但种内无明显差异。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0102",
+    "citation": "Scheffrahn, R. H. 2024. Dentispicotermes trapezia (Isoptera: Termitidae: Amitermitinae), a new termite species from the Pantanal-Chaco Region of South America. Zootaxa 5536(3): 447–453. doi:10.11646/zootaxa.5536.3.4",
+    "locator": "pp. 447–448"
+   }
+  ]
+ },
+ "/genus/crepititermes/": {
+  "zh_name": "响白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁额部平坦，与 Mirotermes 属（当时包含该类群的广义属）其它类群明显不同；除此之外与 Mirotermes s. str. 亚属最接近；上颚为弹射式、形态与 Mirotermes s. str. 相同。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "头部棕色、宽卵形，密被短毛与刚毛；囟略深于头壳其余部分、不显著；左上颚具 2 大齿（一尖一圆），右上颚仅 1 尖齿；触角第 3 节极短、远短于第 4 节。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "头部淡黄色、被短毛，长近长方形，两侧近平行，触角基部前方急剧收窄；触角淡于头部、13 节；上唇具 2 尖；上颚棕色、细长，末端急剧弯曲，基部宽且内缘具齿（左颚比右颚更显著）；前胸背板淡于头部、鞍形。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0083",
+    "citation": "Emerson, A. E. 1925. The Termites of Kartabo, Bartica District, British Guiana. Zoologica (New York) 6(4): 291–459. doi:10.5962/p.190324",
+    "locator": "pp. 433–434"
+   }
+  ]
+ },
+ "/genus/forficulitermes/": {
+  "zh_name": "剪白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁上唇具两枚侧尖角与一明显凸出的中叶，据此与 Basidentitermes、Proboscitermes、Orthotermes、Profastigitermes、Fastigitermes 近缘；是自 Basidentitermes 附近分出的小型奇异类群。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "头部自背面观近方形，两侧近乎直或微凸，额与头顶较近缘类群为平；额腺位于一小凹陷内，开口前方两侧各具两条扁平纵脊；上唇前端具两枚侧尖角及明显凸中叶；上颚为咬切式、较直而细长、末端不成钩；左上颚基部具一小锐齿，其后为一深而小的角状弯曲、末端成棘状突起。"
+   },
+   {
+    "label": "工蚁",
+    "text": "上颚似 Basidentitermes 附近的较原始类群；端齿较第一缘齿大；右上颚具明显的第二缘齿。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0100",
+    "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–49. Forficulitermes pp. 44–47.",
+    "locator": "pp. 44–47"
+   }
+  ]
+ },
+ "/genus/zootermopsis/": {
+  "zh_name": "动白蚁属",
+  "sections": [
+   {
+    "label": "兵蚁",
+    "text": "大型具颚（mandibulate）兵蚁；触角多于 20 节；各品级尾须（cerci）显著。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0101",
+    "citation": "De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484",
+    "locator": "couplet 2, pp. 4–11"
+   }
+  ],
+  "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
+ },
+ "/genus/amitermes/": {
+  "zh_name": "弓白蚁属",
+  "sections": [
+   {
+    "label": "兵蚁",
+    "text": "上颚弯曲、通常短于头长；上颚基部起于头部前侧角附近、内缘光滑。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0101",
+    "citation": "De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484",
+    "locator": "couplets 23 & 25, pp. 10–11"
+   }
+  ],
+  "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
+ },
+ "/genus/gnathamitermes/": {
+  "zh_name": "颚钩白蚁属",
+  "sections": [
+   {
+    "label": "兵蚁",
+    "text": "上颚直、仅端部弯曲，与头等长或更长；头宽小于 1.4 mm，上颚较窄、通常长于头宽；上颚基部起于头部前侧角附近、内缘光滑。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0101",
+    "citation": "De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484",
+    "locator": "couplets 24 & 25, pp. 10–11"
+   }
+  ],
+  "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
+ },
+ "/genus/hoplotermes/": {
+  "zh_name": "武白蚁属",
+  "sections": [
+   {
+    "label": "兵蚁",
+    "text": "头宽大于 1.8 mm；上颚粗壮、短于头宽；上颚基部起于头部前侧角附近、内缘光滑。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0101",
+    "citation": "De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484",
+    "locator": "couplets 23 & 24, pp. 10–11"
+   }
+  ],
+  "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
+ }
+}

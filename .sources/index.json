@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 99,
+    "count": 101,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T07:16:01+08:00",
+    "updated": "2026-11-07T07:34:31+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -4932,16 +4932,36 @@
           "quote": "The mandibles of the soldier are similar in shape and adaptation to those of Mirotermes, s. str.",
           "locator": "p. 442（Subgenus Cavitermes 一节）",
           "note": "支撑：腔白蚁属（/genus/cavitermes/）"
+        },
+        {
+          "quote": "The soldier is quite distinct from all the other groups of the genus Mirotermes in that it has a flat forehead. With this exception, I believe it comes closest to the subgenus Mirotermes, s. str. The mandibles are adapted for snapping and have the same form as in Mirotermes, s. str.",
+          "locator": "p. 433, Subgenus Crepititermes diagnosis",
+          "note": "支撑：兵蚁额部平坦、弹射式上颚"
+        },
+        {
+          "quote": "Head brown, widely oval, covered with short hair and bristles . . . Fontanelle a little darker than the rest of the head, inconspicuous. Left mandible with 2 large teeth, one sharply pointed, the other rounded; right mandible with only 1 pointed tooth. The 3d segment of the antennae very short, much shorter than the 4th",
+          "locator": "pp. 433–434, Imago",
+          "note": "支撑：有翅成虫头形、颚齿、触角第3节"
+        },
+        {
+          "quote": "Head pale yellow, covered with short hairs; long, subrectangular, sides nearly parallel, converging sharply in front of the base of the antennae. Antennae paler than the head, with 13 segments . . . Labrum with 2 points . . . Mandibles brown, slender, extreme end sharply curved, base broad with a tooth on the inner edge . . . Pronotum paler than the head, saddle-shaped",
+          "locator": "p. 434, Soldier",
+          "note": "支撑：兵蚁头形、触角、上唇、上颚、前胸背板"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/08-african.json",
-        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json",
+        "_tools/fauna/morphology/descriptions/09-unassigned.json"
       ],
-      "accessed": "2026-11-07T07:14:53+08:00",
+      "accessed": "2026-11-07T07:34:05+08:00",
       "canonical_key": "url:https://archive.org/details/biostor-181707",
-      "id": "S0083"
+      "id": "S0083",
+      "doi": "10.5962/p.190324",
+      "body_sha256": "7887537baa7f5ecea613e4354384245c8fd62d2586ac453a6be347c20bde496e",
+      "chars": 339340,
+      "file_path": "_tmp/lit/fulltext/09-unassigned/crepititermes_emerson1925.txt"
     },
     {
       "title": "Atlantitermes, novo gênero de cupim, com duas novas espécies do Brasil (Isoptera, Termitidae, Nasutitermitinae)",
@@ -5528,7 +5548,7 @@
       "publisher": "American Museum of Natural History",
       "lang": "en",
       "license": "unknown",
-      "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1988）。",
+      "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1988）。；AMNH handle：http://hdl.handle.net/2246/4713",
       "evidence": [
         {
           "quote": "The imago-worker mandibles, with the absence of the second marginal tooth in the right mandible, are similar only to those of Euchilotermes, Ophiotermes, Tuberculitermes, and Spini- termes",
@@ -5614,15 +5634,141 @@
           "quote": "The imago-worker mandibles, with the absence of the second marginal tooth in the right mandible, are similar only to those of Euchilotermes, Ophiotermes, Tuberculitermes, and Spini- termes",
           "locator": "p. 21（Nitiditermes 工蚁）",
           "note": "支撑：小瘤白蚁属（/genus/tuberculitermes/）"
+        },
+        {
+          "quote": "Head from above (fig. 16A) subquadrangular, with somewhat straight or slightly convex sides. Front and vertex relatively flat compared to those of related genera. Frontal gland in a small depression, with two flat longitudinal ridges in front of the opening on each side",
+          "locator": "p. 45, Soldier",
+          "note": "支撑：兵蚁头形、额/头顶扁平、额腺凹陷与纵脊"
+        },
+        {
+          "quote": "Labrum with two lateral sharp points in front and with a conspicuous convex median lobe in the middle of the front margin . . . Mandibles of the biting type . . . comparatively straight and slender . . . tips not hooked . . . base of left mandible with a small, fairly sharp tooth . . . behind the tooth there is a deep and small, somewhat angular curve ending in a sharp spine-like projection",
+          "locator": "pp. 45–46, Soldier",
+          "note": "支撑：兵蚁上唇尖角与中叶、咬切式上颚、左上颚基齿与棘突"
+        },
+        {
+          "quote": "The mandibles resemble the more generalized genera near Basidentitermes. The apical tooth is large compared to the first marginal tooth . . . The right mandible possesses a distinct second marginal tooth... Forficulitermes is related to Basidentitermes, Proboscitermes, Orthotermes, Profastigitermes, and Fastigitermes in the shape of the soldier labrum with its median lobe and sharp lateral points.",
+          "locator": "pp. 46–47, Worker & Comparisons",
+          "note": "支撑：工蚁上颚形态、属级亲缘关系"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/08-african.json"
+        "_tools/fauna/morphology/descriptions/08-african.json",
+        "_tools/fauna/morphology/descriptions/09-unassigned.json"
       ],
-      "accessed": "2026-11-07T07:14:53+08:00",
+      "accessed": "2026-11-07T07:34:05+08:00",
       "canonical_key": "url:https://archive.org/details/sixnewgenerater1988emer",
-      "id": "S0100"
+      "id": "S0100",
+      "body_sha256": "0d64cf4714dc0d5709464bea96240f434bd95fed8c10f826aa140eabb622a67b",
+      "chars": 108969,
+      "file_path": "_tmp/lit/fulltext/09-unassigned/forficulitermes_emerson1960.txt"
+    },
+    {
+      "title": "Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.21829/azm.2023.3912484",
+      "url": "",
+      "year": 2023,
+      "authors": [
+        "De Luna, M.",
+        "Scheffrahn, R. H.",
+        "García-Barrios, R.",
+        "Cuéllar-Rodríguez, C."
+      ],
+      "publisher": "Acta Zoológica Mexicana (nueva serie) 39: 1–30",
+      "lang": "en",
+      "license": "CC BY-NC 4.0",
+      "file_path": "_tmp/lit/fulltext/09-unassigned/gnathamitermes_azm2023.txt",
+      "evidence": [
+        {
+          "quote": "Large mandibulate soldier; antennae with more than 20 articles (Fig. 4A); prominent cerci in all castes (Fig. 4B)",
+          "locator": "couplet 2, pp. 4–11",
+          "note": "支撑：兵蚁大型具颚、触角>20节、各品级尾须显著"
+        },
+        {
+          "quote": "Base of the mandibles originate near anterolateral corners of the head, with inner edge of mandibles smooth (Figs. 2A, 5B, 17B)",
+          "locator": "couplet 23, pp. 10–11",
+          "note": "支撑：上颚基部位置与内缘光滑"
+        },
+        {
+          "quote": "Mandibles curved, usually shorter than head length (Fig. 2A)",
+          "locator": "couplet 25, pp. 10–11",
+          "note": "支撑：上颚弯曲、短于头长"
+        },
+        {
+          "quote": "Mandibles straight, curved only at the tip and as long or longer than head length (Fig. 5B)",
+          "locator": "couplet 25, pp. 10–11",
+          "note": "支撑：上颚直、仅端部弯曲、与头等长或更长"
+        },
+        {
+          "quote": "Head width less than 1.4 mm; mandibles narrower, usually longer than head width",
+          "locator": "couplet 24, pp. 10–11",
+          "note": "支撑：头宽<1.4mm、上颚窄而长"
+        },
+        {
+          "quote": "Head width greater than 1.8 mm, with mandibles robust, shorter than head width (Fig. 17B)",
+          "locator": "couplet 24, pp. 10–11",
+          "note": "支撑：头宽>1.8mm、上颚粗壮且短于头宽"
+        },
+        {
+          "quote": "Base of the mandibles originate near anterolateral corners of the head, with inner edge of mandibles smooth (Figs. 2A, 5B, 17B)",
+          "locator": "couplet 23, pp. 10–11",
+          "note": "支撑：上颚基部位置与内缘光滑"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/09-unassigned.json"
+      ],
+      "notes": "北美属检索表（兵蚁性状），仅提供上述4属兵蚁级鉴别点（薄），非完整属征。",
+      "accessed": "2026-11-07T07:34:05+08:00",
+      "body_sha256": "50bde7e30773981493fcf7e8e9cd21df4830c32004eac9f1f55fb1732c8f4d92",
+      "chars": 83703,
+      "canonical_key": "doi:10.21829/azm.2023.3912484",
+      "id": "S0101"
+    },
+    {
+      "title": "Dentispicotermes trapezia (Isoptera: Termitidae: Amitermitinae), a new termite species from the Pantanal-Chaco Region of South America",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.11646/zootaxa.5536.3.4",
+      "url": "",
+      "year": 2024,
+      "authors": [
+        "Scheffrahn, R. H."
+      ],
+      "publisher": "Zootaxa 5536(3): 447–453",
+      "lang": "en",
+      "license": "CC BY-NC 4.0",
+      "file_path": "_tmp/lit/fulltext/09-unassigned/dentispicotermes_zootaxa5536.3.4.txt",
+      "evidence": [
+        {
+          "quote": "Dentispicotermes is a relatively uncommon termite genus characterized by soldiers with long thin snapping mandibles, a conical cephalic projection, and large yellow labial glands that extend well into the abdomen.",
+          "locator": "p. 447, Introduction ¶1",
+          "note": "支撑：兵蚁弹射式上颚、圆锥形额突、黄色下唇腺延伸入腹部"
+        },
+        {
+          "quote": "Dentispicotermes spp. are soil feeders and workers of species that have been studied have very diagnostic enteric valve armature (EVA) but apparently have no discernable intraspecific differences.",
+          "locator": "p. 447, Introduction ¶2",
+          "note": "支撑：土食性、工蚁肠瓣盔甲具鉴别性"
+        },
+        {
+          "quote": "1 Mandibles without marginal teeth (Emerson 1950, fig. 4) . . . D. brevicarinatus / - Mandibles with marginal teeth . . . 2 / 2 Apical hook about one-third length of entire mandible . . . D. pantanalis / - Apical hook about one-seventh length of entire mandible (Fig. 1A) . . . 3",
+          "locator": "p. 448, Key to Dentispicotermes soldiers",
+          "note": "支撑：兵蚁边缘齿有无、末端钩占上颚全长比例"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/09-unassigned.json"
+      ],
+      "notes": "D. trapezia 新种描述 + 全属兵蚁检索表；属级特征取自 Introduction 与检索表。",
+      "accessed": "2026-11-07T07:34:05+08:00",
+      "body_sha256": "b1eadc65803627bfa3ce1c0e8ec3a9586c9dfef9da8021f8002f58a3022a398c",
+      "chars": 16384,
+      "canonical_key": "doi:10.11646/zootaxa.5536.3.4",
+      "id": "S0102"
     }
   ]
 }
