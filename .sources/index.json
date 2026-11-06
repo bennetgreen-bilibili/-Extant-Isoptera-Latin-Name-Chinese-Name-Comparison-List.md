@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 8,
+    "count": 11,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T00:44:37+08:00",
+    "updated": "2026-11-07T01:03:00+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -686,6 +686,108 @@
       "chars": 4128814,
       "canonical_key": "doi:10.1038/s41467-024-51028-y",
       "id": "S0008"
+    },
+    {
+      "title": "Developmental Pathways of Psammotermes hybostoma (Isoptera: Rhinotermitidae): Old Pseudergates Make up a New Sterile Caste",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1371/journal.pone.0044527",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0044527",
+      "year": 2012,
+      "authors": [
+        "Bourguignon T., Šobotník J., Sillam-Dussès D., Jiroš P., Hanus R., Roisin Y., Miura T."
+      ],
+      "publisher": "PLoS ONE 7(9): e44527",
+      "lang": "en",
+      "license": "CC BY",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Beside numerous pluripotent pseudergates, constituting the main work force, some larger non-feeding apterous immatures, also occur. These individuals are unable to proceed to the winged imago stage, but store large amounts of fat and also give rise to large soldiers.",
+          "locator": "Abstract, Principal Findings",
+          "note": "支撑：沙白蚁属主劳力为多能拟工蚁，另有一支大型无翅不育个体"
+        },
+        {
+          "quote": "The caste system of P. hybostoma is essentially linear, as in other basal Rhinotermitidae, but is distinguished by the late bifurcation leading to large apterous immatures.",
+          "locator": "Abstract, Conclusions（前句）",
+          "note": "支撑：沙白蚁属品级体系基本为线性，晚期分叉产生大型无翅个体"
+        },
+        {
+          "quote": "Because these large worker-like individuals deviate late and do not perform worker tasks, they cannot be considered homologous to the true workers of Termitidae and advanced Rhinotermitidae, but they provide a novel example of the evolution of sterile immatures in termites.",
+          "locator": "Abstract, Conclusions（后句）",
+          "note": "支撑：这些大型个体不构成真工蚁——分叉晚、不承担工蚁劳作"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
+      "notes": "全文可读（PLOS 开放获取）。结论修正了 Roisin & Korb (2010)「沙白蚁属是否有真工蚁尚不能确定」的表述。",
+      "accessed": "2026-11-07T01:03:00+08:00",
+      "canonical_key": "doi:10.1371/journal.pone.0044527",
+      "id": "S0009"
+    },
+    {
+      "title": "The Trail-Following Communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1007/s10886-023-01447-w",
+      "url": "https://www.researchsquare.com/article/rs-2770501/v1",
+      "year": 2023,
+      "authors": [
+        "Thakur H., Agarwal S., Hradecký J., Sharma G., Li H.-F., Yang S.-E., Sehadová H., Chandel R. S., Hyliš M., Mathur V., Šobotník J., Sillam-Dussès D."
+      ],
+      "publisher": "Journal of Chemical Ecology 49: 642–651",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Both fragments contained hundreds of workers (probably pseudergates sensu lato; Roisin and Korb 2011) and tens of soldiers.",
+          "locator": "Research Square 预印本 rs-2770501/v1，材料与方法（对应正式版 J. Chem. Ecol. 49: 642–651）",
+          "note": "支撑：杆白蚁属巢群含数百工蚁与数十兵蚁，工蚁暂按广义拟工蚁处理"
+        },
+        {
+          "quote": "The difficulty to collect them limits our ability to study them, and they thus still belong to critically unknown groups in respect to their biology.",
+          "locator": "预印本摘要（正式版摘要同义）",
+          "note": "支撑：杆白蚁属生物学（含品级发育）仍属「认知极少的类群」"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
+      "notes": "引文摘自 Research Square 预印本全文；正式版 DOI 见 doi 字段，摘要经 Europe PMC 核对一致。access: 正式版正文未获取（订阅刊），预印本全文可读。",
+      "accessed": "2026-11-07T01:02:42+08:00",
+      "canonical_key": "doi:10.1007/s10886-023-01447-w",
+      "id": "S0010"
+    },
+    {
+      "title": "Defensive glands in Stylotermitidae (Blattodea, Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1016/j.asd.2024.101346",
+      "url": "https://doi.org/10.1016/j.asd.2024.101346",
+      "year": 2024,
+      "authors": [
+        "Thakur H., Agarwal S., Buček A., Hradecký J., Sehadová H., Mathur V., Togaev U., van de Kamp T., Hamann E., Liu R. H., Verma K. S., Li H.-F., Sillam-Dussès D., Engel M. S., Šobotník J."
+      ],
+      "publisher": "Arthropod Structure & Development 79: 101346",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "We studied the structure of the frontal, labral and labial glands in soldiers and workers of Stylotermes faveolus, and the composition of the frontal gland secretion in S. faveolus and S. halumicus.",
+          "locator": "Abstract (Europe PMC 38520874)",
+          "note": "支撑：杆白蚁属兵蚁与工蚁的额腺、唇腺已有形态与化学研究"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
+      "notes": "仅读摘要（Europe PMC），未获全文。",
+      "accessed": "2026-11-07T01:02:42+08:00",
+      "canonical_key": "doi:10.1016/j.asd.2024.101346",
+      "id": "S0011"
     }
   ]
 }
