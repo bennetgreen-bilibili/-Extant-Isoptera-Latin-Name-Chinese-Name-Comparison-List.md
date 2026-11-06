@@ -1303,5 +1303,260 @@
       }
     ],
     "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/genuotermes-spinifer/": {
+    "zh_name": "具脊膝白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁上颚延长，近端 1/3 处肘弯，远端 2/3 内缘为锯齿刃并具基部突齿，磨板与磨突在基部可见；头囊背面观近长方形，具特征性额突，额腺开口位于头突末端、朝前。有翅成虫复眼半球形、囟为小裂缝。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "上颚延长，近端 1/3 处肘弯；远端 2/3 内缘为锯齿状刃，基部具显著突齿；磨板与磨突在基部可见。头囊背面观近长方形，具特征性额突（侧面观最佳）；额腺开口位于头突末端，朝前。上唇近长方形；胫节距式 3:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头囊背面观圆；囟不明显；触角 14–15 节；上颚端齿远较缘齿发达，缘齿端部可辨。消化道：P1 膨大、位于体左侧，末段成延长环上达背区后下行接入 P3；砂囊柱状带 24 条可见褶（一级 6、二级 6、三级 12），一级褶具刺状装饰；肠瓣由三条等距纵垫组成，被刷状排列的粗壮直立刺。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "复眼半球形、侧观椭圆，接近但不触头下缘与单眼；囟不明显，呈头背面的小裂缝；前胸背板近梯形，前侧角圆；中胸背板后缘深凹而尖，后胸背板后缘较浅而圆；胫节距式 3:2:2。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0079",
+        "citation": "Rocha M. M. 2013. Redescription of the enigmatic genus Genuotermes Emerson (Isoptera, Termitidae, Termitinae). ZooKeys 340: 107-117. https://doi.org/10.3897/zookeys.340.6131",
+        "locator": "Description › Soldier（p. 109）；Description › Worker（p. 109）；Description › Digestive tube（p. 109）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/indocapritermes-aruni/": {
+    "zh_name": "阿伦印扭白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "东方区检索表第 9–10 对：头中等被毛、额面前倾 → 上唇前侧角微小细弱、基部窄，前胸背板前叶微凸、具弱缺刻，触角 14 节。与 Rinacapritermes 以上唇前侧角长而粗壮、基部宽，前胸背板前叶强凸而无缺刻，触角 15 节区分。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头被毛中等，额面前倾明显；上唇前侧角微小、细、基部窄；前胸背板前叶微凸、具弱缺刻；触角 14 节。左颚中部强扭转、末端钝。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0029",
+        "citation": "Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3",
+        "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 9；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 10 (Indocapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/kemneritermes-sarawakensis/": {
+    "zh_name": "砂拉越凯姆勒白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "东方区 Pericapritermes 组属级兵蚁检索表中，头具高度骨化额脊、略呈“堵塞型”（phragmotic）者仅本属：第 1 对即以此单独分出，其余各属头无额脊、不呈 phragmotic。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头具高度骨化的额脊，头略呈 phragmotic。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0029",
+        "citation": "Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3",
+        "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 1 (Kemneritermes 分支)"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/longustitermes-manni/": {
+    "zh_name": "曼长工白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "工蚁肠瓣座（EVS）三叶，据此与肠瓣座管状的 Hirsutitermes 分开；肠瓣武装为覆盖垫间角质的连续花环状结构，由数百枚细小薄刺组成。体型较 Hirsutitermes 小。"
+      },
+      {
+        "label": "工蚁",
+        "text": "肠瓣（EVA）武装呈连续花环状，刺小而薄、数以百计，并延伸至垫间角质上；肠瓣座三叶。体型较小。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0027",
+        "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001",
+        "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 15；Key to neotropical Apicotermitinae genera based on the worker caste, couplet 16 (Longustitermes 分支)；Comparison and remarks (Hirsutitermes)"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/noirotitermes-noiroti/": {
+    "zh_name": "努瓦罗努瓦罗白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头后部具四个角状显著突起，两侧凸、前半略收缢；头囊形状极为独特，头表具特征性微刻纹；上颚穿刺型；体型较小。有翅成虫左颚指数 1.5，触角 15 节，节序 1>2>6>5=4>3。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头后部具四个角状的显著突起，两侧凸、前半略收缢；头囊形状极为独特，头表具特征性微刻纹；上颚穿刺型；体型较同类小。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头褐，额部具半圆形淡色斑，囟点椭圆、亦淡，蜕裂线淡。后唇基显著膨大，前缘平直、后缘凸，中线明显。复眼圆形、中等大小；单眼大而明显。上颚端齿大，左 M3 远短于 M1；左颚指数 1.5。触角 15 节，节序 1>2>6>5=4>3。翅面微刻纹几乎缺失，仅前部近端具细点。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0077",
+        "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+        "locator": "Imago（p. 66）；Imago（p. 66–67）"
+      },
+      {
+        "id": "S0068",
+        "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+        "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+      },
+      {
+        "id": "S0072",
+        "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+        "locator": "Key to genera of Syntermitinae, couplet 14"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/oriencapritermes-kluangensis/": {
+    "zh_name": "居銮东扭白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Syncapritermes 同处第 13 对：上唇前缘深凹、长宽约相等、前侧突基部具尖者为本属；上唇前缘浅凹、长大于宽、前侧突基部无尖者为 Syncapritermes。左颚具发达、具齿的下基突（第 12 对）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "上唇前缘深凹，长宽约相等，前侧突基部具尖；左颚具发达、具齿的下基突；上唇长（长≥宽）；囟小、圆形，囟腺小；左颚中部强扭转、末端钝。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0029",
+        "citation": "Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3",
+        "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 13 (Oriencapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11（本属落在该分支）；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 12（本属落在该分支）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/paracurvitermes-manni/": {
+    "zh_name": "曼近曲白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁体型较小；头囊较宽，圆或近方形，头基部长约等于宽；额管发达、圆锥形且较短；上颚穿刺型、明显弯曲，较 Acangaobitermes 更长、弯度较小并具三角形齿，基部附近有显著缘齿。有翅成虫左颚指数约 2.0。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头囊较宽，圆或近方形，头基部长约等于宽。额管发达、圆锥形，较 Biratermes 短。上颚穿刺型，明显弯曲；较 Acangaobitermes 更长、弯度较小，具三角形齿；基部附近具显著缘齿。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左颚指数约 2.0，与 Curvitermes、Cyrilliotermes 同。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0068",
+        "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+        "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+      },
+      {
+        "id": "S0023",
+        "citation": "Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278",
+        "locator": "Comparisons with other genera of Syntermitinae"
+      },
+      {
+        "id": "S0072",
+        "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+        "locator": "Key to genera of Syntermitinae, couplet 11；Key to genera of Syntermitinae, couplet 10"
+      },
+      {
+        "id": "S0077",
+        "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+        "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/syncapritermes-greeni/": {
+    "zh_name": "格林聚扭白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Oriencapritermes 同处第 13 对，以上唇前缘浅凹、长大于宽、前侧突基部无尖区分；左颚具发达、具齿的下基突（第 12 对）。囟小、圆形，囟腺小。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "上唇前缘浅凹，长大于宽，前侧突基部无尖；左颚具发达、具齿的下基突；上唇长；囟小、圆形，囟腺小。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0029",
+        "citation": "Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3",
+        "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 13 (Syncapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 12（本属落在该分支）；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11（本属落在该分支）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/tetimatermes-oliveirae/": {
+    "zh_name": "橄榄树足白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "在 2023 年新热带无兵蚁类工蚁检索表中，本属以“前胫节具长勺状凹槽”单独成对（第 2 对），不再向下分支；其余特征与近缘属重叠。"
+      },
+      {
+        "label": "工蚁",
+        "text": "前胫节具长的“勺状”凹槽（scooped out excavation，见 Fontes 1986）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0027",
+        "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001",
+        "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 2 (Tetimatermes 分支)"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/coendutermes-tucum/": {
+    "zh_name": "纤维箭猪白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头部背面与两侧散布许多中空腺刚毛，粗壮、褐色、末端截形；除鼻端外头部无普通刚毛；鼻圆锥形，略向上弯，端部尖；触角很长，远伸过鼻端。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型；头壳背面与两侧散布许多中空腺刚毛，粗大、直立、褐色、末端截形；除鼻端外，头部无普通刚毛；鼻圆锥形，略向上弯，端部尖；后唇基弱倾斜，背面观可见；上颚端部各有一分离的突起，但无发达的端尖；触角很长，远伸过鼻端。"
+      },
+      {
+        "label": "工蚁",
+        "text": "外观单型；腹部骨片苍白或无色、透明，可透见肠内容物；无腺刚毛；头具少数长刚毛与许多中等长的刚毛；后唇基中度膨大，宽/长 2.90-3.25。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0086",
+        "citation": "Fontes, L. R. 1985. A new genus and species of Nasutitermitinae from South America (Isoptera, Termitidae). Revista Brasileira de Entomologia 29(1): 135-138.",
+        "locator": "pp. 135-137"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
   }
 }

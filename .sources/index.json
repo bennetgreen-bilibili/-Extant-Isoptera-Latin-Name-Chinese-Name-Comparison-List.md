@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 80,
+    "count": 95,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T07:06:03+08:00",
+    "updated": "2026-11-07T07:11:13+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2796,15 +2796,42 @@
           "quote": "Pontas das mandíbulas bem conspícuas em vista dorsal; cabeça subretangular em vista dorsal, com a parte posterior aproximadamente da mesma largura que a anterior; soldados di- ou trimórficos (Figs. 73-74) Diversitermes.",
           "locator": "Chave para soldados, casal 5",
           "note": "支撑：Diversitermes 兵蚁二型或三型、头壳近方形"
+        },
+        {
+          "quote": "Cabega com 2-3 cerdas longas e numerosos pelos microscopicos (Figs. 107-108)",
+          "locator": "p. 415",
+          "note": "无颚白蚁属（agnathotermes）：支撑：「兵蚁」「鉴别要点」头顶 2-3 根长刚毛与多数微毛。",
+          "ocr_note": "OCR 以 g 代 ç：cabega 即 cabeça。"
+        },
+        {
+          "quote": "Topo da cabega com numerosas cerdas longas (Figs. 95-96) Araujotermes - Topo da cabe^a com 0-6 cerdas longas e numerosos pelos microscopicos (Figs. 93-94) Subulitermes",
+          "locator": "p. 415",
+          "note": "阿劳若白蚁属（araujotermes）：支撑：「兵蚁」「鉴别要点」Araujotermes 头顶多数长刚毛，检索表对偶项给出 Subulitermes 头顶仅 0-6 根长刚毛、另有多数微毛。",
+          "ocr_note": "OCR 以 g 代 ç、以 ^ 代升音符：cabega 即 cabeça，cabe^a 即 cabeça。"
+        },
+        {
+          "quote": "Cabega com numerosas cerdas longas, de comprimento variavel (Figs. 105-106)",
+          "locator": "p. 415",
+          "note": "凸鼻白蚁属（coatitermes）：支撑：「兵蚁」「鉴别要点」头顶多数长短不一的长刚毛。",
+          "ocr_note": "OCR 以 g 代 ç：cabega 即 cabeça。"
+        },
+        {
+          "quote": "Cabega como nas Figs. 83-84, de cor amarelo-marrom; numerosos pelos muito curtos no nasus e topo da cabega; intestino (primeiro segmento proctodeal ou PI) formando uma alga distinta10 em vista lateral direita (Figs. 176-179); uma unica especie, geralmente encontrada em campos umidos",
+          "locator": "p. 414",
+          "note": "利颚白蚁属（cortaritermes）：支撑：「兵蚁」「鉴别要点」全部性状：头形、体色、鼻与头顶的短毛、后肠第一段肠环、单种与生境。",
+          "ocr_note": "OCR 以 g 代 ç、以 l 代 ç 的连字，alga 即 alça；cabega 即 cabeça。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/04-6.json"
+        "_tools/fauna/morphology/descriptions/04-6.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
       ],
-      "accessed": "2026-11-07T03:52:32+08:00",
+      "accessed": "2026-11-07T07:09:19+08:00",
       "canonical_key": "doi:10.11606/0031-1049.1997.40.p387-448",
-      "id": "S0048"
+      "id": "S0048",
+      "url": "https://revistas.usp.br/paz/article/download/211666/193890",
+      "notes": "属级检索表（含各属分布与生物学概要）。PDF 经 pdftotext 抽取后重音与软音符丢失（ç 常作 c 或 g，ã 作 a，õ 作 o）：引文照抽取文本原样，逐条在 evidence 中给出订正。Coatitermes、Cortaritermes、Araujotermes、Agnathotermes 的部分性状出自此文。"
     },
     {
       "title": "The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea",
@@ -4194,7 +4221,7 @@
       "file_path": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
       "chars": 583391,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T07:04:30+08:00",
+      "accessed": "2026-11-07T07:11:13+08:00",
       "notes": "全文存于 _unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)（583391 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
@@ -4242,7 +4269,28 @@
       "used_in": [
         "_data/etymology.json"
       ],
-      "evidence": [],
+      "evidence": [
+        {
+          "quote": "ASTRATOTERMES gen. n. (A—* without, no', stratos, Gr., 'army')",
+          "locator": "Astratotermes 属描述（目录 p.105）",
+          "note": "支撑：Astratotermes 属名词源 = a-（无）+ stratos（军队）= 无兵蚁"
+        },
+        {
+          "quote": "ANENTEOTERMES gen. n. (An—'without', enteon, Gr., 'fighting gear')",
+          "locator": "Anenteotermes 属描述（目录 p.192）",
+          "note": "支撑：Anenteotermes 属名词源 = an-（无）+ enteon（战斗装备）"
+        },
+        {
+          "quote": "ACHOLOTERMES gen. n. (Acholos, Gr., 'meek')",
+          "locator": "Acholotermes 属描述（目录 p.139）",
+          "note": "支撑：Acholotermes 属名词源 = acholos（温和）"
+        },
+        {
+          "quote": "ALYSCOTERMES gen. n. (Alysko, Gr., 'flee from, shun, wander')",
+          "locator": "Alyscotermes 属描述（目录 p.125）",
+          "note": "支撑：Alyscotermes 属名词源 = alysko（逃避）"
+        }
+      ],
       "id": "S0074"
     },
     {
@@ -4253,7 +4301,7 @@
       "file_path": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon",
       "chars": 391457,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T07:04:35+08:00",
+      "accessed": "2026-11-07T07:11:13+08:00",
       "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Termites-of-the-Belgian-Congo-and-the-Cameroon",
@@ -4291,7 +4339,13 @@
       "used_in": [
         "_data/etymology.json"
       ],
-      "evidence": [],
+      "evidence": [
+        {
+          "quote": "owing to the fact that the pulvillus is lacking",
+          "locator": "p.421 / Neotermes (Kalotermes) sepulvillus 描述",
+          "note": "支撑：种加词 sepulvillus = se-（无）+ pulvillus（小爪垫）= 无爪垫，对应其鉴别特征"
+        }
+      ],
       "id": "S0075"
     },
     {
@@ -4599,6 +4653,549 @@
       "accessed": "2026-11-07T07:06:03+08:00",
       "canonical_key": "doi:10.1071/it9901147",
       "id": "S0080"
+    },
+    {
+      "title": "New Genera of Termites Related to Subulitermes from the Oriental, Malagasy, and Australian Regions (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/newgeneratermit1986emer",
+      "year": 1960,
+      "authors": [
+        "Emerson, A. E."
+      ],
+      "journal": "American Museum Novitates 1986: 1-28",
+      "publisher": "American Museum of Natural History",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "Aciculitermes、Ceylonitermellus、Australitermes 的原始属级描述。archive.org 扫描 OCR；引文照 OCR 文本，未作拼接。",
+      "evidence": [
+        {
+          "quote": "The soldier of Aciculitermes lacks points on the mandibles.",
+          "locator": "p. 11",
+          "note": "针白蚁属（aciculitermes）：支撑：「兵蚁」「鉴别要点」上颚无端尖这一建属性状。"
+        },
+        {
+          "quote": "Head and frontal projection with many short microscopical hairs. Vertex and base of head projection with a few bristles. Head proportionately wider than that of Subulitermes microsoma. Profile of head from tip of projection to the vertex almost straight or slightly concave, with a slight hump at the base of the projection.",
+          "locator": "p. 12",
+          "note": "针白蚁属（aciculitermes）：支撑：「兵蚁」头与额突的微毛、与 Subulitermes microsoma 的头宽比较、头部侧轮廓。"
+        },
+        {
+          "quote": "The left mandibular index is 0.73, while it is 0.56 for Leucopitermes and 1.33 for Subulitermes. The apical teeth of both mandibles are proportionately larger than in Leucopitermes (fig. 2), there is no notch immediately posterior to the first marginal tooth of the left mandible, and the third marginal tooth is narrower.",
+          "locator": "p. 12",
+          "note": "针白蚁属（aciculitermes）：支撑：「工蚁」左颚指数 0.73 及其与 Leucopitermes、Subulitermes 的对比，端齿比例、缺刻与第 3 缘齿宽度。"
+        },
+        {
+          "quote": "Eye and ocellus large, the ocellus less than its width from the ocular suture and longer (0.15 mm.) than the diameter of the basal socket of the antenna (0.12 mm.). Fontanelle long and narrowly oval, without a distinctly forked tip. Postclypeus much longer than half of its width (length, 0.32 mm.; width, 0.50 mm.).",
+          "locator": "p. 24",
+          "note": "澳大利亚白蚁属（australitermes）：支撑：「有翅成虫」眼与单眼、囟、后唇基的性状与量度。"
+        },
+        {
+          "quote": "Antenna with 15 articles, the third article longer than the fourth and the fourth longer than the second. Mandibles (fig. 11) with the highest left mandible index (1.54) of any of the Australian genera of the Subulitermes branch of the Nasutitermitinae. The closest Australian genus is Macrosubulitermes (fig. 9), with an index of 1.07.",
+          "locator": "p. 24",
+          "note": "澳大利亚白蚁属（australitermes）：支撑：「有翅成虫」触角节数与比例、左颚指数及其在澳大利亚支系中的位置。"
+        },
+        {
+          "quote": "Head with a small constriction visible from both the top and side. The profile of the pronotum has a sharp angle close to a right angle between the front lobe and the basal portion.",
+          "locator": "p. 26",
+          "note": "澳大利亚白蚁属（australitermes）：支撑：「兵蚁」单型、头部小收缩与前胸背板侧轮廓的近直角。"
+        },
+        {
+          "quote": "SOLDIER: The mandibles lack apical points.",
+          "locator": "p. 12",
+          "note": "小锡兰白蚁属（ceylonitermellus）：支撑：「兵蚁」唯一可引性状。"
+        },
+        {
+          "quote": "The left mandible has a characteristically long first plus second marginal tooth. The left mandible index is 0.62.",
+          "locator": "p. 13",
+          "note": "小锡兰白蚁属（ceylonitermellus）：支撑：「工蚁」左颚第 1+2 缘齿特别长与指数 0.62。"
+        },
+        {
+          "quote": "The third marginal tooth is proportionately small compared to that of Leucopitermes. The right mandible has a concave outline of the molar plate. The angles between the apical teeth and the first marginal teeth of both mandibles are wider than those of any other related genera in the Oriental region.",
+          "locator": "p. 13",
+          "note": "小锡兰白蚁属（ceylonitermellus）：支撑：「工蚁」「鉴别要点」第 3 缘齿小、右颚磨板凹、端齿与第 1 缘齿夹角最宽。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/newgeneratermit1986emer",
+      "id": "S0081"
+    },
+    {
+      "title": "Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921-1922",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/biostor-79693",
+      "year": 1926,
+      "authors": [
+        "Snyder, T. E."
+      ],
+      "journal": "Proceedings of the United States National Museum 68",
+      "publisher": "Smithsonian Institution / U.S. National Museum",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "Agnathotermes 作为 Nasutitermes 亚属首次发表处（pp. 41-42）；文章起止页未能从 OCR 页眉确认，引用页为印刷页码。OCR 把 subgenera 断作 sub genera，故引文自 mandibles without points 起。",
+      "evidence": [
+        {
+          "quote": "mandibles without points, nasus short and conical as in the subgenus Convexitermes Holmgren. Antenna with 11-12 segments.",
+          "locator": "p. 42",
+          "note": "无颚白蚁属（agnathotermes）：支撑：「兵蚁」上颚无端尖、鼻短圆锥形、触角 11-12 节。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/biostor-79693",
+      "id": "S0082"
+    },
+    {
+      "title": "The Termites of Kartabo, Bartica District, British Guiana",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/biostor-181707",
+      "year": 1925,
+      "authors": [
+        "Emerson, A. E."
+      ],
+      "journal": "Zoologica (New York Zoological Society) 6(4)",
+      "publisher": "New York Zoological Society",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "Angularitermes 作为 Nasutitermes 亚属的原始描述（p. 419）。OCR 把 elevation 断作 eleva tion，引文止于该词之前。",
+      "evidence": [
+        {
+          "quote": "Head yellow brown, constricted behind the antennae; thickly covered with bristles. Antennae same color as the head, with 14 segments, the 3d one and one- half times the length of the 2d, the 4th equals the 3d or is very slightly longer. Mandibles with long points, the left with a very small microscopical tooth near the base, the right without a tooth near the base.",
+          "locator": "p. 419",
+          "note": "棱角白蚁属（angularitermes）：支撑：「兵蚁」头色、触角后收缩、刚毛、触角节数与比例、上颚长端尖及基部齿的有无。"
+        },
+        {
+          "quote": "Nose darker than the head, very thickly covered with short hairs from the constriction in the head to the tip; very large, long, and thick at the base. This is the most extreme case of the development of the nose among all the nasuate soldiers known to me.",
+          "locator": "p. 419",
+          "note": "棱角白蚁属（angularitermes）：支撑：「鉴别要点」「兵蚁」鼻的大小与毛被，以及原作者对其发达程度的判断。"
+        },
+        {
+          "quote": "Head dark brown, sparsely clothed with long hairs; oval, posterior margin behind the eyes angular from above",
+          "locator": "p. 419",
+          "note": "棱角白蚁属（angularitermes）：支撑：「有翅成虫」头色、毛被、卵形轮廓与眼后棱角状后缘。",
+          "ocr_note": "OCR 把该句后半 split 作 eleva tion，引文止于可确读处。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/biostor-181707",
+      "id": "S0083"
+    },
+    {
+      "title": "Atlantitermes, novo gênero de cupim, com duas novas espécies do Brasil (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/Atlantitermes1979",
+      "year": 1979,
+      "authors": [
+        "Fontes, L. R."
+      ],
+      "journal": "Revista Brasileira de Entomologia 23(4): 219-227",
+      "publisher": "Sociedade Brasileira de Entomologia",
+      "lang": "pt",
+      "license": "unknown",
+      "notes": "Atlantitermes 原始属级描述。葡萄牙文，OCR 有 Mj+2、<luase 等讹字；只引可确读的完整句子，未作改写。",
+      "evidence": [
+        {
+          "quote": "Imago. Cabeça e pronoto com muitos pêlos e umas poucas cerdas longas (figs. 1 - 6). Fontanela alongada, extremidade anterior bifurcada. Olhos grandes. Ocelos mais próximos dos respectivos olhos do que a largura de cada ocelo. Pós-clípeo mais curto do que a metade de sua largura.",
+          "locator": "p. 221",
+          "note": "阿特拉斯白蚁属（atlantitermes）：支撑：「有翅成虫」毛被、囟形、眼与单眼、后唇基比例。"
+        },
+        {
+          "quote": "Soldado. Cabeça com pêlos minúsculos, esparsos, e umas poucas cerdas longas (figs. 12 - 15); naso com inúmeros pelos curtos. Cabeça, dorsal (figs. 12 - 13): adelgaçada logo atrás da inserção das antenas, região posterior bulbosa, naso cônico; perfil (figs. 14 - 15): naso também cônico. Mandíbulas sem pontas.",
+          "locator": "p. 221",
+          "note": "阿特拉斯白蚁属（atlantitermes）：支撑：「兵蚁」头与鼻的毛被、头壳在触角后变细且后部球状、鼻锥形、上颚无端尖。"
+        },
+        {
+          "quote": "Mandíbulas (figs. 10 - 11, um pouco desgastadas) semelhantes às do alado, mas mandíbula esquerda com margem cortante entre M1+2 e M3 distintamente sinuosa.",
+          "locator": "p. 221",
+          "note": "阿特拉斯白蚁属（atlantitermes）：支撑：「工蚁」「鉴别要点」工蚁上颚与有翅成虫相似而左颚切缘明显波状。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/Atlantitermes1979",
+      "id": "S0084"
+    },
+    {
+      "title": "Caetetermes taquarussu, a new genus and species of Ecuadorian nasute (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/CaetetermesTaquarussu1981",
+      "year": 1981,
+      "authors": [
+        "Fontes, L. R."
+      ],
+      "journal": "Revista Brasileira de Entomologia 25(2): 135-140",
+      "publisher": "Sociedade Brasileira de Entomologia",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "Caetetermes 原始属级描述（Imago. Unknown）；工蚁一节据原文对大型工蚁（major worker）的描述。",
+      "evidence": [
+        {
+          "quote": "Head capsule sharply constricted (figs. 1-4) behind antennae, posterior region bulbous. Nose long, cylindrical and not specially enlarged at base. Postclypeus oblique, clearly visible in dorsal view (figs. 1-2). Mandibles (figs. 5-6) without points, with a distinct but not sharply defined thinner patch of cuticle at the apex.",
+          "locator": "pp. 135-136",
+          "note": "林白蚁属（caetetermes）：支撑：「兵蚁」头壳急剧收缩与后部球状、鼻形、后唇基与上颚端部构造。"
+        },
+        {
+          "quote": "Width of postclypeus/length of postclypeus 3.66-4.89. Left mandible (figs. 9, 12): index 0.49; A shorter than Ml + 2; posterior margin of A almost straight and shorter than the anterior margin of Ml+2; angle, between A and Ml+2 acute; cutting edge of Ml+2 sinuate, separated from M3 by a sharp notch; M3 developed, posterior margin convex;",
+          "locator": "p. 136",
+          "note": "林白蚁属（caetetermes）：支撑：「工蚁」后唇基比例、左颚指数、端齿与 M1+2、M3 的关系。",
+          "ocr_note": "OCR 把 M1+2 印作 Ml + 2，引文照录。"
+        },
+        {
+          "quote": "Legs long but shorter than the corresponding soldier legs; anterior coxae with a weak hump outside corresponding to the prominent soldier hump",
+          "locator": "p. 136",
+          "note": "林白蚁属（caetetermes）：支撑：「工蚁」「鉴别要点」足长与前足基节外侧隆起。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/CaetetermesTaquarussu1981",
+      "id": "S0085"
+    },
+    {
+      "title": "A new genus and species of Nasutitermitinae from South America (Isoptera, Termitidae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/CoendutermesTucum1985",
+      "year": 1985,
+      "authors": [
+        "Fontes, L. R."
+      ],
+      "journal": "Revista Brasileira de Entomologia 29(1): 135-138",
+      "publisher": "Sociedade Brasileira de Entomologia",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "Coendutermes 原始属级描述（Alate. Unknown）。",
+      "evidence": [
+        {
+          "quote": "Head capsule with many hollow glandular bristles scattered over dorsum and sides (figs. 1-2). These are large and well visible erect bristles, brownish in colour and stout, ending in a truncated tip. Non-glandular bristles are apparently absent in the head, except for the apex of the nose.",
+          "locator": "p. 135",
+          "note": "箭猪白蚁属（coendutermes）：支撑：「兵蚁」「鉴别要点」腺刚毛形态与「除鼻端外无普通刚毛」。"
+        },
+        {
+          "quote": "Nose conical, slightly turned upwards; tip pointed. Postclypeus weakly oblique, visible in dorsal view. Mandibles each with a discrete hump on apex but without a developed apical point. Antenna (fig. 2) very long, extending well beyond the apex of the nose.",
+          "locator": "p. 135",
+          "note": "箭猪白蚁属（coendutermes）：支撑：「兵蚁」鼻形、后唇基、上颚端部突起、触角长度。"
+        },
+        {
+          "quote": "Worker. Apparently monomorphic. Abdominal sclerites pale coloured or incolor, transparent, with gut contents clearly showing through. Remainder of body sclerites whitish to yellowish. Glandular bristles absent. Head with a few long bristles and many moderately long bristles (figs. 4-5). Postclypeus moderately inflated. Width of postclypeus/length of postclypeus 2.90-3.25.",
+          "locator": "p. 136",
+          "note": "箭猪白蚁属（coendutermes）：支撑：「工蚁」单型、腹部骨片透明、无腺刚毛、头毛被与后唇基比例。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/CoendutermesTucum1985",
+      "id": "S0086"
+    },
+    {
+      "title": "Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from Neotropical region",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "url": "https://archive.org/details/NasuteMandibles1987",
+      "year": 1987,
+      "authors": [
+        "Fontes, L. R."
+      ],
+      "journal": "Revista Brasileira de Zoologia 3(8): 503-531",
+      "publisher": "Sociedade Brasileira de Zoologia",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "属级比较（非单属原始描述）：用于 Agnathotermes、Araujotermes、Coatitermes 的工蚁颚齿与工蚁宽隙/窄隙形态。",
+      "evidence": [
+        {
+          "quote": "not sinuate in Agnathotermes (fig. 49)",
+          "locator": "p. 506",
+          "note": "无颚白蚁属（agnathotermes）：支撑：「工蚁」「鉴别要点」左颚切缘不呈波状。",
+          "ocr_note": "Fontes 1987 原文以窄隙型（worker with narrow gap）与宽隙型工蚁成对比较，此处只引其对本属的判断。"
+        },
+        {
+          "quote": "cutting edge between the first + second marginal tooth and the third marginal tooth sinuate in Convexitermes, Atlantitermes, Araujotermes and Subulitermes",
+          "locator": "p. 506",
+          "note": "阿劳若白蚁属（araujotermes）：支撑：「工蚁」左颚 M1+2 与 M3 之间切缘呈波状。",
+          "ocr_note": "Fontes 1987 该句为窄隙型工蚁的属间对比。"
+        },
+        {
+          "quote": "markedly wider in Atlantitermes and Araujotermes",
+          "locator": "p. 506",
+          "note": "阿劳若白蚁属（araujotermes）：支撑：「工蚁」「鉴别要点」宽隙型裂隙明显更宽。"
+        },
+        {
+          "quote": "weakly or not sinuate in Coatitermes (fig. 31)",
+          "locator": "p. 506",
+          "note": "凸鼻白蚁属（coatitermes）：支撑：「工蚁」窄隙型切缘弱波状或不波状。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/NasuteMandibles1987",
+      "id": "S0087"
+    },
+    {
+      "title": "Anhangatermes macarthuri, a New Genus and Species of Soil-feeding Nasute Termite from Amapá, Brazil (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/biostor-232637",
+      "year": 1990,
+      "authors": [
+        "Constantino, R."
+      ],
+      "journal": "Goeldiana Zoologia 3 (3 de setembro de 1990)",
+      "publisher": "Museu Paraense Emílio Goeldi",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "Anhangatermes 原始属级描述（IMAGO - Unknown）。该 PDF 每页页脚插在正文行间，引文避开页脚或另注。",
+      "evidence": [
+        {
+          "quote": "Head capsule broad and rounded. Nasus conico-cylindrical, long and slender. Labrum short, not visible from dorsal view. Vestigial mandibles without points. Antenna with 13 segments, extending a little beyond tip of nasus. Width of pronotum approximately half the width of the head.",
+          "locator": "pp. 2-3",
+          "note": "魔白蚁属（anhangatermes）：支撑：「鉴别要点」「兵蚁」的头壳、鼻形、上唇、触角节数与前胸背板宽度。"
+        },
+        {
+          "quote": "Monomorphic. Head capsule rounded, widest anteriorly. Postclypeus moderately inflated. Antenna with 14 segments. Head with few bristles. Apical tooth of mandibles well developed with inner margin concave.",
+          "locator": "p. 3",
+          "note": "魔白蚁属（anhangatermes）：支撑：「工蚁」单型、头形、后唇基、触角 14 节与上颚端齿。"
+        },
+        {
+          "quote": "molar prominence large and rounded, without ridges. Right mandible: third marginal tooth vestigial, almost absent; molar plate concave.",
+          "locator": "p. 3",
+          "note": "魔白蚁属（anhangatermes）：支撑：「工蚁」左颚无脊的大磨突与右颚退化的第 3 缘齿、凹磨板。",
+          "ocr_note": "该段原文跨页，页间插入刊名页脚「Goeldiana Zoologia, numero 3, 1990」；引文取页脚之后的连续文字。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/biostor-232637",
+      "id": "S0088"
+    },
+    {
+      "title": "Versuch einer systematischen Monographie der Termiten der orientalischen Region",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/biostor-244353",
+      "year": 1913,
+      "authors": [
+        "Holmgren, N."
+      ],
+      "journal": "Kungliga Svenska Vetenskapsakademiens Handlingar 50(2)",
+      "publisher": "Almqvist & Wiksell, Uppsala & Stockholm",
+      "lang": "de",
+      "license": "unknown",
+      "notes": "Ceylonitermes 的原始描述（Untergattung，印刷页 189-190；Imago unbekannt）。Fraktur 扫描 OCR 讹字极多，只引可读完整句；不能确读处已在 evidence 注记，未作拼接或臆补。",
+      "evidence": [
+        {
+          "quote": "Nase von zwei Drittel der Kopflänge, sehr schmal, zylindrisch, gerade.",
+          "locator": "p. 189",
+          "note": "锡兰白蚁属（ceylonitermes）：支撑：「兵蚁」「鉴别要点」鼻长比例与窄、圆柱形、直。"
+        },
+        {
+          "quote": "Antennen lang, 12-gliedrig.",
+          "locator": "p. 189",
+          "note": "锡兰白蚁属（ceylonitermes）：支撑：「兵蚁」「鉴别要点」触角 12 节且长。"
+        },
+        {
+          "quote": "Clypeus gross, aufgetrieben, so lang wie seine halbe Breite. Die beiden ersten Zähne der Mandibeln gleieh gross. Antennen 15-gliedrig.",
+          "locator": "p. 190",
+          "note": "锡兰白蚁属（ceylonitermes）：支撑：「工蚁」上唇大而膨起、上颚前两齿等大、触角 15 节。",
+          "ocr_note": "Fraktur 体 OCR：gleieh 即 gleich。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "url:https://archive.org/details/biostor-244353",
+      "id": "S0089"
+    },
+    {
+      "title": "New records for Coatitermes pallidus (Snyder, 1926) and Coatitermes clevelandi (Snyder, 1926) (Isoptera, Termitidae, Nasutitermitinae) from Amazonia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.15560/20.3.700",
+      "url": "https://doi.org/10.15560/20.3.700",
+      "year": 2024,
+      "authors": [
+        "Scheffrahn, R. H."
+      ],
+      "journal": "Check List 20(3): 700-705",
+      "publisher": "Pensoft",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "notes": "OA。非属级原始描述：仅提供 Coatitermes 兵蚁鼻形的属级比较（宽锥状鼻与头宽比例），其余性状据 Constantino 1999、Fontes 1987；Coatitermes 原始描述（Fontes 1982）未取得可读全文，已在正文 note 说明。",
+      "evidence": [
+        {
+          "quote": "The Coatitermes nasus is very broadly conical in dorsal view with a basal width more than one-third of the soldier maximum head width. The nearest Neotropical nasutitermitines with wide conical nasi are the larger soldiers of Convexitermes Holmgren, 1910 and Paraconvexitermes Cancello & Noirot, 2003.",
+          "locator": "p. 700",
+          "note": "凸鼻白蚁属（coatitermes）：支撑：「鉴别要点」「兵蚁」鼻形与基部宽比例，以及所比较的近缘类群。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
+      ],
+      "accessed": "2026-11-07T07:09:19+08:00",
+      "canonical_key": "doi:10.15560/20.3.700",
+      "id": "S0090"
+    },
+    {
+      "title": "Notes on some South African species of the families Hodotermitidae and Kalotermitidae",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Coaton W. G. H."
+      ],
+      "year": 1949,
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "GBIF publishedIn",
+      "evidence": [
+        {
+          "quote": "Notes on some South African species of the families Hodotermitidae and Kalotermitidae. Journal of the Entomological Society of South Africa, 12, 13–77.",
+          "locator": "标题（据 GBIF publishedIn 书目记载）",
+          "note": "支撑：Kalotermes capicola 原始描述定位；access blocked 无正文可摘录"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，无全文。引用据 GBIF publishedIn：Journal of the Entomological Society of South Africa, 12, 13–77。Kalotermes capicola 原始描述；种加词 capicola=caput（海角/开普）+-cola（栖居者），据词根拆解，非原文明示。",
+      "accessed": "2026-11-07T07:11:13+08:00",
+      "canonical_key": "title:b25a8e2b7d71e4d1",
+      "id": "S0091"
+    },
+    {
+      "title": "Nota preliminare sui Termitidi sud-americani",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Silvestri F."
+      ],
+      "year": 1901,
+      "lang": "it",
+      "license": "unknown",
+      "retrieved_via": "GBIF publishedIn",
+      "evidence": [
+        {
+          "quote": "Nota preliminare sui Termitidi sud-americani. Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Università di Torino 16(389): 1–8.",
+          "locator": "标题（据 GBIF publishedIn 书目记载）",
+          "note": "支撑：Amitermes amifer 原始描述定位；access blocked 无正文可摘录"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，无全文。引用据 GBIF publishedIn：Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Università di Torino 16(389): 1–8。Amitermes amifer 原始描述，原文仅拉丁鉴别、未给词源；ami- 未释，-fer=具…者。⚠️ 早前查到的 DOI 10.5962/bhl.part.26628 有误（对应另一篇多足类文章），勿用。",
+      "accessed": "2026-11-07T07:11:13+08:00",
+      "canonical_key": "title:5ad9452d2b890d80",
+      "id": "S0092"
+    },
+    {
+      "title": "New species of termites from Guizhou Province, China (Isoptera: Stylotermitidae, Rhinotermitidae, Termitidae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "He X.-S.",
+        "Qiu Q.-S."
+      ],
+      "year": 1990,
+      "lang": "zh",
+      "license": "unknown",
+      "retrieved_via": "GBIF publishedIn",
+      "evidence": [
+        {
+          "quote": "New species of termites from Guizhou Province, China (Isoptera: Stylotermitidae, Rhinotermitidae, Termitidae). Science and Technology of Termites 7, 6–24.",
+          "locator": "标题（据 GBIF publishedIn 书目记载）",
+          "note": "支撑：Reticulitermes mirogulus 原始描述定位；access blocked 无正文可摘录"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，中文论文无在线全文。引用据 GBIF publishedIn：Science and Technology of Termites 7, 6–24 [in Chinese]。Reticulitermes mirogulus 原始描述，种加词词源未详。GBIF 作者名 Qui 为 Qiu（邱立江）之误。",
+      "accessed": "2026-11-07T07:11:13+08:00",
+      "canonical_key": "title:3ed77b6c81a538ff",
+      "id": "S0093"
+    },
+    {
+      "title": "Studies on Termites from Mato Grosso",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Mathews A. G. A."
+      ],
+      "year": 1977,
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "subagent web_search",
+      "evidence": [
+        {
+          "quote": "Studies on Termites from Mato Grosso",
+          "locator": "标题（据子智能体检索书目记载）",
+          "note": "支撑：Cylindrotermes flangiatus 原始描述定位；access blocked 无正文可摘录"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，无全文。Cylindrotermes flangiatus 原始描述（Da Rocha & Cancello 2007 = S0022 为再描述，非原始）。种加词 flangiatus 词源未明示，据 flange（凸缘）+-atus，低置信。",
+      "accessed": "2026-11-07T07:11:13+08:00",
+      "canonical_key": "title:29f683748a2946ae",
+      "id": "S0094"
+    },
+    {
+      "title": "Fuller, C. 1925. Termite paper (describing Microcerotermes ilalazonatus). South African Journal of Natural History 5: 167–246.",
+      "source_type": "paper",
+      "reliability": "primary",
+      "authors": [
+        "Fuller C."
+      ],
+      "year": 1925,
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "subagent web_search",
+      "evidence": [
+        {
+          "quote": "South African Journal of Natural History 5: 167–246",
+          "locator": "期刊卷页（据子智能体检索书目记载）",
+          "note": "支撑：Microcerotermes ilalazonatus 原始描述定位；access blocked 无正文可摘录，标题未能查证"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，无全文。标题未能查证：GBIF publishedIn 空、web_search 被 H.B. Fuller 胶水公司干扰、openalex 429。期刊+卷页据组3 子智能体引用（S. African J. Nat. Hist. 5:167-246, p.236）。Microcerotermes ilalazonatus 原始描述；种加词 ilalazonatus 词源未明示，据 Ilala（地名/棕榈）+zonatus（具带纹），低置信。",
+      "accessed": "2026-11-07T07:11:13+08:00",
+      "canonical_key": "title:bf4bf1c856449e2e",
+      "id": "S0095"
     }
   ]
 }

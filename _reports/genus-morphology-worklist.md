@@ -6,9 +6,9 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**152**。
-- 仍待补文献描述：**139**。其中 131 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
-- 有 Treatise 条目但未提取到模式种的属：8（不影响找原始文献，但补写时要先确认模式种）。
+- 已补写文献描述：**186**。
+- 仍待补文献描述：**105**。其中 97 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
+- 有 Treatise 条目但未提取到模式种的属：4（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
 > 均摘自 Krishna et al. (2013) 的属级条目；该书只登记原始发表信息、模式种和
@@ -47,7 +47,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 123 | 134 | 6 |
+| 白蚁科 Termitidae | 280 | 23 | 157 | 100 | 6 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -556,14 +556,12 @@
 - 定位：pp. 155–156
 - 页面：https://isoptera.lifemosaic.net/genus/apagotermes/
 
-### 弯肠白蚁属 *Aparatermes* — 待补（有 Treatise 线索）
+### 弯肠白蚁属 *Aparatermes* — 已有文献描述
 
-- 原始描述：Aparatermes Fontes, 1986: 290–293.
-- 模式种：Anoplotermes cingulatus abbreviatus Silvestri, 1901 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fontes, 1992: 245, 248 — Aparatermes; key; distribution. 1346 Bulletin of the American Museum of natural History No. 377
-  - Constantino, 1999a: 398, 412 — Aparatermes; key; distribution.
-  - Constantino, 2002a: 26 — Aparatermes; key.
+- 已据文献补写：Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：Key to neotropical Apicotermitinae genera based on the worker caste, couplet 14 (Aparatermes 分支)；Key to neotropical Apicotermitinae genera based on the worker caste, couplet 12；Comparison and remarks (Mangolditermes)
+- 已据文献补写：Constantini J. P.; Castro D.; Scheffrahn R. H. 2020. Rustitermes boteroi, a new genus and species of soldierless termites (Isoptera: Termitidae: Apicotermitinae) from South America. ZooKeys 922: 35-49. https://doi.org/10.3897/zookeys.922.47347
+- 定位：Comparison and remarks
 - 页面：https://isoptera.lifemosaic.net/genus/aparatermes/
 
 ### 尖白蚁属 *Apicotermes* — 已有文献描述
@@ -697,15 +695,12 @@
 - 定位：p. 291（Gastrotermes gen. nov.：Description / Diagnosis）
 - 页面：https://isoptera.lifemosaic.net/genus/gastrotermes/
 
-### 灰白蚁属 *Grigiotermes* — 待补（有 Treatise 线索）
+### 灰白蚁属 *Grigiotermes* — 已有文献描述
 
-- 原始描述：Grigiotermes Mathews, 1977: 94–96.
-- 模式种：Grigiotermes metoecus Mathews, 1977 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fontes, 1985a: 3, 4 — Grigiotermes; key; worker gut described.
-  - Fontes, 1992: 245, 248 — Grigiotermes; key; distribution.
-  - Constantino, 1999a: 398, 412 — Grigiotermes; key; biology.
-  - Constantino, 2002a: 26 — Grigiotermes; key.
+- 已据文献补写：Bourguignon T.; Scheffrahn R. H.; Nagy Z. T.; Sonet G.; Host B.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176: 15-35. https://doi.org/10.1111/zoj.12305
+- 定位：Description › Worker（p. 18）；Description › Imago（p. 18）；Diagnosis（p. 19）
+- 已据文献补写：Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：Key to neotropical Apicotermitinae genera based on the worker caste, couplet 19 (Grigiotermes 分支)
 - 页面：https://isoptera.lifemosaic.net/genus/grigiotermes/
 
 ### 埃姆白蚁属 *Heimitermes* — 已有文献描述
@@ -773,11 +768,10 @@
   - Sands, 1998: 51, 112–114, figs. 293–302, pl. 2: fig. 2 — Labidotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/labidotermes/
 
-### 长工白蚁属 *Longustitermes* — 待补（有 Treatise 线索）
+### 长工白蚁属 *Longustitermes* — 已有文献描述
 
-- 原始描述：Longustitermes Bourguignon et al., 2010: 364–367.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：Key to neotropical Apicotermitinae genera based on the worker caste, couplet 15；Key to neotropical Apicotermitinae genera based on the worker caste, couplet 16 (Longustitermes 分支)；Comparison and remarks (Hirsutitermes)
 - 页面：https://isoptera.lifemosaic.net/genus/longustitermes/
 
 ### 剑白蚁属 *Machadotermes* — 待补（有 Treatise 线索）
@@ -830,15 +824,12 @@
 - 定位：Rubeotermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 27–30)
 - 页面：https://isoptera.lifemosaic.net/genus/rubeotermes/
 
-### 腹爆白蚁属 *Ruptitermes* — 待补（有 Treatise 线索）
+### 腹爆白蚁属 *Ruptitermes* — 已有文献描述
 
-- 原始描述：Ruptitermes Mathews, 1977: 98–100.
-- 模式种：Ruptitermes xanthochiton Mathews, 1977 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fontes, 1985a: 3, 4 — Ruptitermes; key; worker gut described.
-  - Fontes, 1992: 245, 248 — Ruptitermes; key; distribution.
-  - Constantino, 1999a: 398, 412 — Ruptitermes; key; biology; distribution.
-  - Constantino, 2002a: 26 — Ruptitermes; key.
+- 已据文献补写：Acioli A. N. S.; Constantino R. 2015. A taxonomic revision of the neotropical termite genus Ruptitermes (Isoptera, Termitidae, Apicotermitinae). Zootaxa 4032: 451-492. https://doi.org/10.11646/zootaxa.4032.5.1
+- 定位：Description › Imago（p. 454）；Description › Worker（p. 454）；Description › Gut morphology（p. 454–455）
+- 已据文献补写：Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：Comparison and remarks (Dissimulitermes)
 - 页面：https://isoptera.lifemosaic.net/genus/ruptitermes/
 
 ### 拉斯特白蚁属 *Rustitermes* — 已有文献描述
@@ -872,14 +863,10 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/spiralitermes/
 
-### 足白蚁属 *Tetimatermes* — 待补（有 Treatise 线索）
+### 足白蚁属 *Tetimatermes* — 已有文献描述
 
-- 原始描述：Tetimatermes Fontes, 1986: 286–289.
-- 模式种：Tetimatermes oliveirae Fontes, 1986 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fontes, 1992: 245, 248 — Tetimatermes; key; distribution.
-  - Constantino, 1999a: 398, 412 — Tetimatermes; key; biology; distribution.
-  - Constantino, 2002a: 26 — Tetimatermes; key.
+- 已据文献补写：Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：Key to neotropical Apicotermitinae genera based on the worker caste, couplet 2 (Tetimatermes 分支)
 - 页面：https://isoptera.lifemosaic.net/genus/tetimatermes/
 
 ### 奇囟白蚁属 *Tonsuritermes* — 已有文献描述
@@ -1339,37 +1326,28 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 平白蚁属 *Homallotermes* — 待补（有 Treatise 线索）
+### 平白蚁属 *Homallotermes* — 已有文献描述
 
-- 原始描述：Homallotermes John, 1925: 412–413.
-- 模式种：Termes foraminifer Haviland, 1898 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 378, 419 — Termes “section with T. foraminifer for type”; characters; key.
-  - Ahmad, 1958: 88, 91 — Homallotermes; key.
-  - Krishna, 1968: 284–286 — Homallotermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Morimoto, 1975b: 32 — Homallotermes; key.
-  - Ahmad and Akhtar, 1981: 2, 3, fig. 11 — Homallotermes; key; enteric valve cushions figured.
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 4 (Homallotermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）
 - 页面：https://isoptera.lifemosaic.net/genus/homallotermes/
 
-### 印扭白蚁属 *Indocapritermes* — 待补（有 Treatise 线索）
+### 印扭白蚁属 *Indocapritermes* — 已有文献描述
 
-- 原始描述：Indocapritermes Chhotani, 1997
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 9；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 10 (Indocapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）
 - 页面：https://isoptera.lifemosaic.net/genus/indocapritermes/
 
-### 凯姆勒白蚁属 *Kemneritermes* — 待补（有 Treatise 线索）
+### 凯姆勒白蚁属 *Kemneritermes* — 已有文献描述
 
-- 原始描述：Kemneritermes Ahmad and Akhtar, 1981: 5–6.
-- 模式种：Kemneritermes sarawakensis Ahmad and Akhtar, 1981 by original designation.
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 1 (Kemneritermes 分支)
 - 页面：https://isoptera.lifemosaic.net/genus/kemneritermes/
 
-### 克里希纳扭白蚁属 *Krishnacapritermes* — 待补（有 Treatise 线索）
+### 克里希纳扭白蚁属 *Krishnacapritermes* — 已有文献描述
 
-- 原始描述：Krishnacapritermes Chhotani, 1997: 348–350.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11 (Krishnacapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 9（本属落在该分支）
 - 页面：https://isoptera.lifemosaic.net/genus/krishnacapritermes/
 
 ### 唇扭白蚁属 *Labiocapritermes* — 已有文献描述
@@ -1378,23 +1356,16 @@
 - 定位：p. 1014（Results: Genus Labiocapritermes — Diagnosis. Soldier / Diagnosis. Worker；Remarks）；种级测量见 p. 1015 起检索表与各种记述
 - 页面：https://isoptera.lifemosaic.net/genus/labiocapritermes/
 
-### 瘤白蚁属 *Mirocapritermes* — 待补（有 Treatise 线索）
+### 瘤白蚁属 *Mirocapritermes* — 已有文献描述
 
-- 原始描述：Mirocapritermes Holmgren, 1914: 277.
-- 模式种：Mirocapritermes connectens Holmgren, 1914 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Tsai and Chen, 1964b: 72, 73, 84 — Mirocapritermes; key; characters.
-  - Ahmad, 1965: 8 — Mirocapritermes; key.
-  - Krishna, 1968: 305–308 — Mirocapritermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Chaudhry et al., 1972: 63 — Mirocapritermes; characters.
-  - Akhtar, 1975: 60 — Mirocapritermes; key.
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 5 (Mirocapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 4（本属落在该分支）；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）
 - 页面：https://isoptera.lifemosaic.net/genus/mirocapritermes/
 
-### 东扭白蚁属 *Oriencapritermes* — 待补（有 Treatise 线索）
+### 东扭白蚁属 *Oriencapritermes* — 已有文献描述
 
-- 原始描述：Oriencapritermes Ahmad and Akhtar, 1981: 10–12.
-- 模式种：Oriencapritermes kluangensis Ahmad and Akhtar, 1981 by original designation.
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 13 (Oriencapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11（本属落在该分支）；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 12（本属落在该分支）
 - 页面：https://isoptera.lifemosaic.net/genus/oriencapritermes/
 
 ### 近扭白蚁属 *Pericapritermes* — 已有动物志描述
@@ -1421,23 +1392,16 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 聚扭白蚁属 *Syncapritermes* — 待补（有 Treatise 线索）
+### 聚扭白蚁属 *Syncapritermes* — 已有文献描述
 
-- 原始描述：Syncapritermes Ahmad and Akhtar, 1981: 13–19.
-- 模式种：Capritermes greeni John, 1925 by original designation.
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 13 (Syncapritermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 12（本属落在该分支）；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11（本属落在该分支）
 - 页面：https://isoptera.lifemosaic.net/genus/syncapritermes/
 
-### 针白蚁属 *Aciculitermes* — 待补（有 Treatise 线索）
+### 针白蚁属 *Aciculitermes* — 已有文献描述
 
-- 原始描述：Aciculitermes Emerson, 1960a: 10–11.
-- 模式种：Termes aciculatus Haviland, 1898 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1958: 87 — Subulitermes [part]; key.
-  - Ahmad, 1965: 9 — Aciculitermes; key.
-  - Morimoto, 1975b: 23 — Aciculitermes; key.
-  - Chhotani, 1997: 766–768 — Aciculitermes; synonymy; characters; distribution and composition.
-  - Gathorne-Hardy, 2001: 1500 — Aciculitermes; key.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：pp. 11-12
 - 页面：https://isoptera.lifemosaic.net/genus/aciculitermes/
 
 ### 非锥白蚁属 *Afrosubulitermes* — 已有文献描述
@@ -1448,16 +1412,14 @@
 - 定位：pp. 7–8（原始描述：兵蚁、工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/afrosubulitermes/
 
-### 无颚白蚁属 *Agnathotermes* — 待补（有 Treatise 线索）
+### 无颚白蚁属 *Agnathotermes* — 已有文献描述
 
-- 原始描述：Agnathotermes Snyder, 1926e: 41–42 [first introduced as a subgenus of Nasutitermes Dudley, 1890].
-- 模式种：Nasutitermes (Agnathotermes) glaber Snyder, 1926 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 186 — Agnathotermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1987b: 503–531 — Agnathotermes; worker mandibles described and figured.
-  - Constantino, 1991b: 4 — Agnathotermes; characters.
-  - Constantino, 1999a: 398, 415 — Agnathotermes; key; biology; distribution.
-  - Constantino, 2002a: 14 — Agnathotermes; key.
+- 已据文献补写：Snyder, T. E. 1926. Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921-1922. Proceedings of the United States National Museum 68.
+- 定位：pp. 41-42
+- 已据文献补写：Fontes, L. R. 1987. Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from Neotropical region. Revista Brasileira de Zoologia 3(8): 503-531.
+- 定位：p. 506
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.
+- 定位：p. 415
 - 页面：https://isoptera.lifemosaic.net/genus/agnathotermes/
 
 ### 钝颚白蚁属 *Ahmaditermes* — 已有动物志描述
@@ -1474,25 +1436,16 @@
   - Chhotani, 1997: 698–699 — Ampoulitermes; synonymy; characters; distribution and composition.
 - 页面：https://isoptera.lifemosaic.net/genus/ampoulitermes/
 
-### 棱角白蚁属 *Angularitermes* — 待补（有 Treatise 线索）
+### 棱角白蚁属 *Angularitermes* — 已有文献描述
 
-- 原始描述：Angularitermes Emerson, 1925: 419 [first introduced as a subgenus of Nasutitermes Dudley, 1890].
-- 模式种：Nasutitermes (Angularitermes) nasutissimus Emerson, 1925 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Araujo, 1970b: 42 — Angularitermes; characters; comparisons.
-  - Morimoto, 1975b: 20 — Angularitermes; key.
-  - Mathews, 1977: 233–235 — Angularitermes; synonymy; characters; comparisons.
-  - Mill, 1983a: 182, 188 — Angularitermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1987b: 503–531 — Angularitermes; worker mandibles described and figured.
+- 已据文献补写：Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6(4).
+- 定位：pp. 419-420
 - 页面：https://isoptera.lifemosaic.net/genus/angularitermes/
 
-### 魔白蚁属 *Anhangatermes* — 待补（有 Treatise 线索）
+### 魔白蚁属 *Anhangatermes* — 已有文献描述
 
-- 原始描述：Anhangatermes Constantino, 1990b: 2–3.
-- 模式种：Anhangatermes macarthuri Constantino, 1990 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 1999a: 399, 414 — Anhangatermes; key; biology; distribution.
-  - Constantino, 2002a: 12 — Anhangatermes; key.
+- 已据文献补写：Constantino, R. 1990. Anhangatermes macarthuri, a new genus and species of soil-feeding nasute termite from Amapa, Brazil (Isoptera, Termitidae, Nasutitermitinae). Goeldiana Zoologia 3.
+- 定位：pp. 2-3
 - 页面：https://isoptera.lifemosaic.net/genus/anhangatermes/
 
 ### 安的列斯白蚁属 *Antillitermes* — 待补（有 Treatise 线索）
@@ -1503,42 +1456,28 @@
   - Constantino, 2002a: 10 — Antillitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/antillitermes/
 
-### 阿劳若白蚁属 *Araujotermes* — 待补（有 Treatise 线索）
+### 阿劳若白蚁属 *Araujotermes* — 已有文献描述
 
-- 原始描述：Araujotermes Fontes, 1982: 100–101.
-- 模式种：Araujotermes caissara Fontes, 1982 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 188 — Araujotermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1987b: 503–531 — Araujotermes; worker mandibles described and figured.
-  - Constantino, 1991b: 4 — Araujotermes; characters.
-  - Nickle and Collins, 1992: 226, 227, 239 — Araujotermes; key; characters.
-  - Constantino, 1999a: 399, 415 — Araujotermes; key; biology; distribution.
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.
+- 定位：p. 415
+- 已据文献补写：Fontes, L. R. 1987. Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from Neotropical region. Revista Brasileira de Zoologia 3(8): 503-531.
+- 定位：p. 506
 - 页面：https://isoptera.lifemosaic.net/genus/araujotermes/
 
 ### 弧白蚁属 *Arcotermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 阿特拉斯白蚁属 *Atlantitermes* — 待补（有 Treatise 线索）
+### 阿特拉斯白蚁属 *Atlantitermes* — 已有文献描述
 
-- 原始描述：Atlantitermes Fontes, 1979b: 220.
-- 模式种：Atlantitermes guarinim Fontes, 1979 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 188 — Atlantitermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1987b: 503–531 — Atlantitermes; worker mandibles described and figured.
-  - Constantino, 1991b: 4 — Atlantitermes; characters.
-  - Nickle and Collins, 1992: 226, 227, 238–239 — Atlantitermes; key; characters.
-  - Roisin, 1995: 288 — Atlantitermes; characters.
+- 已据文献补写：Fontes, L. R. 1979. Atlantitermes, novo genero de cupim, com duas novas especies do Brasil (Isoptera, Termitidae, Nasutitermitinae). Revista Brasileira de Entomologia 23(4): 219-227.
+- 定位：pp. 221-222
 - 页面：https://isoptera.lifemosaic.net/genus/atlantitermes/
 
-### 澳大利亚白蚁属 *Australitermes* — 待补（有 Treatise 线索）
+### 澳大利亚白蚁属 *Australitermes* — 已有文献描述
 
-- 原始描述：Australitermes Emerson, 1960a: 24–25.
-- 模式种：Eutermes dilucidus Hill, 1942 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 202–205, 377–379 — Eutermes [part]; Mirotermes; as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed.
-  - Morimoto, 1975b: 20, 23 — Australitermes; key.
-  - Miller, 1984b: 120–121 — Australitermes; synonymy; imago, soldier generic characters.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：pp. 24-26
 - 页面：https://isoptera.lifemosaic.net/genus/australitermes/
 
 ### 细颈白蚁属 *Baucaliotermes* — 已有文献描述
@@ -1553,14 +1492,10 @@
 - 定位：Discussion, section 'Soldier of Bulbitermes' 与 'On identifying Nasutitermes and Bulbitermes'；Results, Species descriptions（四种 Bulbitermes 的 Soldier / Workers 段）与 Key 1
 - 页面：https://isoptera.lifemosaic.net/genus/bulbitermes/
 
-### 林白蚁属 *Caetetermes* — 待补（有 Treatise 线索）
+### 林白蚁属 *Caetetermes* — 已有文献描述
 
-- 原始描述：Caetetermes Fontes, 1981: 135–137.
-- 模式种：Caetetermes taquarussu Fontes, 1981 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 188 — Caetetermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 399, 414 — Caetetermes; key; biology; distribution.
-  - Constantino, 2002a: 12 — Caetetermes; key.
+- 已据文献补写：Fontes, L. R. 1981. Caetetermes taquarussu, a new genus and species of Ecuadorian nasute (Isoptera, Termitidae, Nasutitermitinae). Revista Brasileira de Entomologia 25(2): 135-140.
+- 定位：pp. 135-137
 - 页面：https://isoptera.lifemosaic.net/genus/caetetermes/
 
 ### 加勒比白蚁属 *Caribitermes* — 待补（有 Treatise 线索）
@@ -1571,26 +1506,16 @@
   - Constantino, 2002a: 10 — Caribitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/caribitermes/
 
-### 小锡兰白蚁属 *Ceylonitermellus* — 待补（有 Treatise 线索）
+### 小锡兰白蚁属 *Ceylonitermellus* — 已有文献描述
 
-- 原始描述：Ceylonitermellus Emerson, 1960
-- 模式种：Eutermes hantanae Holmgren, 1911 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Prashad and Sen-Sarma, 1966b: 12–13 — Ceylonitermellus; generic characters; key; synonymy.
-  - Morimoto, 1975b: 20, 23 — Ceylonitermellus; key.
-  - Chhotani, 1997: 760–762 — Ceylonitermellus; synonymy; characters; distribution and composition; key to species.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：pp. 12-13
 - 页面：https://isoptera.lifemosaic.net/genus/ceylonitermellus/
 
-### 锡兰白蚁属 *Ceylonitermes* — 待补（有 Treatise 线索）
+### 锡兰白蚁属 *Ceylonitermes* — 已有文献描述
 
-- 原始描述：Ceylonitermes Holmgren, 1912a: 61, 64 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes escherichi Holmgren, 1911 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Lal and Menon, 1953: 36 — Eutermes (Ceylonitermes); key.
-  - Ahmad, 1958: 89 — Ceylonitermes; key. 1548 Bulletin of the American Museum of natural History No. 377
-  - Prashad and Sen-Sarma, 1966b: 3–4 — Ceylonitermes; generic characters; reference list; key.
-  - Morimoto, 1975b: 26 — Ceylonitermes; key.
-  - Sen-Sarma et al., 1975: 2, 9 — Ceylonitermes; distribution and ecology; key. India.
+- 已据文献补写：Holmgren, N. 1913. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2).
+- 定位：pp. 189-191
 - 页面：https://isoptera.lifemosaic.net/genus/ceylonitermes/
 
 ### 缩狭白蚁属 *Coarctotermes* — 待补（有 Treatise 线索）
@@ -1605,25 +1530,20 @@
   - Harris, 1941: 201 — Coarctotermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/coarctotermes/
 
-### 凸鼻白蚁属 *Coatitermes* — 待补（有 Treatise 线索）
+### 凸鼻白蚁属 *Coatitermes* — 已有文献描述
 
-- 原始描述：Coatitermes Fontes, 1982: 104–105.
-- 模式种：Nasutitermes (Convexitermes) clevelandi Snyder, 1926 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 188 — Coatitermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1987b: 503–531 — Coatitermes; worker mandibles described and figured.
-  - Constantino, 1991b: 4 — Coatitermes; characters. 1552 Bulletin of the American Museum of natural History No. 377
-  - Roisin, 1995: 291 — Coatitermes; characters.
-  - Constantino, 1999a: 400, 415 — Coatitermes; key; biology; distribution.
+- 已据文献补写：Scheffrahn, R. H. 2024. New records for Coatitermes pallidus (Snyder, 1926) and Coatitermes clevelandi (Snyder, 1926) (Isoptera, Termitidae, Nasutitermitinae) from Amazonia. Check List 20(3): 700-705.
+- 定位：p. 700
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.
+- 定位：pp. 414-415
+- 已据文献补写：Fontes, L. R. 1987. Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from Neotropical region. Revista Brasileira de Zoologia 3(8): 503-531.
+- 定位：p. 506
 - 页面：https://isoptera.lifemosaic.net/genus/coatitermes/
 
-### 箭猪白蚁属 *Coendutermes* — 待补（有 Treatise 线索）
+### 箭猪白蚁属 *Coendutermes* — 已有文献描述
 
-- 原始描述：Coendutermes Fontes, 1985b: 135–137.
-- 模式种：Coendutermes tucum Fontes, 1985 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 1999a: 400, 414 — Coendutermes; key; biology; distribution.
-  - Constantino, 2002a: 12 — Coendutermes; key.
+- 已据文献补写：Fontes, L. R. 1985. A new genus and species of Nasutitermitinae from South America (Isoptera, Termitidae). Revista Brasileira de Entomologia 29(1): 135-138.
+- 定位：pp. 135-137
 - 页面：https://isoptera.lifemosaic.net/genus/coendutermes/
 
 ### 缩白蚁属 *Constrictotermes* — 已有文献描述
@@ -1638,15 +1558,10 @@
 - 定位：p. 59（Imagines 检索表 B/aa/bb/e）；p. 60（Soldaten 检索表 aa/b/c/d）；p. 64（亚属名录第 7 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/convexitermes/
 
-### 利颚白蚁属 *Cortaritermes* — 待补（有 Treatise 线索）
+### 利颚白蚁属 *Cortaritermes* — 已有文献描述
 
-- 原始描述：Cortaritermes Mathews, 1977: 197–199.
-- 模式种：Eutermes (Eutermes) silvestri Holmgren, 1910 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 189 — Cortaritermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 400, 414 — Cortaritermes; key; biology; distribution.
-  - Constantino, 2002a: 8 — Cortaritermes; key.
-  - Ensaf et al., 2003a: 54 — Cortaritermes; key.
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.
+- 定位：p. 414
 - 页面：https://isoptera.lifemosaic.net/genus/cortaritermes/
 
 ### 葫白蚁属 *Cucurbitermes* — 已有动物志描述
@@ -2143,12 +2058,16 @@
 - 定位：p. 447–449，「Digestive tube」段；p. 447–449，属级 Description「Comparisons with other genera of Syntermitinae」段
 - 页面：https://isoptera.lifemosaic.net/genus/biratermes/
 
-### 弃白蚁属 *Cahuallitermes* — 待补（有 Treatise 线索）
+### 弃白蚁属 *Cahuallitermes* — 已有文献描述
 
-- 原始描述：Cahuallitermes Constantino, 1994: 286.
-- 模式种：Cahuallitermes aduncus Constantino, 1994 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 2002a: 22 — Cahuallitermes; key.
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Biratermes 属征比较）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278
+- 定位：Comparisons with other genera of Syntermitinae
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致，原文为紧排）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 11
 - 页面：https://isoptera.lifemosaic.net/genus/cahuallitermes/
 
 ### 角象白蚁属 *Cornitermes* — 已有文献描述
@@ -2157,58 +2076,52 @@
 - 定位：pp. 49—50（archive.org 项 biostor-184513 页面图像）
 - 页面：https://isoptera.lifemosaic.net/genus/cornitermes/
 
-### 曲白蚁属 *Curvitermes* — 待补（有 Treatise 线索）
+### 曲白蚁属 *Curvitermes* — 已有文献描述
 
-- 原始描述：Curvitermes Holmgren, 1912a: 55 [first introduced as a subgenus of Armitermes Wasmann, 1897].
-- 模式种：Armitermes odontognathus Silvestri, 1901 by subsequent designation, see Snyder, 1949a: 337.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 20 — Curvitermes; key.
-  - Mathews, 1977: 221, 223 — Curvitermes; synonymy; characters; comparisons.
-  - Mill, 1983a: 182, 188 — Curvitermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1985c: 9 — Curvitermes; key.
-  - Constantino, 1999a: 401, 416 — Curvitermes; key; biology; distribution.
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Biratermes 属征比较）
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 7；Key to genera of Syntermitinae, couplet 8
 - 页面：https://isoptera.lifemosaic.net/genus/curvitermes/
 
-### 壶头白蚁属 *Cyrilliotermes* — 待补（有 Treatise 线索）
+### 壶头白蚁属 *Cyrilliotermes* — 已有文献描述
 
-- 原始描述：Cyrilliotermes Fontes, 1985c: 11–12.
-- 模式种：Cyrilliotermes cupim Fontes, 1885 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 1999a: 410, 416 — Cyrilliotermes; key; biology; distribution.
-  - Constantino, 2002a: 20 — Cyrilliotermes; key.
-  - Constantino and Carvallo, 2012: 26–27 — Cyrilliotermes; imago, soldier; generic characters.
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Biratermes 属征比较）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278
+- 定位：Comparisons with other genera of Syntermitinae
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 8
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）
 - 页面：https://isoptera.lifemosaic.net/genus/cyrilliotermes/
 
-### 生白蚁属 *Embiratermes* — 待补（有 Treatise 线索）
+### 生白蚁属 *Embiratermes* — 已有文献描述
 
-- 原始描述：Embiratermes Fontes, 1985c: 16–18.
-- 模式种：Armitermes festivellus Silvestri, 1901 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Nickle and Collins, 1992: 226, 227, 233–234 — Armitermes [part]; key; diagnosis.
-  - Constantino, 1999a: 401, 416 — Embiratermes; key; biology; distribution.
-  - Constantino, 2002a: 20 — Embiratermes; key.
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Biratermes 属征比较）；Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 12；Key to genera of Syntermitinae, couplet 10
 - 页面：https://isoptera.lifemosaic.net/genus/embiratermes/
 
-### 膝白蚁属 *Genuotermes* — 待补（有 Treatise 线索）
+### 膝白蚁属 *Genuotermes* — 已有文献描述
 
-- 原始描述：Genuotermes Emerson, 1950: 5–6.
-- 模式种：Genuotermes spinifer Emerson, 1950 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 37 — Genuotermes; key. 2138 Bulletin of the American Museum of natural History No. 377
-  - Mathews, 1977: 121, 123 — Genuotermes; synonymy; characters.
-  - Mill, 1983a: 181, 182 — Genuotermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1998b: 201 — Genuotermes; key; biology; distribution.
-  - Constantino, 1999a: 406, 417 — Genuotermes; key; biology; distribution.
+- 已据文献补写：Rocha M. M. 2013. Redescription of the enigmatic genus Genuotermes Emerson (Isoptera, Termitidae, Termitinae). ZooKeys 340: 107-117. https://doi.org/10.3897/zookeys.340.6131
+- 定位：Description › Soldier（p. 109）；Description › Worker（p. 109）；Description › Digestive tube（p. 109）
 - 页面：https://isoptera.lifemosaic.net/genus/genuotermes/
 
-### 地球白蚁属 *Ibitermes* — 待补（有 Treatise 线索）
+### 地球白蚁属 *Ibitermes* — 已有文献描述
 
-- 原始描述：Ibitermes Fontes, 1985c: 18–19.
-- 模式种：Ibitermes curupira Fontes, 1985 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 1990c: 6 — Ibitermes; characters.
-  - Constantino, 1999a: 402, 416 — Ibitermes; key; biology; distribution.
-  - Constantino, 2002a: 20 — Ibitermes; key.
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）；Comparisons with other genera of Syntermitinae（Biratermes 属征比较）
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 12
 - 页面：https://isoptera.lifemosaic.net/genus/ibitermes/
 
 ### 厚唇白蚁属 *Labiotermes* — 已有文献描述
@@ -2217,13 +2130,12 @@
 - 定位：p. 50（archive.org 项 biostor-184513 页面图像）
 - 页面：https://isoptera.lifemosaic.net/genus/labiotermes/
 
-### 马库希白蚁属 *Macuxitermes* — 待补（有 Treatise 线索）
+### 马库希白蚁属 *Macuxitermes* — 已有文献描述
 
-- 原始描述：Macuxitermes Cancello and Bandeira, 1992: 2–3.
-- 模式种：Macuxitermes triceratops Cancello and Bandeira, 1992 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 1999a: 402, 416 — Macuxitermes; key; biology; distribution.
-  - Constantino, 2002a: 22 — Macuxitermes; key.
+- 已据文献补写：Postle A. C.; Scheffrahn R. H. 2016. A new termite (Isoptera, Termitidae, Syntermitinae, Macuxitermes) from Colombia. ZooKeys 587: 21-35. https://doi.org/10.3897/zookeys.587.7557
+- 定位：Taxonomic treatment › Macuxitermes › Description；Taxonomic treatment › Macuxitermes › Description › Worker, Addenda；Taxonomic treatment › Macuxitermes › Description › Major soldier
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 6
 - 页面：https://isoptera.lifemosaic.net/genus/macuxitermes/
 
 ### 红懒白蚁属 *Mapinguaritermes* — 已有文献描述
@@ -2232,19 +2144,26 @@
 - 定位：p. 825，「Comparisons」段；p. 825，「Soldier」段；p. 825，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/mapinguaritermes/
 
-### 努瓦罗白蚁属 *Noirotitermes* — 待补（有 Treatise 线索）
+### 努瓦罗白蚁属 *Noirotitermes* — 已有文献描述
 
-- 原始描述：Noirotitermes Cancello and Myles, 2000: 534–540.
-- 模式种：Noirotitermes noiroti Cancello and Myles, 2000 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Constantino, 2002a: 22 — Noirotitermes; key.
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Imago（p. 66）；Imago（p. 66–67）
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Biratermes 属征比较）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 14
 - 页面：https://isoptera.lifemosaic.net/genus/noirotitermes/
 
-### 近曲白蚁属 *Paracurvitermes* — 待补（有 Treatise 线索）
+### 近曲白蚁属 *Paracurvitermes* — 已有文献描述
 
-- 原始描述：Paracurvitermes Constantino and Carvalho, 2011: 380–382.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6
+- 定位：Comparisons with other genera of Syntermitinae（Biratermes 属征比较）
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278
+- 定位：Comparisons with other genera of Syntermitinae
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x
+- 定位：Key to genera of Syntermitinae, couplet 11；Key to genera of Syntermitinae, couplet 10
+- 已据文献补写：Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7
+- 定位：Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）
 - 页面：https://isoptera.lifemosaic.net/genus/paracurvitermes/
 
 ### 前角白蚁属 *Procornitermes* — 待补（有 Treatise 线索）
