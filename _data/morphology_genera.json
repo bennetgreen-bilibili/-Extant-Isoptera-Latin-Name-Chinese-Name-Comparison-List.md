@@ -2653,6 +2653,31 @@
       }
     ]
   },
+  "/genus/planicapritermes/": {
+    "zh_name": "平扭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "新热带 Termitinae 具不对称弹射（snapping）上颚的兵蚁类群。与扭白蚁属 Neocapritermes 最近缘，可能由后者衍生：两者工蚁—有翅成虫上颚完全相同（本属有翅成虫未知，故无从比较有翅成虫）；兵蚁似 Neocapritermes，但头极扁、后缘三叶，触角 14 节（后者 15–16 节），前胸背板远窄于头，胫节距 2:2:2（后者 3:2:2，仅 N. bodkini 2:2:2）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头与前胸背板被中等程度的刚毛。头极扁，两侧向前收拢；后缘三叶、中叶不甚突出；囟小而圆；额腺缺。上唇不对称，绕上颚基部弯曲或包裹，舌形，两侧向前汇成钝端。上颚不对称：左上颚中部强烈弯曲、基部粗厚、外区具脊与凹、前区匙形、端钝、内基区具一齿状突起，嵌入右上颚相应凹口；右上颚平直。触角 14 节。前胸背板远窄于头，前叶极轻微上翘。胫节距 2:2:2；中足胫节无棘。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚见图 46：左上颚端齿小，第 1+2 缘齿愈合后的后缘长，第 3 缘齿发达；右上颚第 2 缘齿后缘直，第 1 与第 2 缘齿之间成锐角。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0067",
+        "citation": "Krishna K. 1968. Phylogeny and generic reclassification of the Capritermes complex (Isoptera, Termitidae, Termitinae). Bulletin of the American Museum of Natural History 138: 263–323.",
+        "locator": "pp. 317–319（Planicapritermes 属征：Imago 未知、Soldier 与 Worker）"
+      }
+    ],
+    "note": "原文明确 Imago: Unknown，故不设有翅成虫节；兵蚁与工蚁上颚据 pp. 317–319 及图 45–46。本属为单型属（仅 P. planiceps）。"
+  },
   "/genus/acholotermes/": {
     "zh_name": "顺白蚁属",
     "sections": [

@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 66,
+    "count": 67,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T06:50:48+08:00",
+    "updated": "2026-11-07T06:52:58+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -3389,6 +3389,44 @@
       "accessed": "2026-11-07T06:50:48+08:00",
       "canonical_key": "doi:10.11646/zootaxa.5067.2.10",
       "id": "S0066"
+    },
+    {
+      "title": "Phylogeny and generic reclassification of the Capritermes complex (Isoptera, Termitidae, Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 1968,
+      "authors": [
+        "Krishna K."
+      ],
+      "publisher": "American Museum of Natural History",
+      "lang": "en",
+      "license": "unknown",
+      "url": "https://digitallibrary.amnh.org/items/1c297c2a-f5e7-4e04-baae-fd96941d2889",
+      "evidence": [
+        {
+          "quote": "Head very flat, with sides converging toward front; posterior margin three-lobed, middle lobe not so prominent; fontanelle small and circular; and frontal gland absent.",
+          "locator": "p. 317（Soldier，头与囟）",
+          "note": "支撑：兵蚁头极扁、两侧前收、后缘三叶、囟小圆、额腺缺。"
+        },
+        {
+          "quote": "Left mandible strongly bent in middle, with base thick, its outer region with ridge and concavity; anterior region spatulate; apex blunt; and inner basal region with toothlike projection, fitting into corresponding excavation in right mandible. Right mandible flat and straight. Antennae with 14 articles.",
+          "locator": "p. 318（Soldier，上颚与触角）",
+          "note": "支撑：兵蚁左上颚形态、右上颚平直、触角 14 节。"
+        },
+        {
+          "quote": "Left mandible with apical tooth small, posterior margin of fused first plus second marginal tooth long, third marginal tooth well developed. Right mandible with posterior margin of second marginal tooth straight and acute angle between first and second marginal teeth.",
+          "locator": "p. 318（Worker，上颚）",
+          "note": "支撑：工蚁左右上颚齿式。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/planicapritermes1968.json"
+      ],
+      "notes": "全文取自 AMNH 数字图书馆 TEXT 位流 37533e92-5fa9-4910-a7f1-b8b1ff7c2f25（B138a05.pdf.txt，122,086 B，经 archive.org djvu.txt 镜像取得，本地 _tmp/lit/pdfs/krishna1968_capritermes_complex.txt）。引文为 OCR 文本，行末连字符（asym-metrical、pos-terior 等）已合并为原词；原文明确 Imago: Unknown。",
+      "accessed": "2026-11-07T06:52:58+08:00",
+      "canonical_key": "url:https://digitallibrary.amnh.org/items/1c297c2a-f5e7-4e04-baae-fd96941d2889",
+      "id": "S0067"
     }
   ]
 }

@@ -6,8 +6,8 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**122**。
-- 仍待补文献描述：**169**。其中 150 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），19 个没有独立条目（需另找发表文献）。
+- 已补写文献描述：**123**。
+- 仍待补文献描述：**168**。其中 149 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），19 个没有独立条目（需另找发表文献）。
 - 有 Treatise 条目但未提取到模式种的属：8（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
@@ -58,7 +58,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 93 | 164 | 17 |
+| 白蚁科 Termitidae | 280 | 23 | 94 | 163 | 17 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -2121,16 +2121,10 @@
 - 定位：pp. 88–89（Imago 与 Soldier 属级诊断；工蚁上颚见图 1）
 - 页面：https://isoptera.lifemosaic.net/genus/neocapritermes/
 
-### 平扭白蚁属 *Planicapritermes* — 待补（有 Treatise 线索）
+### 平扭白蚁属 *Planicapritermes* — 已有文献描述
 
-- 原始描述：Planicapritermes Emerson, 1949
-- 模式种：Capritermes (Neocapritermes) planiceps Emerson, 1925 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1968: 316–319 — Planicapritermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Morimoto, 1975b: 31 — Planicapritermes; key.
-  - Mathews, 1977: 137–139 — Planicapritermes; synonymy; characters; comparisons.
-  - Mill, 1983a: 180, 182 — Planicapritermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1998a: 110–111 — Planicapritermes; synonymy; characters.
+- 已据文献补写：Krishna K. 1968. Phylogeny and generic reclassification of the Capritermes complex (Isoptera, Termitidae, Termitinae). Bulletin of the American Museum of Natural History 138: 263–323.
+- 定位：pp. 317–319（Planicapritermes 属征：Imago 未知、Soldier 与 Worker）
 - 页面：https://isoptera.lifemosaic.net/genus/planicapritermes/
 
 ### 不对称白蚁属 *Schievitermes* — 已有文献描述
