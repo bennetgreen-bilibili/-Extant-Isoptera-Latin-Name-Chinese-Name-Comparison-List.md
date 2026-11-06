@@ -21,13 +21,22 @@ def clean(x):
 
 def entry_end(start):
     tail = s[start:start + 30000]
-    # Stop at the next indented genus heading (fossil genera are nested inside the
-    # living genus entry), at the species count ("▲ 1 living species, ..."), or at
-    # the distribution line, which may be preceded by several private-use glyphs.
-    m = re.search(r'(?m)^(?:[ \t]{3,}†?[A-Z][a-z]+[^\n]{0,80}?,\s*\d{4}[a-z]?:'
-                  r'|\s*▲|[\uf0fc\uf0fd\uf0fe\s]*Distribution:)', tail)
+    # A genus entry ends at whichever comes first: the "▲ N species" count (or the
+    # Distribution line) that precedes its species accounts, or a nested fossil genus
+    # heading (e.g. †Pliotermes inside Mastotermes). Species accounts follow the count
+    # line, so stopping there keeps species-level references out of the genus record.
+    ends = []
+    m = re.search(r'(?m)^[\uf0fc\uf0fd\uf0fe\s]*▲', tail)
     if m:
-        return start + m.start()
+        ends.append(m.start())
+    m = re.search(r'(?m)^[\uf0fc\uf0fd\uf0fe\s]*Distribution:', tail)
+    if m:
+        ends.append(m.start())
+    m = re.search(r'(?m)^[ \t]*†[A-Z][a-z]+[^\n]{0,80}?,\s*\d{4}[a-z]?', tail)
+    if m:
+        ends.append(m.start())
+    if ends:
+        return start + min(ends)
     return min(len(s), start + 30000)
 
 def find_entry(latin):

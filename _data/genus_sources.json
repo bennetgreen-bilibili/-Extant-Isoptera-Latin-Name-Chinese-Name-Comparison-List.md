@@ -37,10 +37,10 @@
    },
    {
     "ref": "Klass and Meier, 2006: 3–50",
-    "note": "Mastotermes; characters; phylogeny. †Pliotermes Pongrácz, 1917: 28. Type species: Pliotermes hungaricus Pongrácz, 1917 by monotypy."
+    "note": "Mastotermes; characters; phylogeny."
    }
   ],
-  "nrefs": 46
+  "nrefs": 38
  },
  "/genus/archotermopsis/": {
   "latin": "Archotermopsis",
@@ -1692,7 +1692,7 @@
     "note": "Reticulitermes; characters."
    }
   ],
-  "nrefs": 120
+  "nrefs": 107
  },
  "/genus/ahamitermes/": {
   "latin": "Ahamitermes",

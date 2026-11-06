@@ -3,7 +3,7 @@
     "version": 1,
     "count": 20,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T02:55:04+08:00",
+    "updated": "2026-11-07T03:00:56+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -498,7 +498,7 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-04T22:35:32+08:00",
+      "accessed": "2026-11-07T03:00:56+08:00",
       "evidence": [
         {
           "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
@@ -509,9 +509,25 @@
           "quote": "This reduction is what leads to the conclusion that it is the loss of tarsomere 2 that results in the 4-tarsomere condition",
           "locator": "0001-0200.txt 第 1644–1645 行",
           "note": "支撑：跗节 4 节源于第 2 跗分节丢失；杆白蚁属等 3 节（v5 段 226）"
+        },
+        {
+          "quote": "Mastotermes Froggatt, 1897a: 517.\n\n    Type species: Mastotermes darwiniensis Froggatt, 1897 by monotypy.",
+          "locator": "0201-0400.txt 第 1516–1518 行（Mastotermes 属级条目）",
+          "note": "支撑：_data/genus_sources.json / _includes/genus-morphology.html 的原始描述出处与模式种字段；Treatise 属级条目只有出处、模式种与文献注记，没有描述正文"
+        },
+        {
+          "quote": "— Desneux, 1904b: 10–11 • Mastotermes; reference list; characters; key; distribution.",
+          "locator": "0201-0400.txt 第 1521 行",
+          "note": "支撑：_data/genus_sources.json 的 references 字段只收录 Treatise 标注含 characters / key / diagnosis 的文献，作为找原文的线索"
         }
       ],
       "used_in": [
+        "_data/genus_sources.json",
+        "_includes/genus-morphology.html",
+        "_reports/genus-morphology-worklist.csv",
+        "_reports/genus-morphology-worklist.md",
+        "_tools/fauna/morphology/build_worklist.py",
+        "_tools/fauna/morphology/extract_genus_sources.py",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "id": "S0004"

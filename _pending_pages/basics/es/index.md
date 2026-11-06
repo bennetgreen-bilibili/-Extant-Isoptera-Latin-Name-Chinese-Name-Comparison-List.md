@@ -12,7 +12,7 @@ permalink: /es/basics/
 
 # Fundamentos de los termites
 
-<p class="lead">Cómo leer el listado: primero las estructuras, después las costumbres. La página de morfología describe lo que se puede ver y contar —cápsula cefálica, fontanela, mandíbulas, alas, tarzos, placas abdominales, cercos y órganos internos—, con nombres latinos, la casta en que aparece cada estructura y qué observar. La página de biología explica cómo viven —cómo surgen y se regulan las castas, cómo se construyen y se mantienen los nidos, qué comen y cómo lo digieren—, además del ciclo vital, el comportamiento social, la defensa y las funciones ecológicas. Ambas usan el glosario del sitio para que los términos coincidan con el listado, las páginas de familia y género, y las claves.</p>
+<p class="lead">Cómo leer el listado: primero las estructuras, después las costumbres. La página de morfología describe lo que se puede ver y contar —cápsula cefálica, fontanela, mandíbulas, alas, tarzos, placas abdominales, cercos y órganos internos—, con nombres latinos, la casta en que aparece cada estructura y qué observar. La página de biología explica cómo viven —cómo surgen y se regulan las castas, cómo se construyen y se mantienen los nidos, qué comen y cómo lo digieren—, además del ciclo vital, el comportamiento social, la defensa y las funciones ecológicas. Ambas usan el glosario del sitio para que los términos coincidan con el listado y las descripciones morfológicas de las páginas de familia y género.</p>
 
 ## Las dos páginas
 

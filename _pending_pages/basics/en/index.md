@@ -12,18 +12,18 @@ permalink: /en/basics/
 
 # Termite Basics
 
-<p class="lead">How to read the checklist: first the structures, then the habits. The morphology page covers what can be seen and counted — head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates, cerci and internal organs — with Latin/English names, the caste in which each occurs, and what to look for. The biology page covers how termites live — how castes arise and are regulated, how nests are built and kept stable, what they eat and how they digest it, plus life history, social behaviour, defence and ecosystem roles. Both use the site glossary so that terms match the checklist, the family and genus pages, and the keys.</p>
+<p class="lead">How to read the checklist: first the structures, then the habits. The morphology page covers what can be seen and counted — head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates, cerci and internal organs — with Latin/English names, the caste in which each occurs, and what to look for. The biology page covers how termites live — how castes arise and are regulated, how nests are built and kept stable, what they eat and how they digest it, plus life history, social behaviour, defence and ecosystem roles. Both use the site glossary so that terms match the checklist and the morphological descriptions on the family and genus pages.</p>
 
 ## The two pages
 
 <ul>
-  <li><a href="{{ site.base_url }}/en/basics/morphology/"><strong>Morphology</strong></a> — seven groups: castes and the two body plans, head, thorax with wings and legs, abdomen, soldier-specific structures, internal organs, and a quick guide to the features most often used in the keys, with a note on competing names for the same structure.</li>
+  <li><a href="{{ site.base_url }}/en/basics/morphology/"><strong>Morphology</strong></a> — seven groups: castes and the two body plans, head, thorax with wings and legs, abdomen, soldier-specific structures, internal organs, and a quick guide to the features most often used in descriptions and the remaining keys, with a note on competing names for the same structure.</li>
   <li><a href="{{ site.base_url }}/en/basics/biology/"><strong>Biology</strong></a> — caste development (pseudergates and true workers, juvenile hormone, inhibitory pheromones, neotenics), nesting (nest types, fungus combs, temperature and humidity), feeding, digestion and symbiosis, life history, social behaviour, defence, and ecosystem roles, with an appendix on where the page parts company with older literature.</li>
 </ul>
 
 ## How to use these pages
 
-- Stuck on a term in a key → look it up on the morphology page, working head to abdomen.
+- Stuck on a term in a description or a key → look it up on the morphology page, working head to abdomen.
 - Comparing habits across families → read the biology page; the feeding and nesting sections matter most.
 - Taxa and scientific names link into the checklist; names and distributions follow the checklist, while morphological and behavioural descriptions are only supporting material.
 

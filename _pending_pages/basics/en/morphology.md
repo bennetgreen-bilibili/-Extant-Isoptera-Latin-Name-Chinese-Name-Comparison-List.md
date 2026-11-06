@@ -14,11 +14,11 @@ permalink: /en/basics/morphology/
 
 <p class="muted">← Back to the <a href="{{ site.base_url }}/en/basics/">Basics index</a>.</p>
 
-<p class="lead">This page lists the parts of a termite that can actually be seen and counted: the Chinese name used on this site, the Latin/English term, the caste in which it occurs, and what to look for. Entries are compiled from the archived volumes of <i>Fauna Sinica, Insecta Vol. 17, Isoptera</i> (Huang Fusheng et al., 2000), <i>Termitology</i> (Cheng Dongbao &amp; Yang Zhaofen, 2014), <i>Biology of Termites: A Modern Synthesis</i> and Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>. Terminology follows the site glossary (<code>_data/translation_glossary.yml</code>) so that it matches the checklist, the family and genus pages, and the keys.</p>
+<p class="lead">This page lists the parts of a termite that can actually be seen and counted: the Chinese name used on this site, the Latin/English term, the caste in which it occurs, and what to look for. Entries are compiled from the archived volumes of <i>Fauna Sinica, Insecta Vol. 17, Isoptera</i> (Huang Fusheng et al., 2000), <i>Termitology</i> (Cheng Dongbao &amp; Yang Zhaofen, 2014), <i>Biology of Termites: A Modern Synthesis</i> and Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>. Terminology follows the site glossary (<code>_data/translation_glossary.yml</code>) so that it matches the checklist and the morphological descriptions on the family and genus pages.</p>
 
 Termites are front-headed (prognathous) insects with chewing mouthparts, divided into head, thorax and abdomen. Adults are usually a few millimetres to just over a centimetre long; alates reach 10–30 mm including the wings; a long-lived queen, with her abdomen enormously distended, may reach 60–70 mm, and a few African species exceed 100 mm. Castes of the same species differ so much that every description must state which caste is being described — the reason identification keys are always split into alates and soldiers.
 
-This page covers external morphology and the main internal organs only; names and distributions of taxa are in the [checklist]({{ site.base_url }}/en/list/), and identification runs through the “Morphological keys” on the family and genus pages.
+This page covers external morphology and the main internal organs only; names and distributions of taxa are in the [checklist]({{ site.base_url }}/en/list/), and identification runs through the morphological descriptions on the family and genus pages. The site has withdrawn the <i>Fauna Sinica</i> family and genus keys; only the order and Termitidae subfamily key on the checklist and the world genus key on the Kalotermitidae page remain.
 
 <ul class="basics-toc">
   <li><a href="#castes">1. Castes and the two body plans</a></li>
@@ -27,7 +27,7 @@ This page covers external morphology and the main internal organs only; names an
   <li><a href="#abdomen">4. Abdomen</a></li>
   <li><a href="#soldier">5. Soldier-specific structures</a></li>
   <li><a href="#internal">6. Internal organs</a></li>
-  <li><a href="#keys">7. Using these terms with the keys</a></li>
+  <li><a href="#keys">7. Using these terms with descriptions and keys</a></li>
   <li><a href="#naming">8. Names, synonyms and sources</a></li>
 </ul>
 
@@ -245,9 +245,9 @@ Other internal organs include the brain (proto-, deuto- and tritocerebrum) with 
 | Subesophageal ganglion | subesophageal ganglion | Supplies the mandibles, maxillae, labium and hypopharynx |
 | Ventral nerve cord | ventral nerve cord | Three thoracic and six abdominal ganglia; the last is fused from ganglia 7–11 |
 
-## 7. Using these terms with the keys {#keys}
+## 7. Using these terms with descriptions and keys {#keys}
 
-The family and genus pages of this site embed morphological keys, split into alates and soldiers. Before using one, check three things: **which caste** you have, **whether the specimen is complete** (wings, antennae, tarsi and palps break off easily), and **whether measurements follow the same standard**. The features below most often open a couplet; they are ordered from easiest to hardest.
+Most family and genus pages now carry morphological descriptions instead of keys. Only the checklist (order and Termitidae subfamily) and the Kalotermitidae page (world genera) retain keys. Before using one, check three things: **which caste** you have, **whether the specimen is complete** (wings, antennae, tarsi and palps break off easily), and **whether measurements follow the same standard**. The features below most often open a couplet; they are ordered from easiest to hardest.
 
 1. **Count the tarsomeres** — 4 in most families; 5 in Mastotermitidae; 5 ventrally and 4 dorsally in Archotermopsidae; 3 in <i>Stylotermes</i> and <i>Indotermes</i>.
 2. **Check the tibial spur formula** — 3:3:3, 3:2:2, 2:2:2 …, counted on all three legs.
@@ -260,7 +260,7 @@ The family and genus pages of this site embed morphological keys, split into ala
 9. **Soldier head and pronotum** — head shape (square, pear-shaped, conical) and pronotal width relative to head width are the entry points for family and genus keys.
 10. **Dissect the gut** (subfamily level) — presence and position of the mixed segment, Malpighian tubule insertion and knot, P3 diverticulum, enteric valve structure.
 
-For finer identification, enter the [checklist]({{ site.base_url }}/en/list/) and open the family or genus page; every key there cites its source, and any term can be looked up here by Chinese or Latin name.
+For finer identification, enter the [checklist]({{ site.base_url }}/en/list/) and open the family or genus page; every description and every retained key cites its source, and any term can be looked up here by Chinese or Latin name.
 
 ## 8. Names, synonyms and sources {#naming}
 

@@ -14,11 +14,11 @@ permalink: /es/basics/morphology/
 
 <p class="muted">← Volver al <a href="{{ site.base_url }}/es/basics/">índice de fundamentos</a>.</p>
 
-<p class="lead">Esta página reúne las partes del termite que realmente se pueden ver y contar: el nombre chino empleado en el sitio, el término latino/español, la casta en que aparece y qué hay que mirar. Los datos proceden de los volúmenes archivados de <i>Fauna Sinica, Insecta Vol. 17, Isoptera</i> (Huang Fusheng et al., 2000), <i>Termitología</i> (Cheng Dongbao y Yang Zhaofen, 2014), <i>Biology of Termites: A Modern Synthesis</i> y Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>. La terminología sigue el glosario del sitio (<code>_data/translation_glossary.yml</code>) para que coincida con el listado, las páginas de familia y género y las claves.</p>
+<p class="lead">Esta página reúne las partes del termite que realmente se pueden ver y contar: el nombre chino empleado en el sitio, el término latino/español, la casta en que aparece y qué hay que mirar. Los datos proceden de los volúmenes archivados de <i>Fauna Sinica, Insecta Vol. 17, Isoptera</i> (Huang Fusheng et al., 2000), <i>Termitología</i> (Cheng Dongbao y Yang Zhaofen, 2014), <i>Biology of Termites: A Modern Synthesis</i> y Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>. La terminología sigue el glosario del sitio (<code>_data/translation_glossary.yml</code>) para que coincida con el listado y las descripciones morfológicas de las páginas de familia y género.</p>
 
 Los termites son insectos prognatos con aparato bucal masticador, divididos en cabeza, tórax y abdomen. Los adultos miden desde unos milímetros hasta poco más de un centímetro; los alados alcanzan 10–30 mm con las alas; una reina longeva, con el abdomen muy distendido, puede llegar a 60–70 mm, y algunas especies africanas superan los 100 mm. Las castas de una misma especie difieren tanto que toda descripción debe indicar qué casta se describe: por eso las claves separan siempre alados y soldados.
 
-Esta página trata solo la morfología externa y los principales órganos internos; los nombres y la distribución de los taxones están en el [listado]({{ site.base_url }}/es/list/), y la identificación se hace con las «claves morfológicas» de las páginas de familia y género.
+Esta página trata solo la morfología externa y los principales órganos internos; los nombres y la distribución de los taxones están en el [listado]({{ site.base_url }}/es/list/), y la identificación se hace con las descripciones morfológicas de las páginas de familia y género. El sitio ha retirado las claves de familia y género de <i>Fauna Sinica</i>; solo quedan la clave de orden y de subfamilias de Termitidae en el listado y la clave mundial de géneros en la página de Kalotermitidae.
 
 <ul class="basics-toc">
   <li><a href="#castes">1. Castas y los dos planes corporales</a></li>
@@ -27,7 +27,7 @@ Esta página trata solo la morfología externa y los principales órganos intern
   <li><a href="#abdomen">4. Abdomen</a></li>
   <li><a href="#soldier">5. Estructuras propias del soldado</a></li>
   <li><a href="#internal">6. Órganos internos</a></li>
-  <li><a href="#keys">7. Cómo usar estos términos con las claves</a></li>
+  <li><a href="#keys">7. Cómo usar estos términos con descripciones y claves</a></li>
   <li><a href="#naming">8. Nombres, sinónimos y fuentes</a></li>
 </ul>
 
@@ -245,9 +245,9 @@ Otros órganos internos son el cerebro (proto-, deuto- y tritocerebro) con el ga
 | Ganglio subesofágico | subesophageal ganglion | Inerva mandíbulas, maxilas, labio e hipofaringe |
 | Cadena nerviosa ventral | ventral nerve cord | Tres ganglios torácicos y seis abdominales; el último fusiona los ganglios 7–11 |
 
-## 7. Cómo usar estos términos con las claves {#keys}
+## 7. Cómo usar estos términos con descripciones y claves {#keys}
 
-Las páginas de familia y género de este sitio incluyen claves morfológicas separadas para alados y soldados. Antes de usarlas, compruebe tres cosas: **qué casta** tiene, **si el ejemplar está completo** (alas, antenas, tarzos y palpos se rompen con facilidad) y **si las medidas siguen el mismo criterio**. Los rasgos siguientes abren con frecuencia una dicotomía; van de lo más fácil a lo más difícil.
+La mayoría de las páginas de familia y género ya ofrecen descripciones morfológicas en lugar de claves. Solo el listado (orden y subfamilias de Termitidae) y la página de Kalotermitidae (géneros del mundo) conservan claves. Antes de usar una, compruebe tres cosas: **qué casta** tiene, **si el ejemplar está completo** (alas, antenas, tarzos y palpos se rompen con facilidad) y **si las medidas siguen el mismo criterio**. Los rasgos siguientes abren con frecuencia una dicotomía; van de lo más fácil a lo más difícil.
 
 1. **Contar los tarsómeros** — 4 en la mayoría de familias; 5 en Mastotermitidae; 5 ventrales y 4 dorsales en Archotermopsidae; 3 en <i>Stylotermes</i> e <i>Indotermes</i>.
 2. **Ver la fórmula de espolones tibiales** — 3:3:3, 3:2:2, 2:2:2…, contada en las tres patas.
@@ -260,7 +260,7 @@ Las páginas de familia y género de este sitio incluyen claves morfológicas se
 9. **Cabeza y pronoto del soldado** — la forma de la cabeza (cuadrada, piriforme, cónica) y la proporción pronoto/ancho cefálico son la entrada a las claves de familia y género.
 10. **Disecar el intestino** (nivel de subfamilia) — presencia y posición del segmento mixto, inserción de los tubos de Malpighi y nudo, divertículo de P3, estructura de la válvula entérica.
 
-Para identificaciones más finas, entre en el [listado]({{ site.base_url }}/es/list/) y abra la página de familia o género; cada clave cita su fuente y cualquier término puede buscarse aquí por su nombre chino o latino.
+Para identificaciones más finas, entre en el [listado]({{ site.base_url }}/es/list/) y abra la página de familia o género; cada descripción y cada clave conservada cita su fuente, y cualquier término puede buscarse aquí por su nombre chino o latino.
 
 ## 8. Nombres, sinónimos y fuentes {#naming}
 

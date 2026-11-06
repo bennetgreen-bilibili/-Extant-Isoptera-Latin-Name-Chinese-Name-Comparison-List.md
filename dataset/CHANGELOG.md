@@ -65,6 +65,7 @@
 - **检索表（同版本）**：木白蚁科页新增 Krishna 等（2013）《Treatise on the Isoptera of the World》第 75—78 页的世界分属检索表，有翅成虫 18 组 19 个终点、兵蚁 20 组 21 个终点，接在《中国动物志》兵蚁表（5 属）之后；化石属 †Proelectrotermes、†Electrotermes 仅列名不链接，原表未含的 Longicaputermes、Roisinitermes 在表前说明。
   - 生成：`_tools/fauna/keys/keys_orders.py` 新增 KALO_WORLD 与 KALOSRC；`_tools/fauna/keys/emit.py` 支持用 `+` 合并终点、用 `|` 附注、用 `fos:` 标记化石属；`_data/fauna_keys.json` 重生成后该科 3 表 42 组 45 个终点。
   - 渲染：`_includes/fauna-keys.html` 增加 Treatise 来源说明与引文，化石属与合并终点按新结构输出；不改名录数据与计数。
+- **检索表收缩与属级描述占位（2026-11-07，同一版本）**：撤下全部据《中国动物志》编制的科 / 属 / 种检索表；`_data/fauna_keys.json` 只保留 `/list/`（Hellemans 等 2024 目级表）、`/family/termitidae/`（Hellemans 等 2024 白蚁科亚科表）与 `/family/kalotermitidae/`（Krishna 等 2013 木白蚁科世界分属表）三页。新增 `_data/genus_sources.json`：据 Krishna 等（2013）整理 326 个属的原始描述出处、模式种与文献线索；`_includes/genus-morphology.html` 在尚无《中国动物志》属级描述的 291 个属页显示「待补」占位与文献线索，不代写描述。补写清单见 `_reports/genus-morphology-worklist.md` / `.csv`。不改名录数据与计数。
 - **派生（同版本）**：`sitemap.txt` 重算（3786 个 URL；696 个页面，含 3089 个物种页），`_data/changelog.json` 与 `changelog.atom` 随本条目重建。
 
 ## 2026.10.17 — 首个 DOI 归档版本 First archived release

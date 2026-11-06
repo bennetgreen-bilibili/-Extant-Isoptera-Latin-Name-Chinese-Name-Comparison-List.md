@@ -34,15 +34,15 @@ Jekyll 会忽略下划线开头的目录；`.github/workflows/build_sitemap_txt.
 3. 三个首页「页面导航」里，在 guestbook 条目之后各粘回一条：
 
    ```html
-   <li><a href="{{ site.base_url }}/basics/"><strong>基础知识</strong></a> — 索引：形态篇（头壳、囟、上颚、翅、跗节、腹板、尾须与内部器官的术语与识别要点，附检索表速查）与生物学篇（品级发育、筑巢、食性、生活史、防御与生态功能），术语口径与名录一致。</li>
+   <li><a href="{{ site.base_url }}/basics/"><strong>基础知识</strong></a> — 索引：形态篇（头壳、囟、上颚、翅、跗节、腹板、尾须与内部器官的术语与识别要点，附检索表常用特征速查，供阅读少数保留的检索表）与生物学篇（品级发育、筑巢、食性、生活史、防御与生态功能），术语口径与名录及各科属页的形态描述一致。</li>
    ```
 
    ```html
-   <li><a href="{{ site.base_url }}/en/basics/"><strong>Basics</strong></a> — index: morphology (head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a quick guide to the keys) and biology (caste development, nesting, feeding, life history, defence and ecosystem roles).</li>
+   <li><a href="{{ site.base_url }}/en/basics/"><strong>Basics</strong></a> — index: morphology (head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a quick guide to the features used in descriptions and the remaining keys) and biology (caste development, nesting, feeding, life history, defence and ecosystem roles).</li>
    ```
 
    ```html
-   <li><a href="{{ site.base_url }}/es/basics/"><strong>Fundamentos</strong></a> — índice: morfología (cápsula cefálica, fontanela, mandíbulas, alas, tarzos, placas abdominales y órganos internos, con nombres latinos y una guía rápida para las claves) y biología (castas, nidificación, alimentación, ciclo vital, defensa y funciones ecológicas).</li>
+   <li><a href="{{ site.base_url }}/es/basics/"><strong>Fundamentos</strong></a> — índice: morfología (cápsula cefálica, fontanela, mandíbulas, alas, tarzos, placas abdominales y órganos internos, con nombres latinos y una guía rápida para los rasgos usados en las descripciones y en las claves conservadas) y biología (castas, nidificación, alimentación, ciclo vital, defensa y funciones ecológicas).</li>
    ```
 
 4. `llms.txt` 里按语序补回三条「白蚁基础知识（形态学）」条目（中文 / English / Español），可从 git 历史取回原文。
