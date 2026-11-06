@@ -31,6 +31,18 @@ EN — **简角近新白蚁** (*Paraneotermes simplicicornis*) is the only extan
 
 ES — **简角近新白蚁** (*Paraneotermes simplicicornis*) es la única especie viviente del género *Paraneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Laguna, on the Neuces River. Distribución: North America, United States, Mexico. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Paraneotermes*：属名由希腊文 para-（旁、近）+ neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Paraneotermes*: From Greek para- (near) + neos (new) + Latin termes.
+
+种加词 *simplicicornis*：拉丁文 simplex（简单）+ cornu（角），简单角
+
+EN — epithet *simplicicornis*: Latin simplex (simple) + cornu (horn), simple-horned
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

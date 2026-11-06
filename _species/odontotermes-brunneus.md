@@ -34,6 +34,18 @@ EN — **棕色土白蚁** (*Odontotermes brunneus*) is a species of the genus *
 
 ES — **棕色土白蚁** (*Odontotermes brunneus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es India: Bengal. Distribución: South Asia, India, unspecified. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *brunneus*：拉丁文 brunneus（褐）
+
+EN — epithet *brunneus*: Latin brunneus (brown)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

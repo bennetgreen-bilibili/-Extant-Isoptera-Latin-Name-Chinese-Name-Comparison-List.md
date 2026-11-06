@@ -32,6 +32,18 @@ EN — **巨大镰白蚁** (*Drepanotermes magnificus*) is a species of the genu
 
 ES — **巨大镰白蚁** (*Drepanotermes magnificus*) es una especie del género *Drepanotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Kimberley District: Lower Lewarynga. Distribución: Australia.
 
+## 词源
+
+属名 *Drepanotermes*：属名由希腊文 drepanon（镰刀）与拉丁文 termes（白蚁）组合。
+
+EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
+
+种加词 *magnificus*：拉丁文 magnificus（壮丽的、宏大的）
+
+EN — epithet *magnificus*: Latin magnificus (magnificent, grand)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **大后琥珀白蚁** (*Postelectrotermes amplus*) is a species of the g
 
 ES — **大后琥珀白蚁** (*Postelectrotermes amplus*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1925; la localidad tipo es Madagascar: ?. Distribución: Madagascar.
 
+## 词源
+
+属名 *Postelectrotermes*：属名由拉丁文 post（后）+ 希腊文 ēlektron（琥珀）与 termes（白蚁）组合（可能与琥珀化石相关）。
+
+EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
+
+种加词 *amplus*：拉丁文 amplus（宽大）
+
+EN — epithet *amplus*: Latin amplus (ample, large)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

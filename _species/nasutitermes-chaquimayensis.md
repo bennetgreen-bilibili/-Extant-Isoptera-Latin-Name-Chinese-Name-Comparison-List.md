@@ -34,6 +34,18 @@ EN — **查基马约象白蚁** (*Nasutitermes chaquimayensis*) is a species of
 
 ES — **查基马约象白蚁** (*Nasutitermes chaquimayensis*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: San Fermín \[13.9056S 68.9722W\]; Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribución: Brazil, Peru, Bolivia, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *chaquimayensis*：以地名 chaquimay 命名（具体地名待考）
+
+EN — epithet *chaquimayensis*: Named after a locality (chaquimay)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

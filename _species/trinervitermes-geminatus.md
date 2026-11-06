@@ -34,6 +34,18 @@ EN — **成对三脉白蚁** (*Trinervitermes geminatus*) is a species of the g
 
 ES — **成对三脉白蚁** (*Trinervitermes geminatus*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Ghana: ?. Distribución: Côte d'Ivoire, Senegal, Togo, Ghana, Nigeria, Burkina Faso, Democratic Republic of the Congo, Ethiopia, Mali, Mauritania, Sierra Leone, Sudan, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
+
+EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
+
+种加词 *geminatus*：拉丁文/希腊文 gemin（成双）+ atus（具），指成双具
+
+EN — epithet *geminatus*: From gemin (成双) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

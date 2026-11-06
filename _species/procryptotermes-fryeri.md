@@ -29,6 +29,18 @@ EN — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) is a species and the
 
 ES — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) es una especie, y la especie tipo de su género del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución: Seychelles.
 
+## 词源
+
+属名 *Procryptotermes*：属名由希腊文 pro-（前、早）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
+
+种加词 *fryeri*：以人名 fryer 命名（具体指向待考）
+
+EN — epithet *fryeri*: Named after a person (fryer), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

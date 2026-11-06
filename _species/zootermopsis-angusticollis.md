@@ -29,6 +29,18 @@ EN — **狭颈动白蚁** (*Zootermopsis angusticollis*) is a species and the t
 
 ES — **狭颈动白蚁** (*Zootermopsis angusticollis*) es una especie, y la especie tipo de su género del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California; Louisiana. Distribución: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
 
+## 词源
+
+属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
+
+EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
+
+种加词 *angusticollis*：拉丁文/希腊文 angusti（窄）+ collis（颈），指窄颈
+
+EN — epithet *angusticollis*: From angusti (窄) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）

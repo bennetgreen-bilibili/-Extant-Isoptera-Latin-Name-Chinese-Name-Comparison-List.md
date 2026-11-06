@@ -29,6 +29,18 @@ EN — **鼓浪屿乳白蚁** (*Coptotermes gulangyuensis*) is a species of the 
 
 ES — **鼓浪屿乳白蚁** (*Coptotermes gulangyuensis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Li & Huang en 1986; la localidad tipo es China: Fujian Province: Gulangyu Isl., Xiamen. Distribución: China (Fujian).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *gulangyuensis*：以地名 鼓浪屿（福建） 命名
+
+EN — epithet *gulangyuensis*: Named after the locality Gulangyu
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

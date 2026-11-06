@@ -29,6 +29,18 @@ EN — **福建新白蚁** (*Neotermes fujianensis*) is a species of the genus *
 
 ES — **福建新白蚁** (*Neotermes fujianensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ping en 1983; la localidad tipo es China: Fujian province: Nanjimg County. Distribución: China, Fujian, Guangdong, Guangxi.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *fujianensis*：以地名 福建 命名
+
+EN — epithet *fujianensis*: Named after the locality Fujian
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

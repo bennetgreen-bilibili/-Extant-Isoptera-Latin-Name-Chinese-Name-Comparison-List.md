@@ -29,6 +29,18 @@ EN — **雷公山散白蚁** (*Reticulitermes leigongshanensis*) is a species o
 
 ES — **雷公山散白蚁** (*Reticulitermes leigongshanensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Zhu, Huang, Wang & Han en 1993; la localidad tipo es China: Guizhou Province: Leigong Mountain. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *leigongshanensis*：以地名 雷公山（贵州） 命名
+
+EN — epithet *leigongshanensis*: Named after the locality Leigongshan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -31,6 +31,18 @@ EN — **细瘦异白蚁** (*Heterotermes tenuis*) is a species of the genus *He
 
 ES — **细瘦异白蚁** (*Heterotermes tenuis*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?. Distribución: Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *tenuis*：拉丁文 tenuis（细）
+
+EN — epithet *tenuis*: Latin tenuis (slender)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

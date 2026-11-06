@@ -32,6 +32,18 @@ EN — **麦克格鲁象鼻白蚁** (*Proboscitermes mcgrewi*) is a species of t
 
 ES — **麦克格鲁象鼻白蚁** (*Proboscitermes mcgrewi*) es una especie del género *Proboscitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Scheffrahn en 2010; la localidad tipo es Tanzania: Gombe Stream National Park. Distribución: Tanzania.
 
+## 词源
+
+属名 *Proboscitermes*：属名由希腊文 proboskis（吻、长鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Proboscitermes*: From Greek proboskis (proboscis) + Latin termes.
+
+种加词 *mcgrewi*：以人名 mcgrew 命名（具体指向待考）
+
+EN — epithet *mcgrewi*: Named after a person (mcgrew), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

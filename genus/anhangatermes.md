@@ -44,6 +44,13 @@ breadcrumb:
 <p>模式种：<i>Anhangatermes macarthuri</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。</p>
+<p class="etymology-en" lang="en">From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/anhangatermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

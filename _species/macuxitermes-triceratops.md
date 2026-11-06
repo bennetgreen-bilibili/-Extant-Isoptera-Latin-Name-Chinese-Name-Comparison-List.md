@@ -32,6 +32,18 @@ EN — **三角马库希白蚁** (*Macuxitermes triceratops*) is a species and t
 
 ES — **三角马库希白蚁** (*Macuxitermes triceratops*) es una especie, y la especie tipo de su género del género *Macuxitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Cancello & Bandeira en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[3.4N 61.65W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Macuxitermes*：属名由 Macuxi（马库希族，亚马逊原住民）与 termes（白蚁）组合。
+
+EN — *Macuxitermes*: From Macuxi (an Amazonian indigenous people) + termes.
+
+种加词 *triceratops*：希腊文 tri-（三）+ keras（角）+ ōps（面），三角面
+
+EN — epithet *triceratops*: Greek tri- (three) + keras (horn) + ōps (face), three-horned-faced
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

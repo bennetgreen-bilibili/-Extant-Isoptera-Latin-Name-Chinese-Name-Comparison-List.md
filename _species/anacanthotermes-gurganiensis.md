@@ -29,6 +29,18 @@ EN — **戈尔甘无刺白蚁** (*Anacanthotermes gurganiensis*) is a species o
 
 ES — **戈尔甘无刺白蚁** (*Anacanthotermes gurganiensis*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Gurgan, Tappay Mirza Biayl. Distribución: Iran.
 
+## 词源
+
+属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
+
+EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
+
+种加词 *gurganiensis*：以地名 gurgan 命名（具体地名待考）
+
+EN — epithet *gurganiensis*: Named after a locality (gurgan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

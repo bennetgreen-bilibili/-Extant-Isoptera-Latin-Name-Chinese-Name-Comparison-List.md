@@ -32,6 +32,18 @@ EN — **灰足近扭白蚁** (*Pericapritermes pallidipes*) is a species of the
 
 ES — **灰足近扭白蚁** (*Pericapritermes pallidipes*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Sjöstedt en 1898; la localidad tipo es Cameroon: Kribi. Distribución: Sierra Leone, Cameroon.
 
+## 词源
+
+属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
+
+种加词 *pallidipes*：拉丁文/希腊文 pallidi（苍白）+ pes（足），指苍白足
+
+EN — epithet *pallidipes*: From pallidi (苍白) + pes (足)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **马特拉加喙白蚁** (*Rhynchotermes matraga*) is a species of the g
 
 ES — **马特拉加喙白蚁** (*Rhynchotermes matraga*) es una especie del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantini & Cancello en 2016; la localidad tipo es Brasil: Minas Gerais: Conceição do Mato Dentro, Serra da Serpentina \[19.0502S 43.3635W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Rhynchotermes*：属名由希腊文 rhynchos（喙、吻）与拉丁文 termes（白蚁）组合。
+
+EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
+
+种加词 *matraga*：以当地土名或地名命名（具体指向待考）
+
+EN — epithet *matraga*: After a local vernacular name or place (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

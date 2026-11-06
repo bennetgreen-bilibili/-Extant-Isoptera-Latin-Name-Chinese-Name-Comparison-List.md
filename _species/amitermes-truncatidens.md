@@ -32,6 +32,18 @@ EN — **畸齿弓白蚁** (*Amitermes truncatidens*) is a species of the genus 
 
 ES — **畸齿弓白蚁** (*Amitermes truncatidens*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Sands en 1959; la localidad tipo es Tanzania: Nachingwea. Distribución: West Africa, Nigeria, Angola, Democratic Republic of the Congo, Malawi, Tanzania, Zambia, Zimbabwe.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *truncatidens*：拉丁文/希腊文词根「trunc」（截断）
+
+EN — epithet *truncatidens*: From the descriptive term 'trunc' (truncated)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

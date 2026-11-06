@@ -31,6 +31,18 @@ EN — **海洋原鼻白蚁** (*Prorhinotermes oceanicus*) is a species of the g
 
 ES — **海洋原鼻白蚁** (*Prorhinotermes oceanicus*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Wasmann en 1902; la localidad tipo es Costa Rica: Cocos Island. Distribución: Costa Rica, Cocos Island, Costa Rica. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *oceanicus*：拉丁文 oceanus（大洋），大洋的
+
+EN — epithet *oceanicus*: Latin oceanus (ocean): oceanic
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

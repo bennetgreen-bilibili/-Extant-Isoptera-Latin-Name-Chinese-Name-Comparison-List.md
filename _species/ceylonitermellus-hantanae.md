@@ -32,6 +32,18 @@ EN — **汉塔娜小锡兰白蚁** (*Ceylonitermellus hantanae*) is a species a
 
 ES — **汉塔娜小锡兰白蚁** (*Ceylonitermellus hantanae*) es una especie, y la especie tipo de su género del género *Ceylonitermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Hantana. Distribución: Sri Lanka.
 
+## 词源
+
+属名 *Ceylonitermellus*：属名由 Ceylon（锡兰，即斯里兰卡）与拉丁文指小后缀 -ellus（含 termes「白蚁」）组合。
+
+EN — *Ceylonitermellus*: From Ceylon (Sri Lanka) + diminutive -ellus (with termes).
+
+种加词 *hantanae*：以人名 hantan 命名（具体指向待考）
+
+EN — epithet *hantanae*: Named after a person (hantan), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

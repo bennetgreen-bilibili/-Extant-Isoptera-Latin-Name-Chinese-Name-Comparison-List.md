@@ -32,6 +32,18 @@ EN — **圆头圆白蚁** (*Rotunditermes rotundiceps*) is a species and the ty
 
 ES — **圆头圆白蚁** (*Rotunditermes rotundiceps*) es una especie, y la especie tipo de su género del género *Rotunditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Brazil, Colombia, Peru.
 
+## 词源
+
+属名 *Rotunditermes*：属名由拉丁文 rotundus（圆的）与 termes（白蚁）组合。
+
+EN — *Rotunditermes*: From Latin rotundus (round) + termes.
+
+种加词 *rotundiceps*：拉丁文 rotundus（圆）+ -ceps（头），圆头
+
+EN — epithet *rotundiceps*: Latin rotundus (round) + -ceps (head), round-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

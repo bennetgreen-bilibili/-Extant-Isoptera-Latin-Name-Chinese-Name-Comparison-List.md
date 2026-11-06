@@ -32,6 +32,18 @@ EN — **艾尔白蚁** (*Termes ayri*) is a species of the genus *Termes*, in t
 
 ES — **艾尔白蚁** (*Termes ayri*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Bandeira & Cancello en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[3.4N 61.65W\]. Distribución: Brazil, Colombia, Ecuador, French Guiana, Peru, Venezuela.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *ayri*：以人名 ayr 命名（具体指向待考）
+
+EN — epithet *ayri*: Named after a person (ayr), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

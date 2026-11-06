@@ -34,6 +34,18 @@ EN — **伦伯格弓白蚁** (*Amitermes loennbergianus*) is a species of the g
 
 ES — **伦伯格弓白蚁** (*Amitermes loennbergianus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Kenya: somewhat north of Guaso Nyero. Distribución: Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *loennbergianus*：以人名 loennberg 命名（具体指向待考）
+
+EN — epithet *loennbergianus*: Named after a person (loennberg), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

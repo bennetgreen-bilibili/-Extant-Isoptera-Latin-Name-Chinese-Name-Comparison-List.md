@@ -32,6 +32,18 @@ EN — **柯林斯微白蚁** (*Parvitermes collinsae*) is a species of the genu
 
 ES — **柯林斯微白蚁** (*Parvitermes collinsae*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn & Roisin en 1995; la localidad tipo es Dominican Republic: Barahona: Fondo Negro. Distribución: Dominican Republic.
 
+## 词源
+
+属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
+
+EN — *Parvitermes*: From Latin parvus (small) + termes.
+
+种加词 *collinsae*：以人名 collins 命名（具体指向待考）
+
+EN — epithet *collinsae*: Named after a person (collins), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

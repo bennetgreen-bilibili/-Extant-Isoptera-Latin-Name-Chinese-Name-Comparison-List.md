@@ -32,6 +32,18 @@ EN — **细锯齿大白蚁** (*Macrotermes serrulatus*) is a species of the gen
 
 ES — **细锯齿大白蚁** (*Macrotermes serrulatus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es Myanmar: Mogok. Distribución: Southeast Asia, Myanmar, Bangladesh, India.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *serrulatus*：拉丁文/希腊文 serrul（锯齿）+ atus（具），指锯齿具
+
+EN — epithet *serrulatus*: From serrul (锯齿) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

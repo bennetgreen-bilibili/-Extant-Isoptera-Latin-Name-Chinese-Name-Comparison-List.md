@@ -53,6 +53,7 @@ IMAGES_DIR = ROOT / "assets" / "images"
 PROSE_JSON = ROOT / "_data" / "taxon_prose.json"
 PHOTO_TAXA_JSON = ROOT / "_data" / "photo_taxa.json"
 DATA_OUT = ROOT / "_data" / "taxonomy_images.json"
+ETYMOLOGY_JSON = ROOT / "_data" / "etymology.json"
 OUT_DIRS = {"family": ROOT / "family", "subfamily": ROOT / "subfamily", "genus": ROOT / "genus"}
 DEFAULT_IMAGE = "/assets/images/mastotermitidae.jpg"
 RANK_LABEL = {"family": "Family", "subfamily": "Subfamily", "genus": "Genus"}
@@ -347,6 +348,11 @@ def main():
     no_prose = [tid for tid in list(families) + list(subfamilies) if tid not in intros]
     if no_prose:
         sys.exit("list.md has no prose for: %s" % ", ".join(sorted(no_prose)))
+
+    # 属级词源：_data/etymology.json 的 genera 键（词根据 Brown 1956, S0018）
+    etym_genera = {}
+    if ETYMOLOGY_JSON.is_file():
+        etym_genera = json.loads(ETYMOLOGY_JSON.read_text(encoding="utf-8")).get("genera") or {}
 
     for gen in genera.values():
         gen["rows"].sort(key=lambda r: (0 if r["rank"] != "subspecies" else 1,
@@ -705,6 +711,23 @@ def main():
             '</div>\n'
             % (",".join(anchors), SB, SB, scope_zh, species_count, scope_zh, SB))
 
+    def etymology_section(gid):
+        """属级词源（zh + en），来自 _data/etymology.json（词根据 Brown 1956, S0018）。"""
+        entry = (etym_genera or {}).get(gid)
+        if not entry:
+            return ""
+        zh = html_escape((entry.get("zh") or "").strip())
+        en = html_escape((entry.get("en") or "").strip())
+        out = ('<section class="taxon-section taxon-etymology" data-pagefind-ignore>\n'
+               '<h2>词源</h2>\n'
+               '<p>%s</p>\n' % zh)
+        if en:
+            out += '<p class="etymology-en" lang="en">%s</p>\n' % en
+        out += ('<!-- src:S0018 -->\n'
+                '<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>\n'
+                '</section>\n')
+        return out
+
     outputs = {}
     for fid in sorted(families):
         fam = families[fid]
@@ -813,6 +836,7 @@ def main():
             + (distribution_section("genus", gid) if mapped else genus_map_note(gen))
             + photo_section("genus", gid)
             + genus_intro(gen, mapped)
+            + etymology_section(gid)
             + fauna_section("genus", gid)
             + genus_morphology_section()
             + keys_section("genus", gid)

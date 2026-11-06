@@ -32,6 +32,18 @@ EN — **毛额节白蚁** (*Noditermes cristifrons*) is a species of the genus 
 
 ES — **毛额节白蚁** (*Noditermes cristifrons*) es una especie del género *Noditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Democratic Republic of the Congo: Sankuru (Kassai). Distribución: West Africa, Gambia, Senegal, Togo, Burkina Faso, Angola, Cameroon, Democratic Republic of the Congo, Tanzania.
 
+## 词源
+
+属名 *Noditermes*：属名由拉丁文 nodus（结、瘤）与 termes（白蚁）组合。
+
+EN — *Noditermes*: From Latin nodus (knot, node) + termes.
+
+种加词 *cristifrons*：拉丁文/希腊文 cristi（冠）+ frons（额），指冠额
+
+EN — epithet *cristifrons*: From cristi (冠) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

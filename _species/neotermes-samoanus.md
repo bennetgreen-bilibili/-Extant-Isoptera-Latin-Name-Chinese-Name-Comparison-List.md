@@ -29,6 +29,18 @@ EN — **萨摩亚新白蚁** (*Neotermes samoanus*) is a species of the genus *
 
 ES — **萨摩亚新白蚁** (*Neotermes samoanus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1912; la localidad tipo es Samoa: Apia. Distribución: Samoa.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *samoanus*：以地名 萨摩亚 命名
+
+EN — epithet *samoanus*: Named after the locality Samo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

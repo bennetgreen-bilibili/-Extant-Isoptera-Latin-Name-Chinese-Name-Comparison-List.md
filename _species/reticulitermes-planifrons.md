@@ -29,6 +29,18 @@ EN — **平额散白蚁** (*Reticulitermes planifrons*) is a species of the gen
 
 ES — **平额散白蚁** (*Reticulitermes planifrons*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Li & Ping en 1981; la localidad tipo es China: Fujian Province: Huanggang Shan, Chong’ an Xian. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *planifrons*：拉丁文 planus（平）+ frons（额），指额平
+
+EN — epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

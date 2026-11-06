@@ -32,6 +32,18 @@ EN — **公牛双戟白蚁** (*Dihoplotermes taurus*) is a species of the genus
 
 ES — **公牛双戟白蚁** (*Dihoplotermes taurus*) es una especie del género *Dihoplotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Azevedo, Dambros & Morais en 2019; la localidad tipo es Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[2.633S 60.1072W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Dihoplotermes*：属名由希腊文 di-（二）+ hoplon（武器）与拉丁文 termes（白蚁）组合。
+
+EN — *Dihoplotermes*: From Greek di- (two) + hoplon (weapon) + Latin termes.
+
+种加词 *taurus*：拉丁文 taurus（公牛）
+
+EN — epithet *taurus*: Latin taurus (bull)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

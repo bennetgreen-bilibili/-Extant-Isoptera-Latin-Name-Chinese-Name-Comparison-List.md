@@ -32,6 +32,18 @@ EN — **大平额等颚白蚁** (*Isognathotermes magniplanifrons*) is a specie
 
 ES — **大平额等颚白蚁** (*Isognathotermes magniplanifrons*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Democratic Republic of the Congo: Irangi \[ 1.9S 28.45E \]. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *magniplanifrons*：拉丁文/希腊文 magniplani（大）+ frons（额），指大额
+
+EN — epithet *magniplanifrons*: From magniplani (大) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

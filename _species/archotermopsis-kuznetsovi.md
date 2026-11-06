@@ -29,6 +29,18 @@ EN — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) is a species o
 
 ES — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) es una especie del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Belyaeva en 2004; la localidad tipo es Vietnam: 8 km. SE Shapa Mt. Distribución: China, Vietnam.
 
+## 词源
+
+属名 *Archotermopsis*：属名由希腊文 archaios（古老的、原始的）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合，意为「古老的类白蚁」。
+
+EN — *Archotermopsis*: From Greek archaios (ancient, primitive) + -termopsis (term- 'termite' + -opsis 'appearance'), 'ancient termite-like'.
+
+种加词 *kuznetsovi*：以人名 kuznetsov 命名（具体指向待考）
+
+EN — epithet *kuznetsovi*: Named after a person (kuznetsov), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）

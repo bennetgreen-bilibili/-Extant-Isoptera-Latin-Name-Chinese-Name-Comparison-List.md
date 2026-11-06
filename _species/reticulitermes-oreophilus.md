@@ -29,6 +29,18 @@ EN — **喜山散白蚁** (*Reticulitermes oreophilus*) is a species of the gen
 
 ES — **喜山散白蚁** (*Reticulitermes oreophilus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Li en 1983; la localidad tipo es China: Guangxi Province: Huaping of Longsheng Gezu Zizhixian. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *oreophilus*：希腊文 oros（山）+ philos（爱），爱山、栖山
+
+EN — epithet *oreophilus*: Greek oros (mountain) + philos (loving), mountain-loving
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

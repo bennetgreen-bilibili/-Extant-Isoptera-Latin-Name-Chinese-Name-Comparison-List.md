@@ -29,6 +29,18 @@ EN — **隐蔽长鼻白蚁** (*Schedorhinotermes umbraticus*) is a species of t
 
 ES — **隐蔽长鼻白蚁** (*Schedorhinotermes umbraticus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Hill en 1927; la localidad tipo es Papua New Guinea: New Britain: Bai, near Rabaul. Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *umbraticus*：拉丁文 umbraticus（荫蔽的，umbra=荫）
+
+EN — epithet *umbraticus*: Latin umbraticus (shaded, of the shade; umbra = shadow)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

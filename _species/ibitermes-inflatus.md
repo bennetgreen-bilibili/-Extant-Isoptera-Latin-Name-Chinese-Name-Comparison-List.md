@@ -32,6 +32,18 @@ EN — **高唇基地球白蚁** (*Ibitermes inflatus*) is a species and the typ
 
 ES — **高唇基地球白蚁** (*Ibitermes inflatus*) es una especie, y la especie tipo de su género del género *Ibitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Vasconcellos en 2002; la localidad tipo es Brasil: Paraíba: Reserva Biológica Guaribas \[6.8S 35.095W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Ibitermes*：属名由图皮语 Ibi（土地、树）与 -termes 组合。
+
+EN — *Ibitermes*: From Tupi Ibi (land, tree) + -termes.
+
+种加词 *inflatus*：拉丁文/希腊文 infl（膨大）+ atus（具），指膨大具
+
+EN — epithet *inflatus*: From infl (膨大) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

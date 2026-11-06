@@ -34,6 +34,18 @@ EN — **最小近扭白蚁** (*Pericapritermes minimus*) is a species of the ge
 
 ES — **最小近扭白蚁** (*Pericapritermes minimus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Weidner en 1956; la localidad tipo es Angola: Dundo. Distribución: Angola, Cameroon, Democratic Republic of the Congo. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
+
+种加词 *minimus*：拉丁文 minimus（最小）
+
+EN — epithet *minimus*: Latin minimus (smallest)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

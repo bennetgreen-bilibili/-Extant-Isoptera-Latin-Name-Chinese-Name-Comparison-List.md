@@ -34,6 +34,18 @@ EN — **宽背钩白蚁** (*Ancistrotermes latinotus*) is a species of the genu
 
 ES — **宽背钩白蚁** (*Ancistrotermes latinotus*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Democratic Republic of the Congo: Katanga: Luapula. Distribución: southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Ancistrotermes*：属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。
+
+EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
+
+种加词 *latinotus*：拉丁文/希腊文 lati（宽）+ notus（背），指宽背
+
+EN — epithet *latinotus*: From lati (宽) + notus (背)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

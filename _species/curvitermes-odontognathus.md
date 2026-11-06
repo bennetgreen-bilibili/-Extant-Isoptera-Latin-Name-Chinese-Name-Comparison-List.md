@@ -32,6 +32,18 @@ EN — **齿颚曲白蚁** (*Curvitermes odontognathus*) is a species and the ty
 
 ES — **齿颚曲白蚁** (*Curvitermes odontognathus*) es una especie, y la especie tipo de su género del género *Curvitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]. Distribución: Brazil, Colombia, Bolivia, Ecuador.
 
+## 词源
+
+属名 *Curvitermes*：属名由拉丁文 curvus（弯的）与 termes（白蚁）组合。
+
+EN — *Curvitermes*: From Latin curvus (curved) + termes.
+
+种加词 *odontognathus*：希腊文 odous（齿）+ gnathos（颚），齿颚
+
+EN — epithet *odontognathus*: Greek odous (tooth) + gnathos (jaw), toothed-jawed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

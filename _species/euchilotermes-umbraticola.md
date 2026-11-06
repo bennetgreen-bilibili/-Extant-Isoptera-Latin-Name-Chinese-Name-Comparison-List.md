@@ -32,6 +32,18 @@ EN — **隐蔽真唇白蚁** (*Euchilotermes umbraticola*) is a species of the 
 
 ES — **隐蔽真唇白蚁** (*Euchilotermes umbraticola*) es una especie del género *Euchilotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Williams en 1954; la localidad tipo es Tanzania: East Usambara; Daluni. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Euchilotermes*：属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。
+
+EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
+
+种加词 *umbraticola*：拉丁文/希腊文 umbrati（荫）+ cola（栖），指荫栖
+
+EN — epithet *umbraticola*: From umbrati (荫) + cola (栖)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

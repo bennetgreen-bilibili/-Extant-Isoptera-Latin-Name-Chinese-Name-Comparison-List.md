@@ -29,6 +29,18 @@ EN — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) is the only ext
 
 ES — **埃博戈罗伊辛白蚁** (*Roisinitermes ebogoensis*) es la única especie viviente del género *Roisinitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2018; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución: Cameroon.
 
+## 词源
+
+属名 *Roisinitermes*：属名以人名 Roisin 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Roisinitermes*: Named after a person (Roisin); -termes from Latin termes.
+
+种加词 *ebogoensis*：以地名 ebogo 命名（具体地名待考）
+
+EN — epithet *ebogoensis*: Named after a locality (ebogo)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

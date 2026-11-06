@@ -29,6 +29,18 @@ EN — **瑞丽棒鼻白蚁** (*Parrhinotermes ruiliensis*) is a species of the 
 
 ES — **瑞丽棒鼻白蚁** (*Parrhinotermes ruiliensis*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Tsai & Huang en 1982; la localidad tipo es China: Yunnan Province: Ruili. Distribución: China, Yunnan.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *ruiliensis*：以地名 瑞丽（云南） 命名
+
+EN — epithet *ruiliensis*: Named after the locality Ruil
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

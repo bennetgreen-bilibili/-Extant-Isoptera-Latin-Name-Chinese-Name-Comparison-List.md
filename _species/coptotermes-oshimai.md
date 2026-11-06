@@ -29,6 +29,18 @@ EN — **大岛乳白蚁** (*Coptotermes oshimai*) is a species of the genus *Co
 
 ES — **大岛乳白蚁** (*Coptotermes oshimai*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Light & Davis en 1929; la localidad tipo es Indonesia: Sulawesi: Maros. Distribución: Indonesia (Sulawesi).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *oshimai*：以人名 oshima 命名（具体指向待考）
+
+EN — epithet *oshimai*: Named after a person (oshima), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

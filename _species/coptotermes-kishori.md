@@ -29,6 +29,18 @@ EN — **基绍乳白蚁** (*Coptotermes kishori*) is a species of the genus *Co
 
 ES — **基绍乳白蚁** (*Coptotermes kishori*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: West Bengal: Murshidabad District: Berhampur. Distribución: India.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *kishori*：以人名 kishor 命名（具体指向待考）
+
+EN — epithet *kishori*: Named after a person (kishor), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

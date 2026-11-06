@@ -34,6 +34,18 @@ EN — **比森锯白蚁** (*Microcerotermes beesoni*) is a species of the genus
 
 ES — **比森锯白蚁** (*Microcerotermes beesoni*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Snyder en 1933; la localidad tipo es India: Uttarakhand: Haldwani: Chakrata Range. Distribución: South Asia, India, Bangladesh, Bhutan, Pakistan. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *beesoni*：以人名 Beeson 命名（英国林学家 C. F. C. Beeson）
+
+EN — epithet *beesoni*: Named after the forest entomologist C. F. C. Beeson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

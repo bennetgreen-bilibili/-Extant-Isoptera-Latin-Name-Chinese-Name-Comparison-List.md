@@ -29,6 +29,18 @@ EN — **筒头堆砂白蚁** (*Cryptotermes cylindroceps*) is a species of the 
 
 ES — **筒头堆砂白蚁** (*Cryptotermes cylindroceps*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 1999; la localidad tipo es Curaçao: Santa Barbara. Distribución: South America, Venezuela, Colombia, Aruba, Bonaire, Curaçao.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *cylindroceps*：拉丁文/希腊文 cylindro（圆柱）+ ceps（头），指圆柱头
+
+EN — epithet *cylindroceps*: From cylindro (圆柱) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

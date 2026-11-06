@@ -32,6 +32,18 @@ EN — **反色慢白蚁** (*Tarditermes contracolor*) is the only extant specie
 
 ES — **反色慢白蚁** (*Tarditermes contracolor*) es la única especie viviente del género *Tarditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución: Congo (Kinshasa), Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Tarditermes*：属名由拉丁文 tardus（迟缓的）与 termes（白蚁）组合。
+
+EN — *Tarditermes*: From Latin tardus (slow) + termes.
+
+种加词 *contracolor*：拉丁文 contra（相对）+ color（色），对比色
+
+EN — epithet *contracolor*: Latin contra (against) + color (colour), contrasting colour
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

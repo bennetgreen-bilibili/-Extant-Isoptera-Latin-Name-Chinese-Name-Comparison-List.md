@@ -31,6 +31,18 @@ EN — **黑头距白蚁** (*Calcaritermes nigriceps*) is a species of the genus
 
 ES — **黑头距白蚁** (*Calcaritermes nigriceps*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *nigriceps*：拉丁文 niger（黑）+ -ceps（头），黑头
+
+EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

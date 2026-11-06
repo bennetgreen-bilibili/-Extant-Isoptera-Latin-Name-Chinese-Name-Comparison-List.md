@@ -32,6 +32,18 @@ EN — **本杰明生白蚁** (*Embiratermes benjamini*) is a species of the gen
 
 ES — **本杰明生白蚁** (*Embiratermes benjamini*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución: Bolivia, Venezuela.
 
+## 词源
+
+属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
+
+EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
+
+种加词 *benjamini*：以人名 benjamin 命名（具体指向待考）
+
+EN — epithet *benjamini*: Named after a person (benjamin), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

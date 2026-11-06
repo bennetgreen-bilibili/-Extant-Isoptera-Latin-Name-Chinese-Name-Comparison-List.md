@@ -29,6 +29,18 @@ EN — **布龙木白蚁** (*Kalotermes brouni*) is a species of the genus *Kalo
 
 ES — **布龙木白蚁** (*Kalotermes brouni*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es New Zealand: Westfield, near Auckland. Distribución: New Zealand.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *brouni*：以人名 broun 命名（具体指向待考）
+
+EN — epithet *brouni*: Named after a person (broun), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

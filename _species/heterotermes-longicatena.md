@@ -29,6 +29,18 @@ EN — **长链异白蚁** (*Heterotermes longicatena*) is a species of the genu
 
 ES — **长链异白蚁** (*Heterotermes longicatena*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Watson & Miller en 1989; la localidad tipo es Australia: New South Wales: Binya State Forest. Distribución: Australia.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *longicatena*：拉丁文/希腊文词根「long」（长）
+
+EN — epithet *longicatena*: From the descriptive term 'long' (long)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

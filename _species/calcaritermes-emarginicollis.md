@@ -29,6 +29,18 @@ EN — **刻颈距白蚁** (*Calcaritermes emarginicollis*) is a species of the 
 
 ES — **刻颈距白蚁** (*Calcaritermes emarginicollis*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Rio Chinilla. Distribución: Central America, Costa Rica, Panama, Honduras, Belize.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *emarginicollis*：拉丁文/希腊文 emargini（凹缘）+ collis（颈），指凹缘颈
+
+EN — epithet *emarginicollis*: From emargini (凹缘) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

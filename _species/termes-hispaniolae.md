@@ -32,6 +32,18 @@ EN — **伊斯帕尼奥拉白蚁** (*Termes hispaniolae*) is a species of the g
 
 ES — **伊斯帕尼奥拉白蚁** (*Termes hispaniolae*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Banks en 1918; la localidad tipo es Haiti: ?; Panama: ?. Distribución: Neotropics, Central America and the Caribbean, widely distributed in northern South America, Belize, Bolivia, Brazil, Cayman Islands, Colombia, Costa Rica, Cuba, Dominican Republic, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Mexico, Montserrat, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Anguilla, Saint Lucia, Trinidad and Tobago, Venezuela, U.S. Virgin Islands, introduced: Bahamas.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *hispaniolae*：以人名 hispaniol 命名（具体指向待考）
+
+EN — epithet *hispaniolae*: Named after a person (hispaniol), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

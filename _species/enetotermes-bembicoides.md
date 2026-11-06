@@ -32,6 +32,18 @@ EN — **似陀针筒白蚁** (*Enetotermes bembicoides*) is the only extant spe
 
 ES — **似陀针筒白蚁** (*Enetotermes bembicoides*) es la única especie viviente del género *Enetotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Zambia: Lusaka. Distribución: Zambia.
 
+## 词源
+
+属名 *Enetotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Enetotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *bembicoides*：希腊文 bembyx（蜂）+ -oides（似），似蜂
+
+EN — epithet *bembicoides*: Greek bembyx (bee) + -oides (like), bee-like
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

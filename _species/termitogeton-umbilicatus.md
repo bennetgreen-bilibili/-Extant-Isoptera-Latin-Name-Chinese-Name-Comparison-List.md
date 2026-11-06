@@ -29,6 +29,18 @@ EN — **中凹寡脉白蚁** (*Termitogeton umbilicatus*) is a species of the g
 
 ES — **中凹寡脉白蚁** (*Termitogeton umbilicatus*) es una especie del género *Termitogeton*, en la familia TERMITOGETONIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Sri Lanka: Rambodde. Distribución: Sri Lanka.
 
+## 词源
+
+属名 *Termitogeton*：属名由希腊文 termit-（白蚁）+ geitōn（邻居、邻近者）组合，意为「白蚁的邻居」。
+
+EN — *Termitogeton*: From Greek termit- (termite) + geitōn (neighbor), 'termite's neighbor'.
+
+种加词 *umbilicatus*：拉丁文 umbilicatus（具脐的）
+
+EN — epithet *umbilicatus*: Latin umbilicatus (umbilicate)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[寡脉白蚁科 TERMITOGETONIDAE]({{ site.base_url }}/family/termitogetonidae/) —— 本站收录 1 属 2 种（1 genus, 2 species · 1 género, 2 especies）

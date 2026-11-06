@@ -32,6 +32,18 @@ EN — **印度亮白蚁** (*Euhamitermes indicus*) is a species of the genus *E
 
 ES — **印度亮白蚁** (*Euhamitermes indicus*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es India: Tamil Nadu: Shevaroy Hills. Distribución: India, Tamil Nadu.
 
+## 词源
+
+属名 *Euhamitermes*：属名由希腊文 eu-（良好、真）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *indicus*：地名：印度
+
+EN — epithet *indicus*: After India
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

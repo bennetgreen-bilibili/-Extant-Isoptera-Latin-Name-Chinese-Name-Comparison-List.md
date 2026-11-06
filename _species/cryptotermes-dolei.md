@@ -29,6 +29,18 @@ EN — **多尔堆砂白蚁** (*Cryptotermes dolei*) is a species of the genus *
 
 ES — **多尔堆砂白蚁** (*Cryptotermes dolei*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1932; la localidad tipo es Polynesia (French): Marquesas: Eiao; Marquesas: Fatuhiva, Ouia Valley; Marquesas: Hivaoa, Anatuakina; Marquesas: Mohotani; Marquesas: Nukuhiva; Marquesas: Uahuka, Haahue Valley; Marquesas: Uahuka, Hanahoua Valley; Marquesas: Uapou. Distribución: French Polynesia.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *dolei*：以人名 dole 命名（具体指向待考）
+
+EN — epithet *dolei*: Named after a person (dole), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

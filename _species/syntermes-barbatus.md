@@ -32,6 +32,18 @@ EN — **倒钩聚白蚁** (*Syntermes barbatus*) is a species of the genus *Syn
 
 ES — **倒钩聚白蚁** (*Syntermes barbatus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino en 1995; la localidad tipo es Brasil: Distrito Federal: Fazenda Água Limpa \[15.9667S 47.9061W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Syntermes*：属名由希腊文 syn-（合、共）与拉丁文 termes（白蚁）组合。
+
+EN — *Syntermes*: From Greek syn- (together) + Latin termes.
+
+种加词 *barbatus*：拉丁文/希腊文 barb（髯）+ atus（具），指髯具
+
+EN — epithet *barbatus*: From barb (髯) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

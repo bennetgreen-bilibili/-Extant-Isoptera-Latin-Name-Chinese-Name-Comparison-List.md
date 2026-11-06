@@ -32,6 +32,18 @@ EN — **策特克阿劳若白蚁** (*Araujotermes zeteki*) is a species of the 
 
 ES — **策特克阿劳若白蚁** (*Araujotermes zeteki*) es una especie del género *Araujotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Summit. Distribución: Colombia, Brazil, Panama, Venezuela.
 
+## 词源
+
+属名 *Araujotermes*：属名以人名 Araujo 命名（巴西白蚁学家 R. L. Araujo），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Araujotermes*: Named after the termite taxonomist R. L. Araujo; -termes from Latin termes.
+
+种加词 *zeteki*：以人名 zetek 命名（具体指向待考）
+
+EN — epithet *zeteki*: Named after a person (zetek), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

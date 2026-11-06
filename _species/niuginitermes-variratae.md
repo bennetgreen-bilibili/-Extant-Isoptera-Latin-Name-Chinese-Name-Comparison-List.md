@@ -32,6 +32,18 @@ EN — **瓦里拉塔新几内亚白蚁** (*Niuginitermes variratae*) is a speci
 
 ES — **瓦里拉塔新几内亚白蚁** (*Niuginitermes variratae*) es una especie, y la especie tipo de su género del género *Niuginitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Central Province: Varirata National Park. Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Niuginitermes*：属名由 Niugini（新几内亚，皮钦语）与 termes（白蚁）组合。
+
+EN — *Niuginitermes*: From Niugini (New Guinea) + termes.
+
+种加词 *variratae*：以人名 varirat 命名（具体指向待考）
+
+EN — epithet *variratae*: Named after a person (varirat), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

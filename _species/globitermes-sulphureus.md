@@ -34,6 +34,18 @@ EN — **黄球白蚁** (*Globitermes sulphureus*) is a species of the genus *Gl
 
 ES — **黄球白蚁** (*Globitermes sulphureus*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Selangor: Perak. Distribución: mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
+
+EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
+
+种加词 *sulphureus*：拉丁文 sulphureus（硫黄色的）
+
+EN — epithet *sulphureus*: Latin sulphureus (sulphur-yellow)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

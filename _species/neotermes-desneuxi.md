@@ -29,6 +29,18 @@ EN — **德纳新白蚁** (*Neotermes desneuxi*) is a species of the genus *Neo
 
 ES — **德纳新白蚁** (*Neotermes desneuxi*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Madagascar: ?. Distribución: Madagascar, Tanzania.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *desneuxi*：以人名 desneux 命名（比利时白蚁学家 J. Desneux）
+
+EN — epithet *desneuxi*: Named after 比利时白蚁学家 J. Desneux
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

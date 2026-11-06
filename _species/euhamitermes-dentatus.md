@@ -32,6 +32,18 @@ EN — **具齿亮白蚁** (*Euhamitermes dentatus*) is a species of the genus *
 
 ES — **具齿亮白蚁** (*Euhamitermes dentatus*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Thakur & Chatterjee en 1974; la localidad tipo es India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli. Distribución: India, Andhra Pradesh.
 
+## 词源
+
+属名 *Euhamitermes*：属名由希腊文 eu-（良好、真）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *dentatus*：拉丁文 dentatus（有齿的）
+
+EN — epithet *dentatus*: Latin dentatus (toothed)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

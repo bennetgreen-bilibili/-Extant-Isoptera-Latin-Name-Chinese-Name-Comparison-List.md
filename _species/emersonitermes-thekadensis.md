@@ -32,6 +32,18 @@ EN — **卡迪埃默森白蚁** (*Emersonitermes thekadensis*) is the only exta
 
 ES — **卡迪埃默森白蚁** (*Emersonitermes thekadensis*) es la única especie viviente del género *Emersonitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathur & Sen-Sarma en 1959; la localidad tipo es India: Kerala (Travancore): Thekaday. Distribución: India.
 
+## 词源
+
+属名 *Emersonitermes*：属名以人名 Emerson 命名（美国白蚁学家 A. E. Emerson），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Emersonitermes*: Named after the termite taxonomist A. E. Emerson; -termes from Latin termes.
+
+种加词 *thekadensis*：以地名 Thekadi（印度）命名
+
+EN — epithet *thekadensis*: Named after Thekadi, India
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

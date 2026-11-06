@@ -32,6 +32,18 @@ EN — **地下解甲白蚁** (*Anoplotermes subterraneus*) is a species of the 
 
 ES — **地下解甲白蚁** (*Anoplotermes subterraneus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Guyana, Venezuela.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *subterraneus*：拉丁文 subterraneus（地下的）
+
+EN — epithet *subterraneus*: Latin subterraneus (subterranean)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) is a species and the t
 
 ES — **相等棒鼻白蚁** (*Parrhinotermes aequalis*) es una especie, y la especie tipo de su género del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Malaysia, Sarawak, Indonesia.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *aequalis*：拉丁文/希腊文 aequ（相等）+ alis（相关），指相等相关
+
+EN — epithet *aequalis*: From aequ (相等) + alis (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

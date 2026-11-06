@@ -32,6 +32,18 @@ EN — **山神厚唇白蚁** (*Labiotermes oreadicus*) is a species of the genu
 
 ES — **山神厚唇白蚁** (*Labiotermes oreadicus*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino en 2006; la localidad tipo es Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *oreadicus*：希腊文 Oreas（山林仙女，Oread）
+
+EN — epithet *oreadicus*: Greek Oreas (a mountain nymph, an Oread)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

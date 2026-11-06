@@ -29,6 +29,18 @@ EN — **似小齿棒鼻白蚁** (*Parrhinotermes microdentiformisoides*) is a s
 
 ES — **似小齿棒鼻白蚁** (*Parrhinotermes microdentiformisoides*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Beaufort District: Beaufort. Distribución: Thailand, Malaysia.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *microdentiformisoides*：拉丁文/希腊文 microdentiformis（小）+ oides（似），指小似
+
+EN — epithet *microdentiformisoides*: From microdentiformis (小) + oides (似)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

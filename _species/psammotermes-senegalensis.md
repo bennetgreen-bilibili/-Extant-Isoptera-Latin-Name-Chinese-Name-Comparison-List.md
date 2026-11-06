@@ -29,6 +29,18 @@ EN — **塞内加尔沙白蚁** (*Psammotermes senegalensis*) is a species of t
 
 ES — **塞内加尔沙白蚁** (*Psammotermes senegalensis*) es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Senegal: Dakar. Distribución: Nigeria, Senegal.
 
+## 词源
+
+属名 *Psammotermes*：属名由希腊文 psammos（沙）与拉丁文 termes（白蚁）组合。
+
+EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
+
+种加词 *senegalensis*：以地名 塞内加尔 命名
+
+EN — epithet *senegalensis*: Named after the locality Senegal
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

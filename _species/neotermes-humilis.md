@@ -29,6 +29,18 @@ EN — **小新白蚁** (*Neotermes humilis*) is a species of the genus *Neoterm
 
 ES — **小新白蚁** (*Neotermes humilis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Han en 1984; la localidad tipo es China: Guangxi Province: Longgang, Ningming. Distribución: China.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *humilis*：拉丁文 humilis（低矮的、谦卑的）
+
+EN — epithet *humilis*: Latin humilis (low, humble)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

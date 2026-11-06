@@ -32,6 +32,18 @@ EN — **安哥拉节白蚁** (*Noditermes angolensis*) is a species of the genu
 
 ES — **安哥拉节白蚁** (*Noditermes angolensis*) es una especie del género *Noditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Weidner en 1974; la localidad tipo es Angola: Alto Chicapa. Distribución: Angola.
 
+## 词源
+
+属名 *Noditermes*：属名由拉丁文 nodus（结、瘤）与 termes（白蚁）组合。
+
+EN — *Noditermes*: From Latin nodus (knot, node) + termes.
+
+种加词 *angolensis*：以地名 安哥拉 命名
+
+EN — epithet *angolensis*: Named after the locality Angol
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

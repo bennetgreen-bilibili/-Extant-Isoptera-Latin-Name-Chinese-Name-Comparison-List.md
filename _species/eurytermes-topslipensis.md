@@ -32,6 +32,18 @@ EN — **托普斯利普宽白蚁** (*Eurytermes topslipensis*) is a species of 
 
 ES — **托普斯利普宽白蚁** (*Eurytermes topslipensis*) es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Chatterjee & Thapa en 1963; la localidad tipo es India: Tamil Nadu: Topslip: Mount Stuart. Distribución: South Asia, Western Ghats, India.
 
+## 词源
+
+属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
+
+EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
+
+种加词 *topslipensis*：以地名 托普斯利普（印度） 命名
+
+EN — epithet *topslipensis*: Named after the locality Topslip
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

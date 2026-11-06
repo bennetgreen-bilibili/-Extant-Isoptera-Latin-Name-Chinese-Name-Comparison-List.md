@@ -29,6 +29,18 @@ EN — **尼日利亚新白蚁** (*Neotermes nigeriensis*) is a species of the g
 
 ES — **尼日利亚新白蚁** (*Neotermes nigeriensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Nigeria: Oban District. Distribución: Nigeria.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *nigeriensis*：以地名 尼日利亚 命名
+
+EN — epithet *nigeriensis*: Named after the locality Niger
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

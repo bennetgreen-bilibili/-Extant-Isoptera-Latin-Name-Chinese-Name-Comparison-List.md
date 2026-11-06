@@ -32,6 +32,18 @@ EN — **克里希纳腐殖白蚁** (*Humutermes krishnai*) is a species and the
 
 ES — **克里希纳腐殖白蚁** (*Humutermes krishnai*) es una especie, y la especie tipo de su género del género *Humutermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución: Neotropics, Panama, Colombia, French Guiana, Brazil, Ecuador.
 
+## 词源
+
+属名 *Humutermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Humutermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
+
+EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

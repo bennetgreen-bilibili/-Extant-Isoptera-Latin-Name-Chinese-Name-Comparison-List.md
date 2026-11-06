@@ -31,6 +31,18 @@ EN — **栗色新白蚁** (*Neotermes castaneus*) is a species and the type spe
 
 ES — **栗色新白蚁** (*Neotermes castaneus*) es una especie, y la especie tipo de su género del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *castaneus*：拉丁文 castaneus（栗色）
+
+EN — epithet *castaneus*: Latin castaneus (chestnut)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

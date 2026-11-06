@@ -32,6 +32,18 @@ EN — **科切拉弓白蚁** (*Amitermes coachellae*) is a species of the genus
 
 ES — **科切拉弓白蚁** (*Amitermes coachellae*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1930; la localidad tipo es United States: California: Palm Springs Station, Mission Canyon; Nevada: Upper Coachella Valley, Boulder. Distribución: United States.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *coachellae*：以人名 coachell 命名（具体指向待考）
+
+EN — epithet *coachellae*: Named after a person (coachell), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -31,6 +31,18 @@ EN — **完美毛白蚁** (*Comatermes perfectus*) is the only extant species o
 
 ES — **完美毛白蚁** (*Comatermes perfectus*) es la única especie viviente del género *Comatermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es (country unknown): ?. Distribución: Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Comatermes*：属名由希腊文 komē（毛发）与拉丁文 termes（白蚁）组合。
+
+EN — *Comatermes*: From Greek komē (hair) + Latin termes.
+
+种加词 *perfectus*：拉丁文 perfectus（完善的、完美的）
+
+EN — epithet *perfectus*: Latin perfectus (perfect)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

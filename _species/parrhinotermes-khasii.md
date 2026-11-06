@@ -29,6 +29,18 @@ EN — **卡西棒鼻白蚁** (*Parrhinotermes khasii*) is a species of the genu
 
 ES — **卡西棒鼻白蚁** (*Parrhinotermes khasii*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Roonwal & Sen-Sarma en 1956; la localidad tipo es India: Assam: Khasi Hills, bank of river Nong-priang. Distribución: Tibet (Mêdog: Beibeng 800 m, Yarang 1000 m); India (Assam: Khasi Hills 366 m).
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *khasii*：以人名 khas 命名（具体指向待考）
+
+EN — epithet *khasii*: Named after a person (khas), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

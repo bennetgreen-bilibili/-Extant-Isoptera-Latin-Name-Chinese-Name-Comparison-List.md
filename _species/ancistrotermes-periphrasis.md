@@ -32,6 +32,18 @@ EN — **迂回钩白蚁** (*Ancistrotermes periphrasis*) is a species of the ge
 
 ES — **迂回钩白蚁** (*Ancistrotermes periphrasis*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Sudan: El Amira-Bir Joghan; Khor El Affin. Distribución: Democratic Republic of the Congo, Ethiopia, Ghana, Sudan.
 
+## 词源
+
+属名 *Ancistrotermes*：属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。
+
+EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
+
+种加词 *periphrasis*：希腊文 periphrasis（迂回的说法）
+
+EN — epithet *periphrasis*: Greek periphrasis (circumlocution)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

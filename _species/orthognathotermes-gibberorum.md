@@ -32,6 +32,18 @@ EN — **驼背直颚白蚁** (*Orthognathotermes gibberorum*) is a species of t
 
 ES — **驼背直颚白蚁** (*Orthognathotermes gibberorum*) es una especie del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución: Brazil, Guiana Shield.
 
+## 词源
+
+属名 *Orthognathotermes*：属名由希腊文 orthos（直）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
+
+种加词 *gibberorum*：以人名 gibber 命名（具体指向待考）
+
+EN — epithet *gibberorum*: Named after a person (gibber), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **合江象白蚁** (*Nasutitermes hejiangensis*) is a species of the gen
 
 ES — **合江象白蚁** (*Nasutitermes hejiangensis*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gao & Tian en 1990; la localidad tipo es China: Sichuan Province: Hejiang. Distribución: China.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *hejiangensis*：以地名 合江（四川） 命名
+
+EN — epithet *hejiangensis*: Named after the locality Hejiang
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

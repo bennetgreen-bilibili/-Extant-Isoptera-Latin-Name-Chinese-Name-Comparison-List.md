@@ -31,6 +31,18 @@ EN — **黄色原鼻白蚁** (*Prorhinotermes flavus*) is a species of the genu
 
 ES — **黄色原鼻白蚁** (*Prorhinotermes flavus*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Bugnion & Popoff en 1910; la localidad tipo es Sri Lanka: Ambalangoda. Distribución: Southeast Asia, Philippines, Singapore, Thailand, South Asia, India, Sri Lanka, Bangladesh, China, Indonesia, Malaysia, Taiwan. Este sitio registra 9 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *flavus*：拉丁文 flavus（黄）
+
+EN — epithet *flavus*: Latin flavus (yellow)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

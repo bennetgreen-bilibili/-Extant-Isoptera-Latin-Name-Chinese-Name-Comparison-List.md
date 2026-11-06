@@ -29,6 +29,18 @@ EN — **克拉丽塔尖鼻白蚁** (*Acorhinotermes claritae*) is a species of 
 
 ES — **克拉丽塔尖鼻白蚁** (*Acorhinotermes claritae*) es una especie del género *Acorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Castro & Scheffrahn en 2019; la localidad tipo es Colombia: Amazonas, Leticia \[ 4.21528S 69.9406W \]. Distribución: Colombia, Brazil, Venezuela.
 
+## 词源
+
+属名 *Acorhinotermes*：属名含希腊文 rhis（鼻）与拉丁文 termes（白蚁）；前缀 acorhin- 组成未详。
+
+EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
+
+种加词 *claritae*：以人名 clarit 命名（具体指向待考）
+
+EN — epithet *claritae*: Named after a person (clarit), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

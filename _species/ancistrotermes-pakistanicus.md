@@ -34,6 +34,18 @@ EN — **巴基斯坦钩白蚁** (*Ancistrotermes pakistanicus*) is a species of
 
 ES — **巴基斯坦钩白蚁** (*Ancistrotermes pakistanicus*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ahmad en 1955; la localidad tipo es Bangladesh: Chittagong Hills: Mainimukh. Distribución: South Asia, Southeast Asia, Pakistan, Thailand, Laos, Malaysia, Bangladesh, Cameroon, India, Indonesia, Myanmar, Singapore, Vietnam. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Ancistrotermes*：属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。
+
+EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
+
+种加词 *pakistanicus*：地名：巴基斯坦
+
+EN — epithet *pakistanicus*: After Pakistan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

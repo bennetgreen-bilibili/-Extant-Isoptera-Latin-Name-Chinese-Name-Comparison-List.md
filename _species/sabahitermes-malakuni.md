@@ -32,6 +32,18 @@ EN — **马拉昆沙巴白蚁** (*Sabahitermes malakuni*) is a species and the 
 
 ES — **马拉昆沙巴白蚁** (*Sabahitermes malakuni*) es una especie, y la especie tipo de su género del género *Sabahitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Thapa en 1997; la localidad tipo es Malaysia: Sabah: Sipitang district, foothills of Gunung Lumaku Crocker Range. Distribución: Malaysia.
 
+## 词源
+
+属名 *Sabahitermes*：属名由地名 Sabah（沙巴，马来西亚）与 termes（白蚁）组合。
+
+EN — *Sabahitermes*: From Sabah (Malaysia) + termes.
+
+种加词 *malakuni*：以人名 malakun 命名（具体指向待考）
+
+EN — epithet *malakuni*: Named after a person (malakun), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

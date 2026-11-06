@@ -32,6 +32,18 @@ EN — **优势大白蚁** (*Macrotermes herus*) is a species of the genus *Macr
 
 ES — **优势大白蚁** (*Macrotermes herus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Ethiopia: Dire-Dauna. Distribución: Old World tropics, West Africa, East Africa, Ethiopia, Guinea, Kenya, Nigeria, Somalia, Sudan, Tanzania.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *herus*：拉丁文 herus（主人）
+
+EN — epithet *herus*: Latin herus (master)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

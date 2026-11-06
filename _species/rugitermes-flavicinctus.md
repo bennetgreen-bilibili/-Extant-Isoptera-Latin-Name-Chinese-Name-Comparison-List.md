@@ -29,6 +29,18 @@ EN — **金黄皱白蚁** (*Rugitermes flavicinctus*) is a species of the genus
 
 ES — **金黄皱白蚁** (*Rugitermes flavicinctus*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Brazil, Guyana, Trinidad and Tobago.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *flavicinctus*：拉丁文/希腊文词根「flav」（黄）
+
+EN — epithet *flavicinctus*: From the descriptive term 'flav' (yellow)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

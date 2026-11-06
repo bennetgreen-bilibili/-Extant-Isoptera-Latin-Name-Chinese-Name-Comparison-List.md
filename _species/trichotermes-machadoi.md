@@ -32,6 +32,18 @@ EN — **马查多发白蚁** (*Trichotermes machadoi*) is a species of the genu
 
 ES — **马查多发白蚁** (*Trichotermes machadoi*) es una especie del género *Trichotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Weidner en 1974; la localidad tipo es Angola: Dundo: Caieno, "affl. du Canzololo, rive dr. du Luachimo.". Distribución: Old World tropics.
 
+## 词源
+
+属名 *Trichotermes*：属名由希腊文 thrix（毛、发）与拉丁文 termes（白蚁）组合。
+
+EN — *Trichotermes*: From Greek thrix (hair) + Latin termes.
+
+种加词 *machadoi*：以人名 machado 命名（具体指向待考）
+
+EN — epithet *machadoi*: Named after a person (machado), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

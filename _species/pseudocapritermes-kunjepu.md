@@ -32,6 +32,18 @@ EN — **昆杰普伪扭白蚁** (*Pseudocapritermes kunjepu*) is a species of t
 
 ES — **昆杰普伪扭白蚁** (*Pseudocapritermes kunjepu*) es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Mathew en 2020; la localidad tipo es India: Kerala: Kottayam, Pinnakkanadu \[ 9.63N 76.76E \]. Distribución: India, Indonesia.
 
+## 词源
+
+属名 *Pseudocapritermes*：属名由希腊文 pseudēs（假）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
+
+种加词 *kunjepu*：以当地土名或地名命名（具体指向待考）
+
+EN — epithet *kunjepu*: After a local vernacular name or place (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

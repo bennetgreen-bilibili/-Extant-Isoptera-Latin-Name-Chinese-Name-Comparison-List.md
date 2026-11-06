@@ -34,6 +34,18 @@ EN — **蜂头冢白蚁** (*Tumulitermes apiocephalus*) is a species of the gen
 
 ES — **蜂头冢白蚁** (*Tumulitermes apiocephalus*) es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1909; la localidad tipo es Australia: Western Australia: Northhampton or Jurrandale. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Tumulitermes*：属名由拉丁文 tumulus（土丘、坟）与 termes（白蚁）组合。
+
+EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
+
+种加词 *apiocephalus*：拉丁文 apium（梨）+ 希腊文 kephalē（头），梨头
+
+EN — epithet *apiocephalus*: Latin apium (pear) + Greek kephalē (head), pear-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

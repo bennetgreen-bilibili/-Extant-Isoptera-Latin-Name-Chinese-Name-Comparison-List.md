@@ -29,6 +29,18 @@ EN — **穆鲁伊尖鼻白蚁** (*Acorhinotermes murui*) is a species of the ge
 
 ES — **穆鲁伊尖鼻白蚁** (*Acorhinotermes murui*) es una especie del género *Acorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Castro en 2023; la localidad tipo es Colombia: Amazon basin. Distribución: Colombia (Amazon basin).
 
+## 词源
+
+属名 *Acorhinotermes*：属名含希腊文 rhis（鼻）与拉丁文 termes（白蚁）；前缀 acorhin- 组成未详。
+
+EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
+
+种加词 *murui*：以人名 muru 命名（具体指向待考）
+
+EN — epithet *murui*: Named after a person (muru), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

@@ -29,6 +29,18 @@ EN — **克里希纳距白蚁** (*Calcaritermes krishnai*) is a species of the 
 
 ES — **克里希纳距白蚁** (*Calcaritermes krishnai*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Maiti & Chakraborty en 1981; la localidad tipo es India: Nicobar Islands: Great Nicobar Island: Champa Bay. Distribución: India (Nicobar Islands).
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
+
+EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

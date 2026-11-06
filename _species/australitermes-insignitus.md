@@ -32,6 +32,18 @@ EN — **易辨澳大利亚白蚁** (*Australitermes insignitus*) is a species o
 
 ES — **易辨澳大利亚白蚁** (*Australitermes insignitus*) es una especie del género *Australitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Northern Territory: Wauchope Creek, 75 mi S Tennants Creek. Distribución: Australia.
 
+## 词源
+
+属名 *Australitermes*：属名由拉丁文 australis（南方的）与 termes（白蚁）组合。
+
+EN — *Australitermes*: From Latin australis (southern) + termes.
+
+种加词 *insignitus*：拉丁文 insignitus（具标记的）
+
+EN — epithet *insignitus*: Latin insignitus (marked)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

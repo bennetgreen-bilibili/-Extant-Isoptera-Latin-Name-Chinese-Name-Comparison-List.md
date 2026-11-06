@@ -32,6 +32,18 @@ EN — **卡埃特巨鼻白蚁** (*Cyranotermes caete*) is a species of the genu
 
 ES — **卡埃特巨鼻白蚁** (*Cyranotermes caete*) es una especie del género *Cyranotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cancello en 1987; la localidad tipo es Brasil: Pará: Serra dos Carajás \[6.07S 50.066W\]. Distribución: Brazil, French Guiana.
 
+## 词源
+
+属名 *Cyranotermes*：属名由 Cyrano（戏剧人物 Cyrano de Bergerac，以长鼻著称）与 termes（白蚁）组合，指其长鼻状额突。
+
+EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
+
+种加词 *caete*：卡埃特族（巴西原住民）
+
+EN — epithet *caete*: After the Caeté people (Brazil)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

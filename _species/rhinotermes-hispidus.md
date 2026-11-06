@@ -29,6 +29,18 @@ EN — **多毛鼻白蚁** (*Rhinotermes hispidus*) is a species of the genus *R
 
 ES — **多毛鼻白蚁** (*Rhinotermes hispidus*) es una especie del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Brazil, French Guiana, Colombia, Bolivia, Ecuador, Peru, Venezuela.
 
+## 词源
+
+属名 *Rhinotermes*：属名由希腊文 rhis（鼻）与拉丁文 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
+
+种加词 *hispidus*：拉丁文 hispidus（粗毛的、具硬毛的）
+
+EN — epithet *hispidus*: Latin hispidus (bristly)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

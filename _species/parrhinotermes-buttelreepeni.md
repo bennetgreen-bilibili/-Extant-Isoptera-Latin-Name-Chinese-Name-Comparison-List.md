@@ -29,6 +29,18 @@ EN — **巴特里彭棒鼻白蚁** (*Parrhinotermes buttelreepeni*) is a specie
 
 ES — **巴特里彭棒鼻白蚁** (*Parrhinotermes buttelreepeni*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Sumatra: Bandar Baroe; Malaysia: Taiping: Maxwell’s Hill. Distribución: Southeast Asia, Sumatra, Indonesia, Malaysia.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *buttelreepeni*：以人名 von Buttel-Reepen 命名（德国昆虫学家 H. von Buttel-Reepen）
+
+EN — epithet *buttelreepeni*: Named after the entomologist H. von Buttel-Reepen
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

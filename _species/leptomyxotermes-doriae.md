@@ -32,6 +32,18 @@ EN — **多利亚薄喙白蚁** (*Leptomyxotermes doriae*) is the only extant s
 
 ES — **多利亚薄喙白蚁** (*Leptomyxotermes doriae*) es la única especie viviente del género *Leptomyxotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1912; la localidad tipo es Equatorial Guinea: Bioko Island: Basilé. Distribución: Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone.
 
+## 词源
+
+属名 *Leptomyxotermes*：属名由希腊文 leptos（细）+ myxa（黏液）与拉丁文 termes（白蚁）组合。
+
+EN — *Leptomyxotermes*: From Greek leptos (slender) + myxa (mucus) + Latin termes.
+
+种加词 *doriae*：以人名 dori 命名（具体指向待考）
+
+EN — epithet *doriae*: Named after a person (dori), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

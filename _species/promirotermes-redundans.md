@@ -32,6 +32,18 @@ EN — **常见前奇白蚁** (*Promirotermes redundans*) is a species of the ge
 
 ES — **常见前奇白蚁** (*Promirotermes redundans*) es una especie del género *Promirotermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución: Cameroon, Togo, Gambia, Ghana, Guinea, Nigeria, Senegal.
 
+## 词源
+
+属名 *Promirotermes*：属名由希腊文 pro-（前）+ 拉丁文 mirus（奇异）与 termes（白蚁）组合。
+
+EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
+
+种加词 *redundans*：拉丁文 redundans（多余的、溢出的）
+
+EN — epithet *redundans*: Latin redundans (redundant)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

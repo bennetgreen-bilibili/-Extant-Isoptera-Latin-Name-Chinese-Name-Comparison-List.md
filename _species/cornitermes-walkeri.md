@@ -34,6 +34,18 @@ EN — **沃克角象白蚁** (*Cornitermes walkeri*) is a species of the genus 
 
 ES — **沃克角象白蚁** (*Cornitermes walkeri*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1929; la localidad tipo es Panama: Río Tapia. Distribución: Costa Rica, Panama, Colombia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Cornitermes*: From Latin cornu (horn) + termes.
+
+种加词 *walkeri*：以人名 walker 命名（英国昆虫学家 F. Walker）
+
+EN — epithet *walkeri*: Named after 英国昆虫学家 F. Walker
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

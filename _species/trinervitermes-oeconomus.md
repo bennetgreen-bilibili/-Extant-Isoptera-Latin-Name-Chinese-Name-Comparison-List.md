@@ -34,6 +34,18 @@ EN — **根三脉白蚁** (*Trinervitermes oeconomus*) is a species of the genu
 
 ES — **根三脉白蚁** (*Trinervitermes oeconomus*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Trägårdh en 1904; la localidad tipo es Sudan: Kaka. Distribución: Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
+
+EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
+
+种加词 *oeconomus*：希腊文 oikonomos（节俭的、持家的）
+
+EN — epithet *oeconomus*: Greek oikonomos (economical)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

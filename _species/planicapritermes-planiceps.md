@@ -32,6 +32,18 @@ EN — **平头平扭白蚁** (*Planicapritermes planiceps*) is a species and th
 
 ES — **平头平扭白蚁** (*Planicapritermes planiceps*) es una especie, y la especie tipo de su género del género *Planicapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Brazil, Colombia, French Guiana, Guyana, Bolivia, Ecuador, Suriname, Venezuela.
 
+## 词源
+
+属名 *Planicapritermes*：属名由拉丁文 planus（平）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Planicapritermes*: From Latin planus (flat) + caper (goat) + termes.
+
+种加词 *planiceps*：拉丁文 planus（平）+ -ceps（头），平头
+
+EN — epithet *planiceps*: Latin planus (flat) + -ceps (head), flat-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

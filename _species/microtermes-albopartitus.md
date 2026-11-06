@@ -34,6 +34,18 @@ EN — **部白小白蚁** (*Microtermes albopartitus*) is a species of the genu
 
 ES — **部白小白蚁** (*Microtermes albopartitus*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Zimbabwe: Harare (Salisbury). Distribución: southern Africa, South Africa, Cameroon, Democratic Republic of the Congo, Malawi, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Microtermes*：属名由希腊文 mikros（小）与拉丁文 termes（白蚁）组合，意为「小白蚁」。
+
+EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
+
+种加词 *albopartitus*：拉丁文 albus（白）+ partitus（分开），白分
+
+EN — epithet *albopartitus*: Latin albus (white) + partitus (divided), white-divided
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

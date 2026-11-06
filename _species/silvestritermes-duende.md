@@ -32,6 +32,18 @@ EN — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) is a specie
 
 ES — **精灵西尔韦斯特里白蚁** (*Silvestritermes duende*) es una especie del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rocha & Cancello en 2012; la localidad tipo es Brasil: Pará: Serra do Cachimbo \[9.2719S 54.9394W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Silvestritermes*：属名以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Silvestritermes*: Named after the entomologist F. Silvestri; -termes from Latin termes.
+
+种加词 *duende*：西班牙语/葡萄牙语 duende（精灵、鬼怪）
+
+EN — epithet *duende*: Spanish/Portuguese duende (goblin)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

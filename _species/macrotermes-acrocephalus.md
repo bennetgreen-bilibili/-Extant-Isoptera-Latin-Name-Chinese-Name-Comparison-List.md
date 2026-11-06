@@ -32,6 +32,18 @@ EN — **隆头大白蚁** (*Macrotermes acrocephalus*) is a species of the genu
 
 ES — **隆头大白蚁** (*Macrotermes acrocephalus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ping en 1985; la localidad tipo es China: Yunnan Province: Ruili. Distribución: Yunnan, China, Ruili.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *acrocephalus*：希腊文 akros（尖、顶端）+ kephalē（头），尖头
+
+EN — epithet *acrocephalus*: Greek akros (apex) + kephalē (head), pointed-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

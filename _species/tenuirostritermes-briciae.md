@@ -32,6 +32,18 @@ EN — **布瑞西亚薄嘴白蚁** (*Tenuirostritermes briciae*) is a species o
 
 ES — **布瑞西亚薄嘴白蚁** (*Tenuirostritermes briciae*) es una especie del género *Tenuirostritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: Lombardia. Distribución: Mexico, Nicaragua, Belize, Guatemala, Honduras.
 
+## 词源
+
+属名 *Tenuirostritermes*：属名由拉丁文 tenuis（细）+ rostrum（喙、吻突）与 termes（白蚁）组合。
+
+EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
+
+种加词 *briciae*：以人名 brici 命名（具体指向待考）
+
+EN — epithet *briciae*: Named after a person (brici), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

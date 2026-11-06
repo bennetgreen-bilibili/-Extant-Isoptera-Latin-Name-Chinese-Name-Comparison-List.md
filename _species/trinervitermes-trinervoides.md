@@ -34,6 +34,18 @@ EN — **似三脉三脉白蚁** (*Trinervitermes trinervoides*) is a species of
 
 ES — **似三脉三脉白蚁** (*Trinervitermes trinervoides*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es South Africa: Cape Province: Laingsburg. Distribución: South Africa, Namibia, Democratic Republic of the Congo (Kinshasa), Democratic Republic of the Congo (Kinshasa), Lesotho, Mozambique, Eswatini, Zimbabwe. Este sitio registra 10 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
+
+EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
+
+种加词 *trinervoides*：拉丁文 tri-（三）+ nervus（脉）+ 希腊文 -oides（似），似三脉
+
+EN — epithet *trinervoides*: Latin tri- (three) + nervus (vein) + -oides (like)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

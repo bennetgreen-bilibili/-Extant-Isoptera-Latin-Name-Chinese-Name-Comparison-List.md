@@ -32,6 +32,18 @@ EN — **漏壶缩狭白蚁** (*Coarctotermes clepsydra*) is a species and the t
 
 ES — **漏壶缩狭白蚁** (*Coarctotermes clepsydra*) es una especie, y la especie tipo de su género del género *Coarctotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Madagascar: Fianarantsoa. Distribución: Madagascar.
 
+## 词源
+
+属名 *Coarctotermes*：属名由拉丁文 coarctatus（压缩的、缢缩的）与 termes（白蚁）组合。
+
+EN — *Coarctotermes*: From Latin coarctatus (compressed) + termes.
+
+种加词 *clepsydra*：希腊文 klepsydra（水钟）
+
+EN — epithet *clepsydra*: Greek klepsydra (water-clock)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

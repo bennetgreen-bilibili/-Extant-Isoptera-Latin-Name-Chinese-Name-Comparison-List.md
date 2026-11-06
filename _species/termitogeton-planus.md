@@ -31,6 +31,18 @@ EN — **平坦寡脉白蚁** (*Termitogeton planus*) is a species and the type 
 
 ES — **平坦寡脉白蚁** (*Termitogeton planus*) es una especie, y la especie tipo de su género del género *Termitogeton*, en la familia TERMITOGETONIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Termitogeton*：属名由希腊文 termit-（白蚁）+ geitōn（邻居、邻近者）组合，意为「白蚁的邻居」。
+
+EN — *Termitogeton*: From Greek termit- (termite) + geitōn (neighbor), 'termite's neighbor'.
+
+种加词 *planus*：拉丁文 planus（平）
+
+EN — epithet *planus*: Latin planus (flat)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[寡脉白蚁科 TERMITOGETONIDAE]({{ site.base_url }}/family/termitogetonidae/) —— 本站收录 1 属 2 种（1 genus, 2 species · 1 género, 2 especies）

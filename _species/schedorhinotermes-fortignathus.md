@@ -29,6 +29,18 @@ EN — **强颚长鼻白蚁** (*Schedorhinotermes fortignathus*) is a species of
 
 ES — **强颚长鼻白蚁** (*Schedorhinotermes fortignathus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Xia & He en 1980; la localidad tipo es China: Yunnan Province: Simao. Distribución: Yunnan (Simao)..
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *fortignathus*：拉丁文 fortis（强壮）+ 希腊文 gnathos（颚），强颚
+
+EN — epithet *fortignathus*: Latin fortis (strong) + Greek gnathos (jaw), strong-jawed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

@@ -29,6 +29,18 @@ EN — **最小乳白蚁** (*Coptotermes minutissimus*) is a species of the genu
 
 ES — **最小乳白蚁** (*Coptotermes minutissimus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: between Muna Island and SE Sulawesi, Berra Massidi. Distribución: Indonesia (Sulawesi).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *minutissimus*：拉丁文/希腊文词根「minutiss」（极微小）
+
+EN — epithet *minutissimus*: From the descriptive term 'minutiss' (very tiny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

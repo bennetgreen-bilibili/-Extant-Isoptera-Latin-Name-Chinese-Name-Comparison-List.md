@@ -32,6 +32,18 @@ EN — **弯曲原方白蚁** (*Procubitermes curvatus*) is a species of the gen
 
 ES — **弯曲原方白蚁** (*Procubitermes curvatus*) es una especie del género *Procubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne. Distribución: Ghana, Guinea, Côte d'Ivoire, Liberia.
 
+## 词源
+
+属名 *Procubitermes*：属名由希腊文 pro-（前）+ 拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
+
+种加词 *curvatus*：拉丁文/希腊文 curv（弯）+ atus（具），指弯具
+
+EN — epithet *curvatus*: From curv (弯) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

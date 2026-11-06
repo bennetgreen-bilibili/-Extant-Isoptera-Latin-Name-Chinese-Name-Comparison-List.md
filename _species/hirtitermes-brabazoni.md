@@ -32,6 +32,18 @@ EN — **布拉巴宗多毛白蚁** (*Hirtitermes brabazoni*) is a species of th
 
 ES — **布拉巴宗多毛白蚁** (*Hirtitermes brabazoni*) es una especie del género *Hirtitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gathorne-Hardy en 2001; la localidad tipo es Indonesia: Sulawesi: Dumoga-Bone National Park. Distribución: Indonesia.
 
+## 词源
+
+属名 *Hirtitermes*：属名由拉丁文 hirtus（多毛的）与 termes（白蚁）组合。
+
+EN — *Hirtitermes*: From Latin hirtus (hairy) + termes.
+
+种加词 *brabazoni*：以人名 brabazon 命名（具体指向待考）
+
+EN — epithet *brabazoni*: Named after a person (brabazon), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

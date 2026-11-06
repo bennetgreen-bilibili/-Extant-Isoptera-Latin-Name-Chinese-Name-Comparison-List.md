@@ -34,6 +34,18 @@ EN — **环带弯肠白蚁** (*Aparatermes cingulatus*) is a species of the gen
 
 ES — **环带弯肠白蚁** (*Aparatermes cingulatus*) es una especie del género *Aparatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: Rio Grande do Sul: Porto Alegre \[ 30.07S 51.18W \]. Distribución: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Aparatermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Aparatermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *cingulatus*：拉丁文 cingulatus（具带的）
+
+EN — epithet *cingulatus*: Latin cingulatus (banded, girdled)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

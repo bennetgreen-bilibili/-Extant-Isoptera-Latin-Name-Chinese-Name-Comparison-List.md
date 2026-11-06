@@ -29,6 +29,18 @@ EN — **拳头堆砂白蚁** (*Cryptotermes pugnus*) is a species of the genus 
 
 ES — **拳头堆砂白蚁** (*Cryptotermes pugnus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Vasconcellos en 2023; la localidad tipo es Brasil: Paraíba: São José dos Cordeiros \[ 7.39S 36.808W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *pugnus*：拉丁文 pugnus（拳头）
+
+EN — epithet *pugnus*: Latin pugnus (fist)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

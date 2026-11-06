@@ -32,6 +32,18 @@ EN — **角头钝颚白蚁** (*Ahmaditermes deltocephalus*) is a species of the
 
 ES — **角头钝颚白蚁** (*Ahmaditermes deltocephalus*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: Fujian (Hexi), Hainan, Yunnan (Jinping Mengla 480-680 m, Nanxi, Pingbian, Simao, Menghai, Santaishan), Thailand.
 
+## 词源
+
+属名 *Ahmaditermes*：属名以人名 Ahmad 命名（巴基斯坦白蚁学家 Muzaffer Ahmad），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
+
+种加词 *deltocephalus*：希腊文 delta（三角）+ kephalē（头），三角头
+
+EN — epithet *deltocephalus*: Greek delta (triangle) + kephalē (head), triangular-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

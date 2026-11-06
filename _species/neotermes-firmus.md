@@ -29,6 +29,18 @@ EN — **坚固新白蚁** (*Neotermes firmus*) is a species of the genus *Neote
 
 ES — **坚固新白蚁** (*Neotermes firmus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Kenya: River Luazomela near Guaso Nyiri N of Mt Kenya. Distribución: Kenya.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *firmus*：拉丁文 firmus（坚固的、强壮的）
+
+EN — epithet *firmus*: Latin firmus (firm, strong)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

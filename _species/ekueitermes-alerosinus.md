@@ -32,6 +32,18 @@ EN — **阿莱罗辛肠棘白蚁** (*Ekueitermes alerosinus*) is the only extan
 
 ES — **阿莱罗辛肠棘白蚁** (*Ekueitermes alerosinus*) es la única especie viviente del género *Ekueitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Duran-Bautista & Celis-Daza en 2026; la localidad tipo es Colombia: Caquetá: Florencia: La Viciosa, Centro de Investigaciones Amazónicas CIMAZ, Macagual \[ 1.4969N 75.6661W \]. Distribución: Colombia.
 
+## 词源
+
+属名 *Ekueitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ekueitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *alerosinus*：词源未详
+
+EN — epithet *alerosinus*: Etymology uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

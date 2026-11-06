@@ -32,6 +32,18 @@ EN — **劳恩斯伯里鳞白蚁** (*Lepidotermes lounsburyi*) is a species of 
 
 ES — **劳恩斯伯里鳞白蚁** (*Lepidotermes lounsburyi*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es South Africa: Transvaal: Pretoria. Distribución: southern Africa, South Africa.
 
+## 词源
+
+属名 *Lepidotermes*：属名由希腊文 lepis（鳞）与拉丁文 termes（白蚁）组合。
+
+EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
+
+种加词 *lounsburyi*：以人名 lounsbury 命名（C. P. Lounsbury（南非昆虫学家））
+
+EN — epithet *lounsburyi*: Named after C. P. Lounsbury（南非昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

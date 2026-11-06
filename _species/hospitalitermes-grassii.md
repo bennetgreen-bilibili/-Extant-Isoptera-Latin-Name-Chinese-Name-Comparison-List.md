@@ -32,6 +32,18 @@ EN — **格拉塞须白蚁** (*Hospitalitermes grassii*) is a species of the ge
 
 ES — **格拉塞须白蚁** (*Hospitalitermes grassii*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ghidini en 1937; la localidad tipo es Indonesia: Sumatra: Fort de Kock. Distribución: Indonesia.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *grassii*：以人名 grass 命名（法国动物学家 P.-P. Grassé）
+
+EN — epithet *grassii*: Named after 法国动物学家 P.-P. Grassé
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **祸根白蚁** (*Termes fatalis*) is a species and the type species of 
 
 ES — **祸根白蚁** (*Termes fatalis*) es una especie, y la especie tipo de su género del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Linnaeus en 1758; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Neotropics, Brazil, Colombia, French Guiana, etc., northern South America, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago, Venezuela. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *fatalis*：拉丁文 fatalis（致命的、宿命的）
+
+EN — epithet *fatalis*: Latin fatalis (fatal)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

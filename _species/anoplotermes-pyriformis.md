@@ -32,6 +32,18 @@ EN — **梨形解甲白蚁** (*Anoplotermes pyriformis*) is a species of the ge
 
 ES — **梨形解甲白蚁** (*Anoplotermes pyriformis*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es Costa Rica: Santa Clara: Hamburg Farm. Distribución: Costa Rica.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *pyriformis*：拉丁文/希腊文 pyri（火）+ formis（形），指火形
+
+EN — epithet *pyriformis*: From pyri (火) + formis (形)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

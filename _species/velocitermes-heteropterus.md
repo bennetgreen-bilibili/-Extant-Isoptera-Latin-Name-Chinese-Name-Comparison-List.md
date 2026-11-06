@@ -34,6 +34,18 @@ EN — **异翅快白蚁** (*Velocitermes heteropterus*) is a species and the ty
 
 ES — **异翅快白蚁** (*Velocitermes heteropterus*) es una especie, y la especie tipo de su género del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Colombia, Paraguay, Argentina, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Velocitermes*：属名由拉丁文 velox（快速的）与 termes（白蚁）组合。
+
+EN — *Velocitermes*: From Latin velox (swift) + termes.
+
+种加词 *heteropterus*：拉丁文/希腊文 hetero（异）+ pterus（翅），指异翅
+
+EN — epithet *heteropterus*: From hetero (异) + pterus (翅)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **茹鲁埃纳魔白蚁** (*Anhangatermes juruena*) is a species of the g
 
 ES — **茹鲁埃纳魔白蚁** (*Anhangatermes juruena*) es una especie del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2014; la localidad tipo es Brasil: Mato Grosso: Juruena \[10.3594S 58.4903W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Anhangatermes*：属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。
+
+EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
+
+种加词 *juruena*：地名：茹鲁埃纳河（巴西）
+
+EN — epithet *juruena*: After the Juruena River (Brazil)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

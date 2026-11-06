@@ -31,6 +31,18 @@ EN — **大鼻鼻白蚁** (*Rhinotermes nasutus*) is a species and the type spe
 
 ES — **大鼻鼻白蚁** (*Rhinotermes nasutus*) es una especie, y la especie tipo de su género del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Perty en 1833; la localidad tipo es Brasil: ?. Distribución: French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Rhinotermes*：属名由希腊文 rhis（鼻）与拉丁文 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
+
+种加词 *nasutus*：拉丁文 nasutus（大鼻的、具鼻突的）
+
+EN — epithet *nasutus*: Latin nasutus (large-nosed)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

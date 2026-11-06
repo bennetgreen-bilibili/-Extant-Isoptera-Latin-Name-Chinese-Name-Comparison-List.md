@@ -29,6 +29,18 @@ EN — **好斗异白蚁** (*Heterotermes ferox*) is a species of the genus *Het
 
 ES — **好斗异白蚁** (*Heterotermes ferox*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: New South Wales: Thornleigh, near Sydney. Distribución: Australia.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *ferox*：拉丁文 ferox（凶猛的）
+
+EN — epithet *ferox*: Latin ferox (fierce)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

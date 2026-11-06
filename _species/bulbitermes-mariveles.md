@@ -32,6 +32,18 @@ EN — **马里维勒瓢白蚁** (*Bulbitermes mariveles*) is a species of the g
 
 ES — **马里维勒瓢白蚁** (*Bulbitermes mariveles*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Light & Wilson en 1936; la localidad tipo es Philippines: Luzon: Mt. Mariveles. Distribución: Philippines.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *mariveles*：地名：马里韦莱斯（菲律宾）
+
+EN — epithet *mariveles*: After Mariveles (Philippines)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

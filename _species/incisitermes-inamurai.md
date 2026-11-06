@@ -29,6 +29,18 @@ EN — **稻村楹白蚁** (*Incisitermes inamurai*) is a species of the genus *
 
 ES — **稻村楹白蚁** (*Incisitermes inamurai*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Oshima en 1912; la localidad tipo es Taiwan: Pingtung Co.: Wanlitong. Distribución: China (Taiwan).
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *inamurai*：以人名 inamura 命名（具体指向待考）
+
+EN — epithet *inamurai*: Named after a person (inamura), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

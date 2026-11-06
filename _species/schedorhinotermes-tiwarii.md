@@ -29,6 +29,18 @@ EN — **蒂瓦里长鼻白蚁** (*Schedorhinotermes tiwarii*) is a species of t
 
 ES — **蒂瓦里长鼻白蚁** (*Schedorhinotermes tiwarii*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Roonwal & Thakur en 1963; la localidad tipo es India: Andaman Islands: South Andaman Island: Chouldhari. Distribución: India.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *tiwarii*：以人名 tiwar 命名（具体指向待考）
+
+EN — epithet *tiwarii*: Named after a person (tiwar), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

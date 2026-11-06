@@ -32,6 +32,18 @@ EN — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) is a species of the 
 
 ES — **梯形齿尖白蚁** (*Dentispicotermes trapezia*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Scheffrahn en 2024; la localidad tipo es Paraguay: Concepción: Arroyito: "Private Reserve forest" \[ 23.05S 56.728W \]. Distribución: Bolivia, Paraguay, Pantanal–Chaco.
 
+## 词源
+
+属名 *Dentispicotermes*：属名由拉丁文 dens（齿）+ spica（尖、穗）与 termes（白蚁）组合。
+
+EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
+
+种加词 *trapezia*：希腊文 trapezion（梯形、小桌）
+
+EN — epithet *trapezia*: Greek trapezion (trapezium)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

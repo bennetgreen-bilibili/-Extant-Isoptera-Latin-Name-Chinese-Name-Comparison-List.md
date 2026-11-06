@@ -34,6 +34,18 @@ EN — **异型生白蚁** (*Embiratermes heterotypus*) is a species of the genu
 
 ES — **异型生白蚁** (*Embiratermes heterotypus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución: Brazil, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
+
+EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
+
+种加词 *heterotypus*：拉丁文/希腊文词根「heter」（异）
+
+EN — epithet *heterotypus*: From the descriptive term 'heter' (different)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

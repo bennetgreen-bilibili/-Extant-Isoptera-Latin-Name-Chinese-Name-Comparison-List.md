@@ -29,6 +29,18 @@ EN — **峨嵋散白蚁** (*Reticulitermes emei*) is a species of the genus *Re
 
 ES — **峨嵋散白蚁** (*Reticulitermes emei*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Gao, Zhu, Gong & Han en 1981; la localidad tipo es China: Sichuan Province: Mt. Emei. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *emei*：以人名 eme 命名（具体指向待考）
+
+EN — epithet *emei*: Named after a person (eme), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

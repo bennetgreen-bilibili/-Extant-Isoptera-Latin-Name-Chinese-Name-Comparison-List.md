@@ -32,6 +32,18 @@ EN — **萨莱尔象白蚁** (*Nasutitermes saleierensis*) is a species of the 
 
 ES — **萨莱尔象白蚁** (*Nasutitermes saleierensis*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Sulawesi: Djampea Island: Benteng; Sulawesi: Saleier Islands: Pamatata. Distribución: Indonesia.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *saleierensis*：以地名 saleier 命名（具体地名待考）
+
+EN — epithet *saleierensis*: Named after a locality (saleier)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

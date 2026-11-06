@@ -33,6 +33,18 @@ EN — **近邻亚种** (*Pericapritermes urgens confinis*) is a subspecies of *
 
 ES — **近邻亚种** (*Pericapritermes urgens confinis*) es una subespecie de *Pericapritermes urgens*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), género *Pericapritermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pericapritermes urgens*.
 
+## 词源
+
+属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
+
+种加词 *confinis*：拉丁文 confinis（邻近的）
+
+EN — epithet *confinis*: Latin confinis (adjoining, neighbouring)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

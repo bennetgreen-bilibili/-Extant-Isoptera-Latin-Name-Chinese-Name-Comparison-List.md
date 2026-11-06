@@ -29,6 +29,18 @@ EN — **鲁新白蚁** (*Neotermes rouxi*) is a species of the genus *Neotermes
 
 ES — **鲁新白蚁** (*Neotermes rouxi*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es New Caledonia (French): Mount Canala. Distribución: New Caledonia.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *rouxi*：以人名 roux 命名（具体指向待考）
+
+EN — epithet *rouxi*: Named after a person (roux), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -32,6 +32,18 @@ EN — **粗鼻无颚白蚁** (*Agnathotermes crassinasus*) is a species of the 
 
 ES — **粗鼻无颚白蚁** (*Agnathotermes crassinasus*) es una especie del género *Agnathotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribución: Brazil, Colombia, Ecuador.
 
+## 词源
+
+属名 *Agnathotermes*：属名由希腊文 a-（无）+ gnathos（颚）与拉丁文 termes（白蚁）组合，意为「无颚白蚁」。
+
+EN — *Agnathotermes*: From Greek a- (without) + gnathos (jaw) + Latin termes.
+
+种加词 *crassinasus*：拉丁文/希腊文词根「crass」（粗厚）
+
+EN — epithet *crassinasus*: From the descriptive term 'crass' (thick)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

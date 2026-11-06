@@ -34,6 +34,18 @@ EN — **隐匿腹爆白蚁** (*Ruptitermes reconditus*) is a species of the gen
 
 ES — **隐匿腹爆白蚁** (*Ruptitermes reconditus*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Chaco: Resistencia \[ 27.45S 58.9833W \]; Misiones: Posadas \[ 27.37S 55.9W \]; Misiones: Santa Ana \[ 27.37S 55.58W \]; Salta: Salta \[ 24.7833S 65.4167W \]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[ 15.627S 56.058W \]; Paraguay: Guairá: Villa Rica \[ 25.75S 56.4333W \]. Distribución: Neotropics, Panama, Brazil, Colombia, Venezuela, Bolivia, Ecuador, Argentina, French Guiana, Paraguay, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Ruptitermes*：属名由拉丁文 ruptus（破裂的）与 termes（白蚁）组合。
+
+EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
+
+种加词 *reconditus*：拉丁文 reconditus（隐秘的）
+
+EN — epithet *reconditus*: Latin reconditus (hidden)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

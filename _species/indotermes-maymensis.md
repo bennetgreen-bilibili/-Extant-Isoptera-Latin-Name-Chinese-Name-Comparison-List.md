@@ -32,6 +32,18 @@ EN — **眉妙印白蚁** (*Indotermes maymensis*) is a species and the type sp
 
 ES — **眉妙印白蚁** (*Indotermes maymensis*) es una especie, y la especie tipo de su género del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Sen-Sarma en 1958; la localidad tipo es Myanmar: Maymyo: Botanical Garden. Distribución: Myanmar, China.
 
+## 词源
+
+属名 *Indotermes*：属名由地名 India（印度）+ 拉丁文 termes（白蚁）组合。
+
+EN — *Indotermes*: From India + Latin termes.
+
+种加词 *maymensis*：以地名 maym 命名（具体地名待考）
+
+EN — epithet *maymensis*: Named after a locality (maym)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

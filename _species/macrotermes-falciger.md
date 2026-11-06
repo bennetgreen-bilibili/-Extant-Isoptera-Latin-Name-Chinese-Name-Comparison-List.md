@@ -34,6 +34,18 @@ EN — **镰刀大白蚁** (*Macrotermes falciger*) is a species of the genus *M
 
 ES — **镰刀大白蚁** (*Macrotermes falciger*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Gerstäcker en 1891; la localidad tipo es Tanzania: Mbusini. Distribución: Old World tropics, West Africa, East Africa, southern Africa, Benin, Central African Republic, Democratic Republic of the Congo, Ghana, Guinea, Kenya, Malawi, Mozambique, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe. Este sitio registra 5 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *falciger*：拉丁文 falx（镰）+ -ger（具），具镰
+
+EN — epithet *falciger*: Latin falx (sickle) + -ger (bearing), sickle-bearing
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

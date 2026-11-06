@@ -29,6 +29,18 @@ EN — **希克曼树白蚁** (*Glyptotermes hickmani*) is a species of the genu
 
 ES — **希克曼树白蚁** (*Glyptotermes hickmani*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2021; la localidad tipo es Paraguay: Cordillera: Nueva Colombia \[ 25.1747S 57.2876W \]. Distribución: Paraguay.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *hickmani*：以人名 hickman 命名（具体指向待考）
+
+EN — epithet *hickmani*: Named after a person (hickman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

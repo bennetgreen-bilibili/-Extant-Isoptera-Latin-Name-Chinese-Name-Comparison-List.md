@@ -32,6 +32,18 @@ EN — **黑点帕塔瓦白蚁** (*Patawatermes nigripunctatus*) is a species of
 
 ES — **黑点帕塔瓦白蚁** (*Patawatermes nigripunctatus*) es una especie del género *Patawatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Colombia, French Guiana, Ecuador, Brazil, Bolivia, Peru, Trinidad and Tobago.
 
+## 词源
+
+属名 *Patawatermes*：属名以地名 Patawa 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Patawatermes*: From the place name Patawa; -termes from Latin termes.
+
+种加词 *nigripunctatus*：拉丁文/希腊文 nigripunct（黑）+ atus（具），指黑具
+
+EN — epithet *nigripunctatus*: From nigripunct (黑) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

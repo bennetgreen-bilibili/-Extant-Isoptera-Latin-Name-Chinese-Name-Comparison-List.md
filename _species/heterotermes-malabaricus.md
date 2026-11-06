@@ -29,6 +29,18 @@ EN — **马拉巴尔异白蚁** (*Heterotermes malabaricus*) is a species of th
 
 ES — **马拉巴尔异白蚁** (*Heterotermes malabaricus*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Snyder en 1933; la localidad tipo es India: Madras \[sic, = Karnataka\], south Mangalore. Distribución: India.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *malabaricus*：以地名 马拉巴尔（印度） 命名
+
+EN — epithet *malabaricus*: Named after the locality Malabar
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -32,6 +32,18 @@ EN — **凹胸考登白蚁** (*Kaudernitermes salebrithorax*) is a species of t
 
 ES — **凹胸考登白蚁** (*Kaudernitermes salebrithorax*) es una especie del género *Kaudernitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Madagascar: Tolanaro (Fort Dauphin); Seychelles: Silhouette. Distribución: Madagascar, Seychelles.
 
+## 词源
+
+属名 *Kaudernitermes*：属名以人名 Kaudern 命名（瑞典探险家 W. Kaudern），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Kaudernitermes*: Named after the explorer W. Kaudern; -termes from Latin termes.
+
+种加词 *salebrithorax*：拉丁文 salebra（粗糙）+ thorax（胸），糙胸
+
+EN — epithet *salebrithorax*: Latin salebra (roughness) + thorax (thorax), rough-thoraxed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

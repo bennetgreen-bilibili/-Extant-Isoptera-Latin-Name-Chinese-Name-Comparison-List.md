@@ -32,6 +32,18 @@ EN — **愚蠢疲白蚁** (*Apagotermes stolidus*) is the only extant species o
 
 ES — **愚蠢疲白蚁** (*Apagotermes stolidus*) es la única especie viviente del género *Apagotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución: Democratic Republic of the Congo, Cameroon, Republic of the Congo, Nigeria.
 
+## 词源
+
+属名 *Apagotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Apagotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *stolidus*：拉丁文 stolidus（迟钝的）
+
+EN — epithet *stolidus*: Latin stolidus (dull)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

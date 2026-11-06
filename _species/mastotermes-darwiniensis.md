@@ -31,6 +31,18 @@ EN — **达尔文澳白蚁** (*Mastotermes darwiniensis*) is the only extant sp
 
 ES — **达尔文澳白蚁** (*Mastotermes darwiniensis*) es la única especie viviente del género *Mastotermes*, en la familia MASTOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Northern Territory: Darwin. Distribución: northern Australia, tropical northern region, introduced: Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Mastotermes*：属名由希腊文 mastos（乳房、乳头）与拉丁文 termes（白蚁）组合而成。
+
+EN — *Mastotermes*: From Greek mastos (breast, nipple) + Latin termes (termite).
+
+种加词 *darwiniensis*：以地名 达尔文（澳大利亚） 命名
+
+EN — epithet *darwiniensis*: Named after the locality Darwin
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[澳白蚁科 MASTOTERMITIDAE]({{ site.base_url }}/family/mastotermitidae/) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）

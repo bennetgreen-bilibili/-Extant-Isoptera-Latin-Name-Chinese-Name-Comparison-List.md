@@ -48,6 +48,13 @@ breadcrumb:
 <p>模式种：<i>Ancistrotermes crucifer</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。</p>
+<p class="etymology-en" lang="en">From Greek ankistron (hook) + Latin termes.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/ancistrotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

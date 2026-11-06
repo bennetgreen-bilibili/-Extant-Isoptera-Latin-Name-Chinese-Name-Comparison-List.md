@@ -32,6 +32,18 @@ EN — **因多节白蚁** (*Noditermes indoensis*) is a species of the genus *N
 
 ES — **因多节白蚁** (*Noditermes indoensis*) es una especie del género *Noditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Congo: Indo. Distribución: Central Africa, Gabon, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Tanzania.
 
+## 词源
+
+属名 *Noditermes*：属名由拉丁文 nodus（结、瘤）与 termes（白蚁）组合。
+
+EN — *Noditermes*: From Latin nodus (knot, node) + termes.
+
+种加词 *indoensis*：以地名 印度 命名
+
+EN — epithet *indoensis*: Named after the locality Indo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

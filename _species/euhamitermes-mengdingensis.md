@@ -32,6 +32,18 @@ EN — **孟定亮白蚁** (*Euhamitermes mengdingensis*) is a species of the ge
 
 ES — **孟定亮白蚁** (*Euhamitermes mengdingensis*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Zhu & Li en 1987; la localidad tipo es China: Yunnan Province: Autonomous County of Gengma, Dai-Va. Distribución: China, Yunnan.
 
+## 词源
+
+属名 *Euhamitermes*：属名由希腊文 eu-（良好、真）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *mengdingensis*：以地名 孟定（云南） 命名
+
+EN — epithet *mengdingensis*: Named after the locality Mengding
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

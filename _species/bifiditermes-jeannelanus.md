@@ -29,6 +29,18 @@ EN — **让内尔双裂白蚁** (*Bifiditermes jeannelanus*) is a species of th
 
 ES — **让内尔双裂白蚁** (*Bifiditermes jeannelanus*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1915; la localidad tipo es Tanzania: Kilimanjaro: Neu-Moschi. Distribución: Africa.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *jeannelanus*：以地名 jeannel 命名（具体地名待考）
+
+EN — epithet *jeannelanus*: Named after a locality (jeannel)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

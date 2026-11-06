@@ -32,6 +32,18 @@ EN — **密实生白蚁** (*Embiratermes spissus*) is a species of the genus *E
 
 ES — **密实生白蚁** (*Embiratermes spissus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1957; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[1.7N 57.9167W\]. Distribución: Colombia, Peru, Brazil, Ecuador, Guyana, Venezuela.
 
+## 词源
+
+属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
+
+EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
+
+种加词 *spissus*：拉丁文 spissus（浓密的、稠密的）
+
+EN — epithet *spissus*: Latin spissus (dense)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

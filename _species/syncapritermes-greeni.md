@@ -32,6 +32,18 @@ EN — **格林聚扭白蚁** (*Syncapritermes greeni*) is the only extant speci
 
 ES — **格林聚扭白蚁** (*Syncapritermes greeni*) es la única especie viviente del género *Syncapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por John en 1925; la localidad tipo es Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Syncapritermes*：属名由希腊文 syn-（合、共）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Syncapritermes*: From Greek syn- (together) + Latin caper (goat) + termes.
+
+种加词 *greeni*：以人名 green 命名（具体指向待考）
+
+EN — epithet *greeni*: Named after a person (green), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

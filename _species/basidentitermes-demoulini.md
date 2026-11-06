@@ -32,6 +32,18 @@ EN — **德穆兰基齿白蚁** (*Basidentitermes demoulini*) is a species of t
 
 ES — **德穆兰基齿白蚁** (*Basidentitermes demoulini*) es una especie del género *Basidentitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Harris en 1963; la localidad tipo es Democratic Republic of the Congo: Garamba. Distribución: Old World tropics, Cameroon, Democratic Republic of the Congo, Tanzania.
 
+## 词源
+
+属名 *Basidentitermes*：属名由希腊文 basis（基部）+ 拉丁文 dens（齿）与 termes（白蚁）组合。
+
+EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
+
+种加词 *demoulini*：以人名 demoulin 命名（具体指向待考）
+
+EN — epithet *demoulini*: Named after a person (demoulin), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

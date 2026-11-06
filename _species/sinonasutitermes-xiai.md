@@ -32,6 +32,18 @@ EN — **夏氏华象白蚁** (*Sinonasutitermes xiai*) is a species of the genu
 
 ES — **夏氏华象白蚁** (*Sinonasutitermes xiai*) es una especie del género *Sinonasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ping & Xu en 1991; la localidad tipo es China: Jiangxi Province: Wuyuan County. Distribución: China.
 
+## 词源
+
+属名 *Sinonasutitermes*：属名由拉丁文 Sinae（中国）+ nasutus（具鼻突）与 termes（白蚁）组合。
+
+EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
+
+种加词 *xiai*：以人名 xia 命名（具体指向待考）
+
+EN — epithet *xiai*: Named after a person (xia), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

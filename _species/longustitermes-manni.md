@@ -34,6 +34,18 @@ EN — **曼长工白蚁** (*Longustitermes manni*) is the only extant species o
 
 ES — **曼长工白蚁** (*Longustitermes manni*) es la única especie viviente del género *Longustitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: Lombardia. Distribución: Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Honduras, Panama. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Longustitermes*：属名由拉丁文 longus（长）与 termes（白蚁）组合。
+
+EN — *Longustitermes*: From Latin longus (long) + termes.
+
+种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
+
+EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

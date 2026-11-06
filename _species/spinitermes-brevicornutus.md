@@ -32,6 +32,18 @@ EN — **短角针刺白蚁** (*Spinitermes brevicornutus*) is a species of the 
 
 ES — **短角针刺白蚁** (*Spinitermes brevicornutus*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: French Guiana, Colombia, Argentina, Bolivia, Brazil, Paraguay.
 
+## 词源
+
+属名 *Spinitermes*：属名由拉丁文 spina（刺）与 termes（白蚁）组合。
+
+EN — *Spinitermes*: From Latin spina (spine) + termes.
+
+种加词 *brevicornutus*：拉丁文/希腊文词根「brev」（短）
+
+EN — epithet *brevicornutus*: From the descriptive term 'brev' (short)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -30,6 +30,18 @@ EN — **科西嘉亚种** (*Reticulitermes lucifugus corsicus*) is a subspecies
 
 ES — **科西嘉亚种** (*Reticulitermes lucifugus corsicus*) es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Clément en 1977; la localidad tipo es France: Corsica. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus*.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *corsicus*：拉丁文 corsicus（科西嘉岛的，Corsica=科西嘉岛）
+
+EN — epithet *corsicus*: Latin corsicus (of Corsica)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

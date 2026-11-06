@@ -29,6 +29,18 @@ EN — **摩库兹上木白蚁** (*Epicalotermes mkuzii*) is a species of the ge
 
 ES — **摩库兹上木白蚁** (*Epicalotermes mkuzii*) es una especie del género *Epicalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1949; la localidad tipo es South Africa: Lower Mkuzi Drift. Distribución: South Africa, Eswatini, Tanzania.
 
+## 词源
+
+属名 *Epicalotermes*：属名由希腊文 epi-（在上）+ kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
+
+种加词 *mkuzii*：以人名 mkuz 命名（具体指向待考）
+
+EN — epithet *mkuzii*: Named after a person (mkuz), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

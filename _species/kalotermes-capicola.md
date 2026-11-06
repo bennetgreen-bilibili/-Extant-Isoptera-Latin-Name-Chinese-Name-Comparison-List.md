@@ -29,6 +29,18 @@ EN — **开普敦木白蚁** (*Kalotermes capicola*) is a species of the genus 
 
 ES — **开普敦木白蚁** (*Kalotermes capicola*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1949; la localidad tipo es South Africa: Cape Town: Botanical Gardens. Distribución: South Africa.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *capicola*：词源未详
+
+EN — epithet *capicola*: Etymology uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

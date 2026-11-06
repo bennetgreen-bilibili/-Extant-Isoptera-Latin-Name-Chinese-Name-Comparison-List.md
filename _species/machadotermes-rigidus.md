@@ -32,6 +32,18 @@ EN — **强直剑白蚁** (*Machadotermes rigidus*) is a species of the genus *
 
 ES — **强直剑白蚁** (*Machadotermes rigidus*) es una especie del género *Machadotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Collins en 1977; la localidad tipo es Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Machadotermes*：属名以人名 Machado 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Machadotermes*: Named after a person (Machado); -termes from Latin termes.
+
+种加词 *rigidus*：拉丁文 rigidus（坚硬的）
+
+EN — epithet *rigidus*: Latin rigidus (rigid)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

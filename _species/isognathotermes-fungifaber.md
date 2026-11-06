@@ -34,6 +34,18 @@ EN — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) is a species of the
 
 ES — **菌匠等颚白蚁** (*Isognathotermes fungifaber*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian. Distribución: tropical Africa. Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *fungifaber*：拉丁文 fungus（菌）+ faber（工匠），菌工匠
+
+EN — epithet *fungifaber*: Latin fungus (fungus) + faber (maker)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

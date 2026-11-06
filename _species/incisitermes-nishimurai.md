@@ -29,6 +29,18 @@ EN — **西村楹白蚁** (*Incisitermes nishimurai*) is a species of the genus
 
 ES — **西村楹白蚁** (*Incisitermes nishimurai*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2014; la localidad tipo es Honduras: Parque Nacional La Tigra. Distribución: Central America.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *nishimurai*：以人名 nishimura 命名（具体指向待考）
+
+EN — epithet *nishimurai*: Named after a person (nishimura), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

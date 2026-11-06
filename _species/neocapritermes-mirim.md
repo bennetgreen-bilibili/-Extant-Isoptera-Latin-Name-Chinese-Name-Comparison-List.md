@@ -32,6 +32,18 @@ EN — **小型新扭白蚁** (*Neocapritermes mirim*) is a species of the genus
 
 ES — **小型新扭白蚁** (*Neocapritermes mirim*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Bandeira & Cancello en 1992; la localidad tipo es Brasil: Roraima: Ilha de Maracá \[ 3.4N 61.65W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
+
+种加词 *mirim*：图皮语 mirim（小）
+
+EN — epithet *mirim*: Tupi mirim (small)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

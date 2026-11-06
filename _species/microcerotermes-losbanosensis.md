@@ -32,6 +32,18 @@ EN — **洛斯巴尼奥斯锯白蚁** (*Microcerotermes losbanosensis*) is a sp
 
 ES — **洛斯巴尼奥斯锯白蚁** (*Microcerotermes losbanosensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Oshima en 1914; la localidad tipo es Philippines: Luzon: Los Banos. Distribución: Southeast Asia, Philippines.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *losbanosensis*：以地名 Los Baños（洛斯巴尼奥斯，菲律宾）命名
+
+EN — epithet *losbanosensis*: Named after Los Baños, Philippines
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

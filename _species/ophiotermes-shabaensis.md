@@ -32,6 +32,18 @@ EN — **沙巴蛇白蚁** (*Ophiotermes shabaensis*) is a species of the genus 
 
 ES — **沙巴蛇白蚁** (*Ophiotermes shabaensis*) es una especie del género *Ophiotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Bouillon & Vincke en 1973; la localidad tipo es Democratic Republic of the Congo: "70 km de Likasi sur la route de Lubumbashi; Ferme de St-Hubert, campus universitaire, Lubumbashi; Station INERA (INEAC), Kipopo, à 25 km de Lubumbashi; plaine de Mwadingusha entre Likasi et Lubumbashi. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Ophiotermes*：属名由希腊文 ophis（蛇）与拉丁文 termes（白蚁）组合。
+
+EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
+
+种加词 *shabaensis*：以地名 shaba 命名（具体地名待考）
+
+EN — epithet *shabaensis*: Named after a locality (shaba)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

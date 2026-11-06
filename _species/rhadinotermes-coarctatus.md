@@ -32,6 +32,18 @@ EN — **压缩锥形白蚁** (*Rhadinotermes coarctatus*) is the only extant sp
 
 ES — **压缩锥形白蚁** (*Rhadinotermes coarctatus*) es la única especie viviente del género *Rhadinotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1902; la localidad tipo es Malawi: Zomba. Distribución: Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia.
 
+## 词源
+
+属名 *Rhadinotermes*：属名由希腊文 rhadinos（细长的）与拉丁文 termes（白蚁）组合。
+
+EN — *Rhadinotermes*: From Greek rhadinos (slender) + Latin termes.
+
+种加词 *coarctatus*：拉丁文/希腊文 coarct（缢缩）+ atus（具），指缢缩具
+
+EN — epithet *coarctatus*: From coarct (缢缩) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

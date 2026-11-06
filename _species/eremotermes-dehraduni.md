@@ -32,6 +32,18 @@ EN — **德拉敦漠白蚁** (*Eremotermes dehraduni*) is a species of the genu
 
 ES — **德拉敦漠白蚁** (*Eremotermes dehraduni*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Roonwal & Sen-Sarma en 1960; la localidad tipo es India: Uttarakhand: about 12 miles west of Dehra Dun: Malhan Forest Range: Bainkhala Block, in Ocimum plantation. Distribución: India.
 
+## 词源
+
+属名 *Eremotermes*：属名由希腊文 erēmos（荒漠、孤独）与拉丁文 termes（白蚁）组合。
+
+EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
+
+种加词 *dehraduni*：以人名 dehradun 命名（具体指向待考）
+
+EN — epithet *dehraduni*: Named after a person (dehradun), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

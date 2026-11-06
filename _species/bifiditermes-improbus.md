@@ -31,6 +31,18 @@ EN — **不诚双裂白蚁** (*Bifiditermes improbus*) is a species of the genu
 
 ES — **不诚双裂白蚁** (*Bifiditermes improbus*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Australia: Tasmania. Distribución: Australia, New Zealand. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *improbus*：拉丁文/希腊文 im-（无、不）+ probus（前），指无前
+
+EN — epithet *improbus*: From im- (without) + probus (前)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

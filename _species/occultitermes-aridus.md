@@ -32,6 +32,18 @@ EN — **干燥隐白蚁** (*Occultitermes aridus*) is a species of the genus *O
 
 ES — **干燥隐白蚁** (*Occultitermes aridus*) es una especie del género *Occultitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gay en 1977; la localidad tipo es Australia: Queensland: Carnarvon Range. Distribución: Australia.
 
+## 词源
+
+属名 *Occultitermes*：属名由拉丁文 occultus（隐蔽的）与 termes（白蚁）组合。
+
+EN — *Occultitermes*: From Latin occultus (hidden) + termes.
+
+种加词 *aridus*：拉丁文 aridus（干旱的）
+
+EN — epithet *aridus*: Latin aridus (arid, dry)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

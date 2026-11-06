@@ -31,6 +31,18 @@ EN — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) is a species and the
 
 ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la especie tipo de su género del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Desneux en 1904; la localidad tipo es India: Kashmir valley. Distribución: South Asia, China. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Archotermopsis*：属名由希腊文 archaios（古老的、原始的）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合，意为「古老的类白蚁」。
+
+EN — *Archotermopsis*: From Greek archaios (ancient, primitive) + -termopsis (term- 'termite' + -opsis 'appearance'), 'ancient termite-like'.
+
+种加词 *wroughtoni*：以人名 wroughton 命名（具体指向待考）
+
+EN — epithet *wroughtoni*: Named after a person (wroughton), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）

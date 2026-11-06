@@ -32,6 +32,18 @@ EN — **麦格雷戈瓢白蚁** (*Bulbitermes mcgregori*) is a species of the g
 
 ES — **麦格雷戈瓢白蚁** (*Bulbitermes mcgregori*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oshima en 1916; la localidad tipo es Philippines: Luzon: Laguna Province: Sarai near Paete. Distribución: Philippines.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *mcgregori*：以人名 mcgregor 命名（具体指向待考）
+
+EN — epithet *mcgregori*: Named after a person (mcgregor), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **赞博恩格尔白蚁** (*Engelitermes zambo*) is the only extant speci
 
 ES — **赞博恩格尔白蚁** (*Engelitermes zambo*) es la única especie viviente del género *Engelitermes*, en la familia TERMITIDAE (subfamilia Engelitermitinae). La especie fue descrita por Romero-Arias, Roisin & Scheffrahn en 2023; la localidad tipo es Cameroon: Nkol-aebe \[ 3.36686N 11.4542E \]. Distribución: Cameroon.
 
+## 词源
+
+属名 *Engelitermes*：属名以人名 Engel 命名（古昆虫学家 M. S. Engel），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Engelitermes*: Named after the entomologist M. S. Engel; -termes from Latin termes.
+
+种加词 *zambo*：桑博人（非洲与美洲原住民混血）
+
+EN — epithet *zambo*: After the Zambo people
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

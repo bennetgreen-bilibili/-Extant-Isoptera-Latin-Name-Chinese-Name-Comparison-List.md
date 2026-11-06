@@ -32,6 +32,18 @@ EN — **阿马拉利白蚁** (*Termes amaralii*) is a species of the genus *Ter
 
 ES — **阿马拉利白蚁** (*Termes amaralii*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Seabra en 1919; la localidad tipo es Sao Tome and Principe: Binda. Distribución: São Tomé and Príncipe.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *amaralii*：以人名 amaral 命名（具体指向待考）
+
+EN — epithet *amaralii*: Named after a person (amaral), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

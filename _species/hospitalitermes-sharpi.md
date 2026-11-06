@@ -32,6 +32,18 @@ EN — **夏普须白蚁** (*Hospitalitermes sharpi*) is a species of the genus 
 
 ES — **夏普须白蚁** (*Hospitalitermes sharpi*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Negeri Sembilan: Berhentian Tingi; Negeri Sembilan: Sungei Ujong (Seremban); Singapore: ?. Distribución: Indonesia, Malaysia, Singapore.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *sharpi*：以人名 sharp 命名（D. Sharp（英国昆虫学家））
+
+EN — epithet *sharpi*: Named after D. Sharp（英国昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

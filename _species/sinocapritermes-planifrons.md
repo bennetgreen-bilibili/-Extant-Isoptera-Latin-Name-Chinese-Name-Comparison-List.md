@@ -32,6 +32,18 @@ EN — **平额华扭白蚁** (*Sinocapritermes planifrons*) is a species of the
 
 ES — **平额华扭白蚁** (*Sinocapritermes planifrons*) es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ping & Xu en 1986; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China, Yunnan.
 
+## 词源
+
+属名 *Sinocapritermes*：属名由拉丁文 Sinae（中国）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
+
+种加词 *planifrons*：拉丁文 planus（平）+ frons（额），指额平
+
+EN — epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

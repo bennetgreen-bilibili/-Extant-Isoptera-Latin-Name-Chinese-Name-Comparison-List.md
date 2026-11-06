@@ -29,6 +29,18 @@ EN — **非洲胄白蚁** (*Stolotermes africanus*) is a species of the genus *
 
 ES — **非洲胄白蚁** (*Stolotermes africanus*) es una especie del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Emerson en 1942; la localidad tipo es South Africa: Cape Province, 8 mi W of Coldstream. Distribución: South Africa.
 
+## 词源
+
+属名 *Stolotermes*：属名由拉丁文 stolo（根出条、匍匐枝）与 termes（白蚁）组合。
+
+EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
+
+种加词 *africanus*：地名：非洲
+
+EN — epithet *africanus*: After Africa
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

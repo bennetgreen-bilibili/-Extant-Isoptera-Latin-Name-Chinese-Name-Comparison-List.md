@@ -29,6 +29,18 @@ EN — **沃斯曼小草白蚁** (*Microhodotermes wasmanni*) is a species of th
 
 ES — **沃斯曼小草白蚁** (*Microhodotermes wasmanni*) es una especie del género *Microhodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Libya: Uadi (Wadi) M’bellum. Distribución: Libya, Egypt, Israel, Tunisia.
 
+## 词源
+
+属名 *Microhodotermes*：属名由希腊文 mikros（小）+ hodos（道路）与拉丁文 termes（白蚁）组合。
+
+EN — *Microhodotermes*: From Greek mikros (small) + hodos (path) + Latin termes.
+
+种加词 *wasmanni*：以人名 Wasmann 命名（奥地利昆虫学家 E. Wasmann）
+
+EN — epithet *wasmanni*: Named after the entomologist E. Wasmann
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

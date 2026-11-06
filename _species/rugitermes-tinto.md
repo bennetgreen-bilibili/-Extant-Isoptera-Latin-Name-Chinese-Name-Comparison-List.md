@@ -29,6 +29,18 @@ EN — **咖啡皱白蚁** (*Rugitermes tinto*) is a species of the genus *Rugit
 
 ES — **咖啡皱白蚁** (*Rugitermes tinto*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Colombia: Risaralda: Pereira \[ 4.81N 75.695W \]. Distribución: Colombia.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *tinto*：西班牙语/葡萄牙语 tinto（深红、染色）
+
+EN — epithet *tinto*: Spanish/Portuguese tinto (dark red, dyed)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

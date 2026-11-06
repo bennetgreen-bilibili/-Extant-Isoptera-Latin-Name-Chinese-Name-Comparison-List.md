@@ -31,6 +31,18 @@ EN — **喀麦隆新白蚁** (*Neotermes camerunensis*) is a species of the gen
 
 ES — **喀麦隆新白蚁** (*Neotermes camerunensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Cameroon: Mungo River. Distribución: Senegal, Cameroon, Nigeria, São Tomé and Príncipe. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *camerunensis*：以地名 喀麦隆 命名
+
+EN — epithet *camerunensis*: Named after the locality Camerun
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

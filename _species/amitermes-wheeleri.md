@@ -34,6 +34,18 @@ EN — **惠勒弓白蚁** (*Amitermes wheeleri*) is a species of the genus *Ami
 
 ES — **惠勒弓白蚁** (*Amitermes wheeleri*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Desneux en 1906; la localidad tipo es United States: Texas: Belton. Distribución: United States, Mexico. Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *wheeleri*：以人名 Wheeler 命名（美国蚁学家 W. M. Wheeler）
+
+EN — epithet *wheeleri*: Named after the myrmecologist W. M. Wheeler
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

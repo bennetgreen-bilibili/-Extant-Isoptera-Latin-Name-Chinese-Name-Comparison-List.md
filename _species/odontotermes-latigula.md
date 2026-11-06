@@ -32,6 +32,18 @@ EN — **宽颏土白蚁** (*Odontotermes latigula*) is a species of the genus *
 
 ES — **宽颏土白蚁** (*Odontotermes latigula*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es India: Andamans. Distribución: South Asia (India).
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *latigula*：拉丁文/希腊文词根「lat」（宽）
+
+EN — epithet *latigula*: From the descriptive term 'lat' (broad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

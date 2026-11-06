@@ -34,6 +34,18 @@ EN — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) is the only exta
 
 ES — **阿比西尼亚坚白蚁** (*Firmitermes abyssinicus*) es la única especie viviente del género *Firmitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Ethiopia: Hicka. Distribución: Old World tropics, Ethiopia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Firmitermes*：属名由拉丁文 firmus（坚固的）与 termes（白蚁）组合。
+
+EN — *Firmitermes*: From Latin firmus (firm, strong) + termes.
+
+种加词 *abyssinicus*：以地名 Abyssinia（阿比西尼亚，埃塞俄比亚旧称）命名
+
+EN — epithet *abyssinicus*: Named after Abyssinia (Ethiopia, former name)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

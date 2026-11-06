@@ -32,6 +32,18 @@ EN — **稍暗冢白蚁** (*Tumulitermes subaquilus*) is a species of the genus
 
 ES — **稍暗冢白蚁** (*Tumulitermes subaquilus*) es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Western Australia: Narrogin. Distribución: Australia.
 
+## 词源
+
+属名 *Tumulitermes*：属名由拉丁文 tumulus（土丘、坟）与 termes（白蚁）组合。
+
+EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
+
+种加词 *subaquilus*：拉丁文/希腊文词根「sub」（下、近）
+
+EN — epithet *subaquilus*: From the descriptive term 'sub' (sub-)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

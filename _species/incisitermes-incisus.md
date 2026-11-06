@@ -29,6 +29,18 @@ EN — **切割楹白蚁** (*Incisitermes incisus*) is a species of the genus *I
 
 ES — **切割楹白蚁** (*Incisitermes incisus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Fila Saint Jean (ridge) \[ 10.3806N 67.9769W \]. Distribución: Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
+
+EN — epithet *incisus*: Latin incisus (incised, notched)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

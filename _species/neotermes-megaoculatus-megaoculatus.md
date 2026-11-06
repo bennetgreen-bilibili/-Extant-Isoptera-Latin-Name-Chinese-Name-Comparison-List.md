@@ -30,6 +30,18 @@ EN — **指名亚种** (*Neotermes megaoculatus megaoculatus*) is a subspecies 
 
 ES — **指名亚种** (*Neotermes megaoculatus megaoculatus*) es una subespecie de *Neotermes megaoculatus*, en la familia KALOTERMITIDAE, género *Neotermes*. La subespecie fue descrita por Roonwal & Sen-Sarma en 1960; la localidad tipo es India: Uttarakhand: Dehra Dun. No se incluye un registro de distribución separado en esta página; véase la especie parental *Neotermes megaoculatus*.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *megaoculatus*：拉丁文/希腊文 megaocul（大）+ atus（具），指大具
+
+EN — epithet *megaoculatus*: From megaocul (大) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

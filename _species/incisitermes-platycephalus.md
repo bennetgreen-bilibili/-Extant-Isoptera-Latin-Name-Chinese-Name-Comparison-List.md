@@ -31,6 +31,18 @@ EN — **宽头楹白蚁** (*Incisitermes platycephalus*) is a species of the ge
 
 ES — **宽头楹白蚁** (*Incisitermes platycephalus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Madrid, near Colima. Distribución: Mexico, Guatemala, Honduras, Nicaragua. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *platycephalus*：拉丁文/希腊文词根「plat」（宽扁）
+
+EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

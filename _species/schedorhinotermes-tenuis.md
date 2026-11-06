@@ -29,6 +29,18 @@ EN — **细瘦长鼻白蚁** (*Schedorhinotermes tenuis*) is a species of the g
 
 ES — **细瘦长鼻白蚁** (*Schedorhinotermes tenuis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Oshima en 1923; la localidad tipo es Indonesia: Sumatra: Simeulue, Sinabang. Distribución: Indonesia.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *tenuis*：拉丁文 tenuis（细）
+
+EN — epithet *tenuis*: Latin tenuis (slender)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

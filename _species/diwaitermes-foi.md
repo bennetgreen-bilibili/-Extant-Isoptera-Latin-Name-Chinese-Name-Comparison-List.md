@@ -32,6 +32,18 @@ EN — **福阿木象白蚁** (*Diwaitermes foi*) is a species of the genus *Diw
 
 ES — **福阿木象白蚁** (*Diwaitermes foi*) es una especie del género *Diwaitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Southern Highlands: Lake Kutubu. Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Diwaitermes*：属名以土名或地名 Diwai 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Diwaitermes*: From the place name Diwai; -termes from Latin termes.
+
+种加词 *foi*：以人名 fo 命名（具体指向待考）
+
+EN — epithet *foi*: Named after a person (fo), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

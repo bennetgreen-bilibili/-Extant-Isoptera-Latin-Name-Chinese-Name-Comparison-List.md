@@ -32,6 +32,18 @@ EN — **丰富丽娜扭白蚁** (*Rinacapritermes abundans*) is a species of th
 
 ES — **丰富丽娜扭白蚁** (*Rinacapritermes abundans*) es una especie del género *Rinacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2022; la localidad tipo es India: Kerala: Kottayam, Changanasseri-Kadamanchira \[ 9.5914N 76.5219E \]. Distribución: India.
 
+## 词源
+
+属名 *Rinacapritermes*：属名由希腊文 rhis（鼻）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Rinacapritermes*: From Greek rhis (nose) + Latin caper (goat) + termes.
+
+种加词 *abundans*：拉丁文/希腊文词根「abund」（丰富）
+
+EN — epithet *abundans*: From the descriptive term 'abund' (abundant)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

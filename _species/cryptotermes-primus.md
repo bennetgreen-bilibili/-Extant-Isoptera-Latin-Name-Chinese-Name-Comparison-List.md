@@ -31,6 +31,18 @@ EN — **第一堆砂白蚁** (*Cryptotermes primus*) is a species of the genus 
 
 ES — **第一堆砂白蚁** (*Cryptotermes primus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1921; la localidad tipo es Australia: Queensland: Townsville. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *primus*：拉丁文 primus（第一）
+
+EN — epithet *primus*: Latin primus (first)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

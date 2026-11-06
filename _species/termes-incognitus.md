@@ -32,6 +32,18 @@ EN — **隐秘白蚁** (*Termes incognitus*) is a species of the genus *Termes*
 
 ES — **隐秘白蚁** (*Termes incognitus*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Fontaine et al. en 2025; la localidad tipo es French Guiana. Distribución: French Guiana.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *incognitus*：拉丁文/希腊文 in-（无、不）+ cognitus（亲缘），指无亲缘
+
+EN — epithet *incognitus*: From in- (without) + cognitus (亲缘)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

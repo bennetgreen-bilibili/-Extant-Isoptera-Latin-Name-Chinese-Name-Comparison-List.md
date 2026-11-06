@@ -31,6 +31,18 @@ EN — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) is a species of 
 
 ES — **厄立特里亚草白蚁** (*Hodotermes erithreensis*) es una especie del género *Hodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Sjöstedt en 1912; la localidad tipo es Eritrea: Assab. Distribución: Eritrea, Ethiopia, Somalia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Hodotermes*：属名由希腊文 hodos（道路、路径）与拉丁文 termes（白蚁）组合。
+
+EN — *Hodotermes*: From Greek hodos (way, path) + Latin termes.
+
+种加词 *erithreensis*：以地名 厄立特里亚 命名
+
+EN — epithet *erithreensis*: Named after the locality Erithre
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

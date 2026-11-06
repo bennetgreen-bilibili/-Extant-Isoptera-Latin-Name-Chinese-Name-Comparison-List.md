@@ -29,6 +29,18 @@ EN — **阿马尼乳白蚁** (*Coptotermes amanii*) is a species of the genus *
 
 ES — **阿马尼乳白蚁** (*Coptotermes amanii*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Tanzania: Usambara: Amani. Distribución: Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *amanii*：以人名 aman 命名（具体指向待考）
+
+EN — epithet *amanii*: Named after a person (aman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

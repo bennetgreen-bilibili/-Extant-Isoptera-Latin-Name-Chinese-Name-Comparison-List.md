@@ -34,6 +34,18 @@ EN — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) is a species and 
 
 ES — **刺头马来白蚁** (*Malaysiotermes spinocephalus*) es una especie, y la especie tipo de su género del género *Malaysiotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Kedah: Sungai Lalang. Distribución: Indonesia, Malaysia. Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Malaysiotermes*：属名由 Malaysia（马来亚）与 termes（白蚁）组合。
+
+EN — *Malaysiotermes*: From Malaysia + termes.
+
+种加词 *spinocephalus*：拉丁文/希腊文词根「spin」（刺）
+
+EN — epithet *spinocephalus*: From the descriptive term 'spin' (spine)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **红背木白蚁** (*Kalotermes rufinotum*) is a species of the genus *K
 
 ES — **红背木白蚁** (*Kalotermes rufinotum*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1925; la localidad tipo es Australia: Victoria: Seaford. Distribución: Australia.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *rufinotum*：拉丁文/希腊文 rufi（红）+ notum（背），指红背
+
+EN — epithet *rufinotum*: From rufi (红) + notum (背)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -34,6 +34,18 @@ EN — **马登象白蚁** (*Nasutitermes matangensis*) is a species of the genu
 
 ES — **马登象白蚁** (*Nasutitermes matangensis*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Matang. Distribución: Bangladesh, India, Myanmar, Thailand, Malaysia, Indonesia, Cambodia, Vietnam. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *matangensis*：以地名 matang 命名（具体地名待考）
+
+EN — epithet *matangensis*: Named after a locality (matang)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

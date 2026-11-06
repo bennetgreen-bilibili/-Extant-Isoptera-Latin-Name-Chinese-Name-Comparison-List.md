@@ -32,6 +32,18 @@ EN — **前匍前白蚁** (*Protermes prorepens*) is a species and the type spe
 
 ES — **前匍前白蚁** (*Protermes prorepens*) es una especie, y la especie tipo de su género del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone.
 
+## 词源
+
+属名 *Protermes*：属名由希腊文 pro-（前、早）与拉丁文 termes（白蚁）组合。
+
+EN — *Protermes*: From Greek pro- (before) + Latin termes.
+
+种加词 *prorepens*：拉丁文 prorepens（匍匐的）
+
+EN — epithet *prorepens*: Latin prorepens (creeping)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **丘额钝颚白蚁** (*Ahmaditermes sinuosus*) is a species of the genu
 
 ES — **丘额钝颚白蚁** (*Ahmaditermes sinuosus*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: China.
 
+## 词源
+
+属名 *Ahmaditermes*：属名以人名 Ahmad 命名（巴基斯坦白蚁学家 Muzaffer Ahmad），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
+
+种加词 *sinuosus*：拉丁文/希腊文 sinu（波曲）+ osus（多、充满），指波曲多、充满
+
+EN — epithet *sinuosus*: From sinu (波曲) + osus (多、充满)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

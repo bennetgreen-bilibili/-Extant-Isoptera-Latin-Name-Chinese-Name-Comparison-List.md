@@ -29,6 +29,18 @@ EN — **双齿长鼻白蚁** (*Schedorhinotermes bidentatus*) is a species of t
 
 ES — **双齿长鼻白蚁** (*Schedorhinotermes bidentatus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Oshima en 1920; la localidad tipo es Philippines: Panay: Antique Province: Culasi. Distribución: Philippines.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *bidentatus*：拉丁文 bi-（二）+ dentatus（有齿），双齿
+
+EN — epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

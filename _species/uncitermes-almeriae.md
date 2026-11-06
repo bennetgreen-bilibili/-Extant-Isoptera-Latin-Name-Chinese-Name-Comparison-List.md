@@ -32,6 +32,18 @@ EN — **阿尔梅里弯钩白蚁** (*Uncitermes almeriae*) is a species of the 
 
 ES — **阿尔梅里弯钩白蚁** (*Uncitermes almeriae*) es una especie del género *Uncitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Carrijo en 2016; la localidad tipo es Ecuador: Orellana: Yasuni National Park \[0.6717S 76.3979W\]. Distribución: Peru, Ecuador.
 
+## 词源
+
+属名 *Uncitermes*：属名由拉丁文 uncus（钩）与 termes（白蚁）组合。
+
+EN — *Uncitermes*: From Latin uncus (hook) + termes.
+
+种加词 *almeriae*：以人名 almeri 命名（具体指向待考）
+
+EN — epithet *almeriae*: Named after a person (almeri), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

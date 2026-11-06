@@ -29,6 +29,18 @@ EN — **森林乳白蚁** (*Coptotermes silvaticus*) is a species of the genus 
 
 ES — **森林乳白蚁** (*Coptotermes silvaticus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Harris en 1968; la localidad tipo es Gabon: Belinga, 70 km ENE Makokou. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *silvaticus*：拉丁文 silvaticus（森林的，silva=森林）
+
+EN — epithet *silvaticus*: Latin silvaticus (of the forest, silva = forest)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

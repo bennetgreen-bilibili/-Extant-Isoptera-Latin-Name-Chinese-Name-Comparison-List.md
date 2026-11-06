@@ -34,6 +34,18 @@ EN — **芽弓白蚁** (*Amitermes germanus*) is a species of the genus *Amiter
 
 ES — **芽弓白蚁** (*Amitermes germanus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: Darwin: Fannie Bay. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *germanus*：拉丁文 germanus（真实的、同血缘的）
+
+EN — epithet *germanus*: Latin germanus (genuine, brotherly/of the same stock)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **高棉伪钩白蚁** (*Pseudhamitermes khmerensis*) is a species and th
 
 ES — **高棉伪钩白蚁** (*Pseudhamitermes khmerensis*) es una especie, y la especie tipo de su género del género *Pseudhamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Noirot en 1966; la localidad tipo es Vietnam: 35 km SW Phnom-Penh (route de Kampot). Distribución: Vietnam.
 
+## 词源
+
+属名 *Pseudhamitermes*：属名由希腊文 pseudēs（假）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Pseudhamitermes*: From Greek pseudēs (false) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *khmerensis*：以地名 khmer 命名（具体地名待考）
+
+EN — epithet *khmerensis*: Named after a locality (khmer)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

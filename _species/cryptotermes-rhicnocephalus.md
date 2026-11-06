@@ -29,6 +29,18 @@ EN — **噱头堆砂白蚁** (*Cryptotermes rhicnocephalus*) is a species of th
 
 ES — **噱头堆砂白蚁** (*Cryptotermes rhicnocephalus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Bacchus en 1987; la localidad tipo es Trinidad and Tobago: Sangre Grande: Balandra Bay \[ 10.7667N 60.95W \]. Distribución: Trinidad and Tobago.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *rhicnocephalus*：希腊文 rhiknos（皱缩）+ kephalē（头），皱头
+
+EN — epithet *rhicnocephalus*: Greek rhiknos (wrinkled) + kephalē (head), wrinkled-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

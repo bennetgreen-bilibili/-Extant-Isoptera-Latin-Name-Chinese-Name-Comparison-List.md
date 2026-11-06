@@ -32,6 +32,18 @@ EN — **栗色净白蚁** (*Nitiditermes fulvus*) is a species of the genus *Ni
 
 ES — **栗色净白蚁** (*Nitiditermes fulvus*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Williams en 1966; la localidad tipo es Tanzania: Ugunga, Kakoma. Distribución: Tanzania.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *fulvus*：拉丁文/希腊文词根「fulv」（黄褐）
+
+EN — epithet *fulvus*: From the descriptive term 'fulv' (tawny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

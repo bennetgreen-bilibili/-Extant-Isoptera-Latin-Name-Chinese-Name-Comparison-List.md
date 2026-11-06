@@ -29,6 +29,18 @@ EN — **刺颈双角白蚁** (*Bicornitermes spinicollis*) is a species of the 
 
 ES — **刺颈双角白蚁** (*Bicornitermes spinicollis*) es una especie del género *Bicornitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wilkinson en 1958; la localidad tipo es Nigeria: Eastern Region: Nkpoku, 19 km from Port Harcourt on Owerri road. Distribución: Cameroon, Ghana, Nigeria, Tanzania.
 
+## 词源
+
+属名 *Bicornitermes*：属名由拉丁文 bi-（二）+ cornu（角）与 termes（白蚁）组合，指兵蚁具两个角状突起。
+
+EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
+
+种加词 *spinicollis*：拉丁文/希腊文 spini（刺）+ collis（颈），指刺颈
+
+EN — epithet *spinicollis*: From spini (刺) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

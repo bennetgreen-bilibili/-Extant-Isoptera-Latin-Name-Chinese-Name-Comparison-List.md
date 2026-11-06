@@ -32,6 +32,18 @@ EN — **分离三脉白蚁** (*Trinervitermes disparatus*) is a species of the 
 
 ES — **分离三脉白蚁** (*Trinervitermes disparatus*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Bathellier en 1927; la localidad tipo es Vietnam: Cauda, near Nhatrang. Distribución: Vietnam.
 
+## 词源
+
+属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
+
+EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
+
+种加词 *disparatus*：拉丁文/希腊文 dispar（异）+ atus（具），指异具
+
+EN — epithet *disparatus*: From dispar (异) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

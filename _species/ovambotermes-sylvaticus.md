@@ -32,6 +32,18 @@ EN — **林地奥万博兰白蚁** (*Ovambotermes sylvaticus*) is the only exta
 
 ES — **林地奥万博兰白蚁** (*Ovambotermes sylvaticus*) es la única especie viviente del género *Ovambotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Coaton en 1971; la localidad tipo es Namibia: 16 km ex Rundu-Gootfontein. Distribución: Namibia, Zambia.
 
+## 词源
+
+属名 *Ovambotermes*：属名以地名（或民族名）Ovambo 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ovambotermes*: From the name Ovambo; -termes from Latin termes.
+
+种加词 *sylvaticus*：拉丁文 silvaticus（森林的，sylva=森林）
+
+EN — epithet *sylvaticus*: Latin silvaticus (of the forest, sylva = forest)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

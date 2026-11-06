@@ -32,6 +32,18 @@ EN — **沙地象白蚁** (*Nasutitermes arenarius*) is a species of the genus 
 
 ES — **沙地象白蚁** (*Nasutitermes arenarius*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Pará: Santarém \[2.43917S 54.705W\]. Distribución: Brazil, Suriname, Venezuela.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *arenarius*：拉丁文/希腊文词根「aren」（沙）
+
+EN — epithet *arenarius*: From the descriptive term 'aren' (sand)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

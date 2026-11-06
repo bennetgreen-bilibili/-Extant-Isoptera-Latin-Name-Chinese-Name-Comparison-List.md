@@ -29,6 +29,18 @@ EN — **长翅散白蚁** (*Reticulitermes longipennis*) is a species of the ge
 
 ES — **长翅散白蚁** (*Reticulitermes longipennis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wang & Li en 1984; la localidad tipo es China: Henan Province: Shangcheng County: Huangbo Mountain. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *longipennis*：拉丁文 longus（长）+ penna（翅），长翅
+
+EN — epithet *longipennis*: Latin longus (long) + penna (wing), long-winged
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

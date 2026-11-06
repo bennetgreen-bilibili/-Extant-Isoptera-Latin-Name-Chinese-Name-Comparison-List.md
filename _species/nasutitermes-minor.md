@@ -32,6 +32,18 @@ EN — **小型象白蚁** (*Nasutitermes minor*) is a species of the genus *Nas
 
 ES — **小型象白蚁** (*Nasutitermes minor*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Río Tuichi \[14.28S 68.54W\]. Distribución: Bolivia, Brazil.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *minor*：拉丁文 minor（较小）
+
+EN — epithet *minor*: Latin minor (smaller)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

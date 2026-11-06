@@ -32,6 +32,18 @@ EN — **戴龙克雷切克白蚁** (*Krecekitermes daironi*) is the only extant
 
 ES — **戴龙克雷切克白蚁** (*Krecekitermes daironi*) es la única especie viviente del género *Krecekitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución: South America, Colombia, French Guiana.
 
+## 词源
+
+属名 *Krecekitermes*：属名以人名 Krecek 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Krecekitermes*: Named after a person (Krecek); -termes from Latin termes.
+
+种加词 *daironi*：以人名 dairon 命名（具体指向待考）
+
+EN — epithet *daironi*: Named after a person (dairon), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

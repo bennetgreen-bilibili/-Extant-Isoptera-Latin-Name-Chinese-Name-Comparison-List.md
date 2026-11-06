@@ -32,6 +32,18 @@ EN — **中国华扭白蚁** (*Sinocapritermes sinicus*) is a species of the ge
 
 ES — **中国华扭白蚁** (*Sinocapritermes sinicus*) es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Li & Xiao en 1989; la localidad tipo es China: Guangxi Province: Huashuichong Forest: Hexian. Distribución: China.
 
+## 词源
+
+属名 *Sinocapritermes*：属名由拉丁文 Sinae（中国）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
+
+种加词 *sinicus*：以地名 新疆 命名
+
+EN — epithet *sinicus*: Named after the locality Sin
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **纳塔尔大白蚁** (*Macrotermes natalensis*) is a species of the gen
 
 ES — **纳塔尔大白蚁** (*Macrotermes natalensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Estcourt. Distribución: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Botswana, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Eritrea, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Kenya, Liberia, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *natalensis*：以地名 纳塔尔（南非） 命名
+
+EN — epithet *natalensis*: Named after the locality Natal
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **埃莉诺长鼻白蚁** (*Schedorhinotermes eleanorae*) is a species of
 
 ES — **埃莉诺长鼻白蚁** (*Schedorhinotermes eleanorae*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Roonwal & Bose en 1970; la localidad tipo es India: Andaman Islands: Little Andaman Island: 19 km south of Toikoibuea, Bedeabdulu. Distribución: India.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *eleanorae*：以人名 eleanor 命名（具体指向待考）
+
+EN — epithet *eleanorae*: Named after a person (eleanor), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

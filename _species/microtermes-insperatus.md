@@ -32,6 +32,18 @@ EN — **未料小白蚁** (*Microtermes insperatus*) is a species of the genus 
 
 ES — **未料小白蚁** (*Microtermes insperatus*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Java: Bogor; Java: Depok; Java: Jember; Java: Palimanan; Java: Tjimanggu. Distribución: Southeast Asia, Indonesia.
 
+## 词源
+
+属名 *Microtermes*：属名由希腊文 mikros（小）与拉丁文 termes（白蚁）组合，意为「小白蚁」。
+
+EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
+
+种加词 *insperatus*：拉丁文 insperatus（出乎意料的）
+
+EN — epithet *insperatus*: Latin insperatus (unhoped-for)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **双裂方白蚁** (*Cubitermes bilobatus*) is a species and the type sp
 
 ES — **双裂方白蚁** (*Cubitermes bilobatus*) es una especie, y la especie tipo de su género del género *Cubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Estcourt, altitude 3500 ft. Distribución: southern Africa, South Africa, Democratic Republic of the Congo, Nigeria, Sudan, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Cubitermes*：属名由拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
+
+种加词 *bilobatus*：拉丁文 bi-（二）+ lobatus（有叶），双叶
+
+EN — epithet *bilobatus*: Latin bi- (two) + lobatus (lobed), two-lobed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

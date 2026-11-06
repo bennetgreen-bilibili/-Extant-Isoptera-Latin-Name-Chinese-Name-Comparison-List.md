@@ -29,6 +29,18 @@ EN — **邻近木白蚁** (*Kalotermes approximatus*) is a species of the genus
 
 ES — **邻近木白蚁** (*Kalotermes approximatus*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1920; la localidad tipo es United States: Florida: Ortega, near Jacksonville. Distribución: United States, Bermuda.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *approximatus*：拉丁文 approximatus（接近的）
+
+EN — epithet *approximatus*: Latin approximatus (approaching)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

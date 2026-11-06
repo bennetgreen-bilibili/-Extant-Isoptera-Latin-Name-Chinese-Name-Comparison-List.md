@@ -29,6 +29,18 @@ EN — **土耳其斯坦无刺白蚁** (*Anacanthotermes turkestanicus*) is a sp
 
 ES — **土耳其斯坦无刺白蚁** (*Anacanthotermes turkestanicus*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Jacobson en 1905; la localidad tipo es Kazakhstan: Hungersteppe: station Golodnaja Stepj. Distribución: Middle East, Uzbekistan, Kazakhstan, Iran, Tajikistan, Turkmenistan.
 
+## 词源
+
+属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
+
+EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
+
+种加词 *turkestanicus*：以地名 Turkestan（突厥斯坦，中亚）命名
+
+EN — epithet *turkestanicus*: Named after Turkestan (Central Asia)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

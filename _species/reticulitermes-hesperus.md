@@ -29,6 +29,18 @@ EN — **西部散白蚁** (*Reticulitermes hesperus*) is a species of the genus
 
 ES — **西部散白蚁** (*Reticulitermes hesperus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: California: San Bernardino Mountains: Little Bear Lake. Distribución: western North America, western United States, southwestern Canada.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *hesperus*：希腊文 hesperos（西方的、黄昏的）
+
+EN — epithet *hesperus*: Greek hesperos (western, evening)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

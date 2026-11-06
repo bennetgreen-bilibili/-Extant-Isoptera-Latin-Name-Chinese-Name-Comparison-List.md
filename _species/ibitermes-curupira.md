@@ -32,6 +32,18 @@ EN — **长毛地球白蚁** (*Ibitermes curupira*) is a species of the genus *
 
 ES — **长毛地球白蚁** (*Ibitermes curupira*) es una especie del género *Ibitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Fontes en 1985; la localidad tipo es Brasil: Minas Gerais: Itabira \[19.6192S 43.2269W\]. Distribución: Brazil, Bolivia.
 
+## 词源
+
+属名 *Ibitermes*：属名由图皮语 Ibi（土地、树）与 -termes 组合。
+
+EN — *Ibitermes*: From Tupi Ibi (land, tree) + -termes.
+
+种加词 *curupira*：库鲁皮拉（巴西神话森林精灵）
+
+EN — epithet *curupira*: Curupira, a Brazilian forest spirit
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

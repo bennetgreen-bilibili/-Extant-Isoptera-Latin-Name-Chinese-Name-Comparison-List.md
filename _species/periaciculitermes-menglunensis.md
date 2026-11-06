@@ -32,6 +32,18 @@ EN — **勐仑近针白蚁** (*Periaciculitermes menglunensis*) is the only ext
 
 ES — **勐仑近针白蚁** (*Periaciculitermes menglunensis*) es la única especie viviente del género *Periaciculitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li en 1986; la localidad tipo es China: Yunnan Province: Banna Daizu, Menglun, Xishuang, Zizhizhou. Distribución: China.
 
+## 词源
+
+属名 *Periaciculitermes*：属名由希腊文 peri-（周围）+ 拉丁文 acicula（小针）与 termes（白蚁）组合。
+
+EN — *Periaciculitermes*: From Greek peri- (around) + Latin acicula (little pin) + termes.
+
+种加词 *menglunensis*：以地名 勐仑（云南） 命名
+
+EN — epithet *menglunensis*: Named after the locality Menglun
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

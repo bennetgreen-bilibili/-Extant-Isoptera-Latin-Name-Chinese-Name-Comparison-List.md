@@ -32,6 +32,18 @@ EN — **小囟突扭白蚁** (*Dicuspiditermes fontanellus*) is a species of th
 
 ES — **小囟突扭白蚁** (*Dicuspiditermes fontanellus*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Thakur & Chatterjee en 1971; la localidad tipo es India: Goa: South Goa Forest Division: Sangeum Forest Range, Satida mixed forests. Distribución: South Asia, India.
 
+## 词源
+
+属名 *Dicuspiditermes*：属名由拉丁文 di-（二）+ cuspis（尖）与 termes（白蚁）组合。
+
+EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
+
+种加词 *fontanellus*：拉丁文 fontana（泉）+ -ellus（小），小泉
+
+EN — epithet *fontanellus*: Latin fontana (spring) + -ellus (small), little spring
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

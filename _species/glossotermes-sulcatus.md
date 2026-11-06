@@ -29,6 +29,18 @@ EN — **具纹舌白蚁** (*Glossotermes sulcatus*) is a species of the genus *
 
 ES — **具纹舌白蚁** (*Glossotermes sulcatus*) es una especie del género *Glossotermes*, en la familia SERRITERMITIDAE. La especie fue descrita por Cancello & DeSouza en 2005; la localidad tipo es Brasil: Amazonas: Manaus \[ 3.113S 60.025W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Glossotermes*：属名由希腊文 glōssa（舌）与拉丁文 termes（白蚁）组合。
+
+EN — *Glossotermes*: From Greek glōssa (tongue) + Latin termes.
+
+种加词 *sulcatus*：拉丁文 sulcatus（具沟的）
+
+EN — epithet *sulcatus*: Latin sulcatus (grooved)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）

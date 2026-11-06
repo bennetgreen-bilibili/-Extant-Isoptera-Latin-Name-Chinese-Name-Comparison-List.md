@@ -32,6 +32,18 @@ EN — **波颚始扭白蚁** (*Protocapritermes krisiformis*) is a species and 
 
 ES — **波颚始扭白蚁** (*Protocapritermes krisiformis*) es una especie, y la especie tipo de su género del género *Protocapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: New South Wales: Sutherland, near Sydney. Distribución: Australia.
 
+## 词源
+
+属名 *Protocapritermes*：属名由希腊文 prōtos（最初）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Protocapritermes*: From Greek prōtos (first) + Latin caper (goat) + termes.
+
+种加词 *krisiformis*：以 Krishna 命名 + 拉丁文 -formis（形），似 Krishna
+
+EN — epithet *krisiformis*: Named after Krishna + Latin -formis (shaped)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

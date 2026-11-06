@@ -29,6 +29,18 @@ EN — **阿图尔米勒新白蚁** (*Neotermes arthurimuelleri*) is a species o
 
 ES — **阿图尔米勒新白蚁** (*Neotermes arthurimuelleri*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Rosen en 1912; la localidad tipo es Brasil: Rio de Janeiro: Rio de Janeiro (Corcovado) \[ 22.9523S 43.2103W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *arthurimuelleri*：以人名 arthurimueller 命名（具体指向待考）
+
+EN — epithet *arthurimuelleri*: Named after a person (arthurimueller), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

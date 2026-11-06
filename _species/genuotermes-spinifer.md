@@ -32,6 +32,18 @@ EN — **具脊膝白蚁** (*Genuotermes spinifer*) is the only extant species o
 
 ES — **具脊膝白蚁** (*Genuotermes spinifer*) es la única especie viviente del género *Genuotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1950; la localidad tipo es Brasil: Mato Grosso do Sul: Ladário, Urucum \[19.155S 57.631W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Genuotermes*：属名由拉丁文 genu（膝）与 termes（白蚁）组合。
+
+EN — *Genuotermes*: From Latin genu (knee) + termes.
+
+种加词 *spinifer*：拉丁文 spina（刺）+ -fer（具），具刺
+
+EN — epithet *spinifer*: Latin spina (spine) + -fer (bearing), spiny
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

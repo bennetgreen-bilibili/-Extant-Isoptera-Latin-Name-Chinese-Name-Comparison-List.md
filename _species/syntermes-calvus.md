@@ -32,6 +32,18 @@ EN — **无毛聚白蚁** (*Syntermes calvus*) is a species of the genus *Synte
 
 ES — **无毛聚白蚁** (*Syntermes calvus*) es una especie del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1945; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Guyana.
 
+## 词源
+
+属名 *Syntermes*：属名由希腊文 syn-（合、共）与拉丁文 termes（白蚁）组合。
+
+EN — *Syntermes*: From Greek syn- (together) + Latin termes.
+
+种加词 *calvus*：拉丁文 calvus（秃的、光秃的）
+
+EN — epithet *calvus*: Latin calvus (bald)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **马达加斯加双裂白蚁** (*Bifiditermes madagascariensis*) is a sp
 
 ES — **马达加斯加双裂白蚁** (*Bifiditermes madagascariensis*) es una especie, y la especie tipo de su género del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Nosy Be. Distribución: Madagascar, Comoros.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *madagascariensis*：以地名 马达加斯加 命名
+
+EN — epithet *madagascariensis*: Named after the locality Madagascar
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -32,6 +32,18 @@ EN — **锋利角白蚁** (*Angulitermes acutus*) is a species of the genus *An
 
 ES — **锋利角白蚁** (*Angulitermes acutus*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Mathur & Sen-Sarma en 1961; la localidad tipo es India: Tamil Nadu: Tinnevelly District: Pallayamcottah. Distribución: India.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *acutus*：拉丁文 acutus（尖锐）
+
+EN — epithet *acutus*: Latin acutus (sharp)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

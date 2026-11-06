@@ -44,6 +44,13 @@ breadcrumb:
 <p>模式种：<i>Euchilotermes tensus</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。</p>
+<p class="etymology-en" lang="en">From Greek eu- (well) + cheilos (lip, margin) + Latin termes.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/euchilotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

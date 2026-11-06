@@ -29,6 +29,18 @@ EN — **台山新白蚁** (*Neotermes taishanensis*) is a species of the genus 
 
 ES — **台山新白蚁** (*Neotermes taishanensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Xu & Han en 1985; la localidad tipo es China: Guangdong Province: Taishan. Distribución: China, Guangdong.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *taishanensis*：以地名 泰山（山东） 命名
+
+EN — epithet *taishanensis*: Named after the locality Taishan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

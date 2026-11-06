@@ -32,6 +32,18 @@ EN — **加拉格尔弓白蚁** (*Amitermes gallagheri*) is a species of the ge
 
 ES — **加拉格尔弓白蚁** (*Amitermes gallagheri*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Chhotani en 1988; la localidad tipo es Oman: Jabal Hamar, west of Rayzut. Distribución: Oman, Saudi Arabia, Yemen.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *gallagheri*：以人名 gallagher 命名（具体指向待考）
+
+EN — epithet *gallagheri*: Named after a person (gallagher), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

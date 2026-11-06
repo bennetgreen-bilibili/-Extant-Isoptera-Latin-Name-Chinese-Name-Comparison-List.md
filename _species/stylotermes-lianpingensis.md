@@ -29,6 +29,18 @@ EN — **连平杆白蚁** (*Stylotermes lianpingensis*) is a species of the gen
 
 ES — **连平杆白蚁** (*Stylotermes lianpingensis*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Ping en 1983; la localidad tipo es China: Guangdong Province: Lianping County. Distribución: China.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *lianpingensis*：以地名 连平（广东） 命名
+
+EN — epithet *lianpingensis*: Named after the locality Lianping
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

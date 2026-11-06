@@ -29,6 +29,18 @@ EN — **印度双裂白蚁** (*Bifiditermes indicus*) is a species of the genus
 
 ES — **印度双裂白蚁** (*Bifiditermes indicus*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Sulawesi: Ujung Pandang (Makassar); Thailand: Bangkok. Distribución: India, Indonesia, Thailand.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *indicus*：地名：印度
+
+EN — epithet *indicus*: After India
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

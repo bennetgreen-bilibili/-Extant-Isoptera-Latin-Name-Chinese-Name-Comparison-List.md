@@ -29,6 +29,18 @@ EN — **哈根真砂白蚁** (*Eucryptotermes hagenii*) is a species and the ty
 
 ES — **哈根真砂白蚁** (*Eucryptotermes hagenii*) es una especie, y la especie tipo de su género del género *Eucryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]. Distribución: South America, Brazil, Argentina.
 
+## 词源
+
+属名 *Eucryptotermes*：属名由希腊文 eu-（良好、真）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Eucryptotermes*: From Greek eu- (well) + kryptos (hidden) + Latin termes.
+
+种加词 *hagenii*：以人名 hagen 命名（德国昆虫学家 H. A. Hagen）
+
+EN — epithet *hagenii*: Named after 德国昆虫学家 H. A. Hagen
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

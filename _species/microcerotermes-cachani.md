@@ -32,6 +32,18 @@ EN — **卡占锯白蚁** (*Microcerotermes cachani*) is a species of the genus
 
 ES — **卡占锯白蚁** (*Microcerotermes cachani*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Eggleton en 2003; la localidad tipo es Madagascar: Antsingy; Beloha; Mandoto. Distribución: Madagascar.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *cachani*：以人名 cachan 命名（具体指向待考）
+
+EN — epithet *cachani*: Named after a person (cachan), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

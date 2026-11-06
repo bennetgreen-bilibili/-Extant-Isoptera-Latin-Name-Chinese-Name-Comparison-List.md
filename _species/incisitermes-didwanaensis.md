@@ -29,6 +29,18 @@ EN — **迪德瓦纳楹白蚁** (*Incisitermes didwanaensis*) is a species of t
 
 ES — **迪德瓦纳楹白蚁** (*Incisitermes didwanaensis*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roonwal & Verma en 1973; la localidad tipo es India: Rajasthan: Nagaur District: Didwana. Distribución: India.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *didwanaensis*：以地名 didwana 命名（具体地名待考）
+
+EN — epithet *didwanaensis*: Named after a locality (didwana)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

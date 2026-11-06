@@ -29,6 +29,18 @@ EN — **圆头乳白蚁** (*Coptotermes cyclocoryphus*) is a species of the gen
 
 ES — **圆头乳白蚁** (*Coptotermes cyclocoryphus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Zhu, Li & Ma en 1984; la localidad tipo es China: Guangdong Province: Zhaoquing. Distribución: China (Guangdong).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *cyclocoryphus*：希腊文 kyklos（圆）+ koryphē（顶、冠），圆冠
+
+EN — epithet *cyclocoryphus*: Greek kyklos (circle) + koryphē (crown), round-crowned
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

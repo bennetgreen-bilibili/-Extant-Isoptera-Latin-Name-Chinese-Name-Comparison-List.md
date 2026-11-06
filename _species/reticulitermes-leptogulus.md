@@ -29,6 +29,18 @@ EN — **细颏散白蚁** (*Reticulitermes leptogulus*) is a species of the gen
 
 ES — **细颏散白蚁** (*Reticulitermes leptogulus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Xu en 1981; la localidad tipo es China: Fujian Province: Huanggang Shan, Chong’ an Xian. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *leptogulus*：拉丁文/希腊文 leptog（细）+ ulus（小（指小）），指细小（指小）
+
+EN — epithet *leptogulus*: From leptog (细) + ulus (小（指小）)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

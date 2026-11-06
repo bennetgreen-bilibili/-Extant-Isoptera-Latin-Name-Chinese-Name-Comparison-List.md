@@ -34,6 +34,18 @@ EN — **巨鼻喙白蚁** (*Rhynchotermes nasutissimus*) is a species and the t
 
 ES — **巨鼻喙白蚁** (*Rhynchotermes nasutissimus*) es una especie, y la especie tipo de su género del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]; Paraguay: Central: Areguá \[25.3S 57.4167W\]. Distribución: Brazil, Bolivia, Paraguay, Argentina, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Rhynchotermes*：属名由希腊文 rhynchos（喙、吻）与拉丁文 termes（白蚁）组合。
+
+EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
+
+种加词 *nasutissimus*：拉丁文 nasutus（大鼻）+ -issimus（最），鼻最大
+
+EN — epithet *nasutissimus*: Latin nasutus (nasute) + -issimus (most), most nasute
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

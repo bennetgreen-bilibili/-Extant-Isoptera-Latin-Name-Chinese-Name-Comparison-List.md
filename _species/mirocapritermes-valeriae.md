@@ -32,6 +32,18 @@ EN — **瓦莱里瘤白蚁** (*Mirocapritermes valeriae*) is a species of the g
 
 ES — **瓦莱里瘤白蚁** (*Mirocapritermes valeriae*) es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Maymyo: Botanical Garden. Distribución: Myanmar.
 
+## 词源
+
+属名 *Mirocapritermes*：属名由拉丁文 mirus（奇异的）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
+
+种加词 *valeriae*：以人名 valeri 命名（具体指向待考）
+
+EN — epithet *valeriae*: Named after a person (valeri), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

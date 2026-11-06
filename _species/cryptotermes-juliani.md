@@ -29,6 +29,18 @@ EN — **胡利安堆砂白蚁** (*Cryptotermes juliani*) is a species of the ge
 
 ES — **胡利安堆砂白蚁** (*Cryptotermes juliani*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 1999; la localidad tipo es Dominican Republic: Peravia Province: Las Avispas. Distribución: Dominican Republic.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *juliani*：以人名 julian 命名（具体指向待考）
+
+EN — epithet *juliani*: Named after a person (julian), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

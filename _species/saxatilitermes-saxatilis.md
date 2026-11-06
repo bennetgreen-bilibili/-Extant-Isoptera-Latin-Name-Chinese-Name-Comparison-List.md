@@ -32,6 +32,18 @@ EN — **石栖石白蚁** (*Saxatilitermes saxatilis*) is the only extant speci
 
 ES — **石栖石白蚁** (*Saxatilitermes saxatilis*) es la única especie viviente del género *Saxatilitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Jim Jim Gorge. Distribución: Australia.
 
+## 词源
+
+属名 *Saxatilitermes*：属名由拉丁文 saxatilis（栖于岩石的）与 termes（白蚁）组合。
+
+EN — *Saxatilitermes*: From Latin saxatilis (dwelling among rocks) + termes.
+
+种加词 *saxatilis*：拉丁文 saxatilis（栖于岩石的）
+
+EN — epithet *saxatilis*: Latin saxatilis (dwelling among rocks)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

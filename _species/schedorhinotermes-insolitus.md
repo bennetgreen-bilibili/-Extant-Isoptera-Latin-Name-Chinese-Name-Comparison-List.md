@@ -29,6 +29,18 @@ EN — **异盟长鼻白蚁** (*Schedorhinotermes insolitus*) is a species of th
 
 ES — **异盟长鼻白蚁** (*Schedorhinotermes insolitus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Xia & He en 1980; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan).
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *insolitus*：拉丁文 insolitus（异常的、不寻常的）
+
+EN — epithet *insolitus*: Latin insolitus (unusual)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

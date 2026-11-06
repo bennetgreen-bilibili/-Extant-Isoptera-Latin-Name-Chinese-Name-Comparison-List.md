@@ -32,6 +32,18 @@ EN — **麦克阿瑟魔白蚁** (*Anhangatermes macarthuri*) is a species and t
 
 ES — **麦克阿瑟魔白蚁** (*Anhangatermes macarthuri*) es una especie, y la especie tipo de su género del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amapá: Serra do Navio \[0.8955N 52.0022W\]. Distribución: Brazil, French Guiana.
 
+## 词源
+
+属名 *Anhangatermes*：属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。
+
+EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
+
+种加词 *macarthuri*：以人名 macarthur 命名（具体指向待考）
+
+EN — epithet *macarthuri*: Named after a person (macarthur), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

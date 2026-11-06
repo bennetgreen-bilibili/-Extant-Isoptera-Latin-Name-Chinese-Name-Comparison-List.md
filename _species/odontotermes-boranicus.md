@@ -32,6 +32,18 @@ EN — **博拉娜土白蚁** (*Odontotermes boranicus*) is a species of the gen
 
 ES — **博拉娜土白蚁** (*Odontotermes boranicus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ghidini en 1937; la localidad tipo es Ethiopia: Galla-Borana: Neghelli. Distribución: East Africa (Kenya, Ethiopia, Tanzania).
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *boranicus*：以地名 博拉纳（埃塞俄比亚） 命名
+
+EN — epithet *boranicus*: Named after the locality Boran
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

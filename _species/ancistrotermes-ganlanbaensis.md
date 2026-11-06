@@ -32,6 +32,18 @@ EN — **橄榄坝钩白蚁** (*Ancistrotermes ganlanbaensis*) is a species of t
 
 ES — **橄榄坝钩白蚁** (*Ancistrotermes ganlanbaensis*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Zhu & Huang en 1991; la localidad tipo es China: Yunnan Province: Jinghong County: Ganlanba. Distribución: Yunnan (Jinghong 500m).
 
+## 词源
+
+属名 *Ancistrotermes*：属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。
+
+EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
+
+种加词 *ganlanbaensis*：以地名 橄榄坝（云南） 命名
+
+EN — epithet *ganlanbaensis*: Named after the locality Ganlanba
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

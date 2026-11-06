@@ -29,6 +29,18 @@ EN — **科廷原鼻白蚁** (*Prorhinotermes cotym*) is a species of the genus
 
 ES — **科廷原鼻白蚁** (*Prorhinotermes cotym*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Joseph, Amina & Mathew en 2023; la localidad tipo es India: Kerala: Kottayam, Koruthodu \[ 9.4475N 76.9687E \]. Distribución: India.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *cotym*：以当地土名或地名命名（具体指向待考）
+
+EN — epithet *cotym*: After a local vernacular name or place (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

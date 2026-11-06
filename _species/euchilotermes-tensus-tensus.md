@@ -33,6 +33,18 @@ EN — **指名亚种** (*Euchilotermes tensus tensus*) is a subspecies of *Euch
 
 ES — **指名亚种** (*Euchilotermes tensus tensus*) es una subespecie de *Euchilotermes tensus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Euchilotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. No se incluye un registro de distribución separado en esta página; véase la especie parental *Euchilotermes tensus*.
 
+## 词源
+
+属名 *Euchilotermes*：属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。
+
+EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
+
+种加词 *tensus*：拉丁文 tensus（紧绷的、伸展的）
+
+EN — epithet *tensus*: Latin tensus (stretched)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

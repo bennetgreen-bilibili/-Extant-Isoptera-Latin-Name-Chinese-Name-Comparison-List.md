@@ -33,6 +33,18 @@ EN — **无毛亚种** (*Globitermes globosus depilis*) is a subspecies of *Glo
 
 ES — **无毛亚种** (*Globitermes globosus depilis*) es una subespecie de *Globitermes globosus*, en la familia TERMITIDAE (subfamilia Amitermitinae), género *Globitermes*. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak: Mt. Lambir. No se incluye un registro de distribución separado en esta página; véase la especie parental *Globitermes globosus*.
 
+## 词源
+
+属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
+
+EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
+
+种加词 *depilis*：拉丁文 depilis（无毛的）
+
+EN — epithet *depilis*: Latin depilis (hairless)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

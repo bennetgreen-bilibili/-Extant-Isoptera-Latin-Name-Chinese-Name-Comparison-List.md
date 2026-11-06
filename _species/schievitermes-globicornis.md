@@ -32,6 +32,18 @@ EN — **球角不对称白蚁** (*Schievitermes globicornis*) is the only extan
 
 ES — **球角不对称白蚁** (*Schievitermes globicornis*) es la única especie viviente del género *Schievitermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Roisin en 2022; la localidad tipo es French Guiana: Petit Saut Dam Road, Carbet Maman Lézard \[ 5.0672N 52.9992W \]. Distribución: French Guiana.
 
+## 词源
+
+属名 *Schievitermes*：属名以人名 Schiev 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Schievitermes*: Named after a person (Schiev); -termes from Latin termes.
+
+种加词 *globicornis*：拉丁文/希腊文 globi（球）+ cornis（角），指球角
+
+EN — epithet *globicornis*: From globi (球) + cornis (角)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **曼凸白蚁** (*Convexitermes manni*) is a species of the genus *Conve
 
 ES — **曼凸白蚁** (*Convexitermes manni*) es una especie del género *Convexitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Guyana, Paraguay, Suriname, Trinidad and Tobago.
 
+## 词源
+
+属名 *Convexitermes*：属名由拉丁文 convexus（凸的）与 termes（白蚁）组合。
+
+EN — *Convexitermes*: From Latin convexus (convex) + termes.
+
+种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
+
+EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

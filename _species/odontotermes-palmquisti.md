@@ -32,6 +32,18 @@ EN — **帕姆奎斯特土白蚁** (*Odontotermes palmquisti*) is a species of 
 
 ES — **帕姆奎斯特土白蚁** (*Odontotermes palmquisti*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Kilimanjaro: Kibonoto. Distribución: East Africa, Tanzania, Kenya, Malawi.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *palmquisti*：以人名 palmquist 命名（具体指向待考）
+
+EN — epithet *palmquisti*: Named after a person (palmquist), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

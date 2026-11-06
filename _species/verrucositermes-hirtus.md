@@ -32,6 +32,18 @@ EN — **多毛疣白蚁** (*Verrucositermes hirtus*) is a species of the genus 
 
 ES — **多毛疣白蚁** (*Verrucositermes hirtus*) es una especie del género *Verrucositermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Deligne en 1983; la localidad tipo es Cameroon: Lomé, near Kribi. Distribución: Cameroon.
 
+## 词源
+
+属名 *Verrucositermes*：属名由拉丁文 verrucosus（多疣的）与 termes（白蚁）组合。
+
+EN — *Verrucositermes*: From Latin verrucosus (warty) + termes.
+
+种加词 *hirtus*：拉丁文 hirtus（多毛的）
+
+EN — epithet *hirtus*: Latin hirtus (hairy)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

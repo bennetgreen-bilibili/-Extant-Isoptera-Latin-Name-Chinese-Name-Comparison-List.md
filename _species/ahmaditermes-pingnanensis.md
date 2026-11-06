@@ -32,6 +32,18 @@ EN — **屏南钝颚白蚁** (*Ahmaditermes pingnanensis*) is a species of the 
 
 ES — **屏南钝颚白蚁** (*Ahmaditermes pingnanensis*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li en 1979; la localidad tipo es China: Zhejiang Province: Longquan County: Pingnan Commune, Luomuqiao. Distribución: Zhejiang (Longquan), Fujian (Pingnan850m).
 
+## 词源
+
+属名 *Ahmaditermes*：属名以人名 Ahmad 命名（巴基斯坦白蚁学家 Muzaffer Ahmad），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
+
+种加词 *pingnanensis*：以地名 平南（广西） 命名
+
+EN — epithet *pingnanensis*: Named after the locality Pingnan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

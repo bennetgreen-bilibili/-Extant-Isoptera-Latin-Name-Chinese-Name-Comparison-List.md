@@ -30,6 +30,18 @@ EN — **拉夫雷亚种** (*Coptotermes acinaciformis raffrayi*) is a subspecie
 
 ES — **拉夫雷亚种** (*Coptotermes acinaciformis raffrayi*) es una subespecie de *Coptotermes acinaciformis*, en la familia HETEROTERMITIDAE, género *Coptotermes*. La subespecie fue descrita por Wasmann en 1900; la localidad tipo es Australia: Western Australia: Swan River. No se incluye un registro de distribución separado en esta página; véase la especie parental *Coptotermes acinaciformis*.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *raffrayi*：以人名 A. Raffray（法国昆虫学家）命名
+
+EN — epithet *raffrayi*: Named after A. Raffray (French entomologist)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -29,6 +29,18 @@ EN — **橙黄散白蚁** (*Reticulitermes aurantius*) is a species of the genu
 
 ES — **橙黄散白蚁** (*Reticulitermes aurantius*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Xu en 1987; la localidad tipo es China: Guizhou Province: Danzhai. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *aurantius*：拉丁文/希腊文词根「aur」（金）
+
+EN — epithet *aurantius*: From the descriptive term 'aur' (gold)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

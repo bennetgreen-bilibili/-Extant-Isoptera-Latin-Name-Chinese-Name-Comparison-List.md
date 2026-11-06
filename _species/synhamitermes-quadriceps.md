@@ -32,6 +32,18 @@ EN — **方头同钩白蚁** (*Synhamitermes quadriceps*) is a species and the 
 
 ES — **方头同钩白蚁** (*Synhamitermes quadriceps*) es una especie, y la especie tipo de su género del género *Synhamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. Distribución: southeastern South America, Argentina/Paraguay/Uruguay, South Asia, India.
 
+## 词源
+
+属名 *Synhamitermes*：属名由希腊文 syn-（合、共）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Synhamitermes*: From Greek syn- (together) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *quadriceps*：拉丁文/希腊文 quadri（方）+ ceps（头），指方头
+
+EN — epithet *quadriceps*: From quadri (方) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

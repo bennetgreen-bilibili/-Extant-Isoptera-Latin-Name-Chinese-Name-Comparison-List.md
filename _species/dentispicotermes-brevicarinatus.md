@@ -32,6 +32,18 @@ EN — **短脊齿尖白蚁** (*Dentispicotermes brevicarinatus*) is a species o
 
 ES — **短脊齿尖白蚁** (*Dentispicotermes brevicarinatus*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Emerson en 1950; la localidad tipo es Guyana: East Berbice-Corentyne: Oronoque River \[ 2.7N 57.42W \]. Distribución: Guiana Shield, French Guiana/Guyana/Suriname, Brazil.
 
+## 词源
+
+属名 *Dentispicotermes*：属名由拉丁文 dens（齿）+ spica（尖、穗）与 termes（白蚁）组合。
+
+EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
+
+种加词 *brevicarinatus*：拉丁文/希腊文 brevicarin（短）+ atus（具），指短具
+
+EN — epithet *brevicarinatus*: From brevicarin (短) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **灰白薄嘴白蚁** (*Tenuirostritermes cinereus*) is a species of the
 
 ES — **灰白薄嘴白蚁** (*Tenuirostritermes cinereus*) es una especie del género *Tenuirostritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Buckley en 1862; la localidad tipo es United States: Texas: Llano County; Texas: San Saba County. Distribución: United States, Mexico.
 
+## 词源
+
+属名 *Tenuirostritermes*：属名由拉丁文 tenuis（细）+ rostrum（喙、吻突）与 termes（白蚁）组合。
+
+EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
+
+种加词 *cinereus*：拉丁文 cinereus（灰白色的、如灰的）
+
+EN — epithet *cinereus*: Latin cinereus (ash-grey)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

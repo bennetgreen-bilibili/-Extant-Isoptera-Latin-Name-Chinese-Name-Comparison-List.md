@@ -32,6 +32,18 @@ EN — **单型钝白蚁** (*Obtusitermes monomorphus*) is a species of the genu
 
 ES — **单型钝白蚁** (*Obtusitermes monomorphus*) es una especie del género *Obtusitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn en 2025; la localidad tipo es Panama: Coclé: El Cope Natl. Park; 8.6790, -80.5972 \[8.679N 80.5972W\]. Distribución: Panama.
 
+## 词源
+
+属名 *Obtusitermes*：属名由拉丁文 obtusus（钝的）与 termes（白蚁）组合。
+
+EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
+
+种加词 *monomorphus*：希腊文 monos（单）+ morphē（形），单形
+
+EN — epithet *monomorphus*: Greek monos (single) + morphē (form), monomorphic
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **角唇锯白蚁** (*Microcerotermes labioangulatus*) is a species of th
 
 ES — **角唇锯白蚁** (*Microcerotermes labioangulatus*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Sen-Sarma & Thakur en 1975; la localidad tipo es India: Tripura: Ambasa, Zoelchara. Distribución: India.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *labioangulatus*：拉丁文/希腊文 labioangul（唇）+ atus（具），指唇具
+
+EN — epithet *labioangulatus*: From labioangul (唇) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

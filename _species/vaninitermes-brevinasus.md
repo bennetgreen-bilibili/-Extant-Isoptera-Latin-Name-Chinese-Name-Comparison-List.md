@@ -32,6 +32,18 @@ EN — **短鼻瓦宁白蚁** (*Vaninitermes brevinasus*) is a species of the ge
 
 ES — **短鼻瓦宁白蚁** (*Vaninitermes brevinasus*) es una especie del género *Vaninitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1957; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[1.7N 57.9167W\]. Distribución: French Guiana, Brazil, Guyana.
 
+## 词源
+
+属名 *Vaninitermes*：属名以人名 Vanini 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Vaninitermes*: Named after a person (Vanini); -termes from Latin termes.
+
+种加词 *brevinasus*：拉丁文/希腊文词根「brev」（短）
+
+EN — epithet *brevinasus*: From the descriptive term 'brev' (short)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

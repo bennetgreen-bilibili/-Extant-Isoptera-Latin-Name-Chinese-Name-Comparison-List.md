@@ -31,6 +31,18 @@ EN — **台湾乳白蚁** (*Coptotermes formosanus*) is a species of the genus 
 
 ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 17 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *formosanus*：以地名 Formosa（台湾旧称，葡语「美丽岛」）命名
+
+EN — epithet *formosanus*: Named after Formosa (Taiwan, former name)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

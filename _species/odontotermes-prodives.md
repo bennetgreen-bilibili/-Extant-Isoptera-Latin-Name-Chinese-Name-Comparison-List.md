@@ -32,6 +32,18 @@ EN — **似多产土白蚁** (*Odontotermes prodives*) is a species of the genu
 
 ES — **似多产土白蚁** (*Odontotermes prodives*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Beaufort District: Beaufort. Distribución: Malaysia, Thailand.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *prodives*：拉丁文 pro-（非常）+ dives（富有），极富
+
+EN — epithet *prodives*: Latin pro- (very) + dives (rich), very rich
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

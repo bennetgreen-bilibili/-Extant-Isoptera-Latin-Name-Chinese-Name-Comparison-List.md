@@ -34,6 +34,18 @@ EN — **锡兰宽白蚁** (*Eurytermes ceylonicus*) is a species of the genus *
 
 ES — **锡兰宽白蚁** (*Eurytermes ceylonicus*) es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Sri Lanka: ?. Distribución: Sri Lanka. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
+
+EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
+
+种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
+
+EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **莫罕娜宽白蚁** (*Eurytermes mohana*) is a species of the genus *E
 
 ES — **莫罕娜宽白蚁** (*Eurytermes mohana*) es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Rathore en 1995; la localidad tipo es India: Rajasthan: Mandal, 71 km E Bhilwara. Distribución: Oriental region, India.
 
+## 词源
+
+属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
+
+EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
+
+种加词 *mohana*：以人名或地名 Mohana 命名
+
+EN — epithet *mohana*: Named after Mohana (person or place)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

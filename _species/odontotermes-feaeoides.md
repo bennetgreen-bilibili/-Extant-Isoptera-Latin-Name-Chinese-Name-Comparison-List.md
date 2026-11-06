@@ -32,6 +32,18 @@ EN — **似菲氏土白蚁** (*Odontotermes feaeoides*) is a species of the gen
 
 ES — **似菲氏土白蚁** (*Odontotermes feaeoides*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es India: Karnataka: Coorg: Margalli. Distribución: India.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *feaeoides*：以人名 Fea 命名（意大利博物学家 L. Fea）+ 希腊文 -oides（似）
+
+EN — epithet *feaeoides*: Named after the naturalist L. Fea + Greek -oides (like)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

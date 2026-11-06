@@ -33,6 +33,18 @@ EN — **指名亚种** (*Hospitalitermes hospitalis hospitalis*) is a subspecie
 
 ES — **指名亚种** (*Hospitalitermes hospitalis hospitalis*) es una subespecie de *Hospitalitermes hospitalis*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Hospitalitermes*. La subespecie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak; Singapore: ?. No se incluye un registro de distribución separado en esta página; véase la especie parental *Hospitalitermes hospitalis*.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *hospitalis*：拉丁文 hospitalis（好客的、与宿主有关的）
+
+EN — epithet *hospitalis*: Latin hospitalis (hospitable, of a host)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

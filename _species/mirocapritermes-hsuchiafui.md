@@ -32,6 +32,18 @@ EN — **云南瘤白蚁** (*Mirocapritermes hsuchiafui*) is a species of the ge
 
 ES — **云南瘤白蚁** (*Mirocapritermes hsuchiafui*) es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Yu & Ping en 1966; la localidad tipo es China: Yunnan Province: Ying-chiang. Distribución: China.
 
+## 词源
+
+属名 *Mirocapritermes*：属名由拉丁文 mirus（奇异的）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
+
+种加词 *hsuchiafui*：以人名 hsuchiafu 命名（具体指向待考）
+
+EN — epithet *hsuchiafui*: Named after a person (hsuchiafu), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

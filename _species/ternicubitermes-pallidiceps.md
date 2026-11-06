@@ -32,6 +32,18 @@ EN — **灰头三方白蚁** (*Ternicubitermes pallidiceps*) is a species of th
 
 ES — **灰头三方白蚁** (*Ternicubitermes pallidiceps*) es una especie del género *Ternicubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Lubumbashi. Distribución: Democratic Republic of the Congo, Malawi, Tanzania, Zambia, Zimbabwe.
 
+## 词源
+
+属名 *Ternicubitermes*：属名由拉丁文 terni（三个一组）+ cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
+
+种加词 *pallidiceps*：拉丁文/希腊文 pallidi（苍白）+ ceps（头），指苍白头
+
+EN — epithet *pallidiceps*: From pallidi (苍白) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **茹泰尔新白蚁** (*Neotermes jouteli*) is a species of the genus *N
 
 ES — **茹泰尔新白蚁** (*Neotermes jouteli*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1919; la localidad tipo es Bahamas: Andros, Big Wood Key; Cuba: 14 km north of Vinales; Cayamas, Woodfred Inn, Pinares; Mexico: Veracruz: Tampico; United States: Florida: Adam Key. Distribución: North America, United States, Mexico, Caribbean, Bahamas, Cuba, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, Australia.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *jouteli*：以人名 joutel 命名（具体指向待考）
+
+EN — epithet *jouteli*: Named after a person (joutel), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

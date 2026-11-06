@@ -29,6 +29,18 @@ EN — **小熊皱白蚁** (*Rugitermes ursulae*) is a species of the genus *Rug
 
 ES — **小熊皱白蚁** (*Rugitermes ursulae*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Casalla, Scheffrahn & Korb en 2021; la localidad tipo es Colombia: Sucre: Colosó \[ 9.5435N 75.3488W \]. Distribución: Colombia.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *ursulae*：以人名 ursul 命名（具体指向待考）
+
+EN — epithet *ursulae*: Named after a person (ursul), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

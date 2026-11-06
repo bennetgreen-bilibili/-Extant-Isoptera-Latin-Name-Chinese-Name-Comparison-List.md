@@ -29,6 +29,18 @@ EN — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) is a species and the ty
 
 ES — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) es una especie, y la especie tipo de su género del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *cavifrons*：拉丁文 cavus（凹）+ frons（额），凹额
+
+EN — epithet *cavifrons*: Latin cavus (hollow) + frons (front), hollow-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

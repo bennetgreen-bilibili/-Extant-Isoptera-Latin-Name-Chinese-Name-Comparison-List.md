@@ -31,6 +31,18 @@ EN — **厚壳乳白蚁** (*Coptotermes testaceus*) is a species of the genus *
 
 ES — **厚壳乳白蚁** (*Coptotermes testaceus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Linnaeus en 1758; la localidad tipo es Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribución: Neotropics, Central America to northern South America. Este sitio registra 5 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *testaceus*：拉丁文 testaceus（砖红、陶色）
+
+EN — epithet *testaceus*: Latin testaceus (brick-coloured)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

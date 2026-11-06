@@ -32,6 +32,18 @@ EN — **梳痕无锐白蚁** (*Ateuchotermes pectinatus*) is a species and the 
 
 ES — **梳痕无锐白蚁** (*Ateuchotermes pectinatus*) es una especie, y la especie tipo de su género del género *Ateuchotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Kenya: Kaptagat. Distribución: Cameroon, Democratic Republic of the Congo, Kenya, Tanzania, Uganda.
 
+## 词源
+
+属名 *Ateuchotermes*：属名由希腊文 a-（无）+ teuchos（器具、武器）与拉丁文 termes（白蚁）组合。
+
+EN — *Ateuchotermes*: From Greek a- (without) + teuchos (implement, weapon) + Latin termes.
+
+种加词 *pectinatus*：拉丁文/希腊文 pectin（栉）+ atus（具），指栉具
+
+EN — epithet *pectinatus*: From pectin (栉) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

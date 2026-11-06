@@ -32,6 +32,18 @@ EN — **白跗刻痕白蚁** (*Crenetermes albotarsalis*) is a species and the 
 
 ES — **白跗刻痕白蚁** (*Crenetermes albotarsalis*) es una especie, y la especie tipo de su género del género *Crenetermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1897; la localidad tipo es Cameroon: Kribi; Yaunde. Distribución: Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Nigeria, Rwanda, Tanzania, Zambia.
 
+## 词源
+
+属名 *Crenetermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *albotarsalis*：拉丁文/希腊文 albo（白）+ tarsalis（跗），指白跗
+
+EN — epithet *albotarsalis*: From albo (白) + tarsalis (跗)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

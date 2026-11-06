@@ -32,6 +32,18 @@ EN — **愉悦多铲白蚁** (*Polyspathotermes oblectatus*) is a species of th
 
 ES — **愉悦多铲白蚁** (*Polyspathotermes oblectatus*) es una especie del género *Polyspathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Harris en 1958; la localidad tipo es Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribución: Democratic Republic of the Congo, Malawi, Tanzania, Zambia.
 
+## 词源
+
+属名 *Polyspathotermes*：属名由希腊文 polys（多）+ spathē（阔刀、匙）与拉丁文 termes（白蚁）组合。
+
+EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
+
+种加词 *oblectatus*：拉丁文 oblectatus（被取悦的）
+
+EN — epithet *oblectatus*: Latin oblectatus (delighted)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

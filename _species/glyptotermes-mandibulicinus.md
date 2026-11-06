@@ -29,6 +29,18 @@ EN — **翘颚树白蚁** (*Glyptotermes mandibulicinus*) is a species of the g
 
 ES — **翘颚树白蚁** (*Glyptotermes mandibulicinus*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ping & Xu en 1986; la localidad tipo es China: Hainan Island: Ya. Distribución: China (Hainan).
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *mandibulicinus*：拉丁文 mandibula（上颚）+ 指小后缀，小颚
+
+EN — epithet *mandibulicinus*: Latin mandibula (mandible) + diminutive
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

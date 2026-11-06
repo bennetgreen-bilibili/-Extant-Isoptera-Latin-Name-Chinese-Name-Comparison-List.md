@@ -32,6 +32,18 @@ EN — **魔鬼魔白蚁** (*Anhangatermes anhanguera*) is a species of the genu
 
 ES — **魔鬼魔白蚁** (*Anhangatermes anhanguera*) es una especie del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Cunha en 2014; la localidad tipo es Brasil: Goiás: Anápolis, Campus da Universidade Estadual de Goiás \[16.383S 48.9453W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Anhangatermes*：属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。
+
+EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
+
+种加词 *anhanguera*：图皮语 Anhangá（老魔鬼、恶灵）
+
+EN — epithet *anhanguera*: Tupi Anhangá (evil spirit)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

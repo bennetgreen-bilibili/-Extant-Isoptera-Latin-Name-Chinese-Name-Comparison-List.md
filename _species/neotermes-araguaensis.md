@@ -29,6 +29,18 @@ EN — **阿拉瓜新白蚁** (*Neotermes araguaensis*) is a species of the genu
 
 ES — **阿拉瓜新白蚁** (*Neotermes araguaensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1959; la localidad tipo es Venezuela: Aragua: Rancho Grande \[ 10.3494N 67.6856W \]. Distribución: Venezuela.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *araguaensis*：以地名 阿拉瓜（委内瑞拉） 命名
+
+EN — epithet *araguaensis*: Named after the locality Aragua
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

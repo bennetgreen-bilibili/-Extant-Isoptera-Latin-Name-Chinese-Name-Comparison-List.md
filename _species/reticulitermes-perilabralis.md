@@ -29,6 +29,18 @@ EN — **近圆唇散白蚁** (*Reticulitermes perilabralis*) is a species of th
 
 ES — **近圆唇散白蚁** (*Reticulitermes perilabralis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Xu en 1992; la localidad tipo es China: Hubei Province: Zhangiazui, Yingshan. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *perilabralis*：希腊文 peri-（周围）+ 拉丁文 labrum（唇），周唇
+
+EN — epithet *perilabralis*: Greek peri- (around) + Latin labrum (lip)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

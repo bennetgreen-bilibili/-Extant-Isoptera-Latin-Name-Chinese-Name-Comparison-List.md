@@ -32,6 +32,18 @@ EN — **瘤额孔白蚁** (*Foraminitermes tubifrons*) is a species and the typ
 
 ES — **瘤额孔白蚁** (*Foraminitermes tubifrons*) es una especie, y la especie tipo de su género del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Cameroon: Lolodorf. Distribución: Cameroon, Guinea, Côte d'Ivoire, Nigeria.
 
+## 词源
+
+属名 *Foraminitermes*：属名由拉丁文 foramen（孔）与 termes（白蚁）组合。
+
+EN — *Foraminitermes*: From Latin foramen (opening) + termes.
+
+种加词 *tubifrons*：拉丁文 tubus（管）+ frons（额），管额
+
+EN — epithet *tubifrons*: Latin tubus (tube) + frons (front), tube-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

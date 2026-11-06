@@ -29,6 +29,18 @@ EN — **三混气牛白蚁** (*Tauritermes triceromegas*) is a species of the g
 
 ES — **三混气牛白蚁** (*Tauritermes triceromegas*) es una especie del género *Tauritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Córdoba: Cosquin \[ 31.25S 64.4833W \]. Distribución: Paraguay, Argentina, Brazil.
 
+## 词源
+
+属名 *Tauritermes*：属名由拉丁文 taurus（公牛）与 termes（白蚁）组合。
+
+EN — *Tauritermes*: From Latin taurus (bull) + termes.
+
+种加词 *triceromegas*：希腊文 tri-（三）+ keras（角）+ megas（大），三大角
+
+EN — epithet *triceromegas*: Greek tri- (three) + keras (horn) + megas (large)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

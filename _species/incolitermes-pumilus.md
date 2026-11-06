@@ -32,6 +32,18 @@ EN — **侏儒子民白蚁** (*Incolitermes pumilus*) is the only extant specie
 
 ES — **侏儒子民白蚁** (*Incolitermes pumilus*) es la única especie viviente del género *Incolitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: New South Wales: Unumgar State Forest, near Mt Lindesay (as Lindsay), near Queensland border. Distribución: Australia.
 
+## 词源
+
+属名 *Incolitermes*：属名由拉丁文 incola（居民、栖居者）与 termes（白蚁）组合。
+
+EN — *Incolitermes*: From Latin incola (inhabitant) + termes.
+
+种加词 *pumilus*：拉丁文 pumilus（矮小）
+
+EN — epithet *pumilus*: Latin pumilus (dwarf)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

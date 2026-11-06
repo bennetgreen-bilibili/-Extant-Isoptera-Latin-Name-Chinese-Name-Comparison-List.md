@@ -33,6 +33,18 @@ EN — **似马登亚种** (*Nasutitermes matangensis matangensioides*) is a sub
 
 ES — **似马登亚种** (*Nasutitermes matangensis matangensioides*) es una subespecie de *Nasutitermes matangensis*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Nasutitermes*. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Krakatau; Malaysia: Sarawak: Matang. No se incluye un registro de distribución separado en esta página; véase la especie parental *Nasutitermes matangensis*.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *matangensioides*：以地名 Matang（马登）＋希腊文 -oides（似）命名，指似马登的
+
+EN — epithet *matangensioides*: Named after Matang + Greek -oides (like)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

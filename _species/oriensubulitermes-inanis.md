@@ -34,6 +34,18 @@ EN — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) is a species and the 
 
 ES — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) es una especie, y la especie tipo de su género del género *Oriensubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak. Distribución: Indonesia, Malaysia, Singapore. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Oriensubulitermes*：属名由拉丁文 Oriens（东方）+ subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Oriensubulitermes*: From Latin Oriens (the East) + subula (awl) + termes.
+
+种加词 *inanis*：拉丁文 inanis（空虚的）
+
+EN — epithet *inanis*: Latin inanis (empty)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

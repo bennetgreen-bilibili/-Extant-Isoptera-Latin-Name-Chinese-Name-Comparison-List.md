@@ -32,6 +32,18 @@ EN — **帕安角白蚁** (*Angulitermes paanensis*) is a species of the genus 
 
 ES — **帕安角白蚁** (*Angulitermes paanensis*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Karen State: Pa-an: Yegaw. Distribución: Myanmar.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *paanensis*：以地名 paan 命名（具体地名待考）
+
+EN — epithet *paanensis*: Named after a locality (paan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

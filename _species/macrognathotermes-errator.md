@@ -32,6 +32,18 @@ EN — **游荡长颚白蚁** (*Macrognathotermes errator*) is a species and the
 
 ES — **游荡长颚白蚁** (*Macrognathotermes errator*) es una especie, y la especie tipo de su género del género *Macrognathotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Milingimbi. Distribución: Australia, Papua New Guinea.
 
+## 词源
+
+属名 *Macrognathotermes*：属名由希腊文 makros（大）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Macrognathotermes*: From Greek makros (large) + gnathos (jaw) + Latin termes.
+
+种加词 *errator*：拉丁文 errator（游荡者）
+
+EN — epithet *errator*: Latin errator (wanderer)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

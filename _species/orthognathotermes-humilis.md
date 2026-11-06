@@ -32,6 +32,18 @@ EN — **小直颚白蚁** (*Orthognathotermes humilis*) is a species of the gen
 
 ES — **小直颚白蚁** (*Orthognathotermes humilis*) es una especie del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amazonas: Maraã \[ 1.848S 65.523W \]. Distribución: Brazil, Guiana Shield.
 
+## 词源
+
+属名 *Orthognathotermes*：属名由希腊文 orthos（直）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
+
+种加词 *humilis*：拉丁文 humilis（低矮的、谦卑的）
+
+EN — epithet *humilis*: Latin humilis (low, humble)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

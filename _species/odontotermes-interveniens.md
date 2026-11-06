@@ -32,6 +32,18 @@ EN — **中间土白蚁** (*Odontotermes interveniens*) is a species of the gen
 
 ES — **中间土白蚁** (*Odontotermes interveniens*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Namibia: Okahandja. Distribución: southern Africa, Namibia, Angola.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *interveniens*：拉丁文 interveniens（介入的）
+
+EN — epithet *interveniens*: Latin interveniens (intervening)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

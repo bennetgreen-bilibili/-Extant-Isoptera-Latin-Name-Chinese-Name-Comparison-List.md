@@ -32,6 +32,18 @@ EN — **针状针白蚁** (*Aciculitermes aciculatus*) is a species and the typ
 
 ES — **针状针白蚁** (*Aciculitermes aciculatus*) es una especie, y la especie tipo de su género del género *Aciculitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Thailand, Indonesia, Malaysia, Singapore.
 
+## 词源
+
+属名 *Aciculitermes*：属名由拉丁文 acicula（小针、小刺）与 termes（白蚁）组合。
+
+EN — *Aciculitermes*: From Latin acicula (little pin) + termes.
+
+种加词 *aciculatus*：拉丁文/希腊文 acicul（针）+ atus（具），指针具
+
+EN — epithet *aciculatus*: From acicul (针) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **萨亚德里小锡兰白蚁** (*Ceylonitermellus sahyadriensis*) is a s
 
 ES — **萨亚德里小锡兰白蚁** (*Ceylonitermellus sahyadriensis*) es una especie del género *Ceylonitermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ranjith & Kalleshwaraswamy en 2022; la localidad tipo es India: Kerala, Wayanad, Meppadi \[11.5647N 76.1256E\]. Distribución: India.
 
+## 词源
+
+属名 *Ceylonitermellus*：属名由 Ceylon（锡兰，即斯里兰卡）与拉丁文指小后缀 -ellus（含 termes「白蚁」）组合。
+
+EN — *Ceylonitermellus*: From Ceylon (Sri Lanka) + diminutive -ellus (with termes).
+
+种加词 *sahyadriensis*：以地名 萨希亚德里（印度） 命名
+
+EN — epithet *sahyadriensis*: Named after the locality Sahyadr
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **斯巴艺双裂白蚁** (*Bifiditermes sibayiensis*) is a species of th
 
 ES — **斯巴艺双裂白蚁** (*Bifiditermes sibayiensis*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1949; la localidad tipo es South Africa: Diki Bush, 16 km. from Lake Sibayi. Distribución: Namibia, South Africa, Tanzania, Zambia, Zimbabwe.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *sibayiensis*：以地名 sibay 命名（具体地名待考）
+
+EN — epithet *sibayiensis*: Named after a locality (sibay)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

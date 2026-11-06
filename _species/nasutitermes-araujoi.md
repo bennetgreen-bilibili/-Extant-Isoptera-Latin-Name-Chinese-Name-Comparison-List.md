@@ -32,6 +32,18 @@ EN — **阿劳若象白蚁** (*Nasutitermes araujoi*) is a species of the genus
 
 ES — **阿劳若象白蚁** (*Nasutitermes araujoi*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roonwal & Rathore en 1976; la localidad tipo es Brasil: Pará: Belterra \[2.63639S 54.9372W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *araujoi*：以人名 araujo 命名（巴西白蚁学家 R. L. Araujo）
+
+EN — epithet *araujoi*: Named after 巴西白蚁学家 R. L. Araujo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

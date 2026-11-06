@@ -32,6 +32,18 @@ EN — **威特默亮白蚁** (*Euhamitermes wittmeri*) is a species of the genu
 
 ES — **威特默亮白蚁** (*Euhamitermes wittmeri*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1977; la localidad tipo es Bhutan: Samchi. Distribución: Oriental region.
 
+## 词源
+
+属名 *Euhamitermes*：属名由希腊文 eu-（良好、真）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *wittmeri*：以人名 wittmer 命名（具体指向待考）
+
+EN — epithet *wittmeri*: Named after a person (wittmer), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

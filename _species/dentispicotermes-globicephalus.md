@@ -32,6 +32,18 @@ EN — **球头齿尖白蚁** (*Dentispicotermes globicephalus*) is a species an
 
 ES — **球头齿尖白蚁** (*Dentispicotermes globicephalus*) es una especie, y la especie tipo de su género del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Dentispicotermes*：属名由拉丁文 dens（齿）+ spica（尖、穗）与 termes（白蚁）组合。
+
+EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
+
+种加词 *globicephalus*：拉丁文/希腊文词根「glob」（球）
+
+EN — epithet *globicephalus*: From the descriptive term 'glob' (globe)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

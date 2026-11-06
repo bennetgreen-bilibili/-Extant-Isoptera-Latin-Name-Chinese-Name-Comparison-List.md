@@ -29,6 +29,18 @@ EN — **共生木白蚁** (*Kalotermes cognatus*) is a species of the genus *Ka
 
 ES — **共生木白蚁** (*Kalotermes cognatus*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gay en 1976; la localidad tipo es New Zealand: Kermadec Islands: Raoul Island. Distribución: New Zealand, Australia.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *cognatus*：拉丁文/希腊文 cogn（亲缘）+ atus（具），指亲缘具
+
+EN — epithet *cognatus*: From cogn (亲缘) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

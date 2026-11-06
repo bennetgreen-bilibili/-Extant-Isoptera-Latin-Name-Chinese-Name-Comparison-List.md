@@ -29,6 +29,18 @@ EN — **重庆杆白蚁** (*Stylotermes chongqingensis*) is a species of the ge
 
 ES — **重庆杆白蚁** (*Stylotermes chongqingensis*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Chen & Ping en 1983; la localidad tipo es China: Sichuan Province: Jinyuan Shan, Chongqing Shi. Distribución: China.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *chongqingensis*：以地名 重庆 命名
+
+EN — epithet *chongqingensis*: Named after the locality Chongqing
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

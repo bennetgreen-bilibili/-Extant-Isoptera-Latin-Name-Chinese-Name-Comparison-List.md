@@ -29,6 +29,18 @@ EN — **巴基斯坦上木白蚁** (*Epicalotermes pakistanicus*) is a species 
 
 ES — **巴基斯坦上木白蚁** (*Epicalotermes pakistanicus*) es una especie del género *Epicalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Baluchistan: Gwadar. Distribución: Pakistan.
 
+## 词源
+
+属名 *Epicalotermes*：属名由希腊文 epi-（在上）+ kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
+
+种加词 *pakistanicus*：地名：巴基斯坦
+
+EN — epithet *pakistanicus*: After Pakistan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

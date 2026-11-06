@@ -29,6 +29,18 @@ EN — **直颚杆白蚁** (*Stylotermes orthognathus*) is a species of the genu
 
 ES — **直颚杆白蚁** (*Stylotermes orthognathus*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Ping & Xu en 1984; la localidad tipo es China: Guizhou Province: Libo County. Distribución: China.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *orthognathus*：希腊文 orthos（直）+ gnathos（颚），直颚
+
+EN — epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straight-jawed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

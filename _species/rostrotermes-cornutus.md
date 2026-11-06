@@ -32,6 +32,18 @@ EN — **具角突吻白蚁** (*Rostrotermes cornutus*) is the only extant speci
 
 ES — **具角突吻白蚁** (*Rostrotermes cornutus*) es la única especie viviente del género *Rostrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Grassé en 1943; la localidad tipo es Guinea: Mont Nimba; Ivory Coast: Danané. Distribución: West Africa, Ivory Coast, Guinea, Liberia, Nigeria, Sierra Leone.
 
+## 词源
+
+属名 *Rostrotermes*：属名由拉丁文 rostrum（喙、吻突）与 termes（白蚁）组合。
+
+EN — *Rostrotermes*: From Latin rostrum (beak, rostrum) + termes.
+
+种加词 *cornutus*：拉丁文/希腊文词根「corn」（角）
+
+EN — epithet *cornutus*: From the descriptive term 'corn' (horn)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

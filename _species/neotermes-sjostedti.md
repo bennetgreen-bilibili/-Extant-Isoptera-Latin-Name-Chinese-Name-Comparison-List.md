@@ -29,6 +29,18 @@ EN — **舍斯泰特新白蚁** (*Neotermes sjostedti*) is a species of the gen
 
 ES — **舍斯泰特新白蚁** (*Neotermes sjostedti*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Desneux en 1908; la localidad tipo es Vanuatu: Espiritu Santo. Distribución: Vanuatu.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
+
+EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

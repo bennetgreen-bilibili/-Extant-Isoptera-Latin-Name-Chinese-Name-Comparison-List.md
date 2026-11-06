@@ -29,6 +29,18 @@ EN — **尼科巴树白蚁** (*Glyptotermes nicobarensis*) is a species of the 
 
 ES — **尼科巴树白蚁** (*Glyptotermes nicobarensis*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Maiti & Chakraborty en 1981; la localidad tipo es India: Nicobar Islands: Great Nicobar Island: Campbell Bay, Laksman Beach. Distribución: India.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *nicobarensis*：以地名 nicobar 命名（具体地名待考）
+
+EN — epithet *nicobarensis*: Named after a locality (nicobar)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -32,6 +32,18 @@ EN — **细瘦蛇白蚁** (*Ophiotermes gracilis*) is a species of the genus *O
 
 ES — **细瘦蛇白蚁** (*Ophiotermes gracilis*) es una especie del género *Ophiotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Weidner en 1974; la localidad tipo es Angola: "Alto Chicapa, à 10 km du poste, rives du Cuango Muqué, à côté de la route.". Distribución: Angola.
 
+## 词源
+
+属名 *Ophiotermes*：属名由希腊文 ophis（蛇）与拉丁文 termes（白蚁）组合。
+
+EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
+
+种加词 *gracilis*：拉丁文 gracilis（细长、纤细）
+
+EN — epithet *gracilis*: Latin gracilis (slender)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

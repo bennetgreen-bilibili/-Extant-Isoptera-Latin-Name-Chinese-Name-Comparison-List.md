@@ -29,6 +29,18 @@ EN — **眼显舌白蚁** (*Glossotermes oculatus*) is a species and the type s
 
 ES — **眼显舌白蚁** (*Glossotermes oculatus*) es una especie, y la especie tipo de su género del género *Glossotermes*, en la familia SERRITERMITIDAE. La especie fue descrita por Emerson en 1950; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[ 1.7N 57.9167W \]. Distribución: French Guiana, Guyana.
 
+## 词源
+
+属名 *Glossotermes*：属名由希腊文 glōssa（舌）与拉丁文 termes（白蚁）组合。
+
+EN — *Glossotermes*: From Greek glōssa (tongue) + Latin termes.
+
+种加词 *oculatus*：拉丁文/希腊文 ocul（眼）+ atus（具），指眼具
+
+EN — epithet *oculatus*: From ocul (眼) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）

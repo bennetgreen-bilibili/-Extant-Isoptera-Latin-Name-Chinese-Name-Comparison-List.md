@@ -34,6 +34,18 @@ EN — **拟伤残净白蚁** (*Nitiditermes truncatoides*) is a species of the 
 
 ES — **拟伤残净白蚁** (*Nitiditermes truncatoides*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Natal: Mbazwane Swamp \[approx. 27°30?S, 32°20?E\]. Distribución: South Africa. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *truncatoides*：拉丁文/希腊文 truncat（截断）+ oides（似），指截断似
+
+EN — epithet *truncatoides*: From truncat (截断) + oides (似)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

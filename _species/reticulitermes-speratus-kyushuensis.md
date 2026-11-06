@@ -30,6 +30,18 @@ EN — **九州亚种** (*Reticulitermes speratus kyushuensis*) is a subspecies 
 
 ES — **九州亚种** (*Reticulitermes speratus kyushuensis*) es una subespecie de *Reticulitermes speratus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes speratus*.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *kyushuensis*：以地名 Kyūshū（九州，日本）命名
+
+EN — epithet *kyushuensis*: Named after Kyūshū (Japan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

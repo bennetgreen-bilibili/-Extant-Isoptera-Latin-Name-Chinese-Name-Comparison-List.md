@@ -34,6 +34,18 @@ EN — **龙格伦吉里印白蚁** (*Indotermes rongrensis*) is a species of th
 
 ES — **龙格伦吉里印白蚁** (*Indotermes rongrensis*) es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Assam: Garo Hills District: Rongrengiri. Distribución: Oriental region. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Indotermes*：属名由地名 India（印度）+ 拉丁文 termes（白蚁）组合。
+
+EN — *Indotermes*: From India + Latin termes.
+
+种加词 *rongrensis*：以地名 rongr 命名（具体地名待考）
+
+EN — epithet *rongrensis*: Named after a locality (rongr)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

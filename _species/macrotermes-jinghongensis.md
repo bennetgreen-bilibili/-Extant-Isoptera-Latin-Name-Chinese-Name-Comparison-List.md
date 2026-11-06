@@ -32,6 +32,18 @@ EN — **景洪大白蚁** (*Macrotermes jinghongensis*) is a species of the gen
 
 ES — **景洪大白蚁** (*Macrotermes jinghongensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ping & Li en 1985; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan), Jinghong.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *jinghongensis*：以地名 景洪（云南） 命名
+
+EN — epithet *jinghongensis*: Named after the locality Jinghong
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

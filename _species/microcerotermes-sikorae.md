@@ -32,6 +32,18 @@ EN — **西科拉锯白蚁** (*Microcerotermes sikorae*) is a species of the ge
 
 ES — **西科拉锯白蚁** (*Microcerotermes sikorae*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Wasmann en 1893; la localidad tipo es Madagascar: Andrangoloaka. Distribución: Madagascar.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *sikorae*：以人名 sikor 命名（具体指向待考）
+
+EN — epithet *sikorae*: Named after a person (sikor), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **威尼弗雷德叉白蚁** (*Furculitermes winifredae*) is a species an
 
 ES — **威尼弗雷德叉白蚁** (*Furculitermes winifredae*) es una especie, y la especie tipo de su género del género *Furculitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Furculitermes*：属名由拉丁文 furcula（小叉）与 termes（白蚁）组合。
+
+EN — *Furculitermes*: From Latin furcula (little fork) + termes.
+
+种加词 *winifredae*：以人名 winifred 命名（具体指向待考）
+
+EN — epithet *winifredae*: Named after a person (winifred), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

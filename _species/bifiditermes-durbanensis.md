@@ -31,6 +31,18 @@ EN — **德班双裂白蚁** (*Bifiditermes durbanensis*) is a species of the g
 
 ES — **德班双裂白蚁** (*Bifiditermes durbanensis*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Durban. Distribución: South Africa, Kenya, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *durbanensis*：以地名 durban 命名（具体地名待考）
+
+EN — epithet *durbanensis*: Named after a locality (durban)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

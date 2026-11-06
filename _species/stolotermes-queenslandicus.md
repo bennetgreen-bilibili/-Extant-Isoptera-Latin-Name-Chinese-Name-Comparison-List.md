@@ -29,6 +29,18 @@ EN — **昆士兰胄白蚁** (*Stolotermes queenslandicus*) is a species of the
 
 ES — **昆士兰胄白蚁** (*Stolotermes queenslandicus*) es una especie del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Ravenshoe. Distribución: Australia.
 
+## 词源
+
+属名 *Stolotermes*：属名由拉丁文 stolo（根出条、匍匐枝）与 termes（白蚁）组合。
+
+EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
+
+种加词 *queenslandicus*：以地名 昆士兰（澳大利亚） 命名
+
+EN — epithet *queenslandicus*: Named after the locality Queensland
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

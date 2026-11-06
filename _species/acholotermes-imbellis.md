@@ -32,6 +32,18 @@ EN — **和平顺白蚁** (*Acholotermes imbellis*) is a species of the genus *
 
 ES — **和平顺白蚁** (*Acholotermes imbellis*) es una especie del género *Acholotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville. Distribución: tropical Africa.
 
+## 词源
+
+属名 *Acholotermes*：属名由希腊文 a-（无）+ cholē（胆汁、怒）与拉丁文 termes（白蚁）组合。
+
+EN — *Acholotermes*: From Greek a- (without) + cholē (bile) + Latin termes.
+
+种加词 *imbellis*：拉丁文 in-（无）+ bellum（战争），不好斗的
+
+EN — epithet *imbellis*: Latin in- (without) + bellum (war), unwarlike
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

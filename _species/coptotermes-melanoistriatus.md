@@ -29,6 +29,18 @@ EN — **黑带乳白蚁** (*Coptotermes melanoistriatus*) is a species of the g
 
 ES — **黑带乳白蚁** (*Coptotermes melanoistriatus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Gao, Lau & He en 1995; la localidad tipo es China: Hong Kong: New Territories: Fanling, Kam Tsin Chuen—Fung Shui Ground. Distribución: China (Hong Kong).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *melanoistriatus*：拉丁文/希腊文 melanoistri（黑）+ atus（具），指黑具
+
+EN — epithet *melanoistriatus*: From melanoistri (黑) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

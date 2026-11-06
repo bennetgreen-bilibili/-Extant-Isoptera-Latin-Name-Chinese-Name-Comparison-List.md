@@ -32,6 +32,18 @@ EN — **奇异漠白蚁** (*Eremotermes paradoxalis*) is a species of the genus
 
 ES — **奇异漠白蚁** (*Eremotermes paradoxalis*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es India: Karnataka: Bangalore. Distribución: India, Pakistan.
 
+## 词源
+
+属名 *Eremotermes*：属名由希腊文 erēmos（荒漠、孤独）与拉丁文 termes（白蚁）组合。
+
+EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
+
+种加词 *paradoxalis*：拉丁文/希腊文 paradox（奇异）+ alis（相关），指奇异相关
+
+EN — epithet *paradoxalis*: From paradox (奇异) + alis (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -31,6 +31,18 @@ EN — **长颚堆砂白蚁** (*Cryptotermes dudleyi*) is a species of the genus
 
 ES — **长颚堆砂白蚁** (*Cryptotermes dudleyi*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1918; la localidad tipo es Panama: ?. Distribución: Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda. Este sitio registra 6 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *dudleyi*：以人名 dudley 命名（具体指向待考）
+
+EN — epithet *dudleyi*: Named after a person (dudley), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

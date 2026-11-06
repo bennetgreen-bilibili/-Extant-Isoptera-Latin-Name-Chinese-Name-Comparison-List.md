@@ -32,6 +32,18 @@ EN — **罗曼前角白蚁** (*Procornitermes romani*) is a species of the genu
 
 ES — **罗曼前角白蚁** (*Procornitermes romani*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: Bahia: Itaetê \[12.98S 40.97W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Procornitermes*：属名由希腊文 pro-（前）+ 拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
+
+种加词 *romani*：以人名 roman 命名（具体指向待考）
+
+EN — epithet *romani*: Named after a person (roman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

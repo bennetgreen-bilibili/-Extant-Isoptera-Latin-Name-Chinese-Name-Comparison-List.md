@@ -32,6 +32,18 @@ EN — **达扎丕土白蚁** (*Odontotermes djampeensis*) is a species of the g
 
 ES — **达扎丕土白蚁** (*Odontotermes djampeensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Sulawesi: Djampea Island. Distribución: Southeast Asia, Indonesia, Thailand.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *djampeensis*：以地名 詹佩（印度尼西亚） 命名
+
+EN — epithet *djampeensis*: Named after the locality Djampe
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

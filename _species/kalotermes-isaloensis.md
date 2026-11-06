@@ -29,6 +29,18 @@ EN — **伊萨卢木白蚁** (*Kalotermes isaloensis*) is a species of the genu
 
 ES — **伊萨卢木白蚁** (*Kalotermes isaloensis*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Isalo. Distribución: Madagascar, Comoros.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *isaloensis*：以地名 伊萨卢（马达加斯加） 命名
+
+EN — epithet *isaloensis*: Named after the locality Isalo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

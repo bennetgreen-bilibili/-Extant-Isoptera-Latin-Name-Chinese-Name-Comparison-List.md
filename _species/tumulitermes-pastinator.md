@@ -34,6 +34,18 @@ EN — **挖掘冢白蚁** (*Tumulitermes pastinator*) is a species of the genus
 
 ES — **挖掘冢白蚁** (*Tumulitermes pastinator*) es una especie del género *Tumulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: 34 miles Siding, Northern Territory Railway, approximately 6 km NE Southport. Distribución: Australia. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Tumulitermes*：属名由拉丁文 tumulus（土丘、坟）与 termes（白蚁）组合。
+
+EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
+
+种加词 *pastinator*：拉丁文 pastinator（挖掘者）
+
+EN — epithet *pastinator*: Latin pastinator (digger)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

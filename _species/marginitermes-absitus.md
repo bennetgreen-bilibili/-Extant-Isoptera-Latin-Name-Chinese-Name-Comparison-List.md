@@ -29,6 +29,18 @@ EN — **遥远边白蚁** (*Marginitermes absitus*) is a species of the genus *
 
 ES — **遥远边白蚁** (*Marginitermes absitus*) es una especie del género *Marginitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2013; la localidad tipo es Australia: Queensland: Cape York Peninsula. Distribución: Australia.
 
+## 词源
+
+属名 *Marginitermes*：属名由拉丁文 margo（边缘）与 termes（白蚁）组合。
+
+EN — *Marginitermes*: From Latin margo (margin) + termes.
+
+种加词 *absitus*：拉丁文 absitus（远离的、偏僻的）
+
+EN — epithet *absitus*: Latin absitus (remote, distant)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

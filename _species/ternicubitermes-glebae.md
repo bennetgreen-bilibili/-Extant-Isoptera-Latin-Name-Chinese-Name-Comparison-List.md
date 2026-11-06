@@ -32,6 +32,18 @@ EN — **土块三方白蚁** (*Ternicubitermes glebae*) is a species of the gen
 
 ES — **土块三方白蚁** (*Ternicubitermes glebae*) es una especie del género *Ternicubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Tanzania: Kilimanjaro. Distribución: Kenya, Tanzania, Uganda.
 
+## 词源
+
+属名 *Ternicubitermes*：属名由拉丁文 terni（三个一组）+ cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
+
+种加词 *glebae*：以人名 gleb 命名（具体指向待考）
+
+EN — epithet *glebae*: Named after a person (gleb), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

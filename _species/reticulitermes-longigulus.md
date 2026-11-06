@@ -29,6 +29,18 @@ EN — **长颏散白蚁** (*Reticulitermes longigulus*) is a species of the gen
 
 ES — **长颏散白蚁** (*Reticulitermes longigulus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Li en 1993; la localidad tipo es China: Hubei Province: Aimen Guan: Macheng. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *longigulus*：拉丁文/希腊文 longig（长）+ ulus（小（指小）），指长小（指小）
+
+EN — epithet *longigulus*: From longig (长) + ulus (小（指小）)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

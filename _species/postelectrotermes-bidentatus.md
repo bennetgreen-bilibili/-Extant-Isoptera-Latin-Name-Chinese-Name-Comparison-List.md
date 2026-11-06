@@ -29,6 +29,18 @@ EN — **二齿后琥珀白蚁** (*Postelectrotermes bidentatus*) is a species o
 
 ES — **二齿后琥珀白蚁** (*Postelectrotermes bidentatus*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Zabul \[Jalahi\]. Distribución: Iran.
 
+## 词源
+
+属名 *Postelectrotermes*：属名由拉丁文 post（后）+ 希腊文 ēlektron（琥珀）与 termes（白蚁）组合（可能与琥珀化石相关）。
+
+EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
+
+种加词 *bidentatus*：拉丁文 bi-（二）+ dentatus（有齿），双齿
+
+EN — epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **巴尔干散白蚁** (*Reticulitermes balkanensis*) is a species of the
 
 ES — **巴尔干散白蚁** (*Reticulitermes balkanensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Clément en 1984; la localidad tipo es Greece: ?; Yugoslavia: ?. Distribución: Balkans, Greece etc., Albania, former Yugoslavia.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *balkanensis*：以地名 巴尔干 命名
+
+EN — epithet *balkanensis*: Named after the locality Balkan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

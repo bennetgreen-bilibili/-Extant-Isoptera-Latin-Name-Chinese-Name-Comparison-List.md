@@ -31,6 +31,18 @@ EN — **旅游小草白蚁** (*Microhodotermes viator*) is a species and the ty
 
 ES — **旅游小草白蚁** (*Microhodotermes viator*) es una especie, y la especie tipo de su género del género *Microhodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Latreille en 1804; la localidad tipo es South Africa: Cape of Good Hope. Distribución: South Africa, Namibia. Este sitio registra 6 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Microhodotermes*：属名由希腊文 mikros（小）+ hodos（道路）与拉丁文 termes（白蚁）组合。
+
+EN — *Microhodotermes*: From Greek mikros (small) + hodos (path) + Latin termes.
+
+种加词 *viator*：拉丁文 viator（旅行者）
+
+EN — epithet *viator*: Latin viator (traveller)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

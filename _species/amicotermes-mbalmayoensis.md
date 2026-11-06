@@ -32,6 +32,18 @@ EN — **姆巴尔马约善白蚁** (*Amicotermes mbalmayoensis*) is a species o
 
 ES — **姆巴尔马约善白蚁** (*Amicotermes mbalmayoensis*) es una especie del género *Amicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1999; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ekombitie. Distribución: Cameroon, Mbalmayo, Nigeria.
 
+## 词源
+
+属名 *Amicotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *mbalmayoensis*：以地名 mbalmayo 命名（具体地名待考）
+
+EN — epithet *mbalmayoensis*: Named after a locality (mbalmayo)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **毛腹多毛白蚁** (*Hirtitermes hirtiventris*) is a species and the 
 
 ES — **毛腹多毛白蚁** (*Hirtitermes hirtiventris*) es una especie, y la especie tipo de su género del género *Hirtitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Malaysia: Sarawak. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Hirtitermes*：属名由拉丁文 hirtus（多毛的）与 termes（白蚁）组合。
+
+EN — *Hirtitermes*: From Latin hirtus (hairy) + termes.
+
+种加词 *hirtiventris*：拉丁文 hirtus（多毛）+ venter（腹），毛腹
+
+EN — epithet *hirtiventris*: Latin hirtus (hairy) + venter (belly), hairy-bellied
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **短唇厚唇白蚁** (*Labiotermes brevilabius*) is a species of the ge
 
 ES — **短唇厚唇白蚁** (*Labiotermes brevilabius*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1965; la localidad tipo es Brasil: São Paulo: Novo Horizonte \[21.4681S 49.2208W\]. Distribución: Brazil, Bolivia.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *brevilabius*：拉丁文/希腊文词根「brev」（短）
+
+EN — epithet *brevilabius*: From the descriptive term 'brev' (short)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

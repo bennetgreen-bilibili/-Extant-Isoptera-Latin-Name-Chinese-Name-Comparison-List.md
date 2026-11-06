@@ -32,6 +32,18 @@ EN — **异色加勒比白蚁** (*Caribitermes discolor*) is the only extant sp
 
 ES — **异色加勒比白蚁** (*Caribitermes discolor*) es la única especie viviente del género *Caribitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Puerto Rico: Adjuntas; Culebra Island; El Yunque; Manati. Distribución: Dominican Republic, Puerto Rico, Cuba, Haiti, Jamaica.
 
+## 词源
+
+属名 *Caribitermes*：属名由 Carib（加勒比、加勒比人）与 termes（白蚁）组合。
+
+EN — *Caribitermes*: From Carib (Caribbean) + termes.
+
+种加词 *discolor*：拉丁文 discolor（异色的）
+
+EN — epithet *discolor*: Latin discolor (of different colour)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

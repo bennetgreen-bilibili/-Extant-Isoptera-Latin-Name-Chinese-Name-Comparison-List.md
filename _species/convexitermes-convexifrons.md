@@ -32,6 +32,18 @@ EN — **凸额凸白蚁** (*Convexitermes convexifrons*) is a species and the t
 
 ES — **凸额凸白蚁** (*Convexitermes convexifrons*) es una especie, y la especie tipo de su género del género *Convexitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Brazil, Colombia, Bolivia, Ecuador, Peru, Paraguay, Trinidad.
 
+## 词源
+
+属名 *Convexitermes*：属名由拉丁文 convexus（凸的）与 termes（白蚁）组合。
+
+EN — *Convexitermes*: From Latin convexus (convex) + termes.
+
+种加词 *convexifrons*：拉丁文/希腊文 convexi（凸）+ frons（额），指凸额
+
+EN — epithet *convexifrons*: From convexi (凸) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **周氏杆白蚁** (*Stylotermes choui*) is a species of the genus *Styl
 
 ES — **周氏杆白蚁** (*Stylotermes choui*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Ping & Xu en 1981; la localidad tipo es China: Hunan Province: Huitong. Distribución: China.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *choui*：以人名 Chou 命名（中国昆虫学家周尧）
+
+EN — epithet *choui*: Named after the Chinese entomologist Chou Io
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

@@ -32,6 +32,18 @@ EN — **陡峭小真白蚁** (*Eutermellus abruptus*) is a species of the genus
 
 ES — **陡峭小真白蚁** (*Eutermellus abruptus*) es una especie del género *Eutermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1965; la localidad tipo es Democratic Republic of the Congo: Njili, 18 km from Kinshasa (Leopoldville). Distribución: tropical Africa.
 
+## 词源
+
+属名 *Eutermellus*：属名由希腊文 eu-（良好、真）与 termes（白蚁）+ 拉丁文指小后缀 -ellus 组合。
+
+EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
+
+种加词 *abruptus*：拉丁文 abruptus（突然的、陡断的）
+
+EN — epithet *abruptus*: Latin abruptus (abrupt)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

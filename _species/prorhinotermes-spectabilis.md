@@ -29,6 +29,18 @@ EN — **奇丽原鼻白蚁** (*Prorhinotermes spectabilis*) is a species of the
 
 ES — **奇丽原鼻白蚁** (*Prorhinotermes spectabilis*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Ping & Xu en 1989; la localidad tipo es China: Yunnan Province: Hekou Yaozu Zizhixian. Distribución: China, Yunnan.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *spectabilis*：拉丁文 spectabilis（壮观的、显著的）
+
+EN — epithet *spectabilis*: Latin spectabilis (spectacular)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

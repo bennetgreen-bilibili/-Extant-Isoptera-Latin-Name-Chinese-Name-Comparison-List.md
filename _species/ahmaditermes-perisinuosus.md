@@ -32,6 +32,18 @@ EN — **近丘额钝颚白蚁** (*Ahmaditermes perisinuosus*) is a species of t
 
 ES — **近丘额钝颚白蚁** (*Ahmaditermes perisinuosus*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li & Xiao en 1989; la localidad tipo es China: Guangxi Province: Huashuichong Forest: Hexian. Distribución: Guangxi (Hexian Huashuichong).
 
+## 词源
+
+属名 *Ahmaditermes*：属名以人名 Ahmad 命名（巴基斯坦白蚁学家 Muzaffer Ahmad），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
+
+种加词 *perisinuosus*：拉丁文 per-（非常）+ sinuosus（波曲），极波曲
+
+EN — epithet *perisinuosus*: Latin per- (very) + sinuosus (wavy), very sinuous
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

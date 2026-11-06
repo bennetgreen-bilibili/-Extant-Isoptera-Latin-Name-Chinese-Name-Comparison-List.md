@@ -32,6 +32,18 @@ EN — **大地班代拉白蚁** (*Bandeiratermes tellustris*) is a species of t
 
 ES — **大地班代拉白蚁** (*Bandeiratermes tellustris*) es una especie del género *Bandeiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino en 1990; la localidad tipo es Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Bandeiratermes*：属名以人名 Bandeira 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Bandeiratermes*: Named after a person (Bandeira); -termes from Latin termes.
+
+种加词 *tellustris*：拉丁文 tellus（大地），大地的
+
+EN — epithet *tellustris*: Latin tellus (earth), of the earth
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

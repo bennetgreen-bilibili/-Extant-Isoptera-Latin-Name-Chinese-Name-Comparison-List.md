@@ -32,6 +32,18 @@ EN — **杜马斯锯白蚁** (*Microcerotermes dumasensis*) is a species of the
 
 ES — **杜马斯锯白蚁** (*Microcerotermes dumasensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Thakur en 1989; la localidad tipo es India: Gujarat: Surat District: Dumas seacoast. Distribución: India.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *dumasensis*：以地名 dumas 命名（具体地名待考）
+
+EN — epithet *dumasensis*: Named after a locality (dumas)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

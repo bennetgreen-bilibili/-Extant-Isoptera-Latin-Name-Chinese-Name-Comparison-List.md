@@ -32,6 +32,18 @@ EN — **马扎鲁尼凸鼻白蚁** (*Coatitermes mazaruniensis*) is a species o
 
 ES — **马扎鲁尼凸鼻白蚁** (*Coatitermes mazaruniensis*) es una especie del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Guyana, Ecuador, French Guiana.
 
+## 词源
+
+属名 *Coatitermes*：属名由图皮语 Coati（南美长鼻浣熊）与 termes（白蚁）组合。
+
+EN — *Coatitermes*: From Tupi Coati (coati) + termes.
+
+种加词 *mazaruniensis*：以地名 马扎鲁尼（圭亚那） 命名
+
+EN — epithet *mazaruniensis*: Named after the locality Mazarun
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

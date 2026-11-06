@@ -34,6 +34,18 @@ EN — **长足长足白蚁** (*Longipeditermes longipes*) is a species and the 
 
 ES — **长足长足白蚁** (*Longipeditermes longipes*) es una especie, y la especie tipo de su género del género *Longipeditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak; Sarawak: Marudi. Distribución: Malaysia, Singapore, Thailand, Indonesia, Brunei. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Longipeditermes*：属名由拉丁文 longus（长）+ pes（足）与 termes（白蚁）组合。
+
+EN — *Longipeditermes*: From Latin longus (long) + pes (foot) + termes.
+
+种加词 *longipes*：拉丁文 longus（长）+ pes（足），长足
+
+EN — epithet *longipes*: Latin longus (long) + pes (foot), long-legged
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

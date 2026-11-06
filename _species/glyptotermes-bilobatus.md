@@ -29,6 +29,18 @@ EN — **双裂树白蚁** (*Glyptotermes bilobatus*) is a species of the genus 
 
 ES — **双裂树白蚁** (*Glyptotermes bilobatus*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1934; la localidad tipo es Costa Rica: Santa Clara: Hamburg Farm. Distribución: Panama, Costa Rica.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *bilobatus*：拉丁文 bi-（二）+ lobatus（有叶），双叶
+
+EN — epithet *bilobatus*: Latin bi- (two) + lobatus (lobed), two-lobed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **锡兰堆砂白蚁** (*Cryptotermes ceylonicus*) is a species of the ge
 
 ES — **锡兰堆砂白蚁** (*Cryptotermes ceylonicus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ranaweera en 1962; la localidad tipo es Sri Lanka: Hewaheta. Distribución: Sri Lanka.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
+
+EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

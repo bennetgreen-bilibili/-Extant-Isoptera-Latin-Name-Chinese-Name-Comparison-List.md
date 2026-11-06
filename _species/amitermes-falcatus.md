@@ -32,6 +32,18 @@ EN — **镰颚弓白蚁** (*Amitermes falcatus*) is a species of the genus *Ami
 
 ES — **镰颚弓白蚁** (*Amitermes falcatus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Gay en 1968; la localidad tipo es Australia: Western Australia: 13 mi N Geraldton. Distribución: Australia.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *falcatus*：拉丁文 falcatus（镰状的）
+
+EN — epithet *falcatus*: Latin falcatus (sickle-shaped)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

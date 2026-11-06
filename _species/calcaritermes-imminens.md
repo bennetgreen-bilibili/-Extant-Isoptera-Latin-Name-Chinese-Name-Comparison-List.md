@@ -29,6 +29,18 @@ EN — **悬垂距白蚁** (*Calcaritermes imminens*) is a species and the type 
 
 ES — **悬垂距白蚁** (*Calcaritermes imminens*) es una especie, y la especie tipo de su género del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1925; la localidad tipo es Colombia: Magdalena: Cincinnati (plantation) \[ 11.1N 74.0833W \]. Distribución: Colombia.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *imminens*：拉丁文 imminens（迫近的）
+
+EN — epithet *imminens*: Latin imminens (imminent)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

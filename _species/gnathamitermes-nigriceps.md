@@ -32,6 +32,18 @@ EN — **黑头颚钩白蚁** (*Gnathamitermes nigriceps*) is a species of the g
 
 ES — **黑头颚钩白蚁** (*Gnathamitermes nigriceps*) es una especie del género *Gnathamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1930; la localidad tipo es Mexico: Colima State: Jala, 20 km west of Colima. Distribución: Central America (Mexico).
 
+## 词源
+
+属名 *Gnathamitermes*：属名含希腊文 gnathos（颚）与拉丁文 termes（白蚁）；其余组成未详。
+
+EN — *Gnathamitermes*: Contains Greek gnathos (jaw) + Latin termes; further derivation uncertain.
+
+种加词 *nigriceps*：拉丁文 niger（黑）+ -ceps（头），黑头
+
+EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

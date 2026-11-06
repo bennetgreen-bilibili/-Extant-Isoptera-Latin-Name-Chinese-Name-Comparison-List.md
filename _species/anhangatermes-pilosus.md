@@ -32,6 +32,18 @@ EN — **多毛魔白蚁** (*Anhangatermes pilosus*) is a species of the genus *
 
 ES — **多毛魔白蚁** (*Anhangatermes pilosus*) es una especie del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2014; la localidad tipo es Brasil: Mato Grosso: Parque Estadual do Araguaia \[12.575S 50.918W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Anhangatermes*：属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。
+
+EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
+
+种加词 *pilosus*：拉丁文 pilosus（多毛）
+
+EN — epithet *pilosus*: Latin pilosus (hairy)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

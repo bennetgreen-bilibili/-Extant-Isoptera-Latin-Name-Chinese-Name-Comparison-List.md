@@ -29,6 +29,18 @@ EN — **小头散白蚁** (*Reticulitermes microcephalus*) is a species of the 
 
 ES — **小头散白蚁** (*Reticulitermes microcephalus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Zhu en 1984; la localidad tipo es China: Guangdong Province: Haifeng: Yuandun forestry farm. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *microcephalus*：希腊文 mikros（小）+ kephalē（头），小头
+
+EN — epithet *microcephalus*: Greek mikros (small) + kephalē (head), small-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

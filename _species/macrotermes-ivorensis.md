@@ -32,6 +32,18 @@ EN — **象牙海岸大白蚁** (*Macrotermes ivorensis*) is a species of the g
 
 ES — **象牙海岸大白蚁** (*Macrotermes ivorensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Grassé & Noirot en 1951; la localidad tipo es Ivory Coast: Adiopodoumé. Distribución: West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Guinea, Nigeria, Senegal, Sierra Leone.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *ivorensis*：以地名 ivor 命名（具体地名待考）
+
+EN — epithet *ivorensis*: Named after a locality (ivor)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

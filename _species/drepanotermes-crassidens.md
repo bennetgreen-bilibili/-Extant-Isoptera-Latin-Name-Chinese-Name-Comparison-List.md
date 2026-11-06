@@ -32,6 +32,18 @@ EN — **厚齿镰白蚁** (*Drepanotermes crassidens*) is a species of the genu
 
 ES — **厚齿镰白蚁** (*Drepanotermes crassidens*) es una especie del género *Drepanotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Watson & Perry en 1981; la localidad tipo es Australia: Western Australia: Eurardy Station. Distribución: Australia.
 
+## 词源
+
+属名 *Drepanotermes*：属名由希腊文 drepanon（镰刀）与拉丁文 termes（白蚁）组合。
+
+EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
+
+种加词 *crassidens*：拉丁文/希腊文词根「crass」（粗厚）
+
+EN — epithet *crassidens*: From the descriptive term 'crass' (thick)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **标记大颚白蚁** (*Megagnathotermes notandus*) is the only extant s
 
 ES — **标记大颚白蚁** (*Megagnathotermes notandus*) es la única especie viviente del género *Megagnathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución: West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sierra Leone.
 
+## 词源
+
+属名 *Megagnathotermes*：属名由希腊文 megas（大）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Megagnathotermes*: From Greek megas (large) + gnathos (jaw) + Latin termes.
+
+种加词 *notandus*：拉丁文/希腊文词根「not」（背）
+
+EN — epithet *notandus*: From the descriptive term 'not' (back)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

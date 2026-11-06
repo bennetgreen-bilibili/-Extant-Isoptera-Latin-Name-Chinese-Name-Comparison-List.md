@@ -32,6 +32,18 @@ EN — **可可缩白蚁** (*Constrictotermes cacaoensis*) is a species of the g
 
 ES — **可可缩白蚁** (*Constrictotermes cacaoensis*) es una especie del género *Constrictotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ensaf, Nel & Betsch en 2002; la localidad tipo es French Guiana: Montagne Guadelope \[4.539N 52.44W\]. Distribución: French Guiana.
 
+## 词源
+
+属名 *Constrictotermes*：属名由拉丁文 constrictus（缢缩的）与 termes（白蚁）组合。
+
+EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
+
+种加词 *cacaoensis*：以地名 cacao 命名（具体地名待考）
+
+EN — epithet *cacaoensis*: Named after a locality (cacao)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

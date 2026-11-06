@@ -32,6 +32,18 @@ EN — **微缩后锥白蚁** (*Postsubulitermes parviconstrictus*) is the only 
 
 ES — **微缩后锥白蚁** (*Postsubulitermes parviconstrictus*) es la única especie viviente del género *Postsubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Yangambi. Distribución: Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon.
 
+## 词源
+
+属名 *Postsubulitermes*：属名由拉丁文 post（后）+ subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Postsubulitermes*: From Latin post (after) + subula (awl) + termes.
+
+种加词 *parviconstrictus*：拉丁文/希腊文词根「parv」（小）
+
+EN — epithet *parviconstrictus*: From the descriptive term 'parv' (small)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

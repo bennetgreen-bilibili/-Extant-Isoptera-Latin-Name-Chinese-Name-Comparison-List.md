@@ -34,6 +34,18 @@ EN — **栗头利颚白蚁** (*Cortaritermes fulviceps*) is a species of the ge
 
 ES — **栗头利颚白蚁** (*Cortaritermes fulviceps*) es una especie del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Córdoba: Cernadas (old train station) \[34.2264S 62.878W\]; Entre Ríos: Chajarí \[30.7667S 57.9833W\]; Entre Ríos: Concordia \[31.4S 58.0333W\]; Misiones: Posadas \[27.37S 55.9W\]; San Luis: San Luis \[33.3S 66.35W\]; Santa Fé: Sunchales \[30.9333S 61.5667W\]; Paraguay: Guairá: Villa Rica \[25.75S 56.4333W\]; Itapúa: Encarnación \[27.252S 55.914W\]; Uruguay: Canelones: Francisco Soca (formerly Mosquitos) \[34.6833S 55.6833W\]; Maldonado: La Sierra \[34.7667S 55.4167W\]. Distribución: Argentina, Uruguay, Brazil, Paraguay. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Cortaritermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Cortaritermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *fulviceps*：拉丁文/希腊文 fulvi（黄褐）+ ceps（头），指黄褐头
+
+EN — epithet *fulviceps*: From fulvi (黄褐) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

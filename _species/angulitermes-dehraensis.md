@@ -32,6 +32,18 @@ EN — **德拉敦角白蚁** (*Angulitermes dehraensis*) is a species of the ge
 
 ES — **德拉敦角白蚁** (*Angulitermes dehraensis*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Gardner en 1945; la localidad tipo es India: Uttarakhand: Dehra Dun. Distribución: Pakistan, Afghanistan, India.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *dehraensis*：以地名 dehra 命名（具体地名待考）
+
+EN — epithet *dehraensis*: Named after a locality (dehra)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

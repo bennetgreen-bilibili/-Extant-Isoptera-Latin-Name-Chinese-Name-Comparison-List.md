@@ -32,6 +32,18 @@ EN — **查达稀白蚁** (*Speculitermes chadaensis*) is a species of the genu
 
 ES — **查达稀白蚁** (*Speculitermes chadaensis*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Chatterjee & Thapa en 1964; la localidad tipo es India: Madhya Pradesh: South Mandala Forest Division: Karanjia Forest Range, 884 m: Chada. Distribución: South Asia, India.
 
+## 词源
+
+属名 *Speculitermes*：属名由拉丁文 speculum（镜、斑）与 termes（白蚁）组合。
+
+EN — *Speculitermes*: From Latin speculum (mirror) + termes.
+
+种加词 *chadaensis*：以地名 chada 命名（具体地名待考）
+
+EN — epithet *chadaensis*: Named after a locality (chada)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

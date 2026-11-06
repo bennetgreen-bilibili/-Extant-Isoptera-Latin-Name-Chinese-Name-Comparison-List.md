@@ -32,6 +32,18 @@ EN — **泰国怒白蚁** (*Lacessititermes thailandicus*) is a species of the 
 
 ES — **泰国怒白蚁** (*Lacessititermes thailandicus*) es una especie del género *Lacessititermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sen-Sarma en 1966; la localidad tipo es Thailand: Chanthaburi. Distribución: Thailand.
 
+## 词源
+
+属名 *Lacessititermes*：属名由拉丁文 lacessitus（被挑衅的、被攻击的）与 termes（白蚁）组合。
+
+EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
+
+种加词 *thailandicus*：以地名 泰国 命名
+
+EN — epithet *thailandicus*: Named after the locality Thailand
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

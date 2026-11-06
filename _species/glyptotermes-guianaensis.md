@@ -29,6 +29,18 @@ EN — **圭亚那树白蚁** (*Glyptotermes guianaensis*) is a species of the g
 
 ES — **圭亚那树白蚁** (*Glyptotermes guianaensis*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Guyana, French Guiana.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *guianaensis*：以地名 圭亚那 命名
+
+EN — epithet *guianaensis*: Named after Guyana
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

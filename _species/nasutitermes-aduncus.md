@@ -32,6 +32,18 @@ EN — **弯曲象白蚁** (*Nasutitermes aduncus*) is a species of the genus *N
 
 ES — **弯曲象白蚁** (*Nasutitermes aduncus*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: El Beni: Rurrenabaque \[14.44S 67.525W\]. Distribución: Brazil, Peru, Bolivia.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *aduncus*：拉丁文 aduncus（钩状弯曲）
+
+EN — epithet *aduncus*: Latin aduncus (hooked)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

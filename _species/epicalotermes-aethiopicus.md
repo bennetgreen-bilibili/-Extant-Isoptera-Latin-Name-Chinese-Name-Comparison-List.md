@@ -29,6 +29,18 @@ EN — **埃塞俄比亚上木白蚁** (*Epicalotermes aethiopicus*) is a specie
 
 ES — **埃塞俄比亚上木白蚁** (*Epicalotermes aethiopicus*) es una especie, y la especie tipo de su género del género *Epicalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1918; la localidad tipo es Eritrea: Mayabal, 8 km from Nefas. Distribución: Kenya, Eritrea, Ethiopia, Saudi Arabia, Yemen.
 
+## 词源
+
+属名 *Epicalotermes*：属名由希腊文 epi-（在上）+ kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
+
+种加词 *aethiopicus*：地名：埃塞俄比亚（泛指非洲）
+
+EN — epithet *aethiopicus*: After Ethiopia (Africa)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

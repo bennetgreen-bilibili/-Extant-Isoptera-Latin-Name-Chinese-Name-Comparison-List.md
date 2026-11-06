@@ -34,6 +34,18 @@ EN — **祖鲁锯白蚁** (*Microcerotermes zuluensis*) is a species of the gen
 
 ES — **祖鲁锯白蚁** (*Microcerotermes zuluensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele. Distribución: Old World tropics, West Africa, southern Africa. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *zuluensis*：以地名 祖鲁-纳塔尔（南非） 命名
+
+EN — epithet *zuluensis*: Named after the locality Zulu
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

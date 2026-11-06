@@ -32,6 +32,18 @@ EN — **达梅尔曼锯白蚁** (*Microcerotermes dammermani*) is a species of 
 
 ES — **达梅尔曼锯白蚁** (*Microcerotermes dammermani*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Roonwal & Maiti en 1966; la localidad tipo es Indonesia: Riouw (Rhio) Archipelago: Durian. Distribución: Indonesia.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *dammermani*：以人名 dammerman 命名（K. W. Dammerman（荷兰昆虫学家））
+
+EN — epithet *dammermani*: Named after K. W. Dammerman（荷兰昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

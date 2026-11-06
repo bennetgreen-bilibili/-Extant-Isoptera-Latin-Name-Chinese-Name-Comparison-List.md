@@ -29,6 +29,18 @@ EN — **马康多前新白蚁** (*Proneotermes macondianus*) is a species of th
 
 ES — **马康多前新白蚁** (*Proneotermes macondianus*) es una especie del género *Proneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Casalla, Scheffrahn & Korb en 2016; la localidad tipo es Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]. Distribución: Colombia.
 
+## 词源
+
+属名 *Proneotermes*：属名由希腊文 pro-（前）+ neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
+
+种加词 *macondianus*：以人名 macond 命名（具体指向待考）
+
+EN — epithet *macondianus*: Named after a person (macond), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

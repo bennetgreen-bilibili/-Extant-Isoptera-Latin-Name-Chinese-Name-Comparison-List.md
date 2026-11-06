@@ -31,6 +31,18 @@ EN — **黑树白蚁** (*Glyptotermes fuscus*) is a species of the genus *Glypt
 
 ES — **黑树白蚁** (*Glyptotermes fuscus*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Oshima en 1912; la localidad tipo es Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]. Distribución: Japan, China (Taiwan). Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *fuscus*：拉丁文 fuscus（暗褐）
+
+EN — epithet *fuscus*: Latin fuscus (dark, dusky)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

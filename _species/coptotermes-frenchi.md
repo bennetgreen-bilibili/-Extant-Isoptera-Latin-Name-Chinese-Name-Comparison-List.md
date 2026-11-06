@@ -31,6 +31,18 @@ EN — **弗伦奇乳白蚁** (*Coptotermes frenchi*) is a species of the genus 
 
 ES — **弗伦奇乳白蚁** (*Coptotermes frenchi*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Hill en 1932; la localidad tipo es Australia: Victoria: Melbourne, Hawthorne. Distribución: Australia; introduced: New Zealand. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *frenchi*：以人名 french 命名（具体指向待考）
+
+EN — epithet *frenchi*: Named after a person (french), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

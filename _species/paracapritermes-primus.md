@@ -32,6 +32,18 @@ EN — **第一旁扭白蚁** (*Paracapritermes primus*) is a species and the ty
 
 ES — **第一旁扭白蚁** (*Paracapritermes primus*) es una especie, y la especie tipo de su género del género *Paracapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Mt. Molloy. Distribución: Australia.
 
+## 词源
+
+属名 *Paracapritermes*：属名由希腊文 para-（旁）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Paracapritermes*: From Greek para- (beside) + Latin caper (goat) + termes.
+
+种加词 *primus*：拉丁文 primus（第一）
+
+EN — epithet *primus*: Latin primus (first)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

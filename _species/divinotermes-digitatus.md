@@ -32,6 +32,18 @@ EN — **具指迪维努白蚁** (*Divinotermes digitatus*) is a species of the 
 
 ES — **具指迪维努白蚁** (*Divinotermes digitatus*) es una especie del género *Divinotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Carrijo & Cancello en 2011; la localidad tipo es Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Divinotermes*：词源未详（或与拉丁文 divinus「神圣的」或人名相关）；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Divinotermes*: Etymology uncertain (perhaps Latin divinus 'divine' or a personal name); -termes from Latin termes.
+
+种加词 *digitatus*：拉丁文 digitatus（有趾的、指状的）
+
+EN — epithet *digitatus*: Latin digitatus (fingered)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

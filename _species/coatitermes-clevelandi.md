@@ -32,6 +32,18 @@ EN — **克利夫兰凸鼻白蚁** (*Coatitermes clevelandi*) is a species and 
 
 ES — **克利夫兰凸鼻白蚁** (*Coatitermes clevelandi*) es una especie, y la especie tipo de su género del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Panama: Barro Colorado Island. Distribución: Brazil, Colombia, French Guiana, Peru, Bolivia, Ecuador, Panama.
 
+## 词源
+
+属名 *Coatitermes*：属名由图皮语 Coati（南美长鼻浣熊）与 termes（白蚁）组合。
+
+EN — *Coatitermes*: From Tupi Coati (coati) + termes.
+
+种加词 *clevelandi*：以人名 cleveland 命名（原生动物学家 L. R. Cleveland）
+
+EN — epithet *clevelandi*: Named after 原生动物学家 L. R. Cleveland
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **埃默森双角白蚁** (*Bicornitermes emersoni*) is a species of the 
 
 ES — **埃默森双角白蚁** (*Bicornitermes emersoni*) es una especie del género *Bicornitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna en 1962; la localidad tipo es Democratic Republic of the Congo: Kinshasa (Leopoldville). Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Bicornitermes*：属名由拉丁文 bi-（二）+ cornu（角）与 termes（白蚁）组合，指兵蚁具两个角状突起。
+
+EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
+
+种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
+
+EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

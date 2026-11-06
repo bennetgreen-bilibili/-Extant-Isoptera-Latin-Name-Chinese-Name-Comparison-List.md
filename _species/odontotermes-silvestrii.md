@@ -32,6 +32,18 @@ EN — **西尔韦斯特里土白蚁** (*Odontotermes silvestrii*) is a species 
 
 ES — **西尔韦斯特里土白蚁** (*Odontotermes silvestrii*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1925; la localidad tipo es Democratic Republic of the Congo: Uélé (Keckhovenville). Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *silvestrii*：以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）
+
+EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

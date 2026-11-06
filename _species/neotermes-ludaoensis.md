@@ -29,6 +29,18 @@ EN — **绿岛新白蚁** (*Neotermes ludaoensis*) is a species of the genus *N
 
 ES — **绿岛新白蚁** (*Neotermes ludaoensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wu, Tsai & Li en 2024; la localidad tipo es Taiwan: Green Island \[ 22.65N 121.48E \]. Distribución: Taiwan, Green Island.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *ludaoensis*：以地名 ludao 命名（具体地名待考）
+
+EN — epithet *ludaoensis*: Named after a locality (ludao)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

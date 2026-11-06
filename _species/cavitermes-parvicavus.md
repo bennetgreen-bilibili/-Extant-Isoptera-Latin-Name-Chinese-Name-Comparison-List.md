@@ -32,6 +32,18 @@ EN — **小腔腔白蚁** (*Cavitermes parvicavus*) is a species of the genus *
 
 ES — **小腔腔白蚁** (*Cavitermes parvicavus*) es una especie del género *Cavitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, Colombia, Ecuador.
 
+## 词源
+
+属名 *Cavitermes*：属名由拉丁文 cavus（空的、洞）与 termes（白蚁）组合。
+
+EN — *Cavitermes*: From Latin cavus (hollow) + termes.
+
+种加词 *parvicavus*：拉丁文/希腊文词根「parv」（小）
+
+EN — epithet *parvicavus*: From the descriptive term 'parv' (small)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **陷额直白蚁** (*Orthotermes depressifrons*) is a species and the ty
 
 ES — **陷额直白蚁** (*Orthotermes depressifrons*) es una especie, y la especie tipo de su género del género *Orthotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Ghana: Aburi. Distribución: tropical Africa.
 
+## 词源
+
+属名 *Orthotermes*：属名由希腊文 orthos（直）与拉丁文 termes（白蚁）组合。
+
+EN — *Orthotermes*: From Greek orthos (straight) + Latin termes.
+
+种加词 *depressifrons*：拉丁文/希腊文 depressi（扁平）+ frons（额），指扁平额
+
+EN — epithet *depressifrons*: From depressi (扁平) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

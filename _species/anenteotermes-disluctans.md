@@ -32,6 +32,18 @@ EN — **不斗无甲白蚁** (*Anenteotermes disluctans*) is a species and the 
 
 ES — **不斗无甲白蚁** (*Anenteotermes disluctans*) es una especie, y la especie tipo de su género del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Uganda: Kawanda. Distribución: Democratic Republic of the Congo, Uganda, Zambia.
 
+## 词源
+
+属名 *Anenteotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *disluctans*：拉丁文 disluctans（挣脱的、争斗的）
+
+EN — epithet *disluctans*: Latin disluctans (struggling)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

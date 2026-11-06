@@ -32,6 +32,18 @@ EN — **薄嘴薄嘴白蚁** (*Tenuirostritermes tenuirostris*) is a species an
 
 ES — **薄嘴薄嘴白蚁** (*Tenuirostritermes tenuirostris*) es una especie, y la especie tipo de su género del género *Tenuirostritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Mexico: Jalisco; Veracruz: Orizaba. Distribución: United States, Mexico.
 
+## 词源
+
+属名 *Tenuirostritermes*：属名由拉丁文 tenuis（细）+ rostrum（喙、吻突）与 termes（白蚁）组合。
+
+EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
+
+种加词 *tenuirostris*：拉丁文/希腊文 tenui（细）+ rostris（喙），指细喙
+
+EN — epithet *tenuirostris*: From tenui (细) + rostris (喙)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

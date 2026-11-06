@@ -29,6 +29,18 @@ EN — **阿斯穆斯新白蚁** (*Neotermes assmuthi*) is a species of the genu
 
 ES — **阿斯穆斯新白蚁** (*Neotermes assmuthi*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es India: Karnataka: Bangalore. Distribución: India, Karnataka.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *assmuthi*：以人名 assmuth 命名（具体指向待考）
+
+EN — epithet *assmuthi*: Named after a person (assmuth), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

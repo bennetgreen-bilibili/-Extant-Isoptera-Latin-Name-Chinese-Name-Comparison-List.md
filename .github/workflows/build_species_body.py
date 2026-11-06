@@ -38,6 +38,7 @@ SPECIES_DIR = ROOT / "_species"
 DATA_JSON = ROOT / "isoptera-data.json"
 INDEX_JSON = ROOT / "data" / "index.json"
 CONFIG = ROOT / "_config.yml"
+ETYMOLOGY_JSON = ROOT / "_data" / "etymology.json"
 
 BEGIN = "<!-- AUTO:BEGIN -->"
 END = "<!-- AUTO:END -->"
@@ -405,6 +406,26 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
         sents_es.append("Este sitio registra %s sinónimo%s junior para la %s." % (syn_count, "" if syn_count == "1" else "s", rank_es))
     lines += ["## 摘要", "", "".join(sents), "", "EN — " + " ".join(sents_en), "", "ES — " + " ".join(sents_es)]
 
+    # ---- 词源 -------------------------------------------------------------
+    ety = meta.get("etymology") or {}
+    ety_gen = (ety.get("genera") or {}).get(genus_id)
+    _parts = latin.split()
+    epithet = _parts[-1].lower() if _parts else ""
+    ety_epi = (ety.get("epithets") or {}).get(epithet)
+    if ety_gen or ety_epi:
+        lines += ["", "## 词源", ""]
+        if ety_gen:
+            lines.append("属名 *%s*：%s" % (genus_latin, md_escape(ety_gen.get("zh") or "")))
+            lines.append("")
+            lines.append("EN — *%s*: %s" % (genus_latin, md_escape(ety_gen.get("en") or "")))
+            lines.append("")
+        if ety_epi:
+            lines.append("种加词 *%s*：%s" % (epithet, md_escape(ety_epi.get("zh") or "")))
+            lines.append("")
+            lines.append("EN — epithet *%s*: %s" % (epithet, md_escape(ety_epi.get("en") or "")))
+            lines.append("")
+        lines.append("<!-- src:S0018 -->")
+
     # ---- 分类位置 ---------------------------------------------------------
     lines += ["", "## 分类位置", ""]
     fam_stat = ""
@@ -562,6 +583,7 @@ def main():
     args = ap.parse_args()
 
     meta = load_meta()
+    meta["etymology"] = json.loads(ETYMOLOGY_JSON.read_text(encoding="utf-8")) if ETYMOLOGY_JSON.is_file() else {}
     base_url = site_base_url()
     files, fms = {}, {}
     for path in sorted(SPECIES_DIR.glob("*.md")):

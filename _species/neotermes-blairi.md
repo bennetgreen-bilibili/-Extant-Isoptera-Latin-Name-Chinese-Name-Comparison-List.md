@@ -29,6 +29,18 @@ EN — **布莱尔新白蚁** (*Neotermes blairi*) is a species of the genus *Ne
 
 ES — **布莱尔新白蚁** (*Neotermes blairi*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Maiti & Chakraborty en 1994; la localidad tipo es India: Andaman Islands: South Andaman: Haddo. Distribución: India.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *blairi*：以人名 blair 命名（具体指向待考）
+
+EN — epithet *blairi*: Named after a person (blair), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

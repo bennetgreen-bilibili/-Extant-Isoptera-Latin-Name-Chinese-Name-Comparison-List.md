@@ -32,6 +32,18 @@ EN — **德干稀白蚁** (*Speculitermes deccanensis*) is a species of the gen
 
 ES — **德干稀白蚁** (*Speculitermes deccanensis*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Karnataka (Mysore): Bababudin Hills. Distribución: South Asia, Deccan, India.
 
+## 词源
+
+属名 *Speculitermes*：属名由拉丁文 speculum（镜、斑）与 termes（白蚁）组合。
+
+EN — *Speculitermes*: From Latin speculum (mirror) + termes.
+
+种加词 *deccanensis*：以地名 德干高原（印度） 命名
+
+EN — epithet *deccanensis*: Named after the locality Deccan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

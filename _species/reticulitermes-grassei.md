@@ -29,6 +29,18 @@ EN — **格拉塞散白蚁** (*Reticulitermes grassei*) is a species of the gen
 
 ES — **格拉塞散白蚁** (*Reticulitermes grassei*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Clément en 1977; la localidad tipo es France: ?. Distribución: southwestern Europe, Spain, Portugal, France, United Kingdom.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *grassei*：以人名 Grassé 命名（法国动物学家 P.-P. Grassé）
+
+EN — epithet *grassei*: Named after the zoologist P.-P. Grassé
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

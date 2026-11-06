@@ -29,6 +29,18 @@ EN — **蛋头散白蚁** (*Reticulitermes oocephalus*) is a species of the gen
 
 ES — **蛋头散白蚁** (*Reticulitermes oocephalus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Li en 1981; la localidad tipo es China: Fujian Province: Dazhulan, Jianyang Xian. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *oocephalus*：希腊文 ōon（卵）+ kephalē（头），卵头
+
+EN — epithet *oocephalus*: Greek ōon (egg) + kephalē (head), egg-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

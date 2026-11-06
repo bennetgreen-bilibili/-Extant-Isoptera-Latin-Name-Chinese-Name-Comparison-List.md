@@ -34,6 +34,18 @@ EN — **罗得西亚三脉白蚁** (*Trinervitermes rhodesiensis*) is a species
 
 ES — **罗得西亚三脉白蚁** (*Trinervitermes rhodesiensis*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Zimbabwe: Harare (Salisbury). Distribución: Côte d'Ivoire, Angola, Botswana, Central Africa, Republic of the Congo, Democratic Republic of the Congo, Namibia, South Africa, Tanzania, Zambia, Zimbabwe. Este sitio registra 10 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
+
+EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
+
+种加词 *rhodesiensis*：以地名 罗得西亚（南部非洲） 命名
+
+EN — epithet *rhodesiensis*: Named after the locality Rhodes
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

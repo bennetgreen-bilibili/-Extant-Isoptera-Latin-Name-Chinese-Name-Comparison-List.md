@@ -34,6 +34,18 @@ EN — **小土白蚁** (*Odontotermes minutus*) is a species of the genus *Odon
 
 ES — **小土白蚁** (*Odontotermes minutus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Amir en 1975; la localidad tipo es Indonesia: Sumatra: Lampung: Way Kambas. Distribución: East Asia, China, Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *minutus*：拉丁文 minutus（微小）
+
+EN — epithet *minutus*: Latin minutus (tiny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

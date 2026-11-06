@@ -32,6 +32,18 @@ EN — **具瘤岗白蚁** (*Jugositermes tuberculatus*) is the only extant spec
 
 ES — **具瘤岗白蚁** (*Jugositermes tuberculatus*) es la única especie viviente del género *Jugositermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Bipindi. Distribución: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria.
 
+## 词源
+
+属名 *Jugositermes*：属名由拉丁文 jugosus（多脊的、具棱的）与 termes（白蚁）组合。
+
+EN — *Jugositermes*: From Latin jugosus (ridged) + termes.
+
+种加词 *tuberculatus*：拉丁文 tuberculatus（具小瘤）
+
+EN — epithet *tuberculatus*: Latin tuberculatus (tuberculate)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

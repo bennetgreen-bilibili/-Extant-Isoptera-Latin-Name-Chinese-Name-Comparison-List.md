@@ -32,6 +32,18 @@ EN — **细瘦安的列斯白蚁** (*Antillitermes subtilis*) is the only extan
 
 ES — **细瘦安的列斯白蚁** (*Antillitermes subtilis*) es la única especie viviente del género *Antillitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn & Krecek en 1993; la localidad tipo es Dominican Republic: Caracoles. Distribución: Cuba, Dominican Republic.
 
+## 词源
+
+属名 *Antillitermes*：属名由地名 Antilles（安的列斯群岛）与 termes（白蚁）组合。
+
+EN — *Antillitermes*: From the Antilles + termes.
+
+种加词 *subtilis*：拉丁文/希腊文 subt（下、近）+ ilis（相关），指下、近相关
+
+EN — epithet *subtilis*: From subt (下、近) + ilis (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

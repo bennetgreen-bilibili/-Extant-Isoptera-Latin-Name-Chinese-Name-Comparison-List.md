@@ -29,6 +29,18 @@ EN — **德拉敦杆白蚁** (*Stylotermes dunensis*) is a species of the genus
 
 ES — **德拉敦杆白蚁** (*Stylotermes dunensis*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Thakur en 1975; la localidad tipo es India: Uttarakhand: Dehra Dun: New Forest. Distribución: China, India.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *dunensis*：以地名 dun 命名（具体地名待考）
+
+EN — epithet *dunensis*: Named after a locality (dun)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

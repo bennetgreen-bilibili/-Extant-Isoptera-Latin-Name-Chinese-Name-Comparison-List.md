@@ -32,6 +32,18 @@ EN — **非武闯白蚁** (*Invasitermes inermis*) is a species and the type sp
 
 ES — **非武闯白蚁** (*Invasitermes inermis*) es una especie, y la especie tipo de su género del género *Invasitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Miller en 1984; la localidad tipo es Australia: Northern Territory: Brocks Creek. Distribución: Australia.
 
+## 词源
+
+属名 *Invasitermes*：属名由拉丁文 invasus（侵入的）与 termes（白蚁）组合。
+
+EN — *Invasitermes*: From Latin invasus (invaded) + termes.
+
+种加词 *inermis*：拉丁文 in-（无）+ arma（武器），无刺、无武装
+
+EN — epithet *inermis*: Latin in- (without) + arma (arms), unarmed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

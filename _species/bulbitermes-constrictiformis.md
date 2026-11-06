@@ -34,6 +34,18 @@ EN — **类紧缩瓢白蚁** (*Bulbitermes constrictiformis*) is a species of t
 
 ES — **类紧缩瓢白蚁** (*Bulbitermes constrictiformis*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Bahsoemboe; Malaysia: Taiping: Gunong Hijau; Taiping: Maxwell’s Hill. Distribución: Southeast Asia, Indonesia, Sumatra, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *constrictiformis*：拉丁文/希腊文 constricti（缢缩）+ formis（形），指缢缩形
+
+EN — epithet *constrictiformis*: From constricti (缢缩) + formis (形)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

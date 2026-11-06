@@ -32,6 +32,18 @@ EN — **旁遮普角白蚁** (*Angulitermes punjabensis*) is a species of the g
 
 ES — **旁遮普角白蚁** (*Angulitermes punjabensis*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Akhtar en 1974; la localidad tipo es Pakistan: Punjab: Choa Saiden Shah. Distribución: Pakistan.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *punjabensis*：以地名 旁遮普 命名
+
+EN — epithet *punjabensis*: Named after the locality Punjab
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

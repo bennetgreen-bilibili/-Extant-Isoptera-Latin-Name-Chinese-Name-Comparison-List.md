@@ -32,6 +32,18 @@ EN — **富勒象白蚁** (*Nasutitermes fulleri*) is a species of the genus *N
 
 ES — **富勒象白蚁** (*Nasutitermes fulleri*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: Democratic Republic of the Congo (Kinshasa), Nigeria, Angola, Cameroon, Central African Republic, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Sierra Leone, Uganda.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *fulleri*：以人名 fuller 命名（南非昆虫学家 C. Fuller）
+
+EN — epithet *fulleri*: Named after 南非昆虫学家 C. Fuller
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

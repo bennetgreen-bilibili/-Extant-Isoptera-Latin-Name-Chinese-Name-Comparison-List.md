@@ -34,6 +34,18 @@ EN — **莱佩斯前角白蚁** (*Procornitermes lespesii*) is a species of the
 
 ES — **莱佩斯前角白蚁** (*Procornitermes lespesii*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[26.9078S 48.6619W\]. Distribución: Brazil, Bolivia, Paraguay, Argentina. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Procornitermes*：属名由希腊文 pro-（前）+ 拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
+
+种加词 *lespesii*：以人名 lespes 命名（具体指向待考）
+
+EN — epithet *lespesii*: Named after a person (lespes), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

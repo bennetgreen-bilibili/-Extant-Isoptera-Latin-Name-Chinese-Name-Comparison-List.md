@@ -32,6 +32,18 @@ EN — **近白脸白脸白蚁** (*Leucopitermes paraleucops*) is a species of t
 
 ES — **近白脸白脸白蚁** (*Leucopitermes paraleucops*) es una especie del género *Leucopitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Morimoto en 1976; la localidad tipo es Malaysia: Negeri Sembilan: Pasoh Forest Reserve. Distribución: Malaysia.
 
+## 词源
+
+属名 *Leucopitermes*：属名由希腊文 leukos（白）与拉丁文 termes（白蚁）组合；其余组成未详。
+
+EN — *Leucopitermes*: From Greek leukos (white) + Latin termes; further derivation uncertain.
+
+种加词 *paraleucops*：拉丁文/希腊文词根「para」（旁）
+
+EN — epithet *paraleucops*: From the descriptive term 'para' (beside)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

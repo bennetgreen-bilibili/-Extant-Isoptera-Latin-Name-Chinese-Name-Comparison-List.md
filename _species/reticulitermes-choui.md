@@ -29,6 +29,18 @@ EN — **周氏散白蚁** (*Reticulitermes choui*) is a species of the genus *R
 
 ES — **周氏散白蚁** (*Reticulitermes choui*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Zhang en 1989; la localidad tipo es China: Shaanxi: Baoji County. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *choui*：以人名 Chou 命名（中国昆虫学家周尧）
+
+EN — epithet *choui*: Named after the Chinese entomologist Chou Io
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -32,6 +32,18 @@ EN — **莱古加思突扭白蚁** (*Dicuspiditermes leghugathrae*) is a specie
 
 ES — **莱古加思突扭白蚁** (*Dicuspiditermes leghugathrae*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2020; la localidad tipo es India: Kerala: Palakkad, Chulliyar Dam \[ 10.5906N 76.769E \]. Distribución: India.
 
+## 词源
+
+属名 *Dicuspiditermes*：属名由拉丁文 di-（二）+ cuspis（尖）与 termes（白蚁）组合。
+
+EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
+
+种加词 *leghugathrae*：以人名 leghugathr 命名（具体指向待考）
+
+EN — epithet *leghugathrae*: Named after a person (leghugathr), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

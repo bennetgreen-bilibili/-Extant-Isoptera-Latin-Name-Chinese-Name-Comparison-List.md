@@ -29,6 +29,18 @@ EN — **红树楹白蚁** (*Incisitermes rhyzophorae*) is a species of the genu
 
 ES — **红树楹白蚁** (*Incisitermes rhyzophorae*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hernández en 1994; la localidad tipo es Cuba: Las Tunas: Cayo Sevilla. Distribución: Cuba, Bahamas.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *rhyzophorae*：以人名 rhyzophor 命名（具体指向待考）
+
+EN — epithet *rhyzophorae*: Named after a person (rhyzophor), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

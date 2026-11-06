@@ -29,6 +29,18 @@ EN — **莫利诺原鼻白蚁** (*Prorhinotermes molinoi*) is a species of the 
 
 ES — **莫利诺原鼻白蚁** (*Prorhinotermes molinoi*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Largo Remo Island. Distribución: Panama, Costa Rica, Guatemala, Honduras.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *molinoi*：以人名 molino 命名（具体指向待考）
+
+EN — epithet *molinoi*: Named after a person (molino), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

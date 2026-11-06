@@ -32,6 +32,18 @@ EN — **卢森加胸白蚁** (*Thoracotermes lusingensis*) is a species of the 
 
 ES — **卢森加胸白蚁** (*Thoracotermes lusingensis*) es una especie del género *Thoracotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Harris en 1958; la localidad tipo es Democratic Republic of the Congo: Parc National de l’ Upemba: Lusinga. Distribución: Angola, Democratic Republic of the Congo, Nigeria, Zambia.
 
+## 词源
+
+属名 *Thoracotermes*：属名由希腊文 thōrax（胸）与拉丁文 termes（白蚁）组合。
+
+EN — *Thoracotermes*: From Greek thōrax (thorax) + Latin termes.
+
+种加词 *lusingensis*：以地名 卢辛加（刚果） 命名
+
+EN — epithet *lusingensis*: Named after the locality Lusing
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -31,6 +31,18 @@ EN — **格斯特乳白蚁** (*Coptotermes gestroi*) is a species and the type 
 
 ES — **格斯特乳白蚁** (*Coptotermes gestroi*) es una especie, y la especie tipo de su género del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Bhamo. Distribución: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. Este sitio registra 10 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *gestroi*：以人名 gestro 命名（R. Gestro（意大利昆虫学家））
+
+EN — epithet *gestroi*: Named after R. Gestro（意大利昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

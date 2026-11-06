@@ -34,6 +34,18 @@ EN — **体小锥白蚁** (*Subulitermes microsoma*) is a species and the type 
 
 ES — **体小锥白蚁** (*Subulitermes microsoma*) es una especie, y la especie tipo de su género del género *Subulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Argentina: Misiones: Posadas \[27.37S 55.9W\]; Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución: Brazil, Bolivia, Colombia, Ecuador, Peru, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Subulitermes*：属名由拉丁文 subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Subulitermes*: From Latin subula (awl) + termes.
+
+种加词 *microsoma*：希腊文 mikros（小）+ sōma（体），小体
+
+EN — epithet *microsoma*: Greek mikros (small) + sōma (body), small-bodied
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

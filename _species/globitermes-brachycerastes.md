@@ -32,6 +32,18 @@ EN — **短角球白蚁** (*Globitermes brachycerastes*) is a species of the ge
 
 ES — **短角球白蚁** (*Globitermes brachycerastes*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Han en 1987; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: Yunnan (Jinghong 500 m), China.
 
+## 词源
+
+属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
+
+EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
+
+种加词 *brachycerastes*：希腊文 brachys（短）+ keras（角），短角
+
+EN — epithet *brachycerastes*: Greek brachys (short) + keras (horn), short-horned
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

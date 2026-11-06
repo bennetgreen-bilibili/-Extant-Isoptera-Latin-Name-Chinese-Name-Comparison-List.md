@@ -32,6 +32,18 @@ EN — **刺棘弯肠白蚁** (*Aparatermes thornatus*) is a species of the genu
 
 ES — **刺棘弯肠白蚁** (*Aparatermes thornatus*) es una especie del género *Aparatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Pinzon & Scheffrahn en 2019; la localidad tipo es Ecuador: Orellana: Yasuni National Park \[ 0.6717S 76.3979W \]. Distribución: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, Central America and Caribbean.
 
+## 词源
+
+属名 *Aparatermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Aparatermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *thornatus*：以人名 Thorn 命名 或 英语 thorn（刺）+-atus（具），具刺
+
+EN — epithet *thornatus*: Named after Thorn, or from thorn + -atus (spiny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

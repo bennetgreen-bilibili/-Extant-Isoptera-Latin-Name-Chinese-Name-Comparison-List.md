@@ -32,6 +32,18 @@ EN — **短小锯白蚁** (*Microcerotermes nanulus*) is a species of the genus
 
 ES — **短小锯白蚁** (*Microcerotermes nanulus*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Sjöstedt en 1925; la localidad tipo es Benin: Agouagou. Distribución: Benin, Côte d'Ivoire.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *nanulus*：拉丁文/希腊文 nan（矮小）+ ulus（小（指小）），指矮小小（指小）
+
+EN — epithet *nanulus*: From nan (矮小) + ulus (小（指小）)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -31,6 +31,18 @@ EN — **山林原白蚁** (*Hodotermopsis sjostedti*) is the only extant specie
 
 ES — **山林原白蚁** (*Hodotermopsis sjostedti*) es la única especie viviente del género *Hodotermopsis*, en la familia HODOTERMOPSIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Vietnam: Tonkin: Montes Mauson. Distribución: Japan, China (Taiwan), southern China, Vietnam. Este sitio registra 5 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Hodotermopsis*：属名由希腊文 hodos（道路）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
+
+EN — *Hodotermopsis*: From Greek hodos (path) + -termopsis.
+
+种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
+
+EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[原白蚁科 HODOTERMOPSIDAE]({{ site.base_url }}/family/hodotermopsidae/) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）

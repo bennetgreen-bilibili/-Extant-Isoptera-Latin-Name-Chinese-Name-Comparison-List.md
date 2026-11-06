@@ -32,6 +32,18 @@ EN — **巴特土白蚁** (*Odontotermes butteli*) is a species of the genus *O
 
 ES — **巴特土白蚁** (*Odontotermes butteli*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Bah Boelian; Sumatra: Lau Boentoe; Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap. Distribución: Southeast Asia, Malaysia, Indonesia.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *butteli*：以人名 buttel 命名（具体指向待考）
+
+EN — epithet *butteli*: Named after a person (buttel), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

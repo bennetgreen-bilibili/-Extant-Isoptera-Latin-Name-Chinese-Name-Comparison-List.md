@@ -32,6 +32,18 @@ EN — **海南印白蚁** (*Indotermes hainanensis*) is a species of the genus 
 
 ES — **海南印白蚁** (*Indotermes hainanensis*) es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por He & Xia en 1981; la localidad tipo es China: Guangdong Province: Hainan Island. Distribución: China, Hainan.
 
+## 词源
+
+属名 *Indotermes*：属名由地名 India（印度）+ 拉丁文 termes（白蚁）组合。
+
+EN — *Indotermes*: From India + Latin termes.
+
+种加词 *hainanensis*：地名：海南（中国）
+
+EN — epithet *hainanensis*: After Hainan (China)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **西部翅白蚁** (*Pterotermes occidentis*) is the only extant species
 
 ES — **西部翅白蚁** (*Pterotermes occidentis*) es la única especie viviente del género *Pterotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Walker en 1853; la localidad tipo es (country unknown): "West Coast of America". Distribución: North America, United States, Mexico.
 
+## 词源
+
+属名 *Pterotermes*：属名由希腊文 pteron（翅）与拉丁文 termes（白蚁）组合。
+
+EN — *Pterotermes*: From Greek pteron (wing) + Latin termes.
+
+种加词 *occidentis*：拉丁文/希腊文词根「occident」（西方）
+
+EN — epithet *occidentis*: From the descriptive term 'occident' (western)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

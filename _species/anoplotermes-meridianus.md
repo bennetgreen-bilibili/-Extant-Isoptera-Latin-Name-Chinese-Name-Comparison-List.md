@@ -32,6 +32,18 @@ EN — **南方解甲白蚁** (*Anoplotermes meridianus*) is a species of the ge
 
 ES — **南方解甲白蚁** (*Anoplotermes meridianus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Argentina: Buenos Aires: Núñez \[ 34.55S 58.45W \]; Buenos Aires: Temperley \[ 34.7833S 58.4W \]; Buenos Aires: Villa Catalinas \[ 34.579S 58.4956W \]; Córdoba: Cernadas (old train station) \[ 34.2264S 62.878W \]; Entre Ríos: Chajarí \[ 30.7667S 57.9833W \]; Santa Fé: Sunchales \[ 30.9333S 61.5667W \]; Paraguay: Paraguari: Paraguari \[ 25.6333S 57.15W \]; Uruguay: Maldonado: La Sierra \[ 34.7667S 55.4167W \]. Distribución: Brazil, Amazon region, southeastern South America, Central America and Caribbean.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *meridianus*：以人名 merid 命名（具体指向待考）
+
+EN — epithet *meridianus*: Named after a person (merid), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

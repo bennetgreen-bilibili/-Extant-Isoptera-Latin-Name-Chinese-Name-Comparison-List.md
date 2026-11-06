@@ -32,6 +32,18 @@ EN — **粗壮针刺白蚁** (*Spinitermes robustus*) is a species of the genus
 
 ES — **粗壮针刺白蚁** (*Spinitermes robustus*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: La Paz: Ixiamas \[13.769S 68.127W\]. Distribución: Brazil, Bolivia.
 
+## 词源
+
+属名 *Spinitermes*：属名由拉丁文 spina（刺）与 termes（白蚁）组合。
+
+EN — *Spinitermes*: From Latin spina (spine) + termes.
+
+种加词 *robustus*：拉丁文 robustus（粗壮）
+
+EN — epithet *robustus*: Latin robustus (robust)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

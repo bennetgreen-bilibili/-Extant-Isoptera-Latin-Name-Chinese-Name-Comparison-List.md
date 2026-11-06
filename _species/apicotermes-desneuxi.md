@@ -32,6 +32,18 @@ EN — **德纳尖白蚁** (*Apicotermes desneuxi*) is a species of the genus *A
 
 ES — **德纳尖白蚁** (*Apicotermes desneuxi*) es una especie del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1953; la localidad tipo es Democratic Republic of the Congo: Inkisi region between Bamba, Kilenda and Kinzuzu. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Apicotermes*：属名由拉丁文 apex（尖、顶）与 termes（白蚁）组合。
+
+EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
+
+种加词 *desneuxi*：以人名 desneux 命名（比利时白蚁学家 J. Desneux）
+
+EN — epithet *desneuxi*: Named after 比利时白蚁学家 J. Desneux
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

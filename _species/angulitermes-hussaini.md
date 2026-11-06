@@ -32,6 +32,18 @@ EN — **侯赛因角白蚁** (*Angulitermes hussaini*) is a species of the genu
 
 ES — **侯赛因角白蚁** (*Angulitermes hussaini*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Ahmad en 1955; la localidad tipo es Pakistan: Larkana. Distribución: Pakistan.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *hussaini*：以人名 hussain 命名（具体指向待考）
+
+EN — epithet *hussaini*: Named after a person (hussain), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **平静无刃白蚁** (*Astratotermes pacatus*) is a species of the genu
 
 ES — **平静无刃白蚁** (*Astratotermes pacatus*) es una especie del género *Astratotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia. Distribución: tropical Africa. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Astratotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *pacatus*：拉丁文 pacatus（平和的）
+
+EN — epithet *pacatus*: Latin pacatus (peaceful)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **骗子棕榈白蚁** (*Palmitermes impostor*) is the only extant specie
 
 ES — **骗子棕榈白蚁** (*Palmitermes impostor*) es la única especie viviente del género *Palmitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hellemans & Roisin en 2017; la localidad tipo es French Guiana: Petit Saut \[5.07N 53.032W\]. Distribución: Australia, Brazil, French Guiana.
 
+## 词源
+
+属名 *Palmitermes*：属名由拉丁文 palma（棕榈、掌）与 termes（白蚁）组合。
+
+EN — *Palmitermes*: From Latin palma (palm) + termes.
+
+种加词 *impostor*：拉丁文/希腊文 im-（无、不）+ postor（后），指无后
+
+EN — epithet *impostor*: From im- (without) + postor (后)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

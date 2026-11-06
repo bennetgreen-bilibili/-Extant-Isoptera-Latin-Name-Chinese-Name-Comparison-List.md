@@ -32,6 +32,18 @@ EN — **前宽颏土白蚁** (*Odontotermes prolatigula*) is a species of the g
 
 ES — **前宽颏土白蚁** (*Odontotermes prolatigula*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Bose en 1997; la localidad tipo es India: Arunachal Pradesh: East Siang District, 7 km from Zero to Boleng, Nambung. Distribución: India.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *prolatigula*：拉丁文 pro-（前）+ latus（宽）+ gula（喉、舌），前宽舌
+
+EN — epithet *prolatigula*: Latin pro- (front) + latus (broad) + gula (throat/tongue)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

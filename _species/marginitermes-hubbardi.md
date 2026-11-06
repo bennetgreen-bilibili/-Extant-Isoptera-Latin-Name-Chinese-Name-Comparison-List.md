@@ -29,6 +29,18 @@ EN — **哈伯德边白蚁** (*Marginitermes hubbardi*) is a species and the ty
 
 ES — **哈伯德边白蚁** (*Marginitermes hubbardi*) es una especie, y la especie tipo de su género del género *Marginitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Arizona: Tucson. Distribución: North America, United States, Mexico.
 
+## 词源
+
+属名 *Marginitermes*：属名由拉丁文 margo（边缘）与 termes（白蚁）组合。
+
+EN — *Marginitermes*: From Latin margo (margin) + termes.
+
+种加词 *hubbardi*：以人名 hubbard 命名（具体指向待考）
+
+EN — epithet *hubbardi*: Named after a person (hubbard), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

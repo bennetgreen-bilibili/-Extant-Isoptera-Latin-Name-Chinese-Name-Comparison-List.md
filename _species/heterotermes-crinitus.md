@@ -29,6 +29,18 @@ EN — **密毛异白蚁** (*Heterotermes crinitus*) is a species of the genus *
 
 ES — **密毛异白蚁** (*Heterotermes crinitus*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Emerson en 1924; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Colombia, French Guiana, Brazil.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *crinitus*：拉丁文 crinitus（长毛的）
+
+EN — epithet *crinitus*: Latin crinitus (long-haired)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -29,6 +29,18 @@ EN — **巴特里彭树白蚁** (*Glyptotermes buttelreepeni*) is a species of 
 
 ES — **巴特里彭树白蚁** (*Glyptotermes buttelreepeni*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1914; la localidad tipo es Malaysia: Selangor: Gap. Distribución: Malaysia.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *buttelreepeni*：以人名 von Buttel-Reepen 命名（德国昆虫学家 H. von Buttel-Reepen）
+
+EN — epithet *buttelreepeni*: Named after the entomologist H. von Buttel-Reepen
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **佩奥鲁堆砂白蚁** (*Cryptotermes penaoru*) is a species of the ge
 
 ES — **佩奥鲁堆砂白蚁** (*Cryptotermes penaoru*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roisin en 2011; la localidad tipo es Vanuatu: Sanma, Espiritu Santo. Distribución: Vanuatu.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *penaoru*：以当地土名或地名命名（具体指向待考）
+
+EN — epithet *penaoru*: After a local vernacular name or place (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

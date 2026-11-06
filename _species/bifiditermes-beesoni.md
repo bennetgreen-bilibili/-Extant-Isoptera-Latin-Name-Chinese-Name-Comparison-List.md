@@ -29,6 +29,18 @@ EN — **比森双裂白蚁** (*Bifiditermes beesoni*) is a species of the genus
 
 ES — **比森双裂白蚁** (*Bifiditermes beesoni*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gardner en 1945; la localidad tipo es India: Uttarakhand: Haldwani. Distribución: India, Pakistan.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *beesoni*：以人名 Beeson 命名（英国林学家 C. F. C. Beeson）
+
+EN — epithet *beesoni*: Named after the forest entomologist C. F. C. Beeson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

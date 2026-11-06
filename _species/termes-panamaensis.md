@@ -32,6 +32,18 @@ EN — **巴拿马白蚁** (*Termes panamaensis*) is a species of the genus *Ter
 
 ES — **巴拿马白蚁** (*Termes panamaensis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Snyder en 1923; la localidad tipo es Panama: Barro Colorado Island. Distribución: Colombia, Panama, Ecuador, Costa Rica, Guatemala, Mexico, Nicaragua, Trinidad and Tobago, Venezuela, United States Virgin Islands.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *panamaensis*：以地名 巴拿马 命名
+
+EN — epithet *panamaensis*: Named after the locality Panama
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

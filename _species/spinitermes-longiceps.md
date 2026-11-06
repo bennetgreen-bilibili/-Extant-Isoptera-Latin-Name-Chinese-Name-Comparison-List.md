@@ -32,6 +32,18 @@ EN — **长头针刺白蚁** (*Spinitermes longiceps*) is a species of the genu
 
 ES — **长头针刺白蚁** (*Spinitermes longiceps*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribución: Brazil, Colombia, Ecuador.
 
+## 词源
+
+属名 *Spinitermes*：属名由拉丁文 spina（刺）与 termes（白蚁）组合。
+
+EN — *Spinitermes*: From Latin spina (spine) + termes.
+
+种加词 *longiceps*：拉丁文 longus（长）+ -ceps（头），长头
+
+EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

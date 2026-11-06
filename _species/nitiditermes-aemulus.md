@@ -32,6 +32,18 @@ EN — **竞争净白蚁** (*Nitiditermes aemulus*) is a species of the genus *N
 
 ES — **竞争净白蚁** (*Nitiditermes aemulus*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Conakry. Distribución: Guinea.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *aemulus*：拉丁文 aemulus（竞争的、匹敌的）
+
+EN — epithet *aemulus*: Latin aemulus (rival, emulating)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

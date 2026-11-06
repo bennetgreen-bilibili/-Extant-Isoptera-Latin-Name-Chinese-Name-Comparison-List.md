@@ -32,6 +32,18 @@ EN — **具镰三方白蚁** (*Ternicubitermes falcifer*) is a species of the g
 
 ES — **具镰三方白蚁** (*Ternicubitermes falcifer*) es una especie del género *Ternicubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Williams en 1966; la localidad tipo es Tanzania: Sao Hill. Distribución: Tanzania.
 
+## 词源
+
+属名 *Ternicubitermes*：属名由拉丁文 terni（三个一组）+ cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
+
+种加词 *falcifer*：拉丁文 falx（镰）+ -fer（具），具镰
+
+EN — epithet *falcifer*: Latin falx (sickle) + -fer (bearing), sickle-bearing
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -31,6 +31,18 @@ EN — **长喙长鼻白蚁** (*Schedorhinotermes longirostris*) is a species of
 
 ES — **长喙长鼻白蚁** (*Schedorhinotermes longirostris*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Brauer en 1866; la localidad tipo es India: Nicobar Islands: Kondul. Distribución: India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States). Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *longirostris*：拉丁文/希腊文 longi（长）+ rostris（喙），指长喙
+
+EN — epithet *longirostris*: From longi (长) + rostris (喙)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

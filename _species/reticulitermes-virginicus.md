@@ -29,6 +29,18 @@ EN — **弗吉尼亚散白蚁** (*Reticulitermes virginicus*) is a species of t
 
 ES — **弗吉尼亚散白蚁** (*Reticulitermes virginicus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Banks en 1907; la localidad tipo es United States: Virginia: Falls Church; Washington, DC. Distribución: eastern United States.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *virginicus*：以地名 弗吉尼亚（美国）命名
+
+EN — epithet *virginicus*: Named after Virginia, USA
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -32,6 +32,18 @@ EN — **罕见西澳白蚁** (*Hesperotermes infrequens*) is the only extant sp
 
 ES — **罕见西澳白蚁** (*Hesperotermes infrequens*) es la única especie viviente del género *Hesperotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1927; la localidad tipo es Australia: Western Australia: Wungong. Distribución: Australia.
 
+## 词源
+
+属名 *Hesperotermes*：属名由希腊文 hesperos（西方的、黄昏）与拉丁文 termes（白蚁）组合。
+
+EN — *Hesperotermes*: From Greek hesperos (western, evening) + Latin termes.
+
+种加词 *infrequens*：拉丁文 infrequens（稀少的）
+
+EN — epithet *infrequens*: Latin infrequens (infrequent)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **埃默森厚唇白蚁** (*Labiotermes emersoni*) is a species of the ge
 
 ES — **埃默森厚唇白蚁** (*Labiotermes emersoni*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Araujo en 1954; la localidad tipo es Brasil: São Paulo: São Paulo \[23.53S 46.62W\]. Distribución: Brazil, Bolivia, Argentina, Paraguay.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
+
+EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **文达肠刺白蚁** (*Compositermes vindai*) is a species and the type
 
 ES — **文达肠刺白蚁** (*Compositermes vindai*) es una especie, y la especie tipo de su género del género *Compositermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2013; la localidad tipo es Trinidad and Tobago: Tunapuna-Piarco: Mount Saint Benedict \[ 10.662N 61.397W \]. Distribución: Brazil, Guiana Shield, French Guiana/Guyana/Suriname, Amazon region, Colombia/Peru/Bolivia/Ecuador, southeastern South America, Argentina/Paraguay/Uruguay, Central America and Caribbean.
 
+## 词源
+
+属名 *Compositermes*：属名由拉丁文 compositus（复合的、组合的）与 termes（白蚁）组合。
+
+EN — *Compositermes*: From Latin compositus (composed, put together) + termes.
+
+种加词 *vindai*：以人名 vinda 命名（具体指向待考）
+
+EN — epithet *vindai*: Named after a person (vinda), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

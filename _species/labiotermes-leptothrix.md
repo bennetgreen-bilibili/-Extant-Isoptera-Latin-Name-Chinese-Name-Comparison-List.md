@@ -32,6 +32,18 @@ EN — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) is a species of the gen
 
 ES — **纤毛厚唇白蚁** (*Labiotermes leptothrix*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, Colombia.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *leptothrix*：拉丁文/希腊文词根「lept」（细）
+
+EN — epithet *leptothrix*: From the descriptive term 'lept' (slender)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

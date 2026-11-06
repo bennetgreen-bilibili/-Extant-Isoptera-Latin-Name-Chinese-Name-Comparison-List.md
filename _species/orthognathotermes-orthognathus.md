@@ -32,6 +32,18 @@ EN — **直颚直颚白蚁** (*Orthognathotermes orthognathus*) is a species of
 
 ES — **直颚直颚白蚁** (*Orthognathotermes orthognathus*) es una especie del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Silvestri en 1903; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]; Rio Grande do Sul: São Leopoldo \[ 29.7603S 51.1472W \]; Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[ 25.3667S 54.6833W \]. Distribución: Brazil, Paraguay.
 
+## 词源
+
+属名 *Orthognathotermes*：属名由希腊文 orthos（直）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
+
+种加词 *orthognathus*：希腊文 orthos（直）+ gnathos（颚），直颚
+
+EN — epithet *orthognathus*: Greek orthos (straight) + gnathos (jaw), straight-jawed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -30,6 +30,18 @@ EN — **指名亚种** (*Coptotermes acinaciformis acinaciformis*) is a subspec
 
 ES — **指名亚种** (*Coptotermes acinaciformis acinaciformis*) es una subespecie de *Coptotermes acinaciformis*, en la familia HETEROTERMITIDAE, género *Coptotermes*. La subespecie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Western Australia: Halls Creek. No se incluye un registro de distribución separado en esta página; véase la especie parental *Coptotermes acinaciformis*.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *acinaciformis*：拉丁文/希腊文 acinaci（弯刀）+ formis（形），指弯刀形
+
+EN — epithet *acinaciformis*: From acinaci (弯刀) + formis (形)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

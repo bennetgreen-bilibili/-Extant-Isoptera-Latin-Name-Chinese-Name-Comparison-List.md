@@ -29,6 +29,18 @@ EN — **矛唇狭鼻白蚁** (*Dolichorhinotermes lanciarius*) is a species of 
 
 ES — **矛唇狭鼻白蚁** (*Dolichorhinotermes lanciarius*) es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Engel & Krishna en 2007; la localidad tipo es Ecuador: Morona-Santiago: Gualaquiza \[ 3.4S 78.55W \]. Distribución: Bolivia, Ecuador, Peru.
 
+## 词源
+
+属名 *Dolichorhinotermes*：属名由希腊文 dolichos（长）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
+
+种加词 *lanciarius*：拉丁文 lanciarius（持矛的）
+
+EN — epithet *lanciarius*: Latin lanciarius (spearman)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

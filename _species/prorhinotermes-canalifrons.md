@@ -29,6 +29,18 @@ EN — **沟额原鼻白蚁** (*Prorhinotermes canalifrons*) is a species of the
 
 ES — **沟额原鼻白蚁** (*Prorhinotermes canalifrons*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Madagascar: Toamasina (Tamatave). Distribución: Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *canalifrons*：拉丁文 canalis（沟、管）+ frons（额），沟额
+
+EN — epithet *canalifrons*: Latin canalis (groove) + frons (front), grooved-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

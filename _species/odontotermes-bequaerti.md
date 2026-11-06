@@ -32,6 +32,18 @@ EN — **贝奎特土白蚁** (*Odontotermes bequaerti*) is a species of the gen
 
 ES — **贝奎特土白蚁** (*Odontotermes bequaerti*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Democratic Republic of the Congo: Thysville. Distribución: Old World tropics, West Africa, Central Africa, Democratic Republic of the Congo, Ghana.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *bequaerti*：以人名 bequaert 命名（J. Bequaert（比利时昆虫学家））
+
+EN — epithet *bequaerti*: Named after J. Bequaert（比利时昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

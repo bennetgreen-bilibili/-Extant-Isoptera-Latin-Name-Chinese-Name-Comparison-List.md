@@ -29,6 +29,18 @@ EN — **似弯嘴沙白蚁** (*Psammotermes prohybostoma*) is a species of the 
 
 ES — **似弯嘴沙白蚁** (*Psammotermes prohybostoma*) es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Ravan & Akhtar en 1999; la localidad tipo es Iran: Chabahar (Tees). Distribución: Iran.
 
+## 词源
+
+属名 *Psammotermes*：属名由希腊文 psammos（沙）与拉丁文 termes（白蚁）组合。
+
+EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
+
+种加词 *prohybostoma*：希腊文 pro-（前）+ hybos（驼）+ stoma（口），前驼口
+
+EN — epithet *prohybostoma*: Greek pro- (front) + hybos (hump) + stoma (mouth)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

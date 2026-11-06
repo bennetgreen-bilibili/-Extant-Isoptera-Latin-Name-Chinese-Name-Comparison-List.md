@@ -32,6 +32,18 @@ EN — **沃尔科特微白蚁** (*Parvitermes wolcotti*) is a species of the ge
 
 ES — **沃尔科特微白蚁** (*Parvitermes wolcotti*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1924; la localidad tipo es Puerto Rico: Boquerón. Distribución: Puerto Rico, United States, British Virgin Islands.
 
+## 词源
+
+属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
+
+EN — *Parvitermes*: From Latin parvus (small) + termes.
+
+种加词 *wolcotti*：以人名 wolcott 命名（具体指向待考）
+
+EN — epithet *wolcotti*: Named after a person (wolcott), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

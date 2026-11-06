@@ -34,6 +34,18 @@ EN — **讨厌弓白蚁** (*Amitermes vilis*) is a species of the genus *Amiter
 
 ES — **讨厌弓白蚁** (*Amitermes vilis*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Iran: Shiraz. Distribución: Middle East / Arabian Peninsula, Afghanistan, Turkmenistan. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *vilis*：拉丁文 vilis（廉价的、低贱的）
+
+EN — epithet *vilis*: Latin vilis (cheap, worthless)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

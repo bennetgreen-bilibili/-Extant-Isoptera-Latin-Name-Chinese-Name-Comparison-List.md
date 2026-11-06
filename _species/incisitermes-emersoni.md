@@ -29,6 +29,18 @@ EN — **埃默森楹白蚁** (*Incisitermes emersoni*) is a species of the genu
 
 ES — **埃默森楹白蚁** (*Incisitermes emersoni*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala, near Colima. Distribución: Mexico.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
+
+EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

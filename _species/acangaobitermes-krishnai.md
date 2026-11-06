@@ -32,6 +32,18 @@ EN — **克里希纳漏斗白蚁** (*Acangaobitermes krishnai*) is the only ext
 
 ES — **克里希纳漏斗白蚁** (*Acangaobitermes krishnai*) es la única especie viviente del género *Acangaobitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rocha, Cancello & Cuezzo en 2011; la localidad tipo es Brasil: Goiás: Parque Nacional das Emas \[18.1S 52.91W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Acangaobitermes*：属名以土名或地名 Acangaobí 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Acangaobitermes*: From the place name Acangaobí; -termes from Latin termes.
+
+种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
+
+EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **瘦长锯白蚁** (*Microcerotermes subtilis*) is a species of the genu
 
 ES — **瘦长锯白蚁** (*Microcerotermes subtilis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Wasmann en 1897; la localidad tipo es Madagascar: Majunga; Seychelles: Aldabra Island. Distribución: Madagascar, Réunion, Comoros, Europa Island (France), Glorioso Islands (France), Seychelles, Tanzania.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *subtilis*：拉丁文/希腊文 subt（下、近）+ ilis（相关），指下、近相关
+
+EN — epithet *subtilis*: From subt (下、近) + ilis (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

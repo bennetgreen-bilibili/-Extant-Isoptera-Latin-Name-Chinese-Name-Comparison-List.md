@@ -29,6 +29,18 @@ EN — **尹氏散白蚁** (*Reticulitermes yinae*) is a species of the genus *R
 
 ES — **尹氏散白蚁** (*Reticulitermes yinae*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Zhu, Huang & Li en 1986; la localidad tipo es China: Yunnan Province: Simao. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *yinae*：以人名 yin 命名（具体指向待考）
+
+EN — epithet *yinae*: Named after a person (yin), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

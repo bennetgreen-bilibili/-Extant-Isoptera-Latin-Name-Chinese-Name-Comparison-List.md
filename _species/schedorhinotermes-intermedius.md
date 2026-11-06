@@ -29,6 +29,18 @@ EN — **中间长鼻白蚁** (*Schedorhinotermes intermedius*) is a species and
 
 ES — **中间长鼻白蚁** (*Schedorhinotermes intermedius*) es una especie, y la especie tipo de su género del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Brauer en 1865; la localidad tipo es Australia: New South Wales: Sydney. Distribución: eastern Australia.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *intermedius*：拉丁文 intermedius（中间的）
+
+EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

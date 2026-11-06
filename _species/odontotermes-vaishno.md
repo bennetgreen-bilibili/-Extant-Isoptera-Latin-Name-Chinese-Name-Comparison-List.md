@@ -32,6 +32,18 @@ EN — **瓦伊什诺土白蚁** (*Odontotermes vaishno*) is a species of the ge
 
 ES — **瓦伊什诺土白蚁** (*Odontotermes vaishno*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Bose en 1975; la localidad tipo es India: Kerela: Malabar: Kannoth Forest Range, Wynaad Division. Distribución: South Asia (India).
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *vaishno*：印度圣地 Vaishno Devi（或该神祇）
+
+EN — epithet *vaishno*: After Vaishno Devi (India)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

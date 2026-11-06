@@ -32,6 +32,18 @@ EN — **笨神无甲白蚁** (*Anenteotermes cnaphorus*) is a species of the ge
 
 ES — **笨神无甲白蚁** (*Anenteotermes cnaphorus*) es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville. Distribución: Republic of the Congo, Democratic Republic of the Congo, Malawi.
 
+## 词源
+
+属名 *Anenteotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *cnaphorus*：希腊文 knaphos（毛）+ -phoros（具），具毛
+
+EN — epithet *cnaphorus*: Greek knaphos (wool) + -phoros (bearing)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

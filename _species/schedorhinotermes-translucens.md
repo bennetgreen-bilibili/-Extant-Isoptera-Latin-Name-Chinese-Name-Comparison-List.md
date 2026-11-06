@@ -31,6 +31,18 @@ EN — **透明长鼻白蚁** (*Schedorhinotermes translucens*) is a species of 
 
 ES — **透明长鼻白蚁** (*Schedorhinotermes translucens*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *translucens*：拉丁文/希腊文词根「transluc」（半透明）
+
+EN — epithet *translucens*: From the descriptive term 'transluc' (translucent)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

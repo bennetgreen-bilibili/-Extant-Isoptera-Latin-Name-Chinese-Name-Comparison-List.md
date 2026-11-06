@@ -32,6 +32,18 @@ EN — **黑触角须白蚁** (*Hospitalitermes nigriantennalis*) is a species o
 
 ES — **黑触角须白蚁** (*Hospitalitermes nigriantennalis*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Syaukani & Thompson en 2016; la localidad tipo es Indonesia: Kalimantan: Pararawen Nature Reserve. Distribución: Malaysia, Brunei, Indonesia.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *nigriantennalis*：拉丁文/希腊文 nigri（黑）+ antennalis（触角），指黑触角
+
+EN — epithet *nigriantennalis*: From nigri (黑) + antennalis (触角)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

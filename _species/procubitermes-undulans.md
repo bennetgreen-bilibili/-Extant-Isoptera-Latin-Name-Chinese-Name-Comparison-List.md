@@ -32,6 +32,18 @@ EN — **波纹原方白蚁** (*Procubitermes undulans*) is a species of the gen
 
 ES — **波纹原方白蚁** (*Procubitermes undulans*) es una especie del género *Procubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Schmitz en 1917; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: East Africa, Uganda, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Procubitermes*：属名由希腊文 pro-（前）+ 拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
+
+种加词 *undulans*：拉丁文 undulans（波状的）
+
+EN — epithet *undulans*: Latin undulans (wavy)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

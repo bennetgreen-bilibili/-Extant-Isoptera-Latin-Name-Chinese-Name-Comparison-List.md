@@ -31,6 +31,18 @@ EN — **中暗长鼻白蚁** (*Schedorhinotermes medioobscurus*) is a species o
 
 ES — **中暗长鼻白蚁** (*Schedorhinotermes medioobscurus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat; Malaysia: Malacca: Trong, near Taiping. Distribución: Southeast Asia, Indonesia, Thailand, Malaysia, Cambodia, Singapore, Vietnam, Philippines, China, India. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *medioobscurus*：拉丁文/希腊文 medioobsc（中间）+ urus（尾），指中间尾
+
+EN — epithet *medioobscurus*: From medioobsc (中间) + urus (尾)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

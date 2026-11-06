@@ -32,6 +32,18 @@ EN — **长颚伪钩白蚁** (*Pseudhamitermes longignathus*) is a species of t
 
 ES — **长颚伪钩白蚁** (*Pseudhamitermes longignathus*) es una especie del género *Pseudhamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Huay Yang. Distribución: Thailand.
 
+## 词源
+
+属名 *Pseudhamitermes*：属名由希腊文 pseudēs（假）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Pseudhamitermes*: From Greek pseudēs (false) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *longignathus*：拉丁文 longus（长）+ 希腊文 gnathos（颚），长颚
+
+EN — epithet *longignathus*: Latin longus (long) + Greek gnathos (jaw), long-jawed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **宽翅土白蚁** (*Odontotermes latialatus*) is a species of the genus
 
 ES — **宽翅土白蚁** (*Odontotermes latialatus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1897; la localidad tipo es Democratic Republic of the Congo: ?. Distribución: Central African Republic, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *latialatus*：拉丁文/希腊文 latial（宽）+ atus（具），指宽具
+
+EN — epithet *latialatus*: From latial (宽) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

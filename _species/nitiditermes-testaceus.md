@@ -32,6 +32,18 @@ EN — **厚壳净白蚁** (*Nitiditermes testaceus*) is a species of the genus 
 
 ES — **厚壳净白蚁** (*Nitiditermes testaceus*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Williams en 1966; la localidad tipo es Uganda: Kawanda. Distribución: Kenya, Rwanda, South Africa, Uganda.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *testaceus*：拉丁文 testaceus（砖红、陶色）
+
+EN — epithet *testaceus*: Latin testaceus (brick-coloured)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

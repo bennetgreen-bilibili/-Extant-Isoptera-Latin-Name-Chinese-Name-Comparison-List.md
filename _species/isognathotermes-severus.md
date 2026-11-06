@@ -33,6 +33,18 @@ EN — **严肃等颚白蚁** (*Isognathotermes severus*) is a species of the ge
 
 ES — **严肃等颚白蚁** (*Isognathotermes severus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima. Distribución: West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *severus*：拉丁文 severus（严肃的、严酷的）
+
+EN — epithet *severus*: Latin severus (severe)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

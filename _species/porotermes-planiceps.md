@@ -31,6 +31,18 @@ EN — **扁头洞白蚁** (*Porotermes planiceps*) is a species of the genus *P
 
 ES — **扁头洞白蚁** (*Porotermes planiceps*) es una especie del género *Porotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Sjöstedt en 1904; la localidad tipo es South Africa: Cape Province?. Distribución: South Africa. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Porotermes*：属名由希腊文 poros（孔、通道）与拉丁文 termes（白蚁）组合。
+
+EN — *Porotermes*: From Greek poros (pore, passage) + Latin termes.
+
+种加词 *planiceps*：拉丁文 planus（平）+ -ceps（头），平头
+
+EN — epithet *planiceps*: Latin planus (flat) + -ceps (head), flat-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

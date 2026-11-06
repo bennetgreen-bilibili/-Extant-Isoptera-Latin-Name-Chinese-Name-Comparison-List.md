@@ -32,6 +32,18 @@ EN — **耶林变红白蚁** (*Rubeotermes jheringi*) is the only extant specie
 
 ES — **耶林变红白蚁** (*Rubeotermes jheringi*) es la única especie viviente del género *Rubeotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[ 13.45S 70.4W \]. Distribución: South America, Brazil, Colombia, French Guiana, Trinidad and Tobago.
 
+## 词源
+
+属名 *Rubeotermes*：属名由拉丁文 rubeus（红色的）与 termes（白蚁）组合。
+
+EN — *Rubeotermes*: From Latin rubeus (red) + termes.
+
+种加词 *jheringi*：以人名 jhering 命名（H. von Ihering（德国动物学家））
+
+EN — epithet *jheringi*: Named after H. von Ihering（德国动物学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **似巴舍尔白蚁** (*Termes baculiformis*) is a species of the genus 
 
 ES — **似巴舍尔白蚁** (*Termes baculiformis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Holmgren en 1909; la localidad tipo es Madagascar: St. Marie de Marovoay, Majunga. Distribución: Madagascar.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *baculiformis*：拉丁文 baculum（杖、杆）+ -formis（形），杖形
+
+EN — epithet *baculiformis*: Latin baculum (rod) + -formis (shaped), rod-shaped
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

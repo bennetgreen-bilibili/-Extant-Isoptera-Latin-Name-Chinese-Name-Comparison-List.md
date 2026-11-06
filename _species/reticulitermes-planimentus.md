@@ -29,6 +29,18 @@ EN — **平颏散白蚁** (*Reticulitermes planimentus*) is a species of the ge
 
 ES — **平颏散白蚁** (*Reticulitermes planimentus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Zhu, Huang & Wang en 1993; la localidad tipo es China: Sichuan Province: Qianjiang County. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *planimentus*：拉丁文 planus（平）+ mentum（颏），平颏
+
+EN — epithet *planimentus*: Latin planus (flat) + mentum (chin), flat-chinned
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

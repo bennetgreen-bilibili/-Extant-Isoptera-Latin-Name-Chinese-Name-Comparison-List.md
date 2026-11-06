@@ -29,6 +29,18 @@ EN — **雅普拉狭鼻白蚁** (*Dolichorhinotermes japuraensis*) is a species
 
 ES — **雅普拉狭鼻白蚁** (*Dolichorhinotermes japuraensis*) es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amazonas: Maraã \[ 1.848S 65.523W \]. Distribución: Brazil, Guyana.
 
+## 词源
+
+属名 *Dolichorhinotermes*：属名由希腊文 dolichos（长）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
+
+种加词 *japuraensis*：以地名 雅普拉（巴西） 命名
+
+EN — epithet *japuraensis*: Named after the locality Japura
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

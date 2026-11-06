@@ -29,6 +29,18 @@ EN — **埃塞俄比亚异白蚁** (*Heterotermes aethiopicus*) is a species of
 
 ES — **埃塞俄比亚异白蚁** (*Heterotermes aethiopicus*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Ethiopia: Kottouki Dagaga. Distribución: Ethiopia, Oman, Saudi Arabia, Sudan, United Arab Emirates, Yemen.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *aethiopicus*：地名：埃塞俄比亚（泛指非洲）
+
+EN — epithet *aethiopicus*: After Ethiopia (Africa)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

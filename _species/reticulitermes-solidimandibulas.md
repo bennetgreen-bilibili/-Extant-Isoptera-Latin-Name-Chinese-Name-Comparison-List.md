@@ -29,6 +29,18 @@ EN — **粗颚散白蚁** (*Reticulitermes solidimandibulas*) is a species of t
 
 ES — **粗颚散白蚁** (*Reticulitermes solidimandibulas*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Li & Xiao en 1989; la localidad tipo es China: Guangxi Province: Damingshan, Wuming. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *solidimandibulas*：拉丁文 solidus（坚实）+ mandibula（上颚），坚颚
+
+EN — epithet *solidimandibulas*: Latin solidus (solid) + mandibula (mandible), solid-mandibled
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

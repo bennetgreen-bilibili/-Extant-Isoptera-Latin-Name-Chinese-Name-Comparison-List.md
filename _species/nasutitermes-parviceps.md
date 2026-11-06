@@ -32,6 +32,18 @@ EN — **小头象白蚁** (*Nasutitermes parviceps*) is a species of the genus 
 
 ES — **小头象白蚁** (*Nasutitermes parviceps*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ping & Xu en 1993; la localidad tipo es China: Guangdong Province: Shixing County: Danzhukeng of Chebaling. Distribución: China.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *parviceps*：拉丁文 parvus（小）+ -ceps（头），小头
+
+EN — epithet *parviceps*: Latin parvus (small) + -ceps (head), small-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

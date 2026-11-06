@@ -32,6 +32,18 @@ EN — **似森林伪扭白蚁** (*Pseudocapritermes parasilvaticus*) is a speci
 
 ES — **似森林伪扭白蚁** (*Pseudocapritermes parasilvaticus*) es una especie del género *Pseudocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Tung Sa-Lang Luang. Distribución: Indonesia, Thailand.
 
+## 词源
+
+属名 *Pseudocapritermes*：属名由希腊文 pseudēs（假）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
+
+种加词 *parasilvaticus*：希腊文 para（旁、近）＋拉丁文 silvaticus（森林的），指近森林的
+
+EN — epithet *parasilvaticus*: Greek para (beside) + Latin silvaticus (of the forest): near forests
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

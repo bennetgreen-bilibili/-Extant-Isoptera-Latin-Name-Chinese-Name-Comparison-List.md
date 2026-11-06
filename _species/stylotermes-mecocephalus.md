@@ -29,6 +29,18 @@ EN — **长头杆白蚁** (*Stylotermes mecocephalus*) is a species of the genu
 
 ES — **长头杆白蚁** (*Stylotermes mecocephalus*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Ping & Li en 1978; la localidad tipo es China: Guangxi Province:: Jingxi Xian. Distribución: China.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *mecocephalus*：希腊文 mēkos（长）+ kephalē（头），长头
+
+EN — epithet *mecocephalus*: Greek mēkos (length) + kephalē (head), long-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

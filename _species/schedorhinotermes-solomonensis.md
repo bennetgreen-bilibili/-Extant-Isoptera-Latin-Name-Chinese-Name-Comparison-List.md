@@ -29,6 +29,18 @@ EN — **所罗门长鼻白蚁** (*Schedorhinotermes solomonensis*) is a species
 
 ES — **所罗门长鼻白蚁** (*Schedorhinotermes solomonensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Snyder en 1925; la localidad tipo es Solomon Islands: San Cristobal Island: Pamua. Distribución: Solomon Islands.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *solomonensis*：以地名 所罗门 命名
+
+EN — epithet *solomonensis*: Named after the locality Solomon
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

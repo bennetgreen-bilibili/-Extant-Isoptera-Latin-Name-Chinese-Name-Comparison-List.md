@@ -32,6 +32,18 @@ EN — **二型象白蚁** (*Nasutitermes dimorphus*) is a species of the genus 
 
 ES — **二型象白蚁** (*Nasutitermes dimorphus*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Kan Tang. Distribución: Malaysia, Thailand.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
+
+EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

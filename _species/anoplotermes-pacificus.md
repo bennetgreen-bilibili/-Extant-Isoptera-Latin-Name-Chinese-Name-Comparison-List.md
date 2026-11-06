@@ -34,6 +34,18 @@ EN — **太平洋解甲白蚁** (*Anoplotermes pacificus*) is a species and the
 
 ES — **太平洋解甲白蚁** (*Anoplotermes pacificus*) es una especie, y la especie tipo de su género del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribución: Brazil, Amazon region. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *pacificus*：以地名 pacif 命名（具体地名待考）
+
+EN — epithet *pacificus*: Named after a locality (pacif)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

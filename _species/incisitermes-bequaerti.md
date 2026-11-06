@@ -29,6 +29,18 @@ EN — **贝奎特楹白蚁** (*Incisitermes bequaerti*) is a species of the gen
 
 ES — **贝奎特楹白蚁** (*Incisitermes bequaerti*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1929; la localidad tipo es Cuba: Oriente: Banos. Distribución: Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *bequaerti*：以人名 bequaert 命名（J. Bequaert（比利时昆虫学家））
+
+EN — epithet *bequaerti*: Named after J. Bequaert（比利时昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

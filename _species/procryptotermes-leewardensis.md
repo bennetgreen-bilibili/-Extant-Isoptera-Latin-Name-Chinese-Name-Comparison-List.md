@@ -29,6 +29,18 @@ EN — **背风群岛前砂白蚁** (*Procryptotermes leewardensis*) is a specie
 
 ES — **背风群岛前砂白蚁** (*Procryptotermes leewardensis*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 2001; la localidad tipo es Saint Martin (France): Marigot. Distribución: Caribbean.
 
+## 词源
+
+属名 *Procryptotermes*：属名由希腊文 pro-（前、早）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
+
+种加词 *leewardensis*：以地名 leeward 命名（具体地名待考）
+
+EN — epithet *leewardensis*: Named after a locality (leeward)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

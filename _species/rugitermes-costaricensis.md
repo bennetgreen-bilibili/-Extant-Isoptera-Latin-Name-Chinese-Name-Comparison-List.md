@@ -29,6 +29,18 @@ EN — **哥斯达黎加皱白蚁** (*Rugitermes costaricensis*) is a species of
 
 ES — **哥斯达黎加皱白蚁** (*Rugitermes costaricensis*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Costa Rica: Santa Clara: Hamburg Farm. Distribución: Costa Rica.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *costaricensis*：以地名 哥斯达黎加 命名
+
+EN — epithet *costaricensis*: Named after the locality Costaric
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

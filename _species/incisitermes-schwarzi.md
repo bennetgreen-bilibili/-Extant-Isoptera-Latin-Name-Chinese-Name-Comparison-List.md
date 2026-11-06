@@ -31,6 +31,18 @@ EN — **施瓦茨楹白蚁** (*Incisitermes schwarzi*) is a species and the typ
 
 ES — **施瓦茨楹白蚁** (*Incisitermes schwarzi*) es una especie, y la especie tipo de su género del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1919; la localidad tipo es Cuba: ?; Jamaica: Bog River; United States: Florida: Adam Key; Florida: Miami Beach; Florida: Paradise Key; Florida: Pensacola. Distribución: Mexico, United States, Antigua and Barbuda, Aruba, Bahamas, Belize, Bonaire, Cayman Islands, Colombia, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, French Guadeloupe, Guatemala, Honduras, Jamaica, French Martinique, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *schwarzi*：以人名 schwarz 命名（具体指向待考）
+
+EN — epithet *schwarzi*: Named after a person (schwarz), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

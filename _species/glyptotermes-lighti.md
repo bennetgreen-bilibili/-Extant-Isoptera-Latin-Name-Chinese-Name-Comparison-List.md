@@ -29,6 +29,18 @@ EN — **莱特树白蚁** (*Glyptotermes lighti*) is a species of the genus *Gl
 
 ES — **莱特树白蚁** (*Glyptotermes lighti*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna & Emerson en 1962; la localidad tipo es Marshall Islands: Arno Atoll: Ine Island. Distribución: Marshall Islands, Solomon Islands.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *lighti*：以人名 light 命名（美国白蚁学家 S. F. Light）
+
+EN — epithet *lighti*: Named after 美国白蚁学家 S. F. Light
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

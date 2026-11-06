@@ -32,6 +32,18 @@ EN — **扎瓦塔里三方白蚁** (*Ternicubitermes zavattarii*) is a species 
 
 ES — **扎瓦塔里三方白蚁** (*Ternicubitermes zavattarii*) es una especie del género *Ternicubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Ghidini en 1937; la localidad tipo es Ethiopia: Galla-Borana: Neghelli. Distribución: Ethiopia, Kenya, Tanzania.
 
+## 词源
+
+属名 *Ternicubitermes*：属名由拉丁文 terni（三个一组）+ cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
+
+种加词 *zavattarii*：以人名 zavattar 命名（具体指向待考）
+
+EN — epithet *zavattarii*: Named after a person (zavattar), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

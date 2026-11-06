@@ -31,6 +31,18 @@ EN — **马六甲长鼻白蚁** (*Schedorhinotermes malaccensis*) is a species 
 
 ES — **马六甲长鼻白蚁** (*Schedorhinotermes malaccensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Malacca. Distribución: Southeast Asia, Thailand, Malaysia, Cambodia, Indonesia, Myanmar, Singapore, Vietnam, India. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *malaccensis*：以地名 马六甲（马来西亚） 命名
+
+EN — epithet *malaccensis*: Named after the locality Malacc
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

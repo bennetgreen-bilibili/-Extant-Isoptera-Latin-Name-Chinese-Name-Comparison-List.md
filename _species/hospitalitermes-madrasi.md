@@ -32,6 +32,18 @@ EN — **马德拉斯须白蚁** (*Hospitalitermes madrasi*) is a species of the
 
 ES — **马德拉斯须白蚁** (*Hospitalitermes madrasi*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es India: Tamil Nadu: North Vellore. Distribución: India.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *madrasi*：以人名 madras 命名（具体指向待考）
+
+EN — epithet *madrasi*: Named after a person (madras), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **皮亚萨瓦灰白蚁** (*Grigiotermes piassava*) is a species of the g
 
 ES — **皮亚萨瓦灰白蚁** (*Grigiotermes piassava*) es una especie del género *Grigiotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Carvalho & Vasconcellos en 2024; la localidad tipo es Brasil: Pernambuco, Biological Reserve of Saltinho \[ 8.727S 35.178W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Grigiotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Grigiotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *piassava*：皮亚萨瓦棕榈纤维（图皮语）
+
+EN — epithet *piassava*: From piassava, palm fibre (Tupi)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

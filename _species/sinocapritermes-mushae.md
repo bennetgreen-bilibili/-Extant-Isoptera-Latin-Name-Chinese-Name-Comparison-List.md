@@ -32,6 +32,18 @@ EN — **台湾华扭白蚁** (*Sinocapritermes mushae*) is a species of the gen
 
 ES — **台湾华扭白蚁** (*Sinocapritermes mushae*) es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Oshima & Maki en 1919; la localidad tipo es Taiwan: Nanto: Musha. Distribución: Hong Kong, China, Taiwan, China, Japan.
 
+## 词源
+
+属名 *Sinocapritermes*：属名由拉丁文 Sinae（中国）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
+
+种加词 *mushae*：以人名 mush 命名（具体指向待考）
+
+EN — epithet *mushae*: Named after a person (mush), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

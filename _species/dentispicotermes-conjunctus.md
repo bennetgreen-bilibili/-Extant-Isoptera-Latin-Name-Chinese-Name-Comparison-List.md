@@ -32,6 +32,18 @@ EN — **邻近齿尖白蚁** (*Dentispicotermes conjunctus*) is a species of th
 
 ES — **邻近齿尖白蚁** (*Dentispicotermes conjunctus*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Araujo en 1969; la localidad tipo es Brasil: Minas Gerais: Poços de Caldas \[ 21.7878S 46.5614W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Dentispicotermes*：属名由拉丁文 dens（齿）+ spica（尖、穗）与 termes（白蚁）组合。
+
+EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
+
+种加词 *conjunctus*：拉丁文 conjunctus（连接的）
+
+EN — epithet *conjunctus*: Latin conjunctus (joined)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

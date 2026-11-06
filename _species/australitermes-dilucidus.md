@@ -32,6 +32,18 @@ EN — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) is a species an
 
 ES — **清晰澳大利亚白蚁** (*Australitermes dilucidus*) es una especie, y la especie tipo de su género del género *Australitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Doongul State Forest, near Aramara. Distribución: Australia.
 
+## 词源
+
+属名 *Australitermes*：属名由拉丁文 australis（南方的）与 termes（白蚁）组合。
+
+EN — *Australitermes*: From Latin australis (southern) + termes.
+
+种加词 *dilucidus*：拉丁文 dilucidus（清晰的、明亮的）
+
+EN — epithet *dilucidus*: Latin dilucidus (clear, lucid)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

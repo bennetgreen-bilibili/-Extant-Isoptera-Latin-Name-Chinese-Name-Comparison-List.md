@@ -32,6 +32,18 @@ EN — **基斯特纳突扭白蚁** (*Dicuspiditermes kistneri*) is a species of
 
 ES — **基斯特纳突扭白蚁** (*Dicuspiditermes kistneri*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Krishna en 2001; la localidad tipo es Malaysia: Selangor: Semangkok Forest Reserve. Distribución: Malaysia, Singapore.
 
+## 词源
+
+属名 *Dicuspiditermes*：属名由拉丁文 di-（二）+ cuspis（尖）与 termes（白蚁）组合。
+
+EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
+
+种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
+
+EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

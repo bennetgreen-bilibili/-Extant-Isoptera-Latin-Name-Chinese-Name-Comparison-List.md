@@ -29,6 +29,18 @@ EN — **苏高堆砂白蚁** (*Cryptotermes sukauensis*) is a species of the ge
 
 ES — **苏高堆砂白蚁** (*Cryptotermes sukauensis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Lamag District: Sukau. Distribución: Malaysia (Sabah).
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *sukauensis*：以地名 苏高（马来西亚） 命名
+
+EN — epithet *sukauensis*: Named after the locality Sukau
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

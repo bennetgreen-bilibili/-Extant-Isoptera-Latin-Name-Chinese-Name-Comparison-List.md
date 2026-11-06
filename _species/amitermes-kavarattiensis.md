@@ -32,6 +32,18 @@ EN — **卡瓦拉蒂弓白蚁** (*Amitermes kavarattiensis*) is a species of th
 
 ES — **卡瓦拉蒂弓白蚁** (*Amitermes kavarattiensis*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Sengupta, Rajmohana & Amina en 2022; la localidad tipo es India: Lakshadweep: Kavaratti island \[ 10.5544N 72.6325E \]. Distribución: India.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *kavarattiensis*：以地名 卡瓦拉蒂（印度） 命名
+
+EN — epithet *kavarattiensis*: Named after the locality Kavaratt
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

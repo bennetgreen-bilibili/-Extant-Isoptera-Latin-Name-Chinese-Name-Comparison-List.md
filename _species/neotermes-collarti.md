@@ -29,6 +29,18 @@ EN — **科勒特新白蚁** (*Neotermes collarti*) is a species of the genus *
 
 ES — **科勒特新白蚁** (*Neotermes collarti*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Coaton en 1955; la localidad tipo es Democratic Republic of the Congo: Ituri: Forêt de Kawa. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *collarti*：以人名 collart 命名（具体指向待考）
+
+EN — epithet *collarti*: Named after a person (collart), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

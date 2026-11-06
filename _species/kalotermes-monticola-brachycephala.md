@@ -30,6 +30,18 @@ EN — **短头亚种** (*Kalotermes monticola brachycephala*) is a subspecies o
 
 ES — **短头亚种** (*Kalotermes monticola brachycephala*) es una subespecie de *Kalotermes monticola*, en la familia KALOTERMITIDAE, género *Kalotermes*. La subespecie fue descrita por Sjöstedt en 1926; la localidad tipo es Algeria: Massif de l’Edough. No se incluye un registro de distribución separado en esta página; véase la especie parental *Kalotermes monticola*.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *brachycephala*：希腊文 brachys（短）＋kephalē（头），指短头的
+
+EN — epithet *brachycephala*: Greek brachys (short) + kephalē (head): short-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

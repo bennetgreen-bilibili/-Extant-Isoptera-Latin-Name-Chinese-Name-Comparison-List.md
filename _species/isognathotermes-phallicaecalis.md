@@ -32,6 +32,18 @@ EN — **阳茎盲囊等颚白蚁** (*Isognathotermes phallicaecalis*) is a spec
 
 ES — **阳茎盲囊等颚白蚁** (*Isognathotermes phallicaecalis*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Congo Republic: Loundoungou \[ 2.3804N 17.0704E \]. Distribución: Congo Republic, Cameroon.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *phallicaecalis*：希腊文 phallos（阴茎）+ 拉丁文 caecum（盲肠），指其形状
+
+EN — epithet *phallicaecalis*: Greek phallos (phallus) + Latin caecum (caecum)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

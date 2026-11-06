@@ -32,6 +32,18 @@ EN — **布鲁斯解甲白蚁** (*Anoplotermes brucei*) is a species of the gen
 
 ES — **布鲁斯解甲白蚁** (*Anoplotermes brucei*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Snyder en 1955; la localidad tipo es Bolivia: Pando: near Lake Rogagua \[ 13.9667S 66.8667W \]. Distribución: Bolivia.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *brucei*：以人名 bruce 命名（具体指向待考）
+
+EN — epithet *brucei*: Named after a person (bruce), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

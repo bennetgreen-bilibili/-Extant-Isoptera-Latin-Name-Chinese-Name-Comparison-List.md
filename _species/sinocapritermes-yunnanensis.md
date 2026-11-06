@@ -32,6 +32,18 @@ EN — **滇华扭白蚁** (*Sinocapritermes yunnanensis*) is a species of the g
 
 ES — **滇华扭白蚁** (*Sinocapritermes yunnanensis*) es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ping & Xu en 1986; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China, Yunnan.
 
+## 词源
+
+属名 *Sinocapritermes*：属名由拉丁文 Sinae（中国）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
+
+种加词 *yunnanensis*：地名：云南（中国）
+
+EN — epithet *yunnanensis*: After Yunnan (China)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

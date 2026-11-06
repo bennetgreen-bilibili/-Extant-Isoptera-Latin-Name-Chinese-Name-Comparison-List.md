@@ -32,6 +32,18 @@ EN — **似齿小土白蚁** (*Odontotermes paradenticulatus*) is a species of 
 
 ES — **似齿小土白蚁** (*Odontotermes paradenticulatus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ahmad en 1947; la localidad tipo es Philippines: Leyte, west of Tarragona, east shore of Lake Bito. Distribución: Philippines.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *paradenticulatus*：拉丁文/希腊文 paradenticul（旁）+ atus（具），指旁具
+
+EN — epithet *paradenticulatus*: From paradenticul (旁) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

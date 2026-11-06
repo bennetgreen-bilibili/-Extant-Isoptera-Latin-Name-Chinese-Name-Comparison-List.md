@@ -32,6 +32,18 @@ EN — **新具毛前扭白蚁** (*Procapritermes neosetiger*) is a species of t
 
 ES — **新具毛前扭白蚁** (*Procapritermes neosetiger*) es una especie del género *Procapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan North: Kolapis Forest. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Procapritermes*：属名由希腊文 pro-（前）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
+
+种加词 *neosetiger*：拉丁文/希腊文 neoseti（新）+ ger（具），指新具
+
+EN — epithet *neosetiger*: From neoseti (新) + ger (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **顺从直白蚁** (*Orthotermes mansuetus*) is a species of the genus *
 
 ES — **顺从直白蚁** (*Orthotermes mansuetus*) es una especie del género *Orthotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Democratic Republic of the Congo, Angola, Cameroon, Gabon.
 
+## 词源
+
+属名 *Orthotermes*：属名由希腊文 orthos（直）与拉丁文 termes（白蚁）组合。
+
+EN — *Orthotermes*: From Greek orthos (straight) + Latin termes.
+
+种加词 *mansuetus*：拉丁文 mansuetus（温顺的、驯服的）
+
+EN — epithet *mansuetus*: Latin mansuetus (tame, gentle)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

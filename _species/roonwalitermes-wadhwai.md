@@ -32,6 +32,18 @@ EN — **沃德瓦鲁恩沃白蚁** (*Roonwalitermes wadhwai*) is the only extan
 
 ES — **沃德瓦鲁恩沃白蚁** (*Roonwalitermes wadhwai*) es la única especie viviente del género *Roonwalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Bose en 1997; la localidad tipo es India: Meghalaya: Mawphlang. Distribución: India.
 
+## 词源
+
+属名 *Roonwalitermes*：属名以人名 Roonwal 命名（印度白蚁学家 M. L. Roonwal），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Roonwalitermes*: Named after the termite taxonomist M. L. Roonwal; -termes from Latin termes.
+
+种加词 *wadhwai*：以人名 wadhwa 命名（具体指向待考）
+
+EN — epithet *wadhwai*: Named after a person (wadhwa), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

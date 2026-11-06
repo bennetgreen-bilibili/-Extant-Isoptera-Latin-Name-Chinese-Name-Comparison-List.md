@@ -29,6 +29,18 @@ EN — **竞争木白蚁** (*Kalotermes aemulus*) is a species of the genus *Kal
 
 ES — **竞争木白蚁** (*Kalotermes aemulus*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sewell & Gay en 1978; la localidad tipo es Australia: Western Australia: Victoria Park. Distribución: Australia.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *aemulus*：拉丁文 aemulus（竞争的、匹敌的）
+
+EN — epithet *aemulus*: Latin aemulus (rival, emulating)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -35,6 +35,18 @@ EN — **指名亚种** (*Promirotermes holmgreni holmgreni*) is a subspecies of
 
 ES — **指名亚种** (*Promirotermes holmgreni holmgreni*) es una subespecie de *Promirotermes holmgreni*, en la familia TERMITIDAE (subfamilia Promirotermitinae), género *Promirotermes*. La subespecie fue descrita por Silvestri en 1912; la localidad tipo es Guinea Bissau: Bolama. No se incluye un registro de distribución separado en esta página; véase la especie parental *Promirotermes holmgreni*. Este sitio registra 1 sinónimo junior para la subespecie.
 
+## 词源
+
+属名 *Promirotermes*：属名由希腊文 pro-（前）+ 拉丁文 mirus（奇异）与 termes（白蚁）组合。
+
+EN — *Promirotermes*: From Greek pro- (before) + Latin mirus (wonderful) + termes.
+
+种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
+
+EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **相似棒颚白蚁** (*Ephelotermes persimilis*) is a species of the ge
 
 ES — **相似棒颚白蚁** (*Ephelotermes persimilis*) es una especie del género *Ephelotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Gay en 1971; la localidad tipo es Australia: Western Australia: 5 km NE Babakin. Distribución: Australia.
 
+## 词源
+
+属名 *Ephelotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *persimilis*：拉丁文 per-（非常）+ similis（相似），极相似
+
+EN — epithet *persimilis*: Latin per- (very) + similis (similar), very similar
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

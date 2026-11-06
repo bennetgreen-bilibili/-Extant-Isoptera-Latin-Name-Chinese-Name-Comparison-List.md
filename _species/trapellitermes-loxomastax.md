@@ -32,6 +32,18 @@ EN — **弯颚菱角白蚁** (*Trapellitermes loxomastax*) is the only extant s
 
 ES — **弯颚菱角白蚁** (*Trapellitermes loxomastax*) es la única especie viviente del género *Trapellitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sands en 1995; la localidad tipo es Gambia: near Daranka on Madinari road. Distribución: West Africa, Côte d'Ivoire.
 
+## 词源
+
+属名 *Trapellitermes*：属名由希腊文 trapeza（桌、台）与小后缀 -ellus 及 termes（白蚁）组合。
+
+EN — *Trapellitermes*: From Greek trapeza (table) + diminutive -ellus + termes.
+
+种加词 *loxomastax*：希腊文 loxos（斜）+ mastax（颚、口器），斜颚
+
+EN — epithet *loxomastax*: Greek loxos (oblique) + mastax (jaw), oblique-jawed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **直角头白蚁** (*Cephalotermes rectangularis*) is the only extant sp
 
 ES — **直角头白蚁** (*Cephalotermes rectangularis*) es la única especie viviente del género *Cephalotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Mungo River. Distribución: Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda.
 
+## 词源
+
+属名 *Cephalotermes*：属名由希腊文 kephalē（头）与拉丁文 termes（白蚁）组合。
+
+EN — *Cephalotermes*: From Greek kephalē (head) + Latin termes.
+
+种加词 *rectangularis*：拉丁文/希腊文 rectangul（直角）+ aris（相关），指直角相关
+
+EN — epithet *rectangularis*: From rectangul (直角) + aris (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

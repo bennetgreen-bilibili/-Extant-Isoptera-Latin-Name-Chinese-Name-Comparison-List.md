@@ -29,6 +29,18 @@ EN — **萨莱尔新白蚁** (*Neotermes saleierensis*) is a species of the gen
 
 ES — **萨莱尔新白蚁** (*Neotermes saleierensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Kemner en 1932; la localidad tipo es Indonesia: Sulawesi: Saleier Islands: Pamatata. Distribución: Indonesia.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *saleierensis*：以地名 saleier 命名（具体地名待考）
+
+EN — epithet *saleierensis*: Named after a locality (saleier)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

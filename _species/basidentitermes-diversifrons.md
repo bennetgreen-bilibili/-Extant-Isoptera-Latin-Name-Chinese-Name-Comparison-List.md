@@ -32,6 +32,18 @@ EN — **裂额基齿白蚁** (*Basidentitermes diversifrons*) is a species of t
 
 ES — **裂额基齿白蚁** (*Basidentitermes diversifrons*) es una especie del género *Basidentitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Cameroon: Victoria. Distribución: Old World tropics, Cameroon, Republic of the Congo.
 
+## 词源
+
+属名 *Basidentitermes*：属名由希腊文 basis（基部）+ 拉丁文 dens（齿）与 termes（白蚁）组合。
+
+EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
+
+种加词 *diversifrons*：拉丁文 diversus（不同）+ frons（额），异额
+
+EN — epithet *diversifrons*: Latin diversus (diverse) + frons (front), diverse-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

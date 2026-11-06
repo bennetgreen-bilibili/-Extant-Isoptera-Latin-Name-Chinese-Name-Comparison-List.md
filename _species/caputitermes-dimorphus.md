@@ -32,6 +32,18 @@ EN — **二型首白蚁** (*Caputitermes dimorphus*) is the only extant species
 
 ES — **二型首白蚁** (*Caputitermes dimorphus*) es la única especie viviente del género *Caputitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Almeida-Azevedo, Acioli, Morais & Azevedo en 2023; la localidad tipo es Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM \[ 2.633S 60.1072W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Caputitermes*：属名由拉丁文 caput（头）与 termes（白蚁）组合。
+
+EN — *Caputitermes*: From Latin caput (head) + termes.
+
+种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
+
+EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

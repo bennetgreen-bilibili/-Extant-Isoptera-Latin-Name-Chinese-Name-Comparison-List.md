@@ -32,6 +32,18 @@ EN — **奥斯本阿特拉斯白蚁** (*Atlantitermes osborni*) is a species of
 
 ES — **奥斯本阿特拉斯白蚁** (*Atlantitermes osborni*) es una especie del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Bartica District, Cow Island \[6.43N 58.623W\]. Distribución: Colombia, Brazil, French Guiana, Bolivia, Ecuador, Guyana, Venezuela.
 
+## 词源
+
+属名 *Atlantitermes*：属名由地名 Atlantic（大西洋）与 termes（白蚁）组合。
+
+EN — *Atlantitermes*: From the Atlantic + termes.
+
+种加词 *osborni*：以人名 Osborn 命名（美国昆虫学家 H. Osborn）
+
+EN — epithet *osborni*: Named after the entomologist H. Osborn
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

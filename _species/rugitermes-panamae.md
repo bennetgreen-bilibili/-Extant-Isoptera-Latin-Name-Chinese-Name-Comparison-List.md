@@ -31,6 +31,18 @@ EN — **巴拿马皱白蚁** (*Rugitermes panamae*) is a species of the genus *
 
 ES — **巴拿马皱白蚁** (*Rugitermes panamae*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Rio Chinilla. Distribución: Panama. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *panamae*：以人名 panam 命名（具体指向待考）
+
+EN — epithet *panamae*: Named after a person (panam), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

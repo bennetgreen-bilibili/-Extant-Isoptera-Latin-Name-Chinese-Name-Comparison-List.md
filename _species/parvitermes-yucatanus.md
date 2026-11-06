@@ -32,6 +32,18 @@ EN — **尤卡坦微白蚁** (*Parvitermes yucatanus*) is a species of the genu
 
 ES — **尤卡坦微白蚁** (*Parvitermes yucatanus*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn en 2016; la localidad tipo es Mexico: 0.9 km N. gate of Punta Sam. Distribución: Guatemala, Mexico, Belize.
 
+## 词源
+
+属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
+
+EN — *Parvitermes*: From Latin parvus (small) + termes.
+
+种加词 *yucatanus*：以地名 尤卡坦（墨西哥） 命名
+
+EN — epithet *yucatanus*: Named after the locality Yucat
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **大厚唇白蚁** (*Labiotermes guasu*) is a species of the genus *Labi
 
 ES — **大厚唇白蚁** (*Labiotermes guasu*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino & Acioli en 2006; la localidad tipo es Brasil: Amazonas: Benjamin Constant, Nova Aliança \[4.35S 69.6W\]. Distribución: Brazil, Colombia, Peru.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *guasu*：图皮语 -guasu（大）
+
+EN — epithet *guasu*: Tupi -guasu (large)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

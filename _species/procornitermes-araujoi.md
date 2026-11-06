@@ -34,6 +34,18 @@ EN — **阿劳若前角白蚁** (*Procornitermes araujoi*) is a species of the 
 
 ES — **阿劳若前角白蚁** (*Procornitermes araujoi*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: São Paulo: Leme, Taquarí (district) \[22.1856S 47.3903W\]. Distribución: Brazil. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Procornitermes*：属名由希腊文 pro-（前）+ 拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
+
+种加词 *araujoi*：以人名 araujo 命名（巴西白蚁学家 R. L. Araujo）
+
+EN — epithet *araujoi*: Named after 巴西白蚁学家 R. L. Araujo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

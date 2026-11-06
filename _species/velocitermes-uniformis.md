@@ -32,6 +32,18 @@ EN — **单型快白蚁** (*Velocitermes uniformis*) is a species of the genus 
 
 ES — **单型快白蚁** (*Velocitermes uniformis*) es una especie del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[13.9667S 66.8667W\]. Distribución: Brazil, Bolivia, Venezuela.
 
+## 词源
+
+属名 *Velocitermes*：属名由拉丁文 velox（快速的）与 termes（白蚁）组合。
+
+EN — *Velocitermes*: From Latin velox (swift) + termes.
+
+种加词 *uniformis*：拉丁文 unus（一）+ forma（形），同形
+
+EN — epithet *uniformis*: Latin unus (one) + forma (form), uniform
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

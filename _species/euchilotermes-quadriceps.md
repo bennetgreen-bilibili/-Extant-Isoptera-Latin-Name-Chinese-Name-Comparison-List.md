@@ -32,6 +32,18 @@ EN — **方头真唇白蚁** (*Euchilotermes quadriceps*) is a species of the g
 
 ES — **方头真唇白蚁** (*Euchilotermes quadriceps*) es una especie del género *Euchilotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Democratic Republic of the Congo: Yakuluku. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Euchilotermes*：属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。
+
+EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
+
+种加词 *quadriceps*：拉丁文/希腊文 quadri（方）+ ceps（头），指方头
+
+EN — epithet *quadriceps*: From quadri (方) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

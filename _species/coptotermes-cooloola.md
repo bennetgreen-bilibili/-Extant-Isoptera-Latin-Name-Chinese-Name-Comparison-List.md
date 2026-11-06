@@ -29,6 +29,18 @@ EN — **库鲁拉乳白蚁** (*Coptotermes cooloola*) is a species of the genus
 
 ES — **库鲁拉乳白蚁** (*Coptotermes cooloola*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Lee, Evans, Cameron, Ho, Namyatova & Lo en 2017; la localidad tipo es Australia: Queensland: Springfield. Distribución: southeastern Queensland, Australia.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *cooloola*：以当地土名或地名命名（澳大利亚 Cooloola）
+
+EN — epithet *cooloola*: After Cooloola (Australia)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

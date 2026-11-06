@@ -32,6 +32,18 @@ EN — **沃森西部白蚁** (*Occasitermes watsoni*) is a species of the genus
 
 ES — **沃森西部白蚁** (*Occasitermes watsoni*) es una especie del género *Occasitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gay en 1974; la localidad tipo es Australia: New South Wales: 12 km W by N Temora. Distribución: Australia.
 
+## 词源
+
+属名 *Occasitermes*：词源未详（或与拉丁文 occasus「落下、西方」相关）；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Occasitermes*: Etymology uncertain (perhaps Latin occasus 'setting, west'); -termes from Latin termes.
+
+种加词 *watsoni*：以人名 watson 命名（具体指向待考）
+
+EN — epithet *watsoni*: Named after a person (watson), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **迪伦德拉新白蚁** (*Neotermes dhirendrai*) is a species of the ge
 
 ES — **迪伦德拉新白蚁** (*Neotermes dhirendrai*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Bose en 1984; la localidad tipo es India: Tamil Nadu: Salem. Distribución: India, Tamil Nadu.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *dhirendrai*：以人名 dhirendra 命名（具体指向待考）
+
+EN — epithet *dhirendrai*: Named after a person (dhirendra), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **拉贾斯坦沙白蚁** (*Psammotermes rajasthanicus*) is a species of 
 
 ES — **拉贾斯坦沙白蚁** (*Psammotermes rajasthanicus*) es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Roonwal & Bose en 1960; la localidad tipo es India: Rajasthan: Jaisalmer District, about 20 miles east of Mohangarh, Balana. Distribución: northwestern India, Pakistan, Iran.
 
+## 词源
+
+属名 *Psammotermes*：属名由希腊文 psammos（沙）与拉丁文 termes（白蚁）组合。
+
+EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
+
+种加词 *rajasthanicus*：以地名 拉贾斯坦（印度）命名
+
+EN — epithet *rajasthanicus*: Named after Rajasthan, India
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

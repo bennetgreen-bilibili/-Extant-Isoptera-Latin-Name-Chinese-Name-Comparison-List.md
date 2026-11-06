@@ -29,6 +29,18 @@ EN — **昆士兰棒鼻白蚁** (*Parrhinotermes queenslandicus*) is a species 
 
 ES — **昆士兰棒鼻白蚁** (*Parrhinotermes queenslandicus*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Malanda. Distribución: Australia.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *queenslandicus*：以地名 昆士兰（澳大利亚） 命名
+
+EN — epithet *queenslandicus*: Named after the locality Queensland
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

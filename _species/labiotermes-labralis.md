@@ -34,6 +34,18 @@ EN — **细唇厚唇白蚁** (*Labiotermes labralis*) is a species and the type
 
 ES — **细唇厚唇白蚁** (*Labiotermes labralis*) es una especie, y la especie tipo de su género del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]. Distribución: Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *labralis*：拉丁文 labralis（唇的、唇基的）
+
+EN — epithet *labralis*: Latin labralis (of the labrum)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

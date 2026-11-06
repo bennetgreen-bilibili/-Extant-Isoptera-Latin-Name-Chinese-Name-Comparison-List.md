@@ -44,6 +44,13 @@ breadcrumb:
 <p>模式种：<i>Cyranotermes timuassu</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>属名由 Cyrano（戏剧人物 Cyrano de Bergerac，以长鼻著称）与 termes（白蚁）组合，指其长鼻状额突。</p>
+<p class="etymology-en" lang="en">From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/cyranotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

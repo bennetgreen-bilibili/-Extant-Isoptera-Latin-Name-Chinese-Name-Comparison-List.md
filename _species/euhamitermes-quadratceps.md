@@ -32,6 +32,18 @@ EN — **方头亮白蚁** (*Euhamitermes quadratceps*) is a species of the genu
 
 ES — **方头亮白蚁** (*Euhamitermes quadratceps*) es una especie del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Ping & Li en 1987; la localidad tipo es China: Guangdong Province: Dabu County. Distribución: China.
 
+## 词源
+
+属名 *Euhamitermes*：属名由希腊文 eu-（良好、真）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *quadratceps*：拉丁文/希腊文 quadrat（方）+ ceps（头），指方头
+
+EN — epithet *quadratceps*: From quadrat (方) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

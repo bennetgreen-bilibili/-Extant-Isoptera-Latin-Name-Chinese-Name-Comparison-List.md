@@ -29,6 +29,18 @@ EN — **鲁恩沃堆砂白蚁** (*Cryptotermes roonwali*) is a species of the g
 
 ES — **鲁恩沃堆砂白蚁** (*Cryptotermes roonwali*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Chhotani en 1970; la localidad tipo es India: Kerala: North Malabar: Beliapatam. Distribución: southern India, Kerala, Karnataka.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *roonwali*：以人名 Roonwal 命名（印度白蚁学家 M. L. Roonwal）
+
+EN — epithet *roonwali*: Named after the termite taxonomist M. L. Roonwal
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

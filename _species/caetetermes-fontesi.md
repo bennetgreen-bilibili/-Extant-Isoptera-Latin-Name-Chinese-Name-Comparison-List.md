@@ -32,6 +32,18 @@ EN — **丰特斯林白蚁** (*Caetetermes fontesi*) is a species of the genus 
 
 ES — **丰特斯林白蚁** (*Caetetermes fontesi*) es una especie del género *Caetetermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn en 2022; la localidad tipo es French Guiana: Petit Saut \[5.07N 53.032W\]. Distribución: South America, French Guiana.
 
+## 词源
+
+属名 *Caetetermes*：属名由图皮语地名 Caeté 与 -termes 组合（具体指向待考）。
+
+EN — *Caetetermes*: From the Tupi place name Caeté + -termes.
+
+种加词 *fontesi*：以人名 fontes 命名（具体指向待考）
+
+EN — epithet *fontesi*: Named after a person (fontes), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **具角象白蚁** (*Nasutitermes corniger*) is a species and the type s
 
 ES — **具角象白蚁** (*Nasutitermes corniger*) es una especie, y la especie tipo de su género del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Motschulsky en 1855; la localidad tipo es Panama: Obispo. Distribución: Brazil, Costa Rica, Mexico, Panama, Puerto Rico, Colombia, Antigua and Barbuda, Argentina, Barbados, Belize, Bolivia, Cayman Islands, Cuba, Dominica, Dominican Republic, Ecuador, French Guiana, Grenada, Guadeloupe (France), Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique (France), Montserrat, Netherlands Antilles, Nicaragua, Paraguay, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Martin (France), Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands, introduced: Bahamas, introduced: Palau, introduced: Papua New Guinea, introduced: United States. Este sitio registra 14 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *corniger*：拉丁文/希腊文 corni（角）+ ger（具），指角具
+
+EN — epithet *corniger*: From corni (角) + ger (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

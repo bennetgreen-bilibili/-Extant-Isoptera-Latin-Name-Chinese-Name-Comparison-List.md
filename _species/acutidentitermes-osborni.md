@@ -32,6 +32,18 @@ EN — **奥斯本尖齿白蚁** (*Acutidentitermes osborni*) is the only extant
 
 ES — **奥斯本尖齿白蚁** (*Acutidentitermes osborni*) es la única especie viviente del género *Acutidentitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Acutidentitermes*：属名由拉丁文 acutus（尖锐）+ dens（齿）与 termes（白蚁）组合。
+
+EN — *Acutidentitermes*: From Latin acutus (sharp) + dens (tooth) + termes.
+
+种加词 *osborni*：以人名 Osborn 命名（美国昆虫学家 H. Osborn）
+
+EN — epithet *osborni*: Named after the entomologist H. Osborn
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

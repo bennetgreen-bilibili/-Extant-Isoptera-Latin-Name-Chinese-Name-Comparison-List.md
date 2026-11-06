@@ -29,6 +29,18 @@ EN — **宽颈新白蚁** (*Neotermes laticollis*) is a species of the genus *N
 
 ES — **宽颈新白蚁** (*Neotermes laticollis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé. Distribución: Seychelles.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *laticollis*：拉丁文/希腊文 lati（宽）+ collis（颈），指宽颈
+
+EN — epithet *laticollis*: From lati (宽) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

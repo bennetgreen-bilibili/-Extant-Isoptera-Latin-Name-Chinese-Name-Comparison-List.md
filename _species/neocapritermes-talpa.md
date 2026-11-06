@@ -34,6 +34,18 @@ EN — **鼹鼠新扭白蚁** (*Neocapritermes talpa*) is a species of the genus
 
 ES — **鼹鼠新扭白蚁** (*Neocapritermes talpa*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[ 13.45S 70.4W \]. Distribución: Brazil, Bolivia, Colombia, French Guiana, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
+
+种加词 *talpa*：拉丁文 talpa（鼹鼠）
+
+EN — epithet *talpa*: Latin talpa (mole)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

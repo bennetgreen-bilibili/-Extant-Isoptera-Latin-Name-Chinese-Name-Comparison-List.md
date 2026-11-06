@@ -32,6 +32,18 @@ EN — **三角头三角白蚁** (*Triangularitermes triangulariceps*) is the on
 
 ES — **三角头三角白蚁** (*Triangularitermes triangulariceps*) es la única especie viviente del género *Triangularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil, Colombia, Ecuador, Peru.
 
+## 词源
+
+属名 *Triangularitermes*：属名由拉丁文 triangulus（三角的）与 termes（白蚁）组合。
+
+EN — *Triangularitermes*: From Latin triangulus (triangular) + termes.
+
+种加词 *triangulariceps*：拉丁文/希腊文 triangulari（三角）+ ceps（头），指三角头
+
+EN — epithet *triangulariceps*: From triangulari (三角) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **博文宽白蚁** (*Eurytermes boveni*) is a species of the genus *Eury
 
 ES — **博文宽白蚁** (*Eurytermes boveni*) es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1966; la localidad tipo es India: Madya Pradesh: Mandala District: Kanha National Park. Distribución: Oriental region, India.
 
+## 词源
+
+属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
+
+EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
+
+种加词 *boveni*：以人名 boven 命名（具体指向待考）
+
+EN — epithet *boveni*: Named after a person (boven), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

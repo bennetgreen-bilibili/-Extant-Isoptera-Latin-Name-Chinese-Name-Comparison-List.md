@@ -32,6 +32,18 @@ EN — **保洛斯锡兰白蚁** (*Ceylonitermes paulosus*) is a species of the 
 
 ES — **保洛斯锡兰白蚁** (*Ceylonitermes paulosus*) es una especie del género *Ceylonitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ipe & Mathew en 2019; la localidad tipo es India: Kerala: Kottayam, CMS College Campus. Distribución: Sri Lanka, India.
 
+## 词源
+
+属名 *Ceylonitermes*：属名由 Ceylon（锡兰，即斯里兰卡）与 termes（白蚁）组合。
+
+EN — *Ceylonitermes*: From Ceylon (Sri Lanka) + termes.
+
+种加词 *paulosus*：希腊文 paulos（微小）？+ 拉丁文 -osus
+
+EN — epithet *paulosus*: Greek paulos (little)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

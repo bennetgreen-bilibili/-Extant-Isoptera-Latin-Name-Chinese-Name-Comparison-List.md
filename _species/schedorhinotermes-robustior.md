@@ -29,6 +29,18 @@ EN — **强壮长鼻白蚁** (*Schedorhinotermes robustior*) is a species of th
 
 ES — **强壮长鼻白蚁** (*Schedorhinotermes robustior*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Silvestri en 1909; la localidad tipo es Papua New Guinea: New Britain: Ralum Louson. Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *robustior*：拉丁文 robustior（更粗壮的）
+
+EN — epithet *robustior*: Latin robustior (more robust)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

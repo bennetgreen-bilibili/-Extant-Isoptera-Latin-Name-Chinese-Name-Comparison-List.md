@@ -31,6 +31,18 @@ EN — **亚当森洞白蚁** (*Porotermes adamsoni*) is a species of the genus 
 
 ES — **亚当森洞白蚁** (*Porotermes adamsoni*) es una especie del género *Porotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Uralla. Distribución: Australia; introduced: New Zealand. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Porotermes*：属名由希腊文 poros（孔、通道）与拉丁文 termes（白蚁）组合。
+
+EN — *Porotermes*: From Greek poros (pore, passage) + Latin termes.
+
+种加词 *adamsoni*：以人名 adamson 命名（具体指向待考）
+
+EN — epithet *adamsoni*: Named after a person (adamson), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

@@ -32,6 +32,18 @@ EN — **微型新扭白蚁** (*Neocapritermes parvus*) is a species of the genu
 
 ES — **微型新扭白蚁** (*Neocapritermes parvus*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución: Brazil, Paraguay.
 
+## 词源
+
+属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
+
+种加词 *parvus*：拉丁文 parvus（小）
+
+EN — epithet *parvus*: Latin parvus (small)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

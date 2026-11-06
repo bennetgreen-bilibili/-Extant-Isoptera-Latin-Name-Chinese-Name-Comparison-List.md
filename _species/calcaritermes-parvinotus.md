@@ -29,6 +29,18 @@ EN — **小背距白蚁** (*Calcaritermes parvinotus*) is a species of the genu
 
 ES — **小背距白蚁** (*Calcaritermes parvinotus*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Colima. Distribución: Mexico.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *parvinotus*：拉丁文/希腊文 parvi（小）+ notus（背），指小背
+
+EN — epithet *parvinotus*: From parvi (小) + notus (背)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

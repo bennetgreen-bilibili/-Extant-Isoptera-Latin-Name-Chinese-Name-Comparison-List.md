@@ -34,6 +34,18 @@ EN — **常见土白蚁** (*Odontotermes vulgaris*) is a species and the type s
 
 ES — **常见土白蚁** (*Odontotermes vulgaris*) es una especie, y la especie tipo de su género del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal. Distribución: Old World tropics, West Africa, East Africa, southern Africa, Angola, Namibia, South Africa, Eswatini, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *vulgaris*：拉丁文 vulgaris（常见的）
+
+EN — epithet *vulgaris*: Latin vulgaris (common)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **阿劳若腹爆白蚁** (*Ruptitermes araujoi*) is a species of the gen
 
 ES — **阿劳若腹爆白蚁** (*Ruptitermes araujoi*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Acioli & Constantino en 2015; la localidad tipo es Brasil: São Paulo: Pitangueiras \[ 21.02S 48.22W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Ruptitermes*：属名由拉丁文 ruptus（破裂的）与 termes（白蚁）组合。
+
+EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
+
+种加词 *araujoi*：以人名 araujo 命名（巴西白蚁学家 R. L. Araujo）
+
+EN — epithet *araujoi*: Named after 巴西白蚁学家 R. L. Araujo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

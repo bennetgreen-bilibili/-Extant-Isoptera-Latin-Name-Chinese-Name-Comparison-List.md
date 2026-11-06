@@ -29,6 +29,18 @@ EN — **摩洛哥小草白蚁** (*Microhodotermes maroccanus*) is a species of 
 
 ES — **摩洛哥小草白蚁** (*Microhodotermes maroccanus*) es una especie del género *Microhodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Morocco: Dar Kaïd; Dar Kaïd Enbarck Imi; M’tougui; N’takandout. Distribución: Morocco, Algeria.
 
+## 词源
+
+属名 *Microhodotermes*：属名由希腊文 mikros（小）+ hodos（道路）与拉丁文 termes（白蚁）组合。
+
+EN — *Microhodotermes*: From Greek mikros (small) + hodos (path) + Latin termes.
+
+种加词 *maroccanus*：以地名 摩洛哥 命名
+
+EN — epithet *maroccanus*: Named after the locality Marocc
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

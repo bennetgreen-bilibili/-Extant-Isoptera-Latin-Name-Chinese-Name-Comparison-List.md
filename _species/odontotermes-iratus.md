@@ -32,6 +32,18 @@ EN — **愤怒土白蚁** (*Odontotermes iratus*) is a species of the genus *Od
 
 ES — **愤怒土白蚁** (*Odontotermes iratus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Gabon: Lam Barénè. Distribución: Gabon.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *iratus*：拉丁文 iratus（愤怒的）
+
+EN — epithet *iratus*: Latin iratus (angry)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

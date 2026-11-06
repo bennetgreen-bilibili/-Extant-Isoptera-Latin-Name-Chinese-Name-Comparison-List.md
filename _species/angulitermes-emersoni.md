@@ -32,6 +32,18 @@ EN — **埃默森角白蚁** (*Angulitermes emersoni*) is a species of the genu
 
 ES — **埃默森角白蚁** (*Angulitermes emersoni*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Dariadighi. Distribución: Bangladesh.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
+
+EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

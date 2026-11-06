@@ -29,6 +29,18 @@ EN — **西克树白蚁** (*Glyptotermes sicki*) is a species of the genus *Gly
 
 ES — **西克树白蚁** (*Glyptotermes sicki*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna & Emerson en 1962; la localidad tipo es Brasil: Rio de Janeiro: Ilha Grande \[ 23.133S 44.171W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *sicki*：以人名 sick 命名（具体指向待考）
+
+EN — epithet *sicki*: Named after a person (sick), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

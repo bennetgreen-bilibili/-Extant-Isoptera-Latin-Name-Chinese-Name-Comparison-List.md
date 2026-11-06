@@ -32,6 +32,18 @@ EN — **似黄腹须白蚁** (*Hospitalitermes proflaviventris*) is a species o
 
 ES — **似黄腹须白蚁** (*Hospitalitermes proflaviventris*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Akbar en 1986; la localidad tipo es Malaysia: Penang: Pantai Acheh Forest Reserve. Distribución: Malaysia.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *proflaviventris*：拉丁文 pro-（前）+ flavus（黄）+ venter（腹），前黄腹
+
+EN — epithet *proflaviventris*: Latin pro- (front) + flavus (yellow) + venter (belly), front-yellow-bellied
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

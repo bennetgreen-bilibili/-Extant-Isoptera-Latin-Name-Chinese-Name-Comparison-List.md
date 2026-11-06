@@ -32,6 +32,18 @@ EN — **僧侣铲白蚁** (*Batillitermes monachus*) is a species and the type 
 
 ES — **僧侣铲白蚁** (*Batillitermes monachus*) es una especie, y la especie tipo de su género del género *Batillitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Uys en 1994; la localidad tipo es Zimbabwe: Insiza, 48 km ex Bulawayo-Gwelo. Distribución: southern Africa, South Africa, Zimbabwe.
 
+## 词源
+
+属名 *Batillitermes*：属名由拉丁文 batillum（铲、勺）与 termes（白蚁）组合。
+
+EN — *Batillitermes*: From Latin batillum (shovel) + termes.
+
+种加词 *monachus*：拉丁文 monachus（僧侣）
+
+EN — epithet *monachus*: Latin monachus (monk)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

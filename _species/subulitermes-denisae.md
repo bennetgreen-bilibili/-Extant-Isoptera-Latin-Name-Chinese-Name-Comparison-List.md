@@ -32,6 +32,18 @@ EN — **丹尼斯锥白蚁** (*Subulitermes denisae*) is a species of the genus
 
 ES — **丹尼斯锥白蚁** (*Subulitermes denisae*) es una especie del género *Subulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roisin en 1995; la localidad tipo es Panama: Parque National Soberanía, near Limbo Camp, Pipeline Road. Distribución: Panama, Costa Rica, Nicaragua.
 
+## 词源
+
+属名 *Subulitermes*：属名由拉丁文 subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Subulitermes*: From Latin subula (awl) + termes.
+
+种加词 *denisae*：以人名 denis 命名（具体指向待考）
+
+EN — epithet *denisae*: Named after a person (denis), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

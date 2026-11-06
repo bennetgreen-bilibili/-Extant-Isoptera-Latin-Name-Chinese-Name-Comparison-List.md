@@ -34,6 +34,18 @@ EN — **西部三脉白蚁** (*Trinervitermes occidentalis*) is a species of th
 
 ES — **西部三脉白蚁** (*Trinervitermes occidentalis*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Guinea Bissau: Bissau. Distribución: Côte d'Ivoire, Senegal, Togo, Burkina Faso, Nigeria, Central Africa, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea-Bissau, Sierra Leone, Uganda. Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
+
+EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
+
+种加词 *occidentalis*：拉丁文 occidentalis（西方的）
+
+EN — epithet *occidentalis*: Latin occidentalis (western)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

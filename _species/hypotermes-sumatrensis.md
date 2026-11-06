@@ -32,6 +32,18 @@ EN — **暗齿地白蚁** (*Hypotermes sumatrensis*) is a species of the genus 
 
 ES — **暗齿地白蚁** (*Hypotermes sumatrensis*) es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Lau Boentoe. Distribución: Indonesia, China.
 
+## 词源
+
+属名 *Hypotermes*：属名由希腊文 hypo-（下、稍）与拉丁文 termes（白蚁）组合。
+
+EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
+
+种加词 *sumatrensis*：以地名 苏门答腊 命名
+
+EN — epithet *sumatrensis*: Named after the locality Sumatr
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

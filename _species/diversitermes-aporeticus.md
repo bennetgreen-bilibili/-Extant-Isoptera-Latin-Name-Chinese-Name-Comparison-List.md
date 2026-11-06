@@ -32,6 +32,18 @@ EN — **怀疑歧白蚁** (*Diversitermes aporeticus*) is a species of the genu
 
 ES — **怀疑歧白蚁** (*Diversitermes aporeticus*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Diversitermes*：属名由拉丁文 diversus（多样的）与 termes（白蚁）组合。
+
+EN — *Diversitermes*: From Latin diversus (diverse) + termes.
+
+种加词 *aporeticus*：希腊文 aporetikos（存疑的、困惑的）
+
+EN — epithet *aporeticus*: Greek aporetikos (doubtful, perplexed)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

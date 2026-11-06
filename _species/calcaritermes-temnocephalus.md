@@ -31,6 +31,18 @@ EN — **切头距白蚁** (*Calcaritermes temnocephalus*) is a species of the g
 
 ES — **切头距白蚁** (*Calcaritermes temnocephalus*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución: South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *temnocephalus*：希腊文 temnō（切）+ kephalē（头），切头
+
+EN — epithet *temnocephalus*: Greek temnō (cut) + kephalē (head), cut-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

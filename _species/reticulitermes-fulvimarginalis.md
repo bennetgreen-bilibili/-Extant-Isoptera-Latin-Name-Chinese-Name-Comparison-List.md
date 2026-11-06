@@ -29,6 +29,18 @@ EN — **褐缘散白蚁** (*Reticulitermes fulvimarginalis*) is a species of th
 
 ES — **褐缘散白蚁** (*Reticulitermes fulvimarginalis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wang & Li en 1984; la localidad tipo es China: Henan Province: Shangcheng County: Chang Zhu garden. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *fulvimarginalis*：拉丁文/希腊文 fulvimargin（黄褐）+ alis（相关），指黄褐相关
+
+EN — epithet *fulvimarginalis*: From fulvimargin (黄褐) + alis (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

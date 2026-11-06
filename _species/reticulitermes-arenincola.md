@@ -29,6 +29,18 @@ EN — **沙栖散白蚁** (*Reticulitermes arenincola*) is a species of the gen
 
 ES — **沙栖散白蚁** (*Reticulitermes arenincola*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Goellner en 1931; la localidad tipo es United States: Indiana: Pine, W of Gary. Distribución: United States.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *arenincola*：拉丁文/希腊文 arenin（沙）+ cola（栖），指沙栖
+
+EN — epithet *arenincola*: From arenin (沙) + cola (栖)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

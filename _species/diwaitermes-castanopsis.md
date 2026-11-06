@@ -32,6 +32,18 @@ EN — **锥栗木象白蚁** (*Diwaitermes castanopsis*) is a species of the ge
 
 ES — **锥栗木象白蚁** (*Diwaitermes castanopsis*) es una especie del género *Diwaitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roisin & Pasteels en 1996; la localidad tipo es Papua New Guinea: Manki Ridge: Bulolo. Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Diwaitermes*：属名以土名或地名 Diwai 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Diwaitermes*: From the place name Diwai; -termes from Latin termes.
+
+种加词 *castanopsis*：拉丁文 castanea（栗）+ 希腊文 -opsis（外观），似栗
+
+EN — epithet *castanopsis*: Latin castanea (chestnut) + Greek -opsis (appearance), chestnut-like
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

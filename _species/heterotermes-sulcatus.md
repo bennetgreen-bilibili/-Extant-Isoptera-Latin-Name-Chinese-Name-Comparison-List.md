@@ -29,6 +29,18 @@ EN — **具沟异白蚁** (*Heterotermes sulcatus*) is a species of the genus *
 
 ES — **具沟异白蚁** (*Heterotermes sulcatus*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución: South America, Brazil, Venezuela, Suriname.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *sulcatus*：拉丁文 sulcatus（具沟的）
+
+EN — epithet *sulcatus*: Latin sulcatus (grooved)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -29,6 +29,18 @@ EN — **奄美散白蚁** (*Reticulitermes amamianus*) is a species of the genu
 
 ES — **奄美散白蚁** (*Reticulitermes amamianus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Morimoto en 1968; la localidad tipo es Japan: Amami-Oshima, Yuwandake, Yoron Island. Distribución: Japan.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *amamianus*：以人名 amam 命名（具体指向待考）
+
+EN — epithet *amamianus*: Named after a person (amam), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -32,6 +32,18 @@ EN — **马里乌赞暗鼻白蚁** (*Tiunatermes mariuzani*) is a species and t
 
 ES — **马里乌赞暗鼻白蚁** (*Tiunatermes mariuzani*) es una especie, y la especie tipo de su género del género *Tiunatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Carrijo, Cuezzo & Santos en 2015; la localidad tipo es Brasil: Tocantins: Jalapão, Ponte Alta do Tocantins \[11.0269S 47.1417W\]. Distribución: South America, Brazil.
 
+## 词源
+
+属名 *Tiunatermes*：属名以土名或地名 Tiuna 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Tiunatermes*: From the place name Tiuna; -termes from Latin termes.
+
+种加词 *mariuzani*：以人名 mariuzan 命名（具体指向待考）
+
+EN — epithet *mariuzani*: Named after a person (mariuzan), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

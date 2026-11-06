@@ -29,6 +29,18 @@ EN — **食刺边白蚁** (*Marginitermes cactiphagus*) is a species of the gen
 
 ES — **食刺边白蚁** (*Marginitermes cactiphagus*) es una especie del género *Marginitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Myles en 1997; la localidad tipo es Mexico: Baja California Sur, five km east of Cabo San Lukas. Distribución: Mexico, Honduras, Guatemala, Nicaragua.
 
+## 词源
+
+属名 *Marginitermes*：属名由拉丁文 margo（边缘）与 termes（白蚁）组合。
+
+EN — *Marginitermes*: From Latin margo (margin) + termes.
+
+种加词 *cactiphagus*：拉丁文 cactus（仙人掌）+ 希腊文 phagos（食），食仙人掌
+
+EN — epithet *cactiphagus*: Latin cactus (cactus) + Greek phagos (eating), cactus-eating
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

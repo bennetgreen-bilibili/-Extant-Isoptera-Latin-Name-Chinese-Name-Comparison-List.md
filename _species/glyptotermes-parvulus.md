@@ -29,6 +29,18 @@ EN — **细小树白蚁** (*Glyptotermes parvulus*) is a species of the genus *
 
 ES — **细小树白蚁** (*Glyptotermes parvulus*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Democratic Republic of the Congo, Ghana, Ivory Coast, Uganda.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *parvulus*：拉丁文 parvulus（很小，指小词）
+
+EN — epithet *parvulus*: Latin parvulus (very small, diminutive)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

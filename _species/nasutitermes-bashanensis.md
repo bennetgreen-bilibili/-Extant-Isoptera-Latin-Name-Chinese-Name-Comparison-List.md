@@ -32,6 +32,18 @@ EN — **巴山象白蚁** (*Nasutitermes bashanensis*) is a species of the genu
 
 ES — **巴山象白蚁** (*Nasutitermes bashanensis*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Zhang en 1992; la localidad tipo es China: Shaanxi Province, Zhenping County. Distribución: China.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *bashanensis*：以地名 bashan 命名（具体地名待考）
+
+EN — epithet *bashanensis*: Named after a locality (bashan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

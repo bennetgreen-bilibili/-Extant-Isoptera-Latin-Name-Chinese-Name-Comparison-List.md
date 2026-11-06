@@ -32,6 +32,18 @@ EN — **奥卡汉贾土白蚁** (*Odontotermes okahandjae*) is a species of the
 
 ES — **奥卡汉贾土白蚁** (*Odontotermes okahandjae*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es Namibia: Okahandja. Distribución: southern Africa, Namibia.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *okahandjae*：以人名 okahandj 命名（具体指向待考）
+
+EN — epithet *okahandjae*: Named after a person (okahandj), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

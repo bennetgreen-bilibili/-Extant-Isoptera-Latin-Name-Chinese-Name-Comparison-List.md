@@ -32,6 +32,18 @@ EN — **圭亚那新扭白蚁** (*Neocapritermes guyana*) is a species of the g
 
 ES — **圭亚那新扭白蚁** (*Neocapritermes guyana*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Krishna & Araujo en 1968; la localidad tipo es Guyana: Cuyuni-Mazaruni: Makouria Creek \[ 6.4666N 58.5833W \]. Distribución: French Guiana, Brazil, Guyana.
 
+## 词源
+
+属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
+
+种加词 *guyana*：地名：圭亚那
+
+EN — epithet *guyana*: After Guyana
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

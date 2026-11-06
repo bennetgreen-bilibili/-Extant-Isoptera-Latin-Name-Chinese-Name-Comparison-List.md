@@ -29,6 +29,18 @@ EN — **克里希纳前砂白蚁** (*Procryptotermes krishnai*) is a species of
 
 ES — **克里希纳前砂白蚁** (*Procryptotermes krishnai*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1961; la localidad tipo es New Caledonia (French): Noumea. Distribución: New Caledonia, French New Caledonia.
 
+## 词源
+
+属名 *Procryptotermes*：属名由希腊文 pro-（前、早）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
+
+种加词 *krishnai*：以人名 Krishna 命名（白蚁学家 K. Krishna）
+
+EN — epithet *krishnai*: Named after the termite taxonomist K. Krishna
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

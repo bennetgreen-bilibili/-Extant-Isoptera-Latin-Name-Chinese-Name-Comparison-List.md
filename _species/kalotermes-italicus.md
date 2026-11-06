@@ -29,6 +29,18 @@ EN — **意大利木白蚁** (*Kalotermes italicus*) is a species of the genus 
 
 ES — **意大利木白蚁** (*Kalotermes italicus*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ghesini & Marini en 2013; la localidad tipo es Italy: Tuscany: Grosseto Marina. Distribución: central Italy, Tuscany, United States.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *italicus*：以地名 意大利 命名
+
+EN — epithet *italicus*: Named after the locality Ital
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -32,6 +32,18 @@ EN — **温顺无甲白蚁** (*Anenteotermes cicur*) is a species of the genus 
 
 ES — **温顺无甲白蚁** (*Anenteotermes cicur*) es una especie del género *Anenteotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Yase, 12 km from Yangambi. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Anenteotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *cicur*：拉丁文 cicur（温顺的、驯服的）
+
+EN — epithet *cicur*: Latin cicur (tame)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **拟尖唇散白蚁** (*Reticulitermes pseudaculabialis*) is a species o
 
 ES — **拟尖唇散白蚁** (*Reticulitermes pseudaculabialis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Gao, Pan, Ma & Shi en 1982; la localidad tipo es China: Sichuan Province: Nanchong. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *pseudaculabialis*：拉丁文/希腊文 pseudacu（假）+ labialis（唇），指假唇
+
+EN — epithet *pseudaculabialis*: From pseudacu (假) + labialis (唇)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

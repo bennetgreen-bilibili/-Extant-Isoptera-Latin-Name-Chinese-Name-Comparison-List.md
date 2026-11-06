@@ -32,6 +32,18 @@ EN — **柔佛瓢白蚁** (*Bulbitermes johorensis*) is a species of the genus 
 
 ES — **柔佛瓢白蚁** (*Bulbitermes johorensis*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Pervez en 1986; la localidad tipo es Malaysia: Johore: 20 km N of Mersing: Guong Arong Forest Reserve. Distribución: Malaysia.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *johorensis*：以地名 柔佛（马来西亚） 命名
+
+EN — epithet *johorensis*: Named after the locality Johor
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **柯比皱白蚁** (*Rugitermes kirbyi*) is a species of the genus *Rugi
 
 ES — **柯比皱白蚁** (*Rugitermes kirbyi*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Costa Rica: Cartago. Distribución: Costa Rica, Panama.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *kirbyi*：以人名 Kirby 命名（英国昆虫学家 W. F. Kirby）
+
+EN — epithet *kirbyi*: Named after the entomologist W. F. Kirby
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

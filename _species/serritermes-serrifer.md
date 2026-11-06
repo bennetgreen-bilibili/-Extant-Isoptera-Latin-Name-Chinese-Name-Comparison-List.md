@@ -29,6 +29,18 @@ EN — **锯齿白蚁** (*Serritermes serrifer*) is the only extant species of t
 
 ES — **锯齿白蚁** (*Serritermes serrifer*) es la única especie viviente del género *Serritermes*, en la familia SERRITERMITIDAE. La especie fue descrita por Hagen & Bates en 1858; la localidad tipo es Brasil: Pará: Santarém \[ 2.43917S 54.705W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Serritermes*：属名由拉丁文 serra（锯）与 termes（白蚁）组合。
+
+EN — *Serritermes*: From Latin serra (saw) + termes.
+
+种加词 *serrifer*：拉丁文/希腊文 serri（锯齿）+ fer（具），指锯齿具
+
+EN — epithet *serrifer*: From serri (锯齿) + fer (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[齿白蚁科 SERRITERMITIDAE]({{ site.base_url }}/family/serritermitidae/) —— 本站收录 2 属 3 种（2 genera, 3 species · 2 géneros, 3 especies）

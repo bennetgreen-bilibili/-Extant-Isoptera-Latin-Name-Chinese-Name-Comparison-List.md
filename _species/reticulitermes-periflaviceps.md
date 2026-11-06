@@ -29,6 +29,18 @@ EN — **近黄胸散白蚁** (*Reticulitermes periflaviceps*) is a species of t
 
 ES — **近黄胸散白蚁** (*Reticulitermes periflaviceps*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Xu en 1993; la localidad tipo es China: Guangdong Province: Shixing County: core area of Chebaling. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *periflaviceps*：希腊文 peri-（周围）+ 拉丁文 flavus（黄）+ -ceps（头），周黄头
+
+EN — epithet *periflaviceps*: Greek peri- (around) + Latin flavus (yellow) + -ceps (head)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

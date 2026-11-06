@@ -29,6 +29,18 @@ EN — **曼鼻白蚁** (*Rhinotermes manni*) is a species of the genus *Rhinote
 
 ES — **曼鼻白蚁** (*Rhinotermes manni*) es una especie del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]. Distribución: Bolivia.
 
+## 词源
+
+属名 *Rhinotermes*：属名由希腊文 rhis（鼻）与拉丁文 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
+
+种加词 *manni*：以人名 Mann 命名（美国昆虫学家 W. M. Mann）
+
+EN — epithet *manni*: Named after the entomologist W. M. Mann
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

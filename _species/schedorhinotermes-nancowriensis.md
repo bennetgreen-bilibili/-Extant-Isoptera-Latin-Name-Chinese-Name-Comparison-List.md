@@ -29,6 +29,18 @@ EN — **楠考里长鼻白蚁** (*Schedorhinotermes nancowriensis*) is a specie
 
 ES — **楠考里长鼻白蚁** (*Schedorhinotermes nancowriensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Maiti & Chakraborty en 1994; la localidad tipo es India: Nicobar Islands: Nancowry. Distribución: India, Nicobar Islands.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *nancowriensis*：以地名 南科里（印度） 命名
+
+EN — epithet *nancowriensis*: Named after the locality Nancowr
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

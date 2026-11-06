@@ -34,6 +34,18 @@ EN — **梅多大白蚁** (*Macrotermes meidoensis*) is a species of the genus 
 
 ES — **梅多大白蚁** (*Macrotermes meidoensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Huang & Han en 1988; la localidad tipo es China: Tibet: Medog. Distribución: Tibet, China, Medog. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *meidoensis*：以地名 meido 命名（具体地名待考）
+
+EN — epithet *meidoensis*: Named after a locality (meido)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

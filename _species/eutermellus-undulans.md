@@ -32,6 +32,18 @@ EN — **波纹小真白蚁** (*Eutermellus undulans*) is a species of the genus
 
 ES — **波纹小真白蚁** (*Eutermellus undulans*) es una especie del género *Eutermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1965; la localidad tipo es Ghana: 25 mi north of Wenchi on Bamboi Road. Distribución: West Africa, Gambia.
 
+## 词源
+
+属名 *Eutermellus*：属名由希腊文 eu-（良好、真）与 termes（白蚁）+ 拉丁文指小后缀 -ellus 组合。
+
+EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
+
+种加词 *undulans*：拉丁文 undulans（波状的）
+
+EN — epithet *undulans*: Latin undulans (wavy)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

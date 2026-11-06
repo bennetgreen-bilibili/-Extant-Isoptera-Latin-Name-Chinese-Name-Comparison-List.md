@@ -32,6 +32,18 @@ EN — **桑给巴尔聚刺白蚁** (*Synacanthotermes zanzibarensis*) is a spec
 
 ES — **桑给巴尔聚刺白蚁** (*Synacanthotermes zanzibarensis*) es una especie del género *Synacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1915; la localidad tipo es Tanzania: Zanzibar Island: Haïtajawa Hill. Distribución: East Africa, Tanzania, Ethiopia, Kenya.
 
+## 词源
+
+属名 *Synacanthotermes*：属名由希腊文 syn-（合、共）+ akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Synacanthotermes*: From Greek syn- (together) + akantha (thorn) + Latin termes.
+
+种加词 *zanzibarensis*：以地名 桑给巴尔 命名
+
+EN — epithet *zanzibarensis*: Named after the locality Zanzibar
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

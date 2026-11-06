@@ -32,6 +32,18 @@ EN — **三针针刺白蚁** (*Spinitermes trispinosus*) is a species and the t
 
 ES — **三针针刺白蚁** (*Spinitermes trispinosus*) es una especie, y la especie tipo de su género del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Pará: Santarém \[2.43917S 54.705W\]. Distribución: Brazil, Colombia, French Guiana, Paraguay, Peru, Venezuela.
 
+## 词源
+
+属名 *Spinitermes*：属名由拉丁文 spina（刺）与 termes（白蚁）组合。
+
+EN — *Spinitermes*: From Latin spina (spine) + termes.
+
+种加词 *trispinosus*：拉丁文 tri-（三）+ spinosus（多刺），三刺
+
+EN — epithet *trispinosus*: Latin tri- (three) + spinosus (spiny), three-spined
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

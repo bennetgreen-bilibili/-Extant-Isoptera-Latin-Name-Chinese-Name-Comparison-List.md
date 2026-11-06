@@ -29,6 +29,18 @@ EN — **大眼新白蚁** (*Neotermes magnoculus*) is a species of the genus *N
 
 ES — **大眼新白蚁** (*Neotermes magnoculus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: La Paz: Huachi \[ 15.6667S 67.25W \]. Distribución: Bolivia, Brazil.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *magnoculus*：拉丁文/希腊文 magn（大）+ oculus（眼），指大眼
+
+EN — epithet *magnoculus*: From magn (大) + oculus (眼)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

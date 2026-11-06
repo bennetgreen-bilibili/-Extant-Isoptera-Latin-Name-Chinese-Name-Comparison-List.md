@@ -32,6 +32,18 @@ EN — **多毛亮白蚁** (*Euhamitermes hamatus*) is a species and the type sp
 
 ES — **多毛亮白蚁** (*Euhamitermes hamatus*) es una especie, y la especie tipo de su género del género *Euhamitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Singapore: ?. Distribución: Southeast Asia, Thailand and southern China.
 
+## 词源
+
+属名 *Euhamitermes*：属名由希腊文 eu-（良好、真）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *hamatus*：拉丁文 hamatus（具钩的）
+
+EN — epithet *hamatus*: Latin hamatus (hooked)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

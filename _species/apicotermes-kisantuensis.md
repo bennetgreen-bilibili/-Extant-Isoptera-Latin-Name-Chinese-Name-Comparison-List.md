@@ -32,6 +32,18 @@ EN — **基桑图尖白蚁** (*Apicotermes kisantuensis*) is a species of the g
 
 ES — **基桑图尖白蚁** (*Apicotermes kisantuensis*) es una especie del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Inkisi-Kisantu. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Apicotermes*：属名由拉丁文 apex（尖、顶）与 termes（白蚁）组合。
+
+EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
+
+种加词 *kisantuensis*：以地名 基桑图（刚果） 命名
+
+EN — epithet *kisantuensis*: Named after the locality Kisantu
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

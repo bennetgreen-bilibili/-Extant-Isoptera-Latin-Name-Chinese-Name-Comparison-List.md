@@ -32,6 +32,18 @@ EN — **栗色土白蚁** (*Odontotermes badius*) is a species of the genus *Od
 
 ES — **栗色土白蚁** (*Odontotermes badius*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Durban. Distribución: Old World tropics (West Africa), East Africa, southern Africa.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *badius*：拉丁文 badius（栗褐色的）
+
+EN — epithet *badius*: Latin badius (bay, chestnut-brown)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **纤维箭猪白蚁** (*Coendutermes tucum*) is the only extant species 
 
 ES — **纤维箭猪白蚁** (*Coendutermes tucum*) es la única especie viviente del género *Coendutermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1985; la localidad tipo es Brasil: Mato Grosso: Juína, Estação Ecológica de Iquê \[12.1S 59.3W\]. Distribución: Brazil, Colombia, Suriname.
 
+## 词源
+
+属名 *Coendutermes*：属名由图皮语 Coendou（卷尾豪猪属）与 termes（白蚁）组合。
+
+EN — *Coendutermes*: From Tupi Coendou (prehensile-tailed porcupine) + termes.
+
+种加词 *tucum*：图库姆棕榈（图皮语）
+
+EN — epithet *tucum*: From tucum, a palm (Tupi)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **墨脱象白蚁** (*Nasutitermes medoensis*) is a species of the genus 
 
 ES — **墨脱象白蚁** (*Nasutitermes medoensis*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Tsai & Huang en 1979; la localidad tipo es China: Tibet: Medog Xian: Bei-Beng. Distribución: China.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *medoensis*：以地名 墨脱（西藏） 命名
+
+EN — epithet *medoensis*: Named after the locality Medo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

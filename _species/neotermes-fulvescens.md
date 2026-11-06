@@ -29,6 +29,18 @@ EN — **金黄新白蚁** (*Neotermes fulvescens*) is a species of the genus *N
 
 ES — **金黄新白蚁** (*Neotermes fulvescens*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución: Brazil, Argentina, Bolivia, Paraguay.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *fulvescens*：拉丁文/希腊文 fulv（黄褐）+ escens（略呈），指黄褐略呈
+
+EN — epithet *fulvescens*: From fulv (黄褐) + escens (略呈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **牛头牛白蚁** (*Tauritermes taurocephalus*) is a species and the ty
 
 ES — **牛头牛白蚁** (*Tauritermes taurocephalus*) es una especie, y la especie tipo de su género del género *Tauritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Corumbá \[ 19.017S 57.65W \]. Distribución: Brazil, Argentina, Bolivia.
 
+## 词源
+
+属名 *Tauritermes*：属名由拉丁文 taurus（公牛）与 termes（白蚁）组合。
+
+EN — *Tauritermes*: From Latin taurus (bull) + termes.
+
+种加词 *taurocephalus*：希腊文 tauros（牛）+ kephalē（头），牛头
+
+EN — epithet *taurocephalus*: Greek tauros (bull) + kephalē (head), bull-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

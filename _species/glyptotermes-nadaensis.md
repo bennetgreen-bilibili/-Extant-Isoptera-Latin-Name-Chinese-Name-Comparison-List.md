@@ -29,6 +29,18 @@ EN — **那大树白蚁** (*Glyptotermes nadaensis*) is a species of the genus 
 
 ES — **那大树白蚁** (*Glyptotermes nadaensis*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Li en 1987; la localidad tipo es China: Guangdong Province: Nada. Distribución: China (Guangdong).
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *nadaensis*：以地名 nada 命名（具体地名待考）
+
+EN — epithet *nadaensis*: Named after a locality (nada)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

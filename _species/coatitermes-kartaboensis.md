@@ -32,6 +32,18 @@ EN — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) is a species of
 
 ES — **卡尔塔波凸鼻白蚁** (*Coatitermes kartaboensis*) es una especie del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, French Guiana, Guyana, Peru.
 
+## 词源
+
+属名 *Coatitermes*：属名由图皮语 Coati（南美长鼻浣熊）与 termes（白蚁）组合。
+
+EN — *Coatitermes*: From Tupi Coati (coati) + termes.
+
+种加词 *kartaboensis*：以地名 kartabo 命名（具体地名待考）
+
+EN — epithet *kartaboensis*: Named after a locality (kartabo)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

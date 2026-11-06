@@ -29,6 +29,18 @@ EN — **掠夺角木白蚁** (*Ceratokalotermes spoliator*) is the only extant 
 
 ES — **掠夺角木白蚁** (*Ceratokalotermes spoliator*) es la única especie viviente del género *Ceratokalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hill en 1932; la localidad tipo es Australia: Capital Territory: Uriarra. Distribución: Australia.
 
+## 词源
+
+属名 *Ceratokalotermes*：属名由希腊文 keras（角）+ kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Ceratokalotermes*: From Greek keras (horn) + kalos (beautiful) + Latin termes.
+
+种加词 *spoliator*：拉丁文 spoliator（掠夺者）
+
+EN — epithet *spoliator*: Latin spoliator (plunderer)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

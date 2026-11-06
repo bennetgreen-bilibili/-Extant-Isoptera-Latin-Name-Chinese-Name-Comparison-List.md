@@ -32,6 +32,18 @@ EN — **马利克土白蚁** (*Odontotermes maliki*) is a species of the genus 
 
 ES — **马利克土白蚁** (*Odontotermes maliki*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Adampur. Distribución: Bangladesh.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *maliki*：以人名 malik 命名（具体指向待考）
+
+EN — epithet *maliki*: Named after a person (malik), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

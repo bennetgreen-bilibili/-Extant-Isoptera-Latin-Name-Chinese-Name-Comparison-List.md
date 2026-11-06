@@ -29,6 +29,18 @@ EN — **暗黑楹白蚁** (*Incisitermes furvus*) is a species of the genus *In
 
 ES — **暗黑楹白蚁** (*Incisitermes furvus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 1994; la localidad tipo es Puerto Rico: Guajataca. Distribución: Puerto Rico.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *furvus*：拉丁文 furvus（暗黑的）
+
+EN — epithet *furvus*: Latin furvus (dark, black)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **劳拉利纳异白蚁** (*Heterotermes lauralinearum*) is a species of 
 
 ES — **劳拉利纳异白蚁** (*Heterotermes lauralinearum*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Carrijo en 2020; la localidad tipo es Paraguay: Presidente Hayes: NW Rio Verde \[ 22.8358S 59.5608W \]. Distribución: Argentina, Bolivia, Paraguay.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *lauralinearum*：以人名 lauraline 命名（具体指向待考）
+
+EN — epithet *lauralinearum*: Named after a person (lauraline), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

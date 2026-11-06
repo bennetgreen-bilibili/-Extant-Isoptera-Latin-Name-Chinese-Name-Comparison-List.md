@@ -32,6 +32,18 @@ EN — **勐腊球白蚁** (*Globitermes menglaensis*) is a species of the genus
 
 ES — **勐腊球白蚁** (*Globitermes menglaensis*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Huang & Zhu en 1990; la localidad tipo es China: Yunnan Province: suburban district of Mengla County. Distribución: Yunnan (Mengla 660 m), China.
 
+## 词源
+
+属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
+
+EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
+
+种加词 *menglaensis*：以地名 勐腊（云南） 命名
+
+EN — epithet *menglaensis*: Named after the locality Mengla
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

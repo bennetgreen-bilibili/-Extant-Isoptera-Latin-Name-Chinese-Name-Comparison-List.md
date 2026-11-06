@@ -29,6 +29,18 @@ EN — **深黄散白蚁** (*Reticulitermes croceus*) is a species of the genus 
 
 ES — **深黄散白蚁** (*Reticulitermes croceus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Xu en 1982; la localidad tipo es China: Hunan Province: Huitong. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *croceus*：拉丁文 croceus（藏红花黄的）
+
+EN — epithet *croceus*: Latin croceus (saffron-yellow)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

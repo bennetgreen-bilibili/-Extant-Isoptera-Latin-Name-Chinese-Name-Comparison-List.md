@@ -32,6 +32,18 @@ EN — **光秃无颚白蚁** (*Agnathotermes glaber*) is a species and the type
 
 ES — **光秃无颚白蚁** (*Agnathotermes glaber*) es una especie, y la especie tipo de su género del género *Agnathotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Cachuela Esperanza \[10.5333S 65.6333W\]. Distribución: Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago.
 
+## 词源
+
+属名 *Agnathotermes*：属名由希腊文 a-（无）+ gnathos（颚）与拉丁文 termes（白蚁）组合，意为「无颚白蚁」。
+
+EN — *Agnathotermes*: From Greek a- (without) + gnathos (jaw) + Latin termes.
+
+种加词 *glaber*：拉丁文 glaber（光滑无毛）
+
+EN — epithet *glaber*: Latin glaber (smooth, hairless)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

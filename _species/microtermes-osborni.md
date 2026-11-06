@@ -32,6 +32,18 @@ EN — **奥斯本小白蚁** (*Microtermes osborni*) is a species of the genus 
 
 ES — **奥斯本小白蚁** (*Microtermes osborni*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Democratic Republic of the Congo: St. Gabriel near Kisangani (Stanleyville). Distribución: Angola, Democratic Republic of the Congo, Ethiopia.
 
+## 词源
+
+属名 *Microtermes*：属名由希腊文 mikros（小）与拉丁文 termes（白蚁）组合，意为「小白蚁」。
+
+EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
+
+种加词 *osborni*：以人名 Osborn 命名（美国昆虫学家 H. Osborn）
+
+EN — epithet *osborni*: Named after the entomologist H. Osborn
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

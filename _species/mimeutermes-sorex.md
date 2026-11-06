@@ -32,6 +32,18 @@ EN — **吻长仿白蚁** (*Mimeutermes sorex*) is a species of the genus *Mime
 
 ES — **吻长仿白蚁** (*Mimeutermes sorex*) es una especie del género *Mimeutermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución: Cameroon, Côte d'Ivoire, Ghana, Guinea, Nigeria.
 
+## 词源
+
+属名 *Mimeutermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *sorex*：拉丁文 sorex（鼩鼱）
+
+EN — epithet *sorex*: Latin sorex (shrew)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

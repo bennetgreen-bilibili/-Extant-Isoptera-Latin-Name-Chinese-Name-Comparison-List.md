@@ -32,6 +32,18 @@ EN — **眼显瘤突白蚁** (*Ekphysotermes ocellaris*) is a species of the ge
 
 ES — **眼显瘤突白蚁** (*Ekphysotermes ocellaris*) es una especie del género *Ekphysotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Kimberley region, near Oscar Range. Distribución: Australia.
 
+## 词源
+
+属名 *Ekphysotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *ocellaris*：拉丁文/希腊文 ocell（具单眼）+ aris（相关），指具单眼相关
+
+EN — epithet *ocellaris*: From ocell (具单眼) + aris (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

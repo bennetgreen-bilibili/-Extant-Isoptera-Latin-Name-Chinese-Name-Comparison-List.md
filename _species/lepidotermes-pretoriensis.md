@@ -32,6 +32,18 @@ EN — **比勒陀利亚鳞白蚁** (*Lepidotermes pretoriensis*) is a species a
 
 ES — **比勒陀利亚鳞白蚁** (*Lepidotermes pretoriensis*) es una especie, y la especie tipo de su género del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es South Africa: Cape Province: Kimberley. Distribución: southern Africa, Pretoria, South Africa.
 
+## 词源
+
+属名 *Lepidotermes*：属名由希腊文 lepis（鳞）与拉丁文 termes（白蚁）组合。
+
+EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
+
+种加词 *pretoriensis*：以地名 pretor 命名（具体地名待考）
+
+EN — epithet *pretoriensis*: Named after a locality (pretor)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

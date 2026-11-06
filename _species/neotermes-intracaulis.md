@@ -29,6 +29,18 @@ EN — **茎内新白蚁** (*Neotermes intracaulis*) is a species of the genus *
 
 ES — **茎内新白蚁** (*Neotermes intracaulis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 2003; la localidad tipo es Virgin Islands (USA): St. Croix: Sion Hill. Distribución: Caribbean, Saint Barthélemy, Guadeloupe, Aruba, Barbados, Bonaire, French Saint Martin, U.S. Virgin Islands, Colombia, Venezuela.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *intracaulis*：拉丁文 intra（内）+ caulis（茎），茎内的
+
+EN — epithet *intracaulis*: Latin intra (within) + caulis (stem), within-stem
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

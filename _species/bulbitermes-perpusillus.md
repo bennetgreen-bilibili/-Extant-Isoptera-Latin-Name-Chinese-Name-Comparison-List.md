@@ -32,6 +32,18 @@ EN — **近极小瓢白蚁** (*Bulbitermes perpusillus*) is a species of the ge
 
 ES — **近极小瓢白蚁** (*Bulbitermes perpusillus*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por John en 1925; la localidad tipo es Singapore: Bukit Timah. Distribución: Malaysia, Singapore.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *perpusillus*：拉丁文 per-（非常）+ pusillus（很小），极微小
+
+EN — epithet *perpusillus*: Latin per- (very) + pusillus (tiny), very tiny
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

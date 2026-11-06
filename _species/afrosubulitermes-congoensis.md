@@ -32,6 +32,18 @@ EN — **刚果非锥白蚁** (*Afrosubulitermes congoensis*) is the only extant
 
 ES — **刚果非锥白蚁** (*Afrosubulitermes congoensis*) es la única especie viviente del género *Afrosubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda.
 
+## 词源
+
+属名 *Afrosubulitermes*：属名由拉丁文 Afro-（非洲）+ subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Afrosubulitermes*: From Latin Afro- (Africa) + subula (awl) + termes.
+
+种加词 *congoensis*：地名：刚果
+
+EN — epithet *congoensis*: After Congo
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **具角孔白蚁** (*Foraminitermes corniferus*) is a species of the gen
 
 ES — **具角孔白蚁** (*Foraminitermes corniferus*) es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: West Africa, Togo, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Foraminitermes*：属名由拉丁文 foramen（孔）与 termes（白蚁）组合。
+
+EN — *Foraminitermes*: From Latin foramen (opening) + termes.
+
+种加词 *corniferus*：拉丁文/希腊文词根「corn」（角）
+
+EN — epithet *corniferus*: From the descriptive term 'corn' (horn)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

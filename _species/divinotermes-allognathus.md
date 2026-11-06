@@ -32,6 +32,18 @@ EN — **异颚迪维努白蚁** (*Divinotermes allognathus*) is a species and t
 
 ES — **异颚迪维努白蚁** (*Divinotermes allognathus*) es una especie, y la especie tipo de su género del género *Divinotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Divinotermes*：词源未详（或与拉丁文 divinus「神圣的」或人名相关）；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Divinotermes*: Etymology uncertain (perhaps Latin divinus 'divine' or a personal name); -termes from Latin termes.
+
+种加词 *allognathus*：拉丁文/希腊文 allo（异）+ gnathus（颚），指异颚
+
+EN — epithet *allognathus*: From allo (异) + gnathus (颚)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

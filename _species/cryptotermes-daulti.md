@@ -29,6 +29,18 @@ EN — **道尔特堆砂白蚁** (*Cryptotermes daulti*) is a species of the gen
 
 ES — **道尔特堆砂白蚁** (*Cryptotermes daulti*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Rathore en 1994; la localidad tipo es India: Gujarat: Taranga hills, 32 km. south of Danta and 60 km. NE of Mahesana. Distribución: India.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *daulti*：以人名 dault 命名（具体指向待考）
+
+EN — epithet *daulti*: Named after a person (dault), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

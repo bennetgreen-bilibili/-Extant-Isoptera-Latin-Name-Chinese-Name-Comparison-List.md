@@ -32,6 +32,18 @@ EN — **马登土白蚁** (*Odontotermes matangensis*) is a species of the genu
 
 ES — **马登土白蚁** (*Odontotermes matangensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Manzoor & Akhtar en 2005; la localidad tipo es Malaysia: Sarawak. Distribución: Malaysia.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *matangensis*：以地名 matang 命名（具体地名待考）
+
+EN — epithet *matangensis*: Named after a locality (matang)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

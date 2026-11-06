@@ -32,6 +32,18 @@ EN — **夏氏钩白蚁** (*Ancistrotermes xiai*) is a species of the genus *An
 
 ES — **夏氏钩白蚁** (*Ancistrotermes xiai*) es una especie del género *Ancistrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Zhu & Huang en 1991; la localidad tipo es China: Yunnan Province: Mengla County: Menglun. Distribución: Yunnan (Mengla, Menglun 600m).
 
+## 词源
+
+属名 *Ancistrotermes*：属名由希腊文 ankistron（钩）与拉丁文 termes（白蚁）组合。
+
+EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
+
+种加词 *xiai*：以人名 xia 命名（具体指向待考）
+
+EN — epithet *xiai*: Named after a person (xia), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

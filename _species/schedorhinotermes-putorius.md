@@ -31,6 +31,18 @@ EN — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) is a species of the
 
 ES — **臭鼬长鼻白蚁** (*Schedorhinotermes putorius*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Kitta. Distribución: West Africa, Cameroon, Gabon, Equatorial Guinea, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Nigeria, São Tomé and Príncipe, Sierra Leone, Angola, Central African Republic, Democratic Republic of the Congo, Uganda. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *putorius*：拉丁文 putorius（鼬的、有鼬臭的）
+
+EN — epithet *putorius*: Latin putorius (of a polecat, stinking)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

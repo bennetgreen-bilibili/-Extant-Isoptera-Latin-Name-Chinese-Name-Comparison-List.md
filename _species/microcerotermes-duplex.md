@@ -32,6 +32,18 @@ EN — **含糊锯白蚁** (*Microcerotermes duplex*) is a species of the genus 
 
 ES — **含糊锯白蚁** (*Microcerotermes duplex*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Malaysia: Sarawak: Miri Hills. Distribución: Southeast Asia, Indonesia, Malaysia.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *duplex*：拉丁文 duplex（二重的、成对的）
+
+EN — epithet *duplex*: Latin duplex (double)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **维多利亚胄白蚁** (*Stolotermes victoriensis*) is a species of th
 
 ES — **维多利亚胄白蚁** (*Stolotermes victoriensis*) es una especie del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Hill en 1921; la localidad tipo es Australia: Victoria: Beaconsfield. Distribución: Australia.
 
+## 词源
+
+属名 *Stolotermes*：属名由拉丁文 stolo（根出条、匍匐枝）与 termes（白蚁）组合。
+
+EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
+
+种加词 *victoriensis*：以地名 victor 命名（具体地名待考）
+
+EN — epithet *victoriensis*: Named after a locality (victor)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

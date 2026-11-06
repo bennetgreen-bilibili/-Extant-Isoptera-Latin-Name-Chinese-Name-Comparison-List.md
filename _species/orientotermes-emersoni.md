@@ -32,6 +32,18 @@ EN — **埃默森东方白蚁** (*Orientotermes emersoni*) is the only extant s
 
 ES — **埃默森东方白蚁** (*Orientotermes emersoni*) es la única especie viviente del género *Orientotermes*, en la familia TERMITIDAE (subfamilia Protohamitermitinae). La especie fue descrita por Ahmad en 1976; la localidad tipo es Malaysia: Sarawak: Sabal Tapang. Distribución: Brunei, Malaysia.
 
+## 词源
+
+属名 *Orientotermes*：属名由拉丁文 Oriens（东方）与 termes（白蚁）组合。
+
+EN — *Orientotermes*: From Latin Oriens (the East) + termes.
+
+种加词 *emersoni*：以人名 Emerson 命名（美国白蚁学家 A. E. Emerson）
+
+EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

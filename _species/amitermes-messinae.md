@@ -34,6 +34,18 @@ EN — **墨西拿弓白蚁** (*Amitermes messinae*) is a species of the genus *
 
 ES — **墨西拿弓白蚁** (*Amitermes messinae*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Fuller en 1922; la localidad tipo es South Africa: Transvaal: Messina. Distribución: South Africa, Egypt, Ethiopia, Iran, Kenya, Malawi, Saudi Arabia, Sudan, Tanzania, Yemen, Zambia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *messinae*：以人名 messin 命名（具体指向待考）
+
+EN — epithet *messinae*: Named after a person (messin), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

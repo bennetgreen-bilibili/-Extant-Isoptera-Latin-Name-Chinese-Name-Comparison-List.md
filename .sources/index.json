@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 20,
+    "count": 26,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T03:00:56+08:00",
+    "updated": "2026-11-07T03:36:12+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -1233,7 +1233,7 @@
       "file_path": "_unpublished/文库/中国南部的白蚁新种",
       "chars": 47079,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-07T02:55:04+08:00",
+      "accessed": "2026-11-07T03:28:41+08:00",
       "notes": "全文存于 _unpublished/文库/中国南部的白蚁新种（47079 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；扫描件无文字层：正文经 Windows OCR(zh-Hans) 识别，种级标题与首页名录已据扫描图核对改写，正文行内拉丁学名与测量数字未逐处核对；原生 PDF 文本抽取失败（unsupported page tree）。",
       "library": {
         "book": "中国南部的白蚁新种",
@@ -1259,7 +1259,9 @@
       "year": 1963,
       "publisher": "昆虫学报 12(2): 167-198",
       "lang": "zh",
-      "used_in": [],
+      "used_in": [
+        "_data/etymology.json"
+      ],
       "evidence": [
         {
           "quote": "本文記述了在中国南部发現的下列二十一个新种。其中有＊号者是作者参加中苏合作云南生物考察队时所采集到的部分材料。",
@@ -1298,6 +1300,251 @@
         }
       ],
       "id": "S0020"
+    },
+    {
+      "title": "A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "url": "https://digitallibrary.amnh.org/server/api/core/bitstreams/10527e9f-b713-405d-8c02-834dc641dfbb/content",
+      "year": 1961,
+      "authors": [
+        "Krishna K."
+      ],
+      "publisher": "Bulletin of the American Museum of Natural History 122: 303–408",
+      "lang": "en",
+      "retrieved_via": "Internet Archive OCR（djvu.txt），原 PDF 为扫描件",
+      "evidence": [
+        {
+          "quote": "Type Species: Postelectrotermes praecox\n(Hagen) (= Calotermespraecox Hagen).",
+          "locator": "p. 320",
+          "note": "支撑：属级模式种与原始描述出处；_data/morphology_genera.json 中 Postelectrotermes 条目"
+        },
+        {
+          "quote": "genus can be distinguished from Neotermes\nand other genera by the presence of a spine on\nthe outer margin of the middle tibia, close to\nthe outer apical spur, in both the imago and\nthe soldier caste.",
+          "locator": "p. 320",
+          "note": "支撑：Postelectrotermes 属征（胫节距刺），据以改写中文形态描述"
+        },
+        {
+          "quote": "Imago: Usually dark brown. Eyes usually\nsmall; diameter, 0.25-0.50 mm. Ocellus\ntouching eye or approximately 0.01-0.04 mm.\nfrom eye. Antenna with 13 to 19 articles.",
+          "locator": "p. 320",
+          "note": "支撑：Postelectrotermes 有翅成虫特征"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_includes/genus-morphology.html",
+        "_tools/fauna/morphology/build_krishna_descriptions.py"
+      ],
+      "notes": "全文 OCR 来自 Internet Archive item bulletin-american-museum-natural-history-122-307-408；原书扫描件正文无文字层。仅用于属级形态描述与原始出处，不转录英文原文。",
+      "accessed": "2026-11-07T03:27:43+08:00",
+      "canonical_key": "url:https://digitallibrary.amnh.org/server/api/core/bitstreams/10527e9f-b713-405d-8c02-834dc641dfbb/content",
+      "id": "S0021"
+    },
+    {
+      "title": "Estudo taxonômico de Cylindrotermes Holmgren (Isoptera, Termitidae Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1590/S0031-10492007001000001",
+      "year": 2007,
+      "authors": [
+        "Da Rocha M. M.",
+        "Cancello E. M."
+      ],
+      "publisher": "Papéis Avulsos de Zoologia",
+      "lang": "pt",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "url": "https://www.scielo.br/j/paz/a/zgccr48Qk9y7DMBD9rzjMrh/?lang=pt",
+      "evidence": [
+        {
+          "quote": "cabeça aproximadamente retangular, alongada, labro geralmente pentagonal, poro frontal pequeno, abrindo-se no primeiro quarto anterior da cabeça, logo atrás das inserções das antenas, pós-mento estreito e alongado com aproximadamente três quartos do comprimento da cabeça, Mandíbulas simétricas, arqueadas, com um único dente",
+          "locator": "p. 141, Soldados",
+          "note": "支撑：Cylindrotermes 兵蚁属征（头形、额孔、后颏、上颚）"
+        },
+        {
+          "quote": "cabeça arredondada. Mandíbulas … dente apical com tamanho próximo ao dos marginais, formando um ângulo agudo com o M 1+2. Mandíbula esquerda com uma borda cortante plana entre os dentes M 1+2 e M3, M3 menor que M 1+2",
+          "locator": "p. 142, Operários",
+          "note": "支撑：工蚁上颚齿式"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/cylindrotermes2007.json"
+      ],
+      "accessed": "2026-11-07T03:31:11+08:00",
+      "canonical_key": "doi:10.1590/s0031-10492007001000001",
+      "id": "S0022"
+    },
+    {
+      "title": "A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.3897/zookeys.148.1278",
+      "year": 2011,
+      "authors": [
+        "Rocha M. M.",
+        "Cancello E. M.",
+        "Cuezzo C."
+      ],
+      "publisher": "ZooKeys",
+      "lang": "en",
+      "license": "CC BY",
+      "retrieved_via": "web_fetch",
+      "url": "https://zookeys.pensoft.net/article/3003/",
+      "evidence": [
+        {
+          "quote": "Head capsule sub-quadrangular with almost parallel lateral margins and two very discrete saliencies on the latero-posterior corners … Surface of head capsule covered with numerous minute and closely set points of about equal diameter, forming a conspicuous and characteristic microsculpture",
+          "locator": "p. 127, Soldier",
+          "note": "支撑：Acangaobitermes 兵蚁头壳形状与微刻纹"
+        },
+        {
+          "quote": "Frontal tube conical and upturned, in profile, apex with a relatively wide aperture surrounded by a white membrane. Antennae with 14 articles. Piercing slender mandibles; blade strongly curved inwards and upturned; a very small tooth at the base of the blade",
+          "locator": "p. 127, Soldier",
+          "note": "支撑：额管、触角与刺吸式上颚"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/acangaobitermes2011.json"
+      ],
+      "accessed": "2026-11-07T03:32:33+08:00",
+      "canonical_key": "doi:10.3897/zookeys.148.1278",
+      "id": "S0023"
+    },
+    {
+      "title": "Species groups in the genus Cubitermes (Isoptera: Termitidae) defined on the basis of enteric valve morphology",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.5852/ejt.2019.515",
+      "url": "https://europeanjournaloftaxonomy.eu/index.php/ejt/article/view/515",
+      "year": 2019,
+      "lang": "en",
+      "authors": [
+        "Josens G.",
+        "Deligne J."
+      ],
+      "publisher": "European Journal of Taxonomy",
+      "license": "unknown",
+      "retrieved_via": "PyMuPDF text extraction from publisher PDF",
+      "evidence": [
+        {
+          "quote": "Head capsule: Well sclerotised and generally dark, C6–C8 (however, long preserved imagines can become as clear as C4, as already mentioned by Williams 1966); fontanelle concolorous with or paler than head capsule (one to five palette levels paler)",
+          "locator": "p. 23, Imago, Colour",
+          "note": "支撑：Cubitermes 有翅成虫头壳与额孔颜色"
+        },
+        {
+          "quote": "Mandibles: Sabre-like with variable curvatures; inner edges generally smooth (rarely finely serrated) with one distinct marginal tooth, sometimes very small, near molar tooth on each mandible",
+          "locator": "p. 27, Soldier, Structure",
+          "note": "支撑：Cubitermes 兵蚁上颚形态"
+        },
+        {
+          "quote": "Antennae: Mostly of 14.5–15 articles, or rarely 14 (in 12% of specimens examined).",
+          "locator": "p. 26, Soldier, Structure",
+          "note": "支撑：Cubitermes 兵蚁触角节数"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/cubitermes2019.json"
+      ],
+      "accessed": "2026-11-07T03:34:54+08:00",
+      "canonical_key": "doi:10.5852/ejt.2019.515",
+      "id": "S0024"
+    },
+    {
+      "title": "An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.5852/ejt.2025.1024.3099",
+      "url": "https://europeanjournaloftaxonomy.eu/index.php/ejt/article/view/3099",
+      "year": 2025,
+      "lang": "en",
+      "authors": [
+        "Josens G.",
+        "Deligne J.",
+        "Harry M.",
+        "Roy V.",
+        "Akama P. D.",
+        "Coulibaly T.",
+        "Dosso K.",
+        "Goergen G.",
+        "Hasson M.",
+        "Kasangiji A Kasangiji P.",
+        "Kifukieto C.",
+        "Le Ru B.",
+        "Loko L. E. Y.",
+        "Ndiaye A. B.",
+        "Roisin Y.",
+        "Sion N."
+      ],
+      "publisher": "European Journal of Taxonomy",
+      "license": "CC BY 4.0",
+      "retrieved_via": "PyMuPDF text extraction from publisher PDF",
+      "evidence": [
+        {
+          "quote": "The genus Isognathotermes is best and fully characterized by its worker’s EVA which takes two main forms and an intermediate form",
+          "locator": "p. 11, Diagnosis",
+          "note": "支撑：Isognathotermes 属级核心识别特征为工蚁肠瓣"
+        },
+        {
+          "quote": "The worker is also characterized by the shape and spinosity of its front legs: the fore coxa is carinated and bears two to seven spines on the ventral carina (Fig. 7); the fore trochanter bears three to eight spines.",
+          "locator": "p. 12, Diagnosis",
+          "note": "支撑：Isognathotermes 工蚁前足基节与转节刺"
+        },
+        {
+          "quote": "It has a long head (SHdL = 2.18–3.77 mm), a high head elongation index (SHdL/SHdW = 1.22–1.67), and the sabre-like mandibles are always shorter than the head (SMlL/SHdL = 0.66–0.92); antennae of 14–15 articles.",
+          "locator": "p. 13, Diagnosis",
+          "note": "支撑：Isognathotermes 兵蚁头长、长宽比、上颚与触角"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/isognathotermes2025.json"
+      ],
+      "accessed": "2026-11-07T03:35:27+08:00",
+      "canonical_key": "doi:10.5852/ejt.2025.1024.3099",
+      "id": "S0025"
+    },
+    {
+      "title": "A new termite species of the genus Dihoplotermes Araújo (Blattaria, Isoptera, Termitidae) from the Brazilian Amazonian rainforest",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1590/1809-4392201800582",
+      "url": "https://www.scielo.br/j/aa/a/djLJFPkVZdrdPPjZhBqm6hc/?lang=en",
+      "year": 2019,
+      "lang": "en",
+      "authors": [
+        "Azevedo R. A. de",
+        "Dambros C. de S.",
+        "Morais J. W. de"
+      ],
+      "publisher": "Acta Amazonica",
+      "license": "CC BY 4.0",
+      "retrieved_via": "web_fetch HTML",
+      "evidence": [
+        {
+          "quote": "The soldiers of Dihoplotermes taurus and Dihoplotermes inusitatus have two anterolateral spines near the base of the mandibles, above the mandibular condyle; asymmetric snapping mandibles ( Figure 1 ); asymmetrical labrum; and tibial spurs 3:2:2.",
+          "locator": "Results, Genus diagnosis",
+          "note": "支撑：Dihoplotermes 兵蚁属征"
+        },
+        {
+          "quote": "Workers of both species have similar mandibles, with apical teeth distinctly larger than the first marginal teeth; right mandible without second marginal tooth; left mandible with third marginal tooth absent and molar tooth separated from first + second marginal by a small incision ( Figure 2 D).",
+          "locator": "Results, Genus diagnosis",
+          "note": "支撑：Dihoplotermes 工蚁上颚齿式"
+        },
+        {
+          "quote": "The gut of both species has similarities regarding the gizzard, with a spine on the pulvillus ( Figure 7 B-C); presence of a malpighian nodule with two pairs of malpighian tubules inserted on the nodule ( Figure 1 A); enteric valve with a longitudinal row of spines on one cushion ( Figure 7 D-E).",
+          "locator": "Results, Genus diagnosis",
+          "note": "支撑：Dihoplotermes 肠部属征"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/dihoplotermes2019.json"
+      ],
+      "accessed": "2026-11-07T03:36:12+08:00",
+      "canonical_key": "doi:10.1590/1809-4392201800582",
+      "id": "S0026"
     }
   ]
 }

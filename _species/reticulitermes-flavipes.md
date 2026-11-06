@@ -31,6 +31,18 @@ EN — **北美散白蚁** (*Reticulitermes flavipes*) is a species and the type
 
 ES — **北美散白蚁** (*Reticulitermes flavipes*) es una especie, y la especie tipo de su género del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Kollar en 1837; la localidad tipo es Austria: Schönbrunn. Distribución: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. Este sitio registra 3 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *flavipes*：拉丁文/希腊文 flavi（黄）+ pes（足），指黄足
+
+EN — epithet *flavipes*: From flavi (黄) + pes (足)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

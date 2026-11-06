@@ -32,6 +32,18 @@ EN — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) is the only exta
 
 ES — **卡托莱三棒白蚁** (*Triclavitermes catoleensis*) es la única especie viviente del género *Triclavitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Ferreira, Carvalho & Vasconcellos en 2025; la localidad tipo es Brasil: Paraíba: Catolé do Rocha, Monte Tabor \[ 6.3394S 37.7386W \]. Distribución: Brazil, Bahia.
 
+## 词源
+
+属名 *Triclavitermes*：属名由拉丁文 tri-（三）+ clava（棒、锤）与 termes（白蚁）组合。
+
+EN — *Triclavitermes*: From Latin tri- (three) + clava (club) + termes.
+
+种加词 *catoleensis*：以地名 catole 命名（具体地名待考）
+
+EN — epithet *catoleensis*: Named after a locality (catole)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **暗黄大白蚁** (*Macrotermes gilvus*) is a species of the genus *Mac
 
 ES — **暗黄大白蚁** (*Macrotermes gilvus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Indonesia: Java: Bogor. Distribución: Old World tropics, Indonesia, Malaysia, Philippines, Singapore, Thailand, Cambodia, Timor-Leste, Myanmar, Vietnam. Este sitio registra 12 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *gilvus*：拉丁文 gilvus（淡黄褐色的）
+
+EN — epithet *gilvus*: Latin gilvus (yellowish-grey)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

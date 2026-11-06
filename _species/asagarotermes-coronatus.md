@@ -32,6 +32,18 @@ EN — **冠毛无剑白蚁** (*Asagarotermes coronatus*) is the only extant spe
 
 ES — **冠毛无剑白蚁** (*Asagarotermes coronatus*) es la única especie viviente del género *Asagarotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville. Distribución: Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Asagarotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Asagarotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *coronatus*：拉丁文 coronatus（具冠的）
+
+EN — epithet *coronatus*: Latin coronatus (crowned)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

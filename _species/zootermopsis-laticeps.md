@@ -29,6 +29,18 @@ EN — **宽头动白蚁** (*Zootermopsis laticeps*) is a species of the genus *
 
 ES — **宽头动白蚁** (*Zootermopsis laticeps*) es una especie del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch. Distribución: southwestern North America, United States, Mexico.
 
+## 词源
+
+属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
+
+EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
+
+种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
+
+EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）

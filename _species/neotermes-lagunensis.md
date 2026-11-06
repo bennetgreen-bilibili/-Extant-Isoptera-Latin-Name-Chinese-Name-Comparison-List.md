@@ -29,6 +29,18 @@ EN — **内湖新白蚁** (*Neotermes lagunensis*) is a species of the genus *N
 
 ES — **内湖新白蚁** (*Neotermes lagunensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Oshima en 1920; la localidad tipo es Philippines: Luzon: Laguna Province: Paete. Distribución: Philippines.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *lagunensis*：以地名 lagun 命名（具体地名待考）
+
+EN — epithet *lagunensis*: Named after a locality (lagun)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

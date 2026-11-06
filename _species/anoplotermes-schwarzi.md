@@ -32,6 +32,18 @@ EN — **施瓦茨解甲白蚁** (*Anoplotermes schwarzi*) is a species of the g
 
 ES — **施瓦茨解甲白蚁** (*Anoplotermes schwarzi*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Cuba: Cayamas. Distribución: Cuba.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *schwarzi*：以人名 schwarz 命名（具体指向待考）
+
+EN — epithet *schwarzi*: Named after a person (schwarz), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

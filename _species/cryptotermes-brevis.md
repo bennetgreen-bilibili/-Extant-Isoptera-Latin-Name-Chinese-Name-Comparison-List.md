@@ -31,6 +31,18 @@ EN — **麻头堆砂白蚁** (*Cryptotermes brevis*) is a species of the genus 
 
 ES — **麻头堆砂白蚁** (*Cryptotermes brevis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Walker en 1853; la localidad tipo es Jamaica: ?. Distribución: native to the coasts of Peru and Chile, now pantropical; Canada, Canary Islands (Spain), Egypt, Israel, Italy, Madeira (Portugal), Portugal, Spain, United States. Este sitio registra 5 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *brevis*：拉丁文 brevis（短）
+
+EN — epithet *brevis*: Latin brevis (short)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

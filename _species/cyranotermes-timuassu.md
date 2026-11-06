@@ -32,6 +32,18 @@ EN — **多毛巨鼻白蚁** (*Cyranotermes timuassu*) is a species and the typ
 
 ES — **多毛巨鼻白蚁** (*Cyranotermes timuassu*) es una especie, y la especie tipo de su género del género *Cyranotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Araujo en 1970; la localidad tipo es Brasil: Minas Gerais: Belo Horizonte \[19.92S 43.93W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Cyranotermes*：属名由 Cyrano（戏剧人物 Cyrano de Bergerac，以长鼻著称）与 termes（白蚁）组合，指其长鼻状额突。
+
+EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
+
+种加词 *timuassu*：图皮语 -assu（大）
+
+EN — epithet *timuassu*: Tupi -assu (large)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

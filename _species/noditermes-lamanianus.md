@@ -32,6 +32,18 @@ EN — **拉曼节白蚁** (*Noditermes lamanianus*) is a species and the type s
 
 ES — **拉曼节白蚁** (*Noditermes lamanianus*) es una especie, y la especie tipo de su género del género *Noditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Central Africa, Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Noditermes*：属名由拉丁文 nodus（结、瘤）与 termes（白蚁）组合。
+
+EN — *Noditermes*: From Latin nodus (knot, node) + termes.
+
+种加词 *lamanianus*：以人名 laman 命名（具体指向待考）
+
+EN — epithet *lamanianus*: Named after a person (laman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

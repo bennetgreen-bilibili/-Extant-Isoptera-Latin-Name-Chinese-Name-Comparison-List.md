@@ -32,6 +32,18 @@ EN — **弗洛格特脊突白蚁** (*Cristatitermes froggatti*) is a species of
 
 ES — **弗洛格特脊突白蚁** (*Cristatitermes froggatti*) es una especie del género *Cristatitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: 34 mi E Darwin. Distribución: Australia.
 
+## 词源
+
+属名 *Cristatitermes*：属名由拉丁文 cristatus（具冠的、具脊的）与 termes（白蚁）组合。
+
+EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
+
+种加词 *froggatti*：以人名 froggatt 命名（澳大利亚昆虫学家 W. W. Froggatt）
+
+EN — epithet *froggatti*: Named after 澳大利亚昆虫学家 W. W. Froggatt
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **扭曲唇扭白蚁** (*Labiocapritermes distortus*) is a species and th
 
 ES — **扭曲唇扭白蚁** (*Labiocapritermes distortus*) es una especie, y la especie tipo de su género del género *Labiocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1922; la localidad tipo es India: Kerala, Kavalai. Distribución: India. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Labiocapritermes*：属名由拉丁文 labium（唇）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Labiocapritermes*: From Latin labium (lip) + caper (goat) + termes.
+
+种加词 *distortus*：拉丁文 distortus（扭曲的）
+
+EN — epithet *distortus*: Latin distortus (distorted)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

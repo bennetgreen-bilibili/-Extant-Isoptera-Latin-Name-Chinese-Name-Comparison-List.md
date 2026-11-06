@@ -32,6 +32,18 @@ EN — **德巴迪利普瓢白蚁** (*Bulbitermes debadiliporum*) is a species o
 
 ES — **德巴迪利普瓢白蚁** (*Bulbitermes debadiliporum*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Das & Choudhury en 2023; la localidad tipo es India: Meghalaya: Mawlynnong, East Khasi Hills \[25.2047N 91.9112E\]. Distribución: Southeast Asia, Indonesia, Malaysia, Singapore, Philippines, Vietnam.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *debadiliporum*：以人名 debadilip 命名（具体指向待考）
+
+EN — epithet *debadiliporum*: Named after a person (debadilip), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **凸缘圆筒白蚁** (*Cylindrotermes flangiatus*) is a species of the 
 
 ES — **凸缘圆筒白蚁** (*Cylindrotermes flangiatus*) es una especie del género *Cylindrotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución: Neotropics.
 
+## 词源
+
+属名 *Cylindrotermes*：属名由希腊文 kylindros（圆柱）与拉丁文 termes（白蚁）组合。
+
+EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
+
+种加词 *flangiatus*：词源未详
+
+EN — epithet *flangiatus*: Etymology uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

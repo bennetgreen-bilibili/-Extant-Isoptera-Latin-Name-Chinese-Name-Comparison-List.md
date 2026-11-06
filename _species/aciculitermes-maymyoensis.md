@@ -32,6 +32,18 @@ EN — **眉妙针白蚁** (*Aciculitermes maymyoensis*) is a species of the gen
 
 ES — **眉妙针白蚁** (*Aciculitermes maymyoensis*) es una especie del género *Aciculitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Maymyo: Botanical Garden. Distribución: China, Myanmar, Thailand.
 
+## 词源
+
+属名 *Aciculitermes*：属名由拉丁文 acicula（小针、小刺）与 termes（白蚁）组合。
+
+EN — *Aciculitermes*: From Latin acicula (little pin) + termes.
+
+种加词 *maymyoensis*：以地名 maymyo 命名（具体地名待考）
+
+EN — epithet *maymyoensis*: Named after a locality (maymyo)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

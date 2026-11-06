@@ -32,6 +32,18 @@ EN — **多刺胃白蚁** (*Gastrotermes spinatus*) is the only extant species 
 
 ES — **多刺胃白蚁** (*Gastrotermes spinatus*) es la única especie viviente del género *Gastrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Cameroon: Korup National Park. Distribución: West/Central Africa, Cameroon.
 
+## 词源
+
+属名 *Gastrotermes*：属名由希腊文 gastēr（腹）与拉丁文 termes（白蚁）组合。
+
+EN — *Gastrotermes*: From Greek gastēr (belly) + Latin termes.
+
+种加词 *spinatus*：拉丁文/希腊文 spin（刺）+ atus（具），指刺具
+
+EN — epithet *spinatus*: From spin (刺) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

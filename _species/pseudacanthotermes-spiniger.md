@@ -34,6 +34,18 @@ EN — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) is a species of th
 
 ES — **具刺伪刺白蚁** (*Pseudacanthotermes spiniger*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Democratic Republic of the Congo: Umangi. Distribución: Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia. Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Pseudacanthotermes*：属名由希腊文 pseudēs（假）+ akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
+
+种加词 *spiniger*：拉丁文/希腊文 spini（刺）+ ger（具），指刺具
+
+EN — epithet *spiniger*: From spini (刺) + ger (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -31,6 +31,18 @@ EN — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) is a species and the
 
 ES — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) es una especie, y la especie tipo de su género del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Silvestri en 1909; la localidad tipo es (country unknown): "Insulae Samoa, Ninafoon". Distribución: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *inopinatus*：拉丁文 inopinatus（意外的）
+
+EN — epithet *inopinatus*: Latin inopinatus (unexpected)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

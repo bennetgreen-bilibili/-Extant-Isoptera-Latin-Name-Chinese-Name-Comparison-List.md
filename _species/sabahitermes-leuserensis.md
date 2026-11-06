@@ -32,6 +32,18 @@ EN — **勒塞尔沙巴白蚁** (*Sabahitermes leuserensis*) is a species of th
 
 ES — **勒塞尔沙巴白蚁** (*Sabahitermes leuserensis*) es una especie del género *Sabahitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gathorne-Hardy en 2001; la localidad tipo es Indonesia: Sumatra: Aceh Tenggara: Ketambe field station. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Sabahitermes*：属名由地名 Sabah（沙巴，马来西亚）与 termes（白蚁）组合。
+
+EN — *Sabahitermes*: From Sabah (Malaysia) + termes.
+
+种加词 *leuserensis*：以地名 勒塞尔（印度尼西亚） 命名
+
+EN — epithet *leuserensis*: Named after the locality Leuser
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

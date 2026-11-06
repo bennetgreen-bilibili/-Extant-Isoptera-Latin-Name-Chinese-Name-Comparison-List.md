@@ -32,6 +32,18 @@ EN — **岛生间断白蚁** (*Disjunctitermes insularis*) is the only extant s
 
 ES — **岛生间断白蚁** (*Disjunctitermes insularis*) es la única especie viviente del género *Disjunctitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn en 2017; la localidad tipo es Guadeloupe (French): Basse-Terre: Trail Mamelles de Petite Bourg. Parc Nat. \[ 16.1778N 61.7321W \]. Distribución: Brazil, Amazon region, Central America and Caribbean.
 
+## 词源
+
+属名 *Disjunctitermes*：属名由拉丁文 disjunctus（分离的、间断的）与 termes（白蚁）组合。
+
+EN — *Disjunctitermes*: From Latin disjunctus (disjoined) + termes.
+
+种加词 *insularis*：拉丁文 insularis（岛屿的、栖岛的）
+
+EN — epithet *insularis*: Latin insularis (of islands)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **比特恩佐格近扭白蚁** (*Pericapritermes buitenzorgi*) is a spec
 
 ES — **比特恩佐格近扭白蚁** (*Pericapritermes buitenzorgi*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Java: Tjibodas; Sumatra: Tandjong Slamat. Distribución: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
+
+种加词 *buitenzorgi*：以人名 buitenzorg 命名（具体指向待考）
+
+EN — epithet *buitenzorgi*: Named after a person (buitenzorg), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

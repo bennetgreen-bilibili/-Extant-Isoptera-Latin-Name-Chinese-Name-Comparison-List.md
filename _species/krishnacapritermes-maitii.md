@@ -32,6 +32,18 @@ EN — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) is a specie
 
 ES — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) es una especie, y la especie tipo de su género del género *Krishnacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Tamil Nadu: Pumbarai: Palni Hills. Distribución: India, Western Ghats.
 
+## 词源
+
+属名 *Krishnacapritermes*：属名以人名 Krishna（白蚁学家 K. Krishna）命名 + 拉丁文 caper（山羊）+ termes（白蚁）。
+
+EN — *Krishnacapritermes*: Named after the termite taxonomist K. Krishna + Latin caper (goat) + termes.
+
+种加词 *maitii*：以人名 mait 命名（具体指向待考）
+
+EN — epithet *maitii*: Named after a person (mait), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

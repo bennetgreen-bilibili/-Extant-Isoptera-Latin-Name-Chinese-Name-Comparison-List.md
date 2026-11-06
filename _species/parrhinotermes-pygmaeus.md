@@ -29,6 +29,18 @@ EN — **侏儒棒鼻白蚁** (*Parrhinotermes pygmaeus*) is a species of the ge
 
 ES — **侏儒棒鼻白蚁** (*Parrhinotermes pygmaeus*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por John en 1925; la localidad tipo es Indonesia: Sumatra: Siak; Malaysia: Kuala Lumpur: Kajang. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *pygmaeus*：拉丁文/希腊文 pygma（矮小）+ eus（相关），指矮小相关
+
+EN — epithet *pygmaeus*: From pygma (矮小) + eus (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

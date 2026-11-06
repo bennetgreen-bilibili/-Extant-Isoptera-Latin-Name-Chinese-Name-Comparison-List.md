@@ -32,6 +32,18 @@ EN — **小颚圆筒白蚁** (*Cylindrotermes parvignathus*) is a species of th
 
 ES — **小颚圆筒白蚁** (*Cylindrotermes parvignathus*) es una especie del género *Cylindrotermes*, en la familia TERMITIDAE (subfamilia Cylindrotermitinae). La especie fue descrita por Emerson en 1949; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Neotropics.
 
+## 词源
+
+属名 *Cylindrotermes*：属名由希腊文 kylindros（圆柱）与拉丁文 termes（白蚁）组合。
+
+EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
+
+种加词 *parvignathus*：拉丁文/希腊文 parvi（小）+ gnathus（颚），指小颚
+
+EN — epithet *parvignathus*: From parvi (小) + gnathus (颚)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

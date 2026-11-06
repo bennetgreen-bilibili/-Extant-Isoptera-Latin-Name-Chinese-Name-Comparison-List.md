@@ -32,6 +32,18 @@ EN — **图潘蔡斯白蚁** (*Chasitermes tupan*) is a species of the genus *C
 
 ES — **图潘蔡斯白蚁** (*Chasitermes tupan*) es una especie del género *Chasitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Almeida-Azevedo, Carrijo, Pinzón-Florián, Morais & Azevedo en 2026; la localidad tipo es Amazon Rainforest (具体产地以原文为准). Distribución: Amazon Rainforest.
 
+## 词源
+
+属名 *Chasitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Chasitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *tupan*：图皮-瓜拉尼神话雷神 Tupã
+
+EN — epithet *tupan*: Tupã, Tupi-Guaraní thunder god
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

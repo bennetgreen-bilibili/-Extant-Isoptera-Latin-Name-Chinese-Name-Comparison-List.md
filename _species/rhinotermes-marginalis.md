@@ -31,6 +31,18 @@ EN — **微小鼻白蚁** (*Rhinotermes marginalis*) is a species of the genus 
 
 ES — **微小鼻白蚁** (*Rhinotermes marginalis*) es una especie del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Linnaeus en 1758; la localidad tipo es Suriname: Marowijne: Confluence of Perica Creek and Cottica River \[ 5.669N 54.447W \]. Distribución: Brazil, Colombia, French Guiana, Caribbean, Bolivia, Ecuador, Peru, Suriname, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Rhinotermes*：属名由希腊文 rhis（鼻）与拉丁文 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Rhinotermes*: From Greek rhis (nose) + Latin termes, for the nasute soldier.
+
+种加词 *marginalis*：拉丁文 marginalis（边缘的）
+
+EN — epithet *marginalis*: Latin marginalis (marginal)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

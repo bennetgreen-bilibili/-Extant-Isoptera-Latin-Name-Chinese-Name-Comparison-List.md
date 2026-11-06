@@ -34,6 +34,18 @@ EN — **宿主白蚁** (*Termes hospes*) is a species of the genus *Termes*, in
 
 ES — **宿主白蚁** (*Termes hospes*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Cameroon: Bonge. Distribución: Old World tropics, Democratic Republic of the Congo, Senegal, Cameroon, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Uganda. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *hospes*：拉丁文 hospes（客人、宿主）
+
+EN — epithet *hospes*: Latin hospes (host, guest)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

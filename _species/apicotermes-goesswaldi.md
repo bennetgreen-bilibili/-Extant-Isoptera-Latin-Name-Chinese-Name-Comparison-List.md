@@ -32,6 +32,18 @@ EN — **格斯瓦尔德尖白蚁** (*Apicotermes goesswaldi*) is a species of t
 
 ES — **格斯瓦尔德尖白蚁** (*Apicotermes goesswaldi*) es una especie del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bouillon en 1966; la localidad tipo es Democratic Republic of the Congo: Mayumbe region, Kakongo, near Lemba River on the side of Pemo village. Distribución: Angola, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Apicotermes*：属名由拉丁文 apex（尖、顶）与 termes（白蚁）组合。
+
+EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
+
+种加词 *goesswaldi*：以人名 goesswald 命名（具体指向待考）
+
+EN — epithet *goesswaldi*: Named after a person (goesswald), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

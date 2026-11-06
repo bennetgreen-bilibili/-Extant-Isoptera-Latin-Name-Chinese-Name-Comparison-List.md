@@ -32,6 +32,18 @@ EN — **狭颏稀白蚁** (*Speculitermes angustigulus*) is a species of the ge
 
 ES — **狭颏稀白蚁** (*Speculitermes angustigulus*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por He en 1985; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: South Asia, India, China.
 
+## 词源
+
+属名 *Speculitermes*：属名由拉丁文 speculum（镜、斑）与 termes（白蚁）组合。
+
+EN — *Speculitermes*: From Latin speculum (mirror) + termes.
+
+种加词 *angustigulus*：拉丁文/希腊文 angustig（窄）+ ulus（小（指小）），指窄小（指小）
+
+EN — epithet *angustigulus*: From angustig (窄) + ulus (小（指小）)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

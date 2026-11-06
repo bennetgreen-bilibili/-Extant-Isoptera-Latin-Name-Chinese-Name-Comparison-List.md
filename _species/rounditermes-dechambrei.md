@@ -32,6 +32,18 @@ EN — **德尚布尔胖白蚁** (*Rounditermes dechambrei*) is the only extant 
 
 ES — **德尚布尔胖白蚁** (*Rounditermes dechambrei*) es la única especie viviente del género *Rounditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ensaf, Ponchel & Nel en 2003; la localidad tipo es French Guiana: Highway N1 between Kourou and Sinnamary \[5.2675N 52.8083W\]. Distribución: French Guiana.
 
+## 词源
+
+属名 *Rounditermes*：属名以人名 Round 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Rounditermes*: Named after a person (Round); -termes from Latin termes.
+
+种加词 *dechambrei*：以人名 dechambre 命名（具体指向待考）
+
+EN — epithet *dechambrei*: Named after a person (dechambre), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

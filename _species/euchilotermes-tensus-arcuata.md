@@ -33,6 +33,18 @@ EN — **弓形亚种** (*Euchilotermes tensus arcuata*) is a subspecies of *Euc
 
 ES — **弓形亚种** (*Euchilotermes tensus arcuata*) es una subespecie de *Euchilotermes tensus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Euchilotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Conakry; Kakoulima. No se incluye un registro de distribución separado en esta página; véase la especie parental *Euchilotermes tensus*.
 
+## 词源
+
+属名 *Euchilotermes*：属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。
+
+EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
+
+种加词 *arcuata*：拉丁文 arcuatus（弓形的）
+
+EN — epithet *arcuata*: Latin arcuatus (bowed, arcuate)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

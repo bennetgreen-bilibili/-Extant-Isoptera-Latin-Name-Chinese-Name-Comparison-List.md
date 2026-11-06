@@ -32,6 +32,18 @@ EN — **异齿聚刺白蚁** (*Synacanthotermes heterodon*) is a species and th
 
 ES — **异齿聚刺白蚁** (*Synacanthotermes heterodon*) es una especie, y la especie tipo de su género del género *Synacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: N’dian. Distribución: Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Synacanthotermes*：属名由希腊文 syn-（合、共）+ akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Synacanthotermes*: From Greek syn- (together) + akantha (thorn) + Latin termes.
+
+种加词 *heterodon*：拉丁文/希腊文词根「heter」（异）
+
+EN — epithet *heterodon*: From the descriptive term 'heter' (different)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

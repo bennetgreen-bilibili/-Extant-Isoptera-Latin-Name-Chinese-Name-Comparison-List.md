@@ -29,6 +29,18 @@ EN — **大异白蚁** (*Heterotermes assu*) is a species of the genus *Heterot
 
 ES — **大异白蚁** (*Heterotermes assu*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Constantino en 2000; la localidad tipo es Brasil: Espírito Santo: Presidente Kennedy, Praia das Neves \[ 21.28S 40.97W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *assu*：以土名或地名命名（具体指向待考）
+
+EN — epithet *assu*: After a locality or vernacular name (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

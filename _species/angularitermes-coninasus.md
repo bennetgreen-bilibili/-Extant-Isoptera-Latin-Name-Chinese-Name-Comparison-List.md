@@ -32,6 +32,18 @@ EN — **锥鼻棱角白蚁** (*Angularitermes coninasus*) is a species of the g
 
 ES — **锥鼻棱角白蚁** (*Angularitermes coninasus*) es una especie del género *Angularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Carrijo, Rocha, Cuezzo & Cancello en 2011; la localidad tipo es Brasil: Rondônia: Porto Velho, Jaci Paraná, Ilha da Pedra \[9.15S 64.5833W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Angularitermes*：属名由拉丁文 angularis（有角的、具棱的）与 termes（白蚁）组合。
+
+EN — *Angularitermes*: From Latin angularis (angular) + termes.
+
+种加词 *coninasus*：希腊文 kōnos（锥）+ 拉丁文 nasus（鼻），锥鼻
+
+EN — epithet *coninasus*: Greek kōnos (cone) + Latin nasus (nose), cone-nosed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

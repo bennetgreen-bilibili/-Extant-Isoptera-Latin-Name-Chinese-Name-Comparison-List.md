@@ -29,6 +29,18 @@ EN — **三平杆白蚁** (*Stylotermes triplanus*) is a species of the genus *
 
 ES — **三平杆白蚁** (*Stylotermes triplanus*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Ping & Liu en 1981; la localidad tipo es China: Sichuan Province: Huili Xian. Distribución: China.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *triplanus*：拉丁文 triplanus（三面的，tri=三＋planus=平面）
+
+EN — epithet *triplanus*: Latin triplanus (three-planed, tri- + planus)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

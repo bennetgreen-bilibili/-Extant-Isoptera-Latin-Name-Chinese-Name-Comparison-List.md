@@ -32,6 +32,18 @@ EN — **戴克夏娜前扭白蚁** (*Procapritermes dakshinae*) is a species of
 
 ES — **戴克夏娜前扭白蚁** (*Procapritermes dakshinae*) es una especie del género *Procapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani & Ferry en 1995; la localidad tipo es India: Kerala: on road from Kolattupuzha to Nedumangad, vicinity of village Arippal. Distribución: India, Kerala.
 
+## 词源
+
+属名 *Procapritermes*：属名由希腊文 pro-（前）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
+
+种加词 *dakshinae*：以人名 dakshin 命名（具体指向待考）
+
+EN — epithet *dakshinae*: Named after a person (dakshin), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **拉克西米锯白蚁** (*Microcerotermes laxmi*) is a species of the g
 
 ES — **拉克西米锯白蚁** (*Microcerotermes laxmi*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Roonwal & Bose en 1964; la localidad tipo es India: Rajasthan: Bikaner District, ca. 50 km w of Bikaner: Kolayat. Distribución: India.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *laxmi*：以人名 laxm 命名（具体指向待考）
+
+EN — epithet *laxmi*: Named after a person (laxm), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

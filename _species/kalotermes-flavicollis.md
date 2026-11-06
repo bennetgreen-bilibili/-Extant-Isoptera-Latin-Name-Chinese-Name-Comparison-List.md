@@ -31,6 +31,18 @@ EN — **黄颈木白蚁** (*Kalotermes flavicollis*) is a species and the type 
 
 ES — **黄颈木白蚁** (*Kalotermes flavicollis*) es una especie, y la especie tipo de su género del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Fabricius en 1793; la localidad tipo es (country unknown): "Barbaria". Distribución: Mediterranean region, Southern Europe, North Africa, West Asia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *flavicollis*：拉丁文/希腊文 flavi（黄）+ collis（颈），指黄颈
+
+EN — epithet *flavicollis*: From flavi (黄) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

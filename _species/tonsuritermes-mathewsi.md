@@ -32,6 +32,18 @@ EN — **马修斯奇囟白蚁** (*Tonsuritermes mathewsi*) is a species of the 
 
 ES — **马修斯奇囟白蚁** (*Tonsuritermes mathewsi*) es una especie del género *Tonsuritermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Constantini & Cancello en 2018; la localidad tipo es Brasil: Mato Grosso: Chapada dos Guimarães \[ 15.4606S 55.7497W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Tonsuritermes*：属名由拉丁文 tonsus（剃、剪）与 termes（白蚁）组合。
+
+EN — *Tonsuritermes*: From Latin tonsus (shorn) + termes.
+
+种加词 *mathewsi*：以人名 mathews 命名（具体指向待考）
+
+EN — epithet *mathewsi*: Named after a person (mathews), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

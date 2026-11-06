@@ -29,6 +29,18 @@ EN — **上海乳白蚁** (*Coptotermes shanghaiensis*) is a species of the gen
 
 ES — **上海乳白蚁** (*Coptotermes shanghaiensis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Xia & He en 1986; la localidad tipo es China: Shanghai. Distribución: Shanghai, China.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *shanghaiensis*：以地名 上海 命名
+
+EN — epithet *shanghaiensis*: Named after the locality Shangha
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

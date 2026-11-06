@@ -32,6 +32,18 @@ EN — **刃穴土白蚁** (*Odontotermes incisus*) is a species of the genus *O
 
 ES — **刃穴土白蚁** (*Odontotermes incisus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Sumatra: Deli. Distribución: Indonesia.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
+
+EN — epithet *incisus*: Latin incisus (incised, notched)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

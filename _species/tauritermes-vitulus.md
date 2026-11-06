@@ -29,6 +29,18 @@ EN — **公犊牛白蚁** (*Tauritermes vitulus*) is a species of the genus *Ta
 
 ES — **公犊牛白蚁** (*Tauritermes vitulus*) es una especie del género *Tauritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Araujo & Fontes en 1979; la localidad tipo es Brasil: Santa Catarina: Blumenau \[ 26.91S 49.044W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Tauritermes*：属名由拉丁文 taurus（公牛）与 termes（白蚁）组合。
+
+EN — *Tauritermes*: From Latin taurus (bull) + termes.
+
+种加词 *vitulus*：拉丁文 vitulus（小牛、牛犊）
+
+EN — epithet *vitulus*: Latin vitulus (calf)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

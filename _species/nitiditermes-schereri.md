@@ -32,6 +32,18 @@ EN — **谢勒净白蚁** (*Nitiditermes schereri*) is a species of the genus *
 
 ES — **谢勒净白蚁** (*Nitiditermes schereri*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Rosen en 1912; la localidad tipo es Liberia: Cape Mesurado. Distribución: Democratic Republic of the Congo, Guinea, Côte d'Ivoire, Liberia, Sierra Leone, Tanzania.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *schereri*：以人名 scherer 命名（具体指向待考）
+
+EN — epithet *schereri*: Named after a person (scherer), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

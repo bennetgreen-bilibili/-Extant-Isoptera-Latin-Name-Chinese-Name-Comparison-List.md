@@ -32,6 +32,18 @@ EN — **奇异前钩白蚁** (*Prohamitermes mirabilis*) is a species and the t
 
 ES — **奇异前钩白蚁** (*Prohamitermes mirabilis*) es una especie, y la especie tipo de su género del género *Prohamitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Mt. Lambir; Singapore: ?. Distribución: Malaysia, Borneo, Singapore, Indonesia.
 
+## 词源
+
+属名 *Prohamitermes*：属名由希腊文 pro-（前）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Prohamitermes*: From Greek pro- (before) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *mirabilis*：拉丁文 mirabilis（奇异的）
+
+EN — epithet *mirabilis*: Latin mirabilis (wonderful)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -33,6 +33,18 @@ EN — **鄞县夏氏白蚁** (*Xiaitermes yinxianensis*) is the only extant spe
 
 ES — **鄞县夏氏白蚁** (*Xiaitermes yinxianensis*) es la única especie viviente del género *Xiaitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Gao & He en 1994; la localidad tipo es China: Zhejiang Province: Yinxia. Distribución: China. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Xiaitermes*：属名以人名 Xia（夏）命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Xiaitermes*: Named after a person (Xia); -termes from Latin termes.
+
+种加词 *yinxianensis*：以地名 yinxian 命名（具体地名待考）
+
+EN — epithet *yinxianensis*: Named after a locality (yinxian)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

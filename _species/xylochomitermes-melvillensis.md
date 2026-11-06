@@ -32,6 +32,18 @@ EN — **梅尔维尔木堆白蚁** (*Xylochomitermes melvillensis*) is a specie
 
 ES — **梅尔维尔木堆白蚁** (*Xylochomitermes melvillensis*) es una especie del género *Xylochomitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Hill en 1915; la localidad tipo es Australia: Northern Territory: Melville Island: Garden Point (as Fort Dundas). Distribución: Australia.
 
+## 词源
+
+属名 *Xylochomitermes*：属名由希腊文 xylon（木）+ chōma（土堆）与 termes（白蚁）组合。
+
+EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
+
+种加词 *melvillensis*：以地名 梅尔维尔岛（澳大利亚） 命名
+
+EN — epithet *melvillensis*: Named after the locality Melvill
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

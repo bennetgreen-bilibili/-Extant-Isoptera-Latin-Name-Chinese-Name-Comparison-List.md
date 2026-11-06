@@ -32,6 +32,18 @@ EN — **圆胸圆球白蚁** (*Sphaerotermes sphaerothorax*) is the only extant
 
 ES — **圆胸圆球白蚁** (*Sphaerotermes sphaerothorax*) es la única especie viviente del género *Sphaerotermes*, en la familia TERMITIDAE (subfamilia Sphaerotermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria.
 
+## 词源
+
+属名 *Sphaerotermes*：属名由希腊文 sphaira（球）与拉丁文 termes（白蚁）组合。
+
+EN — *Sphaerotermes*: From Greek sphaira (sphere) + Latin termes.
+
+种加词 *sphaerothorax*：拉丁文/希腊文 sphaero（球）+ thorax（胸），指球胸
+
+EN — epithet *sphaerothorax*: From sphaero (球) + thorax (胸)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

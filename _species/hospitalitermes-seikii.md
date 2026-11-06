@@ -32,6 +32,18 @@ EN — **清木须白蚁** (*Hospitalitermes seikii*) is a species of the genus 
 
 ES — **清木须白蚁** (*Hospitalitermes seikii*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Syaukani en 2010; la localidad tipo es Indonesia: Sumatra, Padang, Hutan Pendidikan dan Penelitian Biologi (0°57’0"S 100°21’11"E). Distribución: Singapore, Malaysia, Sri Lanka, Myanmar, Thailand, Indonesia, Cambodia, Vietnam, Brunei, China, India, Philippines.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *seikii*：以人名 seik 命名（具体指向待考）
+
+EN — epithet *seikii*: Named after a person (seik), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

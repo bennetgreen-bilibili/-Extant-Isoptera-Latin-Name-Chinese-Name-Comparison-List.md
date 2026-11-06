@@ -29,6 +29,18 @@ EN — **网状长鼻白蚁** (*Schedorhinotermes reticulatus*) is a species of 
 
 ES — **网状长鼻白蚁** (*Schedorhinotermes reticulatus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Western Australia: Kalgoorlie. Distribución: Australia.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *reticulatus*：拉丁文/希腊文 reticul（网状）+ atus（具），指网状具
+
+EN — epithet *reticulatus*: From reticul (网状) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

@@ -29,6 +29,18 @@ EN — **短头真砂白蚁** (*Eucryptotermes breviceps*) is a species of the g
 
 ES — **短头真砂白蚁** (*Eucryptotermes breviceps*) es una especie del género *Eucryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Constantino en 1997; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución: South America, Brazil, French Guiana.
 
+## 词源
+
+属名 *Eucryptotermes*：属名由希腊文 eu-（良好、真）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Eucryptotermes*: From Greek eu- (well) + kryptos (hidden) + Latin termes.
+
+种加词 *breviceps*：拉丁文/希腊文 brevi（短）+ ceps（头），指短头
+
+EN — epithet *breviceps*: From brevi (短) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

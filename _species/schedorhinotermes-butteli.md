@@ -29,6 +29,18 @@ EN — **巴特尔长鼻白蚁** (*Schedorhinotermes butteli*) is a species of t
 
 ES — **巴特尔长鼻白蚁** (*Schedorhinotermes butteli*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Holmgren en 1914; la localidad tipo es Malaysia: Taiping: Maxwell’s Hill. Distribución: Malaysia.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *butteli*：以人名 buttel 命名（具体指向待考）
+
+EN — epithet *butteli*: Named after a person (buttel), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

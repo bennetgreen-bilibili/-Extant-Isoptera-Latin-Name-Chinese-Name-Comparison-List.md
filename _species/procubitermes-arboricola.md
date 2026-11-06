@@ -32,6 +32,18 @@ EN — **树栖原方白蚁** (*Procubitermes arboricola*) is a species and the 
 
 ES — **树栖原方白蚁** (*Procubitermes arboricola*) es una especie, y la especie tipo de su género del género *Procubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1897; la localidad tipo es Cameroon: Bonge. Distribución: Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Nigeria.
 
+## 词源
+
+属名 *Procubitermes*：属名由希腊文 pro-（前）+ 拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
+
+种加词 *arboricola*：拉丁文 arbor（树）+ -cola（栖居者），栖于树上
+
+EN — epithet *arboricola*: Latin arbor (tree) + -cola (dweller): tree-dwelling
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

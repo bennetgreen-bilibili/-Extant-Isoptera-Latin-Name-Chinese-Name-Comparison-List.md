@@ -34,6 +34,18 @@ EN — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) is a species 
 
 ES — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) es una especie del género *Allodontermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Zimbabwe: Harare (Salisbury). Distribución: Old World tropics (East Africa), southern Africa. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Allodontermes*：属名由希腊文 allos（别的）+ odous（齿）与 termes（白蚁）组合。
+
+EN — *Allodontermes*: From Greek allos (other) + odous (tooth) + termes.
+
+种加词 *rhodesiensis*：以地名 罗得西亚（南部非洲） 命名
+
+EN — epithet *rhodesiensis*: Named after the locality Rhodes
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

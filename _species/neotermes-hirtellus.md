@@ -29,6 +29,18 @@ EN — **粗毛新白蚁** (*Neotermes hirtellus*) is a species of the genus *Ne
 
 ES — **粗毛新白蚁** (*Neotermes hirtellus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución: South America, Brazil, Argentina.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *hirtellus*：拉丁文 hirtus（多毛）+ -ellus（小），微毛
+
+EN — epithet *hirtellus*: Latin hirtus (hairy) + -ellus (small), somewhat hairy
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

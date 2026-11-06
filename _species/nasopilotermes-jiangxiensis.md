@@ -32,6 +32,18 @@ EN — **江西棘象白蚁** (*Nasopilotermes jiangxiensis*) is the only extant
 
 ES — **江西棘象白蚁** (*Nasopilotermes jiangxiensis*) es la única especie viviente del género *Nasopilotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por He en 1988; la localidad tipo es China: Jiangxi Province: Jiulian Mountains. Distribución: China (Jiangxi).
 
+## 词源
+
+属名 *Nasopilotermes*：属名由拉丁文 nasus（鼻）+ pilus（毛）与 termes（白蚁）组合。
+
+EN — *Nasopilotermes*: From Latin nasus (nose) + pilus (hair) + termes.
+
+种加词 *jiangxiensis*：以地名 江西 命名
+
+EN — epithet *jiangxiensis*: Named after the locality Jiangx
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

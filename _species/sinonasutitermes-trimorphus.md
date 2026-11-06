@@ -32,6 +32,18 @@ EN — **三型华象白蚁** (*Sinonasutitermes trimorphus*) is a species of th
 
 ES — **三型华象白蚁** (*Sinonasutitermes trimorphus*) es una especie del género *Sinonasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li & Ping en 1986; la localidad tipo es China: Guangdong Province: Nanxiong County: Maozifeng Mt. Distribución: China.
 
+## 词源
+
+属名 *Sinonasutitermes*：属名由拉丁文 Sinae（中国）+ nasutus（具鼻突）与 termes（白蚁）组合。
+
+EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
+
+种加词 *trimorphus*：希腊文 tri-（三）+ morphē（形），三形
+
+EN — epithet *trimorphus*: Greek tri- (three) + morphē (form), trimorphic
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

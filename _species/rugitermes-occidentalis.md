@@ -29,6 +29,18 @@ EN — **西部皱白蚁** (*Rugitermes occidentalis*) is a species of the genus
 
 ES — **西部皱白蚁** (*Rugitermes occidentalis*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Argentina: Tucumán: Santa Ana \[ 27.4667S 65.6833W \]. Distribución: Brazil, Argentina, Uruguay.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *occidentalis*：拉丁文 occidentalis（西方的）
+
+EN — epithet *occidentalis*: Latin occidentalis (western)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

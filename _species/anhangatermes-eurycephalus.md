@@ -32,6 +32,18 @@ EN — **宽头魔白蚁** (*Anhangatermes eurycephalus*) is a species of the ge
 
 ES — **宽头魔白蚁** (*Anhangatermes eurycephalus*) es una especie del género *Anhangatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2014; la localidad tipo es Brasil: Amazonas: Rodovia ZF3 km 41 \[2.445S 59.7833W\]. Distribución: Brazil, Colombia, French Guiana.
 
+## 词源
+
+属名 *Anhangatermes*：属名由图皮语 Anhangá（神话中的森林保护精灵）或同名地名与 -termes 组合。
+
+EN — *Anhangatermes*: From Tupi Anhangá (a mythical forest spirit) or the place name + -termes.
+
+种加词 *eurycephalus*：希腊文 eurys（宽）+ kephalē（头），宽头
+
+EN — epithet *eurycephalus*: Greek eurys (broad) + kephalē (head), broad-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

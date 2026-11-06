@@ -32,6 +32,18 @@ EN — **法布里克象白蚁** (*Nasutitermes fabricii*) is a species of the g
 
 ES — **法布里克象白蚁** (*Nasutitermes fabricii*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es India: Nicobar Islands: Little Nicobar Island. Distribución: India.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *fabricii*：以人名 fabric 命名（丹麦昆虫学家 J. C. Fabricius）
+
+EN — epithet *fabricii*: Named after 丹麦昆虫学家 J. C. Fabricius
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -34,6 +34,18 @@ EN — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) is a species of the
 
 ES — **锡兰近扭白蚁** (*Pericapritermes ceylonicus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Peradeniya. Distribución: India, Sri Lanka. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
+
+种加词 *ceylonicus*：地名：锡兰（斯里兰卡）
+
+EN — epithet *ceylonicus*: After Ceylon (Sri Lanka)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

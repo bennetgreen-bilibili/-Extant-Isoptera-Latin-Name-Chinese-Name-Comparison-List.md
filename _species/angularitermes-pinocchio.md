@@ -32,6 +32,18 @@ EN — **松果棱角白蚁** (*Angularitermes pinocchio*) is a species of the g
 
 ES — **松果棱角白蚁** (*Angularitermes pinocchio*) es una especie del género *Angularitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cancello & Brandão en 1996; la localidad tipo es Brasil: Goiás: Goiânia \[16.67S 49.27W\]. Distribución: Brazil, Peru.
 
+## 词源
+
+属名 *Angularitermes*：属名由拉丁文 angularis（有角的、具棱的）与 termes（白蚁）组合。
+
+EN — *Angularitermes*: From Latin angularis (angular) + termes.
+
+种加词 *pinocchio*：意大利童话人物 Pinocchio（匹诺曹，长鼻木偶）
+
+EN — epithet *pinocchio*: Pinocchio (the long-nosed puppet)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

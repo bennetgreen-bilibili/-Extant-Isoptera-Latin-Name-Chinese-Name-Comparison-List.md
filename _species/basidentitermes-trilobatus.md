@@ -32,6 +32,18 @@ EN — **三裂基齿白蚁** (*Basidentitermes trilobatus*) is a species of the
 
 ES — **三裂基齿白蚁** (*Basidentitermes trilobatus*) es una especie del género *Basidentitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Noirot en 1955; la localidad tipo es Angola: Luimbale: Serra do Moco. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Basidentitermes*：属名由希腊文 basis（基部）+ 拉丁文 dens（齿）与 termes（白蚁）组合。
+
+EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
+
+种加词 *trilobatus*：拉丁文 tri-（三）+ lobatus（有叶），三叶
+
+EN — epithet *trilobatus*: Latin tri- (three) + lobatus (lobed), three-lobed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) is a species o
 
 ES — **布鲁姆长颚白蚁** (*Macrognathotermes broomensis*) es una especie del género *Macrognathotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Western Australia: Broome. Distribución: Australia.
 
+## 词源
+
+属名 *Macrognathotermes*：属名由希腊文 makros（大）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Macrognathotermes*: From Greek makros (large) + gnathos (jaw) + Latin termes.
+
+种加词 *broomensis*：以地名 布鲁姆（澳大利亚） 命名
+
+EN — epithet *broomensis*: Named after the locality Broom
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

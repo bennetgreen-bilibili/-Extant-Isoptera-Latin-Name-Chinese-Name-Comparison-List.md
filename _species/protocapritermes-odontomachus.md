@@ -32,6 +32,18 @@ EN — **齿颚始扭白蚁** (*Protocapritermes odontomachus*) is a species of 
 
 ES — **齿颚始扭白蚁** (*Protocapritermes odontomachus*) es una especie del género *Protocapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Desneux en 1905; la localidad tipo es Papua New Guinea: Sattelberg. Distribución: Australia, Papua New Guinea, Solomon Islands.
 
+## 词源
+
+属名 *Protocapritermes*：属名由希腊文 prōtos（最初）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Protocapritermes*: From Greek prōtos (first) + Latin caper (goat) + termes.
+
+种加词 *odontomachus*：希腊文 odous（齿）+ machē（战斗），齿战士
+
+EN — epithet *odontomachus*: Greek odous (tooth) + machē (battle), tooth-warrior
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

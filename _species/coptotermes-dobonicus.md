@@ -29,6 +29,18 @@ EN — **多波乳白蚁** (*Coptotermes dobonicus*) is a species of the genus *
 
 ES — **多波乳白蚁** (*Coptotermes dobonicus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Oshima en 1914; la localidad tipo es Papua New Guinea: Arue Island: Dobo. Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *dobonicus*：以地名 dobon 命名（具体地名待考）
+
+EN — epithet *dobonicus*: Named after a locality (dobon)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

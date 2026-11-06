@@ -29,6 +29,18 @@ EN — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) is a specie
 
 ES — **橄榄坝长鼻白蚁** (*Schedorhinotermes ganlanbaensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Xia & He en 1980; la localidad tipo es China: Yunnan Province: Jinghong. Distribución: China (Yunnan).
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *ganlanbaensis*：以地名 橄榄坝（云南） 命名
+
+EN — epithet *ganlanbaensis*: Named after the locality Ganlanba
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

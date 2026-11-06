@@ -29,6 +29,18 @@ EN — **西奈头长白蚁** (*Longicaputermes sinaicus*) is the only extant sp
 
 ES — **西奈头长白蚁** (*Longicaputermes sinaicus*) es la única especie viviente del género *Longicaputermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Kemner en 1932; la localidad tipo es Egypt: Sinai Peninsula: Gabr. Amir. Distribución: Sinai Peninsula, Egypt, Israel.
 
+## 词源
+
+属名 *Longicaputermes*：属名由拉丁文 longus（长）+ caput（头）与 termes（白蚁）组合。
+
+EN — *Longicaputermes*: From Latin longus (long) + caput (head) + termes.
+
+种加词 *sinaicus*：以地名 Sinai（西奈半岛，埃及）命名
+
+EN — epithet *sinaicus*: Named after Sinai (peninsula, Egypt)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

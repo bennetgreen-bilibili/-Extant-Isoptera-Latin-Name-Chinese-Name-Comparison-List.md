@@ -32,6 +32,18 @@ EN — **苍白凸鼻白蚁** (*Coatitermes pallidus*) is a species of the genus
 
 ES — **苍白凸鼻白蚁** (*Coatitermes pallidus*) es una especie del género *Coatitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: El Beni: Ivón \[11.13S 66.13W\]. Distribución: Colombia, Bolivia, Ecuador, Peru.
 
+## 词源
+
+属名 *Coatitermes*：属名由图皮语 Coati（南美长鼻浣熊）与 termes（白蚁）组合。
+
+EN — *Coatitermes*: From Tupi Coati (coati) + termes.
+
+种加词 *pallidus*：拉丁文 pallidus（苍白的）
+
+EN — epithet *pallidus*: Latin pallidus (pale)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

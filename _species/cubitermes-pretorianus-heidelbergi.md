@@ -33,6 +33,18 @@ EN — **海德堡亚种** (*Cubitermes pretorianus heidelbergi*) is a subspecie
 
 ES — **海德堡亚种** (*Cubitermes pretorianus heidelbergi*) es una subespecie de *Cubitermes pretorianus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Cubitermes*. La subespecie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Transvaal: Heidelberg. No se incluye un registro de distribución separado en esta página; véase la especie parental *Cubitermes pretorianus*.
 
+## 词源
+
+属名 *Cubitermes*：属名由拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
+
+种加词 *heidelbergi*：以地名 Heidelberg（海德堡，德国）命名
+
+EN — epithet *heidelbergi*: Named after Heidelberg (Germany)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

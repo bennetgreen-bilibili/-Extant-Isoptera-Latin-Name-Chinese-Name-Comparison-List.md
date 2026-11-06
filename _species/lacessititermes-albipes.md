@@ -32,6 +32,18 @@ EN — **白足怒白蚁** (*Lacessititermes albipes*) is a species of the genus
 
 ES — **白足怒白蚁** (*Lacessititermes albipes*) es una especie del género *Lacessititermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Lacessititermes*：属名由拉丁文 lacessitus（被挑衅的、被攻击的）与 termes（白蚁）组合。
+
+EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
+
+种加词 *albipes*：拉丁文/希腊文 albi（白）+ pes（足），指白足
+
+EN — epithet *albipes*: From albi (白) + pes (足)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

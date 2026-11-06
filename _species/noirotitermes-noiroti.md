@@ -32,6 +32,18 @@ EN — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) is the only extant
 
 ES — **努瓦罗努瓦罗白蚁** (*Noirotitermes noiroti*) es la única especie viviente del género *Noirotitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Cancello & Myles en 2000; la localidad tipo es Brasil: Piauí: Corrente, Fazenda Maracujá \[10.348S 45.166W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Noirotitermes*：属名以人名 Noirot 命名（法国白蚁学家 C. Noirot），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Noirotitermes*: Named after the termite biologist C. Noirot; -termes from Latin termes.
+
+种加词 *noiroti*：以人名 noirot 命名（法国白蚁生物学家 C. Noirot）
+
+EN — epithet *noiroti*: Named after 法国白蚁生物学家 C. Noirot
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

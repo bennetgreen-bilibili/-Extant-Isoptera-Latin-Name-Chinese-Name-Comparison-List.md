@@ -32,6 +32,18 @@ EN — **两段小真白蚁** (*Eutermellus bipartitus*) is a species of the gen
 
 ES — **两段小真白蚁** (*Eutermellus bipartitus*) es una especie del género *Eutermellus*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: tropical Africa.
 
+## 词源
+
+属名 *Eutermellus*：属名由希腊文 eu-（良好、真）与 termes（白蚁）+ 拉丁文指小后缀 -ellus 组合。
+
+EN — *Eutermellus*: From Greek eu- (well) + termes + Latin diminutive -ellus.
+
+种加词 *bipartitus*：拉丁文 bipartitus（二分的）
+
+EN — epithet *bipartitus*: Latin bipartitus (divided in two)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **佩雷斯前新白蚁** (*Proneotermes perezi*) is a species and the ty
 
 ES — **佩雷斯前新白蚁** (*Proneotermes perezi*) es una especie, y la especie tipo de su género del género *Proneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Costa Rica: San José. Distribución: Costa Rica, Guatemala, Honduras, Panama.
 
+## 词源
+
+属名 *Proneotermes*：属名由希腊文 pro-（前）+ neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
+
+种加词 *perezi*：以人名 perez 命名（具体指向待考）
+
+EN — epithet *perezi*: Named after a person (perez), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

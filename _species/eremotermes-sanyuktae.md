@@ -32,6 +32,18 @@ EN — **女神漠白蚁** (*Eremotermes sanyuktae*) is a species of the genus *
 
 ES — **女神漠白蚁** (*Eremotermes sanyuktae*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Thakur en 1989; la localidad tipo es India: Gujarat: Surat district: Magdall port area. Distribución: India.
 
+## 词源
+
+属名 *Eremotermes*：属名由希腊文 erēmos（荒漠、孤独）与拉丁文 termes（白蚁）组合。
+
+EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
+
+种加词 *sanyuktae*：以人名 sanyukt 命名（具体指向待考）
+
+EN — epithet *sanyuktae*: Named after a person (sanyukt), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

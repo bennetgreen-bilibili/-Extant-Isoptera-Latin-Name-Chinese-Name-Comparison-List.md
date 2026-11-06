@@ -32,6 +32,18 @@ EN — **基斯特纳长足白蚁** (*Longipeditermes kistneri*) is a species of
 
 ES — **基斯特纳长足白蚁** (*Longipeditermes kistneri*) es una especie del género *Longipeditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Akhtar & Ahmad en 1985; la localidad tipo es Indonesia: Java: Lengkong Forest Reserve. Distribución: Malaysia, Indonesia.
 
+## 词源
+
+属名 *Longipeditermes*：属名由拉丁文 longus（长）+ pes（足）与 termes（白蚁）组合。
+
+EN — *Longipeditermes*: From Latin longus (long) + pes (foot) + termes.
+
+种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
+
+EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

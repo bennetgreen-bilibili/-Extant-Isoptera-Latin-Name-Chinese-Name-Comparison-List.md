@@ -29,6 +29,18 @@ EN — **半月楹白蚁** (*Incisitermes semilunaris*) is a species of the genu
 
 ES — **半月楹白蚁** (*Incisitermes semilunaris*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es New Caledonia (French): Loyalty Islands: Ouvéa. Distribución: New Caledonia.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *semilunaris*：拉丁文 semi-（半）+ luna（月），半月形
+
+EN — epithet *semilunaris*: Latin semi- (half) + luna (moon), half-moon
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

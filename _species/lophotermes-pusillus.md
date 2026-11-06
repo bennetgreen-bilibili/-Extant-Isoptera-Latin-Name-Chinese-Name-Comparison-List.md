@@ -32,6 +32,18 @@ EN — **极小小脊突白蚁** (*Lophotermes pusillus*) is a species of the ge
 
 ES — **极小小脊突白蚁** (*Lophotermes pusillus*) es una especie del género *Lophotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Western Australia: West Angelas. Distribución: Australia.
 
+## 词源
+
+属名 *Lophotermes*：属名由希腊文 lophos（冠、脊）与拉丁文 termes（白蚁）组合。
+
+EN — *Lophotermes*: From Greek lophos (crest, ridge) + Latin termes.
+
+种加词 *pusillus*：拉丁文/希腊文词根「pusill」（很小）
+
+EN — epithet *pusillus*: From the descriptive term 'pusill' (tiny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

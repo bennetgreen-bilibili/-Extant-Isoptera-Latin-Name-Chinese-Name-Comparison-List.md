@@ -32,6 +32,18 @@ EN — **阿西尔角白蚁** (*Angulitermes asirensis*) is a species of the gen
 
 ES — **阿西尔角白蚁** (*Angulitermes asirensis*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Chhotani & Bose en 1991; la localidad tipo es Saudi Arabia: Rahifa: Asir. Distribución: Saudi Arabia.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *asirensis*：以地名 阿西尔（沙特阿拉伯） 命名
+
+EN — epithet *asirensis*: Named after the locality Asir
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

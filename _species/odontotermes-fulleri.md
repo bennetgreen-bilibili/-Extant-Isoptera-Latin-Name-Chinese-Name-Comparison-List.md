@@ -32,6 +32,18 @@ EN — **富勒土白蚁** (*Odontotermes fulleri*) is a species of the genus *O
 
 ES — **富勒土白蚁** (*Odontotermes fulleri*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Democratic Republic of the Congo: Niangara. Distribución: East Africa, Kenya, Central African Republic, Democratic Republic of the Congo, Uganda.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *fulleri*：以人名 fuller 命名（南非昆虫学家 C. Fuller）
+
+EN — epithet *fulleri*: Named after 南非昆虫学家 C. Fuller
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

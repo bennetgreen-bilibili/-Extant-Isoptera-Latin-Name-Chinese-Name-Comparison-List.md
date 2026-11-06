@@ -32,6 +32,18 @@ EN — **尼泊尔角白蚁** (*Angulitermes nepalensis*) is a species of the ge
 
 ES — **尼泊尔角白蚁** (*Angulitermes nepalensis*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Mukherjee & Maiti en 2008; la localidad tipo es Nepal: 10 miles NE Tanakpur, Nepal Forest. Distribución: Nepal.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *nepalensis*：以地名 尼泊尔 命名
+
+EN — epithet *nepalensis*: Named after the locality Nepal
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **毛额发白蚁** (*Trichotermes villifrons*) is a species and the type
 
 ES — **毛额发白蚁** (*Trichotermes villifrons*) es una especie, y la especie tipo de su género del género *Trichotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Africa, Democratic Republic of the Congo, Central Africa, Republic of the Congo.
 
+## 词源
+
+属名 *Trichotermes*：属名由希腊文 thrix（毛、发）与拉丁文 termes（白蚁）组合。
+
+EN — *Trichotermes*: From Greek thrix (hair) + Latin termes.
+
+种加词 *villifrons*：拉丁文/希腊文 villi（长毛）+ frons（额），指长毛额
+
+EN — epithet *villifrons*: From villi (长毛) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

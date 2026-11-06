@@ -32,6 +32,18 @@ EN — **派瓦稀白蚁** (*Speculitermes paivai*) is a species of the genus *S
 
 ES — **派瓦稀白蚁** (*Speculitermes paivai*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Roonwal & Chhotani en 1962; la localidad tipo es India: Bihar: Santal Parganas District: Madhupur. Distribución: South Asia, India.
 
+## 词源
+
+属名 *Speculitermes*：属名由拉丁文 speculum（镜、斑）与 termes（白蚁）组合。
+
+EN — *Speculitermes*: From Latin speculum (mirror) + termes.
+
+种加词 *paivai*：以人名 paiva 命名（具体指向待考）
+
+EN — epithet *paivai*: Named after a person (paiva), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

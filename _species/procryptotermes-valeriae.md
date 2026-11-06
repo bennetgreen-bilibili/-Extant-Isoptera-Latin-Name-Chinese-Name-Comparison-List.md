@@ -29,6 +29,18 @@ EN — **瓦莱里前砂白蚁** (*Procryptotermes valeriae*) is a species of th
 
 ES — **瓦莱里前砂白蚁** (*Procryptotermes valeriae*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Bose en 1979; la localidad tipo es India: Tamil Nadu: between 11–12 milestones from Nagercoil, TirunelvelliNagercoil Road. Distribución: India.
 
+## 词源
+
+属名 *Procryptotermes*：属名由希腊文 pro-（前、早）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
+
+种加词 *valeriae*：以人名 valeri 命名（具体指向待考）
+
+EN — epithet *valeriae*: Named after a person (valeri), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

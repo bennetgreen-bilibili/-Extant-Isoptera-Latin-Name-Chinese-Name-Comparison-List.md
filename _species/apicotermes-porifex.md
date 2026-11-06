@@ -32,6 +32,18 @@ EN — **具孔尖白蚁** (*Apicotermes porifex*) is a species of the genus *Ap
 
 ES — **具孔尖白蚁** (*Apicotermes porifex*) es una especie del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1953; la localidad tipo es Democratic Republic of the Congo: Luluabourg. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Apicotermes*：属名由拉丁文 apex（尖、顶）与 termes（白蚁）组合。
+
+EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
+
+种加词 *porifex*：拉丁文 porus（孔）+ -fex（作者），孔作者
+
+EN — epithet *porifex*: Latin porus (pore) + -fex (maker)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

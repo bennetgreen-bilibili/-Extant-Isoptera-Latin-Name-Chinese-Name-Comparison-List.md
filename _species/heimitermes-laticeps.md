@@ -32,6 +32,18 @@ EN — **宽头埃姆白蚁** (*Heimitermes laticeps*) is a species and the type
 
 ES — **宽头埃姆白蚁** (*Heimitermes laticeps*) es una especie, y la especie tipo de su género del género *Heimitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Grassé & Noirot en 1955; la localidad tipo es Congo: Ebana, near Etoumbi. Distribución: Central Africa, Cameroon, Nigeria.
 
+## 词源
+
+属名 *Heimitermes*：属名以人名 Heim 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Heimitermes*: Named after a person (Heim); -termes from Latin termes.
+
+种加词 *laticeps*：拉丁文 latus（宽）+ -ceps（头），宽头
+
+EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

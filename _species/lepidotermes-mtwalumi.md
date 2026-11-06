@@ -32,6 +32,18 @@ EN — **姆图瓦卢米鳞白蚁** (*Lepidotermes mtwalumi*) is a species of th
 
 ES — **姆图瓦卢米鳞白蚁** (*Lepidotermes mtwalumi*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Natal: High Flats, headwaters of Mtwalumi River. Distribución: southern Africa, South Africa.
 
+## 词源
+
+属名 *Lepidotermes*：属名由希腊文 lepis（鳞）与拉丁文 termes（白蚁）组合。
+
+EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
+
+种加词 *mtwalumi*：以人名 mtwalum 命名（具体指向待考）
+
+EN — epithet *mtwalumi*: Named after a person (mtwalum), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

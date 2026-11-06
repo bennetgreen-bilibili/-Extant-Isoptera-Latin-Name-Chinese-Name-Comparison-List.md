@@ -32,6 +32,18 @@ EN — **安的列斯微白蚁** (*Parvitermes antillarum*) is a species of the 
 
 ES — **安的列斯微白蚁** (*Parvitermes antillarum*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Dominican Republic: Santo Domingo. Distribución: Haiti, Dominican Republic.
 
+## 词源
+
+属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
+
+EN — *Parvitermes*: From Latin parvus (small) + termes.
+
+种加词 *antillarum*：以人名 antill 命名（具体指向待考）
+
+EN — epithet *antillarum*: Named after a person (antill), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

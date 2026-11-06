@@ -32,6 +32,18 @@ EN — **希卡帕土白蚁** (*Odontotermes chicapanensis*) is a species of the
 
 ES — **希卡帕土白蚁** (*Odontotermes chicapanensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Weidner en 1956; la localidad tipo es Angola: Étang Shá-Mutuka: Alto Chicapa, 400 km SSE of Dundo. Distribución: southern Africa, Angola.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *chicapanensis*：以地名 chicapan 命名（具体地名待考）
+
+EN — epithet *chicapanensis*: Named after a locality (chicapan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

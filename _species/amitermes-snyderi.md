@@ -32,6 +32,18 @@ EN — **斯奈德弓白蚁** (*Amitermes snyderi*) is a species of the genus *A
 
 ES — **斯奈德弓白蚁** (*Amitermes snyderi*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1930; la localidad tipo es United States: California: Riverside Co.: Cabazon; California: San Bernardino Co.: Narrows; California: San Bernardino Co.: Rice; California: San Bernardino Co.: Victorville; California: San Diego Co.: San Felipe Ranch. Distribución: United States.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *snyderi*：以人名 Snyder 命名（美国白蚁学家 T. E. Snyder）
+
+EN — epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

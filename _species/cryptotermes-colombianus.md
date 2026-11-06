@@ -29,6 +29,18 @@ EN — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) is a species of
 
 ES — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Casalla, Scheffrahn & Korb en 2016; la localidad tipo es Colombia: Magdalena: Tayrona National Natural Park, Gairaca Bay \[ 11.3152N 74.1032W \]. Distribución: Colombia.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *colombianus*：以人名 colomb 命名（具体指向待考）
+
+EN — epithet *colombianus*: Named after a person (colomb), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

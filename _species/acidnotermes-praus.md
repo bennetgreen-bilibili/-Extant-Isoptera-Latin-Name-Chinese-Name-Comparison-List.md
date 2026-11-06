@@ -32,6 +32,18 @@ EN — **短肠虚白蚁** (*Acidnotermes praus*) is the only extant species of 
 
 ES — **短肠虚白蚁** (*Acidnotermes praus*) es la única especie viviente del género *Acidnotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: tropical Africa.
 
+## 词源
+
+属名 *Acidnotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Acidnotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *praus*：希腊文 praos（温和的）
+
+EN — epithet *praus*: Greek praos (gentle)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

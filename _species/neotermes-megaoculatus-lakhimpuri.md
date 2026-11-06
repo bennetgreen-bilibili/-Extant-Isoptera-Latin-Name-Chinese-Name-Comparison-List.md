@@ -30,6 +30,18 @@ EN — **勒金布尔亚种** (*Neotermes megaoculatus lakhimpuri*) is a subspec
 
 ES — **勒金布尔亚种** (*Neotermes megaoculatus lakhimpuri*) es una subespecie de *Neotermes megaoculatus*, en la familia KALOTERMITIDAE, género *Neotermes*. La subespecie fue descrita por Roonwal & Sen-Sarma en 1960; la localidad tipo es India: Assam: Lakhimpur: Makum. No se incluye un registro de distribución separado en esta página; véase la especie parental *Neotermes megaoculatus*.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *lakhimpuri*：以地名 Lakhimpur（勒金布尔，印度阿萨姆）命名
+
+EN — epithet *lakhimpuri*: Named after Lakhimpur (Assam, India)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

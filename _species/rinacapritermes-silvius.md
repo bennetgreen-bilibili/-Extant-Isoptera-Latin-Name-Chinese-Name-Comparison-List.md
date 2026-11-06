@@ -32,6 +32,18 @@ EN — **林栖丽娜扭白蚁** (*Rinacapritermes silvius*) is a species and th
 
 ES — **林栖丽娜扭白蚁** (*Rinacapritermes silvius*) es una especie, y la especie tipo de su género del género *Rinacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2022; la localidad tipo es India: Kerala: Ernakulam, Urulanthanni \[ 10.1281N 76.755E \]. Distribución: India.
 
+## 词源
+
+属名 *Rinacapritermes*：属名由希腊文 rhis（鼻）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Rinacapritermes*: From Greek rhis (nose) + Latin caper (goat) + termes.
+
+种加词 *silvius*：拉丁文 silva（森林），森林的
+
+EN — epithet *silvius*: Latin silva (forest), of the woods
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

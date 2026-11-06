@@ -32,6 +32,18 @@ EN — **穆尔埃姆白蚁** (*Heimitermes moorei*) is a species of the genus *
 
 ES — **穆尔埃姆白蚁** (*Heimitermes moorei*) es una especie del género *Heimitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Emerson en 1959; la localidad tipo es Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Putnam, Epulu River. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Heimitermes*：属名以人名 Heim 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Heimitermes*: Named after a person (Heim); -termes from Latin termes.
+
+种加词 *moorei*：以人名 moore 命名（具体指向待考）
+
+EN — epithet *moorei*: Named after a person (moore), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

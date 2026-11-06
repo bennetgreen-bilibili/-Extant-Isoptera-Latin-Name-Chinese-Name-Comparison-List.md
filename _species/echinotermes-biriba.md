@@ -32,6 +32,18 @@ EN — **比里巴多刺白蚁** (*Echinotermes biriba*) is the only extant spec
 
 ES — **比里巴多刺白蚁** (*Echinotermes biriba*) es la única especie viviente del género *Echinotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Castro & Scheffrahn en 2020; la localidad tipo es Colombia: Caquetá, Belén de los Andaquíes \[ 1.60794N 75.8868W \]. Distribución: South America, Colombia, Peru.
 
+## 词源
+
+属名 *Echinotermes*：属名由希腊文 echinos（刺猬、棘）与拉丁文 termes（白蚁）组合。
+
+EN — *Echinotermes*: From Greek echinos (hedgehog, spine) + Latin termes.
+
+种加词 *biriba*：图皮语土名 biriba（一种树/果实）
+
+EN — epithet *biriba*: Tupi vernacular name biriba (a tree/fruit)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

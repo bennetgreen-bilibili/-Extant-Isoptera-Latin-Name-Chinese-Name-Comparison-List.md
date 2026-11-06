@@ -31,6 +31,18 @@ EN — **莫桑比克草白蚁** (*Hodotermes mossambicus*) is a species and the
 
 ES — **莫桑比克草白蚁** (*Hodotermes mossambicus*) es una especie, y la especie tipo de su género del género *Hodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Hagen en 1853; la localidad tipo es Mozambique: ?. Distribución: southern and eastern Africa. Este sitio registra 10 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Hodotermes*：属名由希腊文 hodos（道路、路径）与拉丁文 termes（白蚁）组合。
+
+EN — *Hodotermes*: From Greek hodos (way, path) + Latin termes.
+
+种加词 *mossambicus*：以地名 莫桑比克 命名
+
+EN — epithet *mossambicus*: Named after the locality Mossamb
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

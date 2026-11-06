@@ -32,6 +32,18 @@ EN — **约翰查普曼客白蚁** (*Inquilinitermes johnchapmani*) is a specie
 
 ES — **约翰查普曼客白蚁** (*Inquilinitermes johnchapmani*) es una especie del género *Inquilinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Scheffrahn en 2014; la localidad tipo es Bolivia: El Beni: Trinidad \[14.702S 64.89W\]. Distribución: Bolivia.
 
+## 词源
+
+属名 *Inquilinitermes*：属名由拉丁文 inquilinus（寄居的、客居的）与 termes（白蚁）组合。
+
+EN — *Inquilinitermes*: From Latin inquilinus (inquiline) + termes.
+
+种加词 *johnchapmani*：以人名 johnchapman 命名（具体指向待考）
+
+EN — epithet *johnchapmani*: Named after a person (johnchapman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

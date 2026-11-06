@@ -32,6 +32,18 @@ EN — **凹瘤白蚁** (*Mirocapritermes concaveus*) is a species of the genus 
 
 ES — **凹瘤白蚁** (*Mirocapritermes concaveus*) es una especie del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Khao Yai. Distribución: Thailand.
 
+## 词源
+
+属名 *Mirocapritermes*：属名由拉丁文 mirus（奇异的）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
+
+种加词 *concaveus*：拉丁文/希腊文 concav（凹）+ eus（相关），指凹相关
+
+EN — epithet *concaveus*: From concav (凹) + eus (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

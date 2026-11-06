@@ -32,6 +32,18 @@ EN — **地下锐颚白蚁** (*Hoplognathotermes submissus*) is a species of th
 
 ES — **地下锐颚白蚁** (*Hoplognathotermes submissus*) es una especie del género *Hoplognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Cameroon: Victoria. Distribución: Old World tropics, Cameroon.
 
+## 词源
+
+属名 *Hoplognathotermes*：属名由希腊文 hoplon（武器）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Hoplognathotermes*: From Greek hoplon (weapon) + gnathos (jaw) + Latin termes.
+
+种加词 *submissus*：拉丁文/希腊文词根「sub」（下、近）
+
+EN — epithet *submissus*: From the descriptive term 'sub' (sub-)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **非凡双戟白蚁** (*Dihoplotermes inusitatus*) is a species and the 
 
 ES — **非凡双戟白蚁** (*Dihoplotermes inusitatus*) es una especie, y la especie tipo de su género del género *Dihoplotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Araujo en 1961; la localidad tipo es Brasil: São Paulo: São Paulo \[23.53S 46.62W\]. Distribución: South America, Brazil, French Guiana, Argentina, Bolivia, Paraguay, Uruguay.
 
+## 词源
+
+属名 *Dihoplotermes*：属名由希腊文 di-（二）+ hoplon（武器）与拉丁文 termes（白蚁）组合。
+
+EN — *Dihoplotermes*: From Greek di- (two) + hoplon (weapon) + Latin termes.
+
+种加词 *inusitatus*：拉丁文 inusitatus（异常的、罕见的）
+
+EN — epithet *inusitatus*: Latin inusitatus (unusual)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

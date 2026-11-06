@@ -32,6 +32,18 @@ EN — **巴拉望怒白蚁** (*Lacessititermes palawanensis*) is a species of t
 
 ES — **巴拉望怒白蚁** (*Lacessititermes palawanensis*) es una especie del género *Lacessititermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Light en 1930; la localidad tipo es Philippines: Palawan: Iwahig. Distribución: Philippines.
 
+## 词源
+
+属名 *Lacessititermes*：属名由拉丁文 lacessitus（被挑衅的、被攻击的）与 termes（白蚁）组合。
+
+EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
+
+种加词 *palawanensis*：以地名 巴拉望（菲律宾） 命名
+
+EN — epithet *palawanensis*: Named after the locality Palawan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

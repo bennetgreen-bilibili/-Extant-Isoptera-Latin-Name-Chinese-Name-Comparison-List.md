@@ -32,6 +32,18 @@ EN — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) is a species of the ge
 
 ES — **黄色钝颚白蚁** (*Ahmaditermes parafulvus*) es una especie del género *Ahmaditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: China, Vietnam.
 
+## 词源
+
+属名 *Ahmaditermes*：属名以人名 Ahmad 命名（巴基斯坦白蚁学家 Muzaffer Ahmad），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ahmaditermes*: Named after the termite taxonomist Muzaffer Ahmad; -termes from Latin termes.
+
+种加词 *parafulvus*：拉丁文/希腊文词根「para」（旁）
+
+EN — epithet *parafulvus*: From the descriptive term 'para' (beside)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

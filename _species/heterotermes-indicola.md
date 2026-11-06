@@ -29,6 +29,18 @@ EN — **印度异白蚁** (*Heterotermes indicola*) is a species of the genus *
 
 ES — **印度异白蚁** (*Heterotermes indicola*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Mumbai. Distribución: South Asia, Pakistan, India, Afghanistan, Iran.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *indicola*：拉丁文 India（印度）+ -cola（栖居者），栖于印度
+
+EN — epithet *indicola*: Latin India + -cola (dweller): dwelling in India
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -29,6 +29,18 @@ EN — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) is a species of the 
 
 ES — **流浪长鼻白蚁** (*Schedorhinotermes derosus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Hill en 1933; la localidad tipo es Australia: Western Australia: Derby. Distribución: Australia.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *derosus*：拉丁文 derosus（被啃蚀的）
+
+EN — epithet *derosus*: Latin derosus (gnawed, eroded)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

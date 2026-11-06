@@ -32,6 +32,18 @@ EN — **刺胸刺白蚁** (*Acanthotermes acanthothorax*) is the only extant sp
 
 ES — **刺胸刺白蚁** (*Acanthotermes acanthothorax*) es la única especie viviente del género *Acanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1898; la localidad tipo es Cameroon: Ekundu; Kitta. Distribución: Old World tropics, West Africa, Central Africa, East Africa.
 
+## 词源
+
+属名 *Acanthotermes*：属名由希腊文 akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Acanthotermes*: From Greek akantha (thorn) + Latin termes.
+
+种加词 *acanthothorax*：拉丁文/希腊文 acantho（刺）+ thorax（胸），指刺胸
+
+EN — epithet *acanthothorax*: From acantho (刺) + thorax (胸)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

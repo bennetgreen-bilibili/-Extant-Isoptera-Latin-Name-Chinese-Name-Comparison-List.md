@@ -29,6 +29,18 @@ EN — **特里普拉树白蚁** (*Glyptotermes tripurensis*) is a species of th
 
 ES — **特里普拉树白蚁** (*Glyptotermes tripurensis*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Thakur en 1975; la localidad tipo es India: Tripura: Tiliamura. Distribución: India.
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *tripurensis*：以地名 特里普拉（印度） 命名
+
+EN — epithet *tripurensis*: Named after the locality Tripur
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

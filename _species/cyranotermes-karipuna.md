@@ -32,6 +32,18 @@ EN — **卡日普纳巨鼻白蚁** (*Cyranotermes karipuna*) is a species of th
 
 ES — **卡日普纳巨鼻白蚁** (*Cyranotermes karipuna*) es una especie del género *Cyranotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Rocha, Carrijo & Cancello en 2012; la localidad tipo es Brasil: Rondônia: Porto Velho, Jaci Paraná \[8.76194S 63.9039W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Cyranotermes*：属名由 Cyrano（戏剧人物 Cyrano de Bergerac，以长鼻著称）与 termes（白蚁）组合，指其长鼻状额突。
+
+EN — *Cyranotermes*: From Cyrano (de Bergerac, famed for his long nose) + termes, for the long nasus.
+
+种加词 *karipuna*：卡里普纳族（巴西原住民）
+
+EN — epithet *karipuna*: After the Karipuna people (Brazil)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

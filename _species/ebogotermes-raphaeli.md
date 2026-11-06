@@ -32,6 +32,18 @@ EN — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) is the only extant 
 
 ES — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) es la única especie viviente del género *Ebogotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn & Roisin en 2021; la localidad tipo es Cameroon: Mbalmayo Forest Reserve: Ebogo \[ 3.382N 11.463E \]. Distribución: Cameroon.
 
+## 词源
+
+属名 *Ebogotermes*：属名以地名（或土名）Ebogo 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ebogotermes*: From the place name Ebogo; -termes from Latin termes.
+
+种加词 *raphaeli*：以人名 raphael 命名（具体指向待考）
+
+EN — epithet *raphaeli*: Named after a person (raphael), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

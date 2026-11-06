@@ -32,6 +32,18 @@ EN — **巴勒斯坦锯白蚁** (*Microcerotermes palestinensis*) is a species 
 
 ES — **巴勒斯坦锯白蚁** (*Microcerotermes palestinensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Spaeth en 1964; la localidad tipo es Israel: Wadi Abyad (Nahal Lavan). Distribución: Middle East, Israel, India.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *palestinensis*：以地名 巴勒斯坦 命名
+
+EN — epithet *palestinensis*: Named after the locality Palestin
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

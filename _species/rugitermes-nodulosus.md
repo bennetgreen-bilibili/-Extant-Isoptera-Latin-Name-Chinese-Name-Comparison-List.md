@@ -29,6 +29,18 @@ EN — **结节皱白蚁** (*Rugitermes nodulosus*) is a species and the type sp
 
 ES — **结节皱白蚁** (*Rugitermes nodulosus*) es una especie, y la especie tipo de su género del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Brasil: Minas Gerais: São João del Rei \[ 21.1356S 44.2617W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *nodulosus*：拉丁文/希腊文 nodul（瘤）+ osus（多、充满），指瘤多、充满
+
+EN — epithet *nodulosus*: From nodul (瘤) + osus (多、充满)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

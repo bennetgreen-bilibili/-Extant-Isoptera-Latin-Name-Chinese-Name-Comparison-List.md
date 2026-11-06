@@ -32,6 +32,18 @@ EN — **卡梅伦锯白蚁** (*Microcerotermes cameroni*) is a species of the g
 
 ES — **卡梅伦锯白蚁** (*Microcerotermes cameroni*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Snyder en 1934; la localidad tipo es India: Tamil Nadu: Madras: North Vellore District. Distribución: South Asia, India, Malaysia.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *cameroni*：以人名 cameron 命名（P. Cameron（英国昆虫学家））
+
+EN — epithet *cameroni*: Named after P. Cameron（英国昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

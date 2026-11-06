@@ -29,6 +29,18 @@ EN — **危地马拉距白蚁** (*Calcaritermes guatemalae*) is a species of th
 
 ES — **危地马拉距白蚁** (*Calcaritermes guatemalae*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Guatemala: Mixco. Distribución: Central America, Belize, Guatemala, Mexico, Honduras.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *guatemalae*：以人名 guatemal 命名（具体指向待考）
+
+EN — epithet *guatemalae*: Named after a person (guatemal), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **异头乳白蚁** (*Coptotermes varicapitatus*) is a species of the gen
 
 ES — **异头乳白蚁** (*Coptotermes varicapitatus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Tsai & Li en 1985; la localidad tipo es China: Guangdong Province: Hainan Island. Distribución: China (Guangdong).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *varicapitatus*：拉丁文 varius（多样）+ capitatus（有头），异头
+
+EN — epithet *varicapitatus*: Latin varius (varied) + capitatus (headed), varied-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

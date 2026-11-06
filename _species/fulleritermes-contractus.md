@@ -34,6 +34,18 @@ EN — **收缩富勒白蚁** (*Fulleritermes contractus*) is a species and the 
 
 ES — **收缩富勒白蚁** (*Fulleritermes contractus*) es una especie, y la especie tipo de su género del género *Fulleritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Fulleritermes*：属名以人名 Fuller 命名（南非昆虫学家 C. Fuller），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Fulleritermes*: Named after the entomologist C. Fuller; -termes from Latin termes.
+
+种加词 *contractus*：拉丁文 contractus（收缩的）
+
+EN — epithet *contractus*: Latin contractus (contracted)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

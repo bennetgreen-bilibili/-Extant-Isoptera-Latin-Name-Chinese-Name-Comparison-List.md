@@ -32,6 +32,18 @@ EN — **和平无利器白蚁** (*Astalotermes irrixosus*) is a species of the 
 
 ES — **和平无利器白蚁** (*Astalotermes irrixosus*) es una especie del género *Astalotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sands en 1972; la localidad tipo es Sudan: Equatoria Province: Imatong Mountains. Distribución: tropical Africa, Sudan.
 
+## 词源
+
+属名 *Astalotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Astalotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *irrixosus*：拉丁文 irrisor（嘲笑者）或 rixa（争斗），好斗的
+
+EN — epithet *irrixosus*: Latin irrisor (mocker) or rixa (quarrel), quarrelsome
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

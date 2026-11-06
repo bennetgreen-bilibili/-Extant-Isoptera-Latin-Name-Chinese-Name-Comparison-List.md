@@ -34,6 +34,18 @@ EN — **祖鲁兰方白蚁** (*Cubitermes zulucola*) is a species of the genus 
 
 ES — **祖鲁兰方白蚁** (*Cubitermes zulucola*) es una especie del género *Cubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: southern Africa, South Africa (Zululand). Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Cubitermes*：属名由拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
+
+种加词 *zulucola*：祖鲁族（Zulu，南非）+ -cola（栖居者），栖于祖鲁兰
+
+EN — epithet *zulucola*: Zulu (people, South Africa) + -cola (dweller): Zululand-dwelling
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

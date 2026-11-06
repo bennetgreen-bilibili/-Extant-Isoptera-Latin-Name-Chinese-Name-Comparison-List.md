@@ -32,6 +32,18 @@ EN — **英德葫白蚁** (*Cucurbitermes yingdeensis*) is a species and the ty
 
 ES — **英德葫白蚁** (*Cucurbitermes yingdeensis*) es una especie, y la especie tipo de su género del género *Cucurbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Li & Ping en 1985; la localidad tipo es China: Guangdong Province: Yingde. Distribución: China, Guangdong, Jiangxi, Hunan.
 
+## 词源
+
+属名 *Cucurbitermes*：属名由拉丁文 cucurbita（南瓜、葫芦）与 termes（白蚁）组合。
+
+EN — *Cucurbitermes*: From Latin cucurbita (gourd) + termes.
+
+种加词 *yingdeensis*：以地名 英德（广东） 命名
+
+EN — epithet *yingdeensis*: Named after the locality Yingde
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

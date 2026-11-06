@@ -34,6 +34,18 @@ EN — **友好白蚁** (*Termes comis*) is a species of the genus *Termes*, in 
 
 ES — **友好白蚁** (*Termes comis*) es una especie del género *Termes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak; Singapore: ?. Distribución: Indonesia, Malaysia, Singapore, Thailand, Vietnam. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Termes*：属名即拉丁文 termes（蛀木虫、白蚁），为白蚁的模式属。
+
+EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
+
+种加词 *comis*：拉丁文 comis（亲切的、彬彬有礼的）
+
+EN — epithet *comis*: Latin comis (courteous)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

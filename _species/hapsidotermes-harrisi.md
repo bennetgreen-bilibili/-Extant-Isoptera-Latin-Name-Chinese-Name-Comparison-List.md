@@ -34,6 +34,18 @@ EN — **哈里斯络白蚁** (*Hapsidotermes harrisi*) is a species and the typ
 
 ES — **哈里斯络白蚁** (*Hapsidotermes harrisi*) es una especie, y la especie tipo de su género del género *Hapsidotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Ravenshoe. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Hapsidotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Hapsidotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *harrisi*：以人名 harris 命名（具体指向待考）
+
+EN — epithet *harrisi*: Named after a person (harris), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

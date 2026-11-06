@@ -32,6 +32,18 @@ EN — **努登舍尔德象白蚁** (*Nasutitermes nordenskioldi*) is a species 
 
 ES — **努登舍尔德象白蚁** (*Nasutitermes nordenskioldi*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Jujuy: Quinta, near Laguna la Brea \[23.8589S 64.4377W\]; Santiago del Estero: Icaño \[28.68S 62.885W\]. Distribución: Argentina, Paraguay, Bolivia.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *nordenskioldi*：以人名 nordenskiold 命名（具体指向待考）
+
+EN — epithet *nordenskioldi*: Named after a person (nordenskiold), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

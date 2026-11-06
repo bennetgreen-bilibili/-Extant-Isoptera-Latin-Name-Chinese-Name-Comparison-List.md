@@ -32,6 +32,18 @@ EN — **长背新扭白蚁** (*Neocapritermes longinotus*) is a species of the 
 
 ES — **长背新扭白蚁** (*Neocapritermes longinotus*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Colombia: Magdalena: Río Frio \[ 11.1N 74.1833W \]. Distribución: Brazil, Colombia, French Guiana, Venezuela.
 
+## 词源
+
+属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
+
+种加词 *longinotus*：拉丁文/希腊文 longi（长）+ notus（背），指长背
+
+EN — epithet *longinotus*: From longi (长) + notus (背)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

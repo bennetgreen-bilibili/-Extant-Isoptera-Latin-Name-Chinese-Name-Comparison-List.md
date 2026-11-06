@@ -33,6 +33,18 @@ EN — **似寄宿亚种** (*Hospitalitermes hospitalis hospitaloides*) is a sub
 
 ES — **似寄宿亚种** (*Hospitalitermes hospitalis hospitaloides*) es una subespecie de *Hospitalitermes hospitalis*, en la familia TERMITIDAE (subfamilia Nasutitermitinae), género *Hospitalitermes*. La subespecie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak: Miri Hills. No se incluye un registro de distribución separado en esta página; véase la especie parental *Hospitalitermes hospitalis*.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *hospitaloides*：拉丁文 hospitalis（寄宿的）＋希腊文 -oides（似），指似寄宿的
+
+EN — epithet *hospitaloides*: Latin hospitalis (of a guest) + Greek -oides (like)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

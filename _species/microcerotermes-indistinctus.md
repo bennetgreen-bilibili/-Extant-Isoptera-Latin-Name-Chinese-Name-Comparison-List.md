@@ -32,6 +32,18 @@ EN — **模糊锯白蚁** (*Microcerotermes indistinctus*) is a species of the 
 
 ES — **模糊锯白蚁** (*Microcerotermes indistinctus*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución: Neotropics, Brazil, French Guiana, Trinidad and Tobago, Venezuela.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *indistinctus*：拉丁文/希腊文 in-（无、不）+ distinctus（明显），指无明显
+
+EN — epithet *indistinctus*: From in- (without) + distinctus (明显)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

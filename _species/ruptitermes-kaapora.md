@@ -32,6 +32,18 @@ EN — **林栖腹爆白蚁** (*Ruptitermes kaapora*) is a species of the genus 
 
 ES — **林栖腹爆白蚁** (*Ruptitermes kaapora*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Acioli & Constantino en 2015; la localidad tipo es Paraguay: Boquerón: La Patria, Parque Nacional Teniente Enciso \[ 21.2069S 61.6569W \]. Distribución: Brazil, Paraguay.
 
+## 词源
+
+属名 *Ruptitermes*：属名由拉丁文 ruptus（破裂的）与 termes（白蚁）组合。
+
+EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
+
+种加词 *kaapora*：卡波拉（图皮神话森林精灵）
+
+EN — epithet *kaapora*: Caapora, a Tupi forest spirit
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

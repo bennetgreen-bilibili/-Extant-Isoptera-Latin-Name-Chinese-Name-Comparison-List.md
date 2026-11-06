@@ -32,6 +32,18 @@ EN — **高鼻角白蚁** (*Angulitermes resimus*) is a species of the genus *A
 
 ES — **高鼻角白蚁** (*Angulitermes resimus*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Krishna en 1965; la localidad tipo es Myanmar: Maymyo, 22 miles E Mandalay. Distribución: Myanmar.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *resimus*：拉丁文 resimus（鼻翘的、上翻的）
+
+EN — epithet *resimus*: Latin resimus (turned-up)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

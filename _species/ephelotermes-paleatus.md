@@ -32,6 +32,18 @@ EN — **深颏棒颚白蚁** (*Ephelotermes paleatus*) is a species of the genu
 
 ES — **深颏棒颚白蚁** (*Ephelotermes paleatus*) es una especie del género *Ephelotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland: Weipa. Distribución: Australia, Papua New Guinea.
 
+## 词源
+
+属名 *Ephelotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *paleatus*：拉丁文 paleatus（具糠的、具鳞片的）
+
+EN — epithet *paleatus*: Latin paleatus (chaffy)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

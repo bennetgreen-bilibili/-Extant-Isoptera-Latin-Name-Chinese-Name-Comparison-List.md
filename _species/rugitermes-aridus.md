@@ -29,6 +29,18 @@ EN — **干皱白蚁** (*Rugitermes aridus*) is a species of the genus *Rugiter
 
 ES — **干皱白蚁** (*Rugitermes aridus*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Peru: Huánuco: Huánuco city \[ 9.877S 76.1641W \]. Distribución: Peru.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *aridus*：拉丁文 aridus（干旱的）
+
+EN — epithet *aridus*: Latin aridus (arid, dry)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

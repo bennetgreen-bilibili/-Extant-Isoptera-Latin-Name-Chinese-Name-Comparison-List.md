@@ -32,6 +32,18 @@ EN — **罗森腔白蚁** (*Cavitermes rozeni*) is a species of the genus *Cavi
 
 ES — **罗森腔白蚁** (*Cavitermes rozeni*) es una especie del género *Cavitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Krishna en 2003; la localidad tipo es Brasil: Amazonas: Manaus, Campos Sales \[3.0012S 60.0431W\]. Distribución: Brazil, Ecuador.
 
+## 词源
+
+属名 *Cavitermes*：属名由拉丁文 cavus（空的、洞）与 termes（白蚁）组合。
+
+EN — *Cavitermes*: From Latin cavus (hollow) + termes.
+
+种加词 *rozeni*：以人名 rozen 命名（具体指向待考）
+
+EN — epithet *rozeni*: Named after a person (rozen), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

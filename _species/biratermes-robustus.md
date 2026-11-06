@@ -32,6 +32,18 @@ EN — **粗壮拜拉白蚁** (*Biratermes robustus*) is the only extant species
 
 ES — **粗壮拜拉白蚁** (*Biratermes robustus*) es la única especie viviente del género *Biratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Constantino en 1993; la localidad tipo es Brasil: Amapá: Serra do Navio \[0.8955N 52.0022W\]. Distribución: French Guiana, Brazil.
 
+## 词源
+
+属名 *Biratermes*：属名以土名或人名 Bira 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Biratermes*: From the name Bira; -termes from Latin termes.
+
+种加词 *robustus*：拉丁文 robustus（粗壮）
+
+EN — epithet *robustus*: Latin robustus (robust)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

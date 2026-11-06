@@ -32,6 +32,18 @@ EN — **高跷高跷白蚁** (*Grallatotermes grallator*) is a species and the 
 
 ES — **高跷高跷白蚁** (*Grallatotermes grallator*) es una especie, y la especie tipo de su género del género *Grallatotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Desneux en 1905; la localidad tipo es Papua New Guinea: Graget Island (= Kranket Island?). Distribución: Papua New Guinea.
 
+## 词源
+
+属名 *Grallatotermes*：属名由拉丁文 grallator（踩高跷者、长腿者）与 termes（白蚁）组合。
+
+EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
+
+种加词 *grallator*：拉丁文 grallator（踩高跷者）
+
+EN — epithet *grallator*: Latin grallator (stilt-walker)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **短毛森林白蚁** (*Hyleotermes brevipilus*) is the only extant spec
 
 ES — **短毛森林白蚁** (*Hyleotermes brevipilus*) es la única especie viviente del género *Hyleotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[6.38N 58.7W\]. Distribución: Brazil, Guyana, Colombia, Ecuador, French Guiana, Venezuela.
 
+## 词源
+
+属名 *Hyleotermes*：属名由希腊文 hylē（森林、木材）与拉丁文 termes（白蚁）组合。
+
+EN — *Hyleotermes*: From Greek hylē (forest, wood) + Latin termes.
+
+种加词 *brevipilus*：拉丁文/希腊文词根「brev」（短）
+
+EN — epithet *brevipilus*: From the descriptive term 'brev' (short)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

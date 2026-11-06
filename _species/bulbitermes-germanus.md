@@ -32,6 +32,18 @@ EN — **常见瓢白蚁** (*Bulbitermes germanus*) is a species of the genus *B
 
 ES — **常见瓢白蚁** (*Bulbitermes germanus*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Singapore: Bukit Timah. Distribución: Indonesia, Malaysia, Singapore, Thailand.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *germanus*：拉丁文 germanus（真实的、同血缘的）
+
+EN — epithet *germanus*: Latin germanus (genuine, brotherly/of the same stock)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **江城散白蚁** (*Reticulitermes jiangchengensis*) is a species of th
 
 ES — **江城散白蚁** (*Reticulitermes jiangchengensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Yang, Zhu & Huang en 1992; la localidad tipo es China: Yunnan Province: Autonomous County of Jiangcheng: Kangping. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *jiangchengensis*：以地名 江城（云南） 命名
+
+EN — epithet *jiangchengensis*: Named after the locality Jiangcheng
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

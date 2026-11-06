@@ -32,6 +32,18 @@ EN — **多疣疣白蚁** (*Verrucositermes tuberosus*) is a species and the ty
 
 ES — **多疣疣白蚁** (*Verrucositermes tuberosus*) es una especie, y la especie tipo de su género del género *Verrucositermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kalina Point at the Congo River, Kinshasa. Distribución: Cameroon, Congo (Kinshasa), Democratic Republic of the Congo, Gabon.
 
+## 词源
+
+属名 *Verrucositermes*：属名由拉丁文 verrucosus（多疣的）与 termes（白蚁）组合。
+
+EN — *Verrucositermes*: From Latin verrucosus (warty) + termes.
+
+种加词 *tuberosus*：拉丁文/希腊文 tuber（瘤）+ osus（多、充满），指瘤多、充满
+
+EN — epithet *tuberosus*: From tuber (瘤) + osus (多、充满)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

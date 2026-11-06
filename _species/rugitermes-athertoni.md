@@ -29,6 +29,18 @@ EN — **阿瑟顿皱白蚁** (*Rugitermes athertoni*) is a species of the genus
 
 ES — **阿瑟顿皱白蚁** (*Rugitermes athertoni*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1932; la localidad tipo es Polynesia (French): Marquesas: Hivaoa: Atuona Valley; Marquesas: Hivaoa: Pouau; Marquesas: Hivaoa: Tenaeka Valley; Marquesas: Nukahiva, Toovi, Teuanui; Marquesas: Nukuhiva, Tapuaooa; Marquesas: Uapou, Hakahetau Valley, Koputukea. Distribución: French Polynesia.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *athertoni*：以人名 atherton 命名（具体指向待考）
+
+EN — epithet *athertoni*: Named after a person (atherton), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

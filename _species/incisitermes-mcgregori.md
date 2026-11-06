@@ -29,6 +29,18 @@ EN — **麦格雷戈楹白蚁** (*Incisitermes mcgregori*) is a species of the 
 
 ES — **麦格雷戈楹白蚁** (*Incisitermes mcgregori*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Light en 1921; la localidad tipo es Philippines: Luzon: Rizal Province: Culi Culi, near Manila. Distribución: Philippines.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *mcgregori*：以人名 mcgregor 命名（具体指向待考）
+
+EN — epithet *mcgregori*: Named after a person (mcgregor), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -32,6 +32,18 @@ EN — **毛头厚唇白蚁** (*Labiotermes pelliceus*) is a species of the genu
 
 ES — **毛头厚唇白蚁** (*Labiotermes pelliceus*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1965; la localidad tipo es Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek \[1.7N 57.9167W\]. Distribución: Brazil, Colombia, Guyana, Bolivia, Ecuador, Peru.
 
+## 词源
+
+属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
+
+EN — *Labiotermes*: From Latin labium (lip) + termes.
+
+种加词 *pelliceus*：拉丁文/希腊文 pellic（暗）+ eus（相关），指暗相关
+
+EN — epithet *pelliceus*: From pellic (暗) + eus (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

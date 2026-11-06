@@ -29,6 +29,18 @@ EN — **内华达动白蚁** (*Zootermopsis nevadensis*) is a species of the ge
 
 ES — **内华达动白蚁** (*Zootermopsis nevadensis*) es una especie del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Hagen en 1874; la localidad tipo es United States: Nevada: Truckee. Distribución: western North America, western United States, western Canada, Mexico, introduced: Japan.
 
+## 词源
+
+属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
+
+EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
+
+种加词 *nevadensis*：以地名 nevad 命名（具体地名待考）
+
+EN — epithet *nevadensis*: Named after a locality (nevad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）

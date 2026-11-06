@@ -32,6 +32,18 @@ EN — **探索土白蚁** (*Odontotermes scrutor*) is a species of the genus *O
 
 ES — **探索土白蚁** (*Odontotermes scrutor*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *scrutor*：拉丁文 scrutor（探查者）
+
+EN — epithet *scrutor*: Latin scrutor (searcher)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **帕特南前峰白蚁** (*Profastigitermes putnami*) is the only extant
 
 ES — **帕特南前峰白蚁** (*Profastigitermes putnami*) es la única especie viviente del género *Profastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución: Cameroon, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Profastigitermes*：属名由希腊文 pro-（前）+ 拉丁文 fastigium（尖顶）与 termes（白蚁）组合。
+
+EN — *Profastigitermes*: From Greek pro- (before) + Latin fastigium (ridge) + termes.
+
+种加词 *putnami*：以人名 putnam 命名（具体指向待考）
+
+EN — epithet *putnami*: Named after a person (putnam), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

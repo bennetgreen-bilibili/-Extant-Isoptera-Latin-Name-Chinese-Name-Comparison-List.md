@@ -32,6 +32,18 @@ EN — **巴特须白蚁** (*Hospitalitermes butteli*) is a species of the genus
 
 ES — **巴特须白蚁** (*Hospitalitermes butteli*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Bandar Baroe. Distribución: Indonesia.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *butteli*：以人名 buttel 命名（具体指向待考）
+
+EN — epithet *butteli*: Named after a person (buttel), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

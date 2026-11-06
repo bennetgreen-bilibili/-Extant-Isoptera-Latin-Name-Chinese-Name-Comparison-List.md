@@ -29,6 +29,18 @@ EN — **金平树白蚁** (*Glyptotermes chinpingensis*) is a species of the ge
 
 ES — **金平树白蚁** (*Glyptotermes chinpingensis*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Yunnan Province: ChinPing. Distribución: China (Yunnan).
 
+## 词源
+
+属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
+
+EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
+
+种加词 *chinpingensis*：以地名 Chinping（金平，云南）命名
+
+EN — epithet *chinpingensis*: Named after Chinping (Jinping, Yunnan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

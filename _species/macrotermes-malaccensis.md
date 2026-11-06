@@ -34,6 +34,18 @@ EN — **马六甲大白蚁** (*Macrotermes malaccensis*) is a species of the ge
 
 ES — **马六甲大白蚁** (*Macrotermes malaccensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Malacca. Distribución: Southeast Asia, Malaysia, Indonesia, Singapore, Cambodia, Thailand, Vietnam. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *malaccensis*：以地名 马六甲（马来西亚） 命名
+
+EN — epithet *malaccensis*: Named after the locality Malacc
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

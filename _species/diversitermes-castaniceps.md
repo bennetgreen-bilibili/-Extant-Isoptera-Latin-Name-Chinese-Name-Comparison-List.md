@@ -34,6 +34,18 @@ EN — **栗头歧白蚁** (*Diversitermes castaniceps*) is a species of the gen
 
 ES — **栗头歧白蚁** (*Diversitermes castaniceps*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Brasil: Santa Catarina: Blumenau \[26.91S 49.044W\]. Distribución: Brazil, Paraguay, Bolivia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Diversitermes*：属名由拉丁文 diversus（多样的）与 termes（白蚁）组合。
+
+EN — *Diversitermes*: From Latin diversus (diverse) + termes.
+
+种加词 *castaniceps*：拉丁文 castanea（栗）+ -ceps（头），栗头
+
+EN — epithet *castaniceps*: Latin castanea (chestnut) + -ceps (head), chestnut-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

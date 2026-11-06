@@ -32,6 +32,18 @@ EN — **长唇平扭白蚁** (*Planicapritermes longilabrum*) is a species of t
 
 ES — **长唇平扭白蚁** (*Planicapritermes longilabrum*) es una especie del género *Planicapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Constantino en 1998; la localidad tipo es Brasil: Amazonas: Balbina (hydroelectric dam) \[ 1.513S 59.8419W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Planicapritermes*：属名由拉丁文 planus（平）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Planicapritermes*: From Latin planus (flat) + caper (goat) + termes.
+
+种加词 *longilabrum*：拉丁文/希腊文词根「long」（长）
+
+EN — epithet *longilabrum*: From the descriptive term 'long' (long)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **海南大白蚁** (*Macrotermes hainanensis*) is a species of the genus
 
 ES — **海南大白蚁** (*Macrotermes hainanensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Li & Ping en 1983; la localidad tipo es China: Hainan Island: Wuzhi Mt. Distribución: China (Hainan).
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *hainanensis*：地名：海南（中国）
+
+EN — epithet *hainanensis*: After Hainan (China)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

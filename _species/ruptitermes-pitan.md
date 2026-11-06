@@ -32,6 +32,18 @@ EN — **红头腹爆白蚁** (*Ruptitermes pitan*) is a species of the genus *R
 
 ES — **红头腹爆白蚁** (*Ruptitermes pitan*) es una especie del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Acioli & Constantino en 2015; la localidad tipo es Brasil: Distrito Federal: Fazenda Água Limpa \[ 15.9667S 47.9061W \]. Distribución: Brazil.
 
+## 词源
+
+属名 *Ruptitermes*：属名由拉丁文 ruptus（破裂的）与 termes（白蚁）组合。
+
+EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
+
+种加词 *pitan*：以当地土名或地名命名（具体指向待考）
+
+EN — epithet *pitan*: After a local vernacular name or place (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

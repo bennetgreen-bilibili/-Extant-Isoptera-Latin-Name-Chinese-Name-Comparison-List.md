@@ -31,6 +31,18 @@ EN — **截头堆砂白蚁** (*Cryptotermes domesticus*) is a species of the ge
 
 ES — **截头堆砂白蚁** (*Cryptotermes domesticus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France). Este sitio registra 11 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *domesticus*：拉丁文 domesticus（家养的、室内的）
+
+EN — epithet *domesticus*: Latin domesticus (domestic, of the house)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

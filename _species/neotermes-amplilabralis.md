@@ -29,6 +29,18 @@ EN — **宽唇新白蚁** (*Neotermes amplilabralis*) is a species of the genus
 
 ES — **宽唇新白蚁** (*Neotermes amplilabralis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Xu & Han en 1985; la localidad tipo es China: Yunnan Province: Heko. Distribución: Yunnan (Hekou).
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *amplilabralis*：拉丁文/希腊文 ampli（宽）+ labralis（唇），指宽唇
+
+EN — epithet *amplilabralis*: From ampli (宽) + labralis (唇)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

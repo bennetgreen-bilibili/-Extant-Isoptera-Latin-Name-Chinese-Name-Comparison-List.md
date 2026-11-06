@@ -32,6 +32,18 @@ EN — **指名亚种** (*Reticulitermes lucifugus lucifugus*) is a subspecies o
 
 ES — **指名亚种** (*Reticulitermes lucifugus lucifugus*) es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus*. Este sitio registra 5 sinónimos junior para la subespecie.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *lucifugus*：拉丁文 lux（光）+ fugus（逃避），避光
+
+EN — epithet *lucifugus*: Latin lux (light) + fugus (fleeing), light-avoiding
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

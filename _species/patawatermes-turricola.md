@@ -34,6 +34,18 @@ EN — **土栖帕塔瓦白蚁** (*Patawatermes turricola*) is a species and the
 
 ES — **土栖帕塔瓦白蚁** (*Patawatermes turricola*) es una especie, y la especie tipo de su género del género *Patawatermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[ 15.5961S 56.0967W \]. Distribución: South America, Colombia, Brazil, Peru, Ecuador, Venezuela, Paraguay, Argentina, Bolivia, Panama, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Patawatermes*：属名以地名 Patawa 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Patawatermes*: From the place name Patawa; -termes from Latin termes.
+
+种加词 *turricola*：拉丁文 turris（塔）+ -cola（栖居者），栖于塔中
+
+EN — epithet *turricola*: Latin turris (tower) + -cola (dweller): tower-dwelling
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

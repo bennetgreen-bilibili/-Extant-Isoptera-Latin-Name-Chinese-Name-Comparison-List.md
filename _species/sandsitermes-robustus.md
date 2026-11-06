@@ -32,6 +32,18 @@ EN — **粗壮桑兹白蚁** (*Sandsitermes robustus*) is the only extant speci
 
 ES — **粗壮桑兹白蚁** (*Sandsitermes robustus*) es la única especie viviente del género *Sandsitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Peru: Puno: Chaquimayo \[13.45S 70.4W\]; Puno: Llinquipata \[13.8167S 70.6333W\]. Distribución: Peru, Brazil, Colombia.
 
+## 词源
+
+属名 *Sandsitermes*：属名以人名 Sands 命名（英国白蚁学家 W. A. Sands），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Sandsitermes*: Named after the termite taxonomist W. A. Sands; -termes from Latin termes.
+
+种加词 *robustus*：拉丁文 robustus（粗壮）
+
+EN — epithet *robustus*: Latin robustus (robust)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

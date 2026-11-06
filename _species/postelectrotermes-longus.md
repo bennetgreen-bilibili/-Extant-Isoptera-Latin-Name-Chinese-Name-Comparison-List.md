@@ -31,6 +31,18 @@ EN — **长后琥珀白蚁** (*Postelectrotermes longus*) is a species of the g
 
 ES — **长后琥珀白蚁** (*Postelectrotermes longus*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1910; la localidad tipo es Seychelles: Aldabra: Takamaka. Distribución: Comoros, Madagascar, Seychelles. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Postelectrotermes*：属名由拉丁文 post（后）+ 希腊文 ēlektron（琥珀）与 termes（白蚁）组合（可能与琥珀化石相关）。
+
+EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
+
+种加词 *longus*：拉丁文 longus（长）
+
+EN — epithet *longus*: Latin longus (long)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

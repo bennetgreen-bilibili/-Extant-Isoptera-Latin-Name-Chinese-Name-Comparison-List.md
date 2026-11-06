@@ -32,6 +32,18 @@ EN — **格里夫斯大锥白蚁** (*Macrosubulitermes greavesi*) is the only e
 
 ES — **格里夫斯大锥白蚁** (*Macrosubulitermes greavesi*) es la única especie viviente del género *Macrosubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Hill en 1942; la localidad tipo es Australia: Queensland: Gadgarra. Distribución: Australia.
 
+## 词源
+
+属名 *Macrosubulitermes*：属名由希腊文 makros（大）+ 拉丁文 subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Macrosubulitermes*: From Greek makros (large) + Latin subula (awl) + termes.
+
+种加词 *greavesi*：以人名 greaves 命名（具体指向待考）
+
+EN — epithet *greavesi*: Named after a person (greaves), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

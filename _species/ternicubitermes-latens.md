@@ -32,6 +32,18 @@ EN — **隐藏三方白蚁** (*Ternicubitermes latens*) is a species of the gen
 
 ES — **隐藏三方白蚁** (*Ternicubitermes latens*) es una especie del género *Ternicubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Williams en 1966; la localidad tipo es Tanzania: Ugunda, Kakoma. Distribución: Tanzania.
 
+## 词源
+
+属名 *Ternicubitermes*：属名由拉丁文 terni（三个一组）+ cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
+
+种加词 *latens*：拉丁文/希腊文词根「lat」（宽）
+
+EN — epithet *latens*: From the descriptive term 'lat' (broad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

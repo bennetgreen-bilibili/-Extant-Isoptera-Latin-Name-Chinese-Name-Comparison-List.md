@@ -32,6 +32,18 @@ EN — **细窄土白蚁** (*Odontotermes angustatus*) is a species of the genus
 
 ES — **细窄土白蚁** (*Odontotermes angustatus*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Rambur en 1842; la localidad tipo es South Africa: Cape of Good Hope: Port Elizabeth. Distribución: southern Africa (South Africa).
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *angustatus*：拉丁文/希腊文 angust（窄）+ atus（具），指窄具
+
+EN — epithet *angustatus*: From angust (窄) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

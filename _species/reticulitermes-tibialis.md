@@ -31,6 +31,18 @@ EN — **黑胫散白蚁** (*Reticulitermes tibialis*) is a species of the genus
 
 ES — **黑胫散白蚁** (*Reticulitermes tibialis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Beeville. Distribución: western North America, western United States, northern Mexico. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *tibialis*：拉丁文 tibialis（胫的、胫节的）
+
+EN — epithet *tibialis*: Latin tibialis (of the tibia)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

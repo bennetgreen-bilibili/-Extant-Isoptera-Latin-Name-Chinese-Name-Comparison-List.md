@@ -32,6 +32,18 @@ EN — **中间弃白蚁** (*Cahuallitermes intermedius*) is a species and the t
 
 ES — **中间弃白蚁** (*Cahuallitermes intermedius*) es una especie, y la especie tipo de su género del género *Cahuallitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: La Ceiba. Distribución: Mexico, Guatemala, Honduras, Belize.
 
+## 词源
+
+属名 *Cahuallitermes*：属名以土名或地名 Cahualli 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Cahuallitermes*: From the place name Cahualli; -termes from Latin termes.
+
+种加词 *intermedius*：拉丁文 intermedius（中间的）
+
+EN — epithet *intermedius*: Latin intermedius (intermediate)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

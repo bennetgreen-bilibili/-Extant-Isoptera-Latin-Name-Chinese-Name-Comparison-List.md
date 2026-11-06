@@ -29,6 +29,18 @@ EN — **似西孟加拉杆白蚁** (*Stylotermes parabengalensis*) is a species
 
 ES — **似西孟加拉杆白蚁** (*Stylotermes parabengalensis*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Maiti en 1975; la localidad tipo es India: West Bengal: Jalpaiguri District, near Nagrakata railway station, alt. 270 m, 85 km NE of Jalpaiguri. Distribución: China, India.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *parabengalensis*：希腊文 para（旁、近）＋Bengal（孟加拉），指近孟加拉的
+
+EN — epithet *parabengalensis*: Greek para (near) + Bengal: near Bengal
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

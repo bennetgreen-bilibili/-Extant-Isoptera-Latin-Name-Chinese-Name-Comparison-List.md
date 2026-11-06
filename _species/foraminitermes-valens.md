@@ -32,6 +32,18 @@ EN — **强健孔白蚁** (*Foraminitermes valens*) is a species of the genus *
 
 ES — **强健孔白蚁** (*Foraminitermes valens*) es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. Distribución: Central Africa, Cameroon, Guinea, Côte d'Ivoire, Nigeria, Tanzania.
 
+## 词源
+
+属名 *Foraminitermes*：属名由拉丁文 foramen（孔）与 termes（白蚁）组合。
+
+EN — *Foraminitermes*: From Latin foramen (opening) + termes.
+
+种加词 *valens*：拉丁文 valens（强壮的）
+
+EN — epithet *valens*: Latin valens (strong)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

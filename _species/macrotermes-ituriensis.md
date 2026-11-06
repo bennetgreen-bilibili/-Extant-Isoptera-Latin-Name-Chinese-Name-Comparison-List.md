@@ -32,6 +32,18 @@ EN — **伊图里大白蚁** (*Macrotermes ituriensis*) is a species of the gen
 
 ES — **伊图里大白蚁** (*Macrotermes ituriensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Ituri. Distribución: Central African Republic, Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *ituriensis*：以地名 伊图里（刚果） 命名
+
+EN — epithet *ituriensis*: Named after the locality Itur
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

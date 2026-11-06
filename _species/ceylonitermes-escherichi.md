@@ -32,6 +32,18 @@ EN — **埃舍里希锡兰白蚁** (*Ceylonitermes escherichi*) is a species an
 
 ES — **埃舍里希锡兰白蚁** (*Ceylonitermes escherichi*) es una especie, y la especie tipo de su género del género *Ceylonitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1911; la localidad tipo es Sri Lanka: Peradeniya. Distribución: Sri Lanka.
 
+## 词源
+
+属名 *Ceylonitermes*：属名由 Ceylon（锡兰，即斯里兰卡）与 termes（白蚁）组合。
+
+EN — *Ceylonitermes*: From Ceylon (Sri Lanka) + termes.
+
+种加词 *escherichi*：以人名 escherich 命名（K. Escherich（德国昆虫学家））
+
+EN — epithet *escherichi*: Named after K. Escherich（德国昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

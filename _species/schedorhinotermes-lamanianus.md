@@ -31,6 +31,18 @@ EN — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) is a species of t
 
 ES — **拉曼长鼻白蚁** (*Schedorhinotermes lamanianus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Kingoyi; Mukimbungu. Distribución: West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *lamanianus*：以人名 laman 命名（具体指向待考）
+
+EN — epithet *lamanianus*: Named after a person (laman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

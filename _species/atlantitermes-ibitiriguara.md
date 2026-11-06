@@ -32,6 +32,18 @@ EN — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) is a species 
 
 ES — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) es una especie del género *Atlantitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fontes en 1979; la localidad tipo es Brasil: São Paulo: Reserva Biológica Alto da Serra de Paranapiacaba \[23.7795S 46.3162W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Atlantitermes*：属名由地名 Atlantic（大西洋）与 termes（白蚁）组合。
+
+EN — *Atlantitermes*: From the Atlantic + termes.
+
+种加词 *ibitiriguara*：图皮语土名（具体指向待考）
+
+EN — epithet *ibitiriguara*: Tupi vernacular name (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

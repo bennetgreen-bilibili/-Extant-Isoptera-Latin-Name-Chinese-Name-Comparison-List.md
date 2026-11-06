@@ -32,6 +32,18 @@ EN — **烟色解甲白蚁** (*Anoplotermes fumosus*) is a species of the genus
 
 ES — **烟色解甲白蚁** (*Anoplotermes fumosus*) es una especie del género *Anoplotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Hagen en 1860; la localidad tipo es Mexico: Veracruz. Distribución: Brazil, Mexico, United States.
 
+## 词源
+
+属名 *Anoplotermes*：属名由希腊文 an-（无）+ hoplon（武器、甲）与拉丁文 termes（白蚁）组合，意为「无武装白蚁」。
+
+EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
+
+种加词 *fumosus*：拉丁文 fumosus（烟色的、多烟的）
+
+EN — epithet *fumosus*: Latin fumosus (smoky)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

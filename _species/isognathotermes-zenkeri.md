@@ -34,6 +34,18 @@ EN — **岑克等颚白蚁** (*Isognathotermes zenkeri*) is a species of the ge
 
 ES — **岑克等颚白蚁** (*Isognathotermes zenkeri*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Desneux en 1904; la localidad tipo es Cameroon: ?. Distribución: Cameroon, Democratic Republic of the Congo. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *zenkeri*：以人名 zenker 命名（具体指向待考）
+
+EN — epithet *zenkeri*: Named after a person (zenker), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

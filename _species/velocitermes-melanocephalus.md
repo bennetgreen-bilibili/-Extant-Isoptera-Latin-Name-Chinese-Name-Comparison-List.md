@@ -32,6 +32,18 @@ EN — **黑头快白蚁** (*Velocitermes melanocephalus*) is a species of the g
 
 ES — **黑头快白蚁** (*Velocitermes melanocephalus*) es una especie del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[13.9667S 66.8667W\]. Distribución: Argentina, Bolivia, Brazil, French Guiana.
 
+## 词源
+
+属名 *Velocitermes*：属名由拉丁文 velox（快速的）与 termes（白蚁）组合。
+
+EN — *Velocitermes*: From Latin velox (swift) + termes.
+
+种加词 *melanocephalus*：希腊文 melas（黑）+ kephalē（头），黑头
+
+EN — epithet *melanocephalus*: Greek melas (black) + kephalē (head), black-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

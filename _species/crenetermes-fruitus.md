@@ -32,6 +32,18 @@ EN — **可爱刻痕白蚁** (*Crenetermes fruitus*) is a species of the genus 
 
 ES — **可爱刻痕白蚁** (*Crenetermes fruitus*) es una especie del género *Crenetermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Harris en 1958; la localidad tipo es Democratic Republic of the Congo: Lusinga. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Crenetermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Crenetermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *fruitus*：拉丁文 fruitus（享用果实的）
+
+EN — epithet *fruitus*: Latin fruitus (enjoying fruit)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

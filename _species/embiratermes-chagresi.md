@@ -32,6 +32,18 @@ EN — **查格雷斯生白蚁** (*Embiratermes chagresi*) is a species of the g
 
 ES — **查格雷斯生白蚁** (*Embiratermes chagresi*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Barro Colorado Island. Distribución: Colombia, Panama, Costa Rica, Ecuador, Nicaragua.
 
+## 词源
+
+属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
+
+EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
+
+种加词 *chagresi*：以人名 chagres 命名（具体指向待考）
+
+EN — epithet *chagresi*: Named after a person (chagres), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

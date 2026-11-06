@@ -29,6 +29,18 @@ EN — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) is a species and t
 
 ES — **棕头尖鼻白蚁** (*Acorhinotermes subfusciceps*) es una especie, y la especie tipo de su género del género *Acorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela.
 
+## 词源
+
+属名 *Acorhinotermes*：属名含希腊文 rhis（鼻）与拉丁文 termes（白蚁）；前缀 acorhin- 组成未详。
+
+EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
+
+种加词 *subfusciceps*：拉丁文/希腊文 subfusci（下、近）+ ceps（头），指下、近头
+
+EN — epithet *subfusciceps*: From subfusci (下、近) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

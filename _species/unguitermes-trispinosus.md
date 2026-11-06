@@ -32,6 +32,18 @@ EN — **三针爪白蚁** (*Unguitermes trispinosus*) is a species of the genus
 
 ES — **三针爪白蚁** (*Unguitermes trispinosus*) es una especie del género *Unguitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Ruelle en 1973; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución: tropical Africa.
 
+## 词源
+
+属名 *Unguitermes*：属名由拉丁文 unguis（爪、甲）与 termes（白蚁）组合。
+
+EN — *Unguitermes*: From Latin unguis (claw) + termes.
+
+种加词 *trispinosus*：拉丁文 tri-（三）+ spinosus（多刺），三刺
+
+EN — epithet *trispinosus*: Latin tri- (three) + spinosus (spiny), three-spined
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

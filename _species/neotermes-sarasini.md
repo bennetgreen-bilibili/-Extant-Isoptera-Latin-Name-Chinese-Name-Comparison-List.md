@@ -29,6 +29,18 @@ EN — **萨拉赞新白蚁** (*Neotermes sarasini*) is a species of the genus *
 
 ES — **萨拉赞新白蚁** (*Neotermes sarasini*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es New Caledonia (French): Prony, 100 m, Loyalty Islands: Lifou. Distribución: New Caledonia, Samoa.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *sarasini*：以人名 sarasin 命名（具体指向待考）
+
+EN — epithet *sarasini*: Named after a person (sarasin), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

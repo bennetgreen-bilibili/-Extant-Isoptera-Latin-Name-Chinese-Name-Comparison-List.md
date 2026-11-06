@@ -29,6 +29,18 @@ EN — **沙明棒鼻白蚁** (*Parrhinotermes shamimi*) is a species of the gen
 
 ES — **沙明棒鼻白蚁** (*Parrhinotermes shamimi*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Bose en 1999; la localidad tipo es India: Arunachal Pradesh: natural forest ca. 1 km from Lake Ganga, Itangar. Distribución: India.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *shamimi*：以人名 shamim 命名（具体指向待考）
+
+EN — epithet *shamimi*: Named after a person (shamim), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

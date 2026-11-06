@@ -29,6 +29,18 @@ EN — **阿哈默德杆白蚁** (*Stylotermes ahmadi*) is a species of the genu
 
 ES — **阿哈默德杆白蚁** (*Stylotermes ahmadi*) es una especie del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Akhtar en 1975; la localidad tipo es Bangladesh: Ukhia. Distribución: China, Bangladesh.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *ahmadi*：以人名 ahmad 命名（巴基斯坦白蚁学家 M. Ahmad）
+
+EN — epithet *ahmadi*: Named after 巴基斯坦白蚁学家 M. Ahmad
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

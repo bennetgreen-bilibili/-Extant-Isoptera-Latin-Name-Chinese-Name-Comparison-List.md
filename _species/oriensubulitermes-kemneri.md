@@ -32,6 +32,18 @@ EN — **凯姆勒东锥白蚁** (*Oriensubulitermes kemneri*) is a species of t
 
 ES — **凯姆勒东锥白蚁** (*Oriensubulitermes kemneri*) es una especie del género *Oriensubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Sabah: Tapang; Sarawak. Distribución: Malaysia.
 
+## 词源
+
+属名 *Oriensubulitermes*：属名由拉丁文 Oriens（东方）+ subula（锥、钻）与 termes（白蚁）组合。
+
+EN — *Oriensubulitermes*: From Latin Oriens (the East) + subula (awl) + termes.
+
+种加词 *kemneri*：以人名 Kemner 命名（瑞典昆虫学家 N. A. Kemner）
+
+EN — epithet *kemneri*: Named after the entomologist N. A. Kemner
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

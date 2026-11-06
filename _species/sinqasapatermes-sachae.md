@@ -32,6 +32,18 @@ EN — **森林鼻大白蚁** (*Sinqasapatermes sachae*) is the only extant spec
 
 ES — **森林鼻大白蚁** (*Sinqasapatermes sachae*) es la única especie viviente del género *Sinqasapatermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Cuezzo & Nickle en 2011; la localidad tipo es Peru: Loreto: Arcadia \[1S 75.3W\]. Distribución: Colombia, Ecuador, Peru.
 
+## 词源
+
+属名 *Sinqasapatermes*：属名以土名或地名 Sinqasapa 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Sinqasapatermes*: From the place name Sinqasapa; -termes from Latin termes.
+
+种加词 *sachae*：以人名 sach 命名（具体指向待考）
+
+EN — epithet *sachae*: Named after a person (sach), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

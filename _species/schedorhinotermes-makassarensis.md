@@ -29,6 +29,18 @@ EN — **望加锡长鼻白蚁** (*Schedorhinotermes makassarensis*) is a specie
 
 ES — **望加锡长鼻白蚁** (*Schedorhinotermes makassarensis*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Kemner en 1934; la localidad tipo es Indonesia: Sulawesi: Makassar. Distribución: Indonesia, India, Nicobar Islands.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *makassarensis*：以地名 望加锡（印度尼西亚） 命名
+
+EN — epithet *makassarensis*: Named after the locality Makassar
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

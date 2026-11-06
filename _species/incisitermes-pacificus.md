@@ -29,6 +29,18 @@ EN — **太平洋楹白蚁** (*Incisitermes pacificus*) is a species of the gen
 
 ES — **太平洋楹白蚁** (*Incisitermes pacificus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1901; la localidad tipo es Ecuador: Galápagos: Isla Fernandina (Narborough) \[ 0.39S 91.517W \]; Galápagos: Isla Isabela (Albemarle) \[ 0.83S 91.11W \]. Distribución: Ecuador.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *pacificus*：以地名 pacif 命名（具体地名待考）
+
+EN — epithet *pacificus*: Named after a locality (pacif)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

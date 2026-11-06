@@ -31,6 +31,18 @@ EN — **南亚乳白蚁** (*Coptotermes travians*) is a species of the genus *C
 
 ES — **南亚乳白蚁** (*Coptotermes travians*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Marudi. Distribución: Sumatra, Indonesia, Malaysia, Singapore. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *travians*：拉丁文 travians（?）
+
+EN — epithet *travians*: Latin travians (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

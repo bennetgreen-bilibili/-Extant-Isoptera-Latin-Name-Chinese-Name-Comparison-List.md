@@ -29,6 +29,18 @@ EN — **里约距白蚁** (*Calcaritermes rioensis*) is a species of the genus 
 
 ES — **里约距白蚁** (*Calcaritermes rioensis*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna en 1962; la localidad tipo es Brasil: Rio de Janeiro: Ilha Grande \[ 23.133S 44.171W \]. Distribución: South America, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela.
 
+## 词源
+
+属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
+
+EN — *Calcaritermes*: From Latin calcar (spur) + termes.
+
+种加词 *rioensis*：以地名 格兰德河（美洲） 命名
+
+EN — epithet *rioensis*: Named after the locality Rio
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

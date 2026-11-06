@@ -29,6 +29,18 @@ EN — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) is a species of the g
 
 ES — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Hollande en 1982; la localidad tipo es Canary Islands (Spain): Tenerife, Punta de Teno. Distribución: Spain.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *rogierae*：以人名 rogier 命名（具体指向待考）
+
+EN — epithet *rogierae*: Named after a person (rogier), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

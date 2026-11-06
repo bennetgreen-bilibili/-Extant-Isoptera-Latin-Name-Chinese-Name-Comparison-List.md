@@ -32,6 +32,18 @@ EN — **维纳德安瓿白蚁** (*Ampoulitermes wynaadensis*) is a species and 
 
 ES — **维纳德安瓿白蚁** (*Ampoulitermes wynaadensis*) es una especie, y la especie tipo de su género del género *Ampoulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathur & Thapa en 1962; la localidad tipo es India: Kerala: Wynaad, Periyar Forest Range. Distribución: India.
 
+## 词源
+
+属名 *Ampoulitermes*：属名由拉丁文 ampulla（瓶、泡）与 termes（白蚁）组合。
+
+EN — *Ampoulitermes*: From Latin ampulla (flask) + termes.
+
+种加词 *wynaadensis*：以地名 瓦亚纳德（印度） 命名
+
+EN — epithet *wynaadensis*: Named after the locality Wynaad
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

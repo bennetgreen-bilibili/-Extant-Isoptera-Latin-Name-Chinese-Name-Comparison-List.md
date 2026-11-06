@@ -29,6 +29,18 @@ EN — **马里亚纳楹白蚁** (*Incisitermes marianus*) is a species of the g
 
 ES — **马里亚纳楹白蚁** (*Incisitermes marianus*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren en 1912; la localidad tipo es Northern Mariana Islands: Mariana Islands \[ 16.61N 145.62E \]. Distribución: Northern Mariana Islands.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *marianus*：以人名 mar 命名（具体指向待考）
+
+EN — epithet *marianus*: Named after a person (mar), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

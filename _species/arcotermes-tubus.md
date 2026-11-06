@@ -32,6 +32,18 @@ EN — **管鼻弧白蚁** (*Arcotermes tubus*) is the only extant species of th
 
 ES — **管鼻弧白蚁** (*Arcotermes tubus*) es la única especie viviente del género *Arcotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Fan en 1983; la localidad tipo es China: Jiangxi Province: Xinfeng. Distribución: China (Jiangxi).
 
+## 词源
+
+属名 *Arcotermes*：属名由拉丁文 arcus（弓）与 termes（白蚁）组合。
+
+EN — *Arcotermes*: From Latin arcus (bow, arch) + termes.
+
+种加词 *tubus*：拉丁文 tubus（管）
+
+EN — epithet *tubus*: Latin tubus (tube)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

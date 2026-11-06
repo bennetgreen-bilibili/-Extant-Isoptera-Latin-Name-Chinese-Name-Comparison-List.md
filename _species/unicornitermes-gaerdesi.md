@@ -32,6 +32,18 @@ EN — **盖尔德独角白蚁** (*Unicornitermes gaerdesi*) is the only extant 
 
 ES — **盖尔德独角白蚁** (*Unicornitermes gaerdesi*) es la única especie viviente del género *Unicornitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Coaton en 1971; la localidad tipo es Namibia: District Lüderitz at Witpütz. Distribución: Namibia, South Africa.
 
+## 词源
+
+属名 *Unicornitermes*：属名由拉丁文 unus（一）+ cornu（角）与 termes（白蚁）组合，意为「独角白蚁」。
+
+EN — *Unicornitermes*: From Latin unus (one) + cornu (horn) + termes, 'one-horned termite'.
+
+种加词 *gaerdesi*：以人名 gaerdes 命名（具体指向待考）
+
+EN — epithet *gaerdesi*: Named after a person (gaerdes), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

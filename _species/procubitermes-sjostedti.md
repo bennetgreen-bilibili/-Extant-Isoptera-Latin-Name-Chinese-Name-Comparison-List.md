@@ -32,6 +32,18 @@ EN — **舍斯泰特原方白蚁** (*Procubitermes sjostedti*) is a species of 
 
 ES — **舍斯泰特原方白蚁** (*Procubitermes sjostedti*) es una especie del género *Procubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Rosen en 1912; la localidad tipo es Liberia: ?. Distribución: West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Guinea, Liberia.
 
+## 词源
+
+属名 *Procubitermes*：属名由希腊文 pro-（前）+ 拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Procubitermes*: From Greek pro- (before) + Latin cubitus (elbow) + termes.
+
+种加词 *sjostedti*：以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）
+
+EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

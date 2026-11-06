@@ -32,6 +32,18 @@ EN — **弯肠缩白蚁** (*Constrictotermes cyphergaster*) is a species and th
 
 ES — **弯肠缩白蚁** (*Constrictotermes cyphergaster*) es una especie, y la especie tipo de su género del género *Constrictotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso do Sul: Ladário, Urucum \[19.155S 57.631W\]; Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Paraguay, Argentina, Bolivia.
 
+## 词源
+
+属名 *Constrictotermes*：属名由拉丁文 constrictus（缢缩的）与 termes（白蚁）组合。
+
+EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
+
+种加词 *cyphergaster*：希腊文 kryptos（隐藏）+ gastēr（腹），隐腹
+
+EN — epithet *cyphergaster*: Greek kryptos (hidden) + gastēr (belly), hidden-bellied
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

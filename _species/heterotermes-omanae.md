@@ -29,6 +29,18 @@ EN — **阿曼异白蚁** (*Heterotermes omanae*) is a species of the genus *He
 
 ES — **阿曼异白蚁** (*Heterotermes omanae*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Chhotani en 1988; la localidad tipo es Oman: Bayt al Falaj Compound, near Muscat. Distribución: Oman.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *omanae*：以人名 oman 命名（具体指向待考）
+
+EN — epithet *omanae*: Named after a person (oman), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

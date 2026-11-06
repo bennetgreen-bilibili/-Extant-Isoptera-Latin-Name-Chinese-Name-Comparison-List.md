@@ -32,6 +32,18 @@ EN — **易识锯白蚁** (*Microcerotermes distinctus*) is a species of the ge
 
 ES — **易识锯白蚁** (*Microcerotermes distinctus*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Silvestri en 1909; la localidad tipo es Australia: Western Australia: Coolgardie. Distribución: Oceania, Australia.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *distinctus*：拉丁文/希腊文词根「distinct」（明显）
+
+EN — epithet *distinctus*: From the descriptive term 'distinct' (distinct)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

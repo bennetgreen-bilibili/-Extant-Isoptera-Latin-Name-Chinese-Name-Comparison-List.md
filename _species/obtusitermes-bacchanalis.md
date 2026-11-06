@@ -32,6 +32,18 @@ EN — **酒神钝白蚁** (*Obtusitermes bacchanalis*) is a species of the genu
 
 ES — **酒神钝白蚁** (*Obtusitermes bacchanalis*) es una especie del género *Obtusitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[12.8145S 51.7745W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Obtusitermes*：属名由拉丁文 obtusus（钝的）与 termes（白蚁）组合。
+
+EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
+
+种加词 *bacchanalis*：拉丁文 bacchanalis（酒神的、狂饮的）
+
+EN — epithet *bacchanalis*: Latin bacchanalis (bacchanalian)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

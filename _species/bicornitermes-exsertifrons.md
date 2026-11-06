@@ -29,6 +29,18 @@ EN — **突额双角白蚁** (*Bicornitermes exsertifrons*) is a species of the
 
 ES — **突额双角白蚁** (*Bicornitermes exsertifrons*) es una especie del género *Bicornitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wilkinson en 1958; la localidad tipo es Nigeria: Eastern Region: Nkpoku, 19 km from Port Harcourt on Owerri road. Distribución: Nigeria.
 
+## 词源
+
+属名 *Bicornitermes*：属名由拉丁文 bi-（二）+ cornu（角）与 termes（白蚁）组合，指兵蚁具两个角状突起。
+
+EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
+
+种加词 *exsertifrons*：拉丁文 exsertus（伸出的）+ frons（额），伸额
+
+EN — epithet *exsertifrons*: Latin exsertus (protruding) + frons (front), protruding-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

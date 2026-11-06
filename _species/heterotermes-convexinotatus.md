@@ -31,6 +31,18 @@ EN — **凸背异白蚁** (*Heterotermes convexinotatus*) is a species of the g
 
 ES — **凸背异白蚁** (*Heterotermes convexinotatus*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Panama: Colón. Distribución: Caribbean, Puerto Rico, Antigua and Barbuda, Barbados, Mexico, South America, Brazil, Colombia, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Panama. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *convexinotatus*：拉丁文/希腊文 convexinot（凸）+ atus（具），指凸具
+
+EN — epithet *convexinotatus*: From convexinot (凸) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

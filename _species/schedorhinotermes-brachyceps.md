@@ -29,6 +29,18 @@ EN — **短头长鼻白蚁** (*Schedorhinotermes brachyceps*) is a species of t
 
 ES — **短头长鼻白蚁** (*Schedorhinotermes brachyceps*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Kemner en 1931; la localidad tipo es Indonesia: Maluku: Ambon. Distribución: Indonesia.
 
+## 词源
+
+属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
+
+种加词 *brachyceps*：拉丁文/希腊文 brachy（短）+ ceps（头），指短头
+
+EN — epithet *brachyceps*: From brachy (短) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

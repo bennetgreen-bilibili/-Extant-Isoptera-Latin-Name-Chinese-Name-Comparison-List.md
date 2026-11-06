@@ -29,6 +29,18 @@ EN — **弗尔特科沙白蚁** (*Psammotermes voeltzkowi*) is a species of the
 
 ES — **弗尔特科沙白蚁** (*Psammotermes voeltzkowi*) es una especie del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Wasmann en 1910; la localidad tipo es Madagascar: Tulear. Distribución: Madagascar.
 
+## 词源
+
+属名 *Psammotermes*：属名由希腊文 psammos（沙）与拉丁文 termes（白蚁）组合。
+
+EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
+
+种加词 *voeltzkowi*：以人名 voeltzkow 命名（具体指向待考）
+
+EN — epithet *voeltzkowi*: Named after a person (voeltzkow), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

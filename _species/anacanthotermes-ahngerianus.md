@@ -31,6 +31,18 @@ EN — **安格无刺白蚁** (*Anacanthotermes ahngerianus*) is a species of th
 
 ES — **安格无刺白蚁** (*Anacanthotermes ahngerianus*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Jacobson en 1905; la localidad tipo es Turkmenistan: Jagly-olum on Atrek River. Distribución: Middle East, Kazakhstan, Uzbekistan, Iran, Turkmenistan. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
+
+EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
+
+种加词 *ahngerianus*：以人名 ahnger 命名（具体指向待考）
+
+EN — epithet *ahngerianus*: Named after a person (ahnger), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

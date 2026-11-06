@@ -31,6 +31,18 @@ EN — **宽头异白蚁** (*Heterotermes platycephalus*) is a species and the t
 
 ES — **宽头异白蚁** (*Heterotermes platycephalus*) es una especie, y la especie tipo de su género del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: South Australia: Kangaroo Island. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *platycephalus*：拉丁文/希腊文词根「plat」（宽扁）
+
+EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

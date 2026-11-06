@@ -29,6 +29,18 @@ EN — **暗色狭鼻白蚁** (*Dolichorhinotermes tenebrosus*) is a species of 
 
 ES — **暗色狭鼻白蚁** (*Dolichorhinotermes tenebrosus*) es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Guyana, Bolivia, Ecuador, Venezuela.
 
+## 词源
+
+属名 *Dolichorhinotermes*：属名由希腊文 dolichos（长）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
+
+种加词 *tenebrosus*：拉丁文/希腊文 tenebr（暗）+ osus（多、充满），指暗多、充满
+
+EN — epithet *tenebrosus*: From tenebr (暗) + osus (多、充满)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

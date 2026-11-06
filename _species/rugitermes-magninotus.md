@@ -29,6 +29,18 @@ EN — **大背皱白蚁** (*Rugitermes magninotus*) is a species of the genus *
 
 ES — **大背皱白蚁** (*Rugitermes magninotus*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: Ecuador, Guyana, Peru, Brazil.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *magninotus*：拉丁文/希腊文 magni（大）+ notus（背），指大背
+
+EN — epithet *magninotus*: From magni (大) + notus (背)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

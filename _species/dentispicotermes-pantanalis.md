@@ -32,6 +32,18 @@ EN — **沼泽齿尖白蚁** (*Dentispicotermes pantanalis*) is a species of th
 
 ES — **沼泽齿尖白蚁** (*Dentispicotermes pantanalis*) es una especie del género *Dentispicotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Nova Xavantina \[ 14.6733S 52.3531W \]. Distribución: Brazil, Cerrado.
 
+## 词源
+
+属名 *Dentispicotermes*：属名由拉丁文 dens（齿）+ spica（尖、穗）与 termes（白蚁）组合。
+
+EN — *Dentispicotermes*: From Latin dens (tooth) + spica (spike) + termes.
+
+种加词 *pantanalis*：地名：潘塔纳尔湿地（巴西）
+
+EN — epithet *pantanalis*: After the Pantanal wetland (Brazil)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

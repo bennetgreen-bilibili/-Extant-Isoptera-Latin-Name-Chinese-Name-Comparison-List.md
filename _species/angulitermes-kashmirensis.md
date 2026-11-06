@@ -32,6 +32,18 @@ EN — **克什米尔角白蚁** (*Angulitermes kashmirensis*) is a species of t
 
 ES — **克什米尔角白蚁** (*Angulitermes kashmirensis*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Roonwal & Chhotani en 1971; la localidad tipo es India: Jammu and Kashmir, ca. 10 km east of Chineni near confluence of River Tawi and Binisangh Nullah. Distribución: India.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *kashmirensis*：以地名 克什米尔 命名
+
+EN — epithet *kashmirensis*: Named after the locality Kashmir
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

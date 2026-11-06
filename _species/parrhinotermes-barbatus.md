@@ -29,6 +29,18 @@ EN — **毛颏棒鼻白蚁** (*Parrhinotermes barbatus*) is a species of the ge
 
 ES — **毛颏棒鼻白蚁** (*Parrhinotermes barbatus*) es una especie del género *Parrhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Bourguignon & Roisin en 2011; la localidad tipo es Papua New Guinea: Southern Highlands: Lake Kutubu. Distribución: Indonesia, Papua New Guinea.
 
+## 词源
+
+属名 *Parrhinotermes*：属名由希腊文 para-（旁）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
+
+种加词 *barbatus*：拉丁文/希腊文 barb（髯）+ atus（具），指髯具
+
+EN — epithet *barbatus*: From barb (髯) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

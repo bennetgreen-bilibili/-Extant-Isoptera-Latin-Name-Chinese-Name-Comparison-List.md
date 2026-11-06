@@ -34,6 +34,18 @@ EN — **好斗伪刺白蚁** (*Pseudacanthotermes militaris*) is a species and 
 
 ES — **好斗伪刺白蚁** (*Pseudacanthotermes militaris*) es una especie, y la especie tipo de su género del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es (country unknown): ?. Distribución: Old World tropics, West Africa, Central Africa, East Africa, southern Africa. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Pseudacanthotermes*：属名由希腊文 pseudēs（假）+ akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
+
+种加词 *militaris*：拉丁文 militaris（军事的、武士的）
+
+EN — epithet *militaris*: Latin militaris (military)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

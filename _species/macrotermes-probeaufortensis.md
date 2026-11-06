@@ -32,6 +32,18 @@ EN — **似保佛大白蚁** (*Macrotermes probeaufortensis*) is a species of t
 
 ES — **似保佛大白蚁** (*Macrotermes probeaufortensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Kalabakan District: Umas Umas. Distribución: Malaysia.
 
+## 词源
+
+属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
+
+EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
+
+种加词 *probeaufortensis*：以地名 probeaufort 命名（具体地名待考）
+
+EN — epithet *probeaufortensis*: Named after a locality (probeaufort)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

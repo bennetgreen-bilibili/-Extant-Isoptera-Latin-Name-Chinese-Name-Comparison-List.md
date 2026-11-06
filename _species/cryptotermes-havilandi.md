@@ -31,6 +31,18 @@ EN — **叶额堆砂白蚁** (*Cryptotermes havilandi*) is a species of the gen
 
 ES — **叶额堆砂白蚁** (*Cryptotermes havilandi*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1900; la localidad tipo es Equatorial Guinea: Bioko. Distribución: southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *havilandi*：以人名 Haviland 命名（英国昆虫学家 G. D. Haviland）
+
+EN — epithet *havilandi*: Named after the entomologist G. D. Haviland
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

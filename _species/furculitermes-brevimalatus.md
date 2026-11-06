@@ -32,6 +32,18 @@ EN — **短颚叉白蚁** (*Furculitermes brevimalatus*) is a species of the ge
 
 ES — **短颚叉白蚁** (*Furculitermes brevimalatus*) es una especie del género *Furculitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1960; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: Old World tropics.
 
+## 词源
+
+属名 *Furculitermes*：属名由拉丁文 furcula（小叉）与 termes（白蚁）组合。
+
+EN — *Furculitermes*: From Latin furcula (little fork) + termes.
+
+种加词 *brevimalatus*：拉丁文/希腊文 brevimal（短）+ atus（具），指短具
+
+EN — epithet *brevimalatus*: From brevimal (短) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

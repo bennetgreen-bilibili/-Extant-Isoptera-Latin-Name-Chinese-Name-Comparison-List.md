@@ -32,6 +32,18 @@ EN — **锡斯坦锯白蚁** (*Microcerotermes sistaniensis*) is a species of t
 
 ES — **锡斯坦锯白蚁** (*Microcerotermes sistaniensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Ghayourfar & Akhtar en 2005; la localidad tipo es Iran: Sistan: Zabol region: Zehak city: Shadi village. Distribución: Iran, Sistan and Baluchestan.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *sistaniensis*：以地名 锡斯坦（伊朗） 命名
+
+EN — epithet *sistaniensis*: Named after the locality Sistan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

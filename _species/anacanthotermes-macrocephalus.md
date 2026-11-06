@@ -31,6 +31,18 @@ EN — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) is a species of 
 
 ES — **大头无刺白蚁** (*Anacanthotermes macrocephalus*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Desneux en 1906; la localidad tipo es Pakistan: Sind: Karachi. Distribución: India, Afghanistan, Iran, Pakistan. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
+
+EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
+
+种加词 *macrocephalus*：希腊文 makros（大）+ kephalē（头），大头
+
+EN — epithet *macrocephalus*: Greek makros (large) + kephalē (head), large-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

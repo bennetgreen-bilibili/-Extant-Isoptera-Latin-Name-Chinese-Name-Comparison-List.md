@@ -29,6 +29,18 @@ EN — **二型乳白蚁** (*Coptotermes dimorphus*) is a species of the genus *
 
 ES — **二型乳白蚁** (*Coptotermes dimorphus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Xia & He en 1986; la localidad tipo es China: Yunnan Province: Hekou County. Distribución: China (Yunnan).
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *dimorphus*：希腊文 di-（二）+ morphē（形），二形
+
+EN — epithet *dimorphus*: Greek di- (two) + morphē (form), dimorphic
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

@@ -32,6 +32,18 @@ EN — **切割薄嘴白蚁** (*Tenuirostritermes incisus*) is a species of the 
 
 ES — **切割薄嘴白蚁** (*Tenuirostritermes incisus*) es una especie del género *Tenuirostritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1922; la localidad tipo es Honduras: San Pedro. Distribución: Mexico, Guatemala, Honduras, Nicaragua.
 
+## 词源
+
+属名 *Tenuirostritermes*：属名由拉丁文 tenuis（细）+ rostrum（喙、吻突）与 termes（白蚁）组合。
+
+EN — *Tenuirostritermes*: From Latin tenuis (slender) + rostrum (beak) + termes.
+
+种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
+
+EN — epithet *incisus*: Latin incisus (incised, notched)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

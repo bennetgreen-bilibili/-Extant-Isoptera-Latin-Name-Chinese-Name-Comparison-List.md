@@ -29,6 +29,18 @@ EN — **卡纳拉堆砂白蚁** (*Cryptotermes canalensis*) is a species of the
 
 ES — **卡纳拉堆砂白蚁** (*Cryptotermes canalensis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Holmgren & Holmgren en 1915; la localidad tipo es New Caledonia (French): Canala. Distribución: New Caledonia.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *canalensis*：以地名 canal 命名（具体地名待考）
+
+EN — epithet *canalensis*: Named after a locality (canal)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

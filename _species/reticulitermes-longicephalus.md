@@ -29,6 +29,18 @@ EN — **长头散白蚁** (*Reticulitermes longicephalus*) is a species of the 
 
 ES — **长头散白蚁** (*Reticulitermes longicephalus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Tsai & Chen en 1963; la localidad tipo es China: Fujian Province: Changting. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *longicephalus*：拉丁文/希腊文词根「long」（长）
+
+EN — epithet *longicephalus*: From the descriptive term 'long' (long)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

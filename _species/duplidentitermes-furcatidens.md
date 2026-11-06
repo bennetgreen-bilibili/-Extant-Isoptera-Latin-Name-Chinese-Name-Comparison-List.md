@@ -32,6 +32,18 @@ EN — **叉齿双齿白蚁** (*Duplidentitermes furcatidens*) is a species and 
 
 ES — **叉齿双齿白蚁** (*Duplidentitermes furcatidens*) es una especie, y la especie tipo de su género del género *Duplidentitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Central African Republic: Bania; Nola. Distribución: Cameroon, Central African Republic, Republic of the Congo (Brazzaville), Ghana, Côte d'Ivoire.
 
+## 词源
+
+属名 *Duplidentitermes*：属名由拉丁文 duplex（二重）+ dens（齿）与 termes（白蚁）组合。
+
+EN — *Duplidentitermes*: From Latin duplex (double) + dens (tooth) + termes.
+
+种加词 *furcatidens*：拉丁文 furca（叉）+ dens（齿），叉齿
+
+EN — epithet *furcatidens*: Latin furca (fork) + dens (tooth), fork-toothed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

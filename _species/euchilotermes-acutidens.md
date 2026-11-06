@@ -32,6 +32,18 @@ EN — **尖齿真唇白蚁** (*Euchilotermes acutidens*) is a species of the ge
 
 ES — **尖齿真唇白蚁** (*Euchilotermes acutidens*) es una especie del género *Euchilotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Ghana: Aburi. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Euchilotermes*：属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。
+
+EN — *Euchilotermes*: From Greek eu- (well) + cheilos (lip, margin) + Latin termes.
+
+种加词 *acutidens*：拉丁文/希腊文词根「acut」（尖）
+
+EN — epithet *acutidens*: From the descriptive term 'acut' (sharp)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

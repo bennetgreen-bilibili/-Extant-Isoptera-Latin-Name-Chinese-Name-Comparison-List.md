@@ -44,6 +44,13 @@ breadcrumb:
 <p>模式种：<i>Muelleritermes fritzi</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>属名以人名 Müller 命名（具体指向待考），词尾 -termes 为拉丁文 termes（白蚁）。</p>
+<p class="etymology-en" lang="en">Named after a person (Müller); -termes from Latin termes.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/muelleritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

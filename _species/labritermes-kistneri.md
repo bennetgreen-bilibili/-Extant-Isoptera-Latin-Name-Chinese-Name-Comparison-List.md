@@ -32,6 +32,18 @@ EN — **基斯特纳唇白蚁** (*Labritermes kistneri*) is a species of the ge
 
 ES — **基斯特纳唇白蚁** (*Labritermes kistneri*) es una especie del género *Labritermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Krishna & Adams en 1982; la localidad tipo es Malaysia: Selangor: Ulu Gombak. Distribución: Malaysia, Indonesia.
 
+## 词源
+
+属名 *Labritermes*：属名由拉丁文 labrum（上唇）与 termes（白蚁）组合。
+
+EN — *Labritermes*: From Latin labrum (upper lip) + termes.
+
+种加词 *kistneri*：以人名 Kistner 命名（昆虫学家 D. H. Kistner）
+
+EN — epithet *kistneri*: Named after the entomologist D. H. Kistner
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **高止唇扭白蚁** (*Labiocapritermes ghatensis*) is a species of the
 
 ES — **高止唇扭白蚁** (*Labiocapritermes ghatensis*) es una especie del género *Labiocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Aiswarya & Sudhikumar en 2026; la localidad tipo es India: Kerala: Thrissur (Asurankundu Dam) \[ 10.6852N 76.2955E \]. Distribución: India.
 
+## 词源
+
+属名 *Labiocapritermes*：属名由拉丁文 labium（唇）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Labiocapritermes*: From Latin labium (lip) + caper (goat) + termes.
+
+种加词 *ghatensis*：以地名 西高止山（印度） 命名
+
+EN — epithet *ghatensis*: Named after the locality Ghat
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

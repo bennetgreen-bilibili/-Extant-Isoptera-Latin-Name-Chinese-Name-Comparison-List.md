@@ -32,6 +32,18 @@ EN — **显颚蛇白蚁** (*Ophiotermes mandibularis*) is a species and the typ
 
 ES — **显颚蛇白蚁** (*Ophiotermes mandibularis*) es una especie, y la especie tipo de su género del género *Ophiotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1905; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Central Africa, Central African Republic, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon.
 
+## 词源
+
+属名 *Ophiotermes*：属名由希腊文 ophis（蛇）与拉丁文 termes（白蚁）组合。
+
+EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
+
+种加词 *mandibularis*：拉丁文 mandibula（上颚），上颚的
+
+EN — epithet *mandibularis*: Latin mandibula (mandible), mandibular
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **西尔韦斯特里堆砂白蚁** (*Cryptotermes silvestrii*) is a speci
 
 ES — **西尔韦斯特里堆砂白蚁** (*Cryptotermes silvestrii*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Bacchus en 1987; la localidad tipo es Nigeria: Nkpoku. Distribución: Congo, Democratic Republic of the Congo, Nigeria.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *silvestrii*：以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）
+
+EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

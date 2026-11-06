@@ -32,6 +32,18 @@ EN — **欢乐节白蚁** (*Noditermes festivus*) is a species of the genus *No
 
 ES — **欢乐节白蚁** (*Noditermes festivus*) es una especie del género *Noditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Harris en 1958; la localidad tipo es Democratic Republic of the Congo: Parc National de l’ Upemba: "Kenia affl. dr. Lusinga et s. affl. dr. Lufwa". Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Noditermes*：属名由拉丁文 nodus（结、瘤）与 termes（白蚁）组合。
+
+EN — *Noditermes*: From Latin nodus (knot, node) + termes.
+
+种加词 *festivus*：拉丁文 festivus（喜庆的、欢快的）
+
+EN — epithet *festivus*: Latin festivus (festive)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

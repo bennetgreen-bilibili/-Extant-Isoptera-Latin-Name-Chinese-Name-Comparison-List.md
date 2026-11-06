@@ -32,6 +32,18 @@ EN — **巴特里彭唇白蚁** (*Labritermes buttelreepeni*) is a species and 
 
 ES — **巴特里彭唇白蚁** (*Labritermes buttelreepeni*) es una especie, y la especie tipo de su género del género *Labritermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Labritermes*：属名由拉丁文 labrum（上唇）与 termes（白蚁）组合。
+
+EN — *Labritermes*: From Latin labrum (upper lip) + termes.
+
+种加词 *buttelreepeni*：以人名 von Buttel-Reepen 命名（德国昆虫学家 H. von Buttel-Reepen）
+
+EN — epithet *buttelreepeni*: Named after the entomologist H. von Buttel-Reepen
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

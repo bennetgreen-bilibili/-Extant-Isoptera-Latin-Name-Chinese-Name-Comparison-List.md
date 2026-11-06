@@ -31,6 +31,18 @@ EN — **弯嘴沙白蚁** (*Psammotermes hybostoma*) is a species and the type 
 
 ES — **弯嘴沙白蚁** (*Psammotermes hybostoma*) es una especie, y la especie tipo de su género del género *Psammotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Desneux en 1902; la localidad tipo es Algeria: Biskra; Touggourt. Distribución: West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Psammotermes*：属名由希腊文 psammos（沙）与拉丁文 termes（白蚁）组合。
+
+EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
+
+种加词 *hybostoma*：希腊文 hybos（驼背）+ stoma（口），驼口
+
+EN — epithet *hybostoma*: Greek hybos (hump) + stoma (mouth), humped-mouthed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

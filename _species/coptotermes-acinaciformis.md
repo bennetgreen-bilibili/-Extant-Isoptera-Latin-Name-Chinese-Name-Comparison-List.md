@@ -29,6 +29,18 @@ EN — **短刀乳白蚁** (*Coptotermes acinaciformis*) is a species of the gen
 
 ES — **短刀乳白蚁** (*Coptotermes acinaciformis*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1898; la localidad tipo es Australia: Western Australia: Halls Creek. Distribución: Australia, introduced: New Zealand.
 
+## 词源
+
+属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
+
+EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
+
+种加词 *acinaciformis*：拉丁文/希腊文 acinaci（弯刀）+ formis（形），指弯刀形
+
+EN — epithet *acinaciformis*: From acinaci (弯刀) + formis (形)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

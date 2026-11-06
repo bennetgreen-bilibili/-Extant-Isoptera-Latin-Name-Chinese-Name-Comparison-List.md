@@ -32,6 +32,18 @@ EN — **大唇蛇白蚁** (*Ophiotermes grandilabius*) is a species of the genu
 
 ES — **大唇蛇白蚁** (*Ophiotermes grandilabius*) es una especie del género *Ophiotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Emerson en 1928; la localidad tipo es Cameroon: Bipindi. Distribución: Cameroon, Democratic Republic of the Congo, Gabon, Ghana, Côte d'Ivoire, Nigeria, Tanzania.
 
+## 词源
+
+属名 *Ophiotermes*：属名由希腊文 ophis（蛇）与拉丁文 termes（白蚁）组合。
+
+EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
+
+种加词 *grandilabius*：拉丁文/希腊文词根「grand」（大）
+
+EN — epithet *grandilabius*: From the descriptive term 'grand' (great)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

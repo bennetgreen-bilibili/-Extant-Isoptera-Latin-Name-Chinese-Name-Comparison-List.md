@@ -43,6 +43,13 @@ breadcrumb:
 <p>模式种：<i>Euscaiotermes primus</i>。</p>
 <p>GBIF 中暂无本属带坐标的记录，本页因此不附图；点开物种条目仍可查看各自模式产地与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>词源未详；词尾 -termes 为拉丁文 termes（白蚁）。</p>
+<p class="etymology-en" lang="en">Etymology uncertain; -termes from Latin termes.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/euscaiotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

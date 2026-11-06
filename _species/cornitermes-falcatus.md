@@ -32,6 +32,18 @@ EN — **弯钩角象白蚁** (*Cornitermes falcatus*) is a species of the genus
 
 ES — **弯钩角象白蚁** (*Cornitermes falcatus*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: Amazonas: Autazes, Santa Amélia \[3.359S 59.283W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Cornitermes*: From Latin cornu (horn) + termes.
+
+种加词 *falcatus*：拉丁文 falcatus（镰状的）
+
+EN — epithet *falcatus*: Latin falcatus (sickle-shaped)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

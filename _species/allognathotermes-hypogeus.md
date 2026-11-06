@@ -32,6 +32,18 @@ EN — **地下异颚白蚁** (*Allognathotermes hypogeus*) is a species and the
 
 ES — **地下异颚白蚁** (*Allognathotermes hypogeus*) es una especie, y la especie tipo de su género del género *Allognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kakoulima. Distribución: West Africa, Cameroon.
 
+## 词源
+
+属名 *Allognathotermes*：属名由希腊文 allos（别的）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Allognathotermes*: From Greek allos (other) + gnathos (jaw) + Latin termes.
+
+种加词 *hypogeus*：希腊文 hypo（下）+ gē（地），地下的
+
+EN — epithet *hypogeus*: Greek hypo (under) + gē (earth), subterranean
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

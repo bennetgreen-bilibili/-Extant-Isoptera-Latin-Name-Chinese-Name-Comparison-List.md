@@ -32,6 +32,18 @@ EN — **小前白蚁** (*Protermes minutus*) is a species of the genus *Proterm
 
 ES — **小前白蚁** (*Protermes minutus*) es una especie del género *Protermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Grassé en 1937; la localidad tipo es Ivory Coast: near Abidjan; near Bingerville. Distribución: West Africa, Côte d'Ivoire, Angola, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Nigeria, Sierra Leone, Zambia.
 
+## 词源
+
+属名 *Protermes*：属名由希腊文 pro-（前、早）与拉丁文 termes（白蚁）组合。
+
+EN — *Protermes*: From Greek pro- (before) + Latin termes.
+
+种加词 *minutus*：拉丁文 minutus（微小）
+
+EN — epithet *minutus*: Latin minutus (tiny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

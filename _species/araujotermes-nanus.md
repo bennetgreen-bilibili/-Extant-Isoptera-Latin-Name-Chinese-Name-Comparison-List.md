@@ -32,6 +32,18 @@ EN — **侏儒阿劳若白蚁** (*Araujotermes nanus*) is a species of the genu
 
 ES — **侏儒阿劳若白蚁** (*Araujotermes nanus*) es una especie del género *Araujotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1991; la localidad tipo es Brasil: Amazonas: Maraã \[1.848S 65.523W\]. Distribución: Brazil, Colombia.
 
+## 词源
+
+属名 *Araujotermes*：属名以人名 Araujo 命名（巴西白蚁学家 R. L. Araujo），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Araujotermes*: Named after the termite taxonomist R. L. Araujo; -termes from Latin termes.
+
+种加词 *nanus*：希腊文 nanos（矮小）
+
+EN — epithet *nanus*: Greek nanos (dwarf)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

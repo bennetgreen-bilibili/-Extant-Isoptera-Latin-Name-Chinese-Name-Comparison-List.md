@@ -32,6 +32,18 @@ EN — **大佛宽白蚁** (*Eurytermes buddha*) is a species of the genus *Eury
 
 ES — **大佛宽白蚁** (*Eurytermes buddha*) es una especie del género *Eurytermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bose & Maiti en 1966; la localidad tipo es India: Tamil Nadu: Coimbatore District: Coimbatore. Distribución: India, Tamil Nadu.
 
+## 词源
+
+属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
+
+EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
+
+种加词 *buddha*：梵文 Buddha（佛陀）
+
+EN — epithet *buddha*: Sanskrit Buddha
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

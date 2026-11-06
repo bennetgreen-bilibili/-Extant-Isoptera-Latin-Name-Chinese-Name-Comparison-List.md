@@ -32,6 +32,18 @@ EN — **长简鼻歧白蚁** (*Diversitermes tiapuan*) is a species of the genu
 
 ES — **长简鼻歧白蚁** (*Diversitermes tiapuan*) es una especie del género *Diversitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Oliveira & Constantino en 2016; la localidad tipo es Brasil: Goiás: Catalão, Fazenda São Cipriano \[17.6392S 47.478W\]. Distribución: Brazil, Colombia.
 
+## 词源
+
+属名 *Diversitermes*：属名由拉丁文 diversus（多样的）与 termes（白蚁）组合。
+
+EN — *Diversitermes*: From Latin diversus (diverse) + termes.
+
+种加词 *tiapuan*：图皮语土名（具体指向待考）
+
+EN — epithet *tiapuan*: Tupi vernacular name (uncertain)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

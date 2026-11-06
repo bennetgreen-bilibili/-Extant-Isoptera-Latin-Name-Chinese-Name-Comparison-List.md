@@ -32,6 +32,18 @@ EN — **大齿稀白蚁** (*Speculitermes macrodentatus*) is a species of the g
 
 ES — **大齿稀白蚁** (*Speculitermes macrodentatus*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Pitsanulok Province: Tung Sa-Lang Luang National Park. Distribución: southern China, Thailand, Cambodia.
 
+## 词源
+
+属名 *Speculitermes*：属名由拉丁文 speculum（镜、斑）与 termes（白蚁）组合。
+
+EN — *Speculitermes*: From Latin speculum (mirror) + termes.
+
+种加词 *macrodentatus*：拉丁文/希腊文 macrodent（大）+ atus（具），指大具
+
+EN — epithet *macrodentatus*: From macrodent (大) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **宽额前新白蚁** (*Proneotermes latifrons*) is a species of the gen
 
 ES — **宽额前新白蚁** (*Proneotermes latifrons*) es una especie del género *Proneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Silvestri en 1901; la localidad tipo es Venezuela: Carabobo: Las Trincheras \[ 10.3078N 68.0872W \]. Distribución: Venezuela.
 
+## 词源
+
+属名 *Proneotermes*：属名由希腊文 pro-（前）+ neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
+
+种加词 *latifrons*：拉丁文/希腊文 lati（宽）+ frons（额），指宽额
+
+EN — epithet *latifrons*: From lati (宽) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

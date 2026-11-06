@@ -29,6 +29,18 @@ EN — **巴尔万特异白蚁** (*Heterotermes balwanti*) is a species of the g
 
 ES — **巴尔万特异白蚁** (*Heterotermes balwanti*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Mathur & Chhotani en 1969; la localidad tipo es India: Orissa: Balukhand Forest Range, near Puri. Distribución: India.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *balwanti*：以人名 balwant 命名（具体指向待考）
+
+EN — epithet *balwanti*: Named after a person (balwant), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

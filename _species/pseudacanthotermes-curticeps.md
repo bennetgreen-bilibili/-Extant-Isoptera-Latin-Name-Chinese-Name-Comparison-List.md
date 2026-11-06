@@ -32,6 +32,18 @@ EN — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) is a species of t
 
 ES — **短头伪刺白蚁** (*Pseudacanthotermes curticeps*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es Democratic Republic of the Congo: Tshela. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Pseudacanthotermes*：属名由希腊文 pseudēs（假）+ akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
+
+种加词 *curticeps*：拉丁文 curtus（短）+ -ceps（头），短头
+
+EN — epithet *curticeps*: Latin curtus (short) + -ceps (head), short-headed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **小球白蚁** (*Globitermes minor*) is a species of the genus *Globite
 
 ES — **小球白蚁** (*Globitermes minor*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Han en 1987; la localidad tipo es China: Yunnan Province: Damenglong. Distribución: Yunnan (Jinghong Damenglong), China.
 
+## 词源
+
+属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
+
+EN — *Globitermes*: From Latin globus (ball, sphere) + termes.
+
+种加词 *minor*：拉丁文 minor（较小）
+
+EN — epithet *minor*: Latin minor (smaller)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **贵阳散白蚁** (*Reticulitermes guiyangensis*) is a species of the g
 
 ES — **贵阳散白蚁** (*Reticulitermes guiyangensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por He & Qui en 1990; la localidad tipo es China: Guizhou Province. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *guiyangensis*：以地名 贵阳（贵州） 命名
+
+EN — epithet *guiyangensis*: Named after the locality Guiyang
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

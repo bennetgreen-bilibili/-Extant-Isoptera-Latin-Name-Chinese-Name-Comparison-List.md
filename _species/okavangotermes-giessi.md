@@ -32,6 +32,18 @@ EN — **吉斯奥卡万戈白蚁** (*Okavangotermes giessi*) is a species and t
 
 ES — **吉斯奥卡万戈白蚁** (*Okavangotermes giessi*) es una especie, y la especie tipo de su género del género *Okavangotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Coaton en 1971; la localidad tipo es Namibia: 20 mi ex Sakambo-Gewe. Distribución: Angola, Namibia.
 
+## 词源
+
+属名 *Okavangotermes*：属名以地名 Okavango 命名，词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Okavangotermes*: From the place name Okavango; -termes from Latin termes.
+
+种加词 *giessi*：以人名 giess 命名（具体指向待考）
+
+EN — epithet *giessi*: Named after a person (giess), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

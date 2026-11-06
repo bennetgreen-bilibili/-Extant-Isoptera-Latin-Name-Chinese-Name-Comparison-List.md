@@ -32,6 +32,18 @@ EN — **大鼻瓢白蚁** (*Bulbitermes nasutus*) is a species of the genus *Bu
 
 ES — **大鼻瓢白蚁** (*Bulbitermes nasutus*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Bandar Baroe. Distribución: Indonesia.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *nasutus*：拉丁文 nasutus（大鼻的、具鼻突的）
+
+EN — epithet *nasutus*: Latin nasutus (large-nosed)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

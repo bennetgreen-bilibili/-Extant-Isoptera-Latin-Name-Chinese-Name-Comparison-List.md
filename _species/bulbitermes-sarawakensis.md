@@ -32,6 +32,18 @@ EN — **砂拉越瓢白蚁** (*Bulbitermes sarawakensis*) is a species of the g
 
 ES — **砂拉越瓢白蚁** (*Bulbitermes sarawakensis*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak, near Kuching. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *sarawakensis*：以地名 沙捞越（马来西亚） 命名
+
+EN — epithet *sarawakensis*: Named after the locality Sarawak
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

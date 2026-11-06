@@ -34,6 +34,18 @@ EN — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) is a species of the ge
 
 ES — **黑嘴针刺白蚁** (*Spinitermes nigrostomus*) es una especie del género *Spinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Holmgren en 1906; la localidad tipo es Bolivia: La Paz: Mojos \[14.5667S 68.8833W\]. Distribución: Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Spinitermes*：属名由拉丁文 spina（刺）与 termes（白蚁）组合。
+
+EN — *Spinitermes*: From Latin spina (spine) + termes.
+
+种加词 *nigrostomus*：拉丁文 niger（黑）+ 希腊文 stoma（口），黑口
+
+EN — epithet *nigrostomus*: Latin niger (black) + Greek stoma (mouth), black-mouthed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

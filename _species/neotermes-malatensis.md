@@ -29,6 +29,18 @@ EN — **马拉蒂新白蚁** (*Neotermes malatensis*) is a species of the genus
 
 ES — **马拉蒂新白蚁** (*Neotermes malatensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Oshima en 1917; la localidad tipo es Philippines: Luzon: Manila: Malate. Distribución: Philippines.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *malatensis*：以地名 malat 命名（具体地名待考）
+
+EN — epithet *malatensis*: Named after a locality (malat)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

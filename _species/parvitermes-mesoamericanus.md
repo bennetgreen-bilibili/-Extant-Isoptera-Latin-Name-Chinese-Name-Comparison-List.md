@@ -32,6 +32,18 @@ EN — **中美洲微白蚁** (*Parvitermes mesoamericanus*) is a species of the
 
 ES — **中美洲微白蚁** (*Parvitermes mesoamericanus*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Scheffrahn en 2016; la localidad tipo es Honduras: S. Pinalillo. Distribución: Guatemala, Nicaragua, Honduras.
 
+## 词源
+
+属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
+
+EN — *Parvitermes*: From Latin parvus (small) + termes.
+
+种加词 *mesoamericanus*：以地名 中美洲 命名
+
+EN — epithet *mesoamericanus*: Named after the locality Mesoameric
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

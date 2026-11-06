@@ -32,6 +32,18 @@ EN — **葱鼻喙白蚁** (*Rhynchotermes bulbinasus*) is a species of the genu
 
 ES — **葱鼻喙白蚁** (*Rhynchotermes bulbinasus*) es una especie del género *Rhynchotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Scheffrahn en 2010; la localidad tipo es Colombia: Sucre: Buenavista \[9.3145N 75.0285W\]. Distribución: Colombia.
 
+## 词源
+
+属名 *Rhynchotermes*：属名由希腊文 rhynchos（喙、吻）与拉丁文 termes（白蚁）组合。
+
+EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
+
+种加词 *bulbinasus*：拉丁文 bulbus（球茎）+ nasus（鼻），球鼻
+
+EN — epithet *bulbinasus*: Latin bulbus (bulb) + nasus (nose), bulb-nosed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

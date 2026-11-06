@@ -29,6 +29,18 @@ EN — **双凹新白蚁** (*Neotermes binovatus*) is a species of the genus *Ne
 
 ES — **双凹新白蚁** (*Neotermes binovatus*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Han en 1984; la localidad tipo es China: Guangdong Province: Hainan Island. Distribución: Hainan (Lehui).
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *binovatus*：拉丁文/希腊文 binov（二）+ atus（具），指二具
+
+EN — epithet *binovatus*: From binov (二) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

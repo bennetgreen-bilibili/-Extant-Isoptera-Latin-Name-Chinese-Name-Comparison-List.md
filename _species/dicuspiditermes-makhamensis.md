@@ -32,6 +32,18 @@ EN — **玛堪突扭白蚁** (*Dicuspiditermes makhamensis*) is a species of th
 
 ES — **玛堪突扭白蚁** (*Dicuspiditermes makhamensis*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ahmad en 1965; la localidad tipo es Thailand: Makham. Distribución: Thailand.
 
+## 词源
+
+属名 *Dicuspiditermes*：属名由拉丁文 di-（二）+ cuspis（尖）与 termes（白蚁）组合。
+
+EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
+
+种加词 *makhamensis*：以地名 makham 命名（具体地名待考）
+
+EN — epithet *makhamensis*: Named after a locality (makham)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

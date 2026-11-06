@@ -32,6 +32,18 @@ EN — **新奇异漠白蚁** (*Eremotermes neoparadoxalis*) is a species of the
 
 ES — **新奇异漠白蚁** (*Eremotermes neoparadoxalis*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Ahmad en 1955; la localidad tipo es Pakistan: Sind: Shahdadpur. Distribución: India, Pakistan.
 
+## 词源
+
+属名 *Eremotermes*：属名由希腊文 erēmos（荒漠、孤独）与拉丁文 termes（白蚁）组合。
+
+EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
+
+种加词 *neoparadoxalis*：拉丁文/希腊文 neoparadox（新）+ alis（相关），指新相关
+
+EN — epithet *neoparadoxalis*: From neoparadox (新) + alis (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **点囟木堆白蚁** (*Xylochomitermes punctillus*) is a species of the
 
 ES — **点囟木堆白蚁** (*Xylochomitermes punctillus*) es una especie del género *Xylochomitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland: Weipa. Distribución: Australia.
 
+## 词源
+
+属名 *Xylochomitermes*：属名由希腊文 xylon（木）+ chōma（土堆）与 termes（白蚁）组合。
+
+EN — *Xylochomitermes*: From Greek xylon (wood) + chōma (mound) + termes.
+
+种加词 *punctillus*：拉丁文/希腊文词根「punct」（刻点）
+
+EN — epithet *punctillus*: From the descriptive term 'punct' (punctate)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **古田近扭白蚁** (*Pericapritermes gutianensis*) is a species of th
 
 ES — **古田近扭白蚁** (*Pericapritermes gutianensis*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Li & Ma en 1983; la localidad tipo es China: Fujian Province: Shanghang: Gutian. Distribución: China (Fujian).
 
+## 词源
+
+属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
+
+种加词 *gutianensis*：以地名 古田（福建） 命名
+
+EN — epithet *gutianensis*: Named after the locality Gutian
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -29,6 +29,18 @@ EN — **巴雷特楹白蚁** (*Incisitermes barretti*) is a species of the genu
 
 ES — **巴雷特楹白蚁** (*Incisitermes barretti*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gay en 1976; la localidad tipo es Australia: Queensland: 33 km NW Cairns. Distribución: Australia.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *barretti*：以人名 Barrett 命名（具体指向待考）
+
+EN — epithet *barretti*: Named after a person (Barrett), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

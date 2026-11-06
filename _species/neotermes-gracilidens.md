@@ -29,6 +29,18 @@ EN — **细齿新白蚁** (*Neotermes gracilidens*) is a species of the genus *
 
 ES — **细齿新白蚁** (*Neotermes gracilidens*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Sjöstedt en 1925; la localidad tipo es Madagascar: ?. Distribución: Madagascar.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *gracilidens*：拉丁文/希腊文词根「gracil」（细长）
+
+EN — epithet *gracilidens*: From the descriptive term 'gracil' (slender)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -32,6 +32,18 @@ EN — **黄袍腹爆白蚁** (*Ruptitermes xanthochiton*) is a species and the 
 
 ES — **黄袍腹爆白蚁** (*Ruptitermes xanthochiton*) es una especie, y la especie tipo de su género del género *Ruptitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Mathews en 1977; la localidad tipo es Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition \[ 12.8145S 51.7745W \]. Distribución: South America, Brazil, Paraguay, French Guiana, Bolivia.
 
+## 词源
+
+属名 *Ruptitermes*：属名由拉丁文 ruptus（破裂的）与 termes（白蚁）组合。
+
+EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
+
+种加词 *xanthochiton*：希腊文 xanthos（黄）+ chitōn（壳、几丁质），黄壳
+
+EN — epithet *xanthochiton*: Greek xanthos (yellow) + chitōn (shell), yellow-shelled
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

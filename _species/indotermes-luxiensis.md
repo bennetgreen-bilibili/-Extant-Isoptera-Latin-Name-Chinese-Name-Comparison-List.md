@@ -32,6 +32,18 @@ EN — **潞西印白蚁** (*Indotermes luxiensis*) is a species of the genus *I
 
 ES — **潞西印白蚁** (*Indotermes luxiensis*) es una especie del género *Indotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Huang & Zhu en 1984; la localidad tipo es China: Yunnan Province: Luxi County. Distribución: China, Yunnan.
 
+## 词源
+
+属名 *Indotermes*：属名由地名 India（印度）+ 拉丁文 termes（白蚁）组合。
+
+EN — *Indotermes*: From India + Latin termes.
+
+种加词 *luxiensis*：以地名 泸西（云南） 命名
+
+EN — epithet *luxiensis*: Named after the locality Lux
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **红色缩白蚁** (*Constrictotermes rupestris*) is a species of the ge
 
 ES — **红色缩白蚁** (*Constrictotermes rupestris*) es una especie del género *Constrictotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Constantino en 1997; la localidad tipo es Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Constrictotermes*：属名由拉丁文 constrictus（缢缩的）与 termes（白蚁）组合。
+
+EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
+
+种加词 *rupestris*：拉丁文/希腊文词根「rupes」（岩）
+
+EN — epithet *rupestris*: From the descriptive term 'rupes' (rock)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **哥伦比亚马库希白蚁** (*Macuxitermes colombicus*) is a species 
 
 ES — **哥伦比亚马库希白蚁** (*Macuxitermes colombicus*) es una especie del género *Macuxitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Postle & Scheffrahn en 2016; la localidad tipo es Colombia: Magdalena: Ciénaga de Ortiz \[10.1518N 75.0436W\]. Distribución: Neotropics, Colombia.
 
+## 词源
+
+属名 *Macuxitermes*：属名由 Macuxi（马库希族，亚马逊原住民）与 termes（白蚁）组合。
+
+EN — *Macuxitermes*: From Macuxi (an Amazonian indigenous people) + termes.
+
+种加词 *colombicus*：以地名 哥伦比亚 命名
+
+EN — epithet *colombicus*: Named after the locality Colomb
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

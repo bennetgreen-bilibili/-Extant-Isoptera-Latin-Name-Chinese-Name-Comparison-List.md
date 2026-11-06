@@ -34,6 +34,18 @@ EN — **阿波雷马弓白蚁** (*Amitermes aporema*) is a species of the genus
 
 ES — **阿波雷马弓白蚁** (*Amitermes aporema*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Constantino en 1993; la localidad tipo es Brasil: Amapá: Aporema \[ 1.233N 50.78W \]. Distribución: Brazil. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *aporema*：希腊文 aporema（难题、困惑）
+
+EN — epithet *aporema*: Greek aporema (a difficulty, puzzle)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

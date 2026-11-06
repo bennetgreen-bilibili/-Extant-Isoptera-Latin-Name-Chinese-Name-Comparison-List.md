@@ -34,6 +34,18 @@ EN — **切割相似白蚁** (*Quasitermes incisus*) is the only extant species
 
 ES — **切割相似白蚁** (*Quasitermes incisus*) es la única especie viviente del género *Quasitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Cachan en 1949; la localidad tipo es Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina. Distribución: Madagascar. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Quasitermes*：属名由拉丁文 quasi（近似、类）与 termes（白蚁）组合。
+
+EN — *Quasitermes*: From Latin quasi (as if, resembling) + termes.
+
+种加词 *incisus*：拉丁文 incisus（切入的、具缺刻）
+
+EN — epithet *incisus*: Latin incisus (incised, notched)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

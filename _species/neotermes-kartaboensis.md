@@ -29,6 +29,18 @@ EN — **卡尔塔波新白蚁** (*Neotermes kartaboensis*) is a species of the 
 
 ES — **卡尔塔波新白蚁** (*Neotermes kartaboensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: French Guiana, Guyana.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *kartaboensis*：以地名 kartabo 命名（具体地名待考）
+
+EN — epithet *kartaboensis*: Named after a locality (kartabo)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

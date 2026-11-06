@@ -29,6 +29,18 @@ EN — **达尔前砂白蚁** (*Procryptotermes dhari*) is a species of the genu
 
 ES — **达尔前砂白蚁** (*Procryptotermes dhari*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roonwal & Chhotani en 1963; la localidad tipo es India: Tamil Nadu: Coimbatore, grounds of the Agricultural College \[approx. 11°00?N, 77°00?E\]. Distribución: India.
 
+## 词源
+
+属名 *Procryptotermes*：属名由希腊文 pro-（前、早）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
+
+种加词 *dhari*：以人名 dhar 命名（具体指向待考）
+
+EN — epithet *dhari*: Named after a person (dhar), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

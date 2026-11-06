@@ -32,6 +32,18 @@ EN — **玻利维亚角象白蚁** (*Cornitermes bolivianus*) is a species of t
 
 ES — **玻利维亚角象白蚁** (*Cornitermes bolivianus*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: Pando: near Lake Rogagua \[13.9667S 66.8667W\]. Distribución: Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela.
 
+## 词源
+
+属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Cornitermes*: From Latin cornu (horn) + termes.
+
+种加词 *bolivianus*：地名：玻利维亚
+
+EN — epithet *bolivianus*: After Bolivia
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

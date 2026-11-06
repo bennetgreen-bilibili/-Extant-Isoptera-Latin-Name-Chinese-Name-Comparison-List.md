@@ -32,6 +32,18 @@ EN — **索马里土白蚁** (*Odontotermes somaliensis*) is a species of the g
 
 ES — **索马里土白蚁** (*Odontotermes somaliensis*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1927; la localidad tipo es Somalia: Villaggio Duca degli Abruzzi. Distribución: East Africa, Somalia, Ethiopia.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *somaliensis*：以地名 索马里 命名
+
+EN — epithet *somaliensis*: Named after Somalia
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

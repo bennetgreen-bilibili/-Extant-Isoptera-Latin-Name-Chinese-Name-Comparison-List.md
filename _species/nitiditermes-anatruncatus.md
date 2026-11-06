@@ -32,6 +32,18 @@ EN — **反截净白蚁** (*Nitiditermes anatruncatus*) is a species of the gen
 
 ES — **反截净白蚁** (*Nitiditermes anatruncatus*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Natal: Conjeni. Distribución: South Africa.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *anatruncatus*：拉丁文/希腊文 anatrunc（上、再）+ atus（具），指上、再具
+
+EN — epithet *anatruncatus*: From anatrunc (上、再) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

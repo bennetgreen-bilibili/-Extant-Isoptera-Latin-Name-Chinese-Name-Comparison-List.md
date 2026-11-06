@@ -32,6 +32,18 @@ EN — **哈里斯孔白蚁** (*Foraminitermes harrisi*) is a species of the gen
 
 ES — **哈里斯孔白蚁** (*Foraminitermes harrisi*) es una especie del género *Foraminitermes*, en la familia TERMITIDAE (subfamilia Foraminitermitinae). La especie fue descrita por Krishna en 1963; la localidad tipo es Democratic Republic of the Congo: Keyberg, 10 km S Lubumbashi. Distribución: Democratic Republic of the Congo.
 
+## 词源
+
+属名 *Foraminitermes*：属名由拉丁文 foramen（孔）与 termes（白蚁）组合。
+
+EN — *Foraminitermes*: From Latin foramen (opening) + termes.
+
+种加词 *harrisi*：以人名 harris 命名（具体指向待考）
+
+EN — epithet *harrisi*: Named after a person (harris), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

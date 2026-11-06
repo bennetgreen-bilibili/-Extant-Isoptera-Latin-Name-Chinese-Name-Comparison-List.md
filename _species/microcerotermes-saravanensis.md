@@ -32,6 +32,18 @@ EN — **萨拉万锯白蚁** (*Microcerotermes saravanensis*) is a species of t
 
 ES — **萨拉万锯白蚁** (*Microcerotermes saravanensis*) es una especie del género *Microcerotermes*, en la familia TERMITIDAE (subfamilia Microcerotermitinae). La especie fue descrita por Ghayourfar en 2005; la localidad tipo es Iran: Sistan and Baluchistan Province: Saravan. Distribución: Iran.
 
+## 词源
+
+属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
+
+EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
+
+种加词 *saravanensis*：以地名 saravan 命名（具体地名待考）
+
+EN — epithet *saravanensis*: Named after a locality (saravan)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

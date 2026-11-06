@@ -32,6 +32,18 @@ EN — **连接瘤白蚁** (*Mirocapritermes connectens*) is a species and the t
 
 ES — **连接瘤白蚁** (*Mirocapritermes connectens*) es una especie, y la especie tipo de su género del género *Mirocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Holmgren en 1914; la localidad tipo es Indonesia: Sumatra: Tandjong Slamat. Distribución: Southeast Asia, Malaysia, Singapore.
 
+## 词源
+
+属名 *Mirocapritermes*：属名由拉丁文 mirus（奇异的）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Mirocapritermes*: From Latin mirus (wonderful) + caper (goat) + termes.
+
+种加词 *connectens*：拉丁文 connectens（连接的）
+
+EN — epithet *connectens*: Latin connectens (connecting)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

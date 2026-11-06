@@ -34,6 +34,18 @@ EN — **宽额象白蚁** (*Nasutitermes latifrons*) is a species of the genus 
 
 ES — **宽额象白蚁** (*Nasutitermes latifrons*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1896; la localidad tipo es Cameroon: Ekundu. Distribución: Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda. Este sitio registra 5 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
+
+EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
+
+种加词 *latifrons*：拉丁文/希腊文 lati（宽）+ frons（额），指宽额
+
+EN — epithet *latifrons*: From lati (宽) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

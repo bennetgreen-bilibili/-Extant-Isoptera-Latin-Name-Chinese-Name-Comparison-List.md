@@ -47,6 +47,13 @@ breadcrumb:
 <p>模式种：<i>Acorhinotermes subfusciceps</i>。</p>
 <p>本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；点开物种条目可查看各自模式产地、分布与参考文献。</p>
 </section>
+<section class="taxon-section taxon-etymology" data-pagefind-ignore>
+<h2>词源</h2>
+<p>属名含希腊文 rhis（鼻）与拉丁文 termes（白蚁）；前缀 acorhin- 组成未详。</p>
+<p class="etymology-en" lang="en">Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.</p>
+<!-- src:S0018 -->
+<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
+</section>
 {%- assign fz = site.data.fauna_genera["/genus/acorhinotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}

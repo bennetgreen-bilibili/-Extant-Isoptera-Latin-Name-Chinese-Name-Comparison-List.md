@@ -32,6 +32,18 @@ EN — **布拉干提纳圆白蚁** (*Rotunditermes bragantinus*) is a species o
 
 ES — **布拉干提纳圆白蚁** (*Rotunditermes bragantinus*) es una especie del género *Rotunditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Roonwal & Rathore en 1976; la localidad tipo es Brasil: Pará: Região Bragantina \[1.25S 47.75W\]. Distribución: Brazil, Colombia, French Guiana, Suriname, Ecuador, Peru.
 
+## 词源
+
+属名 *Rotunditermes*：属名由拉丁文 rotundus（圆的）与 termes（白蚁）组合。
+
+EN — *Rotunditermes*: From Latin rotundus (round) + termes.
+
+种加词 *bragantinus*：地名：布拉干萨（巴西）
+
+EN — epithet *bragantinus*: After Bragança (Brazil)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

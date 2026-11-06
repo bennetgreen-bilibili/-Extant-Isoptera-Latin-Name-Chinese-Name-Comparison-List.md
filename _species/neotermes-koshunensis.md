@@ -31,6 +31,18 @@ EN — **恒春新白蚁** (*Neotermes koshunensis*) is a species of the genus *
 
 ES — **恒春新白蚁** (*Neotermes koshunensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]. Distribución: East Asia, Taiwan, Japan. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *koshunensis*：以地名 koshun 命名（具体地名待考）
+
+EN — epithet *koshunensis*: Named after a locality (koshun)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

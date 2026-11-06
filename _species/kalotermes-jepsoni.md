@@ -29,6 +29,18 @@ EN — **杰普森木白蚁** (*Kalotermes jepsoni*) is a species of the genus *
 
 ES — **杰普森木白蚁** (*Kalotermes jepsoni*) es una especie del género *Kalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Kemner en 1932; la localidad tipo es Sri Lanka: Maskeliya. Distribución: Sri Lanka.
 
+## 词源
+
+属名 *Kalotermes*：属名由希腊文 kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
+
+种加词 *jepsoni*：以人名 jepson 命名（具体指向待考）
+
+EN — epithet *jepsoni*: Named after a person (jepson), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

@@ -29,6 +29,18 @@ EN — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) is a species of 
 
 ES — **宽唇狭鼻白蚁** (*Dolichorhinotermes latilabrum*) es una especie del género *Dolichorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Snyder en 1926; la localidad tipo es Bolivia: El Beni: Rio Ivón \[ 11.13S 66.13W \]. Distribución: South America, Brazil, French Guiana, Bolivia.
 
+## 词源
+
+属名 *Dolichorhinotermes*：属名由希腊文 dolichos（长）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Dolichorhinotermes*: From Greek dolichos (long) + rhis (nose) + Latin termes.
+
+种加词 *latilabrum*：拉丁文/希腊文词根「lat」（宽）
+
+EN — epithet *latilabrum*: From the descriptive term 'lat' (broad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）

@@ -32,6 +32,18 @@ EN — **山羊角扭白蚁** (*Capritermes capricornis*) is the only extant spe
 
 ES — **山羊角扭白蚁** (*Capritermes capricornis*) es la única especie viviente del género *Capritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Wasmann en 1893; la localidad tipo es Madagascar: Andrangoloaka. Distribución: Côte d'Ivoire, Madagascar.
 
+## 词源
+
+属名 *Capritermes*：属名由拉丁文 caper（山羊）与 termes（白蚁）组合，指兵蚁如羊角般弯曲不对称的上颚。
+
+EN — *Capritermes*: From Latin caper (goat) + termes, for the asymmetrically curved soldier mandibles.
+
+种加词 *capricornis*：拉丁文 caper（山羊）+ cornu（角），山羊角
+
+EN — epithet *capricornis*: Latin caper (goat) + cornu (horn), goat-horned
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

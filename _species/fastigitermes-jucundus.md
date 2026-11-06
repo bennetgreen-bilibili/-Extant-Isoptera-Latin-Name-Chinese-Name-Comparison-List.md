@@ -32,6 +32,18 @@ EN — **可爱峰白蚁** (*Fastigitermes jucundus*) is the only extant species
 
 ES — **可爱峰白蚁** (*Fastigitermes jucundus*) es la única especie viviente del género *Fastigitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria.
 
+## 词源
+
+属名 *Fastigitermes*：属名由拉丁文 fastigium（尖顶、脊）与 termes（白蚁）组合。
+
+EN — *Fastigitermes*: From Latin fastigium (summit, ridge) + termes.
+
+种加词 *jucundus*：拉丁文 jucundus（愉快的）
+
+EN — epithet *jucundus*: Latin jucundus (pleasant)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

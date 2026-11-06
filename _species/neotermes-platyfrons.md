@@ -29,6 +29,18 @@ EN — **宽额新白蚁** (*Neotermes platyfrons*) is a species of the genus *N
 
 ES — **宽额新白蚁** (*Neotermes platyfrons*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krecek & Scheffrahn en 2001; la localidad tipo es Dominican Republic: La Altagracia Province, 2.6 km SW of Punta Cana. Distribución: Dominican Republic.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *platyfrons*：拉丁文/希腊文 platy（宽扁）+ frons（额），指宽扁额
+
+EN — epithet *platyfrons*: From platy (宽扁) + frons (额)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

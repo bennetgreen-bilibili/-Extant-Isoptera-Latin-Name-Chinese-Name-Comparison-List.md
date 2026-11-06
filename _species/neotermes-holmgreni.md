@@ -31,6 +31,18 @@ EN — **霍姆格伦新白蚁** (*Neotermes holmgreni*) is a species of the gen
 
 ES — **霍姆格伦新白蚁** (*Neotermes holmgreni*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1918; la localidad tipo es Panama: Taboga Island. Distribución: Central America, Panama, Costa Rica, Guatemala, Mexico, South America, Colombia, Venezuela, Guyana, Caribbean, Grenada, Martinique, Trinidad and Tobago. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *holmgreni*：以人名 Holmgren 命名（瑞典白蚁学家 N. Holmgren）
+
+EN — epithet *holmgreni*: Named after the termite taxonomist N. Holmgren
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

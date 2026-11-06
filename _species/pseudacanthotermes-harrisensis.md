@@ -32,6 +32,18 @@ EN — **哈里斯伪刺白蚁** (*Pseudacanthotermes harrisensis*) is a species
 
 ES — **哈里斯伪刺白蚁** (*Pseudacanthotermes harrisensis*) es una especie del género *Pseudacanthotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Weidner en 1962; la localidad tipo es Sudan: Tozi Research Farm. Distribución: Sudan.
 
+## 词源
+
+属名 *Pseudacanthotermes*：属名由希腊文 pseudēs（假）+ akantha（刺）与拉丁文 termes（白蚁）组合。
+
+EN — *Pseudacanthotermes*: From Greek pseudēs (false) + akantha (thorn) + Latin termes.
+
+种加词 *harrisensis*：以地名 哈里斯（？） 命名
+
+EN — epithet *harrisensis*: Named after the locality Harris
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **球头始钩白蚁** (*Protohamitermes globiceps*) is the only extant s
 
 ES — **球头始钩白蚁** (*Protohamitermes globiceps*) es la única especie viviente del género *Protohamitermes*, en la familia TERMITIDAE (subfamilia Protohamitermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es Malaysia: Sarawak. Distribución: Brunei, Indonesia, Malaysia.
 
+## 词源
+
+属名 *Protohamitermes*：属名由希腊文 prōtos（最初）+（hami，或源自拉丁文 hamus「钩」）与 termes（白蚁）组合。
+
+EN — *Protohamitermes*: From Greek prōtos (first) + (hami, perhaps Latin hamus 'hook') + termes.
+
+种加词 *globiceps*：拉丁文/希腊文 globi（球）+ ceps（头），指球头
+
+EN — epithet *globiceps*: From globi (球) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

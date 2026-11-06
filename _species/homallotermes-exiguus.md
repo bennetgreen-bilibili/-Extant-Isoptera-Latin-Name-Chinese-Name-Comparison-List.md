@@ -32,6 +32,18 @@ EN — **微小平白蚁** (*Homallotermes exiguus*) is a species of the genus *
 
 ES — **微小平白蚁** (*Homallotermes exiguus*) es una especie del género *Homallotermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Krishna en 1972; la localidad tipo es Malaysia: Sarawak. Distribución: Indonesia, Malaysia.
 
+## 词源
+
+属名 *Homallotermes*：属名由希腊文 homalos（平的、均匀的）与拉丁文 termes（白蚁）组合。
+
+EN — *Homallotermes*: From Greek homalos (even, level) + Latin termes.
+
+种加词 *exiguus*：拉丁文/希腊文词根「exigu」（微小）
+
+EN — epithet *exiguus*: From the descriptive term 'exigu' (tiny)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

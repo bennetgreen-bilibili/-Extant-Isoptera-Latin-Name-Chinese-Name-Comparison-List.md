@@ -32,6 +32,18 @@ EN — **广西华象白蚁** (*Sinonasutitermes guangxiensis*) is a species of 
 
 ES — **广西华象白蚁** (*Sinonasutitermes guangxiensis*) es una especie del género *Sinonasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ping & Huang en 1991; la localidad tipo es China: Guangxi Province: Liuzhou Shi. Distribución: China.
 
+## 词源
+
+属名 *Sinonasutitermes*：属名由拉丁文 Sinae（中国）+ nasutus（具鼻突）与 termes（白蚁）组合。
+
+EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
+
+种加词 *guangxiensis*：以地名 广西 命名
+
+EN — epithet *guangxiensis*: Named after the locality Guangx
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

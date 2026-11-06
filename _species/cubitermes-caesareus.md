@@ -32,6 +32,18 @@ EN — **凯撒方白蚁** (*Cubitermes caesareus*) is a species of the genus *C
 
 ES — **凯撒方白蚁** (*Cubitermes caesareus*) es una especie del género *Cubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Democratic Republic of the Congo: Mukimbungu. Distribución: Old World tropics.
 
+## 词源
+
+属名 *Cubitermes*：属名由拉丁文 cubitus（肘）与 termes（白蚁）组合。
+
+EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
+
+种加词 *caesareus*：拉丁文 caesareus（恺撒的、帝王的）
+
+EN — epithet *caesareus*: Latin caesareus (of Caesar, imperial)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

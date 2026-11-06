@@ -29,6 +29,18 @@ EN — **榕树双裂白蚁** (*Bifiditermes mutubae*) is a species of the genus
 
 ES — **榕树双裂白蚁** (*Bifiditermes mutubae*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Harris en 1948; la localidad tipo es Uganda: Kawanda Agricultural Research Station. Distribución: Kenya, Democratic Republic of the Congo, Sudan, Tanzania, Uganda.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *mutubae*：以人名 mutub 命名（具体指向待考）
+
+EN — epithet *mutubae*: Named after a person (mutub), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

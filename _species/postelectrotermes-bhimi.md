@@ -29,6 +29,18 @@ EN — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) is a species of the
 
 ES — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) es una especie del género *Postelectrotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Roonwal & Maiti en 1965; la localidad tipo es India: Kerala: Kottayam District: Vandiperiyar village. Distribución: South Asia, India.
 
+## 词源
+
+属名 *Postelectrotermes*：属名由拉丁文 post（后）+ 希腊文 ēlektron（琥珀）与 termes（白蚁）组合（可能与琥珀化石相关）。
+
+EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
+
+种加词 *bhimi*：以人名 bhim 命名（具体指向待考）
+
+EN — epithet *bhimi*: Named after a person (bhim), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

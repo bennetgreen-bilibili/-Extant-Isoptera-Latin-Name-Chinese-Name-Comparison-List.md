@@ -29,6 +29,18 @@ EN — **棕角胄白蚁** (*Stolotermes brunneicornis*) is a species and the ty
 
 ES — **棕角胄白蚁** (*Stolotermes brunneicornis*) es una especie, y la especie tipo de su género del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Australia: Tasmania. Distribución: Australia.
 
+## 词源
+
+属名 *Stolotermes*：属名由拉丁文 stolo（根出条、匍匐枝）与 termes（白蚁）组合。
+
+EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
+
+种加词 *brunneicornis*：拉丁文/希腊文 brunnei（褐）+ cornis（角），指褐角
+
+EN — epithet *brunneicornis*: From brunnei (褐) + cornis (角)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

@@ -32,6 +32,18 @@ EN — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) is a species 
 
 ES — **布盖塞拉多铲白蚁** (*Polyspathotermes bugeserae*) es una especie del género *Polyspathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Bouillon & Vincke en 1971; la localidad tipo es Rwanda: Bugesera. Distribución: Rwanda.
 
+## 词源
+
+属名 *Polyspathotermes*：属名由希腊文 polys（多）+ spathē（阔刀、匙）与拉丁文 termes（白蚁）组合。
+
+EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
+
+种加词 *bugeserae*：以人名 bugeser 命名（具体指向待考）
+
+EN — epithet *bugeserae*: Named after a person (bugeser), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

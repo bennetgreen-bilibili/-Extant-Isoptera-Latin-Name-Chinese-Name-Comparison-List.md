@@ -29,6 +29,18 @@ EN — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) is a species 
 
 ES — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1901; la localidad tipo es Ecuador: Galápagos: Isla Wolf (Wenman) \[ 1.38N 91.82W \]. Distribución: Ecuador.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *galapagoensis*：以地名 galapago 命名（具体地名待考）
+
+EN — epithet *galapagoensis*: Named after a locality (galapago)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

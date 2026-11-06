@@ -29,6 +29,18 @@ EN — **火山皱白蚁** (*Rugitermes volcanensis*) is a species of the genus 
 
 ES — **火山皱白蚁** (*Rugitermes volcanensis*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn en 2020; la localidad tipo es Bolivia: Santa Cruz: Amboró National Park \[ 18.1197S 63.6088W \]. Distribución: Bolivia.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *volcanensis*：拉丁文 volcanus（火山）＋-ensis，指火山的、生于火山环境
+
+EN — epithet *volcanensis*: Latin volcanus (volcano) + -ensis: volcanic, of volcanic habitat
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

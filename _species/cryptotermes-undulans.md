@@ -29,6 +29,18 @@ EN — **纹头堆砂白蚁** (*Cryptotermes undulans*) is a species of the genu
 
 ES — **纹头堆砂白蚁** (*Cryptotermes undulans*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 1999; la localidad tipo es Puerto Rico: 2 km E Recio on Hwy 3. Distribución: Puerto Rico, United States Virgin Islands.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *undulans*：拉丁文 undulans（波状的）
+
+EN — epithet *undulans*: Latin undulans (wavy)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

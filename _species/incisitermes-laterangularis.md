@@ -29,6 +29,18 @@ EN — **侧角楹白蚁** (*Incisitermes laterangularis*) is a species of the g
 
 ES — **侧角楹白蚁** (*Incisitermes laterangularis*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Han en 1982; la localidad tipo es China: Zhejiang Province: Ninghai. Distribución: China.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *laterangularis*：拉丁文/希腊文 laterangul（宽）+ aris（相关），指宽相关
+
+EN — epithet *laterangularis*: From laterangul (宽) + aris (相关)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

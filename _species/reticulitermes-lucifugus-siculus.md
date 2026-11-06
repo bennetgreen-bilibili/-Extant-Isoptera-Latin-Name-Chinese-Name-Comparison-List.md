@@ -30,6 +30,18 @@ EN — **西西里亚种** (*Reticulitermes lucifugus siculus*) is a subspecies 
 
 ES — **西西里亚种** (*Reticulitermes lucifugus siculus*) es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Ghesini, Luchetti & Marini en 2024; la localidad tipo es Italy: Sicily. No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus*.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *siculus*：拉丁文 siculus（西西里岛的，Sicilia=西西里岛）
+
+EN — epithet *siculus*: Latin siculus (of Sicily)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

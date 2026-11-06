@@ -29,6 +29,18 @@ EN — **扁额上木白蚁** (*Epicalotermes planifrons*) is a species of the g
 
 ES — **扁额上木白蚁** (*Epicalotermes planifrons*) es una especie del género *Epicalotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna en 1962; la localidad tipo es Madagascar: 15 km SE Tuléar. Distribución: Madagascar.
 
+## 词源
+
+属名 *Epicalotermes*：属名由希腊文 epi-（在上）+ kalos（美）与拉丁文 termes（白蚁）组合。
+
+EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
+
+种加词 *planifrons*：拉丁文 planus（平）+ frons（额），指额平
+
+EN — epithet *planifrons*: Latin planus (flat) + frons (front), flat-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

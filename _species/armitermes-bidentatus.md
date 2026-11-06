@@ -32,6 +32,18 @@ EN — **双齿戟白蚁** (*Armitermes bidentatus*) is a species of the genus *
 
 ES — **双齿戟白蚁** (*Armitermes bidentatus*) es una especie del género *Armitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Rocha & Cancello en 2012; la localidad tipo es Brasil: Goiás: Cristianópolis \[17.1992S 48.7058W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Armitermes*：属名由拉丁文 arma（武器、武装）与 termes（白蚁）组合。
+
+EN — *Armitermes*: From Latin arma (arms, weapons) + termes.
+
+种加词 *bidentatus*：拉丁文 bi-（二）+ dentatus（有齿），双齿
+
+EN — epithet *bidentatus*: Latin bi- (two) + dentatus (toothed), two-toothed
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

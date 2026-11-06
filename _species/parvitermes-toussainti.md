@@ -32,6 +32,18 @@ EN — **图森特微白蚁** (*Parvitermes toussainti*) is a species of the gen
 
 ES — **图森特微白蚁** (*Parvitermes toussainti*) es una especie del género *Parvitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Banks en 1919; la localidad tipo es Haiti: Milot. Distribución: Dominican Republic, Haiti.
 
+## 词源
+
+属名 *Parvitermes*：属名由拉丁文 parvus（小）与 termes（白蚁）组合。
+
+EN — *Parvitermes*: From Latin parvus (small) + termes.
+
+种加词 *toussainti*：以人名 toussaint 命名（具体指向待考）
+
+EN — epithet *toussainti*: Named after a person (toussaint), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

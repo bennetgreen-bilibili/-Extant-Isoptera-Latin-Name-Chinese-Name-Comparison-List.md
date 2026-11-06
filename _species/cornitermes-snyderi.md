@@ -32,6 +32,18 @@ EN — **斯奈德角象白蚁** (*Cornitermes snyderi*) is a species of the gen
 
 ES — **斯奈德角象白蚁** (*Cornitermes snyderi*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[13.9667S 66.8667W\]. Distribución: Brazil, Colombia, Bolivia, Ecuador.
 
+## 词源
+
+属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
+
+EN — *Cornitermes*: From Latin cornu (horn) + termes.
+
+种加词 *snyderi*：以人名 Snyder 命名（美国白蚁学家 T. E. Snyder）
+
+EN — epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

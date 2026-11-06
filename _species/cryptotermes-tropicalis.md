@@ -29,6 +29,18 @@ EN — **热带堆砂白蚁** (*Cryptotermes tropicalis*) is a species of the ge
 
 ES — **热带堆砂白蚁** (*Cryptotermes tropicalis*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gay & Watson en 1982; la localidad tipo es Australia: Queensland: Gadgarra State Forest, 17 km E by S Yungaburra. Distribución: Australia.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *tropicalis*：希腊文 tropikos（回归线的）+ 拉丁文 -alis，热带的
+
+EN — epithet *tropicalis*: Greek tropikos (tropical) + Latin -alis, tropical
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

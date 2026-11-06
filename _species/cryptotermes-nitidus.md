@@ -29,6 +29,18 @@ EN — **亮头堆砂白蚁** (*Cryptotermes nitidus*) is a species of the genus
 
 ES — **亮头堆砂白蚁** (*Cryptotermes nitidus*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gay & Watson en 1982; la localidad tipo es Australia: Queensland, 8 km NE Goondivindi. Distribución: Australia.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *nitidus*：拉丁文 nitidus（光泽）
+
+EN — epithet *nitidus*: Latin nitidus (shining)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

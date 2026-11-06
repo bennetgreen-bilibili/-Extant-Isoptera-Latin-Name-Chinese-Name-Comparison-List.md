@@ -29,6 +29,18 @@ EN — **湖南散白蚁** (*Reticulitermes hunanensis*) is a species of the gen
 
 ES — **湖南散白蚁** (*Reticulitermes hunanensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Tsai & Peng en 1980; la localidad tipo es China: Hunan Province: Yizhang. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *hunanensis*：以地名 湖南 命名
+
+EN — epithet *hunanensis*: Named after the locality Hunan
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

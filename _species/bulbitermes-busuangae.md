@@ -32,6 +32,18 @@ EN — **布桑加瓢白蚁** (*Bulbitermes busuangae*) is a species of the genu
 
 ES — **布桑加瓢白蚁** (*Bulbitermes busuangae*) es una especie del género *Bulbitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Light & Wilson en 1936; la localidad tipo es Philippines: Palawan: Busuanga Island: Coron. Distribución: Philippines.
 
+## 词源
+
+属名 *Bulbitermes*：属名由拉丁文 bulbus（球茎）与 termes（白蚁）组合。
+
+EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
+
+种加词 *busuangae*：以人名 busuang 命名（具体指向待考）
+
+EN — epithet *busuangae*: Named after a person (busuang), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

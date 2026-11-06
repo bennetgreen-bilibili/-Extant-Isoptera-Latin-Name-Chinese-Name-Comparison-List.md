@@ -32,6 +32,18 @@ EN — **塞内加尔漠白蚁** (*Eremotermes senegalensis*) is a species of th
 
 ES — **塞内加尔漠白蚁** (*Eremotermes senegalensis*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Mampouya, Fleck & Nel en 1997; la localidad tipo es Senegal: Richard-Toll County: Richard-Toll, 376 km North of Dakar. Distribución: Senegal.
 
+## 词源
+
+属名 *Eremotermes*：属名由希腊文 erēmos（荒漠、孤独）与拉丁文 termes（白蚁）组合。
+
+EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
+
+种加词 *senegalensis*：以地名 塞内加尔 命名
+
+EN — epithet *senegalensis*: Named after the locality Senegal
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

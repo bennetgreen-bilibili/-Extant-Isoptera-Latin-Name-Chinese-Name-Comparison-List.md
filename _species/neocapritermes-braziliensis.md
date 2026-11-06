@@ -32,6 +32,18 @@ EN — **巴西新扭白蚁** (*Neocapritermes braziliensis*) is a species of th
 
 ES — **巴西新扭白蚁** (*Neocapritermes braziliensis*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Snyder en 1926; la localidad tipo es Brasil: Amazonas: União, rio Mataurá \[ 5.582S 60.815W \]. Distribución: Brazil, Colombia, Peru, Venezuela.
 
+## 词源
+
+属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
+
+种加词 *braziliensis*：以地名 巴西 命名
+
+EN — epithet *braziliensis*: Named after the locality Brazil
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

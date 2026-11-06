@@ -34,6 +34,18 @@ EN — **似锥似锥白蚁** (*Subulioiditermes subulioides*) is a species and 
 
 ES — **似锥似锥白蚁** (*Subulioiditermes subulioides*) es una especie, y la especie tipo de su género del género *Subulioiditermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Ahmad en 1968; la localidad tipo es Malaysia: Pahang: Fraser’s Hill. Distribución: Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Subulioiditermes*：属名由拉丁文 subula（锥、钻）+ 希腊文 -oides（似）与 termes（白蚁）组合。
+
+EN — *Subulioiditermes*: From Latin subula (awl) + Greek -oides (like) + termes.
+
+种加词 *subulioides*：拉丁文/希腊文 subuli（下、近）+ oides（似），指下、近似
+
+EN — epithet *subulioides*: From subuli (下、近) + oides (似)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

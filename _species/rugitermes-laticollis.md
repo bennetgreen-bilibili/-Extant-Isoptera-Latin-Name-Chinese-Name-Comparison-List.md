@@ -29,6 +29,18 @@ EN — **宽颈皱白蚁** (*Rugitermes laticollis*) is a species of the genus *
 
 ES — **宽颈皱白蚁** (*Rugitermes laticollis*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder en 1957; la localidad tipo es Bolivia: La Paz: La Paz \[ 16.5S 68.15W \]. Distribución: Ecuador, Bolivia.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *laticollis*：拉丁文/希腊文 lati（宽）+ collis（颈），指宽颈
+
+EN — epithet *laticollis*: From lati (宽) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

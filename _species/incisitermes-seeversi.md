@@ -29,6 +29,18 @@ EN — **西弗斯楹白蚁** (*Incisitermes seeversi*) is a species of the genu
 
 ES — **西弗斯楹白蚁** (*Incisitermes seeversi*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Snyder & Emerson en 1949; la localidad tipo es Mexico: Madre Maria Island. Distribución: Mexico, Guatemala.
 
+## 词源
+
+属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
+
+EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
+
+种加词 *seeversi*：以人名 seevers 命名（具体指向待考）
+
+EN — epithet *seeversi*: Named after a person (seevers), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

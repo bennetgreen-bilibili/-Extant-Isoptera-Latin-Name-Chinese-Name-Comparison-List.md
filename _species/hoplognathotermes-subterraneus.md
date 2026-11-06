@@ -34,6 +34,18 @@ EN — **土栖锐颚白蚁** (*Hoplognathotermes subterraneus*) is a species an
 
 ES — **土栖锐颚白蚁** (*Hoplognathotermes subterraneus*) es una especie, y la especie tipo de su género del género *Hoplognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Conakry; Kakoulima. Distribución: West Africa, Côte d'Ivoire. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Hoplognathotermes*：属名由希腊文 hoplon（武器）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Hoplognathotermes*: From Greek hoplon (weapon) + gnathos (jaw) + Latin termes.
+
+种加词 *subterraneus*：拉丁文 subterraneus（地下的）
+
+EN — epithet *subterraneus*: Latin subterraneus (subterranean)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

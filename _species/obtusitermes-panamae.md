@@ -32,6 +32,18 @@ EN — **巴拿马钝白蚁** (*Obtusitermes panamae*) is a species and the type
 
 ES — **巴拿马钝白蚁** (*Obtusitermes panamae*) es una especie, y la especie tipo de su género del género *Obtusitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Snyder en 1925; la localidad tipo es Panama: Quipo. Distribución: Panama, Costa Rica, Colombia.
 
+## 词源
+
+属名 *Obtusitermes*：属名由拉丁文 obtusus（钝的）与 termes（白蚁）组合。
+
+EN — *Obtusitermes*: From Latin obtusus (blunt) + termes.
+
+种加词 *panamae*：以人名 panam 命名（具体指向待考）
+
+EN — epithet *panamae*: Named after a person (panam), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

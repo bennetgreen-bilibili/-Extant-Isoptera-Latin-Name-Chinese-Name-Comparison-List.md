@@ -32,6 +32,18 @@ EN — **朝比奈须白蚁** (*Hospitalitermes asahinai*) is a species of the g
 
 ES — **朝比奈须白蚁** (*Hospitalitermes asahinai*) es una especie del género *Hospitalitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Morimoto en 1973; la localidad tipo es Thailand: Khao Chong. Distribución: Thailand.
 
+## 词源
+
+属名 *Hospitalitermes*：属名由拉丁文 hospes（客人、宿主）与 termes（白蚁）组合。
+
+EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
+
+种加词 *asahinai*：以人名 asahina 命名（具体指向待考）
+
+EN — epithet *asahinai*: Named after a person (asahina), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

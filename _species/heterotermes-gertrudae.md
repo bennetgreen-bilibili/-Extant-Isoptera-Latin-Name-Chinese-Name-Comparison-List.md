@@ -29,6 +29,18 @@ EN — **格特鲁德异白蚁** (*Heterotermes gertrudae*) is a species of the 
 
 ES — **格特鲁德异白蚁** (*Heterotermes gertrudae*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Roonwal en 1953; la localidad tipo es India: Uttarakhand: Almora. Distribución: South Asia, India, Pakistan.
 
+## 词源
+
+属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
+
+种加词 *gertrudae*：以人名 gertrud 命名（具体指向待考）
+
+EN — epithet *gertrudae*: Named after a person (gertrud), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

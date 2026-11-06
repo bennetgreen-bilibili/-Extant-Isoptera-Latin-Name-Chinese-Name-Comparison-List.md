@@ -32,6 +32,18 @@ EN — **第二旁扭白蚁** (*Paracapritermes secundus*) is a species of the g
 
 ES — **第二旁扭白蚁** (*Paracapritermes secundus*) es una especie del género *Paracapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Queensland, 24 km W by N of Cape Tribulation. Distribución: Australia.
 
+## 词源
+
+属名 *Paracapritermes*：属名由希腊文 para-（旁）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Paracapritermes*: From Greek para- (beside) + Latin caper (goat) + termes.
+
+种加词 *secundus*：拉丁文 secundus（第二）
+
+EN — epithet *secundus*: Latin secundus (second)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

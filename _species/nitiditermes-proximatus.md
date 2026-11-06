@@ -32,6 +32,18 @@ EN — **近净白蚁** (*Nitiditermes proximatus*) is a species of the genus *N
 
 ES — **近净白蚁** (*Nitiditermes proximatus*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Kindia; Mamou. Distribución: West Africa, Senegal, Côte d'Ivoire, Burkina Faso, Kenya, Tanzania.
 
+## 词源
+
+属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
+
+EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
+
+种加词 *proximatus*：拉丁文/希腊文 proxim（前）+ atus（具），指前具
+
+EN — epithet *proximatus*: From proxim (前) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

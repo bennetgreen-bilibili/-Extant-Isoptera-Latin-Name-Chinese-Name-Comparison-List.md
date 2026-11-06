@@ -32,6 +32,18 @@ EN — **大华扭白蚁** (*Sinocapritermes magnus*) is a species of the genus 
 
 ES — **大华扭白蚁** (*Sinocapritermes magnus*) es una especie del género *Sinocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Ping & Xu en 1986; la localidad tipo es China: Sichuan Province: Chonquing Shi. Distribución: China, Guizhou, Guangxi, Jiangxi, Chongqing.
 
+## 词源
+
+属名 *Sinocapritermes*：属名由拉丁文 Sinae（中国）+ caper（山羊）与 termes（白蚁）组合。
+
+EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
+
+种加词 *magnus*：拉丁文 magnus（大）
+
+EN — epithet *magnus*: Latin magnus (large)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **库尔坎土白蚁** (*Odontotermes kulkarni*) is a species of the genu
 
 ES — **库尔坎土白蚁** (*Odontotermes kulkarni*) es una especie del género *Odontotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Roonwal & Chhotani en 1959; la localidad tipo es India: Karnataka: Bijapur. Distribución: India.
 
+## 词源
+
+属名 *Odontotermes*：属名由希腊文 odous（齿）与拉丁文 termes（白蚁）组合。
+
+EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
+
+种加词 *kulkarni*：以人名 kulkarn 命名（具体指向待考）
+
+EN — epithet *kulkarni*: Named after a person (kulkarn), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **无冠等颚白蚁** (*Isognathotermes acristatus*) is a species of the
 
 ES — **无冠等颚白蚁** (*Isognathotermes acristatus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Angola: Mussende \[ 10.5528S 15.6582E \]. Distribución: Angola.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *acristatus*：拉丁文/希腊文 a-（无、不）+ cristatus（冠），指无冠
+
+EN — epithet *acristatus*: From a- (without) + cristatus (冠)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

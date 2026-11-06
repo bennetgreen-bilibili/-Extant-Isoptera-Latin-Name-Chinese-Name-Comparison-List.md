@@ -29,6 +29,18 @@ EN — **角状双裂白蚁** (*Bifiditermes angulatus*) is a species of the gen
 
 ES — **角状双裂白蚁** (*Bifiditermes angulatus*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Wilkinson en 1959; la localidad tipo es Tanzania: East Usambara: Amani, Kiswani. Distribución: East Africa.
 
+## 词源
+
+属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
+
+EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
+
+种加词 *angulatus*：拉丁文/希腊文 angul（角）+ atus（具），指角具
+
+EN — epithet *angulatus*: From angul (角) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

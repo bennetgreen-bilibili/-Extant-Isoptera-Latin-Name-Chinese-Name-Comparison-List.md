@@ -32,6 +32,18 @@ EN — **吉法德大前白蚁** (*Megaprotermes giffardii*) is the only extant 
 
 ES — **吉法德大前白蚁** (*Megaprotermes giffardii*) es la única especie viviente del género *Megaprotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Silvestri en 1914; la localidad tipo es Nigeria: Ibadan. Distribución: Côte d'Ivoire, Central African Republic, Democratic Republic of the Congo, Gambia, Ghana, Nigeria, Senegal.
 
+## 词源
+
+属名 *Megaprotermes*：属名由希腊文 megas（大）+ pro-（前）与拉丁文 termes（白蚁）组合。
+
+EN — *Megaprotermes*: From Greek megas (large) + pro- (before) + Latin termes.
+
+种加词 *giffardii*：以人名 giffard 命名（具体指向待考）
+
+EN — epithet *giffardii*: Named after a person (giffard), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

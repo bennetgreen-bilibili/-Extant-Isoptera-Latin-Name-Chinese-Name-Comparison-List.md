@@ -31,6 +31,18 @@ EN — **小径无刺白蚁** (*Anacanthotermes viarum*) is a species of the gen
 
 ES — **小径无刺白蚁** (*Anacanthotermes viarum*) es una especie del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por König en 1779; la localidad tipo es India: Tamil Nadu: Coimbatore. Distribución: India, Sri Lanka. Este sitio registra 2 sinónimos junior para la especie.
 
+## 词源
+
+属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
+
+EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
+
+种加词 *viarum*：拉丁文 via（路）的复数属格
+
+EN — epithet *viarum*: Latin viarum (of roads)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）

@@ -32,6 +32,18 @@ EN — **马里扎尔红懒白蚁** (*Mapinguaritermes marizalensis*) is a speci
 
 ES — **马里扎尔红懒白蚁** (*Mapinguaritermes marizalensis*) es una especie del género *Mapinguaritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Lucena, Cysneiros & Vasconcellos en 2026; la localidad tipo es Brasil: Amazonas: Marizal. Distribución: Brazil.
 
+## 词源
+
+属名 *Mapinguaritermes*：属名由 Mapinguari（亚马逊神话中的巨兽）与 termes（白蚁）组合。
+
+EN — *Mapinguaritermes*: From Mapinguari (a mythical Amazonian beast) + termes.
+
+种加词 *marizalensis*：以地名 marizal 命名（具体地名待考）
+
+EN — epithet *marizalensis*: Named after a locality (marizal)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

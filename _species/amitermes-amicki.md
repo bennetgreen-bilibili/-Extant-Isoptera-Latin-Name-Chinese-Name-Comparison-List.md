@@ -32,6 +32,18 @@ EN — **阿米克弓白蚁** (*Amitermes amicki*) is a species of the genus *Am
 
 ES — **阿米克弓白蚁** (*Amitermes amicki*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Scheffrahn en 1999; la localidad tipo es Aruba: Palm Beach. Distribución: Aruba, Colombia, Venezuela.
 
+## 词源
+
+属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *amicki*：以人名 amick 命名（具体指向待考）
+
+EN — epithet *amicki*: Named after a person (amick), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

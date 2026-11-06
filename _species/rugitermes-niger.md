@@ -29,6 +29,18 @@ EN — **黑色皱白蚁** (*Rugitermes niger*) is a species of the genus *Rugit
 
 ES — **黑色皱白蚁** (*Rugitermes niger*) es una especie del género *Rugitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Oliveira en 1979; la localidad tipo es Brasil: Paraná: Quatro Barras \[ 25.3656S 49.0769W \]. Distribución: Brazil, Argentina.
 
+## 词源
+
+属名 *Rugitermes*：属名由拉丁文 ruga（皱纹）与 termes（白蚁）组合。
+
+EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
+
+种加词 *niger*：拉丁文 niger（黑）
+
+EN — epithet *niger*: Latin niger (black)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

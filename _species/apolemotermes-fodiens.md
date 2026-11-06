@@ -32,6 +32,18 @@ EN — **挖掘和平白蚁** (*Apolemotermes fodiens*) is the only extant speci
 
 ES — **挖掘和平白蚁** (*Apolemotermes fodiens*) es la única especie viviente del género *Apolemotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Romero-Arias & Roisin en 2021; la localidad tipo es Cameroon: Région Centre, near Mbalmayo, Feikele village (3.4807 11.5772) \[ 3.4807N 11.5772E \]. Distribución: Cameroon.
 
+## 词源
+
+属名 *Apolemotermes*：属名由希腊文 a-（无）+ polemos（战争、兵）与拉丁文 termes（白蚁）组合，意为「无兵蚁的白蚁」。
+
+EN — *Apolemotermes*: From Greek a- (without) + polemos (war) + Latin termes, 'termite without soldiers'.
+
+种加词 *fodiens*：拉丁文 fodiens（挖掘的）
+
+EN — epithet *fodiens*: Latin fodiens (digging)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

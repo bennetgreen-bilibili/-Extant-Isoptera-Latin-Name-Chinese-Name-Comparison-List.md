@@ -29,6 +29,18 @@ EN — **维拉格塔马蒂新白蚁** (*Neotermes viraktamathi*) is a species o
 
 ES — **维拉格塔马蒂新白蚁** (*Neotermes viraktamathi*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Ranjith & Kalleshwaraswamy en 2022; la localidad tipo es India: Karnataka: Hebri-Karkala Rd \[ 13.4428N 75.0183E \]. Distribución: India, Karnataka.
 
+## 词源
+
+属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
+
+EN — *Neotermes*: From Greek neos (new) + Latin termes.
+
+种加词 *viraktamathi*：以人名 viraktamath 命名（具体指向待考）
+
+EN — epithet *viraktamathi*: Named after a person (viraktamath), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

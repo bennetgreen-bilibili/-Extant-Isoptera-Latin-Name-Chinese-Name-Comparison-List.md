@@ -32,6 +32,18 @@ EN — **戈拉皮斯怒白蚁** (*Lacessititermes kolapisensis*) is a species o
 
 ES — **戈拉皮斯怒白蚁** (*Lacessititermes kolapisensis*) es una especie del género *Lacessititermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan North District: Kolapis Forest, mile 4. Distribución: Malaysia (Sabah).
 
+## 词源
+
+属名 *Lacessititermes*：属名由拉丁文 lacessitus（被挑衅的、被攻击的）与 termes（白蚁）组合。
+
+EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
+
+种加词 *kolapisensis*：以地名 kolapis 命名（具体地名待考）
+
+EN — epithet *kolapisensis*: Named after a locality (kolapis)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

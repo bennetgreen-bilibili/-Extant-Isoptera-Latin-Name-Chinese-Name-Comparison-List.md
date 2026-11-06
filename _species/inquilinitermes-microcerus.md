@@ -32,6 +32,18 @@ EN — **小角客白蚁** (*Inquilinitermes microcerus*) is a species of the ge
 
 ES — **小角客白蚁** (*Inquilinitermes microcerus*) es una especie del género *Inquilinitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá \[15.5961S 56.0967W\]. Distribución: Brazil.
 
+## 词源
+
+属名 *Inquilinitermes*：属名由拉丁文 inquilinus（寄居的、客居的）与 termes（白蚁）组合。
+
+EN — *Inquilinitermes*: From Latin inquilinus (inquiline) + termes.
+
+种加词 *microcerus*：拉丁文/希腊文 micro（小）+ cerus（角），指小角
+
+EN — epithet *microcerus*: From micro (小) + cerus (角)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

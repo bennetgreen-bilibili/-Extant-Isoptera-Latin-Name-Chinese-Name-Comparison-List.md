@@ -32,6 +32,18 @@ EN — **盈江地白蚁** (*Hypotermes yingjiangensis*) is a species of the gen
 
 ES — **盈江地白蚁** (*Hypotermes yingjiangensis*) es una especie del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Huang & Zhu en 1990; la localidad tipo es China: Yunnan Province: Yingjiang County: Manyun. Distribución: China (Yunnan).
 
+## 词源
+
+属名 *Hypotermes*：属名由希腊文 hypo-（下、稍）与拉丁文 termes（白蚁）组合。
+
+EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
+
+种加词 *yingjiangensis*：以地名 盈江（云南） 命名
+
+EN — epithet *yingjiangensis*: Named after the locality Yingjiang
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

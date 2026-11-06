@@ -31,6 +31,18 @@ EN — **方颈洞白蚁** (*Porotermes quadricollis*) is a species and the type
 
 ES — **方颈洞白蚁** (*Porotermes quadricollis*) es una especie, y la especie tipo de su género del género *Porotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Rambur en 1842; la localidad tipo es Chile: ?. Distribución: Chile and southern South America. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Porotermes*：属名由希腊文 poros（孔、通道）与拉丁文 termes（白蚁）组合。
+
+EN — *Porotermes*: From Greek poros (pore, passage) + Latin termes.
+
+种加词 *quadricollis*：拉丁文/希腊文 quadri（方）+ collis（颈），指方颈
+
+EN — epithet *quadricollis*: From quadri (方) + collis (颈)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

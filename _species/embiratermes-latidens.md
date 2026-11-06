@@ -32,6 +32,18 @@ EN — **宽齿生白蚁** (*Embiratermes latidens*) is a species of the genus *
 
 ES — **宽齿生白蚁** (*Embiratermes latidens*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson & Banks en 1957; la localidad tipo es Brasil: Amazonas: Autazes, Rio Autaz \[3.58S 59.125W\]. Distribución: Brazil, Bolivia, Colombia, Paraguay, Peru, Suriname, Venezuela.
 
+## 词源
+
+属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
+
+EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
+
+种加词 *latidens*：拉丁文/希腊文词根「lat」（宽）
+
+EN — epithet *latidens*: From the descriptive term 'lat' (broad)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

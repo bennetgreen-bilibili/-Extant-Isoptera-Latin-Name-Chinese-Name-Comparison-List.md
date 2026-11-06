@@ -34,6 +34,18 @@ EN — **显赫多铲白蚁** (*Polyspathotermes inclitus*) is a species of the 
 
 ES — **显赫多铲白蚁** (*Polyspathotermes inclitus*) es una especie del género *Polyspathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Silvestri en 1912; la localidad tipo es Zambia: Banguelo. Distribución: Congo, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Uganda, Zambia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Polyspathotermes*：属名由希腊文 polys（多）+ spathē（阔刀、匙）与拉丁文 termes（白蚁）组合。
+
+EN — *Polyspathotermes*: From Greek polys (many) + spathē (spatula) + Latin termes.
+
+种加词 *inclitus*：拉丁文 inclitus（著名的、显赫的）
+
+EN — epithet *inclitus*: Latin inclitus (renowned)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

@@ -32,6 +32,18 @@ EN — **章凤前扭白蚁** (*Procapritermes zhangfengensis*) is a species of 
 
 ES — **章凤前扭白蚁** (*Procapritermes zhangfengensis*) es una especie del género *Procapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Yang, Zhu & Huang en 1995; la localidad tipo es China: Yunnan Province: Longchuan County: Zhangfeng. Distribución: Yunnan (Longchuan890 m), China.
 
+## 词源
+
+属名 *Procapritermes*：属名由希腊文 pro-（前）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
+
+种加词 *zhangfengensis*：以地名 章凤（云南） 命名
+
+EN — epithet *zhangfengensis*: Named after the locality Zhangfeng
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

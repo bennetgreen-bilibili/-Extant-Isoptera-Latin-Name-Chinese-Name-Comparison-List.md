@@ -29,6 +29,18 @@ EN — **澳大利亚前砂白蚁** (*Procryptotermes australiensis*) is a speci
 
 ES — **澳大利亚前砂白蚁** (*Procryptotermes australiensis*) es una especie del género *Procryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Gay en 1976; la localidad tipo es Australia: Queensland: 15 km SW Bowen. Distribución: Australia.
 
+## 词源
+
+属名 *Procryptotermes*：属名由希腊文 pro-（前、早）+ kryptos（隐藏）与拉丁文 termes（白蚁）组合。
+
+EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
+
+种加词 *australiensis*：以地名 Australia（澳大利亚）命名
+
+EN — epithet *australiensis*: Named after Australia
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

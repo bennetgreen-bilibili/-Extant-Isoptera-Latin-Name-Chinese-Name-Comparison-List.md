@@ -32,6 +32,18 @@ EN — **宾厄姆仿白蚁** (*Mimeutermes binghami*) is a species of the genus
 
 ES — **宾厄姆仿白蚁** (*Mimeutermes binghami*) es una especie del género *Mimeutermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sands en 1968; la localidad tipo es Zambia: Lusaka: Roma. Distribución: Kenya, Zambia.
 
+## 词源
+
+属名 *Mimeutermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *binghami*：以人名 bingham 命名（C. T. Bingham（英国昆虫学家））
+
+EN — epithet *binghami*: Named after C. T. Bingham（英国昆虫学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

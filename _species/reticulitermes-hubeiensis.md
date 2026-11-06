@@ -29,6 +29,18 @@ EN — **湖北散白蚁** (*Reticulitermes hubeiensis*) is a species of the gen
 
 ES — **湖北散白蚁** (*Reticulitermes hubeiensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Ping & Huang en 1992; la localidad tipo es China: Hubei Province: Chongyang. Distribución: China.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *hubeiensis*：以地名 湖北 命名
+
+EN — epithet *hubeiensis*: Named after the locality Hube
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

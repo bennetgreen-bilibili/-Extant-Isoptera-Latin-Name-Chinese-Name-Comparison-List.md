@@ -32,6 +32,18 @@ EN — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) is a species of
 
 ES — **阿布里异颚白蚁** (*Allognathotermes aburiensis*) es una especie del género *Allognathotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1926; la localidad tipo es Ghana: Aburi. Distribución: Ghana, Guinea, Nigeria.
 
+## 词源
+
+属名 *Allognathotermes*：属名由希腊文 allos（别的）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Allognathotermes*: From Greek allos (other) + gnathos (jaw) + Latin termes.
+
+种加词 *aburiensis*：以地名 阿布里（加纳） 命名
+
+EN — epithet *aburiensis*: Named after the locality Abur
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

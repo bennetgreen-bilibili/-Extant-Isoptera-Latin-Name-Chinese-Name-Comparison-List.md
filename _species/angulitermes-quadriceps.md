@@ -32,6 +32,18 @@ EN — **方头角白蚁** (*Angulitermes quadriceps*) is a species of the genus
 
 ES — **方头角白蚁** (*Angulitermes quadriceps*) es una especie del género *Angulitermes*, en la familia TERMITIDAE (subfamilia Promirotermitinae). La especie fue descrita por Harris en 1964; la localidad tipo es Israel: Sdom area, on Sdom-Ilat road along west slope of rift valley. Distribución: Israel, Saudi Arabia, Yemen.
 
+## 词源
+
+属名 *Angulitermes*：属名由拉丁文 angulus（角）与 termes（白蚁）组合。
+
+EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
+
+种加词 *quadriceps*：拉丁文/希腊文 quadri（方）+ ceps（头），指方头
+
+EN — epithet *quadriceps*: From quadri (方) + ceps (头)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

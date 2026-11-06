@@ -32,6 +32,18 @@ EN — **马德拉斯漠白蚁** (*Eremotermes madrasicus*) is a species of the 
 
 ES — **马德拉斯漠白蚁** (*Eremotermes madrasicus*) es una especie del género *Eremotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Roonwal & Sen-Sarma en 1960; la localidad tipo es India: Tamil Nadu (Madras), 10 miles north of Madras City: Villivakkam. Distribución: India.
 
+## 词源
+
+属名 *Eremotermes*：属名由希腊文 erēmos（荒漠、孤独）与拉丁文 termes（白蚁）组合。
+
+EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
+
+种加词 *madrasicus*：以地名 马德拉斯（印度） 命名
+
+EN — epithet *madrasicus*: Named after the locality Madras
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

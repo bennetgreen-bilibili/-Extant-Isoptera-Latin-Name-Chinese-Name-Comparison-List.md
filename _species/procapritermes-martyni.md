@@ -32,6 +32,18 @@ EN — **马丁前扭白蚁** (*Procapritermes martyni*) is a species of the gen
 
 ES — **马丁前扭白蚁** (*Procapritermes martyni*) es una especie del género *Procapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Thapa en 1982; la localidad tipo es Malaysia: Sabah: Sandakan: North District, Labuk Road, mile 43. Distribución: Malaysia.
 
+## 词源
+
+属名 *Procapritermes*：属名由希腊文 pro-（前）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
+
+种加词 *martyni*：以人名 martyn 命名（具体指向待考）
+
+EN — epithet *martyni*: Named after a person (martyn), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

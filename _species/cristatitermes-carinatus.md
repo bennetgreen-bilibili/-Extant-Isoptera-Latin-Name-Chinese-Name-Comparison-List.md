@@ -32,6 +32,18 @@ EN — **颏突脊突白蚁** (*Cristatitermes carinatus*) is a species and the 
 
 ES — **颏突脊突白蚁** (*Cristatitermes carinatus*) es una especie, y la especie tipo de su género del género *Cristatitermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Miller en 1991; la localidad tipo es Australia: Northern Territory: Berrimah. Distribución: Australia.
 
+## 词源
+
+属名 *Cristatitermes*：属名由拉丁文 cristatus（具冠的、具脊的）与 termes（白蚁）组合。
+
+EN — *Cristatitermes*: From Latin cristatus (crested) + termes.
+
+种加词 *carinatus*：拉丁文/希腊文 carin（脊）+ atus（具），指脊具
+
+EN — epithet *carinatus*: From carin (脊) + atus (具)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

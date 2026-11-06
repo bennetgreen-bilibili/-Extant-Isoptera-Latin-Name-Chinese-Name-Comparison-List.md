@@ -32,6 +32,18 @@ EN — **关塔那摩缩白蚁** (*Constrictotermes guantanamensis*) is a specie
 
 ES — **关塔那摩缩白蚁** (*Constrictotermes guantanamensis*) es una especie del género *Constrictotermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Krecek, Scheffrahn & Roisin en 1996; la localidad tipo es Cuba: Guantanamo: Loma de Macambo. Distribución: Caribbean, Cuba.
 
+## 词源
+
+属名 *Constrictotermes*：属名由拉丁文 constrictus（缢缩的）与 termes（白蚁）组合。
+
+EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
+
+种加词 *guantanamensis*：以地名 关塔那摩（古巴） 命名
+
+EN — epithet *guantanamensis*: Named after the locality Guantanam
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

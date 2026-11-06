@@ -30,6 +30,18 @@ EN — **纳丁亚种** (*Zootermopsis nevadensis nuttingi*) is a subspecies of 
 
 ES — **纳丁亚种** (*Zootermopsis nevadensis nuttingi*) es una subespecie de *Zootermopsis nevadensis*, en la familia ARCHOTERMOPSIDAE, género *Zootermopsis*. La subespecie fue descrita por Haverty & Thorne en 1989; la localidad tipo es United States: California: Pacific Grove. No se incluye un registro de distribución separado en esta página; véase la especie parental *Zootermopsis nevadensis*.
 
+## 词源
+
+属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
+
+EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
+
+种加词 *nuttingi*：以人名 W. L. Nutting（美国白蚁学家）命名
+
+EN — epithet *nuttingi*: Named after W. L. Nutting (American termitologist)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）

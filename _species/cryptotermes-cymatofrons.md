@@ -29,6 +29,18 @@ EN — **波额堆砂白蚁** (*Cryptotermes cymatofrons*) is a species of the g
 
 ES — **波额堆砂白蚁** (*Cryptotermes cymatofrons*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Scheffrahn & Krecek en 1999; la localidad tipo es Bahamas: Cat Island, Hermitage. Distribución: Cuba, Bahamas.
 
+## 词源
+
+属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
+
+EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
+
+种加词 *cymatofrons*：希腊文 kyma（波）+ 拉丁文 frons（额），波额
+
+EN — epithet *cymatofrons*: Greek kyma (wave) + Latin frons (front), wavy-fronted
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

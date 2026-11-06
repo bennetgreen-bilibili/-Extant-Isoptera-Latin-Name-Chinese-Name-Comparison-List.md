@@ -29,6 +29,18 @@ EN — **西沙原鼻白蚁** (*Prorhinotermes xishaensis*) is a species of the 
 
 ES — **西沙原鼻白蚁** (*Prorhinotermes xishaensis*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Li & Tsai en 1976; la localidad tipo es China: Xisha Island. Distribución: China, Xisha Islands.
 
+## 词源
+
+属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
+
+EN — *Prorhinotermes*: From Greek pro- (before) + rhis (nose) + Latin termes.
+
+种加词 *xishaensis*：以地名 西沙（南海） 命名
+
+EN — epithet *xishaensis*: Named after the locality Xisha
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）

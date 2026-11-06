@@ -29,6 +29,18 @@ EN — **弗莱彻杆白蚁** (*Stylotermes fletcheri*) is a species and the typ
 
 ES — **弗莱彻杆白蚁** (*Stylotermes fletcheri*) es una especie, y la especie tipo de su género del género *Stylotermes*, en la familia STYLOTERMITIDAE. La especie fue descrita por Holmgren & Holmgren en 1917; la localidad tipo es India: Shevaroy Hills; Tamil Nadu: Coimbatore. Distribución: India.
 
+## 词源
+
+属名 *Stylotermes*：属名由希腊文 stylos（柱、笔）与拉丁文 termes（白蚁）组合。
+
+EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
+
+种加词 *fletcheri*：以人名 Fletcher 命名（具体指向待考）
+
+EN — epithet *fletcheri*: Named after a person (Fletcher), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[杆白蚁科 STYLOTERMITIDAE]({{ site.base_url }}/family/stylotermitidae/) —— 本站收录 1 属 45 种（1 genus, 45 species · 1 género, 45 especies）

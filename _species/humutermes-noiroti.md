@@ -32,6 +32,18 @@ EN — **努瓦罗腐殖白蚁** (*Humutermes noiroti*) is a species of the genu
 
 ES — **努瓦罗腐殖白蚁** (*Humutermes noiroti*) es una especie del género *Humutermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es Panama: Barro Colorado Island. Distribución: Neotropics.
 
+## 词源
+
+属名 *Humutermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Humutermes*: Etymology uncertain; -termes from Latin termes.
+
+种加词 *noiroti*：以人名 noirot 命名（法国白蚁生物学家 C. Noirot）
+
+EN — epithet *noiroti*: Named after 法国白蚁生物学家 C. Noirot
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

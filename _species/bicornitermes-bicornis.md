@@ -29,6 +29,18 @@ EN — **双角双角白蚁** (*Bicornitermes bicornis*) is a species and the ty
 
 ES — **双角双角白蚁** (*Bicornitermes bicornis*) es una especie, y la especie tipo de su género del género *Bicornitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna en 1961; la localidad tipo es Democratic Republic of the Congo: Camp Putnam, Epulu River. Distribución: Central African Republic, Democratic Republic of the Congo, Uganda.
 
+## 词源
+
+属名 *Bicornitermes*：属名由拉丁文 bi-（二）+ cornu（角）与 termes（白蚁）组合，指兵蚁具两个角状突起。
+
+EN — *Bicornitermes*: From Latin bi- (two) + cornu (horn) + termes.
+
+种加词 *bicornis*：拉丁文/希腊文 bi（二）+ cornis（角），指二角
+
+EN — epithet *bicornis*: From bi (二) + cornis (角)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

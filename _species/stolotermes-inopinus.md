@@ -29,6 +29,18 @@ EN — **未料胄白蚁** (*Stolotermes inopinus*) is a species of the genus *S
 
 ES — **未料胄白蚁** (*Stolotermes inopinus*) es una especie del género *Stolotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Gay en 1969; la localidad tipo es New Zealand: Wellington, 2 mi E of Eastbourne. Distribución: New Zealand.
 
+## 词源
+
+属名 *Stolotermes*：属名由拉丁文 stolo（根出条、匍匐枝）与 termes（白蚁）组合。
+
+EN — *Stolotermes*: From Latin stolo (shoot, stolon) + termes.
+
+种加词 *inopinus*：拉丁文 inopinus（意外的）
+
+EN — epithet *inopinus*: Latin inopinus (unexpected)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）

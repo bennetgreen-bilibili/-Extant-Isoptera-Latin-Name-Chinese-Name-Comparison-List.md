@@ -32,6 +32,18 @@ EN — **中等等颚白蚁** (*Isognathotermes modicus*) is a species of the ge
 
 ES — **中等等颚白蚁** (*Isognathotermes modicus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Josens & Deligne en 2025; la localidad tipo es Gabon: Forêt des Abeilles \[ 0.3167S 12.1167E \]. Distribución: Gabon.
 
+## 词源
+
+属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Isognathotermes*: From Greek isos (equal) + gnathos (jaw) + Latin termes.
+
+种加词 *modicus*：拉丁文 modicus（适度的、中等的）
+
+EN — epithet *modicus*: Latin modicus (moderate, of modest size)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

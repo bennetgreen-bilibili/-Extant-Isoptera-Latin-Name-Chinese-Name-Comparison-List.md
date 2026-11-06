@@ -29,6 +29,18 @@ EN — **小齿奇白蚁** (*Allotermes denticulatus*) is a species of the genus
 
 ES — **小齿奇白蚁** (*Allotermes denticulatus*) es una especie del género *Allotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Krishna en 1962; la localidad tipo es Madagascar: 39 km E Tsihombe. Distribución: Madagascar.
 
+## 词源
+
+属名 *Allotermes*：属名由希腊文 allos（别的、不同的）与拉丁文 termes（白蚁）组合。
+
+EN — *Allotermes*: From Greek allos (other, different) + Latin termes.
+
+种加词 *denticulatus*：拉丁文 denticulatus（具细齿的）
+
+EN — epithet *denticulatus*: Latin denticulatus (finely toothed)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）

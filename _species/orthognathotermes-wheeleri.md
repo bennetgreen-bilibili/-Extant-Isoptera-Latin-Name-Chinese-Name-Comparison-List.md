@@ -32,6 +32,18 @@ EN — **惠勒直颚白蚁** (*Orthognathotermes wheeleri*) is a species of the
 
 ES — **惠勒直颚白蚁** (*Orthognathotermes wheeleri*) es una especie del género *Orthognathotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Snyder en 1923; la localidad tipo es Panama: Barro Colorado Island. Distribución: Amazon region, Colombia, Panama.
 
+## 词源
+
+属名 *Orthognathotermes*：属名由希腊文 orthos（直）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
+
+EN — *Orthognathotermes*: From Greek orthos (straight) + gnathos (jaw) + Latin termes.
+
+种加词 *wheeleri*：以人名 Wheeler 命名（美国蚁学家 W. M. Wheeler）
+
+EN — epithet *wheeleri*: Named after the myrmecologist W. M. Wheeler
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

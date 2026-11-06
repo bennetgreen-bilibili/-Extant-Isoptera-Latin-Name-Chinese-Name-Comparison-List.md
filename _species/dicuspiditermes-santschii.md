@@ -34,6 +34,18 @@ EN — **桑特斯基突扭白蚁** (*Dicuspiditermes santschii*) is a species o
 
 ES — **桑特斯基突扭白蚁** (*Dicuspiditermes santschii*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1922; la localidad tipo es Indonesia: Sumatra: Padang-Pandjang. Distribución: Southeast Asia, Indonesia, Malaysia. Este sitio registra 1 sinónimo junior para la especie.
 
+## 词源
+
+属名 *Dicuspiditermes*：属名由拉丁文 di-（二）+ cuspis（尖）与 termes（白蚁）组合。
+
+EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
+
+种加词 *santschii*：以人名 santsch 命名（F. Santschi（瑞士蚁学家））
+
+EN — epithet *santschii*: Named after F. Santschi（瑞士蚁学家）
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

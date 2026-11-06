@@ -29,6 +29,18 @@ EN — **关门散白蚁** (*Reticulitermes kanmonensis*) is a species of the ge
 
 ES — **关门散白蚁** (*Reticulitermes kanmonensis*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Takematsu en 1999; la localidad tipo es Japan: Yamaguchi Province: Atsugi. Distribución: Japan, Korean Peninsula, China, Taiwan, South Korea.
 
+## 词源
+
+属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
+
+EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
+
+种加词 *kanmonensis*：以地名 kanmon 命名（具体地名待考）
+
+EN — epithet *kanmonensis*: Named after a locality (kanmon)
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）

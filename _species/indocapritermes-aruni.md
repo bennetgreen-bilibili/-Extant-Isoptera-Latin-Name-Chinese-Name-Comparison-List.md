@@ -32,6 +32,18 @@ EN — **阿伦印扭白蚁** (*Indocapritermes aruni*) is the only extant speci
 
 ES — **阿伦印扭白蚁** (*Indocapritermes aruni*) es la única especie viviente del género *Indocapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Chhotani en 1997; la localidad tipo es India: Kerala: Silent Valley. Distribución: South Asia, India.
 
+## 词源
+
+属名 *Indocapritermes*：属名由 India（印度）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
+
+EN — *Indocapritermes*: From India + Latin caper (goat) + termes.
+
+种加词 *aruni*：以人名 arun 命名（具体指向待考）
+
+EN — epithet *aruni*: Named after a person (arun), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

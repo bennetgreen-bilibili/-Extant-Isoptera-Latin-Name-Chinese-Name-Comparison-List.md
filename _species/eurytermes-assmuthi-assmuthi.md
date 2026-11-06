@@ -33,6 +33,18 @@ EN — **指名亚种** (*Eurytermes assmuthi assmuthi*) is a subspecies of *Eur
 
 ES — **指名亚种** (*Eurytermes assmuthi assmuthi*) es una subespecie de *Eurytermes assmuthi*, en la familia TERMITIDAE (subfamilia Apicotermitinae), género *Eurytermes*. La subespecie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Khandala, near Bombay. No se incluye un registro de distribución separado en esta página; véase la especie parental *Eurytermes assmuthi*.
 
+## 词源
+
+属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
+
+EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
+
+种加词 *assmuthi*：以人名 assmuth 命名（具体指向待考）
+
+EN — epithet *assmuthi*: Named after a person (assmuth), identity uncertain
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）

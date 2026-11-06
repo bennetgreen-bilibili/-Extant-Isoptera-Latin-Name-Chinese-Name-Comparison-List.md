@@ -32,6 +32,18 @@ EN — **乌班图谢弗拉恩白蚁** (*Scheffrahnitermes ubuntu*) is the only 
 
 ES — **乌班图谢弗拉恩白蚁** (*Scheffrahnitermes ubuntu*) es la única especie viviente del género *Scheffrahnitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Mellado et al. en 2026; la localidad tipo es South America (具体产地以原文为准). Distribución: South America.
 
+## 词源
+
+属名 *Scheffrahnitermes*：属名以人名 Scheffrahn 命名（美国白蚁学家 R. H. Scheffrahn），词尾 -termes 为拉丁文 termes（白蚁）。
+
+EN — *Scheffrahnitermes*: Named after the termite taxonomist R. H. Scheffrahn; -termes from Latin termes.
+
+种加词 *ubuntu*：非洲哲学概念 ubuntu（人道、共享）
+
+EN — epithet *ubuntu*: From ubuntu, an African philosophy
+
+<!-- src:S0018 -->
+
 ## 分类位置
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
