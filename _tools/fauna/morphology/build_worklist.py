@@ -4,6 +4,7 @@ Inputs (all generated/curated in-repo):
   _data/taxonomy.json       — 326 genera, family/subfamily names
   _data/fauna_genera.json   — 35 genera already described from Fauna Sinica (2000)
   _data/genus_sources.json  — Treatise (2013) source pointers, not descriptions
+  _data/morphology_genera.json — genera whose literature-based description is already compiled
 
 Outputs:
   _reports/genus-morphology-worklist.md
@@ -25,6 +26,7 @@ OUT_CSV = OUT_DIR / "genus-morphology-worklist.csv"
 tax = json.load(open(ROOT / "_data/taxonomy.json", encoding="utf-8"))
 sources = json.load(open(ROOT / "_data/genus_sources.json", encoding="utf-8"))
 fauna = json.load(open(ROOT / "_data/fauna_genera.json", encoding="utf-8"))
+morph = json.load(open(ROOT / "_data/morphology_genera.json", encoding="utf-8"))
 
 families = {f["id"]: f for f in tax["families"]}
 genera = sorted(tax["genera"], key=lambda g: (g["family"], g.get("subfamily") or "", g["latin"]))
@@ -40,6 +42,8 @@ def one_line(text, limit=220):
 def status_of(url):
     if url in fauna:
         return "已有动物志描述"
+    if url in morph:
+        return "已有文献描述"
     if sources.get(url, {}).get("treatise"):
         return "待补（有 Treatise 线索）"
     return "待补（Treatise 无独立条目）"
@@ -57,7 +61,8 @@ def refs_cell(entry, limit=4):
 
 total = len(genera)
 documented = [g for g in genera if "/genus/%s/" % g["id"] in fauna]
-missing = [g for g in genera if "/genus/%s/" % g["id"] not in fauna]
+documented_morph = [g for g in genera if "/genus/%s/" % g["id"] in morph]
+missing = [g for g in genera if "/genus/%s/" % g["id"] not in fauna and "/genus/%s/" % g["id"] not in morph]
 no_entry = [g for g in missing if not sources.get("/genus/%s/" % g["id"], {}).get("treatise")]
 no_ts = [g for g in missing if sources.get("/genus/%s/" % g["id"], {}).get("treatise")
          and not sources.get("/genus/%s/" % g["id"], {}).get("type_species")]
@@ -93,13 +98,14 @@ with open(OUT_CSV, "w", encoding="utf-8-sig", newline="") as fh:
 lines = []
 lines.append("# 属级形态描述补写清单")
 lines.append("")
-lines.append("生成日期：2026-11-07。数据源：_data/taxonomy.json、_data/fauna_genera.json、_data/genus_sources.json。")
+lines.append("生成日期：2026-11-07。数据源：_data/taxonomy.json、_data/fauna_genera.json、_data/genus_sources.json、_data/morphology_genera.json。")
 lines.append("")
 lines.append("## 总览")
 lines.append("")
 lines.append("- 属页总数：**%d**。" % total)
 lines.append("- 已有《中国动物志》属级描述（本次不动）：**%d**。" % len(documented))
-lines.append("- 待补文献描述：**%d**。其中 %d 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），%d 个没有独立条目（需另找发表文献）。"
+lines.append("- 已补写文献描述：**%d**。" % len(documented_morph))
+lines.append("- 仍待补文献描述：**%d**。其中 %d 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），%d 个没有独立条目（需另找发表文献）。"
              % (len(missing), len(missing) - len(no_entry), len(no_entry)))
 lines.append("- 有 Treatise 条目但未提取到模式种的属：%d（不影响找原始文献，但补写时要先确认模式种）。" % len(no_ts))
 lines.append("")
@@ -121,17 +127,18 @@ for g in no_entry:
 lines.append("")
 lines.append("## 各科进度")
 lines.append("")
-lines.append("| 科 | 属数 | 已有动物志描述 | 待补 | 其中 Treatise 无条目 |")
-lines.append("| --- | ---: | ---: | ---: | ---: |")
+lines.append("| 科 | 属数 | 已有动物志描述 | 已补文献描述 | 待补 | 其中 Treatise 无条目 |")
+lines.append("| --- | ---: | ---: | ---: | ---: | ---: |")
 for fid, fam in families.items():
     gs = [g for g in genera if g["family"] == fid]
     if not gs:
         continue
     doc = sum(1 for g in gs if "/genus/%s/" % g["id"] in fauna)
-    miss = len(gs) - doc
-    ne = sum(1 for g in gs if "/genus/%s/" % g["id"] not in fauna
+    docm = sum(1 for g in gs if "/genus/%s/" % g["id"] in morph)
+    miss = sum(1 for g in gs if "/genus/%s/" % g["id"] not in fauna and "/genus/%s/" % g["id"] not in morph)
+    ne = sum(1 for g in gs if "/genus/%s/" % g["id"] not in fauna and "/genus/%s/" % g["id"] not in morph
              and not sources.get("/genus/%s/" % g["id"], {}).get("treatise"))
-    lines.append("| %s %s | %d | %d | %d | %d |" % (fam["zh"], fam["latin"].title(), len(gs), doc, miss, ne))
+    lines.append("| %s %s | %d | %d | %d | %d | %d |" % (fam["zh"], fam["latin"].title(), len(gs), doc, docm, miss, ne))
 lines.append("")
 
 for fid, fam in families.items():
@@ -148,6 +155,17 @@ for fid, fam in families.items():
         lines.append("")
         if st == "已有动物志描述":
             lines.append("已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。")
+        elif st == "已有文献描述":
+            m = morph[url]
+            srcs = m.get("sources")
+            if srcs is None:
+                src = m.get("source")
+                srcs = src if isinstance(src, list) else ([src] if src else [])
+            for src in srcs:
+                lines.append("- 已据文献补写：%s" % (src.get("citation") or "（未记引用）"))
+                if src.get("locator"):
+                    lines.append("- 定位：%s" % src["locator"])
+            lines.append("- 页面：https://isoptera.lifemosaic.net/genus/%s/" % g["id"])
         else:
             if s.get("treatise"):
                 lines.append("- 原始描述：%s" % (s.get("citation") or "（未提取到）"))
@@ -166,4 +184,4 @@ for fid, fam in families.items():
 
 OUT_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
 print("wrote", OUT_MD.relative_to(ROOT), "and", OUT_CSV.relative_to(ROOT))
-print("total", total, "documented", len(documented), "missing", len(missing), "no_entry", len(no_entry), "no_ts", len(no_ts))
+print("total", total, "fauna", len(documented), "morph", len(documented_morph), "missing", len(missing), "no_entry", len(no_entry), "no_ts", len(no_ts))

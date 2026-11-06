@@ -66,6 +66,7 @@
   - 生成：`_tools/fauna/keys/keys_orders.py` 新增 KALO_WORLD 与 KALOSRC；`_tools/fauna/keys/emit.py` 支持用 `+` 合并终点、用 `|` 附注、用 `fos:` 标记化石属；`_data/fauna_keys.json` 重生成后该科 3 表 42 组 45 个终点。
   - 渲染：`_includes/fauna-keys.html` 增加 Treatise 来源说明与引文，化石属与合并终点按新结构输出；不改名录数据与计数。
 - **检索表收缩与属级描述占位（2026-11-07，同一版本）**：撤下全部据《中国动物志》编制的科 / 属 / 种检索表；`_data/fauna_keys.json` 只保留 `/list/`（Hellemans 等 2024 目级表）、`/family/termitidae/`（Hellemans 等 2024 白蚁科亚科表）与 `/family/kalotermitidae/`（Krishna 等 2013 木白蚁科世界分属表）三页。新增 `_data/genus_sources.json`：据 Krishna 等（2013）整理 326 个属的原始描述出处、模式种与文献线索；`_includes/genus-morphology.html` 在尚无《中国动物志》属级描述的 291 个属页显示「待补」占位与文献线索，不代写描述。补写清单见 `_reports/genus-morphology-worklist.md` / `.csv`。不改名录数据与计数。
+- **属级描述正文与物种占位（2026-11-07，同一版本）**：新增 `_data/morphology_genera.json` 与 `_tools/fauna/morphology/descriptions/*.json`，首批 87 个属据原始发表或修订文献改写为分品级中文描述（Krishna 1961 木白蚁科、Sands 1972 非洲无兵蚁类、Sands 1965 东非 Nasutitermitinae、Holmgren 1912、Emerson 1959、Constantino 1999、Roisin & Bourguignon 2011 等）；`_includes/genus-morphology.html` 优先渲染改写稿，无稿才显示占位。物种 / 亚种页由 `_includes/species-morphology.html` 统一挂载：有 `_data/morphology_species.json` 条目则渲染，已有《中国动物志》记载则不重复，其余显示三语待补说明并链接属页；单型属首批 20 种据属级描述生成并注明。属、种两级补写清单见 `_reports/genus-morphology-worklist.{md,csv}` 与 `_reports/species-morphology-worklist.{md,csv}`。不改名录数据与计数。
 - **派生（同版本）**：`sitemap.txt` 重算（3786 个 URL；696 个页面，含 3089 个物种页），`_data/changelog.json` 与 `changelog.atom` 随本条目重建。
 
 ## 2026.10.17 — 首个 DOI 归档版本 First archived release

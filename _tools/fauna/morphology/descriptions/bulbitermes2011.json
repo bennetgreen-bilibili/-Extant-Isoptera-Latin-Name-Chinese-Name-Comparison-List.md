@@ -1,0 +1,25 @@
+{
+  "/genus/bulbitermes/": {
+    "zh_name": "瓢白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "鼻型（nasute）兵蚁，兵蚁单型，头壳在触角窝后方具缢缩——这正是 Emerson（in Snyder 1949）将本属从 Nasutitermes 分出时所依据的特征，也是本文据以保留该属的条件。与 Nasutitermes 对照：后者兵蚁头壳在触角窝后方无缢缩，头壳大小与形状变异很大，喙（rostrum）锥形至柱形，触角 11–14 节。作者同时指出，本属至今没有一条独有的绝对特征，Sunda 区不少标本的缢缩几乎看不出来；属界仍偏于组合性状（单型兵蚁 + 触角窝后缢缩）加分子条码共同支撑，而非单一鉴别特征。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头部鼻型：头壳背面观近圆形或梨形，触角窝后方有强弱不等的缢缩；后缘圆凸、中部弱凹或近平直；含鼻的背侧轮廓几近平直，鼻端上翘或下弯。鼻（nasus）颜色常深于头壳前部，端部有 4 根刚毛，头面刚毛稀疏，前胸背板与腹背板被毛（微毛或短毛）。上颚端突弱至中等发达。触角 12–14 节：所记四种分别为 12 节、13 节、14 节，以及多数个体 12 节、少数 13 节；各节长短与宽窄关系是本文分种的主要依据。前胸背板鞍形，前缘中部弱凹或近平直，后缘圆凸或中部深凹；胫节淡黄至黄白色。"
+      },
+      {
+        "label": "工蚁",
+        "text": "本文所记四种的工蚁：触角 13–15 节（四种依次为 13、14、15、14 节），第 2 节多明显长于第 3、4 节，第 4 节常最短。左上颚端齿与第 1 缘齿近等长或端齿较短，第 3 缘齿中度突出于切缘，第 4 缘齿几乎完全隐于臼突之后；右上颚第 2 缘齿后缘近直或弱凹，臼板内层不发达，臼板近端凹缺不明显或仅有微弱痕迹。"
+      }
+    ],
+    "source": {
+      "id": "S0036",
+      "citation": "Syaukani; Thompson G. J. 2011. Taxonomic notes on Nasutitermes and Bulbitermes (Termitidae, Nasutitermitinae) from the Sunda region of Southeast Asia based on morphological and molecular characters. ZooKeys 148: 135–160.",
+      "locator": "Discussion, section 'Soldier of Bulbitermes' 与 'On identifying Nasutitermes and Bulbitermes'；Results, Species descriptions（四种 Bulbitermes 的 Soldier / Workers 段）与 Key 1"
+    },
+    "note": "原文无独立的属级 Diagnosis 段落，属征取自 Discussion 中对本属的界定句（soldier monomorphic; head capsule with a constriction behind the antennal sockets）以及四种兵蚁、工蚁记述的共有性状；触角节数与上颚齿位等数值仅为这四种的实测范围，未外推到全属；其中 B. constrictus 工蚁触角在检索表（Key 1）作 14 节、在种记述作 15 节，两处原文不一致，正文按种记述取值。四种的有翅成虫原文均记作 Imago: Unknown，故不设有翅成虫段。"
+  }
+}

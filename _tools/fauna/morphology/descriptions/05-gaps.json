@@ -1,0 +1,294 @@
+{
+  "/genus/roisinitermes/": {
+    "zh_name": "罗伊森白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Kalotermitidae 中唯一具弹击式（snapping）上颚的属：兵蚁上颚细棒状、齿式极弱；有翅成虫无可见单眼（ocelli），在本科中亦为唯一。按 Krishna (1961) 属级检索表，有翅成虫落于第 2 对（Epicalotermes），兵蚁落于第 17 对（Allotermes）。兵蚁上颚与 Allotermes（尤其 A. denticulatus）的细长、齿近退化者略似，但本属上颚侧视向下弯，为具前伸上颚的 kalotermitid 中所仅见；有翅成虫的翅脉与齿式虽与 Epicalotermes 很接近，兵蚁却与之无任何主要共有特征。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头与前胸背板浅褐橙色，腹节背板较浅，与足、上唇同色；后唇基（postclypeus）近透明。复眼中等大而突出，卵形，近触角窝处平截，约由 85 个小眼组成；单眼既无色素亦无角质突起，完全不可见。触角 9 节以上，节式 1>2=3=4<5（种级记录 14–17 节）。前胸背板宽约为其中长的 2 倍，侧缘具数根长刚毛与较短刚毛。前翅 M 与 Cu 在鳞缝以远共柄，径分脉（Rs）具 5–6 条前支，亚前缘脉（Sc）紧贴前缘、难以分辨；后翅 Rs 与 Cu 于缝后共柄。胫节距式 3:3:3，跗节无 arolium（爪间突）。左上颚缘齿前缘约等于其后缘与第二缘齿后缘合计长度的 1.5 倍；右颚第二缘齿后缘长为磨板（molar plate）的 1.4 倍。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。眼斑明显，大而深褐。额（frons）背视双叶状，覆皱纹状纵脊，额下皱纹纵向排列；腹颊末端具小角状突。上颚细棒状，侧视向下弯；齿式极弱，基部隆起尖锐前突。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0050",
+        "citation": "Scheffrahn R. H.; Bourguignon T.; Akama P. D.; Sillam-Dussès D.; Šobotník J. 2018. Roisinitermes ebogoensis gen. & sp. n., an outstanding drywood termite with snapping soldiers from Cameroon (Isoptera, Kalotermitidae). ZooKeys 787: 91–105. https://doi.org/10.3897/zookeys.787.28195",
+        "locator": "Genus Roisinitermes gen. n. — Winged Imago, Soldier, Diagnosis（ZooKeys 787: 91–105）"
+      }
+    ],
+    "note": "属级仅设有翅成虫与兵蚁两节；原文未单列工蚁（该种具 pseudergates 与短翅若虫，若虫只有种级量度表），故不设「工蚁」「若虫」节。属级未给量度，量度均为种级（有翅成虫 Table 1、兵蚁 Table 2）。"
+  },
+  "/genus/caputitermes/": {
+    "zh_name": "头白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "以工蚁二型（major worker 与 minor worker）为首要属征；中肠与第一 proctodeal 节（P1）交界平直，无 mixed segment；磨板与磨突（molar prominence）区具毛与鳞状纹理；gizzard（肌胃）不发达；P1 内壁密被指向肠瓣的短壮刺；P3 在接入 P2 前形成 S 形突。新热带 Apicotermitinae 均无兵蚁。"
+      },
+      {
+        "label": "工蚁",
+        "text": "二型，major 与 minor 数量比约 1:2，两类均常见。两类均具可见的 fontanelle，后唇基（postclypeus）轻微膨大，头被细短刚毛；上颚在磨板与磨突区具毛与鳞状纹理，上颚前侧具浅凹；左上颚端齿与第一、第二缘齿之和等大，右颚端齿大于第一、第二缘齿之和。major worker 头壳方形，约 34 根刚毛，主要分布于前侧与后区，头具前侧凹（lateral nodes）；minor worker 头壳圆形，约 14 根刚毛，均匀分布于头侧。两类工蚁的消化道均呈球形，各结构的大小与位置相似。gizzard 无角质 armature，具 6 个一级 pulvilli，pulvilli 表面鳞状、后部具微小刺；肠瓣肌层薄，具 6 个对称 cushion；Malpighian 管有 4 个独立插入点，无 nodule；P1 内壁短壮刺在近中肠与近 P2 处密度最高，刺尖朝向肠瓣；P3 接 P2 前形成 S 形突。量度：种级（LH、WH、LT、WP，见种级描述）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0051",
+        "citation": "Almeida-Azevedo R.; Acioli A. N. S.; Morais J. W.; Azevedo R. A. 2023. Caputitermes, a new genus of soldierless termite (Blattaria: Isoptera: Termitidae) with dimorphic workers from the Amazon rainforest. Acta Amazonica 53(3): 201–207. https://doi.org/10.1590/1809-4392202202511",
+        "locator": "Caputitermes, gen. nov. — Description: Imago / Genus diagnosis / Genus description（Acta Amazonica 53(3): 201–207）"
+      }
+    ],
+    "note": "无兵蚁节（新热带 Apicotermitinae 无兵蚁）；imago 原文记为 Unknown，故不设「有翅成虫」节。属级描述以工蚁体壁与消化道为主。Acta Amazonica 该文页码取自 SciELO 页面 53(3)，属级 treatment 位于 202–204 页一带（未逐页核对）。"
+  },
+  "/genus/disjunctitermes/": {
+    "zh_name": "隔离白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "新热带 apicotermitine 中，与 Anoplotermes banksi、A. pacificus 及 Hydrecotermes spp. 一样具强烈膨大的前胫节（fore tibia），且肠瓣（enteric valve）无刺、无硬化。与 A. banksi 最近，但可由左上颚的附属（第四）缘齿、更大的肠瓣 seating 与更平截的 P2 末端与之区分；Hydrecotermes 无球形的 mesenteric tongue。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型，小型。头壳淡黄，被约 100 根长短不一的刚毛；后唇基中度膨大；fontanelle 几乎不可辨；触角 14 节。左上颚端齿与第一缘齿分离远、均长，明显超出第三缘齿与磨突所成的连线；磨突上方另具一附属（第四）缘齿，背视与腹视均可见。右颚端齿远长于第一缘齿，第三缘齿近对称。前胫节强烈膨大，长约为其最宽处（中部）的 3 倍。mesenteric tongue 球形。P2 经一大型、粗壮的三叶肠瓣 seating 进入，其中两叶可透过体壁看到；肠瓣由 6 个细长、膨大的 pad 组成，面向瓣腔；P2 后端（含肠瓣）末端平截，伸入 seating 约一半。量度：种级（Table 2，11 个群体各 12 头工蚁；正模头宽 0.64 mm）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0052",
+        "citation": "Scheffrahn R. H.; Carrijo T. F.; Postle A. C.; Tonini F. 2017. Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicotermitinae) from Guadeloupe and Peru. ZooKeys 665: 71–84. https://doi.org/10.3897/zookeys.665.11599",
+        "locator": "Disjunctitermes gen. n. — Diagnosis; Imago; Worker（ZooKeys 665: 71–84）"
+      }
+    ],
+    "note": "imago 原文记为 Unknown，故不设「有翅成虫」节；无兵蚁节（soldierless）。属级 Diagnosis 以肠瓣与胫节为主，属级 Worker 一节给出体壁与消化道。"
+  },
+  "/genus/ekueitermes/": {
+    "zh_name": "埃奎白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "mixed segment 的 mesenteric tongue 短而不膨大；P1 很短；肠瓣 armature（EVA）由 6 个锥形 cushion 组成，各覆 18–25 个具缨缘的多边形鳞片（每 cushion 4–15 枚），cushion 远端具 7–17 根硬化刺、呈掌状（palmate）排列；肠瓣 seating（EVS）分化明显、管状。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型，中型（头长与头宽自中型至大型）。头壳淡白至淡黄，密布间隔均匀的长而细、色淡、直立刚毛，其间夹短毛；侧视背面略凹，触角节半透明。触角 14 节，节式 2>3<4<5。fontanelle 明显、卵形，位于脑后方（保存标本可见）；后唇基强烈膨大。前胸背板鞍形，前、后缘具长而细的直立刚毛列，侧缘数根长刚毛；中、后胸背板前叶边缘亦有刚毛列。腹部透明，背板与腹板密被长短不一的刚毛。前足基节与前股节具多根淡色细刚毛；前胫节强烈膨大，间有少量长刚毛与大量微小密集刚毛；各足胫刺弱，除端部外不明显；胫距式 2:2:2。左上颚端齿较 M1+2 突出，二者间成锐角，M1+2 后缘弱凹；M3 不如 M1+2 突出，缘成锐角；磨突发达，背视不遮蔽磨叶（molar process）。右颚端齿较 M1 突出，M1 小、略超过 M2，M1 与 M2 间成直角，M2 后缘凹，无脊。消化道：crop 大；mixed segment 短而不膨大；中肠短细，渐宽成很短、管状、不形成腹环的 P1；EVS 分化好、管状；P3 大而膨大，P4 很长而细，P5 囊状。量度：种级（Table 1，3 个群体 17 头工蚁）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0053",
+        "citation": "Duran-Bautista E. H.; Celis-Daza F.; Poveda Quezada N. S.; Ortiz-Morea F. A.; Scheffrahn R. H.; Castro D. 2026. Ekueitermes alerosinus, a new genus and species of soldierless termite from Colombia (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1292: 275–292. https://doi.org/10.3897/zookeys.1292.195853",
+        "locator": "Ekueitermes gen. nov. — Diagnosis; Description: Imago / Worker（ZooKeys 1292: 275–292）"
+      }
+    ],
+    "note": "imago 原文记为 Unknown，故不设「有翅成虫」节；无兵蚁节（soldierless）。原文另有 Comparison and remarks 一节，指出消化道与 Patawatermes、Hirsutitermes 相近，但 EVS 更短。"
+  },
+  "/genus/hirsutitermes/": {
+    "zh_name": "毛白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "肠瓣 armature 的后缘具数百根细刺；肠瓣 seating（EVS）管状、三叶而长；mesenteric tongue 长但不膨大。与 Longustitermes 最近：本属的刺较其更长更细，cushion 前部呈梨形（后者更圆；原文此句表述为 the anterior portion of the cushions is more rounded in the latter than pyriform in the former）；Longustitermes 体型更小，EVS 为三叶状而非管状。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "侧视头壳呈很平缓的弧线。fontanelle 明显、心形，位于复眼后缘所在假想线附近、卵形斑（= 上唇中肌）之后。触角窝上方有两个明显卵形斑。触角 12 节，节式 2>3<4≈5。前胸背板中缝明显，前缘隆起。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型，中型（体与头的大小自中型至大型）。头壳淡黄，密布长毛与稀疏、稍大的刚毛，侧视背面平。触角节半透明白；触角 14 节，节式 2>3=4<5。fontanelle 圆形、明显但边缘模糊；后唇基中度膨大。前胸背板具很长刚毛，尤以前、后叶中部为多；背板与腹板表面具短毛、后缘具长刚毛。前足基节与前股节具中等大小的刺；前胫节中度膨大，密被大小不一的刺与刚毛。左上颚端齿较 M1+2 突出；M3 两缘成钝角、端部略圆并前指；磨叶明显、未被磨突遮蔽；磨突发达。右颚端齿远较 M1 突出，M1 小、不如 M2 突出，M2 缘弯；磨板凹，具少数脊。消化道：mesenteric tongue 长而不膨大；EVS 较长、管状，常有三个小而明显的叶；背视可见 P3-a 与 seating 的交界；armature 具数百根细长硬化刺，自肠瓣远端第 4 部分起分布。量度：种级（Table 2）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0027",
+        "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Roisin Y.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001",
+        "locator": "Hirsutitermes gen. nov. — Diagnosis; Description: Imago / Worker; Comparison and remarks（ZooKeys 1167: 317–352）"
+      }
+    ],
+    "note": "属级 Diagnosis 只列肠瓣与消化道三条，体壁特征见属级 Description。无兵蚁节（soldierless）。"
+  },
+  "/genus/humutermes/": {
+    "zh_name": "腐殖白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "工蚁 mixed segment 伸长，其内侧端部膨大成白色球形的 mesenteric diverticulum；此特征与 Anoplotermes sensu stricto 共有，可与其余南美无兵蚁白蚁属区分。与 Anoplotermes s.s. 的主要区别在肠瓣：本属肠瓣由 6 个 pad 组成，各具 10–20 根长刺伸入 paunch（P3）；有翅成虫的 fontanelle 更大、更伸长。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "复眼与单眼均中等大。fontanelle 中等大，呈位于两眼之间的长形白点。前胸背板背视半圆形，具数百根小刚毛与数十根长刚毛。中胸与后胸背板后缘略凹，角圆。"
+      },
+      {
+        "label": "工蚁",
+        "text": "很小至小型，头宽 0.49–0.62 mm（属级量度）。头壳白色，被 100 根以上小刚毛。fontanelle 几乎不显。前胫节中部膨大。消化道与 Anoplotermes sensu stricto 很相似：中肠与 proctodeum 重叠，形成明显的长 mixed segment，其 mesenteric 部分在内侧端部膨大成白色球形 diverticulum。肠瓣插入 paunch 的延伸部，由 6 个硬化 pad 组成，具发达的硬化 armature。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0054",
+        "citation": "Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305",
+        "locator": "Humutermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 20–22)"
+      }
+    ],
+    "note": "属级量度仅有工蚁头宽 0.49–0.62 mm，其余量度为种级。无兵蚁节（soldierless）。该属与 Patawatermes、Rubeotermes 同出 Bourguignon & Roisin (2016) 一文，三条来源合并为一条记录。"
+  },
+  "/genus/patawatermes/": {
+    "zh_name": "帕塔瓦白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Grigiotermes 很相似，但可由工蚁肠瓣 armature 的形状清楚区分；此外工蚁 P1 虽膨大，程度不及 Grigiotermes。同一批形态标准（体壁、上颚、消化道与肠瓣）也可将本属与其余南美无兵蚁白蚁属区分。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "硬化部位深褐，密布数千根微小刚毛。头壳具约 100 根稀疏长刚毛。复眼与单眼大。fontanelle 小至中等，位于复眼前缘水平。前胸背板伸长，具数十根长刚毛。中、后胸背板后缘略凹，角强圆。"
+      },
+      {
+        "label": "工蚁",
+        "text": "中至大型，头宽 0.69–1.1 mm（属级量度）。头壳淡黄、圆，散布微小刚毛与约 100 根长刚毛；fontanelle 小、几乎不显；上颚与前胫节形态见原文图 5C、5D。肠瓣插入 paunch 的管状延伸部，armature 发达，由 6 个圆形带刺 pad 组成；肠瓣前部由 6 个卵形 cushion 组成，每个由约 50–80 个鳞片构成，后缘具刺缨。中肠—proctodeum 交界形成小球，被 proctodeum 覆盖，略伸长成短的、明显的 mixed segment；后肠 P1 宽。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0054",
+        "citation": "Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305",
+        "locator": "Patawatermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 23–26 per journal pagination; treatment text read from Zenodo deposit)"
+      }
+    ],
+    "note": "属级量度：工蚁头宽 0.69–1.1 mm。无兵蚁节（soldierless）。属级 treatment 的页码未能从 Zenodo 记录核实（记录只给 isPartOf 全文与作者顺序），故 locator 只写属级 treatment 与作者年。"
+  },
+  "/genus/rubeotermes/": {
+    "zh_name": "赤白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "工蚁在酒精中变红，前足基节（forecoxa）具若干与跗距等大的长而粗的刺——据此可与全部南美无兵蚁白蚁区别。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "复眼与单眼中等大。fontanelle 很小。前胸背板背视半圆形，具数百根刚毛。中、后胸背板后缘颇凹，角圆。"
+      },
+      {
+        "label": "工蚁",
+        "text": "大型，头宽约 1 mm。活体白色，酒精中变红。头壳密布许多小刚毛；fontanelle 很小。前足基节具数根与跗距同大的刺；前胫节略膨大。中肠与 proctodeum 的连接截断，无 mixed segment（原文作 Mesenteron and proctodeum connection truncated, devoid of mixed segment）；肠瓣插入三叶的肠瓣 seating。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0054",
+        "citation": "Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305",
+        "locator": "Rubeotermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 27–30)"
+      }
+    ],
+    "note": "属级含工蚁与有翅成虫两节；无兵蚁节（soldierless）。属名指其在酒精中变红（rubeo-，红）；中文名取「赤」。"
+  },
+  "/genus/tucupitermes/": {
+    "zh_name": "图库皮白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "左上颚切缘长为端齿至 M1+2 距离的 2 倍；stomodeal valve 长为 crop 的 2 倍；Malpighian ampullae 发达，右腹视与背视均可见；mesenteric tongue 长而略呈球状，达腹部中线；P1 与 P3 的连接在任何体视下均不可见，仅见一小的双叶 seating。为该亚科目前已知体型最大者（文题即称 the largest Apicotermitinae）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头壳深黄，具向顶区汇合的深色纵肌痕；fontanelle 白、凸、滴状。头壳刚毛少、大小不一，后区无刚毛；后唇基小、略膨，刚毛与头壳者同大；上唇凸，长于后唇基与唇基之和，刚毛较粗。触角 13 节，I<II，III 短于其余各节。上颚粗壮：左上颚端齿短于 M1+2；端齿至 M1+2 的距离相对较近，切缘长为该距离的 2 倍；M1+2 与 M3 间切口明显且远离 M1+2；M3 尖，与磨突距离短；磨突锥形，具沟状纹与基部鳞片。右颚端齿略小于 M1，第一缘齿明显大于其余齿；M1 后缘宽于磨突；M1 与 M2 间成 130°；M2 锥形；磨板凹、无沟，具沟状纹与基部鳞片。胸部淡黄；前胸背板宽于头宽之半，边缘多刚毛；中、后胸背板侧缘与后缘具刚毛。胫节较股节色浅，前表面多不规则刺；前足基节前面具一列明显的刺状刚毛。腹部半透明，背板与腹板被许多大小不一的刚毛。消化道：crop 小、紧接胸部之后；gizzard 退化，无 armature，具 6 个一级 pulvilli；stomodeal valve 很长；中肠具 4 个发达的细长 Malpighian ampullae；P1 长；P2 不对称、三叶；P3 球状，经拱起的 isthmus 接 P4。量度：种级（Table 1，20 头工蚁）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0055",
+        "citation": "Almeida-Azevedo R.; Acioli A. N. S.; Heleodoro R.; Morais J. W.; Brown G. G.; Kille P.; Cunha L.; Azevedo R. A. 2025. Tucupitermes, the largest Apicotermitinae (Isoptera, Termitidae) from the Amazon Rainforest. Zootaxa 5633(1): 186–194. https://doi.org/10.11646/zootaxa.5633.1.11",
+        "locator": "Tucupitermes gen. nov. — Description: Imago / Genus Diagnosis / Genus Description (Worker) / Digestive tube（Zootaxa 5633: 187–191）"
+      }
+    ],
+    "note": "属级把「Genus Diagnosis」与「Genus Description」分列；imago 原文记为 Unknown，故不设「有翅成虫」节；无兵蚁节（soldierless）。属级量度未给，量度为种级。"
+  },
+  "/genus/sandsitermes/": {
+    "zh_name": "桑兹白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫头背面在 fontanelle 前方、单眼所在处略隆起；后唇基略拱，前缘直、后缘微凸；右颚磨区明显凹，具微弱脊与明显基凹。兵蚁 nasus 长锥状，但无独有形态特征（原文明确称 no apparent uniquely distinct morphological character）。工蚁上颚磨区凹而无发达脊；肠的 P1 在与 paunch（P3）汇合前形成独立的环；肠瓣（P2）硬化弱，排成两环、具微小锥刺。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "背视头壳卵形；单眼之间的额区不凹；侧视头背面在 fontanelle 前方、单眼所在处略隆起。复眼卵形、大，与头下缘的距离小于与单眼的距离。单眼背视椭圆形、大（小于触角窝），位于复眼前半，与复眼的间距小于单眼宽度。fontanelle 较头色浅，位于浅凹内，Y 形，前臂短，臂上方有一小透明圆。后唇基侧视略拱，背视中线略凹；前缘直、后缘微凸。触角 15 节。前胸背板宽于头（不含眼），亚梯形，前缘隆起，前侧角圆，侧缘凹并向后方收窄，后缘圆而不凹。中、后胸背板后缘深凹，后侧角尖。胫距 2:2:2。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。背视头壳卵形至圆形，不缢缩，后缘不凹；侧视头顶在 nasus 基部有轻隆，其后浅凹。nasus 锥形，短于头壳长，不上指；后唇基侧视略凸。上唇宽大于长，前缘圆，侧缘平行，前角圆。上颚具明显的「点」。触角 13 节。前胸背板前叶不如后叶发达，二者夹角约 90°。前足基节锥形，前面无 keel（龙骨）。胫距 2:2:2。腹节板片硬化良好，背板覆瓦状。"
+      },
+      {
+        "label": "工蚁",
+        "text": "所有工蚁头壳梯形；fontanelle 明显，位于头壳中部、略凹；后唇基膨大；触角 14 节；前胸背板前缘圆而不凹；胫距 2:2:2。工蚁二型，依头壳色素、上颚形态与背板形状大小区分：type 2 在所研究的全部样品中均少于 type 1，头壳褐黄，前部具凹、其后为隆；上颚外缘在端齿前有明显凹，端齿较大，左 M3 与磨突之间的间隙更宽，磨板更窄；前胸背板前叶较后叶更发达。type 1 内头壳大小似有差异，但个体数不足以测量。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0056",
+        "citation": "Cuezzo C.; Cancello E. M.; Carrijo T. F. 2017. Sandsitermes gen. nov., a new nasute termite genus from South America (Isoptera, Termitidae, Nasutitermitinae). Zootaxa 4221(5): 562–574. https://doi.org/10.11646/zootaxa.4221.5.5",
+        "locator": "Genus Sandsitermes, new genus — Diagnosis; Description: Imago / Soldier / Worker（Zootaxa 4221: 563–569）"
+      }
+    ],
+    "note": "属级未给量度，量度为种级；二型工蚁的区分置于属级 Description 内。原文把 Imago 写作 Imago（有翅成虫），未用 alate 一词。"
+  },
+  "/genus/sinqasapatermes/": {
+    "zh_name": "辛卡萨帕白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "肠瓣（P2）远端缘不翻入 paunch（P3），而向 ileum（P1）弯折，即逆食流方向；armature 为一环 6 条等大的近三角脊，每脊表面密布短刺；armature 位于锥的外表面、朝向 P1 内壁；肠瓣 seating 三叶，与 P3 其余部分分开；P3 再分。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。背视头壳在触角基之后缢缩，最大宽位于缢缩之后、后叶中部；侧视头顶至 nasus 基部近直，nasus 基部弱凹。nasus 窄、锥形（背视），约与头壳等长，侧视略上斜。上颚退化，无「点」。后唇基侧视中度拱。上唇宽大于长，前侧角圆。触角 11 节。前胸背板浅鞍形，前缘圆而不凹。胫距 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "背视头壳梯形，最大宽位于上颚基部；fontanelle 区凹，位于头壳后三分之一。后唇基短、中度膨大，中线弱。触角 12 节。前胸背板浅鞍形，前缘圆而不凹。胫距 2:2:2。左上颚端齿与 M1+2 等大或略更突出，端齿后缘弱凹或平截；端齿后缘与 M1+2 前缘成直角或锐角；M1+2 后缘直或微曲；第三缘齿退化为残节；磨齿在 V 形间隙可见，但端部为磨突所遮；磨突脊极弱。右颚端齿略较第一缘齿突出，第二缘齿不可见或退化为微小突起；磨板凹、脊极弱；基凹明显。消化道：肠管在体内成短而宽的团；crop 大；gizzard 肌层强；中肠经体右侧，腹视不达中线；中肠—proctodeum 交界圆形，无 mixed segment；Malpighian 管基部略膨大成 ampulla，成对相邻、以共同基部着生于交界内面；P1 管状，短于中肠；P2 位于 P1 之下、锥形，远端缘即鉴别要点所述逆流弯折；P2 与 P3 同轴；肠瓣 seating 三叶，由一缢缩与 P3 其余部分分开；P3 远端于背视很突出，于左侧接 P4；isthmus 明显。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0057",
+        "citation": "Cuezzo C.; Nickle D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9. https://doi.org/10.3897/zookeys.159.2311",
+        "locator": "Sinqasapatermes gen. n. — Diagnosis; Description: Imago / Soldier / Worker / Mandibles / Digestive tube（ZooKeys 159: 1–9）"
+      }
+    ],
+    "note": "imago 原文记为 Unknown，故不设「有翅成虫」节。属级 Diagnosis 只列肠部特征，兵蚁与工蚁的体壁特征在属级 Description 内；属级未给量度，量度为种级。"
+  },
+  "/genus/schievitermes/": {
+    "zh_name": "斯希维白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁在新热带弹击类（snappers）中因无额突（frontal projection）而区别于 Termes、Inquilinitermes、Cavitermes、Palmitermes、Dihoplotermes 与 Cornicapritermes；Planicapritermes 头壳扁、上颚强不对称；与 Crepititermes 的区别为上颚更粗、具轻微但明显的不对称，且触角第 3 节球状；Neocapritermes 各种体型更大（头宽 >1 mm）、触角 15–16 节（本属 13 节），上颚不对称程度总是更强。工蚁上颚属食木型，端齿与前缘齿间距短、磨脊发达；消化道与 Planicapritermes 相似，但 mixed segment 的 mesenteric 部分端部双叶为本属特征；Neocapritermes 亦具二个 mesenteric 叶，但 mixed segment 更短、叶更大且相距更远。P3 内角质分化介于 Neocapritermes（长刺与丝状物）与 Planicapritermes（微小刺）之间。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "属级仅知一头蚁后（only known from a single queen），原文未作独立的属级描述，而指向种级描述。此处不另补。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳亚方形、角圆，长约宽的 2 倍，具约 100 根刚毛。上颚约与头壳等长，较粗，属弹击型；右颚近直，仅略内弯；左颚轻微但明显弯曲：基部外缘微凹，中部凸，在与右颚接触处再凹，端部内弯。两颚端部钩状，内转约 60°。触角 13 节，末节超过左颚端部；第 3 节明显球状，与第 1 节等宽，且宽于其余各节。上唇两侧近平行，前缘波状、中部凸，具少数长刚毛，前角圆。额无突起。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型。头壳白色，具多数刚毛。上颚属食木型：左颚 A–M1+2 间距约为 M1+2–M3 间距之半；M3 明显，premolar 齿（sensu Deligne 1999）刀状，磨脊发达。右颚 A–M1 间距短，M2 明显，磨脊发达。crop 中等发达；gizzard 为广义型，角质 armature 仅限 pulvilli 上的小栉状鳞。mixed segment 长，mesenteric tongue 端部双叶。P1 略膨大，后渐窄入 P2。肠瓣（P2）漏斗状，在 P1 末端呈锥形，与 P3 相接处成窄管；armature 为两环带刺区：近端环位于 P2 锥部，由 3 个卵形 cushion 与细长 cushion 相间组成，均具小三角刺；远端环位于窄管部，由 6 个长短相间的 cushion 组成，具细而弯的刺。P3 大，壁具许多小刺，近 P2 入口的圆后部刺较长，前部向 P4 收窄处刺短且常呈栉状。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0058",
+        "citation": "Roisin Y. 2022. Schievitermes globicornis, a new genus and species of Termitinae (Blattodea, Termitidae) from French Guiana. ZooKeys 1125: 103–114. https://doi.org/10.3897/zookeys.1125.91124",
+        "locator": "Schievitermes gen. nov. — Description: Imago / Soldier / Worker; Diagnosis: Soldier / Worker（ZooKeys 1125: 103–114）"
+      }
+    ],
+    "note": "属级 Description 分 Imago（仅蚁后）/Soldier/Worker，Diagnosis 亦分 Soldier（对比新热带弹击类）与 Worker（食木型上颚与肠）两段。题录有冲突：Pensoft 页面 Citation 作 ZooKeys 1125: 103–124，而 XML 的 fpage/lpage 为 103–114，本批取后者。"
+  }
+}

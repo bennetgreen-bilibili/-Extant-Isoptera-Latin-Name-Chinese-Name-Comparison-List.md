@@ -20,7 +20,7 @@
   <h4>{{ sec.label }} <span class="fact-en" lang="en">{% if sec.label == "鉴别要点" %}Diagnosis{% elsif sec.label == "有翅成虫" %}Alate{% elsif sec.label == "兵蚁" %}Soldier{% elsif sec.label == "工蚁" %}Worker{% elsif sec.label == "若虫" %}Nymph{% endif %}</span> <span class="fact-es" lang="es">{% if sec.label == "鉴别要点" %}Diagnóstico{% elsif sec.label == "有翅成虫" %}Alado{% elsif sec.label == "兵蚁" %}Soldado{% elsif sec.label == "工蚁" %}Obrera{% elsif sec.label == "若虫" %}Ninfa{% endif %}</span></h4>
   <p>{{ sec.text }}</p>
   {%- endfor %}
-  <p class="fauna-cite">文献依据：{% if mg.sources %}{% for src in mg.sources %}{{ src.citation }}{% if src.locator %}，{{ src.locator }}{% endif %}{% unless forloop.last %}；{% endunless %}{% endfor %}{% else %}{{ mg.source.citation }}{% if mg.source.locator %}，{{ mg.source.locator }}{% endif %}{% endif %}。本段为改写稿，非原文转录。</p>
+  <p class="fauna-cite">文献依据：{% if mg.sources %}{% for src in mg.sources %}{{ src.citation }}{% if src.locator %}，{{ src.locator }}{% endif %}{% unless forloop.last %}；{% endunless %}{% endfor %}{% else %}{{ mg.source.citation }}{% if mg.source.locator %}，{{ mg.source.locator }}{% endif %}{% endif %}。本段为改写稿，非原文转录。{% if mg.sources %}{% for src in mg.sources %} <!-- src:{{ src.id }} -->{% endfor %}{% elsif mg.source.id %} <!-- src:{{ mg.source.id }} -->{% endif %}</p>
 </section>
 {%- else -%}
 <section class="species-fauna taxon-fauna genus-morphology" lang="zh-CN">

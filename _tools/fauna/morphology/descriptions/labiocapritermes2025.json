@@ -1,0 +1,25 @@
+{
+  "/genus/labiocapritermes/": {
+    "zh_name": "唇扭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头壳背面观近方形、无额突，在 Pericapritermes 群中较易辨认：上唇强烈膨大且左右不对称，前缘略内凹，前侧角可有很小的尖，也可完全不见；上颚很短、短于头长，且左右极不对称——左上颚中部强烈扭转，末端既无喙状突也无钩，右上颚呈刀片状、末端钝而不尖。配合棒状后颏与强鞍形前胸背板，可与近扭白蚁属（Pericapritermes）等八个属区分。作者另提出一条属级特征：三个已知种的兵蚁中足胫节均具两根褐色、明显的刺状距。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳亚矩形，无额突；侧面观额部平缓下倾，囟小，囟腺亦小。触角 14 节。上唇不对称且强烈膨大，两侧缘凸出，前缘略内凹，前侧角具很小的尖（有时不明显）。上颚强烈不对称并短于头长：左上颚中部强烈扭转，末端无喙或钩；右上颚刀片状，明显短于左上颚，端部钝。后颏棒状，腰部明显收窄。前胸背板强鞍形，前缘弱凹，后缘无凹缺。头壳 Y 形缝的中臂在同一种乃至同一群体内都有清晰、模糊或不显的变异，作者因此未将其作为种级特征。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型。头壳背面观近圆形；触角 14 节。上颚各具一端齿与二缘齿，端齿大；左上颚第 1、2 缘齿后缘长，第 3 缘齿极度退化；右上颚第 2 缘齿小而突出，后缘弱内凹；前胸背板鞍形。工蚁上颚结构指示本属为取食组 III 的腐殖质／富有机质土壤取食者。"
+      }
+    ],
+    "source": {
+      "id": "S0035",
+      "citation": "Amina P.; Rajmohana K. 2025. A taxonomic review of the Indian endemic genus Labiocapritermes Krishna, 1968 (Blattodea: Isoptera: Termitidae) with description of two new species from Kerala, India. Journal of Insect Biodiversity and Systematics 11(4): 1013–1026.",
+      "locator": "p. 1014（Results: Genus Labiocapritermes — Diagnosis. Soldier / Diagnosis. Worker；Remarks）；种级测量见 p. 1015 起检索表与各种记述"
+    },
+    "note": "属征直接取自原文属级 Diagnosis，按兵蚁、工蚁两个品级分述；原文对三个已知种的有翅成虫均记作 Imago: Unknown，故不设有翅成虫段。头壳 Y 形缝中臂的变异性与胫节刺状距两条，原文分别以 Remarks 与「proposed as of generic significance」提出，已并入上文。"
+  }
+}

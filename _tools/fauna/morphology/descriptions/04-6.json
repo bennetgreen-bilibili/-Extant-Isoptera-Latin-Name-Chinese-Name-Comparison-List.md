@@ -1,0 +1,322 @@
+{
+  "/genus/constrictotermes/": {
+    "zh_name": "缩白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头壳在触角窝后方明显呈哑铃状缢缩，凹陷之前的头背轮廓仅略长于凹陷之后，鼻相对短而呈锥形，触角 14–15 节。这套组合足以把它与 Coarctotermes（鼻长而粗、锥形，触角 12–13(–14) 节，头前部远长于后部）、Tenuirostritermes（鼻细、柱形，触角 11–13 节）和 Grallatotermes（鼻短而极宽锥形，头在触角后方不呈哑铃状缢缩）分开。有翅成虫则依头宽卵形、向前明显变窄、后头扁圆，配合较小而强烈突出的复眼、唇基与额同色或仅略浅，区别于 Velocitermes 与 Tenuirostritermes（头卵形、后头发达）。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头宽卵形，前部明显收窄，后头扁圆而平缓；复眼位于头侧，相对小、强烈突出；唇基短于或约等于其半宽，与额同色或仅略浅；触角节稍伸长；前胸背板相对大。在原文检索表中，本属与 Rotunditermes（眼极大）、Diversitermes（眼中等大）同置于「上颚第一齿约与第二齿等长、唇基等于或略短于半宽」的一支。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "属 Constrictus 群，兵型单一。头壳在触角窝后方呈哑铃状缢缩；头背轮廓在凹陷之前仅略长于凹陷之后，凹陷本身强烈而清晰；鼻相对短，锥形；触角 14–15 节。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 59–62（Übersicht der Untergattungen：Imagines 与 Soldaten 检索表）；p. 65（亚属名录第 14 亚属）"
+    },
+    "note": "Holmgren 1912 在 Eutermes 属下建立的亚属，名录列为第 14 亚属，含 cavifrons Holmgren（苏里南）、cyphergaster Silvestri、latinotus Holmgren（厄瓜多尔）。1912 年原文只给出检索表条目与亚属名录，未写工蚁属征，故不设工蚁段。有翅成虫段里的「检索表位置」是就检索分支而言，不是完整描述。"
+  },
+  "/genus/convexitermes/": {
+    "zh_name": "凸白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "本属在检索表中有翅成虫与兵蚁分处不同主干。有翅成虫上颚第一齿明显大于第二齿，头宽卵形且通常向前收窄，囟远位于头的后部；兵蚁属小型种，上颚无尖部，鼻短而粗的锥形，触角 11 节，额部轮廓凸起。兵蚁据此与 Occasitermes（鼻长而粗的锥形、触角 13 节、额轮廓平直）以及 Eutermellus（头在触角后方微缢缩）区分。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "上颚第一齿明显大于第二齿；头宽卵形，通常向前收窄；囟远位于头后方，头内脑部发达（原文作 Gehirn stark entwickelt）；唇基约与半宽等长，或较短但强烈隆起、横卵形、淡黄色。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "小型种。上颚无尖部（Spitzenteil）；鼻短、粗、锥形；触角 11 节；额部轮廓（Stirnprofil）凸。检索表另以工蚁唇基基部约与其半宽等长作为本属所在分支的辅助特征。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "p. 59（Imagines 检索表 B/aa/bb/e）；p. 60（Soldaten 检索表 aa/b/c/d）；p. 64（亚属名录第 7 亚属）"
+    },
+    "note": "Holmgren 1912 建立的亚属，名录列为第 7 亚属，含 convexifrons Holmgren（秘鲁）与 nigricornis Holmgren（秘鲁）。原文无工蚁属征；兵蚁段末句提到的工蚁唇基特征只是检索辅助，不足以写成工蚁段。有翅成虫与兵蚁两段分属不同检索主干，合起来才是本属的鉴别组合，不能当作同一品级的完整描述。"
+  },
+  "/genus/cyranotermes/": {
+    "zh_name": "巨鼻白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头壳狭、卵形，额管锥形且基部粗；与之相对，Anhangatermes 头壳甚宽而圆、额管近圆柱状且基部窄。该对比即 Neotropical 兵蚁检索表中本属所处的位置。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳背视狭窄、卵形；额管锥形，基部粗。检索表中本属与头壳甚宽圆、额管近圆柱形且基部窄的 Anhangatermes 互为对应条目。"
+      }
+    ],
+    "source": [
+      {
+        "id": "S0048",
+        "citation": "Constantino R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448. https://doi.org/10.11606/0031-1049.1997.40.p387-448",
+        "locator": "Chave para soldados, casal 14（p. 387–448）；图 101–102"
+      }
+    ],
+    "note": "Rocha, Carrijo & Cancello 2012（Zootaxa 3196: 50–57）为本属最近一次修订并首述有翅成虫，但其 PDF 经文本代理仅能取到第 1 页（摘要与引言），属征正文未读到，故本条只据 Constantino 1999 兵蚁检索表写兵蚁特征，不补写有翅成虫与工蚁。"
+  },
+  "/genus/diversitermes/": {
+    "zh_name": "歧白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "最醒目的特征是兵蚁三型：大型兵的鼻狭细、鼻基凹陷弱；中型与小型兵的头壳多少呈哑铃状缢缩；触角 13 节；两个小型兵型的足相当长。同群中 Velocitermes 为二型（相当于本属的中、小型），Trinervitermes 二型或罕为三型但其上颚无尖部；定型的三种兵型仍是本属最醒目的标志。有翅成虫以眼中等大、上颚第一齿约与第二齿等长、唇基约与半宽等长，与 Rotunditermes（眼极大）区分。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "复眼中等大（原文的检索表把它与 Rotunditermes 的极大眼对置，该分支另记复眼向头侧上方隆起、前胸背板相对大）；上颚第一齿约与第二齿等长；唇基约与半宽等长，或略短而强烈隆起、横卵形、淡黄色，有时深色；触角节伸长程度一般。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "兵蚁三型。大型兵：鼻狭，鼻基凹陷弱。中型与小型兵：头壳或多或少明显呈哑铃状缢缩；触角 13 节。两个小型兵型的足相当长。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "p. 60（Imagines 检索表 bb/e/dd）；p. 61（Soldaten 检索表 aaa/b/e）；p. 64（亚属名录第 9 亚属）"
+    },
+    "note": "Holmgren 1912 建立，名录列为第 9 亚属，含 diversimilis Silvestri（巴拉圭、阿根廷、巴西、玻利维亚）与 castaniceps Holmgren（巴西）。原文只有检索表条目，未给三型兵蚁的测量数据，故上文只写型数与定性特征；原文亦无工蚁属征。"
+  },
+  "/genus/diwaitermes/": {
+    "zh_name": "木象白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Roisin & Pasteels 以新几内亚的 Nasutitermes (Subulitermes) orientis 为模式种建立本属，属名取自新美拉尼西亚语 diwai（木）。兵蚁完全鼻型，与 Nasutitermes 近缘，但头壳在触角窝后方不缢缩、单型、体型小至中等，触角 11 或 12 节。真正把它与 Nasutitermes、Niuginitermes 分开的是工蚁消化道：混合段的肠系膜部分以宽柄附着于中肠背侧偏内，4 条马氏管在附着于中肠—后肠交界处彼此靠拢，幽门瓣上下两圈刺区不对称、下圈刺伸入胃腔；工蚁二型。婆罗洲的 Eleanoritermes 与本属相似，但工蚁上颚臼区更凹、幽门瓣更靠前、仅三个膨突上具少数小刺、结肠更长。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "仅模式种已知。原文未列属级形态特征，只指出触角节数日后可能成为区分本属与 Nasutitermes、Niuginitermes 的依据。原文另比较近缘的 Nasutitermes liklik：它与 D. kanehirae 的差别是各品级均多一节触角（有翅成虫 14 对 13）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "完全鼻型，与 Nasutitermes 近缘。头壳在触角窝后方不缢缩；兵型单一，体型小至中等；触角 11 或 12 节，若为 12 节则第 3 节极短且与第 4 节分离不完全；头壳被毛，具长短不等的许多刚毛；上颚上的尖小，有时缺。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 12 或 13 节，若为 13 节则第 3 节极短且与第 4 节分离不完全。上颚与 Nasutitermes 很相似，左颚指数 0.45–0.55。消化道：混合段的肠系膜部分以宽柄附着于中肠其余部分的背侧偏内；4 条马氏管在附着于中肠—后肠交界处彼此靠拢；幽门瓣上圈刺区略不对称，下圈刺伸入胃腔。工蚁二型；大型工蚁的体长分布为单峰，同一龄期内不增长、色素略加深。"
+      }
+    ],
+    "source": {
+      "id": "S0049",
+      "citation": "Roisin Y. & Pasteels J.M. 1996. The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy 10: 507–616. https://doi.org/10.1071/IT9960507",
+      "locator": "p. 583（Genus Diwaitermes, gen. nov.：Imago / Soldier / Worker / Comparisons）；Abstract 见 p. 507"
+    },
+    "note": "属征按原文 Imago / Soldier / Worker 三段分述；有翅成虫仅模式种已知且无形态描述，该段只记录原文对这一品级的说明，不含任何测量。原文指出 N. orientis 几乎肯定是 Eutermes kanehirae Oshima, 1914 的次异名，属征以 N. orientis 为准；本属含 D. kanehirae、D. foi、D. castanopsis 三个种。"
+  },
+  "/genus/eutermellus/": {
+    "zh_name": "小真白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Sands 认为本属是非洲 Paracornitermes 群中特化程度最低者：有翅成虫与工蚁的上颚、部分种典型的 Y 形囟、兵蚁上唇三叶状前缘以及总体上更多的刚毛都指向这一点。与 Vernicositermes、Afrosubulitermes 的区别在于毛被更密（以及体型）。兵蚁单型，鼻锥形至柱形、端部收成细尖且明显皱，上唇前缘三叶状，触角 13 节，头在触角后方极弱至中度缢缩。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚端齿明显长于第 1 缘齿，但二者间距略短于第 1–3 缘齿间距（左颚指数 96–98）；第 1–3 缘齿之间的切缘波状并在第 3 缘齿前方凹陷，第 3 缘齿近等边，它与臼突之间的间隙中可见很小的副齿。右上颚端齿与第 1 缘齿同左上颚，第 2 缘齿小而明显、后缘凹；臼板表面无基凹，不对称，后缘具大的圆形翼、前缘翼较小，脊弱。后唇基隆起，宽为长的 1.8–2.5 倍。囟形状多变：Y 形、三角形、哑铃形或近于消失。复眼自头侧突出的程度由几乎不突到明显。头部毛被长短不很规则，显著的长刚毛常成对对称排列。前胸背板两侧向圆的后缘弱收，长约宽的三分之二。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。鼻锥形至柱形，向细尖渐细，明显皱。退化上颚具微小尖或全无尖；上唇前缘三叶状。头壳在触角后方极弱至中度缢缩。触角 13 节。头与鼻被稀疏、极短的细毛，鼻端较长；另有显著的较长刚毛大致排成两列，一列在缢缩之前（4–10 根），一列在其后（2–10 根）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚同有翅成虫，仅端齿比例更长（左颚指数 1.24–1.62），臼区更发达。"
+      }
+    ],
+    "source": {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+      "locator": "p. 141（Genus Eutermellus Silvestri：Imago / Soldier / Worker；Remarks）"
+    },
+    "note": "Sands 1965 给出 Imago、Soldier、Worker 三段，均按原文录入。有翅成虫的左颚指数原文作 96–98（百分数口径），工蚁作 1.24–1.62（比值口径），两者量纲不同，照录而未换算。"
+  },
+  "/genus/fulleritermes/": {
+    "zh_name": "富勒白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Coaton 1962 依据有翅成虫左上颚第 3 缘齿之前切缘的缺刻把本属从 Coarctotermes 分出；同一特征也见于 Grallatotermes 与 Leptomyxotermes，但后两属复眼与单眼大得多，且 Grallatotermes 右上颚臼板具 13–14 条脊。本属臼板 7–9 条脊，并在前缘近基部有很弱至很强的凹缺，第 1 臼脊成粗齿。兵蚁单型或二型，鼻柱形或锥形，头在触角后方由几乎不缢到强烈缢缩，后叶常比前部宽四分之一以上，触角 12–13 节。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚端齿与第 1 缘齿等长，端齿至第 1 缘齿的距离大于第 1–3 缘齿间距的三分之一（左颚指数 36–43）；第 1–3 缘齿之间的切缘具缺刻，分隔出第 3 缘齿。右上颚端齿与第 1 缘齿近等长，第 1 缘齿在近端齿的基部连接处具小副齿，第 1、2 缘齿切缘的相对长度可变；臼板表面在前缘近基端有很弱至很强的凹缺，后缘延伸成圆翼，第 1 臼脊成粗齿，其余 7–9 条向基部渐小。囟裂隙状，前方明显分叉，通常比头色浅。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型或二型。鼻柱形或锥形。退化上颚具小至中等大小的尖。头壳在触角后方由几乎不缢至强烈缢缩，后叶通常比前部宽四分之一以上。触角 12–13 节。"
+      }
+    ],
+    "source": {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+      "locator": "pp. 55–56（Genus Fulleritermes Coaton：Imago / Soldier；Remarks）"
+    },
+    "note": "Sands 1965 的属征只有 Imago 与 Soldier 两段，属一级未写工蚁，故不设工蚁段。原文列出四个种：contractus、coatoni、mallyi、tenebricus，并指出本属占据稀树草原与更干的植被带。"
+  },
+  "/genus/grallatotermes/": {
+    "zh_name": "高跷白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Sands 视其有翅成虫上颚为非洲种类的唯一组合：左上颚切缘在第一与第三缘齿之间具深缺刻，右上颚臼板具 13–14 条脊且表面轮廓无明显不规则。缺刻一项与 Fulleritermes、Leptomyxotermes 共有，但本属臼板脊数最多（Fulleritermes 7–9 条并在臼板前缘近基部有凹缺，Leptomyxotermes 6–7 条且复眼、单眼极大）。兵蚁单型，鼻粗但仅弱锥形、端部急剧收尖，头在触角后方微缢缩，刚毛仅限鼻端 4 根与后唇基、头顶的成对毛。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚端齿略短于第 1 缘齿，二者间距约为第 1–3 缘齿间距的四分之一（左颚指数约 25）；第 2 缘齿被第 3 缘齿前方的深切刻分隔，连接第 3 缘齿与臼突的小副齿自上方看退于二者间隙之后。右上颚端齿与第 1 缘齿近等长，第 1 缘齿的后切缘短于第 2 缘齿者且不覆盖第 2 缘齿前缘（表面的重叠埋于平滑发亮的愈合面内）；臼板在表面观轮廓无明显不规则，具 13–14 条脊，向后渐小。后唇基短、轻度隆起，长约宽的三分之一。囟淡色，略呈 T 形。前胸背板几无隆起的前缘。头部毛被稀疏、细而均匀，仅少数较显著的刚毛。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。鼻粗，但仅弱锥形，端部急剧收尖。退化上颚具尖。头壳在触角后方微缢缩；刚毛仅鼻端 4 根，以及后唇基与头顶两侧成对排列者。"
+      }
+    ],
+    "source": {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+      "locator": "p. 55（Genus Grallatotermes Holmgren：Imago / Soldier；Remarks）"
+    },
+    "note": "Sands 1965 的属征含 Imago 与 Soldier 两段，属一级未写工蚁，故不设工蚁段。原文把本属与 Hospitalitermes 同置于「头壳在触角后方缢缩」的一群，并指出其有翅成虫上颚在非洲种类中独一无二。Holmgren 1912 的检索表另给兵蚁一条描述（鼻短、极宽锥形、触角 13 节、头在触角后方不呈哑铃状缢缩），与 Sands 的「鼻粗但仅弱锥形、头微缢缩」程度不同；上文以 Sands 的属征为准。"
+  },
+  "/genus/hirtitermes/": {
+    "zh_name": "多毛白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁属 Constrictus 群，兵型单一：鼻大、粗、锥形，鼻基凹陷大；左上颚基部具两枚明显的齿；被毛硬而呈褐色；触角节伸长。与 Eutermes s. str. 的对比正在于此——后者鼻基凹陷小或无，上颚基部从无齿，被毛不硬，触角节多数正常。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。鼻大、粗、锥形；鼻基凹陷显著，原文在群的特征中特别注明本属凹陷大；左上颚基部具两枚明显的齿；头与鼻被硬毛，褐色；触角节长。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "p. 60（Soldaten 检索表 A 群说明及 a/b 支）；p. 62（亚属名录第 1 亚属）"
+    },
+    "note": "Holmgren 1912 建立，名录列为第 1 亚属，仅 Eutermes (Hirtitermes) hirtiventris Holmgren（沙捞越）。有翅成虫在检索表中只以「(?Hirtitermes n. subg.)」附于 Eutermes s. str. 项之后，作者本人存疑，故不设有翅成虫段；原文无工蚁属征。"
+  },
+  "/genus/lacessititermes/": {
+    "zh_name": "怒白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁鼻相对狭锥形，触角 14 节，头常缢缩，触角第 3 节短于第 4 节；同群的 Longipeditermes 第 3 节等于或长于第 4 节、兵二型、上颚尖部具一枚明显齿，Hospitalitermes 单型且上颚尖部无齿。有翅成虫唇基短于半宽、仅极略浅于额或与之同色，额在唇基后方呈三角形凹陷，体与翅均深色，触角第 3 节略长于第 2 节，囟不明显而呈裂隙状——与 Hospitalitermes（第 3 节长为第 2 节两倍，囟明显、卵形、发白）区分。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "唇基短于其半宽，仅（极）略浅于额或与额同色；额在唇基后方呈三角形凹陷；体色深，翅深色；触角第 3 节略长于第 2 节；囟不明显，裂隙状。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "鼻相对狭锥形；触角 14 节；头常缢缩；触角第 3 节短于第 4 节；体色多深，足长。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "p. 60（Imagines 检索表 C/a）；p. 61（Soldaten 检索表 B/bb/aa/b）；p. 65（亚属名录第 18 亚属）"
+    },
+    "note": "Holmgren 1912 建立，名录列为第 18 亚属，注明东印度区，列 alipes、atrior、breviarticulatus、filicornis、laborator、lacessitiformis、lacessitus、piliferus 等种（含新种）。原文只有检索表条目，无工蚁属征。"
+  },
+  "/genus/leptomyxotermes/": {
+    "zh_name": "薄喙白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Sands 为非洲森林种 doriae 单立此属，此前它与 Rhadinotermes 一起被置于 Coarctotermes。有翅成虫左上颚第 3 缘齿之前的切缘具明显凹缺，这一特征与 Rhadinotermes、Fulleritermes 共有；但本属复眼与单眼极大而突出，囟裂隙状且前方不明显分叉，右上颚臼板仅 6–7 条脊（Fulleritermes 7–9 条，Grallatotermes 13–14 条）。兵蚁单型而带二型痕迹，鼻柱形，头在触角后方强烈缢缩，触角 14 节。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚端齿与第 1 缘齿等长，端齿至第 1 缘齿的距离为第 1–3 缘齿间距之半（左颚指数约 50）；第 1–3 缘齿之间的切缘在第 3 缘齿前方有明显凹陷。右上颚端齿与第 1 缘齿近等长，第 1 缘齿的后切缘约与第 2 缘齿者等长，后者明显凹；臼板表面在前缘近基端有凹缺，后缘延伸成圆翼，第 1 臼脊成齿，其余 6–7 条向基部渐小。囟裂隙状，前方不明确分叉。复眼与单眼极大而突出。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型，带二型痕迹。鼻柱形。退化上颚具小尖。头壳在触角后方强烈缢缩。触角 14 节。"
+      }
+    ],
+    "source": {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+      "locator": "p. 51（Leptomyxotermes gen. n.：imago / Soldier；Remarks）"
+    },
+    "note": "属名源自希腊语 leptos（细）与 myxa（灯嘴、壶嘴）。Sands 1965 的属征含 imago 与 Soldier 两段，无工蚁段。原文指出连接臼突与第 3 缘齿的小齿在本属退于其后，而在 Fulleritermes 与 Rhadinotermes 中可见。"
+  },
+  "/genus/longipeditermes/": {
+    "zh_name": "长足白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁二型，这一点在检索表中被特别标出（同群其余各属多为单型）；鼻相对狭锥形，触角 14 节，头常缢缩，上颚尖部仅具一枚明显的齿，触角第 3 节等于或长于第 4 节。Lacessititermes 第 3 节短于第 4 节且为单型；Hospitalitermes 单型且上颚尖部无齿。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "兵蚁二型。鼻相对狭锥形；触角 14 节；头常缢缩；上颚尖部具一枚明显的齿；触角第 3 节等于或长于第 4 节；足长。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "p. 60（Imagines 检索表 aa 项后附注）；p. 62（Soldaten 检索表 B/bb/bb/c）；p. 65（亚属名录第 16 亚属）"
+    },
+    "note": "Holmgren 1912 建立，名录列为第 16 亚属，仅 Eutermes (Longipeditermes) longipes Haviland（马六甲与婆罗洲）。有翅成虫在检索表中只作「(?Longipeditermes n. subg.)」附于 Hospitalitermes 项之后，作者存疑，故不设有翅成虫段；原文无工蚁属征。"
+  },
+  "/genus/mimeutermes/": {
+    "zh_name": "仿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Sands 把本属归入埃塞俄比亚区的 Paracornitermes 群。有翅成虫左上颚端齿长，第 1–3 缘齿之间的切缘短而略凹（左颚指数 2.00–2.23），第 3 缘齿与臼板之间的间隙不足该切缘宽度之半；右上颚第 2 缘齿消失，臼板具显著的前后圆翼、向端部渐细、无脊——无脊这一点使它易与 Fulleritermes、Leptomyxotermes、Grallatotermes 等具脊者区分。兵蚁单型，鼻粗锥形、与头壳基部的渐细相接，头部背面观不缢缩、连鼻呈陀螺形，触角 12 节。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚具长的端齿，第 1–3 缘齿之间的切缘短、略凹（左颚指数 2.00–2.23），第 3 缘齿与臼板之间的间隙小于该切缘宽度之半。右上颚端齿与第 1 缘齿同左上颚，第 2 缘齿消失，第 1 缘齿后切缘凹，臼板具显著的前、后圆翼，向端部渐细，无脊。后唇基轻度隆起，宽为长的两倍或略小。囟淡色、裂隙状、前方略分叉并具淡色斑，或近于消失，仅略浅于头色。复眼略自头侧突出。头部毛被多变。前胸背板后缘圆，前缘凹。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。鼻粗锥形，基部与头壳的渐细相接，囟较大。退化上颚有尖或无尖；上唇前缘波状。头壳背面观不缢缩，连鼻呈陀螺形，两侧平行或向后方圆。触角 12 节。头与鼻仅少数显著刚毛。腹背板毛稀疏、散生而微小，后缘与后 2–3 节背板者较长；腹板毛稀疏而短，后缘者约为短毛的两倍长。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚同有翅成虫，仅端齿比例更长（左颚指数 3.32–3.59），右上颚臼板更大、翼更显著。"
+      }
+    ],
+    "source": {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+      "locator": "p. 158（Genus Mimeutermes Silvestri：Imago / Soldier / Worker；Remarks）"
+    },
+    "note": "Silvestri 1914 建立，模式种 Mimeutermes giffardii。Sands 1965 记三个种，认为本属在西非雨林中演化。三段均取自原文属征。"
+  },
+  "/genus/mycterotermes/": {
+    "zh_name": "鸟嘴白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Sands 为西亚丁的 meringocephalus 单立此属，认为它接近 Trinervitermes 但更原始，甚至可能是后者的祖先，其鉴别特征与新热带区的 Diversitermes 有许多共同点。兵蚁二型：大型兵鼻短、柱形，头在触角后方极弱缢缩；小型兵鼻弱锥形、头缢缩更明显；触角大型兵可能 13 节、小型兵 12 节。有翅成虫未知。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "二型。大型兵：鼻短、柱形，退化上颚具小而明显的尖，显示缘齿与端齿的痕迹；头壳在触角后方极弱缢缩，头顶与鼻具短而明显的刚毛状毛。小型兵：除鼻为弱锥形、头壳在触角后方缢缩更明显外，与大型兵相同。触角大型兵可能 13 节、小型兵 12 节。"
+      }
+    ],
+    "source": {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+      "locator": "p. 75（Mycterotermes gen. n.：Imago / Soldier；Remarks）"
+    },
+    "note": "Sands 1965 明确记 Imago: Unknown，故只有兵蚁段。原文注明本属建立时仅据西亚丁的材料，单型属、仅一种；其鉴别特征与新热带 Diversitermes 有很多共同点。"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "/genus/archotermopsis/": {
+    "zh_name": "古白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "原文以 Termopsis 属名给出属征：有翅成虫单眼完全缺失、额板不突出，与具单眼的类群可分开；跗节外观 4 节而实为 5 节，第 2 节与第 1 节仅部分分离，跗爪间具 plantula；尾须长，雄虫针突发达；翅宽大，长不达宽的 4 倍。兵蚁体粗壮，头大、近矩形且扁平，触角 20 节以上，上颚极强、内缘具齿，前胸背板窄于头而近平，尾须与针突均长。作者随后据复眼形状与翅基残存等特征另立亚属 Archotermopsis，并指出其与 Termopsis 其余成员有别。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "触角 27–28 节（模式种 A. wroughtoni 的种级记述为 24 或 25 节，与属征不合，须以标本复核）；单眼完全缺失；额板不突出；复眼大、前缘深凹近肾形（种级）；前胸背板近平、窄于头；翅长不达宽的 4 倍，前翅具亚前缘脉，径脉发达并分出数支达前缘，中脉近翅中部，膜质区密布网状脉；胫节具侧刺；跗节外观 4 节、实为 5 节，爪间具 plantula；尾须长，雄虫针突发达。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "体粗壮；头大、近矩形、扁平，后缘明显凹入（种级）；眼小或退化，种级记眼小、卵形、无小眼面；触角 20 节以上（种级 22–25 节）；上颚极强，内缘具不规则强齿，末端内弯尖锐；前胸背板窄于头、近平；跗节无 plantula（原文：plantula 仅见于有翅成虫）；尾须与针突均长。"
+      },
+      {
+        "label": "工蚁",
+        "text": "原文（A. wroughtoni 种级记述）称工蚁外形似幼虫：若虫式中、后胸侧板（epimera）呈三角形叶状游离突起，与兵蚁相同，而有翅成虫无此突起；部分个体中、后胸背板后缘留有翅芽折断的疤痕，头略大于若虫，原文推测这类个体承担工蚁职能。"
+      }
+    ],
+    "source": {
+      "id": "S0037",
+      "citation": "Desneux, J. 1906. The Kashmir termite, Termopsis wroughtoni. Journal of the Bombay Natural History Society 17: 293–297. https://biodiversitylibrary.org/partpdf/193245",
+      "locator": "pp. 293–297"
+    },
+    "note": "原文发表时属名作 Termopsis (Heer)，属征段实际涵盖当时广义的 Termopsis（含现 Zootermopsis）；作者在 p. 297 自述已另立亚属 Archotermopsis（Desneux 1904, Genera Insectorum XXV, p. 18），本文描述的模式种即 A. wroughtoni，故属征与种级描述可归入本属，但须注意「属征」中部分性状可能属广义 Termopsis。属征记触角 27–28 节，种级描述记 24 或 25 节，二者不一致，采用时须复核。"
+  },
+  "/genus/heterotermes/": {
+    "zh_name": "异白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "本属以如下组合与其他鼻白蚁亚科成员相区别：兵蚁头长而窄、呈矩形，上颚剑形、端部微弯，左上颚基部具一齿及若干锯齿，右上颚基部无齿也无锯齿；有翅成虫头近卵形、前部窄于后部，单眼位于头前方、复眼之前，触角一般 15–19 节，前胸背板伸长而窄于头。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头近卵形，前部窄于后部；fontanelle 小，位于头中部；复眼小而平；单眼位于头前方、眼前；触角一般 15–19 节；前胸背板伸长、窄于头。种级（H. paradoxus）：头略伸长、具数百根毛；前胸背板伸长、中等宽；触角一般 18 节（偶 17）；复眼平，眼前方有小单眼。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头长而窄、呈矩形；fontanelle 小、圆形、位于前方；上唇短至中等，约为上颚长的一半；上颚剑形，端部微弯；左上颚基部具一齿及若干锯齿；右上颚基部无齿与锯齿；触角 13–18 节。种级（H. vagus）：兵蚁体型小，头伸长、前部有明显隆起、密被短毛；上唇伸长、端部尖锐；触角一般 13 节；前胸背板短而窄，约具 50 根毛；后颏略窄、无毛；上颚端部微弯。"
+      }
+    ],
+    "source": {
+      "id": "S0038",
+      "citation": "Roisin, Y.; Bourguignon, T. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826",
+      "locator": "Genus Heterotermes: Diagnosis; species accounts of H. vagus and H. paradoxus"
+    },
+    "note": "本机只有该文的出版社 JATS 全文 XML（Europe PMC PMC3264403），无印刷版 PDF，故 locator 用章节名而非页码；jsonl 中作者顺序作 Roisin & Bourguignon，与 XML contrib 顺序（Bourguignon 在前）不同，此处以 XML 为准。工蚁品级原文未描述，故不设工蚁节。"
+  },
+  "/genus/mastotermes/": {
+    "zh_name": "澳白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "翅脉层面的属级特征：前翅径分脉合并程度高、相邻上分支间距窄；前翅肩缝（humeral suture）较 Blattotermes 更弯、更凸；后翅具发达的臀叶，原文称臀叶为本属及其近缘属的特征；径分脉紧凑，中脉更靠近径分脉而远离前肘脉，据此可把仅有翅的标本归入本属。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "前翅径分脉高度合并，相邻的上分支间距窄；前翅肩缝（humeral suture）呈明显的弧状凸出，较 Blattotermes 更弯；后翅臀叶发达。"
+      }
+    ],
+    "source": {
+      "id": "S0039",
+      "citation": "Emerson, A. E. 1965. A review of the Mastotermitidae (Isoptera), including a new fossil genus from Brazil. American Museum Novitates 2236: 1–46.",
+      "locator": "pp. 10, 24–25, 31–32"
+    },
+    "note": "该文是科级分类修订，属级形态集中在翅脉，原文未设兵蚁、工蚁形态小节，故只写鉴别要点与有翅成虫。两处易误收：archidictyon 网状脉（原文明确为澳白蚁科与草白蚁科共有，非属级）；「中脉在肩缝后短距离与径分脉相联」为白蚁通性（原文 'in nearly all cases'），均未写入。"
+  },
+  "/genus/psammotermes/": {
+    "zh_name": "沙白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与舌白蚁属（Glossotermes）对比可勾出本属兵蚁特征：头与体具多数长毛；上颚更弯，两颚中部均粗锯齿；左上颚基部无内沟，颚的基段比例更大而端段更小；后唇基与前额之间的缝不明显；上唇大而宽、无横列浅色带、端部更尖且无透明唇缘；后颏最窄处相对更宽；眼点不明显；触角节数更多；前胸背板前缘无叶状突；腿节更粗；胫距式 3:2:2。原文据此认为本属兵蚁在上颚、触角与胫距式上更为原始。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "兵蚁全体具多数长毛；上颚弯曲，两颚中部均粗锯齿；左上颚基部无内沟；上唇大、宽，端部尖，无透明唇缘；触角节数较多；前胸背板前缘无叶状突；腿节粗；胫距式 3:2:2。"
+      }
+    ],
+    "source": {
+      "id": "S0040",
+      "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–16.",
+      "locator": "p. 4"
+    },
+    "note": "本属原始发表（Desneux 1902, 撒哈拉材料）本机文件为 403 页面、无正文，不可用；本条全部特征出自 Emerson (1950) 在描述 Glossotermes 时所作的属级对比段落，只覆盖兵蚁，未含有翅成虫与工蚁，可信度中等。撰写时不得据此扩展至其他品级。"
+  },
+  "/genus/acorhinotermes/": {
+    "zh_name": "尖鼻白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "属级鉴别特征是缺少大兵蚁（major soldier），这是 Emerson 将该种从鼻白蚁属（Rhinotermes）移出、另立本属时所依据的性状；小兵蚁背面观 fontanelle 位于上颚基突（mandibular lobes，即上颚尖的基部）之前，据此与狭鼻白蚁属（Dolichorhinotermes）、鼻白蚁属（Rhinotermes）分开，后两者 fontanelle 位于上颚基突处或其后方。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "仅小兵蚁已知。头背面观侧缘凹入，形成后部缢缩；头顶具 10–12 根长而直立的刚毛，无微毛；触角 15 或 16 节，式 2=3<4=5；上颚退化，尖长、直而锐；上唇极长（hyperelongate），向端部加宽，端部双叶，侧视几与头顶同面；fontanelle 位于上唇基部 1/5 处；前胸背板与头同色，具 4–8 根分散刚毛（前缘 2–4 根、背面 2–4 根），无微毛；腹节淡黄，边缘密被毛；足具多数长短刚毛，前足胫节有粗刚毛。本种小兵蚁的上颚尖较 A. subfusciceps 更长，体型相对更小。"
+      }
+    ],
+    "source": {
+      "id": "S0041",
+      "citation": "Castro Torres, D.; Scheffrahn, R. H. 2019. A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers. ZooKeys 891: 61–70. https://doi.org/10.3897/zookeys.891.37523",
+      "locator": "Introduction; Key to the species of Neotropical Rhinotermitinae (couplet 1); Acorhinotermes claritae, Diagnosis and Description"
+    },
+    "note": "原文无独立的属级 Diagnosis 节，属级特征取自 Introduction 的属史陈述与基于小兵蚁的亚科检索表首条；其余为 A. claritae 的种级描述，已逐处标注「种级」。本机只有出版社 JATS XML（Europe PMC PMC6882922），无印刷版 PDF，故 locator 用章节名。有翅成虫仅 A. subfusciceps 有图，本次未据以写成虫节。"
+  },
+  "/genus/dolichorhinotermes/": {
+    "zh_name": "狭鼻白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫第 3 flagellar 节短于第 1 flagellar 节；大兵蚁上唇明显伸长，端部常伸达上颚末端，而鼻白蚁属（Rhinotermes）的上唇近方形且短得多；小兵蚁额腺开口位于头前部，但不着生在明显的头突上，上颚退化、边缘圆，头背面观侧缘直或凸。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "第 3 flagellar 节短于第 1 flagellar 节。现生种 D. lanciarius 的有翅成虫原文记作「Imago. Unknown.」；化石种 D. apopnus 的有翅成虫：头大而宽圆，前唇基前伸成宽的喙状突起，额腺小、位于喙基，复眼大而外凸，单眼大而伸长、不与复眼相接。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "大兵蚁：头后部较宽，侧缘缓圆、向前收窄；左上颚具两粗齿，第一齿位于中点稍前、第二齿稍后，第一齿明显长于第二齿；右上颚两齿接近中点，第一齿短于第二齿；上唇伸长，端部圆、无凹缺，背面具纵向浅凹；触角至少 14 节，第 3 flagellar 节明显短于第 1 节；前胸背板鞍形。小兵蚁：头侧缘弱凸、向前收窄，后缘圆；触角 16 节，第 3 flagellar 节明显短于第 1 节；上颚退化为宽肉质叶，仅具微小硬化尖；上唇窄长，端部分叉，两叉侧突相距较远。"
+      }
+    ],
+    "source": {
+      "id": "S0042",
+      "citation": "Engel, M. S.; Krishna, K. 2007. New Dolichorhinotermes from Ecuador and in Mexican amber (Isoptera: Rhinotermitidae). American Museum Novitates 3592: 1–8. https://doi.org/10.1206/0003-0082(2007)3592[1:NDFEAI]2.0.CO;2",
+      "locator": "p. 2 (genus diagnosis); pp. 2–3 (D. lanciarius, major and minor soldier)"
+    },
+    "note": "有翅成虫节只能依据属级鉴别句（第 3 flagellar 节短于第 1 节）与化石种 D. apopnus 的记述，现生种有翅成虫原文明确为未知。p. 2 为双栏，文本层按栏裁切后重排；引文中的连字符断行（subquad-rate）已合并，词句未改。"
+  },
+  "/genus/rhinotermes/": {
+    "zh_name": "鼻白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁分大、小两型，上唇均双叉；大兵蚁上颚粗壮极强，左上颚具两枚强齿、右上颚一枚，基部不作细齿；小兵蚁上颚相对更长、更窄、更直，齿更窄更尖，或上颚退化；上唇在大兵蚁中相对短而宽，在小兵蚁中伸出上颚之外，前端双叉、具沟，或较宽或极窄；触角 14–17 节；前胸背板较小、远窄于头；具针突。亚属 Rhinotermes s. str. 的有翅成虫唇基强、呈喙状并覆盖上唇基部，头相对较大，小兵蚁上唇双叉、上颚退化。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头近圆形；唇基多少强烈隆起，具中纵沟；fontanelle 开放、较宽，位置靠前；触角 20–22 节，第 3 节长于第 2 节。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "分大、小两型，上唇双叉。大兵蚁：上颚粗壮极强，左上颚两枚强齿、右上颚一枚，颚基部无细齿；上唇相对短而宽，前端双叉、具沟。小兵蚁：上颚相对更长、更窄、更直，齿更窄更尖，或上颚退化；上唇伸出上颚之外，前端双叉、具沟。两型触角均 14–17 节；前胸背板较小、远窄于头；具针突。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 16–18 节，第 3 节长于第 2 节；前胸背板鞍形。"
+      }
+    ],
+    "source": {
+      "id": "S0043",
+      "citation": "Hill, G. F. 1933. Australian Rhinotermes (Isoptera). Proceedings of the Royal Society of Victoria, N.S. 45(1): 1–17, pls. I–IV.",
+      "locator": "p. 1 (属征，引 Holmgren；亚属 Rhinotermes s. str.)"
+    },
+    "note": "属征系 Hill 引述 Holmgren 的定义，逐字给出；有翅成虫、兵蚁、工蚁三段均出自该引文。澳大利亚种类归入 Schedorhinotermes 亚属，故本文所记的多数种级材料不属于本属名义亚属，撰写时只用属级与亚属级语句，未混入澳大利亚种的种级特征。"
+  },
+  "/genus/glossotermes/": {
+    "zh_name": "舌白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "原文认为本属与沙白蚁属（Psammotermes，当时置于鼻白蚁科）最为接近，但关系相当远；建立本属时仅有兵蚁，有翅成虫未知。兵蚁以头近方形略扁、每侧触角窝后方有明显的眼点、上唇极宽、上颚仅微钩且左颚基部有接纳右上颚齿突的大沟为组合特征。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头近方形、略扁，两侧近平行而略凸，红褐黄色；每侧触角窝后方有明显眼点，眼点小于触角窝，小眼面几乎不可辨；眼上方有两个浅斑，可能为退化单眼；触角 13 节，端节明显窄于前一节，第 3 节约等于第 2 节，第 4 节短于第 3 节；后唇基明显，宽约为长的 3 倍；上唇极宽，两侧圆，端部具薄而透明的唇缘；上颚基部宽、向端部渐细、仅微钩，左右颚外缘约 2/9 处有凹缺，分出基段与端段；右上颚内缘距基部 1/3 处具齿状突；左上颚端部后方内缘细锯齿，基部有接纳右上颚齿突的大沟；前胸背板平拱，前缘明显凹缺；各足胫节端距 2:2:2。正模兵蚁测量（mm）：头长（至颚侧基）1.56、头高 0.82、头宽 1.10、后唇基长 0.19、宽 0.57、上唇宽 0.57、左上颚长 1.09、前胸背板宽 0.78、后足胫节长 1.09。"
+      }
+    ],
+    "source": {
+      "id": "S0040",
+      "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–16.",
+      "locator": "pp. 2–4"
+    },
+    "note": "原文为单兵蚁正模的原始描述，明确记有翅成虫未知，故不设有翅成虫与工蚁节。当时置于鼻白蚁科，现归齿白蚁科，分类变更不影响形态描述。"
+  },
+  "/genus/serritermes/": {
+    "zh_name": "齿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "本属为齿白蚁科的单型属，属征与科征相同：有翅成虫、工蚁与若虫的上颚端齿比例伸长而尖锐，以宽弯的内缘与 ridged molar plate 附近的一枚缘齿相隔，借此与所有其他白蚁科分开；兵蚁两上颚端段长而较直，端部后方内缘具多数粗大锯齿；前胸背板窄长，前后缘均明显双叶，中央各有一深凹。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头卵形，中等浅褐至黄色；fontanelle 位于一小凹内，白色、中等大小，退化而分叉；复眼中等大、圆形，距头下缘约其直径的 1/4；单眼位于复眼与额之间，小于复眼；触角 13 或 14 节；后唇基大，长略小于宽之半，具中纵线；前胸背板长约为宽之半，前缘微凹，侧缘圆而后收；各胫具 2 枚端距；跗节 4 节；无 arolium；尾须 2 节；雌雄均无针突。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头两侧近平直、向前收窄，头宽大于头长（至前唇基）；上颚外缘基部凹、中部近直、端部凸；两颚端部几乎不钩，端部 1/3 的内缘具多数粗锯齿，基部无 molar ridges；左上颚锯齿几达基部，基部之前有钝突与一个约 60° 的小齿状突；右上颚端部 3–4 枚粗锯齿之后约有 6 枚更小的锯齿；后唇基短、前缘凹；上唇长大于宽、端部钝尖；前胸背板伸长，前后缘深凹成两叶；各胫具 2 枚端距；跗节 4 节，第 4 节长于其余各节之和；无针突；尾须 2 节。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 13 节；上颚为已知白蚁中最为特化者，端段比例伸长、端部尖锐，缘齿减至一枚。"
+      }
+    ],
+    "source": {
+      "id": "S0044",
+      "citation": "Emerson, A. E.; Krishna, K. 1975. The termite family Serritermitidae (Isoptera). American Museum Novitates 2570: 1–31.",
+      "locator": "pp. 2–8"
+    },
+    "note": "该科为单型科，属征见 p. 3「Diagnostic Characters. The same as those of the family Serritermitidae.」，故本条以科级鉴别作为属级鉴别。有翅成虫、兵蚁、工蚁分别据 pp. 3–4、6–8、8 的描述改写；测量数据从略以免与种级混淆。"
+  },
+  "/genus/porotermes/": {
+    "zh_name": "洞白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "原文给出的亚科属检索：有翅成虫无单眼、无 empodium（爪间突）、尾须 5 节者为本属，而有单眼、有 empodium、尾须 2 节者为 Calotermes；兵蚁尾须长、5 节者为本属，尾须短、2 节者为 Calotermes。兵蚁外形易与胄白蚁属（Stolotermes）混淆，但后者体型小、头与体更扁、前胸背板小而成心形、眼具小眼面。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "无单眼；无 empodium；尾须 5 节。种级（P. adamsoni）：触角 15 至 17 节；连翅体长 14–15 mm，体长 7–8 mm。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "尾须长、5 节。种级（P. adamsoni）：触角 16 至 18 节；上颚粗壮，三个种的齿式相同；前胸背板宽约为头宽的 1.5 倍。"
+      },
+      {
+        "label": "工蚁",
+        "text": "本亚科无真正的工蚁品级，工蚁职能由有翅成虫（可能还有兵蚁）的未成熟阶段承担；这种「工蚁-若虫」的属级特征与兵蚁相同。"
+      }
+    ],
+    "source": {
+      "id": "S0045",
+      "citation": "Hill, G. F. 1926. The genus Porotermes (Isoptera). Proceedings of the Royal Society of Victoria, N.S. 38: 143–149.",
+      "locator": "p. 144 (检索表、与 Stolotermes 对比、工蚁品级说明)"
+    },
+    "note": "属级可用特征集中在 p. 144 的亚科属检索与对比段；体长、触角节数、前胸背板比例等为 P. adamsoni 的种级测量，已标注「种级」。「工蚁」一节是原文对亚科品级的说明，非本属独有，引用时须保留该限定。"
+  },
+  "/genus/stolotermes/": {
+    "zh_name": "胄白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "原文为亚科与属合并给出的鉴别（当时本属为单型，属征即亚科征），最显著的特征是单眼的退化；上颚型式与古白蚁属（Archotermopsis）明显同源，类型上介于 Archotermopsis 与 Hodotermopsis 之间。有翅成虫无 fontanelle、无 arolium，后唇基极短并与前额愈合；兵蚁无额腺，前、中胫具 2–3 枚端距、后胫 2 枚，雌雄均具一对针突。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头、前胸背板、翅鳞与腹部被相当长的毛，头部毛较少；无 fontanelle；具 epicranial suture；单眼退化；复眼中等大、卵形，前缘较直，距头下缘略多于其长度之半；后唇基极短并与前额愈合，分界线为一凹陷而无可见的缝，宽约为长的 5 倍；前唇基短、透明；上唇舌形，端部较直；触角 15–17 节；右上颚具 2 枚缘齿与一磨板，第一缘齿前部近基部有一小副齿；左上颚具 3 枚近等大的缘齿，第 3 齿与其余两齿之间以宽角凹缺相隔；前胸背板远窄于头、较平，中央有浅纵凹、前缘两侧各有一浅侧凹，合成 Y 形凹陷，前缘均匀凹入，侧缘略圆，后缘较宽而微凹；胫端距 3:3:2 或 2:2:2；跗节 4 节；无 arolium；尾须 4–5 节；雌虫无针突，雄虫针突伸达腹端附近。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头、胸、腹疏被毛与较长刚毛；头比例上较大，伸长或卵形，平或较平，前部与头顶均匀相接；具 epicranial suture；无额腺；后颏前部宽，最窄处小于最宽处之半；上颚比例上较大，左上颚具 3 枚缘齿、4 个凹缺与一磨板，右上颚具 2 枚缘齿、3 个凹缺与一磨板，第 2 缘齿具一长切缘，切缘两端各有一尖；眼明显；触角 14–18 节；上唇宽舌形，前缘直或弯；后唇基与前额愈合，但缝的凹陷仍在；前胸背板窄于头；跗节 4 节，无 arolium；腿节膨大；前、中胫具 2–3 枚端距，后胫 2 枚；雌雄均具一对针突；尾须 4–5 节。"
+      }
+    ],
+    "source": {
+      "id": "S0046",
+      "citation": "Emerson, A. E. 1942. The relations of a relict South African termite (Isoptera, Hodotermitidae, Stolotermes). American Museum Novitates 1187: 1–12.",
+      "locator": "pp. 7–9"
+    },
+    "note": "原文标题为「DIAGNOSIS OF THE SUBFAMILY STOLOTERMITINAE AND THE GENUS STOLOTERMES」，当时本属为单型属，故属征与亚科征合写，引用时须保留这一限定；工蚁品级原文未描述，不设工蚁节。另篇 Hill (1926, Proc. Roy. Soc. Victoria 38: 192–214) 亦记本属，本次未据以增补。"
+  },
+  "/genus/termitogeton/": {
+    "zh_name": "寡脉白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫密被毛，头后部大于前部，fontanelle 极窄、位于头中部，复眼小，触角 10–15 节，前胸背板极小、约为头宽之半，翅缺中脉与径脉；兵蚁密被毛，头呈特征性的心形、背腹扁平，触角 13–15 节，上唇近三角形，上颚伸长而无缘齿，前胸背板为头宽之半。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "全体密被毛；头后部大于前部；fontanelle 极窄，位于头中部；复眼小；触角 10–15 节；前胸背板极小，约为头宽之半；翅无中脉与径脉。种级（T. planus）：体型极小，体覆小毛；头前窄后宽、心形；复眼大；单眼位于复眼之前；触角一般 9–15 节；前胸背板约为头宽之半，前缘中央有一小突起。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "全体密被毛；头呈特征性的心形、背腹扁平；触角一般 13–15 节；上唇近三角形；上颚伸长，无缘齿；前胸背板为头宽之半。种级（T. planus）：上唇伸长、端部尖，基部窄，最宽处在端部 1/3；触角 11–15 节；前胸背板为头宽之半，前缘中央前伸；上颚短、无缘齿，端部微弯。"
+      }
+    ],
+    "source": {
+      "id": "S0038",
+      "citation": "Roisin, Y.; Bourguignon, T. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826",
+      "locator": "Genus Termitogeton: Diagnosis; species account of T. planus"
+    },
+    "note": "本机只有该文的出版社 JATS 全文 XML（Europe PMC PMC3264403），无印刷版 PDF，故 locator 用章节名；jsonl 作者顺序与 XML 相反，此处以 XML 为准。翅无中脉与径脉一条原文引自 Krishna (1970)，非本文新观察，已如实保留出处链。"
+  }
+}

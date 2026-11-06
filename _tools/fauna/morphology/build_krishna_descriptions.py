@@ -6,7 +6,7 @@ Each file in descriptions/ is a flat JSON object keyed by page URL, e.g.
 sources (id/citation/locator) and an optional note.  The builder refuses
 duplicate keys so two authors cannot silently overwrite each other.
 
-Usage: python _tools/fauna/morphology/build_genus_descriptions.py
+Usage: python _tools/fauna/morphology/build_krishna_descriptions.py
 """
 from __future__ import annotations
 
@@ -33,7 +33,11 @@ def main() -> int:
                 raise SystemExit(f"{path}: duplicate {url} (already in {origin[url]})")
             if not entry.get("sections"):
                 raise SystemExit(f"{path}: {url} has no sections")
-            for src in entry.get("sources", [entry.get("source", {})]):
+            srcs = entry.get("sources")
+            if srcs is None:
+                src = entry.get("source")
+                srcs = src if isinstance(src, list) else ([src] if src else [])
+            for src in srcs:
                 if not src.get("id") or not src.get("citation"):
                     raise SystemExit(f"{path}: {url} source needs id and citation")
             merged[url] = entry

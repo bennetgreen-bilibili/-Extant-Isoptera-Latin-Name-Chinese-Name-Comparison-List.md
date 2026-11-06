@@ -1,0 +1,190 @@
+{
+  "/genus/krecekitermes/": {
+    "zh_name": "克雷切克白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "新热带 Apicotermitinae 中具破裂器官（dehiscent organs）的类群之一，与 Dissimulitermes、Ruptitermes 共有此结构。与 Dissimulitermes 的区别：肠瓣座（EVS）三叶状（后者管状），肠瓣武装仅由棘刺构成、无硬化板（后者具硬化板）。与 Ruptitermes 的区别：肠瓣有武装（后者肠瓣无武装，仅 R. bandeirai 为例外，且该种体型远大于本属、刺仅集中于 3 个瓣垫）。属级检索表给出的组合为「肠瓣座三叶、肠瓣武装垫上刺少于 13 枚」。破裂器官充满嗉囊前方的血腔；中肠与 P1 的交界清楚，但混合段短。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头壳背表面侧视凹陷；囟极显著；后唇基几乎不膨隆，其中缝清晰；触角 14 或 15 节（节式 2>3<4≈5<6）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头壳背表面侧视微凹；触角色淡，13 或 14 节（2>3<4<5）；后唇基强烈膨隆。左内颚端齿与 M1+2 同等突出，M3 边缘构成钝角、末端截形并向后指，磨区隆起发达而突出，背视完全遮住磨叶突；右内颚端齿较 M1 突出，M1 发达，M2 端部圆而突出并向后指，M1 与 M2 之间成钝角。多数个体破裂器官显著。肠管混合段短，中肠舌处增厚；肠瓣武装为 6 个末端硬化、冠状并着生棘刺的瓣垫，位于瓣垫后部。"
+      }
+    ],
+    "source": {
+      "id": "S0027",
+      "citation": "Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001",
+      "locator": "章节 Krecekitermes gen. nov.（Diagnosis / Description）；文章 pp. 317–352"
+    },
+    "note": "Apicotermitinae 无兵蚁，原文只描述有翅成虫与工蚁；属征与种征均以消化道（混合段、肠瓣座、肠瓣武装）为主要依据。ZooKeys XML 无页内分页标记，locator 按章节名定位，未臆造页内页码。"
+  },
+  "/genus/mangolditermes/": {
+    "zh_name": "曼戈尔德白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "肠瓣无武装（与 Hydrecotermes、Rustitermes 相同），但左视 P1 极长、呈 S 形弯曲，可与后二者区分。与 Aparatermes 相比：中肠舌伸长（后者短）、具尖端的鳞片位于瓣垫近端（后者位于瓣垫中部）、前胫节相对膨大。与同样肠瓣无武装的 Anoplotermes 相比：中肠舌腹视无白色球状中肠结节，瓣垫呈梯形并在基部截形（后者匙形）。与 Disjunctitermes 相比：体型更大（最大头宽 >0.75 mm，后者 <0.7 mm），瓣垫更宽（后者窄而显细长），鳞片仅自中部向前部清晰（后者遍布整个瓣垫）。与 Tonsuritermes 相比：工蚁囟不特别突出。"
+      },
+      {
+        "label": "工蚁",
+        "text": "囟卵形，边界模糊；头壳背表面侧视微凹；触角色淡，14 节（2<3≅4<5）。左内颚端齿较 M1+2 突出，端齿与 M1+2 之间成 75° 角，M1+2 后缘近直而长；磨叶突极尖锐、背视显著，与 M3 近等长；磨区隆起小。右内颚端齿远较 M1 突出，M1 端部极尖，M2 几成 90° 角并向后指，M1 与 M2 间有浅切口、构成宽而微钝的角；磨板退化并凹陷。肠管嗉囊小；混合段的中肠舌长但不膨大；左视 P1 极长，自嗉囊一侧至 P3 呈 S 形弯曲；肠瓣座弱三叶；肠瓣无武装，由 6 个细长膨大的瓣垫组成，瓣垫远半部具清晰的具缨五边形鳞片，近端每瓣垫有约 10–20 枚微小三角刺。"
+      }
+    ],
+    "source": {
+      "id": "S0027",
+      "citation": "Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001",
+      "locator": "章节 Mangolditermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 317–352"
+    },
+    "note": "仅工蚁及肠管形态已知；有翅成虫未知（原文 Imago. Unknown.）。属征以肠瓣与 P1 走行为主。"
+  },
+  "/genus/ourissotermes/": {
+    "zh_name": "海胆白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "肠瓣武装为 6 组栉状（pectinate）刺束，每束具 4–6 列刺：近 P3 的远端为较长的刺，向后递减，另有较小的齿状刺；瓣垫近端（近 P1 处）具 1 枚小齿状刺；肠瓣直接插入 P3，不具分化出的肠瓣座（EVS）。据此与 Patawatermes（肠瓣座呈管状延长、外部清晰可见）和 Echinotermes（肠瓣座三叶）区分。消化道外部形态与 Hydrecotermes 相似，但后者肠瓣无武装。属名源自肠瓣武装形似海胆（葡萄牙语 ouriço）。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头部在单眼上方微凹；囟极小或不显著；复眼与单眼近圆形；触角 15 节（节式 2>3<4<5<6）；前胸背板侧缘伸长且圆滑。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头壳背表面侧视前部微凸；后唇基高度膨隆；触角 14 节。左内颚端齿较 M1+2 突出，M3 边缘构成钝角三角形、末端略截形，磨区隆起发达、部分遮住磨叶突；右内颚端齿较 M1 突出，M2 三角形、夹角锐、端部突出但略逊于 M1。肠管中肠舌小，P1 与中肠之间为简单的横向连接；肠瓣座不显著；肠瓣武装如属征（6 组栉状刺束，远端刺长而后向递减）。"
+      }
+    ],
+    "source": {
+      "id": "S0027",
+      "citation": "Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001",
+      "locator": "章节 Ourissotermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 317–352"
+    },
+    "note": "Apicotermitinae，无兵蚁；有翅成虫与工蚁均有描述，属征核心为肠瓣武装形态与肠瓣直接插入 P3 而无分化肠瓣座。"
+  },
+  "/genus/rustitermes/": {
+    "zh_name": "拉斯特白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "肠瓣具 6 个略不对称的瓣垫，每瓣垫形成中央囊袋，其鳞片小于瓣垫之间的鳞片；每瓣垫约 60–80 枚鳞片，基部宽、端部窄；瓣垫后部截形，具 35–50 枚长方形鳞片，自中部向端部排列并逐渐加密。与消化道盘曲相似的 Hydrecotermes 的区别：本属工蚁前胫节内缘具粗刚毛（后者无）。与肠瓣、肠管可能相似的 Aparatermes 的区别：瓣垫之间的角质层具立方状鳞片（后者无）；肠瓣座不呈三叶（后者三叶）；肠瓣无小刺或尖鳞（后者有）；瓣垫后部具鳞片（后者后部无鳞）。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "两性囟均不显著，囟区凹陷，中斑略显。左内颚端齿略大于 M1+2，M3 三角形、侧缘成钝角，前磨突不明显，磨叶突不被磨区隆起遮盖。头壳具短而稀疏刚毛，深褐色；额部斑纹略浅于头壳其余部分、边界不清。前胸背板近六边形，前缘平直、无中缺刻，侧缘很直而明显，板面疏具刚毛与短毛。腹背板与腹板具短毛。前足基节具 4–5 枚显著长刚毛；前胫节内面具 2 列、每列 6–7 枚粗刚毛。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型；囟小而圆；后唇基稍膨隆；头壳具中等与长刚毛。左内颚端齿较 M1+2 突出，M3 三角形、侧缘成直角或锐角，磨叶突不被磨区隆起遮蔽。前胸背板长刚毛沿前、后叶边缘集中；腹背板与腹板密被长刚毛，多指向后或向上。前足基节具 4–5 枚粗刚毛；前足股节内面具长刚毛；前胫节中度膨大，内面 2 列、每列 6–7 枚粗刚毛。肠瓣无武装，具 6 个梨形、大小略异的瓣垫，瓣垫由较大的具缨多边形鳞片组成；瓣垫之间的角质层为更大的具缨立方状鳞片，靠近 P3 处排列紧密。"
+      }
+    ],
+    "source": {
+      "id": "S0028",
+      "citation": "Castro D., Constantini J.P., Scheffrahn R.H., Carrijo T.F. & Cancello E.M. 2020. Rustitermes boteroi, a new genus and species of soldierless termites (Blattodea, Isoptera, Apicotermitinae) from South America. ZooKeys 922: 35–49. https://doi.org/10.3897/zookeys.922.47347",
+      "locator": "章节 Rustitermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 35–49"
+    },
+    "note": "Apicotermitinae，无兵蚁。原属征仅列肠瓣特征，有翅成虫与工蚁形态见 Description 一节；本属亦以「前胫节内缘两列粗刚毛」为鉴别特征。"
+  },
+  "/genus/rinacapritermes/": {
+    "zh_name": "丽娜扭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁触角 15 节（Indocapritermes 为 14 节）；上唇前缘近直，具宽基、粗壮而长的前侧突（后者上唇侧突窄基、短而细）。左内颚相对头长略长而细、末端不宽阔圆钝（后者较短粗、末端宽圆）；右内颚端刃尖而上指（后者不太尖、近直）。前胸背板前叶略隆起、前缘强凸而无缺刻（后者前叶不隆起、前缘微凸至近直、具弱中缺刻）；后缘近直、不凹入（后者微凸、末端微凹）。工蚁触角 14–15 节（后者 13–14 节）；左磨板腹面可见小齿状突（后者无）。消化道无马氏管结节、P1 短管状，与 Pericapritermes 类群一致，故归入该群（尽管其兵蚁触角为 15 节而非该类群常见的 14 节）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型、小型。头壳背视近长方形、宽阔，前侧角圆、无瘤状突；侧视额面急剧前倾；囟横置；额腺大，Y 形缝中臂仅在后部清晰。触角 15 节。上唇不膨大、不对称，前缘近直，具宽基、粗壮而长的前侧突（刺状突）。内颚不对称且粗壮：左内颚中部强烈扭转，末端钝、无钩、不成喙状，基部突尖锐；右内颚呈刃状（blade-like），端部尖而上指，内缘中部内弯，基半部有深切口。后颏棒状，长度超过头长之半，后部收窄成腰。前胸背板鞍形：前叶隆起、较后叶窄小，前缘凸，后缘近直，前后缘均无缺刻。中胸与后胸背板窄于前胸背板。足胫距 3:2:2（前胫节背距有时不明显），跗节 4 节。腹部伸长，尾须短、2 节。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型；头壳背视近圆形，最宽处在触角基部；囟板半透明、圆形；触角 14–15 节；后唇基膨隆。左内颚端齿略大于第一缘齿，端齿后缘凹；第二缘齿不明显，第三缘齿退化或仅为齿痕，与第一缘齿之间无切口分隔；左磨板腹面可见小齿状突；磨板大，延伸至第一缘齿。右内颚端齿指状、大于第一缘齿；第一缘齿后缘略长于前缘；第二缘齿短、后缘内弯；磨板长于第二缘齿后缘、无脊；具蟑螂切迹。肠管：嗉囊球形、容积大；混合段存在，两对马氏管共同起于基部，无马氏管结节；P1 短、管状；肠瓣武装薄，由 6 个锐三角形瓣垫组成，每瓣垫的中纵区均布小的刺状突，瓣垫之间的角质层具相似但更大、更疏的突起。"
+      }
+    ],
+    "source": {
+      "id": "S0029",
+      "citation": "Amina P., Rajmohana K., Dinesh K.P. & Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae: Termitinae) with two new species from India. Zoosystema 44(3): 109–124. https://doi.org/10.5252/zoosystema2022v44a3",
+      "locator": "pp. 111–112（Morphological diagnosis / Description / Remarks）"
+    },
+    "note": "原文有翅成虫记为 Not known；属征与种征都以兵蚁内颚、上唇与前胸背板，以及工蚁内颚、肠瓣为依据。PDF 双栏抽取有行间错位，引文已按原句核对。"
+  },
+  "/genus/engelitermes/": {
+    "zh_name": "恩格尔白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁的总体形态在全世界白蚁中最接近非洲的 Cephalotermes 与新热带的 Cylindrotermes，但本属兵蚁消化道内无固体食物颗粒（原文称 white-gutted），据此与二者区分；其兵蚁体型持续小于非洲 Termitinae 的具颚兵蚁，体型与 Forficulitermes planifrons 相当（最大头宽 0.63 mm 对 0.65 mm），但内颚形状完全不同。工蚁内颚属食土／腐殖质取食型，而 Cephalotermes、Cylindrotermes 工蚁为食木型：端齿宽阔、与第一缘齿远隔，磨区凹而无脊（与 Crenetermes、Eutermellus、Jugositermes、Thoracotermes 相似）；与 Forficulitermes 工蚁尤其相似之处在于端齿与第一缘齿之间的宽间隙，以及第一、第四后肠段发达。肠瓣「单枚棘刺 + 无纹饰的瓣垫角质层」的组合在白蚁肠瓣中独一无二；砂囊结构较多数 Termitinae 简化。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "仅据 1 头蚁后（physogastric queen）描述：头部褐色，着生数百枚长短不一、多指向前方的刚毛，刚毛起自透明毛窝；额缝中支较头部其余部分色深；囟小、圆形，位于两单眼之间；头前侧方在囟前具两片新月形斑。前胸背板与后唇基较头顶色浅，毛被相似；后唇基不膨隆。所检标本触角断折，但多于 10 节；第 3、4 节几乎愈合，第 3 节短于第 2 节，第 3、4 节合起来长于第 2 节。内颚端齿较工蚁的窄。胫距 2:2:2。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳背视近长方形，两侧缘略向后收；侧视额面在囟附近隆起并呈波状起伏；囟小、几乎不可辨；内颚粗壮，基部具 1 枚三角形齿；触角 12 节；前胸背板前、后叶对称（congruent），侧视共同构成一条直线三角；胫距 2:2:2；腹部黄白色，消化道内无固体食物残渣（white-gutted sensu Scheffrahn et al. 2017）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "背视头壳内可见大的白色脑（食管上神经节），位于额腺小菱形组织的前方；侧视后唇基略膨隆。内颚端齿宽而突出；左内颚端齿与第一缘齿之间的间隙大于第一与第三缘齿之间的距离；磨区凹、无脊。触角 12 节；胫距 2:2:2；前足股节略膨大。砂囊缺 columnar belt，pulvillar belt 具硬化小刺，其下具成片的脊状鳞。肠瓣由 6 个光滑、细长的瓣垫组成，每瓣垫远端具 1 枚小刺，瓣垫指向食流；肠瓣武装（EVA）在环的前方具 1 个略微硬化的垫，着生 1–2 枚强刺与数枚小刺。混合段缺失。回肠圆筒状，沿腹部左侧呈长 S 形走行，向后收窄并折向前方与 P2 相接；P4 前部宽、后部窄；P5 容积异常大（但非所有个体皆然）。"
+      }
+    ],
+    "source": {
+      "id": "S0030",
+      "citation": "Romero Arias J., Hellemans S., Kaymak E., Akama P.D., Bourguignon T., Roisin Y., Scheffrahn R.H. & Šobotník J. 2024. Mitochondrial phylogenetics position a new Afrotropical termite species into its own subfamily, the Engelitermitinae (Blattodea: Termitidae). Systematic Entomology 49: 72–83. https://doi.org/10.1111/syen.12607",
+      "locator": "pp. 78–79（Engelitermes gen. n.: Description / Diagnosis）"
+    },
+    "note": "本属为单型属，原文将其置于独立的 Engelitermitinae。有翅成虫仅据 1 头蚁后描述，原文亦注明标本触角断折（节数只能给「多于 10 节」）。全文为无文字层 PDF，经逐页渲染读图转录后核对。"
+  },
+  "/genus/hyleotermes/": {
+    "zh_name": "森林白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头壳背视卵形，具长的圆柱形鼻，无缢缩、无长刚毛，被显微毛；工蚁轻微二型，混合段很短；肠瓣具 6 个大小不等的瓣垫，每瓣垫着生数枚至数十枚窄刺，刺生于锥形基座上。兵蚁在体型小、色淡黄、鼻圆柱形上与 Ereymatermes、Subulitermes 最近；三者中仅 H. brevipilus、S. constricticeps、S. microsoma 的头壳无长刚毛，而后两者明显更小（头宽约 0.6 mm）。工蚁肠瓣具鉴别意义，与 Ereymatermes、Subulitermes 不同。与 Nasutitermes s. str. 的区别：后者肠瓣武装具尖鳞并向后拖成鳞列、磨板窄直且脊发达、各内颚端齿短而缘齿较大、混合段很长、肠瓣未硬化而仅有微刺；此外 Nasutitermes s. str. 雌性工蚁明显大于雄性。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "复眼大、略卵形；单眼大、椭圆形，约与触角窝等大；后唇基侧视微拱，中线明显并微凹，前缘近直，后缘凸；囟显著、裂隙状；额缝模糊；触角 15 节；内颚齿式与工蚁 2 型相似；前胸背板背视梯形，前、后缘近直；中胸与后胸背板后缘深而宽地凹入，后侧角圆；胫距 2:2:2。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型；背视头壳长大于宽，无缢缩；鼻细长、近圆柱形；头壳、足与胸部骨片密被短而较粗的毛；内颚具小而清晰的「尖」；触角 12 节；后唇基侧视不凸；上唇宽大于长，前缘圆、侧缘平行，前角圆；前胸背板前叶与后叶同等发达，其间成钝角；前足基节锥形，不形成脊，前表面无隆突；胫距 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "二型，两型体型相近。1 型左内颚 M3 与磨区隆起之间的间隙窄，头壳色较深、近梯形，前胸背板较窄且前叶大于后叶；2 型间隙宽，头壳色略浅、两侧较凸，前胸背板较宽、前后叶近等大。两型囟均位于头壳后半、色淡，侧视微凹；后唇基不膨隆；触角 13 节；胫距 2:2:2。两型左内颚端齿均大于 M1，端齿后缘微凹，端齿后缘与 M1 前缘成锐角，M1 后缘波状；M3 短但清晰，1 型与磨区隆起之间为 V 形间隙、2 型为宽间隙；M4 短、隐于磨区隆起之下；磨区隆起凹、具模糊脊。右内颚端齿大于 M1，M3 退化、端部圆，M3 后缘凹，磨板凹并具模糊脊，基部缺刻清晰但 2 型较窄。"
+      }
+    ],
+    "source": {
+      "id": "S0031",
+      "citation": "Cuezzo C., Scheffrahn R.H. & Constantino R. 2022. Revised systematic position of Nasutitermes brevipilus Emerson, 1925 (Isoptera: Termitidae: Nasutitermitinae) and the designation of Hyleotermes gen. nov. Zootaxa 5195(1): 73–86. https://doi.org/10.11646/zootaxa.5195.1.4",
+      "locator": "p. 78（Hyleotermes gen. nov.: Diagnosis / Description）"
+    },
+    "note": "原文将 Nasutitermes brevipilus 移入本属并作 redescription；属征与各品级描述均在 p. 78，比较讨论在 p. 79。"
+  },
+  "/genus/tiunatermes/": {
+    "zh_name": "暗鼻白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁与 Anhangatermes、Cyranotermes 共有 13 节触角、头连鼻长大于 1.90 mm、鼻较长、头壳毛被稀疏；与 Anhangatermes 还共有宽大于长的宽阔头形、内颚具明显外缘、鼻端具多数短毛。与 Anhangatermes 的区别为：鼻锥形（后者圆柱形）、前足基节前表面无隆突（后者有）、腹部骨片强烈硬化、腹背板覆瓦状（后者骨片未硬化、可透见肠管盘曲、腹背板不覆瓦状）。属级检索表（Constantino 2002 增补）即以「鼻锥形；前足基节无隆突；腹部骨片硬化；腹背板覆瓦状」导向本属。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型；背视头壳宽阔、无缢缩；鼻锥形、基部宽；内颚具明显外缘，不形成清晰的「尖」；触角 13 节；后唇基侧视微凸；上唇宽大于长，前缘圆、侧缘平行、前角圆；前胸背板前叶与后叶同等发达，其间成 90° 角；前足基节锥形，不形成脊，前表面无隆突；胫距 2:2:2；腹部骨片强烈硬化，腹背板覆瓦状，节间膜不可见。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头壳背视近梯形、后缘圆；囟卵形，位于头壳后 1/3；头壳表面在囟处不下凹（侧视同一平面）；后唇基侧视弯曲明显；触角 14 节；前胸背板前叶较后叶发达，前缘圆、不凹入；胫距 2:2:2。内颚端齿尖锐且较第一缘齿突出，端齿后缘微凹并与第一缘齿前缘成锐角；左内颚 M1+2 明显、后缘直或微波状，M3 极退化，磨齿端部在磨区隆起下可见或微可见，磨区隆起凹、无明确脊；右内颚第一缘齿明显，第二缘齿缺失，磨板凹、无明确脊，基部缺刻清晰。消化道：嗉囊较砂囊发达，嗉囊角质层具栉状鳞；砂囊具完全硬化的六辐射对称武装，pulvillar belt 较 columnar belt 发达，pulvillus I 发达、表面被长针状刺，pulvillus II 退化、表面光滑；混合段短，中肠舌位于中肠弧外侧、近端不缢缩；肠瓣（P2）位于 P1 之下并与 P3 同轴，武装为 1 个不对称的环，长瓣垫与短瓣垫交替，长瓣垫表面疏布小的近三角刺（后缘者较大），短瓣垫表面有小刺、中面与端面者较大，刺均弯向食流方向；肠瓣座单叶或三叶。"
+      }
+    ],
+    "source": {
+      "id": "S0032",
+      "citation": "Carrijo T.F., Cuezzo C. & Santos R.G. 2015. Tiunatermes mariuzani gen. nov. et sp. nov., a new nasute termite from the Brazilian savannah (Isoptera: Termitidae). Austral Entomology 54: 358–365. https://doi.org/10.1111/aen.12137",
+      "locator": "pp. 359–360（Genus Tiunatermes gen. nov.: Description / Comparisons）"
+    },
+    "note": "原文有翅成虫记为 Unknown。种名释义 ti=鼻（Tupi 语）、una=暗。PDF 首页印刷页码与 PDF 页序相差 357（PDF p.2 = 印刷 p.359），locator 已按印刷页码给出。"
+  }
+}

@@ -8,12 +8,11 @@
 ## 总览
 
 - 分配属数：**291**。
-- found_fulltext：**68**。
-- found_metadata_only：**147**。
+- found_fulltext：**95**。
+- found_metadata_only：**191**。
 - not_found：**3**。
-- uncertain：**1**。
-- missing_result：**72**。
-- 尚未产出结果文件的批次：'04-termitidae-pointer-5'、'04-termitidae-pointer-6'、'04-termitidae-pointer-7'。
+- uncertain：**2**。
+- missing_result：**0**。
 
 ## 各科进度
 
@@ -29,7 +28,7 @@
 | 齿白蚁科 | 2 | 2 | 0 | 0 | 0 |
 | 胄白蚁科 | 2 | 2 | 0 | 0 | 0 |
 | 寡脉白蚁科 | 1 | 1 | 0 | 0 | 0 |
-| 白蚁科 | 257 | 52 | 131 | 1 | 73 |
+| 白蚁科 | 257 | 79 | 175 | 1 | 2 |
 
 ## 可直接读全文的候选
 
@@ -99,6 +98,33 @@
 - **方白蚁属** *Cubitermes* — Josens, G.; Deligne, J.. 2019. Species groups in the genus Cubitermes (Isoptera: Termitidae) defined on the basis of enteric valve morphology. European Journal of Taxonomy. 515:1–；DOI: 10.5852/ejt.2019.515；PDF: https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/679/1579
 - **等颚白蚁属** *Isognathotermes* — Josens, G.; Deligne, J.; Harry, M.; Roy, V.; et al. (25 authors). 2025. An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies. European Journal of Taxonomy. 1024:1–197；DOI: 10.5852/ejt.2025.1024.3099；PDF: https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/3099/13839
 - **圆筒白蚁属** *Cylindrotermes* — Da Rocha M.M.; Cancello E.M.. 2007. Estudo taxonômico de Cylindrotermes Holmgren (Isoptera, Termitidae Termitinae). Papéis Avulsos de Zoologia. 47；DOI: 10.1590/S0031-10492007001000001；URL: https://www.scielo.br/j/paz/a/zgccr48Qk9y7DMBD9rzjMrh/
+- **唇扭白蚁属** *Labiocapritermes* — Amina; Poovoli; Rajmohana. 2025. A taxonomic review of the Indian endemic genus Labiocapritermes Krishna, 1968 (Blattodea: Isoptera: Termitidae). Journal of Insect Biodiversity and Systematics. 11(4):1013–1026；DOI: 10.48311/jibs.11.4.1013；PDF: https://jibs.modares.ac.ir/article_27556_5c98b0539591b13b7ba78b3b614407ef.pdf
+- **瓢白蚁属** *Bulbitermes* — Syaukani, H.; Thompson, G.J.. 2011. Taxonomic notes on Nasutitermes and Bulbitermes (Termitidae, Nasutitermitinae) from the Sunda region of Southeast Asia based on morphological and molecular characters. ZooKeys. 148:135–160；DOI: 10.3897/zookeys.148.2055；PDF: https://zookeys.pensoft.net/article/2059/download/pdf/
+- **缩白蚁属** *Constrictotermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):60–65 (Eutermes 亚属检索表与种名录)；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **凸白蚁属** *Convexitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):60–65；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **巨鼻白蚁属** *Cyranotermes* — Rocha, M. M.; Carrijo, T. F.; Cancello, E. M.. 2012. An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa. 3196:50–57；DOI: 10.11646/zootaxa.3196.1.3；PDF: https://mapress.com/zootaxa/2012/f/z03196p057f.pdf
+- **歧白蚁属** *Diversitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):60–64；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **木象白蚁属** *Diwaitermes* — Roisin, Y.; Pasteels, J. M.. 1996. The Nasute Termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy. 10:507–616；DOI: 10.1071/IT9960507；PDF: https://cb.naturalsciences.be/ants/pdf_free/Roisin&Pasteels1996InvertebrateTaxonomy-10-507-616.pdf
+- **小真白蚁属** *Eutermellus* — Sands, W. A.. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement. 4:1–172；DOI: 10.5962/p.193228；PDF: https://archive.org/download/biostor-184498/biostor-184498.pdf
+- **富勒白蚁属** *Fulleritermes* — Sands, W. A.. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement. 4:1–172；DOI: 10.5962/p.193228；PDF: https://archive.org/download/biostor-184498/biostor-184498.pdf
+- **高跷白蚁属** *Grallatotermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):60–65；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **多毛白蚁属** *Hirtitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):59–62；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **怒白蚁属** *Lacessititermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):60–65；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **薄喙白蚁属** *Leptomyxotermes* — Sands, W. A.. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement. 4:1–172；DOI: 10.5962/p.193228；PDF: https://archive.org/download/biostor-184498/biostor-184498.pdf
+- **长足白蚁属** *Longipeditermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae. Kungliga Svenska Vetenskapsakademiens Handlingar. 48(4):60–65；；URL: local: _tmp/lit/txt/holmgren1912_3.txt
+- **仿白蚁属** *Mimeutermes* — Sands, W. A.. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement. 4:1–172；DOI: 10.5962/p.193228；PDF: https://archive.org/download/biostor-184498/biostor-184498.pdf
+- **鸟嘴白蚁属** *Mycterotermes* — Sands, W. A.. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement. 4:1–172；DOI: 10.5962/p.193228；PDF: https://archive.org/download/biostor-184498/biostor-184498.pdf
+- **西部白蚁属** *Occasitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):59, 60；；URL: https://archive.org/details/biostor-184513
+- **后锥白蚁属** *Postsubulitermes* — Emerson, A.E.. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian region (Isoptera, Termitidae). American Museum Novitates. 1987:10；；URL: https://archive.org/details/newgeneraonsubu1987emer
+- **锥形白蚁属** *Rhadinotermes* — Sands, W.A.. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement. 4:71–72；；URL: https://archive.org/details/biostor-184498
+- **圆白蚁属** *Rotunditermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):60, 61, 64；；URL: https://archive.org/details/biostor-184513
+- **胖白蚁属** *Rounditermes* — Ensaf, A.; Ponchel, Y.; Nel, A.. 2003. Rounditermes dechambrei, a new genus and species of Nasutitermitinae from French Guiana (Isopt., Termitidae). Bulletin de la Société entomologique de France. 108 (1):53–54；DOI: 10.3406/bsef.2003.16919；URL: https://www.persee.fr/doc/bsef_0037-928x_2003_num_108_1_16919
+- **锥白蚁属** *Subulitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):59, 61, 64；；URL: https://archive.org/details/biostor-184513
+- **慢白蚁属** *Tarditermes* — Emerson, A.E.. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian region (Isoptera, Termitidae). American Museum Novitates. 1987:15–18；；URL: https://archive.org/details/newgeneraonsubu1987emer
+- **薄嘴白蚁属** *Tenuirostritermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):60, 61, 65；；URL: https://archive.org/details/biostor-184513
+- **三脉白蚁属** *Trinervitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):59, 61, 64, 65；；URL: https://archive.org/details/biostor-184513
+- **冢白蚁属** *Tumulitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):59, 61；；URL: https://archive.org/details/biostor-184513
+- **快白蚁属** *Velocitermes* — Holmgren, N.. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar. 48 (4):60, 61, 64；；URL: https://archive.org/details/biostor-184513
 - **漏斗白蚁属** *Acangaobitermes* — Rocha, M. M.; Cancello, E. M.; Cuezzo, C.. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys. 148:125–134；DOI: 10.3897/zookeys.148.1278；URL: https://zookeys.pensoft.net/article/3003/
 - **双戟白蚁属** *Dihoplotermes* — Azevedo, R.A. de; Dambros, C. de S.; Morais, J.W. de. 2019. A new termite species of the genus Dihoplotermes Araújo (Blattaria, Isoptera, Termitidae) from the Brazilian Amazonian rainforest. Acta Amazonica. 49(1):17-23；DOI: 10.1590/1809-4392201800582；PDF: https://acta.inpa.gov.br/fasciculos/49-1/PDF/AA-2018-0058.pdf
 
@@ -108,76 +134,5 @@
 - 小草白蚁属 *Microhodotermes*（草白蚁科，not_found）
 - 伪钩白蚁属 *Pseudhamitermes*（白蚁科，not_found）
 - 足白蚁属 *Tetimatermes*（白蚁科，uncertain）
-- 唇扭白蚁属 *Labiocapritermes*（白蚁科，missing_result）
-- 瘤白蚁属 *Mirocapritermes*（白蚁科，missing_result）
-- 东扭白蚁属 *Oriencapritermes*（白蚁科，missing_result）
-- 前扭白蚁属 *Procapritermes*（白蚁科，missing_result）
-- 聚扭白蚁属 *Syncapritermes*（白蚁科，missing_result）
-- 针白蚁属 *Aciculitermes*（白蚁科，missing_result）
-- 非锥白蚁属 *Afrosubulitermes*（白蚁科，missing_result）
-- 无颚白蚁属 *Agnathotermes*（白蚁科，missing_result）
-- 安瓿白蚁属 *Ampoulitermes*（白蚁科，missing_result）
-- 棱角白蚁属 *Angularitermes*（白蚁科，missing_result）
-- 魔白蚁属 *Anhangatermes*（白蚁科，missing_result）
-- 安的列斯白蚁属 *Antillitermes*（白蚁科，missing_result）
-- 阿劳若白蚁属 *Araujotermes*（白蚁科，missing_result）
-- 阿特拉斯白蚁属 *Atlantitermes*（白蚁科，missing_result）
-- 澳大利亚白蚁属 *Australitermes*（白蚁科，missing_result）
-- 细颈白蚁属 *Baucaliotermes*（白蚁科，missing_result）
-- 瓢白蚁属 *Bulbitermes*（白蚁科，missing_result）
-- 林白蚁属 *Caetetermes*（白蚁科，missing_result）
-- 加勒比白蚁属 *Caribitermes*（白蚁科，missing_result）
-- 小锡兰白蚁属 *Ceylonitermellus*（白蚁科，missing_result）
-- 锡兰白蚁属 *Ceylonitermes*（白蚁科，missing_result）
-- 缩狭白蚁属 *Coarctotermes*（白蚁科，missing_result）
-- 凸鼻白蚁属 *Coatitermes*（白蚁科，missing_result）
-- 箭猪白蚁属 *Coendutermes*（白蚁科，missing_result）
-- 缩白蚁属 *Constrictotermes*（白蚁科，missing_result）
-- 凸白蚁属 *Convexitermes*（白蚁科，missing_result）
-- 利颚白蚁属 *Cortaritermes*（白蚁科，missing_result）
-- 巨鼻白蚁属 *Cyranotermes*（白蚁科，missing_result）
-- 歧白蚁属 *Diversitermes*（白蚁科，missing_result）
-- 木象白蚁属 *Diwaitermes*（白蚁科，missing_result）
-- 埃莉诺白蚁属 *Eleanoritermes*（白蚁科，missing_result）
-- 埃默森白蚁属 *Emersonitermes*（白蚁科，missing_result）
-- 针筒白蚁属 *Enetotermes*（白蚁科，missing_result）
-- 无名白蚁属 *Ereymatermes*（白蚁科，missing_result）
-- 小真白蚁属 *Eutermellus*（白蚁科，missing_result）
-- 富勒白蚁属 *Fulleritermes*（白蚁科，missing_result）
-- 高跷白蚁属 *Grallatotermes*（白蚁科，missing_result）
-- 多毛白蚁属 *Hirtitermes*（白蚁科，missing_result）
-- 考登白蚁属 *Kaudernitermes*（白蚁科，missing_result）
-- 怒白蚁属 *Lacessititermes*（白蚁科，missing_result）
-- 薄喙白蚁属 *Leptomyxotermes*（白蚁科，missing_result）
-- 白脸白蚁属 *Leucopitermes*（白蚁科，missing_result）
-- 长足白蚁属 *Longipeditermes*（白蚁科，missing_result）
-- 大锥白蚁属 *Macrosubulitermes*（白蚁科，missing_result）
-- 马尔加什白蚁属 *Malagasitermes*（白蚁科，missing_result）
-- 马来白蚁属 *Malaysiotermes*（白蚁科，missing_result）
-- 仿白蚁属 *Mimeutermes*（白蚁科，missing_result）
-- 鸟嘴白蚁属 *Mycterotermes*（白蚁科，missing_result）
-- 棘象白蚁属 *Nasopilotermes*（白蚁科，missing_result）
-- 凋落白蚁属 *Ngauratermes*（白蚁科，missing_result）
-- 新几内亚白蚁属 *Niuginitermes*（白蚁科，missing_result）
-- 钝白蚁属 *Obtusitermes*（白蚁科，missing_result）
-- 西部白蚁属 *Occasitermes*（白蚁科，missing_result）
-- 隐白蚁属 *Occultitermes*（白蚁科，missing_result）
-- 东锥白蚁属 *Oriensubulitermes*（白蚁科，missing_result）
-- 近凸白蚁属 *Paraconvexitermes*（白蚁科，missing_result）
-- 微白蚁属 *Parvitermes*（白蚁科，missing_result）
-- 后锥白蚁属 *Postsubulitermes*（白蚁科，missing_result）
-- 锥形白蚁属 *Rhadinotermes*（白蚁科，missing_result）
-- 鲁恩沃白蚁属 *Roonwalitermes*（白蚁科，missing_result）
-- 圆白蚁属 *Rotunditermes*（白蚁科，missing_result）
-- 胖白蚁属 *Rounditermes*（白蚁科，missing_result）
-- 沙巴白蚁属 *Sabahitermes*（白蚁科，missing_result）
-- 匙白蚁属 *Spatulitermes*（白蚁科，missing_result）
-- 似锥白蚁属 *Subulioiditermes*（白蚁科，missing_result）
-- 锥白蚁属 *Subulitermes*（白蚁科，missing_result）
-- 慢白蚁属 *Tarditermes*（白蚁科，missing_result）
-- 薄嘴白蚁属 *Tenuirostritermes*（白蚁科，missing_result）
-- 三角白蚁属 *Triangularitermes*（白蚁科，missing_result）
-- 三脉白蚁属 *Trinervitermes*（白蚁科，missing_result）
-- 冢白蚁属 *Tumulitermes*（白蚁科，missing_result）
-- 快白蚁属 *Velocitermes*（白蚁科，missing_result）
+- 沙巴白蚁属 *Sabahitermes*（白蚁科，uncertain）
 

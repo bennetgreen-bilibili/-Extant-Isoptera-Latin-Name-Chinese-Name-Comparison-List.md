@@ -1,20 +1,21 @@
 # 属级形态描述补写清单
 
-生成日期：2026-11-07。数据源：_data/taxonomy.json、_data/fauna_genera.json、_data/genus_sources.json。
+生成日期：2026-11-07。数据源：_data/taxonomy.json、_data/fauna_genera.json、_data/genus_sources.json、_data/morphology_genera.json。
 
 ## 总览
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 待补文献描述：**291**。其中 245 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），46 个没有独立条目（需另找发表文献）。
-- 有 Treatise 条目但未提取到模式种的属：10（不影响找原始文献，但补写时要先确认模式种）。
+- 已补写文献描述：**99**。
+- 仍待补文献描述：**192**。其中 166 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），26 个没有独立条目（需另找发表文献）。
+- 有 Treatise 条目但未提取到模式种的属：9（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
 > 均摘自 Krishna et al. (2013) 的属级条目；该书只登记原始发表信息、模式种和
 > 「含 characters / key / diagnosis」的参考文献，本身没有描述正文。补写时必须取得并核对
 > 原始文献，不得把 Treatise 的文献注记当作描述转述。
 
-## 优先补找：Treatise 无独立条目的 46 属
+## 优先补找：Treatise 无独立条目的 26 属
 
 这些属在 Krishna et al. (2013) 中没有独立属级条目，连原始描述出处和模式种都要另查；
 建议优先找原始发表（或最近的属级修订、地区名录）。
@@ -23,43 +24,23 @@
 | --- | --- | --- |
 | 草白蚁科 | 小草白蚁属 *Microhodotermes* | /genus/microhodotermes/ |
 | 木白蚁科 | 头长白蚁属 *Longicaputermes* | /genus/longicaputermes/ |
-| 木白蚁科 | 罗伊辛白蚁属 *Roisinitermes* | /genus/roisinitermes/ |
 | 白蚁科 | 大腿白蚁属 *Amplucrutermes* | /genus/amplucrutermes/ |
 | 白蚁科 | 和平白蚁属 *Apolemotermes* | /genus/apolemotermes/ |
-| 白蚁科 | 首白蚁属 *Caputitermes* | /genus/caputitermes/ |
 | 白蚁科 | 蔡斯白蚁属 *Chasitermes* | /genus/chasitermes/ |
 | 白蚁科 | 肠刺白蚁属 *Compositermes* | /genus/compositermes/ |
-| 白蚁科 | 间断白蚁属 *Disjunctitermes* | /genus/disjunctitermes/ |
 | 白蚁科 | 隐藏白蚁属 *Dissimulitermes* | /genus/dissimulitermes/ |
 | 白蚁科 | 埃博戈白蚁属 *Ebogotermes* | /genus/ebogotermes/ |
 | 白蚁科 | 多刺白蚁属 *Echinotermes* | /genus/echinotermes/ |
-| 白蚁科 | 肠棘白蚁属 *Ekueitermes* | /genus/ekueitermes/ |
 | 白蚁科 | 胃白蚁属 *Gastrotermes* | /genus/gastrotermes/ |
-| 白蚁科 | 毛糙白蚁属 *Hirsutitermes* | /genus/hirsutitermes/ |
-| 白蚁科 | 腐殖白蚁属 *Humutermes* | /genus/humutermes/ |
 | 白蚁科 | 海德瑞克白蚁属 *Hydrecotermes* | /genus/hydrecotermes/ |
 | 白蚁科 | 库塔巴白蚁属 *Koutabatermes* | /genus/koutabatermes/ |
-| 白蚁科 | 克雷切克白蚁属 *Krecekitermes* | /genus/krecekitermes/ |
-| 白蚁科 | 曼戈尔德白蚁属 *Mangolditermes* | /genus/mangolditermes/ |
-| 白蚁科 | 海胆白蚁属 *Ourissotermes* | /genus/ourissotermes/ |
-| 白蚁科 | 帕塔瓦白蚁属 *Patawatermes* | /genus/patawatermes/ |
-| 白蚁科 | 变红白蚁属 *Rubeotermes* | /genus/rubeotermes/ |
-| 白蚁科 | 拉斯特白蚁属 *Rustitermes* | /genus/rustitermes/ |
 | 白蚁科 | 谢弗拉恩白蚁属 *Scheffrahnitermes* | /genus/scheffrahnitermes/ |
 | 白蚁科 | 螺旋白蚁属 *Spiralitermes* | /genus/spiralitermes/ |
 | 白蚁科 | 奇囟白蚁属 *Tonsuritermes* | /genus/tonsuritermes/ |
 | 白蚁科 | 三棒白蚁属 *Triclavitermes* | /genus/triclavitermes/ |
-| 白蚁科 | 黄汁白蚁属 *Tucupitermes* | /genus/tucupitermes/ |
 | 白蚁科 | 多铲白蚁属 *Polyspathotermes* | /genus/polyspathotermes/ |
 | 白蚁科 | 三方白蚁属 *Ternicubitermes* | /genus/ternicubitermes/ |
-| 白蚁科 | 恩格尔白蚁属 *Engelitermes* | /genus/engelitermes/ |
-| 白蚁科 | 丽娜扭白蚁属 *Rinacapritermes* | /genus/rinacapritermes/ |
-| 白蚁科 | 森林白蚁属 *Hyleotermes* | /genus/hyleotermes/ |
 | 白蚁科 | 米勒白蚁属 *Muelleritermes* | /genus/muelleritermes/ |
-| 白蚁科 | 桑兹白蚁属 *Sandsitermes* | /genus/sandsitermes/ |
-| 白蚁科 | 鼻大白蚁属 *Sinqasapatermes* | /genus/sinqasapatermes/ |
-| 白蚁科 | 暗鼻白蚁属 *Tiunatermes* | /genus/tiunatermes/ |
-| 白蚁科 | 不对称白蚁属 *Schievitermes* | /genus/schievitermes/ |
 | 白蚁科 | 班代拉白蚁属 *Bandeiratermes* | /genus/bandeiratermes/ |
 | 白蚁科 | 拜拉白蚁属 *Biratermes* | /genus/biratermes/ |
 | 白蚁科 | 红懒白蚁属 *Mapinguaritermes* | /genus/mapinguaritermes/ |
@@ -70,48 +51,36 @@
 
 ## 各科进度
 
-| 科 | 属数 | 已有动物志描述 | 待补 | 其中 Treatise 无条目 |
-| --- | ---: | ---: | ---: | ---: |
-| 澳白蚁科 Mastotermitidae | 1 | 0 | 1 | 0 |
-| 古白蚁科 Archotermopsidae | 2 | 0 | 2 | 0 |
-| 草白蚁科 Hodotermitidae | 3 | 0 | 3 | 1 |
-| 原白蚁科 Hodotermopsidae | 1 | 1 | 0 | 0 |
-| 胄白蚁科 Stolotermitidae | 2 | 0 | 2 | 0 |
-| 木白蚁科 Kalotermitidae | 23 | 5 | 18 | 2 |
-| 沙白蚁科 Psammotermitidae | 2 | 1 | 1 | 0 |
-| 鼻白蚁科 Rhinotermitidae | 5 | 2 | 3 | 0 |
-| 齿白蚁科 Serritermitidae | 2 | 0 | 2 | 0 |
-| 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 |
-| 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 |
-| 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 257 | 43 |
+| 科 | 属数 | 已有动物志描述 | 已补文献描述 | 待补 | 其中 Treatise 无条目 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| 澳白蚁科 Mastotermitidae | 1 | 0 | 1 | 0 | 0 |
+| 古白蚁科 Archotermopsidae | 2 | 0 | 1 | 1 | 0 |
+| 草白蚁科 Hodotermitidae | 3 | 0 | 0 | 3 | 1 |
+| 原白蚁科 Hodotermopsidae | 1 | 1 | 0 | 0 | 0 |
+| 胄白蚁科 Stolotermitidae | 2 | 0 | 2 | 0 | 0 |
+| 木白蚁科 Kalotermitidae | 23 | 5 | 17 | 1 | 1 |
+| 沙白蚁科 Psammotermitidae | 2 | 1 | 1 | 0 | 0 |
+| 鼻白蚁科 Rhinotermitidae | 5 | 2 | 3 | 0 | 0 |
+| 齿白蚁科 Serritermitidae | 2 | 0 | 2 | 0 | 0 |
+| 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
+| 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
+| 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
+| 白蚁科 Termitidae | 280 | 23 | 70 | 187 | 24 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
-### 澳白蚁属 *Mastotermes* — 待补（有 Treatise 线索）
+### 澳白蚁属 *Mastotermes* — 已有文献描述
 
-- 原始描述：Mastotermes Froggatt, 1897a: 517.
-- 模式种：Mastotermes darwiniensis Froggatt, 1897 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Desneux, 1904b: 10–11 — Mastotermes; reference list; characters; key; distribution.
-  - Desneux, 1904c: 279–282 — Mastotermes; characters.
-  - Silvestri, 1909b: 284 — Mastotermes; characters.
-  - Holmgren, 1911a: 10, 15–33 — Mastotermes; characters discussed in detail; wing venation; relationships.
-  - Hill, 1942: 14–15 — Mastotermes; key; synonymy; imago, soldier, worker diagnosed.
+- 已据文献补写：Emerson, A. E. 1965. A review of the Mastotermitidae (Isoptera), including a new fossil genus from Brazil. American Museum Novitates 2236: 1–46.
+- 定位：pp. 10, 24–25, 31–32
 - 页面：https://isoptera.lifemosaic.net/genus/mastotermes/
 
 ## 古白蚁科 Archotermopsidae（2 属）
 
-### 古白蚁属 *Archotermopsis* — 待补（有 Treatise 线索）
+### 古白蚁属 *Archotermopsis* — 已有文献描述
 
-- 原始描述：Archotermopsis Desneux, 1904b: 13 [first introduced as a subgenus of Termopsis Heer, 1849].
-- 模式种：Termopsis (Archotermopsis) wroughtoni Desneux, 1904 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Desneux, 1906c: 293 — Termopsis [part]; characters.
-  - Holmgren, 1911a: 10, 35, 36–37 — Archotermopsis; reference list; characters; key; species included.
-  - Emerson, 1933b: 168, 172–173 — Archotermopsis; characters; key; comparisons.
-  - Snyder, 1934a: 24, 27 — Archotermopsis; key.
-  - Lal and Menon, 1953: 5, 6 — Archotermopsis; catalog; reference list; key.
+- 已据文献补写：Desneux, J. 1906. The Kashmir termite, Termopsis wroughtoni. Journal of the Bombay Natural History Society 17: 293–297. https://biodiversitylibrary.org/partpdf/193245
+- 定位：pp. 293–297
 - 页面：https://isoptera.lifemosaic.net/genus/archotermopsis/
 
 ### 动白蚁属 *Zootermopsis* — 待补（有 Treatise 线索）
@@ -166,121 +135,70 @@
 
 ## 胄白蚁科 Stolotermitidae（2 属）
 
-### 洞白蚁属 *Porotermes* — 待补（有 Treatise 线索）
+### 洞白蚁属 *Porotermes* — 已有文献描述
 
-- 原始描述：Porotermes Hagen, 1858c: 101 [first introduced as a subgenus of Hodotermes Hagen, 1853].
-- 模式种：Termes quadricollis Rambur, 1842 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Brauer, 1868: 393 — Porotermes; key.
-  - Froggatt, 1897a: 517, 536 — Porotermes; characters.
-  - Silvestri, 1903: 18 — Porotermes; reference list; characters.
-  - Desneux, 1904b: 19–20 — Porotermes; reference list; characters; key; species included; distribution.
-  - Escherich, 1909: 172, 179 — Porotermes; key.
+- 已据文献补写：Hill, G. F. 1926. The genus Porotermes (Isoptera). Proceedings of the Royal Society of Victoria, N.S. 38: 143–149.
+- 定位：p. 144 (检索表、与 Stolotermes 对比、工蚁品级说明)
 - 页面：https://isoptera.lifemosaic.net/genus/porotermes/
 
-### 胄白蚁属 *Stolotermes* — 待补（有 Treatise 线索）
+### 胄白蚁属 *Stolotermes* — 已有文献描述
 
-- 原始描述：Stolotermes Hagen, 1858c: 105 [first introduced as a subgenus of Hodotermes Hagen, 1853].
-- 模式种：Hodotermes (Stolotermes) brunneicornis Hagen, 1858 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Brauer, 1868: 393 — Stolotermes; key.
-  - Froggatt, 1897a: 517, 537 — Stolotermes; characters.
-  - Desneux, 1904b: 17, 18 — Stolotermes; reference list; characters; key; species included; distribution.
-  - Hudson, 1904: 3 — Stolotermes; characters.
-  - Froggatt, 1905: 22 — Stolotermes; characters.
+- 已据文献补写：Emerson, A. E. 1942. The relations of a relict South African termite (Isoptera, Hodotermitidae, Stolotermes). American Museum Novitates 1187: 1–12.
+- 定位：pp. 7–9
 - 页面：https://isoptera.lifemosaic.net/genus/stolotermes/
 
 ## 木白蚁科 Kalotermitidae（23 属）
 
-### 奇白蚁属 *Allotermes* — 待补（有 Treatise 线索）
+### 奇白蚁属 *Allotermes* — 已有文献描述
 
-- 原始描述：Allotermes Wasmann, 1910a: 121.
-- 模式种：Allotermes paradoxus Wasmann, 1910a by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1961: 358 — Allotermes; stat. rev.; generic characters; key; reference list; phylogeny; distribution.
-  - Morimoto, 1975b: 11 — Allotermes; key.
-  - Araujo and Fontes, 1979: 31 — Allotermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：p. 358
 - 页面：https://isoptera.lifemosaic.net/genus/allotermes/
 
-### 双角白蚁属 *Bicornitermes* — 待补（有 Treatise 线索）
+### 双角白蚁属 *Bicornitermes* — 已有文献描述
 
-- 原始描述：Bicornitermes Krishna, 1961: 370, 371.
-- 模式种：Bicornitermes bicornis Krishna, 1961 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1961: 370–371 — Bicornitermes; generic characters; key; reference list; phylogeny; distribution.
-  - Bouillon and Mathot, 1965: 17, 78, 79, pl. 7: fig. 12c — Bicornitermes; key; characters; imago mandibles figured.
-  - Morimoto, 1975b: 9 — Bicornitermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 370–371
 - 页面：https://isoptera.lifemosaic.net/genus/bicornitermes/
 
-### 双裂白蚁属 *Bifiditermes* — 待补（有 Treatise 线索）
+### 双裂白蚁属 *Bifiditermes* — 已有文献描述
 
-- 原始描述：Bifiditermes Krishna, 1961: 366.
-- 模式种：Calotermes madagascariensis Wasmann, 1897 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fuller, 1921: 19, 22, 23, 24 — Calotermes [part]; key.
-  - Krishna, 1961: 365–370 — Bifiditermes; generic characters; key; reference list; phylogeny; distribution.
-  - Ahmad, 1965: 7 — Bifiditermes; key. 2013 Krishna ET AL.: isoptera: Kalotermitidae 331
-  - Bouillon and Mathot, 1965: 18, 82, 83, pl. 9: fig. 18d — Bifiditermes; key; characters; imago mandibles figured.
-  - Harris, 1968c: 5 — Bifiditermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 366–368
 - 页面：https://isoptera.lifemosaic.net/genus/bifiditermes/
 
-### 距白蚁属 *Calcaritermes* — 待补（有 Treatise 线索）
+### 距白蚁属 *Calcaritermes* — 已有文献描述
 
-- 原始描述：Calcaritermes Snyder, 1925e: 155 [first introduced as a subgenus of Kalotermes Hagen, 1853.
-- 模式种：Kalotermes (Calcaritermes) imminens Snyder, 1925 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Light, 1933: 82 — Kalotermes (Calcaritermes); key.
-  - Roonwal and Sen-Sarma, 1960: 98 — Calcaritermes; key.
-  - Krishna, 1961: 348–349 — Calcaritermes; generic characters; key; reference list; phylogeny; distribution.
-  - Weesner, 1965: 34, 35, 49 — Calcaritermes; key; characters.
-  - Emerson, 1969: 36–39 — Calcaritermes; characters; distribution.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：p. 349
 - 页面：https://isoptera.lifemosaic.net/genus/calcaritermes/
 
-### 角木白蚁属 *Ceratokalotermes* — 待补（有 Treatise 线索）
+### 角木白蚁属 *Ceratokalotermes* — 已有文献描述
 
-- 原始描述：Ceratokalotermes Krishna, 1961
-- 模式种：Calotermes spoliator Hill, 1932 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1961: 338–341 — Ceratokalotermes; generic characters; key; reference list; phylogeny; distribution.
-  - Morimoto, 1975b: 11 — Ceratokalotermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 338–341
 - 页面：https://isoptera.lifemosaic.net/genus/ceratokalotermes/
 
-### 毛白蚁属 *Comatermes* — 待补（有 Treatise 线索）
+### 毛白蚁属 *Comatermes* — 已有文献描述
 
-- 原始描述：Comatermes Krishna, 1961: 341.
-- 模式种：Calotermes perfectus Hagen, 1858 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1961: 341–343 — Comatermes; generic characters; key; reference list; phylogeny; distribution.
-  - Morimoto, 1975b: 11 — Comatermes; key.
-  - Constantino, 2002a: 16 — Comatermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 341–343
 - 页面：https://isoptera.lifemosaic.net/genus/comatermes/
 
 ### 堆砂白蚁属 *Cryptotermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 上木白蚁属 *Epicalotermes* — 待补（有 Treatise 线索）
+### 上木白蚁属 *Epicalotermes* — 已有文献描述
 
-- 原始描述：Epicalotermes Silvestri, 1918b: 347.
-- 模式种：Epicalotermes aethiopicus Silvestri, 1918 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sjöstedt, 1926d: 23 — Epicalotermes; key.
-  - Krishna, 1961: 374–376 — Epicalotermes; stat. rev.; generic characters; key; reference list; phylogeny; distribution.
-  - Webb, 1961: 8 — Epicalotermes; key.
-  - Bouillon and Mathot, 1965: 18, 80, 81, pl. 8: fig. 17d — Epicalotermes; key; characters; imago mandibles figured.
-  - Chaudhry et al., 1972: 5 — Epicalotermes; characters.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 374–376
 - 页面：https://isoptera.lifemosaic.net/genus/epicalotermes/
 
-### 真砂白蚁属 *Eucryptotermes* — 待补（有 Treatise 线索）
+### 真砂白蚁属 *Eucryptotermes* — 已有文献描述
 
-- 原始描述：Eucryptotermes Holmgren, 1911a: 53, 55 [first introduced as a subgenus of Calotermes Hagen, 1858].
-- 模式种：Calotermes hageni Müller, 1873 (= Eucryptotermes wheeleri Snyder and Emerson, 1949a) by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1911a: 55 — Calotermes (Eucryptotermes); characters; species included; distribution.
-  - Roonwal and Sen-Sarma, 1960: 98 — Eucryptotermes; key.
-  - Krishna, 1961: 328–331 — Eucryptotermes; generic characters; key; reference list; phylogeny; distribution.
-  - Morimoto, 1975b: 10 — Eucryptotermes; key.
-  - Constantino, 1999a: 395, 410 — Eucryptotermes; key; biology; distribution.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 328–331
 - 页面：https://isoptera.lifemosaic.net/genus/eucryptotermes/
 
 ### 树白蚁属 *Glyptotermes* — 已有动物志描述
@@ -301,109 +219,62 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/longicaputermes/
 
-### 边白蚁属 *Marginitermes* — 待补（有 Treatise 线索）
+### 边白蚁属 *Marginitermes* — 已有文献描述
 
-- 原始描述：Marginitermes Krishna, 1961: 358, 361.
-- 模式种：Kalotermes hubbardi Banks, 1920 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1961: 358–361 — Marginitermes; generic characters; key; reference list; phylogeny; distribution.
-  - Weesner, 1965: 34, 35 — Marginitermes; key; characters.
-  - Morimoto, 1975b: 11 — Marginitermes; key.
-  - Araujo and Fontes, 1979: 31 — Marginitermes; key.
-  - Nickle and Collins, 1990: 93, 107 — Marginitermes; key; characters.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 358–361
 - 页面：https://isoptera.lifemosaic.net/genus/marginitermes/
 
 ### 新白蚁属 *Neotermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 近新白蚁属 *Paraneotermes* — 待补（有 Treatise 线索）
+### 近新白蚁属 *Paraneotermes* — 已有文献描述
 
-- 原始描述：Paraneotermes Light, 1934f: 208.
-- 模式种：Kalotermes simplicicornis Banks, 1920 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Roonwal and Sen-Sarma, 1960: 98, 99 — Paraneotermes; key.
-  - Krishna, 1961: 336–338 — Paraneotermes; generic characters; key; reference list; phylogeny; distribution.
-  - Weesner, 1965: 34, 35 — Paraneotermes; key.
-  - Morimoto, 1975b: 11 — Paraneotermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 337–338
 - 页面：https://isoptera.lifemosaic.net/genus/paraneotermes/
 
-### 后琥珀白蚁属 *Postelectrotermes* — 待补（有 Treatise 线索）
+### 后琥珀白蚁属 *Postelectrotermes* — 已有文献描述
 
-- 原始描述：Postelectrotermes Krishna, 1961: 319.
-- 模式种：Calotermes praecox Hagen, 1858 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1965: 7, 8 — Postelectrotermes; key.
-  - Bouillon and Mathot, 1965: 16, 76, 77 — Postelectrotermes; key.
-  - Chaudhry et al., 1972: 1 — Postelectrotermes; characters.
-  - Morimoto, 1975b: 9 — Postelectrotermes; key.
-  - Chhotani, 1980: 3, 9 — Postelectrotermes; Indian species; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 320–321
 - 页面：https://isoptera.lifemosaic.net/genus/postelectrotermes/
 
-### 前砂白蚁属 *Procryptotermes* — 待补（有 Treatise 线索）
+### 前砂白蚁属 *Procryptotermes* — 已有文献描述
 
-- 原始描述：Procryptotermes Holmgren, 1910a: 139 [first introduced as a subgenus of Calotermes Hagen, 1858].
-- 模式种：Calotermes (Procryptotermes) fryeri Holmgren, 1910 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1911a: 10, 55 — Calotermes (Procryptotermes); characters; species included; type species as fryeri; distribution.
-  - Sjöstedt, 1926d: 22, 23, 31 — Procryptotermes; reference list; key.
-  - Roonwal and Sen-Sarma, 1960: 98 — Procryptotermes; key.
-  - Krishna, 1961: 376–379 — Procryptotermes; generic characters; key; reference list; phylogeny; distribution.
-  - Webb, 1961: 9 — Procryptotermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 376–378
 - 页面：https://isoptera.lifemosaic.net/genus/procryptotermes/
 
-### 前新白蚁属 *Proneotermes* — 待补（有 Treatise 线索）
+### 前新白蚁属 *Proneotermes* — 已有文献描述
 
-- 原始描述：Proneotermes Holmgren, 1911a: 53 [first introduced as a subgenus of Calotermes Hagen, 1858].
-- 模式种：Calotermes (Proneotermes) perezi Holmgren, 1911 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1911a: 53, 54 — Calotermes (Proneotermes); characters; species included; distribution.
-  - Sjöstedt, 1926d: 22, 23, 32 — Proneotermes; reference list; key.
-  - Krishna, 1961: 363–365 — Proneotermes; stat. rev.; generic characters; key; reference list; phylogeny; distribution.
-  - Webb, 1961: 9 — Proneotermes; key.
-  - Morimoto, 1975b: 11 — Proneotermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 363–364
 - 页面：https://isoptera.lifemosaic.net/genus/proneotermes/
 
-### 翅白蚁属 *Pterotermes* — 待补（有 Treatise 线索）
+### 翅白蚁属 *Pterotermes* — 已有文献描述
 
-- 原始描述：Pterotermes Holmgren, 1911a: 43, 44 [included in Hodotermitinae].
-- 模式种：Termes occidentis Walker, 1853 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hagen, 1858b: 13 — Termopsis [part]; characters; species included.
-  - Hagen, 1858c: 32, 74–75 — Termopsis [part]; characters; species included.
-  - Hagen, 1861b: 3 — Termopsis [part]; characters.
-  - Krishna, 1961: 349–353 — Pterotermes; stat. nov.; generic characters; key; phylogeny; distribution.
-  - Weesner, 1965: 34, 35, 36 — Pterotermes; key, characters.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 351–353
 - 页面：https://isoptera.lifemosaic.net/genus/pterotermes/
 
-### 罗伊辛白蚁属 *Roisinitermes* — 待补（Treatise 无独立条目）
+### 罗伊辛白蚁属 *Roisinitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Scheffrahn R. H.; Bourguignon T.; Akama P. D.; Sillam-Dussès D.; Šobotník J. 2018. Roisinitermes ebogoensis gen. & sp. n., an outstanding drywood termite with snapping soldiers from Cameroon (Isoptera, Kalotermitidae). ZooKeys 787: 91–105. https://doi.org/10.3897/zookeys.787.28195
+- 定位：Genus Roisinitermes gen. n. — Winged Imago, Soldier, Diagnosis（ZooKeys 787: 91–105）
 - 页面：https://isoptera.lifemosaic.net/genus/roisinitermes/
 
-### 皱白蚁属 *Rugitermes* — 待补（有 Treatise 线索）
+### 皱白蚁属 *Rugitermes* — 已有文献描述
 
-- 原始描述：Rugitermes Holmgren, 1911a: 53, 54 [first introduced as a subgenus of Calotermes Hagen, 1858].
-- 模式种：Calotermes nodulosus Hagen, 1858 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1911a: 54 — Calotermes (Rugitermes); characters; species included; distribution.
-  - Snyder, 1925f: 198 — Kalotermes (Rugitermes); characters; species included.
-  - Roonwal and Sen-Sarma, 1960: 98 — Rugitermes; key.
-  - Krishna, 1961: 325–328 — Rugitermes; generic characters; key; reference list; phylogeny; distribution.
-  - Morimoto, 1975b: 10 — Rugitermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 326–328
 - 页面：https://isoptera.lifemosaic.net/genus/rugitermes/
 
-### 牛白蚁属 *Tauritermes* — 待补（有 Treatise 线索）
+### 牛白蚁属 *Tauritermes* — 已有文献描述
 
-- 原始描述：Tauritermes Krishna, 1961: 361–363.
-- 模式种：Calotermes taurocephalus Silvestri, 1901 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1961: 361–363 — Tauritermes; generic characters; key; reference list; phylogeny; distribution.
-  - Morimoto, 1975b: 11 — Tauritermes; key.
-  - Araujo and Fontes, 1979: 29, 31 — Tauritermes; characters; comparisons; key.
-  - Constantino, 1999a: 395, 410 — Tauritermes; key; biology; distribution.
-  - Constantino, 2002a: 18 — Tauritermes; key.
+- 已据文献补写：Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.
+- 定位：pp. 362–363
 - 页面：https://isoptera.lifemosaic.net/genus/tauritermes/
 
 ## 沙白蚁科 Psammotermitidae（2 属）
@@ -412,58 +283,34 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 沙白蚁属 *Psammotermes* — 待补（有 Treatise 线索）
+### 沙白蚁属 *Psammotermes* — 已有文献描述
 
-- 原始描述：Psammotermes Desneux, 1902: 436.
-- 模式种：Psammotermes hybostoma Desneux, 1902 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Desneux, 1904b: 24–25 — Psammotermes; reference list; characters; species included; distribution; biology.
-  - Fuller, 1921: 20, 23, 46 — Psammotermes; key.
-  - Cachan, 1949: 185, 217 — Psammotermes; key; synonymy; characters; species included from Madagascar.
-  - Webb, 1961: 9 — Psammotermes; key.
-  - Roonwal, and Bose, 1964: 8 — Psammotermes; key.
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–16.
+- 定位：p. 4
 - 页面：https://isoptera.lifemosaic.net/genus/psammotermes/
 
 ## 鼻白蚁科 Rhinotermitidae（5 属）
 
-### 尖鼻白蚁属 *Acorhinotermes* — 待补（有 Treatise 线索）
+### 尖鼻白蚁属 *Acorhinotermes* — 已有文献描述
 
-- 原始描述：Acorhinotermes Emerson, 1949j: 374.
-- 模式种：Rhinotermes (Rhinotermes) subfusciceps Emerson, 1925 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 16 — Acorhinotermes; key.
-  - Chhotani, 1984: 111–113 — Acorhinotermes; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior.
-  - Constantino, 1999a: 396, 411 — Acorhinotermes; key; biology; distribution.
-  - Constantino, 2002a: 18 — Acorhinotermes; key.
-  - Maiti, 2006: 15, 247 — Acorhinotermes; key; synonymy.
+- 已据文献补写：Castro Torres, D.; Scheffrahn, R. H. 2019. A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers. ZooKeys 891: 61–70. https://doi.org/10.3897/zookeys.891.37523
+- 定位：Introduction; Key to the species of Neotropical Rhinotermitinae (couplet 1); Acorhinotermes claritae, Diagnosis and Description
 - 页面：https://isoptera.lifemosaic.net/genus/acorhinotermes/
 
-### 狭鼻白蚁属 *Dolichorhinotermes* — 待补（有 Treatise 线索）
+### 狭鼻白蚁属 *Dolichorhinotermes* — 已有文献描述
 
-- 原始描述：Dolichorhinotermes Snyder and Emerson, 1949b: 374.
-- 模式种：Rhinotermes (Rhinotermes) longilabius Emerson, 1925 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 16 — Dolichorhinotermes; key.
-  - Mathews, 1977: 91–92 — Dolichorhinotermes; synonymy; characters; discussion.
-  - Chhotani, 1984: 111–113 — Dolichorhinotermes; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior.
-  - Nickle and Collins, 1992: 221, 224 — Dolichorhinotermes; key; characters.
-  - Constantino, 1999a: 396, 411 — Dolichorhinotermes; key; biology; distribution.
+- 已据文献补写：Engel, M. S.; Krishna, K. 2007. New Dolichorhinotermes from Ecuador and in Mexican amber (Isoptera: Rhinotermitidae). American Museum Novitates 3592: 1–8. https://doi.org/10.1206/0003-0082(2007)3592[1:NDFEAI]2.0.CO;2
+- 定位：p. 2 (genus diagnosis); pp. 2–3 (D. lanciarius, major and minor soldier)
 - 页面：https://isoptera.lifemosaic.net/genus/dolichorhinotermes/
 
 ### 棒鼻白蚁属 *Parrhinotermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 鼻白蚁属 *Rhinotermes* — 待补（有 Treatise 线索）
+### 鼻白蚁属 *Rhinotermes* — 已有文献描述
 
-- 原始描述：Rhinotermes Hagen, 1858c: 233 [first introduced as a subgenus of Termes Linné, 1758].
-- 模式种：Termes nasutum Perty, 1830 by subsequent designation; see Wasmann, 1897b: 151.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hagen, 1858b: 16, 33 — Termes (Rhinotermes); characters; species included.
-  - Froggatt, 1897a: 517, 539 — Rhinotermes [part]; characters.
-  - Wasmann, 1897b: 151 — Termes (Rhinotermes); characters; Termes nasutus as type species.
-  - Haviland, 1898: 378, 392–393 — Termes “section with T. nasutus as type”; characters; key.
-  - Desneux, 1904b: 26, 27 — Rhinotermes; key; reference list; characters; species included; biology; distribution.
+- 已据文献补写：Hill, G. F. 1933. Australian Rhinotermes (Isoptera). Proceedings of the Royal Society of Victoria, N.S. 45(1): 1–17, pls. I–IV.
+- 定位：p. 1 (属征，引 Holmgren；亚属 Rhinotermes s. str.)
 - 页面：https://isoptera.lifemosaic.net/genus/rhinotermes/
 
 ### 长鼻白蚁属 *Schedorhinotermes* — 已有动物志描述
@@ -472,28 +319,16 @@
 
 ## 齿白蚁科 Serritermitidae（2 属）
 
-### 舌白蚁属 *Glossotermes* — 待补（有 Treatise 线索）
+### 舌白蚁属 *Glossotermes* — 已有文献描述
 
-- 原始描述：Glossotermes Emerson, 1950: 2.
-- 模式种：Glossotermes oculatus Emerson 1950 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 14 — Glossotermes; key.
-  - Chhotani, 1984: 111–112 — Glossotermes; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior.
-  - Constantino, 1999a: 396, 411 — Glossotermes; key; biology; distribution.
-  - Constantino, 2002a: 18 — Glossotermes; key.
-  - Maiti, 2006: 15, 16 — Glossotermes; key; synonymy; characters; distribution.
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–16.
+- 定位：pp. 2–4
 - 页面：https://isoptera.lifemosaic.net/genus/glossotermes/
 
-### 齿白蚁属 *Serritermes* — 待补（有 Treatise 线索）
+### 齿白蚁属 *Serritermes* — 已有文献描述
 
-- 原始描述：Serritermes Wasmann, 1897b: 150 [first introduced as a subgenus of Calotermes Hagen, 1858].
-- 模式种：Termes serrifer Hagen and Bates, in Hagen, 1858c by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Silvestri, 1903: 39–40 — Serritermes; characters; distribution.
-  - Desneux, 1904b: 26, 47 — Serritermes; key; reference list; synonymy; characters; species included; distribution.
-  - Escherich, 1909: 178 — Serritermes; characters.
-  - Emerson and Krishna, 1975: 1, 2, 3 — Serritermes; synonymy; characters.
-  - Constantino, 1999a: 397, 411 — Serritermes; key; biology; distribution.
+- 已据文献补写：Emerson, A. E.; Krishna, K. 1975. The termite family Serritermitidae (Isoptera). American Museum Novitates 2570: 1–31.
+- 定位：pp. 2–8
 - 页面：https://isoptera.lifemosaic.net/genus/serritermes/
 
 ## 杆白蚁科 Stylotermitidae（1 属）
@@ -504,16 +339,10 @@
 
 ## 寡脉白蚁科 Termitogetonidae（1 属）
 
-### 寡脉白蚁属 *Termitogeton* — 待补（有 Treatise 线索）
+### 寡脉白蚁属 *Termitogeton* — 已有文献描述
 
-- 原始描述：Termitogeton Desneux, 1904e: 373, 374 [first introduced as a subgenus of Termes Linné, 1758.
-- 模式种：Termes planus Haviland, 1898 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 378, 397 — Termes: “section with T. planus as type”; characters; key.
-  - Desneux, 1904b: 29, 32, 46 — Termes (Termitogeton); reference list; key; characters; species included; distribution.
-  - Escherich, 1909: 176 — Termitogeton; characters.
-  - Ahmad, 1958: 59, 60 — Termitogeton; key.
-  - Chhotani, 1984: 111–113 — Termitogeton; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior.
+- 已据文献补写：Roisin, Y.; Bourguignon, T. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826
+- 定位：Genus Termitogeton: Diagnosis; species account of T. planus
 - 页面：https://isoptera.lifemosaic.net/genus/termitogeton/
 
 ## 异白蚁科 Heterotermitidae（3 属）
@@ -522,16 +351,10 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 异白蚁属 *Heterotermes* — 待补（有 Treatise 线索）
+### 异白蚁属 *Heterotermes* — 已有文献描述
 
-- 原始描述：Heterotermes Froggatt, 1897a: 518, 550.
-- 模式种：Heterotermes platycephalus Froggatt, 1897 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 378, 398 — Termes [section with T. tenuis for type]; characters; key.
-  - Froggatt, 1905: 25 — Heterotermes; characters.
-  - Light, 1930f: 17, 18 — Heterotermes; key.
-  - Light, 1933: 82, 107 — Heterotermes; = Leucotermes; key; remarks.
-  - Snyder, 1934a: 24, 27 — Heterotermes; key.
+- 已据文献补写：Roisin, Y.; Bourguignon, T. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826
+- 定位：Genus Heterotermes: Diagnosis; species accounts of H. vagus and H. paradoxus
 - 页面：https://isoptera.lifemosaic.net/genus/heterotermes/
 
 ### 散白蚁属 *Reticulitermes* — 已有动物志描述
@@ -575,28 +398,16 @@
   - Constantino, 1999a: 406, 417 — Dentispicotermes; key; biology; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/dentispicotermes/
 
-### 镰白蚁属 *Drepanotermes* — 待补（有 Treatise 线索）
+### 镰白蚁属 *Drepanotermes* — 已有文献描述
 
-- 原始描述：Drepanotermes Silvestri, 1909b: 295.
-- 模式种：Termes perniger Froggatt, 1897 (= Termes rubriceps Froggatt, 1897) by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 88, 89–90 — Hamitermes (Drepanotermes); characters; key; species included.
-  - Hill, 1942: 14, 307–310, 367–368 — Hamitermes [part]; Hamitermes (Drepanotermes); key; synonymy; imago, soldier, worker diagnosed. 2114 Bulletin of the American Museum of natural History No. 377
-  - Ratcliffe et al., 1952: 54 — Hamiterme (Drepanotermes); key.
-  - Morimoto, 1975b: 28 — Drepanotermes; key.
-  - Watson and Perry, 1981: 2–12 — Drepanotermes; characters; biology; species included.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 89–90（Untergattung Drepanotermes；Imago unbekannt、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/drepanotermes/
 
-### 漠白蚁属 *Eremotermes* — 待补（有 Treatise 线索）
+### 漠白蚁属 *Eremotermes* — 已有文献描述
 
-- 原始描述：Eremotermes Silvestri, 1911: 108–109.
-- 模式种：Eremotermes indicatus Silvestri, 1911 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 77, 95–96 — Eremotermes; characters; key; species included; systematic position.
-  - Holmgren and Holmgren, 1917: 166 — Eremotermes; characters; relationships.
-  - Snyder, 1934a: 26, 28 — Eremotermes; key.
-  - Lal and Menon, 1953: 37 — Eremotermes; catalog; reference list; key.
-  - Ahmad, 1955b: 219 — Eremotermes; key.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 95–96（Gattung Eremotermes；Imago unbekannt、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/eremotermes/
 
 ### 球白蚁属 *Globitermes* — 已有动物志描述
@@ -641,27 +452,16 @@
   - Hill, 1942: 14, 377–379 — Mirotermes [part]; as genus and subgenus; key; synonymy; imago, soldier, worker diagnosed.
 - 页面：https://isoptera.lifemosaic.net/genus/invasitermes/
 
-### 直颚白蚁属 *Orthognathotermes* — 待补（有 Treatise 线索）
+### 直颚白蚁属 *Orthognathotermes* — 已有文献描述
 
-- 原始描述：Orthognathotermes Holmgren, 1910b: 286 [genus-group name available by indication of available type species].
-- 模式种：Mirotermes macrocephalus Holmgren, 1906 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 97, 98, 118–120 — Orthognathotermes; characters; key; species included; systematic position.
-  - Snyder, 1926e: 70 — Orthognathotermes; characters.
-  - Morimoto, 1975b: 37 — Orthognathotermes; key.
-  - Mathews, 1977: 124–125 — Orthognathotermes; synonymy; characters.
-  - Mill, 1983a: 182, 185 — Orthognathotermes; key; number of species in New World; habitat; distribution.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 118–119（Gattung Orthognathotermes；Imago unbekannt、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/orthognathotermes/
 
-### 前钩白蚁属 *Prohamitermes* — 待补（有 Treatise 线索）
+### 前钩白蚁属 *Prohamitermes* — 已有文献描述
 
-- 原始描述：Prohamitermes Holmgren, 1912a: 76, 78–82.
-- 模式种：Termes mirabilis Haviland, 1898 by subsequent designation; see Snyder, 1949a: 101 [Prohamitermes mirabilis designated as type species].
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1958: 85, 90 — Prohamitermes; key.
-  - Morimoto, 1975b: 30 — Prohamitermes; key.
-  - Collins, 1984: 78 — Prohamitermes; key.
-  - Sornnuwat et al., 2004: 357, 359 — Prohamitermes; key, number of species. Thailand.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 78–79（Gattung Prohamitermes n. g.；Imago、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/prohamitermes/
 
 ### 伪钩白蚁属 *Pseudhamitermes* — 待补（有 Treatise 线索）
@@ -672,110 +472,76 @@
   - Morimoto, 1975b: 29 — Pseudhamitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/pseudhamitermes/
 
-### 同钩白蚁属 *Synhamitermes* — 待补（有 Treatise 线索）
+### 同钩白蚁属 *Synhamitermes* — 已有文献描述
 
-- 原始描述：Synhamitermes Holmgren, 1912a: 91 [first introduced as a subgenus of Hamitermes Silvestri, 1903].
-- 模式种：Amitermes quadriceps Wasmann, 1902 by subsequent designation; see Snyder, 1949a: 129.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Lal and Menon, 1953: 37, 41 — Hamitermes (Synhamitermes); catalog; reference list; key.
-  - Ahmad, 1958: 87, 90 — Synhamitermes; key.
-  - Roonwal and Chhotani, 1962a: 294 — Synhamitermes; key.
-  - Roonwal and Bose, 1964: 8 — Synhamitermes; key.
-  - Chaudhry et al., 1972: 51 — Synhamitermes; characters.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：p. 91（Untergattung Synhamitermes）
 - 页面：https://isoptera.lifemosaic.net/genus/synhamitermes/
 
-### 顺白蚁属 *Acholotermes* — 待补（有 Treatise 线索）
+### 顺白蚁属 *Acholotermes* — 已有文献描述
 
-- 原始描述：Acholotermes Sands, 1972: 139.
-- 模式种：Acholotermes tithasus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 58, 155–157, figs. 457–468, pl. 5: figs. 8–10 — key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 139–141
 - 页面：https://isoptera.lifemosaic.net/genus/acholotermes/
 
-### 虚白蚁属 *Acidnotermes* — 待补（有 Treatise 线索）
+### 虚白蚁属 *Acidnotermes* — 已有文献描述
 
-- 原始描述：Acidnotermes Sands, 1972: 44.
-- 模式种：Acidnotermes praus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 55, 139–141, figs. 391–397, pl. 4: fig. 5 — Acidnotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 44–46
 - 页面：https://isoptera.lifemosaic.net/genus/acidnotermes/
 
-### 尖齿白蚁属 *Acutidentitermes* — 待补（有 Treatise 线索）
+### 尖齿白蚁属 *Acutidentitermes* — 已有文献描述
 
-- 原始描述：Acutidentitermes Emerson, 1959
-- 模式种：Acutidentitermes osborni Emerson, 1959 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 26, 98, 99, pl. 17: fig. 49d — Acutidentitermes; key; characters; worker mandibles figured.
-  - Morimoto, 1975b: 37 — Acutidentitermes; key.
-  - Sands, 1998: 52, 119–120, figs. 322, 323 — Acutidentitermes; key; worker described; worker mandibles figured; biology and economic status; distribution.
+- 已据文献补写：Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.
+- 定位：pp. 20–21（Soldier、Worker）
 - 页面：https://isoptera.lifemosaic.net/genus/acutidentitermes/
 
-### 和白蚁属 *Adaiphrotermes* — 待补（有 Treatise 线索）
+### 和白蚁属 *Adaiphrotermes* — 已有文献描述
 
-- 原始描述：Adaiphrotermes Sands, 1972: 229.
-- 模式种：Adaiphrotermes cunicular Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 53, 171–173, figs. 543–558 — Adaiphrotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 229–231
 - 页面：https://isoptera.lifemosaic.net/genus/adaiphrotermes/
 
-### 谐白蚁属 *Aderitotermes* — 待补（有 Treatise 线索）
+### 谐白蚁属 *Aderitotermes* — 已有文献描述
 
-- 原始描述：Aderitotermes Sands, 1972: 222.
-- 模式种：Aderitotermes fossar Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 54, 169–171, figs. 531–542, pl. 9: figs. 1–5 — Aderitotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 222–223
 - 页面：https://isoptera.lifemosaic.net/genus/aderitotermes/
 
-### 弱白蚁属 *Adynatotermes* — 待补（有 Treatise 线索）
+### 弱白蚁属 *Adynatotermes* — 已有文献描述
 
-- 原始描述：Adynatotermes Sands, 1972: 102.
-- 模式种：Mirotermes (?Procubitermes) moretelae Fuller, 1925 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 58, 146–148, figs. 421–425, pl. 5: fig. 1 — Adynatotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 102–104
 - 页面：https://isoptera.lifemosaic.net/genus/adynatotermes/
 
-### 雅白蚁属 *Aganotermes* — 待补（有 Treatise 线索）
+### 雅白蚁属 *Aganotermes* — 已有文献描述
 
-- 原始描述：Aganotermes Sands, 1972: 135.
-- 模式种：Aganotermes oryctes Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 58, 153–154, figs. 451–456, pl. 5: fig. 7 — Aganotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 135–137
 - 页面：https://isoptera.lifemosaic.net/genus/aganotermes/
 
-### 异颚白蚁属 *Allognathotermes* — 待补（有 Treatise 线索）
+### 异颚白蚁属 *Allognathotermes* — 已有文献描述
 
-- 原始描述：Allognathotermes Silvestri, 1914a: 31–32.
-- 模式种：Allognathotermes hypogeus Silvestri, 1914 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Webb, 1961: 17 — Allognathotermes;key.
-  - Bouillon and Mathot, 1965: 27, 100, 101, pl. 18: fig. 52d — Allognathotermes; key; characters; imago/worker mandibles figured.
-  - Morimoto, 1975b: 37 — Allognathotermes; key.
-  - Sands, 1998: 56, 120–122, figs. 324–332, pl. 3: fig. 6 — Allognathotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.
+- 定位：pp. 25–27（Duplidentitermes 属征中的对比段落）
 - 页面：https://isoptera.lifemosaic.net/genus/allognathotermes/
 
-### 逃白蚁属 *Alyscotermes* — 待补（有 Treatise 线索）
+### 逃白蚁属 *Alyscotermes* — 已有文献描述
 
-- 原始描述：Alyscotermes Sands, 1972: 125.
-- 模式种：Eutermes kilimandjaricus Sjöstedt, 1907 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 57, 150–153, figs. 443–450, pl. 5: figs. 4–6 — Alyscotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 125–127
 - 页面：https://isoptera.lifemosaic.net/genus/alyscotermes/
 
-### 软白蚁属 *Amalotermes* — 待补（有 Treatise 线索）
+### 软白蚁属 *Amalotermes* — 已有文献描述
 
-- 原始描述：Amalotermes Sands, 1972: 47.
-- 模式种：Amalotermes phaeocephalus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 54, 141–143, figs. 398–404, pl. 4: fig. 6 — Amalotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 47–50
 - 页面：https://isoptera.lifemosaic.net/genus/amalotermes/
 
-### 善白蚁属 *Amicotermes* — 待补（有 Treatise 线索）
+### 善白蚁属 *Amicotermes* — 已有文献描述
 
-- 原始描述：Amicotermes Sands, 1972: 152.
-- 模式种：Amicotermes galenus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 58, 162–164, figs. 488–493, pl. 6: figs. 1–8 — Amicotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
-  - Sands, 1999: 150–151 — Amicotermes; characters; discussion; key to species.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 152–154
 - 页面：https://isoptera.lifemosaic.net/genus/amicotermes/
 
 ### 大腿白蚁属 *Amplucrutermes* — 待补（Treatise 无独立条目）
@@ -784,40 +550,28 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/amplucrutermes/
 
-### 无戟白蚁属 *Anaorotermes* — 待补（有 Treatise 线索）
+### 无戟白蚁属 *Anaorotermes* — 已有文献描述
 
-- 原始描述：Anaorotermes Sands, 1972: 184.
-- 模式种：Anaorotermes echinocolon Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 57, 160–162, figs. 481–487, pl. 8: figs. 1–3 — Anaorotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 184–186
 - 页面：https://isoptera.lifemosaic.net/genus/anaorotermes/
 
-### 无甲白蚁属 *Anenteotermes* — 待补（有 Treatise 线索）
+### 无甲白蚁属 *Anenteotermes* — 已有文献描述
 
-- 原始描述：Anenteotermes Sands, 1972: 192.
-- 模式种：Anenteotermes disluctans Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 54, 167–169, figs. 513–530, pl. 8: figs. 6–9 — Anenteotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 192–194
 - 页面：https://isoptera.lifemosaic.net/genus/anenteotermes/
 
-### 解甲白蚁属 *Anoplotermes* — 待补（有 Treatise 线索）
+### 解甲白蚁属 *Anoplotermes* — 已有文献描述
 
-- 原始描述：Anoplotermes Müller, 1873: 347.
-- 模式种：Anoplotermes pacificus Müller, 1873 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Silvestri, 1903: 95–96 — Anoplotermes [part]; characters.
-  - Escherich, 1909: 178 — Anoplotermes; characters.
-  - Holmgren, 1912a: 45 — Anoplotermes [part]; characters; key; species included; systematic position; included in Syntermes-Reihe [ = Nasutitermitinae]; Anoplotermes (Anoplotermes); key; species included.
-  - Banks, 1919: 479 — Anoplotermes; key.
-  - Banks, 1920: 54, 66 — Anoplotermes; key; characters.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 73–74（Gattung Anoplotermes；Imago、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/anoplotermes/
 
-### 疲白蚁属 *Apagotermes* — 待补（有 Treatise 线索）
+### 疲白蚁属 *Apagotermes* — 已有文献描述
 
-- 原始描述：Apagotermes Sands, 1972: 155.
-- 模式种：Apagotermes stolidus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 57, 157–158, figs. 469–474, pl. 6: figs. 9, 10 — Apagotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 155–156
 - 页面：https://isoptera.lifemosaic.net/genus/apagotermes/
 
 ### 弯肠白蚁属 *Aparatermes* — 待补（有 Treatise 线索）
@@ -830,16 +584,10 @@
   - Constantino, 2002a: 26 — Aparatermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/aparatermes/
 
-### 尖白蚁属 *Apicotermes* — 待补（有 Treatise 线索）
+### 尖白蚁属 *Apicotermes* — 已有文献描述
 
-- 原始描述：Apicotermes Holmgren, 1912a: 104–105.
-- 模式种：Apicotermes tragardhi Holmgren, 1912 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fuller, 1921: 23, 25 — Apicotermes; key.
-  - Emerson, 1928b: 408, 420 — Apicotermes; key; distribution.
-  - Emerson, 1953: 102–104 — Apicotermes; synonymy; characters; comparisons; species included.
-  - Webb, 1961: 16 — Apicotermes; key.
-  - Bouillon and Mathot, 1965: 26, 96, 97, pl. 16: fig. 46d — Apicotermes; key; characters; imago/ worker mandibles figured.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 104–105（Gattung Apicotermes n. g.；Imago、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/apicotermes/
 
 ### 和平白蚁属 *Apolemotermes* — 待补（Treatise 无独立条目）
@@ -848,42 +596,34 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/apolemotermes/
 
-### 无剑白蚁属 *Asagarotermes* — 待补（有 Treatise 线索）
+### 无剑白蚁属 *Asagarotermes* — 已有文献描述
 
-- 原始描述：Asagarotermes Sands, 1972: 187.
-- 模式种：Asagarotermes coronatus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 55, 159–160, figs. 475–480, pl. 8: figs. 4, 5 — Asagarotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 187–189
 - 页面：https://isoptera.lifemosaic.net/genus/asagarotermes/
 
-### 无利器白蚁属 *Astalotermes* — 待补（有 Treatise 线索）
+### 无利器白蚁属 *Astalotermes* — 已有文献描述
 
-- 原始描述：Astalotermes Sands, 1972: 51.
-- 模式种：Anoplotermes concilians Silvestri, 1914 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 58, 143–146, figs. 405–420, pl. 4: figs. 7–9 — Astalotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 51–54
 - 页面：https://isoptera.lifemosaic.net/genus/astalotermes/
 
-### 无刃白蚁属 *Astratotermes* — 待补（有 Treatise 线索）
+### 无刃白蚁属 *Astratotermes* — 已有文献描述
 
-- 原始描述：Astratotermes Sands, 1972: 105.
-- 模式种：Astratotermes prosenus Sands, 1972 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 58, 148–150, figs. 426–442, pl. 5: figs. 2, 3 — Astratotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 105–108
 - 页面：https://isoptera.lifemosaic.net/genus/astratotermes/
 
-### 无锐白蚁属 *Ateuchotermes* — 待补（有 Treatise 线索）
+### 无锐白蚁属 *Ateuchotermes* — 已有文献描述
 
-- 原始描述：Ateuchotermes Sands, 1972: 158.
-- 模式种：Ateuchotermes pectinatus Sands, 1972 by original designation. 2013 Krishna ET AL.: isoptera: TERMITIDAE: APICOTERMITINAE 1369
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sands, 1998: 56, 164–166, figs. 494–512, pl. 7: figs. 1–11 — Ateuchotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18: 1–244. doi 10.5962/p.192782.
+- 定位：pp. 158–160
 - 页面：https://isoptera.lifemosaic.net/genus/ateuchotermes/
 
-### 首白蚁属 *Caputitermes* — 待补（Treatise 无独立条目）
+### 首白蚁属 *Caputitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Almeida-Azevedo R.; Acioli A. N. S.; Morais J. W.; Azevedo R. A. 2023. Caputitermes, a new genus of soldierless termite (Blattaria: Isoptera: Termitidae) with dimorphic workers from the Amazon rainforest. Acta Amazonica 53(3): 201–207. https://doi.org/10.1590/1809-4392202202511
+- 定位：Caputitermes, gen. nov. — Description: Imago / Genus diagnosis / Genus description（Acta Amazonica 53(3): 201–207）
 - 页面：https://isoptera.lifemosaic.net/genus/caputitermes/
 
 ### 蔡斯白蚁属 *Chasitermes* — 待补（Treatise 无独立条目）
@@ -908,10 +648,10 @@
   - Sands, 1998: 50, 127–129, figs. 350–357, pl. 4: fig. 1 — Coxotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/coxotermes/
 
-### 间断白蚁属 *Disjunctitermes* — 待补（Treatise 无独立条目）
+### 间断白蚁属 *Disjunctitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Scheffrahn R. H.; Carrijo T. F.; Postle A. C.; Tonini F. 2017. Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicotermitinae) from Guadeloupe and Peru. ZooKeys 665: 71–84. https://doi.org/10.3897/zookeys.665.11599
+- 定位：Disjunctitermes gen. n. — Diagnosis; Imago; Worker（ZooKeys 665: 71–84）
 - 页面：https://isoptera.lifemosaic.net/genus/disjunctitermes/
 
 ### 隐藏白蚁属 *Dissimulitermes* — 待补（Treatise 无独立条目）
@@ -920,14 +660,10 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/dissimulitermes/
 
-### 双齿白蚁属 *Duplidentitermes* — 待补（有 Treatise 线索）
+### 双齿白蚁属 *Duplidentitermes* — 已有文献描述
 
-- 原始描述：Duplidentitermes Emerson, 1959: 24–29.
-- 模式种：Hoplognathotermes furcatidens Sjöstedt, 1924 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 27, 98, 99, pl. 17: fig. 50d — Duplidentitermes; key; characters; worker mandibles figured.
-  - Morimoto, 1975b: 37 — Duplidentitermes; key.
-  - Sands, 1998: 51, 122–124, figs. 333–338, pl. 3: fig. 5 — Duplidentitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.
+- 定位：pp. 25–27（Imago、Soldier、Worker）
 - 页面：https://isoptera.lifemosaic.net/genus/duplidentitermes/
 
 ### 埃博戈白蚁属 *Ebogotermes* — 待补（Treatise 无独立条目）
@@ -951,37 +687,26 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/echinotermes/
 
-### 肠棘白蚁属 *Ekueitermes* — 待补（Treatise 无独立条目）
+### 肠棘白蚁属 *Ekueitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Duran-Bautista E. H.; Celis-Daza F.; Poveda Quezada N. S.; Ortiz-Morea F. A.; Scheffrahn R. H.; Castro D. 2026. Ekueitermes alerosinus, a new genus and species of soldierless termite from Colombia (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1292: 275–292. https://doi.org/10.3897/zookeys.1292.195853
+- 定位：Ekueitermes gen. nov. — Diagnosis; Description: Imago / Worker（ZooKeys 1292: 275–292）
 - 页面：https://isoptera.lifemosaic.net/genus/ekueitermes/
 
 ### 亮白蚁属 *Euhamitermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 宽白蚁属 *Eurytermes* — 待补（有 Treatise 线索）
+### 宽白蚁属 *Eurytermes* — 已有文献描述
 
-- 原始描述：Eurytermes Wasmann, 1902d: 124.
-- 模式种：Eurytermes assmuthi Wasmann, 1902 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Escherich, 1909: 175 — Eurytermes; characters.
-  - Holmgren, 1912a: 76, 77, 82–83 — Eurytermes; characters; key; species included; systematic position.
-  - Snyder, 1934a: 26, 28 — Eurytermes; key.
-  - Lal and Menon, 1953: 37, 38 — Eurytermes; catalog; reference list; key.
-  - Ahmad, 1958: 86, 90 — Eurytermes; key.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 82–83（Gattung Eurytermes；Imago、Soldat、Arbeiter）
 - 页面：https://isoptera.lifemosaic.net/genus/eurytermes/
 
-### 坚白蚁属 *Firmitermes* — 待补（有 Treatise 线索）
+### 坚白蚁属 *Firmitermes* — 已有文献描述
 
-- 原始描述：Firmitermes Sjöstedt, 1926d: 191.
-- 模式种：Firmitermes abyssinicus Sjöstedt, 1926 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Emerson, 1959: 2–7 — Firmitermes; synonymy; imago, soldier described; relationships.
-  - Bouillon and Mathot, 1965: 26, 96, 97, pl. 16: fig. 47c — Firmitermes; key; characters; imago mandibles figured.
-  - Morimoto, 1975b: 37 — Firmitermes; key.
-  - Sands, 1998: 53, 173–175, figs. 559–565, pl. 9: fig. 6 — Firmitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.
+- 定位：pp. 4–6（Imago、Soldier 两节；p. 4 起为 Imago，p. 4 末至 p. 6 为 Soldier）
 - 页面：https://isoptera.lifemosaic.net/genus/firmitermes/
 
 ### 胃白蚁属 *Gastrotermes* — 待补（Treatise 无独立条目）
@@ -1001,39 +726,28 @@
   - Constantino, 2002a: 26 — Grigiotermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/grigiotermes/
 
-### 埃姆白蚁属 *Heimitermes* — 待补（有 Treatise 线索）
+### 埃姆白蚁属 *Heimitermes* — 已有文献描述
 
-- 原始描述：Heimitermes Grassé and Noirot, 1955a: 384–385.
-- 模式种：Heimitermes laticeps Grassé and Noirot, 1955 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Emerson, 1959: 34–37 — Heimitermes; synonymy; soldier, worker described; relationships.
-  - Bouillon and Mathot, 1965: 27, 98, 99, pl. 17: fig. 51f — Heimitermes; key; characters; worker mandibles figured.
-  - Morimoto, 1975b: 37 — Heimitermes; key.
-  - Sands, 1998: 52, 129–131, figs. 358–366, pl. 4: fig. 2 — Heimitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution. Pugnitermes Emerson, 1955: 511 • Pugnitermes; listed [nomen nudum].
+- 已据文献补写：Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.
+- 定位：pp. 34–37（Genus Heimitermes, soldier; worker）
 - 页面：https://isoptera.lifemosaic.net/genus/heimitermes/
 
-### 毛糙白蚁属 *Hirsutitermes* — 待补（Treatise 无独立条目）
+### 毛糙白蚁属 *Hirsutitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Roisin Y.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：Hirsutitermes gen. nov. — Diagnosis; Description: Imago / Worker; Comparison and remarks（ZooKeys 1167: 317–352）
 - 页面：https://isoptera.lifemosaic.net/genus/hirsutitermes/
 
-### 锐颚白蚁属 *Hoplognathotermes* — 待补（有 Treatise 线索）
+### 锐颚白蚁属 *Hoplognathotermes* — 已有文献描述
 
-- 原始描述：Hoplognathotermes Silvestri, 1914a: 25.
-- 模式种：Hoplognathotermes subterraneus Silvestri, 1914 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fuller, 1921: 23 — Hoplognathotermes; key.
-  - Emerson, 1928b: 408, 420 — Hoplognathotermes; key; distribution.
-  - Weidner, 1956b: 65 — Hoplognathotermes; key.
-  - Emerson, 1959: 12–16 — Hoplognathotermes; synonymy; soldier, worker characters; relationships.
-  - Webb, 1961: 17 — Hoplognathotermes; key.
+- 已据文献补写：Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.
+- 定位：p. 13（Imago 未知）、pp. 13–15（Soldier、Worker）
 - 页面：https://isoptera.lifemosaic.net/genus/hoplognathotermes/
 
-### 腐殖白蚁属 *Humutermes* — 待补（Treatise 无独立条目）
+### 腐殖白蚁属 *Humutermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305
+- 定位：Humutermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 20–22)
 - 页面：https://isoptera.lifemosaic.net/genus/humutermes/
 
 ### 海德瑞克白蚁属 *Hydrecotermes* — 待补（Treatise 无独立条目）
@@ -1063,10 +777,10 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/koutabatermes/
 
-### 克雷切克白蚁属 *Krecekitermes* — 待补（Treatise 无独立条目）
+### 克雷切克白蚁属 *Krecekitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：章节 Krecekitermes gen. nov.（Diagnosis / Description）；文章 pp. 317–352
 - 页面：https://isoptera.lifemosaic.net/genus/krecekitermes/
 
 ### 钳白蚁属 *Labidotermes* — 待补（有 Treatise 线索）
@@ -1092,22 +806,22 @@
   - Sands, 1998: 52, 117–119, figs. 311–321, pl. 3: fig. 4 — Machadotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/machadotermes/
 
-### 曼戈尔德白蚁属 *Mangolditermes* — 待补（Treatise 无独立条目）
+### 曼戈尔德白蚁属 *Mangolditermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：章节 Mangolditermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 317–352
 - 页面：https://isoptera.lifemosaic.net/genus/mangolditermes/
 
-### 海胆白蚁属 *Ourissotermes* — 待补（Treatise 无独立条目）
+### 海胆白蚁属 *Ourissotermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. https://doi.org/10.3897/zookeys.1167.100001
+- 定位：章节 Ourissotermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 317–352
 - 页面：https://isoptera.lifemosaic.net/genus/ourissotermes/
 
-### 帕塔瓦白蚁属 *Patawatermes* — 待补（Treatise 无独立条目）
+### 帕塔瓦白蚁属 *Patawatermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305
+- 定位：Patawatermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 23–26 per journal pagination; treatment text read from Zenodo deposit)
 - 页面：https://isoptera.lifemosaic.net/genus/patawatermes/
 
 ### 锐白蚁属 *Phoxotermes* — 待补（有 Treatise 线索）
@@ -1128,10 +842,10 @@
   - Sands, 1998: 50, 135–137, figs. 374–381, pl. 4: fig. 4 — Rostrotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/rostrotermes/
 
-### 变红白蚁属 *Rubeotermes* — 待补（Treatise 无独立条目）
+### 变红白蚁属 *Rubeotermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305
+- 定位：Rubeotermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 27–30)
 - 页面：https://isoptera.lifemosaic.net/genus/rubeotermes/
 
 ### 腹爆白蚁属 *Ruptitermes* — 待补（有 Treatise 线索）
@@ -1145,10 +859,10 @@
   - Constantino, 2002a: 26 — Ruptitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/ruptitermes/
 
-### 拉斯特白蚁属 *Rustitermes* — 待补（Treatise 无独立条目）
+### 拉斯特白蚁属 *Rustitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Castro D., Constantini J.P., Scheffrahn R.H., Carrijo T.F. & Cancello E.M. 2020. Rustitermes boteroi, a new genus and species of soldierless termites (Blattodea, Isoptera, Apicotermitinae) from South America. ZooKeys 922: 35–49. https://doi.org/10.3897/zookeys.922.47347
+- 定位：章节 Rustitermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 35–49
 - 页面：https://isoptera.lifemosaic.net/genus/rustitermes/
 
 ### 谢弗拉恩白蚁属 *Scheffrahnitermes* — 待补（Treatise 无独立条目）
@@ -1210,10 +924,10 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/triclavitermes/
 
-### 黄汁白蚁属 *Tucupitermes* — 待补（Treatise 无独立条目）
+### 黄汁白蚁属 *Tucupitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Almeida-Azevedo R.; Acioli A. N. S.; Heleodoro R.; Morais J. W.; Brown G. G.; Kille P.; Cunha L.; Azevedo R. A. 2025. Tucupitermes, the largest Apicotermitinae (Isoptera, Termitidae) from the Amazon Rainforest. Zootaxa 5633(1): 186–194. https://doi.org/10.11646/zootaxa.5633.1.11
+- 定位：Tucupitermes gen. nov. — Description: Imago / Genus Diagnosis / Genus Description (Worker) / Digestive tube（Zootaxa 5633: 187–191）
 - 页面：https://isoptera.lifemosaic.net/genus/tucupitermes/
 
 ### 响白蚁属 *Crepititermes* — 待补（有 Treatise 线索）
@@ -1274,16 +988,10 @@
   - Morimoto, 1975b: 37 — Crenetermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/crenetermes/
 
-### 方白蚁属 *Cubitermes* — 待补（有 Treatise 线索）
+### 方白蚁属 *Cubitermes* — 已有文献描述
 
-- 原始描述：Cubitermes Wasmann, 1906: 573.
-- 模式种：Termes bilobatus Haviland, 1898 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 378, 410 — Termes; “section with T. bilobatus for type”; characters; key.
-  - Escherich, 1909: 177 — Cubitermes; characters.
-  - Wasmann, 1911c: 149–150, 151 — Cubitermes; key; characters.
-  - Holmgren, 1912a: 107, 108 — Mirotermes (Cubitermes); key; species included.
-  - Fuller, 1921: 21, 22, 27 — Cubitermes; key.
+- 已据文献补写：Josens G.; Deligne J. 2019. Species groups in the genus Cubitermes (Isoptera: Termitidae) defined on the basis of enteric valve morphology. European Journal of Taxonomy 515: 1–72.
+- 定位：pp. 23–27
 - 页面：https://isoptera.lifemosaic.net/genus/cubitermes/
 
 ### 真唇白蚁属 *Euchilotermes* — 待补（有 Treatise 线索）
@@ -1321,12 +1029,10 @@
   - Sands, 1998: 35, 222–224, figs. 932–954, pl. 12: figs. 3, 4 — Furculitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/furculitermes/
 
-### 等颚白蚁属 *Isognathotermes* — 待补（有 Treatise 线索）
+### 等颚白蚁属 *Isognathotermes* — 已有文献描述
 
-- 原始描述：Isognathotermes Sjöstedt, 1926d: 216 [junior subjective synonym of Cubitermes Wasmann, 1906].
-- 模式种：Eutermes (Cubitermes) minitabundus Sjöstedt, 1913 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Webb, 1961: 13 — Isognathotermes; key.
+- 已据文献补写：Josens G. et al. 2025. An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies. European Journal of Taxonomy 1024: 1–197.
+- 定位：pp. 11–27
 - 页面：https://isoptera.lifemosaic.net/genus/isognathotermes/
 
 ### 鳞白蚁属 *Lepidotermes* — 待补（有 Treatise 线索）
@@ -1534,22 +1240,16 @@
   - Bouillon and Mathot, 1965: 22, 84, 85, pl. 10: fig. 24b — Cephalotermes; key; characters; imago/ worker mandibles figured.
 - 页面：https://isoptera.lifemosaic.net/genus/cephalotermes/
 
-### 圆筒白蚁属 *Cylindrotermes* — 待补（有 Treatise 线索）
+### 圆筒白蚁属 *Cylindrotermes* — 已有文献描述
 
-- 原始描述：Cylindrotermes Holmgren, 1906: 542.
-- 模式种：Cylindrotermes nordenskioldi Holmgren, 1906 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 77, 86–87 — Cylindrotermes; characters; key; species included; systematic position.
-  - Morimoto, 1975b: 28 — Cylindrotermes; key.
-  - Mathews, 1977: 103 — Cylindrotermes; synonymy; characters.
-  - Mill, 1983a: 182, 185 — Cylindrotermes; key; number of species in New World; habitat; distribution.
-  - Nickle and Collins, 1992: 225, 227, 228 — Cylindrotermes; key; characters.
+- 已据文献补写：Da Rocha M. M.; Cancello E. M. 2007. Estudo taxonômico de Cylindrotermes Holmgren (Isoptera, Termitidae Termitinae). Papéis Avulsos de Zoologia 47(10): 137–152.
+- 定位：pp. 141–142
 - 页面：https://isoptera.lifemosaic.net/genus/cylindrotermes/
 
-### 恩格尔白蚁属 *Engelitermes* — 待补（Treatise 无独立条目）
+### 恩格尔白蚁属 *Engelitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Romero Arias J., Hellemans S., Kaymak E., Akama P.D., Bourguignon T., Roisin Y., Scheffrahn R.H. & Šobotník J. 2024. Mitochondrial phylogenetics position a new Afrotropical termite species into its own subfamily, the Engelitermitinae (Blattodea: Termitidae). Systematic Entomology 49: 72–83. https://doi.org/10.1111/syen.12607
+- 定位：pp. 78–79（Engelitermes gen. n.: Description / Diagnosis）
 - 页面：https://isoptera.lifemosaic.net/genus/engelitermes/
 
 ### 孔白蚁属 *Foraminitermes* — 待补（有 Treatise 线索）
@@ -1740,14 +1440,10 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/krishnacapritermes/
 
-### 唇扭白蚁属 *Labiocapritermes* — 待补（有 Treatise 线索）
+### 唇扭白蚁属 *Labiocapritermes* — 已有文献描述
 
-- 原始描述：Labiocapritermes Krishna, 1968
-- 模式种：Capritermes distortus Silvestri, 1922 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 31 — Labiocapritermes; key.
-  - Bose, 1984: 101, 103, 158 — Labiocapritermes; key; synonymy.
-  - Chhotani, 1997: 358–359 — Labiocapritermes; synonymy; characters; distribution and composition.
+- 已据文献补写：Amina P.; Rajmohana K. 2025. A taxonomic review of the Indian endemic genus Labiocapritermes Krishna, 1968 (Blattodea: Isoptera: Termitidae) with description of two new species from Kerala, India. Journal of Insect Biodiversity and Systematics 11(4): 1013–1026.
+- 定位：p. 1014（Results: Genus Labiocapritermes — Diagnosis. Soldier / Diagnosis. Worker；Remarks）；种级测量见 p. 1015 起检索表与各种记述
 - 页面：https://isoptera.lifemosaic.net/genus/labiocapritermes/
 
 ### 瘤白蚁属 *Mirocapritermes* — 待补（有 Treatise 线索）
@@ -1789,10 +1485,10 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 丽娜扭白蚁属 *Rinacapritermes* — 待补（Treatise 无独立条目）
+### 丽娜扭白蚁属 *Rinacapritermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Amina P., Rajmohana K., Dinesh K.P. & Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae: Termitinae) with two new species from India. Zoosystema 44(3): 109–124. https://doi.org/10.5252/zoosystema2022v44a3
+- 定位：pp. 111–112（Morphological diagnosis / Description / Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/rinacapritermes/
 
 ### 华扭白蚁属 *Sinocapritermes* — 已有动物志描述
@@ -1935,16 +1631,10 @@
   - Sands, 1998: 44, 278–281, figs.1380–1393, pl. 17: fig. 7 — Baucaliotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/baucaliotermes/
 
-### 瓢白蚁属 *Bulbitermes* — 待补（有 Treatise 线索）
+### 瓢白蚁属 *Bulbitermes* — 已有文献描述
 
-- 原始描述：Bulbitermes Emerson, 1949j: 377.
-- 模式种：Termes constrictus Haviland, 1898 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 379, 426 — Termes “section with T. singaporiensis for type”; characters; key.
-  - Ahmad, 1958: 86, 89 — Bulbitermes; key.
-  - Ahmad, 1965: 7, 8 — Bulbitermes; key; synonymy; distribution. Thailand.
-  - Chaudhry et al., 1972: 59 — Bulbitermes; characters.
-  - Akhtar, 1975: 59, 61 — Bulbitermes; key.
+- 已据文献补写：Syaukani; Thompson G. J. 2011. Taxonomic notes on Nasutitermes and Bulbitermes (Termitidae, Nasutitermitinae) from the Sunda region of Southeast Asia based on morphological and molecular characters. ZooKeys 148: 135–160.
+- 定位：Discussion, section 'Soldier of Bulbitermes' 与 'On identifying Nasutitermes and Bulbitermes'；Results, Species descriptions（四种 Bulbitermes 的 Soldier / Workers 段）与 Key 1
 - 页面：https://isoptera.lifemosaic.net/genus/bulbitermes/
 
 ### 林白蚁属 *Caetetermes* — 待补（有 Treatise 线索）
@@ -2020,28 +1710,16 @@
   - Constantino, 2002a: 12 — Coendutermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/coendutermes/
 
-### 缩白蚁属 *Constrictotermes* — 待补（有 Treatise 线索）
+### 缩白蚁属 *Constrictotermes* — 已有文献描述
 
-- 原始描述：Constrictotermes Holmgren, 1910c: 206, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes cyphergaster Silvestri, 1901 by subsequent designation; see Snyder, 1949a: 318.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 60, 62, 65 — Constrictotermes; key; species included.
-  - Snyder, 1926e: 44 — Constrictotermes; characters; discussion.
-  - Morimoto, 1975b: 27 — Constrictotermes; key.
-  - Mathews, 1977: 193–195 — Constrictotermes; synonymy; characters; relationships.
-  - Mill, 1983a: 182, 186 — Constrictotermes; key; number of species in New World; habitat; distribution.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：pp. 59–62（Übersicht der Untergattungen：Imagines 与 Soldaten 检索表）；p. 65（亚属名录第 14 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/constrictotermes/
 
-### 凸白蚁属 *Convexitermes* — 待补（有 Treatise 线索）
+### 凸白蚁属 *Convexitermes* — 已有文献描述
 
-- 原始描述：Convexitermes Holmgren, 1910c: 205, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes convexifrons Holmgren, 1906 by subsequent designation; see Snyder, 1949a: 342.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 59, 60, 64 — Eutermes (Convexitermes) key; species included.
-  - Snyder, 1926e: 33 — Convexitermes; characters; discussion.
-  - Morimoto, 1975b: 20, 23 — Convexitermes; key.
-  - Mathews, 1977: 242 — Convexitermes; synonymy; characters.
-  - Mill, 1983a: 182, 189 — Convexitermes; key; number of species in New World; habitat; distribution.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：p. 59（Imagines 检索表 B/aa/bb/e）；p. 60（Soldaten 检索表 aa/b/c/d）；p. 64（亚属名录第 7 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/convexitermes/
 
 ### 利颚白蚁属 *Cortaritermes* — 待补（有 Treatise 线索）
@@ -2059,36 +1737,22 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 巨鼻白蚁属 *Cyranotermes* — 待补（有 Treatise 线索）
+### 巨鼻白蚁属 *Cyranotermes* — 已有文献描述
 
-- 原始描述：Cyranotermes Araujo, 1970c: 365.
-- 模式种：Cyranotermes timuassu Araujo, 1970 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mathews, 1977: 239 — Cyranotermes; synonymy; characters; comparisons.
-  - Mill, 1983a: 182, 189 — Cyranotermes; key; number of species in New World; habitat; distribution.
-  - Fontes, 1987b: 503–531 — Cyranotermes; worker mandibles described and figured.
-  - Constantino, 1999a: 401, 414 — Cyranotermes; key; biology; distribution.
-  - Constantino, 2002a: 12 — Cyranotermes; key.
+- 已据文献补写：Constantino R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448. https://doi.org/10.11606/0031-1049.1997.40.p387-448
+- 定位：Chave para soldados, casal 14（p. 387–448）；图 101–102
 - 页面：https://isoptera.lifemosaic.net/genus/cyranotermes/
 
-### 歧白蚁属 *Diversitermes* — 待补（有 Treatise 线索）
+### 歧白蚁属 *Diversitermes* — 已有文献描述
 
-- 原始描述：Diversitermes Holmgren, 1912a: 60, 61, 64 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes diversimilis Silvestri, 1901 by subsequent designation, see Snyder, 1949a: 306.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Snyder, 1926e: 35 — Diversitermes [part]; characters; discussion.
-  - Morimoto, 1975b: 24 — Diversitermes; key.
-  - Mathews, 1977: 179–180 — Diversitermes; synonymy; characters.
-  - Mill, 1983a: 183, 188 — Diversitermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 401, 413 — Diversitermes; key; biology; distribution.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：p. 60（Imagines 检索表 bb/e/dd）；p. 61（Soldaten 检索表 aaa/b/e）；p. 64（亚属名录第 9 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/diversitermes/
 
-### 木象白蚁属 *Diwaitermes* — 待补（有 Treatise 线索）
+### 木象白蚁属 *Diwaitermes* — 已有文献描述
 
-- 原始描述：Diwaitermes Roisin and Pasteels, 1996: 583.
-- 模式种：Nasutitermes (Subulitermes) orientis Snyder, 1925 by original designation [orientis synonymized with Eutermes kanehirae Oshima, 1914 by Roisin and Pasteels, 1996].
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 202–205 — Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed.
+- 已据文献补写：Roisin Y. & Pasteels J.M. 1996. The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy 10: 507–616. https://doi.org/10.1071/IT9960507
+- 定位：p. 583（Genus Diwaitermes, gen. nov.：Imago / Soldier / Worker / Comparisons）；Abstract 见 p. 507
 - 页面：https://isoptera.lifemosaic.net/genus/diwaitermes/
 
 ### 埃莉诺白蚁属 *Eleanoritermes* — 待补（有 Treatise 线索）
@@ -2130,62 +1794,38 @@
   - Constantino, 2002a: 14 — Ereymatermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/ereymatermes/
 
-### 小真白蚁属 *Eutermellus* — 待补（有 Treatise 线索）
+### 小真白蚁属 *Eutermellus* — 已有文献描述
 
-- 原始描述：Eutermellus Silvestri, 1912a: 243–244.
-- 模式种：Eutermellus convergens Silvestri, 1912 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 59, 60, 64 — Eutermellus; key; species included.
-  - Sjöstedt, 1926d: 290, 358 — Eutermellus; reference list; key.
-  - Emerson, 1928b: 407, 420 — Nasutitermes (Eutermellus); key; distribution.
-  - Webb, 1961: 10 — Eutermellus; key.
-  - Bouillon and Mathot, 1965: 34, 114, 115, pl. 25: fig. 80c — Eutermellus; key; characters; imago/ worker mandibles figured.
+- 已据文献补写：Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228
+- 定位：p. 141（Genus Eutermellus Silvestri：Imago / Soldier / Worker；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/eutermellus/
 
-### 富勒白蚁属 *Fulleritermes* — 待补（有 Treatise 线索）
+### 富勒白蚁属 *Fulleritermes* — 已有文献描述
 
-- 原始描述：Fulleritermes Coaton, 1962a: 151–154.
-- 模式种：Eutermes contractus Sjöstedt, 1913 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 35, 114, 115, pl. 25: fig. 83c — Fulleritermes; key; characters; imago/ worker mandibles figured.
-  - Sands, 1965c: 13, 14, 55 — Fulleritermes; key; characters; discussion; ecology; key to species.
-  - Bouillon and Mathot, 1966: 2, 5 — Fulleritermes; key; species included.
-  - Harris, 1968c: 5 — Fulleritermes; key.
-  - Coaton and Sheasby, 1972: 25, 95, 97, 101, figs. 24C–D, 57, pl. 21 — Fulleritermes; soldier figured; key; ecology; biology; distribution. Namibia.
+- 已据文献补写：Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228
+- 定位：pp. 55–56（Genus Fulleritermes Coaton：Imago / Soldier；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/fulleritermes/
 
-### 高跷白蚁属 *Grallatotermes* — 待补（有 Treatise 线索）
+### 高跷白蚁属 *Grallatotermes* — 已有文献描述
 
-- 原始描述：Grallatotermes Holmgren, 1912a: 61, 62, 65 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Termes (Eutermes) grallator Desneux, 1905 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Light, 1930f: 16, 17, 19 — Grallatotermes; key; remarks.
-  - Snyder, 1934a: 25, 28 — Nasutitermes (Grallototermes); key.
-  - Light and Wilson, 1936: 467, 476 — Grallatotermes; key.
-  - Hill, 1942: 14, 202–205 — Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed.
-  - Lal and Menon, 1953: 36 — Eutermes (Grallototermes); key.
+- 已据文献补写：Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228
+- 定位：p. 55（Genus Grallatotermes Holmgren：Imago / Soldier；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/grallatotermes/
 
-### 多毛白蚁属 *Hirtitermes* — 待补（有 Treatise 线索）
+### 多毛白蚁属 *Hirtitermes* — 已有文献描述
 
-- 原始描述：Hirtitermes Holmgren, 1912a: 59, 60, 62 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes (Hirtitermes) hirtiventris Holmgren, 1912 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1958: 88 — Hirtitermes; key.
-  - Ahmad, 1971: 27–28 — Hirtitermes; synonymy; generic characters; relationships; distribution.
-  - Morimoto, 1975b: 23 — Hirtitermes; key.
-  - Collins, 1984: 77 — Hirtitermes; key.
-  - Gathorne-Hardy, 2001: 1503 — Hirtitermes; key.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：p. 60（Soldaten 检索表 A 群说明及 a/b 支）；p. 62（亚属名录第 1 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/hirtitermes/
 
 ### 须白蚁属 *Hospitalitermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 森林白蚁属 *Hyleotermes* — 待补（Treatise 无独立条目）
+### 森林白蚁属 *Hyleotermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Cuezzo C., Scheffrahn R.H. & Constantino R. 2022. Revised systematic position of Nasutitermes brevipilus Emerson, 1925 (Isoptera: Termitidae: Nasutitermitinae) and the designation of Hyleotermes gen. nov. Zootaxa 5195(1): 73–86. https://doi.org/10.11646/zootaxa.5195.1.4
+- 定位：p. 78（Hyleotermes gen. nov.: Diagnosis / Description）
 - 页面：https://isoptera.lifemosaic.net/genus/hyleotermes/
 
 ### 考登白蚁属 *Kaudernitermes* — 待补（有 Treatise 线索）
@@ -2195,26 +1835,16 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/kaudernitermes/
 
-### 怒白蚁属 *Lacessititermes* — 待补（有 Treatise 线索）
+### 怒白蚁属 *Lacessititermes* — 已有文献描述
 
-- 原始描述：Lacessititermes Holmgren, 1912
-- 模式种：Termes lacessitus Haviland, 1898 by subsequent designation; see Snyder, 1949a: 315.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Haviland, 1898: 379, 431 — Termes “section with T. lacessitus for type”; characters; key.
-  - Bathellier, 1927: 172, 173 — Eutermes (Lacessititermes); key.
-  - Light, 1930f: 17, 19 — Lacessititermes; key.
-  - Light and Wilson, 1936: 467 — Lacessititermes; key.
-  - Ahmad, 1958: 86, 88 — Lacessititermes; key.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：p. 60（Imagines 检索表 C/a）；p. 61（Soldaten 检索表 B/bb/aa/b）；p. 65（亚属名录第 18 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/lacessititermes/
 
-### 薄喙白蚁属 *Leptomyxotermes* — 待补（有 Treatise 线索）
+### 薄喙白蚁属 *Leptomyxotermes* — 已有文献描述
 
-- 原始描述：Leptomyxotermes Sands, 1965c: 51.
-- 模式种：Eutermes doriae Silvestri, 1912 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1966: 2 — Leptomyxotermes; key.
-  - Morimoto, 1975b: 27 — Leptomyxotermes; key.
-  - Sands, 1998: 42, 272–274, figs. 1334–1350, pl. 17: fig. 4 — Leptomyxotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228
+- 定位：p. 51（Leptomyxotermes gen. n.：imago / Soldier；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/leptomyxotermes/
 
 ### 白脸白蚁属 *Leucopitermes* — 待补（有 Treatise 线索）
@@ -2228,16 +1858,10 @@
   - Gathorne-Hardy, 2004: 128 — Leucopitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/leucopitermes/
 
-### 长足白蚁属 *Longipeditermes* — 待补（有 Treatise 线索）
+### 长足白蚁属 *Longipeditermes* — 已有文献描述
 
-- 原始描述：Longipeditermes Holmgren, 1912a: 60, 62, 65 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Termes longipes Haviland, 1898 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1958: 86, 88 — Longipeditermes; key.
-  - Morimoto, 1975b: 25 — Longipeditermes; key.
-  - Collins, 1984: 77 — Longipeditermes; key.
-  - Gathorne-Hardy, 2001: 1501 — Longipeditermes; key.
-  - Sornnuwat et al., 2004: 358, 359 — Longipeditermes; key, number of species. Thailand.
+- 已据文献补写：Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.
+- 定位：p. 60（Imagines 检索表 aa 项后附注）；p. 62（Soldaten 检索表 B/bb/bb/c）；p. 65（亚属名录第 16 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/longipeditermes/
 
 ### 大锥白蚁属 *Macrosubulitermes* — 待补（有 Treatise 线索）
@@ -2267,16 +1891,10 @@
   - Gathorne-Hardy, 2004: 128 — Malaysiotermes; key. Aciculioiditermes Ahmad, 1968: 19. Type species: Aciculioiditermes holmgreni Ahmad, 1968 by original designation.
 - 页面：https://isoptera.lifemosaic.net/genus/malaysiotermes/
 
-### 仿白蚁属 *Mimeutermes* — 待补（有 Treatise 线索）
+### 仿白蚁属 *Mimeutermes* — 已有文献描述
 
-- 原始描述：Mimeutermes Silvestri, 1914a: 47–48.
-- 模式种：Mimeutermes giffardi Silvestri, 1914 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sjöstedt, 1926d: 290, 359 — Mimeutermes; reference list; key.
-  - Webb, 1961: 10 — Mimeutermes; key.
-  - Bouillon and Mathot, 1965: 33, 112, 113, pl. 24: fig. 75c — Mimeutermes; key; characters; imago/ worker mandibles figured.
-  - Sands, 1965d: 14, 15, 134, 135 — Mimeutermes; key; characters; ecology; key to species.
-  - Bouillon and Mathot, 1966: 3 — Mimeutermes; key.
+- 已据文献补写：Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228
+- 定位：p. 158（Genus Mimeutermes Silvestri：Imago / Soldier / Worker；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/mimeutermes/
 
 ### 米勒白蚁属 *Muelleritermes* — 待补（Treatise 无独立条目）
@@ -2285,15 +1903,10 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/muelleritermes/
 
-### 鸟嘴白蚁属 *Mycterotermes* — 待补（有 Treatise 线索）
+### 鸟嘴白蚁属 *Mycterotermes* — 已有文献描述
 
-- 原始描述：Mycterotermes Sands, 1965c: 75.
-- 模式种：Mycterotermes meringocephalus Sands, 1965 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1966: 3 — Mycterotermes; key; species included.
-  - Morimoto, 1975b: 26 — Mycterotermes; key.
-  - Chhotani and Bose, 1991: 263 — Mycterotermes; key.
-  - Sands, 1998: 27, 43, 284–286, figs. 1428–1434 — Mycterotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228
+- 定位：p. 75（Mycterotermes gen. n.：Imago / Soldier；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/mycterotermes/
 
 ### 棘象白蚁属 *Nasopilotermes* — 待补（有 Treatise 线索）
@@ -2446,20 +2059,20 @@
   - Gathorne-Hardy, 2004: 127 — Sabahitermes; key. Snootitermes Gathorne-Hardy, 2001: 1491–1492. Type species: Snootitermes leuserensis Gathorne-Hardy, 2001 by original designation.
 - 页面：https://isoptera.lifemosaic.net/genus/sabahitermes/
 
-### 桑兹白蚁属 *Sandsitermes* — 待补（Treatise 无独立条目）
+### 桑兹白蚁属 *Sandsitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Cuezzo C.; Cancello E. M.; Carrijo T. F. 2017. Sandsitermes gen. nov., a new nasute termite genus from South America (Isoptera, Termitidae, Nasutitermitinae). Zootaxa 4221(5): 562–574. https://doi.org/10.11646/zootaxa.4221.5.5
+- 定位：Genus Sandsitermes, new genus — Diagnosis; Description: Imago / Soldier / Worker（Zootaxa 4221: 563–569）
 - 页面：https://isoptera.lifemosaic.net/genus/sandsitermes/
 
 ### 华象白蚁属 *Sinonasutitermes* — 已有动物志描述
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 鼻大白蚁属 *Sinqasapatermes* — 待补（Treatise 无独立条目）
+### 鼻大白蚁属 *Sinqasapatermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Cuezzo C.; Nickle D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9. https://doi.org/10.3897/zookeys.159.2311
+- 定位：Sinqasapatermes gen. n. — Diagnosis; Description: Imago / Soldier / Worker / Mandibles / Digestive tube（ZooKeys 159: 1–9）
 - 页面：https://isoptera.lifemosaic.net/genus/sinqasapatermes/
 
 ### 匙白蚁属 *Spatulitermes* — 待补（有 Treatise 线索）
@@ -2518,10 +2131,10 @@
   - Mill, 1983a: 183, 188 — Tenuirostritermes; key; number of species in New World; habitat; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/tenuirostritermes/
 
-### 暗鼻白蚁属 *Tiunatermes* — 待补（Treatise 无独立条目）
+### 暗鼻白蚁属 *Tiunatermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Carrijo T.F., Cuezzo C. & Santos R.G. 2015. Tiunatermes mariuzani gen. nov. et sp. nov., a new nasute termite from the Brazilian savannah (Isoptera: Termitidae). Austral Entomology 54: 358–365. https://doi.org/10.1111/aen.12137
+- 定位：pp. 359–360（Genus Tiunatermes gen. nov.: Description / Comparisons）
 - 页面：https://isoptera.lifemosaic.net/genus/tiunatermes/
 
 ### 三角白蚁属 *Triangularitermes* — 待补（有 Treatise 线索）
@@ -2608,10 +2221,10 @@
   - Constantino, 1998a: 110–111 — Planicapritermes; synonymy; characters.
 - 页面：https://isoptera.lifemosaic.net/genus/planicapritermes/
 
-### 不对称白蚁属 *Schievitermes* — 待补（Treatise 无独立条目）
+### 不对称白蚁属 *Schievitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Roisin Y. 2022. Schievitermes globicornis, a new genus and species of Termitinae (Blattodea, Termitidae) from French Guiana. ZooKeys 1125: 103–114. https://doi.org/10.3897/zookeys.1125.91124
+- 定位：Schievitermes gen. nov. — Description: Imago / Soldier / Worker; Diagnosis: Soldier / Worker（ZooKeys 1125: 103–114）
 - 页面：https://isoptera.lifemosaic.net/genus/schievitermes/
 
 ### 角白蚁属 *Angulitermes* — 待补（有 Treatise 线索）
@@ -2666,11 +2279,10 @@
   - Morimoto, 1975b: 17 — Sphaerotermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/sphaerotermes/
 
-### 漏斗白蚁属 *Acangaobitermes* — 待补（有 Treatise 线索）
+### 漏斗白蚁属 *Acangaobitermes* — 已有文献描述
 
-- 原始描述：Acangaobitermes Rocha, Cancello and Cuezzo, 2011: 127–129.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125–134.
+- 定位：pp. 127–129
 - 页面：https://isoptera.lifemosaic.net/genus/acangaobitermes/
 
 ### 戟白蚁属 *Armitermes* — 待补（有 Treatise 线索）
@@ -2918,16 +2530,10 @@
   - Hill, 1942: 14, 377–379 — Mirotermes [as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed.
 - 页面：https://isoptera.lifemosaic.net/genus/cristatitermes/
 
-### 双戟白蚁属 *Dihoplotermes* — 待补（有 Treatise 线索）
+### 双戟白蚁属 *Dihoplotermes* — 已有文献描述
 
-- 原始描述：Dihoplotermes Araujo, 1961: 108.
-- 模式种：Dihoplotermes inusitatus Araujo, 1961 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1968: 310–312 — Dihoplotermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Morimoto, 1975b: 30 — Dihoplotermes; key.
-  - Mathews, 1977: 140 — Dihoplotermes; synonymy; characters.
-  - Mill, 1983a: 181, 182 — Dihoplotermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 406, 418 — Dihoplotermes; key; biology; distribution.
+- 已据文献补写：Azevedo R. A. de; Dambros C. de S.; Morais J. W. de 2019. A new termite species of the genus Dihoplotermes Araújo (Blattaria, Isoptera, Termitidae) from the Brazilian Amazonian rainforest. Acta Amazonica 49(1): 17–23.
+- 定位：pp. 18–21
 - 页面：https://isoptera.lifemosaic.net/genus/dihoplotermes/
 
 ### 迪维努白蚁属 *Divinotermes* — 待补（有 Treatise 线索）

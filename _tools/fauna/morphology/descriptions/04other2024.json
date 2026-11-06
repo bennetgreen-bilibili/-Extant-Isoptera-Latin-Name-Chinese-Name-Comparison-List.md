@@ -1,0 +1,340 @@
+{
+  "/genus/firmitermes/": {
+    "zh_name": "坚白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁与 Hoplognathotermes 近缘，头形无属级差别，但头面、后颏及前足基节的毛被远较丰富，后颏全长具横皱，上唇宽而圆、无侧角与尖突，上颚基部短粗；有翅成虫仅凭暂定归属的“Eutermes” tripolitanus 描述，其左上颚第三缘齿的比例远大于任何已知的原始白蚁亚科或弓白蚁亚科属。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "以下属征以“Eutermes” tripolitanus 暂归入本属为前提。两上颚端齿较 Hoplognathotermes 与 Acutidentitermes 工蚁者更小、更细，且更靠近第一缘齿；左上颚端齿与第一缘齿的夹角较锐；左颚第一、二缘齿的实际长度与 Acutidentitermes 相近，但第三缘齿前的缺刻较不锐，第三缘齿的端缘较长（Acutidentitermes 者明显凸而短）；第三缘齿的比例远大于任何已知的原始白蚁亚科或弓白蚁亚科属；左上颚第三缘齿与磨板之间的凹脊下有 2 个小突起，其间的缘凹入（Acutidentitermes 在基磨板下只有 1 个突起）；右上颚第一缘齿在与端齿相接的角附近有退化的副齿痕迹；第二缘齿前后缘均凹，而 Acutidentitermes 者凸钝、前后缘近直；右上颚基板上缘的凹入弱于 Acutidentitermes。前胫各具 3 距，中、后胫各 2 距。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头面、头顶、两侧及后颏散布多数短毛与刚毛，而 Hoplognathotermes subterraneus 与 Acutidentitermes osborni 头面刚毛极少、后颏近于无毛。前足基节端部平凸段的剖面可见 3–4 根刚毛，基部锐凸段的剖面有少量刚毛与短毛，纵脊圆钝，转动基节时可见若干极短毛。头形与 Hoplognathotermes 无属级差别，前部较平，无显著脊或瘤突；囟小而不显。后颏中部缢缩、两侧相当凹（略深于 Hoplognathotermes），全长具一系列不明显的横皱；而 H. subterraneus 仅后部有横皱，A. osborni 后颏呈球状且无横皱。上唇比例上宽如 H. subterraneus，但边缘较圆，无后者或 A. osborni 的侧角与尖突。后唇基明显，与额部之间的缝未消失。上颚基部比例短粗，外缘相当强凸，端部与基部分界处无 Hoplognathotermes 或 Acutidentitermes 那样的角状缺刻；端突较二者短、粗，外缘更弯；模式标本齿基已断，齿形不可知，但右上颚端缘与齿之间的小缺刻示其夹角近于 H. subterraneus 而不同于 A. osborni 较锐的角；基部的齿状突不明显或缺失。前胸背板较 H. subterraneus 小而窄，前叶同样大，前缘中凹同样小而浅；前叶与后部之间的侧观夹角不如 H. subterraneus 锐，近于平凹。前足基节无突起，纵脊相当圆钝，不如 H. subterraneus 锐而长；脊的剖面自转节区至中部平凸、向基部外角转平凹。前胫具 3 端距，外距极短，需仔细拨动方可见；中、后胫各 2 距。"
+      }
+    ],
+    "source": {
+      "id": "S0034",
+      "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+      "locator": "pp. 4–6（Imago、Soldier 两节；p. 4 起为 Imago，p. 4 末至 p. 6 为 Soldier）"
+    },
+    "note": "原文以“?Firmitermes”暂定归属，有翅成虫属征随之带有条件性，改写时保留该前提。原文无工蚁属级记述。据英文属征改写，非逐字翻译。"
+  },
+  "/genus/hoplognathotermes/": {
+    "zh_name": "锐颚白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫未知。兵蚁头大、两侧直而平行，额腺区剖面平或微凹，头面仅额腺开口附近有极少数短刚毛、后颏近裸；左右上颚各具 1 枚位于中点之前的显著前指大缘齿，左颚齿具长基切缘；足与前足基节均较 Duplidentitermes 长；胫距 3:2:2，中胫无深色外刺。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头面仅在额腺开口附近有极少数相当短的散生刚毛；前足基节无强刺，仅有少量细刚毛，不构成特殊排列；前 4 腹背板具短毛或刚毛，后部背板与腹板另有短毛。头大，两侧直而平行；额腺区剖面平或微凹。后颏大，中度缢缩，剖面微凸。触角 15 节。后唇基明显、微拱；上唇侧缘圆，侧角之后两侧直而平行，端部圆钝。左右上颚各具 1 枚位于中点之前的显著、大、前指的缘齿；左颚齿具长的基切缘（与 Firmitermes 不同）。前胸背板前叶较大，前缘中央凹陷浅而不明显。足较 Duplidentitermes 长；前足基节亦较长，简单，纵脊钝而未特化，剖面直或平凸，自端部延伸至基节约 1/3–1/2，脊与内缘之间凸。股节细，中部近等粗。胫距 3:2:2，中胫无深色外刺。"
+      },
+      {
+        "label": "工蚁",
+        "text": "两上颚端齿仅略大于第一缘齿；左颚第一、二缘齿的切缘长而起伏较小（较 Duplidentitermes 及其他近缘白蚁亚科属平直）；第一、二缘齿与第三缘齿之间有显著缺刻；与 Acutidentitermes 相比，两颚第一缘齿较不向前指，端齿与第一缘齿间夹角较钝，左颚第一、二缘齿切缘比例略短。"
+      }
+    ],
+    "source": {
+      "id": "S0034",
+      "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+      "locator": "p. 13（Imago 未知）、pp. 13–15（Soldier、Worker）"
+    },
+    "note": "有翅成虫在原文中明确记为未知。据英文属征改写，非逐字翻译。"
+  },
+  "/genus/acutidentitermes/": {
+    "zh_name": "尖齿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Hoplognathotermes 近缘而兵蚁可别：头部硕大、两侧微凸而近平行；后颏更呈球状，侧缘重叠遮蔽侧缝；后唇基与额之间的缝远不明显；上唇具较锐的侧尖与中尖；上颚前指齿更长、更尖、更前指；前胸背板前叶更大更长，前缘中凹更深更宽；前足股节相对长而细。有翅成虫未知。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头面仅少数相当短的刚毛，囟附近无刚毛；后颏完全无毛、无刚毛；前 4 腹背板具相当长的刚毛，几无短毛，后部背板与腹板另有短毛。头硕大，两侧微凸而近平行，囟较小。后颏较 Hoplognathotermes 更呈球状，后部侧缘重叠，腹视时除近后缘处外侧缝被遮蔽；后颏后部无横脊。触角 15 节。后唇基与额部之间的缝远不如 Hoplognathotermes 明显。上唇具较锐的侧尖与中尖。左右上颚均具显著的前指齿，但较 Hoplognathotermes 更长、更尖、更前指；上颚近端外弯较弱；端部与基部分界处侧面的缺刻较不显著。前胸背板前叶较 Hoplognathotermes 更大更长，前缘中凹更显著、更宽，后缘更凹。前足基节简单，纵脊钝、中等锐，剖面直或微凸，无粗刺；前足股节相对长而细。胫距 3:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚与 Hoplognathotermes 的差别为：两颚端齿与第一缘齿之间的夹角更锐；左颚第一、二缘齿的切缘比例略长；右上颚臼区上脊更锐、更凹。"
+      }
+    ],
+    "source": {
+      "id": "S0034",
+      "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+      "locator": "pp. 20–21（Soldier、Worker）"
+    },
+    "note": "模式种仅知兵蚁与工蚁，原文未记述有翅成虫。据英文属征改写，非逐字翻译。"
+  },
+  "/genus/duplidentitermes/": {
+    "zh_name": "双齿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Hoplognathotermes、Allognathotermes 近缘；兵蚁左右上颚各具 1 枚大型双尖齿，是与近缘属最显著的差别；触角 13–14 节；前足股节短粗、中部等粗；前足基节锐脊上具 9–11 根成列的显著刚毛。有翅成虫与工蚁上颚亦具相应特征。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "前足基节轮廓具若干短毛及长短刚毛；中胫无外侧对比刺。囟白色、三角形，仅略小于单眼。上颚大体与工蚁者相似：端齿比例较 Hoplognathotermes 大；左上颚自端尖至第一缘齿尖的距离大于第一缘齿尖至第三缘齿尖的距离；左颚第一、二缘齿的切缘呈波状；右上颚第二缘齿退化为一小丘（与 Allognathotermes 同）。中、后胸背板后缘深凹，凹角锐于直角。前足基节具锐纵脊，剖面平凸，脊峰偏向基端而非位于脊中部。胫距 3:2:2，前胫外距短而显著退化。前后翅 Sc 均短，紧接基缝之后即并入前缘。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头部硕大，前面较平；额腺开口附近无毛簇；大上唇前端的刚毛散生，不似 Apicotermes 成簇；前足基节锐脊上具 9–11 根显著刚毛排成 1 列，向内缘弯曲并回弯向端部，包绕基节端半部内一近卵形的平区。前胫内侧具数枚特化不强的刺；中胫无外侧对比刺。后颏前部比例较近缘属大，最窄处距前缘约为其长度的 5/6–6/7，侧缝全长可见。触角 13–14 节，与 Allognathotermes 相似（Firmitermes 14 节，Hoplognathotermes 与 Acutidentitermes 15 节）。后唇基与额部之间的缝可见，但不如 Firmitermes 与 Hoplognathotermes 明显。上唇最宽处在明显的侧角（Firmitermes 上唇侧缘凸，Hoplognathotermes 两侧平行而侧角钝，Acutidentitermes 两侧平行并微凹、端部更尖，Allognathotermes 最宽处较圆）。左右上颚各具 1 枚大型双尖齿，据此与全部近缘属显著不同。前足基节纵脊显著、锐，剖面平缓均匀凸出，自端部延伸约基节之半，较 Hoplognathotermes 更拱更显，而与 Allognathotermes 很相似，仅因向内侧微弯延伸而略更明显。前足股节短粗，两侧平行、中部等粗；前胫略膨大。胫距 3:2:2，前胫外距比例短（与 Hoplognathotermes 同）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚特征与有翅成虫相似；前足基节脊较 Hoplognathotermes 工蚁更拱、更突出。"
+      }
+    ],
+    "source": {
+      "id": "S0034",
+      "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+      "locator": "pp. 25–27（Imago、Soldier、Worker）"
+    },
+    "note": "原文以与 Hoplognathotermes、Allognathotermes 的对比给出属征。据英文属征改写，非逐字翻译。"
+  },
+  "/genus/eremotermes/": {
+    "zh_name": "漠白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫未知（仅知若虫）。兵蚁头形如 Mirotermes，短柱状，具一明显而圆的额突，其下为相当大的囟孔；上唇三角形而非二裂；上颚长杆状、对称，中部具 1 枚内向并微后指的锐齿；触角 14 节；前胸背板鞍形，腹部很粗、近球形，足短，胫节 2 端距。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头如 Mirotermes，短柱状，具一明显、圆钝的额突，额突之下为相当大的囟孔；头被毛，囟周围毛较密；额在额突之下向前平缓下降。囟腺很大，向后伸达颈后。上唇三角形（不似 Mirotermes 的二裂）。上颚长杆状，端部仅微内弯，左右对称；中部具 1 枚向内并略向后指的锐齿；上颚基部很长，与其余部分等长；基部与颚体本部之界以外缘的小折角标示；磨区呈台阶状、四方形。触角 14 节。前胸背板鞍形。腹部很粗、几近球形，腹侧如膨大的袋状翅伸出；足短；胫节 2 端距；尾须短，无针突。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头粗，宽卵形；囟很靠后；后唇基基片长等于其宽度之半，相当强隆起；上颚第一齿略大于第二齿；触角相对短、节密，14 节；前胸背板鞍形，腹部相当粗。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 95–96（Gattung Eremotermes；Imago unbekannt、Soldat、Arbeiter）"
+    },
+    "note": "原文记有翅成虫未知，仅有若虫（触角 14 节、头卵形、囟很靠后、后唇基基片长约为其宽度之半、左上颚第一齿略大于第二齿）。德文属征据 OCR 文本改写，专有术语按昆虫形态学通行译法。"
+  },
+  "/genus/drepanotermes/": {
+    "zh_name": "镰白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "体型相对较大；有翅成虫未知。兵蚁头长方形、平凸，后唇基二叶状，上唇卵形而略尖，上颚很长、强烈镰状弯曲且细，几在中部具 1 枚垂直于内缘的长而斜截的齿；触角 17 节；前胫 3 端距。工蚁头大、宽卵形，囟与矢状缝很显著，后唇基很大而隆起，触角 18 节。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "体型相对较大；体色多少较深。头长方形，平凸；囟不明显；眼后有浅色眼斑。后唇基二叶状。上唇卵形，略尖。上颚很长，强烈呈镰状弯曲，细窄，几在中部具 1 枚长、垂直于内缘、斜截的齿。触角 17 节，节伸长；第 2 节长等于第 3、4 节之和。前胸背板略窄于头，同色；其余背板略浅。足长；前胫具 3 端距。"
+      },
+      {
+        "label": "工蚁",
+        "text": "与兵蚁同大或稍大，体色相同，足长。头大、宽卵形；囟非常明显；矢状缝非常明显，横缝不明显；单眼有痕迹。触角后具浅色眼斑。后唇基很大、隆起，边缘浅色；上唇宽大于长，色浅。触角 18 节，第 2 节长等于第 3、4 节之和，第 3 节明显长于第 4 节，第 5 节略长于第 3 节。前胸背板远较头窄。前胫具 3 端距。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 89–90（Untergattung Drepanotermes；Imago unbekannt、Soldat、Arbeiter）"
+    },
+    "note": "原文以 HAMITERMES 的亚属提出（Untergattung Drepanotermes），属征按兵蚁与工蚁给出，有翅成虫未知。德文属征据 OCR 文本改写，非逐字翻译。"
+  },
+  "/genus/orthognathotermes/": {
+    "zh_name": "直颚白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫未知（若虫触角 17 节）。兵蚁头长方形、相当平凸、额平；额隆与囟均缺；触角根上方的触角脊具一相当大而圆钝的瘤状加宽；上唇短，长宽约相等，舌形但侧角略圆突（弱三叶状）；左右上颚对称，中部具中齿；触角 15 节；前胸背板鞍形。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头长方形，相当平凸，额平；额隆与囟均缺；触角根上方具一相当大、圆钝、瘤状的触角脊加宽。上唇短，长约等于宽，舌形，但侧角略圆钝地突出（弱三叶状）。上颚左右对称；基部很宽，向前以相当长的部分过渡到上颚中部，基部与中部过渡处具齿的痕迹；上颚在中点之前略呈膝状外弯，弯曲处为中齿；端部内弯；右上颚端部上面略凹。触角 15 节。前胸背板鞍形。"
+      },
+      {
+        "label": "工蚁",
+        "text": "后唇基长约等于其宽度之半，隆起；上颚第一齿大；触角 14 节。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 118–119（Gattung Orthognathotermes；Imago unbekannt、Soldat、Arbeiter）"
+    },
+    "note": "有翅成虫未知，原文据若虫记触角 17 节、后唇基基片略短于其宽度之半、上颚第一齿大。德文属征据 OCR 文本改写，非逐字翻译。"
+  },
+  "/genus/synhamitermes/": {
+    "zh_name": "同钩白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫未知。兵蚁头长方形，长大于宽；上颚短，具 1 枚后指的齿；后唇基简单、非二叶状；囟不明显；触角 13–14 节。工蚁后唇基大，触角 13–14 节。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头长方形，长大于宽；上颚短，具 1 枚向后指的齿；后唇基简单，不呈二叶状；囟不明显；触角 13–14 节。"
+      },
+      {
+        "label": "工蚁",
+        "text": "后唇基大；触角 13–14 节。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "p. 91（Untergattung Synhamitermes）"
+    },
+    "note": "原文以 HAMITERMES 的亚属提出（Untergattung Synhamitermes），且属征极简（兵蚁 4 项、工蚁 2 项），此处照录，不补充原文未写的内容。"
+  },
+  "/genus/eurytermes/": {
+    "zh_name": "宽白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫头近圆形、向前直线收窄，额相当强隆起，复眼小而强烈突出，囟明显而很靠后（故中部横带相当长）；触角 15 节（或 14 节），第 3 节明显短于第 2 节。兵蚁头粗、长方形，无眼，头缝不可见，囟几不显；上唇三角形，上颚相当短而粗壮，左颚中点之前具 1 枚大而强壮的前指齿；触角很细，14 节。工蚁头卵形、长几不逾宽。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头近圆形，向前直线收窄；额相当强隆起；复眼小，强烈突出；单眼较小，与复眼相距约其直径，内缘略隆起。囟明显，很靠后，故中部横带相当长。后唇基基片相当隆起，长等于其宽度之半或略短，后界相当强地呈弓形。上唇中部几不宽于基部，无几丁质横带。上颚具 Termes 式武装，基部不很发达。触角 15 节，第 3 节远短于第 2 节并略短于第 4 节（或 14 节，此时第 3 节与第 2 节等长）。前胸背板较头窄、小，前缘直、仅微上折；中、后胸背板仅呈很窄的三角形凹刻；后角尖而不圆。前翅鳞仅略长于后翅鳞；翅被细毛；前翅中脉直接自翅鳞发出（异常时自径分脉），后翅中脉自径分脉发出；中脉较肘脉更近径分脉。尾须短，无针突。雌性密被泌腺毛，雄性亦有而较稀。前胫具 3 端距。体型相当细长。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头粗，长方形；无眼；头缝不可见；囟几乎不显；后唇基短。上唇三角形，相当短，无透明端尖。上颚相当短而粗壮；左颚在中点之前具 1 枚大而强壮的前指齿，其基侧有齿的痕迹；右上颚具 1 枚略钝的齿。触角很细，14 节，第 2 节仅略长于第 5 节。前胸背板几不达头宽之半，具大的前叶。尾须短，无针突。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头卵形，长几不逾宽，凸；额在其上方凹入。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 82–83（Gattung Eurytermes；Imago、Soldat、Arbeiter）"
+    },
+    "note": "兵蚁后段与工蚁段在 OCR 中受双栏错行影响，仅取可连续辨读的句子，残缺处不补写。德文属征改写，非逐字翻译。"
+  },
+  "/genus/prohamitermes/": {
+    "zh_name": "前钩白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫与兵蚁、工蚁均知。有翅成虫头宽卵形，复眼大而平凸、不突出，单眼与额面同高，囟明显而相当靠后，后唇基基片远短于其宽度之半；触角 15 节。兵蚁头卵形、向前微收窄，无眼，囟极弱，上唇近三角形而无透明端尖，上颚镰状弯曲、中部每侧具 2 个小齿，亚颏中部强烈驼峰状隆起；触角 14 节；前胫 3 距、中后胫各 2 距。工蚁后唇基基片透镜状、相当强隆起，触角 14 节。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头（相当）宽，卵形，略长于宽；复眼相当大，平凸，不突出；单眼与额面同高（内缘不隆起），与复眼距离小于其直径；囟明显，相当靠后。后唇基基片远短于其宽度之半，后界仅微凸，前缘直，近于平。上唇中部宽于基部，无几丁质横带。上颚具 Termes 式武装，基部不过度突出。触角 15 节，第 3 节短于第 2 节而与第 4 节等长。前胸背板小，鞍形极弱，前缘直；中胸背板后缘的凹刻较后胸宽；后角圆。前翅鳞略长于后翅鳞；翅被细毛；前翅中脉直接自翅鳞发出，后翅中脉自径分脉发出。尾须短，无针突；去翅个体不大于兵蚁；雌性后腹侧缘细密纵皱；两性泌腺毛均相当稀疏；胫节第 3 端距退化。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头卵形，向前微收窄，平凸，向前至上唇处变平；无眼；头缝不可见。囟极弱，约在头中部；囟腺小。后唇基短而平。上唇近三角形，无透明端尖。上颚镰状弯曲，锐尖，基部大，中部相当短，端部长，其基部略呈齿状加宽；中部两侧各具 2 个小齿；基部两侧各具 1 个小磨瘤，较宽。触角 14 节，第 3 节仅微长于第 2 节，第 2 节略长于第 4 节。亚颏中部强烈驼峰状（或泡状）隆起。前胸背板相当小，鞍形很强（几成直角）上折，前叶与后部等长；尾须短，无针突。前胫具 3 端距，中、后胫各 2 端距。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头卵形，在触角处最宽；囟相当靠后。后唇基基片透镜状，短于其宽度之半，相当强隆起。左上颚具齿的内缘缩短，磨区强度突出，约如 Hamitermes。触角 14 节，第 2 节与第 3 节等长并略长于第 4 节。前胸背板鞍形强，前叶长于后部。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 78–79（Gattung Prohamitermes n. g.；Imago、Soldat、Arbeiter）"
+    },
+    "note": "原文以新属（n. g.）发表，三个品级均有属征。德文属征改写，非逐字翻译。"
+  },
+  "/genus/anoplotermes/": {
+    "zh_name": "解甲白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁完全缺。有翅成虫头很宽、通常密被毛，复眼小而突出，囟位于很后或头中部；触角恒为 15 节，第 3 节短得多；翅暗色、被毛并具刺；胫节 2 端距。工蚁似 Eutermes 工蚁，后唇基强隆起，触角恒为 14 节，头多色浅、囟不明显。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头很宽，通常密被毛，复眼小而突出；囟或很靠后，或位于头中部；单眼中等大，与复眼的距离不一；后唇基基片几乎总是至少与其宽度之半等长（A. iheringi 例外），通常强隆起；横带中部较两侧长；上颚具 1 枚大端齿，略延长；触角恒 15 节，第 3 节通常远短于相邻节；脑大。前胸背板如 Eutermes；中、后胸背板后缘多少深凹；翅暗色、被毛并具刺，脉序如 Eutermes；胫节 2 端距；腹部延长，雌性两侧具泌腺毛。"
+      },
+      {
+        "label": "工蚁",
+        "text": "似 Eutermes 工蚁；后唇基强隆起，长等于甚至大于其宽度之半；触角恒 14 节，第 3 节多短于相邻节；头多色浅，囟不明显。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 73–74（Gattung Anoplotermes；Imago、Soldat、Arbeiter）"
+    },
+    "note": "原文明确记兵蚁完全缺，故本属只有有翅成虫与工蚁两节。此为新热带属，非洲的“Anoplotermes”已被拆出，故非洲区文献（Sands 1972）不含本属属征。"
+  },
+  "/genus/apicotermes/": {
+    "zh_name": "尖白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫在原文中仅翅可知：前翅前缘与径分脉之间基部异常宽，径脉甚发达并发出 1–2 条前支，中脉 6–8 支，肘脉约 14 条密列脉。兵蚁头延长、长方形，长约宽的 1.5 倍，额平并略呈三角形凹陷，囟小、明显、周围无毛；上颚短而很强壮；触角 14 节；前足基节具前向的齿状突起。工蚁头很宽、近圆形、色浅，后唇基基片很大而强隆起，触角 15 节，前足基节具大的齿状突起。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "前翅：前缘与径分脉之间的区在基部异常宽；此区内径脉异常发达，甚至发出 1–2 条伸向前缘的前支；径分脉基部有时具 1 条短前脉，并具后端的端支；中脉自翅鳞独立发出，具 6–8 支；肘脉约 14 条密列脉，均达翅后缘，其中内侧 8–9 条略被遮盖；径分脉与中脉之间的区明显呈网状。后翅：径脉较前翅者短；中脉在内 1/3 具较粗的前副脉，向翅端或后缘发出 4–5 支；肘脉约 16 条后支；其余同前翅。翅面尤其基部暗色、细点状；前翅长 12.5 mm。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头延长，长方形，长约宽的 1.5 倍，向前仅极微收窄，相对较平；额平，略呈三角形凹陷；囟小但明显，周围无毛。后唇基基片与额部界线不明显，顶片较小。上唇较宽、舌形，具一短、圆、白色、被毛的端部。上颚短而很强壮，端部相当强地内弯；左颚端部与中部具 3 个齿瘤，最外者最大，约位于上颚端部的中段；基部大，具一强基瘤；右颚中部具 2 个弱齿瘤，臼角短小，其后的基部具 1 枚小的前指残齿。触角 14 节，第 3 节约为第 2 节之半，第 4 节略短于第 2 节。前胸背板淡黄硬化，较头窄，浅鞍形，前叶大，前、后缘微凹。腹部可见深色肠内容物；尾须短，无针突；前足基节具一前向的齿状突起。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头（很）宽，近圆形，色浅；囟板约在头中部；后唇基基片很大、很强隆起，长等于其宽度之半；上颚第一齿大于第二齿，但不大；触角 15 节，第 3 节短；前胸背板前叶很大，鞍形；尾须小，无针突。"
+      }
+    ],
+    "source": {
+      "id": "S0033",
+      "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+      "locator": "pp. 104–105（Gattung Apicotermes n. g.；Imago、Soldat、Arbeiter）"
+    },
+    "note": "原文仅有翅成虫的翅可供描述（“Imago: Nur die Flügel sind vorhanden”），头体特征无从记述。Emerson (1959: 26) 在对比中另记本属兵蚁大上唇前端刚毛成簇，可补一项。"
+  },
+  "/genus/allognathotermes/": {
+    "zh_name": "异颚白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Hoplognathotermes、Duplidentitermes 近缘。兵蚁上颚的齿较二者不显著，但左颚具 2 枚分离较开的齿，似与 Duplidentitermes 的双尖齿同源；前足基节脊与 Duplidentitermes 很相似，仅因向内侧微弯延伸而略更明显；前足股节短粗，与 Duplidentitermes 同，而明显不同于 Firmitermes、Hoplognathotermes 与 Acutidentitermes 细长的前足股节。有翅成虫右上颚第二缘齿退化为小丘。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "右上颚第二缘齿退化为一小丘，与 Duplidentitermes 相同。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "上颚的齿较 Hoplognathotermes 与 Duplidentitermes 不显著，但左颚具 2 枚分离较开的齿，似与 Duplidentitermes 左颚的双尖齿同源。前足基节纵脊很似 Duplidentitermes，仅因有一微弯的内向延伸而略更明显。前足股节短粗，与 Duplidentitermes 同；而 Firmitermes、Hoplognathotermes、Acutidentitermes 者细长。"
+      }
+    ],
+    "source": {
+      "id": "S0034",
+      "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+      "locator": "pp. 25–27（Duplidentitermes 属征中的对比段落）"
+    },
+    "note": "本机全文（Emerson 1956）对该属只有种级描述与系统位置讨论，无独立属级形态志；Emerson 1959 亦未单列该属，属征散见于 Duplidentitermes 属征的对比句，故此处仅收录这些明确针对 Allognathotermes 的属级比较特征，不补充、不外推。"
+  },
+  "/genus/heimitermes/": {
+    "zh_name": "埃姆白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫未知。兵蚁头厚而硕大，两侧直、平行或平凸，后唇基基部与额腺开口之间有明显而较深的凹窝；后颏最宽处在下颚基部之后，向后收缢；上颚短粗、端部微钩，每颚在中点稍前有 1 枚小齿；前胸背板侧缘与后缘外张，前缘宽而均匀微凸、无中凹；前足基节锐纵脊具长而显著的乳头状突；胫距 2:2:2，前胫外上表面有白色圆斑。工蚁上颚端齿大，左上颚第一、第二缘齿与第三缘齿之间有深缺刻，右上颚第二缘齿小。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头厚而硕大，具分散刚毛，额部与两侧较密，囟附近有少数短毛；两侧直、平行或平凸；后唇基基部与额腺开口之间有一明显且较深的凹窝；头部侧面在额腺区弯曲，近头顶处略呈球状膨大。后颏最宽处在下颚基部之后，最宽处两侧圆，向后渐直并收缢，凹入的后缘之前有一小缢；后颏侧缝除前部外全长可见。后唇基明显，宽六边形，与头前部之间有清晰分缝。上唇具白色端区，基部两侧近平行，通常下弯，明显短于后唇基，宽约为后唇基的 1/3。上颚短粗，端部微钩；每颚在中点稍前有 1 枚小齿，另在腹面突出的粗壮基部的端部有 1 枚小齿，此齿不与端齿至中齿的切缘连续，而位于小磨板前方、形成一条略独立的钝切缘。前胸背板侧缘与后缘略外张，前缘宽而均匀微凸，无明显的凹缺或刻痕，侧缘圆，后缘中部凹且下陷。前足基节锐纵脊上有一很长而显著的乳头状突，端部圆；该突比 Coxotermes 的粗壮而短，基部面更凹。前足股节中部与 Coxotermes 等粗。胫距 2:2:2；前胫外上表面各有一白色圆斑，或为退化外端距的基部。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚的主要属级特征为：端齿相对第一缘齿很大；左上颚第一、第二缘齿与第三缘齿之间有明显缺刻；右上颚第二缘齿小。前足基节的锐纵脊上有一显著三角形突，但不如兵蚁的那样呈齿状。"
+      }
+    ],
+    "source": {
+      "id": "S0034",
+      "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+      "locator": "pp. 34–37（Genus Heimitermes, soldier; worker）"
+    },
+    "note": "原文明确写有翅成虫未知；工蚁仅上颚与前一足基节有属级记述，其余按原文照录，不据近缘属（Coxotermes、Duplidentitermes）补写。"
+  }
+}

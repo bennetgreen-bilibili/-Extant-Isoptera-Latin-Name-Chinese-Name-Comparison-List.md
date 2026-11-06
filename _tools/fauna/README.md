@@ -107,11 +107,19 @@ PASS 需同时满足：与原文连续相同片段 < 30 字符、8-gram containm
   抽取 326 个属的原始描述出处、模式种，以及 Treatise 标注为含 characters / key / diagnosis 的参考文献，
   写入 `_data/genus_sources.json`（键为 `/genus/<slug>/`）。
 - **Treatise 不是描述正文**：它只登记原始发表信息、模式种和文献线索。不要把它的文献注记改写成形态描述。
-- `_includes/genus-morphology.html` 只在 `_data/fauna_genera.json` 没有该属条目时渲染占位：显示原始描述出处与模式种，
-  并明确写「描述待补」。已有《中国动物志》属级描述的 35 个属不走这个占位。
+- `_tools/fauna/morphology/descriptions/*.json` 是人工核对后写成的中文属级描述，按页面 URL 归档；
+  `build_krishna_descriptions.py` 合并为 `_data/morphology_genera.json`，每条含分品级正文与来源 id、locator。
+  单条来源可写成 `source: {id, citation, locator}`，多条写成 `sources: [{...}]`；两种都受支持。
+- `_includes/genus-morphology.html` 的三层逻辑：`_data/fauna_genera.json` 已有《中国动物志》描述 → 不重复；
+  否则 `_data/morphology_genera.json` 有改写稿 → 渲染描述与来源；两者都没有 → 占位，显示原始描述出处与模式种。
+- 物种 / 亚种页由 `_layouts/species.html` 统一挂 `_includes/species-morphology.html`，数据在
+  `_data/morphology_species.json`（键为 `/species/<slug>/`）。已有《中国动物志》记载的 435 个种/亚种不重复；
+  其余先显示三语待补说明并链接属页。单型属可据属级描述生成种级条目，但须在 `note` 写明是属级描述。
 - `_tools/fauna/morphology/build_worklist.py` 生成 `_reports/genus-morphology-worklist.md` 与 `.csv`：
-  326 属中 35 属已有描述、291 属待补，其中 46 属在 Treatise 中没有独立条目。
+  截至 2026-11-07：326 属中 35 属已有《中国动物志》描述、87 属已补文献描述、204 属待补，其中 38 属在 Treatise 中没有独立条目；
+  `build_species_worklist.py` 生成 `_reports/species-morphology-worklist.{md,csv}`。
 - 补写顺序：先取原始发表或属级修订，核对模式种与品级，再据原文改写；每篇用到的文献按 `AGENTS.md` 存档。
+  不要把属级描述直接冒充种级描述（单型属例外，且须注明）。
 
 ### 原书表的历史残缺（书表已撤下，仅留档）
 

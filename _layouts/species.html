@@ -47,6 +47,8 @@ layout: default
   {%- assign fauna = site.data.fauna_species[page.url] -%}
   {%- if fauna %}{% include fauna-species.html fauna=fauna %}{% endif %}
 
+  {% include species-morphology.html %}
+
   {% include species-gallery.html %}
   {% include distribution-map.html mode="species" %}
   {% include species-authority.html %}
