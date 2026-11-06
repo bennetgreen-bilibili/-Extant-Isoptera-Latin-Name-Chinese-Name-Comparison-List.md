@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 73,
+    "count": 80,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T07:00:56+08:00",
+    "updated": "2026-11-07T07:06:03+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -1446,15 +1446,37 @@
           "quote": "Frontal tube conical and upturned, in profile, apex with a relatively wide aperture surrounded by a white membrane. Antennae with 14 articles. Piercing slender mandibles; blade strongly curved inwards and upturned; a very small tooth at the base of the blade",
           "locator": "p. 127, Soldier",
           "note": "支撑：额管、触角与刺吸式上颚"
+        },
+        {
+          "quote": "Soldiers of Cahuallitermes have straighter cutting mandibles, with well-developed marginal teeth; a well-developed hyaline tip to the labrum; and a larger body size.",
+          "locator": "Comparisons with other genera of Syntermitinae",
+          "note": "支撑：兵蚁切缘上颚较直、缘齿发达、上唇具发达透明端，体型较大。"
+        },
+        {
+          "quote": "and the frontal tube cylindrical and elongate in Cyrilliotermes",
+          "locator": "Comparisons with other genera of Syntermitinae",
+          "note": "支撑：兵蚁额管圆柱状、 elongate（与 Curvitermes 的钩状端齿相对）。"
+        },
+        {
+          "quote": "Paracurvitermes has a broader head capsule with well developed conical and shorter frontal tube than",
+          "locator": "Comparisons with other genera of Syntermitinae",
+          "note": "支撑：兵蚁头囊较宽，额管圆锥形、较短。"
+        },
+        {
+          "quote": "the mandibles are much longer, less curved with triangular teeth, very different from the new genus",
+          "locator": "Comparisons with other genera of Syntermitinae",
+          "note": "支撑：上颚更长、弯曲度较小、具三角形齿。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json",
         "_tools/fauna/morphology/descriptions/acangaobitermes2011.json"
       ],
-      "accessed": "2026-11-07T03:32:33+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.3897/zookeys.148.1278",
-      "id": "S0023"
+      "id": "S0023",
+      "notes": "access: ZooKeys OA 全文；对 Cahuallitermes 等属只有比较性属征，无完整属描述。license: CC BY 3.0。"
     },
     {
       "title": "Species groups in the genus Cubitermes (Isoptera: Termitidae) defined on the basis of enteric valve morphology",
@@ -1641,20 +1663,77 @@
           "quote": "The mesenteric tongue is long but not inflated.",
           "locator": "Hirsutitermes gen. nov., Diagnosis",
           "note": "mesenteric tongue"
+        },
+        {
+          "quote": "EVA Cuticle between cushions without scales; EVS trilobed [see Pinzón et al. (2019)]",
+          "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 14 (Aparatermes 分支)",
+          "note": "支撑：工蚁肠瓣（EVA）垫间角质无鳞片、肠瓣座（EVS）三叶，为检索表中界定 Aparatermes 的组合特征。"
+        },
+        {
+          "quote": "Mesenteric tongue short (drop shaped), not spheroidal (Fig. 6B, C)",
+          "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 12",
+          "note": "支撑：中肠舌短、滴状，而非球形或延长。"
+        },
+        {
+          "quote": "the mesenteric tongue (MT, mixed segment) morphology, that is elongated in the new genus and short in Aparatermes",
+          "locator": "Comparison and remarks (Mangolditermes)",
+          "note": "支撑：中肠舌（混合段）短（Mangolditermes 为延长）。"
+        },
+        {
+          "quote": "EVA with the pointed scales in the proximal portion of the cushions in Mangolditermes and towards the central portion of the cushion in Aparatermes",
+          "locator": "Comparison and remarks (Mangolditermes)",
+          "note": "支撑：肠瓣垫上的尖鳞位于垫的中央部。"
+        },
+        {
+          "quote": "Distal end of EVA armature pads ringed by unevenly arranged spines; EVS short",
+          "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 19 (Grigiotermes 分支)",
+          "note": "支撑：肠瓣垫末端刺排列不齐、肠瓣座短。"
+        },
+        {
+          "quote": "EVA armature resembling a continuous (spines on cuticle between cushions) wreath of hundreds of tiny and thin spines (Figs 9A–C, 11H)",
+          "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 15",
+          "note": "支撑：肠瓣武装为覆盖垫间角质的连续花环状、数百枚细小薄刺。"
+        },
+        {
+          "quote": "Enteric valve seating trilobed (Fig. 6C; see Bourguignon et al. 2010)",
+          "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 16 (Longustitermes 分支)",
+          "note": "支撑：肠瓣座三叶，与 Hirsutitermes（管状）区分。"
+        },
+        {
+          "quote": "Longustitermes is smaller in size and has a trilobed EVS, while Hirsutitermes has a tubular",
+          "locator": "Comparison and remarks (Hirsutitermes)",
+          "note": "支撑：体型较小、肠瓣座三叶（Hirsutitermes 为管状）。"
+        },
+        {
+          "quote": "the anterior portion of the cushions is more rounded in the latter than pyriform in the former",
+          "locator": "Comparison and remarks (Hirsutitermes)",
+          "note": "支撑：肠瓣垫前部较圆（Hirsutitermes 为梨形）。"
+        },
+        {
+          "quote": "Ruptitermes does not present armature in the EVA, except for R.bandeirai",
+          "locator": "Comparison and remarks (Dissimulitermes)",
+          "note": "支撑：肠瓣（EVA）无武装，仅 R. bandeirai 例外。"
+        },
+        {
+          "quote": "Fore tibia with long “scooped out” excavation [see Fontes (1986)]",
+          "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 2 (Tetimatermes 分支)",
+          "note": "支撑：工蚁前胫节具长勺状凹槽，为检索表中识别本属的唯一特征。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/05-gaps.json"
+        "_tools/fauna/morphology/descriptions/05-gaps.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
       ],
       "notes": "全文由检索子智能体下载到 _tmp/lit/pdfs/ 后读取；_tmp 不发布，摘录与 locator 见 evidence。",
-      "accessed": "2026-11-07T03:57:34+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.3897/zookeys.1167.100001",
       "id": "S0027",
-      "license": "CC BY 4.0"
+      "license": "CC BY 4.0",
+      "publisher": "Pensoft Publishers"
     },
     {
-      "title": "Rustitermes boteroi, a new genus and species of soldierless termites (Blattodea, Isoptera, Apicotermitinae) from South America",
+      "title": "Rustitermes boteroi, a new genus and species of soldierless termites (Isoptera: Termitidae: Apicotermitinae) from South America",
       "source_type": "paper",
       "reliability": "peer_reviewed",
       "doi": "10.3897/zookeys.922.47347",
@@ -1685,15 +1764,28 @@
           "locator": "同上, Description, Worker",
           "quote": "Worker (Figs 2–4). Monomorphic. Small and rounded fontanelle; postclypeus rather slightly inflated; head capsule covered with medium and long bristles.",
           "note": "工蚁（单型、囟小而圆、后唇基稍膨隆、头壳毛被）"
+        },
+        {
+          "quote": "In Aparatermes the insertion of P1 in P3 occurs in dorsal view with a trilobate EV setting",
+          "locator": "Comparison and remarks",
+          "note": "支撑：P1 与 P3 的连接在背面观呈三叶状肠瓣座。"
+        },
+        {
+          "quote": "the enteric valve of Aparatermes has small spines or pointy scales, which are absent in R. boteroi sp. nov.; in addition, the EV in Aparatermes has the posterior portion of the pads without scales",
+          "locator": "Comparison and remarks",
+          "note": "支撑：肠瓣具小刺或尖鳞，且垫的后部无鳞片。"
         }
       ],
       "used_in": [
-        "_data/morphology_genera.json"
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
       ],
       "notes": "全文由检索子智能体下载到 _tmp/lit/pdfs/ 后读取；_tmp 不发布，摘录与 locator 见 evidence。",
-      "accessed": "2026-11-07T03:38:11+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.3897/zookeys.922.47347",
-      "id": "S0028"
+      "id": "S0028",
+      "publisher": "Pensoft Publishers",
+      "license": "CC BY 4.0"
     },
     {
       "title": "Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae: Termitinae) with two new species from India",
@@ -1726,15 +1818,98 @@
           "locator": "p. 112（Description, Worker, Head capsule）",
           "quote": "Worker. Head capsule. Monomorphic; head and body densely hairy. In dorsal view head subcircular, maximum width of head capsule at base of antennae. Fontanelle plate translucent and round. Antennae with 14-15 segments. Postclypeus swollen.",
           "note": "工蚁（单型、头壳近圆形、囟板、触角 14–15 节、后唇基膨隆）"
+        },
+        {
+          "quote": "Antennae with 13 segments; mandibles thin, slender and weakly bent at middle",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 4 (Homallotermes 分支)",
+          "note": "支撑：兵蚁触角 13 节，上颚细弱、中部弱弯。"
+        },
+        {
+          "quote": "Left mandible moderately twisted at middle, sharply pointed at tip or forming a beak or bent like a hook",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）",
+          "note": "支撑：左颚中部中度扭转、末端锐尖（检索路径上位特征）。"
+        },
+        {
+          "quote": "Head moderately hairy; frons sharply inclining in front",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 9",
+          "note": "支撑：兵蚁头被毛中等，额面前倾明显。"
+        },
+        {
+          "quote": "Antero-lateral points of labrum minute, thin and with a narrow base",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 10 (Indocapritermes 分支)",
+          "note": "支撑：上唇前侧角微小、细、基部窄。"
+        },
+        {
+          "quote": "Antennae 14 segmented",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 10 (Indocapritermes 分支)",
+          "note": "支撑：兵蚁触角 14 节。"
+        },
+        {
+          "quote": "Left mandible strongly twisted at middle, blunt at tip",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）",
+          "note": "支撑：左颚中部强扭转、末端钝（检索路径上位特征）。"
+        },
+        {
+          "quote": "anterior lobe of pronotum slightly convex and weakly notched",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 10（Indocapritermes 分支）",
+          "note": "支撑：前胸背板前叶微凸、具弱缺刻。"
+        },
+        {
+          "quote": "Head with highly sclerotized frontal ridge, head somewhat phragmotic",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 1 (Kemneritermes 分支)",
+          "note": "支撑：兵蚁头具高度骨化额脊，头略呈“堵塞型”（phragmotic）。"
+        },
+        {
+          "quote": "Fontanelle transverse, fontanelle gland large",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11 (Krishnacapritermes 分支)",
+          "note": "支撑：兵蚁囟横宽、囟腺大。"
+        },
+        {
+          "quote": "Head sparsely hairy; frons gradually inclining in front",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 9（本属落在该分支）",
+          "note": "支撑：头被毛稀疏，额面缓倾（检索路径上位特征）。"
+        },
+        {
+          "quote": "Head with frontal projection, left mandible moderately bent at middle",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 5 (Mirocapritermes 分支)",
+          "note": "支撑：兵蚁头具额突，左颚中部中度弯曲。"
+        },
+        {
+          "quote": "Antennae with 14 segments, mandibles thick, moderately to strongly bent at middle",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 4（本属落在该分支）",
+          "note": "支撑：触角 14 节，上颚粗、中部中度至强度弯曲。"
+        },
+        {
+          "quote": "Labrum anteriorly deeply concave, as long as wide, antero-lateral processes with points at bases",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 13 (Oriencapritermes 分支)",
+          "note": "支撑：上唇前缘深凹、长宽约相等，前侧突基部具尖。"
+        },
+        {
+          "quote": "Fontanelle small, circular, fontanelle gland small",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 11（本属落在该分支）",
+          "note": "支撑：囟小、圆形，囟腺小（检索路径上位特征）。"
+        },
+        {
+          "quote": "Left mandible with well developed indented lower basal projection. Labrum long, as long as or longer than wide",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 12（本属落在该分支）",
+          "note": "支撑：左颚具发达、具齿的下基突；上唇长，长≥宽。"
+        },
+        {
+          "quote": "Labrum anteriorly shallowly concave, longer than wide, antero-lateral processes without points at bases",
+          "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 13 (Syncapritermes 分支)",
+          "note": "支撑：上唇前缘浅凹、长大于宽，前侧突基部无尖。"
         }
       ],
       "used_in": [
-        "_data/morphology_genera.json"
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
       ],
       "notes": "全文由检索子智能体下载到 _tmp/lit/pdfs/ 后读取；_tmp 不发布，摘录与 locator 见 evidence。",
-      "accessed": "2026-11-07T03:38:11+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.5252/zoosystema2022v44a3",
-      "id": "S0029"
+      "id": "S0029",
+      "publisher": "Museum national d'Histoire naturelle, Paris",
+      "license": "unknown"
     },
     {
       "title": "Mitochondrial phylogenetics position a new Afrotropical termite species into its own subfamily, the Engelitermitinae (Blattodea: Termitidae)",
@@ -2837,14 +3012,25 @@
           "quote": "The enteric valve (EV) has a well-differentiated, tubular enteric valve seating",
           "locator": "Ekueitermes gen. nov., Diagnosis",
           "note": "肠瓣 seating 形态"
+        },
+        {
+          "quote": "Etymology. The specific epithet alerosinus is after Alejandro Duran, Leofrey Duran, and Rosario Bautista (son and parents of the first author), whose names are combined in the root Alero, in recognition of their unconditional support and affection throughout his training as a researcher.",
+          "locator": "Etymology (species)",
+          "note": "支撑：Ekueitermes alerosinus 种加词词源 = 人名合成 Alero"
+        },
+        {
+          "quote": "Etymology. From the Uitoto word eeko (phonetically eekuei), meaning spine, refers to the spines located on the distal portion of the EV cushions in workers and honours the Uitoto indigenous community inhabiting the Colombian Amazon.",
+          "locator": "Etymology (genus)",
+          "note": "支撑：Ekueitermes 属名词源 = Uitoto 语 eeko 刺"
         }
       ],
       "used_in": [
+        "_data/etymology.json",
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/05-gaps.json"
       ],
       "notes": "soldierless。卷期行为 2026 年出版（收稿 2026-04-16，接受 2026-08-10）。imago 记为 Unknown。",
-      "accessed": "2026-11-07T03:57:34+08:00",
+      "accessed": "2026-11-07T07:05:18+08:00",
       "canonical_key": "doi:10.3897/zookeys.1292.195853",
       "id": "S0053"
     },
@@ -2940,15 +3126,51 @@
           "quote": "Sclerotized body dark brown, covered by thousands of tiny setae. Head covered by a few long bristles. Eyes and ocelli large. Fontanelle fairly large, situated at the posterior level of eyes and appearing as a spot devoid of setae.",
           "locator": "p. 24, Description (Imago)",
           "note": "支撑：有翅成虫体部深褐密被微毛、头仅数根长刚毛、复眼与单眼大、fontanelle 大而位于复眼后缘水平且无毛。"
+        },
+        {
+          "quote": "Worker: Large, head width over 0.9 mm. Abdomen with subconical distal half and elongated digestive tract.",
+          "locator": "Description › Worker（p. 18）",
+          "note": "支撑：工蚁体型大（头宽 > 0.9 mm）、腹末半亚圆锥形、消化道延长。"
+        },
+        {
+          "quote": "Head pale yellow, rounded, fully covered with various numbers of tiny setae and between 50 and 100 long bristles. Fontanelle small, almost indistinct. Fore tibia long and slender.",
+          "locator": "Description › Worker（p. 18）",
+          "note": "支撑：工蚁头淡黄、圆形，密被小毛与 50–100 根长刚毛；囟小几不可见；前胫节细长。"
+        },
+        {
+          "quote": "Imago: Sclerotized body parts dark brown, covered by thousands of tiny setae. Head covered by about 100 scattered long bristles. Eyes and ocelli large.",
+          "locator": "Description › Imago（p. 18）",
+          "note": "支撑：有翅成虫硬化部深褐、密被小毛；头具约 100 根散生长刚毛；复眼与单眼大。"
+        },
+        {
+          "quote": "Grigiotermes is distinguishable from other genera of South American soldierless termites by its workers with widened P 1 in which the food bolus has a visible serpentine path.",
+          "locator": "Diagnosis（p. 19）",
+          "note": "支撑：以工蚁 P1 极宽、食物团呈可见蛇形路径区别于南美其他无兵蚁属。"
+        },
+        {
+          "quote": "Enteric valve inserted into a short extension of the paunch, with welldeveloped armature composed of six spiny plates.",
+          "locator": "Description › Worker, digestive tract（p. 18）",
+          "note": "支撑：肠瓣位于胃（paunch）的短延伸部内，武装为 6 块具刺骨板。"
+        },
+        {
+          "quote": "Mesenteric junction forming a small ball overlapping the proctodeum, slightly elongated to form a short, distinct mixed segment.",
+          "locator": "Description › Worker, digestive tract（p. 18）",
+          "note": "支撑：中肠接点成小球状叠于后肠之上，略延长形成短而明显的混合段。"
+        },
+        {
+          "quote": "Fontanelle fairly small to medium size, situated at the level of eyes. Pronotum elongated, covered by dozens of long bristles.",
+          "locator": "Description › Imago（p. 18）",
+          "note": "支撑：有翅成虫囟小至中等、位于复眼水平；前胸背板延长。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/05-gaps.json",
-        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
       ],
       "notes": "一条来源支撑 Humutermes（pp. 20–22）、Patawatermes、Rubeotermes（pp. 27–30）三属，按 canonical DOI 合并为一条记录。Patawatermes 的属级 treatment 页码未能核实（Zenodo 记录只给 isPartOf 全文，未给页码）；batch 中该属原始 URL 的 hash 实指向 Humutermes 的 treatment。特别提示：_tmp/lit/batches/05-gaps.json 把本 DOI 的题名写成 'Towards a better understanding of the nervous system in termites…'，与 DOI 实际题名不符，疑为题录串行，引用时应以本记录题名为准。",
-      "accessed": "2026-11-07T06:50:48+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.1111/zoj.12305",
       "id": "S0054",
       "publisher": "The Linnean Society of London / Oxford University Press"
@@ -3552,16 +3774,88 @@
           "quote": "Worker . Head capsule rounded. Postclypeus short and inflated. Antennae with 13 or 14 articles.",
           "locator": "p. 450–451，「Worker」段",
           "note": "支撑：工蚁头圆、后唇基短而膨大、触角 13 或 14 节——工蚁节。"
+        },
+        {
+          "quote": "Soldiers of Cahuallitermes Constantino have a rounded head, a well-developed labrum tip, and a postmentum with convex lateral margins",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁头圆、上唇端部发达、后颏侧缘凸。"
+        },
+        {
+          "quote": "In the genera Cyrilliotermes Fontes and Curvitermes Holmgren the soldiers have peculiar mandibles, with a molar plate, molar prominence, and marginal teeth quite similar to the mandibles of their corresponding workers.",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁上颚“异常”，具磨板、磨突与缘齿，形似同名工蚁的上颚。"
+        },
+        {
+          "quote": "In addition, the apical tooth is hook-shaped in Curvitermes",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁上颚端齿呈鱼钩状。"
+        },
+        {
+          "quote": "and cylindrical and elongated frontal tube in the Cyrilliotermes soldier",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁额管圆柱状且延长。"
+        },
+        {
+          "quote": "Embiratermes s.s. species have piercing mandibles with a sharp point, and a projection in the ventral margin of the forecoxae.",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁上颚穿刺型、末端锐尖；前足基节腹缘具突起。"
+        },
+        {
+          "quote": "the mesenteric tongue is straight and does not reach the dilated portion of the P1",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：工蚁中肠舌直、不达 P1 膨大部。"
+        },
+        {
+          "quote": "short and broad, at the middle of the abdomen length in Embiratermes s.s.",
+          "locator": "Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）",
+          "note": "支撑：肠瓣段短而宽，位于腹部中点。"
+        },
+        {
+          "quote": "The soldiers of Embiratermes s.s. have piercing mandibles with marginal teeth at the proximal third of the mandible length",
+          "locator": "Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）",
+          "note": "支撑：兵蚁缘齿位于上颚长度近端 1/3 处。"
+        },
+        {
+          "quote": "The soldiers of Ibitermes s.s. have a markedly inflated postclypeus (absent in the new genus).",
+          "locator": "Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）",
+          "note": "支撑：兵蚁后唇基显著膨大。"
+        },
+        {
+          "quote": "Ibitermes s.s. has a markedly inflated postclypeus and the mandibles lack marginal teeth",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁后唇基显著膨大、上颚无缘齿。"
+        },
+        {
+          "quote": "The worker gut of Ibitermes s.s. have a long and twisted mesenteric tongue (short and rounded in Bandeiratermes gen. n.), and the enteric valve segment is dorsally oriented",
+          "locator": "Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）",
+          "note": "支撑：工蚁中肠舌长而扭曲，肠瓣段背向。"
+        },
+        {
+          "quote": "Noirotitermes Cancello & Myles are smaller with piercing mandibles",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁体型较小、上颚穿刺型。"
+        },
+        {
+          "quote": "that of Noirotitermes with a remarkably distinctive shape to the head capsule. In both of the latter genera, there is a characteristic microsculpture present on the surface of the head capsule.",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁头囊形状极为独特，且头表具特征性微 sculpturing。"
+        },
+        {
+          "quote": "Soldiers of Paracurvitermes Constantino & Carvalho are smaller, and have a well-developed conical and shorter frontal tube than Biratermes ; and the mandibles are distinctly curved.",
+          "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）",
+          "note": "支撑：兵蚁体型较小，额管发达、圆锥形且较短，上颚明显弯曲。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
       ],
       "notes": "为 3 个属（拜拉白蚁属、班代拉白蚁属、瓦宁白蚁属）提供属级形态文本；本记录逐字摘录合计 1434 字符。",
-      "accessed": "2026-11-07T06:58:31+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.11646/zootaxa.5138.4.6",
-      "id": "S0068"
+      "id": "S0068",
+      "url": "https://tb.plazi.org/GgServer/xhtml/03BB783DFFB35729FF3892CB7F7000A8"
     },
     {
       "title": "Muelleritermes: A new termite genus with two species from the Brazilian Atlantic Forest (Isoptera: Termitidae: Nasutitermitinae)",
@@ -3764,16 +4058,73 @@
           "quote": "Worker. Monomorphic. Head capsule rounded; epicranial suture not evident; fontanelle oval, but very discreet. Post- clypeus little inﬂated. Antennae with 14 articles.",
           "locator": "p. 825，「Worker」段",
           "note": "支撑：工蚁单型、头圆、囟很不明显、后唇基稍膨大、触角 14 节——工蚁节。"
+        },
+        {
+          "quote": "Laminar mandibles, with an incision anterior to the first marginal teeth; postmentum finely rugose; Mexico, Belize and Honduras",
+          "locator": "Key to genera of Syntermitinae, couplet 11",
+          "note": "支撑：兵蚁上颚片状、第一缘齿前具切刻；后颏细皱；分布于墨西哥至洪都拉斯。"
+        },
+        {
+          "quote": "Mandibles with the molar region enlarged and a posteriorly pointed subapical tooth",
+          "locator": "Key to genera of Syntermitinae, couplet 7",
+          "note": "支撑：兵蚁上颚磨区扩大、具向后指的亚端齿，据此与无此特征的类群（9 支）分开。"
+        },
+        {
+          "quote": "Frontal tube with a smooth surface; broad and conical.",
+          "locator": "Key to genera of Syntermitinae, couplet 8",
+          "note": "支撑：额管表面光滑、宽锥形（与 Cyrilliotermes 的皱褶环状端相对）。"
+        },
+        {
+          "quote": "Frontal tube wrinkled with irregular transverse ridges and with a doughnut-shaped tip",
+          "locator": "Key to genera of Syntermitinae, couplet 8",
+          "note": "支撑：额管具不规则横脊而皱褶、端部环状（doughnut-shaped）。"
+        },
+        {
+          "quote": "Mandibles with a recognisable marginal tooth, near the middle or near the base; clypeus not inflated.",
+          "locator": "Key to genera of Syntermitinae, couplet 12",
+          "note": "支撑：兵蚁上颚具可辨缘齿（近中部或基部），唇基不膨大。"
+        },
+        {
+          "quote": "Head capsule elongate and sub-rectangular in dorsal view; length of base of head capsule normally more than the width",
+          "locator": "Key to genera of Syntermitinae, couplet 10",
+          "note": "支撑：头囊背面观延长、近长方形，头基部长大于宽。"
+        },
+        {
+          "quote": "Mandibles without marginal teeth; clypeus strongly inflated (except in I. tellustris Constantino)",
+          "locator": "Key to genera of Syntermitinae, couplet 12",
+          "note": "支撑：兵蚁上颚无缘齿、唇基强烈膨大（I. tellustris 除外）。"
+        },
+        {
+          "quote": "marginal tooth on the middle of mandibles, dimorphic soldiers",
+          "locator": "Key to genera of Syntermitinae, couplet 6",
+          "note": "支撑：上颚缘齿位于中部，兵蚁二型。"
+        },
+        {
+          "quote": "Posterior region of head with four conspicuous protuberances resembling horns; sides convex, with a slight constriction at the anterior half",
+          "locator": "Key to genera of Syntermitinae, couplet 14",
+          "note": "支撑：兵蚁头后部具四个角状显著突起，两侧凸、前半略收缢。"
+        },
+        {
+          "quote": "Piercing mandibles, with a conspicuous marginal tooth near the base; South America",
+          "locator": "Key to genera of Syntermitinae, couplet 11",
+          "note": "支撑：兵蚁上颚穿刺型、基部附近具显著缘齿。"
+        },
+        {
+          "quote": "Head capsule rounded or sub-quadrate; length of the base of head capsule almost equal to width",
+          "locator": "Key to genera of Syntermitinae, couplet 10",
+          "note": "支撑：头囊圆或近方形，头基部长约等于宽。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
       ],
       "notes": "为 3 个属（西尔韦斯特里白蚁属、弯钩白蚁属、红懒白蚁属）提供属级形态文本；本记录逐字摘录合计 2000 字符。（单一版权作品累计摘录已达 AGENTS.md §1.6 的 2000 字符上限，未再增补；如需压缩可删 Silvestritermes 兵蚁引文。） 引文保留出版社 PDF 的排版断行连字符。",
-      "accessed": "2026-11-07T06:58:31+08:00",
+      "accessed": "2026-11-07T07:05:22+08:00",
       "canonical_key": "doi:10.1111/j.1365-3113.2012.00645.x",
-      "id": "S0072"
+      "id": "S0072",
+      "url": "https://doi.org/10.1111/j.1365-3113.2012.00638.x"
     },
     {
       "title": "Phylogeny and revision of the “Cubitermes complex” termites (Termitidae: Cubitermitinae)",
@@ -3834,6 +4185,420 @@
       "accessed": "2026-11-07T06:58:31+08:00",
       "canonical_key": "doi:10.1111/syen.12458",
       "id": "S0073"
+    },
+    {
+      "title": "The soldierless termites of Africa (Isoptera: Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5962/p.192782",
+      "file_path": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
+      "chars": 583391,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T07:04:30+08:00",
+      "notes": "全文存于 _unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)（583391 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "The-soldierless-termites-of-Africa-(Isoptera-Termitidae)",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T07:04:30",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)/part-001.txt",
+            "chars": 199980,
+            "paragraphs": 7472,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\sands1972.txt",
+            "sha256": "10f37f734e4ea88543003fafe8bc4aeaaefafbfa40dd648b6028c69046bffa78",
+            "bytes": 201135
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)/part-002.txt",
+            "chars": 199933,
+            "paragraphs": 7745,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\sands1972.txt",
+            "sha256": "d4f65158ab63aec3bdd38fef67d9f4049cfd3bb9fd6d0fd5d9617c049fc62f93",
+            "bytes": 200340
+          },
+          {
+            "chunk": "part-003",
+            "txt": "_unpublished/文库/The-soldierless-termites-of-Africa-(Isoptera-Termitidae)/part-003.txt",
+            "chars": 183478,
+            "paragraphs": 7961,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\sands1972.txt",
+            "sha256": "29607f19c0c9e7e171a9178fb0f977a609c7804335763b07035a0ce3b866b633",
+            "bytes": 183891
+          }
+        ]
+      },
+      "authors": [
+        "Sands W. A."
+      ],
+      "year": 1972,
+      "lang": "en",
+      "doi": "10.5962/p.192782",
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "evidence": [],
+      "id": "S0074"
+    },
+    {
+      "title": "Termites of the Belgian Congo and the Cameroon",
+      "source_type": "paper",
+      "reliability": "primary",
+      "canonical_key": "url:https://hdl.handle.net/2246/852",
+      "file_path": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon",
+      "chars": 391457,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T07:04:35+08:00",
+      "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "Termites-of-the-Belgian-Congo-and-the-Cameroon",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T07:04:35",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-001.txt",
+            "chars": 199969,
+            "paragraphs": 11000,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\emerson1928.txt",
+            "sha256": "1089ef41b4c659f71d6fa93da255182627395630ab4394d024fe8f722849ae8c",
+            "bytes": 200897
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-002.txt",
+            "chars": 191488,
+            "paragraphs": 9489,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\emerson1928.txt",
+            "sha256": "bb5c24eb172211cc58200c858ab312665755819199410659bf3c8acd7c41afa7",
+            "bytes": 195405
+          }
+        ]
+      },
+      "authors": [
+        "Emerson A. E."
+      ],
+      "year": 1928,
+      "lang": "en",
+      "url": "https://hdl.handle.net/2246/852",
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "evidence": [],
+      "id": "S0075"
+    },
+    {
+      "title": "A taxonomic revision of the neotropical termite genus Ruptitermes (Isoptera, Termitidae, Apicotermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2015,
+      "authors": [
+        "Acioli A. N. S.",
+        "Constantino R."
+      ],
+      "journal": "Zootaxa",
+      "volume": "4032",
+      "pages": "451-492",
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "license": "unknown",
+      "evidence": [
+        {
+          "quote": "Imago: Head capsule rounded in dorsal view, short and broad, densely covered with short hairs and scattered bristles. Fontanelle variable, elliptical to rounded, usually conspicuous. Eyes relatively small; ocelli rounded or elliptical, distant from eyes by at least its diameter",
+          "locator": "Description › Imago（p. 454）",
+          "note": "支撑：有翅成虫头短宽而圆，囟多变，复眼较小、单眼距复眼至少其直径。"
+        },
+        {
+          "quote": "Postclypeus relatively small and moderately inflated to large and inflated; depressed at both ends of the midline; midline conspicuous, depressed, and incomplete, vanishing near anterior and posterior margins.",
+          "locator": "Description › Imago（p. 454）",
+          "note": "支撑：后唇基中线两端凹陷，中线明显、不完整。"
+        },
+        {
+          "quote": "Antenna with 15 articles. Each tibia with two apical spurs. Wings uniformly covered with irregularly shaped micrasters, with 2–4 arms",
+          "locator": "Description › Imago（p. 454）",
+          "note": "支撑：触角 15 节，各胫节 2 端距，翅面覆 2–4 臂微鳞。"
+        },
+        {
+          "quote": "Head broad and rounded, usually well sclerotized and dark colored (pale colored in a few species); chaetotaxy variable. Fontanelle elliptical to rounded, small to large, of variable color, usually conspicuous. Postclypeus inflated or flattened.",
+          "locator": "Description › Worker（p. 454）",
+          "note": "支撑：工蚁头宽圆、通常骨化深色深；囟多变；后唇基膨大或扁平。"
+        },
+        {
+          "quote": "A pair of rounded, well-developed dehiscent glands present in the anterior part of abdomen, filling up to 1/3 of its volume.",
+          "locator": "Description › Worker（p. 454）",
+          "note": "支撑：腹部前部具一对球形发达破裂腺，可达腹部体积 1/3。"
+        },
+        {
+          "quote": "Enteric valve with bilateral symmetry, bearing 6 unsclerotized, reticulated ridges (3 longer ones on one side and 3 shorter ones on the other side); spines absent in most species.",
+          "locator": "Description › Gut morphology（p. 454–455）",
+          "note": "支撑：肠瓣两侧对称、6 条无骨化网纹脊，多数种无刺。"
+        },
+        {
+          "quote": "The workers of Ruptitermes are easily recognized by the presence of the dehiscent glands, which are usually conspicuous as a whitish mass in the anterior part of the abdomen.",
+          "locator": "Comparisons（p. 455）",
+          "note": "支撑：工蚁以腹部前部白色团块状的破裂腺易于识别。"
+        },
+        {
+          "quote": "Imagoes are larger than most other neotropical Apicotermitinae. The imagoes of Aparatermes Fontes 1985 are the most similar and can be distinguished by the shape of the postclypeus, which is not depressed at the ends of the midline.",
+          "locator": "Comparisons（p. 455）",
+          "note": "支撑：有翅成虫大于多数新热带 Apicotermitinae；与 Aparatermes 以后唇基中线两端不凹陷区分。"
+        },
+        {
+          "quote": "Left mandible: A shorter than M1 (except in R. bandeirai , sp.n, where they are about the same length), M3 usually very short (except in R. arboreus and R. bandeirai , sp.n); notch between M1 and M3 always present",
+          "locator": "Description › Worker（p. 454）",
+          "note": "支撑：工蚁左上颚端齿（A）短于第一缘齿（M1），M1–M3 之间恒有缺刻。"
+        },
+        {
+          "quote": "Crop very small in most species (large only in R. arboreus ); gizzard unarmed",
+          "locator": "Description › Worker, gut morphology（p. 454）",
+          "note": "支撑：多数种嗉囊很小，砂囊无武装。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
+      ],
+      "notes": "access: Plazi treatment（分页抽取文本），属级描述位于 p. 454；摘录按 1900 字符/作品预算截取，未收全。license: 未核实。",
+      "doi": "10.11646/zootaxa.4032.5.1",
+      "url": "https://tb.plazi.org/GgServer/xhtml/1A2087B4FFC2FF85929BFDB9FAC1BD17",
+      "retrieved_via": "Plazi treatment text / Europe PMC JATS",
+      "accessed": "2026-11-07T07:05:22+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.4032.5.1",
+      "id": "S0076"
+    },
+    {
+      "title": "Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2012,
+      "authors": [
+        "Constantino R."
+      ],
+      "journal": "Zootaxa",
+      "volume": "3174",
+      "pages": "65-68",
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "license": "unknown",
+      "evidence": [
+        {
+          "quote": "The left mandible index of workers for these three genera are as follows: Cahuallitermes : 0.5; Ibitermes : 0.9; and Macuxitermes : 1.2.",
+          "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致，原文为紧排）",
+          "note": "支撑：工蚁左颚指数 0.5（同句给出 Ibitermes 0.9、Macuxitermes 1.2）。"
+        },
+        {
+          "quote": "Imagos of Armitermes, Embiratermes , and Labiotermes have a left mandible index between 0.7 and 1.1, and those of the genera Curvitermes, Cyrilliotermes , and Paracurvitermes have a left mandible index around 2.0.",
+          "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）",
+          "note": "支撑：有翅成虫左颚指数约 2.0（与 Cyrilliotermes、Paracurvitermes 同）。"
+        },
+        {
+          "quote": "Imagos of Armitermes, Embiratermes , and Labiotermes have a left mandible index between 0.7 and 1.1",
+          "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）",
+          "note": "支撑：有翅成虫左颚指数 0.7–1.1。"
+        },
+        {
+          "quote": "Head capsule brown; frontal marks semicircular, paler; fontanelle spot oval, also paler; ecdisial line faint",
+          "locator": "Imago（p. 66）",
+          "note": "支撑：有翅成虫头褐、额部半圆淡色斑、囟点椭圆淡色、蜕裂线淡。"
+        },
+        {
+          "quote": "Compound eyes circular, medium sized",
+          "locator": "Imago（p. 66）",
+          "note": "支撑：复眼圆形、中等大小；单眼大而明显（同段）。"
+        },
+        {
+          "quote": "Left mandible index 1.5. Antenna with 15 articles: 1> 2> 6> 5 = 4> 3.",
+          "locator": "Imago（p. 66）",
+          "note": "支撑：有翅成虫左颚指数 1.5，触角 15 节，节序 1>2>6>5=4>3。"
+        },
+        {
+          "quote": "Wing microsculpture nearly absent, with only small punctuations in the proximal anterior portion",
+          "locator": "Imago（p. 66–67）",
+          "note": "支撑：翅面微 sculpturing 几乎缺失，仅前部近端有细点。"
+        },
+        {
+          "quote": "Postclypeus conspicuously inflated ( Fig. 1 View FIGURES 1 B), with front margin straight, and hind margin convex",
+          "locator": "Imago（p. 66）",
+          "note": "支撑：有翅成虫后唇基显著膨大，前缘平直、后缘凸。"
+        },
+        {
+          "quote": "Mandibles with large apical teeth ( Fig. 1 View FIGURES 1 H); left M3 much shorter than M1",
+          "locator": "Imago（p. 66）",
+          "note": "支撑：有翅成虫上颚端齿大，左 M3 远短于 M1。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
+      ],
+      "notes": "access: Plazi treatment（3 页短讯）。种级兵蚁/工蚁描述见 Cancello & Myles (2000)，该条在 Plazi 为空壳，未采用。license: 未核实。",
+      "doi": "10.11646/zootaxa.3174.1.7",
+      "url": "https://tb.plazi.org/GgServer/xhtml/E01B8E5A137A142AD5DCFCCCFC49FA1B",
+      "retrieved_via": "Plazi treatment text / Europe PMC JATS",
+      "accessed": "2026-11-07T07:05:22+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.3174.1.7",
+      "id": "S0077"
+    },
+    {
+      "title": "A new termite (Isoptera, Termitidae, Syntermitinae, Macuxitermes) from Colombia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2016,
+      "authors": [
+        "Postle A. C.",
+        "Scheffrahn R. H."
+      ],
+      "journal": "ZooKeys",
+      "volume": "587",
+      "pages": "21-35",
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "evidence": [
+        {
+          "quote": "The genus Macuxitermes was erected for a single species, Macuxitermes triceratops Cancello & Bandeira, 1992.",
+          "locator": "Taxonomic treatment › Macuxitermes › Description",
+          "note": "支撑：属为单种属建立，后增补 M. colombicus。"
+        },
+        {
+          "quote": "Soldier. Dimorphic or monomorphic.",
+          "locator": "Taxonomic treatment › Macuxitermes › Description",
+          "note": "支撑：兵蚁二型或不二型。"
+        },
+        {
+          "quote": "Major soldier. Head capsule evenly rounded or with a dorsal elevation and anterior protuberance either side of the midline, entire surface covered with minute granulations.",
+          "locator": "Taxonomic treatment › Macuxitermes › Description",
+          "note": "支撑：主兵头囊均匀圆或具背隆起及中线两侧前突，表面满布微颗粒。"
+        },
+        {
+          "quote": "Anterior of head capsule narrows to form a robust conical nasus whose apex extends far beyond tips of mandibles",
+          "locator": "Taxonomic treatment › Macuxitermes › Description",
+          "note": "支撑：头前部收狭为粗壮锥形象鼻，鼻端远超上颚末端。"
+        },
+        {
+          "quote": "mandibles curved strongly inwards, apices directed laterally at rest and not upturned, each mandible with a pointed marginal tooth half-way along inner surface",
+          "locator": "Taxonomic treatment › Macuxitermes › Description",
+          "note": "支撑：上颚强内弯、静止时末端指向两侧且不上翘，各具一半位尖缘齿。"
+        },
+        {
+          "quote": "enteric valve narrow, on the left posterior side of the abdomen, with three finger-like cushions each bearing two rows of regularly spaced long, narrow, straight or slightly curved spines of equal length throughout",
+          "locator": "Taxonomic treatment › Macuxitermes › Description › Worker, Addenda",
+          "note": "支撑：工蚁肠瓣窄、位于腹部左后侧，三指状垫各具两列等长规则长刺。"
+        },
+        {
+          "quote": "antennae yellow with 15 articles, I largest and III shortest; rows of dark short, tooth-like spines along the margins of the thoracic nota",
+          "locator": "Taxonomic treatment › Macuxitermes › Description › Major soldier",
+          "note": "支撑：兵蚁触角黄色、15 节（第 I 节最长、第 III 节最短），胸部背板边缘具成列深色短齿状刺。"
+        },
+        {
+          "quote": "digestive tube showing complete dorsal torsion and with small crop, long and inflated mixed segment that is proximally narrow and broadly oval distally, very large and voluminous P1",
+          "locator": "Taxonomic treatment › Macuxitermes › Description › Worker, Addenda",
+          "note": "支撑：工蚁消化道完全背向扭转，嗉囊小、混合段长而膨大，P1 极大而饱满。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
+      ],
+      "notes": "access: Europe PMC JATS 全文；属级描述明言系改写自 Cancello & Bandeira (1992) 原描述。license: CC BY 4.0。",
+      "doi": "10.3897/zookeys.587.7557",
+      "url": "https://zookeys.pensoft.net/article/7557/",
+      "retrieved_via": "Plazi treatment text / Europe PMC JATS",
+      "accessed": "2026-11-07T07:05:22+08:00",
+      "canonical_key": "doi:10.3897/zookeys.587.7557",
+      "id": "S0078"
+    },
+    {
+      "title": "Redescription of the enigmatic genus Genuotermes Emerson (Isoptera, Termitidae, Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2013,
+      "authors": [
+        "Rocha M. M."
+      ],
+      "journal": "ZooKeys",
+      "volume": "340",
+      "pages": "107-117",
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "CC BY 3.0",
+      "evidence": [
+        {
+          "quote": "Soldier. Mandibles elongated, elbowed at proximal one-third, distal two-thirds with serrated blade on inner surface and salient tooth at base",
+          "locator": "Description › Soldier（p. 109）",
+          "note": "支撑：兵蚁上颚延长、近端 1/3 处肘弯，远端 2/3 内缘为锯齿刃并具基部突齿。"
+        },
+        {
+          "quote": "Head capsule subrectangular in dorsal view, with a characteristic frontal projection, best viewed in profile",
+          "locator": "Description › Soldier（p. 109）",
+          "note": "支撑：兵蚁头囊背面观近长方形，具特征性额突（侧面观最清楚）。"
+        },
+        {
+          "quote": "Frontal gland aperture at tip of head projection, oriented anteriorly.",
+          "locator": "Description › Soldier（p. 109）",
+          "note": "支撑：额腺开口位于头突末端、朝前（与 Orthognathotermes 的开口不明显相对）。"
+        },
+        {
+          "quote": "Worker. Head capsule rounded in dorsal view. Fontanelle inconspicuous. Antenna with 14-15 articles.",
+          "locator": "Description › Worker（p. 109）",
+          "note": "支撑：工蚁头囊背面观圆，囟不明显，触角 14–15 节。"
+        },
+        {
+          "quote": "P1 dilated, located on left side of body, with the final portion forming an elongated loop that reaches the dorsal region and down to insert on P3",
+          "locator": "Description › Digestive tube（p. 109）",
+          "note": "支撑：P1 膨大、位于体左侧，末段成延长环上达背区再下行接入 P3。"
+        },
+        {
+          "quote": "Imago. Eyes semispherical, oval in profile, close to but not touching lower margin of head and ocellus",
+          "locator": "Description › Imago（p. 108）",
+          "note": "支撑：有翅成虫复眼半球形、侧观椭圆，接近但不触头下缘与单眼。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-neotropical.json"
+      ],
+      "notes": "access: ZooKeys OA 全文（Plazi treatment 同源）。license: CC BY（Pensoft 常规，未逐条核）。",
+      "doi": "10.3897/zookeys.340.6131",
+      "url": "https://tb.plazi.org/GgServer/xhtml/4C2B54824F7083DFEE7AF0E292276997",
+      "retrieved_via": "Plazi treatment text / Europe PMC JATS",
+      "accessed": "2026-11-07T07:05:22+08:00",
+      "canonical_key": "doi:10.3897/zookeys.340.6131",
+      "id": "S0079"
+    },
+    {
+      "title": "A revision of the Termes-Capritermes branch of the Termitinae in Australia (Isoptera: Termitidae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "doi": "10.1071/IT9901147",
+      "year": 1991,
+      "authors": [
+        "Miller L. R."
+      ],
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_search+crossref",
+      "evidence": [
+        {
+          "quote": "The name refers to the large frontal and lateral tubercles of the soldiers (cristatus L. crested)",
+          "locator": "Etymology (genus Cristatitermes)",
+          "note": "支撑：Cristatitermes 属名词源 = cristatus 具冠，指兵蚁额突（经 Google 索引 snippet 逐字）"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，仅有 Crossref 元数据 + Google 索引词源 snippet。全文被 CSIRO 订阅墙 + Cloudflare 封锁（Unpaywall is_oa=false）。种加词 tutulatus 具体词源句未取得，仅据拉丁词典释 tutulatus=戴 tutulus（锥形帽/冠）者。",
+      "accessed": "2026-11-07T07:06:03+08:00",
+      "canonical_key": "doi:10.1071/it9901147",
+      "id": "S0080"
     }
   ]
 }
