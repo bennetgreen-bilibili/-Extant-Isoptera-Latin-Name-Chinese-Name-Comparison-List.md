@@ -18,6 +18,21 @@
 
 `_species/*.md` 的正文写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 之间，由脚本按 front matter 生成；**不要手改这两个标记之间的内容**，标记之外的手写内容可以改。
 
+## 来源存档（`.sources/`）
+
+凡是用作**证据**的网页 / 论文 / 数据集 / 本地文件，都要在 `.sources/` 留一条记录（元数据 + 逐字摘录 + 定位 + 被用在哪里）。
+规则见根目录 `AGENTS.md` §1，数据格式与校验码见 `.sources/README.md`。
+
+```bash
+python _tools/sources.py list                         # 先查已有什么，同一来源复用 Sxxxx
+python _tools/sources.py add --json _tmp/sources.json  # 新增 / 合并（清单模板见 AGENTS.md §1.4）
+python _tools/sources.py check --strict                # 提交前自检
+```
+
+Markdown 正文用 `<!-- src:S0001 -->` 标注论断依据（渲染不可见）；Word / PPT 等交付物在文末列「来源」小节，
+并把文档路径写进对应记录的 `used_in`。CI 会跑 `check --ci`，引用未存档的 id 会直接失败。
+
+存档进仓库、不进站点产物（Jekyll 忽略以 `.` 开头的目录）。不想公开就把 `.sources/` 加进 `.gitignore`。
 ## 三语同步
 
 - 名录索引页与译文页由脚本生成，改动要落在 `_data/taxonomy.json`（层级）、`_data/list_index_blocks.json`（导语／按科浏览／参考文献）、`_data/taxon_prose.json`（科亚科正文）三处数据文件上，再重跑 `python _tools/build_list_index.py`；三语的锚点集合由 `check_site.py` 校验同构。

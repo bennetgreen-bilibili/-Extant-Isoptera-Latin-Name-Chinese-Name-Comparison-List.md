@@ -38,6 +38,11 @@ jobs:
       - name: Structural checks
         run: python _tools/check_site.py --ci
 
+      # 来源存档（.sources/）只读校验：id / 去重键 / 摘录长度 / used_in / 正文 <!-- src:Sxxxx --> 引用完整性。
+      # 存档为空、没有引用时直接通过；失败说明记录坏了（例如引用了不存在的 id），而不是「没存」。
+      - name: Validate source archive
+        run: python _tools/sources.py check --ci
+
       # Liquid 模板语法闸门：Liquid 4 在解析阶段就会因一个标签语法错让整站构建失败，
       # 而 comment 块内部的「示例标签」同样会被解析（曾因此红过部署）。
       # 这一步把同类错误提前到秒级，并直接给出 file:line，不必等 Jekyll 的 Ruby 堆栈。

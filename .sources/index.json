@@ -1,0 +1,490 @@
+{
+  "meta": {
+    "version": 1,
+    "count": 5,
+    "created": "2026-11-06T16:19:16.272Z",
+    "updated": "2026-11-07T00:22:59+08:00",
+    "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
+  },
+  "sources": [
+    {
+      "title": "白蚁学",
+      "source_type": "book",
+      "canonical_key": "library:白蚁学",
+      "file_path": "_unpublished/文库/白蚁学",
+      "chars": 885410,
+      "retrieved_via": "文库（DOCX/PDF 抽取）",
+      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；中文教材，7 篇 22 章。",
+      "library": {
+        "book": "白蚁学",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-04T22:35:32",
+        "chunks": [
+          {
+            "chunk": "001-200",
+            "txt": "_unpublished/文库/白蚁学/001-200.txt",
+            "chars": 259960,
+            "paragraphs": 2741,
+            "table_rows": 289,
+            "source_file": "E:\\\\白蚁学\\\\白蚁学_1-200.docx",
+            "sha256": "0cfbe1db6f01d75cab9ec6245a04fab9d4e025ca3028a3f5bb71633eea748264",
+            "bytes": 519243
+          },
+          {
+            "chunk": "201-400",
+            "txt": "_unpublished/文库/白蚁学/201-400.txt",
+            "chars": 346895,
+            "paragraphs": 2372,
+            "table_rows": 449,
+            "source_file": "E:\\\\白蚁学\\\\白蚁学_201-400.docx",
+            "sha256": "7fd4dcaf7963c5bf17f4a335b92521448658a3fa94584fefadf4380b754353b2",
+            "bytes": 633300
+          },
+          {
+            "chunk": "401-589",
+            "txt": "_unpublished/文库/白蚁学/401-589.txt",
+            "chars": 278555,
+            "paragraphs": 2935,
+            "table_rows": 833,
+            "source_file": "E:\\\\白蚁学\\\\白蚁学_401-589.docx",
+            "sha256": "2dfc18d9bf121ed25d31e2ff2cee80e07cbf8e938c5cddc22b6bbf6dd256f6b5",
+            "bytes": 554342
+          }
+        ]
+      },
+      "authors": [
+        "程冬保",
+        "杨兆芬"
+      ],
+      "year": 2014,
+      "publisher": "科学出版社",
+      "reliability": "reference",
+      "lang": "zh",
+      "accessed": "2026-11-04T22:35:32+08:00",
+      "evidence": [],
+      "used_in": [],
+      "id": "S0001"
+    },
+    {
+      "title": "白蚁生物学现代研究合集",
+      "source_type": "book",
+      "canonical_key": "library:白蚁生物学现代研究合集",
+      "file_path": "_unpublished/文库/白蚁生物学现代研究合集",
+      "chars": 923202,
+      "retrieved_via": "文库（DOCX/PDF 抽取）",
+      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；原书 Biology of Termites: A Modern Synthesis（Bignell, Roisin, Lo 编）的中译合集。",
+      "library": {
+        "book": "白蚁生物学现代研究合集",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-04T22:35:32",
+        "chunks": [
+          {
+            "chunk": "001-100",
+            "txt": "_unpublished/文库/白蚁生物学现代研究合集/001-100.txt",
+            "chars": 148720,
+            "paragraphs": 1049,
+            "table_rows": 93,
+            "source_file": "E:\\\\白蚁生物学现代研究合集\\\\白蚁生物学现代研究合集_1-200_1-100.docx",
+            "sha256": "84d4228dbb43d6e38e8413e5c97584da4038026c1d397e1c8213d02ca4400644",
+            "bytes": 267043
+          },
+          {
+            "chunk": "101-200",
+            "txt": "_unpublished/文库/白蚁生物学现代研究合集/101-200.txt",
+            "chars": 195302,
+            "paragraphs": 1083,
+            "table_rows": 9,
+            "source_file": "E:\\\\白蚁生物学现代研究合集\\\\白蚁生物学现代研究合集_1-200_101-200.docx",
+            "sha256": "18c0e8d067612cd404ac31e6f772c149dc8baa6ccb622244e4e7bd98803c2900",
+            "bytes": 318509
+          },
+          {
+            "chunk": "201-300",
+            "txt": "_unpublished/文库/白蚁生物学现代研究合集/201-300.txt",
+            "chars": 182109,
+            "paragraphs": 935,
+            "table_rows": 288,
+            "source_file": "E:\\\\白蚁生物学现代研究合集\\\\白蚁生物学现代研究合集_201-400_1-100.docx",
+            "sha256": "c4bfe4c0b4fac9196eb4b8e243a3adcdf94dae8029853797410ae358c30a634b",
+            "bytes": 291394
+          },
+          {
+            "chunk": "301-400",
+            "txt": "_unpublished/文库/白蚁生物学现代研究合集/301-400.txt",
+            "chars": 202771,
+            "paragraphs": 979,
+            "table_rows": 40,
+            "source_file": "E:\\\\白蚁生物学现代研究合集\\\\白蚁生物学现代研究合集_201-400_101-200.docx",
+            "sha256": "9d2eba3eb67434f5ed6bd550221ba17888678bb7513462ddb9ed6f6da7e76698",
+            "bytes": 337309
+          },
+          {
+            "chunk": "401-497",
+            "txt": "_unpublished/文库/白蚁生物学现代研究合集/401-497.txt",
+            "chars": 194300,
+            "paragraphs": 1203,
+            "table_rows": 287,
+            "source_file": "E:\\\\白蚁生物学现代研究合集\\\\白蚁生物学现代研究合集_401-497.docx",
+            "sha256": "4ccbd3833709b578181acca215e39e515546a061d0d75a9a0e0f46a8078a1e26",
+            "bytes": 301000
+          }
+        ]
+      },
+      "authors": [
+        "黄求应 等（译）"
+      ],
+      "publisher": "中译合集",
+      "reliability": "reference",
+      "lang": "zh",
+      "accessed": "2026-11-04T22:35:32+08:00",
+      "evidence": [],
+      "used_in": [],
+      "id": "S0002"
+    },
+    {
+      "title": "中国动物志-昆虫纲-第十七卷-等翅目",
+      "source_type": "book",
+      "canonical_key": "library:中国动物志-昆虫纲-第十七卷-等翅目",
+      "file_path": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目",
+      "chars": 869535,
+      "retrieved_via": "文库（DOCX/PDF 抽取）",
+      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；中国等翅目分类志，物种阶元的一手依据。",
+      "library": {
+        "book": "中国动物志-昆虫纲-第十七卷-等翅目",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-04T22:35:32",
+        "chunks": [
+          {
+            "chunk": "001-100",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/001-100.txt",
+            "chars": 83421,
+            "paragraphs": 732,
+            "table_rows": 87,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_1-100.docx",
+            "sha256": "6f12ec4542571f753718bacac696a2617386724d279222e507a836fb3ae16c31",
+            "bytes": 205174
+          },
+          {
+            "chunk": "101-200",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/101-200.txt",
+            "chars": 124120,
+            "paragraphs": 678,
+            "table_rows": 577,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_101-200.docx",
+            "sha256": "4f8bdce6afcd88321ded40807f55a8d0c0afd85bf8326198854cff6dfc2d0a40",
+            "bytes": 246587
+          },
+          {
+            "chunk": "201-300",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/201-300.txt",
+            "chars": 88679,
+            "paragraphs": 794,
+            "table_rows": 711,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_201-300.docx",
+            "sha256": "9ea79bbf814e04286ec2448202d8514f20bc7edf753e699a60f4e40e0b7f231e",
+            "bytes": 172878
+          },
+          {
+            "chunk": "301-400",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/301-400.txt",
+            "chars": 85889,
+            "paragraphs": 794,
+            "table_rows": 696,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_301-400.docx",
+            "sha256": "b3fe142213d0bf74b4b9a1d98b166d0597f2f5e2f35ac7c0e084e7c28b755c68",
+            "bytes": 164558
+          },
+          {
+            "chunk": "401-500",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/401-500.txt",
+            "chars": 86198,
+            "paragraphs": 870,
+            "table_rows": 812,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_401-500.docx",
+            "sha256": "abdf7fad7cbc71b0dc450380ffdc7750dbf895a63bc4cfb115179887904a5da8",
+            "bytes": 153940
+          },
+          {
+            "chunk": "501-600",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/501-600.txt",
+            "chars": 84656,
+            "paragraphs": 906,
+            "table_rows": 651,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_501-600.docx",
+            "sha256": "66380817985dbf2a8a628c4ec4cf70c722d8c203dc31e2c1553210d762752bb7",
+            "bytes": 155031
+          },
+          {
+            "chunk": "601-700",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/601-700.txt",
+            "chars": 83485,
+            "paragraphs": 917,
+            "table_rows": 754,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_601-700.docx",
+            "sha256": "4fcf6d4228d16e65ca5c1e3ddda1b81f47474400905151916bcfe3a3e20fc078",
+            "bytes": 164718
+          },
+          {
+            "chunk": "701-800",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/701-800.txt",
+            "chars": 85044,
+            "paragraphs": 926,
+            "table_rows": 512,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_701-800.docx",
+            "sha256": "2d408ca8a89bb0b1a296dd3720da7499707286b8a698904f13c92095317ab767",
+            "bytes": 165815
+          },
+          {
+            "chunk": "801-900",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/801-900.txt",
+            "chars": 75773,
+            "paragraphs": 1022,
+            "table_rows": 469,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_801-900.docx",
+            "sha256": "ab43082fcd0dfd427c697e7af49638603efd410d372b9e08e4f022db3182fad0",
+            "bytes": 150872
+          },
+          {
+            "chunk": "901-989",
+            "txt": "_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/901-989.txt",
+            "chars": 72270,
+            "paragraphs": 1147,
+            "table_rows": 152,
+            "source_file": "E:\\\\TENXUN\\\\Tencent Files\\\\3230435183\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)\\\\[www.19cr.com]中国动物志.昆虫纲.第十七卷.等翅目 (2)_901-989.docx",
+            "sha256": "f99c29b9de98cabb28cb7c43c6ae35818bc9cb91cd1a292e065e2f4a68ede26c",
+            "bytes": 104154
+          }
+        ]
+      },
+      "authors": [
+        "黄复生",
+        "朱世模",
+        "平正明",
+        "何秀松",
+        "李桂祥",
+        "高道蓉"
+      ],
+      "publisher": "科学出版社",
+      "reliability": "primary",
+      "lang": "zh",
+      "accessed": "2026-11-04T22:35:32+08:00",
+      "evidence": [],
+      "used_in": [],
+      "id": "S0003"
+    },
+    {
+      "title": "Treatise-on-the-Isoptera",
+      "source_type": "book",
+      "canonical_key": "library:Treatise-on-the-Isoptera",
+      "file_path": "_unpublished/文库/Treatise-on-the-Isoptera",
+      "chars": 9516675,
+      "retrieved_via": "文库（DOCX/PDF 抽取）",
+      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；全球等翅目总览，含文献目录与科属检索表。",
+      "library": {
+        "book": "Treatise-on-the-Isoptera",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-04T22:35:32",
+        "chunks": [
+          {
+            "chunk": "0001-0200",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/0001-0200.txt",
+            "chars": 518233,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "debcf6bb3c7aaaddf689a127707259a99c7389d5b62a5f1e01b07a7db859082f",
+            "bytes": 520137
+          },
+          {
+            "chunk": "0201-0400",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/0201-0400.txt",
+            "chars": 679807,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "d7c57f2c7657b92fa39a0128a39f7daea7997037ef1b2df8f84312c64c53f814",
+            "bytes": 707792
+          },
+          {
+            "chunk": "0401-0600",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/0401-0600.txt",
+            "chars": 665361,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "23836af3d0d6704e485e3e77146e60a4d1148e1b8e0f5ac0e5c7f9a6a88de550",
+            "bytes": 690723
+          },
+          {
+            "chunk": "0601-0800",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/0601-0800.txt",
+            "chars": 695802,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "af08f3733d393afba359b7d32d3fb022fc0704a8c4062e45333b33cc2b55001f",
+            "bytes": 721954
+          },
+          {
+            "chunk": "0801-1000",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/0801-1000.txt",
+            "chars": 696154,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "faf45d9b91d9495ba5a0766c4b06c2e3968f3038644c8edcc71ec2ef5569e0f2",
+            "bytes": 722711
+          },
+          {
+            "chunk": "1001-1200",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/1001-1200.txt",
+            "chars": 734749,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "65bb27ab51eabe3a1f9260bc2e500e8145e9cf395b07693c4b51d5f5b2f3ae6b",
+            "bytes": 762479
+          },
+          {
+            "chunk": "1201-1400",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/1201-1400.txt",
+            "chars": 672661,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "ac9d16e641ff37af7dafedac7c436b8d55b068a90179c5fcabda35fbd33b52e9",
+            "bytes": 697384
+          },
+          {
+            "chunk": "1401-1600",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/1401-1600.txt",
+            "chars": 660220,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "9d108eaa39c6141367d2a51f105e20d29569d29cecc04ce9d72f5691e552798a",
+            "bytes": 684429
+          },
+          {
+            "chunk": "1601-1800",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/1601-1800.txt",
+            "chars": 698640,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "f46db08bb3b3b093dbe856af45b952cf38248a1e34d0ac94cf36be16e8d26657",
+            "bytes": 722899
+          },
+          {
+            "chunk": "1801-2000",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/1801-2000.txt",
+            "chars": 669953,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "01c8c090c730c7b268b945483a8084133cf60a3f62c9e8cf1ecc4f859378642f",
+            "bytes": 693818
+          },
+          {
+            "chunk": "2001-2200",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/2001-2200.txt",
+            "chars": 680009,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "1951cae6f2210a9c656143e3892760f0c923bfcda783828bf7619031352cc829",
+            "bytes": 704148
+          },
+          {
+            "chunk": "2201-2400",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/2201-2400.txt",
+            "chars": 677243,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "de2b24b57b1a73918f217e70681b80b887e185a3b50ce8f3d30adc2736541810",
+            "bytes": 700751
+          },
+          {
+            "chunk": "2401-2600",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/2401-2600.txt",
+            "chars": 853833,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "619a0970aaeb704dc1fb584d95c7a4a48f0fb2d4cedb94ab420e5362150dd0d3",
+            "bytes": 868689
+          },
+          {
+            "chunk": "2601-2718",
+            "txt": "_unpublished/文库/Treatise-on-the-Isoptera/2601-2718.txt",
+            "chars": 614010,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "2d44a29152c4b9ec16cab95fd3a2dd2893212d0de2c0570a4f419515d025132c",
+            "bytes": 621060
+          }
+        ]
+      },
+      "authors": [
+        "Krishna K. et al."
+      ],
+      "year": 2013,
+      "publisher": "AMNH Bulletin 377",
+      "reliability": "primary",
+      "lang": "en",
+      "accessed": "2026-11-04T22:35:32+08:00",
+      "evidence": [],
+      "used_in": [],
+      "id": "S0004"
+    },
+    {
+      "title": "Sands-1972-Soldierless-Termites-of-Africa",
+      "source_type": "book",
+      "canonical_key": "library:Sands-1972-Soldierless-Termites-of-Africa",
+      "file_path": "_unpublished/文库/Sands-1972-Soldierless-Termites-of-Africa",
+      "chars": 758873,
+      "retrieved_via": "文库（DOCX/PDF 抽取）",
+      "notes": "来自 _unpublished/文库/manifest.json（生成于 2026-11-04T22:35:32）；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；非洲无兵蚁白蚁专著，9 图版、661 图。",
+      "library": {
+        "book": "Sands-1972-Soldierless-Termites-of-Africa",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-04T22:35:32",
+        "chunks": [
+          {
+            "chunk": "0001-0200",
+            "txt": "_unpublished/文库/Sands-1972-Soldierless-Termites-of-Africa/0001-0200.txt",
+            "chars": 613344,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "2ea64e28040d815e6f1a1c10578c4227aa1a1d87de2a74c0529c857e4d50ca7d",
+            "bytes": 615404
+          },
+          {
+            "chunk": "0201-0263",
+            "txt": "_unpublished/文库/Sands-1972-Soldierless-Termites-of-Africa/0201-0263.txt",
+            "chars": 145529,
+            "paragraphs": null,
+            "table_rows": null,
+            "source_file": null,
+            "sha256": "906a2cb11b60a413f7fc71fbd8120a28e390999f762ecadd74186f110b7a15dc",
+            "bytes": 146043
+          }
+        ]
+      },
+      "authors": [
+        "Sands W.A."
+      ],
+      "year": 1972,
+      "publisher": "Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18",
+      "reliability": "peer_reviewed",
+      "lang": "en",
+      "accessed": "2026-11-04T22:35:32+08:00",
+      "evidence": [],
+      "used_in": [],
+      "id": "S0005"
+    }
+  ]
+}
