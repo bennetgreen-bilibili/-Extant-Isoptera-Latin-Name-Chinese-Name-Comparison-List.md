@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 5,
+    "count": 8,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T00:22:59+08:00",
+    "updated": "2026-11-07T00:44:37+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -60,9 +60,17 @@
       "publisher": "科学出版社",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-04T22:35:32+08:00",
-      "evidence": [],
-      "used_in": [],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "缺少真工蚁的低等白蚁在发育到成虫的过程中，前胸腺经历了相当规律的生长过程",
+          "locator": "001-200.txt 第 383 行（卷内页码未标）",
+          "note": "支撑：低等白蚁缺少真工蚁、与白蚁科分野的生理背景（v5 段 700–702）；本书列于文末文献。"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
       "id": "S0001"
     },
     {
@@ -136,9 +144,47 @@
       "publisher": "中译合集",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-04T22:35:32+08:00",
-      "evidence": [],
-      "used_in": [],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "广义的拟工蚁或假工蚁，定义为个体作为一种 功能分类完成工作，而其余的发展灵活。其区分于真工蚁的后期特征是产生了早期的 和不可逆转的发展分支，失去了继续分化为有翅蚁的可能。",
+          "locator": "第 6 章 Roisin & Korb / 101-200.txt 第 371 行",
+          "note": "支撑：真工蚁定义（v5 段 700）；引文中的空格为文库 OCR 原样。"
+        },
+        {
+          "quote": "达尔文澳白蚁Mastotermes darwiniensis的发育图中存在工蚁和若蚁两条支路",
+          "locator": "第 6 章 6.2 / 101-200.txt 第 401 行",
+          "note": "支撑：澳白蚁科有真工蚁（v5 段 700）"
+        },
+        {
+          "quote": "没有真 工蚁分化途径，因此个体被划分为广义的拟工蚁。",
+          "locator": "第 6 章 6.5.2 / 101-200.txt 第 416 行",
+          "note": "支撑：原鼻白蚁属（沙白蚁科）无真工蚁（v5 段 700）"
+        },
+        {
+          "quote": "杆白蚁属的品级体系几乎是未知的",
+          "locator": "第 6 章 6.5 / 101-200.txt 第 412 行",
+          "note": "支撑：杆白蚁属品级未知（v5 段 700）"
+        },
+        {
+          "quote": "从系统发育来说，兵蚁是所有生活白蚁的祖先的基础血统一次进化而来。",
+          "locator": "第 6 章 6.1.1 / 101-200.txt 第 380 行",
+          "note": "支撑：兵蚁单次起源（v5 段 706）"
+        },
+        {
+          "quote": "存在所谓的兵蚁源繁殖蚁(Myles 1986),更恰当的称呼是类兵 蚁补充繁殖蚁(Roisin 2000)",
+          "locator": "第 6 章 6.3.2 / 101-200.txt 第 408 行",
+          "note": "支撑：类兵蚁补充繁殖蚁（v5 段 706）"
+        },
+        {
+          "quote": "这些是否为真工蚁尚不能确定",
+          "locator": "第 6 章 6.5.1 / 101-200.txt 第 414 行",
+          "note": "支撑：沙白蚁属真工蚁未定（v5 段 700）"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
       "id": "S0002"
     },
     {
@@ -267,9 +313,27 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-04T22:35:32+08:00",
-      "evidence": [],
-      "used_in": [],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
+          "locator": "001-100.txt 第 265 行（翅）",
+          "note": "支撑：翅鳞前后比例（v5 形态篇翅节）"
+        },
+        {
+          "quote": "草白蚁科的跗节分离不完整，由腹面看为5节，由背面看仅4节。",
+          "locator": "001-100.txt 第 272 行（足）",
+          "note": "支撑：跗节分节（v5 段 226）；该书“草白蚁科”为旧广义，含原白蚁属。"
+        },
+        {
+          "quote": "每侧卵巢的卵巢小管数仅7—10条",
+          "locator": "001-100.txt 第 309 行（雌性生殖系统）",
+          "note": "支撑：卵巢管数随类群变化（v5 段 511）"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
       "id": "S0003"
     },
     {
@@ -434,9 +498,22 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-04T22:35:32+08:00",
-      "evidence": [],
-      "used_in": [],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
+          "locator": "0001-0200.txt 第 1642–1643 行（Tarsi 节）",
+          "note": "支撑：古白蚁科跗节腹面 5 节、背面 4 节（v5 段 226）"
+        },
+        {
+          "quote": "This reduction is what leads to the conclusion that it is the loss of tarsomere 2 that results in the 4-tarsomere condition",
+          "locator": "0001-0200.txt 第 1644–1645 行",
+          "note": "支撑：跗节 4 节源于第 2 跗分节丢失；杆白蚁属等 3 节（v5 段 226）"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
       "id": "S0004"
     },
     {
@@ -481,10 +558,134 @@
       "publisher": "Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18",
       "reliability": "peer_reviewed",
       "lang": "en",
-      "accessed": "2026-11-04T22:35:32+08:00",
-      "evidence": [],
-      "used_in": [],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "When molested by predators such as ants, or when grasped by forceps and placed in alcohol, the abdominal muscles contract convulsively and the abdomen ruptures across a line of weakness behind the first tergite. The intestines erupt through the gap and themselves tend to burst, scattering their slimy contents.",
+          "locator": "p. 4 / 0001-0200.txt 第 151–157 行（导论）",
+          "note": "支撑：无兵蚁类群以腹部破裂（abdominal dehiscence）作防御（v5 段 706）"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
       "id": "S0005"
+    },
+    {
+      "title": "The development of adultoid reproductives and brachypterous neotenic reproductives from the last instar nymphs in Reticulitermes labralis (Isoptera: Rhinotermitidae): a comparative study",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1093/jisesa/iev130",
+      "year": 2015,
+      "lang": "en",
+      "license": "unknown",
+      "authors": [
+        "Su X. H.",
+        "Xue W.",
+        "Liu H.",
+        "Chen J. L.",
+        "Zhang X. J.",
+        "Xing L. X.",
+        "Liu M. H."
+      ],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "The results showed that the AR derived from the last instar nymphs by molting, and they were more similar to neotenic reproductives in morphology.",
+          "locator": "摘要（Europe PMC 全文记录）",
+          "note": "支撑：末龄若蚁可直接蜕出成虫型补充繁殖蚁（v5 段 700、707）"
+        },
+        {
+          "quote": "Secondary reproductives develop primarily from nymphs.",
+          "locator": "摘要首句",
+          "note": "支撑：补充繁殖蚁主要自若蚁发育"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
+      "canonical_key": "doi:10.1093/jisesa/iev130",
+      "id": "S0006"
+    },
+    {
+      "title": "Oligocene termite nests with in situ fungus gardens from the Rukwa Rift Basin, Tanzania, support a Paleogene African origin for insect agriculture",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1371/journal.pone.0156847",
+      "year": 2016,
+      "lang": "en",
+      "license": "unknown",
+      "authors": [
+        "Roberts E. M.",
+        "Todd C. N.",
+        "Aanen D. K.",
+        "Nobre T.",
+        "Hilbert-Wolf H. L.",
+        "O’Connor P. M.",
+        "Tapanila L.",
+        "Mtelela C.",
+        "Stevens N. J."
+      ],
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "Using these well-dated fossil fungus gardens, we have recalibrated molecular divergence estimates for the origins of termite agriculture to around 31 Ma, lending support to hypotheses suggesting an African Paleogene origin for termite-fungus symbiosis",
+          "locator": "摘要",
+          "note": "支撑：菌食起源重新校准为约 3100 万年前、非洲起源（v5 段 812、833）"
+        },
+        {
+          "quote": "preserved within 25 Ma termite nests from southwestern Tanzania",
+          "locator": "摘要",
+          "note": "支撑：化石出自坦桑尼亚约 2500 万年前的巢体"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
+      "canonical_key": "doi:10.1371/journal.pone.0156847",
+      "id": "S0007"
+    },
+    {
+      "title": "Genomic data provide insights into the classification of extant termites",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1038/s41467-024-51028-y",
+      "year": 2024,
+      "lang": "en",
+      "license": "unknown",
+      "authors": [
+        "Hellemans S.",
+        "Rocha M. M.",
+        "Wang M.",
+        "et al."
+      ],
+      "file_path": "s41467-024-51028-y.pdf",
+      "retrieved_via": "PyMuPDF 抽取正文",
+      "accessed": "2026-11-07T00:00:00+08:00",
+      "evidence": [
+        {
+          "quote": "all species of this clade have a true worker caste (as in Mastotermitidae, Hodotermitidae, and Rhinotermitidae sensu novo) and typically live in large colonies.",
+          "locator": "p. 7 / Clade Geoisoptera 段",
+          "note": "支撑：Geoisoptera 全部种类具真工蚁（v5 段 700）"
+        },
+        {
+          "quote": "seven family-level monophyletic lineages, including the Heterotermitidae Froggatt, Psammotermitidae Holmgren, and Termitogetonidae Holmgren, raised from subfamilial rank.",
+          "locator": "p. 1 / 摘要",
+          "note": "支撑：新等翅类七科、沙白蚁科/寡脉白蚁科等由亚科提升（v5 分类叙述）"
+        },
+        {
+          "quote": "group relationship with the subsocial Cryptocercus wood roaches",
+          "locator": "p. 1 / 摘要",
+          "note": "支撑：白蚁与隐尾蠊互为姐妹群（v5 段 828）"
+        }
+      ],
+      "used_in": [
+        "白蚁基础知识-中文稿-修订-v5.docx"
+      ],
+      "body_sha256": "3ca3660e2288e8759a4f2e394ed2086e9ec95d078808e135435c844efbdca1d1",
+      "chars": 4128814,
+      "canonical_key": "doi:10.1038/s41467-024-51028-y",
+      "id": "S0008"
     }
   ]
 }
