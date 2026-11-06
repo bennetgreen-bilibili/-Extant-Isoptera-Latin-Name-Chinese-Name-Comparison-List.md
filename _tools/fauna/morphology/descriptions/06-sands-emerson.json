@@ -1,0 +1,121 @@
+{
+ "/genus/baucaliotermes/": {
+  "zh_name": "细颈白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁头壳（含鼻部）上微小刚毛的毛窝清晰可见、呈淡色斑点散布，是与 Trinervitermes 的主要区别——后者兵蚁无可见毛窝，且兵蚁为二型；有翅成虫的毛被较粗、毛窝更显著，头部淡色区的分布亦与 Trinervitermes 不合。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "左上颚端齿与第 1 缘齿近等长，二者间距（标本已磨损）略小于第 1 与第 3 缘齿间距的 1/3（左颚指数 −0.30）；第 2 缘齿消失；第 1 与第 3 缘齿之间的切缘完整、平直。后唇基长略小于宽之半。囟在两性形状不同：一型小、淡色、呈不规则 Y 形，另一型呈梯形、侧臂自前角伸出且末端略膨大；两性囟后方均有一平滑浅凹区，色泽与头壳其余部分相同。头壳毛被不匀，毛窝大小不一，大型者众多而显著。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "单型。鼻极细、圆柱形，至多微渐细；退化上颚无端突；头壳不缢缩；触角 12–14 节，通常 14 节。微小刚毛的毛窝在包括鼻部在内的整个头壳上呈淡色斑点，清晰可见。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0047",
+    "citation": "Sands, W. A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4. London: Trustees of the British Museum (Natural History).",
+    "locator": "pp. 138–139（Imago、Soldier 属征及属级讨论）"
+   }
+  ],
+  "note": "模式种 Subulitermes hainesi Fuller；本属系 Sands 为容纳该单型种而设，已知仅分布于南非开普省干旱区，原描述于 Subulitermes，后曾归入 Trinervitermes。有翅成虫描述所据为已磨损的模式王、王后标本。原文囟的性别符号在扫描 OCR 中作“(^”与“?”，本条目只作“一型／另一型”处理，未据此判定雌雄。Sands 期待采到新鲜有翅成虫后属间差异更清楚；据其记述，第 5 腹板前缘的香腺在雌性中显得很小、在雄性中缺失，而 Trinervitermes 中该腺即使不大也清晰可见。"
+ },
+ "/genus/afrosubulitermes/": {
+  "zh_name": "非锥白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "Sands 认为本属在埃塞俄比亚区诸属中与 Eutermellus 最近，两属的属级界限并不如原描述所示分明：本属的主要特征是有翅成虫体型极小、毛被大为减少，以及兵蚁鼻相对较短；它同时带有 Postsulitermes 的性状，似介于该属与 Eutermellus 之间。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "左上颚端齿明显长于第 1 缘齿，但二者间距略短于第 1 至第 3 缘齿间距（左颚指数 0.89–0.94）；第 3 缘齿前方的切缘深凹，微波状或近直。后唇基几乎不隆起，沿头面轮廓，宽为长的 2–3 倍。囟表现为一条细长的窄脊，仅侧光下可见于高度磨光的头壳上，其前方有淡色椭圆斑。复眼不向头侧突出。头部几乎无毛，仅具成对的显著刚毛，位于头顶、单眼之间、后唇基中部及其前缘。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "单型。鼻细、圆柱形，端部收成细尖；退化上颚无端突，上唇前缘波状；触角 12 节。"
+   },
+   {
+    "label": "工蚁",
+    "text": "上颚与有翅成虫相同，但端齿比例更长（左颚指数 1.36–1.39）；左第 1 缘齿后方的切缘更呈波状；右臼板棱突更明显。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0047",
+    "citation": "Sands, W. A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4. London: Trustees of the British Museum (Natural History).",
+    "locator": "pp. 153–154（Imago、Soldier、Worker 属征及讨论）"
+   },
+   {
+    "id": "S0059",
+    "citation": "Emerson, A. E. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian Region (Isoptera, Termitidae). American Museum Novitates 1987: 1–21.",
+    "locator": "pp. 7–8（原始描述：兵蚁、工蚁）"
+   }
+  ],
+  "note": "Emerson 1960 建立本属时只描述兵蚁与工蚁；有翅成虫由 Sands 1965 首次描述，并在属征中给出。Sands 不同意 Emerson 把本属与 Verrucositermes 视为近缘，认为后者更可能单独源自 Eutermellus 附近的祖先（p. 154）。工蚁左颚指数 Emerson 记 1.47、Sands 记 1.36–1.39，取样不同，引用时须注明出处。"
+ },
+ "/genus/verrucositermes/": {
+  "zh_name": "疣白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "Emerson 指出，其兵蚁头壳与触角上的众多显著疣突在已知象白蚁类中独一无二，依结构与位置推测为嗅觉感器。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "后唇基中度隆起，宽为长的 2–5 倍，前缘凹入、波状；囟为淡色条纹，向后渐细并略凹陷；复眼略突出于头侧，边缘下切；头毛细密均匀，杂少数较粗刚毛；前胸背板两侧向后收窄，长小于宽的 2/3。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "单型。鼻细、圆柱形，端部收成细尖；退化上颚无端突，但轮廓具棱角；上唇前缘波状。头壳在鼻基强烈膨大、中部急剧缢缩，密布不规则小疣突，鼻基与前叶最密。触角 12–13 节，第 III–IX 或 X 节内侧各具 3 个疣突。"
+   },
+   {
+    "label": "工蚁",
+    "text": "左上颚端齿长于第 1 缘齿，二者间距大于第 1 至第 3 缘齿间距（左颚指数 1.36）；第 3 缘齿前方的切缘具缺刻；第 3 缘齿与臼突之间的间隙略宽于该缺刻，二者之间的小齿勉强可见。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0047",
+    "citation": "Sands, W. A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4. London: Trustees of the British Museum (Natural History).",
+    "locator": "pp. 156–157（Imago、Soldier、Worker 属征及讨论）"
+   },
+   {
+    "id": "S0059",
+    "citation": "Emerson, A. E. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian Region (Isoptera, Termitidae). American Museum Novitates 1987: 1–21.",
+    "locator": "pp. 3–5（原始描述：有翅成虫、兵蚁、工蚁）"
+   }
+  ],
+  "note": "有翅成虫仅据唯一的模式王（morphotype king）标本，上颚未解剖，Sands 故以工蚁上颚代述（p. 156）；Emerson 另记头圆卵形、复眼比例大、单眼距复眼约其宽度的 2/3、胫节距 2:2:2（p. 4）。Sands 认为这一极具特征的兵蚁品级是本属最主要的属征，并指出 Eutermellus 与 Mimeutermes 的鼻及鼻基也有类似粗糙化倾向，但程度远不及本属（p. 157）。Sands 又指出 Emerson (1960) 所绘“工蚁上颚”实为 Orthotermes depressifrons（Termitinae）标本混入，故工蚁段以 Sands 的记述为准。"
+ },
+ "/genus/foraminitermes/": {
+  "zh_name": "孔白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "有翅成虫头近圆形，复眼强凸、小眼面粗，单眼靠近复眼，囟位于一短而明显的圆锥突顶端（Holmgren 疑其具囟腺，因未能确证而存疑）；唇基基片略短于其半宽、稍隆起、不达上颚髁；上颚构造似 Mirotermes；触角 15 节；前胸背板前叶大、强烈抬起呈鞍形；两对翅均具退化径脉；尾须短，无针突；前足胫节 3 端刺。Sands 指出，本属与 Labritermes 的兵蚁上颚相似、上唇均具透明端部；在工蚁与有翅成虫中，本属因适应土食而端齿延长、臼板横脊消失。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "头近圆形；复眼强凸、小眼面粗；单眼位于复眼附近；囟位于一短而明显的圆锥突顶端（原文于囟腺之有无存疑）；唇基基片略短于其半宽，稍隆起，不达上颚髁；上颚似 Mirotermes；触角 15 节。前胸背板前叶大、强烈抬起，鞍形；前翅鳞略长而宽于后翅鳞；翅膜透明、略带虹彩、极细密点状；两对翅均具退化径脉；尾须短；无针突；前足胫节具 3 枚端刺。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0033",
+    "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+    "locator": "p. 125（属征，德文）"
+   },
+   {
+    "id": "S0005",
+    "citation": "Sands, W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology, Supplement 18. London: Trustees of the British Museum (Natural History).",
+    "locator": "p. 39（与 Labritermes 的比较：兵蚁上颚、上唇、工蚁与有翅成虫上颚齿比）"
+   }
+  ],
+  "note": "Holmgren 1912 的属征只有有翅成虫（模式种 F. tubifrons，喀麦隆），并明言其系统位置当时尚不能确定。原文为德文，扫描 OCR 将变音字母与个别词拼错（cines/eines、dcutlichen/deutlichen、kegclformigen/kegelförmigen、kiirzer/kürzer 等），引文照录并另注校正。兵蚁与工蚁的外部形态在可获全文中没有属级描述，Sands 1972 只作上颚与肠型的比较，故不另立兵蚁、工蚁段。"
+ }
+}

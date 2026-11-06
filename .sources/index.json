@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 61,
+    "count": 66,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T06:43:59+08:00",
+    "updated": "2026-11-07T06:50:48+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -615,10 +615,16 @@
           "quote": "Fontanelle circular to short oval, distinct, conspicuously paler than head capsule. Pilosity of head a short, fine, even silvery pelt, with emergent setae.",
           "locator": "p. 222",
           "note": "代表引文：p. 222（属征/鉴别特征）"
+        },
+        {
+          "quote": "The soldiers of these two genera have similar mandibles and both also have a hyaline tip to the labrum. In the worker and imago castes the proportions of the mandibular teeth differ, Foramimtermes having become adapted to soil-feeding by the elongation of apical teeth and loss of molar ridges.",
+          "locator": "p.39，Labritermes 与 Foraminitermes 的比较",
+          "note": "支撑：孔白蚁属与唇白蚁属的兵蚁上颚、上唇及工蚁/有翅成虫齿比差异"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/06-sands-emerson.json",
         "_tools/fauna/morphology/descriptions/sands1972.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
@@ -1910,7 +1916,8 @@
       "lang": "de",
       "license": "unknown",
       "used_in": [
-        "_data/morphology_genera.json"
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/06-sands-emerson.json"
       ],
       "evidence": [
         {
@@ -1927,6 +1934,16 @@
           "quote": "Soldat: FCopf rektangular, ziemlich flach geAvOlbt, mit flacher Stirn. Stirmvulst und Fontanelle fehlen.",
           "locator": "p. 118（OCR 原文）",
           "note": "支撑：Orthognathotermes 兵蚁头形、额平、无额隆与囟"
+        },
+        {
+          "quote": "Imago: Kopf beinahe kreisrund. [Tafel IV, Fig. 34.] Augen stark vorstehend, grob facettiert. Ozellen in der Nahe der Augen. Fontanelle an der Spitze cines kurzen, dcutlichen, kegclformigen Vorsprunges. Fontanelle mit Fontanellcndriise? Clypeobasale etwas kiirzer als seine lialbe Breite, etwas gcwolbt, die Mandibelkondjden nicht erreichend. Mandibeln wie bei Mirotermes. Antennen 15-gliedrig.",
+          "locator": "p.125，Foraminitermes 属征（Imago，德文）",
+          "note": "支撑：孔白蚁属有翅成虫头部、囟、唇基、上颚与触角"
+        },
+        {
+          "quote": "Pronotum mit grossem, stark aufgerichteten Vorderlappen, sattelformig. [Tafel IV, Fig. 35.] Vordere Flugelschuppen etwas liinger und breiter als hinterc. Fliigelmembran hyalin, etwas irisierend, sehr fein punktiert. Beide Fliigelpaare mit eincm rudimentaren Radius. Cerci kurz. Styli fehlen. Vordcrtibien mit 3 Apicaldornen.",
+          "locator": "p.125，Foraminitermes 属征（Imago，胸部与翅）",
+          "note": "支撑：孔白蚁属前胸背板、翅鳞、翅膜、径脉、尾须与胫节端刺"
         }
       ],
       "id": "S0033"
@@ -2473,13 +2490,44 @@
           "quote": "Dimorphic. Major soldier, nose short, cylindrical, vestigial mandibles with small but distinct points showing trace of marginal as well as apical tooth; head capsule very weakly constricted behind antennae, vertex and nose with short but distinct bristle-like setae.",
           "locator": "p. 75（Mycterotermes, major soldier）",
           "note": "支撑：Mycterotermes 兵蚁二型与大型兵蚁特征"
+        },
+        {
+          "quote": "Left mandible with apical and first marginal teeth subequal, distance from apical to first marginal (worn specimen) slightly less than one-third distance between first and third marginals (index -30), second marginal obsolete, cutting edge between first and third marginals entire, straight ;",
+          "locator": "p.138，Baucaliotermes 属征（Imago）",
+          "note": "支撑：细颈白蚁属有翅成虫左上颚端齿比例、第 2 缘齿消失与切缘形态"
+        },
+        {
+          "quote": "Soldier. Monomorphic. Nose very thin and cylindrical, at most slightly tapering. Vestigial mandibles without points. Head capsule not constricted. Antennae 12-14 segmented, usually 14. Sockets of minute setae clearly visible as pale spots scattered over entire head capsule including nose.",
+          "locator": "p.139，Baucaliotermes 属征（Soldier）",
+          "note": "支撑：细颈白蚁属兵蚁单型、鼻形、触角节数与毛窝"
+        },
+        {
+          "quote": "Soldier. Monomorphic. Nose thin, cylindrical, tapering to fine point. Vestigial mandibles without points, labrum with sinuate anterior margin. … Antennae 12 segmented. … Worker. Mandibles as imago except apical tooth longer in proportion (left mandible index I -36-1 * 39 ), cutting edge behind left first marginal more sinuate, and right molar plate with more pronounced flanges.",
+          "locator": "p.153，Afrosubulitermes 属征（Soldier、Worker）",
+          "note": "支撑：非锥白蚁属兵蚁与工蚁上颚特征"
+        },
+        {
+          "quote": "Postclypeus moderately inflated, width 2-5 times length, anterior margin concave, sinuate. Fontanelle a pale streak, tapering and slightly depressed posteriorly. Eyes set slightly out from sides of head and undercut at rims. Pilosity of head fine and uniform with a few more prominent setae. Pronotum, sides converging posteriorly, length less than two-thirds width.",
+          "locator": "p.156，Verrucositermes 属征（Imago）",
+          "note": "支撑：疣白蚁属有翅成虫头部与前胸背板"
+        },
+        {
+          "quote": "Antennae 12-13 segmented, HI to IX or X with 3 tubercles each on inner side.",
+          "locator": "p.157，Verrucositermes 属征（Soldier，触角）",
+          "note": "支撑：疣白蚁属兵蚁触角节数与疣突排布"
+        },
+        {
+          "quote": "New material of Entermellus has shown a greater range of variation than was previously known, and the main distinctive features of Afrosubulitermes are its extremely small size and much reduced pilosity in the imago, and its proportionately shorter nose in the soldier. It also has features of resemblance to Postsiibulitermes and appears to be intermediate between this genus and Entermellus.",
+          "locator": "p.154，Afrosubulitermes 属级讨论",
+          "note": "支撑：非锥白蚁属的属级鉴别特征及其与 Eutermellus、Postsulitermes 的关系"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/04-6.json"
+        "_tools/fauna/morphology/descriptions/04-6.json",
+        "_tools/fauna/morphology/descriptions/06-sands-emerson.json"
       ],
-      "accessed": "2026-11-07T03:52:32+08:00",
+      "accessed": "2026-11-07T06:48:31+08:00",
       "canonical_key": "doi:10.5962/p.193228",
       "id": "S0047"
     },
@@ -2800,16 +2848,48 @@
           "quote": "Worker: Large, with head width of about 1 mm.",
           "locator": "Rubeotermes gen. nov., Description: Worker",
           "note": "属级体型"
+        },
+        {
+          "quote": "Description Worker: Medium-sized (see Table 3). Head pale yellow, rounded to slightly ovoid, fully covered by about 60 setae. Fontanelle indistinct. Mandibles as in Figure 2D. Fore tibia strongly inﬂated, about three times as long as wide.",
+          "locator": "p. 20, Description (Worker)",
+          "note": "支撑：工蚁中型、头淡黄被约 60 根刚毛、前胫节强烈膨大约 3 倍于宽。"
+        },
+        {
+          "quote": "Enteric valve inserted into an extension of the paunch, consisting of six elongated pads, each composed of about 100 scales and endowed posteriorly with about 15 weakly sclerotized spines.",
+          "locator": "p. 20, Description (Worker, digestive tube)",
+          "note": "支撑：肠瓣着生于 paunch 延伸部，6 个细长垫、每垫约 100 枚鳞片、后缘约 15 根弱硬化刺。"
+        },
+        {
+          "quote": "Amplucrutermes is clearly distinct from all other described South American soldierless termite genera. It can be recognized by its enlarged fore tibia, which are similar to Tetimatermes but less concave and lacking proximal glands. The enteric valves of Amplucrutermes, composed of about 100 scales and 15 weakly sclerotized apical spines, are also diagnostic (Fig. 2C).",
+          "locator": "p. 20, Diagnosis",
+          "note": "支撑：与所有已知南美无兵蚁白蚁属区分；前胫节似 Tetimatermes 但凹陷较浅、近端无腺体；肠瓣约 100 鳞片 + 15 根弱硬化端刺。"
+        },
+        {
+          "quote": "Hydrecotermes is morphologically closest to Grigiotermes and Patawatermes but can easily be distinguished from these two genera by its smaller workers devoid of enteric valve armatures. Its workers differ from other Neotropical soldierless termites by their enlarged P1 and overall squat abdomen, and by their oval enteric valve cushions without armature.",
+          "locator": "p. 24, Diagnosis",
+          "note": "支撑：最接近 Grigiotermes 与 Patawatermes，工蚁更小且肠瓣无硬化 armature；P1 膨大、腹部粗短、肠瓣垫卵形无刺。"
+        },
+        {
+          "quote": "Medium-sized, with head width between 0.6 and 0.8 mm. Abdomen with slightly enlarged digestive tract. Head pale yellow, rounded, covered by 50 to 200 bristles and devoid of tiny ones.",
+          "locator": "p. 23, Description (Worker)",
+          "note": "支撑：工蚁中型、头宽 0.6–0.8 mm、腹部消化道略膨大、头淡黄圆形被 50–200 根刚毛而无微毛。"
+        },
+        {
+          "quote": "Sclerotized body dark brown, covered by thousands of tiny setae. Head covered by a few long bristles. Eyes and ocelli large. Fontanelle fairly large, situated at the posterior level of eyes and appearing as a spot devoid of setae.",
+          "locator": "p. 24, Description (Imago)",
+          "note": "支撑：有翅成虫体部深褐密被微毛、头仅数根长刚毛、复眼与单眼大、fontanelle 大而位于复眼后缘水平且无毛。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/05-gaps.json"
+        "_tools/fauna/morphology/descriptions/05-gaps.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
       ],
       "notes": "一条来源支撑 Humutermes（pp. 20–22）、Patawatermes、Rubeotermes（pp. 27–30）三属，按 canonical DOI 合并为一条记录。Patawatermes 的属级 treatment 页码未能核实（Zenodo 记录只给 isPartOf 全文，未给页码）；batch 中该属原始 URL 的 hash 实指向 Humutermes 的 treatment。特别提示：_tmp/lit/batches/05-gaps.json 把本 DOI 的题名写成 'Towards a better understanding of the nervous system in termites…'，与 DOI 实际题名不符，疑为题录串行，引用时应以本记录题名为准。",
-      "accessed": "2026-11-07T03:57:34+08:00",
+      "accessed": "2026-11-07T06:50:48+08:00",
       "canonical_key": "doi:10.1111/zoj.12305",
-      "id": "S0054"
+      "id": "S0054",
+      "publisher": "The Linnean Society of London / Oxford University Press"
     },
     {
       "title": "Tucupitermes, the largest Apicotermitinae (Isoptera, Termitidae) from the Amazon Rainforest",
@@ -3018,15 +3098,21 @@
           "quote": "Length of head 1.39-1.53 Width of head 0.55-0.60 Thickness of head with postmentum 0.50-0.56 Width of pronotum 0.34-0.39 Length of hind tibia 0.71-0.79",
           "locator": "p. 14，Table 5（10 头兵蚁测量）",
           "note": "支撑：Postsubulitermes 兵蚁头长 1.39–1.53 mm、头宽 0.55–0.60 mm、后足胫节 0.71–0.79 mm"
+        },
+        {
+          "quote": "The soldier of Verrucositermes is unique among all known genera of nasute termites in its possession of numerous conspicuous tubercles on the head and antennae. Because of their structure and position, these tubercles are probably olfactory sense organs.",
+          "locator": "p.5，Verrucositermes 原始描述之后的评论",
+          "note": "支撑：疣白蚁属兵蚁疣突的独特性与功能推测（Emerson 原始描述）"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/04-7.json"
+        "_tools/fauna/morphology/descriptions/04-7.json",
+        "_tools/fauna/morphology/descriptions/06-sands-emerson.json"
       ],
       "notes": "1960 年 3 月 1 日出版（No. 1987），建立 Verrucositermes、Afrosubulitermes、Postsubulitermes、Tarditermes 四新属；属级描述明确分 IMAGO / SOLDIER / Worker（OCR 把 IMAGO 印成 Imaco、FIG. 印成 Fic.），并附 Table 4–7 测量。Postsubulitermes、Tarditermes 两属的体色与测量值取自其后的种记述（P. parviconstrictus、T. contracolor），在 04-7.json 中已标明。",
       "publisher": "American Museum Novitates 1987: 1–20",
-      "accessed": "2026-11-07T06:35:43+08:00",
+      "accessed": "2026-11-07T06:48:31+08:00",
       "canonical_key": "url:https://archive.org/details/newgeneraonsubu1987emer",
       "id": "S0059"
     },
@@ -3102,6 +3188,207 @@
       "accessed": "2026-11-07T06:43:59+08:00",
       "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-138-085-130",
       "id": "S0061"
+    },
+    {
+      "title": "Chasitermes pax, a new genus and species of soldierless termite (Termitidae, Apicotermitinae) from the island of Trinidad",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2023,
+      "authors": [
+        "Scheffrahn R. H.",
+        "Carrijo T. F."
+      ],
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "evidence": [
+        {
+          "quote": "Diagnosis. The combination of unsclerotized rectangular EVA cushions, a tubular extension of EVS, and a prominent spherical mesenteric tongue make C. pax unique among all Apicotermitinae genera.",
+          "locator": "p. 129, Diagnosis",
+          "note": "支撑：不硬化长方形 EVA 垫、EVS 管状延伸、球形 mesenteric tongue 三特征组合使其区别于全部 Apicotermitinae 属。"
+        },
+        {
+          "quote": "Description. Imago unknown. Worker. (Figs 1–4). Monomorphic. Head capsule and antennae light yellowish.",
+          "locator": "p. 129, Description",
+          "note": "支撑：有翅成虫未知、单型、头壳与触角淡黄。"
+        },
+        {
+          "quote": "Cuticle of EVA without sclerotization (Fig. 4A, B) forming six rectangular cushions with about 100 scales each (Fig. 4A).",
+          "locator": "p. 129, Description (EVA)",
+          "note": "支撑：EVA 角质层不硬化，形成 6 个长方形垫，每垫约 100 枚鳞片。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
+      ],
+      "notes": "JATS 全文（_tmp/lit/fulltext/07-noentry-a/chasitermes.xml）与出版社 PDF（_tmp/lit/pdfs/07-noentry-a/chasitermes.pdf）互校；引文取自 JATS（已去行内标签），页数据 PDF 印刷页码。",
+      "doi": "10.3897/zookeys.1139.94972",
+      "url": "https://doi.org/10.3897/zookeys.1139.94972",
+      "accessed": "2026-11-07T06:50:48+08:00",
+      "canonical_key": "doi:10.3897/zookeys.1139.94972",
+      "id": "S0062"
+    },
+    {
+      "title": "Echinotermes biriba, a new genus and species of soldierless termite from the Colombian and Peruvian Amazon (Termitidae, Apicotermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2018,
+      "authors": [
+        "Castro D.",
+        "Scheffrahn R. H.",
+        "Carrijo T. F."
+      ],
+      "publisher": "Pensoft Publishers",
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "evidence": [
+        {
+          "quote": "Diagnosis. The crop of E. biriba is unusually large and the enteric valve armature, consisting of six spherical pectinate pads, is unique among all apicotermitine genera.",
+          "locator": "p. 24, Diagnosis",
+          "note": "支撑：嗉囊异常大、肠瓣为 6 个球形栉状垫，在 Apicotermitinae 中独有。"
+        },
+        {
+          "quote": "Monomorphic. Head capsule and antennae a light yellowish colour; pronotum pale yellow; legs hyaline.",
+          "locator": "pp. 23–24, Description of worker",
+          "note": "支撑：单型、头与触角淡黄、前胸背板淡黄、足透明。"
+        },
+        {
+          "quote": "Enteric valve seating trilobed, with smaller lobe not visible in intact gut. Enteric valve with six cushions, terminating at the opening to the P3 as spiny spheroids (Fig. 2).",
+          "locator": "p. 24, Description of worker (gut)",
+          "note": "支撑：EVS 三叶且较小一叶在完整肠道中不可见；肠瓣 6 垫，末端呈带刺球状。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
+      ],
+      "notes": "JATS 全文（_tmp/lit/fulltext/07-noentry-a/echinotermes.xml）与出版社 PDF 互校；属级 Diagnosis 位于 p. 24。",
+      "doi": "10.3897/zookeys.748.24253",
+      "url": "https://doi.org/10.3897/zookeys.748.24253",
+      "accessed": "2026-11-07T06:50:48+08:00",
+      "canonical_key": "doi:10.3897/zookeys.748.24253",
+      "id": "S0063"
+    },
+    {
+      "title": "Compositermes vindai (Isoptera: Termitidae: Apicotermitinae), a new genus and species of soldierless termite from the Neotropics",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2013,
+      "authors": [
+        "Scheffrahn R. H."
+      ],
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "license": "unknown",
+      "evidence": [
+        {
+          "quote": "Diagnosis. The enteric valve cushions, much enlarged and tubular enteric valve seating, and the sclerotized pectinate paddles at the S/P3 junction are unique among all termite workers.",
+          "locator": "p. 383, Diagnosis",
+          "note": "支撑：肠瓣垫增大、EVS 长管状、S/P3 交界处硬化栉状小铲，为全体白蚁工蚁中所仅见。"
+        },
+        {
+          "quote": "P2 formed by six slightly incongruent, egg-shaped cushions. Intersection of S and P3 embellished with 15–20 small pectinate paddles visible externally in situ under microscope when abdominal integument removed.",
+          "locator": "p. 383, Description (enteric valve)",
+          "note": "支撑：P2 由 6 个略不整齐的卵形垫组成；S/P3 交界处 15–20 枚小栉状铲，剥去体壁后自外部可见。"
+        },
+        {
+          "quote": "Imago unknown. Worker (Figs. 3–6). Monomorphic. Fore tibia moderately inflated (ratio length/width 3.98).",
+          "locator": "p. 381, Description",
+          "note": "支撑：有翅成虫未知；单型；前胫节中度膨大，长宽比 3.98。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
+      ],
+      "notes": "PDF 自 mapress.com 公开下载（bz2 无）；Zootaxa 未在 PDF 内标注开放许可，故 license 记 unknown。属级描述跨 pp. 381–383。",
+      "doi": "10.11646/zootaxa.3652.3.6",
+      "url": "https://doi.org/10.11646/zootaxa.3652.3.6",
+      "accessed": "2026-11-07T06:50:48+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.3652.3.6",
+      "id": "S0064"
+    },
+    {
+      "title": "Gastrotermes spinatus gen. n. sp. n., an African soil-feeding termite described from the worker caste (Isoptera, Termitidae, Apicotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2020,
+      "authors": [
+        "Scheffrahn R. H."
+      ],
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "license": "unknown",
+      "evidence": [
+        {
+          "quote": "Description. Imago. Unknown. Soldier. Unknown, but may exist. Worker. Head, pronotum, and abdomen covered with hundreds of long or very long hairs",
+          "locator": "p. 291, Description",
+          "note": "支撑：有翅成虫未知、兵蚁未知但可能存在；工蚁头、前胸背板与腹部密被数百根长至很长的毛。"
+        },
+        {
+          "quote": "An absence of a mixed segment and the presence of both a very short P1 and a voluminous trilobite enteric valve seating places Gastrotermes in the Apicotermes group (sensu Noirot 2001).",
+          "locator": "p. 291, Diagnosis",
+          "note": "支撑：无 mixed segment、P1 很短、EVS 大而三叶，归入 Apicotermes 群。"
+        },
+        {
+          "quote": "Also, genera within the Labidotermes subgroup lack P3a spines (as in L. celisi Deligne and Pasteels, Fig. 4C) while in Gastrotermes, the EVS is lined with small erect spines and the opening of the P3a is lined with many robust spines.",
+          "locator": "p. 291, Diagnosis（与 Labidotermes 亚群对比）",
+          "note": "支撑：该亚群其他属 P3a 无刺，而本属 EVS 内壁具小直立刺、P3a 开口列粗壮刺。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
+      ],
+      "notes": "PDF 自 mapress.com 公开下载；许可未标注。属级描述与 Diagnosis 同在 p. 291。",
+      "doi": "10.11646/zootaxa.4789.1.12",
+      "url": "https://doi.org/10.11646/zootaxa.4789.1.12",
+      "accessed": "2026-11-07T06:50:48+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.4789.1.12",
+      "id": "S0065"
+    },
+    {
+      "title": "Ebogotermes raphaeli, new genus and new species, an African soldierless termite described from the worker caste (Isoptera, Termitidae, Apicotermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 2021,
+      "authors": [
+        "Scheffrahn R. H.",
+        "Roisin Y.",
+        "Akama P. D.",
+        "Šobotník J."
+      ],
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "license": "unknown",
+      "evidence": [
+        {
+          "quote": "Diagnosis. Ebogotermes is the largest (Figs. 1, 2) of the soldierless apicotermitine workers in equatorial Africa.",
+          "locator": "p. 279, Diagnosis",
+          "note": "支撑：为赤道非洲无兵蚁 apicotermitine 工蚁中体型最大者。"
+        },
+        {
+          "quote": "The circular mesenteron, well-developed mixed segment, moderately long P1, P3/P4 isthmus, and long tubular P4 place Ebogotermes in the Anoplotermes-group (Noirot, 2001).",
+          "locator": "p. 279, Diagnosis",
+          "note": "支撑：中肠成环、mixed segment 发达、P1 中等长、P3/P4 缢部、P4 长管状，归入 Anoplotermes 群。"
+        },
+        {
+          "quote": "Worker. Head, thorax, abdomen, and legs covered with setae of varying lengths. Antennae with 14 articles. Postclypeus moderately inflated. Fore tibia slightly inflated. Tibial spurs 3, 2, 2.",
+          "locator": "p. 279, Worker",
+          "note": "支撑：全身被长短不一刚毛、触角 14 节、后唇基中度膨大、前胫节轻微膨大、胫节距 3:2:2。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-a.json"
+      ],
+      "notes": "PDF 自 mapress.com 公开下载；许可未标注。属级描述在 p. 279。",
+      "doi": "10.11646/zootaxa.5067.2.10",
+      "url": "https://doi.org/10.11646/zootaxa.5067.2.10",
+      "accessed": "2026-11-07T06:50:48+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.5067.2.10",
+      "id": "S0066"
     }
   ]
 }

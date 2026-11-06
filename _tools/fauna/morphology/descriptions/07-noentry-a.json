@@ -1,0 +1,153 @@
+{
+ "/genus/amplucrutermes/": {
+  "zh_name": "大腿白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "新热带无兵蚁白蚁（Anoplotermes 群）中，可凭强烈膨大的前胫节与肠瓣结构区别于其他所有已知属：前胫节外形近似 Tetimatermes，但凹陷较浅、近端无腺体构造；肠瓣由约 100 枚鳞片与约 15 根弱硬化端刺组成，同样具鉴别价值。"
+   },
+   {
+    "label": "工蚁",
+    "text": "中型。头淡黄，圆形至略卵形，全头约 60 根刚毛；fontanelle 不明显；前胫节强烈膨大，长约等于宽的 3 倍。肠瓣着生于 paunch 的延伸部内，由 6 个细长垫组成，每垫约 100 枚鳞片，后缘约 15 根弱硬化刺。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0054",
+    "citation": "Bourguignon T., Scheffrahn R. H., Nagy Z. T., Sonet G., Host B., Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. doi:10.1111/zoj.12305",
+    "locator": "p. 20（Description Worker / Diagnosis）"
+   }
+  ],
+  "note": "属名意为「大足」（amplus = 大，crus = 足）。原文仅有工蚁描述，明记 Imago: Unknown，故不设兵蚁与有翅成虫节。"
+ },
+ "/genus/chasitermes/": {
+  "zh_name": "蔡斯白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "以下三特征组合使本属区别于所有 Apicotermitinae 属：EVA 垫不硬化而呈长方形、EVS 具管状延伸、mesenteric tongue 球形突出。目前仅知工蚁，有翅成虫未知。"
+   },
+   {
+    "label": "工蚁",
+    "text": "单型。头壳与触角淡黄。EVA 角质层不硬化，形成 6 个长方形垫，每垫约 100 枚鳞片；EVS 具管状延伸。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0062",
+    "citation": "Scheffrahn R. H., Carrijo T. F. 2023. Chasitermes pax, a new genus and species of soldierless termite (Termitidae, Apicotermitinae) from the island of Trinidad. ZooKeys 1139: 127–136. doi:10.3897/zookeys.1139.94972",
+    "locator": "p. 129（Taxonomy / Chasitermes gen. nov.）"
+   }
+  ],
+  "note": "属名纪念采集者 James A. Chase。原文 Imago unknown；无兵蚁，故只设鉴别要点与工蚁两节。"
+ },
+ "/genus/echinotermes/": {
+  "zh_name": "多刺白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "嗉囊（crop）异常大，肠瓣由 6 个球形栉状垫组成、末端呈带刺球状，这一组合在 Apicotermitinae 各属中独一无二。"
+   },
+   {
+    "label": "工蚁",
+    "text": "单型；头与触角淡黄，前胸背板淡黄，足透明。嗉囊极大；EVS 三叶，其中较小的一叶在完整肠道中不可见；肠瓣 6 个垫，末端在进入 P3 的开口处呈带刺球状。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0063",
+    "citation": "Castro D., Scheffrahn R. H., Carrijo T. F. 2018. Echinotermes biriba, a new genus and species of soldierless termite from the Colombian and Peruvian Amazon (Termitidae, Apicotermitinae). ZooKeys 748: 21–30. doi:10.3897/zookeys.748.24253",
+    "locator": "pp. 23–24（Systematics / Echinotermes gen. n.；Diagnosis 在 p. 24）"
+   }
+  ],
+  "note": "属名源自拉丁语 Echino（多刺），指肠瓣 armature。原文 Imago: Unknown，无兵蚁，故不设有翅成虫与兵蚁节。"
+ },
+ "/genus/compositermes/": {
+  "zh_name": "肠刺白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "工蚁肠瓣垫显著增大、EVS 呈长管状、S/P3 交界处具一圈硬化栉状小铲（约 15–20 枚），这一组合在全体白蚁工蚁中仅见。有翅成虫未知。"
+   },
+   {
+    "label": "工蚁",
+    "text": "单型；前胫节中度膨大（长宽比 3.98）。肠瓣（P2）由 6 个略不整齐的卵形垫组成；S/P3 交界处约 15–20 枚小栉状铲，在剥去腹部体壁后可在镜下自外部看到。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0064",
+    "citation": "Scheffrahn R. H. 2013. Compositermes vindai (Isoptera: Termitidae: Apicotermitinae), a new genus and species of soldierless termite from the Neotropics. Zootaxa 3652(3): 381–391. doi:10.11646/zootaxa.3652.3.6",
+    "locator": "pp. 381–383（Compositermes gen. nov.：描述自 p. 381 起，Diagnosis 在 p. 383）"
+   }
+  ],
+  "note": "属名源自拉丁语 compositus（拼合、由多部分组成），指 S/P3 交界处成环的 15 枚以上栉状小铲。原文 Imago unknown（仅图示短翅若虫），不设有翅成虫节。"
+ },
+ "/genus/gastrotermes/": {
+  "zh_name": "胃白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "缺 mixed segment、P1 很短、EVS 大而呈三叶，据此归入 Apicotermes 群。与 Labidotermes 亚群其他属不同：本属 EVS 内壁具小型直立刺，P3a 开口处列有粗壮刺。有翅成虫未知；兵蚁未知（原文记 Soldier. Unknown, but may exist）。"
+   },
+   {
+    "label": "工蚁",
+    "text": "头、前胸背板与腹部密被数百根长至很长的毛。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0065",
+    "citation": "Scheffrahn R. H. 2020. Gastrotermes spinatus gen. n. sp. n., an African soil-feeding termite described from the worker caste (Isoptera, Termitidae, Apicotermitidae). Zootaxa 4789(1): 291–296. doi:10.11646/zootaxa.4789.1.12",
+    "locator": "p. 291（Gastrotermes gen. nov.：Description / Diagnosis）"
+   }
+  ],
+  "note": "属名由希腊语 gaster（腹、胃）与 termes 组成，指其消化道特征。原文未描述兵蚁与有翅成虫，故相应各节留空。"
+ },
+ "/genus/ebogotermes/": {
+  "zh_name": "埃博戈白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "赤道非洲无兵蚁（soldierless）apicotermitine 工蚁中体型最大者；中肠成环、mixed segment 发达、P1 中等长、具 P3/P4 缢部、P4 长管状，据此归入 Anoplotermes 群。"
+   },
+   {
+    "label": "工蚁",
+    "text": "头、胸、腹与足均被长短不一的刚毛；触角 14 节；后唇基中度膨大；前胫节轻微膨大；胫节距 3:2:2。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0066",
+    "citation": "Scheffrahn R. H., Roisin Y., Akama P. D., Šobotník J. 2021. Ebogotermes raphaeli, new genus and new species, an African soldierless termite described from the worker caste (Isoptera, Termitidae, Apicotermitinae). Zootaxa 5067(2): 279–284. doi:10.11646/zootaxa.5067.2.10",
+    "locator": "p. 279（Taxonomy / Ebogotermes gen. nov.）"
+   }
+  ],
+  "note": "属名取自模式产地附近的喀麦隆 Ebogo 村。原文 Imago. Unknown；Soldier. Unknown, belongs to a soldierless clade，故不设兵蚁与有翅成虫节。"
+ },
+ "/genus/hydrecotermes/": {
+  "zh_name": "海德瑞克白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "形态上最接近 Grigiotermes 与 Patawatermes，但工蚁更小、肠瓣无硬化 armature，可与之区分；与其他新热带无兵蚁白蚁的差别在于 P1 膨大、腹部粗短、肠瓣垫卵形且无刺。"
+   },
+   {
+    "label": "工蚁",
+    "text": "中型，头宽 0.6–0.8 mm；腹部消化道略膨大；头淡黄、圆形，被 50–200 根刚毛而无微毛；肠瓣垫呈卵形，无刺、无硬化 armature。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "硬化体部深褐，密被数千根微毛；头仅数根长刚毛；复眼与单眼大；fontanelle 相当大，位于复眼后缘水平，呈一无毛斑点。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0054",
+    "citation": "Bourguignon T., Scheffrahn R. H., Nagy Z. T., Sonet G., Host B., Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. doi:10.1111/zoj.12305",
+    "locator": "pp. 23–24（Hydrecotermes gen. nov.：描述起于 p. 23，Diagnosis 在 p. 24）"
+   }
+  ],
+  "note": "属名纪念法属圭亚那的 Hydreco 站。原文同时描述工蚁与有翅成虫，无兵蚁，故不设兵蚁节。"
+ }
+}

@@ -944,5 +944,148 @@
       }
     ],
     "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/afrosubulitermes-congoensis/": {
+    "zh_name": "刚果非锥白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Sands 认为本属在埃塞俄比亚区诸属中与 Eutermellus 最近，两属的属级界限并不如原描述所示分明：本属的主要特征是有翅成虫体型极小、毛被大为减少，以及兵蚁鼻相对较短；它同时带有 Postsulitermes 的性状，似介于该属与 Eutermellus 之间。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚端齿明显长于第 1 缘齿，但二者间距略短于第 1 至第 3 缘齿间距（左颚指数 0.89–0.94）；第 3 缘齿前方的切缘深凹，微波状或近直。后唇基几乎不隆起，沿头面轮廓，宽为长的 2–3 倍。囟表现为一条细长的窄脊，仅侧光下可见于高度磨光的头壳上，其前方有淡色椭圆斑。复眼不向头侧突出。头部几乎无毛，仅具成对的显著刚毛，位于头顶、单眼之间、后唇基中部及其前缘。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。鼻细、圆柱形，端部收成细尖；退化上颚无端突，上唇前缘波状；触角 12 节。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚与有翅成虫相同，但端齿比例更长（左颚指数 1.36–1.39）；左第 1 缘齿后方的切缘更呈波状；右臼板棱突更明显。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0047",
+        "citation": "Sands, W. A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4. London: Trustees of the British Museum (Natural History).",
+        "locator": "pp. 153–154（Imago、Soldier、Worker 属征及讨论）"
+      },
+      {
+        "id": "S0059",
+        "citation": "Emerson, A. E. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian Region (Isoptera, Termitidae). American Museum Novitates 1987: 1–21.",
+        "locator": "pp. 7–8（原始描述：兵蚁、工蚁）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/amplucrutermes-inflatus/": {
+    "zh_name": "椭圆大腿白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "新热带无兵蚁白蚁（Anoplotermes 群）中，可凭强烈膨大的前胫节与肠瓣结构区别于其他所有已知属：前胫节外形近似 Tetimatermes，但凹陷较浅、近端无腺体构造；肠瓣由约 100 枚鳞片与约 15 根弱硬化端刺组成，同样具鉴别价值。"
+      },
+      {
+        "label": "工蚁",
+        "text": "中型。头淡黄，圆形至略卵形，全头约 60 根刚毛；fontanelle 不明显；前胫节强烈膨大，长约等于宽的 3 倍。肠瓣着生于 paunch 的延伸部内，由 6 个细长垫组成，每垫约 100 枚鳞片，后缘约 15 根弱硬化刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0054",
+        "citation": "Bourguignon T., Scheffrahn R. H., Nagy Z. T., Sonet G., Host B., Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. doi:10.1111/zoj.12305",
+        "locator": "p. 20（Description Worker / Diagnosis）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/baucaliotermes-hainesi/": {
+    "zh_name": "海恩斯细颈白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头壳（含鼻部）上微小刚毛的毛窝清晰可见、呈淡色斑点散布，是与 Trinervitermes 的主要区别——后者兵蚁无可见毛窝，且兵蚁为二型；有翅成虫的毛被较粗、毛窝更显著，头部淡色区的分布亦与 Trinervitermes 不合。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "左上颚端齿与第 1 缘齿近等长，二者间距（标本已磨损）略小于第 1 与第 3 缘齿间距的 1/3（左颚指数 −0.30）；第 2 缘齿消失；第 1 与第 3 缘齿之间的切缘完整、平直。后唇基长略小于宽之半。囟在两性形状不同：一型小、淡色、呈不规则 Y 形，另一型呈梯形、侧臂自前角伸出且末端略膨大；两性囟后方均有一平滑浅凹区，色泽与头壳其余部分相同。头壳毛被不匀，毛窝大小不一，大型者众多而显著。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型。鼻极细、圆柱形，至多微渐细；退化上颚无端突；头壳不缢缩；触角 12–14 节，通常 14 节。微小刚毛的毛窝在包括鼻部在内的整个头壳上呈淡色斑点，清晰可见。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0047",
+        "citation": "Sands, W. A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4. London: Trustees of the British Museum (Natural History).",
+        "locator": "pp. 138–139（Imago、Soldier 属征及属级讨论）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/ebogotermes-raphaeli/": {
+    "zh_name": "拉斐尔埃博戈白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "赤道非洲无兵蚁（soldierless）apicotermitine 工蚁中体型最大者；中肠成环、mixed segment 发达、P1 中等长、具 P3/P4 缢部、P4 长管状，据此归入 Anoplotermes 群。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头、胸、腹与足均被长短不一的刚毛；触角 14 节；后唇基中度膨大；前胫节轻微膨大；胫节距 3:2:2。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0066",
+        "citation": "Scheffrahn R. H., Roisin Y., Akama P. D., Šobotník J. 2021. Ebogotermes raphaeli, new genus and new species, an African soldierless termite described from the worker caste (Isoptera, Termitidae, Apicotermitinae). Zootaxa 5067(2): 279–284. doi:10.11646/zootaxa.5067.2.10",
+        "locator": "p. 279（Taxonomy / Ebogotermes gen. nov.）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/echinotermes-biriba/": {
+    "zh_name": "比里巴多刺白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "嗉囊（crop）异常大，肠瓣由 6 个球形栉状垫组成、末端呈带刺球状，这一组合在 Apicotermitinae 各属中独一无二。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型；头与触角淡黄，前胸背板淡黄，足透明。嗉囊极大；EVS 三叶，其中较小的一叶在完整肠道中不可见；肠瓣 6 个垫，末端在进入 P3 的开口处呈带刺球状。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0063",
+        "citation": "Castro D., Scheffrahn R. H., Carrijo T. F. 2018. Echinotermes biriba, a new genus and species of soldierless termite from the Colombian and Peruvian Amazon (Termitidae, Apicotermitinae). ZooKeys 748: 21–30. doi:10.3897/zookeys.748.24253",
+        "locator": "pp. 23–24（Systematics / Echinotermes gen. n.；Diagnosis 在 p. 24）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/gastrotermes-spinatus/": {
+    "zh_name": "多刺胃白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "缺 mixed segment、P1 很短、EVS 大而呈三叶，据此归入 Apicotermes 群。与 Labidotermes 亚群其他属不同：本属 EVS 内壁具小型直立刺，P3a 开口处列有粗壮刺。有翅成虫未知；兵蚁未知（原文记 Soldier. Unknown, but may exist）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头、前胸背板与腹部密被数百根长至很长的毛。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0065",
+        "citation": "Scheffrahn R. H. 2020. Gastrotermes spinatus gen. n. sp. n., an African soil-feeding termite described from the worker caste (Isoptera, Termitidae, Apicotermitidae). Zootaxa 4789(1): 291–296. doi:10.11646/zootaxa.4789.1.12",
+        "locator": "p. 291（Gastrotermes gen. nov.：Description / Diagnosis）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
   }
 }
