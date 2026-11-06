@@ -6,8 +6,8 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**213**。
-- 仍待补文献描述：**78**。其中 70 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
+- 已补写文献描述：**218**。
+- 仍待补文献描述：**73**。其中 65 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
 - 有 Treatise 条目但未提取到模式种的属：2（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
@@ -47,7 +47,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 183 | 74 | 6 |
+| 白蚁科 Termitidae | 280 | 23 | 188 | 69 | 6 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -1625,15 +1625,10 @@
 - 定位：p. 51（Leptomyxotermes gen. n.：imago / Soldier；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/leptomyxotermes/
 
-### 白脸白蚁属 *Leucopitermes* — 待补（有 Treatise 线索）
+### 白脸白蚁属 *Leucopitermes* — 已有文献描述
 
-- 原始描述：Leucopitermes Emerson, 1960a: 8–9.
-- 模式种：Eutermes (Subulitermes) leucops Holmgren, 1914 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1958: 87 — Subulitermes[part]; key.
-  - Morimoto, 1975b: 23, 24 — Leucopitermes; key.
-  - Gathorne-Hardy, 2001: 1500 — Leucopitermes; key.
-  - Gathorne-Hardy, 2004: 128 — Leucopitermes; key.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：pp. 8-9
 - 页面：https://isoptera.lifemosaic.net/genus/leucopitermes/
 
 ### 长足白蚁属 *Longipeditermes* — 已有文献描述
@@ -1642,22 +1637,16 @@
 - 定位：p. 60（Imagines 检索表 aa 项后附注）；p. 62（Soldaten 检索表 B/bb/bb/c）；p. 65（亚属名录第 16 亚属）
 - 页面：https://isoptera.lifemosaic.net/genus/longipeditermes/
 
-### 大锥白蚁属 *Macrosubulitermes* — 待补（有 Treatise 线索）
+### 大锥白蚁属 *Macrosubulitermes* — 已有文献描述
 
-- 原始描述：Macrosubulitermes Emerson, 1960a: 19–22.
-- 模式种：Eutermes greavesi Hill, 1942 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 202–205 — Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed.
-  - Morimoto, 1975b: 20, 23 — Macrosubulitermes; key.
-  - Miller, 1984b: 119 — Macrosubulitermes; synonymy; imago, soldier generic characters.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：pp. 19-22
 - 页面：https://isoptera.lifemosaic.net/genus/macrosubulitermes/
 
-### 马尔加什白蚁属 *Malagasitermes* — 待补（有 Treatise 线索）
+### 马尔加什白蚁属 *Malagasitermes* — 已有文献描述
 
-- 原始描述：Malagasitermes Emerson, 1960a: 15–16.
-- 模式种：Eutermes milloti Cachan, 1949 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Morimoto, 1975b: 20, 23 — Malagasitermes; key.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：pp. 15-16
 - 页面：https://isoptera.lifemosaic.net/genus/malagasitermes/
 
 ### 马来白蚁属 *Malaysiotermes* — 待补（有 Treatise 线索）
@@ -1728,24 +1717,16 @@
 - 定位：p. 59–60（有翅成虫检索表 B/a/bb/ee/d），p. 60–61（兵蚁检索表 A/aa/b/dd/e），p. 68（系统学讨论）
 - 页面：https://isoptera.lifemosaic.net/genus/occasitermes/
 
-### 隐白蚁属 *Occultitermes* — 待补（有 Treatise 线索）
+### 隐白蚁属 *Occultitermes* — 已有文献描述
 
-- 原始描述：Occultitermes Emerson, 1960a: 17–19.
-- 模式种：Mirotermes occulatus Hill, 1927 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 202–205 — Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed.
-  - Morimoto, 1975b: 20, 23 — Occultitermes; key.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：p. 18
 - 页面：https://isoptera.lifemosaic.net/genus/occultitermes/
 
-### 东锥白蚁属 *Oriensubulitermes* — 待补（有 Treatise 线索）
+### 东锥白蚁属 *Oriensubulitermes* — 已有文献描述
 
-- 原始描述：Oriensubulitermes Emerson, 1960a: 13–14.
-- 模式种：Termes inanis Haviland, 1898 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Ahmad, 1958: 87 — Subulitermes [part]; key.
-  - Morimoto, 1975b: 23 — Oriensubulitermes; key.
-  - Gathorne-Hardy, 2001: 1499 — Oriensubulitermes; key.
-  - Gathorne-Hardy, 2004: 126 — Oriensubulitermes; key.
+- 已据文献补写：Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.
+- 定位：p. 14
 - 页面：https://isoptera.lifemosaic.net/genus/oriensubulitermes/
 
 ### 近凸白蚁属 *Paraconvexitermes* — 已有文献描述

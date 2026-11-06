@@ -1,0 +1,127 @@
+{
+ "/genus/leucopitermes/": {
+  "zh_name": "白脸白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "左颚指数 0.56（工蚁）；兵蚁上颚有或无端尖；是 Emerson 1960 视为东洋区 Subulitermes 支系中最原始的属，可能与其澳大利亚的 Occasitermes、马达加斯加的 Malagasitermes 同源。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "额突与头顶具极短微毛（不如 Malagasitermes milloti 长而密）；腹部背板具短毛与刚毛（短于 Malagasitermes）；头侧轮廓凸出，头后部不如 Malagasitermes 高而宽；触角基部之后头侧有一小而明显的缩窄；上颚有或无端尖；前胸背板前缘微凹，背板侧轮廓前后段之间夹角近直角。"
+   },
+   {
+    "label": "工蚁",
+    "text": "左颚指数 0.56；两上颚端齿仅略大于第 1 缘齿；左颚第 1 缘齿与端齿间夹角较锐，第 1 缘齿与退化的第 2 缘齿切缘处夹角明显，第 3 缘齿前缺刻宽而明显，第 3 缘齿较宽；右颚第 2 缘齿明显，第 1、2 缘齿间夹角略小于直角；右颚磨板轮廓近平直。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0081",
+    "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+    "locator": "pp. 8-9"
+   }
+  ],
+  "note": "单种属（leucops）。Emerson 1960 仅据兵蚁与工蚁共模标本记述，未检视有翅成虫，故不设该节。"
+ },
+ "/genus/oriensubulitermes/": {
+  "zh_name": "东锥白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "左颚指数 1.06（工蚁-若虫）；左颚第 3 缘齿不明显、右颚第 2 缘齿几乎完全退化，以此区别于东洋区 Subulitermes 支系所有其它属；兵蚁上颚无端尖。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "上颚无端尖。"
+   },
+   {
+    "label": "工蚁",
+    "text": "（工蚁-若虫）左颚指数 1.06；第 1+2 缘齿切缘均匀凹入，第 3 缘齿前无缺刻；右颚第 2 缘齿几乎完全退化；右颚磨板轮廓略凹。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0081",
+    "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+    "locator": "p. 14"
+   }
+  ],
+  "note": "含 2 种（inanis 指名种、inaniformis）。原文据兵蚁与工蚁若虫上颚记述，未检视有翅成虫，故不设该节。"
+ },
+ "/genus/malagasitermes/": {
+  "zh_name": "马尔加什白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "左颚指数 0.66（工蚁）；与东洋区 Leucopitermes 最近，而非非洲该支系诸属（非洲诸属左颚指数最小者为 Eutermellus，达 1.12）。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "额突与头顶具短毛，鼻基处毛少；头顶有少数刚毛；腹部背板与腹板毛长而密，各板后缘有一排约为体毛两倍长的刚毛；头部有明显缩窄、后部近球状；额突圆锥形；触角 12-13 节；右颚有一短而尖的端尖、左颚无端尖；前胸背板侧轮廓前后段夹角小于直角。"
+   },
+   {
+    "label": "工蚁",
+    "text": "两上颚端齿相对第 1 缘齿较大；左颚第 1+2 缘齿切缘波浪状；左颚第 3 缘齿前保留明显缺刻；右颚第 2 缘齿略圆；左颚指数 0.66。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0081",
+    "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+    "locator": "pp. 15-16"
+   }
+  ],
+  "note": "单种属（milloti）。Emerson 1960 仅据 1 副模兵蚁与 2 工蚁记述，未检视有翅成虫，故不设该节。"
+ },
+ "/genus/occultitermes/": {
+  "zh_name": "隐白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "左颚指数 0.68（有翅成虫）；兵蚁二型——Subulitermes 支系其余各属兵蚁均为单型；兵蚁上颚无端尖。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "头与前胸背板密生刚毛与短毛；腹部背板两侧具短毛与少数刚毛、近成边缘列；囟前端明显分叉；后唇基长远大于其宽之半（长 0.22 mm、宽 0.32 mm）；右颚第 2 缘齿显著，左颚第 1+2 缘齿切缘长、左颚端齿相对较长；左颚指数 0.68；前胸背板两侧扁平圆、不如 Australitermes 与 Macrosubulitermes 那样向后收拢；中、后胸背板各有一宽浅凹；胫节距 2:2:2。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "二型；上颚无端尖。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0081",
+    "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+    "locator": "p. 18"
+   }
+  ],
+  "note": "单种属（occultus）。原文未单独记述工蚁上颚，故不设工蚁节。"
+ },
+ "/genus/macrosubulitermes/": {
+  "zh_name": "大锥白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "有翅成虫左颚指数 1.07（Subulitermes microsoma 1.29-1.33）；兵蚁头较 S. microsoma 大、后部更宽更球状，头长/头宽比 1.49-1.71（S. microsoma 2.27）。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "触角端节浅色、基节深色；前胸背板深色部分与头同色（S. microsoma 前胸背板较浅）；胫节与腿节端部较腿节中部深；翅较 S. microsoma 深（刻点更密）；腹板两侧具深色斑、中部浅色；头顶在单眼之间较平缓隆起；头侧轮廓强拱、最高点在单眼之上；囟为浅色狭缝、前端分叉、短于单眼；触角 15 节，第 3 节略长于第 2、4 节且端部较球状；后唇基长短于其宽之半（0.20-0.22 × 0.47 mm）；左颚指数 1.07；前胸背板侧缘向后收拢；胫节距 2:2:2。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "鼻基与头顶具 8 根刚毛；额突与头疏生短毛；腹部背板毛较密、仅略短于边缘刚毛；头较 S. microsoma 大、后部更宽更球状；头长/头宽比 1.49-1.63（perlevis）或 1.71（greavesi）；头极轻微缩窄、鼻基之后具侧隆；额突近圆柱形；触角 12 节（perlevis），第 2、3、4 节近等长；上颚无端尖；前足胫节近等宽于腿节、略显肿胀；腹部厚、宽而圆。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0081",
+    "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+    "locator": "pp. 19-22"
+   }
+  ],
+  "note": "含 2 种（greavesi 指名种、perlevis）。原文据有翅成虫与兵蚁记述，未单独记述工蚁上颚，故不设工蚁节。"
+ }
+}

@@ -1803,5 +1803,55 @@
       }
     ],
     "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/macrosubulitermes-greavesi/": {
+    "zh_name": "格里夫斯大锥白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "有翅成虫左颚指数 1.07（Subulitermes microsoma 1.29-1.33）；兵蚁头较 S. microsoma 大、后部更宽更球状，头长/头宽比 1.49-1.71（S. microsoma 2.27）。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "触角端节浅色、基节深色；前胸背板深色部分与头同色（S. microsoma 前胸背板较浅）；胫节与腿节端部较腿节中部深；翅较 S. microsoma 深（刻点更密）；腹板两侧具深色斑、中部浅色；头顶在单眼之间较平缓隆起；头侧轮廓强拱、最高点在单眼之上；囟为浅色狭缝、前端分叉、短于单眼；触角 15 节，第 3 节略长于第 2、4 节且端部较球状；后唇基长短于其宽之半（0.20-0.22 × 0.47 mm）；左颚指数 1.07；前胸背板侧缘向后收拢；胫节距 2:2:2。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "鼻基与头顶具 8 根刚毛；额突与头疏生短毛；腹部背板毛较密、仅略短于边缘刚毛；头较 S. microsoma 大、后部更宽更球状；头长/头宽比 1.49-1.63（perlevis）或 1.71（greavesi）；头极轻微缩窄、鼻基之后具侧隆；额突近圆柱形；触角 12 节（perlevis），第 2、3、4 节近等长；上颚无端尖；前足胫节近等宽于腿节、略显肿胀；腹部厚、宽而圆。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0081",
+        "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+        "locator": "pp. 19-22"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/malagasitermes-milloti/": {
+    "zh_name": "米约马尔加什白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "左颚指数 0.66（工蚁）；与东洋区 Leucopitermes 最近，而非非洲该支系诸属（非洲诸属左颚指数最小者为 Eutermellus，达 1.12）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "额突与头顶具短毛，鼻基处毛少；头顶有少数刚毛；腹部背板与腹板毛长而密，各板后缘有一排约为体毛两倍长的刚毛；头部有明显缩窄、后部近球状；额突圆锥形；触角 12-13 节；右颚有一短而尖的端尖、左颚无端尖；前胸背板侧轮廓前后段夹角小于直角。"
+      },
+      {
+        "label": "工蚁",
+        "text": "两上颚端齿相对第 1 缘齿较大；左颚第 1+2 缘齿切缘波浪状；左颚第 3 缘齿前保留明显缺刻；右颚第 2 缘齿略圆；左颚指数 0.66。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0081",
+        "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+        "locator": "pp. 15-16"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
   }
 }
