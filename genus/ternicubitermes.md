@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/ternicubitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/ternicubitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（13 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ternicubitermes-bilobatodes/"><i>Ternicubitermes bilobatodes</i> Silvestri, 1912 双叶三方白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ternicubitermes-breviceps/"><i>Ternicubitermes breviceps</i> Sjöstedt, 1913 短头三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-duplex/"><i>Ternicubitermes duplex</i> Holmgren, 1913 含糊三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-falcifer/"><i>Ternicubitermes falcifer</i> Williams, 1966 具镰三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-glebae/"><i>Ternicubitermes glebae</i> Sjöstedt, 1913 土块三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-latens/"><i>Ternicubitermes latens</i> Williams, 1966 隐藏三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-microduplex/"><i>Ternicubitermes microduplex</i> Fuller, 1925 小双三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-muneris/"><i>Ternicubitermes muneris</i> Sjöstedt, 1913 职司三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-pallidiceps/"><i>Ternicubitermes pallidiceps</i> Sjöstedt, 1913 灰头三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-subcrenulatus/"><i>Ternicubitermes subcrenulatus</i> Silvestri, 1914 微齿三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-undulatus/"><i>Ternicubitermes undulatus</i> Fuller, 1925 波颚三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-weissi/"><i>Ternicubitermes weissi</i> Silvestri, 1912 魏斯三方白蚁</a></li><li><a href="{{ site.base_url }}/species/ternicubitermes-zavattarii/"><i>Ternicubitermes zavattarii</i> Ghidini, 1937 扎瓦塔里三方白蚁</a></li></ul>
 </section>

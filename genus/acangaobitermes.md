@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/acangaobitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/acangaobitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/acangaobitermes-krishnai/"><i>Acangaobitermes krishnai</i> Rocha, Cancello & Cuezzo, 2011 克里希纳漏斗白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

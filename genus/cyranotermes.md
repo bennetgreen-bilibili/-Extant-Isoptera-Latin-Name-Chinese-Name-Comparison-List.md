@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/cyranotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/cyranotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cyranotermes-caete/"><i>Cyranotermes caete</i> Cancello, 1987 卡埃特巨鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/cyranotermes-glaber/"><i>Cyranotermes glaber</i> Constantino, 1990 无毛巨鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/cyranotermes-karipuna/"><i>Cyranotermes karipuna</i> Rocha, Carrijo & Cancello, 2012 卡日普纳巨鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/cyranotermes-timuassu/"><i>Cyranotermes timuassu</i> Araujo, 1970 多毛巨鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

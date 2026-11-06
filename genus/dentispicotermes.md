@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/dentispicotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/dentispicotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/dentispicotermes-brevicarinatus/"><i>Dentispicotermes brevicarinatus</i> Emerson, 1950 短脊齿尖白蚁</a></li><li><a href="{{ site.base_url }}/species/dentispicotermes-conjunctus/"><i>Dentispicotermes conjunctus</i> Araujo, 1969 邻近齿尖白蚁</a></li><li><a href="{{ site.base_url }}/species/dentispicotermes-cupiporanga/"><i>Dentispicotermes cupiporanga</i> Bandeira & Cancello, 1992 库皮珀安加齿尖白蚁</a></li><li><a href="{{ site.base_url }}/species/dentispicotermes-globicephalus/"><i>Dentispicotermes globicephalus</i> Silvestri, 1901 球头齿尖白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/dentispicotermes-pantanalis/"><i>Dentispicotermes pantanalis</i> Mathews, 1977 沼泽齿尖白蚁</a></li><li><a href="{{ site.base_url }}/species/dentispicotermes-trapezia/"><i>Dentispicotermes trapezia</i> Scheffrahn, 2024 梯形齿尖白蚁</a></li></ul>
 </section>

@@ -51,9 +51,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/cylindrotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/cylindrotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cylindrotermes-brevipilosus/"><i>Cylindrotermes brevipilosus</i> Snyder, 1926 短毛圆筒白蚁</a></li><li><a href="{{ site.base_url }}/species/cylindrotermes-caata/"><i>Cylindrotermes caata</i> Rocha & Cancello, 2007 骨痂圆筒白蚁</a></li><li><a href="{{ site.base_url }}/species/cylindrotermes-capixaba/"><i>Cylindrotermes capixaba</i> Rocha & Cancello, 2007 卡皮沙巴圆筒白蚁</a></li><li><a href="{{ site.base_url }}/species/cylindrotermes-flangiatus/"><i>Cylindrotermes flangiatus</i> Mathews, 1977 凸缘圆筒白蚁</a></li><li><a href="{{ site.base_url }}/species/cylindrotermes-macrognathus/"><i>Cylindrotermes macrognathus</i> Snyder, 1929 长颚圆筒白蚁</a></li><li><a href="{{ site.base_url }}/species/cylindrotermes-nordenskioldi/"><i>Cylindrotermes nordenskioldi</i> Holmgren, 1906 努登舍尔德圆筒白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/cylindrotermes-parvignathus/"><i>Cylindrotermes parvignathus</i> Emerson, 1949 小颚圆筒白蚁</a></li><li><a href="{{ site.base_url }}/species/cylindrotermes-sapiranga/"><i>Cylindrotermes sapiranga</i> Rocha & Cancello, 2007 萨皮兰加圆筒白蚁</a></li></ul>
 </section>

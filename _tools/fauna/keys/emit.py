@@ -627,10 +627,19 @@ if __name__=='__main__':
     # order: subfamily index first, then genus keys
     for pg,v in pages.items():
         v['keys']=[k for k in v['keys'] if k.get('couplets')]
+    # 2025-11: 中国动物志（黄复生等, 2000）的检索表已从站点撤下。
+    # 该书的表无法据以整理出整套可靠的形态学检索表；只保留 Hellemans et al. (2024)
+    # 的目级/白蚁科亚科表与 Krishna et al. (2013) 的木白蚁科世界分属表。
+    # 此处的过滤是硬约束：重新运行本脚本也不会把书表写回 _data/fauna_keys.json。
+    for pg,v in list(pages.items()):
+        v['keys']=[k for k in v['keys'] if BOOKSHORT not in (k.get('src_short') or '')]
+        # 现有 omitted 条目都是书表未转述的说明，随书表一并撤下。
+        v['omitted']=[]
+    for pg,v in pages.items():
         v['n_keys']=len(v['keys'])
         v['n_couplets']=sum(len(k['couplets']) for k in v['keys'])
         v['n_leaves']=sum(k['n_leaves'] for k in v['keys'])
-    pages={p:v for p,v in pages.items() if v['n_keys'] or v['omitted']}
+    pages={p:v for p,v in pages.items() if v['n_keys']}
     json.dump(pages, open('_data/fauna_keys.json','w',encoding='utf-8'), ensure_ascii=False, indent=1)
     for r in report:
         print('%02d %-22s %-8s c=%-3d l=%-3d drop=%d'%(r[0],r[1][:22],r[2],r[3],r[4],r[5]))

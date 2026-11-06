@@ -46,9 +46,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/protohamitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/protohamitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/protohamitermes-globiceps/"><i>Protohamitermes globiceps</i> Holmgren, 1912 球头始钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

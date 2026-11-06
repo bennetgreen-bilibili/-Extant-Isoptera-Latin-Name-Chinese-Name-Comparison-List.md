@@ -43,9 +43,6 @@ breadcrumb:
 <p>本亚科为东洋界特有的寡型类群。两属均分布于东南亚（文莱、马来西亚、印度尼西亚）。两属均无兵蚁，工蚁取食朽木；其长管状回肠（P1）在直肠腹面卷成环，与圆筒白蚁亚科及部分尖白蚁亚科相似，后肠马氏管以两对结节连于混合段。工蚁右上颚第一、二缘齿基部各具一发达的副齿，副齿前缘成角、后缘弧形，为本亚科工蚁最关键的鉴别特征；以此可区别于具兵蚁的圆筒白蚁亚科。因无兵蚁品级、形态特化，该亚科长期分类位置未定；分子分析显示两属构成单系群(21)。作为无兵蚁高等白蚁的东洋界代表，本亚科对理解兵蚁品级丢失的平行演化有一定意义。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
-{%- assign fk = site.data.fauna_keys["/subfamily/protohamitermitinae/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/orientotermes/"><i>Orientotermes</i> 东方白蚁属</a> <span class="taxon-count">1 种</span></li><li><a href="{{ site.base_url }}/genus/protohamitermes/"><i>Protohamitermes</i> 始钩白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

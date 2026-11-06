@@ -46,9 +46,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/okavangotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/okavangotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/okavangotermes-giessi/"><i>Okavangotermes giessi</i> Coaton, 1971 吉斯奥卡万戈白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/okavangotermes-guineensis/"><i>Okavangotermes guineensis</i> Sands, 1995 几内亚奥卡万戈白蚁</a></li></ul>
 </section>

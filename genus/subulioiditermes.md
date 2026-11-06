@@ -46,9 +46,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/subulioiditermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/subulioiditermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/subulioiditermes-borneensis/"><i>Subulioiditermes borneensis</i> Ahmad, 1968 婆罗似锥白蚁</a></li><li><a href="{{ site.base_url }}/species/subulioiditermes-emersoni/"><i>Subulioiditermes emersoni</i> Ahmad, 1968 埃默森似锥白蚁</a></li><li><a href="{{ site.base_url }}/species/subulioiditermes-subulioides/"><i>Subulioiditermes subulioides</i> Ahmad, 1968 似锥似锥白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

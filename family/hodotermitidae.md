@@ -53,9 +53,6 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/hodotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/family/hodotermitidae/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
 <section class="taxon-section">
 <h2>属（3）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/anacanthotermes/"><i>Anacanthotermes</i> 无刺白蚁属</a> <span class="taxon-count">16 种</span></li><li><a href="{{ site.base_url }}/genus/hodotermes/"><i>Hodotermes</i> 草白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/microhodotermes/"><i>Microhodotermes</i> 小草白蚁属</a> <span class="taxon-count">3 种</span></li></ul>
 </section>

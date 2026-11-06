@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/cristatitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/cristatitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cristatitermes-arenicola/"><i>Cristatitermes arenicola</i> Miller, 1991 沙栖脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/cristatitermes-barretti/"><i>Cristatitermes barretti</i> Miller, 1991 巴雷特脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/cristatitermes-carinatus/"><i>Cristatitermes carinatus</i> Miller, 1991 颏突脊突白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/cristatitermes-froggatti/"><i>Cristatitermes froggatti</i> Hill, 1915 弗洛格特脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/cristatitermes-pineaformis/"><i>Cristatitermes pineaformis</i> Miller, 1991 松球脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/cristatitermes-tutulatus/"><i>Cristatitermes tutulatus</i> Miller, 1991 毛头脊突白蚁</a></li></ul>
 </section>

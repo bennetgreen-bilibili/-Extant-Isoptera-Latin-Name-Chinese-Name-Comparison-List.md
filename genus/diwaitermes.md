@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/diwaitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/diwaitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/diwaitermes-castanopsis/"><i>Diwaitermes castanopsis</i> Roisin & Pasteels, 1996 锥栗木象白蚁</a></li><li><a href="{{ site.base_url }}/species/diwaitermes-foi/"><i>Diwaitermes foi</i> Roisin & Pasteels, 1996 福阿木象白蚁</a></li><li><a href="{{ site.base_url }}/species/diwaitermes-kanehirai/"><i>Diwaitermes kanehirai</i> Oshima, 1914 凯恩希拉木象白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

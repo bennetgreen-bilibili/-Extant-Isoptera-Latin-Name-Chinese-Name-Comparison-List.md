@@ -53,9 +53,6 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/stolotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/family/stolotermitidae/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/porotermes/"><i>Porotermes</i> 洞白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/stolotermes/"><i>Stolotermes</i> 胄白蚁属</a> <span class="taxon-count">7 种</span></li></ul>
 </section>

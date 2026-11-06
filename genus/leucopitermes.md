@@ -46,9 +46,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/leucopitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/leucopitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/leucopitermes-leucopiformis/"><i>Leucopitermes leucopiformis</i> Akhtar & Pervez, 1986 似白脸白脸白蚁</a></li><li><a href="{{ site.base_url }}/species/leucopitermes-leucops/"><i>Leucopitermes leucops</i> Holmgren, 1914 白脸白脸白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/leucopitermes-paraleucops/"><i>Leucopitermes paraleucops</i> Morimoto, 1976 近白脸白脸白蚁</a></li><li><a href="{{ site.base_url }}/species/leucopitermes-thoi/"><i>Leucopitermes thoi</i> Gathorne-Hardy, 2004 索白脸白蚁</a></li></ul>
 </section>

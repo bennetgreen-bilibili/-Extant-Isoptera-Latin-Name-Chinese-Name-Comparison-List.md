@@ -53,9 +53,6 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/termitogetonidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/family/termitogetonidae/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/termitogeton/"><i>Termitogeton</i> 寡脉白蚁属</a> <span class="taxon-count">2 种</span></li></ul>
 </section>

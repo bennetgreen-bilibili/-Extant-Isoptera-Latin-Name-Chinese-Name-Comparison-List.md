@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/vaninitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/vaninitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/vaninitermes-brevinasus/"><i>Vaninitermes brevinasus</i> Emerson & Banks, 1957 短鼻瓦宁白蚁</a></li><li><a href="{{ site.base_url }}/species/vaninitermes-ignotus/"><i>Vaninitermes ignotus</i> Constantino, 1991 忽视瓦宁白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

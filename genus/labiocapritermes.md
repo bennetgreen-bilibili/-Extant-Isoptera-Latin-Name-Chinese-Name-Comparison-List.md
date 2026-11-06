@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/labiocapritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/labiocapritermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/labiocapritermes-distortus/"><i>Labiocapritermes distortus</i> Silvestri, 1922 扭曲唇扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/labiocapritermes-ghatensis/"><i>Labiocapritermes ghatensis</i> Aiswarya & Sudhikumar, 2026 高止唇扭白蚁</a></li><li><a href="{{ site.base_url }}/species/labiocapritermes-microcephalus/"><i>Labiocapritermes microcephalus</i> Amina & Rajmohana, 2025 小头唇扭白蚁</a></li><li><a href="{{ site.base_url }}/species/labiocapritermes-wayanadensis/"><i>Labiocapritermes wayanadensis</i> Amina & Rajmohana, 2025 瓦亚纳德唇扭白蚁</a></li></ul>
 </section>

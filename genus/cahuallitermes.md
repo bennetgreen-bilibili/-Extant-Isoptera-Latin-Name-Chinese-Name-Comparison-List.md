@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/cahuallitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/cahuallitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/cahuallitermes-aduncus/"><i>Cahuallitermes aduncus</i> Constantino, 1994 具钩弃白蚁</a></li><li><a href="{{ site.base_url }}/species/cahuallitermes-intermedius/"><i>Cahuallitermes intermedius</i> Snyder, 1922 中间弃白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

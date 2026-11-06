@@ -51,9 +51,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/velocitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/velocitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/velocitermes-barrocoloradensis/"><i>Velocitermes barrocoloradensis</i> Snyder, 1925 巴罗科罗拉多快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-beebei/"><i>Velocitermes beebei</i> Emerson, 1925 毕比快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-glabrinotus/"><i>Velocitermes glabrinotus</i> Mathews, 1977 光背快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-heteropterus/"><i>Velocitermes heteropterus</i> Silvestri, 1901 异翅快白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/velocitermes-laticephalus/"><i>Velocitermes laticephalus</i> Snyder, 1926 宽头快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-melanocephalus/"><i>Velocitermes melanocephalus</i> Snyder, 1926 黑头快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-paucipilis/"><i>Velocitermes paucipilis</i> Mathews, 1977 少毛快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-uniformis/"><i>Velocitermes uniformis</i> Snyder, 1926 单型快白蚁</a></li><li><a href="{{ site.base_url }}/species/velocitermes-velox/"><i>Velocitermes velox</i> Holmgren, 1906 快速快白蚁</a></li></ul>
 </section>

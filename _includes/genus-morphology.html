@@ -1,0 +1,27 @@
+{%- comment -%}
+  属级形态描述：当 _data/fauna_genera.json 没有本页条目时渲染。
+
+  数据来自 _data/genus_sources.json（键为页面 URL），由
+  _tools/fauna/morphology/extract_genus_sources.py 据 Krishna et al. (2013)
+  《Treatise on the Isoptera of the World》整理：只记录原始描述出处、模式种与
+  该书标注的「含形态特征/检索表」的文献，不转述形态描述本身。此处是
+  「待补」占位，不是描述正文；补写时须核对原始文献。
+{%- endcomment -%}
+{%- assign _fz = site.data.fauna_genera[page.url] -%}
+{%- assign gs = site.data.genus_sources[page.url] -%}
+{%- if _fz -%}
+{%- else -%}
+<section class="species-fauna taxon-fauna genus-morphology" lang="zh-CN">
+  <h2>形态描述 <span class="fact-en" lang="en">Morphology</span> <span class="fact-es" lang="es">Morfología</span></h2>
+  <p class="fauna-lead">本页的形态描述尚待据原始文献补写。下面先列出该属的原始描述出处与模式种，供查考；这些是文献线索，不是形态描述本身。</p>
+  {%- if gs and gs.treatise -%}
+  <p><strong>原始描述</strong>：{{ gs.citation }}</p>
+  {%- if gs.type_species and gs.type_species != "" -%}
+  <p><strong>模式种</strong>：{{ gs.type_species }}</p>
+  {%- endif -%}
+  {%- else -%}
+  <p>《Treatise on the Isoptera of the World》（2013）未给该属独立条目，原始描述出处待补。</p>
+  {%- endif -%}
+  <p class="fauna-cite">出处据 Krishna K., Grimaldi D. A., Krishna V., Engel M. S. (2013) Treatise on the Isoptera of the World. <i>Bulletin of the American Museum of Natural History</i> 377。该书记录原始文献线索，不含形态描述；本站不据以代写描述。</p>
+</section>
+{%- endif -%}

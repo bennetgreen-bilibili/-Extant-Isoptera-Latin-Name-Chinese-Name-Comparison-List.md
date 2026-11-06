@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/kaudernitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/kaudernitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/kaudernitermes-kaudernianus/"><i>Kaudernitermes kaudernianus</i> Sjöstedt, 1914 考登考登白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/kaudernitermes-laticeps/"><i>Kaudernitermes laticeps</i> Wasmann, 1897 宽头考登白蚁</a></li><li><a href="{{ site.base_url }}/species/kaudernitermes-nigritus/"><i>Kaudernitermes nigritus</i> Wasmann, 1897 黑色考登白蚁</a></li><li><a href="{{ site.base_url }}/species/kaudernitermes-salebrithorax/"><i>Kaudernitermes salebrithorax</i> Sjöstedt, 1904 凹胸考登白蚁</a></li></ul>
 </section>

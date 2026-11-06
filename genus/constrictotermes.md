@@ -51,9 +51,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/constrictotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/constrictotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/constrictotermes-cacaoensis/"><i>Constrictotermes cacaoensis</i> Ensaf, Nel & Betsch, 2002 可可缩白蚁</a></li><li><a href="{{ site.base_url }}/species/constrictotermes-cavifrons/"><i>Constrictotermes cavifrons</i> Holmgren, 1910 凹额缩白蚁</a></li><li><a href="{{ site.base_url }}/species/constrictotermes-cyphergaster/"><i>Constrictotermes cyphergaster</i> Silvestri, 1901 弯肠缩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/constrictotermes-guantanamensis/"><i>Constrictotermes guantanamensis</i> Krecek, Scheffrahn & Roisin, 1996 关塔那摩缩白蚁</a></li><li><a href="{{ site.base_url }}/species/constrictotermes-latinotus/"><i>Constrictotermes latinotus</i> Holmgren, 1910 宽背缩白蚁</a></li><li><a href="{{ site.base_url }}/species/constrictotermes-rupestris/"><i>Constrictotermes rupestris</i> Constantino, 1997 红色缩白蚁</a></li></ul>
 </section>

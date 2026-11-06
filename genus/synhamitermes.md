@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/synhamitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/synhamitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/synhamitermes-ceylonicus/"><i>Synhamitermes ceylonicus</i> Holmgren, 1913 锡兰同钩白蚁</a></li><li><a href="{{ site.base_url }}/species/synhamitermes-colombensis/"><i>Synhamitermes colombensis</i> Roonwal & Sen-Sarma, 1960 科伦坡同钩白蚁</a></li><li><a href="{{ site.base_url }}/species/synhamitermes-labioangulatus/"><i>Synhamitermes labioangulatus</i> Thakur, 1989 角唇同钩白蚁</a></li><li><a href="{{ site.base_url }}/species/synhamitermes-quadriceps/"><i>Synhamitermes quadriceps</i> Wasmann, 1902 方头同钩白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

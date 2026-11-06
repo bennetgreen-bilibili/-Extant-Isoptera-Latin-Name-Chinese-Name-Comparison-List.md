@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/protermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/protermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/protermes-hirticeps/"><i>Protermes hirticeps</i> Sjöstedt, 1924 毛头前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-minimus/"><i>Protermes minimus</i> Ruelle, 1971 最小前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-minutus/"><i>Protermes minutus</i> Grassé, 1937 小前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-mwekerae/"><i>Protermes mwekerae</i> Ruelle, 1971 穆维盖拉前白蚁</a></li><li><a href="{{ site.base_url }}/species/protermes-prorepens/"><i>Protermes prorepens</i> Sjöstedt, 1907 前匍前白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

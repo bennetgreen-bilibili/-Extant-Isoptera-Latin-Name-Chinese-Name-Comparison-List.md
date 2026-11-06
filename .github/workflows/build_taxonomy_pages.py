@@ -656,16 +656,28 @@ def main():
                 '{%%- if fz %%}\n{%% include fauna-%s.html fauna=fz %%}\n{%%- endif %%}\n'
                 % (FAUNA_DATA_KEY[kind], kind, taxon_id, kind))
 
-    def keys_section(kind, taxon_id):
-        """形态检索表（科/亚科页放分属表，属页放分种表）。
+    # 2025-11: 中国动物志的检索表已撤下，只保留 Hellemans et al. (2024) 的目级/白蚁科
+    # 亚科表与 Krishna et al. (2013) 的木白蚁科世界分属表。以下三页之外不再输出检索表，
+    # 免得 326 个属页各留一个空的 include。
+    KEYS_PAGES = {"/list/", "/family/kalotermitidae/", "/family/termitidae/"}
 
-        数据在 _data/fauna_keys.json（键为页面 URL）。来源逐表标注：原书表据黄复生等
-        （2000），目级与白蚁科亚科表据 Hellemans 等（2024）。检索表按「组」折叠显示，
-        终端一律链到站内页面，已剔除的无效种在各表末尾列出。
+    def keys_section(kind, taxon_id):
+        """形态检索表：仅保留非中国动物志来源的表（目级、白蚁科亚科、木白蚁科世界分属）。
+
+        数据在 _data/fauna_keys.json（键为页面 URL），来源逐表标注。检索表按「组」折叠
+        显示，终端一律链到站内页面。没有保留表的页面不输出任何内容。
         """
-        return ('{%%- assign fk = site.data.fauna_keys["/%s/%s/"] -%%}'
+        url = "/%s/%s/" % (kind, taxon_id)
+        if url not in KEYS_PAGES:
+            return ""
+        return ('{%%- assign fk = site.data.fauna_keys["%s"] -%%}'
                 '{%%- if fk %%}\n{%% include fauna-keys.html fk=fk %%}\n{%%- endif %%}\n'
-                % (kind, taxon_id))
+                % url)
+
+    def genus_morphology_section():
+        """属级形态描述：有《中国动物志》条目时由 fauna_section 渲染，否则由
+        _includes/genus-morphology.html 给出「待补」占位与原始描述出处。"""
+        return '{% include genus-morphology.html %}\n'
 
     def genus_map_note(gen):
         fam = families[gen["family"]]
@@ -802,6 +814,7 @@ def main():
             + photo_section("genus", gid)
             + genus_intro(gen, mapped)
             + fauna_section("genus", gid)
+            + genus_morphology_section()
             + keys_section("genus", gid)
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("genus", gid, genus_up(gen)) + "\n</article>\n"

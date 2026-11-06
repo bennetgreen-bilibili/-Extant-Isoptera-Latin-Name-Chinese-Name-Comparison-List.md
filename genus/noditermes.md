@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/noditermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/noditermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/noditermes-angolensis/"><i>Noditermes angolensis</i> Weidner, 1974 安哥拉节白蚁</a></li><li><a href="{{ site.base_url }}/species/noditermes-cristifrons/"><i>Noditermes cristifrons</i> Wasmann, 1911 毛额节白蚁</a></li><li><a href="{{ site.base_url }}/species/noditermes-festivus/"><i>Noditermes festivus</i> Harris, 1958 欢乐节白蚁</a></li><li><a href="{{ site.base_url }}/species/noditermes-indoensis/"><i>Noditermes indoensis</i> Sjöstedt, 1926 因多节白蚁</a></li><li><a href="{{ site.base_url }}/species/noditermes-lamanianus/"><i>Noditermes lamanianus</i> Sjöstedt, 1905 拉曼节白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/noditermes-profestus/"><i>Noditermes profestus</i> Sjöstedt, 1926 工作日节白蚁</a></li><li><a href="{{ site.base_url }}/species/noditermes-wasambaricus/"><i>Noditermes wasambaricus</i> Williams, 1954 瓦森巴拉节白蚁</a></li></ul>
 </section>

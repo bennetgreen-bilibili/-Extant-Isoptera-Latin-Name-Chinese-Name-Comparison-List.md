@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/procapritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/procapritermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（13 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/procapritermes-atypus/"><i>Procapritermes atypus</i> Holmgren, 1912 地蛛前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-dakshinae/"><i>Procapritermes dakshinae</i> Chhotani & Ferry, 1995 戴克夏娜前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-holmgreni/"><i>Procapritermes holmgreni</i> Akhtar, 1975 霍姆格伦前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-huananensis/"><i>Procapritermes huananensis</i> Yu & Ping, 1966 华南前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-keralai/"><i>Procapritermes keralai</i> Chhotani & Ferry, 1995 喀拉拉前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-longignathus/"><i>Procapritermes longignathus</i> Ahmad, 1965 长颚前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-martyni/"><i>Procapritermes martyni</i> Thapa, 1982 马丁前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-minutus/"><i>Procapritermes minutus</i> Haviland, 1898 小前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-neosetiger/"><i>Procapritermes neosetiger</i> Thapa, 1982 新具毛前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-prosetiger/"><i>Procapritermes prosetiger</i> Ahmad, 1965 似具毛前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-sandakanensis/"><i>Procapritermes sandakanensis</i> Thapa, 1982 山打根前扭白蚁</a></li><li><a href="{{ site.base_url }}/species/procapritermes-setiger/"><i>Procapritermes setiger</i> Haviland, 1898 具毛前扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/procapritermes-zhangfengensis/"><i>Procapritermes zhangfengensis</i> Yang, Zhu & Huang, 1995 章凤前扭白蚁</a></li></ul>
 </section>

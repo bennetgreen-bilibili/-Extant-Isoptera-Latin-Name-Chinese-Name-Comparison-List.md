@@ -50,9 +50,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/roisinitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/roisinitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/roisinitermes-ebogoensis/"><i>Roisinitermes ebogoensis</i> Scheffrahn, 2018 埃博戈罗伊辛白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

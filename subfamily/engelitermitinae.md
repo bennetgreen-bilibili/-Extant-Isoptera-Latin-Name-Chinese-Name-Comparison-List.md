@@ -37,9 +37,6 @@ breadcrumb:
 <p>因仅含一属一种，其特征即亚科特征：正模群体(52)采自喀麦隆南部 Nyong 河畔的低地热带雨林，栖于枯死立木与树皮间约 50×60 cm 的空隙内，以黑色软粪质构筑巢腔，群体逾万头而兵蚁极少——四个已知样本中有两次只采到工蚁。工蚁上颚属食土（腐殖质）型，肠瓣垫上仅一枚棘刺且表皮无纹饰，这一组合在白蚁中独一无二；兵蚁罕见、腹部透明无固体食物，头黄橙色、矩形，上颚粗短、近基部各具一枚三角形齿，胫距式 2:2:2。有翅蚁迄今尚未采获。该亚科迄今仅知四个采集点，其发现表明非洲热带雨林中仍有本科独特深层支系有待发现。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
-{%- assign fk = site.data.fauna_keys["/subfamily/engelitermitinae/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/engelitermes/"><i>Engelitermes</i> 恩格尔白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/ateuchotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/ateuchotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ateuchotermes-ctenopher/"><i>Ateuchotermes ctenopher</i> Sands, 1972 梳肠无锐白蚁</a></li><li><a href="{{ site.base_url }}/species/ateuchotermes-muricatus/"><i>Ateuchotermes muricatus</i> Sands, 1972 胆怯无锐白蚁</a></li><li><a href="{{ site.base_url }}/species/ateuchotermes-pectinatus/"><i>Ateuchotermes pectinatus</i> Sands, 1972 梳痕无锐白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ateuchotermes-rastratus/"><i>Ateuchotermes rastratus</i> Sands, 1972 耙痕无锐白蚁</a></li><li><a href="{{ site.base_url }}/species/ateuchotermes-retifaciens/"><i>Ateuchotermes retifaciens</i> Sands, 1972 刚果无锐白蚁</a></li><li><a href="{{ site.base_url }}/species/ateuchotermes-sentosus/"><i>Ateuchotermes sentosus</i> Sands, 1972 多刺无锐白蚁</a></li><li><a href="{{ site.base_url }}/species/ateuchotermes-spinulatus/"><i>Ateuchotermes spinulatus</i> Sands, 1972 小刺无锐白蚁</a></li><li><a href="{{ site.base_url }}/species/ateuchotermes-tranquillus/"><i>Ateuchotermes tranquillus</i> Silvestri, 1914 宁静无锐白蚁</a></li></ul>
 </section>

@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 17,
+    "count": 20,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T01:18:41+08:00",
+    "updated": "2026-11-07T02:55:04+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -1151,6 +1151,137 @@
       "used_in": [],
       "evidence": [],
       "id": "S0017"
+    },
+    {
+      "title": "Composition of scientific words; a manual of methods and a lexicon of materials for the practice of logotechnics",
+      "source_type": "book",
+      "reliability": "reference",
+      "url": "https://archive.org/details/compositionofsci00brow",
+      "authors": [
+        "Brown R. W."
+      ],
+      "year": 1956,
+      "publisher": "Smithsonian Institution Press",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "Composition of scientific words; a manual of methods and a lexicon of materials for the practice of logotechnics.",
+          "locator": "题名页（archive.org stream）",
+          "note": "支撑：拉丁/希腊词根标准参考书；本任务所有词根释义的底层依据"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "标准科学名词词根手册（Brown 1956 修订版）。白蚁词源的权威专书是 Fontes & Monteiro 1998（S0019，无免费全文），本任务据 Brown 1956 词根做「拆解式」词源并交叉核对 Treatise (S0004)，凡无法确定者标「词源未详」。",
+      "accessed": "2026-11-07T02:46:48+08:00",
+      "canonical_key": "url:https://archive.org/details/compositionofsci00brow",
+      "id": "S0018"
+    },
+    {
+      "title": "Etimologia e pronúncia dos nomes científicos dos cupins",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://repositorio.usp.br/item/001031984",
+      "authors": [
+        "Fontes L. R.",
+        "Monteiro A. D. R."
+      ],
+      "year": 1998,
+      "publisher": "In: Fontes L. R., Filho E. B. (eds), Cupins: o desafio do conhecimento, pp. 19–43. São Paulo: Fundação de Estudos Agrários Luiz de Queiroz",
+      "lang": "pt",
+      "license": "unknown",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "Etimologia e pronúncia dos nomes científicos dos cupins",
+          "locator": "章节题名（据书目记载）",
+          "note": "支撑：权威白蚁命名词源出处（葡语，25 页，pp. 19–43）"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "notes": "access: blocked，仅有 USP 元数据（repositorio.usp.br/item/001031984）与 termitologia.net（Catálogo Taxonômico dos Isoptera do Brasil, R. Constantino）的引用清单，无免费全文。本任务未直接引用其正文，词源据 Brown 1956（S0018）+ Treatise（S0004）交叉核对；凡属/种无法确定者标「词源未详」，不编造。",
+      "accessed": "2026-11-07T02:46:48+08:00",
+      "canonical_key": "url:https://repositorio.usp.br/item/001031984",
+      "id": "S0019"
+    },
+    {
+      "title": "中国南部的白蚁新种",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "library:中国南部的白蚁新种",
+      "file_path": "_unpublished/文库/中国南部的白蚁新种",
+      "chars": 47079,
+      "retrieved_via": "文库（外部文本（--text））",
+      "accessed": "2026-11-07T02:55:04+08:00",
+      "notes": "全文存于 _unpublished/文库/中国南部的白蚁新种（47079 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；扫描件无文字层：正文经 Windows OCR(zh-Hans) 识别，种级标题与首页名录已据扫描图核对改写，正文行内拉丁学名与测量数字未逐处核对；原生 PDF 文本抽取失败（unsupported page tree）。",
+      "library": {
+        "book": "中国南部的白蚁新种",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T02:55:04",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/中国南部的白蚁新种/full.txt",
+            "chars": 47079,
+            "paragraphs": 1517,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Downloads\\F7875F0F1A8F44A6A697C535EE28D918.pdf",
+            "sha256": "50451249e82b7e54cf8230987b4562009382f33c93141ec7326d6e9cfe747f05",
+            "bytes": 88602
+          }
+        ]
+      },
+      "authors": [
+        "蔡邦华",
+        "陈宁生"
+      ],
+      "year": 1963,
+      "publisher": "昆虫学报 12(2): 167-198",
+      "lang": "zh",
+      "used_in": [],
+      "evidence": [
+        {
+          "quote": "本文記述了在中国南部发現的下列二十一个新种。其中有＊号者是作者参加中苏合作云南生物考察队时所采集到的部分材料。",
+          "locator": "p.167 摘要（PDF 第 1 页）",
+          "note": "支撑：本文性质（新种记述）与标本来源（中苏合作云南生物考察队）；21 个新种的总数"
+        },
+        {
+          "quote": "在集中起来的标本中包括了許多在国内未經記載的种类，經整理后发现 21 个新种。其中有 3 种属于木白蚁科 Kalotermitidae，3 种属于鼻白蚁科 Rhinotermitidae，15 种属于白蚁科 Termitidae。",
+          "locator": "p.168 第 1 段（PDF 第 2 页）",
+          "note": "支撑：新种数与科级分配（3+3+15=21），以及 1958 年华南热带作物科学研究所标本移交后整理所得"
+        },
+        {
+          "quote": "1. 鏟头堆砂白蟻 Cryptotermes declivis 新种",
+          "locator": "p.167 摘要名录第 1 条（PDF 第 1 页）",
+          "note": "支撑：种名与中文正名的对应（据扫描图逐字转录，OCR 原始输出此处崩坏）"
+        },
+        {
+          "quote": "3. 金平树白蟻 Glyptotermes chingpingensis 新种",
+          "locator": "p.167 摘要名录第 3 条（PDF 第 1 页）",
+          "note": "支撑：Glyptotermes chingpingensis 的种加词拼写与中文名"
+        },
+        {
+          "quote": "异名 Cryptotermes domesticus Tsai（nec Haviland）1956，昆虫分类学上册，第 153—154 頁所記台山产种类。",
+          "locator": "p.168，（1）鏟头堆砂白蚁 条目（PDF 第 2 页）",
+          "note": "支撑：1956 年蔡邦华《昆虫分类学》上册 p.153–154 所记台山标本被误订为 C. domesticus（nec Haviland），本文改订为 C. declivis"
+        },
+        {
+          "quote": "报告内所有的測量数字都以毫米計算。記述所依据的模式标本均保存于中国科学院动物研究所内。",
+          "locator": "p.168 末尾（PDF 第 2 页）",
+          "note": "支撑：量度单位（mm）与模式标本保藏地（中国科学院动物研究所）"
+        },
+        {
+          "quote": "这种白蚁分布于广东潮州、台山、广西金城江和福建云霄，生活于枯树和房屋木材内。",
+          "locator": "p.169，图 2 下方（PDF 第 3 页）",
+          "note": "支撑：C. declivis 的分布记录（广东、广西、福建）与栖境"
+        }
+      ],
+      "id": "S0020"
     }
   ]
 }

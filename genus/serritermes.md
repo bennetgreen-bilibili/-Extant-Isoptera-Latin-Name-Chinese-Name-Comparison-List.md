@@ -45,9 +45,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/serritermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/serritermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/serritermes-serrifer/"><i>Serritermes serrifer</i> Hagen & Bates, 1858 锯齿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/ekphysotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/ekphysotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ekphysotermes-jarmuranus/"><i>Ekphysotermes jarmuranus</i> Hill, 1929 贾穆瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-kalgoorliensis/"><i>Ekphysotermes kalgoorliensis</i> Hill, 1942 卡尔古利瘤突白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ekphysotermes-ocellaris/"><i>Ekphysotermes ocellaris</i> Mjöberg, 1920 眼显瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-pelatus/"><i>Ekphysotermes pelatus</i> Hill, 1942 脱皮瘤突白蚁</a></li><li><a href="{{ site.base_url }}/species/ekphysotermes-percomis/"><i>Ekphysotermes percomis</i> Hill, 1942 可爱瘤突白蚁</a></li></ul>
 </section>

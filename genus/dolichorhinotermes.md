@@ -50,9 +50,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/dolichorhinotermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/dolichorhinotermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/dolichorhinotermes-japuraensis/"><i>Dolichorhinotermes japuraensis</i> Constantino, 1991 雅普拉狭鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/dolichorhinotermes-lanciarius/"><i>Dolichorhinotermes lanciarius</i> Engel & Krishna, 2007 矛唇狭鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/dolichorhinotermes-latilabrum/"><i>Dolichorhinotermes latilabrum</i> Snyder, 1926 宽唇狭鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/dolichorhinotermes-longidens/"><i>Dolichorhinotermes longidens</i> Snyder, 1924 长齿狭鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/dolichorhinotermes-longilabius/"><i>Dolichorhinotermes longilabius</i> Emerson, 1924 长唇狭鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/dolichorhinotermes-neli/"><i>Dolichorhinotermes neli</i> Ensaf & Betsch, 2002 内尔狭鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/dolichorhinotermes-tenebrosus/"><i>Dolichorhinotermes tenebrosus</i> Emerson, 1925 暗色狭鼻白蚁</a></li></ul>
 </section>

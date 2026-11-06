@@ -47,9 +47,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_genera["/genus/foraminitermes/"] -%}{%- if fz %}
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
-{%- assign fk = site.data.fauna_keys["/genus/foraminitermes/"] -%}{%- if fk %}
-{% include fauna-keys.html fk=fk %}
-{%- endif %}
+{% include genus-morphology.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/foraminitermes-coatoni/"><i>Foraminitermes coatoni</i> Krishna, 1963 科顿孔白蚁</a></li><li><a href="{{ site.base_url }}/species/foraminitermes-corniferus/"><i>Foraminitermes corniferus</i> Sjöstedt, 1905 具角孔白蚁</a></li><li><a href="{{ site.base_url }}/species/foraminitermes-harrisi/"><i>Foraminitermes harrisi</i> Krishna, 1963 哈里斯孔白蚁</a></li><li><a href="{{ site.base_url }}/species/foraminitermes-rhinoceros/"><i>Foraminitermes rhinoceros</i> Sjöstedt, 1905 犀牛孔白蚁</a></li><li><a href="{{ site.base_url }}/species/foraminitermes-tubifrons/"><i>Foraminitermes tubifrons</i> Holmgren, 1912 瘤额孔白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/foraminitermes-valens/"><i>Foraminitermes valens</i> Silvestri, 1914 强健孔白蚁</a></li></ul>
 </section>
