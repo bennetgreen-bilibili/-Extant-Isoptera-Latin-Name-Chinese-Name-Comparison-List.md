@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 58,
+    "count": 60,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T03:57:34+08:00",
+    "updated": "2026-11-07T06:35:43+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2988,6 +2988,85 @@
       "accessed": "2026-11-07T03:57:34+08:00",
       "canonical_key": "doi:10.3897/zookeys.1125.91124",
       "id": "S0058"
+    },
+    {
+      "title": "New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian region (Isoptera, Termitidae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "doi": "",
+      "year": 1960,
+      "authors": [
+        "Emerson, A.E."
+      ],
+      "pages": "1–21",
+      "lang": "en",
+      "license": "unknown",
+      "url": "https://archive.org/details/newgeneraonsubu1987emer",
+      "retrieved_via": "archive.org 扫描件全文（HTML/文本）→ _tmp/lit/fulltext/04-terminidae-7/emerson1960b.txt",
+      "evidence": [
+        {
+          "quote": "Imaco (Fic. 6): Head and postclypeus covered rather thinly with very short hairs and also with several long bristles. Pronotum with nu- merous long bristles near the margins of the sides and rear; surface with a few short hairs. Tergites and sternites with many long bristles or hairs about equal in length on both the tergites and sternites.",
+          "locator": "p. 10–11，Genus Postsubulitermes, Imago",
+          "note": "支撑：Postsubulitermes 有翅成虫头与后唇基被稀疏短毛并有长刚毛、前胸背板多长刚毛"
+        },
+        {
+          "quote": "Mandibles as in figure 10. Each mandible with a very long apical tooth and a reduced cutting edge behind the first marginal tooth. The left mandible index is 2.91, indicating a proportionately longer apical",
+          "locator": "p. 16，Genus Tarditermes, Imago（上颚）",
+          "note": "支撑：Tarditermes 有翅成虫上颚端齿极长、左颚指数 2.91"
+        },
+        {
+          "quote": "Length of head 1.39-1.53 Width of head 0.55-0.60 Thickness of head with postmentum 0.50-0.56 Width of pronotum 0.34-0.39 Length of hind tibia 0.71-0.79",
+          "locator": "p. 14，Table 5（10 头兵蚁测量）",
+          "note": "支撑：Postsubulitermes 兵蚁头长 1.39–1.53 mm、头宽 0.55–0.60 mm、后足胫节 0.71–0.79 mm"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/04-7.json"
+      ],
+      "notes": "1960 年 3 月 1 日出版（No. 1987），建立 Verrucositermes、Afrosubulitermes、Postsubulitermes、Tarditermes 四新属；属级描述明确分 IMAGO / SOLDIER / Worker（OCR 把 IMAGO 印成 Imaco、FIG. 印成 Fic.），并附 Table 4–7 测量。Postsubulitermes、Tarditermes 两属的体色与测量值取自其后的种记述（P. parviconstrictus、T. contracolor），在 04-7.json 中已标明。",
+      "publisher": "American Museum Novitates 1987: 1–20",
+      "accessed": "2026-11-07T06:35:43+08:00",
+      "canonical_key": "url:https://archive.org/details/newgeneraonsubu1987emer",
+      "id": "S0059"
+    },
+    {
+      "title": "Rounditermes dechambrei, a new genus and species of Nasutitermitinae from French Guiana (Isopt., Termitidae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "doi": "10.3406/bsef.2003.16919",
+      "year": 2003,
+      "authors": [
+        "Ensaf, A.",
+        "Ponchel, Y.",
+        "Nel, A."
+      ],
+      "pages": "53–54",
+      "lang": "en",
+      "license": "unknown",
+      "url": "https://www.persee.fr/doc/bsef_0037-928x_2003_num_108_1_16919",
+      "retrieved_via": "Persée 文章页全文 HTML（无 PDF 下载）→ _tmp/out11.txt",
+      "evidence": [
+        {
+          "quote": "Rounditermes n. gen. mainly differs from the closely related genus Cortari¬ termes in the presence of 14 antennal segments in soldier, its longer and broader soldier head, its relatively longer hind tibia of soldier, the absence of microscopic pilosity of the soldier head, its nasus more conical and shorter than in the Cortaritermes spp.",
+          "locator": "p. 53，Diagnosis",
+          "note": "支撑：Rounditermes 与 Cortaritermes 的四项兵蚁区别（触角 14 节、头更长更宽、后足胫节相对更长、头面无微毛、鼻更锥形且较短）"
+        },
+        {
+          "quote": "mean dimensions (based on ten specimens) : length of entire soldier, 5.20mm ; length of head with nasus, 1.99mm ; width of head, 1.55 mm ; length of nasus, 0.72 mm ; length of pronotum, 0.4 mm ; length of antennae, 1.97 mm",
+          "locator": "p. 54，Descriptions — Soldiers (11)",
+          "note": "支撑：Rounditermes 兵蚁 10 头标本的均值测量"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/04-7.json"
+      ],
+      "notes": "法属圭亚那新属新种，全文只描述兵蚁（正模为兵蚁；副模 29 兵蚁 + 3 工蚁，但工蚁未描述），故 04-7.json 只有「鉴别要点 / 兵蚁」两节。法语刊物的英文文章；DOI 前缀 10.3406 为 Persée 的注册号，出版社原始 DOI 未另设。",
+      "publisher": "Bulletin de la Société entomologique de France 108(1): 53–54",
+      "accessed": "2026-11-07T06:35:43+08:00",
+      "canonical_key": "doi:10.3406/bsef.2003.16919",
+      "id": "S0060"
     }
   ]
 }

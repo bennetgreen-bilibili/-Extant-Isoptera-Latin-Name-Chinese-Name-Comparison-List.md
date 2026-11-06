@@ -6,9 +6,9 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**99**。
-- 仍待补文献描述：**192**。其中 166 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），26 个没有独立条目（需另找发表文献）。
-- 有 Treatise 条目但未提取到模式种的属：9（不影响找原始文献，但补写时要先确认模式种）。
+- 已补写文献描述：**110**。
+- 仍待补文献描述：**181**。其中 155 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），26 个没有独立条目（需另找发表文献）。
+- 有 Treatise 条目但未提取到模式种的属：8（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
 > 均摘自 Krishna et al. (2013) 的属级条目；该书只登记原始发表信息、模式种和
@@ -65,7 +65,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 70 | 187 | 24 |
+| 白蚁科 Termitidae | 280 | 23 | 81 | 176 | 24 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -1947,14 +1947,10 @@
   - Roisin et al., 1996: 777 — Obtusitermes; soldier, worker characters.
 - 页面：https://isoptera.lifemosaic.net/genus/obtusitermes/
 
-### 西部白蚁属 *Occasitermes* — 待补（有 Treatise 线索）
+### 西部白蚁属 *Occasitermes* — 已有文献描述
 
-- 原始描述：Occasitermes Holmgren, 1912a: 59, 60 [first introduced as a subgenus of Eutermes Heer, 1849b].
-- 模式种：Eutermes occasus Silvestri, 1909 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 202–205 — Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed.
-  - Gay, 1974: 275–276 — Occasitermes; synonymy; characters; comments.
-  - Morimoto, 1975b: 23, 24 — Occasitermes; key.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.
+- 定位：p. 59–60（有翅成虫检索表 B/a/bb/ee/d），p. 60–61（兵蚁检索表 A/aa/b/dd/e），p. 68（系统学讨论）
 - 页面：https://isoptera.lifemosaic.net/genus/occasitermes/
 
 ### 隐白蚁属 *Occultitermes* — 待补（有 Treatise 线索）
@@ -2000,28 +1996,16 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 后锥白蚁属 *Postsubulitermes* — 待补（有 Treatise 线索）
+### 后锥白蚁属 *Postsubulitermes* — 已有文献描述
 
-- 原始描述：Postsubulitermes Emerson, 1960
-- 模式种：Postsubulitermes parviconstrictus Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 35, 114, 115, pl. 25: fig. 82c — Postsubulitermes; key; characters; worker mandibles figured.
-  - Sands, 1965d: 133 — Postsubulitermes; key.
-  - Sands, 1965c: 14, 15, 155–156 — Postsubulitermes; key; characters.
-  - Bouillon and Mathot, 1966: 3 — Postsubulitermes; key.
-  - Morimoto, 1975b: 23 — Postsubulitermes; key.
+- 已据文献补写：Emerson, A.E. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian region (Isoptera, Termitidae). American Museum Novitates, 1987: 1–20.
+- 定位：p. 10–12（Genus Postsubulitermes: Imago, Soldier, Worker）；Sands 1965: p. 55–56（属征与比较）
 - 页面：https://isoptera.lifemosaic.net/genus/postsubulitermes/
 
-### 锥形白蚁属 *Rhadinotermes* — 待补（有 Treatise 线索）
+### 锥形白蚁属 *Rhadinotermes* — 已有文献描述
 
-- 原始描述：Rhadinotermes Sands, 1965c: 71–72.
-- 模式种：Eutermes coarctatus Sjöstedt, 1902 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1966: 2 — Rhadinotermes; key.
-  - Coaton and Sheasby, 1972: 25, 97, 101, figs. 25A, B, 58 — Rhadinotermes; soldier figured; key; ecology; biology; distribution. Namibia. 1820 Bulletin of the American Museum of natural History No. 377
-  - Morimoto, 1975b: 26 — Rhadinotermes; key.
-  - Sands, 1998: 43, 264–266, figs. 1271–1284, pl. 17: fig. 1 — Rhadinotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
-  - Uys, 2002: 96, 104–105, fig. 256 — Rhadinotermes; key; species included; diagnosis; biology; distribution. South Africa.
+- 已据文献补写：Sands, W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172.
+- 定位：p. 71（Genus Rhadinotermes: Imago, Soldier）；p. 72–73（R. coarctatus 种记述，体色、指数与测量）；p. 11（支系归属）
 - 页面：https://isoptera.lifemosaic.net/genus/rhadinotermes/
 
 ### 鲁恩沃白蚁属 *Roonwalitermes* — 待补（有 Treatise 线索）
@@ -2032,23 +2016,16 @@
   - Chhotani, 1997: 746–747 — Roonwalitermes; reference list; characters; distribution and composition.
 - 页面：https://isoptera.lifemosaic.net/genus/roonwalitermes/
 
-### 圆白蚁属 *Rotunditermes* — 待补（有 Treatise 线索）
+### 圆白蚁属 *Rotunditermes* — 已有文献描述
 
-- 原始描述：Rotunditermes Holmgren, 1910c: 206, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes rotundiceps Holmgren, 1906 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 60, 61, 64 — Rotunditermes; key; species included.
-  - Snyder, 1934a: 25, 28 — Nasutitermes (Rotunditermes); key.
-  - Lal and Menon, 1953: 36 — Eutermes (Rotunditermes); key.
-  - Morimoto, 1975b: 24 — Rotunditermes; key.
-  - Mathews, 1977: 174, 176 — Rotunditermes; synonymy; characters.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.
+- 定位：p. 60（有翅成虫检索表 aa/bb/e/d），p. 61（兵蚁检索表 bb/c/dd）
 - 页面：https://isoptera.lifemosaic.net/genus/rotunditermes/
 
-### 胖白蚁属 *Rounditermes* — 待补（有 Treatise 线索）
+### 胖白蚁属 *Rounditermes* — 已有文献描述
 
-- 原始描述：Rounditermes Ensaf et al., 2003a: 53.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Ensaf, A., Ponchel, Y. & Nel, A. 2003. Rounditermes dechambrei, a new genus and species of Nasutitermitinae from French Guiana (Isopt., Termitidae). Bulletin de la Société entomologique de France, 108(1): 53–54. https://doi.org/10.3406/bsef.2003.16919
+- 定位：p. 53（Diagnosis），p. 53–54（Descriptions — Soldiers）
 - 页面：https://isoptera.lifemosaic.net/genus/rounditermes/
 
 ### 沙巴白蚁属 *Sabahitermes* — 待补（有 Treatise 线索）
@@ -2095,40 +2072,22 @@
   - Gathorne-Hardy, 2004: 126 — Subulioiditermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/subulioiditermes/
 
-### 锥白蚁属 *Subulitermes* — 待补（有 Treatise 线索）
+### 锥白蚁属 *Subulitermes* — 已有文献描述
 
-- 原始描述：Subulitermes Holmgren, 1910c: 206, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes microsoma Silvestri, 1903 by subsequent designation; see Snyder, 1949a: 338.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1912a: 59, 61, 64 — Eutermes (Subulitermes); characters; key; species included.
-  - Fuller, 1921: 19, 21, 27 — Subulitermes; key.
-  - Emerson, 1928b: 407, 420 — Nasutitermes (Subulitermes); key; distribution.
-  - Snyder, 1934a: 25, 28 — Nasutitermes (Subulitermes [part]); key.
-  - Lal and Menon, 1953: 36 — Eutermes (Subulitermes); key.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.
+- 定位：p. 59（有翅成虫检索表 B/a/b），p. 61（兵蚁检索表 cc），p. 68（系统学讨论）
 - 页面：https://isoptera.lifemosaic.net/genus/subulitermes/
 
-### 慢白蚁属 *Tarditermes* — 待补（有 Treatise 线索）
+### 慢白蚁属 *Tarditermes* — 已有文献描述
 
-- 原始描述：Tarditermes Emerson, 1960b: 15–18.
-- 模式种：Tarditermes contracolar Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 34, 112, 113, pl. 24: fig. 78c — Tarditermes; key; characters; imago mandibles figured.
-  - Sands, 1965d: 134 — Tarditermes; key.
-  - Sands, 1965c: 15, 166–167 — Tarditermes; key; characters.
-  - Bouillon and Mathot, 1966: 3 — Tarditermes; key.
-  - Sands, 1995: 1506, 1507 — Tarditermes; key.
+- 已据文献补写：Sands, W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172.
+- 定位：p. 166（Genus Tarditermes: Imago, Soldier, Worker）；Emerson 1960: p. 15–19（原始描述，毛被与测量）
 - 页面：https://isoptera.lifemosaic.net/genus/tarditermes/
 
-### 薄嘴白蚁属 *Tenuirostritermes* — 待补（有 Treatise 线索）
+### 薄嘴白蚁属 *Tenuirostritermes* — 已有文献描述
 
-- 原始描述：Tenuirostritermes Holmgren, 1912a: 60, 61, 65 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Termes tenuirostris Desneux, 1904 by subsequent designation, see Snyder, 1949a: 312.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Fuller, 1922: 115 — Tenuirostritermes; characters.
-  - Light, 1933: 82 — Nasutitermes (Tenuirostritermes); key.
-  - Weesner, 1965: 38, 63 — Tenuirostritermes; key; characters.
-  - Morimoto, 1975b: 27 — Tenuirostrotermes [sic]; key.
-  - Mill, 1983a: 183, 188 — Tenuirostritermes; key; number of species in New World; habitat; distribution.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.
+- 定位：p. 61（兵蚁检索表 dd/e/f），p. 71（系统学讨论）
 - 页面：https://isoptera.lifemosaic.net/genus/tenuirostritermes/
 
 ### 暗鼻白蚁属 *Tiunatermes* — 已有文献描述
@@ -2147,38 +2106,22 @@
   - Constantino, 2002a: 12 — Triangularitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/triangularitermes/
 
-### 三脉白蚁属 *Trinervitermes* — 待补（有 Treatise 线索）
+### 三脉白蚁属 *Trinervitermes* — 已有文献描述
 
-- 原始描述：Trinervitermes Holmgren, 1912a: 59, 61, 64, 65 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Termes trinervius Rambur, 1842 by subsequent designation, see Sjöstedt, 1926d: 325.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Holmgren, 1913d: 334–336 — Eutermes (Trinervitermes); characters; species included.
-  - Fuller, 1921: 19, 20, 21, 27 — Trinervitermes; key.
-  - Sjöstedt, 1926d: 290, 325 — Trinervitermes; reference list; key.
-  - Bathellier, 1927: 172, 173 — Eutermes (Trinervitermes); key.
-  - Emerson, 1928b: 407, 420, 486 — Nasutitermes (Trinervitermes); key; discussion; distribution.
+- 已据文献补写：Sands, W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172.
+- 定位：p. 76–77（Genus Trinervitermes: Imago, Soldier）
 - 页面：https://isoptera.lifemosaic.net/genus/trinervitermes/
 
-### 冢白蚁属 *Tumulitermes* — 待补（有 Treatise 线索）
+### 冢白蚁属 *Tumulitermes* — 已有文献描述
 
-- 原始描述：Tumulitermes Holmgren, 1912a: 59, 61 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes tumuli Froggatt, 1898 by subsequent designation, see Snyder, 1949a: 301 [type fixation is not by monotypy as stated by Watson et al., 1998; Holmgren 1912 mentions two species, tumuli and apiocephalus].
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 202–205 — Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed.
-  - Morimoto, 1975b: 24 — Tumulitermes; key.
-  - Roisin and Pasteels, 1996: 596 — Tumulitermes; characters; distribution.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.
+- 定位：p. 60（有翅成虫检索表 dd/e），p. 61（兵蚁检索表 c/d），p. 68（系统学讨论）
 - 页面：https://isoptera.lifemosaic.net/genus/tumulitermes/
 
-### 快白蚁属 *Velocitermes* — 待补（有 Treatise 线索）
+### 快白蚁属 *Velocitermes* — 已有文献描述
 
-- 原始描述：Velocitermes Holmgren, 1912a: 60, 61 [first introduced as a subgenus of Eutermes Heer, 1849].
-- 模式种：Eutermes heteropterus Silvestri, 1901 by subsequent designation; see Snyder, 1949a: 311.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Spaeth, 1967: 850 — Velocitermes; relationships; characters.
-  - Morimoto, 1975b: 26 — Velocitermes; key.
-  - Mathews, 1977: 185–187 — Velocitermes; synonymy; characters; discussion; relationships.
-  - Mill, 1983a: 183, 188 — Velocitermes; key; number of species in New World; habitat; distribution.
-  - Nickle and Collins, 1992: 226, 227, 238 — Velocitermes; key; characters.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.
+- 定位：p. 60（有翅成虫检索表 ee/d），p. 61–62（兵蚁检索表 cc），p. 71（系统学讨论）
 - 页面：https://isoptera.lifemosaic.net/genus/velocitermes/
 
 ### 疣白蚁属 *Verrucositermes* — 待补（有 Treatise 线索）
