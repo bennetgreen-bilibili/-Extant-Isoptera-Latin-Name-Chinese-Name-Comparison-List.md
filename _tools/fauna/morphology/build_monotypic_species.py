@@ -34,10 +34,14 @@ def main() -> int:
         sp = species[0]
         if sp["url"] in out:
             continue
+        srcs = g.get("sources")
+        if srcs is None:
+            src = g.get("source")
+            srcs = src if isinstance(src, list) else ([src] if src else [])
         out[sp["url"]] = {
             "zh_name": sp.get("zh", ""),
             "sections": [dict(s) for s in g["sections"]],
-            "source": g.get("source") or (g.get("sources") or [{}])[0],
+            "sources": srcs,
             "note": NOTE,
         }
         added += 1

@@ -6,8 +6,8 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**110**。
-- 仍待补文献描述：**181**。其中 155 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），26 个没有独立条目（需另找发表文献）。
+- 已补写文献描述：**111**。
+- 仍待补文献描述：**180**。其中 154 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），26 个没有独立条目（需另找发表文献）。
 - 有 Treatise 条目但未提取到模式种的属：8（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
@@ -65,7 +65,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 81 | 176 | 24 |
+| 白蚁科 Termitidae | 280 | 23 | 82 | 175 | 24 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -2140,16 +2140,10 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 新扭白蚁属 *Neocapritermes* — 待补（有 Treatise 线索）
+### 新扭白蚁属 *Neocapritermes* — 已有文献描述
 
-- 原始描述：Neocapritermes Holmgren, 1912a: 115–116 [first introduced as a subgenus of Capritermes Wasmann, 1897].
-- 模式种：Capritermes alienus von Rosen, 1912 (= Termes opacus Hagen, 1858) by subsequent designation; see Sjöstedt, 1926d: 287; Snyder, 1949a: 200, Neocapritermes opacus designated as type species, Krishna, 1968: 87 for discussion of type species. 2013 Krishna ET AL.: isoptera: TERMITIDAE: TERMITINAE 2261
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Silvestri, 1903: 62 — Capritermes [part]; synonymy; characters.
-  - Snyder, 1926e: 64 — Capritermes (Neocapritermes); key; discussion.
-  - Webb, 1961: 11 — Neocapritermes; key.
-  - Krishna and Araujo, 1968: 87–92 — Neocapritermes; synonymy; characters; biology; relationships; key to species.
-  - Krishna, 1968: 312–316 — Neocapritermes; synonymy; key; characters; phylogeny; species included; distribution.
+- 已据文献补写：Krishna K.; Araujo R. L. 1968. A revision of the neotropical termite genus Neocapritermes (Isoptera, Termitidae, Termitinae). Bulletin of the American Museum of Natural History 138: 85–130.
+- 定位：pp. 88–89（Imago 与 Soldier 属级诊断；工蚁上颚见图 1）
 - 页面：https://isoptera.lifemosaic.net/genus/neocapritermes/
 
 ### 平扭白蚁属 *Planicapritermes* — 待补（有 Treatise 线索）

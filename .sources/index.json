@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 60,
+    "count": 61,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T06:35:43+08:00",
+    "updated": "2026-11-07T06:43:59+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -3067,6 +3067,41 @@
       "accessed": "2026-11-07T06:35:43+08:00",
       "canonical_key": "doi:10.3406/bsef.2003.16919",
       "id": "S0060"
+    },
+    {
+      "title": "A revision of the neotropical termite genus Neocapritermes (Isoptera, Termitidae, Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "year": 1968,
+      "lang": "en",
+      "license": "unknown",
+      "url": "https://archive.org/details/bulletin-american-museum-natural-history-138-085-130",
+      "authors": [
+        "Krishna, Kumar",
+        "Araujo, R. L."
+      ],
+      "publisher": "American Museum of Natural History",
+      "retrieved_via": "web_fetch (archive.org djvu.txt OCR)",
+      "evidence": [
+        {
+          "quote": "Imago: Head usually without dense pubescence, in some cases covered with short hair and a few bristles of two sizes; pronotum more densely covered with hair and bristles. Fontanelle plate sclerotized, without visible opening. Ocellus large, not touching eye. Antennae with 16 or 17 articles.",
+          "locator": "p. 88 (Imago)",
+          "note": "支撑：新扭白蚁属有翅成虫头毛被、囟板、单眼、触角节数"
+        },
+        {
+          "quote": "Soldier: Neotropical Termitinae with conspicuously distorted, asymmetrical, snapping mandibles and without “nose” or conical horizontal projection of frons; monomorphic (in spite of variation in size), without frontal gland; fontanelle circular; head not flattened, evenly rounded at posterior margin.",
+          "locator": "p. 88 (Soldier)",
+          "note": "支撑：兵蚁不对称弹射上颚、无额腺、囟圆形、头后缘圆"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/neocapritermes1968.json"
+      ],
+      "notes": "正文据 archive.org 的 djvu.txt OCR 文本读取；OCR 有个别字符噪声，引用句段为干净段落。原书只列 Imago 与 Soldier 属级诊断，工蚁仅给图 1 上颚图。",
+      "accessed": "2026-11-07T06:43:59+08:00",
+      "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-138-085-130",
+      "id": "S0061"
     }
   ]
 }

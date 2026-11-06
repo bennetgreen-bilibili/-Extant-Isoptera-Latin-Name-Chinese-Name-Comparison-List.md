@@ -40,7 +40,11 @@ def main() -> int:
             for src in srcs:
                 if not src.get("id") or not src.get("citation"):
                     raise SystemExit(f"{path}: {url} source needs id and citation")
-            merged[url] = entry
+            # Normalise to one shape: a sources array.  The site and the
+            # worklist builders can then stop guessing between source/sources.
+            clean = {k: v for k, v in entry.items() if k != "source"}
+            clean["sources"] = srcs
+            merged[url] = clean
             origin[url] = path.name
     OUT.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"wrote {OUT.relative_to(ROOT)}: {len(merged)} genera from {len(list(SRC.glob('*.json')))} file(s)")
