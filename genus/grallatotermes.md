@@ -29,11 +29,11 @@ breadcrumb:
 <p class="taxon-meta">白蚁科 TERMITIDAE · 7 种</p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="grallatotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
-<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（7 个种与亚种）：中文名或拉丁学名</label>
-<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / abruptus" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<label class="taxon-search-label" for="taxon-search-input">在本属范围内检索（7 个种与亚种）：名字、分布或模式产地</label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
-<p class="taxon-search-hint">只检索本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+<p class="taxon-search-hint">按名字与产地筛选本属登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
 </div>
 <section class="taxon-section taxon-distribution" data-pagefind-ignore>
 <h2>分布图</h2>

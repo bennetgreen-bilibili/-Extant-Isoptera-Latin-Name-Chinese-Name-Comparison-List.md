@@ -504,6 +504,9 @@ body.search-overlay-open{overflow:hidden}
 .taxon-search-results .rank{font-size:.72em;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 6px;margin-right:6px;white-space:nowrap}
 .taxon-search-results .latin{font-style:italic;color:var(--muted);font-size:.92em}
 .taxon-search-results .fam{font-size:.78em;color:var(--muted);border:1px solid var(--line-soft);border-radius:4px;padding:0 5px;white-space:nowrap}
+.taxon-search-results .taxon-search-snippet{margin-top:4px;font-size:.82em;color:var(--muted);line-height:1.6}
+.taxon-search-results .taxon-search-field{display:inline-block;font-size:.94em;color:var(--muted);border:1px solid var(--line-soft);border-radius:4px;padding:0 5px;margin-right:6px;white-space:nowrap}
+.taxon-search-results mark{background:var(--accent-soft);color:inherit;border-radius:2px;padding:0 1px}
 .taxon-search-empty{color:var(--muted);font-size:.92em}
 .taxon-search-empty a{color:var(--accent)}
 .taxon-search-hint{font-size:.82em;color:var(--muted);margin:.55em 0 0;line-height:1.65}

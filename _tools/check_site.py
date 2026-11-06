@@ -432,6 +432,19 @@ def check_counts(fields_by_slug: dict, taxonomy: dict) -> None:
     if index_genera != len(taxonomy["genera"]):
         err("search-index.json", "属条目 %d 与 taxonomy.json 的属数 %d 不一致"
             % (index_genera, len(taxonomy["genera"])))
+    # 科 / 亚科 / 属页的局部检索按产地查种（assets/taxon-search.js 的 dz / de / t / sl），
+    # 这些字段一旦整体消失，检索框就退化成只能搜名字，故在这里拦下。
+    no_type = [e.get("l") for e in index if e.get("r") in ("种", "亚种") and not e.get("t")]
+    if no_type:
+        err("search-index.json", "%d 条种/亚种缺模式产地字段 t，例如 %s"
+            % (len(no_type), "、".join(no_type[:3])))
+    no_dist = [e.get("l") for e in index
+               if e.get("r") in ("种", "亚种") and e.get("p")
+               and (fields_by_slug.get(e["p"], {}).get("distribution_zh") or "").strip()
+               and not e.get("dz")]
+    if no_dist:
+        err("search-index.json", "%d 条有分布但缺分布字段 dz，例如 %s"
+            % (len(no_dist), "、".join(no_dist[:3])))
 
 
 def check_sitemap(base_url: str) -> None:

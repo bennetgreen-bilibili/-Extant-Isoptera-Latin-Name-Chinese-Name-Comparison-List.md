@@ -8,15 +8,23 @@
   h  分类单元自身的锚点 id（种、亚种为所属属的 id），前端按页范围求交
   f  所属科中文名（检索结果里显示"属于哪个科"；支系与科条目省略）
   s  次异名（仅种、亚种；以 " ; " 分隔；无则省略）
+  dz 分布（中文记录，仅种、亚种；无则省略）
+  de 分布（英文记录，仅种、亚种；无则省略）
+  t  模式产地（仅种、亚种；无则省略）
+  sl 次异名的模式产地（仅种、亚种；无则省略）
   p  物种页 slug（仅种、亚种），前端跳 /species/<p>/
   u  中转页路径（支系 / 科 / 亚科 / 属），前端跳 /list/#<id> 或 /family|/subfamily|/genus/<id>/
   py 中文名的拼音连写（无声调，仅小写字母），供拼音检索
   pi 中文名的拼音首字母连写，供首字母检索
   zt 中文名的繁体写法（OpenCC s2t），供繁体检索
 
+  dz / de / t / sl 供科、亚科、属页的局部检索（assets/taxon-search.js）按产地查种，
+  数据直接取 _species/*.md 的 front matter，不再另建索引文件；它们只增字段、
+  不改条目顺序，所以 --check 的确定性比对不受影响。
+
 数据来源：
   _data/taxonomy.json   支系 → 科 → 亚科 → 属 的层级与锚点 id（条目顺序即分类顺序）
-  _species/*.md         种与亚种的拉丁名 / 中文名 / 所属属 / 次异名
+  _species/*.md         种与亚种的拉丁名 / 中文名 / 所属属 / 次异名 / 模式产地 / 分布
 
 /list/ 已改为索引页、不再逐条罗列物种，所以索引不再解析 list.md，改由上面两个数据源生成；
 名录页只负责按支系列出科并链到科页、亚科页、属页。
@@ -50,6 +58,7 @@ INDEX_JSON = ROOT / "search-index.json"
 
 RANK_BY_FRONT_MATTER = {"species": "种", "subspecies": "亚种"}
 SYNONYM_RE = re.compile(r"^(?:\d+\.|-)\s+\*(?P<name>[^*]+)\*")
+WS_RE = re.compile(r"\s+")
 FM_RE = re.compile(r'^(?P<key>[a-z_]+):\s*(?P<value>.*?)\s*$')
 SUBGENUS_RE = re.compile(r"^(?P<genus>[A-Z][a-z]+) \((?P<subgenus>[A-Za-z]+)\) (?P<rest>[a-z].*)$")
 
@@ -92,6 +101,11 @@ def parse_synonyms(path: Path) -> list[str]:
         if m:
             names.append(m.group("name").strip())
     return names
+
+
+def clean(value: str | None) -> str:
+    """front matter 的产地 / 分布写成单行标量，这里只压平空白，不改写内容。"""
+    return WS_RE.sub(" ", value or "").strip()
 
 
 def expand_synonyms(names: list[str]) -> list[str]:
@@ -202,6 +216,12 @@ def build(species_fields: dict[str, dict[str, str]],
         names = expand_synonyms(species_synonyms.get(slug) or [])
         if names:
             entry["s"] = " ; ".join(names)
+        # 产地类字段：让科 / 亚科 / 属页的局部检索也能按「模式产地 / 分布」查种
+        for key, field in (("dz", "distribution_zh"), ("de", "distribution_en"),
+                           ("t", "type_locality"), ("sl", "synonym_localities")):
+            value = clean(fields.get(field))
+            if value:
+                entry[key] = value
         entry["p"] = slug
         return entry
 

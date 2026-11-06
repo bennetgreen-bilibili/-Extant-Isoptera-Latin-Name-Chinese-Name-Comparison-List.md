@@ -38,7 +38,7 @@
 - `data/mastotermitidae.json`、`data/teletisoptera.json`、`data/kalotermitidae.json`、`data/neoisoptera-excl-termitidae.json`
 - `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）
 - `isoptera-data.json`（整棵分类树的单文件版，含模式种、分布、亚种）与 `stats.md` / `en/stats.md` / `es/stats.md`（三语统计页）：由 `_tools/build_taxonomy_data.py` 从 `_data/taxonomy.json` + `_species/` 确定性生成，可 `--check` 校验；`data/index.json` 的计数与文件字节数也由同一脚本维护
-- `search-index.json`（检索索引，供名录索引页搜索框；由 `.github/workflows/build_search_index.py` 从 `_data/taxonomy.json` 与 `_species/` front matter 生成，见下文「站内检索与开源组件」）
+- `search-index.json`（检索索引，供名录索引页与科 / 亚科 / 属页的检索框使用，含名字与产地字段；由 `.github/workflows/build_search_index.py` 从 `_data/taxonomy.json` 与 `_species/` front matter 生成，见下文「站内检索与开源组件」）
 
 ## 归档数据集与 DOI（dataset/）
 - 生成脚本：`.github/workflows/build_dataset.py`（只用标准库，确定性输出，可 `--check`）。产物：
@@ -61,9 +61,15 @@
 
 ### 1. 名录检索：拼音 + 繁体（`.github/workflows/build_search_index.py` + `assets/search.js`）
 - 索引 `search-index.json` 由脚本从 `_data/taxonomy.json`（支系—科—亚科—属的层级与顺序）与 `_species/` front matter（种、亚种、中文名、次异名）生成，**确定性输出**，可用 `--check` 校验。条目按版面顺序排列：支系 → 科 → 该科的亚科 → 亚科下属 → 该科直属属 → 属内种 → 种后紧跟其亚种。
-- 字段：`l` 拉丁名、`z` 中文名、`r` 阶元、`h` 锚点、`f` 所属科中文名（结果里显示「哪个科」）、`s` 次异名、`p` 物种页 slug，以及三个可选增强字段：`py`（拼音连写，如 `daerwenaobaiyi`）、`pi`（拼音首字母）、`zt`（繁体写法）。
+- 字段：`l` 拉丁名、`z` 中文名、`r` 阶元、`h` 锚点、`f` 所属科中文名（结果里显示「哪个科」）、`s` 次异名、`p` 物种页 slug，以及四个产地字段：`dz`（分布中文）、`de`（分布英文）、`t`（模式产地）、`sl`（异名模式产地），再加上三个可选增强字段：`py`（拼音连写，如 `daerwenaobaiyi`）、`pi`（拼音首字母）、`zt`（繁体写法）。产地字段取自 `_species/` front matter 的 `distribution_zh` / `distribution_en` / `type_locality` / `synonym_localities`，只写进种与亚种条目（属 / 亚科 / 科条目没有自己的产地）。
 - 增强字段由 CI 安装 **pypinyin**（拼音）与 **OpenCC**（简→繁）后在构建时补上：`pip install pypinyin opencc-python-reimplemented`。本地未装依赖时脚本自动跳过增强字段照常生成基础索引（不报错），所以仓库内的 `search-index.json` 是基础版；部署版由 CI 重新生成。
 - 前端 `assets/search.js` 依次匹配：拉丁名 / 中文名 / 次异名 / 繁体 / 拼音全拼 / 拼音首字母；无结果时给出「在全站全文搜索中查找」的跳转入口。命令：`python .github/workflows/build_search_index.py [--write|--check|--no-enrich]`。
+
+### 1.1 中转页局部检索：科 / 亚科 / 属页（`assets/taxon-search.js`）
+- 科、亚科、属页顶部各有一个检索框，只在本页登记的分类单元里过滤同一份 `search-index.json`：读 `.taxon-search` 的 `data-anchors`，与条目的 `h`（种 / 亚种的 `h` 是所属属的锚点 id）求交，得到本页范围。
+- 检索字段：拉丁名 / 中文名 / 次异名，加上 `dz` 分布中文、`de` 分布英文、`t` 模式产地、`sl` 异名模式产地。空格分隔的多个词按 **AND** 处理（如「澳大利亚 引入」）；结果里显示命中的字段名并高亮命中片段，最多列 40 条。名字命中排在产地命中之前，紧凑拉丁匹配（`amitermesabruptus`）仍然有效。
+- 框的 HTML 由 `.github/workflows/build_taxonomy_pages.py` 的 `search_box()` 生成，页面里的这一段不要手改；`_layouts/default.html` 在 `page.taxon_search` 为真时加载该脚本。
+- 索引体积：加入四个产地字段后由约 470 KB 增至约 875 KB（gzip 后约 70 KB → 172 KB），浏览器只在首次输入时取一次，故仍用单文件、不分片。
 
 ### 2. 全文搜索：Pagefind（`.github/workflows/pages.yml` + `assets/search-page.js`）
 - [Pagefind](https://pagefind.app/) 在 Jekyll 构建**之后**扫描 `_site` 生成静态索引 `_site/pagefind/`（CI 步骤：`pip install "pagefind[extended]==1.5.2"` → `python -m pagefind --site _site`）。
