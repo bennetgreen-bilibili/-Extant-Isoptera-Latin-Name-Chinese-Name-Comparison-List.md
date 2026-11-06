@@ -38,9 +38,9 @@ ES — **本杰明象白蚁** (*Nasutitermes benjamini*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *benjamini*：以人名 benjamin 命名（具体指向待考）
+种加词 *benjamini*：以人名 Benjamin 命名
 
-EN — epithet *benjamini*: Named after a person (benjamin), identity uncertain
+EN — epithet *benjamini*: Named after Benjamin
 
 <!-- src:S0018 -->
 

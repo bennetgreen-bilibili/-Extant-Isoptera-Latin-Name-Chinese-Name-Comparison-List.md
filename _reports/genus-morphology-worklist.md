@@ -6,8 +6,8 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**191**。
-- 仍待补文献描述：**100**。其中 92 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
+- 已补写文献描述：**206**。
+- 仍待补文献描述：**85**。其中 77 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
 - 有 Treatise 条目但未提取到模式种的属：2（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
@@ -47,7 +47,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 162 | 95 | 6 |
+| 白蚁科 Termitidae | 280 | 23 | 177 | 80 | 6 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -917,16 +917,14 @@
 - 定位：p. 103（archive.org 项 biostor-184513 页面图像）
 - 页面：https://isoptera.lifemosaic.net/genus/apilitermes/
 
-### 基齿白蚁属 *Basidentitermes* — 待补（有 Treatise 线索）
+### 基齿白蚁属 *Basidentitermes* — 已有文献描述
 
-- 原始描述：Basidentitermes Holmgren, 1912a: 107 [first introduced as a subgenus of Mirotermes Wasmann, 1897].
-- 模式种：Eutermes aurivillii Sjöstedt, 1897 by subsequent designation; see Sjöstedt, 1926d: 271.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Silvestri, 1914a: 117 — Basidentitermes; characters.
-  - Emerson, 1928b: 408, 419, 535 — Mirotermes (Basidentitermes); key; distribution; discussion.
-  - Harris, 1941: 202 — Basidentitermes; key.
-  - Webb, 1961: 14 — Basidentitermes; key.
-  - Bouillon and Mathot, 1965: 31, 108, 109, pl. 22: fig. 70b — Basidentitermes; key; characters; imago/worker mandibles figured. 2013 Krishna ET AL.: isoptera: TERMITIDAE: CubitERMITInAE 1903
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：p. 419（兵蚁检索表）
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：p. 535（Subgenus Basidentitermes 一节）
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).
+- 定位：p. 107（Untergattungen 检索表 B 项）
 - 页面：https://isoptera.lifemosaic.net/genus/basidentitermes/
 
 ### 铲白蚁属 *Batillitermes* — 待补（有 Treatise 线索）
@@ -951,39 +949,34 @@
 - 定位：pp. 23–27
 - 页面：https://isoptera.lifemosaic.net/genus/cubitermes/
 
-### 真唇白蚁属 *Euchilotermes* — 待补（有 Treatise 线索）
+### 真唇白蚁属 *Euchilotermes* — 已有文献描述
 
-- 原始描述：Euchilotermes Silvestri, 1914a: 85–86.
-- 模式种：Euchilotermes tensus Silvestri, 1914 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Emerson, 1928b: 408, 419, 502 — Mirotermes (Euchilotermes); key; discussion; distribution.
-  - Webb, 1961: 13 — Euchilotermes; key.
-  - Bouillon and Mathot, 1965: 27, 100, 101, pl. 18: fig. 54c — Euchilotermes; key; characters; imago/ worker mandibles figured.
-  - Morimoto, 1975b: 33 — Euchilotermes; key.
-  - Sands, 1995: 1485 — Euchilotermes; key.
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：p. 419（兵蚁检索表）
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：pp. 501–502（Subgenus Euchilotermes 一节）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 21（Nitiditermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/euchilotermes/
 
-### 峰白蚁属 *Fastigitermes* — 待补（有 Treatise 线索）
+### 峰白蚁属 *Fastigitermes* — 已有文献描述
 
-- 原始描述：Fastigitermes Sjöstedt, 1924b: 257.
-- 模式种：Eutermes jucundus Sjöstedt, 1907 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sjöstedt, 1926d: 269 — Fastigitermes; reference list; soldier characters.
-  - Emerson, 1928b: 408, 419 — Mirotermes (Fastigitermes); key; distribution.
-  - Webb, 1961: 12 — Fastigitermes; key.
-  - Bouillon and Mathot, 1965: 30, 106, 107, pl. 21: fig. 65f — Fastigitermes; key; characters; imago/ worker mandibles figured.
-  - Morimoto, 1975b: 38 — Fastigitermes; key.
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：p. 419（兵蚁检索表）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 42（Profastigitermes 兵蚁诊断）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 42（Profastigitermes 兵蚁诊断）
 - 页面：https://isoptera.lifemosaic.net/genus/fastigitermes/
 
-### 叉白蚁属 *Furculitermes* — 待补（有 Treatise 线索）
+### 叉白蚁属 *Furculitermes* — 已有文献描述
 
-- 原始描述：Furculitermes Emerson, 1960c: 17–22.
-- 模式种：Furculitermes winifredae Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 28, 100, 101, pl. 18: fig. 55e — Furculitermes; key; characters; worker mandibles figured.
-  - Morimoto, 1975b: 33 — Furculitermes; key.
-  - Sands, 1995: 1485 — Furculitermes; key.
-  - Sands, 1998: 35, 222–224, figs. 932–954, pl. 12: figs. 3, 4 — Furculitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：pp. 3–4（Nitiditermes 有翅成虫）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 20（Furculitermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 20（Furculitermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/furculitermes/
 
 ### 等颚白蚁属 *Isognathotermes* — 已有文献描述
@@ -1016,24 +1009,24 @@
   - Sands, 1998: 40, 207–209, figs. 792–808, pl. 10: figs. 5, 6 — Megagnathotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/megagnathotermes/
 
-### 锐尖白蚁属 *Mucrotermes* — 待补（有 Treatise 线索）
+### 锐尖白蚁属 *Mucrotermes* — 已有文献描述
 
-- 原始描述：Mucrotermes Emerson, 1960c: 12–16.
-- 模式种：Mucrotermes osborni Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 28, 102, 103, pl. 19: fig. 57e — Mucrotermes; key; characters; worker mandibles figured. 1960 Bulletin of the American Museum of natural History No. 377
-  - Morimoto, 1975b: 33 — Mucrotermes; key.
-  - Sands, 1998: 40, 234–236, figs. 1024–1043, pl. 14: figs. 1, 2 — Mucrotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：pp. 12–13（Mucrotermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：pp. 12–13（Mucrotermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 14（Mucrotermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/mucrotermes/
 
-### 净白蚁属 *Nitiditermes* — 待补（有 Treatise 线索）
+### 净白蚁属 *Nitiditermes* — 已有文献描述
 
-- 原始描述：Nitiditermes Emerson, 1960c: 3–10.
-- 模式种：Nitiditermes berghei Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 29, 104, 105, pl. 20: fig. 61e — Nitiditermes; key; characters; worker mandibles figured.
-  - Morimoto, 1975b: 34 — Nitiditermes; key.
-  - Sands, 1998: 40, 226–228, figs. 967–973, pl. 11: fig. 5 — Nitiditermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：pp. 3–4（Nitiditermes 有翅成虫）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 4（Nitiditermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：pp. 5–6（Nitiditermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/nitiditermes/
 
 ### 节白蚁属 *Noditermes* — 待补（有 Treatise 线索）
@@ -1059,16 +1052,14 @@
   - Uys, 2002: 67, 85–86, fig. 206 — Okavangotermes; key; species included; diagnosis; biology; distribution. South Africa.
 - 页面：https://isoptera.lifemosaic.net/genus/okavangotermes/
 
-### 蛇白蚁属 *Ophiotermes* — 待补（有 Treatise 线索）
+### 蛇白蚁属 *Ophiotermes* — 已有文献描述
 
-- 原始描述：Ophiotermes Sjöstedt, 1924b: 257.
-- 模式种：Eutermes mandibularis Sjöstedt, 1905 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sjöstedt, 1926d: 265 — Ophiotermes; reference list; soldier characters.
-  - Emerson, 1928b: 408, 419, 504 — Mirotermes (Ophiotermes); key; characters; distribution.
-  - Harris, 1941: 202 — Ophiotermes; key.
-  - Webb, 1961: 11 — Ophiotermes; key.
-  - Bouillon and Mathot, 1965: 29, 104, 105, pl. 20: fig. 60e — Ophiotermes; key; characters; imago/ worker mandibles figured.
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：pp. 501–502（Subgenus Ophiotermes 一节）
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：pp. 501–502（Subgenus Ophiotermes 一节）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 21（Nitiditermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/ophiotermes/
 
 ### 直白蚁属 *Orthotermes* — 待补（有 Treatise 线索）
@@ -1103,16 +1094,10 @@
 - 定位：接受稿 p. 15–16，行 350–353，「Diagnosis」（正式版页码不同）；接受稿 p. 16，行 357–358，「Etymology」（正式版页码不同）；接受稿 p. 16，行 360–362，「Comments」（正式版页码不同）
 - 页面：https://isoptera.lifemosaic.net/genus/polyspathotermes/
 
-### 象鼻白蚁属 *Proboscitermes* — 待补（有 Treatise 线索）
+### 象鼻白蚁属 *Proboscitermes* — 已有文献描述
 
-- 原始描述：Proboscitermes Sjöstedt, 1924b: 257.
-- 模式种：Eutermes tubuliferus Sjöstedt, 1907 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Sjöstedt, 1926d: 270 — Proboscitermes; reference list; soldier characters.
-  - Emerson, 1928b: 408, 419 — Mirotermes (Proboscitermes); key; distribution.
-  - Webb, 1961: 12 — Proboscitermes; key.
-  - Bouillon and Mathot, 1965: 30, 108, 109, pl. 22: fig. 67c — Proboscitermes; key; characters; imago/ worker mandibles figured.
-  - Morimoto, 1975b: 38 — Proboscitermes; key.
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：p. 419（兵蚁检索表）
 - 页面：https://isoptera.lifemosaic.net/genus/proboscitermes/
 
 ### 原方白蚁属 *Procubitermes* — 待补（有 Treatise 线索）
@@ -1127,14 +1112,14 @@
   - Bouillon and Mathot, 1965: 29, 106, 107, pl. 21: fig. 64c — Procubitermes; key; characters; imago/ worker mandibles figured.
 - 页面：https://isoptera.lifemosaic.net/genus/procubitermes/
 
-### 前峰白蚁属 *Profastigitermes* — 待补（有 Treatise 线索）
+### 前峰白蚁属 *Profastigitermes* — 已有文献描述
 
-- 原始描述：Profastigitermes Emerson, 1960
-- 模式种：Profastigitermes putnami Emerson, 1960 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Bouillon and Mathot, 1965: 30 — Profastigitermes; key; characters.
-  - Morimoto, 1975b: 38 — Profastigitermes; key.
-  - Sands, 1998: 37, 252–254, figs. 1563–1575 — Profastigitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 41（Profastigitermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 41（Profastigitermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 41（Profastigitermes 兵蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/profastigitermes/
 
 ### 三方白蚁属 *Ternicubitermes* — 已有文献描述
@@ -2211,28 +2196,24 @@
 - 定位：pp. 114—115（archive.org 项 biostor-184513 页面图像）
 - 页面：https://isoptera.lifemosaic.net/genus/capritermes/
 
-### 腔白蚁属 *Cavitermes* — 待补（有 Treatise 线索）
+### 腔白蚁属 *Cavitermes* — 已有文献描述
 
-- 原始描述：Cavitermes Emerson, 1925: 442 [first introduced as a subgenus of Mirotermes Wasmann, 1897].
-- 模式种：Mirotermes (Cavitermes) tuberosus Emerson, 1925 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Emerson, 1925: 442 — Mirotermes (Cavitermes); discussion; characters.
-  - Morimoto, 1975b: 37 — Cavitermes; key.
-  - Mathews, 1977: 117, 119 — Cavitermes; synonymy; characters; relationships.
-  - Mill, 1983a: 181, 182 — Cavitermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 405, 418 — Cavitermes; key; biology; distribution.
+- 已据文献补写：Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6: 291–459.
+- 定位：p. 442（Subgenus Cavitermes 一节）
+- 已据文献补写：Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6: 291–459.
+- 定位：p. 442（Subgenus Cavitermes 一节）
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.
+- 定位：p. 418（兵蚁检索表）
 - 页面：https://isoptera.lifemosaic.net/genus/cavitermes/
 
-### 角扭白蚁属 *Cornicapritermes* — 待补（有 Treatise 线索）
+### 角扭白蚁属 *Cornicapritermes* — 已有文献描述
 
-- 原始描述：Cornicapritermes Emerson, 1950: 13–15.
-- 模式种：Cornicapritermes mucronatus Emerson, 1950 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1968: 308–310 — Cornicapritermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Morimoto, 1975b: 30 — Cornicapritermes; key.
-  - Mill, 1983a: 180, 182 — Cornicapritermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 405, 418 — Cornicapritermes; key; biology; distribution.
-  - Constantino, 2002a: 22 — Cornicapritermes; key.
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.
+- 定位：p. 13（Cornicapritermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.
+- 定位：p. 14（Cornicapritermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.
+- 定位：p. 14（Cornicapritermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/cornicapritermes/
 
 ### 脊突白蚁属 *Cristatitermes* — 待补（有 Treatise 线索）
@@ -2289,14 +2270,14 @@
   - Hill, 1942: 14, 377–379 — Mirotermes [part]; as genus and subgenus; key; synonymy; imago, soldier, worker diagnosed.
 - 页面：https://isoptera.lifemosaic.net/genus/hesperotermes/
 
-### 客白蚁属 *Inquilinitermes* — 待补（有 Treatise 线索）
+### 客白蚁属 *Inquilinitermes* — 已有文献描述
 
-- 原始描述：Inquilinitermes Mathews, 1977: 130–132.
-- 模式种：Capritermes fur Silvestri, 1901 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 182, 185 — Inquilinitermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 406, 418 — Inquilinitermes; key; biology; distribution.
-  - Constantino, 2002a: 24 — Inquilinitermes; key.
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.
+- 定位：p. 418（兵蚁检索表）
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.
+- 定位：p. 418（兵蚁检索表）
+- 已据文献补写：Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.
+- 定位：p. 406（Inquilinitermes 属志）
 - 页面：https://isoptera.lifemosaic.net/genus/inquilinitermes/
 
 ### 小脊突白蚁属 *Lophotermes* — 待补（有 Treatise 线索）
@@ -2334,24 +2315,20 @@
   - Miller, 1991: 1264, 1278 — Paracapritermes; key; synonymy; gut described.
 - 页面：https://isoptera.lifemosaic.net/genus/paracapritermes/
 
-### 始扭白蚁属 *Protocapritermes* — 待补（有 Treatise 线索）
+### 始扭白蚁属 *Protocapritermes* — 已有文献描述
 
-- 原始描述：Protocapritermes Holmgren, 1912a: 108, 109 [first introduced as a subgenus of Mirotermes Wasmann, 1897].
-- 模式种：Mirotermes (Protocapritermes) krisiformis Froggatt, 1898 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Hill, 1942: 14, 377–379, 414 — Mirotermes (Protocapritermes); key; synonymy; imago, soldier, worker diagnosed.
-  - Krishna, 1968: 274 — Protocapritermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Morimoto, 1975b: 32 — Protocapritermes; key.
-  - Bourguignon et al., 2008: 4, 26 — Protocapritermes; characters; key.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).
+- 定位：p. 108（Untergattungen 检索表 ec 项）
 - 页面：https://isoptera.lifemosaic.net/genus/protocapritermes/
 
-### 相似白蚁属 *Quasitermes* — 待补（有 Treatise 线索）
+### 相似白蚁属 *Quasitermes* — 已有文献描述
 
-- 原始描述：Quasitermes Emerson, 1950: 10–13.
-- 模式种：Quasitermes caprinus Emerson, 1950 (caprinus a synonym of incisus) by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Krishna, 1968: 278–280 — Quasitermes; synonymy; key; characters; phylogeny; species included; distribution.
-  - Morimoto, 1975b: 31 — Quasitermes; key.
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.
+- 定位：p. 10（Quasitermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.
+- 定位：p. 11（Quasitermes 兵蚁）
+- 已据文献补写：Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.
+- 定位：p. 11（Quasitermes 兵蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/quasitermes/
 
 ### 石白蚁属 *Saxatilitermes* — 待补（有 Treatise 线索）
@@ -2373,16 +2350,14 @@
 - 定位：pp. 28—29（archive.org 项 biostor-184513 页面图像）
 - 页面：https://isoptera.lifemosaic.net/genus/termes/
 
-### 小瘤白蚁属 *Tuberculitermes* — 待补（有 Treatise 线索）
+### 小瘤白蚁属 *Tuberculitermes* — 已有文献描述
 
-- 原始描述：Tuberculitermes Holmgren, 1912a: 108, 109 [first introduced as a subgenus of Mirotermes Wasmann, 1897].
-- 模式种：Eutermes bycanistes Sjöstedt, 1905 by monotypy.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Emerson, 1928b: 408, 419 — Mirotermes (Tuberculitermes); key; distribution.
-  - Webb, 1961: 14 — Tuberculitermes; key.
-  - Bouillon and Mathot, 1965: 31, 110, 111, pl. 23: fig. 71c — Tuberculitermes; key; characters; imago/worker mandibles figured.
-  - Harris, 1968c: 6 — Tuberculitermes; key.
-  - Morimoto, 1975b: 37 — Tuberculitermes; key.
+- 已据文献补写：Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).
+- 定位：p. 108（Untergattungen 检索表 ee 项）
+- 已据文献补写：Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.
+- 定位：p. 419（兵蚁检索表）
+- 已据文献补写：Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.
+- 定位：p. 21（Nitiditermes 工蚁）
 - 页面：https://isoptera.lifemosaic.net/genus/tuberculitermes/
 
 ### 木堆白蚁属 *Xylochomitermes* — 待补（有 Treatise 线索）

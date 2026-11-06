@@ -39,9 +39,9 @@ ES — **指名亚种** (*Cubitermes pretorianus pretorianus*) es una subespecie
 
 EN — *Cubitermes*: From Latin cubitus (elbow) + termes.
 
-种加词 *pretorianus*：以人名 pretor 命名（具体指向待考）
+种加词 *pretorianus*：以南非比勒陀利亚（Pretoria）命名
 
-EN — epithet *pretorianus*: Named after a person (pretor), identity uncertain
+EN — epithet *pretorianus*: Named after Pretoria, South Africa
 
 <!-- src:S0018 -->
 

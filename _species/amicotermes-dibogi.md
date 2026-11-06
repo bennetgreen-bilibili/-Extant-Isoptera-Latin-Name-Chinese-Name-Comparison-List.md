@@ -38,9 +38,9 @@ ES — **迪博格善白蚁** (*Amicotermes dibogi*) es una especie del género 
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *dibogi*：以人名 dibog 命名（具体指向待考）
+种加词 *dibogi*：词源未详
 
-EN — epithet *dibogi*: Named after a person (dibog), identity uncertain
+EN — epithet *dibogi*: Etymology uncertain
 
 <!-- src:S0018 -->
 

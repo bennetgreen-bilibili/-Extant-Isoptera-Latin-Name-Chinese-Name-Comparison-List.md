@@ -35,9 +35,9 @@ ES — **斯巴艺双裂白蚁** (*Bifiditermes sibayiensis*) es una especie del
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
-种加词 *sibayiensis*：以地名 sibay 命名（具体地名待考）
+种加词 *sibayiensis*：以地名 Lake Sibaya（锡巴伊湖，南非夸祖鲁-纳塔尔省）命名
 
-EN — epithet *sibayiensis*: Named after a locality (sibay)
+EN — epithet *sibayiensis*: Named after the locality Lake Sibaya (KwaZulu-Natal, South Africa)
 
 <!-- src:S0018 -->
 

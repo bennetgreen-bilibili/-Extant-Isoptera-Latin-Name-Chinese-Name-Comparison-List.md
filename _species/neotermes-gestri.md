@@ -35,9 +35,9 @@ ES — **盖斯特新白蚁** (*Neotermes gestri*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *gestri*：以人名 gestr 命名（具体指向待考）
+种加词 *gestri*：以 Raffaello Gestro（意大利昆虫学家）命名
 
-EN — epithet *gestri*: Named after a person (gestr), identity uncertain
+EN — epithet *gestri*: Named after Raffaello Gestro
 
 <!-- src:S0018 -->
 

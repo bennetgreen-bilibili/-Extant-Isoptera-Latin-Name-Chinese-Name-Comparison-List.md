@@ -38,9 +38,9 @@ ES — **博恩象白蚁** (*Nasutitermes boengiensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *boengiensis*：以地名 boeng 命名（具体地名待考）
+种加词 *boengiensis*：以地名 Boeng 命名
 
-EN — epithet *boengiensis*: Named after a locality (boeng)
+EN — epithet *boengiensis*: Named after the locality Boeng
 
 <!-- src:S0018 -->
 

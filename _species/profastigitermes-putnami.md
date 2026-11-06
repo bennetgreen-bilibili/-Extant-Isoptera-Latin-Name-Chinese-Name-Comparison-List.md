@@ -38,9 +38,9 @@ ES — **帕特南前峰白蚁** (*Profastigitermes putnami*) es la única espec
 
 EN — *Profastigitermes*: From Greek pro- (before) + Latin fastigium (ridge) + termes.
 
-种加词 *putnami*：以人名 putnam 命名（具体指向待考）
+种加词 *putnami*：以人名 Putnam 命名（具体指代待考）
 
-EN — epithet *putnami*: Named after a person (putnam), identity uncertain
+EN — epithet *putnami*: Named after a person "Putnam" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

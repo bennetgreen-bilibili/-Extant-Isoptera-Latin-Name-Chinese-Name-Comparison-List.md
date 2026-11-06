@@ -38,9 +38,9 @@ ES — **比斯瓦那塔锯白蚁** (*Microcerotermes biswanathae*) es una espec
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *biswanathae*：以人名 biswanath 命名（具体指向待考）
+种加词 *biswanathae*：以地名 Biswanath 命名
 
-EN — epithet *biswanathae*: Named after a person (biswanath), identity uncertain
+EN — epithet *biswanathae*: Named after the locality Biswanath
 
 <!-- src:S0018 -->
 

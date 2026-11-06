@@ -38,9 +38,9 @@ ES — **萨桑吉尔土白蚁** (*Odontotermes sasangirensis*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *sasangirensis*：以地名 sasangir 命名（具体地名待考）
+种加词 *sasangirensis*：以萨桑吉尔（Sasangire，坦桑尼亚）命名
 
-EN — epithet *sasangirensis*: Named after a locality (sasangir)
+EN — epithet *sasangirensis*: Named after Sasangire (Tanzania)
 
 <!-- src:S0018 -->
 

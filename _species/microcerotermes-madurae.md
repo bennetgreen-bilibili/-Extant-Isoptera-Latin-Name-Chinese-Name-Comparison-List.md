@@ -38,9 +38,9 @@ ES — **马都拉锯白蚁** (*Microcerotermes madurae*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *madurae*：以人名 madur 命名（具体指向待考）
+种加词 *madurae*：以马都拉（Madura，印度尼西亚）命名
 
-EN — epithet *madurae*: Named after a person (madur), identity uncertain
+EN — epithet *madurae*: Named after Madura (Indonesia)
 
 <!-- src:S0018 -->
 

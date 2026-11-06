@@ -38,9 +38,9 @@ ES — **懦夫逃白蚁** (*Alyscotermes trestus*) es una especie del género *
 
 EN — *Alyscotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *trestus*：词源未详
+种加词 *trestus*：词源未详（原始描述未给种加词词源；属名 Alyscotermes = 希腊语 alysko 逃避/游荡）
 
-EN — epithet *trestus*: Etymology uncertain
+EN — epithet *trestus*: Etymology uncertain (not stated; genus Alyscotermes from Greek alysko, to flee/shun)
 
 <!-- src:S0018 -->
 

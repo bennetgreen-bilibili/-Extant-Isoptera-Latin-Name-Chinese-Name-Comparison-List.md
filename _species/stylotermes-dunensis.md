@@ -35,9 +35,9 @@ ES — **德拉敦杆白蚁** (*Stylotermes dunensis*) es una especie del géner
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
-种加词 *dunensis*：以地名 dun 命名（具体地名待考）
+种加词 *dunensis*：拉丁文 duna（沙丘）
 
-EN — epithet *dunensis*: Named after a locality (dun)
+EN — epithet *dunensis*: From Latin duna (dune)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **斯科特树白蚁** (*Glyptotermes scotti*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *scotti*：以人名 scott 命名（具体指向待考）
+种加词 *scotti*：以人名 Scott（Hugh Scott，英国昆虫学家，塞舌尔考察）命名
 
-EN — epithet *scotti*: Named after a person (scott), identity uncertain
+EN — epithet *scotti*: Named after Hugh Scott (British entomologist)
 
 <!-- src:S0018 -->
 

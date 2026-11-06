@@ -38,9 +38,9 @@ ES — **巴山象白蚁** (*Nasutitermes bashanensis*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *bashanensis*：以地名 bashan 命名（具体地名待考）
+种加词 *bashanensis*：以地名巴山（Bashan）命名
 
-EN — epithet *bashanensis*: Named after a locality (bashan)
+EN — epithet *bashanensis*: Named after the locality Bashan
 
 <!-- src:S0018 -->
 

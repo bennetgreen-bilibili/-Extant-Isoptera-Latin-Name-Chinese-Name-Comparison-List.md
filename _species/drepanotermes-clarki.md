@@ -38,9 +38,9 @@ ES — **克拉克镰白蚁** (*Drepanotermes clarki*) es una especie del géner
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
-种加词 *clarki*：以人名 clark 命名（具体指向待考）
+种加词 *clarki*：以人名 Clark 命名
 
-EN — epithet *clarki*: Named after a person (clark), identity uncertain
+EN — epithet *clarki*: Named after Clark
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **卡西棒鼻白蚁** (*Parrhinotermes khasii*) es una especie del géne
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
-种加词 *khasii*：以人名 khas 命名（具体指向待考）
+种加词 *khasii*：以地名 Khasi（印度卡西丘陵）命名
 
-EN — epithet *khasii*: Named after a person (khas), identity uncertain
+EN — epithet *khasii*: Named after the Khasi Hills (India)
 
 <!-- src:S0018 -->
 

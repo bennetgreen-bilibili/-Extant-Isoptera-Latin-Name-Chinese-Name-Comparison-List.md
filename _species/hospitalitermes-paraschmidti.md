@@ -38,9 +38,9 @@ ES — **似施密德须白蚁** (*Hospitalitermes paraschmidti*) es una especie
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *paraschmidti*：以人名 paraschmidt 命名（具体指向待考）
+种加词 *paraschmidti*：希腊文 para（近、旁）+ schmidti，指与 H. schmidti 相近
 
-EN — epithet *paraschmidti*: Named after a person (paraschmidt), identity uncertain
+EN — epithet *paraschmidti*: From Greek para (near) + schmidti, referring to affinity with H. schmidti
 
 <!-- src:S0018 -->
 

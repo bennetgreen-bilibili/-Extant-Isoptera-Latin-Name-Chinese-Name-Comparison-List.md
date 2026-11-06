@@ -35,9 +35,9 @@ ES — **穆尔加布无刺白蚁** (*Anacanthotermes murgabicus*) es una especi
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
-种加词 *murgabicus*：以地名 murgab 命名（具体地名待考）
+种加词 *murgabicus*：以土库曼斯坦穆尔加布（Murgab / Murghab）命名
 
-EN — epithet *murgabicus*: Named after a locality (murgab)
+EN — epithet *murgabicus*: Named after Murgab (Murghab), Turkmenistan
 
 <!-- src:S0018 -->
 

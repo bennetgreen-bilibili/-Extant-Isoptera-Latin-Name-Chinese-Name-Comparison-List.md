@@ -35,9 +35,9 @@ ES — **加拉帕戈斯楹白蚁** (*Incisitermes galapagoensis*) es una especi
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *galapagoensis*：以地名 galapago 命名（具体地名待考）
+种加词 *galapagoensis*：以加拉帕戈斯群岛（Galápagos）命名
 
-EN — epithet *galapagoensis*: Named after a locality (galapago)
+EN — epithet *galapagoensis*: Named after the Galápagos Islands
 
 <!-- src:S0018 -->
 

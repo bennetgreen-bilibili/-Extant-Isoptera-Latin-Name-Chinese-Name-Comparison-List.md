@@ -38,9 +38,9 @@ ES — **勐戛印白蚁** (*Indotermes menggarensis*) es una especie del géner
 
 EN — *Indotermes*: From India + Latin termes.
 
-种加词 *menggarensis*：以地名 menggar 命名（具体地名待考）
+种加词 *menggarensis*：以地名 Menggar 命名
 
-EN — epithet *menggarensis*: Named after a locality (menggar)
+EN — epithet *menggarensis*: Named after the locality Menggar
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **卡冲树白蚁** (*Glyptotermes kachongensis*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *kachongensis*：以地名 kachong 命名（具体地名待考）
+种加词 *kachongensis*：以地名 Kachong（泰国）命名
 
-EN — epithet *kachongensis*: Named after a locality (kachong)
+EN — epithet *kachongensis*: Named after the locality Kachong (Thailand)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **汉塔娜小锡兰白蚁** (*Ceylonitermellus hantanae*) es una especie
 
 EN — *Ceylonitermellus*: From Ceylon (Sri Lanka) + diminutive -ellus (with termes).
 
-种加词 *hantanae*：以人名 hantan 命名（具体指向待考）
+种加词 *hantanae*：以地名 Hantana（斯里兰卡汉塔纳）命名
 
-EN — epithet *hantanae*: Named after a person (hantan), identity uncertain
+EN — epithet *hantanae*: Named after Hantana (Sri Lanka)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **马雷拉基齿白蚁** (*Basidentitermes malelaensis*) es una especie 
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
-种加词 *malelaensis*：以地名 malela 命名（具体地名待考）
+种加词 *malelaensis*：以刚果马莱拉（Malela）命名
 
-EN — epithet *malelaensis*: Named after a locality (malela)
+EN — epithet *malelaensis*: Named after Malela, DR Congo
 
 <!-- src:S0018 -->
 

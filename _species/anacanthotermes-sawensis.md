@@ -35,9 +35,9 @@ ES — **塞瓦无刺白蚁** (*Anacanthotermes sawensis*) es una especie del g�
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
-种加词 *sawensis*：以地名 saw 命名（具体地名待考）
+种加词 *sawensis*：以地名 Sawa（萨瓦湖，伊拉克穆萨纳省）命名
 
-EN — epithet *sawensis*: Named after a locality (saw)
+EN — epithet *sawensis*: Named after the locality Sawa (Lake Sawa, Iraq)
 
 <!-- src:S0018 -->
 

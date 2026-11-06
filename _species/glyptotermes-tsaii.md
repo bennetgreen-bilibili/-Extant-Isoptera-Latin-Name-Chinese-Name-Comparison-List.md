@@ -35,9 +35,9 @@ ES — **蔡氏树白蚁** (*Glyptotermes tsaii*) es una especie del género *Gl
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *tsaii*：以人名 tsa 命名（具体指向待考）
+种加词 *tsaii*：以人名 Tsai（蔡，具体身份待考） 命名
 
-EN — epithet *tsaii*: Named after a person (tsa), identity uncertain
+EN — epithet *tsaii*: Named after Tsai
 
 <!-- src:S0018 -->
 

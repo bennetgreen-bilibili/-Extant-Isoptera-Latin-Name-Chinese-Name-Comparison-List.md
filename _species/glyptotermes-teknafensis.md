@@ -35,9 +35,9 @@ ES — **代格纳夫树白蚁** (*Glyptotermes teknafensis*) es una especie del
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *teknafensis*：以地名 teknaf 命名（具体地名待考）
+种加词 *teknafensis*：以地名 Teknaf（孟加拉） 命名
 
-EN — epithet *teknafensis*: Named after a locality (teknaf)
+EN — epithet *teknafensis*: Named after the locality Teknaf (Bangladesh)
 
 <!-- src:S0018 -->
 

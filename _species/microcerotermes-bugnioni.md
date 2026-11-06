@@ -38,9 +38,9 @@ ES — **布格尼恩锯白蚁** (*Microcerotermes bugnioni*) es una especie del
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *bugnioni*：以人名 bugnion 命名（具体指向待考）
+种加词 *bugnioni*：以 E. Bugnion（瑞士昆虫学家）命名
 
-EN — epithet *bugnioni*: Named after a person (bugnion), identity uncertain
+EN — epithet *bugnioni*: Named after E. Bugnion
 
 <!-- src:S0018 -->
 

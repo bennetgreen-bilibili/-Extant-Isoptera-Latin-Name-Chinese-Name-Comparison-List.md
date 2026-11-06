@@ -38,9 +38,9 @@ ES — **吉斯奥卡万戈白蚁** (*Okavangotermes giessi*) es una especie, y 
 
 EN — *Okavangotermes*: From the place name Okavango; -termes from Latin termes.
 
-种加词 *giessi*：以人名 giess 命名（具体指向待考）
+种加词 *giessi*：以人名 Giess（或 Willi Giess，纳米比亚植物学家）命名
 
-EN — epithet *giessi*: Named after a person (giess), identity uncertain
+EN — epithet *giessi*: Named after Giess
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **穆尔埃姆白蚁** (*Heimitermes moorei*) es una especie del género 
 
 EN — *Heimitermes*: Named after a person (Heim); -termes from Latin termes.
 
-种加词 *moorei*：以人名 moore 命名（具体指向待考）
+种加词 *moorei*：以人名 Moore（摩尔）命名
 
-EN — epithet *moorei*: Named after a person (moore), identity uncertain
+EN — epithet *moorei*: Named after Moore
 
 <!-- src:S0018 -->
 

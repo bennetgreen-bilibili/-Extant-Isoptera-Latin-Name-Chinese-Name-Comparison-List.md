@@ -38,9 +38,9 @@ ES — **苏克纳象白蚁** (*Nasutitermes suknensis*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *suknensis*：以地名 sukn 命名（具体地名待考）
+种加词 *suknensis*：以地名 Sukna（苏克纳，印度西孟加拉邦大吉岭县）命名
 
-EN — epithet *suknensis*: Named after a locality (sukn)
+EN — epithet *suknensis*: Named after the locality Sukna (Darjeeling district, West Bengal, India)
 
 <!-- src:S0018 -->
 

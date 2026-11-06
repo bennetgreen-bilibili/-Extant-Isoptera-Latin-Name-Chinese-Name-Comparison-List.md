@@ -38,9 +38,9 @@ ES — **达什利布龙锯白蚁** (*Microcerotermes dashlibronensis*) es una e
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *dashlibronensis*：以地名 dashlibron 命名（具体地名待考）
+种加词 *dashlibronensis*：以地名 Dashlibron 命名
 
-EN — epithet *dashlibronensis*: Named after a locality (dashlibron)
+EN — epithet *dashlibronensis*: Named after the locality Dashlibron
 
 <!-- src:S0018 -->
 

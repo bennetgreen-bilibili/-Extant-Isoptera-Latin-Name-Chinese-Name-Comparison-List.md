@@ -38,9 +38,9 @@ ES — **莫汉德土白蚁** (*Odontotermes mohandi*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *mohandi*：以人名 mohand 命名（具体指向待考）
+种加词 *mohandi*：以人名 Mohand 命名
 
-EN — epithet *mohandi*: Named after a person (mohand), identity uncertain
+EN — epithet *mohandi*: Named after Mohand
 
 <!-- src:S0018 -->
 

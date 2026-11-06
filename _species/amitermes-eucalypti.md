@@ -38,9 +38,9 @@ ES — **尤卡尔普特弓白蚁** (*Amitermes eucalypti*) es una especie del g
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *eucalypti*：以人名 eucalypt 命名（具体指向待考）
+种加词 *eucalypti*：以桉属（Eucalyptus）命名（寄主植物）
 
-EN — epithet *eucalypti*: Named after a person (eucalypt), identity uncertain
+EN — epithet *eucalypti*: After the plant genus Eucalyptus
 
 <!-- src:S0018 -->
 

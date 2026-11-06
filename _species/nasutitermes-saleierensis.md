@@ -38,9 +38,9 @@ ES — **萨莱尔象白蚁** (*Nasutitermes saleierensis*) es una especie del g
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *saleierensis*：以地名 saleier 命名（具体地名待考）
+种加词 *saleierensis*：以地名 Saleier/Selayar（塞拉亚群岛，印度尼西亚南苏拉威西）命名
 
-EN — epithet *saleierensis*: Named after a locality (saleier)
+EN — epithet *saleierensis*: Named after the locality Saleier (Selayar) Islands, South Sulawesi, Indonesia
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **麦格雷戈瓢白蚁** (*Bulbitermes mcgregori*) es una especie del g�
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
-种加词 *mcgregori*：以人名 mcgregor 命名（具体指向待考）
+种加词 *mcgregori*：以人名 McGregor（麦格雷戈）命名（疑为美国鸟类学家 Richard C. McGregor，在菲律宾采集）
 
-EN — epithet *mcgregori*: Named after a person (mcgregor), identity uncertain
+EN — epithet *mcgregori*: Named after McGregor (likely American ornithologist R. C. McGregor)
 
 <!-- src:S0018 -->
 

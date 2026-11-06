@@ -37,9 +37,9 @@ ES — **长颚堆砂白蚁** (*Cryptotermes dudleyi*) es una especie del géner
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *dudleyi*：以人名 dudley 命名（具体指向待考）
+种加词 *dudleyi*：以人名 Dudley 命名
 
-EN — epithet *dudleyi*: Named after a person (dudley), identity uncertain
+EN — epithet *dudleyi*: Named after Dudley
 
 <!-- src:S0018 -->
 

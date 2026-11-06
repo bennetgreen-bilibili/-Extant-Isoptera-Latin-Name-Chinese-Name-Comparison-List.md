@@ -35,9 +35,9 @@ ES — **贝克乳白蚁** (*Coptotermes beckeri*) es una especie del género *C
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *beckeri*：以人名 becker 命名（具体指向待考）
+种加词 *beckeri*：以人名 Becker 命名
 
-EN — epithet *beckeri*: Named after a person (becker), identity uncertain
+EN — epithet *beckeri*: Named after Becker
 
 <!-- src:S0018 -->
 

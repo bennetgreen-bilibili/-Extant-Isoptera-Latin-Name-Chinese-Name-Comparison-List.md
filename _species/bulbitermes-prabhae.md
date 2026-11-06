@@ -40,9 +40,9 @@ ES — **普拉巴瓢白蚁** (*Bulbitermes prabhae*) es una especie del género
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
-种加词 *prabhae*：以人名 prabh 命名（具体指向待考）
+种加词 *prabhae*：以人名 Prabha（普拉巴，印度女性名）命名
 
-EN — epithet *prabhae*: Named after a person (prabh), identity uncertain
+EN — epithet *prabhae*: Named after Prabha
 
 <!-- src:S0018 -->
 

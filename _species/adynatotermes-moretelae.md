@@ -38,9 +38,9 @@ ES — **莫特拉弱白蚁** (*Adynatotermes moretelae*) es la única especie v
 
 EN — *Adynatotermes*: From Greek adynatos (powerless) + Latin termes.
 
-种加词 *moretelae*：以人名 moretel 命名（具体指向待考）
+种加词 *moretelae*：以地名 Moretela 命名
 
-EN — epithet *moretelae*: Named after a person (moretel), identity uncertain
+EN — epithet *moretelae*: Named after the locality Moretela
 
 <!-- src:S0018 -->
 

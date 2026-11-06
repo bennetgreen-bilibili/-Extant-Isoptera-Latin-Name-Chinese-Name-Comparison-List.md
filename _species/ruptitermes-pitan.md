@@ -38,9 +38,9 @@ ES — **红头腹爆白蚁** (*Ruptitermes pitan*) es una especie del género *
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
-种加词 *pitan*：以当地土名或地名命名（具体指向待考）
+种加词 *pitan*：以地名 Pitan 命名
 
-EN — epithet *pitan*: After a local vernacular name or place (uncertain)
+EN — epithet *pitan*: Named after the locality Pitan
 
 <!-- src:S0018 -->
 

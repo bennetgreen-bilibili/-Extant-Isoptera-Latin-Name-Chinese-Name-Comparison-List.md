@@ -35,9 +35,9 @@ ES — **毛里求斯乳白蚁** (*Coptotermes mauricianus*) es una especie del 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *mauricianus*：以人名 mauric 命名（具体指向待考）
+种加词 *mauricianus*：以毛里求斯（Mauritius）命名
 
-EN — epithet *mauricianus*: Named after a person (mauric), identity uncertain
+EN — epithet *mauricianus*: Named after Mauritius
 
 <!-- src:S0018 -->
 

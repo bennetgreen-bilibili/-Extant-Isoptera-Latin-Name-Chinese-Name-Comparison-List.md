@@ -38,9 +38,9 @@ ES — **埃尔森伯格角白蚁** (*Angulitermes elsenburgi*) es una especie d
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *elsenburgi*：以人名 elsenburg 命名（具体指向待考）
+种加词 *elsenburgi*：以地名 Elsenburg（南非西开普）命名
 
-EN — epithet *elsenburgi*: Named after a person (elsenburg), identity uncertain
+EN — epithet *elsenburgi*: Named after the locality Elsenburg
 
 <!-- src:S0018 -->
 

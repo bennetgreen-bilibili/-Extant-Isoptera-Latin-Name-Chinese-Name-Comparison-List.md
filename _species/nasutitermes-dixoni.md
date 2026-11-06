@@ -38,9 +38,9 @@ ES — **迪克森象白蚁** (*Nasutitermes dixoni*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *dixoni*：以人名 dixon 命名（具体指向待考）
+种加词 *dixoni*：以人名 Dixon 命名
 
-EN — epithet *dixoni*: Named after a person (dixon), identity uncertain
+EN — epithet *dixoni*: Named after Dixon
 
 <!-- src:S0018 -->
 

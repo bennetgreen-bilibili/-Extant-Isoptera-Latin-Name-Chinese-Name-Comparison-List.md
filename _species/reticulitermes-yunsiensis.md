@@ -35,9 +35,9 @@ ES — **云寺散白蚁** (*Reticulitermes yunsiensis*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *yunsiensis*：以地名 yuns 命名（具体地名待考）
+种加词 *yunsiensis*：以地名 Yunxi 云溪（具体待考） 命名
 
-EN — epithet *yunsiensis*: Named after a locality (yuns)
+EN — epithet *yunsiensis*: Named after the locality Yunxi
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **凸缘圆筒白蚁** (*Cylindrotermes flangiatus*) es una especie del g
 
 EN — *Cylindrotermes*: From Greek kylindros (cylinder) + Latin termes.
 
-种加词 *flangiatus*：词源未详
+种加词 *flangiatus*：flange（凸缘）+ 拉丁语 -atus（具…），具凸缘状突起（flange 非拉丁，低置信）
 
-EN — epithet *flangiatus*: Etymology uncertain
+EN — epithet *flangiatus*: flange + Latin -atus, flanged (low confidence)
 
 <!-- src:S0018 -->
 

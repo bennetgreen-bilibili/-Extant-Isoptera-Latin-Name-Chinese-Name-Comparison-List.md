@@ -38,9 +38,9 @@ ES — **内格豪尔小白蚁** (*Microtermes neghelliensis*) es una especie de
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *neghelliensis*：以地名 neghell 命名（具体地名待考）
+种加词 *neghelliensis*：以埃塞俄比亚内格莱（Neghelli / Negele）命名
 
-EN — epithet *neghelliensis*: Named after a locality (neghell)
+EN — epithet *neghelliensis*: Named after Neghelli (Negele), Ethiopia
 
 <!-- src:S0018 -->
 

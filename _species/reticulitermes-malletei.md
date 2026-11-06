@@ -35,9 +35,9 @@ ES — **马利特散白蚁** (*Reticulitermes malletei*) es una especie del gé
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *malletei*：以人名 mallete 命名（具体指向待考）
+种加词 *malletei*：以人名 Mallet（马莱）命名
 
-EN — epithet *malletei*: Named after a person (mallete), identity uncertain
+EN — epithet *malletei*: Named after Mallet
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **锡拉姆土白蚁** (*Odontotermes silamensis*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *silamensis*：以地名 silam 命名（具体地名待考）
+种加词 *silamensis*：以地名 Mount Silam（锡拉姆山，马来西亚沙巴）命名
 
-EN — epithet *silamensis*: Named after a locality (silam)
+EN — epithet *silamensis*: Named after the locality Mount Silam (Sabah, Malaysia)
 
 <!-- src:S0018 -->
 

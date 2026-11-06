@@ -40,9 +40,9 @@ ES — **哈里斯络白蚁** (*Hapsidotermes harrisi*) es una especie, y la esp
 
 EN — *Hapsidotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *harrisi*：以人名 harris 命名（具体指向待考）
+种加词 *harrisi*：以人名 Harris 命名
 
-EN — epithet *harrisi*: Named after a person (harris), identity uncertain
+EN — epithet *harrisi*: Named after Harris
 
 <!-- src:S0018 -->
 

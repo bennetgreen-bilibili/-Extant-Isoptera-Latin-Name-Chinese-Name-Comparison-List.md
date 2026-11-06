@@ -35,9 +35,9 @@ ES — **加利福尼亚堆砂白蚁** (*Cryptotermes garifunae*) es una especie
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *garifunae*：以人名 garifun 命名（具体指向待考）
+种加词 *garifunae*：以 Garifuna 人（洪都拉斯加里富纳民族）命名
 
-EN — epithet *garifunae*: Named after a person (garifun), identity uncertain
+EN — epithet *garifunae*: Named after the Garifuna people (Honduras)
 
 <!-- src:S0018 -->
 

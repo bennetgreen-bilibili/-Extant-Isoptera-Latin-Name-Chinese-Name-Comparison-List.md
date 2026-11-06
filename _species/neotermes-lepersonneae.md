@@ -35,9 +35,9 @@ ES — **勒佩索纳新白蚁** (*Neotermes lepersonneae*) es una especie del g
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *lepersonneae*：以人名 lepersonne 命名（具体指向待考）
+种加词 *lepersonneae*：以人名 Lepersonne（勒佩尔索纳）命名（疑为比利时地质学家 Jacques Lepersonne）
 
-EN — epithet *lepersonneae*: Named after a person (lepersonne), identity uncertain
+EN — epithet *lepersonneae*: Named after Lepersonne (likely Belgian geologist Jacques Lepersonne)
 
 <!-- src:S0018 -->
 

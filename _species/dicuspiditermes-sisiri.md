@@ -38,9 +38,9 @@ ES — **西西尔突扭白蚁** (*Dicuspiditermes sisiri*) es una especie del g
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
-种加词 *sisiri*：以人名 sisir 命名（具体指向待考）
+种加词 *sisiri*：以人名 Sisir（印度人名）命名
 
-EN — epithet *sisiri*: Named after a person (sisir), identity uncertain
+EN — epithet *sisiri*: Named after a person "Sisir" (Indian name)
 
 <!-- src:S0018 -->
 

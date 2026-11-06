@@ -38,9 +38,9 @@ ES — **阿肯土白蚁** (*Odontotermes akengeensis*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *akengeensis*：以地名 akenge 命名（具体地名待考）
+种加词 *akengeensis*：以地名 Akenge（阿肯盖）命名
 
-EN — epithet *akengeensis*: Named after a locality (akenge)
+EN — epithet *akengeensis*: Named after the locality Akenge
 
 <!-- src:S0018 -->
 

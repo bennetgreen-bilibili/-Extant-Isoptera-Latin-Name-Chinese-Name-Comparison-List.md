@@ -35,9 +35,9 @@ ES — **让内尔双裂白蚁** (*Bifiditermes jeannelanus*) es una especie del
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
-种加词 *jeannelanus*：以地名 jeannel 命名（具体地名待考）
+种加词 *jeannelanus*：以人名 René Jeannel（法国昆虫学家）命名
 
-EN — epithet *jeannelanus*: Named after a locality (jeannel)
+EN — epithet *jeannelanus*: Named after René Jeannel
 
 <!-- src:S0018 -->
 

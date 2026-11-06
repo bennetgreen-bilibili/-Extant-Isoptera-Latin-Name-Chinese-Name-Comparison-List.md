@@ -35,9 +35,9 @@ ES — **弗赖尔前砂白蚁** (*Procryptotermes fryeri*) es una especie, y la
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
-种加词 *fryeri*：以人名 fryer 命名（具体指向待考）
+种加词 *fryeri*：以人名 Fryer 命名
 
-EN — epithet *fryeri*: Named after a person (fryer), identity uncertain
+EN — epithet *fryeri*: Named after Fryer
 
 <!-- src:S0018 -->
 

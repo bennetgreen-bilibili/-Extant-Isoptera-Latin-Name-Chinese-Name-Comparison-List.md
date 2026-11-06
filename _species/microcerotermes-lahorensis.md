@@ -38,9 +38,9 @@ ES — **拉合尔锯白蚁** (*Microcerotermes lahorensis*) es una especie del 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *lahorensis*：以地名 lahor 命名（具体地名待考）
+种加词 *lahorensis*：以拉合尔（Lahore，巴基斯坦）命名
 
-EN — epithet *lahorensis*: Named after a locality (lahor)
+EN — epithet *lahorensis*: Named after Lahore (Pakistan)
 
 <!-- src:S0018 -->
 

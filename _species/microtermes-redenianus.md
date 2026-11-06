@@ -40,9 +40,9 @@ ES — **雷登小白蚁** (*Microtermes redenianus*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *redenianus*：以人名 reden 命名（具体指向待考）
+种加词 *redenianus*：以人名 Reden 命名（-ianus，具体指代待考）
 
-EN — epithet *redenianus*: Named after a person (reden), identity uncertain
+EN — epithet *redenianus*: Named after a person "Reden" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

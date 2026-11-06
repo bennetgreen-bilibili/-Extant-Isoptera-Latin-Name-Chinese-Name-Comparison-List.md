@@ -35,9 +35,9 @@ ES — **弗莱彻新白蚁** (*Neotermes fletcheri*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *fletcheri*：以人名 Fletcher 命名（具体指向待考）
+种加词 *fletcheri*：以人名 Fletcher（或 T. B. Fletcher，英国昆虫学家）命名
 
-EN — epithet *fletcheri*: Named after a person (Fletcher), identity uncertain
+EN — epithet *fletcheri*: Named after Fletcher
 
 <!-- src:S0018 -->
 

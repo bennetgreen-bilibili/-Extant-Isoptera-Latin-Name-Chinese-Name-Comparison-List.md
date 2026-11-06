@@ -38,9 +38,9 @@ ES — **古达斯普尔土白蚁** (*Odontotermes gurdaspurensis*) es una espec
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *gurdaspurensis*：以地名 gurdaspur 命名（具体地名待考）
+种加词 *gurdaspurensis*：以地名 Gurdaspur（印度旁遮普邦）命名
 
-EN — epithet *gurdaspurensis*: Named after a locality (gurdaspur)
+EN — epithet *gurdaspurensis*: Named after Gurdaspur (Punjab, India)
 
 <!-- src:S0018 -->
 

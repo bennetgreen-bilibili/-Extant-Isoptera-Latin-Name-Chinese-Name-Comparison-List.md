@@ -38,9 +38,9 @@ ES — **布拉巴宗多毛白蚁** (*Hirtitermes brabazoni*) es una especie del
 
 EN — *Hirtitermes*: From Latin hirtus (hairy) + termes.
 
-种加词 *brabazoni*：以人名 brabazon 命名（具体指向待考）
+种加词 *brabazoni*：以人名 Brabazon 命名
 
-EN — epithet *brabazoni*: Named after a person (brabazon), identity uncertain
+EN — epithet *brabazoni*: Named after Brabazon
 
 <!-- src:S0018 -->
 

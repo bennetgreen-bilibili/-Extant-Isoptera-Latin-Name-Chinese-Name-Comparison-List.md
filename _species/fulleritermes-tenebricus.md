@@ -40,9 +40,9 @@ ES — **阴暗富勒白蚁** (*Fulleritermes tenebricus*) es una especie del g�
 
 EN — *Fulleritermes*: Named after the entomologist C. Fuller; -termes from Latin termes.
 
-种加词 *tenebricus*：以地名 tenebr 命名（具体地名待考）
+种加词 *tenebricus*：拉丁文 tenebricus，幽暗的
 
-EN — epithet *tenebricus*: Named after a locality (tenebr)
+EN — epithet *tenebricus*: From Latin tenebricus, dark/gloomy
 
 <!-- src:S0018 -->
 

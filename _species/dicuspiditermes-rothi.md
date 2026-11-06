@@ -38,9 +38,9 @@ ES — **罗思突扭白蚁** (*Dicuspiditermes rothi*) es una especie del géne
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
-种加词 *rothi*：以人名 roth 命名（具体指向待考）
+种加词 *rothi*：以人名 Roth（L. M. Roth，美国昆虫学家、蜚蠊与白蚁分类学家）命名
 
-EN — epithet *rothi*: Named after a person (roth), identity uncertain
+EN — epithet *rothi*: Named after L. M. Roth (American entomologist)
 
 <!-- src:S0018 -->
 

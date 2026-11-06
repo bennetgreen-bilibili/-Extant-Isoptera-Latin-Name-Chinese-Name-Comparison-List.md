@@ -38,9 +38,9 @@ ES — **霍华德解甲白蚁** (*Anoplotermes howardi*) es una especie del gé
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
-种加词 *howardi*：以人名 howard 命名（具体指向待考）
+种加词 *howardi*：以人名 Leland O. Howard（美国昆虫学家）命名
 
-EN — epithet *howardi*: Named after a person (howard), identity uncertain
+EN — epithet *howardi*: Named after Leland O. Howard
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **卢伊克斯新白蚁** (*Neotermes luykxi*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *luykxi*：以人名 luykx 命名（具体指向待考）
+种加词 *luykxi*：以人名 Luykx（卢伊克斯，荷兰/比利时姓氏）命名
 
-EN — epithet *luykxi*: Named after a person (luykx), identity uncertain
+EN — epithet *luykxi*: Named after Luykx
 
 <!-- src:S0018 -->
 

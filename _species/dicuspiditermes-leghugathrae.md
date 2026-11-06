@@ -38,9 +38,9 @@ ES — **莱古加思突扭白蚁** (*Dicuspiditermes leghugathrae*) es una espe
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
-种加词 *leghugathrae*：以人名 leghugathr 命名（具体指向待考）
+种加词 *leghugathrae*：词源未详
 
-EN — epithet *leghugathrae*: Named after a person (leghugathr), identity uncertain
+EN — epithet *leghugathrae*: Etymology uncertain
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **达尔前砂白蚁** (*Procryptotermes dhari*) es una especie del géne
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
-种加词 *dhari*：以人名 dhar 命名（具体指向待考）
+种加词 *dhari*：以地名 Dhar（达尔）命名
 
-EN — epithet *dhari*: Named after a person (dhar), identity uncertain
+EN — epithet *dhari*: Named after the locality Dhar
 
 <!-- src:S0018 -->
 

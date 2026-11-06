@@ -38,9 +38,9 @@ ES — **雷德曼土白蚁** (*Odontotermes redemanni*) es una especie del gén
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *redemanni*：以人名 redemann 命名（具体指向待考）
+种加词 *redemanni*：以人名 Redemann 命名（具体指代待考）
 
-EN — epithet *redemanni*: Named after a person (redemann), identity uncertain
+EN — epithet *redemanni*: Named after a person "Redemann" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **罗莎瓢白蚁** (*Bulbitermes rosae*) es una especie del género *Bul
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
-种加词 *rosae*：以人名 ros 命名（具体指向待考）
+种加词 *rosae*：以人名 Rosa（女性）命名；或源自拉丁文 rosa（玫瑰），待考
 
-EN — epithet *rosae*: Named after a person (ros), identity uncertain
+EN — epithet *rosae*: Named after a person "Rosa", or from Latin rosa (rose); uncertain
 
 <!-- src:S0018 -->
 

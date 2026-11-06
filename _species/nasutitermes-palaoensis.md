@@ -38,9 +38,9 @@ ES — **帕劳象白蚁** (*Nasutitermes palaoensis*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *palaoensis*：以地名 palao 命名（具体地名待考）
+种加词 *palaoensis*：以帕劳群岛（Palao / Palau）命名
 
-EN — epithet *palaoensis*: Named after a locality (palao)
+EN — epithet *palaoensis*: Named after the Palau (Palao) Islands
 
 <!-- src:S0018 -->
 

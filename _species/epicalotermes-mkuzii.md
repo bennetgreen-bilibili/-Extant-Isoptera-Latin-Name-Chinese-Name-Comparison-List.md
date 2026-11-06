@@ -35,9 +35,9 @@ ES — **摩库兹上木白蚁** (*Epicalotermes mkuzii*) es una especie del gé
 
 EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
 
-种加词 *mkuzii*：以人名 mkuz 命名（具体指向待考）
+种加词 *mkuzii*：以南非姆库泽河（Mkuze / Mkhuze）命名
 
-EN — epithet *mkuzii*: Named after a person (mkuz), identity uncertain
+EN — epithet *mkuzii*: Named after the Mkuze (Mkhuze) River, South Africa
 
 <!-- src:S0018 -->
 

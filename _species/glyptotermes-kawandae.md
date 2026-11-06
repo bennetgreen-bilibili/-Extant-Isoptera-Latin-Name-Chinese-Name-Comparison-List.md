@@ -35,9 +35,9 @@ ES — **卡旺达树白蚁** (*Glyptotermes kawandae*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *kawandae*：以人名 kawand 命名（具体指向待考）
+种加词 *kawandae*：以地名 Kawanda（乌干达卡万达）命名
 
-EN — epithet *kawandae*: Named after a person (kawand), identity uncertain
+EN — epithet *kawandae*: Named after Kawanda (Uganda)
 
 <!-- src:S0018 -->
 

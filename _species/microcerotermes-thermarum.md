@@ -38,9 +38,9 @@ ES — **沃姆巴德锯白蚁** (*Microcerotermes thermarum*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *thermarum*：以人名 therm 命名（具体指向待考）
+种加词 *thermarum*：拉丁文 thermae（温泉）复数属格，温泉的
 
-EN — epithet *thermarum*: Named after a person (therm), identity uncertain
+EN — epithet *thermarum*: From Latin thermae (hot springs)
 
 <!-- src:S0018 -->
 

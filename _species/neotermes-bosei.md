@@ -37,9 +37,9 @@ ES — **鲍斯新白蚁** (*Neotermes bosei*) es una especie del género *Neote
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *bosei*：以人名 bose 命名（具体指向待考）
+种加词 *bosei*：以 G. Bose（印度白蚁学家）命名
 
-EN — epithet *bosei*: Named after a person (bose), identity uncertain
+EN — epithet *bosei*: Named after G. Bose
 
 <!-- src:S0018 -->
 

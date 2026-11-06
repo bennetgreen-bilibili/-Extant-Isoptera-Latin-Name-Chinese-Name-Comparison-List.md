@@ -35,9 +35,9 @@ ES — **戈尔甘无刺白蚁** (*Anacanthotermes gurganiensis*) es una especie
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
-种加词 *gurganiensis*：以地名 gurgan 命名（具体地名待考）
+种加词 *gurganiensis*：以地名 Gurgan/Gorgan（伊朗戈尔甘）命名
 
-EN — epithet *gurganiensis*: Named after a locality (gurgan)
+EN — epithet *gurganiensis*: Named after Gurgan (Gorgan, Iran)
 
 <!-- src:S0018 -->
 

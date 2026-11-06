@@ -35,9 +35,9 @@ ES — **朱里翁树白蚁** (*Glyptotermes jurioni*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *jurioni*：以人名 jurion 命名（具体指向待考）
+种加词 *jurioni*：以人名 Jurion 命名
 
-EN — epithet *jurioni*: Named after a person (jurion), identity uncertain
+EN — epithet *jurioni*: Named after Jurion
 
 <!-- src:S0018 -->
 

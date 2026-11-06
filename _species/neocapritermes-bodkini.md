@@ -40,9 +40,9 @@ ES — **博德金新扭白蚁** (*Neocapritermes bodkini*) es una especie del g
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
-种加词 *bodkini*：以人名 bodkin 命名（具体指向待考）
+种加词 *bodkini*：以人名 Bodkin 命名
 
-EN — epithet *bodkini*: Named after a person (bodkin), identity uncertain
+EN — epithet *bodkini*: Named after Bodkin
 
 <!-- src:S0018 -->
 

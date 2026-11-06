@@ -35,9 +35,9 @@ ES — **新北距白蚁** (*Calcaritermes nearcticus*) es una especie del géne
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
-种加词 *nearcticus*：以地名 nearct 命名（具体地名待考）
+种加词 *nearcticus*：拉丁文 nearcticus，新北区（新北极界）的
 
-EN — epithet *nearcticus*: Named after a locality (nearct)
+EN — epithet *nearcticus*: From Latin nearcticus, of the Nearctic region
 
 <!-- src:S0018 -->
 

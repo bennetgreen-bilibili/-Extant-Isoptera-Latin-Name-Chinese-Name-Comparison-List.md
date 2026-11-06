@@ -35,9 +35,9 @@ ES — **米勒楹白蚁** (*Incisitermes milleri*) es una especie del género *
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *milleri*：以人名 miller 命名（具体指向待考）
+种加词 *milleri*：以 L.R. Miller（澳大利亚白蚁学家）命名
 
-EN — epithet *milleri*: Named after a person (miller), identity uncertain
+EN — epithet *milleri*: Named after L.R. Miller
 
 <!-- src:S0018 -->
 

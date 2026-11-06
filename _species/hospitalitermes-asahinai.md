@@ -38,9 +38,9 @@ ES — **朝比奈须白蚁** (*Hospitalitermes asahinai*) es una especie del g�
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *asahinai*：以人名 asahina 命名（具体指向待考）
+种加词 *asahinai*：以人名 Asahina（朝比奈正二郎）命名
 
-EN — epithet *asahinai*: Named after a person (asahina), identity uncertain
+EN — epithet *asahinai*: Named after Asahina (S. Asahina)
 
 <!-- src:S0018 -->
 

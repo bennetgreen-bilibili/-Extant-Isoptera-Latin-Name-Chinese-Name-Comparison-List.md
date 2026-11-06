@@ -40,9 +40,9 @@ ES — **奥贝斯小白蚁** (*Microtermes obesi*) es una especie del género *
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *obesi*：以人名 obes 命名（具体指向待考）
+种加词 *obesi*：拉丁文 obesus（肥胖的、肥大的）
 
-EN — epithet *obesi*: Named after a person (obes), identity uncertain
+EN — epithet *obesi*: From Latin obesus (fat, plump)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **亨德里克斯树白蚁** (*Glyptotermes hendrickxi*) es una especie d
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *hendrickxi*：以人名 hendrickx 命名（具体指向待考）
+种加词 *hendrickxi*：以人名 Hendrickx 命名
 
-EN — epithet *hendrickxi*: Named after a person (hendrickx), identity uncertain
+EN — epithet *hendrickxi*: Named after Hendrickx
 
 <!-- src:S0018 -->
 

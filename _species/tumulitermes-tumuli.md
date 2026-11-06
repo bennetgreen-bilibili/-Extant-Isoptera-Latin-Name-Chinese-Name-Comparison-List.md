@@ -38,9 +38,9 @@ ES — **土垄冢白蚁** (*Tumulitermes tumuli*) es una especie, y la especie 
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
-种加词 *tumuli*：以人名 tumul 命名（具体指向待考）
+种加词 *tumuli*：拉丁文 tumulus（土丘）
 
-EN — epithet *tumuli*: Named after a person (tumul), identity uncertain
+EN — epithet *tumuli*: From Latin tumulus (mound)
 
 <!-- src:S0018 -->
 

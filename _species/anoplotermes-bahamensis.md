@@ -38,9 +38,9 @@ ES — **巴哈马解甲白蚁** (*Anoplotermes bahamensis*) es una especie del 
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
-种加词 *bahamensis*：以地名 baham 命名（具体地名待考）
+种加词 *bahamensis*：以巴哈马（Bahamas）命名
 
-EN — epithet *bahamensis*: Named after a locality (baham)
+EN — epithet *bahamensis*: Named after the Bahamas
 
 <!-- src:S0018 -->
 

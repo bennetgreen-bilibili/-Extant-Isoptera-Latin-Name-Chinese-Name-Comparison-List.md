@@ -35,9 +35,9 @@ ES — **科勒特新白蚁** (*Neotermes collarti*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *collarti*：以人名 collart 命名（具体指向待考）
+种加词 *collarti*：以人名 Collart（Albert Collart）命名
 
-EN — epithet *collarti*: Named after a person (collart), identity uncertain
+EN — epithet *collarti*: Named after Albert Collart
 
 <!-- src:S0018 -->
 

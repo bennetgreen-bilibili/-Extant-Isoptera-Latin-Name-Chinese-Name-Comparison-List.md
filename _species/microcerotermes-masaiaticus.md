@@ -38,9 +38,9 @@ ES — **马赛亚特锯白蚁** (*Microcerotermes masaiaticus*) es una especie 
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *masaiaticus*：以地名 masaiat 命名（具体地名待考）
+种加词 *masaiaticus*：以马赛（Maasai，肯尼亚/坦桑尼亚）命名
 
-EN — epithet *masaiaticus*: Named after a locality (masaiat)
+EN — epithet *masaiaticus*: Named after the Maasai (East Africa)
 
 <!-- src:S0018 -->
 

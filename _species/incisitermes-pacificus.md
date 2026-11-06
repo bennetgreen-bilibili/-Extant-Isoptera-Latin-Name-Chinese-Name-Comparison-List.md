@@ -35,9 +35,9 @@ ES — **太平洋楹白蚁** (*Incisitermes pacificus*) es una especie del gén
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *pacificus*：以地名 pacif 命名（具体地名待考）
+种加词 *pacificus*：拉丁文 pacificus，太平洋的
 
-EN — epithet *pacificus*: Named after a locality (pacif)
+EN — epithet *pacificus*: From Latin pacificus, of the Pacific
 
 <!-- src:S0018 -->
 

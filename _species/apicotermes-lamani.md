@@ -38,9 +38,9 @@ ES — **拉曼尖白蚁** (*Apicotermes lamani*) es una especie del género *Ap
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
-种加词 *lamani*：以人名 laman 命名（具体指向待考）
+种加词 *lamani*：以人名 Laman 命名
 
-EN — epithet *lamani*: Named after a person (laman), identity uncertain
+EN — epithet *lamani*: Named after Laman
 
 <!-- src:S0018 -->
 

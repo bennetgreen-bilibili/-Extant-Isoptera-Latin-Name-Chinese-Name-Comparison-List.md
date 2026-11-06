@@ -35,9 +35,9 @@ ES — **尹氏散白蚁** (*Reticulitermes yinae*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *yinae*：以人名 yin 命名（具体指向待考）
+种加词 *yinae*：以人名 Yin（殷/尹，具体身份待考） 命名
 
-EN — epithet *yinae*: Named after a person (yin), identity uncertain
+EN — epithet *yinae*: Named after Yin
 
 <!-- src:S0018 -->
 

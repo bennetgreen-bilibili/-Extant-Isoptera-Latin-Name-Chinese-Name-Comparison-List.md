@@ -38,9 +38,9 @@ ES — **女神漠白蚁** (*Eremotermes sanyuktae*) es una especie del género 
 
 EN — *Eremotermes*: From Greek erēmos (desert, solitary) + Latin termes.
 
-种加词 *sanyuktae*：以人名 sanyukt 命名（具体指向待考）
+种加词 *sanyuktae*：以人名 Sanyukta（印度女性名）命名
 
-EN — epithet *sanyuktae*: Named after a person (sanyukt), identity uncertain
+EN — epithet *sanyuktae*: Named after a person "Sanyukta" (Indian female name)
 
 <!-- src:S0018 -->
 

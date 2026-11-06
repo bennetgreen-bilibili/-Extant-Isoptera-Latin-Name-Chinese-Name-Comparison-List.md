@@ -38,9 +38,9 @@ ES — **和平大白蚁** (*Macrotermes hopini*) es una especie del género *Ma
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
-种加词 *hopini*：以人名 hopin 命名（具体指向待考）
+种加词 *hopini*：以地名 Hopin（缅甸克钦邦）命名
 
-EN — epithet *hopini*: Named after a person (hopin), identity uncertain
+EN — epithet *hopini*: Named after the locality Hopin (Myanmar)
 
 <!-- src:S0018 -->
 

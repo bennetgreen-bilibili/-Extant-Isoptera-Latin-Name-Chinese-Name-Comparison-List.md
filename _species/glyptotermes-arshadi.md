@@ -35,9 +35,9 @@ ES — **阿沙德树白蚁** (*Glyptotermes arshadi*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *arshadi*：以人名 arshad 命名（具体指向待考）
+种加词 *arshadi*：以人名 Arshad 命名
 
-EN — epithet *arshadi*: Named after a person (arshad), identity uncertain
+EN — epithet *arshadi*: Named after Arshad
 
 <!-- src:S0018 -->
 

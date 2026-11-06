@@ -35,9 +35,9 @@ ES — **奄美散白蚁** (*Reticulitermes amamianus*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *amamianus*：以人名 amam 命名（具体指向待考）
+种加词 *amamianus*：以地名 Amami（奄美）命名
 
-EN — epithet *amamianus*: Named after a person (amam), identity uncertain
+EN — epithet *amamianus*: Named after the locality Amami
 
 <!-- src:S0018 -->
 

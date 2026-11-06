@@ -38,9 +38,9 @@ ES — **阿特兰须白蚁** (*Hospitalitermes ataramensis*) es una especie del
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *ataramensis*：以地名 ataram 命名（具体地名待考）
+种加词 *ataramensis*：以地名 Ataram 命名
 
-EN — epithet *ataramensis*: Named after a locality (ataram)
+EN — epithet *ataramensis*: Named after the locality Ataram
 
 <!-- src:S0018 -->
 

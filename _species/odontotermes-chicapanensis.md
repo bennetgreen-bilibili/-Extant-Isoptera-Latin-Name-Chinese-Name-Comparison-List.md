@@ -38,9 +38,9 @@ ES — **希卡帕土白蚁** (*Odontotermes chicapanensis*) es una especie del 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *chicapanensis*：以地名 chicapan 命名（具体地名待考）
+种加词 *chicapanensis*：以地名 Chicapan 命名
 
-EN — epithet *chicapanensis*: Named after a locality (chicapan)
+EN — epithet *chicapanensis*: Named after the locality Chicapan
 
 <!-- src:S0018 -->
 

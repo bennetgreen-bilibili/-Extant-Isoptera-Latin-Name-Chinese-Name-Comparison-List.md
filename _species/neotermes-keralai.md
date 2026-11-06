@@ -35,9 +35,9 @@ ES — **喀拉拉新白蚁** (*Neotermes keralai*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *keralai*：以人名 kerala 命名（具体指向待考）
+种加词 *keralai*：以喀拉拉（Kerala，印度）命名
 
-EN — epithet *keralai*: Named after a person (kerala), identity uncertain
+EN — epithet *keralai*: Named after Kerala (India)
 
 <!-- src:S0018 -->
 

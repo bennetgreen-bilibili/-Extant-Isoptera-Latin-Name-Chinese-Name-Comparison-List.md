@@ -38,9 +38,9 @@ ES — **巴特须白蚁** (*Hospitalitermes butteli*) es una especie del géner
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *butteli*：以人名 buttel 命名（具体指向待考）
+种加词 *butteli*：以人名 Buttel（-Reepen）命名
 
-EN — epithet *butteli*: Named after a person (buttel), identity uncertain
+EN — epithet *butteli*: Named after Buttel(-Reepen)
 
 <!-- src:S0018 -->
 

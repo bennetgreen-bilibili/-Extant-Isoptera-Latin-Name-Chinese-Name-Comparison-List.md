@@ -38,9 +38,9 @@ ES — **哈贾瑞大白蚁** (*Macrotermes khajuriai*) es una especie del géne
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
-种加词 *khajuriai*：以人名 khajuria 命名（具体指向待考）
+种加词 *khajuriai*：以人名 Khajuria（印度）命名
 
-EN — epithet *khajuriai*: Named after a person (khajuria), identity uncertain
+EN — epithet *khajuriai*: Named after Khajuria
 
 <!-- src:S0018 -->
 

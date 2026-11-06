@@ -38,9 +38,9 @@ ES — **格里夫斯大锥白蚁** (*Macrosubulitermes greavesi*) es la única 
 
 EN — *Macrosubulitermes*: From Greek makros (large) + Latin subula (awl) + termes.
 
-种加词 *greavesi*：以人名 greaves 命名（具体指向待考）
+种加词 *greavesi*：以人名 Greaves 命名
 
-EN — epithet *greavesi*: Named after a person (greaves), identity uncertain
+EN — epithet *greavesi*: Named after Greaves
 
 <!-- src:S0018 -->
 

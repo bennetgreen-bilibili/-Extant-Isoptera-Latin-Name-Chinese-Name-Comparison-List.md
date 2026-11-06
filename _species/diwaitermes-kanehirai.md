@@ -40,9 +40,9 @@ ES — **凯恩希拉木象白蚁** (*Diwaitermes kanehirai*) es una especie, y 
 
 EN — *Diwaitermes*: From the place name Diwai; -termes from Latin termes.
 
-种加词 *kanehirai*：以人名 kanehira 命名（具体指向待考）
+种加词 *kanehirai*：以人名 Ryōzō Kanehira（金平亮三，日本植物学家）命名
 
-EN — epithet *kanehirai*: Named after a person (kanehira), identity uncertain
+EN — epithet *kanehirai*: Named after Ryōzō Kanehira
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **博顿象白蚁** (*Nasutitermes boetoni*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *boetoni*：以人名 boeton 命名（具体指向待考）
+种加词 *boetoni*：以地名 Boeton/Buton（布顿岛）命名
 
-EN — epithet *boetoni*: Named after a person (boeton), identity uncertain
+EN — epithet *boetoni*: Named after the locality Boeton (Buton)
 
 <!-- src:S0018 -->
 

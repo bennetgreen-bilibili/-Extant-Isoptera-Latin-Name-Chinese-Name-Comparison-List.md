@@ -38,9 +38,9 @@ ES — **尖鼻象白蚁** (*Nasutitermes gardneri*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *gardneri*：以人名 gardner 命名（具体指向待考）
+种加词 *gardneri*：以人名 Gardner 命名
 
-EN — epithet *gardneri*: Named after a person (gardner), identity uncertain
+EN — epithet *gardneri*: Named after Gardner
 
 <!-- src:S0018 -->
 

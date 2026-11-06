@@ -38,9 +38,9 @@ ES — **卡拉瓦土白蚁** (*Odontotermes karawajevi*) es una especie del gé
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *karawajevi*：以人名 karawajev 命名（具体指向待考）
+种加词 *karawajevi*：以人名 Vladimir Karawajew（乌克兰/俄国蚁学家）命名
 
-EN — epithet *karawajevi*: Named after a person (karawajev), identity uncertain
+EN — epithet *karawajevi*: Named after Vladimir Karawajew
 
 <!-- src:S0018 -->
 

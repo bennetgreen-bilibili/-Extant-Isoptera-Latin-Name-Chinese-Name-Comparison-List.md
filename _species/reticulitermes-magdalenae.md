@@ -35,9 +35,9 @@ ES — **马格达莱纳散白蚁** (*Reticulitermes magdalenae*) es una especie
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *magdalenae*：以人名 magdalen 命名（具体指向待考）
+种加词 *magdalenae*：以河流/地名 Magdalena（马格达莱纳，如哥伦比亚马格达莱纳河）命名
 
-EN — epithet *magdalenae*: Named after a person (magdalen), identity uncertain
+EN — epithet *magdalenae*: Named after the Magdalena River / locality
 
 <!-- src:S0018 -->
 

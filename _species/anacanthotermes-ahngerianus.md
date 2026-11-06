@@ -37,9 +37,9 @@ ES — **安格无刺白蚁** (*Anacanthotermes ahngerianus*) es una especie del
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
-种加词 *ahngerianus*：以人名 ahnger 命名（具体指向待考）
+种加词 *ahngerianus*：以人名 Ahnger 命名
 
-EN — epithet *ahngerianus*: Named after a person (ahnger), identity uncertain
+EN — epithet *ahngerianus*: Named after Ahnger
 
 <!-- src:S0018 -->
 

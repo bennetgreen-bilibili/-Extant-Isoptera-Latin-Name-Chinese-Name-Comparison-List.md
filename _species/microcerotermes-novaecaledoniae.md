@@ -38,9 +38,9 @@ ES — **新喀里多尼亚锯白蚁** (*Microcerotermes novaecaledoniae*) es un
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *novaecaledoniae*：以人名 novaecaledoni 命名（具体指向待考）
+种加词 *novaecaledoniae*：以新喀里多尼亚（New Caledonia）命名
 
-EN — epithet *novaecaledoniae*: Named after a person (novaecaledoni), identity uncertain
+EN — epithet *novaecaledoniae*: Named after New Caledonia
 
 <!-- src:S0018 -->
 

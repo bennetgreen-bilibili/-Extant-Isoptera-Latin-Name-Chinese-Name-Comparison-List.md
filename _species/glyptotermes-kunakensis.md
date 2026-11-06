@@ -35,9 +35,9 @@ ES — **库纳克树白蚁** (*Glyptotermes kunakensis*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *kunakensis*：以地名 kunak 命名（具体地名待考）
+种加词 *kunakensis*：以地名 Kunak（马来西亚沙巴）命名
 
-EN — epithet *kunakensis*: Named after a locality (kunak)
+EN — epithet *kunakensis*: Named after Kunak (Sabah, Malaysia)
 
 <!-- src:S0018 -->
 

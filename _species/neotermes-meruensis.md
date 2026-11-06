@@ -37,9 +37,9 @@ ES — **梅鲁新白蚁** (*Neotermes meruensis*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *meruensis*：以地名 meru 命名（具体地名待考）
+种加词 *meruensis*：以坦桑尼亚梅鲁山（Mount Meru）命名
 
-EN — epithet *meruensis*: Named after a locality (meru)
+EN — epithet *meruensis*: Named after Mount Meru, Tanzania
 
 <!-- src:S0018 -->
 

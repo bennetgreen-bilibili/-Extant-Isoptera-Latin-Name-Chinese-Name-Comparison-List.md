@@ -35,9 +35,9 @@ ES — **基绍乳白蚁** (*Coptotermes kishori*) es una especie del género *C
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *kishori*：以人名 kishor 命名（具体指向待考）
+种加词 *kishori*：以人名 Kishori（印度人名）命名
 
-EN — epithet *kishori*: Named after a person (kishor), identity uncertain
+EN — epithet *kishori*: Named after Kishori
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **瓦里拉塔新几内亚白蚁** (*Niuginitermes variratae*) es una esp
 
 EN — *Niuginitermes*: From Niugini (New Guinea) + termes.
 
-种加词 *variratae*：以人名 varirat 命名（具体指向待考）
+种加词 *variratae*：以地名 Varirata（巴布亚新几内亚） 命名
 
-EN — epithet *variratae*: Named after a person (varirat), identity uncertain
+EN — epithet *variratae*: Named after the locality Varirata (Papua New Guinea)
 
 <!-- src:S0018 -->
 

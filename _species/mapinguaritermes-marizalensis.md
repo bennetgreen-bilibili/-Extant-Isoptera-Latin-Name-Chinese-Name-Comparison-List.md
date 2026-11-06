@@ -38,9 +38,9 @@ ES — **马里扎尔红懒白蚁** (*Mapinguaritermes marizalensis*) es una esp
 
 EN — *Mapinguaritermes*: From Mapinguari (a mythical Amazonian beast) + termes.
 
-种加词 *marizalensis*：以地名 marizal 命名（具体地名待考）
+种加词 *marizalensis*：以巴西巴伊亚州 Marizal（马里萨尔）命名
 
-EN — epithet *marizalensis*: Named after a locality (marizal)
+EN — epithet *marizalensis*: Named after Marizal, Bahia, Brazil
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **希克曼树白蚁** (*Glyptotermes hickmani*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *hickmani*：以人名 hickman 命名（具体指向待考）
+种加词 *hickmani*：以人名 Hickman 命名
 
-EN — epithet *hickmani*: Named after a person (hickman), identity uncertain
+EN — epithet *hickmani*: Named after Hickman
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,9 @@ ES — **赤树白蚁** (*Glyptotermes satsumensis*) es una especie del género 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *satsumensis*：以地名 satsum 命名（具体地名待考）
+种加词 *satsumensis*：以萨摩（Satsuma，日本）命名
 
-EN — epithet *satsumensis*: Named after a locality (satsum)
+EN — epithet *satsumensis*: Named after Satsuma (Japan)
 
 <!-- src:S0018 -->
 

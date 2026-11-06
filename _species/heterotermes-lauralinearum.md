@@ -35,9 +35,9 @@ ES — **劳拉利纳异白蚁** (*Heterotermes lauralinearum*) es una especie d
 
 EN — *Heterotermes*: From Greek heteros (different) + Latin termes.
 
-种加词 *lauralinearum*：以人名 lauraline 命名（具体指向待考）
+种加词 *lauralinearum*：词源未详
 
-EN — epithet *lauralinearum*: Named after a person (lauraline), identity uncertain
+EN — epithet *lauralinearum*: Etymology uncertain
 
 <!-- src:S0018 -->
 

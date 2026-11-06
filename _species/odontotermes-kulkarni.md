@@ -38,9 +38,9 @@ ES — **库尔坎土白蚁** (*Odontotermes kulkarni*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *kulkarni*：以人名 kulkarn 命名（具体指向待考）
+种加词 *kulkarni*：以人名 Kulkarni（印度姓氏）命名
 
-EN — epithet *kulkarni*: Named after a person (kulkarn), identity uncertain
+EN — epithet *kulkarni*: Named after Kulkarni
 
 <!-- src:S0018 -->
 

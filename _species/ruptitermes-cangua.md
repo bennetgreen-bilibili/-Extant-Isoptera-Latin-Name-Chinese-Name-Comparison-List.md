@@ -38,9 +38,9 @@ ES — **圆头腹爆白蚁** (*Ruptitermes cangua*) es una especie del género 
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
-种加词 *cangua*：以当地土名或地名命名（具体指向待考）
+种加词 *cangua*：图皮语相关（具体待考）
 
-EN — epithet *cangua*: After a local vernacular name or place (uncertain)
+EN — epithet *cangua*: From Tupi (specific meaning uncertain)
 
 <!-- src:S0018 -->
 

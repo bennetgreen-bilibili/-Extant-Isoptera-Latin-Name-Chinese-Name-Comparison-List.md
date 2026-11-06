@@ -38,9 +38,9 @@ ES — **乔安和白蚁** (*Adaiphrotermes choanensis*) es una especie del gén
 
 EN — *Adaiphrotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *choanensis*：以地名 choan 命名（具体地名待考）
+种加词 *choanensis*：以地名 Choan 命名
 
-EN — epithet *choanensis*: Named after a locality (choan)
+EN — epithet *choanensis*: Named after the locality Choan
 
 <!-- src:S0018 -->
 

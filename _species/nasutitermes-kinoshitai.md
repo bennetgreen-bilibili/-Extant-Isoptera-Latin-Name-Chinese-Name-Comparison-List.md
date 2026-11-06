@@ -38,9 +38,9 @@ ES — **木下象白蚁** (*Nasutitermes kinoshitai*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *kinoshitai*：以人名 kinoshita 命名（具体指向待考）
+种加词 *kinoshitai*：以人名 Kinoshita（木下，日本）命名
 
-EN — epithet *kinoshitai*: Named after a person (kinoshita), identity uncertain
+EN — epithet *kinoshitai*: Named after Kinoshita (Japanese)
 
 <!-- src:S0018 -->
 

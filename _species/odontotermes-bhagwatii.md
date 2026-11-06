@@ -38,9 +38,9 @@ ES — **巴格瓦蒂土白蚁** (*Odontotermes bhagwatii*) es una especie del g
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *bhagwatii*：以人名 bhagwat 命名（具体指向待考）
+种加词 *bhagwatii*：以人名 Bhagwat 命名
 
-EN — epithet *bhagwatii*: Named after a person (bhagwat), identity uncertain
+EN — epithet *bhagwatii*: Named after Bhagwat
 
 <!-- src:S0018 -->
 

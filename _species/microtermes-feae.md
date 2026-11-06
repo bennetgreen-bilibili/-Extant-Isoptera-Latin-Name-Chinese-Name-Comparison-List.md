@@ -38,9 +38,9 @@ ES — **菲氏小白蚁** (*Microtermes feae*) es una especie del género *Micr
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *feae*：以人名 fe 命名（具体指向待考）
+种加词 *feae*：以人名 Leonardo Fea（意大利博物学家/探险家，1852–1903）命名
 
-EN — epithet *feae*: Named after a person (fe), identity uncertain
+EN — epithet *feae*: Named after Leonardo Fea
 
 <!-- src:S0018 -->
 

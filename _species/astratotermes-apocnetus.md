@@ -38,9 +38,9 @@ ES — **小凶无刃白蚁** (*Astratotermes apocnetus*) es una especie del gé
 
 EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *apocnetus*：词源未详
+种加词 *apocnetus*：希腊语 apokneō（退缩/回避）；原始描述未明示，据词根拆解
 
-EN — epithet *apocnetus*: Etymology uncertain
+EN — epithet *apocnetus*: From Greek apokneō (to shrink back); not stated in original description
 
 <!-- src:S0018 -->
 

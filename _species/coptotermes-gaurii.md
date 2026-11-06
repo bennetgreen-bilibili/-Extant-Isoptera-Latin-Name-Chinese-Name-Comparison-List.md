@@ -35,9 +35,9 @@ ES — **高瑞乳白蚁** (*Coptotermes gaurii*) es una especie del género *Co
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *gaurii*：以人名 gaur 命名（具体指向待考）
+种加词 *gaurii*：以人名/神祇 Gauri（印度）命名
 
-EN — epithet *gaurii*: Named after a person (gaur), identity uncertain
+EN — epithet *gaurii*: Named after Gauri
 
 <!-- src:S0018 -->
 

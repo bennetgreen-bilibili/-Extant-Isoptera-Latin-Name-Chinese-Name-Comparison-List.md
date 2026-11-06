@@ -38,9 +38,9 @@ ES — **迈尔斯象白蚁** (*Nasutitermes myersi*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *myersi*：以人名 myers 命名（具体指向待考）
+种加词 *myersi*：以人名 Myers（迈尔斯）命名（英国昆虫学家 J. G. Myers）
 
-EN — epithet *myersi*: Named after a person (myers), identity uncertain
+EN — epithet *myersi*: Named after Myers (British entomologist J. G. Myers)
 
 <!-- src:S0018 -->
 

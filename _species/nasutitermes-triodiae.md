@@ -40,9 +40,9 @@ ES — **三齿程草象白蚁** (*Nasutitermes triodiae*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *triodiae*：以人名 triodi 命名（具体指向待考）
+种加词 *triodiae*：以三齿稃属（Triodia）命名（寄主植物）
 
-EN — epithet *triodiae*: Named after a person (triodi), identity uncertain
+EN — epithet *triodiae*: After the plant genus Triodia
 
 <!-- src:S0018 -->
 

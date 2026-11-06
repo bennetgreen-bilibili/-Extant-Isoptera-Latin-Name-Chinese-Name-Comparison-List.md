@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 98,
+    "count": 99,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T07:13:03+08:00",
+    "updated": "2026-11-07T07:16:01+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2044,7 +2044,7 @@
       "file_path": "_unpublished/文库/holmgren-1912-termitenstudien-3",
       "chars": 426210,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-07T07:00:56+08:00",
+      "accessed": "2026-11-07T07:14:53+08:00",
       "notes": "全文存于 _unpublished/文库/holmgren-1912-termitenstudien-3（426210 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OCR 文本；德文哥特体扫描，OCR 拼写与断词有误，引用前核对纸本。",
       "library": {
         "book": "holmgren-1912-termitenstudien-3",
@@ -2093,7 +2093,8 @@
       "used_in": [
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/06-holmgren.json",
-        "_tools/fauna/morphology/descriptions/06-sands-emerson.json"
+        "_tools/fauna/morphology/descriptions/06-sands-emerson.json",
+        "_tools/fauna/morphology/descriptions/08-african.json"
       ],
       "evidence": [
         {
@@ -2180,6 +2181,21 @@
           "quote": "B. Erster Zahn der Oberkiefer so lang wie 2. Rhynchotermes Holmgr.",
           "locator": "p. 55, Bestimmungstabelle der Untergattungen, Arbeiter",
           "note": "支撑：工蚁上颚齿序。"
+        },
+        {
+          "quote": "Oberkiefer i\\enig langer als der Kopf, sabelfor- mig. Oberlippe in der Mitte zwisclien den Eckenspitzen konvex abgerundet. Fon- tanellenoffnung kreisrund [Tafel IV, Fig. 10, 11].",
+          "locator": "p. 107（Untergattungen 检索表 B 项）",
+          "note": "支撑：基齿白蚁属（/genus/basidentitermes/）"
+        },
+        {
+          "quote": "ee. Hinterrand des Kopfes jederseits mit einem fast zahnartigen Vorsprung. Oberlippe viel langer als breit. Oberkiefer von der Lange des Kopfes, gerade, mit hakenartig umgebogener Spitze. Subg. Tuber culitermes n. subg.",
+          "locator": "p. 108（Untergattungen 检索表 ee 项）",
+          "note": "支撑：小瘤白蚁属（/genus/tuberculitermes/）"
+        },
+        {
+          "quote": "ec. Stirnvorsprung sehr unbedeutend. Fontanelle von oben gut siehtbar, nieht unterhalb des Vorspriuiges versteckt. Oberlippe etwa gleich breit, viel langer als breit. Oberkiefer etwas unregelmassig gekriimmt [Tafel IV, Fig. 6]. Subg. Protocapritermes n. subg.",
+          "locator": "p. 108（Untergattungen 检索表 ec 项）",
+          "note": "支撑：始扭白蚁属（/genus/protocapritermes/）"
         }
       ],
       "id": "S0033",
@@ -2482,16 +2498,51 @@
           "quote": "The closest genus seems to be Psammotermes (Rhinotermitidae), but the relationship is rather remote.",
           "locator": "p. 4（Comparison with other genera）",
           "note": "Glossotermes（舌白蚁属）— 鉴别要点：与 Psammotermes 最近但关系甚远"
+        },
+        {
+          "quote": "Head thick and elongate with slightly curved sides; frontal conical projection pointed forward and extended well beyond the base of the mandibles, slightly upturned at the tip, with a small bump in front and below the tip that seems to be the opening of the frontal gland.",
+          "locator": "p. 13（Cornicapritermes 兵蚁）",
+          "note": "支撑：角扭白蚁属（/genus/cornicapritermes/）"
+        },
+        {
+          "quote": "tip shallowly forked with two lateral points each making an angle of about 60° and the angle between the points about 150°.",
+          "locator": "p. 14（Cornicapritermes 兵蚁）",
+          "note": "支撑：角扭白蚁属（/genus/cornicapritermes/）"
+        },
+        {
+          "quote": "WoRKER: Mandibles with the apical tooth distinctly larger than the first marginal tooth; the right mandible with the second marginal tooth reduced or absent; the left mandible with the third marginal tooth separated from the fused first and second marginal teeth by a small indentation.",
+          "locator": "p. 14（Cornicapritermes 工蚁）",
+          "note": "支撑：角扭白蚁属（/genus/cornicapritermes/）"
+        },
+        {
+          "quote": "Head elongate, quadrangular, sides parallel and slightly convex; frontal projection pointed forward, not very acute",
+          "locator": "p. 10（Quasitermes 兵蚁）",
+          "note": "支撑：相似白蚁属（/genus/quasitermes/）"
+        },
+        {
+          "quote": "Labrum hardly asymmetrical, longer than wide, tip shallowly and slightly concave or angulate in the middle (turned up in figure and shows the under side), sometimes with a weak lobe between the lateral point and the middle; lateral points sharp but short.",
+          "locator": "p. 11（Quasitermes 兵蚁）",
+          "note": "支撑：相似白蚁属（/genus/quasitermes/）"
+        },
+        {
+          "quote": "Mandibles asymmetrical and adapted for snapping; left mandible somewhat sinuate; right mandible somewhat bowed outward",
+          "locator": "p. 11（Quasitermes 兵蚁）",
+          "note": "支撑：相似白蚁属（/genus/quasitermes/）"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/02other-families.json"
+        "_tools/fauna/morphology/descriptions/02other-families.json",
+        "_tools/fauna/morphology/descriptions/08-african.json"
       ],
       "retrieved_via": "pdftotext / Europe PMC JATS 全文",
-      "accessed": "2026-11-07T03:49:34+08:00",
+      "accessed": "2026-11-07T07:14:53+08:00",
       "canonical_key": "title:2d94c0e17df49b0c",
-      "id": "S0040"
+      "id": "S0040",
+      "url": "https://archive.org/details/fivenewgenerate1944emer",
+      "publisher": "American Museum of Natural History",
+      "license": "unknown",
+      "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1444）。"
     },
     {
       "title": "A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers",
@@ -2820,14 +2871,35 @@
           "locator": "p. 414",
           "note": "利颚白蚁属（cortaritermes）：支撑：「兵蚁」「鉴别要点」全部性状：头形、体色、鼻与头顶的短毛、后肠第一段肠环、单种与生境。",
           "ocr_note": "OCR 以 g 代 ç、以 l 代 ç 的连字，alga 即 alça；cabega 即 cabeça。"
+        },
+        {
+          "quote": "Protuberancia frontal larga, concava na face anterior; mandibulas claramente mais longas que a capsula cefalica; esporoes da tibia 2:2:2 (Figs. 142-143)",
+          "locator": "p. 418（兵蚁检索表）",
+          "note": "支撑：腔白蚁属（/genus/cavitermes/）"
+        },
+        {
+          "quote": "Protuberancia frontal arredondada; esporoes da tibia 2:2:2; encontrados apenas em ninhos de Constrictotermes spp. (Figs. 140-141)",
+          "locator": "p. 418（兵蚁检索表）",
+          "note": "支撑：客白蚁属（/genus/inquilinitermes/）"
+        },
+        {
+          "quote": "Protuberancia frontal conica; esporoes da tibia 3:3:2 (Figs. 138-139) Termes",
+          "locator": "p. 418（兵蚁检索表）",
+          "note": "支撑：客白蚁属（/genus/inquilinitermes/）"
+        },
+        {
+          "quote": "Cupins peculiares por apresentarem inquilinismo especifico. Ocorrem apenas em ninhos de Constrictotermes, 1. inquilinus com C. cavifrons e as outras duas especies com C. cyphergaster.",
+          "locator": "p. 406（Inquilinitermes 属志）",
+          "note": "支撑：客白蚁属（/genus/inquilinitermes/）"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/04-6.json",
+        "_tools/fauna/morphology/descriptions/08-african.json",
         "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
       ],
-      "accessed": "2026-11-07T07:09:19+08:00",
+      "accessed": "2026-11-07T07:14:53+08:00",
       "canonical_key": "doi:10.11606/0031-1049.1997.40.p387-448",
       "id": "S0048",
       "url": "https://revistas.usp.br/paz/article/download/211666/193890",
@@ -4320,8 +4392,8 @@
       "file_path": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon",
       "chars": 391457,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T07:11:13+08:00",
-      "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "accessed": "2026-11-07T07:14:53+08:00",
+      "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。；archive.org 全文镜像：https://archive.org/details/bulletin-american-museum-natural-history-57-401-574",
       "library": {
         "book": "Termites-of-the-Belgian-Congo-and-the-Cameroon",
         "manifest": "_unpublished/文库/manifest.json",
@@ -4356,16 +4428,65 @@
       "lang": "en",
       "url": "https://hdl.handle.net/2246/852",
       "used_in": [
-        "_data/etymology.json"
+        "_data/etymology.json",
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-african.json"
       ],
       "evidence": [
         {
           "quote": "owing to the fact that the pulvillus is lacking",
           "locator": "p.421 / Neotermes (Kalotermes) sepulvillus 描述",
           "note": "支撑：种加词 sepulvillus = se-（无）+ pulvillus（小爪垫）= 无爪垫，对应其鉴别特征"
+        },
+        {
+          "quote": "Front of head overlapping base of mandibles. Fastigitermes. Front of head not overlapping base of mandibles. Basidentitermes.",
+          "locator": "p. 419（兵蚁检索表）",
+          "note": "支撑：基齿白蚁属（/genus/basidentitermes/）"
+        },
+        {
+          "quote": "This peculiar subgenus also is known from only a few localities so that its distribution (Map 20) is problematical.",
+          "locator": "p. 535（Subgenus Basidentitermes 一节）",
+          "note": "支撑：基齿白蚁属（/genus/basidentitermes/）"
+        },
+        {
+          "quote": "20. —Labrum large and fleshy. Euchihtermes.",
+          "locator": "p. 419（兵蚁检索表）",
+          "note": "支撑：真唇白蚁属（/genus/euchilotermes/）"
+        },
+        {
+          "quote": "This group up to the present time has been known only from one species and its varieties, E. tensus Silvestri, which he described as a new genus in 1914.",
+          "locator": "pp. 501–502（Subgenus Euchilotermes 一节）",
+          "note": "支撑：真唇白蚁属（/genus/euchilotermes/）"
+        },
+        {
+          "quote": "23. —Front of head overlapping base of mandibles. Fastigitermes.",
+          "locator": "p. 419（兵蚁检索表）",
+          "note": "支撑：峰白蚁属（/genus/fastigitermes/）"
+        },
+        {
+          "quote": "Ophiotermes differs from the other subgenera of Mirotermes and closely related genera, in the shape of the mandibles, which are bent outward near the middle and are somewhat curved inwards near the tip.",
+          "locator": "pp. 501–502（Subgenus Ophiotermes 一节）",
+          "note": "支撑：蛇白蚁属（/genus/ophiotermes/）"
+        },
+        {
+          "quote": "A small, but conspicuous tooth is present between the base and the elbow on the inner side of both mandibles. The prothoracic tibiae have three spines at the apex and the meso- and metathoracic tibiae have two spines at the apex. The gland opening is similar to that found in the subgenus Cubitermes. The labrum is two-lobed.",
+          "locator": "pp. 501–502（Subgenus Ophiotermes 一节）",
+          "note": "支撑：蛇白蚁属（/genus/ophiotermes/）"
+        },
+        {
+          "quote": "Front of head prolonged into a very large conspicuous nose; sides of head rounded. Proboscitermes. Front of head not prolonged into a nose; sides of head straight and parallel. Orthotermes .",
+          "locator": "p. 419（兵蚁检索表）",
+          "note": "支撑：象鼻白蚁属（/genus/proboscitermes/）"
+        },
+        {
+          "quote": "Front of head prolonged into a very large conspicuous nose; sides of head rounded. Proboscitermes. Front of head not prolonged into a nose; sides of head straight and parallel. Orthotermes .",
+          "locator": "p. 419（兵蚁检索表）",
+          "note": "支撑：小瘤白蚁属（/genus/tuberculitermes/）"
         }
       ],
-      "id": "S0075"
+      "id": "S0075",
+      "publisher": "American Museum of Natural History",
+      "license": "unknown"
     },
     {
       "title": "A taxonomic revision of the neotropical termite genus Ruptitermes (Isoptera, Termitidae, Apicotermitinae)",
@@ -4801,13 +4922,24 @@
           "locator": "p. 419",
           "note": "棱角白蚁属（angularitermes）：支撑：「有翅成虫」头色、毛被、卵形轮廓与眼后棱角状后缘。",
           "ocr_note": "OCR 把该句后半 split 作 eleva tion，引文止于可确读处。"
+        },
+        {
+          "quote": "Cavitermes seems to be nearest to Mirotermes, s. str. than to any other subgenus but it differs from the typical Mirotermes, s. str. in the ridges along the forehead of the soldier and the hollowed front which suggested the name.",
+          "locator": "p. 442（Subgenus Cavitermes 一节）",
+          "note": "支撑：腔白蚁属（/genus/cavitermes/）"
+        },
+        {
+          "quote": "The mandibles of the soldier are similar in shape and adaptation to those of Mirotermes, s. str.",
+          "locator": "p. 442（Subgenus Cavitermes 一节）",
+          "note": "支撑：腔白蚁属（/genus/cavitermes/）"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-african.json",
         "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
       ],
-      "accessed": "2026-11-07T07:09:19+08:00",
+      "accessed": "2026-11-07T07:14:53+08:00",
       "canonical_key": "url:https://archive.org/details/biostor-181707",
       "id": "S0083"
     },
@@ -5383,6 +5515,114 @@
       "accessed": "2026-11-07T07:13:03+08:00",
       "canonical_key": "url:https://revistas.usp.br/paz/article/view/33691",
       "id": "S0098"
+    },
+    {
+      "title": "Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae)",
+      "source_type": "paper",
+      "reliability": "primary",
+      "url": "https://archive.org/details/sixnewgenerater1988emer",
+      "year": 1960,
+      "authors": [
+        "Emerson, A. E."
+      ],
+      "publisher": "American Museum of Natural History",
+      "lang": "en",
+      "license": "unknown",
+      "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1988）。",
+      "evidence": [
+        {
+          "quote": "The imago-worker mandibles, with the absence of the second marginal tooth in the right mandible, are similar only to those of Euchilotermes, Ophiotermes, Tuberculitermes, and Spini- termes",
+          "locator": "p. 21（Nitiditermes 工蚁）",
+          "note": "支撑：真唇白蚁属（/genus/euchilotermes/）"
+        },
+        {
+          "quote": "Fastigitermes has a more forward-produced hump on the vertex above the opening of the frontal gland",
+          "locator": "p. 42（Profastigitermes 兵蚁诊断）",
+          "note": "支撑：峰白蚁属（/genus/fastigitermes/）"
+        },
+        {
+          "quote": "The projec- tion of the postmentum is proportionately much greater in Fastigiter- mes and ends in a fairly sharp, single, backward-pointing spine.",
+          "locator": "p. 42（Profastigitermes 兵蚁诊断）",
+          "note": "支撑：峰白蚁属（/genus/fastigitermes/）"
+        },
+        {
+          "quote": "Profile of head (fig. 15B) with a somewhat rounded hump on the vertex above and somewhat posterior to the opening of the frontal gland.",
+          "locator": "p. 41（Profastigitermes 兵蚁）",
+          "note": "支撑：前峰白蚁属（/genus/profastigitermes/）"
+        },
+        {
+          "quote": "Postmentum (fig. 15C) constricted from below; side margins behind the anterior portion concave; narrowest region in the area of a conspicuous double- pointed projection about one-fourth of the length of the postmentum from the middle hind margin",
+          "locator": "p. 41（Profastigitermes 兵蚁）",
+          "note": "支撑：前峰白蚁属（/genus/profastigitermes/）"
+        },
+        {
+          "quote": "SOLDIER (FIG. 15): Head (figs. 15A, 15B) with numerous scattered bristles and a large bunch of long hairs around the frontal gland open- ing; a few bristles near the front margin of the labrum; and two bristles near the anterior margin of the postmentum (fig. 15C).",
+          "locator": "p. 41（Profastigitermes 兵蚁）",
+          "note": "支撑：前峰白蚁属（/genus/profastigitermes/）"
+        },
+        {
+          "quote": "Head widely oval, smooth, without much irregularity in the surface; with fine microscopic sculpturing or roughness around the fontanelle. Fontanelle elongate; in a short narrow depression in the head. Top of head between the ocelli flatly and evenly convex. Eye rather flat, of about medium size, a little less than one-third of its diameter from the lower margin of the head.",
+          "locator": "pp. 3–4（Nitiditermes 有翅成虫）",
+          "note": "支撑：叉白蚁属（/genus/furculitermes/）"
+        },
+        {
+          "quote": "Labrum (figs. 7A, 9) large, with two forked lateral lobes that are somewhat narrow and end in rounded or slightly truncated tips reaching beyond the marginal teeth of the extended mandibles; front margin deeply concave.",
+          "locator": "p. 20（Furculitermes 兵蚁）",
+          "note": "支撑：叉白蚁属（/genus/furculitermes/）"
+        },
+        {
+          "quote": "Worker (FIG. 8B): The apical tooth of each mandible comparatively large. The second marginal tooth of the right mandible absent.",
+          "locator": "p. 20（Furculitermes 工蚁）",
+          "note": "支撑：叉白蚁属（/genus/furculitermes/）"
+        },
+        {
+          "quote": "A tuft of bristles near the opening of the frontal gland is lacking in Mucrotermes but is characteristic of several related genera. The head is comparatively short, wide, and thick.",
+          "locator": "pp. 12–13（Mucrotermes 兵蚁）",
+          "note": "支撑：锐尖白蚁属（/genus/mucrotermes/）"
+        },
+        {
+          "quote": "Vertex (fig. 4B) rather sharply humped in profile, with a steeply sloping front and vertex above and below the frontal gland opening that lies in the middle of the slope a little closer to the postclypeus than to the top.",
+          "locator": "pp. 12–13（Mucrotermes 兵蚁）",
+          "note": "支撑：锐尖白蚁属（/genus/mucrotermes/）"
+        },
+        {
+          "quote": "Both mandibles with proportionately large apical teeth. There is no visible angular notch in front of the third marginal tooth of the left mandible. The right mandible has a small but distinct second marginal tooth.",
+          "locator": "p. 14（Mucrotermes 工蚁）",
+          "note": "支撑：锐尖白蚁属（/genus/mucrotermes/）"
+        },
+        {
+          "quote": "Head widely oval, smooth, without much irregularity in the surface; with fine microscopic sculpturing or roughness around the fontanelle. Fontanelle elongate; in a short narrow depression in the head. Top of head between the ocelli flatly and evenly convex. Eye rather flat, of about medium size, a little less than one-third of its diameter from the lower margin of the head.",
+          "locator": "pp. 3–4（Nitiditermes 有翅成虫）",
+          "note": "支撑：净白蚁属（/genus/nitiditermes/）"
+        },
+        {
+          "quote": "Profile of head with a bulbous front above the depressed gland opening, front not reaching over the base of the mandibles.",
+          "locator": "p. 4（Nitiditermes 兵蚁）",
+          "note": "支撑：净白蚁属（/genus/nitiditermes/）"
+        },
+        {
+          "quote": "In Nitidi- termes, the apical tooth is markedly larger than the first marginal tooth in each mandible, the distance from the apex to the tip of the first marginal tooth of the left mandible is longer than the distance from the tip of the first marginal tooth to the tip of the third marginal tooth",
+          "locator": "pp. 5–6（Nitiditermes 工蚁）",
+          "note": "支撑：净白蚁属（/genus/nitiditermes/）"
+        },
+        {
+          "quote": "The imago-worker mandibles, with the absence of the second marginal tooth in the right mandible, are similar only to those of Euchilotermes, Ophiotermes, Tuberculitermes, and Spini- termes",
+          "locator": "p. 21（Nitiditermes 工蚁）",
+          "note": "支撑：蛇白蚁属（/genus/ophiotermes/）"
+        },
+        {
+          "quote": "The imago-worker mandibles, with the absence of the second marginal tooth in the right mandible, are similar only to those of Euchilotermes, Ophiotermes, Tuberculitermes, and Spini- termes",
+          "locator": "p. 21（Nitiditermes 工蚁）",
+          "note": "支撑：小瘤白蚁属（/genus/tuberculitermes/）"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/08-african.json"
+      ],
+      "accessed": "2026-11-07T07:14:53+08:00",
+      "canonical_key": "url:https://archive.org/details/sixnewgenerater1988emer",
+      "id": "S0100"
     }
   ]
 }

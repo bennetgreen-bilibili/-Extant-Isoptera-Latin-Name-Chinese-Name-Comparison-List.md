@@ -35,9 +35,9 @@ ES — **缺附垫新白蚁** (*Neotermes sepulvillus*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *sepulvillus*：词源未详
+种加词 *sepulvillus*：拉丁语 se-（缺/无）+ pulvillus（小爪垫），无爪垫的，对应原文诊断特征「the pulvillus is lacking」
 
-EN — epithet *sepulvillus*: Etymology uncertain
+EN — epithet *sepulvillus*: From Latin se- (without) + pulvillus (small pad); referring to the lack of a pulvillus
 
 <!-- src:S0018 -->
 

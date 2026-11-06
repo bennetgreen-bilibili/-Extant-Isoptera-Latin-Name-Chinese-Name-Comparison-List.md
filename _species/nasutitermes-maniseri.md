@@ -38,9 +38,9 @@ ES — **马尼塞象白蚁** (*Nasutitermes maniseri*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *maniseri*：以人名 maniser 命名（具体指向待考）
+种加词 *maniseri*：以人名 Maniser（马尼瑟）命名
 
-EN — epithet *maniseri*: Named after a person (maniser), identity uncertain
+EN — epithet *maniseri*: Named after Maniser
 
 <!-- src:S0018 -->
 

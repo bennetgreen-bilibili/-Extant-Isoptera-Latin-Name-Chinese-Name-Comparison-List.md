@@ -38,9 +38,9 @@ ES — **策特克阿劳若白蚁** (*Araujotermes zeteki*) es una especie del g
 
 EN — *Araujotermes*: Named after the termite taxonomist R. L. Araujo; -termes from Latin termes.
 
-种加词 *zeteki*：以人名 zetek 命名（具体指向待考）
+种加词 *zeteki*：以 J. Zetek（美国昆虫学家）命名
 
-EN — epithet *zeteki*: Named after a person (zetek), identity uncertain
+EN — epithet *zeteki*: Named after J. Zetek
 
 <!-- src:S0018 -->
 

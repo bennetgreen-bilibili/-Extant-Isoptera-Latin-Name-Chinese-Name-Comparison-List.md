@@ -40,9 +40,9 @@ ES — **弗莱彻伪扭白蚁** (*Pseudocapritermes fletcheri*) es una especie 
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
-种加词 *fletcheri*：以人名 Fletcher 命名（具体指向待考）
+种加词 *fletcheri*：以人名 Fletcher（或 T. B. Fletcher，英国昆虫学家）命名
 
-EN — epithet *fletcheri*: Named after a person (Fletcher), identity uncertain
+EN — epithet *fletcheri*: Named after Fletcher
 
 <!-- src:S0018 -->
 

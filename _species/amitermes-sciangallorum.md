@@ -38,9 +38,9 @@ ES — **夏安盖洛姆弓白蚁** (*Amitermes sciangallorum*) es una especie d
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *sciangallorum*：以人名 sciangall 命名（具体指向待考）
+种加词 *sciangallorum*：以人名 Sciangallo（家族/采集者，属格复数）命名
 
-EN — epithet *sciangallorum*: Named after a person (sciangall), identity uncertain
+EN — epithet *sciangallorum*: Named after the Sciangallo family/collectors (genitive plural)
 
 <!-- src:S0018 -->
 

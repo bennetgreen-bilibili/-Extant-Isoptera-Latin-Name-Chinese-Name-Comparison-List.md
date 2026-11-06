@@ -40,9 +40,9 @@ ES — **贝顿三脉白蚁** (*Trinervitermes bettonianus*) es una especie del 
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
-种加词 *bettonianus*：以人名 betton 命名（具体指向待考）
+种加词 *bettonianus*：以人名 Betton 命名
 
-EN — epithet *bettonianus*: Named after a person (betton), identity uncertain
+EN — epithet *bettonianus*: Named after Betton
 
 <!-- src:S0018 -->
 

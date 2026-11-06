@@ -38,9 +38,9 @@ ES — **班恩肠刺白蚁** (*Compositermes bani*) es una especie del género 
 
 EN — *Compositermes*: From Latin compositus (composed, put together) + termes.
 
-种加词 *bani*：以人名 ban 命名（具体指向待考）
+种加词 *bani*：以人名 Ban 命名
 
-EN — epithet *bani*: Named after a person (ban), identity uncertain
+EN — epithet *bani*: Named after Ban
 
 <!-- src:S0018 -->
 

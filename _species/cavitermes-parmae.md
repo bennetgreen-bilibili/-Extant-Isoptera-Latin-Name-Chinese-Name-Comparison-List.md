@@ -38,9 +38,9 @@ ES — **帕尔马腔白蚁** (*Cavitermes parmae*) es una especie del género *
 
 EN — *Cavitermes*: From Latin cavus (hollow) + termes.
 
-种加词 *parmae*：以人名 parm 命名（具体指向待考）
+种加词 *parmae*：拉丁文 parma（小圆盾）
 
-EN — epithet *parmae*: Named after a person (parm), identity uncertain
+EN — epithet *parmae*: From Latin parma (small round shield)
 
 <!-- src:S0018 -->
 

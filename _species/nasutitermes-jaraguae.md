@@ -40,9 +40,9 @@ ES — **哈拉瓜象白蚁** (*Nasutitermes jaraguae*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *jaraguae*：以人名 jaragu 命名（具体指向待考）
+种加词 *jaraguae*：以地名 Jaraguá（巴西）命名
 
-EN — epithet *jaraguae*: Named after a person (jaragu), identity uncertain
+EN — epithet *jaraguae*: Named after Jaraguá (Brazil)
 
 <!-- src:S0018 -->
 

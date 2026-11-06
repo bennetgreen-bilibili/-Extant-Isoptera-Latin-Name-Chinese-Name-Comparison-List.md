@@ -38,9 +38,9 @@ ES — **台湾华扭白蚁** (*Sinocapritermes mushae*) es una especie del gén
 
 EN — *Sinocapritermes*: From Latin Sinae (China) + caper (goat) + termes.
 
-种加词 *mushae*：以人名 mush 命名（具体指向待考）
+种加词 *mushae*：以台湾雾社（Musha / Wushe，今南投仁爱乡）命名
 
-EN — epithet *mushae*: Named after a person (mush), identity uncertain
+EN — epithet *mushae*: Named after Musha (Wushe), Nantou, Taiwan
 
 <!-- src:S0018 -->
 

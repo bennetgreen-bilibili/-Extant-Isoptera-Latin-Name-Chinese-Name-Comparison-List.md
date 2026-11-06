@@ -38,9 +38,9 @@ ES — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) es la única especi
 
 EN — *Ebogotermes*: From the place name Ebogo; -termes from Latin termes.
 
-种加词 *raphaeli*：以人名 raphael 命名（具体指向待考）
+种加词 *raphaeli*：以人名 Raphael 命名（具体指代待考）
 
-EN — epithet *raphaeli*: Named after a person (raphael), identity uncertain
+EN — epithet *raphaeli*: Named after a person "Raphael" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

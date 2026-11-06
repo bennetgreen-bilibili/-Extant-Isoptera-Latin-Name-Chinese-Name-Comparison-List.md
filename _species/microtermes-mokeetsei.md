@@ -38,9 +38,9 @@ ES — **莫凯特兹小白蚁** (*Microtermes mokeetsei*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *mokeetsei*：以人名 mokeetse 命名（具体指向待考）
+种加词 *mokeetsei*：以人名 Mokeetse（莫凯采，南非人名）命名
 
-EN — epithet *mokeetsei*: Named after a person (mokeetse), identity uncertain
+EN — epithet *mokeetsei*: Named after Mokeetse
 
 <!-- src:S0018 -->
 

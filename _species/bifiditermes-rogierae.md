@@ -35,9 +35,9 @@ ES — **罗吉尔双裂白蚁** (*Bifiditermes rogierae*) es una especie del g�
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
-种加词 *rogierae*：以人名 rogier 命名（具体指向待考）
+种加词 *rogierae*：以人名 Rogier/Rogiera（女性）命名（具体指代待考）
 
-EN — epithet *rogierae*: Named after a person (rogier), identity uncertain
+EN — epithet *rogierae*: Named after a person "Rogier(e)" (female, identity unconfirmed)
 
 <!-- src:S0018 -->
 

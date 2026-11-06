@@ -35,9 +35,9 @@ ES — **菲尼根树白蚁** (*Glyptotermes finniganensis*) es una especie del 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *finniganensis*：以地名 finnigan 命名（具体地名待考）
+种加词 *finniganensis*：以芬尼根（Finnigan，澳大利亚）命名
 
-EN — epithet *finniganensis*: Named after a locality (finnigan)
+EN — epithet *finniganensis*: Named after Finnigan (Australia)
 
 <!-- src:S0018 -->
 

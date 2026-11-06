@@ -38,9 +38,9 @@ ES — **蒂范弯钩白蚁** (*Uncitermes teevani*) es una especie, y la especi
 
 EN — *Uncitermes*: From Latin uncus (hook) + termes.
 
-种加词 *teevani*：以人名 teevan 命名（具体指向待考）
+种加词 *teevani*：以人名 Teevan 命名（具体身份待考）
 
-EN — epithet *teevani*: Named after a person (teevan), identity uncertain
+EN — epithet *teevani*: Named after Teevan
 
 <!-- src:S0018 -->
 

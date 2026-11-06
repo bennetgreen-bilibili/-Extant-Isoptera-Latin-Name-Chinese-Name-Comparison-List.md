@@ -38,9 +38,9 @@ ES — **纽曼锯白蚁** (*Microcerotermes newmani*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *newmani*：以人名 newman 命名（具体指向待考）
+种加词 *newmani*：以人名 Newman（纽曼）命名（英国昆虫学家 Edward Newman）
 
-EN — epithet *newmani*: Named after a person (newman), identity uncertain
+EN — epithet *newmani*: Named after Newman (English entomologist Edward Newman)
 
 <!-- src:S0018 -->
 

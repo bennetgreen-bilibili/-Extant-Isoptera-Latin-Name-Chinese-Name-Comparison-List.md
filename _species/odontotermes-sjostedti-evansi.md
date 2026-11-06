@@ -39,9 +39,9 @@ ES — **埃文斯亚种** (*Odontotermes sjostedti evansi*) es una subespecie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *evansi*：以人名 Evans 命名（具体指向待考）
+种加词 *evansi*：以人名 Evans 命名
 
-EN — epithet *evansi*: Named after a person named Evans (identity uncertain)
+EN — epithet *evansi*: Named after Evans
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **巴舍尔白蚁** (*Termes baculi*) es una especie del género *Termes*
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
-种加词 *baculi*：以人名 bacul 命名（具体指向待考）
+种加词 *baculi*：拉丁文 baculum（杖、棒）
 
-EN — epithet *baculi*: Named after a person (bacul), identity uncertain
+EN — epithet *baculi*: From Latin baculum (staff, stick)
 
 <!-- src:S0018 -->
 

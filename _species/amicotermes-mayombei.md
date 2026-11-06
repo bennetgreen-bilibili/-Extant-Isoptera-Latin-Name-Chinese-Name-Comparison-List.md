@@ -38,9 +38,9 @@ ES — **马永贝善白蚁** (*Amicotermes mayombei*) es una especie del géner
 
 EN — *Amicotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *mayombei*：以人名 mayombe 命名（具体指向待考）
+种加词 *mayombei*：以马永贝森林（Mayombe，刚果/安哥拉）命名
 
-EN — epithet *mayombei*: Named after a person (mayombe), identity uncertain
+EN — epithet *mayombei*: Named after the Mayombe forest (Congo/Angola)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **布克萨新白蚁** (*Neotermes buxensis*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *buxensis*：以地名 bux 命名（具体地名待考）
+种加词 *buxensis*：以地名 Bux（Buxar？）命名
 
-EN — epithet *buxensis*: Named after a locality (bux)
+EN — epithet *buxensis*: Named after the locality Bux
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **霍恩象白蚁** (*Nasutitermes horni*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *horni*：以人名 horn 命名（具体指向待考）
+种加词 *horni*：以人名 Walther Horn（德国昆虫学家）命名
 
-EN — epithet *horni*: Named after a person (horn), identity uncertain
+EN — epithet *horni*: Named after Walther Horn
 
 <!-- src:S0018 -->
 

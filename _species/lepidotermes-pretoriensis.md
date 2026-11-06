@@ -38,9 +38,9 @@ ES — **比勒陀利亚鳞白蚁** (*Lepidotermes pretoriensis*) es una especie
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
-种加词 *pretoriensis*：以地名 pretor 命名（具体地名待考）
+种加词 *pretoriensis*：以比勒陀利亚（Pretoria，南非）命名
 
-EN — epithet *pretoriensis*: Named after a locality (pretor)
+EN — epithet *pretoriensis*: Named after Pretoria (South Africa)
 
 <!-- src:S0018 -->
 

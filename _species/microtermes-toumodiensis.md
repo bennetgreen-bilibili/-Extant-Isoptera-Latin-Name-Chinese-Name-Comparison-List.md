@@ -38,9 +38,9 @@ ES — **图莫迪小白蚁** (*Microtermes toumodiensis*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *toumodiensis*：以地名 toumod 命名（具体地名待考）
+种加词 *toumodiensis*：以地名 Toumodi（科特迪瓦） 命名
 
-EN — epithet *toumodiensis*: Named after a locality (toumod)
+EN — epithet *toumodiensis*: Named after the locality Toumodi (Côte d'Ivoire)
 
 <!-- src:S0018 -->
 

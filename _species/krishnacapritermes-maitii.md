@@ -38,9 +38,9 @@ ES — **迈蒂克里希纳扭白蚁** (*Krishnacapritermes maitii*) es una espe
 
 EN — *Krishnacapritermes*: Named after the termite taxonomist K. Krishna + Latin caper (goat) + termes.
 
-种加词 *maitii*：以人名 mait 命名（具体指向待考）
+种加词 *maitii*：以 P.K. Maiti（印度白蚁学家）命名
 
-EN — epithet *maitii*: Named after a person (mait), identity uncertain
+EN — epithet *maitii*: Named after P.K. Maiti
 
 <!-- src:S0018 -->
 

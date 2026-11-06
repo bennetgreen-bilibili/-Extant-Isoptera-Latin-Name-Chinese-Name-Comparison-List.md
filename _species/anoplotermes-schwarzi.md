@@ -38,9 +38,9 @@ ES — **施瓦茨解甲白蚁** (*Anoplotermes schwarzi*) es una especie del g�
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
-种加词 *schwarzi*：以人名 schwarz 命名（具体指向待考）
+种加词 *schwarzi*：以人名 Schwarz（E. A. Schwarz，美国昆虫学家）命名
 
-EN — epithet *schwarzi*: Named after a person (schwarz), identity uncertain
+EN — epithet *schwarzi*: Named after E. A. Schwarz (American entomologist)
 
 <!-- src:S0018 -->
 

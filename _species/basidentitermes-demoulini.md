@@ -38,9 +38,9 @@ ES — **德穆兰基齿白蚁** (*Basidentitermes demoulini*) es una especie de
 
 EN — *Basidentitermes*: From Greek basis (base) + Latin dens (tooth) + termes.
 
-种加词 *demoulini*：以人名 demoulin 命名（具体指向待考）
+种加词 *demoulini*：以人名 Demoulin（Georges Demoulin）命名
 
-EN — epithet *demoulini*: Named after a person (demoulin), identity uncertain
+EN — epithet *demoulini*: Named after Georges Demoulin
 
 <!-- src:S0018 -->
 

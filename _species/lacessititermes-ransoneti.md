@@ -38,9 +38,9 @@ ES — **兰森埃特怒白蚁** (*Lacessititermes ransoneti*) es una especie de
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
-种加词 *ransoneti*：以人名 ransonet 命名（具体指向待考）
+种加词 *ransoneti*：以人名 Ransonet 命名（具体指代待考）
 
-EN — epithet *ransoneti*: Named after a person (ransonet), identity uncertain
+EN — epithet *ransoneti*: Named after a person "Ransonet" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,9 @@ ES — **比特恩佐格近扭白蚁** (*Pericapritermes buitenzorgi*) es una es
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
-种加词 *buitenzorgi*：以人名 buitenzorg 命名（具体指向待考）
+种加词 *buitenzorgi*：以地名 Buitenzorg（布滕佐格，今茂物）命名
 
-EN — epithet *buitenzorgi*: Named after a person (buitenzorg), identity uncertain
+EN — epithet *buitenzorgi*: Named after the locality Buitenzorg (Bogor)
 
 <!-- src:S0018 -->
 

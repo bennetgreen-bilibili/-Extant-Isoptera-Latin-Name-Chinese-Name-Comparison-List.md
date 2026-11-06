@@ -38,9 +38,9 @@ ES — **查普曼象白蚁** (*Nasutitermes chapmani*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *chapmani*：以人名 chapman 命名（具体指向待考）
+种加词 *chapmani*：以人名 Chapman 命名
 
-EN — epithet *chapmani*: Named after a person (chapman), identity uncertain
+EN — epithet *chapmani*: Named after Chapman
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **艾豪瑞赛恩角白蚁** (*Angulitermes akhorisainensis*) es una espe
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *akhorisainensis*：以地名 akhorisain 命名（具体地名待考）
+种加词 *akhorisainensis*：以地名 Akhorisain 命名
 
-EN — epithet *akhorisainensis*: Named after a locality (akhorisain)
+EN — epithet *akhorisainensis*: Named after the locality Akhorisain
 
 <!-- src:S0018 -->
 

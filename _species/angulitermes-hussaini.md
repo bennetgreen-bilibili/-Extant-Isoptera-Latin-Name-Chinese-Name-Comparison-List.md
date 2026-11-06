@@ -38,9 +38,9 @@ ES — **侯赛因角白蚁** (*Angulitermes hussaini*) es una especie del géne
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *hussaini*：以人名 hussain 命名（具体指向待考）
+种加词 *hussaini*：以人名 Hussain 命名
 
-EN — epithet *hussaini*: Named after a person (hussain), identity uncertain
+EN — epithet *hussaini*: Named after Hussain
 
 <!-- src:S0018 -->
 

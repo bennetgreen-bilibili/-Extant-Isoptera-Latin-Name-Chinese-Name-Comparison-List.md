@@ -38,9 +38,9 @@ ES — **赫伯特弓白蚁** (*Amitermes herbertensis*) es una especie del gén
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *herbertensis*：以地名 herbert 命名（具体地名待考）
+种加词 *herbertensis*：以赫伯特河（Herbert River，澳大利亚）命名
 
-EN — epithet *herbertensis*: Named after a locality (herbert)
+EN — epithet *herbertensis*: Named after the Herbert River (Australia)
 
 <!-- src:S0018 -->
 

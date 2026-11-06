@@ -35,9 +35,9 @@ ES — **芒罗上木白蚁** (*Epicalotermes munroi*) es una especie del géner
 
 EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
 
-种加词 *munroi*：以人名 munro 命名（具体指向待考）
+种加词 *munroi*：以人名 Munro（芒罗）命名
 
-EN — epithet *munroi*: Named after a person (munro), identity uncertain
+EN — epithet *munroi*: Named after Munro
 
 <!-- src:S0018 -->
 

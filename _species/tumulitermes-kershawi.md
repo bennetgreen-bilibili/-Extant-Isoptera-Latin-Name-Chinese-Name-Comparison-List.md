@@ -38,9 +38,9 @@ ES — **克肖冢白蚁** (*Tumulitermes kershawi*) es una especie del género 
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
-种加词 *kershawi*：以人名 kershaw 命名（具体指向待考）
+种加词 *kershawi*：以人名 Kershaw 命名
 
-EN — epithet *kershawi*: Named after a person (kershaw), identity uncertain
+EN — epithet *kershawi*: Named after Kershaw
 
 <!-- src:S0018 -->
 

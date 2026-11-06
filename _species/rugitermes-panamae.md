@@ -37,9 +37,9 @@ ES — **巴拿马皱白蚁** (*Rugitermes panamae*) es una especie del género 
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
-种加词 *panamae*：以人名 panam 命名（具体指向待考）
+种加词 *panamae*：以巴拿马（Panama）命名
 
-EN — epithet *panamae*: Named after a person (panam), identity uncertain
+EN — epithet *panamae*: Named after Panama
 
 <!-- src:S0018 -->
 

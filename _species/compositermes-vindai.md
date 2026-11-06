@@ -38,9 +38,9 @@ ES — **文达肠刺白蚁** (*Compositermes vindai*) es una especie, y la espe
 
 EN — *Compositermes*: From Latin compositus (composed, put together) + termes.
 
-种加词 *vindai*：以人名 vinda 命名（具体指向待考）
+种加词 *vindai*：以人名 Vinda 命名（具体身份待考）
 
-EN — epithet *vindai*: Named after a person (vinda), identity uncertain
+EN — epithet *vindai*: Named after Vinda
 
 <!-- src:S0018 -->
 

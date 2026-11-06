@@ -38,9 +38,9 @@ ES — **阿沙德印白蚁** (*Indotermes arshadi*) es una especie del género 
 
 EN — *Indotermes*: From India + Latin termes.
 
-种加词 *arshadi*：以人名 arshad 命名（具体指向待考）
+种加词 *arshadi*：以人名 Arshad 命名
 
-EN — epithet *arshadi*: Named after a person (arshad), identity uncertain
+EN — epithet *arshadi*: Named after Arshad
 
 <!-- src:S0018 -->
 

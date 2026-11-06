@@ -39,9 +39,9 @@ ES — **指名亚种** (*Prohamitermes hosei hosei*) es una subespecie de *Proh
 
 EN — *Prohamitermes*: From Greek pro- (before) + (hami, perhaps Latin hamus 'hook') + termes.
 
-种加词 *hosei*：以人名 hose 命名（具体指向待考）
+种加词 *hosei*：以人名 Charles Hose（英国博物学家，婆罗洲）命名
 
-EN — epithet *hosei*: Named after a person (hose), identity uncertain
+EN — epithet *hosei*: Named after Charles Hose
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **梅登络白蚁** (*Hapsidotermes maideni*) es una especie del género 
 
 EN — *Hapsidotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *maideni*：以人名 maiden 命名（具体指向待考）
+种加词 *maideni*：以人名 Maiden（梅登）命名（澳大利亚植物学家 Joseph Maiden）
 
-EN — epithet *maideni*: Named after a person (maiden), identity uncertain
+EN — epithet *maideni*: Named after Maiden (Australian botanist Joseph Maiden)
 
 <!-- src:S0018 -->
 

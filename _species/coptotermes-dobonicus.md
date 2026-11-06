@@ -35,9 +35,9 @@ ES — **多波乳白蚁** (*Coptotermes dobonicus*) es una especie del género 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *dobonicus*：以地名 dobon 命名（具体地名待考）
+种加词 *dobonicus*：以地名 Dobon 命名
 
-EN — epithet *dobonicus*: Named after a locality (dobon)
+EN — epithet *dobonicus*: Named after the locality Dobon
 
 <!-- src:S0018 -->
 

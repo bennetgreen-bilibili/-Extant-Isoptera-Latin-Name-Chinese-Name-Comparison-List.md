@@ -38,9 +38,9 @@ ES — **艾尔白蚁** (*Termes ayri*) es una especie del género *Termes*, en 
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
-种加词 *ayri*：以人名 ayr 命名（具体指向待考）
+种加词 *ayri*：词源未详
 
-EN — epithet *ayri*: Named after a person (ayr), identity uncertain
+EN — epithet *ayri*: Etymology uncertain
 
 <!-- src:S0018 -->
 

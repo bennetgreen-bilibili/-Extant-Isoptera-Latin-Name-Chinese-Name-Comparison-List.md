@@ -38,9 +38,9 @@ ES — **西科拉锯白蚁** (*Microcerotermes sikorae*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *sikorae*：以人名 sikor 命名（具体指向待考）
+种加词 *sikorae*：以人名 Sikora（Franz Sikora，奥地利博物学采集者）命名
 
-EN — epithet *sikorae*: Named after a person (sikor), identity uncertain
+EN — epithet *sikorae*: Named after Franz Sikora (Austrian natural history collector)
 
 <!-- src:S0018 -->
 

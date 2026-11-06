@@ -38,9 +38,9 @@ ES — **德拉敦角白蚁** (*Angulitermes dehraensis*) es una especie del gé
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *dehraensis*：以地名 dehra 命名（具体地名待考）
+种加词 *dehraensis*：以地名 Dehra Dun（德拉敦）命名
 
-EN — epithet *dehraensis*: Named after a locality (dehra)
+EN — epithet *dehraensis*: Named after the locality Dehra Dun
 
 <!-- src:S0018 -->
 

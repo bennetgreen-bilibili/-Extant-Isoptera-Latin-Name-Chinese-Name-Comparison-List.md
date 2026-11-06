@@ -38,9 +38,9 @@ ES — **弗朗西斯科腹爆白蚁** (*Ruptitermes franciscoi*) es una especie
 
 EN — *Ruptitermes*: From Latin ruptus (broken, burst) + termes.
 
-种加词 *franciscoi*：以人名 francisco 命名（具体指向待考）
+种加词 *franciscoi*：以人名 Francisco 命名
 
-EN — epithet *franciscoi*: Named after a person (francisco), identity uncertain
+EN — epithet *franciscoi*: Named after Francisco
 
 <!-- src:S0018 -->
 

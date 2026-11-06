@@ -39,9 +39,9 @@ ES — **指名亚种** (*Eurytermes assmuthi assmuthi*) es una subespecie de *E
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
-种加词 *assmuthi*：以人名 assmuth 命名（具体指向待考）
+种加词 *assmuthi*：以人名 Assmuth 命名
 
-EN — epithet *assmuthi*: Named after a person (assmuth), identity uncertain
+EN — epithet *assmuthi*: Named after Assmuth
 
 <!-- src:S0018 -->
 

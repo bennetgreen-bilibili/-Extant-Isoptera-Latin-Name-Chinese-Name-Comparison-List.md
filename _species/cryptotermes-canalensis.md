@@ -35,9 +35,9 @@ ES — **卡纳拉堆砂白蚁** (*Cryptotermes canalensis*) es una especie del 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *canalensis*：以地名 canal 命名（具体地名待考）
+种加词 *canalensis*：以运河区（Canal Zone，巴拿马）命名
 
-EN — epithet *canalensis*: Named after a locality (canal)
+EN — epithet *canalensis*: Named after the Canal Zone (Panama)
 
 <!-- src:S0018 -->
 

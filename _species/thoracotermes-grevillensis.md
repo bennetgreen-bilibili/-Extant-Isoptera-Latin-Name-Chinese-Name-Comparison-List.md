@@ -38,9 +38,9 @@ ES — **格瑞维勒胸白蚁** (*Thoracotermes grevillensis*) es una especie d
 
 EN — *Thoracotermes*: From Greek thōrax (thorax) + Latin termes.
 
-种加词 *grevillensis*：以地名 grevill 命名（具体地名待考）
+种加词 *grevillensis*：词源未详
 
-EN — epithet *grevillensis*: Named after a locality (grevill)
+EN — epithet *grevillensis*: Etymology uncertain
 
 <!-- src:S0018 -->
 

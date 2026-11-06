@@ -38,9 +38,9 @@ ES — **戈利亚特鳞白蚁** (*Lepidotermes goliathi*) es una especie del g�
 
 EN — *Lepidotermes*: From Greek lepis (scale) + Latin termes.
 
-种加词 *goliathi*：以人名 goliath 命名（具体指向待考）
+种加词 *goliathi*：以巨人歌利亚（Goliath）命名（暗指体型大）
 
-EN — epithet *goliathi*: Named after a person (goliath), identity uncertain
+EN — epithet *goliathi*: Named after Goliath (alluding to large size)
 
 <!-- src:S0018 -->
 

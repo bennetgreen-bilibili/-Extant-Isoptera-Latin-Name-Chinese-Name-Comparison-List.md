@@ -40,9 +40,9 @@ ES — **尼日利亚近扭白蚁** (*Pericapritermes nigerianus*) es una especi
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
-种加词 *nigerianus*：以人名 niger 命名（具体指向待考）
+种加词 *nigerianus*：以尼日利亚（Nigeria）命名
 
-EN — epithet *nigerianus*: Named after a person (niger), identity uncertain
+EN — epithet *nigerianus*: Named after Nigeria
 
 <!-- src:S0018 -->
 

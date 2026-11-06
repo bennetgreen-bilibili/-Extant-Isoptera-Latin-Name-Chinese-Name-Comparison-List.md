@@ -38,9 +38,9 @@ ES — **蔡格洛姆大白蚁** (*Macrotermes chaiglomi*) es una especie del g�
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
-种加词 *chaiglomi*：以人名 chaiglom 命名（具体指向待考）
+种加词 *chaiglomi*：以地名 Chai Glom 命名
 
-EN — epithet *chaiglomi*: Named after a person (chaiglom), identity uncertain
+EN — epithet *chaiglomi*: Named after the locality Chai Glom
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **普雷勒冢白蚁** (*Tumulitermes pulleinei*) es una especie del gén
 
 EN — *Tumulitermes*: From Latin tumulus (mound) + termes.
 
-种加词 *pulleinei*：以人名 pulleine 命名（具体指向待考）
+种加词 *pulleinei*：以人名 Pulleine（R. H. Pulleine，澳大利亚博物学家/蜘蛛学家）命名
 
-EN — epithet *pulleinei*: Named after a person (pulleine), identity uncertain
+EN — epithet *pulleinei*: Named after R. H. Pulleine (Australian naturalist/arachnologist)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **塞利斯钳白蚁** (*Labidotermes celisi*) es la única especie vivie
 
 EN — *Labidotermes*: From Greek labis (forceps) + Latin termes.
 
-种加词 *celisi*：以人名 celis 命名（具体指向待考）
+种加词 *celisi*：以人名 Celis 命名
 
-EN — epithet *celisi*: Named after a person (celis), identity uncertain
+EN — epithet *celisi*: Named after Celis
 
 <!-- src:S0018 -->
 

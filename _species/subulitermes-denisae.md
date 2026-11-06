@@ -38,9 +38,9 @@ ES — **丹尼斯锥白蚁** (*Subulitermes denisae*) es una especie del géner
 
 EN — *Subulitermes*: From Latin subula (awl) + termes.
 
-种加词 *denisae*：以人名 denis 命名（具体指向待考）
+种加词 *denisae*：以人名 Denisa 命名
 
-EN — epithet *denisae*: Named after a person (denis), identity uncertain
+EN — epithet *denisae*: Named after Denisa
 
 <!-- src:S0018 -->
 

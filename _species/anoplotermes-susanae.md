@@ -38,9 +38,9 @@ ES — **苏珊解甲白蚁** (*Anoplotermes susanae*) es una especie del géner
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
-种加词 *susanae*：以人名 susan 命名（具体指向待考）
+种加词 *susanae*：以人名 Susana（女性）命名
 
-EN — epithet *susanae*: Named after a person (susan), identity uncertain
+EN — epithet *susanae*: Named after a person "Susana" (female name)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **弗尔特科沙白蚁** (*Psammotermes voeltzkowi*) es una especie del 
 
 EN — *Psammotermes*: From Greek psammos (sand) + Latin termes.
 
-种加词 *voeltzkowi*：以人名 voeltzkow 命名（具体指向待考）
+种加词 *voeltzkowi*：以人名 Voeltzkow（Alfred Voeltzkow，德国博物学家） 命名
 
-EN — epithet *voeltzkowi*: Named after a person (voeltzkow), identity uncertain
+EN — epithet *voeltzkowi*: Named after Alfred Voeltzkow (German naturalist)
 
 <!-- src:S0018 -->
 

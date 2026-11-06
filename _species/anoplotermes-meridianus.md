@@ -38,9 +38,9 @@ ES — **南方解甲白蚁** (*Anoplotermes meridianus*) es una especie del gé
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
-种加词 *meridianus*：以人名 merid 命名（具体指向待考）
+种加词 *meridianus*：拉丁文 meridies（南方/正午），南方的
 
-EN — epithet *meridianus*: Named after a person (merid), identity uncertain
+EN — epithet *meridianus*: From Latin meridies (south)
 
 <!-- src:S0018 -->
 

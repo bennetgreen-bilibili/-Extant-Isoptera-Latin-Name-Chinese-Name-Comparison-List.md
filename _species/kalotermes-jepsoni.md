@@ -35,9 +35,9 @@ ES — **杰普森木白蚁** (*Kalotermes jepsoni*) es una especie del género 
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
-种加词 *jepsoni*：以人名 jepson 命名（具体指向待考）
+种加词 *jepsoni*：以人名 Jepson 命名
 
-EN — epithet *jepsoni*: Named after a person (jepson), identity uncertain
+EN — epithet *jepsoni*: Named after Jepson
 
 <!-- src:S0018 -->
 

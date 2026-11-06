@@ -38,9 +38,9 @@ ES — **罗思柴尔德土白蚁** (*Odontotermes rothschildianus*) es una espe
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *rothschildianus*：以人名 rothschild 命名（具体指向待考）
+种加词 *rothschildianus*：以人名 Rothschild（罗斯柴尔德家族，资助东非采集）命名
 
-EN — epithet *rothschildianus*: Named after a person (rothschild), identity uncertain
+EN — epithet *rothschildianus*: Named after Rothschild (sponsor of African expeditions)
 
 <!-- src:S0018 -->
 

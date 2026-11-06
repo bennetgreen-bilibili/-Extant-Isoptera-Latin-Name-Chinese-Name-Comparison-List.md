@@ -38,9 +38,9 @@ ES — **马德拉斯须白蚁** (*Hospitalitermes madrasi*) es una especie del 
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *madrasi*：以人名 madras 命名（具体指向待考）
+种加词 *madrasi*：以马德拉斯（Madras，印度）命名
 
-EN — epithet *madrasi*: Named after a person (madras), identity uncertain
+EN — epithet *madrasi*: Named after Madras (India)
 
 <!-- src:S0018 -->
 

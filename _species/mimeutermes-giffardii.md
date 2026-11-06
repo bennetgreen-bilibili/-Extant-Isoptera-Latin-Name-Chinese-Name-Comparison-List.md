@@ -38,9 +38,9 @@ ES — **吉法德仿白蚁** (*Mimeutermes giffardii*) es una especie, y la esp
 
 EN — *Mimeutermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *giffardii*：以人名 giffard 命名（具体指向待考）
+种加词 *giffardii*：以人名 Giffard 命名
 
-EN — epithet *giffardii*: Named after a person (giffard), identity uncertain
+EN — epithet *giffardii*: Named after Giffard
 
 <!-- src:S0018 -->
 

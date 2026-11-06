@@ -35,9 +35,9 @@ ES — **文冬乳白蚁** (*Coptotermes bentongensis*) es una especie del géne
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *bentongensis*：以地名 bentong 命名（具体地名待考）
+种加词 *bentongensis*：以地名 Bentong（文冬）命名
 
-EN — epithet *bentongensis*: Named after a locality (bentong)
+EN — epithet *bentongensis*: Named after the locality Bentong
 
 <!-- src:S0018 -->
 

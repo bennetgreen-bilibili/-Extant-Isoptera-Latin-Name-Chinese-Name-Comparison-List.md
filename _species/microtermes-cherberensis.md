@@ -38,9 +38,9 @@ ES — **谢尔贝小白蚁** (*Microtermes cherberensis*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *cherberensis*：以地名 cherber 命名（具体地名待考）
+种加词 *cherberensis*：以地名 Cherbera 命名
 
-EN — epithet *cherberensis*: Named after a locality (cherber)
+EN — epithet *cherberensis*: Named after the locality Cherbera
 
 <!-- src:S0018 -->
 

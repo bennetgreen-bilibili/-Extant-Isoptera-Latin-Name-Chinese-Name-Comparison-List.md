@@ -116,7 +116,7 @@ PASS 需同时满足：与原文连续相同片段 < 30 字符、8-gram containm
   `_data/morphology_species.json`（键为 `/species/<slug>/`）。已有《中国动物志》记载的 435 个种/亚种不重复；
   其余先显示三语待补说明并链接属页。单型属可据属级描述生成种级条目，但须在 `note` 写明是属级描述。
 - `_tools/fauna/morphology/build_worklist.py` 生成 `_reports/genus-morphology-worklist.md` 与 `.csv`：
-  截至 2026-11-07：326 属中 35 属已有《中国动物志》描述、191 属已补文献描述、100 属待补，其中 8 属在 Treatise 中没有独立条目；
+  截至 2026-11-07：326 属中 35 属已有《中国动物志》描述、206 属已补文献描述、85 属待补，其中 8 属在 Treatise 中没有独立条目；
   `build_species_worklist.py` 生成 `_reports/species-morphology-worklist.{md,csv}`。
 - 补写顺序：先取原始发表或属级修订，核对模式种与品级，再据原文改写；每篇用到的文献按 `AGENTS.md` 存档。
   不要把属级描述直接冒充种级描述（单型属例外，且须注明）。

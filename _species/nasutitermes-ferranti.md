@@ -38,9 +38,9 @@ ES — **费朗象白蚁** (*Nasutitermes ferranti*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *ferranti*：以人名 ferrant 命名（具体指向待考）
+种加词 *ferranti*：以人名 Ferrant 命名
 
-EN — epithet *ferranti*: Named after a person (ferrant), identity uncertain
+EN — epithet *ferranti*: Named after Ferrant
 
 <!-- src:S0018 -->
 

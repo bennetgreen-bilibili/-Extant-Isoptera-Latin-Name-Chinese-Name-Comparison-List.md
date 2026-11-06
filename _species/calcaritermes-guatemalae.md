@@ -35,9 +35,9 @@ ES — **危地马拉距白蚁** (*Calcaritermes guatemalae*) es una especie del
 
 EN — *Calcaritermes*: From Latin calcar (spur) + termes.
 
-种加词 *guatemalae*：以人名 guatemal 命名（具体指向待考）
+种加词 *guatemalae*：以危地马拉（Guatemala）命名
 
-EN — epithet *guatemalae*: Named after a person (guatemal), identity uncertain
+EN — epithet *guatemalae*: Named after Guatemala
 
 <!-- src:S0018 -->
 

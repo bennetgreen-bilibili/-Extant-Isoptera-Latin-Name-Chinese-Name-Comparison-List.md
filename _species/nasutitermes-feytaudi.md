@@ -38,9 +38,9 @@ ES — **费淘德象白蚁** (*Nasutitermes feytaudi*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *feytaudi*：以人名 feytaud 命名（具体指向待考）
+种加词 *feytaudi*：以人名 Feytaud（法国昆虫学家）命名
 
-EN — epithet *feytaudi*: Named after a person (feytaud), identity uncertain
+EN — epithet *feytaudi*: Named after Feytaud
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **黎母岭树白蚁** (*Glyptotermes limulingensis*) es una especie del 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *limulingensis*：以地名 limuling 命名（具体地名待考）
+种加词 *limulingensis*：以海南黎母岭（Limuling）命名
 
-EN — epithet *limulingensis*: Named after a locality (limuling)
+EN — epithet *limulingensis*: Named after Limuling (Limu Ling, Hainan, China)
 
 <!-- src:S0018 -->
 

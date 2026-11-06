@@ -38,9 +38,9 @@ ES — **伯格净白蚁** (*Nitiditermes berghei*) es una especie, y la especie
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
-种加词 *berghei*：以人名 berghe 命名（具体指向待考）
+种加词 *berghei*：以人名 van den Berghe 命名
 
-EN — epithet *berghei*: Named after a person (berghe), identity uncertain
+EN — epithet *berghei*: Named after van den Berghe
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **罗曼前角白蚁** (*Procornitermes romani*) es una especie del géne
 
 EN — *Procornitermes*: From Greek pro- (before) + Latin cornu (horn) + termes.
 
-种加词 *romani*：以人名 roman 命名（具体指向待考）
+种加词 *romani*：以人名 Romani 命名（具体指代待考）
 
-EN — epithet *romani*: Named after a person (roman), identity uncertain
+EN — epithet *romani*: Named after a person "Romani" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **穆鲁伊尖鼻白蚁** (*Acorhinotermes murui*) es una especie del gé
 
 EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
 
-种加词 *murui*：以人名 muru 命名（具体指向待考）
+种加词 *murui*：以亚马孙原住民穆鲁伊人（Murui，维托托族一支）命名
 
-EN — epithet *murui*: Named after a person (muru), identity uncertain
+EN — epithet *murui*: Named after the Murui people (Witoto), Amazonia
 
 <!-- src:S0018 -->
 

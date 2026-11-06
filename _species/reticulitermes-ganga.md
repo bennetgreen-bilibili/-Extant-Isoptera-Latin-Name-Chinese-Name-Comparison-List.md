@@ -35,9 +35,9 @@ ES — **恒湖散白蚁** (*Reticulitermes ganga*) es una especie del género *
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *ganga*：以当地土名或地名命名（具体指向待考）
+种加词 *ganga*：以地名 Ganga（恒河）命名
 
-EN — epithet *ganga*: After a local vernacular name or place (uncertain)
+EN — epithet *ganga*: Named after the Ganges (Ganga)
 
 <!-- src:S0018 -->
 

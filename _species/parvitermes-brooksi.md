@@ -38,9 +38,9 @@ ES — **布鲁克斯微白蚁** (*Parvitermes brooksi*) es una especie, y la es
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
-种加词 *brooksi*：以人名 brooks 命名（具体指向待考）
+种加词 *brooksi*：以人名 Brooks 命名
 
-EN — epithet *brooksi*: Named after a person (brooks), identity uncertain
+EN — epithet *brooksi*: Named after Brooks
 
 <!-- src:S0018 -->
 

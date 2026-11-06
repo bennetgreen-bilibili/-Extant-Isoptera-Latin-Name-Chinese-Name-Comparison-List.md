@@ -38,9 +38,9 @@ ES — **巴克霍尔兹土白蚁** (*Odontotermes buchholzi*) es una especie de
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *buchholzi*：以人名 buchholz 命名（具体指向待考）
+种加词 *buchholzi*：以人名 Buchholz 命名
 
-EN — epithet *buchholzi*: Named after a person (buchholz), identity uncertain
+EN — epithet *buchholzi*: Named after Buchholz
 
 <!-- src:S0018 -->
 

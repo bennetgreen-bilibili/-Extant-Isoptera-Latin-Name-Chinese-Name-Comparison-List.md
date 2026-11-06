@@ -35,9 +35,9 @@ ES — **胡利安堆砂白蚁** (*Cryptotermes juliani*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *juliani*：以人名 julian 命名（具体指向待考）
+种加词 *juliani*：以人名 Julian 命名
 
-EN — epithet *juliani*: Named after a person (julian), identity uncertain
+EN — epithet *juliani*: Named after Julian
 
 <!-- src:S0018 -->
 

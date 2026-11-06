@@ -40,9 +40,9 @@ ES — **利顿土白蚁** (*Odontotermes billitoni*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *billitoni*：以人名 billiton 命名（具体指向待考）
+种加词 *billitoni*：以地名 Billiton/Belitung（勿里洞）命名
 
-EN — epithet *billitoni*: Named after a person (billiton), identity uncertain
+EN — epithet *billitoni*: Named after the locality Billiton (Belitung)
 
 <!-- src:S0018 -->
 

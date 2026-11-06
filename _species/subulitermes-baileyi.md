@@ -38,9 +38,9 @@ ES — **贝利锥白蚁** (*Subulitermes baileyi*) es una especie del género *
 
 EN — *Subulitermes*: From Latin subula (awl) + termes.
 
-种加词 *baileyi*：以人名 bailey 命名（具体指向待考）
+种加词 *baileyi*：以人名 Bailey 命名
 
-EN — epithet *baileyi*: Named after a person (bailey), identity uncertain
+EN — epithet *baileyi*: Named after Bailey
 
 <!-- src:S0018 -->
 

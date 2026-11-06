@@ -35,9 +35,9 @@ ES — **红树新白蚁** (*Neotermes rhizophorae*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *rhizophorae*：以人名 rhizophor 命名（具体指向待考）
+种加词 *rhizophorae*：以红树属（Rhizophora）命名
 
-EN — epithet *rhizophorae*: Named after a person (rhizophor), identity uncertain
+EN — epithet *rhizophorae*: After the plant genus Rhizophora
 
 <!-- src:S0018 -->
 

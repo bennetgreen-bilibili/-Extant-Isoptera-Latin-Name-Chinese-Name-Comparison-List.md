@@ -35,9 +35,9 @@ ES — **奇颏散白蚁** (*Reticulitermes mirogulus*) es una especie del géne
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *mirogulus*：词源未详
+种加词 *mirogulus*：词源未详（中文原始描述无在线全文）
 
-EN — epithet *mirogulus*: Etymology uncertain
+EN — epithet *mirogulus*: Etymology uncertain (Chinese original description not accessible online)
 
 <!-- src:S0018 -->
 

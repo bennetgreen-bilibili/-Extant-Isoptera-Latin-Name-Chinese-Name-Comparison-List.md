@@ -38,9 +38,9 @@ ES — **格洛弗近扭白蚁** (*Pericapritermes gloveri*) es una especie del 
 
 EN — *Pericapritermes*: From Greek peri- (around) + Latin caper (goat) + termes.
 
-种加词 *gloveri*：以人名 glover 命名（具体指向待考）
+种加词 *gloveri*：以人名 Glover 命名
 
-EN — epithet *gloveri*: Named after a person (glover), identity uncertain
+EN — epithet *gloveri*: Named after Glover
 
 <!-- src:S0018 -->
 

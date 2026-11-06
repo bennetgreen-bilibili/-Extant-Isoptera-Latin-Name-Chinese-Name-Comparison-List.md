@@ -38,9 +38,9 @@ ES — **卡尼土白蚁** (*Odontotermes karnyi*) es una especie del género *O
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *karnyi*：以人名 karny 命名（具体指向待考）
+种加词 *karnyi*：以人名 Heinrich Hugo Karny（奥地利昆虫学家）命名
 
-EN — epithet *karnyi*: Named after a person (karny), identity uncertain
+EN — epithet *karnyi*: Named after Heinrich Hugo Karny
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **森萨尔马三脉白蚁** (*Trinervitermes sensarmai*) es una especie 
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
-种加词 *sensarmai*：以人名 sensarma 命名（具体指向待考）
+种加词 *sensarmai*：以 P.K. Sen-Sarma（印度白蚁学家）命名
 
-EN — epithet *sensarmai*: Named after a person (sensarma), identity uncertain
+EN — epithet *sensarmai*: Named after P.K. Sen-Sarma
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **前菲氏土白蚁** (*Odontotermes profeae*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *profeae*：以人名 profe 命名（具体指向待考）
+种加词 *profeae*：以人名 Profe 命名（具体指代待考）
 
-EN — epithet *profeae*: Named after a person (profe), identity uncertain
+EN — epithet *profeae*: Named after a person "Profe" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

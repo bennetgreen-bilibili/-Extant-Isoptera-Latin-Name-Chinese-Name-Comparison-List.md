@@ -40,9 +40,9 @@ ES — **乌库兹大白蚁** (*Macrotermes ukuzii*) es una especie del género 
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
-种加词 *ukuzii*：以人名 ukuz 命名（具体指向待考）
+种加词 *ukuzii*：以人名 Ukuz 命名（具体身份待考）
 
-EN — epithet *ukuzii*: Named after a person (ukuz), identity uncertain
+EN — epithet *ukuzii*: Named after Ukuz
 
 <!-- src:S0018 -->
 

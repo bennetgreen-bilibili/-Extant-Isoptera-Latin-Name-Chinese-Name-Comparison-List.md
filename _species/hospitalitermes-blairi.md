@@ -38,9 +38,9 @@ ES — **布莱尔须白蚁** (*Hospitalitermes blairi*) es una especie del gén
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *blairi*：以人名 blair 命名（具体指向待考）
+种加词 *blairi*：以人名 Blair 命名
 
-EN — epithet *blairi*: Named after a person (blair), identity uncertain
+EN — epithet *blairi*: Named after Blair
 
 <!-- src:S0018 -->
 

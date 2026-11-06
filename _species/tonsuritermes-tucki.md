@@ -38,9 +38,9 @@ ES — **塔克奇囟白蚁** (*Tonsuritermes tucki*) es una especie, y la espec
 
 EN — *Tonsuritermes*: From Latin tonsus (shorn) + termes.
 
-种加词 *tucki*：以人名 tuck 命名（具体指向待考）
+种加词 *tucki*：以人名 Tuck 命名（具体身份待考）
 
-EN — epithet *tucki*: Named after a person (tuck), identity uncertain
+EN — epithet *tucki*: Named after Tuck
 
 <!-- src:S0018 -->
 

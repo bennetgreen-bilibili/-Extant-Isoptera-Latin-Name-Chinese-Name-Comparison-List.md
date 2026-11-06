@@ -38,9 +38,9 @@ ES — **眉妙针白蚁** (*Aciculitermes maymyoensis*) es una especie del gén
 
 EN — *Aciculitermes*: From Latin acicula (little pin) + termes.
 
-种加词 *maymyoensis*：以地名 maymyo 命名（具体地名待考）
+种加词 *maymyoensis*：以缅甸眉苗（Maymyo，今彬乌伦 Pyin Oo Lwin）命名
 
-EN — epithet *maymyoensis*: Named after a locality (maymyo)
+EN — epithet *maymyoensis*: Named after Maymyo (Pyin Oo Lwin), Myanmar
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **委内瑞拉堆砂白蚁** (*Cryptotermes venezolanus*) es una especie 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *venezolanus*：以地名 venezol 命名（具体地名待考）
+种加词 *venezolanus*：以委内瑞拉（Venezuela）命名
 
-EN — epithet *venezolanus*: Named after a locality (venezol)
+EN — epithet *venezolanus*: Named after Venezuela
 
 <!-- src:S0018 -->
 

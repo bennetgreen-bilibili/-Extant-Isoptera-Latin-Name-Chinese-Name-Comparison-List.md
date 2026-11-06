@@ -38,9 +38,9 @@ ES — **香港象白蚁** (*Nasutitermes dudgeoni*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *dudgeoni*：以人名 dudgeon 命名（具体指向待考）
+种加词 *dudgeoni*：以人名 Dudgeon 命名
 
-EN — epithet *dudgeoni*: Named after a person (dudgeon), identity uncertain
+EN — epithet *dudgeoni*: Named after Dudgeon
 
 <!-- src:S0018 -->
 

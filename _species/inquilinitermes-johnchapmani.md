@@ -38,9 +38,9 @@ ES — **约翰查普曼客白蚁** (*Inquilinitermes johnchapmani*) es una espe
 
 EN — *Inquilinitermes*: From Latin inquilinus (inquiline) + termes.
 
-种加词 *johnchapmani*：以人名 johnchapman 命名（具体指向待考）
+种加词 *johnchapmani*：以人名 John Chapman 命名
 
-EN — epithet *johnchapmani*: Named after a person (johnchapman), identity uncertain
+EN — epithet *johnchapmani*: Named after John Chapman
 
 <!-- src:S0018 -->
 

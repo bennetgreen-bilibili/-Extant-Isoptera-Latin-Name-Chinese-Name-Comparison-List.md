@@ -38,9 +38,9 @@ ES — **托里斯象白蚁** (*Nasutitermes torresi*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *torresi*：以人名 torres 命名（具体指向待考）
+种加词 *torresi*：以人名 Torres 命名（具体身份待考）
 
-EN — epithet *torresi*: Named after a person (torres), identity uncertain
+EN — epithet *torresi*: Named after Torres
 
 <!-- src:S0018 -->
 

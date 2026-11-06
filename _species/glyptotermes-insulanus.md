@@ -35,9 +35,9 @@ ES — **岛栖树白蚁** (*Glyptotermes insulanus*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *insulanus*：以地名 insul 命名（具体地名待考）
+种加词 *insulanus*：拉丁文 insulanus，岛屿的
 
-EN — epithet *insulanus*: Named after a locality (insul)
+EN — epithet *insulanus*: From Latin insulanus, of islands
 
 <!-- src:S0018 -->
 

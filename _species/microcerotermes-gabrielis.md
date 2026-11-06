@@ -38,9 +38,9 @@ ES — **加布里埃利斯锯白蚁** (*Microcerotermes gabrielis*) es una espe
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *gabrielis*：以人名 Gabriel 命名（具体指向待考）
+种加词 *gabrielis*：以人名 Gabriel 命名
 
-EN — epithet *gabrielis*: Named after a person (Gabriel)
+EN — epithet *gabrielis*: Named after Gabriel
 
 <!-- src:S0018 -->
 

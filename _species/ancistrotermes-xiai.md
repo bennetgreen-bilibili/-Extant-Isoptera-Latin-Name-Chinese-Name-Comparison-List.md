@@ -38,9 +38,9 @@ ES — **夏氏钩白蚁** (*Ancistrotermes xiai*) es una especie del género *A
 
 EN — *Ancistrotermes*: From Greek ankistron (hook) + Latin termes.
 
-种加词 *xiai*：以人名 xia 命名（具体指向待考）
+种加词 *xiai*：以人名 Xia（夏，具体身份待考） 命名
 
-EN — epithet *xiai*: Named after a person (xia), identity uncertain
+EN — epithet *xiai*: Named after Xia
 
 <!-- src:S0018 -->
 

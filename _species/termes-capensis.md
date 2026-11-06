@@ -38,9 +38,9 @@ ES — **好望角白蚁** (*Termes capensis*) es una especie del género *Terme
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
-种加词 *capensis*：以地名 cap 命名（具体地名待考）
+种加词 *capensis*：拉丁文 capensis，开普（好望角）的
 
-EN — epithet *capensis*: Named after a locality (cap)
+EN — epithet *capensis*: From Latin capensis, of the Cape (of Good Hope)
 
 <!-- src:S0018 -->
 

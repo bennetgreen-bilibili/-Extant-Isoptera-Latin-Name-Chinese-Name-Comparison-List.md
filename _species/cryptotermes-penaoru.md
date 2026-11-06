@@ -35,9 +35,9 @@ ES — **佩奥鲁堆砂白蚁** (*Cryptotermes penaoru*) es una especie del gé
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *penaoru*：以当地土名或地名命名（具体指向待考）
+种加词 *penaoru*：以瓦努阿图埃斯皮里图桑托岛 Penaoru 村命名
 
-EN — epithet *penaoru*: After a local vernacular name or place (uncertain)
+EN — epithet *penaoru*: Named after Penaoru village, Espiritu Santo, Vanuatu
 
 <!-- src:S0018 -->
 

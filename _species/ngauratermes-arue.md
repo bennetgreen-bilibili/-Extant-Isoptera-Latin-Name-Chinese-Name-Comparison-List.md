@@ -38,9 +38,9 @@ ES — **小凋落白蚁** (*Ngauratermes arue*) es la única especie viviente d
 
 EN — *Ngauratermes*: From the Māori place name Ngaura; -termes from Latin termes.
 
-种加词 *arue*：以当地土名或地名命名（具体指向待考）
+种加词 *arue*：以地名 Arué（巴西亚马逊）命名
 
-EN — epithet *arue*: After a local vernacular name or place (uncertain)
+EN — epithet *arue*: Named after the locality Arué
 
 <!-- src:S0018 -->
 

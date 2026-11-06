@@ -38,9 +38,9 @@ ES — **鲍斯突扭白蚁** (*Dicuspiditermes boseae*) es una especie del gén
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
-种加词 *boseae*：以人名 bose 命名（具体指向待考）
+种加词 *boseae*：以 G. Bose（印度白蚁学家）命名
 
-EN — epithet *boseae*: Named after a person (bose), identity uncertain
+EN — epithet *boseae*: Named after G. Bose
 
 <!-- src:S0018 -->
 

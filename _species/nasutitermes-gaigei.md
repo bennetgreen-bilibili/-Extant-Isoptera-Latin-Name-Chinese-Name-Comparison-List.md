@@ -38,9 +38,9 @@ ES — **盖格象白蚁** (*Nasutitermes gaigei*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *gaigei*：以人名 gaige 命名（具体指向待考）
+种加词 *gaigei*：以人名 Frederick M. Gaige（美国昆虫学家）命名
 
-EN — epithet *gaigei*: Named after a person (gaige), identity uncertain
+EN — epithet *gaigei*: Named after Frederick M. Gaige
 
 <!-- src:S0018 -->
 

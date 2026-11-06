@@ -38,9 +38,9 @@ ES — **帕安角白蚁** (*Angulitermes paanensis*) es una especie del género
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *paanensis*：以地名 paan 命名（具体地名待考）
+种加词 *paanensis*：以地名 Paan 命名
 
-EN — epithet *paanensis*: Named after a locality (paan)
+EN — epithet *paanensis*: Named after the locality Paan
 
 <!-- src:S0018 -->
 

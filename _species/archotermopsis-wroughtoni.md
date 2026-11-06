@@ -37,9 +37,9 @@ ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la
 
 EN — *Archotermopsis*: From Greek archaios (ancient, primitive) + -termopsis (term- 'termite' + -opsis 'appearance'), 'ancient termite-like'.
 
-种加词 *wroughtoni*：以人名 wroughton 命名（具体指向待考）
+种加词 *wroughtoni*：以人名 Wroughton（R. C. Wroughton，英国博物学家） 命名
 
-EN — epithet *wroughtoni*: Named after a person (wroughton), identity uncertain
+EN — epithet *wroughtoni*: Named after R. C. Wroughton (British naturalist)
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **可可缩白蚁** (*Constrictotermes cacaoensis*) es una especie del g�
 
 EN — *Constrictotermes*: From Latin constrictus (constricted) + termes.
 
-种加词 *cacaoensis*：以地名 cacao 命名（具体地名待考）
+种加词 *cacaoensis*：以地名 Cacao（卡考）命名
 
-EN — epithet *cacaoensis*: Named after a locality (cacao)
+EN — epithet *cacaoensis*: Named after the locality Cacao
 
 <!-- src:S0018 -->
 

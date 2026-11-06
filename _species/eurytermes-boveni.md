@@ -38,9 +38,9 @@ ES — **博文宽白蚁** (*Eurytermes boveni*) es una especie del género *Eur
 
 EN — *Eurytermes*: From Greek eurys (broad) + Latin termes.
 
-种加词 *boveni*：以人名 boven 命名（具体指向待考）
+种加词 *boveni*：以人名 van Boven 命名
 
-EN — epithet *boveni*: Named after a person (boven), identity uncertain
+EN — epithet *boveni*: Named after van Boven
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **万鸦东乳白蚁** (*Coptotermes menadoae*) es una especie del géner
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *menadoae*：以人名 menado 命名（具体指向待考）
+种加词 *menadoae*：以印度尼西亚万鸦老（Menado / Manado，苏拉威西）命名
 
-EN — epithet *menadoae*: Named after a person (menado), identity uncertain
+EN — epithet *menadoae*: Named after Menado (Manado), Sulawesi, Indonesia
 
 <!-- src:S0018 -->
 

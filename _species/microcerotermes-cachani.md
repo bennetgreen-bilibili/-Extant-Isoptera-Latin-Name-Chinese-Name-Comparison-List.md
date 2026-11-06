@@ -38,9 +38,9 @@ ES — **卡占锯白蚁** (*Microcerotermes cachani*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *cachani*：以人名 cachan 命名（具体指向待考）
+种加词 *cachani*：以人名 Cachan（Paul Cachan）命名
 
-EN — epithet *cachani*: Named after a person (cachan), identity uncertain
+EN — epithet *cachani*: Named after Paul Cachan
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **斯特伦基锯白蚁** (*Microcerotermes strunckii*) es una especie, y
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *strunckii*：以人名 strunck 命名（具体指向待考）
+种加词 *strunckii*：以人名 Strunck 命名（具体指代待考）
 
-EN — epithet *strunckii*: Named after a person (strunck), identity uncertain
+EN — epithet *strunckii*: Named after a person "Strunck" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

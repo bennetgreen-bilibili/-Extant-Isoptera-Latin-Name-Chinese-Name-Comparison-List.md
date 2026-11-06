@@ -38,9 +38,9 @@ ES — **特里洛克象白蚁** (*Nasutitermes triloki*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *triloki*：以人名 trilok 命名（具体指向待考）
+种加词 *triloki*：以人名 Trilok 命名（具体身份待考）
 
-EN — epithet *triloki*: Named after a person (trilok), identity uncertain
+EN — epithet *triloki*: Named after Trilok
 
 <!-- src:S0018 -->
 

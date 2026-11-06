@@ -38,9 +38,9 @@ ES — **朱里翁双齿白蚁** (*Duplidentitermes jurioni*) es una especie del
 
 EN — *Duplidentitermes*: From Latin duplex (double) + dens (tooth) + termes.
 
-种加词 *jurioni*：以人名 jurion 命名（具体指向待考）
+种加词 *jurioni*：以人名 Jurion 命名
 
-EN — epithet *jurioni*: Named after a person (jurion), identity uncertain
+EN — epithet *jurioni*: Named after Jurion
 
 <!-- src:S0018 -->
 

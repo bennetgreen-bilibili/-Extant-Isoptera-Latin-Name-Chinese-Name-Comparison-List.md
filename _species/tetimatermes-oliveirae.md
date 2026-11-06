@@ -38,9 +38,9 @@ ES — **橄榄树足白蚁** (*Tetimatermes oliveirae*) es la única especie vi
 
 EN — *Tetimatermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *oliveirae*：以人名 oliveir 命名（具体指向待考）
+种加词 *oliveirae*：以人名 Oliveira（奥利韦拉，葡语姓氏）命名
 
-EN — epithet *oliveirae*: Named after a person (oliveir), identity uncertain
+EN — epithet *oliveirae*: Named after Oliveira
 
 <!-- src:S0018 -->
 

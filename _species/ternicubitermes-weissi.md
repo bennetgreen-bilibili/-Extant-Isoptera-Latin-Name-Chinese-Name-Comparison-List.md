@@ -38,9 +38,9 @@ ES — **魏斯三方白蚁** (*Ternicubitermes weissi*) es una especie del gén
 
 EN — *Ternicubitermes*: From Latin terni (three each) + cubitus (elbow) + termes.
 
-种加词 *weissi*：以人名 weiss 命名（具体指向待考）
+种加词 *weissi*：以人名 Weiss（具体身份待考） 命名
 
-EN — epithet *weissi*: Named after a person (weiss), identity uncertain
+EN — epithet *weissi*: Named after Weiss
 
 <!-- src:S0018 -->
 

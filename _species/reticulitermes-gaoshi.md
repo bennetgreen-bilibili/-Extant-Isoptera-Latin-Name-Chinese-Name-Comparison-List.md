@@ -35,9 +35,9 @@ ES — **大囟散白蚁** (*Reticulitermes gaoshi*) es una especie del género 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *gaoshi*：以人名 gaosh 命名（具体指向待考）
+种加词 *gaoshi*：以人名 Gao（高氏，中国）命名
 
-EN — epithet *gaoshi*: Named after a person (gaosh), identity uncertain
+EN — epithet *gaoshi*: Named after Gao (Chinese)
 
 <!-- src:S0018 -->
 

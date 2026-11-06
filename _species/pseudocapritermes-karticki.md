@@ -38,9 +38,9 @@ ES — **卡蒂克伪扭白蚁** (*Pseudocapritermes karticki*) es una especie d
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
-种加词 *karticki*：以人名 kartick 命名（具体指向待考）
+种加词 *karticki*：以人名 Kartic(k) 命名
 
-EN — epithet *karticki*: Named after a person (kartick), identity uncertain
+EN — epithet *karticki*: Named after Kartic(k)
 
 <!-- src:S0018 -->
 

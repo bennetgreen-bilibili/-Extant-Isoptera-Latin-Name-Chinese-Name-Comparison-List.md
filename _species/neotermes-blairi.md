@@ -35,9 +35,9 @@ ES — **布莱尔新白蚁** (*Neotermes blairi*) es una especie del género *N
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *blairi*：以人名 blair 命名（具体指向待考）
+种加词 *blairi*：以人名 Blair 命名
 
-EN — epithet *blairi*: Named after a person (blair), identity uncertain
+EN — epithet *blairi*: Named after Blair
 
 <!-- src:S0018 -->
 

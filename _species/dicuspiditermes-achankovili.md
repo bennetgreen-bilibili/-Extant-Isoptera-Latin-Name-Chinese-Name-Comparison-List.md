@@ -38,9 +38,9 @@ ES — **阿坚柯维尔突扭白蚁** (*Dicuspiditermes achankovili*) es una es
 
 EN — *Dicuspiditermes*: From Latin di- (two) + cuspis (point) + termes.
 
-种加词 *achankovili*：以人名 achankovil 命名（具体指向待考）
+种加词 *achankovili*：以地名 Achankovil（阿钱科维尔）命名
 
-EN — epithet *achankovili*: Named after a person (achankovil), identity uncertain
+EN — epithet *achankovili*: Named after the locality Achankovil
 
 <!-- src:S0018 -->
 

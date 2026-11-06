@@ -38,9 +38,9 @@ ES — **杜米萨锯白蚁** (*Microcerotermes dumisae*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *dumisae*：以人名 dumis 命名（具体指向待考）
+种加词 *dumisae*：以人名 Dumisa（非洲人名）命名
 
-EN — epithet *dumisae*: Named after a person (dumis), identity uncertain
+EN — epithet *dumisae*: Named after Dumisa
 
 <!-- src:S0018 -->
 

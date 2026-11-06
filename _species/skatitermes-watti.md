@@ -38,9 +38,9 @@ ES — **瓦特洁白蚁** (*Skatitermes watti*) es una especie del género *Ska
 
 EN — *Skatitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *watti*：以人名 watt 命名（具体指向待考）
+种加词 *watti*：以人名 Watt 命名（具体身份待考）
 
-EN — epithet *watti*: Named after a person (watt), identity uncertain
+EN — epithet *watti*: Named after Watt
 
 <!-- src:S0018 -->
 

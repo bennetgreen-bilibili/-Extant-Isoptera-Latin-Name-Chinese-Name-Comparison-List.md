@@ -38,9 +38,9 @@ ES — **巴雷特镰白蚁** (*Drepanotermes barretti*) es una especie del gén
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
-种加词 *barretti*：以人名 Barrett 命名（具体指向待考）
+种加词 *barretti*：以人名 Barrett 命名
 
-EN — epithet *barretti*: Named after a person (Barrett), identity uncertain
+EN — epithet *barretti*: Named after Barrett
 
 <!-- src:S0018 -->
 

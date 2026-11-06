@@ -38,9 +38,9 @@ ES — **通沙朗象白蚁** (*Nasutitermes tungsalangensis*) es una especie de
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *tungsalangensis*：以地名 tungsalang 命名（具体地名待考）
+种加词 *tungsalangensis*：以地名 Tung Salang（泰国） 命名
 
-EN — epithet *tungsalangensis*: Named after a locality (tungsalang)
+EN — epithet *tungsalangensis*: Named after the locality Tung Salang (Thailand)
 
 <!-- src:S0018 -->
 

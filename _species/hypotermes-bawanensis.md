@@ -38,9 +38,9 @@ ES — **坝湾地白蚁** (*Hypotermes bawanensis*) es una especie del género 
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
-种加词 *bawanensis*：以地名 bawan 命名（具体地名待考）
+种加词 *bawanensis*：以地名 Bawan 命名
 
-EN — epithet *bawanensis*: Named after a locality (bawan)
+EN — epithet *bawanensis*: Named after the locality Bawan
 
 <!-- src:S0018 -->
 

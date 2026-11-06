@@ -38,9 +38,9 @@ ES — **尤鲁帕里螺旋白蚁** (*Spiralitermes jurupari*) es la única espe
 
 EN — *Spiralitermes*: From Latin spiralis (spiral) + termes.
 
-种加词 *jurupari*：以人名 jurupar 命名（具体指向待考）
+种加词 *jurupari*：以亚马孙神话人物 Jurupari（尤鲁帕里）命名
 
-EN — epithet *jurupari*: Named after a person (jurupar), identity uncertain
+EN — epithet *jurupari*: Named after Jurupari (Amazonian mythological figure)
 
 <!-- src:S0018 -->
 

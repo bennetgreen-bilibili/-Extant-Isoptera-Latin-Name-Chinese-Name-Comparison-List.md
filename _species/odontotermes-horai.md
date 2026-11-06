@@ -38,9 +38,9 @@ ES — **霍拉土白蚁** (*Odontotermes horai*) es una especie del género *Od
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *horai*：以人名 hora 命名（具体指向待考）
+种加词 *horai*：以人名 Sunder Lal Hora（印度鱼类学家）命名
 
-EN — epithet *horai*: Named after a person (hora), identity uncertain
+EN — epithet *horai*: Named after Sunder Lal Hora
 
 <!-- src:S0018 -->
 

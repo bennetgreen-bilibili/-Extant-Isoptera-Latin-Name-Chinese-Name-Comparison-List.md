@@ -35,9 +35,9 @@ ES — **沙明棒鼻白蚁** (*Parrhinotermes shamimi*) es una especie del gén
 
 EN — *Parrhinotermes*: From Greek para- (beside) + rhis (nose) + Latin termes.
 
-种加词 *shamimi*：以人名 shamim 命名（具体指向待考）
+种加词 *shamimi*：以人名 Shamim 命名（具体指代待考）
 
-EN — epithet *shamimi*: Named after a person (shamim), identity uncertain
+EN — epithet *shamimi*: Named after a person "Shamim" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

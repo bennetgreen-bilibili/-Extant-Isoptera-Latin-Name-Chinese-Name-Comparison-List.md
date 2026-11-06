@@ -38,9 +38,9 @@ ES — **卡普尔土白蚁** (*Odontotermes kapuri*) es una especie del género
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *kapuri*：以人名 kapur 命名（具体指向待考）
+种加词 *kapuri*：以人名 A. P. Kapur（印度昆虫学家）命名
 
-EN — epithet *kapuri*: Named after a person (kapur), identity uncertain
+EN — epithet *kapuri*: Named after A. P. Kapur
 
 <!-- src:S0018 -->
 

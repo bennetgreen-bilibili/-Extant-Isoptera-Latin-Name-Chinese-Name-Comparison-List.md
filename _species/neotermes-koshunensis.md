@@ -37,9 +37,9 @@ ES — **恒春新白蚁** (*Neotermes koshunensis*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *koshunensis*：以地名 koshun 命名（具体地名待考）
+种加词 *koshunensis*：以地名 Koshun（台湾恒春）命名
 
-EN — epithet *koshunensis*: Named after a locality (koshun)
+EN — epithet *koshunensis*: Named after Koshun (Hengchun, Taiwan)
 
 <!-- src:S0018 -->
 

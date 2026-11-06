@@ -38,9 +38,9 @@ ES — **科图瓦小锡兰白蚁** (*Ceylonitermellus kotuae*) es una especie d
 
 EN — *Ceylonitermellus*: From Ceylon (Sri Lanka) + diminutive -ellus (with termes).
 
-种加词 *kotuae*：以人名 kotu 命名（具体指向待考）
+种加词 *kotuae*：以地名 Kotuwa（斯里兰卡加勒）命名
 
-EN — epithet *kotuae*: Named after a person (kotu), identity uncertain
+EN — epithet *kotuae*: Named after Kotuwa (Galle, Sri Lanka)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **穿山甲杆白蚁** (*Stylotermes halumicus*) es una especie del géne
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
-种加词 *halumicus*：以地名 halum 命名（具体地名待考）
+种加词 *halumicus*：取自布农族语 halum（穿山甲）
 
-EN — epithet *halumicus*: Named after a locality (halum)
+EN — epithet *halumicus*: From the Bunun word halum (pangolin)
 
 <!-- src:S0018 -->
 

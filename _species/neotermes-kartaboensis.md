@@ -35,9 +35,9 @@ ES — **卡尔塔波新白蚁** (*Neotermes kartaboensis*) es una especie del g
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *kartaboensis*：以地名 kartabo 命名（具体地名待考）
+种加词 *kartaboensis*：以地名 Kartabo（圭亚那）命名
 
-EN — epithet *kartaboensis*: Named after a locality (kartabo)
+EN — epithet *kartaboensis*: Named after Kartabo (Guyana)
 
 <!-- src:S0018 -->
 

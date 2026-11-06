@@ -38,9 +38,9 @@ ES — **柯林斯微白蚁** (*Parvitermes collinsae*) es una especie del géne
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
-种加词 *collinsae*：以人名 collins 命名（具体指向待考）
+种加词 *collinsae*：以人名 Collins 命名
 
-EN — epithet *collinsae*: Named after a person (collins), identity uncertain
+EN — epithet *collinsae*: Named after Collins
 
 <!-- src:S0018 -->
 

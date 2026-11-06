@@ -35,9 +35,9 @@ ES — **乌姆塔塔木白蚁** (*Kalotermes umtatae*) es una especie del géne
 
 EN — *Kalotermes*: From Greek kalos (beautiful) + Latin termes.
 
-种加词 *umtatae*：以人名 umtat 命名（具体指向待考）
+种加词 *umtatae*：以乌姆塔塔（Umtata，南非）命名
 
-EN — epithet *umtatae*: Named after a person (umtat), identity uncertain
+EN — epithet *umtatae*: Named after Umtata (South Africa)
 
 <!-- src:S0018 -->
 

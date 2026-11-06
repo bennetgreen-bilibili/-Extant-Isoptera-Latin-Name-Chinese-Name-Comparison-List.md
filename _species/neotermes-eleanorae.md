@@ -35,9 +35,9 @@ ES — **埃莉诺新白蚁** (*Neotermes eleanorae*) es una especie del género
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *eleanorae*：以人名 eleanor 命名（具体指向待考）
+种加词 *eleanorae*：以人名 Eleanor 命名
 
-EN — epithet *eleanorae*: Named after a person (eleanor), identity uncertain
+EN — epithet *eleanorae*: Named after Eleanor
 
 <!-- src:S0018 -->
 

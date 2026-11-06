@@ -38,9 +38,9 @@ ES — **无刀无甲白蚁** (*Anenteotermes amachetus*) es una especie del gé
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *amachetus*：词源未详
+种加词 *amachetus*：希腊语 amachētos（不可战胜的）；原始描述未明示，据词根拆解
 
-EN — epithet *amachetus*: Etymology uncertain
+EN — epithet *amachetus*: From Greek amachētos (invincible); not stated in original description
 
 <!-- src:S0018 -->
 

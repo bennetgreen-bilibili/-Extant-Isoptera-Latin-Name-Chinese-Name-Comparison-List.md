@@ -38,9 +38,9 @@ ES — **里兹尼利颚白蚁** (*Cortaritermes rizzinii*) es una especie del g
 
 EN — *Cortaritermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *rizzinii*：以人名 rizzin 命名（具体指向待考）
+种加词 *rizzinii*：以人名 Rizzini 命名（具体指代待考）
 
-EN — epithet *rizzinii*: Named after a person (rizzin), identity uncertain
+EN — epithet *rizzinii*: Named after a person "Rizzini" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

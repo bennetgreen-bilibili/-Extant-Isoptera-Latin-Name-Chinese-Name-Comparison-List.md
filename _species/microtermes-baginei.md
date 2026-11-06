@@ -38,9 +38,9 @@ ES — **巴吉勒小白蚁** (*Microtermes baginei*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *baginei*：以人名 bagine 命名（具体指向待考）
+种加词 *baginei*：以人名 Baginet 命名
 
-EN — epithet *baginei*: Named after a person (bagine), identity uncertain
+EN — epithet *baginei*: Named after Baginet
 
 <!-- src:S0018 -->
 

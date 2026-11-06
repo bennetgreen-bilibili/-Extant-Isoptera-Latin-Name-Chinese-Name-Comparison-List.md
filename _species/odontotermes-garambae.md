@@ -38,9 +38,9 @@ ES — **加兰巴土白蚁** (*Odontotermes garambae*) es una especie del géne
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *garambae*：以人名 garamb 命名（具体指向待考）
+种加词 *garambae*：以地名 Garamba（刚果民主共和国加兰巴）命名
 
-EN — epithet *garambae*: Named after a person (garamb), identity uncertain
+EN — epithet *garambae*: Named after the locality Garamba (DR Congo)
 
 <!-- src:S0018 -->
 

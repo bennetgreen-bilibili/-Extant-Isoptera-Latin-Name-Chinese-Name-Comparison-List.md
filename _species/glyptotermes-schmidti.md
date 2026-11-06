@@ -35,9 +35,9 @@ ES — **施密德树白蚁** (*Glyptotermes schmidti*) es una especie del géne
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *schmidti*：以人名 schmidt 命名（具体指向待考）
+种加词 *schmidti*：以人名 Schmidt 命名（具体指代待考）
 
-EN — epithet *schmidti*: Named after a person (schmidt), identity uncertain
+EN — epithet *schmidti*: Named after a person "Schmidt" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

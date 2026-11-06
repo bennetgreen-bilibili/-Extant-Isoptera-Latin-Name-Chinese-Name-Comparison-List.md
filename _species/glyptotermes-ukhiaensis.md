@@ -35,9 +35,9 @@ ES — **乌吉亚树白蚁** (*Glyptotermes ukhiaensis*) es una especie del gé
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *ukhiaensis*：以地名 ukhia 命名（具体地名待考）
+种加词 *ukhiaensis*：以地名 Ukhia（孟加拉） 命名
 
-EN — epithet *ukhiaensis*: Named after a locality (ukhia)
+EN — epithet *ukhiaensis*: Named after the locality Ukhia (Bangladesh)
 
 <!-- src:S0018 -->
 

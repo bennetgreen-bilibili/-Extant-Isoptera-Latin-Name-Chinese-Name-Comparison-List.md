@@ -38,9 +38,9 @@ ES — **韦伯角象白蚁** (*Cornitermes weberi*) es una especie del género 
 
 EN — *Cornitermes*: From Latin cornu (horn) + termes.
 
-种加词 *weberi*：以人名 weber 命名（具体指向待考）
+种加词 *weberi*：以人名 Weber（具体身份待考） 命名
 
-EN — epithet *weberi*: Named after a person (weber), identity uncertain
+EN — epithet *weberi*: Named after Weber
 
 <!-- src:S0018 -->
 

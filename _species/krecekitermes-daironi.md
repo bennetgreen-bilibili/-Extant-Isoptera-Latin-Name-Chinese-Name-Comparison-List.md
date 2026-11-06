@@ -38,9 +38,9 @@ ES — **戴龙克雷切克白蚁** (*Krecekitermes daironi*) es la única espec
 
 EN — *Krecekitermes*: Named after a person (Krecek); -termes from Latin termes.
 
-种加词 *daironi*：以人名 dairon 命名（具体指向待考）
+种加词 *daironi*：以人名 Dairon 命名
 
-EN — epithet *daironi*: Named after a person (dairon), identity uncertain
+EN — epithet *daironi*: Named after Dairon
 
 <!-- src:S0018 -->
 

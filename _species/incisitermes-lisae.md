@@ -35,9 +35,9 @@ ES — **莉萨楹白蚁** (*Incisitermes lisae*) es una especie del género *In
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *lisae*：以人名 lis 命名（具体指向待考）
+种加词 *lisae*：以人名 Lisa（丽莎）命名
 
-EN — epithet *lisae*: Named after a person (lis), identity uncertain
+EN — epithet *lisae*: Named after Lisa
 
 <!-- src:S0018 -->
 

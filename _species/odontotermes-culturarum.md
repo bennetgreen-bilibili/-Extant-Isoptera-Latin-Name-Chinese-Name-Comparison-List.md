@@ -38,9 +38,9 @@ ES — **栽培土白蚁** (*Odontotermes culturarum*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *culturarum*：以人名 cultur 命名（具体指向待考）
+种加词 *culturarum*：拉丁文 cultura（栽培）复数属格，栽培的
 
-EN — epithet *culturarum*: Named after a person (cultur), identity uncertain
+EN — epithet *culturarum*: From Latin cultura (cultivation)
 
 <!-- src:S0018 -->
 

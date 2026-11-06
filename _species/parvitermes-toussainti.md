@@ -38,9 +38,9 @@ ES — **图森特微白蚁** (*Parvitermes toussainti*) es una especie del gén
 
 EN — *Parvitermes*: From Latin parvus (small) + termes.
 
-种加词 *toussainti*：以人名 toussaint 命名（具体指向待考）
+种加词 *toussainti*：以人名 Toussaint 命名（具体身份待考）
 
-EN — epithet *toussainti*: Named after a person (toussaint), identity uncertain
+EN — epithet *toussainti*: Named after Toussaint
 
 <!-- src:S0018 -->
 

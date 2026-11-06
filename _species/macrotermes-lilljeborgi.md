@@ -38,9 +38,9 @@ ES — **利勒伯格大白蚁** (*Macrotermes lilljeborgi*) es una especie, y l
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
-种加词 *lilljeborgi*：以人名 lilljeborg 命名（具体指向待考）
+种加词 *lilljeborgi*：以人名 Lilljeborg（利尔耶博里）命名（瑞典动物学家 Wilhelm Lilljeborg）
 
-EN — epithet *lilljeborgi*: Named after a person (lilljeborg), identity uncertain
+EN — epithet *lilljeborgi*: Named after Lilljeborg (Swedish zoologist Wilhelm Lilljeborg)
 
 <!-- src:S0018 -->
 

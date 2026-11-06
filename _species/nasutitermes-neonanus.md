@@ -38,9 +38,9 @@ ES — **新鼻象白蚁** (*Nasutitermes neonanus*) es una especie del género 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *neonanus*：以地名 neon 命名（具体地名待考）
+种加词 *neonanus*：拉丁文 neo（新的）+ nanus（矮小的），意为“新的矮小种”
 
-EN — epithet *neonanus*: Named after a locality (neon)
+EN — epithet *neonanus*: From Latin neo (new) + nanus (dwarf)
 
 <!-- src:S0018 -->
 

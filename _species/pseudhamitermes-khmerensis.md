@@ -38,9 +38,9 @@ ES — **高棉伪钩白蚁** (*Pseudhamitermes khmerensis*) es una especie, y l
 
 EN — *Pseudhamitermes*: From Greek pseudēs (false) + (hami, perhaps Latin hamus 'hook') + termes.
 
-种加词 *khmerensis*：以地名 khmer 命名（具体地名待考）
+种加词 *khmerensis*：以高棉（Khmer，柬埔寨）命名
 
-EN — epithet *khmerensis*: Named after a locality (khmer)
+EN — epithet *khmerensis*: Named after Khmer (Cambodia)
 
 <!-- src:S0018 -->
 

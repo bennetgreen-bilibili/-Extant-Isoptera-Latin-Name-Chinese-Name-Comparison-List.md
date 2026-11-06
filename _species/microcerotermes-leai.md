@@ -38,9 +38,9 @@ ES — **莉锯白蚁** (*Microcerotermes leai*) es una especie del género *Mic
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *leai*：以人名 lea 命名（具体指向待考）
+种加词 *leai*：以人名 Lea（利）命名（疑为澳大利亚昆虫学家 Arthur Mills Lea）
 
-EN — epithet *leai*: Named after a person (lea), identity uncertain
+EN — epithet *leai*: Named after Lea (likely Australian entomologist A. M. Lea)
 
 <!-- src:S0018 -->
 

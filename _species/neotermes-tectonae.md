@@ -35,9 +35,9 @@ ES — **柚木新白蚁** (*Neotermes tectonae*) es una especie del género *Ne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *tectonae*：以人名 tecton 命名（具体指向待考）
+种加词 *tectonae*：拉丁文 柚木（Tectona grandis，柚木属的）
 
-EN — epithet *tectonae*: Named after a person (tecton), identity uncertain
+EN — epithet *tectonae*: From Latin Of Tectona (teak tree)
 
 <!-- src:S0018 -->
 

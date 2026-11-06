@@ -41,9 +41,9 @@ ES — **指名亚种** (*Nasutitermes matangensis matangensis*) es una subespec
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *matangensis*：以地名 matang 命名（具体地名待考）
+种加词 *matangensis*：以马来西亚沙捞越马当（Matang）命名
 
-EN — epithet *matangensis*: Named after a locality (matang)
+EN — epithet *matangensis*: Named after Matang, Sarawak, Malaysia
 
 <!-- src:S0018 -->
 

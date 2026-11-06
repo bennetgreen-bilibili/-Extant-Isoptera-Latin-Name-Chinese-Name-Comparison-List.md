@@ -38,9 +38,9 @@ ES — **卡夫拉尼亚土白蚁** (*Odontotermes caffrariae*) es una especie d
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *caffrariae*：以人名 caffrari 命名（具体指向待考）
+种加词 *caffrariae*：以卡菲尔（Kaffraria，南非）命名
 
-EN — epithet *caffrariae*: Named after a person (caffrari), identity uncertain
+EN — epithet *caffrariae*: Named after Kaffraria (South Africa)
 
 <!-- src:S0018 -->
 

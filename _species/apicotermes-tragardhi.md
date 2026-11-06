@@ -38,9 +38,9 @@ ES — **特雷高尖白蚁** (*Apicotermes tragardhi*) es una especie, y la esp
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
-种加词 *tragardhi*：以人名 tragardh 命名（具体指向待考）
+种加词 *tragardhi*：以人名 Trägårdh（Ivar Trägårdh，瑞典昆虫学家） 命名
 
-EN — epithet *tragardhi*: Named after a person (tragardh), identity uncertain
+EN — epithet *tragardhi*: Named after Ivar Trägårdh (Swedish entomologist)
 
 <!-- src:S0018 -->
 

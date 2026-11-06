@@ -35,9 +35,9 @@ ES — **尼科巴树白蚁** (*Glyptotermes nicobarensis*) es una especie del g
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *nicobarensis*：以地名 nicobar 命名（具体地名待考）
+种加词 *nicobarensis*：以尼科巴群岛（Nicobar）命名
 
-EN — epithet *nicobarensis*: Named after a locality (nicobar)
+EN — epithet *nicobarensis*: Named after the Nicobar Islands
 
 <!-- src:S0018 -->
 

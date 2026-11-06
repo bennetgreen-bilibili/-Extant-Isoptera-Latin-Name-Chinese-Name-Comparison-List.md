@@ -35,9 +35,9 @@ ES — **肯帕上木白蚁** (*Epicalotermes kempae*) es una especie del géner
 
 EN — *Epicalotermes*: From Greek epi- (upon) + kalos (beautiful) + Latin termes.
 
-种加词 *kempae*：以人名 kemp 命名（具体指向待考）
+种加词 *kempae*：以人名 Kemp 命名
 
-EN — epithet *kempae*: Named after a person (kemp), identity uncertain
+EN — epithet *kempae*: Named after Kemp
 
 <!-- src:S0018 -->
 

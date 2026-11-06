@@ -38,9 +38,9 @@ ES — **蔡氏象白蚁** (*Nasutitermes tsaii*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *tsaii*：以人名 tsa 命名（具体指向待考）
+种加词 *tsaii*：以人名 Tsai（蔡，具体身份待考） 命名
 
-EN — epithet *tsaii*: Named after a person (tsa), identity uncertain
+EN — epithet *tsaii*: Named after Tsai
 
 <!-- src:S0018 -->
 

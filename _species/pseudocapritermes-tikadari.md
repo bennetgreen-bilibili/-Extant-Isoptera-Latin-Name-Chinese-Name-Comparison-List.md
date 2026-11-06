@@ -40,9 +40,9 @@ ES — **铁卡达伪扭白蚁** (*Pseudocapritermes tikadari*) es una especie d
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
-种加词 *tikadari*：以人名 tikadar 命名（具体指向待考）
+种加词 *tikadari*：以人名 Tikader（B. K. Tikader，印度蛛形学家） 命名
 
-EN — epithet *tikadari*: Named after a person (tikadar), identity uncertain
+EN — epithet *tikadari*: Named after B. K. Tikader (Indian arachnologist)
 
 <!-- src:S0018 -->
 

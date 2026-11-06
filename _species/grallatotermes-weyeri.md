@@ -38,9 +38,9 @@ ES — **韦耶高跷白蚁** (*Grallatotermes weyeri*) es una especie del géne
 
 EN — *Grallatotermes*: From Latin grallator (stilt-walker) + termes.
 
-种加词 *weyeri*：以人名 weyer 命名（具体指向待考）
+种加词 *weyeri*：以人名 Weyer 命名（具体身份待考）
 
-EN — epithet *weyeri*: Named after a person (weyer), identity uncertain
+EN — epithet *weyeri*: Named after Weyer
 
 <!-- src:S0018 -->
 

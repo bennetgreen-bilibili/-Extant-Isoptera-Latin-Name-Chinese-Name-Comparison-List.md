@@ -35,9 +35,9 @@ ES — **红树楹白蚁** (*Incisitermes rhyzophorae*) es una especie del géne
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *rhyzophorae*：以人名 rhyzophor 命名（具体指向待考）
+种加词 *rhyzophorae*：以红树属（Rhizophora）命名
 
-EN — epithet *rhyzophorae*: Named after a person (rhyzophor), identity uncertain
+EN — epithet *rhyzophorae*: After the plant genus Rhizophora
 
 <!-- src:S0018 -->
 

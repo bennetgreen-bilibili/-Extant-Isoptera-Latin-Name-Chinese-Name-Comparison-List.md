@@ -35,9 +35,9 @@ ES — **阿马尼乳白蚁** (*Coptotermes amanii*) es una especie del género 
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *amanii*：以人名 aman 命名（具体指向待考）
+种加词 *amanii*：以地名 Amani（阿马尼）命名
 
-EN — epithet *amanii*: Named after a person (aman), identity uncertain
+EN — epithet *amanii*: Named after the locality Amani
 
 <!-- src:S0018 -->
 

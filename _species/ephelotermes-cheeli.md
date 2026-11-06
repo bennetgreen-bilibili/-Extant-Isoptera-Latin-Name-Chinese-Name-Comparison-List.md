@@ -40,9 +40,9 @@ ES — **奇尔棒颚白蚁** (*Ephelotermes cheeli*) es una especie del género
 
 EN — *Ephelotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *cheeli*：以人名 cheel 命名（具体指向待考）
+种加词 *cheeli*：以人名 Cheel 命名
 
-EN — epithet *cheeli*: Named after a person (cheel), identity uncertain
+EN — epithet *cheeli*: Named after Cheel
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **加帕蒂土白蚁** (*Odontotermes ganpati*) es una especie del géner
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *ganpati*：以人名 ganpat 命名（具体指向待考）
+种加词 *ganpati*：以神祇/人名 Ganpati（Ganesha 象头神）命名
 
-EN — epithet *ganpati*: Named after a person (ganpat), identity uncertain
+EN — epithet *ganpati*: Named after Ganpati (Hindu deity Ganesha)
 
 <!-- src:S0018 -->
 

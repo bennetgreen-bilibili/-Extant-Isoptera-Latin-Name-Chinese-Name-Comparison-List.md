@@ -38,9 +38,9 @@ ES — **乌蒂亚里蒂新扭白蚁** (*Neocapritermes utiariti*) es una especi
 
 EN — *Neocapritermes*: From Greek neos (new) + Latin caper (goat) + termes.
 
-种加词 *utiariti*：以人名 utiarit 命名（具体指向待考）
+种加词 *utiariti*：以地名 Utiariti（巴西马托格罗索） 命名
 
-EN — epithet *utiariti*: Named after a person (utiarit), identity uncertain
+EN — epithet *utiariti*: Named after the locality Utiariti (Mato Grosso, Brazil)
 
 <!-- src:S0018 -->
 

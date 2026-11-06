@@ -38,9 +38,9 @@ ES — **努登舍尔德象白蚁** (*Nasutitermes nordenskioldi*) es una especi
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *nordenskioldi*：以人名 nordenskiold 命名（具体指向待考）
+种加词 *nordenskioldi*：以人名 Nordenskiöld（诺登舍尔德）命名（瑞典-芬兰探险家 Adolf Erik Nordenskiöld）
 
-EN — epithet *nordenskioldi*: Named after a person (nordenskiold), identity uncertain
+EN — epithet *nordenskioldi*: Named after Nordenskiöld (Swedish-Finnish explorer A. E. Nordenskiöld)
 
 <!-- src:S0018 -->
 

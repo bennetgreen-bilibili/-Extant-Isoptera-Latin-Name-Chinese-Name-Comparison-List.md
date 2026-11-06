@@ -35,9 +35,9 @@ ES — **萨拉赞新白蚁** (*Neotermes sarasini*) es una especie del género 
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *sarasini*：以人名 sarasin 命名（具体指向待考）
+种加词 *sarasini*：以人名 Sarasin（Fritz 与 Paul Sarasin，瑞士博物学家）命名
 
-EN — epithet *sarasini*: Named after a person (sarasin), identity uncertain
+EN — epithet *sarasini*: Named after Fritz and Paul Sarasin (Swiss naturalists)
 
 <!-- src:S0018 -->
 

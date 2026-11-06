@@ -35,9 +35,9 @@ ES — **布赖内尔长鼻白蚁** (*Schedorhinotermes breinli*) es una especie
 
 EN — *Schedorhinotermes*: From Greek schedon (near) + rhis (nose) + Latin termes.
 
-种加词 *breinli*：以人名 breinl 命名（具体指向待考）
+种加词 *breinli*：以人名 Breinl 命名
 
-EN — epithet *breinli*: Named after a person (breinl), identity uncertain
+EN — epithet *breinli*: Named after Breinl
 
 <!-- src:S0018 -->
 

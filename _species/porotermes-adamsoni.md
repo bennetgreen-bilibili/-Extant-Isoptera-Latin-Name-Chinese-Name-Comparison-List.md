@@ -37,9 +37,9 @@ ES — **亚当森洞白蚁** (*Porotermes adamsoni*) es una especie del género
 
 EN — *Porotermes*: From Greek poros (pore, passage) + Latin termes.
 
-种加词 *adamsoni*：以人名 adamson 命名（具体指向待考）
+种加词 *adamsoni*：以人名 Adamson 命名
 
-EN — epithet *adamsoni*: Named after a person (adamson), identity uncertain
+EN — epithet *adamsoni*: Named after Adamson
 
 <!-- src:S0018 -->
 

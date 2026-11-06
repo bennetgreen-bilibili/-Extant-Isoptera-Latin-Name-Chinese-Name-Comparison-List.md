@@ -38,9 +38,9 @@ ES — **本杰明生白蚁** (*Embiratermes benjamini*) es una especie del gén
 
 EN — *Embiratermes*: From Tupi Embirá (a tree) + -termes.
 
-种加词 *benjamini*：以人名 benjamin 命名（具体指向待考）
+种加词 *benjamini*：以人名 Benjamin 命名
 
-EN — epithet *benjamini*: Named after a person (benjamin), identity uncertain
+EN — epithet *benjamini*: Named after Benjamin
 
 <!-- src:S0018 -->
 

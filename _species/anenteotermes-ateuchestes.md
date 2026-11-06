@@ -38,9 +38,9 @@ ES — **无锐无甲白蚁** (*Anenteotermes ateuchestes*) es una especie del g
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *ateuchestes*：词源未详
+种加词 *ateuchestes*：希腊语 ateuchēs（无武装，a-+teuchos 武器），与属名 Anenteotermes「无战斗装备」同源；原始描述未明示
 
-EN — epithet *ateuchestes*: Etymology uncertain
+EN — epithet *ateuchestes*: From Greek ateuchēs (unarmed), cognate with genus name Anenteotermes
 
 <!-- src:S0018 -->
 

@@ -40,9 +40,9 @@ ES — **墨西拿弓白蚁** (*Amitermes messinae*) es una especie del género 
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *messinae*：以人名 messin 命名（具体指向待考）
+种加词 *messinae*：以南非墨西拿（Messina，今 Musina 穆西纳）命名
 
-EN — epithet *messinae*: Named after a person (messin), identity uncertain
+EN — epithet *messinae*: Named after Messina (Musina), South Africa
 
 <!-- src:S0018 -->
 

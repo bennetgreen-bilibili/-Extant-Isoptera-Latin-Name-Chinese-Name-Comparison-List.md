@@ -38,9 +38,9 @@ ES — **穆利小白蚁** (*Microtermes mulii*) es una especie del género *Mic
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *mulii*：以人名 mul 命名（具体指向待考）
+种加词 *mulii*：以人名 Muli 命名
 
-EN — epithet *mulii*: Named after a person (mul), identity uncertain
+EN — epithet *mulii*: Named after Muli
 
 <!-- src:S0018 -->
 

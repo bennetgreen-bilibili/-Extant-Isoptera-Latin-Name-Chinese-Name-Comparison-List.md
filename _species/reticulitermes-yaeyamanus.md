@@ -35,9 +35,9 @@ ES — **八重山散白蚁** (*Reticulitermes yaeyamanus*) es una especie del g
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *yaeyamanus*：以地名 yaeyam 命名（具体地名待考）
+种加词 *yaeyamanus*：以八重山（Yaeyama，日本）命名
 
-EN — epithet *yaeyamanus*: Named after a locality (yaeyam)
+EN — epithet *yaeyamanus*: Named after Yaeyama (Japan)
 
 <!-- src:S0018 -->
 

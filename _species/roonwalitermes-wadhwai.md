@@ -38,9 +38,9 @@ ES — **沃德瓦鲁恩沃白蚁** (*Roonwalitermes wadhwai*) es la única espe
 
 EN — *Roonwalitermes*: Named after the termite taxonomist M. L. Roonwal; -termes from Latin termes.
 
-种加词 *wadhwai*：以人名 wadhwa 命名（具体指向待考）
+种加词 *wadhwai*：以人名 Wadhwa（印度人名） 命名
 
-EN — epithet *wadhwai*: Named after a person (wadhwa), identity uncertain
+EN — epithet *wadhwai*: Named after Wadhwa
 
 <!-- src:S0018 -->
 

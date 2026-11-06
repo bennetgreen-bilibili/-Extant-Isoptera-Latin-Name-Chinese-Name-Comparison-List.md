@@ -35,9 +35,9 @@ ES — **冲绳散白蚁** (*Reticulitermes okinawanus*) es una especie del gén
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *okinawanus*：以地名 okinaw 命名（具体地名待考）
+种加词 *okinawanus*：以冲绳（Okinawa，日本）命名
 
-EN — epithet *okinawanus*: Named after a locality (okinaw)
+EN — epithet *okinawanus*: Named after Okinawa (Japan)
 
 <!-- src:S0018 -->
 

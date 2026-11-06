@@ -38,9 +38,9 @@ ES — **钳白蚁** (*Termes marjoriae*) es una especie del género *Termes*, e
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
-种加词 *marjoriae*：以人名 marjori 命名（具体指向待考）
+种加词 *marjoriae*：以人名 Marjorie（玛乔丽）命名
 
-EN — epithet *marjoriae*: Named after a person (marjori), identity uncertain
+EN — epithet *marjoriae*: Named after Marjorie
 
 <!-- src:S0018 -->
 

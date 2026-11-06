@@ -38,9 +38,9 @@ ES — **湄索德土白蚁** (*Odontotermes maesodensis*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *maesodensis*：以地名 maesod 命名（具体地名待考）
+种加词 *maesodensis*：以泰国湄索（Mae Sot / Maesod）命名
 
-EN — epithet *maesodensis*: Named after a locality (maesod)
+EN — epithet *maesodensis*: Named after Mae Sot, Thailand
 
 <!-- src:S0018 -->
 

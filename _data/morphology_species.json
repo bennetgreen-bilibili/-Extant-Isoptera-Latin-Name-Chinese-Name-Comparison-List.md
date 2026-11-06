@@ -1608,5 +1608,133 @@
       }
     ],
     "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/cornicapritermes-mucronatus/": {
+    "zh_name": "尖锐角扭白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Paracapritermes、Mirocapritermes、Quasitermes 相比，兵蚁上颚的不对称更强、工蚁第二缘齿更不明显；Emerson（1950）认为四者中 Paracapritermes 最一般化，Mirocapritermes 次之，Quasitermes 再次，Cornicapritermes 最特化。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头厚而长，两侧微弯；额部锥状突前指，远超上颚基部，端部略上翘，端前下方有一小瘤，似为囟孔开口。"
+      },
+      {
+        "label": "工蚁",
+        "text": "端齿明显大于第一缘齿；右上颚第二缘齿退化或消失；左上颚第三缘齿与愈合的第一、第二缘齿之间有一小缺刻。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 13（Cornicapritermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 14（Cornicapritermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 14（Cornicapritermes 工蚁）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/fastigitermes-jucundus/": {
+    "zh_name": "可爱峰白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头前部覆盖上颚基部，与 Basidentitermes（不覆盖）相反；Emerson（1928）把 M. jucundus 暂作 Mirotermes 的亚属，并同意 Sjöstedt 为它另立 Fastigitermes。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头顶在囟孔开口上方的隆起更向前伸；与 Profastigitermes 相比，后颏的后向突出物比例大得多，末端为单一而相当尖锐的后指刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 419（兵蚁检索表）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 42（Profastigitermes 兵蚁诊断）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 42（Profastigitermes 兵蚁诊断）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/profastigitermes-putnami/": {
+    "zh_name": "帕特南前峰白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "头顶在囟孔开口之上、略偏后者为圆驼峰（Fastigitermes 的驼峰更向前伸）；后颏自下方收狭，最窄处为一显著的双尖突，而 Fastigitermes 的相应突出物为单一而尖锐的后指刺。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头面散布刚毛，囟孔开口周围有一大束长毛，上唇前缘附近与后颏前缘各有少数刚毛；后颏自下方收狭，位于后缘中部前约四分之一处的双尖突，其两尖之间前面观有一微凹的脊。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 41（Profastigitermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 41（Profastigitermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 41（Profastigitermes 兵蚁）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/quasitermes-incisus/": {
+    "zh_name": "切割相似白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "上唇几乎不对称、侧尖短而锐；Mirocapritermes 的上唇更不对称、分叉更深、侧尖更长更锐（Emerson 1950）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头长形近方形，两侧平行而微凸；额突前指、不甚尖锐（引文在此被原页码书眉打断）；上唇长大于宽，端部浅凹或成角；上颚不对称、适于弹击，左上颚略呈波状，右上颚略向外弯。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 10（Quasitermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 11（Quasitermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 11（Quasitermes 兵蚁）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
   }
 }

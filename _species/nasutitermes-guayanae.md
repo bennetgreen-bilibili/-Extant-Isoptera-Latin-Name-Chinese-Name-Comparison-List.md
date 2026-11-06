@@ -40,9 +40,9 @@ ES — **圭亚那象白蚁** (*Nasutitermes guayanae*) es una especie del géne
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *guayanae*：以人名 guayan 命名（具体指向待考）
+种加词 *guayanae*：以圭亚那（Guiana）命名
 
-EN — epithet *guayanae*: Named after a person (guayan), identity uncertain
+EN — epithet *guayanae*: Named after Guiana
 
 <!-- src:S0018 -->
 

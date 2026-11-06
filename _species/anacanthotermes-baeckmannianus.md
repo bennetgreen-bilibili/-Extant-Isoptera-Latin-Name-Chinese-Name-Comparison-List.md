@@ -35,9 +35,9 @@ ES — **贝克曼无刺白蚁** (*Anacanthotermes baeckmannianus*) es una espec
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
-种加词 *baeckmannianus*：以人名 baeckmann 命名（具体指向待考）
+种加词 *baeckmannianus*：以人名 Baeckmann 命名
 
-EN — epithet *baeckmannianus*: Named after a person (baeckmann), identity uncertain
+EN — epithet *baeckmannianus*: Named after Baeckmann
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **山根怒白蚁** (*Lacessititermes yamanei*) es una especie del géner
 
 EN — *Lacessititermes*: From Latin lacessitus (provoked, attacked) + termes.
 
-种加词 *yamanei*：以人名 yamane 命名（具体指向待考）
+种加词 *yamanei*：以人名 Yamane（日本人名） 命名
 
-EN — epithet *yamanei*: Named after a person (yamane), identity uncertain
+EN — epithet *yamanei*: Named after Yamane
 
 <!-- src:S0018 -->
 

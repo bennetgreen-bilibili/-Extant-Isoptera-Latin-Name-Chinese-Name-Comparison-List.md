@@ -35,9 +35,9 @@ ES — **索瓦德纳后琥珀白蚁** (*Postelectrotermes sordwanae*) es una es
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
-种加词 *sordwanae*：以人名 sordwan 命名（具体指向待考）
+种加词 *sordwanae*：以索德瓦纳（Sodwana，南非）命名
 
-EN — epithet *sordwanae*: Named after a person (sordwan), identity uncertain
+EN — epithet *sordwanae*: Named after Sodwana (South Africa)
 
 <!-- src:S0018 -->
 

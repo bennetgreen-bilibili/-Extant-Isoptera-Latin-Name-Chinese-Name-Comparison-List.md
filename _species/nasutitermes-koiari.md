@@ -38,9 +38,9 @@ ES — **科伊阿瑞象白蚁** (*Nasutitermes koiari*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *koiari*：以人名 koiar 命名（具体指向待考）
+种加词 *koiari*：以 Koiari 人（巴布亚新几内亚民族）命名
 
-EN — epithet *koiari*: Named after a person (koiar), identity uncertain
+EN — epithet *koiari*: Named after the Koiari people (Papua New Guinea)
 
 <!-- src:S0018 -->
 

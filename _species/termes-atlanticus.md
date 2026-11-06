@@ -38,9 +38,9 @@ ES — **大西洋白蚁** (*Termes atlanticus*) es una especie del género *Ter
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
-种加词 *atlanticus*：以地名 atlant 命名（具体地名待考）
+种加词 *atlanticus*：拉丁文 atlanticus，大西洋的
 
-EN — epithet *atlanticus*: Named after a locality (atlant)
+EN — epithet *atlanticus*: From Latin atlanticus, of the Atlantic
 
 <!-- src:S0018 -->
 

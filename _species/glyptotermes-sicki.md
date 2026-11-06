@@ -35,9 +35,9 @@ ES — **西克树白蚁** (*Glyptotermes sicki*) es una especie del género *Gl
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *sicki*：以人名 sick 命名（具体指向待考）
+种加词 *sicki*：以人名 Sick（Helmut Sick，德国-巴西鸟类学家）命名
 
-EN — epithet *sicki*: Named after a person (sick), identity uncertain
+EN — epithet *sicki*: Named after Helmut Sick (German-Brazilian ornithologist)
 
 <!-- src:S0018 -->
 

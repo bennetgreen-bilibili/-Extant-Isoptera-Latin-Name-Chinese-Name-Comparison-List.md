@@ -38,9 +38,9 @@ ES — **哈里斯孔白蚁** (*Foraminitermes harrisi*) es una especie del gén
 
 EN — *Foraminitermes*: From Latin foramen (opening) + termes.
 
-种加词 *harrisi*：以人名 harris 命名（具体指向待考）
+种加词 *harrisi*：以人名 Harris 命名
 
-EN — epithet *harrisi*: Named after a person (harris), identity uncertain
+EN — epithet *harrisi*: Named after Harris
 
 <!-- src:S0018 -->
 

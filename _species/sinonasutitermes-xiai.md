@@ -38,9 +38,9 @@ ES — **夏氏华象白蚁** (*Sinonasutitermes xiai*) es una especie del géne
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
-种加词 *xiai*：以人名 xia 命名（具体指向待考）
+种加词 *xiai*：以人名 Xia（夏，具体身份待考） 命名
 
-EN — epithet *xiai*: Named after a person (xia), identity uncertain
+EN — epithet *xiai*: Named after Xia
 
 <!-- src:S0018 -->
 

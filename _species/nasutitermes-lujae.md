@@ -40,9 +40,9 @@ ES — **卢哈象白蚁** (*Nasutitermes lujae*) es una especie del género *Na
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *lujae*：以人名 luj 命名（具体指向待考）
+种加词 *lujae*：以人名 Luja（卢雅）命名（卢森堡博物学家 Édouard Luja，在刚果采集）
 
-EN — epithet *lujae*: Named after a person (luj), identity uncertain
+EN — epithet *lujae*: Named after Luja (Luxembourg naturalist Édouard Luja)
 
 <!-- src:S0018 -->
 

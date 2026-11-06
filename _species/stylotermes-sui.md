@@ -35,9 +35,9 @@ ES — **苏氏杆白蚁** (*Stylotermes sui*) es una especie del género *Stylo
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
-种加词 *sui*：以人名 su 命名（具体指向待考）
+种加词 *sui*：以人名 Sui/Su（隋/苏，中国姓氏）命名
 
-EN — epithet *sui*: Named after a person (su), identity uncertain
+EN — epithet *sui*: Named after a person "Sui/Su" (Chinese surname)
 
 <!-- src:S0018 -->
 

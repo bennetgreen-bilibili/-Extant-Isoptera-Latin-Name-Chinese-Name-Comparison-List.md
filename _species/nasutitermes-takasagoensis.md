@@ -40,9 +40,9 @@ ES — **高砂象白蚁** (*Nasutitermes takasagoensis*) es una especie del gé
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *takasagoensis*：以地名 takasago 命名（具体地名待考）
+种加词 *takasagoensis*：以高砂（Takasago，台湾旧称）命名
 
-EN — epithet *takasagoensis*: Named after a locality (takasago)
+EN — epithet *takasagoensis*: Named after Takasago (Taiwan)
 
 <!-- src:S0018 -->
 

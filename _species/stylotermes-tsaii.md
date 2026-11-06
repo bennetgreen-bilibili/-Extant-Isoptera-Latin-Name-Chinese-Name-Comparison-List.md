@@ -35,9 +35,9 @@ ES — **蔡氏杆白蚁** (*Stylotermes tsaii*) es una especie del género *Sty
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
-种加词 *tsaii*：以人名 tsa 命名（具体指向待考）
+种加词 *tsaii*：以人名 Tsai（蔡，具体身份待考） 命名
 
-EN — epithet *tsaii*: Named after a person (tsa), identity uncertain
+EN — epithet *tsaii*: Named after Tsai
 
 <!-- src:S0018 -->
 

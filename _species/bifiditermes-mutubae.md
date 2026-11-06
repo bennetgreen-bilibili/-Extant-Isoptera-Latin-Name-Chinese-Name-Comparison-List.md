@@ -35,9 +35,9 @@ ES — **榕树双裂白蚁** (*Bifiditermes mutubae*) es una especie del géner
 
 EN — *Bifiditermes*: From Latin bifidus (cleft in two) + termes.
 
-种加词 *mutubae*：以人名 mutub 命名（具体指向待考）
+种加词 *mutubae*：以地名 Mutuba 命名
 
-EN — epithet *mutubae*: Named after a person (mutub), identity uncertain
+EN — epithet *mutubae*: Named after the locality Mutuba
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **萨拉万锯白蚁** (*Microcerotermes saravanensis*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *saravanensis*：以地名 saravan 命名（具体地名待考）
+种加词 *saravanensis*：以地名 Saravan（萨拉万，伊朗锡斯坦-俾路支斯坦省）命名
 
-EN — epithet *saravanensis*: Named after a locality (saravan)
+EN — epithet *saravanensis*: Named after the locality Saravan (Sistan and Baluchestan, Iran)
 
 <!-- src:S0018 -->
 

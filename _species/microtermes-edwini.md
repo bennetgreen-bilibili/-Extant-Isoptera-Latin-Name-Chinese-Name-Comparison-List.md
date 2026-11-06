@@ -38,9 +38,9 @@ ES — **埃德温小白蚁** (*Microtermes edwini*) es una especie del género 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *edwini*：以人名 edwin 命名（具体指向待考）
+种加词 *edwini*：以人名 Edwin 命名
 
-EN — epithet *edwini*: Named after a person (edwin), identity uncertain
+EN — epithet *edwini*: Named after Edwin
 
 <!-- src:S0018 -->
 

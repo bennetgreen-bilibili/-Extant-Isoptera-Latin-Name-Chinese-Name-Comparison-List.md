@@ -38,9 +38,9 @@ ES — **德班锯白蚁** (*Microcerotermes durbanensis*) es una especie del g�
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *durbanensis*：以地名 durban 命名（具体地名待考）
+种加词 *durbanensis*：以德班（Durban，南非）命名
 
-EN — epithet *durbanensis*: Named after a locality (durban)
+EN — epithet *durbanensis*: Named after Durban (South Africa)
 
 <!-- src:S0018 -->
 

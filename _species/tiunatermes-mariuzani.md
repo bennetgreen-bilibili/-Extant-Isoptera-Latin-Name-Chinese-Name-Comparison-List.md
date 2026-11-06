@@ -38,9 +38,9 @@ ES — **马里乌赞暗鼻白蚁** (*Tiunatermes mariuzani*) es una especie, y 
 
 EN — *Tiunatermes*: From the place name Tiuna; -termes from Latin termes.
 
-种加词 *mariuzani*：以人名 mariuzan 命名（具体指向待考）
+种加词 *mariuzani*：以人名 Mariuzan 命名
 
-EN — epithet *mariuzani*: Named after a person (mariuzan), identity uncertain
+EN — epithet *mariuzani*: Named after Mariuzan
 
 <!-- src:S0018 -->
 

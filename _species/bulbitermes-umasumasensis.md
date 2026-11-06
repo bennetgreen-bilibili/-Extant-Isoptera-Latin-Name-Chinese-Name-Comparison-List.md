@@ -38,9 +38,9 @@ ES — **乌马斯乌马斯瓢白蚁** (*Bulbitermes umasumasensis*) es una espe
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
-种加词 *umasumasensis*：以地名 umasumas 命名（具体地名待考）
+种加词 *umasumasensis*：以地名 Umas Umas（婆罗洲） 命名
 
-EN — epithet *umasumasensis*: Named after a locality (umasumas)
+EN — epithet *umasumasensis*: Named after the locality Umas Umas (Borneo)
 
 <!-- src:S0018 -->
 

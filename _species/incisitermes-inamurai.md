@@ -35,9 +35,9 @@ ES — **稻村楹白蚁** (*Incisitermes inamurai*) es una especie del género 
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *inamurai*：以人名 inamura 命名（具体指向待考）
+种加词 *inamurai*：以人名 Inamura（稲村，日本）命名
 
-EN — epithet *inamurai*: Named after a person (inamura), identity uncertain
+EN — epithet *inamurai*: Named after Inamura (Japanese)
 
 <!-- src:S0018 -->
 

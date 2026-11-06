@@ -38,9 +38,9 @@ ES — **南方象白蚁** (*Nasutitermes meridianus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *meridianus*：以人名 merid 命名（具体指向待考）
+种加词 *meridianus*：拉丁文 meridies（南方/正午），南方的
 
-EN — epithet *meridianus*: Named after a person (merid), identity uncertain
+EN — epithet *meridianus*: From Latin meridies (south)
 
 <!-- src:S0018 -->
 

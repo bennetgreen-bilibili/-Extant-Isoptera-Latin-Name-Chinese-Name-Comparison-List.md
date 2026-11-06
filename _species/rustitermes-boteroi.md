@@ -38,9 +38,9 @@ ES — **博特罗拉斯特白蚁** (*Rustitermes boteroi*) es la única especie
 
 EN — *Rustitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *boteroi*：以人名 botero 命名（具体指向待考）
+种加词 *boteroi*：以人名 Botero 命名
 
-EN — epithet *boteroi*: Named after a person (botero), identity uncertain
+EN — epithet *boteroi*: Named after Botero
 
 <!-- src:S0018 -->
 

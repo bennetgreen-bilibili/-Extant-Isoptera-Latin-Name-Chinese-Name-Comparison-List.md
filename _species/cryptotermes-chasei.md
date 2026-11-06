@@ -35,9 +35,9 @@ ES — **蔡斯堆砂白蚁** (*Cryptotermes chasei*) es una especie del género
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *chasei*：以人名 chase 命名（具体指向待考）
+种加词 *chasei*：以人名 Chase 命名
 
-EN — epithet *chasei*: Named after a person (chase), identity uncertain
+EN — epithet *chasei*: Named after Chase
 
 <!-- src:S0018 -->
 

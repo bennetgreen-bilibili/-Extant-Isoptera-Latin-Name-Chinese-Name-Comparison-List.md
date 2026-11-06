@@ -37,9 +37,9 @@ ES — **欧罗巴新白蚁** (*Neotermes europae*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *europae*：以人名 europ 命名（具体指向待考）
+种加词 *europae*：以欧洲（Europe）命名
 
-EN — epithet *europae*: Named after a person (europ), identity uncertain
+EN — epithet *europae*: Named after Europe
 
 <!-- src:S0018 -->
 

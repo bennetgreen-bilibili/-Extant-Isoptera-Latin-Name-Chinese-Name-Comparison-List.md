@@ -38,9 +38,9 @@ ES — **戴克夏娜前扭白蚁** (*Procapritermes dakshinae*) es una especie 
 
 EN — *Procapritermes*: From Greek pro- (before) + Latin caper (goat) + termes.
 
-种加词 *dakshinae*：以人名 dakshin 命名（具体指向待考）
+种加词 *dakshinae*：梵文 dakṣiṇa（南方的）
 
-EN — epithet *dakshinae*: Named after a person (dakshin), identity uncertain
+EN — epithet *dakshinae*: From Sanskrit dakṣiṇa (southern)
 
 <!-- src:S0018 -->
 

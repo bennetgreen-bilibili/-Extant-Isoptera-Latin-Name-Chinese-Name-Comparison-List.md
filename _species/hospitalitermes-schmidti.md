@@ -38,9 +38,9 @@ ES — **施密德须白蚁** (*Hospitalitermes schmidti*) es una especie del g�
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *schmidti*：以人名 schmidt 命名（具体指向待考）
+种加词 *schmidti*：以人名 Schmidt 命名（具体指代待考）
 
-EN — epithet *schmidti*: Named after a person (schmidt), identity uncertain
+EN — epithet *schmidti*: Named after a person "Schmidt" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **比姆后琥珀白蚁** (*Postelectrotermes bhimi*) es una especie del 
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
-种加词 *bhimi*：以人名 bhim 命名（具体指向待考）
+种加词 *bhimi*：以人名 Bhim 命名
 
-EN — epithet *bhimi*: Named after a person (bhim), identity uncertain
+EN — epithet *bhimi*: Named after Bhim
 
 <!-- src:S0018 -->
 

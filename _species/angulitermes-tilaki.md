@@ -38,9 +38,9 @@ ES — **蒂拉克角白蚁** (*Angulitermes tilaki*) es una especie del género
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *tilaki*：以人名 tilak 命名（具体指向待考）
+种加词 *tilaki*：以人名 Tilak 命名（具体身份待考）
 
-EN — epithet *tilaki*: Named after a person (tilak), identity uncertain
+EN — epithet *tilaki*: Named after Tilak
 
 <!-- src:S0018 -->
 

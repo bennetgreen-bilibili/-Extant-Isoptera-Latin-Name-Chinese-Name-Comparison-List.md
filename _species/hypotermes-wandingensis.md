@@ -38,9 +38,9 @@ ES — **畹町地白蚁** (*Hypotermes wandingensis*) es una especie del géner
 
 EN — *Hypotermes*: From Greek hypo- (under, slightly) + Latin termes.
 
-种加词 *wandingensis*：以地名 wanding 命名（具体地名待考）
+种加词 *wandingensis*：以畹町（Wanding，云南）命名
 
-EN — epithet *wandingensis*: Named after a locality (wanding)
+EN — epithet *wandingensis*: Named after Wanding (Yunnan)
 
 <!-- src:S0018 -->
 

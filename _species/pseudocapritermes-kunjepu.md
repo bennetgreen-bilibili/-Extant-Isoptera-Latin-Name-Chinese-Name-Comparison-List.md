@@ -38,9 +38,9 @@ ES — **昆杰普伪扭白蚁** (*Pseudocapritermes kunjepu*) es una especie de
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
-种加词 *kunjepu*：以当地土名或地名命名（具体指向待考）
+种加词 *kunjepu*：以人名 Kunjepu（印度）命名
 
-EN — epithet *kunjepu*: After a local vernacular name or place (uncertain)
+EN — epithet *kunjepu*: Named after Kunjepu
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **盖伊镰白蚁** (*Drepanotermes gayi*) es una especie del género *Dr
 
 EN — *Drepanotermes*: From Greek drepanon (sickle) + Latin termes.
 
-种加词 *gayi*：以人名 gay 命名（具体指向待考）
+种加词 *gayi*：以 F.J. Gay（澳大利亚白蚁学家）命名
 
-EN — epithet *gayi*: Named after a person (gay), identity uncertain
+EN — epithet *gayi*: Named after F.J. Gay
 
 <!-- src:S0018 -->
 

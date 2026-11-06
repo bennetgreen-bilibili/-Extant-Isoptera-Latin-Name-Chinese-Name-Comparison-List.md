@@ -38,9 +38,9 @@ ES — **洛根小白蚁** (*Microtermes logani*) es una especie del género *Mi
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *logani*：以人名 logan 命名（具体指向待考）
+种加词 *logani*：以人名 Logan（洛根）命名
 
-EN — epithet *logani*: Named after a person (logan), identity uncertain
+EN — epithet *logani*: Named after Logan
 
 <!-- src:S0018 -->
 

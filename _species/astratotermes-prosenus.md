@@ -38,9 +38,9 @@ ES — **大型无刃白蚁** (*Astratotermes prosenus*) es una especie, y la es
 
 EN — *Astratotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *prosenus*：词源未详
+种加词 *prosenus*：希腊语 proxenos（公使/代表）；原始描述未明示，据词根拆解
 
-EN — epithet *prosenus*: Etymology uncertain
+EN — epithet *prosenus*: From Greek proxenos (public guest/representative); not stated in original description
 
 <!-- src:S0018 -->
 

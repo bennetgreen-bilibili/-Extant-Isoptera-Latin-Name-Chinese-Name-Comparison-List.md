@@ -38,9 +38,9 @@ ES — **小天使无甲白蚁** (*Anenteotermes cherubimi*) es una especie del 
 
 EN — *Anenteotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *cherubimi*：以人名 cherubim 命名（具体指向待考）
+种加词 *cherubimi*：拉丁文 cherubim（小天使），指极小型
 
-EN — epithet *cherubimi*: Named after a person (cherubim), identity uncertain
+EN — epithet *cherubimi*: From Latin cherubim (cherub), referring to tiny size
 
 <!-- src:S0018 -->
 

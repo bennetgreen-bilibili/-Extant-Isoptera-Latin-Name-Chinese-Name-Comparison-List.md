@@ -35,9 +35,9 @@ ES — **阿斯穆斯新白蚁** (*Neotermes assmuthi*) es una especie del géne
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *assmuthi*：以人名 assmuth 命名（具体指向待考）
+种加词 *assmuthi*：以人名 Assmuth 命名
 
-EN — epithet *assmuthi*: Named after a person (assmuth), identity uncertain
+EN — epithet *assmuthi*: Named after Assmuth
 
 <!-- src:S0018 -->
 

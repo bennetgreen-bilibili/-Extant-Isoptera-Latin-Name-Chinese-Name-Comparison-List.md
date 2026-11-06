@@ -35,9 +35,9 @@ ES — **马康多前新白蚁** (*Proneotermes macondianus*) es una especie del
 
 EN — *Proneotermes*: From Greek pro- (before) + neos (new) + Latin termes.
 
-种加词 *macondianus*：以人名 macond 命名（具体指向待考）
+种加词 *macondianus*：以加西亚·马尔克斯小说《百年孤独》中的虚构小镇马孔多（Macondo）命名
 
-EN — epithet *macondianus*: Named after a person (macond), identity uncertain
+EN — epithet *macondianus*: Named after Macondo, the fictional town in García Márquez's One Hundred Years of Solitude
 
 <!-- src:S0018 -->
 

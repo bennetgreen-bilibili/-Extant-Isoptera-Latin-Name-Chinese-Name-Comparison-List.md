@@ -35,9 +35,9 @@ ES — **内华达动白蚁** (*Zootermopsis nevadensis*) es una especie del gé
 
 EN — *Zootermopsis*: From Greek zōon (animal) + -termopsis (term- + -opsis).
 
-种加词 *nevadensis*：以地名 nevad 命名（具体地名待考）
+种加词 *nevadensis*：以内华达（Nevada，美国）命名
 
-EN — epithet *nevadensis*: Named after a locality (nevad)
+EN — epithet *nevadensis*: Named after Nevada (USA)
 
 <!-- src:S0018 -->
 

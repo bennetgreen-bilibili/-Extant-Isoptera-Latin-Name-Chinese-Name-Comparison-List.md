@@ -35,9 +35,9 @@ ES — **贝萨树白蚁** (*Glyptotermes besarensis*) es una especie del géner
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *besarensis*：以地名 besar 命名（具体地名待考）
+种加词 *besarensis*：以地名 Besar 命名
 
-EN — epithet *besarensis*: Named after a locality (besar)
+EN — epithet *besarensis*: Named after the locality Besar
 
 <!-- src:S0018 -->
 

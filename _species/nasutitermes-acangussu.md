@@ -38,9 +38,9 @@ ES — **头大象白蚁** (*Nasutitermes acangussu*) es una especie del género
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *acangussu*：以当地土名或地名命名（具体指向待考）
+种加词 *acangussu*：图皮语 acanga（头）+ ussu（大），意即“大头”
 
-EN — epithet *acangussu*: After a local vernacular name or place (uncertain)
+EN — epithet *acangussu*: From Tupi acanga (head) + ussu (big), meaning 'big head'
 
 <!-- src:S0018 -->
 

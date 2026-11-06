@@ -38,9 +38,9 @@ ES — **盖尔德独角白蚁** (*Unicornitermes gaerdesi*) es la única especi
 
 EN — *Unicornitermes*: From Latin unus (one) + cornu (horn) + termes, 'one-horned termite'.
 
-种加词 *gaerdesi*：以人名 gaerdes 命名（具体指向待考）
+种加词 *gaerdesi*：以人名 Gärdes/Gaedes 命名
 
-EN — epithet *gaerdesi*: Named after a person (gaerdes), identity uncertain
+EN — epithet *gaerdesi*: Named after Gärdes
 
 <!-- src:S0018 -->
 

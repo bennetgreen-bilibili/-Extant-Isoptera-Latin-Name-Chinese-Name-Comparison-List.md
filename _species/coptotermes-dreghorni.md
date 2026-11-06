@@ -35,9 +35,9 @@ ES — **雷德霍恩乳白蚁** (*Coptotermes dreghorni*) es una especie del g�
 
 EN — *Coptotermes*: From Greek koptein (to cut) + Latin termes.
 
-种加词 *dreghorni*：以人名 dreghorn 命名（具体指向待考）
+种加词 *dreghorni*：以人名 Dreghorn 命名
 
-EN — epithet *dreghorni*: Named after a person (dreghorn), identity uncertain
+EN — epithet *dreghorni*: Named after Dreghorn
 
 <!-- src:S0018 -->
 

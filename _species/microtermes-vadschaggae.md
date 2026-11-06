@@ -38,9 +38,9 @@ ES — **瓦斯查嘎小白蚁** (*Microtermes vadschaggae*) es una especie del 
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *vadschaggae*：以人名 vadschagg 命名（具体指向待考）
+种加词 *vadschaggae*：以地名 Vadschagga（坦桑尼亚乞力马扎罗） 命名
 
-EN — epithet *vadschaggae*: Named after a person (vadschagg), identity uncertain
+EN — epithet *vadschaggae*: Named after the locality Vadschagga (Kilimanjaro, Tanzania)
 
 <!-- src:S0018 -->
 

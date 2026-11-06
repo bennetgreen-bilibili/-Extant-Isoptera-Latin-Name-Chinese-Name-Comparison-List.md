@@ -35,9 +35,9 @@ ES — **西弗斯楹白蚁** (*Incisitermes seeversi*) es una especie del géne
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *seeversi*：以人名 seevers 命名（具体指向待考）
+种加词 *seeversi*：以人名 Seevers（C. H. Seevers，美国昆虫学家）命名
 
-EN — epithet *seeversi*: Named after a person (seevers), identity uncertain
+EN — epithet *seeversi*: Named after C. H. Seevers (American entomologist)
 
 <!-- src:S0018 -->
 

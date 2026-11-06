@@ -38,9 +38,9 @@ ES — **贝尔弓白蚁** (*Amitermes belli*) es una especie del género *Amite
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *belli*：以人名 bell 命名（具体指向待考）
+种加词 *belli*：以人名 Bell 命名
 
-EN — epithet *belli*: Named after a person (bell), identity uncertain
+EN — epithet *belli*: Named after Bell
 
 <!-- src:S0018 -->
 

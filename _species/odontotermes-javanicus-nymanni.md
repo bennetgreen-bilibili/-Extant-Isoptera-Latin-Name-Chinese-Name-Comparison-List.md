@@ -39,9 +39,9 @@ ES — **尼曼亚种** (*Odontotermes javanicus nymanni*) es una subespecie de 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *nymanni*：以人名 Nyman 命名（具体指向待考）
+种加词 *nymanni*：以人名 Nyman（尼曼）命名
 
-EN — epithet *nymanni*: Named after a person named Nyman (identity uncertain)
+EN — epithet *nymanni*: Named after Nyman
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **库兹涅佐夫古白蚁** (*Archotermopsis kuznetsovi*) es una especie
 
 EN — *Archotermopsis*: From Greek archaios (ancient, primitive) + -termopsis (term- 'termite' + -opsis 'appearance'), 'ancient termite-like'.
 
-种加词 *kuznetsovi*：以人名 kuznetsov 命名（具体指向待考）
+种加词 *kuznetsovi*：以人名 Kuznetsov（俄国）命名
 
-EN — epithet *kuznetsovi*: Named after a person (kuznetsov), identity uncertain
+EN — epithet *kuznetsovi*: Named after Kuznetsov
 
 <!-- src:S0018 -->
 

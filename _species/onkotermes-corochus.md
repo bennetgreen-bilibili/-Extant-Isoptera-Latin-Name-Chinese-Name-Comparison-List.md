@@ -38,9 +38,9 @@ ES — **瘤额倒钩白蚁** (*Onkotermes corochus*) es una especie del género
 
 EN — *Onkotermes*: From Greek onkos (swelling, tumor) + Latin termes.
 
-种加词 *corochus*：以当地土名或地名命名（具体指向待考）
+种加词 *corochus*：词源未详
 
-EN — epithet *corochus*: After a local vernacular name or place (uncertain)
+EN — epithet *corochus*: Etymology uncertain
 
 <!-- src:S0018 -->
 

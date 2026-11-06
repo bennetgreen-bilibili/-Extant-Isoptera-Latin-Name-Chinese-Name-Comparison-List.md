@@ -38,9 +38,9 @@ ES — **哈尔拉兹弓白蚁** (*Amitermes kharrazii*) es una especie del gén
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *kharrazii*：以人名 kharraz 命名（具体指向待考）
+种加词 *kharrazii*：以人名 Kharrazi（伊朗）命名
 
-EN — epithet *kharrazii*: Named after a person (kharraz), identity uncertain
+EN — epithet *kharrazii*: Named after Kharrazi
 
 <!-- src:S0018 -->
 

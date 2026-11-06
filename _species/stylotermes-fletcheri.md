@@ -35,9 +35,9 @@ ES — **弗莱彻杆白蚁** (*Stylotermes fletcheri*) es una especie, y la esp
 
 EN — *Stylotermes*: From Greek stylos (pillar, style) + Latin termes.
 
-种加词 *fletcheri*：以人名 Fletcher 命名（具体指向待考）
+种加词 *fletcheri*：以人名 Fletcher（或 T. B. Fletcher，英国昆虫学家）命名
 
-EN — epithet *fletcheri*: Named after a person (Fletcher), identity uncertain
+EN — epithet *fletcheri*: Named after Fletcher
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **谢勒净白蚁** (*Nitiditermes schereri*) es una especie del género 
 
 EN — *Nitiditermes*: From Latin nitidus (shining) + termes.
 
-种加词 *schereri*：以人名 scherer 命名（具体指向待考）
+种加词 *schereri*：以人名 Scherer 命名（具体指代待考）
 
-EN — epithet *schereri*: Named after a person (scherer), identity uncertain
+EN — epithet *schereri*: Named after a person "Scherer" (identity unconfirmed)
 
 <!-- src:S0018 -->
 

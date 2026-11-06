@@ -38,9 +38,9 @@ ES — **梅林达白蚁** (*Termes melindae*) es una especie del género *Terme
 
 EN — *Termes*: From Latin termes (woodworm, termite), the type genus.
 
-种加词 *melindae*：以人名 melind 命名（具体指向待考）
+种加词 *melindae*：以梅林德（Melinde，肯尼亚）命名
 
-EN — epithet *melindae*: Named after a person (melind), identity uncertain
+EN — epithet *melindae*: Named after Melinde (Kenya)
 
 <!-- src:S0018 -->
 

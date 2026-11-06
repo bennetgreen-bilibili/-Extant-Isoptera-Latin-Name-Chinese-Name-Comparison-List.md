@@ -35,9 +35,9 @@ ES — **阿瑟顿皱白蚁** (*Rugitermes athertoni*) es una especie del géner
 
 EN — *Rugitermes*: From Latin ruga (wrinkle) + termes.
 
-种加词 *athertoni*：以人名 atherton 命名（具体指向待考）
+种加词 *athertoni*：以人名 Atherton 命名
 
-EN — epithet *athertoni*: Named after a person (atherton), identity uncertain
+EN — epithet *athertoni*: Named after Atherton
 
 <!-- src:S0018 -->
 

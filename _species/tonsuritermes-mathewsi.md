@@ -38,9 +38,9 @@ ES — **马修斯奇囟白蚁** (*Tonsuritermes mathewsi*) es una especie del g
 
 EN — *Tonsuritermes*: From Latin tonsus (shorn) + termes.
 
-种加词 *mathewsi*：以人名 mathews 命名（具体指向待考）
+种加词 *mathewsi*：以人名 Mathews（马修斯）命名
 
-EN — epithet *mathewsi*: Named after a person (mathews), identity uncertain
+EN — epithet *mathewsi*: Named after Mathews
 
 <!-- src:S0018 -->
 

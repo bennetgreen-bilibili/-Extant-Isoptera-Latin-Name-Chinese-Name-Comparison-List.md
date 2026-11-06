@@ -38,9 +38,9 @@ ES — **泰勒象白蚁** (*Nasutitermes taylori*) es una especie del género *
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *taylori*：以人名 Taylor 命名（具体指向待考）
+种加词 *taylori*：以人名 Taylor（具体身份待考） 命名
 
-EN — epithet *taylori*: Named after a person (Taylor), identity uncertain
+EN — epithet *taylori*: Named after Taylor
 
 <!-- src:S0018 -->
 

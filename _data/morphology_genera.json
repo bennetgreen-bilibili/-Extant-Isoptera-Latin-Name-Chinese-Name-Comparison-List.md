@@ -2617,6 +2617,463 @@
     ],
     "note": "接受稿只给工蚁肠瓣（EVA）属征，兵蚁与有翅成虫无属级文本；原文 Species included 列 13 种，属名出自拉丁语 terni（三）+ cubus（立方）。接受稿页码（p. 16–17，行 364–376）与正式版（Syst. Entomol. 46(1): 224–238）不同。"
   },
+  "/genus/basidentitermes/": {
+    "zh_name": "基齿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头前部不覆盖上颚基部；Emerson（1928）的埃塞俄比亚兵蚁检索表即以此与 Fastigitermes 分开，后者头前部覆盖上颚基部。本亚属已知地点很少，分布（Map 20）因而难以说明。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "上颚略长于头壳，作军刀状；上唇前缘在两侧角尖之间呈凸圆的弧形；囟孔开口圆形（Holmgren 1912 检索表 B 项，Taf. IV fig. 10–11）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 419（兵蚁检索表）"
+      },
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 535（Subgenus Basidentitermes 一节）"
+      },
+      {
+        "id": "S0033",
+        "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+        "locator": "p. 107（Untergattungen 检索表 B 项）"
+      }
+    ],
+    "note": "Holmgren（1912）把它作为 Mirotermes 的一个亚属处理；本次未读到 Silvestri 1914 与 Sjöstedt 1924 原文，故只写检索表级特征，不写量度、毛被与触角节数。"
+  },
+  "/genus/euchilotermes/": {
+    "zh_name": "真唇白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁上唇大而肉质，Emerson（1928）检索表以这一条单独列出该属。该属长期只知 E. tensus 及其变种，1914 年由 Silvestri 作为新属发表。"
+      },
+      {
+        "label": "工蚁",
+        "text": "有翅成虫—工蚁的右上颚第二缘齿消失；Emerson（1960）指出这一式样只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 419（兵蚁检索表）"
+      },
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 501–502（Subgenus Euchilotermes 一节）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 21（Nitiditermes 工蚁）"
+      }
+    ],
+    "note": "兵蚁仅有检索表一行可引；Emerson 1928 的属级讨论只述分类沿革与已知种，未给出头形、触角等性状，故不补写。"
+  },
+  "/genus/fastigitermes/": {
+    "zh_name": "峰白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头前部覆盖上颚基部，与 Basidentitermes（不覆盖）相反；Emerson（1928）把 M. jucundus 暂作 Mirotermes 的亚属，并同意 Sjöstedt 为它另立 Fastigitermes。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头顶在囟孔开口上方的隆起更向前伸；与 Profastigitermes 相比，后颏的后向突出物比例大得多，末端为单一而相当尖锐的后指刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 419（兵蚁检索表）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 42（Profastigitermes 兵蚁诊断）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 42（Profastigitermes 兵蚁诊断）"
+      }
+    ],
+    "note": "属级性状仅取自 Emerson 1928 检索表与 Emerson 1960 在 Profastigitermes 诊断中的对比；Sjöstedt 1924 原文未能获取。"
+  },
+  "/genus/profastigitermes/": {
+    "zh_name": "前峰白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "头顶在囟孔开口之上、略偏后者为圆驼峰（Fastigitermes 的驼峰更向前伸）；后颏自下方收狭，最窄处为一显著的双尖突，而 Fastigitermes 的相应突出物为单一而尖锐的后指刺。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头面散布刚毛，囟孔开口周围有一大束长毛，上唇前缘附近与后颏前缘各有少数刚毛；后颏自下方收狭，位于后缘中部前约四分之一处的双尖突，其两尖之间前面观有一微凹的脊。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 41（Profastigitermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 41（Profastigitermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 41（Profastigitermes 兵蚁）"
+      }
+    ],
+    "note": "本属原文只有兵蚁描述，未描述工蚁与有翅成虫，故只设兵蚁一栏；后颏与头顶驼峰的位置见 Emerson 1960 fig. 15。"
+  },
+  "/genus/furculitermes/": {
+    "zh_name": "叉白蚁属",
+    "sections": [
+      {
+        "label": "有翅成虫",
+        "text": "头宽卵形、表面平滑，仅囟孔周围有细微刻纹；囟孔长形，位于头面一短窄凹窝内；头顶在单眼之间平缓而均匀地凸起；复眼较平、中等大小，距头下缘略小于其直径的三分之一。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "上唇大，两侧叶分叉而略窄，末端圆或略截，伸出时超过上颚缘齿；上唇前缘深凹——属名即取自分叉的上唇。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚端齿较大；右上颚第二缘齿消失；此式在近缘属中只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "pp. 3–4（Nitiditermes 有翅成虫）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 20（Furculitermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 20（Furculitermes 工蚁）"
+      }
+    ],
+    "note": "Emerson 1960 对本属有翅成虫、兵蚁、工蚁均有描述；此处只取属级鉴别性状，种级量度与毛被从略。"
+  },
+  "/genus/mucrotermes/": {
+    "zh_name": "锐尖白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁囟孔开口旁没有刚毛簇，若干近缘属则有；头比较短、宽、厚。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "侧面观头顶呈锐驼峰，驼峰上下分别为陡斜的额面与头顶；囟孔位于斜面中部，离后唇基比离头顶更近。"
+      },
+      {
+        "label": "工蚁",
+        "text": "两上颚端齿比例都大；左上颚第三缘齿之前没有可见的角状缺刻；右上颚第二缘齿小而明显。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "pp. 12–13（Mucrotermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "pp. 12–13（Mucrotermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 14（Mucrotermes 工蚁）"
+      }
+    ],
+    "note": "只写 Emerson（1960）属级诊断中明确给出的兵蚁与工蚁性状；种级量度与毛被从略。"
+  },
+  "/genus/nitiditermes/": {
+    "zh_name": "净白蚁属",
+    "sections": [
+      {
+        "label": "有翅成虫",
+        "text": "头宽卵形、平滑而少起伏，囟孔周围有细微刻纹；囟孔长形，位于头面短窄的凹窝内；头顶在单眼之间平缓均匀地凸起；复眼较平、中等大小，距头下缘略小于其直径的三分之一。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "侧面观额部在凹陷的囟孔开口之上呈球状隆起，前部不伸到上颚基部之上。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚与 Cubitermes、Procubitermes、Noditermes、Lepidotermes、Mucrotermes 相似；端齿明显大于第一缘齿；左上颚端部到第一缘齿末端的距离大于第一缘齿末端到第三缘齿末端的距离。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "pp. 3–4（Nitiditermes 有翅成虫）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 4（Nitiditermes 兵蚁）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "pp. 5–6（Nitiditermes 工蚁）"
+      }
+    ],
+    "note": "三 caste 均有 Emerson（1960）的模式种描述；兵蚁只保留头部轮廓这一条可核性状（毛被部分的 OCR 不完整）。"
+  },
+  "/genus/ophiotermes/": {
+    "zh_name": "蛇白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "上颚在中部向外弯折成肘，端部又略向内弯；Emerson（1928）以此把本属与 Mirotermes 其余亚属及近缘属分开。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "两上颚内缘在基部与肘之间各有一小而显著的齿；前足胫节端部 3 刺，中、后足胫节端部各 2 刺；囟孔开口与 Cubitermes 亚属相似；上唇二叶。"
+      },
+      {
+        "label": "工蚁",
+        "text": "有翅成虫—工蚁的右上颚第二缘齿消失；Emerson（1960）指出这一式样只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 501–502（Subgenus Ophiotermes 一节）"
+      },
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 501–502（Subgenus Ophiotermes 一节）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 21（Nitiditermes 工蚁）"
+      }
+    ],
+    "note": "兵蚁性状全部取自 Emerson（1928）的亚属讨论，未见 Sjöstedt 1924 原文。"
+  },
+  "/genus/proboscitermes/": {
+    "zh_name": "象鼻白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头前部延伸成非常大而显著的鼻状突，头两侧圆；Tuberculitermes 同样有大的鼻状突但头呈长方形，Orthotermes 无鼻状突、头两侧平直。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 419（兵蚁检索表）"
+      }
+    ],
+    "note": "只读到 Emerson（1928）检索表中的这一行；Sjöstedt 1924 原文未能获取，因此不写量度、上颚与触角，也不设兵蚁以外的 caste 栏。"
+  },
+  "/genus/tuberculitermes/": {
+    "zh_name": "小瘤白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头前部延伸成大而显著的鼻状突，头呈长方形；Proboscitermes 头两侧圆。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头后缘两侧各有一近齿状突起；上唇远长于宽；上颚与头壳等长，直，末端钩状弯转。"
+      },
+      {
+        "label": "工蚁",
+        "text": "有翅成虫—工蚁的右上颚第二缘齿消失；Emerson（1960）指出这一式样只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0033",
+        "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+        "locator": "p. 108（Untergattungen 检索表 ee 项）"
+      },
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "p. 419（兵蚁检索表）"
+      },
+      {
+        "id": "S0100",
+        "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+        "locator": "p. 21（Nitiditermes 工蚁）"
+      }
+    ],
+    "note": "兵蚁取自 Holmgren（1912）检索表 ee 项与 Emerson（1928）检索表；工蚁只有 Emerson（1960）的对比陈述。"
+  },
+  "/genus/protocapritermes/": {
+    "zh_name": "始扭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "额突极不显著；囟孔自上方清晰可见，不藏在额突之下；上唇大致等宽、长明显大于宽；上颚略呈不规则弯曲。Holmgren（1912）以这些性状与额突明显、囟孔隐于其下的 Mirotermes s. str. 分开。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0033",
+        "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+        "locator": "p. 108（Untergattungen 检索表 ec 项）"
+      }
+    ],
+    "note": "原文为德文 OCR，引文按原样保留其讹形（如 siehtbar / Vorspriuiges）；本次未读到后续修订，故只写检索表级特征。"
+  },
+  "/genus/cavitermes/": {
+    "zh_name": "腔白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁额部沿额具脊、前面凹陷（属名由此而来）；头形与 Mirotermes 其他亚属差别很大，但上颚形状与适应方式仍与 Mirotermes s. str. 相似。Constantino（1999）兵蚁检索表以额突宽、前面凹、上颚明显长于头壳、胫节距 2:2:2 的组合鉴别。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头形与 Mirotermes 其他亚属差异很大；额部具脊、前部凹陷；上颚明显长于头壳，形状与功能似 Mirotermes s. str.；胫节距 2:2:2。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0083",
+        "citation": "Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6: 291–459.",
+        "locator": "p. 442（Subgenus Cavitermes 一节）"
+      },
+      {
+        "id": "S0083",
+        "citation": "Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6: 291–459.",
+        "locator": "p. 442（Subgenus Cavitermes 一节）"
+      },
+      {
+        "id": "S0048",
+        "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+        "locator": "p. 418（兵蚁检索表）"
+      }
+    ],
+    "note": "Emerson（1925）把它作为 Mirotermes 的亚属描述；本次未读 Mathews 1977 等后续修订，故只写原描述与 Constantino（1999）检索表可核的性状。"
+  },
+  "/genus/cornicapritermes/": {
+    "zh_name": "角扭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与 Paracapritermes、Mirocapritermes、Quasitermes 相比，兵蚁上颚的不对称更强、工蚁第二缘齿更不明显；Emerson（1950）认为四者中 Paracapritermes 最一般化，Mirocapritermes 次之，Quasitermes 再次，Cornicapritermes 最特化。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头厚而长，两侧微弯；额部锥状突前指，远超上颚基部，端部略上翘，端前下方有一小瘤，似为囟孔开口。"
+      },
+      {
+        "label": "工蚁",
+        "text": "端齿明显大于第一缘齿；右上颚第二缘齿退化或消失；左上颚第三缘齿与愈合的第一、第二缘齿之间有一小缺刻。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 13（Cornicapritermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 14（Cornicapritermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 14（Cornicapritermes 工蚁）"
+      }
+    ],
+    "note": "上唇端部浅叉、两侧角约 60°、两角间约 150°（Emerson 1950）属种级细节，此处从略。"
+  },
+  "/genus/quasitermes/": {
+    "zh_name": "相似白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "上唇几乎不对称、侧尖短而锐；Mirocapritermes 的上唇更不对称、分叉更深、侧尖更长更锐（Emerson 1950）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头长形近方形，两侧平行而微凸；额突前指、不甚尖锐（引文在此被原页码书眉打断）；上唇长大于宽，端部浅凹或成角；上颚不对称、适于弹击，左上颚略呈波状，右上颚略向外弯。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 10（Quasitermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 11（Quasitermes 兵蚁）"
+      },
+      {
+        "id": "S0040",
+        "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+        "locator": "p. 11（Quasitermes 兵蚁）"
+      }
+    ],
+    "note": "只写 Emerson（1950）兵蚁描述与比较诊断中可核的性状；未见属级有翅成虫或工蚁文字。"
+  },
+  "/genus/inquilinitermes/": {
+    "zh_name": "客白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁额突圆钝，胫节距 2:2:2，且只见于 Constrictotermes 巢中；Termes 的额突呈锥状、胫节距 3:3:2。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0048",
+        "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+        "locator": "p. 418（兵蚁检索表）"
+      },
+      {
+        "id": "S0048",
+        "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+        "locator": "p. 418（兵蚁检索表）"
+      },
+      {
+        "id": "S0048",
+        "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+        "locator": "p. 406（Inquilinitermes 属志）"
+      }
+    ],
+    "note": "客居关系：I. inquilinus 与 C. cavifrons 同巢，另两种与 C. cyphergaster 同巢（Constantino 1999）；Mathews 1977 原描述未能读到，故不写属级全性状。"
+  },
   "/genus/aciculitermes/": {
     "zh_name": "针白蚁属",
     "sections": [

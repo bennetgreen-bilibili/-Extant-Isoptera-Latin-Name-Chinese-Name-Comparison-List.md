@@ -35,9 +35,9 @@ ES — **拉帕前砂白蚁** (*Procryptotermes rapae*) es una especie del géne
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
-种加词 *rapae*：以人名 rap 命名（具体指向待考）
+种加词 *rapae*：以地名 Rapa（拉帕岛，法属波利尼西亚）命名
 
-EN — epithet *rapae*: Named after a person (rap), identity uncertain
+EN — epithet *rapae*: Named after the locality Rapa (French Polynesia)
 
 <!-- src:S0018 -->
 

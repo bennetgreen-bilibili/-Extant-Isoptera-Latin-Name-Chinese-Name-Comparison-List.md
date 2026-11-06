@@ -38,9 +38,9 @@ ES — **尤氏亮白蚁** (*Euhamitermes yui*) es una especie del género *Euha
 
 EN — *Euhamitermes*: From Greek eu- (well) + (hami, perhaps Latin hamus 'hook') + termes.
 
-种加词 *yui*：以人名 yu 命名（具体指向待考）
+种加词 *yui*：以人名 Yu（于/余，具体身份待考） 命名
 
-EN — epithet *yui*: Named after a person (yu), identity uncertain
+EN — epithet *yui*: Named after Yu
 
 <!-- src:S0018 -->
 

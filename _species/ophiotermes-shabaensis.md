@@ -38,9 +38,9 @@ ES — **沙巴蛇白蚁** (*Ophiotermes shabaensis*) es una especie del género
 
 EN — *Ophiotermes*: From Greek ophis (snake) + Latin termes.
 
-种加词 *shabaensis*：以地名 shaba 命名（具体地名待考）
+种加词 *shabaensis*：以沙巴（Shaba，刚果）命名
 
-EN — epithet *shabaensis*: Named after a locality (shaba)
+EN — epithet *shabaensis*: Named after Shaba (DR Congo)
 
 <!-- src:S0018 -->
 

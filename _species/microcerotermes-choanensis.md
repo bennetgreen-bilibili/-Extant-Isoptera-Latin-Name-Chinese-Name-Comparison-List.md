@@ -38,9 +38,9 @@ ES — **乔安锯白蚁** (*Microcerotermes choanensis*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *choanensis*：以地名 choan 命名（具体地名待考）
+种加词 *choanensis*：以地名 Choan 命名
 
-EN — epithet *choanensis*: Named after a locality (choan)
+EN — epithet *choanensis*: Named after the locality Choan
 
 <!-- src:S0018 -->
 

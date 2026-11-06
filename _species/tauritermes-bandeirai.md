@@ -35,9 +35,9 @@ ES — **班代拉牛白蚁** (*Tauritermes bandeirai*) es una especie del géne
 
 EN — *Tauritermes*: From Latin taurus (bull) + termes.
 
-种加词 *bandeirai*：以人名 bandeira 命名（具体指向待考）
+种加词 *bandeirai*：以人名 Bandeira 命名
 
-EN — epithet *bandeirai*: Named after a person (bandeira), identity uncertain
+EN — epithet *bandeirai*: Named after Bandeira
 
 <!-- src:S0018 -->
 

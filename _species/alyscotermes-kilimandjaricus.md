@@ -40,9 +40,9 @@ ES — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) es una espe
 
 EN — *Alyscotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *kilimandjaricus*：以地名 kilimandjar 命名（具体地名待考）
+种加词 *kilimandjaricus*：以乞力马扎罗山（Kilimanjaro）命名
 
-EN — epithet *kilimandjaricus*: Named after a locality (kilimandjar)
+EN — epithet *kilimandjaricus*: Named after Mount Kilimanjaro
 
 <!-- src:S0018 -->
 

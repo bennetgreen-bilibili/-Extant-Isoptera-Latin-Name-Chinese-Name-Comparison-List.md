@@ -38,9 +38,9 @@ ES — **达林顿小白蚁** (*Microtermes darlingtonae*) es una especie del g�
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *darlingtonae*：以人名 darlington 命名（具体指向待考）
+种加词 *darlingtonae*：以人名 Darlington（P. J. Darlington）命名
 
-EN — epithet *darlingtonae*: Named after a person (darlington), identity uncertain
+EN — epithet *darlingtonae*: Named after P. J. Darlington
 
 <!-- src:S0018 -->
 

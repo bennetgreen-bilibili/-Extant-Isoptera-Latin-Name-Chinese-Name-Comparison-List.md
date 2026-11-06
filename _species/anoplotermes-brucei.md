@@ -38,9 +38,9 @@ ES — **布鲁斯解甲白蚁** (*Anoplotermes brucei*) es una especie del gén
 
 EN — *Anoplotermes*: From Greek an- (without) + hoplon (weapon) + Latin termes, 'unarmed termite'.
 
-种加词 *brucei*：以人名 bruce 命名（具体指向待考）
+种加词 *brucei*：以人名 Bruce 命名
 
-EN — epithet *brucei*: Named after a person (bruce), identity uncertain
+EN — epithet *brucei*: Named after Bruce
 
 <!-- src:S0018 -->
 

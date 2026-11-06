@@ -38,9 +38,9 @@ ES — **贝拉胡尼斯土白蚁** (*Odontotermes bellahunisensis*) es una espe
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *bellahunisensis*：以地名 bellahunis 命名（具体地名待考）
+种加词 *bellahunisensis*：以地名 Bellahunis 命名
 
-EN — epithet *bellahunisensis*: Named after a locality (bellahunis)
+EN — epithet *bellahunisensis*: Named after the locality Bellahunis
 
 <!-- src:S0018 -->
 

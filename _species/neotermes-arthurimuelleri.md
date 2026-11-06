@@ -35,9 +35,9 @@ ES — **阿图尔米勒新白蚁** (*Neotermes arthurimuelleri*) es una especie
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *arthurimuelleri*：以人名 arthurimueller 命名（具体指向待考）
+种加词 *arthurimuelleri*：以人名 Arthur Müller 命名
 
-EN — epithet *arthurimuelleri*: Named after a person (arthurimueller), identity uncertain
+EN — epithet *arthurimuelleri*: Named after Arthur Müller
 
 <!-- src:S0018 -->
 

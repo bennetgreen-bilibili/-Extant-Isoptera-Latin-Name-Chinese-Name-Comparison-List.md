@@ -38,9 +38,9 @@ ES — **伊拉拉佐纳图斯锯白蚁** (*Microcerotermes ilalazonatus*) es un
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *ilalazonatus*：词源未详
+种加词 *ilalazonatus*：Ilala（南非地名或棕榈）+ 拉丁语 zonatus（具带纹），伊拉拉产具带纹白蚁
 
-EN — epithet *ilalazonatus*: Etymology uncertain
+EN — epithet *ilalazonatus*: Ilala (South African locality/palm) + Latin zonatus (banded)
 
 <!-- src:S0018 -->
 

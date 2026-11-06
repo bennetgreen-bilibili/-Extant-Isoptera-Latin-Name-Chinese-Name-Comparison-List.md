@@ -38,9 +38,9 @@ ES — **马特拉加喙白蚁** (*Rhynchotermes matraga*) es una especie del g�
 
 EN — *Rhynchotermes*: From Greek rhynchos (beak, snout) + Latin termes.
 
-种加词 *matraga*：以当地土名或地名命名（具体指向待考）
+种加词 *matraga*：以巴西文学人物 Augusto Matraga 命名（吉马朗伊斯·罗萨同名短篇小说《奥古斯托·马特拉加的时刻》）
 
-EN — epithet *matraga*: After a local vernacular name or place (uncertain)
+EN — epithet *matraga*: Named after Augusto Matraga, character in Guimarães Rosa's short story
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **贾穆瘤突白蚁** (*Ekphysotermes jarmuranus*) es una especie del g�
 
 EN — *Ekphysotermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *jarmuranus*：以地名 jarmur 命名（具体地名待考）
+种加词 *jarmuranus*：以地名 Jarmura（澳大利亚）命名
 
-EN — epithet *jarmuranus*: Named after a locality (jarmur)
+EN — epithet *jarmuranus*: Named after the locality Jarmura (Australia)
 
 <!-- src:S0018 -->
 

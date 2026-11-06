@@ -38,9 +38,9 @@ ES — **米约马尔加什白蚁** (*Malagasitermes milloti*) es la única espe
 
 EN — *Malagasitermes*: From Malagasy (Madagascar) + termes.
 
-种加词 *milloti*：以人名 millot 命名（具体指向待考）
+种加词 *milloti*：以人名 Millot（米约）命名（法国动物学家 Jacques Millot，马达加斯加）
 
-EN — epithet *milloti*: Named after a person (millot), identity uncertain
+EN — epithet *milloti*: Named after Millot (French zoologist Jacques Millot)
 
 <!-- src:S0018 -->
 

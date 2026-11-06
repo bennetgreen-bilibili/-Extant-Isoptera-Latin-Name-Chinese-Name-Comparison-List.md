@@ -35,9 +35,9 @@ ES — **艾斯梅尔无刺白蚁** (*Anacanthotermes esmailii*) es una especie 
 
 EN — *Anacanthotermes*: From Greek an- (without) + akantha (thorn) + Latin termes, 'thornless termite'.
 
-种加词 *esmailii*：以人名 esmail 命名（具体指向待考）
+种加词 *esmailii*：以人名 Esmaili（伊朗姓氏）命名
 
-EN — epithet *esmailii*: Named after a person (esmail), identity uncertain
+EN — epithet *esmailii*: Named after Esmaili
 
 <!-- src:S0018 -->
 

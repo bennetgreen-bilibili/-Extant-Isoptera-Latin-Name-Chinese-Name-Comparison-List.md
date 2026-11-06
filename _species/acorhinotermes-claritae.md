@@ -35,9 +35,9 @@ ES — **克拉丽塔尖鼻白蚁** (*Acorhinotermes claritae*) es una especie d
 
 EN — *Acorhinotermes*: Contains Greek rhis (nose) + Latin termes; prefix derivation uncertain.
 
-种加词 *claritae*：以人名 clarit 命名（具体指向待考）
+种加词 *claritae*：以人名 Clarita 命名
 
-EN — epithet *claritae*: Named after a person (clarit), identity uncertain
+EN — epithet *claritae*: Named after Clarita
 
 <!-- src:S0018 -->
 

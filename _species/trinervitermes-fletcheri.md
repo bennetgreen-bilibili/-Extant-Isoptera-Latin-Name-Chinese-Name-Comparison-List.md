@@ -38,9 +38,9 @@ ES — **弗莱彻三脉白蚁** (*Trinervitermes fletcheri*) es una especie del
 
 EN — *Trinervitermes*: From Latin tri- (three) + nervus (vein) + termes.
 
-种加词 *fletcheri*：以人名 Fletcher 命名（具体指向待考）
+种加词 *fletcheri*：以人名 Fletcher（或 T. B. Fletcher，英国昆虫学家）命名
 
-EN — epithet *fletcheri*: Named after a person (Fletcher), identity uncertain
+EN — epithet *fletcheri*: Named after Fletcher
 
 <!-- src:S0018 -->
 

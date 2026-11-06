@@ -38,9 +38,9 @@ ES — **派瓦稀白蚁** (*Speculitermes paivai*) es una especie del género *
 
 EN — *Speculitermes*: From Latin speculum (mirror) + termes.
 
-种加词 *paivai*：以人名 paiva 命名（具体指向待考）
+种加词 *paivai*：以人名 Paiva（派瓦，葡语姓氏）命名
 
-EN — epithet *paivai*: Named after a person (paiva), identity uncertain
+EN — epithet *paivai*: Named after Paiva
 
 <!-- src:S0018 -->
 

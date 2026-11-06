@@ -35,9 +35,9 @@ ES — **黄氏散白蚁** (*Reticulitermes huangi*) es una especie del género 
 
 EN — *Reticulitermes*: From Latin reticulum (little net) + termes.
 
-种加词 *huangi*：以人名 huang 命名（具体指向待考）
+种加词 *huangi*：以人名 Huang（黄氏，中国）命名
 
-EN — epithet *huangi*: Named after a person (huang), identity uncertain
+EN — epithet *huangi*: Named after Huang (Chinese)
 
 <!-- src:S0018 -->
 

@@ -37,9 +37,9 @@ ES — **施瓦茨楹白蚁** (*Incisitermes schwarzi*) es una especie, y la esp
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *schwarzi*：以人名 schwarz 命名（具体指向待考）
+种加词 *schwarzi*：以人名 Schwarz（E. A. Schwarz，美国昆虫学家）命名
 
-EN — epithet *schwarzi*: Named after a person (schwarz), identity uncertain
+EN — epithet *schwarzi*: Named after E. A. Schwarz (American entomologist)
 
 <!-- src:S0018 -->
 

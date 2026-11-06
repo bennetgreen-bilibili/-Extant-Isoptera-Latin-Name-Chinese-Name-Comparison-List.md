@@ -35,9 +35,9 @@ ES — **哥伦比亚堆砂白蚁** (*Cryptotermes colombianus*) es una especie 
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *colombianus*：以人名 colomb 命名（具体指向待考）
+种加词 *colombianus*：以哥伦比亚（Colombia）命名
 
-EN — epithet *colombianus*: Named after a person (colomb), identity uncertain
+EN — epithet *colombianus*: Named after Colombia
 
 <!-- src:S0018 -->
 

@@ -35,9 +35,9 @@ ES — **弗朗西亚树白蚁** (*Glyptotermes franciae*) es una especie del g�
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *franciae*：以人名 franci 命名（具体指向待考）
+种加词 *franciae*：以人名 Francia 命名（或指法国）
 
-EN — epithet *franciae*: Named after a person (franci), identity uncertain
+EN — epithet *franciae*: Named after Francia (or France)
 
 <!-- src:S0018 -->
 

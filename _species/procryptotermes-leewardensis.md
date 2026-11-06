@@ -35,9 +35,9 @@ ES — **背风群岛前砂白蚁** (*Procryptotermes leewardensis*) es una espe
 
 EN — *Procryptotermes*: From Greek pro- (before) + kryptos (hidden) + Latin termes.
 
-种加词 *leewardensis*：以地名 leeward 命名（具体地名待考）
+种加词 *leewardensis*：以背风群岛（Leeward Islands，西印度群岛）命名
 
-EN — epithet *leewardensis*: Named after a locality (leeward)
+EN — epithet *leewardensis*: Named after the Leeward Islands (West Indies)
 
 <!-- src:S0018 -->
 

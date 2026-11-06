@@ -38,9 +38,9 @@ ES — **玻利瓦尔象白蚁** (*Nasutitermes bolivari*) es una especie del g�
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *bolivari*：以人名 bolivar 命名（具体指向待考）
+种加词 *bolivari*：以人名 Bolívar（Ignacio Bolívar）命名
 
-EN — epithet *bolivari*: Named after a person (bolivar), identity uncertain
+EN — epithet *bolivari*: Named after Ignacio Bolívar
 
 <!-- src:S0018 -->
 

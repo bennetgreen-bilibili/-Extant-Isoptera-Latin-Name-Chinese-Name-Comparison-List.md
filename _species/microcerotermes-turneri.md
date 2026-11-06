@@ -40,9 +40,9 @@ ES — **特纳锯白蚁** (*Microcerotermes turneri*) es una especie del géner
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *turneri*：以人名 turner 命名（具体指向待考）
+种加词 *turneri*：以人名 Turner（具体身份待考） 命名
 
-EN — epithet *turneri*: Named after a person (turner), identity uncertain
+EN — epithet *turneri*: Named after Turner
 
 <!-- src:S0018 -->
 

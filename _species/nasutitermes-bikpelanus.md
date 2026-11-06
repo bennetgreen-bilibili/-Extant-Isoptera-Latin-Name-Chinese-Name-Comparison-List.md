@@ -38,9 +38,9 @@ ES — **鼻大象白蚁** (*Nasutitermes bikpelanus*) es una especie del géner
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *bikpelanus*：以地名 bikpel 命名（具体地名待考）
+种加词 *bikpelanus*：巴布亚皮钦语 bikpela（大）
 
-EN — epithet *bikpelanus*: Named after a locality (bikpel)
+EN — epithet *bikpelanus*: From Tok Pisin bikpela (big, large)
 
 <!-- src:S0018 -->
 

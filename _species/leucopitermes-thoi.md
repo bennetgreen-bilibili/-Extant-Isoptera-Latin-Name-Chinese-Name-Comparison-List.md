@@ -38,9 +38,9 @@ ES — **索白脸白蚁** (*Leucopitermes thoi*) es una especie del género *Le
 
 EN — *Leucopitermes*: From Greek leukos (white) + Latin termes; further derivation uncertain.
 
-种加词 *thoi*：以人名 tho 命名（具体指向待考）
+种加词 *thoi*：以人名 Tho（Y. P. Tho，越南白蚁学家） 命名
 
-EN — epithet *thoi*: Named after a person (tho), identity uncertain
+EN — epithet *thoi*: Named after Y. P. Tho (Vietnamese termitologist)
 
 <!-- src:S0018 -->
 

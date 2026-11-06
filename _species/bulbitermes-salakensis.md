@@ -38,9 +38,9 @@ ES — **萨拉山瓢白蚁** (*Bulbitermes salakensis*) es una especie del gén
 
 EN — *Bulbitermes*: From Latin bulbus (bulb) + termes.
 
-种加词 *salakensis*：以地名 salak 命名（具体地名待考）
+种加词 *salakensis*：以地名 Mount Salak（萨拉克火山，印度尼西亚西爪哇）命名
 
-EN — epithet *salakensis*: Named after a locality (salak)
+EN — epithet *salakensis*: Named after the locality Mount Salak (West Java, Indonesia)
 
 <!-- src:S0018 -->
 

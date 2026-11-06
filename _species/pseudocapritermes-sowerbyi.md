@@ -40,9 +40,9 @@ ES — **圆囟伪扭白蚁** (*Pseudocapritermes sowerbyi*) es una especie del 
 
 EN — *Pseudocapritermes*: From Greek pseudēs (false) + Latin caper (goat) + termes.
 
-种加词 *sowerbyi*：以人名 sowerby 命名（具体指向待考）
+种加词 *sowerbyi*：以人名 Sowerby（A. de C. Sowerby，英国博物学家，在华采集）命名
 
-EN — epithet *sowerbyi*: Named after a person (sowerby), identity uncertain
+EN — epithet *sowerbyi*: Named after A. de C. Sowerby (British naturalist, collector in China)
 
 <!-- src:S0018 -->
 

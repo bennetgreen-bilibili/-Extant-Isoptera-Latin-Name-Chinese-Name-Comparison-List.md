@@ -38,9 +38,9 @@ ES — **肯帕象白蚁** (*Nasutitermes kempae*) es una especie del género *N
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *kempae*：以人名 kemp 命名（具体指向待考）
+种加词 *kempae*：以人名 Kemp 命名
 
-EN — epithet *kempae*: Named after a person (kemp), identity uncertain
+EN — epithet *kempae*: Named after Kemp
 
 <!-- src:S0018 -->
 

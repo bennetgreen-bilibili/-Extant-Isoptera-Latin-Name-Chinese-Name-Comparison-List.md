@@ -38,9 +38,9 @@ ES — **博泰戈土白蚁** (*Odontotermes bottegoanus*) es una especie del g�
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *bottegoanus*：以地名 bottego 命名（具体地名待考）
+种加词 *bottegoanus*：以博泰戈（V. Bottego，意大利探险家）命名
 
-EN — epithet *bottegoanus*: Named after a locality (bottego)
+EN — epithet *bottegoanus*: Named after V. Bottego
 
 <!-- src:S0018 -->
 

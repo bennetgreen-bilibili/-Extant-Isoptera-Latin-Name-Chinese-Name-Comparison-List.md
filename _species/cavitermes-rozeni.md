@@ -38,9 +38,9 @@ ES — **罗森腔白蚁** (*Cavitermes rozeni*) es una especie del género *Cav
 
 EN — *Cavitermes*: From Latin cavus (hollow) + termes.
 
-种加词 *rozeni*：以人名 rozen 命名（具体指向待考）
+种加词 *rozeni*：以人名 Rozen 命名（可能为 J. G. Rozen，美国昆虫学家）
 
-EN — epithet *rozeni*: Named after a person (rozen), identity uncertain
+EN — epithet *rozeni*: Named after a person "Rozen" (possibly J. G. Rozen, American entomologist)
 
 <!-- src:S0018 -->
 

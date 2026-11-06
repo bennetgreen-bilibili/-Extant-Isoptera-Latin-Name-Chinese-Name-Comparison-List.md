@@ -38,9 +38,9 @@ ES — **福阿木象白蚁** (*Diwaitermes foi*) es una especie del género *Di
 
 EN — *Diwaitermes*: From the place name Diwai; -termes from Latin termes.
 
-种加词 *foi*：以人名 fo 命名（具体指向待考）
+种加词 *foi*：以 Foi 人（巴布亚新几内亚民族）命名
 
-EN — epithet *foi*: Named after a person (fo), identity uncertain
+EN — epithet *foi*: Named after the Foi people (Papua New Guinea)
 
 <!-- src:S0018 -->
 

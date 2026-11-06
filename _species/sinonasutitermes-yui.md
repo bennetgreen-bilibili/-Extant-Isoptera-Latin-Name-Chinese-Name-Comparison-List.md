@@ -38,9 +38,9 @@ ES — **尤氏华象白蚁** (*Sinonasutitermes yui*) es una especie del géner
 
 EN — *Sinonasutitermes*: From Latin Sinae (China) + nasutus (nasute) + termes.
 
-种加词 *yui*：以人名 yu 命名（具体指向待考）
+种加词 *yui*：以人名 Yu（于/余，具体身份待考） 命名
 
-EN — epithet *yui*: Named after a person (yu), identity uncertain
+EN — epithet *yui*: Named after Yu
 
 <!-- src:S0018 -->
 

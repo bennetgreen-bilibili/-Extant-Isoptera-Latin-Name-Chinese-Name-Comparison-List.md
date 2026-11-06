@@ -38,9 +38,9 @@ ES — **塔塔恩达象白蚁** (*Nasutitermes tatarendae*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *tatarendae*：以人名 tatarend 命名（具体指向待考）
+种加词 *tatarendae*：以地名 Tatarend 命名（具体待考）
 
-EN — epithet *tatarendae*: Named after a person (tatarend), identity uncertain
+EN — epithet *tatarendae*: Named after the locality Tatarend
 
 <!-- src:S0018 -->
 

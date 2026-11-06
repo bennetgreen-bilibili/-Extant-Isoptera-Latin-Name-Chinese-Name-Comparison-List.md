@@ -38,9 +38,9 @@ ES — **丹尼尔锯白蚁** (*Microcerotermes danieli*) es una especie del gé
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *danieli*：以人名 daniel 命名（具体指向待考）
+种加词 *danieli*：以人名 Daniel 命名
 
-EN — epithet *danieli*: Named after a person (daniel), identity uncertain
+EN — epithet *danieli*: Named after Daniel
 
 <!-- src:S0018 -->
 

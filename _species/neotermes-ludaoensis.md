@@ -35,9 +35,9 @@ ES — **绿岛新白蚁** (*Neotermes ludaoensis*) es una especie del género *
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *ludaoensis*：以地名 ludao 命名（具体地名待考）
+种加词 *ludaoensis*：以台湾绿岛（Ludao）命名
 
-EN — epithet *ludaoensis*: Named after a locality (ludao)
+EN — epithet *ludaoensis*: Named after Lüdao (Green Island), Taiwan
 
 <!-- src:S0018 -->
 

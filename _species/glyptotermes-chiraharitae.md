@@ -35,9 +35,9 @@ ES — **常绿树白蚁** (*Glyptotermes chiraharitae*) es una especie del gén
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *chiraharitae*：以人名 chiraharit 命名（具体指向待考）
+种加词 *chiraharitae*：以地名 Chiraharit 命名
 
-EN — epithet *chiraharitae*: Named after a person (chiraharit), identity uncertain
+EN — epithet *chiraharitae*: Named after the locality Chiraharit
 
 <!-- src:S0018 -->
 

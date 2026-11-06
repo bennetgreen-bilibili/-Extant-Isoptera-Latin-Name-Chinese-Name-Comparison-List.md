@@ -38,9 +38,9 @@ ES — **科姆斯托克象白蚁** (*Nasutitermes comstockae*) es una especie d
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *comstockae*：以人名 comstock 命名（具体指向待考）
+种加词 *comstockae*：以人名 Comstock 命名
 
-EN — epithet *comstockae*: Named after a person (comstock), identity uncertain
+EN — epithet *comstockae*: Named after Comstock
 
 <!-- src:S0018 -->
 

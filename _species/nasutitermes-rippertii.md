@@ -40,9 +40,9 @@ ES — **里珀特象白蚁** (*Nasutitermes rippertii*) es una especie del gén
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *rippertii*：以人名 rippert 命名（具体指向待考）
+种加词 *rippertii*：以人名 Rippert 命名（可能为采集者）
 
-EN — epithet *rippertii*: Named after a person (rippert), identity uncertain
+EN — epithet *rippertii*: Named after a person "Rippert" (likely a collector)
 
 <!-- src:S0018 -->
 

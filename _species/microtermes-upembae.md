@@ -38,9 +38,9 @@ ES — **乌彭巴小白蚁** (*Microtermes upembae*) es una especie del género
 
 EN — *Microtermes*: From Greek mikros (small) + Latin termes, 'small termite'.
 
-种加词 *upembae*：以人名 upemb 命名（具体指向待考）
+种加词 *upembae*：以乌彭巴（Upemba，刚果）命名
 
-EN — epithet *upembae*: Named after a person (upemb), identity uncertain
+EN — epithet *upembae*: Named after Upemba (DR Congo)
 
 <!-- src:S0018 -->
 

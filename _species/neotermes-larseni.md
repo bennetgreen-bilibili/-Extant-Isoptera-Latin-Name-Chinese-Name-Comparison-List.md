@@ -35,9 +35,9 @@ ES — **拉森新白蚁** (*Neotermes larseni*) es una especie del género *Neo
 
 EN — *Neotermes*: From Greek neos (new) + Latin termes.
 
-种加词 *larseni*：以人名 larsen 命名（具体指向待考）
+种加词 *larseni*：以人名 Larsen 命名
 
-EN — epithet *larseni*: Named after a person (larsen), identity uncertain
+EN — epithet *larseni*: Named after Larsen
 
 <!-- src:S0018 -->
 

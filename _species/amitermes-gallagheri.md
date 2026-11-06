@@ -38,9 +38,9 @@ ES — **加拉格尔弓白蚁** (*Amitermes gallagheri*) es una especie del gé
 
 EN — *Amitermes*: Etymology uncertain; -termes from Latin termes.
 
-种加词 *gallagheri*：以人名 gallagher 命名（具体指向待考）
+种加词 *gallagheri*：以人名 Gallagher 命名
 
-EN — epithet *gallagheri*: Named after a person (gallagher), identity uncertain
+EN — epithet *gallagheri*: Named after Gallagher
 
 <!-- src:S0018 -->
 

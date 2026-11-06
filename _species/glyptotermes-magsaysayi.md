@@ -35,9 +35,9 @@ ES — **麦格赛赛树白蚁** (*Glyptotermes magsaysayi*) es una especie del 
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *magsaysayi*：以人名 magsaysay 命名（具体指向待考）
+种加词 *magsaysayi*：以人名 Magsaysay（麦格赛赛）命名（菲律宾总统 Ramon Magsaysay）
 
-EN — epithet *magsaysayi*: Named after a person (magsaysay), identity uncertain
+EN — epithet *magsaysayi*: Named after Magsaysay (Philippine president Ramon Magsaysay)
 
 <!-- src:S0018 -->
 

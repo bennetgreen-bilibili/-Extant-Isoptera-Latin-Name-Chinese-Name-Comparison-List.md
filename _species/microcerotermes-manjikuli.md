@@ -38,9 +38,9 @@ ES — **曼志库尔锯白蚁** (*Microcerotermes manjikuli*) es una especie de
 
 EN — *Microcerotermes*: From Greek mikros (small) + keras (horn) + Latin termes.
 
-种加词 *manjikuli*：以人名 manjikul 命名（具体指向待考）
+种加词 *manjikuli*：以人名 Manjikul 命名
 
-EN — epithet *manjikuli*: Named after a person (manjikul), identity uncertain
+EN — epithet *manjikuli*: Named after Manjikul
 
 <!-- src:S0018 -->
 

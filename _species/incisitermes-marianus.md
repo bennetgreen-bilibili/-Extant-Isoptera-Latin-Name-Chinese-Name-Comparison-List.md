@@ -35,9 +35,9 @@ ES — **马里亚纳楹白蚁** (*Incisitermes marianus*) es una especie del g�
 
 EN — *Incisitermes*: From Latin incisus (cut, notched) + termes.
 
-种加词 *marianus*：以人名 mar 命名（具体指向待考）
+种加词 *marianus*：以马里亚纳群岛（Mariana）命名
 
-EN — epithet *marianus*: Named after a person (mar), identity uncertain
+EN — epithet *marianus*: Named after the Marianas
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **阿奎尔尖白蚁** (*Apicotermes arquieri*) es una especie del géner
 
 EN — *Apicotermes*: From Latin apex (tip, summit) + termes.
 
-种加词 *arquieri*：以人名 arquier 命名（具体指向待考）
+种加词 *arquieri*：以人名 Arquier 命名
 
-EN — epithet *arquieri*: Named after a person (arquier), identity uncertain
+EN — epithet *arquieri*: Named after Arquier
 
 <!-- src:S0018 -->
 

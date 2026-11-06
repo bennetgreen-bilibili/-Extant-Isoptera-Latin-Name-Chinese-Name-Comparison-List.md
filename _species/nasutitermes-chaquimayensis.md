@@ -40,9 +40,9 @@ ES — **查基马约象白蚁** (*Nasutitermes chaquimayensis*) es una especie 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *chaquimayensis*：以地名 chaquimay 命名（具体地名待考）
+种加词 *chaquimayensis*：以地名 Chaquimayo 命名
 
-EN — epithet *chaquimayensis*: Named after a locality (chaquimay)
+EN — epithet *chaquimayensis*: Named after the locality Chaquimayo
 
 <!-- src:S0018 -->
 

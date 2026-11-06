@@ -38,9 +38,9 @@ ES — **粗颚土白蚁** (*Odontotermes gravelyi*) es una especie del género 
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *gravelyi*：以人名 gravely 命名（具体指向待考）
+种加词 *gravelyi*：以人名 F. H. Gravely（英国昆虫学家，印度博物馆馆长）命名
 
-EN — epithet *gravelyi*: Named after a person (gravely), identity uncertain
+EN — epithet *gravelyi*: Named after F. H. Gravely
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **朱氏大白蚁** (*Macrotermes zhui*) es una especie del género *Macr
 
 EN — *Macrotermes*: From Greek makros (large) + Latin termes, 'large termite'.
 
-种加词 *zhui*：以人名 zhu 命名（具体指向待考）
+种加词 *zhui*：以人名 Zhu 命名（具体身份待考）
 
-EN — epithet *zhui*: Named after a person (zhu), identity uncertain
+EN — epithet *zhui*: Named after Zhu
 
 <!-- src:S0018 -->
 

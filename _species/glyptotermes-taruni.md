@@ -35,9 +35,9 @@ ES — **塔鲁恩树白蚁** (*Glyptotermes taruni*) es una especie del género
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *taruni*：以人名 tarun 命名（具体指向待考）
+种加词 *taruni*：以人名 Tarun 命名（具体身份待考）
 
-EN — epithet *taruni*: Named after a person (tarun), identity uncertain
+EN — epithet *taruni*: Named after Tarun
 
 <!-- src:S0018 -->
 

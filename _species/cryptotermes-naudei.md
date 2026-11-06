@@ -35,9 +35,9 @@ ES — **诺代堆砂白蚁** (*Cryptotermes naudei*) es una especie del género
 
 EN — *Cryptotermes*: From Greek kryptos (hidden) + Latin termes, for its concealed wood-dwelling habits.
 
-种加词 *naudei*：以人名 naude 命名（具体指向待考）
+种加词 *naudei*：以人名 Naudé（诺德，南非姓氏）命名
 
-EN — epithet *naudei*: Named after a person (naude), identity uncertain
+EN — epithet *naudei*: Named after Naudé
 
 <!-- src:S0018 -->
 

@@ -38,9 +38,9 @@ ES — **喀拉拉角白蚁** (*Angulitermes keralai*) es una especie del géner
 
 EN — *Angulitermes*: From Latin angulus (angle, corner) + termes.
 
-种加词 *keralai*：以人名 kerala 命名（具体指向待考）
+种加词 *keralai*：以喀拉拉（Kerala，印度）命名
 
-EN — epithet *keralai*: Named after a person (kerala), identity uncertain
+EN — epithet *keralai*: Named after Kerala (India)
 
 <!-- src:S0018 -->
 

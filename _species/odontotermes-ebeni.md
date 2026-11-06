@@ -38,9 +38,9 @@ ES — **埃本土白蚁** (*Odontotermes ebeni*) es una especie del género *Od
 
 EN — *Odontotermes*: From Greek odous (tooth) + Latin termes.
 
-种加词 *ebeni*：以人名 eben 命名（具体指向待考）
+种加词 *ebeni*：以人名 Eben 命名
 
-EN — epithet *ebeni*: Named after a person (eben), identity uncertain
+EN — epithet *ebeni*: Named after Eben
 
 <!-- src:S0018 -->
 

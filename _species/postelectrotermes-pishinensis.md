@@ -35,9 +35,9 @@ ES — **比欣后琥珀白蚁** (*Postelectrotermes pishinensis*) es una especi
 
 EN — *Postelectrotermes*: From Latin post (after) + Greek ēlektron (amber) + termes (possibly alluding to amber fossils).
 
-种加词 *pishinensis*：以地名 pishin 命名（具体地名待考）
+种加词 *pishinensis*：以巴基斯坦俾路支省皮欣（Pishin）命名
 
-EN — epithet *pishinensis*: Named after a locality (pishin)
+EN — epithet *pishinensis*: Named after Pishin, Balochistan, Pakistan
 
 <!-- src:S0018 -->
 

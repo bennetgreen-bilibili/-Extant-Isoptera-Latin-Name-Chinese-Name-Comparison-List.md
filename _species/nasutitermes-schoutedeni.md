@@ -40,9 +40,9 @@ ES — **斯考特登象白蚁** (*Nasutitermes schoutedeni*) es una especie del
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *schoutedeni*：以人名 schouteden 命名（具体指向待考）
+种加词 *schoutedeni*：以 H. Schouteden（比利时昆虫学家）命名
 
-EN — epithet *schoutedeni*: Named after a person (schouteden), identity uncertain
+EN — epithet *schoutedeni*: Named after H. Schouteden
 
 <!-- src:S0018 -->
 
