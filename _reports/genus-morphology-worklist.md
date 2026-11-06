@@ -6,9 +6,9 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**186**。
-- 仍待补文献描述：**105**。其中 97 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
-- 有 Treatise 条目但未提取到模式种的属：4（不影响找原始文献，但补写时要先确认模式种）。
+- 已补写文献描述：**191**。
+- 仍待补文献描述：**100**。其中 92 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
+- 有 Treatise 条目但未提取到模式种的属：2（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
 > 均摘自 Krishna et al. (2013) 的属级条目；该书只登记原始发表信息、模式种和
@@ -47,7 +47,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 157 | 100 | 6 |
+| 白蚁科 Termitidae | 280 | 23 | 162 | 95 | 6 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -1615,14 +1615,12 @@
   - Sands, 1998: 45, 301–303, figs. 1550–1562, pl. 18: fig. 8 — Enetotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/enetotermes/
 
-### 无名白蚁属 *Ereymatermes* — 待补（有 Treatise 线索）
+### 无名白蚁属 *Ereymatermes* — 已有文献描述
 
-- 原始描述：Ereymatermes Constantino, 1991b: 2–3.
-- 模式种：Ereymatermes rotundiceps Constantino, 1991 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Roisin, 1995: 289 — Ereymatermes; characters.
-  - Constantino, 1999a: 402, 414 — Ereymatermes; key; biology; distribution.
-  - Constantino, 2002a: 14 — Ereymatermes; key.
+- 已据文献补写：Cancello, E. M. & Cuezzo, C. 2007. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288.
+- 定位：p. 283（摘要）；p. 284（属级界定、兵蚁）；p. 285（工蚁）
+- 已据文献补写：Cuezzo, C. & Nickle, D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9.
+- 定位：工蚁比较段
 - 页面：https://isoptera.lifemosaic.net/genus/ereymatermes/
 
 ### 小真白蚁属 *Eutermellus* — 已有文献描述
@@ -1752,11 +1750,10 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 凋落白蚁属 *Ngauratermes* — 待补（有 Treatise 线索）
+### 凋落白蚁属 *Ngauratermes* — 已有文献描述
 
-- 原始描述：Ngauratermes Constantino and Acioli, 2009: 23–27.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.
+- 定位：pp. 23–26（属级 treatment）
 - 页面：https://isoptera.lifemosaic.net/genus/ngauratermes/
 
 ### 新几内亚白蚁属 *Niuginitermes* — 待补（有 Treatise 线索）
@@ -1766,16 +1763,14 @@
 - Treatise 未标注可用的形态/检索文献。
 - 页面：https://isoptera.lifemosaic.net/genus/niuginitermes/
 
-### 钝白蚁属 *Obtusitermes* — 待补（有 Treatise 线索）
+### 钝白蚁属 *Obtusitermes* — 已有文献描述
 
-- 原始描述：Obtusitermes Snyder, 1924a: 20.
-- 模式种：Nasutitermes (Obtusitermes) biforma Snyder, 1924 [= Nasutitermes (Obtusitermes) panamae Snyder, 1925] by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Spaeth, 1967: 852 — Obtusitermes; characters; comparisons.
-  - Morimoto, 1975b: 25 — Obtusitermes; key.
-  - Mill, 1983a: 183, 189 — Obtusitermes; key; number of species in New World; habitat; distribution.
-  - Nickle and Collins, 1992: 226, 227, 237–238 — Obtusitermes; key; characters.
-  - Roisin et al., 1996: 777 — Obtusitermes; soldier, worker characters.
+- 已据文献补写：Scheffrahn, R. H., Roisin, Y., Wang, C., Bourguignon, T. & Hellemans, S. 2025. Obtusitermes monomorphus, a new termite species (Blattodea: Termitidae: Nasutitermitinae) from Panama. Zootaxa 5583(3): 567–578.
+- 定位：pp. 572–574（种级 treatment，含属级比较）
+- 已据文献补写：Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.
+- 定位：p. 24（Antillitermes/Obtusitermes 比较）
+- 已据文献补写：Cuezzo, C., Cancello, E. M. & Carrijo, T. F. 2017. Sandsitermes gen. nov., a new nasute termite genus from South America (Isoptera, Termitidae, Nasutitermitinae). Zootaxa 4221(5): 562–574.
+- 定位：比较段（有翅成虫）
 - 页面：https://isoptera.lifemosaic.net/genus/obtusitermes/
 
 ### 西部白蚁属 *Occasitermes* — 已有文献描述
@@ -1804,11 +1799,10 @@
   - Gathorne-Hardy, 2004: 126 — Oriensubulitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/oriensubulitermes/
 
-### 近凸白蚁属 *Paraconvexitermes* — 待补（有 Treatise 线索）
+### 近凸白蚁属 *Paraconvexitermes* — 已有文献描述
 
-- 原始描述：Paraconvexitermes Cancello and Noirot, 2003: 193 [188–190.
-- 模式种：（未提取到，需查原始文献）
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Cuezzo, C. & Nickle, D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9.
+- 定位：兵蚁、工蚁比较段
 - 页面：https://isoptera.lifemosaic.net/genus/paraconvexitermes/
 
 ### 微白蚁属 *Parvitermes* — 待补（有 Treatise 线索）
@@ -1927,14 +1921,10 @@
 - 定位：pp. 359–360（Genus Tiunatermes gen. nov.: Description / Comparisons）
 - 页面：https://isoptera.lifemosaic.net/genus/tiunatermes/
 
-### 三角白蚁属 *Triangularitermes* — 待补（有 Treatise 线索）
+### 三角白蚁属 *Triangularitermes* — 已有文献描述
 
-- 原始描述：Triangularitermes Mathews, 1977: 202.
-- 模式种：Triangularitermes triangulariceps Mathews, 1977 by original designation.
-- 可先查的文献（Treatise 标注含形态/检索，非描述正文）：
-  - Mill, 1983a: 183, 188 — Triangularitermes; key; number of species in New World; habitat; distribution.
-  - Constantino, 1999a: 404, 413 — Triangularitermes; key; biology; distribution.
-  - Constantino, 2002a: 12 — Triangularitermes; key.
+- 已据文献补写：Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.
+- 定位：p. 25（Triangularitermes 比较段，转引 Mathews 1977）
 - 页面：https://isoptera.lifemosaic.net/genus/triangularitermes/
 
 ### 三脉白蚁属 *Trinervitermes* — 已有文献描述

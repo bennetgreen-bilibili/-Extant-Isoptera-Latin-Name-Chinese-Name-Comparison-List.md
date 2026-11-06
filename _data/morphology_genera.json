@@ -2967,6 +2967,146 @@
     ],
     "note": "原始描述（Mathews 1977 专著）未能取得可读全文，本条目仅据 Constantino 1999 的属级检索表，可写特征面窄；该文只给出兵蚁检索性状与肠道特征，故不设工蚁与有翅成虫两节。"
   },
+  "/genus/ereymatermes/": {
+    "zh_name": "无名白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "新热带区特有的 nasute 属。据后出文献，本属是一个界定较为清楚的属，其属义可由兵蚁、工蚁与有翅成虫三个品级共同识别。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳卵形，触角基后方略有收缩；象鼻长圆柱形，侧面观不上翘；唇基极度退化；触角 12 节；胫节距 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "二型，分窄隙型与宽隙型，窄隙型比宽隙型常见得多；臼齿区脊减弱，但未失去缘齿。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0098",
+        "citation": "Cancello, E. M. & Cuezzo, C. 2007. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288.",
+        "locator": "p. 283（摘要）；p. 284（属级界定、兵蚁）；p. 285（工蚁）"
+      },
+      {
+        "id": "S0057",
+        "citation": "Cuezzo, C. & Nickle, D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9.",
+        "locator": "工蚁比较段"
+      }
+    ],
+    "note": "Constantino (1991) 的原始描述未获全文；属级界定与兵蚁、工蚁形态据 Cancello & Cuezzo (2007) 对本属一种的记述，工蚁臼齿性状据 Cuezzo & Nickle (2011) 的比较性记述。有翅成虫仅知存在，未见形态描述，故不设该节。"
+  },
+  "/genus/ngauratermes/": {
+    "zh_name": "凋落白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "亚马逊落叶层中生活的一属，属名取自 Ticuna 语 ngau'ra（落叶）。兵蚁与工蚁均为二型，有翅成虫至今未知。原作者指出本属与 Tenuirostritermes、Diversitermes、Velocitermes 所构成的类群有许多相似之处，尤近后二属。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "二型。上颚具明显齿突；触角 13 节；象鼻基部狭窄，近圆柱形。大型兵蚁头壳宽阔，触角后方略收缩，两侧向前收窄；小型兵蚁头壳狭长，触角后方收缩显著。胫节距 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "二型，分窄隙型与宽隙型，两型体型重叠，不能按大、小型工蚁划分；宽隙型比例很低，模式系列 103 头工蚁中仅 6 头，左颚指数 0.32。工蚁触角 14 节，第 4 节很短且未硬化；左颚指数 0.35；臼齿板宽阔、凹陷、脊弱。P1 简单管状，无端环；肠瓣锥形、弯曲，位于后部，自背左侧插入 P3，骨化弱，具两圈刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0096",
+        "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+        "locator": "pp. 23–26（属级 treatment）"
+      }
+    ],
+    "note": "原作者明记 Imago. Unknown.，故不设有翅成虫一节。兵蚁、工蚁性状均出自属级 treatment；与 Tenuirostritermes、Diversitermes、Velocitermes 的比较见同文 Comparisons 段。"
+  },
+  "/genus/obtusitermes/": {
+    "zh_name": "钝白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁单型，是该属的命名由来。兵蚁触角少于 13 节。后肠构造在等翅目中独一无二：P1 经一条很长、管状的 P2 与 P3 相连，P2 弯转约 180°，两端骨化皆弱。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型，体型小；头壳红褐色，象鼻颜色更深；头壳自上观呈梨形，前 1/3 处收缩，触角窝之后侧观凸出；象鼻宽锥形，上翘约 10°；触角 11 节，节式 2<3>4≤5；上颚具小齿突。头顶刚毛数目种间不同：O. monomorphus 仅 6 根长刚毛，O. panamae 与 O. formosulus 则为多数散生的长、短刚毛。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型；触角 12 节；中肠与 P1 呈管状，混合段缺如，P1 近中部有一略暗的收缩；左颚端齿与第 1 缘齿等长，臼齿板具脊；肠瓣骨化部很长、管状，两圈之间隔以近 1 mm 的平滑角质。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "后唇基侧面观微呈拱形，前缘平直，后缘微凸，与 Sandsitermes、Caetetermes、Caribitermes、Cortaritermes、Nasutitermes 相同。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0097",
+        "citation": "Scheffrahn, R. H., Roisin, Y., Wang, C., Bourguignon, T. & Hellemans, S. 2025. Obtusitermes monomorphus, a new termite species (Blattodea: Termitidae: Nasutitermitinae) from Panama. Zootaxa 5583(3): 567–578.",
+        "locator": "pp. 572–574（种级 treatment，含属级比较）"
+      },
+      {
+        "id": "S0096",
+        "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+        "locator": "p. 24（Antillitermes/Obtusitermes 比较）"
+      },
+      {
+        "id": "S0056",
+        "citation": "Cuezzo, C., Cancello, E. M. & Carrijo, T. F. 2017. Sandsitermes gen. nov., a new nasute termite genus from South America (Isoptera, Termitidae, Nasutitermitinae). Zootaxa 4221(5): 562–574.",
+        "locator": "比较段（有翅成虫）"
+      }
+    ],
+    "note": "O. monomorphus 的有翅成虫原文记为 Imago. Unknown.；有翅成虫一节仅据 Cuezzo et al. (2017) 的属级比较。Constantino & Acioli (2009) 称本属兵蚁上颚 without points，与 Scheffrahn et al. (2025) 的 small points 相矛盾，正文取后者原文描述并在此记明分歧。"
+  },
+  "/genus/paraconvexitermes/": {
+    "zh_name": "近凸白蚁属",
+    "sections": [
+      {
+        "label": "兵蚁",
+        "text": "象鼻锥形；触角 11 节；与 Sinqasapatermes 的差别在于刚毛式与兵蚁头壳形状。"
+      },
+      {
+        "label": "工蚁",
+        "text": "臼齿区脊减弱，但保留缘齿，与 Araujotermes、Atlantitermes、Coatitermes、Convexitermes、Ereymatermes、Subulitermes 相同。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0057",
+        "citation": "Cuezzo, C. & Nickle, D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9.",
+        "locator": "兵蚁、工蚁比较段"
+      }
+    ],
+    "note": "原始描述 Cancello & Noirot (2003, Annales de la Société Entomologique de France (n.s.) 39: 187–193) 未获全文；此处只能依据后出文献中的比较性属级记述，故不设更多细部。"
+  },
+  "/genus/triangularitermes/": {
+    "zh_name": "三角白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁单型；与 Ngauratermes 大型兵蚁在体型、色泽、头壳形状、13 节触角与上颚具明显齿突诸点相似，且分布同区。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型；象鼻更呈锥形；腿与触角较长；头壳上短毛稀少。"
+      },
+      {
+        "label": "工蚁",
+        "text": "混合段较长；马氏管在同一处成组附着；P1 末端在背侧形成短环；肠瓣两圈刺的长度相近。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0096",
+        "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+        "locator": "p. 25（Triangularitermes 比较段，转引 Mathews 1977）"
+      }
+    ],
+    "note": "Mathews (1977) 的原始描述不可得；上述为 Constantino & Acioli (2009) 引述 Mathews (1977) 的属级比较记述，非原描述原文。"
+  },
   "/genus/aparatermes/": {
     "zh_name": "弯肠白蚁属",
     "sections": [

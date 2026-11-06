@@ -1558,5 +1558,55 @@
       }
     ],
     "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/ngauratermes-arue/": {
+    "zh_name": "小凋落白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "亚马逊落叶层中生活的一属，属名取自 Ticuna 语 ngau'ra（落叶）。兵蚁与工蚁均为二型，有翅成虫至今未知。原作者指出本属与 Tenuirostritermes、Diversitermes、Velocitermes 所构成的类群有许多相似之处，尤近后二属。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "二型。上颚具明显齿突；触角 13 节；象鼻基部狭窄，近圆柱形。大型兵蚁头壳宽阔，触角后方略收缩，两侧向前收窄；小型兵蚁头壳狭长，触角后方收缩显著。胫节距 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "二型，分窄隙型与宽隙型，两型体型重叠，不能按大、小型工蚁划分；宽隙型比例很低，模式系列 103 头工蚁中仅 6 头，左颚指数 0.32。工蚁触角 14 节，第 4 节很短且未硬化；左颚指数 0.35；臼齿板宽阔、凹陷、脊弱。P1 简单管状，无端环；肠瓣锥形、弯曲，位于后部，自背左侧插入 P3，骨化弱，具两圈刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0096",
+        "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+        "locator": "pp. 23–26（属级 treatment）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+  },
+  "/species/triangularitermes-triangulariceps/": {
+    "zh_name": "三角头三角白蚁",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁单型；与 Ngauratermes 大型兵蚁在体型、色泽、头壳形状、13 节触角与上颚具明显齿突诸点相似，且分布同区。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "单型；象鼻更呈锥形；腿与触角较长；头壳上短毛稀少。"
+      },
+      {
+        "label": "工蚁",
+        "text": "混合段较长；马氏管在同一处成组附着；P1 末端在背侧形成短环；肠瓣两圈刺的长度相近。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0096",
+        "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+        "locator": "p. 25（Triangularitermes 比较段，转引 Mathews 1977）"
+      }
+    ],
+    "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
   }
 }
