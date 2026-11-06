@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 67,
+    "count": 73,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T06:52:58+08:00",
+    "updated": "2026-11-07T06:58:31+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -3427,6 +3427,351 @@
       "accessed": "2026-11-07T06:52:58+08:00",
       "canonical_key": "url:https://digitallibrary.amnh.org/items/1c297c2a-f5e7-4e04-baae-fd96941d2889",
       "id": "S0067"
+    },
+    {
+      "title": "Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.11646/zootaxa.5138.4.6",
+      "year": 2022,
+      "authors": [
+        "Rocha, M. M.",
+        "Cancello, E. M."
+      ],
+      "publisher": "Magnolia Press",
+      "journal": "Zootaxa",
+      "volume": "5138(4)",
+      "pages": "445–463",
+      "lang": "en",
+      "license": "unknown（Plazi 收录的 treatment XML；文章授权条款未核实）",
+      "retrieved_via": "Plazi treatment XML（tb.plazi.org/GgServer/xml/03BB783DFFBA5720FF3896DA78F80064 等）→ 去标签纯文本",
+      "evidence": [
+        {
+          "quote": "All three genera workers have pulvilli ornamented with conspicuous spines ( Fig. 2a ), a character absent in all other members of Syntermitinae",
+          "locator": "p. 447–449，属级 Description「Comparisons with other genera of Syntermitinae」段",
+          "note": "支撑：Syntermitinae 中仅 Biratermes、Mapinguaritermes、Ibitermes 三属工蚁垫具显著刺——本属鉴别要点。"
+        },
+        {
+          "quote": "In the new genera the soldier mandibles are bladelike and robust, and the forecoxae have a smooth surface",
+          "locator": "p. 447–449，属级 Description「Comparisons with other genera of Syntermitinae」段",
+          "note": "支撑：原文对三个新属的共同兵蚁特征：上颚刀状粗壮、前基节表面光滑，而 Embiratermes s.s. 为具尖端穿刺型上颚、前基节腹缘有突起——兵蚁节（本属兵蚁外部形态本身沿用 Constantino 1992）。"
+        },
+        {
+          "quote": "Cuticular armature of gizzard with 24 visible folds, six of these first-order, six second-order and 12 third-order; ratio between columnar and pulvillar belts approximately equal to one; pulvillus I (major) ornamented with conspicuous spines",
+          "locator": "p. 447–449，「Digestive tube」段",
+          "note": "支撑：砂囊 24 褶（6/6/12）、柱状带与垫状带近等、第一级垫具显著刺——工蚁节。"
+        },
+        {
+          "quote": "Enteric valve (P2) composed of three nearly equal conical ridges, covered with curved spines ( Fig. 14b ), [ Constantino (1990) fig. 12)]. Dorsal torsion well developed. Third proctodeal segment joined P4 by an isthmus is inserted subapically",
+          "locator": "p. 456–458，「Digestive tube」段",
+          "note": "支撑：P2 三锥形脊覆弯刺、峡部近端插入——鉴别要点。"
+        },
+        {
+          "quote": "Head elongate, rectangular or sub-rectangular, narrowing slightly towards front with lateral and posterior margins slightly convex and posterolateral angles broadly rounded",
+          "locator": "p. 456–458，「Soldier」段",
+          "note": "支撑：兵蚁头长方形、后侧角宽圆——兵蚁节。"
+        },
+        {
+          "quote": "Worker . Head capsule rounded. Postclypeus moderately inflated or more inflated. Antenna with 14 articles.",
+          "locator": "p. 456–458，「Worker」段",
+          "note": "支撑：工蚁头圆、后唇基中等至较强膨大、触角 14 节——工蚁节。"
+        },
+        {
+          "quote": "Enteric valve (P2) composed of three nearly equal ridges covered with thin curved spines ( Figs 6b , 11b ). Dorsal torsion well-developed. P3 joined to P4 by an isthmus is inserted subapically",
+          "locator": "p. 450–451，「Digestive tube」段",
+          "note": "支撑：P2 三脊覆细弯刺、峡部近端插入——鉴别要点。"
+        },
+        {
+          "quote": "Head sub-rectangular, with lateral and posterior margins of varying convexity, rounded posterolateral angles; moderate-sized conical nasus",
+          "locator": "p. 450–451，「Soldier」段",
+          "note": "支撑：兵蚁头近长方形、鼻圆锥形中等——兵蚁节。"
+        },
+        {
+          "quote": "Worker . Head capsule rounded. Postclypeus short and inflated. Antennae with 13 or 14 articles.",
+          "locator": "p. 450–451，「Worker」段",
+          "note": "支撑：工蚁头圆、后唇基短而膨大、触角 13 或 14 节——工蚁节。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+      ],
+      "notes": "为 3 个属（拜拉白蚁属、班代拉白蚁属、瓦宁白蚁属）提供属级形态文本；本记录逐字摘录合计 1434 字符。",
+      "accessed": "2026-11-07T06:58:31+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.5138.4.6",
+      "id": "S0068"
+    },
+    {
+      "title": "Muelleritermes: A new termite genus with two species from the Brazilian Atlantic Forest (Isoptera: Termitidae: Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.11646/zootaxa.4012.2.2",
+      "year": 2015,
+      "authors": [
+        "Oliveira, D. E.",
+        "Rocha, M. M.",
+        "Cancello, E. M."
+      ],
+      "publisher": "Magnolia Press",
+      "journal": "Zootaxa",
+      "volume": "4012(2)",
+      "pages": "258–270",
+      "lang": "en",
+      "license": "unknown（Plazi 收录的 treatment XML；文章授权条款未核实）",
+      "retrieved_via": "Plazi treatment XML（1359FD17FFDDFFB9C3FCFBAAFE360CC5）→ 去标签纯文本",
+      "evidence": [
+        {
+          "quote": "can be easily distinguished from other members of Nasutitermitinae , except Velocitermes and Diversitermes , by the presence of three types of soldiers and a pair of vestigial ocelli (described below) on the soldier's head",
+          "locator": "pp. 259–263，「Comparisons with other Nasutitermitinae genera」段",
+          "note": "支撑：三型兵蚁 + 一对退化单眼，仅本属与 Velocitermes、Diversitermes 具——鉴别要点。"
+        },
+        {
+          "quote": "Trimorphic. Head capsule of major soldier broad, rounded, almost square or slightly oval, without constriction behind antennae ( M. globiceps , sp. n. ), occasionally very slightly constricted (some individuals in M. fritzi , sp. n. ), oval or slightly oval in intermediate soldier.",
+          "locator": "pp. 259–263，「Soldier」段",
+          "note": "支撑：兵蚁三型；大型兵头近方形或略卵形、触角后无收缩，中型兵头卵形——兵蚁节。"
+        },
+        {
+          "quote": "Worker : Dimorphic, the minor worker occurs rarely. Major worker has two types of mandibles (termed narrow- and broad-gap by Fontes, 1987 ). Head rounded ( Fig. 3 ), antennae with 14 articles, postclypeus not inflated, fontanelle inconspicuous",
+          "locator": "pp. 259–263，「Worker」段",
+          "note": "支撑：工蚁二型、上颚两式、头圆、触角 14 节、后唇基不膨大——工蚁节。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+      ],
+      "notes": "为 1 个属（米勒白蚁属）提供属级形态文本；本记录逐字摘录合计 747 字符。",
+      "accessed": "2026-11-07T06:58:31+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.4012.2.2",
+      "id": "S0069"
+    },
+    {
+      "title": "Tonsuritermes, a new soldierless termite genus and two new species from South America (Blattaria: Isoptera: Termitidae: Apicotermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.11646/zootaxa.4531.3.4",
+      "year": 2018,
+      "authors": [
+        "Constantini, J. P.",
+        "Carrijo, T. F.",
+        "Palma-Onetto, V.",
+        "Scheffrahn, R.",
+        "Carnohan, L. P.",
+        "Šobotník, J.",
+        "Cancello, E. M."
+      ],
+      "publisher": "Magnolia Press",
+      "journal": "Zootaxa",
+      "volume": "4531(3)",
+      "pages": "383–394",
+      "lang": "en",
+      "license": "unknown（Plazi 收录的 treatment XML；文章授权条款未核实）",
+      "retrieved_via": "Plazi treatment XML（03A30C1C162FB964FF1BD2B5FDADCA9D）→ 去标签纯文本",
+      "evidence": [
+        {
+          "quote": "Diagnosis. Worker and imago. Fontanelle very large in dorsal view, ranging from 1/4 to 3/4 the diameter of the head capsule ( Figs. 1B ; 2A, C, E ); two rows of spine-like bristles on the inner face of the protibia",
+          "locator": "pp. 384–387，「Diagnosis」段",
+          "note": "支撑：囟极大（1/4–3/4）+ 前足胫节两列刺状刚毛——鉴别要点。"
+        },
+        {
+          "quote": "Mono- or dimorphic ( Figs. 2 ; 3 B–D, H, 4, 5). Head capsule flattened dorsoventrally in profile, rounded in dorsal view. Fontanelle margins well delineated, depressed within vertex, occupying 1/4 to 3/4 of the head capsule ( Fig. 2A,C, E , see histological discussion below). Antenna with 14 articles. Postclypeus moderately to highly inflated.",
+          "locator": "pp. 384–387，「Worker」段",
+          "note": "支撑：工蚁头形、囟缘与大小、触角 14、后唇基膨大——工蚁节。"
+        },
+        {
+          "quote": "Head capsule trapezoidal in dorsal view, flattened dorsoventrally in profile ( Fig. 1A, B ). Two frontal marks located in dorsal view between the postclypeus and ocellus, above the antenna insertion ( Fig. 1B , arrows), larger than the ocelli, and two smaller triangular marks between the frontal marks and the fontanelle",
+          "locator": "pp. 384–387，「Imago」段",
+          "note": "支撑：有翅成虫头背视梯形；额斑位于后唇基与单眼之间、触角着生处上方，大于单眼；额斑与囟之间另有较小的三角斑——有翅成虫节。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+      ],
+      "notes": "为 1 个属（奇囟白蚁属）提供属级形态文本；本记录逐字摘录合计 880 字符。",
+      "accessed": "2026-11-07T06:58:31+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.4531.3.4",
+      "id": "S0070"
+    },
+    {
+      "title": "Triclavitermes catoleensis (Termitidae: Apicotermitinae), a new soldierless termite genus and species from the Caatinga dry forest, northeastern Brazil",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.11646/zootaxa.5706.3.4",
+      "year": 2025,
+      "authors": [
+        "Ferreira, R. R.",
+        "Carvalho, A.",
+        "Lucena, E. F. de",
+        "Figueiredo, R. E. C. R. de",
+        "Vasconcellos, A."
+      ],
+      "publisher": "Magnolia Press",
+      "journal": "Zootaxa",
+      "volume": "5706(3)",
+      "pages": "383–396",
+      "lang": "en",
+      "license": "unknown（Plazi 收录的 treatment XML；文章授权条款未核实）",
+      "retrieved_via": "Plazi treatment XML（03B06032E118CE0B5ED6F9CAFC49FCE4）→ 去标签纯文本",
+      "evidence": [
+        {
+          "quote": "Enteric valve seating (EVS) forms a well-defined ring at the enteric valve (EV) insertion, followed by a short tubular portion of P3. It also features a mesenteric tongue with a whitish spherical mesenteric nodule in ventral view. EV with three semi-spherical sclerotized plates.",
+          "locator": "pp. 383–396，「Diagnosis」段（Plazi treatment；PDF 分页未逐页核对）",
+          "note": "支撑：EVS 环、中肠结节、三块硬化板——鉴别要点。"
+        },
+        {
+          "quote": "Monomorphic, with a pale-yellow head covered by sparsely spaced bristles of the same color. Head slightly convex in profile, post-clypeal region inflated, and fontanelle not visible. Antenna composed of 14 segments, with relative lengths 2>3=4<5.",
+          "locator": "pp. 383–396，「Worker, External morphology」段",
+          "note": "支撑：工蚁单型、体色、后唇基区、触角 14 节及相对长度——工蚁节。"
+        },
+        {
+          "quote": "The gizzard is inconspicuous and unarmed and follows the pattern found in most soil-termites, being underdeveloped, with four first-order pulvilli, and the pulvilli surface with pectinated scales.",
+          "locator": "pp. 383–396，「Digestive tube」段",
+          "note": "支撑：砂囊不显无刺、4 个一级垫具栉状鳞——工蚁节消化道部分。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+      ],
+      "notes": "为 1 个属（三棒白蚁属）提供属级形态文本；本记录逐字摘录合计 721 字符。 属级描述页在 Plazi treatment 内未逐页核对，locator 用文章页码范围与章节名。",
+      "accessed": "2026-11-07T06:58:31+08:00",
+      "canonical_key": "doi:10.11646/zootaxa.5706.3.4",
+      "id": "S0071"
+    },
+    {
+      "title": "Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1111/j.1365-3113.2012.00645.x",
+      "year": 2012,
+      "authors": [
+        "Rocha, M. M.",
+        "Cancello, E. M.",
+        "Carrijo, T. F."
+      ],
+      "publisher": "Wiley",
+      "journal": "Systematic Entomology",
+      "volume": "37(4)",
+      "pages": "793–827",
+      "lang": "en",
+      "license": "unknown（Wiley 出版社版权；所读为订阅刊 PDF，非 OA 授权）",
+      "retrieved_via": "出版社 PDF（_tmp/lit/pdf/armitermes2012.pdf）→ PyMuPDF 抽文本，保留原排版断行连字符",
+      "evidence": [
+        {
+          "quote": "The soldier of Silvestritermes gen.n. can be distinguished from Armitermes because the former lacks a row of short thick spines on the margins of the pro-, meso- and metanotum",
+          "locator": "p. 812，「Comparisons」段",
+          "note": "支撑：前、中、后胸背板边缘无一行短粗刺，可与 Armitermes 区分——鉴别要点。"
+        },
+        {
+          "quote": "Soldier. Monomorphic. Head capsule, in dorsal view, rounded or with lateral margins rounded with angular lateral posterior corners. Frontal tube conical, in dorsal view extend- ing beyond the labrum",
+          "locator": "p. 811–812，「Soldier」段",
+          "note": "支撑：兵蚁单型、头形、额管背视伸出上唇——兵蚁节。"
+        },
+        {
+          "quote": "Worker. Monomorphic. Head capsule rounded, with incon- spicuous epicranial suture; fontanelle oval, but very inconspic- uous (except in Silvestritermes lanei). Postclypeus and labrum as in imago. Antennae with 13 or 14 articles",
+          "locator": "p. 812，「Worker」段",
+          "note": "支撑：工蚁单型、头圆、囟极不显（lanei 除外）、触角 13/14 节——工蚁节。"
+        },
+        {
+          "quote": "The soldier of Uncitermes gen.n. is easily distinguished from Armitermes by the hooked mandibles, the absence of a conspicuous row of short thick spines on the margins of the pro-, meso- and metanotum, and the lack of keel-shaped projections and thick bristles on the forecoxae.",
+          "locator": "p. 822，「Comparisons」段",
+          "note": "支撑：钩状上颚、无背板短粗刺列、前基节无龙骨突起与粗刚毛——鉴别要点。"
+        },
+        {
+          "quote": "Soldier. Monomorphic. Head capsule, in dorsal view, rounded. Frontal tube conical, same length as base of head capsule; forming a nearly 45◦angle with base of head, in pro- ﬁle. Antennae with 15 articles. Labrum rounded, anterior mar- gin hyaline, without distinct tip. Postmentum sub-rectangular",
+          "locator": "p. 821，「Soldier」段",
+          "note": "支撑：兵蚁头圆、额管与头基等长、触角 15、上唇圆、后颏近长方形——兵蚁节。"
+        },
+        {
+          "quote": "Worker. Monomorphic. Head capsule rounded; epicranial suture inconspicuous; fontanelle oval, little visible. Antennae with 15 articles.",
+          "locator": "p. 821，「Worker」段",
+          "note": "支撑：工蚁单型、头圆、囟不明显、触角 15 节——工蚁节。"
+        },
+        {
+          "quote": "Also, the gizzard pulvilli in Mapinguaritermes gen.n. is ornamented with well-developed spines, which is also a synapomorphy of the new genus in our analysis.",
+          "locator": "p. 825，「Comparisons」段",
+          "note": "支撑：砂囊一级垫具发达刺，为本属共衍征——鉴别要点。"
+        },
+        {
+          "quote": "Head capsule oval, in dorsal view. Frontal tube conical, almost parallel to base of head capsule, and approximately four-ﬁfths of its length in proﬁle. Antennae with 14 articles. Labrum almost pentagonal, anterior margin hyaline, without distinct tip. Postmentum with concave sides. Piercing mandibles symmetrical; only one marginal tooth, acute and inward-orientated",
+          "locator": "p. 825，「Soldier」段",
+          "note": "支撑：兵蚁头卵形、额管约为头基长的 4/5、触角 14 节、上唇近五边形、后颏两侧凹、上颚仅一枚内向锐齿——兵蚁节。"
+        },
+        {
+          "quote": "Worker. Monomorphic. Head capsule rounded; epicranial suture not evident; fontanelle oval, but very discreet. Post- clypeus little inﬂated. Antennae with 14 articles.",
+          "locator": "p. 825，「Worker」段",
+          "note": "支撑：工蚁单型、头圆、囟很不明显、后唇基稍膨大、触角 14 节——工蚁节。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+      ],
+      "notes": "为 3 个属（西尔韦斯特里白蚁属、弯钩白蚁属、红懒白蚁属）提供属级形态文本；本记录逐字摘录合计 2000 字符。（单一版权作品累计摘录已达 AGENTS.md §1.6 的 2000 字符上限，未再增补；如需压缩可删 Silvestritermes 兵蚁引文。） 引文保留出版社 PDF 的排版断行连字符。",
+      "accessed": "2026-11-07T06:58:31+08:00",
+      "canonical_key": "doi:10.1111/j.1365-3113.2012.00645.x",
+      "id": "S0072"
+    },
+    {
+      "title": "Phylogeny and revision of the “Cubitermes complex” termites (Termitidae: Cubitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1111/syen.12458",
+      "year": 2021,
+      "authors": [
+        "Hellemans, S.",
+        "Deligne, J.",
+        "Roisin, Y.",
+        "Josens, G."
+      ],
+      "publisher": "Wiley",
+      "journal": "Systematic Entomology",
+      "volume": "46(1)",
+      "pages": "224–238",
+      "lang": "en",
+      "license": "unknown（Wiley 出版社版权；所读为作者接受稿，非正式排版本）",
+      "retrieved_via": "作者接受稿 PDF（ULB DI-fusion 2013/312908）→ PyMuPDF 抽文本，去除行号与页眉",
+      "evidence": [
+        {
+          "quote": "Diagnosis. Two worker enteric valve patterns are found within this group: either with three PCs (PC3, PC4, and PC5) ending downstream in yellow to brown sclerotized spatulae or with all six PCs ending in sclerotized spatulae",
+          "locator": "接受稿 p. 15–16，行 350–353，「Diagnosis」（正式版页码不同）",
+          "note": "支撑：两式工蚁肠瓣：三片或六片主垫末端硬化成铲状片——鉴别要点与工蚁节。"
+        },
+        {
+          "quote": "This genus corresponds to the clade IV in this work and to the oblectatus and sulcifrons patterns in Josens & Deligne (2019); it includes Megagnathotermes katangensis.",
+          "locator": "接受稿 p. 16，行 360–362，「Comments」（正式版页码不同）",
+          "note": "支撑：对应 clade IV、oblectatus/sulcifrons 两型，并入原 Megagnathotermes katangensis——鉴别要点。"
+        },
+        {
+          "quote": "Etymology. From Greek πολυς, polus, many; and σπαθος, spathos, spatula.",
+          "locator": "接受稿 p. 16，行 357–358，「Etymology」（正式版页码不同）",
+          "note": "支撑：属名 polys + spathos（多 + 铲）——中文名「多铲」的依据。"
+        },
+        {
+          "quote": "Diagnosis. The workers within this genus have basic EVAs, with fusiform or roughly rectangular primary cushions",
+          "locator": "接受稿 p. 16–17，行 367–368，「Diagnosis」（正式版页码不同）",
+          "note": "支撑：工蚁肠瓣基本型、一级垫纺锤形或近长方形——鉴别要点与工蚁节。"
+        },
+        {
+          "quote": "This genus corresponds to the clade V in this work and to the muneris and bilobatodes patterns in Josens & Deligne (2019).",
+          "locator": "接受稿 p. 17，行 375–376，「Comments」（正式版页码不同）",
+          "note": "支撑：对应 clade V 与 muneris/bilobatodes 两型——鉴别要点。"
+        },
+        {
+          "quote": "Etymology. From Latin terni, triple; cubus, cube; and termes, termite. Refers to Cubitermes- like species with triradial symmetry of the EVAs.",
+          "locator": "接受稿 p. 17，行 373–374，「Etymology」（正式版页码不同）",
+          "note": "支撑：属名 terni + cubus + termes，指肠瓣三辐射对称——中文名「三方」的依据。"
+        }
+      ],
+      "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/07-noentry-b.json"
+      ],
+      "notes": "为 2 个属（多铲白蚁属、三方白蚁属）提供属级形态文本；本记录逐字摘录合计 837 字符。 所读为作者接受稿 PDF，页码为接受稿页码与稿内行号，正式版分页不同（Syst. Entomol. 46(1): 224–238）。",
+      "accessed": "2026-11-07T06:58:31+08:00",
+      "canonical_key": "doi:10.1111/syen.12458",
+      "id": "S0073"
     }
   ]
 }

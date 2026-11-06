@@ -6,8 +6,8 @@
 
 - 属页总数：**326**。
 - 已有《中国动物志》属级描述（本次不动）：**35**。
-- 已补写文献描述：**123**。
-- 仍待补文献描述：**168**。其中 149 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），19 个没有独立条目（需另找发表文献）。
+- 已补写文献描述：**134**。
+- 仍待补文献描述：**157**。其中 149 个在 Treatise 中有独立条目（可查到原始描述出处与模式种），8 个没有独立条目（需另找发表文献）。
 - 有 Treatise 条目但未提取到模式种的属：8（不影响找原始文献，但补写时要先确认模式种）。
 
 > **Treatise 只是线索索引，不是形态描述。** 表中「原始描述」与「Treatise 标注的形态/检索文献」
@@ -15,7 +15,7 @@
 > 「含 characters / key / diagnosis」的参考文献，本身没有描述正文。补写时必须取得并核对
 > 原始文献，不得把 Treatise 的文献注记当作描述转述。
 
-## 优先补找：Treatise 无独立条目的 19 属
+## 优先补找：Treatise 无独立条目的 8 属
 
 这些属在 Krishna et al. (2013) 中没有独立属级条目，连原始描述出处和模式种都要另查；
 建议优先找原始发表（或最近的属级修订、地区名录）。
@@ -29,17 +29,6 @@
 | 白蚁科 | 库塔巴白蚁属 *Koutabatermes* | /genus/koutabatermes/ |
 | 白蚁科 | 谢弗拉恩白蚁属 *Scheffrahnitermes* | /genus/scheffrahnitermes/ |
 | 白蚁科 | 螺旋白蚁属 *Spiralitermes* | /genus/spiralitermes/ |
-| 白蚁科 | 奇囟白蚁属 *Tonsuritermes* | /genus/tonsuritermes/ |
-| 白蚁科 | 三棒白蚁属 *Triclavitermes* | /genus/triclavitermes/ |
-| 白蚁科 | 多铲白蚁属 *Polyspathotermes* | /genus/polyspathotermes/ |
-| 白蚁科 | 三方白蚁属 *Ternicubitermes* | /genus/ternicubitermes/ |
-| 白蚁科 | 米勒白蚁属 *Muelleritermes* | /genus/muelleritermes/ |
-| 白蚁科 | 班代拉白蚁属 *Bandeiratermes* | /genus/bandeiratermes/ |
-| 白蚁科 | 拜拉白蚁属 *Biratermes* | /genus/biratermes/ |
-| 白蚁科 | 红懒白蚁属 *Mapinguaritermes* | /genus/mapinguaritermes/ |
-| 白蚁科 | 西尔韦斯特里白蚁属 *Silvestritermes* | /genus/silvestritermes/ |
-| 白蚁科 | 弯钩白蚁属 *Uncitermes* | /genus/uncitermes/ |
-| 白蚁科 | 瓦宁白蚁属 *Vaninitermes* | /genus/vaninitermes/ |
 | 白蚁科 | 棕榈白蚁属 *Palmitermes* | /genus/palmitermes/ |
 
 ## 各科进度
@@ -58,7 +47,7 @@
 | 杆白蚁科 Stylotermitidae | 1 | 1 | 0 | 0 | 0 |
 | 寡脉白蚁科 Termitogetonidae | 1 | 0 | 1 | 0 | 0 |
 | 异白蚁科 Heterotermitidae | 3 | 2 | 1 | 0 | 0 |
-| 白蚁科 Termitidae | 280 | 23 | 94 | 163 | 17 |
+| 白蚁科 Termitidae | 280 | 23 | 105 | 152 | 6 |
 
 ## 澳白蚁科 Mastotermitidae（1 属）
 
@@ -893,10 +882,10 @@
   - Constantino, 2002a: 26 — Tetimatermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/tetimatermes/
 
-### 奇囟白蚁属 *Tonsuritermes* — 待补（Treatise 无独立条目）
+### 奇囟白蚁属 *Tonsuritermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Constantini, J. P.; Carrijo, T. F.; Palma-Onetto, V.; Scheffrahn, R.; Carnohan, L. P.; Šobotník, J.; Cancello, E. M. 2018. Tonsuritermes, a new soldierless termite genus and two new species from South America (Blattaria: Isoptera: Termitidae: Apicotermitinae). Zootaxa 4531(3): 383–394. DOI: 10.11646/zootaxa.4531.3.4
+- 定位：pp. 384–387，「Diagnosis」段；pp. 384–387，「Imago」段；pp. 384–387，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/tonsuritermes/
 
 ### 发白蚁属 *Trichotermes* — 待补（有 Treatise 线索）
@@ -911,10 +900,10 @@
   - Bouillon and Mathot, 1965: 26, 94, 95, pl. 15: fig. 45c — Trichotermes; key; characters; imago/ worker mandibles figured.
 - 页面：https://isoptera.lifemosaic.net/genus/trichotermes/
 
-### 三棒白蚁属 *Triclavitermes* — 待补（Treatise 无独立条目）
+### 三棒白蚁属 *Triclavitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Ferreira, R. R.; Carvalho, A.; Lucena, E. F. de; Figueiredo, R. E. C. R. de; Vasconcellos, A. 2025. Triclavitermes catoleensis (Termitidae: Apicotermitinae), a new soldierless termite genus and species from the Caatinga dry forest, northeastern Brazil. Zootaxa 5706(3): 383–396. DOI: 10.11646/zootaxa.5706.3.4
+- 定位：pp. 383–396，「Diagnosis」段（Plazi treatment；PDF 分页未逐页核对）；pp. 383–396，「Digestive tube」段；pp. 383–396，「Worker, External morphology」段
 - 页面：https://isoptera.lifemosaic.net/genus/triclavitermes/
 
 ### 黄汁白蚁属 *Tucupitermes* — 已有文献描述
@@ -1133,10 +1122,10 @@
 
 已有《中国动物志》属级描述，页面不需要占位；如以后补写新描述，另起来源。
 
-### 多铲白蚁属 *Polyspathotermes* — 待补（Treatise 无独立条目）
+### 多铲白蚁属 *Polyspathotermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Hellemans, S.; Deligne, J.; Roisin, Y.; Josens, G. 2021. Phylogeny and revision of the “Cubitermes complex” termites (Termitidae: Cubitermitinae). Systematic Entomology 46(1): 224–238. DOI: 10.1111/syen.12458
+- 定位：接受稿 p. 15–16，行 350–353，「Diagnosis」（正式版页码不同）；接受稿 p. 16，行 357–358，「Etymology」（正式版页码不同）；接受稿 p. 16，行 360–362，「Comments」（正式版页码不同）
 - 页面：https://isoptera.lifemosaic.net/genus/polyspathotermes/
 
 ### 象鼻白蚁属 *Proboscitermes* — 待补（有 Treatise 线索）
@@ -1173,10 +1162,10 @@
   - Sands, 1998: 37, 252–254, figs. 1563–1575 — Profastigitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/profastigitermes/
 
-### 三方白蚁属 *Ternicubitermes* — 待补（Treatise 无独立条目）
+### 三方白蚁属 *Ternicubitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Hellemans, S.; Deligne, J.; Roisin, Y.; Josens, G. 2021. Phylogeny and revision of the “Cubitermes complex” termites (Termitidae: Cubitermitinae). Systematic Entomology 46(1): 224–238. DOI: 10.1111/syen.12458
+- 定位：接受稿 p. 16–17，行 367–368，「Diagnosis」（正式版页码不同）；接受稿 p. 17，行 373–374，「Etymology」（正式版页码不同）；接受稿 p. 17，行 375–376，「Comments」（正式版页码不同）
 - 页面：https://isoptera.lifemosaic.net/genus/ternicubitermes/
 
 ### 胸白蚁属 *Thoracotermes* — 待补（有 Treatise 线索）
@@ -1876,10 +1865,10 @@
 - 定位：p. 158（Genus Mimeutermes Silvestri：Imago / Soldier / Worker；Remarks）
 - 页面：https://isoptera.lifemosaic.net/genus/mimeutermes/
 
-### 米勒白蚁属 *Muelleritermes* — 待补（Treatise 无独立条目）
+### 米勒白蚁属 *Muelleritermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Oliveira, D. E.; Rocha, M. M.; Cancello, E. M. 2015. Muelleritermes: A new termite genus with two species from the Brazilian Atlantic Forest (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 4012(2): 258–270. DOI: 10.11646/zootaxa.4012.2.2
+- 定位：pp. 259–263，「Comparisons with other Nasutitermitinae genera」段；pp. 259–263，「Soldier」段；pp. 259–263，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/muelleritermes/
 
 ### 鸟嘴白蚁属 *Mycterotermes* — 已有文献描述
@@ -2203,16 +2192,16 @@
   - Snyder, 1926e: 21 — Armitermes [part]; characters; discussion; subgenera included.
 - 页面：https://isoptera.lifemosaic.net/genus/armitermes/
 
-### 班代拉白蚁属 *Bandeiratermes* — 待补（Treatise 无独立条目）
+### 班代拉白蚁属 *Bandeiratermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha, M. M.; Cancello, E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138(4): 445–463. DOI: 10.11646/zootaxa.5138.4.6
+- 定位：p. 456–458，「Digestive tube」段；p. 456–458，「Soldier」段；p. 456–458，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/bandeiratermes/
 
-### 拜拉白蚁属 *Biratermes* — 待补（Treatise 无独立条目）
+### 拜拉白蚁属 *Biratermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha, M. M.; Cancello, E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138(4): 445–463. DOI: 10.11646/zootaxa.5138.4.6
+- 定位：p. 447–449，「Digestive tube」段；p. 447–449，属级 Description「Comparisons with other genera of Syntermitinae」段
 - 页面：https://isoptera.lifemosaic.net/genus/biratermes/
 
 ### 弃白蚁属 *Cahuallitermes* — 待补（有 Treatise 线索）
@@ -2310,10 +2299,10 @@
   - Constantino, 2002a: 22 — Macuxitermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/macuxitermes/
 
-### 红懒白蚁属 *Mapinguaritermes* — 待补（Treatise 无独立条目）
+### 红懒白蚁属 *Mapinguaritermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha, M. M.; Cancello, E. M.; Carrijo, T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37(4): 793–827. DOI: 10.1111/j.1365-3113.2012.00645.x
+- 定位：p. 825，「Comparisons」段；p. 825，「Soldier」段；p. 825，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/mapinguaritermes/
 
 ### 努瓦罗白蚁属 *Noirotitermes* — 待补（有 Treatise 线索）
@@ -2355,10 +2344,10 @@
   - Fontes, 1985c: 9 — Rhynchotermes; key.
 - 页面：https://isoptera.lifemosaic.net/genus/rhynchotermes/
 
-### 西尔韦斯特里白蚁属 *Silvestritermes* — 待补（Treatise 无独立条目）
+### 西尔韦斯特里白蚁属 *Silvestritermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha, M. M.; Cancello, E. M.; Carrijo, T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37(4): 793–827. DOI: 10.1111/j.1365-3113.2012.00645.x
+- 定位：p. 811–812，「Soldier」段；p. 812，「Comparisons」段；p. 812，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/silvestritermes/
 
 ### 聚白蚁属 *Syntermes* — 待补（有 Treatise 线索）
@@ -2373,16 +2362,16 @@
   - Mill, 1983a: 183, 186 — Syntermes; key; number of species in New World; habitat; distribution.
 - 页面：https://isoptera.lifemosaic.net/genus/syntermes/
 
-### 弯钩白蚁属 *Uncitermes* — 待补（Treatise 无独立条目）
+### 弯钩白蚁属 *Uncitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha, M. M.; Cancello, E. M.; Carrijo, T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37(4): 793–827. DOI: 10.1111/j.1365-3113.2012.00645.x
+- 定位：p. 821，「Soldier」段；p. 821，「Worker」段；p. 822，「Comparisons」段
 - 页面：https://isoptera.lifemosaic.net/genus/uncitermes/
 
-### 瓦宁白蚁属 *Vaninitermes* — 待补（Treatise 无独立条目）
+### 瓦宁白蚁属 *Vaninitermes* — 已有文献描述
 
-- Treatise 无独立属级条目；原始描述出处待查（可试原始发表、属级修订或地区名录）。
-- Treatise 未标注可用的形态/检索文献。
+- 已据文献补写：Rocha, M. M.; Cancello, E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138(4): 445–463. DOI: 10.11646/zootaxa.5138.4.6
+- 定位：p. 450–451，「Digestive tube」段；p. 450–451，「Soldier」段；p. 450–451，「Worker」段
 - 页面：https://isoptera.lifemosaic.net/genus/vaninitermes/
 
 ### 后肠白蚁属 *Apsenterotermes* — 待补（有 Treatise 线索）
