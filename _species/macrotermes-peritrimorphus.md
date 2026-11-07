@@ -18,19 +18,19 @@ clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
 author_year: "Li & Xiao, 1989"
 type_locality: "China: Guangxi Province: Huashuichong Forest: Hexian"
-distribution_zh: "中国广西、贺县滑水冲"
-distribution_en: "Guangxi, China, Hexian Huashuichong"
+distribution_zh: "中国广西（贺县滑水冲）、云南（屏边）"
+distribution_en: "Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China"
 synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**近三型大白蚁**（*Macrotermes peritrimorphus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Li & Xiao 于 1989 年描述，模式产地为 China: Guangxi Province: Huashuichong Forest: Hexian。分布记录包括中国广西、贺县滑水冲。
+**近三型大白蚁**（*Macrotermes peritrimorphus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Li & Xiao 于 1989 年描述，模式产地为 China: Guangxi Province: Huashuichong Forest: Hexian。分布记录包括中国广西（贺县滑水冲）、云南（屏边）。
 
-EN — **近三型大白蚁** (*Macrotermes peritrimorphus*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Li & Xiao in 1989; the type locality is China: Guangxi Province: Huashuichong Forest: Hexian. Distribution: Guangxi, China, Hexian Huashuichong.
+EN — **近三型大白蚁** (*Macrotermes peritrimorphus*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Li & Xiao in 1989; the type locality is China: Guangxi Province: Huashuichong Forest: Hexian. Distribution: Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China.
 
-ES — **近三型大白蚁** (*Macrotermes peritrimorphus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Li & Xiao en 1989; la localidad tipo es China: Guangxi Province: Huashuichong Forest: Hexian. Distribución: Guangxi, China, Hexian Huashuichong.
+ES — **近三型大白蚁** (*Macrotermes peritrimorphus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Li & Xiao en 1989; la localidad tipo es China: Guangxi Province: Huashuichong Forest: Hexian. Distribución: Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China.
 
 ## 词源
 
@@ -53,8 +53,12 @@ EN — epithet *peritrimorphus*: Greek peri- (around) + tri- (three) + morphē (
 
 ## 分布
 
-- **分布记录**：中国广西、贺县滑水冲
-- **英文记录 English record / Registro en inglés**：Guangxi, China, Hexian Huashuichong
+- **分布记录**：中国广西（贺县滑水冲）、云南（屏边）
+- **英文记录 English record / Registro en inglés**：Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->
+
+## 云南记录
+
+何银竹、梁醒财（2009）据中国科学院昆明动物研究所昆虫标本馆馆藏标本，把本种补充为云南新记录：标本采自红河州屏边蚂蚁河，1991 年 3 月 24 日，朱世模、杨兵采，标本编号 91Ⅲ240040。此前本种仅知于广西。<!-- src:S0111 -->

@@ -18,19 +18,19 @@ clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
 author_year: "Ping & Xu, 1985"
 type_locality: "China: Guangdong Province: Hainan Island: Ya County"
-distribution_zh: "中国海南、崖县"
-distribution_en: "Hainan, China, Yaxian"
+distribution_zh: "中国海南（崖县）、云南（保山）"
+distribution_en: "Hainan (Yaxian) and Yunnan (Baoshan), China"
 synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**梯头大白蚁**（*Macrotermes trapezoides*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Ping & Xu 于 1985 年描述，模式产地为 China: Guangdong Province: Hainan Island: Ya County。分布记录包括中国海南、崖县。
+**梯头大白蚁**（*Macrotermes trapezoides*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Ping & Xu 于 1985 年描述，模式产地为 China: Guangdong Province: Hainan Island: Ya County。分布记录包括中国海南（崖县）、云南（保山）。
 
-EN — **梯头大白蚁** (*Macrotermes trapezoides*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Ping & Xu in 1985; the type locality is China: Guangdong Province: Hainan Island: Ya County. Distribution: Hainan, China, Yaxian.
+EN — **梯头大白蚁** (*Macrotermes trapezoides*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Ping & Xu in 1985; the type locality is China: Guangdong Province: Hainan Island: Ya County. Distribution: Hainan (Yaxian) and Yunnan (Baoshan), China.
 
-ES — **梯头大白蚁** (*Macrotermes trapezoides*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ping & Xu en 1985; la localidad tipo es China: Guangdong Province: Hainan Island: Ya County. Distribución: Hainan, China, Yaxian.
+ES — **梯头大白蚁** (*Macrotermes trapezoides*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Ping & Xu en 1985; la localidad tipo es China: Guangdong Province: Hainan Island: Ya County. Distribución: Hainan (Yaxian) and Yunnan (Baoshan), China.
 
 ## 词源
 
@@ -53,8 +53,12 @@ EN — epithet *trapezoides*: Greek trapezion (trapezium) + -oides (like), trape
 
 ## 分布
 
-- **分布记录**：中国海南、崖县
-- **英文记录 English record / Registro en inglés**：Hainan, China, Yaxian
+- **分布记录**：中国海南（崖县）、云南（保山）
+- **英文记录 English record / Registro en inglés**：Hainan (Yaxian) and Yunnan (Baoshan), China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->
+
+## 云南记录
+
+何银竹、梁醒财（2009）据中国科学院昆明动物研究所昆虫标本馆馆藏标本，把本种补充为云南新记录：标本采自保山市隆阳区下村，1982 年 10 月 25 日，朱世模采，标本编号 82Ⅹ250242。此前本种仅知于海南。<!-- src:S0111 -->

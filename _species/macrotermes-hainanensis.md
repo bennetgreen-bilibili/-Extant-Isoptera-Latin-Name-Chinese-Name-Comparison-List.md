@@ -18,19 +18,19 @@ clade_zh: "土栖等翅类"
 clade_latin: "Geoisoptera"
 author_year: "Li & Ping, 1983"
 type_locality: "China: Hainan Island: Wuzhi Mt"
-distribution_zh: "中国海南"
-distribution_en: "China (Hainan)"
+distribution_zh: "中国海南、云南（屏边）"
+distribution_en: "China (Hainan); Yunnan (Pingbian), China"
 synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**海南大白蚁**（*Macrotermes hainanensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Li & Ping 于 1983 年描述，模式产地为 China: Hainan Island: Wuzhi Mt。分布记录包括中国海南。
+**海南大白蚁**（*Macrotermes hainanensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Li & Ping 于 1983 年描述，模式产地为 China: Hainan Island: Wuzhi Mt。分布记录包括中国海南、云南（屏边）。
 
-EN — **海南大白蚁** (*Macrotermes hainanensis*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Li & Ping in 1983; the type locality is China: Hainan Island: Wuzhi Mt. Distribution: China (Hainan).
+EN — **海南大白蚁** (*Macrotermes hainanensis*) is a species of the genus *Macrotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Li & Ping in 1983; the type locality is China: Hainan Island: Wuzhi Mt. Distribution: China (Hainan); Yunnan (Pingbian), China.
 
-ES — **海南大白蚁** (*Macrotermes hainanensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Li & Ping en 1983; la localidad tipo es China: Hainan Island: Wuzhi Mt. Distribución: China (Hainan).
+ES — **海南大白蚁** (*Macrotermes hainanensis*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Li & Ping en 1983; la localidad tipo es China: Hainan Island: Wuzhi Mt. Distribución: China (Hainan); Yunnan (Pingbian), China.
 
 ## 词源
 
@@ -53,8 +53,12 @@ EN — epithet *hainanensis*: After Hainan (China)
 
 ## 分布
 
-- **分布记录**：中国海南
-- **英文记录 English record / Registro en inglés**：China (Hainan)
+- **分布记录**：中国海南、云南（屏边）
+- **英文记录 English record / Registro en inglés**：China (Hainan); Yunnan (Pingbian), China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 <!-- AUTO:END -->
+
+## 云南记录
+
+何银竹、梁醒财（2009）据中国科学院昆明动物研究所昆虫标本馆馆藏标本，把本种补充为云南新记录：标本采自红河州屏边蚂蚁河，1991 年 3 月 24 日，朱世模、杨兵采，标本编号 91Ⅲ24006。此前本种仅知于海南。<!-- src:S0111 -->

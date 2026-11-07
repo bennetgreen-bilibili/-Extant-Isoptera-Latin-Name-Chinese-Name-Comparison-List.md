@@ -542,7 +542,7 @@
     "subspecies": 2,
     "subfamilies": 0
    },
-   "bytes": 10618
+   "bytes": 10609
   },
   {
    "path": "data/neoisoptera-excl-termitidae.json",
@@ -653,7 +653,7 @@
     "species": 373,
     "subspecies": 16
    },
-   "bytes": 79456
+   "bytes": 79525
   },
   {
    "path": "data/termitidae/microcerotermitinae.json",

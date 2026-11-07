@@ -128,8 +128,8 @@
        "authorship": "Desneux, 1904",
        "isTypeSpecies": true,
        "typeLocality": "India: Kashmir valley",
-       "distributionZh": "南亚、中国",
-       "distributionEn": "South Asia, China",
+       "distributionZh": "南亚",
+       "distributionEn": "South Asia",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/archotermopsis-wroughtoni/",
        "subspecies": []
       }
@@ -19625,8 +19625,8 @@
        "authorship": "Li & Ping, 1983",
        "isTypeSpecies": false,
        "typeLocality": "China: Hainan Island: Wuzhi Mt",
-       "distributionZh": "中国海南",
-       "distributionEn": "China (Hainan)",
+       "distributionZh": "中国海南、云南（屏边）",
+       "distributionEn": "China (Hainan); Yunnan (Pingbian), China",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/macrotermes-hainanensis/",
        "subspecies": []
       },
@@ -19867,8 +19867,8 @@
        "authorship": "Li & Xiao, 1989",
        "isTypeSpecies": false,
        "typeLocality": "China: Guangxi Province: Huashuichong Forest: Hexian",
-       "distributionZh": "中国广西、贺县滑水冲",
-       "distributionEn": "Guangxi, China, Hexian Huashuichong",
+       "distributionZh": "中国广西（贺县滑水冲）、云南（屏边）",
+       "distributionEn": "Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/macrotermes-peritrimorphus/",
        "subspecies": []
       },
@@ -19944,8 +19944,8 @@
        "authorship": "Ping & Xu, 1985",
        "isTypeSpecies": false,
        "typeLocality": "China: Guangdong Province: Hainan Island: Ya County",
-       "distributionZh": "中国海南、崖县",
-       "distributionEn": "Hainan, China, Yaxian",
+       "distributionZh": "中国海南（崖县）、云南（保山）",
+       "distributionEn": "Hainan (Yaxian) and Yunnan (Baoshan), China",
        "pageUrl": "https://bennetgreen-bilibili.github.io/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/species/macrotermes-trapezoides/",
        "subspecies": []
       },

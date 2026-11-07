@@ -86,7 +86,7 @@
        "latin": "Archotermopsis wroughtoni",
        "zh": "罗夫顿古白蚁",
        "type": true,
-       "distribution": "南亚、中国",
+       "distribution": "南亚",
        "subspecies": null
       }
      ]
@@ -12623,7 +12623,7 @@
          "latin": "Macrotermes hainanensis",
          "zh": "海南大白蚁",
          "type": false,
-         "distribution": "中国海南",
+         "distribution": "中国海南、云南（屏边）",
          "subspecies": null
         },
         {
@@ -12777,7 +12777,7 @@
          "latin": "Macrotermes peritrimorphus",
          "zh": "近三型大白蚁",
          "type": false,
-         "distribution": "中国广西、贺县滑水冲",
+         "distribution": "中国广西（贺县滑水冲）、云南（屏边）",
          "subspecies": null
         },
         {
@@ -12826,7 +12826,7 @@
          "latin": "Macrotermes trapezoides",
          "zh": "梯头大白蚁",
          "type": false,
-         "distribution": "中国海南、崖县",
+         "distribution": "中国海南（崖县）、云南（保山）",
          "subspecies": null
         },
         {

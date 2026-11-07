@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 110,
+    "count": 111,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T16:38:41+08:00",
+    "updated": "2026-11-07T16:42:38+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -6317,12 +6317,12 @@
       "file_path": "_unpublished/文库/yin1982-hodotermopsis-sjostedti",
       "chars": 11694,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-07T16:38:38+08:00",
-      "notes": "全文存于 _unpublished/文库/yin1982-hodotermopsis-sjostedti（6 页，11694 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《林业科学》1982 年 18 卷 1 期 58–63 页；CNKI 扫描/排版 PDF，无内嵌书目元数据，卷期页据期刊官网 citation meta 补。",
+      "accessed": "2026-11-07T16:42:36+08:00",
+      "notes": "全文存于 _unpublished/文库/yin1982-hodotermopsis-sjostedti（6 页，11694 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《林业科学》1982 年 18 卷 1 期 58–63 页；CNKI 版 PDF 无内嵌书目元数据，卷期页据期刊官网 citation meta 补；PDF 抽取丢失数字与部分标点（体长、触角节数留空），本记录只摘可读完整的句子。",
       "library": {
         "book": "yin1982-hodotermopsis-sjostedti",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-07T16:38:38",
+        "generated": "2026-11-07T16:42:36",
         "chunks": [
           {
             "chunk": "0001-0006",
@@ -6344,8 +6344,26 @@
       "lang": "zh",
       "license": "unknown",
       "url": "https://www.linyekexue.net/CN/Y1982/V18/I1/58",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_species/hodotermopsis-sjostedti.md"
+      ],
+      "evidence": [
+        {
+          "quote": "分布 在国外越南有此白蚁 在国内广东 、浙江 、湖南 、台湾 、广西 、云南等省都有分\n布 湖南主要分布在宜章县的莽山 、新宁县的紫云山和江华县的码市林区等地 。",
+          "locator": "p.1 §一、名称及其分布",
+          "note": "支撑：Hodotermopsis sjostedti 在湖南宜章莽山、新宁紫云山、江华码市林区有分布；PDF 抽取的标点带空格，照录"
+        },
+        {
+          "quote": "木栖性 山林原白蚁筑巢于朽树 包括树桩 或活树内群居为生 。",
+          "locator": "正文「木栖性」一节（_unpublished/文库/yin1982-hodotermopsis-sjostedti/0001-0006.txt）",
+          "note": "支撑：木栖、筑巢于朽树或活树内；抽取文本丢失括号与部分标点，照录"
+        },
+        {
+          "quote": "喜在蔽阴潮湿的环境里营巢危害 山林原白蚁比较害怕阳光 ，所以它常在阴湿",
+          "locator": "正文「发生与环境」一节（同上）",
+          "note": "支撑：喜蔽阴潮湿环境"
+        }
+      ],
       "id": "S0109"
     },
     {
@@ -6356,12 +6374,12 @@
       "file_path": "_unpublished/文库/he2009-archotermopsis-wroughtoni",
       "chars": 4355,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-07T16:38:40+08:00",
-      "notes": "全文存于 _unpublished/文库/he2009-archotermopsis-wroughtoni（3 页，4355 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《昆虫分类学报》2009 年 31 卷 2 期 102–104 页；文章编号 1000-7482(2009)02-0102-03。",
+      "accessed": "2026-11-07T16:42:37+08:00",
+      "notes": "全文存于 _unpublished/文库/he2009-archotermopsis-wroughtoni（3 页，4355 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；考订（本站编者，2026-11-07）：该文据云南绿春黄连山与沧源勐角翁丁标本所记的「罗夫顿古白蚁 A. wroughtoni」，实为库兹涅佐夫古白蚁 A. kuznetsovi；A. wroughtoni 模式产地为克什米尔谷地，长期仅知于南亚，而 A. kuznetsovi 描述自越南北部，与滇南产地同处中越边境山地。GBIF（S0112）中 A. kuznetsovi 的 2 条记录均在中国，A. wroughtoni 的记录仅在巴基斯坦与印度。",
       "library": {
         "book": "he2009-archotermopsis-wroughtoni",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-07T16:38:40",
+        "generated": "2026-11-07T16:42:37",
         "chunks": [
           {
             "chunk": "0001-0003",
@@ -6384,8 +6402,32 @@
       "publisher": "昆虫分类学报",
       "lang": "zh",
       "license": "unknown",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_species/archotermopsis-kuznetsovi.md",
+        "_species/archotermopsis-wroughtoni.md"
+      ],
+      "evidence": [
+        {
+          "quote": "摘要：记述分布于云南绿春和沧源的原白蚁科1 新记录属：古白蚁属Archotermopsis Desneux 及1 新\n记录种：罗夫顿古白蚁Archotermopsis wroughtoni Desneux。",
+          "locator": "p.102 摘要",
+          "note": "原文把云南标本鉴定为 A. wroughtoni；本站考订这批标本实为 A. kuznetsovi（见 notes）"
+        },
+        {
+          "quote": "分布：中国，印度。",
+          "locator": "p.104 罗夫顿古白蚁·分布",
+          "note": "原文所记「中国」即据下述云南标本；本站考订后不再计入 A. wroughtoni"
+        },
+        {
+          "quote": "观察标本：5 兵蚁，云南省红河自治州绿春黄连山自然保护区丫口站，1 946 m，2008-Ⅸ-01，何银\n竹，周鲁们采；3 兵蚁，云南临沧市勐角翁丁村，1 790 m，2007-Ⅻ-18，何银竹，候清柏采。",
+          "locator": "p.104 观察标本",
+          "note": "这批云南标本是「中国有古白蚁属」的唯一依据"
+        },
+        {
+          "quote": "讨论：中国以前仅记录1 种古老白蚁：山林原白蚁Hodotermopsis sjostedti Holmgren，属于原白蚁\n科Termopsidae 原白蚁属Hodotermopsis",
+          "locator": "p.104 讨论",
+          "note": "讨论只与 Hodotermopsis 比较，未与 A. kuznetsovi 比较；参考文献[2] 虽列 Beljaeva 2004（A. kuznetsovi 原始文献）"
+        }
+      ],
       "id": "S0110"
     },
     {
@@ -6396,12 +6438,12 @@
       "file_path": "_unpublished/文库/he2009-macrotermitinae-yunnan",
       "chars": 8228,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-07T16:38:41+08:00",
-      "notes": "全文存于 _unpublished/文库/he2009-macrotermitinae-yunnan（4 页，8228 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《西南师范大学学报（自然科学版）》2009 年 34 卷 1 期 137–140 页；文章编号 1000-5471(2009)01-0137-04。",
+      "accessed": "2026-11-07T16:42:38+08:00",
+      "notes": "全文存于 _unpublished/文库/he2009-macrotermitinae-yunnan（4 页，8228 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；三种此前分别仅知于广西、海南、海南；本文据中科院昆明动物所馆藏标本补充云南分布。PDF 抽取把「、」显示为 *、句号显示为 ．，摘录照录。",
       "library": {
         "book": "he2009-macrotermitinae-yunnan",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-07T16:38:41",
+        "generated": "2026-11-07T16:42:38",
         "chunks": [
           {
             "chunk": "0001-0004",
@@ -6424,9 +6466,64 @@
       "lang": "zh",
       "license": "unknown",
       "doi": "10.13718/j.cnki.xsxb.2009.01.014",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_species/macrotermes-hainanensis.md",
+        "_species/macrotermes-peritrimorphus.md",
+        "_species/macrotermes-trapezoides.md"
+      ],
+      "evidence": [
+        {
+          "quote": "摘要：描述了云南省大白蚁亚科新记录3个种*分别为近三型大白蚁、海南大白蚁*梯头大白蚁．",
+          "locator": "p.137 摘要（* 与 ． 为 PDF 抽取字符）",
+          "note": "支撑：三种均为云南新记录；抽取把「、」显示为 *，句号显示为 ．"
+        },
+        {
+          "quote": "采集地点：云南省红河自治州屏边蚂蚁河．",
+          "locator": "p.137 近三型大白蚁",
+          "note": "支撑 Macrotermes peritrimorphus 云南屏边记录；标本号 91Ⅲ240040"
+        },
+        {
+          "quote": "标本编号：91Ⅲ24006*现保存于中国科学院昆明动物研究所昆虫标本馆．",
+          "locator": "p.139 海南大白蚁",
+          "note": "支撑 M. hainanensis 云南屏边记录（同地同日，1991-03-24，朱世模、杨兵采）"
+        },
+        {
+          "quote": "采集地点：云南省保山市隆阳区下村",
+          "locator": "p.139 梯头大白蚁",
+          "note": "支撑 M. trapezoides 云南保山记录；1982-10-25，朱世模采，标本号 82Ⅹ250242"
+        }
+      ],
       "id": "S0111"
+    },
+    {
+      "title": "GBIF occurrence search: Archotermopsis kuznetsovi and A. wroughtoni (country facet)",
+      "source_type": "database",
+      "reliability": "official",
+      "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
+      "year": 2026,
+      "lang": "en",
+      "license": "CC BY 4.0",
+      "retrieved_via": "web_fetch (GBIF occurrence API)",
+      "evidence": [
+        {
+          "quote": "{\"offset\":0,\"limit\":0,\"endOfRecords\":false,\"count\":2,\"results\":[],\"facets\":[{\"field\":\"COUNTRY\",\"counts\":[{\"name\":\"CN\",\"count\":2}]}]}",
+          "locator": "taxonKey=9660505（A. kuznetsovi），2026-11-07 查询",
+          "note": "支撑：A. kuznetsovi 的 2 条 occurrence 记录均标为中国"
+        },
+        {
+          "quote": "{\"offset\":0,\"limit\":0,\"endOfRecords\":false,\"count\":11,\"results\":[],\"facets\":[{\"field\":\"COUNTRY\",\"counts\":[{\"name\":\"PK\",\"count\":5},{\"name\":\"IN\",\"count\":2}]}]}",
+          "locator": "taxonKey=9709984（A. wroughtoni），2026-11-07 查询",
+          "note": "支撑：A. wroughtoni 无中国记录，带国家字段的记录仅巴基斯坦 5 条、印度 2 条"
+        }
+      ],
+      "used_in": [
+        "_species/archotermopsis-kuznetsovi.md",
+        "_species/archotermopsis-wroughtoni.md"
+      ],
+      "notes": "2026-11-07 直接查询 GBIF occurrence search API，facet=country、limit=0，只取计数。A. wroughtoni 共 11 条记录，其中仅 7 条带国家字段（PK 5、IN 2），其余无国家信息；A. kuznetsovi 2 条均 CN。该结果与本站 assets/geo/species/*.geojson（2026-10-28 抓取）一致。",
+      "accessed": "2026-11-07T16:41:16+08:00",
+      "canonical_key": "url:https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
+      "id": "S0112"
     }
   ]
 }

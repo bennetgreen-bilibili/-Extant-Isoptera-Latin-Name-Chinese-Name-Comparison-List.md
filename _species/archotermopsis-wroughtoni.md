@@ -15,8 +15,8 @@ clade_zh: "远等翅类"
 clade_latin: "Teletisoptera"
 author_year: "Desneux, 1904"
 type_locality: "India: Kashmir valley"
-distribution_zh: "南亚、中国"
-distribution_en: "South Asia, China"
+distribution_zh: "南亚"
+distribution_en: "South Asia"
 synonym_count: 2
 synonyms: "Termopsis radcliffei Radcliffe, 1904: 412-414; Archotermopsis deodarae Chatterjee & Thakur, 1967: 10-13"
 synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
@@ -25,11 +25,11 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 <!-- AUTO:BEGIN -->
 ## 摘要
 
-**罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚、中国。本站记录本种有 2 个次异名。
+**罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚。本站记录本种有 2 个次异名。
 
-EN — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) is a species and the type species of its genus of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Desneux in 1904; the type locality is India: Kashmir valley. Distribution: South Asia, China. This site records 2 junior synonyms for the species.
+EN — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) is a species and the type species of its genus of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Desneux in 1904; the type locality is India: Kashmir valley. Distribution: South Asia. This site records 2 junior synonyms for the species.
 
-ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la especie tipo de su género del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Desneux en 1904; la localidad tipo es India: Kashmir valley. Distribución: South Asia, China. Este sitio registra 2 sinónimos junior para la especie.
+ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la especie tipo de su género del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Desneux en 1904; la localidad tipo es India: Kashmir valley. Distribución: South Asia. Este sitio registra 2 sinónimos junior para la especie.
 
 ## 词源
 
@@ -50,8 +50,8 @@ EN — epithet *wroughtoni*: Named after R. C. Wroughton (British naturalist)
 
 ## 分布
 
-- **分布记录**：南亚、中国
-- **英文记录 English record / Registro en inglés**：South Asia, China
+- **分布记录**：南亚
+- **英文记录 English record / Registro en inglés**：South Asia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 

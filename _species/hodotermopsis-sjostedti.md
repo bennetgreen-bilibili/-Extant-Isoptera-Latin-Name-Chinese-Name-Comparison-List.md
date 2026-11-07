@@ -69,3 +69,7 @@ EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
 EN — In older literature, regional checklists and database searches, this species may appear under the synonyms above (*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis*); this site treats them all under *Hodotermopsis sjostedti*.
 ES — En la literatura antigua, los listados regionales y las búsquedas en bases de datos, esta especie puede aparecer bajo los sinónimos anteriores (*Hodotermopsis japonicus*、*Hodotermopsis yui*、*Hodotermopsis orientalis*、*Hodotermopsis dimorphus*、*Hodotermopsis fanjingshanensis*); este sitio los reúne todos bajo *Hodotermopsis sjostedti*.
 <!-- AUTO:END -->
+
+## 湖南莽山的观察
+
+尹世才（1982）报告山林原白蚁在湖南分布于宜章县莽山、新宁县紫云山和江华县码市林区，并记述其木栖习性：筑巢于朽树（包括树桩）或活树内，群居为生；巢多筑在蔽阴潮湿处，比较害怕阳光。<!-- src:S0109 -->
