@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 117,
+    "count": 118,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T22:13:02+08:00",
+    "updated": "2026-11-07T23:24:28+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -7312,6 +7312,97 @@
         }
       ],
       "id": "S0118"
+    },
+    {
+      "title": "Scheffrahnitermes ubuntu (Isoptera: Apicotermitinae), Description of a New Termite Using a Collaborative Approach to Address the Wallacean Shortfall",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1002/njz2.70025",
+      "file_path": "_unpublished/文库/Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit",
+      "chars": 44008,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T23:24:28+08:00",
+      "notes": "全文存于 _unpublished/文库/Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit（44008 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；CC-BY 开放获取；正文为 Wiley PDF 纯扫描件，经 Tesseract OCR 抽取（个别字符与页脚反色文本有 OCR 噪声）。",
+      "library": {
+        "book": "Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T23:23:57",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit/full.txt",
+            "chars": 44008,
+            "paragraphs": 922,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\ocr\\scheffrahnitermes\\combined.txt",
+            "sha256": "89f6a944e0ceb0a4bde3ea2c0c0016873adc7db4e97e161196036ad52ade6f36",
+            "bytes": 44452
+          }
+        ]
+      },
+      "authors": [
+        "Mellado C. C.",
+        "Messina G. G.",
+        "Carvalho A.",
+        "Oliveira D. E.",
+        "Almeida-Azevedo R.",
+        "Almeida de Azevedo R.",
+        "Cunha H. F.",
+        "Lucena E. F.",
+        "Constantini J. P.",
+        "Pinzón-Florián O. P.",
+        "Carrijo T. F."
+      ],
+      "year": 2026,
+      "lang": "en",
+      "doi": "10.1002/njz2.70025",
+      "url": "https://doi.org/10.1002/njz2.70025",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/24-scheffrahnitermes2026.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We describe Scheffrahnitermes ubuntu, gen. and sp. nov., a new Apicotermitinae genus and species characterized by the presence of two asymmetrical sclerotized armed plates on the enteric valve seating (EVS), the EVS forming a small unique sac, and by workers that turn reddish when preserved in alcohol.",
+          "locator": "p. 1 (Abstract)",
+          "note": "属级鉴别特征（摘要）"
+        },
+        {
+          "quote": "Fontanelle conspicuous, subcircular (Figure 1B); medium spot conspicuous (Figure 1B); eyes circular, ocelli oval-shaped separated from the eye by less than its diameter (Figure 1A). Left mandible with an apical tooth and M1+2 of the same size; M3 triangular with a sharp edge; presence of a gap between the M3 and a prominent premolar process. Right mandible with apical tooth and M1 almost of the same size; M2 triangular with sharp edges (Figure 1D).",
+          "locator": "p. 2 (Imago)",
+          "note": "有翅成虫头部与上颚"
+        },
+        {
+          "quote": "Head capsule round in dorsal view, covered with very short hairs and bristles of short, medium and long size (Figure 1B); head capsule dark brown, lighter around the antennae. Antennae with 15 articles (formula 2>3<4=5).",
+          "locator": "p. 2 (Imago)",
+          "note": "有翅成虫头壳与触角"
+        },
+        {
+          "quote": "Antenna with 12-14 segments (formula 2>3=4<5), lightly colored near the base and gradually darker toward the tip.",
+          "locator": "p. 3 (Worker)",
+          "note": "工蚁触角"
+        },
+        {
+          "quote": "Enteric valve (EV) with six columnar cushions; each cushion has a short spine near its base and is covered with small scales; scales are sub-trapezoidal in the central area of the cushion and sub-rectangular marginally; small spines are present along the border of the scales, pointing toward the direction of the P3 (Figure 3B).",
+          "locator": "p. 4 (Worker)",
+          "note": "肠瓣结构"
+        },
+        {
+          "quote": "Enteric valve seating (EVS) short, forming a small sac visible in ventral and right views (Figure 3C,E); internally, the EVS has two asymmetrical sclerotized plates covered with spines going toward the P3 and spines between plates, and the bigger plate is aligned with the sac on the EVS (Figure 3A).",
+          "locator": "p. 4 (Worker)",
+          "note": "肠瓣座结构（属级鉴别核心）"
+        },
+        {
+          "quote": "P3 with an isthmus on the left side of the body, in junction with P4 (Figure 3E). P4 forming a U turn behind the mixed segment, ending dorsally in an enlarged P5 (Figure 3E).",
+          "locator": "p. 4 (Worker)",
+          "note": "后肠盘绕（P3/P4/P5）"
+        },
+        {
+          "quote": "Scheffrahnitermes can be easily distinguished from all other known neotropical Apicotermitinae by a unique set of characters, including a singular EVS, internally sclerotized and spiny, and externally forming a small sac, and the workers that turn red when preserved in alcohol.",
+          "locator": "p. 4 (Comparisons)",
+          "note": "属级比较诊断"
+        }
+      ],
+      "id": "S0119"
     }
   ]
 }

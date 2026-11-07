@@ -5033,6 +5033,31 @@
     ],
     "note": "仅据 Roisin & Pasteels 1996 在 Niuginitermes 近缘属讨论中的比较性诊断；原始描述见 Ahmad 1968（Bulletin of the Department of Zoology, University of the Panjab 3）。有翅成虫未描述。"
   },
+  "/genus/scheffrahnitermes/": {
+    "zh_name": "谢弗拉恩白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "单种属（Scheffrahnitermes ubuntu），无兵蚁（Apicotermitinae 亚科）。肠瓣座（EVS）独一无二：内部具两枚大小不等的骨化带棘板（棘朝向 P3）、板间亦具棘，外部在 P1–P3 连接处形成一个小囊（较大的一板正嵌入囊内）；工蚁经酒精保存后体色转红。与 Grigiotermes、Dissimulitermes、Humutermes 的区别：后三者骨化板位于肠瓣（EV）内且六瓣各一，本属则位于肠瓣座内；与 Ruptitermes 近缘种的区别：后者肠瓣座成三个小囊，本属仅一个；与 Rubeotermes、Tonsuritermes 同具「酒精变红」，但体形、肠道盘绕、混合段不同，且本属前胫/前基节无棘（Tonsuritermes 前胫具棘、Rubeotermes 前基节具棘）。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "雌大于雄。囟门显著、近圆形，中型斑明显；复眼圆形、单眼椭圆形、与复眼间距小于其直径。左颚端齿与 M1+2 等大、M3 三角形具锐缘、M3 与明显的前臼齿突之间有一间隙；右颚端齿与 M1 近等大、M2 三角形具锐缘。头壳背面圆形，密被短毛及短、中、长刚毛；深褐色，触角周围较浅。触角 15 节（式 2>3<4=5）。后唇基微膨、略浅于头壳、中缝明显。上唇被短毛与刚毛。前胸背板近梯形、短于头，前缘直、中央具切口，中缝明显，密被不同大小毛与刚毛。前胫长而细、不膨大、内面有少数短粗刚毛。翅为腹长三倍；翅脉褐色、膜透明微褐；前后翅具短缘毛（后缘基部三分之一除外）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单型。头壳与胸部经酒精保存后由淡黄变为深红/褐。头侧面略凸、背面圆形，散布刚毛与短、中毛。后唇基膨大，顶部常具一对刚毛。囟门大而显著。触角 12–14 节（式 2>3=4<5），基部色浅、向端部渐深。左颚端齿与 M1+2 等大、M3 三角形具锐缘、M3 与前臼齿突间有间隙；右颚端齿与 M1 近等大、M2 三角形具锐缘。前胸背板前叶与后缘具长刚毛与短毛。前胫中等膨大，具短毛与 5–6 根长粗刚毛。嗉囊球形、饱时膨大；贲门瓣长、插入中肠顶端；混合段与 P1 连接处腹面有一白色球形小瘤；P1 宽度均匀、加宽并折叠、腹面呈镜像 C 形；肠瓣（EV）六枚柱状垫、每垫基部有一短棘、被小鳞片（中央近梯形、边缘近矩形）、鳞片边缘小棘朝向 P3；肠瓣座（EVS）短、形成小囊、内部两枚不对称骨化板、棘朝 P3、板间亦具棘、较大板与囊对齐；P3 在身体左侧经一峡部与 P4 相连；P4 在混合段后呈 U 形回转、末端背侧入膨大的 P5。量度（mm，n=30，六巢）：头宽 0.63–0.73（0.68）、头长 0.78–0.90（0.83）、前胫宽 0.09–0.13（0.11）、前胫长 0.36–0.49（0.45）、胫节指数 0.74–0.87（0.82）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0119",
+        "citation": "Mellado, C. C.; Messina, G. G.; Carvalho, A.; Oliveira, D. E.; Almeida-Azevedo, R.; Almeida de Azevedo, R.; Cunha, H. F.; Lucena, E. F.; Constantini, J. P.; Pinzón-Florián, O. P.; Carrijo, T. F. 2026. Scheffrahnitermes ubuntu (Isoptera: Apicotermitinae), Description of a New Termite Using a Collaborative Approach to Address the Wallacean Shortfall. New Zealand Journal of Zoology 53: e70025.",
+        "locator": "pp. 2–5"
+      }
+    ],
+    "note": "单种属（仅 Scheffrahnitermes ubuntu），无兵蚁。正模（工蚁，MZUSP 18093）采自巴西朗多尼亚州 Porto Velho 的 UHE Jirau。分布哥伦比亚（Llanos）+ 巴西（亚马逊、塞拉多、大西洋沿岸林、卡廷加）。有翅成虫据雌性描述（雌大于雄）。"
+  },
   "/genus/acangaobitermes/": {
     "zh_name": "漏斗白蚁属",
     "sections": [
