@@ -391,7 +391,7 @@
   "sections": [
    {
     "label": "鉴别要点",
-    "text": "有翅成虫至今未知。兵蚁与工蚁触角均为 15 节，第 2 节长于第 3 节；兵蚁无眼，额腺孔及额腺或许缺失，头两侧平行、扁平隆起；前胸背板小，宽不及头宽之半，呈弱鞍形。Holmgren 只承认一个种（heterodon，喀麦隆），并将其归入培菌白蚁。"
+    "text": "有翅成虫现已记载（trilobatus 的有翅成虫即原 angolensis，Weidner 1956 描述）。兵蚁与工蚁触角均为 15 节，第 2 节长于第 3 节；兵蚁无眼，额腺孔及额腺或许缺失，头两侧平行、扁平隆起；前胸背板小，宽不及头宽之半，呈弱鞍形。Holmgren 只承认一个种（heterodon，喀麦隆），并将其归入培菌白蚁。"
    },
    {
     "label": "兵蚁",
@@ -409,7 +409,7 @@
     "locator": "p. 21（archive.org 项 biostor-184513 页面图像）"
    }
   ],
-  "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 21—22）。原文把本属作为 Eutermes 的部分异名，仅含 Synacanthotermes heterodon (Sjöst.) 一种，产喀麦隆；有翅成虫当时未知，故只有兵蚁与工蚁两段。"
+  "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 21—22）。原文把本属作为 Eutermes 的部分异名，仅含 Synacanthotermes heterodon (Sjöst.) 一种，产喀麦隆；有翅成虫当时未知，故只有兵蚁与工蚁两段；有翅成虫现已有记载（Krishna et al. 2013 将原 angolensis 描述的有翅成虫并入 trilobatus）。"
  },
  "/genus/cephalotermes/": {
   "zh_name": "头白蚁属",
