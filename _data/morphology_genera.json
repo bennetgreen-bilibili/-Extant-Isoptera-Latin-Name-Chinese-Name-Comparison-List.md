@@ -4427,6 +4427,322 @@
     ],
     "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
   },
+  "/genus/anacanthotermes/": {
+    "zh_name": "无刺白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Hodotermitinae（草白蚁亚科）三属之一，分布于北非、埃及、西亚、阿拉伯、中亚至西印度与南印度。兵蚁头近方形至略长、两侧近平行，上颚粗壮内弯、具明显缘齿，左颚长与头长（至上颚基）之比，viarum 0.66–0.76、macrocephalus 0.53–0.66；后颏后三分之一或具明显“腰”；前胸背板后缘中央深凹、弱凹或不凹。有翅成虫触角 24–31 节，上唇中部可隆起，复眼与触角基部距离 0.05–0.16 mm。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "小至中型，体长（不含翅）11–15.4 mm。上唇中部隆起（A. viarum）或平直（A. vagans）；触角 29–31 节（baluchistanicus，头宽含眼 3.20–3.42 mm，复眼径 0.63–0.70 mm，前胸背板宽 2.53–2.90 mm）、26–29 节（macrocephalus，多为 27，阿富汗标本 24；头宽 2.70–3.40 mm）、24–27 节（vagans）；复眼与触角基部最小距离 0.13–0.16 mm（viarum、baluchistanicus）或 0.05–0.08 mm（macrocephalus）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "二型（大兵、小兵）。头红褐至栗褐色，近方形、略延长，两侧近平行、中部微凹，被中等长毛；后唇基不明显；颅中缝存在；上唇宽大于长，遍布毛，前部毛较长；触角 23–25 节（baluchistanicus）；上颚粗壮，具发育良好的缘齿，左颚长 2.71 mm（baluchistanicus 大兵）；后颏长（长 2.91 mm，最大宽 1.02 mm、最小宽 0.87 mm），扁平、两侧近平行，后三分之一侧缘弱凹成“腰”（viarum、macrocephalus）或不形成“腰”（baluchistanicus、vagans）；前胸背板前部弱隆起、凸，后缘中央深凹（baluchistanicus）、弱凹（viarum、macrocephalus）或不凹（vagans）；跗节 4 节。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚具 2 枚缘齿，左颚两缘齿相距远，右颚两缘齿靠近。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0105",
+        "citation": "Roonwal, M. L.; Bose, G. 1988. The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Occasional Paper No. 111: 1–68.",
+        "locator": "pp. 3–5（属记述与检索表）"
+      }
+    ],
+    "note": "专著未设独立的属鉴别诊断；上列属级特征据其属级分布、有翅成虫与兵蚁检索表及四种记述归纳。印度区已知 4 种（baluchistanicus、macrocephalus、vagans、viarum），全属 12 种。"
+  },
+  "/genus/ampoulitermes/": {
+    "zh_name": "安瓿白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "Nasutitermitinae 单种属；兵蚁头壳深褐至巧克力色、梨形，触角后强烈缢缩、后缘中部凹陷，鼻管长圆柱形，触角 12 节，上颚退化、侧向钝尖；前胸背板小、鞍形、前缘中部具缺刻。工蚁触角 13–14 节，左上颚臼齿板突出弱、与第 2 缘齿同一水平。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳深褐至巧克力色，梨形，触角后强烈缢缩，后缘中部凹陷；鼻管长、圆柱形；触角 12 节，节短，第 3 节长于且窄于第 2 节；上颚退化，侧向钝尖；前胸背板小、鞍形，前缘中部具缺刻；足胫节端距 2:2:2，跗节 4 节；腹部多毛，具短毛与长毛；尾须 2 节。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头壳黄褐至褐色，近圆形；颅中缝存在；额板长形、白色；触角 13–14 节；后唇基中度隆起，长不及宽之半；左上颚具端齿与 2 枚缘齿，端齿与第 1 缘齿均尖、近等长，二者夹角锐；第 2 缘齿短，与第 1 缘齿间由第 1 缘齿的长后缘分隔；臼齿板（基突）突出较弱、与第 2 缘齿同一水平；右上颚端齿与第 1 缘齿同左，第 2 缘齿短、后缘近直，臼齿板长于第 2 缘齿后缘；前胸背板鞍形；足与腹部同兵蚁。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Calcutta: Zoological Survey of India, xx+801 pp.",
+        "locator": "pp. 698–699"
+      }
+    ],
+    "note": "单种属（A. wynaadensis Mathur & Thapa），仅见于印度喀拉拉邦 Periyar 保护区。有翅成虫未知。"
+  },
+  "/genus/angulitermes/": {
+    "zh_name": "角白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "东洋区大属。兵蚁小、纤细、色淡，上唇前缘内弯、前侧角延伸成角状突；上颚细长杆状、端部内弯、略呈弹击型，长度等于或超过头长；后颏短、棍棒状；前胸背板强烈鞍形；胫节端距 3:2:2，前足背距极微小。工蚁触角 14 节；有翅成虫触角 15 节，翅膜面具星状与非星状微刺。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "小型，褐色，密被短毛与长毛；头近圆形；额板微小至长形、缝状；复眼圆、中等；单眼椭圆、与复眼远离；触角 15 节；后唇基隆起，长约宽之半；上颚端齿大于第 1 缘齿；左颚第 1 缘齿后缘仅略长于前缘，第 2 缘齿以缺刻分隔；右颚第 1 缘齿前、后缘近等长，第 2 缘齿后缘内弯；前胸背板半圆形或近梯形，略窄于含眼头宽；前足胫节端距 3:2:2；翅淡褐、膜面被毛，前缘与后缘具乳突，膜面具星状与非星状微刺；前缘脉粗，沿前缘延伸；径脉与前缘脉等粗、平行紧邻；中脉弱、分支少，前翅独立发出、后翅自径脉发出；肘脉 10–12 支。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "小型、纤细、色淡，疏被或较密被毛；头近长方形，具额突；额腺孔位于额突之下；触角 14 节；上唇前缘内弯，前侧角延伸成角状突；上颚细长杆状，端部内弯、略呈弹击型，长度等于或超过头长；后颏短、棍棒状；前胸背板强烈鞍形；胫节端距 3:2:2，背距微小、有时不明显。"
+      },
+      {
+        "label": "工蚁",
+        "text": "小型、纤细、色淡，被毛较密；头近圆形；额板不明显，具一圆形半透明斑；触角 14 节；后唇基强烈隆起，长约宽之半或稍过半；上颚同有翅成虫，右颚第 2 缘齿后缘更内弯；前胸背板强烈鞍形，前缘缺刻微弱或无；胫节端距 3:2:2，前足胫节背距极微小、有时几不可见。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Calcutta: Zoological Survey of India, xx+801 pp.",
+        "locator": "pp. 224–225"
+      }
+    ],
+    "note": "该书以专节逐种记述印度区多种，为印度 Termitidae 中种类最多的属之一。"
+  },
+  "/genus/euscaiotermes/": {
+    "zh_name": "左转白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "印度特有单种属。兵蚁头近长方形、向前略收窄，触角 17 节（第 3 节短于第 2 节），上唇三角形、端尖，上颚粗壮、端部内弯，左上颚端部三分之一后方具凹缺、右上颚无齿；工蚁触角 19 节，后唇基长为宽的三分之一，上颚与 Odontotermes 同型。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头近长方形，向前略收窄；触角 17 节，第 3 节短于第 2 节；上唇三角形、端部尖；上颚粗壮，端部内弯；左上颚端部三分之一后方具凹缺，右上颚无齿；后颏近长方形；前胸背板鞍形，前缘具缺刻、后缘微凹；胫节端距 3:2:2，跗节 4 节；尾须 2 节；具针突。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头近圆形，宽大于长；额腺孔白色、圆形、大；触角 19 节；后唇基隆起，长为宽的三分之一；上颚与 Odontotermes 同型，具端齿与 2 枚缘齿；前胸背板鞍形；足同兵蚁。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Calcutta: Zoological Survey of India, xx+801 pp.",
+        "locator": "pp. 567–568"
+      }
+    ],
+    "note": "单种属（E. primus Silvestri），印度特有；因无标本，该书据 Silvestri 原记与 Emerson 笔记转述。有翅成虫未知。"
+  },
+  "/genus/emersonitermes/": {
+    "zh_name": "埃默森白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "印度南部特有单种属。兵蚁头壳乳白色、梨形，鼻管红褐、细长锥状，上颚退化无刺，触角 14 节，前胸背板鞍形、前缘无凹口，腹部各背板具 4 根长毛；工蚁触角 13 节，左上颚基突大、突出于第 2 缘齿之外。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳乳白色，额腺区较淡；鼻管红褐色；触角褐色；前胸背板黄色；足与腹部乳白色。头壳梨形，密被微毛并杂以长毛；鼻管细长、锥状；触角 14 节；上颚退化，无刺；前胸背板鞍形，前缘无凹口；足胫节端距 2:2:2，跗节 4 节；腹部延长，各背板具 4 根长毛。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头壳近圆形，密被毛；颅中缝不可见；额板椭圆形、白色；触角 13 节；后唇基隆起，长为宽之半；上颚具端齿与 2 枚缘齿；左上颚端齿尖、与第 1 缘齿近等长；第 1 缘齿大、窄、三角形、后缘长；第 2 缘齿小、相距远；基突大、突出于第 2 缘齿之外；右上颚端齿与第 1 缘齿近等长；第 1 缘齿等腰三角形；第 2 缘齿短，后缘长于前缘，两缘齿夹角钝；臼齿板长于第 2 缘齿后缘；前胸背板与足同兵蚁。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Calcutta: Zoological Survey of India, xx+801 pp.",
+        "locator": "pp. 757–758"
+      }
+    ],
+    "note": "单种属（E. thekadensis Mathur & Sen-Sarma），印度南部（喀拉拉邦）特有。有翅成虫未知。"
+  },
+  "/genus/roonwalitermes/": {
+    "zh_name": "鲁恩沃白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "印度东北部特有单种属。兵蚁二型：大兵头壳圆球形、触角后不收窄，向前急缩成长而窄的圆柱形鼻管（几与头等长），触角 13 节；小兵头梨形，触角 11–12 节。工蚁触角 13 节，后唇基仅微隆（长约宽的四分之一）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "二型。大兵：头壳圆球形，触角后不收窄，遍被微毛；前部急缩成长而窄、几与头等长的圆柱形鼻管；侧面观鼻管基部头壳微内弯；触角 13 节，第 3 节长、窄、棒状，第 4 节最短；上颚退化，各具一短刺状突、无齿；前胸背板强烈鞍形；足细长，胫节端距 2:2:2，跗节 4 节。小兵：头梨形，触角后不收窄；前部缩成长而窄的鼻管，侧面观鼻管基部具一弱隆起；触角 11–12 节；上颚退化、具短刺；前胸背板与足同大兵。"
+      },
+      {
+        "label": "工蚁",
+        "text": "头近圆形；额腺孔圆形；颅中缝存在；触角 13 节，节短而宽圆；后唇基弱隆起，长约宽的四分之一；上颚具端齿与 2 枚缘齿，端齿与第 1 缘齿近等长、夹角窄；左颚第 1 缘齿后缘长而直，第 2 缘齿短、三角形，第 2 缘齿与臼齿板之间的缘强烈内弯，臼齿突小、尖；右颚第 1 缘齿后缘长于前缘，第 2 缘齿短、后缘长而直，臼齿板约为第 2 缘齿后缘的 1.25 倍；前胸背板与足同兵蚁。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Calcutta: Zoological Survey of India, xx+801 pp.",
+        "locator": "pp. 746–747"
+      }
+    ],
+    "note": "单种属（R. wadhwai Bose），印度东北部（梅加拉亚邦）特有。有翅成虫未知。"
+  },
+  "/genus/niuginitermes/": {
+    "zh_name": "新几内亚白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "新几内亚特有属，含 2 种。兵蚁为小型至中型象白蚁，形态近 Nasutitermes，但头壳触角后无缢缩、触角 12 节、上颚具尖；有翅成虫触角 14 节，是与新几内亚 Nasutitermes 唯一稳定的区别；工蚁二型，肠型可作鉴别。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "小型至中型，触角 14 节；与新几内亚 Nasutitermes 的有翅成虫相比，触角节数（14）似乎是唯一稳定的鉴别特征。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "小型至中型象白蚁，与 Nasutitermes 近缘；单型；头壳触角后无缢缩；触角 12 节；上颚具尖；所辖 2 种均为橙色。"
+      },
+      {
+        "label": "工蚁",
+        "text": "二型；大型工蚁体色随龄期变化；触角 13 节；上颚与 Nasutitermes 很相似，左颚指数 0.38–0.53。肠型具鉴别意义：混合段长，中肠突位于肠曲外侧、以宽的背蒂与其余中肠相连；马氏管成两对、相距远；结肠长，自胃顶部向后，继以两个 180° 弯曲构成三维 S 形，先向前再向下，随后一段近直行至直肠；肠瓣斜置、近对称，上、下两圈具刺区相距远；上圈 6 区、具许多小刺；下圈 3 个隆起，刺向胃的方向渐小；肠瓣骨架不伸入胃内。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0049",
+        "citation": "Roisin, Y.; Pasteels, J. M. 1996. The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy 10: 507–616.",
+        "locator": "Genus Niuginitermes gen. nov. 节"
+      }
+    ],
+    "note": "Roisin & Pasteels 1996 所立新属，含 N. variratae（模式种）等 2 种，新几内亚特有。"
+  },
+  "/genus/parvitermes/": {
+    "zh_name": "微白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "小型、色浅的象白蚁。属级鉴别主要靠后肠瓣（enteric valve，EVA）：其后的刺环由 3 个龙骨状垫组成，每垫具约 7–15 根长刺，刺弯向与食物流相反的方向（“逆流”），工蚁与兵蚁皆然——除 Antillitermes 外，这在白蚁各属中是独一无二的。P1 长、呈 U 形（P. mexicanus 较短粗），P2 在近 P3 处缢缩成梨形。与中美洲同类相比，兵蚁头壳小于、色浅于 Nasutitermes，鼻管明显细于 Subulitermes，头壳也不像 Tenuirostritermes 那样中部强烈缢缩。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头壳最小处在后三分之一（P. mexicanus）或在中部（P. mesoamericanus、P. yucatanus）；鼻管相对头顶平面的倾斜可作种级鉴别：mexicanus 略上扬，mesoamericanus 与 yucatanus 与之共面或向下；侧面观 mesoamericanus 鼻管端部三分之二近圆柱形，yucatanus 为圆锥形。EVA 与工蚁同型。"
+      },
+      {
+        "label": "工蚁",
+        "text": "后肠 P1 长、U 形；P2 近 P3 处缢缩成梨形；EVA 刺环由 3 个龙骨状垫组成，每垫 7–15 根长刺，逆食物流方向弯曲，垫间或有或无小圆锥齿斑；制片中刺常嵌在凝固的细菌团块内。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0106",
+        "citation": "Scheffrahn, R. H. 2016. Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus. ZooKeys 617: 47–63.",
+        "locator": "pp. 49–51"
+      }
+    ],
+    "note": "Emerson 1949 建立，模式种 Nasutitermes brooksi Snyder；Roisin et al. 1996 作过属级重新描述。原为西印度群岛属，2016 年才确认见于中美洲大陆。"
+  },
+  "/genus/paracapritermes/": {
+    "zh_name": "旁扭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁上颚不对称——左颚长、端部钩状、基部具一显著齿状突，右颚短、基部有明显凹缺；头具发达额突，端部尖而上翘（P. kraepelinii 最发达），额腺孔开口于额突之下；触角 14 节。有翅成虫左上颚第 3 缘齿发达、右颚第 2 缘齿弱化，与 Protocapritermes 最近缘（Ahmad 1950 曾以其为 Capritermes 复合体中最原始者，Krishna 1968 据上颚齿式否定）。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "小型，深褐色；头密被毛，杂以硬鬃；额板明显、窄、椭圆形；复眼小；触角 15 节，第 3 节最短。左上颚端齿略短于愈合的第 1+2 缘齿，第 3 缘齿发达；右上颚第 2 缘齿略退化。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头具发达额突，端部尖、上翘；额腺孔位于额突之下；上唇前缘近直或微呈角状，有的个体中部微凹，前侧角略尖；上颚不对称，端部尖而钩状；左颚基部具显著齿状突，中部中度弯曲、外缘强烈弧弯（P. primus）或中部微弯（P. kraepelinii）；右颚短于左颚，基部具明显凹缺；触角 14 节，第 4 节最短、第 3 节约等于第 2 节；胫节端距 3:2:2，中胫在 P. primus 具 1 刺、P. kraepelinii 具 2 刺。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0067",
+        "citation": "Krishna, K. 1968. Phylogeny and generic reclassification of the Capritermes complex (Isoptera, Termitidae, Termitinae). Bulletin of the American Museum of Natural History 138: 265–330.",
+        "locator": "pp. 271–274"
+      }
+    ],
+    "note": "Hill 1942 作为 Mirotermes 的亚属建立，Snyder 1949 提升为属；模式种 P. primus，分布于澳大利亚。"
+  },
+  "/genus/lophotermes/": {
+    "zh_name": "小脊突白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁额突与侧瘤发达，上颚一般粗壮且长于头壳，触角 14 节（少数 15 节），上唇通常大，胫距式 3:2:2 或 2:2:2。工蚁单态，左颚指数大于 1.5、常大于 2.0；后肠 P3 分为较小的后段与较大的前段。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "额突（frontal tubercles）与侧瘤（lateral tubercles）均发达；上颚粗壮，长度超过头壳；触角 14 节，有时 15 节；上唇通常大；胫距式 3:2:2，或 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单态。左颚指数大于 1.5，常大于 2.0；后肠 P3 分为小的后段与较大的前段。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0107",
+        "citation": "Bourguignon T.; Leponce M.; Roisin Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769: 1–34.",
+        "locator": "p. 11"
+      }
+    ],
+    "note": "属征为新几内亚类群的再诊断，原文注明完整描述见 Miller（1991）；有翅成虫未描述。"
+  },
+  "/genus/macrognathotermes/": {
+    "zh_name": "长颚白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁额突发达，侧瘤通常存在、有时退化或缺失；上颚甚长而细；后颏仅略突出于头壳下缘；触角 14 节；胫距 2:2:2。工蚁单态，左颚指数大于 1.5、常大于 2.0；肠瓣垫大小交替、略不对称、密布小刺；后肠 P1 膨大，P3 分为等大的后段与前段。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "额突发达；侧瘤通常存在，有时退化或缺失；上颚极长而细；后颏仅略低于头壳下缘突出；触角 14 节；胫距式 2:2:2。"
+      },
+      {
+        "label": "工蚁",
+        "text": "单态。左颚指数大于 1.5，常大于 2.0；肠瓣垫（enteric valve cushions）大小交替、略不对称，具多数小刺；后肠 P1 膨大，P3 分为后段与前段，两者近于等大。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0107",
+        "citation": "Bourguignon T.; Leponce M.; Roisin Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769: 1–34.",
+        "locator": "p. 13"
+      }
+    ],
+    "note": "属征为新几内亚类群的再诊断，原文注明完整描述见 Miller（1991）；有翅成虫未描述。"
+  },
+  "/genus/procornitermes/": {
+    "zh_name": "前角白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头呈矩形或近矩形，向前方略收窄或明显收窄，卵形至梨形；额管自上方看略呈圆锥形，中等长（抵后唇基）或较长（达前唇基），少数可达上唇；上唇圆形或三叉状，中央常有一白斑；后颏平直、基部收窄，或前半部先扩宽后骤然收窄；触角 13–15 节，第 3 或第 4 节常具分节痕迹；胫距式 2:2:2 或 3:2:2。有翅成虫头卵形，囟卵形或圆形、位于平坦或凹陷区，有时突出；单眼肾形或半月形；前翅长 13.30–19.16 mm、宽 3.44–5.00 mm。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头矩形或近矩形，向额部略收窄或明显收窄，卵形或梨形。额管顶上观略呈圆锥形，中等长而抵后唇基，或较长而达前唇基，少数可抵上唇；额管端部朝前或略转向上。上唇圆形或呈三叉状，端部圆钝或尖锐，中央区恒有一白斑。后颏平直，或基部收窄，或前半部先扩宽继而骤然收窄。触角 13–15 节，第 3 或第 4 节具分节痕迹。前胸背板前、后叶具缺刻或不具。头黄色至橙色，上唇与额管可与头色形成对比或同色。"
+      },
+      {
+        "label": "工蚁",
+        "text": "上颚形态是本属的主要鉴别依据。右颚 A 略大于 M1，前缘弧曲、后缘平直；M1 三角形、边缘直；M2 远小于 M1，自尖端至磨板（molar plate）走直。左颚 A 约与 M1+2 等大，前缘弧曲、后缘平直；M3 呈「隔板」状，止于 Prm 之前且走直；Dm 可在 M3 与 Prm 之间和/或其后方透见，各物种均发达。磨板形状与大小种间有变异，第 1 条条纹（1ª estria）位于端部增厚区之后、清晰可辨，其条纹区形状为种级特征。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头卵形；囟卵形或圆形，位于平坦或略凹陷区，有时突出；Y 形缝可见或不显。复眼近圆形，直径 0.27–0.44 mm，眼至头下缘 0.07–0.19 mm。单眼肾形或半月形（自上方观），至囟距离 0.29–0.49 mm。上唇圆形；触角 13–15 节，第 3 或第 4 节有时具分节痕迹，各节近等长，或第 2、3、4 节之一较短。后唇基强拱，中央缝明显；前唇基中央呈 V 形。前胸背板后叶具缺刻或不具；前翅长 13.30–19.16 mm、宽 3.44–5.00 mm，翅面覆极短毛。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0108",
+        "citation": "Cancello E. M. 1986. Revisão de Procornitermes Emerson (Isoptera, Termitidae, Nasutitermitinae). Papéis Avulsos de Zoologia 36(19): 189–236.",
+        "locator": "pp. 196–198"
+      }
+    ],
+    "note": "属级再描述据 Cancello（1986）；该文把 Triacitermes 并入本属，并认 P. cornutus 为 P. lespesii 的晚出异名。原文为葡文，抽取文本的变音符号已丢失。"
+  },
   "/genus/acangaobitermes/": {
     "zh_name": "漏斗白蚁属",
     "sections": [

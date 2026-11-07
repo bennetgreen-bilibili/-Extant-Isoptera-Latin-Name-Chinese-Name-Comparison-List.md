@@ -1,0 +1,52 @@
+{
+ "/genus/parvitermes/": {
+  "zh_name": "微白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "小型、色浅的象白蚁。属级鉴别主要靠后肠瓣（enteric valve，EVA）：其后的刺环由 3 个龙骨状垫组成，每垫具约 7–15 根长刺，刺弯向与食物流相反的方向（“逆流”），工蚁与兵蚁皆然——除 Antillitermes 外，这在白蚁各属中是独一无二的。P1 长、呈 U 形（P. mexicanus 较短粗），P2 在近 P3 处缢缩成梨形。与中美洲同类相比，兵蚁头壳小于、色浅于 Nasutitermes，鼻管明显细于 Subulitermes，头壳也不像 Tenuirostritermes 那样中部强烈缢缩。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "头壳最小处在后三分之一（P. mexicanus）或在中部（P. mesoamericanus、P. yucatanus）；鼻管相对头顶平面的倾斜可作种级鉴别：mexicanus 略上扬，mesoamericanus 与 yucatanus 与之共面或向下；侧面观 mesoamericanus 鼻管端部三分之二近圆柱形，yucatanus 为圆锥形。EVA 与工蚁同型。"
+   },
+   {
+    "label": "工蚁",
+    "text": "后肠 P1 长、U 形；P2 近 P3 处缢缩成梨形；EVA 刺环由 3 个龙骨状垫组成，每垫 7–15 根长刺，逆食物流方向弯曲，垫间或有或无小圆锥齿斑；制片中刺常嵌在凝固的细菌团块内。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0106",
+    "citation": "Scheffrahn, R. H. 2016. Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus. ZooKeys 617: 47–63.",
+    "locator": "pp. 49–51"
+   }
+  ],
+  "note": "Emerson 1949 建立，模式种 Nasutitermes brooksi Snyder；Roisin et al. 1996 作过属级重新描述。原为西印度群岛属，2016 年才确认见于中美洲大陆。"
+ },
+ "/genus/paracapritermes/": {
+  "zh_name": "旁扭白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁上颚不对称——左颚长、端部钩状、基部具一显著齿状突，右颚短、基部有明显凹缺；头具发达额突，端部尖而上翘（P. kraepelinii 最发达），额腺孔开口于额突之下；触角 14 节。有翅成虫左上颚第 3 缘齿发达、右颚第 2 缘齿弱化，与 Protocapritermes 最近缘（Ahmad 1950 曾以其为 Capritermes 复合体中最原始者，Krishna 1968 据上颚齿式否定）。"
+   },
+   {
+    "label": "有翅成虫",
+    "text": "小型，深褐色；头密被毛，杂以硬鬃；额板明显、窄、椭圆形；复眼小；触角 15 节，第 3 节最短。左上颚端齿略短于愈合的第 1+2 缘齿，第 3 缘齿发达；右上颚第 2 缘齿略退化。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "头具发达额突，端部尖、上翘；额腺孔位于额突之下；上唇前缘近直或微呈角状，有的个体中部微凹，前侧角略尖；上颚不对称，端部尖而钩状；左颚基部具显著齿状突，中部中度弯曲、外缘强烈弧弯（P. primus）或中部微弯（P. kraepelinii）；右颚短于左颚，基部具明显凹缺；触角 14 节，第 4 节最短、第 3 节约等于第 2 节；胫节端距 3:2:2，中胫在 P. primus 具 1 刺、P. kraepelinii 具 2 刺。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0067",
+    "citation": "Krishna, K. 1968. Phylogeny and generic reclassification of the Capritermes complex (Isoptera, Termitidae, Termitinae). Bulletin of the American Museum of Natural History 138: 265–330.",
+    "locator": "pp. 271–274"
+   }
+  ],
+  "note": "Hill 1942 作为 Mirotermes 的亚属建立，Snyder 1949 提升为属；模式种 P. primus，分布于澳大利亚。"
+ }
+}

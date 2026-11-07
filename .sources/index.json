@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 101,
+    "count": 107,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T07:40:04+08:00",
+    "updated": "2026-11-07T16:23:06+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2929,13 +2929,19 @@
           "quote": "Upper ring of spiny areas of enteric valve slightly asymmetrical, lower ring with spines penetrating into the paunch. Worker caste dimorphic. Size distribution of large workers unimodal.",
           "locator": "p. 584（Diwaitermes, worker）",
           "note": "支撑：Diwaitermes 工蚁二型与肠瓣刺区"
+        },
+        {
+          "quote": "Soldier Small to medium-sized nasutes, closely allied to Nasutitermes. Soldier caste monomorphic. Head capsule without constriction behind antennae. Antennae 12-segmented. Mandibles with points.",
+          "locator": "pp. 572–573（Genus Niuginitermes gen. nov.，Soldier）",
+          "note": "支撑：新几内亚白蚁属兵蚁单型、头壳触角后无缢缩、触角 12 节、上颚具尖"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/04-6.json"
+        "_tools/fauna/morphology/descriptions/04-6.json",
+        "_tools/fauna/morphology/descriptions/10-zsi-books.json"
       ],
-      "accessed": "2026-11-07T03:52:32+08:00",
+      "accessed": "2026-11-07T16:03:57+08:00",
       "canonical_key": "doi:10.1071/it9960507",
       "id": "S0049"
     },
@@ -3819,14 +3825,30 @@
           "quote": "Left mandible with apical tooth small, posterior margin of fused first plus second marginal tooth long, third marginal tooth well developed. Right mandible with posterior margin of second marginal tooth straight and acute angle between first and second marginal teeth.",
           "locator": "p. 318（Worker，上颚）",
           "note": "支撑：工蚁左右上颚齿式。"
+        },
+        {
+          "quote": "Imago (fig. 2): Small, dark brown. Head densely hairy, with numerous stiff bristles interspersed with short hairs. Fontanelle distinct, narrow, elliptical. Eyes small.",
+          "locator": "p. 274",
+          "note": "支撑：Paracapritermes 有翅成虫形态"
+        },
+        {
+          "quote": "Labrum with anterior margin almost straight or faintly angular, in some individuals faintly indented in middle, and anterolateral corners slightly pointed.",
+          "locator": "p. 274",
+          "note": "支撑：Paracapritermes 兵蚁上唇形态（与 Protocapritermes 共衍征）"
+        },
+        {
+          "quote": "Tibial spurs 3:2:2. Middle tibia with one spine in primus",
+          "locator": "p. 274",
+          "note": "支撑：Paracapritermes 胫节端距式与中胫刺数（原文下接 two in kraepelinii，因跨行连字符截断未引入；转述见描述）"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/11-revisions.json",
         "_tools/fauna/morphology/descriptions/planicapritermes1968.json"
       ],
       "notes": "全文取自 AMNH 数字图书馆 TEXT 位流 37533e92-5fa9-4910-a7f1-b8b1ff7c2f25（B138a05.pdf.txt，122,086 B，经 archive.org djvu.txt 镜像取得，本地 _tmp/lit/pdfs/krishna1968_capritermes_complex.txt）。引文为 OCR 文本，行末连字符（asym-metrical、pos-terior 等）已合并为原词；原文明确 Imago: Unknown。",
-      "accessed": "2026-11-07T06:52:58+08:00",
+      "accessed": "2026-11-07T16:05:23+08:00",
       "canonical_key": "url:https://digitallibrary.amnh.org/items/1c297c2a-f5e7-4e04-baae-fd96941d2889",
       "id": "S0067"
     },
@@ -5815,6 +5837,477 @@
       "chars": 16384,
       "canonical_key": "doi:10.11646/zootaxa.5536.3.4",
       "id": "S0102"
+    },
+    {
+      "title": "Catalog of the Termites (Isoptera) of the World",
+      "source_type": "book",
+      "reliability": "primary",
+      "canonical_key": "url:https://archive.org/details/in.ernet.dli.2015.26103",
+      "file_path": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World",
+      "chars": 1735069,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T15:58:37+08:00",
+      "notes": "全文存于 _unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World（1735069 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan; scanned catalog, OCR errors present; catalog only (no morphological descriptions).。",
+      "library": {
+        "book": "Catalog-of-the-Termites-(Isoptera)-of-the-World",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T15:58:37",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-001.txt",
+            "chars": 199959,
+            "paragraphs": 5162,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "46dd29433edf91ad2cf4cf3f4dfd31508de95930c62bb4bde8903b15b24bea7e",
+            "bytes": 200079
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-002.txt",
+            "chars": 199997,
+            "paragraphs": 5228,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "cb1ac6e7ea324992414e17bc6e9f0ea41cf5d82a65cf49de32f18393492e6229",
+            "bytes": 200143
+          },
+          {
+            "chunk": "part-003",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-003.txt",
+            "chars": 199942,
+            "paragraphs": 5270,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "77b74c3f4ec76438dcada3b9a2f89dc94a4bd3b6c0d0cd77b396874105d1426d",
+            "bytes": 200046
+          },
+          {
+            "chunk": "part-004",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-004.txt",
+            "chars": 199964,
+            "paragraphs": 5197,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "bb9b0ae410a953d64cecf021324d94f0aaa882935ea5a5930a730020cb62d371",
+            "bytes": 200222
+          },
+          {
+            "chunk": "part-005",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-005.txt",
+            "chars": 199941,
+            "paragraphs": 5132,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "135c3bef7ffc8f25b20cb61363e818849ee8e77d1de351b4e9925dcce66ccdb1",
+            "bytes": 200169
+          },
+          {
+            "chunk": "part-006",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-006.txt",
+            "chars": 199991,
+            "paragraphs": 4172,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "e7bb2eb875f67a6e391b19d26e6142541fc2ce2b8bf6b34382f56b0b4c7b1287",
+            "bytes": 200097
+          },
+          {
+            "chunk": "part-007",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-007.txt",
+            "chars": 199977,
+            "paragraphs": 2353,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "8f5326a0845c71840e03e0b08c6a9aaa058a139e8bff0f3010943c74ae14788a",
+            "bytes": 199987
+          },
+          {
+            "chunk": "part-008",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-008.txt",
+            "chars": 199916,
+            "paragraphs": 2808,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "a97b83cd9f79278ef8eef582533db590846b3f7dd3cb337ba964d509122af2aa",
+            "bytes": 199922
+          },
+          {
+            "chunk": "part-009",
+            "txt": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World/part-009.txt",
+            "chars": 135382,
+            "paragraphs": 3128,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\snyder1949_catalog_text.txt",
+            "sha256": "1088f4717aa8c022c6ae1a37b009ad9faab88f4771b6a9eab6222c30f8f7fcf4",
+            "bytes": 135418
+          }
+        ]
+      },
+      "authors": [
+        "Snyder T. E."
+      ],
+      "year": 1949,
+      "publisher": "Smithsonian Miscellaneous Collections 112",
+      "lang": "en",
+      "url": "https://archive.org/details/in.ernet.dli.2015.26103",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0103"
+    },
+    {
+      "title": "The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae)",
+      "source_type": "book",
+      "reliability": "primary",
+      "canonical_key": "url:https://archive.org/details/dli.zoological.fi.027",
+      "file_path": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
+      "chars": 1491143,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T16:03:57+08:00",
+      "notes": "全文存于 _unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa（1491143 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan; archive.org record year 1989 is wrong, title page cites April 1997.。",
+      "library": {
+        "book": "The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T15:58:38",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-001.txt",
+            "chars": 199985,
+            "paragraphs": 3904,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "5d9aeca8816a20bce0c3c68c87296495e9142fc9d16789ff46f13f52529452de",
+            "bytes": 200689
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-002.txt",
+            "chars": 199953,
+            "paragraphs": 4272,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "7a206b6ae6df77b72e99a70fcc54d33cff8c0e99035b3ac1d7ebb2103cbdcc8d",
+            "bytes": 200343
+          },
+          {
+            "chunk": "part-003",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-003.txt",
+            "chars": 199941,
+            "paragraphs": 4391,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "2b5d9c31291e04b5a22a033ac441811fc19e6334630fa7838f647050e22c4abb",
+            "bytes": 200317
+          },
+          {
+            "chunk": "part-004",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-004.txt",
+            "chars": 199999,
+            "paragraphs": 4128,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "709d86b1ca976c38c3ce5555955ec704d5b3991d162c5b89983f55a57116453e",
+            "bytes": 200345
+          },
+          {
+            "chunk": "part-005",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-005.txt",
+            "chars": 199983,
+            "paragraphs": 4043,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "9913feea716fb0e7a880e351b91caa80ff63f194dbb99d69df169b626bff36ed",
+            "bytes": 200173
+          },
+          {
+            "chunk": "part-006",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-006.txt",
+            "chars": 199950,
+            "paragraphs": 4085,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "c4c882b9b59147a0aa185433a0f48ecda8242a2ba35154f2b783189a2256db43",
+            "bytes": 200248
+          },
+          {
+            "chunk": "part-007",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-007.txt",
+            "chars": 199972,
+            "paragraphs": 4257,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "d1086b1731365280f3f1727be5e6451a9f33cb8f62f0077418005ad092e0edc5",
+            "bytes": 200086
+          },
+          {
+            "chunk": "part-008",
+            "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa/part-008.txt",
+            "chars": 91360,
+            "paragraphs": 1928,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\fauna_india_isoptera_1989.txt",
+            "sha256": "b46eb047db7aef52f57876c695eed247712da9695aa4f2c3490a133dc1ea30f7",
+            "bytes": 91732
+          }
+        ]
+      },
+      "authors": [
+        "Chhotani O. B."
+      ],
+      "year": 1997,
+      "publisher": "Zoological Survey of India, Calcutta",
+      "lang": "en",
+      "url": "https://archive.org/details/dli.zoological.fi.027",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/10-zsi-books.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Imago : Small, brown and densely hairy with short and long hairs. Head-capsule subcircular. Fontanelle plate minute to long, slit-like. Eyes round, medium sized. Ocelli oval, well separated from eyes. Antennae with 15 segments.",
+          "locator": "p. 224（Angulitermes，Imago 段）",
+          "note": "支撑：角白蚁属有翅成虫体型、额板、复眼与单眼、触角 15 节"
+        },
+        {
+          "quote": "Soldier: Small, delicate, pale and sparsely or fairly hairy. Head subrectangular, with frontal protuberance. Fontanelle situated under frontal protuberance. Antennae with 14 segments.",
+          "locator": "p. 225（Angulitermes，Soldier 段）",
+          "note": "支撑：角白蚁属兵蚁头方形、额突、触角 14 节"
+        },
+        {
+          "quote": "Head-capsule dark brown to chocolate in colour, pear- shaped, strongly constricted behind antennae and medially depressed at posterior margin. Rostrum long, cylindrical. Antennae 12 segmented; segments short, 3rd longer and narrower than 2nd.",
+          "locator": "p. 698（Ampoulitermes，Soldier）",
+          "note": "支撑：安瓿白蚁属兵蚁头梨形、触角后强烈缢缩、鼻管长圆柱形、触角 12 节"
+        },
+        {
+          "quote": "Head subrectangular, slightly converging anteriorly. Antennae with 17 segments; segment 3 shorter than 2.",
+          "locator": "p. 567（Euscaiotermes，Soldier）",
+          "note": "支撑：左转白蚁属兵蚁头近长方形、触角 17 节且第 3 节短于第 2 节"
+        },
+        {
+          "quote": "Antennae with 14 segments. Mandibles vestigial, without spines. Pronotum saddle-shaped, without emargination at anterior margin. Legs with 2 : 2 : 2 apical tibial spurs; tarsi 4 jointed. Abdomen elongate. each tergite with 4 long hairs.",
+          "locator": "p. 757（Emersonitermes，Soldier）",
+          "note": "支撑：埃默森白蚁属兵蚁触角 14 节、上颚无刺、前胸背板缘无凹口、腹部每背板 4 长毛"
+        },
+        {
+          "quote": "Soldier : Dimorphic. Soldier major : Head-capsule globularly rounded, not converging behind antennae; with several minute hairs all over; in front sharply narrowed into a long narrow, cylindrical nasute of almost same length as head; in profile head weakly incurved at base of nasute. Antennae with 13 segments; segment 3 long, narrow, club-shaped; segment 4 shortest.",
+          "locator": "p. 746（Roonwalitermes，Soldier major）",
+          "note": "支撑：鲁恩沃白蚁属兵蚁二型、大兵头圆球形不收窄、鼻管几与头等长、触角 13 节"
+        },
+        {
+          "quote": "Worker : Head subcircular; fontanelle round; epicranial suture present. Antennae with 13 segments; segments short and broadly rounded. Postclypeus weakly swollen; length about 1/4 of width.",
+          "locator": "p. 747（Roonwalitermes，Worker）",
+          "note": "支撑：鲁恩沃白蚁属工蚁触角 13 节、后唇基仅微隆（约宽的四分之一）"
+        }
+      ],
+      "id": "S0104"
+    },
+    {
+      "title": "The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae)",
+      "source_type": "book",
+      "reliability": "primary",
+      "canonical_key": "url:https://archive.org/details/dli.zoological.occpapers.111",
+      "file_path": "_unpublished/文库/The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib",
+      "chars": 126252,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T16:03:57+08:00",
+      "notes": "全文存于 _unpublished/文库/The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib（126252 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan.。",
+      "library": {
+        "book": "The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T15:58:38",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib/full.txt",
+            "chars": 126252,
+            "paragraphs": 2644,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\_books\\anacanthotermes_indian_1988.txt",
+            "sha256": "26489a28358593205e454104f2b041d53236fe0cccce66e354f03c4af35c6a38",
+            "bytes": 126466
+          }
+        ]
+      },
+      "authors": [
+        "Roonwal M. L.",
+        "Bose G."
+      ],
+      "year": 1988,
+      "publisher": "Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111",
+      "lang": "en",
+      "url": "https://archive.org/details/dli.zoological.occpapers.111",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/10-zsi-books.json"
+      ],
+      "evidence": [
+        {
+          "quote": "To the Hodotermitinae belong the harvester termites which are referable to three genera, Hodotermes (E. and S. Africa), Microhodotermes (the mediterranean region of N. Africa and S. Africa) and Anacanthotermes (N. Africa, Egypt, W. Asia, Arabia, Central Asia, to W. and S. India).",
+          "locator": "p. 3（INTRODUCTION）",
+          "note": "支撑：草白蚁亚科三属及 Anacanthotermes 的分布范围"
+        },
+        {
+          "quote": "Distribution (Figs. 1 & 2): Mainly palaearctic Coastal N. Africa west to Algeria; Palestine, W. Asia, Turkestan, Iran, Transcaspia, Afghanistan; also oriental (W. Pakistan, W. India and extreme S. India) and ethiopian (Egypt, Arabia).",
+          "locator": "p. 5（Genus Anacanthotermes，Distribution）",
+          "note": "支撑：无刺白蚁属区系归属（古北为主，兼东洋与埃塞俄比亚）"
+        },
+        {
+          "quote": "Postmentum with sides of posterior third weakly depressed, not forming a waist. Maximum head-width 2.91- 3.53 mm. Antennae with 23-25 segments",
+          "locator": "p. 5（SOLDER 检索表，A. baluchistanicus 条）",
+          "note": "支撑：兵蚁后颏后三分之一弱凹、触角 23–25 节（baluchistanicus）"
+        }
+      ],
+      "id": "S0105"
+    },
+    {
+      "title": "Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3897/zookeys.617.10040",
+      "file_path": "_unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-",
+      "chars": 32783,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T16:05:23+08:00",
+      "notes": "全文存于 _unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-（32783 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:04:34",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-/full.txt",
+            "chars": 32783,
+            "paragraphs": 525,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\04-termitidae-pointer-7\\parvitermes_zookeys2016.txt",
+            "sha256": "9c8acf9674a13d341cceaa828302ed5ef3adcec705ad600ca0768e052b9f7785",
+            "bytes": 32791
+          }
+        ]
+      },
+      "authors": [
+        "Scheffrahn R. H."
+      ],
+      "year": 2016,
+      "lang": "en",
+      "doi": "10.3897/zookeys.617.10040",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/11-revisions.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The posterior EV ring (sensu Noirot 2001) of both workers and soldiers is uniquely composed of three keel-shaped pads covered with about 7-15 long spines directed into the P2 lumen (Fig. 1B). The spines are curved or angled counter to the direction of the food flow.",
+          "locator": "p. 50（Diagnosis）",
+          "note": "支撑：Parvitermes 属级鉴别核心＝EVA 三龙骨垫+7–15 逆流长刺"
+        }
+      ],
+      "id": "S0106"
+    },
+    {
+      "title": "Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "url": "https://zenodo.org/records/182093",
+      "doi": "10.5281/zenodo.182093",
+      "year": 2008,
+      "lang": "en",
+      "authors": [
+        "Bourguignon T.",
+        "Leponce M.",
+        "Roisin Y."
+      ],
+      "publisher": "Zootaxa 1769: 1-34",
+      "retrieved_via": "zenodo treatment.html（Plazi 逐段转录）",
+      "notes": "出版社 Zootaxa 1769 版面未直接取得；正文取自 Plazi 对本文的逐段转录（Zenodo 记录 182093 为文章条目，属级 treatment 另存 10.5281/zenodo.6230356 = Lophotermes p.11、10.5281/zenodo.6230362 = Macrognathotermes p.13）。属级诊断句末注明「For a more complete description see Miller (1991)」，即属征复述自 Miller 1991（付费墙，未获）。",
+      "evidence": [
+        {
+          "quote": "Soldiers of Lophotermes are usually characterized by well-developed frontal and lateral tubercles (Figs 17 –18, 21– 22); mandibles generally stout and longer than head capsule; antennae of 14 or sometimes 15 segments; labrum usually large; tibial spurs 3: 2: 2 or 2: 2: 2.",
+          "locator": "p. 11（Lophotermes 属级 Diagnosis；Plazi treatment 6230356）",
+          "note": "支撑：Lophotermes 兵蚁的额突/侧瘤、上颚、触角节数、胫距式"
+        },
+        {
+          "quote": "Monomorphic workers. Worker left mandible index> 1.5, often> 2.0 (Figs 20, 24). Worker digestive tract with P 3 subdivided into a small posterior section and a larger anterior one (Fig. 62).",
+          "locator": "p. 11（同上，工蚁段）",
+          "note": "支撑：Lophotermes 工蚁单态、左颚指数与后肠 P3 分节"
+        },
+        {
+          "quote": "Soldiers of this genus are characterized by the following characters (Figs 25–26): frontal projection well developed; lateral tubercles usually present, sometimes reduced or absent; mandibles very long and slender; postmentum projecting only slightly below the head capsule; antennae 14 -segmented; tibial spurs 2: 2: 2.",
+          "locator": "p. 13（Macrognathotermes 属级 Diagnosis；Plazi treatment 6230362）",
+          "note": "支撑：Macrognathotermes 兵蚁的长而细上颚、后颏突出程度、触角 14 节、胫距 2:2:2"
+        },
+        {
+          "quote": "Monomorphic workers. Worker left mandible index> 1.5, usually> 2.0 (Figs 28). Enteric valve cushions of alternating size, slightly asymmetrical, with numerous small spines. Worker digestive tract with P 1 enlarged, P 3 subdivided into a posterior and an anterior section of the same size (Fig. 63).",
+          "locator": "p. 13（同上，工蚁段）",
+          "note": "支撑：Macrognathotermes 工蚁颚指数、肠瓣垫与 P1/P3 形态"
+        }
+      ],
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/12-plazi-termites.json"
+      ],
+      "accessed": "2026-11-07T16:22:03+08:00",
+      "canonical_key": "doi:10.5281/zenodo.182093",
+      "id": "S0107"
+    },
+    {
+      "title": "Revisao de Procornitermes Emerson (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "url:https://www.revistas.usp.br/paz/article/download/211472/193735",
+      "file_path": "_unpublished/文库/Revisao-de-Procornitermes-Emerson-(Isoptera,-Termitidae,-Nasutitermitinae)",
+      "chars": 96265,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T16:23:06+08:00",
+      "notes": "全文存于 _unpublished/文库/Revisao-de-Procornitermes-Emerson-(Isoptera,-Termitidae,-Nasutitermitinae)（96265 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；Papeis Avulsos de Zoologia 36(19): 189-236; issue header 30.XI.1986 (some indexes give 1983). pdftotext OCR drops Portuguese diacritics as U+FFFD.。",
+      "library": {
+        "book": "Revisao-de-Procornitermes-Emerson-(Isoptera,-Termitidae,-Nasutitermitinae)",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:22:54",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Revisao-de-Procornitermes-Emerson-(Isoptera,-Termitidae,-Nasutitermitinae)/full.txt",
+            "chars": 96265,
+            "paragraphs": 2040,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\procornitermes_1983.txt",
+            "sha256": "374673be4f2af773a8d999d5602d54d22b443308fa7c0259e1a1ce08313c78e2",
+            "bytes": 99827
+          }
+        ]
+      },
+      "authors": [
+        "Cancello E. M."
+      ],
+      "year": 1986,
+      "lang": "pt",
+      "url": "https://www.revistas.usp.br/paz/article/download/211472/193735",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/13-cancello1986.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Soldado: cabe�a retangular ou sub-retangular, convergindo ligeira ou acentuadamente na regi�o anterior, oval ou piriforme. Tubo frontal, quando visto de cima, mais ou menos c�nico, moderadamente longo, chegando at� o p�s-clipeo, ou longo, alcan�ando o ante-clipeo",
+          "locator": "p. 197（Soldado 段）",
+          "note": "支撑：兵蚁头形、额管长度与顶端朝向、上唇形态"
+        },
+        {
+          "quote": "Alado: cabe�a oval, fontanela oval ou arredondada, situada em �rea plana ou deprimida; �s vezes fontanela proeminente.",
+          "locator": "p. 197（Alado 段）",
+          "note": "支撑：有翅成虫头卵形、囟卵形或圆形、位于平坦或凹陷区"
+        },
+        {
+          "quote": "F�rmula dos espor�es das t�bias; 2:2:2 ou 3:2:2.",
+          "locator": "pp. 197–198（兵蚁/工蚁胫距式）",
+          "note": "支撑：胫距式 2:2:2 或 3:2:2"
+        },
+        {
+          "quote": "Oper�rio: Caracterizado pelas mand�bulas (Ver item IV. 1 para as caracter�sticas gerais)",
+          "locator": "p. 198（Operário 段）",
+          "note": "支撑：工蚁以两上颚形态为主要鉴别依据"
+        }
+      ],
+      "id": "S0108"
     }
   ]
 }

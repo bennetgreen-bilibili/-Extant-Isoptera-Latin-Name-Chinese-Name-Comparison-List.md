@@ -1,0 +1,52 @@
+{
+ "/genus/lophotermes/": {
+  "zh_name": "小脊突白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁额突与侧瘤发达，上颚一般粗壮且长于头壳，触角 14 节（少数 15 节），上唇通常大，胫距式 3:2:2 或 2:2:2。工蚁单态，左颚指数大于 1.5、常大于 2.0；后肠 P3 分为较小的后段与较大的前段。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "额突（frontal tubercles）与侧瘤（lateral tubercles）均发达；上颚粗壮，长度超过头壳；触角 14 节，有时 15 节；上唇通常大；胫距式 3:2:2，或 2:2:2。"
+   },
+   {
+    "label": "工蚁",
+    "text": "单态。左颚指数大于 1.5，常大于 2.0；后肠 P3 分为小的后段与较大的前段。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0107",
+    "citation": "Bourguignon T.; Leponce M.; Roisin Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769: 1–34.",
+    "locator": "p. 11"
+   }
+  ],
+  "note": "属征为新几内亚类群的再诊断，原文注明完整描述见 Miller（1991）；有翅成虫未描述。"
+ },
+ "/genus/macrognathotermes/": {
+  "zh_name": "长颚白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁额突发达，侧瘤通常存在、有时退化或缺失；上颚甚长而细；后颏仅略突出于头壳下缘；触角 14 节；胫距 2:2:2。工蚁单态，左颚指数大于 1.5、常大于 2.0；肠瓣垫大小交替、略不对称、密布小刺；后肠 P1 膨大，P3 分为等大的后段与前段。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "额突发达；侧瘤通常存在，有时退化或缺失；上颚极长而细；后颏仅略低于头壳下缘突出；触角 14 节；胫距式 2:2:2。"
+   },
+   {
+    "label": "工蚁",
+    "text": "单态。左颚指数大于 1.5，常大于 2.0；肠瓣垫（enteric valve cushions）大小交替、略不对称，具多数小刺；后肠 P1 膨大，P3 分为后段与前段，两者近于等大。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0107",
+    "citation": "Bourguignon T.; Leponce M.; Roisin Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769: 1–34.",
+    "locator": "p. 13"
+   }
+  ],
+  "note": "属征为新几内亚类群的再诊断，原文注明完整描述见 Miller（1991）；有翅成虫未描述。"
+ }
+}
