@@ -3,7 +3,7 @@
     "version": 1,
     "count": 114,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T20:02:53+08:00",
+    "updated": "2026-11-07T20:13:08+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -313,7 +313,7 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-07T19:25:32+08:00",
+      "accessed": "2026-11-07T20:06:51+08:00",
       "evidence": [
         {
           "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
@@ -339,6 +339,16 @@
           "quote": "兵蚁一般只有一类，但是在某些类群中，如大白蚁属 Macrotermes、小白蚁属 Microtermes 等，其兵蚁有大兵蚁和小兵蚁之分。",
           "locator": "001-100.txt 第 349 行（非生殖型·兵蚁品级）",
           "note": "支撑：二型兵蚁见于 Macrotermes、Microtermes，而非 Termes。"
+        },
+        {
+          "quote": "兵蚁  通常有大、小两类体形，或大、中、 小三类体形。",
+          "locator": "601-700.txt, line 480",
+          "note": "支撑：大白蚁属 Macrotermes 兵蚁通常二型、部分三型——站点描述已正确"
+        },
+        {
+          "quote": "图360 箕头大白蚁 M. declivatus 大兵：1.头及胸背板背面；4.头侧面；7.后颏；10.上颚；13.触角；中兵：2.头及胸背板背面；5.头侧面；8.后颏；11.上颚；14.触角；小兵：3.头及胸背板背面；6.头侧面；9.后颏；12.上颚；15.触角。(仿朱世模)",
+          "locator": "601-700.txt, line 670–676",
+          "note": "支撑：箕头大白蚁 Macrotermes declivatus 为三型兵蚁种（大兵+中兵+小兵）"
         }
       ],
       "used_in": [
@@ -349,7 +359,7 @@
       "id": "S0003"
     },
     {
-      "title": "Treatise-on-the-Isoptera",
+      "title": "Treatise on the Isoptera of the world",
       "source_type": "book",
       "canonical_key": "library:Treatise-on-the-Isoptera",
       "file_path": "_unpublished/文库/Treatise-on-the-Isoptera",
@@ -510,7 +520,7 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-07T19:25:32+08:00",
+      "accessed": "2026-11-07T20:06:51+08:00",
       "evidence": [
         {
           "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
@@ -566,6 +576,26 @@
           "quote": "Macrotermes ahmadi Tho, 1975: 177–178 (major and minor soldier, worker), figs. 1–4.",
           "locator": "1001-1200.txt 第 1843 行",
           "note": "支撑：对照——Macrotermes 种记述作 major and minor soldier（二型兵蚁），与 Termes 的 (soldier, worker) 单型形成对照，证明二型属 Macrotermes 而非 Termes s. str.。"
+        },
+        {
+          "quote": "Soldier: Monomorphic (Porotermes, Allodontermes, Synacanthotermes, Odontotermes, Hypotermes, Microtermes, Ancistrotermes), dimorphic (Macrotermes, Pseudacanthotermes), or trimorphic (Acanthotermes).",
+          "locator": "0001-0200.txt, line 3449–3451",
+          "note": "支撑：白蚁亚科 Macrotermitinae 检索表，Acanthotermes 兵蚁为三型（trimorphic）"
+        },
+        {
+          "quote": "▲ 1 species.",
+          "locator": "0801-1000.txt, line 11835",
+          "note": "支撑：Acanthotermes 为单型属（仅 acanthothorax 一种）"
+        },
+        {
+          "quote": "Termes acanthothorax Sjöstedt, 1898b: 204–205 (major and minor soldier, worker).",
+          "locator": "0801-1000.txt, line 11842",
+          "note": "支撑：原始描述仅记 major and minor soldier（二型）"
+        },
+        {
+          "quote": "Grassé, 1937a: 29, fig. 19 • Acanthotermes acanthothorax; major, intermediate, minor soldier, major worker figured; remarks; distribution. Ivory Coast.",
+          "locator": "0801-1000.txt, line 11873–11874",
+          "note": "支撑：Grassé 1937 增记 intermediate（中兵），兵蚁实为三型"
         }
       ],
       "used_in": [
@@ -4513,7 +4543,7 @@
       "file_path": "_unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon",
       "chars": 391457,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T07:14:53+08:00",
+      "accessed": "2026-11-07T20:13:08+08:00",
       "notes": "全文存于 _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon（391457 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。；archive.org 全文镜像：https://archive.org/details/bulletin-american-museum-natural-history-57-401-574",
       "library": {
         "book": "Termites-of-the-Belgian-Congo-and-the-Cameroon",
@@ -4551,7 +4581,9 @@
       "used_in": [
         "_data/etymology.json",
         "_data/morphology_genera.json",
-        "_tools/fauna/morphology/descriptions/08-african.json"
+        "_tools/fauna/morphology/descriptions/08-african.json",
+        "_tools/fauna/morphology/descriptions/19-emerson1928-subgenera.json",
+        "_tools/fauna/morphology/descriptions/20-emerson1928-subgenera2.json"
       ],
       "evidence": [
         {
@@ -4603,6 +4635,76 @@
           "quote": "Front of head prolonged into a very large conspicuous nose; sides of head rounded. Proboscitermes. Front of head not prolonged into a nose; sides of head straight and parallel. Orthotermes .",
           "locator": "p. 419（兵蚁检索表）",
           "note": "支撑：小瘤白蚁属（/genus/tuberculitermes/）"
+        },
+        {
+          "quote": "Head yellowish; rectangular; sides fairly straight and parallel. Antennae with 14 segments, the third longer than the second, the second equal to the fourth. Labrum forked, the points not always as wide apart as in the figure. Mandibles somewhat elbowed instead of being evenly curved, a tooth near the base of each mandible. Gula with no sharp projection.",
+          "locator": "p. 530",
+          "note": "支撑：原方白蚁属兵蚁（M. niapuensis）"
+        },
+        {
+          "quote": "Head medium dark red-brown; fontanelle slit-shaped, light. Antennae with 15 segments, the third very small, the second equal to the fourth. Eyes of medium size. Ocelli .14 mm. long, oval, facing sideways, 1.10 mm. from the eyes. Postclypeus slightly lighter than the head, with narrow dark median line. Pronotum a little lighter than the head, posterior margin rather deeply emarginate.",
+          "locator": "p. 529",
+          "note": "支撑：原方白蚁属有翅成虫（M. niapuensis）"
+        },
+        {
+          "quote": "Head reddish yellow; rectangular; sides straight and parallel; gula without sharp projection. Antennae with 14 segments, the second equal to the third, the fourth shorter than the third. Labrum deeply cut, each tip fairly sharp. Mandibles with a small tooth near the base of each; left mandible not evenly curved, but elbowed in two places; right mandible evenly curved.",
+          "locator": "p. 532",
+          "note": "支撑：原方白蚁属兵蚁（M. undulans）"
+        },
+        {
+          "quote": "Head yellowish brown; oval; fontanelle small, white; three muscle insertions in front of the fontanelle. The third segment of the antennae about twice as long as the second or fourth, showing signs of division. Eyes of medium size, close to the lower margin.",
+          "locator": "p. 531",
+          "note": "支撑：原方白蚁属有翅成虫（M. undulans）"
+        },
+        {
+          "quote": "No projecting spines on the sides of the meso- and metanotum. Pseudacanthotermes.",
+          "locator": "p. 418",
+          "note": "支撑：伪刺白蚁属与 Acanthotermes 的检索鉴别"
+        },
+        {
+          "quote": "Head rectangular, reddish yellow brown. Antennae with 19-21 segments. Labrum wide with hyaline tip. Mandibles black, the left coarsely dentate. Fontanelle surrounded by short hairs and a spine in front. Meso- and metanota with pointed sides but with no lateral spines. Pronotum with two large spines on the anterior margin, the sides sharply pointed and converging toward the rear.",
+          "locator": "p. 434",
+          "note": "支撑：伪刺白蚁属大兵蚁（A. spiniger）"
+        },
+        {
+          "quote": "Head dark brown, mandibles yellowish with black tips. Antennae with 23 segments, the second longer than the third, the third and fourth equal. Eyes relatively small, as far from the lower margin as from the ocelli. Ocelli elongate from above, oval from the side, more than their diameter from the eyes. Labrum yellowish. Postclypeus yellowish, contrasting with the head; a line through the middle.",
+          "locator": "p. 433",
+          "note": "支撑：伪刺白蚁属有翅成虫（A. spiniger）"
+        },
+        {
+          "quote": "For the present I am regarding Pseudacanthotermes as a subgenus. The genus as a whole seems to be successful in Rain Forests as well as in the Savanna. Large fungus gardens are found in the nests.",
+          "locator": "p. 432",
+          "note": "支撑：伪刺白蚁属的分类地位与菌圃习性"
+        },
+        {
+          "quote": "Head yellow; strongly narrowed in front; sides fairly straight. Antennae with 14 segments, the third very long (.22-32 mm.), the second and fourth about equal. Labrum with a concave anterior margin ending in two sharp points. Mandibles long and slender, black, adapted for snapping.",
+          "locator": "p. 541",
+          "note": "支撑：前奇白蚁属兵蚁（M. orthoceps）"
+        },
+        {
+          "quote": "Head reddish yellow-brown with a darker nose; conspicuously constricted in the middle; two hairs on the vertex.",
+          "locator": "p. 496",
+          "note": "支撑：缩狭白蚁属兵蚁（N. suffuscus）头与缢缩"
+        },
+        {
+          "quote": "The third segment is longer than the second or fourth but is not double the length of the second as in N. dorise. Mandibles with very small points which are barely distinguishable.",
+          "locator": "p. 496",
+          "note": "支撑：缩狭白蚁属兵蚁触角与上颚点"
+        },
+        {
+          "quote": "Head rectangular with rounded angles, only slightly narrowed in front; reddish yellow; covered with short hair. Antennae with 13 segments, the third smaller than the second, the second equal to the fourth. Labrum with rounded sides and a hyaline point.",
+          "locator": "p. 450",
+          "note": "支撑：圆球白蚁属兵蚁头、触角、上唇"
+        },
+        {
+          "quote": "Left mandible with a much stronger curved point than the right, a few serrations and a blunt tooth near the base. Inner margin of the right mandible smooth. Fontanelle in the middle of the head, small and inconspicuous.",
+          "locator": "p. 450",
+          "note": "支撑：圆球白蚁属兵蚁上颚与囟门"
+        },
+        {
+          "quote": "Head light brownish yellow; oval; fontanelle a round light dot and rather small; head covered with short hairs and a few long bristles. The third segment of the antennae very small, the fourth about equal to the second. Eyes of medium size, round, not particularly close to the lower margin. Ocelli large, very close to the eyes.",
+          "locator": "p. 450",
+          "note": "支撑：圆球白蚁属有翅成虫头、触角、眼、单眼"
         }
       ],
       "id": "S0075",
@@ -6839,9 +6941,14 @@
       ],
       "evidence": [
         {
-          "quote": "Head small, cylindrical, height almost equal to width, frons sloping toward clypeus at about 45-degree angle. Frontal gland very small; fontanelle round, very small, about 0.014-0.019 mm. in diameter, situated just above frontal slope. Labrum very large and wide, wider than long, asymmetrical, tilted upward; anterior region with wide hyaline tip; underside with posterior median sclerotized protrusion pointing downward.",
+          "quote": "Head small, cylindrical, height almost equal to width, frons sloping toward clypeus at about 45-degree angle. Frontal gland very small; fontanelle round, very small, about 0.014-0.019 mm. in diameter, situated just above frontal slope.",
           "locator": "p. 2",
-          "note": "支撑：唇白蚁属兵蚁头、额面、囟门、上唇形态"
+          "note": "支撑：兵蚁头、额面、囟门形态"
+        },
+        {
+          "quote": "Labrum very large and wide, wider than long, asymmetrical, tilted upward; anterior region with wide hyaline tip; underside with posterior median sclerotized protrusion pointing downward.",
+          "locator": "p. 2",
+          "note": "支撑：兵蚁上唇形态"
         },
         {
           "quote": "Mandibles rather strongly curved, asymmetrical. Left mandible slightly longer than right; inner cutting edge beginning at tip with distinct and regular serrations up to one-third or one-half the length, ending with four progressively larger teeth; posterior margin of third and fourth tooth long; small pointed projection at base of fourth tooth.",
@@ -6854,14 +6961,24 @@
           "note": "支撑：兵蚁右颚、前胸背板、触角、胫距"
         },
         {
-          "quote": "Left mandible (fig. 1) with short apical tooth; posterior margin of fused first plus second marginal tooth longer than apical tooth, with almost straight cutting edge, joining evenly (without a distinct angle) with anterior margin of third marginal tooth; mandible index LA/Li .28; fourth marginal tooth small, faintly visible from above, almost hidden behind molar prominence; molar plate with a few (4-5) grinding ridges.",
+          "quote": "Left mandible (fig. 1) with short apical tooth; posterior margin of fused first plus second marginal tooth longer than apical tooth, with almost straight cutting edge, joining evenly (without a distinct angle) with anterior margin of third marginal tooth; mandible index LA/Li .28;",
           "locator": "p. 2",
-          "note": "支撑：工蚁左颚及颚指数 0.28"
+          "note": "支撑：工蚁左颚齿列与颚指数 LA/Li 0.28"
         },
         {
-          "quote": "Our study confirms that Labritermes is most closely related to Foraminitermes, as the two genera share several synapomorphic characters. In the soldier of each of these genera, the labrum has a hyaline tip; the upper inner cutting edge of the left mandible is finely serrated, with blunt teeth appearing as crenulations below the serrations; and the inner margin of the right mandible is smooth and without teeth, the base of its molar region with one or two very tiny, pointed, thornlike spines or projections.",
+          "quote": "fourth marginal tooth small, faintly visible from above, almost hidden behind molar prominence; molar plate with a few (4-5) grinding ridges.",
+          "locator": "p. 2",
+          "note": "支撑：工蚁左颚第4缘齿与臼齿板"
+        },
+        {
+          "quote": "Our study confirms that Labritermes is most closely related to Foraminitermes, as the two genera share several synapomorphic characters.",
           "locator": "pp. 3–4",
-          "note": "支撑：与 Foraminitermes 的近缘关系及共衍征"
+          "note": "支撑：与 Foraminitermes 的近缘关系"
+        },
+        {
+          "quote": "In the soldier of each of these genera, the labrum has a hyaline tip; the upper inner cutting edge of the left mandible is finely serrated, with blunt teeth appearing as crenulations below the serrations; and the inner margin of the right mandible is smooth and without teeth, the base of its molar region with one or two very tiny, pointed, thornlike spines or projections.",
+          "locator": "pp. 3–4",
+          "note": "支撑：与 Foraminitermes 的兵蚁共衍征（上唇透明端、左颚锯齿、右颚基部棘状突）"
         }
       ],
       "id": "S0115"

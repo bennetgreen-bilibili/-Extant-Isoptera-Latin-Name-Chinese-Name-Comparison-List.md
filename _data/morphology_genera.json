@@ -1622,7 +1622,7 @@
     "sections": [
       {
         "label": "鉴别要点",
-        "text": "兵蚁分大、小两型，这是本属最醒目的特征；有翅成虫触角 20—23 节，雄虫比雌虫多 1—2 节，兵蚁触角 17—20 节。前胸背板前缘具刺，胸节背板侧缘多少尖锐。已知种类全部产自非洲。"
+        "text": "兵蚁分大、中、小三型，这是本属最醒目的特征；有翅成虫触角 20—23 节，雄虫比雌虫多 1—2 节，兵蚁触角 17—20 节。前胸背板前缘具刺，胸节背板侧缘多少尖锐。已知种类全部产自非洲。"
       },
       {
         "label": "有翅成虫",
@@ -1644,7 +1644,7 @@
         "locator": "pp. 13—14（archive.org 项 biostor-184513 页面图像）"
       }
     ],
-    "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 13—14）。书中的 Termes 为广义用法，本属模式种 Acanthotermes acanthothorax (Sjöstedt)。种名录（7 个非洲种）未写入描述。"
+    "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 13—14）。本属模式种 Acanthotermes acanthothorax (Sjöstedt)。种名录（7 个非洲种）未写入描述。注意：兵蚁二型是 Holmgren 1912 的旧认识（仅描述大、小两型）；Grassé 1937 与 Treatise 2013 的 Macrotermitinae 检索表另分出中兵，现代视本属兵蚁为大、中、小三型。"
   },
   "/genus/syntermes/": {
     "zh_name": "聚白蚁属",
@@ -4803,6 +4803,160 @@
       }
     ],
     "note": "Emerson 1928 以 Jugositermes tuberculatus 为模式种建立该属，当时只描述兵蚁，有翅成虫与工蚁未描述；属征是与其近缘属 Apicotermes、Allognathotermes 的比较鉴别，Emerson 指出其与当时已知各属差异显著。"
+  },
+  "/genus/labritermes/": {
+    "zh_name": "唇白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头小、圆柱形，高与宽近相等，额面以约 45° 角向后唇基倾斜；囟门圆形、极小（直径约 0.014–0.019 mm）；上唇极大而宽（宽大于长）、不对称、上翘，前区具宽的透明端，下侧具向后指的后中骨化突起；上颚较强弯、不对称，左颚稍长、内切缘自端部起具规则锯齿、末端为四枚渐大的齿，右颚更向内弯、内缘背面光滑、具细锯齿窄沟；触角 12 节；胫距 3:2:2。与非洲属 Foraminitermes 亲缘最近，二者共享兵蚁上唇透明端、左颚细锯齿、右颚臼齿区基部 1–2 枚棘状突及消化道结构等多项共衍征，故 Krishna & Adams（1982）将该属自 Amitermitinae 转隶 Termitinae。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头小、圆柱形，高与宽近相等，额面向后唇基呈约 45° 倾斜；额腺极小，囟门圆形、极小而直径约 0.014–0.019 mm，恰位于额斜面上方；上唇极大而宽、宽大于长、不对称、上翘，前区具宽的透明端，下侧具向后指的后中骨化突起。上颚较强弯、不对称：左颚稍长于右颚，内切缘自端部起具清晰规则的锯齿、延伸至约 1/3–1/2 长，末端为四枚渐大的齿，第 3、4 齿后缘长，第 4 齿基部具小尖突；右颚较左颚更向内弯，内缘背面光滑、具一条自近基部延伸至端的窄沟，沟的腹缘细锯齿，基部具 1–2 枚极小的棘状突。前胸背板鞍状、窄于头。触角 12 节；胫距 3:2:2。量度（模式种 L. buttel-reepeni 兵蚁，mm）：头长 1.05–1.15、头宽 0.58–0.62、头高 0.54–0.59、左颚 0.58–0.60、右颚 0.50–0.58。"
+      },
+      {
+        "label": "工蚁",
+        "text": "左颚端齿短；第 1+2 缘齿愈合、其后缘长于端齿、切缘近直，与第 3 缘齿前缘均匀相接（无明显角）；颚指数 LA/Li 0.28；第 4 缘齿小、自背面隐约可见、几乎隐于臼齿突之后；臼齿板具 4–5 条研磨脊。右颚第 1 缘齿后缘长于端齿或第 2 缘齿后缘，第 2 缘齿显著、后缘凹；臼齿板具 3–4 条研磨脊。消化道与 Foraminitermes 多处相似：嗉囊膨大、不对称；砂囊与嗉囊不显著分离、骨化更强；中肠甚长（约为嗉囊与砂囊合计长的三倍）；中肠—后肠接点简单、横行、无混合段；四枚马氏管均匀着生于该接点、向前延伸一段后折返向后方，基部微膨大；P1 近端管状而窄（约与中肠等径）、远端囊状膨大，经无齿的圆锥形肠瓣进入 P2；P2 不如 P1 远端囊状段膨大，渐窄为细长管状结肠、终于直肠。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头黄色至浅黄褐，单眼间具三枚淡色圆斑组成三角形；后唇基、前唇基与上唇乳黄色；触角浅黄；前胸背板乳黄至浅黄；翅鳞褐；翅与足淡黄。头与前胸背板密被粗细不一的刚毛。头小、卵形，后缘宽圆；Y 缝不可见；囟门极小、几乎不可见、不隆起；眼中等大；单眼大、触及眼缝；后唇基凸、中缝分为两半；触角 12+ 节，第 2 节等于第 4 节，第 3 节大于第 2、4 节；前胸背板宽为头宽的 0.77–0.81、非鞍状，前缘微凹、两侧宽圆、后缘明显内凹；基节无骨化脊（异于 Foraminitermes）；胫距 3:2:2。前翅长约 5.90 mm、宽约 1.52 mm。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0115",
+        "citation": "Krishna, K.; Adams, C. 1982. The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum Novitates 2735: 1–14.",
+        "locator": "pp. 2–7"
+      }
+    ],
+    "note": "Krishna & Adams（1982）重描述本属及其模式种 L. buttel-reepeni，并新增 L. emersoni 与 L. kistneri 两种。属级有翅成虫特征仅见于模式种描述（原文「IMAGO: See the description under Labritermes buttel-reepeni」）。本属由 Holmgren（1914）建立，曾置于 Amitermitinae；Noirot & Noirot-Timothée（1969）与 Sands（1972）据消化道特征转隶 Termitinae，Krishna & Adams（1982）确证其与非洲属 Foraminitermes 亲缘最近。"
+  },
+  "/genus/procubitermes/": {
+    "zh_name": "原方白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头矩形、两侧平直近于平行，无尖锐的颚角突；上唇分叉或深裂；上颚近基部各具一枚小齿、非均匀弯曲（左颚呈肘状、右颚均匀弯曲）；触角 14 节。有翅成虫囟门缝状或小而白，触角 15 节，中、后胸背板后缘具小的凹缺。与 Cubitermes 亚属在许多方面相似。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头矩形、黄至红黄色，两侧平直近于平行；颚角突（gula）无锐突。上唇分叉（niapuensis 尖端间距不一；undulans 深裂、各尖较锐）。上颚近基部各具一枚小齿；niapuensis 上颚略呈肘状而非均匀弯曲，undulans 左颚两处肘折、右颚均匀弯曲。触角 14 节（niapuensis 第 3 节长于第 2 节、第 2 节等于第 4 节；undulans 第 2 节等于第 3 节、第 4 节短于第 3 节）。前胸背板前缘微凹或稍凹。量度（mm）：niapuensis 含颚头长 3.26、头宽 1.37、触角 2.20、前胸背板 0.31×0.70、后足胫节 1.00、左颚 1.71；undulans 含颚头长 3.05、头宽 1.10、触角 2.00、前胸背板 0.26×0.67、后足胫节 0.89、左颚 1.57。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 14 节。niapuensis 头宽 0.94 mm、后足胫节 1.00 mm；undulans 头宽 0.86 mm、后足胫节 0.72 mm。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "niapuensis：头中暗红褐、囟门缝状浅色；触角 15 节（第 3 节甚小、第 2 节等于第 4 节）；眼中等大；单眼长 0.14 mm、卵形、朝向侧面、距眼 1.10 mm；后唇基略浅于头、具窄的暗色中线；前胸背板略浅、后缘深凹；中、后胸背板后缘具小的锐凹（夹角小于直角）。量度（mm）：头长 1.22、头宽 1.19、触角 1.78、眼径 0.31、前胸背板 0.59×1.05、后足胫节 1.16；后长 20.00、腹宽 3.50。undulans：头黄褐、卵形；囟门小而白、前方有三处肌肉着生痕；触角第 3 节约为第 2 或第 4 节两倍（显分节迹象）；眼中等大、靠近下缘；单眼中等大、距眼大于其宽；后唇基略浅、具淡中线；前胸背板略浅、后缘凹；中、后胸背板后缘极窄地凹。量度（mm）：头长 1.23、头宽 1.10、眼径 0.38、前胸背板 0.57×0.97、后足胫节 1.03；后长 19.00、腹宽 3.00。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 529–532"
+      }
+    ],
+    "note": "Emerson (1928) 将本属作为 Mirotermes 的亚属处理（模式种 Procubitermes arboricola (Sjöstedt)），并暂时并入 Sjöstedt (1924) 分立的 Noditermes、Unguitermes、Lepidotermes 等类群。本处属征据其刚果产 Mirotermes (Procubitermes) niapuensis 与 M. (P.) undulans 的兵蚁/工蚁/有翅成虫整理；现代属的界定与异名见 Krishna et al. (2013)。"
+  },
+  "/genus/pseudacanthotermes/": {
+    "zh_name": "伪刺白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "与指名亚属 Acanthotermes 的关键区别在于中、后胸背板两侧无向外突出的棘（Acanthotermes s. str. 有）。大兵蚁上颚黑色、左颚粗齿状；前胸背板前缘具两枚大棘、两侧尖锐向后收拢。属整体在雨林与稀树草原均繁盛，巢内建大型菌圃。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "大兵蚁：头矩形、红黄褐色；触角 19–21 节；上唇宽、具透明端；上颚黑色、左颚粗齿状；囟门周围具短毛、前方具一棘；中、后胸背板两侧尖锐但无侧棘；前胸背板前缘具两枚大棘、两侧尖锐向后收拢。量度（mm）：头长 3.67–4.00、头宽 1.83–2.10、前胸背板（含棘）1.00、前胸背板中部 1.67、前胸背板宽 1.30–1.60、后足胫节 2.00–2.20、左颚 1.33–1.37。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头暗褐，上颚黄色而尖端黑；触角 23 节（第 2 节长于第 3 节、第 3 节与第 4 节等长）；眼相对小、与下缘距离等于与单眼距离；单眼自上方看长形、自侧面看卵形、距眼大于其径；上唇黄色；后唇基黄色、与头对比明显、中贯一线；前胸背板前缘中部凹、两侧平直向后收拢、后缘宽凹；中、后胸背板后缘宽凹；翅膜浅而透明，前缘脉、径脉与基脉不透明褐至黄。量度（mm）：含翅长 29.00、去翅长 15.00、头长 2.78、头宽 2.20–2.30、触角 3.80、眼径 0.53–0.55、前胸背板 1.27×2.00–2.20、后足胫节 3.00、左颚 1.33、前翅 22.00–23.00×5.50；后长 52.00、腹宽 17.00。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 433–435"
+      }
+    ],
+    "note": "Sjöstedt (1924) 将原 Acanthotermes 属拆分，模式种 acanthothorax 单独保留于指名亚属，其余多数种归入 Pseudacanthotermes；Emerson (1928) 视其为 Acanthotermes 的亚属。本处属征据模式种 Acanthotermes (Pseudacanthotermes) spiniger 的大兵蚁与有翅成虫整理；Emerson 称无法区分 spiniger 的亚种 kohli 与 lujae。现代属的界定见 Krishna et al. (2013)。"
+  },
+  "/genus/promirotermes/": {
+    "zh_name": "前奇白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头向前显著收窄、两侧近直；上唇前缘凹、末端呈两尖；上颚长而细、黑色、适于弹跳（snapping）；触角 14 节、第 3 节甚长。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头黄色、向前强烈收窄、两侧近平直；触角 14 节（第 3 节甚长、约 0.22–0.32 mm，第 2 与第 4 节约等长）；上唇前缘凹、末端呈两尖；上颚长而细、黑色、适于弹跳；前胸背板前缘微凹。量度（mm）：含颚头长 3.00–3.10、头宽 1.10–1.17、触角 2.20、前胸背板 0.27×0.55、后足胫节 1.27、左颚 1.77–1.84。与 M. bellicosi（前胸背板前缘深裂）、M. gracilipes（更大、头侧不甚直）、M. holmgreni（额突更隆起、头侧不直）相区别。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 541–542"
+      }
+    ],
+    "note": "Emerson (1928) 将本属作 Mirotermes 的亚属处理；本处仅据其刚果产 Mirotermes (Promirotermes) orthoceps（新种，模式产地 Banana）的兵蚁整理，属级有翅成虫与工蚁未描述。现代属见 Krishna et al. (2013)。"
+  },
+  "/genus/coarctotermes/": {
+    "zh_name": "缩狭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头红黄褐色、中部显著缢缩，鼻（nasus）色更深；上颚具极小的点、几乎不可辨；鼻与头顶光滑。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头红黄褐色、鼻色更深；头中部显著缢缩；头顶具两根毛；触角 13 节（第 3 节长于第 2 或第 4 节，但不及第 2 节两倍，异于 N. dorix）；上颚具极小的点、几乎不可辨；胸与头近同色；足相对身体不甚长。量度（mm）：头长 1.39–1.47、头宽 0.78、前胸背板 0.18×0.44、后足胫节 1.10。较 N. dorix 小得多；N. coarctatus 缢缩后部头更小、鼻较粗；N. clepsydra 头黑；N. tenebricus 头更长、上颚无点。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 495–496"
+      }
+    ],
+    "note": "Emerson (1928) 将本属作 Nasutitermes 的亚属处理（Holmgren 建立，拼写以 Coarctotermes 为准）；本处仅据其 Nasutitermes (Coarctotermes) suffuscus（新种）的兵蚁整理，有翅成虫与工蚁未描述。分布跨埃塞俄比亚与马达加斯加区、据当时记录不见于刚果盆地雨林。现代属见 Krishna et al. (2013)。"
+  },
+  "/genus/sphaerotermes/": {
+    "zh_name": "圆球白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头矩形、圆角、仅前部略窄，红黄色、被短毛；左颚弯曲点远强于右颚、近基部具数枚锯齿与一钝齿；囟门居头中央、小而不可辨。有翅成虫触角第 3 节甚小、第 4 节约等于第 2 节，雌雄均无尾须（styli）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头矩形、圆角、仅前部略窄、红黄色、被短毛；触角 13 节（第 3 节小于第 2 节、第 2 节等于第 4 节）；上唇两侧圆、具透明点；左颚弯曲点远强于右颚、近基部具数枚锯齿与一钝齿；右颚内缘光滑；囟门居头中央、小而不可辨；前胸背板前缘微凹、后缘略凹。量度（mm）：头长 1.79–1.83、头宽 0.96–1.00、触角 1.03–1.10、前胸背板 0.33–0.37×0.57–0.60、后足胫节 0.61–0.67、左颚 0.61。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 13 节；头宽 0.95 mm、后足胫节 0.67 mm。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头浅褐黄、卵形；囟门圆点状浅色、较小；头被短毛与少量长鬃；触角第 3 节甚小、第 4 节约等于第 2 节；眼中等大、圆、不甚近下缘；单眼大、极近眼；上唇浅、较透明；后唇基与头同色、具中线、长约半宽；前胸背板浅黄、略浅于头、两侧圆、前后缘凹、被短毛与长鬃；中、后胸背板后缘宽凹；足浅黄、各胫节具两枚端距；腹背板浅黄；雌雄均无尾须。量度（mm）：头长 1.27–1.28、头宽 1.13–1.20、眼径 0.30–0.31、前胸背板 0.60×0.97–1.07、后足胫节 1.20–1.23、左颚 0.57；后长 26.00、腹宽 5.00。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 450–451"
+      }
+    ],
+    "note": "模式种 Sphaerotermes sphaerothorax (Sjöstedt)。本处据 Emerson (1928) 的属级与模式种描述整理（有翅成虫据 H. Kohl 采自 Stanleyville 的蚁王蚁后）。现代属见 Krishna et al. (2013)。"
   },
   "/genus/acangaobitermes/": {
     "zh_name": "漏斗白蚁属",

@@ -1,0 +1,73 @@
+{
+  "/genus/promirotermes/": {
+    "zh_name": "前奇白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头向前显著收窄、两侧近直；上唇前缘凹、末端呈两尖；上颚长而细、黑色、适于弹跳（snapping）；触角 14 节、第 3 节甚长。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头黄色、向前强烈收窄、两侧近平直；触角 14 节（第 3 节甚长、约 0.22–0.32 mm，第 2 与第 4 节约等长）；上唇前缘凹、末端呈两尖；上颚长而细、黑色、适于弹跳；前胸背板前缘微凹。量度（mm）：含颚头长 3.00–3.10、头宽 1.10–1.17、触角 2.20、前胸背板 0.27×0.55、后足胫节 1.27、左颚 1.77–1.84。与 M. bellicosi（前胸背板前缘深裂）、M. gracilipes（更大、头侧不甚直）、M. holmgreni（额突更隆起、头侧不直）相区别。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 541–542"
+      }
+    ],
+    "note": "Emerson (1928) 将本属作 Mirotermes 的亚属处理；本处仅据其刚果产 Mirotermes (Promirotermes) orthoceps（新种，模式产地 Banana）的兵蚁整理，属级有翅成虫与工蚁未描述。现代属见 Krishna et al. (2013)。"
+  },
+  "/genus/coarctotermes/": {
+    "zh_name": "缩狭白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头红黄褐色、中部显著缢缩，鼻（nasus）色更深；上颚具极小的点、几乎不可辨；鼻与头顶光滑。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头红黄褐色、鼻色更深；头中部显著缢缩；头顶具两根毛；触角 13 节（第 3 节长于第 2 或第 4 节，但不及第 2 节两倍，异于 N. dorix）；上颚具极小的点、几乎不可辨；胸与头近同色；足相对身体不甚长。量度（mm）：头长 1.39–1.47、头宽 0.78、前胸背板 0.18×0.44、后足胫节 1.10。较 N. dorix 小得多；N. coarctatus 缢缩后部头更小、鼻较粗；N. clepsydra 头黑；N. tenebricus 头更长、上颚无点。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 495–496"
+      }
+    ],
+    "note": "Emerson (1928) 将本属作 Nasutitermes 的亚属处理（Holmgren 建立，拼写以 Coarctotermes 为准）；本处仅据其 Nasutitermes (Coarctotermes) suffuscus（新种）的兵蚁整理，有翅成虫与工蚁未描述。分布跨埃塞俄比亚与马达加斯加区、据当时记录不见于刚果盆地雨林。现代属见 Krishna et al. (2013)。"
+  },
+  "/genus/sphaerotermes/": {
+    "zh_name": "圆球白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "兵蚁头矩形、圆角、仅前部略窄，红黄色、被短毛；左颚弯曲点远强于右颚、近基部具数枚锯齿与一钝齿；囟门居头中央、小而不可辨。有翅成虫触角第 3 节甚小、第 4 节约等于第 2 节，雌雄均无尾须（styli）。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头矩形、圆角、仅前部略窄、红黄色、被短毛；触角 13 节（第 3 节小于第 2 节、第 2 节等于第 4 节）；上唇两侧圆、具透明点；左颚弯曲点远强于右颚、近基部具数枚锯齿与一钝齿；右颚内缘光滑；囟门居头中央、小而不可辨；前胸背板前缘微凹、后缘略凹。量度（mm）：头长 1.79–1.83、头宽 0.96–1.00、触角 1.03–1.10、前胸背板 0.33–0.37×0.57–0.60、后足胫节 0.61–0.67、左颚 0.61。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 13 节；头宽 0.95 mm、后足胫节 0.67 mm。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "头浅褐黄、卵形；囟门圆点状浅色、较小；头被短毛与少量长鬃；触角第 3 节甚小、第 4 节约等于第 2 节；眼中等大、圆、不甚近下缘；单眼大、极近眼；上唇浅、较透明；后唇基与头同色、具中线、长约半宽；前胸背板浅黄、略浅于头、两侧圆、前后缘凹、被短毛与长鬃；中、后胸背板后缘宽凹；足浅黄、各胫节具两枚端距；腹背板浅黄；雌雄均无尾须。量度（mm）：头长 1.27–1.28、头宽 1.13–1.20、眼径 0.30–0.31、前胸背板 0.60×0.97–1.07、后足胫节 1.20–1.23、左颚 0.57；后长 26.00、腹宽 5.00。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0075",
+        "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+        "locator": "pp. 450–451"
+      }
+    ],
+    "note": "模式种 Sphaerotermes sphaerothorax (Sjöstedt)。本处据 Emerson (1928) 的属级与模式种描述整理（有翅成虫据 H. Kohl 采自 Stanleyville 的蚁王蚁后）。现代属见 Krishna et al. (2013)。"
+  }
+}

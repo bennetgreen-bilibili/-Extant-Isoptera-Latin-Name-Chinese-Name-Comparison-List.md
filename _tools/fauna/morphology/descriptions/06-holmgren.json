@@ -43,7 +43,7 @@
   "sections": [
    {
     "label": "鉴别要点",
-    "text": "兵蚁分大、小两型，这是本属最醒目的特征；有翅成虫触角 20—23 节，雄虫比雌虫多 1—2 节，兵蚁触角 17—20 节。前胸背板前缘具刺，胸节背板侧缘多少尖锐。已知种类全部产自非洲。"
+    "text": "兵蚁分大、中、小三型，这是本属最醒目的特征；有翅成虫触角 20—23 节，雄虫比雌虫多 1—2 节，兵蚁触角 17—20 节。前胸背板前缘具刺，胸节背板侧缘多少尖锐。已知种类全部产自非洲。"
    },
    {
     "label": "有翅成虫",
@@ -65,7 +65,7 @@
     "locator": "pp. 13—14（archive.org 项 biostor-184513 页面图像）"
    }
   ],
-  "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 13—14）。书中的 Termes 为广义用法，本属模式种 Acanthotermes acanthothorax (Sjöstedt)。种名录（7 个非洲种）未写入描述。"
+  "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 13—14）。本属模式种 Acanthotermes acanthothorax (Sjöstedt)。种名录（7 个非洲种）未写入描述。注意：兵蚁二型是 Holmgren 1912 的旧认识（仅描述大、小两型）；Grassé 1937 与 Treatise 2013 的 Macrotermitinae 检索表另分出中兵，现代视本属兵蚁为大、中、小三型。"
  },
  "/genus/syntermes/": {
   "zh_name": "聚白蚁属",
