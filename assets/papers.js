@@ -449,6 +449,7 @@
     var field = fulltextOn() ? 'default.search' : 'title_and_abstract.search';
     if (state.mode === 'taxon') {
       filters.push('title_and_abstract.search:' + state.terms.map(quoteTerm).join('|'));
+      filters.push('title_and_abstract.search:' + TERMITE_CONTEXT.map(quoteTerm).join('|'));
     } else if (state.mode === 'keyword') {
       state.terms.forEach(function (t) {
         filters.push(field + ':' + termGroup(t).map(quoteTerm).join('|'));
@@ -476,7 +477,11 @@
       parts.push(t);
       if (state.mode === 'keyword') aliasesFor(t).forEach(function (a) { parts.push(a); });
     });
-    if (state.mode === 'keyword' && scopeOn()) parts.push('termite', 'isoptera', '白蚁');
+    if (state.mode === 'taxon') {
+      parts.push('isoptera', 'termite');
+    } else if (state.mode === 'keyword' && scopeOn()) {
+      parts.push('termite', 'isoptera', '白蚁');
+    }
     var q = parts.join(' ');
     var params = new URLSearchParams();
     params.set('query.bibliographic', q);
@@ -489,6 +494,45 @@
 
   function haystack(p) {
     return norm(text(p.title) + ' ' + text(p.abstract));
+  }
+
+  // 拉丁名首词（属名）整词匹配：OpenAlex/Crossref 全文检索会把属名词干化
+  // （如 Termes → term），整词匹配确保命中 Termes 本身，而非 term/terms/termites/Coptotermes。
+  // 属名只含字母，无需转义正则元字符。
+  function genusInText(hay, latin) {
+    var m = text(latin).match(/^[A-Za-z]+/);
+    if (!m) return true;
+    var word = m[0].toLowerCase();
+    if (word.length < 2) return true;
+    var re = new RegExp('(^|[^a-z0-9])' + word + '([^a-z0-9]|$)', 'i');
+    return re.test(hay);
+  }
+
+  // 标题/摘要是否带白蚁语境（termit-/isopter- 前缀或中文名）。
+  var TERMITE_CONTEXT_RE = /termit|isopter|白蚁|白蟻|等翅目|螱/i;
+  function termiteContextIn(hay) {
+    return TERMITE_CONTEXT_RE.test(hay);
+  }
+
+  // taxon 模式本地校验：属名整词命中即可（OpenAlex 查询已用白蚁 scope 严格限定）。
+  function taxonRelevant(p) {
+    if (state.mode !== 'taxon') return true;
+    var hay = haystack(p);
+    for (var i = 0; i < state.terms.length; i++) {
+      if (genusInText(hay, state.terms[i])) return true;
+    }
+    return false;
+  }
+
+  // Crossref 只能做相关性检索，taxon 模式额外要求白蚁语境。
+  function taxonRelevantStrict(p) {
+    if (state.mode !== 'taxon') return true;
+    var hay = haystack(p);
+    if (!termiteContextIn(hay)) return false;
+    for (var i = 0; i < state.terms.length; i++) {
+      if (genusInText(hay, state.terms[i])) return true;
+    }
+    return false;
   }
 
   function textHasTerm(hay, term) {
@@ -1868,8 +1912,8 @@
         fallbackToCache(oa.err || cr.err);
         return;
       }
-      var primary = oa.ok ? ((oa.data.results || []).map(fromOpenAlex)) : [];
-      var secondary = cr.ok ? (((cr.data.message && cr.data.message.items) || []).map(fromCrossref).filter(crossrefRelevant)) : [];
+      var primary = oa.ok ? ((oa.data.results || []).map(fromOpenAlex).filter(taxonRelevant)) : [];
+      var secondary = cr.ok ? (((cr.data.message && cr.data.message.items) || []).map(fromCrossref).filter(crossrefRelevant).filter(taxonRelevantStrict)) : [];
       var merged = page === 1 ? mergeResults(primary, secondary) : primary;
       if (els.hasAbstract.checked) merged = merged.filter(function (p) { return !!p.abstract; });
       if (page === 1) {

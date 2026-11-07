@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 113,
+    "count": 114,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T16:54:33+08:00",
+    "updated": "2026-11-07T19:56:43+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -313,7 +313,7 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-04T22:35:32+08:00",
+      "accessed": "2026-11-07T19:25:32+08:00",
       "evidence": [
         {
           "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
@@ -329,9 +329,21 @@
           "quote": "每侧卵巢的卵巢小管数仅7—10条",
           "locator": "001-100.txt 第 309 行（雌性生殖系统）",
           "note": "支撑：卵巢管数随类群变化（v5 段 511）"
+        },
+        {
+          "quote": "还有不少种类，同一巢蚁的工蚁，其体形大小有很大区别，具有两型或三型，土垅大白蚁 Macrotermes annandalei (Silvestri)、黄翅大白蚁 M. barneyi Light 同一群休内都有大工蚁和小工蚁之分",
+          "locator": "001-100.txt 第 344 行（非生殖型·工蚁品级）",
+          "note": "支撑：二型/多型工蚁见于 Macrotermes（土垅大白蚁、黄翅大白蚁），而非 Termes。OCR 原文『同一群休内』＝『同一群体内』。"
+        },
+        {
+          "quote": "兵蚁一般只有一类，但是在某些类群中，如大白蚁属 Macrotermes、小白蚁属 Microtermes 等，其兵蚁有大兵蚁和小兵蚁之分。",
+          "locator": "001-100.txt 第 349 行（非生殖型·兵蚁品级）",
+          "note": "支撑：二型兵蚁见于 Macrotermes、Microtermes，而非 Termes。"
         }
       ],
       "used_in": [
+        "_data/morphology_genera.json",
+        "_tools/fauna/morphology/descriptions/06-holmgren.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "id": "S0003"
@@ -498,7 +510,7 @@
       "publisher": "AMNH Bulletin 377",
       "reliability": "primary",
       "lang": "en",
-      "accessed": "2026-11-07T03:00:56+08:00",
+      "accessed": "2026-11-07T19:25:32+08:00",
       "evidence": [
         {
           "quote": "In the extant genera Zootermopsis and Archotermopsis, tarsomere 2 is reduced in size, such that it is visible only laterally and ventrally, but not dorsally",
@@ -519,14 +531,51 @@
           "quote": "— Desneux, 1904b: 10–11 • Mastotermes; reference list; characters; key; distribution.",
           "locator": "0201-0400.txt 第 1521 行",
           "note": "支撑：_data/genus_sources.json 的 references 字段只收录 Treatise 标注含 characters / key / diagnosis 的文献，作为找原文的线索"
+        },
+        {
+          "quote": "Termes Linnaeus, 1758",
+          "locator": "2201-2400.txt 第 10539 行（Termes 属级条目）",
+          "note": "支撑：现代 Termes 属级条目起点。"
+        },
+        {
+          "quote": "Type species: Termes fatalis Linnaeus, 1758 by subsequent designation; see Banks, 1920: 8",
+          "locator": "2201-2400.txt 第 10543 行",
+          "note": "支撑：Termes 模式种 Termes fatalis。"
+        },
+        {
+          "quote": "▲ 24 living species, 2 fossil species.",
+          "locator": "2201-2400.txt 第 10660 行",
+          "note": "支撑：Termes 现生 24 种 + 化石 2 种。"
+        },
+        {
+          "quote": "Termes ayri Bandeira and Cancello, 1992: 432–433 (soldier, worker), figs. 14–16.",
+          "locator": "2201-2400.txt 第 10687 行",
+          "note": "支撑：现代 Termes 种记述作 (soldier, worker) 单型，无 major and minor soldier。"
+        },
+        {
+          "quote": "Eutermes baculi Sjöstedt, 1900b: 278 (soldier, worker).",
+          "locator": "2201-2400.txt 第 10701 行",
+          "note": "支撑：同上，Termes 兵蚁/工蚁单型。"
+        },
+        {
+          "quote": "Macrotermes Holmgren, 1909b: 193 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+          "locator": "1001-1200.txt 第 1636 行",
+          "note": "支撑：Macrotermes 最初为 Termes 的亚属，即 Holmgren 1912 广义 Termes 的组成部分。"
+        },
+        {
+          "quote": "Macrotermes ahmadi Tho, 1975: 177–178 (major and minor soldier, worker), figs. 1–4.",
+          "locator": "1001-1200.txt 第 1843 行",
+          "note": "支撑：对照——Macrotermes 种记述作 major and minor soldier（二型兵蚁），与 Termes 的 (soldier, worker) 单型形成对照，证明二型属 Macrotermes 而非 Termes s. str.。"
         }
       ],
       "used_in": [
         "_data/genus_sources.json",
+        "_data/morphology_genera.json",
         "_includes/genus-morphology.html",
         "_reports/genus-morphology-worklist.csv",
         "_reports/genus-morphology-worklist.md",
         "_tools/fauna/morphology/build_worklist.py",
+        "_tools/fauna/morphology/descriptions/06-holmgren.json",
         "_tools/fauna/morphology/extract_genus_sources.py",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
@@ -2044,7 +2093,7 @@
       "file_path": "_unpublished/文库/holmgren-1912-termitenstudien-3",
       "chars": 426210,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-07T07:14:53+08:00",
+      "accessed": "2026-11-07T19:25:32+08:00",
       "notes": "全文存于 _unpublished/文库/holmgren-1912-termitenstudien-3（426210 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OCR 文本；德文哥特体扫描，OCR 拼写与断词有误，引用前核对纸本。",
       "library": {
         "book": "holmgren-1912-termitenstudien-3",
@@ -2196,6 +2245,56 @@
           "quote": "ec. Stirnvorsprung sehr unbedeutend. Fontanelle von oben gut siehtbar, nieht unterhalb des Vorspriuiges versteckt. Oberlippe etwa gleich breit, viel langer als breit. Oberkiefer etwas unregelmassig gekriimmt [Tafel IV, Fig. 6]. Subg. Protocapritermes n. subg.",
           "locator": "p. 108（Untergattungen 检索表 ec 项）",
           "note": "支撑：始扭白蚁属（/genus/protocapritermes/）"
+        },
+        {
+          "quote": "Soldat: 2 Grossen. Kopf nach vorn mehr oder weniger verschmalert, bisweilen beinahe parallelseitig",
+          "locator": "part-001.txt 第 1797–1798 行（广义 Termes 属征·兵蚁）",
+          "note": "支撑：Holmgren 1912 广义 Termes 属征兵蚁『两型』，属广义属（含 Macrotermes）特征。OCR『Grossen』＝Grössen。"
+        },
+        {
+          "quote": "Arbcitcr: Zwei Grossen.",
+          "locator": "part-001.txt 第 1825 行（广义 Termes 属征·工蚁）",
+          "note": "支撑：广义 Termes 属征工蚁『两型』。OCR『Arbcitcr』＝Arbeiter。"
+        },
+        {
+          "quote": "Die Gattung zcrfallt in zwei ziemlich distinkte Untcrgattnngcn:",
+          "locator": "part-001.txt 第 1832 行",
+          "note": "支撑：原文 Termes 为广义属、分两亚属。OCR『zcrfallt』＝zerfällt、『Untcrgattnngcn』＝Untergattungen。"
+        },
+        {
+          "quote": "Untcrgattung Macrotermes Holmgr. [Tafel I. Fig. 4, 6, 11].",
+          "locator": "part-001.txt 第 1834 行",
+          "note": "支撑：亚属 1＝Macrotermes。OCR『Untcrgattung』＝Untergattung。"
+        },
+        {
+          "quote": "Untergattung Termes s. str. Holmgr. [Tafel 1. Fig. 3, 12].",
+          "locator": "part-001.txt 第 1836 行",
+          "note": "支撑：亚属 2＝Termes s. str.（今日狭义 Termes）。"
+        },
+        {
+          "quote": "I. Pronotum gross und breit.",
+          "locator": "part-001.txt 第 1844 行（Imagines 检索·前胸背板）",
+          "note": "支撑：有翅成虫前胸背板大而宽＝Macrotermes。"
+        },
+        {
+          "quote": "11. » schmalcr und kiirzer ....",
+          "locator": "part-001.txt 第 1846 行",
+          "note": "支撑：前胸背板较狭较短＝Termes s. str.。OCR『11』＝II、『schmalcr und kiirzer』＝schmaler und kürzer。"
+        },
+        {
+          "quote": "I. Ko])f nach vorn sehr deutlioh verschmalert.",
+          "locator": "part-001.txt 第 1856 行（Soldaten 检索·头形）",
+          "note": "支撑：兵蚁头向前显著收窄＝Macrotermes。OCR『Ko])f』＝Kopf、『deutlioh』＝deutlich。"
+        },
+        {
+          "quote": "II. Kopf beinahe parallelscitig.",
+          "locator": "part-001.txt 第 1859 行",
+          "note": "支撑：兵蚁头两侧近平行＝Termes s. str.。OCR『parallelscitig』＝parallelseitig。"
+        },
+        {
+          "quote": "nicht vcrschieden.",
+          "locator": "part-001.txt 第 1864 行（Arbeiter 检索）",
+          "note": "支撑：工蚁两亚属不异（即工蚁形态不区分两亚属，『两型』非 Termes s. str. 独有特征）。OCR『vcrschieden』＝verschieden。"
         }
       ],
       "id": "S0033",
@@ -6699,6 +6798,45 @@
         }
       ],
       "id": "S0114"
+    },
+    {
+      "title": "The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "url:https://digitallibrary.amnh.org/handle/2246/5290",
+      "file_path": "_unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
+      "chars": 33450,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T19:56:43+08:00",
+      "notes": "全文存于 _unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina（33450 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T19:56:43",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina/full.txt",
+            "chars": 33450,
+            "paragraphs": 1327,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\labritermes_1982_clean.txt",
+            "sha256": "115ef592aa0397ea323a1f8ac9a3c279edde16b882a7c54a308284aba3de62c9",
+            "bytes": 33501
+          }
+        ]
+      },
+      "authors": [
+        "Krishna, Kumar",
+        "Adams, Cheryl Lynn"
+      ],
+      "year": 1982,
+      "publisher": "American Museum of Natural History",
+      "lang": "en",
+      "url": "https://digitallibrary.amnh.org/handle/2246/5290",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0115"
     }
   ]
 }

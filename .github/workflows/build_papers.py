@@ -74,6 +74,26 @@ SELECT_FIELDS = (
 )
 TYPE_FILTER = "type:article|review|book-chapter|preprint"
 
+# 白蚁语境：属级检索的查询范围限定（与前端 assets/papers.js 的 TERMITE_CONTEXT 保持一致）。
+# OpenAlex / Crossref 的全文检索会把属名词干化（如 Termes → term），若不额外限定白蚁语境，
+# 「白蚁属 Termes」会匹配到 short-term / long-term / term infants 等无关文献。
+TERMITE_CONTEXT = [
+    "termite", "termites", "isoptera", "白蚁", "白蟻", "等翅目", "螱",
+    "Coptotermes", "Reticulitermes", "Odontotermes", "Macrotermes",
+    "Nasutitermes", "Heterotermes", "Cryptotermes", "Kalotermes",
+    "Zootermopsis", "Hodotermopsis", "Microtermes", "Trinervitermes",
+    "Anoplotermes", "Neotermes", "Prorhinotermes", "Schedorhinotermes",
+    "Mastotermes", "Hodotermes", "Amitermes", "Drepanotermes",
+    "Microcerotermes", "Globitermes", "Hospitalitermes",
+    "Termitidae", "Rhinotermitidae", "Kalotermitidae", "Hodotermitidae",
+    "Mastotermitidae", "Termopsidae", "Archotermopsidae", "Stolotermitidae",
+    "Serritermitidae",
+]
+# 本地校验用：标题/摘要是否出现白蚁语境（termit-/isopter- 前缀，或中文名）。
+_TERMITE_CONTEXT_RE = re.compile(r"termit|isopter|白蚁|白蟻|等翅目|螱", re.IGNORECASE)
+# OpenAlex 每属多取一些候选，再本地整词过滤到 PER_GENUS，避免歧义属名（Termes）被词干化噪声淹没。
+OPENALEX_PER_PAGE = 50
+
 
 # ---------------------------------------------------------------- 基础工具
 
@@ -110,6 +130,31 @@ def reconstruct_abstract(inverted) -> str:
     value = html_lib.unescape(value)
     value = re.sub(r"\s+([,.;:!?])", r"\1", value)
     return re.sub(r"\s+", " ", value).strip()
+
+
+# ---------------------------------------------------------------- 属名整词校验
+
+def genus_in_text(text: str, latin: str) -> bool:
+    """拉丁名首词（属名）是否以整词出现在标题/摘要中。
+
+    OpenAlex/Crossref 的全文检索会词干化（Termes → term），整词匹配确保命中的是
+    「Termes」本身，而非 term / terms / termites / Coptotermes。
+    """
+    if not text or not latin:
+        return False
+    match = re.match(r"[A-Za-z]+", latin.strip())
+    if not match:
+        return True  # 提不出属名（异常输入）时不过滤
+    word = match.group(0)
+    if len(word) < 2:
+        return True
+    pattern = r"(?<![A-Za-z])" + re.escape(word) + r"(?![A-Za-z])"
+    return re.search(pattern, text, flags=re.IGNORECASE) is not None
+
+
+def termite_context_in(text: str) -> bool:
+    """标题/摘要是否带白蚁语境（Crossref 相关性检索结果的额外校验）。"""
+    return bool(text) and _TERMITE_CONTEXT_RE.search(text) is not None
 
 
 def now_iso() -> str:
@@ -202,10 +247,15 @@ def http_json(url: str, sleep_before: float = 0.0):
 
 
 def openalex_url(genus_latin: str) -> str:
-    filter_value = f'title_and_abstract.search:"{genus_latin}",{TYPE_FILTER}'
+    scope = "|".join(f'"{t}"' for t in TERMITE_CONTEXT)
+    filter_value = (
+        f'title_and_abstract.search:"{genus_latin}",'
+        f"title_and_abstract.search:{scope},"
+        f"{TYPE_FILTER}"
+    )
     params = {
         "filter": filter_value,
-        "per-page": str(PER_GENUS),
+        "per-page": str(OPENALEX_PER_PAGE),
         "select": SELECT_FIELDS,
         "mailto": MAILTO,
     }
@@ -216,7 +266,7 @@ def openalex_url(genus_latin: str) -> str:
 
 def crossref_url(genus_latin: str) -> str:
     params = {
-        "query.bibliographic": genus_latin,
+        "query.bibliographic": f"{genus_latin} isoptera termite",
         "rows": "20",
         "filter": "type:journal-article",
         "mailto": MAILTO,
@@ -321,8 +371,8 @@ def _cap_abstract(value: str) -> tuple[str, bool]:
 
 def crossref_search_url(genus_latin: str) -> str:
     params = {
-        "query.bibliographic": genus_latin,
-        "rows": str(PER_GENUS),
+        "query.bibliographic": f"{genus_latin} isoptera termite",
+        "rows": "40",
         "filter": "type:journal-article",
         "mailto": MAILTO,
     }
@@ -390,6 +440,9 @@ def fetch_genus_crossref(genus: dict, log=print) -> dict:
         if key in seen:
             continue
         seen.add(key)
+        hay = f"{paper['title']} {paper['abstract']}"
+        if not (genus_in_text(hay, genus["latin"]) and termite_context_in(hay)):
+            continue
         papers.append(paper)
         if len(papers) >= PER_GENUS:
             break
@@ -427,6 +480,8 @@ def fetch_genus(genus: dict, enrich_crossref: bool, log=print) -> dict:
             if key in seen:
                 continue
             seen.add(key)
+            if not genus_in_text(f"{paper['title']} {paper['abstract']}", genus["latin"]):
+                continue
             papers.append(paper)
         return {
             "latin": genus["latin"],
@@ -457,7 +512,7 @@ def build_document(entries: dict, genera: list) -> dict:
             "generated": now_iso(),
             "source": "OpenAlex + Crossref",
             "api": OPENALEX_API,
-            "query": 'title_and_abstract.search:"<genus>"',
+            "query": 'title_and_abstract.search:"<genus>" + 白蚁语境限定（title_and_abstract.search:termite|isoptera|…）',
             "per_genus": PER_GENUS,
             "counts": {
                 "genera": len(genera),
