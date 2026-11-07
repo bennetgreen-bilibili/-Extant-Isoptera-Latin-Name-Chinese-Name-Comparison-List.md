@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 107,
+    "count": 110,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T16:23:06+08:00",
+    "updated": "2026-11-07T16:38:41+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -6308,6 +6308,125 @@
         }
       ],
       "id": "S0108"
+    },
+    {
+      "title": "山林原白蚁的初步研究",
+      "source_type": "paper",
+      "reliability": "primary",
+      "canonical_key": "url:https://www.linyekexue.net/CN/Y1982/V18/I1/58",
+      "file_path": "_unpublished/文库/yin1982-hodotermopsis-sjostedti",
+      "chars": 11694,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T16:38:38+08:00",
+      "notes": "全文存于 _unpublished/文库/yin1982-hodotermopsis-sjostedti（6 页，11694 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《林业科学》1982 年 18 卷 1 期 58–63 页；CNKI 扫描/排版 PDF，无内嵌书目元数据，卷期页据期刊官网 citation meta 补。",
+      "library": {
+        "book": "yin1982-hodotermopsis-sjostedti",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:38:38",
+        "chunks": [
+          {
+            "chunk": "0001-0006",
+            "txt": "_unpublished/文库/yin1982-hodotermopsis-sjostedti/0001-0006.txt",
+            "chars": 11694,
+            "paragraphs": 277,
+            "table_rows": 0,
+            "source_file": "E:\\TENXUN\\Tencent Files\\2175941791\\山林原白蚁的初步研究_尹世才.pdf",
+            "sha256": "f2d41596074a02315aaf197733da00a9eb9d769b4a6931b0c904bcde42ac2165",
+            "bytes": 22466
+          }
+        ]
+      },
+      "authors": [
+        "尹世才"
+      ],
+      "year": 1982,
+      "publisher": "林业科学",
+      "lang": "zh",
+      "license": "unknown",
+      "url": "https://www.linyekexue.net/CN/Y1982/V18/I1/58",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0109"
+    },
+    {
+      "title": "中国原白蚁科一新记录属一新记录种",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "library:he2009-archotermopsis-wroughtoni",
+      "file_path": "_unpublished/文库/he2009-archotermopsis-wroughtoni",
+      "chars": 4355,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T16:38:40+08:00",
+      "notes": "全文存于 _unpublished/文库/he2009-archotermopsis-wroughtoni（3 页，4355 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《昆虫分类学报》2009 年 31 卷 2 期 102–104 页；文章编号 1000-7482(2009)02-0102-03。",
+      "library": {
+        "book": "he2009-archotermopsis-wroughtoni",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:38:40",
+        "chunks": [
+          {
+            "chunk": "0001-0003",
+            "txt": "_unpublished/文库/he2009-archotermopsis-wroughtoni/0001-0003.txt",
+            "chars": 4355,
+            "paragraphs": 120,
+            "table_rows": 0,
+            "source_file": "E:\\TENXUN\\Tencent Files\\2175941791\\中国原白蚁科一新记录属一新记录种_何银竹.pdf",
+            "sha256": "228fbc230a5389e0c03c16f4fda255deb1d42be4c83ef8213c2384b2b4c07d1e",
+            "bytes": 7185
+          }
+        ]
+      },
+      "authors": [
+        "何银竹",
+        "候清柏",
+        "梁醒财"
+      ],
+      "year": 2009,
+      "publisher": "昆虫分类学报",
+      "lang": "zh",
+      "license": "unknown",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0110"
+    },
+    {
+      "title": "大白蚁亚科云南省新记录种",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.13718/j.cnki.xsxb.2009.01.014",
+      "file_path": "_unpublished/文库/he2009-macrotermitinae-yunnan",
+      "chars": 8228,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-07T16:38:41+08:00",
+      "notes": "全文存于 _unpublished/文库/he2009-macrotermitinae-yunnan（4 页，8228 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《西南师范大学学报（自然科学版）》2009 年 34 卷 1 期 137–140 页；文章编号 1000-5471(2009)01-0137-04。",
+      "library": {
+        "book": "he2009-macrotermitinae-yunnan",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:38:41",
+        "chunks": [
+          {
+            "chunk": "0001-0004",
+            "txt": "_unpublished/文库/he2009-macrotermitinae-yunnan/0001-0004.txt",
+            "chars": 8228,
+            "paragraphs": 157,
+            "table_rows": 0,
+            "source_file": "E:\\TENXUN\\Tencent Files\\2175941791\\大白蚁亚科云南省新记录种_何银竹.pdf",
+            "sha256": "c9737becfbd5a00c61103d4a10acfd29cd959e194f90c9653abb4da394a27c42",
+            "bytes": 13794
+          }
+        ]
+      },
+      "authors": [
+        "何银竹",
+        "梁醒财"
+      ],
+      "year": 2009,
+      "publisher": "西南师范大学学报（自然科学版）",
+      "lang": "zh",
+      "license": "unknown",
+      "doi": "10.13718/j.cnki.xsxb.2009.01.014",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0111"
     }
   ]
 }
