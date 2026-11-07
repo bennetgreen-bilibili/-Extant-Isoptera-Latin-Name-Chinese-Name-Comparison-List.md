@@ -38,9 +38,9 @@ ES — **拉斐尔埃博戈白蚁** (*Ebogotermes raphaeli*) es la única especi
 
 EN — *Ebogotermes*: From the place name Ebogo; -termes from Latin termes.
 
-种加词 *raphaeli*：以人名 Raphael 命名（具体指代待考）
+种加词 *raphaeli*：以 Raphael Awoumou Onana 命名，喀麦隆 Ebogo 村村长，向导，喀麦隆白蚁专家。
 
-EN — epithet *raphaeli*: Named after a person "Raphael" (identity unconfirmed)
+EN — epithet *raphaeli*: Named for Raphael Awoumou Onana, the chief of Ebogo village, a resilient guide, and expert on Cameroonian termites.
 
 <!-- src:S0018 -->
 

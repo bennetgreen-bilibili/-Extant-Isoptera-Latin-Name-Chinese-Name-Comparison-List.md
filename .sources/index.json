@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 130,
+    "count": 132,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-08T02:04:02+08:00",
+    "updated": "2026-11-08T02:11:38+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -4048,18 +4048,25 @@
           "quote": "Worker. Head, thorax, abdomen, and legs covered with setae of varying lengths. Antennae with 14 articles. Postclypeus moderately inflated. Fore tibia slightly inflated. Tibial spurs 3, 2, 2.",
           "locator": "p. 279, Worker",
           "note": "支撑：全身被长短不一刚毛、触角 14 节、后唇基中度膨大、前胫节轻微膨大、胫节距 3:2:2。"
+        },
+        {
+          "quote": "Named for Raphael Awoumou Onana, the chief of Ebogo village, a resilient guide, and expert on Cameroonian termites.",
+          "locator": "Etymology 段（Plazi XML）",
+          "note": "支撑：raphaeli 纪念 Raphael Awoumou Onana"
         }
       ],
       "used_in": [
+        "_data/etymology.json",
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/07-noentry-a.json"
       ],
       "notes": "PDF 自 mapress.com 公开下载；许可未标注。属级描述在 p. 279。",
       "doi": "10.11646/zootaxa.5067.2.10",
       "url": "https://doi.org/10.11646/zootaxa.5067.2.10",
-      "accessed": "2026-11-07T06:50:48+08:00",
+      "accessed": "2026-11-08T02:11:38+08:00",
       "canonical_key": "doi:10.11646/zootaxa.5067.2.10",
-      "id": "S0066"
+      "id": "S0066",
+      "retrieved_via": "web_search"
     },
     {
       "title": "Phylogeny and generic reclassification of the Capritermes complex (Isoptera, Termitidae, Termitinae)",
@@ -5356,21 +5363,28 @@
           "quote": "Head pale yellow, covered with short hairs; long, subrectangular, sides nearly parallel, converging sharply in front of the base of the antennae. Antennae paler than the head, with 13 segments . . . Labrum with 2 points . . . Mandibles brown, slender, extreme end sharply curved, base broad with a tooth on the inner edge . . . Pronotum paler than the head, saddle-shaped",
           "locator": "p. 434, Soldier",
           "note": "支撑：兵蚁头形、触角、上唇、上颚、前胸背板"
+        },
+        {
+          "quote": "I take pleasure in naming the species in honor of Mr. John Tee-Van, who collected the only specimens of winged imagos and who helped me in many other ways in my work on termites at Kartabo.",
+          "locator": "Zoologica (N.Y.) 6(4):291-459, teevani 词源段",
+          "note": "支撑：teevani 纪念 John Tee-Van"
         }
       ],
       "used_in": [
+        "_data/etymology.json",
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/08-african.json",
         "_tools/fauna/morphology/descriptions/08-nasuti-a.json",
         "_tools/fauna/morphology/descriptions/09-unassigned.json"
       ],
-      "accessed": "2026-11-07T07:34:05+08:00",
+      "accessed": "2026-11-08T02:11:38+08:00",
       "canonical_key": "url:https://archive.org/details/biostor-181707",
       "id": "S0083",
       "doi": "10.5962/p.190324",
       "body_sha256": "7887537baa7f5ecea613e4354384245c8fd62d2586ac453a6be347c20bde496e",
       "chars": 339340,
-      "file_path": "_tmp/lit/fulltext/09-unassigned/crepititermes_emerson1925.txt"
+      "file_path": "_tmp/lit/fulltext/09-unassigned/crepititermes_emerson1925.txt",
+      "retrieved_via": "web_search"
     },
     {
       "title": "Atlantitermes, novo gênero de cupim, com duas novas espécies do Brasil (Isoptera, Termitidae, Nasutitermitinae)",
@@ -6058,19 +6072,31 @@
           "quote": "The mandibles resemble the more generalized genera near Basidentitermes. The apical tooth is large compared to the first marginal tooth . . . The right mandible possesses a distinct second marginal tooth... Forficulitermes is related to Basidentitermes, Proboscitermes, Orthotermes, Profastigitermes, and Fastigitermes in the shape of the soldier labrum with its median lobe and sharp lateral points.",
           "locator": "pp. 46–47, Worker & Comparisons",
           "note": "支撑：工蚁上颚形态、属级亲缘关系"
+        },
+        {
+          "quote": "The species is named in honor of the late Mr. Patrick Putnam who, with his wife, Mrs. Ann Putnam, enabled me to collect in the vicinity of his camp, and with whom I collected in the outskirts of Leopoldville.",
+          "locator": "American Museum Novitates No.1988, putnami 词源段",
+          "note": "支撑：putnami 纪念 Patrick Putnam"
+        },
+        {
+          "quote": "The species is named in honor of M. L. Soyer, Directeur Régional de l'Institut National pour l'Étude Agronomique du Congo Belge, Elisabethville, Belgian Congo. Both M. Soyer and Mme. L. Soyer-Poskin gave valued help in facilitating our studies of termites in the Katanga.",
+          "locator": "American Museum Novitates No.1988, soyeri 词源段",
+          "note": "支撑：soyeri 纪念 M. L. Soyer"
         }
       ],
       "used_in": [
+        "_data/etymology.json",
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/08-african.json",
         "_tools/fauna/morphology/descriptions/09-unassigned.json"
       ],
-      "accessed": "2026-11-07T07:34:05+08:00",
+      "accessed": "2026-11-08T02:11:38+08:00",
       "canonical_key": "url:https://archive.org/details/sixnewgenerater1988emer",
       "id": "S0100",
       "body_sha256": "0d64cf4714dc0d5709464bea96240f434bd95fed8c10f826aa140eabb622a67b",
       "chars": 108969,
-      "file_path": "_tmp/lit/fulltext/09-unassigned/forficulitermes_emerson1960.txt"
+      "file_path": "_tmp/lit/fulltext/09-unassigned/forficulitermes_emerson1960.txt",
+      "retrieved_via": "web_search"
     },
     {
       "title": "Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico",
@@ -7750,6 +7776,57 @@
       "accessed": "2026-11-08T01:50:10+08:00",
       "canonical_key": "url:https://en.wikipedia.org/wiki/Tipuani_Municipality",
       "id": "S0131"
+    },
+    {
+      "title": "The neotropical genera Procornitermes and Cornitermes (Isoptera, Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "url": "https://archive.org/details/bulletin-american-museum-natural-history-99-479-539",
+      "year": 1952,
+      "lang": "en",
+      "authors": [
+        "Emerson A. E."
+      ],
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "This species is named in honor of Dr. A. Roman of the Naturhistoriska Riksmuseum, Stockholm, Sweden, a specialist on the Hymenoptera, who took time on his expedition to Amazonas and Bahia to make an important collection of the termites",
+          "locator": "Bull. AMNH 99:479-539, romani 词源段",
+          "note": "支撑：romani 纪念 Dr. A. Roman"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T02:11:38+08:00",
+      "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-99-479-539",
+      "id": "S0132"
+    },
+    {
+      "title": "New species of the genus Glyptotermes Froggatt from the Papuan, Oriental and Ethiopian regions (Isoptera, Kalotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "url": "https://archive.org/details/newspeciesgenus2089kris",
+      "year": 1962,
+      "lang": "en",
+      "authors": [
+        "Krishna K.",
+        "Emerson A. E."
+      ],
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "The species is named in honor of the late Dr. K. P. Schmidt, Chief Curator of Zoology, Chicago Natural History Museum, Chicago, Illinois.",
+          "locator": "American Museum Novitates No.2089, schmidti 词源段",
+          "note": "支撑：schmidti 纪念 Karl Patterson Schmidt"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T02:11:38+08:00",
+      "canonical_key": "url:https://archive.org/details/newspeciesgenus2089kris",
+      "id": "S0133"
     }
   ]
 }

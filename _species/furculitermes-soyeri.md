@@ -38,9 +38,9 @@ ES — **索耶叉白蚁** (*Furculitermes soyeri*) es una especie del género *
 
 EN — *Furculitermes*: From Latin furcula (little fork) + termes.
 
-种加词 *soyeri*：以人名 Soyer 命名（具体指代待考）
+种加词 *soyeri*：以 M. L. Soyer 命名，比属刚果国家农艺研究所（INEAC）伊丽莎白维尔地区主任，与其夫人 L. Soyer-Poskin 共同协助作者研究白蚁。
 
-EN — epithet *soyeri*: Named after a person "Soyer" (identity unconfirmed)
+EN — epithet *soyeri*: Named in honor of M. L. Soyer, Directeur Régional de l'Institut National pour l'Étude Agronomique du Congo Belge, Elisabethville.
 
 <!-- src:S0018 -->
 
