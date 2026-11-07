@@ -38,9 +38,9 @@ ES — **蒂普阿尼象白蚁** (*Nasutitermes tipuanicus*) es una especie del 
 
 EN — *Nasutitermes*: From Latin nasutus (large-nosed) + termes, for the nasute soldier.
 
-种加词 *tipuanicus*：以地名 Tipuana（具体待考）命名
+种加词 *tipuanicus*：以产地地名 Tipuani（玻利维亚，拉巴斯省）命名。
 
-EN — epithet *tipuanicus*: Named after the locality Tipuana
+EN — epithet *tipuanicus*: Named after the locality Tipuani, La Paz, Bolivia.
 
 <!-- src:S0018 -->
 

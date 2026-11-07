@@ -35,9 +35,9 @@ ES — **尤氏树白蚁** (*Glyptotermes yui*) es una especie del género *Glyp
 
 EN — *Glyptotermes*: From Greek glyptos (carved, sculpted) + Latin termes.
 
-种加词 *yui*：以人名 Yu（于/余，具体身份待考） 命名
+种加词 *yui*：以中国白蚁分类学家尤其伟（You Qiwei）命名。
 
-EN — epithet *yui*: Named after Yu
+EN — epithet *yui*: Named after the Chinese termite taxonomist Qiwei You.
 
 <!-- src:S0018 -->
 

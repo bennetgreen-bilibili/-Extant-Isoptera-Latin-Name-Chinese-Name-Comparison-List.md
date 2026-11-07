@@ -9539,8 +9539,8 @@
       "en": "Named after Tarun"
     },
     "tatarendae": {
-      "zh": "以地名 Tatarend 命名（具体待考）",
-      "en": "Named after the locality Tatarend"
+      "zh": "以产地地名 Tatarenda（玻利维亚，Laguna Tatarenda 一带）命名。",
+      "en": "Named after the type locality Tatarenda, Bolivia."
     },
     "taurocephalus": {
       "zh": "希腊文 tauros（牛）+ kephalē（头），牛头",
@@ -9731,16 +9731,16 @@
       "en": "Spanish/Portuguese tinto (dark red, dyed)"
     },
     "tipuanicus": {
-      "zh": "以地名 Tipuana（具体待考）命名",
-      "en": "Named after the locality Tipuana"
+      "zh": "以产地地名 Tipuani（玻利维亚，拉巴斯省）命名。",
+      "en": "Named after the locality Tipuani, La Paz, Bolivia."
     },
     "tirapi": {
       "zh": "以地名 Tirap（印度阿鲁纳恰尔邦） 命名",
       "en": "Named after the locality Tirap (Arunachal Pradesh, India)"
     },
     "tithasus": {
-      "zh": "词源未详（原始描述未给种加词词源；属名 Acholotermes = 希腊语 acholos 温和）",
-      "en": "Etymology uncertain (not stated in original description; genus Acholotermes from Greek acholos, meek)"
+      "zh": "种加词来自希腊语 τιθασός (tithasos)「驯服的、温顺的」（LSJ：tamed, domesticated），与属名 Acholotermes（acholos「温和」）及同属种名 imbellis（不战斗的）、epius（温和的）语义呼应，指该属无兵蚁、性情温和。拉丁化作 tithasus。",
+      "en": "From Greek τιθασός (tithasos) 'tamed, domesticated' (LSJ), echoing the genus name Acholotermes (acholos 'meek') and the congeneric epithets imbellis ('unwarlike') and epius ('gentle'), alluding to the soldierless, mild-natured condition. Latinized as tithasus."
     },
     "tiwarii": {
       "zh": "以人名 Tiwar 命名（具体身份待考）",
@@ -9815,8 +9815,8 @@
       "en": "Latin tredecim (thirteen) + articulatus (jointed), thirteen-jointed"
     },
     "trestus": {
-      "zh": "词源未详（原始描述未给种加词词源；属名 Alyscotermes = 希腊语 alysko 逃避/游荡）",
-      "en": "Etymology uncertain (not stated; genus Alyscotermes from Greek alysko, to flee/shun)"
+      "zh": "种加词来自希腊语 τρητός (trētos)「有孔的、穿孔的」（LSJ：perforated, having a hole in it，源自 τετραίνω tetrainō「钻孔」），拉丁化作 trestus，或指工蚁肠瓣（enteric valve）的刺状构造。",
+      "en": "From Greek τρητός (trētos) 'perforated, having a hole in it' (LSJ, from τετραίνω tetrainō 'to bore'), Latinized as trestus, perhaps referring to the spiny enteric valve armature of the worker caste."
     },
     "triacifer": {
       "zh": "拉丁文/希腊文 triaci（三）+ fer（具），指三具",
@@ -10115,8 +10115,8 @@
       "en": "Named after the locality Utiariti (Mato Grosso, Brazil)"
     },
     "vadaensis": {
-      "zh": "以地名 Vada（具体地名待考） 命名",
-      "en": "Named after the locality Vada"
+      "zh": "以产地地名 Vada 命名（具体地点待考）。",
+      "en": "Named after the locality Vada (precise location uncertain)."
     },
     "vadoni": {
       "zh": "以人名 Vadon（J. Vadon，法国昆虫学家） 命名",
@@ -10315,8 +10315,8 @@
       "en": "Named after the locality Wayanad"
     },
     "wayaoensis": {
-      "zh": "以地名 Wayao（具体地名待考） 命名",
-      "en": "Named after the locality Wayao"
+      "zh": "以产地地名「瓦窑」命名（云南，具体行政区划待考）。",
+      "en": "Named after the type locality Wayao, Yunnan, China."
     },
     "weberi": {
       "zh": "以人名 Weber（具体身份待考） 命名",
@@ -10447,8 +10447,8 @@
       "en": "Named after a Chinese scholar surnamed Yao (full name uncertain)."
     },
     "yarangensis": {
-      "zh": "以地名 Yarang（具体地名待考） 命名",
-      "en": "Named after the locality Yarang"
+      "zh": "以产地地名「亚让」命名（西藏自治区墨脱县）。",
+      "en": "Named after the type locality Yarang, Mêdog County, Tibet, China."
     },
     "yasujensis": {
       "zh": "以地名 亚苏季（伊朗） 命名",
@@ -10495,8 +10495,8 @@
       "en": "After Yunnan (China)"
     },
     "yunsiensis": {
-      "zh": "以地名 Yunxi 云溪（具体待考） 命名",
-      "en": "Named after the locality Yunxi"
+      "zh": "以产地地名「云寺」命名（福建，具体行政区划待考）。",
+      "en": "Named after the type locality Yunsi, Fujian, China."
     },
     "yuntaishanensis": {
       "zh": "以地名 Yuntai Shan（云台山，中国）命名",

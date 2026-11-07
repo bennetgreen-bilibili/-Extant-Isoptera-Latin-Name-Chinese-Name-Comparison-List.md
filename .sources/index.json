@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 126,
+    "count": 130,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-08T00:47:45+08:00",
+    "updated": "2026-11-08T01:50:10+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -7648,6 +7648,95 @@
       "accessed": "2026-11-08T00:47:45+08:00",
       "canonical_key": "url:https://pt.wikipedia.org/wiki/Itapu%C3%A3_(Salvador)",
       "id": "S0127"
+    },
+    {
+      "title": "τιθασός — LSJ (via Logeion)",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://www.logeion.org/%CF%84%CE%B9%CE%B8%CE%B1%CF%83%CF%8C%CF%82",
+      "lang": "en",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "τῐθᾰσ-ός, όν, tamed, domesticated ; esp. of animals, tame, domestic, χήν S. Fr. 866, cf. Epicr. 3.24; opp. ἄγριος, Pl. Plt. 264a",
+          "locator": "LSJ 词条",
+          "note": "支撑：tithasus = 希腊语 τιθασός「驯服的、温顺的」"
+        },
+        {
+          "quote": "of persons, tractable, docile, AP 5.177 ( Mel. ), Plu. Adul. 2.51f, al.",
+          "locator": "LSJ 词条",
+          "note": "支撑：τιθασός 亦指人「温顺、顺从」"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T01:48:33+08:00",
+      "canonical_key": "url:https://www.logeion.org/%CF%84%CE%B9%CE%B8%CE%B1%CF%83%CF%8C%CF%82",
+      "id": "S0128"
+    },
+    {
+      "title": "τρητός — LSJ (via Logeion)",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://www.logeion.org/%CF%84%CF%81%CE%B7%CF%84%CF%8C%CF%82",
+      "lang": "en",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "τρητός [τρη- , τε-τραίνω.] Perforated, having a hole in it : λίθοιο Od. 13.77",
+          "locator": "LSJ 词条",
+          "note": "支撑：trestus = 希腊语 τρητός「有孔的、穿孔的」"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T01:48:33+08:00",
+      "canonical_key": "url:https://www.logeion.org/%CF%84%CF%81%CE%B7%CF%84%CF%8C%CF%82",
+      "id": "S0129"
+    },
+    {
+      "title": "亚让土白蚁（百度百科）",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://baike.baidu.com/item/%E4%BA%9A%E8%AE%A9%E5%9C%9F%E7%99%BD%E8%9A%81/13002856",
+      "lang": "zh",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "亚让土白蚁主要分布于中国西藏自治区墨脱县。种名“yarangensis”",
+          "locator": "词条正文",
+          "note": "支撑：yarangensis 源自模式产地亚让（西藏墨脱县）"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T01:50:10+08:00",
+      "canonical_key": "url:https://baike.baidu.com/item/%E4%BA%9A%E8%AE%A9%E5%9C%9F%E7%99%BD%E8%9A%81/13002856",
+      "id": "S0130"
+    },
+    {
+      "title": "Tipuani Municipality",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://en.wikipedia.org/wiki/Tipuani_Municipality",
+      "lang": "en",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "Tipuani Municipality",
+          "locator": "词条标题",
+          "note": "支撑：tipuanicus 源自玻利维亚 Tipuani 地名"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T01:50:10+08:00",
+      "canonical_key": "url:https://en.wikipedia.org/wiki/Tipuani_Municipality",
+      "id": "S0131"
     }
   ]
 }
