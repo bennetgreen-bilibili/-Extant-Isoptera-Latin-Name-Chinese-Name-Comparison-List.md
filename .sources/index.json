@@ -3,7 +3,7 @@
     "version": 1,
     "count": 114,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T19:56:43+08:00",
+    "updated": "2026-11-07T20:02:53+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -6807,7 +6807,7 @@
       "file_path": "_unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
       "chars": 33450,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T19:56:43+08:00",
+      "accessed": "2026-11-07T20:02:53+08:00",
       "notes": "全文存于 _unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina（33450 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
@@ -6834,8 +6834,36 @@
       "publisher": "American Museum of Natural History",
       "lang": "en",
       "url": "https://digitallibrary.amnh.org/handle/2246/5290",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/18-labritermes1982.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Head small, cylindrical, height almost equal to width, frons sloping toward clypeus at about 45-degree angle. Frontal gland very small; fontanelle round, very small, about 0.014-0.019 mm. in diameter, situated just above frontal slope. Labrum very large and wide, wider than long, asymmetrical, tilted upward; anterior region with wide hyaline tip; underside with posterior median sclerotized protrusion pointing downward.",
+          "locator": "p. 2",
+          "note": "支撑：唇白蚁属兵蚁头、额面、囟门、上唇形态"
+        },
+        {
+          "quote": "Mandibles rather strongly curved, asymmetrical. Left mandible slightly longer than right; inner cutting edge beginning at tip with distinct and regular serrations up to one-third or one-half the length, ending with four progressively larger teeth; posterior margin of third and fourth tooth long; small pointed projection at base of fourth tooth.",
+          "locator": "p. 2",
+          "note": "支撑：兵蚁左颚锯齿与齿列"
+        },
+        {
+          "quote": "Right mandible more sharply curved inward than left; inner margin smooth dorsally, narrow groove running from near base to tip, ventral margin of groove finely serrated; one or two very tiny thornlike points at base. Pronotum saddle-shaped, narrower than head. Antennae with 12 articles. Tibial spurs 3:2:2.",
+          "locator": "p. 2",
+          "note": "支撑：兵蚁右颚、前胸背板、触角、胫距"
+        },
+        {
+          "quote": "Left mandible (fig. 1) with short apical tooth; posterior margin of fused first plus second marginal tooth longer than apical tooth, with almost straight cutting edge, joining evenly (without a distinct angle) with anterior margin of third marginal tooth; mandible index LA/Li .28; fourth marginal tooth small, faintly visible from above, almost hidden behind molar prominence; molar plate with a few (4-5) grinding ridges.",
+          "locator": "p. 2",
+          "note": "支撑：工蚁左颚及颚指数 0.28"
+        },
+        {
+          "quote": "Our study confirms that Labritermes is most closely related to Foraminitermes, as the two genera share several synapomorphic characters. In the soldier of each of these genera, the labrum has a hyaline tip; the upper inner cutting edge of the left mandible is finely serrated, with blunt teeth appearing as crenulations below the serrations; and the inner margin of the right mandible is smooth and without teeth, the base of its molar region with one or two very tiny, pointed, thornlike spines or projections.",
+          "locator": "pp. 3–4",
+          "note": "支撑：与 Foraminitermes 的近缘关系及共衍征"
+        }
+      ],
       "id": "S0115"
     }
   ]
