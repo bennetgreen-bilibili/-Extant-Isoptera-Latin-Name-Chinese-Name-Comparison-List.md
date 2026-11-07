@@ -38,9 +38,9 @@ ES — **塔克奇囟白蚁** (*Tonsuritermes tucki*) es una especie, y la espec
 
 EN — *Tonsuritermes*: From Latin tonsus (shorn) + termes.
 
-种加词 *tucki*：以人名 Tuck 命名（具体身份待考）
+种加词 *tucki*：纪念罗宾汉传说中的人物「修士塔克」（Friar Tuck）。
 
-EN — epithet *tucki*: Named after Tuck
+EN — epithet *tucki*: In reference to the character Friar Tuck, the supposed Franciscan monk of the legend of Robin Hood.
 
 <!-- src:S0018 -->
 

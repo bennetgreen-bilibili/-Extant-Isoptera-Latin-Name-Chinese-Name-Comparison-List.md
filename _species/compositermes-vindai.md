@@ -38,9 +38,9 @@ ES — **文达肠刺白蚁** (*Compositermes vindai*) es una especie, y la espe
 
 EN — *Compositermes*: From Latin compositus (composed, put together) + termes.
 
-种加词 *vindai*：以人名 Vinda 命名（具体身份待考）
+种加词 *vindai*：纪念 1996 年加入白蚁多样性调查队的特立尼达采集助手 Boudanath「Vinda」Maharajh（1950–2009）。
 
-EN — epithet *vindai*: Named after Vinda
+EN — epithet *vindai*: Named in honor of Boudanath (Vinda) Maharajh (1950–2009) who first joined the termite diversity survey team in 1996 at his homeland of Trinidad and Tobago.
 
 <!-- src:S0018 -->
 

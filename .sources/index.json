@@ -3,7 +3,7 @@
     "version": 1,
     "count": 130,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-08T01:50:10+08:00",
+    "updated": "2026-11-08T02:04:02+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -3960,18 +3960,25 @@
           "quote": "Imago unknown. Worker (Figs. 3–6). Monomorphic. Fore tibia moderately inflated (ratio length/width 3.98).",
           "locator": "p. 381, Description",
           "note": "支撑：有翅成虫未知；单型；前胫节中度膨大，长宽比 3.98。"
+        },
+        {
+          "quote": "Compositermes vindai is named in honor of Boudanath (Vinda) Maharajh (1950-2009) who first joined our termite diversity survey team in 1996 at his homeland of Trinidad and Tobago",
+          "locator": "Etymology 段（Zenodo 存档）",
+          "note": "支撑：vindai 纪念特立尼达采集助手 Boudanath Vinda Maharajh"
         }
       ],
       "used_in": [
+        "_data/etymology.json",
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/07-noentry-a.json"
       ],
       "notes": "PDF 自 mapress.com 公开下载（bz2 无）；Zootaxa 未在 PDF 内标注开放许可，故 license 记 unknown。属级描述跨 pp. 381–383。",
       "doi": "10.11646/zootaxa.3652.3.6",
       "url": "https://doi.org/10.11646/zootaxa.3652.3.6",
-      "accessed": "2026-11-07T06:50:48+08:00",
+      "accessed": "2026-11-08T02:04:02+08:00",
       "canonical_key": "doi:10.11646/zootaxa.3652.3.6",
-      "id": "S0064"
+      "id": "S0064",
+      "retrieved_via": "web_search"
     },
     {
       "title": "Gastrotermes spinatus gen. n. sp. n., an African soil-feeding termite described from the worker caste (Isoptera, Termitidae, Apicotermitidae)",
@@ -4334,14 +4341,20 @@
           "quote": "Head capsule trapezoidal in dorsal view, flattened dorsoventrally in profile ( Fig. 1A, B ). Two frontal marks located in dorsal view between the postclypeus and ocellus, above the antenna insertion ( Fig. 1B , arrows), larger than the ocelli, and two smaller triangular marks between the frontal marks and the fontanelle",
           "locator": "pp. 384–387，「Imago」段",
           "note": "支撑：有翅成虫头背视梯形；额斑位于后唇基与单眼之间、触角着生处上方，大于单眼；额斑与囟之间另有较小的三角斑——有翅成虫节。"
+        },
+        {
+          "quote": "In reference to the character Friar Tuck, the supposed Franciscan monk of the legend of Robin Hood.",
+          "locator": "Etymology 段（Plazi 存档）",
+          "note": "支撑：tucki 纪念罗宾汉传说人物 Friar Tuck"
         }
       ],
       "used_in": [
+        "_data/etymology.json",
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/07-noentry-b.json"
       ],
       "notes": "为 1 个属（奇囟白蚁属）提供属级形态文本；本记录逐字摘录合计 880 字符。",
-      "accessed": "2026-11-07T06:58:31+08:00",
+      "accessed": "2026-11-08T02:04:02+08:00",
       "canonical_key": "doi:10.11646/zootaxa.4531.3.4",
       "id": "S0070"
     },

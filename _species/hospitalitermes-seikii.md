@@ -38,9 +38,9 @@ ES — **清木须白蚁** (*Hospitalitermes seikii*) es una especie del género
 
 EN — *Hospitalitermes*: From Latin hospes (host, guest) + termes.
 
-种加词 *seikii*：以人名 Seiki（日本人名，具体指代待考）
+种加词 *seikii*：以人名命名；疑纪念日本昆虫学家山根正気（Seiki Yamane，与同文另一新种 Lacessitermes yamanei 相关），原文词源句未读到，待考。
 
-EN — epithet *seikii*: Named after a person "Seiki" (Japanese name, identity unconfirmed)
+EN — epithet *seikii*: Named after a person; probably honors the Japanese entomologist Seiki Yamane (cf. Lacessitermes yamanei in the same paper), but the etymology statement was not seen; uncertain.
 
 <!-- src:S0018 -->
 
