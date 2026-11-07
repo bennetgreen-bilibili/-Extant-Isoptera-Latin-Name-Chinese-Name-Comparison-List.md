@@ -7367,9 +7367,14 @@
           "note": "属级鉴别特征（摘要）"
         },
         {
-          "quote": "Fontanelle conspicuous, subcircular (Figure 1B); medium spot conspicuous (Figure 1B); eyes circular, ocelli oval-shaped separated from the eye by less than its diameter (Figure 1A). Left mandible with an apical tooth and M1+2 of the same size; M3 triangular with a sharp edge; presence of a gap between the M3 and a prominent premolar process. Right mandible with apical tooth and M1 almost of the same size; M2 triangular with sharp edges (Figure 1D).",
+          "quote": "Fontanelle conspicuous, subcircular (Figure 1B); medium spot conspicuous (Figure 1B); eyes circular, ocelli oval-shaped separated from the eye by less than its diameter (Figure 1A).",
           "locator": "p. 2 (Imago)",
-          "note": "有翅成虫头部与上颚"
+          "note": "有翅成虫头部（囟门/复眼/单眼）"
+        },
+        {
+          "quote": "Left mandible with an apical tooth and M1+2 of the same size; M3 triangular with a sharp edge; presence of a gap between the M3 and a prominent premolar process. Right mandible with apical tooth and M1 almost of the same size; M2 triangular with sharp edges (Figure 1D).",
+          "locator": "p. 2 (Imago)",
+          "note": "有翅成虫上颚"
         },
         {
           "quote": "Head capsule round in dorsal view, covered with very short hairs and bristles of short, medium and long size (Figure 1B); head capsule dark brown, lighter around the antennae. Antennae with 15 articles (formula 2>3<4=5).",
