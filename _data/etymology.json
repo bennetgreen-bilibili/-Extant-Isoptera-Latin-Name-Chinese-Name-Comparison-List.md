@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "sources": [
       "S0004",
       "S0018",
@@ -9907,8 +9907,8 @@
       "en": "Latin truncatus (truncated)"
     },
     "tsaii": {
-      "zh": "以人名 Tsai（蔡，具体身份待考） 命名",
-      "en": "Named after Tsai"
+      "zh": "以中国白蚁分类学家蔡邦华（Tsai Pang-hwa，1902–1983，中国白蚁学奠基人、中科院院士）命名。",
+      "en": "Named after the Chinese termite taxonomist Pang-hwa Tsai (1902–1983), a founder of Chinese termite studies."
     },
     "tsavoensis": {
       "zh": "以地名 察沃（肯尼亚） 命名",
@@ -10395,8 +10395,8 @@
       "en": "Greek xenos (strange) + termes (termite), alien termite"
     },
     "xiai": {
-      "zh": "以人名 Xia（夏，具体身份待考） 命名",
-      "en": "Named after Xia"
+      "zh": "以中国白蚁分类学家夏凯龄（Xia Kailing，中科院上海昆虫研究所）命名。",
+      "en": "Named after the Chinese termite taxonomist Kailing Xia."
     },
     "xiamenensis": {
       "zh": "以地名 厦门（福建） 命名",
@@ -10443,8 +10443,8 @@
       "en": "Named after Yamane"
     },
     "yaoi": {
-      "zh": "以人名 Yao（姚，具体身份待考） 命名",
-      "en": "Named after Yao"
+      "zh": "以中国姚姓学者命名（全名待考；Odontotermes yaoi=Huang & Li, 1988）。",
+      "en": "Named after a Chinese scholar surnamed Yao (full name uncertain)."
     },
     "yarangensis": {
       "zh": "以地名 Yarang（具体地名待考） 命名",
@@ -10459,8 +10459,8 @@
       "en": "Named after the locality Yemen"
     },
     "yinae": {
-      "zh": "以人名 Yin（殷/尹，具体身份待考） 命名",
-      "en": "Named after Yin"
+      "zh": "以中国昆虫学家尹文英（Yin Wenying，1922–2023，中科院院士）命名。",
+      "en": "Named after the Chinese entomologist Wenying Yin (1922–2023)."
     },
     "yingdeensis": {
       "zh": "以地名 英德（广东） 命名",
@@ -10487,8 +10487,8 @@
       "en": "Named after the locality Yucat"
     },
     "yui": {
-      "zh": "以人名 Yu（于/余，具体身份待考） 命名",
-      "en": "Named after Yu"
+      "zh": "以中国白蚁分类学家尤其伟（You Qiwei）命名。",
+      "en": "Named after the Chinese termite taxonomist Qiwei You."
     },
     "yunnanensis": {
       "zh": "地名：云南（中国）",
@@ -10543,8 +10543,8 @@
       "en": "Named after the locality Zhangfeng"
     },
     "zhaoi": {
-      "zh": "以人名 Zhao（赵，具体身份待考） 命名",
-      "en": "Named after Zhao"
+      "zh": "以中国昆虫分类学家赵修复（Zhao Xiufu，1919–2004，福建农学院教授）命名。",
+      "en": "Named after the Chinese entomologist Xiufu Zhao (1919–2004)."
     },
     "zhejianensis": {
       "zh": "以地名 浙江 命名",
@@ -10555,8 +10555,8 @@
       "en": "Named after the locality Zhejiang"
     },
     "zhui": {
-      "zh": "以人名 Zhu 命名（具体身份待考）",
-      "en": "Named after Zhu"
+      "zh": "以中国白蚁分类学家朱世模（Zhu Shimao）命名。Macrotermes zhui 是 Krishna (2013) 为 Macrotermes latinotus Zhu & Luo, 1985（初级同名，被 Macrotermes gilvus latinotus Kemner, 1934 占用）建立的替代名。",
+      "en": "Named after the Chinese termite taxonomist Shimao Zhu. Macrotermes zhui is a replacement name (Krishna 2013) for Macrotermes latinotus Zhu & Luo, 1985, a junior primary homonym of Macrotermes gilvus latinotus Kemner, 1934."
     },
     "ziyangensis": {
       "zh": "以地名 资阳（四川） 命名",
