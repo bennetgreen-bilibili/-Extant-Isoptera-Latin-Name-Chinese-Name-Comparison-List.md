@@ -47,7 +47,7 @@ breadcrumb:
 <section class="taxon-section taxon-intro">
 <h2>科级介绍</h2>
 <p>草白蚁科由 Desneux 于 1904 年建立（Desneux, 1904: 284）(1)，模式属为草白蚁属 Hodotermes Hagen, 1853。科名词出模式属：Hodotermes 由希腊文 hodos（道路、游走）与 termes 组合，指其外出地面觅食的习性。本名录收录 3 属 21 种。</p>
-<p>本科为旧热带界—古北界干旱地带特有的“收获型”白蚁，三属大致分区：草白蚁属 Hodotermes Hagen, 1853 分布于非洲南部及东部；小草白蚁属 Microhodotermes Sjöstedt, 1926 跨南非、纳米比亚与北非；无刺白蚁属 Anacanthotermes Jacobson, 1905 分布于北非、阿拉伯半岛、中东至中亚及南亚的荒漠(7)、半荒漠区。与多数白蚁不同，本科工蚁和成虫均具发达复眼，夜间或晨昏在地面开放觅食，以禾草、枯草及植物茎叶为食，锯齿状内缘大颚适于切割草茎；巢居地下，由复杂隧道网络连接，部分种类筑低矮垅巢。本科兵蚁无囟门，头壳近圆形至卵形、骨化强而色深，上颚短粗、端半部强烈内弯；大型工蚁头极大而扁平（仅见于 Hodotermes）；有翅成虫具单眼。经济上，草白蚁在非洲牧场消耗牧草、垅巢干扰农机作业(8)，个别种类在农区取食作物。其中突厥斯坦无刺白蚁 Anacanthotermes turkestanicus是中亚危害民居与历史建筑木构件的严重害虫(9)，小草白蚁属 Microhodotermes viator 在南非卡鲁危害牧场牧草(10)。</p>
+<p>本科为旧热带界—古北界干旱地带特有的“收获型”白蚁，三属大致分区：草白蚁属 Hodotermes Hagen, 1853 分布于非洲南部及东部；小草白蚁属 Microhodotermes Sjöstedt, 1926 跨南非、纳米比亚与北非；无刺白蚁属 Anacanthotermes Jacobson, 1905 分布于北非、阿拉伯半岛、中东至中亚及南亚的荒漠(7)、半荒漠区。与多数白蚁不同，本科工蚁和成虫均具发达复眼，夜间或晨昏在地面开放觅食，以禾草、枯草及植物茎叶为食，锯齿状内缘上颚适于切割草茎；巢居地下，由复杂隧道网络连接，部分种类筑低矮垅巢。本科兵蚁无囟门，头壳近圆形至卵形、骨化强而色深，上颚短粗、端半部强烈内弯；大型工蚁头极大而扁平（仅见于 Hodotermes）；有翅成虫具单眼。经济上，草白蚁在非洲牧场消耗牧草、垅巢干扰农机作业(8)，个别种类在农区取食作物。其中突厥斯坦无刺白蚁 Anacanthotermes turkestanicus是中亚危害民居与历史建筑木构件的严重害虫(9)，小草白蚁属 Microhodotermes viator 在南非卡鲁危害牧场牧草(10)。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
 {%- assign fz = site.data.fauna_families["/family/hodotermitidae/"] -%}{%- if fz %}
