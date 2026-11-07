@@ -38,9 +38,9 @@ ES — **具锯阿特拉斯白蚁** (*Atlantitermes ibitiriguara*) es una especi
 
 EN — *Atlantitermes*: From the Atlantic + termes.
 
-种加词 *ibitiriguara*：图皮语土名（具体指向待考）
+种加词 *ibitiriguara*：种加词 ibitiriguara 为图皮语土名，由 ibiti（山，古图皮语 ibytyra）与 guara（居民/鸟）组成，可能指山间地名。
 
-EN — epithet *ibitiriguara*: Tupi vernacular name (uncertain)
+EN — epithet *ibitiriguara*: From Tupi ibiti 'mountain' (Old Tupi ibytyra) + guara 'inhabitant/bird'; likely a locality name.
 
 <!-- src:S0018 -->
 

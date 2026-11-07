@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 120,
+    "count": 126,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-08T00:08:57+08:00",
+    "updated": "2026-11-08T00:47:45+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -7515,6 +7515,139 @@
       "accessed": "2026-11-07T23:48:19+08:00",
       "canonical_key": "url:https://en.wiktionary.org/wiki/%E1%BD%84%CE%B3%CE%BA%CE%BF%CF%82",
       "id": "S0121"
+    },
+    {
+      "title": "Astrocaryum ayri Mart.",
+      "source_type": "database",
+      "reliability": "official",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326544-2",
+      "year": 1824,
+      "lang": "en",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "Astrocaryum ayri Mart. First published in Hist. Nat. Palm. 2: 71 (1824)",
+          "locator": "POWO 物种页",
+          "note": "支撑：ayri 为棕榈学名，种加词 ayri 源自此棕榈名"
+        },
+        {
+          "quote": "conhecido popularmente como airi, iri, coco-de-iri, brejaúba e brejaúva, é uma palm",
+          "locator": "Brejaúva 词条",
+          "note": "支撑：ayri 棕榈俗称 airi/iri/coco-de-iri"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T00:47:45+08:00",
+      "canonical_key": "url:https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326544-2",
+      "id": "S0122"
+    },
+    {
+      "title": "Tesoro de la Lengua Guaraní (Antonio Ruiz de Montoya, Madrid 1639)",
+      "source_type": "book",
+      "reliability": "primary",
+      "url": "https://archive.org/details/tesorodelalengua0000ruiz",
+      "year": 1639,
+      "lang": "es",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "cupi'i | Hormiga, que se cría en la madera.- Guasch dice termes, termite, hormiguita blanca \"fatal y destructora\"",
+          "locator": "cupi'i 词条",
+          "note": "支撑：cupi 为瓜拉尼语「白蚁」"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T00:47:45+08:00",
+      "canonical_key": "url:https://archive.org/details/tesorodelalengua0000ruiz",
+      "id": "S0123"
+    },
+    {
+      "title": "Dicionário Tupi (poranga)",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://pt.wiktionary.org/wiki/poranga",
+      "lang": "pt",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "poranga | belo, bonito",
+          "locator": "poranga 词条",
+          "note": "支撑：poranga 为图皮语「美丽」"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T00:47:45+08:00",
+      "canonical_key": "url:https://pt.wiktionary.org/wiki/poranga",
+      "id": "S0124"
+    },
+    {
+      "title": "Michaelis On-line (tracuá)",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=tracu%C3%A1",
+      "lang": "pt",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "Camponotus é um gênero de formigas... Também são conhecidas pelos nomes de tacuá, taracuá, tracuá",
+          "locator": "tracuá 词条",
+          "note": "支撑：taracua 为图皮语木蚁（Camponotus）俗称"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T00:47:45+08:00",
+      "canonical_key": "url:https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=tracu%C3%A1",
+      "id": "S0125"
+    },
+    {
+      "title": "Reserva Sapiranga (toponímia)",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://pt.wikipedia.org/wiki/Sapiranga",
+      "lang": "pt",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "Rio Sapiranga, que na língua tupi quer dizer \"olho vermelho\", Sa significando olho e Piranga, vermelho",
+          "locator": "Sapiranga 词条",
+          "note": "支撑：sapiranga 为图皮语「红眼」（sapi 眼 + pyranga 红）"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T00:47:45+08:00",
+      "canonical_key": "url:https://pt.wikipedia.org/wiki/Sapiranga",
+      "id": "S0126"
+    },
+    {
+      "title": "Itapuã (toponímia tupi)",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://pt.wikipedia.org/wiki/Itapu%C3%A3_(Salvador)",
+      "lang": "pt",
+      "retrieved_via": "web_search",
+      "evidence": [
+        {
+          "quote": "Itapuã (tupi: Itápu'ã, « Pedra erguida »)",
+          "locator": "Itapuã 词条",
+          "note": "支撑：itá(石)+puã(立)=竖石，tiapuan 词根来源"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-08T00:47:45+08:00",
+      "canonical_key": "url:https://pt.wikipedia.org/wiki/Itapu%C3%A3_(Salvador)",
+      "id": "S0127"
     }
   ]
 }

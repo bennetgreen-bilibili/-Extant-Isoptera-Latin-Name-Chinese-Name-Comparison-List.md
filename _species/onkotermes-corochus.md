@@ -38,9 +38,9 @@ ES — **瘤额倒钩白蚁** (*Onkotermes corochus*) es una especie del género
 
 EN — *Onkotermes*: From Greek onkos (bend, hook, barb) + Latin termes. Greek onkos also means "bulk, tumor".
 
-种加词 *corochus*：词源未详。中文名「瘤额」据兵蚁额部隆起特征意译。
+种加词 *corochus*：词源未详；种加词或源自南美当地语言（corocho/corozo 在当地指棕榈或树木，产地科连特斯为瓜拉尼语区），非希腊、拉丁词根。中文名「瘤额」据兵蚁额部隆起意译。
 
-EN — epithet *corochus*: Etymology uncertain; the Chinese name "瘤额" (tumored frons) refers to the soldier's frontal projection.
+EN — epithet *corochus*: Etymology uncertain; likely from a South American indigenous language (corocho/corozo, a local name for palms/trees; the type locality Corrientes is Guaraní-speaking), not Greek or Latin. The Chinese name "瘤额" (tumored frons) is descriptive of the soldier's frontal projection.
 
 <!-- src:S0018 -->
 
