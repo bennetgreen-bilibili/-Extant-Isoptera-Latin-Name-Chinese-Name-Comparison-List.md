@@ -1,6 +1,6 @@
 {
  "meta": {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "sources": [
    "S0004",
    "S0018",
@@ -3350,8 +3350,8 @@
    "en": "Latin cuniculator (tunneller)"
   },
   "cuphus": {
-   "zh": "词源未详",
-   "en": "Etymology uncertain"
+   "zh": "源自希腊语 kyphos（弯曲的、隆起的），指兵蚁头背形态",
+   "en": "From Greek kyphos ('bent, humped')"
   },
   "cupiporanga": {
    "zh": "图皮语土名（具体指向待考）",
@@ -6154,8 +6154,8 @@
    "en": "Named after Luja (Luxembourg naturalist Édouard Luja)"
   },
   "luluai": {
-   "zh": "词源未详",
-   "en": "Etymology uncertain"
+   "zh": "以托克皮辛语（Tok Pisin）luluai「村长、部落首领」命名",
+   "en": "From Tok Pisin luluai ('village or tribal chief')"
   },
   "lunae": {
    "zh": "拉丁文 luna（月亮），或指地名 Luna",

@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 118,
+    "count": 119,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T23:24:28+08:00",
+    "updated": "2026-11-07T23:30:58+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -7408,6 +7408,27 @@
         }
       ],
       "id": "S0119"
+    },
+    {
+      "title": "luluai - Wiktionary, the free dictionary",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://en.wiktionary.org/wiki/luluai",
+      "lang": "en",
+      "license": "unknown",
+      "evidence": [
+        {
+          "quote": "luluai — village or tribal chief under colonial rule.",
+          "locator": "definition",
+          "note": "支撑：Microcerotermes luluai 的种加词来自托克皮辛语 luluai（村长/部落首领），Pasteels & Roisin 2000 描述于新几内亚。"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-07T23:30:58+08:00",
+      "canonical_key": "url:https://en.wiktionary.org/wiki/luluai",
+      "id": "S0120"
     }
   ]
 }
