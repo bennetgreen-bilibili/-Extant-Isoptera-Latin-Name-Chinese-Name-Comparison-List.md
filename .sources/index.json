@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 111,
+    "count": 113,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T16:42:38+08:00",
+    "updated": "2026-11-07T16:54:33+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -6524,6 +6524,181 @@
       "accessed": "2026-11-07T16:41:16+08:00",
       "canonical_key": "url:https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
       "id": "S0112"
+    },
+    {
+      "title": "Arkiv for zoologi. Band 12 (1920)",
+      "source_type": "book",
+      "reliability": "primary",
+      "canonical_key": "url:https://archive.org/details/arkivfrzoologi12kung",
+      "file_path": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)",
+      "chars": 1311241,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T16:54:33+08:00",
+      "notes": "全文存于 _unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)（1311241 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；全卷扫描件的 archive.org OCR 文本（含 Mjoberg, E. 1920. Results of Dr. E. Mjobergs Swedish Scientific Expeditions to Australia 1910-1913. 19. Isoptera. Arkiv for Zoologi 12 (15): 1-128 + 6 pls.）。Ahamitermes 属级描述见 p. 89。OCR 有噪声（ae/oe 变音丢失、断行）。",
+      "library": {
+        "book": "Arkiv-for-zoologi.-Band-12-(1920)",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:53:36",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-001.txt",
+            "chars": 199988,
+            "paragraphs": 4086,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "32ac3d1d4417b2c68c2d1748309c9c07f5ad7c40062d083a8d62236864957c59",
+            "bytes": 203948
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-002.txt",
+            "chars": 199955,
+            "paragraphs": 4356,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "fb4db398dc41691578f0c3b7d40646c45b24f84352b3476c28986362b1f48452",
+            "bytes": 203435
+          },
+          {
+            "chunk": "part-003",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-003.txt",
+            "chars": 199961,
+            "paragraphs": 5342,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "b7b1d0f00103477d6f70c5af9cf1fc85303ab91c91342d79431d269f6ddb846b",
+            "bytes": 202197
+          },
+          {
+            "chunk": "part-004",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-004.txt",
+            "chars": 199984,
+            "paragraphs": 4955,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "63e18bda6b0b28dd6afe356dda7430435df64e56298952260c9672a1cad0da0f",
+            "bytes": 204437
+          },
+          {
+            "chunk": "part-005",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-005.txt",
+            "chars": 200000,
+            "paragraphs": 4635,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "0db9376f9e57999450922d5275d731dca2da6d798a64158ee46f16a1aaad5ad1",
+            "bytes": 200643
+          },
+          {
+            "chunk": "part-006",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-006.txt",
+            "chars": 199962,
+            "paragraphs": 5332,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "667e0af4a052817c62ee1a460764ab99da6f498d93ac8ffec4d7cb8ebb6fdc97",
+            "bytes": 201386
+          },
+          {
+            "chunk": "part-007",
+            "txt": "_unpublished/文库/Arkiv-for-zoologi.-Band-12-(1920)/part-007.txt",
+            "chars": 111391,
+            "paragraphs": 3383,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\arkivfrzoologi12kung_djvu.txt",
+            "sha256": "deb504c6d0fb90c7c33b675f731ace2a5d58e5fdcfe706b0e78c8af4e00553df",
+            "bytes": 112225
+          }
+        ]
+      },
+      "year": 1920,
+      "lang": "sv",
+      "url": "https://archive.org/details/arkivfrzoologi12kung",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/14-hill1942.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Ahamitermes n. g. Body small, of Hamitermes-type, head small, longer than broad, rounded behind; clypeus small, labrum long and broad, tapering to the tip, rounded; jaws short and stout, standing apart from each other, without median tooth; antennae very short, 12-jointed; prothorax broad, only very slightly ridged in front.",
+          "locator": "p. 89（article 40 前，属级订立段）",
+          "note": "支撑：无钩白蚁属原始属征（体小、头长大于宽、上唇长而宽、上颚无中齿、触角 12 节）"
+        },
+        {
+          "quote": "jaws very short and stout, broad at the base, curved, without any dentition whatsoever (on the innerside of the left jaw there are two very minute, hardly visible »teeth»)",
+          "locator": "p. 90（A. nidicola 兵蚁）",
+          "note": "支撑：无钩白蚁属兵蚁上颚完全无齿，仅左颚内侧有两枚极微小齿"
+        }
+      ],
+      "id": "S0113",
+      "authors": [
+        "Mjöberg, E."
+      ]
+    },
+    {
+      "title": "Termites (Isoptera) from the Australian Region",
+      "source_type": "book",
+      "reliability": "primary",
+      "canonical_key": "url:https://nla.gov.au/nla.obj-911352544",
+      "file_path": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region",
+      "chars": 9814,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T16:54:33+08:00",
+      "notes": "全文存于 _unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region（9814 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；NLA 数字化本 nla.obj-911352544（509 页扫描件，无文字层）。本库文本为人工逐页转录，仅含书 pp. 6/14/308-311（PDF pp. 9/17/311-314）；未转录页不可检索。出版商/丛刊号在扫描件版权页缺失，CSIRO Bulletin 编号未核实。",
+      "library": {
+        "book": "Termites-(Isoptera)-from-the-Australian-Region",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T16:53:36",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/full.txt",
+            "chars": 9814,
+            "paragraphs": 154,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\hill1942\\hill1942_transcription.txt",
+            "sha256": "c90404391114b03c575b2ad2881e80a1508d9ad8b8800d7e093677b084dc9bd1",
+            "bytes": 9814
+          }
+        ]
+      },
+      "authors": [
+        "Hill, G. F."
+      ],
+      "year": 1942,
+      "lang": "en",
+      "url": "https://nla.gov.au/nla.obj-911352544",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/14-hill1942.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The genus Ahamitermes was established for a species the soldier caste of which was described as not having mandibular teeth. The characters of the winged adult were defined later from an allied species. An examination of yet another related form indicates that Ahamitermes is best regarded as a subgenus of Hamitermes.",
+          "locator": "p. 308",
+          "note": "支撑：无钩白蚁属的建立依据与 Hill 的亚属处置"
+        },
+        {
+          "quote": "Mandibles not serrate .. Hamitermes subgenus Ahamitermes",
+          "locator": "p. 14（兵蚁分属检索表，第 7 对）",
+          "note": "支撑：与 Microcerotermes（上颚内缘细锯齿）的对立鉴别"
+        },
+        {
+          "quote": "Apical segment of maxillary palp inflated .. Ahamitermes",
+          "locator": "p. 310（有翅成虫亚属检索表，第 2 对）",
+          "note": "支撑：有翅成虫上颚须末节膨大"
+        },
+        {
+          "quote": "Mandibular tooth wanting or vestigial ..... Ahamitermes",
+          "locator": "p. 310（兵蚁亚属检索表，第 2 对）",
+          "note": "支撑：兵蚁上颚齿缺或退化"
+        },
+        {
+          "quote": "Species of the subgenus Ahamitermes live exclusively in the nests of Coptotermes.",
+          "locator": "p. 309",
+          "note": "支撑：全部种类栖于 Coptotermes 巢内"
+        }
+      ],
+      "id": "S0114"
     }
   ]
 }

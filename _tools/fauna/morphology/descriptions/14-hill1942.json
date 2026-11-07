@@ -1,0 +1,32 @@
+{
+  "/genus/ahamitermes/": {
+    "zh_name": "无钩白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "体小，属 Hamitermes 型。兵蚁上颚无齿（原始记述作「无中齿」），据此与 Hamitermes s. str.（上颚具发达齿）和 Microcerotermes（上颚内缘大部细锯齿）相区别；Hill（1942: 310）的亚属检索另以「兵蚁上颚齿缺或退化」「有翅成虫上颚须末节膨大」界定本类群。Hill（1942: 308）指出，本属最初是依兵蚁上颚无齿的种建立的，有翅成虫特征后来才据近缘种补记。所有种类都生活在 Coptotermes 的巢内。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "头小，长大于宽，后缘圆；唇基小；上唇长而宽，向端部收窄，端部圆；上颚短而粗壮，彼此分开，无中齿；触角很短，12 节；前胸背板宽，仅前缘微呈脊状。A. nidicola 兵蚁：体白，头与前胸节浅黄色，上颚红褐色；头小，向前略收窄，长大于宽，后缘圆；唇基基节很短、黄色，端节白色；上唇大而宽，两侧收窄、端部圆、被毛；上颚很短而粗壮，基部宽，弯曲，完全无齿（仅左颚内侧有两枚极微小、几乎不可见的「齿」）；触角淡黄色，第 2 节长宽均约为第 1 节之半，第 3 节极短；前胸背板宽，前缘微脊状，两侧圆、向基部收窄；足较短，腿节较粗，跗节细长。量度（A. nidicola，mm）：体长连上颚 4.4，头长连上颚 1.56，头长不连上颚 1.31，头宽 0.87，前胸背板长 0.29、宽 0.72，腹宽 1.4。"
+      },
+      {
+        "label": "有翅成虫",
+        "text": "上颚须末节膨大，为 Hill（1942: 310）区分本类群与 Hamitermes s. str. 的有翅成虫特征；除这一条外，原始文献未给出完整的有翅成虫描述。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0113",
+        "citation": "Mjöberg, E. 1920. Results of Dr. E. Mjöberg's Swedish Scientific Expeditions to Australia 1910–1913. 19. Isoptera. Arkiv för Zoologi 12 (15): 1–128.",
+        "locator": "p. 89"
+      },
+      {
+        "id": "S0114",
+        "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. NLA digitised copy nla.obj-911352544, 509 pp.",
+        "locator": "pp. 308–310"
+      }
+    ],
+    "note": "Mjöberg（1920: 89）以昆士兰 A. nidicola 建立本属，当时只描述兵蚁（正模为单个兵蚁，采于 Coptotermes lacteus 巢的侧部）；Hill（1942: 308）将其降为 Hamitermes 的亚属并补充亚属级检索特征。本名录按独立属处理。工蚁与有翅成虫的完整记述未见原始文献。"
+  }
+}
