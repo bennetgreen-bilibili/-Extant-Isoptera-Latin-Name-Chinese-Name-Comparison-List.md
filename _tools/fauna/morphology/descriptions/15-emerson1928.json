@@ -1,0 +1,23 @@
+{
+ "/genus/jugositermes/": {
+  "zh_name": "岗白蚁属",
+  "sections": [
+   {
+    "label": "鉴别要点",
+    "text": "兵蚁额面陡斜（约 45°），触角基部上方具两条明显脊，触角基部嵌于沟的一端；左上颚具小齿；两上颚均短而极宽，明显宽于近缘的 Apicotermes 与 Allognathotermes；囟腺开口存在，但仅呈一点状、不明显；上唇极小；头两侧平行；触角 15 节；前足胫节末端 3 刺，中、后足胫节末端 2 刺；跗爪间无爪垫（pulvillus）；前足基节具大而显著的齿状突起。模式种 Jugositermes tuberculatus。"
+   },
+   {
+    "label": "兵蚁",
+    "text": "头红黄褐色，前部色较深，自头中部向后方有一条深色纵线；头矩形，两侧平行，后缘圆；触角基上方两条脊明显，下方脊较弱，触角基部嵌于沟的一端；额面以约 45° 陡斜；头顶中线两侧各有一小疣状突起，侧面可见；头面刚毛稀少，触角下方两侧刚毛较多；触角 15 节，第 3 节极短，短于第 4 节，第 4 节短于第 2 节；上唇很小、舌状、不显著；上颚大而宽、比例上短，两颚内缘齿均很短；囟腺开口仅呈一点状，位于中线略前；前胸背板边缘具多数长刚毛，前缘另有短毛；前胸背板窄于头，鞍形，两侧较直、向后收窄，后缘深凹而角圆，前缘凹，中部具纵沟；前足基节前侧具大而显著的齿状突起。"
+   }
+  ],
+  "sources": [
+   {
+    "id": "S0075",
+    "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+    "locator": "pp. 501–502"
+   }
+  ],
+  "note": "Emerson 1928 以 Jugositermes tuberculatus 为模式种建立该属，当时只描述兵蚁，有翅成虫与工蚁未描述；属征是与其近缘属 Apicotermes、Allognathotermes 的比较鉴别，Emerson 指出其与当时已知各属差异显著。"
+ }
+}
