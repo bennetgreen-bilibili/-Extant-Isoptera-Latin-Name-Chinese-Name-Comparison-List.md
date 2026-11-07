@@ -88,10 +88,10 @@
   "biology": "亮白蚁栖息于地下草根旁，以腐烂植物为食；群体小，大多缺少兵蚁，鉴定颇为困难。该属种类的活动颇为隐蔽，标本往往需掘土采集。",
   "book_name": "亮白蚁属 Euhamitermes",
   "book_ref": "（原书亮白蚁属 Euhamitermes 一节的属级记述重新整理改写）",
-  "diagnosis": "兵蚁头壳介于长方形与方形之间；上颚粗短，强弯如钩，内缘中段一枚小齿；前胸背板强马鞍状；胫距三比二比二，跗节四节，兵蚁不易采获。",
+  "diagnosis": "兵蚁头壳介于长方形与方形之间；上颚粗短，强弯如钩，内缘中段一枚小齿；前胸背板强马鞍状；端距三比二比二，跗节四节，兵蚁不易采获。",
   "distribution": "东洋区；全世界已知二十四种，中国十三种，云南约占全国之半。",
   "en": "Euhamitermes soldiers have a head intermediate between rectangular and quadrate, short thick mandibles that curve strongly like hooks and bear a single small tooth at mid-length of the inner margin, and a strongly saddle-shaped pronotum. The tibial spur formula is three to two to two with four tarsal segments. Colonies are small and often lack soldiers, which makes specimens hard to obtain and the species difficult to identify. The genus lives underground near grass roots and feeds on decaying plant material.",
-  "soldier": "兵蚁头壳形状介于长方形与方形之间。上颚粗短，强烈弯曲如钩，内缘中段有一枚小齿。前胸背板呈强马鞍状。胫距式三比二比二，跗节四节。因群体小且常缺兵蚁，标本不易获得。",
+  "soldier": "兵蚁头壳形状介于长方形与方形之间。上颚粗短，强烈弯曲如钩，内缘中段有一枚小齿。前胸背板呈强马鞍状。端距式三比二比二，跗节四节。因群体小且常缺兵蚁，标本不易获得。",
   "taxonomy_note": "",
   "worker": ""
  },
@@ -108,14 +108,14 @@
   "worker": ""
  },
  "/genus/glyptotermes/": {
-  "alate": "有翅成虫大体具备木白蚁属有翅成虫的形态，其区别在于翅的中脉平直且紧靠径分脉，中脉与径脉都不分支。触角十二至十五节，胫距式三比三比三，跗节四节，足与翅的构造与木白蚁属相仿。",
+  "alate": "有翅成虫大体具备木白蚁属有翅成虫的形态，其区别在于翅的中脉平直且紧靠径分脉，中脉与径脉都不分支。触角十二至十五节，端距式三比三比三，跗节四节，足与翅的构造与木白蚁属相仿。",
   "biology": "",
   "book_name": "树白蚁属 Glyptotermes",
   "book_ref": "（原书树白蚁属 Glyptotermes 一节的属级记述重新整理改写）",
   "diagnosis": "兵蚁头壳狭长，额顶常高出其余部分而呈双峰；上颚短粗，相对头长远短于新白蚁属；触角短，多为十至十二节，上唇方形；跗节四节。",
   "distribution": "东洋区、澳洲区、新热带区与埃塞俄比亚区均有记录。",
   "en": "Glyptotermes soldiers have an elongate head whose vertex is often raised and doubly peaked, with a sloping or steep frons that may be wrinkled, smooth or punctate. Antennae are short, mostly ten to twelve segments, and the mandibles are short and stout with several distinct marginal teeth, much shorter relative to the head than in Neotermes. The labrum is usually quadrate, the pronotum flat and broad, and the tibial spur formula three to three to three.",
-  "soldier": "兵蚁头壳长形，额顶往往高于头壳其余部位，形成双峰状。额面或倾斜，或陡立，有的种类额部皱纹粗深，有的光滑或具点状刻纹。触角较短，大多十至十二节。上颚短而粗壮，与头长的比例远小于新白蚁属，颚上有多枚明显的缘齿，颚基峰显著或平坦。前胸背板平展而宽。上唇多呈方形。腿节并不肥厚。胫距式三比三比三，跗节四节。",
+  "soldier": "兵蚁头壳长形，额顶往往高于头壳其余部位，形成双峰状。额面或倾斜，或陡立，有的种类额部皱纹粗深，有的光滑或具点状刻纹。触角较短，大多十至十二节。上颚短而粗壮，与头长的比例远小于新白蚁属，颚上有多枚明显的缘齿，颚基峰显著或平坦。前胸背板平展而宽。上唇多呈方形。腿节并不肥厚。端距式三比三比三，跗节四节。",
   "taxonomy_note": "",
   "worker": ""
  },
@@ -156,7 +156,7 @@
   "worker": ""
  },
  "/genus/incisitermes/": {
-  "alate": "有翅成虫体色多为浅褐，部分种类呈深褐。复眼圆而大，单眼紧靠复眼，二者几乎相触。触角十三至二十节。左上颚与右上颚各具两枚缘齿。前胸背板通常略宽于头，或与头等宽。翅面透明，不具结瘤构造，胫节端距三比三比三，多数种类的爪间有中垫。",
+  "alate": "有翅成虫体色多为浅褐，部分种类呈深褐。复眼圆而大，单眼紧靠复眼，二者几乎相触。触角十三至二十节。左上颚与右上颚各具两枚缘齿。前胸背板通常略宽于头，或与头等宽。翅面透明，不具结瘤构造，胫节端距三比三比三，多数种类的爪间有爪间突。",
   "biology": "楹白蚁群体较小，巢结构简单，耐干旱，易于随人为搬运而传播，检疫上应予重视。小楹白蚁于二十世纪四十年代末传入我国，曾在南京、上海、宁波等地危害大型建筑，南京种群经防治后已多年未见。",
   "book_name": "楹白蚁属 Incisitermes",
   "book_ref": "（原书楹白蚁属 Incisitermes 一节的属级记述重新整理改写）",
@@ -180,7 +180,7 @@
   "worker": ""
  },
  "/genus/kalotermes/": {
-  "alate": "有翅成虫头部略隆，两侧缘平行，后缘呈宽弧状，轮廓近四边形。后唇基极短，未分为两叶。左上颚第一缘齿的后缘与第二缘齿相愈合，且长于第三缘齿的前缘。触角十六至十九节，单眼与复眼稍有距离。前胸背板宽大平坦，前缘凹口呈宽弧形，两侧略平行对称，后缘宽阔，中央凹口浅而宽。前翅鳞前缘突出，长于或等于前胸背板，且远大于后翅鳞。Rs脉分为数支。前翅M脉不骨化，自Cu脉翅鳞内伸出，行于Rs与Cu之间。足极短，胫节距式三比三比三，具中垫，尾须不明显。",
+  "alate": "有翅成虫头部略隆，两侧缘平行，后缘呈宽弧状，轮廓近四边形。后唇基极短，未分为两叶。左上颚第一缘齿的后缘与第二缘齿相愈合，且长于第三缘齿的前缘。触角十六至十九节，单眼与复眼稍有距离。前胸背板宽大平坦，前缘凹口呈宽弧形，两侧略平行对称，后缘宽阔，中央凹口浅而宽。前翅鳞前缘突出，长于或等于前胸背板，且远大于后翅鳞。Rs脉分为数支。前翅M脉不骨化，自Cu脉翅鳞内伸出，行于Rs与Cu之间。足极短，胫节距式三比三比三，具爪间突，尾须不明显。",
   "biology": "",
   "book_name": "木白蚁属 Kalotermes",
   "book_ref": "（原书木白蚁属 Kalotermes 一节的属级记述重新整理改写）",
@@ -204,14 +204,14 @@
   "worker": ""
  },
  "/genus/microcerotermes/": {
-  "alate": "有翅成虫头壳呈卵圆形，两侧边平直；复眼不大，向外鼓出。单眼小，与复眼稍有距离。额腺孔往往难以看清。后唇基略有隆起，高度不及额部，前缘作平直状。触角十三至十四节。前胸背板小，远窄于头壳；中胸背板的后段比后胸背板宽。翅膜由淡褐到深褐，短毛密覆；径脉缺失或退化；中脉靠近肘脉。雄虫具腹刺。足胫距三比二比二。",
+  "alate": "有翅成虫头壳呈卵圆形，两侧边平直；复眼不大，向外鼓出。单眼小，与复眼稍有距离。额腺孔往往难以看清。后唇基略有隆起，高度不及额部，前缘作平直状。触角十三至十四节。前胸背板小，远窄于头壳；中胸背板的后段比后胸背板宽。翅膜由淡褐到深褐，短毛密覆；径脉缺失或退化；中脉靠近肘脉。雄虫具刺突。足端距三比二比二。",
   "biology": "本属对多种农作物、林木以及房屋建筑均有危害。中东锯白蚁在阿拉伯半岛等地严重危害木结构建筑及枣椰子、棉花、柑橘等，深胫锯白蚁在热带非洲危害棉花与玉米。我国进口木材检疫中已多次截获本属种类。",
   "book_name": "锯白蚁属 Microcerotermes",
   "book_ref": "（原书锯白蚁属 Microcerotermes 一节的属级记述重新整理改写）",
   "diagnosis": "兵蚁头壳长方形且厚；额孔不明显；上颚长镰刀状，颚基外缘多凹入，内缘呈锯齿状；触角十二至十三节；前胸背板马鞍状，甚窄于头。",
   "distribution": "东洋区、大洋洲、非洲与美洲；中国现知五种，多分布于云南及海南，与中南半岛种类近缘。",
   "en": "Microcerotermes soldiers have a thick rectangular head with an indistinct frontal pore, a large labrum, and long falcate or sabre-like mandibles whose outer base is often concave and whose inner margin is serrate. Antennae have twelve or thirteen segments, the pronotum is saddle-shaped and much narrower than the head, and the styli are rudimentary. Alates are oval-headed with small protruding eyes, thirteen or fourteen antennal segments, densely hairy brownish wings, and a reduced or absent radial vein.",
-  "soldier": "兵蚁头壳长方形，颇为厚实。额孔不显。后唇基的后缘向上凸起。唇大，末端或圆或平截。颚长，镰刀状至军刀状，颚基外缘多向内凹入，内缘呈锯齿状。触角十二至十三节。前胸背板马鞍形，远窄于头壳。腹刺发育不全。",
+  "soldier": "兵蚁头壳长方形，颇为厚实。额孔不显。后唇基的后缘向上凸起。唇大，末端或圆或平截。颚长，镰刀状至军刀状，颚基外缘多向内凹入，内缘呈锯齿状。触角十二至十三节。前胸背板马鞍形，远窄于头壳。刺突发育不全。",
   "taxonomy_note": "",
   "worker": ""
  },
@@ -240,7 +240,7 @@
   "worker": ""
  },
  "/genus/neotermes/": {
-  "alate": "有翅成虫头部轮廓略呈方形，后侧角宽阔浑圆，两侧及后缘中段较平直。上颚内缘各具两枚缘齿，端齿略长于第一缘齿，左上颚第一缘齿后缘与第二缘齿愈合而长于第三缘齿前缘。上唇短宽如舌。触角十六至十九节，第三节不大于第二节或第四节。复眼颇大，向头下缘外突，其内侧的一对单眼与复眼相接。后颏狭长。前胸背板横长方形，短而宽，宽于头，前缘中央凹口宽弧，后缘中部略凹。前翅鳞大，前缘突出并覆盖后翅鳞，M脉骨化。足细长，距式三比三比三，爪间具中垫，尾须二节。",
+  "alate": "有翅成虫头部轮廓略呈方形，后侧角宽阔浑圆，两侧及后缘中段较平直。上颚内缘各具两枚缘齿，端齿略长于第一缘齿，左上颚第一缘齿后缘与第二缘齿愈合而长于第三缘齿前缘。上唇短宽如舌。触角十六至十九节，第三节不大于第二节或第四节。复眼颇大，向头下缘外突，其内侧的一对单眼与复眼相接。后颏狭长。前胸背板横长方形，短而宽，宽于头，前缘中央凹口宽弧，后缘中部略凹。前翅鳞大，前缘突出并覆盖后翅鳞，M脉骨化。足细长，距式三比三比三，爪间具爪间突，尾须二节。",
   "biology": "新白蚁属为木栖白蚁，常栖于含一定水分的潮湿木材和活树干内，故又称湿木白蚁。除危害树木外，也能加害木结构房屋与经济林木；分飞季节，一对生殖蚁可钻入木材、树桩或建筑木构件中建立新群体，逐渐蔓延为害。",
   "book_name": "新白蚁属 Neotermes",
   "book_ref": "（原书新白蚁属 Neotermes 一节的属级记述重新整理改写）",
@@ -312,14 +312,14 @@
   "worker": "工蚁头背面具Y形缝，触角十三至十四节。左上颚与右上颚端齿的后缘都长于第一缘齿的前缘；左上颚第三缘齿的前缘与后缘几乎等长，第一、第二缘齿已愈合；右上颚端齿与第一缘齿之间的端距，短于第一、第二缘齿之间的端距。胫节距式二比二比二，跗节四节。"
  },
  "/genus/prorhinotermes/": {
-  "alate": "有翅成虫头壳略长于圆，呈卵圆形；额腺孔明晰，孔之前方亦有浅沟。后唇基隆起，宽度远大于长度，具中缝或不具。触角十九至二十二节。前胸背板宽于头壳或稍窄。翅膜少毛，翅脉呈强网状，中脉缺失或自肘脉分出，足胫距三比二比二。",
+  "alate": "有翅成虫头壳略长于圆，呈卵圆形；额腺孔明晰，孔之前方亦有浅沟。后唇基隆起，宽度远大于长度，具中缝或不具。触角十九至二十二节。前胸背板宽于头壳或稍窄。翅膜少毛，翅脉呈强网状，中脉缺失或自肘脉分出，足端距三比二比二。",
   "biology": "原鼻白蚁蛀害多种活立木，亦以枯腐部分为食。单原鼻白蚁分布于加勒比诸岛，并扩散至美国佛罗里达半岛南端，被视为不可忽视的木建筑害虫。该属长期被认为是岛屿分布类群，受害处多营建蜂窝状巢。",
   "book_name": "原鼻白蚁属 Prorhinotermes",
   "book_ref": "（原书原鼻白蚁属 Prorhinotermes 一节的属级记述重新整理改写）",
-  "diagnosis": "兵蚁头壳卵圆形或近梯形，前段较窄；额腺孔明显，孔前有约头长三分之一的浅沟；上颚军刀状，端部弯；胫距三比二比二，触角十六至十九节。",
+  "diagnosis": "兵蚁头壳卵圆形或近梯形，前段较窄；额腺孔明显，孔前有约头长三分之一的浅沟；上颚军刀状，端部弯；端距三比二比二，触角十六至十九节。",
   "distribution": "东洋区、大洋洲、美洲与非洲；中国已知四种，见于云南、海南、台湾及西沙群岛。",
   "en": "Prorhinotermes soldiers have an oval to almost trapezoidal head narrowing anteriorly, a distinct frontal gland pore preceded by a shallow groove about one third of the head length, and antennae of sixteen to nineteen segments. The sabre-like mandibles have a curved apex and a smooth or finely denticulate inner margin; the tibial spur formula is three to two to two. The genus bores living trees, feeds on decayed wood and builds honeycomb nests in the damaged tissue.",
-  "soldier": "兵蚁头壳呈卵圆形或近似梯形，前段比较狭窄。额腺孔清楚，孔的前方有一条浅沟，长度约为头壳的三分之一。复眼清楚或已退化。触角十六至十九节。上颚形如军刀，端部弯曲，内缘光滑，或在基部留有细齿痕迹。足胫距三比二比二。",
+  "soldier": "兵蚁头壳呈卵圆形或近似梯形，前段比较狭窄。额腺孔清楚，孔的前方有一条浅沟，长度约为头壳的三分之一。复眼清楚或已退化。触角十六至十九节。上颚形如军刀，端部弯曲，内缘光滑，或在基部留有细齿痕迹。足端距三比二比二。",
   "taxonomy_note": "",
   "worker": ""
  },
@@ -336,14 +336,14 @@
   "worker": ""
  },
  "/genus/reticulitermes/": {
-  "alate": "有翅成虫体色多深，少数浅淡，头、前胸背板与足的颜色随类群而异。头部近圆形，囟小如点。单眼清晰；后唇基的突出程度因类群而异。触角十六至十九节，左上颚第二缘齿一般与第一缘齿近等长。前翅鳞稍覆盖后翅鳞，翅色深，毛少或呈针刺状，翅面无点斑，横脉较多而连成明显的网纹；足胫距式三比二比二，跗节四节。尾须二节；雄虫的腹刺为一节，雌虫则没有腹刺。",
+  "alate": "有翅成虫体色多深，少数浅淡，头、前胸背板与足的颜色随类群而异。头部近圆形，囟小如点。单眼清晰；后唇基的突出程度因类群而异。触角十六至十九节，左上颚第二缘齿一般与第一缘齿近等长。前翅鳞稍覆盖后翅鳞，翅色深，毛少或呈针刺状，翅面无点斑，横脉较多而连成明显的网纹；足端距式三比二比二，跗节四节。尾须二节；雄虫的刺突为一节，雌虫则没有刺突。",
   "biology": "",
   "book_name": "散白蚁属 Reticulitermes",
   "book_ref": "（原书散白蚁属 Reticulitermes 一节的属级记述重新整理改写）",
-  "diagnosis": "兵蚁头长方形，两侧平行或近之；囟小如点；上唇舌状，唇端半圆并具一对长端毛；上颚细弱至粗强，军刀状或近钩状；胫距三比二比二。",
+  "diagnosis": "兵蚁头长方形，两侧平行或近之；囟小如点；上唇舌状，唇端半圆并具一对长端毛；上颚细弱至粗强，军刀状或近钩状；端距三比二比二。",
   "distribution": "",
   "en": "Reticulitermes soldiers have a rectangular head with parallel sides, a frons ranging from flat to strongly raised, and a minute dot-like fontanelle. The labrum is ligulate with a semicircular tip bearing a pair of long setae; the mandibles vary from slender to stout and sabre-like or hooked, and antennae have fourteen to nineteen segments. The tibial spur formula is three to two to two with four tarsal segments. Alates are mostly dark with sixteen to nineteen antennal segments and reticulate wings.",
-  "soldier": "兵蚁头部呈长方形，两侧平行或接近平行，后缘宽圆或稍平直。额部由平坦至强烈隆起，额峰之间平坦或具沟。囟小，呈点状，很少突出。上唇舌状，唇端半圆形，生一对长端毛；唇端一对长毛之外，亚端毛或细小或稍长，侧端毛的长短因种而异，亦有缺失者。上颚由细弱到粗强，军刀状或弯曲近钩状。触角十四至十九节。足细长，胫距式三比二比二，跗节四节；前胸背板扁平。后颏的腰区狭而长。腹刺单节，尾须二节。",
+  "soldier": "兵蚁头部呈长方形，两侧平行或接近平行，后缘宽圆或稍平直。额部由平坦至强烈隆起，额峰之间平坦或具沟。囟小，呈点状，很少突出。上唇舌状，唇端半圆形，生一对长端毛；唇端一对长毛之外，亚端毛或细小或稍长，侧端毛的长短因种而异，亦有缺失者。上颚由细弱到粗强，军刀状或弯曲近钩状。触角十四至十九节。足细长，端距式三比二比二，跗节四节；前胸背板扁平。后颏的腰区狭而长。刺突单节，尾须二节。",
   "taxonomy_note": "",
   "worker": ""
  },
@@ -396,14 +396,14 @@
   "worker": ""
  },
  "/genus/stylotermes/": {
-  "alate": "有翅成虫体长（不含翅）通常不及兵蚁。囟点极小；后唇基突出程度不一。左上颚上，第一缘齿大于第二缘齿。触角十八至二十二节。前胸背板扁平，窄于头壳。前翅的鳞片较后翅鳞为大，翅膜光裸无毛，脉纹呈网状。腿节并不膨大，胫节距式为三比二比二，跗节三节。尾须二节，且没有腹刺。",
+  "alate": "有翅成虫体长（不含翅）通常不及兵蚁。囟点极小；后唇基突出程度不一。左上颚上，第一缘齿大于第二缘齿。触角十八至二十二节。前胸背板扁平，窄于头壳。前翅的鳞片较后翅鳞为大，翅膜光裸无毛，脉纹呈网状。腿节并不膨大，胫节距式为三比二比二，跗节三节。尾须二节，且没有刺突。",
   "biology": "本属为较为特殊的类群，多从树干伤口钻入木质部，蛀害活树；被害处常有树液外流，严重时外侧堆积深褐色的污泥状排泄物。巢群规模由小到中等。国内见于四川、云南、贵州、广西、广东、海南、福建等地，已知三十四种，国外印度、孟加拉约十种，马来西亚一种。",
   "book_name": "杆白蚁属 Stylotermes",
   "book_ref": "（原书杆白蚁属 Stylotermes 一节的属级记述重新整理改写）",
-  "diagnosis": "兵蚁头壳长方形；上唇半圆形而缺透明端；上颚军刀状粗强，内缘中下方各具一或两枚小钝齿；跗节三节，胫距三比二比二，尾须二节。",
+  "diagnosis": "兵蚁头壳长方形；上唇半圆形而缺透明端；上颚军刀状粗强，内缘中下方各具一或两枚小钝齿；跗节三节，端距三比二比二，尾须二节。",
   "distribution": "东洋区；以中国西南至华南各省区为主，国外见于印度、孟加拉与马来西亚。",
   "en": "Stylotermes soldiers have a rectangular head, a semicircular labrum without a transparent tip, and stout sabre-like mandibles whose inner margins bear one or two small blunt teeth. Antennae have thirteen to nineteen segments, the compound eyes are reduced to dots, and the postmentum is club-shaped with a constricted waist. The tibial spur formula is three to two to two with three tarsal segments, and styli are absent. The genus bores living trunks through wounds, forming small to medium colonies.",
-  "soldier": "兵蚁头壳多呈长方形，少数为卵圆状长方形，囟或小或隆起。唇部半圆，无透明端，唇端突出或平直，唇面生十余根刚毛。上颚军刀状，粗壮有力，内缘中下方各有一或两枚小钝齿。触角十三至十九节。复眼退化为点状，单眼小或缺失。后颏棍棒状，腰区狭缩。前胸背板扁平，窄于头壳。腿节膨大，胫距式三比二比二，跗节三节。无腹刺，尾须二节。",
+  "soldier": "兵蚁头壳多呈长方形，少数为卵圆状长方形，囟或小或隆起。唇部半圆，无透明端，唇端突出或平直，唇面生十余根刚毛。上颚军刀状，粗壮有力，内缘中下方各有一或两枚小钝齿。触角十三至十九节。复眼退化为点状，单眼小或缺失。后颏棍棒状，腰区狭缩。前胸背板扁平，窄于头壳。腿节膨大，端距式三比二比二，跗节三节。无刺突，尾须二节。",
   "taxonomy_note": "因跗节仅三节，有学者主张将本属独立成科，即杆白蚁科。",
   "worker": ""
  },

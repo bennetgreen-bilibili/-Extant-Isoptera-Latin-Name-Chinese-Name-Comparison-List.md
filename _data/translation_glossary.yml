@@ -9,7 +9,7 @@
 #   - 学名（3428 条拉丁名⇄中文正名）由名录自动生成，不在此文件重复；这里只补名录没有的名称。
 #   - 改完内容请把 version +1：页面会用版本号重算译文缓存，旧译文自动失效。
 #   - 形态/解剖术语按《中国白蚁志》等常用译法统一，供人工复核。
-version: 3
+version: 4
 
 # ---- 名录之外补充译名（名录已自动覆盖 3428 条） ----
 extra_names:
@@ -159,6 +159,10 @@ mask:
     zh: 侧板
   - en: cercus
     zh: 尾须
+  - en: stylus
+    zh: 刺突
+  - en: styli
+    zh: 刺突
   - en: exoskeleton
     zh: 外骨骼
   - en: integument
@@ -314,7 +318,7 @@ mask:
   - en: cuticular hydrocarbon
     zh: 表皮碳氢化合物
   - en: tibial spur
-    zh: 胫距
+    zh: 端距
   - en: gut microbiota
     zh: 肠道微生物群
   - en: microbial community
@@ -474,6 +478,41 @@ post_zh:
     to: 上颚
     when:
       - mandible
+  - from: 大颚
+    to: 上颚
+    when:
+      - mandible
+  - from: 针突
+    to: 刺突
+    when:
+      - stylus
+      - styli
+  - from: 腹刺
+    to: 刺突
+    when:
+      - stylus
+      - styli
+  - from: 胫距
+    to: 端距
+    when:
+      - tibial spur
+  - from: 股节
+    to: 腿节
+    when:
+      - femur
+      - femora
+  - from: 中垫
+    to: 爪间突
+    when:
+      - arolium
+  - from: 爪垫
+    to: 爪间突
+    when:
+      - arolium
+  - from: 生殖板
+    to: 下阴片
+    when:
+      - subgenital plate
   - from: 白蚁丘
     to: 蚁丘
     when:

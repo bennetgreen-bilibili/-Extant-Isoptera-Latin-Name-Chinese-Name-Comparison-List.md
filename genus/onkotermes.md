@@ -46,8 +46,8 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-etymology" data-pagefind-ignore>
 <h2>词源</h2>
-<p>属名由希腊文 onkos（肿块、瘤）与拉丁文 termes（白蚁）组合。</p>
-<p class="etymology-en" lang="en">From Greek onkos (swelling, tumor) + Latin termes.</p>
+<p>属名由希腊文 onkos（弯钩、倒钩）与拉丁文 termes（白蚁）组合，指兵蚁头部的钩状突起；希腊文 onkos 亦含「肿块、瘤」义。</p>
+<p class="etymology-en" lang="en">From Greek onkos (bend, hook, barb) + Latin termes. Greek onkos also means "bulk, tumor".</p>
 <!-- src:S0018 -->
 <p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>
 </section>

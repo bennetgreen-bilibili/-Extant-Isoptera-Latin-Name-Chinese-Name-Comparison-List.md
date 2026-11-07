@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 119,
+    "count": 120,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T23:30:58+08:00",
+    "updated": "2026-11-08T00:08:57+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -60,15 +60,36 @@
       "publisher": "科学出版社",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-04T22:35:32+08:00",
+      "accessed": "2026-11-08T00:08:57+08:00",
       "evidence": [
         {
           "quote": "缺少真工蚁的低等白蚁在发育到成虫的过程中，前胸腺经历了相当规律的生长过程",
           "locator": "001-200.txt 第 383 行（卷内页码未标）",
           "note": "支撑：低等白蚁缺少真工蚁、与白蚁科分野的生理背景（v5 段 700–702）；本书列于文末文献。"
+        },
+        {
+          "quote": "胫节的边缘常生有1排硬刺(spine),在胫节 的末端有2或3枚胫节刺，称为端距(tibialspur)",
+          "locator": "001-200.txt 第254行",
+          "note": "支撑：tibial spur=端距 的显式定义；据此定规范译名「端距/端距式」，改「胫距/胫距式」。OCR 原样（跑节=跗节）。"
+        },
+        {
+          "quote": "乳白蚁的雄性有1对针突，雌性缺针突。第10腹片中间分开，在两侧缘上有尾须",
+          "locator": "001-200.txt 第265行",
+          "note": "支撑：针突=stylus 旧译；据此统一为「刺突」。"
+        },
+        {
+          "quote": "针突（styli）短，不超过腹部",
+          "locator": "001-200.txt 第1580行",
+          "note": "支撑：针突=styli 旧译；据此统一为「刺突」。"
+        },
+        {
+          "quote": "胫距3： （2〜5） : （3〜5）",
+          "locator": "001-200.txt 第1591行",
+          "note": "支撑：胫距=端距 的异译；据此改「端距式」。"
         }
       ],
       "used_in": [
+        "_data/translation_glossary.yml",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "id": "S0001"
@@ -144,7 +165,7 @@
       "publisher": "中译合集",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-04T22:35:32+08:00",
+      "accessed": "2026-11-08T00:08:57+08:00",
       "evidence": [
         {
           "quote": "广义的拟工蚁或假工蚁，定义为个体作为一种 功能分类完成工作，而其余的发展灵活。其区分于真工蚁的后期特征是产生了早期的 和不可逆转的发展分支，失去了继续分化为有翅蚁的可能。",
@@ -180,9 +201,15 @@
           "quote": "这些是否为真工蚁尚不能确定",
           "locator": "第 6 章 6.5.1 / 101-200.txt 第 414 行",
           "note": "支撑：沙白蚁属真工蚁未定（v5 段 700）"
+        },
+        {
+          "quote": "成熟雄 虫通常在第九腹板的末端具有一对针突(styli)(不分节)，但依据种类不同有所变化。",
+          "locator": "001-100.txt 第323行",
+          "note": "支撑：针突(styli)=stylus 旧译；据此统一为「刺突」。"
         }
       ],
       "used_in": [
+        "_data/translation_glossary.yml",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "id": "S0002"
@@ -313,7 +340,7 @@
       "publisher": "科学出版社",
       "reliability": "primary",
       "lang": "zh",
-      "accessed": "2026-11-07T20:33:17+08:00",
+      "accessed": "2026-11-08T00:08:57+08:00",
       "evidence": [
         {
           "quote": "前翅鳞显著大于后翅鳞，而白蚁科的前、后翅鳞约为同等大小",
@@ -389,11 +416,42 @@
           "quote": "兵蚁具二态：\n大兵  头形较短宽，似方形，囟圆形，开口位于两触角窝之间，孔口前方具纵沟伸 达唇端；上颚强壮，粗或扁宽，前部较内弯，左上颚内缘具2枚大齿，右上颚内缘具2 枚齿(或第2枚缘齿能见稍突出的齿痕迹)。上唇颇短宽，两侧近中部稍突出，呈六边 形，前沿中央略凹，端部具透明区，沿前缘具一排刷状短毛。触角16—17节。\n小兵  头形稍狭长，凶圆形，开 口 ，位 于触角窝之间，孔口前方具纵沟伸至唇端； 上颚较细直，仅端部略弯，左上颚内缘具2枚缘齿，右上颚内缘具1枚缘齿；上唇较狭  长，两侧中部略收缩呈腰，端部透明区中央略凹，凹口两侧呈圆弧形两叶，沿前缘具一  排刷状短毛，唇端伸过或伸达近颚端；触角13—16节。",
           "locator": "301-400.txt 第 227–229 行",
           "note": "支撑：棘白蚁属 Schedorhinotermes 属级「兵蚁具二态」大兵+小兵（二型，站点正确）。OCR「凶圆形」=「囟圆形」"
+        },
+        {
+          "quote": "胫节侧缘常生一列硬刺，末端有2—3枚端距",
+          "locator": "001-100.txt 第272行",
+          "note": "支撑：端距=规范译名；据此改「胫距」。同段末「木白蚁科有些种类有爪间突」支撑 arolium=爪间突。"
+        },
+        {
+          "quote": "在一些原始的白蚁雄虫中，其第9腹板 后缘中部常有1对不分节的刺突",
+          "locator": "001-100.txt 第274行",
+          "note": "支撑：刺突=stylus 规范译名；据此改「针突/腹刺」。"
+        },
+        {
+          "quote": "第7腹板(或称下 阴片，生殖板或亚生殖板等)延长",
+          "locator": "001-100.txt 第274行",
+          "note": "支撑：下阴片/生殖板/亚生殖板 同物异名；据此 subgenital plate=下阴片，改「生殖板」。"
+        },
+        {
+          "quote": "胫节有3个端距，跗节4节。",
+          "locator": "101-200.txt 第1142行",
+          "note": "支撑：端距=胫节末端距（「胫节有3个端距」）；据此改「胫距」。"
+        },
+        {
+          "quote": "胫距式：3:3:3;跗节4节。",
+          "locator": "201-300.txt 第156行",
+          "note": "支撑：胫距式=端距式 异译；据此改「端距式」。"
+        },
+        {
+          "quote": "雄虫具单节腹刺，雌虫缺腹刺，尾须2节。",
+          "locator": "301-400.txt 第993行",
+          "note": "支撑：腹刺=stylus 旧译；据此统一为「刺突」。"
         }
       ],
       "used_in": [
         "_data/fauna_genera.json",
         "_data/morphology_genera.json",
+        "_data/translation_glossary.yml",
         "_tools/fauna/morphology/descriptions/06-holmgren.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
@@ -7429,6 +7487,34 @@
       "accessed": "2026-11-07T23:30:58+08:00",
       "canonical_key": "url:https://en.wiktionary.org/wiki/luluai",
       "id": "S0120"
+    },
+    {
+      "title": "ὄγκος - Wiktionary, the free dictionary",
+      "source_type": "web",
+      "reliability": "reference",
+      "url": "https://en.wiktionary.org/wiki/%E1%BD%84%CE%B3%CE%BA%CE%BF%CF%82",
+      "lang": "en",
+      "license": "CC BY-SA 3.0",
+      "retrieved_via": "web_fetch",
+      "year": null,
+      "evidence": [
+        {
+          "quote": "Etymology 1 ... from Proto-Hellenic *ónkos (\"bend\"), from Proto-Indo-European *h₂ónkos (\"bend, hook\"). Cognates include Latin uncus ... Noun: ὄγκος (ónkos) m ... bend, curve, angle; barb, grapple, hook",
+          "locator": "Entry ὄγκος, Etymology 1",
+          "note": "支撑：onkos 的「弯钩、倒钩」义项（Onkotermes 属名、中文属名「倒钩白蚁属」取此义）"
+        },
+        {
+          "quote": "Etymology 2 ... Noun: ὄγκος (ónkos) m ... bulk, volume, mass, heap, weight; tumor ... (also) protuberance",
+          "locator": "Entry ὄγκος, Etymology 2",
+          "note": "支撑：onkos 的「肿块、瘤、隆起」义项（医学 oncology 同源；corochus 中文名「瘤额」对应此义）"
+        }
+      ],
+      "used_in": [
+        "_data/etymology.json"
+      ],
+      "accessed": "2026-11-07T23:48:19+08:00",
+      "canonical_key": "url:https://en.wiktionary.org/wiki/%E1%BD%84%CE%B3%CE%BA%CE%BF%CF%82",
+      "id": "S0121"
     }
   ]
 }
