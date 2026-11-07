@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 114,
+    "count": 115,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T20:33:17+08:00",
+    "updated": "2026-11-07T20:57:37+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -7039,6 +7039,76 @@
         }
       ],
       "id": "S0115"
+    },
+    {
+      "title": "Revisiting a Chinese Endemic Termite Genus of Building Timber Pests: Mitochondrial Genomic and Morphological Dissection and Phylogenetic Positioning of Xiaitermes Gao & He, 1994 (Termitidae: Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3390/insects17060602",
+      "file_path": "_unpublished/文库/xiaitermes-revision-2026",
+      "chars": 40108,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-07T20:58:00+08:00",
+      "notes": "全文存于 _unpublished/文库/xiaitermes-revision-2026（40108 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "xiaitermes-revision-2026",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T20:55:01",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/xiaitermes-revision-2026/full.txt",
+            "chars": 40108,
+            "paragraphs": 561,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\xiaitermes2026.xml",
+            "sha256": "9417b04935b019e8d6033ad5b195c9aa24eb268791dd3a250f2f14dd80e3495d",
+            "bytes": 40289
+          }
+        ]
+      },
+      "authors": [
+        "Ye F.",
+        "Ke Y. L.",
+        "Li Z. Q."
+      ],
+      "year": 2026,
+      "publisher": "MDPI",
+      "lang": "en",
+      "license": "CC-BY",
+      "doi": "10.3390/insects17060602",
+      "url": "https://doi.org/10.3390/insects17060602",
+      "used_in": [
+        "_data/fauna_genera.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The soldiers of X. yinxianensis are dimorphic, whereas those of X. tiantaiensis are monomorphic.",
+          "locator": "Introduction",
+          "note": "支撑：鄞县夏氏白蚁兵蚁二型，天台夏氏白蚁兵蚁单型（归并前的形态差异）"
+        },
+        {
+          "quote": "Integrated molecular and morphological evidence confirmed that X. tiantaiensis is a junior synonym of X. yinxianensis.",
+          "locator": "Abstract",
+          "note": "支撑：tiantaiensis 为 yinxianensis 的次异名，Xiaitermes 现为单型属"
+        },
+        {
+          "quote": "Morphological comparison revealed that the soldiers of X. tiantaiensis and the minor soldiers of X. yinxianensis were similar (Figure 3).",
+          "locator": "§3.3",
+          "note": "支撑：tiantaiensis 兵蚁即 yinxianensis 的小兵形态"
+        },
+        {
+          "quote": "The ranges of the seven main morphological measurements overlapped extensively, with no significant differences.",
+          "locator": "§3.3",
+          "note": "支撑：七项量度无显著差异，支持归并"
+        },
+        {
+          "quote": "Alignment of COII gene of X. tiantaiensis and X. yinxianensis revealed that they share an identical haplotype. Furthermore, the mitogenomes of both species also exhibited a high degree of similarity, with 99.9% sequence identity.",
+          "locator": "§3.3",
+          "note": "支撑：分子证据——COII 同一单倍型、线粒体基因组 99.9% 一致"
+        }
+      ],
+      "id": "S0116"
     }
   ]
 }

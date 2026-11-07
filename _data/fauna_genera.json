@@ -412,11 +412,11 @@
   "biology": "",
   "book_name": "夏氏白蚁属 Xiaitermes",
   "book_ref": "（原书夏氏白蚁属 Xiaitermes 一节的属级记述重新整理改写）",
-  "diagnosis": "兵蚁单型或二型，头宽圆而宽大于长，象鼻呈圆管状、端部略上翘，鼻基两侧各具一小突起，触角窝后方不收缩，上颚端齿钝而不显，前胸背板前缘斜翘，触角十三至十四节。",
+  "diagnosis": "兵蚁分大、小二型，头宽圆而宽大于长，象鼻呈圆管状、端部略上翘，鼻基两侧各具一小突起，触角窝后方不收缩，上颚端齿钝而不显，前胸背板前缘斜翘，触角十三至十四节。",
   "distribution": "东洋区；我国浙江等亚热带地区有记录，多分布于低山丘陵。",
-  "en": "Soldiers are monomorphic or dimorphic (X. yinxianensis has major and minor soldiers, X. tiantaiensis a single form). They are nearly bare apart from a few hairs at the nasus tip. The head is broad and rounded, wider than long; the nasus is tubular, slightly upturned at the tip in profile, with a small tubercle on each side at its base. The head is not constricted behind the antennal sockets, antennae are 13 or 14 segmented, and the mandibular apical teeth are blunt or indistinct. Workers have a round fontanelle pit just behind the T-shaped suture. The genus is Oriental.",
-  "soldier": "兵蚁单型或二型（鄞县夏氏白蚁 X. yinxianensis 分大、小兵，天台夏氏白蚁 X. tiantaiensis 单型）。头壳近乎光裸，象鼻端部仅有少许短毛。头宽圆，宽大于长；象鼻呈圆管状，侧面观其端部微微翘起，鼻基两侧各有一小突起。触角窝后方不收缩，触角十三至十四节。上颚端齿呈钝角或不明显。前胸背板前缘斜向翘起，中央凹入，后缘宽阔而较平。后足胫节偏短；胫节距式为二比二比二，跗节四节。",
-  "taxonomy_note": "",
-  "worker": "工蚁单型或二型。头面具稀疏毛，轮廓宽而圆，触角窝之后方最为宽阔；囟呈圆形凹坑状，处于T形缝交叉点的正后方；后唇基隆起。触角十四至十五节。前胸背板宽阔，其前缘中部内凹。后足胫节偏短。"
+  "en": "Soldiers are dimorphic (major and minor). They are nearly bare apart from a few hairs at the nasus tip. The head is broad and rounded, wider than long; the nasus is tubular, slightly upturned at the tip in profile, with a small tubercle on each side at its base. The head is not constricted behind the antennal sockets, antennae are 13 or 14 segmented, and the mandibular apical teeth are blunt or indistinct. Workers are dimorphic (major and minor), with a round fontanelle pit just behind the T-shaped suture. The genus is Oriental and monotypic.",
+  "soldier": "兵蚁分大、小二型。头壳近乎光裸，象鼻端部仅有少许短毛。头宽圆，宽大于长；象鼻呈圆管状，侧面观其端部微微翘起，鼻基两侧各有一小突起。触角窝后方不收缩，触角十三至十四节。上颚端齿呈钝角或不明显。前胸背板前缘斜向翘起，中央凹入，后缘宽阔而较平。后足胫节偏短；胫节距式为二比二比二，跗节四节。",
+  "taxonomy_note": "原书分种检索表记两种：鄞县夏氏白蚁 X. yinxianensis 与天台夏氏白蚁 X. tiantaiensis。Ye et al. 2026（Insects 17(6):602）据线粒体基因组与形态证据将 X. tiantaiensis 并入 X. yinxianensis（次异名），故本属现为单型属；tiantaiensis 所谓「兵蚁单型」实为 yinxianensis 的小兵形态。",
+  "worker": "工蚁分大、小二型。头面具稀疏毛，轮廓宽而圆，触角窝之后方最为宽阔；囟呈圆形凹坑状，处于T形缝交叉点的正后方；后唇基隆起。触角十四至十五节。前胸背板宽阔，其前缘中部内凹。后足胫节偏短。"
  }
 }
