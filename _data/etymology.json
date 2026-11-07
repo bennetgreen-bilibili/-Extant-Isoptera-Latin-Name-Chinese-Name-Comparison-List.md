@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "sources": [
       "S0004",
       "S0018",
@@ -6807,8 +6807,8 @@
       "en": "Tupi mirim (small)"
     },
     "mirogulus": {
-      "zh": "词源未详（中文原始描述无在线全文）",
-      "en": "Etymology uncertain (Chinese original description not accessible online)"
+      "zh": "种加词由拉丁语 mirus（奇妙的、奇特的）与 gula（咽喉、颏；昆虫学术语指头部腹面的外咽片）组合，指兵蚁颏部（外咽片）的奇特形态。",
+      "en": "From Latin mirus (wonderful, strange) + gula (throat, gullet; in entomology the gular plate on the underside of the head), referring to the distinctive gula of the soldier."
     },
     "mirus": {
       "zh": "拉丁文 mirus（奇异的）",
