@@ -1,0 +1,27 @@
+{
+  "/genus/eleanoritermes/": {
+    "zh_name": "埃莉诺白蚁属",
+    "sections": [
+      {
+        "label": "鉴别要点",
+        "text": "单种属（Eleanoritermes borneensis Ahmad，婆罗洲）。与 Niuginitermes 相似，但肠瓣位置更靠前、其上 3 个隆起仅具少数小棘而弱武装；马氏管彼此紧邻插入。"
+      },
+      {
+        "label": "兵蚁",
+        "text": "触角 11 节；上颚无齿（无尖点）。"
+      },
+      {
+        "label": "工蚁",
+        "text": "触角 12 节；肠瓣位置较前、3 个隆起弱武装、马氏管彼此紧邻插入（详鉴别要点）。"
+      }
+    ],
+    "sources": [
+      {
+        "id": "S0049",
+        "citation": "Roisin, Y.; Pasteels, J. M. 1996. The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy 10: 507–616.",
+        "locator": "p. 579"
+      }
+    ],
+    "note": "仅据 Roisin & Pasteels 1996 在 Niuginitermes 近缘属讨论中的比较性诊断；原始描述见 Ahmad 1968（Bulletin of the Department of Zoology, University of the Panjab 3）。有翅成虫未描述。"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 115,
+    "count": 117,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-07T20:57:37+08:00",
+    "updated": "2026-11-07T22:13:02+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -3120,16 +3120,28 @@
           "quote": "Soldier Small to medium-sized nasutes, closely allied to Nasutitermes. Soldier caste monomorphic. Head capsule without constriction behind antennae. Antennae 12-segmented. Mandibles with points.",
           "locator": "pp. 572–573（Genus Niuginitermes gen. nov.，Soldier）",
           "note": "支撑：新几内亚白蚁属兵蚁单型、头壳触角后无缢缩、触角 12 节、上颚具尖"
+        },
+        {
+          "quote": "Although originally thought to be related to Subulitermes (Ahmad 1968), the monotypic genus Eleanoritermes Ahmad (Figs 94-96), from Borneo, also resembles Niuginitermes, but differs from it by the enteric valve positioned more anteriorly, weakly armed with few small spines on 3 swellings (Fig. 93), and malpighian tubules inserted contiguously.",
+          "locator": "p. 579",
+          "note": "Eleanoritermes 属级比较性诊断；双栏 pdftotext 图号 '9 3' 已校正为 93。"
+        },
+        {
+          "quote": "In addition, the soldier of E. borneensis Ahmad has 11-segmented antennae and mandibles without points, the worker 12-segmented antennae.",
+          "locator": "p. 579",
+          "note": "兵蚁与工蚁触角；OCR 漏字 'bomeensis'/'1 1-segmented' 已校正为 borneensis/11-segmented。"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
         "_tools/fauna/morphology/descriptions/04-6.json",
-        "_tools/fauna/morphology/descriptions/10-zsi-books.json"
+        "_tools/fauna/morphology/descriptions/10-zsi-books.json",
+        "_tools/fauna/morphology/descriptions/23-eleanoritermes.json"
       ],
-      "accessed": "2026-11-07T16:03:57+08:00",
+      "accessed": "2026-11-07T22:13:02+08:00",
       "canonical_key": "doi:10.1071/it9960507",
-      "id": "S0049"
+      "id": "S0049",
+      "url": "https://www.publish.csiro.au/IT/IT9960507"
     },
     {
       "title": "Roisinitermes ebogoensis gen. & sp. n., an outstanding drywood termite with snapping soldiers from Cameroon (Isoptera, Kalotermitidae)",
@@ -7109,6 +7121,197 @@
         }
       ],
       "id": "S0116"
+    },
+    {
+      "title": "Spiralitermes jurupari, a New Genus and Species of Soldierless Termites (Blattodea: Termitidae) From the Amazon Rainforest",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/aen.70084",
+      "file_path": "_unpublished/文库/Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod",
+      "chars": 26193,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T22:03:38+08:00",
+      "notes": "全文存于 _unpublished/文库/Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod（26193 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；Wiley 开放获取；PDF 为无文字层扫描件，全文经本机 Tesseract 5.5 OCR（eng）提取，个别字符可能有 OCR 噪声。",
+      "library": {
+        "book": "Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T22:01:51",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod/full.txt",
+            "chars": 26193,
+            "paragraphs": 569,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\ocr\\spiralitermes\\combined.txt",
+            "sha256": "c5a60b48994491703990316034ae6fb03264648ba9fcc82aa6756914e96b0de2",
+            "bytes": 26370
+          }
+        ]
+      },
+      "authors": [
+        "Almeida-Azevedo R.",
+        "Rocha M.",
+        "de Morais J. W.",
+        "de Azevedo R. A."
+      ],
+      "year": 2026,
+      "publisher": "Austral Entomology 65: e70084",
+      "lang": "en",
+      "license": "CC-BY",
+      "doi": "10.1111/aen.70084",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/21-spiralitermes2026.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The new genus is distinguished from other morphologically related genera by having an extremely elongated first proctodeal segment, forming a spiral in the distal region of the abdomen, completing a full turn along the body axis before connecting to P3 on the right side, in ventral view (Figure 2C).",
+          "locator": "p. 3",
+          "note": "支撑：属级诊断——P1 极长螺旋。"
+        },
+        {
+          "quote": "Furthermore, the new genus has an unarmed enteric valve (Figure 2G,H), a characteristic also observed in genera such as Mangolditermes and Tucupitermes. However, none of these genera have spines directed toward P1 (Figure 2G,H).",
+          "locator": "p. 3",
+          "note": "支撑：鉴别要点——无刺肠瓣 + 棘朝向 P1。"
+        },
+        {
+          "quote": "Head capsule light yellow with many short and sparse setae distributed throughout the length of the head capsule (Figure 1A,B). Fontanelle conspicuous, oval in shape, and white (Figure 1B). Postclypeus appears slightly inflated, with only a few short setae (Figure 1A,B).",
+          "locator": "p. 4",
+          "note": "支撑：工蚁头部外部形态。"
+        },
+        {
+          "quote": "Labrum convex, with some setae that are thicker than those of the head capsule (Figure 1B). Antenna with 13 antennomeres, with antennomere I>II, III < others (Figure 1A,B).",
+          "locator": "p. 4",
+          "note": "支撑：上唇、触角 13 节。"
+        },
+        {
+          "quote": "Left mandible with apical tooth slightly shorter than M1+2 (Figure 1C); typical Neotropical Apicotermitinae incision pronounced between M1+2 and M3; tooth M3 not very prominent; molar process completely occluded by the molar prominence, which projects to the same length as M1 + 2 (Figure 1C).",
+          "locator": "p. 4",
+          "note": "支撑：左颚齿列与臼齿突。"
+        },
+        {
+          "quote": "P1 extremely elongated and visible in all four perspectives (Figure 2A-D), starting on the left side of the body and forming a pronounced S-shape in the left lateral view (Figure 2D). P1 very elongated, sinuous in left lateral view (Figure 2D), forming a complete loop ventrally.",
+          "locator": "p. 5",
+          "note": "支撑：消化管 P1 走向。"
+        },
+        {
+          "quote": "It is inserted into P3 on a well-marked enteric valve seating (Figure 2F). Enteric valve seating unlobed and funnel-shaped (Figure 2C,F).",
+          "locator": "p. 5",
+          "note": "支撑：肠瓣座不分叶、漏斗状。"
+        },
+        {
+          "quote": "Enteric valve unarmed, with six symmetrical lobes, each ornamented with spines in the proximal median region and oriented toward P1 (Figure 2G,H). The size of the spines gradually decreases as they extend away from the apex of the enteric valve (Figure 2G,H).",
+          "locator": "p. 5",
+          "note": "支撑：肠瓣无刺、六瓣、棘朝向 P1。"
+        },
+        {
+          "quote": "Head width 0.68-0.90 (0.80)\nHead length 0.75-0.85 (0.83)\nHind tibia length 0.73-0.85 (0.78)\nPronotum width 0.43-0.48 (0.46)\nFore tibia width/length ratio 0.36-0.24 (0.30)\nNumber of specimens 30",
+          "locator": "p. 5 (Table 1)",
+          "note": "支撑：工蚁量度（mm，均值括号内）。"
+        }
+      ],
+      "id": "S0117"
+    },
+    {
+      "title": "Monographie der Termiten Afrikas",
+      "source_type": "book",
+      "reliability": "primary",
+      "canonical_key": "url:https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
+      "file_path": "_unpublished/文库/Monographie-der-Termiten-Afrikas",
+      "chars": 672490,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-07T22:08:51+08:00",
+      "notes": "全文存于 _unpublished/文库/Monographie-der-Termiten-Afrikas（672490 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；德文 Fraktur 老刊；archive.org 数字化本自带 OCR（djvu.txt），转写有 Fraktur 认读噪声（如 Hagen→Hägen/Hagks、Calotermes→CnUermes 等），引用须对照原书页影核实。Hodotermes 属级描述在 pp. 22–23（1900 年其为广义属，含今 Stolotermes/Porotermes 亚属）。",
+      "library": {
+        "book": "Monographie-der-Termiten-Afrikas",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-07T22:07:13",
+        "chunks": [
+          {
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/Monographie-der-Termiten-Afrikas/part-001.txt",
+            "chars": 199967,
+            "paragraphs": 4478,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\sjostedt1900_monographie_djvu.txt",
+            "sha256": "a2d388963d89851a8fe62d52fd7abc340a9face90f106716a4c58c58d22a07ef",
+            "bytes": 202625
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/Monographie-der-Termiten-Afrikas/part-002.txt",
+            "chars": 199943,
+            "paragraphs": 4651,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\sjostedt1900_monographie_djvu.txt",
+            "sha256": "bddfc22a0d409648e6191117bb4fd5a267c5b2e15a76616331f37fb8d7d4c854",
+            "bytes": 202947
+          },
+          {
+            "chunk": "part-003",
+            "txt": "_unpublished/文库/Monographie-der-Termiten-Afrikas/part-003.txt",
+            "chars": 200000,
+            "paragraphs": 5929,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\sjostedt1900_monographie_djvu.txt",
+            "sha256": "fad445851fc34dfb00cae8b494d01a847b4ffc2f952e775885030fe437fe7fab",
+            "bytes": 202771
+          },
+          {
+            "chunk": "part-004",
+            "txt": "_unpublished/文库/Monographie-der-Termiten-Afrikas/part-004.txt",
+            "chars": 72580,
+            "paragraphs": 6495,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\pdfs\\genus-hunt\\ia\\sjostedt1900_monographie_djvu.txt",
+            "sha256": "fac356add1146a8c9ef5ed33649d59257f928863b46fa57568acbe4fd1fdc278",
+            "bytes": 74724
+          }
+        ]
+      },
+      "authors": [
+        "Sjöstedt Y."
+      ],
+      "year": 1900,
+      "publisher": "Kungliga Svenska Vetenskaps-Akademiens Handlingar 34(4): 1–187",
+      "lang": "de",
+      "url": "https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
+      "used_in": [
+        "_tools/fauna/morphology/descriptions/22-sjostedt1900.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Imago alata: capite magno, orbiculari, ocellis nullis, prothorace parvo, area costali venosa, plantula nulla.",
+          "locator": "p. 22",
+          "note": "拉丁属级诊断；Fraktur OCR 明显字形已校正（rapite→capite、ntdlk→nullis、cenosa→venosa 等）。"
+        },
+        {
+          "quote": "Kopf gross, rund; Epistom nicht aufgeblasen; Augen flach, nicht stark vorspringend; Ocellen nur als gelbe Flecke angedeutet; Fühler mit 23–30 an der Basis sehr kleinen, kugeligen, nach aussen allmählich etwas verlängerten Gliedern; Fontanellengrube fehlt; Prothorax nicht rektangulär, sondern eher herzförmig, sattelförmig",
+          "locator": "p. 22 (Geflügelte Imago)",
+          "note": "有翅成虫；Fraktur OCR 校正（gros»→gross、Occllcn→Ocellen、simdermu→sondern）。"
+        },
+        {
+          "quote": "die Subcosta durchsetzt das Costalfeld mit mehreren Zweigen; die Mediana und Submediana der Vorderflügel gehen getrennt von der Schuppe aus; Flügelmembran von zahlreichen, kleinen, unregelmässigen Zweigen durchsetzt; das erste Tarsalglied länger als die zwei folgenden. Appendices anales beim ♂ und ♀ vorhanden.",
+          "locator": "p. 22 (Geflügelte Imago)",
+          "note": "翅脉与跗节、尾须；Fraktur OCR 校正。"
+        },
+        {
+          "quote": "Deutliche schwarze Facettenaugen stets vorhanden. Kopf gross, etwas abgerundet, quadratisch oder kurz rektangular, heller oder dunkler gelbrot, ohne Fontanellenhöhle; Mandibeln kurzer als der Kopf, sehr kraftig, immer mit deutlichen Zahnen längs des Innenrandes, mehr Zahne in der linken als in der rechten Mandibel, an der Spitze eingebogen; Oberlippe kurz und breit; Fühler 27–30-gliedrig",
+          "locator": "p. 22 (Soldat)",
+          "note": "兵蚁；kraftig=kraftig、Zahnen/Zahne=Zähnen/Zähne（Fraktur 无 umlaut）。"
+        },
+        {
+          "quote": "Prothorax mehr herzförmig, nicht quer-rektangulär, sattelförmig mit herabgebogenen, ausgehöhlten, etwas hervorstehenden Vorderecken; Meso- und Metathorax so breit wie der Prothorax, ziemlich flach, rektangular mit abgerundeten, dünnen, aufgebogenen Seiten, breiter als der Hinterleib; letztes Tarsalglied so lang wie die anderen zusammen; Kopf und Körper glänzend, wie lackiert.",
+          "locator": "p. 22 (Soldat)",
+          "note": "兵蚁胸部与跗节；Fraktur OCR 校正。"
+        },
+        {
+          "quote": "Deutliche schwarze Facettenaugen stets vorhanden. Kopf gelblich bis gelbrot, kreisförmig; Epistom schmal; die zwei ersten Zähne der Mandibeln klein, gleich gross; Fühler 24–32-gliedrig; Thorax viel schmaler als der Kopf und der Hinterleib, von den Hinterleibssegmenten deutlich verschieden",
+          "locator": "p. 22 (Arbeiter)",
+          "note": "工蚁；Fraktur OCR 校正。"
+        }
+      ],
+      "id": "S0118"
     }
   ]
 }
