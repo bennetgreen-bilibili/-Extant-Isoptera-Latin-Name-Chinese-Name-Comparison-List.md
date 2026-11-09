@@ -1,17 +1,17 @@
 {
   "format": "dsh-library-vault/1",
-  "created": "2026-11-09T15:13:02+0000",
+  "created": "2026-11-09T16:02:32+0000",
   "cipher": "aes-256-ctr+hmac-sha256",
   "kdf": {
     "alg": "scrypt",
-    "salt": "4fe49b3c0dfe4635f199d206af518d87",
-    "iv": "d62f8387a4027902248349b64f863b0a",
+    "salt": "d5e9a2d29226b185dfe4cce0ab277aab",
+    "iv": "8ee3aa9cec0cca76252afe77b7f493d5",
     "n": 16384,
     "r": 8,
     "p": 1,
     "dklen": 64
   },
-  "mac": "d5d050464ec63fd55bd7aeb1e81a4936a0c5d8c88fd7c8865c2181016175fd90",
+  "mac": "4c2f5f986cd3ab560d3cf720d9b257938019a5ee13d303758af846db08052ac3",
   "plain": {
     "file": "library.tar.gz",
     "bytes": 86230854,
@@ -19,28 +19,28 @@
   },
   "ciphertext": {
     "bytes": 86230854,
-    "sha256": "793ba5becda3a5e456caa19b5eea1c55566facf00b755944ad500b386d5debc9"
+    "sha256": "867ad5b19b57bae39fc8f08d41a762e459bb4acf0f0a8ff72ac99504175bcf13"
   },
   "parts": [
     {
       "name": "part-000.bin",
       "bytes": 24000000,
-      "sha256": "ae99ba4f597551d36de8bfc52b402c95bd19b30a3d3257d5be618e19907653e9"
+      "sha256": "ef4a34a25aeb4d8e29b5b1c61ed9e767e858f5d37ba54ac0718018bf8d0e9cdb"
     },
     {
       "name": "part-001.bin",
       "bytes": 24000000,
-      "sha256": "00c902c7a4a60923a48363c43b412afa2aad15a43206b6694d2bcaaf0cc2f9ea"
+      "sha256": "b4d4983eaf5db52a96ea63e8dc1352949fbd49c8637354cbc2b7089bb46f7b0a"
     },
     {
       "name": "part-002.bin",
       "bytes": 24000000,
-      "sha256": "b9579d30a917c3f05c073d70a6b0592041d3abd7fffab6e91551be2e9a4f012e"
+      "sha256": "8d67800ee388f33e6694748db242fe107b9dc70b482c124bd6dcf3d33809244d"
     },
     {
       "name": "part-003.bin",
       "bytes": 14230854,
-      "sha256": "ef3aed1597c31f5532d26bc272319dc2ec3b61c05bf3b969cffe7f6a72c79b19"
+      "sha256": "72f4a50b4d456db1ed05462d0e225946f57328848f98241df37d636f6e0a7d9f"
     }
   ],
   "stats": {
