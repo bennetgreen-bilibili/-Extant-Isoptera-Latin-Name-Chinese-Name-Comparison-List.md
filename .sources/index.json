@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 132,
+    "count": 137,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-08T02:11:38+08:00",
+    "updated": "2026-11-09T21:45:07+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -7827,6 +7827,208 @@
       "accessed": "2026-11-08T02:11:38+08:00",
       "canonical_key": "url:https://archive.org/details/newspeciesgenus2089kris",
       "id": "S0133"
+    },
+    {
+      "title": "The caste- and sex-specific DNA methylome of the termite Zootermopsis nevadensis",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1038/srep37110",
+      "file_path": "_unpublished/文库/The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis",
+      "chars": 69841,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-09T21:27:41+08:00",
+      "notes": "全文存于 _unpublished/文库/The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis（69841 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-09T21:27:41",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/The-caste-and-sex-specific-DNA-methylome-of-the-termite-Zootermopsis-nevadensis/full.txt",
+            "chars": 69841,
+            "paragraphs": 523,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "7dfa8b20d91143807ebf5dab72e2db3a64e78ed015d5aa97696cbdc01634a515",
+            "bytes": 70132
+          }
+        ]
+      },
+      "authors": [
+        "Karl M. Glastad",
+        "Kaustubh Gokhale",
+        "Jürgen Liebig",
+        "Michael A. D. Goodisman"
+      ],
+      "year": 2016,
+      "publisher": "Nature Portfolio",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.1038/srep37110",
+      "url": "https://www.nature.com/articles/srep37110.pdf",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0134"
+    },
+    {
+      "title": "A molecular survey of Australian and North American termite genera indicates that vertical inheritance is the primary force shaping termite gut microbiomes",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1186/s40168-015-0067-8",
+      "file_path": "_unpublished/文库/A-molecular-survey-of-Australian-and-North-American-termite-genera-indicates-tha",
+      "chars": 71436,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-09T21:28:30+08:00",
+      "notes": "全文存于 _unpublished/文库/A-molecular-survey-of-Australian-and-North-American-termite-genera-indicates-tha（71436 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "A-molecular-survey-of-Australian-and-North-American-termite-genera-indicates-tha",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-09T21:28:30",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/A-molecular-survey-of-Australian-and-North-American-termite-genera-indicates-tha/full.txt",
+            "chars": 71436,
+            "paragraphs": 484,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.xml",
+            "sha256": "f41cd7559efc6dc86bbb0bf6d8ad28d1b2f1d760a77f08ad3f004af3296b217f",
+            "bytes": 71642
+          }
+        ]
+      },
+      "authors": [
+        "Nurdyana Abdul Rahman",
+        "Donovan H. Parks",
+        "Dana L. Willner",
+        "Anna L Engelbrektson",
+        "Shana K. Goffredi",
+        "Falk Warnecke",
+        "Rudolf H. Scheffrahn",
+        "Philip Hugenholtz"
+      ],
+      "year": 2015,
+      "publisher": "BioMed Central",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.1186/s40168-015-0067-8",
+      "url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-015-0067-8",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0135"
+    },
+    {
+      "title": "The mound-building termite Macrotermes michaelseni as an ecosystem engineer",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1017/s0266467498000364",
+      "authors": [
+        "J. Mark Dangerfield",
+        "T.S. McCarthy",
+        "William N. Ellery"
+      ],
+      "year": 1998,
+      "publisher": "Journal of Tropical Ecology",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Many organisms create or alter resource flows that affect the composition and spatial arrangement of current and future organismal diversity. The phenomenon called ecosystem engineering is considered with a case study of the mound building termite Macrotermes michaelseni. It is argued that this species acts as an ecosystem engineer across a range of spatial scales, from alteration of local infiltr",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ation rates to the creation of landscape mosaics, and that its impacts accrue because of the initiation of biophysical processes that often include feedback mechanisms. These changes to resource flows are likely to persist for long periods and constrain the biological structure of the habitat. The value of ecosystem engineering is discussed as a holistic way of understanding the complexity of trop",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ical ecology.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 813 字）。",
+      "accessed": "2026-11-09T21:44:17+08:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1017/s0266467498000364",
+      "id": "S0136"
+    },
+    {
+      "title": "Keys to Soldier and Winged Adult Termites (Isoptera) of Florida",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.2307/3495700",
+      "authors": [
+        "Rudolf H. Scheffrahn",
+        "Nan‐Yao Su"
+      ],
+      "year": 1994,
+      "publisher": "Florida Entomologist",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Illustrated identification keys are presented for soldiers and winged adults of the following 17 termite species known from Florida: Calcaritermes nearcticus Snyder, Neotermes castaneus (Burmeister), N. jouteli (Banks), N. luykxi Nickle and Collins, Kalotermes approximatus Snyder, Incisitermes milleri (Emerson), I. minor (Hagen), I. schwarzi (Banks), I. snyderi (Light), Cryptotermes brevis (Walker",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "), and C. cavifrons Banks, Family Kalotermitidae; Coptotermes formosanus Shiraki, Reticulitermes flavipes (Kollar), R. hageni Banks, R. virginicus (Banks), and Prorhinotermes simplex (Hagen), Family Rhinotermitidae; and Amitermes floridensis Scheffrahn, Mangold, & Su, Family Termitidae.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 687 字）。",
+      "accessed": "2026-11-09T21:44:59+08:00",
+      "used_in": [],
+      "canonical_key": "doi:10.2307/3495700",
+      "id": "S0137"
+    },
+    {
+      "title": "New insights in insect prey choice by chimpanzees and gorillas in Southeast Cameroon: The role of nutritional value",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1002/ajpa.20703",
+      "authors": [
+        "Isra Deblauwe",
+        "Geert P. J. Janssens"
+      ],
+      "year": 2007,
+      "publisher": "American Journal of Physical Anthropology",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "The insect diet of chimpanzees and gorillas living at the northern periphery of the Dja Biosphere Reserve in southeast Cameroon and its nutritional contribution is described. We analyzed fecal samples and recorded additional evidence of insectivory. A detailed prey species list is presented for both apes. We carried out nutritional analyses (macronutrients, macro- and micro-minerals) on 11 importa",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "nt and eight nonimportant, but accessible, ant and termite prey species, and estimated the average nutrient intake/day through insects. Although gorillas ate insects more frequently, the average prey biomass intake/day by chimpanzees was twice that by gorillas. The lack of tool-use by gorillas cannot be the main reason for the small overlap of important prey species. Both apes did not seem to cons",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ume ant prey for one or more specific nutrients. Also other factors, such as medicinal use, should be considered. Termites, on the other hand, seemed to be selected for particular nutrients. Gorilla intake of the important termite prey, Cubitermes and Thoracotermes, met with estimated iron requirements. Their potential role as antidiarrheal treatment is as yet unclear. Chimpanzee intake of the imp",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ortant termite prey, Macrotermes spp., met with estimated manganese requirements and the protein intake/day (mean: 2 g/d) reached significant values (>20 g/d). To fully understand the importance of nutritional contributions of insects to ape diets in Cameroon, the chemical composition and nutrient intake of fruit and foliage in their diets should be investigated.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1565 字）。",
+      "accessed": "2026-11-09T21:45:07+08:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1002/ajpa.20703",
+      "id": "S0138"
     }
   ]
 }

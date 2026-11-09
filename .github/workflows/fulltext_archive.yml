@@ -1,0 +1,123 @@
+name: Archive OA fulltext
+
+# 原文归档工作流：在 papers.json 的基础上，把标记为开放获取（oa_url 非空）且尚未归档的
+# 论文 OA 全文（出版社 PDF 或 Europe PMC 的 JATS XML）下载并入库（_unpublished/文库 + .sources/），
+# 再重新打包加密备份 .library-vault/ 提交。只走合法 OA 通道，不绕过付费墙。
+# 需要 Secret：LIBRARY_VAULT_KEY（加密备份口令）、UNPAYWALL_EMAIL（Unpaywall 礼貌邮箱）。
+# OPENALEX_API_KEY 可选（OpenAlex 自己的额度）；OPENALEX_MAILTO / CROSSREF_MAILTO 可选（礼貌邮箱）。
+# 注意：CI 上的 _unpublished/文库 与 _tmp/ 缓存不持久化。每次运行先从 .library-vault/ 恢复文库，
+# 以文库 manifest 作为「已归档」的唯一真源，因此不会重复下载已归档论文；仅对先前失败的候选
+# 每周重新查一次 OA（带礼貌邮箱，无害）。归档只改 .library-vault/ 与 .sources/，不影响站点渲染，
+# 所以这里不触发 Pages 构建。
+
+on:
+  workflow_dispatch:
+    inputs:
+      discover:
+        description: "每次从 papers.json 挑选多少条被引最高的未归档 OA 论文进队列"
+        required: false
+        default: "40"
+      limit:
+        description: "单次最多归档几条（0 = 不限，但受时间预算约束）"
+        required: false
+        default: "10"
+      time-budget:
+        description: "单次网络时间预算（秒）"
+        required: false
+        default: "300"
+      force:
+        description: "忽略失败缓存，全部重试"
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    # 每周一 04:23 UTC（北京时间 12:23）；错开 papers_refresh 的 03:47 与照片爬取 03:17
+    - cron: "23 4 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fulltext-archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install pymupdf
+        run: pip install --quiet pymupdf
+
+      - name: Require secrets
+        env:
+          LIBRARY_VAULT_KEY: ${{ secrets.LIBRARY_VAULT_KEY }}
+          UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
+        run: |
+          if [ -z "$LIBRARY_VAULT_KEY" ]; then
+            echo "::error::LIBRARY_VAULT_KEY secret is not set. Add it in Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          if [ -z "$UNPAYWALL_EMAIL" ]; then
+            echo "::error::UNPAYWALL_EMAIL secret is not set. Add it in Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - name: Restore library from vault
+        env:
+          LIBRARY_VAULT_KEY: ${{ secrets.LIBRARY_VAULT_KEY }}
+        run: python _tools/library_vault.py unpack --target _unpublished/文库 --force
+
+      - name: Fetch and archive OA fulltext
+        env:
+          UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+          DISCOVER: ${{ github.event.inputs.discover || '40' }}
+          LIMIT: ${{ github.event.inputs.limit || '10' }}
+          TIME_BUDGET: ${{ github.event.inputs['time-budget'] || '300' }}
+          FORCE: ${{ github.event.inputs.force || 'false' }}
+        run: |
+          set -u
+          args=(--write --discover "$DISCOVER" --limit "$LIMIT" --time-budget "$TIME_BUDGET")
+          if [ "$FORCE" = "true" ]; then
+            args+=(--force)
+          fi
+          python _tools/fetch_fulltext.py "${args[@]}"
+
+      - name: Validate sources ledger
+        run: python _tools/sources.py check --strict
+
+      - name: Re-pack library vault
+        env:
+          LIBRARY_VAULT_KEY: ${{ secrets.LIBRARY_VAULT_KEY }}
+        run: python _tools/library_vault.py pack
+
+      - name: Commit archive
+        id: commit
+        run: |
+          git add .library-vault/ .sources/
+          if git diff --cached --quiet; then
+            echo "no archive changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "archive(fulltext): 归档 OA 全文原文（加密备份 + 证据账本）"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3; do
+            if git push; then break; fi
+            echo "push rejected (attempt $attempt) - rebasing on origin"
+            git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+          done
