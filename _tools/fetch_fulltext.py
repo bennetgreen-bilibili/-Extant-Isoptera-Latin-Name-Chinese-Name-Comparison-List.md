@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import shutil
 import subprocess
 import sys
 import time
@@ -51,6 +52,20 @@ MANIFEST_REL = "_unpublished/文库/manifest.json"
 INDEX_REL = ".sources/index.json"
 PAPERS_REL = "_data/papers.json"
 SOURCES_PY = "_tools/sources.py"
+
+OCR_MIN_CHARS = 500
+OCR_MAX_PAGES = 60
+OCR_TESSDATA_REL = "_tmp/tessdata"
+TESSERACT_CANDIDATES = (
+    r"C:\Program Files\Tesseract-OCR\tesseract.exe",
+    r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe",
+)
+OCR_LANG_MAP = {
+    "en": "eng", "eng": "eng", "english": "eng",
+    "es": "spa", "spa": "spa", "spanish": "spa",
+    "zh": "chi_sim", "zh-cn": "chi_sim", "zh_cn": "chi_sim",
+    "zh-hans": "chi_sim", "cn": "chi_sim", "chi": "chi_sim", "chinese": "chi_sim",
+}
 
 DOWNLOAD_TIMEOUT = 60
 POLITE_DELAY = 0.2
@@ -420,7 +435,101 @@ def _notes(meta: dict) -> str:
             "不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。")
 
 
-def _ingest(root: Path, tmpfile: Path, meta: dict):
+def _find_tesseract(cmd_hint=None):
+    if cmd_hint:
+        p = Path(cmd_hint).expanduser()
+        if p.is_file():
+            return str(p)
+    found = shutil.which("tesseract")
+    if found:
+        return found
+    for cand in TESSERACT_CANDIDATES:
+        if Path(cand).is_file():
+            return cand
+    env = os.environ.get("TESSERACT_CMD")
+    if env:
+        p = Path(env).expanduser()
+        if p.is_file():
+            return str(p)
+    return None
+
+
+def _resolve_tessdata(root, explicit):
+    if explicit:
+        return explicit
+    td = root / OCR_TESSDATA_REL
+    if td.is_dir() and any(td.glob("*.traineddata")):
+        return str(td)
+    return None
+
+
+def _ocr_lang(language, override):
+    if override:
+        return override
+    return OCR_LANG_MAP.get((language or "").strip().lower(), "eng")
+
+
+def _probe_pdf_text(pdf_path, max_pages=10):
+    try:
+        import fitz  # noqa: F401
+    except ImportError:
+        return -1
+    try:
+        doc = fitz.open(str(pdf_path))
+    except Exception:
+        return -1
+    total = 0
+    try:
+        for page in doc:
+            total += len((page.get_text("text") or "").strip())
+            if page.number + 1 >= max_pages:
+                break
+    finally:
+        doc.close()
+    return total
+
+
+def _ocr_pdf(pdf_path, tess_cmd, tessdata, lang, out_txt, max_pages):
+    try:
+        import fitz
+    except ImportError:
+        return 1, "pymupdf 不可用，无法渲染 PDF 页"
+    try:
+        doc = fitz.open(str(pdf_path))
+    except Exception as e:
+        return 1, "无法打开 PDF：" + str(e)
+    parts = []
+    try:
+        for i, page in enumerate(doc):
+            if i >= max_pages:
+                break
+            png = out_txt.parent / ("ocr-page-%03d.png" % (i + 1))
+            try:
+                pix = page.get_pixmap(dpi=300)
+                pix.save(str(png))
+                cmd = [tess_cmd, str(png), "stdout", "-l", lang]
+                if tessdata:
+                    cmd += ["--tessdata-dir", tessdata]
+                r = subprocess.run(cmd, capture_output=True, text=True,
+                                   encoding="utf-8", errors="replace", timeout=240)
+                if r.returncode != 0:
+                    return 1, "tesseract 失败（第 " + str(i + 1) + " 页）：" + (r.stderr or "").strip()[:160]
+                parts.append(r.stdout or "")
+            finally:
+                try:
+                    png.unlink()
+                except OSError:
+                    pass
+    finally:
+        doc.close()
+    text = "\n\n".join(parts).strip()
+    if len(text) < 50:
+        return 1, "OCR 结果过短（" + str(len(text)) + " 字），可能不是可读扫描件"
+    out_txt.write_text(text, encoding="utf-8", newline="\n")
+    return 0, str(len(text))
+
+
+def _ingest(root: Path, tmpfile: Path, meta: dict, text_path=None, ocr_note=None):
     doi = meta.get("doi") or ""
     cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "library-add",
            "--file", str(tmpfile),
@@ -429,7 +538,9 @@ def _ingest(root: Path, tmpfile: Path, meta: dict):
            "--kind", "paper",
            "--reliability", _reliability(meta),
            "--url", meta.get("landing") or ("https://doi.org/" + _norm_doi(doi)),
-           "--notes", _notes(meta)]
+           "--notes", ocr_note or _notes(meta)]
+    if text_path:
+        cmd += ["--text", str(text_path)]
     if meta.get("year"):
         cmd += ["--year", str(meta["year"])]
     if meta.get("authors"):
@@ -576,7 +687,7 @@ def run_write(root: Path, args) -> int:
     budget = Budget(args.time_budget)
     tmp_dir = root / args.tmp
     tmp_dir.mkdir(parents=True, exist_ok=True)
-    processed = archived_ok = abstract_ok = skipped = recent = no_oa = errors = 0
+    processed = archived_ok = abstract_ok = skipped = recent = no_oa = errors = scanned = 0
     for it in queue:
         if not isinstance(it, dict) or not it.get("doi"):
             continue
@@ -640,7 +751,42 @@ def run_write(root: Path, args) -> int:
                           "error": "下载失败（content-type=" + ctype + "）"}
             print("[fulltext]   下载失败：" + str(meta.get("url")))
             continue
-        rc, out, err = _ingest(root, tmpfile, meta)
+        text_path = None
+        ocr_note = None
+        if meta.get("kind") == "pdf":
+            probed = _probe_pdf_text(tmpfile)
+            if 0 <= probed < OCR_MIN_CHARS:
+                tess = _find_tesseract(args.tesseract_cmd)
+                if not tess:
+                    scanned += 1
+                    cache[key] = {"status": "scanned-needs-ocr", "attempted_at": time.time(),
+                                  "url": meta.get("url"),
+                                  "error": "扫描件（文字层 " + str(probed) + " 字），无 tesseract"}
+                    print("[fulltext]   扫描件（文字层 " + str(probed) + " 字），无 tesseract，跳过")
+                    try:
+                        tmpfile.unlink()
+                    except OSError:
+                        pass
+                    continue
+                lang = _ocr_lang(meta.get("language") or "", args.ocr_langs)
+                td = _resolve_tessdata(root, args.tessdata_dir)
+                ocr_txt = tmp_dir / (tmpfile.stem + "-ocr.txt")
+                rc_ocr, info = _ocr_pdf(tmpfile, tess, td, lang, ocr_txt, args.ocr_max_pages)
+                if rc_ocr != 0:
+                    errors += 1
+                    cache[key] = {"status": "scanned-ocr-failed", "attempted_at": time.time(),
+                                  "url": meta.get("url"), "error": info[:300]}
+                    print("[fulltext]   扫描件 OCR 失败：" + info[:160])
+                    try:
+                        tmpfile.unlink()
+                    except OSError:
+                        pass
+                    continue
+                text_path = ocr_txt
+                ocr_note = ("扫描件（无文字层），经 tesseract OCR（语言 " + lang + "）转为文本入库，"
+                            "未经人工校对，引用前须核对出版方原文。全文只存本地文库，不发布、不对外分发。")
+                print("[fulltext]   扫描件，已 OCR（" + lang + "，全文 " + info + " 字）")
+        rc, out, err = _ingest(root, tmpfile, meta, text_path=text_path, ocr_note=ocr_note)
         if rc == 0:
             archived_ok += 1
             archived.add(key)
@@ -660,6 +806,7 @@ def run_write(root: Path, args) -> int:
     _save_json(root / args.cache, cache)
     print("[fulltext] 完成：处理 " + str(processed) + "，归档全文 " + str(archived_ok)
           + "，存档摘要 " + str(abstract_ok)
+          + "，扫描件跳过 " + str(scanned)
           + "，跳过已归档 " + str(skipped) + "，近期已试 " + str(recent)
           + "，无 OA 且无摘要 " + str(no_oa) + "，出错 " + str(errors))
     return 0
@@ -678,6 +825,10 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--stale-days", type=int, default=30, help="失败条目多少天内不重试")
     ap.add_argument("--force", action="store_true", help="忽略失败缓存，全部重试")
     ap.add_argument("--dry-run", action="store_true", help="只解析 OA 链接，不下载、不入库")
+    ap.add_argument("--tesseract-cmd", default=None, help="tesseract 可执行文件路径（缺省自动探测）")
+    ap.add_argument("--tessdata-dir", default=None, help="语言数据目录（缺省自动探测 _tmp/tessdata 或系统默认）")
+    ap.add_argument("--ocr-langs", default=None, help="扫描件 OCR 语言（缺省按论文 language 自动映射）")
+    ap.add_argument("--ocr-max-pages", type=int, default=OCR_MAX_PAGES, help="扫描件最多 OCR 页数")
     ap.add_argument("--check", action="store_true", help="离线校验 + 计划（只读）")
     ap.add_argument("--write", action="store_true", help="执行爬取 + 归档")
     return ap

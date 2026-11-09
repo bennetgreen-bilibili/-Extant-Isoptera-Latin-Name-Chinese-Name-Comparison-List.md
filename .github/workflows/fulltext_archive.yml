@@ -59,6 +59,12 @@ jobs:
       - name: Install pymupdf
         run: pip install --quiet pymupdf
 
+      - name: Install tesseract OCR (eng + chi_sim + spa)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            tesseract-ocr tesseract-ocr-chi-sim tesseract-ocr-spa
+
       - name: Require secrets
         env:
           LIBRARY_VAULT_KEY: ${{ secrets.LIBRARY_VAULT_KEY }}
