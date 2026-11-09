@@ -18,9 +18,9 @@ on:
         required: false
         default: "40"
       limit:
-        description: "单次最多归档几条（0 = 不限，但受时间预算约束）"
+        description: "单次最多归档几条（0 = 不限，只受时间预算约束）"
         required: false
-        default: "10"
+        default: "0"
       time-budget:
         description: "单次网络时间预算（秒）"
         required: false
@@ -91,7 +91,7 @@ jobs:
           OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           DISCOVER: ${{ github.event.inputs.discover || '40' }}
-          LIMIT: ${{ github.event.inputs.limit || '10' }}
+          LIMIT: ${{ github.event.inputs.limit || '0' }}
           TIME_BUDGET: ${{ github.event.inputs['time-budget'] || '300' }}
           FORCE: ${{ github.event.inputs.force || 'false' }}
         run: |

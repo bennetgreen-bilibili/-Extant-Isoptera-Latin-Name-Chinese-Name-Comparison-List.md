@@ -559,62 +559,49 @@ def _ingest(root: Path, tmpfile: Path, meta: dict, text_path=None, ocr_note=None
     return r.returncode, r.stdout or "", r.stderr or ""
 
 
-ABSTRACT_QUOTE_MAX = 400
-ABSTRACT_TOTAL_MAX = 2000
+def _ingest_abstract(root: Path, item: dict, tmp_dir: Path):
+    """无 OA 全文时，把完整摘要作为「摘要全文」存进文库（不截断），.sources/ 记元数据。
 
-
-def _chunk_abstract(text: str) -> list:
-    text = " ".join(text.split())
-    chunks = []
-    rest = text
-    total = 0
-    while rest and total < ABSTRACT_TOTAL_MAX:
-        chunk = rest[:ABSTRACT_QUOTE_MAX]
-        chunks.append(chunk)
-        total += len(chunk)
-        rest = rest[ABSTRACT_QUOTE_MAX:]
-    return chunks
-
-
-def _ingest_abstract(root: Path, item: dict):
-    """无 OA 全文时，把论文摘要存为 .sources 记录（不建文库全文）。"""
+    摘要全文进 _unpublished/文库/<slug>/full.txt（gitignored），账本 .sources/ 只留元数据 +
+    短摘录，符合 AGENTS.md §1.6 红线（单处 ≤400 字、累计 ≤2000 字）。
+    """
     abstract = " ".join((item.get("abstract") or "").split())
     if not abstract:
         return 1, "", "无摘要"
-    quotes = _chunk_abstract(abstract)
-    total = sum(len(q) for q in quotes)
     src = (item.get("abstract_source") or "unknown").strip()
-    truncated = total < len(abstract)
-    rec = {
-        "title": (item.get("title") or item.get("doi") or "").strip(),
-        "source_type": "paper",
-        "reliability": _reliability({"type": item.get("type") or "",
-                                      "url": item.get("oa_url") or ""}),
-        "doi": (item.get("doi") or "").strip(),
-        "authors": "; ".join(str(a) for a in (item.get("authors") or []) if str(a).strip()),
-        "year": _to_int(item.get("year")),
-        "publisher": (item.get("venue") or "").strip(),
-        "lang": (item.get("language") or "").strip(),
-        "license": "unknown",
-        "retrieved_via": "papers.json 摘要（" + src + "）",
-        "evidence": [{"quote": q, "locator": "摘要", "note": "仅有摘要，无 OA 全文"} for q in quotes],
-        "notes": "无 OA 全文，仅有摘要（abstract_source=" + src + "，摘要 "
-                 + str(total) + " 字" + ("，截断于 " + str(ABSTRACT_TOTAL_MAX) + " 字" if truncated else "") + "）。",
-    }
-    if not rec["publisher"]:
-        rec.pop("publisher", None)
-    if not rec["authors"]:
-        rec.pop("authors", None)
-    if not rec["lang"]:
-        rec.pop("lang", None)
-    task = root / "_tmp" / "abstract-task.json"
-    _save_json(task, [rec])
-    cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "add", "--json", str(task)]
+    doi = (item.get("doi") or "").strip()
+    stem = (_norm_doi(doi) or (item.get("title") or "abstract")).replace("/", "_").replace(":", "_")[:80]
+    txt = tmp_dir / (stem + "-abstract.txt")
+    txt.write_text(abstract, encoding="utf-8", newline="\n")
+    notes = ("无 OA 全文，仅存完整摘要（" + str(len(abstract)) + " 字，abstract_source=" + src
+             + "）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。")
+    cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "library-add",
+           "--file", str(txt),
+           "--title", (item.get("title") or doi or "摘要").strip(),
+           "--kind", "paper",
+           "--reliability", _reliability({"type": item.get("type") or "",
+                                          "url": item.get("oa_url") or ""}),
+           "--notes", notes]
+    if doi:
+        cmd += ["--doi", doi]
+    if item.get("year"):
+        cmd += ["--year", str(item["year"])]
+    if item.get("authors"):
+        cmd += ["--authors", "; ".join(str(a) for a in item["authors"] if str(a).strip())]
+    pub = (item.get("venue") or "").strip()
+    if pub:
+        cmd += ["--publisher", pub]
+    if item.get("language"):
+        cmd += ["--lang", item["language"]]
     try:
         r = subprocess.run(cmd, cwd=str(root), capture_output=True, text=True,
-                           encoding="utf-8", errors="replace", timeout=120)
+                           encoding="utf-8", errors="replace", timeout=180)
     except (OSError, subprocess.TimeoutExpired) as e:
         return 1, "", str(e)
+    try:
+        txt.unlink()
+    except OSError:
+        pass
     return r.returncode, r.stdout or "", r.stderr or ""
 
 
@@ -722,7 +709,7 @@ def run_write(root: Path, args) -> int:
                 print("[fulltext]   [dry-run] 无 OA 全文，将存摘要（"
                       + str((it.get("abstract_source") or "?")) + "）")
                 continue
-            rc2, out2, err2 = _ingest_abstract(root, it)
+            rc2, out2, err2 = _ingest_abstract(root, it, tmp_dir)
             if rc2 == 0:
                 abstract_ok += 1
                 archived.add(key)
