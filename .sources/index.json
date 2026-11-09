@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 137,
+    "count": 154,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-09T21:45:07+08:00",
+    "updated": "2026-11-09T15:12:56+00:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -8029,6 +8029,672 @@
       "used_in": [],
       "canonical_key": "doi:10.1002/ajpa.20703",
       "id": "S0138"
+    },
+    {
+      "title": "The Termitaria of Cornitermes cumulans (Isoptera, Termitidae) and Their Role in Determining a Potential Keystone Species",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.2307/2387842",
+      "authors": [
+        "Kent H. Redford"
+      ],
+      "year": 1984,
+      "publisher": "Biotropica",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Role des termitieres de C.c. dans l'ecologie du cerrado bresilien. Densite des termitieres; description de celles-ci; leur abandon; commensaux; predation et attaque des termitieres",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 180 字）。",
+      "accessed": "2026-11-09T15:08:45+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.2307/2387842",
+      "id": "S0139"
+    },
+    {
+      "title": "Catalog of the living termites of the New World (Insecta: Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.11606/issn.2176-7793.v35i2p135-230",
+      "authors": [
+        "Reginaldo Constantino"
+      ],
+      "year": 1998,
+      "publisher": "Arquivos de Zoologia",
+      "lang": "pt",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "A catalog of the living termites of the New World is presented, including all known synonyms, geographical distribution, type depositories, and a selected bibliography. The number of termite genera recorded for the New World is 86, and the number of species 543. The following taxonomical changes are included: Curvitermes projectidens is transferred to Armitermes, and Nasutitermes columbicus is tre",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ated as a junior synonym of N. guayanae. Most subspecies are treated as full species. Available names of uncertain taxonomic position are presented in a separate list.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 567 字）。",
+      "accessed": "2026-11-09T15:08:47+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.11606/issn.2176-7793.v35i2p135-230",
+      "id": "S0140"
+    },
+    {
+      "title": "Phylogeny of the Dictyoptera",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1111/j.1365-3113.1992.tb00336.x",
+      "authors": [
+        "Barbara L. Thorne",
+        "James Michael Carpenter"
+      ],
+      "year": 1992,
+      "publisher": "Systematic Entomology",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Relationships among six key dictyopteran taxa (Mantodea; Blattodea (excluding Cryptocercidae); Cryptocercidae; Mastotermes darwiniensis, Termopsidae and Kalotermitidae [Isoptera]) are analysed based on seventy morphological, developmental and behavioural characters. The fossil record and the ‘living fossil’ genera Cryptocercus, Mastotermes and Archotermopsis are discussed in detail. Exact analysis",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "of the character state matrix by implicit enumeration (Hennig86) resulted in one cladogram, strongly supporting Blattodea + Cryptocercidae as a sister group to Mantodea, with the Isoptera as a sister group to that complex. Arrangements within the termites are equivocal, with Termopsidae and Mastotermes darwiniensis possible as the relatively most primitive element of Isoptera.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 780 字）。",
+      "accessed": "2026-11-09T15:08:58+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1111/j.1365-3113.1992.tb00336.x",
+      "id": "S0141"
+    },
+    {
+      "title": "Ecological Shifts in Sympatry: Kalahari Fossorial Lizards (Typhlosaurus)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.2307/1935218",
+      "authors": [
+        "Raymond B. Huey",
+        "Eric Roger Pianka",
+        "Michael E. Egan",
+        "Larry W. Coons"
+      ],
+      "year": 1974,
+      "publisher": "Ecology",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Two species of legless, fossorial skinks (Typhlosaurus) are partially sympatric in the Kalahari Desert. Typhlosaurus lineatus occur both in the sandridge and flatland geographic provinces of the Kalahari, in dune streets and on sandridgesmicrogeographically in sympatry, and primarily under log and leaf litter microhabitats. Typhlosaurus gariepensis, always microgeogrphically, and primarily in basa",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "l roots of bunch grass microhabitats. Microhabitat overlap in sympatry is low. Morphologically, T. lineatus differ from T. gariepensis in being longer and in having a longer and wider head. Snout—vent lengths, head dimensions, and proportional head lengths of sympatric T. lineatus are larger than those of allopatric T. lineatus; thus T. lineatus displace from T. gariepensis in sympatry. Both speci",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "es are viviparous, have one brood per year, and give birth in summer after a 5—mo gestation period. Maturity is reached at minimum ages of one and two—thirds yr. Mean litter size of T. lineatus is 1.6, whereas T. gariepensis have but one young. A response to competition between the two species is suggested by the facts that offspring of sympatric T. lineatus are significantlyheavier than those of",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "allopatric females, and that fewer sympatric T. lineatus females are reproductive than allopatric females. Because Typhlosaurus are termite specialists (92.4% of diet by volume), termitesin guts were identified to species and caste. Compared with sympatric T. lineatus, T. gariepensis eat more Psammotermes workers, fewer Allodontermes major workers, and scarcely any Hodotermes. Sympatric T. lineatu",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "s eat fewer Psammotermes workers and more Allodontermes major workers than do allopatric T. lineatus. Prey size differences parallel lizard size differences. Because of dietary shifts by T. lineatus in sympatry, dietary overlap with T. gariepensis is substantially reduced for females and immatures, although not for males. Strong morphological and dietary evidence support, for T. lineatus females a",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 2000 字，截断于 2000 字）。",
+      "accessed": "2026-11-09T15:08:59+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.2307/1935218",
+      "id": "S0142"
+    },
+    {
+      "title": "On the Mound of Macrotermes michaelseni as an Organ of Respiratory Gas Exchange",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1086/323990",
+      "authors": [
+        "J. Scott Turner"
+      ],
+      "year": 2001,
+      "publisher": "Physiological and Biochemical Zoology",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Patterns and rates of air movements in the mounds and nests of Macrotermes michaelseni were studied using tracer methods. Wind is a significant source of energy for powering nest ventilation, despite the mound being a completely enclosed structure. Nests are ventilated by a tidal movement of air driven by temporal variation in wind speed and wind direction. Density gradients sufficiently steep to",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "drive bulk flow by natural convection will be rare. However, metabolism-induced buoyant forces may interact with wind energy in a way that promotes homeostasis of the mound atmosphere.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 584 字）。",
+      "accessed": "2026-11-09T15:09:10+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1086/323990",
+      "id": "S0143"
+    },
+    {
+      "title": "Genetic Evidence for the Synonymy of Two Reticulitermes Species: Reticulitermes flavipes and Reticulitermes santonensis",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2",
+      "authors": [
+        "James W. Austin",
+        "Allen L. Szalanski",
+        "Rudolf H. Scheffrahn",
+        "Matthew T. Messenger",
+        "Stéphanie Bankhead‐Dronnet",
+        "Anne‐Geneviève Bagnères"
+      ],
+      "year": 2005,
+      "publisher": "Annals of the Entomological Society of America",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "By applying the 16S rRNA mitochondrial marker to 434 populations of Reticulitermes termites from North, Central, and South America; France; and Germany with other locations around the world that we have analyzed, identical DNA sequence data were obtained from Reticulitermes flavipes (Kollar) in North America and Germany and for Reticulitermes santonensis Feytaud from undisturbed (nonurban) foreste",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "d locations in western France. We also discovered identical DNA sequence data from previously unidentified Reticulitermes specimens from South America and Easter Island. Haplotypes F, M, and GG were observed in France; haplotype F in Germany; and haplotype GG was found on Easter Island, Santiago, Chile, and Montevideo, Uruguay. All of these haplotypes are found in numerous states within the contin",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ental United States. In light of their well documented morphological, chemical, and phylogenetic relationships, coupled with this new data that directly link these disjunct groups, R. flavipes and R. santonensis should be synonymized. Compared with other studies that largely suggest phyletic similarities, this is the first study that specifically matches haplotypes from North America (where popula",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "tions of R. flavipes are endemic) with populations in Europe (where R. flavipes, described as R. santonensis, is presumed exotic).",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1330 字）。",
+      "accessed": "2026-11-09T15:10:27+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2",
+      "id": "S0144"
+    },
+    {
+      "title": "Phylogenetic analysis of the symbiotic intestinal microflora of the termite Cryptotermes domesticus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1016/s0378-1097(98)00244-4",
+      "authors": [
+        "Moriya Ohkuma",
+        "Toshiaki Kudo"
+      ],
+      "year": 1998,
+      "publisher": "FEMS Microbiology Letters",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "The phylogeny of microorganisms of the symbiotic community in the gut of a lower termite, Cryptotermes domesticus (order Isoptera, family Kalotermitidae), was investigated without culturing the resident microorganisms. Portions of the small-subunit rRNA genes (16S rRNAs) were directly amplified from the mixed-population DNA of the termite gut by the PCR and were clonally isolated. Analysis of part",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ial sequences of 16S rRNA showed the existence of prokaryotic species related to the genera Methanobrevibacter, Leuconostoc, Bacteroides and Treponema, but most of the sequences were those of yet unknown species. Unique sequences showing very low sequence similarity to known 16S rRNA sequences were also found although they were significantly clustered with the High G+C Gram-positive bacteria. Comp",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "arisons of these sequences with those from the symbiotic microorganisms in other termite species revealed the existence of termite-specific groups of organisms.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 960 字）。",
+      "accessed": "2026-11-09T15:10:48+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1016/s0378-1097(98)00244-4",
+      "id": "S0145"
+    },
+    {
+      "title": "Family-Group Names for Termites (Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1206/0003-0082(2004)432 2.0.co;2",
+      "authors": [
+        "Michael S. Engel",
+        "KUMAR KRISHNA"
+      ],
+      "year": 2004,
+      "publisher": "American Museum Novitates",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Thirty-nine available family-group names are identified within the insect order Isoptera (termites). For all names the correct author, date, type genus, and combining stem are provided for the first time. This nomenclatural compilation is done to stabilize the usage of family- group names in the Isoptera in advance of a world catalog. Several problems of priority are identified and discussed. The",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "little understood subfamily Foraminitermitinae is diagnosed; while generally believed by many authors to be a new, unnamed subfamily, it was in fact established by Holmgren nearly a century ago. The subfamilies Syntermitinae and Sphaerotermitinae are newly proposed for the mandibulate genera of nasute termites and for Sphaerotermes, respectively. The classification of Isoptera is briefly outlined.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 800 字）。",
+      "accessed": "2026-11-09T15:11:05+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1206/0003-0082(2004)432 2.0.co;2",
+      "id": "S0146"
+    },
+    {
+      "title": "II. On the structure and biology of archotermopsis, together with descriptions of new species of intestinal protozoa, and general observations on the isoptera",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1098/rstb.1920.0002",
+      "authors": [
+        "Augustus Daniel Imms",
+        "Sydney John Hickson"
+      ],
+      "year": 1920,
+      "publisher": "Philosophical Transactions of the Royal Society of London Series B Containing Papers of a Biological Character",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "The following paper is intended as a contribution towards a knowledge of the structure and biology of Archotermopsis wroughtoni, Desn., one of the most primitive of living Termites. Included herewith are also observations and deductions bearing upon some of the more important general biological problems which are associated with the Isoptera. Archotermopsis wroughtoni was described 12 years ago by",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "Desneux from examples taken by Wroughton in June, 1903. They were discovered in old stumps of trees, chiefly Pinus excelsa, in the Kashmir Valley. Since its discovery, this species has remained a great rarity, and practically nothing had been ascertained concerning its biology. In June, 1910, I first came across this insect in a decaying fallen trunk of Pinus excelsa, in a forest area situated be",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "tween the Kuari Pass and Ramni, at an altitude of about 8,500 feet, in the Himalayas of British Garwhal. In the same month during 1912 I had the good fortune to meet with it in great abundance in a dead fallen trunk of Pinus longifolia near Dharmoti, in the Ranikhet District. This locality is situated at an altitude of about 4,000 feet in the Kumaon Himalaya. Being aware of the biological and phyl",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ogenetic interest likely to be afforded by a study of this species, I made a prolonged search in many other likely localities in the North Western Himalayas during the years 1912-13. It was subsequently found plentifully at Bhowali, near Naini Tal, at an elevation of 5,800 feet, near Nadh in the Ohakrata District of Jaunsar, and I have also been able to procure examples from near Gulmerg in Kashmi",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "r. It seems probable, therefore, that it will eventually be found to be generally distributed in the lower-level coniferous forests of the North Western Himalayas, up to an elevation of about 9,000 feet.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1803 字）。",
+      "accessed": "2026-11-09T15:11:13+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1098/rstb.1920.0002",
+      "id": "S0147"
+    },
+    {
+      "title": "Seasonal Changes in the Techniques Employed by Wild Chimpanzees in the Mahale Mountains, Tanzania, to Feed on Termites (Pseudacanthotermes spiniger)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1159/000156020",
+      "authors": [
+        "Shigeo Uehara"
+      ],
+      "year": 1982,
+      "publisher": "Folia Primatologica",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "During a short period, wild chimpanzees of group K in the Mahale Mountains employ a set of several techniques, including tool use, to feed on one species of termite (Pseudacanthotermes spiniger). They appear to use each technique appropriately according to phenological changes in the prey insect's activities. The chimpanzees also ingest small pieces of soil from the tower of P. spiniger's mound th",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "roughout the year. Geophagy presumably makes them visually and tactually aware of the phenological changes of the termite's reproductive cycle. Analyses of fecal samples from the chimpanzees indicate interannual fluctuations in the amount of termites ingested. On the other hand, the chimpanzees of group B, ranging to the north of group K, utilize a fishing technique to obtain another type of termi",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "te (Macrotermes?herus) on a large scale during the first half of the wet season. Fecal analysis data show that chimpanzees of group B consume far more termites than those of group K. The probability that the same or similar tool-using techniques as fishing may be employed in feeding on different types of insects by chimpanzees of different unit groups according to subtle local differences in the i",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "nsect fauna of their home ranges is discussed.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1246 字）。",
+      "accessed": "2026-11-09T15:11:16+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1159/000156020",
+      "id": "S0148"
+    },
+    {
+      "title": "Mining for hemicellulases in the fungus-growing termite Pseudacanthotermes militaris using functional metagenomics",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1186/1754-6834-6-78",
+      "file_path": "_unpublished/文库/Mining-for-hemicellulases-in-the-fungus-growing-termite-Pseudacanthotermes-milit",
+      "chars": 70540,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-09T15:11:18+08:00",
+      "notes": "全文存于 _unpublished/文库/Mining-for-hemicellulases-in-the-fungus-growing-termite-Pseudacanthotermes-milit（70540 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "Mining-for-hemicellulases-in-the-fungus-growing-termite-Pseudacanthotermes-milit",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-09T15:11:18",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Mining-for-hemicellulases-in-the-fungus-growing-termite-Pseudacanthotermes-milit/full.txt",
+            "chars": 70540,
+            "paragraphs": 329,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.xml",
+            "sha256": "041769291c1cf359a5f65d96ffebb3cdc2c2ba0dc417eed8720fbf180c2e4921",
+            "bytes": 70766
+          }
+        ]
+      },
+      "authors": [
+        "Géraldine Bastien",
+        "Grégory Arnal",
+        "Sophie Bozonnet",
+        "Sandrine Laguerre",
+        "Fernando Ferreira",
+        "Régis Fauré",
+        "Bernard Henrissat",
+        "Fabrice Lefèvre",
+        "Patrick Robe",
+        "Olivier Bouchez",
+        "Céline Noirot",
+        "Claire Dumon"
+      ],
+      "year": 2013,
+      "publisher": "Springer Science and Business Media LLC",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.1186/1754-6834-6-78",
+      "url": "https://biotechnologyforbiofuels.biomedcentral.com/counter/pdf/10.1186/1754-6834-6-78",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0149"
+    },
+    {
+      "title": "Nutrient cycling by mound building termites in low fertility soils of semi-arid tropical Australia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1071/sr9880375",
+      "authors": [
+        "Ross J. Coventry",
+        "J.A. Holt",
+        "DF Sinclair"
+      ],
+      "year": 1988,
+      "publisher": "Soil Research",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "The capacity of three species of mound-building termites, Amitermes vitiosus Hill, Drepanotermes perniger (Froggatt), and Tumulitermes pastinator (Froggatt), to turn over plant nutrients was quantified in a semi-arid tropical woodland near Charters Towers in north-eastern Queensland. Various chemical attributes of the red and yellow earth soils, of low inherent fertility and unmodified by recent t",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ermite activity, are compared with those of the mounds of the three termite species and with the underlying, termite-modified soils. The mounds contain 21 Mg ha-l of soil, representing only 1% of the total mass of soil in the Al soil horizon but 5-7% of the plant nutrients in this system. Nutrients in the termite mounds, temporarily withheld from plant growth, are eventually returned to the soil s",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "urface by erosion of abandoned mounds. We estimate that the termites can turnover annually 300-400 kg ha-1 of soil material with nutrient levels 2-7 times that of the Al soil horizon.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 983 字）。",
+      "accessed": "2026-11-09T15:11:49+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1071/sr9880375",
+      "id": "S0150"
+    },
+    {
+      "title": "New trace fossils of termites (Insecta: Isoptera) from the late Eocene‐early Miocene of Egypt, and the reconstruction of ancient isopteran social behavior",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1080/10420949409386386",
+      "authors": [
+        "Jorge F. Genise",
+        "Thomas M. Bown"
+      ],
+      "year": 1994,
+      "publisher": "Ichnos/Ichnos : an international journal for plant and animal traces",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Three new ichnogenera and five new ichnospecies are described for new trace fossils of termitaria (including associated gallery systems) of subterranean termites from upper Eocene through lower Miocene rocks of northern Egypt. All but two ichnospecies (Krausichnus trompitus, ichnogen, and ichnosp. nov., and A’, altus, ichnosp. nov.) show varying degrees of affinity to nests of the extant subterran",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ean termite species Sphaerotermes sphaerothorax (Termitidae, Macro‐termitinae). Termitichnus qatranii (Bown, 1982) is divided into two ichnospecies, the previously named T. qatranii, and a more generalized form, T. simplicidens, ichnosp. nov. Vondrichnus obovatus, ichnogen. and ichnosp. nov., is named for simple, possibly macrotermitine nests with oblate form, and Fleaglellius pagodus, ichnogen. a",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "nd ichnosp. nov., records a nest form similar to V. obovatus, but one in which successive vertical growth by chamber apposition has produced a subterranean, tower‐like structure, reminiscent of that built by extant, epigeous Cubitermes. Krausichnus trompitus, ichnogen. and ichnosp. nov., and A’, altus, ichnosp. nov., record two unique nest architectures probably produced by unknown but related spe",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "cies of humivorous termites. The nest architecture expressed by Krausichnus is of wholly unknown affinity and is only distantly related in form to the ichnofossils of other termite nests known from the Tertiary of Egypt. Study of the architecture of the nests of these ancient termites reveals details important in reconstructing the phylogeny of termite nests and documents two novel blueprints for",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "chamber expansion and society budding in what were probably primitive Macrotermi‐tinae. It also indicates that at least two constructed edifices, earlier known only as epigeous manifestations of extant termite species, were almost certainly first developed by species living underground. The extant Macrotermitinae are a subfamily of termites originally believed to have evolved in the post‐Eocene of",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 2000 字，截断于 2000 字）。",
+      "accessed": "2026-11-09T15:12:36+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1080/10420949409386386",
+      "id": "S0151"
+    },
+    {
+      "title": "Distribution and Abundance of Bacteria in the Gut of a Soil-feeding Termite Procubitermes aburiensis (Termitidae, Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1099/00221287-117-2-393",
+      "authors": [
+        "David E. Bignell",
+        "H. Oskarsson",
+        "J. M. Anderson"
+      ],
+      "year": 1980,
+      "publisher": "Microbiology",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "The alimentary canal of a representative species of soil-feeding termite was examined for associations with bacteria. Enumerations made in the principal regions of the intestine by direct observation and expressed for comparative purposes as total microbial standing crop showed a net three- to fourfold increase between the foregut (crop) and rectum. Filamentous organisms, putatively actinomycetes,",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "contributed significantly to the flora in most regions of the gut and were more abundant, relative to non-filamentous forms, than in freshly ingested soil. Transmission and scanning electron microscopy of the gut wall showed that the actinomycetes formed novel associations with the host in the mesenteron, mixed segment and colon. Non-filamentous organisms, chiefly rods, colonized the walls of the",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "first proctodaeal segment and the colon, in addition to filaments, and were present in large numbers in the contents of the third proctodaeal segment.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 951 字）。",
+      "accessed": "2026-11-09T15:12:44+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1099/00221287-117-2-393",
+      "id": "S0152"
+    },
+    {
+      "title": "Symbiotic cellulolytic bacteria from the gut of the subterranean termite Psammotermes hypostoma Desneux and their role in cellulose digestion",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1186/s13568-019-0830-5",
+      "file_path": "_unpublished/文库/Symbiotic-cellulolytic-bacteria-from-the-gut-of-the-subterranean-termite-Psammot",
+      "chars": 32569,
+      "retrieved_via": "文库（xml-text）",
+      "accessed": "2026-11-09T15:12:52+08:00",
+      "notes": "全文存于 _unpublished/文库/Symbiotic-cellulolytic-bacteria-from-the-gut-of-the-subterranean-termite-Psammot（32569 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（europepmc XML）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "Symbiotic-cellulolytic-bacteria-from-the-gut-of-the-subterranean-termite-Psammot",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-09T15:12:52",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/Symbiotic-cellulolytic-bacteria-from-the-gut-of-the-subterranean-termite-Psammot/full.txt",
+            "chars": 32569,
+            "paragraphs": 391,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.xml",
+            "sha256": "23a32908fcdd575f6d9a8b1892fce1ecc8b1649955d9ae1a7d867e5d6db4e168",
+            "bytes": 32853
+          }
+        ]
+      },
+      "authors": [
+        "Huda R. K. Ali",
+        "Nada F. Hemeda",
+        "Yasser Fathy Abdelaliem"
+      ],
+      "year": 2019,
+      "publisher": "Springer Science and Business Media LLC",
+      "lang": "en",
+      "license": "cc-by",
+      "doi": "10.1186/s13568-019-0830-5",
+      "url": "https://amb-express.springeropen.com/track/pdf/10.1186/s13568-019-0830-5",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0153"
+    },
+    {
+      "title": "Microtubules in Prokaryotes",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1126/science.349692",
+      "authors": [
+        "Lynn Margulis",
+        "Leleng P. To",
+        "David Chase"
+      ],
+      "year": 1978,
+      "publisher": "Science",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Longitudinally aligned microtubules, about 220 A in diameter, have been seen in the protoplasmic cylinders of the following spirochetes (symbiotic in the hindguts of dry-wood and subterranean termites): Pillotina sp., Diplocalyx sp., Hollandina sp. They are also present in a gliding bacterium from Pterotermes occidentis. These microtubules are probably composed of tubulin, as determined by stainin",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "g with fluorescent antibodies to tubulin and comigration with authentic tubulin on acrylamide gels. Treponema reiteri lack tubulin by these same criteria. These observations support the hypothesis of the symbiotic origin of cilia and flagella from certain spirochetes.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 668 字）。",
+      "accessed": "2026-11-09T15:12:54+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1126/science.349692",
+      "id": "S0154"
+    },
+    {
+      "title": "Structure of an endoglucanase from termite,Nasutitermes takasagoensis",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "doi": "10.1107/s0907444902002366",
+      "authors": [
+        "Shahram Khademi",
+        "Linda A. Guarino",
+        "Hirofumi Watanabe",
+        "Gaku Tokuda",
+        "Edgar F. Meyer"
+      ],
+      "year": 2002,
+      "publisher": "Acta Crystallographica Section D Biological Crystallography",
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "papers.json 摘要（openalex）",
+      "evidence": [
+        {
+          "quote": "Contrary to conventional wisdom, it has been shown recently that termites do not necessarily depend on symbiotic bacteria to process cellulose. They secrete their own cellulases, mainly endo-beta-1,4-glucanase and beta-1,4-glucosidase. Here, the first structure of an endogenous endoglucanase from the higher termite Nasutitermes takasagoensis (NtEgl) is reported at 1.40 A resolution. NtEgl has the",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "general folding of an (alpha/alpha)(6) barrel, which is a common folding pattern for glycosyl hydrolase family 9. Three-dimensional structural analysis shows that the conserved Glu412 is the catalytic acid/base residue and the conserved Asp54 or Asp57 is the base. The enzyme has a Ca(2+)-binding site near its substrate-binding cleft. Comparison between the structure of the Ca(2+)-free enzyme produ",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "ced by reducing the pH of the soaked crystal from 5.6 (the pH of optimum enzyme activity) to 2.5 with that of the Ca(2+)-bound enzyme did not show significant differences in the locations of the C(alpha) atoms. The main differences are in the conformation of the residue side chains ligating the Ca(2+) ion. The overall structure of NtEgl at pH 6.5 is similar to that at pH 5.6. The major change obse",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        },
+        {
+          "quote": "rved was in the conformation of the side chain of the catalytic acid/base Glu412, which rotates from a hydrophobic cavity to a relatively hydrophilic environment. This side-chain displacement may decrease the enzyme activity at higher pH.",
+          "locator": "摘要",
+          "note": "仅有摘要，无 OA 全文"
+        }
+      ],
+      "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1438 字）。",
+      "accessed": "2026-11-09T15:12:56+00:00",
+      "used_in": [],
+      "canonical_key": "doi:10.1107/s0907444902002366",
+      "id": "S0155"
     }
   ]
 }
