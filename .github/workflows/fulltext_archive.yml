@@ -44,7 +44,9 @@ concurrency:
 jobs:
   archive:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # 上限须 > 手动/定时触发里最大的 time-budget（秒/60 分钟）+ 安装开销。
+    # 此前 45 分钟 < 手动 time-budget=3000s(50min)，导致 fetch 步骤被 job 超时强杀、整轮产出丢弃。
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v5
