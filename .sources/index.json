@@ -3,7 +3,7 @@
     "version": 1,
     "count": 363,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-11T01:38:54+08:00",
+    "updated": "2026-11-11T02:20:04+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -2520,7 +2520,7 @@
       "file_path": "_unpublished/文库/emerson-1959-african-genera",
       "chars": 96320,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-07T03:41:14+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/emerson-1959-african-genera（96320 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；AMNH Novitates；OCR 文本。",
       "library": {
         "book": "emerson-1959-african-genera",
@@ -2547,7 +2547,8 @@
       "lang": "en",
       "license": "unknown",
       "used_in": [
-        "_data/morphology_genera.json"
+        "_data/morphology_genera.json",
+        "_data/taxon_literature.json"
       ],
       "evidence": [
         {
@@ -6281,7 +6282,7 @@
       "file_path": "_unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World",
       "chars": 1735069,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T15:58:37+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/Catalog-of-the-Termites-(Isoptera)-of-the-World（1735069 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan; scanned catalog, OCR errors present; catalog only (no morphological descriptions).。",
       "library": {
         "book": "Catalog-of-the-Termites-(Isoptera)-of-the-World",
@@ -6387,8 +6388,26 @@
       "publisher": "Smithsonian Miscellaneous Collections 112",
       "lang": "en",
       "url": "https://archive.org/details/in.ernet.dli.2015.26103",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Cryptotermes dudleyi Banks.\n\nCryptotermea dudleyi Banks 1918, p. 660, im., sold., pi. SL  3 (sold.), Panama.",
+          "locator": "part-001.txt:3063–3065（Cryptotermes dudleyi 条目）",
+          "note": "支撑：Cryptotermes dudleyi 由 Banks 1918 据巴拿马标本描述；OCR 将 Cryptotermes 误作 Cryptotermea"
+        },
+        {
+          "quote": "Planocryptotermes nocens Light 1921a, p. 43, im., sold., Philippines: Manila.",
+          "locator": "part-001.txt:3078（Cryptotermes dudleyi 异名条目）",
+          "note": "支撑：Planocryptotermes nocens 被列为 Cryptotermes dudleyi 的异名"
+        },
+        {
+          "quote": "Calotermes (Cryptotermes) Jacobsoni Holmgren 1913b, p. 48, im., Java; 19x3-14, p. 235, im., E. Sumatra.",
+          "locator": "part-001.txt:3074–3076（Cryptotermes dudleyi 异名条目）",
+          "note": "支撑：Calotermes (Cryptotermes) jacobsoni 被列为 Cryptotermes dudleyi 的异名"
+        }
+      ],
       "id": "S0103"
     },
     {
@@ -6399,7 +6418,7 @@
       "file_path": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
       "chars": 1491143,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T16:03:57+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa（1491143 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan; archive.org record year 1989 is wrong, title page cites April 1997.。",
       "library": {
         "book": "The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-II-(Fa",
@@ -6496,6 +6515,7 @@
       "lang": "en",
       "url": "https://archive.org/details/dli.zoological.fi.027",
       "used_in": [
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/10-zsi-books.json"
       ],
       "evidence": [
@@ -6545,7 +6565,7 @@
       "file_path": "_unpublished/文库/The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib",
       "chars": 126252,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T16:03:57+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib（126252 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF；OCR text via pdftotext from archive.org scan.。",
       "library": {
         "book": "The-Harvester-Termites-(Anacanthotermes)-of-the-Indian-Region.-Identity,-Distrib",
@@ -6573,6 +6593,7 @@
       "lang": "en",
       "url": "https://archive.org/details/dli.zoological.occpapers.111",
       "used_in": [
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/10-zsi-books.json"
       ],
       "evidence": [
@@ -6602,7 +6623,7 @@
       "file_path": "_unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-",
       "chars": 32783,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T16:05:23+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-（32783 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-",
@@ -6628,6 +6649,7 @@
       "lang": "en",
       "doi": "10.3897/zookeys.617.10040",
       "used_in": [
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/11-revisions.json"
       ],
       "evidence": [
@@ -6752,7 +6774,7 @@
       "file_path": "_unpublished/文库/yin1982-hodotermopsis-sjostedti",
       "chars": 11694,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-07T16:42:36+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/yin1982-hodotermopsis-sjostedti（6 页，11694 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；《林业科学》1982 年 18 卷 1 期 58–63 页；CNKI 版 PDF 无内嵌书目元数据，卷期页据期刊官网 citation meta 补；PDF 抽取丢失数字与部分标点（体长、触角节数留空），本记录只摘可读完整的句子。",
       "library": {
         "book": "yin1982-hodotermopsis-sjostedti",
@@ -6780,6 +6802,7 @@
       "license": "unknown",
       "url": "https://www.linyekexue.net/CN/Y1982/V18/I1/58",
       "used_in": [
+        "_data/taxon_literature.json",
         "_species/hodotermopsis-sjostedti.md"
       ],
       "evidence": [
@@ -6809,7 +6832,7 @@
       "file_path": "_unpublished/文库/he2009-archotermopsis-wroughtoni",
       "chars": 4355,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-07T16:42:37+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/he2009-archotermopsis-wroughtoni（3 页，4355 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；考订（本站编者，2026-11-07）：该文据云南绿春黄连山与沧源勐角翁丁标本所记的「罗夫顿古白蚁 A. wroughtoni」，实为库兹涅佐夫古白蚁 A. kuznetsovi；A. wroughtoni 模式产地为克什米尔谷地，长期仅知于南亚，而 A. kuznetsovi 描述自越南北部，与滇南产地同处中越边境山地。GBIF（S0112）中 A. kuznetsovi 的 2 条记录均在中国，A. wroughtoni 的记录仅在巴基斯坦与印度。",
       "library": {
         "book": "he2009-archotermopsis-wroughtoni",
@@ -6838,6 +6861,7 @@
       "lang": "zh",
       "license": "unknown",
       "used_in": [
+        "_data/taxon_literature.json",
         "_species/archotermopsis-kuznetsovi.md",
         "_species/archotermopsis-wroughtoni.md"
       ],
@@ -6873,7 +6897,7 @@
       "file_path": "_unpublished/文库/he2009-macrotermitinae-yunnan",
       "chars": 8228,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-07T16:42:38+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/he2009-macrotermitinae-yunnan（4 页，8228 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；三种此前分别仅知于广西、海南、海南；本文据中科院昆明动物所馆藏标本补充云南分布。PDF 抽取把「、」显示为 *、句号显示为 ．，摘录照录。",
       "library": {
         "book": "he2009-macrotermitinae-yunnan",
@@ -6902,6 +6926,7 @@
       "license": "unknown",
       "doi": "10.13718/j.cnki.xsxb.2009.01.014",
       "used_in": [
+        "_data/taxon_literature.json",
         "_species/macrotermes-hainanensis.md",
         "_species/macrotermes-peritrimorphus.md",
         "_species/macrotermes-trapezoides.md"
@@ -6952,11 +6977,12 @@
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "_species/archotermopsis-kuznetsovi.md",
         "_species/archotermopsis-wroughtoni.md"
       ],
       "notes": "2026-11-07 直接查询 GBIF occurrence search API，facet=country、limit=0，只取计数。A. wroughtoni 共 11 条记录，其中仅 7 条带国家字段（PK 5、IN 2），其余无国家信息；A. kuznetsovi 2 条均 CN。该结果与本站 assets/geo/species/*.geojson（2026-10-28 抓取）一致。",
-      "accessed": "2026-11-07T16:41:16+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "canonical_key": "url:https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
       "id": "S0112"
     },
@@ -7143,7 +7169,7 @@
       "file_path": "_unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
       "chars": 33450,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-07T20:02:53+08:00",
+      "accessed": "2026-11-11T02:20:04+08:00",
       "notes": "全文存于 _unpublished/文库/The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina（33450 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-Oriental-termite-genus-Labritermes-Holmgren-(Isoptera,-Termitidae,-Termitina",
@@ -7171,6 +7197,7 @@
       "lang": "en",
       "url": "https://digitallibrary.amnh.org/handle/2246/5290",
       "used_in": [
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/18-labritermes1982.json"
       ],
       "evidence": [

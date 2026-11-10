@@ -29,7 +29,8 @@
     "updated": "2026-11-11",
     "last_batch": {
       "date": "2026-11-11",
-      "pages": 15,
+      "pages": 28,
+      "batch_pages": 13,
       "units": 20,
       "chunks": 15,
       "abstracts": 5,
@@ -42,7 +43,17 @@
         "S0011",
         "S0012",
         "S0013",
-        "S0098"
+        "S0034",
+        "S0098",
+        "S0103",
+        "S0104",
+        "S0105",
+        "S0106",
+        "S0109",
+        "S0110",
+        "S0111",
+        "S0112",
+        "S0115"
       ]
     }
   },
@@ -545,6 +556,325 @@
         "id": "S0008",
         "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
         "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/genus/acutidentitermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属的建立与分类位置",
+        "paragraphs": [
+          {
+            "text": "根据 Emerson（1959）研究，尖齿白蚁属（Acutidentitermes）是该文建立的新属，模式种为奥斯本尖齿白蚁（Acutidentitermes osborni）；模式标本包括 1 头兵蚁和同巢工蚁，采自比利时刚果伊图里雨林 Epulu 河附近的地下巢。原文把该属放在白蚁亚科（Termitinae）的原始类群中，记载兵蚁头大、两侧近平行、囟小、后颏膨大，触角 15 节，胫节距 3:2:2；本站现将其置于尖白蚁亚科（Apicotermitinae）。",
+            "src": [
+              "S0034"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0034",
+        "citation": "Emerson, A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43."
+      }
+    ]
+  },
+  "/genus/anacanthotermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "印度地区的种类与分布",
+        "paragraphs": [
+          {
+            "text": "根据 Roonwal & Bose（1988）研究，无刺白蚁属（Anacanthotermes）当时全世界有 12 种，印度地区有 4 种：俾路支无刺白蚁（Anacanthotermes baluchistanicus）、大头无刺白蚁（Anacanthotermes macrocephalus）、游荡无刺白蚁（Anacanthotermes vagans）和小径无刺白蚁（Anacanthotermes viarum）；属的分布从北非、西亚、阿拉伯半岛和中亚延伸到印度西部与南部。",
+            "src": [
+              "S0105"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "南印度与北印度的代表种",
+        "paragraphs": [
+          {
+            "text": "同一研究指出，小径无刺白蚁（Anacanthotermes viarum）是南印度唯一的无刺白蚁属（Anacanthotermes）种类，两个后来描述的种被列为它的次异名；大头无刺白蚁（Anacanthotermes macrocephalus）是北印度的代表种，无刺白蚁属的旧异名 Anacanthotermes peshawarensis（现归入大头无刺白蚁）被列为它的次异名。",
+            "src": [
+              "S0105"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0105",
+        "citation": "Roonwal, M. L. & Bose, G. 1988. The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+        "url": "https://archive.org/details/dli.zoological.occpapers.111"
+      }
+    ]
+  },
+  "/genus/archotermopsis/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属的建立与中国记录",
+        "paragraphs": [
+          {
+            "text": "根据何银竹等（2009）研究，Desneux（1904）据克什米尔标本描述罗夫顿古白蚁（Archotermopsis wroughtoni），Holmgren（1911）以该种为模式建立古白蚁属（Archotermopsis）；该文据云南绿春黄连山和沧源勐角翁丁标本首次报道古白蚁属（Archotermopsis）在中国分布，当时鉴定为罗夫顿古白蚁（Archotermopsis wroughtoni）。本站据 GBIF 记录与后续考订，将这批云南标本归入库兹涅佐夫古白蚁（Archotermopsis kuznetsovi），因此中国记录对应的是库兹涅佐夫古白蚁（Archotermopsis kuznetsovi），而不是克什米尔产的罗夫顿古白蚁（Archotermopsis wroughtoni）。",
+            "src": [
+              "S0110",
+              "S0112"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0110",
+        "citation": "何银竹, 候清柏, 梁醒财. 2009. 中国原白蚁科一新记录属一新记录种. 昆虫分类学报."
+      },
+      {
+        "id": "S0112",
+        "citation": "GBIF occurrence search: Archotermopsis kuznetsovi and Archotermopsis wroughtoni (country facet), accessed 2026-11-07. https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
+        "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0"
+      }
+    ]
+  },
+  "/genus/indotermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "印白蚁属旧异名的归并",
+        "paragraphs": [
+          {
+            "text": "根据 Chhotani（1997）研究，Chatterjee & Thakur（1965）以印白蚁属的旧异名 Doonitermes capillosus（旧组合）为模式种建立旧属 Doonitermes（印白蚁属的旧异名），模式产地为印度北方邦 Dehradun 林区；Thakur & Sen-Sarma（1973）又描述西孟加拉 Buxa 林区的旧组合 Doonitermes buxensis（印白蚁属的旧异名）。Chhotani 检查两模式标本后认为该旧属是印白蚁属（Indotermes）的次异名，Doonitermes buxensis（印白蚁属的旧异名）是龙格伦吉里印白蚁（Indotermes rongrensis）的次异名，Doonitermes capillosus（印白蚁属的旧异名）转入印白蚁属（Indotermes）。",
+            "src": [
+              "S0104"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Zoological Survey of India, Calcutta.",
+        "url": "https://archive.org/details/dli.zoological.fi.027"
+      }
+    ]
+  },
+  "/genus/labritermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属的近代修订",
+        "paragraphs": [
+          {
+            "text": "根据 Krishna & Adams（1982）研究，Holmgren（1914）以苏门答腊的巴特里彭唇白蚁（Labritermes buttel-reepeni）为模式种建立唇白蚁属（Labritermes），此后长期只有这一种；该文增加埃默森唇白蚁（Labritermes emersoni）和基斯特纳唇白蚁（Labritermes kistneri）两个新种，并指出唇白蚁属（Labritermes）与非洲的孔白蚁属（Foraminitermes）关系密切。",
+            "src": [
+              "S0115"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0115",
+        "citation": "Krishna, K. & Adams, C. L. 1982. The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum Novitates 2735.",
+        "url": "https://digitallibrary.amnh.org/handle/2246/5290"
+      }
+    ]
+  },
+  "/genus/parvitermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "中美洲的种类",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2016）研究，微白蚁属（Parvitermes）在中美洲大陆已知 3 种：由墨西哥象白蚁（Nasutitermes mexicanus）转入的墨西哥微白蚁（Parvitermes mexicanus），以及新种中美洲微白蚁（Parvitermes mesoamericanus）和尤卡坦微白蚁（Parvitermes yucatanus）；这 3 种与西印度群岛的 9 种微白蚁属（Parvitermes）及细瘦安的列斯白蚁（Antillitermes subtilis）共享肠瓣刺朝向肠流反方向的特征，均为地下筑巢、食纤维素的白蚁。",
+            "src": [
+              "S0106"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0106",
+        "citation": "Scheffrahn, R. H. 2016. Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: two new termite species and reassignment of Nasutitermes mexicanus. ZooKeys 617. https://doi.org/10.3897/zookeys.617.10040",
+        "doi": "10.3897/zookeys.617.10040"
+      }
+    ]
+  },
+  "/species/anacanthotermes-macrocephalus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "分类与异名",
+        "paragraphs": [
+          {
+            "text": "根据 Roonwal & Bose（1988）研究，大头无刺白蚁（Anacanthotermes macrocephalus）原由 Desneux（1906）以草白蚁属（Hodotermes）的旧组合 Hodotermes macrocephalus（现归入大头无刺白蚁）描述，模式产地为信德（卡拉奇及附近），文中将其归入无刺白蚁属（Anacanthotermes），并把无刺白蚁属的旧异名 Anacanthotermes peshawarensis（现归入大头无刺白蚁）列为次异名；英文名为 North Indian Harvester Termite。",
+            "src": [
+              "S0105"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0105",
+        "citation": "Roonwal, M. L. & Bose, G. 1988. The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+        "url": "https://archive.org/details/dli.zoological.occpapers.111"
+      }
+    ]
+  },
+  "/species/archotermopsis-kuznetsovi/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "中国记录的来源",
+        "paragraphs": [
+          {
+            "text": "根据何银竹等（2009）研究，云南绿春黄连山和沧源勐角翁丁的标本被首次报道为中国新记录，当时鉴定为罗夫顿古白蚁（Archotermopsis wroughtoni）；本站据 GBIF 记录与后续考订，将这批标本归入库兹涅佐夫古白蚁（Archotermopsis kuznetsovi）。因此本页的中国记录来自这批云南标本，而不是克什米尔产的罗夫顿古白蚁（Archotermopsis wroughtoni）。",
+            "src": [
+              "S0110",
+              "S0112"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0110",
+        "citation": "何银竹, 候清柏, 梁醒财. 2009. 中国原白蚁科一新记录属一新记录种. 昆虫分类学报."
+      },
+      {
+        "id": "S0112",
+        "citation": "GBIF occurrence search: Archotermopsis kuznetsovi and Archotermopsis wroughtoni (country facet), accessed 2026-11-07. https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
+        "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0"
+      }
+    ]
+  },
+  "/species/hodotermopsis-sjostedti/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "湖南的分布与别名",
+        "paragraphs": [
+          {
+            "text": "根据尹世才（1982）研究，山林原白蚁（Hodotermopsis sjostedti）在湖南分布于宜章县莽山、新宁县紫云山和江华县码市林区；文中还记录其别名纯叉原白蚁、尖叉原白蚁、蛀木大白蚁，并记载国外越南、国内广东、浙江、湖南、台湾、广西、云南的分布。",
+            "src": [
+              "S0109"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0109",
+        "citation": "尹世才. 1982. 山林原白蚁的初步研究. 林业科学 18(1): 58–63.",
+        "url": "https://www.linyekexue.net/CN/Y1982/V18/I1/58"
+      }
+    ]
+  },
+  "/species/macrotermes-hainanensis/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "云南新记录",
+        "paragraphs": [
+          {
+            "text": "根据何银竹、梁醒财（2009）研究，云南屏边蚂蚁河 1991 年 3 月 24 日采得的标本被作为海南大白蚁（Macrotermes hainanensis）的云南省新记录报道；大兵蚁头最宽 2.39–2.43 mm，小兵蚁头最宽 1.38–1.51 mm，除云南外该种还分布于海南。",
+            "src": [
+              "S0111"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0111",
+        "citation": "何银竹, 梁醒财. 2009. 大白蚁亚科云南省新记录种. 西南师范大学学报（自然科学版）34(1): 137–140. https://doi.org/10.13718/j.cnki.xsxb.2009.01.014",
+        "doi": "10.13718/j.cnki.xsxb.2009.01.014"
+      }
+    ]
+  },
+  "/species/macrotermes-peritrimorphus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "云南新记录与三型兵蚁",
+        "paragraphs": [
+          {
+            "text": "根据何银竹、梁醒财（2009）研究，云南屏边蚂蚁河 1991 年 3 月 24 日采得的标本被作为近三型大白蚁（Macrotermes peritrimorphus）的云南省新记录报道；该种兵蚁分大、中、小三型，大兵蚁头最宽 3.06 mm、头长至颚基 3.79 mm，除云南外还分布于广西。",
+            "src": [
+              "S0111"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0111",
+        "citation": "何银竹, 梁醒财. 2009. 大白蚁亚科云南省新记录种. 西南师范大学学报（自然科学版）34(1): 137–140. https://doi.org/10.13718/j.cnki.xsxb.2009.01.014",
+        "doi": "10.13718/j.cnki.xsxb.2009.01.014"
+      }
+    ]
+  },
+  "/species/macrotermes-trapezoides/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "云南新记录",
+        "paragraphs": [
+          {
+            "text": "根据何银竹、梁醒财（2009）研究，云南保山下村 1982 年 10 月 25 日采得的标本被作为梯头大白蚁（Macrotermes trapezoides）的云南省新记录报道；大兵蚁头呈梯形、后缘近平直，触角 17 节、第三节长于第二节，除云南外还分布于海南。",
+            "src": [
+              "S0111"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0111",
+        "citation": "何银竹, 梁醒财. 2009. 大白蚁亚科云南省新记录种. 西南师范大学学报（自然科学版）34(1): 137–140. https://doi.org/10.13718/j.cnki.xsxb.2009.01.014",
+        "doi": "10.13718/j.cnki.xsxb.2009.01.014"
+      }
+    ]
+  },
+  "/species/cryptotermes-dudleyi/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "1949 年世界名录中的异名",
+        "paragraphs": [
+          {
+            "text": "根据 Snyder（1949）世界白蚁名录，长颚堆砂白蚁（Cryptotermes dudleyi）由 Banks（1918）据巴拿马标本描述，名录把堆砂白蚁属的旧亚属 Planocryptotermes nocens（马尼拉）、堆砂白蚁属的旧亚属组合 Cryptotermes (Planocryptotermes) javanicus（爪哇 Buitenzorg）、木白蚁属的旧组合 Calotermes (Cryptotermes) jacobsoni（爪哇、苏门答腊）等列为该种的异名。",
+            "src": [
+              "S0103"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0103",
+        "citation": "Snyder, T. E. 1949. Catalog of the Termites (Isoptera) of the World. Smithsonian Miscellaneous Collections 112.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.26103"
       }
     ]
   }
