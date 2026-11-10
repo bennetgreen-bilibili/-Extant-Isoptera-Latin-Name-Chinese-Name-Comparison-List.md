@@ -25,6 +25,7 @@
 6. 正文里每个事实性判断都要能指回段末的 `Sxxxx`；`references` 只列本页实际用到的来源。
 7. `used_in` 必须写真实存在的仓库文件；本任务统一写 `_data/taxon_literature.json`。
 8. 不覆盖或改写页面上已有的自动生成区块（`<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 之间）。
+9. 译名与正式名（详见 §5.1.1）：中文正名以站点数据为准，不临时造名；每个拉丁名每次出现都要带中文正名；属名一律写全，不缩写；不用“一头士兵”这类非标准说法。
 
 ## 2. 每轮开始前（Phase 0）
 
@@ -145,13 +146,13 @@ python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-M
 每个页面一个条目，建议结构：
 
 ```markdown
-## /genus/archotermopsis/ — 古白蚁属 Archotermopsis
+## /genus/acutidentitermes/ — 尖齿白蚁属（Acutidentitermes）
 
-### 分类与分布
-根据何银竹等（2009）对云南古白蚁的记述，古白蚁属 Archotermopsis 由 Holmgren 于 1911 年以 Termopsis wroughtoni Desneux, 1904 为模式种建立；该研究首次记录该属在中国云南分布，并记述中国新记录种罗夫顿古白蚁 A. wroughtoni。<!-- src:S0110 -->
+### 属的建立
+根据 Emerson（1959）研究，尖齿白蚁属（Acutidentitermes）以奥斯本尖齿白蚁（Acutidentitermes osborni）为模式种；模式标本包括 1 头兵蚁和同巢工蚁。<!-- src:S0034 -->
 
 ### 参考文献
-- S0110 何银竹, 周鲁们, 侯清柏. 2009. 中国新记录属——古白蚁属及一新记录种. …
+- S0034 Emerson, A. E. 1959. The African termite genera … American Museum Novitates 1947: 1–43.
 ```
 
 要求：
@@ -165,24 +166,37 @@ python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-M
 - 不写「我国」这类脱离页面语境的词；用「中国」「云南」等明确地名。
 - 不把参考文献编号写进正文（如 `[12]`）；用段末注释。
 
+### 5.1.1 译名与正式名（硬要求，违反即重写）
+
+1. **中文正名的唯一来源**：`_data/taxonomy.json`（科、亚科、属）、`_data/species_by_genus.json`（种）、`_species/*.md` 的 front matter（种及种下单元）。`_data/translation_glossary.yml` 只补少量非分类阶元词，不能拿它给分类单元临时造名。
+2. **拉丁名每次出现都带中文正名**：本段第一次出现写「中文正名（拉丁名）」，例如「尖齿白蚁属（Acutidentitermes）」「奥斯本尖齿白蚁（Acutidentitermes osborni）」；同段后文再出现也至少写成「拉丁名（中文正名）」或直接用中文正名，不能只留拉丁名。跨段重复出现同样适用。
+3. **属名一律写全**：不写 `A. osborni`、`L. buttel-reepeni`、`M. michaelseni` 这类缩写；属名、种名、亚种名都写完整。旧属名如果是属级单元，也要写全。
+4. **旧组合／异名／旧属名**：
+   - 本站有对应中文正名的，写「旧组合 拉丁名（中文正名，现归入……）」或「当时置于……，本站现置于……」。
+   - 本站没有中文正名的旧属／旧组合，**不造名、不写“无中文正名”占位**；改写为「某属的旧异名 + 拉丁名」或「旧属 + 拉丁名（与现属……的关系）」，让读者知道它和哪个有正名的单元相连。
+   - 旧名只在确有必要说明分类变动时出现；不要为了列异名而堆一串没有中文对应的拉丁名。
+5. **正式名与术语**：正文用「中文正名＋完整拉丁学名」，不用俗名、缩写或只写属名来指代一个种；「属」「种」「亚种」「科」「亚科」等阶元要写清楚。计数写「1 头兵蚁」「2 头工蚁」「3 头有翅成虫」，不写「一头士兵」「一只兵蚁」；「兵蚁」「工蚁」「有翅成虫」「若虫」「Pseudergate（拟工蚁）」等用站点和文献中的标准译名。
+6. **写完自查**：跑 `python _tools/check_taxon_literature.py --file <draft.json>`；它目前会检查 `A. species` 式属名缩写和「士兵」这类禁用词。中文名缺失、旧名关系不清仍要人工逐段核对，检查器通过不等于译名合格。
+7. **修改已提交内容同样适用**：用户指出旧批次有译名／缩写问题时，不只改新草稿，还要回改 `_data/taxon_literature.json` 中已提交的段落，并重新校验。
+
 ### 5.2 数据形状
 
 最终要合并进 `_data/taxon_literature.json`：
 
 ```json
 {
-  "/genus/archotermopsis/": {
+  "/genus/acutidentitermes/": {
     "updated": "2026-11-12",
     "sections": [
       {
-        "heading": "分类与分布",
+        "heading": "属的建立",
         "paragraphs": [
-          {"text": "根据……", "src": ["S0110"]}
+          {"text": "根据……尖齿白蚁属（Acutidentitermes）……", "src": ["S0034"]}
         ]
       }
     ],
     "references": [
-      {"id": "S0110", "citation": "何银竹, 周鲁们, 侯清柏. 2009. ……", "url": "……"}
+      {"id": "S0034", "citation": "Emerson, A. E. 1959. The African termite genera … American Museum Novitates 1947: 1–43."}
     ]
   }
 }
@@ -332,8 +346,8 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 - [ ] 参考文献与正文来源一一对应，没有列了不用的。
 - [ ] 中文通顺，学名斜体，标点统一。
 - [ ] 每个拉丁名第一次及以后每次出现，都带中文正名（如“尖齿白蚁属（Acutidentitermes）”“奥斯本尖齿白蚁（Acutidentitermes osborni）”）；中文正名以 `_data/taxonomy.json`、`_data/species_by_genus.json`、`_species/*.md` 为准，不临时造名。
-- [ ] 属名一律写全，不写 `A. osborni`、`L. buttel-reepeni` 这类缩写；旧组合没有本站中文正名时，写“（无中文正名，旧组合/旧属/旧异名）”，不要只留拉丁名。
-- [ ] 计数用“1 头兵蚁”“2 头工蚁”，不写“一头士兵”。
+- [ ] 属名一律写全，不写 `A. osborni`、`L. buttel-reepeni` 这类缩写；旧属／旧组合没有本站中文正名时，改写为“某属的旧异名／旧组合 + 拉丁名”，不写“无中文正名”占位，也不只留拉丁名。
+- [ ] 计数用“1 头兵蚁”“2 头工蚁”“3 头有翅成虫”，不写“一头士兵”“一只兵蚁”。
 - [ ] 只改了 `_data/taxon_literature.json` 和本轮必要的源文件；没有手改生成页。
 
 ## 9. 故障处理
