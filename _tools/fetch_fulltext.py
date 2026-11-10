@@ -159,6 +159,9 @@ def _archived_dois(root: Path) -> set:
                 continue
             for k in _doi_keys(rec):
                 seen.add(k)
+    # 摘要存档条目即使 manifest 里仍有同名记录，也应可重试：本地 vault 无法解包打标记，
+    # 故用「已归档集合 - 重试集合」让 .sources/ 里的 fulltext_status 标记压过 manifest。
+    seen -= _retryable_dois(root)
     return seen
 
 
