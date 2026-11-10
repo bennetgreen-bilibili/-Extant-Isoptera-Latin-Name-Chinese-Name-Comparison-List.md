@@ -124,13 +124,19 @@ python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-M
 
 ### 4.5 书怎么读：chunk 不是阅读单位
 
-- 书（`source_type: book`）先读目录，按章／节定位；`chunk` 只是文件切块，**扫过一个 chunk 不等于读完这本书**。
-- 一个「节」是一个阅读单位：记录章、节、起止行／页、所属 chunk。书的一节可以占用当天 20 个单位里的一个。
-- **每节穷尽抽取**：凡是能落到具体分类单元、能回原文核对的事实，全部摘出；**不设 3–8 条上限**。分类位置、异名、分布、形态、品级、行为、生态、防治、年代都算。
-- 每条事实一张卡：`page/taxon`、`claim`、`quote`、`src`、`locator`、`status`（`used` / `queued` / `rejected`）。
+- 这一条适用于**所有书和专著**，不只《白蚁学》：`source_type: book` 的 11 部（S0001、S0002、S0003、S0004、S0005、S0103、S0104、S0105、S0113、S0114、S0118），以及按专著处理的 S0033 Holmgren 1912、S0034 Emerson 1959、S0075 Belgian Congo。`chunk` 只是文件切块，**扫过一个 chunk 不等于读完这本书**；也不要用“书已扫”冒充“书已读”。
+- 先读目录／索引，再按书型拆阅读单位：
+  - **教材／综述**（如《白蚁学》《白蚁生物学现代研究合集》）：一章或一节 = 一个阅读单位；记章、节、起止行／页、所属 chunk。
+  - **志书／专著**（如中国动物志、Treatise、Fauna of India、Monographie）：一个科／属／种的处理（taxonomic treatment）或一个页码段 = 一个阅读单位；有章节的按章节。
+  - **名录／目录**（如 Catalog of the Termites）：一个科／属条目或一个页码段 = 一个阅读单位；不要把整页名录当散文硬写。
+  - **文集／期刊卷**（如 Arkiv for zoologi 1920）：一篇论文或一个独立 section = 一个阅读单位。
+- 每个阅读单位记 `work`、`chapter/section 或 taxon treatment`、起止页／行、所属 chunk；一天 20 个单位里，一个单位就是一节／一个处理，不是一个 200k 字符的 chunk。
+- **每节穷尽抽取**：凡是能落到具体分类单元、能回原文核对的事实，全部摘出；**不设 3–8 条上限，有多少算多少**。分类位置、异名、分布、形态、品级、行为、生态、防治、年代都算。
+- 每条事实一张卡：`page/taxon`、`claim`、`quote`、`src`、`work`、`unit`、`locator`、`status`（`used` / `queued` / `rejected`）。
 - 能落到具体页面的写页面；暂时落不上的写进 `_reports/library-reading/facts/YYYY-MM-DD.json`，下一轮继续用，不要丢。
-- 覆盖账本按**节**记 `未读 / 已扫 / 已摘 / 已用`；不要用「chunk 已扫」冒充「书已读」。
-- 书的主题顺序：分类篇 → 形态篇 → 生理／生物学／生态 → 防治 → 文献。《白蚁学》22 章，先读第 6 章「白蚁分类」。
+- 覆盖账本按**节／处理**记 `未读 / 已扫 / 已摘 / 已用`；每部书单独建一行，不能只记《白蚁学》。
+- 阅读顺序按书型：教材／综述先分类 → 形态 → 生理／生物学／生态 → 防治 → 文献；志书／名录先按科 → 属 → 种；文集按单篇主题。书目与拆单位方式见 `_reports/library-reading/book-outlines/README.md`。
+- 例：《白蚁学》22 章，先读第 6 章「白蚁分类」；《Catalog of the Termites》先按科／属条目推进；《Treatise》先读分类总论与科级处理。示例只是示例，所有书同规。
 
 ## 5. Phase A：写草稿
 
