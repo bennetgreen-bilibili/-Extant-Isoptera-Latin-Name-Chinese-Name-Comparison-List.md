@@ -86,6 +86,12 @@ jobs:
           LIBRARY_VAULT_KEY: ${{ secrets.LIBRARY_VAULT_KEY }}
         run: python _tools/library_vault.py unpack --target _unpublished/文库 --force
 
+      - name: Re-sync sources ledger from library
+        # 从 vault 解包出的文库文件是「已归档内容」的唯一真源：这里按磁盘文件重算每个分卷的
+        # sha256 写回 .sources/，让账本与 vault 内容始终一致。否则本地改了文库文件、只重打包
+        # vault 而忘了跑 import-library 时，check --strict 会因 sha256 不符把 job 卡死、整轮归档丢弃。
+        run: python _tools/sources.py import-library
+
       - name: Fetch and archive OA fulltext
         env:
           UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}

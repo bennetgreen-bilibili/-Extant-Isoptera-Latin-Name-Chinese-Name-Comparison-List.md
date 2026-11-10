@@ -95,6 +95,12 @@ def _norm_doi(doi: str) -> str:
     return d
 
 
+def _doi_slug(doi: str, title) -> str:
+    """文库子目录名：优先用 DOI（唯一），避免标题截断/同名导致两篇论文落到同一目录互相覆盖。"""
+    d = _norm_doi(doi)
+    return d if d else (str(title or "paper"))
+
+
 def _to_int(x):
     try:
         return int(x)
@@ -534,6 +540,7 @@ def _ingest(root: Path, tmpfile: Path, meta: dict, text_path=None, ocr_note=None
     cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "library-add",
            "--file", str(tmpfile),
            "--title", (meta.get("title") or doi).strip(),
+           "--slug", _doi_slug(doi, meta.get("title")),
            "--doi", doi,
            "--kind", "paper",
            "--reliability", _reliability(meta),
@@ -578,6 +585,7 @@ def _ingest_abstract(root: Path, item: dict, tmp_dir: Path):
     cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "library-add",
            "--file", str(txt),
            "--title", (item.get("title") or doi or "摘要").strip(),
+           "--slug", _doi_slug(doi, item.get("title")),
            "--kind", "paper",
            "--reliability", _reliability({"type": item.get("type") or "",
                                           "url": item.get("oa_url") or ""}),
