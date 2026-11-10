@@ -7,7 +7,8 @@
   - 每个 src / references[].id 都能在 .sources/index.json 找到；
   - references 覆盖正文用到的全部来源，且不含未用到的来源；
   - 同一页面内没有重复段落；
-  - updated 为 YYYY-MM-DD。
+  - updated 为 YYYY-MM-DD；
+  - 不用「士兵」，属名不缩写（警告）。
 
 用法：
   python _tools/check_taxon_literature.py
@@ -25,6 +26,7 @@ LITERATURE = ROOT / "_data" / "taxon_literature.json"
 SOURCES = ROOT / ".sources" / "index.json"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PAGE_RE = re.compile(r"^/(genus|family|subfamily|species)/([a-z0-9-]+)/$")
+GENUS_ABBR_RE = re.compile(r"\b[A-Z]\.\s*[a-z]")
 
 
 def load(path):
@@ -151,6 +153,11 @@ def main():
                 if text in seen_text:
                     errors.append("%s：页面内重复段落" % where)
                 seen_text.add(text)
+                if "士兵" in text:
+                    warnings.append("%s：用「兵蚁」而不是「士兵」" % where)
+                abbr = GENUS_ABBR_RE.search(text)
+                if abbr:
+                    warnings.append("%s：属名不要缩写（%s）" % (where, abbr.group(0)))
                 src = para.get("src") or []
                 if not isinstance(src, list) or not src:
                     errors.append("%s：src 必须是非空数组" % where)

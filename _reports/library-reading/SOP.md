@@ -331,6 +331,9 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 - [ ] 没有重复页面已有内容。
 - [ ] 参考文献与正文来源一一对应，没有列了不用的。
 - [ ] 中文通顺，学名斜体，标点统一。
+- [ ] 每个拉丁名第一次及以后每次出现，都带中文正名（如“尖齿白蚁属（Acutidentitermes）”“奥斯本尖齿白蚁（Acutidentitermes osborni）”）；中文正名以 `_data/taxonomy.json`、`_data/species_by_genus.json`、`_species/*.md` 为准，不临时造名。
+- [ ] 属名一律写全，不写 `A. osborni`、`L. buttel-reepeni` 这类缩写；旧组合没有本站中文正名时，写“（无中文正名，旧组合/旧属/旧异名）”，不要只留拉丁名。
+- [ ] 计数用“1 头兵蚁”“2 头工蚁”，不写“一头士兵”。
 - [ ] 只改了 `_data/taxon_literature.json` 和本轮必要的源文件；没有手改生成页。
 
 ## 9. 故障处理
