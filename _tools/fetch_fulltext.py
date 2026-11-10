@@ -70,6 +70,8 @@ OCR_LANG_MAP = {
 DOWNLOAD_TIMEOUT = 60
 POLITE_DELAY = 0.2
 MAX_TRIES = 2
+# 仅存摘要、全文仍可重试的标记（区别于已拿到全文的「已归档」）
+RETRYABLE_STATUSES = ("abstract-no-oa", "abstract-download-failed")
 
 
 class Budget:
@@ -124,7 +126,28 @@ def _save_json(path: Path, obj) -> None:
     tmp.replace(path)
 
 
+def _entry_fulltext_status(rec: dict) -> str:
+    """从一条 manifest/索引记录里读出 fulltext_status（manifest 在 meta 里，索引在顶层）。"""
+    return str((rec.get("meta") or {}).get("fulltext_status")
+               or rec.get("fulltext_status") or "").strip()
+
+
+def _doi_keys(rec: dict) -> list:
+    """从一条 manifest/索引记录里取出规范化 DOI（0-1 个）。"""
+    key = rec.get("canonical_key") or ""
+    if key.startswith("doi:"):
+        return [key[4:].lower()]
+    doi = rec.get("doi") or (rec.get("meta") or {}).get("doi")
+    if doi:
+        return [_norm_doi(doi)]
+    return []
+
+
 def _archived_dois(root: Path) -> set:
+    """返回「已有全文或来源记录、不应再重试」的 DOI 集合。
+
+    摘要存档（fulltext_status 为 abstract-*）不算已归档：会重试，但优先级靠后。
+    """
     seen = set()
     for rel in (MANIFEST_REL, INDEX_REL):
         data = _load_json(root / rel)
@@ -132,12 +155,26 @@ def _archived_dois(root: Path) -> set:
             continue
         records = data.get("books") if rel == MANIFEST_REL else data.get("sources")
         for rec in records or []:
-            key = rec.get("canonical_key") or ""
-            if key.startswith("doi:"):
-                seen.add(key[4:].lower())
-            elif rec.get("doi"):
-                seen.add(_norm_doi(rec["doi"]))
+            if _entry_fulltext_status(rec) in RETRYABLE_STATUSES:
+                continue
+            for k in _doi_keys(rec):
+                seen.add(k)
     return seen
+
+
+def _retryable_dois(root: Path) -> set:
+    """返回「已存摘要、全文仍待重试」的 DOI 集合（无 OA 或下载失败）。"""
+    retry = set()
+    for rel in (MANIFEST_REL, INDEX_REL):
+        data = _load_json(root / rel)
+        if not data:
+            continue
+        records = data.get("books") if rel == MANIFEST_REL else data.get("sources")
+        for rec in records or []:
+            if _entry_fulltext_status(rec) in RETRYABLE_STATUSES:
+                for k in _doi_keys(rec):
+                    retry.add(k)
+    return retry
 
 
 def _load_papers(root: Path) -> list:
@@ -167,6 +204,7 @@ def _load_papers(root: Path) -> list:
 
 def _discover_candidates(root: Path, limit: int) -> list:
     archived = _archived_dois(root)
+    retryable = _retryable_dois(root)
     seen = set()
     cands = []
     for p in _load_papers(root):
@@ -177,7 +215,9 @@ def _discover_candidates(root: Path, limit: int) -> list:
             continue
         seen.add(key)
         cands.append(p)
-    cands.sort(key=lambda x: (-(x.get("cited_by") or 0), -(x.get("year") or 0)))
+    # 未试过的论文优先；仅存摘要待重试的往后排
+    cands.sort(key=lambda x: (1 if _norm_doi(x.get("doi") or "") in retryable else 0,
+                               -(x.get("cited_by") or 0), -(x.get("year") or 0)))
     return cands[:limit]
 
 
@@ -192,7 +232,10 @@ def _merge_queue(root: Path, queue_path: Path, cands: list) -> list:
     for p in cands:
         by_doi[_norm_doi(p["doi"])] = p
     merged = list(by_doi.values())
-    merged.sort(key=lambda x: (-(x.get("cited_by") or 0), -(x.get("year") or 0)))
+    retryable = _retryable_dois(root)
+    # 未试过的论文优先；仅存摘要待重试的往后排
+    merged.sort(key=lambda x: (1 if _norm_doi(x.get("doi") or "") in retryable else 0,
+                                -(x.get("cited_by") or 0), -(x.get("year") or 0)))
     _save_json(queue_path, merged)
     return merged
 
@@ -566,11 +609,12 @@ def _ingest(root: Path, tmpfile: Path, meta: dict, text_path=None, ocr_note=None
     return r.returncode, r.stdout or "", r.stderr or ""
 
 
-def _ingest_abstract(root: Path, item: dict, tmp_dir: Path):
-    """无 OA 全文时，把完整摘要作为「摘要全文」存进文库（不截断），.sources/ 记元数据。
+def _ingest_abstract(root: Path, item: dict, tmp_dir: Path, fulltext_status: str = "abstract-no-oa"):
+    """无 OA 全文 / 下载失败时，把完整摘要作为「摘要全文」存进文库（不截断），.sources/ 记元数据。
 
     摘要全文进 _unpublished/文库/<slug>/full.txt（gitignored），账本 .sources/ 只留元数据 +
     短摘录，符合 AGENTS.md §1.6 红线（单处 ≤400 字、累计 ≤2000 字）。
+    fulltext_status 标记「仅摘要、全文待重试」，让以后还能重试找全文。
     """
     abstract = " ".join((item.get("abstract") or "").split())
     if not abstract:
@@ -580,7 +624,8 @@ def _ingest_abstract(root: Path, item: dict, tmp_dir: Path):
     stem = (_norm_doi(doi) or (item.get("title") or "abstract")).replace("/", "_").replace(":", "_")[:80]
     txt = tmp_dir / (stem + "-abstract.txt")
     txt.write_text(abstract, encoding="utf-8", newline="\n")
-    notes = ("无 OA 全文，仅存完整摘要（" + str(len(abstract)) + " 字，abstract_source=" + src
+    reason = "下载失败" if fulltext_status == "abstract-download-failed" else "无 OA 全文"
+    notes = (reason + "，仅存完整摘要（" + str(len(abstract)) + " 字，abstract_source=" + src
              + "）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。")
     cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "library-add",
            "--file", str(txt),
@@ -589,6 +634,7 @@ def _ingest_abstract(root: Path, item: dict, tmp_dir: Path):
            "--kind", "paper",
            "--reliability", _reliability({"type": item.get("type") or "",
                                           "url": item.get("oa_url") or ""}),
+           "--fulltext-status", fulltext_status,
            "--notes", notes]
     if doi:
         cmd += ["--doi", doi]
@@ -676,6 +722,7 @@ def run_write(root: Path, args) -> int:
         print("[fulltext] 队列为空：先 --discover N 生成候选", file=sys.stderr)
         return 2
     archived = _archived_dois(root)
+    retryable = _retryable_dois(root)
     cache = _load_json(root / args.cache)
     if not isinstance(cache, dict):
         cache = {}
@@ -706,6 +753,10 @@ def run_write(root: Path, args) -> int:
         print("[fulltext] [" + str(processed) + "] doi:" + doi)
         meta = resolve(doi, it, mailto, api_key, budget)
         if not meta or not meta.get("url"):
+            if key in retryable:
+                skipped += 1
+                print("[fulltext]   仍无 OA 全文，保留既有摘要（标记可重试）")
+                continue
             if not (it.get("abstract") or "").strip():
                 no_oa += 1
                 cache[key] = {"status": "no-fulltext", "attempted_at": time.time(),
@@ -717,7 +768,7 @@ def run_write(root: Path, args) -> int:
                 print("[fulltext]   [dry-run] 无 OA 全文，将存摘要（"
                       + str((it.get("abstract_source") or "?")) + "）")
                 continue
-            rc2, out2, err2 = _ingest_abstract(root, it, tmp_dir)
+            rc2, out2, err2 = _ingest_abstract(root, it, tmp_dir, fulltext_status="abstract-no-oa")
             if rc2 == 0:
                 abstract_ok += 1
                 archived.add(key)
@@ -741,10 +792,32 @@ def run_write(root: Path, args) -> int:
             continue
         tmpfile, final_url, ctype = _download(meta["url"], meta.get("kind"), mailto, tmp_dir)
         if tmpfile is None:
-            errors += 1
-            cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
-                          "error": "下载失败（content-type=" + ctype + "）"}
-            print("[fulltext]   下载失败：" + str(meta.get("url")))
+            if key in retryable:
+                errors += 1
+                cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
+                              "error": "下载仍失败（保留既有摘要，标记可重试）"}
+                print("[fulltext]   下载仍失败，保留既有摘要（标记可重试）")
+                continue
+            if not (it.get("abstract") or "").strip():
+                errors += 1
+                cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
+                              "error": "下载失败（content-type=" + ctype + "）"}
+                print("[fulltext]   下载失败：" + str(meta.get("url")))
+                continue
+            rc2, out2, err2 = _ingest_abstract(root, it, tmp_dir, fulltext_status="abstract-download-failed")
+            if rc2 == 0:
+                abstract_ok += 1
+                archived.add(key)
+                cache[key] = {"status": "abstract-archived", "attempted_at": time.time(),
+                              "url": meta.get("url"),
+                              "source": it.get("abstract_source") or "abstract",
+                              "retry": "download-failed"}
+                print("[fulltext]   下载失败，已存摘要（标记 OA 待重试）")
+            else:
+                errors += 1
+                cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
+                              "error": ("下载失败且摘要归档失败：" + ((err2 or out2) or "").strip()[:200])}
+                print("[fulltext]   下载失败且摘要归档失败：" + ((err2 or out2) or "").strip()[:160])
             continue
         text_path = None
         ocr_note = None

@@ -292,6 +292,13 @@ def merge(existing: dict, new: dict) -> tuple[dict, bool]:
     if new.get("authors") and not existing.get("authors"):
         existing["authors"] = new["authors"]
         changed = True
+    # fulltext_status 表示「仅摘要存档、全文待重试」；一旦拿到全文（新记录无此标记）就清掉旧标记
+    if new.get("fulltext_status") != existing.get("fulltext_status"):
+        if new.get("fulltext_status"):
+            existing["fulltext_status"] = new["fulltext_status"]
+        else:
+            existing.pop("fulltext_status", None)
+        changed = True
     seen = {(e.get("quote"), e.get("locator")) for e in existing.get("evidence", [])}
     for ev in new.get("evidence", []):
         if (ev.get("quote"), ev.get("locator")) not in seen:
@@ -630,7 +637,7 @@ def _library_record(root: Path, lib_dir: Path, manifest_path: Path, generated: s
         "library": {"book": name, "manifest": rel(root, manifest_path),
                     "generated": generated, "chunks": chunks},
     }
-    for key in ("authors", "year", "publisher", "lang", "license", "doi", "url"):
+    for key in ("authors", "year", "publisher", "lang", "license", "doi", "url", "fulltext_status"):
         if meta.get(key):
             rec[key] = meta[key]
     return rec
@@ -723,6 +730,7 @@ def cmd_library_add(args: argparse.Namespace) -> int:
         "doi": doi or None,
         "url": url or None,
         "reliability": args.reliability,
+        "fulltext_status": args.fulltext_status or None,
     }.items() if value}
     entry = {
         "book": slug,
@@ -949,6 +957,8 @@ def main(argv: list[str] | None = None) -> int:
     p_ladd.add_argument("--doi")
     p_ladd.add_argument("--url")
     p_ladd.add_argument("--notes")
+    p_ladd.add_argument("--fulltext-status", dest="fulltext_status", default=None,
+                        help="标记摘要存档待重试：abstract-no-oa（无 OA）/ abstract-download-failed（下载失败）")
     p_ladd.add_argument("--used-in", dest="used_in", action="append", default=[])
     p_ladd.add_argument("--chunk-chars", dest="chunk_chars", type=int, default=LIBRARY_TEXT_CHUNK)
     p_ladd.add_argument("--no-copy", dest="no_copy", action="store_true", help="不复制原始 PDF/文件")
