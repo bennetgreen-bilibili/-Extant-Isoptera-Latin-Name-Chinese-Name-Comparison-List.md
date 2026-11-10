@@ -170,6 +170,14 @@ python _tools/library_scan.py --limit 50 --focus auto --date YYYY-MM-DD --top 12
 - `status.json`：`{"status":"pending","date":"YYYY-MM-DD","pages":N}`；获批准后改 `approved`，应用完改 `applied`。
 - `notes.md`：本轮读了哪 50 个单元、哪些候选被丢弃及原因、哪些地方拿不准。
 
+写完先跑：
+
+```powershell
+python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
+```
+
+有 ERROR 先修 JSON，再输出到对话；WARN 可在 `notes.md` 解释。
+
 `draft.md` 开头写：
 
 ```markdown
@@ -249,10 +257,13 @@ python _tools/library_scan.py mark --date YYYY-MM-DD
 按顺序：
 
 ```powershell
+python _tools/check_taxon_literature.py
 python _tools/check_site.py --ci
 python _tools/check_liquid.py
 python _tools/sources.py check --strict
 ```
+
+`check_taxon_literature.py` 会校验页面 URL、`src`/`references` id、重复段落和参考文献覆盖关系；草稿阶段可先用 `--file _tmp/review/YYYY-MM-DD/draft.json` 跑一遍。
 
 若本机有 Git Bash，再跑：
 
