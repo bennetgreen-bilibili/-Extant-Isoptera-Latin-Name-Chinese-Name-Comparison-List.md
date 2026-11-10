@@ -54,6 +54,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（10 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/indotermes-arshadi/"><i>Indotermes arshadi</i> Akhtar, 1975 阿沙德印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-capillosus/"><i>Indotermes capillosus</i> Chatterjee & Thakur, 1965 多毛印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-hainanensis/"><i>Indotermes hainanensis</i> He & Xia, 1981 海南印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-isodentatus/"><i>Indotermes isodentatus</i> Tsai & Chen, 1963 等齿印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-luxiensis/"><i>Indotermes luxiensis</i> Huang & Zhu, 1984 潞西印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-maymensis/"><i>Indotermes maymensis</i> Roonwal & Sen-Sarma, 1958 眉妙印白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/indotermes-menggarensis/"><i>Indotermes menggarensis</i> Tsai & Zhu, 1984 勐戛印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-rongrensis/"><i>Indotermes rongrensis</i> Roonwal & Chhotani, 1962 龙格伦吉里印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-thailandis/"><i>Indotermes thailandis</i> Ahmad, 1963 泰国印白蚁</a></li><li><a href="{{ site.base_url }}/species/indotermes-yunnanensis/"><i>Indotermes yunnanensis</i> He & Xia, 1981 云南印白蚁</a></li></ul>
 </section>

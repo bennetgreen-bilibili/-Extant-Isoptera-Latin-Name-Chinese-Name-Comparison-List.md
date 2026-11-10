@@ -54,6 +54,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/unguitermes-acutifrons/"><i>Unguitermes acutifrons</i> Silvestri, 1914 尖额爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-bidentatus/"><i>Unguitermes bidentatus</i> Silvestri, 1914 双齿爪白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/unguitermes-bouilloni/"><i>Unguitermes bouilloni</i> Harris, 1965 布永爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-magnus/"><i>Unguitermes magnus</i> Ruelle, 1973 大爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-proclivifrons/"><i>Unguitermes proclivifrons</i> Ruelle, 1973 前斜额爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-trispinosus/"><i>Unguitermes trispinosus</i> Ruelle, 1973 三针爪白蚁</a></li><li><a href="{{ site.base_url }}/species/unguitermes-unidentatus/"><i>Unguitermes unidentatus</i> Ruelle, 1973 单齿爪白蚁</a></li></ul>
 </section>

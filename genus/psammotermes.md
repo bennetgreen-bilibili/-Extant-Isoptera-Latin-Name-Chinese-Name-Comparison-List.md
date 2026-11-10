@@ -58,6 +58,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/psammotermes-allocerus/"><i>Psammotermes allocerus</i> Silvestri, 1908 奇白沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-hybostoma/"><i>Psammotermes hybostoma</i> Desneux, 1902 弯嘴沙白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/psammotermes-prohybostoma/"><i>Psammotermes prohybostoma</i> Ravan & Akhtar, 1999 似弯嘴沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-rajasthanicus/"><i>Psammotermes rajasthanicus</i> Roonwal & Bose, 1960 拉贾斯坦沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-senegalensis/"><i>Psammotermes senegalensis</i> Sjöstedt, 1924 塞内加尔沙白蚁</a></li><li><a href="{{ site.base_url }}/species/psammotermes-voeltzkowi/"><i>Psammotermes voeltzkowi</i> Wasmann, 1910 弗尔特科沙白蚁</a></li></ul>
 </section>

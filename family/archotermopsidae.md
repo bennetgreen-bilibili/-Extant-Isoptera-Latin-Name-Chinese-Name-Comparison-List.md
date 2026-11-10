@@ -53,6 +53,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/archotermopsidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/archotermopsis/"><i>Archotermopsis</i> 古白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/zootermopsis/"><i>Zootermopsis</i> 动白蚁属</a> <span class="taxon-count">3 种、2 亚种</span></li></ul>
 </section>

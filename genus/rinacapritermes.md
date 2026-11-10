@@ -54,6 +54,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/rinacapritermes-abundans/"><i>Rinacapritermes abundans</i> Amina & Rajmohana, 2022 丰富丽娜扭白蚁</a></li><li><a href="{{ site.base_url }}/species/rinacapritermes-silvius/"><i>Rinacapritermes silvius</i> Amina & Rajmohana, 2022 林栖丽娜扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

@@ -685,6 +685,10 @@ def main():
         _includes/genus-morphology.html 给出「待补」占位与原始描述出处。"""
         return '{% include genus-morphology.html %}\n'
 
+    def literature_section():
+        """人工整理的研究记述（_data/taxon_literature.json，按 page.url 取）。"""
+        return '{% include taxon-literature.html %}\n'
+
     def genus_map_note(gen):
         fam = families[gen["family"]]
         links = ['<a href="%s/family/%s/">%s的科级分布图</a>' % (SB, fam["id"], fam["zh"])]
@@ -759,6 +763,7 @@ def main():
             + intro_section(fid, "科级介绍")
             + fauna_section("family", fid)
             + keys_section("family", fid)
+            + literature_section()
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("family", fid) + "\n</article>\n"
             + taxon_jsonld("family", fid, fam["latin"], fam["zh"], parent, "科")
@@ -793,6 +798,7 @@ def main():
             + photo_section("subfamily", sid)
             + intro_section(sid, "亚科级介绍")
             + keys_section("subfamily", sid)
+            + literature_section()
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("subfamily", sid,
                          '<a href="%s/family/%s/">%s <i>%s</i></a>'
@@ -840,6 +846,7 @@ def main():
             + fauna_section("genus", gid)
             + genus_morphology_section()
             + keys_section("genus", gid)
+            + literature_section()
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
             + footer_nav("genus", gid, genus_up(gen)) + "\n</article>\n"
             + taxon_jsonld("genus", gid, gen["latin"], gen["zh"], parent, "属")

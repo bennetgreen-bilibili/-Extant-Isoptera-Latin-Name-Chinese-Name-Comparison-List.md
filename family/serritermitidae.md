@@ -43,6 +43,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/serritermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/glossotermes/"><i>Glossotermes</i> 舌白蚁属</a> <span class="taxon-count">2 种</span></li><li><a href="{{ site.base_url }}/genus/serritermes/"><i>Serritermes</i> 齿白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

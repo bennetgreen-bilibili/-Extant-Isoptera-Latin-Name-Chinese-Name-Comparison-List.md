@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/lophotermes-aduncus/"><i>Lophotermes aduncus</i> Miller, 1991 钩状小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-brevicephalus/"><i>Lophotermes brevicephalus</i> Miller, 1991 短头小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-crinitus/"><i>Lophotermes crinitus</i> Miller, 1991 多毛小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-leptognathus/"><i>Lophotermes leptognathus</i> Miller, 1991 细颚小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-parvicornis/"><i>Lophotermes parvicornis</i> Miller, 1991 小角小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-pectinatus/"><i>Lophotermes pectinatus</i> Miller, 1991 梳状小脊突白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/lophotermes-pusillus/"><i>Lophotermes pusillus</i> Miller, 1991 极小小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-quadratus/"><i>Lophotermes quadratus</i> Hill, 1927 方形小脊突白蚁</a></li><li><a href="{{ site.base_url }}/species/lophotermes-septentrionalis/"><i>Lophotermes septentrionalis</i> Hill, 1927 北方小脊突白蚁</a></li></ul>
 </section>

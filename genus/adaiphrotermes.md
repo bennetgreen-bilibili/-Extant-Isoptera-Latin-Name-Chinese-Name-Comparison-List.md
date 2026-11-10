@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/adaiphrotermes-choanensis/"><i>Adaiphrotermes choanensis</i> Fuller, 1925 乔安和白蚁</a></li><li><a href="{{ site.base_url }}/species/adaiphrotermes-cuniculator/"><i>Adaiphrotermes cuniculator</i> Sands, 1972 灵动和白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/adaiphrotermes-scapheutes/"><i>Adaiphrotermes scapheutes</i> Sands, 1972 中凹和白蚁</a></li></ul>
 </section>

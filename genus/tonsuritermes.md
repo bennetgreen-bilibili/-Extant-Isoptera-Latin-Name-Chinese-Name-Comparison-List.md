@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/tonsuritermes-mathewsi/"><i>Tonsuritermes mathewsi</i> Constantini & Cancello, 2018 马修斯奇囟白蚁</a></li><li><a href="{{ site.base_url }}/species/tonsuritermes-tucki/"><i>Tonsuritermes tucki</i> Constantini & Cancello, 2018 塔克奇囟白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

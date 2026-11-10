@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "created": "2026-11-11",
+  "updated": "2026-11-11",
+  "notes": "每读完一个 chunk 并产出候选后，由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
+  "units": {}
+}

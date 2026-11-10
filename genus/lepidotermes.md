@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（9 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/lepidotermes-amydrus/"><i>Lepidotermes amydrus</i> Uys, 1994 幽暗鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-goliathi/"><i>Lepidotermes goliathi</i> Williams, 1954 戈利亚特鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-lounsburyi/"><i>Lepidotermes lounsburyi</i> Silvestri, 1914 劳恩斯伯里鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-mtwalumi/"><i>Lepidotermes mtwalumi</i> Fuller, 1925 姆图瓦卢米鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-planifacies/"><i>Lepidotermes planifacies</i> Williams, 1954 扁形鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-pretoriensis/"><i>Lepidotermes pretoriensis</i> Sjöstedt, 1914 比勒陀利亚鳞白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/lepidotermes-scalenus/"><i>Lepidotermes scalenus</i> Uys, 1994 斜角肌鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-simplex/"><i>Lepidotermes simplex</i> Holmgren, 1913 简单鳞白蚁</a></li><li><a href="{{ site.base_url }}/species/lepidotermes-vastus/"><i>Lepidotermes vastus</i> Uys, 1994 空闲鳞白蚁</a></li></ul>
 </section>

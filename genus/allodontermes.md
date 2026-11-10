@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/allodontermes-rhodesiensis/"><i>Allodontermes rhodesiensis</i> Sjöstedt, 1914 罗得西亚奇齿白蚁</a></li><li><a href="{{ site.base_url }}/species/allodontermes-schultzei/"><i>Allodontermes schultzei</i> Silvestri, 1908 舒尔茨奇齿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/allodontermes-tenax/"><i>Allodontermes tenax</i> Silvestri, 1912 执着奇齿白蚁</a></li></ul>
 </section>

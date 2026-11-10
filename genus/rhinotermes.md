@@ -58,6 +58,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/rhinotermes-hispidus/"><i>Rhinotermes hispidus</i> Emerson, 1925 多毛鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/rhinotermes-manni/"><i>Rhinotermes manni</i> Snyder, 1924 曼鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/rhinotermes-marginalis/"><i>Rhinotermes marginalis</i> Linnaeus, 1758 微小鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/rhinotermes-nasutus/"><i>Rhinotermes nasutus</i> Perty, 1833 大鼻鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

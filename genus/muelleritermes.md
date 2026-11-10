@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/muelleritermes-fritzi/"><i>Muelleritermes fritzi</i> Cancello, Oliveira & Rocha, 2015 弗里茨米勒白蚁米勒白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/muelleritermes-globiceps/"><i>Muelleritermes globiceps</i> Cancello, Oliveira & Rocha, 2015 球头米勒白蚁</a></li></ul>
 </section>

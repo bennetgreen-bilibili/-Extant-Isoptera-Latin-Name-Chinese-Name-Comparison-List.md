@@ -53,6 +53,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/rhinotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（5）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/acorhinotermes/"><i>Acorhinotermes</i> 尖鼻白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/dolichorhinotermes/"><i>Dolichorhinotermes</i> 狭鼻白蚁属</a> <span class="taxon-count">7 种</span></li><li><a href="{{ site.base_url }}/genus/parrhinotermes/"><i>Parrhinotermes</i> 棒鼻白蚁属</a> <span class="taxon-count">13 种</span></li><li><a href="{{ site.base_url }}/genus/rhinotermes/"><i>Rhinotermes</i> 鼻白蚁属</a> <span class="taxon-count">4 种</span></li><li><a href="{{ site.base_url }}/genus/schedorhinotermes/"><i>Schedorhinotermes</i> 长鼻白蚁属</a> <span class="taxon-count">35 种</span></li></ul>
 </section>

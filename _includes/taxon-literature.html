@@ -1,0 +1,42 @@
+{%- comment -%}
+  研究记述（人工整理，按页面 URL 取 _data/taxon_literature.json）。
+
+  数据形状：
+  "/genus/foo/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {"heading": "分类与分布",
+       "paragraphs": [{"text": "根据……研究，……", "src": ["S0001", "S0004"]}]}
+    ],
+    "references": [{"id": "S0001", "citation": "……", "url": "……"}]
+  }
+
+  正文必须能在 .sources 找到对应 Sxxxx；段末的 <!-- src:Sxxxx --> 由
+  _tools/sources.py check 校验。参考文献只列本页实际用到的来源。
+{%- endcomment -%}
+{%- assign lit = site.data.taxon_literature[page.url] -%}
+{%- if lit -%}
+<section class="taxon-section taxon-literature" lang="zh-CN" data-pagefind-ignore>
+  <h2>研究记述 <span class="fact-en" lang="en">Literature notes</span> <span class="fact-es" lang="es">Notas bibliográficas</span></h2>
+  <p class="taxon-literature-lead">以下为据原始文献整理的摘记，不是原文转录；每段末的注释指向 <code>.sources</code> 中的存档记录，完整出处见文末参考文献。</p>
+  {%- for sec in lit.sections %}
+  {%- if sec.heading %}
+  <h3>{{ sec.heading }}</h3>
+  {%- endif %}
+  {%- for para in sec.paragraphs %}
+  <p>{{ para.text }}{% for sid in para.src %} <!-- src:{{ sid }} -->{% endfor %}</p>
+  {%- endfor %}
+  {%- endfor %}
+  {%- if lit.references and lit.references.size > 0 %}
+  <h3>参考文献 <span class="fact-en" lang="en">References</span> <span class="fact-es" lang="es">Referencias</span></h3>
+  <ul class="taxon-literature-refs">
+    {%- for ref in lit.references %}
+    <li id="ref-{{ ref.id }}">{% if ref.url %}<a href="{{ ref.url }}">{{ ref.citation }}</a>{% elsif ref.doi %}<a href="https://doi.org/{{ ref.doi }}">{{ ref.citation }}</a>{% else %}{{ ref.citation }}{% endif %}</li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+  {%- if lit.updated %}
+  <p class="taxon-literature-meta">本页文献摘记更新：{{ lit.updated }}。</p>
+  {%- endif %}
+</section>
+{%- endif -%}

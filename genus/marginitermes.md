@@ -58,6 +58,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/marginitermes-absitus/"><i>Marginitermes absitus</i> Scheffrahn, 2013 遥远边白蚁</a></li><li><a href="{{ site.base_url }}/species/marginitermes-cactiphagus/"><i>Marginitermes cactiphagus</i> Myles, 1997 食刺边白蚁</a></li><li><a href="{{ site.base_url }}/species/marginitermes-hubbardi/"><i>Marginitermes hubbardi</i> Banks, 1920 哈伯德边白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

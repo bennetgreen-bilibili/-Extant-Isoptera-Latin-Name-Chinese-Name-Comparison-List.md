@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/angularitermes-clypeatus/"><i>Angularitermes clypeatus</i> Mathews, 1977 大唇棱角白蚁</a></li><li><a href="{{ site.base_url }}/species/angularitermes-coninasus/"><i>Angularitermes coninasus</i> Carrijo, Rocha, Cuezzo & Cancello, 2011 锥鼻棱角白蚁</a></li><li><a href="{{ site.base_url }}/species/angularitermes-nasutissimus/"><i>Angularitermes nasutissimus</i> Emerson, 1925 巨鼻棱角白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/angularitermes-orestes/"><i>Angularitermes orestes</i> Araujo, 1970 俄瑞斯忒斯棱角白蚁</a></li><li><a href="{{ site.base_url }}/species/angularitermes-pinocchio/"><i>Angularitermes pinocchio</i> Cancello & Brandão, 1996 松果棱角白蚁</a></li><li><a href="{{ site.base_url }}/species/angularitermes-tiguassu/"><i>Angularitermes tiguassu</i> Cancello & Brandão, 1996 毛鼻棱角白蚁</a></li></ul>
 </section>

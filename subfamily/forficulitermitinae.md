@@ -37,6 +37,7 @@ breadcrumb:
 <p>因仅含一属一种，其特征即亚科特征：工蚁为食土（腐殖质）性；兵蚁头近方形，囟门位于浅凹内、前方两侧各具一道平纵脊并形成浅沟通至唇基基部，囟门与触角窝之间两侧另各有小瘤突，上颚细长无齿、行咬合而非弹击，上唇端缘具中突与尖锐的端侧角；工蚁右下颚第二缘齿发达，四条马氏管成对共同开口于混合节连接处——这些特征可与本科中常见的弹击型兵蚁及白蚁亚科相区别。2024 年分析中它在多数运算里位置不稳(21)（被列为 rogue taxon），但拓扑检验未拒绝其与恩格尔白蚁亚科近缘的假说；其独特的形态组合足以独立成亚科，代表本科中非基部、系统位置未定的又一狭域孑遗单型支系。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/forficulitermes/"><i>Forficulitermes</i> 剪白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>

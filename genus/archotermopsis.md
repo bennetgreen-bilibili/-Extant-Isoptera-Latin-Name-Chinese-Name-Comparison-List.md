@@ -54,6 +54,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/archotermopsis-kuznetsovi/"><i>Archotermopsis kuznetsovi</i> Belyaeva, 2004 库兹涅佐夫古白蚁</a></li><li><a href="{{ site.base_url }}/species/archotermopsis-wroughtoni/"><i>Archotermopsis wroughtoni</i> Desneux, 1904 罗夫顿古白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

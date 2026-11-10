@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（4 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/coarctotermes-beharaensis/"><i>Coarctotermes beharaensis</i> Cachan, 1949 贝哈拉缩狭白蚁</a></li><li><a href="{{ site.base_url }}/species/coarctotermes-clepsydra/"><i>Coarctotermes clepsydra</i> Sjöstedt, 1904 漏壶缩狭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/coarctotermes-nasonovi/"><i>Coarctotermes nasonovi</i> Czerwinski, 1901 纳索诺夫缩狭白蚁</a></li><li><a href="{{ site.base_url }}/species/coarctotermes-pauliani/"><i>Coarctotermes pauliani</i> Cachan, 1949 波利昂缩狭白蚁</a></li></ul>
 </section>

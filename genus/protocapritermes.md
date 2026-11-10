@@ -59,6 +59,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/protocapritermes-krisiformis/"><i>Protocapritermes krisiformis</i> Froggatt, 1898 波颚始扭白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/protocapritermes-odontomachus/"><i>Protocapritermes odontomachus</i> Desneux, 1905 齿颚始扭白蚁</a></li></ul>
 </section>

@@ -58,6 +58,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/acorhinotermes-claritae/"><i>Acorhinotermes claritae</i> Castro & Scheffrahn, 2019 克拉丽塔尖鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/acorhinotermes-murui/"><i>Acorhinotermes murui</i> Castro, 2023 穆鲁伊尖鼻白蚁</a></li><li><a href="{{ site.base_url }}/species/acorhinotermes-subfusciceps/"><i>Acorhinotermes subfusciceps</i> Emerson, 1925 棕头尖鼻白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

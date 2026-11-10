@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/silvestritermes-almirsateri/"><i>Silvestritermes almirsateri</i> Rocha & Cancello, 2012 阿尔米尔萨特尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-duende/"><i>Silvestritermes duende</i> Rocha & Cancello, 2012 精灵西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-euamignathus/"><i>Silvestritermes euamignathus</i> Silvestri, 1901 真弓颚西尔韦斯特里白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/silvestritermes-gnomus/"><i>Silvestritermes gnomus</i> Constantino, 1991 标记西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-heyeri/"><i>Silvestritermes heyeri</i> Wasmann, 1915 海耶尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-lanei/"><i>Silvestritermes lanei</i> Canter, 1968 莱恩西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/species/silvestritermes-minutus/"><i>Silvestritermes minutus</i> Emerson, 1925 最小西尔韦斯特里白蚁</a></li></ul>
 </section>

@@ -54,6 +54,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/heterotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（3）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/coptotermes/"><i>Coptotermes</i> 乳白蚁属</a> <span class="taxon-count">58 种、2 亚种</span></li><li><a href="{{ site.base_url }}/genus/heterotermes/"><i>Heterotermes</i> 异白蚁属</a> <span class="taxon-count">31 种</span></li><li><a href="{{ site.base_url }}/genus/reticulitermes/"><i>Reticulitermes</i> 散白蚁属</a> <span class="taxon-count">140 种、6 亚种</span></li></ul>
 </section>

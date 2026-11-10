@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/furculitermes-brevilabius/"><i>Furculitermes brevilabius</i> Emerson, 1960 短唇叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-brevimalatus/"><i>Furculitermes brevimalatus</i> Emerson, 1960 短颚叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-cubitalis/"><i>Furculitermes cubitalis</i> Emerson, 1960 急弯叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-hendrickxi/"><i>Furculitermes hendrickxi</i> Emerson, 1960 亨德里克斯叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-longilabius/"><i>Furculitermes longilabius</i> Emerson, 1960 长唇叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-parviceps/"><i>Furculitermes parviceps</i> Emerson, 1960 小头叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-soyeri/"><i>Furculitermes soyeri</i> Emerson, 1960 索耶叉白蚁</a></li><li><a href="{{ site.base_url }}/species/furculitermes-winifredae/"><i>Furculitermes winifredae</i> Emerson, 1960 威尼弗雷德叉白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

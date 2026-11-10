@@ -53,6 +53,7 @@ breadcrumb:
 <p>经济上本亚科含若干重要害虫：不同锯白蚁 M. diversus 是伊朗(59)（胡齐斯坦省）、伊拉克、阿曼最具破坏性的建筑木材害虫，并是伊朗、伊拉克、沙特阿拉伯海枣（Phoenix dactylifera）的主要害虫；南美的斯特伦基锯白蚁 M. strunckii 为果树林次要害虫(60)，树栖锯白蚁 M. arboreus 为百香果次要害虫。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
 </section>
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（2）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/microcerotermes/"><i>Microcerotermes</i> 锯白蚁属</a> <span class="taxon-count">148 种、7 亚种</span></li><li><a href="{{ site.base_url }}/genus/onkotermes/"><i>Onkotermes</i> 倒钩白蚁属</a> <span class="taxon-count">2 种</span></li></ul>
 </section>

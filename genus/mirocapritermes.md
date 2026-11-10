@@ -54,6 +54,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/mirocapritermes-concaveus/"><i>Mirocapritermes concaveus</i> Ahmad, 1965 凹瘤白蚁</a></li><li><a href="{{ site.base_url }}/species/mirocapritermes-connectens/"><i>Mirocapritermes connectens</i> Holmgren, 1914 连接瘤白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/mirocapritermes-hsuchiafui/"><i>Mirocapritermes hsuchiafui</i> Yu & Ping, 1966 云南瘤白蚁</a></li><li><a href="{{ site.base_url }}/species/mirocapritermes-jiangchengensis/"><i>Mirocapritermes jiangchengensis</i> Yang, Zhu & Huang, 1995 江城瘤白蚁</a></li><li><a href="{{ site.base_url }}/species/mirocapritermes-latignathus/"><i>Mirocapritermes latignathus</i> Ahmad, 1965 宽颚瘤白蚁</a></li><li><a href="{{ site.base_url }}/species/mirocapritermes-prewensis/"><i>Mirocapritermes prewensis</i> Ahmad, 1965 普鲁瘤白蚁</a></li><li><a href="{{ site.base_url }}/species/mirocapritermes-snyderi/"><i>Mirocapritermes snyderi</i> Akhtar, 1975 斯奈德瘤白蚁</a></li><li><a href="{{ site.base_url }}/species/mirocapritermes-valeriae/"><i>Mirocapritermes valeriae</i> Krishna, 1965 瓦莱里瘤白蚁</a></li></ul>
 </section>

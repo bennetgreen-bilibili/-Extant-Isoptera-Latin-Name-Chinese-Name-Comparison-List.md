@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ampoulitermes-wynaadensis/"><i>Ampoulitermes wynaadensis</i> Mathur & Thapa, 1962 维纳德安瓿白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ampoulitermes-zacharia/"><i>Ampoulitermes zacharia</i> Joseph & Mathew, 2024 扎卡里亚安瓿白蚁</a></li></ul>
 </section>

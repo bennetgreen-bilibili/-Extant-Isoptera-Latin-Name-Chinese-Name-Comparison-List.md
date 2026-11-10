@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（2 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/bandeiratermes-silvestrii/"><i>Bandeiratermes silvestrii</i> Emerson, 1949 西尔韦斯特里班代拉白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/bandeiratermes-tellustris/"><i>Bandeiratermes tellustris</i> Constantino, 1990 大地班代拉白蚁</a></li></ul>
 </section>

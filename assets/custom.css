@@ -514,6 +514,18 @@ body.search-overlay-open{overflow:hidden}
 .taxon-intro p{line-height:1.85;margin:.75em 0;text-align:justify}
 .taxon-intro .taxon-src{font-size:.85em;color:var(--muted);margin-top:1em;text-align:left}
 .taxon-intro .taxon-src a{color:var(--accent-strong)}
+/* 研究记述：人工整理、按页面 URL 注入（_includes/taxon-literature.html） */
+.taxon-literature{margin:2em 0 .8em;border-top:1px solid var(--line);padding-top:1.1em}
+.taxon-literature h2{font-size:1.25em;margin:0 0 .65em}
+.taxon-literature h3{font-size:1.05em;margin:1.25em 0 .35em;color:var(--ink)}
+.taxon-literature p{margin:.4em 0 .85em;line-height:1.8;text-align:justify}
+.taxon-literature .taxon-literature-lead{color:var(--muted);font-size:.9em;line-height:1.7;margin:.1em 0 .9em}
+.taxon-literature .taxon-literature-meta{color:var(--muted);font-size:.82em;margin:.9em 0 0;text-align:left}
+.taxon-literature-refs{font-size:.88em;line-height:1.7;color:var(--muted);padding-left:1.3em;margin:.5em 0 0}
+.taxon-literature-refs li{margin:.35em 0;word-break:break-word}
+.taxon-literature-refs a{color:var(--accent-strong);text-decoration:none}
+.taxon-literature-refs a:hover{text-decoration:underline}
+@media (max-width:600px){.taxon-literature p{text-align:left}}
 .taxon-map-empty{font-size:.92em;color:var(--muted);background:var(--accent-softer);border:1px solid var(--line-soft);border-radius:var(--radius-sm);padding:12px 14px;line-height:1.7}
 .taxon-map-empty a{color:var(--accent-strong)}
 .taxon-distribution .distribution-inline{margin-top:.2em}

@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（3 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/aparatermes-abbreviatus/"><i>Aparatermes abbreviatus</i> Silvestri, 1901 缩短弯肠白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/aparatermes-cingulatus/"><i>Aparatermes cingulatus</i> Burmeister, 1839 环带弯肠白蚁</a></li><li><a href="{{ site.base_url }}/species/aparatermes-thornatus/"><i>Aparatermes thornatus</i> Pinzon & Scheffrahn, 2019 刺棘弯肠白蚁</a></li></ul>
 </section>

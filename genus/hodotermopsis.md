@@ -58,6 +58,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（1 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/hodotermopsis-sjostedti/"><i>Hodotermopsis sjostedti</i> Holmgren, 1911 山林原白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

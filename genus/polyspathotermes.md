@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（8 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/polyspathotermes-bugeserae/"><i>Polyspathotermes bugeserae</i> Bouillon & Vincke, 1971 布盖塞拉多铲白蚁</a></li><li><a href="{{ site.base_url }}/species/polyspathotermes-inclitus/"><i>Polyspathotermes inclitus</i> Silvestri, 1912 显赫多铲白蚁</a></li><li><a href="{{ site.base_url }}/species/polyspathotermes-intercalatus/"><i>Polyspathotermes intercalatus</i> Silvestri, 1914 居间多铲白蚁</a></li><li><a href="{{ site.base_url }}/species/polyspathotermes-katangensis/"><i>Polyspathotermes katangensis</i> Sjöstedt, 1927 加丹加多铲白蚁</a></li><li><a href="{{ site.base_url }}/species/polyspathotermes-montanus/"><i>Polyspathotermes montanus</i> Williams, 1966 高山多铲白蚁</a></li><li><a href="{{ site.base_url }}/species/polyspathotermes-oblectatus/"><i>Polyspathotermes oblectatus</i> Harris, 1958 愉悦多铲白蚁</a></li><li><a href="{{ site.base_url }}/species/polyspathotermes-sulcifrons/"><i>Polyspathotermes sulcifrons</i> Wasmann, 1911 沟额多铲白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/polyspathotermes-umbratus/"><i>Polyspathotermes umbratus</i> Williams, 1954 荫生多铲白蚁</a></li></ul>
 </section>

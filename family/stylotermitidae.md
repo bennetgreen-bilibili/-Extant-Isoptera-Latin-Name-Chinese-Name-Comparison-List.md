@@ -49,6 +49,7 @@ breadcrumb:
 {%- assign fz = site.data.fauna_families["/family/stylotermitidae/"] -%}{%- if fz %}
 {% include fauna-family.html fauna=fz %}
 {%- endif %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>属（1）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/stylotermes/"><i>Stylotermes</i> 杆白蚁属</a> <span class="taxon-count">45 种</span></li></ul>
 </section>

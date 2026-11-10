@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（5 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/hapsidotermes-harrisi/"><i>Hapsidotermes harrisi</i> Mjöberg, 1920 哈里斯络白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/hapsidotermes-labellus/"><i>Hapsidotermes labellus</i> Miller, 1991 小唇络白蚁</a></li><li><a href="{{ site.base_url }}/species/hapsidotermes-longius/"><i>Hapsidotermes longius</i> Miller, 1991 较长络白蚁</a></li><li><a href="{{ site.base_url }}/species/hapsidotermes-maideni/"><i>Hapsidotermes maideni</i> Mjöberg, 1920 梅登络白蚁</a></li><li><a href="{{ site.base_url }}/species/hapsidotermes-orbus/"><i>Hapsidotermes orbus</i> Hill, 1927 孤儿络白蚁</a></li></ul>
 </section>

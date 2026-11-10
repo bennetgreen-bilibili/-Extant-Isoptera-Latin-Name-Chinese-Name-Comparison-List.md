@@ -58,6 +58,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/stolotermes-africanus/"><i>Stolotermes africanus</i> Emerson, 1942 非洲胄白蚁</a></li><li><a href="{{ site.base_url }}/species/stolotermes-australicus/"><i>Stolotermes australicus</i> Mjöberg, 1920 澳大利亚胄白蚁</a></li><li><a href="{{ site.base_url }}/species/stolotermes-brunneicornis/"><i>Stolotermes brunneicornis</i> Hagen, 1858 棕角胄白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/stolotermes-inopinus/"><i>Stolotermes inopinus</i> Gay, 1969 未料胄白蚁</a></li><li><a href="{{ site.base_url }}/species/stolotermes-queenslandicus/"><i>Stolotermes queenslandicus</i> Mjöberg, 1920 昆士兰胄白蚁</a></li><li><a href="{{ site.base_url }}/species/stolotermes-ruficeps/"><i>Stolotermes ruficeps</i> Brauer, 1865 红头胄白蚁</a></li><li><a href="{{ site.base_url }}/species/stolotermes-victoriensis/"><i>Stolotermes victoriensis</i> Hill, 1921 维多利亚胄白蚁</a></li></ul>
 </section>

@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（7 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/ophiotermes-gracilis/"><i>Ophiotermes gracilis</i> Weidner, 1974 细瘦蛇白蚁</a></li><li><a href="{{ site.base_url }}/species/ophiotermes-grandilabius/"><i>Ophiotermes grandilabius</i> Emerson, 1928 大唇蛇白蚁</a></li><li><a href="{{ site.base_url }}/species/ophiotermes-mandibularis/"><i>Ophiotermes mandibularis</i> Sjöstedt, 1905 显颚蛇白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li><li><a href="{{ site.base_url }}/species/ophiotermes-mirandus/"><i>Ophiotermes mirandus</i> Sjöstedt, 1905 惊奇蛇白蚁</a></li><li><a href="{{ site.base_url }}/species/ophiotermes-receptus/"><i>Ophiotermes receptus</i> Sjöstedt, 1913 接受蛇白蚁</a></li><li><a href="{{ site.base_url }}/species/ophiotermes-shabaensis/"><i>Ophiotermes shabaensis</i> Bouillon & Vincke, 1973 沙巴蛇白蚁</a></li><li><a href="{{ site.base_url }}/species/ophiotermes-ugandaensis/"><i>Ophiotermes ugandaensis</i> Sjöstedt, 1925 乌干达蛇白蚁</a></li></ul>
 </section>

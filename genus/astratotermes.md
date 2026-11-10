@@ -55,6 +55,7 @@ breadcrumb:
 {% include fauna-genus.html fauna=fz %}
 {%- endif %}
 {% include genus-morphology.html %}
+{% include taxon-literature.html %}
 <section class="taxon-section">
 <h2>物种（6 种）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/species/astratotermes-aneristus/"><i>Astratotermes aneristus</i> Sands, 1972 赞比亚无刃白蚁</a></li><li><a href="{{ site.base_url }}/species/astratotermes-apocnetus/"><i>Astratotermes apocnetus</i> Sands, 1972 小凶无刃白蚁</a></li><li><a href="{{ site.base_url }}/species/astratotermes-hilarus/"><i>Astratotermes hilarus</i> Sands, 1972 高兴无刃白蚁</a></li><li><a href="{{ site.base_url }}/species/astratotermes-mansuetus/"><i>Astratotermes mansuetus</i> Sands, 1972 驯服无刃白蚁</a></li><li><a href="{{ site.base_url }}/species/astratotermes-pacatus/"><i>Astratotermes pacatus</i> Silvestri, 1914 平静无刃白蚁</a></li><li><a href="{{ site.base_url }}/species/astratotermes-prosenus/"><i>Astratotermes prosenus</i> Sands, 1972 大型无刃白蚁</a> <span class="taxon-type" title="模式种">★ 模式种</span></li></ul>
 </section>

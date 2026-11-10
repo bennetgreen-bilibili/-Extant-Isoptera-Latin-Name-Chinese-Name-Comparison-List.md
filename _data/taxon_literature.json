@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "description": "按页面 URL 存放人工整理的研究记述，由 _includes/taxon-literature.html 渲染；每段 src 必须是 .sources 中已有的 Sxxxx。",
+    "schema": {
+      "/genus/foo/": {
+        "updated": "YYYY-MM-DD",
+        "sections": [
+          {
+            "heading": "分类与分布",
+            "paragraphs": [
+              {
+                "text": "根据……研究，……",
+                "src": ["S0001"]
+              }
+            ]
+          }
+        ],
+        "references": [
+          {
+            "id": "S0001",
+            "citation": "作者. 年份. 标题. 出版物.",
+            "url": "https://example.org/..."
+          }
+        ]
+      }
+    },
+    "updated": "2026-11-11"
+  }
+}
