@@ -97,18 +97,23 @@ python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-M
 
 ### 4.3 核对分类学
 
-先查专表，再查原始一致性数据：
+**先查科级／亚科级，再查种级**：
 
-- `_reports/library-reading/taxonomy-crosswalk.md`：8 条已进入站内核对流程的种级异名／组合对照，含「旧名 → 本站现用名」和写作口径；
-- `_data/taxonomy_crosswalk.json`：上表的机器可读版本；
+- `_reports/library-reading/taxonomy-crosswalk.md`：
+  - **3 条科级／亚科级／支系级**（优先）：2024 鼻白蚁科拆分、2024 白蚁亚科拆分、2022 Teletisoptera 建立；
+  - **8 条种级**异名／组合对照，含「旧名 → 本站现用名」和写作口径；
+- `_data/taxonomy_crosswalk.json`：上表的机器可读版本，科级条目在 `higher_ranks`，种级在 `entries`；
 - 表里没有的，再用 `read` 工具读 `_data/name_issues.json`，或写 `_tmp/check_name.py` 查询（PowerShell 不支持 `<<'PY'` heredoc，临时脚本用 `write` 落盘再 `python` 执行）。重点：
 
+- **科级**：旧文献的“鼻白蚁科 Rhinotermitidae”若含 `Coptotermes` / `Reticulitermes` / `Heterotermes`，按 2024 年拆分写“当时置于鼻白蚁科（广义），现置于异白蚁科 Heterotermitidae”；`Psammotermes` / `Prorhinotermes` 现置沙白蚁科，`Termitogeton` 现置寡脉白蚁科。只有 `Acorhinotermes`、`Dolichorhinotermes`、`Parrhinotermes`、`Rhinotermes`、`Schedorhinotermes` 仍属鼻白蚁科 sensu novo。
+- **亚科级**：旧文献的“白蚁亚科 Termitinae”不能直接当现行亚科；`Termes` 等 Termes-group 才留白蚁亚科，`Amitermes` 等按弓白蚁亚科等处理，`Coptotermes` / `Reticulitermes` 属异白蚁科。2024 年白蚁科共 18 亚科。
+- **Teletisoptera**：它是 2022 年 Wang 等所指的 `Stolotermitidae + Hodotermitidae + Archotermopsidae` 支系，不是科／亚科名；`Hodotermopsis` 现置原白蚁科 Hodotermopsidae。S0196 本地无全文，只能据 Crossref 摘要，正文必须标「据摘要」，不得补正文里的种级或分布细节。
 - 旧属名 / 旧种名 → 当前页面：`species_authority` 的 `incoming` / `outgoing`；
 - 异名对：`synonym_pairs` 的 `our` / `external` / `relation` / `direction`；
 - 若旧文献用的名字与当前页面不同，正文必须写出「当时置于…，现置于…」，不能只写旧名；
 - 若只是「该研究把某名列为异名」而当前站点未接受，写「该研究将…列为…的异名」，不要写成站点结论；
 - 年代核对：`1853`、`1904`、`1911` 这类数字必须能在原文找到，不能凭印象补。
-- 对照表只列 8 条种级条目；属级变动、未列入的种级变动，仍必须回原文和 `name_issues.json` 查，查不到就标「待核」。
+- 对照表列 **3 条科级／亚科级／支系级 + 8 条种级**；属级变动、未列入的种级变动，仍必须回原文和 `name_issues.json` 查，查不到就标「待核」。科级结论不能只靠表里的中文，必须回 `S0008` / `S0196` 的摘录核对。
 
 ### 4.4 映射到页面
 
@@ -327,4 +332,4 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 - 页面：326 属、13 科、18 亚科、3089 种。
 - 已有渲染入口：`_includes/taxon-literature.html`、`_data/taxon_literature.json`；属／科／亚科页由 `.github/workflows/build_taxonomy_pages.py` 注入，种页由 `_layouts/species.html` 注入。
 - 已有扫描器：`_tools/library_scan.py`；账本：`_reports/library-reading/progress.json`。
-- 分类学对照表：`_reports/library-reading/taxonomy-crosswalk.md`（8 条）；生成器：`_tools/build_taxonomy_crosswalk.py`；机器版：`_data/taxonomy_crosswalk.json`。
+- 分类学对照表：`_reports/library-reading/taxonomy-crosswalk.md`（3 条科级／亚科级／支系级 + 8 条种级）；生成器：`_tools/build_taxonomy_crosswalk.py`；机器版：`_data/taxonomy_crosswalk.json`。S0196（Teletisoptera）仅存 Crossref 摘要，本地无全文，正文标「据摘要」。

@@ -2,11 +2,102 @@
  "_meta": {
   "title": "Taxonomy change crosswalk for the daily literature run",
   "source": "_data/name_issues.json",
+  "extra_source": "curated higher-rank rows in _tools/build_taxonomy_crosswalk.py",
   "generated_by": "_tools/build_taxonomy_crosswalk.py",
   "cache_date": "2026-10-31",
+  "higher_count": 3,
   "count": 8,
-  "note": "Species-level synonym/combination pairs only. The table is a guardrail, not a taxonomic decision."
+  "note": "Higher-rank family/subfamily/clade changes first, then species-level synonym/combination pairs. The table is a guardrail, not a taxonomic decision."
  },
+ "higher_ranks": [
+  {
+   "id": "rhinotermitidae-split-2024",
+   "rank": "科",
+   "taxon": "Rhinotermitidae（鼻白蚁科）",
+   "year": 2024,
+   "old": "Rhinotermitidae sensu lato：Heterotermitinae、Coptotermitinae、Psammotermitinae、Prorhinotermitinae、Rhinotermitinae、Termitogetoninae",
+   "new": "Heterotermitidae（异白蚁科）、Psammotermitidae（沙白蚁科）、Termitogetonidae（寡脉白蚁科）、Rhinotermitidae sensu novo（鼻白蚁科，仅 5 属）",
+   "change": "2024 年基于 UCE 的基因组分类把广义鼻白蚁科拆成四个单系支系，均提升为科；Coptotermitinae 归入 Heterotermitinae，Rhinotermitidae 仅保留 Rhinotermitinae 五属。",
+   "rule": "旧文献的“鼻白蚁科”若含 Coptotermes / Reticulitermes / Heterotermes，写“当时置于鼻白蚁科（广义），2024 年移至异白蚁科 Heterotermitidae”；Psammotermes / Prorhinotermes 现置沙白蚁科；Termitogeton 现置寡脉白蚁科；只有 Acorhinotermes、Dolichorhinotermes、Parrhinotermes、Rhinotermes、Schedorhinotermes 仍属鼻白蚁科 sensu novo。",
+   "status": "已发表（2024）；本站 13 科分类已采用四科拆分。",
+   "evidence": [
+    {
+     "id": "S0008",
+     "locator": "p. 2 ¶1 / full.txt:15",
+     "note": "四支提升为科；Rhinotermitidae 收窄为五属；Coptotermitinae 并入 Heterotermitinae"
+    },
+    {
+     "id": "S0008",
+     "locator": "p. 1 摘要 / full.txt:3",
+     "note": "Heterotermitidae、Psammotermitidae、Termitogetonidae 由亚科提升为科"
+    },
+    {
+     "id": "S0008",
+     "locator": "p. 7 / full.txt:267–269",
+     "note": "Rhinotermitidae 曾为并系；Coptotermes/Reticulitermes 现归 Heterotermitidae"
+    }
+   ],
+   "caveat": "这是作者基于分子系统学的修订，不是 ICZN 裁定；旧数据库、旧检索表可能仍用广义鼻白蚁科。"
+  },
+  {
+   "id": "termitinae-split-2024",
+   "rank": "亚科",
+   "taxon": "Termitinae（白蚁亚科）",
+   "year": 2024,
+   "old": "Termitinae sensu lato（旧白蚁亚科，常含 Termes-group 以外的多个类群）",
+   "new": "Termitinae sensu novo（仅 Termes-group）+ Amitermitinae、Microcerotermitinae、Mirocapritermitinae、Crepititermitinae、Cylindrotermitinae、Forficulitermitinae、Neocapritermitinae、Protohamitermitinae、Promirotermitinae；Termitidae 共 18 亚科",
+   "change": "2024 年确认旧白蚁亚科为多系，白蚁科扩展到 18 个亚科；6 个新亚科、3 个恢复亚科，Termitinae 收窄到 Termes-group。",
+   "rule": "旧文献的“白蚁亚科 Termitinae”不能直接当现行亚科；先看属：Termes 等 Termes-group 才留白蚁亚科；Amitermes 等按弓白蚁亚科等新组合写；Coptotermes/Reticulitermes 不是白蚁亚科，而是异白蚁科。Syntermitinae 纳入 Genuotermes，但该亚科诊断不变。",
+   "status": "已发表（2024）；本站 18 亚科已采用。",
+   "evidence": [
+    {
+     "id": "S0008",
+     "locator": "p. 1 摘要 / full.txt:3",
+     "note": "6 个新亚科、3 个恢复亚科；Termitidae 18 亚科"
+    },
+    {
+     "id": "S0008",
+     "locator": "p. 4 / full.txt:168",
+     "note": "旧 Termitinae 为多系；新亚科与 Termitinae sensu novo"
+    },
+    {
+     "id": "S0008",
+     "locator": "p. 7 / full.txt:267",
+     "note": "Termitinae 多系；新分类把 18 个亚科处理为单系"
+    }
+   ],
+   "caveat": "部分新亚科主要按分子界定，形态鉴别不一定有单一 synapomorphy；作者自己指出部分节点支持度低。"
+  },
+  {
+   "id": "teletisoptera-2022",
+   "rank": "支系",
+   "taxon": "Teletisoptera（早期分化支系）",
+   "year": 2022,
+   "old": "Stolotermitidae、Hodotermitidae、Archotermopsidae 三科并列；Archotermopsidae 含 Archotermopsis、Zootermopsis、Hodotermopsis",
+   "new": "Teletisoptera = Stolotermitidae + Hodotermitidae + Archotermopsidae；Archotermopsidae 收窄为 Archotermopsis + Zootermopsis；Hodotermopsidae（原白蚁科）stat. nov. 含 Hodotermopsis",
+   "change": "2022 年 Wang 等以 Teletisoptera 指称三个早期分化科组成的支系，确认其单系性；解决 Archotermopsidae 并系，建立 Hodotermopsidae。",
+   "rule": "Teletisoptera 是支系名，不是科/亚科名；写它时注明“2022 年 Wang 等所指的 Stolotermitidae + Hodotermitidae + Archotermopsidae 支系”。Hodotermopsis 旧文献若置于 Archotermopsidae 的 Hodotermopsinae，现置原白蚁科 Hodotermopsidae；中文“原白蚁科”可能指旧 Termopsidae（化石）或新 Hodotermopsidae，必须同时给拉丁名。不要与 Euisoptera/Neoisoptera 混用。",
+   "status": "已发表（2022）；本站已采用 Hodotermopsidae。S0196 本地全文缺失，只能据 Crossref 摘要；正文标“据摘要”。",
+   "evidence": [
+    {
+     "id": "S0196",
+     "locator": "Crossref abstract（Teletisoptera 定义与单系性）",
+     "note": "Teletisoptera = Stolotermitidae + Hodotermitidae + Archotermopsidae；单系性"
+    },
+    {
+     "id": "S0196",
+     "locator": "Crossref abstract（Archotermopsidae 收窄）",
+     "note": "Archotermopsidae 收窄；Hodotermopsinae 提升为 Hodotermopsidae"
+    },
+    {
+     "id": "S0008",
+     "locator": "p. 12 参考文献 / full.txt:363",
+     "note": "S0008 引用 Wang et al. 2022（Teletisoptera 论文）"
+    }
+   ],
+   "caveat": "S0196 的 `.sources` 记录已改为 abstract-no-oa 并移除 `library`；本地没有全文，不能引用正文的种级或分布细节。`_unpublished/文库/10.1111-syen.12548/0001-0023.txt` 不存在，manifest 也没有该 work。"
+  }
+ ],
  "entries": [
   {
    "site": {
