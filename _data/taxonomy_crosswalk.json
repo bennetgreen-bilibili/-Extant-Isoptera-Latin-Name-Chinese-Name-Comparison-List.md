@@ -1,0 +1,390 @@
+{
+ "_meta": {
+  "title": "Taxonomy change crosswalk for the daily literature run",
+  "source": "_data/name_issues.json",
+  "generated_by": "_tools/build_taxonomy_crosswalk.py",
+  "cache_date": "2026-10-31",
+  "count": 8,
+  "note": "Species-level synonym/combination pairs only. The table is a guardrail, not a taxonomic decision."
+ },
+ "entries": [
+  {
+   "site": {
+    "latin": "Amitermes californicus",
+    "zh": "加州弓白蚁",
+    "slug": "amitermes-californicus",
+    "url": "/species/amitermes-californicus/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Amitermes wheeleri (Desneux, 1906)",
+    "latin": "Amitermes wheeleri",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/2007289"
+     },
+     {
+      "source": "col",
+      "url": "https://www.checklistbank.org/dataset/3LR/taxon/CSVV"
+     },
+     {
+      "source": "bsf",
+      "url": "https://cockroach.speciesfile.org/otus/85266/overview"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Amitermes wheeleri",
+    "zh": "惠勒弓白蚁",
+    "slug": "amitermes-wheeleri",
+    "url": "/species/amitermes-wheeleri/",
+    "in_site": true
+   },
+   "relation": "synonym",
+   "direction": "external",
+   "disputed": false,
+   "sources": [
+    "gbif",
+    "col",
+    "bsf"
+   ],
+   "genus_from": "Amitermes",
+   "genus_to": "Amitermes",
+   "guidance": "本站两页并存：写 Amitermes californicus 时注明 GBIF、COL、BSF 将其列为 Amitermes wheeleri 的异名；写 Amitermes wheeleri 时反向注明。不要删页或改学名，除非用户确认。",
+   "status": "可记录（待处理）",
+   "recordable": true,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9157883"
+    },
+    {
+     "source": "col",
+     "url": "https://www.checklistbank.org/dataset/3LR/taxon/8Q83Z"
+    },
+    {
+     "source": "bsf",
+     "url": "https://cockroach.speciesfile.org/otus/85266/overview"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Grigiotermes hageni",
+    "zh": "哈根灰白蚁",
+    "slug": "grigiotermes-hageni",
+    "url": "/species/grigiotermes-hageni/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Anoplotermes hageni Emerson & Snyder, 1949",
+    "latin": "Anoplotermes hageni",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9662984"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Grigiotermes hageni",
+    "zh": "哈根灰白蚁",
+    "slug": "grigiotermes-hageni",
+    "url": "/species/grigiotermes-hageni/",
+    "in_site": true
+   },
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Anoplotermes",
+   "genus_to": "Grigiotermes",
+   "guidance": "本站现用 Grigiotermes hageni；旧文献用 Anoplotermes hageni Emerson & Snyder, 1949 时写「当时置于 Anoplotermes，本站现置于 Grigiotermes」；该组合仍有争议，不要写成学界共识。",
+   "status": "争议／未定",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/10112407"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Mapinguaritermes grandidens",
+    "zh": "大齿红懒白蚁",
+    "slug": "mapinguaritermes-grandidens",
+    "url": "/species/mapinguaritermes-grandidens/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Armitermes grandidens Emerson, 1925",
+    "latin": "Armitermes grandidens",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/8816091"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Mapinguaritermes grandidens",
+    "zh": "大齿红懒白蚁",
+    "slug": "mapinguaritermes-grandidens",
+    "url": "/species/mapinguaritermes-grandidens/",
+    "in_site": true
+   },
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Armitermes",
+   "genus_to": "Mapinguaritermes",
+   "guidance": "本站现用 Mapinguaritermes grandidens；旧文献用 Armitermes grandidens Emerson, 1925 时写「当时置于 Armitermes，本站现置于 Mapinguaritermes」；该组合仍有争议，不要写成学界共识。",
+   "status": "争议／未定",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9360607"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Patawatermes nigripunctatus",
+    "zh": "黑点帕塔瓦白蚁",
+    "slug": "patawatermes-nigripunctatus",
+    "url": "/species/patawatermes-nigripunctatus/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Anoplotermes nigripunctatus Emerson, 1925",
+    "latin": "Anoplotermes nigripunctatus",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9339653"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Patawatermes nigripunctatus",
+    "zh": "黑点帕塔瓦白蚁",
+    "slug": "patawatermes-nigripunctatus",
+    "url": "/species/patawatermes-nigripunctatus/",
+    "in_site": true
+   },
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Anoplotermes",
+   "genus_to": "Patawatermes",
+   "guidance": "本站现用 Patawatermes nigripunctatus；旧文献用 Anoplotermes nigripunctatus Emerson, 1925 时写「当时置于 Anoplotermes，本站现置于 Patawatermes」；该组合仍有争议，不要写成学界共识。",
+   "status": "争议／未定",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/11048620"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Rubeotermes jheringi",
+    "zh": "耶林变红白蚁",
+    "slug": "rubeotermes-jheringi",
+    "url": "/species/rubeotermes-jheringi/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Anoplotermes jheringi Holmgren, 1906",
+    "latin": "Anoplotermes jheringi",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9082997"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Rubeotermes jheringi",
+    "zh": "耶林变红白蚁",
+    "slug": "rubeotermes-jheringi",
+    "url": "/species/rubeotermes-jheringi/",
+    "in_site": true
+   },
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Anoplotermes",
+   "genus_to": "Rubeotermes",
+   "guidance": "本站现用 Rubeotermes jheringi；旧文献用 Anoplotermes jheringi Holmgren, 1906 时写「当时置于 Anoplotermes，本站现置于 Rubeotermes」；该组合仍有争议，不要写成学界共识。",
+   "status": "争议／未定",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/10974393"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Ruptitermes franciscoi",
+    "zh": "弗朗西斯科腹爆白蚁",
+    "slug": "ruptitermes-franciscoi",
+    "url": "/species/ruptitermes-franciscoi/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Anoplotermes franciscoi Snyder, 1959",
+    "latin": "Anoplotermes franciscoi",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9070348"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "",
+    "zh": "",
+    "slug": "",
+    "url": "",
+    "in_site": false
+   },
+   "relation": "combination",
+   "direction": "disputed",
+   "disputed": false,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Anoplotermes",
+   "genus_to": "Ruptitermes",
+   "guidance": "按原文保留旧名，并注明与本站现用名的关系；不确定时标「待核」。",
+   "status": "待核",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/8555127"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Silvestritermes minutus",
+    "zh": "最小西尔韦斯特里白蚁",
+    "slug": "silvestritermes-minutus",
+    "url": "/species/silvestritermes-minutus/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Armitermes minutus Emerson, 1925",
+    "latin": "Armitermes minutus",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9801261"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Silvestritermes minutus",
+    "zh": "最小西尔韦斯特里白蚁",
+    "slug": "silvestritermes-minutus",
+    "url": "/species/silvestritermes-minutus/",
+    "in_site": true
+   },
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Armitermes",
+   "genus_to": "Silvestritermes",
+   "guidance": "本站现用 Silvestritermes minutus；旧文献用 Armitermes minutus Emerson, 1925 时写「当时置于 Armitermes，本站现置于 Silvestritermes」；该组合仍有争议，不要写成学界共识。",
+   "status": "争议／未定",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9635608"
+    }
+   ]
+  },
+  {
+   "site": {
+    "latin": "Uncitermes teevani",
+    "zh": "蒂范弯钩白蚁",
+    "slug": "uncitermes-teevani",
+    "url": "/species/uncitermes-teevani/",
+    "family_zh": "白蚁科",
+    "family_latin": "TERMITIDAE"
+   },
+   "authority": {
+    "name": "Armitermes teevani Emerson, 1925",
+    "latin": "Armitermes teevani",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9734260"
+     }
+    ]
+   },
+   "receiving": {
+    "latin": "Uncitermes teevani",
+    "zh": "蒂范弯钩白蚁",
+    "slug": "uncitermes-teevani",
+    "url": "/species/uncitermes-teevani/",
+    "in_site": true
+   },
+   "relation": "combination",
+   "direction": "site",
+   "disputed": true,
+   "sources": [
+    "gbif"
+   ],
+   "genus_from": "Armitermes",
+   "genus_to": "Uncitermes",
+   "guidance": "本站现用 Uncitermes teevani；旧文献用 Armitermes teevani Emerson, 1925 时写「当时置于 Armitermes，本站现置于 Uncitermes」；该组合仍有争议，不要写成学界共识。",
+   "status": "争议／未定",
+   "recordable": false,
+   "recorded": false,
+   "our_links": [
+    {
+     "source": "gbif",
+     "url": "https://www.gbif.org/species/9547733"
+    }
+   ]
+  }
+ ]
+}

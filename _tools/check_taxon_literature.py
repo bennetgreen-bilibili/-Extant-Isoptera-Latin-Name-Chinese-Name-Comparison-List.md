@@ -57,7 +57,18 @@ def main():
         return 2
     try:
         index = load(SOURCES)
-        source_ids = {r.get("id") for r in index.get("sources", []) if r.get("id")}
+        records = index.get("sources", [])
+        source_ids = {r.get("id") for r in records if r.get("id")}
+        abstract_ids = {
+            r["id"] for r in records
+            if r.get("id") and (
+                r.get("fulltext_status") == "abstract-no-oa"
+                or any(
+                    re.search(r"摘要|abstract", item.get("locator") or "", re.IGNORECASE)
+                    for item in (r.get("evidence") or [])
+                )
+            )
+        }
     except Exception as exc:
         print("无法读取 %s：%s" % (SOURCES, exc))
         return 2
@@ -130,6 +141,8 @@ def main():
                 for sid in src:
                     if sid not in source_ids:
                         errors.append("%s：src %s 不在 .sources/index.json" % (where, sid))
+                    elif sid in abstract_ids and "据摘要" not in text:
+                        warnings.append("%s：src %s 是仅摘要来源，但正文没有标「据摘要」" % (where, sid))
                     page_cited.add(sid)
                     cited.add(sid)
                 paragraphs += 1

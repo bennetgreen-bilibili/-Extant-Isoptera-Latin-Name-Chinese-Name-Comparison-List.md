@@ -5,8 +5,9 @@
 ## 0. 任务定义
 
 - **频率**：每天谷时段 01:00（Asia/Shanghai）执行一次。
-- **阅读量**：每轮 50 个「阅读单元」。一个阅读单元 = `_unpublished/文库/manifest.json` 里的一个 chunk 文件（`full.txt` 或 `part-00N.txt`），不是 50 篇论文。
-- **产出**：从这 50 个单元中挑出证据最扎实的 **10–20 个页面**，每页新增 1–4 段「研究记述」，按用户要求写成：
+- **阅读量**：每轮 20 个「阅读单元」，其中默认 **15 个文库 chunk + 5 条仅摘要记录**。一个 chunk 单元 = `_unpublished/文库/manifest.json` 里的一个分卷文件（`full.txt` 或 `part-00N.txt`）；一条仅摘要单元 = `.sources/index.json` 里没有全文、但已存档摘要的论文记录。
+- **仅摘要也要读**：`_tools/library_scan.py` 会从 `.sources` 记录中筛出 `fulltext_status: abstract-no-oa` 或有「摘要 / Abstract」证据 locator 的条目，把逐字摘要片段拼成可读文本，作为 `kind: abstract` 单元扫描。只读摘要的条目在草稿和正文里都必须标「据摘要」，不能写成已读全文。
+- **产出**：从这 20 个单元中挑出证据最扎实的 **8–15 个页面**（上限 20），每页新增 1–4 段「研究记述」，按用户要求写成：
 
   > 根据 XXXXX 研究，xxxxxx。
 
@@ -19,7 +20,7 @@
 1. 不编造标题、作者、年份、DOI、页码、引文；没读到的行不写。
 2. 摘录必须逐字；需要改写就写在正文，并在 `notes` 注明「转述」。
 3. 全文只进 `_unpublished/文库/`，不进仓库；`.sources` 只存元数据 + 短摘录（单处 ≤400 字，同一作品累计 ≤2000 字）。
-4. 付费墙 / 403 / 只有摘要时，正文标注「据摘要」，`notes` 写 `access: blocked，仅有摘要`。
+4. 付费墙 / 403 / 只有摘要时，正文标注「据摘要」，`notes` 写 `access: blocked，仅有摘要`。扫描器选中的 `kind: abstract` 单元本身就是摘要，不能因为「不是全文」跳过；但也只能写摘要明确支持的内容。
 5. 旧文献必须核对分类学变化：先查 `_data/name_issues.json` 的 `synonym_pairs` 与 `species_authority`，再查当前页面接受的学名。写法用「该研究当时置于 X 属／当时记为 X，现多置于 Y」这类有时间的表述，不能把旧名直接当现行名。
 6. 正文里每个事实性判断都要能指回段末的 `Sxxxx`；`references` 只列本页实际用到的来源。
 7. `used_in` 必须写真实存在的仓库文件；本任务统一写 `_data/taxon_literature.json`。
@@ -49,19 +50,19 @@ python _tools/library_scan.py --help
 }
 ```
 
-## 3. Phase A：扫描 50 个单元
+## 3. Phase A：扫描 20 个单元（15 chunk + 5 摘要）
 
 ```powershell
-python _tools/library_scan.py --limit 50 --focus auto --date YYYY-MM-DD --top 120
+python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-MM-DD --top 120
 ```
 
 输出目录：`_tmp/library-scan/YYYY-MM-DD/`。
 
 先看：
 
-- `summary.json`：实际选中的单元数、扫描字符数、候选数、页面数、科／属／种分布、警告。
-- `top.md`：候选段落 + 页面 + 来源 + 行号。它是线索，不是可直接抄的正文。
-- `units.json`：本轮 50 个单元分别来自哪本书／哪篇论文；写审阅包时附上清单。
+- `summary.json`：实际选中的 `chunk_units` 与 `abstract_units`、`abstract_pool`、扫描字符数、候选数、页面数、科／属／种分布、警告。
+- `top.md`：候选段落 + 页面 + 来源 + 行号。它是线索，不是可直接抄的正文。仅摘要候选会排在前面并标「据摘要」；若 `abstract_without_candidates` 大于 0，说明该摘要没有可映射的属／种，`notes.md` 要写明「已读，无可写内容」，不能假装它产出了段落。
+- `units.json`：本轮 20 个单元分别来自哪本书／哪篇论文；`kind: abstract` 的条目是仅摘要记录，写审阅包时单独列出。
 
 扫描器的已知噪声（必须人工过滤）：
 
@@ -69,6 +70,8 @@ python _tools/library_scan.py --limit 50 --focus auto --date YYYY-MM-DD --top 12
 - `+` 表格、名录、目录式段落（大量 `....`、`+`、纯学名列表）通常不能改写成散文。
 - 同一段可能同时命中多个页面；优先给「段落主语」对应的页面，其余页面只在确有独立信息时才写。
 - 中文 OCR 有错字（如 `〃加`、`亜`），改写时按上下文校正，但不要改动引文原文；引文另存 `.sources`。
+- 仅摘要单元只覆盖摘要内容，常常没有分布、模式产地、完整异名；不要从摘要里补原文没有的细节，也不要把摘要里的泛泛背景写成该研究的新结论。
+- 扫描器会用标题／开头筛掉「只提到白蚁」的非白蚁研究（例如以白蚁为食的蜥蜴、黑猩猩食性论文）。若 `units.json` 里仍有这类条目，人工跳过并在 `notes.md` 说明。
 
 ## 4. Phase A：选页与核证
 
@@ -83,22 +86,29 @@ python _tools/library_scan.py --limit 50 --focus auto --date YYYY-MM-DD --top 12
 
 ### 4.2 读原文
 
-不要只读 `top.md` 的截断文本。用 `read` 打开对应 chunk，按候选的 `第 X–Y 行 / 文件名` 读前后各 20–40 行，确认：
+不要只读 `top.md` 的截断文本。
 
-- 这段到底在讲哪个分类单元；
-- 年份、作者、命名人、模式产地、分布是否在同一段或相邻段；
-- 是否只是引用别人的观点（「据 X」「X et al. 认为」），不要把二手观点写成该研究自己的结论；
-- 是否是表格／名录／目录，无法改写成完整句子。
+- **chunk 单元**：用 `read` 打开对应 chunk，按候选的 `第 X–Y 行 / 文件名` 读前后各 20–40 行，确认：
+  - 这段到底在讲哪个分类单元；
+  - 年份、作者、命名人、模式产地、分布是否在同一段或相邻段；
+  - 是否只是引用别人的观点（「据 X」「X et al. 认为」），不要把二手观点写成该研究自己的结论；
+  - 是否是表格／名录／目录，无法改写成完整句子。
+- **摘要单元**：打开 `.sources/index.json` 里对应 `id` 的 `evidence` 逐字片段，拼读完整摘要；同时核对标题、年份、作者。摘要没写的细节一律不补，正文句首或句末标「据摘要」。
 
 ### 4.3 核对分类学
 
-用 `read` 工具读 `_data/name_issues.json`，或写 `_tmp/check_name.py` 查询（PowerShell 不支持 `<<'PY'` heredoc，临时脚本用 `write` 落盘再 `python` 执行）。重点：
+先查专表，再查原始一致性数据：
+
+- `_reports/library-reading/taxonomy-crosswalk.md`：8 条已进入站内核对流程的种级异名／组合对照，含「旧名 → 本站现用名」和写作口径；
+- `_data/taxonomy_crosswalk.json`：上表的机器可读版本；
+- 表里没有的，再用 `read` 工具读 `_data/name_issues.json`，或写 `_tmp/check_name.py` 查询（PowerShell 不支持 `<<'PY'` heredoc，临时脚本用 `write` 落盘再 `python` 执行）。重点：
 
 - 旧属名 / 旧种名 → 当前页面：`species_authority` 的 `incoming` / `outgoing`；
 - 异名对：`synonym_pairs` 的 `our` / `external` / `relation` / `direction`；
 - 若旧文献用的名字与当前页面不同，正文必须写出「当时置于…，现置于…」，不能只写旧名；
 - 若只是「该研究把某名列为异名」而当前站点未接受，写「该研究将…列为…的异名」，不要写成站点结论；
 - 年代核对：`1853`、`1904`、`1911` 这类数字必须能在原文找到，不能凭印象补。
+- 对照表只列 8 条种级条目；属级变动、未列入的种级变动，仍必须回原文和 `name_issues.json` 查，查不到就标「待核」。
 
 ### 4.4 映射到页面
 
@@ -130,6 +140,7 @@ python _tools/library_scan.py --limit 50 --focus auto --date YYYY-MM-DD --top 12
 - 一段只承担一个中心意思；长段落拆成 2–3 段，每段都要有 `src`。
 - 只写原文支持的内容；推断性句子（「推测」「可能」）要么删掉，要么明确标为原文的推测。
 - 旧文献加时间限定：「当时」「该研究采用」「现多置于」。
+- 仅摘要来源要在句首或句末写「据摘要」；不要把摘要里的背景句写成该研究的新发现。
 - 不写「我国」这类脱离页面语境的词；用「中国」「云南」等明确地名。
 - 不把参考文献编号写进正文（如 `[12]`）；用段末注释。
 
@@ -168,7 +179,7 @@ python _tools/library_scan.py --limit 50 --focus auto --date YYYY-MM-DD --top 12
 - `draft.md`：给人看的完整草稿（按页面分组，含正文、来源、待核点）。
 - `draft.json`：可直接合并的 JSON（尚未写入 `_data/`）。
 - `status.json`：`{"status":"pending","date":"YYYY-MM-DD","pages":N}`；获批准后改 `approved`，应用完改 `applied`。
-- `notes.md`：本轮读了哪 50 个单元、哪些候选被丢弃及原因、哪些地方拿不准。
+- `notes.md`：本轮读了哪 20 个单元（chunk 与仅摘要分开列）、哪些候选被丢弃及原因、哪些地方拿不准。
 
 写完先跑：
 
@@ -183,7 +194,7 @@ python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
 ```markdown
 # 文库增补草稿 YYYY-MM-DD
 
-- 阅读单元：50（见 units.json）
+- 阅读单元：20（15 chunk + 5 摘要，见 units.json）
 - 拟增补页面：N
 - 待用户确认：是（尚未写入 _data/，未提交）
 ```
@@ -192,7 +203,7 @@ python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
 
 把 `draft.md` 的**完整内容**贴到对话里（不是只给摘要），并在最后列出：
 
-- 本轮 50 个单元的清单（书名/论文名 + chunk）；
+- 本轮 20 个单元的清单（书名/论文名 + chunk；仅摘要条目注明「据摘要」）；
 - 拟增补的页面列表；
 - 需要用户特别注意的 3–5 个核证点（尤其是旧名、年代、分类变动）；
 - 明确一句：「请审阅；确认后我再写入 `_data/taxon_literature.json`、补 `.sources`、跑检查并提交。」
@@ -250,7 +261,7 @@ python _tools/sources.py add --json _tmp/sources-task.json
 python _tools/library_scan.py mark --date YYYY-MM-DD
 ```
 
-这会把本轮 `units.json` 里的 50 个单元记为已读。**只有应用后才 mark**；未批准的轮次不 mark。
+这会把本轮 `units.json` 里的 20 个单元（含仅摘要条目）记为已读。**只有应用后才 mark**；未批准的轮次不 mark。
 
 ### 7.4 生成与检查
 
@@ -310,8 +321,10 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 
 ## 10. 当前基线（2026-11-11）
 
-- 文库：36 部作品 / 94 个 chunk / 20,930,481 字符；50 单元/天约 2 天走完第一遍。
+- 文库：36 部作品 / 94 个 chunk / 20,930,481 字符。每天 15 个 chunk，约 7 天走完第一遍。
+- 仅摘要：`.sources/index.json` 中筛出 20 条白蚁／等翅目相关的仅摘要记录（另有非白蚁论文会因标题/开头不相关被排除）；每天 5 条，约 4 天轮完，之后按 `auto` focus 复读。
 - 第一遍 focus 以 `taxonomy` 为主；第二遍起再按 `morphology`、`ecology` 轮换。
 - 页面：326 属、13 科、18 亚科、3089 种。
 - 已有渲染入口：`_includes/taxon-literature.html`、`_data/taxon_literature.json`；属／科／亚科页由 `.github/workflows/build_taxonomy_pages.py` 注入，种页由 `_layouts/species.html` 注入。
 - 已有扫描器：`_tools/library_scan.py`；账本：`_reports/library-reading/progress.json`。
+- 分类学对照表：`_reports/library-reading/taxonomy-crosswalk.md`（8 条）；生成器：`_tools/build_taxonomy_crosswalk.py`；机器版：`_data/taxonomy_crosswalk.json`。

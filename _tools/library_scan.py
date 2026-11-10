@@ -1,20 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Select and scan 50 library reading units for the daily literature-enrichment run.
+"""Select and scan 20 library reading units for the daily literature-enrichment run.
 
 This tool is deliberately read-only with respect to the site content.  It only
 writes under ``_tmp/library-scan/<date>/`` and, with ``mark``, updates the
 reading ledger under ``_reports/library-reading/``.
 
-A "reading unit" is one chunk file from ``_unpublished/文库/manifest.json``
-(``full.txt`` or ``part-00N.txt`` / ``0001-0200.txt``).  The 94 chunks are read
-round-robin across the 36 archived works so that every work is sampled before
-any work gets a second pass.
+A "reading unit" is normally one chunk file from
+``_unpublished/文库/manifest.json`` (``full.txt`` or ``part-00N.txt`` /
+``0001-0200.txt``).  The 94 chunks are read round-robin across the 36 archived
+works so that every work is sampled before any work gets a second pass.
+
+The queue also contains abstract-only records from ``.sources/index.json``.
+Those records have no library chunk, but their archived ``evidence`` quotes
+carry the abstract text (``fulltext_status: abstract-no-oa`` or a locator such
+as ``摘要`` / ``Abstract``).  They are selected as separate units and marked
+``abstract_only`` so a draft never presents them as full-text reading.
 
 Typical use::
 
-    python _tools/library_scan.py --limit 50
-    python _tools/library_scan.py --limit 3 --focus taxonomy --date 2026-11-12
+    python _tools/library_scan.py --limit 20 --abstract 5
+    python _tools/library_scan.py --limit 5 --focus taxonomy --date 2026-11-12
     python _tools/library_scan.py mark --date 2026-11-12
 
 Outputs (UTF-8):
@@ -112,6 +118,7 @@ STOPWORDS = {
 ROMAN_YEAR_RE = re.compile(r"\b(1[6-9]\d{2}|20\d{2})\b")
 TOC_RE = re.compile(r"(\.{4,}|·{4,}|…{3,})")
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z\-]*")
+ABSTRACT_LOCATOR_RE = re.compile(r"摘要|abstract", re.IGNORECASE)
 
 
 def load_json(path: Path, default=None):
@@ -375,6 +382,99 @@ def select_units(limit, records, progress):
     return units[:limit]
 
 
+def abstract_text(record):
+    """Reconstruct the archived abstract from verbatim evidence quotes.
+
+    The OpenAlex-derived records split one abstract across several quotes of
+    up to 400 characters, often in the middle of a word.  Join a lower-case
+    continuation directly; insert a space only where the split is a real word
+    boundary.  This is a reading aid, not a new quotation: the original
+    fragments remain the authoritative record in ``.sources``.
+    """
+    quotes = []
+    for item in record.get("evidence") or []:
+        locator = item.get("locator") or ""
+        if not ABSTRACT_LOCATOR_RE.search(locator):
+            continue
+        quote = (item.get("quote") or "").strip()
+        if quote:
+            quotes.append(quote)
+    if not quotes:
+        return ""
+    text = quotes[0]
+    for quote in quotes[1:]:
+        if text.endswith("-") or (text and text[-1].isalnum() and quote[:1].islower()):
+            text += quote
+        else:
+            text += " " + quote
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def is_abstract_record(record):
+    if record.get("library"):
+        return False
+    if record.get("fulltext_status") == "abstract-no-oa":
+        return True
+    return any(
+        ABSTRACT_LOCATOR_RE.search(item.get("locator") or "")
+        for item in (record.get("evidence") or [])
+    )
+
+
+def abstract_is_relevant(record):
+    """Keep termite/Isoptera abstracts, not papers that merely mention termites.
+
+    A chimpanzee diet paper or a lizard ecology paper can contain termite genus
+    names in its abstract without being a termite study.  Requiring a termite
+    signal in the title (or an order name in the opening lines) keeps those out
+    of the enrichment queue.
+    """
+    title = record.get("title") or ""
+    opening = abstract_text(record)[:320]
+    pattern = re.compile(r"termit|terme|isoptera|blattodea|dictyoptera|白蚁|等翅目", re.IGNORECASE)
+    return bool(pattern.search(title) or pattern.search(opening))
+
+
+def select_abstract_units(limit, records, progress):
+    """Select abstract-only source records, least-read first."""
+    units = []
+    for idx, record in enumerate(records):
+        if not is_abstract_record(record):
+            continue
+        if not abstract_is_relevant(record):
+            continue
+        text = abstract_text(record)
+        if len(text) < 80:
+            continue
+        rid = record.get("id") or ""
+        if not rid:
+            continue
+        key = "abstract:%s" % rid
+        units.append({
+            "key": key,
+            "kind": "abstract",
+            "book": record.get("title") or rid,
+            "chunk": "摘要",
+            "chunk_index": 0,
+            "work_order": 10000 + idx,
+            "path": None,
+            "chars": len(text),
+            "source_id": rid,
+            "source_title": record.get("title"),
+            "source_year": record.get("year"),
+            "text": text,
+            "locator": "摘要 / %s" % (record.get("title") or rid),
+            "abstract_only": True,
+        })
+
+    def sort_key(u):
+        state = (progress.get("units") or {}).get(u["key"], {})
+        return (int(state.get("reads", 0)), state.get("last_read") or "", u["source_id"])
+
+    units.sort(key=sort_key)
+    return units[:limit]
+
+
 def read_paragraphs(path: Path):
     """Yield (start_line, end_line, text) paragraphs with line numbers."""
     text = path.read_text(encoding="utf-8", errors="ignore")
@@ -543,6 +643,10 @@ def match_taxa(text, genus_map, species_map, alias_token_map, zh_trie):
 def make_candidate(unit, focus, page, paragraph, score, hits, date, has_lit):
     start, end, text = paragraph
     digits = hashlib.sha1(("%s|%s|%s|%s" % (page["url"], unit["key"], start, text[:80])).encode("utf-8")).hexdigest()[:12]
+    if unit.get("kind") == "abstract":
+        locator = unit.get("locator") or "摘要"
+    else:
+        locator = "第 %s–%s 行 / %s.txt" % (start, end, unit["chunk"])
     return {
         "id": digits,
         "date": date,
@@ -551,7 +655,8 @@ def make_candidate(unit, focus, page, paragraph, score, hits, date, has_lit):
         "chunk": unit["chunk"],
         "source_id": unit["source_id"],
         "focus": focus,
-        "locator": "第 %s–%s 行 / %s.txt" % (start, end, unit["chunk"]),
+        "locator": locator,
+        "abstract_only": bool(unit.get("abstract_only")),
         "page_url": page["url"],
         "rank": page["rank"],
         "latin": page.get("latin", ""),
@@ -564,7 +669,7 @@ def make_candidate(unit, focus, page, paragraph, score, hits, date, has_lit):
     }
 
 
-def scan(limit, focus_arg, date, top_n):
+def scan(limit, focus_arg, date, top_n, abstract_limit=5):
     records = (load_json(SOURCE_INDEX_PATH, {}) or {}).get("sources", [])
     progress = load_json(PROGRESS_PATH, {}) or {"version": 1, "units": {}}
     pages, genera, latin_genus, latin_species, zh_names = build_taxonomy()
@@ -574,7 +679,14 @@ def scan(limit, focus_arg, date, top_n):
     kw_trie = build_keyword_trie()
     has_lit = load_json(LITERATURE_PATH, {}) or {}
 
-    units = select_units(limit, records, progress)
+    abstract_pool = sum(
+        1 for rec in records
+        if is_abstract_record(rec) and abstract_is_relevant(rec) and len(abstract_text(rec)) >= 80
+    )
+    abstract_target = min(max(0, abstract_limit), max(0, limit))
+    abstract_units = select_abstract_units(abstract_target, records, progress)
+    chunk_units = select_units(max(0, limit - len(abstract_units)), records, progress)
+    units = chunk_units + abstract_units
     all_candidates = []
     warnings = []
     scanned_chars = 0
@@ -590,14 +702,27 @@ def scan(limit, focus_arg, date, top_n):
             focus = focus_arg
         unit["focus"] = focus
         unit["pass"] = reads + 1
-        try:
-            text = unit["path"].read_text(encoding="utf-8", errors="ignore")
-        except OSError as exc:
-            warnings.append("cannot read %s: %s" % (unit["path"], exc))
-            continue
+        if unit.get("kind") == "abstract":
+            text = unit.get("text") or ""
+            if not text:
+                warnings.append("abstract %s has no usable text" % unit["source_id"])
+                continue
+            # The abstract may omit the taxon name that the title carries.
+            # Keep the title in the matched block so genus/species pages can
+            # still be identified, and so the reviewer sees what was read.
+            title = (unit.get("source_title") or "").strip()
+            block = ("%s. %s" % (title, text)) if title and title not in text else text
+            blocks = [(1, 1, block)]
+        else:
+            try:
+                text = unit["path"].read_text(encoding="utf-8", errors="ignore")
+            except OSError as exc:
+                warnings.append("cannot read %s: %s" % (unit["path"], exc))
+                continue
+            blocks = read_paragraphs(unit["path"])
         scanned_chars += len(text)
         unit_seen = 0
-        for start, end, block in read_paragraphs(unit["path"]):
+        for start, end, block in blocks:
             pieces = split_long_paragraph(start, end, block)
             for piece in pieces:
                 if not paragraph_ok(piece[2]):
@@ -612,7 +737,10 @@ def scan(limit, focus_arg, date, top_n):
                 alias_flag = any(m.get("alias") for m in tax_matches)
                 score, hits = score_paragraph(piece[2], focus, kw_trie, tax_matches,
                                                has_year, alias_flag)
-                if score < 2.0:
+                # Abstracts are short and often omit taxonomy keywords; a
+                # genuine genus/species match is enough for a lead there.
+                min_score = 0.8 if unit.get("kind") == "abstract" else 2.0
+                if score < min_score:
                     continue
                 # Promote each species to a companion genus candidate.
                 expanded = list(tax_matches)
@@ -648,7 +776,13 @@ def scan(limit, focus_arg, date, top_n):
         if key not in dedup or cand["score"] > dedup[key]["score"]:
             dedup[key] = cand
     all_candidates = list(dedup.values())
-    all_candidates.sort(key=lambda c: (-c["score"], c["unit"], c["page_url"]))
+    # Reserve the head of ``top`` for abstract-only units: otherwise their
+    # short, low-keyword paragraphs are crowded out by long book chunks and the
+    # reviewer never sees the abstracts that the daily quota required reading.
+    all_candidates.sort(key=lambda c: (
+        0 if c.get("abstract_only") else 1,
+        -c["score"], c["unit"], c["page_url"],
+    ))
 
     # Caps: at most 4 per unit, 3 per page, top_n overall.
     per_unit = Counter()
@@ -667,7 +801,14 @@ def scan(limit, focus_arg, date, top_n):
 
     out_dir = ROOT / "_tmp" / "library-scan" / date
     out_dir.mkdir(parents=True, exist_ok=True)
-    dump_json(out_dir / "units.json", [{k: v for k, v in u.items() if k != "path"} | {"path": str(u["path"])} for u in units])
+
+    def public_unit(unit):
+        item = {k: v for k, v in unit.items() if k not in ("path", "text")}
+        if unit.get("path"):
+            item["path"] = str(unit["path"])
+        return item
+
+    dump_json(out_dir / "units.json", [public_unit(u) for u in units])
     dump_json(out_dir / "top.json", top)
     dump_json(out_dir / "summary.json", {
         "date": date,
@@ -675,6 +816,12 @@ def scan(limit, focus_arg, date, top_n):
         "focus": focus_arg,
         "units_requested": limit,
         "units_selected": len(units),
+        "chunk_units": len(chunk_units),
+        "abstract_units": len(abstract_units),
+        "abstract_pool": abstract_pool,
+        "abstract_without_candidates": sum(
+            1 for u in units if u.get("kind") == "abstract" and u.get("candidates") == 0
+        ),
         "units_scanned": sum(1 for u in units if u.get("candidates") is not None),
         "chars_scanned": scanned_chars,
         "candidates_total": len(all_candidates),
@@ -704,8 +851,9 @@ def write_top_md(path, top, units):
         lines.append("## `%s` — %s %s" % (url, items[0]["rank"], items[0]["latin"]))
         lines.append("")
         for cand in items:
-            lines.append("- **%s** · %s · %s · 分数 %.2f" % (
-                cand["source_id"], cand["book"], cand["locator"], cand["score"]))
+            label = " · 据摘要" if cand.get("abstract_only") else ""
+            lines.append("- **%s** · %s · %s · 分数 %.2f%s" % (
+                cand["source_id"], cand["book"], cand["locator"], cand["score"], label))
             lines.append("  - " + cand["text"].replace("\n", " ")[:360].strip() + "…")
         lines.append("")
     path.write_text("\n".join(lines), encoding="utf-8")
@@ -744,7 +892,9 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command")
     p_scan = sub.add_parser("scan", help="扫描阅读单元（默认）")
-    p_scan.add_argument("--limit", type=int, default=50, help="阅读单元数（默认 50）")
+    p_scan.add_argument("--limit", type=int, default=20, help="阅读单元总数（默认 20）")
+    p_scan.add_argument("--abstract", type=int, default=5,
+                        help="其中仅摘要记录的条数（默认 5；其余为文库 chunk）")
     p_scan.add_argument("--focus", choices=FOCUS_ORDER + ["auto"], default="auto")
     p_scan.add_argument("--date", default=datetime.now().strftime("%Y-%m-%d"))
     p_scan.add_argument("--top", type=int, default=120, help="候选上限（默认 120）")
@@ -759,9 +909,14 @@ def main(argv=None):
     args = parser.parse_args(argv)
     if args.command == "mark":
         return mark_read(args.date)
-    out_dir, top, units, warnings = scan(args.limit, args.focus, args.date, args.top)
+    out_dir, top, units, warnings = scan(args.limit, args.focus, args.date, args.top, args.abstract)
     print("输出目录：%s" % out_dir)
-    print("阅读单元：%d；候选：%d（top）" % (len(units), len(top)))
+    print("阅读单元：%d（chunk %d + 摘要 %d）；候选：%d（top）" % (
+        len(units),
+        sum(1 for u in units if u.get("kind") != "abstract"),
+        sum(1 for u in units if u.get("kind") == "abstract"),
+        len(top),
+    ))
     if warnings:
         print("警告：")
         for w in warnings[:10]:
