@@ -59,15 +59,32 @@ def main():
         index = load(SOURCES)
         records = index.get("sources", [])
         source_ids = {r.get("id") for r in records if r.get("id")}
+        def is_abstract_only(record):
+            """Return True only when the record has no local full text.
+
+            A record can contain evidence with a locator such as "摘要" while
+            still having a file_path/library full text (for example a paper
+            whose abstract is quoted from the PDF).  Those must not be treated
+            as abstract-only just because of the locator string.
+            """
+            if record.get("fulltext_status") == "abstract-no-oa":
+                return True
+            if record.get("library") or record.get("file_path"):
+                return False
+            notes = record.get("notes") or ""
+            retrieved = record.get("retrieved_via") or ""
+            return bool(
+                re.search(
+                    r"仅读摘要|仅有摘要|只读到摘要|只有摘要|abstract only|access:\s*blocked",
+                    notes,
+                    re.IGNORECASE,
+                )
+                or "摘要" in retrieved
+            )
+
         abstract_ids = {
             r["id"] for r in records
-            if r.get("id") and (
-                r.get("fulltext_status") == "abstract-no-oa"
-                or any(
-                    re.search(r"摘要|abstract", item.get("locator") or "", re.IGNORECASE)
-                    for item in (r.get("evidence") or [])
-                )
-            )
+            if r.get("id") and is_abstract_only(r)
         }
     except Exception as exc:
         print("无法读取 %s：%s" % (SOURCES, exc))

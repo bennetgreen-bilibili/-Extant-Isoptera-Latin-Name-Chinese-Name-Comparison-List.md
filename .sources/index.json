@@ -3,7 +3,7 @@
     "version": 1,
     "count": 363,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-11T01:04:27+08:00",
+    "updated": "2026-11-11T01:38:54+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -60,7 +60,7 @@
       "publisher": "科学出版社",
       "reliability": "reference",
       "lang": "zh",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "evidence": [
         {
           "quote": "缺少真工蚁的低等白蚁在发育到成虫的过程中，前胸腺经历了相当规律的生长过程",
@@ -86,9 +86,15 @@
           "quote": "胫距3： （2〜5） : （3〜5）",
           "locator": "001-200.txt 第1591行",
           "note": "支撑：胫距=端距 的异译；据此改「端距式」。"
+        },
+        {
+          "quote": "等翅目最早定名的属是白蚁属Termes,由林奈于1758年定名。早期定名的属还有木白蚁属Kalotermes、草白蚁属Hodotermes、鼻白蚁属Rhinotermes、洞白蚁属、胄白蚁属，它们均由Hagen命名，前3属命名于1853年，后2属命名于1858年。",
+          "locator": "p. 1224 / 001-200.txt",
+          "note": "支撑：Termes 1758、Kalotermes/Hodotermes/Rhinotermes 1853 等命名史"
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "_data/translation_glossary.yml",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
@@ -768,7 +774,7 @@
       "publisher": "Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18",
       "reliability": "peer_reviewed",
       "lang": "en",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "evidence": [
         {
           "quote": "When molested by predators such as ants, or when grasped by forceps and placed in alcohol, the abdominal muscles contract convulsively and the abdomen ruptures across a line of weakness behind the first tergite. The intestines erupt through the gap and themselves tend to burst, scattering their slimy contents.",
@@ -818,6 +824,7 @@
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/06-sands-emerson.json",
         "_tools/fauna/morphology/descriptions/sands1972.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
@@ -843,7 +850,7 @@
         "Xing L. X.",
         "Liu M. H."
       ],
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "evidence": [
         {
           "quote": "The results showed that the AR derived from the last instar nymphs by molting, and they were more similar to neotenic reproductives in morphology.",
@@ -857,6 +864,7 @@
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "canonical_key": "doi:10.1093/jisesa/iev130",
@@ -958,7 +966,7 @@
       ],
       "file_path": "_unpublished/文库/Genomic-data-provide-insights-into-the-classification-of-extant-termites",
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "evidence": [
         {
           "quote": "all species of this clade have a true worker caste (as in Mastotermitidae, Hodotermitidae, and Rhinotermitidae sensu novo) and typically live in large colonies.",
@@ -1002,6 +1010,7 @@
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "_data/taxonomy_crosswalk.json",
         "_reports/library-reading/taxonomy-crosswalk.md",
         "白蚁基础知识-中文稿-修订-v5.docx"
@@ -1060,10 +1069,11 @@
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "notes": "全文存于 _unpublished/文库/Developmental-Pathways-of-Psammotermes-hybostoma-(Isoptera-Rhinotermitidae)-Old-（38118 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "canonical_key": "doi:10.1371/journal.pone.0044527",
       "id": "S0009",
       "library": {
@@ -1142,10 +1152,11 @@
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "notes": "仅读摘要（Europe PMC），未获全文。",
-      "accessed": "2026-11-07T01:02:42+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "canonical_key": "doi:10.1016/j.asd.2024.101346",
       "id": "S0011"
     },
@@ -1170,10 +1181,11 @@
         }
       ],
       "used_in": [
+        "_data/taxon_literature.json",
         "白蚁基础知识-中文稿-修订-v5.docx"
       ],
       "notes": "只读到摘要页（IndianJournals 记录页），正文未读；原文期刊为 Journal of Entomological Research 20(1): 73–82。",
-      "accessed": "2026-11-07T01:10:27+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "canonical_key": "url:https://indianjournals.com/article/jer-20-1-013",
       "id": "S0012"
     },
@@ -1185,7 +1197,7 @@
       "file_path": "_unpublished/文库/The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl",
       "chars": 41845,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-09T15:12:52+08:00",
+      "accessed": "2026-11-11T01:38:54+08:00",
       "notes": "全文存于 _unpublished/文库/The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl（17 页，41845 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl",
@@ -1222,8 +1234,36 @@
       "lang": "en",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "doi": "10.21203/rs.3.rs-2770501/v1",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Stylotermitidae appear peculiar among all termites, feeding in trunks of living trees in South Asia only.",
+          "locator": "p. 2 Abstract / 0001-0017.txt:44",
+          "note": "支撑：Stylotermitidae 的栖息方式与分布"
+        },
+        {
+          "quote": "A single extant genus in this family, Stylotermes, includes 45 described species living from India through Bangladesh, China, Taiwan to Malaysia (Krishna et al. 2013; Liang et al. 2017; Wu et al. 2018).",
+          "locator": "p. 2 / 0001-0017.txt:68-69",
+          "note": "支撑：Stylotermes 单属、45 种及分布"
+        },
+        {
+          "quote": "The sternal gland is the exclusive source of the trail-following pheromone in both Stylotermes species. It is located at the 5th abdominal sternite in workers, made of class I, II and III secretory cells.",
+          "locator": "p. 2 Abstract / 0001-0017.txt:49-50",
+          "note": "支撑：腹板腺位置与细胞类型"
+        },
+        {
+          "quote": "Gas chromatography coupled to mass spectrometry showed a minor peak corresponding to (Z)-dodec-3-en-1-ol (DOE). This compound elicits strong behavioural responses in workers, with a trail-following activity threshold around 10− 4 ng/cm in both species.",
+          "locator": "p. 2 Abstract / 0001-0017.txt:51-53",
+          "note": "支撑：DOE 为活性成分及行为阈值"
+        },
+        {
+          "quote": "Our results confirm the switch from complex aldehyde trail-following pheromones occurring in the basal groups to simpler linear alcohols in the ancestor of Kalotermitidae and Neoisoptera.",
+          "locator": "p. 2 Abstract / 0001-0017.txt:56-58",
+          "note": "支撑：尾迹信息素从醛类到直链醇的演化"
+        }
+      ],
       "id": "S0013"
     },
     {
@@ -5979,10 +6019,11 @@
       ],
       "used_in": [
         "_data/morphology_genera.json",
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/08-nasuti-b.json"
       ],
       "notes": "开放获取（revistas.usp.br）；本批以 pdf_render_page 渲染扫描页后逐页阅读（PDF 无文本层）。许可未在文中检得，记 unknown。",
-      "accessed": "2026-11-07T07:13:03+08:00",
+      "accessed": "2026-11-11T01:38:23+08:00",
       "canonical_key": "url:https://revistas.usp.br/paz/article/view/33691",
       "id": "S0098"
     },

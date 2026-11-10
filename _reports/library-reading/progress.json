@@ -1,12 +1,233 @@
 {
-  "version": 1,
-  "created": "2026-11-11",
-  "updated": "2026-11-11",
-  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
-  "quota": {
-    "total": 20,
-    "chunks": 15,
-    "abstracts": 5
+ "version": 1,
+ "created": "2026-11-11",
+ "updated": "2026-11-11T01:39:12+08:00",
+ "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
+ "quota": {
+  "total": 20,
+  "chunks": 15,
+  "abstracts": 5
+ },
+ "units": {
+  "白蚁学::001-200": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0001"
+    }
+   ]
   },
-  "units": {}
+  "白蚁生物学现代研究合集::001-100": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0002"
+    }
+   ]
+  },
+  "中国动物志-昆虫纲-第十七卷-等翅目::001-100": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0003"
+    }
+   ]
+  },
+  "Treatise-on-the-Isoptera::0001-0200": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0004"
+    }
+   ]
+  },
+  "Sands-1972-Soldierless-Termites-of-Africa::0001-0200": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0005"
+    }
+   ]
+  },
+  "Oligocene-termite-nests-with-in-situ-fungus-gardens-from-the-Rukwa-Rift-Basin,-T::full": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0007"
+    }
+   ]
+  },
+  "Genomic-data-provide-insights-into-the-classification-of-extant-termites::full": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0008"
+    }
+   ]
+  },
+  "Developmental-Pathways-of-Psammotermes-hybostoma-(Isoptera-Rhinotermitidae)-Old-::full": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0009"
+    }
+   ]
+  },
+  "The-development-of-adultoid-reproductives-and-brachypterous-neotenic-reproductiv::full": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0006"
+    }
+   ]
+  },
+  "The-trail-following-communication-in-Stylotermes-spp.-(Blattodea,-Isoptera,-Styl::0001-0017": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0013"
+    }
+   ]
+  },
+  "Eusociality-and-the-success-of-the-termites-insights-from-a-supertree-of-dictyop::0001-0012": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0014"
+    }
+   ]
+  },
+  "The-origin-of-a-‘true’-worker-caste-in-termites-mapping-the-real-world-on-the-ph::0001-0003": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0015"
+    }
+   ]
+  },
+  "Step-by-step-Dissection-Protocol-of-Apicotermitinae-Worker-(Blattaria-Isoptera)::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0016"
+    }
+   ]
+  },
+  "Adaptive-radiation-and-social-evolution-of-the-ants::0001-0047": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0017"
+    }
+   ]
+  },
+  "中国南部的白蚁新种::full": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0020"
+    }
+   ]
+  },
+  "abstract:S0010": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0010"
+    }
+   ]
+  },
+  "abstract:S0011": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0011"
+    }
+   ]
+  },
+  "abstract:S0012": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0012"
+    }
+   ]
+  },
+  "abstract:S0098": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0098"
+    }
+   ]
+  },
+  "abstract:S0136": {
+   "reads": 1,
+   "last_read": "2026-11-11T01:39:12+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0136"
+    }
+   ]
+  }
+ }
 }

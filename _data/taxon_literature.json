@@ -10,7 +10,9 @@
             "paragraphs": [
               {
                 "text": "根据……研究，……",
-                "src": ["S0001"]
+                "src": [
+                  "S0001"
+                ]
               }
             ]
           }
@@ -24,6 +26,526 @@
         ]
       }
     },
-    "updated": "2026-11-11"
+    "updated": "2026-11-11",
+    "last_batch": {
+      "date": "2026-11-11",
+      "pages": 15,
+      "units": 20,
+      "chunks": 15,
+      "abstracts": 5,
+      "sources": [
+        "S0001",
+        "S0005",
+        "S0006",
+        "S0008",
+        "S0009",
+        "S0011",
+        "S0012",
+        "S0013",
+        "S0098"
+      ]
+    }
+  },
+  "/family/rhinotermitidae/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "鼻白蚁科的拆分（2024）",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024）的基因组系统发育研究，传统意义上的鼻白蚁科（Rhinotermitidae sensu lato）是并系群，被拆分为四个科级支系：异白蚁科 Heterotermitidae（Coptotermes、Heterotermes、Reticulitermes）、沙白蚁科 Psammotermitidae（Psammotermes、Prorhinotermes）、寡脉白蚁科 Termitogetonidae（Termitogeton），以及狭义的鼻白蚁科 Rhinotermitidae sensu novo。狭义鼻白蚁科只保留 Acorhinotermes、Dolichorhinotermes、Parrhinotermes、Rhinotermes、Schedorhinotermes 五属，即原来的 Rhinotermitinae；Macrorhinotermes 被处理为 Schedorhinotermes 的次异名。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "修订后的鼻白蚁科分布涵盖澳大利亚、非洲、新热带、东方、古北（中日）和大洋洲；兵蚁可为单型、二型或三型；鉴别特征包括膨大的唇基、从囟到唇基的窄沟，以及兵蚁延长且端部呈刷状的上唇，上唇中央有一条供额腺分泌物流动的沟。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "因此，旧文献中的“鼻白蚁科”不能一律等同于本站现在的鼻白蚁科；遇到 Coptotermes、Reticulitermes 等属时，应按异白蚁科 Heterotermitidae 处理。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/family/heterotermitidae/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "异白蚁科的建立（2024）",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024），异白蚁科 Heterotermitidae stat. nov. 由原鼻白蚁科的 Heterotermitinae 提升为科，包含 Coptotermes、Heterotermes、Reticulitermes 三属，模式属为 Heterotermes Froggatt, 1897；Coptotermitinae 和 Arrhinotermitinae 被处理为异名，†Lukotermes 也是该科的灭绝成员。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "该科即文献中常说的“地下白蚁”（subterranean termites），分布覆盖大部分温带和热带地区，包含多种重要的房屋与林木害虫；Coptotermes 兵蚁头部卵形、囟大而朝前，可渗出乳胶状分泌物。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/family/psammotermitidae/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "沙白蚁科的建立（2024）",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024），沙白蚁科 Psammotermitidae stat. nov. 由原鼻白蚁科的 Psammotermitinae 提升为科，并把 Prorhinotermitinae 一并纳入；现生属只有 Psammotermes Desneux, 1902 和 Prorhinotermes Silvestri, 1909。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "Psammotermes 是沙漠栖息者，分布于非洲（含马达加斯加）、撒哈拉-阿拉伯和东方区；Prorhinotermes 多为岛屿分布，其广布被认为可能与洋流搬运漂流木中的群体有关。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/family/termitogetonidae/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "寡脉白蚁科的建立（2024）",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024），寡脉白蚁科 Termitogetonidae stat. nov. 由原鼻白蚁科的 Termitogetoninae 提升为科，是单型科，仅含 Termitogeton Desneux, 1904 一属，现存两种，分布于东方区和大洋洲，营木食生活。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "该科有翅成虫密被毛，头近三角形、后缘波状；兵蚁头心形、密被毛，上颚延长而无缘齿；各品级身体均背腹扁平。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/subfamily/amitermitinae/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "弓白蚁亚科的恢复（2024）",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024），弓白蚁亚科 Amitermitinae stat. nov. 从旧白蚁亚科 Termitinae 中恢复，包含 14 属：Ahamitermes、Amitermes、Dentispicotermes、Drepanotermes、Eremotermes、Globitermes、Gnathamitermes、Hoplotermes、Incolitermes、Invasitermes、Orthognathotermes、Prohamitermes、Pseudhamitermes、Synhamitermes；模式属为 Amitermes Silvestri, 1901。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "该亚科广布于热带和亚热带各生物地理区，取食蚁丘、土壤、木材和草，以及土壤-木材过渡带；兵蚁头一般梨形、无额突，但 Eremotermes 和 Dentispicotermes 例外。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "1972 年 Sands 修订非洲无兵蚁白蚁时，曾把 Amitermitinae 作为 Termitinae 的异名；2024 年的处理恢复了它的亚科地位，因此旧文献中的“Amitermitinae”不能直接按现在的范围理解。",
+            "src": [
+              "S0005",
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0005",
+        "citation": "Sands W. A. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18, 1972.",
+        "doi": "10.5962/p.192782"
+      },
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/subfamily/termitinae/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "白蚁亚科的收窄（2024）",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024），白蚁亚科 Termitinae sensu novo 被收窄到 Termes 及其近缘属，共 23 属，包括 Apsenterotermes、Termes、Capritermes、Cavitermes、Cornicapritermes、Cristatitermes、Dihoplotermes、Divinotermes、Ekphysotermes、Ephelotermes、Hapsidotermes、Hesperotermes、Inquilinitermes、Lophotermes、Macrognathotermes、Palmitermes、Paracapritermes、Protocapritermes、Quasitermes、Saxatilitermes、Spinitermes、Tuberculitermes、Xylochomitermes；模式属为 Termes Linnaeus, 1758。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "该亚科分布泛热带，见于非洲、澳大利亚、新热带、大洋洲和东方区，取食土壤、蚁丘、木材及土壤-木材过渡带。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "旧白蚁亚科因多系而被拆分，原有类群分别转入恢复或新建的弓白蚁亚科、锯白蚁亚科、瘤白蚁亚科、响白蚁亚科、圆筒白蚁亚科、剪白蚁亚科、新扭白蚁亚科、始钩白蚁亚科、前奇白蚁亚科等；现生白蚁科因此共有 18 个亚科。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/genus/kalotermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属名的早期历史",
+        "paragraphs": [
+          {
+            "text": "根据程冬保、杨兆芬《白蚁学》（2014），等翅目最早定名的属是白蚁属 Termes，由 Linnaeus 于 1758 年命名；木白蚁属 Kalotermes 由 Hagen 于 1853 年命名，是最早命名的一批白蚁属之一。同一段还提到草白蚁属 Hodotermes、鼻白蚁属 Rhinotermes 也在 1853 年由 Hagen 命名，洞白蚁属和胄白蚁属则命名于 1858 年。",
+            "src": [
+              "S0001"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      }
+    ]
+  },
+  "/genus/rhinotermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属名的早期历史与现行科位",
+        "paragraphs": [
+          {
+            "text": "根据《白蚁学》（2014），鼻白蚁属 Rhinotermes 由 Hagen 于 1853 年命名，是最早命名的白蚁属之一。",
+            "src": [
+              "S0001"
+            ]
+          },
+          {
+            "text": "根据 Hellemans 等（2024），Rhinotermes 是狭义鼻白蚁科 Rhinotermitidae sensu novo 的模式属；该科现仅含 Acorhinotermes、Dolichorhinotermes、Parrhinotermes、Rhinotermes、Schedorhinotermes 五属，原 Rhinotermitinae 提升为科（即 Rhinotermitidae sensu novo），Macrorhinotermes 被并入 Schedorhinotermes。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0001",
+        "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+      },
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/genus/anoplotermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "1972 年非洲无兵蚁白蚁修订",
+        "paragraphs": [
+          {
+            "text": "根据 Sands（1972）对非洲无兵蚁白蚁的修订，此前非洲已知的 11 种都归在解甲白蚁属 Anoplotermes 中；修订后确认这些种类属于尖白蚁亚科 Apicotermitinae，而不是原来所在的 Amitermitinae。非洲无兵蚁类群由此被分为 16 个新属、60 种（其中 51 新种），并有 7 个种名被归并。",
+            "src": [
+              "S0005"
+            ]
+          },
+          {
+            "text": "其中 A. lateralis 转入 Microcerotermes，A. pallidipes 转入 Pericapritermes；A. placidus、A. sanctus、A. sedatus 成为异名。",
+            "src": [
+              "S0005"
+            ]
+          },
+          {
+            "text": "该修订当时把 Amitermitinae 降为 Termitinae 的异名；2024 年 Hellemans 等又恢复 Amitermitinae，因此引用 Sands（1972）时须注明这是当时的处理。",
+            "src": [
+              "S0005",
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0005",
+        "citation": "Sands W. A. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18, 1972.",
+        "doi": "10.5962/p.192782"
+      },
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/genus/ereymatermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属的界定与分布",
+        "paragraphs": [
+          {
+            "text": "根据 Cancello & Cuezzo（2007），Ereymatermes 是象白蚁亚科 Nasutitermitinae 的新热带特有属。该文描述新种 E. piquira（模式产地巴西巴伊亚州 Ilhéus），并回顾此前已知的 E. rotundiceps（巴西亚马孙州 Japurá 河下游森林）和 E. panamensis（巴拿马运河区）。",
+            "src": [
+              "S0098"
+            ]
+          },
+          {
+            "text": "该属可由兵蚁、工蚁和有翅成虫三品级共同界定；兵蚁头壳卵形、触角基后方略收缩，象鼻长圆柱形、不上翘，上唇很退化，触角 12 节，胫节距 2:2:2；工蚁二型，窄隙型更常见。",
+            "src": [
+              "S0098"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0098",
+        "citation": "Cancello E. M., Cuezzo C. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288, 2007.",
+        "url": "https://revistas.usp.br/paz/article/view/33691"
+      }
+    ]
+  },
+  "/species/reticulitermes-labralis/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "补充繁殖蚁的发育",
+        "paragraphs": [
+          {
+            "text": "根据 Su 等（2015）对圆唇散白蚁 Reticulitermes labralis 的研究，成虫型补充繁殖蚁（adultoid reproductives, AR）可由末龄若虫直接蜕皮形成，形态上更接近补充繁殖蚁而非有翅成虫。",
+            "src": [
+              "S0006"
+            ]
+          },
+          {
+            "text": "实验室中，AR 配对在无工蚁时 2 周内全部死亡，且不掘隧道；有翅成虫配对在 3–7 天内掘道，50 对中 44 对存活，约 3 周后产卵。末龄若虫在 9 周内约 67.5% 发育为 AR、32.5% 发育为短翅型补充繁殖蚁（BN）；BN 的保幼激素滴度约为 AR 的 1.5 倍，卵黄原蛋白更高、卵母细胞成熟更早，产卵更早且产卵量更大（BN 平均 2.7 粒，AR 1.3 粒）。",
+            "src": [
+              "S0006"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0006",
+        "citation": "Su X. H., Xue W., Liu H., Chen J. L., Zhang X. J., Xing L. X., Liu M. H. The development of adultoid reproductives and brachypterous neotenic reproductives from the last instar nymphs in Reticulitermes labralis (Isoptera: Rhinotermitidae): a comparative study. 2015.",
+        "doi": "10.1093/jisesa/iev130"
+      }
+    ]
+  },
+  "/species/psammotermes-hybostoma/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "品级体系与干旱适应",
+        "paragraphs": [
+          {
+            "text": "根据 Bourguignon 等（2012），沙白蚁 Psammotermes hybostoma 的品级体系基本为线性，与当时归入鼻白蚁科的基部分支相似，但在后期分叉出大型无翅个体；主劳力是大量多能拟工蚁（pseudergates）。",
+            "src": [
+              "S0009"
+            ]
+          },
+          {
+            "text": "这些大型无翅个体不能发育为有翅成虫，却储存大量脂肪并发育为大型兵蚁；它们分叉晚、不承担工蚁劳作，因此不能视为白蚁科和进步类群中的真工蚁，而是不育品级（sterile caste）的一个新例子。",
+            "src": [
+              "S0009"
+            ]
+          },
+          {
+            "text": "该文按当时的分类把 Psammotermes 放在鼻白蚁科；2024 年 Hellemans 等已将其转入沙白蚁科 Psammotermitidae，引用旧文时需注意这一变化。",
+            "src": [
+              "S0009",
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0009",
+        "citation": "Bourguignon T., Šobotník J., Sillam-Dussès D., Jiroš P., Hanus R., Roisin Y., Miura T. Developmental Pathways of Psammotermes hybostoma (Isoptera: Rhinotermitidae): Old Pseudergates Make up a New Sterile Caste. PLoS ONE 7(9): e44527, 2012.",
+        "doi": "10.1371/journal.pone.0044527"
+      },
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/species/stylotermes-faveolus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "跟踪信息素与饲养",
+        "paragraphs": [
+          {
+            "text": "根据 Thakur 等（2023）对杆白蚁属的研究，杆白蚁科仅存杆白蚁属 Stylotermes 一属，约 45 种，分布于印度、孟加拉国、中国（含台湾）、马来西亚；它们生活在活树干内并取食活木质组织，仅分布于南亚。",
+            "src": [
+              "S0013"
+            ]
+          },
+          {
+            "text": "该研究以来自印度的 S. faveolus 和中国台湾的 S. halumicus 为材料，发现工蚁第 5 腹板上的腹板腺（sternal gland）是 trail-following pheromone 的唯一来源，腺体由 I、II、III 型分泌细胞组成；分泌物中的 (Z)-dodec-3-en-1-ol（DOE）能引起工蚁强烈跟踪，行为阈值约 10^-4 ng/cm，S. faveolus 每个腺体约含 0.1 ng DOE。作者认为 DOE 是两种的唯一活性成分，并据此支持从基部分支的复杂醛类信息素向 Kalotermitidae + Neoisoptera 祖先的简单直链醇转变。",
+            "src": [
+              "S0013"
+            ]
+          },
+          {
+            "text": "据摘要，Thakur 等（2024）进一步比较了 S. faveolus 兵蚁和工蚁的额腺、上唇腺和下唇腺结构，并分析 S. faveolus 与 S. halumicus 额腺分泌物的组成。",
+            "src": [
+              "S0011"
+            ]
+          },
+          {
+            "text": "据摘要，Thakur & Mishra（1996）提到杆白蚁属 Stylotermes spp. 等木栖白蚁比土栖种类更容易在实验室饲养，可在 28±1°C、80–90% RH 下用带活巢的被害木段维持。",
+            "src": [
+              "S0012"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0013",
+        "citation": "Thakur H., Agarwal S., Hradecký J., et al. The trail-following communication in Stylotermes spp. (Blattodea, Isoptera, Stylotermitidae). 预印本, 2023.",
+        "doi": "10.21203/rs.3.rs-2770501/v1"
+      },
+      {
+        "id": "S0011",
+        "citation": "Thakur H., Agarwal S., Buček A., et al. Defensive glands in Stylotermitidae (Blattodea, Isoptera). Arthropod Structure & Development 79: 101346, 2024.",
+        "doi": "10.1016/j.asd.2024.101346"
+      },
+      {
+        "id": "S0012",
+        "citation": "Thakur M. L., Mishra S. C. Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82, 1996.",
+        "url": "https://indianjournals.com/article/jer-20-1-013"
+      }
+    ]
+  },
+  "/species/ereymatermes-piquira/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "新种描述与模式产地",
+        "paragraphs": [
+          {
+            "text": "根据 Cancello & Cuezzo（2007），短小无名白蚁 Ereymatermes piquira 由该文描述为新种，模式产地为巴西巴伊亚州 Ilhéus（14.7972°S, 39.073°W），隶属象白蚁亚科（Nasutitermitinae）Ereymatermes 属。",
+            "src": [
+              "S0098"
+            ]
+          },
+          {
+            "text": "该文以兵蚁和工蚁标本描述 E. piquira，并给出兵蚁头壳、象鼻及工蚁上颚的形态图；该属兵蚁头壳卵形、触角基后方略收缩，象鼻长圆柱形、不上翘，上唇很退化，触角 12 节，胫节距 2:2:2；工蚁二型，窄隙型更常见。",
+            "src": [
+              "S0098"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0098",
+        "citation": "Cancello E. M., Cuezzo C. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288, 2007.",
+        "url": "https://revistas.usp.br/paz/article/view/33691"
+      }
+    ]
+  },
+  "/genus/coptotermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "现行科位与兵蚁特征",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2024），Coptotermes 原属鼻白蚁科，现归入异白蚁科 Heterotermitidae；该科由 Heterotermitinae 提升为科，包含 Coptotermes、Heterotermes、Reticulitermes 三属，Coptotermitinae 被处理为异名。",
+            "src": [
+              "S0008"
+            ]
+          },
+          {
+            "text": "Coptotermes 兵蚁头部卵形，囟大而朝前，可渗出乳胶状分泌物；该科分布覆盖大部分温带和热带地区，包含多种房屋与林木害虫。",
+            "src": [
+              "S0008"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0008",
+        "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
   }
 }
