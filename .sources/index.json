@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 363,
+    "count": 427,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-11T02:20:04+08:00",
+    "updated": "2026-11-11T10:02:07+00:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -17478,6 +17478,2638 @@
       "evidence": [],
       "id": "S0364",
       "fulltext_status": "abstract-no-oa"
+    },
+    {
+      "title": "Phylogenetic diversity of the intestinal bacterial community in the termite Reticulitermes speratus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1128/aem.62.2.461-468.1996",
+      "file_path": "_unpublished/文库/10.1128-aem.62.2.461-468.1996",
+      "chars": 1456,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:31:05+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1128-aem.62.2.461-468.1996（1456 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1455 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1128-aem.62.2.461-468.1996",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:31:05",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1128-aem.62.2.461-468.1996/full.txt",
+            "chars": 1456,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1128_aem.62.2.461-468.1996-abstract.txt",
+            "sha256": "eb1d34908b0d8127c178e1ceb644dcea6c92ee88bf6cf070861606185f9deafc",
+            "bytes": 1456
+          }
+        ]
+      },
+      "authors": [
+        "Moriya Ohkuma",
+        "Toshiaki Kudo"
+      ],
+      "year": 1996,
+      "publisher": "Applied and Environmental Microbiology",
+      "lang": "en",
+      "doi": "10.1128/aem.62.2.461-468.1996",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0365"
+    },
+    {
+      "title": "Enemy deterrence in the recruitment strategy of a termite: Soldier-organized foraging in Nasutitermes costalis",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1073/pnas.78.3.1976",
+      "file_path": "_unpublished/文库/10.1073-pnas.78.3.1976",
+      "chars": 684,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:31:38+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1073-pnas.78.3.1976（684 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（683 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1073-pnas.78.3.1976",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:31:38",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1073-pnas.78.3.1976/full.txt",
+            "chars": 684,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1073_pnas.78.3.1976-abstract.txt",
+            "sha256": "9f4a34b3302c1cee3df2f7aaacc4719c2016020bca87f4299cec59bdee9f4fcc",
+            "bytes": 684
+          }
+        ]
+      },
+      "authors": [
+        "James F. A. Traniello"
+      ],
+      "year": 1981,
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "lang": "en",
+      "doi": "10.1073/pnas.78.3.1976",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0366"
+    },
+    {
+      "title": "Soldier caste-specific gene expression in the mandibular glands of Hodotermopsis japonica (Isoptera: Termopsidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1073/pnas.96.24.13874",
+      "file_path": "_unpublished/文库/10.1073-pnas.96.24.13874",
+      "chars": 1479,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:32:22+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1073-pnas.96.24.13874（1479 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1478 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1073-pnas.96.24.13874",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:32:22",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1073-pnas.96.24.13874/full.txt",
+            "chars": 1479,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1073_pnas.96.24.13874-abstract.txt",
+            "sha256": "e39a3817f51abfd88fe0a583447081b8677cc0283ce88c292bac4400d15a9807",
+            "bytes": 1479
+          }
+        ]
+      },
+      "authors": [
+        "Toru Miura",
+        "Azusa Kamikouchi",
+        "Miyuki Sawata",
+        "Hideaki Takeuchi",
+        "Syunji Natori",
+        "Takeo Kubo",
+        "Tadao Matsumoto"
+      ],
+      "year": 1999,
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "lang": "en",
+      "doi": "10.1073/pnas.96.24.13874",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0367"
+    },
+    {
+      "title": "Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes , Heterotermes and Coptotermes",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1098/rspb.2016.0179",
+      "file_path": "_unpublished/文库/10.1098-rspb.2016.0179",
+      "chars": 1326,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:33:18+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1098-rspb.2016.0179（1326 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1325 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1098-rspb.2016.0179",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:33:18",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1098-rspb.2016.0179/full.txt",
+            "chars": 1326,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1098_rspb.2016.0179-abstract.txt",
+            "sha256": "a0302542b85a328a0ee329b690483d56f1194c7e79437b69900acc3864418643",
+            "bytes": 1326
+          }
+        ]
+      },
+      "authors": [
+        "Thomas Bourguignon",
+        "Nathan C. Lo",
+        "Jan Šobotník",
+        "David Sillam‐Dussès",
+        "Yves Roisin",
+        "Theodore A. Evans"
+      ],
+      "year": 2016,
+      "publisher": "Proceedings of the Royal Society B Biological Sciences",
+      "lang": "en",
+      "doi": "10.1098/rspb.2016.0179",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0368"
+    },
+    {
+      "title": "POPULATION AND COLONY GENETIC STRUCTURE OF THE PRIMITIVE TERMITE MASTOTERMES DARWINIENSIS",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.0014-3820.2002.tb00850.x",
+      "file_path": "_unpublished/文库/10.1111-j.0014-3820.2002.tb00850.x",
+      "chars": 1633,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:33:33+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.0014-3820.2002.tb00850.x（1633 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1632 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.0014-3820.2002.tb00850.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:33:33",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.0014-3820.2002.tb00850.x/full.txt",
+            "chars": 1633,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.0014-3820.2002.tb00850.x-abstract.txt",
+            "sha256": "8800581cac1e801c1e42e4d40291871bc8257e6ae48a7f60c4b62042aa24dad7",
+            "bytes": 1633
+          }
+        ]
+      },
+      "authors": [
+        "Michael A. D. Goodisman",
+        "Ross H. Crozier"
+      ],
+      "year": 2002,
+      "publisher": "Evolution",
+      "lang": "en",
+      "doi": "10.1111/j.0014-3820.2002.tb00850.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0369"
+    },
+    {
+      "title": "The origins and relatedness of multiple reproductives in colonies of the termite Nasutitermes corniger",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1098/rspb.1997.0156",
+      "file_path": "_unpublished/文库/10.1098-rspb.1997.0156",
+      "chars": 1430,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:34:12+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1098-rspb.1997.0156（1430 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1429 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1098-rspb.1997.0156",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:34:12",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1098-rspb.1997.0156/full.txt",
+            "chars": 1430,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1098_rspb.1997.0156-abstract.txt",
+            "sha256": "9d14752d5230b4f7485c1fc719b6d90492fee72cb2bd54d859d58beb9fd5da40",
+            "bytes": 1444
+          }
+        ]
+      },
+      "authors": [
+        "Lynn Atkinson",
+        "Eldridge S. Adams"
+      ],
+      "year": 1997,
+      "publisher": "Proceedings of the Royal Society B Biological Sciences",
+      "lang": "en",
+      "doi": "10.1098/rspb.1997.0156",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0370"
+    },
+    {
+      "title": "Solution structure of termicin, an antimicrobial peptide from the termite Pseudacanthotermes spiniger",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1110/ps.0228303",
+      "file_path": "_unpublished/文库/10.1110-ps.0228303",
+      "chars": 1176,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:34:45+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1110-ps.0228303（1176 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1175 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1110-ps.0228303",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:34:45",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1110-ps.0228303/full.txt",
+            "chars": 1176,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1110_ps.0228303-abstract.txt",
+            "sha256": "8f145970fd42db7ed1998c777cd77afbc5cef03f267fd864851d2b73686cb6c7",
+            "bytes": 1176
+          }
+        ]
+      },
+      "authors": [
+        "Pedro Da Silva",
+        "Laurence Jouvensal",
+        "Mireille Lamberty",
+        "Philippe Bulet",
+        "Anita Caille",
+        "Françoise Vovelle"
+      ],
+      "year": 2003,
+      "publisher": "Protein Science",
+      "lang": "en",
+      "doi": "10.1110/ps.0228303",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0371"
+    },
+    {
+      "title": "Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1603/008.102.0413",
+      "file_path": "_unpublished/文库/10.1603-008.102.0413",
+      "chars": 1016,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:34:51+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1603-008.102.0413（1016 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1015 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1603-008.102.0413",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:34:51",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1603-008.102.0413/full.txt",
+            "chars": 1016,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1603_008.102.0413-abstract.txt",
+            "sha256": "a0908249988d08601fb48a18ce731ca65ce21b77f1d4840884b4501d0e374876",
+            "bytes": 1018
+          }
+        ]
+      },
+      "authors": [
+        "Hou‐Feng Li",
+        "Weimin Ye",
+        "Nan‐Yao Su",
+        "Natsumi Kanzaki"
+      ],
+      "year": 2009,
+      "publisher": "Annals of the Entomological Society of America",
+      "lang": "en",
+      "doi": "10.1603/008.102.0413",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0372"
+    },
+    {
+      "title": "Spirochete and protist symbionts of a termite ( Mastotermes electrodominicus ) in Miocene amber",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1073/pnas.022643899",
+      "file_path": "_unpublished/文库/10.1073-pnas.022643899",
+      "chars": 826,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:35:22+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1073-pnas.022643899（826 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（825 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1073-pnas.022643899",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:35:22",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1073-pnas.022643899/full.txt",
+            "chars": 826,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1073_pnas.022643899-abstract.txt",
+            "sha256": "bed142ece76ebf584afb84a2a93291413205cb11046875be23cdbeee5d842552",
+            "bytes": 826
+          }
+        ]
+      },
+      "authors": [
+        "Andrew M. Wier",
+        "Michael F. Dolan",
+        "David A. Grimaldi",
+        "Ricardo Guerrero",
+        "Jorge Wagensberg",
+        "Lynn Margulis"
+      ],
+      "year": 2002,
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "lang": "en",
+      "doi": "10.1073/pnas.022643899",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0373"
+    },
+    {
+      "title": "Disease risk as a cost of outbreeding in the termite Zootermopsis angusticollis.",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1073/pnas.90.14.6641",
+      "file_path": "_unpublished/文库/10.1073-pnas.90.14.6641",
+      "chars": 1006,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:36:15+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1073-pnas.90.14.6641（1006 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1005 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1073-pnas.90.14.6641",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:36:15",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1073-pnas.90.14.6641/full.txt",
+            "chars": 1006,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1073_pnas.90.14.6641-abstract.txt",
+            "sha256": "3de4ea0d89a822f1ff888522386e936ba312614e12190c3477007a1c82a45d11",
+            "bytes": 1006
+          }
+        ]
+      },
+      "authors": [
+        "Rebeca B. Rosengaus",
+        "James F. A. Traniello"
+      ],
+      "year": 1993,
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "lang": "en",
+      "doi": "10.1073/pnas.90.14.6641",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0374"
+    },
+    {
+      "title": "Asexual queen succession in the higher termite Embiratermes neotenicus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1098/rspb.2015.0260",
+      "file_path": "_unpublished/文库/10.1098-rspb.2015.0260",
+      "chars": 1420,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:39:07+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1098-rspb.2015.0260（1420 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1419 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1098-rspb.2015.0260",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:39:07",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1098-rspb.2015.0260/full.txt",
+            "chars": 1420,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1098_rspb.2015.0260-abstract.txt",
+            "sha256": "1e4c954ccef1f1b4446501575d63ad8a4c6bd7011833ca5bb7ea1a23b09fc320",
+            "bytes": 1420
+          }
+        ]
+      },
+      "authors": [
+        "Romain Fougeyrollas",
+        "Klára Dolejšová",
+        "David Sillam‐Dussès",
+        "Virginie Roy",
+        "Chantal Poteaux",
+        "Robert Hanus",
+        "Yves Roisin"
+      ],
+      "year": 2015,
+      "publisher": "Proceedings of the Royal Society B Biological Sciences",
+      "lang": "en",
+      "doi": "10.1098/rspb.2015.0260",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0375"
+    },
+    {
+      "title": "Nest-mate recognition based on heritable odors in the termite Microcerotermes arboreus.",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1073/pnas.88.5.2031",
+      "file_path": "_unpublished/文库/10.1073-pnas.88.5.2031",
+      "chars": 695,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:40:00+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1073-pnas.88.5.2031（695 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（694 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1073-pnas.88.5.2031",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:40:00",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1073-pnas.88.5.2031/full.txt",
+            "chars": 695,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1073_pnas.88.5.2031-abstract.txt",
+            "sha256": "eedcdbc948ad80f910ef2b0ab7788b2c2609cd20ec5e33d9a786ab58796928e7",
+            "bytes": 695
+          }
+        ]
+      },
+      "authors": [
+        "Eldridge S. Adams"
+      ],
+      "year": 1991,
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "lang": "en",
+      "doi": "10.1073/pnas.88.5.2031",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0376"
+    },
+    {
+      "title": "Self-organized biotectonics of termite nests",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1073/pnas.2006985118",
+      "file_path": "_unpublished/文库/10.1073-pnas.2006985118",
+      "chars": 786,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:40:46+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1073-pnas.2006985118（786 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（785 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1073-pnas.2006985118",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:40:46",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1073-pnas.2006985118/full.txt",
+            "chars": 786,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1073_pnas.2006985118-abstract.txt",
+            "sha256": "466b4e523714722ae08a1ff3bb64ac3bb03bac81924f0a55cf3be9a750270624",
+            "bytes": 786
+          }
+        ]
+      },
+      "authors": [
+        "Alexander Heyde",
+        "Lijie Guo",
+        "Christian Jost",
+        "Guy Theraulaz A",
+        "L. Mahadevan"
+      ],
+      "year": 2021,
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "lang": "en",
+      "doi": "10.1073/pnas.2006985118",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0377"
+    },
+    {
+      "title": "Nitrate reduction, nitrous oxide formation, and anaerobic ammonia oxidation to nitrite in the gut of soil‐feeding termites ( Cubitermes and Ophiotermes spp.)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1462-2920.2011.02648.x",
+      "file_path": "_unpublished/文库/10.1111-j.1462-2920.2011.02648.x",
+      "chars": 1719,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:40:48+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1462-2920.2011.02648.x（1719 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1718 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1462-2920.2011.02648.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:40:48",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1462-2920.2011.02648.x/full.txt",
+            "chars": 1719,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1462-2920.2011.02648.x-abstract.txt",
+            "sha256": "bd5acc8ba094063e4f3431c09b2971e88cc56e1bf19066a9a771cc399f16c52c",
+            "bytes": 1719
+          }
+        ]
+      },
+      "authors": [
+        "David Kamanda Ngugi",
+        "Andreas Brune"
+      ],
+      "year": 2011,
+      "publisher": "Environmental Microbiology",
+      "lang": "en",
+      "doi": "10.1111/j.1462-2920.2011.02648.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0378"
+    },
+    {
+      "title": "Facultative asexual reproduction and genetic diversity of populations in the humivorous termite Cavitermes tuberosus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1098/rspb.2016.0196",
+      "file_path": "_unpublished/文库/10.1098-rspb.2016.0196",
+      "chars": 1395,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:41:46+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1098-rspb.2016.0196（1395 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1394 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1098-rspb.2016.0196",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:41:46",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1098-rspb.2016.0196/full.txt",
+            "chars": 1395,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1098_rspb.2016.0196-abstract.txt",
+            "sha256": "0f14a6fa28d635af52e31cf4869075798c60d219d007ac7207991e4849d847fc",
+            "bytes": 1395
+          }
+        ]
+      },
+      "authors": [
+        "Denis Fournier",
+        "Simon Hellemans",
+        "Robert Hanus",
+        "Yves Roisin"
+      ],
+      "year": 2016,
+      "publisher": "Proceedings of the Royal Society B Biological Sciences",
+      "lang": "en",
+      "doi": "10.1098/rspb.2016.0196",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0379"
+    },
+    {
+      "title": "Developmental Pathways and Polyethism of Neuter Castes in the Processional Nasute Termite Hospitalitermes medioflavus (Isoptera: Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.2108/zsj.15.843",
+      "file_path": "_unpublished/文库/10.2108-zsj.15.843",
+      "chars": 1343,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:42:04+08:00",
+      "notes": "全文存于 _unpublished/文库/10.2108-zsj.15.843（1343 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1342 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.2108-zsj.15.843",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:42:04",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.2108-zsj.15.843/full.txt",
+            "chars": 1343,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.2108_zsj.15.843-abstract.txt",
+            "sha256": "8cc889a0002493a09967a5d2fd445dc5c3e4e82141ee1c93cb4ea5d53e0bd4bd",
+            "bytes": 1343
+          }
+        ]
+      },
+      "authors": [
+        "Toru Miura",
+        "Yves Roisin",
+        "Tadao Matsumoto"
+      ],
+      "year": 1998,
+      "publisher": "ZOOLOGICAL SCIENCE",
+      "lang": "en",
+      "doi": "10.2108/zsj.15.843",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0380"
+    },
+    {
+      "title": "Structure and function of defensive glands in soldiers of Glossotermes oculatus (Isoptera: Serritermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1095-8312.2010.01392.x",
+      "file_path": "_unpublished/文库/10.1111-j.1095-8312.2010.01392.x",
+      "chars": 1079,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:42:07+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1095-8312.2010.01392.x（1079 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1078 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1095-8312.2010.01392.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:42:07",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1095-8312.2010.01392.x/full.txt",
+            "chars": 1079,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1095-8312.2010.01392.x-abstract.txt",
+            "sha256": "6af048bde7cc22b2134ab09b183e7a46b0d906ac4113ff2704a38591e14625e0",
+            "bytes": 1079
+          }
+        ]
+      },
+      "authors": [
+        "Jan Šobotník",
+        "Thomas Bourguignon",
+        "Robert Hanus",
+        "Frantíšek Weyda",
+        "Yves Roisin"
+      ],
+      "year": 2010,
+      "publisher": "Biological Journal of the Linnean Society",
+      "lang": "en",
+      "doi": "10.1111/j.1095-8312.2010.01392.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0381"
+    },
+    {
+      "title": "Diverse Rhinotermitidae and Termitidae (Isoptera) in Dominican Amber",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1206/633.1",
+      "file_path": "_unpublished/文库/10.1206-633.1",
+      "chars": 1404,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:42:09+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1206-633.1（1404 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1403 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1206-633.1",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:42:09",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1206-633.1/full.txt",
+            "chars": 1404,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1206_633.1-abstract.txt",
+            "sha256": "e1c6170224126c93715776e3a2416cf24a5983ff8d30e010d0ce4a335678c2a2",
+            "bytes": 1410
+          }
+        ]
+      },
+      "authors": [
+        "Kumar Krishna",
+        "David A. Grimaldi"
+      ],
+      "year": 2009,
+      "publisher": "American Museum Novitates",
+      "lang": "en",
+      "doi": "10.1206/633.1",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0382"
+    },
+    {
+      "title": "Caste morphology and development intermitogetonnr.planus(insecta, isoptera, rhinotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1002/jmor.10047",
+      "file_path": "_unpublished/文库/10.1002-jmor.10047",
+      "chars": 1829,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:42:12+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1002-jmor.10047（1829 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1828 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1002-jmor.10047",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:42:12",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1002-jmor.10047/full.txt",
+            "chars": 1829,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1002_jmor.10047-abstract.txt",
+            "sha256": "756d06f6480c1a262adc209affcafa9111c1f2fc4aa6793ca237ae7320768b74",
+            "bytes": 1829
+          }
+        ]
+      },
+      "authors": [
+        "Dominique Parmentier",
+        "Yves Roisin"
+      ],
+      "year": 2002,
+      "publisher": "Journal of Morphology",
+      "lang": "en",
+      "doi": "10.1002/jmor.10047",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0383"
+    },
+    {
+      "title": "Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from the neotropical region",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0101-81751986000400003",
+      "file_path": "_unpublished/文库/10.1590-s0101-81751986000400003",
+      "chars": 938,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:42:13+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0101-81751986000400003（938 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（937 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0101-81751986000400003",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:42:13",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0101-81751986000400003/full.txt",
+            "chars": 938,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0101-81751986000400003-abstract.txt",
+            "sha256": "fc4f34e0b83464a749c1ad7d1f1b418928feb261406f12cbb08cb9188876b6dd",
+            "bytes": 938
+          }
+        ]
+      },
+      "authors": [
+        "Luiz Roberto Fontes"
+      ],
+      "year": 1986,
+      "publisher": "Revista Brasileira de Zoologia",
+      "lang": "en",
+      "doi": "10.1590/s0101-81751986000400003",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0384"
+    },
+    {
+      "title": "Formyltetrahydrofolate Synthetase Gene Diversity in the Guts of Higher Termites with Different Diets and Lifestyles",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1128/aem.02657-10",
+      "file_path": "_unpublished/文库/10.1128-aem.02657-10",
+      "chars": 1699,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:42:52+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1128-aem.02657-10（1699 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1698 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1128-aem.02657-10",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:42:52",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1128-aem.02657-10/full.txt",
+            "chars": 1699,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1128_aem.02657-10-abstract.txt",
+            "sha256": "a69d79dd19d7c5073c8908f989e51f245afa3447086c697989dcb3d04691fb6a",
+            "bytes": 1699
+          }
+        ]
+      },
+      "authors": [
+        "Elizabeth A. Ottesen",
+        "Jared Renton Leadbetter"
+      ],
+      "year": 2011,
+      "publisher": "Applied and Environmental Microbiology",
+      "lang": "en",
+      "doi": "10.1128/aem.02657-10",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0385"
+    },
+    {
+      "title": "Termites in sugar cane in Northeast Brazil: ecological aspects and pest status",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s1519-566x2004000200015",
+      "file_path": "_unpublished/文库/10.1590-s1519-566x2004000200015",
+      "chars": 1076,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:43:03+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s1519-566x2004000200015（1076 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1075 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s1519-566x2004000200015",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:43:03",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s1519-566x2004000200015/full.txt",
+            "chars": 1076,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s1519-566x2004000200015-abstract.txt",
+            "sha256": "4d7b0363b9b4fc972c94ba98fa77b2ff81432c58c4c5bfcf56f069ef57032250",
+            "bytes": 1077
+          }
+        ]
+      },
+      "authors": [
+        "Carmélia S. Miranda",
+        "Alexandre Vasconcellos",
+        "Adelmar Gomes Bandeira"
+      ],
+      "year": 2004,
+      "publisher": "Neotropical Entomology",
+      "lang": "en",
+      "doi": "10.1590/s1519-566x2004000200015",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0386"
+    },
+    {
+      "title": "New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0101-81751985000100002",
+      "file_path": "_unpublished/文库/10.1590-s0101-81751985000100002",
+      "chars": 1872,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:43:38+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0101-81751985000100002（1872 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1871 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0101-81751985000100002",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:43:38",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0101-81751985000100002/full.txt",
+            "chars": 1872,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0101-81751985000100002-abstract.txt",
+            "sha256": "80abb6722902ebfc4e567a1b46aa13773add9008675058d3f4989ab4921b5ea7",
+            "bytes": 1872
+          }
+        ]
+      },
+      "authors": [
+        "Luiz Roberto Fontes"
+      ],
+      "year": 1985,
+      "publisher": "Revista Brasileira de Zoologia",
+      "lang": "en",
+      "doi": "10.1590/s0101-81751985000100002",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0387"
+    },
+    {
+      "title": "Developmental pathways of Glossotermes oculatus (Isoptera, Serritermitidae): at the cross‐roads of worker caste evolution in termites",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1525-142x.2009.00373.x",
+      "file_path": "_unpublished/文库/10.1111-j.1525-142x.2009.00373.x",
+      "chars": 1351,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:43:41+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1525-142x.2009.00373.x（1351 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1350 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1525-142x.2009.00373.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:43:41",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1525-142x.2009.00373.x/full.txt",
+            "chars": 1351,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1525-142x.2009.00373.x-abstract.txt",
+            "sha256": "27f7c4c3374434845b9cbc65f7ddebd3ef72baf753af11ea93a4742f5f34ccc9",
+            "bytes": 1351
+          }
+        ]
+      },
+      "authors": [
+        "Thomas Bourguignon",
+        "Jan Šobotník",
+        "Robert Hanus",
+        "Yves Roisin"
+      ],
+      "year": 2009,
+      "publisher": "Evolution & Development",
+      "lang": "en",
+      "doi": "10.1111/j.1525-142x.2009.00373.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0388"
+    },
+    {
+      "title": "Isolation of facultatively aerobic actinomycetes from the gut, parent soil and mound materials of the termites Procubitermes aburiensis and Cubitermes severus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1574-6941.1991.tb01719.x",
+      "file_path": "_unpublished/文库/10.1111-j.1574-6941.1991.tb01719.x",
+      "chars": 161,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:44:05+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1574-6941.1991.tb01719.x（161 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（160 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1574-6941.1991.tb01719.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:44:05",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1574-6941.1991.tb01719.x/full.txt",
+            "chars": 161,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1574-6941.1991.tb01719.x-abstract.txt",
+            "sha256": "5f1d3e2d1acc4b60abb984b9c4a561863566f4ea564ae9a4684bc180ff3860bd",
+            "bytes": 161
+          }
+        ]
+      },
+      "authors": [
+        "David E. Bignell",
+        "J. M. Anderson",
+        "R. Crosse"
+      ],
+      "year": 1991,
+      "publisher": "FEMS Microbiology Ecology",
+      "lang": "en",
+      "doi": "10.1111/j.1574-6941.1991.tb01719.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0389"
+    },
+    {
+      "title": "Overview And Current Status of Non-Native Termites (Isoptera) in Florida§",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1653/024.096.0311",
+      "file_path": "_unpublished/文库/10.1653-024.096.0311",
+      "chars": 918,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:44:08+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1653-024.096.0311（918 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（917 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1653-024.096.0311",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:44:08",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1653-024.096.0311/full.txt",
+            "chars": 918,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1653_024.096.0311-abstract.txt",
+            "sha256": "047758336edade1ff1b5f831306dfb35b51186f6df0cefa9102691b801a9683f",
+            "bytes": 918
+          }
+        ]
+      },
+      "authors": [
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 2013,
+      "publisher": "Florida Entomologist",
+      "lang": "en",
+      "doi": "10.1653/024.096.0311",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0390"
+    },
+    {
+      "title": "Ant and termite mound coinhabitants in the wetlands of Santo Antonio da Patrulha, Rio Grande do Sul, Brazil",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s1519-69842005000300008",
+      "file_path": "_unpublished/文库/10.1590-s1519-69842005000300008",
+      "chars": 831,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:44:26+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s1519-69842005000300008（831 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（830 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s1519-69842005000300008",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:44:26",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s1519-69842005000300008/full.txt",
+            "chars": 831,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s1519-69842005000300008-abstract.txt",
+            "sha256": "cde29d36636f2745ce3308f35d1e3a76b8ce24b0eb1ff7b4164baab215b9077f",
+            "bytes": 831
+          }
+        ]
+      },
+      "authors": [
+        "Elena Diehl",
+        "Luciane Kern Junqueira",
+        "Evôneo Berti-Filho"
+      ],
+      "year": 2005,
+      "publisher": "Brazilian Journal of Biology",
+      "lang": "en",
+      "doi": "10.1590/s1519-69842005000300008",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0391"
+    },
+    {
+      "title": "Evaluation of the toxicity and repellency of tropical plant extract against subterranean termites, Globitermes sulphureus and Coptotermes gestroi",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1016/j.inpa.2018.03.004",
+      "file_path": "_unpublished/文库/10.1016-j.inpa.2018.03.004",
+      "chars": 1145,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:46:59+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1016-j.inpa.2018.03.004（1145 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1144 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1016-j.inpa.2018.03.004",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:46:59",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1016-j.inpa.2018.03.004/full.txt",
+            "chars": 1145,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1016_j.inpa.2018.03.004-abstract.txt",
+            "sha256": "0c7c75bc28111c0edf19974b3b401e54b5ff18ad1b7c041f06734ff7132ca902",
+            "bytes": 1145
+          }
+        ]
+      },
+      "authors": [
+        "Noor Hazwani Bakaruddin",
+        "Hamady Dieng",
+        "Shaida Fariza Sulaiman",
+        "Abdul Hafiz Ab Majid"
+      ],
+      "year": 2018,
+      "publisher": "Information Processing in Agriculture",
+      "lang": "en",
+      "doi": "10.1016/j.inpa.2018.03.004",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0392"
+    },
+    {
+      "title": "Molecular phylogeny and historical biogeography of Apicotermitinae (Blattodea: Termitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/syen.12486",
+      "file_path": "_unpublished/文库/10.1111-syen.12486",
+      "chars": 1871,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:47:14+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-syen.12486（1871 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1870 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-syen.12486",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:47:14",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-syen.12486/full.txt",
+            "chars": 1871,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_syen.12486-abstract.txt",
+            "sha256": "85b035d7ee9295a54e6886b909c09d76759ba1302e0311e86b06f482fe836f77",
+            "bytes": 1889
+          }
+        ]
+      },
+      "authors": [
+        "Johanna Romero Arias",
+        "Arthur F. Boom",
+        "Menglin Wang",
+        "Crystal Clitheroe",
+        "Jan Šobotník",
+        "Petr Stiblík",
+        "Thomas Bourguignon",
+        "Yves Roisin"
+      ],
+      "year": 2021,
+      "publisher": "Systematic Entomology",
+      "lang": "en",
+      "doi": "10.1111/syen.12486",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0393"
+    },
+    {
+      "title": "Genetic variability of the soil‐feeding termite Labiotermes labralis (Termitidae, Nasutitermitinae) in the Amazonian primary forest and remnant patches",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1752-4598.2008.00040.x",
+      "file_path": "_unpublished/文库/10.1111-j.1752-4598.2008.00040.x",
+      "chars": 1645,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:47:50+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1752-4598.2008.00040.x（1645 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1644 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1752-4598.2008.00040.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:47:50",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1752-4598.2008.00040.x/full.txt",
+            "chars": 1645,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1752-4598.2008.00040.x-abstract.txt",
+            "sha256": "ba5899c646e593c6131e5135b184daf206ca0bdb00b545ac4d0c84873efa47fe",
+            "bytes": 1653
+          }
+        ]
+      },
+      "authors": [
+        "Lise Dupont",
+        "Virginie Roy",
+        "ASMAE BAKKALI",
+        "Myriam Harry"
+      ],
+      "year": 2008,
+      "publisher": "Insect Conservation and Diversity",
+      "lang": "en",
+      "doi": "10.1111/j.1752-4598.2008.00040.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0394"
+    },
+    {
+      "title": "Colonizing Flights and Associated Activities of Termites. I. TheDesert Damp‐Wood Termite Paraneotermes Simplicicornis(Kalotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1155/1966/59080",
+      "file_path": "_unpublished/文库/10.1155-1966-59080",
+      "chars": 521,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:48:19+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1966-59080（521 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（520 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1155-1966-59080",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:48:19",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1155-1966-59080/full.txt",
+            "chars": 521,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1155_1966_59080-abstract.txt",
+            "sha256": "96160d14753edba47e4e0ea85a080af89b55769716686eaa632c0a721de61082",
+            "bytes": 521
+          }
+        ]
+      },
+      "authors": [
+        "W. L. Nutting"
+      ],
+      "year": 1966,
+      "publisher": "Psyche A Journal of Entomology",
+      "lang": "en",
+      "doi": "10.1155/1966/59080",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0395"
+    },
+    {
+      "title": "Evaluation of chemical control measures for termites in maize",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1080/02571862.2003.10634896",
+      "file_path": "_unpublished/文库/10.1080-02571862.2003.10634896",
+      "chars": 1719,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:48:36+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1080-02571862.2003.10634896（1719 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1718 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1080-02571862.2003.10634896",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:48:36",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1080-02571862.2003.10634896/full.txt",
+            "chars": 1719,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1080_02571862.2003.10634896-abstract.txt",
+            "sha256": "2fc12ab43c2574ea936c776b33095a53302535812667c36e206668673ee041bd",
+            "bytes": 1719
+          }
+        ]
+      },
+      "authors": [
+        "H.F. Riekert",
+        "Johnnie Van den Berg"
+      ],
+      "year": 2003,
+      "publisher": "South African Journal of Plant and Soil",
+      "lang": "en",
+      "doi": "10.1080/02571862.2003.10634896",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0396"
+    },
+    {
+      "title": "Queen replacement in the termite Microcerotermes papuanus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1570-7458.1990.tb01383.x",
+      "file_path": "_unpublished/文库/10.1111-j.1570-7458.1990.tb01383.x",
+      "chars": 1662,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:48:59+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1570-7458.1990.tb01383.x（1662 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1661 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1570-7458.1990.tb01383.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:48:59",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1570-7458.1990.tb01383.x/full.txt",
+            "chars": 1662,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1570-7458.1990.tb01383.x-abstract.txt",
+            "sha256": "ff51fe4ebf4b6c6bb1e00ec2f982b511f49495f48099154c3f1429110d90cf40",
+            "bytes": 1695
+          }
+        ]
+      },
+      "authors": [
+        "Yves Roisin"
+      ],
+      "year": 1990,
+      "publisher": "Entomologia Experimentalis et Applicata",
+      "lang": "en",
+      "doi": "10.1111/j.1570-7458.1990.tb01383.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0397"
+    },
+    {
+      "title": "Morphology of the worker digestive tube of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae ) from the neotropical region",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0101-81751986000400002",
+      "file_path": "_unpublished/文库/10.1590-s0101-81751986000400002",
+      "chars": 926,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:49:02+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0101-81751986000400002（926 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（925 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0101-81751986000400002",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:49:02",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0101-81751986000400002/full.txt",
+            "chars": 926,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0101-81751986000400002-abstract.txt",
+            "sha256": "3c6fc6337322ff21577301dee4e70e9837aa73deba87ef532174b8eb974f28cb",
+            "bytes": 926
+          }
+        ]
+      },
+      "authors": [
+        "Luiz Roberto Fontes"
+      ],
+      "year": 1986,
+      "publisher": "Revista Brasileira de Zoologia",
+      "lang": "en",
+      "doi": "10.1590/s0101-81751986000400002",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0398"
+    },
+    {
+      "title": "ANTS (HYMENOPTERA: FORMICIDAE) IN MOUNDS OF AMITERMES LAURENSIS (ISOPTERA: TERMITIDAE)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1440-6055.1979.tb00866.x",
+      "file_path": "_unpublished/文库/10.1111-j.1440-6055.1979.tb00866.x",
+      "chars": 898,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:49:03+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1440-6055.1979.tb00866.x（898 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（897 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1440-6055.1979.tb00866.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:49:03",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1440-6055.1979.tb00866.x/full.txt",
+            "chars": 898,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1440-6055.1979.tb00866.x-abstract.txt",
+            "sha256": "46d7bcb7c2eaa32d45968b75cf2aa93d32d255e35908d80082c8e10fc50d221b",
+            "bytes": 900
+          }
+        ]
+      },
+      "authors": [
+        "J. A. Holt",
+        "P. J. M. Greenslade"
+      ],
+      "year": 1980,
+      "publisher": "Australian Journal of Entomology",
+      "lang": "en",
+      "doi": "10.1111/j.1440-6055.1979.tb00866.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0399"
+    },
+    {
+      "title": "Distribution and Biology of the Primitive Dry‐Wood TermitePterotermes Occidentis (Walker) (Kalotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1155/1966/20139",
+      "file_path": "_unpublished/文库/10.1155-1966-20139",
+      "chars": 1180,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:49:08+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1155-1966-20139（1180 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1179 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1155-1966-20139",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:49:08",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1155-1966-20139/full.txt",
+            "chars": 1180,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1155_1966_20139-abstract.txt",
+            "sha256": "bc0c487bb73390a02a4e3a484a7df09c266e4783045a3aeb6602aec593d8cdda",
+            "bytes": 1180
+          }
+        ]
+      },
+      "authors": [
+        "W. L. Nutting"
+      ],
+      "year": 1966,
+      "publisher": "Psyche A Journal of Entomology",
+      "lang": "ceb",
+      "doi": "10.1155/1966/20139",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0400"
+    },
+    {
+      "title": "Bacteriome-associatedWolbachiaof the parthenogenetic termiteCavitermes tuberosus",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1093/femsec/fiy235",
+      "file_path": "_unpublished/文库/10.1093-femsec-fiy235",
+      "chars": 1402,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:49:54+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1093-femsec-fiy235（1402 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1401 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1093-femsec-fiy235",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:49:54",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1093-femsec-fiy235/full.txt",
+            "chars": 1402,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1093_femsec_fiy235-abstract.txt",
+            "sha256": "228cc3b2c3597bd37b2cb0c2d90b6106d5b68fc7fe1175ea40c70a5fdf24b7ee",
+            "bytes": 1403
+          }
+        ]
+      },
+      "authors": [
+        "Simon Hellemans",
+        "Nicolas Kaczmarek",
+        "Martyna Marynowska",
+        "Magdalena Całusińska",
+        "Yves Roisin",
+        "Denis Fournier"
+      ],
+      "year": 2018,
+      "publisher": "FEMS Microbiology Ecology",
+      "lang": "en",
+      "doi": "10.1093/femsec/fiy235",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0401"
+    },
+    {
+      "title": "Biodiversity of Termite (Insecta: Isoptera) in Tropical Peat Land Cultivated with Oil Palms",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.3923/pjbs.2012.108.120",
+      "file_path": "_unpublished/文库/10.3923-pjbs.2012.108.120",
+      "chars": 1710,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:50:14+08:00",
+      "notes": "全文存于 _unpublished/文库/10.3923-pjbs.2012.108.120（1710 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1709 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.3923-pjbs.2012.108.120",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:50:14",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.3923-pjbs.2012.108.120/full.txt",
+            "chars": 1710,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.3923_pjbs.2012.108.120-abstract.txt",
+            "sha256": "fe28d2df7c43f10d01bc684ac456c64557df913428dc8fb93f2c8cc3385c7264",
+            "bytes": 1710
+          }
+        ]
+      },
+      "authors": [
+        "Thian-Woei Kon",
+        "Joseph Choon Fah Bong",
+        "Jie-Hung P. King",
+        "Chan-Teck S. Leong"
+      ],
+      "year": 2012,
+      "publisher": "Pakistan Journal of Biological Sciences",
+      "lang": "en",
+      "doi": "10.3923/pjbs.2012.108.120",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0402"
+    },
+    {
+      "title": "FIRST RECORD OF RETICULITERMES FLAVIPES AND RETICULITERMES HAGENI IN OREGON (ISOPTERA: RHINOTERMITIDAE)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2",
+      "file_path": "_unpublished/文库/10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2",
+      "chars": 3351,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:50:24+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2（3351 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（3350 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:50:24",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2/full.txt",
+            "chars": 3351,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1653_0015-4040(2006)89[541_frorfa]2.0.co;2-abstract.txt",
+            "sha256": "2385ee900ec0eeed3b71ef83d280d775444f67ac87c461b088d0178ee7ef37f2",
+            "bytes": 3351
+          }
+        ]
+      },
+      "authors": [
+        "Jackie A. McKern",
+        "Allen L. Szalanski",
+        "James W. Austin"
+      ],
+      "year": 2006,
+      "publisher": "Florida Entomologist",
+      "lang": "en",
+      "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0403"
+    },
+    {
+      "title": "Secretion of Salivary Glands of the Brazilian Termite Serritermes Serrifer Hagen & Bates (Isoptera: Serritermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1080/21686351.1997.12279175",
+      "file_path": "_unpublished/文库/10.1080-21686351.1997.12279175",
+      "chars": 1283,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:50:48+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1080-21686351.1997.12279175（1283 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1282 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1080-21686351.1997.12279175",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:50:48",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1080-21686351.1997.12279175/full.txt",
+            "chars": 1283,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1080_21686351.1997.12279175-abstract.txt",
+            "sha256": "d12c40ba63435197dc30ea2f291d870aedcf52649042912e5713bb52c5120c25",
+            "bytes": 1316
+          }
+        ]
+      },
+      "authors": [
+        "Ana Maria Costa–Leonardo"
+      ],
+      "year": 1997,
+      "publisher": "Annales de la Société entomologique de France (N S )",
+      "lang": "fr",
+      "doi": "10.1080/21686351.1997.12279175",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0404"
+    },
+    {
+      "title": "Molecular characterization and phylogeny of four new species of the genus Trichonympha (Parabasalia, Trichonymphea) from lower termite hindguts",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1099/ijsem.0.002169",
+      "file_path": "_unpublished/文库/10.1099-ijsem.0.002169",
+      "chars": 1504,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:50:50+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1099-ijsem.0.002169（1504 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1503 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1099-ijsem.0.002169",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:50:50",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1099-ijsem.0.002169/full.txt",
+            "chars": 1504,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1099_ijsem.0.002169-abstract.txt",
+            "sha256": "c1a30278b83b511041858bb2d38fdca6b883b6b42c448675a8e4d260bb649125",
+            "bytes": 1504
+          }
+        ]
+      },
+      "authors": [
+        "Vittorio Boscaro",
+        "Erick R. James",
+        "Rebecca Fiorito",
+        "Elisabeth Hehenberger",
+        "Anna Karnkowska",
+        "Javier del Campo",
+        "Martin Kolísko",
+        "Nicholas A. T. Irwin",
+        "Varsha Mathur",
+        "Rudolf H. Scheffrahn",
+        "Patrick J. Keeling"
+      ],
+      "year": 2017,
+      "publisher": "INTERNATIONAL JOURNAL OF SYSTEMATIC AND EVOLUTIONARY MICROBIOLOGY",
+      "lang": "en",
+      "doi": "10.1099/ijsem.0.002169",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0405"
+    },
+    {
+      "title": "Western Drywood Termite, Incisitermes minor (Hagen) (Insecta: Isoptera: Kalotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.32473/edis-in526-2005",
+      "file_path": "_unpublished/文库/10.32473-edis-in526-2005",
+      "chars": 1191,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:51:07+08:00",
+      "notes": "全文存于 _unpublished/文库/10.32473-edis-in526-2005（1191 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1190 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.32473-edis-in526-2005",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:51:07",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.32473-edis-in526-2005/full.txt",
+            "chars": 1191,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.32473_edis-in526-2005-abstract.txt",
+            "sha256": "5d617c81a59fd67b5e338617febe9ae3a484aeda7210132692f18c4bcff51291",
+            "bytes": 1191
+          }
+        ]
+      },
+      "authors": [
+        "Brian J. Cabrera",
+        "Rudolf H. Scheffrahn"
+      ],
+      "year": 1969,
+      "publisher": "EDIS",
+      "lang": "en",
+      "doi": "10.32473/edis-in526-2005",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0406"
+    },
+    {
+      "title": "Mitochondrial and chemical profiles reveal a new genus and species of Neotropical termite with snapping soldiers, Palmitermes impostor (Termitidae : Termitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1071/is16089",
+      "file_path": "_unpublished/文库/10.1071-is16089",
+      "chars": 1323,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:51:11+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1071-is16089（1323 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1322 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1071-is16089",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:51:11",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1071-is16089/full.txt",
+            "chars": 1323,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1071_is16089-abstract.txt",
+            "sha256": "6c21b4e4f44de4d79497c4685cef2bf0103f3ab2ae0b5bb935377863a7555619",
+            "bytes": 1323
+          }
+        ]
+      },
+      "authors": [
+        "Simon Hellemans",
+        "Thomas Bourguignon",
+        "Pavlína Kyjaková",
+        "Robert Hanus",
+        "Yves Roisin"
+      ],
+      "year": 2017,
+      "publisher": "Invertebrate Systematics",
+      "lang": "en",
+      "doi": "10.1071/is16089",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0407"
+    },
+    {
+      "title": "Survey of the leg exocrine glands in termites(Isoptera)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0085-56262002000100001",
+      "file_path": "_unpublished/文库/10.1590-s0085-56262002000100001",
+      "chars": 1022,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:51:37+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0085-56262002000100001（1022 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1021 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0085-56262002000100001",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:51:37",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0085-56262002000100001/full.txt",
+            "chars": 1022,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0085-56262002000100001-abstract.txt",
+            "sha256": "d991e229dd402703c2a6590615039e7331dc1e8c5049dd6d7d52f0a6a983a467",
+            "bytes": 1022
+          }
+        ]
+      },
+      "authors": [
+        "Helena Xavier Soares",
+        "Ana Maria Costa–Leonardo"
+      ],
+      "year": 2002,
+      "publisher": "Revista Brasileira de Entomologia",
+      "lang": "pt",
+      "doi": "10.1590/s0085-56262002000100001",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0408"
+    },
+    {
+      "title": "Occurrence, body mass and biomass of Syntermes spp. (Isoptera: Termitidae) in Reserva Ducke, Central Amazonia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/1809-43921998283324",
+      "file_path": "_unpublished/文库/10.1590-1809-43921998283324",
+      "chars": 834,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:51:53+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-1809-43921998283324（834 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（833 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-1809-43921998283324",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:51:53",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-1809-43921998283324/full.txt",
+            "chars": 834,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_1809-43921998283324-abstract.txt",
+            "sha256": "1dac902f8a52bab1efd8b8f4ef3f3d6b5a30b33b72c63170272a1c84f6470413",
+            "bytes": 838
+          }
+        ]
+      },
+      "authors": [
+        "Christopher Martius"
+      ],
+      "year": 1998,
+      "publisher": "Acta Amazonica",
+      "lang": "en",
+      "doi": "10.1590/1809-43921998283324",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0409"
+    },
+    {
+      "title": "A ocorrência do mutualismo facultativo entre Dyckia maritima Backer (Bromeliaceae) e o cupim Cortaritermes silvestrii (Holmgren), Nasutitermitinae, em afloramentos rochosos no Parque Estadual de Itapuã, Viamão, RS",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0102-33062003000100004",
+      "file_path": "_unpublished/文库/10.1590-s0102-33062003000100004",
+      "chars": 1455,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:51:59+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0102-33062003000100004（1455 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1454 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0102-33062003000100004",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:51:59",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0102-33062003000100004/full.txt",
+            "chars": 1455,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0102-33062003000100004-abstract.txt",
+            "sha256": "6bdb7174a602a66d8d245605b004236985797d043c8b16d7f0c90bed43527000",
+            "bytes": 1496
+          }
+        ]
+      },
+      "authors": [
+        "Celso Copstein Waldemar",
+        "Bruno Edgar Irgang"
+      ],
+      "year": 2003,
+      "publisher": "Acta Botanica Brasilica",
+      "lang": "pt",
+      "doi": "10.1590/s0102-33062003000100004",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0410"
+    },
+    {
+      "title": "Microsatellite markers in the primitive termite Mastotermes darwiniensis",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1046/j.1471-8278.2001.00094.x",
+      "file_path": "_unpublished/文库/10.1046-j.1471-8278.2001.00094.x",
+      "chars": 656,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:52:01+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1046-j.1471-8278.2001.00094.x（656 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（655 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1046-j.1471-8278.2001.00094.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:52:01",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1046-j.1471-8278.2001.00094.x/full.txt",
+            "chars": 656,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1046_j.1471-8278.2001.00094.x-abstract.txt",
+            "sha256": "dd3c6d4b5851636e0f30b54aeef2367b60c37db911415070673218af1aecc823",
+            "bytes": 658
+          }
+        ]
+      },
+      "authors": [
+        "Michael A. D. Goodisman",
+        "Theodore A. Evans",
+        "John G. Ewen",
+        "Ross H. Crozier"
+      ],
+      "year": 2001,
+      "publisher": "Molecular Ecology Notes",
+      "lang": "en",
+      "doi": "10.1046/j.1471-8278.2001.00094.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0411"
+    },
+    {
+      "title": "Taxonomy of Glyptotermes (Isoptera, Kalotermitidae) in Japan with Reference to Cuticular Hydrocarbon Analysis as Chemotaxonomic Characters",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.5109/2603",
+      "file_path": "_unpublished/文库/10.5109-2603",
+      "chars": 675,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:52:28+08:00",
+      "notes": "全文存于 _unpublished/文库/10.5109-2603（675 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（674 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.5109-2603",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:52:28",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.5109-2603/full.txt",
+            "chars": 675,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.5109_2603-abstract.txt",
+            "sha256": "c05b2c5a0b2f43bb487852849a1c67dd6ae20b148ab0b31d9f599b8edd8730f6",
+            "bytes": 675
+          }
+        ]
+      },
+      "authors": [
+        "Yoko Takematsu",
+        "Ryohei Yamaoka"
+      ],
+      "year": 1997,
+      "publisher": "ESAKIA",
+      "lang": "en",
+      "doi": "10.5109/2603",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0412"
+    },
+    {
+      "title": "Aparatermes thornatus (Isoptera: Termitidae: Apicotermitinae), a New Species of Soldierless Termite from Northern Amazonia",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1653/024.102.0123",
+      "file_path": "_unpublished/文库/10.1653-024.102.0123",
+      "chars": 740,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:52:33+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1653-024.102.0123（740 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（739 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1653-024.102.0123",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:52:33",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1653-024.102.0123/full.txt",
+            "chars": 740,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1653_024.102.0123-abstract.txt",
+            "sha256": "5eb49092bab2a97afee011107332e5b7023a946db5b40b9d2d19dca498bfc119",
+            "bytes": 747
+          }
+        ]
+      },
+      "authors": [
+        "Olga Pinzón-Florián",
+        "Rudolf H. Scheffrahn",
+        "Tiago F. Carrijo"
+      ],
+      "year": 2019,
+      "publisher": "Florida Entomologist",
+      "lang": "en",
+      "doi": "10.1653/024.102.0123",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0413"
+    },
+    {
+      "title": "Termite (Insecta, Isoptera) fauna from natural parks of the northeast region of Argentina",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0103-90162004000600016",
+      "file_path": "_unpublished/文库/10.1590-s0103-90162004000600016",
+      "chars": 38963,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-11T09:52:56+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0103-90162004000600016（6 页，38963 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0103-90162004000600016",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:52:56",
+        "chunks": [
+          {
+            "chunk": "0001-0006",
+            "txt": "_unpublished/文库/10.1590-s0103-90162004000600016/0001-0006.txt",
+            "chars": 38963,
+            "paragraphs": 373,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
+            "sha256": "de89caae1a74eb42b6f7e347a80c5d90565b6ff6225ccf4409f95e68eaf982b1",
+            "bytes": 39057
+          }
+        ]
+      },
+      "authors": [
+        "E. R. Laffont",
+        "Gladys J. Torales",
+        "Juan Manuel Coronel",
+        "Manuel Osvaldo Arbino",
+        "María Celina Godoy"
+      ],
+      "year": 2004,
+      "publisher": "FapUNIFESP (SciELO)",
+      "lang": "en",
+      "license": "cc-by-nc",
+      "doi": "10.1590/s0103-90162004000600016",
+      "url": "https://www.scielo.br/j/sa/a/X7SLZBZHRgxCFJnjsYkZf8P/?lang=en&format=pdf",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0414"
+    },
+    {
+      "title": "Mercury species in the nests and bodies of soil-feeding termites, Silvestritermes spp. (Termitidae, Syntermitinae), in French Guiana",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1016/j.envpol.2019.113064",
+      "file_path": "_unpublished/文库/10.1016-j.envpol.2019.113064",
+      "chars": 1764,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:53:14+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1016-j.envpol.2019.113064（1764 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1763 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1016-j.envpol.2019.113064",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:53:14",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1016-j.envpol.2019.113064/full.txt",
+            "chars": 1764,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1016_j.envpol.2019.113064-abstract.txt",
+            "sha256": "3214a572079f67d699a77f7970557b5f6a31ef976c70cfb43d18ea0c30e0d05b",
+            "bytes": 1768
+          }
+        ]
+      },
+      "authors": [
+        "Michel Diouf",
+        "David Sillam‐Dussès",
+        "Vanessa Alphonse",
+        "Sophie Fréchault",
+        "Edouard Miambi",
+        "Philippe Mora"
+      ],
+      "year": 2019,
+      "publisher": "Environmental Pollution",
+      "lang": "en",
+      "doi": "10.1016/j.envpol.2019.113064",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0415"
+    },
+    {
+      "title": "Multiple reproductives in nests of the Neotropical termite Constrictotermes cyphergaster (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0085-56262002000100004",
+      "file_path": "_unpublished/文库/10.1590-s0085-56262002000100004",
+      "chars": 458,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:53:15+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0085-56262002000100004（458 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（457 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0085-56262002000100004",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:53:15",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0085-56262002000100004/full.txt",
+            "chars": 458,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0085-56262002000100004-abstract.txt",
+            "sha256": "cf1b82c30b9884537260b8b12c5ad80424d6edf15442bd1b6a998a62d0c2cc4b",
+            "bytes": 459
+          }
+        ]
+      },
+      "authors": [
+        "Hélida Ferreira da Cunha",
+        "Divino Brandão"
+      ],
+      "year": 2002,
+      "publisher": "Revista Brasileira de Entomologia",
+      "lang": "en",
+      "doi": "10.1590/s0085-56262002000100004",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0416"
+    },
+    {
+      "title": "The frontal weapon of the termite Armitermes euamignathus Silvestri (Isoptera, Termitidae, Nasutitermitinae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0101-81752001000200012",
+      "file_path": "_unpublished/文库/10.1590-s0101-81752001000200012",
+      "chars": 1379,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:53:16+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0101-81752001000200012（1379 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1378 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0101-81752001000200012",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:53:16",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0101-81752001000200012/full.txt",
+            "chars": 1379,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0101-81752001000200012-abstract.txt",
+            "sha256": "1eced28e2cdd8d9b90b93d3e0d29d84760bb2f1dbd9711b0b83e9bb88b3dc195",
+            "bytes": 1379
+          }
+        ]
+      },
+      "authors": [
+        "Ana Maria Costa–Leonardo"
+      ],
+      "year": 2001,
+      "publisher": "Revista Brasileira de Zoologia",
+      "lang": "es",
+      "doi": "10.1590/s0101-81752001000200012",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0417"
+    },
+    {
+      "title": "Nests and Queen Migration in Schedorhinotermes actuosus (Hill), Schedorhinotermes breinli (Hill) and Coptotermes acinaciformis (Froggatt) (Isoptera: Rhinotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/j.1440-6055.1994.tb01236.x",
+      "file_path": "_unpublished/文库/10.1111-j.1440-6055.1994.tb01236.x",
+      "chars": 592,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:53:19+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-j.1440-6055.1994.tb01236.x（592 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（591 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-j.1440-6055.1994.tb01236.x",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:53:19",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-j.1440-6055.1994.tb01236.x/full.txt",
+            "chars": 592,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_j.1440-6055.1994.tb01236.x-abstract.txt",
+            "sha256": "a14d37db3549eafdbb011930a1b2ad0838b54373ead6c8a2107e1375bc395778",
+            "bytes": 592
+          }
+        ]
+      },
+      "authors": [
+        "L. R. Miller"
+      ],
+      "year": 1994,
+      "publisher": "Australian Journal of Entomology",
+      "lang": "en",
+      "doi": "10.1111/j.1440-6055.1994.tb01236.x",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0418"
+    },
+    {
+      "title": "Secondary queens in the parthenogenetic termite Cavitermes tuberosus develop through a transitional helper stage",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1111/ede.12240",
+      "file_path": "_unpublished/文库/10.1111-ede.12240",
+      "chars": 1331,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:53:35+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1111-ede.12240（1331 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1330 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1111-ede.12240",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:53:35",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1111-ede.12240/full.txt",
+            "chars": 1331,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1111_ede.12240-abstract.txt",
+            "sha256": "55839570d60c1001db9a791d267963c77981334f2de198b241da3ab015597b66",
+            "bytes": 1331
+          }
+        ]
+      },
+      "authors": [
+        "Simon Hellemans",
+        "Denis Fournier",
+        "Robert Hanus",
+        "Yves Roisin"
+      ],
+      "year": 2017,
+      "publisher": "Evolution & Development",
+      "lang": "en",
+      "doi": "10.1111/ede.12240",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0419"
+    },
+    {
+      "title": "Redescription of Prorhinotermes japonicus (Isoptera: Rhinotermitidae) from Taiwan",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1603/an11064",
+      "file_path": "_unpublished/文库/10.1603-an11064",
+      "chars": 757,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:53:52+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1603-an11064（757 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（756 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1603-an11064",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:53:52",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1603-an11064/full.txt",
+            "chars": 757,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1603_an11064-abstract.txt",
+            "sha256": "ca255c943f08eca160ab699c84859c3f9f2fd250cf15913a416cd8b1bc643c58",
+            "bytes": 757
+          }
+        ]
+      },
+      "authors": [
+        "Hou‐Feng Li",
+        "Yen-Chiu Lan",
+        "Nan‐Yao Su"
+      ],
+      "year": 2011,
+      "publisher": "Annals of the Entomological Society of America",
+      "lang": "en",
+      "doi": "10.1603/an11064",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0420"
+    },
+    {
+      "title": "Gut structure of two species of the neotropical genus Tauritermes Krishna (Isoptera: Kalotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s1519-566x2004000200006",
+      "file_path": "_unpublished/文库/10.1590-s1519-566x2004000200006",
+      "chars": 765,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:54:15+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s1519-566x2004000200006（765 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（764 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s1519-566x2004000200006",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:54:15",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s1519-566x2004000200006/full.txt",
+            "chars": 765,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s1519-566x2004000200006-abstract.txt",
+            "sha256": "62895addbe04a580965aaa5d8c01de5100dfef307c39dfa01d3b03065ce90ab4",
+            "bytes": 765
+          }
+        ]
+      },
+      "authors": [
+        "María Celina Godoy"
+      ],
+      "year": 2004,
+      "publisher": "Neotropical Entomology",
+      "lang": "en",
+      "doi": "10.1590/s1519-566x2004000200006",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0421"
+    },
+    {
+      "title": "Observations on the Protozoa Parasitic in the Hind Gut of Archotermopsis wroughtoni Desn: Part I.—Ditrichomonas (Trichomonas) termitis, Imms",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1242/jcs.s2-63.252.555",
+      "file_path": "_unpublished/文库/10.1242-jcs.s2-63.252.555",
+      "chars": 612,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:54:36+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1242-jcs.s2-63.252.555（612 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（611 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1242-jcs.s2-63.252.555",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:54:36",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1242-jcs.s2-63.252.555/full.txt",
+            "chars": 612,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1242_jcs.s2-63.252.555-abstract.txt",
+            "sha256": "365d12c45e38ccdfee2a7eebc28fd615a7a41193a62f1f04c87fe9eb7c11fbbd",
+            "bytes": 616
+          }
+        ]
+      },
+      "authors": [
+        "Donald Ward Cutler"
+      ],
+      "year": 1919,
+      "publisher": "Journal of Cell Science",
+      "lang": "en",
+      "doi": "10.1242/jcs.s2-63.252.555",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0422"
+    },
+    {
+      "title": "Evaluation of maize cultivars and rotation crops for resistance to damage by fungus-growing termites",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1080/02571862.2003.10634911",
+      "file_path": "_unpublished/文库/10.1080-02571862.2003.10634911",
+      "chars": 1557,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:55:24+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1080-02571862.2003.10634911（1557 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1556 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1080-02571862.2003.10634911",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:55:24",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1080-02571862.2003.10634911/full.txt",
+            "chars": 1557,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1080_02571862.2003.10634911-abstract.txt",
+            "sha256": "2f018ba2cbb2c81d7929f5503461f67ff63f05284f05243c9998aaf70d4865f0",
+            "bytes": 1557
+          }
+        ]
+      },
+      "authors": [
+        "H.F. Riekert",
+        "Johnnie Van den Berg"
+      ],
+      "year": 2003,
+      "publisher": "South African Journal of Plant and Soil",
+      "lang": "en",
+      "doi": "10.1080/02571862.2003.10634911",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0423"
+    },
+    {
+      "title": "Native Subterranean Termites: Reticulitermes flavipes (Kollar), Reticulitermes virginicus (Banks), Reticulitermes hageni Banks (Insecta: Isoptera: Rhinotermitidae)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.32473/edis-in369-2001",
+      "file_path": "_unpublished/文库/10.32473-edis-in369-2001",
+      "chars": 1233,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:55:41+08:00",
+      "notes": "全文存于 _unpublished/文库/10.32473-edis-in369-2001（1233 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1232 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.32473-edis-in369-2001",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:55:41",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.32473-edis-in369-2001/full.txt",
+            "chars": 1233,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.32473_edis-in369-2001-abstract.txt",
+            "sha256": "7617b4b85a036d24f993ebd39a389b2405058ffd0d2e01d5b97db5c857eacc58",
+            "bytes": 1233
+          }
+        ]
+      },
+      "authors": [
+        "Nan‐Yao Su",
+        "Rudolf H. Scheffrahn",
+        "Brian J. Cabrera"
+      ],
+      "year": 1969,
+      "publisher": "EDIS",
+      "lang": "en",
+      "doi": "10.32473/edis-in369-2001",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0424"
+    },
+    {
+      "title": "Biological control of subterranean termites (Psammotermes hypostoma ) by entomopathogenic fungi",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.21608/sjas.2019.53985",
+      "file_path": "_unpublished/文库/10.21608-sjas.2019.53985",
+      "chars": 1420,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:57:51+08:00",
+      "notes": "全文存于 _unpublished/文库/10.21608-sjas.2019.53985（1420 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1419 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.21608-sjas.2019.53985",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:57:51",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.21608-sjas.2019.53985/full.txt",
+            "chars": 1420,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.21608_sjas.2019.53985-abstract.txt",
+            "sha256": "d6dc95a2f09861a0046e20534b60a276396452da8137c36599324e2809f58af2",
+            "bytes": 1432
+          }
+        ]
+      },
+      "authors": [
+        "Mahmoud Somalian",
+        "Rafat Khalaph Allah",
+        "Mohamed Hammad",
+        "A. A. Ebnalwaled"
+      ],
+      "year": 2019,
+      "publisher": "Scientific Journal of Agricultural Sciences",
+      "lang": "en",
+      "doi": "10.21608/sjas.2019.53985",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0425"
+    },
+    {
+      "title": "Soil Physical and Chemical Properties in Epigeal Termite Mounds in Pastures",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/2179-8087.011016",
+      "file_path": "_unpublished/文库/10.1590-2179-8087.011016",
+      "chars": 890,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T09:58:39+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-2179-8087.011016（890 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（889 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-2179-8087.011016",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T09:58:39",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-2179-8087.011016/full.txt",
+            "chars": 890,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_2179-8087.011016-abstract.txt",
+            "sha256": "197e3a6507fcaa43f004db08070833336ab6eeab1fdfba30312d47eff95e594a",
+            "bytes": 891
+          }
+        ]
+      },
+      "authors": [
+        "Sandra Santana de Lima",
+        "Marcos Gervásio Pereira",
+        "Gilsonley Lopes dos Santos",
+        "Rafael de Moura Pontes",
+        "Anderson Ribeiro Diniz"
+      ],
+      "year": 2018,
+      "publisher": "Floresta e Ambiente",
+      "lang": "en",
+      "doi": "10.1590/2179-8087.011016",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0426"
+    },
+    {
+      "title": "A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1590/s0031-10492007002300001",
+      "file_path": "_unpublished/文库/10.1590-s0031-10492007002300001",
+      "chars": 534,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T10:00:00+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1590-s0031-10492007002300001（534 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（533 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1590-s0031-10492007002300001",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T10:00:00",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1590-s0031-10492007002300001/full.txt",
+            "chars": 534,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1590_s0031-10492007002300001-abstract.txt",
+            "sha256": "f76da6af99795c86e7755d06ebf40911194299aa349ff2522da1fc8e0e424a5c",
+            "bytes": 535
+          }
+        ]
+      },
+      "authors": [
+        "Eliana M. Cancello",
+        "Carolina Cuezzo"
+      ],
+      "year": 2007,
+      "publisher": "Papéis Avulsos de Zoologia",
+      "lang": "en",
+      "doi": "10.1590/s0031-10492007002300001",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0427"
+    },
+    {
+      "title": "Paraconvexitermes acangapua(Isoptera: Termitidae, Nasutitermitinae), a new genus and new species of the so-called “small Neotropical soil-feeding nasutes” from South America",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.1080/00379271.2003.10697373",
+      "file_path": "_unpublished/文库/10.1080-00379271.2003.10697373",
+      "chars": 694,
+      "retrieved_via": "文库（text）",
+      "accessed": "2026-11-11T10:02:07+08:00",
+      "notes": "全文存于 _unpublished/文库/10.1080-00379271.2003.10697373（694 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（693 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "library": {
+        "book": "10.1080-00379271.2003.10697373",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-11T10:02:07",
+        "chunks": [
+          {
+            "chunk": "full",
+            "txt": "_unpublished/文库/10.1080-00379271.2003.10697373/full.txt",
+            "chars": 694,
+            "paragraphs": 1,
+            "table_rows": 0,
+            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1080_00379271.2003.10697373-abstract.txt",
+            "sha256": "ad2404944dd2665383565bfd7974ae240c7656ba6ca2f226c18b3c5a830dae35",
+            "bytes": 704
+          }
+        ]
+      },
+      "authors": [
+        "Eliana M. Cancello",
+        "Charles Noirot"
+      ],
+      "year": 2003,
+      "publisher": "Annales de la Société entomologique de France (N S )",
+      "lang": "fr",
+      "doi": "10.1080/00379271.2003.10697373",
+      "fulltext_status": "abstract-download-failed",
+      "used_in": [],
+      "evidence": [],
+      "id": "S0428"
     }
   ]
 }
