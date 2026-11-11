@@ -151,7 +151,8 @@ def save_index(root: Path, data: dict) -> None:
     idx_path.parent.mkdir(parents=True, exist_ok=True)
     data["meta"]["count"] = len(data["sources"])
     data["meta"]["updated"] = now_iso()
-    idx_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    idx_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8",
+                        newline="\n")
 
 
 def next_id(sources: list[dict]) -> str:
@@ -357,7 +358,8 @@ def _ingest(root: Path, records: list, json_out: bool) -> int:
         if hit is not None:
             _, changed = merge(hit, rec)
             merged_ids.append(hit["id"] + ("" if changed else "(no-op)"))
-            (records_dir / f"{hit['id']}.md").write_text(render_record(hit), encoding="utf-8")
+            (records_dir / f"{hit['id']}.md").write_text(render_record(hit), encoding="utf-8",
+                                                      newline="\n")
             continue
         rec["id"] = rec.get("id") or next_id(data["sources"])
         if not ID_RE.match(str(rec["id"])):
@@ -367,7 +369,8 @@ def _ingest(root: Path, records: list, json_out: bool) -> int:
             rec["id"] = next_id(data["sources"])
         data["sources"].append(rec)
         by_key[key] = rec
-        (records_dir / f"{rec['id']}.md").write_text(render_record(rec), encoding="utf-8")
+        (records_dir / f"{rec['id']}.md").write_text(render_record(rec), encoding="utf-8",
+                                                    newline="\n")
         created.append({"id": rec["id"], "title": rec["title"], "canonical_key": key,
                         "evidence": len(rec["evidence"])})
 
@@ -752,7 +755,8 @@ def cmd_library_add(args: argparse.Namespace) -> int:
     manifest["generated"] = generated
     manifest.setdefault("out_root", str(lib_dir))
     manifest["books"] = [b for b in manifest.get("books", []) if b.get("book") != slug] + [entry]
-    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+                             encoding="utf-8", newline="\n")
 
     rec = _library_record(root, lib_dir, manifest_path, generated, entry)
     if args.notes:

@@ -1117,6 +1117,14 @@ def run_discover(root: Path, args) -> int:
 
 
 def run_write(root: Path, args) -> int:
+    if getattr(args, "manual_only", False):
+        # 只重建清单：不联网、不抓取。人工把 PDF 补进文库（sources.py library-add）后用一次，
+        # 已解决的条目立刻从清单消失，不必等下一轮抓取。
+        entries, prev = _merge_manual(root, [], _archived_dois(root))
+        _write_manual(root, entries, prev)
+        print("[fulltext] 待人工获取 " + str(len(entries)) + " 条 → " + MANUAL_MD_REL
+              + " ／ " + MANUAL_REL)
+        return 0
     mailto = (os.environ.get("UNPAYWALL_EMAIL") or os.environ.get("OPENALEX_MAILTO")
               or os.environ.get("CROSSREF_MAILTO") or "").strip()
     api_key = (os.environ.get("OPENALEX_API_KEY") or "").strip()
@@ -1386,6 +1394,8 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--ocr-max-pages", type=int, default=OCR_MAX_PAGES, help="扫描件最多 OCR 页数")
     ap.add_argument("--check", action="store_true", help="离线校验 + 计划（只读）")
     ap.add_argument("--write", action="store_true", help="执行爬取 + 归档")
+    ap.add_argument("--manual-only", action="store_true",
+                    help="只重建待人工获取清单（不联网；人工 library-add 后用它刷新）")
     return ap
 
 
@@ -1394,6 +1404,8 @@ def main(argv=None) -> int:
     root = Path(args.root).resolve()
     if args.check:
         return run_check(root, args)
+    if args.manual_only:
+        return run_write(root, args)
     if args.write or args.dry_run:
         return run_write(root, args)
     if args.discover:

@@ -51,19 +51,41 @@ def die(msg):
     raise SystemExit(1)
 
 
+def _openssl_works(exe):
+    """Git for Windows 的 usr/bin/openssl.exe 是 MSYS 程序，在受限沙盒里会因
+
+    "couldn't create signal pipe" 直接崩溃；ucrt64/bin 下的是原生程序，可用。
+    所以路径存在还不够，得真跑一次 version。"""
+    try:
+        p = subprocess.run([str(exe), "version"], capture_output=True, timeout=30)
+    except Exception:
+        return False
+    return p.returncode == 0
+
+
 def find_openssl():
     exe = shutil.which("openssl") or os.environ.get("OPENSSL")
-    candidates = [
-        exe,
-        r"C:\Program Files\Git\usr\bin\openssl.exe",
+    candidates = [exe]
+    # 从 git 的位置反推（Git 不在 C 盘时也能找到，如 E:\Program Files\Git）
+    git = shutil.which("git")
+    if git:
+        root = Path(git).resolve().parent.parent
+        candidates += [
+            root / "ucrt64" / "bin" / "openssl.exe",
+            root / "mingw64" / "bin" / "openssl.exe",
+            root / "usr" / "bin" / "openssl.exe",
+        ]
+    candidates += [
+        r"C:\Program Files\Git\ucrt64\bin\openssl.exe",
         r"C:\Program Files\Git\mingw64\bin\openssl.exe",
+        r"C:\Program Files\Git\usr\bin\openssl.exe",
         "/usr/bin/openssl",
         "/usr/local/bin/openssl",
     ]
     for c in candidates:
-        if c and Path(c).is_file():
+        if c and Path(c).is_file() and _openssl_works(c):
             return str(c)
-    die("找不到 openssl（AES 由它完成）。装 Git for Windows 或设置 OPENSSL 环境变量。")
+    die("找不到可用的 openssl（AES 由它完成）。装 Git for Windows 或设置 OPENSSL 环境变量。")
 
 
 def read_key(args):

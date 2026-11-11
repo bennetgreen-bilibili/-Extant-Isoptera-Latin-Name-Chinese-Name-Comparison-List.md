@@ -1,61 +1,61 @@
 {
   "format": "dsh-library-vault/1",
-  "created": "2026-11-11T10:02:13+0000",
+  "created": "2026-11-11T22:48:38+0800",
   "cipher": "aes-256-ctr+hmac-sha256",
   "kdf": {
     "alg": "scrypt",
-    "salt": "37e7d8af78dc158b74de81a12666d219",
-    "iv": "7c29c44f39f93f0d8e1e2bd1d1b584d2",
+    "salt": "7cbccb79614e558a58e3e2bd4a743998",
+    "iv": "926c81f87a03a9f13ef2b9f236bfb2cb",
     "n": 16384,
     "r": 8,
     "p": 1,
     "dklen": 64
   },
-  "mac": "a62601ad7aa1e6e0b75ef2e65f26fc1f17a6cda7300f944a0e541a7e62c146a3",
+  "mac": "f545bc248bad282959bcbfed2bea95f0c880b170f52a0827d5ed686aabf75233",
   "plain": {
     "file": "library.tar.gz",
-    "bytes": 132520841,
-    "sha256": "e74a1d43b397ab22c19d15ed4a00d687201a6d36db95e3ced6e40ff00b60c0c9"
+    "bytes": 139323875,
+    "sha256": "1679b63c03dad1b81e75404a86d76dbcd61b948394498e96c2b717bdd8431c73"
   },
   "ciphertext": {
-    "bytes": 132520841,
-    "sha256": "a7b8f8574b5675e634307b3c763795b17be56cb9f512e08a200568373e7b2c44"
+    "bytes": 139323875,
+    "sha256": "d428c1e51f01be9df7587bffdfe4191eabf08a7cdbe2bec3b83ba38436fc8cb0"
   },
   "parts": [
     {
       "name": "part-000.bin",
       "bytes": 24000000,
-      "sha256": "330f31570eeef21ee849856cb39c0999e0cadf580f82cef18890078ffdd5a072"
+      "sha256": "0801cc9d237ae7b62552bf32a7e9d347ab17c03f9a96e7925d819fab94adaeb5"
     },
     {
       "name": "part-001.bin",
       "bytes": 24000000,
-      "sha256": "d56a1b914063e554f4600101a769d4ce7fccf4f587d201e3ccb66794afdb3f63"
+      "sha256": "1049796f3474066828ad7a427ad084fefa46413f8c83862418a515f81c23cef0"
     },
     {
       "name": "part-002.bin",
       "bytes": 24000000,
-      "sha256": "0bb2be5a60ca38f6c6ceee924c16a41c0f35abf3266c43bbc67a5b8601d08e65"
+      "sha256": "117b6ad5733994bf85db86129e763554738abbb6d5891978d310330b720712a2"
     },
     {
       "name": "part-003.bin",
       "bytes": 24000000,
-      "sha256": "010628a09f17c732b4a2a2ceeb4ca01ce8f4e8838dbcdc84cb1784eb707fd859"
+      "sha256": "282d47b4bf3cec0130f9c5aaccebaa45a68487e460d6bbaaae20ae04d798b785"
     },
     {
       "name": "part-004.bin",
       "bytes": 24000000,
-      "sha256": "ab32581397a0dd00bbacf459e7e36eb3a16311ae5aecc9191d008552cfd7dba4"
+      "sha256": "3905158ef0ca55f294a59c18a71212d5e10bd5f335b6def2b5006672011d6924"
     },
     {
       "name": "part-005.bin",
-      "bytes": 12520841,
-      "sha256": "f3742c07723623cde67a9be52294a4670d6232b3b80fb90c38edd1a5ae4d4f09"
+      "bytes": 19323875,
+      "sha256": "c5591bc697c5c50c024536ef6877d4e6c9b00dc3ad57649210526b794aa12d24"
     }
   ],
   "stats": {
-    "files": 607,
-    "source_bytes": 132520841
+    "files": 671,
+    "source_bytes": 139323875
   },
   "note": "密钥不进仓库。解包见 .library-vault/README.md；口令丢失 = 备份报废。"
 }

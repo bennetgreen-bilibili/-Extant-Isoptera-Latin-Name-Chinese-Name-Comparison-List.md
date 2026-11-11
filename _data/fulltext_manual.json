@@ -1,71 +1,8 @@
 {
-  "updated_at": "2026-11-11 20:23",
-  "count": 37,
+  "updated_at": "2026-11-11 22:45",
+  "count": 34,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
-    {
-      "doi": "10.1098/rspb.2016.0179",
-      "title": "Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes , Heterotermes and Coptotermes",
-      "year": 2016,
-      "venue": "Proceedings of the Royal Society B Biological Sciences",
-      "publisher": "",
-      "cited_by": 96,
-      "landing": "https://doi.org/10.1098/rspb.2016.0179",
-      "reason": "blocked",
-      "hosts": [
-        "royalsocietypublishing.org"
-      ],
-      "tried": [
-        "https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2016.0179"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
-    },
-    {
-      "doi": "10.1110/ps.0228303",
-      "title": "Solution structure of termicin, an antimicrobial peptide from the termite Pseudacanthotermes spiniger",
-      "year": 2003,
-      "venue": "Protein Science",
-      "publisher": "",
-      "cited_by": 80,
-      "landing": "https://doi.org/10.1110/ps.0228303",
-      "reason": "blocked",
-      "hosts": [
-        "onlinelibrary.wiley.com"
-      ],
-      "tried": [
-        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1110/ps.0228303"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
-    },
-    {
-      "doi": "10.1603/008.102.0413",
-      "title": "Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan",
-      "year": 2009,
-      "venue": "Annals of the Entomological Society of America",
-      "publisher": "",
-      "cited_by": 67,
-      "landing": "https://doi.org/10.1603/008.102.0413",
-      "reason": "blocked",
-      "hosts": [
-        "academic.oup.com"
-      ],
-      "tried": [
-        "https://academic.oup.com/aesa/article-pdf/102/4/684/40368632/aesame0684.pdf"
-      ],
-      "last_result": "下载失败，已存摘要（标记 OA 待重试）",
-      "last_tried": 1762800000.0,
-      "seeded": true,
-      "first_seen": 1794399786.6055884,
-      "attempts": 1
-    },
     {
       "doi": "10.1111/j.1462-2920.2011.02648.x",
       "title": "Nitrate reduction, nitrous oxide formation, and anaerobic ammonia oxidation to nitrite in the gut of soil‐feeding termites ( Cubitermes and Ophiotermes spp.)",

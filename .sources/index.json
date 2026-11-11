@@ -3,7 +3,7 @@
     "version": 1,
     "count": 427,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-11T10:02:07+00:00",
+    "updated": "2026-11-11T22:50:25+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -17608,25 +17608,25 @@
       "source_type": "paper",
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1098/rspb.2016.0179",
-      "file_path": "_unpublished/文库/10.1098-rspb.2016.0179",
-      "chars": 1326,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:33:18+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1098-rspb.2016.0179（1326 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1325 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "file_path": "_unpublished/文库/Oceanic-dispersal,-vicariance-and-human-introduction-shaped-the-modern-distribut",
+      "chars": 91810,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-11T22:44:54+08:00",
+      "notes": "全文存于 _unpublished/文库/Oceanic-dispersal,-vicariance-and-human-introduction-shaped-the-modern-distribut（9 页，91810 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
-        "book": "10.1098-rspb.2016.0179",
+        "book": "Oceanic-dispersal,-vicariance-and-human-introduction-shaped-the-modern-distribut",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:33:18",
+        "generated": "2026-11-11T22:44:54",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1098-rspb.2016.0179/full.txt",
-            "chars": 1326,
-            "paragraphs": 1,
+            "chunk": "0001-0009",
+            "txt": "_unpublished/文库/Oceanic-dispersal,-vicariance-and-human-introduction-shaped-the-modern-distribut/0001-0009.txt",
+            "chars": 91810,
+            "paragraphs": 636,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1098_rspb.2016.0179-abstract.txt",
-            "sha256": "a0302542b85a328a0ee329b690483d56f1194c7e79437b69900acc3864418643",
-            "bytes": 1326
+            "source_file": "C:\\Users\\32304\\Downloads\\新建文件夹\\rspb.2016.0179.pdf",
+            "sha256": "fabbf736a8281798a53e1443cbb7de007c8cfb4d6e3ed0232bae854db6fb2634",
+            "bytes": 92394
           }
         ]
       },
@@ -17642,7 +17642,6 @@
       "publisher": "Proceedings of the Royal Society B Biological Sciences",
       "lang": "en",
       "doi": "10.1098/rspb.2016.0179",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
       "id": "S0368"
@@ -17732,25 +17731,25 @@
       "source_type": "paper",
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1110/ps.0228303",
-      "file_path": "_unpublished/文库/10.1110-ps.0228303",
-      "chars": 1176,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:34:45+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1110-ps.0228303（1176 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1175 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "file_path": "_unpublished/文库/Solution-structure-of-termicin,-an-antimicrobial-peptide-from-the-termite-Pseuda",
+      "chars": 55533,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-11T22:45:01+08:00",
+      "notes": "全文存于 _unpublished/文库/Solution-structure-of-termicin,-an-antimicrobial-peptide-from-the-termite-Pseuda（9 页，55533 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
-        "book": "10.1110-ps.0228303",
+        "book": "Solution-structure-of-termicin,-an-antimicrobial-peptide-from-the-termite-Pseuda",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:34:45",
+        "generated": "2026-11-11T22:45:01",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1110-ps.0228303/full.txt",
-            "chars": 1176,
-            "paragraphs": 1,
+            "chunk": "0001-0009",
+            "txt": "_unpublished/文库/Solution-structure-of-termicin,-an-antimicrobial-peptide-from-the-termite-Pseuda/0001-0009.txt",
+            "chars": 55533,
+            "paragraphs": 536,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1110_ps.0228303-abstract.txt",
-            "sha256": "8f145970fd42db7ed1998c777cd77afbc5cef03f267fd864851d2b73686cb6c7",
-            "bytes": 1176
+            "source_file": "C:\\Users\\32304\\Downloads\\新建文件夹\\0120438.pdf",
+            "sha256": "3d845477c39b62ef9b42da103885ac4dd87d6562c2eea745d4bc4d40768057d8",
+            "bytes": 55819
           }
         ]
       },
@@ -17766,7 +17765,6 @@
       "publisher": "Protein Science",
       "lang": "en",
       "doi": "10.1110/ps.0228303",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
       "id": "S0371"
@@ -17776,25 +17774,25 @@
       "source_type": "paper",
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.1603/008.102.0413",
-      "file_path": "_unpublished/文库/10.1603-008.102.0413",
-      "chars": 1016,
-      "retrieved_via": "文库（text）",
-      "accessed": "2026-11-11T09:34:51+08:00",
-      "notes": "全文存于 _unpublished/文库/10.1603-008.102.0413（1016 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；下载失败，仅存完整摘要（1015 字，abstract_source=openalex）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。",
+      "file_path": "_unpublished/文库/Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino",
+      "chars": 97932,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-11T22:45:03+08:00",
+      "notes": "全文存于 _unpublished/文库/Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino（10 页，97932 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
-        "book": "10.1603-008.102.0413",
+        "book": "Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-11T09:34:51",
+        "generated": "2026-11-11T22:45:03",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/10.1603-008.102.0413/full.txt",
-            "chars": 1016,
-            "paragraphs": 1,
+            "chunk": "0001-0010",
+            "txt": "_unpublished/文库/Phylogeography-of-Coptotermes-gestroi-and-Coptotermes-formosanus-(Isoptera-Rhino/0001-0010.txt",
+            "chars": 97932,
+            "paragraphs": 614,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/10.1603_008.102.0413-abstract.txt",
-            "sha256": "a0908249988d08601fb48a18ce731ca65ce21b77f1d4840884b4501d0e374876",
-            "bytes": 1018
+            "source_file": "C:\\Users\\32304\\Downloads\\新建文件夹\\aesame0684.pdf",
+            "sha256": "26d94f2d05672f9bb0c94acf3ff4685c9bb7566deb7bafdd47fb49e24bfa3315",
+            "bytes": 98057
           }
         ]
       },
@@ -17808,7 +17806,6 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1603/008.102.0413",
-      "fulltext_status": "abstract-download-failed",
       "used_in": [],
       "evidence": [],
       "id": "S0372"
