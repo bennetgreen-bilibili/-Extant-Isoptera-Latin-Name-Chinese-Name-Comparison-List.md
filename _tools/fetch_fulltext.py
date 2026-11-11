@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -35,12 +36,14 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 # 强制 UTF-8 输出，避免 Windows 控制台/管道编码导致中文乱码；Linux CI 上无害。
+# line_buffering：CI 日志按行落地，时间戳才能反映真实的慢步骤位置。
 for _stream in (sys.stdout, sys.stderr):
     try:
-        _stream.reconfigure(encoding="utf-8", errors="replace")
+        _stream.reconfigure(encoding="utf-8", errors="replace", line_buffering=True)
     except Exception:
         pass
 
@@ -68,10 +71,21 @@ OCR_LANG_MAP = {
 }
 
 DOWNLOAD_TIMEOUT = 60
+CANDIDATE_TIMEOUT = 25      # 单个候选 URL 的超时：站点级拦截（403/HTML）通常秒回，等 60s 是浪费
+PER_PAPER_SECONDS = 90      # 单篇所有候选合计的耗时上限
 POLITE_DELAY = 0.2
 MAX_TRIES = 2
+MAX_CANDIDATES = 5          # 每篇最多尝试的候选 URL 数（超过就放弃，不再逐站试错）
+HOSTS_REL = "_data/fulltext_hosts.json"
+HOST_BLOCK_AFTER = 3        # 同一 host 连续硬失败 N 次 → 冷却，不再逐篇撞墙
+HOST_COOLDOWN_DAYS = 120
+HARD_FAIL_CODES = (400, 401, 403, 404, 405, 410, 451)   # 站点级拒绝/资源失效，重试同一 host 无意义
 # 仅存摘要、全文仍可重试的标记（区别于已拿到全文的「已归档」）
-RETRYABLE_STATUSES = ("abstract-no-oa", "abstract-download-failed")
+#   abstract-no-oa     ：查不到任何 OA 全文候选，或 OA 只给落地页、页面也没自报 PDF 直链
+#   abstract-blocked   ：有候选，但全部被站点拦截/资源已下架（换 IP 也多半无效，长冷却）
+#   abstract-download-failed：瞬时失败（超时/5xx/返回网页），短冷却
+RETRYABLE_STATUSES = ("abstract-no-oa", "abstract-blocked", "abstract-download-failed")
+NEXT_TRY_DAYS = {"abstract-blocked": 180, "abstract-download-failed": 21, "abstract-no-oa": 120}
 
 
 class Budget:
@@ -112,7 +126,8 @@ def _to_int(x):
 
 def _load_json(path: Path):
     try:
-        with path.open("r", encoding="utf-8") as f:
+        # utf-8-sig：Windows 上手工用 PowerShell/记事本存的 json 常带 BOM
+        with path.open("r", encoding="utf-8-sig") as f:
             return json.load(f)
     except (OSError, json.JSONDecodeError):
         return None
@@ -121,7 +136,7 @@ def _load_json(path: Path):
 def _save_json(path: Path, obj) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(path.suffix + ".tmp")
-    with tmp.open("w", encoding="utf-8") as f:
+    with tmp.open("w", encoding="utf-8", newline="\n") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
     tmp.replace(path)
 
@@ -326,6 +341,7 @@ def _europepmc(doi: str, mailto: str):
         "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/" + pmcid + "/fullTextXML",
         "kind": "xml",
         "source": "europepmc",
+        "pmcid": pmcid,
         "title": hit.get("title") or "",
         "year": _to_int(hit.get("pubYear")),
         "authors": authors,
@@ -334,8 +350,148 @@ def _europepmc(doi: str, mailto: str):
     }
 
 
-def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget):
-    """返回可下载的 OA 全文（PDF 或 JATS XML），查不到合法 OA 全文返回 None。"""
+def _host_of(url: str) -> str:
+    try:
+        return (urllib.parse.urlparse(url).netloc or "").lower()
+    except Exception:
+        return ""
+
+
+def _norm_url(u: str) -> str:
+    u = (u or "").strip()
+    if u.startswith("http://"):
+        u = "https://" + u[7:]
+    return u.rstrip("/")
+
+
+def _cand(url: str, kind: str, source: str, host_type: str = "", version: str = "") -> dict:
+    return {"url": url.strip(), "kind": kind, "source": source, "host": _host_of(url),
+            "host_type": host_type, "version": version}
+
+
+def _load_hosts(root: Path) -> dict:
+    data = _load_json(root / HOSTS_REL)
+    return data if isinstance(data, dict) else {}
+
+
+def _save_hosts(root: Path, hosts: dict) -> None:
+    _save_json(root / HOSTS_REL, hosts)
+
+
+def _host_blocked(hosts: dict, host: str) -> bool:
+    st = hosts.get(host) or {}
+    until = st.get("blocked_until") or 0
+    return bool(until and time.time() < until)
+
+
+def _note_host_fail(hosts: dict, host: str, reason: str) -> None:
+    """记一次站点级硬失败；连续 HOST_BLOCK_AFTER 次 → 冷却 HOST_COOLDOWN_DAYS 天。"""
+    if not host:
+        return
+    st = hosts.get(host) or {}
+    st["fails"] = int(st.get("fails") or 0) + 1
+    st["last"] = time.time()
+    st["last_reason"] = reason[:120]
+    if st["fails"] >= HOST_BLOCK_AFTER:
+        st["blocked_until"] = time.time() + HOST_COOLDOWN_DAYS * 86400
+    hosts[host] = st
+
+
+def _note_host_ok(hosts: dict, host: str) -> None:
+    if not host:
+        return
+    hosts[host] = {"fails": 0, "blocked_until": 0, "last": time.time(), "last_reason": "ok"}
+
+
+# 站点迁移：旧域名已失效，同一篇 OA 文章在出版方新域名下仍可直接下载。
+# 只做「同一篇文章换个官方域名」，不构造任何未公开的下载地址。
+def _derived_candidates(doi: str, cands: list) -> list:
+    d = _norm_doi(doi)
+    out = []
+    for c in list(cands):
+        if c["host"].endswith("downloads.hindawi.com") and d.startswith("10.1155/"):
+            out.append(_cand("https://onlinelibrary.wiley.com/doi/pdfdirect/" + d, "pdf",
+                             "wiley-migrated"))
+    return out
+
+
+_META_PDF_RES = (
+    r'<meta[^>]+name=["\']citation_pdf_url["\'][^>]+content=["\']([^"\']+)',
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+name=["\']citation_pdf_url["\']',
+    r'<link[^>]+type=["\']application/pdf["\'][^>]+href=["\']([^"\']+)',
+)
+
+
+def _pdf_link_from_html(body: bytes, base_url: str):
+    """落地页自己声明的「本文 PDF」（citation_pdf_url / alternate pdf）；没有就是没有。"""
+    if not body:
+        return None
+    head = body[:300000].decode("utf-8", "replace")
+    for rx in _META_PDF_RES:
+        m = re.search(rx, head, re.I)
+        if m:
+            u = urllib.parse.urljoin(base_url, m.group(1).strip())
+            return u if u.lower().startswith("http") else None
+    return None
+
+
+_SOURCE_PRIORITY = {"europepmc": 0, "unpaywall": 1, "europepmc-pdf": 2, "openalex": 3, "s2": 4,
+                    "queue": 5, "html-meta": 6, "wiley-migrated": 7, "landing": 8}
+
+
+def _order_candidates(cands: list, hosts: dict) -> list:
+    """排序并去重：XML 优先（JATS 最干净）；冷却中的 host 排最后；仓储副本优先于出版社。"""
+    def key(c):
+        return (0 if c["kind"] == "xml" else 1,
+                1 if _host_blocked(hosts, c["host"]) else 0,
+                0 if c["host_type"] == "repository" else 1,
+                _SOURCE_PRIORITY.get(c["source"], 9))
+    out, seen = [], set()
+    for c in sorted(cands, key=key):
+        k = _norm_url(c["url"])
+        if not k or k in seen:
+            continue
+        seen.add(k)
+        out.append(c)
+    return out[:MAX_CANDIDATES]
+
+
+def _s2_pdf(doi: str, mailto: str):
+    """Semantic Scholar 的 openAccessPdf：只在其它源都没候选时补一刀（有速率限制）。"""
+    url = ("https://api.semanticscholar.org/graph/v1/paper/DOI:"
+           + urllib.parse.quote(_norm_doi(doi), safe="/:;()._-") + "?fields=openAccessPdf")
+    st, body, _, _ = _http_get(url, mailto, accept="application/json", timeout=20)
+    if st != 200 or not body:
+        return None
+    try:
+        d = json.loads(body.decode("utf-8"))
+    except Exception:
+        return None
+    u = (d.get("openAccessPdf") or {}).get("url")
+    return u or None
+
+
+def _metadata_bundle(doi: str, mailto: str, api_key: str):
+    """四路元数据并行取（原先串行要 4 个往返，是最费时间预算的一环）。"""
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        fu = ex.submit(_unpaywall, doi, mailto) if mailto else None
+        fo = ex.submit(_openalex, doi, mailto, api_key)
+        fe = ex.submit(_europepmc, doi, mailto)
+        fs = ex.submit(_s2_pdf, doi, mailto)
+        out = []
+        for f in (fu, fo, fe, fs):
+            if f is None:
+                out.append(None)
+                continue
+            try:
+                out.append(f.result())
+            except Exception:
+                out.append(None)
+    return out[0], out[1], out[2], out[3]
+
+
+def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget, hosts=None):
+    """返回候选 OA 全文清单（PDF / JATS XML，已排序），查不到任何合法 OA 全文返回 None。"""
     d = _norm_doi(doi)
     meta = {
         "doi": doi,
@@ -353,21 +509,18 @@ def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget):
         "kind": None,
         "url": None,
     }
+    cands = []
     # 1. 队列里显式给的 URL
     if item.get("url"):
-        meta["url"] = item["url"]
-        meta["kind"] = "xml" if _looks_xml(item["url"]) else "pdf"
-        meta["source"] = "queue"
-        return meta
-    # 2. Unpaywall
-    pdf_url = None
-    pdf_source = None
-    unp = _unpaywall(doi, mailto) if mailto else None
+        cands.append(_cand(item["url"], "xml" if _looks_xml(item["url"]) else "pdf", "queue"))
+    # 2. 三路元数据（并行）：Unpaywall 全部 oa_locations / OpenAlex 全部 locations / Europe PMC
+    unp, oa, pmc, s2 = _metadata_bundle(doi, mailto, api_key)
     if unp and unp.get("is_oa"):
         best = unp.get("best_oa_location") or {}
-        if best.get("url_for_pdf"):
-            pdf_url = best["url_for_pdf"]
-            pdf_source = "unpaywall"
+        for loc in [best] + list(unp.get("oa_locations") or []):
+            if isinstance(loc, dict) and loc.get("url_for_pdf"):
+                cands.append(_cand(loc["url_for_pdf"], "pdf", "unpaywall",
+                                   loc.get("host_type") or "", loc.get("version") or ""))
         meta["title"] = meta["title"] or (unp.get("title") or "")
         meta["year"] = meta["year"] or _to_int(unp.get("year"))
         meta["genre"] = unp.get("genre")
@@ -380,7 +533,6 @@ def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget):
         if best.get("url_for_landing_page"):
             meta["landing"] = best["url_for_landing_page"]
     # 3. OpenAlex
-    oa = _openalex(doi, mailto, api_key)
     if oa:
         meta["title"] = meta["title"] or (oa.get("title") or "")
         meta["year"] = meta["year"] or _to_int(oa.get("publication_year"))
@@ -394,25 +546,18 @@ def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget):
         meta["venue"] = meta["venue"] or (src.get("display_name") or "")
         meta["publisher"] = meta["publisher"] or (src.get("host_organization_name") or "")
         bol = oa.get("best_oa_location") or {}
-        if bol.get("pdf_url") and not pdf_url:
-            pdf_url = bol["pdf_url"]
-            pdf_source = "openalex"
-        if not pdf_url:
-            for loc in oa.get("locations") or []:
-                if loc.get("pdf_url"):
-                    pdf_url = loc["pdf_url"]
-                    pdf_source = "openalex"
-                    break
+        for loc in [bol] + list(oa.get("locations") or []):
+            if isinstance(loc, dict) and loc.get("pdf_url"):
+                cands.append(_cand(loc["pdf_url"], "pdf", "openalex"))
         if not meta["license"]:
             for loc in [bol] + list(oa.get("locations") or []):
-                if loc.get("license"):
+                if isinstance(loc, dict) and loc.get("license"):
                     meta["license"] = loc["license"]
                     break
         oa_url = (oa.get("open_access") or {}).get("oa_url")
         if oa_url:
             meta["landing"] = oa_url
-    # 4. Europe PMC（JATS 更干净，优先于出版社 PDF）
-    pmc = _europepmc(doi, mailto)
+    # 4. Europe PMC 的 JATS 全文（最干净；非 OA 时该端点 404，失败会自然回退到 PDF 候选）
     if pmc:
         meta["title"] = meta["title"] or pmc.get("title") or ""
         meta["year"] = meta["year"] or pmc.get("year")
@@ -420,16 +565,28 @@ def resolve(doi: str, item: dict, mailto: str, api_key: str, budget: Budget):
         meta["license"] = meta["license"] or pmc.get("license")
         if not meta["authors"]:
             meta["authors"] = pmc.get("authors") or []
-        meta["url"] = pmc["url"]
-        meta["kind"] = "xml"
-        meta["source"] = "europepmc"
-        return meta
-    if pdf_url:
-        meta["url"] = pdf_url
-        meta["kind"] = "pdf"
-        meta["source"] = pdf_source or "openalex"
-        return meta
-    return None
+        cands.append(_cand(pmc["url"], "xml", "europepmc"))
+        # JATS 端点挂掉时，同一篇还有 PMC 自己的 PDF 直链可退
+        pmcid = pmc.get("pmcid")
+        if pmcid:
+            cands.append(_cand("https://europepmc.org/articles/" + pmcid + "/pdf",
+                               "pdf", "europepmc-pdf"))
+            cands.append(_cand("https://www.ncbi.nlm.nih.gov/pmc/articles/" + pmcid + "/pdf/",
+                               "pdf", "europepmc-pdf"))
+    # 5. 站点迁移（Hindawi → Wiley）与 Semantic Scholar（补一条，落地页也能靠 citation_pdf_url 救回）
+    cands.extend(_derived_candidates(doi, cands))
+    if s2:
+        cands.append(_cand(s2, "pdf", "s2"))
+    if meta.get("landing"):
+        # 最后一招：PDF 直链被拦时，回官方落地页读 citation_pdf_url（Springer/PMC 等常见）
+        cands.append(_cand(meta["landing"], "landing", "landing"))
+    if not cands:
+        return None
+    meta["candidates"] = _order_candidates(cands, hosts if hosts is not None else {})
+    meta["url"] = meta["candidates"][0]["url"]
+    meta["kind"] = meta["candidates"][0]["kind"]
+    meta["source"] = meta["candidates"][0]["source"]
+    return meta
 
 
 def _looks_xml(u: str) -> bool:
@@ -450,18 +607,110 @@ def _ext_from(url: str, ctype: str, hint: str) -> str:
     return ".xml" if hint == "xml" else ".pdf"
 
 
-def _download(url: str, kind: str, mailto: str, dest: Path):
+def _download(url: str, kind: str, mailto: str, dest: Path, timeout: int = CANDIDATE_TIMEOUT):
+    """下载一个候选，返回 (path, final_url, ctype, status, html_pdf_hint)。
+
+    失败时 path=None：status 是 HTTP 码（403/404…），None 表示网络异常/超时；
+    html_pdf_hint 非空表示「返回的是网页，但网页自己声明了本文 PDF 地址」，可据此再试一次。
+    """
     accept = "application/pdf,application/xml,text/xml,*/*"
-    st, body, final_url, headers = _http_get(url, mailto, accept=accept)
-    if st != 200 or not body:
-        return None, final_url, ""
+    st, body, final_url, headers = _http_get(url, mailto, accept=accept, timeout=timeout)
     ctype = headers.get("Content-Type") or headers.get("content-type") or ""
+    if st != 200 or not body:
+        return None, final_url, ctype, st, None
+    if kind == "landing":
+        # 只探路：从官方落地页读「本文 PDF」地址，不落盘
+        return None, final_url, ctype, st, _pdf_link_from_html(body, final_url)
     if kind == "pdf" and "html" in ctype.lower():
-        return None, final_url, ctype
+        return None, final_url, ctype, st, _pdf_link_from_html(body, final_url)
     ext = _ext_from(final_url, ctype, kind)
     path = dest / ("fulltext" + ext)
     path.write_bytes(body)
-    return path, final_url, ctype
+    return path, final_url, ctype, st, None
+
+
+def _fetch_paper(meta: dict, mailto: str, dest: Path, hosts: dict, budget: Budget):
+    """按候选顺序逐个试，直到拿到一份全文；返回 (path, final_url, ctype, report)。
+
+    report: {"tried": [(url, 结果)], "reason": blocked|transient|html-page|per-paper-timeout,
+             "hosts": [本轮硬失败的 host]}
+    """
+    report = {"tried": [], "reason": "", "hosts": []}
+    saw = {"block": False, "html": False, "transient": False, "timeout": False, "no_link": False}
+    queue = list(meta.get("candidates") or [])
+    attempted = set()
+    started = time.monotonic()
+    tried = 0
+    i = 0
+    while i < len(queue):
+        c = queue[i]
+        i += 1
+        if _host_blocked(hosts, c["host"]):
+            # 冷却中的站点：连试都不试，省下的预算留给没撞过的站
+            report["tried"].append((c["url"], "冷却中，跳过"))
+            saw["block"] = True
+            continue
+        if tried >= MAX_CANDIDATES:
+            break
+        if _norm_url(c["url"]) in attempted:
+            continue          # 落地页回指的地址可能就是刚失败的那条，别重撞
+        if not budget.ok() or time.monotonic() - started > PER_PAPER_SECONDS:
+            saw["timeout"] = True
+            break
+        tried += 1
+        attempted.add(_norm_url(c["url"]))
+        probe = c["kind"] == "landing"      # 落地页只探路，不落盘
+        path, final_url, ctype, st, html_pdf = _download(c["url"], c["kind"], mailto, dest)
+        if path is not None:
+            _note_host_ok(hosts, c["host"])
+            report["tried"].append((c["url"], "ok"))
+            meta["url"] = c["url"]
+            meta["kind"] = c["kind"]
+            meta["source"] = c["source"]
+            return path, final_url, ctype, report
+        if html_pdf:
+            report["tried"].append((c["url"], "HTML 页面→找到 PDF 地址"))
+            extra = _cand(html_pdf, "pdf", "html-meta")
+            if (_norm_url(extra["url"]) not in attempted
+                    and all(_norm_url(x["url"]) != _norm_url(extra["url"]) for x in queue)):
+                queue.insert(i, extra)   # 落地页声明的 PDF 地址，下一轮就试
+            saw["html"] = True
+            continue
+        if probe:
+            # OA 只给了落地页、页面又不自报 PDF 地址：有 OA 但没有可下载直链，
+            # 不是「站点拦爬虫」，不该罚这个 host、也不该记成下载失败。
+            report["tried"].append((c["url"], "落地页无 PDF 地址（" + str(st) + "）"))
+            saw["no_link"] = True
+            continue
+        if st in HARD_FAIL_CODES:
+            report["tried"].append((c["url"], "HTTP " + str(st)))
+            _note_host_fail(hosts, c["host"], "HTTP " + str(st))
+            report["hosts"].append(c["host"])
+            saw["block"] = True
+        elif "html" in (ctype or "").lower():
+            report["tried"].append((c["url"], "返回网页非 PDF"))
+            _note_host_fail(hosts, c["host"], "返回网页非 PDF")
+            report["hosts"].append(c["host"])
+            saw["html"] = True
+        elif st is None:
+            report["tried"].append((c["url"], "超时/网络异常"))
+            saw["transient"] = True
+        else:
+            report["tried"].append((c["url"], "HTTP " + str(st) + " 空响应"))
+            saw["transient"] = True
+    # 分类优先级：被拦 > 网页拦路 > 无 PDF 直链 > 超预算 > 瞬时失败
+    # （拦截类要长冷却，不能被先前的瞬时失败掩盖；「无直链」按「无 OA 全文」处理）
+    if saw["block"]:
+        report["reason"] = "blocked"
+    elif saw["html"]:
+        report["reason"] = "html-page"
+    elif saw["no_link"]:
+        report["reason"] = "no-pdf-link"
+    elif saw["timeout"]:
+        report["reason"] = "per-paper-timeout"
+    else:
+        report["reason"] = "transient"
+    return None, "", "", report
 
 
 def _reliability(meta: dict) -> str:
@@ -627,7 +876,10 @@ def _ingest_abstract(root: Path, item: dict, tmp_dir: Path, fulltext_status: str
     stem = (_norm_doi(doi) or (item.get("title") or "abstract")).replace("/", "_").replace(":", "_")[:80]
     txt = tmp_dir / (stem + "-abstract.txt")
     txt.write_text(abstract, encoding="utf-8", newline="\n")
-    reason = "下载失败" if fulltext_status == "abstract-download-failed" else "无 OA 全文"
+    reason = {"abstract-download-failed": "下载失败",
+              "abstract-blocked": "OA 站点拦截下载",
+              "abstract-no-oa": "仅有 OA 落地页（无 PDF 直链）或未找到 OA 全文"}.get(
+                  fulltext_status, "无 OA 全文")
     notes = (reason + "，仅存完整摘要（" + str(len(abstract)) + " 字，abstract_source=" + src
              + "）。摘要全文存于本地文库供检索，不发布、不对外分发；引用以出版方原文为准。")
     cmd = [sys.executable, str(root / SOURCES_PY), "--root", str(root), "library-add",
@@ -730,9 +982,11 @@ def run_write(root: Path, args) -> int:
     if not isinstance(cache, dict):
         cache = {}
     budget = Budget(args.time_budget)
+    hosts = _load_hosts(root)
     tmp_dir = root / args.tmp
     tmp_dir.mkdir(parents=True, exist_ok=True)
     processed = archived_ok = abstract_ok = skipped = recent = no_oa = errors = scanned = 0
+    blocked_n = transient_n = linkless_n = 0
     for it in queue:
         if not isinstance(it, dict) or not it.get("doi"):
             continue
@@ -743,7 +997,11 @@ def run_write(root: Path, args) -> int:
             continue
         prev = cache.get(key)
         if not args.force and isinstance(prev, dict) and prev.get("status") not in ("ok", "resolved"):
-            age = time.time() - (prev.get("attempted_at") or 0)
+            now = time.time()
+            age = now - (prev.get("attempted_at") or 0)
+            if (prev.get("next_try") or 0) > now:
+                recent += 1   # 站点拦截 / 无 OA：冷却期内不重复撞同一堵墙
+                continue
             if args.stale_days and age < args.stale_days * 86400:
                 recent += 1
                 continue
@@ -754,11 +1012,14 @@ def run_write(root: Path, args) -> int:
             break
         processed += 1
         print("[fulltext] [" + str(processed) + "] doi:" + doi)
-        meta = resolve(doi, it, mailto, api_key, budget)
-        if not meta or not meta.get("url"):
+        meta = resolve(doi, it, mailto, api_key, budget, hosts)
+        if not meta or not (meta.get("candidates") or []):
             if key in retryable:
                 skipped += 1
-                print("[fulltext]   仍无 OA 全文，保留既有摘要（标记可重试）")
+                cool = NEXT_TRY_DAYS.get("abstract-no-oa", 120)
+                cache[key] = dict(prev or {}, attempted_at=time.time(),
+                                  next_try=time.time() + cool * 86400)
+                print("[fulltext]   仍无 OA 全文，保留既有摘要（" + str(cool) + " 天内不再试）")
                 continue
             if not (it.get("abstract") or "").strip():
                 no_oa += 1
@@ -776,6 +1037,7 @@ def run_write(root: Path, args) -> int:
                 abstract_ok += 1
                 archived.add(key)
                 cache[key] = {"status": "abstract-archived", "attempted_at": time.time(),
+                              "next_try": time.time() + NEXT_TRY_DAYS.get("abstract-no-oa", 120) * 86400,
                               "source": it.get("abstract_source") or "abstract"}
                 print("[fulltext]   无 OA 全文，已存摘要（" + str((it.get("abstract_source") or "?")) + "）")
             else:
@@ -789,33 +1051,59 @@ def run_write(root: Path, args) -> int:
             cache[key] = {"status": "resolved", "source": meta.get("source"),
                           "kind": meta.get("kind"), "url": meta.get("url"),
                           "attempted_at": time.time()}
-            print("[fulltext]   [dry-run] " + str(meta.get("source")) + " " + str(meta.get("kind")).upper()
-                  + ": " + str(meta.get("url")))
+            cands = meta.get("candidates") or []
+            print("[fulltext]   [dry-run] " + str(len(cands)) + " 个候选：")
+            for c in cands:
+                mark = "（站点冷却中）" if _host_blocked(hosts, c["host"]) else ""
+                print("[fulltext]     - " + c["source"] + " " + c["kind"].upper() + " "
+                      + c["host"] + mark + " " + c["url"][:110])
             print("[fulltext]   [dry-run] " + str((meta.get("title") or "")[:90]))
             continue
-        tmpfile, final_url, ctype = _download(meta["url"], meta.get("kind"), mailto, tmp_dir)
+        tmpfile, final_url, ctype, report = _fetch_paper(meta, mailto, tmp_dir, hosts, budget)
         if tmpfile is None:
+            reason = report.get("reason") or "transient"
+            if reason in ("blocked", "html-page"):
+                status = "abstract-blocked"
+                blocked_n += 1
+                what = "站点拦截"
+            elif reason == "no-pdf-link":
+                status = "abstract-no-oa"
+                linkless_n += 1
+                what = "仅有落地页、无 PDF 直链"
+            else:
+                status = "abstract-download-failed"
+                transient_n += 1
+                what = "瞬时失败"
+            days = NEXT_TRY_DAYS.get(status, 60)
+            tried_txt = " / ".join((u.split("://")[-1][:70] + "→" + str(r))
+                                   for u, r in (report.get("tried") or []))
             if key in retryable:
                 errors += 1
-                cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
-                              "error": "下载仍失败（保留既有摘要，标记可重试）"}
-                print("[fulltext]   下载仍失败，保留既有摘要（标记可重试）")
+                cache[key] = dict(prev or {}, status=status, attempted_at=time.time(),
+                                  next_try=time.time() + days * 86400, url=meta.get("url"),
+                                  error=what + "（" + reason + "），保留既有摘要")
+                print("[fulltext]   " + what + "（" + reason + "，保留既有摘要，" + str(days) + " 天内不再试）")
+                print("[fulltext]     试过：" + tried_txt)
                 continue
             if not (it.get("abstract") or "").strip():
                 errors += 1
-                cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
-                              "error": "下载失败（content-type=" + ctype + "）"}
-                print("[fulltext]   下载失败：" + str(meta.get("url")))
+                cache[key] = {"status": status, "attempted_at": time.time(),
+                              "next_try": time.time() + days * 86400,
+                              "url": meta.get("url"), "error": what + "（" + reason + "）"}
+                print("[fulltext]   " + what + "（" + reason + "）：" + str(meta.get("url")))
+                print("[fulltext]     试过：" + tried_txt)
                 continue
-            rc2, out2, err2 = _ingest_abstract(root, it, tmp_dir, fulltext_status="abstract-download-failed")
+            rc2, out2, err2 = _ingest_abstract(root, it, tmp_dir, fulltext_status=status)
             if rc2 == 0:
                 abstract_ok += 1
                 archived.add(key)
                 cache[key] = {"status": "abstract-archived", "attempted_at": time.time(),
+                              "next_try": time.time() + days * 86400,
                               "url": meta.get("url"),
                               "source": it.get("abstract_source") or "abstract",
-                              "retry": "download-failed"}
-                print("[fulltext]   下载失败，已存摘要（标记 OA 待重试）")
+                              "retry": reason}
+                print("[fulltext]   " + what + "，已存摘要（" + str(days) + " 天后重试）")
+                print("[fulltext]     试过：" + tried_txt)
             else:
                 errors += 1
                 cache[key] = {"status": "error", "attempted_at": time.time(), "url": meta.get("url"),
@@ -874,12 +1162,26 @@ def run_write(root: Path, args) -> int:
                           "error": ((err or out) or "library-add 失败").strip()[:300]}
             print("[fulltext]   library-add 失败：" + ((err or out) or "").strip()[:200])
         time.sleep(POLITE_DELAY)
+    _save_hosts(root, hosts)
     _save_json(root / args.cache, cache)
     print("[fulltext] 完成：处理 " + str(processed) + "，归档全文 " + str(archived_ok)
           + "，存档摘要 " + str(abstract_ok)
           + "，扫描件跳过 " + str(scanned)
-          + "，跳过已归档 " + str(skipped) + "，近期已试 " + str(recent)
+          + "，跳过已归档 " + str(skipped) + "，冷却/近期已试 " + str(recent)
           + "，无 OA 且无摘要 " + str(no_oa) + "，出错 " + str(errors))
+    print("[fulltext] 失败分类：站点拦截 " + str(blocked_n) + "（同一站点连续 "
+          + str(HOST_BLOCK_AFTER) + " 次硬失败即冷却 " + str(HOST_COOLDOWN_DAYS) + " 天），"
+          "无 PDF 直链 " + str(linkless_n) + "（只有落地页，按 "
+          + str(NEXT_TRY_DAYS.get("abstract-no-oa")) + " 天重试），"
+          "瞬时失败 " + str(transient_n) + "（按 " + str(NEXT_TRY_DAYS.get("abstract-download-failed")) + " 天重试）")
+    now = time.time()
+    cooling = sorted(((h, s) for h, s in hosts.items() if (s.get("blocked_until") or 0) > now),
+                     key=lambda x: -(x[1].get("blocked_until") or 0))
+    if cooling:
+        print("[fulltext] 冷却中的站点 " + str(len(cooling)) + " 个（到期前不再尝试）：")
+        for h, s in cooling[:12]:
+            days = int(((s.get("blocked_until") or 0) - now) / 86400) + 1
+            print("[fulltext]   - " + h + "  失败 " + str(s.get("fails")) + " 次，还剩 " + str(days) + " 天")
     return 0
 
 
