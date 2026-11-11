@@ -8,6 +8,7 @@
   - references 覆盖正文用到的全部来源，且不含未用到的来源；
   - 同一页面内没有重复段落；
   - updated 为 YYYY-MM-DD；
+  - 每个 section 有 heading_en/heading_es，每段有 text_en/text_es（缺一即 ERROR）；
   - 不用「士兵」，属名不缩写（警告）。
 
 用法：
@@ -135,6 +136,12 @@ def main():
             heading = (sec.get("heading") or "").strip()
             if not heading:
                 warnings.append("%s：sections[%d] 没有 heading" % (url, si))
+            else:
+                for lang, label in (("en", "heading_en"), ("es", "heading_es")):
+                    if not (sec.get(label) or "").strip():
+                        errors.append("%s：sections[%d] 缺少 %s" % (url, si, label))
+                    elif GENUS_ABBR_RE.search(sec.get(label) or ""):
+                        warnings.append("%s：sections[%d].%s 属名不要缩写" % (url, si, label))
             paras = sec.get("paragraphs")
             if not isinstance(paras, list) or not paras:
                 errors.append("%s：sections[%d].paragraphs 必须是非空数组" % (url, si))
@@ -158,6 +165,17 @@ def main():
                 abbr = GENUS_ABBR_RE.search(text)
                 if abbr:
                     warnings.append("%s：属名不要缩写（%s）" % (where, abbr.group(0)))
+                for lang, label in (("en", "text_en"), ("es", "text_es")):
+                    translated = (para.get(label) or "").strip()
+                    if not translated:
+                        errors.append("%s：缺少 %s" % (where, label))
+                        continue
+                    if translated == text:
+                        warnings.append("%s：%s 与中文原文相同，可能未翻译" % (where, label))
+                    if len(translated) < 20:
+                        warnings.append("%s：%s 很短（%d 字符）" % (where, label, len(translated)))
+                    if GENUS_ABBR_RE.search(translated):
+                        warnings.append("%s：%s 属名不要缩写（%s）" % (where, label, GENUS_ABBR_RE.search(translated).group(0)))
                 src = para.get("src") or []
                 if not isinstance(src, list) or not src:
                     errors.append("%s：src 必须是非空数组" % where)

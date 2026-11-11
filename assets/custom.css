@@ -516,7 +516,14 @@ body.search-overlay-open{overflow:hidden}
 .taxon-intro .taxon-src a{color:var(--accent-strong)}
 /* 研究记述：人工整理、按页面 URL 注入（_includes/taxon-literature.html） */
 .taxon-literature{margin:2em 0 .8em;border-top:1px solid var(--line);padding-top:1.1em}
-.taxon-literature h2{font-size:1.25em;margin:0 0 .65em}
+.taxon-literature [hidden]{display:none!important}
+.taxon-literature-head{display:flex;align-items:flex-start;justify-content:space-between;gap:.7em 1.2em;flex-wrap:wrap;margin:0 0 .65em}
+.taxon-literature-head h2{font-size:1.25em;margin:0;padding:0;border-bottom:0}
+.taxon-literature-switch{display:inline-flex;gap:2px;padding:2px;border:1px solid var(--line);border-radius:999px;background:var(--accent-softer);flex:0 0 auto}
+.taxon-literature-switch button{font:inherit;font-size:.78rem;line-height:1.45;padding:3px 10px;border:0;border-radius:999px;background:transparent;color:var(--muted);cursor:pointer;white-space:nowrap}
+.taxon-literature-switch button:hover{color:var(--accent-strong)}
+.taxon-literature-switch button[aria-pressed="true"]{background:var(--card);color:var(--accent-strong);font-weight:600;box-shadow:var(--shadow-sm)}
+.taxon-literature-switch button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 .taxon-literature h3{font-size:1.05em;margin:1.25em 0 .35em;color:var(--ink)}
 .taxon-literature p{margin:.4em 0 .85em;line-height:1.8;text-align:justify}
 .taxon-literature .taxon-literature-lead{color:var(--muted);font-size:.9em;line-height:1.7;margin:.1em 0 .9em}

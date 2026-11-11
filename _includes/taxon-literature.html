@@ -5,30 +5,50 @@
   "/genus/foo/": {
     "updated": "2026-11-12",
     "sections": [
-      {"heading": "分类与分布",
-       "paragraphs": [{"text": "根据……研究，……", "src": ["S0001", "S0004"]}]}
+      {"heading": "分类与分布", "heading_en": "Classification and distribution", "heading_es": "Clasificación y distribución",
+       "paragraphs": [{"text": "根据……研究，……", "text_en": "……", "text_es": "……", "src": ["S0001", "S0004"]}]}
     ],
     "references": [{"id": "S0001", "citation": "……", "url": "……"}]
   }
 
   正文必须能在 .sources 找到对应 Sxxxx；段末的 <!-- src:Sxxxx --> 由
   _tools/sources.py check 校验。参考文献只列本页实际用到的来源。
+  中／英／西三份文本由本段的按钮切换；无 JS 时显示中文。
 {%- endcomment -%}
 {%- assign lit = site.data.taxon_literature[page.url] -%}
 {%- if lit -%}
-<section class="taxon-section taxon-literature" lang="zh-CN" data-pagefind-ignore>
-  <h2>研究记述 <span class="fact-en" lang="en">Literature notes</span> <span class="fact-es" lang="es">Notas bibliográficas</span></h2>
-  <p class="taxon-literature-lead">以下为据原始文献整理的摘记，不是原文转录；每段末的注释指向 <code>.sources</code> 中的存档记录，完整出处见文末参考文献。</p>
+<section class="taxon-section taxon-literature" lang="zh-CN" data-pagefind-ignore data-lit-active="zh-CN">
+  <div class="taxon-literature-head">
+    <h2>
+      <span data-lit-lang="zh-CN">研究记述</span>
+      <span data-lit-lang="en" lang="en" hidden>Literature notes</span>
+      <span data-lit-lang="es" lang="es" hidden>Notas bibliográficas</span>
+    </h2>
+    <div class="taxon-literature-switch" role="group" aria-label="文段语言 / Text language / Idioma del texto" hidden>
+      <button type="button" data-lit-set="zh-CN" aria-pressed="true">中文</button>
+      <button type="button" data-lit-set="en" aria-pressed="false">English</button>
+      <button type="button" data-lit-set="es" aria-pressed="false">Español</button>
+    </div>
+  </div>
+  <p class="taxon-literature-lead" data-lit-lang="zh-CN">以下为据原始文献整理的摘记，不是原文转录；每段末的注释指向 <code>.sources</code> 中的存档记录，完整出处见文末参考文献。</p>
+  <p class="taxon-literature-lead" data-lit-lang="en" lang="en" hidden>These are edited notes based on the original literature, not transcriptions. The source markers in each paragraph point to archived records in <code>.sources</code>; full citations are listed below.</p>
+  <p class="taxon-literature-lead" data-lit-lang="es" lang="es" hidden>Notas editadas a partir de la bibliografía original, no transcripciones. Las marcas de cada párrafo remiten a los registros archivados en <code>.sources</code>; las citas completas figuran al final.</p>
   {%- for sec in lit.sections %}
   {%- if sec.heading %}
-  <h3>{{ sec.heading }}</h3>
+  <h3 data-lit-lang="zh-CN">{{ sec.heading }}</h3>
+  <h3 data-lit-lang="en" lang="en" hidden>{{ sec.heading_en | default: sec.heading }}</h3>
+  <h3 data-lit-lang="es" lang="es" hidden>{{ sec.heading_es | default: sec.heading }}</h3>
   {%- endif %}
   {%- for para in sec.paragraphs %}
-  <p>{{ para.text }}{% for sid in para.src %} <!-- src:{{ sid }} -->{% endfor %}</p>
+  <p data-lit-lang="zh-CN">{{ para.text }}{% for sid in para.src %} <!-- src:{{ sid }} -->{% endfor %}</p>
+  <p data-lit-lang="en" lang="en" hidden>{{ para.text_en | default: para.text }}</p>
+  <p data-lit-lang="es" lang="es" hidden>{{ para.text_es | default: para.text }}</p>
   {%- endfor %}
   {%- endfor %}
   {%- if lit.references and lit.references.size > 0 %}
-  <h3>参考文献 <span class="fact-en" lang="en">References</span> <span class="fact-es" lang="es">Referencias</span></h3>
+  <h3 data-lit-lang="zh-CN">参考文献</h3>
+  <h3 data-lit-lang="en" lang="en" hidden>References</h3>
+  <h3 data-lit-lang="es" lang="es" hidden>Referencias</h3>
   <ul class="taxon-literature-refs">
     {%- for ref in lit.references %}
     <li id="ref-{{ ref.id }}">{% if ref.url %}<a href="{{ ref.url }}">{{ ref.citation }}</a>{% elsif ref.doi %}<a href="https://doi.org/{{ ref.doi }}">{{ ref.citation }}</a>{% else %}{{ ref.citation }}{% endif %}</li>
@@ -36,7 +56,9 @@
   </ul>
   {%- endif %}
   {%- if lit.updated %}
-  <p class="taxon-literature-meta">本页文献摘记更新：{{ lit.updated }}。</p>
+  <p class="taxon-literature-meta" data-lit-lang="zh-CN">本页文献摘记更新：{{ lit.updated }}。</p>
+  <p class="taxon-literature-meta" data-lit-lang="en" lang="en" hidden>Literature notes updated: {{ lit.updated }}.</p>
+  <p class="taxon-literature-meta" data-lit-lang="es" lang="es" hidden>Notas bibliográficas actualizadas: {{ lit.updated }}.</p>
   {%- endif %}
 </section>
 {%- endif -%}

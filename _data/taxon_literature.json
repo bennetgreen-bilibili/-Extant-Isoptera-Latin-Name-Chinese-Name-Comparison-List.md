@@ -1,15 +1,19 @@
 {
   "_meta": {
-    "description": "按页面 URL 存放人工整理的研究记述，由 _includes/taxon-literature.html 渲染；每段 src 必须是 .sources 中已有的 Sxxxx。",
+    "description": "按页面 URL 存放人工整理的研究记述，由 _includes/taxon-literature.html 渲染。每个 section/paragraph 同时保存中文、英文、西班牙文三种文本（heading_en/heading_es、text_en/text_es），页面上的按钮按 section 局部切换；每个 src 指向 .sources 中的 Sxxxx 存档记录。",
     "schema": {
       "/genus/foo/": {
         "updated": "YYYY-MM-DD",
         "sections": [
           {
-            "heading": "分类与分布",
+            "heading": "中文小节标题",
+            "heading_en": "English section heading",
+            "heading_es": "Título de sección en español",
             "paragraphs": [
               {
                 "text": "根据……研究，……",
+                "text_en": "According to …",
+                "text_es": "Según …",
                 "src": [
                   "S0001"
                 ]
@@ -20,13 +24,13 @@
         "references": [
           {
             "id": "S0001",
-            "citation": "作者. 年份. 标题. 出版物.",
+            "citation": "作者. 年份. 标题. 刊名/出版社.",
             "url": "https://example.org/..."
           }
         ]
       }
     },
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "last_batch": {
       "date": "2026-11-11",
       "pages": 28,
@@ -55,10 +59,15 @@
         "S0112",
         "S0115"
       ]
-    }
+    },
+    "languages": [
+      "zh-CN",
+      "en",
+      "es"
+    ]
   },
   "/family/rhinotermitidae/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "鼻白蚁科的拆分（2024）",
@@ -67,21 +76,29 @@
             "text": "根据 Hellemans 等（2024）的基因组系统发育研究，传统意义上的鼻白蚁科（Rhinotermitidae sensu lato）是并系群，被拆分为四个科级支系：异白蚁科（Heterotermitidae，含乳白蚁属 Coptotermes、异白蚁属 Heterotermes、散白蚁属 Reticulitermes）、沙白蚁科（Psammotermitidae，含沙白蚁属 Psammotermes、原鼻白蚁属 Prorhinotermes）、寡脉白蚁科（Termitogetonidae，仅寡脉白蚁属 Termitogeton），以及狭义的鼻白蚁科（Rhinotermitidae sensu novo）。狭义鼻白蚁科只保留尖鼻白蚁属（Acorhinotermes）、狭鼻白蚁属（Dolichorhinotermes）、棒鼻白蚁属（Parrhinotermes）、鼻白蚁属（Rhinotermes）、长鼻白蚁属（Schedorhinotermes）五属，即原来的鼻白蚁亚科（Rhinotermitinae，旧亚科）；大鼻白蚁属（Macrorhinotermes，异名）被处理为长鼻白蚁属（Schedorhinotermes）的次异名。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to the genomic phylogenetic study of Hellemans et al. (2024), Rhinotermitidae in the traditional sense (Rhinotermitidae sensu lato) is paraphyletic and was split into four family-level clades: Heterotermitidae (containing Coptotermes, Heterotermes and Reticulitermes), Psammotermitidae (containing Psammotermes and Prorhinotermes), Termitogetonidae (only Termitogeton), and Rhinotermitidae in the narrow sense (Rhinotermitidae sensu novo). Rhinotermitidae sensu novo retains only five genera, Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes and Schedorhinotermes, that is, the former Rhinotermitinae (the old subfamily); Macrorhinotermes (a synonym) was treated as a junior synonym of Schedorhinotermes.",
+            "text_es": "Según el estudio filogenómico de Hellemans et al. (2024), Rhinotermitidae en su sentido tradicional (Rhinotermitidae sensu lato) es parafilética y fue dividida en cuatro linajes de rango familiar: Heterotermitidae (con Coptotermes, Heterotermes y Reticulitermes), Psammotermitidae (con Psammotermes y Prorhinotermes), Termitogetonidae (solo Termitogeton) y Rhinotermitidae en sentido estricto (Rhinotermitidae sensu novo). Rhinotermitidae sensu novo conserva únicamente cinco géneros —Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes y Schedorhinotermes—, es decir, la antigua subfamilia Rhinotermitinae; Macrorhinotermes (nombre sinónimo) fue tratado como sinónimo junior de Schedorhinotermes."
           },
           {
             "text": "修订后的鼻白蚁科（Rhinotermitidae sensu novo）分布涵盖澳大利亚、非洲、新热带、东方、古北（中日）和大洋洲；兵蚁可为单型、二型或三型；鉴别特征包括膨大的唇基、从囟到唇基的窄沟，以及兵蚁延长且端部呈刷状的上唇，上唇中央有一条供额腺分泌物流动的沟。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "The revised Rhinotermitidae (Rhinotermitidae sensu novo) ranges across Australia, Africa, the Neotropics, the Oriental region, the Palaearctic (China and Japan) and Oceania; soldiers may be monomorphic, dimorphic or trimorphic; diagnostic features include an inflated clypeus, a narrow groove running from the fontanelle to the clypeus, and, in soldiers, an elongate labrum with a brush-like tip, the labrum bearing a median groove along which the frontal-gland secretion flows.",
+            "text_es": "Rhinotermitidae en su sentido revisado (Rhinotermitidae sensu novo) se distribuye por Australia, África, el Neotrópico, la región Oriental, el Paleártico (China y Japón) y Oceanía; los soldados pueden ser monomórficos, dimórficos o trimórficos; entre sus caracteres diagnósticos figuran el clípeo inflado, un surco estrecho desde la fontanela hasta el clípeo y el labro alargado con el ápice en forma de cepillo, recorrido por un surco central por el que fluye la secreción de la glándula frontal."
           },
           {
             "text": "因此，旧文献中的“鼻白蚁科”不能一律等同于本站现在的鼻白蚁科（Rhinotermitidae sensu novo）；遇到乳白蚁属（Coptotermes）、散白蚁属（Reticulitermes）等属时，应按异白蚁科（Heterotermitidae）处理。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "Consequently, 'Rhinotermitidae' in older literature cannot be equated throughout with the Rhinotermitidae (Rhinotermitidae sensu novo) of this checklist; where genera such as Coptotermes and Reticulitermes are encountered, they should be treated as Heterotermitidae.",
+            "text_es": "Por lo tanto, la Rhinotermitidae de la literatura antigua no puede equipararse sin más a la Rhinotermitidae actual de esta lista (Rhinotermitidae sensu novo); cuando se trate de géneros como Coptotermes o Reticulitermes, deben considerarse dentro de Heterotermitidae."
           }
-        ]
+        ],
+        "heading_en": "The split of Rhinotermitidae (2024)",
+        "heading_es": "Escisión de Rhinotermitidae (2024)"
       }
     ],
     "references": [
@@ -93,7 +110,7 @@
     ]
   },
   "/family/heterotermitidae/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "异白蚁科的建立（2024）",
@@ -102,15 +119,21 @@
             "text": "根据 Hellemans 等（2024），异白蚁科（Heterotermitidae stat. nov.）由原鼻白蚁科的异白蚁亚科（Heterotermitinae）提升为科，包含乳白蚁属（Coptotermes）、异白蚁属（Heterotermes）、散白蚁属（Reticulitermes）三属，模式属为异白蚁属（Heterotermes Froggatt, 1897）；乳白蚁亚科（Coptotermitinae）被处理为异名。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Heterotermitidae (Heterotermitidae stat. nov.) was elevated from the subfamily Heterotermitinae of the former Rhinotermitidae to family rank, comprising three genera, Coptotermes, Heterotermes and Reticulitermes, with Heterotermes Froggatt, 1897 as type genus; Coptotermitinae was treated as a synonym.",
+            "text_es": "Según Hellemans et al. (2024), Heterotermitidae (stat. nov.) se eleva a rango de familia a partir de la subfamilia Heterotermitinae de la antigua Rhinotermitidae y comprende tres géneros: Coptotermes, Heterotermes y Reticulitermes; su género tipo es Heterotermes Froggatt, 1897, y Coptotermitinae se trata como sinónimo."
           },
           {
             "text": "异白蚁科（Heterotermitidae）即文献中常说的“地下白蚁”（subterranean termites），分布覆盖大部分温带和热带地区，包含多种重要的房屋与林木害虫；乳白蚁属（Coptotermes）兵蚁头部卵形、囟大而朝前，可渗出乳胶状分泌物。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "Heterotermitidae are the 'subterranean termites' commonly referred to in the literature, distributed across most temperate and tropical regions and including several important pests of buildings and timber; in Coptotermes the soldier head is oval, with a large fontanelle directed forward from which a milky secretion can exude.",
+            "text_es": "Heterotermitidae corresponde a las termitas subterráneas (subterranean termites) de la literatura, se distribuye por buena parte de las zonas templadas y tropicales e incluye varias plagas importantes de edificaciones y de árboles; en Coptotermes la cabeza del soldado es ovalada, con una fontanela grande orientada hacia delante que exuda una secreción lechosa."
           }
-        ]
+        ],
+        "heading_en": "Establishment of Heterotermitidae (2024)",
+        "heading_es": "Establecimiento de Heterotermitidae (2024)"
       }
     ],
     "references": [
@@ -122,7 +145,7 @@
     ]
   },
   "/family/psammotermitidae/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "沙白蚁科的建立（2024）",
@@ -131,15 +154,21 @@
             "text": "根据 Hellemans 等（2024），沙白蚁科（Psammotermitidae stat. nov.）由原鼻白蚁科的沙白蚁亚科（Psammotermitinae）提升为科，并把原鼻白蚁亚科（Prorhinotermitinae，旧亚科）一并纳入；现生属只有沙白蚁属（Psammotermes Desneux, 1902）和原鼻白蚁属（Prorhinotermes Silvestri, 1909）。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Psammotermitidae (Psammotermitidae stat. nov.) was elevated from the subfamily Psammotermitinae of the former Rhinotermitidae to family rank and also incorporates the former subfamily Prorhinotermitinae; the only extant genera are Psammotermes Desneux, 1902 and Prorhinotermes Silvestri, 1909.",
+            "text_es": "Según Hellemans et al. (2024), Psammotermitidae (stat. nov.) se eleva a rango de familia a partir de la subfamilia Psammotermitinae de la antigua Rhinotermitidae y absorbe también la antigua subfamilia Prorhinotermitinae; sus únicos géneros actuales son Psammotermes Desneux, 1902 y Prorhinotermes Silvestri, 1909."
           },
           {
             "text": "沙白蚁属（Psammotermes）是沙漠栖息者，分布于非洲（含马达加斯加）、撒哈拉-阿拉伯和东方区；原鼻白蚁属（Prorhinotermes）多为岛屿分布，其广布被认为可能与洋流搬运漂流木中的群体有关。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "Psammotermes is a desert dweller, distributed in Africa (including Madagascar), the Sahara-Arabian region and the Oriental region; Prorhinotermes is mostly insular in distribution, and its wide spread is thought possibly to be connected with ocean currents carrying colonies in driftwood.",
+            "text_es": "Psammotermes es un habitante del desierto y se distribuye por África (incluida Madagascar), el Sahara-Arábigo y la región Oriental; Prorhinotermes presenta sobre todo distribución insular, y se cree que su amplia dispersión podría deberse al transporte por corrientes oceánicas de colonias en madera a la deriva."
           }
-        ]
+        ],
+        "heading_en": "Establishment of Psammotermitidae (2024)",
+        "heading_es": "Establecimiento de Psammotermitidae (2024)"
       }
     ],
     "references": [
@@ -151,7 +180,7 @@
     ]
   },
   "/family/termitogetonidae/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "寡脉白蚁科的建立（2024）",
@@ -160,15 +189,21 @@
             "text": "根据 Hellemans 等（2024），寡脉白蚁科（Termitogetonidae stat. nov.）由原鼻白蚁科的寡脉白蚁亚科（Termitogetoninae）提升为科，是单型科，仅含寡脉白蚁属（Termitogeton Desneux, 1904）一属，现存两种，分布于东方区和大洋洲，营木食生活。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Termitogetonidae (Termitogetonidae stat. nov.) was elevated from the subfamily Termitogetoninae of the former Rhinotermitidae to family rank; it is a monotypic family containing only the genus Termitogeton Desneux, 1904, with two extant species distributed in the Oriental region and Oceania and living as wood feeders.",
+            "text_es": "Según Hellemans et al. (2024), Termitogetonidae (stat. nov.) se eleva a rango de familia a partir de la subfamilia Termitogetoninae de la antigua Rhinotermitidae; es una familia monotípica, con un solo género, Termitogeton Desneux, 1904, dos especies actuales, distribución en la región Oriental y Oceanía y hábitos xilófagos."
           },
           {
             "text": "该科有翅成虫密被毛，头近三角形、后缘波状；兵蚁头心形、密被毛，上颚延长而无缘齿；各品级身体均背腹扁平。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "In this family the alates are densely hairy, with a nearly triangular head whose posterior margin is wavy; the soldier head is heart-shaped and densely hairy, with elongate mandibles that lack marginal teeth; in every caste the body is dorsoventrally flattened.",
+            "text_es": "En esta familia los imagos están densamente cubiertos de pelos y tienen la cabeza casi triangular, con el borde posterior ondulado; los soldados tienen la cabeza cordiforme y muy pilosa y las mandíbulas alargadas, sin dientes marginales; todas las castas presentan el cuerpo deprimido dorsoventralmente."
           }
-        ]
+        ],
+        "heading_en": "Establishment of Termitogetonidae (2024)",
+        "heading_es": "Establecimiento de Termitogetonidae (2024)"
       }
     ],
     "references": [
@@ -180,7 +215,7 @@
     ]
   },
   "/subfamily/amitermitinae/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "弓白蚁亚科的恢复（2024）",
@@ -189,22 +224,30 @@
             "text": "根据 Hellemans 等（2024），弓白蚁亚科（Amitermitinae stat. nov.）从旧白蚁亚科（Termitinae）中恢复，包含 14 属：无钩白蚁属（Ahamitermes）、弓白蚁属（Amitermes）、齿尖白蚁属（Dentispicotermes）、镰白蚁属（Drepanotermes）、漠白蚁属（Eremotermes）、球白蚁属（Globitermes）、颚钩白蚁属（Gnathamitermes）、武白蚁属（Hoplotermes）、子民白蚁属（Incolitermes）、闯白蚁属（Invasitermes）、直颚白蚁属（Orthognathotermes）、前钩白蚁属（Prohamitermes）、伪钩白蚁属（Pseudhamitermes）、同钩白蚁属（Synhamitermes）；模式属为弓白蚁属（Amitermes Silvestri, 1901）。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Amitermitinae (Amitermitinae stat. nov.) was restored from the former Termitinae and comprises 14 genera: Ahamitermes, Amitermes, Dentispicotermes, Drepanotermes, Eremotermes, Globitermes, Gnathamitermes, Hoplotermes, Incolitermes, Invasitermes, Orthognathotermes, Prohamitermes, Pseudhamitermes and Synhamitermes, with Amitermes Silvestri, 1901 as type genus.",
+            "text_es": "Según Hellemans et al. (2024), Amitermitinae (stat. nov.) se restablece a partir de la antigua Termitinae y comprende 14 géneros: Ahamitermes, Amitermes, Dentispicotermes, Drepanotermes, Eremotermes, Globitermes, Gnathamitermes, Hoplotermes, Incolitermes, Invasitermes, Orthognathotermes, Prohamitermes, Pseudhamitermes y Synhamitermes; su género tipo es Amitermes Silvestri, 1901."
           },
           {
             "text": "弓白蚁亚科（Amitermitinae）广布于热带和亚热带各生物地理区，取食蚁丘、土壤、木材和草，以及土壤-木材过渡带；兵蚁头一般梨形、无额突，但漠白蚁属（Eremotermes）和齿尖白蚁属（Dentispicotermes）例外。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "Amitermitinae is widespread in the tropical and subtropical biogeographic regions, feeding on mounds, soil, wood and grass, as well as on the soil-wood interface; the soldier head is generally pear-shaped and lacks a frontal projection, the exceptions being Eremotermes and Dentispicotermes.",
+            "text_es": "Amitermitinae está ampliamente distribuida en todas las regiones biogeográficas tropicales y subtropicales y se alimenta de termiteros, suelo, madera y hierbas, así como de la interfaz suelo-madera; la cabeza del soldado suele ser piriforme y carece de protuberancia frontal, con excepción de Eremotermes y Dentispicotermes."
           },
           {
             "text": "1972 年 Sands 修订非洲无兵蚁白蚁时，曾把弓白蚁亚科（Amitermitinae）作为白蚁亚科（Termitinae）的异名；2024 年的处理恢复了它的亚科地位，因此旧文献中的“Amitermitinae”不能直接按现在的范围理解。",
             "src": [
               "S0005",
               "S0008"
-            ]
+            ],
+            "text_en": "When Sands revised the soldierless termites of Africa in 1972, he treated Amitermitinae as a synonym of Termitinae; the treatment of 2024 restored its subfamily status, so 'Amitermitinae' in older literature cannot be understood directly in its present circumscription.",
+            "text_es": "Cuando Sands revisó en 1972 las termitas africanas sin soldados, trató Amitermitinae como sinónimo de Termitinae; el tratamiento de 2024 le devuelve el rango de subfamilia, de modo que la Amitermitinae de la literatura antigua no puede entenderse directamente con su delimitación actual."
           }
-        ]
+        ],
+        "heading_en": "Restoration of Amitermitinae (2024)",
+        "heading_es": "Restablecimiento de Amitermitinae (2024)"
       }
     ],
     "references": [
@@ -221,7 +264,7 @@
     ]
   },
   "/subfamily/termitinae/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "白蚁亚科的收窄（2024）",
@@ -230,21 +273,29 @@
             "text": "根据 Hellemans 等（2024），白蚁亚科（Termitinae sensu novo）被收窄到白蚁属（Termes）及其近缘属，共 23 属，包括后肠白蚁属（Apsenterotermes）、白蚁属（Termes）、扭白蚁属（Capritermes）、腔白蚁属（Cavitermes）、角扭白蚁属（Cornicapritermes）、脊突白蚁属（Cristatitermes）、双戟白蚁属（Dihoplotermes）、迪维努白蚁属（Divinotermes）、瘤突白蚁属（Ekphysotermes）、棒颚白蚁属（Ephelotermes）、络白蚁属（Hapsidotermes）、西澳白蚁属（Hesperotermes）、客白蚁属（Inquilinitermes）、小脊突白蚁属（Lophotermes）、长颚白蚁属（Macrognathotermes）、棕榈白蚁属（Palmitermes）、旁扭白蚁属（Paracapritermes）、始扭白蚁属（Protocapritermes）、相似白蚁属（Quasitermes）、石白蚁属（Saxatilitermes）、针刺白蚁属（Spinitermes）、小瘤白蚁属（Tuberculitermes）、木堆白蚁属（Xylochomitermes）；模式属为白蚁属（Termes Linnaeus, 1758）。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Termitinae (Termitinae sensu novo) was narrowed to Termes and its close relatives, 23 genera in all, including Apsenterotermes, Termes, Capritermes, Cavitermes, Cornicapritermes, Cristatitermes, Dihoplotermes, Divinotermes, Ekphysotermes, Ephelotermes, Hapsidotermes, Hesperotermes, Inquilinitermes, Lophotermes, Macrognathotermes, Palmitermes, Paracapritermes, Protocapritermes, Quasitermes, Saxatilitermes, Spinitermes, Tuberculitermes and Xylochomitermes, with Termes Linnaeus, 1758 as type genus.",
+            "text_es": "Según Hellemans et al. (2024), Termitinae (sensu novo) queda restringida a Termes y sus géneros afines, 23 en total: Apsenterotermes, Termes, Capritermes, Cavitermes, Cornicapritermes, Cristatitermes, Dihoplotermes, Divinotermes, Ekphysotermes, Ephelotermes, Hapsidotermes, Hesperotermes, Inquilinitermes, Lophotermes, Macrognathotermes, Palmitermes, Paracapritermes, Protocapritermes, Quasitermes, Saxatilitermes, Spinitermes, Tuberculitermes y Xylochomitermes; su género tipo es Termes Linnaeus, 1758."
           },
           {
             "text": "白蚁亚科（Termitinae sensu novo）分布泛热带，见于非洲、澳大利亚、新热带、大洋洲和东方区，取食土壤、蚁丘、木材及土壤-木材过渡带。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "Termitinae sensu novo is pantropical, occurring in Africa, Australia, the Neotropics, Oceania and the Oriental region, and feeds on soil, mounds, wood and the soil-wood interface.",
+            "text_es": "Termitinae (sensu novo) es pantropical y se encuentra en África, Australia, el Neotrópico, Oceanía y la región Oriental; se alimenta de suelo, termiteros, madera y de la interfaz suelo-madera."
           },
           {
             "text": "旧白蚁亚科（Termitinae）因多系而被拆分，原有类群分别转入恢复或新建的弓白蚁亚科（Amitermitinae）、锯白蚁亚科（Microcerotermitinae）、瘤白蚁亚科（Mirocapritermitinae）、响白蚁亚科（Crepititermitinae）、圆筒白蚁亚科（Cylindrotermitinae）、剪白蚁亚科（Forficulitermitinae）、新扭白蚁亚科（Neocapritermitinae）、始钩白蚁亚科（Protohamitermitinae）、前奇白蚁亚科（Promirotermitinae）等；现生白蚁科（Termitidae）因此共有 18 个亚科。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "The former Termitinae proved polyphyletic and was split, its constituent groups being transferred to the restored or newly established Amitermitinae, Microcerotermitinae, Mirocapritermitinae, Crepititermitinae, Cylindrotermitinae, Forficulitermitinae, Neocapritermitinae, Protohamitermitinae and Promirotermitinae, among others; the extant Termitidae therefore comprise 18 subfamilies in total.",
+            "text_es": "La antigua Termitinae, polifilética, fue dividida y sus grupos se repartieron entre subfamilias restablecidas o nuevas como Amitermitinae, Microcerotermitinae, Mirocapritermitinae, Crepititermitinae, Cylindrotermitinae, Forficulitermitinae, Neocapritermitinae, Protohamitermitinae y Promirotermitinae, entre otras; por ello Termitidae cuenta ahora con 18 subfamilias actuales."
           }
-        ]
+        ],
+        "heading_en": "Narrowing of Termitinae (2024)",
+        "heading_es": "Restricción de Termitinae (2024)"
       }
     ],
     "references": [
@@ -256,7 +307,7 @@
     ]
   },
   "/genus/kalotermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "属名的早期历史",
@@ -265,9 +316,13 @@
             "text": "根据程冬保、杨兆芬《白蚁学》（2014），等翅下目（Isoptera）最早定名的属是白蚁属（Termes），由 Linnaeus 于 1758 年命名；木白蚁属（Kalotermes）由 Hagen 于 1853 年命名，是最早命名的一批白蚁属之一。同一段还提到草白蚁属（Hodotermes）、鼻白蚁属（Rhinotermes）也在 1853 年由 Hagen 命名，洞白蚁属和胄白蚁属则命名于 1858 年。",
             "src": [
               "S0001"
-            ]
+            ],
+            "text_en": "According to Cheng Dongbao and Yang Zhaofen's Termitology (2014), the first genus of Isoptera to be named was Termes, named by Linnaeus in 1758; Kalotermes was named by Hagen in 1853 and is one of the earliest-named batch of termite genera. The same passage also mentions that Hodotermes and Rhinotermes were likewise named by Hagen in 1853, while the genera 洞白蚁 and 胄白蚁 were named in 1858.",
+            "text_es": "Según la obra Termitología (Baitixue, 2014) de Cheng Dongbao y Yang Zhaofen, el primer género nombrado en Isoptera fue Termes, establecido por Linnaeus en 1758; Kalotermes fue nombrado por Hagen en 1853 y es uno de los primeros géneros de termitas descritos. El mismo pasaje menciona que Hodotermes y Rhinotermes también fueron nombrados por Hagen en 1853, mientras que los géneros Dongbaiyan y Zhoubaiyan se nombraron en 1858."
           }
-        ]
+        ],
+        "heading_en": "Early history of the genus name",
+        "heading_es": "Historia temprana del nombre genérico"
       }
     ],
     "references": [
@@ -278,7 +333,7 @@
     ]
   },
   "/genus/rhinotermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "属名的早期历史与现行科位",
@@ -287,15 +342,21 @@
             "text": "根据《白蚁学》（2014），鼻白蚁属（Rhinotermes）由 Hagen 于 1853 年命名，是最早命名的白蚁属之一。",
             "src": [
               "S0001"
-            ]
+            ],
+            "text_en": "According to Termitology (2014), Rhinotermes was named by Hagen in 1853 and is one of the earliest-named termite genera.",
+            "text_es": "Según Termitología (2014), Rhinotermes fue nombrado por Hagen en 1853 y es uno de los géneros de termitas nombrados más tempranamente."
           },
           {
             "text": "根据 Hellemans 等（2024），鼻白蚁属（Rhinotermes）是狭义鼻白蚁科（Rhinotermitidae sensu novo）的模式属；该科现仅含尖鼻白蚁属（Acorhinotermes）、狭鼻白蚁属（Dolichorhinotermes）、棒鼻白蚁属（Parrhinotermes）、鼻白蚁属（Rhinotermes）、长鼻白蚁属（Schedorhinotermes）五属，原鼻白蚁亚科（Rhinotermitinae，旧亚科）提升为科（即 Rhinotermitidae sensu novo），大鼻白蚁属（Macrorhinotermes，异名）被并入长鼻白蚁属（Schedorhinotermes）。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Rhinotermes is the type genus of Rhinotermitidae sensu novo; the family now contains only five genera, Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes and Schedorhinotermes, the former subfamily Rhinotermitinae having been elevated to family rank (that is, Rhinotermitidae sensu novo), and Macrorhinotermes (a synonym) having been merged into Schedorhinotermes.",
+            "text_es": "Según Hellemans et al. (2024), Rhinotermes es el género tipo de Rhinotermitidae sensu novo; esta familia comprende actualmente solo cinco géneros —Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes y Schedorhinotermes—, la antigua subfamilia Rhinotermitinae se eleva al rango de familia (es decir, Rhinotermitidae sensu novo) y Macrorhinotermes (nombre sinónimo) se incluye en Schedorhinotermes."
           }
-        ]
+        ],
+        "heading_en": "Early history of the genus name and its current family placement",
+        "heading_es": "Historia temprana del nombre genérico y posición familiar actual"
       }
     ],
     "references": [
@@ -311,7 +372,7 @@
     ]
   },
   "/genus/anoplotermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "1972 年非洲无兵蚁白蚁修订",
@@ -320,22 +381,30 @@
             "text": "根据 Sands（1972）对非洲无兵蚁白蚁的修订，此前非洲已知的 11 种都归在解甲白蚁属（Anoplotermes）中；修订后确认这些种类属于尖白蚁亚科（Apicotermitinae），而不是原来所在的弓白蚁亚科（Amitermitinae）。非洲无兵蚁类群由此被分为 16 个新属、60 种（其中 51 新种），并有 7 个种名被归并。",
             "src": [
               "S0005"
-            ]
+            ],
+            "text_en": "According to Sands's (1972) revision of the African soldierless termites, the 11 species previously known from Africa were all placed in Anoplotermes; the revision confirmed that these species belong to Apicotermitinae rather than to Amitermitinae, where they had been placed before. The African soldierless group was thereby divided into 16 new genera and 60 species (51 of them new), and seven species names were synonymized.",
+            "text_es": "Según la revisión de Sands (1972) de las termitas africanas sin soldados, las 11 especies entonces conocidas de África se asignaban a Anoplotermes; tras la revisión se confirmó que pertenecen a Apicotermitinae y no a Amitermitinae, donde se situaban antes. El grupo africano de termitas sin soldados quedó así dividido en 16 géneros nuevos y 60 especies (51 de ellas nuevas), y 7 nombres específicos fueron sinonimizados."
           },
           {
             "text": "其中侧移锯白蚁（Microcerotermes lateralis）由解甲白蚁属（Anoplotermes）转入锯白蚁属（Microcerotermes），灰足近扭白蚁（Pericapritermes pallidipes）由解甲白蚁属（Anoplotermes）转入近扭白蚁属（Pericapritermes）；另有三个旧名成为异名。",
             "src": [
               "S0005"
-            ]
+            ],
+            "text_en": "Among them, Microcerotermes lateralis was transferred from Anoplotermes to Microcerotermes, and Pericapritermes pallidipes from Anoplotermes to Pericapritermes; three other old names became synonyms.",
+            "text_es": "Entre ellos, Microcerotermes lateralis pasó de Anoplotermes a Microcerotermes y Pericapritermes pallidipes pasó de Anoplotermes a Pericapritermes; además, tres nombres antiguos se convirtieron en sinónimos."
           },
           {
             "text": "该修订当时把弓白蚁亚科（Amitermitinae）降为白蚁亚科（Termitinae）的异名；2024 年 Hellemans 等又恢复弓白蚁亚科（Amitermitinae），因此引用 Sands（1972）时须注明这是当时的处理。",
             "src": [
               "S0005",
               "S0008"
-            ]
+            ],
+            "text_en": "That revision at the time reduced Amitermitinae to a synonym of Termitinae; in 2024 Hellemans et al. restored Amitermitinae, so when citing Sands (1972) it must be noted that this was the treatment at the time.",
+            "text_es": "En aquella revisión Amitermitinae se redujo a sinónimo de Termitinae; en 2024 Hellemans et al. restablecieron Amitermitinae, por lo que al citar a Sands (1972) debe indicarse que se trata del tratamiento de entonces."
           }
-        ]
+        ],
+        "heading_en": "The 1972 revision of the African soldierless termites",
+        "heading_es": "La revisión de 1972 de las termitas africanas sin soldados"
       }
     ],
     "references": [
@@ -352,7 +421,7 @@
     ]
   },
   "/genus/ereymatermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "属的界定与分布",
@@ -361,15 +430,21 @@
             "text": "根据 Cancello & Cuezzo（2007），无名白蚁属（Ereymatermes）是象白蚁亚科（Nasutitermitinae）的新热带特有属。该文描述新种短小无名白蚁（Ereymatermes piquira，模式产地巴西巴伊亚州 Ilhéus），并回顾此前已知的圆头无名白蚁（Ereymatermes rotundiceps，巴西亚马孙州 Japurá 河下游森林）和巴拿马无名白蚁（Ereymatermes panamensis，巴拿马运河区）。",
             "src": [
               "S0098"
-            ]
+            ],
+            "text_en": "According to Cancello & Cuezzo (2007), Ereymatermes is a Neotropical endemic genus of Nasutitermitinae. The paper describes the new species Ereymatermes piquira (type locality Ilhéus, Bahia, Brazil) and reviews the previously known Ereymatermes rotundiceps (forest along the lower Japurá River, Amazonas, Brazil) and Ereymatermes panamensis (Panama Canal Zone).",
+            "text_es": "Según Cancello y Cuezzo (2007), Ereymatermes es un género neotropical endémico de Nasutitermitinae. El trabajo describe la especie nueva Ereymatermes piquira (localidad tipo: Ilhéus, Bahía, Brasil) y revisa las especies antes conocidas Ereymatermes rotundiceps (bosques del curso bajo del río Japurá, Amazonas, Brasil) y Ereymatermes panamensis (Zona del Canal de Panamá)."
           },
           {
             "text": "无名白蚁属（Ereymatermes）可由兵蚁、工蚁和有翅成虫三品级共同界定；兵蚁头壳卵形、触角基后方略收缩，象鼻长圆柱形、不上翘，上唇很退化，触角 12 节，胫节距 2:2:2；工蚁二型，窄隙型更常见。",
             "src": [
               "S0098"
-            ]
+            ],
+            "text_en": "Ereymatermes is defined jointly by the soldier, worker and alate castes; the soldier has an oval head capsule slightly constricted behind the antennal bases, a long cylindrical nasus that is not upturned, a much reduced labrum, 12-segmented antennae and a tibial spur formula of 2:2:2; the workers are dimorphic, the narrow-gap type being the more common.",
+            "text_es": "Ereymatermes se define conjuntamente por los soldados, los obreros y los imagos; en el soldado la cápsula cefálica es ovalada y se estrecha ligeramente por detrás de la base de las antenas, el naso es largo y cilíndrico y no se inclina hacia arriba, el labro está muy reducido, las antenas tienen 12 artejos y la fórmula de espinas tibiales es 2:2:2; los obreros son dimórficos y el morfotipo de hendidura estrecha es el más frecuente."
           }
-        ]
+        ],
+        "heading_en": "Definition and distribution of the genus",
+        "heading_es": "Delimitación y distribución del género"
       }
     ],
     "references": [
@@ -381,7 +456,7 @@
     ]
   },
   "/species/reticulitermes-labralis/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "补充繁殖蚁的发育",
@@ -390,15 +465,21 @@
             "text": "根据 Su 等（2015）对圆唇散白蚁（Reticulitermes labralis）的研究，成虫型补充繁殖蚁（adultoid reproductives, AR）可由末龄若虫直接蜕皮形成，形态上更接近补充繁殖蚁而非有翅成虫。",
             "src": [
               "S0006"
-            ]
+            ],
+            "text_en": "According to Su et al.'s (2015) study of Reticulitermes labralis, adultoid reproductives (AR) can form by direct moulting from last-instar nymphs and are morphologically closer to neotenic reproductives than to alates.",
+            "text_es": "Según el estudio de Su et al. (2015) sobre Reticulitermes labralis, los reproductores adultoides (adultoid reproductives, AR) pueden formarse por muda directa de las ninfas del último estadio y se parecen más a los reproductores de reemplazo que a los imagos."
           },
           {
             "text": "实验室中，AR 配对在无工蚁时 2 周内全部死亡，且不掘隧道；有翅成虫配对在 3–7 天内掘道，50 对中 44 对存活，约 3 周后产卵。末龄若虫在 9 周内约 67.5% 发育为 AR、32.5% 发育为短翅型补充繁殖蚁（BN）；BN 的保幼激素滴度约为 AR 的 1.5 倍，卵黄原蛋白更高、卵母细胞成熟更早，产卵更早且产卵量更大（BN 平均 2.7 粒，AR 1.3 粒）。",
             "src": [
               "S0006"
-            ]
+            ],
+            "text_en": "In the laboratory, AR pairs all died within 2 weeks when no workers were present and dug no tunnels; alate pairs dug tunnels within 3–7 days, 44 of 50 pairs survived, and they laid eggs after about 3 weeks. Within 9 weeks about 67.5% of last-instar nymphs developed into AR and 32.5% into brachypterous neotenic reproductives (BN); BN had juvenile hormone titres about 1.5 times those of AR, higher vitellogenin, earlier oocyte maturation, and earlier and larger egg production (BN averaged 2.7 eggs, AR 1.3 eggs).",
+            "text_es": "En el laboratorio, las parejas de AR murieron todas en dos semanas en ausencia de obreros y no excavaron túneles; las parejas de imagos excavaron en 3–7 días, 44 de 50 parejas sobrevivieron y pusieron huevos al cabo de unas tres semanas. En nueve semanas, alrededor del 67,5 % de las ninfas del último estadio se desarrollaron como AR y el 32,5 % como reproductores neoténicos braquípteros (BN); los BN presentaron un título de hormona juvenil unas 1,5 veces mayor que los AR, más vitelogenina, ovocitos madurados antes y una puesta más temprana y abundante (2,7 huevos de media en las BN frente a 1,3 en las AR)."
           }
-        ]
+        ],
+        "heading_en": "Development of neotenic reproductives",
+        "heading_es": "Desarrollo de los reproductores de reemplazo"
       }
     ],
     "references": [
@@ -410,7 +491,7 @@
     ]
   },
   "/species/psammotermes-hybostoma/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "品级体系与干旱适应",
@@ -419,22 +500,30 @@
             "text": "根据 Bourguignon 等（2012），弯嘴沙白蚁（Psammotermes hybostoma）的品级体系基本为线性，与当时归入鼻白蚁科（Rhinotermitidae）的基部分支相似，但在后期分叉出大型无翅个体；主劳力是大量多能拟工蚁（pseudergates）。",
             "src": [
               "S0009"
-            ]
+            ],
+            "text_en": "According to Bourguignon et al. (2012), the caste system of Psammotermes hybostoma is essentially linear, similar to that of the basal lineages then placed in Rhinotermitidae, but large wingless individuals diverge from it at a late stage; the main workforce consists of numerous pluripotent pseudergates.",
+            "text_es": "Según Bourguignon et al. (2012), el sistema de castas de Psammotermes hybostoma es básicamente lineal, similar al de los linajes basales que entonces se incluían en Rhinotermitidae, pero en una fase tardía se ramifica en individuos ápteros de gran tamaño; la principal fuerza de trabajo son numerosos pseudergados pluripotentes."
           },
           {
             "text": "这些大型无翅个体不能发育为有翅成虫，却储存大量脂肪并发育为大型兵蚁；它们分叉晚、不承担工蚁劳作，因此不能视为白蚁科（Termitidae）和进步类群中的真工蚁，而是不育品级（sterile caste）的一个新例子。",
             "src": [
               "S0009"
-            ]
+            ],
+            "text_en": "These large wingless individuals cannot develop into alates, yet they store large amounts of fat and develop into large soldiers; they diverge late and take no part in the work of the colony, so they cannot be regarded as true workers of the kind found in Termitidae and the advanced groups, but are a new example of a sterile caste.",
+            "text_es": "Estos individuos ápteros grandes no pueden convertirse en imagos, pero acumulan gran cantidad de grasa y se desarrollan como soldados de gran tamaño; su ramificación es tardía y no participan en las labores de obrero, por lo que no deben considerarse obreros verdaderos como los de Termitidae y los grupos avanzados, sino un nuevo ejemplo de casta estéril (sterile caste)."
           },
           {
             "text": "该文按当时的分类把沙白蚁属（Psammotermes）放在鼻白蚁科（Rhinotermitidae）；2024 年 Hellemans 等已将其转入沙白蚁科（Psammotermitidae），引用旧文时需注意这一变化。",
             "src": [
               "S0009",
               "S0008"
-            ]
+            ],
+            "text_en": "Following the classification of the time, the paper placed Psammotermes in Rhinotermitidae; in 2024 Hellemans et al. transferred it to Psammotermitidae, a change to note when citing the older paper.",
+            "text_es": "El trabajo situó a Psammotermes en Rhinotermitidae según la clasificación de la época; en 2024 Hellemans et al. lo trasladaron a Psammotermitidae, cambio que debe tenerse en cuenta al citar el trabajo antiguo."
           }
-        ]
+        ],
+        "heading_en": "Caste system and adaptation to aridity",
+        "heading_es": "Sistema de castas y adaptación a la aridez"
       }
     ],
     "references": [
@@ -451,7 +540,7 @@
     ]
   },
   "/species/stylotermes-faveolus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "跟踪信息素与饲养",
@@ -460,27 +549,37 @@
             "text": "根据 Thakur 等（2023）对杆白蚁属（Stylotermes）的研究，杆白蚁科（Stylotermitidae）仅存杆白蚁属（Stylotermes）一属，约 45 种，分布于印度、孟加拉国、中国（含台湾）、马来西亚；它们生活在活树干内并取食活木质组织，仅分布于南亚。",
             "src": [
               "S0013"
-            ]
+            ],
+            "text_en": "According to Thakur et al.'s (2023) study of Stylotermes, the family Stylotermitidae contains only the single genus Stylotermes, with about 45 species distributed in India, Bangladesh, China (including Taiwan) and Malaysia; they live inside living tree trunks and feed on living woody tissue, and occur only in South Asia.",
+            "text_es": "Según el estudio de Thakur et al. (2023) sobre Stylotermes, Stylotermitidae contiene únicamente el género Stylotermes, con unas 45 especies distribuidas por India, Bangladés, China (incluida Taiwán) y Malasia; viven en el interior de troncos vivos y se alimentan de tejido leñoso vivo, y solo se encuentran en el sur de Asia."
           },
           {
             "text": "该研究以来自印度的凹胸杆白蚁（Stylotermes faveolus）和中国台湾的穿山甲杆白蚁（Stylotermes halumicus）为材料，发现工蚁第 5 腹板上的腹板腺（sternal gland）是 trail-following pheromone 的唯一来源，腺体由 I、II、III 型分泌细胞组成；分泌物中的 (Z)-dodec-3-en-1-ol（DOE）能引起工蚁强烈跟踪，行为阈值约 10^-4 ng/cm，凹胸杆白蚁（Stylotermes faveolus）每个腺体约含 0.1 ng DOE。作者认为 DOE 是两种的唯一活性成分，并据此支持从基部分支的复杂醛类信息素向木白蚁科（Kalotermitidae）与新等翅类（Neoisoptera）祖先的简单直链醇转变。",
             "src": [
               "S0013"
-            ]
+            ],
+            "text_en": "Using Stylotermes faveolus from India and Stylotermes halumicus from Taiwan, China, the study found that the sternal gland on the fifth abdominal sternite of workers is the sole source of the trail-following pheromone, the gland consisting of type I, II and III secretory cells; (Z)-dodec-3-en-1-ol (DOE) in the secretion elicits strong trail following by workers, with a behavioural threshold of about 10^-4 ng/cm, and each gland of Stylotermes faveolus contains about 0.1 ng of DOE. The authors consider DOE to be the only active component in both species and, on that basis, support a transition from complex aldehyde pheromones in the basal lineages to simple straight-chain alcohols in the ancestors of Kalotermitidae and Neoisoptera.",
+            "text_es": "El estudio utilizó materiales de Stylotermes faveolus de India y de Stylotermes halumicus de Taiwán (China) y encontró que la glándula esternal del quinto esternito abdominal de los obreros es la única fuente de la feromona de seguimiento (trail-following pheromone); la glándula está formada por células secretoras de los tipos I, II y III. El (Z)-dodec-3-en-1-ol (DOE) de la secreción provoca un fuerte seguimiento en los obreros, con un umbral conductual de aproximadamente 10^-4 ng/cm, y cada glándula de Stylotermes faveolus contiene unos 0,1 ng de DOE. Los autores consideran que el DOE es el único componente activo en ambas especies y, sobre esta base, apoyan la transición desde las feromonas complejas de aldehídos de los linajes basales hacia los alcoholes de cadena lineal simples de los antepasados de Kalotermitidae y Neoisoptera."
           },
           {
             "text": "据摘要，Thakur 等（2024）进一步比较了凹胸杆白蚁（Stylotermes faveolus）兵蚁和工蚁的额腺、上唇腺和下唇腺结构，并分析凹胸杆白蚁（Stylotermes faveolus）与穿山甲杆白蚁（Stylotermes halumicus）额腺分泌物的组成。",
             "src": [
               "S0011"
-            ]
+            ],
+            "text_en": "According to the abstract, Thakur et al. (2024) further compared the structure of the frontal, labral and labial glands of the soldiers and workers of Stylotermes faveolus and analysed the composition of the frontal-gland secretions of Stylotermes faveolus and Stylotermes halumicus.",
+            "text_es": "Según el resumen, Thakur et al. (2024) compararon además la estructura de las glándulas frontal, labral y labial de soldados y obreros de Stylotermes faveolus y analizaron la composición de las secreciones de la glándula frontal de Stylotermes faveolus y de Stylotermes halumicus."
           },
           {
             "text": "据摘要，Thakur & Mishra（1996）提到杆白蚁属（Stylotermes）的多个种等木栖白蚁比土栖种类更容易在实验室饲养，可在 28±1°C、80–90% RH 下用带活巢的被害木段维持。",
             "src": [
               "S0012"
-            ]
+            ],
+            "text_en": "According to the abstract, Thakur & Mishra (1996) noted that wood-dwelling termites such as several species of Stylotermes are easier to rear in the laboratory than soil-dwelling species and can be maintained at 28±1°C and 80–90% RH on infested wood segments containing the live nest.",
+            "text_es": "Según el resumen, Thakur y Mishra (1996) señalan que varias especies de Stylotermes, termitas madereras, se crían en el laboratorio más fácilmente que las especies edáficas y pueden mantenerse a 28 ± 1 °C y 80–90 % de HR en segmentos de madera atacada con nidos vivos."
           }
-        ]
+        ],
+        "heading_en": "Trail pheromone and captive rearing",
+        "heading_es": "Feromona de seguimiento y cría en laboratorio"
       }
     ],
     "references": [
@@ -502,7 +601,7 @@
     ]
   },
   "/species/ereymatermes-piquira/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "新种描述与模式产地",
@@ -511,15 +610,21 @@
             "text": "根据 Cancello & Cuezzo（2007），短小无名白蚁（Ereymatermes piquira）由该文描述为新种，模式产地为巴西巴伊亚州 Ilhéus（14.7972°S, 39.073°W），隶属象白蚁亚科（Nasutitermitinae）无名白蚁属（Ereymatermes）。",
             "src": [
               "S0098"
-            ]
+            ],
+            "text_en": "According to Cancello & Cuezzo (2007), Ereymatermes piquira was described as a new species in that paper, with type locality Ilhéus, Bahia, Brazil (14.7972°S, 39.073°W), in the genus Ereymatermes of Nasutitermitinae.",
+            "text_es": "Según Cancello y Cuezzo (2007), Ereymatermes piquira se describe en ese trabajo como especie nueva, con localidad tipo en Ilhéus, Bahía, Brasil (14.7972° S, 39.073° W), dentro de Nasutitermitinae, género Ereymatermes."
           },
           {
             "text": "该文以兵蚁和工蚁标本描述短小无名白蚁（Ereymatermes piquira），并给出兵蚁头壳、象鼻及工蚁上颚的形态图；无名白蚁属（Ereymatermes）兵蚁头壳卵形、触角基后方略收缩，象鼻长圆柱形、不上翘，上唇很退化，触角 12 节，胫节距 2:2:2；工蚁二型，窄隙型更常见。",
             "src": [
               "S0098"
-            ]
+            ],
+            "text_en": "The paper describes Ereymatermes piquira from soldier and worker specimens and provides morphological figures of the soldier head capsule and nasus and of the worker mandibles; in Ereymatermes the soldier head capsule is oval and slightly constricted behind the antennal bases, the nasus is long and cylindrical and not upturned, the labrum is much reduced, the antennae are 12-segmented and the tibial spur formula is 2:2:2; the workers are dimorphic, the narrow-gap type being the more common.",
+            "text_es": "El trabajo describe Ereymatermes piquira a partir de soldados y obreros y ofrece figuras de la cápsula cefálica y el naso del soldado y de las mandíbulas del obrero; en Ereymatermes la cápsula cefálica del soldado es ovalada y se estrecha ligeramente por detrás de la base de las antenas, el naso es largo y cilíndrico y no se inclina hacia arriba, el labro está muy reducido, las antenas tienen 12 artejos y la fórmula de espinas tibiales es 2:2:2; los obreros son dimórficos y el morfotipo de hendidura estrecha es el más frecuente."
           }
-        ]
+        ],
+        "heading_en": "Description of the new species and its type locality",
+        "heading_es": "Descripción de la especie nueva y localidad tipo"
       }
     ],
     "references": [
@@ -531,7 +636,7 @@
     ]
   },
   "/genus/coptotermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "现行科位与兵蚁特征",
@@ -540,15 +645,21 @@
             "text": "根据 Hellemans 等（2024），乳白蚁属（Coptotermes）原属鼻白蚁科（Rhinotermitidae），现归入异白蚁科（Heterotermitidae）；异白蚁科（Heterotermitidae）由异白蚁亚科（Heterotermitinae）提升为科，包含乳白蚁属（Coptotermes）、异白蚁属（Heterotermes）、散白蚁属（Reticulitermes）三属，乳白蚁亚科（Coptotermitinae）被处理为异名。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "According to Hellemans et al. (2024), Coptotermes was formerly placed in Rhinotermitidae and is now assigned to Heterotermitidae; Heterotermitidae was elevated from the subfamily Heterotermitinae to family rank and comprises three genera, Coptotermes, Heterotermes and Reticulitermes, with Coptotermitinae treated as a synonym.",
+            "text_es": "Según Hellemans et al. (2024), Coptotermes, que antes pertenecía a Rhinotermitidae, se incluye ahora en Heterotermitidae; Heterotermitidae se eleva a familia desde Heterotermitinae y comprende tres géneros —Coptotermes, Heterotermes y Reticulitermes—, mientras que Coptotermitinae se trata como sinónimo."
           },
           {
             "text": "乳白蚁属（Coptotermes）兵蚁头部卵形，囟大而朝前，可渗出乳胶状分泌物；异白蚁科（Heterotermitidae）分布覆盖大部分温带和热带地区，包含多种房屋与林木害虫。",
             "src": [
               "S0008"
-            ]
+            ],
+            "text_en": "In Coptotermes the soldier head is oval, with a large fontanelle directed forward from which a milky secretion can exude; Heterotermitidae is distributed across most temperate and tropical regions and includes several pests of buildings and timber.",
+            "text_es": "En Coptotermes la cabeza del soldado es ovalada, con una fontanela grande orientada hacia delante que exuda una secreción lechosa; Heterotermitidae se distribuye por buena parte de las zonas templadas y tropicales e incluye varias plagas de edificaciones y de árboles."
           }
-        ]
+        ],
+        "heading_en": "Current family placement and soldier characters",
+        "heading_es": "Posición familiar actual y caracteres del soldado"
       }
     ],
     "references": [
@@ -560,7 +671,7 @@
     ]
   },
   "/genus/acutidentitermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "属的建立与分类位置",
@@ -569,9 +680,13 @@
             "text": "根据 Emerson（1959）研究，尖齿白蚁属（Acutidentitermes）是该文建立的新属，模式种为奥斯本尖齿白蚁（Acutidentitermes osborni）；模式标本包括 1 头兵蚁和同巢工蚁，采自比利时刚果伊图里雨林 Epulu 河附近的地下巢。原文把该属放在白蚁亚科（Termitinae）的原始类群中，记载兵蚁头大、两侧近平行、囟小、后颏膨大，触角 15 节，胫节距 3:2:2；本站现将其置于尖白蚁亚科（Apicotermitinae）。",
             "src": [
               "S0034"
-            ]
+            ],
+            "text_en": "According to Emerson's (1959) study, Acutidentitermes is a new genus established in that paper, with Acutidentitermes osborni as its type species; the type material includes one soldier and workers from the same nest, collected from an underground nest near the Epulu River in the Ituri rainforest of the Belgian Congo. The original paper placed the genus among the primitive groups of Termitinae and recorded a large soldier head with nearly parallel sides, a small fontanelle, an inflated postmentum, 15-segmented antennae and a tibial spur formula of 3:2:2; this checklist currently places it in Apicotermitinae.",
+            "text_es": "Según el estudio de Emerson (1959), Acutidentitermes es un género nuevo establecido en ese trabajo, con especie tipo Acutidentitermes osborni; el material tipo comprende un soldado y obreros de la misma colonia, recolectados en un nido subterráneo cerca del río Epulu, en la selva de Ituri, Congo Belga. El trabajo sitúa el género entre los grupos primitivos de Termitinae y describe al soldado con cabeza grande, lados casi paralelos, fontanela pequeña, postmentón inflado, antenas de 15 artejos y fórmula de espinas tibiales 3:2:2; esta lista lo coloca actualmente en Apicotermitinae."
           }
-        ]
+        ],
+        "heading_en": "Establishment and taxonomic placement of the genus",
+        "heading_es": "Establecimiento del género y posición taxonómica"
       }
     ],
     "references": [
@@ -582,7 +697,7 @@
     ]
   },
   "/genus/anacanthotermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "印度地区的种类与分布",
@@ -591,9 +706,13 @@
             "text": "根据 Roonwal & Bose（1988）研究，无刺白蚁属（Anacanthotermes）当时全世界有 12 种，印度地区有 4 种：俾路支无刺白蚁（Anacanthotermes baluchistanicus）、大头无刺白蚁（Anacanthotermes macrocephalus）、游荡无刺白蚁（Anacanthotermes vagans）和小径无刺白蚁（Anacanthotermes viarum）；属的分布从北非、西亚、阿拉伯半岛和中亚延伸到印度西部与南部。",
             "src": [
               "S0105"
-            ]
+            ],
+            "text_en": "According to Roonwal & Bose's (1988) study, Anacanthotermes then comprised 12 species worldwide, four of them in the Indian region: Anacanthotermes baluchistanicus, Anacanthotermes macrocephalus, Anacanthotermes vagans and Anacanthotermes viarum; the genus ranges from North Africa, West Asia, the Arabian Peninsula and Central Asia to western and southern India.",
+            "text_es": "Según el estudio de Roonwal y Bose (1988), Anacanthotermes contaba entonces con 12 especies en el mundo, cuatro de ellas en la región india: Anacanthotermes baluchistanicus, Anacanthotermes macrocephalus, Anacanthotermes vagans y Anacanthotermes viarum; el género se distribuye desde el norte de África, Asia occidental, la península arábiga y Asia central hasta el oeste y el sur de la India."
           }
-        ]
+        ],
+        "heading_en": "Species and distribution in the Indian region",
+        "heading_es": "Especies y distribución en la región india"
       },
       {
         "heading": "南印度与北印度的代表种",
@@ -602,9 +721,13 @@
             "text": "同一研究指出，小径无刺白蚁（Anacanthotermes viarum）是南印度唯一的无刺白蚁属（Anacanthotermes）种类，两个后来描述的种被列为它的次异名；大头无刺白蚁（Anacanthotermes macrocephalus）是北印度的代表种，无刺白蚁属的旧异名 Anacanthotermes peshawarensis（现归入大头无刺白蚁）被列为它的次异名。",
             "src": [
               "S0105"
-            ]
+            ],
+            "text_en": "The same study notes that Anacanthotermes viarum is the only species of Anacanthotermes in southern India, and that two species described later are listed as its junior synonyms; Anacanthotermes macrocephalus is the representative species of northern India, and the old synonym of Anacanthotermes, Anacanthotermes peshawarensis (now placed in Anacanthotermes macrocephalus), is listed as its junior synonym.",
+            "text_es": "El mismo estudio señala que Anacanthotermes viarum es la única especie del género en el sur de la India, y dos especies descritas posteriormente se consideran sinónimos junior de ella; Anacanthotermes macrocephalus es la especie representativa del norte de la India, y el antiguo sinónimo Anacanthotermes peshawarensis (hoy incluido en Anacanthotermes macrocephalus) se considera sinónimo junior de ella."
           }
-        ]
+        ],
+        "heading_en": "Representative species in southern and northern India",
+        "heading_es": "Especies representativas del sur y del norte de la India"
       }
     ],
     "references": [
@@ -616,7 +739,7 @@
     ]
   },
   "/genus/archotermopsis/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "属的建立与中国记录",
@@ -626,9 +749,13 @@
             "src": [
               "S0110",
               "S0112"
-            ]
+            ],
+            "text_en": "According to He Yinzhu et al.'s (2009) study, Desneux (1904) described Archotermopsis wroughtoni from Kashmir material, and Holmgren (1911) established the genus Archotermopsis with that species as its type; that paper reported the genus Archotermopsis from China for the first time, on specimens from Huanglianshan in Lüchun and Wengding in Mengjiao of Cangyuan, Yunnan, then identified as Archotermopsis wroughtoni. On the basis of GBIF records and subsequent revisionary work, this checklist assigns these Yunnan specimens to Archotermopsis kuznetsovi, so the Chinese record corresponds to Archotermopsis kuznetsovi rather than to the Kashmir species Archotermopsis wroughtoni.",
+            "text_es": "Según el estudio de He Yinzhu et al. (2009), Desneux (1904) describió Archotermopsis wroughtoni a partir de ejemplares de Cachemira, y Holmgren (1911) estableció el género Archotermopsis con esa especie como tipo; el trabajo informa por primera vez de la presencia de Archotermopsis en China a partir de ejemplares de Huanglianshan (Lüchun, Yunnan) y de Wengding (Mengjiao, Cangyuan), identificados entonces como Archotermopsis wroughtoni. Esta lista, basándose en registros de GBIF y en revisiones posteriores, asigna esos ejemplares de Yunnan a Archotermopsis kuznetsovi, de modo que el registro chino corresponde a Archotermopsis kuznetsovi y no a Archotermopsis wroughtoni de Cachemira."
           }
-        ]
+        ],
+        "heading_en": "Establishment of the genus and records from China",
+        "heading_es": "Establecimiento del género y registros chinos"
       }
     ],
     "references": [
@@ -644,7 +771,7 @@
     ]
   },
   "/genus/indotermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "印白蚁属旧异名的归并",
@@ -653,9 +780,13 @@
             "text": "根据 Chhotani（1997）研究，Chatterjee & Thakur（1965）以印白蚁属的旧异名 Doonitermes capillosus（旧组合）为模式种建立旧属 Doonitermes（印白蚁属的旧异名），模式产地为印度北方邦 Dehradun 林区；Thakur & Sen-Sarma（1973）又描述西孟加拉 Buxa 林区的旧组合 Doonitermes buxensis（印白蚁属的旧异名）。Chhotani 检查两模式标本后认为该旧属是印白蚁属（Indotermes）的次异名，Doonitermes buxensis（印白蚁属的旧异名）是龙格伦吉里印白蚁（Indotermes rongrensis）的次异名，Doonitermes capillosus（印白蚁属的旧异名）转入印白蚁属（Indotermes）。",
             "src": [
               "S0104"
-            ]
+            ],
+            "text_en": "According to Chhotani's (1997) study, Chatterjee & Thakur (1965) established the old genus Doonitermes (an old synonym of Indotermes) with the old combination Doonitermes capillosus (an old synonym of Indotermes) as its type species, the type locality being a forest area at Dehradun, Uttar Pradesh, India; Thakur & Sen-Sarma (1973) then described the old combination Doonitermes buxensis (an old synonym of Indotermes) from the Buxa forest area of West Bengal. After examining both type specimens, Chhotani considered the old genus a junior synonym of Indotermes, Doonitermes buxensis (an old synonym of Indotermes) a junior synonym of Indotermes rongrensis, and transferred Doonitermes capillosus (an old synonym of Indotermes) to Indotermes.",
+            "text_es": "Según el estudio de Chhotani (1997), Chatterjee y Thakur (1965) establecieron el antiguo género Doonitermes (antiguo sinónimo de Indotermes) con Doonitermes capillosus (combinación antigua) como especie tipo, procedente de la zona forestal de Dehradun, Uttar Pradesh, India; Thakur y Sen-Sarma (1973) describieron después Doonitermes buxensis (combinación antigua) de la zona forestal de Buxa, Bengala Occidental. Tras examinar los dos ejemplares tipo, Chhotani consideró que el antiguo género es sinónimo junior de Indotermes, que Doonitermes buxensis (antiguo sinónimo de Indotermes) es sinónimo junior de Indotermes rongrensis y que Doonitermes capillosus (antiguo sinónimo de Indotermes) pasa al género Indotermes."
           }
-        ]
+        ],
+        "heading_en": "Merging of an old synonym of Indotermes",
+        "heading_es": "Sinonimización de un antiguo sinónimo de Indotermes"
       }
     ],
     "references": [
@@ -667,7 +798,7 @@
     ]
   },
   "/genus/labritermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "属的近代修订",
@@ -676,9 +807,13 @@
             "text": "根据 Krishna & Adams（1982）研究，Holmgren（1914）以苏门答腊的巴特里彭唇白蚁（Labritermes buttel-reepeni）为模式种建立唇白蚁属（Labritermes），此后长期只有这一种；该文增加埃默森唇白蚁（Labritermes emersoni）和基斯特纳唇白蚁（Labritermes kistneri）两个新种，并指出唇白蚁属（Labritermes）与非洲的孔白蚁属（Foraminitermes）关系密切。",
             "src": [
               "S0115"
-            ]
+            ],
+            "text_en": "According to Krishna & Adams's (1982) study, Holmgren (1914) established the genus Labritermes with Labritermes buttel-reepeni from Sumatra as its type species, and for a long time this remained the only species; that paper adds two new species, Labritermes emersoni and Labritermes kistneri, and points out that Labritermes is closely related to the African genus Foraminitermes.",
+            "text_es": "Según el estudio de Krishna y Adams (1982), Holmgren (1914) estableció Labritermes con Labritermes buttel-reepeni de Sumatra como especie tipo, y durante mucho tiempo el género permaneció monotípico; el trabajo añade dos especies nuevas, Labritermes emersoni y Labritermes kistneri, e indica que Labritermes está estrechamente relacionado con el género africano Foraminitermes."
           }
-        ]
+        ],
+        "heading_en": "A modern revision of the genus",
+        "heading_es": "Revisión moderna del género"
       }
     ],
     "references": [
@@ -690,7 +825,7 @@
     ]
   },
   "/genus/parvitermes/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "中美洲的种类",
@@ -699,9 +834,13 @@
             "text": "根据 Scheffrahn（2016）研究，微白蚁属（Parvitermes）在中美洲大陆已知 3 种：由墨西哥象白蚁（Nasutitermes mexicanus）转入的墨西哥微白蚁（Parvitermes mexicanus），以及新种中美洲微白蚁（Parvitermes mesoamericanus）和尤卡坦微白蚁（Parvitermes yucatanus）；这 3 种与西印度群岛的 9 种微白蚁属（Parvitermes）及细瘦安的列斯白蚁（Antillitermes subtilis）共享肠瓣刺朝向肠流反方向的特征，均为地下筑巢、食纤维素的白蚁。",
             "src": [
               "S0106"
-            ]
+            ],
+            "text_en": "According to Scheffrahn's (2016) study, three species of Parvitermes are known from mainland Central America: Parvitermes mexicanus, transferred from Nasutitermes mexicanus, and the new species Parvitermes mesoamericanus and Parvitermes yucatanus; these three species share with the nine West Indian species of Parvitermes and with Antillitermes subtilis the character of enteric valve spines directed against the gut flow, and all are subterranean-nesting, cellulose-feeding termites.",
+            "text_es": "Según el estudio de Scheffrahn (2016), Parvitermes cuenta en la América Central continental con tres especies conocidas: Parvitermes mexicanus, transferida desde Nasutitermes mexicanus, y las especies nuevas Parvitermes mesoamericanus y Parvitermes yucatanus; estas tres especies comparten con las nueve especies de Parvitermes de las Indias Occidentales y con Antillitermes subtilis el carácter de las espinas de la válvula entérica orientadas en sentido contrario al flujo intestinal, y todas ellas son termitas subterráneas que se alimentan de celulosa."
           }
-        ]
+        ],
+        "heading_en": "Species in Central America",
+        "heading_es": "Las especies de América Central"
       }
     ],
     "references": [
@@ -713,7 +852,7 @@
     ]
   },
   "/species/anacanthotermes-macrocephalus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "分类与异名",
@@ -722,9 +861,13 @@
             "text": "根据 Roonwal & Bose（1988）研究，大头无刺白蚁（Anacanthotermes macrocephalus）原由 Desneux（1906）以草白蚁属（Hodotermes）的旧组合 Hodotermes macrocephalus（现归入大头无刺白蚁）描述，模式产地为信德（卡拉奇及附近），文中将其归入无刺白蚁属（Anacanthotermes），并把无刺白蚁属的旧异名 Anacanthotermes peshawarensis（现归入大头无刺白蚁）列为次异名；英文名为 North Indian Harvester Termite。",
             "src": [
               "S0105"
-            ]
+            ],
+            "text_en": "According to Roonwal & Bose's (1988) study, Anacanthotermes macrocephalus was originally described by Desneux (1906) as Hodotermes macrocephalus (an old combination in Hodotermes, now placed in Anacanthotermes macrocephalus), with the type locality in Sind (Karachi and vicinity); the paper assigns it to Anacanthotermes and lists the old synonym of Anacanthotermes, Anacanthotermes peshawarensis (now placed in Anacanthotermes macrocephalus), as a junior synonym; its English name is North Indian Harvester Termite.",
+            "text_es": "Según el estudio de Roonwal y Bose (1988), Anacanthotermes macrocephalus fue descrita originalmente por Desneux (1906) con la combinación antigua Hodotermes macrocephalus (hoy incluida en Anacanthotermes macrocephalus), con localidad tipo en Sind (Karachi y alrededores); el trabajo la asigna al género Anacanthotermes y considera sinónimo junior el antiguo sinónimo Anacanthotermes peshawarensis (hoy incluido en Anacanthotermes macrocephalus); su nombre común en inglés es North Indian Harvester Termite."
           }
-        ]
+        ],
+        "heading_en": "Taxonomy and synonymy",
+        "heading_es": "Taxonomía y sinonimia"
       }
     ],
     "references": [
@@ -736,7 +879,7 @@
     ]
   },
   "/species/archotermopsis-kuznetsovi/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "中国记录的来源",
@@ -746,9 +889,13 @@
             "src": [
               "S0110",
               "S0112"
-            ]
+            ],
+            "text_en": "According to He Yinzhu et al.'s (2009) study, specimens from Huanglianshan in Lüchun and Wengding in Mengjiao of Cangyuan, Yunnan, were first reported as a new record for China, identified at the time as Archotermopsis wroughtoni; on the basis of GBIF records and subsequent revisionary work, this checklist assigns these specimens to Archotermopsis kuznetsovi. The Chinese record on this page therefore comes from these Yunnan specimens and not from the Kashmir species Archotermopsis wroughtoni.",
+            "text_es": "Según el estudio de He Yinzhu et al. (2009), los ejemplares de Huanglianshan (Lüchun, Yunnan) y de Wengding (Mengjiao, Cangyuan) se citaron por primera vez como novedad para China, identificados entonces como Archotermopsis wroughtoni; esta lista, basándose en registros de GBIF y en revisiones posteriores, asigna esos ejemplares a Archotermopsis kuznetsovi. Por lo tanto, el registro chino de esta página procede de esos ejemplares de Yunnan y no de Archotermopsis wroughtoni de Cachemira."
           }
-        ]
+        ],
+        "heading_en": "Source of the Chinese record",
+        "heading_es": "Origen del registro chino"
       }
     ],
     "references": [
@@ -764,7 +911,7 @@
     ]
   },
   "/species/hodotermopsis-sjostedti/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "湖南的分布与别名",
@@ -773,9 +920,13 @@
             "text": "根据尹世才（1982）研究，山林原白蚁（Hodotermopsis sjostedti）在湖南分布于宜章县莽山、新宁县紫云山和江华县码市林区；文中还记录其别名纯叉原白蚁、尖叉原白蚁、蛀木大白蚁，并记载国外越南、国内广东、浙江、湖南、台湾、广西、云南的分布。",
             "src": [
               "S0109"
-            ]
+            ],
+            "text_en": "According to Yin Shicai's (1982) study, Hodotermopsis sjostedti occurs in Hunan at Mangshan in Yizhang County, Ziyunshan in Xinning County and the Mashi forest area in Jianghua County; the paper also records its alternative Chinese names 纯叉原白蚁, 尖叉原白蚁 and 蛀木大白蚁, and gives its distribution abroad in Vietnam and within China in Guangdong, Zhejiang, Hunan, Taiwan, Guangxi and Yunnan.",
+            "text_es": "Según el estudio de Yin Shicai (1982), Hodotermopsis sjostedti se distribuye en Hunan por Mangshan, en el condado de Yizhang, Ziyunshan, en el condado de Xinning, y la zona forestal de Mashi, en el condado de Jianghua; el trabajo registra además los nombres alternativos Chun Cha Yuan Bai Yi, Jian Cha Yuan Bai Yi y Zhu Mu Da Bai Yi, y su distribución en Vietnam y, dentro de China, en Guangdong, Zhejiang, Hunan, Taiwán, Guangxi y Yunnan."
           }
-        ]
+        ],
+        "heading_en": "Distribution in Hunan and alternative names",
+        "heading_es": "Distribución y otros nombres en Hunan"
       }
     ],
     "references": [
@@ -787,7 +938,7 @@
     ]
   },
   "/species/macrotermes-hainanensis/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "云南新记录",
@@ -796,9 +947,13 @@
             "text": "根据何银竹、梁醒财（2009）研究，云南屏边蚂蚁河 1991 年 3 月 24 日采得的标本被作为海南大白蚁（Macrotermes hainanensis）的云南省新记录报道；大兵蚁头最宽 2.39–2.43 mm，小兵蚁头最宽 1.38–1.51 mm，除云南外该种还分布于海南。",
             "src": [
               "S0111"
-            ]
+            ],
+            "text_en": "According to He Yinzhu & Liang Xingcai's (2009) study, specimens collected on 24 March 1991 at Mayihe, Pingbian, Yunnan, were reported as a new record of Macrotermes hainanensis for Yunnan Province; the head is 2.39–2.43 mm wide in major soldiers and 1.38–1.51 mm wide in minor soldiers, and besides Yunnan the species also occurs in Hainan.",
+            "text_es": "Según el estudio de He Yinzhu y Liang Xingcai (2009), unos ejemplares recolectados el 24 de marzo de 1991 en el río Mayihe, Pingbian, Yunnan, se citaron como nuevo registro para Yunnan de Macrotermes hainanensis; los soldados mayores tienen la cabeza de 2,39–2,43 mm de anchura máxima y los soldados menores de 1,38–1,51 mm; además de en Yunnan, la especie se distribuye por Hainan."
           }
-        ]
+        ],
+        "heading_en": "A new record for Yunnan",
+        "heading_es": "Nuevo registro para Yunnan"
       }
     ],
     "references": [
@@ -810,7 +965,7 @@
     ]
   },
   "/species/macrotermes-peritrimorphus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "云南新记录与三型兵蚁",
@@ -819,9 +974,13 @@
             "text": "根据何银竹、梁醒财（2009）研究，云南屏边蚂蚁河 1991 年 3 月 24 日采得的标本被作为近三型大白蚁（Macrotermes peritrimorphus）的云南省新记录报道；该种兵蚁分大、中、小三型，大兵蚁头最宽 3.06 mm、头长至颚基 3.79 mm，除云南外还分布于广西。",
             "src": [
               "S0111"
-            ]
+            ],
+            "text_en": "According to He Yinzhu & Liang Xingcai's (2009) study, specimens collected on 24 March 1991 at Mayihe, Pingbian, Yunnan, were reported as a new record of Macrotermes peritrimorphus for Yunnan Province; the soldiers of this species are of three sizes, major, medium and minor, the major soldier having a head 3.06 mm wide and 3.79 mm long to the mandibular base, and besides Yunnan the species also occurs in Guangxi.",
+            "text_es": "Según el estudio de He Yinzhu y Liang Xingcai (2009), unos ejemplares recolectados el 24 de marzo de 1991 en el río Mayihe, Pingbian, Yunnan, se citaron como nuevo registro para Yunnan de Macrotermes peritrimorphus; los soldados de esta especie se dividen en tres tamaños —grandes, medianos y pequeños—; los soldados mayores tienen la cabeza de 3,06 mm de anchura máxima y 3,79 mm de longitud hasta la base de las mandíbulas; además de en Yunnan, se distribuye por Guangxi."
           }
-        ]
+        ],
+        "heading_en": "A new record for Yunnan and trimorphic soldiers",
+        "heading_es": "Nuevo registro para Yunnan y soldados trimórficos"
       }
     ],
     "references": [
@@ -833,7 +992,7 @@
     ]
   },
   "/species/macrotermes-trapezoides/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "云南新记录",
@@ -842,9 +1001,13 @@
             "text": "根据何银竹、梁醒财（2009）研究，云南保山下村 1982 年 10 月 25 日采得的标本被作为梯头大白蚁（Macrotermes trapezoides）的云南省新记录报道；大兵蚁头呈梯形、后缘近平直，触角 17 节、第三节长于第二节，除云南外还分布于海南。",
             "src": [
               "S0111"
-            ]
+            ],
+            "text_en": "According to He Yinzhu & Liang Xingcai's (2009) study, specimens collected on 25 October 1982 at Xiacun, Baoshan, Yunnan, were reported as a new record of Macrotermes trapezoides for Yunnan Province; the major soldier has a trapezoidal head with a nearly straight posterior margin, 17-segmented antennae, and a third antennal segment longer than the second, and besides Yunnan the species also occurs in Hainan.",
+            "text_es": "Según el estudio de He Yinzhu y Liang Xingcai (2009), unos ejemplares recolectados el 25 de octubre de 1982 en Xiacun, Baoshan, Yunnan, se citaron como nuevo registro para Yunnan de Macrotermes trapezoides; los soldados mayores tienen la cabeza trapezoidal, con el borde posterior casi recto, antenas de 17 artejos, con el tercero más largo que el segundo; además de en Yunnan, se distribuye por Hainan."
           }
-        ]
+        ],
+        "heading_en": "A new record for Yunnan",
+        "heading_es": "Nuevo registro para Yunnan"
       }
     ],
     "references": [
@@ -856,7 +1019,7 @@
     ]
   },
   "/species/cryptotermes-dudleyi/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "1949 年世界名录中的异名",
@@ -865,9 +1028,13 @@
             "text": "根据 Snyder（1949）世界白蚁名录，长颚堆砂白蚁（Cryptotermes dudleyi）由 Banks（1918）据巴拿马标本描述，名录把堆砂白蚁属的旧亚属 Planocryptotermes nocens（马尼拉）、堆砂白蚁属的旧亚属组合 Cryptotermes (Planocryptotermes) javanicus（爪哇 Buitenzorg）、木白蚁属的旧组合 Calotermes (Cryptotermes) jacobsoni（爪哇、苏门答腊）等列为该种的异名。",
             "src": [
               "S0103"
-            ]
+            ],
+            "text_en": "According to Snyder's (1949) world catalogue of termites, Cryptotermes dudleyi was described by Banks (1918) from Panama material, and the catalogue lists as synonyms of the species such names as Planocryptotermes nocens (an old subgenus of Cryptotermes; Manila), Cryptotermes (Planocryptotermes) javanicus (an old subgeneric combination of Cryptotermes; Buitenzorg, Java) and Calotermes (Cryptotermes) jacobsoni (an old combination of Kalotermes; Java, Sumatra).",
+            "text_es": "Según el catálogo mundial de termitas de Snyder (1949), Cryptotermes dudleyi fue descrita por Banks (1918) a partir de ejemplares de Panamá, y el catálogo incluye como sinónimos de la especie, entre otros, Planocryptotermes nocens (antiguo subgénero de Cryptotermes; Manila), Cryptotermes (Planocryptotermes) javanicus (antigua combinación subgenérica de Cryptotermes; Buitenzorg, Java) y Calotermes (Cryptotermes) jacobsoni (antigua combinación de Kalotermes; Java y Sumatra)."
           }
-        ]
+        ],
+        "heading_en": "Synonymy in the 1949 world catalogue",
+        "heading_es": "Sinónimos en el catálogo mundial de 1949"
       }
     ],
     "references": [

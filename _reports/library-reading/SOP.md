@@ -190,8 +190,13 @@ python _tools/library_scan.py --limit 20 --abstract 5 --focus auto --date YYYY-M
     "sections": [
       {
         "heading": "属的建立",
+        "heading_en": "Establishment of the genus",
+        "heading_es": "Establecimiento del género",
         "paragraphs": [
-          {"text": "根据……尖齿白蚁属（Acutidentitermes）……", "src": ["S0034"]}
+          {"text": "根据……尖齿白蚁属（Acutidentitermes）……",
+           "text_en": "According to … Acutidentitermes …",
+           "text_es": "Según … Acutidentitermes …",
+           "src": ["S0034"]}
         ]
       }
     ],
@@ -234,6 +239,16 @@ python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
 - 待用户确认：是（尚未写入 _data/，未提交）
 ```
 
+### 5.4 多语言（硬要求）
+
+- 每个有 `heading` 的 section 必须同时有 `heading_en`、`heading_es`；每个 paragraph 必须同时有 `text_en`、`text_es`。缺一即视为未完成，不能进入 Phase B。
+- 译文只译 `heading` / `text`，**不改** `src`、`references`、页面 key；事实、数字、年代、地名、测量值、拉丁学名必须逐项保留，拉丁名写全，不缩写属名。
+- 英文、西班牙文用学术书面语，不逐字硬译中文；中文正名不必原样搬进译文，但拉丁名必须是完整学名。旧名／异名关系要用英文或西文说明清楚。
+- 所有已提交页面和草稿都要补齐三语，不只新页面。2026-11-11 的 28 页、t3/t4b 两批 17 页都在范围内。
+- 页面上的切换是**局部按钮**：`_includes/taxon-literature.html` 同时渲染中／英／西三份文本，`assets/taxon-literature.js` 按 section 切换；不生成 `/en`、`/es` 独立分类页。
+- `draft.md` 可以只展示中文，但 `draft.json` 必须三语齐全；`check_taxon_literature.py` 会校验三语字段，缺字段直接 ERROR。
+- 校对时至少抽查：数字、年代、地名、拉丁名、旧名关系、参考文献是否与中文段一致。
+
 ## 6. Phase A：输出到对话
 
 把 `draft.md` 的**完整内容**贴到对话里（不是只给摘要），并在最后列出：
@@ -251,6 +266,7 @@ python _tools/check_taxon_literature.py --file _tmp/review/YYYY-MM-DD/draft.json
 
 - 读现有 `_data/taxon_literature.json`，按 URL 合并；保留已有 section，追加新段落。
 - 同一页面段落顺序：分类/分布在前，形态/行为/生态在后；参考文献按正文出现顺序。
+- 每个新增 section 带 `heading_en` / `heading_es`，每个新增 paragraph 带 `text_en` / `text_es`；页面 key、`src`、`references` 不动。
 - 更新 `_meta.updated` 为当天。
 - 合并后跑一次 JSON 解析检查。
 
@@ -322,6 +338,7 @@ bash _tools/regen_all.sh
 检查通过后：
 
 - 用 `office_render` 或本地预览确认至少一个属页、一个种页出现「研究记述」且参考文献正常；没有 Jekyll 时至少检查生成的 HTML/Markdown 片段。
+- 多语言检查：默认显示中文；点 English / Español 后该 section 的标题、导语、正文、参考文献标题、更新日期行都切换，中文不再显示（专名除外）；按钮 `aria-pressed` 正确；无 JS 错误。
 - 确认段末 `<!-- src:Sxxxx -->` 能被 `sources.py check --strict` 解析。
 
 ### 7.5 提交
@@ -348,6 +365,7 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
 - [ ] 每个拉丁名第一次及以后每次出现，都带中文正名（如“尖齿白蚁属（Acutidentitermes）”“奥斯本尖齿白蚁（Acutidentitermes osborni）”）；中文正名以 `_data/taxonomy.json`、`_data/species_by_genus.json`、`_species/*.md` 为准，不临时造名。
 - [ ] 属名一律写全，不写 `A. osborni`、`L. buttel-reepeni` 这类缩写；旧属／旧组合没有本站中文正名时，改写为“某属的旧异名／旧组合 + 拉丁名”，不写“无中文正名”占位，也不只留拉丁名。
 - [ ] 计数用“1 头兵蚁”“2 头工蚁”“3 头有翅成虫”，不写“一头士兵”“一只兵蚁”。
+- [ ] 每个 section 有 `heading_en` / `heading_es`，每个 paragraph 有 `text_en` / `text_es`；三语事实、数字、年代、地名、拉丁名一致。
 - [ ] 只改了 `_data/taxon_literature.json` 和本轮必要的源文件；没有手改生成页。
 
 ## 9. 故障处理
