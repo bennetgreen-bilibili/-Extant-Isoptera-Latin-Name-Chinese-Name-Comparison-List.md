@@ -180,9 +180,33 @@ def _archived_dois(root: Path) -> set:
     return seen
 
 
+def _fulltext_dois(root: Path) -> set:
+    """返回「文库里有真全文」的 DOI 集合。
+
+    判据：manifest 条目带 `book`（= 已落进 `_unpublished/文库/` 的目录名），且该条目的
+    `meta.fulltext_status` 不是 abstract-*。摘要入库的条目也算有 book，所以要靠状态区分——
+    否则人工补下全文后，旧的「abstract-blocked」条目会让这篇永远留在待人工清单里。
+    """
+    data = _load_json(root / MANIFEST_REL) or {}
+    full = set()
+    for rec in data.get("books") or []:
+        if not rec.get("book"):
+            continue
+        if _entry_fulltext_status(rec) in RETRYABLE_STATUSES:
+            continue
+        for k in _doi_keys(rec):
+            full.add(k)
+    return full
+
+
 def _retryable_dois(root: Path) -> set:
-    """返回「已存摘要、全文仍待重试」的 DOI 集合（无 OA 或下载失败）。"""
+    """返回「已存摘要、全文仍待重试」的 DOI 集合（无 OA 或下载失败）。
+
+    同一 DOI 只要有一条「真有全文」的文库记录，就不再算待重试：人工补下之后状态必须是
+    单向的（下到即可，不会因为旧的 abstract-* 条目又退回重试队列）。
+    """
     retry = set()
+    full = _fulltext_dois(root)
     for rel in (MANIFEST_REL, INDEX_REL):
         data = _load_json(root / rel)
         if not data:
@@ -192,7 +216,7 @@ def _retryable_dois(root: Path) -> set:
             if _entry_fulltext_status(rec) in RETRYABLE_STATUSES:
                 for k in _doi_keys(rec):
                     retry.add(k)
-    return retry
+    return retry - full
 
 
 def _load_papers(root: Path) -> list:
@@ -914,6 +938,135 @@ def _ingest_abstract(root: Path, item: dict, tmp_dir: Path, fulltext_status: str
     return r.returncode, r.stdout or "", r.stderr or ""
 
 
+# ---------------------------------------------------------------- 待人工获取清单
+# 每次 --write 运行后重建：把「自动下载被出版方拦掉」「OA 只有落地页、没有 PDF 直链」
+# 的条目累积成一份可照着去取的清单。拿到全文后（本轮下载成功，或本地 library-add 入库）
+# 该条会在下一轮自动消失。
+
+MANUAL_REL = "_data/fulltext_manual.json"       # 结构化清单（进仓库；每轮合并）
+MANUAL_MD_REL = "_tools/manual_fulltext.md"     # 同一份清单的 Markdown 视图（进仓库）
+MANUAL_REASONS = ("blocked", "no-pdf-link")     # 只收「OA 存在但自动下载拿不到」的两类
+
+_HOST_LABELS = {
+    "downloads.hindawi.com": "Hindawi（旧域名，已迁移 Wiley）",
+    "onlinelibrary.wiley.com": "Wiley",
+    "academic.oup.com": "Oxford Academic",
+    "link.springer.com": "Springer",
+    "www.sciencedirect.com": "ScienceDirect",
+    "www.tandfonline.com": "Taylor & Francis",
+    "www.biodiversitylibrary.org": "BHL",
+    "bioone.org": "BioOne",
+    "royalsocietypublishing.org": "Royal Society",
+    "www.jstor.org": "JSTOR",
+    "journals.flvc.org": "Florida Entomologist（FLVC）",
+    "doi.org": "doi.org 解析页",
+    "hdl.handle.net": "handle.net 解析页",
+}
+
+_MANUAL_HINTS = (
+    ("10.5962/", "BHL 条目页（biodiversitylibrary.org/item/…），同一册常在 archive.org 有扫描本"),
+    ("10.1206/", "AMNH 数字图书馆 digitallibrary.amnh.org（Novitates 系列多数免费）"),
+    ("10.1653/", "Florida Entomologist 存档 journals.flvc.org，或 archive.org 同名卷期"),
+    ("10.1155/", "Hindawi 旧刊已迁 Wiley；先试 PMC / Europe PMC 副本，再 archive.org"),
+    ("10.1093/", "Oxford Academic，需机构网络；生物医学类可先试 PMC"),
+    ("10.1111/", "Wiley，需机构网络；分类学类可先试 BHL 的散见抽印本"),
+    ("10.1016/", "Elsevier（ScienceDirect），需机构网络；可试作者主页 / 机构库"),
+)
+
+
+def _manual_hint(doi: str) -> str:
+    d = _norm_doi(doi or "")
+    for prefix, hint in _MANUAL_HINTS:
+        if d.startswith(prefix):
+            return hint
+    return "出版社站点（需机构网络），或 archive.org / 馆际互借"
+
+
+def _hosts_label(hosts: list) -> str:
+    if not hosts:
+        return ""
+    return " / ".join(_HOST_LABELS.get(h, h) for h in hosts[:3])
+
+
+def _load_manual(root: Path) -> dict:
+    doc = _load_json(root / MANUAL_REL)
+    if isinstance(doc, dict) and isinstance(doc.get("items"), list):
+        items = {_norm_doi(it.get("doi") or ""): it for it in doc["items"]
+                 if isinstance(it, dict) and it.get("doi")}
+        doc["_by_key"] = items
+        return doc
+    return {"items": [], "updated_at": ""}
+
+
+def _merge_manual(root: Path, seen: list, archived: set) -> tuple:
+    """本轮新判定的条目并入既有清单；已拿到全文的移出。返回 (entries, prev_doc)。"""
+    prev = _load_manual(root)
+    by_key = dict(prev.get("_by_key") or {})
+    now = time.time()
+    for e in seen:
+        k = _norm_doi(e["doi"])
+        old = by_key.get(k) or {}
+        e["first_seen"] = old.get("first_seen") or now
+        e["attempts"] = int(old.get("attempts") or 0) + 1
+        by_key[k] = e
+    keep = [e for k, e in by_key.items() if k not in archived]
+    keep.sort(key=lambda e: (MANUAL_REASONS.index(e.get("reason"))
+                             if e.get("reason") in MANUAL_REASONS else 9,
+                             -(e.get("cited_by") or 0), -(e.get("year") or 0), e.get("doi") or ""))
+    return keep, prev
+
+
+def _manual_md(entries: list, stamp: str) -> str:
+    blocked = sum(1 for e in entries if e.get("reason") == "blocked")
+    linkless = sum(1 for e in entries if e.get("reason") == "no-pdf-link")
+    out = ["# 待人工获取清单（自动生成，勿手改）", "",
+           "由 `_tools/fetch_fulltext.py` 在每次抓取后重建：收录**自动下载已被出版方拦掉**、",
+           "或**OA 只给落地页而没有 PDF 直链**的文献。拿到全文后（下一轮自动下到，或本地",
+           "`library-add` 入库）该条会自动从清单里消失，不需要手工删。",
+           "查不到任何 OA 全文的条目不在本表（那是「没有合法 OA」，只能走图书馆），",
+           "它们的标记在 `.sources` 的 `fulltext_status = abstract-no-oa`。", "",
+           "- 更新时间：" + (stamp or "—") + "（清单内容不变时不刷新）",
+           "- 共 **" + str(len(entries)) + "** 条：站点拦截 " + str(blocked)
+           + " ／ 仅有落地页 " + str(linkless),
+           "- 结构化版本：`_data/fulltext_manual.json`（同一次运行写出的同一份数据）", "",
+           "| # | 引用 | 年 | 标题 | DOI | 上次撞到的站点 | 建议取法 |",
+           "| --- | --- | --- | --- | --- | --- | --- |"]
+    for i, e in enumerate(entries, 1):
+        title = " ".join(str(e.get("title") or "").split())
+        if len(title) > 95:
+            title = title[:94] + "…"
+        title = title.replace("|", "\\|")
+        doi = e.get("doi") or ""
+        out.append("| " + str(i) + " | " + str(e.get("cited_by") or 0) + " | "
+                   + str(e.get("year") or "") + " | " + title + " | "
+                   + "[" + doi + "](https://doi.org/" + doi + ") | "
+                   + _hosts_label(e.get("hosts") or []).replace("|", "\\|") + " | "
+                   + _manual_hint(doi).replace("|", "\\|") + " |")
+    out += ["", "## 怎么用这张表", "",
+            "1. 按「引用」从高到低处理（表已排好序：先站点拦截、后仅有落地页）。",
+            "2. 拿到 PDF 后在本地跑 `python _tools/sources.py library-add --file <pdf> --title \"…\" --doi <doi> …`，",
+            "   入库即从本站与清单里消失；CI 下一轮也不会再下载。",
+            "3. 拿不到就让它留着——拦站点已进 `_data/fulltext_hosts.json` 的 120 天冷却，不会拖慢抓取。",
+            "4. 不要手工编辑本文件：下次 `--write` 会用 `_data/fulltext_manual.json` 覆盖它。"]
+    return "\n".join(out) + "\n"
+
+
+def _write_manual(root: Path, entries: list, prev: dict) -> None:
+    prev_items = json.dumps(prev.get("items") or [], ensure_ascii=False, sort_keys=True)
+    items_txt = json.dumps(entries, ensure_ascii=False, sort_keys=True)
+    stamp = prev.get("updated_at") or ""
+    if not stamp or items_txt != prev_items:
+        stamp = time.strftime("%Y-%m-%d %H:%M", time.localtime())
+    doc = {"updated_at": stamp, "count": len(entries),
+           "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。"
+                   "不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
+           "items": entries}
+    _save_json(root / MANUAL_REL, doc)
+    md_path = root / MANUAL_MD_REL
+    md_path.parent.mkdir(parents=True, exist_ok=True)
+    md_path.write_text(_manual_md(entries, stamp), encoding="utf-8", newline="\n")
+
+
 def run_check(root: Path, args) -> int:
     archived = _archived_dois(root)
     papers = _load_papers(root)
@@ -981,12 +1134,15 @@ def run_write(root: Path, args) -> int:
     cache = _load_json(root / args.cache)
     if not isinstance(cache, dict):
         cache = {}
+    archived0 = set(archived)      # 起跑时已有的全文；收尾合并待人工清单时用它算「已解决」
+    fulltext_ok = set()            # 本轮真正下到全文的 DOI（摘要入库不算）
     budget = Budget(args.time_budget)
     hosts = _load_hosts(root)
     tmp_dir = root / args.tmp
     tmp_dir.mkdir(parents=True, exist_ok=True)
     processed = archived_ok = abstract_ok = skipped = recent = no_oa = errors = scanned = 0
     blocked_n = transient_n = linkless_n = 0
+    manual_seen = []      # 本轮判定「拿不到 = 需要人工」的条目，收尾时并入待人工获取清单
     for it in queue:
         if not isinstance(it, dict) or not it.get("doi"):
             continue
@@ -1077,6 +1233,23 @@ def run_write(root: Path, args) -> int:
             days = NEXT_TRY_DAYS.get(status, 60)
             tried_txt = " / ".join((u.split("://")[-1][:70] + "→" + str(r))
                                    for u, r in (report.get("tried") or []))
+            if reason in ("blocked", "html-page", "no-pdf-link"):
+                # 这两类不是「再等等就好」的失败：出版方按 IP 拦、或 OA 只有落地页。
+                # 写进待人工获取清单，人照着取；站点已进冷却，不会再每周重撞。
+                manual_seen.append({
+                    "doi": doi,
+                    "title": (meta.get("title") or it.get("title") or "").strip()[:200],
+                    "year": meta.get("year") or it.get("year") or "",
+                    "venue": meta.get("venue") or it.get("venue") or "",
+                    "publisher": meta.get("publisher") or it.get("publisher") or "",
+                    "cited_by": it.get("cited_by") or 0,
+                    "landing": meta.get("landing") or ("https://doi.org/" + key),
+                    "reason": "blocked" if reason in ("blocked", "html-page") else "no-pdf-link",
+                    "hosts": sorted({_host_of(u) for u, _ in (report.get("tried") or []) if _host_of(u)}),
+                    "tried": [u for u, _ in (report.get("tried") or [])][:5],
+                    "last_result": tried_txt[:300],
+                    "last_tried": time.time(),
+                })
             if key in retryable:
                 errors += 1
                 cache[key] = dict(prev or {}, status=status, attempted_at=time.time(),
@@ -1149,6 +1322,7 @@ def run_write(root: Path, args) -> int:
         if rc == 0:
             archived_ok += 1
             archived.add(key)
+            fulltext_ok.add(key)
             cache[key] = {"status": "ok", "source": meta.get("source"), "kind": meta.get("kind"),
                           "url": meta.get("url"), "attempted_at": time.time()}
             print("[fulltext]   已归档（" + str(meta.get("source")) + " " + str(meta.get("kind")).upper() + "）")
@@ -1164,6 +1338,14 @@ def run_write(root: Path, args) -> int:
         time.sleep(POLITE_DELAY)
     _save_hosts(root, hosts)
     _save_json(root / args.cache, cache)
+    # 待人工获取清单：每轮 --write 都重建（不只是本轮失败的，历史列表会累积到全部解决为止）
+    if not args.dry_run:
+        resolved = archived0 | fulltext_ok
+        entries, prev = _merge_manual(root, manual_seen, resolved)
+        _write_manual(root, entries, prev)
+        print("[fulltext] 待人工获取 " + str(len(entries)) + " 条（本轮新增 "
+              + str(len(manual_seen)) + "）→ " + MANUAL_MD_REL
+              + " ／ " + MANUAL_REL)
     print("[fulltext] 完成：处理 " + str(processed) + "，归档全文 " + str(archived_ok)
           + "，存档摘要 " + str(abstract_ok)
           + "，扫描件跳过 " + str(scanned)

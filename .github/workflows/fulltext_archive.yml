@@ -116,8 +116,10 @@ jobs:
         id: commit
         run: |
           git add .library-vault/ .sources/
-          # 站点冷却表：fetch 步骤会写；万一该步骤提前失败仍要让本步不报错
+          # 站点冷却表 + 待人工获取清单：fetch 步骤会写；万一该步骤提前失败仍要让本步不报错
           git add -- _data/fulltext_hosts.json 2>/dev/null || true
+          git add -- _data/fulltext_manual.json 2>/dev/null || true
+          git add -- _tools/manual_fulltext.md 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "no archive changes to commit"
             exit 0
