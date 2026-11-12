@@ -407,6 +407,22 @@ git commit -m "content: add literature notes from library reading YYYY-MM-DD"
   ```
 
   `library_scan.py scan` 会把这些 id 标出来（`summary.json` 的 `refetch_pending` 与命令输出），并**把本轮没被正常选中的条目追加在单元末尾**（不插队、不占 20 个名额，`units.json` 里 `"extra": true`；`summary.json` 的 `refetch_extra` 列出）。抓新论文仍是第一优先，但**重抓每轮都要做**：追加进来的单元本轮必须真去重抓（下载可读版本 → `library-add` → 读新全文），抓不到就在 `notes.md` 写原因。本轮仍要读它的可读部分（标题、摘要），正文按「据摘要」或整条记 `rejected`，**不 mark 全文已读**。重新下载可读版本 `library-add` 成功后，把该条 `status` 改为 `done`（不要删条目），并在 `notes.md` 记下新的全文块路径。
+
+#### 9.1 乱码 PDF 用本机 Tesseract 做 OCR（不要直接放弃）
+
+本机**已装 Tesseract**（`C:\Program Files\Tesseract-OCR\tesseract.exe`，没加进 PATH，必须写全路径；语言包只有 `eng` + `osd`）。PDF 文本层是自定义字形编码、`pdf_extract_text` 抽出整篇乱码时（典型：欧洲昆虫学杂志、部分老期刊），按下面流程 OCR，不要因为「文本层坏了」就把整篇标 rejected：
+
+```powershell
+# 1. 先用 PyMuPDF 渲染 300 dpi，再逐页调用 tesseract（_tmp/ocr_<sid>.py 可复用）
+python -c "import pymupdf,subprocess,pathlib; d=pymupdf.open('_tmp/x.pdf'); [ (d[i].get_pixmap(dpi=300).save('_tmp/ocr/p%02d.png'%(i+1)), subprocess.run([r'C:\Program Files\Tesseract-OCR\tesseract.exe','_tmp/ocr/p%02d.png'%(i+1),'_tmp/ocr/p%02d'%(i+1),'-l','eng','--psm','3','--dpi','300'])) for i in range(d.page_count) ]"
+# 2. 用换页符 \f 拼成一整篇（文库按 \f 分页），写成 _tmp/<sid>_ocr.txt
+# 3. 同时给 PDF 与 OCR 文本入库：--file 记原件、--text 用 OCR 文本、--no-copy 不重复复制 PDF
+python _tools/sources.py library-add --file _tmp/x.pdf --text _tmp/x_ocr.txt --no-copy --title "…" --kind paper --reliability peer_reviewed --doi … --year … --lang en --authors "…" --notes "OCR via Tesseract 300 dpi；原 PDF 文本层为自定义编码"
+```
+
+- `library-add` 按 DOI 合并回原记录，`file_path` 会指向新的 OCR 文本目录；旧的乱码目录要删掉，并从 `_unpublished/文库/manifest.json` 里去掉对应条目，否则同一作品在文库里有两份。
+- OCR 文本是**二次转写**：希腊字母、上下标、表格数字、种加词容易错（如 `auctorum`、`×`、`µm`、`sp. n.`）。写页面时只取版面清楚、语义自洽的句子，量度和新分类单元名必须回到页面图像核对；拿不准就标「待核」，不要凭 OCR 猜测。
+- OCR 成功后把 `refetch.json` 的该条改 `status: "done"`，加 `"resolved": "YYYY-MM-DD"` 与一句 `"resolution"`（OCR 页数、字符数、新 `file_path`），条目保留不删。
 - **来源记录找不到**：先 `sources.py list` 按 `library.book` 找；确实没有就补一条 `library-add` 或 `add`，不要空着 `src`。
 - **`sources.py check` 报 E010**：说明正文引用了未存档 id；补存档或删掉该引用。
 - **旧名对应不到当前页面**：查 `species_authority`／`synonym_pairs`；仍不确定就在草稿里标「待核」，不要硬写。

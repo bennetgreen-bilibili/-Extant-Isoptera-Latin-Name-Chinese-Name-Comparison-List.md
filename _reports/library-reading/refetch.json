@@ -6,12 +6,14 @@
       "id": "S0205",
       "title": "Ultrastructure of the frontal gland in Prorhinotermes simplex (Isoptera: Rhinotermitidae) and quantity of the defensive substance",
       "doi": "10.14411/eje.2004.020",
-      "reason": "出版社 PDF（eje.cz/pdfs/eje/2004/01/20.pdf）文本层为自定义字形编码，pdf_extract_text 与文库 full.txt 均整篇乱码；2026-11-13 重新下载后抽取结果仍乱码，本机无 OCR 工具。需 OCR 或有文字层的副本。",
+      "reason": "出版社 PDF（eje.cz/pdfs/eje/2004/01/20.pdf）文本层为自定义字形编码，pdf_extract_text 与文库 full.txt 均整篇乱码。",
       "requested": "2026-11-12",
       "requested_by": "user (m00939)",
-      "attempts": 1,
+      "attempts": 2,
       "last_attempt": "2026-11-13",
-      "status": "pending"
+      "status": "done",
+      "resolved": "2026-11-13",
+      "resolution": "用本机 Tesseract（C:\\Program Files\\Tesseract-OCR\\tesseract.exe）+ PyMuPDF 300 dpi 逐页 OCR，11 页、42539 字符；library-add --file PDF --text OCR --no-copy 合并回 S0205，file_path=_unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter（full.txt）；旧的乱码目录 10.14411-eje.2004.020 已删除、manifest 条目已去掉。"
     }
   ]
 }

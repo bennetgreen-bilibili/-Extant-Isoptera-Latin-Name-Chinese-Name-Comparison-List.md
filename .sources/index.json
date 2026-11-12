@@ -3,7 +3,7 @@
     "version": 1,
     "count": 433,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-13T00:16:31+08:00",
+    "updated": "2026-11-13T00:22:47+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -11488,25 +11488,25 @@
       "source_type": "paper",
       "reliability": "peer_reviewed",
       "canonical_key": "doi:10.14411/eje.2004.020",
-      "file_path": "_unpublished/文库/10.14411-eje.2004.020",
-      "chars": 55883,
-      "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-13T00:15:44+08:00",
-      "notes": "全文存于 _unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter（11 页，41962 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。 refetch 2026-11-13：重新下载出版社 PDF（eje.cz/pdfs/eje/2004/01/20.pdf，3.6 MB）后重新抽取，文本层仍是自定义字形编码，整篇乱码，与旧文件同；本机无 OCR 工具，未取得可读全文。需 OCR 或改换有文字层的副本后再 library-add。",
+      "file_path": "_unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter",
+      "chars": 42539,
+      "retrieved_via": "文库（外部文本（--text））",
+      "accessed": "2026-11-13T00:21:22+08:00",
+      "notes": "全文存于 _unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter（42539 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OCR via Tesseract 300 dpi；PDF 文本层为自定义字形编码，原始抽取为乱码。 2026-11-13 已从 OCR 全文补 4 条逐字摘录（Abstract）。",
       "library": {
         "book": "Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-13T00:15:44",
+        "generated": "2026-11-13T00:21:22",
         "chunks": [
           {
-            "chunk": "0001-0011",
-            "txt": "_unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter/0001-0011.txt",
-            "chars": 41962,
-            "paragraphs": 533,
+            "chunk": "full",
+            "txt": "_unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter/full.txt",
+            "chars": 42539,
+            "paragraphs": 953,
             "table_rows": 0,
             "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\sobotnik2004.pdf",
-            "sha256": "8c1f335836c717d53db5d989e66c639a3aa2b3d560c17164e6bcf40d7254be13",
-            "bytes": 41962
+            "sha256": "63b9305aaaeafde2811b6ae08910a57b06bd544bffb225af7735f2f5207cf368",
+            "bytes": 42729
           }
         ]
       },
@@ -11524,7 +11524,28 @@
       "doi": "10.14411/eje.2004.020",
       "url": "http://www.eje.cz/doi/10.14411/eje.2004.020.pdf",
       "used_in": [],
-      "evidence": [],
+      "evidence": [
+        {
+          "quote": "The frontal gland as a sac-like organ in Prorhinotermes simplex is present only in presoldiers, soldiers, and imagoes, but\nexists also in nymph-soldier intercastes.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑：额腺仅见于前兵蚁、兵蚁、成虫与若虫—兵蚁中间品级，为囊状器官。"
+        },
+        {
+          "quote": "The secretory epithelium consists of a single type of secretory cells adhering directly to the\ncuticular intima.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑：分泌上皮为单型分泌细胞，直接附着于角质层内膜。"
+        },
+        {
+          "quote": "In soldiers, the cuticular intima is of endocuticular origin and is formed by dispersed dense\nmaterial; the apical parts of secretory cells are formed by numerous irregular finger-like projections, true microvilli are completely",
+          "locator": "Abstract / full.txt",
+          "note": "支撑：兵蚁内膜源自内角质层，顶面具不规则指状突起、无真正微毛。"
+        },
+        {
+          "quote": "E-1-nitropentadecene was found in the highest amount in soldiers",
+          "locator": "Abstract / full.txt",
+          "note": "支撑：E-1-十五碳烯在兵蚁中含量最高（与 P. inopinatus 兵蚁相当）。"
+        }
+      ],
       "id": "S0205"
     },
     {
