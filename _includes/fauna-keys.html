@@ -55,7 +55,7 @@
 {%- assign t_omitted2 = "。" -%}
 {%- endif -%}
 <section class="taxon-section fauna-keys" id="fauna-keys" lang="{{ page.lang | default: 'zh-CN' }}">
-<h2>{{ t_h2 }}</h2>
+<h2 id="fauna-keys-heading">{{ t_h2 }}</h2>
 {%- if fk_n > 0 -%}
 {%- if page.lang == 'en' -%}
 <p class="fauna-lead">Every key on this page states its source table by table. {% if has_hel %}The order-level key to families and subfamilies, and the key to subfamilies of Termitidae, are translated from the molecular supplement of Hellemans et al. (2024); the 13-family classification adopted there is linked from the family pages. {% endif %}{% if has_tre %}The world key to the genera of Kalotermitidae is translated from Krishna et al. (2013), <i>Treatise on the Isoptera of the World</i>, pp. 75–78, with separate keys for alates and soldiers; the fossil genera †Proelectrotermes and †Electrotermes are not treated on this site and are listed by name only, without links. {% endif %}Measurements and figure numbers are generally omitted. For the terminology used in the keys (mandible, fontanelle, tarsus, tibial spur, wing scale and so on), see <a href="{{ site.base_url }}{{ LP }}/basics/">Termite basics</a>.</p>
