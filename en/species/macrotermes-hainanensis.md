@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Wuzhi Mt"
 distribution_zh: "中国海南、云南（屏边）"
 distribution_en: "China (Hainan); Yunnan (Pingbian), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

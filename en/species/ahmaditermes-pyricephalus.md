@@ -26,7 +26,6 @@ type_locality: "Bangladesh: Adampur"
 distribution_zh: "湖南（宜章）、孟加拉国、印度"
 distribution_en: "Hunan (Yizhang), Bangladesh, India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

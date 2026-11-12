@@ -11,7 +11,6 @@ permalink: /en/genus/tetimatermes/
 sitemap: true
 has_map: true
 taxon_search: true
-translation_pending: true
 breadcrumb:
   - name: "Checklist"
     url: "/en/list/"

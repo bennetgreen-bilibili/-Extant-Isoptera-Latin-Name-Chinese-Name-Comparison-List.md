@@ -26,7 +26,6 @@ type_locality: "Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) [ 9.60
 distribution_zh: "南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥"
 distribution_en: "South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -10,7 +10,6 @@ last_modified_at: 2026-10-30
 permalink: /es/genus/bicornitermes/
 sitemap: true
 taxon_search: true
-translation_pending: true
 image: "/assets/images/kalotermitidae.jpg"
 breadcrumb:
   - name: "Listado"

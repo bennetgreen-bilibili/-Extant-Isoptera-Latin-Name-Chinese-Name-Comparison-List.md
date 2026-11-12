@@ -25,7 +25,6 @@ distribution_en: "northern Australia, tropical northern region, introduced: Papu
 synonym_count: 1
 synonyms: "Termes errabundus Froggatt, 1898: 733"
 synonym_localities: "Australia: Queensland: north Queensland"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

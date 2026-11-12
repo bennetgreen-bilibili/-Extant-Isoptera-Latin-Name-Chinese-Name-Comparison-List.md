@@ -11,7 +11,6 @@ permalink: /en/genus/eucryptotermes/
 sitemap: true
 has_map: true
 taxon_search: true
-translation_pending: true
 image: "/assets/images/kalotermitidae.jpg"
 breadcrumb:
   - name: "Checklist"

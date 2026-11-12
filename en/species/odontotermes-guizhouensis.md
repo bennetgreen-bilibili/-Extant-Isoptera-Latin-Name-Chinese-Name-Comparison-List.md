@@ -26,7 +26,6 @@ type_locality: "China: Guizhou Province: Panxian Tequ"
 distribution_zh: "中国贵州"
 distribution_en: "China (Guizhou)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

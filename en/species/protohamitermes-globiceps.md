@@ -26,7 +26,6 @@ type_locality: "Malaysia: Sarawak"
 distribution_zh: "文莱、印度尼西亚、马来西亚"
 distribution_en: "Brunei, Indonesia, Malaysia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

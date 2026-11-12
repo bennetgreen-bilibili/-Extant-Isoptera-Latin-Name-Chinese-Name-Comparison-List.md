@@ -26,7 +26,6 @@ type_locality: "Brasil: Piauí: Corrente, Fazenda Maracujá [10.348S 45.166W]"
 distribution_zh: "巴西"
 distribution_en: "Brazil"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

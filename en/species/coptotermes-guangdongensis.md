@@ -25,7 +25,6 @@ distribution_en: "China (Guangdong)"
 synonym_count: 1
 synonyms: "Coptotermes pingi Myles, 1990: 813"
 synonym_localities: "China: Guangdong Province: Guangzhou"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

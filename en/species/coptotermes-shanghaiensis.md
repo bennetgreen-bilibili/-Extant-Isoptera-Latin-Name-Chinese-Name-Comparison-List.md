@@ -23,7 +23,6 @@ type_locality: "China: Shanghai"
 distribution_zh: "中国上海"
 distribution_en: "Shanghai, China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "South Africa: Transvaal: the Moretele, Pienaars River"
 distribution_zh: "南非"
 distribution_en: "South Africa"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

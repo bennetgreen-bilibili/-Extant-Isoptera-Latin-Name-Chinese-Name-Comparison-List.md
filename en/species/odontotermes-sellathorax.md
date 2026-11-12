@@ -26,7 +26,6 @@ type_locality: "China: Sichuan Province: Bishan"
 distribution_zh: "四川（璧山）、中国"
 distribution_en: "Sichuan (Bishan), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

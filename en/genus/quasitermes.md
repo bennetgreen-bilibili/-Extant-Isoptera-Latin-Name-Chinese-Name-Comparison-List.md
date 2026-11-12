@@ -11,7 +11,6 @@ permalink: /en/genus/quasitermes/
 sitemap: true
 has_map: true
 taxon_search: true
-translation_pending: true
 breadcrumb:
   - name: "Checklist"
     url: "/en/list/"

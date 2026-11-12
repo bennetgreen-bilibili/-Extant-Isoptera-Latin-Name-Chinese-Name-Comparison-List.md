@@ -11,7 +11,6 @@ permalink: /es/genus/grigiotermes/
 sitemap: true
 has_map: true
 taxon_search: true
-translation_pending: true
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"

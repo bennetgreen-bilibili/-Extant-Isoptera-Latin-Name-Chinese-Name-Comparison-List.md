@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Yangambi"
 distribution_zh: "刚果（金）、刚果（布）、喀麦隆、加蓬"
 distribution_en: "Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

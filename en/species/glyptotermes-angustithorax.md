@@ -23,7 +23,6 @@ type_locality: "China: Hainan"
 distribution_zh: "中国海南"
 distribution_en: "China (Hainan)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

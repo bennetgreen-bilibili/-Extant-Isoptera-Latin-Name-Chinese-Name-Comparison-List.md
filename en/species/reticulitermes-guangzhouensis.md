@@ -25,7 +25,6 @@ distribution_en: "China"
 synonym_count: 1
 synonyms: "Reticulitermes dichrous Ping, 1985: 324-325, 328"
 synonym_localities: "China: Guangdong Province: Dinghu Mountain: Zhaoqing City"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -28,7 +28,6 @@ distribution_en: "China, Vietnam"
 synonym_count: 1
 synonyms: "Peribulbitermes jinghongensis Li, 1985: 96-97, 100"
 synonym_localities: "China: Yunnan Province: Jinghong: Xishuangbanna"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

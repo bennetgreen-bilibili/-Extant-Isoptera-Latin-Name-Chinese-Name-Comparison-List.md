@@ -26,7 +26,6 @@ type_locality: "South Africa: Cape Province: Wolftoon, Namaqualand"
 distribution_zh: "南非、纳米比亚"
 distribution_en: "South Africa, Namibia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

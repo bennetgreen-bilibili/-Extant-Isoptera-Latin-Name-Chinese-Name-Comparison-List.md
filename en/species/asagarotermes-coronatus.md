@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabe
 distribution_zh: "刚果（金）加丹加、喀麦隆、刚果民主共和国"
 distribution_en: "Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

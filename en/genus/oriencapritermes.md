@@ -10,7 +10,6 @@ last_modified_at: 2026-10-30
 permalink: /en/genus/oriencapritermes/
 sitemap: true
 taxon_search: true
-translation_pending: true
 breadcrumb:
   - name: "Checklist"
     url: "/en/list/"

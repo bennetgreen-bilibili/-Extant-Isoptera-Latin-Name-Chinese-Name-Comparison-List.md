@@ -26,7 +26,6 @@ type_locality: "Brasil: Rondônia: Porto Velho, Jaci Paraná [ 8.76194S 63.9039W
 distribution_zh: "南美洲"
 distribution_en: "South America"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

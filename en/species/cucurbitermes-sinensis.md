@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Province: Longsheng County: Huaping forest"
 distribution_zh: "中国、广东"
 distribution_en: "China, Guangdong"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

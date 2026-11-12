@@ -28,7 +28,6 @@ distribution_en: "China"
 synonym_count: 1
 synonyms: "Pseudocapritermes largus Li & Huang, 1986: 29"
 synonym_localities: "China: Meihuashan"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

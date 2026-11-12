@@ -26,7 +26,6 @@ type_locality: "Guyana: Cuyuni-Mazaruni: Penal Settlement [6.4N 58.658W]"
 distribution_zh: "巴西、法属圭亚那、哥伦比亚"
 distribution_en: "Brazil, French Guiana, Colombia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

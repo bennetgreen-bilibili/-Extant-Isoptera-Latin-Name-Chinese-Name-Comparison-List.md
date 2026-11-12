@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Jinghong"
 distribution_zh: "中国云南、小勐仑、海南、兴隆、广西、凭祥"
 distribution_en: "Yunnan, China, Xiaomenglun, Hainan, Xinglong, Guangxi, Pingxiang"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

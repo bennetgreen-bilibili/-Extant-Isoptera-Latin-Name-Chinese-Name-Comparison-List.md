@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: ChinPing"
 distribution_zh: "云南（金平猛喇390 m）、中国"
 distribution_en: "Yunnan (Jinping Mengla390 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

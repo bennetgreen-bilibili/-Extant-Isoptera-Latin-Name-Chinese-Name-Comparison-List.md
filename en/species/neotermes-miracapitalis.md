@@ -23,7 +23,6 @@ type_locality: "China: Yunnan Province: Jinping"
 distribution_zh: "云南（金平）"
 distribution_en: "Yunnan (Jinping)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

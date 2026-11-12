@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Hainan Island"
 distribution_zh: "海南（兴隆）"
 distribution_en: "Hainan (Xinglong)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

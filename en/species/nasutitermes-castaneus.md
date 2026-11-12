@@ -26,7 +26,6 @@ type_locality: "Philippines: Luzon: Laguna Province: Sarai near Paete; Panay: An
 distribution_zh: "菲律宾"
 distribution_en: "Philippines"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Province: Beihai outskirts"
 distribution_zh: "中国广西、北海"
 distribution_en: "Guangxi, China, Beihai"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

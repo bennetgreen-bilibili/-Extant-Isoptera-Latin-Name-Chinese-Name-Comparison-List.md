@@ -26,7 +26,6 @@ type_locality: "India: Arunachal Pradesh: Siang District: Yambung"
 distribution_zh: "中国、印度"
 distribution_en: "China, India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

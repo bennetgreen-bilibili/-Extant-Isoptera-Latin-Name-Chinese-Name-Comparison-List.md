@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Yingde"
 distribution_zh: "中国、广东、江西、湖南"
 distribution_en: "China, Guangdong, Jiangxi, Hunan"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

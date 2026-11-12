@@ -25,7 +25,6 @@ distribution_en: "North America, United States, Mexico"
 synonym_count: 1
 synonyms: "Cryptotermes infumatus Banks, 1920: 38-39"
 synonym_localities: "United States: Texas: Cotula"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

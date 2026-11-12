@@ -26,7 +26,6 @@ type_locality: "India: Assam: Garo Hills District: Rongrengiri"
 distribution_zh: "不丹、中国、印度"
 distribution_en: "Bhutan, China, India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

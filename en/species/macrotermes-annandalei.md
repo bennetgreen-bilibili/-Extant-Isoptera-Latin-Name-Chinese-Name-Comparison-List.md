@@ -26,7 +26,6 @@ type_locality: "Myanmar: Lower Myanmar: Moulmein"
 distribution_zh: "东南亚、东亚、泰国、越南、柬埔寨、老挝、中国、印度、缅甸"
 distribution_en: "Southeast Asia, East Asia, Thailand, Vietnam, Cambodia, Laos, China, India, Myanmar"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

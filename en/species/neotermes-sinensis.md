@@ -23,7 +23,6 @@ type_locality: "China: Guangdong Province: West River: Ting Wu Shan Monastery"
 distribution_zh: "中国、广东"
 distribution_en: "China, Guangdong"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

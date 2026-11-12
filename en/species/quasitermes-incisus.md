@@ -28,7 +28,6 @@ distribution_en: "Madagascar"
 synonym_count: 1
 synonyms: "Quasitermes caprinus Emerson, 1950: 10-13"
 synonym_localities: "Madagascar: Manantantely, near Tolanaro"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

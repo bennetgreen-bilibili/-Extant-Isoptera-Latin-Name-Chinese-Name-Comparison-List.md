@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Province: Longzhou"
 distribution_zh: "中国广西、龙州"
 distribution_en: "Guangxi, China, Longzhou"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

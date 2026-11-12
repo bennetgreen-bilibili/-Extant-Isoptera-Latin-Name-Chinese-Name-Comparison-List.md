@@ -26,7 +26,6 @@ type_locality: "China: Guizhou Province: Congjiang Xiang"
 distribution_zh: "贵州（从江）。"
 distribution_en: "Guizhou (Congjiang)."
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

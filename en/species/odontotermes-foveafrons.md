@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Yangwu"
 distribution_zh: "云南（大勐龙、橄榄坝、思茅）、中国"
 distribution_en: "Yunnan (Damenglong, Ganlanba, Simao), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Jinghong County: Ganlanba"
 distribution_zh: "云南（景洪500m）"
 distribution_en: "Yunnan (Jinghong 500m)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

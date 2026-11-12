@@ -23,7 +23,6 @@ type_locality: "China: Zhejiang Province: Longquan County: Ruixiang Commune"
 distribution_zh: "中国"
 distribution_en: "China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

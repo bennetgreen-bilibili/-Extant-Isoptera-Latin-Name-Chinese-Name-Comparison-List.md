@@ -28,7 +28,6 @@ distribution_en: "Tibet, China, Medog"
 synonym_count: 1
 synonyms: "Macrotermes medogensis Han, 1990: 175-178"
 synonym_localities: "China: Tibet: Medog"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

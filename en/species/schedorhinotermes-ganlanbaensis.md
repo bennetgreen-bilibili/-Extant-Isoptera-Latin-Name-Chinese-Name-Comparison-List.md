@@ -23,7 +23,6 @@ type_locality: "China: Yunnan Province: Jinghong"
 distribution_zh: "中国云南"
 distribution_en: "China (Yunnan)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -28,7 +28,6 @@ distribution_en: "Old World tropics, Taiwan, China, China, Macau, China, Hong Ko
 synonym_count: 3
 synonyms: "Odontotermes formosanus Holmgren, 1912: 127-129; Odontotermes ( Cyclotermes ) sinensis Holmgren, 1913: 115-116; Odontotermes qianyangensis Lin, 1981: 426-427"
 synonym_localities: "China: Canton; Fujian Province: Fuzhou (Foochow); Hong Kong; Taiwan: Tamsui; Thailand: Bangkok; China: Canton; Fujian Province: Fuzhou (Foochow); Hong Kong; Thailand: ?Avisoville; Bangkok; China: Hunan Province: Qianyang County"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

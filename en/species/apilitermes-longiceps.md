@@ -26,7 +26,6 @@ type_locality: "Cameroon: Victoria"
 distribution_zh: "旧热带界、刚果、尼日利亚"
 distribution_en: "Old World tropics, Congo, Nigeria"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

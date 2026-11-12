@@ -26,7 +26,6 @@ type_locality: "Brasil: São Paulo: Macatuba [ 22.5022S 48.7114W ]"
 distribution_zh: "巴西"
 distribution_en: "Brazil"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

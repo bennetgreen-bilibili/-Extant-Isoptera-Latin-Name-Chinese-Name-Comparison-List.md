@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Cheli"
 distribution_zh: "东南亚越南、中国"
 distribution_en: "Southeast Asia, Vietnam, China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

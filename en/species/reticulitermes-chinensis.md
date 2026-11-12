@@ -23,7 +23,6 @@ type_locality: "China: Sichuan Province: Suifu"
 distribution_zh: "中国、印度、越南"
 distribution_en: "China, India, Vietnam"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

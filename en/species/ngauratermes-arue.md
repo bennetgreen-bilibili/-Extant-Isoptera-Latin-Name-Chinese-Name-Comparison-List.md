@@ -26,7 +26,6 @@ type_locality: "Brasil: Amazonas: Benjamin Constant, Nova Aliança [4.35S 69.6W]
 distribution_zh: "巴西、秘鲁"
 distribution_en: "Brazil, Peru"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

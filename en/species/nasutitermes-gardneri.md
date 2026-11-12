@@ -26,7 +26,6 @@ type_locality: "India: West Bengal: Darjeeling: Rangirum"
 distribution_zh: "不丹、中国、印度"
 distribution_en: "Bhutan, China, India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

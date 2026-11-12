@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Autonomous County of Menglian: Dai-Lahu-
 distribution_zh: "云南（孟连1020m）"
 distribution_en: "Yunnan (Menglian 1020m)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

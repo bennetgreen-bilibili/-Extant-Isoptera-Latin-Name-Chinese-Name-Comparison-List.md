@@ -28,7 +28,6 @@ distribution_en: "Southeast Asia, Thailand, Bangladesh, Cambodia, China, India, 
 synonym_count: 3
 synonyms: "Capritermes garthwaitei Gardner, 1945: 106-108; Dicuspiditermes orientalis Harris, 1968: 147-148; Dicuspiditermes tripurensis Sen-Sarma & Thakur, 1979: 21-23"
 synonym_localities: "Myanmar: Maymyo; Vietnam: Cau Da; India: Tripura: Tiliamura"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

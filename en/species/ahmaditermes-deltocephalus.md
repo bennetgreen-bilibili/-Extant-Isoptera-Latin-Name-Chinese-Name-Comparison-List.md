@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: ChinPing"
 distribution_zh: "福建（和溪）、海南、云南（金平猛喇480-680m、南溪、屏边、思茅、勐海、三台山）、泰国"
 distribution_en: "Fujian (Hexi), Hainan, Yunnan (Jinping Mengla 480-680 m, Nanxi, Pingbian, Simao, Menghai, Santaishan), Thailand"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

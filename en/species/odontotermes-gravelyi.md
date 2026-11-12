@@ -26,7 +26,6 @@ type_locality: "Myanmar: east side of Dawna Hills, Sukli"
 distribution_zh: "中国云南、缅甸、越南"
 distribution_en: "Yunnan, China, Myanmar, Vietnam"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

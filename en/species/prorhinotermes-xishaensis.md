@@ -23,7 +23,6 @@ type_locality: "China: Xisha Island"
 distribution_zh: "中国、西沙群岛"
 distribution_en: "China, Xisha Islands"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

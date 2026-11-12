@@ -25,7 +25,6 @@ distribution_en: "Japan, China (Taiwan)"
 synonym_count: 1
 synonyms: "Calotermes ( Glyptotermes ) hozawae Holmgren, 1912: 118-119"
 synonym_localities: "Taiwan: ?"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

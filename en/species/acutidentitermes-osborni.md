@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Pygmy Camp, 4 km N of Camp Put
 distribution_zh: "刚果民主共和国"
 distribution_en: "Democratic Republic of the Congo"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

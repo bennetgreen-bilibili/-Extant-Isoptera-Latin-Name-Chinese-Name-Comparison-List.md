@@ -26,7 +26,6 @@ type_locality: "India: Kerala (Travancore): Thekaday"
 distribution_zh: "印度"
 distribution_en: "India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

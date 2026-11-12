@@ -26,7 +26,6 @@ type_locality: "India: Kerala: Silent Valley"
 distribution_zh: "南亚、印度"
 distribution_en: "South Asia, India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

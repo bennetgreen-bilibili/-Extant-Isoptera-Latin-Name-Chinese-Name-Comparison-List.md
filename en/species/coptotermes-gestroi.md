@@ -25,7 +25,6 @@ distribution_en: "Southeast Asia (Indonesia, Malaysia, native to the Philippines
 synonym_count: 10
 synonyms: "Arrhinotermes heimi Wasmann, 1902: 104; Coptotermes havilandi Holmgren, 1911: 192; Coptotermes parvulus Holmgren, 1913: 104; Coptotermes vastator Light, 1929: 422-449; Coptotermes pacificus Light, 1932: 84-86; Coptotermes javanicus Kemner, 1934: 59-61; Coptotermes monosetosus menglunensis Tsai & Huang in Tsai et al., 1985: 104-105, 114; Coptotermes ( Oligocrinitermes ) cochlearus Xia & He, 1986: 169-170, 180; Coptotermes ( Oligocrinitermes ) obliquus Xia & He, 1986: 172-174, 181, 182; Coptotermes yaxianensis Li, 1986: 225-226"
 synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: Hinlap; India: Gujarat: Anand; Gujarat: Vadtal; Philippines: Luzon: Manila; Polynesia (French): Marquesas: Hivaoa, Atuona; Indonesia: Java: Bogor; Java: Semarang; China: Yunnan Province: Jinghong County: Menglun Com; China: Yunnan Province: Jinghong; China: Hainan Island: Changjiang County; China: Yaxian of Hainan Island"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

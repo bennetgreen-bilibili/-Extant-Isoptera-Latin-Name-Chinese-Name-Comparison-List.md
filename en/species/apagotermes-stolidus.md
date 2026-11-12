@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Camp Putnam, Epulu River"
 distribution_zh: "刚果民主共和国、喀麦隆、刚果共和国、尼日利亚"
 distribution_en: "Democratic Republic of the Congo, Cameroon, Republic of the Congo, Nigeria"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

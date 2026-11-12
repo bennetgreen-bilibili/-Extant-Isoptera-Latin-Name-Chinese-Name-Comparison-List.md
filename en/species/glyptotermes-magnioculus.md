@@ -23,7 +23,6 @@ type_locality: "China: Sichuan Province: Guan Xian"
 distribution_zh: "中国四川"
 distribution_en: "China (Sichuan)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

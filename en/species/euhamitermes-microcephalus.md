@@ -26,7 +26,6 @@ type_locality: "China: Guizhou Province: Loudian"
 distribution_zh: "东洋界"
 distribution_en: "Oriental region"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

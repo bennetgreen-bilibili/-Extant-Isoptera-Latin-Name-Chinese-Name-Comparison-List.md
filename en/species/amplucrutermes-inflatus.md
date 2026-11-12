@@ -26,7 +26,6 @@ type_locality: "French Guiana: Nouragues Inselberg station [ 4.0884N 52.6814W ]"
 distribution_zh: "南美洲、圭亚那地盾、法属圭亚那"
 distribution_en: "South America, Guiana Shield, French Guiana"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

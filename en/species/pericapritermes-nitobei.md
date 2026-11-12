@@ -28,7 +28,6 @@ distribution_en: "South Korea, Japan, Taiwan, China, China, Indonesia, Malaysia,
 synonym_count: 3
 synonyms: "Capritermes sulcatus Holmgren, 1912: 130-132; Capritermes jangtsekiangensis Kemner, 1925: 4-5; Capritermes laevulobliquus Zhu & Chen, 1983: 29-34"
 synonym_localities: "Taiwan: ?; China: Jiangsu Province: Tschingkiang; China: Guangdong Province: Meixian County: Yaoshan-Tiekeng reservoir"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

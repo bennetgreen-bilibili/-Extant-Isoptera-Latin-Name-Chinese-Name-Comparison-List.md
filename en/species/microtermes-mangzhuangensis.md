@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Mengla County: Mangzhuang"
 distribution_zh: "中国云南、勐腊"
 distribution_en: "Yunnan, China, Mengla"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

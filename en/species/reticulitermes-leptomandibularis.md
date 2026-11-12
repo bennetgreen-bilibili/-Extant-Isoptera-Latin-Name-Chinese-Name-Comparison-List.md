@@ -23,7 +23,6 @@ type_locality: "China: Fujian Province: Yung-an"
 distribution_zh: "东亚、台湾、中国"
 distribution_en: "East Asia, Taiwan, China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

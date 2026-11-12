@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Zhuang Autonomous Region: Nanning"
 distribution_zh: "中国广西、南宁"
 distribution_en: "Guangxi, China, Nanning"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

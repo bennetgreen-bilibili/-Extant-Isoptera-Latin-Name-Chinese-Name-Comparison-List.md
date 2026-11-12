@@ -26,7 +26,6 @@ type_locality: "Brasil: Mato Grosso: Juína, Estação Ecológica de Iquê [12.1
 distribution_zh: "巴西、哥伦比亚、苏里南"
 distribution_en: "Brazil, Colombia, Suriname"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

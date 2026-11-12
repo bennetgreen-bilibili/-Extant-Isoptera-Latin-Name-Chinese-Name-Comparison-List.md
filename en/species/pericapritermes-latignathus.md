@@ -26,7 +26,6 @@ type_locality: "Indonesia: Java: Tjibodas"
 distribution_zh: "印度尼西亚、柬埔寨、越南、孟加拉国、中国、马来西亚、泰国"
 distribution_en: "Indonesia, Cambodia, Vietnam, Bangladesh, China, Malaysia, Thailand"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

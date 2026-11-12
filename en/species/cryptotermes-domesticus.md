@@ -25,7 +25,6 @@ distribution_en: "Oriental region to Australian region, Southeast Asia, southern
 synonym_count: 11
 synonyms: "Calotermes ( Cryptotermes ) formosae Holmgren, 1912: 119-120; Calotermes kotoensis Oshima, 1912: 56-58; Calotermes ( Cryptotermes ) ogasawaraensis Oshima, 1913: 274-275; Calotermes ( Cryptotermes ) dentatus Oshima, 1914: 2-5; Cryptotermes campbelli Light, 1924: 57-60; Cryptotermes hermsi Kirby, 1925: 437-441; Calotermes ( Cryptotermes ) buxtoni Hill, 1926: 298-299; Kalotermes ( Cryptotermes ) breviarticulatus Snyder, 1926: 11-12; Calotermes ( Cryptotermes ) torresi Hill, 1927: 12; Calotermes ( Cryptotermes ) gulosus Hill, 1927: 11-13; Calotermes ( Cryptotermes ) repentinus Hill, 1927: 13-15"
 synonym_localities: "Taiwan: Botel Tobago, Lan Yü); Taiwan: Botel Tobago, Lan Yü); Japan: Ogasawarajima or Bonin Islands; Taiwan: Taipei; China: Hainan Island: Kachek; Kiribati: Fanning Island; Samoa: Upolu Island: Apia; Panama: Taboga Island; Australia: Queensland: Thursday Island; Papua New Guinea: Papua: 30 miles southeast of Port Moresby; Papua New Guinea: New Britain: Rabaul"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

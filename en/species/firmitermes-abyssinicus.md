@@ -28,7 +28,6 @@ distribution_en: "Old World tropics, Ethiopia"
 synonym_count: 1
 synonyms: "Eutermes tripolitanus Sjöstedt, 1912: 16-17"
 synonym_localities: "Ethiopia: Monti Berrek, near Ancover, 15 km NE of Addis Ababa [incorrectly given as Tripolitana by Sjöstedt"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

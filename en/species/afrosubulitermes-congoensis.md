@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
 distribution_zh: "刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加纳、科特迪瓦、尼日利亚、乌干达"
 distribution_en: "Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Ghana, Côte d'Ivoire, Nigeria, Uganda"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

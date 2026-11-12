@@ -11,7 +11,6 @@ permalink: /es/genus/parrhinotermes/
 sitemap: true
 has_map: true
 taxon_search: true
-translation_pending: true
 image: "/assets/images/rhinotermitidae.jpg"
 breadcrumb:
   - name: "Listado"

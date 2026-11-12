@@ -11,11 +11,11 @@
   没有改写稿时退回占位：_data/genus_sources.json 只记录原始描述出处、模式种与
   Treatise 标注的「含形态特征/检索表」的文献，本身不是描述正文。
 {%- endcomment -%}
-{%- if page.lang == 'en' or page.lang == 'es' -%}
-{%- assign _key = page.url | slice: 3, 200 -%}
-{%- else -%}
-{%- assign _key = page.url -%}
-{%- endif -%}
+{%- comment -%}
+  页面 URL 去掉语言前缀回到数据键（数据键一律是 /genus/<id>/）：
+  /en/genus/x/、/es/genus/x/ 都要还原成 /genus/x/。
+{%- endcomment -%}
+{%- assign _key = page.url | remove_first: '/en' | remove_first: '/es' -%}
 {%- assign _fz = site.data.fauna_genera[_key] -%}
 {%- assign gs = site.data.genus_sources[_key] -%}
 {%- assign mg_zh = site.data.morphology_genera[_key] -%}

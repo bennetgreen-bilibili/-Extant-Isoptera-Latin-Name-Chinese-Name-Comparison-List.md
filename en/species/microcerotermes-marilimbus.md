@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Wanning"
 distribution_zh: "海南（万宁、乐东）"
 distribution_en: "Hainan (Wanning, Ledong)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

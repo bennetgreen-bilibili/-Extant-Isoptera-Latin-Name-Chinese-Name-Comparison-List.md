@@ -23,7 +23,6 @@ type_locality: "Brasil: Pará: Santarém [ 2.43917S 54.705W ]"
 distribution_zh: "巴西"
 distribution_en: "Brazil"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

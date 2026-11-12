@@ -23,7 +23,6 @@ type_locality: "China: Yunnan Province: Mangshi"
 distribution_zh: "云南（芒市）"
 distribution_en: "Yunnan (Mangshi)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

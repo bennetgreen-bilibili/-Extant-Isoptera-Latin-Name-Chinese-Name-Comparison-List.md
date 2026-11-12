@@ -26,7 +26,6 @@ type_locality: "Colombia: Caquetá: Florencia: La Viciosa, Centro de Investigaci
 distribution_zh: "哥伦比亚"
 distribution_en: "Colombia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

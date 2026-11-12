@@ -26,7 +26,6 @@ type_locality: "South America"
 distribution_zh: "南美洲"
 distribution_en: "South America"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

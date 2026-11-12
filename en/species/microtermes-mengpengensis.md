@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Mengla County: Mengpeng"
 distribution_zh: "中国云南、勐捧"
 distribution_en: "Yunnan, China, Mengpeng"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

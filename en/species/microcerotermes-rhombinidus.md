@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Guangzhou"
 distribution_zh: "中国、广东、海南、广西"
 distribution_en: "China, Guangdong, Hainan, Guangxi"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

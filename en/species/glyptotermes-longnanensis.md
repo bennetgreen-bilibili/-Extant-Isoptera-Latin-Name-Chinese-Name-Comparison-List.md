@@ -23,7 +23,6 @@ type_locality: "China: Gansu Province: Wen Xian"
 distribution_zh: "中国甘肃"
 distribution_en: "China (Gansu)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

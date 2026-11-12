@@ -26,7 +26,6 @@ type_locality: "Equatorial Guinea: Bioko Island: Basilé"
 distribution_zh: "喀麦隆、赤道几内亚、科特迪瓦、刚果民主共和国、加蓬、加纳、尼日利亚、塞内加尔、塞拉利昂"
 distribution_en: "Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

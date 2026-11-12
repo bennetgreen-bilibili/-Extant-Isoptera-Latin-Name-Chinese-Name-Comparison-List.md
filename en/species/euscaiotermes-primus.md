@@ -26,7 +26,6 @@ type_locality: "India: Orissa: Chilka Lake: Barkuda Island"
 distribution_zh: "非洲热带、印度"
 distribution_en: "Afrotropics, India"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

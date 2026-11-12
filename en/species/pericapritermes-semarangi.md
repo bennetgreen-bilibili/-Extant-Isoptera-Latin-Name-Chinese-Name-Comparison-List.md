@@ -28,7 +28,6 @@ distribution_en: "India, Indonesia, Bangladesh, Brunei, China, Malaysia, Myanmar
 synonym_count: 2
 synonyms: "Capritermes javanicus Holmgren, 1913: 255-256; Capritermes sumatrensis John, 1925: 215-216"
 synonym_localities: "Indonesia: Java: Semarang; Indonesia: Sumatra: Kota Bahru"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

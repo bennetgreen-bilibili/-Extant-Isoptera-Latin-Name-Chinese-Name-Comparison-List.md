@@ -28,7 +28,6 @@ distribution_en: "Guangxi (Shanglin), China"
 synonym_count: 1
 synonyms: "Odontotermes shanglinensis Li, 1986: 194-195"
 synonym_localities: "China: Guangxi Province: Shanglin"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

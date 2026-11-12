@@ -25,7 +25,6 @@ distribution_en: "Japan, China (Taiwan), southern China, Vietnam"
 synonym_count: 5
 synonyms: "Hodotermopsis japonicus Holmgren, 1912: 112-113; Hodotermopsis yui Li & Ping, 1988: 303-304, 305; Hodotermopsis orientalis Li & Ping, 1988: 301-303, 304; Hodotermopsis dimorphus Zhu, Wang & Huang, 1991: 199-201, 203; Hodotermopsis fanjingshanensis Zhu, Wang & Huang, 1991: 201-202, 203"
 synonym_localities: "Japan: Amami-Oshima; China: Guangdong Province: Lianshan County; China: Zhejiang Province: Longquan County; China: Guizhou Province: Leishan County: Leigong Mountain; China: Guizhou Province: Jiankou County: Fanjingshan Mountain"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

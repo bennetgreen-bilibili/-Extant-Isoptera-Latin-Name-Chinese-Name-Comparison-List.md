@@ -23,7 +23,6 @@ type_locality: "China: Guangdong Province: Hainan Island"
 distribution_zh: "海南（乐会）"
 distribution_en: "Hainan (Lehui)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

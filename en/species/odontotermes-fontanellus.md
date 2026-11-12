@@ -26,7 +26,6 @@ type_locality: "China: Jiangsu Province: Tschingkiang"
 distribution_zh: "江苏（镇江）、安徽、云南、中国"
 distribution_en: "Jiangsu (Zhenjiang), Anhui, Yunnan, China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

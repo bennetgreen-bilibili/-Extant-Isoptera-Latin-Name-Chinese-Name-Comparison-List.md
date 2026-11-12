@@ -25,7 +25,6 @@ distribution_en: "Southeast Asia, Philippines, Singapore, Thailand, South Asia, 
 synonym_count: 9
 synonyms: "Arrhinotermes japonicus Holmgren, 1912: 122-124; Arrhinotermes krakataui Holmgren, 1913: 69-71; Termitogetonella tibiaoensis Oshima, 1920: 496-498; Prorhinotermes luzonensis Light, 1921: 49-54; Prorhinotermes gracilis Light, 1921: 54-57; Prorhinotermes shiva Roonwal & Thakur, 1963: 102-109; Prorhinotermes tibiaoensiformis Ahmad, 1965: 23-24; Prorhinotermes ravani Roonwal & Maiti, 1966: 84-90; Prorhinotermes panaitanensis Thakur & Thakur, 1992: 251-257"
 synonym_localities: "Taiwan: Botel Tobago; Indonesia: Krakatau; Philippines: Panay: Antique Province, Tibiao; Panay: Antique Province: Culasi; Philippines: Luzon: Bulacan Bay; about 100 yards from Rizal-Bulacan boundary to Guiguinto; Luzon: Rizal Province, about 1 km from the Rizal-Bulacan boundary on the Manila-North road; Philippines: Luzon: Rizal Province near Rizal-Bulacan boundary of Manila North road; India: Andaman Islands: Long Island; Thailand: Wang Nok An; Indonesia: Java: Sumberweringin, near Bondowoso; Indonesia: Krakatau Islands: Panaitan"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

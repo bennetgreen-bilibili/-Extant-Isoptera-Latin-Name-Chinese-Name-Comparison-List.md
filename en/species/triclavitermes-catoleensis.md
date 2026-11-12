@@ -26,7 +26,6 @@ type_locality: "Brasil: Paraíba: Catolé do Rocha, Monte Tabor [ 6.3394S 37.738
 distribution_zh: "巴西、巴伊亚"
 distribution_en: "Brazil, Bahia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

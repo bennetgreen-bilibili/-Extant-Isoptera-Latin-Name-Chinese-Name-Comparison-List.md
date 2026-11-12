@@ -26,7 +26,6 @@ type_locality: "French Guiana: Petit Saut Dam Road, Carbet Maman Lézard [ 5.067
 distribution_zh: "法属圭亚那"
 distribution_en: "French Guiana"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

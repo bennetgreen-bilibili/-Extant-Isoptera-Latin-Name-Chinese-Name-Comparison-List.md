@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Tan-hsien"
 distribution_zh: "广西、云南（盈江870 m）、海南（琼中黎母岭350 m、五指山700 m）、中国"
 distribution_en: "Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

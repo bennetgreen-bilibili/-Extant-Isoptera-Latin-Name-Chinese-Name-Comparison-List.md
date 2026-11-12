@@ -12,7 +12,6 @@ sitemap: true
 has_map: true
 taxon_search: true
 has_photos: true
-translation_pending: true
 breadcrumb:
   - name: "Listado"
     url: "/es/list/"

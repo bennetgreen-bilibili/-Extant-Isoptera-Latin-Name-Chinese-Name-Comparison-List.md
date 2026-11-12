@@ -23,7 +23,6 @@ type_locality: "China: Fujian province: Nanjimg County"
 distribution_zh: "中国、福建、广东、广西"
 distribution_en: "China, Fujian, Guangdong, Guangxi"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

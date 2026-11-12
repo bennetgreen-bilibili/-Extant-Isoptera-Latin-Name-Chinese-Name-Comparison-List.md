@@ -26,7 +26,6 @@ type_locality: "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
 distribution_zh: "巴西、圭亚那、哥伦比亚、厄瓜多尔、法属圭亚那、委内瑞拉"
 distribution_en: "Brazil, Guyana, Colombia, Ecuador, French Guiana, Venezuela"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

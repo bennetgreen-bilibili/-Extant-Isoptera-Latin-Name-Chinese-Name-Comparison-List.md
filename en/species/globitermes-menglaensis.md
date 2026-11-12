@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: suburban district of Mengla County"
 distribution_zh: "云南（勐腊 660 m）、中国"
 distribution_en: "Yunnan (Mengla 660 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

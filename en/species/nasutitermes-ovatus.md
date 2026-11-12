@@ -26,7 +26,6 @@ type_locality: "China: Jiangxi Province: Xinfeng"
 distribution_zh: "中国、越南"
 distribution_en: "China, Vietnam"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

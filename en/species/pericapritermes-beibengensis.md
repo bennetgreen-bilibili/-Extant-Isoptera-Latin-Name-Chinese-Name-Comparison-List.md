@@ -26,7 +26,6 @@ type_locality: "China: Tibet: Medog"
 distribution_zh: "中国西藏"
 distribution_en: "China (Tibet)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

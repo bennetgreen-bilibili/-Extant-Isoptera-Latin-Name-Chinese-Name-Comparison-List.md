@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Dialuo Mt"
 distribution_zh: "中国海南、吊罗山、广西"
 distribution_en: "Hainan, China, Diaoluo Mountain, Guangxi"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

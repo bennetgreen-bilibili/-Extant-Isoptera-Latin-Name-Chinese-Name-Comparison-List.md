@@ -26,7 +26,6 @@ type_locality: "French Guiana: Highway N1 between Kourou and Sinnamary [5.2675N 
 distribution_zh: "法属圭亚那"
 distribution_en: "French Guiana"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->
