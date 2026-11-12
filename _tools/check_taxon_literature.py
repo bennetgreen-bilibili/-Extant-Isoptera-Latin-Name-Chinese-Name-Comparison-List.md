@@ -28,6 +28,7 @@ SOURCES = ROOT / ".sources" / "index.json"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PAGE_RE = re.compile(r"^/(genus|family|subfamily|species)/([a-z0-9-]+)/$")
 GENUS_ABBR_RE = re.compile(r"\b[A-Z]\.\s*[a-z]")
+FRAMING_WORDS = ("研究", "探讨", "分析", "综述", "整体视角", "空间尺度", "重要节点", "机制", "格局")
 
 
 def load(path):
@@ -162,6 +163,13 @@ def main():
                 seen_text.add(text)
                 if "士兵" in text:
                     warnings.append("%s：用「兵蚁」而不是「士兵」" % where)
+                if (
+                    not re.search(r"[0-9０-９]", text)
+                    and not re.search(r"\b[A-Z][a-z]+ [a-z]{2,}", text)
+                    and not re.search(r"\b(1[5-9]|20)\d{2}\b", text)
+                    and any(k in text for k in FRAMING_WORDS)
+                ):
+                    warnings.append("%s：疑似框架性段落（无数字/学名/年代，只有研究性表述）" % where)
                 abbr = GENUS_ABBR_RE.search(text)
                 if abbr:
                     warnings.append("%s：属名不要缩写（%s）" % (where, abbr.group(0)))
