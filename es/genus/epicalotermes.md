@@ -39,7 +39,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>; el sitio registra 6 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a>; el sitio registra 6 especies.</p>
 <p>Especie tipo: <i>Epicalotermes aethiopicus</i>.</p>
 <p>GBIF no tiene registros con coordenadas para este género, por lo que esta página no incluye mapa; abra una entrada de especie para ver su localidad tipo y referencias.</p>
 </section>
@@ -55,9 +55,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (6 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/epicalotermes-aethiopicus/"><i>Epicalotermes aethiopicus</i> Silvestri, 1918 埃塞俄比亚上<wbr>木白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-kempae/"><i>Epicalotermes kempae</i> Wilkinson, 1954 肯帕上木白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-mkuzii/"><i>Epicalotermes mkuzii</i> Coaton, 1949 摩库兹上木白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-munroi/"><i>Epicalotermes munroi</i> Coaton, 1949 芒罗上木白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-pakistanicus/"><i>Epicalotermes pakistanicus</i> Akhtar, 1974 巴基斯坦上木<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-planifrons/"><i>Epicalotermes planifrons</i> Krishna, 1962 扁额上木白蚁<wbr></a></li></ul>
+<h2>Especies (6)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/epicalotermes-aethiopicus/"><i>Epicalotermes aethiopicus</i> Silvestri, 1918 埃塞俄比亚上木白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-kempae/"><i>Epicalotermes kempae</i> Wilkinson, 1954 肯帕上木白蚁</a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-mkuzii/"><i>Epicalotermes mkuzii</i> Coaton, 1949 摩库兹上木白蚁</a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-munroi/"><i>Epicalotermes munroi</i> Coaton, 1949 芒罗上木白蚁</a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-pakistanicus/"><i>Epicalotermes pakistanicus</i> Akhtar, 1974 巴基斯坦上木白蚁</a></li><li><a href="{{ site.base_url }}/es/species/epicalotermes-planifrons/"><i>Epicalotermes planifrons</i> Krishna, 1962 扁额上木白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

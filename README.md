@@ -29,8 +29,9 @@
 - 三种语言一套模板：`_layouts/default.html` 读页面 front matter 的 `lang`（`zh-CN` / `en` / `es`）决定语言前缀、导航、页脚与语言切换；页面路径去掉 `/en`、`/es` 前缀后同构，`hreflang` 与语言切换链接都由它推导。
 - 界面文案唯一来源：`_data/i18n.yml`（导航、页脚、页头副标题、语言切换名、回到顶部、页头品牌）。**新增一门语言**只需：① 这里加一个语言键；② `_config.yml` 加 `title_xx`（页头主标题）；③ 建 `xx/` 目录下与根目录一一对应的页面（`lang: xx` + `permalink: /xx/…/`）。模板、hreflang、语言切换、sitemap 脚本都不用改（`build_sitemap_txt.py` 会自动收录新目录）。
 - 页面标题：标签页 `<title>` 只显示本页语言（各页 front matter 的 `title`）；页头显示双语标题——主行＝本页语言（`title_zh` / `title_en` / `title_es`），副行＝另一语言（中文页→英文，英文页→中文，西语页→英文），副行只出现在页头。
-- 物种页 `_species/` 与文章 `_posts/` 目前只有中文内容：这两类页面不显示语言切换（文章页的 English/Español 切换指向 `/en/blog/`、`/es/blog/`），标题仍是「拉丁学名 + 中文正名」/ 中文标题。
-- 名录索引与译文页：三语 `/list/`（`list.md` 563 行、`en/list.md` 与 `es/list.md` 各 565 行，锚点集合三语同构）只承担索引职能；科／亚科正文的英译、西译整段放在 `/en/list/sections/`、`/es/list/sections/` 两个译文页（各 466 行）。这 5 个页面全部由 `_tools/build_list_index.py` 从 `_data/taxonomy.json`、`_data/list_index_blocks.json`、`_data/taxon_prose.json` 确定性生成，**不要手改**；改分类层级改前者，改索引页导语／按科浏览／参考文献改中者，改科亚科正文改后者。描述性段落为机器翻译初稿，建议母语者校对后再定稿。
+- 物种页 `_species/`、`en/species/`、`es/species/` 三语各一页（见下文「物种页」），每页只放本语言内容；文章 `_posts/` 目前只有中文，不显示语言切换（English/Español 切到 `/en/blog/`、`/es/blog/`），标题为中文标题。
+- 名录索引与译文页：三语 `/list/`（`list.md` 563 行、`en/list.md` 与 `es/list.md` 各 565 行，锚点集合三语同构）只承担索引职能；科／亚科正文的英译、西译同时写进各语言的科页（`/en/family/…`、`/es/family/…`），并在 `/en/list/sections/`、`/es/list/sections/` 保留合订本（各 466 行）。这 5 个页面全部由 `_tools/build_list_index.py` 从 `_data/taxonomy.json`、`_data/list_index_blocks.json`、`_data/taxon_prose.json` 确定性生成，**不要手改**；改分类层级改前者，改索引页导语／按科浏览／参考文献改中者，改科亚科正文改后者。描述性段落为机器翻译初稿，建议母语者校对后再定稿。
+- 分类页与物种页按语言拆成独立页面（2026-11-12 起）：科／亚科／属／物种四类都是「一语言一页」——中文 `/family/<id>/`、英文 `/en/family/<id>/`、西文 `/es/family/<id>/`（subfamily / genus / species，以及各单元的 `…/photos/` 图片页同构）。页内只有本语言正文，不再出现 `.fact-en` / `.fact-es` 小字或 `EN —` / `ES —` 段；front matter 带 `single_lang: true`（物种页另带 `layout: species` + `species_page: true`）。生成器 `.github/workflows/build_taxonomy_pages.py`、`build_species_body.py`、`build_photo_pages.py` 一次写三份；页内译文取自 `_data/translations_en.json` / `_data/translations_es.json`（顶层键 meta / morphology_genera / morphology_species / fauna_families / fauna_genera / fauna_species / fauna_keys，键与原数据文件一致），某条译文缺失时该小节整块省略、页首挂 `<aside class="lang-note">` 单语提示（`page.translation_pending`），**不回退中文**。译文覆盖率与数字对账：`python _tools/translations_merge.py --all --check-only`；页面契约（三语齐备 / permalink / 无三语残留 / 外文页无中文句子 / 站内链带语言前缀）：`python _tools/check_lang_pages.py --ci`。
 
 ## 结构化数据（按类群拆分）
 - 页面：`data.md`（/data/，列出全部文件及白蚁科 18 亚科的逐文件链接）
@@ -260,9 +261,9 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 
 ## 物种页（每个物种/亚种一个独立页面）
 - `_species/*.md`：Jekyll 集合（collection），共 3089 个文件（3021 种 + 68 亚种），每个物种/亚种一页，URL 为 `/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。
-- **物种页是三语单页**：不设 `/en/species/`、`/es/species/` 副本，一个物种一页，页内同时承载中文/英文/西班牙文信息——固定标签写作「中文主 + `.fact-en`（英文）+ `.fact-es`（西文）」（如 `模式产地 Type locality Localidad tipo`），分布字段同时给出中文记录与英文记录（数据本身只有这两列），学名与中文正名在同一 H1。三语站的名录页都链接到这些共享物种页。
-- `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式产地/分布速览 + 同属内链）；面包屑「名录」带英文/西文小字，页面不显示语言切换（同一页服务三种语言）。
-- 物种条目住在属页：`genus/<属id>.md` 列出该属全部种与亚种，每个名字都链接到对应物种页；`family/<科id>.md`、`subfamily/<亚科id>.md` 逐级汇总。三语共用同一批物种页 URL，所以 `list.md` / `en/list.md` / `es/list.md` 只做索引，不再逐条列名。
+- **物种页三语各一页**：`_species/<slug>.md`（中文）、`en/species/<slug>.md`、`es/species/<slug>.md` 各一页，URL 分别为 `/species/<slug>/`、`/en/species/<slug>/`、`/es/species/<slug>/`（slug 为拉丁学名小写、空格转连字符，如 `mastotermes-darwiniensis`）。每页只放本语言正文，学名与中文正名并列在 H1；en/es 页带 `layout: species` + `species_page: true`、`single_lang: true`，不写 `lang_only`。三语名录页各自链到本语言的物种页。
+- `_layouts/species.html`：物种页模板（面包屑 + 学名/中文正名 + 模式产地/分布速览 + 同属内链），全量按 `page.lang` 单语输出；面包屑与页内全部站内链接带本语言前缀（中文无前缀、`/en`、`/es`），页头语言切换器由 `_layouts/default.html` 自动给出。
+- 物种条目住在属页：`genus/<属id>.md` 列出该属全部种与亚种，每个名字都链接到本语言对应的物种页；`family/<科id>.md`、`subfamily/<亚科id>.md` 逐级汇总。三语各有一批同构的属页与物种页，所以 `list.md` / `en/list.md` / `es/list.md` 只做索引，不再逐条列名。
 - 在 `_config.yml` 中通过 `collections.species` 注册（`output: true`，`permalink: /species/:name/`）。
 - 物种页正文由 `.github/workflows/build_species_body.py` 生成（见下文「物种页正文」）。
 - 物种页底部有「同属其他种」内链区块：列出同属全部物种（最多 40 个，超出部分链接到 `/genus/<属id>/`），用于增加站内抓取路径；数据来自 `_data/species_by_genus.json`，由 `.github/workflows/build_genus_index.py` 在 CI 构建时自动重新生成。本地新增/改名物种后，先执行 `python .github/workflows/build_genus_index.py` 再构建。
@@ -271,7 +272,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 ## 物种页正文（自动生成）
 - 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3089 条摘要句互不相同）。
 - 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
-- 手写多语言内容也放在标记外：正文直接写中文段落，非中文内容用 `lang` 标注，例如 `<div class="fact-es" lang="es">…</div>`、`<div class="fact-en" lang="en">…</div>`（`.fact-en` / `.fact-es` 为灰色小字样式，见 `assets/custom.css`）。自动生成的正文与章节标题目前只有中文；若要连正文一起三语，需要改 `build_species_body.py`（会重写 3068 页，属大改动）。
+- 三语版本由同一生成器一次写出：中文 `_species/<slug>.md`、英文 `en/species/<slug>.md`、西文 `es/species/<slug>.md`。三份都由脚本整篇写出，**不要直接手改** `en/species/`、`es/species/`；要补英文/西文内容请改 `_data/fauna_species.json`、`_data/morphology_species.json` 或 `_data/translations_*.json`（见「多语言」一节）。页内不再写 `class="fact-en"` / `class="fact-es"` 并列段落——那是拆分前的旧做法，`check_lang_pages.py` 会报错。
 - 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。
 - 用法：`python .github/workflows/build_species_body.py`（只统计、不写文件）、`--write`（写回 `_species/*.md`）、`--sample <slug>...`（打印生成结果）、`--check-idempotent`。
 - CI 中位于 `pages.yml` 的「Build species page bodies」步骤，在 Jekyll 构建前执行，保证数据变更后正文同步。

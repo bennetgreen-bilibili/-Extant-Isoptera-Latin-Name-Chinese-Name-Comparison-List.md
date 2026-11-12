@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>; el sitio registra 4 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a>; el sitio registra 4 especies.</p>
 <p>Especie tipo: <i>Leucopitermes leucops</i>.</p>
 <p>GBIF no tiene registros con coordenadas para este género, por lo que esta página no incluye mapa; abra una entrada de especie para ver su localidad tipo y referencias.</p>
 </section>
@@ -56,9 +56,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (4 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/leucopitermes-leucopiformis/"><i>Leucopitermes leucopiformis</i> Akhtar & Pervez, 1986 似白脸白脸白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/es/species/leucopitermes-leucops/"><i>Leucopitermes leucops</i> Holmgren, 1914 白脸白脸白蚁<wbr></a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/leucopitermes-paraleucops/"><i>Leucopitermes paraleucops</i> Morimoto, 1976 近白脸白脸白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/es/species/leucopitermes-thoi/"><i>Leucopitermes thoi</i> Gathorne-Hardy, 2004 索白脸白蚁</a></li></ul>
+<h2>Especies (4)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/leucopitermes-leucopiformis/"><i>Leucopitermes leucopiformis</i> Akhtar & Pervez, 1986 似白脸白脸白蚁</a></li><li><a href="{{ site.base_url }}/es/species/leucopitermes-leucops/"><i>Leucopitermes leucops</i> Holmgren, 1914 白脸白脸白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/leucopitermes-paraleucops/"><i>Leucopitermes paraleucops</i> Morimoto, 1976 近白脸白脸白蚁</a></li><li><a href="{{ site.base_url }}/es/species/leucopitermes-thoi/"><i>Leucopitermes thoi</i> Gathorne-Hardy, 2004 索白脸白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

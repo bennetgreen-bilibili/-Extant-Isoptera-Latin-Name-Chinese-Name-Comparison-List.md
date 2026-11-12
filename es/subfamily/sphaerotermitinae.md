@@ -46,7 +46,7 @@ breadcrumb:
 <section class="taxon-section">
 <h2>Género (1)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/genus/sphaerotermes/"><i>Sphaerotermes</i> 圆球白蚁属</a> <span class="taxon-count">1 especie</span></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

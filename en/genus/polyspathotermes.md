@@ -41,7 +41,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; the site records 8 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; the site records 8 species.</p>
 <p>Type species: <i>Polyspathotermes sulcifrons</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -51,15 +51,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/polyspathotermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/polyspathotermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/polyspathotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (8 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/polyspathotermes-bugeserae/"><i>Polyspathotermes bugeserae</i> Bouillon & Vincke, 1971 布盖塞拉多铲<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-inclitus/"><i>Polyspathotermes inclitus</i> Silvestri, 1912 显赫多铲白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-intercalatus/"><i>Polyspathotermes intercalatus</i> Silvestri, 1914 居间多铲白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-katangensis/"><i>Polyspathotermes katangensis</i> Sjöstedt, 1927 加丹加多铲白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-montanus/"><i>Polyspathotermes montanus</i> Williams, 1966 高山多铲白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-oblectatus/"><i>Polyspathotermes oblectatus</i> Harris, 1958 愉悦多铲白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-sulcifrons/"><i>Polyspathotermes sulcifrons</i> Wasmann, 1911 沟额多铲白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-umbratus/"><i>Polyspathotermes umbratus</i> Williams, 1954 荫生多铲白蚁<wbr></a></li></ul>
+<h2>Species (8)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/polyspathotermes-bugeserae/"><i>Polyspathotermes bugeserae</i> Bouillon & Vincke, 1971 布盖塞拉多铲白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-inclitus/"><i>Polyspathotermes inclitus</i> Silvestri, 1912 显赫多铲白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-intercalatus/"><i>Polyspathotermes intercalatus</i> Silvestri, 1914 居间多铲白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-katangensis/"><i>Polyspathotermes katangensis</i> Sjöstedt, 1927 加丹加多铲白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-montanus/"><i>Polyspathotermes montanus</i> Williams, 1966 高山多铲白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-oblectatus/"><i>Polyspathotermes oblectatus</i> Harris, 1958 愉悦多铲白蚁</a></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-sulcifrons/"><i>Polyspathotermes sulcifrons</i> Wasmann, 1911 沟额多铲白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/polyspathotermes-umbratus/"><i>Polyspathotermes umbratus</i> Williams, 1954 荫生多铲白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

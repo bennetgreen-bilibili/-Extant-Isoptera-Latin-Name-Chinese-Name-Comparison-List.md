@@ -39,7 +39,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/psammotermitidae/">沙白蚁科 <i>Psammotermitidae</i></a>; the site records 12 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/psammotermitidae/"><i>Psammotermitidae</i> 沙白蚁科</a>; the site records 12 species.</p>
 <p>Type species: <i>Prorhinotermes inopinatus</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -49,15 +49,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/prorhinotermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/prorhinotermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/prorhinotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (12 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/prorhinotermes-canalifrons/"><i>Prorhinotermes canalifrons</i> Sjöstedt, 1904 沟额原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-cotym/"><i>Prorhinotermes cotym</i> Joseph, Amina & Mathew, 2023 科廷原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-flavus/"><i>Prorhinotermes flavus</i> Bugnion & Popoff, 1910 黄色原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-hainanensis/"><i>Prorhinotermes hainanensis</i> Ping & Xu, 1989 海南原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-inopinatus/"><i>Prorhinotermes inopinatus</i> Silvestri, 1909 意外原鼻白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-molinoi/"><i>Prorhinotermes molinoi</i> Snyder, 1924 莫利诺原鼻白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-oceanicus/"><i>Prorhinotermes oceanicus</i> Wasmann, 1902 海洋原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-ponapensis/"><i>Prorhinotermes ponapensis</i> Oshima, 1917 波纳佩原鼻白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-rugifer/"><i>Prorhinotermes rugifer</i> Kemner, 1931 具皱原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-simplex/"><i>Prorhinotermes simplex</i> Hagen, 1858 简单原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-spectabilis/"><i>Prorhinotermes spectabilis</i> Ping & Xu, 1989 奇丽原鼻白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-xishaensis/"><i>Prorhinotermes xishaensis</i> Li & Tsai, 1976 西沙原鼻白蚁<wbr></a></li></ul>
+<h2>Species (12)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/prorhinotermes-canalifrons/"><i>Prorhinotermes canalifrons</i> Sjöstedt, 1904 沟额原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-cotym/"><i>Prorhinotermes cotym</i> Joseph, Amina & Mathew, 2023 科廷原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-flavus/"><i>Prorhinotermes flavus</i> Bugnion & Popoff, 1910 黄色原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-hainanensis/"><i>Prorhinotermes hainanensis</i> Ping & Xu, 1989 海南原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-inopinatus/"><i>Prorhinotermes inopinatus</i> Silvestri, 1909 意外原鼻白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-molinoi/"><i>Prorhinotermes molinoi</i> Snyder, 1924 莫利诺原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-oceanicus/"><i>Prorhinotermes oceanicus</i> Wasmann, 1902 海洋原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-ponapensis/"><i>Prorhinotermes ponapensis</i> Oshima, 1917 波纳佩原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-rugifer/"><i>Prorhinotermes rugifer</i> Kemner, 1931 具皱原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-simplex/"><i>Prorhinotermes simplex</i> Hagen, 1858 简单原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-spectabilis/"><i>Prorhinotermes spectabilis</i> Ping & Xu, 1989 奇丽原鼻白蚁</a></li><li><a href="{{ site.base_url }}/en/species/prorhinotermes-xishaensis/"><i>Prorhinotermes xishaensis</i> Li & Tsai, 1976 西沙原鼻白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/psammotermitidae/">沙白蚁科 <i>Psammotermitidae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/psammotermitidae/"><i>Psammotermitidae</i> 沙白蚁科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

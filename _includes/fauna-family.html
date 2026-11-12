@@ -3,6 +3,8 @@
   数据来自 _data/fauna_families.json（zh 页）或 _data/translations_en|es.json 的
   fauna_families 桶（en/es 页），由生成器按页面语言取出后以 include.fauna 传入；
   本文件只负责按 page.lang 换界面文字，不判断数据有无、也不回退到中文。
+  英文页另由生成器传入 abstract（_data/fauna_families.json 的 en 字段，本就是英文写的），
+  其余语言不传。
   标题层级与物种页一致：h2 = 文献出处（《中国动物志》记载）；h3 = 内容类别；
   h4 = 鉴别要点与品级。
 {%- endcomment -%}
@@ -21,10 +23,9 @@
 {%- assign t_biol = "Biology and economic significance" -%}
 {%- assign t_dist = "Distribution" -%}
 {%- assign t_note = "Taxonomic note" -%}
+{%- assign t_abstract = "Summary" -%}
 {%- assign t_cite = "Sources cited: Huang Fusheng, Zhu Shimo, Ping Zhengming, Wang Zhiguo, Li Can and Xu Chungui, 2000. Fauna Sinica, Insecta Vol. 17, Isoptera. Beijing: Science Press. This text is a reorganized adaptation, not a verbatim transcription." -%}
 {%- assign t_colon = ": " -%}
-{%- assign t_popen = "(" -%}
-{%- assign t_pclose = ")" -%}
 {%- elsif page.lang == 'es' -%}
 {%- assign t_h2 = "Registro de Fauna Sinica" -%}
 {%- assign t_lead = "El texto siguiente es una adaptación reorganizada y reescrita de la descripción de la familia en Fauna Sinica, Insecta vol. 17, Isoptera (2000) " -%}
@@ -37,10 +38,9 @@
 {%- assign t_biol = "Biología e importancia económica" -%}
 {%- assign t_dist = "Distribución" -%}
 {%- assign t_note = "Nota taxonómica" -%}
+{%- assign t_abstract = "Resumen" -%}
 {%- assign t_cite = "Fuentes citadas: Huang Fusheng, Zhu Shimo, Ping Zhengming, Wang Zhiguo, Li Can y Xu Chungui, 2000. Fauna Sinica, Insecta vol. 17, Isoptera. Pekín: Science Press. Este texto es una adaptación reorganizada, no una transcripción literal." -%}
 {%- assign t_colon = ": " -%}
-{%- assign t_popen = "(" -%}
-{%- assign t_pclose = ")" -%}
 {%- else -%}
 {%- assign t_h2 = "《中国动物志》记载" -%}
 {%- assign t_lead = "以下内容据《中国动物志·昆虫纲 第十七卷 等翅目》（2000）" -%}
@@ -53,10 +53,9 @@
 {%- assign t_biol = "生物学与经济意义" -%}
 {%- assign t_dist = "分布" -%}
 {%- assign t_note = "分类说明" -%}
+{%- assign t_abstract = "摘要" -%}
 {%- assign t_cite = "文献依据：黄复生、朱世模、平正明、王治国、李参、徐春贵，2000．中国动物志·昆虫纲 第十七卷 等翅目．北京：科学出版社．本段为重新组织的改写稿，非原文转录。" -%}
 {%- assign t_colon = "：" -%}
-{%- assign t_popen = "（" -%}
-{%- assign t_pclose = "）" -%}
 {%- endif -%}
 <section class="species-fauna taxon-fauna" lang="{{ page.lang | default: 'zh-CN' }}">
   <h2>{{ t_h2 }}</h2>
@@ -85,6 +84,10 @@
   {%- if include.fauna.distribution and include.fauna.distribution != "" %}
   <h3>{{ t_dist }}</h3>
   <p>{{ include.fauna.distribution }}</p>
+  {%- endif %}
+  {%- if include.abstract and include.abstract != "" %}
+  <h3>{{ t_abstract }}</h3>
+  <p class="fauna-abstract">{{ include.abstract }}</p>
   {%- endif %}
   {%- if include.fauna.taxonomy_note and include.fauna.taxonomy_note != "" %}
   <p class="fauna-note"><strong>{{ t_note }}</strong>{{ t_colon }}{{ include.fauna.taxonomy_note }}</p>

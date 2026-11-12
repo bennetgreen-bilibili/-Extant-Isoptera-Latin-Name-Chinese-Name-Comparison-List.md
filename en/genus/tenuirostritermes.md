@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>; the site records 5 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a>; the site records 5 species.</p>
 <p>Type species: <i>Tenuirostritermes tenuirostris</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -54,15 +54,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/tenuirostritermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/tenuirostritermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/tenuirostritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (5 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-briciae/"><i>Tenuirostritermes briciae</i> Snyder, 1922 布瑞西亚薄嘴<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-cinereus/"><i>Tenuirostritermes cinereus</i> Buckley, 1862 灰白薄嘴白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-incisus/"><i>Tenuirostritermes incisus</i> Snyder, 1922 切割薄嘴白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-strenuus/"><i>Tenuirostritermes strenuus</i> Hagen, 1860 活跃薄嘴白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-tenuirostris/"><i>Tenuirostritermes tenuirostris</i> Desneux, 1904 薄嘴薄嘴白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li></ul>
+<h2>Species (5)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-briciae/"><i>Tenuirostritermes briciae</i> Snyder, 1922 布瑞西亚薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-cinereus/"><i>Tenuirostritermes cinereus</i> Buckley, 1862 灰白薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-incisus/"><i>Tenuirostritermes incisus</i> Snyder, 1922 切割薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-strenuus/"><i>Tenuirostritermes strenuus</i> Hagen, 1860 活跃薄嘴白蚁</a></li><li><a href="{{ site.base_url }}/en/species/tenuirostritermes-tenuirostris/"><i>Tenuirostritermes tenuirostris</i> Desneux, 1904 薄嘴薄嘴白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

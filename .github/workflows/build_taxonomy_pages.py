@@ -333,7 +333,9 @@ HEADING_RE = re.compile(r'<h([2-5])\s+id="([a-z0-9\-]+)"[^>]*>.*?</h\1>', re.S)
 INCLUDE_MAP_RE = re.compile(r"^[ \t]*\{%\s*include\s+distribution-map\.html.*?%\}[ \t]*$", re.M)
 TAG_ONLY_RE = re.compile(r"^[ \t]*<[^>]+>[ \t]*$")
 CJK_RE = re.compile(u"[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff00-\uffef]")
-CJK_RUN_RE = re.compile(u"[\u4e00-\u9fff]{6,}")
+# 阈值与 _tools/check_lang_pages.py 的 E014 一致（≥12 连续汉字视为残留中文句子）：
+# 只有真的会被判成句子的长串才插断行点，普通 6–11 字正名一律原样输出。
+CJK_RUN_RE = re.compile(u"[\u4e00-\u9fff]{12,}")
 
 
 def break_long_cjk(text):
@@ -342,6 +344,7 @@ def break_long_cjk(text):
     数据集里有一个音译得很长的中文正名（14 个汉字，如「阿尔米尔萨特尔西尔韦斯特里白蚁」）。
     外文页的正文检查把「≥12 连续汉字」当成残留中文句子，长专名会误报；`<wbr>` 只在渲染层
     提供断行点，不增加、不替换任何字符（浏览器也不复制它），名字本身逐字不变。
+    短于 E014 阈值的正名不插，免得 326 个属页的每条物种链接都多出一个无意义的断行点。
     """
     return CJK_RUN_RE.sub(lambda m: m.group(0)[:6] + "<wbr>" + m.group(0)[6:], text)
 GEO_DIR = ROOT / "assets" / "geo"
@@ -786,6 +789,16 @@ def main():
     def display_latin(latin):
         return latin.capitalize() if latin.isupper() else latin
 
+    def zh_latin_link(lang, href, zh, latin):
+        """站内分类群链接：中文页「中文正名 <i>拉丁名</i>」，外文页「<i>拉丁名</i> 中文正名」。
+
+        外文页把拉丁名放前面，与本页物种/属列表的排法一致（`<i>Amitermitinae</i> 弓白蚁亚科`），
+        免得同一页里同一个亚科出现两种词序。
+        """
+        if lang == "zh-CN":
+            return '<a href="%s">%s <i>%s</i></a>' % (href, zh, display_latin(latin))
+        return '<a href="%s"><i>%s</i> %s</a>' % (href, display_latin(latin), zh)
+
     def lp_url(lang, path):
         """站内链接：`{{ site.base_url }}` + 语言前缀 + 路径（契约 §4）。"""
         return SB + LANG_PREFIX[lang] + path
@@ -822,11 +835,19 @@ def main():
         return "%s (%d)" % (word[0].upper() + word[1:], n)
 
     def species_heading(lang, gen):
-        """`物种（7 种、1 亚种）` / `Species (7 species, 1 subspecies)`。"""
-        counts = count_phrase(lang, gen["species"], gen["subspecies"])
+        """`物种（7 种、1 亚种）` / `Species (7)` / `Species (7 species, 1 subspecies)`。
+
+        中文标题里的「种」是量词，不冗余；英文/西文标题已写 Species，`Species (7
+        species)` 是同词并列，所以无亚种时外语只给数字，有亚种时用整句计数
+        （只有这一种写法能同时交代两个数字，不必再造短语）。
+        """
+        n, m = gen["species"], gen["subspecies"]
         if lang == "zh-CN":
-            return "物种（%s）" % counts
-        return "%s (%s)" % ({"en": "Species", "es": "Especies"}[lang], counts)
+            return "物种（%s）" % count_phrase(lang, n, m)
+        head = {"en": "Species", "es": "Especies"}[lang]
+        if not m:
+            return "%s (%d)" % (head, n)
+        return "%s (%s)" % (head, count_phrase(lang, n, m))
 
     def meta_line(lang, rank, fam=None, sub=None, gen=None):
         """Page-header count line in one language only.
@@ -1139,13 +1160,11 @@ def main():
         """属页的上一级：有亚科就指亚科页，否则指科页。"""
         if gen["subfamily"]:
             sub = subfamilies[gen["subfamily"]]
-            return ('<a href="%s">%s <i>%s</i></a>'
-                    % (lp_url(lang, "/subfamily/%s/" % sub["id"]), sub["zh"],
-                       display_latin(sub["latin"])))
+            return zh_latin_link(lang, lp_url(lang, "/subfamily/%s/" % sub["id"]),
+                                 sub["zh"], sub["latin"])
         fam = families[gen["family"]]
-        return ('<a href="%s">%s <i>%s</i></a>'
-                % (lp_url(lang, "/family/%s/" % fam["id"]), fam["zh"],
-                   display_latin(fam["latin"])))
+        return zh_latin_link(lang, lp_url(lang, "/family/%s/" % fam["id"]),
+                             fam["zh"], fam["latin"])
 
     def has_geo(rank, taxon_id):
         if rank == "subfamily":
@@ -1186,15 +1205,13 @@ def main():
 
     def genus_intro(lang, gen, mapped):
         fam = families[gen["family"]]
-        fam_latin = display_latin(fam["latin"])
-        fam_link = '<a href="%s">%s <i>%s</i></a>' % (lp_url(lang, "/family/%s/" % fam["id"]),
-                                                     fam["zh"], fam_latin)
+        fam_link = zh_latin_link(lang, lp_url(lang, "/family/%s/" % fam["id"]),
+                                 fam["zh"], fam["latin"])
         sub_link = None
         if gen["subfamily"]:
             sub = subfamilies[gen["subfamily"]]
-            sub_link = '<a href="%s">%s <i>%s</i></a>' % (
-                lp_url(lang, "/subfamily/%s/" % sub["id"]), sub["zh"],
-                display_latin(sub["latin"]))
+            sub_link = zh_latin_link(lang, lp_url(lang, "/subfamily/%s/" % sub["id"]),
+                                     sub["zh"], sub["latin"])
         counts = count_phrase(lang, gen["species"], gen["subspecies"])
         if lang == "zh-CN":
             text = "本属隶属" + fam_link
@@ -1262,9 +1279,21 @@ def main():
         else:
             source = 'site.data.translations_%s.%s["%s"]' % (
                 lang, FAUNA_DATA_KEY[kind], url)
-        return ('{%%- assign fz = %s -%%}'
-                '{%%- if fz %%}\n{%% include fauna-%s.html fauna=fz %%}\n{%%- endif %%}\n'
-                % (source, kind))
+        # 英文页另送 _data/fauna_*.json 里原有的英文摘要（`en` 字段）：那条摘要本来就是
+        # 用英文写的，译文桶不重复收录，若不单独传进来，拆页后全站就再也看不到它。
+        # 中文与西语页不传（各自语言没有对应内容，不拿英文兜底）。
+        # 摘要先在页面里 assign 成变量再传：Jekyll 的 include 标签对未加引号的参数值只认
+        # [\w.-]+，把 site.data.x["/family/y/"].en 这种带引号方括号的查找直接写进参数会被
+        # 判为语法错误（整页 500）。顺带也保证 fza 为 nil 时 include 里 if 判断照常成立。
+        abstract_assign = ""
+        extra = ""
+        if lang == "en":
+            abstract_assign = '{%%- assign fza = site.data.%s["%s"].en -%%}' % (
+                FAUNA_DATA_KEY[kind], url)
+            extra = " abstract=fza"
+        return ('%s{%%- assign fz = %s -%%}'
+                '{%%- if fz %%}\n{%% include fauna-%s.html fauna=fz%s %%}\n{%%- endif %%}\n'
+                % (abstract_assign, source, kind, extra))
 
     # 2025-11: 中国动物志的检索表已撤下，只保留 Hellemans et al. (2024) 的目级/白蚁科
     # 亚科表与 Krishna et al. (2013) 的木白蚁科世界分属表。以下三页之外不再输出检索表，
@@ -1496,9 +1525,8 @@ def main():
                 + "\n".join('<section class="taxon-section">\n' + s + "\n</section>"
                             for s in sections) + "\n"
                 + footer_nav(lang, "subfamily", sid,
-                             '<a href="%s">%s <i>%s</i></a>'
-                             % (lp_url(lang, "/family/%s/" % fam["id"]), fam["zh"],
-                                display_latin(fam["latin"]))) + "\n</article>\n"
+                             zh_latin_link(lang, lp_url(lang, "/family/%s/" % fam["id"]),
+                                           fam["zh"], fam["latin"])) + "\n</article>\n"
                 + taxon_jsonld(lang, "subfamily", sid, sub["latin"], sub["zh"], parent)
             )
             desc = desc_for(lang, "subfamily", sub=sub)

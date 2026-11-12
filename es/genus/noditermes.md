@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; el sitio registra 7 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; el sitio registra 7 especies.</p>
 <p>Especie tipo: <i>Noditermes lamanianus</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -56,9 +56,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (7 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/noditermes-angolensis/"><i>Noditermes angolensis</i> Weidner, 1974 安哥拉节白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/noditermes-cristifrons/"><i>Noditermes cristifrons</i> Wasmann, 1911 毛额节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-festivus/"><i>Noditermes festivus</i> Harris, 1958 欢乐节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-indoensis/"><i>Noditermes indoensis</i> Sjöstedt, 1926 因多节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-lamanianus/"><i>Noditermes lamanianus</i> Sjöstedt, 1905 拉曼节白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/noditermes-profestus/"><i>Noditermes profestus</i> Sjöstedt, 1926 工作日节白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/noditermes-wasambaricus/"><i>Noditermes wasambaricus</i> Williams, 1954 瓦森巴拉节白<wbr>蚁</a></li></ul>
+<h2>Especies (7)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/noditermes-angolensis/"><i>Noditermes angolensis</i> Weidner, 1974 安哥拉节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-cristifrons/"><i>Noditermes cristifrons</i> Wasmann, 1911 毛额节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-festivus/"><i>Noditermes festivus</i> Harris, 1958 欢乐节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-indoensis/"><i>Noditermes indoensis</i> Sjöstedt, 1926 因多节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-lamanianus/"><i>Noditermes lamanianus</i> Sjöstedt, 1905 拉曼节白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/noditermes-profestus/"><i>Noditermes profestus</i> Sjöstedt, 1926 工作日节白蚁</a></li><li><a href="{{ site.base_url }}/es/species/noditermes-wasambaricus/"><i>Noditermes wasambaricus</i> Williams, 1954 瓦森巴拉节白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

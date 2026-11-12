@@ -41,7 +41,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; el sitio registra 5 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; el sitio registra 5 especies.</p>
 <p>Especie tipo: <i>Crenetermes albotarsalis</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -57,9 +57,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (5 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/crenetermes-albotarsalis/"><i>Crenetermes albotarsalis</i> Sjöstedt, 1897 白跗刻痕白蚁<wbr></a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/crenetermes-elongatus/"><i>Crenetermes elongatus</i> Weidner, 1974 细长刻痕白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/crenetermes-fruitus/"><i>Crenetermes fruitus</i> Harris, 1958 可爱刻痕白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/crenetermes-mandibulatus/"><i>Crenetermes mandibulatus</i> Weidner, 1974 大颚刻痕白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/crenetermes-mixtus/"><i>Crenetermes mixtus</i> Williams, 1962 混杂刻痕白蚁<wbr></a></li></ul>
+<h2>Especies (5)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/crenetermes-albotarsalis/"><i>Crenetermes albotarsalis</i> Sjöstedt, 1897 白跗刻痕白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/crenetermes-elongatus/"><i>Crenetermes elongatus</i> Weidner, 1974 细长刻痕白蚁</a></li><li><a href="{{ site.base_url }}/es/species/crenetermes-fruitus/"><i>Crenetermes fruitus</i> Harris, 1958 可爱刻痕白蚁</a></li><li><a href="{{ site.base_url }}/es/species/crenetermes-mandibulatus/"><i>Crenetermes mandibulatus</i> Weidner, 1974 大颚刻痕白蚁</a></li><li><a href="{{ site.base_url }}/es/species/crenetermes-mixtus/"><i>Crenetermes mixtus</i> Williams, 1962 混杂刻痕白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

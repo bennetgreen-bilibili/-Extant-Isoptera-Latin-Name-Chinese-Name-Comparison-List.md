@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>; the site records 12 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a>; the site records 12 species.</p>
 <p>Type species: <i>Calcaritermes imminens</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -54,15 +54,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/calcaritermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/calcaritermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/calcaritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (12 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/calcaritermes-brevicollis/"><i>Calcaritermes brevicollis</i> Banks, 1918 短颈距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-colei/"><i>Calcaritermes colei</i> Krishna, 1962 科尔距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-emarginicollis/"><i>Calcaritermes emarginicollis</i> Snyder, 1925 刻颈距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-guatemalae/"><i>Calcaritermes guatemalae</i> Snyder, 1926 危地马拉距白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-imminens/"><i>Calcaritermes imminens</i> Snyder, 1925 悬垂距白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-krishnai/"><i>Calcaritermes krishnai</i> Maiti & Chakraborty, 1981 克里希纳距白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-nearcticus/"><i>Calcaritermes nearcticus</i> Snyder, 1933 新北距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-nigriceps/"><i>Calcaritermes nigriceps</i> Emerson, 1925 黑头距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-parvinotus/"><i>Calcaritermes parvinotus</i> Light, 1933 小背距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-rioensis/"><i>Calcaritermes rioensis</i> Krishna, 1962 里约距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-snyderi/"><i>Calcaritermes snyderi</i> Krishna, 1962 斯奈德距白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-temnocephalus/"><i>Calcaritermes temnocephalus</i> Silvestri, 1901 切头距白蚁</a></li></ul>
+<h2>Species (12)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/calcaritermes-brevicollis/"><i>Calcaritermes brevicollis</i> Banks, 1918 短颈距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-colei/"><i>Calcaritermes colei</i> Krishna, 1962 科尔距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-emarginicollis/"><i>Calcaritermes emarginicollis</i> Snyder, 1925 刻颈距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-guatemalae/"><i>Calcaritermes guatemalae</i> Snyder, 1926 危地马拉距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-imminens/"><i>Calcaritermes imminens</i> Snyder, 1925 悬垂距白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-krishnai/"><i>Calcaritermes krishnai</i> Maiti & Chakraborty, 1981 克里希纳距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-nearcticus/"><i>Calcaritermes nearcticus</i> Snyder, 1933 新北距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-nigriceps/"><i>Calcaritermes nigriceps</i> Emerson, 1925 黑头距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-parvinotus/"><i>Calcaritermes parvinotus</i> Light, 1933 小背距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-rioensis/"><i>Calcaritermes rioensis</i> Krishna, 1962 里约距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-snyderi/"><i>Calcaritermes snyderi</i> Krishna, 1962 斯奈德距白蚁</a></li><li><a href="{{ site.base_url }}/en/species/calcaritermes-temnocephalus/"><i>Calcaritermes temnocephalus</i> Silvestri, 1901 切头距白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

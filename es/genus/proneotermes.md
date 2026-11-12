@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>; el sitio registra 4 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a>; el sitio registra 4 especies.</p>
 <p>Especie tipo: <i>Proneotermes perezi</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -56,9 +56,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (4 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/proneotermes-latifrons/"><i>Proneotermes latifrons</i> Silvestri, 1901 宽额前新白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/proneotermes-macondianus/"><i>Proneotermes macondianus</i> Casalla, Scheffrahn & Korb, 2016 马康多前新白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/es/species/proneotermes-perezi/"><i>Proneotermes perezi</i> Holmgren, 1911 佩雷斯前新白<wbr>蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/proneotermes-tacicuarensis/"><i>Proneotermes tacicuarensis</i> Jurado-Vargas, Méndez-Montiel, García-Díaz & Cruz-de León, 2025 塔西夸罗前新<wbr>白蚁</a></li></ul>
+<h2>Especies (4)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/proneotermes-latifrons/"><i>Proneotermes latifrons</i> Silvestri, 1901 宽额前新白蚁</a></li><li><a href="{{ site.base_url }}/es/species/proneotermes-macondianus/"><i>Proneotermes macondianus</i> Casalla, Scheffrahn & Korb, 2016 马康多前新白蚁</a></li><li><a href="{{ site.base_url }}/es/species/proneotermes-perezi/"><i>Proneotermes perezi</i> Holmgren, 1911 佩雷斯前新白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/proneotermes-tacicuarensis/"><i>Proneotermes tacicuarensis</i> Jurado-Vargas, Méndez-Montiel, García-Díaz & Cruz-de León, 2025 塔西夸罗前新白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

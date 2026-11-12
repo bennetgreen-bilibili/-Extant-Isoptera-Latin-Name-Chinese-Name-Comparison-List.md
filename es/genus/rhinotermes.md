@@ -43,7 +43,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/rhinotermitidae/">鼻白蚁科 <i>Rhinotermitidae</i></a>; el sitio registra 4 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>Rhinotermitidae</i> 鼻白蚁科</a>; el sitio registra 4 especies.</p>
 <p>Especie tipo: <i>Rhinotermes nasutus</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -59,9 +59,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (4 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/rhinotermes-hispidus/"><i>Rhinotermes hispidus</i> Emerson, 1925 多毛鼻白蚁</a></li><li><a href="{{ site.base_url }}/es/species/rhinotermes-manni/"><i>Rhinotermes manni</i> Snyder, 1924 曼鼻白蚁</a></li><li><a href="{{ site.base_url }}/es/species/rhinotermes-marginalis/"><i>Rhinotermes marginalis</i> Linnaeus, 1758 微小鼻白蚁</a></li><li><a href="{{ site.base_url }}/es/species/rhinotermes-nasutus/"><i>Rhinotermes nasutus</i> Perty, 1833 大鼻鼻白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li></ul>
+<h2>Especies (4)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/rhinotermes-hispidus/"><i>Rhinotermes hispidus</i> Emerson, 1925 多毛鼻白蚁</a></li><li><a href="{{ site.base_url }}/es/species/rhinotermes-manni/"><i>Rhinotermes manni</i> Snyder, 1924 曼鼻白蚁</a></li><li><a href="{{ site.base_url }}/es/species/rhinotermes-marginalis/"><i>Rhinotermes marginalis</i> Linnaeus, 1758 微小鼻白蚁</a></li><li><a href="{{ site.base_url }}/es/species/rhinotermes-nasutus/"><i>Rhinotermes nasutus</i> Perty, 1833 大鼻鼻白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/rhinotermitidae/">鼻白蚁科 <i>Rhinotermitidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/rhinotermitidae/"><i>Rhinotermitidae</i> 鼻白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

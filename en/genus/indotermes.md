@@ -39,7 +39,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/apicotermitinae/">尖白蚁亚科 <i>Apicotermitinae</i></a>; the site records 10 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/apicotermitinae/"><i>Apicotermitinae</i> 尖白蚁亚科</a>; the site records 10 species.</p>
 <p>Type species: <i>Indotermes maymensis</i>.</p>
 <p>GBIF has no georeferenced records for this genus, so this page has no map; open a species entry to see its type locality and references.</p>
 </section>
@@ -49,15 +49,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/indotermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/indotermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/indotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (10 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/indotermes-arshadi/"><i>Indotermes arshadi</i> Akhtar, 1975 阿沙德印白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/indotermes-capillosus/"><i>Indotermes capillosus</i> Chatterjee & Thakur, 1965 多毛印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-hainanensis/"><i>Indotermes hainanensis</i> He & Xia, 1981 海南印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-isodentatus/"><i>Indotermes isodentatus</i> Tsai & Chen, 1963 等齿印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-luxiensis/"><i>Indotermes luxiensis</i> Huang & Zhu, 1984 潞西印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-maymensis/"><i>Indotermes maymensis</i> Roonwal & Sen-Sarma, 1958 眉妙印白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/indotermes-menggarensis/"><i>Indotermes menggarensis</i> Tsai & Zhu, 1984 勐戛印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-rongrensis/"><i>Indotermes rongrensis</i> Roonwal & Chhotani, 1962 龙格伦吉里印<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-thailandis/"><i>Indotermes thailandis</i> Ahmad, 1963 泰国印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-yunnanensis/"><i>Indotermes yunnanensis</i> He & Xia, 1981 云南印白蚁</a></li></ul>
+<h2>Species (10)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/indotermes-arshadi/"><i>Indotermes arshadi</i> Akhtar, 1975 阿沙德印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-capillosus/"><i>Indotermes capillosus</i> Chatterjee & Thakur, 1965 多毛印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-hainanensis/"><i>Indotermes hainanensis</i> He & Xia, 1981 海南印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-isodentatus/"><i>Indotermes isodentatus</i> Tsai & Chen, 1963 等齿印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-luxiensis/"><i>Indotermes luxiensis</i> Huang & Zhu, 1984 潞西印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-maymensis/"><i>Indotermes maymensis</i> Roonwal & Sen-Sarma, 1958 眉妙印白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/indotermes-menggarensis/"><i>Indotermes menggarensis</i> Tsai & Zhu, 1984 勐戛印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-rongrensis/"><i>Indotermes rongrensis</i> Roonwal & Chhotani, 1962 龙格伦吉里印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-thailandis/"><i>Indotermes thailandis</i> Ahmad, 1963 泰国印白蚁</a></li><li><a href="{{ site.base_url }}/en/species/indotermes-yunnanensis/"><i>Indotermes yunnanensis</i> He & Xia, 1981 云南印白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/apicotermitinae/">尖白蚁亚科 <i>Apicotermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/apicotermitinae/"><i>Apicotermitinae</i> 尖白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

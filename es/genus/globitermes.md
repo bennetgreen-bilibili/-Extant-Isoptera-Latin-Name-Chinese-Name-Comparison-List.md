@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a>; el sitio registra 7 especies, 2 subespecies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a>; el sitio registra 7 especies, 2 subespecies.</p>
 <p>Especie tipo: <i>Globitermes globosus</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -62,7 +62,7 @@ breadcrumb:
 <section class="taxon-section">
 <h2>Especies (7 especies, 2 subespecies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/globitermes-brachycerastes/"><i>Globitermes brachycerastes</i> Han, 1987 短角球白蚁</a></li><li><a href="{{ site.base_url }}/es/species/globitermes-globosus/"><i>Globitermes globosus</i> Haviland, 1898 球形球白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/globitermes-menglaensis/"><i>Globitermes menglaensis</i> Huang & Zhu, 1990 勐腊球白蚁</a></li><li><a href="{{ site.base_url }}/es/species/globitermes-mengpengensis/"><i>Globitermes mengpengensis</i> Zhu & Huang, 1990 勐捧球白蚁</a></li><li><a href="{{ site.base_url }}/es/species/globitermes-minor/"><i>Globitermes minor</i> Han, 1987 小球白蚁</a></li><li><a href="{{ site.base_url }}/es/species/globitermes-sulphureus/"><i>Globitermes sulphureus</i> Haviland, 1898 黄球白蚁</a></li><li><a href="{{ site.base_url }}/es/species/globitermes-vadaensis/"><i>Globitermes vadaensis</i> Kemner, 1934 瓦达球白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/es/species/globitermes-globosus-depilis/"><i>Globitermes globosus depilis</i> Holmgren, 1913 无毛亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/es/species/globitermes-globosus-globosus/"><i>Globitermes globosus globosus</i> Haviland, 1898 指名亚种</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

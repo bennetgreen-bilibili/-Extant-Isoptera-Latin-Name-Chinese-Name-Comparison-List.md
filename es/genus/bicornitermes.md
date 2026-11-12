@@ -39,7 +39,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>; el sitio registra 4 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a>; el sitio registra 4 especies.</p>
 <p>Especie tipo: <i>Bicornitermes bicornis</i>.</p>
 <p>GBIF no tiene registros con coordenadas para este género, por lo que esta página no incluye mapa; abra una entrada de especie para ver su localidad tipo y referencias.</p>
 </section>
@@ -55,9 +55,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (4 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/bicornitermes-bicornis/"><i>Bicornitermes bicornis</i> Krishna, 1961 双角双角白蚁<wbr></a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/bicornitermes-emersoni/"><i>Bicornitermes emersoni</i> Krishna, 1962 埃默森双角白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/es/species/bicornitermes-exsertifrons/"><i>Bicornitermes exsertifrons</i> Wilkinson, 1958 突额双角白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/bicornitermes-spinicollis/"><i>Bicornitermes spinicollis</i> Wilkinson, 1958 刺颈双角白蚁<wbr></a></li></ul>
+<h2>Especies (4)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/bicornitermes-bicornis/"><i>Bicornitermes bicornis</i> Krishna, 1961 双角双角白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/bicornitermes-emersoni/"><i>Bicornitermes emersoni</i> Krishna, 1962 埃默森双角白蚁</a></li><li><a href="{{ site.base_url }}/es/species/bicornitermes-exsertifrons/"><i>Bicornitermes exsertifrons</i> Wilkinson, 1958 突额双角白蚁</a></li><li><a href="{{ site.base_url }}/es/species/bicornitermes-spinicollis/"><i>Bicornitermes spinicollis</i> Wilkinson, 1958 刺颈双角白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

@@ -151,6 +151,8 @@ date: 2026-10-17
 version: 2026.10.30
 keywords: [termites, Isoptera, families, subfamilies, morphology, distribution]
 permalink: /en/list/sections/
+hreflang_skip: true
+lang_fallback_zh: "/list/"
 ---""",
     "es": """---
 layout: default
@@ -161,6 +163,8 @@ date: 2026-10-17
 version: 2026.10.30
 keywords: [termitas, Isoptera, familias, subfamilias, morfología, distribución]
 permalink: /es/list/sections/
+hreflang_skip: true
+lang_fallback_zh: "/list/"
 ---""",
 }
 

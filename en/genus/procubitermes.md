@@ -45,7 +45,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; the site records 9 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; the site records 9 species.</p>
 <p>Type species: <i>Procubitermes arboricola</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -55,15 +55,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/procubitermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/procubitermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/procubitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (9 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/procubitermes-aburiensis/"><i>Procubitermes aburiensis</i> Sjöstedt, 1926 阿布里原方白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-arboricola/"><i>Procubitermes arboricola</i> Sjöstedt, 1897 树栖原方白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/procubitermes-curvatus/"><i>Procubitermes curvatus</i> Silvestri, 1914 弯曲原方白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-niapuensis/"><i>Procubitermes niapuensis</i> Emerson, 1928 尼亚普原方白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-sinuosus/"><i>Procubitermes sinuosus</i> Silvestri, 1914 扭曲原方白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-sjostedti/"><i>Procubitermes sjostedti</i> Rosen, 1912 舍斯泰特原方<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-ueleensis/"><i>Procubitermes ueleensis</i> Sjöstedt, 1924 韦莱原方白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-undulans/"><i>Procubitermes undulans</i> Schmitz, 1917 波纹原方白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-wasmanni/"><i>Procubitermes wasmanni</i> Emerson, 1928 沃斯曼原方白<wbr>蚁</a></li></ul>
+<h2>Species (9)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/procubitermes-aburiensis/"><i>Procubitermes aburiensis</i> Sjöstedt, 1926 阿布里原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-arboricola/"><i>Procubitermes arboricola</i> Sjöstedt, 1897 树栖原方白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/procubitermes-curvatus/"><i>Procubitermes curvatus</i> Silvestri, 1914 弯曲原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-niapuensis/"><i>Procubitermes niapuensis</i> Emerson, 1928 尼亚普原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-sinuosus/"><i>Procubitermes sinuosus</i> Silvestri, 1914 扭曲原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-sjostedti/"><i>Procubitermes sjostedti</i> Rosen, 1912 舍斯泰特原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-ueleensis/"><i>Procubitermes ueleensis</i> Sjöstedt, 1924 韦莱原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-undulans/"><i>Procubitermes undulans</i> Schmitz, 1917 波纹原方白蚁</a></li><li><a href="{{ site.base_url }}/en/species/procubitermes-wasmanni/"><i>Procubitermes wasmanni</i> Emerson, 1928 沃斯曼原方白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

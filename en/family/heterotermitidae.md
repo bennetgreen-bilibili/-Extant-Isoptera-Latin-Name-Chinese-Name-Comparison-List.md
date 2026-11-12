@@ -51,8 +51,8 @@ breadcrumb:
 <p>This family is the most economically important group of termites in the world: Coptotermes formosanus (the Formosan subterranean termite) and C. gestroi are together regarded as the two most destructive structural termites in the world, jointly accounting for more than half of the annual global economic losses caused by termites. The former has been listed by the ISSG among the "100 of the World's Worst Invasive Alien Species" (32), while the latter causes 80%–90% of the insect damage to man-made structures in Singapore and Malaysia. C. curvignathus is a dangerous pest of rubber, coconut, and oil-palm plantations in Southeast Asia, and is also a quarantine target for import into China (33). C. acinaciformis and C. frenchi have been introduced from Australia into New Zealand; C. curvignathus has been introduced from Southeast Asia into China, the Philippines, and South Africa; C. gestroi, native to Southeast Asia, has spread to dozens of tropical countries and regions; C. sjostedti has been introduced from West Africa into Guadeloupe (France); C. truncatus has been introduced from Madagascar into the Seychelles; and the North American R. flavipes has been introduced from eastern North America into Europe (France, Germany, Austria), Chile, Uruguay, the Bahamas, and Guatemala through trade. In the Neotropical realm, Heterotermes tenuis damages sugarcane and eucalyptus seedlings in Brazil (34).</p>
 <p class="taxon-src">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/en/list/">Checklist</a>.</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_families["/family/heterotermitidae/"] -%}{%- if fz %}
-{% include fauna-family.html fauna=fz %}
+{%- assign fza = site.data.fauna_families["/family/heterotermitidae/"].en -%}{%- assign fz = site.data.translations_en.fauna_families["/family/heterotermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include taxon-literature.html %}
 <section class="taxon-section">

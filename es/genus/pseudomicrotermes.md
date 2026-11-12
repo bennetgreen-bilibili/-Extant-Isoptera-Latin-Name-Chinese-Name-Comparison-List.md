@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/foraminitermitinae/">孔白蚁亚科 <i>Foraminitermitinae</i></a>; el sitio registra 1 especie.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/foraminitermitinae/"><i>Foraminitermitinae</i> 孔白蚁亚科</a>; el sitio registra 1 especie.</p>
 <p>Especie tipo: <i>Pseudomicrotermes alboniger</i>.</p>
 <p>GBIF no tiene registros con coordenadas para este género, por lo que esta página no incluye mapa; abra una entrada de especie para ver su localidad tipo y referencias.</p>
 </section>
@@ -56,9 +56,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (1 especie)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/pseudomicrotermes-alboniger/"><i>Pseudomicrotermes alboniger</i> Wasmann, 1911 白黑伪小白蚁<wbr></a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li></ul>
+<h2>Especies (1)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/pseudomicrotermes-alboniger/"><i>Pseudomicrotermes alboniger</i> Wasmann, 1911 白黑伪小白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/foraminitermitinae/">孔白蚁亚科 <i>Foraminitermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/foraminitermitinae/"><i>Foraminitermitinae</i> 孔白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

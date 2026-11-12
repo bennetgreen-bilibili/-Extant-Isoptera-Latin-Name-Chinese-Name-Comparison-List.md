@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/termitinae/">白蚁亚科 <i>Termitinae</i></a>; the site records 5 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/termitinae/"><i>Termitinae</i> 白蚁亚科</a>; the site records 5 species.</p>
 <p>Type species: <i>Spinitermes trispinosus</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -50,15 +50,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/spinitermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/spinitermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/spinitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (5 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/spinitermes-brevicornutus/"><i>Spinitermes brevicornutus</i> Desneux, 1904 短角针刺白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-longiceps/"><i>Spinitermes longiceps</i> Constantino, 1991 长头针刺白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-nigrostomus/"><i>Spinitermes nigrostomus</i> Holmgren, 1906 黑嘴针刺白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-robustus/"><i>Spinitermes robustus</i> Snyder, 1926 粗壮针刺白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-trispinosus/"><i>Spinitermes trispinosus</i> Hagen, 1858 三针针刺白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li></ul>
+<h2>Species (5)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/spinitermes-brevicornutus/"><i>Spinitermes brevicornutus</i> Desneux, 1904 短角针刺白蚁</a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-longiceps/"><i>Spinitermes longiceps</i> Constantino, 1991 长头针刺白蚁</a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-nigrostomus/"><i>Spinitermes nigrostomus</i> Holmgren, 1906 黑嘴针刺白蚁</a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-robustus/"><i>Spinitermes robustus</i> Snyder, 1926 粗壮针刺白蚁</a></li><li><a href="{{ site.base_url }}/en/species/spinitermes-trispinosus/"><i>Spinitermes trispinosus</i> Hagen, 1858 三针针刺白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/termitinae/">白蚁亚科 <i>Termitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/termitinae/"><i>Termitinae</i> 白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

@@ -41,7 +41,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a>; the site records 6 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a>; the site records 6 species.</p>
 <p>Type species: <i>Dentispicotermes globicephalus</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -51,15 +51,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/dentispicotermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/dentispicotermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/dentispicotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (6 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/dentispicotermes-brevicarinatus/"><i>Dentispicotermes brevicarinatus</i> Emerson, 1950 短脊齿尖白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-conjunctus/"><i>Dentispicotermes conjunctus</i> Araujo, 1969 邻近齿尖白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-cupiporanga/"><i>Dentispicotermes cupiporanga</i> Bandeira & Cancello, 1992 库皮珀安加齿<wbr>尖白蚁</a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-globicephalus/"><i>Dentispicotermes globicephalus</i> Silvestri, 1901 球头齿尖白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-pantanalis/"><i>Dentispicotermes pantanalis</i> Mathews, 1977 沼泽齿尖白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-trapezia/"><i>Dentispicotermes trapezia</i> Scheffrahn, 2024 梯形齿尖白蚁<wbr></a></li></ul>
+<h2>Species (6)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/dentispicotermes-brevicarinatus/"><i>Dentispicotermes brevicarinatus</i> Emerson, 1950 短脊齿尖白蚁</a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-conjunctus/"><i>Dentispicotermes conjunctus</i> Araujo, 1969 邻近齿尖白蚁</a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-cupiporanga/"><i>Dentispicotermes cupiporanga</i> Bandeira & Cancello, 1992 库皮珀安加齿尖白蚁</a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-globicephalus/"><i>Dentispicotermes globicephalus</i> Silvestri, 1901 球头齿尖白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-pantanalis/"><i>Dentispicotermes pantanalis</i> Mathews, 1977 沼泽齿尖白蚁</a></li><li><a href="{{ site.base_url }}/en/species/dentispicotermes-trapezia/"><i>Dentispicotermes trapezia</i> Scheffrahn, 2024 梯形齿尖白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/amitermitinae/">弓白蚁亚科 <i>Amitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/amitermitinae/"><i>Amitermitinae</i> 弓白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

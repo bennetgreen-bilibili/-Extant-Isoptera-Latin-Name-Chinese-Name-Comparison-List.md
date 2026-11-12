@@ -97,7 +97,7 @@
 {%- comment -%} 只有名录主页面才加载地图 / 文献增强与名录排版；/list/ 的子页面（如 /list/name-issues/）不继承这些资源 {%- endcomment -%}
 {%- assign is_list_page = false -%}{%- if path_no_lang == '/list/' -%}{%- assign is_list_page = true -%}{%- endif -%}
 {%- assign is_papers_page = false -%}{%- if path_no_lang == '/papers/' -%}{%- assign is_papers_page = true -%}{%- endif -%}
-{% unless page.lang_only %}{% if page.layout == 'post' %}
+{% unless page.lang_only or page.hreflang_skip %}{% if page.layout == 'post' %}
 <link rel="alternate" hreflang="zh-CN" href="{{ site.base_url }}{{ page.url }}">
 <link rel="alternate" hreflang="x-default" href="{{ site.base_url }}{{ page.url }}">
 {% else %}
@@ -164,6 +164,8 @@
   三语切换目标：文章页没有其他语种版本，指向各语种博客列表；
   分类页/物种页现在三语各有独立页面，path_no_lang 派生的 /en、/es 地址就是对应语言页；
   仍然单语无对照的页面（图集、待审稿页）用 front matter 的 lang_only: true 排除。
+  hreflang_skip: true 的页面（只有 en/es 版的 /list/sections/ 合订本）不输出 hreflang，
+  其 lang_fallback_zh 指出中文版该去哪儿（/list/）。
 {%- endcomment -%}
 {%- if page.layout == 'post' -%}
 {%- assign url_zh = page.url -%}
@@ -174,6 +176,7 @@
 {%- assign url_en = '/en' | append: path_no_lang -%}
 {%- assign url_es = '/es' | append: path_no_lang -%}
 {%- endif -%}
+{%- if page.lang_fallback_zh -%}{%- assign url_zh = page.lang_fallback_zh -%}{%- endif -%}
 
 <header class="hero" data-pagefind-ignore>
   <div class="container hero-inner">

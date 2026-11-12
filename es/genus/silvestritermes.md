@@ -41,7 +41,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a>; el sitio registra 7 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/syntermitinae/"><i>Syntermitinae</i> 聚白蚁亚科</a>; el sitio registra 7 especies.</p>
 <p>Especie tipo: <i>Silvestritermes euamignathus</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -57,9 +57,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (7 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/silvestritermes-almirsateri/"><i>Silvestritermes almirsateri</i> Rocha & Cancello, 2012 阿尔米尔萨特<wbr>尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-duende/"><i>Silvestritermes duende</i> Rocha & Cancello, 2012 精灵西尔韦斯<wbr>特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-euamignathus/"><i>Silvestritermes euamignathus</i> Silvestri, 1901 真弓颚西尔韦<wbr>斯特里白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-gnomus/"><i>Silvestritermes gnomus</i> Constantino, 1991 标记西尔韦斯<wbr>特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-heyeri/"><i>Silvestritermes heyeri</i> Wasmann, 1915 海耶尔西尔韦<wbr>斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-lanei/"><i>Silvestritermes lanei</i> Canter, 1968 莱恩西尔韦斯<wbr>特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-minutus/"><i>Silvestritermes minutus</i> Emerson, 1925 最小西尔韦斯<wbr>特里白蚁</a></li></ul>
+<h2>Especies (7)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/silvestritermes-almirsateri/"><i>Silvestritermes almirsateri</i> Rocha & Cancello, 2012 阿尔米尔萨特<wbr>尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-duende/"><i>Silvestritermes duende</i> Rocha & Cancello, 2012 精灵西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-euamignathus/"><i>Silvestritermes euamignathus</i> Silvestri, 1901 真弓颚西尔韦斯特里白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-gnomus/"><i>Silvestritermes gnomus</i> Constantino, 1991 标记西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-heyeri/"><i>Silvestritermes heyeri</i> Wasmann, 1915 海耶尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-lanei/"><i>Silvestritermes lanei</i> Canter, 1968 莱恩西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/es/species/silvestritermes-minutus/"><i>Silvestritermes minutus</i> Emerson, 1925 最小西尔韦斯特里白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/syntermitinae/"><i>Syntermitinae</i> 聚白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

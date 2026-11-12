@@ -45,7 +45,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>; el sitio registra 5 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a>; el sitio registra 5 especies.</p>
 <p>Especie tipo: <i>Cortaritermes silvestrii</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -61,9 +61,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (5 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/cortaritermes-fulviceps/"><i>Cortaritermes fulviceps</i> Silvestri, 1901 栗头利颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-intermedius/"><i>Cortaritermes intermedius</i> Banks, 1919 中间利颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-piliceps/"><i>Cortaritermes piliceps</i> Holmgren, 1910 毛头利颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-rizzinii/"><i>Cortaritermes rizzinii</i> Araujo, 1971 里兹尼利颚白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-silvestrii/"><i>Cortaritermes silvestrii</i> Holmgren, 1910 西尔韦斯特里<wbr>利颚白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li></ul>
+<h2>Especies (5)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/cortaritermes-fulviceps/"><i>Cortaritermes fulviceps</i> Silvestri, 1901 栗头利颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-intermedius/"><i>Cortaritermes intermedius</i> Banks, 1919 中间利颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-piliceps/"><i>Cortaritermes piliceps</i> Holmgren, 1910 毛头利颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-rizzinii/"><i>Cortaritermes rizzinii</i> Araujo, 1971 里兹尼利颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/cortaritermes-silvestrii/"><i>Cortaritermes silvestrii</i> Holmgren, 1910 西尔韦斯特里利颚白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

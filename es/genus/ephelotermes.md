@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/">白蚁科 <i>Termitidae</i></a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/termitinae/">白蚁亚科 <i>Termitinae</i></a>; el sitio registra 6 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, en la subfamilia <a href="{{ site.base_url }}/es/subfamily/termitinae/"><i>Termitinae</i> 白蚁亚科</a>; el sitio registra 6 especies.</p>
 <p>Especie tipo: <i>Ephelotermes melachoma</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -56,9 +56,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (6 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/ephelotermes-argutus/"><i>Ephelotermes argutus</i> Hill, 1929 清楚棒颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-cheeli/"><i>Ephelotermes cheeli</i> Mjöberg, 1920 奇尔棒颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-melachoma/"><i>Ephelotermes melachoma</i> Miller, 1991 黑垄棒颚白蚁<wbr></a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-paleatus/"><i>Ephelotermes paleatus</i> Miller, 1991 深颏棒颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-persimilis/"><i>Ephelotermes persimilis</i> Gay, 1971 相似棒颚白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-taylori/"><i>Ephelotermes taylori</i> Hill, 1915 泰勒棒颚白蚁<wbr></a></li></ul>
+<h2>Especies (6)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/ephelotermes-argutus/"><i>Ephelotermes argutus</i> Hill, 1929 清楚棒颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-cheeli/"><i>Ephelotermes cheeli</i> Mjöberg, 1920 奇尔棒颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-melachoma/"><i>Ephelotermes melachoma</i> Miller, 1991 黑垄棒颚白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-paleatus/"><i>Ephelotermes paleatus</i> Miller, 1991 深颏棒颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-persimilis/"><i>Ephelotermes persimilis</i> Gay, 1971 相似棒颚白蚁</a></li><li><a href="{{ site.base_url }}/es/species/ephelotermes-taylori/"><i>Ephelotermes taylori</i> Hill, 1915 泰勒棒颚白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/termitinae/">白蚁亚科 <i>Termitinae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/subfamily/termitinae/"><i>Termitinae</i> 白蚁亚科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

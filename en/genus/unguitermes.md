@@ -39,7 +39,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; the site records 7 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; the site records 7 species.</p>
 <p>Type species: <i>Unguitermes bidentatus</i>.</p>
 <p>GBIF has no georeferenced records for this genus, so this page has no map; open a species entry to see its type locality and references.</p>
 </section>
@@ -49,15 +49,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/unguitermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/unguitermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/unguitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (7 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/unguitermes-acutifrons/"><i>Unguitermes acutifrons</i> Silvestri, 1914 尖额爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-bidentatus/"><i>Unguitermes bidentatus</i> Silvestri, 1914 双齿爪白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/unguitermes-bouilloni/"><i>Unguitermes bouilloni</i> Harris, 1965 布永爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-magnus/"><i>Unguitermes magnus</i> Ruelle, 1973 大爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-proclivifrons/"><i>Unguitermes proclivifrons</i> Ruelle, 1973 前斜额爪白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-trispinosus/"><i>Unguitermes trispinosus</i> Ruelle, 1973 三针爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-unidentatus/"><i>Unguitermes unidentatus</i> Ruelle, 1973 单齿爪白蚁</a></li></ul>
+<h2>Species (7)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/unguitermes-acutifrons/"><i>Unguitermes acutifrons</i> Silvestri, 1914 尖额爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-bidentatus/"><i>Unguitermes bidentatus</i> Silvestri, 1914 双齿爪白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/unguitermes-bouilloni/"><i>Unguitermes bouilloni</i> Harris, 1965 布永爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-magnus/"><i>Unguitermes magnus</i> Ruelle, 1973 大爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-proclivifrons/"><i>Unguitermes proclivifrons</i> Ruelle, 1973 前斜额爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-trispinosus/"><i>Unguitermes trispinosus</i> Ruelle, 1973 三针爪白蚁</a></li><li><a href="{{ site.base_url }}/en/species/unguitermes-unidentatus/"><i>Unguitermes unidentatus</i> Ruelle, 1973 单齿爪白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

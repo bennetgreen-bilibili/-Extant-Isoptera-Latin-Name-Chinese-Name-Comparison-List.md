@@ -50,8 +50,8 @@ breadcrumb:
 <p>The living species Hodotermopsis sjostedti is distributed in Japan, Taiwan (China), southern China and Vietnam(12). Consistent with its close relatives, Hodotermopsis inhabits moist, decaying wood; the colony nests inside fallen logs and lives in a single-piece wood nest, with labor within the nest performed by pseudergates. The soldiers have a subquadrate-oval, flattened head with the anterior half darker; the vertex bears a central depression; the ocelli are distinct and kidney-shaped; the mandibles are robust and symmetrical, the left mandible bearing four and the right mandible two large marginal teeth; the antennae have 22–24 segments; the pronotum is crescent-shaped and slightly narrower than the head. The winged adults are 12–13.5 mm long, with 21–26 antennal segments and the forewing scale slightly larger than the hindwing scale. Economically, Hodotermopsis sjostedti damages living and felled trees in southern China and is a wood-boring pest(13)</p>
 <p class="taxon-src">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/en/list/">Checklist</a>.</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_families["/family/hodotermopsidae/"] -%}{%- if fz %}
-{% include fauna-family.html fauna=fz %}
+{%- assign fza = site.data.fauna_families["/family/hodotermopsidae/"].en -%}{%- assign fz = site.data.translations_en.fauna_families["/family/hodotermopsidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include taxon-literature.html %}
 <section class="taxon-section">

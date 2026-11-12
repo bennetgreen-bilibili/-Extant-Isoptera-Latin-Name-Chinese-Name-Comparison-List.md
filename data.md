@@ -14,7 +14,7 @@ permalink: /data/
 
 <p>本站的机器可读数据已按类群拆分，入口为 <a href="{{ site.base_url }}/data/index.json"><code>data/index.json</code></a>（含 6 支系、13 科、18 亚科的完整分类树与全部文件清单）。以下 <strong>22 个 JSON 文件</strong>均可独立访问与下载。</p>
 
-## 归档数据集与 DOI <span class="fact-en">Archived dataset &amp; DOI</span>
+## 归档数据集与 DOI
 
 <p>全部名录另已整理为可引用的归档数据集（<strong>3089 条记录</strong>：逐条 CSV、分类树 JSON、次异名长表、参考文献表，附 DataCite 4.6 元数据与 CC BY 4.0 许可），可直接下载：
 <a href="{{ site.base_url }}/{{ site.dataset.archive_file }}"><code>{{ site.dataset.archive_file }}</code></a>。</p>
@@ -71,7 +71,7 @@ permalink: /data/
   <li><a href="{{ site.base_url }}/data/termitidae/termitinae.json">白蚁亚科 Termitinae</a> — 23 属 · 106 种</li>
 </ul>
 
-## 检索索引与程序化访问 <span class="fact-en">Search index &amp; programmatic access</span>
+## 检索索引与程序化访问
 
 <ul>
   <li><a href="{{ site.base_url }}/search-index.json"><code>search-index.json</code></a> — 名录检索索引（拼音 / 繁体 / 次异名，含所属科字段；由 <code>build_search_index.py</code> 生成）</li>
@@ -80,7 +80,7 @@ permalink: /data/
   <li>订阅：<a href="{{ site.base_url }}/feed.xml">feed.xml（Atom）</a> · <a href="{{ site.base_url }}/feed.json">feed.json（JSON Feed）</a> · <a href="{{ site.base_url }}/changelog.atom">changelog.atom（版本记录）</a></li>
   <li>搜索发现：<a href="{{ site.base_url }}/opensearch.xml">opensearch.xml</a>（浏览器可把本站加为搜索引擎；检索地址 <code>/search/?q=…</code>）</li>
 
-<h2 id="authority">外部权威库对照 <span class="fact-en">External authority cross-check</span></h2>
+<h2 id="authority">外部权威库对照</h2>
 
 <p>每个物种页的「其他数据库」区块，由 <code>.github/workflows/build_authority_links.py</code> 按学名查询
 <a href="https://api.gbif.org/v1/species/match">GBIF Backbone API</a>、

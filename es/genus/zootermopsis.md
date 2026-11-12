@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/archotermopsidae/">古白蚁科 <i>Archotermopsidae</i></a>; el sitio registra 3 especies, 2 subespecies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>Archotermopsidae</i> 古白蚁科</a>; el sitio registra 3 especies, 2 subespecies.</p>
 <p>Especie tipo: <i>Zootermopsis angusticollis</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -60,9 +60,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (3 especies, 2 subespecies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/zootermopsis-angusticollis/"><i>Zootermopsis angusticollis</i> Hagen, 1858 狭颈动白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/zootermopsis-laticeps/"><i>Zootermopsis laticeps</i> Banks, 1906 宽头动白蚁</a></li><li><a href="{{ site.base_url }}/es/species/zootermopsis-nevadensis/"><i>Zootermopsis nevadensis</i> Hagen, 1874 内华达动白蚁<wbr></a></li><li class="taxon-sub"><a href="{{ site.base_url }}/es/species/zootermopsis-nevadensis-nevadensis/"><i>Zootermopsis nevadensis nevadensis</i> Hagen, 1874 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/es/species/zootermopsis-nevadensis-nuttingi/"><i>Zootermopsis nevadensis nuttingi</i> Haverty & Thorne, 1989 纳丁亚种</a></li></ul>
+<h2>Especies (3 especies, 2 subespecies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/zootermopsis-angusticollis/"><i>Zootermopsis angusticollis</i> Hagen, 1858 狭颈动白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/zootermopsis-laticeps/"><i>Zootermopsis laticeps</i> Banks, 1906 宽头动白蚁</a></li><li><a href="{{ site.base_url }}/es/species/zootermopsis-nevadensis/"><i>Zootermopsis nevadensis</i> Hagen, 1874 内华达动白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/es/species/zootermopsis-nevadensis-nevadensis/"><i>Zootermopsis nevadensis nevadensis</i> Hagen, 1874 指名亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/es/species/zootermopsis-nevadensis-nuttingi/"><i>Zootermopsis nevadensis nuttingi</i> Haverty & Thorne, 1989 纳丁亚种</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/archotermopsidae/">古白蚁科 <i>Archotermopsidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/archotermopsidae/"><i>Archotermopsidae</i> 古白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

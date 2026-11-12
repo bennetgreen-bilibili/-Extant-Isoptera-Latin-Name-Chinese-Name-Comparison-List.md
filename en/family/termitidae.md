@@ -45,8 +45,8 @@ breadcrumb:
 <p>The family is currently divided into 18 subfamilies (21): Amitermitinae (14 genera, 194 species), Apicotermitinae (68 genera, 241 species), Crepititermitinae (1 genera, 1 species), Cubitermitinae (28 genera, 149 species), Cylindrotermitinae (2 genera, 9 species), Engelitermitinae (1 genera, 1 species), Foraminitermitinae (3 genera, 10 species), Forficulitermitinae (1 genera, 1 species), Macrotermitinae (12 genera, 373 species), Microcerotermitinae (2 genera, 150 species), Mirocapritermitinae (14 genera, 135 species), Nasutitermitinae (81 genera, 606 species), Neocapritermitinae (3 genera, 20 species), Promirotermitinae (2 genera, 39 species), Protohamitermitinae (2 genera, 2 species), Sphaerotermitinae (1 genera, 1 species), Syntermitinae (22 genera, 105 species), and Termitinae (23 genera, 107 species). The economic damage caused by this family is detailed under each subfamily.</p>
 <p class="taxon-src">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/en/list/">Checklist</a>.</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_families["/family/termitidae/"] -%}{%- if fz %}
-{% include fauna-family.html fauna=fz %}
+{%- assign fza = site.data.fauna_families["/family/termitidae/"].en -%}{%- assign fz = site.data.translations_en.fauna_families["/family/termitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz abstract=fza %}
 {%- endif %}
 {%- assign fk = site.data.translations_en.fauna_keys["/family/termitidae/"] -%}{%- if fk %}
 {% include fauna-keys.html fk=fk %}

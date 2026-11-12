@@ -72,8 +72,8 @@ _NUM_WORDS = {
         28: ["twenty-eight", "twenty-eighth"], 29: ["twenty-nine", "twenty-ninth"],
     },
     "es": {
-        1: ["uno", "un", "una", "primero", "primera"], 2: ["dos", "segundo", "segunda", "veces"],
-        3: ["tres", "tercero", "tercera", "tercio"], 4: ["cuatro", "cuarto", "cuarta"],
+        1: ["uno", "un", "una", "primero", "primera", "primer"], 2: ["dos", "segundo", "segunda", "veces"],
+        3: ["tres", "tercero", "tercera", "tercio", "tercer"], 4: ["cuatro", "cuarto", "cuarta"],
         5: ["cinco", "quinto", "quinta"], 6: ["seis", "sexto", "sexta"],
         7: ["siete", "séptimo", "séptima", "sétimo"], 8: ["ocho", "octavo", "octava"],
         9: ["nueve", "noveno", "novena"], 10: ["diez", "décimo", "décima"],
@@ -102,7 +102,8 @@ def _words_for(lang, n):
 def _has_word(lang, dst, n):
     low = fold(dst).lower()
     for form in _words_for(lang, n):
-        if re.search(r"(?<![a-z])" + re.escape(form) + r"(?![a-z])", low):
+        # allow a plural / hyphenated continuation ("two-thirds", "four-fifths")
+        if re.search(r"(?<![a-z])" + re.escape(form) + r"s?(?![a-z])", low):
             return True
     return False
 
@@ -113,13 +114,39 @@ def num_runs(s):
     return NUM_RE.findall(s)
 
 
+PHRASES = [
+    (r"one and a half", "1.5"), (r"two and a half", "2.5"),
+    (r"uno y medio", "1.5"), (r"una y media", "1.5"), (r"dos y medio", "2.5"),
+    (r"\bel doble\b", "2"), (r"\btwice\b", "2"), (r"\bthrice\b", "3"),
+    (r"\bboth\b", "2"), (r"\bambos\b", "2"), (r"\bambas\b", "2"),
+    (r"\ba single\b", "1"), (r"\bsingle\b", "1"),
+    (r"\bunico\b", "1"), (r"\bunica\b", "1"),
+]
+
+
+def normalize_phrases(dst):
+    low = fold(dst).lower()
+    for pat, rep in PHRASES:
+        low = re.sub(pat, rep, low)
+    return low
+
+
 def missing_numbers(src, dst, lang):
-    have = num_runs(dst)
+    have = set(num_runs(normalize_phrases(dst)))
+    # Fractions like 2/3 are legitimately rendered "two-thirds": once the
+    # denominator (and an explicit numerator, if not 1) is spelled out there,
+    # both terms are accounted for.
+    frac_ok = set()
+    for a, b in re.findall(r"(\d+)\s*/\s*(\d+)", src):
+        if _has_word(lang, dst, int(b)) and (a == "1" or _has_word(lang, dst, int(a))):
+            frac_ok.update([a, b])
     miss = []
     for tok in num_runs(src):
         if tok in have:
             continue
         if re.fullmatch(r"\d{1,2}", tok) and _has_word(lang, dst, int(tok)):
+            continue
+        if tok in frac_ok:
             continue
         miss.append(tok)
     return sorted(set(miss))
@@ -128,6 +155,54 @@ def missing_numbers(src, dst, lang):
 def fold(s):
     """Strip diacritics so that Grassé/Grasse compare equal (author-name check only)."""
     return "".join(c for c in unicodedata.normalize("NFD", s) if not unicodedata.combining(c))
+
+
+NAME_FIELDS = {"latin", "book_name"}
+_VOCAB = None
+
+
+def build_vocab():
+    """Taxonomic names and authorities that must survive translation.
+
+    Harvested from the source data: page keys (/genus/coptotermes/ -> Coptotermes),
+    plus the latin-name and citation fields. Any other capitalised word in the
+    Chinese prose (Malpighian, Untergattung, Ticuna...) is a normal word that is
+    supposed to be translated, so it is not checked.
+    """
+    vocab = set(LATIN_IGNORE)
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "_data")
+    for fn in sorted(os.listdir(data_dir)):
+        if not fn.endswith(".json"):
+            continue
+        try:
+            with open(os.path.join(data_dir, fn), encoding="utf-8") as fh:
+                obj = json.load(fh)
+        except Exception:  # noqa: BLE001
+            continue
+        stack = [obj]
+        while stack:
+            cur = stack.pop()
+            if isinstance(cur, dict):
+                for k, v in cur.items():
+                    if isinstance(k, str) and k.startswith("/") and k.endswith("/"):
+                        for seg in k.strip("/").split("/"):
+                            for part in seg.split("-"):
+                                if len(part) >= 3:
+                                    vocab.add(part[0].upper() + part[1:])
+                    if isinstance(v, str) and k in NAME_FIELDS:
+                        vocab.update(LATIN_RE.findall(v))
+                    elif isinstance(v, (dict, list)):
+                        stack.append(v)
+            elif isinstance(cur, list):
+                stack.extend(cur)
+    return vocab
+
+
+def vocab():
+    global _VOCAB
+    if _VOCAB is None:
+        _VOCAB = build_vocab()
+    return _VOCAB
 
 
 def check_string(src, dst, where, problems, lang="en"):
@@ -147,8 +222,9 @@ def check_string(src, dst, where, problems, lang="en"):
     if miss:
         problems.append("%s: numeric tokens lost %s" % (where, miss))
     flat = fold(dst).replace(" ", "")
+    known = vocab()
     for tok in LATIN_RE.findall(src):
-        if tok in LATIN_IGNORE:
+        if tok in LATIN_IGNORE or tok not in known:
             continue
         if tok not in dst and fold(tok) not in flat:
             problems.append("%s: Latin token lost %r" % (where, tok))
@@ -257,6 +333,14 @@ def main():
     total_bad = 0
     report = {}
     merged = {lang: {} for lang in langs}
+    prev = {}
+    for lang in langs:
+        out_path = os.path.join(DATA, "translations_%s.json" % lang)
+        if os.path.exists(out_path):
+            with open(out_path, encoding="utf-8") as fh:
+                prev[lang] = json.load(fh)
+        else:
+            prev[lang] = {}
     for name in names:
         man_path = os.path.join(TR, "manifest_%s.json" % name)
         if not os.path.exists(man_path):
@@ -311,12 +395,20 @@ def main():
         root = {"meta": meta}
         cov = {"keys": 0, "chars": 0, "files": {}}
         for name in ORDER[1:]:
-            if name in merged[lang]:
+            if name in merged[lang] and merged[lang][name]:
                 root[name] = sort_deep(merged[lang][name])
                 cov["files"][name] = {"keys": len(merged[lang][name]),
                                       "chars": report.get((name, lang), {}).get("chars", 0)}
-                cov["keys"] += len(merged[lang][name])
-                cov["chars"] += cov["files"][name]["chars"]
+            elif isinstance(prev[lang].get(name), dict) and prev[lang][name]:
+                # out of scope for this run (e.g. W2): carry the existing block over
+                root[name] = prev[lang][name]
+                pf = (prev[lang].get("meta", {}).get("coverage", {}) or {}).get("files", {}).get(name, {})
+                cov["files"][name] = {"keys": len(prev[lang][name]),
+                                      "chars": pf.get("chars", 0)}
+            else:
+                continue
+            cov["keys"] += cov["files"][name]["keys"]
+            cov["chars"] += cov["files"][name]["chars"]
         root["meta"] = dict(meta, coverage=cov)
         out_path = os.path.join(DATA, "translations_%s.json" % lang)
         with open(out_path, "w", encoding="utf-8") as fh:

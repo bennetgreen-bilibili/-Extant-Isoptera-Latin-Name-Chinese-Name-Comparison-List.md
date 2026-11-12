@@ -300,26 +300,6 @@ def html_link(label, path):
     return "[%s](%s%s)" % (label, SITE, path)
 
 
-def inline_bi(zh, en, es):
-    """中文在前 + 行内英/西（i18n 规范 §1.1）：中文不加 .fact-zh，英/西各自包 span。"""
-    return '%s <span class="fact-en" lang="en">%s</span> <span class="fact-es" lang="es">%s</span>' % (
-        zh, en, es)
-
-
-def bi_paragraphs(en, es):
-    """整段式英/西（i18n 规范 §1.2）：返回以空行分隔的 <p> 块。
-
-    注意：kramdown 不解析原始 HTML 块里的 Markdown，所以进入这里的文本必须
-    已是 HTML（学名用 <i>…</i>，不能写 *…*）。
-    """
-    return [
-        "",
-        '<p class="fact-en" lang="en">%s</p>' % en,
-        "",
-        '<p class="fact-es" lang="es">%s</p>' % es,
-    ]
-
-
 def html_text(value):
     """放进原始 HTML 段落的文本：只转义会破坏标签的三个字符。"""
     return clean(value).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")

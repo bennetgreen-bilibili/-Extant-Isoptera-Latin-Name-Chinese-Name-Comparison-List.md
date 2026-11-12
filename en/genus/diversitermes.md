@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>; the site records 4 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a>; the site records 4 species.</p>
 <p>Type species: <i>Diversitermes diversimiles</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -54,15 +54,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/diversitermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/diversitermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/diversitermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (4 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/diversitermes-aporeticus/"><i>Diversitermes aporeticus</i> Mathews, 1977 怀疑歧白蚁</a></li><li><a href="{{ site.base_url }}/en/species/diversitermes-castaniceps/"><i>Diversitermes castaniceps</i> Holmgren, 1910 栗头歧白蚁</a></li><li><a href="{{ site.base_url }}/en/species/diversitermes-diversimiles/"><i>Diversitermes diversimiles</i> Silvestri, 1901 多兵歧白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/diversitermes-tiapuan/"><i>Diversitermes tiapuan</i> Oliveira & Constantino, 2016 长简鼻歧白蚁<wbr></a></li></ul>
+<h2>Species (4)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/diversitermes-aporeticus/"><i>Diversitermes aporeticus</i> Mathews, 1977 怀疑歧白蚁</a></li><li><a href="{{ site.base_url }}/en/species/diversitermes-castaniceps/"><i>Diversitermes castaniceps</i> Holmgren, 1910 栗头歧白蚁</a></li><li><a href="{{ site.base_url }}/en/species/diversitermes-diversimiles/"><i>Diversitermes diversimiles</i> Silvestri, 1901 多兵歧白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/diversitermes-tiapuan/"><i>Diversitermes tiapuan</i> Oliveira & Constantino, 2016 长简鼻歧白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

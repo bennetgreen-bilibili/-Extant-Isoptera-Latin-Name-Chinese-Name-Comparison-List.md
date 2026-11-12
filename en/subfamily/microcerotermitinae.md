@@ -57,7 +57,7 @@ breadcrumb:
 <section class="taxon-section">
 <h2>Genera (2)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/genus/microcerotermes/"><i>Microcerotermes</i> 锯白蚁属</a> <span class="taxon-count">148 species, 7 subspecies</span></li><li><a href="{{ site.base_url }}/en/genus/onkotermes/"><i>Onkotermes</i> 倒钩白蚁属</a> <span class="taxon-count">2 species</span></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

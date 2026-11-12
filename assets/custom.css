@@ -201,9 +201,6 @@ a{color:var(--accent)}
 .species-fact{margin:.85em 0}
 .species-fact dt{font-weight:700;margin-bottom:.3em}
 .species-fact dd{margin:0;line-height:1.6}
-.fact-zh{color:var(--ink)}
-.fact-en{color:var(--muted);font-size:.9em;font-weight:400}
-.fact-es{color:var(--muted);font-size:.9em;font-weight:400}
 .species-lang-nav{margin:.9em 0;font-size:.92em;color:var(--muted)}
 .species-lang-nav a{color:var(--accent);text-decoration:none}
 .species-lang-nav a:hover{text-decoration:underline}

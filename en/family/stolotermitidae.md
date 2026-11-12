@@ -50,8 +50,8 @@ breadcrumb:
 <p>This family comprises the “dampwood termites” with a typical Gondwanan disjunct distribution: Porotermes is distributed in Australia, South Africa, Chile and southern South America; Stolotermes is distributed in Australia, New Zealand and South Africa. Both genera inhabit moist, decaying fallen logs and the area beneath the bark of standing dead trees; colonies nest inside the wood and live in single-piece wood nests. The historical biogeographic pattern of this family may have been influenced by both early land connections and subsequent transoceanic dispersal, and the distribution of the living genera cannot be explained solely by the breakup of Gondwana. Economically, Porotermes quadricollis occasionally damages moist wooden structures in Chile(15). According to Evans et al. (2013)(4), Porotermes adamsoni was introduced into New Zealand with wooden railway sleepers imported in 1941, and is now distributed at five sites on the North Island and one on the South Island, occurring in imported sawn timber and trees.</p>
 <p class="taxon-src">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/en/list/">Checklist</a>.</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_families["/family/stolotermitidae/"] -%}{%- if fz %}
-{% include fauna-family.html fauna=fz %}
+{%- assign fza = site.data.fauna_families["/family/stolotermitidae/"].en -%}{%- assign fz = site.data.translations_en.fauna_families["/family/stolotermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include taxon-literature.html %}
 <section class="taxon-section">

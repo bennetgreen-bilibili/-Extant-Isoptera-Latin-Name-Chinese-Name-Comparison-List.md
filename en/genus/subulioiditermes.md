@@ -39,7 +39,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a>; the site records 3 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a>; the site records 3 species.</p>
 <p>Type species: <i>Subulioiditermes subulioides</i>.</p>
 <p>GBIF has no georeferenced records for this genus, so this page has no map; open a species entry to see its type locality and references.</p>
 </section>
@@ -49,15 +49,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/subulioiditermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/subulioiditermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/subulioiditermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (3 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/subulioiditermes-borneensis/"><i>Subulioiditermes borneensis</i> Ahmad, 1968 婆罗似锥白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/subulioiditermes-emersoni/"><i>Subulioiditermes emersoni</i> Ahmad, 1968 埃默森似锥白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/subulioiditermes-subulioides/"><i>Subulioiditermes subulioides</i> Ahmad, 1968 似锥似锥白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li></ul>
+<h2>Species (3)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/subulioiditermes-borneensis/"><i>Subulioiditermes borneensis</i> Ahmad, 1968 婆罗似锥白蚁</a></li><li><a href="{{ site.base_url }}/en/species/subulioiditermes-emersoni/"><i>Subulioiditermes emersoni</i> Ahmad, 1968 埃默森似锥白蚁</a></li><li><a href="{{ site.base_url }}/en/species/subulioiditermes-subulioides/"><i>Subulioiditermes subulioides</i> Ahmad, 1968 似锥似锥白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/">象白蚁亚科 <i>Nasutitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/nasutitermitinae/"><i>Nasutitermitinae</i> 象白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

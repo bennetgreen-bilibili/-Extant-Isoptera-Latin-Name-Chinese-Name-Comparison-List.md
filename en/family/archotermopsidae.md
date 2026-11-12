@@ -50,8 +50,8 @@ breadcrumb:
 <p>The distribution of this family shows a disjunct north-temperate pattern: the genus Zootermopsis is restricted to western North America (from the west coast to the southwest), while the genus Archotermopsis is distributed in China, Vietnam, South Asia and adjacent regions. Both genera inhabit decaying fallen logs and stumps in humid environments, constructing their nest within a single piece of wood; the colony never leaves its food source throughout its life, and labor is performed by pseudergates. Zootermopsis angusticollis became established in Hawaii (at high elevation on Maui) around 1999, and Zootermopsis nevadensis was first recorded in Japan at Kawanishi in 2000 (4). This family has low tolerance for dry environments and generally does not damage dry structural timber, but in North America Zootermopsis attacks damp wooden structural members along the Pacific coast, where it is an important dampwood termite pest of buildings (6).</p>
 <p class="taxon-src">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/en/list/">Checklist</a>.</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_families["/family/archotermopsidae/"] -%}{%- if fz %}
-{% include fauna-family.html fauna=fz %}
+{%- assign fza = site.data.fauna_families["/family/archotermopsidae/"].en -%}{%- assign fz = site.data.translations_en.fauna_families["/family/archotermopsidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include taxon-literature.html %}
 <section class="taxon-section">

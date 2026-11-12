@@ -7,6 +7,8 @@ date: 2026-10-17
 version: 2026.10.30
 keywords: [termitas, Isoptera, familias, subfamilias, morfología, distribución]
 permalink: /es/list/sections/
+hreflang_skip: true
+lang_fallback_zh: "/list/"
 ---
 
 # Textos de familias y subfamilias (español)

@@ -52,7 +52,7 @@ breadcrumb:
 <section class="taxon-section">
 <h2>Genera (3)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/genus/foraminitermes/"><i>Foraminitermes</i> 孔白蚁属</a> <span class="taxon-count">6 species</span></li><li><a href="{{ site.base_url }}/en/genus/labritermes/"><i>Labritermes</i> 唇白蚁属</a> <span class="taxon-count">3 species</span></li><li><a href="{{ site.base_url }}/en/genus/pseudomicrotermes/"><i>Pseudomicrotermes</i> 伪小白蚁属</a> <span class="taxon-count">1 species</span></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

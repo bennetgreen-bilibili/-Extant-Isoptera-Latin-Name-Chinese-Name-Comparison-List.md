@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitogetonidae/">寡脉白蚁科 <i>Termitogetonidae</i></a>; el sitio registra 2 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>Termitogetonidae</i> 寡脉白蚁科</a>; el sitio registra 2 especies.</p>
 <p>Especie tipo: <i>Termitogeton planus</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -60,9 +60,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (2 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/termitogeton-planus/"><i>Termitogeton planus</i> Haviland, 1898 平坦寡脉白蚁<wbr></a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/termitogeton-umbilicatus/"><i>Termitogeton umbilicatus</i> Hagen, 1858 中凹寡脉白蚁<wbr></a></li></ul>
+<h2>Especies (2)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/termitogeton-planus/"><i>Termitogeton planus</i> Haviland, 1898 平坦寡脉白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/termitogeton-umbilicatus/"><i>Termitogeton umbilicatus</i> Hagen, 1858 中凹寡脉白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/termitogetonidae/">寡脉白蚁科 <i>Termitogetonidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/termitogetonidae/"><i>Termitogetonidae</i> 寡脉白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

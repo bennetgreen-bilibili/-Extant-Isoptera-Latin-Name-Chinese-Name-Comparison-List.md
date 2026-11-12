@@ -40,8 +40,8 @@ breadcrumb:
 <p>This family is a small family endemic to the Neotropical realm, occurring from northern South America (the Guiana Shield) to Brazil. It lacks a true worker caste. The two genera differ markedly in their way of life: Glossotermes is a wood-dwelling termite that lives inside dry, decaying fallen logs, whereas S. serrifer is a rare obligate inquiline among termites, spending its entire life within the epigeal mound nests of the termitid Cornitermes cumulans without building a nest of its own; its soldiers have sickle-shaped mandibles with serrate inner margins. In this family the soldier head is elongate with arcuate lateral margins, and bears a small, blind-ended fontanelle at the front of the head that does not communicate with the frontal gland; the antennae have 12–15 articles (12–13 in Serritermes, 13–15 in Glossotermes). The frontal gland of the soldier is extremely well developed, extending from the head into the anterior half of the thorax and abdomen; when defending, it releases the secretion through the back of the neck by self-rupture (autothysis) (26).</p>
 <p class="taxon-src">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/en/list/">Checklist</a>.</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_families["/family/serritermitidae/"] -%}{%- if fz %}
-{% include fauna-family.html fauna=fz %}
+{%- assign fza = site.data.fauna_families["/family/serritermitidae/"].en -%}{%- assign fz = site.data.translations_en.fauna_families["/family/serritermitidae/"] -%}{%- if fz %}
+{% include fauna-family.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include taxon-literature.html %}
 <section class="taxon-section">

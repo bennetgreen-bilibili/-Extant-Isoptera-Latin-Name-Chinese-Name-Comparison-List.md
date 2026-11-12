@@ -56,7 +56,7 @@ breadcrumb:
 <section class="taxon-section">
 <h2>Genera (3)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/genus/neocapritermes/"><i>Neocapritermes</i> 新扭白蚁属</a> <span class="taxon-count">17 species</span></li><li><a href="{{ site.base_url }}/en/genus/planicapritermes/"><i>Planicapritermes</i> 平扭白蚁属</a> <span class="taxon-count">2 species</span></li><li><a href="{{ site.base_url }}/en/genus/schievitermes/"><i>Schievitermes</i> 不对称白蚁属</a> <span class="taxon-count">1 species</span></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

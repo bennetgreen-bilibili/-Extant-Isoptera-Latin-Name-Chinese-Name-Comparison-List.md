@@ -40,7 +40,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; the site records 9 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; the site records 9 species.</p>
 <p>Type species: <i>Lepidotermes pretoriensis</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -50,15 +50,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/lepidotermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/lepidotermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/lepidotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (9 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/lepidotermes-amydrus/"><i>Lepidotermes amydrus</i> Uys, 1994 幽暗鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-goliathi/"><i>Lepidotermes goliathi</i> Williams, 1954 戈利亚特鳞白<wbr>蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-lounsburyi/"><i>Lepidotermes lounsburyi</i> Silvestri, 1914 劳恩斯伯里鳞<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-mtwalumi/"><i>Lepidotermes mtwalumi</i> Fuller, 1925 姆图瓦卢米鳞<wbr>白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-planifacies/"><i>Lepidotermes planifacies</i> Williams, 1954 扁形鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-pretoriensis/"><i>Lepidotermes pretoriensis</i> Sjöstedt, 1914 比勒陀利亚鳞<wbr>白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-scalenus/"><i>Lepidotermes scalenus</i> Uys, 1994 斜角肌鳞白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-simplex/"><i>Lepidotermes simplex</i> Holmgren, 1913 简单鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-vastus/"><i>Lepidotermes vastus</i> Uys, 1994 空闲鳞白蚁</a></li></ul>
+<h2>Species (9)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/lepidotermes-amydrus/"><i>Lepidotermes amydrus</i> Uys, 1994 幽暗鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-goliathi/"><i>Lepidotermes goliathi</i> Williams, 1954 戈利亚特鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-lounsburyi/"><i>Lepidotermes lounsburyi</i> Silvestri, 1914 劳恩斯伯里鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-mtwalumi/"><i>Lepidotermes mtwalumi</i> Fuller, 1925 姆图瓦卢米鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-planifacies/"><i>Lepidotermes planifacies</i> Williams, 1954 扁形鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-pretoriensis/"><i>Lepidotermes pretoriensis</i> Sjöstedt, 1914 比勒陀利亚鳞白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-scalenus/"><i>Lepidotermes scalenus</i> Uys, 1994 斜角肌鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-simplex/"><i>Lepidotermes simplex</i> Holmgren, 1913 简单鳞白蚁</a></li><li><a href="{{ site.base_url }}/en/species/lepidotermes-vastus/"><i>Lepidotermes vastus</i> Uys, 1994 空闲鳞白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

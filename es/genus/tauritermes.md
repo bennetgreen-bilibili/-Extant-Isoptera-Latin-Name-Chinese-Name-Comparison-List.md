@@ -44,7 +44,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>Acerca del género</h2>
-<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a>; el sitio registra 4 especies.</p>
+<p>Este género pertenece a la familia <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a>; el sitio registra 4 especies.</p>
 <p>Especie tipo: <i>Tauritermes taurocephalus</i>.</p>
 <p>Esta página incluye un mapa de distribución del género (registros de GBIF agregados en una cuadrícula de 1°); abra una entrada de especie para ver su localidad tipo, distribución y referencias.</p>
 </section>
@@ -60,9 +60,9 @@ breadcrumb:
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Especies (4 especies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/tauritermes-bandeirai/"><i>Tauritermes bandeirai</i> Scheffrahn & Vasconcellos, 2020 班代拉牛白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/tauritermes-taurocephalus/"><i>Tauritermes taurocephalus</i> Silvestri, 1901 牛头牛白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/tauritermes-triceromegas/"><i>Tauritermes triceromegas</i> Silvestri, 1901 三混气牛白蚁<wbr></a></li><li><a href="{{ site.base_url }}/es/species/tauritermes-vitulus/"><i>Tauritermes vitulus</i> Araujo & Fontes, 1979 公犊牛白蚁</a></li></ul>
+<h2>Especies (4)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/es/species/tauritermes-bandeirai/"><i>Tauritermes bandeirai</i> Scheffrahn & Vasconcellos, 2020 班代拉牛白蚁</a></li><li><a href="{{ site.base_url }}/es/species/tauritermes-taurocephalus/"><i>Tauritermes taurocephalus</i> Silvestri, 1901 牛头牛白蚁</a> <span class="taxon-type" title="Especie tipo">★ Especie tipo</span></li><li><a href="{{ site.base_url }}/es/species/tauritermes-triceromegas/"><i>Tauritermes triceromegas</i> Silvestri, 1901 三混气牛白蚁</a></li><li><a href="{{ site.base_url }}/es/species/tauritermes-vitulus/"><i>Tauritermes vitulus</i> Araujo & Fontes, 1979 公犊牛白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/">木白蚁科 <i>Kalotermitidae</i></a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
+<p class="taxon-more">Nivel superior: <a href="{{ site.base_url }}/es/list/">Índice del listado</a> · <a href="{{ site.base_url }}/es/family/kalotermitidae/"><i>Kalotermitidae</i> 木白蚁科</a> · <a href="{{ site.base_url }}/es/data/">Datos y descargas</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/es/list/">← Volver al listado</a> · <a href="{{ site.base_url }}/es/">Inicio</a></p>
 </article>
 <script type="application/ld+json">

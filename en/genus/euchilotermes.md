@@ -41,7 +41,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a>; the site records 4 species, 2 subspecies.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a>; the site records 4 species, 2 subspecies.</p>
 <p>Type species: <i>Euchilotermes tensus</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -51,15 +51,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/euchilotermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/euchilotermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/euchilotermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (4 species, 2 subspecies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/euchilotermes-acutidens/"><i>Euchilotermes acutidens</i> Silvestri, 1914 尖齿真唇白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/euchilotermes-quadriceps/"><i>Euchilotermes quadriceps</i> Emerson, 1928 方头真唇白蚁<wbr></a></li><li><a href="{{ site.base_url }}/en/species/euchilotermes-tensus/"><i>Euchilotermes tensus</i> Silvestri, 1914 拉长真唇白蚁<wbr></a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/euchilotermes-umbraticola/"><i>Euchilotermes umbraticola</i> Williams, 1954 隐蔽真唇白蚁<wbr></a></li><li class="taxon-sub"><a href="{{ site.base_url }}/en/species/euchilotermes-tensus-arcuata/"><i>Euchilotermes tensus arcuata</i> Silvestri, 1914 弓形亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/en/species/euchilotermes-tensus-tensus/"><i>Euchilotermes tensus tensus</i> Silvestri, 1914 指名亚种</a></li></ul>
+<h2>Species (4 species, 2 subspecies)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/euchilotermes-acutidens/"><i>Euchilotermes acutidens</i> Silvestri, 1914 尖齿真唇白蚁</a></li><li><a href="{{ site.base_url }}/en/species/euchilotermes-quadriceps/"><i>Euchilotermes quadriceps</i> Emerson, 1928 方头真唇白蚁</a></li><li><a href="{{ site.base_url }}/en/species/euchilotermes-tensus/"><i>Euchilotermes tensus</i> Silvestri, 1914 拉长真唇白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/euchilotermes-umbraticola/"><i>Euchilotermes umbraticola</i> Williams, 1954 隐蔽真唇白蚁</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/en/species/euchilotermes-tensus-arcuata/"><i>Euchilotermes tensus arcuata</i> Silvestri, 1914 弓形亚种</a></li><li class="taxon-sub"><a href="{{ site.base_url }}/en/species/euchilotermes-tensus-tensus/"><i>Euchilotermes tensus tensus</i> Silvestri, 1914 指名亚种</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/">方白蚁亚科 <i>Cubitermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/cubitermitinae/"><i>Cubitermitinae</i> 方白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

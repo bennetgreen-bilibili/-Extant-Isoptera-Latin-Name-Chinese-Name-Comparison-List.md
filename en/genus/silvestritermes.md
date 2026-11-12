@@ -41,7 +41,7 @@ breadcrumb:
 </section>
 <section class="taxon-section taxon-intro" data-pagefind-ignore>
 <h2>About the genus</h2>
-<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/">白蚁科 <i>Termitidae</i></a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a>; the site records 7 species.</p>
+<p>This genus belongs to the family <a href="{{ site.base_url }}/en/family/termitidae/"><i>Termitidae</i> 白蚁科</a>, in the subfamily <a href="{{ site.base_url }}/en/subfamily/syntermitinae/"><i>Syntermitinae</i> 聚白蚁亚科</a>; the site records 7 species.</p>
 <p>Type species: <i>Silvestritermes euamignathus</i>.</p>
 <p>This page includes a distribution map for the genus (GBIF records aggregated on a 1° grid); open a species entry to see its type locality, distribution, and references.</p>
 </section>
@@ -51,15 +51,15 @@ breadcrumb:
 <!-- src:S0018 -->
 <p class="taxon-src">The etymologies in this section are analytical breakdowns; the roots follow Brown (1956).</p>
 </section>
-{%- assign fz = site.data.translations_en.fauna_genera["/genus/silvestritermes/"] -%}{%- if fz %}
-{% include fauna-genus.html fauna=fz %}
+{%- assign fza = site.data.fauna_genera["/genus/silvestritermes/"].en -%}{%- assign fz = site.data.translations_en.fauna_genera["/genus/silvestritermes/"] -%}{%- if fz %}
+{% include fauna-genus.html fauna=fz abstract=fza %}
 {%- endif %}
 {% include genus-morphology.html %}
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>Species (7 species)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/silvestritermes-almirsateri/"><i>Silvestritermes almirsateri</i> Rocha & Cancello, 2012 阿尔米尔萨特<wbr>尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-duende/"><i>Silvestritermes duende</i> Rocha & Cancello, 2012 精灵西尔韦斯<wbr>特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-euamignathus/"><i>Silvestritermes euamignathus</i> Silvestri, 1901 真弓颚西尔韦<wbr>斯特里白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-gnomus/"><i>Silvestritermes gnomus</i> Constantino, 1991 标记西尔韦斯<wbr>特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-heyeri/"><i>Silvestritermes heyeri</i> Wasmann, 1915 海耶尔西尔韦<wbr>斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-lanei/"><i>Silvestritermes lanei</i> Canter, 1968 莱恩西尔韦斯<wbr>特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-minutus/"><i>Silvestritermes minutus</i> Emerson, 1925 最小西尔韦斯<wbr>特里白蚁</a></li></ul>
+<h2>Species (7)</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/en/species/silvestritermes-almirsateri/"><i>Silvestritermes almirsateri</i> Rocha & Cancello, 2012 阿尔米尔萨特<wbr>尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-duende/"><i>Silvestritermes duende</i> Rocha & Cancello, 2012 精灵西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-euamignathus/"><i>Silvestritermes euamignathus</i> Silvestri, 1901 真弓颚西尔韦斯特里白蚁</a> <span class="taxon-type" title="Type species">★ Type species</span></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-gnomus/"><i>Silvestritermes gnomus</i> Constantino, 1991 标记西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-heyeri/"><i>Silvestritermes heyeri</i> Wasmann, 1915 海耶尔西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-lanei/"><i>Silvestritermes lanei</i> Canter, 1968 莱恩西尔韦斯特里白蚁</a></li><li><a href="{{ site.base_url }}/en/species/silvestritermes-minutus/"><i>Silvestritermes minutus</i> Emerson, 1925 最小西尔韦斯特里白蚁</a></li></ul>
 </section>
-<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/syntermitinae/">聚白蚁亚科 <i>Syntermitinae</i></a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
+<p class="taxon-more">Parent level: <a href="{{ site.base_url }}/en/list/">Checklist index</a> · <a href="{{ site.base_url }}/en/subfamily/syntermitinae/"><i>Syntermitinae</i> 聚白蚁亚科</a> · <a href="{{ site.base_url }}/en/data/">Data &amp; downloads</a></p>
 <p class="taxon-back"><a href="{{ site.base_url }}/en/list/">← Back to the checklist</a> · <a href="{{ site.base_url }}/en/">Home</a></p>
 </article>
 <script type="application/ld+json">

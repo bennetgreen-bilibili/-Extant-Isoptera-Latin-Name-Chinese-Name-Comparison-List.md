@@ -116,19 +116,19 @@
 </div>
   {%- endif -%}
 {%- elsif occ and dmode == 'species' -%}
-  {%- assign dm_slug = page.url | remove_first: '/species/' | remove: '/' -%}
+  {%- assign dm_slug = page.url | remove_first: '/en' | remove_first: '/es' | remove_first: '/species/' | remove: '/' -%}
   {%- assign dm = occ.species[dm_slug] -%}
   {%- if dm and dm.file -%}
 <div class="species-map" aria-labelledby="species-map-title" data-pagefind-ignore data-taxon="{{ dm_slug }}">
-<h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
-<p class="species-map-note">{{ t_note }} <span class="fact-en" lang="en">{{ t_note_en }}</span> <span class="fact-es" lang="es">{{ t_note_es }}</span></p>
+<h2 id="species-map-title" class="species-map-title">{{ t_title }}</h2>
+<p class="species-map-note">{{ t_note }}</p>
 <div class="distribution-map distribution-map-species" data-geojson="{{ site.base_url }}/{{ dm.file }}" data-label="{{ dm.latin }} {{ dm.zh }}" data-legend="{{ t_legend }}" data-unit="{{ t_unit }}" data-empty="{{ t_empty }}" data-loading="{{ t_loading }}" role="region" aria-label="{{ dm.latin }} {{ dm.zh }} — {{ t_map_role }}" data-map-state="idle">{{ t_loading }}</div>
-<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/genus/{{ dm.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
+<p class="distribution-meta"><b>{{ dm.records }}</b> {{ t_records }} · <b>{{ dm.cells }}</b> {{ t_cells }} · <a href="{{ site.base_url }}/{{ dm.file }}" download="{{ dm_slug }}.geojson">{{ t_geojson }}</a> · <a href="{{ site.base_url }}{{ dm_lang }}/genus/{{ dm.genus_id }}/">{% if page.lang == 'en' or page.lang == 'es' %}<i>{{ page.genus_latin }}</i>{% else %}{{ page.genus_zh }} <i>{{ page.genus_latin }}</i>{% endif %}</a> · <span class="distribution-scope">{{ t_scope }}</span></p>
 </div>
   {%- else -%}
 <div class="species-map species-map-empty" aria-labelledby="species-map-title" data-pagefind-ignore>
-<h2 id="species-map-title" class="species-map-title">{{ t_title }} <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
-<p class="species-map-note">{{ t_nodata }} <span class="fact-en" lang="en">{{ t_nodata_en }}</span> <span class="fact-es" lang="es">{{ t_nodata_es }}</span></p>
+<h2 id="species-map-title" class="species-map-title">{{ t_title }}</h2>
+<p class="species-map-note">{{ t_nodata }}</p>
 </div>
   {%- endif -%}
 {%- endif -%}
