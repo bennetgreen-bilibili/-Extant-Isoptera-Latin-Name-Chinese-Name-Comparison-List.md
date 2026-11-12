@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **马尼坎丹克里希纳扭白蚁**（*Krishnacapritermes manikandan*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）克里希纳扭白蚁属（*Krishnacapritermes*）的一种。本种由 Amina & Rajmohana 于 2019 年描述，模式产地为 India: Kerala: Idukki (Amar shola-Munnar)。分布记录包括印度、喀拉拉邦。
 
@@ -32,7 +32,7 @@ EN — **马尼坎丹克里希纳扭白蚁** (*Krishnacapritermes manikandan*) i
 
 ES — **马尼坎丹克里希纳扭白蚁** (*Krishnacapritermes manikandan*) es una especie del género *Krishnacapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Amina & Rajmohana en 2019; la localidad tipo es India: Kerala: Idukki (Amar shola-Munnar). Distribución: India, Kerala.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Krishnacapritermes*：属名以人名 Krishna（白蚁学家 K. Krishna）命名 + 拉丁文 caper（山羊）+ termes（白蚁）。
 
@@ -44,17 +44,21 @@ EN — epithet *manikandan*: Named after a person (Manikandan)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
 - **属 Genus / Género**：[克里希纳扭白蚁属 *Krishnacapritermes*]({{ site.base_url }}/genus/krishnacapritermes/) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Krishnacapritermes maitii*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：印度、喀拉拉邦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、喀拉拉邦
 - **英文记录 English record / Registro en inglés**：India, Kerala
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

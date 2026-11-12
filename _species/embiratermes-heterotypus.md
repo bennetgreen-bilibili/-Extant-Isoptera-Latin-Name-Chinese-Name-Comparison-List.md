@@ -26,7 +26,7 @@ synonym_localities: "Brasil: Rio de Janeiro: Mendes [22.5174S 43.7215W]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **异型生白蚁**（*Embiratermes heterotypus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）生白蚁属（*Embiratermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]。分布记录包括巴西、阿根廷、巴拉圭。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **异型生白蚁** (*Embiratermes heterotypus*) is a species of the genu
 
 ES — **异型生白蚁** (*Embiratermes heterotypus*) es una especie del género *Embiratermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Paraguay: Alto Paraná: Hernandarias (formerly Tacurú Pucú) \[25.3667S 54.6833W\]. Distribución: Brazil, Argentina, Paraguay. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Embiratermes*：属名由图皮语 Embirá（一种树）与 -termes 组合。
 
@@ -46,23 +46,27 @@ EN — epithet *heterotypus*: From the descriptive term 'heter' (different)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[生白蚁属 *Embiratermes*]({{ site.base_url }}/genus/embiratermes/) —— 共 9 种（9 species · 9 especies）
 - **本属模式种 Type species / Especie tipo**：*Embiratermes festivellus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西、阿根廷、巴拉圭
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、阿根廷、巴拉圭
 - **英文记录 English record / Registro en inglés**：Brazil, Argentina, Paraguay
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Armitermes parvidens* Emerson & Banks, 1957: 6-11 —— 模式产地：Brasil: Rio de Janeiro: Mendes \[22.5174S 43.7215W\]
 

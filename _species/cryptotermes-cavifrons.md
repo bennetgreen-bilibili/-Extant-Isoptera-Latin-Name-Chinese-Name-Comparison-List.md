@@ -21,15 +21,15 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **凹额堆砂白蚁**（*Cryptotermes cavifrons*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种，也是本属的模式种。本种由 Banks 于 1906 年描述，模式产地为 United States: Florida: Kissimee。分布记录包括北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛。
 
-EN — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) is a species and the type species of its genus of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1906; the type locality is United States: Florida: Kissimee. Distribution: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
+EN — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) is a species and the type species of the genus *Cryptotermes*, in the family KALOTERMITIDAE. The species was described by Banks in 1906; the type locality is United States: Florida: Kissimee. Distribution: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
 
-ES — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) es una especie, y la especie tipo de su género del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
+ES — **凹额堆砂白蚁** (*Cryptotermes cavifrons*) es una especie, y la especie tipo del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Florida: Kissimee. Distribución: North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
 
@@ -41,15 +41,19 @@ EN — epithet *cavifrons*: Latin cavus (hollow) + frons (front), hollow-fronted
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种（74 species · 74 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美、美国、墨西哥、巴哈马、伯利兹、开曼群岛、哥斯达黎加、古巴、多米尼加、危地马拉、海地、牙买加、巴拿马、特克斯和凯科斯群岛
 - **英文记录 English record / Registro en inglés**：North America, United States, Mexico, Bahamas, Belize, Cayman Islands, Costa Rica, Cuba, Dominican Republic, Guatemala, Haiti, Jamaica, Panama, Turks and Caicos Islands
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

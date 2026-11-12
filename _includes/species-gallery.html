@@ -17,8 +17,8 @@
 {%- assign sg_label = page.latin | append: ' ' | append: page.zh -%}
 <section class="species-gallery" aria-labelledby="species-gallery-title">
   <div class="gallery-head">
-    <h2 class="gallery-title" id="species-gallery-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ sg_photos.size }} 张</span></h2>
-    <p class="gallery-lead">开放许可照片，点击可放大浏览。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。{% if sg_photos.size > sg_limit %}本页先展示前 {{ sg_limit }} 张，其余见页尾「全部图片」链接。{% endif %}<span class="fact-en" lang="en">Freely licensed photos, click to enlarge. Hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers — author, licence and source page are shown under each photo.</span> <span class="fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Enlazadas desde iNaturalist / Wikimedia Commons; los derechos son de sus autores — bajo cada foto se indican autor, licencia y página original.</span></p>
+    <h2 class="gallery-title" id="species-gallery-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ sg_photos.size }} 张 <span class="fact-en" lang="en">{{ sg_photos.size }} photo{% if sg_photos.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">{{ sg_photos.size }} foto{% if sg_photos.size != 1 %}s{% endif %}</span></span></h2>
+    <p class="gallery-lead">开放许可照片，点击可放大浏览。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。{% if sg_photos.size > sg_limit %}本页先展示前 {{ sg_limit }} 张，其余见页尾「全部图片」链接。<span class="fact-en" lang="en">Only the first {{ sg_limit }} are shown here; the rest are under “All photos” at the end of the page.</span> <span class="fact-es" lang="es">Aquí se muestran solo las primeras {{ sg_limit }}; el resto está en «Todas las fotos», al final de la página.</span>{% endif %}<span class="fact-en" lang="en">Freely licensed photos, click to enlarge. Hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers — author, licence and source page are shown under each photo.</span> <span class="fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Enlazadas desde iNaturalist / Wikimedia Commons; los derechos son de sus autores — bajo cada foto se indican autor, licencia y página original.</span></p>
   </div>
   <div class="gallery-grid">
     {%- for photo in sg_photos -%}
@@ -27,7 +27,7 @@
     {%- endfor -%}
   </div>
   {%- if sg_photos.size > sg_limit %}
-  <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ page.url }}photos/">查看全部 {{ sg_photos.size }} 张 <span aria-hidden="true">→</span></a></p>
+  <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ page.url }}photos/">查看全部 {{ sg_photos.size }} 张 <span class="fact-en" lang="en">View all {{ sg_photos.size }} photo{% if sg_photos.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">Ver todas las fotos ({{ sg_photos.size }})</span> <span aria-hidden="true">→</span></a></p>
   {%- endif -%}
 </section>
 {%- endif -%}

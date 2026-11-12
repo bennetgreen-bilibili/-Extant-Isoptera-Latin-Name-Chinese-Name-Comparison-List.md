@@ -24,15 +24,15 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **西尔韦斯特里利颚白蚁**（*Cortaritermes silvestrii*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）利颚白蚁属（*Cortaritermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1910 年描述，模式产地为 Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]。分布记录包括巴西、阿根廷、巴拉圭。
 
-EN — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) is a species and the type species of its genus of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribution: Brazil, Argentina, Paraguay.
+EN — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) is a species and the type species of the genus *Cortaritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Holmgren in 1910; the type locality is Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribution: Brazil, Argentina, Paraguay.
 
-ES — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) es una especie, y la especie tipo de su género del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribución: Brazil, Argentina, Paraguay.
+ES — **西尔韦斯特里利颚白蚁** (*Cortaritermes silvestrii*) es una especie, y la especie tipo del género *Cortaritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Argentina: Chaco: Resistencia \[27.45S 58.9833W\]; Paraguay: Paraguari: Paraguari \[25.6333S 57.15W\]. Distribución: Brazil, Argentina, Paraguay.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Cortaritermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -44,16 +44,20 @@ EN — epithet *silvestrii*: Named after the entomologist F. Silvestri
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[利颚白蚁属 *Cortaritermes*]({{ site.base_url }}/genus/cortaritermes/) —— 共 5 种（5 species · 5 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西、阿根廷、巴拉圭
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、阿根廷、巴拉圭
 - **英文记录 English record / Registro en inglés**：Brazil, Argentina, Paraguay
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

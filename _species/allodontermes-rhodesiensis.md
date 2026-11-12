@@ -26,7 +26,7 @@ synonym_localities: "Mozambique: Lourenço Marques, Delagoa Bay; South Africa: T
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **罗得西亚奇齿白蚁**（*Allodontermes rhodesiensis*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）奇齿白蚁属（*Allodontermes*）的一种。本种由 Sjöstedt 于 1914 年描述，模式产地为 Zimbabwe: Harare (Salisbury)。分布记录包括旧热带界东非、非洲南部。本站记录本种有 2 个次异名。
 
@@ -34,7 +34,7 @@ EN — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) is a species 
 
 ES — **罗得西亚奇齿白蚁** (*Allodontermes rhodesiensis*) es una especie del género *Allodontermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Sjöstedt en 1914; la localidad tipo es Zimbabwe: Harare (Salisbury). Distribución: Old World tropics (East Africa), southern Africa. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Allodontermes*：属名由希腊文 allos（别的）+ odous（齿）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *rhodesiensis*: Named after the locality Rhodes
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[奇齿白蚁属 *Allodontermes*]({{ site.base_url }}/genus/allodontermes/) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Allodontermes schultzei*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：旧热带界东非、非洲南部
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：旧热带界东非、非洲南部
 - **英文记录 English record / Registro en inglés**：Old World tropics (East Africa), southern Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Allodontermes schultzei orientalis* Fuller, 1922: 71-72 —— 模式产地：Mozambique: Lourenço Marques, Delagoa Bay
 2. *Termes (Protermes) esuriens* Sjöstedt, 1924: 255 —— 模式产地：South Africa: Transvaal: Pretoria

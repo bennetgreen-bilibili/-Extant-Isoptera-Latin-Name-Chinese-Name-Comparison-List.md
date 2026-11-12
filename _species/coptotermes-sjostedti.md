@@ -23,7 +23,7 @@ synonym_localities: "Sierra Leone: ?; Ghana: Aburi"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **舍斯泰特乳白蚁**（*Coptotermes sjostedti*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1911 年描述，模式产地为 Cameroon: Bonge; Cape Debubdscha。分布记录包括西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达。另有记录显示其已引入瓜德罗普（法国）。本站记录本种有 2 个次异名。
 
@@ -31,7 +31,7 @@ EN — **舍斯泰特乳白蚁** (*Coptotermes sjostedti*) is a species of the g
 
 ES — **舍斯泰特乳白蚁** (*Coptotermes sjostedti*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Holmgren en 1911; la localidad tipo es Cameroon: Bonge; Cape Debubdscha. Distribución: West Africa, Ivory Coast, Nigeria, Senegal, Angola, Burkina Faso, Cameroon, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Guinea, Mozambique, São Tomé and Príncipe, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda; introduced: Guadeloupe (France). Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
@@ -43,23 +43,27 @@ EN — epithet *sjostedti*: Named after the entomologist Y. Sjöstedt
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达
-- **引入记录**：瓜德罗普（法国）
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：西非、科特迪瓦、尼日利亚、塞内加尔、安哥拉、布基纳法索、喀麦隆、刚果民主共和国、埃塞俄比亚、冈比亚、加纳、几内亚、莫桑比克、圣多美和普林西比、塞拉利昂、索马里、苏丹、坦桑尼亚、多哥、乌干达
+- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：瓜德罗普（法国）
 - **英文记录 English record / Registro en inglés**：West Africa, Ivory Coast, Nigeria, Senegal, Angola, Burkina Faso, Cameroon, Democratic Republic of the Congo, Ethiopia, Gambia, Ghana, Guinea, Mozambique, São Tomé and Príncipe, Sierra Leone, Somalia, Sudan, Tanzania, Togo, Uganda; introduced: Guadeloupe (France)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes arda* Fabricius, 1781: 397 —— 模式产地：Sierra Leone: ?
 2. *Coptotermes sjostedti modica* Silvestri, 1914: 9 —— 模式产地：Ghana: Aburi

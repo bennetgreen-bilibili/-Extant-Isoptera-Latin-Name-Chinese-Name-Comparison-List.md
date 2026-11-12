@@ -23,7 +23,7 @@ synonym_localities: "Australia: Victoria: Cape Otway; Australia: Tasmania"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **亚当森洞白蚁**（*Porotermes adamsoni*）是胄白蚁科（STOLOTERMITIDAE）洞白蚁属（*Porotermes*）的一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: New South Wales: Uralla。分布记录包括澳大利亚。另有记录显示其已引入新西兰。本站记录本种有 2 个次异名。
 
@@ -31,7 +31,7 @@ EN — **亚当森洞白蚁** (*Porotermes adamsoni*) is a species of the genus 
 
 ES — **亚当森洞白蚁** (*Porotermes adamsoni*) es una especie del género *Porotermes*, en la familia STOLOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: New South Wales: Uralla. Distribución: Australia; introduced: New Zealand. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Porotermes*：属名由希腊文 poros（孔、通道）与拉丁文 termes（白蚁）组合。
 
@@ -43,23 +43,27 @@ EN — epithet *adamsoni*: Named after Adamson
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[胄白蚁科 STOLOTERMITIDAE]({{ site.base_url }}/family/stolotermitidae/) —— 本站收录 2 属 10 种（2 genera, 10 species · 2 géneros, 10 especies）
 - **属 Genus / Género**：[洞白蚁属 *Porotermes*]({{ site.base_url }}/genus/porotermes/) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Porotermes quadricollis*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚
-- **引入记录**：新西兰
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
+- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：新西兰
 - **英文记录 English record / Registro en inglés**：Australia; introduced: New Zealand
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Porotermes (Planitermes) grandis* Holmgren, 1912: 281 —— 模式产地：Australia: Victoria: Cape Otway
 2. *Porotermes froggatti* Holmgren, 1912: 281 —— 模式产地：Australia: Tasmania

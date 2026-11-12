@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **埃默森稀白蚁**（*Speculitermes emersoni*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）稀白蚁属（*Speculitermes*）的一种。本种由 Bose 于 1984 年描述，模式产地为 India: Kerala: Thekkadi。分布记录包括南亚、印度。
 
@@ -32,7 +32,7 @@ EN — **埃默森稀白蚁** (*Speculitermes emersoni*) is a species of the gen
 
 ES — **埃默森稀白蚁** (*Speculitermes emersoni*) es una especie del género *Speculitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bose en 1984; la localidad tipo es India: Kerala: Thekkadi. Distribución: South Asia, India.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Speculitermes*：属名由拉丁文 speculum（镜、斑）与 termes（白蚁）组合。
 
@@ -44,17 +44,21 @@ EN — epithet *emersoni*: Named after the termite taxonomist A. E. Emerson
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[稀白蚁属 *Speculitermes*]({{ site.base_url }}/genus/speculitermes/) —— 共 13 种（13 species · 13 especies）
 - **本属模式种 Type species / Especie tipo**：*Speculitermes cyclops*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南亚、印度
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南亚、印度
 - **英文记录 English record / Registro en inglés**：South Asia, India
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

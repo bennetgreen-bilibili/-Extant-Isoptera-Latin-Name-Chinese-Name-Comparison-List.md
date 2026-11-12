@@ -26,7 +26,7 @@ synonym_localities: "Ghana: Keta; Democratic Republic of the Congo: \"Haut Uél�
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **西部三脉白蚁**（*Trinervitermes occidentalis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Guinea Bissau: Bissau。分布记录包括科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达。本站记录本种有 4 个次异名。
 
@@ -34,7 +34,7 @@ EN — **西部三脉白蚁** (*Trinervitermes occidentalis*) is a species of th
 
 ES — **西部三脉白蚁** (*Trinervitermes occidentalis*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Guinea Bissau: Bissau. Distribución: Côte d'Ivoire, Senegal, Togo, Burkina Faso, Nigeria, Central Africa, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea-Bissau, Sierra Leone, Uganda. Este sitio registra 4 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *occidentalis*: Latin occidentalis (western)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种（21 species · 21 especies）
 - **本属模式种 Type species / Especie tipo**：*Trinervitermes trinervius*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达
 - **英文记录 English record / Registro en inglés**：Côte d'Ivoire, Senegal, Togo, Burkina Faso, Nigeria, Central Africa, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea-Bissau, Sierra Leone, Uganda
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Trinervitermes auriterrae* Sjöstedt, 1926: 2-3 —— 模式产地：Ghana: Keta
 2. *Trinervitermes maudanicus* Sjöstedt, 1926: 156-158 —— 模式产地：Democratic Republic of the Congo: "Haut Uélé": Mauda

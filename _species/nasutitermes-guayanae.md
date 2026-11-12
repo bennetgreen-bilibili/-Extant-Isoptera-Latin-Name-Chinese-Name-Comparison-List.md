@@ -26,7 +26,7 @@ synonym_localities: "Peru: Puno: Chaquimayo [13.45S 70.4W]; Colombia: ?"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **圭亚那象白蚁**（*Nasutitermes guayanae*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）象白蚁属（*Nasutitermes*）的一种。本种由 Holmgren 于 1910 年描述，模式产地为 Suriname: ?。分布记录包括哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥。本站记录本种有 2 个次异名。
 
@@ -34,7 +34,7 @@ EN — **圭亚那象白蚁** (*Nasutitermes guayanae*) is a species of the genu
 
 ES — **圭亚那象白蚁** (*Nasutitermes guayanae*) es una especie del género *Nasutitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Holmgren en 1910; la localidad tipo es Suriname: ?. Distribución: Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Nasutitermes*：属名由拉丁文 nasutus（大鼻的、具鼻突的）与 termes（白蚁）组合，指兵蚁具鼻状额突。
 
@@ -46,23 +46,27 @@ EN — epithet *guayanae*: Named after Guiana
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[象白蚁属 *Nasutitermes*]({{ site.base_url }}/genus/nasutitermes/) —— 共 243 种（243 species · 243 especies）
 - **本属模式种 Type species / Especie tipo**：*Nasutitermes corniger*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥
 - **英文记录 English record / Registro en inglés**：Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Eutermes (Eutermes) grandis* Holmgren, 1910: 258-260 —— 模式产地：Peru: Puno: Chaquimayo \[13.45S 70.4W\]
 2. *Eutermes (Eutermes) guayanae columbicus* Holmgren, 1910: 256 —— 模式产地：Colombia: ?

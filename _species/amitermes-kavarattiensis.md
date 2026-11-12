@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **卡瓦拉蒂弓白蚁**（*Amitermes kavarattiensis*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Sengupta, Rajmohana & Amina 于 2022 年描述，模式产地为 India: Lakshadweep: Kavaratti island \[ 10.5544N 72.6325E \]。分布记录包括印度。
 
@@ -32,7 +32,7 @@ EN — **卡瓦拉蒂弓白蚁** (*Amitermes kavarattiensis*) is a species of th
 
 ES — **卡瓦拉蒂弓白蚁** (*Amitermes kavarattiensis*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Sengupta, Rajmohana & Amina en 2022; la localidad tipo es India: Lakshadweep: Kavaratti island \[ 10.5544N 72.6325E \]. Distribución: India.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -44,17 +44,21 @@ EN — epithet *kavarattiensis*: Named after the locality Kavaratt
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种（113 species · 113 especies）
 - **本属模式种 Type species / Especie tipo**：*Amitermes amifer*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：印度
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度
 - **英文记录 English record / Registro en inglés**：India
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

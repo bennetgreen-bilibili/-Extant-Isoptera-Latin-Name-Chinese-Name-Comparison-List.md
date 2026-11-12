@@ -26,7 +26,7 @@ synonym_localities: "Bolivia: El Beni: Ivón [11.13S 66.13W]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **海耶尔西尔韦斯特里白蚁**（*Silvestritermes heyeri*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）西尔韦斯特里白蚁属（*Silvestritermes*）的一种。本种由 Wasmann 于 1915 年描述，模式产地为 Brasil: São Paulo: Santos \[23.9608S 46.3336W\]。分布记录包括哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) is a spe
 
 ES — **海耶尔西尔韦斯特里白蚁** (*Silvestritermes heyeri*) es una especie del género *Silvestritermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Wasmann en 1915; la localidad tipo es Brasil: São Paulo: Santos \[23.9608S 46.3336W\]. Distribución: Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Silvestritermes*：属名以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri），词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -46,23 +46,27 @@ EN — epithet *heyeri*: Named after Heyer
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[西尔韦斯特里白蚁属 *Silvestritermes*]({{ site.base_url }}/genus/silvestritermes/) —— 共 7 种（7 species · 7 especies）
 - **本属模式种 Type species / Especie tipo**：*Silvestritermes euamignathus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉
 - **英文记录 English record / Registro en inglés**：Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Armitermes (Armitermes) holmgreni* Snyder, 1926: 22-23 —— 模式产地：Bolivia: El Beni: Ivón \[11.13S 66.13W\]
 

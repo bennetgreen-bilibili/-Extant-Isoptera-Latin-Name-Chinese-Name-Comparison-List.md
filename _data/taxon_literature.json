@@ -1044,5 +1044,464 @@
         "url": "https://archive.org/details/in.ernet.dli.2015.26103"
       }
     ]
+  },
+  "/species/reticulitermes-flavipes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "2005 年基于 16S rRNA 的异名处理",
+        "paragraphs": [
+          {
+            "text": "据摘要，Austin 等（2005）用 16S rRNA 线粒体标记分析北美、中美、南美、法国和德国等地 434 个散白蚁属（Reticulitermes）种群，发现北美与德国的北美散白蚁（Reticulitermes flavipes）与法国西部未受干扰林地的散白蚁属旧名 Reticulitermes santonensis 具有完全相同的 DNA 序列；单倍型 F、M、GG 出现在法国，F 也见于德国，GG 还见于复活节岛、智利圣地亚哥和乌拉圭蒙得维的亚。作者结合形态、化学和系统发育证据，认为散白蚁属旧名 Reticulitermes santonensis 应作为北美散白蚁的异名处理。",
+            "src": [
+              "S0144"
+            ],
+            "text_en": "According to the abstract, Austin et al. (2005) used the 16S rRNA mitochondrial marker to analyse 434 Reticulitermes populations from North, Central and South America, France and Germany, and found that Reticulitermes flavipes from North America and Germany shares completely identical DNA sequences with Reticulitermes santonensis (an old name in Reticulitermes) from undisturbed woodland in western France; haplotypes F, M and GG occur in France, F also occurs in Germany, and GG also occurs on Easter Island, in Santiago de Chile and in Montevideo, Uruguay. Combining morphological, chemical and phylogenetic evidence, the authors concluded that Reticulitermes santonensis should be treated as a synonym of Reticulitermes flavipes.",
+            "text_es": "Según el resumen, Austin et al. (2005) analizaron 434 poblaciones de Reticulitermes de América del Norte, América Central, América del Sur, Francia y Alemania con el marcador mitocondrial 16S rRNA, y hallaron que los ejemplares de Reticulitermes flavipes de América del Norte y Alemania presentan secuencias de ADN idénticas a las de Reticulitermes santonensis, antiguo nombre del género en bosques no alterados del oeste de Francia; los haplotipos F, M y GG aparecen en Francia, F también en Alemania, y GG además en la isla de Pascua, Santiago de Chile y Montevideo (Uruguay). A partir de la evidencia morfológica, química y filogenética, los autores concluyen que Reticulitermes santonensis debe considerarse sinónimo de Reticulitermes flavipes."
+          }
+        ],
+        "heading_en": "2005 synonymy based on 16S rRNA",
+        "heading_es": "Sinonimia de 2005 basada en el ARN ribosomal 16S"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0144",
+        "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
+        "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
+      }
+    ]
+  },
+  "/genus/reticulitermes/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "属级组成：散白蚁属旧名 Reticulitermes santonensis 的异名化",
+        "paragraphs": [
+          {
+            "text": "据摘要，Austin 等（2005）分析 434 个散白蚁属（Reticulitermes）种群的 16S rRNA，发现北美散白蚁（Reticulitermes flavipes）与散白蚁属旧名 Reticulitermes santonensis 的序列完全相同，单倍型 F、M、GG 在法国、德国及南美和复活节岛等地出现；该研究据此把散白蚁属旧名 Reticulitermes santonensis 归入北美散白蚁，使散白蚁属的欧洲独立种名单减少一个。",
+            "src": [
+              "S0144"
+            ],
+            "text_en": "According to the abstract, Austin et al. (2005) analysed the 16S rRNA of 434 Reticulitermes populations and found that the sequences of Reticulitermes flavipes and Reticulitermes santonensis (an old name in Reticulitermes) are completely identical, with haplotypes F, M and GG occurring in France, Germany, South America, Easter Island and elsewhere; on this basis the study placed Reticulitermes santonensis in synonymy with Reticulitermes flavipes, reducing the list of distinct European species in Reticulitermes by one.",
+            "text_es": "Según el resumen, Austin et al. (2005) analizaron el 16S rRNA de 434 poblaciones de Reticulitermes y encontraron que Reticulitermes flavipes y Reticulitermes santonensis presentan secuencias idénticas; los haplotipos F, M y GG aparecen en Francia, Alemania, América del Sur y la isla de Pascua. Sobre esa base, el estudio incluye Reticulitermes santonensis en Reticulitermes flavipes y reduce en una especie la lista de especies europeas independientes del género."
+          }
+        ],
+        "heading_en": "Genus-level composition: synonymisation of the old Reticulitermes name Reticulitermes santonensis",
+        "heading_es": "Composición del género: sinonimización de Reticulitermes santonensis"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0144",
+        "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
+        "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
+      }
+    ]
+  },
+  "/species/microhodotermes-viator/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "蚁丘密度与降雨、植被生产力的关系",
+        "paragraphs": [
+          {
+            "text": "据摘要，Picker 等（2006）在南非 Succulent Karoo、Nama-Karoo 和 Fynbos 的 34 个样点、10 个植被类型中统计旅游小草白蚁（Microhodotermes viator）的蚁丘密度，结果为每平方公里 143–704 个，平均 297 个；全部样点合并时密度与温度、海拔、降雨和 NDVI 无显著关系，但排除 Fynbos 和 5 个年降雨 >350 mm 的 Coastal Renosterveld 样点后，密度与降雨和 NDVI 显著相关；高肥力土壤上降雨与密度显著相关，低肥力土壤上不显著。作者据此认为，这些 heuweltjies（蚁丘）由现生旅游小草白蚁建造，而非已灭绝的白蚁。",
+            "src": [
+              "S0156"
+            ],
+            "text_en": "According to the abstract, Picker et al. (2006) recorded the mound density of Microhodotermes viator at 34 sites and in 10 vegetation types in the Succulent Karoo, Nama-Karoo and Fynbos of South Africa, obtaining 143–704 mounds per km² with a mean of 297; when all sites were pooled, density showed no significant relationship with temperature, altitude, rainfall or NDVI, but after excluding Fynbos and 5 Coastal Renosterveld sites with annual rainfall >350 mm, density was significantly correlated with rainfall and NDVI; on high-fertility soils rainfall was significantly correlated with density, whereas on low-fertility soils it was not. The authors concluded that these heuweltjies (mounds) were built by extant Microhodotermes viator rather than by extinct termites.",
+            "text_es": "Según el resumen, Picker et al. (2006) registraron la densidad de montículos de Microhodotermes viator en 34 localidades y 10 tipos de vegetación del Succulent Karoo, el Nama-Karoo y el Fynbos de Sudáfrica, con valores de 143–704 montículos por kilómetro cuadrado y una media de 297. Al agrupar todas las localidades, la densidad no mostró relación significativa con la temperatura, la altitud, la precipitación ni el NDVI, pero al excluir el Fynbos y cinco localidades de Coastal Renosterveld con precipitación anual >350 mm, la densidad se correlacionó significativamente con la precipitación y el NDVI; en suelos de alta fertilidad la precipitación se correlacionó significativamente con la densidad, mientras que en suelos de baja fertilidad no lo hizo. Los autores concluyen que estos heuweltjies (montículos) fueron construidos por la especie actual de Microhodotermes viator y no por termitas extintas."
+          }
+        ],
+        "heading_en": "Mound density in relation to rainfall and vegetative productivity",
+        "heading_es": "Densidad de montículos en relación con la precipitación y la productividad vegetal"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0156",
+        "citation": "Picker, M. D.; Hoffman, M. T.; Leverton, B. 2006. Density of Microhodotermes viator (Hodotermitidae) mounds in southern Africa in relation to rainfall and vegetative productivity gradients. Journal of Zoology.",
+        "doi": "10.1111/j.1469-7998.2006.00189.x"
+      }
+    ]
+  },
+  "/species/odontotermes-formosanus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "台湾巢内的炭角菌多样性",
+        "paragraphs": [
+          {
+            "text": "据摘要，Ju 与 Hsieh（2007）在台湾黑翅土白蚁（Odontotermes formosanus）巢中采集到 9 种炭角菌属（Xylaria）真菌，其中 6 种为新种、3 种为已知种；黑翅土白蚁是台湾已知唯一的大白蚁亚科（Macrotermitinae）种类，作者还给出 25 种生于白蚁巢或地面的炭角菌属（Xylaria）真菌分种检索表。",
+            "src": [
+              "S0166"
+            ],
+            "text_en": "According to the abstract, Ju and Hsieh (2007) collected 9 Xylaria species from nests of Odontotermes formosanus in Taiwan, of which 6 were new species and 3 were known species; Odontotermes formosanus is the only member of the Macrotermitinae known from Taiwan, and the authors also provided a key to 25 Xylaria species growing on termite nests or on the ground.",
+            "text_es": "Según el resumen, Ju y Hsieh (2007) recolectaron nueve especies de Xylaria en nidos de Odontotermes formosanus en Taiwán, seis de ellas nuevas y tres ya conocidas; Odontotermes formosanus es la única especie de Macrotermitinae conocida en Taiwán, y los autores ofrecen además una clave dicotómica para las 25 especies de Xylaria que crecen en nidos de termitas o en el suelo."
+          }
+        ],
+        "heading_en": "Xylaria diversity in nests in Taiwan",
+        "heading_es": "Diversidad de Xylaria en nidos de Taiwán"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0166",
+        "citation": "Ju, Y.-M.; Hsieh, H.-M. 2007. Xylaria species associated with nests of Odontotermes formosanus in Taiwan. Mycologia 99(6).",
+        "doi": "10.3852/mycologia.99.6.936"
+      }
+    ]
+  },
+  "/species/cryptotermes-domesticus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "肠道共生原核生物的 16S rRNA 调查",
+        "paragraphs": [
+          {
+            "text": "据摘要，Ohkuma 与 Kudo（1998）直接从截头堆砂白蚁（Cryptotermes domesticus）肠道混合 DNA 扩增 16S rRNA 基因并克隆测序，发现其共生原核生物与甲烷短杆菌、明串珠菌、拟杆菌和密螺旋体等类群相关，但大多数序列属于未知种，且存在与其他白蚁不同的白蚁专性类群。",
+            "src": [
+              "S0145"
+            ],
+            "text_en": "According to the abstract, Ohkuma and Kudo (1998) amplified 16S rRNA genes directly from mixed DNA of the gut of Cryptotermes domesticus, cloned and sequenced them, and found that its symbiotic prokaryotes are related to groups such as Methanobrevibacter, Leuconostoc, Bacteroides and Treponema, but that most sequences belong to unknown species and that termite-specific groups differing from those of other termites are present.",
+            "text_es": "Según el resumen, Ohkuma y Kudo (1998) amplificaron, clonaron y secuenciaron el gen del 16S rRNA a partir del ADN intestinal mixto de Cryptotermes domesticus, y hallaron que sus procariotas simbiontes se relacionan con grupos como Methanobrevibacter, Leuconostoc, Bacteroides y Treponema, aunque la mayoría de las secuencias corresponden a especies desconocidas y aparecen linajes exclusivos de termitas que difieren de los de otras especies."
+          }
+        ],
+        "heading_en": "16S rRNA survey of intestinal symbiotic prokaryotes",
+        "heading_es": "Estudio del ARN ribosomal 16S de los procariotas simbiontes del intestino"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0145",
+        "citation": "Ohkuma, M.; Kudo, T. 1998. Phylogenetic analysis of the symbiotic intestinal microflora of the termite Cryptotermes domesticus. FEMS Microbiology Letters.",
+        "doi": "10.1016/s0378-1097(98)00244-4"
+      }
+    ]
+  },
+  "/species/archotermopsis-wroughtoni/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "1920 年的野外生境记录",
+        "paragraphs": [
+          {
+            "text": "据摘要，Imms（1920）记述罗夫顿古白蚁（Archotermopsis wroughtoni）的形态与生物学：该种由 Desneux 依据 Wroughton 1903 年 6 月在克什米尔谷地旧松树树桩中采到的标本描述；Imms 1910 年在 Kuari Pass 与 Ramni 之间约 8,500 英尺的倒木中采到，1912 年在 Ranikhet 地区 Dharmoti 约 4,000 英尺处见到大量个体，1912–13 年又在 Bhowali（约 5,800 英尺）、Nadh 和 Gulmarg 等地采到，推测其分布于西北喜马拉雅低海拔针叶林，上限约 9,000 英尺。",
+            "src": [
+              "S0147"
+            ],
+            "text_en": "According to the abstract, Imms (1920) described the morphology and biology of Archotermopsis wroughtoni: the species was described by Desneux from specimens collected by Wroughton in June 1903 in old pine stumps in the Kashmir Valley; Imms collected it in 1910 in fallen timber at about 8,500 ft between Kuari Pass and Ramni, saw numerous individuals in 1912 at about 4,000 ft at Dharmoti in the Ranikhet region, and collected it again in 1912–13 at Bhowali (about 5,800 ft), Nadh and Gulmarg, inferring that it occurs in low-altitude coniferous forest of the north-west Himalaya, with an upper limit of about 9,000 ft.",
+            "text_es": "Según el resumen, Imms (1920) describió la morfología y la biología de Archotermopsis wroughtoni: la especie fue descrita por Desneux a partir de ejemplares recolectados por Wroughton en junio de 1903 en tocones de pinos viejos del valle de Cachemira; Imms la recolectó en 1910 en troncos caídos a unos 8.500 pies entre Kuari Pass y Ramni, en 1912 observó numerosos individuos a unos 4.000 pies en Dharmoti, en la región de Ranikhet, y entre 1912 y 1913 la recolectó en Bhowali (unos 5.800 pies), Nadh y Gulmarg, por lo que supuso que se distribuye en los bosques de coníferas de baja altitud del noroeste del Himalaya, con un límite superior de unos 9.000 pies."
+          }
+        ],
+        "heading_en": "Field habitat records from 1920",
+        "heading_es": "Registro de hábitat de campo de 1920"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0147",
+        "citation": "Imms, A. D. 1920. On the structure and biology of Archotermopsis, together with descriptions of new species of intestinal protozoa, and general observations on the Isoptera. Philosophical Transactions of the Royal Society B.",
+        "doi": "10.1098/rstb.1920.0002"
+      }
+    ]
+  },
+  "/species/pseudacanthotermes-spiniger/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "黑猩猩取食与食土行为",
+        "paragraphs": [
+          {
+            "text": "据摘要，Uehara（1982）在坦桑尼亚 Mahale 山地对野生黑猩猩 K 群观察发现，它们在短期内使用包括工具在内的多种技术取食具刺伪刺白蚁（Pseudacanthotermes spiniger），并随猎物活动物候调整技术；黑猩猩全年取食该白蚁蚁丘塔上的少量土壤（食土），可能借此从视觉和触觉上判断其繁殖周期；粪便分析显示各年取食量有波动。",
+            "src": [
+              "S0148"
+            ],
+            "text_en": "According to the abstract, Uehara (1982) observed the wild chimpanzee K group in the Mahale Mountains, Tanzania, and found that over a short period they used a variety of techniques, including tools, to feed on Pseudacanthotermes spiniger and adjusted their techniques to the activity phenology of the prey; the chimpanzees fed year-round on small amounts of soil from the mound towers of this termite (geophagy), possibly using it to judge its reproductive cycle visually and by touch; faecal analysis showed that the amount consumed fluctuated between years.",
+            "text_es": "Según el resumen, Uehara (1982) observó en el grupo K de chimpancés silvestres de las montañas Mahale (Tanzania) que durante un período breve emplean diversas técnicas, incluidas herramientas, para alimentarse de Pseudacanthotermes spiniger, y que ajustan la técnica a la fenología de la presa; los chimpancés consumen durante todo el año pequeñas cantidades de tierra de los montículos de esta termita (geofagia), posiblemente para evaluar de forma visual y táctil su ciclo reproductivo. El análisis de heces muestra fluctuaciones anuales en el consumo."
+          }
+        ],
+        "heading_en": "Chimpanzee feeding and geophagy",
+        "heading_es": "Consumo de termitas y geofagia en chimpancés"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0148",
+        "citation": "Uehara, S. 1982. Seasonal changes in the techniques employed by wild chimpanzees in the Mahale Mountains, Tanzania, to feed on termites (Pseudacanthotermes spiniger). Folia Primatologica.",
+        "doi": "10.1159/000156020"
+      }
+    ]
+  },
+  "/species/macrotermes-herus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "黑猩猩 B 群的“钓取”记录",
+        "paragraphs": [
+          {
+            "text": "据摘要，Uehara（1982）记录坦桑尼亚 Mahale 山地黑猩猩 B 群在湿季前半段大规模使用“钓取”技术取食优势大白蚁（Macrotermes herus），粪便分析显示 B 群取食的白蚁数量远多于 K 群；作者认为相邻黑猩猩群会依局部昆虫区系差异采用相同或相似的工具技术。",
+            "src": [
+              "S0148"
+            ],
+            "text_en": "According to the abstract, Uehara (1982) recorded that chimpanzee group B in the Mahale Mountains, Tanzania, used ‘fishing’ techniques on a large scale to feed on Macrotermes herus during the first half of the wet season, and faecal analysis showed that group B consumed far more termites than group K; the author considered that neighbouring chimpanzee groups adopt the same or similar tool techniques according to differences in the local insect fauna.",
+            "text_es": "Según el resumen, Uehara (1982) documentó que el grupo B de chimpancés de las montañas Mahale (Tanzania) emplea de forma masiva la técnica de «pesca» para alimentarse de Macrotermes herus durante la primera mitad de la estación húmeda, y que el análisis de heces indica que el grupo B consume muchas más termitas que el grupo K; el autor sostiene que grupos vecinos de chimpancés adoptan técnicas iguales o similares en función de las diferencias locales en la entomofauna."
+          }
+        ],
+        "heading_en": "‘Fishing’ records for chimpanzee group B",
+        "heading_es": "Registros de «pesca» en el grupo B de chimpancés"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0148",
+        "citation": "Uehara, S. 1982. Seasonal changes in the techniques employed by wild chimpanzees in the Mahale Mountains, Tanzania, to feed on termites (Pseudacanthotermes spiniger). Folia Primatologica.",
+        "doi": "10.1159/000156020"
+      }
+    ]
+  },
+  "/species/coptotermes-gestroi/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "乳白蚁属旧名 Coptotermes vastator 的异名化",
+        "paragraphs": [
+          {
+            "text": "据摘要，Yeap 等（2007）测定东南亚（马来西亚、新加坡、泰国、印度尼西亚）9 个格斯特乳白蚁（Coptotermes gestroi）种群和菲律宾、夏威夷 4 个乳白蚁属旧名 Coptotermes vastator 种群的 12S、16S 与 COII 线粒体基因，二者种间序列分歧最高仅 0.80%，16 项形态测量大量重叠；据此将乳白蚁属旧名 Coptotermes vastator 作为格斯特乳白蚁的次异名。",
+            "src": [
+              "S0180"
+            ],
+            "text_en": "According to the abstract, Yeap et al. (2007) sequenced the 12S, 16S and COII mitochondrial genes of 9 Coptotermes gestroi populations from Southeast Asia (Malaysia, Singapore, Thailand, Indonesia) and 4 populations of Coptotermes vastator (an old name in Coptotermes) from the Philippines and Hawaii; interspecific sequence divergence between the two was at most 0.80%, and 16 morphological measurements overlapped extensively; on this basis Coptotermes vastator was treated as a junior synonym of Coptotermes gestroi.",
+            "text_es": "Según el resumen, Yeap et al. (2007) secuenciaron los genes mitocondriales 12S, 16S y COII en nueve poblaciones de Coptotermes gestroi del sudeste asiático (Malasia, Singapur, Tailandia e Indonesia) y en cuatro poblaciones de Coptotermes vastator de Filipinas y Hawái, y hallaron una divergencia entre ambas de como máximo 0,80 % y un amplio solapamiento en 16 mediciones morfológicas; sobre esa base, Coptotermes vastator se considera sinónimo posterior de Coptotermes gestroi."
+          }
+        ],
+        "heading_en": "Synonymisation of the old Coptotermes name Coptotermes vastator",
+        "heading_es": "Sinonimización de Coptotermes vastator"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0180",
+        "citation": "Yeap, B.-K. et al. 2007. Genetic relationship between Coptotermes gestroi and Coptotermes vastator (Isoptera: Rhinotermitidae). Journal of Economic Entomology 100(2).",
+        "doi": "10.1093/jee/100.2.467"
+      }
+    ]
+  },
+  "/species/anoplotermes-pacificus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "2010 年属级修订中的模式种",
+        "paragraphs": [
+          {
+            "text": "据摘要，Bourguignon 等（2010）重新描述解甲白蚁属（Anoplotermes）模式种太平洋解甲白蚁（Anoplotermes pacificus），并保留班克斯解甲白蚁（Anoplotermes banksi）、小解甲白蚁（Anoplotermes parvus）和门神解甲白蚁（Anoplotermes janus）于该属；研究将 6 个种名归并，并提供 4 个遗传标记的 DNA 序列用于后续分子鉴定。",
+            "src": [
+              "S0177"
+            ],
+            "text_en": "According to the abstract, Bourguignon et al. (2010) redescribed Anoplotermes pacificus, the type species of Anoplotermes, and retained Anoplotermes banksi, Anoplotermes parvus and Anoplotermes janus in the genus; the study synonymised 6 species names and provided DNA sequences for 4 genetic markers for subsequent molecular identification.",
+            "text_es": "Según el resumen, Bourguignon et al. (2010) redescribieron Anoplotermes pacificus, especie tipo de Anoplotermes, y mantuvieron en el género a Anoplotermes banksi, Anoplotermes parvus y Anoplotermes janus; el estudio sinonimizó seis nombres específicos y aportó secuencias de ADN de cuatro marcadores genéticos para la identificación molecular futura."
+          }
+        ],
+        "heading_en": "Type species in the 2010 genus-level revision",
+        "heading_es": "La especie tipo en la revisión genérica de 2010"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0177",
+        "citation": "Bourguignon, T. et al. 2010. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov. Invertebrate Systematics.",
+        "doi": "10.1071/is10012"
+      }
+    ]
+  },
+  "/species/tumulitermes-tumuli/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "马氏管与上颚的金属富集",
+        "paragraphs": [
+          {
+            "text": "Stewart 等（2011）用 PIXE、SEM-EDX 和同步辐射 X 射线荧光微探针分析土垄冢白蚁（Tumulitermes tumuli）体内金属分布，发现上颚末端富集锰，马氏管显著富集锌（1.6%）、镁（4.9%）、磷（6.8%）、钙（2.7%）和钾（2.4%）；马氏管内有两种钙、锌互斥的结石类型。",
+            "src": [
+              "S0170"
+            ],
+            "text_en": "Stewart et al. (2011) used PIXE, SEM-EDX and synchrotron X-ray fluorescence microprobe analysis to determine the distribution of metals in Tumulitermes tumuli, and found that manganese is enriched at the tips of the mandibles, while the Malpighian tubules are markedly enriched in zinc (1.6%), magnesium (4.9%), phosphorus (6.8%), calcium (2.7%) and potassium (2.4%); two types of concretion with mutually exclusive calcium and zinc occur in the Malpighian tubules.",
+            "text_es": "Stewart et al. (2011) analizaron la distribución de metales en Tumulitermes tumuli mediante PIXE, SEM-EDX y microsonda de fluorescencia de rayos X con radiación sincrotrón, y hallaron manganeso acumulado en el extremo de las mandíbulas y concentraciones notables de zinc (1,6 %), magnesio (4,9 %), fósforo (6,8 %), calcio (2,7 %) y potasio (2,4 %) en los tubos de Malpighi; en estos tubos existen dos tipos de concreciones en las que el calcio y el zinc se excluyen mutuamente."
+          }
+        ],
+        "heading_en": "Metal enrichment in the Malpighian tubules and mandibles",
+        "heading_es": "Acumulación de metales en los tubos de Malpighi y las mandíbulas"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0170",
+        "citation": "Stewart, A. D. et al. 2011. Distribution of metals in the termite Tumulitermes tumuli (Froggatt): two types of Malpighian tubule concretion host Zn and Ca mutually exclusively. PLoS ONE.",
+        "doi": "10.1371/journal.pone.0027578"
+      }
+    ]
+  },
+  "/species/mastotermes-darwiniensis/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "多鞭毛精子的超微结构",
+        "paragraphs": [
+          {
+            "text": "据摘要，Baccetti 与 Dallai（1978）描述达尔文澳白蚁（Mastotermes darwiniensis）的精子，这是动物中首个多鞭毛精子实例：精子由锥形头部和 100 条鞭毛组成，无顶体，中心粒含二联微管而非三联微管，轴丝缺中央微管且二联体仅具单臂，鞭毛运动微弱。",
+            "src": [
+              "S0175"
+            ],
+            "text_en": "According to the abstract, Baccetti and Dallai (1978) described the spermatozoon of Mastotermes darwiniensis, the first example of a multiflagellate spermatozoon in animals: the sperm consists of a conical head and 100 flagella, lacks an acrosome, its centriole contains doublet rather than triplet microtubules, the axoneme lacks central microtubules and its doublets have only a single arm, and flagellar motility is weak.",
+            "text_es": "Según el resumen, Baccetti y Dallai (1978) describieron el espermatozoide de Mastotermes darwiniensis, primer caso de espermatozoide multiflagelado conocido en animales: consta de una cabeza cónica y 100 flagelos, carece de acrosoma, el centríolo contiene microtúbulos dobles y no triples, el axonema carece de microtúbulos centrales, los dobletes presentan un solo brazo y el movimiento flagelar es débil."
+          }
+        ],
+        "heading_en": "Ultrastructure of the multiflagellate spermatozoon",
+        "heading_es": "Ultraestructura del espermatozoide multiflagelado"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0175",
+        "citation": "Baccetti, B.; Dallai, R. 1978. The spermatozoon of arthropoda. XXX. The multiflagellate spermatozoon in the termite Mastotermes darwiniensis. Journal of Cell Biology 76(3).",
+        "doi": "10.1083/jcb.76.3.569"
+      }
+    ]
+  },
+  "/species/silvestritermes-minutus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "无性蚁后更替与群体生活史",
+        "paragraphs": [
+          {
+            "text": "据摘要，Fougeyrollas 等（2017）在 137 个最小西尔韦斯特里白蚁（Silvestritermes minutus）巢中进行社会结构普查，并对 12 个群体、12 个微卫星位点做基因分型，发现群体由一对远交初生繁殖蚁建立，不到 2 年建巢蚁后被多个新成蚁后替代，后者多经中央融合的自动混合生殖产生；不育品级和 93% 的雌性扩散个体为有性生殖，群体通常在第 3 年后一次性释放有翅成虫。作者认为该种借助无性蚁后更替加快群体生长和有翅成虫生产，而非延长群体寿命。",
+            "src": [
+              "S0182"
+            ],
+            "text_en": "According to the abstract, Fougeyrollas et al. (2017) surveyed social structure in 137 nests of Silvestritermes minutus and genotyped 12 colonies at 12 microsatellite loci; they found that colonies are founded by a pair of outbred primary reproductives, that the founding queens are replaced within 2 years by several new neotenic queens produced mainly through central-fusion automixis, that sterile castes and 93% of female dispersers are sexually produced, and that colonies usually release alates in a single burst after the 3rd year. The authors considered that this species uses asexual queen succession to accelerate colony growth and alate production rather than to extend colony lifespan.",
+            "text_es": "Según el resumen, Fougeyrollas et al. (2017) realizaron un censo de la estructura social en 137 nidos de Silvestritermes minutus y genotiparon 12 colonias con 12 loci de microsatélites; hallaron que las colonias son fundadas por una pareja de reproductores primarios exógamos y que, antes de los dos años, la pareja fundadora es sustituida por varias reinas nuevas, en su mayoría originadas por automixis con fusión central; las castas estériles y el 93 % de las hembras dispersantes se producen por reproducción sexual, y las colonias suelen liberar los alados una sola vez después del tercer año. Los autores concluyen que la especie recurre a la sucesión de reinas asexuales para acelerar el crecimiento de la colonia y la producción de alados, y no para prolongar la vida de la colonia."
+          }
+        ],
+        "heading_en": "Asexual queen succession and colony life history",
+        "heading_es": "Sucesión de reinas asexuales y ciclo de vida de la colonia"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0182",
+        "citation": "Fougeyrollas, R. et al. 2017. Asexual queen succession mediates an accelerated colony life cycle in the termite Silvestritermes minutus. Molecular Ecology.",
+        "doi": "10.1111/mec.14095"
+      }
+    ]
+  },
+  "/species/nasutitermes-takasagoensis/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "内源性内切葡聚糖酶的结构",
+        "paragraphs": [
+          {
+            "text": "据摘要，Khademi 等（2002）解析高砂象白蚁（Nasutitermes takasagoensis）内源性内切葡聚糖酶 NtEgl 的 1.40 Å 晶体结构，显示其具有糖苷水解酶第 9 家族常见的 (α/α)6 桶状折叠，保守 Glu412 为催化酸碱残基，Asp54 或 Asp57 为碱基，底物结合裂隙附近有一个 Ca2+ 结合位点；该结果支持白蚁自身分泌纤维素酶、并非完全依赖共生细菌。",
+            "src": [
+              "S0155"
+            ],
+            "text_en": "According to the abstract, Khademi et al. (2002) determined the 1.40 Å crystal structure of NtEgl, an endogenous endoglucanase of Nasutitermes takasagoensis, showing that it has the (α/α)6 barrel fold typical of glycoside hydrolase family 9, that the conserved Glu412 is the catalytic acid/base residue and Asp54 or Asp57 the base, and that a Ca2+ binding site lies near the substrate-binding cleft; the result supports the view that termites themselves secrete cellulases and do not depend entirely on symbiotic bacteria.",
+            "text_es": "Según el resumen, Khademi et al. (2002) resolvieron la estructura cristalina a 1,40 Å de NtEgl, una endoglucanasa endógena de Nasutitermes takasagoensis, y mostraron que presenta el plegamiento en barril (α/α)6 característico de la familia 9 de glucósido hidrolasas, con Glu412 conservado como residuo ácido-base catalítico, Asp54 o Asp57 como base y un sitio de unión a Ca²⁺ cerca de la hendidura de unión al sustrato; el resultado respalda que las termitas secretan sus propias celulasas y no dependen por completo de bacterias simbiontes."
+          }
+        ],
+        "heading_en": "Structure of an endogenous endoglucanase",
+        "heading_es": "Estructura de una endoglucanasa endógena"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0155",
+        "citation": "Khademi, S. et al. 2002. Structure of an endoglucanase from termite, Nasutitermes takasagoensis. Acta Crystallographica Section D: Biological Crystallography.",
+        "doi": "10.1107/s0907444902002366"
+      }
+    ]
+  },
+  "/species/procubitermes-aburiensis/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "消化道细菌的分布与数量",
+        "paragraphs": [
+          {
+            "text": "据摘要，Bignell 等（1980）对阿布里原方白蚁（Procubitermes aburiensis）消化道细菌进行计数和电镜观察，发现从嗉囊到直肠的微生物总量增加 3–4 倍；丝状放线菌在多数肠段占重要比例，并可与中肠、混合段和结肠壁形成新型结合；非丝状杆菌主要定殖于第一后肠段和结肠，并在第三后肠段内容物中大量出现。",
+            "src": [
+              "S0152"
+            ],
+            "text_en": "According to the abstract, Bignell et al. (1980) counted and examined by electron microscopy the bacteria in the gut of Procubitermes aburiensis, and found that the total microbial population increases 3–4-fold from the crop to the rectum; filamentous actinomycetes form an important proportion in most gut regions and can form a novel association with the walls of the midgut, mixed segment and colon; non-filamentous rod-shaped bacteria colonise mainly the first proctodeal segment and the colon, and occur in large numbers in the contents of the third proctodeal segment.",
+            "text_es": "Según el resumen, Bignell et al. (1980) cuantificaron y observaron al microscopio electrónico las bacterias del tubo digestivo de Procubitermes aburiensis, y hallaron que el total de microorganismos aumenta de 3 a 4 veces desde el buche hasta el recto; las actinobacterias filamentosas representan una proporción importante en la mayoría de los segmentos intestinales y pueden establecer nuevas asociaciones con las paredes del intestino medio, el segmento mixto y el colon, mientras que los bacilos no filamentosos colonizan principalmente el primer segmento posterior del intestino y el colon, y aparecen en gran número en el contenido del tercer segmento posterior."
+          }
+        ],
+        "heading_en": "Distribution and abundance of gut bacteria",
+        "heading_es": "Distribución y abundancia de bacterias en el tubo digestivo"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0152",
+        "citation": "Bignell, D. E.; Oskarsson, H.; Anderson, J. M. 1980. Distribution and abundance of bacteria in the gut of a soil-feeding termite Procubitermes aburiensis (Termitidae, Termitinae). Microbiology 117(2).",
+        "doi": "10.1099/00221287-117-2-393"
+      }
+    ]
+  },
+  "/species/constrictotermes-cyphergaster/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "追踪信息素与专性客居者",
+        "paragraphs": [
+          {
+            "text": "Cristaldo 等（2014）研究弯肠缩白蚁（Constrictotermes cyphergaster）与其专性客居者小角客白蚁（Inquilinitermes microcerus）的追踪行为，确定宿主追踪信息素由新西柏烯（neocembrene）和 (3Z,6Z,8E)-十二碳-3,6,8-三烯-1-醇组成；选择实验中弯肠缩白蚁偏好同类追踪信息素轨迹，而小角客白蚁偏好异类追踪信息素轨迹；在全身体表提取物的无选择实验中，弯肠缩白蚁无偏好，小角客白蚁明显回避异类追踪信息素轨迹。",
+            "src": [
+              "S0176"
+            ],
+            "text_en": "Cristaldo et al. (2014) studied the trail-following behaviour of Constrictotermes cyphergaster and its obligate inquiline Inquilinitermes microcerus, and determined that the host trail pheromone consists of neocembrene and (3Z,6Z,8E)-dodeca-3,6,8-trien-1-ol; in choice experiments Constrictotermes cyphergaster preferred conspecific trail pheromone trails, whereas Inquilinitermes microcerus preferred heterospecific trails; in no-choice experiments with whole-body surface extracts, Constrictotermes cyphergaster showed no preference and Inquilinitermes microcerus clearly avoided heterospecific trails.",
+            "text_es": "Cristaldo et al. (2014) estudiaron el comportamiento de seguimiento de rastro de Constrictotermes cyphergaster y de su inquilino obligado Inquilinitermes microcerus, y determinaron que la feromona de rastro del hospedador está compuesta por neocembrene y (3Z,6Z,8E)-dodeca-3,6,8-trien-1-ol; en los experimentos de elección, Constrictotermes cyphergaster prefiere los rastros de su propia feromona e Inquilinitermes microcerus prefiere los rastros de la feromona heteroespecífica; en los experimentos sin elección con extractos de superficie corporal total, Constrictotermes cyphergaster no mostró preferencia, mientras que Inquilinitermes microcerus evitó claramente los rastros de la feromona heteroespecífica."
+          }
+        ],
+        "heading_en": "Trail pheromone and obligate inquiline",
+        "heading_es": "Feromona de rastro e inquilino obligado"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0176",
+        "citation": "Cristaldo, P. F. et al. 2014. Mutual use of trail-following chemical cues by a termite host and its inquiline. PLoS ONE.",
+        "doi": "10.1371/journal.pone.0085315"
+      }
+    ]
+  },
+  "/species/inquilinitermes-microcerus/": {
+    "updated": "2026-11-11",
+    "sections": [
+      {
+        "heading": "对宿主追踪信息素的利用",
+        "paragraphs": [
+          {
+            "text": "同项研究显示，小角客白蚁（Inquilinitermes microcerus）虽未被鉴定出自身特有的追踪化合物，但其工蚁能跟随弯肠缩白蚁（Constrictotermes cyphergaster）的追踪信息素成分；在异类与同类追踪信息素轨迹之间，小角客白蚁偏好异类轨迹，并在全身体表提取物无选择实验中回避异类轨迹。作者认为两者的共存依赖避免冲突的行为策略。",
+            "src": [
+              "S0176"
+            ],
+            "text_en": "The same study showed that although no trail compound specific to Inquilinitermes microcerus was identified, its workers can follow the trail pheromone components of Constrictotermes cyphergaster; between heterospecific and conspecific trail pheromone trails, Inquilinitermes microcerus prefers heterospecific trails, and in no-choice experiments with whole-body surface extracts it avoids heterospecific trails. The authors considered that the coexistence of the two species depends on behavioural strategies that avoid conflict.",
+            "text_es": "El mismo estudio muestra que, aunque no se identificaron compuestos de rastro propios de Inquilinitermes microcerus, sus obreras pueden seguir los componentes de la feromona de rastro de Constrictotermes cyphergaster; entre rastros heteroespecíficos y coespecíficos, Inquilinitermes microcerus prefiere los heteroespecíficos y, en los experimentos sin elección con extractos de superficie corporal total, evita los rastros heteroespecíficos. Los autores consideran que la coexistencia de ambas especies depende de estrategias conductuales que evitan el conflicto."
+          }
+        ],
+        "heading_en": "Use of the host trail pheromone",
+        "heading_es": "Uso de la feromona de rastro del hospedador"
+      }
+    ],
+    "references": [
+      {
+        "id": "S0176",
+        "citation": "Cristaldo, P. F. et al. 2014. Mutual use of trail-following chemical cues by a termite host and its inquiline. PLoS ONE.",
+        "doi": "10.1371/journal.pone.0085315"
+      }
+    ]
   }
 }

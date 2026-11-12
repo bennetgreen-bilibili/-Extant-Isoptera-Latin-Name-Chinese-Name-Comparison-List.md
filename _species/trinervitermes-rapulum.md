@@ -26,7 +26,7 @@ synonym_localities: "South Africa: Zululand: Mhalazinga; South Africa: Zululand:
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **蔓菁三脉白蚁**（*Trinervitermes rapulum*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）三脉白蚁属（*Trinervitermes*）的一种。本种由 Sjöstedt 于 1904 年描述，模式产地为 Tanzania: Tanga。分布记录包括南非、埃塞俄比亚、马拉维、坦桑尼亚、津巴布韦。本站记录本种有 3 个次异名。
 
@@ -34,7 +34,7 @@ EN — **蔓菁三脉白蚁** (*Trinervitermes rapulum*) is a species of the gen
 
 ES — **蔓菁三脉白蚁** (*Trinervitermes rapulum*) es una especie del género *Trinervitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1904; la localidad tipo es Tanzania: Tanga. Distribución: South Africa, Ethiopia, Malawi, Tanzania, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Trinervitermes*：属名由拉丁文 tri-（三）+ nervus（脉）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *rapulum*: Latin rapum (turnip) + -ulum (small), small turnip
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[三脉白蚁属 *Trinervitermes*]({{ site.base_url }}/genus/trinervitermes/) —— 共 21 种（21 species · 21 especies）
 - **本属模式种 Type species / Especie tipo**：*Trinervitermes trinervius*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南非、埃塞俄比亚、马拉维、坦桑尼亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南非、埃塞俄比亚、马拉维、坦桑尼亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：South Africa, Ethiopia, Malawi, Tanzania, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Eutermes (Trinervitermes) dispar disparioides* Holmgren, 1913: 342-343 —— 模式产地：South Africa: Zululand: Mhalazinga
 2. *Eutermes (Trinervitermes) dispar zuluensis* Holmgren, 1913: 340-342 —— 模式产地：South Africa: Zululand: Mfolozi drift, Mkosi

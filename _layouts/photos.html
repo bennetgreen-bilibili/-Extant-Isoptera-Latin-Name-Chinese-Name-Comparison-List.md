@@ -10,18 +10,19 @@ layout: default
   四级页面都带同一个「本页检索」框（_includes/photo-search.html）：
   按拉丁学名 / 中文名 / 摄影师筛当前页的照片，不额外请求数据。
 {%- endcomment -%}
+{%- assign ppc = page.photo_count | plus: 0 -%}
 <article class="taxon-page photo-page">
-  <nav class="taxon-crumbs" aria-label="分类位置">
+  <nav class="taxon-crumbs" aria-label="分类位置 · Taxonomic position · Posición taxonómica">
     {%- for crumb in page.breadcrumb -%}
     <a href="{{ site.base_url }}{{ crumb.url }}">{{ crumb.name }}</a> ›
     {%- endfor %}
-    <span>全部图片</span>
+    <span>全部图片 <span class="fact-en" lang="en">All photos</span> <span class="fact-es" lang="es">Todas las fotos</span></span>
   </nav>
 
   <header class="taxon-header photo-page-header">
-    <h1 class="photo-page-title">{% if page.photo_kind == 'species' %}<i>{{ page.photo_latin }}</i> {{ page.photo_zh }}{% else %}{{ page.photo_zh }} <i>{{ page.photo_latin }}</i>{% endif %} <span class="photo-page-label">全部图片</span></h1>
-    <p class="taxon-meta">{{ page.photo_count }} 张开放许可照片{% if page.photo_species %} · {{ page.photo_species }} 种{% endif %} · 来源 iNaturalist / Wikimedia Commons</p>
-    <p class="taxon-back"><a href="{{ site.base_url }}{{ page.back_url }}">← 返回 {{ page.back_label }}</a></p>
+    <h1 class="photo-page-title">{% if page.photo_kind == 'species' %}<i>{{ page.photo_latin }}</i> {{ page.photo_zh }}{% else %}{{ page.photo_zh }} <i>{{ page.photo_latin }}</i>{% endif %} <span class="photo-page-label">全部图片 <span class="fact-en" lang="en">All photos</span> <span class="fact-es" lang="es">Todas las fotos</span></span></h1>
+    <p class="taxon-meta">{{ page.photo_count }} 张开放许可照片{% if page.photo_species %} · {{ page.photo_species }} 种{% endif %} · 来源 iNaturalist / Wikimedia Commons <span class="fact-en" lang="en">{{ ppc }} freely licensed photo{% if ppc != 1 %}s{% endif %}{% if page.photo_species %} · {{ page.photo_species }} species{% endif %} · source iNaturalist / Wikimedia Commons</span> <span class="fact-es" lang="es">{{ ppc }} foto{% if ppc != 1 %}s{% endif %} con licencia libre{% if page.photo_species %} · {{ page.photo_species }} especies{% endif %} · fuente iNaturalist / Wikimedia Commons</span></p>
+    <p class="taxon-back"><a href="{{ site.base_url }}{{ page.back_url }}">← 返回 {{ page.back_label }} <span class="fact-en" lang="en">· back to</span> <span class="fact-es" lang="es">· volver a</span></a></p>
   </header>
 
   {%- comment -%}
@@ -41,8 +42,10 @@ layout: default
   {%- if pp_photos and pp_photos.size > 0 %}
   <section class="species-gallery" aria-labelledby="photo-gallery-title">
     <div class="gallery-head">
-      <h2 class="gallery-title" id="photo-gallery-title">{{ page.photo_latin }} {{ page.photo_zh }} <span class="gallery-count">{{ pp_photos.size }} 张</span></h2>
+      <h2 class="gallery-title" id="photo-gallery-title">{{ page.photo_latin }} {{ page.photo_zh }} <span class="gallery-count">{{ pp_photos.size }} 张 <span class="fact-en" lang="en">{{ pp_photos.size }} photo{% if pp_photos.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">{{ pp_photos.size }} foto{% if pp_photos.size != 1 %}s{% endif %}</span></span></h2>
       <p class="gallery-lead">该种全部开放许可照片。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者；每张图下方标注作者、许可协议与原始页面。</p>
+      <p class="gallery-lead fact-en" lang="en">All freely licensed photos of this species. Images are hotlinked from iNaturalist / Wikimedia Commons and stay the property of their authors; each photo gives its author, licence and original page below.</p>
+      <p class="gallery-lead fact-es" lang="es">Todas las fotos con licencia libre de esta especie. Las imágenes se enlazan desde iNaturalist / Wikimedia Commons y siguen siendo de sus autores; bajo cada foto figuran el autor, la licencia y la página original.</p>
     </div>
     <div class="gallery-grid">
       {%- for photo in pp_photos %}

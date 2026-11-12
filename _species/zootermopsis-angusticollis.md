@@ -21,15 +21,15 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **狭颈动白蚁**（*Zootermopsis angusticollis*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种，也是本属的模式种。本种由 Hagen 于 1858 年描述，模式产地为 United States: California; Louisiana。分布记录包括北美西海岸、美国、加拿大不列颠哥伦比亚、墨西哥。另有记录显示其已引入夏威夷（美国）。
 
-EN — **狭颈动白蚁** (*Zootermopsis angusticollis*) is a species and the type species of its genus of the genus *Zootermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Hagen in 1858; the type locality is United States: California; Louisiana. Distribution: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
+EN — **狭颈动白蚁** (*Zootermopsis angusticollis*) is a species and the type species of the genus *Zootermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Hagen in 1858; the type locality is United States: California; Louisiana. Distribution: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
 
-ES — **狭颈动白蚁** (*Zootermopsis angusticollis*) es una especie, y la especie tipo de su género del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California; Louisiana. Distribución: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
+ES — **狭颈动白蚁** (*Zootermopsis angusticollis*) es una especie, y la especie tipo del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es United States: California; Louisiana. Distribución: West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States).
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *angusticollis*: From angusti (窄) + collis (颈)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
 - **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种（3 species · 3 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北美西海岸、美国、加拿大不列颠哥伦比亚、墨西哥
-- **引入记录**：夏威夷（美国）
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美西海岸、美国、加拿大不列颠哥伦比亚、墨西哥
+- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：夏威夷（美国）
 - **英文记录 English record / Registro en inglés**：West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

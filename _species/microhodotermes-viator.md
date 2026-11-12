@@ -23,15 +23,15 @@ synonym_localities: "South Africa: Cape Province [W. Capland]: Darling; South Af
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **旅游小草白蚁**（*Microhodotermes viator*）是草白蚁科（HODOTERMITIDAE）小草白蚁属（*Microhodotermes*）的一种，也是本属的模式种。本种由 Latreille 于 1804 年描述，模式产地为 South Africa: Cape of Good Hope。分布记录包括南非、纳米比亚。本站记录本种有 6 个次异名。
 
-EN — **旅游小草白蚁** (*Microhodotermes viator*) is a species and the type species of its genus of the genus *Microhodotermes*, in the family HODOTERMITIDAE. The species was described by Latreille in 1804; the type locality is South Africa: Cape of Good Hope. Distribution: South Africa, Namibia. This site records 6 junior synonyms for the species.
+EN — **旅游小草白蚁** (*Microhodotermes viator*) is a species and the type species of the genus *Microhodotermes*, in the family HODOTERMITIDAE. The species was described by Latreille in 1804; the type locality is South Africa: Cape of Good Hope. Distribution: South Africa, Namibia. This site records 6 junior synonyms for the species.
 
-ES — **旅游小草白蚁** (*Microhodotermes viator*) es una especie, y la especie tipo de su género del género *Microhodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Latreille en 1804; la localidad tipo es South Africa: Cape of Good Hope. Distribución: South Africa, Namibia. Este sitio registra 6 sinónimos junior para la especie.
+ES — **旅游小草白蚁** (*Microhodotermes viator*) es una especie, y la especie tipo del género *Microhodotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Latreille en 1804; la localidad tipo es South Africa: Cape of Good Hope. Distribución: South Africa, Namibia. Este sitio registra 6 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Microhodotermes*：属名由希腊文 mikros（小）+ hodos（道路）与拉丁文 termes（白蚁）组合。
 
@@ -43,21 +43,25 @@ EN — epithet *viator*: Latin viator (traveller)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
 - **属 Genus / Género**：[小草白蚁属 *Microhodotermes*]({{ site.base_url }}/genus/microhodotermes/) —— 共 3 种（3 species · 3 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南非、纳米比亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南非、纳米比亚
 - **英文记录 English record / Registro en inglés**：South Africa, Namibia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 6 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 6 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 6 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 6 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Hodotermes aurivillii* Sjöstedt, 1900: 278 —— 模式产地：South Africa: Cape Province \[W. Capland\]: Darling
 2. *Hodotermes (Hodotermes) silvestrii* Fuller, 1921: 40 —— 模式产地：South Africa: Cape Province: Namaqualand-Bushmanland

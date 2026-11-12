@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **茹泰尔新白蚁**（*Neotermes jouteli*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Banks 于 1919 年描述，模式产地为 Bahamas: Andros, Big Wood Key; Cuba: 14 km north of Vinales; Cayamas, Woodfred Inn, Pinares; Mexico: Veracruz: Tampico; United States: Florida: Adam Key。分布记录包括北美、美国、墨西哥、加勒比、巴哈马、古巴、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、澳大利亚。
 
@@ -29,7 +29,7 @@ EN — **茹泰尔新白蚁** (*Neotermes jouteli*) is a species of the genus *N
 
 ES — **茹泰尔新白蚁** (*Neotermes jouteli*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1919; la localidad tipo es Bahamas: Andros, Big Wood Key; Cuba: 14 km north of Vinales; Cayamas, Woodfred Inn, Pinares; Mexico: Veracruz: Tampico; United States: Florida: Adam Key. Distribución: North America, United States, Mexico, Caribbean, Bahamas, Cuba, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, Australia.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *jouteli*: Named after Joutel
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北美、美国、墨西哥、加勒比、巴哈马、古巴、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、澳大利亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美、美国、墨西哥、加勒比、巴哈马、古巴、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、澳大利亚
 - **英文记录 English record / Registro en inglés**：North America, United States, Mexico, Caribbean, Bahamas, Cuba, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

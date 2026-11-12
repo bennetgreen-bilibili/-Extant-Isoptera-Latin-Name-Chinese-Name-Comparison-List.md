@@ -26,15 +26,15 @@ synonym_localities: "Brasil: São Paulo: Guatapará, Horto Florestal de Guarani 
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **异翅快白蚁**（*Velocitermes heteropterus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）快白蚁属（*Velocitermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉。本站记录本种有 1 个次异名。
 
-EN — **异翅快白蚁** (*Velocitermes heteropterus*) is a species and the type species of its genus of the genus *Velocitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Colombia, Paraguay, Argentina, Venezuela. This site records 1 junior synonym for the species.
+EN — **异翅快白蚁** (*Velocitermes heteropterus*) is a species and the type species of the genus *Velocitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Silvestri in 1901; the type locality is Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribution: Brazil, Colombia, Paraguay, Argentina, Venezuela. This site records 1 junior synonym for the species.
 
-ES — **异翅快白蚁** (*Velocitermes heteropterus*) es una especie, y la especie tipo de su género del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Colombia, Paraguay, Argentina, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
+ES — **异翅快白蚁** (*Velocitermes heteropterus*) es una especie, y la especie tipo del género *Velocitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Colombia, Paraguay, Argentina, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Velocitermes*：属名由拉丁文 velox（快速的）与 termes（白蚁）组合。
 
@@ -46,22 +46,26 @@ EN — epithet *heteropterus*: From hetero (异) + pterus (翅)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[快白蚁属 *Velocitermes*]({{ site.base_url }}/genus/velocitermes/) —— 共 9 种（9 species · 9 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、哥伦比亚、巴拉圭、阿根廷、委内瑞拉
 - **英文记录 English record / Registro en inglés**：Brazil, Colombia, Paraguay, Argentina, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Diversitermes needhami* Roonwal, Chhotani & Verma, 1981: 348 —— 模式产地：Brasil: São Paulo: Guatapará, Horto Florestal de Guarani \[21.42S 48.1W\]
 

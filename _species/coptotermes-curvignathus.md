@@ -23,7 +23,7 @@ synonym_localities: "Malaysia: Sabah: Darvel Bay; Philippines: Luzon: Los Banos"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **曲颚乳白蚁**（*Coptotermes curvignathus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Malaysia: Sarawak; Myanmar: ?; Singapore: ?。分布记录包括东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非。另有记录显示其已引入中国。本站记录本种有 2 个次异名。
 
@@ -31,7 +31,7 @@ EN — **曲颚乳白蚁** (*Coptotermes curvignathus*) is a species of the genu
 
 ES — **曲颚乳白蚁** (*Coptotermes curvignathus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Malaysia: Sarawak; Myanmar: ?; Singapore: ?. Distribución: Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
@@ -43,23 +43,27 @@ EN — epithet *curvignathus*: From curvi (弯) + gnathus (颚)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非
-- **引入记录**：中国
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东南亚、马来西亚、泰国、印度尼西亚、缅甸、新加坡、越南、菲律宾、南非
+- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：中国
 - **英文记录 English record / Registro en inglés**：Southeast Asia, Malaysia, Thailand, Indonesia, Myanmar, Singapore, Vietnam; introduced: China, Philippines, South Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Coptotermes robustus* Holmgren, 1913: 78 —— 模式产地：Malaysia: Sabah: Darvel Bay
 2. *Coptotermes flavicephalus* Oshima, 1914: 558-559 —— 模式产地：Philippines: Luzon: Los Banos

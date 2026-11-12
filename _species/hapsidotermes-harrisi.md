@@ -26,15 +26,15 @@ synonym_localities: "Australia: Queensland: Cape York Peninsula, near Coleman Ri
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **哈里斯络白蚁**（*Hapsidotermes harrisi*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）络白蚁属（*Hapsidotermes*）的一种，也是本属的模式种。本种由 Mjöberg 于 1920 年描述，模式产地为 Australia: Queensland: Ravenshoe。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
-EN — **哈里斯络白蚁** (*Hapsidotermes harrisi*) is a species and the type species of its genus of the genus *Hapsidotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia. This site records 1 junior synonym for the species.
+EN — **哈里斯络白蚁** (*Hapsidotermes harrisi*) is a species and the type species of the genus *Hapsidotermes*, in the family TERMITIDAE (subfamily Termitinae). The species was described by Mjöberg in 1920; the type locality is Australia: Queensland: Ravenshoe. Distribution: Australia. This site records 1 junior synonym for the species.
 
-ES — **哈里斯络白蚁** (*Hapsidotermes harrisi*) es una especie, y la especie tipo de su género del género *Hapsidotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Ravenshoe. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **哈里斯络白蚁** (*Hapsidotermes harrisi*) es una especie, y la especie tipo del género *Hapsidotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Mjöberg en 1920; la localidad tipo es Australia: Queensland: Ravenshoe. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Hapsidotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -46,22 +46,26 @@ EN — epithet *harrisi*: Named after Harris
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
 - **属 Genus / Género**：[络白蚁属 *Hapsidotermes*]({{ site.base_url }}/genus/hapsidotermes/) —— 共 5 种（5 species · 5 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
 - **英文记录 English record / Registro en inglés**：Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Mirotermes alicensis* Mjöberg, 1920: 100-101 —— 模式产地：Australia: Queensland: Cape York Peninsula, near Coleman River
 

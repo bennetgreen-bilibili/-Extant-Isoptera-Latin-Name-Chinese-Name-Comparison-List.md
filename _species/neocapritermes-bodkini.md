@@ -26,7 +26,7 @@ synonym_localities: "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **博德金新扭白蚁**（*Neocapritermes bodkini*）是白蚁科（TERMITIDAE）新扭白蚁亚科（Neocapritermitinae）新扭白蚁属（*Neocapritermes*）的一种。本种由 Silvestri 于 1923 年描述，模式产地为 Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]。分布记录包括哥伦比亚、圭亚那、巴西、秘鲁。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **博德金新扭白蚁** (*Neocapritermes bodkini*) is a species of the 
 
 ES — **博德金新扭白蚁** (*Neocapritermes bodkini*) es una especie del género *Neocapritermes*, en la familia TERMITIDAE (subfamilia Neocapritermitinae). La especie fue descrita por Silvestri en 1923; la localidad tipo es Guyana: Potaro-Siparuni: Tumatumari \[ 5.27N 59.14W \]. Distribución: Colombia, Guyana, Brazil, Peru. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Neocapritermes*：属名由希腊文 neos（新）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *bodkini*: Named after Bodkin
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[新扭白蚁亚科 Neocapritermitinae]({{ site.base_url }}/subfamily/neocapritermitinae/) —— 本站收录 3 属 20 种（3 genera, 20 species · 3 géneros, 20 especies）
 - **属 Genus / Género**：[新扭白蚁属 *Neocapritermes*]({{ site.base_url }}/genus/neocapritermes/) —— 共 17 种（17 species · 17 especies）
 - **本属模式种 Type species / Especie tipo**：*Neocapritermes opacus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：哥伦比亚、圭亚那、巴西、秘鲁
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：哥伦比亚、圭亚那、巴西、秘鲁
 - **英文记录 English record / Registro en inglés**：Colombia, Guyana, Brazil, Peru
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Capritermes bodkini modestior* Silvestri, 1923: 315-318 —— 模式产地：Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]
 

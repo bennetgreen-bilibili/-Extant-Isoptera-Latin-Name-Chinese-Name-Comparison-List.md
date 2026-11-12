@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **罗曼前角白蚁**（*Procornitermes romani*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）前角白蚁属（*Procornitermes*）的一种。本种由 Emerson 于 1952 年描述，模式产地为 Brasil: Bahia: Itaetê \[12.98S 40.97W\]。分布记录包括巴西。
 
@@ -32,7 +32,7 @@ EN — **罗曼前角白蚁** (*Procornitermes romani*) is a species of the genu
 
 ES — **罗曼前角白蚁** (*Procornitermes romani*) es una especie del género *Procornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Brasil: Bahia: Itaetê \[12.98S 40.97W\]. Distribución: Brazil.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Procornitermes*：属名由希腊文 pro-（前）+ 拉丁文 cornu（角）与 termes（白蚁）组合。
 
@@ -44,17 +44,21 @@ EN — epithet *romani*: Named in honor of Dr. A. Roman of the Naturhistoriska R
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[前角白蚁属 *Procornitermes*]({{ site.base_url }}/genus/procornitermes/) —— 共 5 种（5 species · 5 especies）
 - **本属模式种 Type species / Especie tipo**：*Procornitermes triacifer*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西
 - **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

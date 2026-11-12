@@ -25,7 +25,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **较壮亚种**（*Microcerotermes fuscotibialis validior*）是棕胫锯白蚁（*Microcerotermes fuscotibialis*）的一个亚种，隶属白蚁科（TERMITIDAE）锯白蚁亚科（Microcerotermitinae）锯白蚁属（*Microcerotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Mamou。本页暂无单列的分布记录，母种 *Microcerotermes fuscotibialis* 的分布见下文「分布」一节。
 
@@ -33,7 +33,7 @@ EN — **较壮亚种** (*Microcerotermes fuscotibialis validior*) is a subspeci
 
 ES — **较壮亚种** (*Microcerotermes fuscotibialis validior*) es una subespecie de *Microcerotermes fuscotibialis*, en la familia TERMITIDAE (subfamilia Microcerotermitinae), género *Microcerotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Mamou. No se incluye un registro de distribución separado en esta página; véase la especie parental *Microcerotermes fuscotibialis*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Microcerotermes*：属名由希腊文 mikros（小）+ keras（角）与拉丁文 termes（白蚁）组合。
 
@@ -45,7 +45,7 @@ EN — epithet *validior*: Latin validior (stouter, comparative of validus)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[锯白蚁亚科 Microcerotermitinae]({{ site.base_url }}/subfamily/microcerotermitinae/) —— 本站收录 2 属 150 种（2 genera, 150 species · 2 géneros, 150 especies）
@@ -53,9 +53,13 @@ EN — epithet *validior*: Latin validior (stouter, comparative of validus)
 - **种 Species / Especie**：[棕胫锯白蚁 *Microcerotermes fuscotibialis*]({{ site.base_url }}/species/microcerotermes-fuscotibialis/)
 - **亚种 Subspecies / Subespecie**：本页（*Microcerotermes fuscotibialis validior*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Microcerotermes fuscotibialis* 的分布为：旧热带界、西非、中非。
 
-母种英文记录：Old World tropics, West Africa, Central Africa。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Microcerotermes fuscotibialis</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Microcerotermes fuscotibialis</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Old World tropics, West Africa, Central Africa。
 <!-- AUTO:END -->

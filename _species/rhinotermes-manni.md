@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **曼鼻白蚁**（*Rhinotermes manni*）是鼻白蚁科（RHINOTERMITIDAE）鼻白蚁属（*Rhinotermes*）的一种。本种由 Snyder 于 1924 年描述，模式产地为 Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]。分布记录包括玻利维亚。
 
@@ -29,7 +29,7 @@ EN — **曼鼻白蚁** (*Rhinotermes manni*) is a species of the genus *Rhinote
 
 ES — **曼鼻白蚁** (*Rhinotermes manni*) es una especie del género *Rhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Snyder en 1924; la localidad tipo es Bolivia: El Beni: Rurrenabaque \[ 14.44S 67.525W \]. Distribución: Bolivia.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Rhinotermes*：属名由希腊文 rhis（鼻）与拉丁文 termes（白蚁）组合，指兵蚁具鼻状额突。
 
@@ -41,16 +41,20 @@ EN — epithet *manni*: Named after the entomologist W. M. Mann
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[鼻白蚁属 *Rhinotermes*]({{ site.base_url }}/genus/rhinotermes/) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Rhinotermes nasutus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：玻利维亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：玻利维亚
 - **英文记录 English record / Registro en inglés**：Bolivia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

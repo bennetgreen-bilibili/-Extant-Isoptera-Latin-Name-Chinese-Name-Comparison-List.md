@@ -26,7 +26,7 @@ synonym_localities: "South Africa: Natal: Pongolo River, near Nduma"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **伤残净白蚁**（*Nitiditermes truncatus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand。分布记录包括南非。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **伤残净白蚁** (*Nitiditermes truncatus*) is a species of the genus 
 
 ES — **伤残净白蚁** (*Nitiditermes truncatus*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Zululand. Distribución: South Africa. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *truncatus*: Latin truncatus (truncated)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[净白蚁属 *Nitiditermes*]({{ site.base_url }}/genus/nitiditermes/) —— 共 15 种（15 species · 15 especies）
 - **本属模式种 Type species / Especie tipo**：*Nitiditermes berghei*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南非
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南非
 - **英文记录 English record / Registro en inglés**：South Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Mirotermes (Cubitermes) duplex nduma* Fuller, 1925: 205 —— 模式产地：South Africa: Natal: Pongolo River, near Nduma
 

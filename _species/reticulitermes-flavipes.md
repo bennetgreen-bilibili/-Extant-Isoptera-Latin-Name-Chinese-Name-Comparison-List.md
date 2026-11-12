@@ -23,15 +23,15 @@ synonym_localities: "United States: Pennsylvania; United States: Texas: Beaumont
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **北美散白蚁**（*Reticulitermes flavipes*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种，也是本属的模式种。本种由 Kollar 于 1837 年描述，模式产地为 Austria: Schönbrunn。分布记录包括北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭。文献另注：随贸易引入欧洲。本站记录本种有 3 个次异名。
 
-EN — **北美散白蚁** (*Reticulitermes flavipes*) is a species and the type species of its genus of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Kollar in 1837; the type locality is Austria: Schönbrunn. Distribution: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. This site records 3 junior synonyms for the species.
+EN — **北美散白蚁** (*Reticulitermes flavipes*) is a species and the type species of the genus *Reticulitermes*, in the family HETEROTERMITIDAE. The species was described by Kollar in 1837; the type locality is Austria: Schönbrunn. Distribution: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. This site records 3 junior synonyms for the species.
 
-ES — **北美散白蚁** (*Reticulitermes flavipes*) es una especie, y la especie tipo de su género del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Kollar en 1837; la localidad tipo es Austria: Schönbrunn. Distribución: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. Este sitio registra 3 sinónimos junior para la especie.
+ES — **北美散白蚁** (*Reticulitermes flavipes*) es una especie, y la especie tipo del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Kollar en 1837; la localidad tipo es Austria: Schönbrunn. Distribución: eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *flavipes*: From flavi (黄) + pes (足)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种（140 species · 140 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭
-- **补充记录**：随贸易引入欧洲
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美东部、美国东部、加拿大东南部、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭
+- **补充记录** <span class="fact-en" lang="en">Additional records</span> <span class="fact-es" lang="es">Registros adicionales</span>：随贸易引入欧洲
 - **英文记录 English record / Registro en inglés**：eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes frontalis* Haldeman, 1844: 55 —— 模式产地：United States: Pennsylvania
 2. *Reticulitermes claripennis* Banks, 1920: 47 —— 模式产地：United States: Texas: Beaumont

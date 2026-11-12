@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 427,
+    "count": 429,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-11T22:50:25+08:00",
+    "updated": "2026-11-12T20:15:08+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -8344,7 +8344,9 @@
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1330 字）。",
       "accessed": "2026-11-09T15:10:27+00:00",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2",
       "id": "S0144",
       "fulltext_status": "abstract-no-oa"
@@ -8382,7 +8384,9 @@
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 960 字）。",
       "accessed": "2026-11-09T15:10:48+00:00",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1016/s0378-1097(98)00244-4",
       "id": "S0145",
       "fulltext_status": "abstract-no-oa"
@@ -8463,7 +8467,9 @@
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1803 字）。",
       "accessed": "2026-11-09T15:11:13+00:00",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1098/rstb.1920.0002",
       "id": "S0147",
       "fulltext_status": "abstract-no-oa"
@@ -8505,7 +8511,9 @@
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1246 字）。",
       "accessed": "2026-11-09T15:11:16+00:00",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1159/000156020",
       "id": "S0148",
       "fulltext_status": "abstract-no-oa"
@@ -8682,7 +8690,9 @@
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 951 字）。",
       "accessed": "2026-11-09T15:12:44+00:00",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1099/00221287-117-2-393",
       "id": "S0152",
       "fulltext_status": "abstract-no-oa"
@@ -8804,7 +8814,9 @@
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 1438 字）。",
       "accessed": "2026-11-09T15:12:56+00:00",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "canonical_key": "doi:10.1107/s0907444902002366",
       "id": "S0155",
       "fulltext_status": "abstract-no-oa"
@@ -8845,8 +8857,36 @@
       "publisher": "Journal of Zoology",
       "lang": "en",
       "doi": "10.1111/j.1469-7998.2006.00189.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Using an analysis of aerial photographs, the density of termite mounds at 34 sites in 10 vegetation types was determined across the full range of their distribution. The number of mounds ranged from 143 to 704 km−2 with a mean of 297.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：34 个样点、10 个植被类型；蚁丘密度 143–704 km⁻²，均值 297"
+        },
+        {
+          "quote": "When all sites were considered together, mound density was not related to temperature, altitude, rainfall and vegetative productivity [as measured by the normalized difference vegetation index (NDVI)].",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：全部样点合并时密度与温度、海拔、降雨、NDVI 均无显著关系"
+        },
+        {
+          "quote": "However, if the single Fynbos and five Coastal Renosterveld sites (with rainfall >350 mm year−1) were excluded from the analysis, then mound density was significantly related to both rainfall and NDVI values.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：排除 Fynbos 与 5 个年降雨 >350 mm 的 Coastal Renosterveld 样点后，密度与降雨、NDVI 显著相关"
+        },
+        {
+          "quote": "There was a significant relationship between rainfall and mound density for sites occurring on soils of high‐fertility status but not for sites occurring on soils of low‐fertility status.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：高肥力土壤上降雨与密度显著相关，低肥力土壤上不显著"
+        },
+        {
+          "quote": "This provides further evidence that heuweltjies are constructed by their current occupants, M. viator, and are not the product of an extinct termite species as has been suggested previously.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：heuweltjies 由现生 M. viator 建造，而非已灭绝白蚁"
+        }
+      ],
       "id": "S0156",
       "fulltext_status": "abstract-no-oa"
     },
@@ -9261,8 +9301,21 @@
       "publisher": "Mycologia",
       "lang": "en",
       "doi": "10.3852/mycologia.99.6.936",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Nine species of Xylaria were collected in Taiwan from nests of Odontotermes formosanus, the only known macrotermitine termite in Taiwan. These include six newly described species, X. acuminatilongissima, X. atrodivaricata, X. brunneovinosa, X. griseosepiacea, X. intraflava and X. ochraceostroma, and three previously known species, X. cirrata, X. escharoidea and X. nigripes.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：台湾黑翅土白蚁巢中 9 种炭角菌（6 新种 + 3 已知种）；黑翅土白蚁为台湾唯一已知大白蚁亚科种类"
+        },
+        {
+          "quote": "A dichotomous key to 25 Xylaria species growing on termite nests or ground also is given.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：给出 25 种生于白蚁巢或地面的炭角菌分种检索表"
+        }
+      ],
       "id": "S0166",
       "fulltext_status": "abstract-no-oa"
     },
@@ -9432,8 +9485,51 @@
       "license": "cc-by",
       "doi": "10.1371/journal.pone.0027578",
       "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0027578&type=printable",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Manganese has a mean concentration in the mandible tips of 0.5% (Figure 2).",
+          "locator": "Results, ¶1（full.txt 第 74 行）",
+          "note": "支撑：上颚末端锰平均浓度 0.5%"
+        },
+        {
+          "quote": "The presence of zinc in elevated concentrations (≈ 2% as measured with SEM EDX) was predominantly evident in abdominal structures (Malpighian tubules).",
+          "locator": "Results, ¶1（full.txt 第 74 行）",
+          "note": "支撑：马氏管富集锌（约 2%）"
+        },
+        {
+          "quote": "Zn\n16035 (1071)a",
+          "locator": "Table 1，Zn 行 Malpighian tubule 列（ppm）",
+          "note": "支撑：马氏管锌 16035 ppm ≈ 1.6%"
+        },
+        {
+          "quote": "Mg\n49813 (3536)a",
+          "locator": "Table 1，Mg 行 Malpighian tubule 列（ppm）",
+          "note": "支撑：马氏管镁 49813 ppm ≈ 4.9%"
+        },
+        {
+          "quote": "P\n68087 (3502)a",
+          "locator": "Table 1，P 行 Malpighian tubule 列（ppm）",
+          "note": "支撑：马氏管磷 68087 ppm ≈ 6.8%"
+        },
+        {
+          "quote": "Ca\n27306 (3254)a",
+          "locator": "Table 1，Ca 行 Malpighian tubule 列（ppm）",
+          "note": "支撑：马氏管钙 27306 ppm ≈ 2.7%"
+        },
+        {
+          "quote": "K\n23790 (1379)a",
+          "locator": "Table 1，K 行 Malpighian tubule 列（ppm）",
+          "note": "支撑：马氏管钾 23790 ppm ≈ 2.4%"
+        },
+        {
+          "quote": "However concretions display a mutually exclusive occurrence of Zn and Ca. There was no Zn detectable in concretions with Ca and vice versa (Figure 5).",
+          "locator": "Results, ¶2（full.txt 第 86 行）",
+          "note": "支撑：马氏管结石中锌与钙互斥出现"
+        }
+      ],
       "id": "S0170"
     },
     {
@@ -9646,8 +9742,21 @@
       "license": "cc-by-nc-sa",
       "doi": "10.1083/jcb.76.3.569",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2110012",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "It is the first example of a multiflagellate sperm cell in animals. The sperm consists of a conical head and 100 flagella.",
+          "locator": "摘要 / full.txt 第 2 行",
+          "note": "支撑：动物中首个多鞭毛精子；锥形头部 + 100 条鞭毛"
+        },
+        {
+          "quote": "Other remarkable features of this sperm cell are the absence of an acrosome, the presence of centrioles containing doublet microtubules instead of triplets, and the presence of axonemes devoid of central tubules and with doublets bearing only one arm. The flagella are feebly motile.",
+          "locator": "摘要 / full.txt 第 2 行",
+          "note": "支撑：无顶体、中心粒二联微管、轴丝缺中央微管、鞭毛运动微弱"
+        }
+      ],
       "id": "S0175"
     },
     {
@@ -9693,8 +9802,36 @@
       "license": "cc-by",
       "doi": "10.1371/journal.pone.0085315",
       "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0085315&type=printable",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The GC-MS analysis of extracts of C. cyphergaster worker sternal glands revealed the presence of dodecatrienol and neocembrene; both retention indices and MS spectra were identical with those of standards.",
+          "locator": "Discussion, ¶1（full.txt 第 186 行）",
+          "note": "支撑：宿主 C. cyphergaster 追踪信息素由 dodecatrienol 与新西柏烯（neocembrene）组成"
+        },
+        {
+          "quote": "The detected amounts per individual were approximately 0.02 ng of dodecatrienol and 1 ng of neocembrene.",
+          "locator": "Discussion, ¶1（full.txt 第 187 行）",
+          "note": "支撑：单头含量约 0.02 ng 与 1 ng"
+        },
+        {
+          "quote": "In choice tests, the interspecific trail-following bioassays showed that workers of C. cyphergaster significantly prefer the CS trail over the HS trail (P<0.0001, Tab. 2; Fig. 3A), although they prefer significantly the MIX trail over the CS trail (P<0.0001, Tab. 2; Fig. 3B).",
+          "locator": "Interspecific trail-following bioassays / Choice test（full.txt 第 196 行）",
+          "note": "支撑：选择实验中宿主偏好同类轨迹，也偏好混合轨迹"
+        },
+        {
+          "quote": "In contrast, workers of I. microcerus always preferred HS trail (P<0.0001, Tab. 2; Fig. 3C) or MIX trail (P<0.0001, Tab. 2; Fig. 3D) over CS trail.",
+          "locator": "Interspecific trail-following bioassays / Choice test（full.txt 第 196 行）",
+          "note": "支撑：选择实验中客居者偏好异类轨迹与混合轨迹"
+        },
+        {
+          "quote": "In no-choice tests with whole body extracts, C. cyphergaster showed no preference for, while I. microcerus clearly avoided heterospecific trails.",
+          "locator": "摘要 / full.txt 第 2 行",
+          "note": "支撑：无选择实验中宿主 C. cyphergaster 无偏好，客居者 I. microcerus 回避异类全身体表提取物轨迹"
+        }
+      ],
       "id": "S0176"
     },
     {
@@ -9736,8 +9873,21 @@
       "publisher": "Invertebrate Systematics",
       "lang": "en",
       "doi": "10.1071/is10012",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Here, in order to provide a solid basis for future taxonomic work on this group, we supply detailed descriptions of the type species of the genus Anoplotermes, A. pacificus, and of a few common and widespread species, which we retain in Anoplotermes: A. banksi, A. parvus and A. janus, sp. nov.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：重描述属模式种 A. pacificus，并保留 A. banksi、A. parvus 与 A. janus"
+        },
+        {
+          "quote": "We transfer Anoplotermes manni to a new genus, Longustitermes, and place six species into synonymy. This redefinition of the genus Anoplotermes is complemented by DNA sequences of four genetic markers to allow species identification by molecular techniques and future phylogenetic studies.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：6 个种名归并、提供 4 个遗传标记序列"
+        }
+      ],
       "id": "S0177",
       "fulltext_status": "abstract-no-oa"
     },
@@ -9866,8 +10016,21 @@
       "publisher": "Journal of Economic Entomology",
       "lang": "en",
       "doi": "10.1093/jee/100.2.467",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Partial sequences of the ribosomal RNA small subunit 12S, ribosomal RNA large subunit 16S, and mitochondrial COII were obtained from nine populations of C. gestroi from South East Asia (Malaysia, Singapore, Thailand, and Indonesia) and four populations of C. vastator from the Philippines and Hawaii.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：9 个 C. gestroi 种群 + 4 个 C. vastator 种群；12S、16S、COII"
+        },
+        {
+          "quote": "The interspecific pairwise sequence divergence, based on Kimura 2-parameter model between C. gestroi and C. vastator, varied only up to 0.80%. Morphometric measurements of 16 characteristics revealed numerous overlaps between the examined individuals of both species. Based on the molecular phylogenetics and morphometric data, it is proposed that C. vastator is a junior synonym of C. gestroi.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：种间分歧最高 0.80%、16 项形态大量重叠；C. vastator 为 C. gestroi 次异名"
+        }
+      ],
       "id": "S0180",
       "fulltext_status": "abstract-no-oa"
     },
@@ -9952,8 +10115,21 @@
       "publisher": "Molecular Ecology",
       "lang": "en",
       "doi": "10.1111/mec.14095",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We report on its breeding system, life cycle and sex allocation using social structure census in 137 nests and genotyping of 12 colonies at 12 microsatellite loci. We show that colonies are established by an outbred pair of primary reproductives. In less than 2 years, the foundress is replaced by multiple neotenic queens, arising mostly through automixis with central fusion.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：137 巢普查、12 群体 12 位点；远交初生繁殖蚁建群，<2 年被多个新成蚁后替代（中央融合自动混合生殖）"
+        },
+        {
+          "quote": "Sterile castes, male and most (93%) female dispersers are produced sexually. Colony reproduction is usually restricted to a single dispersal of alates with unbiased sex ratio, taking place after 3 years. We conclude that S. minutus benefits from AQS to maximize colony growth rate and alate production within a very short life cycle rather than to extend colony lifespan.",
+          "locator": "摘要 / full.txt 第 1 行",
+          "note": "支撑：不育品级与 93% 雌性扩散个体为有性生殖；第 3 年后一次性释放有翅成虫；AQS 用于提高群体生长与有翅成虫产量"
+        }
+      ],
       "id": "S0182",
       "fulltext_status": "abstract-no-oa"
     },
@@ -20107,6 +20283,66 @@
       "used_in": [],
       "evidence": [],
       "id": "S0428"
+    },
+    {
+      "title": "About custom domains and GitHub Pages",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages",
+      "authors": [
+        "GitHub"
+      ],
+      "lang": "en",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "If you configure the correct records for each domain type through your DNS provider, GitHub Pages will automatically create redirects between the domains. For example, if you configure www.example.com as the custom domain for your site, and you have GitHub Pages DNS records set up for the apex and www domains, then example.com will redirect to www.example.com.",
+          "locator": "Using an apex domain for your GitHub Pages site ¶3",
+          "note": "支撑：apex 与 www 之间由 GitHub 自动 301；文档未承诺 user.github.io/repo/ 会 301 到自定义域名，故迁移前须实测"
+        },
+        {
+          "quote": "You can set up either or both of apex and www subdomain configurations for your site.",
+          "locator": "Supported custom domains ¶1",
+          "note": "支撑：自定义域名支持 apex / www / 自定义子域三种形态"
+        }
+      ],
+      "used_in": [
+        "_reports/域名迁移可行性评估-2026-11-12.md"
+      ],
+      "accessed": "2026-11-12T18:09:36+08:00",
+      "canonical_key": "url:https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages",
+      "id": "S0429"
+    },
+    {
+      "title": "了解站点地图 (What is a sitemap)",
+      "source_type": "web",
+      "reliability": "official",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+      "authors": [
+        "Google Search Central"
+      ],
+      "lang": "zh-CN",
+      "license": "unknown",
+      "retrieved_via": "web_fetch",
+      "evidence": [
+        {
+          "quote": "站点地图可帮助搜索引擎发现网站上的网址，但并不保证 Google 能抓取站点地图中的所有内容并将其编入索引。但在大多数情况下，您的网站都会因使用站点地图而受益。",
+          "locator": "§我需要站点地图吗？ ¶2",
+          "note": "支撑：sitemap 已读 ≠ 已收录；评估里「sitemap 状态与收录状态是两回事」的判断依据"
+        },
+        {
+          "quote": "网站为新网站且指向该网站的外部链接不多。Googlebot 及其他网页抓取工具通过访问之前抓取过的网页中找到的网址来抓取网页。因此，如果没有其他网站链接到您的网页，Googlebot 可能发现不了您的网页。",
+          "locator": "§我需要站点地图吗？ 列表项 2",
+          "note": "支撑：新站 + 无外链时发现慢是常态，不能归因于域名"
+        }
+      ],
+      "used_in": [
+        "_reports/域名迁移可行性评估-2026-11-12.md"
+      ],
+      "accessed": "2026-11-12T18:09:36+08:00",
+      "canonical_key": "url:https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+      "id": "S0430"
     }
   ]
 }

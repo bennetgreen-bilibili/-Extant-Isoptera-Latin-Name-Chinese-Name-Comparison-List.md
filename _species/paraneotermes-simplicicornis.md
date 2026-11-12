@@ -23,7 +23,7 @@ synonym_localities: "United States: Texas: Cotula"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **简角近新白蚁**（*Paraneotermes simplicicornis*）是木白蚁科（KALOTERMITIDAE）近新白蚁属（*Paraneotermes*）的现存唯一种。本种由 Banks 于 1920 年描述，模式产地为 United States: Texas: Laguna, on the Neuces River。分布记录包括北美、美国、墨西哥。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **简角近新白蚁** (*Paraneotermes simplicicornis*) is the only extan
 
 ES — **简角近新白蚁** (*Paraneotermes simplicicornis*) es la única especie viviente del género *Paraneotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1920; la localidad tipo es United States: Texas: Laguna, on the Neuces River. Distribución: North America, United States, Mexico. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Paraneotermes*：属名由希腊文 para-（旁、近）+ neos（新）与拉丁文 termes（白蚁）组合。
 
@@ -43,21 +43,25 @@ EN — epithet *simplicicornis*: Latin simplex (simple) + cornu (horn), simple-h
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[近新白蚁属 *Paraneotermes*]({{ site.base_url }}/genus/paraneotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北美、美国、墨西哥
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美、美国、墨西哥
 - **英文记录 English record / Registro en inglés**：North America, United States, Mexico
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Cryptotermes infumatus* Banks, 1920: 38-39 —— 模式产地：United States: Texas: Cotula
 

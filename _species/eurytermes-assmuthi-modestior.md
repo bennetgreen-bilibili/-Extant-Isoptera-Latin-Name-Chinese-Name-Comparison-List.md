@@ -25,7 +25,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **温和亚种**（*Eurytermes assmuthi modestior*）是阿斯穆斯宽白蚁（*Eurytermes assmuthi*）的一个亚种，隶属白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）宽白蚁属（*Eurytermes*）。本亚种由 Silvestri 于 1923 年描述，模式产地为 India: Orissa: Chilka Lake: Barkuda Island。本页暂无单列的分布记录，母种 *Eurytermes assmuthi* 的分布见下文「分布」一节。
 
@@ -33,7 +33,7 @@ EN — **温和亚种** (*Eurytermes assmuthi modestior*) is a subspecies of *Eu
 
 ES — **温和亚种** (*Eurytermes assmuthi modestior*) es una subespecie de *Eurytermes assmuthi*, en la familia TERMITIDAE (subfamilia Apicotermitinae), género *Eurytermes*. La subespecie fue descrita por Silvestri en 1923; la localidad tipo es India: Orissa: Chilka Lake: Barkuda Island. No se incluye un registro de distribución separado en esta página; véase la especie parental *Eurytermes assmuthi*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Eurytermes*：属名由希腊文 eurys（宽）与拉丁文 termes（白蚁）组合。
 
@@ -45,7 +45,7 @@ EN — epithet *modestior*: Latin modestior (more modest, comparative of modestu
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
@@ -53,9 +53,13 @@ EN — epithet *modestior*: Latin modestior (more modest, comparative of modestu
 - **种 Species / Especie**：[阿斯穆斯宽白蚁 *Eurytermes assmuthi*]({{ site.base_url }}/species/eurytermes-assmuthi/)
 - **亚种 Subspecies / Subespecie**：本页（*Eurytermes assmuthi modestior*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Eurytermes assmuthi* 的分布为：南亚、印度。
 
-母种英文记录：South Asia, India。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Eurytermes assmuthi</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Eurytermes assmuthi</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：South Asia, India。
 <!-- AUTO:END -->

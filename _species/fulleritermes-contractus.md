@@ -26,15 +26,15 @@ synonym_localities: "Angola: Leba, Humpata"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **收缩富勒白蚁**（*Fulleritermes contractus*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）富勒白蚁属（*Fulleritermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1913 年描述，模式产地为 Democratic Republic of the Congo: Katanga: Welgelegen。分布记录包括安哥拉、刚果民主共和国、纳米比亚、南非、赞比亚、津巴布韦。本站记录本种有 1 个次异名。
 
-EN — **收缩富勒白蚁** (*Fulleritermes contractus*) is a species and the type species of its genus of the genus *Fulleritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1913; the type locality is Democratic Republic of the Congo: Katanga: Welgelegen. Distribution: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. This site records 1 junior synonym for the species.
+EN — **收缩富勒白蚁** (*Fulleritermes contractus*) is a species and the type species of the genus *Fulleritermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Sjöstedt in 1913; the type locality is Democratic Republic of the Congo: Katanga: Welgelegen. Distribution: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. This site records 1 junior synonym for the species.
 
-ES — **收缩富勒白蚁** (*Fulleritermes contractus*) es una especie, y la especie tipo de su género del género *Fulleritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
+ES — **收缩富勒白蚁** (*Fulleritermes contractus*) es una especie, y la especie tipo del género *Fulleritermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Sjöstedt en 1913; la localidad tipo es Democratic Republic of the Congo: Katanga: Welgelegen. Distribución: Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Fulleritermes*：属名以人名 Fuller 命名（南非昆虫学家 C. Fuller），词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -46,22 +46,26 @@ EN — epithet *contractus*: Latin contractus (contracted)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[富勒白蚁属 *Fulleritermes*]({{ site.base_url }}/genus/fulleritermes/) —— 共 4 种（4 species · 4 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：安哥拉、刚果民主共和国、纳米比亚、南非、赞比亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：安哥拉、刚果民主共和国、纳米比亚、南非、赞比亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Coarctotermes brunneus* Noirot, 1955: 150 —— 模式产地：Angola: Leba, Humpata
 

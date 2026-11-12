@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **神崎毛糙白蚁**（*Hirsutitermes kanzakii*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）毛糙白蚁属（*Hirsutitermes*）的现存唯一种。本种由 Scheffrahn, Carrijo & Castro 于 2023 年描述，模式产地为 Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]。分布记录包括哥伦比亚、法属圭亚那、玻利维亚、巴西、厄瓜多尔、秘鲁、特立尼达和多巴哥、委内瑞拉。
 
@@ -32,7 +32,7 @@ EN — **神崎毛糙白蚁** (*Hirsutitermes kanzakii*) is the only extant spec
 
 ES — **神崎毛糙白蚁** (*Hirsutitermes kanzakii*) es la única especie viviente del género *Hirsutitermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Scheffrahn, Carrijo & Castro en 2023; la localidad tipo es Brasil: Rondonia: Porto Velho, Mutum-Paraná \[ 9.4513S 64.8439W \]. Distribución: Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Hirsutitermes*：属名由拉丁文 hirsutus（多毛的、粗毛的）与 termes（白蚁）组合。
 
@@ -44,16 +44,20 @@ EN — epithet *kanzakii*: Named after Kanzaki
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[毛糙白蚁属 *Hirsutitermes*]({{ site.base_url }}/genus/hirsutitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：哥伦比亚、法属圭亚那、玻利维亚、巴西、厄瓜多尔、秘鲁、特立尼达和多巴哥、委内瑞拉
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：哥伦比亚、法属圭亚那、玻利维亚、巴西、厄瓜多尔、秘鲁、特立尼达和多巴哥、委内瑞拉
 - **英文记录 English record / Registro en inglés**：Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

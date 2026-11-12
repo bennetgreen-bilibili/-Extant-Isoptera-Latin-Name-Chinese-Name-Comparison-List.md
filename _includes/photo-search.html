@@ -7,11 +7,11 @@
   属页只渲染每种前 6 张，页面 photo_count 是全部照片总数（可到 1918），不能直接用。
 {%- endcomment -%}
 <div class="photo-search" role="search" data-pagefind-ignore data-search-page="{{ site.base_url }}/search/">
-  <label class="photo-search-label" for="photo-search-input">在本页<span class="photo-search-count" id="photo-search-count" hidden></span>照片中检索：拉丁学名、中文名或摄影师</label>
+  <label class="photo-search-label" for="photo-search-input">在本页<span class="photo-search-count" id="photo-search-count" hidden></span>照片中检索：拉丁学名、中文名或摄影师 <span class="fact-en" lang="en">· search the photos on this page by scientific name, Chinese name or photographer</span> <span class="fact-es" lang="es">· busque entre las fotos de esta página por nombre científico, nombre chino o fotógrafo</span></label>
   <div class="photo-search-row">
-    <input type="search" class="photo-search-input" id="photo-search-input" placeholder="如 Amitermes / 白蚁 / Lindqvist" autocomplete="off" spellcheck="false" enterkeyhint="search">
-    <button type="button" class="photo-search-clear" id="photo-search-clear" hidden>清空</button>
+    <input type="search" class="photo-search-input" id="photo-search-input" placeholder="如 Amitermes / 白蚁 / Lindqvist · e.g. Amitermes / termite / Lindqvist · p. ej. Amitermes / termita / Lindqvist" autocomplete="off" spellcheck="false" enterkeyhint="search">
+    <button type="button" class="photo-search-clear" id="photo-search-clear" hidden>清空 <span class="fact-en" lang="en">Clear</span> <span class="fact-es" lang="es">Limpiar</span></button>
   </div>
   <p class="photo-search-status" id="photo-search-status" role="status" aria-live="polite" hidden></p>
-  <p class="photo-search-empty" id="photo-search-empty" hidden>没有匹配的照片 · <a href="{{ site.base_url }}/search/">在全站全文搜索里试试</a></p>
+  <p class="photo-search-empty" id="photo-search-empty" hidden>没有匹配的照片 · <a href="{{ site.base_url }}/search/">在全站全文搜索里试试</a> <span class="fact-en" lang="en">no matching photos · try the full-text search</span> <span class="fact-es" lang="es">no hay fotos coincidentes · pruebe la búsqueda de texto completo</span></p>
 </div>

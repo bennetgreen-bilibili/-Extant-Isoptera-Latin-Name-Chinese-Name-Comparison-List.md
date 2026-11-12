@@ -8,6 +8,8 @@
 <section class="species-papers" aria-labelledby="species-papers-title">
   <h2 id="species-papers-title" class="species-papers-title">相关文献 <span class="fact-en" lang="en">Related papers</span> <span class="fact-es" lang="es">Artículos relacionados</span></h2>
   <p class="species-papers-lead">以下为本站缓存的<strong>本属</strong>相关文献（自动匹配，供参考）；查本种请用检索器，会自动合并次异名。</p>
+  <p class="species-papers-lead fact-en" lang="en">Cached papers for this <strong>genus</strong> (matched automatically, for reference); to search this species with its junior synonyms merged in, use the literature search.</p>
+  <p class="species-papers-lead fact-es" lang="es">Artículos en caché de este <strong>género</strong> (coincidencia automática, a título orientativo); para buscar esta especie con sus sinónimos junior incluidos, use el buscador de literatura.</p>
   {%- if genus_papers and genus_papers.papers.size > 0 -%}
   <ol class="species-papers-list">
     {%- for p in genus_papers.papers limit:3 -%}
@@ -26,7 +28,7 @@
   <p class="species-papers-empty">{{ T.papers_no_results }}</p>
   {%- endif -%}
   <p class="species-papers-actions">
-    <a class="papers-cta" href="{{ site.base_url }}/papers/?q={{ page.latin | uri_escape }}&amp;syn=1">检索本种文献（含异名）→</a>
+    <a class="papers-cta" href="{{ site.base_url }}/papers/?q={{ page.latin | uri_escape }}&amp;syn=1">检索本种文献（含异名）→ <span class="fact-en" lang="en">Papers on this species, synonyms included →</span> <span class="fact-es" lang="es">Artículos sobre esta especie, sinónimos incluidos →</span></a>
     <a href="https://openalex.org/works?search={{ page.latin | uri_escape }}" target="_blank" rel="noopener">OpenAlex</a>
     <a href="https://scholar.google.com/scholar?q={{ page.latin | uri_escape }}" target="_blank" rel="noopener">Google Scholar</a>
     <a href="https://kns.cnki.net/kns8s/defaultresult/index?kw={{ page.latin | uri_escape }}" target="_blank" rel="noopener">知网</a>

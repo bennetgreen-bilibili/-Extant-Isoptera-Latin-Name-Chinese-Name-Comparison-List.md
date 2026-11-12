@@ -23,7 +23,7 @@ synonym_localities: "Taiwan: ?; China: Hong Kong; United States: Hawaii: Honolul
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **台湾乳白蚁**（*Coptotermes formosanus*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Taipei。分布记录包括中国南部及台湾。文献另注：随木材广布热带亚热带。本站记录本种有 17 个次异名。
 
@@ -31,7 +31,7 @@ EN — **台湾乳白蚁** (*Coptotermes formosanus*) is a species of the genus 
 
 ES — **台湾乳白蚁** (*Coptotermes formosanus*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Taipei. Distribución: southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade. Este sitio registra 17 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
@@ -43,23 +43,27 @@ EN — epithet *formosanus*: Named after Formosa (Taiwan, former name)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：中国南部及台湾
-- **补充记录**：随木材广布热带亚热带
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中国南部及台湾
+- **补充记录** <span class="fact-en" lang="en">Additional records</span> <span class="fact-es" lang="es">Registros adicionales</span>：随木材广布热带亚热带
 - **英文记录 English record / Registro en inglés**：southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 17 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 17 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 17 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 17 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Coptotermes formosae* Holmgren, 1911: 192 —— 模式产地：Taiwan: ?
 2. *Coptotermes hongkonensis* Oshima, 1914: 7-10 —— 模式产地：China: Hong Kong

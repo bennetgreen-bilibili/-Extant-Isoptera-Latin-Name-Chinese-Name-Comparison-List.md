@@ -26,15 +26,15 @@ synonym_localities: "Sri Lanka: Avisavella, Raltota"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **暗头地白蚁**（*Hypotermes obscuriceps*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）地白蚁属（*Hypotermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1902 年描述，模式产地为 Sri Lanka: Trincomali。分布记录包括印度、斯里兰卡、越南。本站记录本种有 1 个次异名。
 
-EN — **暗头地白蚁** (*Hypotermes obscuriceps*) is a species and the type species of its genus of the genus *Hypotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Wasmann in 1902; the type locality is Sri Lanka: Trincomali. Distribution: India, Sri Lanka, Vietnam. This site records 1 junior synonym for the species.
+EN — **暗头地白蚁** (*Hypotermes obscuriceps*) is a species and the type species of the genus *Hypotermes*, in the family TERMITIDAE (subfamily Macrotermitinae). The species was described by Wasmann in 1902; the type locality is Sri Lanka: Trincomali. Distribution: India, Sri Lanka, Vietnam. This site records 1 junior synonym for the species.
 
-ES — **暗头地白蚁** (*Hypotermes obscuriceps*) es una especie, y la especie tipo de su género del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es Sri Lanka: Trincomali. Distribución: India, Sri Lanka, Vietnam. Este sitio registra 1 sinónimo junior para la especie.
+ES — **暗头地白蚁** (*Hypotermes obscuriceps*) es una especie, y la especie tipo del género *Hypotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Wasmann en 1902; la localidad tipo es Sri Lanka: Trincomali. Distribución: India, Sri Lanka, Vietnam. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Hypotermes*：属名由希腊文 hypo-（下、稍）与拉丁文 termes（白蚁）组合。
 
@@ -46,22 +46,26 @@ EN — epithet *obscuriceps*: From obscuri (暗) + ceps (头)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[地白蚁属 *Hypotermes*]({{ site.base_url }}/genus/hypotermes/) —— 共 13 种（13 species · 13 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：印度、斯里兰卡、越南
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、斯里兰卡、越南
 - **英文记录 English record / Registro en inglés**：India, Sri Lanka, Vietnam
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Odontotermes (Hypotermes) marshalli* Kemner, 1926: 387-388 —— 模式产地：Sri Lanka: Avisavella, Raltota
 

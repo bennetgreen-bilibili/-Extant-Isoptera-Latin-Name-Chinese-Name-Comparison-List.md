@@ -23,7 +23,7 @@ synonym_localities: "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.083
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **黑头距白蚁**（*Calcaritermes nigriceps*）是木白蚁科（KALOTERMITIDAE）距白蚁属（*Calcaritermes*）的一种。本种由 Emerson 于 1925 年描述，模式产地为 Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]。分布记录包括南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **黑头距白蚁** (*Calcaritermes nigriceps*) is a species of the genus
 
 ES — **黑头距白蚁** (*Calcaritermes nigriceps*) es una especie del género *Calcaritermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Emerson en 1925; la localidad tipo es Guyana: Cuyuni-Mazaruni: Kartabo \[ 6.38N 58.7W \]. Distribución: South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Calcaritermes*：属名由拉丁文 calcar（距、距刺）与 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *nigriceps*: Latin niger (black) + -ceps (head), black-headed
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[距白蚁属 *Calcaritermes*]({{ site.base_url }}/genus/calcaritermes/) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Calcaritermes imminens*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南美洲、哥伦比亚、厄瓜多尔、巴西、加勒比、格林纳达、特立尼达和多巴哥、圭亚那、巴拿马、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉
 - **英文记录 English record / Registro en inglés**：South America, Colombia, Ecuador, Brazil, Caribbean, Grenada, Trinidad and Tobago, Guyana, Panama, Saint Lucia, Saint Vincent and the Grenadines, Venezuela
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Kalotermes (Calcaritermes) recessifrons* Snyder, 1925: 156-157 —— 模式产地：Colombia: Magdalena: Cincinnati (plantation) \[ 11.1N 74.0833W \]
 

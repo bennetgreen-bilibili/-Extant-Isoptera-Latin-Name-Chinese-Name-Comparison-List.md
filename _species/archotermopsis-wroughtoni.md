@@ -23,15 +23,15 @@ synonym_localities: "India: Kashmir valley; India: Kashmir: Achhabal, Anantnag"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **罗夫顿古白蚁**（*Archotermopsis wroughtoni*）是古白蚁科（ARCHOTERMOPSIDAE）古白蚁属（*Archotermopsis*）的一种，也是本属的模式种。本种由 Desneux 于 1904 年描述，模式产地为 India: Kashmir valley。分布记录包括南亚。本站记录本种有 2 个次异名。
 
-EN — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) is a species and the type species of its genus of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Desneux in 1904; the type locality is India: Kashmir valley. Distribution: South Asia. This site records 2 junior synonyms for the species.
+EN — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) is a species and the type species of the genus *Archotermopsis*, in the family ARCHOTERMOPSIDAE. The species was described by Desneux in 1904; the type locality is India: Kashmir valley. Distribution: South Asia. This site records 2 junior synonyms for the species.
 
-ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la especie tipo de su género del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Desneux en 1904; la localidad tipo es India: Kashmir valley. Distribución: South Asia. Este sitio registra 2 sinónimos junior para la especie.
+ES — **罗夫顿古白蚁** (*Archotermopsis wroughtoni*) es una especie, y la especie tipo del género *Archotermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Desneux en 1904; la localidad tipo es India: Kashmir valley. Distribución: South Asia. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Archotermopsis*：属名由希腊文 archaios（古老的、原始的）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合，意为「古老的类白蚁」。
 
@@ -43,21 +43,25 @@ EN — epithet *wroughtoni*: Named after R. C. Wroughton (British naturalist)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
 - **属 Genus / Género**：[古白蚁属 *Archotermopsis*]({{ site.base_url }}/genus/archotermopsis/) —— 共 2 种（2 species · 2 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南亚
 - **英文记录 English record / Registro en inglés**：South Asia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termopsis radcliffei* Radcliffe, 1904: 412-414 —— 模式产地：India: Kashmir valley
 2. *Archotermopsis deodarae* Chatterjee & Thakur, 1967: 10-13 —— 模式产地：India: Kashmir: Achhabal, Anantnag

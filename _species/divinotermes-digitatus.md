@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **具指迪维努白蚁**（*Divinotermes digitatus*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）迪维努白蚁属（*Divinotermes*）的一种。本种由 Carrijo & Cancello 于 2011 年描述，模式产地为 Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]。分布记录包括巴西。
 
@@ -32,7 +32,7 @@ EN — **具指迪维努白蚁** (*Divinotermes digitatus*) is a species of the 
 
 ES — **具指迪维努白蚁** (*Divinotermes digitatus*) es una especie del género *Divinotermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Carrijo & Cancello en 2011; la localidad tipo es Brasil: Goiás: Serra da Mesa \[13.8288S 48.3211W\]. Distribución: Brazil.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Divinotermes*：词源未详（或与拉丁文 divinus「神圣的」或人名相关）；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -44,17 +44,21 @@ EN — epithet *digitatus*: Latin digitatus (fingered)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
 - **属 Genus / Género**：[迪维努白蚁属 *Divinotermes*]({{ site.base_url }}/genus/divinotermes/) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Divinotermes allognathus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西
 - **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -23,7 +23,7 @@ synonym_localities: "Japan: Naha (Riu-kiu); Taiwan: Botel Tobago"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **恒春新白蚁**（*Neotermes koshunensis*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种。本种由 Shiraki 于 1909 年描述，模式产地为 Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]。分布记录包括东亚、台湾、日本。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **恒春新白蚁** (*Neotermes koshunensis*) is a species of the genus *
 
 ES — **恒春新白蚁** (*Neotermes koshunensis*) es una especie del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Shiraki en 1909; la localidad tipo es Taiwan: Nanrenshan, Pingtung Co. \[ 22.0817N 120.835E \]. Distribución: East Asia, Taiwan, Japan. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *koshunensis*: Named after Koshun (Hengchun, Taiwan)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种（121 species · 121 especies）
 - **本属模式种 Type species / Especie tipo**：*Neotermes castaneus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：东亚、台湾、日本
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东亚、台湾、日本
 - **英文记录 English record / Registro en inglés**：East Asia, Taiwan, Japan
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Calotermes (Neotermes) koshunensis* Holmgren, 1912: 114-115 —— 模式产地：Japan: Naha (Riu-kiu)
 

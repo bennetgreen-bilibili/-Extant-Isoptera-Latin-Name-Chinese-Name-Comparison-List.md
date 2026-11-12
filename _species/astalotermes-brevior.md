@@ -26,7 +26,7 @@ synonym_localities: "Angola: São Paulo de Loanda; South Africa: Natal: Mont aux
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **短小无利器白蚁**（*Astalotermes brevior*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）无利器白蚁属（*Astalotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
 
@@ -34,7 +34,7 @@ EN — **短小无利器白蚁** (*Astalotermes brevior*) is a species of the ge
 
 ES — **短小无利器白蚁** (*Astalotermes brevior*) es una especie del género *Astalotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Astalotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -46,23 +46,27 @@ EN — epithet *brevior*: From the descriptive term 'brev' (short)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[无利器白蚁属 *Astalotermes*]({{ site.base_url }}/genus/astalotermes/) —— 共 17 种（17 species · 17 especies）
 - **本属模式种 Type species / Especie tipo**：*Astalotermes concilians*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Anoplotermes sanctus* Silvestri, 1914: 57-58 —— 模式产地：Angola: São Paulo de Loanda
 2. *Mirotermes (Procubitermes) mfolozii warreni* Fuller, 1925: 191 —— 模式产地：South Africa: Natal: Mont aux Sources: Drakensberg

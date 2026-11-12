@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **广泛武白蚁**（*Hoplotermes amplus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）武白蚁属（*Hoplotermes*）的现存唯一种。本种由 Light 于 1933 年描述，模式产地为 Mexico: Colima State: Jala。分布记录包括中美洲及加勒比、墨西哥。
 
@@ -32,7 +32,7 @@ EN — **广泛武白蚁** (*Hoplotermes amplus*) is the only extant species of 
 
 ES — **广泛武白蚁** (*Hoplotermes amplus*) es la única especie viviente del género *Hoplotermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Light en 1933; la localidad tipo es Mexico: Colima State: Jala. Distribución: Central America and Caribbean, Mexico.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Hoplotermes*：属名由希腊文 hoplon（武器、甲）与拉丁文 termes（白蚁）组合。
 
@@ -44,16 +44,20 @@ EN — epithet *amplus*: Latin amplus (ample, large)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[武白蚁属 *Hoplotermes*]({{ site.base_url }}/genus/hoplotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：中美洲及加勒比、墨西哥
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中美洲及加勒比、墨西哥
 - **英文记录 English record / Registro en inglés**：Central America and Caribbean, Mexico
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

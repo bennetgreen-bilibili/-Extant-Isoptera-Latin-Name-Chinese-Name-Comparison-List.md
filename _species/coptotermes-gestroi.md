@@ -23,15 +23,15 @@ synonym_localities: "India: Maharashtra: Ahmednagar District: Wallon; Thailand: 
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **格斯特乳白蚁**（*Coptotermes gestroi*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种，也是本属的模式种。本种由 Wasmann 于 1896 年描述，模式产地为 Myanmar: Bhamo。分布记录包括东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛。文献另注：热带区广布，引入安提瓜和巴布达。本站记录本种有 10 个次异名。
 
-EN — **格斯特乳白蚁** (*Coptotermes gestroi*) is a species and the type species of its genus of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Wasmann in 1896; the type locality is Myanmar: Bhamo. Distribution: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. This site records 10 junior synonyms for the species.
+EN — **格斯特乳白蚁** (*Coptotermes gestroi*) is a species and the type species of the genus *Coptotermes*, in the family HETEROTERMITIDAE. The species was described by Wasmann in 1896; the type locality is Myanmar: Bhamo. Distribution: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. This site records 10 junior synonyms for the species.
 
-ES — **格斯特乳白蚁** (*Coptotermes gestroi*) es una especie, y la especie tipo de su género del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Bhamo. Distribución: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. Este sitio registra 10 sinónimos junior para la especie.
+ES — **格斯特乳白蚁** (*Coptotermes gestroi*) es una especie, y la especie tipo del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wasmann en 1896; la localidad tipo es Myanmar: Bhamo. Distribución: Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands. Este sitio registra 10 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *gestroi*: Named after R. Gestro（意大利昆虫学家）
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛
-- **补充记录**：热带区广布，引入安提瓜和巴布达
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东南亚（印度尼西亚、马来西亚、菲律宾原产）、孟加拉国、不丹、柬埔寨、东帝汶、缅甸、尼泊尔、阿曼、巴基斯坦、新加坡、斯里兰卡、泰国、越南、澳大利亚、巴哈马、巴巴多斯、巴西、开曼群岛、中国、科摩罗、古巴、埃及、格林纳达、关岛（美国）、海地、夏威夷（美国）、印度、牙买加、马达加斯加、毛里求斯、墨西哥、密克罗尼西亚、蒙特塞拉特、新喀里多尼亚（法国）、北马里亚纳群岛、巴拉圭、法属波利尼西亚、波多黎各、留尼汪（法国）、圣基茨和尼维斯及安圭拉、圣卢西亚、台湾、特克斯和凯科斯群岛、阿拉伯联合酋长国、美国、英属维尔京群岛
+- **补充记录** <span class="fact-en" lang="en">Additional records</span> <span class="fact-es" lang="es">Registros adicionales</span>：热带区广布，引入安提瓜和巴布达
 - **英文记录 English record / Registro en inglés**：Southeast Asia (Indonesia, Malaysia, native to the Philippines), Bangladesh, Bhutan, Cambodia, Timor-Leste, Myanmar, Nepal, Oman, Pakistan, Singapore, Sri Lanka, Thailand, Vietnam; widespread in the tropics, introduced to Antigua and Barbuda, Australia, Bahamas, Barbados, Brazil, Cayman Islands, China, Comoros, Cuba, Egypt, Grenada, Guam (United States), Haiti, Hawaii (United States), India, Jamaica, Madagascar, Mauritius, Mexico, Micronesia, Montserrat, New Caledonia (France), Northern Mariana Islands, Paraguay, French Polynesia, Puerto Rico, Réunion (France), Saint Kitts and Nevis and Anguilla, Saint Lucia, Taiwan, Turks and Caicos Islands, United Arab Emirates, United States, British Virgin Islands
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 10 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 10 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 10 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 10 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Arrhinotermes heimi* Wasmann, 1902: 104 —— 模式产地：India: Maharashtra: Ahmednagar District: Wallon
 2. *Coptotermes havilandi* Holmgren, 1911: 192 —— 模式产地：Thailand: Hinlap

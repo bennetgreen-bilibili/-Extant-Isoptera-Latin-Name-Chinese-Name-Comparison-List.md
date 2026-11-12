@@ -23,15 +23,15 @@ synonym_localities: "Vanuatu: Nendo Island: Graciosa Bay; Solomon Islands: Malay
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **意外原鼻白蚁**（*Prorhinotermes inopinatus*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种，也是本属的模式种。本种由 Silvestri 于 1909 年描述，模式产地为 (country unknown): "Insulae Samoa, Ninafoon"。分布记录包括澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛。本站记录本种有 2 个次异名。
 
-EN — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) is a species and the type species of its genus of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE. The species was described by Silvestri in 1909; the type locality is (country unknown): "Insulae Samoa, Ninafoon". Distribution: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. This site records 2 junior synonyms for the species.
+EN — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) is a species and the type species of the genus *Prorhinotermes*, in the family PSAMMOTERMITIDAE. The species was described by Silvestri in 1909; the type locality is (country unknown): "Insulae Samoa, Ninafoon". Distribution: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. This site records 2 junior synonyms for the species.
 
-ES — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) es una especie, y la especie tipo de su género del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Silvestri en 1909; la localidad tipo es (country unknown): "Insulae Samoa, Ninafoon". Distribución: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. Este sitio registra 2 sinónimos junior para la especie.
+ES — **意外原鼻白蚁** (*Prorhinotermes inopinatus*) es una especie, y la especie tipo del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Silvestri en 1909; la localidad tipo es (country unknown): "Insulae Samoa, Ninafoon". Distribución: Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
@@ -43,21 +43,25 @@ EN — epithet *inopinatus*: Latin inopinatus (unexpected)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
 - **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种（12 species · 12 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳洲界、澳大利亚北部、西太平洋岛屿、斐济、关岛（美）、印度尼西亚、基里巴斯、马绍尔群岛、新喀里多尼亚（法）、北马里亚纳群岛、巴布亚新几内亚、萨摩亚、所罗门群岛、汤加、图瓦卢、瓦努阿图、瓦利斯和富图纳群岛
 - **英文记录 English record / Registro en inglés**：Australian region, northern Australia, western Pacific islands, Fiji, Guam (U.S.), Indonesia, Kiribati, Marshall Islands, New Caledonia (France), Northern Mariana Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, Wallis and Futuna Islands
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Prorhinotermes manni* Snyder, 1925: 399-400 —— 模式产地：Vanuatu: Nendo Island: Graciosa Bay
 2. *Prorhinotermes solomonensis* Snyder, 1925: 400-401 —— 模式产地：Solomon Islands: Malayta Island: Auki

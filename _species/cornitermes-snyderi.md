@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **斯奈德角象白蚁**（*Cornitermes snyderi*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）角象白蚁属（*Cornitermes*）的一种。本种由 Emerson 于 1952 年描述，模式产地为 Bolivia: Pando: Rosario (near Lake Rogagua) \[13.9667S 66.8667W\]。分布记录包括巴西、哥伦比亚、玻利维亚、厄瓜多尔。
 
@@ -32,7 +32,7 @@ EN — **斯奈德角象白蚁** (*Cornitermes snyderi*) is a species of the gen
 
 ES — **斯奈德角象白蚁** (*Cornitermes snyderi*) es una especie del género *Cornitermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Emerson en 1952; la localidad tipo es Bolivia: Pando: Rosario (near Lake Rogagua) \[13.9667S 66.8667W\]. Distribución: Brazil, Colombia, Bolivia, Ecuador.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Cornitermes*：属名由拉丁文 cornu（角）与 termes（白蚁）组合。
 
@@ -44,17 +44,21 @@ EN — epithet *snyderi*: Named after the termite taxonomist T. E. Snyder
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[角象白蚁属 *Cornitermes*]({{ site.base_url }}/genus/cornitermes/) —— 共 14 种（14 species · 14 especies）
 - **本属模式种 Type species / Especie tipo**：*Cornitermes cumulans*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西、哥伦比亚、玻利维亚、厄瓜多尔
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、哥伦比亚、玻利维亚、厄瓜多尔
 - **英文记录 English record / Registro en inglés**：Brazil, Colombia, Bolivia, Ecuador
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

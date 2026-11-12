@@ -25,7 +25,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **丈量亚种**（*Pericapritermes appellans metata*）是定名近扭白蚁（*Pericapritermes appellans*）的一个亚种，隶属白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Kakoulima; Kindia。本页暂无单列的分布记录，母种 *Pericapritermes appellans* 的分布见下文「分布」一节。
 
@@ -33,7 +33,7 @@ EN — **丈量亚种** (*Pericapritermes appellans metata*) is a subspecies of 
 
 ES — **丈量亚种** (*Pericapritermes appellans metata*) es una subespecie de *Pericapritermes appellans*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae), género *Pericapritermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Kakoulima; Kindia. No se incluye un registro de distribución separado en esta página; véase la especie parental *Pericapritermes appellans*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
@@ -45,7 +45,7 @@ EN — epithet *metata*: Latin metatus (measured out)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
@@ -53,9 +53,13 @@ EN — epithet *metata*: Latin metatus (measured out)
 - **种 Species / Especie**：[定名近扭白蚁 *Pericapritermes appellans*]({{ site.base_url }}/species/pericapritermes-appellans/)
 - **亚种 Subspecies / Subespecie**：本页（*Pericapritermes appellans metata*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Pericapritermes appellans* 的分布为：西非科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂。
 
-母种英文记录：West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Pericapritermes appellans</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Pericapritermes appellans</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone。
 <!-- AUTO:END -->

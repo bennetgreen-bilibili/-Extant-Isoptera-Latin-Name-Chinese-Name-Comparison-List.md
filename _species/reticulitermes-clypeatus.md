@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **大唇散白蚁**（*Reticulitermes clypeatus*）是异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）的一种。本种由 Lash 于 1952 年描述，模式产地为 Israel: Jerusalem。分布记录包括中东、以色列、土耳其、罗马尼亚。
 
@@ -29,7 +29,7 @@ EN — **大唇散白蚁** (*Reticulitermes clypeatus*) is a species of the genu
 
 ES — **大唇散白蚁** (*Reticulitermes clypeatus*) es una especie del género *Reticulitermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Lash en 1952; la localidad tipo es Israel: Jerusalem. Distribución: Middle East, Israel, Turkey, Romania.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *clypeatus*: Latin clypeatus (shielded)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种（140 species · 140 especies）
 - **本属模式种 Type species / Especie tipo**：*Reticulitermes flavipes*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：中东、以色列、土耳其、罗马尼亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中东、以色列、土耳其、罗马尼亚
 - **英文记录 English record / Registro en inglés**：Middle East, Israel, Turkey, Romania
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

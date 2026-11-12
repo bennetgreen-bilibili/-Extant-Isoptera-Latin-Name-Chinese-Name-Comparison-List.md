@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="species-page">
-  <nav class="species-crumbs" aria-label="分类位置">
+  <nav class="species-crumbs" aria-label="分类位置 · Taxonomic position · Posición taxonómica">
     <a href="{{ site.base_url }}/list/">名录 <span class="fact-en" lang="en">List</span> <span class="fact-es" lang="es">Listado</span></a>
     › <a href="{{ site.base_url }}/family/{{ page.family_id }}/">{{ page.family_zh }}</a>{% if page.subfamily_zh %} › <a href="{{ site.base_url }}/subfamily/{{ page.subfamily_id }}/">{{ page.subfamily_zh }}</a>{% endif %} › <a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">{{ page.genus_zh }} {{ page.genus_latin }}</a>
   </nav>
@@ -72,7 +72,7 @@ layout: default
         {%- endif -%}
       {%- endfor -%}
     </ul>
-    <p class="sibling-more">{%- if sibling_total > shown -%}该属共 {{ sibling_total }} 种，{%- endif -%}<a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">在 {{ page.genus_zh }} <i>{{ page.genus_latin }}</i> 属页面查看全部物种 →</a></p>
+    <p class="sibling-more">{%- if sibling_total > shown -%}该属共 {{ sibling_total }} 种 <span class="fact-en" lang="en">{{ sibling_total }} species in this genus</span> <span class="fact-es" lang="es">{{ sibling_total }} especies en este género</span>，{%- endif -%}<a href="{{ site.base_url }}/genus/{{ page.genus_id }}/">在 {{ page.genus_zh }} <i>{{ page.genus_latin }}</i> 属页面查看全部物种 <span class="fact-en" lang="en">see all species on the genus page</span> <span class="fact-es" lang="es">ver todas las especies en la página del género</span> →</a></p>
   </section>
   {%- endif -%}
   {%- endif -%}
@@ -93,7 +93,7 @@ layout: default
       <h3 class="species-cite-h">GB/T 7714</h3>
       <div class="cite-block">
         <pre class="cite-text">班奈特格林. 现存等翅下目（白蚁）拉丁学名—中文正名对照名录：<i>{{ page.latin }}</i> {{ page.zh }}{{ cite_zh_rank }}[EB/OL]. {{ site.dataset.version }} 版. {{ site.base_url }}{{ page.url }}. DOI: {{ site.dataset.doi }}.</pre>
-        <button class="cite-copy" type="button" data-label="复制 GB/T 7714" data-copied-label="已复制">复制 GB/T 7714</button>
+        <button class="cite-copy" type="button" data-label="复制 GB/T 7714 · Copy GB/T 7714 · Copiar GB/T 7714" data-copied-label="已复制 · Copied · Copiado">复制 GB/T 7714 <span class="fact-en" lang="en">Copy GB/T 7714</span> <span class="fact-es" lang="es">Copiar GB/T 7714</span></button>
       </div>
 
       <h3 class="species-cite-h">BibTeX</h3>
@@ -107,7 +107,7 @@ layout: default
   note         = &#123;{{ page.family_latin }} {{ page.family_zh }}；{{ site.dataset.version }} 版；DOI: {{ site.dataset.doi }}&#125;,
   doi          = &#123;{{ site.dataset.doi }}&#125;
 }</pre>
-        <button class="cite-copy" type="button" data-label="复制 BibTeX" data-copied-label="已复制">复制 BibTeX</button>
+        <button class="cite-copy" type="button" data-label="复制 BibTeX · Copy BibTeX · Copiar BibTeX" data-copied-label="已复制 · Copied · Copiado">复制 BibTeX <span class="fact-en" lang="en">Copy BibTeX</span> <span class="fact-es" lang="es">Copiar BibTeX</span></button>
       </div>
 
       <h3 class="species-cite-h">RIS</h3>
@@ -119,7 +119,7 @@ PY  - 2026
 UR  - {{ site.base_url }}{{ page.url }}
 DO  - {{ site.dataset.doi }}
 ER  - </pre>
-        <button class="cite-copy" type="button" data-label="复制 RIS" data-copied-label="已复制">复制 RIS</button>
+        <button class="cite-copy" type="button" data-label="复制 RIS · Copy RIS · Copiar RIS" data-copied-label="已复制 · Copied · Copiado">复制 RIS <span class="fact-en" lang="en">Copy RIS</span> <span class="fact-es" lang="es">Copiar RIS</span></button>
       </div>
     </div>
   </details>

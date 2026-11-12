@@ -23,7 +23,7 @@ synonym_localities: "Mexico: ?; Mexico: ?; Mexico: Federal District"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **缘翅楹白蚁**（*Incisitermes marginipennis*）是木白蚁科（KALOTERMITIDAE）楹白蚁属（*Incisitermes*）的一种。本种由 Latreille 于 1817 年描述，模式产地为 Mexico: ?。分布记录包括墨西哥、危地马拉、巴拿马。本站记录本种有 3 个次异名。
 
@@ -31,7 +31,7 @@ EN — **缘翅楹白蚁** (*Incisitermes marginipennis*) is a species of the ge
 
 ES — **缘翅楹白蚁** (*Incisitermes marginipennis*) es una especie del género *Incisitermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Latreille en 1817; la localidad tipo es Mexico: ?. Distribución: Mexico, Guatemala, Panama. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Incisitermes*：属名由拉丁文 incisus（切入的、具缺刻的）与 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *marginipennis*: From margini (缘) + pennis (翅)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[楹白蚁属 *Incisitermes*]({{ site.base_url }}/genus/incisitermes/) —— 共 30 种（30 species · 30 especies）
 - **本属模式种 Type species / Especie tipo**：*Incisitermes schwarzi*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：墨西哥、危地马拉、巴拿马
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：墨西哥、危地马拉、巴拿马
 - **英文记录 English record / Registro en inglés**：Mexico, Guatemala, Panama
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes mexicanus* Walker, 1853: 528 —— 模式产地：Mexico: ?
 2. *Kalotermes tuberculifrons* Snyder, 1922: 6-7 —— 模式产地：Mexico: ?

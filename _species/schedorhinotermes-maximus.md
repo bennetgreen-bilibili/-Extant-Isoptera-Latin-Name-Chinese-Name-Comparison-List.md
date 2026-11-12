@@ -23,7 +23,7 @@ synonym_localities: "Indonesia: Borneo: Tandjong"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **最大长鼻白蚁**（*Schedorhinotermes maximus*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 Indonesia: Borneo: Tandjong。分布记录包括分布待核。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **最大长鼻白蚁** (*Schedorhinotermes maximus*) is a species of the 
 
 ES — **最大长鼻白蚁** (*Schedorhinotermes maximus*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Holmgren en 1913; la localidad tipo es Indonesia: Borneo: Tandjong. Distribución: distribution to be verified. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *maximus*: Latin maximus (largest)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：分布待核
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：分布待核
 - **英文记录 English record / Registro en inglés**：distribution to be verified
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Macrorhinotermes maximus* Holmgren, 1913: 81 —— 模式产地：Indonesia: Borneo: Tandjong
 

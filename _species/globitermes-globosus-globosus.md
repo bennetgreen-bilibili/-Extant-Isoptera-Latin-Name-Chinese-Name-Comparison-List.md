@@ -25,7 +25,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **指名亚种**（*Globitermes globosus globosus*）是球形球白蚁（*Globitermes globosus*）的一个亚种，隶属白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）。本亚种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak: Mt. Lambir。本页暂无单列的分布记录，母种 *Globitermes globosus* 的分布见下文「分布」一节。
 
@@ -33,7 +33,7 @@ EN — **指名亚种** (*Globitermes globosus globosus*) is a subspecies of *Gl
 
 ES — **指名亚种** (*Globitermes globosus globosus*) es una subespecie de *Globitermes globosus*, en la familia TERMITIDAE (subfamilia Amitermitinae), género *Globitermes*. La subespecie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak: Mt. Lambir. No se incluye un registro de distribución separado en esta página; véase la especie parental *Globitermes globosus*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
 
@@ -45,7 +45,7 @@ EN — epithet *globosus*: Latin globosus (globular)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
@@ -53,9 +53,13 @@ EN — epithet *globosus*: Latin globosus (globular)
 - **种 Species / Especie**：[球形球白蚁 *Globitermes globosus*]({{ site.base_url }}/species/globitermes-globosus/)
 - **亚种 Subspecies / Subespecie**：本页（*Globitermes globosus globosus*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Globitermes globosus* 的分布为：东南亚岛屿、南洋群岛。
 
-母种英文记录：Southeast Asian islands, Malay Archipelago。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Globitermes globosus</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Globitermes globosus</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Southeast Asian islands, Malay Archipelago。
 <!-- AUTO:END -->

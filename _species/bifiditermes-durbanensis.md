@@ -23,7 +23,7 @@ synonym_localities: "South Africa: Cape South Coast: The Wilderness"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **德班双裂白蚁**（*Bifiditermes durbanensis*）是木白蚁科（KALOTERMITIDAE）双裂白蚁属（*Bifiditermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 South Africa: Natal: Durban。分布记录包括南非、肯尼亚、坦桑尼亚。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **德班双裂白蚁** (*Bifiditermes durbanensis*) is a species of the g
 
 ES — **德班双裂白蚁** (*Bifiditermes durbanensis*) es una especie del género *Bifiditermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es South Africa: Natal: Durban. Distribución: South Africa, Kenya, Tanzania. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Bifiditermes*：属名由拉丁文 bifidus（二裂的）与 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *durbanensis*: Named after Durban (South Africa)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[双裂白蚁属 *Bifiditermes*]({{ site.base_url }}/genus/bifiditermes/) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Bifiditermes madagascariensis*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南非、肯尼亚、坦桑尼亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南非、肯尼亚、坦桑尼亚
 - **英文记录 English record / Registro en inglés**：South Africa, Kenya, Tanzania
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Calotermes braunsi* Fuller, 1921: 28-29 —— 模式产地：South Africa: Cape South Coast: The Wilderness
 

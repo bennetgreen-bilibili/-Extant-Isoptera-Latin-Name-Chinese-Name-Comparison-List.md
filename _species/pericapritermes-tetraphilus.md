@@ -26,7 +26,7 @@ synonym_localities: "Myanmar: Maymyo"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **大近扭白蚁**（*Pericapritermes tetraphilus*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）近扭白蚁属（*Pericapritermes*）的一种。本种由 Silvestri 于 1922 年描述，模式产地为 Bangladesh: Chittagong Hill Tracts: Rangamati。分布记录包括广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）、印度、孟加拉国、缅甸。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **大近扭白蚁** (*Pericapritermes tetraphilus*) is a species of the g
 
 ES — **大近扭白蚁** (*Pericapritermes tetraphilus*) es una especie del género *Pericapritermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Silvestri en 1922; la localidad tipo es Bangladesh: Chittagong Hill Tracts: Rangamati. Distribución: Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjinghong 500 m, Hekou 90 m, Pingbian, Jinping Mengla 370, 420, 450, 680 m, Mojiang 1400 m, Santaishan, Simao, Manyun); India; Bangladesh; Myanmar. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Pericapritermes*：属名由希腊文 peri-（周围）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *tetraphilus*: From the descriptive term 'tetra' (four)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
 - **属 Genus / Género**：[近扭白蚁属 *Pericapritermes*]({{ site.base_url }}/genus/pericapritermes/) —— 共 40 种（40 species · 40 especies）
 - **本属模式种 Type species / Especie tipo**：*Pericapritermes urgens*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）、印度、孟加拉国、缅甸
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：广东（汕头、韶关），福建（平和），云南（允景洪500m、河口90m、屏边、金平猛喇370、420、450、680m、墨江1400m、三台山、思茅、蛮允）、印度、孟加拉国、缅甸
 - **英文记录 English record / Registro en inglés**：Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjinghong 500 m, Hekou 90 m, Pingbian, Jinping Mengla 370, 420, 450, 680 m, Mojiang 1400 m, Santaishan, Simao, Manyun); India; Bangladesh; Myanmar
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Capritermes orientalis* Mathur & Sen-Sarma, 1961: 1-4 —— 模式产地：Myanmar: Maymyo
 

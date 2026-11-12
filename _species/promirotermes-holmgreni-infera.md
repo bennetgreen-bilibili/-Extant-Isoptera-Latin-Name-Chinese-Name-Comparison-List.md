@@ -25,7 +25,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **下亚种**（*Promirotermes holmgreni infera*）是霍姆格伦前奇白蚁（*Promirotermes holmgreni*）的一个亚种，隶属白蚁科（TERMITIDAE）前奇白蚁亚科（Promirotermitinae）前奇白蚁属（*Promirotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Senegal: Thiès。本页暂无单列的分布记录，母种 *Promirotermes holmgreni* 的分布见下文「分布」一节。
 
@@ -33,7 +33,7 @@ EN — **下亚种** (*Promirotermes holmgreni infera*) is a subspecies of *Prom
 
 ES — **下亚种** (*Promirotermes holmgreni infera*) es una subespecie de *Promirotermes holmgreni*, en la familia TERMITIDAE (subfamilia Promirotermitinae), género *Promirotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Senegal: Thiès. No se incluye un registro de distribución separado en esta página; véase la especie parental *Promirotermes holmgreni*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Promirotermes*：属名由希腊文 pro-（前）+ 拉丁文 mirus（奇异）与 termes（白蚁）组合。
 
@@ -45,7 +45,7 @@ EN — epithet *infera*: Latin inferus (lower, beneath)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[前奇白蚁亚科 Promirotermitinae]({{ site.base_url }}/subfamily/promirotermitinae/) —— 本站收录 2 属 39 种（2 genera, 39 species · 2 géneros, 39 especies）
@@ -53,9 +53,13 @@ EN — epithet *infera*: Latin inferus (lower, beneath)
 - **种 Species / Especie**：[霍姆格伦前奇白蚁 *Promirotermes holmgreni*]({{ site.base_url }}/species/promirotermes-holmgreni/)
 - **亚种 Subspecies / Subespecie**：本页（*Promirotermes holmgreni infera*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Promirotermes holmgreni* 的分布为：塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆。
 
-母种英文记录：Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Promirotermes holmgreni</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Promirotermes holmgreni</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon。
 <!-- AUTO:END -->

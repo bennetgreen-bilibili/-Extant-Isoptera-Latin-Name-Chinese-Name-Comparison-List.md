@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **幽暗鳞白蚁**（*Lepidotermes amydrus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）鳞白蚁属（*Lepidotermes*）的一种。本种由 Uys 于 1994 年描述，模式产地为 Namibia: 64 km ex Windhoek-Gallschau crossroads。分布记录包括非洲南部、南非。
 
@@ -32,7 +32,7 @@ EN — **幽暗鳞白蚁** (*Lepidotermes amydrus*) is a species of the genus *L
 
 ES — **幽暗鳞白蚁** (*Lepidotermes amydrus*) es una especie del género *Lepidotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Uys en 1994; la localidad tipo es Namibia: 64 km ex Windhoek-Gallschau crossroads. Distribución: southern Africa, South Africa.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Lepidotermes*：属名由希腊文 lepis（鳞）与拉丁文 termes（白蚁）组合。
 
@@ -44,17 +44,21 @@ EN — epithet *amydrus*: Greek amydros (dim, obscure)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[鳞白蚁属 *Lepidotermes*]({{ site.base_url }}/genus/lepidotermes/) —— 共 9 种（9 species · 9 especies）
 - **本属模式种 Type species / Especie tipo**：*Lepidotermes pretoriensis*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：非洲南部、南非
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部、南非
 - **英文记录 English record / Registro en inglés**：southern Africa, South Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

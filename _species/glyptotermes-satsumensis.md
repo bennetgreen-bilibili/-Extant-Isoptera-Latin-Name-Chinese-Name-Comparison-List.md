@@ -23,7 +23,7 @@ synonym_localities: "Japan: Kagoshima Prefecture (Satsuma); Taiwan: ?"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **赤树白蚁**（*Glyptotermes satsumensis*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Matsumura 于 1907 年描述，模式产地为 Japan: Kagoshima \[ 31.9N 130.45E \]。分布记录包括日本、中国台湾。本站记录本种有 2 个次异名。
 
@@ -31,7 +31,7 @@ EN — **赤树白蚁** (*Glyptotermes satsumensis*) is a species of the genus *
 
 ES — **赤树白蚁** (*Glyptotermes satsumensis*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Matsumura en 1907; la localidad tipo es Japan: Kagoshima \[ 31.9N 130.45E \]. Distribución: Japan, China (Taiwan). Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
 
@@ -43,22 +43,26 @@ EN — epithet *satsumensis*: Named after Satsuma (Japan)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种（131 species · 131 especies）
 - **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：日本、中国台湾
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：日本、中国台湾
 - **英文记录 English record / Registro en inglés**：Japan, China (Taiwan)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Calotermes (Glyptotermes) satsumaensis* Holmgren, 1912: 116-117 —— 模式产地：Japan: Kagoshima Prefecture (Satsuma)
 2. *Glyptotermes longicephalus* Oshima, 1912: 64-66 —— 模式产地：Taiwan: ?

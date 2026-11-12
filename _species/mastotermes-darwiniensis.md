@@ -23,7 +23,7 @@ synonym_localities: "Australia: Queensland: north Queensland"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **达尔文澳白蚁**（*Mastotermes darwiniensis*）是澳白蚁科（MASTOTERMITIDAE）澳白蚁属（*Mastotermes*）的现存唯一种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: Northern Territory: Darwin。分布记录包括澳大利亚北部、热带北部地区。另有记录显示其已引入巴布亚新几内亚。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **达尔文澳白蚁** (*Mastotermes darwiniensis*) is the only extant sp
 
 ES — **达尔文澳白蚁** (*Mastotermes darwiniensis*) es la única especie viviente del género *Mastotermes*, en la familia MASTOTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: Northern Territory: Darwin. Distribución: northern Australia, tropical northern region, introduced: Papua New Guinea. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Mastotermes*：属名由希腊文 mastos（乳房、乳头）与拉丁文 termes（白蚁）组合而成。
 
@@ -43,22 +43,26 @@ EN — epithet *darwiniensis*: Named after the locality Darwin
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[澳白蚁科 MASTOTERMITIDAE]({{ site.base_url }}/family/mastotermitidae/) —— 本站收录 1 属 1 种（1 genus, 1 species · 1 género, 1 especie）
 - **属 Genus / Género**：[澳白蚁属 *Mastotermes*]({{ site.base_url }}/genus/mastotermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚北部、热带北部地区
-- **引入记录**：巴布亚新几内亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚北部、热带北部地区
+- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：巴布亚新几内亚
 - **英文记录 English record / Registro en inglés**：northern Australia, tropical northern region, introduced: Papua New Guinea
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Termes errabundus* Froggatt, 1898: 733 —— 模式产地：Australia: Queensland: north Queensland
 

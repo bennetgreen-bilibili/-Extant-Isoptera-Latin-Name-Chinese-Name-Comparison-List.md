@@ -26,15 +26,15 @@ synonym_localities: "(country unknown): \"Hinterindien\""
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **缺齿东锥白蚁**（*Oriensubulitermes inanis*）是白蚁科（TERMITIDAE）象白蚁亚科（Nasutitermitinae）东锥白蚁属（*Oriensubulitermes*）的一种，也是本属的模式种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Perak。分布记录包括印度尼西亚、马来西亚、新加坡。本站记录本种有 1 个次异名。
 
-EN — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) is a species and the type species of its genus of the genus *Oriensubulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Perak. Distribution: Indonesia, Malaysia, Singapore. This site records 1 junior synonym for the species.
+EN — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) is a species and the type species of the genus *Oriensubulitermes*, in the family TERMITIDAE (subfamily Nasutitermitinae). The species was described by Haviland in 1898; the type locality is Malaysia: Perak. Distribution: Indonesia, Malaysia, Singapore. This site records 1 junior synonym for the species.
 
-ES — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) es una especie, y la especie tipo de su género del género *Oriensubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak. Distribución: Indonesia, Malaysia, Singapore. Este sitio registra 1 sinónimo junior para la especie.
+ES — **缺齿东锥白蚁** (*Oriensubulitermes inanis*) es una especie, y la especie tipo del género *Oriensubulitermes*, en la familia TERMITIDAE (subfamilia Nasutitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Perak. Distribución: Indonesia, Malaysia, Singapore. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Oriensubulitermes*：属名由拉丁文 Oriens（东方）+ subula（锥、钻）与 termes（白蚁）组合。
 
@@ -46,22 +46,26 @@ EN — epithet *inanis*: Latin inanis (empty)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[象白蚁亚科 Nasutitermitinae]({{ site.base_url }}/subfamily/nasutitermitinae/) —— 本站收录 81 属 606 种（81 genera, 606 species · 81 géneros, 606 especies）
 - **属 Genus / Género**：[东锥白蚁属 *Oriensubulitermes*]({{ site.base_url }}/genus/oriensubulitermes/) —— 共 2 种（2 species · 2 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：印度尼西亚、马来西亚、新加坡
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度尼西亚、马来西亚、新加坡
 - **英文记录 English record / Registro en inglés**：Indonesia, Malaysia, Singapore
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Eutermes (Subulitermes) inaniformis* Holmgren, 1912: 64 —— 模式产地：(country unknown): "Hinterindien"
 

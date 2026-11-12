@@ -26,7 +26,7 @@ synonym_localities: "South Africa: Natal: Somkele"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **祖鲁兰方白蚁**（*Cubitermes zulucola*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）方白蚁属（*Cubitermes*）的一种。本种由 Sjöstedt 于 1924 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括非洲南部、南非祖鲁兰。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **祖鲁兰方白蚁** (*Cubitermes zulucola*) is a species of the genus 
 
 ES — **祖鲁兰方白蚁** (*Cubitermes zulucola*) es una especie del género *Cubitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1924; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: southern Africa, South Africa (Zululand). Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Cubitermes*：属名由拉丁文 cubitus（肘）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *zulucola*: Zulu (people, South Africa) + -cola (dweller): Zulula
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[方白蚁属 *Cubitermes*]({{ site.base_url }}/genus/cubitermes/) —— 共 11 种（11 species · 11 especies）
 - **本属模式种 Type species / Especie tipo**：*Cubitermes bilobatus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：非洲南部、南非祖鲁兰
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部、南非祖鲁兰
 - **英文记录 English record / Registro en inglés**：southern Africa, South Africa (Zululand)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Mirotermes (Cubitermes) pseudoduplex* Fuller, 1925: 196-197 —— 模式产地：South Africa: Natal: Somkele
 

@@ -24,15 +24,15 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **惊人海德瑞克白蚁**（*Hydrecotermes arienesho*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）海德瑞克白蚁属（*Hydrecotermes*）的一种，也是本属的模式种。本种由 Bourguignon & Roisin 于 2016 年描述，模式产地为 French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]。分布记录包括哥伦比亚、法属圭亚那、玻利维亚、巴拉圭、特立尼达和多巴哥。
 
-EN — **惊人海德瑞克白蚁** (*Hydrecotermes arienesho*) is a species and the type species of its genus of the genus *Hydrecotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Bourguignon & Roisin in 2016; the type locality is French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribution: Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago.
+EN — **惊人海德瑞克白蚁** (*Hydrecotermes arienesho*) is a species and the type species of the genus *Hydrecotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Bourguignon & Roisin in 2016; the type locality is French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribution: Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago.
 
-ES — **惊人海德瑞克白蚁** (*Hydrecotermes arienesho*) es una especie, y la especie tipo de su género del género *Hydrecotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución: Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago.
+ES — **惊人海德瑞克白蚁** (*Hydrecotermes arienesho*) es una especie, y la especie tipo del género *Hydrecotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Bourguignon & Roisin en 2016; la localidad tipo es French Guiana: Nouragues Inselberg station \[ 4.0884N 52.6814W \]. Distribución: Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Hydrecotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -44,16 +44,20 @@ EN — epithet *arienesho*: Named after a locality in French Guiana
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[海德瑞克白蚁属 *Hydrecotermes*]({{ site.base_url }}/genus/hydrecotermes/) —— 共 2 种（2 species · 2 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：哥伦比亚、法属圭亚那、玻利维亚、巴拉圭、特立尼达和多巴哥
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：哥伦比亚、法属圭亚那、玻利维亚、巴拉圭、特立尼达和多巴哥
 - **英文记录 English record / Registro en inglés**：Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

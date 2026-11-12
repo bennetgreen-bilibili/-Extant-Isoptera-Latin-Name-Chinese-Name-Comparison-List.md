@@ -22,7 +22,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **纳丁亚种**（*Zootermopsis nevadensis nuttingi*）是内华达动白蚁（*Zootermopsis nevadensis*）的一个亚种，隶属古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）。本亚种由 Haverty & Thorne 于 1989 年描述，模式产地为 United States: California: Pacific Grove。本页暂无单列的分布记录，母种 *Zootermopsis nevadensis* 的分布见下文「分布」一节。
 
@@ -30,7 +30,7 @@ EN — **纳丁亚种** (*Zootermopsis nevadensis nuttingi*) is a subspecies of 
 
 ES — **纳丁亚种** (*Zootermopsis nevadensis nuttingi*) es una subespecie de *Zootermopsis nevadensis*, en la familia ARCHOTERMOPSIDAE, género *Zootermopsis*. La subespecie fue descrita por Haverty & Thorne en 1989; la localidad tipo es United States: California: Pacific Grove. No se incluye un registro de distribución separado en esta página; véase la especie parental *Zootermopsis nevadensis*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
 
@@ -42,16 +42,20 @@ EN — epithet *nuttingi*: Named after W. L. Nutting (American termitologist)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
 - **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种（3 species · 3 especies）
 - **种 Species / Especie**：[内华达动白蚁 *Zootermopsis nevadensis*]({{ site.base_url }}/species/zootermopsis-nevadensis/)
 - **亚种 Subspecies / Subespecie**：本页（*Zootermopsis nevadensis nuttingi*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Zootermopsis nevadensis* 的分布为：北美西部、美国西部、加拿大西部、墨西哥。
 
-母种英文记录：western North America, western United States, western Canada, Mexico, introduced: Japan。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Zootermopsis nevadensis</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Zootermopsis nevadensis</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：western North America, western United States, western Canada, Mexico, introduced: Japan。
 <!-- AUTO:END -->

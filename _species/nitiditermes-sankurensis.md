@@ -26,7 +26,7 @@ synonym_localities: "Democratic Republic of the Congo: Luluabourg; Congo: Indo, 
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **桑库鲁净白蚁**（*Nitiditermes sankurensis*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）净白蚁属（*Nitiditermes*）的一种。本种由 Wasmann 于 1911 年描述，模式产地为 Democratic Republic of the Congo: Sankuru (Kassai)。分布记录包括安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦。本站记录本种有 3 个次异名。
 
@@ -34,7 +34,7 @@ EN — **桑库鲁净白蚁** (*Nitiditermes sankurensis*) is a species of the g
 
 ES — **桑库鲁净白蚁** (*Nitiditermes sankurensis*) es una especie del género *Nitiditermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Wasmann en 1911; la localidad tipo es Democratic Republic of the Congo: Sankuru (Kassai). Distribución: Angola, Republic of the Congo, Democratic Republic of the Congo, Guinea, Kenya, Malawi, Mali, Nigeria, Senegal, Tanzania, Zambia, Zimbabwe. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Nitiditermes*：属名由拉丁文 nitidus（光亮的）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *sankurensis*: Named after Sankuru, Congo
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[净白蚁属 *Nitiditermes*]({{ site.base_url }}/genus/nitiditermes/) —— 共 15 种（15 species · 15 especies）
 - **本属模式种 Type species / Especie tipo**：*Nitiditermes berghei*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：安哥拉、刚果共和国、刚果民主共和国、几内亚、肯尼亚、马拉维、马里、尼日利亚、塞内加尔、坦桑尼亚、赞比亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：Angola, Republic of the Congo, Democratic Republic of the Congo, Guinea, Kenya, Malawi, Mali, Nigeria, Senegal, Tanzania, Zambia, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Eutermes (Cubitermes) cubicephalus* Sjöstedt, 1913: 354-391 —— 模式产地：Democratic Republic of the Congo: Luluabourg
 2. *Eutermes sibitiensis* Sjöstedt, 1925: 54 —— 模式产地：Congo: Indo, Sibiti

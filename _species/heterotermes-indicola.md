@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **印度异白蚁**（*Heterotermes indicola*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种。本种由 Wasmann 于 1902 年描述，模式产地为 India: Maharashtra: Mumbai。分布记录包括南亚、巴基斯坦、印度、阿富汗、伊朗。
 
@@ -29,7 +29,7 @@ EN — **印度异白蚁** (*Heterotermes indicola*) is a species of the genus *
 
 ES — **印度异白蚁** (*Heterotermes indicola*) es una especie del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Wasmann en 1902; la localidad tipo es India: Maharashtra: Mumbai. Distribución: South Asia, Pakistan, India, Afghanistan, Iran.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *indicola*: Latin India + -cola (dweller): dwelling in India
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种（31 species · 31 especies）
 - **本属模式种 Type species / Especie tipo**：*Heterotermes platycephalus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：南亚、巴基斯坦、印度、阿富汗、伊朗
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：南亚、巴基斯坦、印度、阿富汗、伊朗
 - **英文记录 English record / Registro en inglés**：South Asia, Pakistan, India, Afghanistan, Iran
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

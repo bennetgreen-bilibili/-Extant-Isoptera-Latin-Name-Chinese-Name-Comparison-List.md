@@ -26,7 +26,7 @@ synonym_localities: "Australia: Victoria: Preston"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **新芽弓白蚁**（*Amitermes neogermanus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）弓白蚁属（*Amitermes*）的一种。本种由 Hill 于 1922 年描述，模式产地为 Australia: South Australia: Mt. Lofty Range。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **新芽弓白蚁** (*Amitermes neogermanus*) is a species of the genus *
 
 ES — **新芽弓白蚁** (*Amitermes neogermanus*) es una especie del género *Amitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Hill en 1922; la localidad tipo es Australia: South Australia: Mt. Lofty Range. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Amitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -46,23 +46,27 @@ EN — epithet *neogermanus*: Greek neos (new) + Latin germanus (genuine)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[弓白蚁属 *Amitermes*]({{ site.base_url }}/genus/amitermes/) —— 共 113 种（113 species · 113 especies）
 - **本属模式种 Type species / Especie tipo**：*Amitermes amifer*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
 - **英文记录 English record / Registro en inglés**：Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Hamitermes perplexus victoriensis* Hill, 1922: 388-389 —— 模式产地：Australia: Victoria: Preston
 

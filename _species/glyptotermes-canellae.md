@@ -23,7 +23,7 @@ synonym_localities: "Argentina: Misiones: San Pedro [ 26.63S 54.11W ]"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **卡内尔树白蚁**（*Glyptotermes canellae*）是木白蚁科（KALOTERMITIDAE）树白蚁属（*Glyptotermes*）的一种。本种由 Müller 于 1873 年描述，模式产地为 Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]。分布记录包括巴西、巴拉圭、阿根廷。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **卡内尔树白蚁** (*Glyptotermes canellae*) is a species of the genu
 
 ES — **卡内尔树白蚁** (*Glyptotermes canellae*) es una especie del género *Glyptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Müller en 1873; la localidad tipo es Brasil: Santa Catarina: Itajaí \[ 26.9078S 48.6619W \]. Distribución: Brazil, Paraguay, Argentina. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Glyptotermes*：属名由希腊文 glyptos（雕刻的）与拉丁文 termes（白蚁）组合，指头壳或前胸背板有刻纹。
 
@@ -43,22 +43,26 @@ EN — epithet *canellae*: Named after Canella
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[树白蚁属 *Glyptotermes*]({{ site.base_url }}/genus/glyptotermes/) —— 共 131 种（131 species · 131 especies）
 - **本属模式种 Type species / Especie tipo**：*Glyptotermes tuberculatus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西、巴拉圭、阿根廷
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、巴拉圭、阿根廷
 - **英文记录 English record / Registro en inglés**：Brazil, Paraguay, Argentina
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Calotermes lobicephalus* Silvestri, 1901: 3 —— 模式产地：Argentina: Misiones: San Pedro \[ 26.63S 54.11W \]
 

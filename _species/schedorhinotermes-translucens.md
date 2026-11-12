@@ -23,7 +23,7 @@ synonym_localities: "Indonesia: Sulawesi; Solomon Islands: Ugi Island"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **透明长鼻白蚁**（*Schedorhinotermes translucens*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Sarawak。分布记录包括所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚。本站记录本种有 2 个次异名。
 
@@ -31,7 +31,7 @@ EN — **透明长鼻白蚁** (*Schedorhinotermes translucens*) is a species of 
 
 ES — **透明长鼻白蚁** (*Schedorhinotermes translucens*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Sarawak. Distribución: Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
@@ -43,22 +43,26 @@ EN — epithet *translucens*: From the descriptive term 'transluc' (translucent)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚
 - **英文记录 English record / Registro en inglés**：Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Rhinotermes (Schedorhinotermes) celebensis* Holmgren, 1911: 458 —— 模式产地：Indonesia: Sulawesi
 2. *Rhinotermes (Schedorhinotermes) marjoriae* Snyder, 1925: 404-405 —— 模式产地：Solomon Islands: Ugi Island

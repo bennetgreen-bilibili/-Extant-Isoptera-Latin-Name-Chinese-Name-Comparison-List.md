@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **简单原鼻白蚁**（*Prorhinotermes simplex*）是沙白蚁科（PSAMMOTERMITIDAE）原鼻白蚁属（*Prorhinotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Cuba: ?。分布记录包括美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各。
 
@@ -29,7 +29,7 @@ EN — **简单原鼻白蚁** (*Prorhinotermes simplex*) is a species of the gen
 
 ES — **简单原鼻白蚁** (*Prorhinotermes simplex*) es una especie del género *Prorhinotermes*, en la familia PSAMMOTERMITIDAE. La especie fue descrita por Hagen en 1858; la localidad tipo es Cuba: ?. Distribución: United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Prorhinotermes*：属名由希腊文 pro-（前）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *simplex*: Latin simplex (simple)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[沙白蚁科 PSAMMOTERMITIDAE]({{ site.base_url }}/family/psammotermitidae/) —— 本站收录 2 属 18 种（2 genera, 18 species · 2 géneros, 18 especies）
 - **属 Genus / Género**：[原鼻白蚁属 *Prorhinotermes*]({{ site.base_url }}/genus/prorhinotermes/) —— 共 12 种（12 species · 12 especies）
 - **本属模式种 Type species / Especie tipo**：*Prorhinotermes inopinatus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各
 - **英文记录 English record / Registro en inglés**：United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **宽头动白蚁**（*Zootermopsis laticeps*）是古白蚁科（ARCHOTERMOPSIDAE）动白蚁属（*Zootermopsis*）的一种。本种由 Banks 于 1906 年描述，模式产地为 United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch。分布记录包括北美西南部、美国、墨西哥。
 
@@ -29,7 +29,7 @@ EN — **宽头动白蚁** (*Zootermopsis laticeps*) is a species of the genus *
 
 ES — **宽头动白蚁** (*Zootermopsis laticeps*) es una especie del género *Zootermopsis*, en la familia ARCHOTERMOPSIDAE. La especie fue descrita por Banks en 1906; la localidad tipo es United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch. Distribución: southwestern North America, United States, Mexico.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Zootermopsis*：属名由希腊文 zōon（动物）与 -termopsis（term-「白蚁」+ -opsis「外观」）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *laticeps*: Latin latus (broad) + -ceps (head), broad-headed
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[古白蚁科 ARCHOTERMOPSIDAE]({{ site.base_url }}/family/archotermopsidae/) —— 本站收录 2 属 5 种（2 genera, 5 species · 2 géneros, 5 especies）
 - **属 Genus / Género**：[动白蚁属 *Zootermopsis*]({{ site.base_url }}/genus/zootermopsis/) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Zootermopsis angusticollis*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北美西南部、美国、墨西哥
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北美西南部、美国、墨西哥
 - **英文记录 English record / Registro en inglés**：southwestern North America, United States, Mexico
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

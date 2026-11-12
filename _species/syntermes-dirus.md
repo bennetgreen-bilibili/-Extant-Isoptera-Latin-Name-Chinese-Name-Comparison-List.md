@@ -26,15 +26,15 @@ synonym_localities: "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]; Bras
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **可怕聚白蚁**（*Syntermes dirus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）聚白蚁属（*Syntermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]。分布记录包括巴西。本站记录本种有 3 个次异名。
 
-EN — **可怕聚白蚁** (*Syntermes dirus*) is a species and the type species of its genus of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Burmeister in 1839; the type locality is Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribution: Brazil. This site records 3 junior synonyms for the species.
+EN — **可怕聚白蚁** (*Syntermes dirus*) is a species and the type species of the genus *Syntermes*, in the family TERMITIDAE (subfamily Syntermitinae). The species was described by Burmeister in 1839; the type locality is Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribution: Brazil. This site records 3 junior synonyms for the species.
 
-ES — **可怕聚白蚁** (*Syntermes dirus*) es una especie, y la especie tipo de su género del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribución: Brazil. Este sitio registra 3 sinónimos junior para la especie.
+ES — **可怕聚白蚁** (*Syntermes dirus*) es una especie, y la especie tipo del género *Syntermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Burmeister en 1839; la localidad tipo es Brasil: "Rio" (probably Rio de Janeiro) \[22.9S 43.23W\]. Distribución: Brazil. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Syntermes*：属名由希腊文 syn-（合、共）与拉丁文 termes（白蚁）组合。
 
@@ -46,22 +46,26 @@ EN — epithet *dirus*: Latin dirus (dreadful)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[聚白蚁属 *Syntermes*]({{ site.base_url }}/genus/syntermes/) —— 共 23 种（23 species · 23 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西
 - **英文记录 English record / Registro en inglés**：Brazil
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes obscurum* Blanchard, 1840: 47 —— 模式产地：Brasil: Rio de Janeiro: Rio de Janeiro \[22.9S 43.23W\]
 2. *Termes dubius* Rambur, 1842: 309 —— 模式产地：Brasil: ?

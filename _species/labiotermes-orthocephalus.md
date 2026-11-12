@@ -26,7 +26,7 @@ synonym_localities: "Brasil: Minas Gerais: Monte Azul [15.155S 42.8747W]; Brasil
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **直头厚唇白蚁**（*Labiotermes orthocephalus*）是白蚁科（TERMITIDAE）聚白蚁亚科（Syntermitinae）厚唇白蚁属（*Labiotermes*）的一种。本种由 Silvestri 于 1901 年描述，模式产地为 Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]。分布记录包括巴西、巴拉圭。本站记录本种有 2 个次异名。
 
@@ -34,7 +34,7 @@ EN — **直头厚唇白蚁** (*Labiotermes orthocephalus*) is a species of the 
 
 ES — **直头厚唇白蚁** (*Labiotermes orthocephalus*) es una especie del género *Labiotermes*, en la familia TERMITIDAE (subfamilia Syntermitinae). La especie fue descrita por Silvestri en 1901; la localidad tipo es Brasil: Mato Grosso: Cuiabá, Coxipó (district) \[15.627S 56.058W\]. Distribución: Brazil, Paraguay. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Labiotermes*：属名由拉丁文 labium（唇）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *orthocephalus*: From the descriptive term 'orth' (straight)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[聚白蚁亚科 Syntermitinae]({{ site.base_url }}/subfamily/syntermitinae/) —— 本站收录 22 属 105 种（22 genera, 105 species · 22 géneros, 105 especies）
 - **属 Genus / Género**：[厚唇白蚁属 *Labiotermes*]({{ site.base_url }}/genus/labiotermes/) —— 共 10 种（10 species · 10 especies）
 - **本属模式种 Type species / Especie tipo**：*Labiotermes labralis*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：巴西、巴拉圭
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：巴西、巴拉圭
 - **英文记录 English record / Registro en inglés**：Brazil, Paraguay
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Paracornitermes hirsutus* Araujo, 1954: 187-188 —— 模式产地：Brasil: Minas Gerais: Monte Azul \[15.155S 42.8747W\]
 2. *Paracornitermes caapora* Bandeira & Cancello, 1992: 424-428 —— 模式产地：Brasil: Roraima: Ilha de Maracá \[3.4N 61.65W\]

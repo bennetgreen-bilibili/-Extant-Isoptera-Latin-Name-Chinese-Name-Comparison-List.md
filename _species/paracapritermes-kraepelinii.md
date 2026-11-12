@@ -26,7 +26,7 @@ synonym_localities: "Australia: Western Australia: 3.2 km S Yornup"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **克雷珀林旁扭白蚁**（*Paracapritermes kraepelinii*）是白蚁科（TERMITIDAE）白蚁亚科（Termitinae）旁扭白蚁属（*Paracapritermes*）的一种。本种由 Silvestri 于 1909 年描述，模式产地为 Australia: Western Australia: Mundaring。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **克雷珀林旁扭白蚁** (*Paracapritermes kraepelinii*) is a species
 
 ES — **克雷珀林旁扭白蚁** (*Paracapritermes kraepelinii*) es una especie del género *Paracapritermes*, en la familia TERMITIDAE (subfamilia Termitinae). La especie fue descrita por Silvestri en 1909; la localidad tipo es Australia: Western Australia: Mundaring. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Paracapritermes*：属名由希腊文 para-（旁）+ 拉丁文 caper（山羊）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *kraepelinii*: Named after K. Kraepelin（德国动物学家）
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[白蚁亚科 Termitinae]({{ site.base_url }}/subfamily/termitinae/) —— 本站收录 23 属 107 种（23 genera, 107 species · 23 géneros, 107 especies）
 - **属 Genus / Género**：[旁扭白蚁属 *Paracapritermes*]({{ site.base_url }}/genus/paracapritermes/) —— 共 4 种（4 species · 4 especies）
 - **本属模式种 Type species / Especie tipo**：*Paracapritermes primus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
 - **英文记录 English record / Registro en inglés**：Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Paracapritermes hesperus* Gay, 1956: 210-211 —— 模式产地：Australia: Western Australia: 3.2 km S Yornup
 

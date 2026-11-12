@@ -23,7 +23,7 @@ synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: L
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **长颚堆砂白蚁**（*Cryptotermes dudleyi*）是木白蚁科（KALOTERMITIDAE）堆砂白蚁属（*Cryptotermes*）的一种。本种由 Banks 于 1918 年描述，模式产地为 Panama: ?。分布记录包括澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达。本站记录本种有 6 个次异名。
 
@@ -31,7 +31,7 @@ EN — **长颚堆砂白蚁** (*Cryptotermes dudleyi*) is a species of the genus
 
 ES — **长颚堆砂白蚁** (*Cryptotermes dudleyi*) es una especie del género *Cryptotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Banks en 1918; la localidad tipo es Panama: ?. Distribución: Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda. Este sitio registra 6 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Cryptotermes*：属名由希腊文 kryptos（隐藏的）与拉丁文 termes（白蚁）组合，指其隐蔽栖居于木材内。
 
@@ -43,22 +43,26 @@ EN — epithet *dudleyi*: Named after Dudley
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[堆砂白蚁属 *Cryptotermes*]({{ site.base_url }}/genus/cryptotermes/) —— 共 74 种（74 species · 74 especies）
 - **本属模式种 Type species / Especie tipo**：*Cryptotermes cavifrons*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达
 - **英文记录 English record / Registro en inglés**：Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 6 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 6 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 6 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 6 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Calotermes havilandi parasita* Wasmann, 1910: 120 —— 模式产地：Mauritius: ?
 2. *Calotermes (Cryptotermes) jacobsoni* Holmgren, 1913: 48 —— 模式产地：Indonesia: Java: Gunung Gedeh

@@ -24,15 +24,15 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **特雷高尖白蚁**（*Apicotermes tragardhi*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）尖白蚁属（*Apicotermes*）的一种，也是本属的模式种。本种由 Holmgren 于 1912 年描述，模式产地为 South Africa: Zululand: Mkosi。分布记录包括莫桑比克、南非、坦桑尼亚、津巴布韦。
 
-EN — **特雷高尖白蚁** (*Apicotermes tragardhi*) is a species and the type species of its genus of the genus *Apicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Holmgren in 1912; the type locality is South Africa: Zululand: Mkosi. Distribution: Mozambique, South Africa, Tanzania, Zimbabwe.
+EN — **特雷高尖白蚁** (*Apicotermes tragardhi*) is a species and the type species of the genus *Apicotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Holmgren in 1912; the type locality is South Africa: Zululand: Mkosi. Distribution: Mozambique, South Africa, Tanzania, Zimbabwe.
 
-ES — **特雷高尖白蚁** (*Apicotermes tragardhi*) es una especie, y la especie tipo de su género del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: Mozambique, South Africa, Tanzania, Zimbabwe.
+ES — **特雷高尖白蚁** (*Apicotermes tragardhi*) es una especie, y la especie tipo del género *Apicotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Holmgren en 1912; la localidad tipo es South Africa: Zululand: Mkosi. Distribución: Mozambique, South Africa, Tanzania, Zimbabwe.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Apicotermes*：属名由拉丁文 apex（尖、顶）与 termes（白蚁）组合。
 
@@ -44,16 +44,20 @@ EN — epithet *tragardhi*: Named after Ivar Trägårdh (Swedish entomologist)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[尖白蚁属 *Apicotermes*]({{ site.base_url }}/genus/apicotermes/) —— 共 13 种（13 species · 13 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：莫桑比克、南非、坦桑尼亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：莫桑比克、南非、坦桑尼亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：Mozambique, South Africa, Tanzania, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

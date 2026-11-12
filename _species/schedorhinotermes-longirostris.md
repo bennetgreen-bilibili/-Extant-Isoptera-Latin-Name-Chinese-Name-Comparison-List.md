@@ -23,7 +23,7 @@ synonym_localities: "Papua New Guinea: Friedrich-Wilhelmshafen"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **长喙长鼻白蚁**（*Schedorhinotermes longirostris*）是鼻白蚁科（RHINOTERMITIDAE）长鼻白蚁属（*Schedorhinotermes*）的一种。本种由 Brauer 于 1866 年描述，模式产地为 India: Nicobar Islands: Kondul。分布记录包括印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚。另有记录显示其已引入关岛（美国）。本站记录本种有 1 个次异名。
 
@@ -31,7 +31,7 @@ EN — **长喙长鼻白蚁** (*Schedorhinotermes longirostris*) is a species of
 
 ES — **长喙长鼻白蚁** (*Schedorhinotermes longirostris*) es una especie del género *Schedorhinotermes*, en la familia RHINOTERMITIDAE. La especie fue descrita por Brauer en 1866; la localidad tipo es India: Nicobar Islands: Kondul. Distribución: India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States). Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Schedorhinotermes*：属名由希腊文 schedon（近）+ rhis（鼻）与拉丁文 termes（白蚁）组合。
 
@@ -43,23 +43,27 @@ EN — epithet *longirostris*: From longi (长) + rostris (喙)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[鼻白蚁科 RHINOTERMITIDAE]({{ site.base_url }}/family/rhinotermitidae/) —— 本站收录 5 属 62 种（5 genera, 62 species · 5 géneros, 62 especies）
 - **属 Genus / Género**：[长鼻白蚁属 *Schedorhinotermes*]({{ site.base_url }}/genus/schedorhinotermes/) —— 共 35 种（35 species · 35 especies）
 - **本属模式种 Type species / Especie tipo**：*Schedorhinotermes intermedius*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚
-- **引入记录**：关岛（美国）
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚
+- **引入记录** <span class="fact-en" lang="en">Introduced records</span> <span class="fact-es" lang="es">Registros de introducción</span>：关岛（美国）
 - **英文记录 English record / Registro en inglés**：India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Rhinotermes dimorphus* Desneux, 1905: 368 —— 模式产地：Papua New Guinea: Friedrich-Wilhelmshafen
 

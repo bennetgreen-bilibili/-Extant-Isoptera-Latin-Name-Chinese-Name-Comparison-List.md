@@ -226,6 +226,25 @@ def count_phrase_full(subfamilies, genera, species, subspecies):
     return "、".join(parts)
 
 
+def num_phrase(n, one, many):
+    """English/Spanish count with the singular/plural forms of doc §4."""
+    return "%d %s" % (n, one if n == 1 else many)
+
+
+def count_phrase_en(species, subspecies):
+    parts = [num_phrase(species, "species", "species")]
+    if subspecies:
+        parts.append(num_phrase(subspecies, "subspecies", "subspecies"))
+    return ", ".join(parts)
+
+
+def count_phrase_es(species, subspecies):
+    parts = [num_phrase(species, "especie", "especies")]
+    if subspecies:
+        parts.append(num_phrase(subspecies, "subespecie", "subespecies"))
+    return ", ".join(parts)
+
+
 # Short neutral tails used only to pad a description up to the 150-character target.
 # They are appended after the rank-specific pool, shortest last, and never repeated.
 FILLERS = [
@@ -438,6 +457,65 @@ def main():
             bits.append(count_phrase(gen["species"], gen["subspecies"]))
         return " · ".join(bits)
 
+    def stats_line_en(fam=None, sub=None, gen=None):
+        bits = []
+        if fam:
+            if fam["subfamilies"]:
+                bits.append(num_phrase(len(fam["subfamilies"]), "subfamily", "subfamilies"))
+            bits.append(num_phrase(len(fam["genera"]), "genus", "genera"))
+            bits.append(count_phrase_en(fam["species"], fam["subspecies"]))
+        elif sub:
+            bits.append(num_phrase(len(sub["genera"]), "genus", "genera"))
+            bits.append(count_phrase_en(sub["species"], sub["subspecies"]))
+        else:
+            bits.append(count_phrase_en(gen["species"], gen["subspecies"]))
+        return " · ".join(bits)
+
+    def stats_line_es(fam=None, sub=None, gen=None):
+        bits = []
+        if fam:
+            if fam["subfamilies"]:
+                bits.append(num_phrase(len(fam["subfamilies"]), "subfamilia", "subfamilias"))
+            bits.append(num_phrase(len(fam["genera"]), "género", "géneros"))
+            bits.append(count_phrase_es(fam["species"], fam["subspecies"]))
+        elif sub:
+            bits.append(num_phrase(len(sub["genera"]), "género", "géneros"))
+            bits.append(count_phrase_es(sub["species"], sub["subspecies"]))
+        else:
+            bits.append(count_phrase_es(gen["species"], gen["subspecies"]))
+        return " · ".join(bits)
+
+    def list_heading(prefix_zh, n, en_one, en_many, es_one, es_many):
+        """`亚科（N）` / `属（N）` 标题 + 行内英/西（单复数按 doc §4）。"""
+        en = en_one if n == 1 else en_many
+        es = es_one if n == 1 else es_many
+        return ('%s（%d） <span class="fact-en" lang="en">%s (%d)</span> '
+                '<span class="fact-es" lang="es">%s (%d)</span>'
+                % (prefix_zh, n, en, n, es, n))
+
+    def meta_line(rank, fam=None, sub=None, gen=None):
+        """Page-header count line: Chinese first, then inline English and Spanish.
+
+        The subfamily / genus pages prefix the family name; that prefix is translated too
+        (`Family <i>…</i>` / `Familia <i>…</i>`), never the Latin name itself.
+        """
+        if rank == "family":
+            kwargs = {"fam": fam}
+        elif rank == "subfamily":
+            kwargs = {"sub": sub}
+        else:
+            kwargs = {"gen": gen}
+        zh = stats_line(**kwargs)
+        en = stats_line_en(**kwargs)
+        es = stats_line_es(**kwargs)
+        if rank != "family":
+            latin = display_latin(fam["latin"])
+            zh = "%s %s · %s" % (fam["zh"], fam["latin"], zh)
+            en = "Family <i>%s</i> · %s" % (latin, en)
+            es = "Familia <i>%s</i> · %s" % (latin, es)
+        return ('<p class="taxon-meta">%s <span class="fact-en" lang="en">%s</span> '
+                '<span class="fact-es" lang="es">%s</span></p>\n' % (zh, en, es))
+
     def crumb_nav(rank, fam=None, sub=None, gen=None):
         parts = ['<a href="%s/list/">名录</a>' % SB]
         if fam:
@@ -447,9 +525,16 @@ def main():
         if gen:
             parts.append('<a href="%s/genus/%s/">%s <i>%s</i></a>'
                          % (SB, gen["id"], gen["zh"], gen["latin"]))
-        label = {"family": "科", "subfamily": "亚科", "genus": "属"}[rank]
-        return ('<nav class="taxon-crumbs" aria-label="分类位置">' + " › ".join(parts)
-                + " › <span>本%s</span></nav>" % label)
+        label, label_en, label_es = {
+            "family": ("科", "This family", "Esta familia"),
+            "subfamily": ("亚科", "This subfamily", "Esta subfamilia"),
+            "genus": ("属", "This genus", "Este género"),
+        }[rank]
+        return ('<nav class="taxon-crumbs" aria-label="分类位置 · Taxonomic position · '
+                'Posición taxonómica">' + " › ".join(parts)
+                + ' › <span>本%s <span class="fact-en" lang="en">%s</span> '
+                  '<span class="fact-es" lang="es">%s</span></span></nav>'
+                % (label, label_en, label_es))
 
     def html_list(items):
         return "<ul class=\"taxon-list\">" + "".join(items) + "</ul>"
@@ -578,8 +663,13 @@ def main():
         if up:
             links.append(up)
         links.append('<a href="%s/data/">数据与下载</a>' % SB)
-        back = '<p class="taxon-more">上一级：' + " · ".join(links) + "</p>"
-        return back + '\n<p class="taxon-back"><a href="%s/list/">← 返回名录索引</a> · <a href="%s/">首页</a></p>' % (SB, SB)
+        back = ('<p class="taxon-more">上一级 <span class="fact-en" lang="en">Parent level</span> '
+                '<span class="fact-es" lang="es">Nivel superior</span>：'
+                + " · ".join(links) + "</p>")
+        return (back + '\n<p class="taxon-back"><a href="%s/list/">← 返回名录索引</a> · '
+                '<a href="%s/">首页</a> <span class="fact-en" lang="en">Back to the checklist · '
+                'Home</span> <span class="fact-es" lang="es">Volver al listado · Inicio</span></p>'
+                % (SB, SB))
 
     def genus_up(gen):
         """属页的上一级：有亚科就指亚科页，否则指科页。"""
@@ -601,7 +691,8 @@ def main():
         if not has_geo(rank, taxon_id):
             return ""
         return ('<section class="taxon-section taxon-distribution" data-pagefind-ignore>\n'
-                '<h2>分布图</h2>\n'
+                '<h2>分布图 <span class="fact-en" lang="en">Distribution map</span> '
+                '<span class="fact-es" lang="es">Mapa de distribución</span></h2>\n'
                 '{%% include distribution-map.html mode="%s" id="%s" %%}\n'
                 '</section>\n' % (rank, taxon_id))
 
@@ -617,36 +708,79 @@ def main():
                 '{%% include taxon-photos.html kind="%s" id="%s" limit=6 more="1" %%}\n'
                 '</section>\n' % (rank, taxon_id))
 
-    def intro_section(taxon_id, heading):
+    def intro_section(taxon_id, heading, heading_en, heading_es):
         paragraphs = intros.get(taxon_id) or []
         if not paragraphs:
             return ""
         body = "".join("<p>%s</p>\n" % html_escape(p) for p in paragraphs)
-        return ('<section class="taxon-section taxon-intro">\n<h2>' + heading + '</h2>\n'
+        return ('<section class="taxon-section taxon-intro">\n<h2>' + heading
+                + ' <span class="fact-en" lang="en">' + heading_en + '</span> '
+                  '<span class="fact-es" lang="es">' + heading_es + '</span></h2>\n'
                 + body
                 + '<p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；'
-                  '名录索引见<a href="%s/list/">名录</a>。</p>\n</section>\n' % SB)
+                  '名录索引见<a href="%s/list/">名录</a>。</p>\n'
+                  '<p class="fact-en" lang="en">This section is the standing account the site '
+                  'maintains for this rank and is updated on this page as the classification is '
+                  'revised; the checklist index is in the <a href="%s/list/">Checklist</a>.</p>\n'
+                  '<p class="fact-es" lang="es">Esta sección es la explicación permanente que el '
+                  'sitio mantiene para este nivel y se actualiza en esta página conforme se revisa '
+                  'la clasificación; el índice del listado está en el '
+                  '<a href="%s/list/">Listado</a>.</p>\n</section>\n' % (SB, SB, SB))
 
     def genus_intro(gen, mapped):
         fam = families[gen["family"]]
+        fam_latin = display_latin(fam["latin"])
         parts = ['本属隶属<a href="%s/family/%s/">%s <i>%s</i></a>'
-                 % (SB, fam["id"], fam["zh"], display_latin(fam["latin"]))]
+                 % (SB, fam["id"], fam["zh"], fam_latin)]
+        en_parts = ['This genus belongs to the family <a href="%s/family/%s/">%s <i>%s</i></a>'
+                    % (SB, fam["id"], fam["zh"], fam_latin)]
+        es_parts = ['Este género pertenece a la familia <a href="%s/family/%s/">%s <i>%s</i></a>'
+                    % (SB, fam["id"], fam["zh"], fam_latin)]
         if gen["subfamily"]:
             sub = subfamilies[gen["subfamily"]]
+            sub_latin = display_latin(sub["latin"])
             parts.append('下的<a href="%s/subfamily/%s/">%s <i>%s</i></a>'
-                         % (SB, sub["id"], sub["zh"], display_latin(sub["latin"])))
+                         % (SB, sub["id"], sub["zh"], sub_latin))
+            en_parts.append(', in the subfamily <a href="%s/subfamily/%s/">%s <i>%s</i></a>'
+                            % (SB, sub["id"], sub["zh"], sub_latin))
+            es_parts.append(', en la subfamilia <a href="%s/subfamily/%s/">%s <i>%s</i></a>'
+                            % (SB, sub["id"], sub["zh"], sub_latin))
         paragraphs = ["".join(parts) + "，本站收录 %s。"
                       % count_phrase(gen["species"], gen["subspecies"])]
+        en_paragraphs = ["".join(en_parts) + "; the site records %s."
+                         % count_phrase_en(gen["species"], gen["subspecies"])]
+        es_paragraphs = ["".join(es_parts) + "; el sitio registra %s."
+                         % count_phrase_es(gen["species"], gen["subspecies"])]
         if gen["type_species"]:
             paragraphs.append("模式种：<i>%s</i>。" % gen["type_species"])
+            en_paragraphs.append("Type species: <i>%s</i>." % gen["type_species"])
+            es_paragraphs.append("Especie tipo: <i>%s</i>." % gen["type_species"])
         if mapped:
             paragraphs.append("本页附有本属的分布图（GBIF 记录按 1° 网格汇总）；"
                               "点开物种条目可查看各自模式产地、分布与参考文献。")
+            en_paragraphs.append("This page includes a distribution map for the genus (GBIF "
+                                 "records aggregated on a 1° grid); open a species entry to see "
+                                 "its type locality, distribution, and references.")
+            es_paragraphs.append("Esta página incluye un mapa de distribución del género "
+                                 "(registros de GBIF agregados en una cuadrícula de 1°); abra "
+                                 "una entrada de especie para ver su localidad tipo, distribución "
+                                 "y referencias.")
         else:
             paragraphs.append("GBIF 中暂无本属带坐标的记录，本页因此不附图；"
                               "点开物种条目仍可查看各自模式产地与参考文献。")
+            en_paragraphs.append("GBIF has no georeferenced records for this genus, so this "
+                                 "page has no map; open a species entry to see its type "
+                                 "locality and references.")
+            es_paragraphs.append("GBIF no tiene registros con coordenadas para este género, "
+                                 "por lo que esta página no incluye mapa; abra una entrada de "
+                                 "especie para ver su localidad tipo y referencias.")
         body = "".join("<p>%s</p>\n" % text for text in paragraphs)
-        return '<section class="taxon-section taxon-intro" data-pagefind-ignore>\n<h2>属级介绍</h2>\n' + body + "</section>\n"
+        body_en = "".join('<p class="fact-en" lang="en">%s</p>\n' % text for text in en_paragraphs)
+        body_es = "".join('<p class="fact-es" lang="es">%s</p>\n' % text for text in es_paragraphs)
+        return ('<section class="taxon-section taxon-intro" data-pagefind-ignore>\n'
+                '<h2>属级介绍 <span class="fact-en" lang="en">About the genus</span> '
+                '<span class="fact-es" lang="es">Acerca del género</span></h2>\n'
+                + body + body_en + body_es + "</section>\n")
 
     # 数据键必须与 _data/ 里的文件名一致：_data/fauna_families.json → site.data.fauna_families。
     # 曾按单数拼成 fauna_family / fauna_genus，与文件名不匹配 → fz 恒为 nil，
@@ -692,43 +826,90 @@ def main():
     def genus_map_note(gen):
         fam = families[gen["family"]]
         links = ['<a href="%s/family/%s/">%s的科级分布图</a>' % (SB, fam["id"], fam["zh"])]
+        refs_en = ["the family map for <i>%s</i>" % display_latin(fam["latin"])]
+        refs_es = ["el mapa de la familia <i>%s</i>" % display_latin(fam["latin"])]
         if gen["subfamily"]:
             sub = subfamilies[gen["subfamily"]]
             links.append('<a href="%s/subfamily/%s/">%s的亚科级分布图</a>' % (SB, sub["id"], sub["zh"]))
-        return ('<section class="taxon-section taxon-distribution" data-pagefind-ignore>\n<h2>分布图</h2>\n'
+            refs_en.append("the subfamily map for <i>%s</i>" % display_latin(sub["latin"]))
+            refs_es.append("el mapa de la subfamilia <i>%s</i>" % display_latin(sub["latin"]))
+        en = ("GBIF has no georeferenced records for this genus, so this page has no "
+              "genus-level map; see %s." % " or ".join(refs_en))
+        es = ("GBIF no tiene registros con coordenadas para este género, por lo que esta "
+              "página no incluye un mapa de nivel de género; consulte %s." % " o ".join(refs_es))
+        return ('<section class="taxon-section taxon-distribution" data-pagefind-ignore>\n'
+                '<h2>分布图 <span class="fact-en" lang="en">Distribution map</span> '
+                '<span class="fact-es" lang="es">Mapa de distribución</span></h2>\n'
                 '<p class="taxon-map-empty">GBIF 中暂无该属带坐标的记录，因此本页没有属级地图；'
-                '可参考%s。</p>\n</section>\n' % "或".join(links))
+                '可参考%s。</p>\n'
+                '<p class="fact-en" lang="en">%s</p>\n'
+                '<p class="fact-es" lang="es">%s</p>\n</section>\n'
+                % ("或".join(links), en, es))
+
+    SCOPE_I18N = {
+        "科": ("this family", "esta familia"),
+        "亚科": ("this subfamily", "esta subfamilia"),
+        "属": ("this genus", "este género"),
+    }
 
     def search_box(scope_zh, anchors, species_count):
+        scope_en_this, scope_es_this = SCOPE_I18N[scope_zh]
+        label_en = ("Search within %s (%d species and subspecies): name, distribution, "
+                    "or type locality" % (scope_en_this, species_count))
+        label_es = ("Buscar en %s (%d %s y %s): nombre, distribución o localidad tipo"
+                    % (scope_es_this, species_count,
+                       "especie" if species_count == 1 else "especies",
+                       "subespecie" if species_count == 1 else "subespecies"))
+        hint_en = ("Filter the taxa recorded under %s by name and locality; for the whole "
+                   "site use full-text search." % scope_en_this)
+        hint_es = ("Filtre por nombre y localidad los taxones registrados en %s; para todo "
+                   "el sitio use la búsqueda de texto completo." % scope_es_this)
         return (
             '<div class="taxon-search" data-pagefind-ignore data-anchors="%s" '
             'data-index="%s/search-index.json" data-search-page="%s/search/">\n'
             '<label class="taxon-search-label" for="taxon-search-input">'
-            '在本%s范围内检索（%d 个种与亚种）：名字、分布或模式产地</label>\n'
+            '在本%s范围内检索（%d 个种与亚种）：名字、分布或模式产地 '
+            '<span class="fact-en" lang="en">%s</span> '
+            '<span class="fact-es" lang="es">%s</span></label>\n'
             '<input type="search" id="taxon-search-input" class="taxon-search-input" '
-            'placeholder="如 白蚁 / Amitermes / 澳大利亚" autocomplete="off" spellcheck="false" '
+            'placeholder="如 白蚁 / Amitermes / 澳大利亚 · e.g. termite / Amitermes / Australia · '
+            'p. ej. termita / Amitermes / Australia" autocomplete="off" spellcheck="false" '
             'role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">\n'
             '<p class="taxon-search-status" hidden></p>\n'
             '<ul class="taxon-search-results" hidden></ul>\n'
             '<p class="taxon-search-hint">按名字与产地筛选本%s登记的分类单元；全站网页请用'
             '<a href="%s/search/">全文搜索</a>。</p>\n'
+            '<p class="fact-en" lang="en">%s</p>\n'
+            '<p class="fact-es" lang="es">%s</p>\n'
             '</div>\n'
-            % (",".join(anchors), SB, SB, scope_zh, species_count, scope_zh, SB))
+            % (",".join(anchors), SB, SB, scope_zh, species_count, label_en, label_es,
+               scope_zh, SB, hint_en, hint_es))
 
     def etymology_section(gid):
-        """属级词源（zh + en），来自 _data/etymology.json（词根据 Brown 1956, S0018）。"""
+        """属级词源（zh + en + es），来自 _data/etymology.json（词根据 Brown 1956, S0018）。
+
+        西文段只在 `es` 字段非空时输出——缺失时整段跳过，绝不拿英文顶替。
+        """
         entry = (etym_genera or {}).get(gid)
         if not entry:
             return ""
         zh = html_escape((entry.get("zh") or "").strip())
         en = html_escape((entry.get("en") or "").strip())
+        es = html_escape((entry.get("es") or "").strip())
         out = ('<section class="taxon-section taxon-etymology" data-pagefind-ignore>\n'
-               '<h2>词源</h2>\n'
+               '<h2>词源 <span class="fact-en" lang="en">Etymology</span> '
+               '<span class="fact-es" lang="es">Etimología</span></h2>\n'
                '<p>%s</p>\n' % zh)
         if en:
-            out += '<p class="etymology-en" lang="en">%s</p>\n' % en
+            out += '<p class="etymology-en fact-en" lang="en">%s</p>\n' % en
+        if es:
+            out += '<p class="etymology-es fact-es" lang="es">%s</p>\n' % es
         out += ('<!-- src:S0018 -->\n'
                 '<p class="taxon-src">本节词源为拆解式整理，词根据 Brown (1956)。</p>\n'
+                '<p class="fact-en" lang="en">The etymologies in this section are analytical '
+                'breakdowns; the roots follow Brown (1956).</p>\n'
+                '<p class="fact-es" lang="es">Las etimologías de esta sección son '
+                'descomposiciones analíticas; las raíces siguen a Brown (1956).</p>\n'
                 '</section>\n')
         return out
 
@@ -745,22 +926,27 @@ def main():
                 items.append('<li><a href="%s/subfamily/%s/"><i>%s</i> %s</a> <span class="taxon-count">%s</span></li>'
                              % (SB, sid, sub["latin"], sub["zh"],
                                 count_phrase_full(0, len(sub["genera"]), sub["species"], sub["subspecies"])))
-            sections.append("<h2>亚科（%d）</h2>" % len(fam["subfamilies"]) + html_list(items))
+            sections.append("<h2>" + list_heading("亚科", len(fam["subfamilies"]),
+                                                   "Subfamily", "Subfamilies",
+                                                   "Subfamilia", "Subfamilias")
+                            + "</h2>" + html_list(items))
         genus_items = [genus_item(gid) for gid in fam["genera"]]
-        sections.append("<h2>属（%d）</h2>" % len(fam["genera"]) + html_list(genus_items))
+        sections.append("<h2>" + list_heading("属", len(fam["genera"]),
+                                              "Genus", "Genera", "Género", "Géneros")
+                        + "</h2>" + html_list(genus_items))
         body = (
             '<article class="taxon-page">\n'
             + crumb_nav("family", fam=fam) + "\n"
             + '<header class="taxon-header">\n'
             + '<h1>%s <i>%s</i></h1>\n' % (fam["zh"], display_latin(fam["latin"]))
-            + '<p class="taxon-meta">%s</p>\n' % stats_line(fam=fam)
+            + meta_line("family", fam=fam)
             + "</header>\n"
             + search_box("科", [fid] + fam["subfamilies"] + fam["genera"],
                          fam["species"] + fam["subspecies"])
             + figure_html(fid, fam["zh"])
             + distribution_section("family", fid)
             + photo_section("family", fid)
-            + intro_section(fid, "科级介绍")
+            + intro_section(fid, "科级介绍", "About the family", "Acerca de la familia")
             + fauna_section("family", fid)
             + keys_section("family", fid)
             + literature_section()
@@ -784,19 +970,21 @@ def main():
                   "taxonRank": "Family", "url": SB + "/family/" + fam["id"] + "/"}
         sections = []
         items = [genus_item(gid) for gid in sub["genera"]]
-        sections.append("<h2>属（%d）</h2>" % len(sub["genera"]) + html_list(items))
+        sections.append("<h2>" + list_heading("属", len(sub["genera"]),
+                                              "Genus", "Genera", "Género", "Géneros")
+                        + "</h2>" + html_list(items))
         body = (
             '<article class="taxon-page">\n'
             + crumb_nav("subfamily", fam=fam, sub=sub) + "\n"
             + '<header class="taxon-header">\n'
             + '<h1>%s <i>%s</i></h1>\n' % (sub["zh"], display_latin(sub["latin"]))
-            + '<p class="taxon-meta">%s · %s</p>\n' % (fam["zh"] + " " + fam["latin"], stats_line(sub=sub))
+            + meta_line("subfamily", fam=fam, sub=sub)
             + "</header>\n"
             + search_box("亚科", [sid] + sub["genera"], sub["species"] + sub["subspecies"])
             + figure_html(sid, sub["zh"])
             + distribution_section("subfamily", sid)
             + photo_section("subfamily", sid)
-            + intro_section(sid, "亚科级介绍")
+            + intro_section(sid, "亚科级介绍", "About the subfamily", "Acerca de la subfamilia")
             + keys_section("subfamily", sid)
             + literature_section()
             + "\n".join('<section class="taxon-section">\n' + s + "\n</section>" for s in sections) + "\n"
@@ -827,7 +1015,11 @@ def main():
             parent = {"@type": "Taxon", "name": display_latin(fam["latin"]),
                       "alternateName": [fam["zh"]], "taxonRank": "Family",
                       "url": SB + "/family/" + fam["id"] + "/"}
-        sections = ["<h2>物种（%s）</h2>" % count_phrase(gen["species"], gen["subspecies"])
+        sections = ['<h2>物种（%s） <span class="fact-en" lang="en">Species (%s)</span> '
+                    '<span class="fact-es" lang="es">Especies (%s)</span></h2>'
+                    % (count_phrase(gen["species"], gen["subspecies"]),
+                       count_phrase_en(gen["species"], gen["subspecies"]),
+                       count_phrase_es(gen["species"], gen["subspecies"]))
                     + html_list(species_items(gen))]
         mapped = has_geo("genus", gid)
         body = (
@@ -835,7 +1027,7 @@ def main():
             + crumb_nav("genus", fam=fam, sub=subfamilies.get(gen["subfamily"]), gen=gen) + "\n"
             + '<header class="taxon-header">\n'
             + '<h1>%s <i>%s</i></h1>\n' % (gen["zh"], display_latin(gen["latin"]))
-            + '<p class="taxon-meta">%s · %s</p>\n' % (fam["zh"] + " " + fam["latin"], stats_line(gen=gen))
+            + meta_line("genus", fam=fam, gen=gen)
             + "</header>\n"
             + search_box("属", [gid], gen["species"] + gen["subspecies"])
             + figure_html(gid, gen["zh"])

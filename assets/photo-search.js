@@ -26,7 +26,7 @@
   // 「在本页 N 张照片中检索」的 N 取实际渲染的卡片数：科 / 亚科 / 属页只渲染
   // 每种前 6 张，front matter 的 photo_count 是全部照片总数，不能直接用它。
   if (countEl) {
-    countEl.textContent = cards.length + ' 张';
+    countEl.textContent = cards.length + ' 张 / ' + cards.length + ' photos / ' + cards.length + ' fotos';
     countEl.hidden = false;
   }
   var groups = Array.prototype.slice.call(pageEl.querySelectorAll('.species-gallery'));
@@ -112,7 +112,7 @@
       if (group.__psBadge) {
         var groupTotal = group.querySelectorAll('.gallery-card').length;
         group.__psBadge.textContent = active
-          ? (visible + ' / ' + groupTotal + ' 张')
+          ? (visible + ' / ' + groupTotal + ' 张 / photos / fotos')
           : group.__psBadgeText;
       }
     }
@@ -120,8 +120,8 @@
     if (status) {
       status.hidden = !active;
       status.textContent = !active ? ''
-        : shown === 0 ? '没有匹配的照片（共 ' + total + ' 张）'
-        : '匹配 ' + shown + ' / ' + total + ' 张' + (speciesCount > 1 ? ' · ' + speciesCount + ' 种' : '');
+        : shown === 0 ? '没有匹配的照片（共 ' + total + ' 张）· No matching photos (' + total + ' in total) · No hay fotos coincidentes (' + total + ' en total)'
+        : '匹配 ' + shown + ' / ' + total + ' 张 · ' + shown + ' / ' + total + ' photos · ' + shown + ' / ' + total + ' fotos' + (speciesCount > 1 ? ' · ' + speciesCount + ' 种 · ' + speciesCount + ' species · ' + speciesCount + ' especies' : '');
     }
     if (empty) {
       empty.hidden = !(active && shown === 0);

@@ -26,7 +26,7 @@ synonym_localities: "South Africa: Orange Free State: Bloemfontein"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **哈维兰小白蚁**（*Microtermes havilandi*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）小白蚁属（*Microtermes*）的一种。本种由 Holmgren 于 1913 年描述，模式产地为 South Africa: Natal: Amanzimtoti; Natal: Stanford Hill; Zululand: Mfolozi Junction; Zululand: Somkele; Zululand: Umhlazinga。分布记录包括非洲南部、南非。本站记录本种有 1 个次异名。
 
@@ -34,7 +34,7 @@ EN — **哈维兰小白蚁** (*Microtermes havilandi*) is a species of the genu
 
 ES — **哈维兰小白蚁** (*Microtermes havilandi*) es una especie del género *Microtermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Holmgren en 1913; la localidad tipo es South Africa: Natal: Amanzimtoti; Natal: Stanford Hill; Zululand: Mfolozi Junction; Zululand: Somkele; Zululand: Umhlazinga. Distribución: southern Africa, South Africa. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Microtermes*：属名由希腊文 mikros（小）与拉丁文 termes（白蚁）组合，意为「小白蚁」。
 
@@ -46,23 +46,27 @@ EN — epithet *havilandi*: Named after the entomologist G. D. Haviland
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[小白蚁属 *Microtermes*]({{ site.base_url }}/genus/microtermes/) —— 共 69 种（69 species · 69 especies）
 - **本属模式种 Type species / Especie tipo**：*Microtermes incertus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：非洲南部、南非
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲南部、南非
 - **英文记录 English record / Registro en inglés**：southern Africa, South Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Microtermes havilandi intermedius* Fuller, 1922: 98-99 —— 模式产地：South Africa: Orange Free State: Bloemfontein
 

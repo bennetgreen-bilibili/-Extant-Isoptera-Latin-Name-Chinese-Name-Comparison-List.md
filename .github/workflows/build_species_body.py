@@ -296,6 +296,37 @@ def html_link(label, path):
     return "[%s](%s%s)" % (label, SITE, path)
 
 
+def inline_bi(zh, en, es):
+    """中文在前 + 行内英/西（i18n 规范 §1.1）：中文不加 .fact-zh，英/西各自包 span。"""
+    return '%s <span class="fact-en" lang="en">%s</span> <span class="fact-es" lang="es">%s</span>' % (
+        zh, en, es)
+
+
+def bi_paragraphs(en, es):
+    """整段式英/西（i18n 规范 §1.2）：返回以空行分隔的 <p> 块。
+
+    注意：kramdown 不解析原始 HTML 块里的 Markdown，所以进入这里的文本必须
+    已是 HTML（学名用 <i>…</i>，不能写 *…*）。
+    """
+    return [
+        "",
+        '<p class="fact-en" lang="en">%s</p>' % en,
+        "",
+        '<p class="fact-es" lang="es">%s</p>' % es,
+    ]
+
+
+def html_text(value):
+    """放进原始 HTML 段落的文本：只转义会破坏标签的三个字符。"""
+    return clean(value).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def pick_es(entry):
+    """_data/etymology.json 条目的 es 字段；缺失 / 非字符串一律视为没有（绝不回落英文）。"""
+    value = (entry or {}).get("es")
+    return value.strip() if isinstance(value, str) else ""
+
+
 def classify(rank, is_type, genus_info):
     if rank == "subspecies":
         return "一个亚种"
@@ -351,16 +382,23 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
         klass = classify(rank, is_type, genus_info)
         lead = "**%s**（*%s*）是%s%s（*%s*）的%s" % (
             zh, latin, fam_phrase, genus_zh, genus_latin, klass)
-        klass_en = ("the only extant species" if klass == "现存唯一种"
-                    else ("a species and the type species of its genus" if klass == "一种，也是本属的模式种"
-                          else "a species"))
-        klass_es = ("la única especie viviente" if klass == "现存唯一种"
-                    else ("una especie, y la especie tipo de su género" if klass == "一种，也是本属的模式种"
-                          else "una especie"))
-        lead_en = "**%s** (*%s*) is %s of the genus *%s*, in %s" % (
-            zh, latin, klass_en, genus_latin, fam_en)
-        lead_es = "**%s** (*%s*) es %s del género *%s*, en %s" % (
-            zh, latin, klass_es, genus_latin, fam_es)
+        # 英文/西文按同一优先级分三支直接拼整句：早期版本把 "of its genus" 与
+        # "of the genus *X*" 接在一起，产生了 "of its genus of the genus *X*" 的重复。
+        if gcount == 1:
+            lead_en = "**%s** (*%s*) is the only extant species of the genus *%s*, in %s" % (
+                zh, latin, genus_latin, fam_en)
+            lead_es = "**%s** (*%s*) es la única especie viviente del género *%s*, en %s" % (
+                zh, latin, genus_latin, fam_es)
+        elif is_type:
+            lead_en = "**%s** (*%s*) is a species and the type species of the genus *%s*, in %s" % (
+                zh, latin, genus_latin, fam_en)
+            lead_es = "**%s** (*%s*) es una especie, y la especie tipo del género *%s*, en %s" % (
+                zh, latin, genus_latin, fam_es)
+        else:
+            lead_en = "**%s** (*%s*) is a species of the genus *%s*, in %s" % (
+                zh, latin, genus_latin, fam_en)
+            lead_es = "**%s** (*%s*) es una especie del género *%s*, en %s" % (
+                zh, latin, genus_latin, fam_es)
 
     sents = [lead + "。"]
     sents_en = [lead_en + "."]
@@ -404,7 +442,8 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
         sents.append("本站记录本%s有 %s 个次异名。" % (rank_word, syn_count))
         sents_en.append("This site records %s junior synonym%s for the %s." % (syn_count, "" if syn_count == "1" else "s", rank_en))
         sents_es.append("Este sitio registra %s sinónimo%s junior para la %s." % (syn_count, "" if syn_count == "1" else "s", rank_es))
-    lines += ["## 摘要", "", "".join(sents), "", "EN — " + " ".join(sents_en), "", "ES — " + " ".join(sents_es)]
+    lines += ["## %s" % inline_bi("摘要", "Summary", "Resumen"), "",
+              "".join(sents), "", "EN — " + " ".join(sents_en), "", "ES — " + " ".join(sents_es)]
 
     # ---- 词源 -------------------------------------------------------------
     ety = meta.get("etymology") or {}
@@ -413,21 +452,30 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     epithet = _parts[-1].lower() if _parts else ""
     ety_epi = (ety.get("epithets") or {}).get(epithet)
     if ety_gen or ety_epi:
-        lines += ["", "## 词源", ""]
+        lines += ["", "## %s" % inline_bi("词源", "Etymology", "Etimología"), ""]
         if ety_gen:
             lines.append("属名 *%s*：%s" % (genus_latin, md_escape(ety_gen.get("zh") or "")))
             lines.append("")
             lines.append("EN — *%s*: %s" % (genus_latin, md_escape(ety_gen.get("en") or "")))
+            es_gen = md_escape(pick_es(ety_gen))
+            if es_gen:
+                # 数据里还没有 es 时整段不出，绝不用英文顶替（i18n 规范 §4 第 3 条）。
+                lines.append("")
+                lines.append("ES — *%s*: %s" % (genus_latin, es_gen))
             lines.append("")
         if ety_epi:
             lines.append("种加词 *%s*：%s" % (epithet, md_escape(ety_epi.get("zh") or "")))
             lines.append("")
             lines.append("EN — epithet *%s*: %s" % (epithet, md_escape(ety_epi.get("en") or "")))
+            es_epi = md_escape(pick_es(ety_epi))
+            if es_epi:
+                lines.append("")
+                lines.append("ES — epithet *%s*: %s" % (epithet, es_epi))
             lines.append("")
         lines.append("<!-- src:S0018 -->")
 
     # ---- 分类位置 ---------------------------------------------------------
-    lines += ["", "## 分类位置", ""]
+    lines += ["", "## %s" % inline_bi("分类位置", "Taxonomic position", "Posición taxonómica"), ""]
     fam_stat = ""
     if fam:
         _fg, _fs = fam.get("genera", "?"), fam.get("species", "?")
@@ -466,31 +514,62 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
 
     # ---- 分布 -------------------------------------------------------------
     if own_dist:
-        lines += ["", "## 分布", ""]
+        lines += ["", "## %s" % inline_bi("分布", "Distribution", "Distribución"), ""]
         if native:
-            lines.append("- **分布记录**：%s" % join_zh(native))
+            lines.append("- %s：%s" % (
+                inline_bi("**分布记录**", "Distribution records", "Registros de distribución"), join_zh(native)))
         if introduced:
-            lines.append("- **引入记录**：%s" % join_zh(introduced))
+            lines.append("- %s：%s" % (
+                inline_bi("**引入记录**", "Introduced records", "Registros de introducción"), join_zh(introduced)))
         if notes:
-            lines.append("- **补充记录**：%s" % "；".join(notes))
+            lines.append("- %s：%s" % (
+                inline_bi("**补充记录**", "Additional records", "Registros adicionales"), "；".join(notes)))
         if clean(fm.get("distribution_en")):
             lines.append("- **英文记录 English record / Registro en inglés**：%s" % md_escape(fm.get("distribution_en")))
         lines += ["", "以上记录沿用原始数据的写法，未做地理编码与译名统一。"]
+        lines += bi_paragraphs(
+            "The records above follow the wording of the original data; no geocoding or standardized place names have been applied.",
+            "Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.")
     elif parent_fm:
-        lines += ["", "## 分布", ""]
+        lines += ["", "## %s" % inline_bi("分布", "Distribution", "Distribución"), ""]
+        parent_zh = join_zh(parent_native) or "未记录"
         lines.append("本亚种暂未单列分布记录；母种 *%s* 的分布为：%s。" % (
-            clean(parent_fm.get("latin")), join_zh(parent_native) or "未记录"))
-        if clean(parent_fm.get("distribution_en")):
-            lines += ["", "母种英文记录：%s。" % md_escape(parent_fm.get("distribution_en"))]
+            clean(parent_fm.get("latin")), parent_zh))
+        parent_en = clean(parent_fm.get("distribution_en"))
+        if parent_en:
+            # 母种英文记录就排在下面一段，英/西段落指过去，避免同一句数据出现两次。
+            en_tail = "is given in the English record of the parent species below."
+            es_tail = "se indica en el registro en inglés de la especie parental que figura a continuación."
+        else:
+            en_tail = "is: %s." % html_text(parent_zh)
+            es_tail = "es: %s." % html_text(parent_zh)
+        parent_html = html_text(clean(parent_fm.get("latin")))
+        lines += bi_paragraphs(
+            "No separate distribution record is listed for this subspecies; the distribution of the parent species <i>%s</i> %s" % (parent_html, en_tail),
+            "No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>%s</i> %s" % (parent_html, es_tail))
+        if parent_en:
+            lines += ["", "%s：%s。" % (
+                inline_bi("母种英文记录", "English record of the parent species", "Registro en inglés de la especie parental"),
+                md_escape(parent_en))]
 
     # ---- 次异名 -----------------------------------------------------------
     syns = parse_list(fm.get("synonyms"))
     locs = parse_list(fm.get("synonym_localities"))
     authority_syns = parse_list(fm.get("authority_synonyms"))
     if syns or authority_syns:
-        lines += ["", "## 次异名", ""]
+        lines += ["", "## %s" % inline_bi("次异名", "Junior synonyms", "Sinónimos junior"), ""]
     if syns:
-        lines.append("本站记录本%s有 %d 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：" % (rank_word, len(syns)))
+        n_syn = len(syns)
+        one = n_syn == 1
+        lead_en = "This site records %d junior synonym%s for the %s, listed by %s original literature source" % (
+            n_syn, "" if one else "s", rank_en, "its" if one else "their")
+        if one:
+            lead_es = "Este sitio registra %d sinónimo junior para la %s, ordenado según su fuente bibliográfica original" % (n_syn, rank_es)
+        else:
+            lead_es = "Este sitio registra %d sinónimos junior para la %s, ordenados según sus fuentes bibliográficas originales" % (n_syn, rank_es)
+        lines.append("%s：" % inline_bi(
+            "本站记录本%s有 %d 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出" % (rank_word, n_syn),
+            lead_en, lead_es))
         lines.append("")
         for i, entry in enumerate(syns, 1):
             name, auth = split_synonym(entry)
@@ -520,8 +599,14 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     if authority_syns:
         authority_locs = parse_list(fm.get("authority_synonym_localities"))
         authority_srcs = parse_list(fm.get("authority_synonym_sources"))
-        lines += ["", "### 依外部权威库补录的异名", ""]
-        lines.append("外部权威库在命名对照中把下列名字记为本%s的异名，已补录在案；本名录中它们另有独立记录，是否合并待定：" % rank_word)
+        lines += ["", "### %s" % inline_bi(
+            "依外部权威库补录的异名",
+            "Synonyms recorded from external authorities",
+            "Sinónimos registrados desde autoridades externas"), ""]
+        lines.append("%s：" % inline_bi(
+            "外部权威库在命名对照中把下列名字记为本%s的异名，已补录在案；本名录中它们另有独立记录，是否合并待定" % rank_word,
+            "The external authorities give the following names as synonyms of this %s; they are recorded here for review, and each of them keeps its own record in this checklist for the time being" % rank_en,
+            "Las autoridades externas dan los siguientes nombres como sinónimos de esta %s; se registran aquí para su revisión y cada uno conserva por ahora su propio registro en esta lista" % rank_es))
         lines.append("")
         for i, entry in enumerate(authority_syns):
             name, auth = split_synonym(entry)
@@ -539,8 +624,12 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
     # ---- 亚种 -------------------------------------------------------------
     subs = subs_of_parent.get(latin) or []
     if subs:
-        lines += ["", "## 亚种", ""]
-        lines.append("本种下分 %d 个亚种（subspecies / subespecies）：" % len(subs))
+        n_sub = len(subs)
+        lines += ["", "## %s" % inline_bi("亚种", "Subspecies", "Subespecies"), ""]
+        lines.append("%s：" % inline_bi(
+            "本种下分 %d 个亚种（subspecies / subespecies）" % n_sub,
+            "This species includes %d subspecies" % n_sub,
+            "Esta especie incluye %d %s" % (n_sub, "subespecie" if n_sub == 1 else "subespecies")))
         lines.append("")
         for sub in subs:
             extra = []
@@ -552,7 +641,7 @@ def build_body(fm, meta, subs_of_parent, parent_fm):
             lines.append("- %s%s" % (
                 html_link("*%s* %s" % (sub["latin"], sub["zh"]), "/species/%s/" % sub["slug"]), suffix))
 
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip("\n")
 
 # ------------------------------------------------------------------- assembly
 def assemble(head, body, block, nl):
@@ -651,7 +740,7 @@ def main():
     short = [s for s, b in bodies.items() if len(b) < 400]
     summaries = set()
     for b in bodies.values():
-        m = re.search(r"## 摘要\s*\n\s*\n(.*)", b)
+        m = re.search(r"## 摘要[^\n]*\n\s*\n(.*)", b)
         summaries.add(m.group(1).strip() if m else "")
     print("pages: %d" % len(bodies))
     print("body chars: min=%d  median=%d  max=%d" % (

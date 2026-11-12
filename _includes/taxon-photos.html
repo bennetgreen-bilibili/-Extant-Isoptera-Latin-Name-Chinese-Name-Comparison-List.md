@@ -35,9 +35,11 @@
 <div class="taxon-photos{% unless include.grouped %} species-gallery{% endunless %}">
   {%- if include.more -%}
   <div class="gallery-head taxon-photos-head">
-    <h2 class="gallery-title" id="taxon-photos-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ tp_total }} 张 · {{ tp_species }} 种</span></h2>
+    <h2 class="gallery-title" id="taxon-photos-title">图片 <span class="fact-en" lang="en">Photos</span> <span class="fact-es" lang="es">Fotos</span> <span class="gallery-count">{{ tp_total }} 张 · {{ tp_species }} 种 <span class="fact-en" lang="en">{{ tp_total }} photo{% if tp_total != 1 %}s{% endif %} · {{ tp_species }} species</span> <span class="fact-es" lang="es">{{ tp_total }} foto{% if tp_total != 1 %}s{% endif %} · {{ tp_species }} especie{% if tp_species != 1 %}s{% endif %}</span></span></h2>
     <p class="gallery-lead">开放许可照片，点击可放大浏览。这里先展示 {{ tp_limit }} 张，按种查看请进「全部图片」。图片热链自 iNaturalist / Wikimedia Commons，版权归原作者。</p>
-    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}/{{ tp_kind }}/{{ tp_id }}/photos/">查看全部 {{ tp_total }} 张 <span aria-hidden="true">→</span></a></p>
+    <p class="gallery-lead fact-en" lang="en">Freely licensed photos; click to enlarge. This preview shows {{ tp_limit }} photo{% if tp_limit != 1 %}s{% endif %}; to browse by species, open “All photos”. Photos are hotlinked from iNaturalist / Wikimedia Commons; the rights stay with the photographers.</p>
+    <p class="gallery-lead fact-es" lang="es">Fotos con licencia libre; haga clic para ampliar. Esta vista previa muestra {{ tp_limit }} foto{% if tp_limit != 1 %}s{% endif %}; para explorar por especies, abra «Todas las fotos». Las fotos se enlazan desde iNaturalist / Wikimedia Commons; los derechos son de sus autores.</p>
+    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}/{{ tp_kind }}/{{ tp_id }}/photos/">查看全部 {{ tp_total }} 张 <span class="fact-en" lang="en">View all {{ tp_total }} photo{% if tp_total != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">Ver todas las fotos ({{ tp_total }})</span> <span aria-hidden="true">→</span></a></p>
   </div>
   {%- endif -%}
   {%- if include.grouped -%}
@@ -47,7 +49,7 @@
     {%- assign tp_label = sp.latin | append: ' ' | append: sp.zh -%}
   <section class="species-gallery taxon-photos-group" aria-label="{{ tp_label | escape }}">
     <div class="gallery-head">
-      <h3 class="gallery-title gallery-species"><a href="{{ site.base_url }}{{ sp.url }}"><i>{{ sp.latin }}</i> {{ sp.zh }}</a> <span class="gallery-count">{{ tp_count.size }} 张</span></h3>
+      <h3 class="gallery-title gallery-species"><a href="{{ site.base_url }}{{ sp.url }}"><i>{{ sp.latin }}</i> {{ sp.zh }}</a> <span class="gallery-count">{{ tp_count.size }} 张 <span class="fact-en" lang="en">{{ tp_count.size }} photo{% if tp_count.size != 1 %}s{% endif %}</span> <span class="fact-es" lang="es">{{ tp_count.size }} foto{% if tp_count.size != 1 %}s{% endif %}</span></span></h3>
     </div>
     <div class="gallery-grid">
       {%- for photo in tp_count -%}
@@ -56,7 +58,7 @@
       {%- endfor -%}
     </div>
     {%- if tp_limit > 0 and tp_count.size > tp_limit %}
-    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ sp.url }}photos/">该种全部 {{ tp_count.size }} 张 <span aria-hidden="true">→</span></a></p>
+    <p class="gallery-more-row"><a class="gallery-more" href="{{ site.base_url }}{{ sp.url }}photos/">该种全部 {{ tp_count.size }} 张 <span class="fact-en" lang="en">View all {{ tp_count.size }} photo{% if tp_count.size != 1 %}s{% endif %} of this species</span> <span class="fact-es" lang="es">Ver todas las fotos de esta especie ({{ tp_count.size }})</span> <span aria-hidden="true">→</span></a></p>
     {%- endif -%}
   </section>
     {%- endif -%}

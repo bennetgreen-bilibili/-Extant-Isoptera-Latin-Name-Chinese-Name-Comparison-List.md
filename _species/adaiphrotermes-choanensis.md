@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **乔安和白蚁**（*Adaiphrotermes choanensis*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）和白蚁属（*Adaiphrotermes*）的一种。本种由 Fuller 于 1925 年描述，模式产地为 South Africa: Pretoria: Arcadia。分布记录包括肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦。
 
@@ -32,7 +32,7 @@ EN — **乔安和白蚁** (*Adaiphrotermes choanensis*) is a species of the gen
 
 ES — **乔安和白蚁** (*Adaiphrotermes choanensis*) es una especie del género *Adaiphrotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Fuller en 1925; la localidad tipo es South Africa: Pretoria: Arcadia. Distribución: Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Adaiphrotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -44,17 +44,21 @@ EN — epithet *choanensis*: Named after the locality Choan
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[和白蚁属 *Adaiphrotermes*]({{ site.base_url }}/genus/adaiphrotermes/) —— 共 3 种（3 species · 3 especies）
 - **本属模式种 Type species / Especie tipo**：*Adaiphrotermes cuniculator*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

@@ -24,7 +24,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **长头无毛白蚁**（*Apilitermes longiceps*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）无毛白蚁属（*Apilitermes*）的现存唯一种。本种由 Sjöstedt 于 1899 年描述，模式产地为 Cameroon: Victoria。分布记录包括旧热带界、刚果、尼日利亚。
 
@@ -32,7 +32,7 @@ EN — **长头无毛白蚁** (*Apilitermes longiceps*) is the only extant speci
 
 ES — **长头无毛白蚁** (*Apilitermes longiceps*) es la única especie viviente del género *Apilitermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Sjöstedt en 1899; la localidad tipo es Cameroon: Victoria. Distribución: Old World tropics, Congo, Nigeria.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Apilitermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -44,16 +44,20 @@ EN — epithet *longiceps*: Latin longus (long) + -ceps (head), long-headed
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[无毛白蚁属 *Apilitermes*]({{ site.base_url }}/genus/apilitermes/) —— 单型属，仅含 1 种（monotypic, 1 species · monotípico, 1 especie）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：旧热带界、刚果、尼日利亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：旧热带界、刚果、尼日利亚
 - **英文记录 English record / Registro en inglés**：Old World tropics, Congo, Nigeria
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

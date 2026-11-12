@@ -25,7 +25,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **弓形亚种**（*Euchilotermes tensus arcuata*）是拉长真唇白蚁（*Euchilotermes tensus*）的一个亚种，隶属白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）真唇白蚁属（*Euchilotermes*）。本亚种由 Silvestri 于 1914 年描述，模式产地为 Guinea: Camayenne; Conakry; Kakoulima。本页暂无单列的分布记录，母种 *Euchilotermes tensus* 的分布见下文「分布」一节。
 
@@ -33,7 +33,7 @@ EN — **弓形亚种** (*Euchilotermes tensus arcuata*) is a subspecies of *Euc
 
 ES — **弓形亚种** (*Euchilotermes tensus arcuata*) es una subespecie de *Euchilotermes tensus*, en la familia TERMITIDAE (subfamilia Cubitermitinae), género *Euchilotermes*. La subespecie fue descrita por Silvestri en 1914; la localidad tipo es Guinea: Camayenne; Conakry; Kakoulima. No se incluye un registro de distribución separado en esta página; véase la especie parental *Euchilotermes tensus*.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Euchilotermes*：属名由希腊文 eu-（良好）+ cheilos（唇、缘）与拉丁文 termes（白蚁）组合。
 
@@ -45,7 +45,7 @@ EN — epithet *arcuata*: Latin arcuatus (bowed, arcuate)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
@@ -53,9 +53,13 @@ EN — epithet *arcuata*: Latin arcuatus (bowed, arcuate)
 - **种 Species / Especie**：[拉长真唇白蚁 *Euchilotermes tensus*]({{ site.base_url }}/species/euchilotermes-tensus/)
 - **亚种 Subspecies / Subespecie**：本页（*Euchilotermes tensus arcuata*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Euchilotermes tensus* 的分布为：西非、冈比亚、几内亚、塞拉利昂、加纳、科特迪瓦、尼日利亚、喀麦隆。
 
-母种英文记录：West Africa, Gambia, Guinea, Sierra Leone, Ghana, Côte d'Ivoire, Nigeria, Cameroon。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Euchilotermes tensus</i> is given in the English record of the parent species below.</p>
+
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Euchilotermes tensus</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
+
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：West Africa, Gambia, Guinea, Sierra Leone, Ghana, Côte d'Ivoire, Nigeria, Cameroon。
 <!-- AUTO:END -->

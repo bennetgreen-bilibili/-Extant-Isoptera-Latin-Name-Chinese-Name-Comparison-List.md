@@ -26,7 +26,7 @@ synonym_localities: "Congo: Loubetsi; Democratic Republic of the Congo: Kisangan
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **近邻等颚白蚁**（*Isognathotermes finitimus*）是白蚁科（TERMITIDAE）方白蚁亚科（Cubitermitinae）等颚白蚁属（*Isognathotermes*）的一种。本种由 Schmitz 于 1916 年描述，模式产地为 Democratic Republic of the Congo: Kisangani (Stanleyville)。分布记录包括非洲热带。本站记录本种有 3 个次异名。
 
@@ -34,7 +34,7 @@ EN — **近邻等颚白蚁** (*Isognathotermes finitimus*) is a species of the 
 
 ES — **近邻等颚白蚁** (*Isognathotermes finitimus*) es una especie del género *Isognathotermes*, en la familia TERMITIDAE (subfamilia Cubitermitinae). La especie fue descrita por Schmitz en 1916; la localidad tipo es Democratic Republic of the Congo: Kisangani (Stanleyville). Distribución: tropical Africa. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Isognathotermes*：属名由希腊文 isos（相等）+ gnathos（颚）与拉丁文 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *finitimus*: Latin finitimus (neighbouring)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[方白蚁亚科 Cubitermitinae]({{ site.base_url }}/subfamily/cubitermitinae/) —— 本站收录 28 属 149 种（28 genera, 149 species · 28 géneros, 149 especies）
 - **属 Genus / Género**：[等颚白蚁属 *Isognathotermes*]({{ site.base_url }}/genus/isognathotermes/) —— 共 16 种（16 species · 16 especies）
 - **本属模式种 Type species / Especie tipo**：*Isognathotermes minitabundus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：非洲热带
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：非洲热带
 - **英文记录 English record / Registro en inglés**：tropical Africa
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Cubitermes loubetsiensis* Sjöstedt, 1924: 493 —— 模式产地：Congo: Loubetsi
 2. *Cubitermes subarquatus* Sjöstedt, 1926: 244-245 —— 模式产地：Democratic Republic of the Congo: Kisangani (Stanleyville)

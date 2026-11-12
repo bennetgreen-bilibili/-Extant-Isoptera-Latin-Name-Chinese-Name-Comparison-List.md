@@ -23,15 +23,15 @@ synonym_localities: "Honduras: ?; Guatemala: ?; Dominica: Laudat; United States:
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **栗色新白蚁**（*Neotermes castaneus*）是木白蚁科（KALOTERMITIDAE）新白蚁属（*Neotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Puerto Rico: ?。分布记录包括中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）。本站记录本种有 4 个次异名。
 
-EN — **栗色新白蚁** (*Neotermes castaneus*) is a species and the type species of its genus of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Puerto Rico: ?. Distribution: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). This site records 4 junior synonyms for the species.
+EN — **栗色新白蚁** (*Neotermes castaneus*) is a species and the type species of the genus *Neotermes*, in the family KALOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Puerto Rico: ?. Distribution: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). This site records 4 junior synonyms for the species.
 
-ES — **栗色新白蚁** (*Neotermes castaneus*) es una especie, y la especie tipo de su género del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
+ES — **栗色新白蚁** (*Neotermes castaneus*) es una especie, y la especie tipo del género *Neotermes*, en la familia KALOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Puerto Rico: ?. Distribución: Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela). Este sitio registra 4 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Neotermes*：属名由希腊文 neos（新）与拉丁文 termes（白蚁）组合。
 
@@ -43,21 +43,25 @@ EN — epithet *castaneus*: Latin castaneus (chestnut)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[木白蚁科 KALOTERMITIDAE]({{ site.base_url }}/family/kalotermitidae/) —— 本站收录 23 属 480 种（23 genera, 480 species · 23 géneros, 480 especies）
 - **属 Genus / Género**：[新白蚁属 *Neotermes*]({{ site.base_url }}/genus/neotermes/) —— 共 121 种（121 species · 121 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）
 - **英文记录 English record / Registro en inglés**：Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela)
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes anticus* Walker, 1853: 523 —— 模式产地：Honduras: ?
 2. *Termes guatimalae* Walker, 1853: 528 —— 模式产地：Guatemala: ?

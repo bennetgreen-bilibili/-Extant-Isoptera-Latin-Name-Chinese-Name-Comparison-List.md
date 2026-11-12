@@ -21,17 +21,19 @@ breadcrumb:
     url: "/subfamily/foraminitermitinae/"
 ---
 <article class="taxon-page">
-<nav class="taxon-crumbs" aria-label="分类位置"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/foraminitermitinae/">孔白蚁亚科</a> › <span>本亚科</span></nav>
+<nav class="taxon-crumbs" aria-label="分类位置 · Taxonomic position · Posición taxonómica"><a href="{{ site.base_url }}/list/">名录</a> › <a href="{{ site.base_url }}/family/termitidae/">白蚁科</a> › <a href="{{ site.base_url }}/subfamily/foraminitermitinae/">孔白蚁亚科</a> › <span>本亚科 <span class="fact-en" lang="en">This subfamily</span> <span class="fact-es" lang="es">Esta subfamilia</span></span></nav>
 <header class="taxon-header">
 <h1>孔白蚁亚科 <i>Foraminitermitinae</i></h1>
-<p class="taxon-meta">白蚁科 TERMITIDAE · 3 属 · 10 种</p>
+<p class="taxon-meta">白蚁科 TERMITIDAE · 3 属 · 10 种 <span class="fact-en" lang="en">Family <i>Termitidae</i> · 3 genera · 10 species</span> <span class="fact-es" lang="es">Familia <i>Termitidae</i> · 3 géneros · 10 especies</span></p>
 </header>
 <div class="taxon-search" data-pagefind-ignore data-anchors="foraminitermitinae,foraminitermes,labritermes,pseudomicrotermes" data-index="{{ site.base_url }}/search-index.json" data-search-page="{{ site.base_url }}/search/">
-<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内检索（10 个种与亚种）：名字、分布或模式产地</label>
-<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
+<label class="taxon-search-label" for="taxon-search-input">在本亚科范围内检索（10 个种与亚种）：名字、分布或模式产地 <span class="fact-en" lang="en">Search within this subfamily (10 species and subspecies): name, distribution, or type locality</span> <span class="fact-es" lang="es">Buscar en esta subfamilia (10 especies y subespecies): nombre, distribución o localidad tipo</span></label>
+<input type="search" id="taxon-search-input" class="taxon-search-input" placeholder="如 白蚁 / Amitermes / 澳大利亚 · e.g. termite / Amitermes / Australia · p. ej. termita / Amitermes / Australia" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="taxon-search-results" aria-autocomplete="list">
 <p class="taxon-search-status" hidden></p>
 <ul class="taxon-search-results" hidden></ul>
 <p class="taxon-search-hint">按名字与产地筛选本亚科登记的分类单元；全站网页请用<a href="{{ site.base_url }}/search/">全文搜索</a>。</p>
+<p class="fact-en" lang="en">Filter the taxa recorded under this subfamily by name and locality; for the whole site use full-text search.</p>
+<p class="fact-es" lang="es">Filtre por nombre y localidad los taxones registrados en esta subfamilia; para todo el sitio use la búsqueda de texto completo.</p>
 </div>
 
 <figure class="taxa-illustration">
@@ -39,21 +41,23 @@ breadcrumb:
   <figcaption><i>Labritermes</i> sp. 唇白蚁 · 摄影者放弃版权（<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh">CC0 1.0</a>）· <a href="https://www.inaturalist.org/photos/461877787">iNaturalist</a></figcaption>
 </figure>
 <section class="taxon-section taxon-distribution" data-pagefind-ignore>
-<h2>分布图</h2>
+<h2>分布图 <span class="fact-en" lang="en">Distribution map</span> <span class="fact-es" lang="es">Mapa de distribución</span></h2>
 {% include distribution-map.html mode="subfamily" id="foraminitermitinae" %}
 </section>
 <section class="taxon-section taxon-intro">
-<h2>亚科级介绍</h2>
+<h2>亚科级介绍 <span class="fact-en" lang="en">About the subfamily</span> <span class="fact-es" lang="es">Acerca de la subfamilia</span></h2>
 <p>孔白蚁亚科由 Holmgren 于 1912 年建立，模式属为孔白蚁属 Foraminitermes Holmgren, 1912；亚科名取自模式属（拉丁 foramen，指其囟门结构）。本名录收录 3 属 10 种。</p>
 <p>分布兼及旧热带界（西非、中非至东非）与东洋界（马来半岛与东南亚）。食性以食土（腐殖质）为主，地下栖居，常活动于其他白蚁旧垅基部，十分稀有。形态上，兵蚁头近长方形、背腹略扁平，额区具一枚明显而稍凹陷的囟门；上颚属大颚型粗壮、缓弯而缘齿清晰，行咀嚼而非弹颚；工蚁上颚为食土型，肠瓣具棘状饰构，为本亚科近缘区分的重要鉴别依据。分类演化地位特殊：部分转录组与线粒体系统发育分析均将本亚科置于本科最基部的分化位置之一(21)，与圆球白蚁亚科及培菌的大白蚁亚科构成近缘的早期分支，是研究本科早期演化（尤其是食性转变与肠道共生微生物区系的起源）的关键狭域孑遗支系。</p>
 <p class="taxon-src">本节是本站为这一级分类维护的常设说明，随分类修订在本页更新；名录索引见<a href="{{ site.base_url }}/list/">名录</a>。</p>
+<p class="fact-en" lang="en">This section is the standing account the site maintains for this rank and is updated on this page as the classification is revised; the checklist index is in the <a href="{{ site.base_url }}/list/">Checklist</a>.</p>
+<p class="fact-es" lang="es">Esta sección es la explicación permanente que el sitio mantiene para este nivel y se actualiza en esta página conforme se revisa la clasificación; el índice del listado está en el <a href="{{ site.base_url }}/list/">Listado</a>.</p>
 </section>
 {% include taxon-literature.html %}
 <section class="taxon-section">
-<h2>属（3）</h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/foraminitermes/"><i>Foraminitermes</i> 孔白蚁属</a> <span class="taxon-count">6 种</span></li><li><a href="{{ site.base_url }}/genus/labritermes/"><i>Labritermes</i> 唇白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/pseudomicrotermes/"><i>Pseudomicrotermes</i> 伪小白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
+<h2>属（3） <span class="fact-en" lang="en">Genera (3)</span> <span class="fact-es" lang="es">Géneros (3)</span></h2><ul class="taxon-list"><li><a href="{{ site.base_url }}/genus/foraminitermes/"><i>Foraminitermes</i> 孔白蚁属</a> <span class="taxon-count">6 种</span></li><li><a href="{{ site.base_url }}/genus/labritermes/"><i>Labritermes</i> 唇白蚁属</a> <span class="taxon-count">3 种</span></li><li><a href="{{ site.base_url }}/genus/pseudomicrotermes/"><i>Pseudomicrotermes</i> 伪小白蚁属</a> <span class="taxon-count">1 种</span></li></ul>
 </section>
-<p class="taxon-more">上一级：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
-<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a></p>
+<p class="taxon-more">上一级 <span class="fact-en" lang="en">Parent level</span> <span class="fact-es" lang="es">Nivel superior</span>：<a href="{{ site.base_url }}/list/">名录索引</a> · <a href="{{ site.base_url }}/family/termitidae/">白蚁科 <i>Termitidae</i></a> · <a href="{{ site.base_url }}/data/">数据与下载</a></p>
+<p class="taxon-back"><a href="{{ site.base_url }}/list/">← 返回名录索引</a> · <a href="{{ site.base_url }}/">首页</a> <span class="fact-en" lang="en">Back to the checklist · Home</span> <span class="fact-es" lang="es">Volver al listado · Inicio</span></p>
 </article>
 <script type="application/ld+json">
 {

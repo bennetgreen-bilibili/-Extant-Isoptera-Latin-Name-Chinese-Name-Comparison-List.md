@@ -23,15 +23,15 @@ synonym_localities: "Tunisia: Tunis, Bou-Hedma"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **黄赭无刺白蚁**（*Anacanthotermes ochraceus*）是草白蚁科（HODOTERMITIDAE）无刺白蚁属（*Anacanthotermes*）的一种，也是本属的模式种。本种由 Burmeister 于 1839 年描述，模式产地为 Egypt: ?。分布记录包括北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门。本站记录本种有 1 个次异名。
 
-EN — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) is a species and the type species of its genus of the genus *Anacanthotermes*, in the family HODOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Egypt: ?. Distribution: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. This site records 1 junior synonym for the species.
+EN — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) is a species and the type species of the genus *Anacanthotermes*, in the family HODOTERMITIDAE. The species was described by Burmeister in 1839; the type locality is Egypt: ?. Distribution: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. This site records 1 junior synonym for the species.
 
-ES — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) es una especie, y la especie tipo de su género del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Egypt: ?. Distribución: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. Este sitio registra 1 sinónimo junior para la especie.
+ES — **黄赭无刺白蚁** (*Anacanthotermes ochraceus*) es una especie, y la especie tipo del género *Anacanthotermes*, en la familia HODOTERMITIDAE. La especie fue descrita por Burmeister en 1839; la localidad tipo es Egypt: ?. Distribución: North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Anacanthotermes*：属名由希腊文 an-（无）+ akantha（刺）与拉丁文 termes（白蚁）组合，意为「无刺白蚁」。
 
@@ -43,21 +43,25 @@ EN — epithet *ochraceus*: Latin ochraceus (ochre)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[草白蚁科 HODOTERMITIDAE]({{ site.base_url }}/family/hodotermitidae/) —— 本站收录 3 属 21 种（3 genera, 21 species · 3 géneros, 21 especies）
 - **属 Genus / Género**：[无刺白蚁属 *Anacanthotermes*]({{ site.base_url }}/genus/anacanthotermes/) —— 共 16 种（16 species · 16 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：北非至中东、苏丹、埃及、摩洛哥、以色列等、阿尔及利亚、科威特、利比亚、阿曼、卡塔尔、沙特阿拉伯、突尼斯、西撒哈拉、也门
 - **英文记录 English record / Registro en inglés**：North Africa to Middle East, Sudan, Egypt, Morocco, Israel, etc., Algeria, Kuwait, Libya, Oman, Qatar, Saudi Arabia, Tunisia, Western Sahara, Yemen
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Anacanthotermes tunisiensis* Sjöstedt, 1935: 106-107 —— 模式产地：Tunisia: Tunis, Bou-Hedma
 

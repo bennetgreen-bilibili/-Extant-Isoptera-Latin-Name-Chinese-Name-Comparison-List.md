@@ -26,7 +26,7 @@ synonym_localities: "Vietnam: ?; Myanmar: Moulmein; Myanmar: West Salween: Zibya
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **黄球白蚁**（*Globitermes sulphureus*）是白蚁科（TERMITIDAE）弓白蚁亚科（Amitermitinae）球白蚁属（*Globitermes*）的一种。本种由 Haviland 于 1898 年描述，模式产地为 Malaysia: Selangor: Perak。分布记录包括东南亚大陆、中南半岛、东南亚岛屿、南洋群岛、中国。本站记录本种有 3 个次异名。
 
@@ -34,7 +34,7 @@ EN — **黄球白蚁** (*Globitermes sulphureus*) is a species of the genus *Gl
 
 ES — **黄球白蚁** (*Globitermes sulphureus*) es una especie del género *Globitermes*, en la familia TERMITIDAE (subfamilia Amitermitinae). La especie fue descrita por Haviland en 1898; la localidad tipo es Malaysia: Selangor: Perak. Distribución: mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China. Este sitio registra 3 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Globitermes*：属名由拉丁文 globus（球）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *sulphureus*: Latin sulphureus (sulphur-yellow)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[弓白蚁亚科 Amitermitinae]({{ site.base_url }}/subfamily/amitermitinae/) —— 本站收录 14 属 194 种（14 genera, 194 species · 14 géneros, 194 especies）
 - **属 Genus / Género**：[球白蚁属 *Globitermes*]({{ site.base_url }}/genus/globitermes/) —— 共 7 种（7 species · 7 especies）
 - **本属模式种 Type species / Especie tipo**：*Globitermes globosus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：东南亚大陆、中南半岛、东南亚岛屿、南洋群岛、中国
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：东南亚大陆、中南半岛、东南亚岛屿、南洋群岛、中国
 - **英文记录 English record / Registro en inglés**：mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 3 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 3 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 3 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes annamensis* Desneux, 1904: 148 —— 模式产地：Vietnam: ?
 2. *Globitermes audax* Silvestri, 1914: 432-434 —— 模式产地：Myanmar: Moulmein

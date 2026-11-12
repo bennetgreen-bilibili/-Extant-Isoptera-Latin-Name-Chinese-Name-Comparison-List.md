@@ -21,7 +21,7 @@ synonym_count: 0
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **阿马尼乳白蚁**（*Coptotermes amanii*）是异白蚁科（HETEROTERMITIDAE）乳白蚁属（*Coptotermes*）的一种。本种由 Sjöstedt 于 1911 年描述，模式产地为 Tanzania: Usambara: Amani。分布记录包括坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦。
 
@@ -29,7 +29,7 @@ EN — **阿马尼乳白蚁** (*Coptotermes amanii*) is a species of the genus *
 
 ES — **阿马尼乳白蚁** (*Coptotermes amanii*) es una especie del género *Coptotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Sjöstedt en 1911; la localidad tipo es Tanzania: Usambara: Amani. Distribución: Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Coptotermes*：属名由希腊文 koptein（切、斩）与拉丁文 termes（白蚁）组合。
 
@@ -41,16 +41,20 @@ EN — epithet *amanii*: Named after the locality Amani
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[乳白蚁属 *Coptotermes*]({{ site.base_url }}/genus/coptotermes/) —— 共 58 种（58 species · 58 especies）
 - **本属模式种 Type species / Especie tipo**：*Coptotermes gestroi*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦
 - **英文记录 English record / Registro en inglés**：Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
+
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
+
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
 <!-- AUTO:END -->

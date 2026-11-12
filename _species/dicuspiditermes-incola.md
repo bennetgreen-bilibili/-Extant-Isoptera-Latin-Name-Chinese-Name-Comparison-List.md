@@ -26,7 +26,7 @@ synonym_localities: "India: Maharashtra: Khandala; Sri Lanka: Anurhadhapura; Ban
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **栖息突扭白蚁**（*Dicuspiditermes incola*）是白蚁科（TERMITIDAE）瘤白蚁亚科（Mirocapritermitinae）突扭白蚁属（*Dicuspiditermes*）的一种。本种由 Wasmann 于 1893 年描述，模式产地为 Sri Lanka: Colombo。分布记录包括印度、斯里兰卡。本站记录本种有 2 个次异名。
 
@@ -34,7 +34,7 @@ EN — **栖息突扭白蚁** (*Dicuspiditermes incola*) is a species of the gen
 
 ES — **栖息突扭白蚁** (*Dicuspiditermes incola*) es una especie del género *Dicuspiditermes*, en la familia TERMITIDAE (subfamilia Mirocapritermitinae). La especie fue descrita por Wasmann en 1893; la localidad tipo es Sri Lanka: Colombo. Distribución: India, Sri Lanka. Este sitio registra 2 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Dicuspiditermes*：属名由拉丁文 di-（二）+ cuspis（尖）与 termes（白蚁）组合。
 
@@ -46,23 +46,27 @@ EN — epithet *incola*: Latin incola (inhabitant)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[瘤白蚁亚科 Mirocapritermitinae]({{ site.base_url }}/subfamily/mirocapritermitinae/) —— 本站收录 14 属 135 种（14 genera, 135 species · 14 géneros, 135 especies）
 - **属 Genus / Género**：[突扭白蚁属 *Dicuspiditermes*]({{ site.base_url }}/genus/dicuspiditermes/) —— 共 21 种（21 species · 21 especies）
 - **本属模式种 Type species / Especie tipo**：*Dicuspiditermes obtusus*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：印度、斯里兰卡
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：印度、斯里兰卡
 - **英文记录 English record / Registro en inglés**：India, Sri Lanka
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 2 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 2 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 2 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Capritermes longicornis* Wasmann, 1902: 126-128 —— 模式产地：India: Maharashtra: Khandala
 2. *Dicuspiditermes pername* Thakur & Chatterjee, 1971: 77-81 —— 模式产地：Sri Lanka: Anurhadhapura

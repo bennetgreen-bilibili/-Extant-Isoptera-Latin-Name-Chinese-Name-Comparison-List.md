@@ -24,7 +24,7 @@ synonym_localities: "Yemen: Beitelfakíh; (country unknown): \"Europa\"; France:
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **指名亚种**（*Reticulitermes lucifugus lucifugus*）是暗黑散白蚁（*Reticulitermes lucifugus*）的一个亚种，隶属异白蚁科（HETEROTERMITIDAE）散白蚁属（*Reticulitermes*）。本亚种由 Rossi 于 1792 年描述，模式产地为 (country unknown): "Shores of Mediterranean"。本页暂无单列的分布记录，母种 *Reticulitermes lucifugus* 的分布见下文「分布」一节。本站记录本亚种有 5 个次异名。
 
@@ -32,7 +32,7 @@ EN — **指名亚种** (*Reticulitermes lucifugus lucifugus*) is a subspecies o
 
 ES — **指名亚种** (*Reticulitermes lucifugus lucifugus*) es una subespecie de *Reticulitermes lucifugus*, en la familia HETEROTERMITIDAE, género *Reticulitermes*. La subespecie fue descrita por Rossi en 1792; la localidad tipo es (country unknown): "Shores of Mediterranean". No se incluye un registro de distribución separado en esta página; véase la especie parental *Reticulitermes lucifugus*. Este sitio registra 5 sinónimos junior para la subespecie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Reticulitermes*：属名由拉丁文 reticulum（小网、网状）与 termes（白蚁）组合。
 
@@ -44,22 +44,26 @@ EN — epithet *lucifugus*: Latin lux (light) + fugus (fleeing), light-avoiding
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[散白蚁属 *Reticulitermes*]({{ site.base_url }}/genus/reticulitermes/) —— 共 140 种（140 species · 140 especies）
 - **种 Species / Especie**：[暗黑散白蚁 *Reticulitermes lucifugus*]({{ site.base_url }}/species/reticulitermes-lucifugus/)
 - **亚种 Subspecies / Subespecie**：本页（*Reticulitermes lucifugus lucifugus*）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
 本亚种暂未单列分布记录；母种 *Reticulitermes lucifugus* 的分布为：地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））。
 
-母种英文记录：Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia)。
+<p class="fact-en" lang="en">No separate distribution record is listed for this subspecies; the distribution of the parent species <i>Reticulitermes lucifugus</i> is given in the English record of the parent species below.</p>
 
-## 次异名
+<p class="fact-es" lang="es">No se incluye un registro de distribución separado para esta subespecie; la distribución de la especie parental <i>Reticulitermes lucifugus</i> se indica en el registro en inglés de la especie parental que figura a continuación.</p>
 
-本站记录本亚种有 5 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+母种英文记录 <span class="fact-en" lang="en">English record of the parent species</span> <span class="fact-es" lang="es">Registro en inglés de la especie parental</span>：Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia)。
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本亚种有 5 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 5 junior synonyms for the subspecies, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 5 sinónimos junior para la subespecie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes arda* Forskål, 1775: 96-97 —— 模式产地：Yemen: Beitelfakíh
 2. *Hemerobius raphidioides* Villers, 1789: 56 —— 模式产地：(country unknown): "Europa"

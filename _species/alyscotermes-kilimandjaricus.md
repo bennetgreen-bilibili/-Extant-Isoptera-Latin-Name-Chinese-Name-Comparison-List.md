@@ -26,15 +26,15 @@ synonym_localities: "South Africa: Natal: Estcourt; South Africa: Natal: Charles
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **乞力马扎罗逃白蚁**（*Alyscotermes kilimandjaricus*）是白蚁科（TERMITIDAE）尖白蚁亚科（Apicotermitinae）逃白蚁属（*Alyscotermes*）的一种，也是本属的模式种。本种由 Sjöstedt 于 1907 年描述，模式产地为 Tanzania: Kilimanjaro: Kibonoto。分布记录包括刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦。本站记录本种有 4 个次异名。
 
-EN — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) is a species and the type species of its genus of the genus *Alyscotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
+EN — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) is a species and the type species of the genus *Alyscotermes*, in the family TERMITIDAE (subfamily Apicotermitinae). The species was described by Sjöstedt in 1907; the type locality is Tanzania: Kilimanjaro: Kibonoto. Distribution: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. This site records 4 junior synonyms for the species.
 
-ES — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) es una especie, y la especie tipo de su género del género *Alyscotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Kilimanjaro: Kibonoto. Distribución: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
+ES — **乞力马扎罗逃白蚁** (*Alyscotermes kilimandjaricus*) es una especie, y la especie tipo del género *Alyscotermes*, en la familia TERMITIDAE (subfamilia Apicotermitinae). La especie fue descrita por Sjöstedt en 1907; la localidad tipo es Tanzania: Kilimanjaro: Kibonoto. Distribución: Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe. Este sitio registra 4 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Alyscotermes*：词源未详；词尾 -termes 为拉丁文 termes（白蚁）。
 
@@ -46,22 +46,26 @@ EN — epithet *kilimandjaricus*: Named after Mount Kilimanjaro
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[尖白蚁亚科 Apicotermitinae]({{ site.base_url }}/subfamily/apicotermitinae/) —— 本站收录 68 属 241 种（68 genera, 241 species · 68 géneros, 241 especies）
 - **属 Genus / Género**：[逃白蚁属 *Alyscotermes*]({{ site.base_url }}/genus/alyscotermes/) —— 共 2 种（2 species · 2 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦
 - **英文记录 English record / Registro en inglés**：Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 4 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 4 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 4 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes bilobatus* Haviland, 1898: 411 (imago) —— 模式产地：South Africa: Natal: Estcourt
 2. *Mirotermes (Cubitermes) natalensis obscurus* Holmgren, 1913: 356 —— 模式产地：South Africa: Natal: Charlestown

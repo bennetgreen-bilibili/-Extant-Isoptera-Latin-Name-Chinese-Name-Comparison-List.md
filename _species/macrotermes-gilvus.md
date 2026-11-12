@@ -26,7 +26,7 @@ synonym_localities: "Myanmar: Palon (Pegù); Malaysia: Sarawak: Baram; Singapore
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **暗黄大白蚁**（*Macrotermes gilvus*）是白蚁科（TERMITIDAE）大白蚁亚科（Macrotermitinae）大白蚁属（*Macrotermes*）的一种。本种由 Hagen 于 1858 年描述，模式产地为 Indonesia: Java: Bogor。分布记录包括旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南。本站记录本种有 12 个次异名。
 
@@ -34,7 +34,7 @@ EN — **暗黄大白蚁** (*Macrotermes gilvus*) is a species of the genus *Mac
 
 ES — **暗黄大白蚁** (*Macrotermes gilvus*) es una especie del género *Macrotermes*, en la familia TERMITIDAE (subfamilia Macrotermitinae). La especie fue descrita por Hagen en 1858; la localidad tipo es Indonesia: Java: Bogor. Distribución: Old World tropics, Indonesia, Malaysia, Philippines, Singapore, Thailand, Cambodia, Timor-Leste, Myanmar, Vietnam. Este sitio registra 12 sinónimos junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Macrotermes*：属名由希腊文 makros（大）与拉丁文 termes（白蚁）组合，意为「大白蚁」。
 
@@ -46,23 +46,27 @@ EN — epithet *gilvus*: Latin gilvus (yellowish-grey)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[白蚁科 TERMITIDAE]({{ site.base_url }}/family/termitidae/) —— 本站收录 280 属 2144 种（280 genera, 2144 species · 280 géneros, 2144 especies）
 - **亚科 Subfamily / Subfamilia**：[大白蚁亚科 Macrotermitinae]({{ site.base_url }}/subfamily/macrotermitinae/) —— 本站收录 12 属 373 种（12 genera, 373 species · 12 géneros, 373 especies）
 - **属 Genus / Género**：[大白蚁属 *Macrotermes*]({{ site.base_url }}/genus/macrotermes/) —— 共 57 种（57 species · 57 especies）
 - **本属模式种 Type species / Especie tipo**：*Macrotermes lilljeborgi*
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南
 - **英文记录 English record / Registro en inglés**：Old World tropics, Indonesia, Malaysia, Philippines, Singapore, Thailand, Cambodia, Timor-Leste, Myanmar, Vietnam
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 12 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 12 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 12 junior synonyms for the species, listed by their original literature source</span> <span class="fact-es" lang="es">Este sitio registra 12 sinónimos junior para la especie, ordenados según sus fuentes bibliográficas originales</span>：
 
 1. *Termes azarelii* Wasmann, 1896: 626-628, 629 —— 模式产地：Myanmar: Palon (Pegù)
 2. *Termes malayanus* Haviland, 1898: 381-383 —— 模式产地：Malaysia: Sarawak: Baram

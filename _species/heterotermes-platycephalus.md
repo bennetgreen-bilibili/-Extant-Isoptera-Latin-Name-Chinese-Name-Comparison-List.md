@@ -23,15 +23,15 @@ synonym_localities: "Australia: Western Australia: Swan River"
 ---
 
 <!-- AUTO:BEGIN -->
-## 摘要
+## 摘要 <span class="fact-en" lang="en">Summary</span> <span class="fact-es" lang="es">Resumen</span>
 
 **宽头异白蚁**（*Heterotermes platycephalus*）是异白蚁科（HETEROTERMITIDAE）异白蚁属（*Heterotermes*）的一种，也是本属的模式种。本种由 Froggatt 于 1897 年描述，模式产地为 Australia: South Australia: Kangaroo Island。分布记录包括澳大利亚。本站记录本种有 1 个次异名。
 
-EN — **宽头异白蚁** (*Heterotermes platycephalus*) is a species and the type species of its genus of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: South Australia: Kangaroo Island. Distribution: Australia. This site records 1 junior synonym for the species.
+EN — **宽头异白蚁** (*Heterotermes platycephalus*) is a species and the type species of the genus *Heterotermes*, in the family HETEROTERMITIDAE. The species was described by Froggatt in 1897; the type locality is Australia: South Australia: Kangaroo Island. Distribution: Australia. This site records 1 junior synonym for the species.
 
-ES — **宽头异白蚁** (*Heterotermes platycephalus*) es una especie, y la especie tipo de su género del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: South Australia: Kangaroo Island. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
+ES — **宽头异白蚁** (*Heterotermes platycephalus*) es una especie, y la especie tipo del género *Heterotermes*, en la familia HETEROTERMITIDAE. La especie fue descrita por Froggatt en 1897; la localidad tipo es Australia: South Australia: Kangaroo Island. Distribución: Australia. Este sitio registra 1 sinónimo junior para la especie.
 
-## 词源
+## 词源 <span class="fact-en" lang="en">Etymology</span> <span class="fact-es" lang="es">Etimología</span>
 
 属名 *Heterotermes*：属名由希腊文 heteros（不同的）与拉丁文 termes（白蚁）组合。
 
@@ -43,21 +43,25 @@ EN — epithet *platycephalus*: From the descriptive term 'plat' (broad)
 
 <!-- src:S0018 -->
 
-## 分类位置
+## 分类位置 <span class="fact-en" lang="en">Taxonomic position</span> <span class="fact-es" lang="es">Posición taxonómica</span>
 
 - **科 Family / Familia**：[异白蚁科 HETEROTERMITIDAE]({{ site.base_url }}/family/heterotermitidae/) —— 本站收录 3 属 229 种（3 genera, 229 species · 3 géneros, 229 especies）
 - **属 Genus / Género**：[异白蚁属 *Heterotermes*]({{ site.base_url }}/genus/heterotermes/) —— 共 31 种（31 species · 31 especies）
 
-## 分布
+## 分布 <span class="fact-en" lang="en">Distribution</span> <span class="fact-es" lang="es">Distribución</span>
 
-- **分布记录**：澳大利亚
+- **分布记录** <span class="fact-en" lang="en">Distribution records</span> <span class="fact-es" lang="es">Registros de distribución</span>：澳大利亚
 - **英文记录 English record / Registro en inglés**：Australia
 
 以上记录沿用原始数据的写法，未做地理编码与译名统一。
 
-## 次异名
+<p class="fact-en" lang="en">The records above follow the wording of the original data; no geocoding or standardized place names have been applied.</p>
 
-本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出：
+<p class="fact-es" lang="es">Los registros anteriores siguen la redacción de los datos originales; no se han aplicado geocodificación ni nombres de lugar normalizados.</p>
+
+## 次异名 <span class="fact-en" lang="en">Junior synonyms</span> <span class="fact-es" lang="es">Sinónimos junior</span>
+
+本站记录本种有 1 个次异名（junior synonyms / sinónimos junior），按原始文献出处列出 <span class="fact-en" lang="en">This site records 1 junior synonym for the species, listed by its original literature source</span> <span class="fact-es" lang="es">Este sitio registra 1 sinónimo junior para la especie, ordenado según su fuente bibliográfica original</span>：
 
 1. *Leucotermes clarki* Hill, 1922: 395-397 —— 模式产地：Australia: Western Australia: Swan River
 

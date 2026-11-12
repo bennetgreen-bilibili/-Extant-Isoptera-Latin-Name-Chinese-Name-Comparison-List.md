@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-11T02:22:28+08:00",
+ "updated": "2026-11-12T20:15:41+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -446,6 +446,446 @@
      "date": "2026-11-11-r2",
      "focus": "taxonomy",
      "source_id": "S0143"
+    }
+   ]
+  },
+  "Mining-for-hemicellulases-in-the-fungus-growing-termite-Pseudacanthotermes-milit::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0149"
+    }
+   ]
+  },
+  "Symbiotic-cellulolytic-bacteria-from-the-gut-of-the-subterranean-termite-Psammot::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0153"
+    }
+   ]
+  },
+  "10.1111-j.1469-7998.2006.00189.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0156"
+    }
+   ]
+  },
+  "10.1242-jeb.086991::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0157"
+    }
+   ]
+  },
+  "10.1080-08873639309478381::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0158"
+    }
+   ]
+  },
+  "10.1111-j.1365-2311.1996.tb01245.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0159"
+    }
+   ]
+  },
+  "10.1111-j.1469-7998.1983.tb05070.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0160"
+    }
+   ]
+  },
+  "10.1046-j.1365-2664.2003.00833.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0161"
+    }
+   ]
+  },
+  "10.1046-j.1440-1703.2000.00320.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0162"
+    }
+   ]
+  },
+  "10.5281-zenodo.16165080::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0163"
+    }
+   ]
+  },
+  "10.1242-jeb.142547::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0164"
+    }
+   ]
+  },
+  "10.1111-j.1365-294x.2011.05090.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0165"
+    }
+   ]
+  },
+  "10.3852-mycologia.99.6.936::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0166"
+    }
+   ]
+  },
+  "10.1093-ee-19.4.1047::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0167"
+    }
+   ]
+  },
+  "10.1016-s0031-4056(23)05961-9::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0168"
+    }
+   ]
+  },
+  "abstract:S0144": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0144"
+    }
+   ]
+  },
+  "abstract:S0145": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0145"
+    }
+   ]
+  },
+  "abstract:S0146": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0146"
+    }
+   ]
+  },
+  "abstract:S0147": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0147"
+    }
+   ]
+  },
+  "abstract:S0148": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0148"
+    }
+   ]
+  },
+  "10.1046-j.1365-2435.1998.00220.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0169"
+    }
+   ]
+  },
+  "10.1371-journal.pone.0027578::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0170"
+    }
+   ]
+  },
+  "10.1080-15572536.2007.11832525::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0171"
+    }
+   ]
+  },
+  "10.1163-156854109x428034::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0172"
+    }
+   ]
+  },
+  "10.1111-j.1365-2583.2006.00632.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0173"
+    }
+   ]
+  },
+  "10.1264-jsme2.18.152::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0174"
+    }
+   ]
+  },
+  "10.1083-jcb.76.3.569::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0175"
+    }
+   ]
+  },
+  "10.1371-journal.pone.0085315::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0176"
+    }
+   ]
+  },
+  "10.1071-is10012::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0177"
+    }
+   ]
+  },
+  "10.1080-036702403902-2255177::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0178"
+    }
+   ]
+  },
+  "10.1002-ajpa.22628::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0179"
+    }
+   ]
+  },
+  "10.1093-jee-100.2.467::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0180"
+    }
+   ]
+  },
+  "10.1111-j.1442-9993.1995.tb00557.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0181"
+    }
+   ]
+  },
+  "10.1111-mec.14095::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0182"
+    }
+   ]
+  },
+  "10.1603-0013-8746(2003)096[0181-tdanot]2.0.co;2::full": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0183"
+    }
+   ]
+  },
+  "abstract:S0150": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0150"
+    }
+   ]
+  },
+  "abstract:S0151": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0151"
+    }
+   ]
+  },
+  "abstract:S0152": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0152"
+    }
+   ]
+  },
+  "abstract:S0154": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0154"
+    }
+   ]
+  },
+  "abstract:S0155": {
+   "reads": 1,
+   "last_read": "2026-11-12T20:15:41+08:00",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "focus": "taxonomy",
+     "source_id": "S0155"
     }
    ]
   }
