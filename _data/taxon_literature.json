@@ -32,32 +32,24 @@
     },
     "updated": "2026-11-12",
     "last_batch": {
-      "date": "2026-11-11",
-      "pages": 28,
-      "batch_pages": 13,
+      "date": "2026-11-12",
+      "pages": 62,
+      "batch_pages": 18,
       "units": 20,
       "chunks": 15,
       "abstracts": 5,
       "sources": [
-        "S0001",
-        "S0005",
-        "S0006",
-        "S0008",
-        "S0009",
-        "S0011",
+        "S0185",
+        "S0186",
+        "S0187",
+        "S0190",
+        "S0191",
+        "S0192",
+        "S0193",
+        "S0196",
+        "S0010",
         "S0012",
-        "S0013",
-        "S0034",
-        "S0098",
-        "S0103",
-        "S0104",
-        "S0105",
-        "S0106",
-        "S0109",
-        "S0110",
-        "S0111",
-        "S0112",
-        "S0115"
+        "S0008"
       ]
     },
     "languages": [
@@ -1154,7 +1146,7 @@
     ]
   },
   "/species/cryptotermes-domesticus/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "肠道共生原核生物的 16S rRNA 调查",
@@ -1170,6 +1162,21 @@
         ],
         "heading_en": "16S rRNA survey of intestinal symbiotic prokaryotes",
         "heading_es": "Estudio del ARN ribosomal 16S de los procariotas simbiontes del intestino"
+      },
+      {
+        "heading": "澳大利亚北部的原生地位",
+        "heading_en": "Native status in northern Australia",
+        "heading_es": "Estatus nativo en el norte de Australia",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）指出，截头堆砂白蚁（Cryptotermes domesticus）与犬头堆砂白蚁（Cryptotermes cynocephalus）过去被视为外来种，实际在澳大利亚北部自然分布，因此在该文中按当地特有种处理；同文记录澳大利亚的外来种为麻头堆砂白蚁（Cryptotermes brevis）与长颚堆砂白蚁（Cryptotermes dudleyi）。",
+            "text_en": "According to the abstract, Gay and Watson (1982) noted that <i>Cryptotermes domesticus</i> and <i>Cryptotermes cynocephalus</i>, formerly regarded as introduced, are in fact naturally distributed in northern Australia and are therefore treated there as endemic; the same paper records <i>Cryptotermes brevis</i> and <i>Cryptotermes dudleyi</i> as the introduced species in Australia.",
+            "text_es": "Según el resumen, Gay y Watson (1982) señalaron que <i>Cryptotermes domesticus</i> y <i>Cryptotermes cynocephalus</i>, antes consideradas introducidas, se distribuyen de forma natural en el norte de Australia y por ello se tratan allí como endémicas; el mismo trabajo registra <i>Cryptotermes brevis</i> y <i>Cryptotermes dudleyi</i> como las especies introducidas en Australia.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
       }
     ],
     "references": [
@@ -1177,6 +1184,11 @@
         "id": "S0145",
         "citation": "Ohkuma, M.; Kudo, T. 1998. Phylogenetic analysis of the symbiotic intestinal microflora of the termite Cryptotermes domesticus. FEMS Microbiology Letters.",
         "doi": "10.1016/s0378-1097(98)00244-4"
+      },
+      {
+        "id": "S0187",
+        "citation": "Gay, F. J.; Watson, J. A. L. 1982. The genus Cryptotermes in Australia (Isoptera: Kalotermitidae). Australian Journal of Zoology, Supplementary Series 88.",
+        "doi": "10.1071/AJZS088"
       }
     ]
   },
@@ -1501,6 +1513,508 @@
         "id": "S0176",
         "citation": "Cristaldo, P. F. et al. 2014. Mutual use of trail-following chemical cues by a termite host and its inquiline. PLoS ONE.",
         "doi": "10.1371/journal.pone.0085315"
+      }
+    ]
+  },
+  "/species/baucaliotermes-hainesi/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "纳米布沙漠的地下觅食隧道",
+        "heading_en": "Subterranean foraging tunnels in the Namib Desert",
+        "heading_es": "Túneles de forrajeo subterráneos en el desierto del Namib",
+        "paragraphs": [
+          {
+            "text": "根据 Tschinkel（2010）对纳米比亚 NamibRand 自然保护区的海恩斯细颈白蚁（Baucaliotermes hainesi）的研究，该种以地下隧道觅食：巢常露出地表成 10–15 cm 高的小丘，地下至少延伸 60 cm；隧道位于地表下 5–15 cm，以胶结砂粒为壁，从巢向外辐射至少 10–15 m，主隧道之间有横向连接；每隔 50–75 cm（标准差 14–40 cm）有 1 条通往地面的竖直竖井，竖井白天关闭，故觅食个体在地面行走很少超过 0.5–1 m；隧道横断面中央为光滑隆起的走道，两侧凹囊用于暂存从地面采回的草片段。",
+            "text_en": "According to Tschinkel's (2010) study of <i>Baucaliotermes hainesi</i> in the NamibRand Nature Reserve, Namibia, this species forages along subterranean tunnels: the nest often protrudes as a mound 10–15 cm high and extends at least 60 cm below ground; the tunnels lie 5–15 cm below the surface, are lined with cemented sand and radiate at least 10–15 m from the nest, with cross tunnels linking the main ones; every 50–75 cm (SD 14–40 cm) a vertical riser opens to the surface, and the risers are closed during the day, so foragers rarely walk more than 0.5–1 m above ground; in cross-section each tunnel has a smooth raised central walkway flanked by depots where grass fragments collected on the surface are temporarily stored.",
+            "text_es": "Según el estudio de Tschinkel (2010) sobre <i>Baucaliotermes hainesi</i> en la reserva natural de NamibRand, Namibia, esta especie forrajea por túneles subterráneos: el nido suele sobresalir como un montículo de 10–15 cm de alto y se extiende al menos 60 cm bajo el suelo; los túneles se sitúan a 5–15 cm de profundidad, están revestidos de arena cementada y se irradian al menos 10–15 m desde el nido, con túneles transversales que unen los principales; cada 50–75 cm (DE 14–40 cm) un pozo vertical alcanza la superficie y los pozos permanecen cerrados durante el día, por lo que los individuos que forrajean rara vez caminan más de 0,5–1 m sobre el suelo; en sección transversal cada túnel presenta una pasarela central lisa y elevada flanqueada por depósitos donde se almacenan temporalmente los fragmentos de hierba recogidos en la superficie.",
+            "src": [
+              "S0185"
+            ]
+          },
+          {
+            "text": "同一研究解剖 1 个巢并计数约 45,000 头：工蚁约 32,300 头（71%，干重 36 g）、兵蚁约 4,100 头（9.1%，3 g）、具翅芽的未成熟生殖蚁约 2,800 头（6.2%，5 g）、未成熟个体约 6,000 头（13%）；巢内未见原始生殖蚁与「王台」，作者据此推测所解剖的可能是副巢。巢由胶结砂外壳与内层平滑拱面构成，巢内草片段干重合计约 15 g，其中 10–20 cm 层约 10.5 g；该种取食干草，分布限于纳米比亚南部与南非西北开普省。作者另记前奇白蚁属（Promirotermes）1 个种在同一巢的硬外壳内共栖。",
+            "text_en": "The same study dissected one nest and counted about 45,000 termites: roughly 32,300 workers (71%, 36 g dry mass), 4,100 soldiers (9.1%, 3 g), 2,800 immature reproductives with wing buds (6.2%, 5 g) and about 6,000 immatures (13%); no primary reproductives and no royal cell were found, so the authors suggest the dissected nest may have been a satellite nest. The nest consists of a cemented sand carapace and a smooth vaulted inner layer, and the grass fragments inside weighed about 15 g in total, of which about 10.5 g lay in the 10–20 cm layer; the species feeds on dry grass and is restricted to southern Namibia and the north-western Cape Province of South Africa.",
+            "text_es": "El mismo estudio diseccionó un nido y contó unos 45.000 individuos: aproximadamente 32.300 obreros (71%, 36 g de masa seca), 4.100 soldados (9,1%, 3 g), 2.800 reproductores inmaduros con esbozos alares (6,2%, 5 g) y unos 6.000 inmaduros (13%); no se hallaron reproductores primarios ni celda real, por lo que los autores sugieren que el nido diseccionado podría ser un nido satélite. El nido consta de una coraza de arena cementada y una capa interna lisa y abovedada, y los fragmentos de hierba en su interior pesaban unos 15 g en total, de los cuales unos 10,5 g estaban en el estrato de 10–20 cm; la especie se alimenta de hierba seca y se limita al sur de Namibia y al noroeste de la provincia del Cabo, Sudáfrica.",
+            "src": [
+              "S0185"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0185",
+        "citation": "Tschinkel, W. R. 2010. The foraging tunnel system of the Namibian desert termite, Baucaliotermes hainesi. Journal of Insect Science 10.",
+        "doi": "10.1673/031.010.6501"
+      }
+    ]
+  },
+  "/species/palmitermes-impostor/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "无性蚁后更替与巢群结构",
+        "heading_en": "Asexual queen succession and colony structure",
+        "heading_es": "Sucesión asexual de reinas y estructura de la colonia",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2019）在法属圭亚那 Petit Saut 地区的研究，骗子棕榈白蚁（Palmitermes impostor）普遍存在无性蚁后更替（asexual queen succession）：在采到生殖蚁的 19 个巢中，13 个（68%）由原始生殖蚁为首，6 个（32%）的原始蚁后已被 1–129 头若虫型新成蚁后取代且不再有原始蚁后，其中 3 个巢同时有原始雄蚁；对 11 个巢的微卫星分型显示，24 头新成蚁后中的 8 头与 65 头雌性候选者中的 57 头（合计 73%）为孤雌生殖产物，9 个位点全部纯合，符合配子复制型自动孤雌生殖，其余新成蚁后为有性来源，与原始雄蚁交配形成扩展家庭。",
+            "text_en": "According to the study by Hellemans et al. (2019) in the Petit Saut area of French Guiana, <i>Palmitermes impostor</i> commonly practices asexual queen succession: of 19 nests in which reproductives were collected, 13 (68%) were headed by primary reproductives and in 6 (32%) the primary queen had been replaced by 1–129 neotenic queens with no primary queen remaining, three of these nests also containing a primary king; microsatellite typing of 11 nests showed that 8 of 24 neotenic queens and 57 of 65 female aspirants (73% combined) were of parthenogenetic origin, homozygous at all nine loci, consistent with automixis by gamete duplication, while the remaining neotenic queens were sexual and paired with the primary king to form an extended family.",
+            "text_es": "Según el estudio de Hellemans et al. (2019) en la zona de Petit Saut, Guayana Francesa, <i>Palmitermes impostor</i> practica habitualmente la sucesión asexual de reinas: de 19 nidos en los que se recolectaron reproductores, 13 (68%) estaban encabezados por reproductores primarios y en 6 (32%) la reina primaria había sido sustituida por 1–129 reinas neoténicas sin que quedara reina primaria, y en tres de estos nidos también había un rey primario; el tipado con microsatélites de 11 nidos mostró que 8 de 24 reinas neoténicas y 57 de 65 aspirantes femeninas (73% en conjunto) eran de origen partenogenético, homocigotas en los nueve loci, lo que concuerda con automixis por duplicación de gametos, mientras que las demás reinas neoténicas eran de origen sexual y se apareaban con el rey primario formando una familia extensa.",
+            "src": [
+              "S0191"
+            ]
+          },
+          {
+            "text": "该种在 2010–2018 年间共采 32 巢；巢为新筑的地下土巢，土质致密坚硬，偶有少量地上部分，常附着于大树根或倒木；具翅芽的雌性候选者消化道充满土壤、翅芽半透明，可参与巢内劳动；此前该种长期被误定为白蚁属（Termes）种类，已知分布仅限法属圭亚那的 3 个地点。",
+            "text_en": "Thirty-two nests were collected between 2010 and 2018; the nest is a newly built underground earthen structure of compact, hard soil with occasional small above-ground parts, often attached to large roots or fallen logs; winged female aspirants have a soil-filled gut and translucent wing buds and can take part in nest work; the species had long been misidentified as a <i>Termes</i> species and is known from only three localities in French Guiana.",
+            "text_es": "Se recolectaron 32 nidos entre 2010 y 2018; el nido es una estructura subterránea de tierra recién construida, de suelo compacto y duro, con partes aéreas pequeñas y ocasionales, a menudo adherida a raíces grandes o troncos caídos; las aspirantes femeninas con esbozos alares tienen el intestino lleno de suelo y los esbozos alares translúcidos, y pueden participar en las tareas del nido; la especie había sido identificada erróneamente como una especie de <i>Termes</i> durante mucho tiempo y solo se conoce de tres localidades de la Guayana Francesa.",
+            "src": [
+              "S0191"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0191",
+        "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
+        "doi": "10.1186/s12862-019-1459-3"
+      }
+    ]
+  },
+  "/species/spinitermes-trispinosus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "巢址与孤雌生殖的证据",
+        "heading_en": "Nesting sites and evidence of parthenogenesis",
+        "heading_es": "Sitios de nidificación y pruebas de partenogénesis",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2019）研究，三针针刺白蚁（Spinitermes trispinosus）的巢多位于地下，常筑在塔拉夸新扭白蚁（Neocapritermes taracua）改造过的巢段内或 Astrocaryum 棕榈基部，分布较弥散；14 个巢中 5 个有原始生殖蚁、2 个只有 1 头若虫型新成蚁后、3 个有雌性候选者；4 个巢的 3 个微卫星位点显示单家族结构，8 头若虫系雌性中 4 头全纯合，其中 1 个巢的 1 头候选者缺父本等位基因，可确认孤雌生殖，另 1 个巢的原始蚁后亦为全纯合（有性来源概率 p = 0.008）；5 龄若虫见于 2016 年 6 月与 2017 年 4 月采集的巢，提示分飞发生在雨季末。",
+            "text_en": "According to Hellemans et al. (2019), the nests of <i>Spinitermes trispinosus</i> are mostly subterranean, often built inside nest sections reworked by <i>Neocapritermes taracua</i> or at the base of <i>Astrocaryum</i> palms, and are rather diffuse; of 14 nests, 5 contained primary reproductives, 2 contained a single neotenic queen and 3 contained female aspirants; three microsatellite loci in 4 nests revealed a single-family structure, 4 of 8 nymphal females were fully homozygous, and in one nest an aspirant lacked paternal alleles, confirming parthenogenesis, while the primary queen of another nest was also fully homozygous (probability of sexual origin <i>p</i> = 0.008); fifth-instar nymphs occurred in nests collected in June 2016 and April 2017, indicating that dispersal flights take place at the end of the wet season.",
+            "text_es": "Según Hellemans et al. (2019), los nidos de <i>Spinitermes trispinosus</i> son en su mayoría subterráneos, a menudo construidos dentro de secciones de nido remodeladas por <i>Neocapritermes taracua</i> o en la base de palmas de <i>Astrocaryum</i>, y son bastante difusos; de 14 nidos, 5 contenían reproductores primarios, 2 contenían una sola reina neoténica y 3 contenían aspirantes femeninas; tres loci microsatélite en 4 nidos revelaron una estructura de familia única, 4 de 8 hembras ninfales eran completamente homocigotas y en un nido una aspirante carecía de alelos paternos, lo que confirma la partenogénesis, mientras que la reina primaria de otro nido también era completamente homocigota (probabilidad de origen sexual <i>p</i> = 0,008); los ninfas de quinto estadio aparecieron en nidos recolectados en junio de 2016 y abril de 2017, lo que indica que los vuelos de dispersión tienen lugar al final de la estación húmeda.",
+            "src": [
+              "S0191"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0191",
+        "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
+        "doi": "10.1186/s12862-019-1459-3"
+      }
+    ]
+  },
+  "/species/inquilinitermes-inquilinus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "属内首次记录的新成蚁后",
+        "heading_en": "First record of neotenic queens in the genus",
+        "heading_es": "Primer registro de reinas neoténicas en el género",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2019）研究，旅居客白蚁（Inquilinitermes inquilinus）严格寄居于凹额缩白蚁（Constrictotermes cavifrons）的树巢，多取巢的下部；14 个采到生殖蚁的巢中 7 个（50%）有 1–10 头新成蚁后，其中 2 个与原始雄蚁共存，另有 3 个巢见 4 头新成蚁王，这是该属首次记录新成蚁后；5 个巢的 8 个微卫星位点显示 22 头若虫系雌性中 11 头（50%）全纯合，1 头原始蚁后亦为孤雌来源；雌雄若虫全年可见，4 对脱翅繁殖蚁可同占一巢；作者认为宿主巢抗逆性差、易被暴雨破坏，促成了补充生殖蚁的出现。",
+            "text_en": "According to Hellemans et al. (2019), <i>Inquilinitermes inquilinus</i> lives strictly as an inquiline in the arboreal nests of <i>Constrictotermes cavifrons</i>, mostly in the lower part of the nest; of 14 nests in which reproductives were collected, 7 (50%) contained 1–10 neotenic queens, two of them together with a primary king, and three further nests contained 4 neotenic kings, the first record of neotenic reproductives in the genus; eight microsatellite loci in 5 nests showed that 11 of 22 nymphal females (50%) were fully homozygous and that one primary queen was also of parthenogenetic origin; male and female nymphs are present all year and 4 pairs of dealate reproductives can share a single nest; the authors suggest that the low durability of the host nest, which is easily destroyed by heavy rain, favours the appearance of replacement reproductives.",
+            "text_es": "Según Hellemans et al. (2019), <i>Inquilinitermes inquilinus</i> vive estrictamente como inquilino en los nidos arbóreos de <i>Constrictotermes cavifrons</i>, sobre todo en la parte inferior del nido; de 14 nidos en los que se recolectaron reproductores, 7 (50%) contenían 1–10 reinas neoténicas, dos de ellas junto con un rey primario, y otros tres nidos contenían 4 reyes neoténicos, el primer registro de reproductores neoténicos en el género; ocho loci microsatélite en 5 nidos mostraron que 11 de 22 hembras ninfales (50%) eran completamente homocigotas y que una reina primaria era también de origen partenogenético; las ninfas macho y hembra están presentes todo el año y 4 parejas de reproductores desalados pueden compartir un mismo nido; los autores sugieren que la escasa durabilidad del nido hospedador, que las lluvias intensas destruyen con facilidad, favorece la aparición de reproductores de reemplazo.",
+            "src": [
+              "S0191"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0191",
+        "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
+        "doi": "10.1186/s12862-019-1459-3"
+      }
+    ]
+  },
+  "/genus/heterotermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "西印度群岛的 16S 系统发育与科级归属",
+        "heading_en": "16S phylogeny in the West Indies and family placement",
+        "heading_es": "Filogenia del 16S en las Antillas y asignación familiar",
+        "paragraphs": [
+          {
+            "text": "据摘要，Szalanski 等（2004）研究西印度群岛的异白蚁属（Heterotermes），在 16S rRNA 片段的最大简约树上得到 5 个西印度类群，形态特征与地理分布支持这些分支；该属当时置于鼻白蚁科（Rhinotermitidae，广义），本站现置于 2024 年建立的异白蚁科（Heterotermitidae）。",
+            "text_en": "According to the abstract, Szalanski et al. (2004) studied <i>Heterotermes</i> in the West Indies and obtained five West Indian lineages on a maximum-parsimony tree of the 16S rRNA fragment, with morphology and geographical distribution supporting these clades; the genus was then placed in the Rhinotermitidae in the broad sense, and this site now places it in the Heterotermitidae established in 2024.",
+            "text_es": "Según el resumen, Szalanski et al. (2004) estudiaron <i>Heterotermes</i> en las Antillas y obtuvieron cinco linajes antillanos en un árbol de máxima parsimonia del fragmento de ARNr 16S, con la morfología y la distribución geográfica apoyando estos clados; el género se situaba entonces en Rhinotermitidae en sentido amplio, y este sitio lo sitúa ahora en Heterotermitidae, establecida en 2024.",
+            "src": [
+              "S0192",
+              "S0008"
+            ]
+          },
+          {
+            "text": "据摘要，该研究在 63 个地点采样；佛罗里达的异白蚁属未定种已知并非特有，巴巴多斯、大开曼、大特克、马提尼克、圣巴泰勒米等地的种群可能含有或全部为非特有种群，提示部分岛屿的异白蚁系人为传播；卡丁异白蚁（Heterotermes cardini）见于巴哈马与古巴，凸背异白蚁（Heterotermes convexinotatus）见于安提瓜、巴巴多斯、库拉索、多米尼加共和国、马提尼克、波多黎各、圣基茨、圣马丁、委内瑞拉与维尔京群岛，细瘦异白蚁（Heterotermes tenuis）见于除巴巴多斯与马提尼克以外的小安的列斯群岛、厄瓜多尔与苏里南。",
+            "text_en": "According to the abstract, the study sampled 63 localities; the Florida <i>Heterotermes</i> sp. is known to be non-native, and populations on Barbados, Grand Cayman, Grand Turk, Martinique and St. Barthelemy may include, or consist entirely of, non-native populations, suggesting that the termites of some islands were introduced by humans; <i>Heterotermes cardini</i> occurs in the Bahamas and Cuba, <i>Heterotermes convexinotatus</i> in Antigua, Barbados, Curaçao, the Dominican Republic, Martinique, Puerto Rico, St. Kitts, St. Maarten, Venezuela and the Virgin Islands, and <i>Heterotermes tenuis</i> in the Lesser Antilles except Barbados and Martinique, in Ecuador and in Suriname.",
+            "text_es": "Según el resumen, el estudio muestreó 63 localidades; la <i>Heterotermes</i> sp. de Florida no es autóctona, y las poblaciones de Barbados, Gran Caimán, Gran Turco, Martinica y San Bartolomé pueden incluir, o estar formadas enteramente por, poblaciones no autóctonas, lo que sugiere que las termitas de algunas islas fueron introducidas por el ser humano; <i>Heterotermes cardini</i> se encuentra en Bahamas y Cuba, <i>Heterotermes convexinotatus</i> en Antigua, Barbados, Curazao, República Dominicana, Martinica, Puerto Rico, San Cristóbal, San Martín, Venezuela e Islas Vírgenes, y <i>Heterotermes tenuis</i> en las Antillas Menores excepto Barbados y Martinica, en Ecuador y en Surinam.",
+            "src": [
+              "S0192"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0192",
+        "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+        "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+      },
+      {
+        "id": "S0008",
+        "citation": "Hellemans, S.; Rocha, M. M.; Wang, M.; et al. 2024. Genomic data provide insights into the classification of extant termites. Nature Communications 15.",
+        "doi": "10.1038/s41467-024-51028-y"
+      }
+    ]
+  },
+  "/species/heterotermes-cardini/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "西印度群岛的分布",
+        "heading_en": "Distribution in the West Indies",
+        "heading_es": "Distribución en las Antillas",
+        "paragraphs": [
+          {
+            "text": "据摘要，Szalanski 等（2004）依据 16S rRNA 序列把巴哈马与古巴的种群归为卡丁异白蚁（Heterotermes cardini），该种是西印度群岛 5 个类群之一。",
+            "text_en": "According to the abstract, Szalanski et al. (2004) assigned populations from the Bahamas and Cuba to <i>Heterotermes cardini</i> on the basis of 16S rRNA sequences; it is one of the five West Indian lineages.",
+            "text_es": "Según el resumen, Szalanski et al. (2004) asignaron a <i>Heterotermes cardini</i> las poblaciones de Bahamas y Cuba sobre la base de secuencias de ARNr 16S; es uno de los cinco linajes antillanos.",
+            "src": [
+              "S0192"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0192",
+        "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+        "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+      }
+    ]
+  },
+  "/species/heterotermes-convexinotatus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "西印度群岛的分布",
+        "heading_en": "Distribution in the West Indies",
+        "heading_es": "Distribución en las Antillas",
+        "paragraphs": [
+          {
+            "text": "据摘要，Szalanski 等（2004）把安提瓜、巴巴多斯、库拉索、多米尼加共和国、马提尼克、波多黎各、圣基茨、圣马丁、委内瑞拉与维尔京群岛的种群归入凸背异白蚁（Heterotermes convexinotatus）。",
+            "text_en": "According to the abstract, Szalanski et al. (2004) assigned populations from Antigua, Barbados, Curaçao, the Dominican Republic, Martinique, Puerto Rico, St. Kitts, St. Maarten, Venezuela and the Virgin Islands to <i>Heterotermes convexinotatus</i>.",
+            "text_es": "Según el resumen, Szalanski et al. (2004) asignaron a <i>Heterotermes convexinotatus</i> las poblaciones de Antigua, Barbados, Curazao, República Dominicana, Martinica, Puerto Rico, San Cristóbal, San Martín, Venezuela e Islas Vírgenes.",
+            "src": [
+              "S0192"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0192",
+        "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+        "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+      }
+    ]
+  },
+  "/species/heterotermes-tenuis/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "西印度群岛的分布",
+        "heading_en": "Distribution in the West Indies",
+        "heading_es": "Distribución en las Antillas",
+        "paragraphs": [
+          {
+            "text": "据摘要，Szalanski 等（2004）把除巴巴多斯与马提尼克以外的小安的列斯群岛、厄瓜多尔与苏里南的种群归入细瘦异白蚁（Heterotermes tenuis）。",
+            "text_en": "According to the abstract, Szalanski et al. (2004) assigned populations from the Lesser Antilles except Barbados and Martinique, from Ecuador and from Suriname to <i>Heterotermes tenuis</i>.",
+            "text_es": "Según el resumen, Szalanski et al. (2004) asignaron a <i>Heterotermes tenuis</i> las poblaciones de las Antillas Menores excepto Barbados y Martinica, de Ecuador y de Surinam.",
+            "src": [
+              "S0192"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0192",
+        "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+        "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+      }
+    ]
+  },
+  "/genus/cryptotermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "澳大利亚的种与检索表",
+        "heading_en": "Australian species and keys",
+        "heading_es": "Especies australianas y claves",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）研究澳大利亚的堆砂白蚁属（Cryptotermes），讨论 4 个特有种：吉尔里堆砂白蚁（Cryptotermes gearyi）、第一堆砂白蚁（Cryptotermes primus）（堆砂白蚁属的旧异名 Cryptotermes arcanus 并入此种）、昆士兰堆砂白蚁（Cryptotermes queenslandis）与第二堆砂白蚁（Cryptotermes secundus）（从长颚堆砂白蚁 Cryptotermes dudleyi 的异名中移出）；描述 8 个新种：澳大利亚堆砂白蚁（Cryptotermes austrinus）、高额堆砂白蚁（Cryptotermes cristatus）、希尔堆砂白蚁（Cryptotermes hilli）、亮头堆砂白蚁（Cryptotermes nitidus）、丘翅堆砂白蚁（Cryptotermes papulosus）、里弗赖纳堆砂白蚁（Cryptotermes riverinae）、似昆士兰堆砂白蚁（Cryptotermes simulatus）与热带堆砂白蚁（Cryptotermes tropicalis）；记录外来种麻头堆砂白蚁（Cryptotermes brevis）与长颚堆砂白蚁（Cryptotermes dudleyi）；并指出犬头堆砂白蚁（Cryptotermes cynocephalus）与截头堆砂白蚁（Cryptotermes domesticus）过去被认为外来，实际在澳大利亚北部自然分布，因此改作特有种；文中提供成虫与兵蚁检索表。",
+            "text_en": "According to the abstract, Gay and Watson (1982) studied the genus <i>Cryptotermes</i> in Australia, discussing four endemic species, <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> (<i>Cryptotermes arcanus</i> placed in its synonymy), <i>Cryptotermes queenslandis</i> and <i>Cryptotermes secundus</i> (removed from synonymy with <i>Cryptotermes dudleyi</i>); describing eight new species, <i>Cryptotermes austrinus</i>, <i>Cryptotermes cristatus</i>, <i>Cryptotermes hilli</i>, <i>Cryptotermes nitidus</i>, <i>Cryptotermes papulosus</i>, <i>Cryptotermes riverinae</i>, <i>Cryptotermes simulatus</i> and <i>Cryptotermes tropicalis</i>; recording the introduced species <i>Cryptotermes brevis</i> and <i>Cryptotermes dudleyi</i>; and noting that <i>Cryptotermes cynocephalus</i> and <i>Cryptotermes domesticus</i>, formerly regarded as introduced, are in fact native to northern Australia and are therefore treated as endemic; the paper provides keys to the adults and soldiers.",
+            "text_es": "Según el resumen, Gay y Watson (1982) estudiaron el género <i>Cryptotermes</i> en Australia, tratando cuatro especies endémicas, <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> (<i>Cryptotermes arcanus</i> incluida en su sinonimia), <i>Cryptotermes queenslandis</i> y <i>Cryptotermes secundus</i> (sacada de la sinonimia con <i>Cryptotermes dudleyi</i>); describiendo ocho especies nuevas, <i>Cryptotermes austrinus</i>, <i>Cryptotermes cristatus</i>, <i>Cryptotermes hilli</i>, <i>Cryptotermes nitidus</i>, <i>Cryptotermes papulosus</i>, <i>Cryptotermes riverinae</i>, <i>Cryptotermes simulatus</i> y <i>Cryptotermes tropicalis</i>; registrando las especies introducidas <i>Cryptotermes brevis</i> y <i>Cryptotermes dudleyi</i>; y señalando que <i>Cryptotermes cynocephalus</i> y <i>Cryptotermes domesticus</i>, antes consideradas introducidas, son en realidad nativas del norte de Australia y por ello se tratan como endémicas; el trabajo aporta claves para adultos y soldados.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "Gay, F. J.; Watson, J. A. L. 1982. The genus Cryptotermes in Australia (Isoptera: Kalotermitidae). Australian Journal of Zoology, Supplementary Series 88.",
+        "doi": "10.1071/AJZS088"
+      }
+    ]
+  },
+  "/species/cryptotermes-secundus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "分类地位与澳大利亚的分布",
+        "heading_en": "Taxonomic status and occurrence in Australia",
+        "heading_es": "Estatus taxonómico y presencia en Australia",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）把第二堆砂白蚁（Cryptotermes secundus）从长颚堆砂白蚁（Cryptotermes dudleyi）的异名中移出，恢复为独立种，并把它列为澳大利亚特有种之一。",
+            "text_en": "According to the abstract, Gay and Watson (1982) removed <i>Cryptotermes secundus</i> from synonymy with <i>Cryptotermes dudleyi</i>, restoring it as a distinct species and treating it as one of the endemic species of Australia.",
+            "text_es": "Según el resumen, Gay y Watson (1982) sacaron <i>Cryptotermes secundus</i> de la sinonimia con <i>Cryptotermes dudleyi</i>, restableciéndola como especie distinta y tratándola como una de las especies endémicas de Australia.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "Gay, F. J.; Watson, J. A. L. 1982. The genus Cryptotermes in Australia (Isoptera: Kalotermitidae). Australian Journal of Zoology, Supplementary Series 88.",
+        "doi": "10.1071/AJZS088"
+      }
+    ]
+  },
+  "/genus/drepanotermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "1981 年的属级修订",
+        "heading_en": "The 1981 revision of the genus",
+        "heading_es": "La revisión del género de 1981",
+        "paragraphs": [
+          {
+            "text": "据摘要，Watson 与 Perry（1981）修订澳大利亚特有的镰白蚁属（Drepanotermes），描述 17 个新种：细长镰白蚁（Drepanotermes acicularis）、巴雷特镰白蚁（Drepanotermes barretti）、基齿镰白蚁（Drepanotermes basidens）、勇士镰白蚁（Drepanotermes bellator）、短小镰白蚁（Drepanotermes brevis）、卡拉比镰白蚁（Drepanotermes calabyi）、小柱镰白蚁（Drepanotermes columellaris）、乌黑镰白蚁（Drepanotermes corax）、厚齿镰白蚁（Drepanotermes crassidens）、狄波拉镰白蚁（Drepanotermes dibolia）、多色镰白蚁（Drepanotermes diversicolor）、盖伊镰白蚁（Drepanotermes gayi）、小钩镰白蚁（Drepanotermes hamulus）、希尔镰白蚁（Drepanotermes hilli）、入侵镰白蚁（Drepanotermes invasor）、奇异镰白蚁（Drepanotermes paradoxus）与凤凰镰白蚁（Drepanotermes phoenix）；重描述克拉克镰白蚁（Drepanotermes clarki）、戴利镰白蚁（Drepanotermes daliensis）、全黑镰白蚁（Drepanotermes perniger）、红头镰白蚁（Drepanotermes rubriceps）、北方镰白蚁（Drepanotermes septentrionalis）与塔明镰白蚁（Drepanotermes tamminensis）；把巨大镰白蚁（Drepanotermes magnificus）作 nomen dubium、红头镰白蚁的种下名 opacus 作 nomen nudum，为若干种指定选模兵蚁，并把镰白蚁属的旧异名 Drepanotermes silvestrii 作红头镰白蚁（Drepanotermes rubriceps）的异名；另给出分布、生境、巢结构、食物、分飞、客居者及同域关系。",
+            "text_en": "According to the abstract, Watson and Perry (1981) revised the Australian endemic genus <i>Drepanotermes</i>, describing 17 new species, <i>Drepanotermes acicularis</i>, <i>Drepanotermes barretti</i>, <i>Drepanotermes basidens</i>, <i>Drepanotermes bellator</i>, <i>Drepanotermes brevis</i>, <i>Drepanotermes calabyi</i>, <i>Drepanotermes columellaris</i>, <i>Drepanotermes corax</i>, <i>Drepanotermes crassidens</i>, <i>Drepanotermes dibolia</i>, <i>Drepanotermes diversicolor</i>, <i>Drepanotermes gayi</i>, <i>Drepanotermes hamulus</i>, <i>Drepanotermes hilli</i>, <i>Drepanotermes invasor</i>, <i>Drepanotermes paradoxus</i> and <i>Drepanotermes phoenix</i>; redescribing <i>Drepanotermes clarki</i>, <i>Drepanotermes daliensis</i>, <i>Drepanotermes perniger</i>, <i>Drepanotermes rubriceps</i>, <i>Drepanotermes septentrionalis</i> and <i>Drepanotermes tamminensis</i>; treating <i>Drepanotermes magnificus</i> as a nomen dubium and <i>Drepanotermes rubriceps opacus</i> as a nomen nudum, designating lectotype soldiers for several species, and placing <i>Drepanotermes silvestrii</i> as a synonym of <i>Drepanotermes rubriceps</i>; the paper also covers distribution, habitat, nest structure, food, dispersal flights, inquilines and sympatric relationships.",
+            "text_es": "Según el resumen, Watson y Perry (1981) revisaron el género endémico australiano <i>Drepanotermes</i>, describiendo 17 especies nuevas, <i>Drepanotermes acicularis</i>, <i>Drepanotermes barretti</i>, <i>Drepanotermes basidens</i>, <i>Drepanotermes bellator</i>, <i>Drepanotermes brevis</i>, <i>Drepanotermes calabyi</i>, <i>Drepanotermes columellaris</i>, <i>Drepanotermes corax</i>, <i>Drepanotermes crassidens</i>, <i>Drepanotermes dibolia</i>, <i>Drepanotermes diversicolor</i>, <i>Drepanotermes gayi</i>, <i>Drepanotermes hamulus</i>, <i>Drepanotermes hilli</i>, <i>Drepanotermes invasor</i>, <i>Drepanotermes paradoxus</i> y <i>Drepanotermes phoenix</i>; redescribiendo <i>Drepanotermes clarki</i>, <i>Drepanotermes daliensis</i>, <i>Drepanotermes perniger</i>, <i>Drepanotermes rubriceps</i>, <i>Drepanotermes septentrionalis</i> y <i>Drepanotermes tamminensis</i>; tratando <i>Drepanotermes magnificus</i> como nomen dubium y <i>Drepanotermes rubriceps opacus</i> como nomen nudum, designando soldados lectotipo para varias especies y situando <i>Drepanotermes silvestrii</i> como sinónimo de <i>Drepanotermes rubriceps</i>; el trabajo también abarca distribución, hábitat, estructura del nido, alimento, vuelos de dispersión, inquilinos y relaciones simpátricas.",
+            "src": [
+              "S0190"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0190",
+        "citation": "Watson, J. A. L.; Perry, D. H. 1981. The Australian harvester termites of the genus Drepanotermes (Isoptera: Termitinae). Australian Journal of Zoology, Supplementary Series 78.",
+        "doi": "10.1071/AJZS078"
+      }
+    ]
+  },
+  "/genus/trinervitermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "西非五种的取食与共存",
+        "heading_en": "Foraging and coexistence of five West African species",
+        "heading_es": "Forrajeo y coexistencia de cinco especies de África occidental",
+        "paragraphs": [
+          {
+            "text": "据摘要，Sands（1961）研究西非三脉白蚁属（Trinervitermes）5 个种的觅食行为与食性：其中 3 个种在巢内堆放草片段，根三脉白蚁（Trinervitermes oeconomus）与同属另 1 个种则不在巢内堆放；3 个堆草种所堆草片段的尺寸各不相同；实验显示选择性采食特定草种，不同食物上的存活率显示各种适应不同条件；作者认为 5 种共存依赖于小尺度条件的镶嵌，并指出该属的 1 个种（Trinervitermes aurilerrae，拼写另有 auriterrae 一版）最接近象白蚁属（Nasutitermes）式的祖先。",
+            "text_en": "According to the abstract, Sands (1961) studied the foraging behaviour and feeding habits of five West African <i>Trinervitermes</i> species: <i>Trinervitermes ebenerianus</i>, <i>Trinervitermes carbonarius</i> and <i>Trinervitermes suspensus</i> store grass fragments in the nest, whereas <i>Trinervitermes oeconomus</i> and <i>Trinervitermes aurilerrae</i> do not; the three storing species store grass fragments of different sizes; experiments showed selective harvesting of particular grass species, and survival on different foods indicated that each species is adapted to different conditions; the author concluded that coexistence of the five species depends on a mosaic of small-scale conditions and noted that <i>Trinervitermes aurilerrae</i> comes closest to a <i>Nasutitermes</i>-like ancestor.",
+            "text_es": "Según el resumen, Sands (1961) estudió el comportamiento de forrajeo y los hábitos alimentarios de cinco especies de <i>Trinervitermes</i> de África occidental: <i>Trinervitermes ebenerianus</i>, <i>Trinervitermes carbonarius</i> y <i>Trinervitermes suspensus</i> almacenan fragmentos de hierba en el nido, mientras que <i>Trinervitermes oeconomus</i> y <i>Trinervitermes aurilerrae</i> no lo hacen; las tres especies almacenadoras guardan fragmentos de tamaños diferentes; los experimentos mostraron una recolección selectiva de determinadas especies de hierba, y la supervivencia sobre distintos alimentos indicó que cada especie está adaptada a condiciones diferentes; el autor concluyó que la coexistencia de las cinco especies depende de un mosaico de condiciones a pequeña escala y señaló que <i>Trinervitermes aurilerrae</i> es la más próxima a un ancestro del tipo <i>Nasutitermes</i>.",
+            "src": [
+              "S0186"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0186",
+        "citation": "Sands, W. A. 1961. Foraging behaviour and feeding habits in five species of Trinervitermes in West Africa. Entomologia Experimentalis et Applicata 4: 277–288.",
+        "doi": "10.1111/j.1570-7458.1961.tb02143.x"
+      }
+    ]
+  },
+  "/genus/microtermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "坦噶尼喀农田的巢室密度",
+        "heading_en": "Nest-chamber densities in Tanganyikan farmland",
+        "heading_es": "Densidad de cámaras en tierras agrícolas de Tanganica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Bigger（1966）在坦噶尼喀南部的 miombo 林地调查危害作物的白蚁；在 50×24 ft、深 6 ft 的坑中，部白小白蚁（Microtermes albopartitus）有 425 个被占用的巢室，雷登小白蚁（Microtermes redenianus）有 166 个，这两个小白蚁属（Microtermes）种的巢室近随机散布，并集中于表层 2 ft，但 6 ft 并非最大筑巢深度。",
+            "text_en": "According to the abstract, Bigger (1966) surveyed termites damaging crops in the miombo woodland of southern Tanganyika; in a pit 50 × 24 ft and 6 ft deep, <i>Microtermes albopartitus</i> occupied 425 nest chambers and <i>Microtermes redenianus</i> 166; the chambers of both species were distributed almost at random and concentrated in the top 2 ft, but 6 ft was not the maximum nesting depth.",
+            "text_es": "Según el resumen, Bigger (1966) estudió las termitas que dañan los cultivos en el bosque de miombo del sur de Tanganica; en una fosa de 50 × 24 pies y 6 pies de profundidad, <i>Microtermes albopartitus</i> ocupaba 425 cámaras y <i>Microtermes redenianus</i> 166; las cámaras de ambas especies se distribuían casi al azar y se concentraban en los primeros 2 pies, pero 6 pies no era la profundidad máxima de nidificación.",
+            "src": [
+              "S0193"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0193",
+        "citation": "Bigger, M. 1966. The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+        "doi": "10.1017/S0007485300056509"
+      }
+    ]
+  },
+  "/genus/ancistrotermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "巢室的空间格局",
+        "heading_en": "Spatial pattern of nest chambers",
+        "heading_es": "Patrón espacial de las cámaras del nido",
+        "paragraphs": [
+          {
+            "text": "据摘要，同一调查中宽背钩白蚁（Ancistrotermes latinotus）有 54 个被占用的巢室；与小白蚁属（Microtermes）两个种近随机散布的巢室不同，钩白蚁属（Ancistrotermes）该种的巢室聚成小簇并以长跑道相连。",
+            "text_en": "According to the abstract, in the same survey <i>Ancistrotermes latinotus</i> occupied 54 nest chambers; unlike the almost randomly scattered chambers of the two <i>Microtermes</i> species, its chambers were clustered in small groups connected by long runways.",
+            "text_es": "Según el resumen, en el mismo estudio <i>Ancistrotermes latinotus</i> ocupaba 54 cámaras; a diferencia de las cámaras casi dispersas al azar de las dos especies de <i>Microtermes</i>, sus cámaras se agrupaban en pequeños conjuntos conectados por largas galerías.",
+            "src": [
+              "S0193"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0193",
+        "citation": "Bigger, M. 1966. The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+        "doi": "10.1017/S0007485300056509"
+      }
+    ]
+  },
+  "/genus/hodotermopsis/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "科级归属的变动",
+        "heading_en": "Change of family placement",
+        "heading_es": "Cambio de asignación familiar",
+        "paragraphs": [
+          {
+            "text": "据摘要，Wang 等（2022）用 27 个样本的核 rRNA 基因与线粒体基因组重建 Teletisoptera（胄白蚁科 Stolotermitidae + 草白蚁科 Hodotermitidae + 古白蚁科 Archotermopsidae）的系统发育，确认 Teletisoptera 为单系，并把以原白蚁属（Hodotermopsis）为唯一成员的原白蚁亚科 Hodotermopsinae 提升为原白蚁科（Hodotermopsidae，status novum）；本站现采用这一科级归属，旧文献把原白蚁属置于古白蚁科者，应写「当时置于古白蚁科（Archotermopsidae），2022 年后置于原白蚁科（Hodotermopsidae）」。",
+            "text_en": "According to the abstract, Wang et al. (2022) reconstructed the phylogeny of Teletisoptera (Stolotermitidae + Hodotermitidae + Archotermopsidae) from the nuclear rRNA genes and mitochondrial genomes of 27 samples, confirmed the monophyly of Teletisoptera and elevated Hodotermopsinae (containing only <i>Hodotermopsis</i>) to Hodotermopsidae (status novum); this site follows that family placement, and older literature placing the genus in Archotermopsidae should be cited as \"then placed in Archotermopsidae, placed in Hodotermopsidae since 2022\".",
+            "text_es": "Según el resumen, Wang et al. (2022) reconstruyeron la filogenia de Teletisoptera (Stolotermitidae + Hodotermitidae + Archotermopsidae) a partir de los genes de ARNr nuclear y los genomas mitocondriales de 27 muestras, confirmaron la monofilia de Teletisoptera y elevaron Hodotermopsinae (que contiene solo <i>Hodotermopsis</i>) a Hodotermopsidae (status novum); este sitio sigue esa asignación familiar, y la bibliografía antigua que situaba el género en Archotermopsidae debe citarse como «situado entonces en Archotermopsidae, situado en Hodotermopsidae desde 2022».",
+            "src": [
+              "S0196"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0196",
+        "citation": "Wang, M.; Hellemans, S.; Šobotník, J.; et al. 2022. Phylogeny, biogeography and classification of Teletisoptera (Blattaria: Isoptera). Systematic Entomology.",
+        "doi": "10.1111/syen.12548"
+      }
+    ]
+  },
+  "/genus/zootermopsis/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "Archotermopsidae 的收窄",
+        "heading_en": "Restriction of Archotermopsidae",
+        "heading_es": "Restricción de Archotermopsidae",
+        "paragraphs": [
+          {
+            "text": "据摘要，Wang 等（2022）指出古白蚁科（Archotermopsidae）为并系，修订后该科仅含古白蚁属（Archotermopsis）与动白蚁属（Zootermopsis）两属；同一分析中草白蚁科（Hodotermitidae）为单系，胄白蚁科（Stolotermitidae）与草白蚁科 + 古白蚁科约在 100 Ma 前分开。",
+            "text_en": "According to the abstract, Wang et al. (2022) showed that Archotermopsidae is paraphyletic and restricted the family to <i>Archotermopsis</i> and <i>Zootermopsis</i>; in the same analysis Hodotermitidae was monophyletic, and Stolotermitidae diverged from Hodotermitidae + Archotermopsidae about 100 Ma ago.",
+            "text_es": "Según el resumen, Wang et al. (2022) mostraron que Archotermopsidae es parafilética y restringieron la familia a <i>Archotermopsis</i> y <i>Zootermopsis</i>; en el mismo análisis Hodotermitidae fue monofilética, y Stolotermitidae se separó de Hodotermitidae + Archotermopsidae hace unos 100 Ma.",
+            "src": [
+              "S0196"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0196",
+        "citation": "Wang, M.; Hellemans, S.; Šobotník, J.; et al. 2022. Phylogeny, biogeography and classification of Teletisoptera (Blattaria: Isoptera). Systematic Entomology.",
+        "doi": "10.1111/syen.12548"
+      }
+    ]
+  },
+  "/genus/stylotermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "巢群组成与实验室饲养",
+        "heading_en": "Colony composition and laboratory rearing",
+        "heading_es": "Composición de la colonia y cría en laboratorio",
+        "paragraphs": [
+          {
+            "text": "据摘要，Thakur 等（2023）研究凹胸杆白蚁（Stylotermes faveolus）与穿山甲杆白蚁（Stylotermes halumicus）的追踪信息素，所用两份巢片段各含数百头工蚁（暂按广义拟工蚁处理）与数十头兵蚁；作者指出，杆白蚁属（Stylotermes）因采集困难，其生物学仍属认知极少的类群。",
+            "text_en": "According to the abstract, Thakur et al. (2023) studied trail-following communication in Stylotermes faveolus and Stylotermes halumicus; each of the two nest fragments used contained hundreds of workers (treated provisionally as pseudergates sensu lato) and tens of soldiers. The authors note that the difficulty of collecting termites of the genus Stylotermes leaves its biology among the least known among termites.",
+            "text_es": "Según el resumen, Thakur et al. (2023) estudiaron la comunicación por feromona de rastro en Stylotermes faveolus y Stylotermes halumicus; cada uno de los dos fragmentos de nido utilizados contenía cientos de obreras (tratadas provisionalmente como pseudergates sensu lato) y decenas de soldados. Los autores señalan que la dificultad de recolectar termitas del género Stylotermes hace que su biología siga siendo muy poco conocida.",
+            "src": [
+              "S0010"
+            ]
+          },
+          {
+            "text": "据摘要，Thakur 与 Mishra（1996）比较印度木栖白蚁与土栖种的实验室饲养：比森双裂白蚁（Bifiditermes beesoni）、鲍斯新白蚁（Neotermes bosei）与杆白蚁属（Stylotermes）数种等木栖种较易大量饲养，方法是将带活巢的受害木段连同足量完好木材置入铁制或水泥容器，控制 28±1°C、80–90% RH。",
+            "text_en": "According to the abstract, Thakur and Mishra (1996) compared laboratory rearing of wood-dwelling and subterranean termites in India: wood-dwelling species such as Bifiditermes beesoni, Neotermes bosei and several species of Stylotermes were easier to rear in mass culture, by placing attacked wood segments bearing live colonies together with a sufficient portion of sound wood in iron or cement containers kept at 28±1°C and 80–90% RH.",
+            "text_es": "Según el resumen, Thakur y Mishra (1996) compararon la cría en laboratorio de termitas madereras y subterráneas de la India: las especies madereras como Bifiditermes beesoni, Neotermes bosei y varias especies de Stylotermes fueron más fáciles de criar en masa, colocando segmentos de madera atacados con colonias vivas junto con una porción suficiente de madera sana en recipientes de hierro o cemento a 28±1°C y 80–90% RH.",
+            "src": [
+              "S0012"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0010",
+        "citation": "Thakur, H. et al. 2023. The trail-following communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae). Journal of Chemical Ecology 49: 642–651.",
+        "doi": "10.1007/s10886-023-01447-w"
+      },
+      {
+        "id": "S0012",
+        "citation": "Thakur, M. L.; Mishra, S. C. 1996. Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
+        "url": "https://indianjournals.com/article/jer-20-1-013"
       }
     ]
   }

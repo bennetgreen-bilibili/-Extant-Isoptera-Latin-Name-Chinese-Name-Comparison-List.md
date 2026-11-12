@@ -3,7 +3,7 @@
     "version": 1,
     "count": 429,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-12T20:15:08+08:00",
+    "updated": "2026-11-12T20:40:29+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -1123,7 +1123,8 @@
         }
       ],
       "used_in": [
-        "白蚁基础知识-中文稿-修订-v5.docx"
+        "白蚁基础知识-中文稿-修订-v5.docx",
+        "_data/taxon_literature.json"
       ],
       "notes": "引文摘自 Research Square 预印本全文；正式版 DOI 见 doi 字段，摘要经 Europe PMC 核对一致。access: 正式版正文未获取（订阅刊），预印本全文可读；预印本全文见 S0013（DOI 10.21203/rs.3.rs-2770501/v1）。",
       "accessed": "2026-11-07T01:02:42+08:00",
@@ -10254,8 +10255,76 @@
       "license": "cc-by",
       "doi": "10.1673/031.010.6501",
       "url": "https://academic.oup.com/jinsectscience/article-pdf/10/1/65/18172278/jis10-0065.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The harvester termite, Baucaliotermes hainesi (Fuller) (Termitidae: Nasutitermitinae), is an endemic in southern Namibia, where it collects and eats dry grass.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑：纳米比亚南部特有种、取食干草"
+        },
+        {
+          "quote": "The range of this species is limited to southern Namibia and the northwestern Cape Province of South Africa (Coaton and Sheasby 1973).",
+          "locator": "Distribution / full.txt",
+          "note": "支撑：分布限纳米比亚南部与南非西北开普省"
+        },
+        {
+          "quote": "Nests of B. hainesi were regularly visible at the surface as small mounds of cemented material 10 to 15 cm high.",
+          "locator": "Tunnel excavation and mapping / full.txt",
+          "note": "支撑：巢在地表露出 10–15 cm 高胶结砂小丘"
+        },
+        {
+          "quote": "At 50 to 75 cm intervals, the tunnels are connected to the surface by vertical risers that can be opened to gain foraging access to the surrounding area.",
+          "locator": "Results, tunnel architecture / full.txt",
+          "note": "支撑：每 50–75 cm 一条通往地面的竖井"
+        },
+        {
+          "quote": "Riser openings were usually closed during the day, as this termite species forages mostly at night.",
+          "locator": "Results, tunnel architecture / full.txt",
+          "note": "支撑：竖井白天关闭、主要夜间觅食"
+        },
+        {
+          "quote": "The distance between risers averaged 50 to 75 cm among tunnels (SD 14 to 40 cm), suggesting that the termites rarely needed to travel more than one half to one meter on the surface.",
+          "locator": "Results, tunnel architecture / full.txt",
+          "note": "支撑：竖井间距 50–75 cm（SD 14–40），地面行走很少超过 0.5–1 m"
+        },
+        {
+          "quote": "The total length of tunnels exposed was 76 m within an area of roughly 170 m2 in the first excavation and 110 m of tunnel in an area of about 300 m2 in the second excavation.",
+          "locator": "Results, excavation / full.txt",
+          "note": "支撑：两次发掘分别为 76 m/170 m² 与 110 m/300 m²"
+        },
+        {
+          "quote": "In the center runs a smooth, raised walkway along which termites travel, and along the sides lie pockets that act as depots where foragers deposit grass pieces harvested from the surface.",
+          "locator": "Results, tunnel cross-section / full.txt",
+          "note": "支撑：隧道中央走道、两侧凹囊为草片段暂存点"
+        },
+        {
+          "quote": "The nest was home to about 45,000 termites, of which about 6,000 (13%) were immature (but very small immatures, and eggs were not counted), 32,300 (71%; 36 g, dry) were workers and 4,100 (9.1%; 3 g, dry) were soldiers.",
+          "locator": "Results, nest census / full.txt",
+          "note": "支撑：巢内约 45,000 头；未成熟 13%、工蚁 71%、兵蚁 9.1%"
+        },
+        {
+          "quote": "In addition, there were about 2,800 (6.2%; 5 g, dry) immature reproductives with wing buds.",
+          "locator": "Results, nest census / full.txt",
+          "note": "支撑：具翅芽未成熟生殖蚁约 2,800 头（6.2%）"
+        },
+        {
+          "quote": "No primary reproductives and no “royal cell” were found, suggesting this may have been a subsidiary nest (or calie).",
+          "locator": "Results, nest census / full.txt",
+          "note": "支撑：未见原始生殖蚁与王台，疑为副巢"
+        },
+        {
+          "quote": "The total dry weight of grass in the nest was about 15 g, probably a small fraction of what was still in the tunnel system depots.",
+          "locator": "Results, nest contents / full.txt",
+          "note": "支撑：巢内草片段干重约 15 g"
+        },
+        {
+          "quote": "A species of smaller termite, Promirotermes sp., was found co-nesting with B. hainesi.",
+          "locator": "Results, nest contents / full.txt",
+          "note": "支撑：同巢外壳内有 Promirotermes sp. 共栖"
+        }
+      ],
       "id": "S0185"
     },
     {
@@ -10292,8 +10361,36 @@
       "publisher": "Entomologia Experimentalis et Applicata",
       "lang": "en",
       "doi": "10.1111/j.1570-7458.1961.tb02143.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The five species can be divided into two groups, comprising those which store grass fragments in the mounds and those which do not.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：五种分两群——巢内堆草与不堆草"
+        },
+        {
+          "quote": "Les cinq espèces forment deux groupes, contenant l'un, T. ebenerianus, T. carbonarius et T. suspensus, lesquels entassent dans leur nids des fragments d'herbe; l'autre, T. oeconomus et T. aurilerrae, lesquels n'en entassent pas.",
+          "locator": "法文摘要 / full.txt",
+          "note": "支撑：堆草三名为 T. ebenerianus、T. carbonarius、T. suspensus；不堆草为 T. oeconomus 与 T. aurilerrae"
+        },
+        {
+          "quote": "Les fragments d'herbe entassés sont de taille différente selon les trois espèces.",
+          "locator": "法文摘要 / full.txt",
+          "note": "支撑：三个堆草种的草片段尺寸各异"
+        },
+        {
+          "quote": "Experiments indicated that selective foraging of grass species may occur. Survival on various foods suggested adaptation to differing conditions in each species.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：选择性采食草种；不同食物存活率示各自适应"
+        },
+        {
+          "quote": "On pense que T. auriterrae se rapproche le plus d'un ancêtre qui ressemble à Nasutitermes.",
+          "locator": "法文摘要 / full.txt",
+          "note": "支撑：T. aurilerrae 最接近 Nasutitermes 样祖先（原文另拼 auriterrae）"
+        }
+      ],
       "id": "S0186",
       "fulltext_status": "abstract-no-oa"
     },
@@ -10332,8 +10429,36 @@
       "publisher": "Australian Journal of Zoology Supplementary Series",
       "lang": "en",
       "doi": "10.1071/ajzs088",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The endemic species discussed are C gearyi (Hill), C. primus (Hill) [with which C. arcanus (Hill) is synonymized], C. queenslandis (Hill), and C. secundus (Hill) (removed from synonymy with C. dudleyi Banks)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：4 个特有种；C. arcanus 并入 C. primus；C. secundus 从 C. dudleyi 异名中移出"
+        },
+        {
+          "quote": "in addition, eight new species are described: C. austrinus, C. cristatus, C. hilli, C. nitidus, C. papulosus, C. riverinae, C. simulatus, and C. tropicalis",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：8 个新种名录"
+        },
+        {
+          "quote": "Two other species, C. cynocephalus Light and C. domesticus (Haviland), previously considered to be introduced exotic species, occur naturally in northern Australia and are treated as endemic.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：C. cynocephalus 与 C. domesticus 在澳北原生、改作特有种"
+        },
+        {
+          "quote": "The exotic species included are C. brevis (Walker) and C. dudleyi Banks.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：外来种为 C. brevis 与 C. dudleyi"
+        },
+        {
+          "quote": "Keys are given to the imago and soldier castes of all the above species.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：给出成虫与兵蚁检索表"
+        }
+      ],
       "id": "S0187",
       "fulltext_status": "abstract-no-oa"
     },
@@ -10455,8 +10580,31 @@
       "publisher": "Australian Journal of Zoology Supplementary Series",
       "lang": "en",
       "doi": "10.1071/ajzs078",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Seventeen new species are described: D. Acicularis, D. Barrett, D. Basidens, D. Bellator, D. Brevis, D. Calabyi, D. columellaris, D. corax, D. crassidens, D. dibolia, D. diversicolor, D. gayi, D. harnulus, D. hilli, D. invasor, D. paradoxus and D. phoenix",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：17 个新种名录（摘要原文拼作 D. Barrett、D. harnulus）"
+        },
+        {
+          "quote": "D. magnificus (Mjöberg) is regarded as a nomen dubium and D. rubriceps opacus (Hill) as a nomen nudum",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：D. magnificus 为 nomen dubium；D. rubriceps opacus 为 nomen nudum"
+        },
+        {
+          "quote": "lectotype soldiers are designated for D. daliensis, D. perniger, D. silvestrii Hill. regarded as a synonym of D. rubriceps",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：指定选模兵蚁；D. silvestrii 作 D. rubriceps 异名"
+        },
+        {
+          "quote": "The general biology of Drepanotermes is summarized, and data are provided on the distribution, habitat, nest structure, food, flight, inquilines, affinities and sympatric associations of the individual species.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：提供分布、生境、巢结构、食物、分飞、客居者、亲缘与同域关系"
+        }
+      ],
       "id": "S0190",
       "fulltext_status": "abstract-no-oa"
     },
@@ -10501,8 +10649,71 @@
       "license": "cc-by",
       "doi": "10.1186/s12862-019-1459-3",
       "url": "https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/s12862-019-1459-3",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Thirteen colonies (68%) were classified as primary colonies headed by primary reproductives, with no indication of queen or king replacement.",
+          "locator": "Results, P. impostor / full.txt",
+          "note": "支撑：19 巢中 13 巢（68%）由原始生殖蚁为首"
+        },
+        {
+          "quote": "By contrast, six other nests (32%) were categorized as secondary colonies after primary queen replacement, because they contained one to 129 nymphoid neotenic queens and no primary queen.",
+          "locator": "Results, P. impostor / full.txt",
+          "note": "支撑：6 巢（32%）原始蚁后被 1–129 头若虫型新成蚁后取代"
+        },
+        {
+          "quote": "The majority of replacement females (Fig. 2a; 73%, of which 8/24 neotenic queens and 57/65 female aspirants) were produced through thelytokous parthenogenesis via automixis with gamete duplication, similarly to what was observed in C. tuberosus (85%; [13, 17]).",
+          "locator": "Results, P. impostor / full.txt",
+          "note": "支撑：73%（8/24 新成蚁后 + 57/65 候选者）为配子复制型孤雌生殖"
+        },
+        {
+          "quote": "Most P. impostor nests were de novo built underground constructions made of dense and hard soil",
+          "locator": "Results, nest description / full.txt",
+          "note": "支撑：新筑地下硬土巢，偶有少量地上部，常附大根或倒木"
+        },
+        {
+          "quote": "Nests of S. trispinosus were located underground, most often in adapted nest parts of Neocapritermes taracua (Termitinae) at the base of Astrocaryum palm trees.",
+          "locator": "Results, nest description / full.txt",
+          "note": "支撑：S. trispinosus 巢在地下，多在 N. taracua 改造巢段内、棕榈基部"
+        },
+        {
+          "quote": "Nymphs of the fifth stage were found in two nests collected in April 2017 and two nests from June 2016, indicating that the dispersal flights take place at the end of the wet season.",
+          "locator": "Results, S. trispinosus / full.txt",
+          "note": "支撑：5 龄若虫见于 2016-06 与 2017-04 巢，分飞在雨季末"
+        },
+        {
+          "quote": "Therefore, we report here for the first time the occurrence of neotenic queens in I. inquilinus (Fig. 1f).",
+          "locator": "Results, I. inquilinus / full.txt",
+          "note": "支撑：首次在 I. inquilinus 记录新成蚁后"
+        },
+        {
+          "quote": "Our results show that 50% of genotyped females from the nymphal line are fully homozygous, and most likely produced through parthenogenesis via gamete duplication.",
+          "locator": "Results, I. inquilinus / full.txt",
+          "note": "支撑：50% 若虫系雌性全纯合"
+        },
+        {
+          "quote": "Inquilinitermes inquilinus is an obligatory inquiline species strictly associated with the arboreal nests of C. cavifrons, and mostly found in the bottom part of the nest.",
+          "locator": "Results, nest description / full.txt",
+          "note": "支撑：严格寄居 C. cavifrons 树巢、多取巢下部"
+        },
+        {
+          "quote": "our field observations also show that the host nest itself is little resistant to abiotic factors (heavy rainfalls), which may lead to the fragmentation of the nest and its population",
+          "locator": "Discussion / full.txt",
+          "note": "支撑：宿主巢抗逆性差、易被暴雨破坏，促进补充生殖蚁"
+        },
+        {
+          "quote": "Our data also show that several pairs of dealates can colonize one host nest",
+          "locator": "Discussion / full.txt",
+          "note": "支撑：多对脱翅繁殖蚁可同占一巢"
+        },
+        {
+          "quote": "As yet, the known distribution of the newly established genus and species P. impostor is limited to three sites in French Guiana [21].",
+          "locator": "Discussion / full.txt",
+          "note": "支撑：P. impostor 已知分布仅法属圭亚那 3 个地点"
+        }
+      ],
       "id": "S0191"
     },
     {
@@ -10543,8 +10754,36 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1603/0013-8746(2004)097[0556:mpaboh]2.0.co;2",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Maximum parsimony analysis of the aligned Heterotermes species and the outgroup taxa resulted in a consensus tree with five distinct West Indian groups.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：最大简约树得 5 个西印度类群"
+        },
+        {
+          "quote": "Heterotermes cardini (Bahamas and Cuba)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：H. cardini 分布于巴哈马与古巴"
+        },
+        {
+          "quote": "Heterotermes convexinotatus (Antigua, Barbados, Curacao, Dominican Republic, Martinique, Puerto Rico, St. Kitts, St. Maarten, Venezuela, and Virgin Island)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：H. convexinotatus 分布列表"
+        },
+        {
+          "quote": "Heterotermes tenuis (Lesser Antilles except Barbados and Martinique, Ecuador, and Suriname)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：H. tenuis 分布列表"
+        },
+        {
+          "quote": "The Florida Heterotermes sp. is a known nonendemic population, whereas those on Barbados, Grand Cayman, Grand Turk, Martinique, St. Barthelemy, and elsewhere may harbor or consist solely of nonendemic populations.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：佛罗里达种群非特有；多个岛屿可能含或全为非特有种群"
+        }
+      ],
       "id": "S0192",
       "fulltext_status": "abstract-no-oa"
     },
@@ -10582,8 +10821,31 @@
       "publisher": "Bulletin of Entomological Research",
       "lang": "en",
       "doi": "10.1017/s0007485300056509",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A pit dug to investigate their nest systems showed that M. albopartitus was the most numerous, 425 occupied cells being recovered from an area 50 × 24 ft. excavated to a depth of 6 ft.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：50×24 ft、深 6 ft 坑中 M. albopartitus 425 个占用巢室"
+        },
+        {
+          "quote": "Cells of the other species included 166 of M. redenianus, 54 of Ancistrotermes latinotus and 49 of Allodontermes tenax.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：其余三种巢室数 166/54/49"
+        },
+        {
+          "quote": "The cells of Ancistrotermes latinotus were aggregated into small clusters connected by long runways; those of the other species were more or less randomly scattered.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：A. latinotus 巢室成簇由长跑道相连，其余近随机散布"
+        },
+        {
+          "quote": "The greatest concentration of cells of all species was within the top 2 ft. of the soil, but a number of cells were found at greater depths and it is certain that 6 ft. is not the maximum nesting depth.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：巢室集中于表层 2 ft，6 ft 非最大深度"
+        }
+      ],
       "id": "S0193",
       "fulltext_status": "abstract-no-oa"
     },
@@ -10698,7 +10960,8 @@
       "url": "https://doi.org/10.1111/syen.12548",
       "used_in": [
         "_data/taxonomy_crosswalk.json",
-        "_reports/library-reading/taxonomy-crosswalk.md"
+        "_reports/library-reading/taxonomy-crosswalk.md",
+        "_data/taxon_literature.json"
       ],
       "evidence": [
         {

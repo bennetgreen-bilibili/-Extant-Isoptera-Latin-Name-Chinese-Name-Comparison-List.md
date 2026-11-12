@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-12",
+  "note": "2026-11-12 轮（Phase A）读到但未写进页面的具体事实；批准后移至 _reports/library-reading/facts/2026-11-12.json。本轮 20 单元以论文为主，文库全文为摘要级别的条目一律标「据摘要」。",
+  "facts": [
+    {
+      "page": "/species/heterotermes-aureus/",
+      "claim": "植被覆盖最高的地点，纸巾诱饵被白蚁攻击最多；但已被占用的诱饵上的持续取食与植被覆盖无关。",
+      "quote": "Termite attack on toilet-paper baits was greatest at sites having the most vegetative cover. However, continued foraging at an already occupied toilet-paper bait was unrelated to vegetative cover.",
+      "src": "S0184",
+      "work": "Biotic and abiotic influences on foraging of Heterotermes aureus (Isoptera: Rhinotermitidae)",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "属页/种页可取；另有 6×6 m 样方随机觅食零假设结果可配"
+    },
+    {
+      "page": "/species/heterotermes-aureus/",
+      "claim": "6×6 m 样方内诱饵被攻击的格局与「白蚁相对食物间距随机觅食」的零假设一致。",
+      "quote": "In plots 6 by 6 m, the pattern of attack by termites was generally consistent with the null hypothesis that termites forage randomly with respect to distance between potential food sources.",
+      "src": "S0184",
+      "work": "Biotic and abiotic influences on foraging of Heterotermes aureus (Isoptera: Rhinotermitidae)",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "统计模型结论，可与前一条合并成一段"
+    },
+    {
+      "page": "/species/globitermes-sulphureus/",
+      "claim": "1% bistrifluron 纤维素饵剂处理约 2 个月后，工蚁体色呈大理石白、体表有螨，兵/工比骤升，巢壁开始侵蚀；灭巢需至少 4 个月。",
+      "quote": "By approximately 2 mo postbaiting, the body of termite workers appeared marble white, and mites were present on the body. The soldier-worker ratio increased drastically in the colonies, and the wall surface of the mounds started to erode. Colony elimination required at least a 4-mo baiting period.",
+      "src": "S0188",
+      "work": "Efficacy of bistrifluron bait against Globitermes sulphureus",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "灭巢时间线；摘要原文把属名缩写成 C. sulphureus，引用时须写全"
+    },
+    {
+      "page": "/species/globitermes-sulphureus/",
+      "claim": "每巢平均消耗 84.1±16.4 g 饵剂（68.9±13.4%，等效 841±164 mg bistrifluron）；143 mg bistrifluron 即足以灭一巢。",
+      "quote": "On average, 84.1 +/- 16.4 g of bait matrix (68.9 +/- 13.4%, an equivalent of 841 +/- 164 mg of bistrifluron) was consumed in each colony. Moreover, we found that a mere 143 mg of bistrifluron was sufficient to eliminate a colony of C. sulphureus.",
+      "src": "S0188",
+      "work": "Efficacy of bistrifluron bait against Globitermes sulphureus",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "剂量数据；与「巢内有被大量取食并长满快生真菌的湿纸板」一条可同段"
+    },
+    {
+      "page": "/genus/trinervitermes/",
+      "claim": "Lamto 保护区年烧草原、疏林草原、林岛、廊道林四生境中，疏林草原的物种数与廊道林接近，林岛最丰富；物种丰度仅与土壤 pH 和木本植物丰富度显著相关。",
+      "quote": "The number of termite species collected in the savanna woodland was very close to that found in the gallery forest while the forest island was the richest habitat.",
+      "src": "S0189",
+      "work": "Termite community response to habitat variability at Lamto",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "属页可写火干扰与生境异质性；另需补 pH 相关那句"
+    },
+    {
+      "page": "/genus/trinervitermes/",
+      "claim": "土壤 pH 对真菌培养者影响最大；稀树草原的乔木入侵强烈降低食草种 Trinervitermes geminatus 的丰度。",
+      "quote": "The pH appeared as the most influential factor for fungus-growers while tree invasion in the savanna strongly reduces the abundance of grass-feeding species (e.g. Trinervitermes geminatus ).",
+      "src": "S0189",
+      "work": "Termite community response to habitat variability at Lamto",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "种级事实，可落 /species/trinervitermes-geminatus/"
+    },
+    {
+      "page": "/species/gnathamitermes-tubiformans/",
+      "claim": "15 cm 土温低于 9°C 时，0–30.2 cm 土层内没有白蚁；土温低于 10°C 时白蚁沿地下廊道下移至 124 cm 以下。",
+      "quote": "Termites were not present in the upper 30.2 cm when the soil temperature at 15 cm was < 9 degrees C.",
+      "src": "S0194",
+      "work": "Population density and biomass of Gnathamitermes tubiformans",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "另有 124 cm 迁移句，可同段引用"
+    },
+    {
+      "page": "/species/gnathamitermes-tubiformans/",
+      "claim": "0–30.2 cm 土层内生物量两年平均 5.83 g/m²（活重），1972 年 9 月峰值 23.03 g/m²。",
+      "quote": "Biomass of desert termites in the upper 30.2 cm of soil averaged 5.83 g/m2 (live—weight) over the 2—yr period and reached a peak of 23.03 g/m2 during September 1972.",
+      "src": "S0194",
+      "work": "Population density and biomass of Gnathamitermes tubiformans",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "德州 Garza County 短草草原"
+    },
+    {
+      "page": "/species/paraneotermes-simplicicornis/",
+      "claim": "16–36°C 恒温下 Paraneotermes simplicicornis 各温度耗木均多于 Heterotermes aureus；前者 28°C 耗木最高，后者 36°C 最高；存活率趋势相反。",
+      "quote": "P. simplicicornis groups consumed more wood at all temperatures than did those of H. aureus. Wood consumption was highest at 28°C for P. simplicicornis, and at 36°C for H. aureus. Survival of P. simplicicornis decreased with increasing temperature, while it increased for H. aureus.",
+      "src": "S0195",
+      "work": "Wood consumption by Paraneotermes simplicicornis and Heterotermes aureus at constant temperatures",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "摘要原文用 P./H. 缩写，落页须写全属名"
+    },
+    {
+      "page": "/species/tumulitermes-tumuli/",
+      "claim": "Tumulitermes tumuli 能把 1–4 m 深的次生富集矿化物质搬到地表；矿化上方蚁丘及紧邻土壤的 250 µm 组分有金异常。",
+      "quote": "Tumulitermes tumuli is able to bring sub-surface mineralized material to the surface from 1 to 4 m depth.",
+      "src": "S0197",
+      "work": "Termite mounds as a geochemical sample medium at the Moolart Well gold deposit",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "另有 >2000 µm 组分 >5000 ppb 的豆状砾垂直搬运句"
+    },
+    {
+      "page": "/species/tumulitermes-tumuli/",
+      "claim": "矿化上方蚁丘的 >2000 µm 组分金浓度 >5000 ppb，由白蚁垂直搬运异常豆状砾造成。",
+      "quote": "Very high concentrations (>5000 ppb) were found in >2000 µm fractions in nests over mineralization as a result of vertical transport of anomalous pisolitic gravels by termites.",
+      "src": "S0197",
+      "work": "Termite mounds as a geochemical sample medium at the Moolart Well gold deposit",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "找矿应用结论"
+    },
+    {
+      "page": "/species/neotermes-castaneus/",
+      "claim": "Calonympha chia 与 Snyderella yamini 描述自佛罗里达的 Neotermes castaneus 与 Calcaritermes nearcticus；Snyderella kirbyi 与 Snyderella swezyae 描述自哥伦比亚的 Calcaritermes nigriceps 与 Cryptotermes cylindroceps。",
+      "quote": "In this study, four novel species of calonymphids were isolated and characterized: Calonympha chia and Snyderella yamini spp. nov., from Neotermes castaneus and Calcaritermes nearcticus from Florida, USA, and Snyderella kirbyi and Snyderella swezyae, spp. nov., from Calcaritermes nigriceps and Cryptotermes cylindroceps from Colombia.",
+      "src": "S0198",
+      "work": "Four new species of calonymphid protists from kalotermitid termites",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "宿主对应关系按摘要配对，正文须核对哪一宿主对应哪一种"
+    },
+    {
+      "page": "/species/neotermes-castaneus/",
+      "claim": "SSU rDNA 系统发育示 Calonympha 与 Stephanonympha 可能非单系，Snyderella 为单系。",
+      "quote": "Phylogenetic analyses of small subunit (SSU) rDNA indicated that the genera Calonympha and Stephanonympha were probably not monophyletic, though the genus Snyderella, previously only represented by one sequence in molecular analyses, appeared with these new data to be monophyletic.",
+      "src": "S0198",
+      "work": "Four new species of calonymphid protists from kalotermitid termites",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "共生原生动物；只生 Kalotermitidae 后肠"
+    },
+    {
+      "page": "/species/baucaliotermes-hainesi/",
+      "claim": "同一巢外壳内有另一种白蚁 Promirotermes sp. 共栖。",
+      "quote": "A second species of termite, Promirotermes sp. nested in the outer carapace.",
+      "src": "S0185",
+      "work": "The foraging tunnel system of the Namibian desert termite, Baucaliotermes hainesi",
+      "unit": "摘要/巢结构",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "正文有更详细的共栖分区描述；关系未知，下一轮可作 /genus/promirotermes/ 种级观察"
+    },
+    {
+      "page": "/species/palmitermes-impostor/",
+      "claim": "Wolbachia 感染 Cavitermes tuberosus 与 Inquilinitermes inquilinus，但不感染 Palmitermes impostor 与 Spinitermes trispinosus。",
+      "quote": "Interestingly, Wolbachia was found to infect C. tuberosus and I. inquilinus, but not P. impostor and S. trispinosus [47].",
+      "src": "S0191",
+      "work": "Widespread occurrence of asexual reproduction in higher termites of the Termes group",
+      "unit": "Discussion",
+      "locator": "full.txt / Discussion",
+      "status": "queued",
+      "note": "孤雌生殖与内共生菌关系的讨论；属页或种页可用"
+    },
+    {
+      "page": "/genus/microtermes/",
+      "claim": "1959–63 年 Nachingwea 玉米因白蚁危害年均损失 27%、大豆 33%，单块玉米最高损失 90%。",
+      "quote": "Observations at Nachingwea in 1959–63 showed that loss of maize stands from termite attack averaged 27 per cent, over the five years, and that of soya 33 per cent. The damage was often great on individual plots, as much as 90 per cent, being recorded from one plot of maize.",
+      "src": "S0193",
+      "work": "The biology and control of termites damaging field crops in Tanganyika",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "queued",
+      "note": "损失数字属农场级，不具种特异性；可作属页防治背景"
+    },
+    {
+      "page": "/genus/stylotermes/",
+      "claim": "该文只报告研究内容（兵蚁与工蚁的额腺、唇腺、下唇腺结构，以及 S. faveolus 与 S. halumicus 额腺分泌物组成），摘要未给任何结果性数据。",
+      "quote": "We studied the structure of the frontal, labral and labial glands in soldiers and workers of Stylotermes faveolus, and the composition of the frontal gland secretion in S. faveolus and S. halumicus.",
+      "src": "S0011",
+      "work": "Defensive glands in Stylotermitidae (Blattodea, Isoptera)",
+      "unit": "摘要",
+      "locator": "摘要 / full.txt",
+      "status": "rejected",
+      "note": "摘要只有研究内容、无结果性事实，按 SOP §8 不单独立段；待拿到全文再写"
+    }
+  ]
+}
