@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "note": "待重抓取队列：本地全文抽取失败／乱码／证据不足的来源。scan 不插队，但会把未选中的条目追加到本轮单元末尾（extra），每轮必须真去重抓。",
+  "items": [
+    {
+      "id": "S0205",
+      "title": "Ultrastructure of the frontal gland in Prorhinotermes simplex (Isoptera: Rhinotermitidae) and quantity of the defensive substance",
+      "doi": "10.14411/eje.2004.020",
+      "reason": "出版社 PDF（eje.cz/pdfs/eje/2004/01/20.pdf）文本层为自定义字形编码，pdf_extract_text 与文库 full.txt 均整篇乱码；2026-11-13 重新下载后抽取结果仍乱码，本机无 OCR 工具。需 OCR 或有文字层的副本。",
+      "requested": "2026-11-12",
+      "requested_by": "user (m00939)",
+      "attempts": 1,
+      "last_attempt": "2026-11-13",
+      "status": "pending"
+    }
+  ]
+}

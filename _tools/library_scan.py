@@ -50,6 +50,15 @@ SPECIES_PATH = ROOT / "_data" / "species_by_genus.json"
 NAME_ISSUES_PATH = ROOT / "_data" / "name_issues.json"
 LITERATURE_PATH = ROOT / "_data" / "taxon_literature.json"
 PROGRESS_PATH = ROOT / "_reports" / "library-reading" / "progress.json"
+REFETCH_PATH = ROOT / "_reports" / "library-reading" / "refetch.json"
+
+
+def load_refetch():
+    """待重抓取队列：抽取失败／乱码／只有摘要的来源，下一轮优先重扫并重抓。"""
+    data = load_json(REFETCH_PATH, {}) or {}
+    items = data.get("items") or []
+    return [item for item in items if item.get("status") == "pending" and item.get("id")]
+
 
 FOCUS_ORDER = ["taxonomy", "morphology", "ecology"]
 
@@ -350,8 +359,9 @@ def resolve_chunk_path(work, chunk):
     return None
 
 
-def select_units(limit, records, progress):
+def select_units(limit, records, progress, pending=None):
     manifest = load_json(MANIFEST_PATH, {})
+    pending = pending or set()
     works = manifest.get("books") or []
     units = []
     for wi, work in enumerate(works):
@@ -375,8 +385,10 @@ def select_units(limit, records, progress):
 
     def sort_key(u):
         state = (progress.get("units") or {}).get(u["key"], {})
-        # 先读得少的；同次数时先读最久没碰过的，避免每轮都从同一批 chunk 开始。
-        return (int(state.get("reads", 0)), state.get("last_read") or "", u["chunk_index"], u["work_order"])
+        # 新单元优先：先读得少的，同次数时先读最久没碰过的。
+        # 待重抓取（refetch）只做标记，不改变选单元顺序——抓新论文优先，重抓不是。
+        return (int(state.get("reads", 0)), state.get("last_read") or "",
+                u["chunk_index"], u["work_order"])
 
     units.sort(key=sort_key)
     return units[:limit]
@@ -435,8 +447,9 @@ def abstract_is_relevant(record):
     return bool(pattern.search(title) or pattern.search(opening))
 
 
-def select_abstract_units(limit, records, progress):
-    """Select abstract-only source records, least-read first."""
+def select_abstract_units(limit, records, progress, pending=None):
+    """Select abstract-only source records, least-read first (refetch queue first)."""
+    pending = pending or set()
     units = []
     for idx, record in enumerate(records):
         if not is_abstract_record(record):
@@ -469,6 +482,7 @@ def select_abstract_units(limit, records, progress):
 
     def sort_key(u):
         state = (progress.get("units") or {}).get(u["key"], {})
+        # 同上：refetch 只标记，不插队。
         return (int(state.get("reads", 0)), state.get("last_read") or "", u["source_id"])
 
     units.sort(key=sort_key)
@@ -684,12 +698,38 @@ def scan(limit, focus_arg, date, top_n, abstract_limit=5):
         if is_abstract_record(rec) and abstract_is_relevant(rec) and len(abstract_text(rec)) >= 80
     )
     abstract_target = min(max(0, abstract_limit), max(0, limit))
-    abstract_units = select_abstract_units(abstract_target, records, progress)
-    chunk_units = select_units(max(0, limit - len(abstract_units)), records, progress)
+    refetch_items = load_refetch()
+    pending = {item["id"] for item in refetch_items}
+    abstract_units = select_abstract_units(abstract_target, records, progress, pending)
+    chunk_units = select_units(max(0, limit - len(abstract_units)), records, progress, pending)
     units = chunk_units + abstract_units
     all_candidates = []
     warnings = []
     scanned_chars = 0
+    # 待重抓取（refetch）不插队：先按正常顺序选满本轮单元；还没被选中的，
+    # 追加在本轮单元之后（不占 20 个名额），保证重抓一定发生。
+    missing_refetch = sorted(pending - {u.get("source_id") for u in units})
+    if missing_refetch:
+        have_keys = {u["key"] for u in units}
+        extra = []
+        for u in select_units(10 ** 6, records, progress, pending):
+            sid = u.get("source_id")
+            if sid in missing_refetch and u["key"] not in have_keys:
+                extra.append(u)
+                missing_refetch.remove(sid)
+            if not missing_refetch or len(extra) >= 3:
+                break
+        for u in extra:
+            u["extra"] = True
+            units.append(u)
+        if extra:
+            print("本轮追加待重抓取单元（不插队，排在 20 个单元之后）：%s" % "、".join(
+                "%s（%s）" % (u.get("source_id"), (u.get("source_title") or "")[:40]) for u in extra))
+    for unit in units:
+        if unit.get("source_id") in pending:
+            unit["refetch"] = True
+    if missing_refetch:
+        warnings.append("refetch pending but not selected: %s" % ", ".join(missing_refetch))
 
     genus_by_id = {g["id"]: g for g in genera.values()}
 
@@ -830,6 +870,9 @@ def scan(limit, focus_arg, date, top_n, abstract_limit=5):
         "focus_counts": dict(Counter(c["focus"] for c in top)),
         "rank_counts": dict(Counter(c["rank"] for c in top)),
         "source_counts": dict(Counter(c["source_id"] for c in top)),
+        "refetch_pending": sorted(pending),
+        "refetch_included": [u.get("source_id") for u in units if u.get("refetch")],
+        "refetch_extra": [u.get("source_id") for u in units if u.get("extra")],
         "warnings": warnings,
     })
     with (out_dir / "candidates.jsonl").open("w", encoding="utf-8", newline="\n") as fh:
@@ -921,6 +964,11 @@ def main(argv=None):
         print("警告：")
         for w in warnings[:10]:
             print("  - " + w)
+    pending = [u for u in units if u.get("refetch")]
+    if pending:
+        print("本轮选中单元中的待重抓取来源（不插队；追加在本轮末尾的标 extra）：%s" % ", ".join(
+            "%s（%s）%s" % (u.get("source_id"), (u.get("source_title") or "")[:40],
+                            "·extra" if u.get("extra") else "") for u in pending))
     return 0
 
 
