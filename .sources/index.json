@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "count": 432,
+    "count": 433,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-12T20:54:51+08:00",
+    "updated": "2026-11-13T00:16:31+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -11111,8 +11111,41 @@
       "license": "cc-by",
       "doi": "10.1673/031.008.0201",
       "url": "https://academic.oup.com/jinsectscience/article-pdf/8/1/2/18167444/jis8-0002.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Foraging termites of H. tenuis were captured in underground cardboard traps over 12 months from three field colonies (A, B, and C). The colonies were located in Rio Claro (22° 23′ 43″ S, 47° 32′ 39″ W), Sao Paulo, Brazil.",
+          "locator": "Materials and methods, caste percentages in foraging territories / full.txt",
+          "note": "支撑草稿：里奥克拉罗（22°23′43″S，47°32′39″W）3 个野外群体、历时 12 个月的诱捕监测。"
+        },
+        {
+          "quote": "The percentages of each caste found in the foraging territories of the field colonies of H. tenuis were not significantly different for the three colonies (ANOVA, F= 0.168, df= 2, P= 0.846) (Table 1). Workers were the most abundant caste in all colonies (ANOVA, F= 2489.81, df= 2, P= 0.0001)",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：群体间品级比例无显著差异（F=0.168，df=2，P=0.846），且工蚁在各群体中都最多（F=2489.81）。"
+        },
+        {
+          "quote": "Bioassays 1 and 2 were based on the same proportion of workers (95%) and soldiers (2% of major soldiers and 3% minor soldiers) found in the field colonies.",
+          "locator": "Materials and methods, monitoring foraging behavior / full.txt",
+          "note": "支撑草稿：野外取食个体中工蚁 95%、小型兵蚁 3%、大型兵蚁 2%。"
+        },
+        {
+          "quote": "Minor soldiers were the individuals that initiated foraging behavior most frequently in all bioassays (Table 2).",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：实验室中小兵蚁是最常启动觅食的个体。"
+        },
+        {
+          "quote": "The results from bioassays 1, 2 and 3 show that the frequency of the castes in the foraging activity was dependent on the number of soldiers inside the test chambers (Test of independence; df= 6, G= 20.5092, P< 0.01)",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：各品级参与觅食的频率取决于兵蚁数量（G=20.5092，df=6）。"
+        },
+        {
+          "quote": "On the other hand, the frequency of each caste in foraging activities was independent from the total number of termites inside the test chambers (Test of Independence, df= 2, G= 0.14619, P> 0.01).",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：觅食频率与个体总数无关（G=0.14619，df=2）。"
+        }
+      ],
       "id": "S0199"
     },
     {
@@ -11154,8 +11187,41 @@
       "publisher": "Zootaxa",
       "lang": "en",
       "doi": "10.11646/zootaxa.1340.1.1",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The taxonomy of the South American termite genus Labiotermes Holmgren (sensu novo) is revised, including identification keys to soldiers and workers, and distribution maps for all 10 species.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：修订南美厚唇白蚁属，承认 10 个种，给出兵蚁与工蚁检索表及全部种分布图。"
+        },
+        {
+          "quote": "Two new species are described: L. guasu, from the Amazon rain forest and L. oreadicus, from the Cerrado of central Brazil.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：新种 L. guasu 产亚马逊雨林、L. oreadicus 产巴西中部塞拉多。"
+        },
+        {
+          "quote": "Paracornitermes Emerson is treated as a new synonym of Labiotermes.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：副角白蚁属作为新异名并入厚唇白蚁属。"
+        },
+        {
+          "quote": "Paracornitermes caapora Bandeira & Cancello and P. hirsutus Araujo are placed under the synonymy of L. orthocephalus.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：P. caapora 与 P. hirsutus 并入直头厚唇白蚁 L. orthocephalus。"
+        },
+        {
+          "quote": "The imagos of L. emersoni and L. orthocephalus are described for the first time.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：埃默森厚唇白蚁与直头厚唇白蚁的成虫首次被描述。"
+        },
+        {
+          "quote": "The workers of all species are described and illustrated, including the enteric valve armature and the mixed segment.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：全部种工蚁连同肠瓣（enteric valve armature）与混合节一并描述图示。"
+        }
+      ],
       "id": "S0200",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11194,8 +11260,41 @@
       "publisher": "Entomologia Experimentalis et Applicata",
       "lang": "en",
       "doi": "10.1111/j.1570-7458.1987.tb00556.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Queen‐removal experiments in N. novarumhebridarum resulted in the production of replacement reproductives derived from workers (ergatoids), but never from the sexual brood (nymphs and alates).",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：去后实验产生的补充生殖蚁来自工蚁（ergatoid），从不来自若虫与成虫。"
+        },
+        {
+          "quote": "Three moults are necessary to complete the tranformation from the worker to the ergatoid. This pathway is longer than those previously konwn in other termites, in which two moults are sufficient.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：工蚁发育为具功能工蚁型需 3 次蜕皮，比其他已知白蚁多 1 次。"
+        },
+        {
+          "quote": "In a colony with functional ergatoids, some nymphs gave rise to worker‐like individuals.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：已具功能工蚁型的群体中，部分若虫发育为工蚁状个体。"
+        },
+        {
+          "quote": "The caste potentialities of N. novarumhebridarum differ from those of the sympatric species, N. princeps and N. polygynus, in which imaginal replacement reproductives are easily obtained.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：与同域 N. princeps、N. polygynus 不同，后者易产生成虫型补充生殖蚁。"
+        },
+        {
+          "quote": "Colony reproduction in N. novarumhebridarum seems to be accomplished exclusively by independent alate founders, which colinize massive, but finite and widely spaced resoures such as dead or damaged tree trunks.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：该种似只靠独立建群的有翅繁殖蚁占据大而有限、彼此远离的死树或受损树干。"
+        },
+        {
+          "quote": "We suggest that N. novarumhebridarum caste potentialities are adapted to channelling a maximum of resources into the production of dispersing alates that can colonize new nest sites.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：其品级发育途径被认为适应于把资源最大限度投入扩散性有翅蚁的生产。"
+        }
+      ],
       "id": "S0201",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11274,8 +11373,41 @@
       "publisher": "Biotropica",
       "lang": "en",
       "doi": "10.2307/2389056",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We tested this hypothesis in 10 forests of southern Cameroon where we assessed a density of 124.48? 13.6 Cubitermes fungifaber and C banksi termitaries (both active and abandoned) per ha.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：喀麦隆南部 10 处森林，蚁巢密度每公顷 124.48±13.6 个（含活动巢与废弃巢）。"
+        },
+        {
+          "quote": "Our work was undertaken on 725 termitaries among which we distinguished three groups: active, vertical (358); abandoned, vertical (220); and fallen abandoned (147).",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：725 个蚁巢分为活动的直立巢 358、废弃直立巢 220、倒伏废弃巢 147。"
+        },
+        {
+          "quote": "The rate of termitaries sheltering ant societies is higher for those which are abandoned (92.5% for fallen ones; 83.6% for vertical ones) than for those which are active (43.8%).",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：倒伏废弃巢 92.5%、直立废弃巢 83.6%、活动巢 43.8% 被蚂蚁占用。"
+        },
+        {
+          "quote": "We recorded 799 ant societies belonging to 37 genera and 151 species, of which 1 1 are undescribed. We found up to six ant colonies per termitary.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：记录 799 个蚂蚁群落、37 属 151 种（11 种未描述），单巢最多 6 个群落。"
+        },
+        {
+          "quote": "The termitaries sampled also sheltered 103 incipient ant colonies (12.9% of the total number of societies)",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：103 个新建蚁群，占全部群落的 12.9%。"
+        },
+        {
+          "quote": "71.7% of the societies of Formicinae recorded were incipient",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：蚁亚科（Formicinae）中新建群占该亚科记录群落的 71.7%。"
+        }
+      ],
       "id": "S0203",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11313,8 +11445,41 @@
       "publisher": "Parasitology",
       "lang": "en",
       "doi": "10.1017/s0031182000020709",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Six species of Amitermes, one from Panama and five from California, have been examined for protozoa. Certain protozoa have been found in many or all individuals examined of all species, but they are much less abundant than are flagellates in termites of the three xylophagous families below the Termitidae.",
+          "locator": "Abstract, items 1 / full.txt",
+          "note": "支撑草稿：检查巴拿马 1 种与加州 5 种弓白蚁的肠道原虫，其丰度远低于木食性三科白蚁的鞭毛虫。"
+        },
+        {
+          "quote": "Trichomonas lighti n.sp. has been found in all species, but not in all individuals.",
+          "locator": "Abstract, item 2 / full.txt",
+          "note": "支撑草稿：Trichomonas lighti 见于全部 6 种寄主，但不见于所有个体。"
+        },
+        {
+          "quote": "Chilomastix minuta n.sp. occurs in Amitermes beaumonti.",
+          "locator": "Abstract, item 3 / full.txt",
+          "note": "支撑草稿：Chilomastix minuta 见于博蒙特弓白蚁 A. beaumonti。"
+        },
+        {
+          "quote": "Embadomonas termitis n.sp. is described from Amitermes beaumonti.",
+          "locator": "Abstract, item 4 / full.txt",
+          "note": "支撑草稿：Embadomonas termitis 描述自博蒙特弓白蚁。"
+        },
+        {
+          "quote": "Endamoeba beaumonti n.sp. has been observed in five host species.",
+          "locator": "Abstract, item 5 / full.txt",
+          "note": "支撑草稿：Endamoeba beaumonti 见于 5 种寄主。"
+        },
+        {
+          "quote": "Nyctotherus silvestrianus n.sp. has been found in three of the Californian species.",
+          "locator": "Abstract, item 6 / full.txt",
+          "note": "支撑草稿：Nyctotherus silvestrianus 见于 3 种加州种类。"
+        }
+      ],
       "id": "S0204",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11326,22 +11491,22 @@
       "file_path": "_unpublished/文库/10.14411-eje.2004.020",
       "chars": 55883,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-10T15:04:57+08:00",
-      "notes": "全文存于 _unpublished/文库/10.14411-eje.2004.020（11 页，55883 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+      "accessed": "2026-11-13T00:15:44+08:00",
+      "notes": "全文存于 _unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter（11 页，41962 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。 refetch 2026-11-13：重新下载出版社 PDF（eje.cz/pdfs/eje/2004/01/20.pdf，3.6 MB）后重新抽取，文本层仍是自定义字形编码，整篇乱码，与旧文件同；本机无 OCR 工具，未取得可读全文。需 OCR 或改换有文字层的副本后再 library-add。",
       "library": {
-        "book": "10.14411-eje.2004.020",
+        "book": "Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-10T15:04:57",
+        "generated": "2026-11-13T00:15:44",
         "chunks": [
           {
             "chunk": "0001-0011",
-            "txt": "_unpublished/文库/10.14411-eje.2004.020/0001-0011.txt",
-            "chars": 55883,
-            "paragraphs": 537,
+            "txt": "_unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter/0001-0011.txt",
+            "chars": 41962,
+            "paragraphs": 533,
             "table_rows": 0,
-            "source_file": "/home/runner/work/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md/_tmp/fulltext/fulltext.pdf",
-            "sha256": "9324aa231491fb87e95a5b925b65e30f63585b718e5e2e3e08b10117afda06ac",
-            "bytes": 92233
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\sobotnik2004.pdf",
+            "sha256": "8c1f335836c717d53db5d989e66c639a3aa2b3d560c17164e6bcf40d7254be13",
+            "bytes": 41962
           }
         ]
       },
@@ -11396,8 +11561,36 @@
       "publisher": "Physiological Entomology",
       "lang": "en",
       "doi": "10.1111/j.1365-3032.1983.tb00375.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The toxicity and biological activity of the defensive secretions of ten species of neotropical termites were examined by bioassay on two species of predatory ant.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：用两种捕食性蚂蚁生物测定 10 种新热带白蚁的防御分泌物。"
+        },
+        {
+          "quote": "Pseudomyrmex termitarius (F. Smith) (Pseudomyrmecinae) was more susceptible to the effects of the secretions than Ectatomma sp. (Ponerinae).",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：Pseudomyrmex termitarius 比 Ectatomma sp. 更易受分泌物影响。"
+        },
+        {
+          "quote": "The tacky secretions used by Coptotermes and Ruptitermes are simply adhesive, entangling agents with no apparent toxic or pheromonal properties.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：乳白蚁属与腹爆白蚁属的粘性分泌物只是粘附缠绕的物理作用，无毒性或信息素活性。"
+        },
+        {
+          "quote": "The secretion of Syntermes calvus Emerson serves as a wound‐active poison with little topical activity, while those of Armitermes spp. are repellent to ants and show activity as topical poisons.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：无毛聚白蚁分泌物为创伤性毒物、表面活性很弱；戟白蚁属分泌物驱避并具表面毒性。"
+        },
+        {
+          "quote": "The secretions used by Nasutitermes spp. combine adhesive, entangling properties with the toxicity of a topically‐active poison, and are effective also as ant‐repellents.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：象白蚁属分泌物兼具粘附缠绕与表面毒性，并有驱避效果。"
+        }
+      ],
       "id": "S0206",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11444,8 +11637,41 @@
       "license": "cc-by",
       "doi": "10.13102/sociobiology.v66i1.3665",
       "url": "http://periodicos.uefs.br/index.php/sociobiology/article/download/3665/3635",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "monitoring the foraging of five termite colonies for ten consecutive\nPublication date   25 April 2019             days during each period.",
+          "locator": "Abstract / 0001-0007.txt",
+          "note": "支撑草稿：监测 5 个群体、每个气候期连续观察 10 天。"
+        },
+        {
+          "quote": "Twenty-nine  crustose  lichen  species  distributed\namong 17 genera were found to be associated with the diet\nof C. cyphergaster (Table 1). The richness of lichen species\nconsumed by termites was dissimilar between seasons (Fig 1).",
+          "locator": "Results / 0001-0007.txt",
+          "note": "支撑草稿：共取食 29 种壳状地衣（17 属），取食的地衣丰富度随季节变化。"
+        },
+        {
+          "quote": "Chrysothrix xanthina (Vainio) Kalb                       18.7      6.2       Vulpinic acid",
+          "locator": "Table 1 / 0001-0007.txt",
+          "note": "支撑草稿：Chrysothrix xanthina 为取食最多的地衣之一（雨季 18.7%、旱季 6.2% 访问频率）。"
+        },
+        {
+          "quote": "Dirinaria confluens (Fr.) D. D. Awasthi                   12.5     10.2      Divaricatic acid; Terpenes   Divaricatic acid; Triterpenes",
+          "locator": "Table 1 / 0001-0007.txt",
+          "note": "支撑草稿：Dirinaria confluens 为取食最多的地衣之一（雨季 12.5%、旱季 10.2%）。"
+        },
+        {
+          "quote": "Pertusaria flaven Nyl.                                   10.4     23.4     Didymic acid               Unidentified substance",
+          "locator": "Table 1 / 0001-0007.txt",
+          "note": "支撑草稿：Pertusaria flavens 为取食最多的地衣之一（雨季 10.4%、旱季 23.4%）。"
+        },
+        {
+          "quote": "twelve secondary lichen compounds ingested in both seasons",
+          "locator": "Abstract / 0001-0007.txt",
+          "note": "支撑草稿：薄层色谱在肠道内容物中检出 12 种地衣次生化合物（两季均有）。"
+        }
+      ],
       "id": "S0207"
     },
     {
@@ -11483,8 +11709,31 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1093/aesa/68.3.533",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Sixty-nine randomly located, circular quadrats were sampled to study the selection of wood by Heterotcrmcs aurens (Snyder), Gnathamitermes per plexus (Banks), Paraneotermes shnplicicomis (Banks) and 3 species of Amitermes.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：在 69 个随机圆形样方中比较 4 类地下白蚁的木材选择。"
+        },
+        {
+          "quote": "Although H. aureus and G. perplextts are general feeders on ca. 13 species of wood, the former prefers dead wood of desert hackberry and cholla cactus, while the latter prefers fallen cholla joints.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：H. aureus 取食约 13 种木材，偏好荒漠朴与 cholla 仙人掌枯段。"
+        },
+        {
+          "quote": "The other two termites have more specific tastes: P. simplicicornis prefers catclaw acacia and mesquite and cholla stumps while the Amitermes spp. select catclaw acacia and blue palo-verde.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：Paraneotermes simplicicornis 偏好牧豆树、catclaw acacia 与 cholla 桩；Amitermes 3 种偏好 catclaw acacia 与 blue palo-verde。"
+        },
+        {
+          "quote": "Each termite species thus maintains a fairly exclusive niche through a characteristic mode of attack on a preferential selection of host woods.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：各白蚁种通过偏好寄主木材与特征性攻击方式维持较独立的生态位。"
+        }
+      ],
       "id": "S0208",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11532,8 +11781,36 @@
       "license": "cc-by",
       "doi": "10.1186/s12864-023-09224-5",
       "url": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-023-09224-5",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "We showed that the Labiotermes gut was dominated by members of the Firmicutes phylum, whose abundance gradually decreased towards the posterior segments of the hindgut, in favour of Bacteroidetes, Proteobacteria and Verrucomicrobia.",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：肠道以厚壁菌门为主，向后肠逐渐减少，拟杆菌门、变形菌门与疣微菌门增加。"
+        },
+        {
+          "quote": "Contrary to expectations, we observed that L. labralis gut microbes expressed a high diversity of carbohydrate active enzymes involved in cellulose and hemicelluloses degradation, making the soil-feeding termite gut a unique reservoir of lignocellulolytic enzymes with considerable biotechnological potential.",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：肠道微生物表达大量降解纤维素与半纤维素的碳水化合物活性酶。"
+        },
+        {
+          "quote": "We also evidenced that the host cellulases have different phylogenetic origins and structures, which is possibly translated into their different specificities towards cellulose.",
+          "locator": "Results / full.txt",
+          "note": "支撑草稿：宿主自身的纤维素酶在系统发育来源与结构上各不相同。"
+        },
+        {
+          "quote": "Labiotermes labralis (L. labralis; Termitidae, Syntermitinae) is one of the most abundant soil feeders in the Amazonian primary forest [13], playing a fundamental role in soil structure and fertility [14].",
+          "locator": "Introduction / full.txt",
+          "note": "支撑草稿：细唇厚唇白蚁是亚马逊原始林最常见的土食者之一。"
+        },
+        {
+          "quote": "The digestive tract of an L. labralis worker is highly compartmentalised, which is a characteristic of all soil feeders, and it includes the foregut (F, crop and gizzard), the midgut (M, mesenteron) and the hindgut (H), which is further differentiated into P1 (paunch), P2 (enteric valve), dilated P3 and P4 (colon), as well as P5 (rectum; Fig. 1A) [15].",
+          "locator": "Introduction / full.txt",
+          "note": "支撑草稿：该种工蚁消化道高度分室化（前肠、中肠、后肠 P1–P5）。"
+        }
+      ],
       "id": "S0209"
     },
     {
@@ -11570,8 +11847,41 @@
       "publisher": "Australian Journal of Entomology",
       "lang": "en",
       "doi": "10.1111/j.1440-6055.2008.00662.x",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Termite species diversity, frequency of occurrence and functional diversity in Charles Darwin National Park, a savanna woodland reserve in tropical northern Australia, were assessed. In four 50 × 50 m sites, a direct search and bait sampling protocol was used to sample mounds, standing and lying dead wood, litter, soil and arboreal nest microhabitats for termites between April and June 2003.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：查尔斯·达尔文国家公园 4 个 50×50 m 样地、2003 年 4–6 月采样。"
+        },
+        {
+          "quote": "Sixteen species from nine genera and three families (Mastotermitidae, Rhinotermitidae and Termitidae) were recorded, including the first record of Ephelotermes taylori (Hill) from open savanna woodland habitat and the first official record of Macrognathotermes errator Miller from north Australian savanna.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：记录 16 种、9 属、3 科；E. taylori 为开阔稀树草原生境首次记录，M. errator 为北澳稀树草原首次正式记录。"
+        },
+        {
+          "quote": "The family Termitidae represented 69% of termite occurrences. From this family, the wood/soil interface feeder Nasutitermes eucalypti (Mjöberg) represented 30% of encounters.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：白蚁科占出现次数 69%，其中木质/土壤交界取食的 N. eucalypti 占全部遭遇的 30%。"
+        },
+        {
+          "quote": "Four nesting habits were represented: epigeal (mounds above ground), hypogeal (subterranean nests), nests within wood and arboreal nests. Termites were most frequently encountered in epigeal mounds and lying dead wood.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：记录 4 种筑巢方式；白蚁最常出现于地上蚁丘与倒木。"
+        },
+        {
+          "quote": "However, species diversity was lower; soil feeders and live wood feeders were less common and grass‐harvesting species were absent.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：土壤取食者与活木取食者较少、采草种类缺失，多样性较低。"
+        },
+        {
+          "quote": "Soil nitrogen and phosphorus and species richness and patchiness of ground vegetation may contribute to these differences.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：作者把差异部分归因于土壤氮磷含量与地表植被的丰富度和斑块性。"
+        }
+      ],
       "id": "S0210",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11610,8 +11920,41 @@
       "publisher": "Behaviour",
       "lang": "fr",
       "doi": "10.1163/156853951x00241",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Under the term of sociotomy, (or fission of the society) we describe a curious social behaviour of two African Termites: Anoplotermes sp. and Trinervitermes bettonianus.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：把两种非洲白蚁（Anoplotermes sp. 与 T. bettonianus）的群体分裂称为 sociotomy。"
+        },
+        {
+          "quote": "Crowded columns, one including the royal couple, emerge in broad daylight and crawl away to various distances. They represent only a small part of the society to which they belong.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：队伍在白天离巢、含王室配偶，且只占原群体的一小部分。"
+        },
+        {
+          "quote": "After having covered a greater or lesser distance, each column breaks into several portions, each of which remains alone, scoops out (Anoplotermes) or builds (Trinervitermes) a nest which becomes the foundation of a new society.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：每列分裂为若干小群，各自挖出（Anoplotermes）或建造（Trinervitermes）新巢作为新群体起点。"
+        },
+        {
+          "quote": "Substitution reproductives are obtained by means of neoteny which is very frequent in the two species in which sociotomy has been observed. All the castes are represented in the migration, including the functional reproductives and the winged individuals.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：补充生殖蚁通过幼态持续频繁产生；迁徙队伍涵盖所有品级包括具功能生殖蚁与有翅个体。"
+        },
+        {
+          "quote": "The winged individuals, which normally only issue from the nest to undertake their swarming flight have their genetic behaviour abolished and can be seen creeping on the surface of the ground carrying larvae. The Anoplotermes workers can even acquire the behaviour of soldiers.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：有翅个体在地面爬行并搬运幼虫；解甲白蚁属工蚁甚至表现出兵蚁行为。"
+        },
+        {
+          "quote": "For the first time, the usefulness of the nasuti in defending the nest is firmly established, and so is the importance of the organization of the group in the defence against the assailants.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：作者首次以确凿观察确认象鼻兵蚁（nasuti）在防御中的作用。"
+        }
+      ],
       "id": "S0211",
       "fulltext_status": "abstract-no-oa"
     },
@@ -11653,8 +11996,26 @@
       "publisher": "Nematology",
       "lang": "en",
       "doi": "10.1163/138855410x496187",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "In 2008, a field survey of termite-associated nematodes was conducted on Barro Colorado Island, Smithsonian Tropical Research Institute (BCI, STRI), Panama.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：2008 年在巴拿马巴罗科罗拉多岛（BCI）作白蚁相关线虫调查。"
+        },
+        {
+          "quote": "During that survey, an undescribed Pseudaphelenchus species was isolated from three species of subterranean termites, Amitermes beaumonti, Microcerotermes exiguous and Obtusitermes panamae.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：从 A. beaumonti、M. exiguus 与 O. panamae 三种地下白蚁分离到线虫新种。"
+        },
+        {
+          "quote": "The molecular phylogenetic analysis based upon near full length (ca 1.7 kb) SSU ribosomal DNA sequence suggested that the new species forms a well supported clade with P. yukiae, at the basal position of the family Aphelenchoididae.",
+          "locator": "Abstract / full.txt",
+          "note": "支撑草稿：基于近全长（约 1.7 kb）SSU rDNA 的分析把新种与 P. yukiae 聚为高支持分支，位于滑刃科基部。"
+        }
+      ],
       "id": "S0212",
       "fulltext_status": "abstract-no-oa"
     },
@@ -20724,6 +21085,78 @@
       "accessed": "2026-11-12T20:54:51+08:00",
       "canonical_key": "url:https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https",
       "id": "S0433"
+    },
+    {
+      "title": "Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906)",
+      "source_type": "paper",
+      "reliability": "peer_reviewed",
+      "canonical_key": "doi:10.11646/zootaxa.5128.4.7",
+      "file_path": "_unpublished/文库/Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte",
+      "chars": 20801,
+      "retrieved_via": "文库（pdf-text）",
+      "accessed": "2026-11-12T23:37:17+08:00",
+      "notes": "全文存于 _unpublished/文库/Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte（8 页，20801 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "library": {
+        "book": "Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte",
+        "manifest": "_unpublished/文库/manifest.json",
+        "generated": "2026-11-12T23:37:17",
+        "chunks": [
+          {
+            "chunk": "0001-0008",
+            "txt": "_unpublished/文库/Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte/0001-0008.txt",
+            "chars": 20801,
+            "paragraphs": 291,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\scheffrahn2022.pdf",
+            "sha256": "4d5bb74a9a8fe49f457e6baa168d7f7008c24cdf91b3e74c58896973109f0827",
+            "bytes": 20928
+          }
+        ]
+      },
+      "authors": [
+        "Scheffrahn R. H."
+      ],
+      "year": 2022,
+      "publisher": "Magnolia Press",
+      "lang": "en",
+      "license": "CC BY-NC 4.0",
+      "doi": "10.11646/zootaxa.5128.4.7",
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Without discussion, Light (1931, 1932) synonymized A. californicus with A. wheeleri and this\nsynonymy has gone unchallenged until now.",
+          "locator": "Introduction / 0001-0008.txt",
+          "note": "支撑草稿：Light 在 1931、1932 年未作讨论地把 A. californicus 并入 A. wheeleri，此后九十年无人质疑。"
+        },
+        {
+          "quote": "About ten years ago, I reviewed Amitermes soldiers that I and colleagues had collected in California, Arizona, New\nMexico, and Texas over a period of 30 years. It became evident that there were two discernible species both having\nrobust anterior faces on the marginal teeth of the mandibles.",
+          "locator": "Introduction / 0001-0008.txt",
+          "note": "支撑草稿：复查三十年间采自加州、亚利桑那、新墨西哥与得克萨斯的兵蚁，确认其中有两个可区分的种。"
+        },
+        {
+          "quote": "those whose teeth are directed posterior and lack a well-defined anterior face (e.g., A.\nemersoni Light). The former group includes A. wheeleri (Desneux), A. excellens Silvestri, A. brevicorniger Silvestri,\nA. amifer Silvestri, and A. foreli Wasmann.",
+          "locator": "Introduction (citing 1989 diagnosis) / 0001-0008.txt",
+          "note": "支撑草稿：缘齿垂直伸出、具前斜面一组包括 A. wheeleri、A. excellens、A. amifer、A. foreli；缘齿后倾、无前斜面者如 A. emersoni。"
+        },
+        {
+          "quote": "Amitermes floridensis\nScheffrahn, 1989 is now a synonym of A. wheeleri. The establishment of A. wheeleri (=floridensis) in Florida is suggested\nto be the result of the ornamental palm trade from the southwestern United States. New collection records show that A.\nwheeleri has not been found in California.",
+          "locator": "Abstract / 0001-0008.txt",
+          "note": "支撑草稿：A. floridensis 降为 A. wheeleri 次异名；佛州种群被认为随观赏棕榈贸易自美国西南部引入；新记录显示 A. wheeleri 未在加州采到。"
+        },
+        {
+          "quote": "TABLE 1. Measurements (mm) of Amitermes soldiers.\n                                               A. californicus           A. wheeleri U.S.         A. wheeleri FL\n Measurements (Fig. 2)                    Max.   Min.  Mean   Max.   Min.  Mean  Max.   Min.  Mean\n 1) Head width                                1.18    0.93    1.07    1.11    0.82   0.98    0.98    0.88   0.92",
+          "locator": "Table 1 / 0001-0008.txt",
+          "note": "支撑草稿：兵蚁头宽 A. californicus 平均 1.07（0.93–1.18）、A. wheeleri 美国本土 0.98、佛州 0.92。"
+        },
+        {
+          "quote": "those with marginal teeth directed perpendicular from the surface of the inner edge of the mandible",
+          "locator": "Introduction (citing 1989 diagnosis) / 0001-0008.txt",
+          "note": "支撑草稿：另一组缘齿自颚内缘表面垂直伸出、具明显前斜面（1989 年鉴别体系）。"
+        }
+      ],
+      "id": "S0434"
     }
   ]
 }

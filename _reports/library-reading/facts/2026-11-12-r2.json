@@ -1,0 +1,123 @@
+[
+  {
+    "page": null,
+    "claim": "Šobotník 等（2004）对 Prorhinotermes simplex 额腺作超微结构研究——本机抽取的 PDF 文本为乱码，无法核读任何结论，本轮不据此写任何页面内容。",
+    "quote": "",
+    "src": "S0205",
+    "work": "Ultrastructure of the frontal gland in Prorhinotermes simplex (Isoptera: Rhinotermitidae) and its comparison with the frontal gland of other termite species",
+    "unit": "S0205",
+    "locator": "全文（PDF 文本层损坏，未读）",
+    "status": "rejected",
+    "note": "PDF 字体编码损坏，pdftotext/pdf_extract_text 输出为乱码；按「读不到正文就说读不到」处理，需换来源或另取 OCR 版。"
+  },
+  {
+    "page": null,
+    "claim": "Dangerfield 等（1998）把 Macrotermes michaelseni 蚁丘作为生态系统工程案例，讨论其从入渗率到景观镶嵌的影响及反馈机制。",
+    "quote": "Many organisms create or alter resource flows that affect the composition and spatial arrangement of current and future organismal diversity. The phenomenon called ecosystem engineering is considered with a case study of the mound building termite Macrotermes michaelseni. It is argued that this species acts as an ecosystem engineer across a range of spatial scales, from alteration of local infiltr",
+    "src": "S0136",
+    "work": "The mound-building termite Macrotermes michaelseni as an ecosystem engineer",
+    "unit": "abstract:S0136",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "摘要只有框架性表述、无数字，按 SOP §8 不单独立页。"
+  },
+  {
+    "page": null,
+    "claim": "Dangerfield 等（1998）把 Macrotermes michaelseni 蚁丘作为生态系统工程案例，讨论其从入渗率到景观镶嵌的影响及反馈机制。",
+    "quote": "ation rates to the creation of landscape mosaics, and that its impacts accrue because of the initiation of biophysical processes that often include feedback mechanisms. These changes to resource flows are likely to persist for long periods and constrain the biological structure of the habitat. The value of ecosystem engineering is discussed as a holistic way of understanding the complexity of trop",
+    "src": "S0136",
+    "work": "The mound-building termite Macrotermes michaelseni as an ecosystem engineer",
+    "unit": "abstract:S0136",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "摘要只有框架性表述、无数字，按 SOP §8 不单独立页。"
+  },
+  {
+    "page": null,
+    "claim": "Dangerfield 等（1998）把 Macrotermes michaelseni 蚁丘作为生态系统工程案例，讨论其从入渗率到景观镶嵌的影响及反馈机制。",
+    "quote": "ical ecology.",
+    "src": "S0136",
+    "work": "The mound-building termite Macrotermes michaelseni as an ecosystem engineer",
+    "unit": "abstract:S0136",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "摘要只有框架性表述、无数字，按 SOP §8 不单独立页。"
+  },
+  {
+    "page": null,
+    "claim": "Redford（1984）讨论巴西塞拉多（cerrado）地区 Cornitermes cumulans 蚁丘的密度、结构、废弃、共栖者与捕食。",
+    "quote": "Role des termitieres de C.c. dans l'ecologie du cerrado bresilien. Densite des termitieres; description de celles-ci; leur abandon; commensaux; predation et attaque des termitieres",
+    "src": "S0139",
+    "work": "The Termitaria of Cornitermes cumulans (Isoptera, Termitidae) and Their Role in Determining a Potential Keystone Species",
+    "unit": "abstract:S0139",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "仅法文摘要，无具体数字，无法支撑「每段至少一条可核验事实」。"
+  },
+  {
+    "page": null,
+    "claim": "Constantino（1998）的新世界白蚁名录记录 86 属 543 种，并列出全部已知异名、地理分布、模式标本存放地与分类变动。",
+    "quote": "A catalog of the living termites of the New World is presented, including all known synonyms, geographical distribution, type depositories, and a selected bibliography. The number of termite genera recorded for the New World is 86, and the number of species 543. The following taxonomical changes are included: Curvitermes projectidens is transferred to Armitermes, and Nasutitermes columbicus is tre",
+    "src": "S0140",
+    "work": "Catalog of the living termites of the New World (Insecta: Isoptera)",
+    "unit": "abstract:S0140",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "名录式来源，可用于日后核对属种数与异名，不宜整段改写为研究记述。"
+  },
+  {
+    "page": null,
+    "claim": "Constantino（1998）的新世界白蚁名录记录 86 属 543 种，并列出全部已知异名、地理分布、模式标本存放地与分类变动。",
+    "quote": "ated as a junior synonym of N. guayanae. Most subspecies are treated as full species. Available names of uncertain taxonomic position are presented in a separate list.",
+    "src": "S0140",
+    "work": "Catalog of the living termites of the New World (Insecta: Isoptera)",
+    "unit": "abstract:S0140",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "名录式来源，可用于日后核对属种数与异名，不宜整段改写为研究记述。"
+  },
+  {
+    "page": null,
+    "claim": "Thorne 与 Carpenter（1992）以 70 个形态、发育与行为性状分析网翅目系统发育，支持 Blattodea + Cryptocercidae 与 Mantodea 互为姐妹群、等翅目位于该复合体之外。",
+    "quote": "Relationships among six key dictyopteran taxa (Mantodea; Blattodea (excluding Cryptocercidae); Cryptocercidae; Mastotermes darwiniensis, Termopsidae and Kalotermitidae [Isoptera]) are analysed based on seventy morphological, developmental and behavioural characters. The fossil record and the ‘living fossil’ genera Cryptocercus, Mastotermes and Archotermopsis are discussed in detail. Exact analysis",
+    "src": "S0141",
+    "work": "Phylogeny of the Dictyoptera",
+    "unit": "abstract:S0141",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "1992 年的形态学结论，与 2024 年分子系统发育（S0008）需区分年代；白蚁内部关系作者自述「不确定」。"
+  },
+  {
+    "page": null,
+    "claim": "Thorne 与 Carpenter（1992）以 70 个形态、发育与行为性状分析网翅目系统发育，支持 Blattodea + Cryptocercidae 与 Mantodea 互为姐妹群、等翅目位于该复合体之外。",
+    "quote": "of the character state matrix by implicit enumeration (Hennig86) resulted in one cladogram, strongly supporting Blattodea + Cryptocercidae as a sister group to Mantodea, with the Isoptera as a sister group to that complex. Arrangements within the termites are equivocal, with Termopsidae and Mastotermes darwiniensis possible as the relatively most primitive element of Isoptera.",
+    "src": "S0141",
+    "work": "Phylogeny of the Dictyoptera",
+    "unit": "abstract:S0141",
+    "locator": "摘要",
+    "status": "queued",
+    "note": "1992 年的形态学结论，与 2024 年分子系统发育（S0008）需区分年代；白蚁内部关系作者自述「不确定」。"
+  },
+  {
+    "page": "/species/amitermes-wheeleri/",
+    "claim": "Scheffrahn 与 Su（1994）为佛罗里达已知 17 种白蚁给出兵蚁与有翅成虫检索表，其中白蚁科仅佛州弓白蚁 1 种。",
+    "quote": "Illustrated identification keys are presented for soldiers and winged adults of the following 17 termite species known from Florida: Calcaritermes nearcticus Snyder, Neotermes castaneus (Burmeister), N. jouteli (Banks), N. luykxi Nickle and Collins, Kalotermes approximatus Snyder, Incisitermes milleri (Emerson), I. minor (Hagen), I. schwarzi (Banks), I. snyderi (Light), Cryptotermes brevis (Walker",
+    "src": "S0137",
+    "work": "Keys to Soldier and Winged Adult Termites (Isoptera) of Florida",
+    "unit": "abstract:S0137",
+    "locator": "摘要",
+    "status": "used",
+    "note": "已在 /species/amitermes-wheeleri/ 用其「佛州唯一白蚁科种类」一句；其余 16 种名录细节入本卡备用。"
+  },
+  {
+    "page": "/species/amitermes-wheeleri/",
+    "claim": "Scheffrahn 与 Su（1994）为佛罗里达已知 17 种白蚁给出兵蚁与有翅成虫检索表，其中白蚁科仅佛州弓白蚁 1 种。",
+    "quote": "), and C. cavifrons Banks, Family Kalotermitidae; Coptotermes formosanus Shiraki, Reticulitermes flavipes (Kollar), R. hageni Banks, R. virginicus (Banks), and Prorhinotermes simplex (Hagen), Family Rhinotermitidae; and Amitermes floridensis Scheffrahn, Mangold, & Su, Family Termitidae.",
+    "src": "S0137",
+    "work": "Keys to Soldier and Winged Adult Termites (Isoptera) of Florida",
+    "unit": "abstract:S0137",
+    "locator": "摘要",
+    "status": "used",
+    "note": "已在 /species/amitermes-wheeleri/ 用其「佛州唯一白蚁科种类」一句；其余 16 种名录细节入本卡备用。"
+  }
+]

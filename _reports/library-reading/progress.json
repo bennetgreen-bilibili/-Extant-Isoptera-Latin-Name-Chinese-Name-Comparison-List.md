@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-12T20:40:14+08:00",
+ "updated": "2026-11-13T00:08:06+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -239,12 +239,17 @@
    ]
   },
   "abstract:S0136": {
-   "reads": 1,
-   "last_read": "2026-11-11T01:39:12+08:00",
+   "reads": 2,
+   "last_read": "2026-11-13T00:08:06+08:00",
    "history": [
     {
      "date": "2026-11-11",
      "focus": "taxonomy",
+     "source_id": "S0136"
+    },
+    {
+     "date": "2026-11-12-r2",
+     "focus": "morphology",
      "source_id": "S0136"
     }
    ]
@@ -415,45 +420,65 @@
    ]
   },
   "abstract:S0137": {
-   "reads": 1,
-   "last_read": "2026-11-11T02:22:28+08:00",
+   "reads": 2,
+   "last_read": "2026-11-13T00:08:06+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
      "focus": "taxonomy",
      "source_id": "S0137"
+    },
+    {
+     "date": "2026-11-12-r2",
+     "focus": "morphology",
+     "source_id": "S0137"
     }
    ]
   },
   "abstract:S0139": {
-   "reads": 1,
-   "last_read": "2026-11-11T02:22:28+08:00",
+   "reads": 2,
+   "last_read": "2026-11-13T00:08:06+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
      "focus": "taxonomy",
      "source_id": "S0139"
+    },
+    {
+     "date": "2026-11-12-r2",
+     "focus": "morphology",
+     "source_id": "S0139"
     }
    ]
   },
   "abstract:S0140": {
-   "reads": 1,
-   "last_read": "2026-11-11T02:22:28+08:00",
+   "reads": 2,
+   "last_read": "2026-11-13T00:08:06+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
      "focus": "taxonomy",
      "source_id": "S0140"
+    },
+    {
+     "date": "2026-11-12-r2",
+     "focus": "morphology",
+     "source_id": "S0140"
     }
    ]
   },
   "abstract:S0141": {
-   "reads": 1,
-   "last_read": "2026-11-11T02:22:28+08:00",
+   "reads": 2,
+   "last_read": "2026-11-13T00:08:06+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
      "focus": "taxonomy",
+     "source_id": "S0141"
+    },
+    {
+     "date": "2026-11-12-r2",
+     "focus": "morphology",
      "source_id": "S0141"
     }
    ]
@@ -1082,6 +1107,171 @@
      "date": "2026-11-12",
      "focus": "taxonomy",
      "source_id": "S0196"
+    }
+   ]
+  },
+  "10.1673-031.008.0201::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0199"
+    }
+   ]
+  },
+  "10.11646-zootaxa.1340.1.1::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0200"
+    }
+   ]
+  },
+  "10.1111-j.1570-7458.1987.tb00556.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0201"
+    }
+   ]
+  },
+  "10.1242-jcs.s2-76.301.145::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0202"
+    }
+   ]
+  },
+  "10.2307-2389056::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0203"
+    }
+   ]
+  },
+  "10.1017-s0031182000020709::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0204"
+    }
+   ]
+  },
+  "10.14411-eje.2004.020::0001-0011": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0205"
+    }
+   ]
+  },
+  "10.1111-j.1365-3032.1983.tb00375.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0206"
+    }
+   ]
+  },
+  "10.13102-sociobiology.v66i1.3665::0001-0007": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0207"
+    }
+   ]
+  },
+  "10.1093-aesa-68.3.533::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0208"
+    }
+   ]
+  },
+  "10.1186-s12864-023-09224-5::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0209"
+    }
+   ]
+  },
+  "10.1111-j.1440-6055.2008.00662.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0210"
+    }
+   ]
+  },
+  "10.1163-156853951x00241::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0211"
+    }
+   ]
+  },
+  "10.1163-138855410x496187::full": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0212"
+    }
+   ]
+  },
+  "Amitermes-californicus-Banks,-1920-(Isoptera,-Termitidae,-Termitinae)-resurrecte::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-13T00:08:06+08:00",
+   "history": [
+    {
+     "date": "2026-11-12-r2",
+     "focus": "taxonomy",
+     "source_id": "S0434"
     }
    ]
   }

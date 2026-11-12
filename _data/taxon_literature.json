@@ -33,23 +33,27 @@
     "updated": "2026-11-12",
     "last_batch": {
       "date": "2026-11-12",
-      "pages": 62,
-      "batch_pages": 18,
+      "round": "r2",
+      "pages": 90,
+      "batch_pages": 31,
       "units": 20,
       "chunks": 15,
       "abstracts": 5,
       "sources": [
-        "S0185",
-        "S0186",
-        "S0187",
-        "S0190",
-        "S0191",
-        "S0192",
-        "S0193",
-        "S0196",
-        "S0010",
-        "S0012",
-        "S0008"
+        "S0137",
+        "S0199",
+        "S0200",
+        "S0201",
+        "S0203",
+        "S0204",
+        "S0206",
+        "S0207",
+        "S0208",
+        "S0209",
+        "S0210",
+        "S0211",
+        "S0212",
+        "S0434"
       ]
     },
     "languages": [
@@ -532,7 +536,7 @@
     ]
   },
   "/species/stylotermes-faveolus/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "跟踪信息素与饲养",
@@ -572,6 +576,21 @@
         ],
         "heading_en": "Trail pheromone and captive rearing",
         "heading_es": "Feromona de seguimiento y cría en laboratorio"
+      },
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，Thakur 等（2023）用于追踪信息素实验的两份巢片段各含数百头工蚁（研究中统按广义拟工蚁计）与数十头兵蚁，其中凹胸杆白蚁（<i>Stylotermes faveolus</i>）的一份采自印度。",
+            "text_en": "According to the abstract, the two nest fragments used by Thakur et al. (2023) in their trail-following pheromone experiments each contained several hundred workers (counted throughout as pseudergates in the broad sense) and several dozen soldiers; the fragment of <i>Stylotermes faveolus</i> was collected in India.",
+            "text_es": "Según el resumen, los dos fragmentos de nido utilizados por Thakur et al. (2023) en sus experimentos con la feromona de seguimiento contenían cada uno varios cientos de obreras (contabilizadas en todo el estudio como pseudergados en sentido amplio) y varias decenas de soldados; el fragmento de <i>Stylotermes faveolus</i> fue recolectado en la India.",
+            "src": [
+              "S0010"
+            ]
+          }
+        ]
       }
     ],
     "references": [
@@ -589,6 +608,11 @@
         "id": "S0012",
         "citation": "Thakur M. L., Mishra S. C. Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82, 1996.",
         "url": "https://indianjournals.com/article/jer-20-1-013"
+      },
+      {
+        "id": "S0010",
+        "citation": "Thakur H., Agarwal S., Hradecký J., Sharma G., Li H.-F., Yang S.-E., Sehadová H., Chandel R. S., Hyliš M., Mathur V., Šobotník J., Sillam-Dussès D. 2023 The Trail-Following Communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae). Journal of Chemical Ecology 49: 642–651.",
+        "doi": "10.1007/s10886-023-01447-w"
       }
     ]
   },
@@ -1011,7 +1035,7 @@
     ]
   },
   "/species/cryptotermes-dudleyi/": {
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "1949 年世界名录中的异名",
@@ -1027,6 +1051,21 @@
         ],
         "heading_en": "Synonymy in the 1949 world catalogue",
         "heading_es": "Sinónimos en el catálogo mundial de 1949"
+      },
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）把长颚堆砂白蚁（<i>Cryptotermes dudleyi</i>）记为澳大利亚的外来种；同一研究把第二堆砂白蚁（<i>Cryptotermes secundus</i>）从该种的异名中移出，改作澳大利亚特有种讨论。",
+            "text_en": "According to the abstract, Gay and Watson (1982) recorded <i>Cryptotermes dudleyi</i> as an introduced species in Australia; the same study removed <i>Cryptotermes secundus</i> from the synonymy of that species and treated it as an Australian endemic.",
+            "text_es": "Según el resumen, Gay y Watson (1982) registraron <i>Cryptotermes dudleyi</i> como especie introducida en Australia; el mismo estudio sacó <i>Cryptotermes secundus</i> de la sinonimia de esa especie y la trató como endémica de Australia.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
       }
     ],
     "references": [
@@ -1034,6 +1073,11 @@
         "id": "S0103",
         "citation": "Snyder, T. E. 1949. Catalog of the Termites (Isoptera) of the World. Smithsonian Miscellaneous Collections 112.",
         "url": "https://archive.org/details/in.ernet.dli.2015.26103"
+      },
+      {
+        "id": "S0187",
+        "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs088"
       }
     ]
   },
@@ -1193,7 +1237,7 @@
     ]
   },
   "/species/archotermopsis-wroughtoni/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-13",
     "sections": [
       {
         "heading": "1920 年的野外生境记录",
@@ -1209,6 +1253,22 @@
         ],
         "heading_en": "Field habitat records from 1920",
         "heading_es": "Registro de hábitat de campo de 1920"
+      },
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据何银竹等（2009）研究，罗夫顿古白蚁（<i>Archotermopsis wroughtoni</i>）于 1904 年由 Desneux 命名，模式标本来自克什米尔；Holmgren（1911）随后以该种为模式建立古白蚁属（<i>Archotermopsis</i>）。该文曾把云南绿春黄连山与沧源勐角翁丁的标本鉴定为罗夫顿古白蚁（<i>Archotermopsis wroughtoni</i>），本站现据后续考订将这批标本归入库兹涅佐夫古白蚁（<i>Archotermopsis kuznetsovi</i>）。",
+            "text_en": "According to He Yinzhu et al. (2009), <i>Archotermopsis wroughtoni</i> was named by Desneux in 1904 on the basis of type material from Kashmir, and Holmgren (1911) subsequently made it the type species of <i>Archotermopsis</i>. That paper identified specimens from Huanglianshan in Lüchun and Wengding in Mengjiao, Cangyuan, Yunnan, as <i>Archotermopsis wroughtoni</i>, whereas this site now assigns those specimens to <i>Archotermopsis kuznetsovi</i> on the basis of later revision.",
+            "text_es": "Según He Yinzhu et al. (2009), <i>Archotermopsis wroughtoni</i> fue nombrada por Desneux en 1904 a partir de material tipo de Cachemira, y Holmgren (1911) la convirtió después en la especie tipo de <i>Archotermopsis</i>. Ese trabajo identificó ejemplares de Huanglianshan, en Lüchun, y de Wengding, en Mengjiao, Cangyuan, Yunnan, como <i>Archotermopsis wroughtoni</i>, mientras que este sitio asigna hoy esos ejemplares a <i>Archotermopsis kuznetsovi</i> sobre la base de revisiones posteriores.",
+            "src": [
+              "S0110",
+              "S0112"
+            ]
+          }
+        ]
       }
     ],
     "references": [
@@ -1216,6 +1276,15 @@
         "id": "S0147",
         "citation": "Imms, A. D. 1920. On the structure and biology of Archotermopsis, together with descriptions of new species of intestinal protozoa, and general observations on the Isoptera. Philosophical Transactions of the Royal Society B.",
         "doi": "10.1098/rstb.1920.0002"
+      },
+      {
+        "id": "S0110",
+        "citation": "何银竹; 候清柏; 梁醒财 2009 中国原白蚁科一新记录属一新记录种. 昆虫分类学报."
+      },
+      {
+        "id": "S0112",
+        "citation": "2026 GBIF occurrence search: Archotermopsis kuznetsovi and A. wroughtoni (country facet).",
+        "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0"
       }
     ]
   },
@@ -1463,7 +1532,7 @@
     ]
   },
   "/species/constrictotermes-cyphergaster/": {
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "sections": [
       {
         "heading": "追踪信息素与专性客居者",
@@ -1479,6 +1548,29 @@
         ],
         "heading_en": "Trail pheromone and obligate inquiline",
         "heading_es": "Feromona de rastro e inquilino obligado"
+      },
+      {
+        "heading": "取食地衣",
+        "heading_en": "Lichen feeding",
+        "heading_es": "Alimentación de líquenes",
+        "paragraphs": [
+          {
+            "src": [
+              "S0207"
+            ],
+            "text": "根据 Barbosa-Silva 等（2019）在巴西东北部半干旱区对 5 个群体的监测（每个季节连续观察 10 天），弯肠缩白蚁（<i>Constrictotermes cyphergaster</i>）共取食 29 种树皮地衣，取食的地衣丰富度随季节变化；取食最多的是三种壳状地衣（<i>Chrysothrix xanthina</i>、<i>Pertusaria flavens</i> 与 <i>Dirinaria confluens</i>）。",
+            "text_en": "In a survey of five colonies in the semi-arid region of northeastern Brazil, each monitored for ten consecutive days in the dry and in the rainy season, Barbosa-Silva et al. (2019) found that <i>Constrictotermes cyphergaster</i> consumed 29 species of corticolous lichens, with seasonal variation in the richness ingested; the three most consumed species were <i>Chrysothrix xanthina</i>, <i>Pertusaria flavens</i> and <i>Dirinaria confluens</i>.",
+            "text_es": "En un seguimiento de cinco colonias en la región semiárida del nordeste de Brasil, cada una observada durante diez días consecutivos en la estación seca y en la lluviosa, Barbosa-Silva et al. (2019) hallaron que <i>Constrictotermes cyphergaster</i> consumió 29 especies de líquenes corticícolas, con variación estacional en la riqueza ingerida; las tres especies más consumidas fueron <i>Chrysothrix xanthina</i>, <i>Pertusaria flavens</i> y <i>Dirinaria confluens</i>."
+          },
+          {
+            "src": [
+              "S0207"
+            ],
+            "text": "同一研究用薄层色谱在弯肠缩白蚁（<i>Constrictotermes cyphergaster</i>）的肠道内容物中检出 12 种地衣次生化合物，旱季与雨季均有取食，取食的地衣丰富度在季节间不同。",
+            "text_en": "The same study detected twelve secondary lichen compounds in the gut contents of <i>Constrictotermes cyphergaster</i> by thin-layer chromatography; lichens were ingested in both seasons, and the richness of lichen species consumed differed between the dry and the rainy season.",
+            "text_es": "El mismo estudio detectó doce compuestos secundarios de líquenes en el contenido intestinal de <i>Constrictotermes cyphergaster</i> mediante cromatografía de capa fina; los líquenes fueron ingeridos en ambas estaciones y la riqueza de especies consumidas difirió entre la estación seca y la lluviosa."
+          }
+        ]
       }
     ],
     "references": [
@@ -1486,6 +1578,11 @@
         "id": "S0176",
         "citation": "Cristaldo, P. F. et al. 2014. Mutual use of trail-following chemical cues by a termite host and its inquiline. PLoS ONE.",
         "doi": "10.1371/journal.pone.0085315"
+      },
+      {
+        "id": "S0207",
+        "citation": "Barbosa-Silva, A. M., Silva, A. C., Pereira, E. C., Buril, M. L. L., Silva, N. H., Cáceres, M. E. S., Aptroot, A. & Bezerra-Gusmão, M. A. (2019). Richness of lichens consumed by Constrictotermes cyphergaster in the semi-arid region of Brazil. Sociobiology, 66(1), 154–160.",
+        "doi": "10.13102/sociobiology.v66i1.3665"
       }
     ]
   },
@@ -1752,6 +1849,29 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "兵蚁先导的觅食",
+        "heading_en": "Soldier-led foraging",
+        "heading_es": "Forrajeo encabezado por soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0199"
+            ],
+            "text": "根据 Casarin 等（2008）在巴西圣保罗州里奥克拉罗（22°23′43″S，47°32′39″W）对 3 个野外群体历时 12 个月的监测，细瘦异白蚁（<i>Heterotermes tenuis</i>）取食区内的品级比例在群体间无显著差异（ANOVA，F=0.168，df=2，P=0.846），工蚁在各群体中都最多；实验室中，小兵蚁是最常启动觅食的个体，各品级参与觅食的频率取决于兵蚁数量（G=20.5092，df=6，P<0.01），与个体总数无关（G=0.14619，df=2，P>0.01）。",
+            "text_en": "In a 12-month survey of three field colonies at Rio Claro, São Paulo, Brazil (22°23′43″S, 47°32′39″W), Casarin et al. (2008) found no significant difference in caste proportions within the foraging territories of <i>Heterotermes tenuis</i> (ANOVA, F=0.168, df=2, P=0.846), workers being the most abundant caste in every colony. In the laboratory, minor soldiers were the most frequent initiators of foraging, and the frequency with which each caste took part depended on the number of soldiers (G=20.5092, df=6, P<0.01) rather than on the total number of termites (G=0.14619, df=2, P>0.01).",
+            "text_es": "En un seguimiento de 12 meses de tres colonias de campo en Rio Claro, São Paulo, Brasil (22°23′43″S, 47°32′39″O), Casarin et al. (2008) no hallaron diferencias significativas en las proporciones de castas dentro de los territorios de forrajeo de <i>Heterotermes tenuis</i> (ANOVA, F=0,168, gl=2, P=0,846), siendo las obreras la casta más abundante en todas las colonias. En laboratorio, los soldados menores fueron los iniciadores del forrajeo más frecuentes, y la frecuencia con que participaba cada casta dependía del número de soldados (G=20,5092, gl=6, P<0,01) y no del número total de termitas (G=0,14619, gl=2, P>0,01)."
+          },
+          {
+            "src": [
+              "S0199"
+            ],
+            "text": "同一研究的三种生物测定各重复 10 次，在 24–26°C、80% 相对湿度下用 100 头与 200 头个体、兵蚁比例 5% 与 20% 比较；野外群体的取食个体中工蚁占 95%、小型兵蚁占 3%、大型兵蚁占 2%。作者据此推测，细瘦异白蚁觅食的探索阶段受取食区内兵蚁数量调节。",
+            "text_en": "The study's three bioassays, each replicated ten times at 24–26°C and 80% RH, compared groups of 100 and 200 individuals with soldier proportions of 5% and 20%; in the field colonies, foragers consisted of 95% workers, 3% minor soldiers and 2% major soldiers. The authors therefore suggest that the exploratory phase of foraging in <i>Heterotermes tenuis</i> is regulated by the number of soldiers present in the foraging territory.",
+            "text_es": "Los tres bioensayos del estudio, con diez repeticiones cada uno a 24–26 °C y 80 % de humedad relativa, compararon grupos de 100 y 200 individuos con proporciones de soldados del 5 % y del 20 %; en las colonias de campo los forrajeadores consistían en 95 % de obreras, 3 % de soldados menores y 2 % de soldados mayores. Los autores sugieren por ello que la fase exploratoria del forrajeo de <i>Heterotermes tenuis</i> está regulada por el número de soldados presentes en el territorio de forrajeo."
+          }
+        ]
       }
     ],
     "references": [
@@ -1759,6 +1879,11 @@
         "id": "S0192",
         "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
         "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+      },
+      {
+        "id": "S0199",
+        "citation": "Casarin, F. E., Costa-Leonardo, A. M. & Arab, A. (2008). Soldiers initiate foraging activities in the subterranean termite, Heterotermes tenuis. Journal of Insect Science, 8.",
+        "doi": "10.1673/031.008.0201"
       }
     ]
   },
@@ -1860,6 +1985,29 @@
             ]
           }
         ]
+      },
+      {
+        "heading": "群体分裂（sociotomy）",
+        "heading_en": "Colony fission (sociotomy)",
+        "heading_es": "Fisión de la colonia (sociotomía)",
+        "paragraphs": [
+          {
+            "src": [
+              "S0211"
+            ],
+            "text": "据摘要，Grassé 与 Noirot（1951）把非洲两种白蚁的群体分裂称为 sociotomy：三脉白蚁属（<i>Trinervitermes</i>）的贝顿三脉白蚁（<i>Trinervitermes bettonianus</i>）与解甲白蚁属（<i>Anoplotermes</i>）的 1 个种在白天成列离巢，队伍中包含王室配偶，随后分裂为若干小群，各自挖出或建造新巢，成为新群体的起点。",
+            "text_en": "According to the abstract, Grassé and Noirot (1951) termed sociotomy the fission of societies in two African termites: in daylight, columns of <i>Trinervitermes bettonianus</i> and of a species of <i>Anoplotermes</i> leave the nest, one column including the royal couple, and each column later breaks into several portions that excavate or build a nest and found a new society.",
+            "text_es": "Según el resumen, Grassé y Noirot (1951) denominaron sociotomía a la fisión de las sociedades en dos termitas africanas: en pleno día, columnas de <i>Trinervitermes bettonianus</i> y de una especie de <i>Anoplotermes</i> abandonan el nido, una de ellas con la pareja real, y cada columna se fragmenta después en varias porciones que excavan o construyen un nido y fundan una nueva sociedad."
+          },
+          {
+            "src": [
+              "S0211"
+            ],
+            "text": "据摘要，同一观察指出，在观察到的两个种中补充生殖蚁通过幼态持续（neoteny）频繁产生；迁徙队伍涵盖所有品级，包括具功能生殖蚁与有翅个体，有翅个体在地面爬行并搬运幼虫，解甲白蚁属的工蚁甚至表现出兵蚁行为；作者据此首次以确凿观察确认象鼻兵蚁（nasuti）在防御中的作用。",
+            "text_en": "The same observations note that replacement reproductives arise frequently by neoteny in both species; all castes take part in the migration, including functional reproductives and alates, the latter creeping on the ground and carrying larvae, while workers of <i>Anoplotermes</i> even adopt soldier behaviour; on this evidence the authors establish for the first time, by direct observation, the defensive role of the nasuti.",
+            "text_es": "Las mismas observaciones señalan que en ambas especies los reproductores de reemplazo surgen con frecuencia por neotenia; en la migración participan todas las castas, incluidos los reproductores funcionales y los alados, que se arrastran por el suelo y transportan larvas, mientras que las obreras de <i>Anoplotermes</i> adoptan incluso comportamiento de soldado; con estas pruebas los autores establecen por primera vez, mediante observación directa, la función defensiva de los nasuti."
+          }
+        ]
       }
     ],
     "references": [
@@ -1867,6 +2015,11 @@
         "id": "S0186",
         "citation": "Sands, W. A. 1961. Foraging behaviour and feeding habits in five species of Trinervitermes in West Africa. Entomologia Experimentalis et Applicata 4: 277–288.",
         "doi": "10.1111/j.1570-7458.1961.tb02143.x"
+      },
+      {
+        "id": "S0211",
+        "citation": "Grassé, P.-P. & Noirot, C. (1951). La sociotomie: migration et fragmentation de la termitière chez les Anoplotermes et les Trinervitermes. Behaviour.",
+        "doi": "10.1163/156853951x00241"
       }
     ]
   },
@@ -2015,6 +2168,1837 @@
         "id": "S0012",
         "citation": "Thakur, M. L.; Mishra, S. C. 1996. Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
         "url": "https://indianjournals.com/article/jer-20-1-013"
+      }
+    ]
+  },
+  "/species/amitermes-californicus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "2022 年恢复种级地位",
+        "heading_en": "Species status restored in 2022",
+        "heading_es": "Estatus específico restaurado en 2022",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "根据 Scheffrahn（2022）对佛罗里达大学白蚁收藏（UFTC）与文献记录所作的修订，加州弓白蚁（<i>Amitermes californicus</i>）于 1920 年由 Banks 依据采自加利福尼亚南部与亚利桑那南部的兵蚁描述；Light 在 1931 与 1932 年未作讨论地把该名并入惠勒弓白蚁（<i>Amitermes wheeleri</i>），此后九十年无人质疑这一异名。Scheffrahn 复查了三十年间采自加利福尼亚、亚利桑那、新墨西哥与得克萨斯的弓白蚁属（<i>Amitermes</i>）兵蚁，确认其中包含两个可凭兵蚁上颚区分的种，遂把加州弓白蚁恢复为独立种。",
+            "text_en": "In a revision based on the University of Florida Termite Collection (UFTC) and literature records, Scheffrahn (2022) established that <i>Amitermes californicus</i> was described by Banks in 1920 from soldiers collected in southern California and southern Arizona, and that Light (1931, 1932) synonymised the name with <i>Amitermes wheeleri</i> without discussion, a synonymy that went unchallenged for ninety years. Scheffrahn re-examined soldiers of the genus <i>Amitermes</i> collected over thirty years in California, Arizona, New Mexico and Texas, found two species separable by soldier mandibles, and restored <i>Amitermes californicus</i> to full species rank.",
+            "text_es": "En una revisión basada en la colección de termitas de la Universidad de Florida (UFTC) y en los registros bibliográficos, Scheffrahn (2022) estableció que <i>Amitermes californicus</i> fue descrita por Banks en 1920 a partir de soldados recolectados en el sur de California y el sur de Arizona, y que Light (1931, 1932) sinonimizó el nombre con <i>Amitermes wheeleri</i> sin discusión, sinonimia que permaneció incuestionada durante noventa años. Scheffrahn reexaminó soldados del género <i>Amitermes</i> recolectados a lo largo de treinta años en California, Arizona, Nuevo México y Texas, encontró dos especies separables por las mandíbulas de los soldados y restituyó <i>Amitermes californicus</i> al rango de especie plena."
+          },
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "同一修订给出区分特征：加州弓白蚁（<i>Amitermes californicus</i>）的上颚基部、颚片与缘齿整体更粗壮，头壳更近方形，兵蚁头宽平均 1.07 mm（0.93–1.18 mm，60 头兵蚁、25 个群体）；惠勒弓白蚁（<i>Amitermes wheeleri</i>）在美国本土头宽平均 0.98 mm（56 头兵蚁、21 个群体），佛罗里达群体平均 0.92 mm（7 头兵蚁、4 个群体）。修订后的检索表以兵蚁平均头宽约 1.07 mm 与约 0.85 mm 区分两种。",
+            "text_en": "The revision lists the distinguishing characters: in <i>Amitermes californicus</i> the mandible bases, blades and marginal teeth are larger and stouter overall and the head capsule is more quadrate, with a mean soldier head width of 1.07 mm (0.93–1.18 mm; 60 soldiers from 25 colonies); in <i>Amitermes wheeleri</i> the mean is 0.98 mm in the United States (56 soldiers from 21 colonies) and 0.92 mm in Florida (7 soldiers from 4 colonies). The revised key separates the two species by a mean soldier head width of about 1.07 mm versus about 0.85 mm.",
+            "text_es": "La revisión enumera los caracteres diagnósticos: en <i>Amitermes californicus</i> la base de las mandíbulas, las hojas y los dientes marginales son en conjunto más grandes y robustos y la cápsula cefálica es más cuadrangular, con una anchura media de la cabeza del soldado de 1,07 mm (0,93–1,18 mm; 60 soldados de 25 colonias); en <i>Amitermes wheeleri</i> la media es de 0,98 mm en Estados Unidos (56 soldados de 21 colonias) y de 0,92 mm en Florida (7 soldados de 4 colonias). La clave revisada separa ambas especies por una anchura media de la cabeza del soldado de unos 1,07 mm frente a unos 0,85 mm."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      }
+    ]
+  },
+  "/species/amitermes-wheeleri/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "佛州弓白蚁并入本种",
+        "heading_en": "Amitermes floridensis sunk into synonymy",
+        "heading_es": "Amitermes floridensis pasa a la sinonimia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "根据 Scheffrahn（2022）的修订，1989 年依据佛罗里达标本描述的佛州弓白蚁（<i>Amitermes floridensis</i>）被降为惠勒弓白蚁（<i>Amitermes wheeleri</i>）的次异名（syn. nov.）；作者认为佛罗里达种群是随观赏棕榈贸易从美国西南部引入的：墨西哥蓝棕（<i>Washingtonia robusta</i>）自得克萨斯至佛罗里达的墨西哥湾沿岸广泛栽培，海枣（<i>Phoenix dactylifera</i>）自 1900 年起在加利福尼亚与亚利桑那栽种，并常作为景观植物输入佛罗里达。",
+            "text_en": "According to the revision by Scheffrahn (2022), <i>Amitermes floridensis</i>, described in 1989 from Florida specimens, is sunk as a junior synonym (syn. nov.) of <i>Amitermes wheeleri</i>; the author suggests that the Florida population was introduced from the southwestern United States with the ornamental palm trade. The Mexican fan palm <i>Washingtonia robusta</i> has been widely cultivated along the Gulf Coast from Texas to Florida, and the date palm <i>Phoenix dactylifera</i>, grown in California and Arizona since 1900, was commonly imported into Florida as a landscape plant.",
+            "text_es": "Según la revisión de Scheffrahn (2022), <i>Amitermes floridensis</i>, descrita en 1989 a partir de ejemplares de Florida, se reduce a sinónimo posterior (syn. nov.) de <i>Amitermes wheeleri</i>; el autor sugiere que la población de Florida fue introducida desde el suroeste de Estados Unidos con el comercio de palmeras ornamentales. La palmera abanico mexicana <i>Washingtonia robusta</i> se cultiva ampliamente en la costa del Golfo desde Texas hasta Florida, y la palmera datilera <i>Phoenix dactylifera</i>, cultivada en California y Arizona desde 1900, se importaba con frecuencia a Florida como planta ornamental."
+          },
+          {
+            "src": [
+              "S0434",
+              "S0137"
+            ],
+            "text": "同一修订指出，新采集记录显示惠勒弓白蚁（<i>Amitermes wheeleri</i>）并未在加利福尼亚被采到，旧记录中的加州个体实为加州弓白蚁（<i>Amitermes californicus</i>）。据摘要，1994 年《佛罗里达白蚁兵蚁与有翅成虫检索表》把佛州弓白蚁列为该州已知 17 种白蚁中唯一的白蚁科（Termitidae）种类，该名称现已归入惠勒弓白蚁。",
+            "text_en": "The same revision notes that new collection records show <i>Amitermes wheeleri</i> has not been collected in California, the Californian specimens of earlier records being <i>Amitermes californicus</i>. According to the abstract, the 1994 keys to the soldier and winged adult termites of Florida listed <i>Amitermes floridensis</i> as the only termitid (Termitidae) among the 17 termite species then known from the state; that name is now placed in the synonymy of <i>Amitermes wheeleri</i>.",
+            "text_es": "La misma revisión señala que los nuevos registros de colecta muestran que <i>Amitermes wheeleri</i> no ha sido recolectada en California, y que los ejemplares californianos de registros anteriores corresponden a <i>Amitermes californicus</i>. Según el resumen, las claves de 1994 para soldados y adultos alados de las termitas de Florida incluían a <i>Amitermes floridensis</i> como el único término (Termitidae) entre las 17 especies entonces conocidas del estado; ese nombre se sitúa ahora en la sinonimia de <i>Amitermes wheeleri</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      },
+      {
+        "id": "S0137",
+        "citation": "Scheffrahn, R. H. & Su, N.-Y. (1994). Keys to soldier and winged adult termites (Isoptera) of Florida. Florida Entomologist, 77(4), 460–474.",
+        "doi": "10.2307/3495700"
+      }
+    ]
+  },
+  "/genus/amitermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "兵蚁上颚的两组与共栖生物",
+        "heading_en": "Two soldier-mandible groups and associated organisms",
+        "heading_es": "Dos grupos de mandíbulas de soldado y organismos asociados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "根据 Scheffrahn（2022）转述的 1989 年鉴别特征，新北区与新热带区的弓白蚁属（<i>Amitermes</i>）兵蚁可按上颚缘齿分为两组：一组缘齿自颚内缘表面垂直伸出、具明显前斜面，包括惠勒弓白蚁（<i>Amitermes wheeleri</i>）、优秀弓白蚁（<i>Amitermes excellens</i>）、弓颚弓白蚁（<i>Amitermes amifer</i>）与福雷尔弓白蚁（<i>Amitermes foreli</i>）等；另一组缘齿向后倾斜、缺明显前斜面，如埃默森弓白蚁（<i>Amitermes emersoni</i>）。",
+            "text_en": "According to the 1989 diagnosis quoted by Scheffrahn (2022), soldiers of Nearctic and Neotropical <i>Amitermes</i> fall into two groups by mandibular dentition: in one the marginal teeth project perpendicularly from the surface of the inner mandibular edge and have a distinct anterior face, as in <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i>, <i>Amitermes amifer</i> and <i>Amitermes foreli</i>; in the other the teeth are directed posteriorly and lack a well-defined anterior face, as in <i>Amitermes emersoni</i>.",
+            "text_es": "Según el diagnóstico de 1989 citado por Scheffrahn (2022), los soldados de <i>Amitermes</i> neárticos y neotropicales se dividen en dos grupos por la dentición mandibular: en uno los dientes marginales se proyectan perpendicularmente desde la superficie del borde interno de la mandíbula y poseen una cara anterior definida, como en <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i>, <i>Amitermes amifer</i> y <i>Amitermes foreli</i>; en el otro los dientes se dirigen hacia atrás y carecen de una cara anterior bien definida, como en <i>Amitermes emersoni</i>."
+          },
+          {
+            "src": [
+              "S0204"
+            ],
+            "text": "据摘要，Kirby（1932）检查了巴拿马 1 种与加利福尼亚 5 种弓白蚁属（<i>Amitermes</i>）的肠道原虫，描述 <i>Trichomonas lighti</i>（见于全部 6 种寄主，但不见于所有个体）、<i>Chilomastix minuta</i> 与 <i>Embadomonas termitis</i>（均见于博蒙特弓白蚁 <i>Amitermes beaumonti</i>）、<i>Endamoeba beaumonti</i>（见于 5 种寄主）与 <i>Nyctotherus silvestrianus</i>（见于 3 种加州种类）；这些原虫的丰度远低于木食性三科白蚁中的鞭毛虫。",
+            "text_en": "According to the abstract, Kirby (1932) examined the gut protozoa of five Californian and one Panamanian species of <i>Amitermes</i> and described <i>Trichomonas lighti</i> (found in all six hosts but not in every individual), <i>Chilomastix minuta</i> and <i>Embadomonas termitis</i> (both in <i>Amitermes beaumonti</i>), <i>Endamoeba beaumonti</i> (in five hosts) and <i>Nyctotherus silvestrianus</i> (in three Californian species); these protozoa are much less abundant than the flagellates of termites in the three wood-feeding families.",
+            "text_es": "Según el resumen, Kirby (1932) examinó los protozoos intestinales de cinco especies californianas y una panameña de <i>Amitermes</i> y describió <i>Trichomonas lighti</i> (presente en las seis hospederas pero no en todos los individuos), <i>Chilomastix minuta</i> y <i>Embadomonas termitis</i> (ambas en <i>Amitermes beaumonti</i>), <i>Endamoeba beaumonti</i> (en cinco hospederas) y <i>Nyctotherus silvestrianus</i> (en tres especies californianas); estos protozoos son mucho menos abundantes que los flagelados de las termitas de las tres familias xilófagas."
+          },
+          {
+            "src": [
+              "S0208"
+            ],
+            "text": "据摘要，Haverty 与 Nutting（1975）在 69 个随机圆形样方中比较亚利桑那荒漠 4 类地下白蚁的木材选择，发现弓白蚁属（<i>Amitermes</i>）的 3 个种集中取食猫爪金合欢（catclaw acacia）与蓝绿树（blue palo-verde），而金黄异白蚁（<i>Heterotermes aureus</i>）偏好荒漠朴（desert hackberry）与仙人掌（cholla）的枯木。",
+            "text_en": "According to the abstract, Haverty and Nutting (1975) compared wood selection among four groups of subterranean termites in the Arizona desert using 69 randomly located circular quadrats and found that three species of <i>Amitermes</i> concentrated on catclaw acacia and blue palo-verde, whereas <i>Heterotermes aureus</i> preferred dead wood of desert hackberry and cholla.",
+            "text_es": "Según el resumen, Haverty y Nutting (1975) compararon la selección de madera entre cuatro grupos de termitas subterráneas del desierto de Arizona en 69 cuadrantes circulares aleatorios y hallaron que tres especies de <i>Amitermes</i> se concentraban en el acacio garra de gato (catclaw acacia) y el palo verde azul (blue palo-verde), mientras que <i>Heterotermes aureus</i> prefería la madera muerta del almez del desierto (desert hackberry) y de la cholla."
+          },
+          {
+            "src": [
+              "S0212"
+            ],
+            "text": "据摘要，Kanzaki 等（2010）于 2008 年在巴拿马巴罗科罗拉多岛从博蒙特弓白蚁（<i>Amitermes beaumonti</i>）、微小锯白蚁（<i>Microcerotermes exiguus</i>）与巴拿马钝白蚁（<i>Obtusitermes panamae</i>）三种地下白蚁上分离到线虫新种 <i>Pseudaphelenchus vindai</i>；其 SSU rDNA 序列分析把该种与同属唯一种 <i>Pseudaphelenchus yukiae</i> 聚为高支持分支，位于滑刃科（Aphelenchoididae）的基部。",
+            "text_en": "According to the abstract, Kanzaki et al. (2010) isolated the new nematode <i>Pseudaphelenchus vindai</i> in 2008 on Barro Colorado Island, Panama, from three subterranean termites, <i>Amitermes beaumonti</i>, <i>Microcerotermes exiguus</i> and <i>Obtusitermes panamae</i>; analysis of its SSU rDNA sequence placed it in a well-supported clade with the only congener, <i>Pseudaphelenchus yukiae</i>, at the base of the family Aphelenchoididae.",
+            "text_es": "Según el resumen, Kanzaki et al. (2010) aislaron en 2008 en la isla Barro Colorado, Panamá, el nuevo nematodo <i>Pseudaphelenchus vindai</i> de tres termitas subterráneas, <i>Amitermes beaumonti</i>, <i>Microcerotermes exiguus</i> y <i>Obtusitermes panamae</i>; el análisis de su secuencia de ADNr SSU lo situó en un clado bien sustentado con el único congénere, <i>Pseudaphelenchus yukiae</i>, en la base de la familia Aphelenchoididae."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      },
+      {
+        "id": "S0204",
+        "citation": "Kirby, H. (1932). Protozoa in termites of the genus Amitermes. Parasitology.",
+        "doi": "10.1017/s0031182000020709"
+      },
+      {
+        "id": "S0208",
+        "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
+        "doi": "10.1093/aesa/68.3.533"
+      },
+      {
+        "id": "S0212",
+        "citation": "Kanzaki, N., Giblin-Davis, R. M., Herre, E. A., Scheffrahn, R. H. & Center, B. J. (2010). Pseudaphelenchus vindai n. sp. (Tylenchomorpha: Aphelenchoididae) associated with termites in Barro Colorado Island, Panama. Nematology.",
+        "doi": "10.1163/138855410x496187"
+      }
+    ]
+  },
+  "/genus/labiotermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "属级修订与肠道共生体",
+        "heading_en": "Generic revision and gut holobiont",
+        "heading_es": "Revisión genérica y holobionte intestinal",
+        "paragraphs": [
+          {
+            "src": [
+              "S0200"
+            ],
+            "text": "据摘要，Constantino 等（2006）修订南美厚唇白蚁属（<i>Labiotermes</i>），承认 10 个种，给出兵蚁与工蚁检索表以及全部种的分布图，并描述亚马逊雨林的大厚唇白蚁（<i>Labiotermes guasu</i>）与巴西中部塞拉多（Cerrado）的山神厚唇白蚁（<i>Labiotermes oreadicus</i>）两个新种；埃默森厚唇白蚁（<i>Labiotermes emersoni</i>）与直头厚唇白蚁（<i>Labiotermes orthocephalus</i>）的成虫首次被描述，全部种的工蚁连同肠瓣与混合节一并描述和图示。",
+            "text_en": "According to the abstract, Constantino et al. (2006) revised the South American genus <i>Labiotermes</i>, recognising 10 species, providing keys to soldiers and workers and distribution maps for all species, and describing two new species, <i>Labiotermes guasu</i> from Amazonian rain forest and <i>Labiotermes oreadicus</i> from the Cerrado of central Brazil; the imagos of <i>Labiotermes emersoni</i> and <i>Labiotermes orthocephalus</i> are described for the first time, and the workers of all species are described and illustrated, including the enteric valve armature and the mixed segment.",
+            "text_es": "Según el resumen, Constantino et al. (2006) revisaron el género sudamericano <i>Labiotermes</i>, reconocieron 10 especies, aportaron claves para soldados y obreras y mapas de distribución de todas las especies, y describieron dos especies nuevas, <i>Labiotermes guasu</i> de la selva amazónica y <i>Labiotermes oreadicus</i> del Cerrado del Brasil central; los imagos de <i>Labiotermes emersoni</i> y <i>Labiotermes orthocephalus</i> se describen por primera vez, y las obreras de todas las especies se describen e ilustran, incluida la armadura de la válvula entérica y el segmento mixto."
+          },
+          {
+            "src": [
+              "S0209"
+            ],
+            "text": "据摘要，Marynowska 等（2023）对细唇厚唇白蚁（<i>Labiotermes labralis</i>）作全共生体多组学分析，发现肠道细菌以厚壁菌门（Firmicutes）为主，并向后方体节逐渐减少，拟杆菌门（Bacteroidetes）、变形菌门（Proteobacteria）与疣微菌门（Verrucomicrobia）相应增加；肠道微生物表达大量降解纤维素与半纤维素的碳水化合物活性酶，宿主自身的纤维素酶在系统发育来源与结构上各不相同。",
+            "text_en": "According to the abstract, Marynowska et al. (2023) applied a holobiont multi-omics approach to <i>Labiotermes labralis</i> and found that the gut bacteria were dominated by Firmicutes, which declined gradually towards the posterior segments while Bacteroidetes, Proteobacteria and Verrucomicrobia increased; the gut microbiota expressed a high diversity of carbohydrate-active enzymes degrading cellulose and hemicelluloses, and the host's own cellulases differ in phylogenetic origin and structure.",
+            "text_es": "Según el resumen, Marynowska et al. (2023) aplicaron un enfoque multiómico a nivel de holobionte a <i>Labiotermes labralis</i> y hallaron que las bacterias intestinales estaban dominadas por Firmicutes, que disminuían gradualmente hacia los segmentos posteriores mientras aumentaban Bacteroidetes, Proteobacteria y Verrucomicrobia; la microbiota intestinal expresaba una alta diversidad de enzimas activas sobre carbohidratos que degradan celulosa y hemicelulosas, y las celulasas propias del hospedero difieren en origen filogenético y estructura."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0200",
+        "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+        "doi": "10.11646/zootaxa.1340.1.1"
+      },
+      {
+        "id": "S0209",
+        "citation": "Marynowska, M., Sillam-Dussès, D., Untereiner, B., Klimek, D., Goux, X., Gawron, P., Roisin, Y., Delfosse, P. & Całusińska, M. (2023). A holobiont approach towards polysaccharide degradation by the highly compartmentalised gut system of the soil-feeding higher termite Labiotermes labralis. BMC Genomics, 24.",
+        "doi": "10.1186/s12864-023-09224-5"
+      }
+    ]
+  },
+  "/species/nasutitermes-novarumhebridarum/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "补充生殖蚁与群体繁殖",
+        "heading_en": "Replacement reproductives and colony reproduction",
+        "heading_es": "Reproductores de reemplazo y reproducción colonial",
+        "paragraphs": [
+          {
+            "src": [
+              "S0201"
+            ],
+            "text": "据摘要，Roisin（1987）的去后实验表明，新赫布里底象白蚁（<i>Nasutitermes novarumhebridarum</i>）的补充生殖蚁只由工蚁发育为工蚁型（ergatoid），从不来自有翅芽的若虫或成虫；工蚁发育为具功能的工蚁型需 3 次蜕皮，比此前已知的其他白蚁多 1 次。",
+            "text_en": "According to the abstract, queen-removal experiments by Roisin (1987) showed that replacement reproductives of <i>Nasutitermes novarumhebridarum</i> develop only from workers as ergatoids, never from nymphs or alates; three moults are required for a worker to become a functional ergatoid, one more than in other termites previously known.",
+            "text_es": "Según el resumen, los experimentos de extracción de la reina de Roisin (1987) mostraron que los reproductores de reemplazo de <i>Nasutitermes novarumhebridarum</i> se desarrollan solo a partir de obreras como ergatoides, nunca de ninfas o alados; se requieren tres mudas para que una obrera se convierta en ergatoide funcional, una más que en otras termitas conocidas hasta entonces."
+          },
+          {
+            "src": [
+              "S0201"
+            ],
+            "text": "据摘要，同一研究指出，在已具功能工蚁型的群体中，部分若虫发育为工蚁状个体；该种与同域的第一象白蚁（<i>Nasutitermes princeps</i>）等近缘种不同，未见由若虫发育的成虫型补充生殖蚁，似乎只靠独立建群的有翅繁殖蚁占据大而有限、彼此远离的死树或受损树干，其品级发育途径被认为适应于把资源最大限度投入扩散性有翅蚁的生产。",
+            "text_en": "The same study notes that in colonies with functional ergatoids some nymphs gave rise to worker-like individuals; unlike the sympatric <i>Nasutitermes princeps</i> and related species, in which imaginal replacement reproductives are readily produced, <i>Nasutitermes novarumhebridarum</i> appears to rely exclusively on independent alate founders that colonise large but finite and widely spaced resources such as dead or damaged tree trunks, its caste pathway being interpreted as channelling a maximum of resources into the production of dispersing alates.",
+            "text_es": "El mismo estudio señala que en colonias con ergatoides funcionales algunas ninfas dieron lugar a individuos semejantes a obreras; a diferencia de la especie simpátrica <i>Nasutitermes princeps</i> y otras afines, en las que se producen fácilmente reproductores imaginales de reemplazo, <i>Nasutitermes novarumhebridarum</i> parece depender exclusivamente de fundadores alados independientes que colonizan recursos grandes pero finitos y muy espaciados, como troncos muertos o dañados, y su vía de desarrollo de castas se interpreta como una canalización del máximo de recursos hacia la producción de alados dispersantes."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0201",
+        "citation": "Roisin, Y. & Pasteels, J. M. (1987). Caste developmental potentialities in the termite Nasutitermes novarumhebridarum. Entomologia Experimentalis et Applicata.",
+        "doi": "10.1111/j.1570-7458.1987.tb00556.x"
+      }
+    ]
+  },
+  "/genus/cubitermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "蚁巢被蚂蚁占用",
+        "heading_en": "Termitaries occupied by ants",
+        "heading_es": "Termiteros ocupados por hormigas",
+        "paragraphs": [
+          {
+            "src": [
+              "S0203"
+            ],
+            "text": "据摘要，Déjean 等（1996）在喀麦隆南部 10 处森林调查方白蚁属（<i>Cubitermes</i>）蚁巢，密度为每公顷 124.48±13.6 个（含活动巢与废弃巢）；725 个蚁巢中，活动的直立巢 358 个、废弃的直立巢 220 个、倒伏的废弃巢 147 个。",
+            "text_en": "According to the abstract, Déjean et al. (1996) surveyed termitaries of <i>Cubitermes</i> in 10 forests of southern Cameroon and found a density of 124.48 ± 13.6 termitaries per hectare (active and abandoned); of 725 termitaries, 358 were active and vertical, 220 abandoned and vertical, and 147 fallen and abandoned.",
+            "text_es": "Según el resumen, Déjean et al. (1996) muestrearon termiteros de <i>Cubitermes</i> en 10 bosques del sur de Camerún y hallaron una densidad de 124,48 ± 13,6 termiteros por hectárea (activos y abandonados); de 725 termiteros, 358 eran activos y verticales, 220 abandonados y verticales, y 147 caídos y abandonados."
+          },
+          {
+            "src": [
+              "S0203"
+            ],
+            "text": "据摘要，同一调查记录 799 个蚂蚁群落、37 属 151 种（其中 11 种未描述），单个蚁巢最多容纳 6 个蚂蚁群落；倒伏废弃巢被蚂蚁占用的比例为 92.5%、直立废弃巢 83.6%、活动巢 43.8%；103 个新建蚁群（占 12.9%）以蚁巢为庇护所，蚁亚科（Formicinae）中新建群占该亚科记录群落的 71.7%。",
+            "text_en": "The survey recorded 799 ant societies belonging to 37 genera and 151 species, 11 of them undescribed, with up to six ant colonies in a single termitary; ant occupancy was 92.5% of fallen abandoned termitaries, 83.6% of vertical abandoned ones and 43.8% of active ones, and 103 incipient colonies (12.9% of all societies) used termitaries as shelters, incipient colonies making up 71.7% of the Formicinae recorded.",
+            "text_es": "El muestreo registró 799 sociedades de hormigas de 37 géneros y 151 especies, 11 de ellas no descritas, con hasta seis colonias de hormigas en un mismo termitero; la ocupación por hormigas fue del 92,5 % en los termiteros caídos abandonados, del 83,6 % en los verticales abandonados y del 43,8 % en los activos, y 103 colonias incipientes (12,9 % del total) utilizaron los termiteros como refugio, representando las colonias incipientes el 71,7 % de las Formicinae registradas."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0203",
+        "citation": "Déjean, A., Durand, J.-L. & Bolton, B. (1996). Ants inhabiting Cubitermes termitaries in African rain forest. Biotropica.",
+        "doi": "10.2307/2389056"
+      }
+    ]
+  },
+  "/genus/syntermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "防御分泌物的作用方式",
+        "heading_en": "Mode of action of the defensive secretion",
+        "heading_es": "Modo de acción de la secreción defensiva",
+        "paragraphs": [
+          {
+            "src": [
+              "S0206"
+            ],
+            "text": "据摘要，Mill（1983）用两种捕食性蚂蚁生物测定 10 种新热带白蚁的防御分泌物：无毛聚白蚁（<i>Syntermes calvus</i>）的分泌物是创伤性毒物，表面活性很弱；戟白蚁属（<i>Armitermes</i>）的分泌物对蚂蚁有驱避作用并具表面毒性；象白蚁属（<i>Nasutitermes</i>）的分泌物兼具粘附缠绕与表面毒性，并有驱避效果；乳白蚁属（<i>Coptotermes</i>）与腹爆白蚁属（<i>Ruptitermes</i>）的粘性分泌物只是粘附缠绕的物理作用，未见明显毒性或信息素活性。",
+            "text_en": "According to the abstract, Mill (1983) bioassayed the defensive secretions of ten Neotropical termite species on two predatory ants and found that the secretion of <i>Syntermes calvus</i> acts as a wound-active poison with little topical activity, that of <i>Armitermes</i> repels ants and shows topical toxicity, and that of <i>Nasutitermes</i> combines adhesive, entangling properties with topical toxicity and repellency, whereas the tacky secretions of <i>Coptotermes</i> and <i>Ruptitermes</i> are merely adhesive entangling agents with no apparent toxic or pheromonal properties.",
+            "text_es": "Según el resumen, Mill (1983) evaluó mediante bioensayos las secreciones defensivas de diez especies neotropicales sobre dos hormigas depredadoras y halló que la secreción de <i>Syntermes calvus</i> actúa como veneno de herida con escasa actividad tópica, la de <i>Armitermes</i> repele a las hormigas y muestra toxicidad tópica, y la de <i>Nasutitermes</i> combina propiedades adhesivas y de enredo con toxicidad tópica y repelencia, mientras que las secreciones pegajosas de <i>Coptotermes</i> y <i>Ruptitermes</i> son solo agentes adherentes de enredo sin propiedades tóxicas ni feromonales aparentes."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0206",
+        "citation": "Mill, A. E. (1983). Behavioural and toxic effects of termite defensive secretions on ants. Physiological Entomology.",
+        "doi": "10.1111/j.1365-3032.1983.tb00375.x"
+      }
+    ]
+  },
+  "/genus/nasutitermes/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "北澳稀树草原的群落组成",
+        "heading_en": "Assemblage structure in a northern Australian savanna",
+        "heading_es": "Estructura del ensamblaje en una sabana del norte de Australia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0210"
+            ],
+            "text": "据摘要，Dawes-Gromadzki（2008）在澳大利亚北领地查尔斯·达尔文国家公园的 4 个 50×50 m 样地（2003 年 4–6 月）采样，记录 16 种白蚁、9 属、3 科；白蚁科（Termitidae）占出现次数的 69%，其中取食木质与土壤交界的桉树象白蚁（<i>Nasutitermes eucalypti</i>）占全部遭遇的 30%，泰勒棒颚白蚁（<i>Ephelotermes taylori</i>）为开阔稀树草原生境的首次记录，游荡长颚白蚁（<i>Macrognathotermes errator</i>）为北澳稀树草原的首次正式记录。",
+            "text_en": "According to the abstract, Dawes-Gromadzki (2008) sampled four 50 × 50 m sites in Charles Darwin National Park, Northern Territory, Australia, between April and June 2003 and recorded 16 termite species in nine genera and three families; Termitidae accounted for 69% of occurrences, <i>Nasutitermes eucalypti</i>, a wood/soil interface feeder, for 30% of all encounters, <i>Ephelotermes taylori</i> was recorded for the first time in open savanna woodland and <i>Macrognathotermes errator</i> was the first official record for north Australian savanna.",
+            "text_es": "Según el resumen, Dawes-Gromadzki (2008) muestreó cuatro parcelas de 50 × 50 m en el Parque Nacional Charles Darwin, Territorio del Norte, Australia, entre abril y junio de 2003, y registró 16 especies de termitas de nueve géneros y tres familias; Termitidae representó el 69 % de las apariciones, <i>Nasutitermes eucalypti</i>, consumidora de la interfaz madera/suelo, el 30 % de todos los encuentros, <i>Ephelotermes taylori</i> se registró por primera vez en sabana arbolada abierta y <i>Macrognathotermes errator</i> constituyó el primer registro oficial para la sabana del norte de Australia."
+          },
+          {
+            "src": [
+              "S0210"
+            ],
+            "text": "据摘要，同一调查记录 4 种筑巢方式——地上蚁丘、地下巢、木内巢与树栖巢，白蚁最常出现于地上蚁丘与倒木，木质取食者与木质/土壤交界取食者最多；土壤取食者与活木取食者较少、采草种类缺失，作者把这种较低的多样性部分归因于土壤氮磷含量与地表植被的丰富度和斑块性。",
+            "text_en": "The survey recorded four nesting habits—epigeal mounds, subterranean nests, nests within wood and arboreal nests—with termites most often encountered in epigeal mounds and lying dead wood, wood feeders and wood/soil interface feeders being the commonest; soil feeders and live-wood feeders were scarcer and grass-harvesting species were absent, and the author attributes this lower diversity in part to soil nitrogen and phosphorus and to the richness and patchiness of the ground vegetation.",
+            "text_es": "El muestreo registró cuatro hábitos de nidificación —montículos epigeos, nidos subterráneos, nidos dentro de la madera y nidos arbóreos—, con las termitas encontradas con mayor frecuencia en los montículos epigeos y en la madera muerta caída, siendo más comunes los consumidores de madera y los de la interfaz madera/suelo; los consumidores de suelo y de madera viva fueron más escasos y faltaron las especies recolectoras de gramíneas, y la autora atribuye en parte esta menor diversidad al nitrógeno y fósforo del suelo y a la riqueza y fragmentación de la vegetación del suelo."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0210",
+        "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.2008.00662.x"
+      }
+    ]
+  },
+  "/species/amitermes-excellens/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "兵蚁上颚的分组位置",
+        "heading_en": "Position within the soldier-mandible groups",
+        "heading_es": "Posición dentro de los grupos de mandíbulas de soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "据摘要，Scheffrahn（2022）沿用 1989 年的鉴别体系，把弓白蚁属（<i>Amitermes</i>）兵蚁按上颚缘齿分为两组：优秀弓白蚁（<i>Amitermes excellens</i>）属缘齿垂直伸出、具前斜面的那一组，同组还有惠勒弓白蚁（<i>Amitermes wheeleri</i>）、弓颚弓白蚁（<i>Amitermes amifer</i>）与福雷尔弓白蚁（<i>Amitermes foreli</i>）。",
+            "text_en": "According to the abstract, Scheffrahn (2022), following the 1989 key, divides <i>Amitermes</i> soldiers into two groups by mandibular dentition: <i>Amitermes excellens</i> belongs to the group whose marginal teeth project vertically and have an anterior face, together with <i>Amitermes wheeleri</i>, <i>Amitermes amifer</i> and <i>Amitermes foreli</i>.",
+            "text_es": "Según el resumen, Scheffrahn (2022), siguiendo la clave de 1989, divide a los soldados de <i>Amitermes</i> en dos grupos por la dentición mandibular: <i>Amitermes excellens</i> pertenece al grupo cuyos dientes marginales se proyectan verticalmente y poseen una cara anterior, junto con <i>Amitermes wheeleri</i>, <i>Amitermes amifer</i> y <i>Amitermes foreli</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      }
+    ]
+  },
+  "/species/amitermes-amifer/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "兵蚁上颚的分组位置",
+        "heading_en": "Position within the soldier-mandible groups",
+        "heading_es": "Posición dentro de los grupos de mandíbulas de soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "据摘要，Scheffrahn（2022）把弓颚弓白蚁（<i>Amitermes amifer</i>）归入兵蚁缘齿垂直伸出、具前斜面的一组，该组还包括惠勒弓白蚁（<i>Amitermes wheeleri</i>）、优秀弓白蚁（<i>Amitermes excellens</i>）与福雷尔弓白蚁（<i>Amitermes foreli</i>）；另一组缘齿后倾、无前斜面，如埃默森弓白蚁（<i>Amitermes emersoni</i>）。",
+            "text_en": "According to the abstract, Scheffrahn (2022) places <i>Amitermes amifer</i> in the group of soldiers whose marginal teeth project vertically and bear an anterior face, which also includes <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i> and <i>Amitermes foreli</i>; the other group has recurved teeth without an anterior face, as in <i>Amitermes emersoni</i>.",
+            "text_es": "Según el resumen, Scheffrahn (2022) sitúa a <i>Amitermes amifer</i> en el grupo de soldados cuyos dientes marginales se proyectan verticalmente y presentan una cara anterior, que también incluye a <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i> y <i>Amitermes foreli</i>; el otro grupo tiene dientes recurvados sin cara anterior, como en <i>Amitermes emersoni</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      }
+    ]
+  },
+  "/species/amitermes-foreli/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "兵蚁上颚的分组位置",
+        "heading_en": "Position within the soldier-mandible groups",
+        "heading_es": "Posición dentro de los grupos de mandíbulas de soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "据摘要，Scheffrahn（2022）把福雷尔弓白蚁（<i>Amitermes foreli</i>）归入兵蚁缘齿垂直伸出、具前斜面的一组，同组有惠勒弓白蚁（<i>Amitermes wheeleri</i>）、优秀弓白蚁（<i>Amitermes excellens</i>）与弓颚弓白蚁（<i>Amitermes amifer</i>）。",
+            "text_en": "According to the abstract, Scheffrahn (2022) places <i>Amitermes foreli</i> in the group of soldiers whose marginal teeth project vertically and bear an anterior face, together with <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i> and <i>Amitermes amifer</i>.",
+            "text_es": "Según el resumen, Scheffrahn (2022) sitúa a <i>Amitermes foreli</i> en el grupo de soldados cuyos dientes marginales se proyectan verticalmente y presentan una cara anterior, junto con <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i> y <i>Amitermes amifer</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      }
+    ]
+  },
+  "/species/amitermes-emersoni/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "兵蚁上颚的分组位置",
+        "heading_en": "Position within the soldier-mandible groups",
+        "heading_es": "Posición dentro de los grupos de mandíbulas de soldados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0434"
+            ],
+            "text": "据摘要，Scheffrahn（2022）把埃默森弓白蚁（<i>Amitermes emersoni</i>）列为兵蚁缘齿后倾、无前斜面的一组，与缘齿垂直伸出、具前斜面的惠勒弓白蚁（<i>Amitermes wheeleri</i>）、优秀弓白蚁（<i>Amitermes excellens</i>）、弓颚弓白蚁（<i>Amitermes amifer</i>）、福雷尔弓白蚁（<i>Amitermes foreli</i>）相对。",
+            "text_en": "According to the abstract, Scheffrahn (2022) assigns <i>Amitermes emersoni</i> to the group whose marginal teeth are recurved and lack an anterior face, as opposed to <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i>, <i>Amitermes amifer</i> and <i>Amitermes foreli</i>, whose teeth project vertically and bear an anterior face.",
+            "text_es": "Según el resumen, Scheffrahn (2022) asigna a <i>Amitermes emersoni</i> al grupo cuyos dientes marginales son recurvados y carecen de cara anterior, en contraste con <i>Amitermes wheeleri</i>, <i>Amitermes excellens</i>, <i>Amitermes amifer</i> y <i>Amitermes foreli</i>, cuyos dientes se proyectan verticalmente y presentan una cara anterior."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0434",
+        "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+        "doi": "10.11646/zootaxa.5128.4.7"
+      }
+    ]
+  },
+  "/species/amitermes-beaumonti/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "肠道原生动物",
+        "heading_en": "Gut protozoa",
+        "heading_es": "Protozoos intestinales",
+        "paragraphs": [
+          {
+            "src": [
+              "S0204"
+            ],
+            "text": "据摘要，Kirby（1932）在博蒙特弓白蚁（<i>Amitermes beaumonti</i>）肠道中描述了两个新种原生动物：细小微单鞭虫（<i>Chilomastix minuta</i>）与白蚁内滴虫（<i>Embadomonas termitis</i>）；并以包括该种在内的 5 种弓白蚁作寄主，描述了博蒙特内阿米巴（<i>Endamoeba beaumonti</i>）。",
+            "text_en": "According to the abstract, Kirby (1932) described two new protozoan species from the gut of <i>Amitermes beaumonti</i>, <i>Chilomastix minuta</i> and <i>Embadomonas termitis</i>, and described <i>Endamoeba beaumonti</i> from five <i>Amitermes</i> hosts including this species.",
+            "text_es": "Según el resumen, Kirby (1932) describió dos especies nuevas de protozoos del intestino de <i>Amitermes beaumonti</i>, <i>Chilomastix minuta</i> y <i>Embadomonas termitis</i>, y describió <i>Endamoeba beaumonti</i> a partir de cinco hospedadores de <i>Amitermes</i>, incluida esta especie."
+          }
+        ]
+      },
+      {
+        "heading": "携带的线虫",
+        "heading_en": "Nematodes carried",
+        "heading_es": "Nematodos transportados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0212"
+            ],
+            "text": "据摘要，Kanzaki 等（2010）从巴拿马巴罗科罗拉多岛采到的博蒙特弓白蚁（<i>Amitermes beaumonti</i>）体内分离到线虫新种 <i>Pseudaphelenchus vindai</i>，该线虫在 SSU rDNA 树上与同属的 <i>Pseudaphelenchus yukiae</i> 聚成高支持分支，位于滑刃科（Aphelenchoididae）基部。",
+            "text_en": "According to the abstract, Kanzaki et al. (2010) isolated the new nematode <i>Pseudaphelenchus vindai</i> from <i>Amitermes beaumonti</i> collected on Barro Colorado Island, Panama; in the SSU rDNA tree this nematode forms a strongly supported clade with the congeneric <i>Pseudaphelenchus yukiae</i> at the base of Aphelenchoididae.",
+            "text_es": "Según el resumen, Kanzaki et al. (2010) aislaron el nuevo nematodo <i>Pseudaphelenchus vindai</i> de <i>Amitermes beaumonti</i> recolectada en la isla Barro Colorado, Panamá; en el árbol de SSU rDNA este nematodo forma un clado con fuerte apoyo con el congénere <i>Pseudaphelenchus yukiae</i> en la base de Aphelenchoididae."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0204",
+        "citation": "Kirby, H. (1932). Protozoa in termites of the genus Amitermes. Parasitology.",
+        "doi": "10.1017/s0031182000020709"
+      },
+      {
+        "id": "S0212",
+        "citation": "Kanzaki, N., Giblin-Davis, R. M., Herre, E. A., Scheffrahn, R. H. & Center, B. J. (2010). Pseudaphelenchus vindai n. sp. (Tylenchomorpha: Aphelenchoididae) associated with termites in Barro Colorado Island, Panama. Nematology.",
+        "doi": "10.1163/138855410x496187"
+      }
+    ]
+  },
+  "/species/heterotermes-aureus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "天然木材偏好",
+        "heading_en": "Natural wood preferences",
+        "heading_es": "Preferencias por maderas naturales",
+        "paragraphs": [
+          {
+            "src": [
+              "S0208"
+            ],
+            "text": "据摘要，Haverty 与 Nutting（1975）在 69 个随机样方中调查荒漠白蚁的天然取食，金黄异白蚁（<i>Heterotermes aureus</i>）取食约 13 种木材，偏好荒漠朴（desert hackberry）与 cholla 仙人掌的枯段；同一调查中，直头动白蚁（<i>Paraneotermes simplicicornis</i>）偏好牧豆树（mesquite）、catclaw acacia 与 cholla 桩，弓白蚁属（<i>Amitermes</i>）的 3 个种偏好 catclaw acacia 与 blue palo-verde。",
+            "text_en": "According to the abstract, Haverty and Nutting (1975) surveyed natural wood feeding in 69 random quadrats and found that <i>Heterotermes aureus</i> feeds on about 13 wood species, preferring desert hackberry and dead cholla cactus, whereas in the same survey <i>Paraneotermes simplicicornis</i> preferred mesquite, catclaw acacia and cholla stumps and three <i>Amitermes</i> species preferred catclaw acacia and blue palo-verde.",
+            "text_es": "Según el resumen, Haverty y Nutting (1975) estudiaron la alimentación natural en 69 cuadrantes aleatorios y hallaron que <i>Heterotermes aureus</i> consume unas 13 especies de madera y prefiere el hackberry del desierto y los tallos muertos de cholla, mientras que en el mismo estudio <i>Paraneotermes simplicicornis</i> prefirió mezquite, catclaw acacia y tocones de cholla, y tres especies de <i>Amitermes</i> prefirieron catclaw acacia y blue palo-verde."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0208",
+        "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
+        "doi": "10.1093/aesa/68.3.533"
+      }
+    ]
+  },
+  "/species/labiotermes-guasu/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "2006 年描述的新种",
+        "heading_en": "A species described in 2006",
+        "heading_es": "Una especie descrita en 2006",
+        "paragraphs": [
+          {
+            "src": [
+              "S0200"
+            ],
+            "text": "据摘要，Constantino 等（2006）修订厚唇白蚁属（<i>Labiotermes</i>）与副角白蚁属（<i>Paracornitermes</i>）时，把采自亚马逊地区的大厚唇白蚁（<i>Labiotermes guasu</i>）描述为新种，并给出兵蚁与工蚁检索表、全部种的分布图。",
+            "text_en": "According to the abstract, when Constantino et al. (2006) revised <i>Labiotermes</i> and <i>Paracornitermes</i> they described <i>Labiotermes guasu</i>, from the Amazon region, as a new species, and provided keys to soldiers and workers and distribution maps for all species.",
+            "text_es": "Según el resumen, cuando Constantino et al. (2006) revisaron <i>Labiotermes</i> y <i>Paracornitermes</i>, describieron <i>Labiotermes guasu</i>, procedente de la región amazónica, como especie nueva, y presentaron claves para soldados y obreros y mapas de distribución de todas las especies."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0200",
+        "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+        "doi": "10.11646/zootaxa.1340.1.1"
+      }
+    ]
+  },
+  "/species/labiotermes-oreadicus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "2006 年描述的新种",
+        "heading_en": "A species described in 2006",
+        "heading_es": "Una especie descrita en 2006",
+        "paragraphs": [
+          {
+            "src": [
+              "S0200"
+            ],
+            "text": "据摘要，Constantino 等（2006）把采自巴西稀树草原（Cerrado）的山神厚唇白蚁（<i>Labiotermes oreadicus</i>）描述为新种；该修订共承认厚唇白蚁属（<i>Labiotermes</i>）10 个种，并把副角白蚁属（<i>Paracornitermes</i>）作为新异名并入。",
+            "text_en": "According to the abstract, Constantino et al. (2006) described <i>Labiotermes oreadicus</i>, from the Brazilian Cerrado, as a new species; the revision recognized ten species of <i>Labiotermes</i> and placed <i>Paracornitermes</i> in synonymy.",
+            "text_es": "Según el resumen, Constantino et al. (2006) describieron <i>Labiotermes oreadicus</i>, del Cerrado brasileño, como especie nueva; la revisión reconoció diez especies de <i>Labiotermes</i> y situó a <i>Paracornitermes</i> en sinonimia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0200",
+        "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+        "doi": "10.11646/zootaxa.1340.1.1"
+      }
+    ]
+  },
+  "/species/labiotermes-emersoni/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "成虫的首次描述",
+        "heading_en": "First description of the alate",
+        "heading_es": "Primera descripción del alado",
+        "paragraphs": [
+          {
+            "src": [
+              "S0200"
+            ],
+            "text": "据摘要，Constantino 等（2006）在修订厚唇白蚁属（<i>Labiotermes</i>）时首次描述了埃默森厚唇白蚁（<i>Labiotermes emersoni</i>）的成虫（有翅繁殖蚁），此前该种只知兵蚁与工蚁。",
+            "text_en": "According to the abstract, in their revision of <i>Labiotermes</i>, Constantino et al. (2006) described the alate of <i>Labiotermes emersoni</i> for the first time; the species had previously been known only from soldiers and workers.",
+            "text_es": "Según el resumen, en su revisión de <i>Labiotermes</i>, Constantino et al. (2006) describieron por primera vez el alado de <i>Labiotermes emersoni</i>; antes, la especie solo se conocía por soldados y obreros."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0200",
+        "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+        "doi": "10.11646/zootaxa.1340.1.1"
+      }
+    ]
+  },
+  "/species/labiotermes-orthocephalus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "异名与成虫描述",
+        "heading_en": "Synonymy and description of the alate",
+        "heading_es": "Sinonimia y descripción del alado",
+        "paragraphs": [
+          {
+            "src": [
+              "S0200"
+            ],
+            "text": "据摘要，Constantino 等（2006）把 <i>Paracornitermes caapora</i> 与 <i>Paracornitermes hirsutus</i> 并入直头厚唇白蚁（<i>Labiotermes orthocephalus</i>），并首次描述了该种的成虫（有翅繁殖蚁）；同属的埃默森厚唇白蚁（<i>Labiotermes emersoni</i>）也在该修订中首次得到成虫描述。",
+            "text_en": "According to the abstract, Constantino et al. (2006) synonymized <i>Paracornitermes caapora</i> and <i>Paracornitermes hirsutus</i> under <i>Labiotermes orthocephalus</i> and described the alate of this species for the first time; the alate of <i>Labiotermes emersoni</i> was also described for the first time in the same revision.",
+            "text_es": "Según el resumen, Constantino et al. (2006) sinonimizaron <i>Paracornitermes caapora</i> y <i>Paracornitermes hirsutus</i> bajo <i>Labiotermes orthocephalus</i> y describieron por primera vez el alado de esta especie; el alado de <i>Labiotermes emersoni</i> también se describió por primera vez en la misma revisión."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0200",
+        "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+        "doi": "10.11646/zootaxa.1340.1.1"
+      }
+    ]
+  },
+  "/species/labiotermes-labralis/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "肠道共生体的组成",
+        "heading_en": "Composition of the gut microbiota",
+        "heading_es": "Composición del microbiota intestinal",
+        "paragraphs": [
+          {
+            "src": [
+              "S0209"
+            ],
+            "text": "据摘要，Marynowska 等（2023）研究土食性的细唇厚唇白蚁（<i>Labiotermes labralis</i>）的分室化肠道，共生细菌以厚壁菌门（Firmicutes）为主，其相对丰度从前肠向后肠逐渐下降，而拟杆菌门（Bacteroidetes）、变形菌门（Proteobacteria）与疣微菌门（Verrucomicrobia）随之增加；共生体表达大量降解纤维素与半纤维素的碳水化合物活性酶（CAZyme），宿主自身的纤维素酶在来源与结构上也各不相同。",
+            "text_en": "According to the abstract, Marynowska et al. (2023) studied the compartmentalised gut of the soil-feeding <i>Labiotermes labralis</i> and found that Firmicutes dominate the bacterial community and decline in relative abundance from the foregut towards the hindgut, whereas Bacteroidetes, Proteobacteria and Verrucomicrobia increase; the symbionts express many carbohydrate-active enzymes (CAZymes) degrading cellulose and hemicellulose, and the host's own cellulases differ in origin and structure.",
+            "text_es": "Según el resumen, Marynowska et al. (2023) estudiaron el intestino compartimentado de la especie edafófaga <i>Labiotermes labralis</i> y hallaron que Firmicutes domina la comunidad bacteriana y disminuye en abundancia relativa desde el intestino anterior hacia el posterior, mientras que Bacteroidetes, Proteobacteria y Verrucomicrobia aumentan; los simbiontes expresan numerosas enzimas activas sobre carbohidratos (CAZimas) que degradan celulosa y hemicelulosa, y las celulasas propias del hospedador difieren en origen y estructura."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0209",
+        "citation": "Marynowska, M., Sillam-Dussès, D., Untereiner, B., Klimek, D., Goux, X., Gawron, P., Roisin, Y., Delfosse, P. & Całusińska, M. (2023). A holobiont approach towards polysaccharide degradation by the highly compartmentalised gut system of the soil-feeding higher termite Labiotermes labralis. BMC Genomics, 24.",
+        "doi": "10.1186/s12864-023-09224-5"
+      }
+    ]
+  },
+  "/species/nasutitermes-princeps/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "补充生殖蚁的类型",
+        "heading_en": "Types of neotenic reproductives",
+        "heading_es": "Tipos de reproductores neoténicos",
+        "paragraphs": [
+          {
+            "src": [
+              "S0201"
+            ],
+            "text": "据摘要，Roisin 与 Pasteels（1987）比较新赫布里底象白蚁（<i>Nasutitermes novarumhebridarum</i>）与同域的第一象白蚁（<i>Nasutitermes princeps</i>）后发现：新赫布里底象白蚁去后只产生工蚁型（ergatoid）补充生殖蚁，第一象白蚁则容易产生成虫型（具翅芽）补充生殖蚁，两者在同一生境中采取了不同的品级发育策略。",
+            "text_en": "According to the abstract, Roisin and Pasteels (1987) compared <i>Nasutitermes novarumhebridarum</i> with the sympatric <i>Nasutitermes princeps</i> and found that the former produces only ergatoid neotenics after queen removal, whereas the latter readily produces adultoid (brachypterous) neotenics, so the two species adopt different caste-developmental strategies in the same habitat.",
+            "text_es": "Según el resumen, Roisin y Pasteels (1987) compararon <i>Nasutitermes novarumhebridarum</i> con el simpátrico <i>Nasutitermes princeps</i> y hallaron que el primero produce únicamente neoténicos ergatoides tras retirar la reina, mientras que el segundo produce fácilmente neoténicos adultoides (braquípteros), de modo que ambas especies adoptan estrategias distintas de desarrollo de castas en el mismo hábitat."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0201",
+        "citation": "Roisin, Y. & Pasteels, J. M. (1987). Caste developmental potentialities in the termite Nasutitermes novarumhebridarum. Entomologia Experimentalis et Applicata.",
+        "doi": "10.1111/j.1570-7458.1987.tb00556.x"
+      }
+    ]
+  },
+  "/species/trinervitermes-bettonianus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "群体迁移（sociotomy）",
+        "heading_en": "Colony migration (sociotomy)",
+        "heading_es": "Migración de la colonia (sociotomía)",
+        "paragraphs": [
+          {
+            "src": [
+              "S0211"
+            ],
+            "text": "据摘要，Grassé 与 Noirot（1951）观察到贝顿三脉白蚁（<i>Trinervitermes bettonianus</i>）的群体在白天成列离巢迁移，列中包含王室配偶与全部品级，含有翅成虫在地面爬行并搬运幼虫；迁移队伍分群后各自建立新巢，补充生殖蚁由幼态持续（neoteny）频繁产生。",
+            "text_en": "According to the abstract, Grassé and Noirot (1951) observed colonies of <i>Trinervitermes bettonianus</i> leaving the nest by day in columns that included the royal pair and all castes, with alates walking on the ground and carrying larvae; the columns split and founded new nests, and neotenic reproductives are produced frequently by neoteny.",
+            "text_es": "Según el resumen, Grassé y Noirot (1951) observaron colonias de <i>Trinervitermes bettonianus</i> abandonar el nido de día en columnas que incluían a la pareja real y todas las castas, con alados caminando por el suelo y transportando larvas; las columnas se dividieron y fundaron nuevos nidos, y los reproductores neoténicos se producen con frecuencia por neotenia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0211",
+        "citation": "Grassé, P.-P. & Noirot, C. (1951). La sociotomie: migration et fragmentation de la termitière chez les Anoplotermes et les Trinervitermes. Behaviour.",
+        "doi": "10.1163/156853951x00241"
+      }
+    ]
+  },
+  "/species/syntermes-calvus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "防御分泌物的作用方式",
+        "heading_en": "Mode of action of the defensive secretion",
+        "heading_es": "Modo de acción de la secreción defensiva",
+        "paragraphs": [
+          {
+            "src": [
+              "S0206"
+            ],
+            "text": "据摘要，Mill（1983）把无毛聚白蚁（<i>Syntermes calvus</i>）的防御分泌物滴在捕食性蚂蚁体表做生物测定，发现它主要起创伤性毒物的作用，表面活性很弱——与象白蚁属（<i>Nasutitermes</i>）兼具粘附、表面毒性与驱避的分泌物不同。",
+            "text_en": "According to the abstract, Mill (1983) applied the defensive secretion of <i>Syntermes calvus</i> to the body surface of predatory ants and found that it acts mainly as a wound-active poison with little topical activity, unlike the secretion of <i>Nasutitermes</i>, which combines adhesion, topical toxicity and repellency.",
+            "text_es": "Según el resumen, Mill (1983) aplicó la secreción defensiva de <i>Syntermes calvus</i> sobre la superficie corporal de hormigas depredadoras y halló que actúa principalmente como veneno de herida con escasa actividad tópica, a diferencia de la secreción de <i>Nasutitermes</i>, que combina adhesión, toxicidad tópica y repelencia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0206",
+        "citation": "Mill, A. E. (1983). Behavioural and toxic effects of termite defensive secretions on ants. Physiological Entomology.",
+        "doi": "10.1111/j.1365-3032.1983.tb00375.x"
+      }
+    ]
+  },
+  "/species/nasutitermes-eucalypti/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "北澳稀树草原的优势种",
+        "heading_en": "A dominant species in a northern Australian savanna",
+        "heading_es": "Una especie dominante en una sabana del norte de Australia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0210"
+            ],
+            "text": "据摘要，Dawes-Gromadzki（2008）在澳大利亚北领地查尔斯·达尔文国家公园的 4 个 50×50 m 样地记录 16 种白蚁，桉树象白蚁（<i>Nasutitermes eucalypti</i>）取食木质与土壤交界，占全部遭遇的 30%，是该稀树草原生境中最常遇到的白蚁。",
+            "text_en": "According to the abstract, Dawes-Gromadzki (2008) recorded 16 termite species in four 50 × 50 m sites in Charles Darwin National Park, Northern Territory, Australia; <i>Nasutitermes eucalypti</i>, a wood/soil interface feeder, accounted for 30% of all encounters and was the termite most often encountered in this savanna habitat.",
+            "text_es": "Según el resumen, Dawes-Gromadzki (2008) registró 16 especies de termitas en cuatro parcelas de 50 × 50 m en el Parque Nacional Charles Darwin, Territorio del Norte, Australia; <i>Nasutitermes eucalypti</i>, consumidora de la interfaz madera/suelo, representó el 30 % de todos los encuentros y fue la termita más frecuente en este hábitat de sabana."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0210",
+        "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.2008.00662.x"
+      }
+    ]
+  },
+  "/species/ephelotermes-taylori/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "开阔稀树草原的首次记录",
+        "heading_en": "First record in open savanna woodland",
+        "heading_es": "Primer registro en sabana arbolada abierta",
+        "paragraphs": [
+          {
+            "src": [
+              "S0210"
+            ],
+            "text": "据摘要，Dawes-Gromadzki（2008）在澳大利亚北领地达尔文附近的稀树草原样地中记录到泰勒棒颚白蚁（<i>Ephelotermes taylori</i>），这是该种在开阔稀树草原生境的首次记录；同一调查还首次正式记录了游荡长颚白蚁（<i>Macrognathotermes errator</i>）。",
+            "text_en": "According to the abstract, Dawes-Gromadzki (2008) recorded <i>Ephelotermes taylori</i> in savanna woodland sites near Darwin, Northern Territory, Australia — the first record of this species in open savanna woodland; the same survey provided the first official record of <i>Macrognathotermes errator</i>.",
+            "text_es": "Según el resumen, Dawes-Gromadzki (2008) registró <i>Ephelotermes taylori</i> en parcelas de sabana arbolada cerca de Darwin, Territorio del Norte, Australia: el primer registro de esta especie en sabana arbolada abierta; el mismo muestreo aportó el primer registro oficial de <i>Macrognathotermes errator</i>."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0210",
+        "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.2008.00662.x"
+      }
+    ]
+  },
+  "/species/macrognathotermes-errator/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "北澳稀树草原的首次正式记录",
+        "heading_en": "First official record for north Australian savanna",
+        "heading_es": "Primer registro oficial para la sabana del norte de Australia",
+        "paragraphs": [
+          {
+            "src": [
+              "S0210"
+            ],
+            "text": "据摘要，Dawes-Gromadzki（2008）在澳大利亚北领地查尔斯·达尔文国家公园的稀树草原样地中记录到游荡长颚白蚁（<i>Macrognathotermes errator</i>），这是该种在北澳稀树草原的首次正式记录。",
+            "text_en": "According to the abstract, Dawes-Gromadzki (2008) recorded <i>Macrognathotermes errator</i> in savanna woodland sites in Charles Darwin National Park, Northern Territory, Australia — the first official record of this species for north Australian savanna.",
+            "text_es": "Según el resumen, Dawes-Gromadzki (2008) registró <i>Macrognathotermes errator</i> en parcelas de sabana arbolada en el Parque Nacional Charles Darwin, Territorio del Norte, Australia: el primer registro oficial de esta especie para la sabana del norte de Australia."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0210",
+        "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
+        "doi": "10.1111/j.1440-6055.2008.00662.x"
+      }
+    ]
+  },
+  "/species/microcerotermes-exiguus/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "携带的线虫",
+        "heading_en": "Nematodes carried",
+        "heading_es": "Nematodos transportados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0212"
+            ],
+            "text": "据摘要，Kanzaki 等（2010）从巴拿马巴罗科罗拉多岛采到的微小锯白蚁（<i>Microcerotermes exiguus</i>）体内分离到线虫新种 <i>Pseudaphelenchus vindai</i>；该线虫同时见于博蒙特弓白蚁（<i>Amitermes beaumonti</i>）与巴拿马钝白蚁（<i>Obtusitermes panamae</i>），说明它能利用多个白蚁寄主。",
+            "text_en": "According to the abstract, Kanzaki et al. (2010) isolated the new nematode <i>Pseudaphelenchus vindai</i> from <i>Microcerotermes exiguus</i> collected on Barro Colorado Island, Panama; the nematode also occurs in <i>Amitermes beaumonti</i> and <i>Obtusitermes panamae</i>, showing that it uses several termite hosts.",
+            "text_es": "Según el resumen, Kanzaki et al. (2010) aislaron el nuevo nematodo <i>Pseudaphelenchus vindai</i> de <i>Microcerotermes exiguus</i> recolectada en la isla Barro Colorado, Panamá; el nematodo también aparece en <i>Amitermes beaumonti</i> y <i>Obtusitermes panamae</i>, lo que muestra que utiliza varios hospedadores de termitas."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0212",
+        "citation": "Kanzaki, N., Giblin-Davis, R. M., Herre, E. A., Scheffrahn, R. H. & Center, B. J. (2010). Pseudaphelenchus vindai n. sp. (Tylenchomorpha: Aphelenchoididae) associated with termites in Barro Colorado Island, Panama. Nematology.",
+        "doi": "10.1163/138855410x496187"
+      }
+    ]
+  },
+  "/species/obtusitermes-panamae/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "携带的线虫",
+        "heading_en": "Nematodes carried",
+        "heading_es": "Nematodos transportados",
+        "paragraphs": [
+          {
+            "src": [
+              "S0212"
+            ],
+            "text": "据摘要，Kanzaki 等（2010）从巴拿马巴罗科罗拉多岛采到的巴拿马钝白蚁（<i>Obtusitermes panamae</i>）体内分离到线虫新种 <i>Pseudaphelenchus vindai</i>，博蒙特弓白蚁（<i>Amitermes beaumonti</i>）与微小锯白蚁（<i>Microcerotermes exiguus</i>）也是其寄主。",
+            "text_en": "According to the abstract, Kanzaki et al. (2010) isolated the new nematode <i>Pseudaphelenchus vindai</i> from <i>Obtusitermes panamae</i> collected on Barro Colorado Island, Panama; <i>Amitermes beaumonti</i> and <i>Microcerotermes exiguus</i> are also hosts.",
+            "text_es": "Según el resumen, Kanzaki et al. (2010) aislaron el nuevo nematodo <i>Pseudaphelenchus vindai</i> de <i>Obtusitermes panamae</i> recolectada en la isla Barro Colorado, Panamá; <i>Amitermes beaumonti</i> y <i>Microcerotermes exiguus</i> también son hospedadores."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0212",
+        "citation": "Kanzaki, N., Giblin-Davis, R. M., Herre, E. A., Scheffrahn, R. H. & Center, B. J. (2010). Pseudaphelenchus vindai n. sp. (Tylenchomorpha: Aphelenchoididae) associated with termites in Barro Colorado Island, Panama. Nematology.",
+        "doi": "10.1163/138855410x496187"
+      }
+    ]
+  },
+  "/species/paraneotermes-simplicicornis/": {
+    "updated": "2026-11-12",
+    "sections": [
+      {
+        "heading": "天然木材偏好",
+        "heading_en": "Natural wood preferences",
+        "heading_es": "Preferencias por maderas naturales",
+        "paragraphs": [
+          {
+            "src": [
+              "S0208"
+            ],
+            "text": "据摘要，Haverty 与 Nutting（1975）在 69 个随机样方中调查荒漠白蚁的天然取食，直头动白蚁（<i>Paraneotermes simplicicornis</i>）偏好牧豆树（mesquite）、catclaw acacia 与 cholla 仙人掌的枯桩；同一调查中，金黄异白蚁（<i>Heterotermes aureus</i>）取食约 13 种木材，偏好荒漠朴（desert hackberry）与 cholla 枯段。",
+            "text_en": "According to the abstract, Haverty and Nutting (1975) surveyed natural wood feeding in 69 random quadrats and found that <i>Paraneotermes simplicicornis</i> prefers mesquite, catclaw acacia and dead cholla stumps, whereas in the same survey <i>Heterotermes aureus</i> feeds on about 13 wood species and prefers desert hackberry and dead cholla.",
+            "text_es": "Según el resumen, Haverty y Nutting (1975) estudiaron la alimentación natural en 69 cuadrantes aleatorios y hallaron que <i>Paraneotermes simplicicornis</i> prefiere mezquite, catclaw acacia y tocones muertos de cholla, mientras que en el mismo estudio <i>Heterotermes aureus</i> consume unas 13 especies de madera y prefiere el hackberry del desierto y los tallos muertos de cholla."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0208",
+        "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
+        "doi": "10.1093/aesa/68.3.533"
+      }
+    ]
+  },
+  "/species/acutidentitermes-osborni/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Emerson（1959）研究，奥斯本尖齿白蚁（<i>Acutidentitermes osborni</i>）被指定为尖齿白蚁属（<i>Acutidentitermes</i>）的模式种；模式材料出自比利时刚果伊图里雨林 Epulu 河畔的一处地下巢，含 1 头兵蚁及同巢工蚁。该属当时置于白蚁亚科（Termitinae），本站现置于尖白蚁亚科（Apicotermitinae）。",
+            "text_en": "According to Emerson (1959), <i>Acutidentitermes osborni</i> was designated the type species of <i>Acutidentitermes</i>; the type material comes from a subterranean nest beside the Epulu River in the Ituri rainforest of the Belgian Congo and comprises one soldier and workers from the same colony. The genus was then placed in Termitinae; this site now places it in Apicotermitinae.",
+            "text_es": "Según Emerson (1959), <i>Acutidentitermes osborni</i> fue designada especie tipo de <i>Acutidentitermes</i>; el material tipo procede de un nido subterráneo junto al río Epulu, en la selva de Ituri del Congo Belga, y comprende un soldado y obreras de la misma colonia. El género se situaba entonces en Termitinae; este sitio lo sitúa ahora en Apicotermitinae.",
+            "src": [
+              "S0034"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0034",
+        "citation": "Emerson A. E. 1959 The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43."
+      }
+    ]
+  },
+  "/species/anacanthotermes-vagans/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Roonwal & Bose（1988）研究，游荡无刺白蚁（<i>Anacanthotermes vagans</i>）属于当时全世界共 12 种的无刺白蚁属（<i>Anacanthotermes</i>），印度地区记录 4 种；该属分布自北非、西亚、阿拉伯半岛与中亚延伸至印度西部和南部。",
+            "text_en": "According to Roonwal and Bose (1988), <i>Anacanthotermes vagans</i> belongs to <i>Anacanthotermes</i>, which then comprised 12 species worldwide, 4 of them recorded from the Indian region; the genus ranges from North Africa, western Asia, the Arabian Peninsula and Central Asia to western and southern India.",
+            "text_es": "Según Roonwal y Bose (1988), <i>Anacanthotermes vagans</i> pertenece a <i>Anacanthotermes</i>, que entonces comprendía 12 especies en el mundo, 4 de ellas registradas en la región india; el género se extiende desde el norte de África, Asia occidental, la península arábiga y Asia central hasta el oeste y el sur de la India.",
+            "src": [
+              "S0105"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0105",
+        "citation": "Roonwal M. L.; Bose G. 1988 The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+        "url": "https://archive.org/details/dli.zoological.occpapers.111"
+      }
+    ]
+  },
+  "/species/anacanthotermes-viarum/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Roonwal & Bose（1988）研究，小径无刺白蚁（<i>Anacanthotermes viarum</i>）是印度地区记录的无刺白蚁属（<i>Anacanthotermes</i>）4 种之一；该属当时全世界共 12 种，分布范围从北非、西亚、阿拉伯半岛与中亚一直到印度西部和南部。",
+            "text_en": "According to Roonwal and Bose (1988), <i>Anacanthotermes viarum</i> is one of the four species of <i>Anacanthotermes</i> recorded from the Indian region; the genus then contained 12 species worldwide and ranges from North Africa, western Asia, the Arabian Peninsula and Central Asia to western and southern India.",
+            "text_es": "Según Roonwal y Bose (1988), <i>Anacanthotermes viarum</i> es una de las cuatro especies de <i>Anacanthotermes</i> registradas en la región india; el género comprendía entonces 12 especies en el mundo y se extiende desde el norte de África, Asia occidental, la península arábiga y Asia central hasta el oeste y el sur de la India.",
+            "src": [
+              "S0105"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0105",
+        "citation": "Roonwal M. L.; Bose G. 1988 The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+        "url": "https://archive.org/details/dli.zoological.occpapers.111"
+      }
+    ]
+  },
+  "/species/ancistrotermes-latinotus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，Bigger（1966）在同一 50×24 ft、深 6 ft 的坑中记录宽背钩白蚁（<i>Ancistrotermes latinotus</i>）54 个被占用的巢室；与小白蚁属（<i>Microtermes</i>）两种的近随机散布不同，这些巢室聚成小簇并以长跑道相连。",
+            "text_en": "According to the abstract, Bigger (1966) recorded 54 occupied nest chambers of <i>Ancistrotermes latinotus</i> in the same pit measuring 50×24 ft and 6 ft deep; unlike the almost random scatter of the two <i>Microtermes</i> species, these chambers were grouped in small clusters connected by long galleries.",
+            "text_es": "Según el resumen, Bigger (1966) registró 54 cámaras de nido ocupadas de <i>Ancistrotermes latinotus</i> en la misma excavación de 50×24 ft y 6 ft de profundidad; a diferencia de la dispersión casi aleatoria de las dos especies de <i>Microtermes</i>, estas cámaras se agrupaban en pequeños racimos unidos por galerías largas.",
+            "src": [
+              "S0193"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0193",
+        "citation": "M. Bigger 1966 The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+        "doi": "10.1017/s0007485300056509"
+      }
+    ]
+  },
+  "/species/anoplotermes-banksi/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Bourguignon 等（2010）重新描述解甲白蚁属（<i>Anoplotermes</i>）模式种太平洋解甲白蚁（<i>Anoplotermes pacificus</i>）时，把班克斯解甲白蚁（<i>Anoplotermes banksi</i>）保留在该属；该研究归并 6 个种名，并提供 4 个遗传标记的 DNA 序列。",
+            "text_en": "According to the abstract, when Bourguignon et al. (2010) redescribed the type species of <i>Anoplotermes</i>, <i>Anoplotermes pacificus</i>, they retained <i>Anoplotermes banksi</i> in the genus; the study synonymised six species-group names and provided DNA sequences for four genetic markers.",
+            "text_es": "Según el resumen, cuando Bourguignon et al. (2010) redescribieron la especie tipo de <i>Anoplotermes</i>, <i>Anoplotermes pacificus</i>, mantuvieron <i>Anoplotermes banksi</i> en el género; el estudio sinonimizó seis nombres de especie y aportó secuencias de ADN de cuatro marcadores genéticos.",
+            "src": [
+              "S0177"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0177",
+        "citation": "Thomas Bourguignon; Rudolf H. Scheffrahn; Jan Křeček; ZOLTÁN TAMÁS NAGY; Gontran Sonet; Yves Roisin 2010 Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*. Invertebrate Systematics.",
+        "doi": "10.1071/is10012"
+      }
+    ]
+  },
+  "/species/anoplotermes-janus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，门神解甲白蚁（<i>Anoplotermes janus</i>）同样在 Bourguignon 等（2010）重新描述解甲白蚁属（<i>Anoplotermes</i>）模式种太平洋解甲白蚁（<i>Anoplotermes pacificus</i>）时被留在该属，该研究并为 4 个遗传标记提供了 DNA 序列。",
+            "text_en": "According to the abstract, <i>Anoplotermes janus</i> was likewise kept in <i>Anoplotermes</i> when Bourguignon et al. (2010) redescribed the type species of the genus, <i>Anoplotermes pacificus</i>, and the study provided DNA sequences for four genetic markers.",
+            "text_es": "Según el resumen, <i>Anoplotermes janus</i> también se mantuvo en <i>Anoplotermes</i> cuando Bourguignon et al. (2010) redescribieron la especie tipo del género, <i>Anoplotermes pacificus</i>, y el estudio aportó secuencias de ADN de cuatro marcadores genéticos.",
+            "src": [
+              "S0177"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0177",
+        "citation": "Thomas Bourguignon; Rudolf H. Scheffrahn; Jan Křeček; ZOLTÁN TAMÁS NAGY; Gontran Sonet; Yves Roisin 2010 Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*. Invertebrate Systematics.",
+        "doi": "10.1071/is10012"
+      }
+    ]
+  },
+  "/species/anoplotermes-parvus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，小解甲白蚁（<i>Anoplotermes parvus</i>）在 Bourguignon 等（2010）对解甲白蚁属（<i>Anoplotermes</i>）模式种的重新描述中被保留在该属，与该属被归并的 6 个种名区分开来。",
+            "text_en": "According to the abstract, <i>Anoplotermes parvus</i> was retained in <i>Anoplotermes</i> in the redescription of the type species of the genus by Bourguignon et al. (2010), separately from the six species-group names synonymised there.",
+            "text_es": "Según el resumen, <i>Anoplotermes parvus</i> se mantuvo en <i>Anoplotermes</i> en la redescripción de la especie tipo del género por Bourguignon et al. (2010), al margen de los seis nombres de especie sinonimizados allí.",
+            "src": [
+              "S0177"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0177",
+        "citation": "Thomas Bourguignon; Rudolf H. Scheffrahn; Jan Křeček; ZOLTÁN TAMÁS NAGY; Gontran Sonet; Yves Roisin 2010 Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*. Invertebrate Systematics.",
+        "doi": "10.1071/is10012"
+      }
+    ]
+  },
+  "/species/antillitermes-subtilis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2016）研究，细瘦安的列斯白蚁（<i>Antillitermes subtilis</i>）与中美洲 3 种微白蚁属（<i>Parvitermes</i>）白蚁共享肠瓣刺朝向肠流反方向的特征，它们均为地下筑巢、以纤维素为食的种类。",
+            "text_en": "According to Scheffrahn (2016), <i>Antillitermes subtilis</i> shares with the three mainland Middle American species of <i>Parvitermes</i> the character of enteric-valve spines directed against the flow of the gut; all of them nest underground and feed on cellulose.",
+            "text_es": "Según Scheffrahn (2016), <i>Antillitermes subtilis</i> comparte con las tres especies continentales de <i>Parvitermes</i> de América Central el carácter de las espinas de la válvula entérica orientadas contra el flujo del intestino; todas ellas anidan bajo tierra y se alimentan de celulosa.",
+            "src": [
+              "S0106"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0106",
+        "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+        "doi": "10.3897/zookeys.617.10040"
+      }
+    ]
+  },
+  "/species/bifiditermes-beesoni/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，Thakur 与 Mishra（1996）把比森双裂白蚁（<i>Bifiditermes beesoni</i>）列为较易大量饲养的木栖种：把带活巢的受害木段连同足量完好木材放入铁制或水泥容器，在 28±1°C、80–90% RH 下即可维持。",
+            "text_en": "According to the abstract, Thakur and Mishra (1996) listed <i>Bifiditermes beesoni</i> among the wood-dwelling species that are relatively easy to rear in large numbers: infested wood segments bearing live nests are placed, with ample sound wood, in iron or cement containers kept at 28±1°C and 80–90% RH.",
+            "text_es": "Según el resumen, Thakur y Mishra (1996) incluyeron a <i>Bifiditermes beesoni</i> entre las especies xilófilas relativamente fáciles de criar en gran número: los segmentos de madera infestados con nidos vivos se colocan, junto con madera sana abundante, en recipientes de hierro o cemento mantenidos a 28±1°C y 80–90% HR.",
+            "src": [
+              "S0012"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0012",
+        "citation": "Thakur M. L., Mishra S. C. 1996 Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
+        "url": "https://indianjournals.com/article/jer-20-1-013"
+      }
+    ]
+  },
+  "/species/constrictotermes-cavifrons/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2019）研究，凹额缩白蚁（<i>Constrictotermes cavifrons</i>）的树巢是旅居客白蚁（<i>Inquilinitermes inquilinus</i>）严格寄居的宿主，客居者多占巢的下部；该宿主巢抗逆性差、易被暴雨破坏，作者认为这正是客居者补充生殖蚁出现的背景。",
+            "text_en": "According to Hellemans et al. (2019), the arboreal nest of <i>Constrictotermes cavifrons</i> is the host in which <i>Inquilinitermes inquilinus</i> lives as a strict inquiline, mostly occupying the lower part of the nest; the host nests are fragile and easily destroyed by heavy rain, which the authors regard as the background for the appearance of neotenic reproductives in the inquiline.",
+            "text_es": "Según Hellemans et al. (2019), el nido arbóreo de <i>Constrictotermes cavifrons</i> es el hospedador en el que <i>Inquilinitermes inquilinus</i> vive como inquilina estricta, ocupando sobre todo la parte inferior del nido; los nidos hospedadores son poco resistentes y se destruyen con facilidad por las lluvias intensas, lo que los autores consideran el contexto de la aparición de reproductores neoténicos en la inquilina.",
+            "src": [
+              "S0191"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0191",
+        "citation": "Simon Hellemans; Klára Dolejšová; Jan Křivánek; Denis Fournier; Robert Hanus; Yves Roisin 2019 Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). Springer Science and Business Media LLC.",
+        "doi": "10.1186/s12862-019-1459-3"
+      }
+    ]
+  },
+  "/species/cryptotermes-brevis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）研究澳大利亚堆砂白蚁属（<i>Cryptotermes</i>）时，把麻头堆砂白蚁（<i>Cryptotermes brevis</i>）与长颚堆砂白蚁（<i>Cryptotermes dudleyi</i>）一并记为当地的外来种。",
+            "text_en": "According to the abstract, in their study of the Australian species of <i>Cryptotermes</i>, Gay and Watson (1982) recorded <i>Cryptotermes brevis</i> together with <i>Cryptotermes dudleyi</i> as introduced species there.",
+            "text_es": "Según el resumen, en su estudio de las especies australianas de <i>Cryptotermes</i>, Gay y Watson (1982) registraron <i>Cryptotermes brevis</i> junto con <i>Cryptotermes dudleyi</i> como especies introducidas en la zona.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs088"
+      }
+    ]
+  },
+  "/species/cryptotermes-cynocephalus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）把犬头堆砂白蚁（<i>Cryptotermes cynocephalus</i>）由外来种改作澳大利亚特有种：该种过去被认为从外地引入，实际在澳大利亚北部自然分布。",
+            "text_en": "According to the abstract, Gay and Watson (1982) treated <i>Cryptotermes cynocephalus</i> as an Australian endemic instead of an introduced species: it had been regarded as introduced from elsewhere, but in fact occurs naturally in northern Australia.",
+            "text_es": "Según el resumen, Gay y Watson (1982) trataron <i>Cryptotermes cynocephalus</i> como especie endémica de Australia en lugar de introducida: se la consideraba introducida de fuera, pero en realidad se distribuye de forma natural en el norte de Australia.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs088"
+      }
+    ]
+  },
+  "/species/cryptotermes-gearyi/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）讨论澳大利亚堆砂白蚁属（<i>Cryptotermes</i>）的 4 个特有种，吉尔里堆砂白蚁（<i>Cryptotermes gearyi</i>）是其中之一。",
+            "text_en": "According to the abstract, Gay and Watson (1982) discussed four endemic Australian species of <i>Cryptotermes</i>, and <i>Cryptotermes gearyi</i> is one of them.",
+            "text_es": "Según el resumen, Gay y Watson (1982) discutieron cuatro especies endémicas de Australia del género <i>Cryptotermes</i>, y <i>Cryptotermes gearyi</i> es una de ellas.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs088"
+      }
+    ]
+  },
+  "/species/cryptotermes-primus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）把第一堆砂白蚁（<i>Cryptotermes primus</i>）列为澳大利亚特有种，并把堆砂白蚁属的旧异名 <i>Cryptotermes arcanus</i>（堆砂白蚁属的旧异名）并入此种。",
+            "text_en": "According to the abstract, Gay and Watson (1982) treated <i>Cryptotermes primus</i> as an Australian endemic and sank the old name <i>Cryptotermes arcanus</i> (an old synonym in <i>Cryptotermes</i>) into that species.",
+            "text_es": "Según el resumen, Gay y Watson (1982) trataron <i>Cryptotermes primus</i> como endémica de Australia e incluyeron en ella el antiguo nombre <i>Cryptotermes arcanus</i> (antiguo sinónimo de <i>Cryptotermes</i>).",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs088"
+      }
+    ]
+  },
+  "/species/cryptotermes-queenslandis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Gay 与 Watson（1982）把昆士兰堆砂白蚁（<i>Cryptotermes queenslandis</i>）讨论为澳大利亚特有种，与吉尔里堆砂白蚁（<i>Cryptotermes gearyi</i>）、第一堆砂白蚁（<i>Cryptotermes primus</i>）、第二堆砂白蚁（<i>Cryptotermes secundus</i>）同列。",
+            "text_en": "According to the abstract, Gay and Watson (1982) treated <i>Cryptotermes queenslandis</i> as an Australian endemic, alongside <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> and <i>Cryptotermes secundus</i>.",
+            "text_es": "Según el resumen, Gay y Watson (1982) trataron <i>Cryptotermes queenslandis</i> como endémica de Australia, junto con <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> y <i>Cryptotermes secundus</i>.",
+            "src": [
+              "S0187"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0187",
+        "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs088"
+      }
+    ]
+  },
+  "/species/drepanotermes-daliensis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Watson 与 Perry（1981）修订镰白蚁属（<i>Drepanotermes</i>）时重新描述了戴利镰白蚁（<i>Drepanotermes daliensis</i>），并为该种指定兵蚁选模。",
+            "text_en": "According to the abstract, Watson and Perry (1981) redescribed <i>Drepanotermes daliensis</i> in their revision of <i>Drepanotermes</i> and designated a soldier lectotype for the species.",
+            "text_es": "Según el resumen, Watson y Perry (1981) redescribieron <i>Drepanotermes daliensis</i> en su revisión de <i>Drepanotermes</i> y designaron un lectotipo de soldado para la especie.",
+            "src": [
+              "S0190"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0190",
+        "citation": "J. A. L. Watson; D H Perry 1981 The Australian harvester temites of the genus Drepanotermes (Isoptera : Termitinae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs078"
+      }
+    ]
+  },
+  "/species/drepanotermes-magnificus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Watson 与 Perry（1981）修订镰白蚁属（<i>Drepanotermes</i>）时，把巨大镰白蚁（<i>Drepanotermes magnificus</i>）作疑名（nomen dubium）处理，未予承认。",
+            "text_en": "According to the abstract, in their revision of <i>Drepanotermes</i> Watson and Perry (1981) treated <i>Drepanotermes magnificus</i> as a nomen dubium and did not recognise it as a valid species.",
+            "text_es": "Según el resumen, en su revisión de <i>Drepanotermes</i>, Watson y Perry (1981) trataron <i>Drepanotermes magnificus</i> como nomen dubium y no la reconocieron como especie válida.",
+            "src": [
+              "S0190"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0190",
+        "citation": "J. A. L. Watson; D H Perry 1981 The Australian harvester temites of the genus Drepanotermes (Isoptera : Termitinae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs078"
+      }
+    ]
+  },
+  "/species/drepanotermes-perniger/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，全黑镰白蚁（<i>Drepanotermes perniger</i>）在 Watson 与 Perry（1981）的镰白蚁属（<i>Drepanotermes</i>）修订中被重新描述，该文同时为其指定兵蚁选模。",
+            "text_en": "According to the abstract, <i>Drepanotermes perniger</i> was redescribed in the revision of <i>Drepanotermes</i> by Watson and Perry (1981), who also designated a soldier lectotype for it.",
+            "text_es": "Según el resumen, <i>Drepanotermes perniger</i> fue redescrita en la revisión de <i>Drepanotermes</i> de Watson y Perry (1981), quienes además designaron un lectotipo de soldado para ella.",
+            "src": [
+              "S0190"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0190",
+        "citation": "J. A. L. Watson; D H Perry 1981 The Australian harvester temites of the genus Drepanotermes (Isoptera : Termitinae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs078"
+      }
+    ]
+  },
+  "/species/drepanotermes-rubriceps/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "据摘要，Watson 与 Perry（1981）重新描述了红头镰白蚁（<i>Drepanotermes rubriceps</i>），把镰白蚁属的旧异名 <i>Drepanotermes silvestrii</i>（镰白蚁属的旧异名）并入此种，并把该种的种下名 opacus 作 nomen nudum 处理。",
+            "text_en": "According to the abstract, Watson and Perry (1981) redescribed <i>Drepanotermes rubriceps</i>, sank the old name <i>Drepanotermes silvestrii</i> (an old synonym in <i>Drepanotermes</i>) into it as a synonym, and treated the infraspecific name opacus as a nomen nudum.",
+            "text_es": "Según el resumen, Watson y Perry (1981) redescribieron <i>Drepanotermes rubriceps</i>, incluyeron en ella como sinónimo el antiguo nombre <i>Drepanotermes silvestrii</i> (antiguo sinónimo de <i>Drepanotermes</i>) y trataron el nombre infraespecífico opacus como nomen nudum.",
+            "src": [
+              "S0190"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0190",
+        "citation": "J. A. L. Watson; D H Perry 1981 The Australian harvester temites of the genus Drepanotermes (Isoptera : Termitinae). Australian Journal of Zoology Supplementary Series.",
+        "doi": "10.1071/ajzs078"
+      }
+    ]
+  },
+  "/species/ereymatermes-panamensis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Cancello & Cuezzo（2007）研究，巴拿马无名白蚁（<i>Ereymatermes panamensis</i>）的已知分布为巴拿马运河区；该文同时确认无名白蚁属（<i>Ereymatermes</i>）是象白蚁亚科（Nasutitermitinae）的新热带特有属。",
+            "text_en": "According to Cancello and Cuezzo (2007), <i>Ereymatermes panamensis</i> is known from the Panama Canal area; the paper also confirms that <i>Ereymatermes</i> is a Neotropical endemic genus of Nasutitermitinae.",
+            "text_es": "Según Cancello y Cuezzo (2007), <i>Ereymatermes panamensis</i> se conoce de la zona del Canal de Panamá; el trabajo confirma además que <i>Ereymatermes</i> es un género endémico del Neotrópico de Nasutitermitinae.",
+            "src": [
+              "S0098"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0098",
+        "citation": "Cancello, E. M.; Cuezzo, C. 2007 A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Museu de Zoologia da Universidade de São Paulo (Papéis Avulsos de Zoologia 47(23): 283–288).",
+        "url": "https://revistas.usp.br/paz/article/view/33691"
+      }
+    ]
+  },
+  "/species/ereymatermes-rotundiceps/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Cancello & Cuezzo（2007）研究，圆头无名白蚁（<i>Ereymatermes rotundiceps</i>）的已知分布限于巴西亚马孙州 Japurá 河下游的森林，与描述自巴西巴伊亚州 Ilhéus 的短小无名白蚁（<i>Ereymatermes piquira</i>）不在同一地区。",
+            "text_en": "According to Cancello and Cuezzo (2007), <i>Ereymatermes rotundiceps</i> is known only from the forest along the lower Japurá River in Amazonas state, Brazil, a different region from that of <i>Ereymatermes piquira</i>, described from Ilhéus in Bahia state, Brazil.",
+            "text_es": "Según Cancello y Cuezzo (2007), <i>Ereymatermes rotundiceps</i> se conoce únicamente de la selva del curso inferior del río Japurá, en el estado de Amazonas, Brasil, una región distinta de la de <i>Ereymatermes piquira</i>, descrita de Ilhéus, en el estado de Bahía, Brasil.",
+            "src": [
+              "S0098"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0098",
+        "citation": "Cancello, E. M.; Cuezzo, C. 2007 A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Museu de Zoologia da Universidade de São Paulo (Papéis Avulsos de Zoologia 47(23): 283–288).",
+        "url": "https://revistas.usp.br/paz/article/view/33691"
+      }
+    ]
+  },
+  "/species/indotermes-rongrensis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Chhotani（1997）研究，龙格伦吉里印白蚁（<i>Indotermes rongrensis</i>）的次异名是 <i>Doonitermes buxensis</i>（印白蚁属的旧异名），这一名称由 Thakur & Sen-Sarma（1973）描述自西孟加拉 Buxa 林区。",
+            "text_en": "According to Chhotani (1997), <i>Doonitermes buxensis</i> (an old synonym in <i>Indotermes</i>) is a junior synonym of <i>Indotermes rongrensis</i>; that name had been described by Thakur and Sen-Sarma (1973) from the Buxa forest area in West Bengal.",
+            "text_es": "Según Chhotani (1997), <i>Doonitermes buxensis</i> (antiguo sinónimo de <i>Indotermes</i>) es un sinónimo junior de <i>Indotermes rongrensis</i>; ese nombre había sido descrito por Thakur y Sen-Sarma (1973) en la zona forestal de Buxa, en Bengala Occidental.",
+            "src": [
+              "S0104"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0104",
+        "citation": "Chhotani O. B. 1997 The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Zoological Survey of India, Calcutta.",
+        "url": "https://archive.org/details/dli.zoological.fi.027"
+      }
+    ]
+  },
+  "/species/labritermes-emersoni/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Krishna & Adams（1982）研究，埃默森唇白蚁（<i>Labritermes emersoni</i>）是唇白蚁属（<i>Labritermes</i>）的新种；自 Holmgren（1914）以巴特里彭唇白蚁（<i>Labritermes buttel-reepeni</i>）为模式种建立该属起，属内长期只有 1 种。",
+            "text_en": "According to Krishna and Adams (1982), <i>Labritermes emersoni</i> is a new species of <i>Labritermes</i>; since Holmgren (1914) established the genus with <i>Labritermes buttel-reepeni</i> as its type species, the genus had long contained only that single species.",
+            "text_es": "Según Krishna y Adams (1982), <i>Labritermes emersoni</i> es una especie nueva de <i>Labritermes</i>; desde que Holmgren (1914) estableció el género con <i>Labritermes buttel-reepeni</i> como especie tipo, el género había contenido durante mucho tiempo solo esa especie.",
+            "src": [
+              "S0115"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0115",
+        "citation": "Krishna, Kumar; Adams, Cheryl Lynn 1982 The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum of Natural History.",
+        "url": "https://digitallibrary.amnh.org/handle/2246/5290"
+      }
+    ]
+  },
+  "/species/labritermes-kistneri/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Krishna & Adams（1982）研究，基斯特纳唇白蚁（<i>Labritermes kistneri</i>）是与埃默森唇白蚁（<i>Labritermes emersoni</i>）一同发表的新种，使唇白蚁属（<i>Labritermes</i>）的种数由 1 种增至 3 种；该文还指出该属与非洲的孔白蚁属（<i>Foraminitermes</i>）关系密切。",
+            "text_en": "According to Krishna and Adams (1982), <i>Labritermes kistneri</i> is a new species published together with <i>Labritermes emersoni</i>, raising <i>Labritermes</i> from one to three species; the paper also notes that the genus is closely related to the African <i>Foraminitermes</i>.",
+            "text_es": "Según Krishna y Adams (1982), <i>Labritermes kistneri</i> es una especie nueva publicada junto con <i>Labritermes emersoni</i>, con lo que <i>Labritermes</i> pasó de una a tres especies; el trabajo señala además que el género está estrechamente relacionado con <i>Foraminitermes</i>, de África.",
+            "src": [
+              "S0115"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0115",
+        "citation": "Krishna, Kumar; Adams, Cheryl Lynn 1982 The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum of Natural History.",
+        "url": "https://digitallibrary.amnh.org/handle/2246/5290"
+      }
+    ]
+  },
+  "/species/microcerotermes-lateralis/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Sands（1972）研究，侧移锯白蚁（<i>Microcerotermes lateralis</i>）的属级归属在非洲无兵蚁类白蚁的系统整理中被改订：该种原置于解甲白蚁属（<i>Anoplotermes</i>），修订后转入锯白蚁属（<i>Microcerotermes</i>）。",
+            "text_en": "According to Sands (1972), the generic placement of <i>Microcerotermes lateralis</i> was revised in his systematic treatment of the soldierless termites of Africa: originally placed in <i>Anoplotermes</i>, the species was transferred to <i>Microcerotermes</i>.",
+            "text_es": "Según Sands (1972), la ubicación genérica de <i>Microcerotermes lateralis</i> fue revisada en su tratamiento sistemático de las termitas sin soldados de África: situada originalmente en <i>Anoplotermes</i>, la especie fue transferida a <i>Microcerotermes</i>.",
+            "src": [
+              "S0005"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0005",
+        "citation": "Sands W.A. 1972 The soldierless termites of Africa (Isoptera: Termitidae). Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18.",
+        "doi": "10.5962/p.192782"
+      }
+    ]
+  },
+  "/species/microtermes-albopartitus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，Bigger（1966）在坦噶尼喀南部 50×24 ft、深 6 ft 的坑中记录部白小白蚁（<i>Microtermes albopartitus</i>）425 个被占用的巢室，这些巢室近随机散布并集中于表层 2 ft。",
+            "text_en": "According to the abstract, in a pit measuring 50×24 ft and 6 ft deep in southern Tanganyika, Bigger (1966) recorded 425 occupied nest chambers of <i>Microtermes albopartitus</i>; the chambers were scattered almost at random and concentrated in the upper 2 ft.",
+            "text_es": "Según el resumen, en una excavación de 50×24 ft y 6 ft de profundidad en el sur de Tanganica, Bigger (1966) registró 425 cámaras de nido ocupadas de <i>Microtermes albopartitus</i>; las cámaras estaban dispersas casi al azar y concentradas en los primeros 2 ft.",
+            "src": [
+              "S0193"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0193",
+        "citation": "M. Bigger 1966 The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+        "doi": "10.1017/s0007485300056509"
+      }
+    ]
+  },
+  "/species/microtermes-redenianus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，同一项坦噶尼喀南部调查中，雷登小白蚁（<i>Microtermes redenianus</i>）在 50×24 ft、深 6 ft 的坑内有 166 个被占用的巢室，其巢室与部白小白蚁（<i>Microtermes albopartitus</i>）一样近随机散布。",
+            "text_en": "According to the abstract, in the same survey in southern Tanganyika, <i>Microtermes redenianus</i> had 166 occupied nest chambers in a pit measuring 50×24 ft and 6 ft deep, and its chambers, like those of <i>Microtermes albopartitus</i>, were scattered almost at random.",
+            "text_es": "Según el resumen, en el mismo estudio del sur de Tanganica, <i>Microtermes redenianus</i> presentó 166 cámaras de nido ocupadas en una excavación de 50×24 ft y 6 ft de profundidad, y sus cámaras, como las de <i>Microtermes albopartitus</i>, estaban dispersas casi al azar.",
+            "src": [
+              "S0193"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0193",
+        "citation": "M. Bigger 1966 The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+        "doi": "10.1017/s0007485300056509"
+      }
+    ]
+  },
+  "/species/nasutitermes-mexicanus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2016）研究，墨西哥象白蚁（<i>Nasutitermes mexicanus</i>）由象白蚁属（<i>Nasutitermes</i>）转入微白蚁属（<i>Parvitermes</i>），成为墨西哥微白蚁（<i>Parvitermes mexicanus</i>），是中美洲大陆该属 3 种之一。",
+            "text_en": "According to Scheffrahn (2016), <i>Nasutitermes mexicanus</i> was transferred from <i>Nasutitermes</i> to <i>Parvitermes</i> and became <i>Parvitermes mexicanus</i>, one of the three mainland Middle American species of the genus.",
+            "text_es": "Según Scheffrahn (2016), <i>Nasutitermes mexicanus</i> fue transferida de <i>Nasutitermes</i> a <i>Parvitermes</i> y pasó a ser <i>Parvitermes mexicanus</i>, una de las tres especies del género del territorio continental de América Central.",
+            "src": [
+              "S0106"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0106",
+        "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+        "doi": "10.3897/zookeys.617.10040"
+      }
+    ]
+  },
+  "/species/neocapritermes-taracua/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "根据 Hellemans 等（2019）研究，塔拉夸新扭白蚁（<i>Neocapritermes taracua</i>）改造过的巢段会被三针针刺白蚁（<i>Spinitermes trispinosus</i>）用作筑巢处：后者 14 个巢多位于地下，一部分即筑在这类旧巢段内，另一部分位于 Astrocaryum 棕榈基部。",
+            "text_en": "According to Hellemans et al. (2019), nest sections reworked by <i>Neocapritermes taracua</i> are used as nest sites by <i>Spinitermes trispinosus</i>: most of the 14 nests of the latter studied were subterranean, some built inside such abandoned sections and others at the bases of Astrocaryum palms.",
+            "text_es": "Según Hellemans et al. (2019), las secciones de nido remodeladas por <i>Neocapritermes taracua</i> son utilizadas como lugar de nidificación por <i>Spinitermes trispinosus</i>: la mayoría de los 14 nidos estudiados de esta última eran subterráneos, algunos construidos dentro de esas secciones antiguas y otros en la base de palmas de Astrocaryum.",
+            "src": [
+              "S0191"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0191",
+        "citation": "Simon Hellemans; Klára Dolejšová; Jan Křivánek; Denis Fournier; Robert Hanus; Yves Roisin 2019 Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). Springer Science and Business Media LLC.",
+        "doi": "10.1186/s12862-019-1459-3"
+      }
+    ]
+  },
+  "/species/neotermes-bosei/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，鲍斯新白蚁（<i>Neotermes bosei</i>）在 Thakur 与 Mishra（1996）的饲养比较中属易大量饲养的木栖种，饲养条件为 28±1°C、80–90% RH，容器可用铁制或水泥制。",
+            "text_en": "According to the abstract, <i>Neotermes bosei</i> is among the wood-dwelling species that are easy to rear in large numbers in the rearing comparison by Thakur and Mishra (1996), under 28±1°C and 80–90% RH in iron or cement containers.",
+            "text_es": "Según el resumen, <i>Neotermes bosei</i> figura entre las especies xilófilas fáciles de criar en gran número en la comparación de cría de Thakur y Mishra (1996), a 28±1°C y 80–90% HR en recipientes de hierro o cemento.",
+            "src": [
+              "S0012"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0012",
+        "citation": "Thakur M. L., Mishra S. C. 1996 Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
+        "url": "https://indianjournals.com/article/jer-20-1-013"
+      }
+    ]
+  },
+  "/species/parvitermes-mesoamericanus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2016）研究，中美洲微白蚁（<i>Parvitermes mesoamericanus</i>）被描述为新种，与墨西哥微白蚁（<i>Parvitermes mexicanus</i>）、尤卡坦微白蚁（<i>Parvitermes yucatanus</i>）共同构成中美洲大陆的 3 种微白蚁属（<i>Parvitermes</i>）白蚁。",
+            "text_en": "According to Scheffrahn (2016), <i>Parvitermes mesoamericanus</i> was described as a new species and, together with <i>Parvitermes mexicanus</i> and <i>Parvitermes yucatanus</i>, makes up the three species of <i>Parvitermes</i> known from mainland Middle America.",
+            "text_es": "Según Scheffrahn (2016), <i>Parvitermes mesoamericanus</i> fue descrita como especie nueva y, junto con <i>Parvitermes mexicanus</i> y <i>Parvitermes yucatanus</i>, forma las tres especies de <i>Parvitermes</i> conocidas del territorio continental de América Central.",
+            "src": [
+              "S0106"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0106",
+        "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+        "doi": "10.3897/zookeys.617.10040"
+      }
+    ]
+  },
+  "/species/parvitermes-yucatanus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Scheffrahn（2016）研究，尤卡坦微白蚁（<i>Parvitermes yucatanus</i>）是该文描述的新种之一，与墨西哥微白蚁（<i>Parvitermes mexicanus</i>）、中美洲微白蚁（<i>Parvitermes mesoamericanus</i>）并列于中美洲大陆的 3 种微白蚁属（<i>Parvitermes</i>）。",
+            "text_en": "According to Scheffrahn (2016), <i>Parvitermes yucatanus</i> is one of the new species described in that paper, standing alongside <i>Parvitermes mexicanus</i> and <i>Parvitermes mesoamericanus</i> among the three mainland Middle American species of <i>Parvitermes</i>.",
+            "text_es": "Según Scheffrahn (2016), <i>Parvitermes yucatanus</i> es una de las especies nuevas descritas en ese trabajo y figura junto a <i>Parvitermes mexicanus</i> y <i>Parvitermes mesoamericanus</i> entre las tres especies de <i>Parvitermes</i> del territorio continental de América Central.",
+            "src": [
+              "S0106"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0106",
+        "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+        "doi": "10.3897/zookeys.617.10040"
+      }
+    ]
+  },
+  "/species/pericapritermes-pallidipes/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "分类沿革",
+        "heading_en": "Taxonomic history",
+        "heading_es": "Historia taxonómica",
+        "paragraphs": [
+          {
+            "text": "根据 Sands（1972）研究，灰足近扭白蚁（<i>Pericapritermes pallidipes</i>）同样在非洲无兵蚁类白蚁的系统整理中离开解甲白蚁属（<i>Anoplotermes</i>），被转入近扭白蚁属（<i>Pericapritermes</i>）。",
+            "text_en": "According to Sands (1972), <i>Pericapritermes pallidipes</i> likewise left <i>Anoplotermes</i> in that systematic treatment of the soldierless termites of Africa and was transferred to <i>Pericapritermes</i>.",
+            "text_es": "Según Sands (1972), <i>Pericapritermes pallidipes</i> también abandonó <i>Anoplotermes</i> en ese tratamiento sistemático de las termitas sin soldados de África y fue transferida a <i>Pericapritermes</i>.",
+            "src": [
+              "S0005"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0005",
+        "citation": "Sands W.A. 1972 The soldierless termites of Africa (Isoptera: Termitidae). Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18.",
+        "doi": "10.5962/p.192782"
+      }
+    ]
+  },
+  "/species/stylotermes-halumicus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "根据 Thakur 等（2023）研究，产于中国台湾的穿山甲杆白蚁（<i>Stylotermes halumicus</i>）工蚁第 5 腹板上的腹板腺（sternal gland）是追踪信息素的唯一来源，其分泌物中的 (Z)-dodec-3-en-1-ol（DOE）引起工蚁跟踪的行为阈值约 10^-4 ng/cm。",
+            "text_en": "According to Thakur et al. (2023), in <i>Stylotermes halumicus</i> from Taiwan, China, the sternal gland on the fifth abdominal sternite of workers is the sole source of the trail-following pheromone, and (Z)-dodec-3-en-1-ol (DOE) in its secretion elicits trail following in workers at a behavioural threshold of about 10^-4 ng/cm.",
+            "text_es": "Según Thakur et al. (2023), en <i>Stylotermes halumicus</i> de Taiwán, China, la glándula esternal del quinto esternito abdominal de las obreras es la única fuente de la feromona de seguimiento, y el (Z)-dodec-3-en-1-ol (DOE) de su secreción provoca el seguimiento en las obreras con un umbral de comportamiento de unos 10^-4 ng/cm.",
+            "src": [
+              "S0013"
+            ]
+          },
+          {
+            "text": "据摘要，Thakur 等（2023）用于追踪信息素实验的穿山甲杆白蚁（<i>Stylotermes halumicus</i>）巢片段含数百头工蚁（研究中统按广义拟工蚁计）与数十头兵蚁。",
+            "text_en": "According to the abstract, the nest fragment of <i>Stylotermes halumicus</i> used by Thakur et al. (2023) in their trail-following pheromone experiments contained several hundred workers (counted throughout as pseudergates in the broad sense) and several dozen soldiers.",
+            "text_es": "Según el resumen, el fragmento de nido de <i>Stylotermes halumicus</i> utilizado por Thakur et al. (2023) en sus experimentos con la feromona de seguimiento contenía varios cientos de obreras (contabilizadas en todo el estudio como pseudergados en sentido amplio) y varias decenas de soldados.",
+            "src": [
+              "S0010"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0013",
+        "citation": "Thakur Himanshu; Agarwal Surbhi; Hradecký Jaromír; Sharma Garima; Li Hou-Feng; Yang Shang-En; Sehadová Hana; Chandel Ravinder S.; Hyliš Mirek; Mathur Vartika; Šobotník Jan; Sillam-Dussès David 2023 The trail-following communication in Stylotermes spp. (Blattodea, Isoptera, Stylotermitidae).",
+        "doi": "10.21203/rs.3.rs-2770501/v1"
+      },
+      {
+        "id": "S0010",
+        "citation": "Thakur H., Agarwal S., Hradecký J., Sharma G., Li H.-F., Yang S.-E., Sehadová H., Chandel R. S., Hyliš M., Mathur V., Šobotník J., Sillam-Dussès D. 2023 The Trail-Following Communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae). Journal of Chemical Ecology 49: 642–651.",
+        "doi": "10.1007/s10886-023-01447-w"
+      }
+    ]
+  },
+  "/species/trinervitermes-oeconomus/": {
+    "updated": "2026-11-13",
+    "sections": [
+      {
+        "heading": "研究记述",
+        "heading_en": "Research notes",
+        "heading_es": "Notas de investigación",
+        "paragraphs": [
+          {
+            "text": "据摘要，Sands（1961）比较西非三脉白蚁属（<i>Trinervitermes</i>）5 个种的觅食与食性时，把根三脉白蚁（<i>Trinervitermes oeconomus</i>）与同属另 1 个种归为不在巢内堆放草片段的一类，其余 3 个种则在巢内堆放草片段。",
+            "text_en": "According to the abstract, when Sands (1961) compared five West African species of <i>Trinervitermes</i> for foraging and diet, he grouped <i>Trinervitermes oeconomus</i> with one other species of the genus as species that do not store grass fragments in the nest, whereas the other three species do.",
+            "text_es": "Según el resumen, al comparar cinco especies de <i>Trinervitermes</i> de África occidental en cuanto al forrajeo y la dieta, Sands (1961) agrupó a <i>Trinervitermes oeconomus</i> con otra especie del género como especies que no almacenan fragmentos de hierba en el nido, mientras que las otras tres sí lo hacen.",
+            "src": [
+              "S0186"
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "id": "S0186",
+        "citation": "William A. Sands 1961 FORAGING BEHAVIOUR AND FEEDING HABITS IN FIVE SPECIES OF TRINERVITERMES IN WEST AFRICA. Entomologia Experimentalis et Applicata.",
+        "doi": "10.1111/j.1570-7458.1961.tb02143.x"
       }
     ]
   }
