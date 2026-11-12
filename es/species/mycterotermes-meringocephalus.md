@@ -26,7 +26,6 @@ type_locality: "Yemen: Burum, W of Mukalla"
 distribution_zh: "阿曼、也门"
 distribution_en: "Oman, Yemen"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

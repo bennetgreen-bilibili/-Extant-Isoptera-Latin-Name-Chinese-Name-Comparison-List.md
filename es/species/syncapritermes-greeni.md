@@ -26,7 +26,6 @@ type_locality: "Malaysia: Kuala Lumpur; Selangor; Selangor: Kajang"
 distribution_zh: "印度尼西亚、马来西亚"
 distribution_en: "Indonesia, Malaysia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

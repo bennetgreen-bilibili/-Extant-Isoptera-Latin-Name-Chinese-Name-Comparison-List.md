@@ -26,7 +26,6 @@ type_locality: "Brazil: Amazon Rainforest"
 distribution_zh: "亚马孙雨林"
 distribution_en: "Amazon Rainforest"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

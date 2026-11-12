@@ -26,7 +26,6 @@ type_locality: "Peru: Loreto: Arcadia [1S 75.3W]"
 distribution_zh: "哥伦比亚、厄瓜多尔、秘鲁"
 distribution_en: "Colombia, Ecuador, Peru"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

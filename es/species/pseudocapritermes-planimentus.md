@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Jianshei County"
 distribution_zh: "云南（建水1450 m）、中国"
 distribution_en: "Yunnan (Jianshui1450 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -23,7 +23,6 @@ type_locality: "China: Guangdong Province: Zijin"
 distribution_zh: "广东（紫金）"
 distribution_en: "Guangdong (Zijin)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

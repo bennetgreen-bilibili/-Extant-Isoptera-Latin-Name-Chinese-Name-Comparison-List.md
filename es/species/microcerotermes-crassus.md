@@ -28,7 +28,6 @@ distribution_en: "Southeast Asia, Philippines, Thailand, Myanmar, Singapore, Ban
 synonym_count: 1
 synonyms: "Microcerotermes burmanicus Ahmad, 1947: 6"
 synonym_localities: "Myanmar: Rangoon: Pagan Road"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

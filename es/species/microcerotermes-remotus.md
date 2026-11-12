@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Ya"
 distribution_zh: "海南（崖县、东方、乐东、陵水）"
 distribution_en: "Hainan (Yaxian, Dongfang, Ledong, Lingshui)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

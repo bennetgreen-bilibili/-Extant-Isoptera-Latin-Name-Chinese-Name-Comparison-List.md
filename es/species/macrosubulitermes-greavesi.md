@@ -26,7 +26,6 @@ type_locality: "Australia: Queensland: Gadgarra"
 distribution_zh: "澳大利亚"
 distribution_en: "Australia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

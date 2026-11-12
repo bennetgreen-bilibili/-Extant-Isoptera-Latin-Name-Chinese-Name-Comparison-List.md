@@ -23,7 +23,6 @@ type_locality: "China: Sichuan Province: Jianan"
 distribution_zh: "四川（江安）"
 distribution_en: "Sichuan (Jiang'an)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -23,7 +23,6 @@ type_locality: "(country unknown): \"West Coast of America\""
 distribution_zh: "北美、美国、墨西哥"
 distribution_en: "North America, United States, Mexico"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

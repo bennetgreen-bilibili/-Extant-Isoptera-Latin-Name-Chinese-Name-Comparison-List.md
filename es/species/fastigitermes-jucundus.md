@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Mukimbungu"
 distribution_zh: "非洲热带、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、尼日利亚"
 distribution_en: "Afrotropics, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Nigeria"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

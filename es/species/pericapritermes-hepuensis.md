@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Province"
 distribution_zh: "中国广西"
 distribution_en: "China (Guangxi)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

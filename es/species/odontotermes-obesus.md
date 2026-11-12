@@ -28,7 +28,6 @@ distribution_en: "South Asia, India, Pakistan, Nepal, Bangladesh, Bhutan, China,
 synonym_count: 6
 synonyms: "Termes fatalis König, 1779: 1; Odontotermes ( Cyclotermes ) bangalorensis Holmgren, 1913: 112; Odontotermes ( Cyclotermes ) assamensis Holmgren, 1913: 114-115; Odontotermes ( Cyclotermes ) flavomaculatus Holmgren & Holmgren, 1917: 150; Odontotermes ( Cyclotermes ) obesus oculatus Silvestri, 1923: 224-225; Termes ( Cyclotermes ) orissae Snyder, 1934: 10-11"
 synonym_localities: "India: Tangore (\"Tanschaur\"); India: Bangalore; India: Assam; India: Assam, between Lukwa and Sibsagar; India: Chilka Lake: Barkuda Island; India: Orissa: Porohat Division: Goilkera"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

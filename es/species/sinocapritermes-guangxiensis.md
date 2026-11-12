@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Zizhiqu: Dayao Mountain of Jinxiu Yaozu Zizhixian
 distribution_zh: "中国"
 distribution_en: "China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Guizhou Province: Xingyi County"
 distribution_zh: "中国贵州、兴义"
 distribution_en: "Guizhou, China, Xingyi"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

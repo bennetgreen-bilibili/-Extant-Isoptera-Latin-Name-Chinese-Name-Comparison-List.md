@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Ya-hsien"
 distribution_zh: "中国、海南"
 distribution_en: "China, Hainan"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Huiyang County"
 distribution_zh: "广东（大埔）、海南（五指山）、中国"
 distribution_en: "Guangdong (Dabu), Hainan (Wuzhi Mountain), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

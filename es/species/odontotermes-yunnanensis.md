@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Pu-erh"
 distribution_zh: "中国云南、越南"
 distribution_en: "Yunnan, China, Vietnam"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

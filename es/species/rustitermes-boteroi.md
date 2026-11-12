@@ -26,7 +26,6 @@ type_locality: "Peru: Ucayali, Nueva Requena [ 8.37007S 74.8437W ]"
 distribution_zh: "南美洲、哥伦比亚、法属圭亚那、巴西、特立尼达和多巴哥"
 distribution_en: "South America, Colombia, French Guiana, Brazil, Trinidad and Tobago"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

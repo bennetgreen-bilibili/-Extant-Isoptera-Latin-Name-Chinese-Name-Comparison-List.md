@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Mengla County: Mengpeng Hill"
 distribution_zh: "云南（勐腊勐棒 640 m）、中国"
 distribution_en: "Yunnan (Mengla Mengbang 640 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

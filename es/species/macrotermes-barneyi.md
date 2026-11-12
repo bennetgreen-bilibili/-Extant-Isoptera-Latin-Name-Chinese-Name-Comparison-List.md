@@ -26,7 +26,6 @@ type_locality: "China: Hong Kong: Hong Kong University, China: Amoy Harbour, Chi
 distribution_zh: "东亚、中国、中国香港、中国澳门、越南"
 distribution_en: "East Asia, China, Hong Kong, China, Macau, China, Vietnam"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Sankuru"
 distribution_zh: "喀麦隆、刚果（金）、尼日利亚、津巴布韦、刚果民主共和国"
 distribution_en: "Cameroon, Democratic Republic of the Congo (Kinshasa), Nigeria, Zimbabwe, Democratic Republic of the Congo (Kinshasa)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

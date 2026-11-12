@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Yingjiang County"
 distribution_zh: "中国云南、盈江"
 distribution_en: "Yunnan, China, Yingjiang"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

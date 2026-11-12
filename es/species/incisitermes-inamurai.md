@@ -23,7 +23,6 @@ type_locality: "Taiwan: Pingtung Co.: Wanlitong"
 distribution_zh: "中国台湾"
 distribution_en: "China (Taiwan)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

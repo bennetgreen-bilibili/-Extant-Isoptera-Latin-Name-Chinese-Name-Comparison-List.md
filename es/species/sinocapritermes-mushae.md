@@ -26,7 +26,6 @@ type_locality: "Taiwan: Nanto: Musha"
 distribution_zh: "中国香港、中国台湾、日本"
 distribution_en: "Hong Kong, China, Taiwan, China, Japan"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

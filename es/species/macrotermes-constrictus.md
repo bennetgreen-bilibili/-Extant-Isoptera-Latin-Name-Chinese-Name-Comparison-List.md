@@ -26,7 +26,6 @@ type_locality: "China: Sichuan Province: Dechang"
 distribution_zh: "中国四川、德昌"
 distribution_en: "Sichuan, China, Dechang"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

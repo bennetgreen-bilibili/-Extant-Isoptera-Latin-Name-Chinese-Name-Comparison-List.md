@@ -23,7 +23,6 @@ type_locality: "Taiwan: ?"
 distribution_zh: "中国南部、台湾、香港、日本、越南"
 distribution_en: "southern China, Taiwan, Hong Kong, Japan, Vietnam"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

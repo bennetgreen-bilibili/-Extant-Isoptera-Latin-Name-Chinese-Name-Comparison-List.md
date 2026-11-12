@@ -25,7 +25,6 @@ distribution_en: "China (Hainan)"
 synonym_count: 1
 synonyms: "Coptotermes ( Polycrinitermes ) jiaxingensis Xia & He, 1986: 165-166, 179"
 synonym_localities: "China: Zhejiang Province: Jiaxing County"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

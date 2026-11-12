@@ -28,7 +28,6 @@ distribution_en: "mainland Southeast Asia, Indochinese Peninsula, insular Southe
 synonym_count: 3
 synonyms: "Termes annamensis Desneux, 1904: 148; Globitermes audax Silvestri, 1914: 432-434; Amitermes ( Globitermes ) birmanicus Snyder, 1934: 17-18"
 synonym_localities: "Vietnam: ?; Myanmar: Moulmein; Myanmar: West Salween: Zibyaung"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

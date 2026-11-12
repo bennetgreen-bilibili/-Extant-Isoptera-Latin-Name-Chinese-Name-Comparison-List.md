@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Jinghong"
 distribution_zh: "云南（景洪 500 m）、中国"
 distribution_en: "Yunnan (Jinghong 500 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

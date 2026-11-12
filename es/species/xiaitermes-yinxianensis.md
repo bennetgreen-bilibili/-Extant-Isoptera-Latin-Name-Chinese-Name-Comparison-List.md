@@ -27,7 +27,6 @@ distribution_zh: "中国"
 distribution_en: "China"
 synonym_count: 1
 synonyms: "Xiaitermes tiantaiensis Gao & He, 1994"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

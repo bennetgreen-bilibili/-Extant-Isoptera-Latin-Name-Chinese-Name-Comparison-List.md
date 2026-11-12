@@ -26,7 +26,6 @@ type_locality: "Madagascar: Andrangoloaka"
 distribution_zh: "科特迪瓦、马达加斯加"
 distribution_en: "Côte d'Ivoire, Madagascar"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

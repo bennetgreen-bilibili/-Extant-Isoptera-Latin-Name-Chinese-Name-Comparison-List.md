@@ -23,7 +23,6 @@ type_locality: "China: Fujian Province: Daiyunshan"
 distribution_zh: "中国福建"
 distribution_en: "China (Fujian)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

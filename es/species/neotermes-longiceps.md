@@ -23,7 +23,6 @@ type_locality: "China: Hainan Island: Dongfang"
 distribution_zh: "中国、海南、香港"
 distribution_en: "China, Hainan, Hong Kong"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

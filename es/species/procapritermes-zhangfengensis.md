@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Longchuan County: Zhangfeng"
 distribution_zh: "云南（陇川890 m）、中国"
 distribution_en: "Yunnan (Longchuan890 m), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

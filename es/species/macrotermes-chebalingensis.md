@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Shixing County: Chebaling"
 distribution_zh: "中国广东、始兴车八岭"
 distribution_en: "Guangdong, China, Shixing Chebaling"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Peru: Puno: Chaquimayo [13.45S 70.4W]; Puno: Llinquipata [13.816
 distribution_zh: "秘鲁、巴西、哥伦比亚"
 distribution_en: "Peru, Brazil, Colombia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

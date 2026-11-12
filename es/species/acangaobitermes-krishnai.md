@@ -26,7 +26,6 @@ type_locality: "Brasil: Goiás: Parque Nacional das Emas [18.1S 52.91W]"
 distribution_zh: "巴西"
 distribution_en: "Brazil"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -25,7 +25,6 @@ distribution_en: "Japan, China (Taiwan)"
 synonym_count: 2
 synonyms: "Calotermes ( Glyptotermes ) satsumaensis Holmgren, 1912: 116-117; Glyptotermes longicephalus Oshima, 1912: 64-66"
 synonym_localities: "Japan: Kagoshima Prefecture (Satsuma); Taiwan: ?"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

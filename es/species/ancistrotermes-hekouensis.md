@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Yao Autonomous County of Hekou"
 distribution_zh: "云南（河口110m）"
 distribution_en: "Yunnan (Hekou 110m)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

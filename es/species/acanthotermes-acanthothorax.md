@@ -26,7 +26,6 @@ type_locality: "Cameroon: Ekundu; Kitta"
 distribution_zh: "旧热带界、西非、中非、东非"
 distribution_en: "Old World tropics, West Africa, Central Africa, East Africa"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

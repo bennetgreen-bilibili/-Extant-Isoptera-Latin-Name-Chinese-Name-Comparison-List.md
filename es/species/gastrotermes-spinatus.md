@@ -26,7 +26,6 @@ type_locality: "Cameroon: Korup National Park"
 distribution_zh: "西非/中非、喀麦隆"
 distribution_en: "West/Central Africa, Cameroon"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Kisangani (Stanleyville)"
 distribution_zh: "非洲热带"
 distribution_en: "tropical Africa"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Luxi County"
 distribution_zh: "中国、西藏"
 distribution_en: "China, Tibet"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

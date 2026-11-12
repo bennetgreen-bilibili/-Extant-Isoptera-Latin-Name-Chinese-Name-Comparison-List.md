@@ -26,7 +26,6 @@ type_locality: "China: Zhejiang Province: Mt. Tianmu"
 distribution_zh: "浙江（天目山）"
 distribution_en: "Zhejiang (Tianmu Mountain)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "South Africa: Transvaal: Letaba"
 distribution_zh: "南非、赞比亚、津巴布韦"
 distribution_en: "South Africa, Zambia, Zimbabwe"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Guadeloupe (French): Basse-Terre: Trail Mamelles de Petite Bourg
 distribution_zh: "巴西、亚马孙地区、中美洲及加勒比"
 distribution_en: "Brazil, Amazon region, Central America and Caribbean"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

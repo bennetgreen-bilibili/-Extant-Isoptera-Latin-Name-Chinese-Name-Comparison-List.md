@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Sona Mpangu"
 distribution_zh: "中非喀麦隆"
 distribution_en: "Central Africa, Cameroon"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

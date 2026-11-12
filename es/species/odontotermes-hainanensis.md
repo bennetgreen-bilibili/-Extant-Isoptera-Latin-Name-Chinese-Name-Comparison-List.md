@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Kachek"
 distribution_zh: "南亚、东南亚、东亚中国、越南、马来西亚、泰国、柬埔寨、印度、缅甸"
 distribution_en: "South Asia, Southeast Asia, East Asia, China, Vietnam, Malaysia, Thailand, Cambodia, India, Myanmar"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Malaysia: Sarawak: Sabal Tapang"
 distribution_zh: "婆罗洲"
 distribution_en: "Borneo"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

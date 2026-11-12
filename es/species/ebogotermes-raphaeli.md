@@ -26,7 +26,6 @@ type_locality: "Cameroon: Mbalmayo Forest Reserve: Ebogo [ 3.382N 11.463E ]"
 distribution_zh: "喀麦隆"
 distribution_en: "Cameroon"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Zhejiang Province: Longquan County: Pingnan Commune, Luom
 distribution_zh: "浙江（龙泉）、福建（屏南850m）"
 distribution_en: "Zhejiang (Longquan), Fujian (Pingnan850m)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

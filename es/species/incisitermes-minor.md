@@ -25,7 +25,6 @@ distribution_en: "western United States, northern Mexico; introduced: Canada, Ch
 synonym_count: 2
 synonyms: "Kalotermes arizonensis Snyder, 1926: 393-394; Kalotermes minor varius Snyder, 1926: 394, 397"
 synonym_localities: "United States: Arizona: Copper Butte Canyon: Ray; United States: Arizona: Copper Butte Canyon: Ray"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

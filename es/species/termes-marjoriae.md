@@ -26,7 +26,6 @@ type_locality: "Myanmar: Selen"
 distribution_zh: "云南（景洪500 m）；缅甸、中国"
 distribution_en: "Yunnan (Jinghong500 m); Myanmar, China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

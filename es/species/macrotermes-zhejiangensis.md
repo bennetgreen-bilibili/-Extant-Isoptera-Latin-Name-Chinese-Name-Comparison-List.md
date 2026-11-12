@@ -26,7 +26,6 @@ type_locality: "China: Zhejiang Province: Quzhou"
 distribution_zh: "中国浙江、衢州"
 distribution_en: "Zhejiang, China, Quzhou"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

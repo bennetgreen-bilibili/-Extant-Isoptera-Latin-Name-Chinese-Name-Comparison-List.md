@@ -23,7 +23,6 @@ type_locality: "China: Guangdong Province: Zhaoquing"
 distribution_zh: "中国广东"
 distribution_en: "China (Guangdong)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

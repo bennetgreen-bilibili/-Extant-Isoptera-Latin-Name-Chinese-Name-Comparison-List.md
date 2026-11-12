@@ -23,7 +23,6 @@ type_locality: "China: Hong Kong: New Territories: Fanling, Kam Tsin Chuen—Fun
 distribution_zh: "中国香港"
 distribution_en: "China (Hong Kong)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

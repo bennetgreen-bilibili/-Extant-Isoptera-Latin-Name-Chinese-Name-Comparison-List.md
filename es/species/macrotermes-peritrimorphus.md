@@ -26,7 +26,6 @@ type_locality: "China: Guangxi Province: Huashuichong Forest: Hexian"
 distribution_zh: "中国广西（贺县滑水冲）、云南（屏边）"
 distribution_en: "Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

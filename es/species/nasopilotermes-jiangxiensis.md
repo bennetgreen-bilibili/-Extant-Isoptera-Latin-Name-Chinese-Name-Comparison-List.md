@@ -26,7 +26,6 @@ type_locality: "China: Jiangxi Province: Jiulian Mountains"
 distribution_zh: "中国江西"
 distribution_en: "China (Jiangxi)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

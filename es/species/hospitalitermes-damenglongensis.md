@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Damenglong"
 distribution_zh: "中国云南、景洪大勐龙"
 distribution_en: "China (Yunnan), Jinghong (Damenglong)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

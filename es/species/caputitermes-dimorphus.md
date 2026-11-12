@@ -26,7 +26,6 @@ type_locality: "Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM [ 2.633S 
 distribution_zh: "巴西"
 distribution_en: "Brazil"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Cameroon: Mungo River"
 distribution_zh: "旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达"
 distribution_en: "Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

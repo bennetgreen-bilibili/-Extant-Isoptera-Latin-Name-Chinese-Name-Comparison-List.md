@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Hainan Island: Ya County"
 distribution_zh: "中国海南（崖县）、云南（保山）"
 distribution_en: "Hainan (Yaxian) and Yunnan (Baoshan), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

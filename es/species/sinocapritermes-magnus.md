@@ -26,7 +26,6 @@ type_locality: "China: Sichuan Province: Chonquing Shi"
 distribution_zh: "中国、贵州、广西、江西、重庆"
 distribution_en: "China, Guizhou, Guangxi, Jiangxi, Chongqing"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

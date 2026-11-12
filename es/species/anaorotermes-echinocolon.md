@@ -26,7 +26,6 @@ type_locality: "Nigeria: 30 miles from Lokoja on Okene Road"
 distribution_zh: "尼日利亚"
 distribution_en: "Nigeria"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

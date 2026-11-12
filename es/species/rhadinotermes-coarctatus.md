@@ -26,7 +26,6 @@ type_locality: "Malawi: Zomba"
 distribution_zh: "津巴布韦、马达加斯加、博茨瓦纳、刚果民主共和国、马拉维、纳米比亚、南非、坦桑尼亚、赞比亚"
 distribution_en: "Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

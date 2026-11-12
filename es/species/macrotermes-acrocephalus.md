@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Ruili"
 distribution_zh: "中国云南、瑞丽"
 distribution_en: "Yunnan, China, Ruili"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

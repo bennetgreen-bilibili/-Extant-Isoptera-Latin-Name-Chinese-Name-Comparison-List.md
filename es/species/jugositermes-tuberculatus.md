@@ -26,7 +26,6 @@ type_locality: "Cameroon: Bipindi"
 distribution_zh: "中非、喀麦隆、中非共和国、刚果民主共和国、加蓬、尼日利亚"
 distribution_en: "Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Nigeria"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

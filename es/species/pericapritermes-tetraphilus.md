@@ -28,7 +28,6 @@ distribution_en: "Guangdong (Shantou, Shaoguan), Fujian (Pinghe), Yunnan (Yunjin
 synonym_count: 1
 synonyms: "Capritermes orientalis Mathur & Sen-Sarma, 1961: 1-4"
 synonym_localities: "Myanmar: Maymyo"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

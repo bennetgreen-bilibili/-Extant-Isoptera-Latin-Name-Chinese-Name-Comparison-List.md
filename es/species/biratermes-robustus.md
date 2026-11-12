@@ -26,7 +26,6 @@ type_locality: "Brasil: Amapá: Serra do Navio [0.8955N 52.0022W]"
 distribution_zh: "法属圭亚那、巴西"
 distribution_en: "French Guiana, Brazil"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

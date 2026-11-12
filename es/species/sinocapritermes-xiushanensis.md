@@ -26,7 +26,6 @@ type_locality: "China: Sichuan Province: Xiushan County"
 distribution_zh: "中国、重庆"
 distribution_en: "China, Chongqing"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

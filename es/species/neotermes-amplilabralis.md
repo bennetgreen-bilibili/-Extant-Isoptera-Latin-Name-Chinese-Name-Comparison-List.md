@@ -23,7 +23,6 @@ type_locality: "China: Yunnan Province: Heko"
 distribution_zh: "云南（河口）"
 distribution_en: "Yunnan (Hekou)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

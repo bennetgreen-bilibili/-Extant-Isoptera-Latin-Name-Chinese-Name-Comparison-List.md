@@ -26,7 +26,6 @@ type_locality: "China: Zhejiang Province: Pujiang County"
 distribution_zh: "中国浙江"
 distribution_en: "China (Zhejiang)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

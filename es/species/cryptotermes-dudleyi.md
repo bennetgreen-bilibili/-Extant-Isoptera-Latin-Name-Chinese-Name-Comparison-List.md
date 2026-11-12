@@ -25,7 +25,6 @@ distribution_en: "Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, 
 synonym_count: 6
 synonyms: "Calotermes havilandi parasita Wasmann, 1910: 120; Calotermes ( Cryptotermes ) jacobsoni Holmgren, 1913: 48; Planocryptotermes nocens Light, 1921: 43-47; Cryptotermes thompsonae Snyder, 1922: 16-18; Cryptotermes ( Planocryptotermes ) primus Kemner, 1932: 151-153; Cryptotermes ( Planocryptotermes ) javanicus Kemner, 1934: 47-49"
 synonym_localities: "Mauritius: ?; Indonesia: Java: Gunung Gedeh; Philippines: Luzon: Manila; Panama: Ancon; Sri Lanka: ?; Indonesia: Java: Bogor"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

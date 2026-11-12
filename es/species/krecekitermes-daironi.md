@@ -26,7 +26,6 @@ type_locality: "Brasil: Rondonia: Porto Velho, Mutum-Paraná [ 9.4513S 64.8439W 
 distribution_zh: "南美洲、哥伦比亚、法属圭亚那"
 distribution_en: "South America, Colombia, French Guiana"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

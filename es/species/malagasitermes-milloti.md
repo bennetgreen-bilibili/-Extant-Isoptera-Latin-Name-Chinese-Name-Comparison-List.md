@@ -26,7 +26,6 @@ type_locality: "Madagascar: Tampoketsa d’Ankazobé, Ambohitantely"
 distribution_zh: "马达加斯加"
 distribution_en: "Madagascar"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

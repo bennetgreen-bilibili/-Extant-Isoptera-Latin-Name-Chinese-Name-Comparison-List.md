@@ -26,7 +26,6 @@ type_locality: "Peru: Puno: Chaquimayo [ 13.45S 70.4W ]"
 distribution_zh: "南美洲、巴西、哥伦比亚、法属圭亚那、特立尼达和多巴哥"
 distribution_en: "South America, Brazil, Colombia, French Guiana, Trinidad and Tobago"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

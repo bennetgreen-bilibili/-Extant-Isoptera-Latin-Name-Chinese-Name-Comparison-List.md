@@ -23,7 +23,6 @@ type_locality: "China: Zhejiang Province: Pingyang"
 distribution_zh: "浙江（平阳）"
 distribution_en: "Zhejiang (Pingyang)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

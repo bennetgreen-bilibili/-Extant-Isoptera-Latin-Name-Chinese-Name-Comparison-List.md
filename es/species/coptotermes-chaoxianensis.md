@@ -25,7 +25,6 @@ distribution_en: "Anhui, China"
 synonym_count: 1
 synonyms: "Coptotermes varicapitatus minutus Tsai & Li in Tsai et al., 1985: 112-113, 115-116"
 synonym_localities: "China: Guangdong Province: Zengeheng County"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

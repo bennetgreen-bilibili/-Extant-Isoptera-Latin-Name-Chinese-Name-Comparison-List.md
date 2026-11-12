@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Damenglong: Baka"
 distribution_zh: "云南（大勐龙、巴卡）、中国"
 distribution_en: "Yunnan (Damenglong, Baka), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

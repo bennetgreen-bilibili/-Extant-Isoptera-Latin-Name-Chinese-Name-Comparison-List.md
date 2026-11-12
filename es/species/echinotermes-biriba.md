@@ -26,7 +26,6 @@ type_locality: "Colombia: Caquetá, Belén de los Andaquíes [ 1.60794N 75.8868W
 distribution_zh: "南美洲、哥伦比亚、秘鲁"
 distribution_en: "South America, Colombia, Peru"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

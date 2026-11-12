@@ -23,7 +23,6 @@ type_locality: "China: Shaanxi: Baihe"
 distribution_zh: "中国陕西"
 distribution_en: "China (Shaanxi)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

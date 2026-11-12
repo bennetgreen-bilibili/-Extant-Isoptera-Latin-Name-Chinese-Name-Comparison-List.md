@@ -28,7 +28,6 @@ distribution_en: "Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Ho
 synonym_count: 1
 synonyms: "Anoplotermes ( Anoplotermes ) linearis Snyder, 1926: 53-54"
 synonym_localities: "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

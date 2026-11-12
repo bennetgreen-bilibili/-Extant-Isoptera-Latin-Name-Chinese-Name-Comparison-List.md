@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Jinggu County"
 distribution_zh: "中国云南、景谷"
 distribution_en: "Yunnan, China, Jinggu"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

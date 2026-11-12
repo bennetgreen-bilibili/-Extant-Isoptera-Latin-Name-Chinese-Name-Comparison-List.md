@@ -26,7 +26,6 @@ type_locality: "Mexico: Colima State: Jala"
 distribution_zh: "中美洲及加勒比、墨西哥"
 distribution_en: "Central America and Caribbean, Mexico"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

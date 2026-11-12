@@ -26,7 +26,6 @@ type_locality: "China: Guangdong Province: Dianbai County"
 distribution_zh: "中国广东、电白"
 distribution_en: "Guangdong, China, Dianbai"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

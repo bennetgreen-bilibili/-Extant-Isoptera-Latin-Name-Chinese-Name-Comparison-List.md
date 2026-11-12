@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Yongping County, Yuntai Mountain"
 distribution_zh: "中国、云南"
 distribution_en: "China, Yunnan"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

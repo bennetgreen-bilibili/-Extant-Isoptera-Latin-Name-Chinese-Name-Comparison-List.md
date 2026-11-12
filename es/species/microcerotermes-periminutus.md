@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Qiongzhong County"
 distribution_zh: "海南（琼中）"
 distribution_en: "Hainan (Qiongzhong)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

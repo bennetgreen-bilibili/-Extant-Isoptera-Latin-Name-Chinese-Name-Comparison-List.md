@@ -25,7 +25,6 @@ distribution_en: "Central America, Costa Rica, Panama, Honduras, Nicaragua, Sout
 synonym_count: 1
 synonyms: "Kalotermes ( Neotermes ) manni Snyder, 1926: 6"
 synonym_localities: "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

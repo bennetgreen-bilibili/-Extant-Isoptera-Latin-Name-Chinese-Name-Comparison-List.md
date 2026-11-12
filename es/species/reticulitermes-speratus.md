@@ -23,7 +23,6 @@ type_locality: "Japan: Hakodate, Kaga-Yashiki, Mohezi, Yedo"
 distribution_zh: "日本、朝鲜半岛、中国东北部、台湾、俄罗斯、美国"
 distribution_en: "Japan, Korean Peninsula, northeastern China, Taiwan, Russia, United States"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

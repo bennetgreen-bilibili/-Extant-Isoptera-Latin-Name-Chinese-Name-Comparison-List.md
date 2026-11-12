@@ -26,7 +26,6 @@ type_locality: "China: Hainan Island: Haikou City"
 distribution_zh: "海南（海口琼海）、中国"
 distribution_en: "Hainan (Haikou, Qionghai), China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

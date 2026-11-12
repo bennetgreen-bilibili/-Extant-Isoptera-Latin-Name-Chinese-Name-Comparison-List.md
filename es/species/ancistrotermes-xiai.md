@@ -26,7 +26,6 @@ type_locality: "China: Yunnan Province: Mengla County: Menglun"
 distribution_zh: "云南（勐腊勐仑600m）"
 distribution_en: "Yunnan (Mengla, Menglun 600m)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "China: Guizhou Province: Liping"
 distribution_zh: "贵州（黎平）"
 distribution_en: "Guizhou (Liping)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

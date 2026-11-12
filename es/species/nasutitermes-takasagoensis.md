@@ -28,7 +28,6 @@ distribution_en: "Japan, Guam, Taiwan, China, Christmas Island"
 synonym_count: 1
 synonyms: "Eutermes (Eutermes) piciceps Holmgren, 1912: 132-134"
 synonym_localities: "Australia: Christmas Island; Taiwan: Botel Tobago"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -28,7 +28,6 @@ distribution_en: "China (Taiwan)"
 synonym_count: 1
 synonyms: "Eutermes (Eutermes) watasei Holmgren, 1912: 134-136"
 synonym_localities: "Taiwan: ?"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

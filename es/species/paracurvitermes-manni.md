@@ -28,7 +28,6 @@ distribution_en: "Brazil, Bolivia"
 synonym_count: 1
 synonyms: "Curvitermes projectidens Mathews, 1977: 232-233"
 synonym_localities: "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

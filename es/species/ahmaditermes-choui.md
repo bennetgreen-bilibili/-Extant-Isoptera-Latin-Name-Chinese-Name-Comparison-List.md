@@ -26,7 +26,6 @@ type_locality: "China: Hong Kong"
 distribution_zh: "香港"
 distribution_en: "Hong Kong"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

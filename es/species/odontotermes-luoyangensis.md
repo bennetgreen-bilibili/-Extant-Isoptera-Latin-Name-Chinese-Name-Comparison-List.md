@@ -26,7 +26,6 @@ type_locality: "China: Henan Province: Luoyang City: Longmen Xishan"
 distribution_zh: "中国河南"
 distribution_en: "Henan, China"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

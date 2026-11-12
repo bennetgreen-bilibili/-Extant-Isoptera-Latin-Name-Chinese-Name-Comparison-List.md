@@ -23,7 +23,6 @@ type_locality: "China: Fujian Province: Pinghe County"
 distribution_zh: "中国福建、日本、中国台湾"
 distribution_en: "China (Fujian), Japan, China (Taiwan)"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

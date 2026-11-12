@@ -25,7 +25,6 @@ distribution_en: "southern Africa, South Africa, Mozambique, West Africa, Camero
 synonym_count: 2
 synonyms: "Calotermes lamanianus Sjöstedt, 1911: 137-139; Cryptotermes senegalensis Silvestri, 1914: 7-8"
 synonym_localities: "Democratic Republic of the Congo: Mukimbungu; Senegal: Thiès"
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->

@@ -26,7 +26,6 @@ type_locality: "Democratic Republic of the Congo: Mukimbungu"
 distribution_zh: "刚果（布）、喀麦隆、中非共和国、安哥拉、刚果民主共和国、加蓬、几内亚、尼日利亚"
 distribution_en: "Republic of the Congo (Brazzaville), Cameroon, Central African Republic, Angola, Democratic Republic of the Congo (Kinshasa), Gabon, Guinea, Nigeria"
 synonym_count: 0
-translation_pending: true
 ---
 
 <!-- AUTO:BEGIN -->
