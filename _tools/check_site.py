@@ -424,9 +424,28 @@ def check_counts(fields_by_slug: dict, taxonomy: dict) -> None:
     sitemap_urls = read(SITEMAP).splitlines()
     # /species/<slug>/photos/ 是「全部图片」页（.github/workflows/build_photo_pages.py），
     # 属于物种的附属页，不计入「每个 _species 页面恰好一条物种 URL」这个等式。
+    #
+    # 2026-11-12 起物种页按语言拆成三个独立页面：/species/<slug>/（中文，源文件 _species/）、
+    # /en/species/<slug>/、/es/species/<slug>/。所以每个语言各得一条 URL，三份都要齐。
     sitemap_species = [u for u in sitemap_urls if "/species/" in u and not u.endswith("/photos/")]
-    if len(sitemap_species) != page_count:
-        err("sitemap.txt", "物种 URL 数 %d 与 _species 页面数 %d 不一致" % (len(sitemap_species), page_count))
+    # 按 URL 里 /species/ 之前的前缀判断语言，不依赖 base_url：
+    # 「站点根」= 中文，「…/en」= 英文，「…/es」= 西班牙文。
+    buckets = {"zh": 0, "en": 0, "es": 0}
+    for url in sitemap_species:
+        head = url.rsplit("/species/", 1)[0]
+        if head.endswith("/en"):
+            buckets["en"] += 1
+        elif head.endswith("/es"):
+            buckets["es"] += 1
+        else:
+            buckets["zh"] += 1
+    for key, label in (("zh", "中文"), ("en", "英文"), ("es", "西班牙文")):
+        if buckets[key] != page_count:
+            err("sitemap.txt", "%s物种 URL 数 %d 与 _species 页面数 %d 不一致"
+                % (label, buckets[key], page_count))
+    if len(sitemap_species) != page_count * 3:
+        err("sitemap.txt", "物种 URL 数 %d 与三语物种页数 %d 不一致"
+            % (len(sitemap_species), page_count * 3))
     if index_species != page_count:
         err("search-index.json", "种/亚种条数 %d 与 _species 页面数 %d 不一致" % (index_species, page_count))
     if index_genera != len(taxonomy["genera"]):
